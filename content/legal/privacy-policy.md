@@ -1,10 +1,8 @@
 ---
-date: '2025-06-12T16:29:32+02:00'
+date: '2025-06-12T17:00:00+00:00'
 draft: false
 title: 'Privacy Policy'
 ---
-
-# Privacy Policy
 
 Hello, and welcome to our Privacy Policy. This Privacy Policy helps you to make informed decisions about your relationship with us, so please read it carefully. This Privacy Policy shall apply to the applications published in the Apple App Store by EVERAPPZ SL (“Everappz”) and that are accessible from mobile devices and personal computers (the "App"), and the use of the websites controlled by Everappz in general (the "Website”). App and Website together the "Services".
 

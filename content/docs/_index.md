@@ -1,5 +1,5 @@
 ---
-date: '2025-06-12T17:21:20+02:00'
+date: '2025-06-12T17:00:00+00:00'
 draft: false
-title: 'Docs'
+title: 'Documentation'
 ---

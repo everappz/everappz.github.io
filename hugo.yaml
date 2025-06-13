@@ -1,4 +1,332 @@
-baseURL: https://example.org/
-languageCode: en-us
-title: My New Hugo Site
-theme: hextra
+# GENERAL CONFIGURATION
+baseURL: https://everappz.github.io   # The full base URL of your website (used in link generation).
+languageCode: en-us                   # Default language/locale of your site.
+title: Everappz                       # Title of the website (used in HTML <title> and RSS).
+theme: hextra                         # The Hugo theme used.
+
+enableRobotsTXT: true                 # Generates a robots.txt file for web crawlers.
+enableGitInfo: true                   # Enables Git commit metadata (e.g., last updated).
+hasCJKLanguage: true                  # Enables better word segmentation for CJK (Chinese/Japanese/Korean) languages.
+
+services:
+  googleAnalytics:
+    ID: G-YQ0HZV1KF7
+
+# OUTPUT FORMATS
+outputs:
+  home: [HTML]                        # Output format for homepage.
+  page: [HTML]                        # Output format for individual pages.
+  section: [HTML, RSS]                # Output format for section listings (with RSS feeds).
+
+# MULTILINGUAL SUPPORT
+defaultContentLanguage: en           # Default language to use if none is selected.
+languages:
+  ar:
+    languageName: عربي
+    languageCode: ar
+    languageDirection: rtl
+    weight: 1
+    title: Everappz
+  ca:
+    languageName: Català
+    languageCode: ca
+    weight: 2
+    title: Everappz
+  cs:
+    languageName: Čeština
+    languageCode: cs
+    weight: 3
+    title: Everappz
+  da:
+    languageName: Dansk
+    languageCode: da
+    weight: 4
+    title: Everappz
+  de:
+    languageName: Deutsch
+    languageCode: de-DE
+    weight: 5
+    title: Everappz
+  el:
+    languageName: Ελληνικά
+    languageCode: el
+    weight: 6
+    title: Everappz
+  en:
+    languageName: English
+    languageCode: en
+    weight: 7
+    title: Everappz
+  es:
+    languageName: Español
+    languageCode: es
+    weight: 8
+    title: Everappz
+  fi:
+    languageName: Suomi
+    languageCode: fi
+    weight: 9
+    title: Everappz
+  fr:
+    languageName: Français
+    languageCode: fr-FR
+    weight: 10
+    title: Everappz
+  he:
+    languageName: עברית
+    languageCode: he
+    weight: 11
+    title: Everappz
+  hi:
+    languageName: हिन्दी
+    languageCode: hi
+    weight: 12
+    title: Everappz
+  hr:
+    languageName: Hrvatski
+    languageCode: hr
+    weight: 13
+    title: Everappz
+  hu:
+    languageName: Magyar
+    languageCode: hu
+    weight: 14
+    title: Everappz
+  id:
+    languageName: Bahasa Indonesia
+    languageCode: id
+    weight: 15
+    title: Everappz
+  it:
+    languageName: Italiano
+    languageCode: it
+    weight: 16
+    title: Everappz
+  ja:
+    languageName: 日本語
+    languageCode: ja
+    weight: 17
+    title: Everappz
+  ko:
+    languageName: 한국어
+    languageCode: ko
+    weight: 18
+    title: Everappz
+  ms:
+    languageName: Bahasa Melayu
+    languageCode: ms
+    weight: 19
+    title: Everappz
+  nl:
+    languageName: Nederlands
+    languageCode: nl-NL
+    weight: 20
+    title: Everappz
+  no:
+    languageName: Norsk
+    languageCode: no
+    weight: 21
+    title: Everappz
+  pl:
+    languageName: Polski
+    languageCode: pl
+    weight: 22
+    title: Everappz
+  pt:
+    languageName: Português
+    languageCode: pt-PT
+    weight: 23
+    title: Everappz
+  ro:
+    languageName: Română
+    languageCode: ro
+    weight: 24
+    title: Everappz
+  ru:
+    languageName: Русский
+    languageCode: ru
+    weight: 25
+    title: Everappz
+  sk:
+    languageName: Slovenčina
+    languageCode: sk
+    weight: 26
+    title: Everappz
+  sv:
+    languageName: Svenska
+    languageCode: sv
+    weight: 27
+    title: Everappz
+  th:
+    languageName: ไทย
+    languageCode: th
+    weight: 28
+    title: Everappz
+  tr:
+    languageName: Türkçe
+    languageCode: tr
+    weight: 29
+    title: Everappz
+  uk:
+    languageName: Українська
+    languageCode: uk
+    weight: 30
+    title: Everappz
+  vi:
+    languageName: Tiếng Việt
+    languageCode: vi
+    weight: 31
+    title: Everappz
+  zh-cn:
+    languageName: 简体中文
+    languageCode: zh-CN
+    weight: 32
+    title: Everappz
+  zh-hant:
+    languageName: 繁體中文
+    languageCode: zh-Hant
+    weight: 33
+    title: Everappz
+
+# # MODULES (Used to import theme or dependencies)
+# module:
+#   hugoVersion:
+#     extended: true                   # Use Hugo extended version (for SCSS, etc).
+#     min: "0.147.8"                   # Minimum required Hugo version.
+#
+#   workspace: hugo.work               # Workspace file used in development.
+#   imports:
+#     - path: github.com/imfing/hextra # Theme/module repository.
+
+# MARKUP SETTINGS
+markup:
+  highlight:
+    noClasses: false                 # Use inline styles instead of CSS classes for code highlighting. Set to false for cleaner HTML and better styling flexibility (e.g., when using Prism or custom syntax themes).
+
+  goldmark:                          # Goldmark markdown renderer settings
+    renderer:
+      unsafe: true                   # Allows raw HTML in markdown files.
+    extensions:
+      passthrough:                  # Enable math formatting with custom delimiters
+        delimiters:
+          block: [['$begin:math:display$', '$end:math:display$'], ["$$", "$$"]]  # For block math (LaTeX style)
+          inline: [['$begin:math:text$', '$end:math:text$']]               # For inline math
+        enable: true
+
+enableInlineShortcodes: true         # Allows use of shortcodes inline within text.
+
+# MENU CONFIGURATION
+menu:
+  main:                              # Top navigation bar items
+    - identifier: products
+      name: Products
+      pageRef: /products
+      weight: 1
+    - identifier: blog
+      name: Blog
+      pageRef: /blog
+      weight: 2
+    - identifier: docs
+      name: Documentation
+      pageRef: /docs
+      weight: 3
+    - identifier: support
+      name: Support
+      pageRef: /support
+      weight: 4
+    - identifier: legal
+      name: Legal
+      pageRef: /legal
+      weight: 5
+    - identifier: contact
+      name: Contact
+      pageRef: /contact
+      weight: 6
+    - identifier: about
+      name: About
+      pageRef: /about
+      weight: 7
+    - name: Search
+      weight: 8
+      params:
+        type: search
+
+  # sidebar:                           # Sidebar navigation
+  #   - identifier: more
+  #     name: More
+  #     params:
+  #       type: separator
+  #     weight: 1
+  #   - identifier: support
+  #     name: "Support"
+  #     pageRef: "/support"
+  #     weight: 2
+  #   - identifier: docs
+  #     name: "Documentation"
+  #     pageRef: "/docs"
+  #     weight: 3
+
+# THEME PARAMETERS
+params:
+  description: Join the Everappz family with more than 12 million downloads and thousands of customers who use our apps every day.
+
+  navbar:
+    displayTitle: false               # Show site title in the navbar.
+    displayLogo: true                # Show logo in the navbar.
+    logo:
+      path: images/logo.svg          # Light logo path.
+      dark: images/logo-dark.svg     # Dark mode logo.
+      link: /
+      width: 40
+      height: 40
+    width: wide                      # Navbar width: full | wide | normal
+
+  page:
+    width: normal                    # Page content width: full | wide | normal
+
+  theme:
+    default: system                  # Theme mode: light | dark | system (follows OS preference)
+    displayToggle: true              # Show toggle for light/dark mode.
+
+  footer:
+    enable: true                     # Enable site footer.
+    displayCopyright: true
+    displayPoweredBy: false
+    width: normal
+
+  displayUpdatedDate: true          # Show last modified date on pages.
+  dateFormat: "January 2, 2006"     # Date format string.
+
+  search:
+    enable: true                    # Enable search functionality.
+    type: flexsearch                # Search engine type (flexsearch is fast/local).
+    flexsearch:
+      index: content                # What to index: content | title | heading | summary
+      tokenize: forward             # Tokenization strategy: full | forward | reverse | strict
+
+  editURL:
+    enable: true                   # Show edit-on-GitHub link.
+    base: "https://github.com/everappz/everappz.github.io/edit/main/content"  # Base URL for editing.
+
+  blog:
+    list:
+      displayTags: true             # Show tags in blog list.
+      sortBy: date                  # Sort blog list by this field.
+      sortOrder: desc               # Sort order: asc | desc
+
+    article:
+      displayPagination: true       # Show pagination links in blog posts.
+
+  highlight:
+    copy:
+      enable: true                  # Enable copy-to-clipboard button for code blocks.
+      display: hover                # Show copy button: always | on hover
+
+  # comments:
+  #   enable: false                   # Enable comment system.
+  #   type: giscus                    # Comment provider (Giscus for GitHub-based comments).
+  #   giscus:
+  #     repo: imfing/hextra
+  #     repoId: R_kgDOJ9fJag
+  #     category: General
+  #     categoryId: DIC_kwDOJ9fJas4CY7gW
