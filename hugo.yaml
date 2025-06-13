@@ -1,6 +1,6 @@
 # GENERAL CONFIGURATION
 baseURL: https://everappz.github.io   # The full base URL of your website (used in link generation).
-languageCode: en-us                   # Default language/locale of your site.
+languageCode: en                      # Default language/locale of your site.
 title: Everappz                       # Title of the website (used in HTML <title> and RSS).
 theme: hextra                         # The Hugo theme used.
 
