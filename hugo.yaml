@@ -19,174 +19,174 @@ outputs:
   section: [HTML, RSS]                # Output format for section listings (with RSS feeds).
 
 # MULTILINGUAL SUPPORT
-defaultContentLanguage: en           # Default language to use if none is selected.
+defaultContentLanguage: en             # Default language to use if none is selected.
 languages:
-  ar:
-    languageName: عربي
-    languageCode: ar
-    languageDirection: rtl
-    weight: 1
-    title: Everappz
-  ca:
-    languageName: Català
-    languageCode: ca
-    weight: 2
-    title: Everappz
-  cs:
-    languageName: Čeština
-    languageCode: cs
-    weight: 3
-    title: Everappz
-  da:
-    languageName: Dansk
-    languageCode: da
-    weight: 4
-    title: Everappz
-  de:
-    languageName: Deutsch
-    languageCode: de-DE
-    weight: 5
-    title: Everappz
-  el:
-    languageName: Ελληνικά
-    languageCode: el
-    weight: 6
-    title: Everappz
+#   ar:
+#     languageName: عربي
+#     languageCode: ar
+#     languageDirection: rtl
+#     weight: 1
+#     title: Everappz
+#   ca:
+#     languageName: Català
+#     languageCode: ca
+#     weight: 2
+#     title: Everappz
+#   cs:
+#     languageName: Čeština
+#     languageCode: cs
+#     weight: 3
+#     title: Everappz
+#   da:
+#     languageName: Dansk
+#     languageCode: da
+#     weight: 4
+#     title: Everappz
+#   de:
+#     languageName: Deutsch
+#     languageCode: de
+#     weight: 5
+#     title: Everappz
+#   el:
+#     languageName: Ελληνικά
+#     languageCode: el
+#     weight: 6
+#     title: Everappz
   en:
     languageName: English
     languageCode: en
     weight: 7
     title: Everappz
-  es:
-    languageName: Español
-    languageCode: es
-    weight: 8
-    title: Everappz
-  fi:
-    languageName: Suomi
-    languageCode: fi
-    weight: 9
-    title: Everappz
-  fr:
-    languageName: Français
-    languageCode: fr-FR
-    weight: 10
-    title: Everappz
-  he:
-    languageName: עברית
-    languageCode: he
-    weight: 11
-    title: Everappz
-  hi:
-    languageName: हिन्दी
-    languageCode: hi
-    weight: 12
-    title: Everappz
-  hr:
-    languageName: Hrvatski
-    languageCode: hr
-    weight: 13
-    title: Everappz
-  hu:
-    languageName: Magyar
-    languageCode: hu
-    weight: 14
-    title: Everappz
-  id:
-    languageName: Bahasa Indonesia
-    languageCode: id
-    weight: 15
-    title: Everappz
-  it:
-    languageName: Italiano
-    languageCode: it
-    weight: 16
-    title: Everappz
-  ja:
-    languageName: 日本語
-    languageCode: ja
-    weight: 17
-    title: Everappz
-  ko:
-    languageName: 한국어
-    languageCode: ko
-    weight: 18
-    title: Everappz
-  ms:
-    languageName: Bahasa Melayu
-    languageCode: ms
-    weight: 19
-    title: Everappz
-  nl:
-    languageName: Nederlands
-    languageCode: nl-NL
-    weight: 20
-    title: Everappz
-  no:
-    languageName: Norsk
-    languageCode: no
-    weight: 21
-    title: Everappz
-  pl:
-    languageName: Polski
-    languageCode: pl
-    weight: 22
-    title: Everappz
-  pt:
-    languageName: Português
-    languageCode: pt-PT
-    weight: 23
-    title: Everappz
-  ro:
-    languageName: Română
-    languageCode: ro
-    weight: 24
-    title: Everappz
-  ru:
-    languageName: Русский
-    languageCode: ru
-    weight: 25
-    title: Everappz
-  sk:
-    languageName: Slovenčina
-    languageCode: sk
-    weight: 26
-    title: Everappz
-  sv:
-    languageName: Svenska
-    languageCode: sv
-    weight: 27
-    title: Everappz
-  th:
-    languageName: ไทย
-    languageCode: th
-    weight: 28
-    title: Everappz
-  tr:
-    languageName: Türkçe
-    languageCode: tr
-    weight: 29
-    title: Everappz
-  uk:
-    languageName: Українська
-    languageCode: uk
-    weight: 30
-    title: Everappz
-  vi:
-    languageName: Tiếng Việt
-    languageCode: vi
-    weight: 31
-    title: Everappz
-  zh-cn:
-    languageName: 简体中文
-    languageCode: zh-CN
-    weight: 32
-    title: Everappz
-  zh-hant:
-    languageName: 繁體中文
-    languageCode: zh-Hant
-    weight: 33
-    title: Everappz
+  # es:
+  #   languageName: Español
+  #   languageCode: es
+  #   weight: 8
+  #   title: Everappz
+  # fi:
+  #   languageName: Suomi
+  #   languageCode: fi
+  #   weight: 9
+  #   title: Everappz
+  # fr:
+  #   languageName: Français
+  #   languageCode: fr
+  #   weight: 10
+  #   title: Everappz
+  # he:
+  #   languageName: עברית
+  #   languageCode: he
+  #   weight: 11
+  #   title: Everappz
+  # hi:
+  #   languageName: हिन्दी
+  #   languageCode: hi
+  #   weight: 12
+  #   title: Everappz
+  # hr:
+  #   languageName: Hrvatski
+  #   languageCode: hr
+  #   weight: 13
+  #   title: Everappz
+  # hu:
+  #   languageName: Magyar
+  #   languageCode: hu
+  #   weight: 14
+  #   title: Everappz
+  # id:
+  #   languageName: Bahasa Indonesia
+  #   languageCode: id
+  #   weight: 15
+  #   title: Everappz
+  # it:
+  #   languageName: Italiano
+  #   languageCode: it
+  #   weight: 16
+  #   title: Everappz
+  # ja:
+  #   languageName: 日本語
+  #   languageCode: ja
+  #   weight: 17
+  #   title: Everappz
+  # ko:
+  #   languageName: 한국어
+  #   languageCode: ko
+  #   weight: 18
+  #   title: Everappz
+  # ms:
+  #   languageName: Bahasa Melayu
+  #   languageCode: ms
+  #   weight: 19
+  #   title: Everappz
+  # nl:
+  #   languageName: Nederlands
+  #   languageCode: nl
+  #   weight: 20
+  #   title: Everappz
+  # no:
+  #   languageName: Norsk
+  #   languageCode: no
+  #   weight: 21
+  #   title: Everappz
+  # pl:
+  #   languageName: Polski
+  #   languageCode: pl
+  #   weight: 22
+  #   title: Everappz
+  # pt:
+  #   languageName: Português
+  #   languageCode: pt
+  #   weight: 23
+  #   title: Everappz
+  # ro:
+  #   languageName: Română
+  #   languageCode: ro
+  #   weight: 24
+  #   title: Everappz
+  # ru:
+  #   languageName: Русский
+  #   languageCode: ru
+  #   weight: 25
+  #   title: Everappz
+  # sk:
+  #   languageName: Slovenčina
+  #   languageCode: sk
+  #   weight: 26
+  #   title: Everappz
+  # sv:
+  #   languageName: Svenska
+  #   languageCode: sv
+  #   weight: 27
+  #   title: Everappz
+  # th:
+  #   languageName: ไทย
+  #   languageCode: th
+  #   weight: 28
+  #   title: Everappz
+  # tr:
+  #   languageName: Türkçe
+  #   languageCode: tr
+  #   weight: 29
+  #   title: Everappz
+  # uk:
+  #   languageName: Українська
+  #   languageCode: uk
+  #   weight: 30
+  #   title: Everappz
+  # vi:
+  #   languageName: Tiếng Việt
+  #   languageCode: vi
+  #   weight: 31
+  #   title: Everappz
+  # zh-cn:
+  #   languageName: 简体中文
+  #   languageCode: zh-cn
+  #   weight: 32
+  #   title: Everappz
+  # zh-tw:
+  #   languageName: 繁體中文
+  #   languageCode: zh-tw
+  #   weight: 33
+  #   title: Everappz
 
 # # MODULES (Used to import theme or dependencies)
 # module:

@@ -4,11 +4,9 @@ draft: false
 title: 'Privacy Policy'
 ---
 
-Hello, and welcome to our Privacy Policy. This Privacy Policy helps you to make informed decisions about your relationship with us, so please read it carefully. This Privacy Policy shall apply to the applications published in the Apple App Store by EVERAPPZ SL (“Everappz”) and that are accessible from mobile devices and personal computers (the "App"), and the use of the websites controlled by Everappz in general (the "Website”). App and Website together the "Services".
-
 ## Introduction
 
-Thanks for choosing our Apps. Everappz (“we”, “us”, “our”) needs to collect some information about you, and this Privacy Policy is where we describe the information we collect, what we do with it, and how you can manage and control the use of your information. By using or interacting with the Services, you are entering into a binding contract with us and consenting to the use of your information as explained in this Privacy Policy. If you don't agree with these terms, then please don't use our Services.
+Hello, and welcome to our Privacy Policy. This Privacy Policy helps you to make informed decisions about your relationship with us, so please read it carefully. This Privacy Policy shall apply to the applications published in the Apple App Store by EVERAPPZ SL (“Everappz”) and that are accessible from mobile devices and personal computers (the "App"), and the use of the websites controlled by Everappz in general (the "Website”). App and Website together the "Services".
 
 ## Data Controller
 
@@ -94,3 +92,7 @@ At EVERAPPZ SL, we have adopted all necessary technical and organizational measu
 ## Notification of Privacy Statement Changes
 
 We may update this privacy statement to reflect changes to our information practices. If we make any material changes, we will notify you by email or by means of a notice on this Website or our Apps. We encourage you to periodically review this page for the latest information on our privacy practices.
+
+## Contact
+
+You can contact us about this privacy statement by emailing [admin@everappz.com](mailto:admin@everappz.com).
