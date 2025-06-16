@@ -293,8 +293,8 @@ params:
       path: images/logo.svg          # Light logo path.
       dark: images/logo-dark.svg     # Dark mode logo.
       link: /
-      width: 40
-      height: 40
+      width: 36
+      height: 36
     width: wide                      # Navbar width: full | wide | normal
 
   page:
