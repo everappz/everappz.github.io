@@ -326,13 +326,30 @@ params:
 
   blog:
     list:
-      displayTags: true             # Show tags in blog list.
-      sortBy: date                  # Sort blog list by this field.
-      sortOrder: desc               # Sort order: asc | desc
-
+      displayTags: true           # Show tags in the blog list.
+      sortBy: date                # Field to sort blog posts by: date, title, weight, etc.
+      sortOrder: desc             # Sort order: asc (ascending) or desc (descending).
+      displayAuthor: true         # Show author name in the blog list.
+      displaySummary: true        # Show summary of posts in the blog list.
+      displayDate: true           # Show publication date in the blog list.
+      displayReadingTime: true    # Show estimated reading time in the blog list.
+      displayCategories: true     # Show categories in the blog list.
+      displayPagination: true     # Enable pagination on the blog list page.
+      postsPerPage: 10            # Number of posts per page in pagination.
     article:
-      displayPagination: true       # Show pagination links in blog posts.
+      displayTags: true           # Show tags on individual blog posts.
+      displayAuthor: true         # Show author name on individual blog posts.
+      displayDate: true           # Show publication date on individual blog posts.
+      displayReadingTime: true    # Show estimated reading time on individual blog posts.
+      displayCategories: true     # Show categories on individual blog posts.
+      displayPagination: true     # Show pagination links on individual blog posts.
+      showRelatedPosts: true      # Display related posts section.
+      showComments: true          # Enable comments section.
+      enableShareButtons: true    # Show social share buttons.
 
+  toc:
+    displayTags: true
+    
   highlight:
     copy:
       enable: true                  # Enable copy-to-clipboard button for code blocks.
