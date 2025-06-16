@@ -250,6 +250,24 @@ menu:
       weight: 8
       params:
         type: search
+# External social links
+    - identifier: twitter
+      params:
+        icon: icons8-sf-regular-filled-twitter
+      url: "https://x.com/Everappz"
+      weight: 9
+    - identifier: facebook
+      params:
+        icon: icons8-sf-regular-filled-facebook
+      url: "https://www.facebook.com/everappz"
+      weight: 10
+    - identifier: reddit
+      params:
+        icon: icons8-sf-regular-filled-reddit
+      url: "https://www.reddit.com/r/everappz/"
+      weight: 11
+
+
 
   # sidebar:                           # Sidebar navigation
   #   - identifier: more
