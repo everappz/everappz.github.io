@@ -267,8 +267,6 @@ menu:
       url: "https://www.reddit.com/r/everappz/"
       weight: 11
 
-
-
   # sidebar:                           # Sidebar navigation
   #   - identifier: more
   #     name: More
@@ -286,7 +284,7 @@ menu:
 
 # THEME PARAMETERS
 params:
-  description: Join the Everappz family with more than 12 million downloads and thousands of customers who use our apps every day.
+  description: Join the Everappz family with more than 14 million downloads and thousands of customers who use our apps every day.
 
   navbar:
     displayTitle: false               # Show site title in the navbar.

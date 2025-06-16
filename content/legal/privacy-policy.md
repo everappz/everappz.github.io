@@ -36,7 +36,7 @@ EVERAPPZ SL is present on Facebook, Instagram, YouTube, Twitter, TikTok, LinkedI
 
 No automated decision-making is performed with your data.
 
-The website may use cookies; please review our [Cookie Policy](https://www.everappz.com/cookie-policy).
+The website may use cookies; please review our [Cookie Policy](/legal/cookie-policy).
 
 ## Legal Basis for Data Processing
 
