@@ -218,36 +218,40 @@ enableInlineShortcodes: true         # Allows use of shortcodes inline within te
 # MENU CONFIGURATION
 menu:
   main:                              # Top navigation bar items
+    - identifier: home
+      name: Home
+      pageRef: /
+      weight: 1
     - identifier: products
       name: Products
       pageRef: /products
-      weight: 1
+      weight: 2
     - identifier: blog
       name: Blog
       pageRef: /blog
-      weight: 2
+      weight: 3
     - identifier: docs
       name: Documentation
       pageRef: /docs
-      weight: 3
+      weight: 4
     - identifier: support
       name: Support
       pageRef: /support
-      weight: 4
+      weight: 5
     - identifier: legal
       name: Legal
       pageRef: /legal
-      weight: 5
+      weight: 6
     - identifier: contact
       name: Contact
       pageRef: /contact
-      weight: 6
+      weight: 7
     - identifier: about
       name: About
       pageRef: /about
-      weight: 7
-    - name: Search
       weight: 8
+    - name: Search
+      weight: 9
       params:
         type: search
 # External social links
@@ -255,17 +259,17 @@ menu:
       params:
         icon: icons8-sf-regular-filled-twitter
       url: "https://x.com/Everappz"
-      weight: 9
+      weight: 10
     - identifier: facebook
       params:
         icon: icons8-sf-regular-filled-facebook
       url: "https://www.facebook.com/everappz"
-      weight: 10
+      weight: 11
     - identifier: reddit
       params:
         icon: icons8-sf-regular-filled-reddit
       url: "https://www.reddit.com/r/everappz/"
-      weight: 11
+      weight: 12
 
   # sidebar:                           # Sidebar navigation
   #   - identifier: more
@@ -349,7 +353,7 @@ params:
 
   toc:
     displayTags: true
-    
+
   highlight:
     copy:
       enable: true                  # Enable copy-to-clipboard button for code blocks.

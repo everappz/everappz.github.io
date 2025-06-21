@@ -20,6 +20,7 @@ To save time and get instant answers, please check out our most helpful resource
 {{< cards >}}
   {{< card icon="book-open" link="/docs/guide" title="User Guide" >}}
   {{< card icon="question-mark-circle" link="/docs/faq" title="Frequently Asked Questions" >}}
+  {{< card icon="light-bulb" link="/docs/howto" title="How-To" >}}
 {{< /cards >}}
 
 These guides are designed to help you get the most out of our apps — from setup to advanced features.

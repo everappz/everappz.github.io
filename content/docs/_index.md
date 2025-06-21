@@ -13,11 +13,13 @@ If you're new or looking to learn more, our guides and FAQs are a great place to
 {{< cards >}}
   {{< card icon="book-open" link="/docs/guide" title="User Guide" >}}
   {{< card icon="question-mark-circle" link="/docs/faq" title="Frequently Asked Questions" >}}
+  {{< card icon="light-bulb" link="/docs/howto" title="How-To" >}}
 {{< /cards >}}
 
 - The **User Guide** helps you install, configure, and make the most of our apps.
-- The **Frequently Asked Questions** covers the most common questions we receive, saving you time.
-
+- The **Frequently Asked Questions** cover the most common inquiries we receive, saving you time.
+- The **How-To** provide step-by-step instructions for specific tasks and features — perfect for quick reference or troubleshooting.
+  
 ## Looking for Help?
 
 If your question isn’t answered in the documentation, please visit our [Support](/support) page to get in touch with us directly. We’re happy to assist you.

@@ -1,7 +1,6 @@
 ---
 title: "Audio Streaming and Caching in iOS using AVAssetResourceLoader and AVPlayer"
 date: 2015-06-20
-updated: 2024-07-16
 description: "Learn how to stream and cache audio in iOS using AVAssetResourceLoader and AVPlayer, with a real-life example from Evermusic 1.5."
 keywords: ["streaming", "AVURLAsset", "iOS", "SDK", "AVAssetResourceLoader", "Framework", "AVAssetResourceLoadingRequest", "AVPlayer", "AVFoundation"]
 tags: ["streaming", "AVURLAsset", "iOS", "SDK", "AVAssetResourceLoader", "Framework", "AVAssetResourceLoadingRequest", "AVPlayer", "AVFoundation"]
@@ -9,8 +8,10 @@ draft: false
 sidebar:
   exclude: true
 cascade:
-  type: blog
+  type: docs
 ---
+
+![](diagram.png)
 
 ## How to Use AVAssetResourceLoaderDelegate with Example App
 
@@ -29,6 +30,8 @@ The key insight here is that `AVPlayer` leverages `resourceLoader` when it doesn
 
 ## Creating Your Custom AVPlayer
 
+Now, let's create a custom AVPlayer using a different scheme:
+
 ```objc
 NSURL *url = [NSURL URLWithString:@"customscheme://host/audio.mp3"];
 AVURLAsset *asset = [AVURLAsset URLAssetWithURL:url options:nil];
@@ -39,13 +42,18 @@ self.player = [AVPlayer playerWithPlayerItem:item];
 [self addObserversForPlayer];
 ```
 
+These lines define a custom URL with your scheme, set up an AVURLAsset with a delegate on the main queue, create an AVPlayerItem from the asset, and finally, initialize an AVPlayer.
+
 ## Custom Resource Loader
+
+Next, create a custom class, such as LSFilePlayerResourceLoader, responsible for loading data from the server and passing it back to AVURLAsset. This class should have two parameters in its init method: the requested file URL and an object (e.g., YDSession) responsible for fetching data from the cloud server.
+
+You'll store LSFilePlayerResourceLoader objects in a dictionary, using the resource URL as the key. The AVAssetResourceLoaderDelegate implementation will look like this:
 
 Create a class `LSFilePlayerResourceLoader` to handle data loading from the server and forward it to `AVURLAsset`.
 
 ```objc
-- (BOOL)resourceLoader:(AVAssetResourceLoader *)resourceLoader 
-shouldWaitForLoadingOfRequestedResource:(AVAssetResourceLoadingRequest *)loadingRequest {
+- (BOOL)resourceLoader:(AVAssetResourceLoader *)resourceLoader shouldWaitForLoadingOfRequestedResource:(AVAssetResourceLoadingRequest *)loadingRequest {
     NSURL *resourceURL = [loadingRequest.request URL];
     if ([resourceURL.scheme isEqualToString:@"customscheme"]) {
         LSFilePlayerResourceLoader *loader = 
@@ -61,15 +69,15 @@ shouldWaitForLoadingOfRequestedResource:(AVAssetResourceLoadingRequest *)loading
     return NO;
 }
 
-- (void)resourceLoader:(AVAssetResourceLoader *)resourceLoader 
-didCancelLoadingRequest:(AVAssetResourceLoadingRequest *)loadingRequest {
-    LSFilePlayerResourceLoader *loader = 
-    [self resourceLoaderForRequest:loadingRequest];
+- (void)resourceLoader:(AVAssetResourceLoader *)resourceLoader didCancelLoadingRequest:(AVAssetResourceLoadingRequest *)loadingRequest {
+    LSFilePlayerResourceLoader *loader = [self resourceLoaderForRequest:loadingRequest];
     [loader removeRequest:loadingRequest];
 }
 ```
 
-### `LSFilePlayerResourceLoader` Interface
+These methods check the resourceURL scheme, get or create an LSFilePlayerResourceLoader, and add the loading request to the loader. If the scheme is not recognized, it returns NO.
+
+## LSFilePlayerResourceLoader Interface
 
 ```objc
 @interface LSFilePlayerResourceLoader : NSObject
@@ -90,17 +98,17 @@ didCancelLoadingRequest:(AVAssetResourceLoadingRequest *)loadingRequest {
 @protocol LSFilePlayerResourceLoaderDelegate <NSObject>
 
 @optional
-- (void)filePlayerResourceLoader:(LSFilePlayerResourceLoader *)resourceLoader 
-              didFailWithError:(NSError *)error;
-- (void)filePlayerResourceLoader:(LSFilePlayerResourceLoader *)resourceLoader 
-               didLoadResource:(NSURL *)resourceURL;
+- (void)filePlayerResourceLoader:(LSFilePlayerResourceLoader *)resourceLoader didFailWithError:(NSError *)error;
+- (void)filePlayerResourceLoader:(LSFilePlayerResourceLoader *)resourceLoader didLoadResource:(NSURL *)resourceURL;
 
 @end
 ```
 
+This interface provides methods for managing requests in the loader queue and defines delegate methods for handling resource loading status.
+
 ## Data Loading Operations
 
-When a request is added, two operations start:
+Now, when you add a loading request to the queue, it's saved in the pendingRequests array, and a data loading operation starts. This operation involves two steps: contentInfoOperation and dataOperation.
 
 - **contentInfoOperation**: identifies content length, type, and range support.
 - **dataOperation**: loads file data using `requestedOffset` from the request.
@@ -113,14 +121,8 @@ Downloaded data is cached on disk using a temporary file. When requested, it's r
 
 `processPendingRequests` handles filling `contentInformationRequest` and delivering cached data. Completed requests are removed from the queue.
 
----
+## Final Thoughts
 
-This approach enables secure, flexible streaming with custom header support — ideal for cloud services like Yandex.Disk and WebDAV where standard `AVPlayer` fails.
+This should give you a solid foundation for implementing `AVAssetResourceLoaderDelegate` with your app, specifically for streaming audio from cloud services that require custom handling of authorization headers.
 
-**Tip**: This technique essentially turns your app into a mini proxy for audio requests, giving you control over authentication and caching.
-
----
-
-**Tags**: AVFoundation, AVURLAsset, audio streaming, AVPlayer, resource loader, iOS media framework, cloud playback, offline caching, AVAssetResourceLoaderDelegate
-
-**Category**: Development
+Please note that this is a complex and detailed topic, and this tutorial provides a high-level overview. The source code mentioned in the tutorial is available on [GitHub](http://github.com/leshkoapps/AVAssetResourceLoader) for further reference and exploration. 
