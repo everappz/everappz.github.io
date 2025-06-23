@@ -1,98 +1,92 @@
 #!/usr/bin/env python3
 import os
-import re
+import sys
+import json
 import time
-import shutil
+import random
 import urllib.request
-import xml.etree.ElementTree as ET
-from urllib.parse import urlparse
+import urllib.error
 from bs4 import BeautifulSoup
 
-# === CONFIG ===
-SITEMAP_URL = "https://www.everappz.com/blog-posts-sitemap.xml"
-BASE_OUTPUT_DIR = "downloads"
-GPT_CONVERTER_SCRIPT = "generate_md.py"  # External script that converts _index.html to _index.md
+# === CONFIGURATION ===
+API_MODEL = "gpt-4o"
+API_KEY_FILE = "OPENAI_API_KEY.TXT"
+DISABLE_API_REQUESTS = False
 
-# === UTILITIES ===
+def read_openai_api_key():
+    with open(API_KEY_FILE, "r", encoding="utf-8") as f:
+        return f.read().strip()
 
-def fetch_url(url):
-    with urllib.request.urlopen(url) as response:
-        return response.read()
+def call_openai_to_convert_to_markdown(html_content, api_key=None):
+    if DISABLE_API_REQUESTS:
+        return html_content
 
-def sanitize_filename(filename):
-    return re.sub(r'[<>:"/\\|?*]', '_', filename)
+    if api_key is None:
+        api_key = read_openai_api_key()
 
-def get_last_path_components(url, levels=2):
-    parts = urlparse(url).path.strip("/").split("/")
-    return os.path.join(*parts[-levels:])
+    time.sleep(round(random.uniform(1.0, 2.0), 2))
 
-def download_image(img_url, dest_folder):
+    system_prompt = (
+        "You are a tool that converts HTML content from blog posts into well-structured Markdown (.md) format. "
+        "Convert all visible text content and replace all <img> tags with Markdown image syntax using their local filenames. "
+        "Retain the content hierarchy using proper markdown headers, and preserve paragraph structure. "
+        "Make sure image alt attributes (if any) are preserved as the alt text in the markdown image syntax."
+    )
+
+    data = {
+        "model": API_MODEL,
+        "temperature": 0.3,
+        "messages": [
+            {"role": "system", "content": system_prompt},
+            {"role": "user", "content": html_content}
+        ]
+    }
+
+    request = urllib.request.Request(
+        "https://api.openai.com/v1/chat/completions",
+        data=json.dumps(data).encode("utf-8"),
+        headers={
+            "Authorization": f"Bearer {api_key}",
+            "Content-Type": "application/json"
+        }
+    )
+
     try:
-        parsed = urlparse(img_url)
-        filename = os.path.basename(parsed.path)
-        dest_path = os.path.join(dest_folder, filename)
-        print(f"📥 Downloading image: {img_url}")
-        urllib.request.urlretrieve(img_url, dest_path)
-        return filename
+        with urllib.request.urlopen(request) as response:
+            result = json.load(response)
+            markdown = result["choices"][0]["message"]["content"].strip()
+            return markdown
     except Exception as e:
-        print(f"⚠️ Failed to download image: {img_url} - {e}")
-        return None
+        print(f"❌ OpenAI API request failed: {e}")
+        return ""
 
-def extract_content_wrapper(html):
+def extract_html_content(file_path):
+    with open(file_path, "r", encoding="utf-8") as f:
+        html = f.read()
     soup = BeautifulSoup(html, "html.parser")
-    wrapper = soup.find("div", id="content-wrapper")
-    return str(wrapper) if wrapper else ""
+    return soup.prettify()
 
-def update_image_sources(content_html, folder):
-    soup = BeautifulSoup(content_html, "html.parser")
-    for img in soup.find_all("img"):
-        src = img.get("src")
-        if src:
-            filename = download_image(src, folder)
-            if filename:
-                img["src"] = filename
-    return str(soup)
+def write_markdown_file(output_path, markdown_text):
+    with open(output_path, "w", encoding="utf-8") as f:
+        f.write(markdown_text)
+    print(f"✅ Markdown saved to {output_path}")
 
-def parse_sitemap_and_process():
-    os.makedirs(BASE_OUTPUT_DIR, exist_ok=True)
-    sitemap_xml = fetch_url(SITEMAP_URL)
-    root = ET.fromstring(sitemap_xml)
-    ns = {"ns": "http://www.sitemaps.org/schemas/sitemap/0.9"}
+def main():
+    if len(sys.argv) != 2:
+        print("Usage: python3 generate_md.py path/to/_index.html")
+        return
 
-    for url_elem in root.findall("ns:url", ns):
-        loc_elem = url_elem.find("ns:loc", ns)
-        if loc_elem is not None:
-            page_url = loc_elem.text.strip()
-            print(f"\n🔗 Processing: {page_url}")
+    html_file = sys.argv[1]
+    if not os.path.exists(html_file):
+        print(f"❌ File not found: {html_file}")
+        return
 
-            try:
-                # Build output folder
-                subpath = get_last_path_components(page_url)
-                folder_path = os.path.join(BASE_OUTPUT_DIR, subpath)
-                os.makedirs(folder_path, exist_ok=True)
-
-                # Download and extract content
-                page_html = fetch_url(page_url).decode("utf-8")
-                wrapper_html = extract_content_wrapper(page_html)
-
-                if not wrapper_html:
-                    print(f"❌ No <div id='content-wrapper'> found in {page_url}")
-                    continue
-
-                updated_html = update_image_sources(wrapper_html, folder_path)
-
-                # Write to _index.html
-                index_html_path = os.path.join(folder_path, "_index.html")
-                with open(index_html_path, "w", encoding="utf-8") as f:
-                    f.write(updated_html)
-                print(f"✅ Saved: {index_html_path}")
-
-                # Call external GPT Markdown converter
-                print(f"⚙️  Converting to markdown using: {GPT_CONVERTER_SCRIPT}")
-                os.system(f"python3 {GPT_CONVERTER_SCRIPT} \"{index_html_path}\"")
-
-            except Exception as e:
-                print(f"❌ Failed to process {page_url}: {e}")
+    print(f"🔍 Converting HTML to Markdown: {html_file}")
+    html_content = extract_html_content(html_file)
+    markdown = call_openai_to_convert_to_markdown(html_content)
+    if markdown:
+        md_path = os.path.join(os.path.dirname(html_file), "_index.md")
+        write_markdown_file(md_path, markdown)
 
 if __name__ == "__main__":
-    parse_sitemap_and_process()
+    main()
