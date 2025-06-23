@@ -2,8 +2,8 @@
 title: "Audio Streaming and Caching in iOS using AVAssetResourceLoader and AVPlayer"
 date: 2015-06-20
 description: "Learn how to stream and cache audio in iOS using AVAssetResourceLoader and AVPlayer, with a real-life example from Evermusic 1.5."
-keywords: ["streaming", "AVURLAsset", "iOS", "SDK", "AVAssetResourceLoader", "Framework", "AVAssetResourceLoadingRequest", "AVPlayer", "AVFoundation"]
-tags: ["streaming", "AVURLAsset", "iOS", "SDK", "AVAssetResourceLoader", "Framework", "AVAssetResourceLoadingRequest", "AVPlayer", "AVFoundation"]
+keywords: ["iOS audio streaming", "AVAssetResourceLoaderDelegate", "AVURLAsset", "AVPlayer", "AVFoundation", "AVAssetResourceLoadingRequest", "custom audio player", "cloud streaming", "media framework", "Evermusic"]
+tags: ["streaming", "AVPlayer", "AVFoundation", "iOS", "AVAssetResourceLoader", "AVAssetResourceLoaderDelegate", "AVAssetResourceLoadingRequest", "AVURLAsset", "audio", "tutorial"]
 draft: false
 sidebar:
   exclude: true
@@ -13,7 +13,7 @@ cascade:
 
 ![](diagram.png)
 
-## How to Use AVAssetResourceLoaderDelegate with Example App
+## Intro
 
 Welcome to this tutorial where you'll learn how to harness the power of `AVAssetResourceLoaderDelegate` with a real-life example from our app, Evermusic 1.5. We recently introduced the ability to stream music from Yandex.Disk and Web Dav, in addition to Dropbox and Google Drive. If you're curious about how we implemented these services in Evermusic and how you can utilize `AVAssetResourceLoader` and `AVPlayer` in your own apps, read on.
 

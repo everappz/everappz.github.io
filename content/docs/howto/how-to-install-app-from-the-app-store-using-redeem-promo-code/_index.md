@@ -2,7 +2,6 @@
 draft: false
 title: 'How to install the app from the App Store or activate in-app purchase using Redeem Promo Code'
 date: 2015-06-20
-updated: 2024-07-16
 description: 'Redeem Promo Code allow you to install paid app for free. You can ask promo code from app developer.'
 keywords: ["streaming", "AVURLAsset", "iOS", "SDK", "AVAssetResourceLoader", "Framework", "AVAssetResourceLoadingRequest", "AVPlayer", "AVFoundation"]
 tags: ["streaming", "AVURLAsset", "iOS", "SDK", "AVAssetResourceLoader", "Framework", "AVAssetResourceLoadingRequest", "AVPlayer", "AVFoundation"]
