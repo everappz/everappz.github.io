@@ -22,12 +22,43 @@
   function renderComment(comment) {
     const rating = parseInt(comment['im:rating'].label, 10);
     const div = document.createElement('div');
-    div.className = "hextra-card hx:rounded-lg hx:border hx:border-gray-200 dark:hx:border-neutral-800 hx:p-4 hx:shadow-sm hx:bg-transparent";
+
+    div.className = [
+      "hextra-card",
+      "hx:group",
+      "hx:flex",
+      "hx:flex-col",
+      "hx:justify-start",
+      "hx:overflow-hidden",
+      "hx:rounded-lg",
+      "hx:border",
+      "hx:border-gray-200",
+      "hx:text-current",
+      "hx:no-underline",
+      "hx:dark:shadow-none",
+      "hx:hover:shadow-gray-100",
+      "hx:dark:hover:shadow-none",
+      "hx:shadow-gray-100",
+      "hx:active:shadow-sm",
+      "hx:active:shadow-gray-200",
+      "hx:transition-all",
+      "hx:duration-200",
+      "hx:hover:border-gray-300",
+      "hx:bg-transparent",
+      "hx:shadow-xs",
+      "hx:dark:border-neutral-800",
+      "hx:hover:bg-slate-50",
+      "hx:hover:shadow-md",
+      "hx:dark:hover:border-neutral-700",
+      "hx:dark:hover:bg-neutral-900",
+      "hx:p-4"
+    ].join(' ');
+
     div.innerHTML = `
-      <div class="hx:text-sm hx:font-semibold hx:text-gray-800 hx:dark:text-gray-100">
+      <span class="hx:flex hx:items-center hx:gap-2 hx:font-semibold hx:text-gray-700 hx:dark:text-neutral-200">
         ${comment.author.name.label}
-      </div>
-      <div class="hx:mt-1 hx:text-yellow-400 hx:text-sm">
+      </span>
+      <div class="hx:mt-1 hx:text-xs hx:text-gray-500 hx:dark:text-gray-400">
         ${generateStars(rating)}
       </div>
       <div class="hx:mt-1 hx:text-xs hx:text-gray-500 hx:dark:text-gray-400">
