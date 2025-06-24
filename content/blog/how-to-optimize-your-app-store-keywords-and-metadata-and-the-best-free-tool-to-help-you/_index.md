@@ -11,6 +11,8 @@ tags: [
   "App Store Optimization", "ASO tools free", "app store title optimization", 
   "free ASO tool", "app store keyword strategy", "metadata optimizer"
 ]
+aliases:
+  - /post/how-to-optimize-your-app-store-keywords-and-metadata-and-the-best-free-tool-to-help-you/
 draft: false
 sidebar:
   exclude: true
