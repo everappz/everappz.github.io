@@ -1,5 +1,5 @@
-<div class="hx:relative hx:overflow-hidden hx:rounded-xl hx:my-12 hx:border hx:border-gray-200 dark:hx:border-neutral-800" style="height: 400px;">
-  <div id="commentsContainer-{{ .Get "apps" | urlize }}" class="hx:flex hx:flex-col hx:gap-4 hx:px-4 hx:py-6 hx:overflow-hidden hx:text-sm hx:leading-relaxed hx:text-gray-800 dark:hx:text-gray-100">
+<div class="hx:relative hx:overflow-hidden hx:rounded-xl hx:my-12 hx:border hx:border-gray-200 hx:dark:border-neutral-800" style="height: 400px;">
+  <div id="commentsContainer-{{ .Get "apps" | urlize }}" class="hx:flex hx:flex-col hx:gap-4 hx:px-4 hx:py-6 hx:overflow-hidden hx:text-sm hx:leading-relaxed hx:text-gray-800 hx:dark:text-gray-100">
     <!-- Reviews will be injected here -->
   </div>
 </div>
@@ -24,24 +24,21 @@
     const div = document.createElement('div');
     div.className = "hextra-card hx:rounded-lg hx:border hx:border-gray-200 dark:hx:border-neutral-800 hx:p-4 hx:shadow-sm hx:bg-transparent";
     div.innerHTML = `
-      <div class="hx:text-sm hx:font-semibold hx:text-gray-800 dark:hx:text-gray-100">
+      <div class="hx:text-sm hx:font-semibold hx:text-gray-800 hx:dark:text-gray-100">
         ${comment.author.name.label}
       </div>
       <div class="hx:mt-1 hx:text-yellow-400 hx:text-sm">
         ${generateStars(rating)}
       </div>
-      <div class="hx:mt-1 hx:text-xs hx:text-gray-500 dark:hx:text-gray-400">
+      <div class="hx:mt-1 hx:text-xs hx:text-gray-500 hx:dark:text-gray-400">
         ${new Date(comment.updated.label).toLocaleDateString()}
       </div>
-      <div class="hx:mt-2 hx:text-sm hx:text-gray-600 dark:hx:text-gray-300">
+      <div class="hx:mt-2 hx:text-sm hx:text-gray-600 hx:dark:text-gray-300">
         ${comment.content.label}
       </div>
     `;
     container.appendChild(div);
   }
-
-
-
 
   async function fetchComments(appId, page) {
     const url = `https://itunes.apple.com/us/rss/customerreviews/page=${page}/id=${appId}/sortby=mostrecent/json`;
