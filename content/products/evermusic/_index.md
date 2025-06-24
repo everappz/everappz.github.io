@@ -29,15 +29,13 @@ tags: ["Evermusic", "offline playback", "cloud music", "MP3 player", "iPhone app
 {{< hextra/hero-subtitle >}}
 <a href="https://www.chip.de/downloads/Evermusic-Pro-iPhone-_-iPad-App_91614216.html" target="_blank" rel="noopener">
   "Is the <strong>perfect</strong> solution for <strong>organizing</strong> and playing&nbsp;<br class="hx:sm:block hx:hidden" />your own <strong>music</strong> from the <strong>cloud</strong>."
-  <br />
-  <span class="hx-text-sm hx-text-gray-500">
-    — <strong>chip.de</strong>
+  <span class="hx-text-sm hx-text-gray-500"> - <strong>chip.de</strong>
   </span>
   </a>
 {{< /hextra/hero-subtitle >}}
 </div>
 
-<div class="hx:flex hx:gap-4 hx:flex-wrap hx:mb-6">
+<div class="hx:flex hx:gap-4 hx:flex-wrap hx:mb-6 hx:items-center hx:justify-center">
 
   <div class="hx:flex-1">
     {{< hextra/hero-button 
@@ -222,7 +220,7 @@ tags: ["Evermusic", "offline playback", "cloud music", "MP3 player", "iPhone app
     <strong>$0.99</strong>/month
   </span>
 </span>`
-    style="background: radial-gradient(ellipse at 50% 80%, rgba(6,182,212,0.15), hsla(0,0%,100%,0));"
+    style="background: radial-gradient(ellipse at 50% 80%, rgba(6,182,212,0.05), hsla(0,0%,100%,0));"
   >}}
 
   {{< hextra/feature-card
@@ -248,7 +246,7 @@ tags: ["Evermusic", "offline playback", "cloud music", "MP3 player", "iPhone app
     <strong>$9.99</strong>/year
   </span>
 </span>`
-    style="background: radial-gradient(ellipse at 50% 80%, rgba(6,182,212,0.15), hsla(0,0%,100%,0));"
+    style="background: radial-gradient(ellipse at 50% 80%, rgba(6,182,212,0.05), hsla(0,0%,100%,0));"
   >}}
 
   {{< hextra/feature-card
@@ -274,7 +272,7 @@ tags: ["Evermusic", "offline playback", "cloud music", "MP3 player", "iPhone app
     <strong>$29.99</strong>/lifetime
   </span>
 </span>`
-    style="background: radial-gradient(ellipse at 50% 80%, rgba(6,182,212,0.15), hsla(0,0%,100%,0));"
+    style="background: radial-gradient(ellipse at 50% 80%, rgba(6,182,212,0.05), hsla(0,0%,100%,0));"
   >}}
 
 {{< /hextra/feature-grid >}}
