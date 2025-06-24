@@ -177,84 +177,84 @@ tags: ["Evermusic", "offline playback", "cloud music", "MP3 player", "iPhone app
     title="Free"
     icon="tag"
      tag="free"
-    subtitle=`• Contain Ads 
-• Playlists (10) 
-• Cloud services (3) 
-• Favorites (1000) 
-• Songs in playlist (1000) 
-• Songs in queue (750) 
-• Offline folders (1) 
-• Offline albums (1) 
-• Automatic tags search (20) 
-• Export to M3U (5) 
-• Download files 
-• Export iTunes songs`
+    subtitle=`* Contain Ads
+* Playlists (10)
+* Cloud services (3)
+* Favorites (1000)
+* Songs in playlist (1000)
+* Songs in queue (750)
+* Offline folders (1)
+* Offline albums (1)
+* Automatic tags search (20)
+* Export to M3U (5)
+* Download files
+* Export iTunes songs`
   >}}
 
   {{< card
     title="Premium Monthly"
     icon="currency-dollar"
      tag="$0.99/month"
-    subtitle=`• Ad-free experience 
-• Unlimited playlists 
-• Unlimited cloud services 
-• Unlimited favorites 
-• Unlimited songs in playlist 
-• Unlimited songs in queue 
-• Unlimited offline folders 
-• Unlimited offline albums 
-• Unlimited tags search 
-• Unlimited export to M3U 
-• Download files 
-• Export iTunes songs 
-• Export iTunes collections 
-• Download folders 
-• Download collections 
-• Full personalization`
+    subtitle=`* Ad-free experience
+* Unlimited playlists
+* Unlimited cloud services
+* Unlimited favorites
+* Unlimited songs in playlist
+* Unlimited songs in queue
+* Unlimited offline folders
+* Unlimited offline albums
+* Unlimited tags search
+* Unlimited export to M3U
+* Download files
+* Export iTunes songs
+* Export iTunes collections
+* Download folders
+* Download collections
+* Full personalization`
   >}}
 
   {{< card
     title="Premium Yearly"
     icon="currency-dollar"
     tag="$9.99/year"
-    subtitle=`• Ad-free experience 
-• Unlimited playlists 
-• Unlimited cloud services 
-• Unlimited favorites 
-• Unlimited songs in playlist 
-• Unlimited songs in queue 
-• Unlimited offline folders 
-• Unlimited offline albums 
-• Unlimited tags search 
-• Unlimited export to M3U 
-• Download files 
-• Export iTunes songs 
-• Export iTunes collections 
-• Download folders 
-• Download collections 
-• Full personalization`
+    subtitle=`* Ad-free experience
+* Unlimited playlists
+* Unlimited cloud services
+* Unlimited favorites
+* Unlimited songs in playlist
+* Unlimited songs in queue
+* Unlimited offline folders
+* Unlimited offline albums
+* Unlimited tags search
+* Unlimited export to M3U
+* Download files
+* Export iTunes songs
+* Export iTunes collections
+* Download folders
+* Download collections
+* Full personalization`
   >}}
 
   {{< card
     title="Premium Lifetime"
     icon="currency-dollar"
     tag="$29.99/lifetime"
-    subtitle=`• Ad-free experience 
-• Unlimited playlists 
-• Unlimited cloud services 
-• Unlimited favorites 
-• Unlimited songs in playlist 
-• Unlimited songs in queue 
-• Unlimited offline folders 
-• Unlimited offline albums 
-• Unlimited tags search 
-• Unlimited export to M3U 
-• Download files 
-• Export iTunes songs 
-• Export iTunes collections 
-• Download folders 
-• Download collections 
-• Full personalization`
+    subtitle=`* Ad-free experience
+* Unlimited playlists
+* Unlimited cloud services
+* Unlimited favorites
+* Unlimited songs in playlist
+* Unlimited songs in queue
+* Unlimited offline folders
+* Unlimited offline albums
+* Unlimited tags search
+* Unlimited export to M3U
+* Download files
+* Export iTunes songs
+* Export iTunes collections
+* Download folders
+* Download collections
+* Full personalization`
   >}}
 
 {{< /cards >}}
