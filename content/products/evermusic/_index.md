@@ -171,92 +171,112 @@ tags: ["Evermusic", "offline playback", "cloud music", "MP3 player", "iPhone app
 
 <div class="hx:mt-6"></div>
 
-{{< cards cols="1" >}}
 
-  {{< card
+
+
+{{< hextra/feature-grid cols="4">}}
+
+  {{< hextra/feature-card
     title="Free"
-    icon="tag"
-     tag="free"
-    subtitle=`* Contain Ads
-* Playlists (10)
-* Cloud services (3)
-* Favorites (1000)
-* Songs in playlist (1000)
-* Songs in queue (750)
-* Offline folders (1)
-* Offline albums (1)
-* Automatic tags search (20)
-* Export to M3U (5)
-* Download files
-* Export iTunes songs`
+    subtitle=`• Contain Ads<br />
+• Playlists (10)<br />
+• Cloud services (3)<br />
+• Favorites (1000)<br />
+• Songs in playlist (1000)<br />
+• Songs in queue (750)<br />
+• Offline folders (1)<br />
+• Offline albums (1)<br />
+• Automatic tags search (20)<br />
+• Export to M3U (5)<br />
+• Download files<br />
+• Export iTunes songs<br /><br />
+<span class='hx:block hx:mt-2 hx:text-center'>
+  <span class='hx:inline-block hx:rounded-full hx:border hx:border-gray-200 hx:hover:border-gray-300 hx:dark:border-neutral-800 hx:dark:hover:border-neutral-700 hx:px-3 hx:py-1'>
+    <strong>Free</strong>
+  </span>
+</span>`
   >}}
 
-  {{< card
+  {{< hextra/feature-card
+  tag="Free"
+    tagType="default"
     title="Premium Monthly"
-    icon="currency-dollar"
-     tag="$0.99/month"
-    subtitle=`* Ad-free experience
-* Unlimited playlists
-* Unlimited cloud services
-* Unlimited favorites
-* Unlimited songs in playlist
-* Unlimited songs in queue
-* Unlimited offline folders
-* Unlimited offline albums
-* Unlimited tags search
-* Unlimited export to M3U
-* Download files
-* Export iTunes songs
-* Export iTunes collections
-* Download folders
-* Download collections
-* Full personalization`
+    subtitle=`• Ad-free experience<br />
+• Unlimited playlists<br />
+• Unlimited cloud services<br />
+• Unlimited favorites<br />
+• Unlimited songs in playlist<br />
+• Unlimited songs in queue<br />
+• Unlimited offline folders<br />
+• Unlimited offline albums<br />
+• Unlimited tags search<br />
+• Unlimited export to M3U<br />
+• Download files<br />
+• Export iTunes songs<br />
+• Export iTunes collections<br />
+• Download folders<br />
+• Download collections<br />
+• Full personalization<br /><br />
+<span class='hx:block hx:mt-2 hx:text-center'>
+  <span class='hx:inline-block hx:rounded-full hx:border hx:border-gray-200 hx:hover:border-gray-300 hx:dark:border-neutral-800 hx:dark:hover:border-neutral-700 hx:px-3 hx:py-1'>
+    <strong>$0.99</strong>/month
+  </span>
+</span>`
+    style="background: radial-gradient(ellipse at 50% 80%, rgba(6,182,212,0.15), hsla(0,0%,100%,0));"
   >}}
 
-  {{< card
+  {{< hextra/feature-card
     title="Premium Yearly"
-    icon="currency-dollar"
-    tag="$9.99/year"
-    subtitle=`* Ad-free experience
-* Unlimited playlists
-* Unlimited cloud services
-* Unlimited favorites
-* Unlimited songs in playlist
-* Unlimited songs in queue
-* Unlimited offline folders
-* Unlimited offline albums
-* Unlimited tags search
-* Unlimited export to M3U
-* Download files
-* Export iTunes songs
-* Export iTunes collections
-* Download folders
-* Download collections
-* Full personalization`
+    subtitle=`• Ad-free experience<br />
+• Unlimited playlists<br />
+• Unlimited cloud services<br />
+• Unlimited favorites<br />
+• Unlimited songs in playlist<br />
+• Unlimited songs in queue<br />
+• Unlimited offline folders<br />
+• Unlimited offline albums<br />
+• Unlimited tags search<br />
+• Unlimited export to M3U<br />
+• Download files<br />
+• Export iTunes songs<br />
+• Export iTunes collections<br />
+• Download folders<br />
+• Download collections<br />
+• Full personalization<br /><br />
+<span class='hx:block hx:mt-2 hx:text-center'>
+  <span class='hx:inline-block hx:rounded-full hx:border hx:border-gray-200 hx:hover:border-gray-300 hx:dark:border-neutral-800 hx:dark:hover:border-neutral-700 hx:px-3 hx:py-1'>
+    <strong>$9.99</strong>/year
+  </span>
+</span>`
+    style="background: radial-gradient(ellipse at 50% 80%, rgba(6,182,212,0.15), hsla(0,0%,100%,0));"
   >}}
 
-  {{< card
+  {{< hextra/feature-card
     title="Premium Lifetime"
-    icon="currency-dollar"
-    tag="$29.99/lifetime"
-    subtitle=`* Ad-free experience
-* Unlimited playlists
-* Unlimited cloud services
-* Unlimited favorites
-* Unlimited songs in playlist
-* Unlimited songs in queue
-* Unlimited offline folders
-* Unlimited offline albums
-* Unlimited tags search
-* Unlimited export to M3U
-* Download files
-* Export iTunes songs
-* Export iTunes collections
-* Download folders
-* Download collections
-* Full personalization`
+    subtitle=`• Ad-free experience<br />
+• Unlimited playlists<br />
+• Unlimited cloud services<br />
+• Unlimited favorites<br />
+• Unlimited songs in playlist<br />
+• Unlimited songs in queue<br />
+• Unlimited offline folders<br />
+• Unlimited offline albums<br />
+• Unlimited tags search<br />
+• Unlimited export to M3U<br />
+• Download files<br />
+• Export iTunes songs<br />
+• Export iTunes collections<br />
+• Download folders<br />
+• Download collections<br />
+• Full personalization<br /><br />
+<span class='hx:block hx:mt-2 hx:text-center'>
+  <span class='hx:inline-block hx:rounded-full hx:border hx:border-gray-200 hx:hover:border-gray-300 hx:dark:border-neutral-800 hx:dark:hover:border-neutral-700 hx:px-3 hx:py-1'>
+    <strong>$29.99</strong>/lifetime
+  </span>
+</span>`
+    style="background: radial-gradient(ellipse at 50% 80%, rgba(6,182,212,0.15), hsla(0,0%,100%,0));"
   >}}
 
-{{< /cards >}}
+{{< /hextra/feature-grid >}}
 
 </body>
