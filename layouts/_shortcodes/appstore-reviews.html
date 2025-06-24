@@ -1,60 +1,14 @@
-<div class="hx:relative hx:overflow-hidden hx:rounded-xl hx:shadow-md hx:my-12" style="height: 400px;">
-  <div class="gradient top"></div>
-  <div class="comments-container" id="commentsContainer-{{ .Get "apps" | urlize }}"></div>
-  <div class="gradient bottom"></div>
+<div class="hx:relative hx:overflow-hidden hx:rounded-xl hx:my-12 hx:border hx:border-gray-200 dark:hx:border-neutral-800" style="height: 400px;">
+  <div id="commentsContainer-{{ .Get "apps" | urlize }}" class="hx:flex hx:flex-col hx:gap-4 hx:px-4 hx:py-6 hx:overflow-hidden hx:text-sm hx:leading-relaxed hx:text-gray-800 dark:hx:text-gray-100">
+    <!-- Reviews will be injected here -->
+  </div>
 </div>
-
-<style>
-.comments-container {
-  display: flex;
-  flex-direction: column;
-  gap: 1rem;
-  padding: 1rem;
-  will-change: transform;
-  transition: transform 0.1s linear;
-}
-.comment {
-  background: #fff;
-  padding: 1rem;
-  border-radius: 0.5rem;
-  box-shadow: 0 1px 4px rgba(0,0,0,0.05);
-}
-.comment h3 {
-  margin: 0 0 0.25rem;
-  font-weight: bold;
-}
-.stars {
-  color: #facc15;
-  font-size: 1rem;
-}
-.comment .date {
-  font-size: 0.875rem;
-  color: #888;
-}
-.gradient.top,
-.gradient.bottom {
-  position: absolute;
-  left: 0;
-  right: 0;
-  height: 40px;
-  z-index: 1;
-  pointer-events: none;
-}
-.gradient.top {
-  top: 0;
-  background: linear-gradient(to bottom, #f8fafc, transparent);
-}
-.gradient.bottom {
-  bottom: 0;
-  background: linear-gradient(to top, #f8fafc, transparent);
-}
-</style>
 
 <script>
 (function(){
   const appIds = "{{ .Get "apps" }}".split(',').map(id => id.trim());
   const minStars = "{{ .Get "stars" }}".split(',').map(Number);
-  const scrollSpeed = 1;
+  const scrollSpeed = 0.5;
   const containerId = "commentsContainer-{{ .Get "apps" | urlize }}";
   const container = document.getElementById(containerId);
   let currentAppIndex = 0;
@@ -68,15 +22,26 @@
   function renderComment(comment) {
     const rating = parseInt(comment['im:rating'].label, 10);
     const div = document.createElement('div');
-    div.className = 'comment';
+    div.className = "hextra-card hx:rounded-lg hx:border hx:border-gray-200 dark:hx:border-neutral-800 hx:p-4 hx:shadow-sm hx:bg-transparent";
     div.innerHTML = `
-      <h3>${comment.author.name.label}</h3>
-      <p class="stars">${generateStars(rating)}</p>
-      <p class="date">${new Date(comment.updated.label).toLocaleDateString()}</p>
-      <p class="description">${comment.content.label}</p>
+      <div class="hx:text-sm hx:font-semibold hx:text-gray-800 dark:hx:text-gray-100">
+        ${comment.author.name.label}
+      </div>
+      <div class="hx:mt-1 hx:text-yellow-400 hx:text-sm">
+        ${generateStars(rating)}
+      </div>
+      <div class="hx:mt-1 hx:text-xs hx:text-gray-500 dark:hx:text-gray-400">
+        ${new Date(comment.updated.label).toLocaleDateString()}
+      </div>
+      <div class="hx:mt-2 hx:text-sm hx:text-gray-600 dark:hx:text-gray-300">
+        ${comment.content.label}
+      </div>
     `;
     container.appendChild(div);
   }
+
+
+
 
   async function fetchComments(appId, page) {
     const url = `https://itunes.apple.com/us/rss/customerreviews/page=${page}/id=${appId}/sortby=mostrecent/json`;
@@ -96,13 +61,10 @@
     const appId = appIds[currentAppIndex];
     const comments = await fetchComments(appId, currentPage++);
     comments.forEach(renderComment);
-
-    // If fewer than 10 comments, switch app or loop
     if (comments.length < 10) {
       currentPage = 1;
       currentAppIndex = (currentAppIndex + 1) % appIds.length;
     }
-
     isLoading = false;
   }
 
@@ -120,7 +82,7 @@
   document.addEventListener('DOMContentLoaded', async () => {
     await loadComments();
     startScroll();
-    setInterval(loadComments, 15000); // Periodically refresh
+    setInterval(loadComments, 20000);
   });
 })();
 </script>
