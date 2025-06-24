@@ -1,0 +1,13 @@
+{{- $name := index . "name" | default "circle" -}}
+{{- $attributes := index . "attributes" | default "height=1em" -}}
+{{- $icon := index site.Data.icons $name -}}
+
+{{- if not $icon -}}
+  {{ errorf "icon %q not found in site.Data.icons" $name }}
+{{- end -}}
+
+{{- $svg := replaceRE "<svg" (printf "<svg %s" $attributes | safeHTMLAttr) $icon -}}
+
+<span class="hx:inline-block hx:align-text-bottom icon">
+  {{ $svg | safeHTML }}
+</span>
