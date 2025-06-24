@@ -5,8 +5,6 @@ description: "Learn how to stream and cache audio in iOS using AVAssetResourceLo
 keywords: ["iOS audio streaming", "AVAssetResourceLoaderDelegate", "AVURLAsset", "AVPlayer", "AVFoundation", "AVAssetResourceLoadingRequest", "custom audio player", "cloud streaming", "media framework", "Evermusic"]
 tags: ["streaming", "AVPlayer", "AVFoundation", "iOS", "AVAssetResourceLoader", "AVAssetResourceLoaderDelegate", "AVAssetResourceLoadingRequest", "AVURLAsset", "audio", "tutorial"]
 draft: false
-sidebar:
-  exclude: true
 cascade:
   type: docs
 ---
