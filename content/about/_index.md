@@ -37,11 +37,54 @@ Thanks for using our apps and supporting independent development. If you ever ha
 
 Subscribe to us on social networks to get the most up-to-date news, app updates, tips, and useful information:
 
-[{{< icon "icons8-sf-regular-filled-twitter" >}}X (Twitter)](https://x.com/Everappz)  
-[{{< icon "icons8-sf-regular-filled-facebook" >}}Facebook](https://www.facebook.com/everappz)  
-[{{< icon "icons8-sf-regular-filled-reddit" >}}Reddit](https://www.reddit.com/r/everappz/)  
-[{{< icon "icons8-sf-regular-filled-vk" >}}VK](https://vk.com/everappz)  
-[{{< icon "icons8-sf-regular-filled-github" >}}GitHub](https://github.com/everappz)  
-[{{< icon "icons8-sf-regular-filled-linkedin" >}}LinkedIn](https://www.linkedin.com/company/everappz/)  
-[{{< icon "icons8-sf-regular-filled-youtube" >}}YouTube](https://www.youtube.com/@everappz)  
-[{{< icon "icons8-sf-regular-filled-tiktok" >}}TikTok](https://www.tiktok.com/@everappz)
+{{< cards >}}
+
+{{< card
+  icon="icons8-sf-regular-filled-twitter"
+  title="X (Twitter)"
+  link="https://x.com/Everappz"
+>}}
+
+{{< card
+  icon="icons8-sf-regular-filled-facebook"
+  title="Facebook"
+  link="https://www.facebook.com/everappz"
+>}}
+
+{{< card
+  icon="icons8-sf-regular-filled-reddit"
+  title="Reddit"
+  link="https://www.reddit.com/r/everappz/"
+>}}
+
+{{< card
+  icon="icons8-sf-regular-filled-vk"
+  title="VK"
+  link="https://vk.com/everappz"
+>}}
+
+{{< card
+  icon="icons8-sf-regular-filled-github"
+  title="GitHub"
+  link="https://github.com/everappz"
+>}}
+
+{{< card
+  icon="icons8-sf-regular-filled-linkedin"
+  title="LinkedIn"
+  link="https://www.linkedin.com/company/everappz/"
+>}}
+
+{{< card
+  icon="icons8-sf-regular-filled-youtube"
+  title="YouTube"
+  link="https://www.youtube.com/@everappz"
+>}}
+
+{{< card
+  icon="icons8-sf-regular-filled-tiktok"
+  title="TikTok"
+  link="https://www.tiktok.com/@everappz"
+>}}
+
+{{< /cards >}}
