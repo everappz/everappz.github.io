@@ -113,7 +113,7 @@ Start optimizing smarter today. Your next user is one search away.
 
 If you're passionate about improving ASO workflows or have ideas to enhance this tool, we'd love your input. Whether it's bug fixes, feature suggestions, or language improvements — your pull requests are welcome!
 
-{{< cards >}}
+{{< cards cols="1" >}}
   {{< card link="https://github.com/everappz/app-store-keyword-optimizer/tree/main" title="appkeywords.pro on GitHub" icon="github" tag= "open source" >}}
 {{< /cards >}}
 
