@@ -9,6 +9,8 @@ keywords: ["Evermusic", "offline music player", "iOS audio player", "cloud music
 tags: ["Evermusic", "offline playback", "cloud music", "MP3 player", "iPhone apps", "audio streaming", "music management", "Mac apps", "media player"]
 ---
 
+<body class="hx:bg-transparent" style="background: radial-gradient(ellipse at 50% 80%, rgba(59,130,246,0.05), hsla(0,0%,100%,0));">
+
 <div class="hx:w-full hx:max-w-screen-lg hx:mx-auto hx:flex hx:flex-col hx:items-center hx:text-center">
 	
 {{< hextra/hero-badge link="../../blog/evermusic-celebrates-11-million-worldwide-downloads-a-musical-milestone" >}}
@@ -82,50 +84,28 @@ tags: ["Evermusic", "offline playback", "cloud music", "MP3 player", "iPhone app
     style="background: radial-gradient(ellipse at 50% 80%, rgba(234,88,12,0.15), hsla(0,0%,100%,0));"
   >}}
 
+  {{< hextra/feature-card
+    title="Your Music in the Cloud"
+    subtitle="Create your own advanced music streaming service for free! Manage your massive music library, save device storage, and stream your favorite tracks directly from the cloud with smart buffering and seamless playback. Enjoy support for popular cloud services like iCloud, Google Drive, Dropbox, MEGA.nz, Box, OneDrive, and more."
+    icon="cloud"
+    style="background: radial-gradient(ellipse at 50% 80%, rgba(34,197,94,0.15), hsla(0,0%,100%,0));"
+  >}}
+
+  {{< hextra/feature-card
+    title="Transfer Files Easily"
+    subtitle="Connect your Mac or PC and stream music directly from your home computer. Transfer audio files seamlessly between your computer and iOS device using Wi-Fi Drive or iTunes File Sharing. You can also link your NAS or a USB flash drive and access your library from anywhere."
+    icon="duplicate"
+    style="background: radial-gradient(ellipse at 50% 80%, rgba(251,191,36,0.15), hsla(0,0%,100%,0));"
+  >}}
+
+  {{< hextra/feature-card
+    title="Automatic Sync"
+    subtitle="Sync Manager automatically scans your cloud storage for audio files and updates your music library. The Metadata Loader organizes tracks by albums, artists, and genres using embedded audio tags."
+    icon="refresh"
+    style="background: radial-gradient(ellipse at 50% 80%, rgba(6,182,212,0.15), hsla(0,0%,100%,0));"
+  >}}
+
 {{< /hextra/feature-grid >}}
-
-<div class="hx:mt-6"></div>
-
-<div class="hx:mt-6 hx:mb-6">
-{{< icon name="cloud" attributes="height=60" >}}
-{{< hextra/hero-headline >}}
- Your Music in the Cloud
-{{< /hextra/hero-headline >}}
-</div>
-
-<div class="hx:mb-12">
-{{< hextra/hero-subtitle >}}
-Create your own advanced music streaming service for free! Manage your massive music library, save device storage, and stream your favorite tracks directly from the cloud with smart buffering and seamless playback. Enjoy support for popular cloud services like iCloud, Google Drive, Dropbox, MEGA.nz, Box, OneDrive, and more.
-{{< /hextra/hero-subtitle >}}
-</div>
-
-
-<div class="hx:mt-6 hx:mb-6">
-{{< icon name="duplicate" attributes="height=60" >}}
-{{< hextra/hero-headline >}}
- Transfer Files Easily
-{{< /hextra/hero-headline >}}
-</div>
-
-<div class="hx:mb-12">
-{{< hextra/hero-subtitle >}}
-Connect your Mac or PC and stream music directly from your home computer. Transfer audio files seamlessly between your computer and iOS device using Wi-Fi Drive or iTunes File Sharing. You can also link your NAS or a USB flash drive and access your library from anywhere.
-{{< /hextra/hero-subtitle >}}
-</div>
-
-
-<div class="hx:mt-6 hx:mb-6">
-{{< icon name="refresh" attributes="height=60" >}}
-{{< hextra/hero-headline >}}
- Automatic Sync
-{{< /hextra/hero-headline >}}
-</div>
-
-<div class="hx:mb-12">
-{{< hextra/hero-subtitle >}}
-Sync Manager automatically scans your cloud storage for audio files and updates your music library. The Metadata Loader organizes tracks by albums, artists, and genres using embedded audio tags.
-{{< /hextra/hero-subtitle >}}
-</div>
 
 <div class="hx:mt-6"></div>
 
@@ -137,39 +117,41 @@ Sync Manager automatically scans your cloud storage for audio files and updates 
 
 {{< cards >}}
 
-  {{< card title="Audio Formats" subtitle="Supports: mpeg, aifc, 3gp, avi, aif, latm, 3gpp, m4a, loas, cdda, aac, m4p, m4b, ac3, pls, mp4v, m3u, m4r, aiff, xhe, mp1, snd, mp2, wav, qt, wave, m3u8, m4v, mp3, 3g2, caf, mp4, flac, au, w64, ec3, adts, amr, vtt, mpa, aa." >}}
+  {{< card title="Audio Formats" subtitle="Supports: mpeg, aifc, 3gp, avi, aif, latm, 3gpp, m4a, loas, cdda, aac, m4p, m4b, ac3, pls, mp4v, m3u, m4r, aiff, xhe, mp1, snd, mp2, wav, qt, wave, m3u8, m4v, mp3, 3g2, caf, mp4, flac, au, w64, ec3, adts, amr, vtt, mpa, aa." icon="music-note" >}}
 
-  {{< card title="Audiobooks" subtitle="Includes audio bookmarks, playback speed control, and resume position." >}}
+  {{< card title="Audiobooks" subtitle="Includes audio bookmarks, playback speed control, and resume position." icon="book-open" >}}
 
-  {{< card title="Automatic Sync" subtitle="Syncs your music library with the cloud, organized by artist, album, and genre." >}}
+  {{< card title="Automatic Sync" subtitle="Syncs your music library with the cloud, organized by artist, album, and genre." icon="refresh" >}}
 
-  {{< card title="File Manager" subtitle="Manage files with operations like copy, move, rename, and delete." >}}
+  {{< card title="File Manager" subtitle="Manage files with operations like copy, move, rename, and delete." icon="folder" >}}
 
-  {{< card title="Cloud Services" subtitle="Supports iCloud, Google Drive, Dropbox, OneDrive, MEGA, WebDAV, SMB, and more." >}}
+  {{< card title="Cloud Services" subtitle="Supports iCloud, Google Drive, Dropbox, OneDrive, MEGA, WebDAV, SMB, and more." icon="cloud" >}}
 
-  {{< card title="Crossfade Playback" subtitle="Next song starts before the current one ends for seamless transitions." >}}
+  {{< card title="Crossfade Playback" subtitle="Next song starts before the current one ends for seamless transitions." icon="switch-horizontal" >}}
 
-  {{< card title="Audio Equalizer" subtitle="Customizable equalizer with presets, manual control, and preamp gain." >}}
+  {{< card title="Audio Equalizer" subtitle="Customizable equalizer with presets, manual control, and preamp gain." icon="adjustments" >}}
 
-  {{< card title="Advanced Search" subtitle="Find your favorite albums, artists, and tracks quickly and easily." >}}
+  {{< card title="Advanced Search" subtitle="Find your favorite albums, artists, and tracks quickly and easily." icon="search" >}}
 
-  {{< card title="Computer Access" subtitle="Connect via SMB, WebDAV, or DLNA. Transfer via iTunes File Sharing and Wi-Fi." >}}
+  {{< card title="Computer Access" subtitle="Connect via SMB, WebDAV, or DLNA. Transfer via iTunes File Sharing and Wi-Fi." icon="desktop-computer" >}}
 
-  {{< card title="AirPlay & Chromecast" subtitle="Stream to Apple TV and Google Chromecast devices wirelessly." >}}
+  {{< card title="AirPlay & Chromecast" subtitle="Stream to Apple TV and Google Chromecast devices wirelessly." icon="device-mobile" >}}
 
-  {{< card title="Playlists" subtitle="Create, edit, reorder, and export/import M3U playlists with offline mode." >}}
+  {{< card title="Playlists" subtitle="Create, edit, reorder, and export/import M3U playlists with offline mode." icon="collection" >}}
 
-  {{< card title="USB Flash Cards" subtitle="Play music directly from SD cards using external readers like SanDisk iXpand." >}}
+  {{< card title="USB Flash Cards" subtitle="Play music directly from SD cards using external readers like SanDisk iXpand." icon="inbox" >}}
 
-  {{< card title="Offline Mode" subtitle="Download music or auto-cache recently played tracks for offline listening." >}}
+  {{< card title="Offline Mode" subtitle="Download music or auto-cache recently played tracks for offline listening." icon="download" >}}
 
-  {{< card title="Apple CarPlay" subtitle="Drive safely with a dedicated CarPlay UI for music playback." >}}
+  {{< card title="Apple CarPlay" subtitle="Drive safely with a dedicated CarPlay UI for music playback." icon="truck" >}}
 
-  {{< card title="ID3 Tags Editor" subtitle="Edit corrupted or missing metadata using the built-in tags editor." >}}
+  {{< card title="ID3 Tags Editor" subtitle="Edit corrupted or missing metadata using the built-in tags editor." icon="pencil-alt" >}}
 
-  {{< card title="Gapless Playback" subtitle="No pauses between songs — ideal for live, classical, or concept albums." >}}
+  {{< card title="Gapless Playback" subtitle="No pauses between songs — ideal for live, classical, or concept albums." icon="volume-up" >}}
 
 {{< /cards >}}
+
+<div class="hx:mt-6"></div>
 
 <div class="hx:w-full hx:max-w-screen-lg hx:mx-auto hx:flex hx:flex-col hx:items-center hx:text-center">
   {{< hextra/hero-headline style="margin:20px 0" >}}
@@ -178,3 +160,103 @@ Sync Manager automatically scans your cloud storage for audio files and updates 
 </div>
 
 {{< appstore-reviews apps="885367198,1564384601" stars="5,4" >}}
+
+<div class="hx:mt-6"></div>
+
+<div class="hx:w-full hx:max-w-screen-lg hx:mx-auto hx:flex hx:flex-col hx:items-center hx:text-center">
+  {{< hextra/hero-headline style="margin:20px 0" >}}
+   Pricing Plans
+  {{< /hextra/hero-headline >}}
+</div>
+
+<div class="hx:mt-6"></div>
+
+{{< cards cols="1" >}}
+
+  {{< card
+    title="Free"
+    icon="tag"
+     tag="free"
+    subtitle=`• Contain Ads 
+• Playlists (10) 
+• Cloud services (3) 
+• Favorites (1000) 
+• Songs in playlist (1000) 
+• Songs in queue (750) 
+• Offline folders (1) 
+• Offline albums (1) 
+• Automatic tags search (20) 
+• Export to M3U (5) 
+• Download files 
+• Export iTunes songs`
+  >}}
+
+  {{< card
+    title="Premium Monthly"
+    icon="currency-dollar"
+     tag="$0.99/month"
+    subtitle=`• Ad-free experience 
+• Unlimited playlists 
+• Unlimited cloud services 
+• Unlimited favorites 
+• Unlimited songs in playlist 
+• Unlimited songs in queue 
+• Unlimited offline folders 
+• Unlimited offline albums 
+• Unlimited tags search 
+• Unlimited export to M3U 
+• Download files 
+• Export iTunes songs 
+• Export iTunes collections 
+• Download folders 
+• Download collections 
+• Full personalization`
+  >}}
+
+  {{< card
+    title="Premium Yearly"
+    icon="currency-dollar"
+    tag="$9.99/year"
+    subtitle=`• Ad-free experience 
+• Unlimited playlists 
+• Unlimited cloud services 
+• Unlimited favorites 
+• Unlimited songs in playlist 
+• Unlimited songs in queue 
+• Unlimited offline folders 
+• Unlimited offline albums 
+• Unlimited tags search 
+• Unlimited export to M3U 
+• Download files 
+• Export iTunes songs 
+• Export iTunes collections 
+• Download folders 
+• Download collections 
+• Full personalization`
+  >}}
+
+  {{< card
+    title="Premium Lifetime"
+    icon="currency-dollar"
+    tag="$29.99/lifetime"
+    subtitle=`• Ad-free experience 
+• Unlimited playlists 
+• Unlimited cloud services 
+• Unlimited favorites 
+• Unlimited songs in playlist 
+• Unlimited songs in queue 
+• Unlimited offline folders 
+• Unlimited offline albums 
+• Unlimited tags search 
+• Unlimited export to M3U 
+• Download files 
+• Export iTunes songs 
+• Export iTunes collections 
+• Download folders 
+• Download collections 
+• Full personalization`
+  >}}
+
+{{< /cards >}}
+
+</body>
