@@ -3,8 +3,14 @@ date: '2025-06-12T17:00:00+00:00'
 draft: false
 title: 'Evermusic'
 layout: hextra-home
+date: 2024-01-05
+description: "Download the best free offline music player for your iPhone and Mac and listen to your music everywhere."
+keywords: ["Evermusic", "offline music player", "iOS audio player", "cloud music app", "download music iPhone", "Mac music player", "streaming music offline", "FLAC player iPhone", "multi-cloud music player", "Evermusic app features"]
+tags: ["Evermusic", "offline playback", "cloud music", "MP3 player", "iPhone apps", "audio streaming", "music management", "Mac apps", "media player"]
 ---
 
+<div class="hx:w-full hx:max-w-screen-lg hx:mx-auto hx:flex hx:flex-col hx:items-center hx:text-center">
+	
 {{< hextra/hero-badge link="../../blog/evermusic-celebrates-11-million-worldwide-downloads-a-musical-milestone" >}}
   <div class="hx:w-2 hx:h-2 hx:rounded-full hx:bg-primary-400"></div>
   <span>11 million downloads</span>
@@ -49,6 +55,8 @@ layout: hextra-home
 
 </div>
 
+</div>
+
 <div class="hx:mt-6"></div>
 
 {{< hextra/feature-grid >}}
@@ -63,43 +71,110 @@ layout: hextra-home
   {{< hextra/feature-card
     title="Instant Access to Tracks"
     subtitle="With support of the most popular cloud services Evermusic allows you to pick one or multiple services and stream your music from the cloud. No more iTunes synchronization, your audio files get uploaded to the cloud from PC or Mac just like other files."
-    icon="cloud"
-    style="background: radial-gradient(ellipse at 50% 80%, rgba(239,68,68,0.15), hsla(0,0%,100%,0));"
+    icon="collection"
+    style="background: radial-gradient(ellipse at 50% 80%, rgba(192,38,211,0.15), hsla(0,0%,100%,0));"
   >}}
 
   {{< hextra/feature-card
     title="Offline Mode"
     subtitle="Offline mode allows you to download favourite albums, tracks, genres and playlists for offline playback and listen to music, when you aren’t connected to the Internet."
     icon="download"
-    style="background: radial-gradient(ellipse at 50% 80%, rgba(245,158,11,0.15), hsla(0,0%,100%,0));"
+    style="background: radial-gradient(ellipse at 50% 80%, rgba(234,88,12,0.15), hsla(0,0%,100%,0));"
   >}}
 
 {{< /hextra/feature-grid >}}
-  
-  <div class="hx:mt-6"></div>
-  
-  {{< hextra/feature-grid >}}
-  
-  {{< hextra/feature-card
-    title="Lightweight as a Feather"
-    subtitle="No dependency or Node.js is needed to use Hextra. Powered by Hugo, one of *the fastest* static site generators, building your site in just seconds with a single binary."
-  >}}
-  {{< hextra/feature-card
-    title="Responsive with Dark Mode Included"
-    subtitle="Looks great on different screen sizes. Built-in dark mode support, with auto-switching based on user's system preference."
-  >}}
-  {{< hextra/feature-card
-    title="Build and Host for Free"
-    subtitle="Build with GitHub Actions, and host for free on GitHub Pages. Alternatively it can be hosted on any static hosting service."
-  >}}
-  {{< hextra/feature-card
-    title="Multi-Language Made Easy"
-    subtitle="Create multi-language pages by just adding locales suffix to the Markdown file. Adding i18n support to your site is intuitive."
-  >}}
-  {{< hextra/feature-card
-    title="And Much More..."
-    icon="sparkles"
-    subtitle="Syntax highlighting / Table of contents / SEO / RSS / LaTeX / Mermaid / Customizable / and more..."
-  >}}
-  
-{{< /hextra/feature-grid >}}
+
+<div class="hx:mt-6"></div>
+
+<div class="hx:mt-6 hx:mb-6">
+{{< icon name="cloud" attributes="height=60" >}}
+{{< hextra/hero-headline >}}
+ Your Music in the Cloud
+{{< /hextra/hero-headline >}}
+</div>
+
+<div class="hx:mb-12">
+{{< hextra/hero-subtitle >}}
+Create your own advanced music streaming service for free! Manage your massive music library, save device storage, and stream your favorite tracks directly from the cloud with smart buffering and seamless playback. Enjoy support for popular cloud services like iCloud, Google Drive, Dropbox, MEGA.nz, Box, OneDrive, and more.
+{{< /hextra/hero-subtitle >}}
+</div>
+
+
+<div class="hx:mt-6 hx:mb-6">
+{{< icon name="duplicate" attributes="height=60" >}}
+{{< hextra/hero-headline >}}
+ Transfer Files Easily
+{{< /hextra/hero-headline >}}
+</div>
+
+<div class="hx:mb-12">
+{{< hextra/hero-subtitle >}}
+Connect your Mac or PC and stream music directly from your home computer. Transfer audio files seamlessly between your computer and iOS device using Wi-Fi Drive or iTunes File Sharing. You can also link your NAS or a USB flash drive and access your library from anywhere.
+{{< /hextra/hero-subtitle >}}
+</div>
+
+
+<div class="hx:mt-6 hx:mb-6">
+{{< icon name="refresh" attributes="height=60" >}}
+{{< hextra/hero-headline >}}
+ Automatic Sync
+{{< /hextra/hero-headline >}}
+</div>
+
+<div class="hx:mb-12">
+{{< hextra/hero-subtitle >}}
+Sync Manager automatically scans your cloud storage for audio files and updates your music library. The Metadata Loader organizes tracks by albums, artists, and genres using embedded audio tags.
+{{< /hextra/hero-subtitle >}}
+</div>
+
+<div class="hx:mt-6"></div>
+
+<div class="hx:w-full hx:max-w-screen-lg hx:mx-auto hx:flex hx:flex-col hx:items-center hx:text-center">
+  {{< hextra/hero-headline style="margin:20px 0" >}}
+   Full Features Set
+  {{< /hextra/hero-headline >}}
+</div>
+
+{{< cards >}}
+
+  {{< card title="Audio Formats" subtitle="Supports: mpeg, aifc, 3gp, avi, aif, latm, 3gpp, m4a, loas, cdda, aac, m4p, m4b, ac3, pls, mp4v, m3u, m4r, aiff, xhe, mp1, snd, mp2, wav, qt, wave, m3u8, m4v, mp3, 3g2, caf, mp4, flac, au, w64, ec3, adts, amr, vtt, mpa, aa." >}}
+
+  {{< card title="Audiobooks" subtitle="Includes audio bookmarks, playback speed control, and resume position." >}}
+
+  {{< card title="Automatic Sync" subtitle="Syncs your music library with the cloud, organized by artist, album, and genre." >}}
+
+  {{< card title="File Manager" subtitle="Manage files with operations like copy, move, rename, and delete." >}}
+
+  {{< card title="Cloud Services" subtitle="Supports iCloud, Google Drive, Dropbox, OneDrive, MEGA, WebDAV, SMB, and more." >}}
+
+  {{< card title="Crossfade Playback" subtitle="Next song starts before the current one ends for seamless transitions." >}}
+
+  {{< card title="Audio Equalizer" subtitle="Customizable equalizer with presets, manual control, and preamp gain." >}}
+
+  {{< card title="Advanced Search" subtitle="Find your favorite albums, artists, and tracks quickly and easily." >}}
+
+  {{< card title="Computer Access" subtitle="Connect via SMB, WebDAV, or DLNA. Transfer via iTunes File Sharing and Wi-Fi." >}}
+
+  {{< card title="AirPlay & Chromecast" subtitle="Stream to Apple TV and Google Chromecast devices wirelessly." >}}
+
+  {{< card title="Playlists" subtitle="Create, edit, reorder, and export/import M3U playlists with offline mode." >}}
+
+  {{< card title="USB Flash Cards" subtitle="Play music directly from SD cards using external readers like SanDisk iXpand." >}}
+
+  {{< card title="Offline Mode" subtitle="Download music or auto-cache recently played tracks for offline listening." >}}
+
+  {{< card title="Apple CarPlay" subtitle="Drive safely with a dedicated CarPlay UI for music playback." >}}
+
+  {{< card title="ID3 Tags Editor" subtitle="Edit corrupted or missing metadata using the built-in tags editor." >}}
+
+  {{< card title="Gapless Playback" subtitle="No pauses between songs — ideal for live, classical, or concept albums." >}}
+
+{{< /cards >}}
+
+<div class="hx:w-full hx:max-w-screen-lg hx:mx-auto hx:flex hx:flex-col hx:items-center hx:text-center">
+  {{< hextra/hero-headline style="margin:20px 0" >}}
+   Reviews
+  {{< /hextra/hero-headline >}}
+</div>
+
+{{< appstore-reviews apps="885367198,1564384601" stars="5,4" >}}

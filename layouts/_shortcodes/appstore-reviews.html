@@ -1,0 +1,126 @@
+<div class="hx:relative hx:overflow-hidden hx:rounded-xl hx:shadow-md hx:my-12" style="height: 400px;">
+  <div class="gradient top"></div>
+  <div class="comments-container" id="commentsContainer-{{ .Get "apps" | urlize }}"></div>
+  <div class="gradient bottom"></div>
+</div>
+
+<style>
+.comments-container {
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+  padding: 1rem;
+  will-change: transform;
+  transition: transform 0.1s linear;
+}
+.comment {
+  background: #fff;
+  padding: 1rem;
+  border-radius: 0.5rem;
+  box-shadow: 0 1px 4px rgba(0,0,0,0.05);
+}
+.comment h3 {
+  margin: 0 0 0.25rem;
+  font-weight: bold;
+}
+.stars {
+  color: #facc15;
+  font-size: 1rem;
+}
+.comment .date {
+  font-size: 0.875rem;
+  color: #888;
+}
+.gradient.top,
+.gradient.bottom {
+  position: absolute;
+  left: 0;
+  right: 0;
+  height: 40px;
+  z-index: 1;
+  pointer-events: none;
+}
+.gradient.top {
+  top: 0;
+  background: linear-gradient(to bottom, #f8fafc, transparent);
+}
+.gradient.bottom {
+  bottom: 0;
+  background: linear-gradient(to top, #f8fafc, transparent);
+}
+</style>
+
+<script>
+(function(){
+  const appIds = "{{ .Get "apps" }}".split(',').map(id => id.trim());
+  const minStars = "{{ .Get "stars" }}".split(',').map(Number);
+  const scrollSpeed = 1;
+  const containerId = "commentsContainer-{{ .Get "apps" | urlize }}";
+  const container = document.getElementById(containerId);
+  let currentAppIndex = 0;
+  let currentPage = 1;
+  let isLoading = false;
+
+  function generateStars(rating) {
+    return '★'.repeat(rating) + '☆'.repeat(5 - rating);
+  }
+
+  function renderComment(comment) {
+    const rating = parseInt(comment['im:rating'].label, 10);
+    const div = document.createElement('div');
+    div.className = 'comment';
+    div.innerHTML = `
+      <h3>${comment.author.name.label}</h3>
+      <p class="stars">${generateStars(rating)}</p>
+      <p class="date">${new Date(comment.updated.label).toLocaleDateString()}</p>
+      <p class="description">${comment.content.label}</p>
+    `;
+    container.appendChild(div);
+  }
+
+  async function fetchComments(appId, page) {
+    const url = `https://itunes.apple.com/us/rss/customerreviews/page=${page}/id=${appId}/sortby=mostrecent/json`;
+    try {
+      const res = await fetch(url);
+      const data = await res.json();
+      const entries = data.feed.entry || [];
+      return entries.filter(c => minStars.includes(parseInt(c['im:rating'].label, 10)));
+    } catch {
+      return [];
+    }
+  }
+
+  async function loadComments() {
+    if (isLoading) return;
+    isLoading = true;
+    const appId = appIds[currentAppIndex];
+    const comments = await fetchComments(appId, currentPage++);
+    comments.forEach(renderComment);
+
+    // If fewer than 10 comments, switch app or loop
+    if (comments.length < 10) {
+      currentPage = 1;
+      currentAppIndex = (currentAppIndex + 1) % appIds.length;
+    }
+
+    isLoading = false;
+  }
+
+  function startScroll() {
+    let pos = 0;
+    function scroll() {
+      pos += scrollSpeed;
+      if (pos >= container.scrollHeight - 400) pos = 0;
+      container.style.transform = `translateY(-${pos}px)`;
+      requestAnimationFrame(scroll);
+    }
+    scroll();
+  }
+
+  document.addEventListener('DOMContentLoaded', async () => {
+    await loadComments();
+    startScroll();
+    setInterval(loadComments, 15000); // Periodically refresh
+  });
+})();
+</script>
