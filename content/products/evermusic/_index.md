@@ -109,6 +109,72 @@ tags: ["Evermusic", "offline playback", "cloud music", "MP3 player", "iPhone app
 
 <div class="hx:w-full hx:max-w-screen-lg hx:mx-auto hx:flex hx:flex-col hx:items-center hx:text-center">
   {{< hextra/section-headline >}}
+   Clean & Simple Design
+  {{< /hextra/section-headline >}}
+</div>
+
+<div class="hx:mt-6"></div>
+
+<div class="hx:w-full hx:px-4">
+
+{{< cards cols="4">}}
+
+  {{< card 
+    image="./screenshots/2048x2732/3.png" 
+    title="Audio Equalizer" 
+    method="Fill"
+    options="400x200 q95 webp"
+    subtitle="Fine-tune your sound with an iPod-style audio equalizer, customizable presets, and preamp gain for the best listening experience." 
+  >}}
+
+  {{< card 
+    image="./screenshots/2048x2732/4.png"  
+    title="Lyrics Viewer" 
+    method="Fill"
+    options="400x200 q95 webp"
+    subtitle="Read embedded lyrics and track comments while listening. Enjoy synchronized lyrics for a more immersive music experience." 
+  >}}
+
+  {{< card 
+    image="./screenshots/2048x2732/5.png"  
+    title="Playlist Manager" 
+    method="Fill"
+    options="400x200 q95 webp"
+    subtitle="Create and organize custom playlists, reorder songs, export to M3U, or archive them as ZIP files for easy sharing or backup." 
+  >}}
+
+  {{< card 
+    image="./screenshots/2048x2732/6.png"  
+    title="Cloud Music Streaming" 
+    method="Fill"
+    options="400x200 q95 webp"
+    subtitle="Link top cloud storage platforms like Google Drive, Dropbox, and OneDrive to stream your music collection anytime, anywhere." 
+  >}}
+
+  {{< card 
+    image="./screenshots/2048x2732/9.png"  
+    title="File Manager" 
+    method="Fill"
+    options="400x200 q95 webp"
+    subtitle="Easily manage your audio files—rename tracks, organize folders, and transfer music between devices using built-in tools." 
+  >}} 
+
+  {{< card 
+    image="./screenshots/2048x2732/10.png"  
+    title="App Customization" 
+    method="Fill"
+    options="400x200 q95 webp"
+    subtitle="Tailor the player to your style: switch themes, adjust layout, and configure features for a truly personalized music app experience." 
+  >}}
+
+{{< /cards >}}
+
+</div>
+
+<div class="hx:mt-6"></div>
+
+<div class="hx:w-full hx:max-w-screen-lg hx:mx-auto hx:flex hx:flex-col hx:items-center hx:text-center">
+  {{< hextra/section-headline >}}
    Full Features Set
   {{< /hextra/section-headline >}}
 </div>
@@ -288,10 +354,13 @@ tags: ["Evermusic", "offline playback", "cloud music", "MP3 player", "iPhone app
 
 <div class="hx:w-full hx:max-w-screen-lg hx:mx-auto hx:flex hx:flex-col hx:items-center">
 
-> [!NOTE]
-> <strong>Family Sharing</strong>: enabled for all purchases and plans, so you can share the Premium version with members of your family.  
-> <strong>Universal plans</strong>: lifetime purchases and subscriptions are shared between iOS and Mac, using iCloud to sync this information.  
-> <strong>Prices</strong>: all prices are in US dollars and displayed for the USA region. Prices may vary depending on your region.
+{{< cards cols="1">}}
+  {{< card icon="light-bulb" subtitle=`
+<strong>Family Sharing</strong>: enabled for all purchases and plans, so you can share the Premium version with members of your family.  
+<strong>Universal plans</strong>: lifetime purchases and subscriptions are shared between iOS and Mac, using iCloud to sync this information.  
+<strong>Prices</strong>: all prices are in US dollars and displayed for the USA region. Prices may vary depending on your region.
+  ` >}}
+{{< /cards >}}
 
 </div>  
 
