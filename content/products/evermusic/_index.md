@@ -39,7 +39,7 @@ tags: ["Evermusic", "offline playback", "cloud music", "MP3 player", "iPhone app
 
   <div class="hx:flex-1">
     {{< hextra/hero-button 
-      text="Download for iPhone"
+      text="Download for mobile"
       link="https://apps.apple.com/app/apple-store/id885367198?pt=95781850&ct=everappzcom&mt=8"
       icon="device-mobile" 
     >}}
@@ -47,7 +47,7 @@ tags: ["Evermusic", "offline playback", "cloud music", "MP3 player", "iPhone app
 
   <div class="hx:flex-1">
     {{< hextra/hero-button 
-      text="Download for Mac"
+      text="Download for desktop"
       link="https://apps.apple.com/app/apple-store/id1564384601?pt=95781850&ct=everappzcom&mt=8"
       icon="desktop-computer" 
     >}}
@@ -113,19 +113,24 @@ tags: ["Evermusic", "offline playback", "cloud music", "MP3 player", "iPhone app
   {{< /hextra/hero-headline >}}
 </div>
 
+
+<div class="hx:w-full hx:px-4">
+
 {{< cards >}}
 
-  {{< card title="Audio Formats" subtitle="Supports: mpeg, aifc, 3gp, avi, aif, latm, 3gpp, m4a, loas, cdda, aac, m4p, m4b, ac3, pls, mp4v, m3u, m4r, aiff, xhe, mp1, snd, mp2, wav, qt, wave, m3u8, m4v, mp3, 3g2, caf, mp4, flac, au, w64, ec3, adts, amr, vtt, mpa, aa." icon="music-note" >}}
+  {{< card title="Audio Formats" subtitle="Supports: mp3, m4a, flac, wav, aac, mp4, m3u, m3u8, m4b, m4p, aiff, ogg, mp2, ac3, wma, and more." icon="music-note" >}}
 
-  {{< card title="Audiobooks" subtitle="Includes audio bookmarks, playback speed control, and resume position." icon="book-open" >}}
+  {{< card title="Audiobooks" subtitle="Includes audio bookmarks, playback speed control, and resume position." icon="book-open" width="50">}}
 
   {{< card title="Automatic Sync" subtitle="Syncs your music library with the cloud, organized by artist, album, and genre." icon="refresh" >}}
 
   {{< card title="File Manager" subtitle="Manage files with operations like copy, move, rename, and delete." icon="folder" >}}
 
-  {{< card title="Cloud Services" subtitle="Supports iCloud, Google Drive, Dropbox, OneDrive, MEGA, WebDAV, SMB, and more." icon="cloud" >}}
+  {{< card title="Cloud Services" subtitle="Supports iCloud, Google Drive, Dropbox, OneDrive, Box, MEGA, WD MyCloud Home, pCloud, and more." icon="cloud" >}}
 
   {{< card title="Crossfade Playback" subtitle="Next song starts before the current one ends for seamless transitions." icon="switch-horizontal" >}}
+
+  {{< card title="Gapless Playback" subtitle="No pauses between songs — ideal for live, classical, or concept albums." icon="volume-up" >}}
 
   {{< card title="Audio Equalizer" subtitle="Customizable equalizer with presets, manual control, and preamp gain." icon="adjustments" >}}
 
@@ -139,15 +144,19 @@ tags: ["Evermusic", "offline playback", "cloud music", "MP3 player", "iPhone app
 
   {{< card title="USB Flash Cards" subtitle="Play music directly from SD cards using external readers like SanDisk iXpand." icon="inbox" >}}
 
-  {{< card title="Offline Mode" subtitle="Download music or auto-cache recently played tracks for offline listening." icon="download" >}}
+  {{< card title="Offline Mode" subtitle="Download albums and playlists or auto-cache recently played tracks for offline listening." icon="download" >}}
 
   {{< card title="Apple CarPlay" subtitle="Drive safely with a dedicated CarPlay UI for music playback." icon="truck" >}}
 
   {{< card title="ID3 Tags Editor" subtitle="Edit corrupted or missing metadata using the built-in tags editor." icon="pencil-alt" >}}
 
-  {{< card title="Gapless Playback" subtitle="No pauses between songs — ideal for live, classical, or concept albums." icon="volume-up" >}}
+  {{< card title="Lyrics and Comments" subtitle="View embedded lyrics and comments while listening to your music." icon="annotation" >}}
 
+  {{< card title="Last.fm" subtitle="Connect your Last.fm account to get personalized listening stats and recommendations." icon="chart-bar" >}}
+  
 {{< /cards >}}
+
+</div>
 
 <div class="hx:mt-6"></div>
 
@@ -168,8 +177,6 @@ tags: ["Evermusic", "offline playback", "cloud music", "MP3 player", "iPhone app
 </div>
 
 <div class="hx:mt-6"></div>
-
-
 
 
 {{< hextra/feature-grid cols="4">}}
@@ -276,5 +283,14 @@ tags: ["Evermusic", "offline playback", "cloud music", "MP3 player", "iPhone app
   >}}
 
 {{< /hextra/feature-grid >}}
+
+<div class="hx:w-full hx:max-w-screen-lg hx:mx-auto hx:flex hx:flex-col hx:items-center">
+
+> [!NOTE]
+> <strong>Family Sharing</strong>: enabled for all purchases and plans, so you can share the Premium version with members of your family.  
+> <strong>Universal plans</strong>: lifetime purchases and subscriptions are shared between iOS and Mac, using iCloud to sync this information.  
+> <strong>Prices</strong>: all prices are in US dollars and displayed for the USA region. Prices may vary depending on your region.
+
+</div>  
 
 </body>
