@@ -1,0 +1,13 @@
+{{- $style := .Get "style" -}}
+{{- $border := .Get "border" | default "false" -}}
+
+{{- $base := "not-prose hx:text-sm hx:font-normal hx:text-gray-500 hx:dark:text-gray-400 hx:text-left" -}}
+{{- $padding := "hx:p-4" -}}
+
+{{- if eq $border "true" -}}
+  {{- $base = printf "%s %s" $base "hx:rounded-lg hx:border hx:border-gray-200 hx:dark:border-neutral-800 hx:hover:border-gray-300 hx:dark:hover:border-neutral-700 hx:transition-all hx:duration-200" -}}
+{{- end -}}
+
+<p class="{{ $base }} {{ $padding }}" {{ with $style }}style="{{ . | safeCSS }}"{{ end }}>
+  {{ .Inner | markdownify }}
+</p>
