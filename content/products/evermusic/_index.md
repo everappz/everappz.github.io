@@ -391,6 +391,7 @@ Moreover, Evermusic allows you to play local files stored directly on your iPhon
 You can easily import music from your device's storage or from the iTunes music library.<br>
 This means you can enjoy your entire music collection, whether it's stored in the cloud or locally on your device.<br>
 With Evermusic, all your favorite tracks are accessible in one convenient place.<br><br>
+
 Explore our how-to guides for more details:<br>
 - [How to play music from iCloud Drive on my iPhone or Mac.](https://www.everappz.com/post/how-to-listen-to-music-from-icloud-drive-on-your-iphone-or-mac)<br>
 - [How To Enable DLNA Media Server on Windows 10 and Play Your Music on iPhone.](https://www.everappz.com/post/how-to-enable-dlna-media-server-on-windows-10-and-play-your-music-on-iphone)<br>
@@ -403,7 +404,7 @@ Explore our how-to guides for more details:<br>
 {{% details title="Is Evermusic Free?" closed="true" %}}
 Evermusic is a free application with some limits that you can remove after upgrading to the Premium version. The application offers a one-time lifetime in-app purchase and two subscription options (1 month and 1 year) to remove all restrictions, allowing you to choose the best and most optimal price for you. Prices may vary depending on your country or territory. Also, please keep in mind that Family Sharing is enabled for all purchases and plans, so you can share the Premium version with members of your family.<br><br>
 Lifetime purchases and subscriptions are shared between iOS and Mac, using iCloud to sync this information. If you have the premium version on your iOS device, please ensure you have the latest version installed and that iCloud is enabled. Start the app on iOS and wait one minute for your purchase information to upload to iCloud.<br><br>
-Yo can read more about [What is the differences between Evermusic and Evermusic Premium](https://www.everappz.com/post/what-is-the-difference-between-evermusic-and-evermusic-premium)
+[Read more](https://www.everappz.com/post/what-is-the-difference-between-evermusic-and-evermusic-premium)
 {{% /details %}}
 
 {{% details title="What is the difference between Evermusic free and Evermusic Premium?" closed="true" %}}
@@ -432,7 +433,7 @@ Yo can read more about [What is the differences between Evermusic and Evermusic 
 • Unlimited Media Collections Export: Allows unlimited media collections (playlists, albums, artists, genres) exports to m3u/csv/txt.<br>
 • Full Personalization: Provides full personalization options, including the ability to change the app icon.<br><br>
 
-We've got a comprehensive comparison post available right here:<br>
+We've got a comparison post available here:<br>
 [What is the difference between Evermusic and Evermusic Premium](https://www.everappz.com/post/what-is-the-difference-between-evermusic-and-evermusic-premium)
 {{% /details %}}
 
@@ -448,7 +449,7 @@ To reject auth-token login to your account on the web browser and navigate to th
 
 You can also disconnect the connected cloud accounts in the application and auth-token will be also removed from your device. If you remove the application from your device all downloaded data and access tokens will be also removed.<br><br>
 
-Read more about [Connections in Evermusic](https://www.everappz.com/post/evermusic-guide-connections)
+[Read more](https://www.everappz.com/post/evermusic-guide-connections)
 {{% /details %}}
 
 {{% details title="How do I make a playlist on Evermusic?" closed="true" %}}
@@ -457,7 +458,7 @@ Read more about [Connections in Evermusic](https://www.everappz.com/post/evermus
 - Enter a name for the playlist and tap "Save." The "Add Songs" dialog will appear.<br>
 - Select the tracks you want to add to the playlist.<br><br>
 
-You can find more detailed instructions in our guide: [Evermusic Guide: Playlists](https://www.everappz.com/post/evermusic-guide-playlists)
+[Read more](https://www.everappz.com/post/evermusic-guide-playlists)
 {{% /details %}}
 
 {{% details title="What cloud services does Evermusic support?" closed="true" %}}
@@ -538,7 +539,7 @@ You can view embedded lyrics for tracks in the Evermusic app by **following thes
 2. Lyrics Mode: Shows the embedded lyrics from your audio file. If your audio file has lyrics in the tags, they will appear here. This mode also supports timed text in LRC format. To edit the lyrics tag, use an external audio tag editor like Evertag. You can find LRC format lyrics for free on websites like Lyricsify. Copy the needed lyrics to your tags and save them to display later on this screen.<br>
 3. LRC File Mode: Instead of editing audio files, you can place an LRC file in the same folder as the original audio file. Both files should have the same name but different extensions. When you swipe to the third page on the Comments screen, the app will search for the LRC file in the same directory and display its content.<br><br>
 
-Read more about [How to add and view comments](https://www.everappz.com/post/how-to-add-and-view-comments-to-your-audio-tracks-on-iphone-ipad-and-mac-with-evermusic-and-flacbox)
+[Read more](https://www.everappz.com/post/how-to-add-and-view-comments-to-your-audio-tracks-on-iphone-ipad-and-mac-with-evermusic-and-flacbox)
 {{% /details %}}
 
 {{% details title="13. How do I transfer music to Evermusic from my computer?" closed="true" %}}
@@ -546,18 +547,22 @@ You can connect your computer or personal NAS using SMB, WebDAV, or DLNA protoco
 
 To connect a computer using SMB protocol tap "Connect a cloud service" → SMB. Enter computer IP address and shared folder name in URL field using format smb://computer-ip-address/shared-folder-name, enter login and password and tap "Done". If your connection is successful you will see connected storage in the "Cloud services" section.<br><br>
 
-A full tutorial available here: [Transfer your files from the computer to iPhone using SMB protocol](https://www.everappz.com/post/transfer-your-files-from-the-computer-to-iphone-using-smb-protocol)<br><br>
+A full tutorial available here:<br>
+[Transfer your files from the computer to iPhone using SMB protocol](https://www.everappz.com/post/transfer-your-files-from-the-computer-to-iphone-using-smb-protocol)<br><br>
 
 For WebDAV protocol, all steps are the same instead of the URL field. URL should be in format http://server-name or https://server-name if the server supports SSL.<br><br>
 
 Wi-Fi Drive is a popular technology that allows you to transfer files from your computer to an iOS device wirelessly using a desktop browser. To use this feature your device and computer should be connected to the same Wi-Fi network. Open "Connections" → "Computer" → "Connect using Wi-Fi" and enable the server. After this open a desktop browser and enter the URL from the application. You can drag-n-drop files from your computer to the opened web page and they will appear on the device.<br>
-More detailed tutorial available here: [How to transfer files wirelessly from a computer to an iPhone using WiFi-Drive](https://www.everappz.com/post/how-to-transfer-files-wirelessly-from-a-computer-to-an-iphone-using-wifi-drive)<br><br>
+More detailed tutorial available here:<br>
+[How to transfer files wirelessly from a computer to an iPhone using WiFi-Drive](https://www.everappz.com/post/how-to-transfer-files-wirelessly-from-a-computer-to-an-iphone-using-wifi-drive)<br><br>
 
 iTunes File Sharing is another technology that allows you to transfer files from computer to device using iTunes and lightning cable. Just connect a device to the computer using a cable and run iTunes. Open the iTunes → "Applications section" → and find Evermusic. Tap on the app icon to see a shared folder. Copy files from the computer to the shared folder on the device.<br><br>
 
-Detailed instruction available here: [How to play local files (iTunes files) on my iPhone](https://www.everappz.com/post/how-to-play-local-itunes-files-on-my-iphone)<br><br>
+Detailed instruction available here:<br>
+[How to play local files (iTunes files) on my iPhone](https://www.everappz.com/post/how-to-play-local-itunes-files-on-my-iphone)<br><br>
 
-DLNA You can also setup DLNA media server and stream your music from Window PC as described here: [How To Enable DLNA Media Server on Windows 10 and Play Your Music on iPhone](https://www.everappz.com/post/how-to-enable-dlna-media-server-on-windows-10-and-play-your-music-on-iphone)
+DLNA You can also setup DLNA media server and stream your music from Window PC as described here:<br>
+[How To Enable DLNA Media Server on Windows 10 and Play Your Music on iPhone](https://www.everappz.com/post/how-to-enable-dlna-media-server-on-windows-10-and-play-your-music-on-iphone)
 {{% /details %}}
 
 {{% details title="How to download music?" closed="true" %}}
@@ -576,9 +581,11 @@ Once you added a network account you can download your music from the cloud.<br>
 – Tap the "Offline mode" checkbox<br>
 – Offline Artist/Album/Playlist/Genre will appear in the "Offline music" section of the music library<br><br>
 
-More detailed instruction about offline mode available here: [Play Offline Music in Evermusic & Flacbox: Download & Sync from Cloud to Local Files](https://www.everappz.com/post/play-offline-music-in-evermusic-flacbox-download-sync-from-cloud-to-local-files)<br><br>
+More detailed instruction about offline mode available here:<br>
+[Play Offline Music in Evermusic & Flacbox: Download & Sync from Cloud to Local Files](https://www.everappz.com/post/play-offline-music-in-evermusic-flacbox-download-sync-from-cloud-to-local-files)<br><br>
 
-Another available option is download music from cloud services and import it in Evermusic as described here: [How to Download Music From YouTube and Listen to Offline Music on iPhone](https://www.everappz.com/post/how-to-download-music-from-youtube-and-listen-to-offline-music-on-iphone)
+Another available option is download music from cloud services and import it in Evermusic as described here:<br>
+[How to Download Music From YouTube and Listen to Offline Music on iPhone](https://www.everappz.com/post/how-to-download-music-from-youtube-and-listen-to-offline-music-on-iphone)
 {{% /details %}}
 
 
