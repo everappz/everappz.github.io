@@ -108,11 +108,12 @@ tags: ["Evermusic", "offline playback", "cloud music", "MP3 player", "iPhone app
 <div class="hx:mt-6"></div>
 
 <div class="hx:w-full hx:max-w-screen-lg hx:mx-auto hx:flex hx:flex-col hx:items-center hx:text-center">
-  {{< hextra/hero-headline style="margin:20px 0" >}}
+  {{< hextra/section-headline >}}
    Full Features Set
-  {{< /hextra/hero-headline >}}
+  {{< /hextra/section-headline >}}
 </div>
 
+<div class="hx:mt-6"></div>
 
 <div class="hx:w-full hx:px-4">
 
@@ -161,23 +162,24 @@ tags: ["Evermusic", "offline playback", "cloud music", "MP3 player", "iPhone app
 <div class="hx:mt-6"></div>
 
 <div class="hx:w-full hx:max-w-screen-lg hx:mx-auto hx:flex hx:flex-col hx:items-center hx:text-center">
-  {{< hextra/hero-headline style="margin:20px 0" >}}
+  {{< hextra/section-headline style="margin:20px 0" >}}
    Reviews
-  {{< /hextra/hero-headline >}}
+  {{< /hextra/section-headline >}}
 </div>
+
+<div class="hx:mt-6"></div>
 
 {{< appstore-reviews apps="885367198,1564384601" stars="5,4" >}}
 
 <div class="hx:mt-6"></div>
 
 <div class="hx:w-full hx:max-w-screen-lg hx:mx-auto hx:flex hx:flex-col hx:items-center hx:text-center">
-  {{< hextra/hero-headline style="margin:20px 0" >}}
+  {{< hextra/section-headline style="margin:20px 0" >}}
    Pricing Plans
-  {{< /hextra/hero-headline >}}
+  {{< /hextra/section-headline >}}
 </div>
 
 <div class="hx:mt-6"></div>
-
 
 {{< hextra/feature-grid cols="4">}}
 
