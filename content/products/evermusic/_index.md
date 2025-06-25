@@ -120,6 +120,7 @@ tags: ["Evermusic", "offline playback", "cloud music", "MP3 player", "iPhone app
 {{< cards cols="4">}}
 
   {{< card 
+    icon="adjustments"
     image="./screenshots/2048x2732/3.png" 
     title="Audio Equalizer" 
     method="Fill"
@@ -128,6 +129,7 @@ tags: ["Evermusic", "offline playback", "cloud music", "MP3 player", "iPhone app
   >}}
 
   {{< card 
+    icon="annotation"
     image="./screenshots/2048x2732/4.png"  
     title="Lyrics Viewer" 
     method="Fill"
@@ -136,6 +138,7 @@ tags: ["Evermusic", "offline playback", "cloud music", "MP3 player", "iPhone app
   >}}
 
   {{< card 
+    icon="collection"
     image="./screenshots/2048x2732/5.png"  
     title="Playlist Manager" 
     method="Fill"
@@ -144,6 +147,7 @@ tags: ["Evermusic", "offline playback", "cloud music", "MP3 player", "iPhone app
   >}}
 
   {{< card 
+    icon="cloud"
     image="./screenshots/2048x2732/6.png"  
     title="Cloud Music Streaming" 
     method="Fill"
@@ -152,6 +156,7 @@ tags: ["Evermusic", "offline playback", "cloud music", "MP3 player", "iPhone app
   >}}
 
   {{< card 
+    icon="duplicate"
     image="./screenshots/2048x2732/9.png"  
     title="File Manager" 
     method="Fill"
@@ -160,6 +165,7 @@ tags: ["Evermusic", "offline playback", "cloud music", "MP3 player", "iPhone app
   >}} 
 
   {{< card 
+    icon="sun"
     image="./screenshots/2048x2732/10.png"  
     title="App Customization" 
     method="Fill"
