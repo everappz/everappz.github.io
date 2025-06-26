@@ -130,7 +130,7 @@ tags: ["Evermusic", "offline playback", "cloud music", "MP3 player", "iPhone app
     image="./screenshots/2048x2732/3.png" 
     title="Audio Equalizer" 
     method="Fill"
-    options="400x200 q95 webp"
+    options="400x200"
     subtitle="Fine-tune your sound with an iPod-style audio equalizer, customizable presets, and preamp gain for the best listening experience." 
   >}}
 
@@ -139,7 +139,7 @@ tags: ["Evermusic", "offline playback", "cloud music", "MP3 player", "iPhone app
     image="./screenshots/2048x2732/4.png"  
     title="Lyrics Viewer" 
     method="Fill"
-    options="400x200 q95 webp"
+    options="400x200"
     subtitle="Read embedded lyrics and track comments while listening. Enjoy synchronized lyrics for a more immersive music experience." 
   >}}
 
@@ -148,7 +148,7 @@ tags: ["Evermusic", "offline playback", "cloud music", "MP3 player", "iPhone app
     image="./screenshots/2048x2732/5.png"  
     title="Playlist Manager" 
     method="Fill"
-    options="400x200 q95 webp"
+    options="400x200"
     subtitle="Create and organize custom playlists, reorder songs, export to M3U, or archive them as ZIP files for easy sharing or backup." 
   >}}
 
@@ -157,7 +157,7 @@ tags: ["Evermusic", "offline playback", "cloud music", "MP3 player", "iPhone app
     image="./screenshots/2048x2732/6.png"  
     title="Cloud Music Streaming" 
     method="Fill"
-    options="400x200 q95 webp"
+    options="400x200"
     subtitle="Link top cloud storage platforms like Google Drive, Dropbox, and OneDrive to stream your music collection anytime, anywhere." 
   >}}
 
@@ -166,7 +166,7 @@ tags: ["Evermusic", "offline playback", "cloud music", "MP3 player", "iPhone app
     image="./screenshots/2048x2732/9.png"  
     title="File Manager" 
     method="Fill"
-    options="400x200 q95 webp"
+    options="400x200"
     subtitle="Easily manage your audio files—rename tracks, organize folders, and transfer music between devices using built-in tools." 
   >}} 
 
@@ -175,7 +175,7 @@ tags: ["Evermusic", "offline playback", "cloud music", "MP3 player", "iPhone app
     image="./screenshots/2048x2732/10.png"  
     title="App Customization" 
     method="Fill"
-    options="400x200 q95 webp"
+    options="400x200"
     subtitle="Tailor the player to your style: switch themes, adjust layout, and configure features for a truly personalized music app experience." 
   >}}
 

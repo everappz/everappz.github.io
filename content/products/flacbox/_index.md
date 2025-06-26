@@ -153,7 +153,7 @@ All-Inclusive Features
     image="./screenshots/2048x2732/1.png" 
     title="Audio Player" 
     method="Fill"
-    options="400x200 q95 webp"
+    options="400x200"
     subtitle="Advanced music player with repeat, shuffle, speed control, and pitch adjustment." 
     icon="play"
   >}}
@@ -162,7 +162,7 @@ All-Inclusive Features
     image="./screenshots/2048x2732/2.png"  
     title="Audio Equalizer" 
     method="Fill"
-    options="400x200 q95 webp"
+    options="400x200"
     subtitle="Custom equalizer with presets, bass boost, and preamp for better sound." 
     icon="adjustments"
   >}}
@@ -171,7 +171,7 @@ All-Inclusive Features
     image="./screenshots/2048x2732/3.png"  
     title="Playlists Manager" 
     method="Fill"
-    options="400x200 q95 webp"
+    options="400x200"
     subtitle="Make playlists, change song order, export to M3U or ZIP for backup or sharing." 
     icon="collection"
   >}}
@@ -180,7 +180,7 @@ All-Inclusive Features
     image="./screenshots/2048x2732/5.png"  
     title="Media Library" 
     method="Fill"
-    options="400x200 q95 webp"
+    options="400x200"
     subtitle="Organize songs by album, artist, or genre using audio tags and metadata." 
     icon="library"
   >}}
@@ -189,7 +189,7 @@ All-Inclusive Features
     image="./screenshots/2048x2732/7.png"  
     title="Cloud Storage" 
     method="Fill"
-    options="400x200 q95 webp"
+    options="400x200"
     subtitle="Stream music from Google Drive, Dropbox, OneDrive, and other cloud services." 
     icon="cloud"
   >}}
@@ -198,7 +198,7 @@ All-Inclusive Features
     image="./screenshots/2048x2732/8.png"  
     title="iCloud Drive" 
     method="Fill"
-    options="400x200 q95 webp"
+    options="400x200"
     subtitle="Store lossless music in iCloud and stream it directly without downloading." 
     icon="wifi"
   >}}
