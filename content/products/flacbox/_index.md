@@ -20,7 +20,7 @@ tags: ["FLAC player", "Hi-Res audio", "offline playback", "cloud music", "DSD au
 
 {{< hextra/hero-badge link="../../blog/flacbox-celebrates-1-million-worldwide-downloads-your-gateway-to-hi-res-music/" >}}
   <div class="hx:w-2 hx:h-2 hx:rounded-full hx:bg-primary-400"></div>
-  <span>1 million downloads</span>
+  <span>1 Million Downloads Worldwide</span>
   {{< icon name="arrow-circle-right" attributes="height=14" >}}
 {{< /hextra/hero-badge >}}
 
@@ -32,7 +32,7 @@ tags: ["FLAC player", "Hi-Res audio", "offline playback", "cloud music", "DSD au
 
 <div class="hx:mb-12">
 {{< hextra/hero-subtitle >}}
-<strong>Hi-Res Audio Player and Streamer for iPhone and MAC</strong><br><br>
+<strong>Hi-Res Audio Player and Streamer&nbsp;<br class="hx:sm:block hx:hidden" />for iPhone and MAC</strong>
 {{< /hextra/hero-subtitle >}}
 </div>
 
@@ -65,7 +65,7 @@ tags: ["FLAC player", "Hi-Res audio", "offline playback", "cloud music", "DSD au
 {{< hextra/feature-grid >}}
 
   {{< hextra/feature-card
-    title="Stream Lossless Music from Your Own Cloud"
+    title="Stream Lossless Music"
     subtitle=`Enjoy lossless music on iPhone, iPad, and Mac without subscriptions.<br><br>
 Connect your cloud storage to stream FLAC, ALAC, MKA and more for free. Easily cast to Chromecast and AirPlay devices.<br><br>
 Build your music library, organize tracks by album, artist, and genre. Enhance audio with a built-in equalizer, pitch/speed control, and bass boost.`
@@ -74,16 +74,16 @@ Build your music library, organize tracks by album, artist, and genre. Enhance a
   >}}
 
   {{< hextra/feature-card
-    title="Support for 120+ Audio and Video Formats"
-    subtitle=`Play virtually any audio format including FLAC, MP3, AAC, ALAC, WAV, OGG, and more.<br><br>
-Flacbox even supports formats such as MOD, MKA, APE, CUE, DFF, WMA, AIFF, and even video/audio containers like MKV, MP4, MOV, and AVI.<br><br>
+    title="Play High-Res Audio"
+    subtitle=`Enjoy studio-quality sound with support for over 120 audio formats, including FLAC, ALAC, WAV, AIFF, and DSD.<br><br>
+Flacbox also plays MP3, AAC, OGG, APE, MOD, MKA, and advanced containers like MKV, MP4, and MOV.<br><br>
 With wide codec compatibility, your entire collection is accessible no conversion needed.`
     icon="volume-up"
     style="background: radial-gradient(circle at 50% 80%, rgba(236,72,153,0.15), transparent);"
   >}}
 
   {{< hextra/feature-card
-    title="Download Music and Listen Offline"
+    title="Download & Listen Offline"
     subtitle=`Stay connected to your music even when you're offline.<br><br>
 Download entire albums, genres, playlists, and tracks to your device. Use Wi-Fi Drive or iTunes File Sharing to transfer audio from Mac or PC.<br><br>
 Stream from USB flash drives or network storage (NAS) and enjoy your full music library without Internet access.`
@@ -153,7 +153,7 @@ All-Inclusive Features
     image="./screenshots/2048x2732/1.png" 
     title="Audio Player" 
     method="Fill"
-    options="400x200"
+    options="515x200"
     subtitle="Advanced music player with repeat, shuffle, speed control, and pitch adjustment." 
     icon="play"
   >}}
@@ -162,7 +162,7 @@ All-Inclusive Features
     image="./screenshots/2048x2732/2.png"  
     title="Audio Equalizer" 
     method="Fill"
-    options="400x200"
+    options="515x200"
     subtitle="Custom equalizer with presets, bass boost, and preamp for better sound." 
     icon="adjustments"
   >}}
@@ -171,7 +171,7 @@ All-Inclusive Features
     image="./screenshots/2048x2732/3.png"  
     title="Playlists Manager" 
     method="Fill"
-    options="400x200"
+    options="515x200"
     subtitle="Make playlists, change song order, export to M3U or ZIP for backup or sharing." 
     icon="collection"
   >}}
@@ -180,7 +180,7 @@ All-Inclusive Features
     image="./screenshots/2048x2732/5.png"  
     title="Media Library" 
     method="Fill"
-    options="400x200"
+    options="515x200"
     subtitle="Organize songs by album, artist, or genre using audio tags and metadata." 
     icon="library"
   >}}
@@ -189,7 +189,7 @@ All-Inclusive Features
     image="./screenshots/2048x2732/7.png"  
     title="Cloud Storage" 
     method="Fill"
-    options="400x200"
+    options="515x200"
     subtitle="Stream music from Google Drive, Dropbox, OneDrive, and other cloud services." 
     icon="cloud"
   >}}
@@ -198,7 +198,7 @@ All-Inclusive Features
     image="./screenshots/2048x2732/8.png"  
     title="iCloud Drive" 
     method="Fill"
-    options="400x200"
+    options="515x200"
     subtitle="Store lossless music in iCloud and stream it directly without downloading." 
     icon="wifi"
   >}}
@@ -345,29 +345,14 @@ All-Inclusive Features
 
 <div class="hx:mt-6"></div>
 
-{{% details title="What is Evermusic?" closed="true" %}}
-Evermusic is a music player app that helps you listen to your favorite songs from different cloud storage services.<br>
-You can easily download music to play offline, create and manage playlists, and use a built-in equalizer to enhance your listening experience.<br>
-It works with services like Google Drive, Dropbox, OneDrive, and more, so you can keep all your music in one place and access it from any device.<br><br>
-The app also supports various audio formats and lets you organize your music library by artist, album, genre, and composer.<br>
-You can sync your library between your cloud storage and your device, ensuring you always have your favorite tunes available.<br>
-Plus, with features like gapless playback, crossfade, and the ability to stream music to Chromecast and AirPlay devices, Evermusic offers a complete solution for all your music needs.
-{{% /details %}}
-
-{{% details title="How does Evermusic work?" closed="true" %}}
-Evermusic works by connecting to various cloud storage services, such as Google Drive, Dropbox, OneDrive, and others, allowing you to access your music library from any device.<br>
-Once connected, you can browse and stream your music directly from the cloud, or download your favorite songs, albums, and playlists for offline playback.<br>
-The app supports multiple audio formats, making it easy to play any music file you have stored.<br><br>
-In addition to cloud integration, Evermusic offers powerful features to enhance your listening experience.<br>
-You can create and manage playlists, use the built-in equalizer to adjust sound quality, and enjoy seamless playback with features like gapless playback and crossfade.<br>
-The app also supports streaming to devices like Chromecast and AirPlay, letting you play your music on any compatible device.<br>
-With Evermusic, you can organize your music library by artist, album, genre, and composer, and keep it synchronized across your cloud storage and devices, ensuring you always have access to your favorite tunes.<br><br>
-Moreover, Evermusic allows you to play local files stored directly on your iPhone, iPad, or Mac.<br>
-You can easily import music from your device's storage or from the iTunes music library.<br>
-This means you can enjoy your entire music collection, whether it's stored in the cloud or locally on your device.<br>
-With Evermusic, all your favorite tracks are accessible in one convenient place.<br><br>
+{{% details title="How does Flacbox work?" closed="true" %}}
+Flacbox is a hi-res music player that lets you manage audio tracks like regular files.<br>
+You can upload your entire music collection to cloud services like Dropbox, Google Drive, or a personal NAS and play music directly from the cloud with full control.<br><br>
+No iTunes sync is needed—just upload from your PC or Mac like you do with any file.<br>
+To listen offline, use the built-in download manager to save music to your device.<br><br>
 
 Explore our how-to guides for more details:<br>
+- [Flacbox guide](https://www.everappz.com/post/flacbox-guide)<br>
 - [How to play music from iCloud Drive on my iPhone or Mac.](https://www.everappz.com/post/how-to-listen-to-music-from-icloud-drive-on-your-iphone-or-mac)<br>
 - [How To Enable DLNA Media Server on Windows 10 and Play Your Music on iPhone.](https://www.everappz.com/post/how-to-enable-dlna-media-server-on-windows-10-and-play-your-music-on-iphone)<br>
 - [How to upload my files to the cloud storage and connect them to Evermusic, Flacbox, Evertag.](https://www.everappz.com/post/how-to-upload-my-files-to-the-cloud-storage-and-connect-them-to-evermusic-flacbox-evertag)<br>
@@ -376,45 +361,135 @@ Explore our how-to guides for more details:<br>
 - [How to play music on iPhone from WD My Cloud Home.](https://www.everappz.com/post/how-to-play-music-on-iphone-from-wd-my-cloud-home)
 {{% /details %}}
 
-{{% details title="Is Evermusic Free?" closed="true" %}}
-Evermusic is a free application with some limits that you can remove after upgrading to the Premium version. The application offers a one-time lifetime in-app purchase and two subscription options (1 month and 1 year) to remove all restrictions, allowing you to choose the best and most optimal price for you. Prices may vary depending on your country or territory. Also, please keep in mind that Family Sharing is enabled for all purchases and plans, so you can share the Premium version with members of your family.<br><br>
-Lifetime purchases and subscriptions are shared between iOS and Mac, using iCloud to sync this information. If you have the premium version on your iOS device, please ensure you have the latest version installed and that iCloud is enabled. Start the app on iOS and wait one minute for your purchase information to upload to iCloud.<br><br>
-[Read more](https://www.everappz.com/post/what-is-the-difference-between-evermusic-and-evermusic-premium)
-{{% /details %}}
+{{% details title="Is Flacbox Free?" closed="true" %}}
+Flacbox is free to use with some limitations, which can be removed by upgrading to the Premium version.<br>
+You can choose between a one-time lifetime purchase or two subscription options (monthly or yearly). Prices may vary based on your region.<br><br>
 
-{{% details title="What is the difference between Evermusic free and Evermusic Premium?" closed="true" %}}
-**Evermusic Free**<br>
-• Contains Ads: The free version displays ads to generate revenue, which can occasionally disrupt your music listening.<br>
-• Limited Playlists: You can create up to 10 playlists in the free version.<br>
-• Restricted Cloud Services: The free version supports up to 3 cloud services.<br>
-• Limited Favorites: You can add a maximum of 100 songs to your favorites in the free version.<br>
-• Playlist and Queue Limits: The free version has limits on the number of songs you can add to a single playlist (1,000) and the maximum number of songs in the player queue (750).<br>
-• Limited Offline Features: The free version has restrictions on offline access, including only 1 offline folder and the ability to download albums, artists, genres, playlists, and composers offline.<br>
-• No iTunes Music Collections Export: You cannot export collections from iTunes music to Local Files in the free version.<br>
-• Limited Tags Searching Features: Offers 20 automatic tags search requests and 20 album art search requests per day.<br>
-• Limited Media Collections Export: Allows 5 media collections (playlists, albums, artists, genres) exports to m3u/csv/txt per day.<br>
-• Limited Personalization Features: You can use only limited personalization options, and changing the app icon is also restricted.<br><br>
+Family Sharing is enabled for all plans, so you can share the Premium version with your family members.<br><br>
 
-**Evermusic Premium**<br>
-• Ad-free experience: Evermusic Premium eliminates ads, providing a seamless and uninterrupted music listening experience.<br>
-• Unlimited playlists: You can create an unlimited number of playlists with Evermusic Premium.<br>
-• Unlimited cloud services: Evermusic Premium allows you to connect to an unlimited number of cloud services, expanding your music library access.<br>
-• Unlimited favorites: You can add an unlimited number of songs to your favorites in Evermusic Premium.<br>
-• Playlist and queue flexibility: Evermusic Premium removes limitations on playlist and queue size, giving you more control over your music organization.<br>
-• Extensive offline features: Evermusic Premium offers advanced offline capabilities, including the ability to download folders, albums, artists, genres, playlists, and composers offline.<br>
-• iTunes music collections export: You can export collections from iTunes music to Local Files.<br>
-• Unlimited Tags Search: Offers unlimited automatic tags search requests.<br>
-• Unlimited Album Art Search: Offers unlimited album art search requests.<br>
-• Unlimited Media Collections Export: Allows unlimited media collections (playlists, albums, artists, genres) exports to m3u/csv/txt.<br>
-• Full Personalization: Provides full personalization options, including the ability to change the app icon.<br><br>
+Premium purchases and subscriptions are shared across iOS and Mac via iCloud. To sync your purchase, make sure iCloud is enabled, open the app on your iOS device, and wait a minute for sync to complete.<br><br>
 
-We've got a comparison post available here:<br>
-[What is the difference between Evermusic and Evermusic Premium](https://www.everappz.com/post/what-is-the-difference-between-evermusic-and-evermusic-premium)
+[Read more about the differences between Flacbox and Flacbox Premium](https://www.everappz.com/post/what-is-the-difference-between-flacbox-and-flacbox-premium)
 {{% /details %}}
 
 
-{{% details title="Is Evermusic Safe?" closed="true" %}}
-Evermusic uses only official SDK and secure connections to interact with connected cloud services. Your login and password are not available for the application. All requests from the application to the cloud service are encrypted.<br>
+{{% details title="What is the difference between Flacbox and Evermusic?" closed="true" %}}
+**Flacbox** is built to support all default iOS audio formats along with many additional formats not natively supported on iPhone, such as WMA, OGG, M4A, DSD, and more.<br>
+It uses a custom audio engine to handle nearly all formats and offers features like adjustable audio output sample rate and pitch correction.<br><br>
+
+**Evermusic**, on the other hand, supports default audio formats and includes advanced features like crossfade playback, gapless playback, audio equalizer, playback speed control, and more.<br><br>
+
+If you mainly use MP3, ALAC, or FLAC, **Evermusic** may be the better option for its playback features.<br>
+If you need broad compatibility with various audio file types, **Flacbox** is the right choice.<br><br>
+
+[Learn more about the differences between Flacbox and Evermusic](https://www.everappz.com/post/what-is-the-difference-between-evermusic-and-flacbox)
+{{% /details %}}
+
+{{% details title="How do I sync Flacbox?" closed="true" %}}
+
+**Metadata Synchronization**  
+When you add tracks to your library, a background metadata reader scans your files and organizes them by Artist, Album, Genre, and Composer.<br>
+You can adjust the scan speed for faster loading, though it may increase energy use. You can also disable it entirely to show only file names instead of tags.<br><br>
+
+The metadata reader **does not modify** your original audio files in the cloud or local storage. If you want to edit tags, use the built-in tags editor from the file's options menu.<br><br>
+
+If background sync is enabled, the metadata reader will continue running even when the app is in the background, but keep in mind that iOS may suspend it if it consumes too much energy.<br>
+For large libraries, it’s recommended to sync metadata on the desktop version and use the **data backup & restore** feature to transfer it to your mobile device.<br><br>
+
+Use the **'Reload metadata'** action to force a full metadata refresh across your library.<br><br>
+
+**Online Music Synchronization**<br>
+Online sync lets you add music from cloud storage to your library automatically.<br>
+Go to **Music Library Settings → Sync folders**, select the folders to scan, and the app will find and add supported audio files.<br><br>
+
+Online sync works **only when the app is active**, so it’s best to leave the app open, connected to power, and enable **"Always active screen"** in settings for faster syncing.<br>
+You can also do this on desktop and then transfer the library to mobile using backup & restore.<br>
+Sync frequency can be configured (e.g. “immediately” starts sync each time the app opens).
+
+**Offline Music Synchronization**<br>  
+This scans all folders inside the app’s **Documents** directory and adds supported local files to the music library.<br>
+Files outside the app’s sandbox (due to iOS/macOS security) must be added manually.<br>
+Run offline sync periodically to keep the library up-to-date with your local files.<br><br>
+
+**Offline Folders**<br>  
+Enabling offline mode for any album, artist, genre, playlist, or remote folder downloads all files inside that group for offline access.<br>
+They are stored under the **Offline Folders** section.<br><br>
+
+New files added to the same remote folder will be automatically downloaded.<br>
+To **manually resync**, tap the three-dot menu and choose **“Synchronize”**.<br><br>
+
+You can also customize **sync timeout intervals** in settings for more control over sync behavior and ensure your offline music stays updated.<br><br>
+
+[Read more](https://www.everappz.com/post/flacbox-guide-music-library)
+
+{{% /details %}}
+
+
+{{% details title="How do I use Flacbox?" closed="true" %}}
+
+**Install Flacbox**<br>
+Download and install the Flacbox app from your device’s app store. It’s available for both iOS and Mac devices.<br><br>
+
+**Open the App**<br>
+Launch Flacbox by tapping its icon on your device’s home screen.<br><br>
+
+**Connect Your Cloud Service**<br>
+• Open the **Connections** tab.<br>
+• Select **Connect a cloud service** from the menu.<br>
+• Choose your desired cloud service from the list.<br>
+• Enter your credentials and tap **Done**.<br><br>
+
+**Import Files Located On Your Device**<br>
+You can import files from your device, an external USB flash drive, a personal computer, or a NAS.<br>
+• Open the **Local files** tab.<br>
+• Tap **Open files...** or **Open folders...** from the **Files on this device** menu.<br>
+• Choose files or folders located on your device.<br>
+• Tap **Open** to import files to the app.<br><br>
+
+**Add Your Music**<br>
+You have two options to add music to Flacbox: manual addition or automatic synchronization.<br><br>
+
+**Manual Addition**<br>
+• Tap on the **Add music** or similar menu item.<br>
+• Select folders/files from your connected cloud services or local files.<br>
+• Flacbox creates links to your tracks, preserving the original files’ locations.<br>
+• To make tracks available offline, use the built-in download manager or enable offline mode.<br><br>
+
+**Automatic Synchronization**<br>
+• Go to the **Music Library settings**.<br>
+• Select **Sync folders** to enable automatic synchronization.<br>
+• The app scans selected folders, identifies audio files, and integrates them into your library.<br><br>
+
+**Explore Your Music Library**<br>
+• Organized by source types and music tags.<br>
+• Sections: Online music, Offline music, Local files, etc.<br>
+• Categories: Songs, Albums, Artists, Genres, Composers.<br>
+• Use **Search** to find tracks quickly.<br><br>
+
+**Customize Your Settings**<br>
+• Tap the three dots button to access **More actions** and **Settings**.<br>
+• Adjust metadata sync, personalization, album cover preferences, playlists, recents, and favorites.<br><br>
+
+**Enjoy Your Music**<br>
+Once your music is organized, use the top toolbar for quick actions like **Search**, **Play All**, **Shuffle**, and **Continue Playback**.<br><br>
+
+**Learn More**<br>
+Explore in-app tutorials or visit these guides:<br><br>
+
+• [Flacbox Guide](https://www.everappz.com/post/flacbox-guide)<br>
+• [Upload files to cloud and connect to Flacbox](https://www.everappz.com/post/how-to-upload-my-files-to-the-cloud-storage-and-connect-them-to-evermusic-flacbox-evertag)<br>
+• [Listen to Audiobooks](https://www.everappz.com/post/how-to-listen-to-audiobooks-on-iphone-ipad-mac-using-evermusic)<br>
+• [Play Local Music on iPhone or Mac](https://www.everappz.com/post/how-to-play-local-music-stored-on-your-iphone-or-mac)<br>
+• [Play from iCloud Drive](https://www.everappz.com/post/how-to-listen-to-music-from-icloud-drive-on-your-iphone-or-mac)<br>
+• [Use the Audio Equalizer](https://www.everappz.com/post/how-to-use-the-audio-equalizer-on-your-iphone-ipad-mac-with-evermusic-and-flacbox)<br>
+• [Connect USB Flashcard](https://www.everappz.com/post/how-to-connect-a-usb-flashcard-to-the-iphone-and-listen-to-music-or-manage-files-located-on-it)<br>
+• [WiFi-Drive Wireless Transfer](https://www.everappz.com/post/how-to-transfer-files-wirelessly-from-a-computer-to-an-iphone-using-wifi-drive)
+
+{{% /details %}}
+
+
+{{% details title="Is Flacbox Safe?" closed="true" %}}
+Flacbox uses only official SDK and secure connections to interact with connected cloud services. Your login and password are not available for the application. All requests from the application to the cloud service are encrypted.<br>
 When you enter login and password the application shows you the official authorization page that is provided by the cloud service provider and all authorization process is made outside the application. The cloud service provider sends an auth-token to the application after successful authorization and that token is used to make API calls.<br><br>
 
 Auth-token is a digital key that allows third-party applications to interact with cloud storage. Auth-token is stored on your device in secure system storage called Keychain. You can download your files from the connected cloud service to the device and those files will be placed in the app "Documents" directory. You can remove that files anytime using the built-in file manager.<br>
@@ -424,22 +499,22 @@ To reject auth-token login to your account on the web browser and navigate to th
 
 You can also disconnect the connected cloud accounts in the application and auth-token will be also removed from your device. If you remove the application from your device all downloaded data and access tokens will be also removed.<br><br>
 
-[Read more](https://www.everappz.com/post/evermusic-guide-connections)
+[Read more](https://www.everappz.com/post/flacbox-guide-connections)
 {{% /details %}}
 
-{{% details title="How do I make a playlist on Evermusic?" closed="true" %}}
+{{% details title="How do I make a playlist on Flacbox?" closed="true" %}}
 - Open the Playlists section.<br>
 - Tap the "+" button or the "..." button in the top right corner and select "New Playlist."<br>
 - Enter a name for the playlist and tap "Save." The "Add Songs" dialog will appear.<br>
 - Select the tracks you want to add to the playlist.<br><br>
 
-[Read more](https://www.everappz.com/post/evermusic-guide-playlists)
+[Read more](https://www.everappz.com/post/flacbox-guide-playlists)
 {{% /details %}}
 
-{{% details title="What cloud services does Evermusic support?" closed="true" %}}
-Currently, the application supports the most popular cloud services: iCloud Drive, Google Drive, Dropbox, OneDrive, Box, MEGA, Yandex.Disk, WD MyCloud Home, DLNA, MediaFire, WebDAV, SMB, pCloud, HiDrive, 百度网盘, My Cloud Home, InfiniCLOUD, Cloud Mail.ru, Put.io, MyDrive.<br><br>
+{{% details title="What cloud services does Flacbox support?" closed="true" %}}
+Currently, the application supports the most popular cloud services: iCloud Drive, Google Drive, Dropbox, OneDrive, Box, MEGA, Yandex.Disk, WD MyCloud Home, DLNA, MediaFire, WebDAV, SMB, pCloud, HiDrive, My Cloud Home, InfiniCLOUD, Cloud Mail.ru, Put.io, MyDrive.<br><br>
 
-[Read more](https://www.everappz.com/post/evermusic-guide-connections)
+[Read more](https://www.everappz.com/post/flacbox-guide-connections)
 {{% /details %}}
 
 {{% details title="How can I use an equalizer?" closed="true" %}}
@@ -452,7 +527,7 @@ Full tutorial available here:<br>
 [How to use the audio equalizer on your iPhone, iPad, Mac with Evermusic and Flacbox](https://www.everappz.com/post/how-to-use-the-audio-equalizer-on-your-iphone-ipad-mac-with-evermusic-and-flacbox)
 {{% /details %}}
 
-{{% details title="How do I enable offline mode in Evermusic?" closed="true" %}}
+{{% details title="How do I enable offline mode in Flacbox?" closed="true" %}}
 - Connect a Cloud Service:<br>
  • Go to the “Connections” tab.<br>
  • Select “Connect a cloud service” and follow the prompts to connect your desired service.<br><br>
@@ -501,8 +576,8 @@ With these simple steps, you can unlock the full potential of your iPhone and Ma
 First, ensure "Save Audio Player State" is enabled in Settings > Audio Player > General. When you switch to another playlist and return, you will see four actions on the top toolbar under the album artwork: "Search," "Continue Playback," "Play All," and "Shuffle All." Tap "Continue Playback" to resume the playlist from the last saved state and media position.
 {{% /details %}}
 
-{{% details title="How to view lyrics for songs in Evermusic?" closed="true" %}}
-You can view embedded lyrics for tracks in the Evermusic app by **following these steps**:<br>
+{{% details title="How to view lyrics for songs in Flacbox?" closed="true" %}}
+You can view embedded lyrics for tracks in the app by **following these steps**:<br>
 1. Start playing an audio file by tapping on it.<br>
 2. Open the full-screen audio player.<br>
 3. Tap the “More Actions” button in the top right corner to see the more actions menu.<br>
@@ -517,7 +592,7 @@ You can view embedded lyrics for tracks in the Evermusic app by **following thes
 [Read more](https://www.everappz.com/post/how-to-add-and-view-comments-to-your-audio-tracks-on-iphone-ipad-and-mac-with-evermusic-and-flacbox)
 {{% /details %}}
 
-{{% details title="13. How do I transfer music to Evermusic from my computer?" closed="true" %}}
+{{% details title="13. How do I transfer music to Flacbox from my computer?" closed="true" %}}
 You can connect your computer or personal NAS using SMB, WebDAV, or DLNA protocols. Alternatively, use iTunes File Sharing to transfer music.<br><br>
 
 To connect a computer using SMB protocol tap "Connect a cloud service" → SMB. Enter computer IP address and shared folder name in URL field using format smb://computer-ip-address/shared-folder-name, enter login and password and tap "Done". If your connection is successful you will see connected storage in the "Cloud services" section.<br><br>
@@ -564,23 +639,144 @@ Another available option is download music from cloud services and import it in 
 {{% /details %}}
 
 
-{{% details title="What audio formats does Evermusic support?" closed="true" %}}
-Here’s the full list of supported audio formats and their corresponding file extensions:<br><br>
-
-**Supported Audio Formats:**<br>
-• AAC (MPEG-4 Advanced Audio Coding)<br>
-• ALAC (Apple Lossless)<br>
-• AMR (Adaptive Multi-Rate)<br>
-• HE-AAC (MPEG-4 High-Efficiency AAC)<br>
-• iLBC (Internet Low Bitrate Codec)<br>
-• Linear PCM (Uncompressed, Linear Pulse Code Modulation)<br>
-• MP3 (MPEG-1 Audio Layer 3)<br>
-• μ-law and A-law<br>
-• IMA4 (IMA/ADPCM)<br><br>
-
-**Supported Audio File Extensions:**<br>
-mpeg, aifc, 3gp, avi, aif, latm, 3gpp, m4a, loas, cdda, aac, m4p, m4b, ac3, pls, mp4v, m3u, m4r, aiff, xhe, mp1, snd, mp2, wav, qt, wave, m3u8, m4v, mp3, 3g2, caf, mp4, flac, au, w64, ec3, adts, amr, vtt, mpa, aa<br><br>
-
-With this wide range of supported formats and file extensions, you can enjoy your music in the format of your choice.
+{{% details title="What audio formats does Flacbox support?" closed="true" %}}
+This app supports default **system audio codecs** and additional **ffmpeg software codecs**:<br><br>
+3g2, 3gp, 3gp2, 3gpp, 8svx, aa, aac, aax, ac3, act, adt, adts, aif, aifc, aiff, alac, amr, amv, ape, asf, au, avi, awb, caf, cavs, cdda, cue, dct, dff, drc, dsf, dss, dvf, "dvr-ms", ec3, f4a, f4b, f4p, f4v, flac, flv, gif, gifv, gsm, gxf, h261, h263, h264, ifv, iklax, ivf, ivs, l16, latm, loas, m2t, m2ts, m2v, m3u, m3u8, m4a, m4b, m4p, m4r, m4v, mka, mkv, mmf, mng, mod, mogg, mov, mp1, mp2, mp3, mp4, mp4v, mpa, mpc, mpe, mpeg, mpg, mpv, msv, mts, mxf, nsf, nsv, nut, oga, ogg, ogv, opus, pcm, pls, qt, ra, raw, rm, rmvb, roq, rv, sln, snd, svi, tod, tta, vob, voc, vox, vtt, w64, wav, wave, webm, wma, wmv, wv, xhe, xmv, y4m, yuv.
 {{% /details %}}
 
+{{% details title="Can I use Flacbox to play audiobooks?" closed="true" %}}
+
+Yes, Flacbox can be used as a powerful audiobook player.<br><br>
+
+**How to Add Audiobooks**<br>
+• For **local files**, connect your iPhone or iPad to your computer, open iTunes (or Finder on macOS Catalina or later), and drag your audiobook files into the “Flacbox” section.<br>
+• For **cloud files**, connect services like iCloud Drive, Google Drive, Dropbox, and others inside the Flacbox app to access your audiobooks remotely.<br><br>
+
+**Playback Features**<br>
+• Navigate to your audiobooks via **Music Library** or **Local Files**.<br>
+• Flacbox supports **play, pause, skip**, and **adjustable playback speed**.<br>
+• You can enable **Skip Time** buttons in settings for quick navigation.<br>
+• Create **Audio bookmarks** to save your place.<br>
+• Use **Continue Playback** to resume from where you left off.<br><br>
+
+**Organization and Offline Access**<br>
+• Organize audiobooks into playlists by **genre**, **author**, or **series**.<br>
+• Download audiobooks for **offline listening**, perfect for travel or limited connectivity.<br><br>
+
+Flacbox provides a full-featured solution for audiobook lovers on iPhone, iPad, and Mac.<br><br>
+
+[Read more](https://www.everappz.com/post/how-to-listen-to-audiobooks-on-iphone-ipad-mac-using-evermusic)
+
+{{% /details %}}
+
+
+
+{{% details title="Does Flacbox work with NAS devices?" closed="true" %}}
+
+Yes, Flacbox supports NAS connections using **SMB**, **WebDAV**, and **DLNA** protocols.<br><br>
+
+**To connect a NAS using SMB protocol:**<br>
+• Tap **"Connect a cloud service" → SMB**.<br>
+• Enter the NAS server IP address and shared folder name in this format: `smb://your-ip/shared-folder`<br>
+• Choose protocol version: **Auto**, **SMB1**, or **SMB2**.<br>
+• Enter your login and password (if required).<br>
+• Tap **"Done"**.<br><br>
+
+If the connection is successful, you’ll see your NAS in the **Cloud services** section.<br>
+[Read full tutorial](https://www.everappz.com/single-post/Stream-your-music-from-MAC-or-PC-to-iPhone-using-SMB)<br><br>
+
+**To connect via WebDAV protocol:**<br>
+• Steps are the same as SMB, but use a WebDAV URL like `http://your-server-name` or `https://your-server-name` if using SSL.<br><br>
+
+**To stream via DLNA:**<br>
+• You can stream from a Windows PC by enabling its DLNA media server.<br>
+[Read the DLNA setup guide](https://www.everappz.com/post/how-to-enable-dlna-media-server-on-windows-10-and-play-your-music-on-iphone)<br><br>
+
+**Available Devices section:**<br>
+• Shows all discoverable NAS devices on your local network.<br>
+• Tap a device name to connect, then enter login credentials if needed.<br><br>
+
+**Useful links:**<br>
+• [How to play music on iPhone from WD My Cloud Home](https://www.everappz.com/post/how-to-play-music-on-iphone-from-wd-my-cloud-home)<br>
+• [Stream your music from MAC or PC to iPhone using SMB](https://www.everappz.com/post/stream-your-music-from-mac-or-pc-to-iphone-using-smb)<br>
+• [Connect Bluesound Vault storage](https://www.everappz.com/post/how-to-connect-bluesound-vault-s-internal-storage-from-the-evermusic-flacbox-evertag)<br>
+• [Connect NAS Storage Using WebDAV](https://www.everappz.com/post/how-to-connect-nas-storage-using-webdav-and-listen-to-music-on-your-iphone-or-mac)
+
+{{% /details %}}
+
+
+{{% details title="How do I import music to Flacbox?" closed="true" %}}
+
+**Connect Your Cloud Service**<br>
+• Open the **Connections** tab.<br>
+• Select **Connect a cloud service** from the menu.<br>
+• Choose your desired cloud service from the list.<br>
+• Enter your credentials and tap **Done**.<br><br>
+
+**Import Files Located On Your Device**<br>
+You can import files from your device, a USB flash drive, a computer, or a NAS.<br>
+• Open the **Local files** tab.<br>
+• Tap **Open files...** or **Open folders...** from the **Files on this device** menu.<br>
+• Choose files or folders located on your device.<br>
+• Tap **Open** to import files to the app.<br><br>
+
+**Add Your Music**<br>
+You can add music manually or automatically using sync folders.<br><br>
+
+**Manual Addition**<br>
+• Tap on the **Add music** menu item.<br>
+• Select folders or files from connected cloud services or your device.<br>
+• Flacbox creates links to your tracks without copying them.<br>
+• To make tracks available offline, use the download manager or enable **Offline mode**.<br><br>
+
+**Automatic Synchronization**<br>
+• Open **Music Library settings**.<br>
+• Select **Sync folders** to turn on automatic syncing.<br>
+• The app scans selected folders and adds supported audio files to your library.<br><br>
+
+**Explore Your Music Library**<br>
+• Your library is organized by source (online, offline, local).<br>
+• Browse by songs, albums, artists, genres, and composers.<br>
+• Use the search bar to find any song quickly.<br><br>
+
+**Learn More**<br>
+Explore these tutorials for more help:<br><br>
+
+• [Upload files to cloud and connect them to Flacbox](https://www.everappz.com/post/how-to-upload-my-files-to-the-cloud-storage-and-connect-them-to-evermusic-flacbox-evertag)<br>
+• [Listen to Audiobooks on iPhone, iPad, or Mac](https://www.everappz.com/post/how-to-listen-to-audiobooks-on-iphone-ipad-mac-using-evermusic)<br>
+• [Play Local Music Stored on Your iPhone or Mac](https://www.everappz.com/post/how-to-play-local-music-stored-on-your-iphone-or-mac)<br>
+• [Play Music from iCloud Drive](https://www.everappz.com/post/how-to-listen-to-music-from-icloud-drive-on-your-iphone-or-mac)<br>
+• [Use the Audio Equalizer](https://www.everappz.com/post/how-to-use-the-audio-equalizer-on-your-iphone-ipad-mac-with-evermusic-and-flacbox)<br>
+• [Connect USB Flashcard to iPhone](https://www.everappz.com/post/how-to-connect-a-usb-flashcard-to-the-iphone-and-listen-to-music-or-manage-files-located-on-it)<br>
+• [Transfer Files Wirelessly Using WiFi-Drive](https://www.everappz.com/post/how-to-transfer-files-wirelessly-from-a-computer-to-an-iphone-using-wifi-drive)<br>
+• [Transfer Files Using SMB Protocol](https://www.everappz.com/post/transfer-your-files-from-the-computer-to-iphone-using-smb-protocol)
+
+{{% /details %}}
+
+
+{{% details title="How do I use the Wi-Fi Drive feature in Flacbox?" closed="true" %}}
+
+**Wireless transfer using a desktop browser**<br>
+1. Launch the app: Open Flacbox.<br>
+2. Connect via Wi-Fi: Go to “Connections” → “Computer” → “Connect using Wi-Fi”.<br>
+3. (Optional) Add security: Enter a username and password if needed.<br>
+4. Start Wi-Fi Drive: Tap “Start Wi-Fi Drive” and copy the provided URL.<br>
+5. Open a browser (Safari, Chrome, Opera, Firefox, etc.) and enter the URL.<br>
+6. Use the built-in file manager to upload, download, rename, or delete files. You can drag and drop files directly to your iPhone.<br>
+7. When done, tap “Stop Wi-Fi Drive” on your iPhone.<br><br>
+
+Note: Ensure JavaScript is enabled and you're using the latest browser version for best performance.<br><br>
+
+**Transfer files using Mac Finder**<br>
+1. In Finder, click “Go” → “Connect to Server…”.<br>
+2. Enter the server URL shown in the Flacbox app.<br>
+3. Click “Connect” and manage files on your iPhone like any network drive.<br><br>
+
+**Transfer files using Windows File Explorer**<br>
+1. Right-click “This PC” → “Map Network Drive…”.<br>
+2. Enter the server URL from the Flacbox app in the “Folder” field.<br>
+3. Choose a drive letter, click “Finish”, and browse your iPhone's files directly.<br><br>
+
+[Read more](https://www.everappz.com/post/how-to-transfer-files-wirelessly-from-a-computer-to-an-iphone-using-wifi-drive)
+
+{{% /details %}}

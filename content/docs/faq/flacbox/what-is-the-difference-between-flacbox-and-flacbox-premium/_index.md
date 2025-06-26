@@ -39,7 +39,7 @@ Additionally, there's a limited-time opportunity to "**Try Premium for Free**". 
 - Offers limited offline features, including just 1 offline folder and the ability to download albums, artists, genres, playlists, and composers for offline listening.
 - Offers 20 automatic tag search requests per day.
 - Offers 20 album art search requests per day.
-- Allows 5 media collections (playlists, albums, artists, genres) exports to m3u/csv/txt per day.
+- Allows 5 media collections (playlists, albums, artists, genres) exports to M3U/CSV/TXT per day.
 
 ## Flacbox Premium:
 
@@ -51,7 +51,7 @@ Additionally, there's a limited-time opportunity to "**Try Premium for Free**". 
 - Offers extensive offline capabilities, allowing you to download folders, albums, artists, genres, playlists, and composers for offline listening.
 - Offers unlimited automatic tag search requests.
 - Offers unlimited album art search requests.
-- Allows unlimited media collections (playlists, albums, artists, genres) exports to m3u/csv/txt.
+- Allows unlimited media collections (playlists, albums, artists, genres) exports to M3U/CSV/TXT.
 
 Here's a side-by-side comparison:
 

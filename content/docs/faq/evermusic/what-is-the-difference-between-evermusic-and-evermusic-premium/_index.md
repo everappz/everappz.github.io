@@ -39,7 +39,7 @@ Evermusic Pro (app with red icon) has the same functionality as Evermusic Free (
 - **Limited Offline Features**: The free version has restrictions on offline access, including only 1 offline folder and the ability to download albums, artists, genres, playlists, and composers offline.
 - **No iTunes Music Collections Export**: You cannot export collections from iTunes music to Local Files in the free version.
 - **Limited Tags Searching Features**: Offers 20 automatic tags search requests and 20 album art search requests per day.
-- **Limited Media Collections Export**: Allows 5 media collections (playlists, albums, artists, genres) exports to m3u/csv/txt per day.
+- **Limited Media Collections Export**: Allows 5 media collections (playlists, albums, artists, genres) exports to M3U/CSV/TXT per day.
 - **Limited Personalization Features**: You can use only limited personalization options, and changing the app icon is also restricted.
 
 ![evermusic pro icon](21260c_d9b1ead4f4514eb099763f1001c0a00a~mv2.png)
@@ -55,7 +55,7 @@ Evermusic Pro (app with red icon) has the same functionality as Evermusic Free (
 - **iTunes music collections export**: You can export collections from iTunes music to Local Files.
 - **Unlimited Tags Search**: Offers unlimited automatic tags search requests.
 - **Unlimited Album Art Search**: Offers unlimited album art search requests.
-- **Unlimited Media Collections Export**: Allows unlimited media collections (playlists, albums, artists, genres) exports to m3u/csv/txt.
+- **Unlimited Media Collections Export**: Allows unlimited media collections (playlists, albums, artists, genres) exports to M3U/CSV/TXT.
 - **Full Personalization**: Provides full personalization options, including the ability to change the app icon.
 
 | Feature | Free | Premium |
@@ -74,7 +74,7 @@ Evermusic Pro (app with red icon) has the same functionality as Evermusic Free (
 | Download files | Yes | Yes |
 | Export songs from iTunes Music to Local Files | Yes | Yes |
 | Automatic tags search requests and album art search requests | 20 | Unlimited |
-| Media collections export to m3u/csv/txt | 5 | Unlimited |
+| Media collections export to M3U/CSV/TXT | 5 | Unlimited |
 | Full personalization | No | Yes |
 
 ## Try Premium for free
