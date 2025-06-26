@@ -12,12 +12,11 @@ tags: ["Evermusic", "offline playback", "cloud music", "MP3 player", "iPhone app
 <!-- <body class="hx:bg-transparent" style="background: radial-gradient(ellipse at 50% 80%, rgba(59,130,246,0.05), hsla(0,0%,100%,0));"> -->
 
 <div class="hx:w-full hx:max-w-screen-lg hx:mx-auto hx:flex hx:flex-col hx:items-center hx:text-center">
-	
-{{< hextra/hero-badge link="../../blog/evermusic-celebrates-11-million-worldwide-downloads-a-musical-milestone" >}}
-  <div class="hx:w-2 hx:h-2 hx:rounded-full hx:bg-primary-400"></div>
-  <span>11 million downloads</span>
-  {{< icon name="arrow-circle-right" attributes="height=14" >}}
-{{< /hextra/hero-badge >}}
+
+{{< figure
+  src="./heroimage/1.png"
+  width="600"
+>}}
 
 <div class="hx:mt-6 hx:mb-6">
 {{< hextra/hero-headline >}}
@@ -25,7 +24,7 @@ tags: ["Evermusic", "offline playback", "cloud music", "MP3 player", "iPhone app
 {{< /hextra/hero-headline >}}
 </div>
 
-<div class="hx:mb-12">
+<div class="hx:mb-6">
 {{< hextra/hero-subtitle >}}
 <a href="https://www.chip.de/downloads/Evermusic-Pro-iPhone-_-iPad-App_91614216.html" target="_blank" rel="noopener">
   "Is the <strong>perfect</strong> solution for <strong>organizing</strong> and playing&nbsp;<br class="hx:sm:block hx:hidden" />your own <strong>music</strong> from the <strong>cloud</strong>."
@@ -34,6 +33,17 @@ tags: ["Evermusic", "offline playback", "cloud music", "MP3 player", "iPhone app
   </a>
 {{< /hextra/hero-subtitle >}}
 </div>
+
+
+<div class="hx:mt-6"></div>
+
+{{< hextra/hero-badge link="../../blog/evermusic-celebrates-11-million-worldwide-downloads-a-musical-milestone" >}}
+  <div class="hx:w-2 hx:h-2 hx:rounded-full hx:bg-primary-400"></div>
+  <span>11 million downloads</span>
+  {{< icon name="arrow-circle-right" attributes="height=14" >}}
+{{< /hextra/hero-badge >}}
+
+<div class="hx:mt-12"></div>
 
 <div class="hx:flex hx:gap-4 hx:flex-wrap hx:mb-6 hx:items-center hx:justify-center">
 

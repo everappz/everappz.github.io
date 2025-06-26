@@ -9,8 +9,12 @@ keywords: ["FLAC player iPhone", "lossless music player", "hi-res audio player",
 tags: ["FLAC player", "Hi-Res audio", "offline playback", "cloud music", "DSD audio", "Mac apps", "iPhone apps", "USB audio iOS", "music file manager", "audio equalizer", "metadata editor", "MP3 player", "SMB player", "Chromecast music", "CarPlay music player", "multi-format support", "music streaming", "audio library manager"]
 ---
 
-<div class="hx:w-full hx:max-w-screen-lg hx:mx-auto hx:flex hx:flex-col hx:items-center hx:text-center">
-	
+{{< hextra/hero-container
+  image="./heroimage/2.png"
+  imageWidth="800"
+  imageCard="true"
+>}}
+
 {{< hextra/hero-badge link="../../blog/flacbox-celebrates-1-million-worldwide-downloads-your-gateway-to-hi-res-music/" >}}
   <div class="hx:w-2 hx:h-2 hx:rounded-full hx:bg-primary-400"></div>
   <span>1 million downloads</span>
@@ -25,31 +29,26 @@ tags: ["FLAC player", "Hi-Res audio", "offline playback", "cloud music", "DSD au
 
 <div class="hx:mb-12">
 {{< hextra/hero-subtitle >}}
-<strong>Hi-Res Audio Player for iPhone and MAC</strong>
+<strong>Hi-Res Audio Player and Streamer for iPhone and MAC</strong><br><br>
+Open almost any audio file on your device and enjoy lossless sound quality.
 {{< /hextra/hero-subtitle >}}
 </div>
 
-<div class="hx:flex hx:gap-4 hx:flex-wrap hx:mb-6 hx:items-center hx:justify-center">
+{{< hextra/hero-button 
+    text="Download for mobile"
+    link="https://apps.apple.com/app/apple-store/id1097564256?pt=95781850&ct=everappzcom&mt=8"
+    icon="device-mobile"
+    style="margin-top:1rem;margin-right:1rem;"
+>}}
 
-  <div class="hx:flex-1">
-    {{< hextra/hero-button 
-      text="Download for mobile"
-      link="https://apps.apple.com/app/apple-store/id1097564256?pt=95781850&ct=everappzcom&mt=8"
-      icon="device-mobile" 
-    >}}
-  </div>
+{{< hextra/hero-button 
+    text="Download for desktop"
+    link="https://apps.apple.com/app/apple-store/id1594027432?pt=95781850&ct=everappzcom&mt=8"
+    icon="desktop-computer" 
+    style="margin-top:1rem;margin-right:1rem;"
+>}}
 
-  <div class="hx:flex-1">
-    {{< hextra/hero-button 
-      text="Download for desktop"
-      link="https://apps.apple.com/app/apple-store/id1594027432?pt=95781850&ct=everappzcom&mt=8"
-      icon="desktop-computer" 
-    >}}
-  </div>
-
-</div>
-
-</div>
+{{< /hextra/hero-container >}}
 
 <div class="hx:mt-6"></div>
 
