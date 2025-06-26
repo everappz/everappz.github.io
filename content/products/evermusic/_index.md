@@ -11,12 +11,17 @@ tags: ["Evermusic", "offline playback", "cloud music", "MP3 player", "iPhone app
 
 <!-- <body class="hx:bg-transparent" style="background: radial-gradient(ellipse at 50% 80%, rgba(59,130,246,0.05), hsla(0,0%,100%,0));"> -->
 
-<div class="hx:w-full hx:max-w-screen-lg hx:mx-auto hx:flex hx:flex-col hx:items-center hx:text-center">
-
-{{< figure
-  src="./heroimage/1.png"
-  width="600"
+{{< hextra/hero-container
+  image="./heroimage/1.png"
+  imageWidth="600"
+  imageCard="true"
 >}}
+
+{{< hextra/hero-badge link="../../blog/evermusic-celebrates-11-million-worldwide-downloads-a-musical-milestone" >}}
+  <div class="hx:w-2 hx:h-2 hx:rounded-full hx:bg-primary-400"></div>
+  <span>11 million downloads</span>
+  {{< icon name="arrow-circle-right" attributes="height=14" >}}
+{{< /hextra/hero-badge >}}
 
 <div class="hx:mt-6 hx:mb-6">
 {{< hextra/hero-headline >}}
@@ -27,45 +32,36 @@ tags: ["Evermusic", "offline playback", "cloud music", "MP3 player", "iPhone app
 <div class="hx:mb-6">
 {{< hextra/hero-subtitle >}}
 <a href="https://www.chip.de/downloads/Evermusic-Pro-iPhone-_-iPad-App_91614216.html" target="_blank" rel="noopener">
-  "Is the <strong>perfect</strong> solution for <strong>organizing</strong> and playing&nbsp;<br class="hx:sm:block hx:hidden" />your own <strong>music</strong> from the <strong>cloud</strong>."
-  <span class="hx-text-sm hx-text-gray-500"> - <strong>chip.de</strong>
-  </span>
+  Is the perfect solution for organizing and playing&nbsp;<br class="hx:sm:block hx:hidden" />your own music from the cloud&nbsp;<br class="hx:sm:block hx:hidden" /><strong>chip.de</strong>
+  </strong>
   </a>
 {{< /hextra/hero-subtitle >}}
 </div>
 
-
-<div class="hx:mt-6"></div>
-
-{{< hextra/hero-badge link="../../blog/evermusic-celebrates-11-million-worldwide-downloads-a-musical-milestone" >}}
-  <div class="hx:w-2 hx:h-2 hx:rounded-full hx:bg-primary-400"></div>
-  <span>11 million downloads</span>
-  {{< icon name="arrow-circle-right" attributes="height=14" >}}
-{{< /hextra/hero-badge >}}
-
-<div class="hx:mt-12"></div>
-
-<div class="hx:flex hx:gap-4 hx:flex-wrap hx:mb-6 hx:items-center hx:justify-center">
-
-  <div class="hx:flex-1">
-    {{< hextra/hero-button 
-      text="Download for mobile"
-      link="https://apps.apple.com/app/apple-store/id885367198?pt=95781850&ct=everappzcom&mt=8"
-      icon="device-mobile" 
-    >}}
-  </div>
-
-  <div class="hx:flex-1">
-    {{< hextra/hero-button 
-      text="Download for desktop"
-      link="https://apps.apple.com/app/apple-store/id1564384601?pt=95781850&ct=everappzcom&mt=8"
-      icon="desktop-computer" 
-    >}}
-  </div>
-
+<div class="hx:mb-6">
+{{< hextra/hero-paragraph >}}
+• Play music with crossfade, gapless playback, and equalizer  
+• Import M3U playlists and download songs for offline listening  
+• Stream music from cloud drives, NAS, computer, or USB flash drives  
+• View lyrics while listening and add audio bookmarks to resume anytime
+{{< /hextra/hero-paragraph >}}
 </div>
 
-</div>
+{{< hextra/hero-button 
+  text="Download for mobile"
+  link="https://apps.apple.com/app/apple-store/id885367198?pt=95781850&ct=everappzcom&mt=8"
+  icon="device-mobile" 
+  style="margin-top:1rem;margin-right:1rem;"
+>}}
+
+{{< hextra/hero-button 
+  text="Download for desktop"
+  link="https://apps.apple.com/app/apple-store/id1564384601?pt=95781850&ct=everappzcom&mt=8"
+  icon="desktop-computer" 
+  style="margin-top:1rem;margin-right:1rem;"
+>}}
+
+{{< /hextra/hero-container >}}
 
 <div class="hx:mt-6"></div>
 

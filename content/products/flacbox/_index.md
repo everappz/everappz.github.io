@@ -9,6 +9,9 @@ keywords: ["FLAC player iPhone", "lossless music player", "hi-res audio player",
 tags: ["FLAC player", "Hi-Res audio", "offline playback", "cloud music", "DSD audio", "Mac apps", "iPhone apps", "USB audio iOS", "music file manager", "audio equalizer", "metadata editor", "MP3 player", "SMB player", "Chromecast music", "CarPlay music player", "multi-format support", "music streaming", "audio library manager"]
 ---
 
+<!-- force dark theme for this page -->
+{{< force-dark >}}
+
 {{< hextra/hero-container
   image="./heroimage/2.png"
   imageWidth="800"
@@ -30,8 +33,15 @@ tags: ["FLAC player", "Hi-Res audio", "offline playback", "cloud music", "DSD au
 <div class="hx:mb-12">
 {{< hextra/hero-subtitle >}}
 <strong>Hi-Res Audio Player and Streamer for iPhone and MAC</strong><br><br>
-Open almost any audio file on your device and enjoy lossless sound quality.
 {{< /hextra/hero-subtitle >}}
+</div>
+
+<div class="hx:mb-6">
+{{< hextra/hero-paragraph >}}
+• Play FLAC, ALAC, APE, DSD and more with lossless quality  
+• Download music and listen offline with full control  
+• Stream from Google Drive, Dropbox, NAS, or computer   
+{{< /hextra/hero-paragraph >}}
 </div>
 
 {{< hextra/hero-button 
