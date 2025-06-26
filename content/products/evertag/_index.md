@@ -1,7 +1,7 @@
 ---
 date: '2025-06-12T17:00:00+00:00'
 draft: false
-title: 'Flacbox'
+title: 'Evertag'
 layout: hextra-home
 date: 2024-01-05
 description: "Keep your music library organized. Find missing tags. Batch editing. Change album covers and much more."
@@ -38,14 +38,14 @@ tags: ["Evertag", "ID3 tags", "music metadata", "audio tag editor", "MP3 editor"
 
 {{< hextra/hero-button 
   text="Download for mobile"
-  link="https://apps.apple.com/app/apple-store/id885367198?pt=95781850&ct=everappzcom&mt=8"
+  link="https://apps.apple.com/app/apple-store/id1450763230?pt=95781850&ct=everappzcom&mt=8"
   icon="device-mobile" 
   style="margin-top:1rem;margin-right:1rem;"
 >}}
 
 {{< hextra/hero-button 
   text="Download for desktop"
-  link="https://apps.apple.com/app/apple-store/id1564384601?pt=95781850&ct=everappzcom&mt=8"
+  link="https://apps.apple.com/app/apple-store/id1594027661?pt=95781850&ct=everappzcom&mt=8"
   icon="desktop-computer" 
   style="margin-top:1rem;margin-right:1rem;"
 >}}
@@ -57,174 +57,69 @@ tags: ["Evertag", "ID3 tags", "music metadata", "audio tag editor", "MP3 editor"
 {{< hextra/feature-grid >}}
 
   {{< hextra/feature-card
-    title="Save Space on Device"
-    subtitle="Got 100Gb of music collected by years but only 32Gb of storage on iPhone? Just move all your tracks to the cloud and free up such valuable space for photos, videos and apps."
-    icon="folder"
+    title="Edit Over 120+ Tags"
+    subtitle="Quickly edit music tags like Title, Artist, Album, Album Artist, BPM, Comment, Compilation, Composer, Copyright, Disk Number, Duration, Genre, ISRC, Language, Lyrics, Mood, Publisher, Rating, Advisory Rating, Track Number, Year, User Rating, and more."
+    icon="pencil"
     style="background: radial-gradient(ellipse at 50% 80%, rgba(59,130,246,0.15), hsla(0,0%,100%,0));"
   >}}
 
   {{< hextra/feature-card
-    title="Instant Access to Tracks"
-    subtitle="With support of the most popular cloud services Evermusic allows you to pick one or multiple services and stream your music from the cloud. No more iTunes synchronization, your audio files get uploaded to the cloud from PC or Mac just like other files."
-    icon="collection"
+    title="Batch Tag Editing"
+    subtitle="Update metadata for multiple files at once. Save time and keep your music library well-organized with just a few taps."
+    icon="database"
     style="background: radial-gradient(ellipse at 50% 80%, rgba(192,38,211,0.15), hsla(0,0%,100%,0));"
   >}}
 
   {{< hextra/feature-card
-    title="Offline Mode"
-    subtitle="Offline mode allows you to download favourite albums, tracks, genres and playlists for offline playback and listen to music, when you aren’t connected to the Internet."
-    icon="download"
+    title="Find Album Covers"
+    subtitle="Automatically find and add missing album artwork to your songs. Make your music collection visually complete."
+    icon="camera"
     style="background: radial-gradient(ellipse at 50% 80%, rgba(234,88,12,0.15), hsla(0,0%,100%,0));"
   >}}
 
   {{< hextra/feature-card
-    title="Your Music in the Cloud"
-    subtitle="Create your own advanced music streaming service for free! Manage your massive music library, save device storage, and stream your favorite tracks directly from the cloud with smart buffering and seamless playback. Enjoy support for popular cloud services like iCloud, Google Drive, Dropbox, MEGA.nz, Box, OneDrive, and more."
-    icon="cloud"
+    title="Works with 30+ Formats"
+    subtitle="Supports MP3, FLAC, OGG, OPUS, M4A, WAV, WMA, APE, AIFF, MOD, XM, IT, and more."
+    icon="music-note"
+    style="background: radial-gradient(ellipse at 50% 80%, rgba(236,72,153,0.15), hsla(0,0%,100%,0));"
+  >}}
+
+  {{< hextra/feature-card
+    title="Auto Tag Finder"
+    subtitle="Detect missing song information and fill it in automatically using the MusicBrainz database. Choose to review changes or apply them instantly."
+    icon="search"
     style="background: radial-gradient(ellipse at 50% 80%, rgba(34,197,94,0.15), hsla(0,0%,100%,0));"
   >}}
 
   {{< hextra/feature-card
-    title="Transfer Files Easily"
-    subtitle="Connect your Mac or PC and stream music directly from your home computer. Transfer audio files seamlessly between your computer and iOS device using Wi-Fi Drive or iTunes File Sharing. You can also link your NAS or a USB flash drive and access your library from anywhere."
-    icon="duplicate"
+    title="Fix Encoding Issues"
+    subtitle="Repair broken or unreadable characters in your metadata. Evertag keeps your tags clean and clear in any language."
+    icon="translate"
     style="background: radial-gradient(ellipse at 50% 80%, rgba(251,191,36,0.15), hsla(0,0%,100%,0));"
   >}}
 
   {{< hextra/feature-card
-    title="Automatic Sync"
-    subtitle="Sync Manager automatically scans your cloud storage for audio files and updates your music library. The Metadata Loader organizes tracks by albums, artists, and genres using embedded audio tags."
-    icon="refresh"
+    title="Cloud and USB Access"
+    subtitle="Edit music directly from iCloud Drive, Google Drive, Dropbox, OneDrive, USB flash drives, or shared folders—no copying required."
+    icon="cloud"
     style="background: radial-gradient(ellipse at 50% 80%, rgba(6,182,212,0.15), hsla(0,0%,100%,0));"
   >}}
 
+  {{< hextra/feature-card
+    title="Wi-Fi Music Transfer"
+    subtitle="Easily upload music to your iPhone or iPad from your computer using a Wi-Fi connection. No cables needed."
+    icon="wifi"
+    style="background: radial-gradient(ellipse at 50% 80%, rgba(245,158,11,0.15), hsla(0,0%,100%,0));"
+  >}}
+
+  {{< hextra/feature-card
+    title="Built-In File Manager"
+    subtitle="Organize your music files with built-in tools. Rename, Move, Delete, Mark Favorites, and View Recent Activity — all in one app."
+    icon="folder-open"
+    style="background: radial-gradient(ellipse at 50% 80%, rgba(99,102,241,0.15), hsla(0,0%,100%,0));"
+  >}}
+
 {{< /hextra/feature-grid >}}
-
-<div class="hx:mt-6"></div>
-
-<div class="hx:w-full hx:max-w-screen-lg hx:mx-auto hx:flex hx:flex-col hx:items-center hx:text-center">
-  {{< hextra/section-headline >}}
-   Clean & Simple Design
-  {{< /hextra/section-headline >}}
-</div>
-
-<div class="hx:mt-6"></div>
-
-<div class="hx:w-full hx:px-4">
-
-{{< cards cols="4">}}
-
-  {{< card 
-    icon="adjustments"
-    image="./screenshots/2048x2732/3.png" 
-    title="Audio Equalizer" 
-    method="Fill"
-    options="515x200"
-    subtitle="Fine-tune your sound with an iPod-style audio equalizer, customizable presets, and preamp gain for the best listening experience." 
-  >}}
-
-  {{< card 
-    icon="annotation"
-    image="./screenshots/2048x2732/4.png"  
-    title="Lyrics Viewer" 
-    method="Fill"
-    options="515x200"
-    subtitle="Read embedded lyrics and track comments while listening. Enjoy synchronized lyrics for a more immersive music experience." 
-  >}}
-
-  {{< card 
-    icon="collection"
-    image="./screenshots/2048x2732/5.png"  
-    title="Playlist Manager" 
-    method="Fill"
-    options="515x200"
-    subtitle="Create and organize custom playlists, reorder songs, export to M3U, or archive them as ZIP files for easy sharing or backup." 
-  >}}
-
-  {{< card 
-    icon="cloud"
-    image="./screenshots/2048x2732/6.png"  
-    title="Cloud Music Streaming" 
-    method="Fill"
-    options="515x200"
-    subtitle="Link top cloud storage platforms like Google Drive, Dropbox, and OneDrive to stream your music collection anytime, anywhere." 
-  >}}
-
-  {{< card 
-    icon="duplicate"
-    image="./screenshots/2048x2732/9.png"  
-    title="File Manager" 
-    method="Fill"
-    options="515x200"
-    subtitle="Easily manage your audio files—rename tracks, organize folders, and transfer music between devices using built-in tools." 
-  >}} 
-
-  {{< card 
-    icon="sun"
-    image="./screenshots/2048x2732/10.png"  
-    title="App Customization" 
-    method="Fill"
-    options="515x200"
-    subtitle="Tailor the player to your style: switch themes, adjust layout, and configure features for a truly personalized music app experience." 
-  >}}
-
-{{< /cards >}}
-
-</div>
-
-<div class="hx:mt-6"></div>
-
-<div class="hx:w-full hx:max-w-screen-lg hx:mx-auto hx:flex hx:flex-col hx:items-center hx:text-center">
-  {{< hextra/section-headline >}}
-   Full Features Set
-  {{< /hextra/section-headline >}}
-</div>
-
-<div class="hx:mt-6"></div>
-
-<div class="hx:w-full hx:px-4">
-
-{{< cards >}}
-
-  {{< card title="Audio Formats" subtitle="Supports: mp3, m4a, flac, wav, aac, mp4, m3u, m3u8, m4b, m4p, aiff, ogg, mp2, ac3, wma, and more." icon="music-note" >}}
-
-  {{< card title="Audiobooks" subtitle="Includes audio bookmarks, playback speed control, and resume position." icon="book-open" width="50">}}
-
-  {{< card title="Automatic Sync" subtitle="Syncs your music library with the cloud, organized by artist, album, and genre." icon="refresh" >}}
-
-  {{< card title="File Manager" subtitle="Manage files with operations like copy, move, rename, and delete." icon="folder" >}}
-
-  {{< card title="Cloud Services" subtitle="Supports iCloud, Google Drive, Dropbox, OneDrive, Box, MEGA, WD MyCloud Home, pCloud, and more." icon="cloud" >}}
-
-  {{< card title="Crossfade Playback" subtitle="Next song starts before the current one ends for seamless transitions." icon="switch-horizontal" >}}
-
-  {{< card title="Gapless Playback" subtitle="No pauses between songs — ideal for live, classical, or concept albums." icon="volume-up" >}}
-
-  {{< card title="Audio Equalizer" subtitle="Customizable equalizer with presets, manual control, and preamp gain." icon="adjustments" >}}
-
-  {{< card title="Advanced Search" subtitle="Find your favorite albums, artists, and tracks quickly and easily." icon="search" >}}
-
-  {{< card title="Computer Access" subtitle="Connect via SMB, WebDAV, or DLNA. Transfer via iTunes File Sharing and Wi-Fi." icon="desktop-computer" >}}
-
-  {{< card title="AirPlay & Chromecast" subtitle="Stream to Apple TV and Google Chromecast devices wirelessly." icon="device-mobile" >}}
-
-  {{< card title="Playlists" subtitle="Create, edit, reorder, and export/import M3U playlists with offline mode." icon="collection" >}}
-
-  {{< card title="USB Flash Cards" subtitle="Play music directly from SD cards using external readers like SanDisk iXpand." icon="inbox" >}}
-
-  {{< card title="Offline Mode" subtitle="Download albums and playlists or auto-cache recently played tracks for offline listening." icon="download" >}}
-
-  {{< card title="Apple CarPlay" subtitle="Drive safely with a dedicated CarPlay UI for music playback." icon="truck" >}}
-
-  {{< card title="ID3 Tags Editor" subtitle="Edit corrupted or missing metadata using the built-in tags editor." icon="pencil-alt" >}}
-
-  {{< card title="Lyrics and Comments" subtitle="View embedded lyrics and comments while listening to your music." icon="annotation" >}}
-
-  {{< card title="Last.fm" subtitle="Connect your Last.fm account to get personalized listening stats and recommendations." icon="chart-bar" >}}
-  
-{{< /cards >}}
-
-</div>
 
 <div class="hx:mt-6"></div>
 
@@ -236,7 +131,7 @@ tags: ["Evertag", "ID3 tags", "music metadata", "audio tag editor", "MP3 editor"
 
 <div class="hx:mt-6"></div>
 
-{{< appstore-reviews apps="885367198,1564384601" stars="5,4" >}}
+{{< appstore-reviews apps="1450763230,1594027661" stars="5,4" >}}
 
 <div class="hx:mt-6"></div>
 
@@ -252,18 +147,15 @@ tags: ["Evertag", "ID3 tags", "music metadata", "audio tag editor", "MP3 editor"
 
   {{< hextra/feature-card
     title="Free"
-    subtitle=`• Contain Ads<br />
-• Playlists (10)<br />
-• Cloud services (3)<br />
-• Favorites (1000)<br />
-• Songs in playlist (1000)<br />
-• Songs in queue (750)<br />
-• Offline folders (1)<br />
-• Offline albums (1)<br />
-• Automatic tags search (20)<br />
-• Export to M3U (5)<br />
-• Download files<br />
-• Export iTunes songs<br /><br />
+    subtitle=`• Includes ads<br>
+• Edit audio tags (120+)<br>
+• Edit album covers<br>
+• Edit files simultaneously<br>
+• Fix charset encoding<br>
+• Cloud storages (1)<br>
+• Favorites (10)<br>
+• Automatically find tags (20/day)<br>
+• Search album covers (20/day)<br /><br />
 <span class='hx:block hx:mt-2 hx:text-center'>
   <span class='hx:inline-block hx:rounded-full hx:border hx:border-gray-200 hx:hover:border-gray-300 hx:dark:border-neutral-800 hx:dark:hover:border-neutral-700 hx:px-3 hx:py-1'>
     <strong>Free</strong>
@@ -275,22 +167,16 @@ tags: ["Evertag", "ID3 tags", "music metadata", "audio tag editor", "MP3 editor"
   tag="Free"
     tagType="default"
     title="Premium Monthly"
-    subtitle=`• Ad-free experience<br />
-• Unlimited playlists<br />
-• Unlimited cloud services<br />
-• Unlimited favorites<br />
-• Unlimited songs in playlist<br />
-• Unlimited songs in queue<br />
-• Unlimited offline folders<br />
-• Unlimited offline albums<br />
-• Unlimited tags search<br />
-• Unlimited export to M3U<br />
-• Download files<br />
-• Export iTunes songs<br />
-• Export iTunes collections<br />
-• Download folders<br />
-• Download collections<br />
-• Full personalization<br /><br />
+    subtitle=`• No ads<br />
+• Edit audio tags (120+)<br>
+• Edit album covers<br>
+• Edit files simultaneously<br>
+• Fix charset encoding<br>
+• Cloud storages (unlimited)<br />
+• Favorites (unlimited)<br />
+• Automatically find tags (unlimited)<br />
+• Search album covers (unlimited)<br />
+• Personalization<br /><br />
 <span class='hx:block hx:mt-2 hx:text-center'>
   <span class='hx:inline-block hx:rounded-full hx:border hx:border-gray-200 hx:hover:border-gray-300 hx:dark:border-neutral-800 hx:dark:hover:border-neutral-700 hx:px-3 hx:py-1'>
     <strong>$0.99</strong>/month
@@ -301,25 +187,19 @@ tags: ["Evertag", "ID3 tags", "music metadata", "audio tag editor", "MP3 editor"
 
   {{< hextra/feature-card
     title="Premium Yearly"
-    subtitle=`• Ad-free experience<br />
-• Unlimited playlists<br />
-• Unlimited cloud services<br />
-• Unlimited favorites<br />
-• Unlimited songs in playlist<br />
-• Unlimited songs in queue<br />
-• Unlimited offline folders<br />
-• Unlimited offline albums<br />
-• Unlimited tags search<br />
-• Unlimited export to M3U<br />
-• Download files<br />
-• Export iTunes songs<br />
-• Export iTunes collections<br />
-• Download folders<br />
-• Download collections<br />
-• Full personalization<br /><br />
+    subtitle=`• No ads<br />
+• Edit audio tags (120+)<br>
+• Edit album covers<br>
+• Edit files simultaneously<br>
+• Fix charset encoding<br>
+• Cloud storages (unlimited)<br />
+• Favorites (unlimited)<br />
+• Automatically find tags (unlimited)<br />
+• Search album covers (unlimited)<br />
+• Personalization<br /><br />
 <span class='hx:block hx:mt-2 hx:text-center'>
   <span class='hx:inline-block hx:rounded-full hx:border hx:border-gray-200 hx:hover:border-gray-300 hx:dark:border-neutral-800 hx:dark:hover:border-neutral-700 hx:px-3 hx:py-1'>
-    <strong>$9.99</strong>/year
+    <strong>$6.99</strong>/year
   </span>
 </span>`
     style="background: radial-gradient(ellipse at 50% 80%, rgba(6,182,212,0.05), hsla(0,0%,100%,0));"
@@ -327,25 +207,19 @@ tags: ["Evertag", "ID3 tags", "music metadata", "audio tag editor", "MP3 editor"
 
   {{< hextra/feature-card
     title="Premium Lifetime"
-    subtitle=`• Ad-free experience<br />
-• Unlimited playlists<br />
-• Unlimited cloud services<br />
-• Unlimited favorites<br />
-• Unlimited songs in playlist<br />
-• Unlimited songs in queue<br />
-• Unlimited offline folders<br />
-• Unlimited offline albums<br />
-• Unlimited tags search<br />
-• Unlimited export to M3U<br />
-• Download files<br />
-• Export iTunes songs<br />
-• Export iTunes collections<br />
-• Download folders<br />
-• Download collections<br />
-• Full personalization<br /><br />
+    subtitle=`• No ads<br />
+• Edit audio tags (120+)<br>
+• Edit album covers<br>
+• Edit files simultaneously<br>
+• Fix charset encoding<br>
+• Cloud storages (unlimited)<br />
+• Favorites (unlimited)<br />
+• Automatically find tags (unlimited)<br />
+• Search album covers (unlimited)<br />
+• Personalization<br /><br />
 <span class='hx:block hx:mt-2 hx:text-center'>
   <span class='hx:inline-block hx:rounded-full hx:border hx:border-gray-200 hx:hover:border-gray-300 hx:dark:border-neutral-800 hx:dark:hover:border-neutral-700 hx:px-3 hx:py-1'>
-    <strong>$29.99</strong>/lifetime
+    <strong>$19.99</strong>/lifetime
   </span>
 </span>`
     style="background: radial-gradient(ellipse at 50% 80%, rgba(6,182,212,0.05), hsla(0,0%,100%,0));"

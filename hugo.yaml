@@ -330,7 +330,7 @@ params:
   footer:
     enable: true                     # Enable site footer.
     displayCopyright: true
-    displayPoweredBy: false
+    displayPoweredBy: true
     width: normal
 
   displayUpdatedDate: true          # Show last modified date on pages.
