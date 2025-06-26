@@ -22,17 +22,15 @@ tags: ["Evertag", "ID3 tags", "music metadata", "audio tag editor", "MP3 editor"
 
 <div class="hx:mb-6">
 {{< hextra/hero-subtitle >}}
-<strong>Edit music metadata, and fix album covers.</strong>
+<strong>Edit music metadata,&nbsp;<br class="hx:sm:block hx:hidden" />and fix album covers.</strong>
 {{< /hextra/hero-subtitle >}}
 </div>
 
 <div class="hx:mb-6">
 {{< hextra/hero-paragraph >}}
-• Edit song titles, album names, genres, and more with ease  
-• Add or update album covers to make your music look great  
-• Batch edit tags for many songs at once to save time  
-• Fix broken text and auto-fill missing info with one tap   
-• Works with MP3, FLAC, M4A, OGG, WAV, APE, OPUS, and 30+ audio formats  
+• Add or update album covers  
+• Batch edit tags for many songs at once  
+• Fix broken encoding and auto-fill missing tags  
 {{< /hextra/hero-paragraph >}}
 </div>
 
@@ -58,7 +56,7 @@ tags: ["Evertag", "ID3 tags", "music metadata", "audio tag editor", "MP3 editor"
 
   {{< hextra/feature-card
     title="Edit Over 120+ Tags"
-    subtitle="Quickly edit music tags like Title, Artist, Album, Album Artist, BPM, Comment, Compilation, Composer, Copyright, Disk Number, Duration, Genre, ISRC, Language, Lyrics, Mood, Publisher, Rating, Advisory Rating, Track Number, Year, User Rating, and more."
+    subtitle="Quickly edit music tags like Title, Artist, Album, Album Artist, BPM, Comment, Composer, Disk Number, Genre, Lyrics, Rating, Track Number, Year, and more."
     icon="pencil"
     style="background: radial-gradient(ellipse at 50% 80%, rgba(59,130,246,0.15), hsla(0,0%,100%,0));"
   >}}
