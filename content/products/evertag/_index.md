@@ -14,6 +14,8 @@ tags: ["Evertag", "ID3 tags", "music metadata", "audio tag editor", "MP3 editor"
   imageWidth="600"
 >}}
 
+<div class="hx:flex hx:flex-col hx:items-center hx:justify-center hx:sm:block">
+
 <div class="hx:mt-6 hx:mb-6">
 {{< hextra/hero-headline >}}
  Evertag
@@ -22,7 +24,7 @@ tags: ["Evertag", "ID3 tags", "music metadata", "audio tag editor", "MP3 editor"
 
 <div class="hx:mb-6">
 {{< hextra/hero-subtitle >}}
-<strong>Edit music metadata,&nbsp;<br class="hx:sm:block hx:hidden" />and fix album covers.</strong>
+<strong>Keep Your Music Library Organized</strong>
 {{< /hextra/hero-subtitle >}}
 </div>
 
@@ -48,9 +50,13 @@ tags: ["Evertag", "ID3 tags", "music metadata", "audio tag editor", "MP3 editor"
   style="margin-top:1rem;margin-right:1rem;"
 >}}
 
+</div>
+
 {{< /hextra/hero-container >}}
 
 <div class="hx:mt-6"></div>
+
+<div class="hx:w-full">
 
 {{< hextra/feature-grid >}}
 
@@ -118,28 +124,29 @@ tags: ["Evertag", "ID3 tags", "music metadata", "audio tag editor", "MP3 editor"
   >}}
 
 {{< /hextra/feature-grid >}}
-
-<div class="hx:mt-6"></div>
-
-<div class="hx:w-full hx:max-w-screen-lg hx:mx-auto hx:flex hx:flex-col hx:items-center hx:text-center">
-  {{< hextra/section-headline style="margin:20px 0" >}}
-   Reviews
-  {{< /hextra/section-headline >}}
 </div>
 
 <div class="hx:mt-6"></div>
 
+{{< hextra/section-headline >}}
+  Reviews
+{{< /hextra/section-headline >}}
+
+<div class="hx:mt-6"></div>
+
+<div class="hx:w-full">
 {{< appstore-reviews apps="1450763230,1594027661" stars="5,4" >}}
-
-<div class="hx:mt-6"></div>
-
-<div class="hx:w-full hx:max-w-screen-lg hx:mx-auto hx:flex hx:flex-col hx:items-center hx:text-center">
-  {{< hextra/section-headline style="margin:20px 0" >}}
-   Pricing Plans
-  {{< /hextra/section-headline >}}
 </div>
 
 <div class="hx:mt-6"></div>
+
+{{< hextra/section-headline >}}
+  Pricing Plans
+{{< /hextra/section-headline >}}
+
+<div class="hx:mt-6"></div>
+
+<div class="hx:w-full">
 
 {{< hextra/feature-grid cols="4">}}
 
@@ -225,9 +232,11 @@ tags: ["Evertag", "ID3 tags", "music metadata", "audio tag editor", "MP3 editor"
 
 {{< /hextra/feature-grid >}}
 
+</div>
+
 <div class="hx:mt-6"></div>
 
-<div class="hx:w-full hx:max-w-screen-lg hx:mx-auto hx:flex hx:flex-col hx:items-center hx:text-center">
+<div class="hx:w-full hx:mx-auto hx:flex hx:flex-col hx:items-center">
   {{< hextra/info-paragraph border="true" >}}
    <strong>Family Sharing</strong>: All purchases and subscriptions support Family Sharing, allowing you to share Premium access with your family.<br><strong>Universal Access</strong>: Lifetime and subscription plans are shared between iOS and Mac devices using iCloud synchronization.<br><strong>Pricing</strong>: Prices are shown in US dollars for the United States. Final pricing may vary based on your region.  
   {{< /hextra/info-paragraph >}}
@@ -235,14 +244,13 @@ tags: ["Evertag", "ID3 tags", "music metadata", "audio tag editor", "MP3 editor"
 
 <div class="hx:mt-6"></div>
 
-<div class="hx:w-full hx:max-w-screen-lg hx:mx-auto hx:flex hx:flex-col hx:items-center hx:text-center">
-  {{< hextra/section-headline >}}
-   Frequently Asked Questions
-  {{< /hextra/section-headline >}}
-</div>
+{{< hextra/section-headline >}}
+  Frequently Asked Questions
+{{< /hextra/section-headline >}}
 
 <div class="hx:mt-6"></div>
 
+<div class="hx:w-full">
 {{% details title="What is Evermusic?" closed="true" %}}
 Evermusic is a music player app that helps you listen to your favorite songs from different cloud storage services.<br>
 You can easily download music to play offline, create and manage playlists, and use a built-in equalizer to enhance your listening experience.<br>
@@ -512,3 +520,5 @@ mpeg, aifc, 3gp, avi, aif, latm, 3gpp, m4a, loas, cdda, aac, m4p, m4b, ac3, pls,
 
 With this wide range of supported formats and file extensions, you can enjoy your music in the format of your choice.
 {{% /details %}}
+
+</div>

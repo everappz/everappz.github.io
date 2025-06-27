@@ -18,6 +18,8 @@ tags: ["FLAC player", "Hi-Res audio", "offline playback", "cloud music", "DSD au
   imageCard="true"
 >}}
 
+<div class="hx:flex hx:flex-col hx:items-center hx:justify-center hx:sm:block">
+
 {{< hextra/hero-badge link="../../blog/flacbox-celebrates-1-million-worldwide-downloads-your-gateway-to-hi-res-music/" >}}
   <div class="hx:w-2 hx:h-2 hx:rounded-full hx:bg-primary-400"></div>
   <span>1 Million Downloads Worldwide</span>
@@ -58,9 +60,13 @@ tags: ["FLAC player", "Hi-Res audio", "offline playback", "cloud music", "DSD au
     style="margin-top:1rem;margin-right:1rem;"
 >}}
 
+</div>
+
 {{< /hextra/hero-container >}}
 
 <div class="hx:mt-6"></div>
+
+<div class="hx:w-full">
 
 {{< hextra/feature-grid >}}
 
@@ -93,17 +99,17 @@ Stream from USB flash drives or network storage (NAS) and enjoy your full music 
 
 {{< /hextra/feature-grid >}}
 
-<div class="hx:mt-6"></div>
-
-<div class="hx:w-full hx:max-w-screen-lg hx:mx-auto hx:flex hx:flex-col hx:items-center hx:text-center">
-  {{< hextra/section-headline >}}
-All-Inclusive Features
-  {{< /hextra/section-headline >}}
 </div>
 
 <div class="hx:mt-6"></div>
 
-<div class="hx:w-full hx:px-4">
+{{< hextra/section-headline >}}
+All-Inclusive Features
+{{< /hextra/section-headline >}}
+
+<div class="hx:mt-6"></div>
+
+<div class="hx:w-full">
 
 {{< cards >}}
 
@@ -137,15 +143,13 @@ All-Inclusive Features
 
 <div class="hx:mt-6"></div>
 
-<div class="hx:w-full hx:max-w-screen-lg hx:mx-auto hx:flex hx:flex-col hx:items-center hx:text-center">
-  {{< hextra/section-headline >}}
-   Intuitive Design
-  {{< /hextra/section-headline >}}
-</div>
+{{< hextra/section-headline >}}
+Intuitive Design
+{{< /hextra/section-headline >}}
 
 <div class="hx:mt-6"></div>
 
-<div class="hx:w-full hx:px-4">
+<div class="hx:w-full">
 
 {{< cards cols="4">}}
 
@@ -209,25 +213,25 @@ All-Inclusive Features
 
 <div class="hx:mt-6"></div>
 
-<div class="hx:w-full hx:max-w-screen-lg hx:mx-auto hx:flex hx:flex-col hx:items-center hx:text-center">
-  {{< hextra/section-headline style="margin:20px 0" >}}
+{{< hextra/section-headline >}}
    Top Ratings
-  {{< /hextra/section-headline >}}
-</div>
+{{< /hextra/section-headline >}}
 
 <div class="hx:mt-6"></div>
 
+<div class="hx:w-full">
 {{< appstore-reviews apps="1097564256,1594027432" stars="5,4" >}}
-
-<div class="hx:mt-6"></div>
-
-<div class="hx:w-full hx:max-w-screen-lg hx:mx-auto hx:flex hx:flex-col hx:items-center hx:text-center">
-  {{< hextra/section-headline style="margin:20px 0" >}}
-   Pricing Plans
-  {{< /hextra/section-headline >}}
 </div>
 
 <div class="hx:mt-6"></div>
+
+{{< hextra/section-headline >}}
+   Pricing Plans
+{{< /hextra/section-headline >}}
+
+<div class="hx:mt-6"></div>
+
+<div class="hx:w-full">
 
 {{< hextra/feature-grid cols="4">}}
 
@@ -327,9 +331,11 @@ All-Inclusive Features
 
 {{< /hextra/feature-grid >}}
 
+</div>
+
 <div class="hx:mt-6"></div>
 
-<div class="hx:w-full hx:max-w-screen-lg hx:mx-auto hx:flex hx:flex-col hx:items-center hx:text-center">
+<div class="hx:w-full hx:mx-auto hx:flex hx:flex-col hx:items-center">
   {{< hextra/info-paragraph border="true" >}}
    <strong>Family Sharing</strong>: All purchases and subscriptions support Family Sharing, allowing you to share Premium access with your family.<br><strong>Universal Access</strong>: Lifetime and subscription plans are shared between iOS and Mac devices using iCloud synchronization.<br><strong>Pricing</strong>: Prices are shown in US dollars for the United States. Final pricing may vary based on your region.  
   {{< /hextra/info-paragraph >}}
@@ -337,13 +343,13 @@ All-Inclusive Features
 
 <div class="hx:mt-6"></div>
 
-<div class="hx:w-full hx:max-w-screen-lg hx:mx-auto hx:flex hx:flex-col hx:items-center hx:text-center">
-  {{< hextra/section-headline >}}
+{{< hextra/section-headline >}}
    Frequently Asked Questions
-  {{< /hextra/section-headline >}}
-</div>
+{{< /hextra/section-headline >}}
 
 <div class="hx:mt-6"></div>
+
+<div class="hx:w-full">
 
 {{% details title="How does Flacbox work?" closed="true" %}}
 Flacbox is a hi-res music player that lets you manage audio tracks like regular files.<br>
@@ -780,3 +786,5 @@ Note: Ensure JavaScript is enabled and you're using the latest browser version f
 [Read more](https://www.everappz.com/post/how-to-transfer-files-wirelessly-from-a-computer-to-an-iphone-using-wifi-drive)
 
 {{% /details %}}
+
+</div>
