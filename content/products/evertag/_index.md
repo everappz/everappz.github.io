@@ -2,11 +2,15 @@
 date: '2025-06-12T17:00:00+00:00'
 draft: false
 title: 'Evertag'
+seo:
+  title: 'Evertag | Music Tags Editor for iPhone and Mac'
 layout: hextra-home
 date: 2024-01-05
 description: "Keep your music library organized. Find missing tags. Batch editing. Change album covers and much more."
 keywords: ["Evertag", "audio tag editor", "ID3 tag manager", "edit music metadata", "FLAC tag editor", "music organizer app", "MP3 metadata editor", "iOS music tag editor", "Mac audio tag app", "rename music files"]
 tags: ["Evertag", "ID3 tags", "music metadata", "audio tag editor", "MP3 editor", "FLAC tagging", "iPhone utilities", "Mac music tools", "music library management"]
+aliases:
+  - /evertag/
 ---
 
 {{< hextra/hero-container
@@ -153,7 +157,7 @@ tags: ["Evertag", "ID3 tags", "music metadata", "audio tag editor", "MP3 editor"
   {{< hextra/feature-card
     title="Free"
     subtitle=`• Includes ads<br>
-• Edit audio tags (120+)<br>
+• Edit audio tags<br>
 • Edit album covers<br>
 • Edit files simultaneously<br>
 • Fix charset encoding<br>
@@ -173,7 +177,7 @@ tags: ["Evertag", "ID3 tags", "music metadata", "audio tag editor", "MP3 editor"
     tagType="default"
     title="Premium Monthly"
     subtitle=`• No ads<br />
-• Edit audio tags (120+)<br>
+• Edit audio tags<br>
 • Edit album covers<br>
 • Edit files simultaneously<br>
 • Fix charset encoding<br>
@@ -193,7 +197,7 @@ tags: ["Evertag", "ID3 tags", "music metadata", "audio tag editor", "MP3 editor"
   {{< hextra/feature-card
     title="Premium Yearly"
     subtitle=`• No ads<br />
-• Edit audio tags (120+)<br>
+• Edit audio tags<br>
 • Edit album covers<br>
 • Edit files simultaneously<br>
 • Fix charset encoding<br>
@@ -213,7 +217,7 @@ tags: ["Evertag", "ID3 tags", "music metadata", "audio tag editor", "MP3 editor"
   {{< hextra/feature-card
     title="Premium Lifetime"
     subtitle=`• No ads<br />
-• Edit audio tags (120+)<br>
+• Edit audio tags<br>
 • Edit album covers<br>
 • Edit files simultaneously<br>
 • Fix charset encoding<br>

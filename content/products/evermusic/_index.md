@@ -2,6 +2,8 @@
 date: '2025-06-12T17:00:00+00:00'
 draft: false
 title: 'Evermusic'
+seo:
+  title: 'Evermusic | Cloud Streamer and Offline Music Player for iPhone and Mac'
 layout: hextra-home
 date: 2024-01-05
 description: "Download the best free offline music player for your iPhone and Mac and listen to your music everywhere."

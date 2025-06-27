@@ -2,6 +2,8 @@
 date: '2025-06-12T17:00:00+00:00'
 draft: false
 title: 'Flacbox'
+seo:
+  title: 'Flacbox | Hi-Res Audio Player for iPhone/Mac'
 layout: hextra-home
 date: 2024-01-05
 description: "Play & download FLAC, DSD, APE, ALAC files on your iPhone. Listen to your music directly from the cloud storage or computer with equalizer."

@@ -240,11 +240,6 @@ menu:
       pageRef: /products/evervideo
       parent: products
       weight: 4
-    - identifier: soundy
-      name: Soundy
-      pageRef: /products/soundy
-      parent: products
-      weight: 5
     - identifier: blog
       name: Blog
       pageRef: /blog
@@ -307,7 +302,7 @@ menu:
 
 # THEME PARAMETERS
 params:
-  description: Join the Everappz family with more than 14 million downloads and thousands of customers who use our apps every day.
+  description: Everappz creates popular iOS and Mac apps for audio, video, and file management. With over 14 million downloads worldwide, our apps let you play music, watch videos, edit tags, and manage your files with ease.
 
   navbar:
     displayTitle: false               # Show site title in the navbar.
@@ -330,7 +325,7 @@ params:
   footer:
     enable: true                     # Enable site footer.
     displayCopyright: true
-    displayPoweredBy: true
+    displayPoweredBy: false
     width: normal
 
   displayUpdatedDate: true          # Show last modified date on pages.
