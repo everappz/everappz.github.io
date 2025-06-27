@@ -220,24 +220,24 @@ menu:
       name: Products
       pageRef: /products
       weight: 2
+    - identifier: evervideo
+      name: Evervideo
+      pageRef: /products/evervideo
+      parent: products
+      weight: 1
     - identifier: evermusic
       name: Evermusic
       pageRef: /products/evermusic
       parent: products
-      weight: 1
+      weight: 2
     - identifier: flacbox
       name: Flacbox
       pageRef: /products/flacbox
       parent: products
-      weight: 2
+      weight: 3
     - identifier: evertag
       name: Evertag
       pageRef: /products/evertag
-      parent: products
-      weight: 3
-    - identifier: evervideo
-      name: Evervideo
-      pageRef: /products/evervideo
       parent: products
       weight: 4
     - identifier: blog

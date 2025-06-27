@@ -38,7 +38,7 @@ aliases:
 
 <div class="hx:mb-12">
 {{< hextra/hero-subtitle >}}
-<strong>The best free video player and streamer&nbsp;<br class="hx:sm:block hx:hidden" />for your iPhone and MAC</strong>
+<strong>HD Video Player & Streamer&nbsp;<br class="hx:sm:block hx:hidden" />For Your iPhone & MAC</strong>
 {{< /hextra/hero-subtitle >}}
 </div>
 
@@ -134,29 +134,37 @@ All-Inclusive Features
 
 {{< cards >}}
 
-  {{< card title="Lossless Audio Support" subtitle="Play FLAC, ALAC, WAV, APE, DFF, WV, AIFF, and many other high-quality formats." icon="music-note" >}}
-  {{< card title="Offline Mode" subtitle="Download albums, playlists, and tracks for offline playback anytime." icon="download" >}}
-  {{< card title="File Management" subtitle="Easily copy, move, rename, and delete files within the app." icon="folder" >}}
+{{< card title="Play All Video and Audio Formats" subtitle="Watch your media without converting files. Evervideo supports all major formats, including MKV, AVI, MP4, MOV, FLAC, MP3, AAC, OGG, WAV, WMV, and more." icon="film">}}
 
-  {{< card title="Custom Playlists" subtitle="Create, edit, reorder playlists, and export or import M3U files." icon="collection" >}}
-  {{< card title="Media Library" subtitle="Add music and organize it by album, artist, and genre using tags." icon="library" >}}
-  {{< card title="Advanced Search" subtitle="Quickly find songs, artists, or albums with smart search tools." icon="search" >}}
+{{< card title="Offline Mode" subtitle="Download videos, albums, and playlists to watch without an internet connection. Take your entire video collection anywhere." icon="download">}}
 
-  {{< card title="Cloud Streaming" subtitle="Stream from Google Drive, Dropbox, OneDrive, iCloud, MEGA, and more." icon="cloud" >}}
-  {{< card title="NAS & Computer Access" subtitle="Connect via SMB, DLNA, or WebDAV. Transfer with iTunes or Wi-Fi." icon="desktop-computer" >}}
-  {{< card title="USB Flash Cards" subtitle="Play music directly from SD cards using USB adapters like iXpand." icon="inbox" >}}
+{{< card title="360° Video & VR Mode" subtitle="Watch 360° and VR videos in a fun and easy way. Move your phone around to look in any direction, or put it into a VR headset to feel like you’re inside the video." icon="video-camera">}}
 
-  {{< card title="Playback Controls" subtitle="Change playback speed and pitch for perfect audio control." icon="fast-forward" >}}
-  {{< card title="Lyrics & Comments" subtitle="View embedded lyrics and comments while playing songs." icon="annotation" >}}
-  {{< card title="ID3 Tag Editor" subtitle="Edit and fix metadata like title, artist, or album with the built-in tool." icon="pencil-alt" >}}
+{{< card title="Picture-in-Picture" subtitle="Keep watching videos in a small floating window while using other apps. Control playback and see subtitles at the same time – perfect for multitasking." icon="duplicate">}}
 
-  {{< card title="Equalizer & Boost" subtitle="Use presets or adjust manually with preamp gain for rich sound." icon="adjustments" >}}
-  {{< card title="Apple CarPlay" subtitle="Drive safely with a dedicated CarPlay UI for music playback." icon="truck" >}}
-  {{< card title="AirPlay & Chromecast" subtitle="Stream to Apple TV and Google Chromecast devices wirelessly." icon="device-mobile" >}}
+{{< card title="Video & Audio Equalizer" subtitle="Customize the way your videos look and sound. Adjust bass, pitch, brightness, gamma, saturation, contrast, and more. Choose from 50+ video presets and 20+ audio presets, or create your own." icon="adjustments">}}
 
-  {{< card title="Last.fm Integration" subtitle="Track music stats and get personalized song recommendations." icon="chart-bar" >}}
-  {{< card title="Automatic Sync" subtitle="Auto-sync your music library with cloud and local folders." icon="refresh" >}}
-  {{< card title="Audiobook Support" subtitle="Listen to audiobooks with bookmarks, sleep timer, and resume playback from where you stopped." icon="book-open" >}}
+{{< card title="Subtitles" subtitle="View embedded subtitles, select subtitle track number, and enjoy full subtitle support even in Picture-in-Picture mode." icon="annotation" >}}
+
+{{< card title="Play Directly from Cloud" subtitle="Watch videos directly from your cloud storage without using device space. Supports iCloud Drive, Google Drive, Dropbox, OneDrive, MEGA, Synology Drive, pCloud, and more." icon="cloud">}}
+
+{{< card title="Connect Computer / NAS" subtitle="Easily connect your NAS, Mac, or PC over your home network using SMB, WebDAV, or DLNA. Remote access is supported for Synology Drive and WD MyCloud Home. Transfer media files to your device via Wi-Fi or iTunes File Sharing." icon="desktop-computer">}}
+
+{{< card title="Media Library" subtitle="Organize by album, genre, or duration. Automatically syncs with cloud changes. Create, edit, and export M3U playlists with custom sorting." icon="library" >}}
+
+{{< card title="Bookmarks & Playback Position Saving" subtitle="Save your place in any video with bookmarks and resume playback from where you left off. Adjust playback speed, mark favorites, and sort videos by most played for easy access." icon="book-open">}}
+
+{{< card title="AirPlay & Chromecast" subtitle="Play videos on a bigger screen by streaming to Apple TV, Chromecast, or any compatible external display." icon="device-mobile">}}
+
+{{< card title="Import from Files & Libraries" subtitle="Import videos directly from the Files app, Photos, or your iTunes Library. Access all your local and cloud content in one organized media library." icon="database">}}
+
+{{< card title="File Manager" subtitle="Move, rename, delete, and organize files directly inside the app." icon="folder">}}
+
+{{< card title="Personalization" subtitle="Customize the app to fit your preferences. Choose themes, show or hide features, and adjust the interface to your needs."  icon="sun">}}
+
+{{< card title="Smart Search" subtitle="Quickly find videos, albums, or playlists in your media library using keywords or filters." icon="search" >}}
+
+
 
 {{< /cards >}}
 
