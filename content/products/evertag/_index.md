@@ -379,6 +379,79 @@ ASIN, AcoustID: Fingerprint, AcoustID: Identifier, Album, Album Artist, Album Ar
 [Read more](https://www.everappz.com/post/evertag-tag-field-mappings)
 {{% /details %}}
 
+{{% details title="How to download files?" closed="true" %}}
+Before you can download audio files and edit audio tags, you need to connect a cloud storage service.<br>
+Open the "Connections" screen and add your cloud storage provider.<br>
+Once added, you can begin downloading files to the app.<br><br>
+
+To download files from the cloud:<br>
+– Open the connected cloud storage service.<br>
+– Navigate to the folder you want to download.<br>
+– Tap the "More actions" button ("...") in the top right corner and select the "Select" menu item.<br>
+– Choose the files or folders you want to download and tap on the "Download" action.<br>
+{{% /details %}}
+
+
+{{% details title="What cloud services are supported?" closed="true" %}}
+If your music library is stored in the cloud, you can connect the most popular cloud services directly in the app:<br>
+Dropbox, OneDrive, Box, MEGA, Yandex.Disk, MediaFire, pCloud, HiDrive.<br><br>
+
+You can browse and manage your files using the built-in file manager. The app supports all basic file operations like rename, delete, move, and more.<br><br>
+
+You can also edit audio files stored locally on your device using the open-in-place feature. No need to copy them from other apps — simply open and edit them directly.<br><br>
+
+{{% /details %}}
+
+{{% details title="How to automatically update file's metadata on a cloud service?" closed="true" %}}
+Once you finish editing the metadata, tap the "Save" button in the top right corner to apply the changes to the selected files.<br><br>
+
+If you're editing a file stored in the cloud, the app gives you several options for updating the file's metadata. These behaviors can be customized in the settings:<br><br>
+
+• **Show confirmation message** – When enabled, the app will prompt you with a confirmation message before updating the file on the cloud.<br>
+• **Automatically update file's metadata** – When enabled, the app will apply the changes to the cloud file right after saving.<br>
+• **Do not update file's metadata** – When enabled, the app will skip updating the cloud file's metadata after editing.<br><br>
+
+You can find and modify these options in the Evertag settings under the metadata update preferences section.
+{{% /details %}}
+
+
+{{% details title="How to add a new account?" closed="true" %}}
+To connect a cloud service, open the "Connections" tab → select the "Connect to cloud storage" menu item → choose a cloud storage service from the list → enter your credentials and tap "Done".<br><br>
+
+If you encounter issues, make sure your Internet connection is active and double-check your login and password.<br><br>
+
+Currently supported services include: Dropbox, OneDrive, Box, MEGA, Yandex.Disk, Media Fire, PCloud, and HiDrive.<br><br>
+
+In the Premium version of the app, you can add an unlimited number of cloud accounts.
+{{% /details %}}
+
+{{% details title="How to manage my files in the network storage?" closed="true" %}}
+If you need to edit several files located on your cloud storage, activate select mode by tapping the "..." button in the top right corner.<br><br>
+
+Once activated, checkboxes will appear next to each file. You can then perform actions on individual files or select multiple files to apply bulk actions.<br><br>
+
+Available actions for selected files:<br>
+• <strong>Download</strong> – Download a file or folder from cloud storage to the "Local Files" section.<br>
+• <strong>Move</strong> – Move a file or folder to a different folder within the cloud storage.<br>
+• <strong>Rename</strong> – Rename a file or folder on the remote storage.<br>
+• <strong>Delete</strong> – Permanently delete a file or folder from the cloud storage.<br>
+• <strong>Sort</strong> – Sort files by name, size, or date edited.<br>
+• <strong>Grid/List</strong> – Switch between table view and thumbnail view modes.<br><br>
+
+If there isn’t enough space to display all options, a "More actions" button will appear. Tap it to access the full list of available actions.
+{{% /details %}}
+
+
+{{% details title="How to edit several files as one file?" closed="true" %}}
+With "batch mode", you can edit multiple files at once and apply shared metadata changes quickly and efficiently.<br><br>
+
+To activate batch mode:<br>
+• Scroll to the bottom of the screen.<br>
+• Tap the "Edit several files simultaneously" button.<br><br>
+
+This mode is especially useful when you need to apply the same album name, artist, genre, or other metadata fields across multiple audio files.
+{{% /details %}}
+
 </div>
 
 
