@@ -125,7 +125,7 @@ aliases:
 <div class="hx:mt-6"></div>
 
 {{< hextra/section-headline >}}
-All-Inclusive Features
+All Features
 {{< /hextra/section-headline >}}
 
 <div class="hx:mt-6"></div>
@@ -183,57 +183,57 @@ Intuitive Design
 {{< cards cols="4">}}
 
   {{< card 
-    image="./screenshots/2048x2732/1.png" 
-    title="Audio Player" 
+    image="./screenshots/2880x1800/1.png" 
+    title="Video Player" 
     method="Fill"
     options="515x200"
-    subtitle="Advanced music player with repeat, shuffle, speed control, and pitch adjustment." 
+    subtitle="Watch HD videos with playback speed, pitch, repeat, and shuffle controls. Supports nearly all audio and video formats." 
     icon="play"
   >}}
 
   {{< card 
-    image="./screenshots/2048x2732/2.png"  
-    title="Audio Equalizer" 
+    image="./screenshots/2880x1800/3.png" 
+    title="Audio & Video Equalizer" 
     method="Fill"
     options="515x200"
-    subtitle="Custom equalizer with presets, bass boost, and preamp for better sound." 
+    subtitle="Improve sound and video quality with presets, bass boost, brightness, contrast, and more adjustments." 
     icon="adjustments"
   >}}
 
   {{< card 
-    image="./screenshots/2048x2732/3.png"  
+    image="./screenshots/2880x1800/6.png" 
     title="Playlists Manager" 
     method="Fill"
     options="515x200"
-    subtitle="Make playlists, change song order, export to M3U or ZIP for backup or sharing." 
+    subtitle="Create and edit playlists, reorder tracks, and export as ZIP for sharing or backup." 
     icon="collection"
   >}}
 
   {{< card 
-    image="./screenshots/2048x2732/5.png"  
+    image="./screenshots/2880x1800/5.png" 
     title="Media Library" 
     method="Fill"
     options="515x200"
-    subtitle="Organize songs by album, artist, or genre using audio tags and metadata." 
+    subtitle="Keep all your videos and audio in one place with smart search and sorting tools." 
     icon="library"
   >}}
 
   {{< card 
-    image="./screenshots/2048x2732/7.png"  
+    image="./screenshots/2880x1800/7.png"  
     title="Cloud Storage" 
     method="Fill"
     options="515x200"
-    subtitle="Stream music from Google Drive, Dropbox, OneDrive, and other cloud services." 
+    subtitle="Stream videos directly from iCloud, Google Drive, Dropbox, OneDrive, MEGA, and more." 
     icon="cloud"
   >}}
 
   {{< card 
-    image="./screenshots/2048x2732/8.png"  
-    title="iCloud Drive" 
+    image="./screenshots/2880x1800/9.png"  
+    title="File Manager" 
     method="Fill"
     options="515x200"
-    subtitle="Store lossless music in iCloud and stream it directly without downloading." 
-    icon="wifi"
+    subtitle="Organize, move, rename, and delete media files and folders easily within the app." 
+    icon="folder"
   >}}
 
 {{< /cards >}}
