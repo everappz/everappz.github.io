@@ -214,7 +214,7 @@ Intuitive Design
 <div class="hx:mt-6"></div>
 
 {{< hextra/section-headline >}}
-   Top Ratings
+App Store Reviews
 {{< /hextra/section-headline >}}
 
 <div class="hx:mt-6"></div>

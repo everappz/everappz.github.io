@@ -245,7 +245,7 @@ tags: ["Evermusic", "offline playback", "cloud music", "MP3 player", "iPhone app
 <div class="hx:mt-6"></div>
 
 {{< hextra/section-headline >}}
-  Reviews
+  App Store Reviews
 {{< /hextra/section-headline >}}
 
 <div class="hx:mt-6"></div>

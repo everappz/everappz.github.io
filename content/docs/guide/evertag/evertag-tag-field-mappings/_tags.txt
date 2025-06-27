@@ -1,0 +1,1026 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+table {
+  width: 100%;
+  border-collapse: collapse;
+  margin: 20px 0;
+  font-size: 16px;
+  text-align: left;
+}
+th {
+  background-color: #4CA772;
+  color: white;
+  position: sticky;
+  top: 0;
+  padding: 10px;
+}
+td, th {
+  border: 1px solid #ddd;
+  padding: 8px;
+}
+tr:nth-child(even) {
+  background-color: #f2f2f2;
+}
+tr:nth-child(odd) {
+  background-color: #ffffff;
+}
+td:first-child, th:first-child {
+  background-color: #282A34;
+  color: white;
+  position: sticky;
+  left: 0;
+  z-index: 1;
+  border-right: 2px solid #4CAF50;
+}
+td:not(:first-child), th:not(:first-child) {
+  border-left: 2px solid #ddd;
+}
+</style>
+</head>
+<body>
+<table>
+<thead>
+<tr>
+<th>Tag Name</th>
+<th>APE (ape)</th>
+<th>ASF/Windows Media (asf, wma)</th>
+<th>ID3v2 (afc, aif, aifc, aiff, mp3, wav)</th>
+<th>MP4 (3g2, m4a, m4b, m4p, m4r, m4v, mp4)</th>
+<th>Vorbis Comments (flac, ogg)</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>AcoustID: Fingerprint</td>
+<td>Acoustid Fingerprint, ACOUSTID_FINGERPRINT</td>
+<td>Acoustid/Fingerprint</td>
+<td>TXXX:Acoustid Fingerprint</td>
+<td>----:com.apple.iTunes:Acoustid Fingerprint</td>
+<td>ACOUSTID_FINGERPRINT</td>
+</tr>
+<tr>
+<td>AcoustID: Identifier</td>
+<td>Acoustid Id, ACOUSTID_ID</td>
+<td>Acoustid/Id</td>
+<td>TXXX:Acoustid Id</td>
+<td>----:com.apple.iTunes:Acoustid Id</td>
+<td>ACOUSTID_ID</td>
+</tr>
+<tr>
+<td>Album</td>
+<td>Album, ALBUM</td>
+<td>WM/AlbumTitle</td>
+<td>TALB</td>
+<td>&copy;alb</td>
+<td>ALBUM</td>
+</tr>
+<tr>
+<td>Album Artist</td>
+<td>Album Artist, ALBUM ARTIST, ALBUMARTIST</td>
+<td>WM/AlbumArtist</td>
+<td>TPE2</td>
+<td>aART</td>
+<td>ALBUMARTIST</td>
+</tr>
+<tr>
+<td>Album Artist Sort Order</td>
+<td>Album Artist Sort, ALBUMARTISTSORT</td>
+<td>WM/AlbumArtistSortOrder</td>
+<td>TSO2</td>
+<td>soaa</td>
+<td>ALBUMARTISTSORT</td>
+</tr>
+<tr>
+<td>Album Cover</td>
+<td>COVER ART (FRONT)</td>
+<td>WM/Picture</td>
+<td>APIC</td>
+<td>covr</td>
+<td>METADATA_BLOCK_PICTURE, COVERART</td>
+</tr>
+<tr>
+<td>Album Sort Order</td>
+<td>Album Sort, ALBUMSORT</td>
+<td>WM/AlbumSortOrder</td>
+<td>TSOA</td>
+<td>soal</td>
+<td>ALBUMSORT</td>
+</tr>
+<tr>
+<td>Arranger</td>
+<td>Arranger, ARRANGER</td>
+<td>WM/Arranger</td>
+<td>TIPL:arranger</td>
+<td>N/A</td>
+<td>ARRANGER</td>
+</tr>
+<tr>
+<td>Artist</td>
+<td>Artist, ARTIST</td>
+<td>Author</td>
+<td>TPE1</td>
+<td>&copy;ART</td>
+<td>ARTIST</td>
+</tr>
+<tr>
+<td>Artist Sort Order</td>
+<td>Artist Sort, ARTISTSORT</td>
+<td>WM/ArtistSortOrder</td>
+<td>TSOP</td>
+<td>soar</td>
+<td>ARTISTSORT</td>
+</tr>
+<tr>
+<td>Artists</td>
+<td>Artists, ARTISTS</td>
+<td>WM/ARTISTS</td>
+<td>TXXX:ARTISTS</td>
+<td>----:com.apple.iTunes:ARTISTS</td>
+<td>ARTISTS</td>
+</tr>
+<tr>
+<td>ASIN</td>
+<td>ASIN</td>
+<td>ASIN</td>
+<td>TXXX:ASIN</td>
+<td>----:com.apple.iTunes:ASIN</td>
+<td>ASIN</td>
+</tr>
+<tr>
+<td>Barcode</td>
+<td>Barcode, BARCODE</td>
+<td>WM/Barcode</td>
+<td>TXXX:BARCODE</td>
+<td>----:com.apple.iTunes:BARCODE</td>
+<td>BARCODE</td>
+</tr>
+<tr>
+<td>Beats Per Minute</td>
+<td>BPM</td>
+<td>WM/BeatsPerMinute</td>
+<td>TBPM</td>
+<td>tmpo</td>
+<td>BPM</td>
+</tr>
+<tr>
+<td>Catalog Number</td>
+<td>CatalogNumber, Catalog Number, Catalog, CATALOGNUMBER</td>
+<td>WM/CatalogNo</td>
+<td>TXXX:CATALOGNUMBER</td>
+<td>----:com.apple.iTunes:CATALOGNUMBER</td>
+<td>CATALOGNUMBER</td>
+</tr>
+<tr>
+<td>Comment</td>
+<td>Comment, COMMENT</td>
+<td>Comment</td>
+<td>COMM</td>
+<td>&copy;cmt</td>
+<td>COMMENT</td>
+</tr>
+<tr>
+<td>Compilation</td>
+<td>Compilation, COMPILATION</td>
+<td>WM/IsCompilation</td>
+<td>TCMP</td>
+<td>cpil</td>
+<td>COMPILATION</td>
+</tr>
+<tr>
+<td>Composer</td>
+<td>Composer, COMPOSER</td>
+<td>WM/Composer</td>
+<td>TCOM</td>
+<td>&copy;wrt</td>
+<td>COMPOSER</td>
+</tr>
+<tr>
+<td>Composer Sort Order</td>
+<td>Composer Sort, COMPOSERSORT</td>
+<td>WM/ComposerSortOrder</td>
+<td>TSOC</td>
+<td>soco</td>
+<td>COMPOSERSORT</td>
+</tr>
+<tr>
+<td>Conductor</td>
+<td>Conductor, CONDUCTOR</td>
+<td>WM/Conductor</td>
+<td>TPE3</td>
+<td>----:com.apple.iTunes:CONDUCTOR, &copy;con</td>
+<td>CONDUCTOR</td>
+</tr>
+<tr>
+<td>Content Group</td>
+<td>N/A</td>
+<td>WM/ContentGroupDescription</td>
+<td>TIT1</td>
+<td>&copy;grp</td>
+<td>N/A</td>
+</tr>
+<tr>
+<td>Copyright</td>
+<td>Copyright, COPYRIGHT</td>
+<td>Copyright</td>
+<td>TCOP</td>
+<td>cprt</td>
+<td>COPYRIGHT</td>
+</tr>
+<tr>
+<td>Description</td>
+<td>Description, DESCRIPTION</td>
+<td>Description</td>
+<td>N/A</td>
+<td>desc</td>
+<td>DESCRIPTION</td>
+</tr>
+<tr>
+<td>Director</td>
+<td>Director, DIRECTOR</td>
+<td>WM/Director</td>
+<td>TXXX:DIRECTOR</td>
+<td>&copy;dir</td>
+<td>DIRECTOR</td>
+</tr>
+<tr>
+<td>Disk Number</td>
+<td>Disc, DISC</td>
+<td>WM/PartOfSet</td>
+<td>TPOS</td>
+<td>disk</td>
+<td>DISCNUMBER, DISCNUM</td>
+</tr>
+<tr>
+<td>Disk Subtitle</td>
+<td>DiscSubtitle, Disc Subtitle, DISCSUBTITLE</td>
+<td>WM/SetSubTitle</td>
+<td>TSST</td>
+<td>----:com.apple.iTunes:DISCSUBTITLE</td>
+<td>DISCSUBTITLE</td>
+</tr>
+<tr>
+<td>Disk Total</td>
+<td>Disc, DISC</td>
+<td>WM/PartOfSet</td>
+<td>TPOS</td>
+<td>disk</td>
+<td>DISCTOTAL, TOTALDISCS</td>
+</tr>
+<tr>
+<td>Encoded By</td>
+<td>EncodedBy, Encoded By, ENCODEDBY</td>
+<td>WM/EncodedBy</td>
+<td>TENC</td>
+<td>&copy;too</td>
+<td>ENCODEDBY, ENCODED-BY</td>
+</tr>
+<tr>
+<td>Encoder Settings</td>
+<td>EncoderSettings, Encoder Settings, ENCODERSETTINGS</td>
+<td>WM/EncodingSettings</td>
+<td>TSSE</td>
+<td>N/A</td>
+<td>ENCODING, ENCODERSETTINGS, ENCODER SETTINGS</td>
+</tr>
+<tr>
+<td>Encoding Time</td>
+<td>EncodingTime, Encoding Time, ENCODINGTIME</td>
+<td>WM/EncodingTime</td>
+<td>TDEN</td>
+<td>N/A</td>
+<td>ENCODINGTIME</td>
+</tr>
+<tr>
+<td>Engineer</td>
+<td>Engineer, ENGINEER</td>
+<td>WM/Engineer</td>
+<td>TIPL:engineer</td>
+<td>----:com.apple.iTunes:ENGINEER</td>
+<td>ENGINEER</td>
+</tr>
+<tr>
+<td>File Owner</td>
+<td>FileOwner, File Owner, FILEOWNER</td>
+<td>FILEOWNER</td>
+<td>TOWN</td>
+<td>N/A</td>
+<td>FILEOWNER</td>
+</tr>
+<tr>
+<td>File Type</td>
+<td>FileType, File Type, FILETYPE</td>
+<td>FILETYPE</td>
+<td>TFLT</td>
+<td>N/A</td>
+<td>FILETYPE</td>
+</tr>
+<tr>
+<td>Genre</td>
+<td>Genre, GENRE</td>
+<td>WM/Genre</td>
+<td>TCON</td>
+<td>&copy;gen, gnre</td>
+<td>GENRE</td>
+</tr>
+<tr>
+<td>Grouping</td>
+<td>Grouping, GROUPING</td>
+<td>N/A</td>
+<td>GRP1</td>
+<td>N/A</td>
+<td>GROUPING</td>
+</tr>
+<tr>
+<td>Initial Key</td>
+<td>KEY</td>
+<td>WM/InitialKey</td>
+<td>TKEY</td>
+<td>----:com.apple.iTunes:initialkey</td>
+<td>KEY</td>
+</tr>
+<tr>
+<td>Involved People</td>
+<td>N/A</td>
+<td>N/A</td>
+<td>TIPL</td>
+<td>N/A</td>
+<td>N/A</td>
+</tr>
+<tr>
+<td>ISRC</td>
+<td>ISRC</td>
+<td>WM/ISRC</td>
+<td>TSRC</td>
+<td>----:com.apple.iTunes:ISRC</td>
+<td>ISRC</td>
+</tr>
+<tr>
+<td>Language</td>
+<td>Language, LANGUAGE</td>
+<td>WM/Language</td>
+<td>TLAN</td>
+<td>----:com.apple.iTunes:LANGUAGE</td>
+<td>LANGUAGE</td>
+</tr>
+<tr>
+<td>Length</td>
+<td>Length, LENGTH</td>
+<td>LENGTH</td>
+<td>TLEN</td>
+<td>N/A</td>
+<td>LENGTH</td>
+</tr>
+<tr>
+<td>License</td>
+<td>License, LICENSE</td>
+<td>LICENSE</td>
+<td>TXXX:LICENSE</td>
+<td>----:com.apple.iTunes:LICENSE</td>
+<td>LICENSE</td>
+</tr>
+<tr>
+<td>Lyricist</td>
+<td>Lyricist, LYRICIST</td>
+<td>WM/Writer</td>
+<td>TEXT</td>
+<td>----:com.apple.iTunes:LYRICIST</td>
+<td>LYRICIST</td>
+</tr>
+<tr>
+<td>Lyrics Advisory Rating</td>
+<td>N/A</td>
+<td>N/A</td>
+<td>TXXX:ITUNESADVISORY</td>
+<td>rtng</td>
+<td>ITUNESADVISORY</td>
+</tr>
+<tr>
+<td>Lyrics Unsynced</td>
+<td>Lyrics, LYRICS</td>
+<td>WM/Lyrics</td>
+<td>USLT</td>
+<td>&copy;lyr</td>
+<td>LYRICS</td>
+</tr>
+<tr>
+<td>Media Type</td>
+<td>Media, MEDIA</td>
+<td>WM/Media</td>
+<td>TMED</td>
+<td>----:com.apple.iTunes:MEDIA</td>
+<td>MEDIA</td>
+</tr>
+<tr>
+<td>Mix DJ</td>
+<td>DJMixer, DJMIXER</td>
+<td>WM/DJMixer</td>
+<td>TIPL:DJ-mix</td>
+<td>----:com.apple.iTunes:DJMIXER</td>
+<td>DJMIXER</td>
+</tr>
+<tr>
+<td>Mixer</td>
+<td>Mixer, MIXER</td>
+<td>WM/Mixer</td>
+<td>TIPL:mix</td>
+<td>----:com.apple.iTunes:MIXER</td>
+<td>MIXER</td>
+</tr>
+<tr>
+<td>Mood</td>
+<td>Mood, MOOD</td>
+<td>WM/Mood</td>
+<td>TMOO</td>
+<td>----:com.apple.iTunes:MOOD</td>
+<td>MOOD</td>
+</tr>
+<tr>
+<td>Movement Name</td>
+<td>Movement Name, MOVEMENTNAME</td>
+<td>MOVEMENTNAME</td>
+<td>MVNM</td>
+<td>&copy;mvn</td>
+<td>MOVEMENTNAME</td>
+</tr>
+<tr>
+<td>Movement Number</td>
+<td>Movement, MOVEMENT</td>
+<td>MOVEMENT</td>
+<td>MVIN</td>
+<td>&copy;mvi</td>
+<td>MOVEMENT</td>
+</tr>
+<tr>
+<td>Movement Total</td>
+<td>Movement Total, MOVEMENTTOTAL</td>
+<td>MOVEMENTTOTAL</td>
+<td>MVIN</td>
+<td>&copy;mvc</td>
+<td>MOVEMENTTOTAL</td>
+</tr>
+<tr>
+<td>MusicBrainz: Album Artist ID</td>
+<td>MUSICBRAINZ_ALBUMARTISTID</td>
+<td>MusicBrainz/Album Artist Id</td>
+<td>TXXX:MusicBrainz Album Artist Id</td>
+<td>----:com.apple.iTunes:MusicBrainz Album Artist Id</td>
+<td>MUSICBRAINZ_ALBUMARTISTID</td>
+</tr>
+<tr>
+<td>MusicBrainz: Album ID</td>
+<td>MUSICBRAINZ_ALBUMID</td>
+<td>MusicBrainz/Album Id</td>
+<td>TXXX:MusicBrainz Album Id</td>
+<td>----:com.apple.iTunes:MusicBrainz Album Id</td>
+<td>MUSICBRAINZ_ALBUMID</td>
+</tr>
+<tr>
+<td>MusicBrainz: Album Release Country</td>
+<td>MUSICBRAINZ_ALBUMRELEASECOUNTRY</td>
+<td>MusicBrainz/Album Release Country</td>
+<td>TXXX:MusicBrainz Album Release Country</td>
+<td>----:com.apple.iTunes:MusicBrainz Album Release Country</td>
+<td>MUSICBRAINZ_ALBUMRELEASECOUNTRY</td>
+</tr>
+<tr>
+<td>MusicBrainz: Album Status</td>
+<td>MUSICBRAINZ_ALBUMSTATUS</td>
+<td>MusicBrainz/Album Status</td>
+<td>TXXX:MusicBrainz Album Status</td>
+<td>----:com.apple.iTunes:MusicBrainz Album Status</td>
+<td>MUSICBRAINZ_ALBUMSTATUS</td>
+</tr>
+<tr>
+<td>MusicBrainz: Album Type</td>
+<td>MUSICBRAINZ_ALBUMTYPE</td>
+<td>MusicBrainz/Album Type</td>
+<td>TXXX:MusicBrainz Album Type</td>
+<td>----:com.apple.iTunes:MusicBrainz Album Type</td>
+<td>MUSICBRAINZ_ALBUMTYPE</td>
+</tr>
+<tr>
+<td>MusicBrainz: Artist ID</td>
+<td>MUSICBRAINZ_ARTISTID</td>
+<td>MusicBrainz/Artist Id</td>
+<td>TXXX:MusicBrainz Artist Id</td>
+<td>----:com.apple.iTunes:MusicBrainz Artist Id</td>
+<td>MUSICBRAINZ_ARTISTID</td>
+</tr>
+<tr>
+<td>MusicBrainz: Disc ID</td>
+<td>MUSICBRAINZ_DISCID</td>
+<td>MusicBrainz/Disc Id</td>
+<td>TXXX:MusicBrainz Disc Id</td>
+<td>----:com.apple.iTunes:MusicBrainz Disc Id</td>
+<td>MUSICBRAINZ_DISCID</td>
+</tr>
+<tr>
+<td>MusicBrainz: Original Album ID</td>
+<td>MUSICBRAINZ_ORIGINALALBUMID</td>
+<td>MusicBrainz/Original Album Id</td>
+<td>TXXX:MusicBrainz Original Album Id</td>
+<td>----:com.apple.iTunes:MusicBrainz Original Album Id</td>
+<td>MUSICBRAINZ_ORIGINALALBUMID</td>
+</tr>
+<tr>
+<td>MusicBrainz: Original Artist ID</td>
+<td>MUSICBRAINZ_ORIGINALARTISTID</td>
+<td>MusicBrainz/Original Artist Id</td>
+<td>TXXX:MusicBrainz Original Artist Id</td>
+<td>----:com.apple.iTunes:MusicBrainz Original Artist Id</td>
+<td>MUSICBRAINZ_ORIGINALARTISTID</td>
+</tr>
+<tr>
+<td>MusicBrainz: Release Group ID</td>
+<td>MUSICBRAINZ_RELEASEGROUPID</td>
+<td>MusicBrainz/Release Group Id</td>
+<td>TXXX:MusicBrainz Release Group Id</td>
+<td>----:com.apple.iTunes:MusicBrainz Release Group Id</td>
+<td>MUSICBRAINZ_RELEASEGROUPID</td>
+</tr>
+<tr>
+<td>MusicBrainz: Release Track ID</td>
+<td>MUSICBRAINZ_RELEASETRACKID</td>
+<td>MusicBrainz/Release Track Id</td>
+<td>TXXX:MusicBrainz Release Track Id</td>
+<td>----:com.apple.iTunes:MusicBrainz Release Track Id</td>
+<td>MUSICBRAINZ_RELEASETRACKID</td>
+</tr>
+<tr>
+<td>MusicBrainz: Track ID</td>
+<td>MUSICBRAINZ_TRACKID</td>
+<td>MusicBrainz/Track Id</td>
+<td>UFID:http://musicbrainz.org</td>
+<td>----:com.apple.iTunes:MusicBrainz Track Id</td>
+<td>MUSICBRAINZ_TRACKID</td>
+</tr>
+<tr>
+<td>MusicBrainz: TRM ID</td>
+<td>MUSICBRAINZ_TRMID</td>
+<td>MusicBrainz/TRM Id</td>
+<td>TXXX:MusicBrainz TRM Id</td>
+<td>----:com.apple.iTunes:MusicBrainz TRM Id</td>
+<td>MUSICBRAINZ_TRMID</td>
+</tr>
+<tr>
+<td>MusicBrainz: Work ID</td>
+<td>MUSICBRAINZ_WORKID</td>
+<td>MusicBrainz/Work Id</td>
+<td>TXXX:MusicBrainz Work Id</td>
+<td>----:com.apple.iTunes:MusicBrainz Work Id</td>
+<td>MUSICBRAINZ_WORKID</td>
+</tr>
+<tr>
+<td>Musician Credits</td>
+<td>N/A</td>
+<td>N/A</td>
+<td>TMCL</td>
+<td>N/A</td>
+<td>N/A</td>
+</tr>
+<tr>
+<td>MusicIP: Fingerprint</td>
+<td>N/A</td>
+<td>N/A</td>
+<td>TXXX:MusicMagic Fingerprint</td>
+<td>----:com.apple.iTunes:fingerprint</td>
+<td>N/A</td>
+</tr>
+<tr>
+<td>MusicIP: PUID</td>
+<td>MUSICIP_PUID</td>
+<td>MusicIP/PUID</td>
+<td>TXXX:MusicIP PUID</td>
+<td>----:com.apple.iTunes:MusicIP PUID</td>
+<td>N/A</td>
+</tr>
+<tr>
+<td>Narrator</td>
+<td>Narrator, NARRATOR</td>
+<td>NARRATOR</td>
+<td>TXXX:NARRATOR</td>
+<td>&copy;nrt</td>
+<td>NARRATOR</td>
+</tr>
+<tr>
+<td>Net Radio Owner</td>
+<td>NETRADIOOWNER</td>
+<td>WM/RadioStationOwner</td>
+<td>TRSO</td>
+<td>N/A</td>
+<td>NETRADIOOWNER</td>
+</tr>
+<tr>
+<td>Net Radio Station</td>
+<td>NETRADIOSTATION</td>
+<td>WM/RadioStationName</td>
+<td>TRSN</td>
+<td>N/A</td>
+<td>NETRADIOSTATION</td>
+</tr>
+<tr>
+<td>Original Album</td>
+<td>Original Album, ORIGINAL ALBUM, ORIGINALALBUM</td>
+<td>WM/OriginalAlbumTitle</td>
+<td>TOAL</td>
+<td>N/A</td>
+<td>ORIGINALALBUM</td>
+</tr>
+<tr>
+<td>Original Artist</td>
+<td>Original Artist, ORIGINAL ARTIST, ORIGINALARTIST</td>
+<td>WM/OriginalArtist</td>
+<td>TOPE</td>
+<td>&copy;ope</td>
+<td>ORIGINALARTIST</td>
+</tr>
+<tr>
+<td>Original File Name</td>
+<td>Original Filename, ORIGINALFILENAME</td>
+<td>WM/OriginalFilename</td>
+<td>TOFN</td>
+<td>N/A</td>
+<td>ORIGINALFILENAME</td>
+</tr>
+<tr>
+<td>Original Lyricist</td>
+<td>Original Lyricist, ORIGINALLYRICIST</td>
+<td>WM/OriginalLyricist</td>
+<td>TOLY</td>
+<td>N/A</td>
+<td>ORIGINALLYRICIST</td>
+</tr>
+<tr>
+<td>Original Release Date</td>
+<td>Original Date, ORIGINALDATE</td>
+<td>WM/OriginalReleaseDate</td>
+<td>TDOR</td>
+<td>----:com.apple.iTunes:originaldate</td>
+<td>ORIGINALDATE</td>
+</tr>
+<tr>
+<td>Original Release Year</td>
+<td>Original Year, ORIGINALYEAR</td>
+<td>WM/OriginalReleaseYear</td>
+<td>N/A</td>
+<td>N/A</td>
+<td>ORIGINALYEAR</td>
+</tr>
+<tr>
+<td>Performer</td>
+<td>Performer, PERFORMER</td>
+<td>WM/Performer</td>
+<td>TMCL:instrument</td>
+<td>perf</td>
+<td>PERFORMER</td>
+</tr>
+<tr>
+<td>Podcast</td>
+<td>Podcast, PODCAST</td>
+<td>PODCAST</td>
+<td>PCST</td>
+<td>pcst</td>
+<td>PODCAST</td>
+</tr>
+<tr>
+<td>Podcast Category</td>
+<td>Podcast Category, PODCASTCATEGORY</td>
+<td>PODCASTCATEGORY</td>
+<td>TCAT</td>
+<td>catg</td>
+<td>PODCASTCATEGORY</td>
+</tr>
+<tr>
+<td>Podcast Description</td>
+<td>Podcast Description, PODCASTDESCRIPTION</td>
+<td>PODCASTDESCRIPTION</td>
+<td>TDES</td>
+<td>ldes</td>
+<td>PODCASTDESCRIPTION</td>
+</tr>
+<tr>
+<td>Podcast ID</td>
+<td>Podcast Id, PODCASTID</td>
+<td>PODCASTID</td>
+<td>TGID</td>
+<td>egid</td>
+<td>PODCASTID</td>
+</tr>
+<tr>
+<td>Podcast Keywords</td>
+<td>Podcast Keywords, PODCASTKEYWORDS</td>
+<td>PODCASTKEYWORDS</td>
+<td>TKWD</td>
+<td>keyw</td>
+<td>PODCASTKEYWORDS</td>
+</tr>
+<tr>
+<td>Podcast URL</td>
+<td>Podcast URL, PODCASTURL</td>
+<td>PODCASTURL</td>
+<td>WFED</td>
+<td>purl</td>
+<td>PODCASTURL</td>
+</tr>
+<tr>
+<td>Producer</td>
+<td>Producer, PRODUCER</td>
+<td>WM/Producer</td>
+<td>TIPL:producer</td>
+<td>----:com.apple.iTunes:PRODUCER, &copy;prd</td>
+<td>PRODUCER</td>
+</tr>
+<tr>
+<td>Publisher</td>
+<td>Publisher, PUBLISHER</td>
+<td>WM/Publisher</td>
+<td>TPUB</td>
+<td>&copy;pub</td>
+<td>PUBLISHER</td>
+</tr>
+<tr>
+<td>Rating</td>
+<td>Rating, RATING</td>
+<td>WM/SharedUserRating</td>
+<td>POPM</td>
+<td>rate</td>
+<td>RATING</td>
+</tr>
+<tr>
+<td>Record Label</td>
+<td>Label, LABEL</td>
+<td>LABEL</td>
+<td>TXXX:LABEL</td>
+<td>----:com.apple.iTunes:LABEL, &copy;lab</td>
+<td>LABEL</td>
+</tr>
+<tr>
+<td>Release Country</td>
+<td>Release Country, RELEASECOUNTRY</td>
+<td>RELEASECOUNTRY</td>
+<td>TXXX:RELEASECOUNTRY</td>
+<td>N/A</td>
+<td>RELEASECOUNTRY</td>
+</tr>
+<tr>
+<td>Release Status</td>
+<td>Release Status, RELEASESTATUS</td>
+<td>RELEASESTATUS</td>
+<td>TXXX:RELEASESTATUS</td>
+<td>N/A</td>
+<td>RELEASESTATUS</td>
+</tr>
+<tr>
+<td>Release Type</td>
+<td>Release Type, RELEASETYPE</td>
+<td>RELEASETYPE</td>
+<td>TXXX:RELEASETYPE</td>
+<td>N/A</td>
+<td>RELEASETYPE</td>
+</tr>
+<tr>
+<td>Remixed By</td>
+<td>MixArtist, MIXARTIST</td>
+<td>WM/ModifiedBy</td>
+<td>TPE4</td>
+<td>----:com.apple.iTunes:REMIXER</td>
+<td>REMIXER</td>
+</tr>
+<tr>
+<td>Replay Gain: Album Gain</td>
+<td>REPLAYGAIN_ALBUM_GAIN</td>
+<td>REPLAYGAIN_ALBUM_GAIN</td>
+<td>TXXX:REPLAYGAIN_ALBUM_GAIN</td>
+<td>----:com.apple.iTunes:REPLAYGAIN_ALBUM_GAIN</td>
+<td>REPLAYGAIN_ALBUM_GAIN</td>
+</tr>
+<tr>
+<td>Replay Gain: Album Peak</td>
+<td>REPLAYGAIN_ALBUM_PEAK</td>
+<td>REPLAYGAIN_ALBUM_PEAK</td>
+<td>TXXX:REPLAYGAIN_ALBUM_PEAK</td>
+<td>----:com.apple.iTunes:REPLAYGAIN_ALBUM_PEAK</td>
+<td>REPLAYGAIN_ALBUM_PEAK</td>
+</tr>
+<tr>
+<td>Replay Gain: Album Range</td>
+<td>REPLAYGAIN_ALBUM_RANGE</td>
+<td>REPLAYGAIN_ALBUM_RANGE</td>
+<td>TXXX:REPLAYGAIN_ALBUM_RANGE</td>
+<td>----:com.apple.iTunes:REPLAYGAIN_ALBUM_RANGE</td>
+<td>REPLAYGAIN_ALBUM_RANGE</td>
+</tr>
+<tr>
+<td>Replay Gain: Reference Loudness</td>
+<td>REPLAYGAIN_REFERENCE_LOUDNESS</td>
+<td>REPLAYGAIN_REFERENCE_LOUDNESS</td>
+<td>TXXX:REPLAYGAIN_REFERENCE_LOUDNESS</td>
+<td>----:com.apple.iTunes:REPLAYGAIN_REFERENCE_LOUDNESS</td>
+<td>REPLAYGAIN_REFERENCE_LOUDNESS</td>
+</tr>
+<tr>
+<td>Replay Gain: Track Gain</td>
+<td>REPLAYGAIN_TRACK_GAIN</td>
+<td>REPLAYGAIN_TRACK_GAIN</td>
+<td>TXXX:REPLAYGAIN_TRACK_GAIN</td>
+<td>----:com.apple.iTunes:REPLAYGAIN_TRACK_GAIN</td>
+<td>REPLAYGAIN_TRACK_GAIN</td>
+</tr>
+<tr>
+<td>Replay Gain: Track Peak</td>
+<td>REPLAYGAIN_TRACK_PEAK</td>
+<td>REPLAYGAIN_TRACK_PEAK</td>
+<td>TXXX:REPLAYGAIN_TRACK_PEAK</td>
+<td>----:com.apple.iTunes:REPLAYGAIN_TRACK_PEAK</td>
+<td>REPLAYGAIN_TRACK_PEAK</td>
+</tr>
+<tr>
+<td>Replay Gain: Track Range</td>
+<td>REPLAYGAIN_TRACK_RANGE</td>
+<td>REPLAYGAIN_TRACK_RANGE</td>
+<td>TXXX:REPLAYGAIN_TRACK_RANGE</td>
+<td>----:com.apple.iTunes:REPLAYGAIN_TRACK_RANGE</td>
+<td>REPLAYGAIN_TRACK_RANGE</td>
+</tr>
+<tr>
+<td>Script</td>
+<td>Script, SCRIPT</td>
+<td>WM/Script</td>
+<td>TXXX:SCRIPT</td>
+<td>----:com.apple.iTunes:SCRIPT</td>
+<td>SCRIPT</td>
+</tr>
+<tr>
+<td>Show Movement</td>
+<td>Show Movement, SHOWMOVEMENT</td>
+<td>SHOWMOVEMENT</td>
+<td>TXXX:SHOWMOVEMENT</td>
+<td>shwm</td>
+<td>SHOWMOVEMENT</td>
+</tr>
+<tr>
+<td>Show Name</td>
+<td>Show Name, SHOWNAME</td>
+<td>SHOWNAME</td>
+<td>TXXX:SHOWNAME</td>
+<td>tvsh</td>
+<td>SHOWNAME</td>
+</tr>
+<tr>
+<td>Show Name Sort Order</td>
+<td>Show Name Sort, SHOWNAMESORT</td>
+<td>SHOWNAMESORT</td>
+<td>TXXX:SHOWNAMESORT</td>
+<td>sosn</td>
+<td>SHOWNAMESORT</td>
+</tr>
+<tr>
+<td>Subtitle</td>
+<td>Subtitle, SUBTITLE</td>
+<td>WM/SubTitle</td>
+<td>TIT3</td>
+<td>----:com.apple.iTunes:SUBTITLE</td>
+<td>SUBTITLE</td>
+</tr>
+<tr>
+<td>Track Number</td>
+<td>Track, TRACK</td>
+<td>WM/TrackNumber</td>
+<td>TRCK</td>
+<td>trkn</td>
+<td>TRACKNUMBER, TRACKNUM</td>
+</tr>
+<tr>
+<td>Track Title</td>
+<td>Title, TITLE</td>
+<td>Title</td>
+<td>TIT2</td>
+<td>&copy;nam</td>
+<td>TITLE</td>
+</tr>
+<tr>
+<td>Track Title Sort Order</td>
+<td>Title Sort, TITLESORT</td>
+<td>WM/TitleSortOrder</td>
+<td>TSOT</td>
+<td>sonm</td>
+<td>TITLESORT</td>
+</tr>
+<tr>
+<td>Track Total</td>
+<td>Track, TRACK</td>
+<td>WM/TrackNumber</td>
+<td>TRCK</td>
+<td>trkn</td>
+<td>TRACKTOTAL, TOTALTRACKS</td>
+</tr>
+<tr>
+<td>Website</td>
+<td>Weblink, WEBLINK, WEBSITE</td>
+<td>N/A</td>
+<td>N/A</td>
+<td>N/A</td>
+<td>WEBSITE</td>
+</tr>
+<tr>
+<td>Work Title</td>
+<td>Work, WORK</td>
+<td>WM/Work</td>
+<td>TXXX:WORK</td>
+<td>&copy;wrk</td>
+<td>WORK</td>
+</tr>
+<tr>
+<td>Writer</td>
+<td>Writer, WRITER</td>
+<td>N/A</td>
+<td>TXXX:Writer</td>
+<td>N/A</td>
+<td>WRITER</td>
+</tr>
+<tr>
+<td>WWW</td>
+<td>WWW</td>
+<td>N/A</td>
+<td>WXXX</td>
+<td>N/A</td>
+<td>WWW</td>
+</tr>
+<tr>
+<td>WWW: Artist</td>
+<td>Artist URL, ARTISTURL, WWWARTIST</td>
+<td>WM/AuthorURL</td>
+<td>WOAR</td>
+<td>&copy;prl</td>
+<td>WWWARTIST</td>
+</tr>
+<tr>
+<td>WWW: Audio File</td>
+<td>File URL, FILEURL, WWWAUDIOFILE</td>
+<td>WM/AudioFileURL</td>
+<td>WOAF</td>
+<td>N/A</td>
+<td>WWWAUDIOFILE</td>
+</tr>
+<tr>
+<td>WWW: Audio Source</td>
+<td>Source URL, SOURCEURL, WWWAUDIOSOURCE</td>
+<td>WM/AudioSourceURL</td>
+<td>WOAS</td>
+<td>N/A</td>
+<td>WWWAUDIOSOURCE</td>
+</tr>
+<tr>
+<td>WWW: Commercial Info</td>
+<td>Commercial Info URL, COMMERCIALINFOURL, WWWCOMMERCIALINFO</td>
+<td>WM/PromotionURL</td>
+<td>WCOM</td>
+<td>N/A</td>
+<td>WWWCOMMERCIALINFO</td>
+</tr>
+<tr>
+<td>WWW: Copyright</td>
+<td>Copyright URL, COPYRIGHTURL, WWWCOPYRIGHT</td>
+<td>CopyrightURL</td>
+<td>WCOP</td>
+<td>N/A</td>
+<td>WWWCOPYRIGHT</td>
+</tr>
+<tr>
+<td>WWW: Payment</td>
+<td>Buy URL, BUYURL, WWWPAYMENT</td>
+<td>N/A</td>
+<td>WPAY</td>
+<td>N/A</td>
+<td>WWWPAYMENT</td>
+</tr>
+<tr>
+<td>WWW: Publisher</td>
+<td>Publisher URL, PUBLISHERURL, WWWPUBLISHER</td>
+<td>N/A</td>
+<td>WPUB</td>
+<td>N/A</td>
+<td>WWWPUBLISHER</td>
+</tr>
+<tr>
+<td>WWW: Radio Page</td>
+<td>Radio URL, RADIOURL, WWWRADIOPAGE</td>
+<td>N/A</td>
+<td>WORS</td>
+<td>N/A</td>
+<td>WWWRADIOPAGE</td>
+</tr>
+<tr>
+<td>Year</td>
+<td>Year, YEAR</td>
+<td>WM/Year</td>
+<td>TDRC</td>
+<td>&copy;day</td>
+<td>DATE, YEAR</td>
+</tr>
+</tbody>
+</table>
+</body>
+</html>
