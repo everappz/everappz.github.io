@@ -44,41 +44,32 @@ Each product offers powerful features and seamless integration with iOS and macO
 
 <div class="hx:w-full">
 
-{{< cards cols="8">}}
+{{< cards cols="2">}}
 
   {{< card 
-    link="/products/evervideo"
-    image="./app_icons/Evervideo_Icon-App-1024x1024.png"   
+    link="/products/evervideo" 
     title="Evervideo" 
-    method="Crop"
-    options="1024x1024"
+    tag="New"
     subtitle="HD Video Player & Media Library Organizer" 
   >}}
 
   {{< card 
     link="/products/evermusic"
-    image="./app_icons/Evermusic_Icon-App-1024x1024.png"  
     title="Evermusic" 
-    method="Crop"
-    options="1024x1024"
-    subtitle="Cloud music player with offline mode, audio equalizer, crossfade, gapless playback, playlists, music library, file manager." 
+    tag="11 Million Downloads Worldwide"
+    subtitle="Cloud Streamer & Offline Music Player" 
   >}}
 
   {{< card 
     link="/products/flacbox"
-    image="./app_icons/Flacbox_Icon-App-1024x1024.png"   
     title="Flacbox" 
-    method="Crop"
-    options="1024x1024"
+    tag="1 Million Downloads Worldwide"
     subtitle="Hi-Res Audio Player & Playlists Manager" 
   >}}
 
   {{< card 
     link="/products/evertag"
-    image="./app_icons/Evertag_Icon-App-1024x1024.png"  
     title="Evertag" 
-    method="Crop"
-    options="1024x1024"
     subtitle="Music Metadata Editor & Album Art Organizer" 
   >}}
 
