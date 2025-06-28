@@ -152,10 +152,15 @@ tags: [
 
 {{< hextra/hero-container
   image="/gif/juicy-rocket.gif"
-  imageWidth="200"
+  imageWidth="160"
 >}}
 
+
+
+
 <div class="hx:flex hx:flex-col hx:items-center hx:justify-center hx:sm:block">
+
+<div class="hx:mt-12"></div>
 
 {{< hextra/hero-badge >}}
   <div class="hx:w-2 hx:h-2 hx:rounded-full hx:bg-primary-400"></div>
@@ -169,26 +174,46 @@ tags: [
 {{< /hextra/hero-headline >}}
 </div>
 
-<div class="hx:mb-12">
+<div>
 {{< hextra/hero-subtitle >}}
 <strong>Discover our apps that boost productivity,&nbsp;<br class="hx:sm:block hx:hidden" />and make daily tasks easier and more enjoyable.</strong>
 {{< /hextra/hero-subtitle >}}
 </div>
 
-<div class="hx:mb-6">
-{{< hextra/hero-paragraph >}}
-<strong>• Built for You. Improved by You.</strong><br>
-We read all reviews and use your feedback to improve every update.<br><br>
-<strong>• Performance Meets Purpose.</strong><br>
-No bloat. Just clean, stable apps with features that matter.<br><br>
-<strong>• Privacy. Accessibility. Simplicity.</strong><br>
-Easy to use, fully accessible, and built with your privacy in mind.<br>
-{{< /hextra/hero-paragraph >}}
-</div>
-
 </div>
 
 {{< /hextra/hero-container >}}
+
+<div class="hx:mt-6"></div>
+
+<div class="hx:w-full">
+
+{{< hextra/feature-grid >}}
+
+  {{< hextra/feature-card
+    title="Built for You. Improved by You."
+    subtitle=`We read all reviews and use your feedback to improve every update.`
+    icon="code"
+    style="background: radial-gradient(circle at 50% 80%, rgba(99,102,241,0.15), transparent);"
+  >}}
+
+  {{< hextra/feature-card
+    title="Performance Meets Purpose."
+    subtitle=`No bloat. Just clean, stable apps with features that matter.`
+    icon="presentation-chart-line"
+    style="background: radial-gradient(circle at 50% 80%, rgba(236,72,153,0.15), transparent);"
+  >}}
+
+  {{< hextra/feature-card
+    title="Privacy. Accessibility. Simplicity."
+    subtitle=`Easy to use, fully accessible, and built with your privacy in mind.`
+    icon="shield-check"
+    style="background: radial-gradient(circle at 50% 80%, rgba(16,185,129,0.15), transparent);"
+  >}}
+
+{{< /hextra/feature-grid >}}
+
+</div>
 
 <div class="hx:mt-6"></div>
 
