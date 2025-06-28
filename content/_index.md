@@ -25,27 +25,30 @@ tags: [
 {{< rawhtml >}}
 
 <style>
-html, body {
-  margin: 0;
-  padding: 0;
-  background: black;
-  height: 100%;
-  overflow-x: hidden;
-}
+  html, body {
+    margin: 0;
+    padding: 0;
+    height: 100%;
+    overflow-x: hidden;
+  }
 
-body {
-  position: relative;
-  z-index: 0;
-}
-#stars {
-  position: fixed;
-  top: 0;
-  left: 0;
-  width: 100%;
-  height: 100%;
-  z-index: -1;
-  pointer-events: none;
-}
+  html.dark body {
+    background: black;
+  }
+
+  html:not(.dark) body {
+    background: white;
+  }
+
+  #stars {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    z-index: -1;
+    pointer-events: none;
+  }
 </style>
 
 <canvas id="stars"></canvas>
@@ -63,12 +66,19 @@ body {
     x: Math.random() * w,
     y: Math.random() * h,
     radius: Math.random() * 1.5,
-    velocity: Math.random() * 0.5 + 0.2
+    // velocity: Math.random() * 0.5 + 0.2
+    velocity: Math.random() * 0.2 + 0.05
   }));
+
+  function getStarColor() {
+    return document.documentElement.classList.contains("dark")
+      ? "rgba(255,255,255,0.4)"  // white-ish in dark
+      : "rgba(0,0,0,0.2)";       // faint black in light
+  }
 
   function animate() {
     ctx.clearRect(0, 0, w, h);
-    ctx.fillStyle = "white";
+    ctx.fillStyle = getStarColor();
     for (const star of stars) {
       ctx.beginPath();
       ctx.arc(star.x, star.y, star.radius, 0, Math.PI * 2);
@@ -90,6 +100,17 @@ body {
     h = window.innerHeight;
     canvas.width = w;
     canvas.height = h;
+  });
+
+  // Rerun animation when theme changes
+  const observer = new MutationObserver(() => {
+    // reset star color
+    animate();
+  });
+
+  observer.observe(document.documentElement, {
+    attributes: true,
+    attributeFilter: ["class"]
   });
 </script>
 
@@ -150,17 +171,17 @@ body {
 
 <div class="hx:mb-12">
 {{< hextra/hero-subtitle >}}
-<strong>Discover our apps that boost productivity, enhance your music experience, and make daily tasks easier and more enjoyable.</strong>
+<strong>Discover our apps that boost productivity,&nbsp;<br class="hx:sm:block hx:hidden" />and make daily tasks easier and more enjoyable.</strong>
 {{< /hextra/hero-subtitle >}}
 </div>
 
 <div class="hx:mb-6">
 {{< hextra/hero-paragraph >}}
-<strong>• Built for You, Improved by You</strong><br>
-We read every review and email. Real feedback shapes every update to make our apps faster and smarter.<br><br>
-<strong>• Performance Meets Purpose</strong><br>
+<strong>• Built for You. Improved by You.</strong><br>
+We read all reviews and use your feedback to improve every update.<br><br>
+<strong>• Performance Meets Purpose.</strong><br>
 No bloat. Just clean, stable apps with features that matter.<br><br>
-<strong>• Privacy, Accessibility, Simplicity</strong><br>
+<strong>• Privacy. Accessibility. Simplicity.</strong><br>
 Easy to use, fully accessible, and built with your privacy in mind.<br>
 {{< /hextra/hero-paragraph >}}
 </div>
