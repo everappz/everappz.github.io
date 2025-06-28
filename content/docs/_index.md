@@ -4,6 +4,11 @@ draft: false
 title: 'Documentation'
 ---
 
+{{< figure
+  src="/images/juicy-animated/juicy-girl-and-boy-searching-for-the-right-files.gif"
+  width="600"
+>}}
+
 This section includes helpful documentation for all Everappz apps — including setup instructions, feature breakdowns, and advanced tips.
 
 If you're new or looking to learn more, our guides and FAQs are a great place to start.

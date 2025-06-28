@@ -2,9 +2,9 @@
 date: '2025-06-12T17:00:00+00:00'
 draft: false
 title: 'Products'
+# toc: false
 seo:
   title: 'Products | iOS & Mac Apps for Music and Video – Everappz'
-layout: hextra-home
 date: 2025-06-12
 description: "Explore Everappz apps for iPhone and Mac: play FLAC, DSD, APE, and ALAC, stream from cloud storage or NAS, download music and videos, edit tags, and customize playback with equalizer and playlist tools."
 keywords: [
@@ -22,23 +22,17 @@ tags: [
 ]
 ---
 
-<div class="hx:w-full hx:max-w-screen-lg hx:mx-auto hx:flex hx:flex-col hx:items-center hx:justify-center hx:text-center">
+{{< figure
+  src="/images/juicy-animated/juicy-website-designer-making-landing-page-at-laptop.gif"
+  width=550
+>}}
 
-<div class="hx:mt-6 hx:mb-6">
-{{< hextra/hero-headline >}}
- Products
-{{< /hextra/hero-headline >}}
-</div>
-
-<div class="hx:mb-6">
+<div class="hx:mb-6 hx:text-center">
 {{< hextra/hero-paragraph >}}
 Discover the full range of Everappz applications designed to enhance your music and media experience.  
 Each product offers powerful features and seamless integration with iOS and macOS.  
 {{< /hextra/hero-paragraph >}}
 </div>
-
-</div>
-
 
 <div class="hx:mt-6"></div>
 
@@ -78,11 +72,8 @@ Each product offers powerful features and seamless integration with iOS and macO
 </div>
 
 
-<div class="hx:mt-6"></div>
+## App Store Reviews
 
-{{< hextra/section-headline >}}
-App Store Reviews
-{{< /hextra/section-headline >}}
 
 <div class="hx:mt-6"></div>
 

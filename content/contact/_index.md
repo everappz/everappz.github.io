@@ -4,6 +4,11 @@ draft: false
 title: 'Contact Us'
 ---
 
+{{< figure
+  src="/images/juicy-animated/juicy-man-delivers-a-parcel-on-a-scooter.gif"
+  width=600
+>}}
+
 Don’t hesitate to reach out with any questions.
 
 You can contact us by sending a letter to:  

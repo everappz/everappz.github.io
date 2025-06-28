@@ -117,8 +117,6 @@ tags: [
 {{< /rawhtml >}}
 
 
-
-
 <!-- {{< rawhtml >}}
 
 <style>
@@ -134,7 +132,7 @@ tags: [
     left: 0;
     width: 100%;
     height: 100%;
-    background-image: url('/gif/urban-line-stars-line.gif');
+    background-image: url('/images/juicy-animated/urban-line-stars-line.gif');
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center center;
@@ -151,14 +149,12 @@ tags: [
 {{< force-dark >}}
 
 {{< hextra/hero-container
-  image="/gif/juicy-rocket.gif"
+  image="/images/juicy-animated/juicy-rocket.gif"
   imageWidth="160"
 >}}
 
 
-
-
-<div class="hx:flex hx:flex-col hx:items-center hx:justify-center hx:sm:block">
+<div class="hx:flex hx:flex-col hx:items-center hx:justify-center hx:text-center hx:sm:block">
 
 <div class="hx:mt-12"></div>
 

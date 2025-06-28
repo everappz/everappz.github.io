@@ -4,6 +4,12 @@ draft: false
 title: 'About'
 ---
 
+{{< figure
+  src="/images/juicy-animated/juicy-girl-and-guy-preparing-start-up-rocket-to-launch-with-ideas.gif"
+  width=400
+>}}
+
+
 ## Who We Are
 
 We’re a small, passionate team of two people based in Spain, dedicated to building useful, fast, and user-friendly mobile and desktop applications.

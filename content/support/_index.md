@@ -4,6 +4,11 @@ draft: false
 title: 'Support'
 ---
 
+{{< figure
+  src="/images/juicy-animated/juicy-girl-is-working-on-laptop-at-a-remote-job.gif"
+  width=550
+>}}
+
 ## Need Help? We're Here for You
 
 If you have any questions or need assistance, feel free to reach out — we’re always happy to help.
