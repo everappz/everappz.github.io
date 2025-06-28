@@ -72,7 +72,7 @@ tags: [
 
   function getStarColor() {
     return document.documentElement.classList.contains("dark")
-      ? "rgba(255,255,255,0.4)"  // white-ish in dark
+      ? "rgba(255,255,255,0.3)"  // white-ish in dark
       : "rgba(0,0,0,0.2)";       // faint black in light
   }
 
