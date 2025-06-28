@@ -50,27 +50,27 @@ Each product offers powerful features and seamless integration with iOS and macO
     link="/products/evervideo" 
     title="Evervideo" 
     tag="New"
-    subtitle="HD Video Player & Media Library Organizer" 
+    subtitle="Play 360° videos, watch with subtitles, use a video equalizer, organize your media with playlists, download videos for offline use, and stream from iCloud." 
   >}}
 
   {{< card 
     link="/products/evermusic"
     title="Evermusic" 
     tag="11 Million Downloads Worldwide"
-    subtitle="Cloud Streamer & Offline Music Player" 
+    subtitle="Cloud music player with offline mode, audio equalizer, crossfade, gapless playback, playlists, music library, file manager." 
   >}}
 
   {{< card 
     link="/products/flacbox"
     title="Flacbox" 
     tag="1 Million Downloads Worldwide"
-    subtitle="Hi-Res Audio Player & Playlists Manager" 
+    subtitle="Hi-Res audio player for iPhone and Mac. Listen to your music in lossless audio formats: flac, alac, ape, wv, dsd and more. Enable advanced audio output settings.​" 
   >}}
 
   {{< card 
     link="/products/evertag"
     title="Evertag" 
-    subtitle="Music Metadata Editor & Album Art Organizer" 
+    subtitle="Music tags editor with automatic correction and batch mode. Find missing metadata, edit album covers. Edit ID3 / FLAC/ APE. More than 120 tags supported." 
   >}}
 
 {{< /cards >}}
