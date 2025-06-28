@@ -35,7 +35,7 @@ Our iOS and macOS apps have been downloaded over **14 million times**, with thou
 
 We’re here to keep building better software — one thoughtful update at a time.
 
-## Support
+## Contact Us
 
 Thanks for using our apps and supporting independent development. If you ever have ideas or questions, don’t hesitate to [contact us](/contact).
 
