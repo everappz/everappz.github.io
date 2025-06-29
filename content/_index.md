@@ -20,6 +20,7 @@ tags: [
   "media library organizer", "equalizer", "file manager", "NAS streaming", 
   "Chromecast", "AirPlay", "CarPlay", "playlist creation"
 ]
+headless: false
 ---
 
 {{< rawhtml >}}
@@ -148,11 +149,69 @@ tags: [
 <!-- force dark theme for this page -->
 {{< force-dark >}}
 
+{{< rawhtml >}}
+
+<style>
+  .rocket-anim {
+    cursor: pointer;
+    transition: transform 0.6s ease-in;
+    will-change: transform;
+  }
+
+  .rocket-launch {
+    transform: translateY(-150vh) scale(1.2) rotate(-10deg);
+    transition: transform 0.6s cubic-bezier(0.55, 0, 0.8, 0.2);
+  }
+
+  .rocket-return {
+    animation: rocket-return 1.2s ease-out forwards;
+  }
+
+  @keyframes rocket-return {
+    0% {
+      transform: translateY(150vh) scale(0.9) rotate(15deg);
+      opacity: 0;
+    }
+    30% {
+      opacity: 0.5;
+    }
+    100% {
+      transform: translateY(0) scale(1) rotate(0deg);
+      opacity: 1;
+    }
+  }
+</style>
+
+<script>
+  document.addEventListener('DOMContentLoaded', () => {
+    const rocket = document.querySelector('img[src*="juicy-rocket.gif"]');
+    if (!rocket) return;
+
+    rocket.style.cursor = 'pointer';
+
+    rocket.addEventListener('click', () => {
+      rocket.classList.add('rocket-launch');
+
+      setTimeout(() => {
+        rocket.classList.remove('rocket-launch');
+        rocket.classList.add('rocket-return');
+      }, 700);
+
+      rocket.addEventListener('animationend', () => {
+        rocket.classList.remove('rocket-return');
+      }, { once: true });
+    });
+  });
+</script>
+
+{{< /rawhtml >}}
+
+<div class="rocket-anim hx:w-full">
+
 {{< hextra/hero-container
   image="/images/juicy-animated/juicy-rocket.gif"
   imageWidth="160"
 >}}
-
 
 <div class="hx:flex hx:flex-col hx:items-center hx:justify-center hx:text-center hx:sm:block">
 
@@ -179,6 +238,8 @@ tags: [
 </div>
 
 {{< /hextra/hero-container >}}
+
+</div>
 
 <div class="hx:mt-6"></div>
 
