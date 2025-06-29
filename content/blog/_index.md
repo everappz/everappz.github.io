@@ -7,7 +7,4 @@ cascade:
   type: blog
 ---
 
-{{< figure
-  src="/images/juicy-animated/juicy-girl-working-at-home.gif"
-  width="500"
->}}
+{{< lottie src="/images/juicy-json/juicy-girl-working-at-home.json" width="80%" >}}

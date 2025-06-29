@@ -4,10 +4,7 @@ draft: false
 title: 'Support'
 ---
 
-{{< figure
-  src="/images/juicy-animated/juicy-girl-is-working-on-laptop-at-a-remote-job.gif"
-  width=550
->}}
+{{< lottie src="/images/juicy-json/juicy-girl-is-working-on-laptop-at-a-remote-job.json" width="80%" >}}
 
 ## Need Help? We're Here for You
 

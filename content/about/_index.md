@@ -4,11 +4,7 @@ draft: false
 title: 'About'
 ---
 
-{{< figure
-  src="/images/juicy-animated/juicy-girl-and-guy-preparing-start-up-rocket-to-launch-with-ideas.gif"
-  width=400
->}}
-
+{{< lottie src="/images/juicy-json/juicy-girl-and-guy-preparing-start-up-rocket-to-launch-with-ideas.json" width="60%" >}}
 
 ## Who We Are
 

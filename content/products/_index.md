@@ -22,10 +22,7 @@ tags: [
 ]
 ---
 
-{{< figure
-  src="/images/juicy-animated/juicy-website-designer-making-landing-page-at-laptop.gif"
-  width=550
->}}
+{{< lottie src="/images/juicy-json/juicy-website-designer-making-landing-page-at-laptop.json" width="80%" >}}
 
 <div class="hx:mb-6 hx:text-center">
 {{< hextra/hero-paragraph >}}

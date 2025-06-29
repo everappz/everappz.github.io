@@ -4,10 +4,7 @@ draft: false
 title: 'Contact Us'
 ---
 
-{{< figure
-  src="/images/juicy-animated/juicy-man-delivers-a-parcel-on-a-scooter.gif"
-  width=600
->}}
+{{< lottie src="/images/juicy-json/juicy-man-delivers-a-parcel-on-a-scooter.json" width="90%" >}}
 
 Don’t hesitate to reach out with any questions.
 

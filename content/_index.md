@@ -117,35 +117,6 @@ headless: false
 
 {{< /rawhtml >}}
 
-
-<!-- {{< rawhtml >}}
-
-<style>
-  body {
-    background: black;
-    margin: 0;
-    padding: 0;
-  }
-
-  .star-background {
-    position: fixed;
-    top: 0;
-    left: 0;
-    width: 100%;
-    height: 100%;
-    background-image: url('/images/juicy-animated/urban-line-stars-line.gif');
-    background-size: cover;
-    background-repeat: no-repeat;
-    background-position: center center;
-    z-index: -1;
-    pointer-events: none; /* allows clicking/scrolling through */
-  }
-</style>
-
-<div class="star-background"></div>
-
-{{< /rawhtml >}} -->
-
 <!-- force dark theme for this page -->
 {{< force-dark >}}
 

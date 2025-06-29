@@ -6,10 +6,7 @@ cascade:
   type: docs
 ---
 
-{{< figure
-  src="/images/juicy-animated/juicy-stack-of-four-books.gif"
-  width="350"
->}}
+{{< lottie src="/images/juicy-json/juicy-stack-of-four-books.json" width="60%" >}}
 
 Here you can find all important documents and policies that govern the use of our products, services, and website. We are committed to transparency and compliance with data protection and consumer regulations.
 

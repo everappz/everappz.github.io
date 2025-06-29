@@ -1,0 +1,28 @@
+{{ $src := .Get "src" }}
+{{ $width := .Get "width" | default "100%" }}
+{{ $height := .Get "height" | default "auto" }}
+{{ $id := printf "lottie-%d" now.UnixNano }}
+
+<div id="{{ $id }}" style="width:{{ $width }};height:{{ $height }};margin:0 auto;"></div>
+
+<script>
+  if (!window._lottieScriptLoaded) {
+    const script = document.createElement("script");
+    script.src = "https://unpkg.com/lottie-web@5.12.0/build/player/lottie.min.js";
+    script.onload = () => window._lottieScriptLoaded = true;
+    document.head.appendChild(script);
+  }
+
+  const waitForLottie = setInterval(() => {
+    if (window.lottie) {
+      window.lottie.loadAnimation({
+        container: document.getElementById("{{ $id }}"),
+        renderer: "svg",
+        loop: true,
+        autoplay: true,
+        path: "{{ $src }}"
+      });
+      clearInterval(waitForLottie);
+    }
+  }, 100);
+</script>
