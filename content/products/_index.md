@@ -29,7 +29,7 @@ tags: [
 
 <div class="hx:mb-6 hx:text-center">
 {{< hextra/hero-paragraph >}}
-Discover the full range of Everappz applications designed to enhance your music and media experience.  
+Discover the full range of Everappz applications designed to enhance your media experience.  
 Each product offers powerful features and seamless integration with iOS and macOS.  
 {{< /hextra/hero-paragraph >}}
 </div>
