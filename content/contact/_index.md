@@ -9,13 +9,13 @@ title: 'Contact Us'
 Don’t hesitate to reach out with any questions.
 
 You can contact us by sending a letter to:  
-EVERAPPZ SL  
-AVDA COLOMA, NUM 4, PUERTA L9  
-03530, LA NUCÍA, ALICANTE, SPAIN
+**EVERAPPZ SL**  
+**AVDA COLOMA, NUM 4, PUERTA L9**  
+**03530, LA NUCÍA, ALICANTE, SPAIN**
 
 <br>
 
-Or by emailing us at: [support@everappz.com](mailto:support@everappz.com)  
+Or by emailing us at: **[support@everappz.com](mailto:support@everappz.com)**  
 By sending an email, you confirm that you have read and agree to our [Privacy Policy](../legal/privacy-policy).
 
 <br>
