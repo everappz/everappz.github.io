@@ -1,0 +1,82 @@
+{{ .Scratch.Set "pressItems" (slice
+  (dict "image" "/images/press-logo/apple_vis_logo_530x100.jpg" "url" "#")
+  (dict "image" "/images/press-logo/apps_and_applications_530x100.jpg" "url" "https://appsandapplications.com/evertag-app-makes-it-easy-to-organize-your-music/")
+  (dict "image" "/images/press-logo/beeboom_logo_530x100.jpg" "url" "https://beebom.com/iphone-music-player-apps/")
+  (dict "image" "/images/press-logo/geeksmodo_530x100.jpg" "url" "https://geeksmodo.com/how-to-download-free-music-on-iphone-and-ipod-touch/")
+  (dict "image" "/images/press-logo/logo_app_comrade_530x100.jpg" "url" "#")
+  (dict "image" "/images/press-logo/logo_appadvice_530x100.jpg" "url" "https://appadvice.com/appnn/2017/11/todays-apps-gone-free-evermusic-u4ea-photoscan-and-more")
+  (dict "image" "/images/press-logo/logo_apppicker_530x100.jpg" "url" "http://www.apppicker.com/reviews/19038/Evermusic-app-review-carry-your-music-with-you")
+  (dict "image" "/images/press-logo/logo_bgr_530x100.jpg" "url" "#")
+  (dict "image" "/images/press-logo/logo_brodude_530x100.jpg" "url" "#")
+  (dict "image" "/images/press-logo/logo_chip_logo_530x100.jpg" "url" "https://www.chip.de/downloads/Evermusic-Pro-iPhone-_-iPad-App_91614216.html")
+  (dict "image" "/images/press-logo/logo_imore_530x100.jpg" "url" "https://www.imore.com/best-eq-adjusting-apps-iphone-and-ipad")
+  (dict "image" "/images/press-logo/logo_iphones_ru_530x100.jpg" "url" "#")
+  (dict "image" "/images/press-logo/logo_lifehacker_530x100.jpg" "url" "https://lifehacker.ru/2014/11/05/kak-udobno-strimit-muzyku-iz-oblakov-s-pomoshhyu-evermusic/")
+  (dict "image" "/images/press-logo/logo_new_mobile_life_530x100.jpg" "url" "#")
+  (dict "image" "/images/press-logo/mac_and_i_logo_530x100.jpg" "url" "https://www.heise.de/mac-and-i/meldung/Mac-i-Heft-1-2020-jetzt-im-Handel-4653874.html")
+  (dict "image" "/images/press-logo/mashtips_logo_530x100.jpg" "url" "https://mashtips.com/ios-cloud-music-player-apps/")
+  (dict "image" "/images/press-logo/mic_com_logo_530x100.jpg" "url" "https://www.mic.com/articles/164602/the-best-music-apps-you-can-use-without-wi-fi-including-evermusic-spinrilla-and-spotify")
+  (dict "image" "/images/press-logo/tenoshare_530x100.jpg" "url" "https://www.tenorshare.com/transfer-music/best-free-music-download-sites-apps-for-iphone.html")
+) }}
+
+
+<div class="hx:rounded-full hx:border hx:border-gray-200 hx:dark:border-neutral-800" style="height: 30px; overflow: hidden;">
+  
+<div class="hx:relative hx:overflow-hidden hx:py-6">
+  <div class="press-carousel">
+    <div class="press-strip">
+      {{ $items := .Scratch.Get "pressItems" }}
+      {{ range seq 1 2 }} {{/* Repeat entire strip twice for infinite scroll illusion */}}
+        {{ range $items }}
+          <a href="{{ .url }}" target="_blank" rel="noopener noreferrer">
+            <img src="{{ .image }}" alt="Press Logo" loading="lazy" />
+          </a>
+        {{ end }}
+      {{ end }}
+    </div>
+  </div>
+</div>
+
+</div>
+
+<style>
+  .press-carousel {
+    position: relative;
+    width: 100%;
+    overflow: hidden;
+  }
+
+  .press-strip {
+    display: flex;
+    gap: 16px;
+    animation: scroll-strip 30s linear infinite;
+    width: max-content;
+  }
+
+  .press-strip a {
+    display: flex;
+    align-items: center;
+    flex-shrink: 0;
+  }
+
+  .press-strip img {
+    height: 30px;
+    width: auto;
+    object-fit: contain;
+    /* border-radius: 8px; */
+    transition: transform 0.3s ease;
+  }
+
+  .press-strip img:hover {
+    transform: scale(1.05);
+  }
+
+  @keyframes scroll-strip {
+    from {
+      transform: translateX(0%);
+    }
+    to {
+      transform: translateX(-50%);
+    }
+  }
+</style>
