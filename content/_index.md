@@ -349,7 +349,6 @@ By subscribing, you agree to our [Privacy Policy](/legal/privacy-policy) and acc
     hx:border hx:border-gray-200 hx:dark:border-neutral-800
     hx:hover:border-gray-300 hx:dark:hover:border-neutral-700
     hx:bg-transparent
-    hx:shadow-xs hx:hover:shadow-md
     hx:font-normal
     hx:text-gray-700 hx:dark:text-neutral-200
     hx:px-4 hx:py-3"
