@@ -14,7 +14,7 @@ tags: ["Evermusic", "offline playback", "cloud music", "MP3 player", "iPhone app
 <!-- <body class="hx:bg-transparent" style="background: radial-gradient(ellipse at 50% 80%, rgba(59,130,246,0.05), hsla(0,0%,100%,0));"> -->
 
 {{< hextra/hero-container
-  image="./heroimage/1.png"
+  image="./heroimage/hero_1200.png"
   imageWidth="600"
   imageCard="true"
 >}}

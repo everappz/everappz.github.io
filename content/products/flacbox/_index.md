@@ -9,13 +9,15 @@ date: 2024-01-05
 description: "Play & download FLAC, DSD, APE, ALAC files on your iPhone. Listen to your music directly from the cloud storage or computer with equalizer."
 keywords: ["FLAC player iPhone", "lossless music player", "hi-res audio player", "DSD player iOS", "ALAC player iPhone", "offline music player iOS", "cloud music player", "stream music from NAS", "play FLAC on iPhone", "iPhone music player with tags", "Mac music player", "download music iPhone", "audio equalizer iOS", "USB music player iPhone", "multi-cloud music player", "SMB WebDAV DLNA player", "iTunes File Sharing app", "AirPlay and Chromecast support"]
 tags: ["FLAC player", "Hi-Res audio", "offline playback", "cloud music", "DSD audio", "Mac apps", "iPhone apps", "USB audio iOS", "music file manager", "audio equalizer", "metadata editor", "MP3 player", "SMB player", "Chromecast music", "CarPlay music player", "multi-format support", "music streaming", "audio library manager"]
+aliases:
+  - /flacbox/
 ---
 
 <!-- force dark theme for this page -->
 {{< force-dark >}}
 
 {{< hextra/hero-container
-  image="./heroimage/2.png"
+  image="./heroimage/hero_1600.png"
   imageWidth="800"
   imageCard="true"
 >}}

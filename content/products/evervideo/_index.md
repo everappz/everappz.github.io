@@ -3,7 +3,7 @@ date: '2025-06-12T17:00:00+00:00'
 draft: false
 title: 'Evervideo'
 seo:
-  title: 'Evervideo | Video Player for iPhone and Mac'
+  title: 'Evervideo | HD Video Player for iPhone and Mac'
 layout: hextra-home
 date: 2024-01-05
 description: "Download the best free video player for your iPhone and Mac. Watch 360° videos, activate subtitles, adjust video equalizer, organize your videos with playlists, download for offline, and stream from iCloud."
@@ -18,7 +18,7 @@ aliases:
 {{< force-dark >}}
 
 {{< hextra/hero-container
-  image="./heroimage/1.png"
+  image="./heroimage/hero_1600.jpg"
   imageWidth="800"
   imageCard="true"
 >}}
