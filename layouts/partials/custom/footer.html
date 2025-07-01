@@ -1,0 +1,70 @@
+<script>
+  function initAnalytics() {
+    // Replace 'G-XXXXXXX' with your GA4 Measurement ID
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+    gtag('config', 'G-YQ0HZV1KF7');
+    
+    const ga = document.createElement('script');
+    ga.async = true;
+    ga.src = "https://www.googletagmanager.com/gtag/js?id=G-YQ0HZV1KF7";
+    document.head.appendChild(ga);
+  }
+
+  function acceptCookies() {
+    localStorage.setItem('cookie_consent', 'true');
+    initAnalytics();
+    document.getElementById('cookie-banner').style.display = 'none';
+  }
+
+  function denyCookies() {
+    localStorage.setItem('cookie_consent', 'false');
+    document.getElementById('cookie-banner').style.display = 'none';
+  }
+
+  window.onload = function () {
+    const consent = localStorage.getItem('cookie_consent');
+    // if (consent === 'true') {
+    //  initAnalytics();
+    //} else if (consent === null) {
+      document.getElementById('cookie-banner').style.display = 'block';
+    //}
+  }
+</script>
+
+
+<div id="cookie-banner" style="display:none; position:fixed; bottom:0; left:0; right:0; z-index:9999;"
+class="hx:bg-white hx:dark:bg-neutral-900 hx:py-4 hx:px-6 hx:border-t hx:border-gray-200 hx:dark:border-neutral-800">
+
+<div class="hx:flex hx:flex-col hx:items-center hx:md:flex-row hx:md:justify-between hx:gap-4">
+
+ <!-- Text and Learn More -->
+<div class="hx:text-center hx:lg:text-left">
+<p style="display:inline;" class="hx:text-base hx:font-medium hx:text-gray-700 hx:dark:text-gray-200 hx:mb-2 sm:hx:mb-0">We use cookies on our website to see how you interact with it. By accepting, you agree to our use of such cookies.</p>
+<a href="/cookie-policy/" class="hx:text-base hx:font-bold hx:text-gray-700 hx:dark:text-gray-200 hx:hover:underline">Learn More</a>
+</div>
+
+<!-- Buttons -->
+<div class="hx:flex hx:flex-col hx:items-center hx:w-full hx:lg:flex-row hx:lg:justify-end hx:lg:items-center hx:lg:w-auto hx:gap-2">
+    <button
+    type="button"
+    onclick="acceptCookies()"
+    class="hx:w-full hx:lg:w-auto not-prose hx:font-bold hx:cursor-pointer hx:px-6 hx:py-3 hx:rounded-full hx:text-center hx:text-white hx:inline-flex hx:items-center hx:justify-center hx:gap-2 hx:bg-primary-600 hover:hx:bg-primary-700 focus:hx:outline-none focus:hx:ring-4 focus:hx:ring-primary-300 dark:hx:bg-primary-600 dark:hover:hx:bg-primary-700 dark:focus:hx:ring-primary-800 hx:transition-all hx:ease-in hx:duration-200">
+    Accept
+    </button>
+
+    <button
+    type="button"
+    onclick="denyCookies()"
+    class="hx:w-full hx:lg:w-auto not-prose hx:font-bold hx:cursor-pointer hx:px-6 hx:py-3 hx:rounded-full hx:text-center hx:text-white hx:inline-flex hx:items-center hx:justify-center hx:gap-2 hx:bg-primary-600 hover:hx:bg-primary-700 focus:hx:outline-none focus:hx:ring-4 focus:hx:ring-primary-300 dark:hx:bg-primary-600 dark:hover:hx:bg-primary-700 dark:focus:hx:ring-primary-800 hx:transition-all hx:ease-in hx:duration-200">
+    Deny
+    </button>
+</div>
+
+</div>
+
+</div>
+
+
+
