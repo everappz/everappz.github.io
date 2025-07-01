@@ -184,9 +184,9 @@ headless: false
   imageWidth="160"
 >}}
 
-<div class="hx:flex hx:flex-col hx:items-center hx:justify-center hx:text-center hx:sm:block">
-
 <div class="hx:mt-12"></div>
+
+<div class="hx:flex hx:flex-col hx:items-center hx:justify-center hx:text-center hx:sm:block">
 
 {{< hextra/hero-badge >}}
   <div class="hx:w-2 hx:h-2 hx:rounded-full hx:bg-primary-400"></div>
@@ -320,15 +320,22 @@ Don't forget to follow us on social media for the latest news and updates about 
 By subscribing, you agree to our [Privacy Policy](/legal/privacy-policy) and accept the [Terms and Conditions](/legal/terms-and-conditions/).
 {{< /hextra/hero-paragraph >}}
 
-<div>
+</div>
 
 <div class="hx:mt-6"></div>
 
-<div class="hx:w-full">
+<div class="hx:w-full hx:text-center">
 
 {{< rawhtml >}}
 
-<form action="https://everappz.us10.list-manage.com/subscribe/post?u=f758cdf6a38df2a75513ac5f1&amp;id=2373740226" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
+<form action="https://everappz.us10.list-manage.com/subscribe/post?u=f758cdf6a38df2a75513ac5f1&amp;id=2373740226" 
+method="post" 
+id="mc-embedded-subscribe-form" 
+name="mc-embedded-subscribe-form" 
+class="validate" 
+target="_blank" 
+novalidate
+>
 
 <!-- style from shortcodes/card -->
 <input
@@ -346,15 +353,18 @@ By subscribing, you agree to our [Privacy Policy](/legal/privacy-policy) and acc
     hx:font-normal
     hx:text-gray-700 hx:dark:text-neutral-200
     hx:px-4 hx:py-3"
-  style="height: 50px; width: 300px; margin-bottom:1rem; margin-right:1rem; outline: none; box-shadow: none;"
- id="mce-EMAIL" required
+style="height: 50px; width: 300px; margin-bottom:1rem; margin-right:1rem; outline: none; box-shadow: none;"
+id="mce-EMAIL" 
+required
 >
 
 <div 
 style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_f758cdf6a38df2a75513ac5f1_2373740226" tabindex="-1" value=""></div>
 
 <!-- style from hextra/hero-button -->
-<button type="submit" class="not-prose hx:font-bold hx:cursor-pointer hx:px-6 hx:py-3 hx:rounded-full hx:text-center hx:text-white hx:inline-flex hx:items-center hx:gap-2 hx:bg-primary-600 hx:hover:bg-primary-700 hx:focus:outline-hidden hx:focus:ring-4 hx:focus:ring-primary-300 hx:dark:bg-primary-600 hx:dark:hover:bg-primary-700 hx:dark:focus:ring-primary-800 hx:transition-all hx:ease-in hx:duration-200" style="outline: none; box-shadow: none;">Subscribe</button>
+<button type="submit"
+class="not-prose hx:font-bold hx:cursor-pointer hx:px-6 hx:py-3 hx:rounded-full hx:text-center hx:text-white hx:inline-flex hx:items-center hx:gap-2 hx:bg-primary-600 hx:hover:bg-primary-700 hx:focus:outline-hidden hx:focus:ring-4 hx:focus:ring-primary-300 hx:dark:bg-primary-600 hx:dark:hover:bg-primary-700 hx:dark:focus:ring-primary-800 hx:transition-all hx:ease-in hx:duration-200" 
+style="outline: none; box-shadow: none;">Subscribe</button>
 
 {{< /rawhtml >}}
 
@@ -362,9 +372,7 @@ style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text"
 
 <div class="hx:mt-6"></div>
 
-
-<div class="hx:flex hx:flex-col hx:items-center hx:justify-center hx:text-center">
-<div style="max-width: 600px; width: 100%;">
+<div class="hx:w-full">
 
 {{< cards cols="2">}}
 
@@ -419,6 +427,5 @@ style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text"
 {{< /cards >}}
 
 </div>
-</div>
 
-<div class="hx:mt-12"></div>
+<div class="hx:mt-6"></div>

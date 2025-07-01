@@ -1,43 +1,9 @@
-{{ .Scratch.Set "pressItems" (slice
-  (dict "image" "/images/press-logo/western_digital_530x100.jpg" "url" "https://support-en.wd.com/app/answers/detailweb/a_id/29075/initiator/user")
-  (dict "image" "/images/press-logo/geeksmodo_530x100.jpg" "url" "https://geeksmodo.com/how-to-download-free-music-on-iphone-and-ipod-touch/")
-  (dict "image" "/images/press-logo/logo_chip_logo_530x100.jpg" "url" "https://www.chip.de/downloads/Evermusic-Pro-iPhone-_-iPad-App_91614216.html")
-  (dict "image" "/images/press-logo/logo_imore_530x100.jpg" "url" "https://www.imore.com/best-eq-adjusting-apps-iphone-and-ipad")
-  (dict "image" "/images/press-logo/apple_vis_logo_530x100.jpg" "url" "https://www.applevis.com/apps/ios/music/evermusic-offline-player")
-  (dict "image" "/images/press-logo/apps_and_applications_530x100.jpg" "url" "https://appsandapplications.com/evertag-app-makes-it-easy-to-organize-your-music/")
-  (dict "image" "/images/press-logo/beeboom_logo_530x100.jpg" "url" "https://beebom.com/iphone-music-player-apps/")
-  (dict "image" "/images/press-logo/logo_app_comrade_530x100.jpg" "url" "https://appcomrade.com/evermusic-for-ios-by-artem-meleshko/")
-  (dict "image" "/images/press-logo/logo_appadvice_530x100.jpg" "url" "https://appadvice.com/appnn/2017/11/todays-apps-gone-free-evermusic-u4ea-photoscan-and-more")
-  (dict "image" "/images/press-logo/logo_apppicker_530x100.jpg" "url" "http://www.apppicker.com/reviews/19038/Evermusic-app-review-carry-your-music-with-you")
-  (dict "image" "/images/press-logo/logo_bgr_530x100.jpg" "url" "https://bgr.com/tech/best-free-iphone-apps-march-29-2016/")
-  (dict "image" "/images/press-logo/logo_brodude_530x100.jpg" "url" "https://brodude.ru/7-prilozhenij-kotorye-sdelayut-tvoyu-zhizn-proshhe/")
-  (dict "image" "/images/press-logo/logo_iphones_ru_530x100.jpg" "url" "https://www.iphones.ru/iNotes/401561")
-  (dict "image" "/images/press-logo/logo_lifehacker_530x100.jpg" "url" "https://lifehacker.ru/2014/11/05/kak-udobno-strimit-muzyku-iz-oblakov-s-pomoshhyu-evermusic/")
-  (dict "image" "/images/press-logo/logo_new_mobile_life_530x100.jpg" "url" "https://www.newmobilelife.com/2015/03/15/iphone-ipad-free-app-evermusic-pro-2/")
-  (dict "image" "/images/press-logo/mac_and_i_logo_530x100.jpg" "url" "https://www.heise.de/mac-and-i/meldung/Mac-i-Heft-1-2020-jetzt-im-Handel-4653874.html")
-  (dict "image" "/images/press-logo/mashtips_logo_530x100.jpg" "url" "https://mashtips.com/ios-cloud-music-player-apps/")
-  (dict "image" "/images/press-logo/mic_com_logo_530x100.jpg" "url" "https://www.mic.com/articles/164602/the-best-music-apps-you-can-use-without-wi-fi-including-evermusic-spinrilla-and-spotify")
-  (dict "image" "/images/press-logo/tenoshare_530x100.jpg" "url" "https://www.tenorshare.com/transfer-music/best-free-music-download-sites-apps-for-iphone.html")
-) }}
-
-
-<div class="hx:rounded-full hx:border hx:border-gray-200 hx:dark:border-neutral-800" style="height: 30px; overflow: hidden;">
-  
-<div class="hx:relative hx:overflow-hidden hx:py-6">
-  <div class="press-carousel">
-    <div class="press-strip">
-      {{ $items := .Scratch.Get "pressItems" }}
-      {{ range seq 1 2 }} {{/* Repeat entire strip twice for infinite scroll illusion */}}
-        {{ range $items }}
-          <a href="{{ .url }}" target="_blank" rel="noopener noreferrer">
-            <img src="{{ .image }}" alt="Press Logo" loading="lazy" />
-          </a>
-        {{ end }}
-      {{ end }}
+<div id="pressCarouselWrapper" class="hx:rounded-full hx:border hx:border-gray-200 hx:dark:border-neutral-800" style="height: 30px; overflow: hidden;">
+  <div class="hx:relative hx:overflow-hidden hx:py-6">
+    <div class="press-carousel" style="height: 100%; display: flex; align-items: center;">
+      <div class="press-strip" id="pressStrip"></div>
     </div>
   </div>
-</div>
-
 </div>
 
 <style>
@@ -49,7 +15,7 @@
 
   .press-strip {
     display: flex;
-    gap: 16px;
+    gap: 1px;
     animation: scroll-strip 30s linear infinite;
     width: max-content;
   }
@@ -64,7 +30,6 @@
     height: 30px;
     width: auto;
     object-fit: contain;
-    /* border-radius: 8px; */
     transition: transform 0.3s ease;
   }
 
@@ -81,3 +46,44 @@
     }
   }
 </style>
+
+
+<script>
+  document.addEventListener('DOMContentLoaded', () => {
+    const pressItems = [
+      { image: '/images/press-logo/western_digital_530x100.jpg', url: 'https://support-en.wd.com/app/answers/detailweb/a_id/29075/initiator/user' },
+      { image: '/images/press-logo/geeksmodo_530x100.jpg', url: 'https://geeksmodo.com/how-to-download-free-music-on-iphone-and-ipod-touch/' },
+      { image: '/images/press-logo/logo_chip_logo_530x100.jpg', url: 'https://www.chip.de/downloads/Evermusic-Pro-iPhone-_-iPad-App_91614216.html' },
+      { image: '/images/press-logo/logo_imore_530x100.jpg', url: 'https://www.imore.com/best-eq-adjusting-apps-iphone-and-ipad' },
+      { image: '/images/press-logo/apple_vis_logo_530x100.jpg', url: 'https://www.applevis.com/apps/ios/music/evermusic-offline-player' },
+      { image: '/images/press-logo/apps_and_applications_530x100.jpg', url: 'https://appsandapplications.com/evertag-app-makes-it-easy-to-organize-your-music/' },
+      { image: '/images/press-logo/beeboom_logo_530x100.jpg', url: 'https://beebom.com/iphone-music-player-apps/' },
+      { image: '/images/press-logo/logo_app_comrade_530x100.jpg', url: 'https://appcomrade.com/evermusic-for-ios-by-artem-meleshko/' },
+      { image: '/images/press-logo/logo_appadvice_530x100.jpg', url: 'https://appadvice.com/appnn/2017/11/todays-apps-gone-free-evermusic-u4ea-photoscan-and-more' },
+      { image: '/images/press-logo/logo_apppicker_530x100.jpg', url: 'http://www.apppicker.com/reviews/19038/Evermusic-app-review-carry-your-music-with-you' },
+      { image: '/images/press-logo/logo_bgr_530x100.jpg', url: 'https://bgr.com/tech/best-free-iphone-apps-march-29-2016/' },
+      { image: '/images/press-logo/logo_brodude_530x100.jpg', url: 'https://brodude.ru/7-prilozhenij-kotorye-sdelayut-tvoyu-zhizn-proshhe/' },
+      { image: '/images/press-logo/logo_iphones_ru_530x100.jpg', url: 'https://www.iphones.ru/iNotes/401561' },
+      { image: '/images/press-logo/logo_lifehacker_530x100.jpg', url: 'https://lifehacker.ru/2014/11/05/kak-udobno-strimit-muzyku-iz-oblakov-s-pomoshhyu-evermusic/' },
+      { image: '/images/press-logo/logo_new_mobile_life_530x100.jpg', url: 'https://www.newmobilelife.com/2015/03/15/iphone-ipad-free-app-evermusic-pro-2/' },
+      { image: '/images/press-logo/mac_and_i_logo_530x100.jpg', url: 'https://www.heise.de/mac-and-i/meldung/Mac-i-Heft-1-2020-jetzt-im-Handel-4653874.html' },
+      { image: '/images/press-logo/mashtips_logo_530x100.jpg', url: 'https://mashtips.com/ios-cloud-music-player-apps/' },
+      { image: '/images/press-logo/mic_com_logo_530x100.jpg', url: 'https://www.mic.com/articles/164602/the-best-music-apps-you-can-use-without-wi-fi-including-evermusic-spinrilla-and-spotify' },
+      { image: '/images/press-logo/tenoshare_530x100.jpg', url: 'https://www.tenorshare.com/transfer-music/best-free-music-download-sites-apps-for-iphone.html' }
+    ];
+
+    const strip = document.getElementById('pressStrip');
+
+    // Append images twice for infinite scroll effect
+    [1, 2].forEach(() => {
+      pressItems.forEach(item => {
+        const a = document.createElement('a');
+        a.href = item.url;
+        a.target = '_blank';
+        a.rel = 'noopener noreferrer';
+        a.innerHTML = `<img src="${item.image}" alt="Press Logo" loading="lazy">`;
+        strip.appendChild(a);
+      });
+    });
+  });
+</script>
