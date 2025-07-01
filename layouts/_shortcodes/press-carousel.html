@@ -1,23 +1,14 @@
-<div id="pressCarouselWrapper" class="hx:rounded-full hx:border hx:border-gray-200 hx:dark:border-neutral-800" style="height: 30px; overflow: hidden;">
-  <div class="hx:relative hx:overflow-hidden hx:py-6">
-    <div class="press-carousel" style="height: 100%; display: flex; align-items: center;">
-      <div class="press-strip" id="pressStrip"></div>
-    </div>
+<div class="hx:rounded-full hx:border hx:border-gray-200 hx:dark:border-neutral-800" style="height: 30px; overflow: hidden;">
+  <div class="hx:relative" style="height: 100%; display: flex; align-items: center;">
+    <div id="pressScrollStrip" class="press-strip"></div>
   </div>
 </div>
 
 <style>
-  .press-carousel {
-    position: relative;
-    width: 100%;
-    overflow: hidden;
-  }
-
   .press-strip {
     display: flex;
     gap: 1px;
-    animation: scroll-strip 30s linear infinite;
-    width: max-content;
+    will-change: transform;
   }
 
   .press-strip a {
@@ -36,21 +27,11 @@
   .press-strip img:hover {
     transform: scale(1.05);
   }
-
-  @keyframes scroll-strip {
-    from {
-      transform: translateX(0%);
-    }
-    to {
-      transform: translateX(-50%);
-    }
-  }
 </style>
-
 
 <script>
   document.addEventListener('DOMContentLoaded', () => {
-    const pressItems = [
+  const pressItems = [
       { image: '/images/press-logo/western_digital_530x100.jpg', url: 'https://support-en.wd.com/app/answers/detailweb/a_id/29075/initiator/user' },
       { image: '/images/press-logo/geeksmodo_530x100.jpg', url: 'https://geeksmodo.com/how-to-download-free-music-on-iphone-and-ipod-touch/' },
       { image: '/images/press-logo/logo_chip_logo_530x100.jpg', url: 'https://www.chip.de/downloads/Evermusic-Pro-iPhone-_-iPad-App_91614216.html' },
@@ -72,10 +53,10 @@
       { image: '/images/press-logo/tenoshare_530x100.jpg', url: 'https://www.tenorshare.com/transfer-music/best-free-music-download-sites-apps-for-iphone.html' }
     ];
 
-    const strip = document.getElementById('pressStrip');
+    const strip = document.getElementById('pressScrollStrip');
 
-    // Append images twice for infinite scroll effect
-    [1, 2].forEach(() => {
+    // Append the items twice to allow looping
+    for (let i = 0; i < 2; i++) {
       pressItems.forEach(item => {
         const a = document.createElement('a');
         a.href = item.url;
@@ -84,6 +65,19 @@
         a.innerHTML = `<img src="${item.image}" alt="Press Logo" loading="lazy">`;
         strip.appendChild(a);
       });
-    });
+    }
+
+    let pos = 0;
+    const speed = 1.0; // pixels per frame
+    const animate = () => {
+      pos -= speed;
+      if (Math.abs(pos) >= strip.scrollWidth / 2) {
+        pos = 0; // reset to start of loop
+      }
+      strip.style.transform = `translateX(${pos}px)`;
+      requestAnimationFrame(animate);
+    };
+
+    animate();
   });
 </script>
