@@ -31,21 +31,20 @@
         const timestamp = parseInt(localStorage.getItem('cookie_consent_timestamp'), 10);
         const THIRTY_DAYS = 30 * 24 * 60 * 60 * 1000;
    
-        if (consent === 'true' && timestamp && (new Date().getTime() - timestamp < THIRTY_DAYS)) {
+         if (consent === 'true' && timestamp && (new Date().getTime() - timestamp < THIRTY_DAYS)) {
             initAnalytics();
-        } else if (consent === null || (new Date().getTime() - timestamp >= THIRTY_DAYS)) {
+         } else if (consent === null || (new Date().getTime() - timestamp >= THIRTY_DAYS)) {
             // Expired or not set
             localStorage.removeItem('cookie_consent');
             localStorage.removeItem('cookie_consent_timestamp');
             document.getElementById('cookie-banner').style.display = 'block';
-        }
+         }
 
-      // fix custom footer centering
-      const elements = document.getElementsByClassName('hextra-custom-footer');
-      for (let i = 0; i < elements.length; i++) {
-        elements[i].classList.add('hx:mx-auto');
-      }
-        
+        // fix custom footer centering
+        const elements = document.getElementsByClassName('hextra-custom-footer');
+        for (let i = 0; i < elements.length; i++) {
+          elements[i].classList.add('hx:mx-auto');
+        }
    }
 </script>
 
@@ -55,8 +54,9 @@
    <div class="hx:flex hx:flex-col hx:justify-between hx:items-center">
       <!-- Text and Learn More -->
       <div class="hx:text-center">
-         <p style="display:inline;" class="hx:text-base hx:font-medium hx:text-gray-700 hx:dark:text-gray-200 hx:mb-2 sm:hx:mb-0">We use cookies on our website to see how you interact with it. By accepting, you agree to our use of such cookies.</p>
+         <p style="display:inline;" class="hx:text-base hx:font-medium hx:text-gray-700 hx:dark:text-gray-200 hx:mb-2 sm:hx:mb-0">We use cookies on our website to see how you interact with it. By accepting, you agree to our use of such cookies. 
          <a href="/legal/cookie-policy/" class="hx:text-base hx:font-bold hx:text-gray-700 hx:dark:text-gray-200 hx:hover:underline">Learn More</a>
+         </p>
       </div>
       <!-- Buttons -->
       <div class="hx:mt-6 hx:mb-6">

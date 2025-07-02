@@ -1,47 +1,47 @@
 # GENERAL CONFIGURATION
-baseURL: https://everappz.github.io   # The full base URL of your website (used in link generation).
-languageCode: en                      # Default language/locale of your site.
-title: Everappz                       # Title of the website (used in HTML <title> and RSS).
-theme: hextra                         # The Hugo theme used.
+baseURL: https://everappz.github.io # The full base URL of your website (used in link generation).
+languageCode: en # Default language/locale of your site.
+title: Everappz # Title of the website (used in HTML <title> and RSS).
+theme: hextra # The Hugo theme used.
 
-enableRobotsTXT: true                 # Generates a robots.txt file for web crawlers.
-enableGitInfo: true                   # Enables Git commit metadata (e.g., last updated).
-hasCJKLanguage: true                  # Enables better word segmentation for CJK (Chinese/Japanese/Korean) languages.
+enableRobotsTXT: true # Generates a robots.txt file for web crawlers.
+enableGitInfo: true # Enables Git commit metadata (e.g., last updated).
+hasCJKLanguage: true # Enables better word segmentation for CJK (Chinese/Japanese/Korean) languages.
 
 # MULTILINGUAL SUPPORT
-defaultContentLanguage: en            # Default language to use if none is selected.
+defaultContentLanguage: en # Default language to use if none is selected.
 languages:
-#   ar:
-#     languageName: عربي
-#     languageCode: ar
-#     languageDirection: rtl
-#     weight: 1
-#     title: Everappz
-#   ca:
-#     languageName: Català
-#     languageCode: ca
-#     weight: 2
-#     title: Everappz
-#   cs:
-#     languageName: Čeština
-#     languageCode: cs
-#     weight: 3
-#     title: Everappz
-#   da:
-#     languageName: Dansk
-#     languageCode: da
-#     weight: 4
-#     title: Everappz
-#   de:
-#     languageName: Deutsch
-#     languageCode: de
-#     weight: 5
-#     title: Everappz
-#   el:
-#     languageName: Ελληνικά
-#     languageCode: el
-#     weight: 6
-#     title: Everappz
+  #   ar:
+  #     languageName: عربي
+  #     languageCode: ar
+  #     languageDirection: rtl
+  #     weight: 1
+  #     title: Everappz
+  #   ca:
+  #     languageName: Català
+  #     languageCode: ca
+  #     weight: 2
+  #     title: Everappz
+  #   cs:
+  #     languageName: Čeština
+  #     languageCode: cs
+  #     weight: 3
+  #     title: Everappz
+  #   da:
+  #     languageName: Dansk
+  #     languageCode: da
+  #     weight: 4
+  #     title: Everappz
+  #   de:
+  #     languageName: Deutsch
+  #     languageCode: de
+  #     weight: 5
+  #     title: Everappz
+  #   el:
+  #     languageName: Ελληνικά
+  #     languageCode: el
+  #     weight: 6
+  #     title: Everappz
   en:
     languageName: English
     languageCode: en
@@ -191,23 +191,23 @@ languages:
 # MARKUP SETTINGS
 markup:
   highlight:
-    noClasses: false                 # Use inline styles instead of CSS classes for code highlighting. Set to false for cleaner HTML and better styling flexibility (e.g., when using Prism or custom syntax themes).
+    noClasses: false # Use inline styles instead of CSS classes for code highlighting. Set to false for cleaner HTML and better styling flexibility (e.g., when using Prism or custom syntax themes).
 
-  goldmark:                          # Goldmark markdown renderer settings
+  goldmark: # Goldmark markdown renderer settings
     renderer:
-      unsafe: true                   # Allows raw HTML in markdown files.
+      unsafe: true # Allows raw HTML in markdown files.
     extensions:
-      passthrough:                  # Enable math formatting with custom delimiters
+      passthrough: # Enable math formatting with custom delimiters
         delimiters:
-          block: [['$begin:math:display$', '$end:math:display$'], ["$$", "$$"]]  # For block math (LaTeX style)
-          inline: [['$begin:math:text$', '$end:math:text$']]               # For inline math
+          block: [["$begin:math:display$", "$end:math:display$"], ["$$", "$$"]] # For block math (LaTeX style)
+          inline: [["$begin:math:text$", "$end:math:text$"]] # For inline math
         enable: true
 
-enableInlineShortcodes: true         # Allows use of shortcodes inline within text.
+enableInlineShortcodes: true # Allows use of shortcodes inline within text.
 
 # MENU CONFIGURATION
 menu:
-  main:                              # Top navigation bar items
+  main: # Top navigation bar items
     - identifier: home
       name: Home
       pageRef: /
@@ -264,7 +264,7 @@ menu:
       weight: 9
       params:
         type: search
-# External social links
+    # External social links
     - identifier: twitter
       params:
         icon: icons8-sf-regular-filled-twitter
@@ -301,79 +301,70 @@ params:
   description: Everappz creates popular iOS and Mac apps for audio, video, and file management. With over 14 million downloads worldwide, our apps let you play music, watch videos, edit tags, and manage your files with ease.
 
   navbar:
-    displayTitle: false               # Show site title in the navbar.
-    displayLogo: true                # Show logo in the navbar.
+    displayTitle: false # Show site title in the navbar.
+    displayLogo: true # Show logo in the navbar.
     logo:
-      path: images/logo.svg          # Light logo path.
-      dark: images/logo-dark.svg     # Dark mode logo.
+      path: images/logo.svg # Light logo path.
+      dark: images/logo-dark.svg # Dark mode logo.
       link: /
       width: 36
       height: 36
-    width: wide                      # Navbar width: full | wide | normal
+    width: wide # Navbar width: full | wide | normal
 
   page:
-    width: normal                    # Page content width: full | wide | normal
+    width: normal # Page content width: full | wide | normal
 
   theme:
-    default: system                  # Theme mode: light | dark | system (follows OS preference)
-    displayToggle: true              # Show toggle for light/dark mode.
+    default: system # Theme mode: light | dark | system (follows OS preference)
+    displayToggle: true # Show toggle for light/dark mode.
 
   footer:
-    enable: true                     # Enable site footer.
+    enable: true # Enable site footer.
     displayCopyright: true
     displayPoweredBy: false
     width: normal
 
-  displayUpdatedDate: true          # Show last modified date on pages.
-  dateFormat: "January 2, 2006"     # Date format string.
+  displayUpdatedDate: true # Show last modified date on pages.
+  dateFormat: "January 2, 2006" # Date format string.
 
   search:
-    enable: true                    # Enable search functionality.
-    type: flexsearch                # Search engine type (flexsearch is fast/local).
+    enable: true # Enable search functionality.
+    type: flexsearch # Search engine type (flexsearch is fast/local).
     flexsearch:
-      index: content                # What to index: content | title | heading | summary
-      tokenize: forward             # Tokenization strategy: full | forward | reverse | strict
+      index: content # What to index: content | title | heading | summary
+      tokenize: forward # Tokenization strategy: full | forward | reverse | strict
 
   editURL:
-    enable: true                   # Show edit-on-GitHub link.
-    base: "https://github.com/everappz/everappz.github.io/edit/main/content"  # Base URL for editing.
+    enable: true # Show edit-on-GitHub link.
+    base: "https://github.com/everappz/everappz.github.io/edit/main/content" # Base URL for editing.
 
   blog:
     list:
-      displayTags: true           # Show tags in the blog list.
-      sortBy: date                # Field to sort blog posts by: date, title, weight, etc.
-      sortOrder: desc             # Sort order: asc (ascending) or desc (descending).
-      displayAuthor: true         # Show author name in the blog list.
-      displaySummary: true        # Show summary of posts in the blog list.
-      displayDate: true           # Show publication date in the blog list.
-      displayReadingTime: true    # Show estimated reading time in the blog list.
-      displayCategories: true     # Show categories in the blog list.
-      displayPagination: true     # Enable pagination on the blog list page.
-      postsPerPage: 10            # Number of posts per page in pagination.
+      displayTags: true # Show tags in the blog list.
+      sortBy: date # Field to sort blog posts by: date, title, weight, etc.
+      sortOrder: desc # Sort order: asc (ascending) or desc (descending).
+      displayAuthor: true # Show author name in the blog list.
+      displaySummary: true # Show summary of posts in the blog list.
+      displayDate: true # Show publication date in the blog list.
+      displayReadingTime: true # Show estimated reading time in the blog list.
+      displayCategories: true # Show categories in the blog list.
+      displayPagination: true # Enable pagination on the blog list page.
+      postsPerPage: 10 # Number of posts per page in pagination.
     article:
-      displayTags: true           # Show tags on individual blog posts.
-      displayAuthor: true         # Show author name on individual blog posts.
-      displayDate: true           # Show publication date on individual blog posts.
-      displayReadingTime: true    # Show estimated reading time on individual blog posts.
-      displayCategories: true     # Show categories on individual blog posts.
-      displayPagination: true     # Show pagination links on individual blog posts.
-      showRelatedPosts: true      # Display related posts section.
-      showComments: true          # Enable comments section.
-      enableShareButtons: true    # Show social share buttons.
+      displayTags: true # Show tags on individual blog posts.
+      displayAuthor: true # Show author name on individual blog posts.
+      displayDate: true # Show publication date on individual blog posts.
+      displayReadingTime: true # Show estimated reading time on individual blog posts.
+      displayCategories: true # Show categories on individual blog posts.
+      displayPagination: true # Show pagination links on individual blog posts.
+      showRelatedPosts: true # Display related posts section.
+      showComments: true # Enable comments section.
+      enableShareButtons: true # Show social share buttons.
 
   toc:
     displayTags: true
 
   highlight:
     copy:
-      enable: true                  # Enable copy-to-clipboard button for code blocks.
-      display: hover                # Show copy button: always | on hover
-
-  # comments:
-  #   enable: false                   # Enable comment system.
-  #   type: giscus                    # Comment provider (Giscus for GitHub-based comments).
-  #   giscus:
-  #     repo: imfing/hextra
-  #     repoId: R_kgDOJ9fJag
-  #     category: General
-  #     categoryId: DIC_kwDOJ9fJas4CY7gW
+      enable: true # Enable copy-to-clipboard button for code blocks.
+      display: hover # Show copy button: always | on hover
