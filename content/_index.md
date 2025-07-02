@@ -243,13 +243,13 @@ headless: false
 
 </div>
 
-<div class="hx:mt-6"></div>
+<div class="hx:mt-12"></div>
 
 <div class="hx:w-full">
 {{< press-carousel >}}
 </div>
 
-<div class="hx:mt-6"></div>
+<div class="hx:mt-12"></div>
 
 {{< hextra/section-headline >}}
 Our Products
