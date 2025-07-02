@@ -78,8 +78,17 @@
    </div>
 </div>
 
-<!-- Footer columns -->
-<div class="hx:py-12 hx:grid hx:grid-cols-1 hx:md:grid-cols-2 hx:lg:grid-cols-3 hx:xl:grid-cols-4 hx:gap-4 hx:text-sm">
+
+<style>
+.footer-cards {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(max(100px, calc((100% - 1rem * 2) / var(--footer-cards-grid-cols, 1))), 1fr));
+  gap: 1rem; /* equivalent to hx:gap-4 */
+}
+</style>
+
+<!-- Footer columns, need to set 5 to fix layout on desktop -->
+<div class="footer-cards hx:py-12 hx:grid hx:text-sm" style="--footer-cards-grid-cols: 5;">
 
 <!-- Column 1: Products -->
 <div>
