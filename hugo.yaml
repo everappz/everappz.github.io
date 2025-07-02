@@ -320,7 +320,7 @@ params:
 
   footer:
     enable: true # Enable site footer.
-    displayCopyright: true
+    displayCopyright: false
     displayPoweredBy: false
     width: normal
 
@@ -335,7 +335,7 @@ params:
       tokenize: forward # Tokenization strategy: full | forward | reverse | strict
 
   editURL:
-    enable: true # Show edit-on-GitHub link.
+    enable: false # Show edit-on-GitHub link.
     base: "https://github.com/everappz/everappz.github.io/edit/main/content" # Base URL for editing.
 
   blog:

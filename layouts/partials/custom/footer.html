@@ -129,7 +129,7 @@
 
 <!-- Connect with Us Section -->
 <div class="hx:pt-8 hx:pb-12 hx:text-center">
-  <div class="hx:flex hx:flex-wrap hx:justify-center hx:gap-4 hx:items-center">
+  <div class="hx:flex hx:flex-wrap hx:justify-center hx:gap-2 hx:items-center">
 
     {{/* Twitter */}}
     <a href="https://x.com/Everappz" aria-label="X (Twitter)"
@@ -203,5 +203,15 @@
       {{ end }}
     </a>
 
+  </div>
+</div>
+
+{{- $copyright := (T "copyright") | default "© 2025 MYCOMPANY." -}}
+
+<div
+  class="hextra-max-footer-width hx:mx-auto hx:flex hx:justify-center hx:py-12 hx:pl-[max(env(safe-area-inset-left),1.5rem)] hx:pr-[max(env(safe-area-inset-right),1.5rem)] hx:text-gray-600 hx:dark:text-gray-400"
+>
+  <div class="hx:flex hx:w-full hx:flex-col hx:items-center">
+    <div class="hx:mt-6 hx:text-xs">{{ $copyright | markdownify }}</div>
   </div>
 </div>
