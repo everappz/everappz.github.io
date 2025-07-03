@@ -216,11 +216,13 @@
 </div>
 
 {{- $copyright := (T "copyright") | default "© 2025 MYCOMPANY." -}}
+{{- $poweredBy := (T "poweredBy") | default "Powered by Hextra" -}}
 
 <div
   class="hextra-max-footer-width hx:mx-auto hx:flex hx:justify-center hx:py-12 hx:pl-[max(env(safe-area-inset-left),1.5rem)] hx:pr-[max(env(safe-area-inset-right),1.5rem)] hx:text-gray-600 hx:dark:text-gray-400"
 >
   <div class="hx:flex hx:w-full hx:flex-col hx:items-center">
-    <div class="hx:mt-6 hx:text-xs">{{ $copyright | markdownify }}</div>
+    <div class="hx:font-normal">{{ template "theme-credit" $poweredBy }}</div>
+    <div class="hx:font-semibold hx:mt-6 hx:text-xs">{{ $copyright | markdownify }}</div>
   </div>
 </div>

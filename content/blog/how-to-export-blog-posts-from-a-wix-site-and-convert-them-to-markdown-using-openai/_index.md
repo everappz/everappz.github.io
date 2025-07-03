@@ -350,5 +350,5 @@ You can contribute by:
 The project is fully open-source and available on GitHub. Jump in and help shape the tool for a smoother migration experience from Wix to Markdown.
 
 {{< cards cols="1" >}}
-  {{< card link="https://github.com/everappz/wix-blog-export" title="Wix Blog Export on GitHub" icon="github" tag="open source" >}}
+  {{< card link="https://github.com/everappz/wix-blog-export" title="Project on GitHub" icon="github" tag="open source" >}}
 {{< /cards >}}
