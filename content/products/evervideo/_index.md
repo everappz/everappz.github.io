@@ -274,13 +274,14 @@ App Store Reviews
     subtitle=`• Contain Ads<br />
 • Playlists (10)<br />
 • Cloud services (3)<br />
-• Favorites (1000)<br />
+• Archive media collections (3)<br />
+• Favorites (100)<br />
 • Songs in playlist (1000)<br />
 • Songs in queue (750)<br />
 • Offline folders (1)<br />
 • Offline albums (1)<br />
-• Automatic tags search (20)<br />
-• Export to M3U (5)<br />
+• Export iTunes videos<br />
+• Export Photos videos<br />
 • Download files<br /><br />
 <span class='hx:block hx:mt-2 hx:text-center'>
   <span class='hx:inline-block hx:rounded-full hx:border hx:border-gray-200 hx:hover:border-gray-300 hx:dark:border-neutral-800 hx:dark:hover:border-neutral-700 hx:px-3 hx:py-1'>
@@ -290,19 +291,18 @@ App Store Reviews
   >}}
 
   {{< hextra/feature-card
-  tag="Free"
-    tagType="default"
     title="Premium Monthly"
     subtitle=`• Ad-free experience<br />
 • Unlimited playlists<br />
 • Unlimited cloud services<br />
+• Unlimited media archiving<br />
 • Unlimited favorites<br />
 • Unlimited songs in playlist<br />
 • Unlimited songs in queue<br />
 • Unlimited offline folders<br />
 • Unlimited offline albums<br />
-• Unlimited tags search<br />
-• Unlimited export to M3U<br />
+• Unlimited export from iTunes<br />
+• Unlimited export from Photos<br />
 • Download files<br />
 • Download folders<br />
 • Download collections<br />
@@ -320,13 +320,14 @@ App Store Reviews
     subtitle=`• Ad-free experience<br />
 • Unlimited playlists<br />
 • Unlimited cloud services<br />
+• Unlimited media archiving<br />
 • Unlimited favorites<br />
 • Unlimited songs in playlist<br />
 • Unlimited songs in queue<br />
 • Unlimited offline folders<br />
 • Unlimited offline albums<br />
-• Unlimited tags search<br />
-• Unlimited export to M3U<br />
+• Unlimited export from iTunes<br />
+• Unlimited export from Photos<br />
 • Download files<br />
 • Download folders<br />
 • Download collections<br />
@@ -344,13 +345,14 @@ App Store Reviews
     subtitle=`• Ad-free experience<br />
 • Unlimited playlists<br />
 • Unlimited cloud services<br />
+• Unlimited media archiving<br />
 • Unlimited favorites<br />
 • Unlimited songs in playlist<br />
 • Unlimited songs in queue<br />
 • Unlimited offline folders<br />
 • Unlimited offline albums<br />
-• Unlimited tags search<br />
-• Unlimited export to M3U<br />
+• Unlimited export from iTunes<br />
+• Unlimited export from Photos<br />
 • Download files<br />
 • Download folders<br />
 • Download collections<br />

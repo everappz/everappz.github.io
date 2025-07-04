@@ -272,6 +272,7 @@ tags: ["Evermusic", "offline playback", "cloud music", "MP3 player", "iPhone app
     subtitle=`• Contain Ads<br />
 • Playlists (10)<br />
 • Cloud services (3)<br />
+• Archive media collections (3)<br />
 • Favorites (1000)<br />
 • Songs in playlist (1000)<br />
 • Songs in queue (750)<br />
@@ -289,12 +290,11 @@ tags: ["Evermusic", "offline playback", "cloud music", "MP3 player", "iPhone app
   >}}
 
   {{< hextra/feature-card
-  tag="Free"
-    tagType="default"
     title="Premium Monthly"
     subtitle=`• Ad-free experience<br />
 • Unlimited playlists<br />
 • Unlimited cloud services<br />
+• Unlimited media archiving<br />
 • Unlimited favorites<br />
 • Unlimited songs in playlist<br />
 • Unlimited songs in queue<br />
@@ -321,6 +321,7 @@ tags: ["Evermusic", "offline playback", "cloud music", "MP3 player", "iPhone app
     subtitle=`• Ad-free experience<br />
 • Unlimited playlists<br />
 • Unlimited cloud services<br />
+• Unlimited media archiving<br />
 • Unlimited favorites<br />
 • Unlimited songs in playlist<br />
 • Unlimited songs in queue<br />
@@ -347,6 +348,7 @@ tags: ["Evermusic", "offline playback", "cloud music", "MP3 player", "iPhone app
     subtitle=`• Ad-free experience<br />
 • Unlimited playlists<br />
 • Unlimited cloud services<br />
+• Unlimited media archiving<br />
 • Unlimited favorites<br />
 • Unlimited songs in playlist<br />
 • Unlimited songs in queue<br />
