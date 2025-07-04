@@ -18,7 +18,7 @@ aliases:
 {{< force-dark >}}
 
 {{< hextra/hero-container
-  image="./heroimage/hero_1600.jpg"
+  image="./heroimage/hero_1600.webp"
   imageWidth="800"
   imageCard="true"
 >}}
@@ -186,7 +186,7 @@ Intuitive Design
     image="./screenshots/2880x1800/1.png" 
     title="Video Player" 
     method="Fill"
-    options="515x200"
+    options="515x200 q90 webp"
     subtitle="Watch HD videos with playback speed, pitch, repeat, and shuffle controls. Supports nearly all audio and video formats." 
     icon="play"
   >}}
@@ -195,7 +195,7 @@ Intuitive Design
     image="./screenshots/2880x1800/3.png" 
     title="Audio & Video Equalizer" 
     method="Fill"
-    options="515x200"
+    options="515x200 q90 webp"
     subtitle="Improve sound and video quality with presets, bass boost, brightness, contrast, and more adjustments." 
     icon="adjustments"
   >}}
@@ -204,7 +204,7 @@ Intuitive Design
     image="./screenshots/2880x1800/6.png" 
     title="Playlists Manager" 
     method="Fill"
-    options="515x200"
+    options="515x200 q90 webp"
     subtitle="Create and edit playlists, reorder tracks, and export as ZIP for sharing or backup." 
     icon="collection"
   >}}
@@ -213,7 +213,7 @@ Intuitive Design
     image="./screenshots/2880x1800/5.png" 
     title="Media Library" 
     method="Fill"
-    options="515x200"
+    options="515x200 q90 webp"
     subtitle="Keep all your videos and audio in one place with smart search and sorting tools." 
     icon="library"
   >}}
@@ -222,7 +222,7 @@ Intuitive Design
     image="./screenshots/2880x1800/7.png"  
     title="Cloud Storage" 
     method="Fill"
-    options="515x200"
+    options="515x200 q90 webp"
     subtitle="Stream videos directly from iCloud, Google Drive, Dropbox, OneDrive, MEGA, and more." 
     icon="cloud"
   >}}
@@ -231,7 +231,7 @@ Intuitive Design
     image="./screenshots/2880x1800/9.png"  
     title="File Manager" 
     method="Fill"
-    options="515x200"
+    options="515x200 q90 webp"
     subtitle="Organize, move, rename, and delete media files and folders easily within the app." 
     icon="folder"
   >}}

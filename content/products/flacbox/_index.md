@@ -17,7 +17,7 @@ aliases:
 {{< force-dark >}}
 
 {{< hextra/hero-container
-  image="./heroimage/hero_1600.png"
+  image="./heroimage/hero_1600.webp"
   imageWidth="800"
   imageCard="true"
 >}}
@@ -161,7 +161,7 @@ Intuitive Design
     image="./screenshots/2048x2732/1.png" 
     title="Audio Player" 
     method="Fill"
-    options="515x200"
+    options="515x200 q90 webp"
     subtitle="Advanced music player with repeat, shuffle, speed control, and pitch adjustment." 
     icon="play"
   >}}
@@ -170,7 +170,7 @@ Intuitive Design
     image="./screenshots/2048x2732/2.png"  
     title="Audio Equalizer" 
     method="Fill"
-    options="515x200"
+    options="515x200 q90 webp"
     subtitle="Custom equalizer with presets, bass boost, and preamp for better sound." 
     icon="adjustments"
   >}}
@@ -179,7 +179,7 @@ Intuitive Design
     image="./screenshots/2048x2732/3.png"  
     title="Playlists Manager" 
     method="Fill"
-    options="515x200"
+    options="515x200 q90 webp"
     subtitle="Make playlists, change song order, export to M3U or ZIP for backup or sharing." 
     icon="collection"
   >}}
@@ -188,7 +188,7 @@ Intuitive Design
     image="./screenshots/2048x2732/5.png"  
     title="Media Library" 
     method="Fill"
-    options="515x200"
+    options="515x200 q90 webp"
     subtitle="Organize songs by album, artist, or genre using audio tags and metadata." 
     icon="library"
   >}}
@@ -197,7 +197,7 @@ Intuitive Design
     image="./screenshots/2048x2732/7.png"  
     title="Cloud Storage" 
     method="Fill"
-    options="515x200"
+    options="515x200 q90 webp"
     subtitle="Stream music from Google Drive, Dropbox, OneDrive, and other cloud services." 
     icon="cloud"
   >}}
@@ -206,7 +206,7 @@ Intuitive Design
     image="./screenshots/2048x2732/8.png"  
     title="iCloud Drive" 
     method="Fill"
-    options="515x200"
+    options="515x200 q90 webp"
     subtitle="Store lossless music in iCloud and stream it directly without downloading." 
     icon="wifi"
   >}}
