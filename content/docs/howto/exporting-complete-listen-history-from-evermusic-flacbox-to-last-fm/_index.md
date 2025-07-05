@@ -1,10 +1,11 @@
-# Exporting Complete Listen History from Evermusic & Flacbox to Last.fm
-
-**Writer:** admin  
-**Date:** Jan 30, 2024  
-**Updated:** Dec 24, 2024  
-**Read Time:** 5 min read
-
+---
+title: "Export Your Complete Listening History from Evermusic & Flacbox to Last.fm"
+date: 2024-01-30
+description: "Learn how to export your music history from Evermusic and Flacbox and upload it to Last.fm using CSV files and the Last.fm Scrubbler tool for Windows."
+keywords: ["evermusic", "flacbox", "lastfm", "music history", "scrobbling", "export tracks", "csv", "scrubbler"]
+tags: ["evermusic", "flacbox", "recents", "lastfm", "export", "scrobbler"]
+readingTime: 5
+draft: false
 ---
 
 **UPD:** Automatic scrobbling is now available! Learn more here: [https://www.everappz.com/post/how-to-scrobble-your-music-history-from-evermusic-or-flacbox-to-last-fm](https://www.everappz.com/post/how-to-scrobble-your-music-history-from-evermusic-or-flacbox-to-last-fm)
@@ -57,7 +58,7 @@ On your Windows computer (or VirtualBox app with Windows Development image) down
 
 Under the 'Assets' section tap on [Last.fm-Scrubbler-WPF-Beta-1.28.zip](http://Last.fm-Scrubbler-WPF-Beta-1.28.zip) to download the installation archive. Unarchive the downloaded file and open the unarchived folder.
 
-### IMPORTANT
+- IMPORTANT
 
 This app is still in beta. The app creators did not get a lot of testing. They recommend trying to scrobble to a test account first and see if the things you want to scrobble do so correctly. Especially if you scrobble a lot of tracks at once. Please be careful with your accounts.
 
@@ -127,8 +128,3 @@ Now you can open your profile on the [Last.fm](http://Last.fm) page and check al
 
 ![your profile on the Last.fm page](21260c_1c065f759f624deea69a814e1b72c8bf~mv2.png)
 
----
-
-**Tags:** [evermusic](https://www.everappz.com/blog/tags/evermusic), [flacbox](https://www.everappz.com/blog/tags/flacbox), [recents](https://www.everappz.com/blog/tags/recents), [lastfm](https://www.everappz.com/blog/tags/lastfm), [export](https://www.everappz.com/blog/tags/export), [scrobbler](https://www.everappz.com/blog/tags/scrobbler)
-
-**Category:** [How To](https://www.everappz.com/blog/categories/how-to)

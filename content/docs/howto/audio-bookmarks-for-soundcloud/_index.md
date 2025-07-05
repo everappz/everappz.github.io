@@ -1,49 +1,99 @@
-```markdown
-# Audio Bookmarks for SoundCloud
+---
+title: "How to Create Audio Bookmarks for SoundCloud Tracks in Soundy"
+date: 2024-12-08
+description: "Learn how to use Soundy to create audio bookmarks in SoundCloud tracks. Perfect for audiobooks, podcasts, and lectures."
+keywords: ["Soundy", "SoundCloud bookmarks", "audio bookmarks", "podcast bookmarks", "audiobook player", "SoundCloud podcast player"]
+tags: ["audio", "equalizer", "soundy", "marks", "soundcloud"]
+categories: ["How To"]
+draft: false
+---
 
-![Soundy: Audio Bookmark For SoundCloud](21260c_617fb607236c4b239b64b8816b7d19fe~mv2.jpg)
+{{< figure
+  src="/21260c_617fb607236c4b239b64b8816b7d19fe~mv2.jpg"
+  alt="Soundy app used for audio bookmarking on SoundCloud"
+  caption="Soundy: Audio Bookmark For SoundCloud"
+  width="600"
+>}}
 
-With [Soundy](http://bit.ly/everappz_soundy) you can listen to your favorite audio books, lectures, podcasts from SoundCloud and create audio bookmarks.
+With [Soundy](/products/soundy), you can listen to your favorite audiobooks, lectures, and podcasts from SoundCloud — and create audio bookmarks to save your position or highlight key moments.
 
 To create an audio bookmark for SoundCloud, follow the steps below:
 
-1. Find a podcast or audio track on the Search screen or My Account screen:
+### 1. Search for a Track
 
-   ![Soundy Search Podcast on SoundCloud](21260c_646b3e7a15994df08b111736acfc2d53~mv2.png)
+{{< figure
+  src="/21260c_646b3e7a15994df08b111736acfc2d53~mv2.png"
+  alt="Searching for a podcast in Soundy using SoundCloud"
+  caption="Search for podcasts or tracks via SoundCloud inside Soundy"
+  width="400"
+>}}
 
-2. Tap on the track to start the player:
+Use the **Search** tab or **My Account** tab to find your SoundCloud tracks.
 
-   ![Soundy Playlist Detail Screen](21260c_058904e083cf40f0986c252ab743e031~mv2.png)
+### 2. Start Playback
 
-3. Open the Player screen and tap on the MORE button ('...') at the top left corner and select the 'Bookmarks' menu:
+{{< figure
+  src="/21260c_058904e083cf40f0986c252ab743e031~mv2.png"
+  alt="Playlist detail screen in Soundy"
+  caption="Tap on a track to open the player screen"
+  width="400"
+>}}
 
-   ![Soundy Audio Bookmarks for SoundCloud track](21260c_6e93c487869f4edb8652839ecd0e3ff5~mv2.png)
+Tap the track to open the player and begin listening.
 
-4. Tap 'Add new bookmark' and select the bookmark time. By default, a new bookmark is created with the current player time. If you want to change it, just use the time picker. You can also change the bookmark name by tapping on it:
+### 3. Open the Bookmarks Menu
 
-   ![Soundy Add New Bookmark](21260c_758a132ab32045398be2e1cef1ef99b3~mv2.png)
+{{< figure
+  src="/21260c_6e93c487869f4edb8652839ecd0e3ff5~mv2.png"
+  alt="Opening bookmarks from the player screen"
+  caption="Tap the MORE (...) button and choose 'Bookmarks'"
+  width="400"
+>}}
 
-5. Tap 'Done' and you will return to the previous screen with the created bookmark. With these simple steps, you can create several bookmarks for one song. It's very convenient for large audio books or podcasts:
+In the player, tap the **...** button at the top left, then select **Bookmarks**.
 
-   ![Soundy Created Audio Bookmarks](21260c_9e9a22ff2eba4fa2a269692ef6c93f42~mv2.png)
+### 4. Add a New Bookmark
 
-6. If you want to jump to the created bookmark position, just tap on the bookmark title:
+{{< figure
+  src="/21260c_758a132ab32045398be2e1cef1ef99b3~mv2.png"
+  alt="Creating a new audio bookmark"
+  caption="Set a time and optional title for the new bookmark"
+  width="400"
+>}}
 
-   ![Soundy Open Bookmark](21260c_3edb9c68d94f41e5a1e7cac68e689871~mv2.png)
+Choose a time (default is the current playback time) and edit the name if needed.
 
-7. You can also find all tracks with bookmarks by tapping 'All songs' in the segmented control:
+### 5. Save the Bookmark
 
-   ![Soundy All Tracks with Audio Bookmarks](21260c_de5ea7bf71894dfe9a70c90d8ebe7d40~mv2.png)
+{{< figure
+  src="/21260c_9e9a22ff2eba4fa2a269692ef6c93f42~mv2.png"
+  alt="List of audio bookmarks"
+  caption="You can create multiple bookmarks per track"
+  width="400"
+>}}
 
-If you have any questions, just write your comments below.
+Tap **Done** to save the bookmark and return to the bookmarks list.
 
-## Tags:
-- [audio](https://www.everappz.com/blog/tags/audio)
-- [equalizer](https://www.everappz.com/blog/tags/equalizer)
-- [soundy](https://www.everappz.com/blog/tags/soundy)
-- [marks](https://www.everappz.com/blog/tags/marks)
-- [soundcloud](https://www.everappz.com/blog/tags/soundcloud-1)
+### 6. Jump to a Bookmark
 
-## Categories:
-- [How To](https://www.everappz.com/blog/categories/how-to)
-```
+{{< figure
+  src="/21260c_3edb9c68d94f41e5a1e7cac68e689871~mv2.png"
+  alt="Tapping a bookmark to jump to that moment"
+  caption="Tap on a bookmark name to jump to that point in the audio"
+  width="400"
+>}}
+
+Tap any bookmark title to instantly resume playback from that moment.
+
+### 7. View All Tracks with Bookmarks
+
+{{< figure
+  src="/21260c_de5ea7bf71894dfe9a70c90d8ebe7d40~mv2.png"
+  alt="Soundy filter showing bookmarked tracks"
+  caption="Use the segmented control to view all tracks with saved bookmarks"
+  width="400"
+>}}
+
+Use the **All Songs** filter to find and manage all your bookmarked audio.
+
+If you have any questions, leave a comment below or contact support!

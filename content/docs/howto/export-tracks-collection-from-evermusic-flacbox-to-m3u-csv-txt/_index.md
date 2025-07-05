@@ -1,11 +1,17 @@
-# Export Tracks Collection from Evermusic & Flacbox to M3U, CSV, TXT
+---
+title: "How to Export Tracks Collection to M3U, CSV, and TXT in Evermusic & Flacbox"
+date: 2024-01-31
+description: "Learn how to export your recents, favorites, playlists, and albums from Evermusic and Flacbox to M3U, CSV, or TXT formats. Perfect for Last.fm scrobbling and playback on other devices."
+keywords: ["evermusic export", "flacbox export", "export to m3u", "export playlist to csv", "m3u txt csv playlist", "music export"]
+tags: ["evermusic", "recents", "favorites", "export", "m3u", "playlist", "csv", "txt", "album"]
+draft: false
+---
 
-**Writer:** admin  
-**Date:** Jan 31, 2024  
-**Updated:** Dec 6, 2024  
-**Reading Time:** 4 min read
+## Intro
 
 Exporting your recents, favorites, albums, and playlists from the app to an external file can be incredibly useful. You can use these files to update your listening history on scrobbler services such as [Last.fm](http://Last.fm) or listen to your playlists on external devices. With Evermusic and Flacbox, this process is easy. Here, we'll show you how to export your recents to CSV/TXT and your playlists to M3U. However, this functionality is available for any tracks collection within the app.
+
+## Choose Format
 
 To export your recents open the 'Music library' section and select 'Recents' menu item.
 
@@ -17,17 +23,19 @@ On the next screen tap 'More' button in the top right corner and choose 'Export 
 
 On the 'Select file format' screen you have several options - CSV, TXT, M3U.
 
-### CSV
+- CSV
 
 This stands for Comma-Separated Values, perfect for organizing your data into a neat table format. In the destination file, you'll find parameters like Artist Name, Album Name, Track Name, Timestamp (the time you listened to the tracks), Album Artist Name, and Track Duration. You can use that file later to update your listening history on scrobbler services such as [Last.fm](http://Last.fm) as described [here](https://www.everappz.com/post/exporting-complete-listen-history-from-evermusic-flacbox-to-last-fm).
 
-### TXT
+- TXT
 
 Here, we're talking about a plain text file. It's simple and straightforward, with parameters including Artist Name, Album Name, Track Name, and Duration. Useful if you just need a list of tracks in a text presentation.
 
-### M3U
+- M3U
 
 This format is essentially the go-to for creating playlists. It's great because you can export your song list and enjoy your tracks on any device, even if you don't have the original files (if you select the absolute URL for the media files option export). In the output file, you'll find parameters such as Duration, Artist Name, Track Name, and Media File Location.
+
+## CSV Format
 
 Now, let's select CSV and see what we'll receive. Simply choose CSV and hit the 'Export' button.
 
@@ -55,6 +63,8 @@ The Everly Brothers,100 Greatest Feel Good,All I Have To Do Is Dream,2024-01-06 
 
 ![exported csv file](21260c_fcfba9a96e3c4db9bd3b227e625b2383~mv2.png)
 
+## TXT Format
+
 The output TXT file will contain fields in the following format:
 
 ```
@@ -68,6 +78,8 @@ For example:
 ```
 
 ![exported txt file](21260c_f134980fbc2b4443b096e301d7cb6a91~mv2.png)
+
+## M3U Format
 
 Next, we'll guide you through exporting your playlist to M3U format, which is the de facto standard for playlist files. The main precondition for successful playlist export is that all files in the playlist must be located on the same storage, whether it's in a cloud service like your Google Drive, local files, or files on your device. To begin the export process, open any playlist and tap the 'More' button in the top right corner, then choose the 'Export songs list' menu item.
 
@@ -87,19 +99,7 @@ On the next screen, select the 'M3U' file format, where you'll encounter two opt
 
    In this case, avoid changing the M3U file location after export completion, as doing so will break the paths for media files. To begin playback of your playlist, simply tap on the exported playlist file, and the app will automatically locate the media files on your storage and initiate playback. Or even you can export your playlists to the storage and then import them again on your new device.
 
-2. If you choose 'Absolute URL', the app will generate direct URLs for your media files. This allows you to play the playlist on any device/application without needing all media files to be located on the same storage as the playlist file. This option is supported only for cloud storage capable of generating direct file URLs. However, keep in mind that in some cases, the generated URLs may have a limited lifetime and can expire after some time. Here's the list of supported cloud services:
-
-   - iCloud Drive
-   - pCloud
-   - PanBaidu
-   - MyCloudHome
-   - DLNA
-   - MediaFire
-   - OneDrive
-   - Box
-   - Dropbox
-   - GoogleDrive
-   - WebDav (if in guest mode)
+2. If you choose 'Absolute URL', the app will generate direct URLs for your media files. This allows you to play the playlist on any device/application without needing all media files to be located on the same storage as the playlist file. This option is supported only for cloud storage capable of generating direct file URLs. However, keep in mind that in some cases, the generated URLs may have a limited lifetime and can expire after some time. Here's the list of supported cloud services: iCloud Drive, pCloud, PanBaidu, MyCloudHome, DLNA, MediaFire, OneDrive, Box, Dropbox, GoogleDrive, WebDav (if in guest mode)  
 
 The output media file URL will be something like:
 
@@ -147,18 +147,6 @@ You can open that file on any device/application that supports M3U playlists.
 
 ![m3u playlist opened in external app](21260c_16a6ec3d1ee7483b872e6002fbc0c5e9~mv2.png)
 
-## Tags
+## Final Thoughts
 
-- [evermusic](https://www.everappz.com/blog/tags/evermusic)
-- [recents](https://www.everappz.com/blog/tags/recents)
-- [favorites](https://www.everappz.com/blog/tags/favorites)
-- [export](https://www.everappz.com/blog/tags/export)
-- [m3u](https://www.everappz.com/blog/tags/m3u)
-- [playlist](https://www.everappz.com/blog/tags/playlist)
-- [csv](https://www.everappz.com/blog/tags/csv)
-- [txt](https://www.everappz.com/blog/tags/txt)
-- [album](https://www.everappz.com/blog/tags/album)
-
-## Categories
-
-- [How To](https://www.everappz.com/blog/categories/how-to)
+Exporting your tracks from Evermusic and Flacbox gives you complete control over your music data. Whether you’re backing up your listening history, scrobbling to Last.fm, or enjoying playlists on external devices, these export options: M3U, CSV, and TXT - are powerful tools tailored for flexibility and compatibility. Take advantage of these features to enhance how you organize, share, and revisit your music collection across platforms.
