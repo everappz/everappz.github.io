@@ -8,7 +8,7 @@ readingTime: 2
 draft: false
 ---
 
-{{< figure src="/21260c_b9528a8ed58c4207be1e012627bce8d1~mv2.png" alt="Activate redeem promo code on iPad" caption="Activate redeem promo code on iPad" width="400" >}}
+{{< figure src="/21260c_b9528a8ed58c4207be1e012627bce8d1~mv2.png" alt="Activate redeem promo code on iPad" width="800" >}}
 
 ## What is a Redeem Promo Code?
 

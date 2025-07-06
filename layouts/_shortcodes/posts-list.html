@@ -1,0 +1,48 @@
+{{ $path := .Get "path" }}
+{{ $section := site.GetPage $path }}
+
+<!-- <h2>Debug Info</h2> -->
+<!-- <p><strong>Section Path:</strong> {{ $path }}</p> -->
+<!-- <p><strong>Section Found:</strong> {{ if $section }}Yes{{ else }}No{{ end }}</p> -->
+
+{{ if $section }}
+  <!-- <p><strong>.Pages count:</strong> {{ len $section.Pages }}</p> -->
+  <!-- <p><strong>.RegularPages count:</strong> {{ len $section.RegularPages }}</p> -->
+  <!-- <p><strong>.Resources count:</strong> {{ len $section.Resources }}</p> -->
+
+  <!-- <h3>-- Inspecting .Pages --</h3> -->
+
+  {{ $validPages := slice }}
+  {{ range $p := $section.Pages }}
+    <!-- <div style="padding: 0.5em; border-bottom: 1px dashed #ccc;">
+      <p><strong>File Path:</strong> {{ $p.File.Path }}</p>
+      <p><strong>Title:</strong> {{ $p.Title }}</p>
+      <p><strong>Date:</strong> {{ $p.Date }}</p>
+      <p><strong>Kind:</strong> {{ $p.Kind }}</p>
+      <p><strong>Is Section:</strong> {{ $p.IsSection }}</p>
+    </div> -->
+    {{ if and (not $p.Date.IsZero) (not $p.Params.draft) }}
+      {{ $validPages = $validPages | append $p }}
+    {{ end }}
+  {{ end }}
+
+  <!-- <p><strong>Valid Pages After Filtering:</strong> {{ len $validPages }}</p> -->
+
+  {{ $pages := sort $validPages "Date" "desc" }}
+
+  <!-- <h2>Posts</h2> -->
+  {{ if not $pages }}
+    <p>No valid posts found.</p>
+  {{ else }}
+    <ul>
+      {{ range $pages }}
+        <li>
+          <a href="{{ .RelPermalink }}">{{ .Title }}</a>
+          <!-- <small>({{ .Date.Format "2006-01-02" }})</small> -->
+        </li>
+      {{ end }}
+    </ul>
+  {{ end }}
+{{ else }}
+  <p class="text-red-500">Section not found.</p>
+{{ end }}
