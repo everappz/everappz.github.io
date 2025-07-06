@@ -10,4 +10,3 @@ This section offers practical, easy-to-follow guides for using Everappz apps. Wh
 Explore our tutorials to solve issues, learn new tricks, and make the most of your app experience.
 
 {{< posts-list path="/docs/howto" >}}
-{{< /posts-list >}}
