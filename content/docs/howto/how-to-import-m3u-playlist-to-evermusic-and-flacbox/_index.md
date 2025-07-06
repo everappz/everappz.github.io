@@ -1,9 +1,12 @@
-# How to Import M3U Playlist to Evermusic and Flacbox
-
-**Writer:** admin  
-**Date:** Jan 31, 2024  
-**Updated:** Dec 6, 2024  
-**Reading Time:** 3 min read
+---
+title: "How to Import M3U Playlist to Evermusic and Flacbox"
+date: 2024-01-31
+description: "Learn how to import M3U, M3U8, and CUE playlist files from cloud, local storage, or device into Evermusic and Flacbox."
+keywords: ["evermusic", "flacbox", "playlist", "m3u", "m3u8", "cue", "import", "music app"]
+tags: ["evermusic", "import", "playlists", "m3u", "cue"]
+readingTime: 3
+draft: false
+---
 
 M3U, which stands for MP3 URL or Moving Picture Experts Group Audio Layer 3 Uniform Resource Locator, is a computer file format used for multimedia playlists. One of its primary uses is creating single-entry playlist files that point to streams on the internet. These files offer convenient access to streaming content and are commonly used for downloads, emailing, and listening to Internet radio.
 
@@ -78,9 +81,3 @@ You will see a warning alert explaining what you need to do in this scenario.
 ![system file picker warning alert](21260c_2a1fc19a58f9437c9dd171ec5879a071~mv2.png)
 
 Additionally, you can import multiple playlists at once by tapping the "More Actions" button and selecting "Import Playlists from a Folder." The app will then scan the folder's content, find supported playlist files, and import them into the library.
-
----
-
-**Tags:** [evermusic](https://www.everappz.com/blog/tags/evermusic), [import](https://www.everappz.com/blog/tags/import), [playlists](https://www.everappz.com/blog/tags/playlists), [m3u](https://www.everappz.com/blog/tags/m3u), [cue](https://www.everappz.com/blog/tags/cue)
-
-**Category:** [How To](https://www.everappz.com/blog/categories/how-to)
