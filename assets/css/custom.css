@@ -1,0 +1,17 @@
+/* 
+╔══════════════════╦════════╦══════════╦════════════════════════════════════╗
+║ Variable         ║ Pixels ║ REM      ║ Description                        ║
+╠══════════════════╬════════╬══════════╬════════════════════════════════════╣
+║ --hx-radius-none ║ 0px    ║ 0rem     ║ Sharp corners                      ║
+║ --hx-radius-sm   ║ 2px    ║ 0.125rem ║ Slightly rounded                   ║
+║ --hx-radius-md   ║ 6px    ║ 0.375rem ║ Medium rounded (default)          ║
+║ --hx-radius-lg   ║ 8px    ║ 0.5rem   ║ More rounded                       ║
+║ --hx-radius-xl   ║ 12px   ║ 0.75rem  ║ Large rounded                      ║
+║ --hx-radius-2xl  ║ 16px   ║ 1rem     ║ Extra rounded                      ║
+║ --hx-radius-full ║ 9999px ║ –        ║ Fully rounded (circle elements)   ║
+╚══════════════════╩════════╩══════════╩════════════════════════════════════╝
+*/
+
+.content :where(img):not(:where([class~=not-prose],[class~=not-prose] *)) {
+    border-radius: var(--hx-radius-lg);
+}

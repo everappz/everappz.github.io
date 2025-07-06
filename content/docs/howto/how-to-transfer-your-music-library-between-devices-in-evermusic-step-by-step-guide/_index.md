@@ -1,13 +1,15 @@
-# How to Transfer Your Music Library Between Devices in Evermusic: Step-by-Step Guide
-
-**Writer:** admin  
-**Date:** Dec 29, 2024  
-**Updated:** Jan 31  
-**Reading Time:** 3 min read
+---
+title: "How to Transfer Your Music Library Between Devices in Evermusic: Step-by-Step Guide"
+description: "Easily transfer your Evermusic music library, playlists, album artwork, and settings from one iPhone, iPad, or Mac to another using Wi-Fi Drive and backup tools."
+date: 2024-12-29
+tags: ["musiclibrary", "transfer", "wifi", "backup", "webdav", "restore"]
+keywords: ["transfer music library Evermusic", "backup and restore playlists Evermusic", "Evermusic WiFi Drive", "sync Evermusic between devices", "move Evermusic database", "Evermusic file transfer", "restore audio player settings", "WebDAV music transfer iOS"]
+readingTime: 3
+---
 
 In this guide, we’ll walk you through transferring your entire music library — including database, album covers, and settings — from one device (iPhone or Mac) to another. While automatic music library and playlist sync is a feature planned for the future, this process must currently be done manually.
 
-### Step 1: Create a Backup on the First Device
+## Step 1: Create a Backup on the First Device
 
 1. **Open the app on your first device** (the one with your music library, playlists, and connected cloud services).
 2. **Navigate to Settings** and select the **Backup and Restore** option.
@@ -35,7 +37,7 @@ Tap **Show File** to reveal the backup file in the **Documents** directory. Back
 
 ![Show Backup File](21260c_d857f23f0ad94ae8851f93baed15aeb1~mv2.png)
 
-### Step 2: Start the Wi-Fi Drive Server
+## Step 2: Start the Wi-Fi Drive Server
 
 1. Go to the **Connections** section in the app.
 2. Scroll down to **Connect Using Wi-Fi** and tap on it.
@@ -50,7 +52,7 @@ Tap **Show File** to reveal the backup file in the **Documents** directory. Back
 
 ![Wi-Fi Drive Started](21260c_11ed60c4073640cc9aafda20cec8431c~mv2.png)
 
-### Step 3: Connect to the First Device from the Second Device
+## Step 3: Connect Your Second Device to the First One
 
 1. Open the app on your second device (where you want to transfer the library).
 2. Ensure both devices are connected to the same Wi-Fi network.
@@ -64,7 +66,7 @@ Tap **Show File** to reveal the backup file in the **Documents** directory. Back
 
 ![Connected to First Device](21260c_3075c7ee8dfb41f6a2496f8be0673d37~mv2.png)
 
-### Step 4: Prepare for File Transfers
+## Step 4: Prepare for File Transfers
 
 1. On the second device, go to **Settings > File Manager** and enable **Save Downloaded Files To - Ask Every Time**.
 
@@ -74,7 +76,7 @@ Tap **Show File** to reveal the backup file in the **Documents** directory. Back
 
 ![Prepare for File Transfers](21260c_fb325a9cc68d419389ee76cd19b821d5~mv2.png)
 
-### Step 5: Transfer Backup and Music Files
+## Step 5: Transfer Backup and Music Files
 
 1. Open the **Backup** folder on the connected WebDAV server.
 
@@ -97,7 +99,7 @@ The goal is to transfer all files from your first device to your current device,
 
 ![Transfer Complete](21260c_352edb4aeb584d53b8646d7bf779de02~mv2.png)
 
-### Step 6: Monitor the Transfer Progress
+## Step 6: Monitor the Transfer Progress
 
 1. On the second device, go to the **Local Files** section (or **Downloads** tab on iPad/Mac).
 
@@ -105,7 +107,7 @@ The goal is to transfer all files from your first device to your current device,
 
 ![Monitor Transfer](21260c_82c35eccb18245fe8e1135ab86532a52~mv2.png)
 
-### Step 7: Restore Data from Backup
+## Step 7: Restore Data from Backup
 
 1. Once the backup file and all needed audio files are downloaded to the second device, open the **Backup** folder.
 
@@ -127,21 +129,10 @@ Check the **Playlists** or **Music Library** sections to verify the restoration.
 
 ![Verify Restoration](21260c_ff3f96fe50f845b392ef24f2de03a794~mv2.png)
 
-### Step 8: Reindex the Music Library
+## Step 8: Reindex the Music Library
 
 1. For best results, reindex your library to ensure all files are successfully detected.
 
 2. Go to **Settings > Music Library > Offline Music Sync** and select **Start Local Folders Scanning**.
 
 By following these steps, you’ll successfully transfer your music library, playlists, and settings to another device. If you encounter any issues, don’t hesitate to reach out for support.
-
-## Tags:
-- [musiclibrary](https://www.everappz.com/blog/tags/musiclibrary)
-- [transfer](https://www.everappz.com/blog/tags/transfer)
-- [wifi](https://www.everappz.com/blog/tags/wifi)
-- [backup](https://www.everappz.com/blog/tags/backup)
-- [webdav](https://www.everappz.com/blog/tags/webdav)
-- [restore](https://www.everappz.com/blog/tags/restore)
-
-## Categories:
-- [How To](https://www.everappz.com/blog/categories/how-to)

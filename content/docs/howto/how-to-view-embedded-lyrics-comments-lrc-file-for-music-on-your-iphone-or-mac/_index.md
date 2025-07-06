@@ -1,60 +1,62 @@
-# How to View Embedded Lyrics, Comments, LRC file for Music on Your iPhone or Mac
-
-**Writer: admin**  
-**Date: Jul 28, 2024**  
-**Updated: Dec 6, 2024**  
-**2 min read**
-
-Discover how to easily view embedded lyrics for your music on your iPhone or Mac using the Evermusic app. Whether it's text, lyrics, comments, or LRC files, this guide will show you step-by-step how to access and enjoy your song lyrics seamlessly.
-
-You can view embedded lyrics for tracks in the Evermusic app by following these steps:
-
-1. Start playing an audio file by tapping on it.
-
-   ![Image](21260c_d2c304fccf1147c5aa25c6c739588d79~mv2.png)
-
-2. Open the full-screen audio player.
-
-   ![Image](21260c_8d67c59984f2433d869fe9b8bb56c7be~mv2.png)
-
-3. Tap the "More Actions" button in the top right corner to see the More Actions menu.
-
-   ![Image](21260c_a5e7b21c26844b21ab966f40313fcfe6~mv2.png)
-
-4. Select the "Comments" menu item.
-
-   ![Image](21260c_1031bd68b3d74f35aef6559ffc44aed4~mv2.png)
-
-5. On the track comments screen, you have three modes that you can change by scrolling to the right: Comments, Embedded Lyrics, and LRC File.
-
-   ![Image](21260c_b1b435feea43489cacc2cd32793dc1e3~mv2.png)
-
-**Modes:**
-
-1. **Comments Mode:** Displays the content from the COMMENT field of your audio file.
-
-2. **Lyrics Mode:** Shows the embedded lyrics from your audio file. If your audio file has lyrics in the tags, they will appear here. This mode also supports timed text in LRC format. To edit the lyrics tag, use an external audio tag editor like Evertag. You can find LRC format lyrics for free on websites like Lyricsify. Copy the needed lyrics to your tags and save them to display later on this screen.
-
-3. **LRC File Mode:** Instead of editing audio files, you can place an LRC file in the same folder as the original audio file. Both files should have the same name but different extensions. When you swipe to the third page on the Comments screen, the app will search for the LRC file in the same directory and display its content.
-
-You can also activate the quick Comments button on the main audio player screen and switch between artwork view, audio player queue view, and comments view by tapping the view mode button at the bottom of the audio player screen.
-
-![Image](21260c_ec5cdb0786f246fe85198cc14564d0ee~mv2.png)
-
-To activate it, open Settings > Audio Player > Personalization. Scroll down to "Buttons on the Main Screen" and select the "Comments" menu item.
-
-![Image](21260c_752ed0cb70114be2be2993819b94f2df~mv2.png)
-
-Now, return to the main audio player screen and tap the audio queue button several times to activate the Comments view.
-
-![Image](21260c_d17d8626b2164614a31d75b96c650ec8~mv2.png)
-
-**In conclusion**, viewing embedded lyrics for your music on your iPhone or Mac is simple with the Evermusic app. Whether you need to access text, lyrics, comments, or LRC files, Evermusic provides a user-friendly way to enjoy your song lyrics. By following the detailed steps outlined above, you can easily navigate through the app to find and view your embedded lyrics. Additionally, enabling the quick Comments button on the main audio player screen enhances your experience, allowing you to switch effortlessly between artwork, audio queue, and comments views. Enjoy a seamless and enriched music experience with Evermusic's versatile features.
-
+---
+title: "How to View Embedded Lyrics, Comments, and LRC Files for Music on Your iPhone or Mac"
+description: "Learn how to view embedded lyrics, comments, and synced LRC files for your songs using the Evermusic app on iPhone or Mac."
+date: 2024-07-28
+readingTime: 2
+tags: ["audio", "iphone", "mp3", "lyrics", "lrc", "embedded", "view", "display"]
+keywords: ["view embedded lyrics iPhone", "Evermusic show lyrics", "LRC file Evermusic", "comment tag audio", "lyrics display Flacbox", "lyrics iOS music app", "audio player show lyrics"]
 ---
 
-**Tags:**  
-[audio](https://www.everappz.com/blog/tags/audio) [iphone](https://www.everappz.com/blog/tags/iphone-1) [mp3](https://www.everappz.com/blog/tags/mp3) [lyrics](https://www.everappz.com/blog/tags/lyrics) [lrc](https://www.everappz.com/blog/tags/lrc) [embedded](https://www.everappz.com/blog/tags/embedded) [view](https://www.everappz.com/blog/tags/view) [display](https://www.everappz.com/blog/tags/display)
+Discover how to easily view embedded lyrics for your music on your iPhone or Mac using the **Evermusic** app. Whether it's text, lyrics, comments, or LRC files, this guide will show you step-by-step how to access and enjoy your song lyrics seamlessly.
 
-**Category:**  
-[How To](https://www.everappz.com/blog/categories/how-to)
+## View Lyrics and Comments in Evermusic
+
+1. Start playing an audio file by tapping on it.  
+{{< figure src="21260c_d2c304fccf1147c5aa25c6c739588d79~mv2.png" width="400" >}}
+
+2. Open the full-screen audio player.  
+{{< figure src="21260c_8d67c59984f2433d869fe9b8bb56c7be~mv2.png" width="400" >}}
+
+3. Tap the **More Actions** button in the top right corner.  
+{{< figure src="21260c_a5e7b21c26844b21ab966f40313fcfe6~mv2.png" width="400" >}}
+
+4. Select the **Comments** menu item.  
+{{< figure src="21260c_1031bd68b3d74f35aef6559ffc44aed4~mv2.png" width="400" >}}
+
+5. On the **Track Comments** screen, swipe to switch between three display modes:
+   - **Comments**
+   - **Embedded Lyrics**
+   - **LRC File**
+
+{{< figure src="21260c_b1b435feea43489cacc2cd32793dc1e3~mv2.png" width="400" >}}
+
+## Understanding the Display Modes
+
+- **Comments Mode**:  
+  Shows the content from the `COMMENT` field of your audio file.
+
+- **Lyrics Mode**:  
+  Displays embedded lyrics from tags. Timed text in LRC format is supported here. To edit lyrics, use a tag editor like **Evertag**. You can also find LRC content at websites like *Lyricsify*, copy it into your tag fields, and view it in this screen.
+
+- **LRC File Mode**:  
+  Instead of tagging the audio file, place a `.lrc` file with the **same filename** in the same folder as the audio file. The app will detect and display it automatically on this screen.
+
+## Enable Quick Comments Access from Audio Player
+
+You can switch between **Artwork**, **Queue**, and **Comments** views using the view toggle on the audio player screen.
+
+{{< figure src="21260c_ec5cdb0786f246fe85198cc14564d0ee~mv2.png" width="400" >}}
+
+1. Go to **Settings > Audio Player > Personalization**
+2. Scroll to **Buttons on the Main Screen**
+3. Enable the **Comments** menu item
+
+{{< figure src="21260c_752ed0cb70114be2be2993819b94f2df~mv2.png" width="400" >}}
+
+Return to the main player and tap the **audio queue button** several times to cycle views and reach the **Comments** screen.
+
+{{< figure src="21260c_d17d8626b2164614a31d75b96c650ec8~mv2.png" width="400" >}}
+
+## Conclusion
+
+Viewing embedded lyrics, comments, or synced `.lrc` files in **Evermusic** is effortless. Whether you're editing tags or using external lyric files, the app makes it convenient to explore your music's metadata and lyrics. For enhanced control, don’t forget to enable the **Quick Comments View** for faster access while listening.

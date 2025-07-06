@@ -11,7 +11,7 @@ We've just let you know a little trick that allows you to play music in the back
 
 ## Download the App
 
-Open App Store and search for the app called [Evermusic](http://bit.ly/everappz_evermusic). Download it for free.
+Open App Store and search for the app called [Evermusic](https://apps.apple.com/app/evermusic-cloud-music-player/id885367198). Download it for free.
 
 {{< figure src="21260c_9430a2a876cf4747b996044a6493696d~mv2.jpg" alt="Evermusic on App Store" width="400" >}}
 

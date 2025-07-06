@@ -1,9 +1,11 @@
-# Soundy: Stream Your Music from SoundCloud to Chromecast
-
-**Writer:** admin  
-**Date:** Dec 17, 2016  
-**Updated:** Jul 16, 2024  
-**Reading Time:** 3 min read
+---
+title: "Soundy: Stream Your Music from SoundCloud to Chromecast"
+description: "Learn how to stream SoundCloud music to Google Chromecast using Soundy for iOS. Discover how to connect your account, manage playlists, use equalizer settings, and enjoy wireless playback on your TV."
+date: 2016-12-17
+readingTime: 3
+tags: ["streaming", "iPhone", "SoundCloud", "GoogleChromecast"]
+keywords: ["SoundCloud Chromecast iOS", "Soundy app SoundCloud", "stream SoundCloud to TV", "Chromecast music player", "SoundCloud equalizer iPhone", "Soundy playlists SoundCloud"]
+---
 
 ![Soundy: Soundcloud and Chromecast](21260c_5e389cfe328f483d9475c1e59e2a4983~mv2.jpeg)
 
@@ -67,8 +69,3 @@ Finally, we'll show you how to stream your SoundCloud music to Chromecast.
 Once the connection is established, your music will start playing on the connected Google Cast device. You can control the Chromecast volume using the volume slider on the Player screen, and you can also switch between songs and use the scrubber on the iPhone's lock screen.
 
 Enjoy streaming your favorite SoundCloud tracks to Chromecast hassle-free with Soundy!
-
----
-
-**Tags:** [streaming](https://www.everappz.com/blog/tags/streaming), [iPhone](https://www.everappz.com/blog/tags/iphone), [SoundCloud](https://www.everappz.com/blog/tags/soundcloud), [GoogleChromecast](https://www.everappz.com/blog/tags/googlechromecast)  
-**Category:** [How To](https://www.everappz.com/blog/categories/how-to)

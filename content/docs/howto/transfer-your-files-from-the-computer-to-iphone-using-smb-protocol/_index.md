@@ -1,9 +1,11 @@
-# Transfer your files from the computer to iPhone using SMB protocol
-
-**Writer:** admin  
-**Date:** Mar 17, 2022  
-**Updated:** Dec 6, 2024  
-**Reading Time:** 3 min read
+---
+title: "Transfer Files from Computer to iPhone Using SMB Protocol"
+description: "Learn how to transfer and access large files from your Mac or Windows PC to your iPhone or iPad using Evermusic and the SMB protocol. A step-by-step guide for seamless streaming and file management."
+date: 2022-03-17
+readingTime: 3
+tags: ["cloud", "streaming", "computer", "mp3", "file", "downloader", "manager", "pc", "mac", "sharing", "windows", "smb"]
+keywords: ["transfer files to iPhone SMB", "stream PC music on iPhone", "connect Mac to iPhone SMB", "Evermusic SMB setup", "access computer files iPhone", "Windows music share iOS", "SMB file transfer Evermusic"]
+---
 
 Do you have an extensive collection of large files on your MAC or PC and wish to access them effortlessly from your iPhone or iPad? Our apps provide a simple solution.
 
@@ -49,7 +51,12 @@ Follow these steps to enable seamless access between your computer and iOS devic
 1. Open the app on your iPhone or iPad.
 2. Go to the "Connections" Tab.
 
-   ![Evermusic Connections Screen](21260c_1b1864a302194414a6ec4dc14f95bfaf~mv2.png)
+   {{< figure
+  src="/21260c_1b1864a302194414a6ec4dc14f95bfaf~mv2.png"
+  alt="Evermusic Connections Screen"
+  caption="Evermusic Connections Screen"
+  width="400"
+>}}
 
 *If Your Computer Appears in "Available Devices" Section:*
 
@@ -60,7 +67,13 @@ If your computer is visible in the "Available devices" section and you selected 
 1. Tap "Connect a cloud service."
 2. Select "SMB" in the "Connect a cloud service" screen.
 
-   ![Evermusic Connect A Cloud Service Screen](21260c_fd5a7b81f9cf427e99ccb0024c0a686c~mv2.jpeg)
+   
+{{< figure
+  src="/21260c_fd5a7b81f9cf427e99ccb0024c0a686c~mv2.jpeg"
+  alt="Evermusic Connect A Cloud Service Screen"
+  caption="Evermusic Connect A Cloud Service Screen"
+  width="400"
+>}}
 
 3. In the "SMB Connect" screen, enter the server URL with the shared folder path. You may use the server name or server IP:
 
@@ -73,18 +86,33 @@ If your computer is visible in the "Available devices" section and you selected 
 4. Enter your Login and Password or leave these fields blank if you selected "Anyone:Read Only" in the previous step.
 5. The "WORKGROUP" field is optional and should be used if you have an Active Directory Domain.
 
-   ![Evermusic SMB Connector Screen](21260c_b6a9a4ad317447768f7f38b41bc07aca~mv2.png)
+  {{< figure
+  src="/21260c_b6a9a4ad317447768f7f38b41bc07aca~mv2.png"
+  alt="Evermusic SMB Connector Screen"
+  caption="Evermusic SMB Connector Screen"
+  width="400"
+>}}
 
 6. Once you've connected your computer using the SMB protocol, it will appear in the "Cloud services" section of the "Connections" screen.
 7. Open the connected service and navigate to the desired folder.
 
-   ![Evermusic Opened SMB Folder](21260c_ed605ed873184662bbc26e75651cc8d8~mv2.png)
+  {{< figure
+  src="/21260c_ed605ed873184662bbc26e75651cc8d8~mv2.png"
+  alt="Evermusic Opened SMB Folder"
+  caption="Evermusic Opened SMB Folder"
+  width="400"
+>}}
 
 8. You can utilize the built-in file manager to edit your files as needed.
 
-   ![Evermusic File Manager](21260c_a514e7cbd5ba43aa9a49646a5cf138b4~mv2.jpeg)
+  {{< figure
+  src="/21260c_a514e7cbd5ba43aa9a49646a5cf138b4~mv2.jpeg"
+  alt="Evermusic File Manager"
+  caption="Evermusic File Manager"
+  width="400"
+>}}
 
-## SMB2 Folders with Special Characters Issue
+## Step 3: SMB2 Folders with Special Characters Workaround
 
 Sometimes you may encounter issues with folders containing special characters when using the SMB2 protocol. Here are some steps you can take to resolve this issue:
 
@@ -106,8 +134,3 @@ By following these steps, you can mitigate the issues with special characters in
 ## Conclusion
 
 With these steps, you can effortlessly access your vast collection of files from your MAC or PC on your iPhone or iPad using our apps.
-
----
-
-**Tags:** cloud, streaming, computer, mp3, file, downloader, manager, pc, mac, sharing, windows, smb  
-**Category:** How To
