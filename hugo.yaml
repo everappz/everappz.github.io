@@ -337,7 +337,7 @@ params:
     type: flexsearch # Search engine type (flexsearch is fast/local).
     flexsearch:
       index: content # What to index: content | title | heading | summary
-      tokenize: full # Tokenization strategy: full | forward | reverse | strict
+      tokenize: forward # Tokenization strategy: full | forward | reverse | strict
 
   editURL:
     enable: true # Show edit-on-GitHub link.
