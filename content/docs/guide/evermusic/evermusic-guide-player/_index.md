@@ -12,13 +12,6 @@ readingTime: 11
 draft: false
 ---
 
-## Author
-![Writer: admin](21260c_a693a1db9b5b41199827fb5e97aa89a1~mv2.png) [admin](https://www.everappz.com/profile/serviceleshko/profile)
-
-- **Date Published:** Jan 1, 2020
-- **Updated:** Dec 8, 2024
-- **Reading Time:** 11 min read
-
 ## Introduction
 
 The Player is the main application screen where you can control the player queue and playback features such as the equalizer, sleep timer, audio bookmarks, and more. Let’s take a closer look at how to navigate and utilize these functions.
