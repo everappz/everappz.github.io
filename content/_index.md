@@ -55,6 +55,7 @@ headless: false
 <canvas id="stars"></canvas>
 
 <script>
+  let speedMultiplier = 1; // base speed
   const canvas = document.getElementById("stars");
   const ctx = canvas.getContext("2d");
 
@@ -85,7 +86,7 @@ headless: false
       ctx.arc(star.x, star.y, star.radius, 0, Math.PI * 2);
       ctx.fill();
 
-      star.y += star.velocity;
+      star.y += star.velocity * speedMultiplier;
       if (star.y > h) {
         star.y = 0;
         star.x = Math.random() * w;
@@ -162,6 +163,7 @@ headless: false
 
     rocket.addEventListener('click', () => {
       rocket.classList.add('rocket-launch');
+      speedMultiplier = 20;
 
       setTimeout(() => {
         rocket.classList.remove('rocket-launch');
@@ -170,6 +172,7 @@ headless: false
 
       rocket.addEventListener('animationend', () => {
         rocket.classList.remove('rocket-return');
+        speedMultiplier = 1;
       }, { once: true });
     });
   });
