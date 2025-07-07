@@ -406,14 +406,21 @@ document.addEventListener("DOMContentLoaded", function () {
 
     const sortedResults = results
       .sort((a, b) => {
+        // Custom boost for /docs folder
+        const aIsDocs = a.route.includes('/docs/');
+        const bIsDocs = b.route.includes('/docs/');
+        if (aIsDocs !== bIsDocs) {
+          return bIsDocs - aIsDocs; // true > false => sort /docs/ on top
+        }
+
         // Sort by number of matches in the title.
         if (a._page_rk === b._page_rk) {
-          return a._section_rk - b._section_rk
+          return a._section_rk - b._section_rk;
         }
         if (pageTitleMatches[a._page_rk] !== pageTitleMatches[b._page_rk]) {
-          return (pageTitleMatches[b._page_rk] || 0) - (pageTitleMatches[a._page_rk] || 0)
+          return (pageTitleMatches[b._page_rk] || 0) - (pageTitleMatches[a._page_rk] || 0);
         }
-        return a._page_rk - b._page_rk
+        return a._page_rk - b._page_rk;
       })
       .map(res => ({
         id: `${res._page_rk}_${res._section_rk}`,
