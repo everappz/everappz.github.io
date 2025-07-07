@@ -8,11 +8,6 @@ enableRobotsTXT: true # Generates a robots.txt file for web crawlers.
 enableGitInfo: true # Enables Git commit metadata (e.g., last updated).
 hasCJKLanguage: true # Enables better word segmentation for CJK (Chinese/Japanese/Korean) languages.
 
-outputs:
-  home: ["HTML", "RSS", "JSON"]
-  page: ["HTML", "RSS", "JSON"]
-  section: ["HTML", "RSS", "JSON"]
-
 # MULTILINGUAL SUPPORT
 defaultContentLanguage: en # Default language to use if none is selected.
 languages:
@@ -337,7 +332,7 @@ params:
     type: flexsearch # Search engine type (flexsearch is fast/local).
     flexsearch:
       index: content # What to index: content | title | heading | summary
-      tokenize: full # Tokenization strategy: full | forward | reverse | strict
+      tokenize: forward # Tokenization strategy: full | forward | reverse | strict
 
   editURL:
     enable: true # Show edit-on-GitHub link.
