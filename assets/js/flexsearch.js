@@ -315,7 +315,7 @@ document.addEventListener("DOMContentLoaded", function () {
       return;
     }
 
-    console.debug(`[Search] Starting search for query: "${query}"`);
+    // console.debug(`[Search] Starting search for query: "${query}"`);
 
     const { resultsElement } = getActiveSearchElement();
     while (resultsElement.firstChild) {
@@ -324,7 +324,7 @@ document.addEventListener("DOMContentLoaded", function () {
     resultsElement.classList.remove('hx:hidden');
 
     const pageResults = window.pageIndex.search(query, 5, { enrich: true, suggest: true })[0]?.result || [];
-    console.debug(`[Search] Found ${pageResults.length} pageResults`);
+    // console.debug(`[Search] Found ${pageResults.length} pageResults`);
 
     const results = [];
     const pageTitleMatches = {};
@@ -337,7 +337,7 @@ document.addEventListener("DOMContentLoaded", function () {
 
       // Show the top 5 results for each page
       const sectionResults = window.sectionIndex.search(query, 5, { enrich: true, suggest: true, tag: { 'pageId': `page_${result.id}` } })[0]?.result || [];
-      console.debug(`[Search] Page[${i}] "${result.doc.title}" has ${sectionResults.length} sectionResults`);
+      // console.debug(`[Search] Page[${i}] "${result.doc.title}" has ${sectionResults.length} sectionResults`);
 
       let isFirstItemOfPage = true
 
@@ -351,7 +351,7 @@ document.addEventListener("DOMContentLoaded", function () {
           prefix: crumb,
           children: { title, content }
         });
-        console.debug(`[Search] Fallback: added page "${title}" url "${url}" to results`);
+        // console.debug(`[Search] Fallback: added page "${title}" url "${url}" to results`);
         continue;
       }
 
@@ -383,7 +383,7 @@ document.addEventListener("DOMContentLoaded", function () {
       suggest: true
     })[0]?.result || [];
 
-    console.debug(`[Search] Global sectionIndex search found ${globalSections.length} results`);
+    // console.debug(`[Search] Global sectionIndex search found ${globalSections.length} results`);
 
     for (let j = 0; j < globalSections.length; j++) {
       const { doc } = globalSections[j];
@@ -402,7 +402,7 @@ document.addEventListener("DOMContentLoaded", function () {
       });
     }
 
-    console.debug(`[Search] Total deduplicated results before sorting: ${results.length}`);
+    // console.debug(`[Search] Total deduplicated results before sorting: ${results.length}`);
 
     const sortedResults = results
       .sort((a, b) => {
@@ -422,7 +422,7 @@ document.addEventListener("DOMContentLoaded", function () {
         children: res.children
       }));
 
-    console.debug(`[Search] Final sortedResults ready to render:`, sortedResults);
+    // console.debug(`[Search] Final sortedResults ready to render:`, sortedResults);
 
     displayResults(sortedResults, query);
   }
