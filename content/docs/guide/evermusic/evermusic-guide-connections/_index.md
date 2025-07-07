@@ -1,15 +1,20 @@
-# Evermusic Guide: Connections
-
-**Writer:** admin  
-**Date:** Jan 1, 2020  
-**Updated:** Dec 8, 2024  
-**Reading Time:** 11 min read
-
+---
+title: "Connections"
+date: 2020-01-01
+description: "Learn how to connect cloud services, computers, NAS devices, and manage your music files using Evermusic. Step-by-step guide to Wi-Fi Drive, SMB, DLNA, WebDAV, iTunes File Sharing, and more."
+keywords: [
+  "Evermusic", "cloud music player", "NAS streaming", "Wi-Fi Drive", 
+  "SMB", "WebDAV", "DLNA", "iTunes File Sharing", 
+  "connect cloud storage", "music transfer iPhone", "file manager iOS"
+]
+tags: ["evermusic", "guide", "connections"]
+readingTime: 11
+draft: false
 ---
 
-On this screen, you can connect various sources containing your music. You can integrate popular cloud services like Dropbox, Google Drive, and others, as well as connect your Mac or PC. Additionally, you have the option to import music from Apple Time Capsule or WD Cloud Mirror.
+On this screen, you can connect various sources containing your music. You can integrate popular cloud services like Dropbox, Google Drive, and others, as well as connect your Mac or PC. Additionally, you have the option to import music from Apple Time Capsule or WD Cloud Home.
 
-**To connect a cloud service:**
+## Connect to cloud service
 
 - Open the 'Connections' tab
 - Select 'Connect a cloud service' from the menu
@@ -183,8 +188,3 @@ For each folder in your cloud storage, you have various actions available. To ac
 - **Delete**: Be cautious with this action as it permanently removes the folder and its contents from your cloud storage. This action cannot be undone.
 
 ![Folder actions](21260c_3431f1c4b12d41c78f9c5be7b348b2e3~mv2.png)
-
----
-
-**Tags:** [evermusic](https://www.everappz.com/blog/tags/evermusic), [guide](https://www.everappz.com/blog/tags/guide), [connections](https://www.everappz.com/blog/tags/connections)  
-**Category:** [Guide](https://www.everappz.com/blog/categories/guide)

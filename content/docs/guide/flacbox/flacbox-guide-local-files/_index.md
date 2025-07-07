@@ -1,9 +1,17 @@
-# Flacbox Guide: Local Files
-
-**Writer:** admin  
-**Date:** Feb 1, 2020  
-**Updated:** Dec 8, 2024  
-**Reading Time:** 6 min read
+---
+title: "Local Files"
+date: 2020-02-01
+draft: false
+description: "Learn how to manage offline music with Flacbox using the Local Files section. Import files from cloud, USB, iTunes, or Wi-Fi, and organize your downloaded music with the built-in file manager."
+keywords: [
+  "Flacbox local files", "offline music manager", "download from cloud iPhone",
+  "Wi-Fi Drive music transfer", "iTunes File Sharing", "import music iPhone",
+  "USB flash music iOS", "offline folders Flacbox", "file manager music app",
+  "Flacbox offline mode"
+]
+tags: ["guide", "flacbox", "local files"]
+readingTime: 6
+---
 
 The Local Files section serves as a central hub for overseeing files located in the app's "Documents" folder and those added from your device, which are accessible for offline playback.
 
@@ -116,6 +124,3 @@ By opening application Settings and going to Personalization, you can configure 
 - Grouped menu: Shows screen content grouped by categories.
 
 ![options menu for offline folder](21260c_73869fb481b2417289e00e0d9d77f675~mv2.png)
-
-**Tags:** [guide](https://www.everappz.com/blog/tags/guide), [flacbox](https://www.everappz.com/blog/tags/flacbox), [local files](https://www.everappz.com/blog/tags/local-files)  
-**Category:** [Guide](https://www.everappz.com/blog/categories/guide)

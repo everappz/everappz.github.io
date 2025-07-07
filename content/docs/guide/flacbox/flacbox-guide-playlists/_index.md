@@ -1,9 +1,17 @@
-# Flacbox Guide: Playlists
-
-**Writer:** admin  
-**Date:** Feb 1, 2020  
-**Updated:** Dec 8, 2024  
-**Reading Time:** 6 min read
+---
+title: "Playlists"
+date: 2020-02-01
+draft: false
+description: "Learn how to create, import, manage, and customize playlists in Flacbox. This guide explains playlist actions, importing M3U/CUE files, editing order, removing tracks, and adjusting artwork."
+keywords: [
+  "Flacbox playlists", "import M3U playlist", "playlist manager", 
+  "create playlist iPhone", "audio playlists Flacbox", 
+  "custom playlist image", "delete songs from playlist", 
+  "sort playlist Flacbox", "VoiceOver playlist reorder"
+]
+tags: ["guide", "flacbox", "playlists"]
+readingTime: 6
+---
 
 ## Introduction
 

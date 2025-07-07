@@ -1,4 +1,16 @@
-# Evermusic Guide: Player
+---
+title: "Audio Player"
+date: 2020-01-01
+description: "Learn how to control playback, manage the player queue, use the equalizer, AirPlay, Google Cast, audio bookmarks, and more in Evermusic."
+keywords: [
+  "Evermusic", "player", "audio player", "queue control",
+  "equalizer", "sleep timer", "Google Cast", "AirPlay",
+  "audio bookmarks", "music player features", "LRC lyrics"
+]
+tags: ["evermusic", "guide", "player"]
+readingTime: 11
+draft: false
+---
 
 ## Author
 ![Writer: admin](21260c_a693a1db9b5b41199827fb5e97aa89a1~mv2.png) [admin](https://www.everappz.com/profile/serviceleshko/profile)
@@ -130,13 +142,3 @@ To access audio player settings, tap the More button on the audio player screen 
 Songs in the audio player queue will be downloaded automatically for smooth playback. If you download audio files manually, you can disable this option to avoid duplicates. You can also configure the audio player cache size here.
 
 ![audio player cache settings screen](21260c_beb32b8ff5ff408d8ac7d2d2a0d0e4c9~mv2.png)
-
-## Tags
-
-- [evermusic](https://www.everappz.com/blog/tags/evermusic)
-- [guide](https://www.everappz.com/blog/tags/guide)
-- [player](https://www.everappz.com/blog/tags/player)
-
-## Categories
-
-- [Guide](https://www.everappz.com/blog/categories/guide)

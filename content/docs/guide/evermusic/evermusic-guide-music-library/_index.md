@@ -1,4 +1,16 @@
-# Evermusic Guide: Music Library
+---
+title: "Music Library"
+date: 2020-01-01
+description: "Learn how to manage your Evermusic library: add tracks, sync cloud and offline music, edit metadata, group songs by tags, and personalize your music experience."
+keywords: [
+  "Evermusic", "music library", "audio tags", "metadata reader", 
+  "offline music", "cloud sync", "album covers", 
+  "playlists", "favorites", "iTunes library"
+]
+tags: ["evermusic", "guide", "music", "library"]
+readingTime: 11
+draft: false
+---
 
 ![Add music](21260c_c716bca4d7304a1fb98f94b57f362950~mv2.png)
 

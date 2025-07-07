@@ -1,10 +1,17 @@
-# Flacbox Guide: Settings
-
-## Writer: admin
-
-- **Date:** Feb 1, 2020
-- **Updated:** Dec 8, 2024
-- **Read Time:** 14 min read
+---
+title: "Settings"
+date: 2020-02-01
+draft: false
+description: "Explore every setting in Flacbox, from playback preferences and equalizer tweaks to metadata sync, playlist control, file transfers, UI customization, and Premium upgrade steps."
+keywords: [
+  "Flacbox settings", "audio player configuration", "premium upgrade Flacbox",
+  "WiFi drive", "metadata synchronization", "equalizer", "playback speed", 
+  "playlist duplicates", "file manager settings", "offline music sync", 
+  "audio tags editor", "dark mode", "restore purchases", "backup settings"
+]
+tags: ["guide", "flacbox", "settings"]
+readingTime: 14
+---
 
 On this screen, you can access the application settings and upgrade it to the Premium version.
 
@@ -302,9 +309,3 @@ Access the application guide for assistance and guidance on using the app effect
 **Frequently Asked Questions**
 
 Find answers to common questions in the FAQ section.
-
----
-
-**Tags:** [guide](https://www.everappz.com/blog/tags/guide), [flacbox](https://www.everappz.com/blog/tags/flacbox), [settings](https://www.everappz.com/blog/tags/_settings)
-
-**Categories:** [Guide](https://www.everappz.com/blog/categories/guide)

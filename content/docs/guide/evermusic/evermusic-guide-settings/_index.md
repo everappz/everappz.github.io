@@ -1,10 +1,17 @@
-# Evermusic Guide: Settings
-
-**Writer:** admin  
-**Date:** Jan 1, 2020  
-**Updated:** Dec 8, 2024  
-**Read Time:** 14 min read
-
+---
+title: "Settings"
+date: 2020-01-01
+description: "Explore all settings in Evermusic including audio configuration, music library sync, offline folders, metadata, personalization, accessibility, and backup options."
+keywords: [
+  "Evermusic", "settings", "audio settings", "music library sync",
+  "offline folders", "equalizer", "crossfade", "gapless playback",
+  "audio processor", "playlist settings", "premium upgrade", 
+  "restore purchases", "file manager", "tags editor", "WiFi drive",
+  "voiceover", "app backup", "accessibility", "localization"
+]
+tags: ["evermusic", "guide", "settings"]
+readingTime: 14
+draft: false
 ---
 
 On this screen, you can access the application settings and upgrade it to the Premium version.

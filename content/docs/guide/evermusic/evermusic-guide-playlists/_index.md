@@ -1,9 +1,16 @@
-# Evermusic Guide: Playlists
-
-**Writer:** admin  
-**Date:** Jan 1, 2020  
-**Updated:** Dec 8, 2024  
-**Reading Time:** 6 min read  
+---
+title: "Playlists"
+date: 2020-01-01
+description: "Learn how to create, import, customize, and manage playlists in Evermusic. Includes detailed steps for editing, sorting, offline mode, and accessibility."
+keywords: [
+  "Evermusic", "playlists", "playlist management", "import M3U playlist",
+  "edit playlist", "offline playlist", "change playlist order", "playlist cover",
+  "playlist accessibility", "audio player"
+]
+tags: ["evermusic", "guide", "playlists"]
+readingTime: 6
+draft: false
+---
 
 ## Overview
 
@@ -158,13 +165,3 @@ For adjusting track position in a playlist with VoiceOver:
 5. Now, you can move the cell to a new position.
 
 Other components work as expected, using system-provided VoiceOver patterns.
-
-## Tags
-
-- [evermusic](https://www.everappz.com/blog/tags/evermusic)
-- [guide](https://www.everappz.com/blog/tags/guide)
-- [playlists](https://www.everappz.com/blog/tags/playlists)
-
-## Categories
-
-- [Guide](https://www.everappz.com/blog/categories/guide)

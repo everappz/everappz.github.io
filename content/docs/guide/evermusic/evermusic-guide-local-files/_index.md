@@ -1,9 +1,16 @@
-# Evermusic Guide: Local Files
-
-**Writer:** admin  
-**Date:** Jan 1, 2020  
-**Updated:** Dec 8, 2024  
-**Reading Time:** 6 min read
+---
+title: "Local Files"
+date: 2020-01-01
+description: "Master the Local Files section in Evermusic. Learn how to import, edit, organize, and access offline files using USB drives, iTunes sharing, Wi-Fi Drive, and cloud downloads."
+keywords: [
+  "Evermusic", "local files", "offline playback", "file manager", 
+  "USB flash drive", "Wi-Fi Drive", "iTunes file sharing", 
+  "audio file editing", "offline folders", "import music iPhone"
+]
+tags: ["evermusic", "guide", "files", "local"]
+readingTime: 6
+draft: false
+---
 
 ## Introduction
 
@@ -176,14 +183,3 @@ By opening the application Settings and going to Personalization, you can config
 - **Grouped menu:** Shows screen content grouped by categories.
 
 ![options menu for offline folder](21260c_73869fb481b2417289e00e0d9d77f675~mv2.png)
-
-## Tags
-
-- [evermusic](https://www.everappz.com/blog/tags/evermusic)
-- [guide](https://www.everappz.com/blog/tags/guide)
-- [files](https://www.everappz.com/blog/tags/files)
-- [local](https://www.everappz.com/blog/tags/local)
-
-## Categories
-
-- [Guide](https://www.everappz.com/blog/categories/guide)

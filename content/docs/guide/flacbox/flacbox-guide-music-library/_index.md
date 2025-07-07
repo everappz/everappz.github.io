@@ -1,9 +1,16 @@
-# Flacbox Guide: Music Library
-
-**Writer:** admin  
-**Date:** Feb 1, 2020  
-**Updated:** Dec 8, 2024  
-**Reading Time:** 10 min read
+---
+title: "Music Library"
+date: 2020-02-01
+draft: false
+description: "Learn how to build, organize, and sync your music library in Flacbox. Add tracks manually or sync from cloud services, manage metadata, album covers, playlists, and personalize your music experience."
+keywords: [
+  "Flacbox music library", "sync music from cloud", "organize music metadata",
+  "edit audio tags", "offline music sync", "import local music", "Flacbox playlist management",
+  "album art search", "iPhone music metadata", "Flacbox app guide"
+]
+tags: ["music", "guide", "flacbox", "library"]
+readingTime: 10
+---
 
 ## Easy Music Library Management:
 Effortlessly organize your music library. You have two options for building your collection: manual addition or automatic synchronization.
@@ -234,12 +241,3 @@ When you open the Artist, Album Artist, or Composer sections, you can see a swit
 - **All Albums:** Shows compilation albums and all albums where the artist is present.
 - **Exclusive Albums:** Shows albums where the specified artist is the only artist with that album name.
 - **Solo Albums:** Shows albums where only the specified artist’s tracks are displayed, even if other artists have albums with the same name.
-
-## Tags:
-- [music](https://www.everappz.com/blog/tags/music)
-- [guide](https://www.everappz.com/blog/tags/guide)
-- [flacbox](https://www.everappz.com/blog/tags/flacbox)
-- [library](https://www.everappz.com/blog/tags/library)
-
-## Category:
-- [Guide](https://www.everappz.com/blog/categories/guide)

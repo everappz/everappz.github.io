@@ -1,10 +1,15 @@
-# Flacbox Guide: Connections
-
-**Writer:** admin  
-**Date:** Feb 1, 2020  
-**Updated:** Dec 8, 2024  
-**Read Time:** 11 min read
-
+---
+title: "Connections"
+date: 2020-02-01
+draft: false
+description: "Learn how to connect cloud services, NAS, and your computer to Flacbox. Stream music from iCloud, Dropbox, Google Drive, and more. Use SMB, WebDAV, DLNA, Wi-Fi Drive, and iTunes File Sharing."
+keywords: [
+  "Flacbox cloud setup", "connect Google Drive to Flacbox", "SMB music streaming", 
+  "WebDAV iOS player", "DLNA music app", "NAS audio streaming", "Wi-Fi Drive iPhone", 
+  "transfer files to iPhone", "Flacbox iTunes File Sharing", "connect NAS to iPhone"
+]
+tags: ["guide", "flacbox", "connections"]
+readingTime: 11
 ---
 
 This screen is where you link up different sources for your music. You can bring in popular cloud services like iCloud Drive, Dropbox, Google Drive, OneDrive, or even connect your Mac or PC. Additionally, you can import music from Apple Time Capsule, NAS, Synology, or WD Cloud Mirror.
@@ -164,8 +169,3 @@ For folders within your cloud storage, you have multiple actions available. To a
 - **Rename:** Rename the folder directly on the remote storage.
 - **Move:** Relocate the folder to a different location within your cloud storage.
 - **Delete:** Be cautious with this action as it permanently removes the folder and its contents from your cloud storage. This action cannot be undone.
-
----
-
-**Tags:** [guide](https://www.everappz.com/blog/tags/guide), [flacbox](https://www.everappz.com/blog/tags/flacbox), [connections](https://www.everappz.com/blog/tags/connections)  
-**Category:** [Guide](https://www.everappz.com/blog/categories/guide)

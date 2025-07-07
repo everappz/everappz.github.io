@@ -1,9 +1,16 @@
-# Flacbox Guide: Navigation
-
-**Writer:** admin  
-**Date:** Feb 1, 2020  
-**Updated:** Dec 8, 2024  
-**Read Time:** 3 min read
+---
+title: "Flacbox Guide: Navigation"
+date: 2020-02-01
+draft: false
+description: "Learn how to navigate the Flacbox interface on iPhone, iPad, and Mac. This guide covers Music Library, Local Files, Playlists, Settings, the mini player, top toolbar, and VoiceOver accessibility features."
+keywords: [
+  "Flacbox navigation", "Flacbox interface", "music player UI", "mini player iOS Mac",
+  "file manager music app", "cloud music folders", "audio library tabs", 
+  "continue playback Flacbox", "VoiceOver music app", "Flacbox accessibility"
+]
+tags: ["guide", "flacbox", "navigation"]
+readingTime: 3
+---
 
 Flacbox stands out with its user-friendly interface, akin to the native Music app. What sets it apart is its built-in file manager, allowing audio file editing and seamless cloud storage transfers.
 
@@ -100,8 +107,3 @@ For adjusting track position in a playlist with VoiceOver:
 5. Now, you can move the cell to a new position.
 
 Other components work as expected, using system-provided VoiceOver patterns.
-
----
-
-**Tags:** [guide](https://www.everappz.com/blog/tags/guide), [flacbox](https://www.everappz.com/blog/tags/flacbox), [navigation](https://www.everappz.com/blog/tags/navigation)  
-**Category:** [Guide](https://www.everappz.com/blog/categories/guide)

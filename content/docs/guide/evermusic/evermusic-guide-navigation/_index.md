@@ -1,9 +1,16 @@
-# Evermusic Guide: Navigation
-
-**Writer:** admin  
-**Date:** Jan 1, 2020  
-**Updated:** Dec 8, 2024  
-**Reading Time:** 4 min read
+---
+title: "Navigation"
+date: 2020-01-01
+description: "Discover how to navigate Evermusic on iPhone, iPad, and Mac. Learn about the tab bar, mini player, context menus, and accessibility features with VoiceOver support."
+keywords: [
+  "Evermusic", "navigation", "VoiceOver", "mini player", 
+  "tab bar", "mac audio player", "context menu", 
+  "file manager", "music app UI", "audio accessibility"
+]
+tags: ["evermusic", "guide", "navigation"]
+readingTime: 4
+draft: false
+---
 
 Evermusic offers an intuitive user interface that closely resembles the native Music app. What sets it apart from many popular music apps is its built-in file manager, giving users the power to edit audio files and seamlessly transfer them to and from cloud storage.
 
@@ -72,8 +79,3 @@ For adjusting track position in a playlist with VoiceOver:
 5. Now, you can move the cell to a new position.
 
 Other components work as expected, using system-provided VoiceOver patterns.
-
----
-
-**Tags:** [evermusic](https://www.everappz.com/blog/tags/evermusic), [guide](https://www.everappz.com/blog/tags/guide), [navigation](https://www.everappz.com/blog/tags/navigation)  
-**Category:** [Guide](https://www.everappz.com/blog/categories/guide)
