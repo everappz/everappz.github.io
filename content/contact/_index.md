@@ -4,9 +4,7 @@ draft: false
 title: 'Contact Us'
 ---
 
-{{< lottie src="/images/juicy-json/juicy-man-delivers-a-parcel-on-a-scooter.json" width="90%" >}}
-
-Don’t hesitate to reach out with any questions.
+{{< lottie src="/images/juicy-json/juicy-girl-typing-on-phone.json" width="60%" >}}
 
 ## Postal Address
 
