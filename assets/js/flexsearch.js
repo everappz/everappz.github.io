@@ -209,7 +209,7 @@ document.addEventListener("DOMContentLoaded", function () {
       cache: 100,
       document: {
         id: 'id',
-        store: ['title', 'crumb'],
+        store: ['title', 'content', 'url', 'display', 'crumb'],
         index: "content"
       }
     });
@@ -291,8 +291,11 @@ document.addEventListener("DOMContentLoaded", function () {
         pageContent += ` ${title} ${content}`;
       }
 
+      const url = route.trimEnd('/') + '';
+
       window.pageIndex.add({
         id: pageId,
+        url,
         title: data[route].title,
         crumb,
         content: pageContent
@@ -312,6 +315,8 @@ document.addEventListener("DOMContentLoaded", function () {
       return;
     }
 
+    console.debug(`[Search] Starting search for query: "${query}"`);
+
     const { resultsElement } = getActiveSearchElement();
     while (resultsElement.firstChild) {
       resultsElement.removeChild(resultsElement.firstChild);
@@ -319,18 +324,36 @@ document.addEventListener("DOMContentLoaded", function () {
     resultsElement.classList.remove('hx:hidden');
 
     const pageResults = window.pageIndex.search(query, 5, { enrich: true, suggest: true })[0]?.result || [];
+    console.debug(`[Search] Found ${pageResults.length} pageResults`);
 
     const results = [];
     const pageTitleMatches = {};
+    const occurred = {}; // Shared deduplication map
 
+    // === 1. Primary: per-page scoped section search ===
     for (let i = 0; i < pageResults.length; i++) {
       const result = pageResults[i];
       pageTitleMatches[i] = 0;
 
       // Show the top 5 results for each page
       const sectionResults = window.sectionIndex.search(query, 5, { enrich: true, suggest: true, tag: { 'pageId': `page_${result.id}` } })[0]?.result || [];
+      console.debug(`[Search] Page[${i}] "${result.doc.title}" has ${sectionResults.length} sectionResults`);
+
       let isFirstItemOfPage = true
-      const occurred = {}
+
+      // fallback: add page-level result manually
+      if (sectionResults.length === 0) {
+        const { id, url, title, crumb, content} = result.doc;
+        results.push({
+          _page_rk: i,
+          _section_rk: 0,
+          route: url,
+          prefix: crumb,
+          children: { title, content }
+        });
+        console.debug(`[Search] Fallback: added page "${title}" url "${url}" to results`);
+        continue;
+      }
 
       for (let j = 0; j < sectionResults.length; j++) {
         const { doc } = sectionResults[j]
@@ -353,6 +376,34 @@ document.addEventListener("DOMContentLoaded", function () {
         isFirstItemOfPage = false
       }
     }
+
+    // === 2. Secondary: global section search (outside top pages) ===
+    const globalSections = window.sectionIndex.search(query, 10, {
+      enrich: true,
+      suggest: true
+    })[0]?.result || [];
+
+    console.debug(`[Search] Global sectionIndex search found ${globalSections.length} results`);
+
+    for (let j = 0; j < globalSections.length; j++) {
+      const { doc } = globalSections[j];
+      const { url, title, content, crumb } = doc;
+      const display = doc.display || content;
+
+      if (occurred[url + '@' + display]) continue;
+      occurred[url + '@' + display] = true;
+
+      results.push({
+        _page_rk: 999, // rank later
+        _section_rk: j + 1000,
+        route: url,
+        prefix: crumb,
+        children: { title, content: display }
+      });
+    }
+
+    console.debug(`[Search] Total deduplicated results before sorting: ${results.length}`);
+
     const sortedResults = results
       .sort((a, b) => {
         // Sort by number of matches in the title.
@@ -360,7 +411,7 @@ document.addEventListener("DOMContentLoaded", function () {
           return a._section_rk - b._section_rk
         }
         if (pageTitleMatches[a._page_rk] !== pageTitleMatches[b._page_rk]) {
-          return pageTitleMatches[b._page_rk] - pageTitleMatches[a._page_rk]
+          return (pageTitleMatches[b._page_rk] || 0) - (pageTitleMatches[a._page_rk] || 0)
         }
         return a._page_rk - b._page_rk
       })
@@ -370,6 +421,9 @@ document.addEventListener("DOMContentLoaded", function () {
         prefix: res.prefix,
         children: res.children
       }));
+
+    console.debug(`[Search] Final sortedResults ready to render:`, sortedResults);
+
     displayResults(sortedResults, query);
   }
 

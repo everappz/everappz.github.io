@@ -9,13 +9,44 @@
 {{- $pages = where $pages "Params.excludeSearch" "!=" true -}}
 {{- $pages = where $pages "Content" "!=" "" -}}
 
+{{ warnf "--- DEBUG: Indexed Pages Start ---" }}
+{{ range $i, $p := $pages }}
+  {{ warnf "Page #%d: (Kind: %s, Path: %s, Title: %s)" $i $p.Kind $p.File.Path $p.Title}}
+{{ end }}
+{{ warnf "--- DEBUG: Indexed Pages End ---" }}
+
 {{- $output := dict -}}
 
 {{- range $index, $page := $pages -}}
   {{- $pageTitle := $page.LinkTitle | default $page.File.BaseFileName -}}
   {{- $pageLink := $page.RelPermalink -}}
   {{- $data := partial "utils/fragments" (dict "context" $page "type" $indexType) -}}
+
+  {{ warnf "Indexed page: %s (%s)\n  Kind: %s\n  Path: %s\n  Params: %v\n  Content Length: %d\n Content: %s" 
+    $pageTitle 
+    $pageLink 
+    $page.Kind 
+    $page.File.Path 
+    $page.Params 
+    (len $page.Content)
+    $page.Content  
+  }}
+
   {{- $output = $output | merge (dict $pageLink (dict "title" $pageTitle "data" $data)) -}}
 {{- end -}}
 
-{{- $output | jsonify -}}
+{{ warnf "--- DEBUG: Final Output Dictionary ---" }}
+{{ range $k, $v := $output }}
+  {{ warnf "Key: %s | Title: %s | Data: %v" $k (index $v "title") (index $v "data") }}
+{{ end }}
+{{ warnf "--- DEBUG: Final Output End ---" }}
+
+{{- $json := $output | jsonify -}}
+
+
+{{ warnf "--- DEBUG: JSON Output ---" }}
+{{ warnf "%s" $json }}
+{{ warnf "--- DEBUG: JSON Output End ---" }}
+
+
+{{- $json -}}
