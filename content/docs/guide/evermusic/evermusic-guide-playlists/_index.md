@@ -26,16 +26,10 @@ To create a new playlist, either tap the "+" button or the "..." button in the t
 
 This prompts the "Add songs" dialog, where you can choose which tracks to add to the new playlist. Tracks are categorized by source type, and you have several options:
 
-### Music library
-- Tracks from your music library.
-
-### Local files
-- All audio files available for offline playback (you can add local files by downloading them from cloud storage, importing them from WiFi Drive, or using iTunes File Sharing).
-
-### Connections
-- All online files located in connected cloud services.
-
-![Add songs dialog](21260c_4773cf56e2574c018a68edac9f18fc0b~mv2.png)
+- **Library**: Tracks from your music library.
+- **Files in This Application**: Audio files stored in the app’s Documents directory.
+- **Files on This iPhone/iPad/Mac**: Audio files located in other folders on your device, outside the app.
+- **Connections**: Online files stored in connected cloud storage services.
 
 By default, you can add a track to a playlist only once. To allow duplicated songs in a playlist, enable this feature in the app Settings - Music library - Playlists - Duplicates in a playlist - Enable.
 
@@ -61,21 +55,15 @@ The app will parse the playlist file, create a list of tracks, and locate those 
 
 ## Playlist Detail Screen
 
-When you open a playlist, the "Playlist detail screen" appears. On this screen, you'll find a "..." button in the top right corner with playlist options and three buttons under the artwork image: "Search," "Continue playback," "Play all," and "Shuffle all." Additionally, there's an "Offline mode" checkbox.
+When you open a playlist, the "Playlist detail screen" appears. On this screen, you'll find a "..." button in the top right corner with playlist options and three buttons under the artwork image: "Search," "Continue playback", "Play all," and "Shuffle all." Additionally, there's an "Offline mode" checkbox.
 
 ![Playlist Detail Screen](21260c_78b94d51d1de40da8ecdd25bb7ed1562~mv2.png)
 
-### Search
-Perform a search within the current playlist.
-
-### Play all
-Add all tracks from the current playlist to the player queue.
-
-### Shuffle All
-Similar to "Play all," but shuffles the tracks before adding them to the audio player queue.
-
-### Offline mode
-Download all tracks from this playlist to local files. Any new items added to the playlist will be automatically downloaded.
+- **Continue playback**: Restore playback position for this playlist.
+- **Search**: Perform a search within the current playlist.
+- **Play all**: Add all tracks from the current playlist to the player queue.
+- **Shuffle All**: Similar to "Play all," but shuffles the tracks before adding them to the audio player queue.
+- **Offline mode**: Download all tracks from this playlist to local files. Any new items added to the playlist will be automatically downloaded.
 
 ## More Actions for Playlist in the Playlists Screen
 
@@ -84,8 +72,10 @@ You can access actions for a playlist by tapping the "..." button near the playl
 - **Play all:** Adds playlist tracks to the new player queue.
 - **Play next:** Adds playlist tracks to the top of the existing player queue.
 - **Play later:** Adds playlist tracks to the bottom of the existing player queue.
-- **Enable offline mode:** Enables offline mode for the playlist. In this scenario, both existing and new tracks will be downloaded automatically.
 - **Edit image:** Edit the playlist's artwork image.
+- **Enable offline mode:** Enables offline mode for the playlist. In this scenario, both existing and new tracks will be downloaded automatically. Read more about offline mode [here](https://www.everappz.com/post/play-offline-music-in-evermusic-flacbox-download-sync-from-cloud-to-local-files).
+- **Export songs list:** You can export this playlist to different formats as described [here](https://www.everappz.com/post/export-tracks-collection-from-evermusic-flacbox-to-m3u-csv-txt).
+- **Add to archive:** You can archive this playlist including m3u file, album cover, and all tracks as described [here](https://www.everappz.com/post/how-to-archive-zip-playlists-albums-artists-and-genres-in-evermusic-flacbox-and-transfer-to).
 - **Add songs:** Add more songs to the current playlist.
 - **Rename:** Rename the playlist.
 - **Delete playlist:** Delete the playlist from the Music library. Please note that this action cannot be undone.
@@ -101,13 +91,14 @@ You can access actions for a playlist by tapping the "..." button in the top rig
 - **Select:** Activates track selection mode, useful for deleting multiple tracks from the playlist or changing their order.
 - **Play next:** Adds playlist tracks to the top of the existing player queue.
 - **Play later:** Adds playlist tracks to the bottom of the existing player queue.
+- **Add songs:** Add new songs to the playlist.
+- **Rearrange songs:** Manually change the order of songs in the playlist using drag-and-drop.
+- **Rename:** Rename the current playlist.
+- **Edit image:** Edit the album artwork for the current playlist.
+- **Export songs list:** Export this playlist to different formats. You can read more [here](https://www.everappz.com/post/export-tracks-collection-from-evermusic-flacbox-to-m3u-csv-txt).
+- **Add to archive:** Zip current playlist including all tracks and m3u file. You can read more [here](https://www.everappz.com/post/how-to-archive-zip-playlists-albums-artists-and-genres-in-evermusic-flacbox-and-transfer-to).
 - **Sort:** Change the order of tracks in the playlist. Sorting options include "Song title," "Song number," "Album," "Artist," "Album artist," "Genre," "Composer," "Rating," "Year," "Beats per minute," "Duration," "File name," "File modification date," "File creation date," and "Manual." The "Manual" sort option allows manual reordering of songs using drag-and-drop.
 - **Search:** Search for a specific song within the current playlist.
-- **Add songs:** Add new songs to the playlist.
-- **Export songs list:** Export this playlist to different formats. You can read more [here](https://www.everappz.com/post/export-tracks-collection-from-evermusic-flacbox-to-m3u-csv-txt).
-- **Change songs order:** Manually change the order of songs in the playlist using drag-and-drop.
-- **Edit image:** Edit the album artwork for the current playlist.
-- **Rename:** Rename the current playlist.
 - **Grid/List:** Change the screen layout presentation.
 - **Delete playlist:** Delete the playlist from the Music library. Importantly, this action does not delete tracks from your storage, and it cannot be undone.
 
