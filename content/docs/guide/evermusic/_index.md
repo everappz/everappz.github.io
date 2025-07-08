@@ -9,6 +9,8 @@ keywords: [
 tags: ["evermusic", "guide"]
 readingTime: 3
 draft: false
+aliases:
+  - /post/evermusic-guide/
 ---
 
 Evermusic is a powerful app that turns your device into a full music player, giving you an unlimited way to enjoy your favorite songs like never before.
@@ -45,7 +47,7 @@ If you listen to audiobooks, Evermusic is perfect. You can add bookmarks, change
 
 You’re not limited to your phone or tablet. Evermusic also works with Apple TV, Google Chromecast, and Apple CarPlay. So whether you’re home, in your car, or traveling, your music is always with you.
 
-## Getting Started with Evermusic
+### Getting Started with Evermusic
 
 This guide will help you get the best out of Evermusic on your iPhone, iPad, or Mac. Learn how to stream music from the cloud, manage your audiobooks, and move music between devices. Evermusic gives you full control over your music collection in one easy app.<br><br>
 

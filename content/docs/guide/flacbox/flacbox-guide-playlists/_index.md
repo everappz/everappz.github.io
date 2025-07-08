@@ -2,6 +2,8 @@
 title: "Playlists"
 date: 2020-02-01
 draft: false
+aliases:
+  - /post/flacbox-guide-playlists/
 description: "Learn how to create, import, manage, and customize playlists in Flacbox. This guide explains playlist actions, importing M3U/CUE files, editing order, removing tracks, and adjusting artwork."
 keywords: [
   "Flacbox playlists", "import M3U playlist", "playlist manager", 

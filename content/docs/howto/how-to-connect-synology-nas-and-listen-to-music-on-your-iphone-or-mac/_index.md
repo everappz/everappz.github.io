@@ -6,6 +6,8 @@ keywords: ["synology nas", "stream music", "quickconnect", "evermusic synology",
 tags: ["music", "streaming", "nas", "synology", "quickconnect"]
 readingTime: 4
 draft: false
+aliases:
+  - /post/how-to-connect-synology-nas-and-listen-to-music-on-your-iphone-or-mac/
 ---
 
 If you're looking for a seamless way to connect your Synology NAS and enjoy your music library on your iPhone or Mac, the Evermusic and Flacbox apps are the perfect solutions. These apps support a wide range of audio formats, including FLAC, MP3, and WAV, making it easy to stream and listen to high-quality music directly from your Synology NAS.

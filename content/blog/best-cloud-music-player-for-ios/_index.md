@@ -5,6 +5,8 @@ description: "Explore why Evermusic is the best cloud music player for iPhone an
 keywords: ["Evermusic", "cloud music player", "offline music iOS", "best music player iPhone", "Evermusic features", "music library manager", "local mp3 player", "multi-cloud streaming iOS"]
 tags: ["Evermusic", "cloud music", "offline playback", "iOS music apps", "MP3 player", "audio", "music streaming", "guide"]
 draft: false
+aliases:
+  - /post/best-cloud-music-player-for-ios/
 cascade:
   type: docs
 ---

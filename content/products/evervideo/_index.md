@@ -634,7 +634,7 @@ You can view embedded lyrics for tracks in the app by **following these steps**:
 [Read more](https://www.everappz.com/post/how-to-add-and-view-comments-to-your-audio-tracks-on-iphone-ipad-and-mac-with-evermusic-and-flacbox)
 {{% /details %}}
 
-{{% details title="13. How do I transfer music to Flacbox from my computer?" closed="true" %}}
+{{% details title="How do I transfer music to Flacbox from my computer?" closed="true" %}}
 You can connect your computer or personal NAS using SMB, WebDAV, or DLNA protocols. Alternatively, use iTunes File Sharing to transfer music.<br><br>
 
 To connect a computer using SMB protocol tap "Connect a cloud service" → SMB. Enter computer IP address and shared folder name in URL field using format smb://computer-ip-address/shared-folder-name, enter login and password and tap "Done". If your connection is successful you will see connected storage in the "Cloud services" section.<br><br>

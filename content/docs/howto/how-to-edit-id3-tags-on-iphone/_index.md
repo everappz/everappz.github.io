@@ -6,6 +6,8 @@ keywords: ["mp3 editor", "id3 tags", "metadata", "evermusic", "flacbox", "iphone
 tags: ["mp3", "editor", "iPhone", "tags", "metadata", "id3"]
 readingTime: 2
 draft: false
+aliases:
+  - /post/how-to-edit-id3-tags-on-iphone/
 ---
 
 Unlock the power of seamless music library management with Evermusic and Flacbox. These apps allow you to connect to your cloud storage services like Dropbox, Google Drive, OneDrive, and even your home computer, TimeCapsule, or NAS. With the ability to download songs, albums, and artists for offline playback at your convenience, your music is always at your fingertips.

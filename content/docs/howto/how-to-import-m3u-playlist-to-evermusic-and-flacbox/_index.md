@@ -6,6 +6,8 @@ keywords: ["evermusic", "flacbox", "playlist", "m3u", "m3u8", "cue", "import", "
 tags: ["evermusic", "import", "playlists", "m3u", "cue"]
 readingTime: 3
 draft: false
+aliases:
+  - /post/how-to-import-m3u-playlist-to-evermusic-and-flacbox/
 ---
 
 M3U, which stands for MP3 URL or Moving Picture Experts Group Audio Layer 3 Uniform Resource Locator, is a computer file format used for multimedia playlists. One of its primary uses is creating single-entry playlist files that point to streams on the internet. These files offer convenient access to streaming content and are commonly used for downloads, emailing, and listening to Internet radio.

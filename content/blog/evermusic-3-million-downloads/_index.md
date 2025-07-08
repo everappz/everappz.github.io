@@ -5,6 +5,8 @@ description: "Celebrate Evermusic's milestone of 3 million downloads. Discover i
 keywords: ["Evermusic downloads", "3 million app installs", "iOS music player", "cloud music app", "offline music player", "music downloader", "audiobook player", "ID3 tag editor", "iPhone file manager", "music equalizer app"]
 tags: ["Evermusic", "downloads", "3million", "music apps", "cloud player", "offline player", "tag editor", "equalizer", "audiobooks", "file manager"]
 draft: false
+aliases:
+  - /post/evermusic-3-million-downloads/
 cascade:
   type: docs
 ---

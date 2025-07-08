@@ -5,6 +5,8 @@ description: "Watch the new Evermusic promo video created by a talented designer
 keywords: ["Evermusic promo", "music player iOS", "Evermusic video", "cloud music app", "audio streaming", "best music app iPhone"]
 tags: ["Evermusic", "promo", "music", "video", "update", "app"]
 draft: false
+aliases:
+  - /post/evermusic-be-inspired-by-music/
 sidebar:
   exclude: true
 cascade:

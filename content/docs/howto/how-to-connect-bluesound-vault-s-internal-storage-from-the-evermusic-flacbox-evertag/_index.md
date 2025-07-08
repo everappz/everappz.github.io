@@ -6,6 +6,8 @@ keywords: ["bluesound vault", "connect smb storage", "evermusic smb", "flacbox v
 tags: ["evermusic", "connect", "bluesound vault"]
 readingTime: 1
 draft: false
+aliases:
+  - /post/how-to-connect-bluesound-vault-s-internal-storage-from-the-evermusic-flacbox-evertag/
 ---
 
 Bluesound VAULT has an internal hard drive and acts as a Network Attached Storage (NAS). Accessing the VAULT’s internal hard drive allows you to add/delete files, edit metadata tags from our apps Evermusic, Flacbox, Evertag.

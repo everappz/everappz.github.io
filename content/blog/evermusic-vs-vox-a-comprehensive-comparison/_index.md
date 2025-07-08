@@ -5,6 +5,8 @@ description: "Explore a detailed comparison between Evermusic and VOX music play
 keywords: ["Evermusic vs VOX", "cloud music player comparison", "audiobook support iOS", "audio tags editor", "best music player iPhone", "Wi-Fi drive iOS", "VOX music app alternative", "music player for cloud storage", "local music manager iOS"]
 tags: ["comparison", "evermusic", "vox", "cloud", "audiobooks", "tags", "streaming", "apps", "music player", "ios"]
 draft: false
+aliases:
+  - /post/evermusic-vs-vox-a-comprehensive-comparison/
 sidebar:
   exclude: true
 cascade:

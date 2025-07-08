@@ -5,6 +5,8 @@ description: "Discover how to enjoy high-resolution FLAC, DSD, and other lossles
 keywords: ["lossless music player", "flac player iOS", "dsd player iPhone", "hi-res audio Mac", "flacbox app", "best music player iOS", "offline FLAC player", "audiophile music player", "mac FLAC support", "hi-res streaming iOS"]
 tags: ["flacbox", "music", "audio", "lossless", "iphone", "mac", "flac", "dsd", "audiophile"]
 draft: false
+aliases:
+  - /post/unleash-audiophile-bliss-playing-lossless-music-on-iphone-or-mac-with-flacbox/
 cascade:
   type: docs
 ---

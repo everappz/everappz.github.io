@@ -6,6 +6,8 @@ keywords: ["usb music iphone", "flacbox usb drive", "evermusic external storage"
 tags: ["music", "files", "usb", "flash", "external", "ixpand", "play", "card", "adapter", "stick", "reader", "lightning"]
 readingTime: 2
 draft: false
+aliases:
+  - /post/how-to-connect-a-usb-flashcard-to-the-iphone-and-listen-to-music-or-manage-files-located-on-it/
 ---
 
 There are several ways to connect a USB flash or SD card to the iPhone and listen to music located on it. You can also manage your files with a built-in file manager in our apps Evermusic, Flacbox, Evertag.

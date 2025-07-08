@@ -6,6 +6,8 @@ keywords: ["evermusic", "dlna", "windows 10", "iphone music streaming", "media s
 tags: ["evermusic", "music", "cloud", "iphone", "storage", "local", "nas", "windows", "wifi", "listen", "network", "remote", "home", "online", "dlna"]
 readingTime: 2
 draft: false
+aliases:
+  - /post/how-to-enable-dlna-media-server-on-windows-10-and-play-your-music-on-iphone/
 ---
 
 {{< figure src="/21260c_e902db0c9a4c45af9772ce000ef5891e~mv2.jpg" alt="Evermusic + Windows 10 DLNA: Front Cover" caption="DLNA music streaming to iPhone using Windows 10 and Evermusic" width="800" >}}

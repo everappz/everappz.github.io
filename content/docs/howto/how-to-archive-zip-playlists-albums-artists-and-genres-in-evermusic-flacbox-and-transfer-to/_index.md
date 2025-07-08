@@ -6,6 +6,8 @@ keywords: ["evermusic", "flacbox", "zip archive", "export playlists", "playlist 
 tags: ["evermusic", "flacbox", "archive", "backup", "export", "playlist", "m3u"]
 readingTime: 2
 draft: false
+aliases:
+  - /post/how-to-archive-zip-playlists-albums-artists-and-genres-in-evermusic-flacbox-and-transfer-to/
 ---
 
 This comprehensive guide will walk you through the process of archiving (ZIP) playlists, albums, artists, and genres in **Evermusic** and **Flacbox** and transferring them to another device.

@@ -6,6 +6,8 @@ description: "Compare Evermusic and Flacbox—two powerful iOS and MacOS music p
 keywords: ["Evermusic vs Flacbox", "audio player comparison", "iOS music apps", "FLAC player", "AVPlayer vs FFmpeg", "lossless audio", "Evermusic", "Flacbox", "music player features", "audio quality settings"]
 tags: ["evermusic", "flacbox", "audio", "lossless", "crossfade", "difference", "better", "choice", "ffmpeg"]
 draft: false
+aliases:
+  - /post/what-is-the-difference-between-evermusic-and-flacbox/
 readingTime: 3
 ---
 

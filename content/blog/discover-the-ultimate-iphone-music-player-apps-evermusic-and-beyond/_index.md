@@ -5,6 +5,8 @@ description: "Explore the top iPhone music player apps like Evermusic, Apple Mus
 keywords: ["best iPhone music apps", "Evermusic features", "iOS music players", "offline music playback", "cloud music player", "Spotify iOS", "Apple Music vs Evermusic", "VLC for iPhone", "Amazon Music iOS"]
 tags: ["music", "cloud", "streaming", "iOS", "apps", "Evermusic", "audio players", "offline playback", "Apple Music", "Spotify"]
 draft: false
+aliases:
+  - /post/discover-the-ultimate-iphone-music-player-apps-evermusic-and-beyond/
 cascade:
   type: docs
 ---

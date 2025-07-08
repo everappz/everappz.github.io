@@ -9,6 +9,8 @@ keywords: [
   "Chromecast audio app", "equalizer setup"
 ]
 tags: ["flacbox", "guide"]
+aliases:
+  - /post/flacbox-guide/
 ---
 
 ### Welcome to the Flacbox Guide

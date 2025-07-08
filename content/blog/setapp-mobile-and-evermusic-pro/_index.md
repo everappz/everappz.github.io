@@ -5,6 +5,8 @@ description: "Learn how Setapp Mobile and Evermusic Pro work together to deliver
 keywords: ["Setapp Mobile", "Evermusic Pro", "cloud music player", "music streaming iPhone", "offline music iOS", "Setapp iOS", "audiophile app iPhone", "equalizer iOS app", "NAS music iPhone", "cloud storage music player"]
 tags: ["evermusic", "setapp", "cloud", "audio", "mobile", "marketplace", "music", "ios apps"]
 draft: false
+aliases:
+  - /post/setapp-mobile-and-evermusic-pro/
 cascade:
   type: docs
 ---

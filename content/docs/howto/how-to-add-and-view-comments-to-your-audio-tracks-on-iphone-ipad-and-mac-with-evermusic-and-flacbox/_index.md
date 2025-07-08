@@ -6,6 +6,8 @@ keywords: ["evermusic", "flacbox", "audio comments", "edit tags", "audio metadat
 tags: ["evermusic", "audio", "editor", "tags", "comments"]
 readingTime: 4
 draft: false
+aliases:
+  - /post/how-to-add-and-view-comments-to-your-audio-tracks-on-iphone-ipad-and-mac-with-evermusic-and-flacbox/
 ---
 
 ## Introduction

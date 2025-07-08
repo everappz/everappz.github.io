@@ -5,6 +5,8 @@ description: "Explore the top cloud music players for iPhone in 2023, including 
 keywords: ["cloud music player", "best music apps for iPhone", "Evermusic vs Spotify", "offline music apps iOS", "Apple Music alternatives", "streaming music apps", "iPhone audio player", "iOS music apps", "Evermusic review", "cloud audio streaming iPhone"]
 tags: ["music", "streaming", "apps", "iOS", "cloud music", "Evermusic", "Spotify", "Apple Music", "YouTube Music", "SoundCloud"]
 draft: false
+aliases:
+  - /post/comparing-the-best-cloud-music-players-for-iphone-in-2023/
 cascade:
   type: docs
 ---

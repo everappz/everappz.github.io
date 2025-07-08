@@ -5,6 +5,8 @@ description: "Discover what's new in Flacbox 1.6 for iPhone and iPad. Explore au
 keywords: ["Flacbox music player", "FLAC player iOS", "10-band equalizer", "automatic sync", "external flash drive", "OPUS audio iPhone", "FLAC streaming", "hi-res music app"]
 tags: ["Flacbox", "equalizer", "music library", "OPUS", "FLAC", "external storage", "sync", "audio player", "iOS apps"]
 draft: false
+aliases:
+  - /post/flacbox-for-ios-automatic-music-library-sync-equalizer-opus-external-flash/
 cascade:
   type: docs
 ---

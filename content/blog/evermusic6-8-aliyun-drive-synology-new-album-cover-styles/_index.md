@@ -5,6 +5,8 @@ description: "Discover what's new in Evermusic 6.8: Aliyun Drive support, Synolo
 keywords: ["Evermusic update", "Aliyun Drive", "Synology NAS", "cloud music player", "audio player iOS", "album cover styles", "drag and drop file browser", "personalized audio player", "FLAC player", "Evermusic 6.8"]
 tags: ["Evermusic", "Aliyun Drive", "Synology", "Album Covers", "Cloud Music", "iOS Music App", "What's New"]
 draft: false
+aliases:
+  - /post/evermusic6-8-aliyun-drive-synology-new-album-cover-styles/
 cascade:
   type: docs
 ---

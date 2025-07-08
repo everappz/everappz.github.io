@@ -10,6 +10,8 @@ keywords: [
 tags: ["evermusic", "guide", "music", "library"]
 readingTime: 11
 draft: false
+aliases:
+  - /post/evermusic-guide-music-library/
 ---
 
 ![Add music](21260c_c716bca4d7304a1fb98f94b57f362950~mv2.png)

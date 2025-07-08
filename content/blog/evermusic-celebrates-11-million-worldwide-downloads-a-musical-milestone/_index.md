@@ -5,6 +5,8 @@ description: "Celebrate 11 million worldwide downloads of Evermusic. Explore new
 keywords: ["Evermusic", "iOS music player", "offline music", "cloud music streaming", "iCloud Drive", "audio equalizer", "ID3 tags editor", "music download", "music app", "music milestone"]
 tags: ["evermusic", "iOS", "music player", "11 million downloads", "cloud music", "offline playback", "favorites", "recents", "iCloud Drive", "milestone"]
 draft: false
+aliases:
+  - /post/evermusic-celebrates-11-million-worldwide-downloads-a-musical-milestone/
 cascade:
   type: docs
 ---

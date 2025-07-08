@@ -6,6 +6,8 @@ keywords: ["icloud drive", "evermusic", "flacbox", "stream music", "iphone", "ma
 tags: ["music", "cloud", "streaming", "player", "drive", "icloud"]
 readingTime: 5
 draft: false
+aliases:
+  - /post/how-to-listen-to-music-from-icloud-drive-on-your-iphone-or-mac/
 ---
 
 In today’s world, music is a big part of our lives, and having your favorite songs available all the time is a must. Thanks to cloud technology, you no longer need to keep a physical music collection. You can now stream music from your iCloud Drive with just a few taps.

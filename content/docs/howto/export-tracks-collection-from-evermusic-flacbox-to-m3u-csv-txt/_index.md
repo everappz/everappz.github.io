@@ -5,6 +5,8 @@ description: "Learn how to export your recents, favorites, playlists, and albums
 keywords: ["evermusic export", "flacbox export", "export to m3u", "export playlist to csv", "m3u txt csv playlist", "music export"]
 tags: ["evermusic", "recents", "favorites", "export", "m3u", "playlist", "csv", "txt", "album"]
 draft: false
+aliases:
+  - /post/export-tracks-collection-from-evermusic-flacbox-to-m3u-csv-txt/
 ---
 
 ## Intro

@@ -5,6 +5,8 @@ description: "Watch the official Evermusic promo video by Ilya Agulov. Experienc
 keywords: ["Evermusic promo video", "iOS music player", "music app trailer", "audio player iPhone", "cloud music iOS", "Evermusic app"]
 tags: ["evermusic", "promo", "video", "ios", "music", "cloud", "player", "mobile app"]
 draft: false
+aliases:
+  - /post/evermusic-promo-video/
 cascade:
   type: docs
 ---

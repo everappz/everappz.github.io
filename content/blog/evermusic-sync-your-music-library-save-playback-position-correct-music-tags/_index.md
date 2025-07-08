@@ -5,6 +5,8 @@ description: "Discover what's new in Evermusic 2.3: automatic music library sync
 keywords: ["Evermusic", "cloud music player", "music sync iOS", "save playback position", "audiobook playback", "metadata reader", "fix ID3 tags", "stream music from PC", "music app for Dropbox", "Google Drive player"]
 tags: ["evermusic", "music", "playback", "manager", "editor", "sync", "position", "id3tags", "cloud", "what's new"]
 draft: false
+aliases:
+  - /post/evermusic-sync-your-music-library-save-playback-position-correct-music-tags/
 cascade:
   type: docs
 ---

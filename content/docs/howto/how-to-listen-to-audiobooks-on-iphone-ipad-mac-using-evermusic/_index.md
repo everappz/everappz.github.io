@@ -6,6 +6,8 @@ keywords: ["audiobooks", "evermusic", "iphone", "ipad", "mac", "offline playback
 tags: ["audiobooks", "playback", "offline", "evermusic", "bookmark"]
 readingTime: 5
 draft: false
+aliases:
+  - /post/how-to-listen-to-audiobooks-on-iphone-ipad-mac-using-evermusic/
 ---
 
 ## Introduction

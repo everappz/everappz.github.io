@@ -10,6 +10,8 @@ keywords: [
 tags: ["evermusic", "guide", "player"]
 readingTime: 11
 draft: false
+aliases:
+  - /post/evermusic-guide-player/
 ---
 
 ## Introduction

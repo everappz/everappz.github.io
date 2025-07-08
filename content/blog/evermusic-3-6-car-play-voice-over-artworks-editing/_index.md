@@ -5,6 +5,8 @@ description: "Explore the new features in Evermusic 3.6 including CarPlay integr
 keywords: ["Evermusic 3.6", "CarPlay music apps", "VoiceOver audio player", "iPhone audio player features", "FLAC tag editor", "restore playback state", "edit music artwork", "cloud music player"]
 tags: ["Evermusic", "CarPlay", "VoiceOver", "music apps", "accessibility", "iCloud Drive", "tag editor", "playback features", "audiobooks", "streaming"]
 draft: false
+aliases:
+  - /post/evermusic-3-6-car-play-voice-over-artworks-editing/
 cascade:
   type: docs
 ---

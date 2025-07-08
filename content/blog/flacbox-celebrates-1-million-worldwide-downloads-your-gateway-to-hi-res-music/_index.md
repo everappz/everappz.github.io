@@ -5,6 +5,8 @@ description: "Flacbox reaches 1 million global downloads! Discover the features 
 keywords: ["Flacbox music player", "hi-res audio iOS", "lossless music app", "DSD FLAC APE player", "offline FLAC music", "Flacbox download milestone", "high quality audio iPhone", "Everappz audio apps", "CUE playlist player", "1 million downloads"]
 tags: ["Flacbox", "lossless", "hi-res audio", "music player", "audio", "milestone", "iOS apps", "What's New"]
 draft: false
+aliases:
+  - /post/flacbox-celebrates-1-million-worldwide-downloads-your-gateway-to-hi-res-music/
 cascade:
   type: docs
 ---

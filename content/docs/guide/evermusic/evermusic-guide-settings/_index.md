@@ -12,6 +12,8 @@ keywords: [
 tags: ["evermusic", "guide", "settings"]
 readingTime: 14
 draft: false
+aliases:
+  - /post/evermusic-guide-settings/
 ---
 
 On this screen, you can access the application settings and upgrade it to the Premium version.

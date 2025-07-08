@@ -6,6 +6,8 @@ keywords: ["evermusic", "flacbox", "lastfm", "music history", "scrobbling", "exp
 tags: ["evermusic", "flacbox", "recents", "lastfm", "export", "scrobbler"]
 readingTime: 5
 draft: false
+aliases:
+  - /post/exporting-complete-listen-history-from-evermusic-flacbox-to-last-fm/
 ---
 
 **UPD:** Automatic scrobbling is now available! Learn more here: [https://www.everappz.com/post/how-to-scrobble-your-music-history-from-evermusic-or-flacbox-to-last-fm](https://www.everappz.com/post/how-to-scrobble-your-music-history-from-evermusic-or-flacbox-to-last-fm)

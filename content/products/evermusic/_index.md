@@ -9,6 +9,8 @@ date: 2024-01-05
 description: "Download the best free offline music player for your iPhone and Mac and listen to your music everywhere."
 keywords: ["Evermusic", "offline music player", "iOS audio player", "cloud music app", "download music iPhone", "Mac music player", "streaming music offline", "FLAC player iPhone", "multi-cloud music player", "Evermusic app features"]
 tags: ["Evermusic", "offline playback", "cloud music", "MP3 player", "iPhone apps", "audio streaming", "music management", "Mac apps", "media player"]
+aliases:
+  - /evermusic/
 ---
 
 <!-- <body class="hx:bg-transparent" style="background: radial-gradient(ellipse at 50% 80%, rgba(59,130,246,0.05), hsla(0,0%,100%,0));"> -->
@@ -578,7 +580,7 @@ You can view embedded lyrics for tracks in the Evermusic app by following these 
 [Read more](https://www.everappz.com/post/how-to-add-and-view-comments-to-your-audio-tracks-on-iphone-ipad-and-mac-with-evermusic-and-flacbox)
 {{% /details %}}
 
-{{% details title="13. How do I transfer music to Evermusic from my computer?" closed="true" %}}
+{{% details title="How do I transfer music to Evermusic from my computer?" closed="true" %}}
 You can connect your computer or personal NAS using SMB, WebDAV, or DLNA protocols. Alternatively, use iTunes File Sharing to transfer music.<br><br>
 
 To connect a computer using **SMB** protocol tap "Connect a cloud service" → SMB.<br>

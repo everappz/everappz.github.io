@@ -5,6 +5,8 @@ description: "Learn how to stream and manage your music library with Evermusic u
 keywords: ["Evermusic", "cloud music player", "iOS music app", "stream music from cloud", "offline music iPhone", "Google Drive music player", "Dropbox music streaming", "MP3 player iPhone", "free up space iPhone", "music from SMB"]
 tags: ["audio", "streaming", "player", "mp3", "downloader", "GoogleDrive", "Dropbox", "cloud music", "offline playback"]
 draft: false
+aliases:
+  - /post/evermusic-stream-your-music-from-the-cloud-and-free-up-space-on-your-iphone-or-ipad/
 cascade:
   type: docs
 ---

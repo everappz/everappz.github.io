@@ -6,6 +6,8 @@ keywords: ["Soundy", "SoundCloud bookmarks", "audio bookmarks", "podcast bookmar
 tags: ["audio", "equalizer", "soundy", "marks", "soundcloud"]
 categories: ["How To"]
 draft: false
+aliases:
+  - /post/audio-bookmarks-for-soundcloud/
 ---
 
 {{< figure

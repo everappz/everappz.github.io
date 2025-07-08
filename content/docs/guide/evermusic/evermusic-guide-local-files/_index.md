@@ -10,6 +10,8 @@ keywords: [
 tags: ["evermusic", "guide", "files", "local"]
 readingTime: 6
 draft: false
+aliases:
+  - /post/evermusic-guide-local-files/
 ---
 
 ## Introduction
