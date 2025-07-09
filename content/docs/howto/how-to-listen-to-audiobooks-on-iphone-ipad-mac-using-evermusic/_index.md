@@ -30,13 +30,13 @@ To enjoy your audiobooks in Evermusic, you'll need to make sure they're accessib
 4. Navigate to the "Evermusic" section.
 5. Drag and drop your audiobook files or folders into the "Evermusic" section.
 
-You can read more about iTunes File sharing [here](https://www.everappz.com/post/how-to-play-local-itunes-files-on-my-iphone).
+You can read more about iTunes File sharing [here](/docs/howto/how-to-play-local-itunes-files-on-my-iphone).
 
-You can also transfer audiobooks to the app using WiFi as described [here](https://www.everappz.com/post/how-to-transfer-files-wirelessly-from-a-computer-to-an-iphone-using-wifi-drive).
+You can also transfer audiobooks to the app using WiFi as described [here](/docs/howto/how-to-transfer-files-wirelessly-from-a-computer-to-an-iphone-using-wifi-drive).
 
 ### For Cloud-Stored Audiobooks:
 
-If your audiobooks are stored in a cloud service like iCloud Drive, Google Drive, or Dropbox, ensure they're accessible from within Evermusic. You can link your cloud storage accounts within the Evermusic app as described [here](https://www.everappz.com/post/how-to-upload-my-files-to-the-cloud-storage-and-connect-them-to-evermusic-flacbox-evertag).
+If your audiobooks are stored in a cloud service like iCloud Drive, Google Drive, or Dropbox, ensure they're accessible from within Evermusic. You can link your cloud storage accounts within the Evermusic app as described [here](/docs/howto/how-to-upload-my-files-to-the-cloud-storage-and-connect-them-to-evermusic-flacbox-evertag).
 
 ## Step 3: Access Your Audiobooks
 

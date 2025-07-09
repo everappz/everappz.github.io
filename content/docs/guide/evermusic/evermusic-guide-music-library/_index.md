@@ -40,7 +40,7 @@ This section displays all recently played tracks.
 
 ### Bookmarks
 
-You can create audio bookmarks while a song is playing and manage them on this screen. Detailed instructions on working with audio bookmarks can be found [here](https://www.everappz.com/post/evermusic-guide-music-library).
+You can create audio bookmarks while a song is playing and manage them on this screen. Detailed instructions on working with audio bookmarks can be found [here](/docs/guide/evermusic/evermusic-guide-music-library).
 
 ## Continue Playback
 
@@ -254,7 +254,7 @@ You can manage your recently played songs list.
 
 - **Delete List**: You can delete the entire list of recently played songs.
 - **Change List Size**: You can set the number of items that should appear in the list.
-- **Export Songs List**: Use this action to export your recently played songs list in different formats: M3U, CSV, or TXT. Detailed instructions are available on our website [here](https://www.everappz.com/post/export-tracks-collection-from-evermusic-flacbox-to-m3u-csv-txt).
+- **Export Songs List**: Use this action to export your recently played songs list in different formats: M3U, CSV, or TXT. Detailed instructions are available on our website [here](/docs/howto/export-tracks-collection-from-evermusic-flacbox-to-m3u-csv-txt/).
 
 ![Export Songs List](21260c_eace98a1cc344e7299377aba42f18512~mv2.png)
 

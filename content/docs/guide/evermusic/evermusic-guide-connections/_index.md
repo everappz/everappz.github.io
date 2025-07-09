@@ -44,7 +44,7 @@ The application does not share any information from the connected cloud account.
 
 ## Reject auth-token
 
-Login to your account on the web browser and navigate to the settings page. There you can find all third-party apps that are connected to your cloud account and remove any of them if you don’t want to use that application anymore. Detailed instructions available [here](https://www.everappz.com/post/how-to-disconnect-third-party-app-from-your-google-account).
+Login to your account on the web browser and navigate to the settings page. There you can find all third-party apps that are connected to your cloud account and remove any of them if you don’t want to use that application anymore. Detailed instructions available [here](/docs/howto/how-to-disconnect-third-party-app-from-your-google-account).
 
 You can also disconnect the connected cloud accounts in the application and the auth token will be also removed from your device. If you remove the application from your device all downloaded data and access tokens will be also removed.
 
@@ -71,7 +71,7 @@ You can also connect your computer, personal NAS, or other network devices using
 - Tap "Done".
 
 If your connection is successful you will see connected storage in the "Cloud storage" section.  
-A full tutorial about how to connect your MAC or PC using SMB is available [here](https://www.everappz.com/single-post/Stream-your-music-from-MAC-or-PC-to-iPhone-using-SMB).
+A full tutorial about how to connect your MAC or PC using SMB is available [here](/docs/howto/stream-your-music-from-mac-or-pc-to-iphone-using-smb/).
 
 ![Connect to computer using SMB protocol](21260c_e968a4df26b74390aebb5abcd0b9bd72~mv2.png)
 
@@ -79,11 +79,11 @@ A full tutorial about how to connect your MAC or PC using SMB is available [here
 
 All steps are the same instead of the URL field.  
 URL should be in the format http://server-name, or https://server-name if the server supports SSL.
-A full tutorial about how to connect NAS using WebDAV protocol is available [here](https://www.everappz.com/post/how-to-connect-nas-storage-using-webdav-and-listen-to-music-on-your-iphone-or-mac).
+A full tutorial about how to connect NAS using WebDAV protocol is available [here](/docs/howto/how-to-connect-nas-storage-using-webdav-and-listen-to-music-on-your-iphone-or-mac).
 
 ## Connect to Computer or NAS using DLNA
 
-You can also share a music library located on your Windows PC or personal NAS using the DLNA protocol and access that library in the app as described [here](https://www.everappz.com/post/how-to-enable-dlna-media-server-on-windows-10-and-play-your-music-on-iphone). DLNA is a popular and widely used protocol, but it only allows you to play or download music. You can't upload files or create new folders on the server.
+You can also share a music library located on your Windows PC or personal NAS using the DLNA protocol and access that library in the app as described [here](/docs/howto/how-to-enable-dlna-media-server-on-windows-10-and-play-your-music-on-iphone). DLNA is a popular and widely used protocol, but it only allows you to play or download music. You can't upload files or create new folders on the server.
 
 ## Available devices
 
@@ -120,7 +120,7 @@ The files you drag and drop will begin transferring to your iOS device and will 
 
 ![Wi-Fi Drive is a convenient technology that enables wireless file transfers from your computer to your iOS device via a desktop browser](21260c_ec3157566d2848a48feee051e18b8c76~mv2.png)
 
-Detailed instructions about how to transfer files wirelessly using WiFi-Drive is available [here](https://www.everappz.com/post/how-to-transfer-files-wirelessly-from-a-computer-to-an-iphone-using-wifi-drive).
+Detailed instructions about how to transfer files wirelessly using WiFi-Drive is available [here](/docs/howto/how-to-transfer-files-wirelessly-from-a-computer-to-an-iphone-using-wifi-drive).
 
 ## iTunes File Sharing
 
@@ -130,13 +130,13 @@ iTunes File Sharing is another technology that allows you to transfer files from
 - Tap on the app icon to see all shared folders. 
 - Copy files from the computer to the shared folder on the device using drag-and-drop.   
 
-Detailed instructions about how to use iTunes file sharing available [here](https://www.everappz.com/single-post/How-to-play-local-itunes-files-on-my-iPhone).
+Detailed instructions about how to use iTunes file sharing available [here](/docs/howto/how-to-play-local-itunes-files-on-my-iphone/).
 
 ![iTunes File Sharing is another technology that allows you to transfer files from computer to device using the Finder app on your Mac and lightning cable](21260c_9885734200f04fa09cd27d435971647c~mv2.png)
 
 ## Connect a USB flashcard
 
-If you have an SD card, you can connect it using a lightning card reader. The app currently supports Apple Certified card readers and iXpand Flash Drives. If you have iXpand Flash Drive - insert it into the lightning port and open the application. You'll see an 'External device connected' message and device information. Simply tap on the flash drive icon to access the music folder and tap on any audio file to start playing. We have detailed instructions about how to connect a USB flashcard to the iPhone and listen to music or manage files located on it which is available [here](https://www.everappz.com/post/how-to-connect-a-usb-flashcard-to-the-iphone-and-listen-to-music-or-manage-files-located-on-it).
+If you have an SD card, you can connect it using a lightning card reader. The app currently supports Apple Certified card readers and iXpand Flash Drives. If you have iXpand Flash Drive - insert it into the lightning port and open the application. You'll see an 'External device connected' message and device information. Simply tap on the flash drive icon to access the music folder and tap on any audio file to start playing. We have detailed instructions about how to connect a USB flashcard to the iPhone and listen to music or manage files located on it which is available [here](/docs/howto/how-to-connect-a-usb-flashcard-to-the-iphone-and-listen-to-music-or-manage-files-located-on-it).
 
 ## File Manager
 
@@ -224,4 +224,4 @@ Whenever you open a file or folder from the cloud, it’s added to the "Recently
 
 ## Other Services
 
-This section displays extra features that enhance your experience. Currently, the app supports **Last.fm scrobbling**. When connected, your playback stats are automatically sent to your Last.fm account. You can visit your Last.fm profile later to view listening analytics and get personalized music recommendations. Detailed setup instructions are available [here](https://www.everappz.com/post/how-to-scrobble-your-music-history-from-evermusic-or-flacbox-to-last-fm).
+This section displays extra features that enhance your experience. Currently, the app supports **Last.fm scrobbling**. When connected, your playback stats are automatically sent to your Last.fm account. You can visit your Last.fm profile later to view listening analytics and get personalized music recommendations. Detailed setup instructions are available [here](/docs/howto/how-to-scrobble-your-music-history-from-evermusic-or-flacbox-to-last-fm).

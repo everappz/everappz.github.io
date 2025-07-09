@@ -93,4 +93,4 @@ Additionally, you can try connecting to your NAS using WebDAV or DLNA protocols 
 
 By following these steps, you can bypass the issues related to special symbols in file names and continue enjoying your media files.
 
-P.S. You can also transfer audio files from your MAC/PC to your iPhone using iTunes File Sharing and play local audio files. Learn more about this feature in our guide: [How To Play iTunes Files on iPhone](https://www.everappz.com/post/how-to-play-local-itunes-files-on-my-iphone).
+P.S. You can also transfer audio files from your MAC/PC to your iPhone using iTunes File Sharing and play local audio files. Learn more about this feature in our guide: [How To Play iTunes Files on iPhone](/docs/howto/how-to-play-local-itunes-files-on-my-iphone).

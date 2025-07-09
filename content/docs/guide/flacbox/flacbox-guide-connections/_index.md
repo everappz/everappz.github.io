@@ -43,7 +43,7 @@ The application does not share any information from your connected cloud account
 
 ### To reject auth-token:
 
-Login to your account on the web browser and navigate to the settings page. There you can find all third-party apps which are connected to your cloud account and remove any of them if you don’t want to use that application anymore. Detailed instructions available [here](https://www.everappz.com/post/how-to-disconnect-third-party-app-from-your-google-account).
+Login to your account on the web browser and navigate to the settings page. There you can find all third-party apps which are connected to your cloud account and remove any of them if you don’t want to use that application anymore. Detailed instructions available [here](/docs/howto/how-to-disconnect-third-party-app-from-your-google-account).
 
 You can also disconnect the connected cloud account in the application and auth token will be also removed from your device. If you remove the application from your device all downloaded data and access tokens will be also removed.
 
@@ -68,13 +68,13 @@ You can also connect your computer, personal NAS, or other network devices using
 - Enter your login and password (if required).
 - Tap "Done."
 
-If the connection is successful, you'll see the connected storage in the "Cloud services" section. A full tutorial on how to connect your Mac or PC using SMB is available [here](https://www.everappz.com/single-post/Stream-your-music-from-MAC-or-PC-to-iPhone-using-SMB).
+If the connection is successful, you'll see the connected storage in the "Cloud services" section. A full tutorial on how to connect your Mac or PC using SMB is available [here](/docs/howto/stream-your-music-from-mac-or-pc-to-iphone-using-smb/).
 
 ![To connect a computer using SMB protocol](21260c_e968a4df26b74390aebb5abcd0b9bd72~mv2.png)
 
 For **WebDAV** protocol, the steps are the same, except for the URL field. The URL should be in the format [http://server-name](http://server-name/) or [https://server-name](https://server-name/) if SSL is supported.
 
-You can also share your music library using the **DLNA** protocol located on your Windows PC. Accessing that library in the app is described [here](https://www.everappz.com/post/how-to-enable-dlna-media-server-on-windows-10-and-play-your-music-on-iphone).
+You can also share your music library using the **DLNA** protocol located on your Windows PC. Accessing that library in the app is described [here](/docs/howto/how-to-enable-dlna-media-server-on-windows-10-and-play-your-music-on-iphone).
 
 ![Available devices section displays all devices within your local network that you can connect to through the application](21260c_8897c451db094373b87b6c1ae1d0be2c~mv2.png)
 
@@ -95,19 +95,19 @@ Wi-Fi Drive is a handy technology that allows wireless file transfers from your 
 
 ### Transferring Files Wirelessly:
 
-Once the web page for your iOS device opens in the browser, you can simply drag and drop files from your computer onto the web page. The files you drag and drop will start transferring to your iOS device and will be accessible within the application. Detailed instructions on how to transfer files wirelessly using Wi-Fi Drive are available [here](https://www.everappz.com/post/how-to-transfer-files-wirelessly-from-a-computer-to-an-iphone-using-wifi-drive).
+Once the web page for your iOS device opens in the browser, you can simply drag and drop files from your computer onto the web page. The files you drag and drop will start transferring to your iOS device and will be accessible within the application. Detailed instructions on how to transfer files wirelessly using Wi-Fi Drive are available [here](/docs/howto/how-to-transfer-files-wirelessly-from-a-computer-to-an-iphone-using-wifi-drive).
 
 ![Wi-Fi Drive is a convenient technology that enables wireless file transfers from your computer to your iOS device via a desktop browser](21260c_ec3157566d2848a48feee051e18b8c76~mv2.png)
 
 ## iTunes File Sharing:
 
-iTunes File Sharing is another method to transfer files from your computer to your device using the Finder app on your Mac and a lightning cable. Simply connect your device to the computer using the cable and open the Finder app on your Mac. Open "Locations" → "Your Connected Device" → "Files" → and find the Flacbox app. Tap on the app icon to see all shared folders. Copy files from the computer to the shared folder on the device using drag-and-drop. Detailed instructions on how to use iTunes file sharing are available [here](https://www.everappz.com/single-post/How-to-play-local-itunes-files-on-my-iPhone).
+iTunes File Sharing is another method to transfer files from your computer to your device using the Finder app on your Mac and a lightning cable. Simply connect your device to the computer using the cable and open the Finder app on your Mac. Open "Locations" → "Your Connected Device" → "Files" → and find the Flacbox app. Tap on the app icon to see all shared folders. Copy files from the computer to the shared folder on the device using drag-and-drop. Detailed instructions on how to use iTunes file sharing are available [here](/docs/howto/how-to-play-local-itunes-files-on-my-iphone/).
 
 ![iTunes File Sharing is another technology that allows you to transfer files from computer to device using the Finder app on your Mac and lightning cable](21260c_9885734200f04fa09cd27d435971647c~mv2.png)
 
 ## To Connect a USB flashcard:
 
-If you have an SD card, you can connect it using a lightning card reader. The app currently supports Apple Certified card readers and iXpand Flash Drives. If you have iXpand Flash Drive - insert it into the lightning port and open the application. You'll see an 'External device connected' message and device information. Simply tap on the flash drive icon to access the music folder and tap on any audio file to start playing. We have detailed instructions about how to connect a USB flashcard to the iPhone and listen to music or manage files located on it which is available [here](https://www.everappz.com/post/how-to-connect-a-usb-flashcard-to-the-iphone-and-listen-to-music-or-manage-files-located-on-it).
+If you have an SD card, you can connect it using a lightning card reader. The app currently supports Apple Certified card readers and iXpand Flash Drives. If you have iXpand Flash Drive - insert it into the lightning port and open the application. You'll see an 'External device connected' message and device information. Simply tap on the flash drive icon to access the music folder and tap on any audio file to start playing. We have detailed instructions about how to connect a USB flashcard to the iPhone and listen to music or manage files located on it which is available [here](/docs/howto/how-to-connect-a-usb-flashcard-to-the-iphone-and-listen-to-music-or-manage-files-located-on-it).
 
 ## File Manager:
 

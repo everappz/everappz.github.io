@@ -51,7 +51,7 @@ On the next screen, choose the file location. Supported options include:
 
 Let’s select connected cloud storage and open the folder containing the playlist file. Supported playlist file extensions include M3U, M3U8, and CUE. Select the playlist file and tap ‘Done’ to confirm your selection.
 
-The app will parse the playlist file, create a list of tracks, and locate those files on the storage to compile a final playlist, which will be imported into the music library. It’s crucial that your M3U/CUE file contains the correct paths for media files, and the files should be located at those paths on your storage. You can read more about playlist import [here](https://www.everappz.com/post/how-to-import-m3u-playlist-to-evermusic-and-flacbox).
+The app will parse the playlist file, create a list of tracks, and locate those files on the storage to compile a final playlist, which will be imported into the music library. It’s crucial that your M3U/CUE file contains the correct paths for media files, and the files should be located at those paths on your storage. You can read more about playlist import [here](/docs/howto/how-to-import-m3u-playlist-to-evermusic-and-flacbox).
 
 ## Playlist Detail Screen
 
@@ -73,9 +73,9 @@ You can access actions for a playlist by tapping the "..." button near the playl
 - **Play next:** Adds playlist tracks to the top of the existing player queue.
 - **Play later:** Adds playlist tracks to the bottom of the existing player queue.
 - **Edit image:** Edit the playlist's artwork image.
-- **Enable offline mode:** Enables offline mode for the playlist. In this scenario, both existing and new tracks will be downloaded automatically. Read more about offline mode [here](https://www.everappz.com/post/play-offline-music-in-evermusic-flacbox-download-sync-from-cloud-to-local-files).
-- **Export songs list:** You can export this playlist to different formats as described [here](https://www.everappz.com/post/export-tracks-collection-from-evermusic-flacbox-to-m3u-csv-txt).
-- **Add to archive:** You can archive this playlist including m3u file, album cover, and all tracks as described [here](https://www.everappz.com/post/how-to-archive-zip-playlists-albums-artists-and-genres-in-evermusic-flacbox-and-transfer-to).
+- **Enable offline mode:** Enables offline mode for the playlist. In this scenario, both existing and new tracks will be downloaded automatically. Read more about offline mode [here](/docs/howto/play-offline-music-in-evermusic-flacbox-download-sync-from-cloud-to-local-files/).
+- **Export songs list:** You can export this playlist to different formats as described [here](/docs/howto/export-tracks-collection-from-evermusic-flacbox-to-m3u-csv-txt/).
+- **Add to archive:** You can archive this playlist including m3u file, album cover, and all tracks as described [here](/docs/howto/how-to-archive-zip-playlists-albums-artists-and-genres-in-evermusic-flacbox-and-transfer-to).
 - **Add songs:** Add more songs to the current playlist.
 - **Rename:** Rename the playlist.
 - **Delete playlist:** Delete the playlist from the Music library. Please note that this action cannot be undone.
@@ -95,8 +95,8 @@ You can access actions for a playlist by tapping the "..." button in the top rig
 - **Rearrange songs:** Manually change the order of songs in the playlist using drag-and-drop.
 - **Rename:** Rename the current playlist.
 - **Edit image:** Edit the album artwork for the current playlist.
-- **Export songs list:** Export this playlist to different formats. You can read more [here](https://www.everappz.com/post/export-tracks-collection-from-evermusic-flacbox-to-m3u-csv-txt).
-- **Add to archive:** Zip current playlist including all tracks and m3u file. You can read more [here](https://www.everappz.com/post/how-to-archive-zip-playlists-albums-artists-and-genres-in-evermusic-flacbox-and-transfer-to).
+- **Export songs list:** Export this playlist to different formats. You can read more [here](/docs/howto/export-tracks-collection-from-evermusic-flacbox-to-m3u-csv-txt/).
+- **Add to archive:** Zip current playlist including all tracks and m3u file. You can read more [here](/docs/howto/how-to-archive-zip-playlists-albums-artists-and-genres-in-evermusic-flacbox-and-transfer-to).
 - **Sort:** Change the order of tracks in the playlist. Sorting options include "Song title," "Song number," "Album," "Artist," "Album artist," "Genre," "Composer," "Rating," "Year," "Beats per minute," "Duration," "File name," "File modification date," "File creation date," and "Manual." The "Manual" sort option allows manual reordering of songs using drag-and-drop.
 - **Search:** Search for a specific song within the current playlist.
 - **Grid/List:** Change the screen layout presentation.

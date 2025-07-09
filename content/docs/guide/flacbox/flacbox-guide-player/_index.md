@@ -60,7 +60,7 @@ If you prefer AirPlay, look for the AirPlay button at the bottom. Tap it to sele
 
 ### Audio Equalizer
 
-The app has a 10-band equalizer. Tap "Equalizer" on the volume view, then switch it on in the top right corner. You can use presets like Acoustic, and Bass Booster, or adjust each frequency band with sliders. Make your own presets or boost the volume with the preamplifier. We have more detailed instructions about how to use equalizer [here](https://www.everappz.com/post/how-to-use-the-audio-equalizer-on-your-iphone-ipad-mac-with-evermusic-and-flacbox).
+The app has a 10-band equalizer. Tap "Equalizer" on the volume view, then switch it on in the top right corner. You can use presets like Acoustic, and Bass Booster, or adjust each frequency band with sliders. Make your own presets or boost the volume with the preamplifier. We have more detailed instructions about how to use equalizer [here](/docs/howto/how-to-use-the-audio-equalizer-on-your-iphone-ipad-mac-with-evermusic-and-flacbox).
 
 ![audio equalizer screen](21260c_8d51a50787aa4b9380739980f1b9d64c~mv2.png)
 
@@ -70,7 +70,7 @@ For some player styles like "Antique" and "Classical," there's a toolbar at the 
 
 - "Search" – Ideal for quickly locating a specific track in your player queue.
 - "Playback speed control" – Adjust your playback speed anywhere from 0.02x to 3.00x. Perfect for those who enjoy audiobooks and lectures. To revert to the default speed settings, simply tap "Normal" speed.
-- "Audio bookmarks" – Here's where you can create multiple bookmarks for tracks in your music library. We have a full instruction on how to use bookmarks [here](https://www.everappz.com/post/how-to-listen-to-audiobooks-on-iphone-ipad-mac-using-evermusic).
+- "Audio bookmarks" – Here's where you can create multiple bookmarks for tracks in your music library. We have a full instruction on how to use bookmarks [here](/docs/howto/how-to-listen-to-audiobooks-on-iphone-ipad-mac-using-evermusic).
 
 ![player queue options](21260c_933f4e5e3ccd42c2be09f38a065c79f2~mv2.png)
 
@@ -88,7 +88,7 @@ To view track comments and embedded lyrics, as well as LRC files, follow these s
 4. Tap Buttons on the main screen.
 5. Enable Comments.
 
-After this, tap the player queue button at the bottom of the screen several times to switch from the artwork/player queue view to the comments view. On the Comments screen, scroll to the right to switch between comments, embedded lyrics, and the LRC file. Full instructions are available [here](https://www.everappz.com/post/how-to-add-and-view-comments-to-your-audio-tracks-on-iphone-ipad-and-mac-with-evermusic-and-flacbox).
+After this, tap the player queue button at the bottom of the screen several times to switch from the artwork/player queue view to the comments view. On the Comments screen, scroll to the right to switch between comments, embedded lyrics, and the LRC file. Full instructions are available [here](/docs/howto/how-to-add-and-view-comments-to-your-audio-tracks-on-iphone-ipad-and-mac-with-evermusic-and-flacbox).
 
 ![comments and lyrics screen](21260c_768197034bdd465e8eb2e39d0894e5e6~mv2.png)
 
@@ -122,7 +122,7 @@ Tap the more actions button "..." on the left side of the currently played song 
 - **Continue playback** – Resume from where you left off, including queue and media position. This is particularly useful for audiobooks and can be activated in the app settings.
 - **Search** – Quickly find a specific track in your audio player queue.
 - **Bookmarks** – View your list of created audio bookmarks.
-- **Comments:** View track comments and embedded lyrics, as well as LRC files. Full instructions available [here](https://www.everappz.com/post/how-to-add-and-view-comments-to-your-audio-tracks-on-iphone-ipad-and-mac-with-evermusic-and-flacbox).
+- **Comments:** View track comments and embedded lyrics, as well as LRC files. Full instructions available [here](/docs/howto/how-to-add-and-view-comments-to-your-audio-tracks-on-iphone-ipad-and-mac-with-evermusic-and-flacbox).
 - **Speed** – Adjust the playback speed to your liking.
 - **Recents** – Access a list of recently played songs.
 - **Favorites** – See your collection of favorited songs.
@@ -147,11 +147,11 @@ To create a new bookmark, follow these steps:
 
 ![audio bookmarks screen](21260c_68f4b23268bc418bbd85946cb079715c~mv2.png)
 
-Editing bookmarks for the current track is easy. Simply tap the "Edit" button in the top right corner to activate edit mode. In this mode, you can rearrange bookmarks, delete them, adjust bookmark time, and even change bookmark titles. This feature is particularly useful for audiobooks, lectures, or when you want to mark specific moments in a track. More detailed instructions about how to use audio bookmarks are available [here](https://www.everappz.com/post/how-to-listen-to-audiobooks-on-iphone-ipad-mac-using-evermusic).
+Editing bookmarks for the current track is easy. Simply tap the "Edit" button in the top right corner to activate edit mode. In this mode, you can rearrange bookmarks, delete them, adjust bookmark time, and even change bookmark titles. This feature is particularly useful for audiobooks, lectures, or when you want to mark specific moments in a track. More detailed instructions about how to use audio bookmarks are available [here](/docs/howto/how-to-listen-to-audiobooks-on-iphone-ipad-mac-using-evermusic).
 
 ### Recents and Favorites
 
-On the player screen, tap the three dots to access "Recents" and "Favorites." In both sections, you can search for songs, play all tracks, shuffle all tracks, export the list, and delete the list. We have detailed instructions on how to export song lists [here](https://www.everappz.com/post/export-tracks-collection-from-evermusic-flacbox-to-m3u-csv-txt).
+On the player screen, tap the three dots to access "Recents" and "Favorites." In both sections, you can search for songs, play all tracks, shuffle all tracks, export the list, and delete the list. We have detailed instructions on how to export song lists [here](/docs/howto/export-tracks-collection-from-evermusic-flacbox-to-m3u-csv-txt/).
 
 ![favorites screen](21260c_8dabf16239094494b10ac655f24674c0~mv2.png)
 
@@ -197,7 +197,7 @@ These settings cover the fundamental aspects of the audio player, including the 
 
 - **Audio Output Preferred IO Buffer Duration:** This option allows you to configure the input/output buffer duration for audio playback on your device. A typical value for input/output buffer duration to minimize latency while playing high-resolution audio is around 5 milliseconds (0.005 seconds). Keep in mind that the actual acceptable buffer size may vary depending on the specific hardware and software environment. It's essential to test different buffer durations on your target device and choose the one that provides the best compromise between low latency and stable audio playback without glitches.
 
-- **Audio Output Mode (iOS Only):** This feature is exclusive to iOS and enables you to configure an audio output mixed mode. It allows audio from the app to blend seamlessly with other applications. Detailed instructions can be found [here](https://www.everappz.com/post/how-to-record-video-while-playing-music-on-iphone).
+- **Audio Output Mode (iOS Only):** This feature is exclusive to iOS and enables you to configure an audio output mixed mode. It allows audio from the app to blend seamlessly with other applications. Detailed instructions can be found [here](/docs/howto/how-to-record-video-while-playing-music-on-iphone).
 
 - **Save Playback Position:** This option ensures that the application saves and restores the playback position for songs in your music library.
 
@@ -233,7 +233,7 @@ During the song loading process, you can change the network type that app uses t
 
 #### Audio Equalizer
 
-This section is where you can customize the audio equalizer settings. You can read more about configuring audio equalizer [here](https://www.everappz.com/post/how-to-use-the-audio-equalizer-on-your-iphone-ipad-mac-with-evermusic-and-flacbox).
+This section is where you can customize the audio equalizer settings. You can read more about configuring audio equalizer [here](/docs/howto/how-to-use-the-audio-equalizer-on-your-iphone-ipad-mac-with-evermusic-and-flacbox).
 
 ![audio equalizer settings screen](21260c_107b9a57dca44551b1b7bbb0f4a9bc9c~mv2.png)
 

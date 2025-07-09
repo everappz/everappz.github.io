@@ -341,13 +341,13 @@ enter login and password and tap "Done".<br>
 If your connection is successful you will see connected storage in the "Cloud storage" section.<br><br>
 
 A full tutorial available here:<br>
-[Transfer your files from the computer to iPhone using SMB protocol](https://www.everappz.com/post/transfer-your-files-from-the-computer-to-iphone-using-smb-protocol)<br><br>
+[Transfer your files from the computer to iPhone using SMB protocol](/docs/howto/transfer-your-files-from-the-computer-to-iphone-using-smb-protocol/)<br><br>
 
 For **WebDAV** protocol, all steps are the same instead of the URL field.<br>
 URL should be in format http://server-name or https://server-name if the server supports SSL.<br><br>
 
 A full tutorial available here:<br>
-[How to Connect NAS Storage Using WebDAV and Listen to Music on Your iPhone or Mac](https://www.everappz.com/post/how-to-connect-nas-storage-using-webdav-and-listen-to-music-on-your-iphone-or-mac)<br><br>
+[How to Connect NAS Storage Using WebDAV and Listen to Music on Your iPhone or Mac](/docs/howto/how-to-connect-nas-storage-using-webdav-and-listen-to-music-on-your-iphone-or-mac)<br><br>
 
 **Wi-Fi Drive** is a popular technology that allows you to transfer files from your computer to an iOS device wirelessly using a desktop browser.<br>
 To use this feature your device and computer should be connected to the same Wi-Fi network.<br>
@@ -356,7 +356,7 @@ After this open a desktop browser and enter the URL from the application.<br>
 You can drag-n-drop files from your computer to the opened web page and they will appear on the device.<br><br>
 
 More detailed tutorial available here:<br>
-[How to transfer files wirelessly from a computer to an iPhone using WiFi-Drive](https://www.everappz.com/post/how-to-transfer-files-wirelessly-from-a-computer-to-an-iphone-using-wifi-drive)<br><br>
+[How to transfer files wirelessly from a computer to an iPhone using WiFi-Drive](/docs/howto/how-to-transfer-files-wirelessly-from-a-computer-to-an-iphone-using-wifi-drive)<br><br>
 
 **iTunes File Sharing** is another technology that allows you to transfer files from computer to device using iTunes and lightning cable.<br>
 Just connect a device to the computer using a cable and run iTunes.<br>
@@ -365,7 +365,7 @@ Tap on the app icon to see a shared folder.<br>
 Copy files from the computer to the shared folder on the device.<br><br>
 
 Detailed instruction available here:<br>
-[How to play local files (iTunes files) on my iPhone](https://www.everappz.com/post/how-to-play-local-itunes-files-on-my-iphone)<br><br>
+[How to play local files (iTunes files) on my iPhone](/docs/howto/how-to-play-local-itunes-files-on-my-iphone)<br><br>
 
 {{% /details %}}
 
@@ -380,7 +380,7 @@ Here’s the full list of supported audio tags:<br><br>
 
 ASIN, AcoustID: Fingerprint, AcoustID: Identifier, Album, Album Artist, Album Artist Sort Order, Album Cover, Album Sort Order, Arranger, Artist, Artist Sort Order, Artists, Barcode, Beats Per Minute, Catalog Number, Comment, Compilation, Composer, Composer Sort Order, Conductor, Content Group, Copyright, Description, Director, Disk Number, Disk Subtitle, Disk Total, Encoded By, Encoder Settings, Encoding Time, Engineer, File Owner, File Type, Genre, Grouping, ISRC, Initial Key, Involved People, Language, Length, License, Lyricist, Lyrics Advisory Rating, Lyrics Unsynced, Media Type, Mix DJ, Mixer, Mood, Movement Name, Movement Number, Movement Total, MusicBrainz: Album Artist ID, MusicBrainz: Album ID, MusicBrainz: Album Release Country, MusicBrainz: Album Status, MusicBrainz: Album Type, MusicBrainz: Artist ID, MusicBrainz: Disc ID, MusicBrainz: Original Album ID, MusicBrainz: Original Artist ID, MusicBrainz: Release Group ID, MusicBrainz: Release Track ID, MusicBrainz: TRM ID, MusicBrainz: Track ID, MusicBrainz: Work ID, MusicIP: Fingerprint, MusicIP: PUID, Musician Credits, Narrator, Net Radio Owner, Net Radio Station, Original Album, Original Artist, Original File Name, Original Lyricist, Original Release Date, Original Release Year, Performer, Podcast, Podcast Category, Podcast Description, Podcast ID, Podcast Keywords, Podcast URL, Producer, Publisher, Rating, Record Label, Release Country, Release Status, Release Type, Remixed By, Replay Gain: Album Gain, Replay Gain: Album Peak, Replay Gain: Album Range, Replay Gain: Reference Loudness, Replay Gain: Track Gain, Replay Gain: Track Peak, Replay Gain: Track Range, Script, Show Movement, Show Name, Show Name Sort Order, Subtitle, Track Number, Track Title, Track Title Sort Order, Track Total, WWW, WWW: Artist, WWW: Audio File, WWW: Audio Source, WWW: Commercial Info, WWW: Copyright, WWW: Payment, WWW: Publisher, WWW: Radio Page, Website, Work Title, Writer, Year<br><br>
 
-[Read more](https://www.everappz.com/post/evertag-tag-field-mappings)
+[Read more](/docs/guide/evertag/evertag-tag-field-mappings/)
 {{% /details %}}
 
 {{% details title="How to download files?" closed="true" %}}

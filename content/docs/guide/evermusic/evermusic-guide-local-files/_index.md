@@ -24,23 +24,23 @@ This built-in file manager allows you to edit files and offers various methods t
 
 ## Download files from cloud storage
 
-You can add audio files to the app by downloading them from connected cloud storage services as described [here](https://www.everappz.com/post/how-to-upload-my-files-to-the-cloud-storage-and-connect-them-to-evermusic-flacbox-evertag).
+You can add audio files to the app by downloading them from connected cloud storage services as described [here](/docs/howto/how-to-upload-my-files-to-the-cloud-storage-and-connect-them-to-evermusic-flacbox-evertag).
 
 ## Offline mode
 
-Automatically sync files for offline playback as described [here](https://www.everappz.com/post/play-offline-music-in-evermusic-flacbox-download-sync-from-cloud-to-local-files).
+Automatically sync files for offline playback as described [here](/docs/howto/play-offline-music-in-evermusic-flacbox-download-sync-from-cloud-to-local-files/).
 
 ## Import files from your device
 
-Easily import files from your device as described [here](https://www.everappz.com/post/how-to-play-local-music-stored-on-your-iphone-or-mac) or attached USB drive as described [here](https://www.everappz.com/post/how-to-connect-a-usb-flashcard-to-the-iphone-and-listen-to-music-or-manage-files-located-on-it).
+Easily import files from your device as described [here](/docs/howto/how-to-play-local-music-stored-on-your-iphone-or-mac) or attached USB drive as described [here](/docs/howto/how-to-connect-a-usb-flashcard-to-the-iphone-and-listen-to-music-or-manage-files-located-on-it).
 
 ## iTunes File Sharing
 
-Transfer files using a cable connection as described [here](https://www.everappz.com/post/how-to-transfer-files-from-my-mac-to-iphone-or-ipad-using-finder).
+Transfer files using a cable connection as described [here](/docs/howto/how-to-transfer-files-from-my-mac-to-iphone-or-ipad-using-finder).
 
 ## Wi-Fi Drive
 
-Transfer files wirelessly as described [here](https://www.everappz.com/post/how-to-transfer-files-wirelessly-from-a-computer-to-an-iphone-using-wifi-drive).
+Transfer files wirelessly as described [here](/docs/howto/how-to-transfer-files-wirelessly-from-a-computer-to-an-iphone-using-wifi-drive).
 
 ## Transfers Queue
 
@@ -108,13 +108,13 @@ Shows files and folders stored in the app’s Documents directory and iCloud Dri
 
 ## Files on this iPhone/iPad/Mac
 
-Shows files located on your device but in different applications. You can import them into this application using the system file picker. To activate the picker, choose "Open files..." to select files or "Open folders..." to select folders. Detailed instructions on how to import local music stored on your iPhone or Mac are available [here](https://www.everappz.com/post/how-to-play-local-music-stored-on-your-iphone-or-mac). You can also connect a folder located on your device and have quick access to the folder's content. Use "Connect a folder" menu item and choose a folder located on your device. Tap "Done" and the app will create link to that folder with read/write access and you can manage files dicrectly from this app. To disconnect folder located on your device tap "More actions" button and choose "Disconnect".
+Shows files located on your device but in different applications. You can import them into this application using the system file picker. To activate the picker, choose "Open files..." to select files or "Open folders..." to select folders. Detailed instructions on how to import local music stored on your iPhone or Mac are available [here](/docs/howto/how-to-play-local-music-stored-on-your-iphone-or-mac). You can also connect a folder located on your device and have quick access to the folder's content. Use "Connect a folder" menu item and choose a folder located on your device. Tap "Done" and the app will create link to that folder with read/write access and you can manage files dicrectly from this app. To disconnect folder located on your device tap "More actions" button and choose "Disconnect".
 
 ![Import Files From My Device](21260c_23f2dabf630a4939bd0958ede9f27317~mv2.png)
 
 ## Import Files Located on Connected USB Flashcards
 
-Detailed instructions on how to connect a USB flashcard to your iPhone and listen to music or manage files located on it are available [here](https://www.everappz.com/post/how-to-connect-a-usb-flashcard-to-the-iphone-and-listen-to-music-or-manage-files-located-on-it).
+Detailed instructions on how to connect a USB flashcard to your iPhone and listen to music or manage files located on it are available [here](/docs/howto/how-to-connect-a-usb-flashcard-to-the-iphone-and-listen-to-music-or-manage-files-located-on-it).
 
 ## More Actions
 
@@ -178,7 +178,7 @@ If you ever need to synchronize an offline folder from your cloud service manual
 
 For those who like to customize their experience further, you can adjust the synchronization timeout settings in the application settings to suit your preferences. This way, you have full control over when and how your offline collection is updated, ensuring you always have your favorite tunes available, even without an internet connection.
 
-Detailed instructions about How to Play Offline Music in Evermusic & Flacbox: Download & Sync from Cloud to Local Files is available [here](https://www.everappz.com/post/play-offline-music-in-evermusic-flacbox-download-sync-from-cloud-to-local-files).
+Detailed instructions about How to Play Offline Music in Evermusic & Flacbox: Download & Sync from Cloud to Local Files is available [here](/docs/howto/play-offline-music-in-evermusic-flacbox-download-sync-from-cloud-to-local-files/).
 
 ## Personalization
 

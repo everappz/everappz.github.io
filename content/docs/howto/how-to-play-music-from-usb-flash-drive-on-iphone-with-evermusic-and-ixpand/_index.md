@@ -63,4 +63,4 @@ Of course, if you ever want to copy audio files from your flash drive to your iP
 {{< figure src="21260c_14fd014587804ea3bb5212192413c154~mv2.jpg" alt="Evermusic: Copy Files To iXpand Drive" width="400" >}}
 
 ## Conclusion
-With Evermusic and the SanDisk iXpand Flash Drive, you'll have the freedom to enjoy your music collection without worrying about storage limitations. To learn more about Evermusic, visit [link](https://www.everappz.com/support-evermusic). To discover more about the iXpand by SanDisk, check out [link](http://www.ixpand.com). Say goodbye to storage woes and hello to your music on the go!
+With Evermusic and the SanDisk iXpand Flash Drive, you'll have the freedom to enjoy your music collection without worrying about storage limitations. To learn more about Evermusic, visit [link](/docs/guide/evermusic/). To discover more about the iXpand by SanDisk, check out [link](http://www.ixpand.com). Say goodbye to storage woes and hello to your music on the go!

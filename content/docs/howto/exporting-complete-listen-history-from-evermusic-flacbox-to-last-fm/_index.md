@@ -10,7 +10,7 @@ aliases:
   - /post/exporting-complete-listen-history-from-evermusic-flacbox-to-last-fm/
 ---
 
-**UPD:** Automatic scrobbling is now available! Learn more here: [https://www.everappz.com/post/how-to-scrobble-your-music-history-from-evermusic-or-flacbox-to-last-fm](https://www.everappz.com/post/how-to-scrobble-your-music-history-from-evermusic-or-flacbox-to-last-fm)
+**UPD:** Automatic scrobbling is now available! Learn more here: [/docs/howto/how-to-scrobble-your-music-history-from-evermusic-or-flacbox-to-last-fm](/docs/howto/how-to-scrobble-your-music-history-from-evermusic-or-flacbox-to-last-fm)
 
 Scrobbling is a simple way to automatically save basic details like the title and artist of the song you're currently playing to an online service. Later on, you can review your listening history.
 

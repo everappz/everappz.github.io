@@ -18,8 +18,8 @@ iTunes File Sharing empowers you to effortlessly copy audio files between your c
 
 **Before You Begin**
 
-- Alternatively, you can use [WiFi Drive](https://www.everappz.com/post/how-to-transfer-music-from-computer-to-iphone-without-itunes) to wirelessly copy or move audio files between your computer and apps like Evermusic and Flacbox. Simply ensure your computer and iOS device are connected to the same WiFi network, and you can easily transfer files between these apps.
-- Another technology to consider is [SMB](https://www.everappz.com/post/stream-your-music-from-mac-or-pc-to-iphone-using-smb), allowing you to directly stream music from your home computer to your iOS device, eliminating the need to copy audio files.
+- Alternatively, you can use [WiFi Drive](/docs/howto/how-to-transfer-music-from-computer-to-iphone-without-itunes) to wirelessly copy or move audio files between your computer and apps like Evermusic and Flacbox. Simply ensure your computer and iOS device are connected to the same WiFi network, and you can easily transfer files between these apps.
+- Another technology to consider is [SMB](/docs/howto/stream-your-music-from-mac-or-pc-to-iphone-using-smb/), allowing you to directly stream music from your home computer to your iOS device, eliminating the need to copy audio files.
 
 ## macOS Catalina or Later
 
@@ -128,4 +128,4 @@ To remove audio files copied from your computer to an iOS app using File Sharing
 
 ## Bonus Tip   
 
-You can also connect your computer using the SMB protocol to directly stream music from your MAC/PC to your iOS device. Find detailed instructions here: [How To Stream Your Music from MAC or PC to iPhone Using SMB](https://www.everappz.com/post/stream-your-music-from-mac-or-pc-to-iphone-using-smb).
+You can also connect your computer using the SMB protocol to directly stream music from your MAC/PC to your iOS device. Find detailed instructions here: [How To Stream Your Music from MAC or PC to iPhone Using SMB](/docs/howto/stream-your-music-from-mac-or-pc-to-iphone-using-smb/).

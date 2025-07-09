@@ -66,7 +66,7 @@ On the other hand, if you prefer AirPlay, look for the AirPlay button at the bot
 
 ![audio equalizer screen](21260c_99d91cee8fc04306b7a45e1bd64ad5ca~mv2.png)
 
-Evermusic comes packed with a 10-band equalizer, complete with iPod-style presets, a preamplifier, and manual equalizer settings. To activate the equalizer, simply tap the "Equalizer" button on the bottom toolbar and toggle the switch control in the top right corner. You can select from a range of predefined equalizer presets like "Acoustic", "Bass Booster", "Classical", and more. If you're a sound enthusiast, you'll appreciate the ability to fine-tune each frequency band using sliders. Feel free to create and save your very own audio equalizer presets. If a track isn't loud enough, you can also adjust the preamplifier gain. We have more detailed instructions about how to use equalizer [here](https://www.everappz.com/post/how-to-use-the-audio-equalizer-on-your-iphone-ipad-mac-with-evermusic-and-flacbox).
+Evermusic comes packed with a 10-band equalizer, complete with iPod-style presets, a preamplifier, and manual equalizer settings. To activate the equalizer, simply tap the "Equalizer" button on the bottom toolbar and toggle the switch control in the top right corner. You can select from a range of predefined equalizer presets like "Acoustic", "Bass Booster", "Classical", and more. If you're a sound enthusiast, you'll appreciate the ability to fine-tune each frequency band using sliders. Feel free to create and save your very own audio equalizer presets. If a track isn't loud enough, you can also adjust the preamplifier gain. We have more detailed instructions about how to use equalizer [here](/docs/howto/how-to-use-the-audio-equalizer-on-your-iphone-ipad-mac-with-evermusic-and-flacbox).
 
 ## Player Mode Toolbar
 
@@ -81,7 +81,7 @@ For a select few player screen styles you'll find a player mode toolbar at the t
 
 ![audio bookmarks screen](21260c_0b150b3657e0422386342dff57768b79~mv2.png)
 
-Here's where you can create multiple bookmarks for tracks in your music library. We have a full instruction on how to use bookmarks [here](https://www.everappz.com/post/how-to-listen-to-audiobooks-on-iphone-ipad-mac-using-evermusic).
+Here's where you can create multiple bookmarks for tracks in your music library. We have a full instruction on how to use bookmarks [here](/docs/howto/how-to-listen-to-audiobooks-on-iphone-ipad-mac-using-evermusic).
 
 ## Player Queue
 
@@ -101,7 +101,7 @@ To view track comments and embedded lyrics, as well as LRC files, follow these s
 4. Tap Buttons on the main screen.
 5. Enable Comments.
 
-We have a full instruction on how to view lyrics [here](https://www.everappz.com/post/how-to-view-embedded-lyrics-comments-lrc-file-for-music-on-your-iphone-or-mac).
+We have a full instruction on how to view lyrics [here](/docs/howto/how-to-view-embedded-lyrics-comments-lrc-file-for-music-on-your-iphone-or-mac).
 
 ## Options Menu
 
@@ -221,7 +221,7 @@ Allows you to customize the look of the audio player screen and configure skip t
 
 ### Audio Equalizer
 
-Change configuration and presets for audio equalizer. You can read more [here](https://www.everappz.com/post/how-to-use-the-audio-equalizer-on-your-iphone-ipad-mac-with-evermusic-and-flacbox).
+Change configuration and presets for audio equalizer. You can read more [here](/docs/howto/how-to-use-the-audio-equalizer-on-your-iphone-ipad-mac-with-evermusic-and-flacbox).
 
 ### Playback Speed
 

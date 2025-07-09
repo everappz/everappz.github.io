@@ -20,19 +20,19 @@ The Local Files section serves as a central hub for overseeing files located in 
 This built-in file manager provides you with the tools to edit files and offers various methods for importing audio files into the app:
 
 ### Downloading from Cloud Services:
-You can seamlessly add audio files to the app by downloading them from connected cloud services, as explained [here](https://www.everappz.com/post/how-to-upload-my-files-to-the-cloud-storage-and-connect-them-to-evermusic-flacbox-evertag).
+You can seamlessly add audio files to the app by downloading them from connected cloud services, as explained [here](/docs/howto/how-to-upload-my-files-to-the-cloud-storage-and-connect-them-to-evermusic-flacbox-evertag).
 
 ### Offline mode:
-Automatically sync files for offline playback as described [here](https://www.everappz.com/post/play-offline-music-in-evermusic-flacbox-download-sync-from-cloud-to-local-files).
+Automatically sync files for offline playback as described [here](/docs/howto/play-offline-music-in-evermusic-flacbox-download-sync-from-cloud-to-local-files/).
 
 ### Importing from Your Device:
-Effortlessly import files from your [device](https://www.everappz.com/post/how-to-play-local-music-stored-on-your-iphone-or-mac) or attached USB [drive](https://www.everappz.com/post/how-to-connect-a-usb-flashcard-to-the-iphone-and-listen-to-music-or-manage-files-located-on-it).
+Effortlessly import files from your [device](/docs/howto/how-to-play-local-music-stored-on-your-iphone-or-mac) or attached USB [drive](/docs/howto/how-to-connect-a-usb-flashcard-to-the-iphone-and-listen-to-music-or-manage-files-located-on-it).
 
 ### iTunes File Sharing:
-Transfer files via cable connection as detailed in this [how-to](https://www.everappz.com/post/how-to-transfer-files-from-my-mac-to-iphone-or-ipad-using-finder).
+Transfer files via cable connection as detailed in this [how-to](/docs/howto/how-to-transfer-files-from-my-mac-to-iphone-or-ipad-using-finder).
 
 ### Wi-Fi Drive:
-Wirelessly transfer files, as outlined [here](https://www.everappz.com/post/how-to-transfer-files-wirelessly-from-a-computer-to-an-iphone-using-wifi-drive).
+Wirelessly transfer files, as outlined [here](/docs/howto/how-to-transfer-files-wirelessly-from-a-computer-to-an-iphone-using-wifi-drive).
 
 ![Local Files Screen](21260c_8c3d840b08fc4346b6eb029952ed2ac8~mv2.png)
 
@@ -80,12 +80,12 @@ In the "Local Files" section, the screen is organized into two distinct sections
 
 **Files in this Application:** Displays folders located within the current application.
 
-**Files on this iPhone/iPad/Mac:** Shows files located on your device. You can import them into the application using the system file picker. To activate the picker, choose "Open files..." to select files or "Open folders..." to select folders. Detailed instructions on how to import local music stored on your iPhone or Mac are available [here](https://www.everappz.com/post/how-to-play-local-music-stored-on-your-iphone-or-mac).
+**Files on this iPhone/iPad/Mac:** Shows files located on your device. You can import them into the application using the system file picker. To activate the picker, choose "Open files..." to select files or "Open folders..." to select folders. Detailed instructions on how to import local music stored on your iPhone or Mac are available [here](/docs/howto/how-to-play-local-music-stored-on-your-iphone-or-mac).
 
 ![Import Files From My Device](21260c_23f2dabf630a4939bd0958ede9f27317~mv2.png)
 
 ### Importing Files from Connected USB Flashcards
-Detailed instructions on how to connect a USB flashcard to your iPhone and listen to music or manage files located on it are available [here](https://www.everappz.com/post/how-to-connect-a-usb-flashcard-to-the-iphone-and-listen-to-music-or-manage-files-located-on-it).
+Detailed instructions on how to connect a USB flashcard to your iPhone and listen to music or manage files located on it are available [here](/docs/howto/how-to-connect-a-usb-flashcard-to-the-iphone-and-listen-to-music-or-manage-files-located-on-it).
 
 ### More Actions
 Located in the top right corner of the "Local Files" screen, the more actions button "..." provides access to various actions:

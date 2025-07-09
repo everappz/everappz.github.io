@@ -57,7 +57,7 @@ You can also try pressing the "Restore Purchases" button in the app settings. Af
 
 **Audio Output Preferred IO Buffer Duration:** This option allows you to configure the input/output buffer duration for audio playback on your device. A typical value for input/output buffer duration to minimize latency while playing high-resolution audio is around 5 milliseconds (0.005 seconds). Keep in mind that the actual acceptable buffer size may vary depending on the specific hardware and software environment. It's essential to test different buffer durations on your target device and choose the one that provides the best compromise between low latency and stable audio playback without glitches.
 
-**Audio Output Mode (iOS Only):** This feature is exclusive to iOS and enables you to configure an audio output mixed mode. It allows audio from the app to blend seamlessly with other applications. Detailed instructions can be found [here](https://www.everappz.com/post/how-to-record-video-while-playing-music-on-iphone).
+**Audio Output Mode (iOS Only):** This feature is exclusive to iOS and enables you to configure an audio output mixed mode. It allows audio from the app to blend seamlessly with other applications. Detailed instructions can be found [here](/docs/howto/how-to-record-video-while-playing-music-on-iphone).
 
 **Save Playback Position:** This option ensures that the application saves and restores the playback position for songs in your music library.
 
@@ -87,7 +87,7 @@ Once you’ve enabled both of these features, open any folder, album, artist, or
 
 **Use direct URL:** when this option is enabled a direct URL will be used to load the song if the server supports it. This can speed up song loading but may affect playback stability.
 
-**Audio Equalizer:** This section is where you can customize the audio equalizer settings. You can read more about configuring audio equalizer [here](https://www.everappz.com/post/how-to-use-the-audio-equalizer-on-your-iphone-ipad-mac-with-evermusic-and-flacbox).
+**Audio Equalizer:** This section is where you can customize the audio equalizer settings. You can read more about configuring audio equalizer [here](/docs/howto/how-to-use-the-audio-equalizer-on-your-iphone-ipad-mac-with-evermusic-and-flacbox).
 
 ![audio player cache settings screen](21260c_d1430e6328994723916c9dead4d05b20~mv2.png)
 
@@ -170,7 +170,7 @@ Online music synchronization operates exclusively when the app is in the foregro
 
 - **Delete List:** You can delete the entire list of recently played songs.
 - **Change List Size:** You can set the number of items that should appear in the list.
-- **Export Songs List:** Use this action to export your recently played songs list in different formats: M3U, CSV, or TXT. Detailed instructions are available on our website [here](https://www.everappz.com/post/export-tracks-collection-from-evermusic-flacbox-to-m3u-csv-txt).
+- **Export Songs List:** Use this action to export your recently played songs list in different formats: M3U, CSV, or TXT. Detailed instructions are available on our website [here](/docs/howto/export-tracks-collection-from-evermusic-flacbox-to-m3u-csv-txt/).
 
 **Favorites:** you can manage the list of your favorite songs.
 
@@ -228,7 +228,7 @@ In this section, you can configure the built-in audio tags editor.
 
 **WiFi-Drive**
 
-In this section, you can activate the WiFi Drive feature, which allows you to transfer files from your computer to this device using a desktop web browser. We have detailed instructions on how to use WiFi Drive [here](https://www.everappz.com/post/how-to-transfer-files-wirelessly-from-a-computer-to-an-iphone-using-wifi-drive).
+In this section, you can activate the WiFi Drive feature, which allows you to transfer files from your computer to this device using a desktop web browser. We have detailed instructions on how to use WiFi Drive [here](/docs/howto/how-to-transfer-files-wirelessly-from-a-computer-to-an-iphone-using-wifi-drive).
 
 ![evermusic wi-fi drive settings screen](21260c_47d7e22d7d7542119123cee8d3ae24b8~mv2.png)
 

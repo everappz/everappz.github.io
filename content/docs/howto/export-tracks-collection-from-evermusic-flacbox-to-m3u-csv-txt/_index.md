@@ -27,7 +27,7 @@ On the 'Select file format' screen you have several options - CSV, TXT, M3U.
 
 - CSV
 
-This stands for Comma-Separated Values, perfect for organizing your data into a neat table format. In the destination file, you'll find parameters like Artist Name, Album Name, Track Name, Timestamp (the time you listened to the tracks), Album Artist Name, and Track Duration. You can use that file later to update your listening history on scrobbler services such as [Last.fm](http://Last.fm) as described [here](https://www.everappz.com/post/exporting-complete-listen-history-from-evermusic-flacbox-to-last-fm).
+This stands for Comma-Separated Values, perfect for organizing your data into a neat table format. In the destination file, you'll find parameters like Artist Name, Album Name, Track Name, Timestamp (the time you listened to the tracks), Album Artist Name, and Track Duration. You can use that file later to update your listening history on scrobbler services such as [Last.fm](http://Last.fm) as described [here](/docs/howto/exporting-complete-listen-history-from-evermusic-flacbox-to-last-fm/).
 
 - TXT
 

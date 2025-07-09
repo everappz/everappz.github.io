@@ -16,7 +16,7 @@ Open App Store and search for the app called [Evermusic](https://apps.apple.com/
 {{< figure src="21260c_9430a2a876cf4747b996044a6493696d~mv2.jpg" alt="Evermusic on App Store" width="400" >}}
 
 ## Import Music
-Add some music using [WiFi Drive](https://www.everappz.com/post/how-to-transfer-music-from-computer-to-iphone-without-itunes), [iTunes file sharing](https://www.everappz.com/post/how-to-play-local-itunes-files-on-my-iphone) or import existing music on your iPhone.
+Add some music using [WiFi Drive](/docs/howto/how-to-transfer-music-from-computer-to-iphone-without-itunes), [iTunes file sharing](/docs/howto/how-to-play-local-itunes-files-on-my-iphone) or import existing music on your iPhone.
 
 {{< figure src="21260c_e1998cc648c24dbcb081c8ce76578715~mv2.jpg" alt="Add Music to Evermusic" width="400" >}}
 

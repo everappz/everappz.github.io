@@ -26,7 +26,7 @@ Upgrade the application to the Premium version to remove all limits. The free ve
 
 Also, please keep in mind that **Family Sharing** is enabled for all purchases and plans, so you can share the Premium version with members of your family.  
 
-You can read more about purchases and Premium version here: [What is the difference between Evermusic and Evermusic Premium](https://www.everappz.com/post/what-is-the-difference-between-evermusic-and-evermusic-premium).
+You can read more about purchases and Premium version here: [What is the difference between Evermusic and Evermusic Premium](/docs/faq/evermusic/what-is-the-difference-between-evermusic-and-evermusic-premium/).
 
 ![evermusic upgrade to premium screen](21260c_332587e2cac0445ba8ea9446fb877b47~mv2.png)
 
@@ -103,7 +103,7 @@ Spatial audio uses psychoacoustic methods to create a more immersive audio exper
 
 #### Audio output mode
 
-Available on iOS only. Lets you set audio output mixed mode so audio from this application will blend with other applications. You can find instructions about how to use mixed mode [here](https://www.everappz.com/post/how-to-record-video-while-playing-music-on-iphone).
+Available on iOS only. Lets you set audio output mixed mode so audio from this application will blend with other applications. You can find instructions about how to use mixed mode [here](/docs/howto/how-to-record-video-while-playing-music-on-iphone).
 
 #### Save playback position
 
@@ -161,11 +161,11 @@ When this option is enabled a direct URL will be used to load the song if the se
 
 #### Optimize files loading 
 
-When this option is enabled the system will optimize song loading for the AVFoundation audio processor. This can enhance playback stability. The app uses the technology described [here](https://www.everappz.com/post/audio-streaming-and-caching-in-ios-using-avassetresourceloader-and-avplayer).
+When this option is enabled the system will optimize song loading for the AVFoundation audio processor. This can enhance playback stability. The app uses the technology described [here](/blog/audio-streaming-and-caching-in-ios-using-avassetresourceloader-and-avplayer/).
 
 ### Audio Equalizer
 
-This is where you can change the audio equalizer configuration. You can read more about configuring audio equalizer, presets, configurations [here](https://www.everappz.com/post/how-to-use-the-audio-equalizer-on-your-iphone-ipad-mac-with-evermusic-and-flacbox).
+This is where you can change the audio equalizer configuration. You can read more about configuring audio equalizer, presets, configurations [here](/docs/howto/how-to-use-the-audio-equalizer-on-your-iphone-ipad-mac-with-evermusic-and-flacbox).
 
 ![Audio Equalizer screen](21260c_426e44954ff845c286e016fab348dc76~mv2.png)
 
@@ -193,7 +193,7 @@ Gapless playback ensures that songs play without any interruptions or silence in
 
 ### Playback Cache
 
-Songs in the audio player queue will be downloaded automatically for smooth playback. If you download audio files manually, you can disable this option to avoid duplicates. You can also configure the audio player cache size here. You can read more about offline mode and playback cache here: [Play Offline Music in Evermusic & Flacbox: Download & Sync from Cloud to Local Files](https://www.everappz.com/post/play-offline-music-in-evermusic-flacbox-download-sync-from-cloud-to-local-files) 
+Songs in the audio player queue will be downloaded automatically for smooth playback. If you download audio files manually, you can disable this option to avoid duplicates. You can also configure the audio player cache size here. You can read more about offline mode and playback cache here: [Play Offline Music in Evermusic & Flacbox: Download & Sync from Cloud to Local Files](/docs/howto/play-offline-music-in-evermusic-flacbox-download-sync-from-cloud-to-local-files/) 
 
 ![Audio Player Cache screen](21260c_beb32b8ff5ff408d8ac7d2d2a0d0e4c9~mv2.png)
 
@@ -295,7 +295,7 @@ You can manage your recently played songs list.
 
 - **Delete List:** You can delete the entire list of recently played songs.
 - **Change List Size:** You can set the number of items that should appear in the list.
-- **Export Songs List:** Use this action to export your recently played songs list in different formats: M3U, CSV, or TXT. Detailed instructions are available on our website [here](https://www.everappz.com/post/export-tracks-collection-from-evermusic-flacbox-to-m3u-csv-txt).
+- **Export Songs List:** Use this action to export your recently played songs list in different formats: M3U, CSV, or TXT. Detailed instructions are available on our website [here](/docs/howto/export-tracks-collection-from-evermusic-flacbox-to-m3u-csv-txt/).
 
 ![Export Songs List screen](21260c_eace98a1cc344e7299377aba42f18512~mv2.png)
 
@@ -345,7 +345,7 @@ Define your default downloads directory or opt to be prompted every time to choo
 
 #### Synchronized offline folders
 
-Manage synchronization of selected offline folders. If you want to synchronize a folder for offline playback, tap the three dots button near the folder name and select ‘Available Offline Mode.’ All new files added to the cloud folder will be downloaded to your device automatically. You can read more about offline modes [here](https://www.everappz.com/post/play-offline-music-in-evermusic-flacbox-download-sync-from-cloud-to-local-files).
+Manage synchronization of selected offline folders. If you want to synchronize a folder for offline playback, tap the three dots button near the folder name and select ‘Available Offline Mode.’ All new files added to the cloud folder will be downloaded to your device automatically. You can read more about offline modes [here](/docs/howto/play-offline-music-in-evermusic-flacbox-download-sync-from-cloud-to-local-files/).
 
 #### Time interval
 
@@ -415,7 +415,7 @@ You can enable this to avoid sudden loud audio when you connect to CarPlay inter
 
 ## WiFi-Drive
 
-In this section, you can activate the WiFi Drive feature, which allows you to transfer files from your computer to this device using a desktop web browser. We have detailed instructions on how to use WiFi Drive [here](https://www.everappz.com/post/how-to-transfer-files-wirelessly-from-a-computer-to-an-iphone-using-wifi-drive).
+In this section, you can activate the WiFi Drive feature, which allows you to transfer files from your computer to this device using a desktop web browser. We have detailed instructions on how to use WiFi Drive [here](/docs/howto/how-to-transfer-files-wirelessly-from-a-computer-to-an-iphone-using-wifi-drive).
 
 ![WiFi-Drive screen](21260c_47d7e22d7d7542119123cee8d3ae24b8~mv2.png)
 
@@ -491,7 +491,7 @@ To start the backup operation, just tap the **Backup Application Data** button. 
 
 If you need to restore application data on a new device, move the backup file from this device to the new device using a connected cloud service or iCloud and open it on the new device.
 
-We have detailed instruction about how to use data backup and restore feature here: [How to Transfer Your Music Library Between Devices in Evermusic: Step-by-Step Guide](https://www.everappz.com/post/how-to-transfer-your-music-library-between-devices-in-evermusic-step-by-step-guide).
+We have detailed instruction about how to use data backup and restore feature here: [How to Transfer Your Music Library Between Devices in Evermusic: Step-by-Step Guide](/docs/howto/how-to-transfer-your-music-library-between-devices-in-evermusic-step-by-step-guide).
 
 ## Help
 

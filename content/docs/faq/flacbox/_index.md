@@ -17,13 +17,13 @@ No iTunes sync is needed—just upload from your PC or Mac like you do with any 
 To listen offline, use the built-in download manager to save music to your device.<br><br>
 
 Explore our how-to guides for more details:<br>
-- [Flacbox guide](https://www.everappz.com/post/flacbox-guide)<br>
-- [How to play music from iCloud Drive on my iPhone or Mac.](https://www.everappz.com/post/how-to-listen-to-music-from-icloud-drive-on-your-iphone-or-mac)<br>
-- [How To Enable DLNA Media Server on Windows 10 and Play Your Music on iPhone.](https://www.everappz.com/post/how-to-enable-dlna-media-server-on-windows-10-and-play-your-music-on-iphone)<br>
-- [How to upload my files to the cloud storage and connect them to Evermusic, Flacbox, Evertag.](https://www.everappz.com/post/how-to-upload-my-files-to-the-cloud-storage-and-connect-them-to-evermusic-flacbox-evertag)<br>
-- [How to transfer files wirelessly from a computer to an iPhone using WiFi-Drive.](https://www.everappz.com/post/how-to-transfer-files-wirelessly-from-a-computer-to-an-iphone-using-wifi-drive)<br>
-- [How to connect a USB flashcard to the iPhone and listen to music or manage files located on it.](https://www.everappz.com/post/how-to-connect-a-usb-flashcard-to-the-iphone-and-listen-to-music-or-manage-files-located-on-it)<br>
-- [How to play music on iPhone from WD My Cloud Home.](https://www.everappz.com/post/how-to-play-music-on-iphone-from-wd-my-cloud-home)
+- [Flacbox guide](/docs/guide/flacbox/flacbox-guide)<br>
+- [How to play music from iCloud Drive on my iPhone or Mac.](/docs/howto/how-to-listen-to-music-from-icloud-drive-on-your-iphone-or-mac)<br>
+- [How To Enable DLNA Media Server on Windows 10 and Play Your Music on iPhone.](/docs/howto/how-to-enable-dlna-media-server-on-windows-10-and-play-your-music-on-iphone)<br>
+- [How to upload my files to the cloud storage and connect them to Evermusic, Flacbox, Evertag.](/docs/howto/how-to-upload-my-files-to-the-cloud-storage-and-connect-them-to-evermusic-flacbox-evertag)<br>
+- [How to transfer files wirelessly from a computer to an iPhone using WiFi-Drive.](/docs/howto/how-to-transfer-files-wirelessly-from-a-computer-to-an-iphone-using-wifi-drive)<br>
+- [How to connect a USB flashcard to the iPhone and listen to music or manage files located on it.](/docs/howto/how-to-connect-a-usb-flashcard-to-the-iphone-and-listen-to-music-or-manage-files-located-on-it)<br>
+- [How to play music on iPhone from WD My Cloud Home.](/docs/howto/how-to-play-music-on-iphone-from-wd-my-cloud-home)
 {{% /details %}}
 
 {{% details title="Is Flacbox Free?" closed="true" %}}
@@ -34,7 +34,7 @@ Family Sharing is enabled for all plans, so you can share the Premium version wi
 
 Premium purchases and subscriptions are shared across iOS and Mac via iCloud. To sync your purchase, make sure iCloud is enabled, open the app on your iOS device, and wait a minute for sync to complete.<br><br>
 
-[Read more about the differences between Flacbox and Flacbox Premium](https://www.everappz.com/post/what-is-the-difference-between-flacbox-and-flacbox-premium)
+[Read more about the differences between Flacbox and Flacbox Premium](/docs/faq/flacbox/what-is-the-difference-between-flacbox-and-flacbox-premium/)
 {{% /details %}}
 
 
@@ -47,7 +47,7 @@ It uses a custom audio engine to handle nearly all formats and offers features l
 If you mainly use MP3, ALAC, or FLAC, **Evermusic** may be the better option for its playback features.<br>
 If you need broad compatibility with various audio file types, **Flacbox** is the right choice.<br><br>
 
-[Learn more about the differences between Flacbox and Evermusic](https://www.everappz.com/post/what-is-the-difference-between-evermusic-and-flacbox)
+[Learn more about the differences between Flacbox and Evermusic](/docs/faq/evermusic/what-is-the-difference-between-evermusic-and-flacbox/)
 {{% /details %}}
 
 {{% details title="How do I sync Flacbox?" closed="true" %}}
@@ -85,7 +85,7 @@ To **manually resync**, tap the three-dot menu and choose **“Synchronize”**.
 
 You can also customize **sync timeout intervals** in settings for more control over sync behavior and ensure your offline music stays updated.<br><br>
 
-[Read more](https://www.everappz.com/post/flacbox-guide-music-library)
+[Read more](/docs/guide/flacbox/flacbox-guide-music-library)
 
 {{% /details %}}
 
@@ -141,14 +141,14 @@ Once your music is organized, use the top toolbar for quick actions like **Searc
 **Learn More**<br>
 Explore in-app tutorials or visit these guides:<br><br>
 
-• [Flacbox Guide](https://www.everappz.com/post/flacbox-guide)<br>
-• [Upload files to cloud and connect to Flacbox](https://www.everappz.com/post/how-to-upload-my-files-to-the-cloud-storage-and-connect-them-to-evermusic-flacbox-evertag)<br>
-• [Listen to Audiobooks](https://www.everappz.com/post/how-to-listen-to-audiobooks-on-iphone-ipad-mac-using-evermusic)<br>
-• [Play Local Music on iPhone or Mac](https://www.everappz.com/post/how-to-play-local-music-stored-on-your-iphone-or-mac)<br>
-• [Play from iCloud Drive](https://www.everappz.com/post/how-to-listen-to-music-from-icloud-drive-on-your-iphone-or-mac)<br>
-• [Use the Audio Equalizer](https://www.everappz.com/post/how-to-use-the-audio-equalizer-on-your-iphone-ipad-mac-with-evermusic-and-flacbox)<br>
-• [Connect USB Flashcard](https://www.everappz.com/post/how-to-connect-a-usb-flashcard-to-the-iphone-and-listen-to-music-or-manage-files-located-on-it)<br>
-• [WiFi-Drive Wireless Transfer](https://www.everappz.com/post/how-to-transfer-files-wirelessly-from-a-computer-to-an-iphone-using-wifi-drive)
+• [Flacbox Guide](/docs/guide/flacbox/flacbox-guide)<br>
+• [Upload files to cloud and connect to Flacbox](/docs/howto/how-to-upload-my-files-to-the-cloud-storage-and-connect-them-to-evermusic-flacbox-evertag)<br>
+• [Listen to Audiobooks](/docs/howto/how-to-listen-to-audiobooks-on-iphone-ipad-mac-using-evermusic)<br>
+• [Play Local Music on iPhone or Mac](/docs/howto/how-to-play-local-music-stored-on-your-iphone-or-mac)<br>
+• [Play from iCloud Drive](/docs/howto/how-to-listen-to-music-from-icloud-drive-on-your-iphone-or-mac)<br>
+• [Use the Audio Equalizer](/docs/howto/how-to-use-the-audio-equalizer-on-your-iphone-ipad-mac-with-evermusic-and-flacbox)<br>
+• [Connect USB Flashcard](/docs/howto/how-to-connect-a-usb-flashcard-to-the-iphone-and-listen-to-music-or-manage-files-located-on-it)<br>
+• [WiFi-Drive Wireless Transfer](/docs/howto/how-to-transfer-files-wirelessly-from-a-computer-to-an-iphone-using-wifi-drive)
 
 {{% /details %}}
 
@@ -164,7 +164,7 @@ To reject auth-token login to your account on the web browser and navigate to th
 
 You can also disconnect the connected cloud accounts in the application and auth-token will be also removed from your device. If you remove the application from your device all downloaded data and access tokens will be also removed.<br><br>
 
-[Read more](https://www.everappz.com/post/flacbox-guide-connections)
+[Read more](/docs/guide/flacbox/flacbox-guide-connections)
 {{% /details %}}
 
 {{% details title="How do I make a playlist on Flacbox?" closed="true" %}}
@@ -173,13 +173,13 @@ You can also disconnect the connected cloud accounts in the application and auth
 - Enter a name for the playlist and tap "Save." The "Add Songs" dialog will appear.<br>
 - Select the tracks you want to add to the playlist.<br><br>
 
-[Read more](https://www.everappz.com/post/flacbox-guide-playlists)
+[Read more](/docs/guide/flacbox/flacbox-guide-playlists)
 {{% /details %}}
 
 {{% details title="What cloud services does Flacbox support?" closed="true" %}}
 Currently, the application supports the most popular cloud services: iCloud Drive, Google Drive, Dropbox, OneDrive, Box, MEGA, Yandex.Disk, WD MyCloud Home, DLNA, MediaFire, WebDAV, SMB, pCloud, HiDrive, My Cloud Home, InfiniCLOUD, Cloud Mail.ru, Put.io, MyDrive.<br><br>
 
-[Read more](https://www.everappz.com/post/flacbox-guide-connections)
+[Read more](/docs/guide/flacbox/flacbox-guide-connections)
 {{% /details %}}
 
 {{% details title="How can I use an equalizer?" closed="true" %}}
@@ -189,7 +189,7 @@ Currently, the application supports the most popular cloud services: iCloud Driv
 - Select one of the available presets (rock, pop, dance, disco..) or change equalizer sliders to build your own preset.<br><br>
 
 Full tutorial available here:<br>
-[How to use the audio equalizer on your iPhone, iPad, Mac with Evermusic and Flacbox](https://www.everappz.com/post/how-to-use-the-audio-equalizer-on-your-iphone-ipad-mac-with-evermusic-and-flacbox)
+[How to use the audio equalizer on your iPhone, iPad, Mac with Evermusic and Flacbox](/docs/howto/how-to-use-the-audio-equalizer-on-your-iphone-ipad-mac-with-evermusic-and-flacbox)
 {{% /details %}}
 
 {{% details title="How do I enable offline mode in Flacbox?" closed="true" %}}
@@ -217,7 +217,7 @@ Full tutorial available here:<br>
  • To sync manually, go to “Settings” > “File manager” > “Offline folders” > “Synchronized offline folders.”<br>
  • Tap “More actions” and select “Start synchronization.”<br><br>
 
-[Read more](https://www.everappz.com/post/play-offline-music-in-evermusic-flacbox-download-sync-from-cloud-to-local-files)
+[Read more](/docs/howto/play-offline-music-in-evermusic-flacbox-download-sync-from-cloud-to-local-files/)
 {{% /details %}}
 
 {{% details title="How to play locally Downloaded music on iPhone?" closed="true" %}}
@@ -234,7 +234,7 @@ To add local files to a playlist, open the "Playlists" screen and tap the more b
 
 With these simple steps, you can unlock the full potential of your iPhone and Mac as the ultimate platforms for enjoying your cherished local music collection.<br><br>
 
-[Read more](https://www.everappz.com/post/how-to-play-local-music-stored-on-your-iphone-or-mac)
+[Read more](/docs/howto/how-to-play-local-music-stored-on-your-iphone-or-mac)
 {{% /details %}}
 
 {{% details title="How can I resume a playlist from where I left off?" closed="true" %}}
@@ -254,7 +254,7 @@ You can view embedded lyrics for tracks in the app by **following these steps**:
 2. Lyrics Mode: Shows the embedded lyrics from your audio file. If your audio file has lyrics in the tags, they will appear here. This mode also supports timed text in LRC format. To edit the lyrics tag, use an external audio tag editor like Evertag. You can find LRC format lyrics for free on websites like Lyricsify. Copy the needed lyrics to your tags and save them to display later on this screen.<br>
 3. LRC File Mode: Instead of editing audio files, you can place an LRC file in the same folder as the original audio file. Both files should have the same name but different extensions. When you swipe to the third page on the Comments screen, the app will search for the LRC file in the same directory and display its content.<br><br>
 
-[Read more](https://www.everappz.com/post/how-to-add-and-view-comments-to-your-audio-tracks-on-iphone-ipad-and-mac-with-evermusic-and-flacbox)
+[Read more](/docs/howto/how-to-add-and-view-comments-to-your-audio-tracks-on-iphone-ipad-and-mac-with-evermusic-and-flacbox)
 {{% /details %}}
 
 {{% details title="How do I transfer music to Flacbox from my computer?" closed="true" %}}
@@ -263,21 +263,21 @@ You can connect your computer or personal NAS using SMB, WebDAV, or DLNA protoco
 To connect a computer using SMB protocol tap "Connect a cloud service" → SMB. Enter computer IP address and shared folder name in URL field using format smb://computer-ip-address/shared-folder-name, enter login and password and tap "Done". If your connection is successful you will see connected storage in the "Cloud services" section.<br><br>
 
 A full tutorial available here:<br>
-[Transfer your files from the computer to iPhone using SMB protocol](https://www.everappz.com/post/transfer-your-files-from-the-computer-to-iphone-using-smb-protocol)<br><br>
+[Transfer your files from the computer to iPhone using SMB protocol](/docs/howto/transfer-your-files-from-the-computer-to-iphone-using-smb-protocol/)<br><br>
 
 For WebDAV protocol, all steps are the same instead of the URL field. URL should be in format http://server-name or https://server-name if the server supports SSL.<br><br>
 
 Wi-Fi Drive is a popular technology that allows you to transfer files from your computer to an iOS device wirelessly using a desktop browser. To use this feature your device and computer should be connected to the same Wi-Fi network. Open "Connections" → "Computer" → "Connect using Wi-Fi" and enable the server. After this open a desktop browser and enter the URL from the application. You can drag-n-drop files from your computer to the opened web page and they will appear on the device.<br>
 More detailed tutorial available here:<br>
-[How to transfer files wirelessly from a computer to an iPhone using WiFi-Drive](https://www.everappz.com/post/how-to-transfer-files-wirelessly-from-a-computer-to-an-iphone-using-wifi-drive)<br><br>
+[How to transfer files wirelessly from a computer to an iPhone using WiFi-Drive](/docs/howto/how-to-transfer-files-wirelessly-from-a-computer-to-an-iphone-using-wifi-drive)<br><br>
 
 iTunes File Sharing is another technology that allows you to transfer files from computer to device using iTunes and lightning cable. Just connect a device to the computer using a cable and run iTunes. Open the iTunes → "Applications section" → and find Evermusic. Tap on the app icon to see a shared folder. Copy files from the computer to the shared folder on the device.<br><br>
 
 Detailed instruction available here:<br>
-[How to play local files (iTunes files) on my iPhone](https://www.everappz.com/post/how-to-play-local-itunes-files-on-my-iphone)<br><br>
+[How to play local files (iTunes files) on my iPhone](/docs/howto/how-to-play-local-itunes-files-on-my-iphone)<br><br>
 
 DLNA You can also setup DLNA media server and stream your music from Window PC as described here:<br>
-[How To Enable DLNA Media Server on Windows 10 and Play Your Music on iPhone](https://www.everappz.com/post/how-to-enable-dlna-media-server-on-windows-10-and-play-your-music-on-iphone)
+[How To Enable DLNA Media Server on Windows 10 and Play Your Music on iPhone](/docs/howto/how-to-enable-dlna-media-server-on-windows-10-and-play-your-music-on-iphone)
 {{% /details %}}
 
 {{% details title="How to download music?" closed="true" %}}
@@ -297,10 +297,10 @@ Once you added a network account you can download your music from the cloud.<br>
 – Offline Artist/Album/Playlist/Genre will appear in the "Offline music" section of the music library<br><br>
 
 More detailed instruction about offline mode available here:<br>
-[Play Offline Music in Evermusic & Flacbox: Download & Sync from Cloud to Local Files](https://www.everappz.com/post/play-offline-music-in-evermusic-flacbox-download-sync-from-cloud-to-local-files)<br><br>
+[Play Offline Music in Evermusic & Flacbox: Download & Sync from Cloud to Local Files](/docs/howto/play-offline-music-in-evermusic-flacbox-download-sync-from-cloud-to-local-files/)<br><br>
 
 Another available option is download music from cloud services and import it in Evermusic as described here:<br>
-[How to Download Music From YouTube and Listen to Offline Music on iPhone](https://www.everappz.com/post/how-to-download-music-from-youtube-and-listen-to-offline-music-on-iphone)
+[How to Download Music From YouTube and Listen to Offline Music on iPhone](/docs/howto/how-to-download-music-from-youtube-and-listen-to-offline-music-on-iphone)
 {{% /details %}}
 
 
@@ -330,7 +330,7 @@ Yes, Flacbox can be used as a powerful audiobook player.<br><br>
 
 Flacbox provides a full-featured solution for audiobook lovers on iPhone, iPad, and Mac.<br><br>
 
-[Read more](https://www.everappz.com/post/how-to-listen-to-audiobooks-on-iphone-ipad-mac-using-evermusic)
+[Read more](/docs/howto/how-to-listen-to-audiobooks-on-iphone-ipad-mac-using-evermusic)
 
 {{% /details %}}
 
@@ -348,24 +348,24 @@ Yes, Flacbox supports NAS connections using **SMB**, **WebDAV**, and **DLNA** pr
 • Tap **"Done"**.<br><br>
 
 If the connection is successful, you’ll see your NAS in the **Cloud services** section.<br>
-[Read full tutorial](https://www.everappz.com/single-post/Stream-your-music-from-MAC-or-PC-to-iPhone-using-SMB)<br><br>
+[Read full tutorial](/docs/howto/stream-your-music-from-mac-or-pc-to-iphone-using-smb/)<br><br>
 
 **To connect via WebDAV protocol:**<br>
 • Steps are the same as SMB, but use a WebDAV URL like `http://your-server-name` or `https://your-server-name` if using SSL.<br><br>
 
 **To stream via DLNA:**<br>
 • You can stream from a Windows PC by enabling its DLNA media server.<br>
-[Read the DLNA setup guide](https://www.everappz.com/post/how-to-enable-dlna-media-server-on-windows-10-and-play-your-music-on-iphone)<br><br>
+[Read the DLNA setup guide](/docs/howto/how-to-enable-dlna-media-server-on-windows-10-and-play-your-music-on-iphone)<br><br>
 
 **Available Devices section:**<br>
 • Shows all discoverable NAS devices on your local network.<br>
 • Tap a device name to connect, then enter login credentials if needed.<br><br>
 
 **Useful links:**<br>
-• [How to play music on iPhone from WD My Cloud Home](https://www.everappz.com/post/how-to-play-music-on-iphone-from-wd-my-cloud-home)<br>
-• [Stream your music from MAC or PC to iPhone using SMB](https://www.everappz.com/post/stream-your-music-from-mac-or-pc-to-iphone-using-smb)<br>
-• [Connect Bluesound Vault storage](https://www.everappz.com/post/how-to-connect-bluesound-vault-s-internal-storage-from-the-evermusic-flacbox-evertag)<br>
-• [Connect NAS Storage Using WebDAV](https://www.everappz.com/post/how-to-connect-nas-storage-using-webdav-and-listen-to-music-on-your-iphone-or-mac)
+• [How to play music on iPhone from WD My Cloud Home](/docs/howto/how-to-play-music-on-iphone-from-wd-my-cloud-home)<br>
+• [Stream your music from MAC or PC to iPhone using SMB](/docs/howto/stream-your-music-from-mac-or-pc-to-iphone-using-smb/)<br>
+• [Connect Bluesound Vault storage](/docs/howto/how-to-connect-bluesound-vault-s-internal-storage-from-the-evermusic-flacbox-evertag)<br>
+• [Connect NAS Storage Using WebDAV](/docs/howto/how-to-connect-nas-storage-using-webdav-and-listen-to-music-on-your-iphone-or-mac)
 
 {{% /details %}}
 
@@ -407,14 +407,14 @@ You can add music manually or automatically using sync folders.<br><br>
 **Learn More**<br>
 Explore these tutorials for more help:<br><br>
 
-• [Upload files to cloud and connect them to Flacbox](https://www.everappz.com/post/how-to-upload-my-files-to-the-cloud-storage-and-connect-them-to-evermusic-flacbox-evertag)<br>
-• [Listen to Audiobooks on iPhone, iPad, or Mac](https://www.everappz.com/post/how-to-listen-to-audiobooks-on-iphone-ipad-mac-using-evermusic)<br>
-• [Play Local Music Stored on Your iPhone or Mac](https://www.everappz.com/post/how-to-play-local-music-stored-on-your-iphone-or-mac)<br>
-• [Play Music from iCloud Drive](https://www.everappz.com/post/how-to-listen-to-music-from-icloud-drive-on-your-iphone-or-mac)<br>
-• [Use the Audio Equalizer](https://www.everappz.com/post/how-to-use-the-audio-equalizer-on-your-iphone-ipad-mac-with-evermusic-and-flacbox)<br>
-• [Connect USB Flashcard to iPhone](https://www.everappz.com/post/how-to-connect-a-usb-flashcard-to-the-iphone-and-listen-to-music-or-manage-files-located-on-it)<br>
-• [Transfer Files Wirelessly Using WiFi-Drive](https://www.everappz.com/post/how-to-transfer-files-wirelessly-from-a-computer-to-an-iphone-using-wifi-drive)<br>
-• [Transfer Files Using SMB Protocol](https://www.everappz.com/post/transfer-your-files-from-the-computer-to-iphone-using-smb-protocol)
+• [Upload files to cloud and connect them to Flacbox](/docs/howto/how-to-upload-my-files-to-the-cloud-storage-and-connect-them-to-evermusic-flacbox-evertag)<br>
+• [Listen to Audiobooks on iPhone, iPad, or Mac](/docs/howto/how-to-listen-to-audiobooks-on-iphone-ipad-mac-using-evermusic)<br>
+• [Play Local Music Stored on Your iPhone or Mac](/docs/howto/how-to-play-local-music-stored-on-your-iphone-or-mac)<br>
+• [Play Music from iCloud Drive](/docs/howto/how-to-listen-to-music-from-icloud-drive-on-your-iphone-or-mac)<br>
+• [Use the Audio Equalizer](/docs/howto/how-to-use-the-audio-equalizer-on-your-iphone-ipad-mac-with-evermusic-and-flacbox)<br>
+• [Connect USB Flashcard to iPhone](/docs/howto/how-to-connect-a-usb-flashcard-to-the-iphone-and-listen-to-music-or-manage-files-located-on-it)<br>
+• [Transfer Files Wirelessly Using WiFi-Drive](/docs/howto/how-to-transfer-files-wirelessly-from-a-computer-to-an-iphone-using-wifi-drive)<br>
+• [Transfer Files Using SMB Protocol](/docs/howto/transfer-your-files-from-the-computer-to-iphone-using-smb-protocol/)
 
 {{% /details %}}
 
@@ -442,7 +442,7 @@ Note: Ensure JavaScript is enabled and you're using the latest browser version f
 2. Enter the server URL from the Flacbox app in the “Folder” field.<br>
 3. Choose a drive letter, click “Finish”, and browse your iPhone's files directly.<br><br>
 
-[Read more](https://www.everappz.com/post/how-to-transfer-files-wirelessly-from-a-computer-to-an-iphone-using-wifi-drive)
+[Read more](/docs/howto/how-to-transfer-files-wirelessly-from-a-computer-to-an-iphone-using-wifi-drive)
 
 {{% /details %}}
 

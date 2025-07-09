@@ -62,7 +62,7 @@ This comprehensive guide will walk you through the process of archiving (ZIP) pl
 ### 4. Using the Created Archive
 
 - Tap **More Actions** on the archive for options like:
-  - **Upload / Copy:** Transfer the archive to another device or cloud storage. You can also use Wi-Fi Drive feature as described here [https://www.everappz.com/post/how-to-transfer-files-wirelessly-from-a-computer-to-an-iphone-using-wifi-drive](https://www.everappz.com/post/how-to-transfer-files-wirelessly-from-a-computer-to-an-iphone-using-wifi-drive)
+  - **Upload / Copy:** Transfer the archive to another device or cloud storage. You can also use Wi-Fi Drive feature as described here [/docs/howto/how-to-transfer-files-wirelessly-from-a-computer-to-an-iphone-using-wifi-drive](/docs/howto/how-to-transfer-files-wirelessly-from-a-computer-to-an-iphone-using-wifi-drive)
   - **Show in Finder:** Locate the archive on your Mac (Mac users only).
 
 ![Image](21260c_6a67e1837cfb4227a63bd1dd863c1fed~mv2.png)

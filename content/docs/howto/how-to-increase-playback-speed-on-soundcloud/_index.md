@@ -47,6 +47,6 @@ Introducing **Soundy**, your solution to this missing feature. Soundy is the bes
 
 Got questions? Leave your comments below, and we’ll gladly assist you.
 
-**P.S.** Soundy also features a real 10-band equalizer with preamp and bass boost. Learn more about the equalizer [here](https://www.everappz.com/single-post/soundy-equalizer-for-soundcloud-on-the-app-store).
+**P.S.** Soundy also features a real 10-band equalizer with preamp and bass boost. Learn more about the equalizer [here](/docs/howto/soundy-equalizer-for-soundcloud-on-the-app-store/).
 
 Enhance your SoundCloud journey today with **Soundy** – your gateway to a richer and more customizable listening experience. Download it now!

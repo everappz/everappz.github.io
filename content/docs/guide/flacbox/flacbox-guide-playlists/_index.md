@@ -53,7 +53,7 @@ On the next screen, choose the file location. Supported options include:
 
 Let’s select connected cloud storage and open the folder containing the playlist file. Supported playlist file extensions include M3U, M3U8, and CUE. Select the playlist file and tap ‘Done’ to confirm your selection.
 
-The app will parse the playlist file, create a list of tracks, and locate those files on the storage to compile a final playlist, which will be imported into the music library. It’s crucial that your M3U/CUE file contains the correct paths for media files, and the files should be located at those paths on your storage. You can read more about playlist import [here](https://www.everappz.com/post/how-to-import-m3u-playlist-to-evermusic-and-flacbox).
+The app will parse the playlist file, create a list of tracks, and locate those files on the storage to compile a final playlist, which will be imported into the music library. It’s crucial that your M3U/CUE file contains the correct paths for media files, and the files should be located at those paths on your storage. You can read more about playlist import [here](/docs/howto/how-to-import-m3u-playlist-to-evermusic-and-flacbox).
 
 ## Playlist Detail Screen
 
