@@ -145,7 +145,7 @@ You can set which controls should be enabled on the lock screen. Possible values
 
 You can select the time interval for the ‘Skip Time’ buttons here.
 
-### Files Loading
+### File Loading
 
 During the song loading process, you can change the network type that app uses to load songs. Available options - "Wi-Fi", "Wi-Fi and Cellular data".
 
@@ -159,7 +159,7 @@ Set buffering time interval. You may increase this value if you have a bad netwo
 
 When this option is enabled a direct URL will be used to load the song if the server supports it. This can speed up song loading but may affect playback stability.
 
-#### Optimize files loading 
+#### Optimize file loading 
 
 When this option is enabled the system will optimize song loading for the AVFoundation audio processor. This can enhance playback stability. The app uses the technology described [here](/blog/audio-streaming-and-caching-in-ios-using-avassetresourceloader-and-avplayer/).
 

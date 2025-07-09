@@ -58,8 +58,6 @@ For those using Google Cast, you'll spot the Google Cast icon at the bottom of t
 
 ## AirPlay
 
-![airplay devices screen](21260c_da83814239054956a918e46cd4fcb557~mv2.jpeg)
-
 On the other hand, if you prefer AirPlay, look for the AirPlay button at the bottom of the audio player screen or on the Audio Settings screen, which you can access by tapping the volume button at the bottom of the screen. A quick tap on it allows you to choose the available device to which you'd like to stream your audio content. The application even supports AirPlay2 technology, enabling you to share audio content across multiple AirPlay devices simultaneously.
 
 ## Audio Equalizer
@@ -85,8 +83,6 @@ Here's where you can create multiple bookmarks for tracks in your music library.
 
 ## Player Queue
 
-![Player Queue](21260c_add18796aa274197bd23cda47bf3a1eb~mv2.png)
-
 To access your player queue, simply tap the player queue button located on the bottom toolbar. To move a song in the queue, use the reorder indicator near the title.
 
 ## Comments / Lyrics
@@ -105,7 +101,7 @@ We have a full instruction on how to view lyrics [here](/docs/howto/how-to-view-
 
 ## Options Menu
 
-![more options menu for song screen](21260c_6880058abf6c4c2c92921db4d249c125~mv2.png)
+![Options Menu](21260c_add18796aa274197bd23cda47bf3a1eb~mv2.png)
 
 Each song in your audio player queue has a menu with more actions, which you can access by tapping the three dots button near the song title. The available actions are:
 
@@ -212,7 +208,7 @@ Allows you to customize the look of the audio player screen and configure skip t
 - **Playback Controls on the Lock Screen**: Enable Skip Time, Add Bookmark, Add to Favorites and other controls on the lock screen.
 - **Skip Time Buttons**: Select the time interval for skip buttons.
 
-### Files Loading
+### File Loading
 
 - **Network type**: Choose between Wi-Fi or Wi-Fi and Cellular data.
 - **Preloading time**: Set buffering interval.

@@ -56,11 +56,3 @@ Effortlessly link all your available cloud accounts with your precious audio fil
 
 **Local Files:**  
 Explore the "Local Files" section, which provides an overview of all the files located within the "Documents" folder of the app or files located on your device. Our user-friendly file manager allows you to make quick edits and organize your local files efficiently.
-
----
-
-**Tags:**  
-[guide](https://www.everappz.com/blog/tags/guide), [evertag](https://www.everappz.com/blog/tags/evertag)
-
-**Category:**  
-[Guide](https://www.everappz.com/blog/categories/guide)
