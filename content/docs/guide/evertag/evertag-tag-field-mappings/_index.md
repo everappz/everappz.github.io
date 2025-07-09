@@ -1,6 +1,6 @@
 ---
-title: "Audio Tag Field Mappings in Evertag"
-date: 2024-11-29
+title: "Tag Field Mappings"
+date: 2020-02-01
 description: "Explore the complete list of audio tag fields supported by the Evertag app, including internal field names and mappings across major metadata formats."
 keywords: ["audio metadata", "audio tags", "ID3 tags", "Vorbis Comments", "MP4 tags", "ASF metadata", "Evertag tag support", "music file tags", "audio tag formats"]
 tags: ["Evertag", "audio tags", "metadata", "ID3", "Vorbis", "MP4", "ASF"]
