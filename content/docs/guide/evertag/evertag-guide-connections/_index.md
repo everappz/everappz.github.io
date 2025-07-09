@@ -2,20 +2,23 @@
 title: "Connections"
 date: 2020-02-01
 draft: false
-
-description: "Learn how to connect cloud services, NAS, and your computer to Flacbox. Stream music from iCloud, Dropbox, Google Drive, and more. Use SMB, WebDAV, DLNA, Wi-Fi Drive, and iTunes File Sharing."
+description: "Learn how to connect cloud storage, NAS, and your computer to Evertag. Access and edit audio files directly from cloud storage, personal NAS, or Mac/PC."
 keywords: [
-  "Flacbox cloud setup", "connect Google Drive to Flacbox", "SMB music streaming", 
-  "WebDAV iOS player", "DLNA music app", "NAS audio streaming", "Wi-Fi Drive iPhone", 
-  "transfer files to iPhone", "Flacbox iTunes File Sharing", "connect NAS to iPhone"
+  "Evertag cloud setup", "connect iCloud to Evertag", "SMB file access iOS",
+  "WebDAV audio tag editor", "NAS metadata editing", "Wi-Fi Drive Evertag",
+  "transfer audio files to iPhone", "Evertag iTunes File Sharing", "edit FLAC tags from cloud"
 ]
-tags: ["guide", "flacbox", "connections"]
+tags: ["guide", "evertag", "connections"]
 aliases:
   - /guide-evertag-connect/
 readingTime: 11
 ---
 
-On this screen, you can connect various sources containing your music. You can integrate popular cloud services like Dropbox, Google Drive, and others, as well as connect your Mac or PC. Additionally, you have the option to import music from Apple Time Capsule or WD Cloud Home.
+On this screen, you can connect various sources containing your audio files. You can integrate popular cloud services like Dropbox, OneDrive, iCloud, and others, as well as connect your Mac or PC. Additionally, you have the option to edit audio files located in Apple Time Capsule or WD Cloud Home.
+
+{{< cards cols="1">}}
+  {{< card title="" subtitle="Evertag Connections Screen" image="/docs/guide/evertag/img/connections.webp" >}}
+{{< /cards >}}
 
 ## Connect to cloud storage
 
@@ -24,14 +27,12 @@ On this screen, you can connect various sources containing your music. You can i
 - Choose a cloud storage service from the list  
 - Enter your credentials, and tap 'Done.'
 
-![Connect a Cloud Service](21260c_f3f30523c16a45af8a7a50af24ef7951~mv2.png)
-
 If you encounter any issues, be sure to check your internet connection and login/password.  
 In the Premium version of the app, you can add an unlimited number of services.
 
 ## Supported cloud storages
 
-Currently, the application supports the most popular cloud storage services: iCloud Drive, Dropbox, OneDrive, Google Drive, MEGA, Synology Drive, SMB, WebDAV, DLNA, Yandex.Disk, Box, 百度网盘, pCloud, WD My Cloud Home, InfiniCLOUD, MediaFire, OpenDrive, HiDrive, Cloud Mail.ru, Put.io, MyDrive.
+Currently, the application supports the most popular cloud storage services: iCloud Drive, Dropbox, OneDrive, MEGA, Synology Drive, SMB, WebDAV, Yandex.Disk, Box, 百度网盘, pCloud, WD My Cloud Home, InfiniCLOUD, MediaFire, OpenDrive, HiDrive, Cloud Mail.ru, Put.io, MyDrive.
 
 ## Security and privacy
 
@@ -57,8 +58,6 @@ You can also disconnect the connected cloud accounts in the application, and the
   - **Settings**: To modify the configuration or authentication data for the cloud service, choose 'Settings.' Sometimes, you may need to reauthorize the connected cloud service if the authorization token has expired.  
   - **Disconnect**: If you wish to completely sever the connection between the app and the cloud service, select 'Disconnect.' Be aware that choosing this option will remove all songs associated with this cloud service from your app's music library, but they will remain on the server.
 
-![disconnect a cloud service or change configuration](21260c_553b3f9b3e524c9ea5424024f064b2a6~mv2.png)
-
 ## Connect to Computer or NAS
 
 You can also connect your computer, personal NAS, or other network devices using the SMB, DLNA, or WebDAV protocol.
@@ -74,17 +73,11 @@ You can also connect your computer, personal NAS, or other network devices using
 If your connection is successful, you will see the connected storage in the "Cloud storage" section.  
 A full tutorial on how to connect your Mac or PC using SMB is available [here](/docs/howto/stream-your-music-from-mac-or-pc-to-iphone-using-smb/).
 
-![Connect to computer using SMB protocol](21260c_e968a4df26b74390aebb5abcd0b9bd72~mv2.png)
-
 ## Connect to NAS using WebDAV
 
 All steps are the same except for the URL field.  
 The URL should be in the format http://server-name, or https://server-name if the server supports SSL.  
 A full tutorial on how to connect NAS using the WebDAV protocol is available [here](/docs/howto/how-to-connect-nas-storage-using-webdav-and-listen-to-music-on-your-iphone-or-mac).
-
-## Connect to Computer or NAS using DLNA
-
-You can also share a music library located on your Windows PC or personal NAS using the DLNA protocol and access that library in the app as described [here](/docs/howto/how-to-enable-dlna-media-server-on-windows-10-and-play-your-music-on-iphone). DLNA is a popular and widely used protocol, but it only allows you to play or download music. You can't upload files or create new folders on the server.
 
 ## Available devices
 
@@ -94,8 +87,6 @@ To establish a connection with a device, follow these steps:
 - Open the app and go to the "Available Devices" section.  
 - Tap the device you want to connect to from the list.  
 - If needed, enter your login details to complete the connection.
-
-![Available devices section displays all devices within your local network that you can connect to through the application](21260c_8897c451db094373b87b6c1ae1d0be2c~mv2.png)
 
 ## Wi-Fi Drive 
 
@@ -119,8 +110,6 @@ Here's a step-by-step guide on how to use Wi-Fi Drive.
 Once the web page corresponding to your iOS device opens in the browser, you can easily drag and drop files from your computer onto the web page.  
 The files you drag and drop will begin transferring to your iOS device and will be accessible within the application.
 
-![Wi-Fi Drive is a convenient technology that enables wireless file transfers from your computer to your iOS device via a desktop browser](21260c_ec3157566d2848a48feee051e18b8c76~mv2.png)
-
 Detailed instructions on how to transfer files wirelessly using Wi-Fi Drive are available [here](/docs/howto/how-to-transfer-files-wirelessly-from-a-computer-to-an-iphone-using-wifi-drive).
 
 ## iTunes File Sharing
@@ -133,11 +122,9 @@ iTunes File Sharing is another technology that allows you to transfer files from
 
 Detailed instructions on how to use iTunes File Sharing are available [here](/docs/howto/how-to-play-local-itunes-files-on-my-iphone/).
 
-![iTunes File Sharing is another technology that allows you to transfer files from computer to device using the Finder app on your Mac and lightning cable](21260c_9885734200f04fa09cd27d435971647c~mv2.png)
-
 ## Connect a USB flashcard
 
-If you have an SD card, you can connect it using a Lightning card reader. The app currently supports Apple Certified card readers and iXpand Flash Drives. If you have an iXpand Flash Drive, insert it into the Lightning port and open the application. You'll see an 'External device connected' message and device information. Simply tap on the flash drive icon to access the music folder and tap on any audio file to start playing. We have detailed instructions on how to connect a USB flashcard to the iPhone and listen to music or manage files located on it, available [here](/docs/howto/how-to-connect-a-usb-flashcard-to-the-iphone-and-listen-to-music-or-manage-files-located-on-it).
+If you have an SD card, you can connect it using a Lightning card reader. The app currently supports Apple Certified card readers. We have detailed instructions on how to connect a USB flashcard to the iPhone and manage files located on it, available [here](/docs/howto/how-to-connect-a-usb-flashcard-to-the-iphone-and-listen-to-music-or-manage-files-located-on-it).
 
 ## File Manager
 
@@ -148,11 +135,6 @@ Once you’ve connected a cloud storage service, tap its icon to view all availa
 The top toolbar, conveniently located under the navigation bar, offers several useful actions for easy access. You can show or hide this toolbar by using a simple swipe-down gesture. Here are the available actions:
 
 - **Search**: This option allows you to perform a quick search within the current directory, making it effortless to locate specific files or folders.  
-- **Continue Playback**: If enabled in the application settings, this feature restores the audio player queue and the last media position for the current folder. It's a handy way to pick up where you left off in your music library.  
-- **Play All**: By selecting this action, the app will scan the current folder and its subfolders, adding all the found audio files to a new player queue. This is useful when you want to play all the music within a particular directory.  
-- **Shuffle All**: Similar to "Play All," this action scans the current folder and its subfolders but shuffles the files before adding them to the audio player queue. It's a great way to enjoy your music in a random order for a bit of variety.
-
-![The top toolbar, conveniently located under the navigation bar, offers several useful actions for easy access.](21260c_1a8a90ad75f44ff7bd2f7d19a8ecbe75~mv2.png)
 
 ## Folder Options
 
@@ -160,14 +142,15 @@ When you open a folder within the app, you'll find a handy set of actions availa
 Here's a breakdown of these actions:
 
 - **Select**: Activate file selection mode. This mode enables you to choose one or more files within the folder, making it easy to perform actions on selected items.  
-- **New Folder**: Create a new folder within the current folder. This feature allows you to organize your files and keep your library well-structured.  
-- **Enable Offline Mode**: Toggle on offline mode for the current folder. Offline mode goes beyond simple downloading; it actively monitors the folder for changes. If you add new files to the folder online, the app will automatically download these files to your device. This ensures that your local library stays up-to-date with changes on the server.  
+- **New Folder**: Create a new folder within the current folder. This feature allows you to organize your files and keep your library well-structured.   
 - **Upload Files**: Upload files from your device to the online folder. This action lets you transfer files to the cloud or server, making them accessible from anywhere.  
 - **Search**: Search for specific files within the current folder. This is especially useful for quickly locating specific items in a large collection.  
 - **Sort**: Sort files within the folder by criteria such as name, size, or date edited. The default sort mode typically mirrors the sorting order on the server, but you can change it to suit your preferences.  
 - **Grid/List View**: Switch between two viewing modes: table view and thumbnail view. The table view presents files in a list, while the thumbnail view displays visual representations of the files, making it easier to identify content at a glance.
 
-![Current Folder Options](21260c_01f9148f4b834bb6872bc45b7352470e~mv2.png)
+{{< cards cols="1">}}
+  {{< card title="" subtitle="Evertag Cloud Folder Sort" image="/docs/guide/evertag/img/cloud-storage-sort.webp" >}}
+{{< /cards >}}
 
 ## Edit Online Files
 
@@ -177,17 +160,15 @@ When you need to manage multiple files within your cloud storage on this app, yo
 - **Choose Files**: You'll notice checkboxes appearing next to every file or folder listed. Choose one or multiple files or folders by simply tapping on the checkboxes next to them.  
 - **Perform Various Actions**: Once you've selected the files or folders you want to manage, you'll have access to several actions tailored to your needs:
 
-![Editing Online Files](21260c_5bbaabf22bd74323b0e610752cf6b362~mv2.png)
+{{< cards cols="1">}}
+  {{< card title="" subtitle="Evertag File Select" image="/docs/guide/evertag/img/cloud-storage-file-select.webp" >}}
+{{< /cards >}}
 
 ## File actions
 
 Near the title of the file, you'll notice an ellipsis symbol "..." (three dots) – this serves as the actions menu.  
 Tap on it to reveal a list of available actions:
 
-- **Play Next**: Opt for this action to insert the chosen file at the top of your player queue, ensuring it plays immediately after the currently playing item.  
-- **Play Later**: Selecting this option adds the file to the bottom of your player queue, ensuring it plays after the existing queue.  
-- **Add to Music Library**: This action lets you incorporate the file into your music library, making it easily accessible and neatly organized by artist, album, genre, or composer.  
-- **Add to a Playlist**: Use this action to add the file to an existing playlist or create a new one.  
 - **Edit Audio Tags**: By selecting this option, you can access built-in tag editor, allowing you to modify audio tags for the chosen file. The file will be temporarily downloaded to a temporary directory and then uploaded to the storage after you confirm the changes.  
 - **Add to Favorites**: This action adds the file to your list of favorite files for quick and convenient access.  
 - **Download**: Choose this action to download the file or folder to your device, making it accessible for offline use.  
@@ -196,7 +177,9 @@ Tap on it to reveal a list of available actions:
 - **Open In**: Use this action to export the file to another compatible app. The file will be downloaded to your device, and then the Share dialog will appear for further sharing or interaction.  
 - **Delete**: Exercise caution with this action, as it permanently removes the file from your cloud storage. **This deletion cannot be undone**.
 
-![File actions](21260c_08d9170647f947bd940d69a7e1bbaf19~mv2.png)
+{{< cards cols="1">}}
+  {{< card title="" subtitle="Evertag File Options" image="/docs/guide/evertag/img/cloud-storage-file-options.webp" >}}
+{{< /cards >}}
 
 If the list of actions exceeds the available screen space, simply scroll down within the actions menu to access additional options.
 
@@ -204,25 +187,12 @@ If the list of actions exceeds the available screen space, simply scroll down wi
 
 For each folder in your cloud storage, you have various actions available. To access these options, simply tap the ellipsis icon "..." located next to the folder title. If you don't see all the actions, scroll down to reveal more choices. Here are the available actions:
 
-- **Play All**: Replace the current player queue with all the items from the selected folder.  
-- **Play Next**: Add the entire folder to the top of the player queue, right after the currently playing item.  
-- **Play Later**: Append the folder contents to the bottom of the player queue.  
-- **Add to Music Library**: This action seamlessly incorporates the folder's content into your music library, making it easily accessible and neatly organized by artist, album, genre, or composer.  
-- **Add to Playlist**: You can include the entire folder in a playlist. You also have the option to create a new playlist, and the folder's name will be automatically assigned.  
 - **Add to Favorites**: Use this action to add the folder to your list of favorite files for quick and convenient access.  
-- **Enable Offline Mode**: By enabling offline mode for a selected folder, the application goes beyond simple downloading. It continuously scans for changes, and if new files are added to the online folder, they will be automatically downloaded to the app.  
 - **Download**: Download all the contents of the folder to your device for offline access.  
 - **Rename**: Rename the folder directly on the remote storage.  
 - **Move**: Relocate the folder to a different location within your cloud storage.  
 - **Delete**: Be cautious with this action, as it permanently removes the folder and its contents from your cloud storage. **This action cannot be undone**.
 
-![Folder actions](21260c_3431f1c4b12d41c78f9c5be7b348b2e3~mv2.png)
-
-## Quick Access
-
-The Quick Access section is located at the top of the screen. It gives you fast access to your favorite and recently opened files from connected cloud services.  
-Whenever you open a file or folder from the cloud, it’s added to the "Recently Opened" list. To clear this list, open "Recents," tap the "More Actions" button, and choose "Delete List." You can also mark deeply nested folders as **Favorites** to access them quickly without digging through the directory structure.
-
-## Other Services
-
-This section displays extra features that enhance your experience. Currently, the app supports **Last.fm scrobbling**. When connected, your playback stats are automatically sent to your Last.fm account. You can visit your Last.fm profile later to view listening analytics and get personalized music recommendations. Detailed setup instructions are available [here](/docs/howto/how-to-scrobble-your-music-history-from-evermusic-or-flacbox-to-last-fm).
+{{< cards cols="1">}}
+  {{< card title="" subtitle="Evertag Folder Options" image="/docs/guide/evertag/img/cloud-storage-folder-options.webp" >}}
+{{< /cards >}}

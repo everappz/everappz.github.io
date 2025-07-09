@@ -327,47 +327,47 @@ Activates the password protection screen if you want to protect your application
 
 Choose your network preference when downloading files to your device.
 
-#### Maximum number of parallel tasks
+### Maximum number of parallel tasks
 
 Set the number of parallel download threads. Choosing a higher number will speed up file downloads but may require extra battery power.
 
-#### File transfer tasks
+### File transfer tasks
 
 Displays currently active upload/download tasks.
 
-#### Background transfers
+### Background transfers
 
 You can enable downloads even when the app is running in the background. Please be aware that if this operation consumes a significant amount of energy, the operating system may suspend the app.
 
-#### Save downloaded files to
+### Save downloaded files to
 
 Define your default downloads directory or opt to be prompted every time to choose where to save files.
 
-#### Synchronized offline folders
+### Synchronized offline folders
 
 Manage synchronization of selected offline folders. If you want to synchronize a folder for offline playback, tap the three dots button near the folder name and select ‘Available Offline Mode.’ All new files added to the cloud folder will be downloaded to your device automatically. You can read more about offline modes [here](/docs/howto/play-offline-music-in-evermusic-flacbox-download-sync-from-cloud-to-local-files/).
 
-#### Time interval
+### Time interval
 
 Select the time interval for synchronizing offline folders. If you choose "Immediately," offline folders will be synchronized every time you open the application.
 
-#### Show full filenames
+### Show full filenames
 
 Activate this option if you need to view complete filenames, including extensions, in the file manager.
 
-#### Edit online files
+### Edit online files
 
 You can disable online file editing and switch to a read-only mode for connected cloud services to prevent accidental file deletions. This action removes file editing operations from the user interface.
 
-#### Copy files when opening
+### Copy files when opening
 
 Specify how the app should handle imported files from other applications.
 
-#### Thumbnails for files
+### Thumbnails for files
 
 Delete and manage generated file thumbnails to free up storage space.
 
-#### Delete temporary files
+### Delete temporary files
 
 Clear the application's cache folder to reclaim storage space.
 
