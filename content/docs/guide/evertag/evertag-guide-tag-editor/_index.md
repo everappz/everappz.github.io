@@ -2,103 +2,176 @@
 title: "Tag Editor"
 date: 2020-02-01
 draft: false
-description: "Learn how to navigate the Flacbox interface on iPhone, iPad, and Mac. This guide covers Music Library, Local Files, Playlists, Settings, the mini player, top toolbar, and VoiceOver accessibility features."
+description: "Learn how to use the Evertag Tag Editor to update music metadata, edit album covers, batch edit multiple files, and manage tags from MusicBrainz. Ideal for organizing your music library on iOS and Mac."
 keywords: [
-  "Flacbox navigation", "Flacbox interface", "music player UI", "mini player iOS Mac",
-  "file manager music app", "cloud music folders", "audio library tabs", 
-  "continue playback Flacbox", "VoiceOver music app", "Flacbox accessibility"
+  "Evertag tag editor", "audio metadata editor", "music tag editor", 
+  "edit audio tags iPhone", "album cover editor", "batch edit audio tags", 
+  "MusicBrainz metadata", "music organizer app", "Evertag guide", "ID3 tag editor"
 ]
-tags: ["guide", "flacbox", "navigation"]
+tags: ["guide", "evertag", "tag editor"]
 aliases:
   - /guide-evertag-tag-editor/
-readingTime: 3
+readingTime: 5
 ---
 
-## Intro
+The **Tag Editor** is the main screen of the Evertag app where you can view and edit audio file metadata. Open this screen by tapping a file from the **Local Files** section or from any connected **cloud storage** account.
 
-Flacbox offers an intuitive user interface that closely resembles the native Music app. What sets it apart from many popular music apps is its built-in file manager, giving users the power to edit audio files and seamlessly transfer them to and from cloud storage.
+{{< cards cols="1">}}
+  {{< card title="" subtitle="Evertag Tag Editor Screen" image="/docs/guide/evertag/img/tag-editor.webp" >}}
+{{< /cards >}}
 
-Flacbox's functionality is thoughtfully divided into two distinct components: the Music Library, conveniently accessible through the "Music Library" and "Playlists" tabs, and the Files section, found under the "Connections" and "Local Files" tabs.
+## Editing Modes
 
-## Sections
+Evertag provides two editing modes:
 
-Whether you're using an iPhone, iPad, or compact mode on a Mac, all app features are easily accessible through the tab bar at the bottom of the screen. For iPad and Mac users, the same menu can be found on the left side of the screen. This thoughtful organization categorizes all app features into easily accessible sections, ensuring a user-friendly and efficient experience.
+- **Single-file mode**  
+  - Navigate between files by swiping left or right on the artwork carousel.  
+  - Tap the **Camera icon** to update the album cover.  
+  - Tap **Find missing audio tags** to search and autofill metadata from online databases.
 
-![flacbox main screen on mac](21260c_1df3c22f20c64d13a7fc4de8052799b0~mv2.png)
+- **Batch mode**  
+  - Edit multiple files at once and apply shared metadata.  
+  - To activate, scroll to the bottom and tap **Edit several files simultaneously**.
 
-**Connections:** You can effortlessly connect cloud storage services such as Google Drive, MEGA, OneDrive, and Dropbox, as well as your computer and personal NAS from this screen.
+## Single-File Mode
 
-**Playlists:** Manage all your playlists here, where you can create, edit, remove, change song order, enable offline mode, and add songs to the player queue.
+By default, the app opens the tag editor in single-file mode with only the main editing options enabled. In this mode, you can edit the most common metadata fields, such as:
 
-**Library:** This section neatly displays all available tracks, grouped by Artist, Genre, and Album. You can manually or automatically add songs to your music library, and it includes iPod tracks and downloaded music.
+**Track Title, Subtitle, Album Artist, Album, Artist, Composer, Performer, Genre, Comment, Beats Per Minute, Podcast, Compilation, Disc Number, Track Number, Track Total, Rating, Year**
 
-**Local Files:** Effortlessly locate and oversee your downloaded files, complete with control over the transfer queue. You can edit these local files using a range of file management actions. To access the transfer queue, tap the spinning arrows icon found at the top left corner of the "Local Files" screen.
+To access all available tags, scroll to the bottom of the screen and tap the **Show Extended Tags** option. This will switch the editor to extended mode, allowing you to edit over **120 metadata fields**, including **MusicBrainz Tags**, **Lyrics**, **Advisory Ratings**, and more.
 
-The Local Files section is divided into two categories: **Files in this application**, displaying local files within the application's Documents directory, and **Files on this iPad/iPhone/Mac**, revealing local files located on the device but outside the application's Documents directory.
+{{< cards cols="1">}}
+  {{< card title="" subtitle="Bottom Actions Panel" image="/docs/guide/evertag/img/tag-editor-bottom-actions.webp" >}}
+{{< /cards >}}
 
-**Settings:** Modify application settings, including popular options like crossfade playback, music library sync, player cache, album artwork cache, user interface, and localization.
+## Batch Mode
 
-**Quick Access:** Seamlessly navigate to your favorite and recently played tracks and files. For Mac and iPad users, a dedicated section is available, while iPhone users can conveniently find them within the "Local Files," "Connections," and "Music Library" sections located at the top of the screen.
+You can enter batch editing in two ways:
 
-## Mini Player on iPhone
+1. **From File Manager**  
+   - Tap **More actions** (•••) in the top right.  
+   - Tap **Select**, choose multiple files, and then tap **Edit audio tags**.
 
-Activate the full-screen player by tapping the mini player icon and using a swipe-down gesture to hide it. On iPad and Mac, the mini player screen is located at the top of the screen and can be hidden when opening the full-screen player via the main menu.
+2. **From Tag Editor**  
+   - Open any file, scroll to the bottom, and tap **Edit files simultaneously** to load all files from the same folder.
 
-![flacbox mini player on iphone](21260c_cb4ce9f954e246a09648bcf570a135ab~mv2.jpeg)
+{{< cards cols="1">}}
+  {{< card title="" subtitle="Batch Editing Mode" image="/docs/guide/evertag/img/tag-editor-batch-editing.webp" >}}
+{{< /cards >}}
 
-## Mini Player Window (Mac Exclusive)
+After editing, tap **Save** to apply changes.
 
-To access the mini player window on your Mac, simply move your cursor to the bottom-right edge of the app window and resize it to the smallest possible size. Then, tap the collapse button (depicted as a downward arrow) to activate the mini player window. To keep the mini player window always on top of other windows, navigate to the top menu bar of your Mac, select "Window," and then choose "Show Window Always On Top." This feature is useful for listening to audio lectures without interruptions.
+## Edit Album Cover
 
-![flacbox mini player on mac](21260c_cba48622aaa54e8f9491bbf181bb7f41~mv2.png)
+To change an album cover:
 
-## More Actions
+1. Tap the **Camera icon** in the artwork carousel.  
+2. Choose the image location: Local Files, Cloud, Downloads, or Photo Library.  
+3. Select an image to apply as cover art.
 
-Virtually every content item on the screen features a "More Actions" button. Tap it to access all available actions.
+{{< cards cols="1">}}
+  {{< card title="" subtitle="Select Image" image="/docs/guide/evertag/img/select-image.webp" >}}
+{{< /cards >}}
 
-![flacbox more button context menu](21260c_03c3140f30644909b6b6ee7ba8ec89de~mv2.png)
+## More Actions in Tag Editor
 
-## Top Toolbar
+Extra editing options are available via the toolbar beneath the artwork view.
 
-The top toolbar, situated conveniently just beneath the navigation bar, provides quick access to several useful actions.  
-You can easily reveal or conceal this toolbar with a straightforward swipe-down gesture. Here is a list of the actions:
+{{< cards cols="1">}}
+  {{< card title="" subtitle="More Actions Menu" image="/docs/guide/evertag/img/tag-editor-more-actions.webp" >}}
+{{< /cards >}}
 
-- **Search:** Begin a search within the current context.  
-- **Continue Playback:** Flacbox offers a seamless "Continue Playback" feature, designed to effortlessly restore the audio player's state for the current directory, album, artist, or playlist from the last saved position. This functionality is available if enabled in the application settings.  
-- **Play All:** Easily add all tracks from the current page to the audio player queue, maintaining the current sort order.  
-- **Shuffle All:** Add all tracks from the current page to the audio player queue, shuffling them before adding for a delightful listening experience.
+### Auto-Search Audio Tags
 
-![flacbox top toolbar](21260c_167a51b67d544ce6a229bd5c1cb8c0ac~mv2.png)
+This action activates the smart tag search engine, which finds and fills in complete metadata for your audio file based on the existing information.  
+The app uses the MusicBrainz database — one of the most comprehensive tag databases — with over **50 million** tracks.
 
-## Context Menu
+### Search Album Cover
 
-The context menu provides quick access to additional options and actions for seamless interaction across devices.
+Use metadata to search the web for the correct album artwork.  
 
-### Context Menu on iOS
+{{< cards cols="1">}}
+  {{< card title="" subtitle="Search Album Cover" image="/docs/guide/evertag/img/search-album-cover.webp" >}}
+{{< /cards >}}
 
-**Tap and Hold:** Tap and hold on cells, the mini player, or the compact player to reveal the context menu.
+Once found, save the image to your **Photos** using the system context menu.
 
-### Context Menu on macOS
+{{< cards cols="1">}}
+  {{< card title="" subtitle="Add Image to Photos" image="/docs/guide/evertag/img/add-image-to-photos.webp" >}}
+{{< /cards >}}
 
-**Right Mouse Click:** Right-click on cells, the mini player, or the compact player to show the context menu.
+After that, return to the tag editor, tap the Camera icon, go to **Photos Library**, and select the saved image. The app will set it as the cover for your audio file.
 
-![context menu on mac](21260c_a1ff22e697d5484394c2a2ba6b344596~mv2.png)
+You can adjust how cover images are scaled in the app’s settings.
 
-## Accessibility
+### Save Album Artwork
 
-Our app is fully accessible with VoiceOver technology, ensuring every component has a well-designed label and description. When VoiceOver is active, the app translates the user interface to text mode, displaying only accessible and useful elements to improve navigation speed and convenience. You can also activate text mode in **Settings > Accessibility > Text Mode**.
+This action saves the current album artwork to the **Documents** folder, so you can reuse it later.
 
-### For Adjusting Sliders with VoiceOver
+### Normalize Encoding
 
-1. **Select the Slider:** Swipe left or right until VoiceOver announces the slider.  
-2. **Adjust the Value:** Double-tap and hold the slider, then drag up or down to adjust the value more quickly. VoiceOver will announce the new value as you adjust it.
+This action will normalize the text encoding of all tags in the audio file’s metadata. It’s especially helpful if you're switching from a Windows PC, where files may use different encodings that appear as unreadable or garbled characters on a Mac.
 
-### For Adjusting Track Position in a Playlist with VoiceOver
+### Manual Tags Search
 
-1. Open a playlist and tap the "More" button.  
-2. Select "Change Songs Order." The view will switch to editing mode.  
-3. Tap the reorder indicator icon near the track title to give it focus.  
-4. Double-tap the reorder indicator icon quickly. On the second tap, do not release your finger—hold it until you hear a sound indicating the cell is ready to be moved.  
-5. Now, you can move the cell to a new position.
+Search for album metadata manually using the MusicBrainz database.  
 
-Other components work as expected, using system-provided VoiceOver patterns.
+- Select the album  
+
+{{< cards cols="1">}}
+  {{< card title="" subtitle="Select Album" image="/docs/guide/evertag/img/select-album-results.webp" >}}
+{{< /cards >}}
+
+- Pick the correct song  
+
+{{< cards cols="1">}}
+  {{< card title="" subtitle="Select Song" image="/docs/guide/evertag/img/select-a-song.webp" >}}
+{{< /cards >}}
+
+- Choose which tags to apply  
+
+{{< cards cols="1">}}
+  {{< card title="" subtitle="Select Audio Tags" image="/docs/guide/evertag/img/select-audio-tags.webp" >}}
+{{< /cards >}}
+
+Tap **Done** to apply the selected metadata to your track.
+
+### Delete Audio Tags
+
+Clear all metadata fields for a file. Useful when starting from scratch. Tap **Save** to confirm.
+
+## Tag Editor Settings
+
+Navigate to **Settings → Tag Editor** to customize behavior.
+
+### Cloud File Metadata Update Options
+
+You can control how the app updates metadata for audio files stored in cloud services:
+
+- **Show confirmation message**  
+  Ask before applying metadata changes to cloud files.
+
+- **Automatically update file's metadata**  
+  Save metadata changes to the cloud file automatically after editing.
+
+- **Do not update file's metadata**  
+  Skip updating cloud files—changes will apply only locally.
+
+### Edit Online Files
+
+Choose what happens to locally downloaded copies of cloud files after editing:
+
+- **Always delete downloaded file**  
+  Remove the local copy after saving changes.
+
+- **Do not delete downloaded file**  
+  Keep the downloaded file on your device after editing.
+
+### Album Cover Scaling
+
+Select how album covers should be scaled when saved into audio files. You can disable scaling to keep the original image size, but be aware that some players may not support large artwork files.
+
+### Main Screen Buttons
+
+Customize which actions appear on the main screen of the tag editor. Enable or disable specific buttons to tailor the interface to your workflow.
