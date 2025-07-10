@@ -12,6 +12,7 @@ tags: ["flacbox", "guide"]
 aliases:
   - /post/flacbox-guide/
   - /support-flacbox/
+  - /docs/guide/flacbox/flacbox-guide/
 ---
 
 ### Welcome to the Flacbox Guide

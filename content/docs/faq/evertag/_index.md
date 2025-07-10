@@ -2,6 +2,13 @@
 date: '2025-06-12T17:00:00+00:00'
 draft: false
 title: 'Evertag'
+description: 'Learn how to use Evertag — the advanced audio metadata editor for iOS and macOS. Organize your music collection, fix missing tags, and edit album artwork directly in the cloud or locally with batch editing support.'
+keywords: [
+  "Evertag", "audio tag editor", "music metadata editor", "edit mp3 tags iPhone", "batch tag editing",
+  "flac tag editor iOS", "album cover editor", "edit lyrics iPhone", "Evertag premium features",
+  "audio tagger app", "cloud music tag editor", "edit metadata FLAC WAV MP3"
+]
+tags: ["evertag", "faq", "audio tagging", "metadata editor", "music library"]
 aliases:
   - /faq-evertag/
 ---

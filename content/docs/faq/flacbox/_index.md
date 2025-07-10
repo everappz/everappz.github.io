@@ -2,6 +2,9 @@
 date: '2025-06-12T17:00:00+00:00'
 draft: false
 title: 'Flacbox'
+description: 'Frequently asked questions about Flacbox music player for iPhone, iPad, and Mac. Learn about features, cloud connections, offline playback, metadata sync, supported formats, and more.'
+keywords: ["Flacbox app", "hi-res music player", "offline music", "cloud music streaming", "playlist management", "audio tag editor", "metadata sync", "supported audio formats", "NAS and DLNA", "iOS music player"]
+tags: ["faq", "flacbox", "support"]
 aliases:
   - /faq-flacbox/
 ---

@@ -12,6 +12,7 @@ draft: false
 aliases:
   - /post/evermusic-guide/
   - /support-evermusic/
+  - /docs/guide/evermusic/evermusic-guide/
 ---
 
 Evermusic is a powerful app that turns your device into a full music player, giving you an unlimited way to enjoy your favorite songs like never before.
