@@ -14,6 +14,8 @@ keywords: [
   "how to use Last.fm on iPhone"
 ]
 readingTime: 2
+aliases:
+  - /post/how-to-scrobble-your-music-history-from-evermusic-or-flacbox-to-last-fm/
 ---
 
 ![How to Scrobble Your Music History from Evermusic or Flacbox to Last.fm](21260c_acb5cfbde21649a9841b86e236fd36de~mv2.png)

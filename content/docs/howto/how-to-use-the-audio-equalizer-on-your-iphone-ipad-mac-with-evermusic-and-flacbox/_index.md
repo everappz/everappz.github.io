@@ -5,6 +5,8 @@ date: 2022-03-18
 readingTime: 2
 tags: ["music", "audio", "equalizer", "10-band", "gain", "configuration", "preamplifier", "genre"]
 keywords: ["audio equalizer iPhone", "Evermusic EQ presets", "Flacbox 10-band equalizer", "adjust bass treble iOS", "equalizer Mac music app", "boost audio with preamp", "custom sound presets"]
+aliases:
+  - /post/how-to-use-the-audio-equalizer-on-your-iphone-ipad-mac-with-evermusic-and-flacbox/
 ---
 
 When it comes to audio players, finding the right equalizer can make all the difference in your music-listening experience. Our audio apps, **Evermusic** and **Flacbox**, stand out as full-featured players equipped with a professional 10-band equalizer and a range of exciting features.

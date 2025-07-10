@@ -5,6 +5,8 @@ date: 2019-05-19
 tags: ["iphone", "ipad", "wifi-drive", "wireless", "transfer", "music", "webdav", "finder", "windows", "file explorer", "no itunes"]
 keywords: ["transfer music without iTunes", "wifi drive iphone", "wirelessly copy music to iPhone", "Evermusic wifi transfer", "Flacbox wifi drive", "music file manager iPhone", "iPhone music sync without iTunes", "WebDAV music transfer iOS"]
 readingTime: 2
+aliases:
+  - /post/how-to-transfer-music-from-computer-to-iphone-without-itunes/
 ---
 
 You can watch a video tutorial from [**TECHGUYPH**](https://www.youtube.com/channel/UCgpf09gGFE_c_3pPTtTpnzg) or read the text version below.

@@ -11,6 +11,7 @@ keywords: [
 tags: ["evertag", "faq", "audio tagging", "metadata editor", "music library"]
 aliases:
   - /faq-evertag/
+  - /post/evertag-guide-faq/
 ---
 
 <div class="hx:mt-6"></div>

@@ -4,6 +4,7 @@ draft: false
 title: 'Contact Us'
 aliases:
   - /contact-us/
+  - /subscribe/
 ---
 
 {{< lottie src="/images/juicy-json/juicy-girl-typing-on-phone.json" width="60%" >}}

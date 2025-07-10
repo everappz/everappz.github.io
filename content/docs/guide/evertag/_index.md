@@ -13,6 +13,7 @@ aliases:
   - /support-evertag/
   - /evertag-guide/
   - /docs/guide/evertag/evertag-guide/
+  - /post/evertag-guide/
 ---
 
 

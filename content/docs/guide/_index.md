@@ -13,6 +13,8 @@ tags: [
   "music player help", "video player guide", "audio tag editing", "cloud setup", 
   "playback settings", "CarPlay", "AirPlay", "offline mode", "media library"
 ]
+aliases:
+  - /blog/categories/guide/
 ---
 
 {{< lottie src="/images/juicy-json/juicy-woman-with-graph-chart.json" width="75%" >}}

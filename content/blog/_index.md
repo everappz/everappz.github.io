@@ -15,6 +15,39 @@ aliases:
   - /index.php/person/mary-major/
   - /index.php/person/matt-roe/
   - /index.php/person/susan-doe/
+  - /blog/archive/2015/06/
+  - /blog/archive/2016/05/
+  - /blog/archive/2016/12/
+  - /blog/archive/2017/01/
+  - /blog/archive/2017/03/
+  - /blog/archive/2017/06/
+  - /blog/archive/2017/10/
+  - /blog/archive/2017/11/
+  - /blog/archive/2018/06/
+  - /blog/archive/2019/05/
+  - /blog/archive/2019/07/
+  - /blog/archive/2019/11/
+  - /blog/archive/2019/12/
+  - /blog/archive/2020/01/
+  - /blog/archive/2020/02/
+  - /blog/archive/2020/03/
+  - /blog/archive/2020/04/
+  - /blog/archive/2020/05/
+  - /blog/archive/2020/12/
+  - /blog/archive/2021/12/
+  - /blog/archive/2022/03/
+  - /blog/archive/2023/09/
+  - /blog/archive/2023/12/
+  - /blog/archive/2024/01/
+  - /blog/archive/2024/07/
+  - /blog/archive/2024/09/
+  - /blog/archive/2024/11/
+  - /blog/archive/2024/12/
+  - /blog/archive/2025/04/
+  - /blog/categories/choosing-the-best/
+  - /blog/categories/development-and-technologies/
+  - /blog/categories/what-s-new/
+
 cascade:
   type: blog
 ---

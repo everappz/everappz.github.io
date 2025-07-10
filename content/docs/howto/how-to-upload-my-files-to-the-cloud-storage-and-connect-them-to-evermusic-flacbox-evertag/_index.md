@@ -5,6 +5,8 @@ date: 2022-03-17
 readingTime: 2
 tags: ["evermusic", "flacbox", "cloud", "file", "account", "manager", "connect", "network", "service"]
 keywords: ["connect cloud service to Evermusic", "upload files to Google Drive", "Flacbox cloud integration", "use OneDrive with Evermusic", "Evertag cloud file access", "connect Dropbox to iOS music player", "file manager for cloud services"]
+aliases:
+  - /post/how-to-upload-my-files-to-the-cloud-storage-and-connect-them-to-evermusic-flacbox-evertag/
 ---
 
 ## Step 1: Sign Up for a Cloud Storage Account
