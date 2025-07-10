@@ -7,6 +7,8 @@ tags: ["Evermusic", "crossfade", "music library", "backup", "audio queue", "tags
 draft: false
 aliases:
   - /post/evermusic-31-crossfade-playback/
+  - /single-post/Evermusic-Sync-your-Music-Library-Save-playback-position-Correct-music-tags/
+  - /index.php/2016/05/26/evermusic-2-3-sync-you-music-library-automatically/
 cascade:
   type: docs
 ---

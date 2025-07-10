@@ -2,6 +2,9 @@
 date: '2025-06-12T17:00:00+00:00'
 draft: false
 title: 'Support'
+aliases:
+  - /index.php/support/trackback/
+  - /index.php/support/
 ---
 
 {{< lottie src="/images/juicy-json/juicy-girl-is-working-on-laptop-at-a-remote-job.json" width="80%" >}}

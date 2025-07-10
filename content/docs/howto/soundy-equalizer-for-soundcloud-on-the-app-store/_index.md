@@ -5,6 +5,9 @@ date: 2017-03-09
 readingTime: 2
 tags: ["cloud", "player", "equalizer", "iPhone", "SoundCloud", "stream", "Chromecast"]
 keywords: ["soundcloud equalizer app", "10-band equalizer iOS", "soundy soundcloud player", "music app with presets", "equalizer for iPhone", "playback speed soundcloud", "soundcloud app with sleep timer"]
+aliases:
+  - /post/soundy-equalizer-for-soundcloud-on-the-app-store/
+  - /single-post/soundy-equalizer-for-soundcloud-on-the-app-store/
 ---
 
 SoundCloud is renowned for music discovery, but one glaring omission in the official SoundCloud app is an equalizer. While alternative apps like TuneShell offer SoundCloud playback, their equalizer options are often limited. Enter Soundy, the solution you've been waiting for.

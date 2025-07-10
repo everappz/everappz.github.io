@@ -2,6 +2,9 @@
 date: '2025-06-12T17:00:00+00:00'
 draft: false
 title: 'License Agreement'
+aliases:
+  - /index.php/license-agreement/
+  - /license-agreement/
 ---
 
 END-USER LICENSE AGREEMENT FOR EVERAPPZ S.L. PRODUCTS

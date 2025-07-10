@@ -8,6 +8,8 @@ readingTime: 2
 draft: false
 aliases:
   - /post/how-to-increase-playback-speed-on-soundcloud/
+  - /single-post/How-to-increase-playback-speed-on-SoundCloud/
+  - /single-post/How-to-change-playback-speed-on-SoundCloud/
 ---
 
 {{< figure src="/21260c_85ec03750940439a9fcdb6360e93a5f6~mv2.jpg" alt="Soundy: Increase playback speed" caption="Soundy: Increase playback speed on SoundCloud" width="800" >}}

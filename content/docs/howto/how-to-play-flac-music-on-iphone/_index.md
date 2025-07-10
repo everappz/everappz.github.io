@@ -8,6 +8,7 @@ readingTime: 5
 draft: false
 aliases:
   - /post/how-to-play-flac-music-on-iphone/
+  - /single-post/How-to-play-FLAC-music-on-iPhone/
 ---
 
 [{{< figure src="/Flacbox_Icon-App-1024x1024.webp" alt="Flacbox Icon - FLAC music player and downloader" width="160" >}}](/products/flacbox)

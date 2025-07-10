@@ -4,6 +4,7 @@ date: 2020-02-01
 draft: false
 aliases:
   - /post/flacbox-guide-music-library/
+  - /guide-flacbox-music-library/
 description: "Learn how to build, organize, and sync your music library in Flacbox. Add tracks manually or sync from cloud services, manage metadata, album covers, playlists, and personalize your music experience."
 keywords: [
   "Flacbox music library", "sync music from cloud", "organize music metadata",

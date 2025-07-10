@@ -5,6 +5,9 @@ date: 2017-10-20
 readingTime: 2
 tags: ["cloud", "streaming", "iphone", "mp3", "storage", "dropbox"]
 keywords: ["play music Dropbox iPhone", "offline music Dropbox iOS", "Evermusic Dropbox", "mp3 player cloud", "stream Dropbox audio", "Evermusic file manager", "Dropbox iOS audio"]
+aliases:
+  - /post/play-music-from-dropbox-on-your-iphone-when-you-are-offline/
+  - /single-post/Play-music-from-Dropbox-on-your-iPhone-when-you-are-offline/
 ---
 
 {{< figure src="21260c_b74074b6421e41748259d1c534c1cebd~mv2.jpeg" width="800" >}}

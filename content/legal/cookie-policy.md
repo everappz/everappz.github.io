@@ -2,6 +2,9 @@
 date: '2025-06-12T17:00:00+00:00'
 draft: false
 title: 'Cookie Policy'
+aliases:
+  - /index.php/cookie-policy/
+  - /cookie-policy/
 ---
 
 ## This website uses cookies

@@ -11,6 +11,7 @@ keywords: ["Evermusic", "offline music player", "iOS audio player", "cloud music
 tags: ["Evermusic", "offline playback", "cloud music", "MP3 player", "iPhone apps", "audio streaming", "music management", "Mac apps", "media player"]
 aliases:
   - /evermusic/
+  - /index.php/app/evermusic/
 ---
 
 <!-- <body class="hx:bg-transparent" style="background: radial-gradient(ellipse at 50% 80%, rgba(59,130,246,0.05), hsla(0,0%,100%,0));"> -->

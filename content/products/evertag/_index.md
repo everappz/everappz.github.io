@@ -11,6 +11,7 @@ keywords: ["Evertag", "audio tag editor", "ID3 tag manager", "edit music metadat
 tags: ["Evertag", "ID3 tags", "music metadata", "audio tag editor", "MP3 editor", "FLAC tagging", "iPhone utilities", "Mac music tools", "music library management"]
 aliases:
   - /evertag/
+  - /mp3tag/
 ---
 
 {{< hextra/hero-container

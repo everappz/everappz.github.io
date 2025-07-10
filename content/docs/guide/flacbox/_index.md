@@ -11,6 +11,7 @@ keywords: [
 tags: ["flacbox", "guide"]
 aliases:
   - /post/flacbox-guide/
+  - /support-flacbox/
 ---
 
 ### Welcome to the Flacbox Guide

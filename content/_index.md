@@ -21,6 +21,9 @@ tags: [
   "Chromecast", "AirPlay", "CarPlay", "playlist creation"
 ]
 headless: false
+aliases:
+  - /home/
+  - /index.php/
 ---
 
 {{< rawhtml >}}

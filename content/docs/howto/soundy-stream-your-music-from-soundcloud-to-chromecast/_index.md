@@ -5,6 +5,10 @@ date: 2016-12-17
 readingTime: 3
 tags: ["streaming", "iPhone", "SoundCloud", "GoogleChromecast"]
 keywords: ["SoundCloud Chromecast iOS", "Soundy app SoundCloud", "stream SoundCloud to TV", "Chromecast music player", "SoundCloud equalizer iPhone", "Soundy playlists SoundCloud"]
+aliases:
+  - /post/soundy-stream-your-music-from-soundcloud-to-chromecast/
+  - /single-post/Soundy-Stream-Your-Music-from-SoundCloud-to-Chromecast/
+  - /index.php/2016/12/17/stream-your-music-from-soundcloud-to-chromecast/
 ---
 
 ![Soundy: Soundcloud and Chromecast](21260c_5e389cfe328f483d9475c1e59e2a4983~mv2.jpeg)

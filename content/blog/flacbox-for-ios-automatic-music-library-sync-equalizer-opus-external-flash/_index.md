@@ -7,6 +7,8 @@ tags: ["Flacbox", "equalizer", "music library", "OPUS", "FLAC", "external storag
 draft: false
 aliases:
   - /post/flacbox-for-ios-automatic-music-library-sync-equalizer-opus-external-flash/
+  - /single-post/Flacbox-for-iOS-Automatic-Music-Library-Sync-Equalizer-OPUS-External-Flash/
+  - /index.php/2017/01/25/flacbox-1-6-for-ios-automatic-music-library-sync-10-band-equalizer-opus-file-format-external-flash-support/
 cascade:
   type: docs
 ---

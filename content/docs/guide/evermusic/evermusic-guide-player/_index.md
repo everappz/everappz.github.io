@@ -12,6 +12,7 @@ readingTime: 11
 draft: false
 aliases:
   - /post/evermusic-guide-player/
+  - /guide-evermusic-player/
 ---
 
 ## Introduction

@@ -8,6 +8,7 @@ keywords: ["itunes file sharing", "play local music", "transfer music to iphone"
 draft: false
 aliases:
   - /post/how-to-play-local-itunes-files-on-my-iphone/
+  - /single-post/How-to-play-local-itunes-files-on-my-iPhone/
 ---
 
 Managing your music files between your computer and iOS devices has never been simpler. We've outlined three easy methods – iTunes File Sharing, WiFi Drive, and SMB protocol – to ensure a smooth music transfer and seamless playback.

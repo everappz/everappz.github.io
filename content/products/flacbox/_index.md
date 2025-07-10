@@ -11,6 +11,7 @@ keywords: ["FLAC player iPhone", "lossless music player", "hi-res audio player",
 tags: ["FLAC player", "Hi-Res audio", "offline playback", "cloud music", "DSD audio", "Mac apps", "iPhone apps", "USB audio iOS", "music file manager", "audio equalizer", "metadata editor", "MP3 player", "SMB player", "Chromecast music", "CarPlay music player", "multi-format support", "music streaming", "audio library manager"]
 aliases:
   - /flacbox/
+  - /index.php/app/flap/
 ---
 
 <!-- force dark theme for this page -->

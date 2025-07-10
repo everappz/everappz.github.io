@@ -4,6 +4,7 @@ date: 2020-02-01
 draft: false
 aliases:
   - /post/flacbox-guide-settings/
+  - /guide-flacbox-settings/
 description: "Explore every setting in Flacbox, from playback preferences and equalizer tweaks to metadata sync, playlist control, file transfers, UI customization, and Premium upgrade steps."
 keywords: [
   "Flacbox settings", "audio player configuration", "premium upgrade Flacbox",

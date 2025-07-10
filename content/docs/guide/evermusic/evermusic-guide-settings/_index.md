@@ -14,6 +14,7 @@ readingTime: 14
 draft: false
 aliases:
   - /post/evermusic-guide-settings/
+  - /guide-evermusic-settings/
 ---
 
 On this screen, you can access the application settings and upgrade it to the Premium version.
