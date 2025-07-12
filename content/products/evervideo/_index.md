@@ -31,9 +31,12 @@ aliases:
 {{< /hextra/hero-badge >}}
 
 <div class="hx:mt-6 hx:mb-6">
+<div class="hx:flex hx:gap-4 hx:items-center">
+<img src="/images/app_icons/webp/Evervideo_Icon-App-1024x1024.webp" alt="Evermusic Icon" width="60" height="60" loading="lazy" style="border-radius: 10px;" />
 {{< hextra/hero-headline >}}
- Evervideo
+Evervideo
 {{< /hextra/hero-headline >}}
+</div>
 </div>
 
 <div class="hx:mb-12">

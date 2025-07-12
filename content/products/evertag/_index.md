@@ -22,9 +22,12 @@ aliases:
 <div class="hx:flex hx:flex-col hx:items-center hx:justify-center hx:sm:block">
 
 <div class="hx:mt-6 hx:mb-6">
-{{< hextra/hero-headline >}}
- Evertag
-{{< /hextra/hero-headline >}}
+<div class="hx:flex hx:gap-4 hx:items-center">
+  <img src="/images/app_icons/webp/Evertag_Icon-App-1024x1024.webp" alt="Evermusic Icon" width="60" height="60" loading="lazy" style="border-radius: 10px;" />
+  {{< hextra/hero-headline >}}
+  Evertag
+  {{< /hextra/hero-headline >}}
+</div>
 </div>
 
 <div class="hx:mb-6">

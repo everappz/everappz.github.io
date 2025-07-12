@@ -159,7 +159,8 @@ aliases:
 
 <script>
   document.addEventListener('DOMContentLoaded', () => {
-    const rocket = document.querySelector('img[src*="juicy-rocket.gif"]');
+    // Supports both <img> and lottie <div> with id or class 'rocket-anim'
+    const rocket = document.querySelector('.rocket-anim img, .rocket-anim div[id^="lottie"]');
     if (!rocket) return;
 
     rocket.style.cursor = 'pointer';
@@ -185,9 +186,9 @@ aliases:
 
 <div class="rocket-anim hx:w-full">
 
-{{< hextra/hero-container
-  image="/images/juicy-animated/juicy-rocket.gif"
-  imageWidth="160"
+{{< hextra/hero-container 
+  lottie="/images/juicy-json/juicy-rocket.json" 
+  lottieWidth="35%"
 >}}
 
 <div class="hx:mt-12"></div>
@@ -265,13 +266,16 @@ Our Products
 
 <div class="hx:w-full">
 
-{{< cards cols="2">}}
+{{< cards cols="8">}}
 
   {{< card 
     link="/products/evervideo" 
     title="Evervideo" 
     tag="New"
     subtitle="Play 360° videos, watch with subtitles, use a video equalizer, organize your media with playlists, download videos for offline use, and stream from iCloud." 
+    image="/images/app_icons/webp/Evervideo_Icon-App-1024x1024.webp"
+    method="Resize"
+    options="200x q80 webp"
   >}}
 
   {{< card 
@@ -279,6 +283,9 @@ Our Products
     title="Evermusic" 
     tag="11 Million Downloads Worldwide"
     subtitle="Cloud music player with offline mode, audio equalizer, crossfade, gapless playback, playlists, music library, file manager." 
+    image="/images/app_icons/webp/Evermusic_Icon-App-1024x1024.webp"
+    method="Resize"
+    options="200x q80 webp"
   >}}
 
   {{< card 
@@ -286,12 +293,18 @@ Our Products
     title="Flacbox" 
     tag="1 Million Downloads Worldwide"
     subtitle="Hi-Res audio player for iPhone and Mac. Listen to your music in lossless audio formats: flac, alac, ape, wv, dsd and more. Enable advanced audio output settings.​" 
+    image="/images/app_icons/webp/Flacbox_Icon-App-1024x1024.webp"
+    method="Resize"
+    options="200x q80 webp"
   >}}
 
   {{< card 
     link="/products/evertag"
     title="Evertag" 
     subtitle="Music tags editor with automatic correction and batch mode. Find missing metadata, edit album covers. Edit ID3 / FLAC/ APE. More than 120 tags supported." 
+    image="/images/app_icons/webp/Evertag_Icon-App-1024x1024.webp"
+    method="Resize"
+    options="200x q80 webp"
   >}}
 
 {{< /cards >}}
