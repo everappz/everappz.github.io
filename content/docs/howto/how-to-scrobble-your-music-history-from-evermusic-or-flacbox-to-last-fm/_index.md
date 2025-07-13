@@ -1,17 +1,18 @@
 ---
 title: "How to Scrobble Your Music History from Evermusic or Flacbox to Last.fm"
-description: "Learn how to connect Evermusic or Flacbox to Last.fm to track your listening history, access playback stats, and get music recommendations."
+description: "Learn how to connect Evermusic or Flacbox to Last.fm to track your listening history, access playback stats, and get music recommendations. Try the best lastfm music player for iPhone and Mac."
 date: 2024-12-20
 tags: ["music", "lastfm", "scrobble", "track"]
 keywords: [
-  "scrobble Evermusic Last.fm",
-  "scrobble Flacbox Last.fm",
-  "connect Evermusic to Last.fm",
-  "connect Flacbox to Last.fm",
-  "track listening history iPhone",
+  "lastfm music player",
+  "scrobble Evermusic lastfm",
+  "scrobble Flacbox lastfm",
+  "connect Evermusic to lastfm",
+  "connect Flacbox to lastfm",
+  "track listening history lastfm iPhone",
   "lastfm iOS integration",
   "music playback stats iPhone",
-  "how to use Last.fm on iPhone"
+  "how to use lastfm on iPhone"
 ]
 readingTime: 2
 aliases:
