@@ -41,9 +41,9 @@ Flacbox
 </div>
 
 <div class="hx:mb-12">
-{{< hextra/hero-subtitle >}}
+{{< hextra/hero-centered-subtitle >}}
 <strong>Hi-Res Audio Player and Streamer&nbsp;<br class="hx:sm:block hx:hidden" />for iPhone and MAC</strong>
-{{< /hextra/hero-subtitle >}}
+{{< /hextra/hero-centered-subtitle >}}
 </div>
 
 <div class="hx:mb-6">

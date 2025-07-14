@@ -42,11 +42,11 @@ aliases:
 </div>
 
 <div class="hx:mb-6">
-{{< hextra/hero-subtitle >}}
+{{< hextra/hero-centered-subtitle >}}
 <a href="https://www.chip.de/downloads/Evermusic-Pro-iPhone-_-iPad-App_91614216.html" target="_blank" rel="noopener">
   Is the perfect solution for organizing and playing&nbsp;<br class="hx:sm:block hx:hidden" />your own music from the cloud&nbsp;<br class="hx:sm:block hx:hidden" /><strong>chip.de</strong>
   </a>
-{{< /hextra/hero-subtitle >}}
+{{< /hextra/hero-centered-subtitle >}}
 </div>
 
 <div class="hx:mb-6">

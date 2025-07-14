@@ -40,9 +40,9 @@ Evervideo
 </div>
 
 <div class="hx:mb-12">
-{{< hextra/hero-subtitle >}}
+{{< hextra/hero-centered-subtitle >}}
 <strong>HD Video Player & Streamer&nbsp;<br class="hx:sm:block hx:hidden" />For Your iPhone & MAC</strong>
-{{< /hextra/hero-subtitle >}}
+{{< /hextra/hero-centered-subtitle >}}
 </div>
 
 

@@ -31,9 +31,9 @@ aliases:
 </div>
 
 <div class="hx:mb-6">
-{{< hextra/hero-subtitle >}}
+{{< hextra/hero-centered-subtitle >}}
 <strong>Keep Your Music Library Organized</strong>
-{{< /hextra/hero-subtitle >}}
+{{< /hextra/hero-centered-subtitle >}}
 </div>
 
 <div class="hx:mb-6">
