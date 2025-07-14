@@ -28,7 +28,7 @@ While many desktop apps offer metadata editing, Evermusic and Flacbox take simpl
 
 But before you begin, check out the **Evertag** app — it supports **120+ audio tags**, **30+ audio formats**, and offers powerful **batch editing**. If you're looking for a full-featured tag management tool, Evertag is the way to go. However, if you just need a **simple tag editor**, feel free to continue with this guide.
 
-{{< cards cols="1">}}
+{{< cards >}}
 {{< card link="https://apps.apple.com/app/apple-store/id1450763230?pt=95781850&ct=everappzcom&mt=8" title="Download Evertag" icon="download" tag="Free" >}}
 {{< /cards >}}
 
@@ -82,7 +82,7 @@ When you close the tags editor, the app will automatically upload the edited aud
 
 ## Edit Local Files
 
-You can edit audio tags for files stored **directly on your device** — without importing them into the app? Here’s how:
+You can edit audio tags for files stored **directly on your device** — without importing them into the app.
 
 - **Go to the "Local Files" section**, then scroll down to **"Files On This Device."**
 

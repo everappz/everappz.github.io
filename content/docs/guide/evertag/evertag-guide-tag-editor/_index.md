@@ -26,8 +26,6 @@ Evertag provides two editing modes:
 
 - **Single-file mode**  
   - Navigate between files by swiping left or right on the artwork carousel.  
-  - Tap the **Camera icon** to update the album cover.  
-  - Tap **Find missing audio tags** to search and autofill metadata from online databases.
 
 - **Batch mode**  
   - Edit multiple files at once and apply shared metadata.  
@@ -42,7 +40,7 @@ By default, the app opens the tag editor in single-file mode with only the main 
 To access all available tags, scroll to the bottom of the screen and tap the **Show Extended Tags** option. This will switch the editor to extended mode, allowing you to edit over **120 metadata fields**, including **MusicBrainz Tags**, **Lyrics**, **Advisory Ratings**, and more.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Bottom Actions Panel" image="/docs/guide/evertag/img/tag-editor-bottom-actions.webp" >}}
+{{< card title="" subtitle="Bottom Actions Panel" image="/docs/guide/evertag/img/tag-editor-bottom-actions.webp" >}}
 {{< /cards >}}
 
 ## Batch Mode
@@ -57,7 +55,7 @@ You can enter batch editing in two ways:
    - Open any file, scroll to the bottom, and tap **Edit files simultaneously** to load all files from the same folder.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Batch Editing Mode" image="/docs/guide/evertag/img/tag-editor-batch-editing.webp" >}}
+{{< card title="" subtitle="Batch Editing Mode" image="/docs/guide/evertag/img/tag-editor-batch-editing.webp" >}}
 {{< /cards >}}
 
 After editing, tap **Save** to apply changes.

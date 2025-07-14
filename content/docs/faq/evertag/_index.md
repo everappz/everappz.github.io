@@ -91,7 +91,11 @@ You can add embedded lyrics to your tracks in the Evertag app by following these
 * In the "Language" section, select the lyrics language or leave it blank to use English by default.<br>
 * In the "Text" section, enter your lyrics in plain text or LRC format with timecodes. An example is shown on the screen. You can also find LRC-formatted lyrics at [lyricsify.com](https://www.lyricsify.com/)<br>
 * Tap "Done" to confirm the changes both on the current screen and the Lyrics Edit screen.<br>
-* Close the Lyrics Edit screen and tap "Save" to apply the changes to the current file.<br>
+* Close the Lyrics Edit screen and tap "Save" to apply the changes to the current file.<br><br>
+
+More detailed tutorial available here:<br>
+[How to Edit Lyrics for Audio Files on iPhone or MAC](/docs/howto/how-to-edit-lyrics-for-audio-files-on-iphone-mac/)<br><br>
+
 {{% /details %}}
 
 {{% details title="How do I transfer music to Evertag from my computer?" closed="true" %}}
