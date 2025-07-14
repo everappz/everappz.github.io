@@ -1,8 +1,19 @@
 {{- $style := .Get "style" -}}
 
+<style>
+  .hero-subtitle-text {
+    text-align: left;
+  }
+
+  @media (max-width: 700px) {
+    .hero-subtitle-text {
+      text-align: center;
+    }
+  }
+</style>
 
 <p
-  class="not-prose hx:text-gray-600 hx:dark:text-gray-400 hx:text-xl hx:font-medium"
+  class="not-prose hx:text-gray-600 hx:dark:text-gray-400 hx:text-xl hx:font-medium hero-subtitle-text"
   {{ with $style }}style="{{ . | safeCSS }}"{{ end }}
 >
   {{ .Inner | markdownify }}

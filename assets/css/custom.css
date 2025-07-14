@@ -12,6 +12,20 @@
 ╚══════════════════╩════════╩══════════╩════════════════════════════════════╝
 */
 
-.content :where(img):not(:where([class~=not-prose],[class~=not-prose] *)) {
+.content :where(img):not(:where([class~=not-prose], [class~=not-prose] *)) {
     border-radius: var(--hx-radius-lg);
+}
+
+.hero-headline-icon {
+    width: 60px;
+    height: 60px;
+    border-radius: 10px;
+}
+
+@media (max-width: 700px) {
+    .hero-headline-icon {
+        width: 52px;
+        height: 52px;
+        border-radius: 8px;
+    }
 }
