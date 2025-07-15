@@ -8,7 +8,7 @@ aliases:
   - /index.php/category/how-to/
 ---
 
-{{< lottie src="/images/juicy-json/juicy-business-coach-explains-the-material-to-the-woman.json" width="85%" >}}
+{{< lottie src="/images/juicy-json/juicy-team-analyzes-graphs-and-diagrams.json" width="85%" >}}
 
 This section offers practical, easy-to-follow guides for using Everappz apps.  
 

@@ -1,3 +1,17 @@
 {{ if .IsHome }}
-  <meta name="apple-itunes-app" content="app-id=6602897336">
+<script>
+  document.addEventListener("DOMContentLoaded", function () {
+    var meta = document.createElement('meta');
+    meta.name = "apple-itunes-app";
+
+    // Basic device detection
+    if (/Mobi|Android|iPhone|iPad|iPod/i.test(navigator.userAgent)) {
+      meta.content = "app-id=6602897336"; // mobile version
+    } else {
+      meta.content = "app-id=6743504109"; // desktop version
+    }
+
+    document.head.appendChild(meta);
+  });
+</script>
 {{ end }}
