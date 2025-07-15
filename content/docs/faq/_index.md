@@ -29,30 +29,46 @@ Explore the FAQ for your app below to get started.
 
 ## Choose Your App
 
-{{< cards cols="1">}}
+{{< cards cols="2">}}
 
 {{< card 
   link="/docs/faq/evervideo" 
   title="Evervideo" 
-  subtitle="Play 360° videos, stream from iCloud, watch with subtitles, apply a video equalizer, organize content with playlists, and download videos for offline viewing." 
+  subtitle="Play 360° videos, stream from iCloud, watch with subtitles, apply a video equalizer, organize content with playlists, and download videos for offline viewing."
+  image="/images/app_icons/webp/Evervideo_Icon-App-1024x1024.webp"
+  method="Resize"
+  options="200x q80 webp"
+  imageStyle="width: 72px; height: auto; margin-left: 1rem; margin-top: 1rem; border-radius: 12px; align-self: start; flex-shrink: 0;" 
 >}}
 
 {{< card 
   link="/docs/faq/evermusic"
   title="Evermusic" 
-  subtitle="Cloud music player with offline mode, audio equalizer, crossfade, gapless playback, playlist management, full music library, and built-in file manager." 
+  subtitle="Cloud music player with offline mode, audio equalizer, crossfade, gapless playback, playlist management, full music library, and built-in file manager."
+  image="/images/app_icons/webp/Evermusic_Icon-App-1024x1024.webp"
+  method="Resize"
+  options="200x q80 webp"
+  imageStyle="width: 72px; height: auto; margin-left: 1rem; margin-top: 1rem; border-radius: 12px; align-self: start; flex-shrink: 0;"  
 >}}
 
 {{< card 
   link="/docs/faq/flacbox"
   title="Flacbox" 
-  subtitle="High-resolution audio player for iPhone and Mac. Listen to lossless formats like FLAC, ALAC, APE, and DSD. Fine-tune output with advanced audio settings." 
+  subtitle="High-resolution audio player for iPhone and Mac. Listen to lossless formats like FLAC, ALAC, APE, and DSD. Fine-tune output with advanced audio settings."
+  image="/images/app_icons/webp/Flacbox_Icon-App-1024x1024.webp"
+  method="Resize"
+  options="200x q80 webp"
+  imageStyle="width: 72px; height: auto; margin-left: 1rem; margin-top: 1rem; border-radius: 12px; align-self: start; flex-shrink: 0;"  
 >}}
 
 {{< card 
   link="/docs/faq/evertag"
   title="Evertag" 
   subtitle="Smart music tag editor with batch editing. Fix missing metadata, album covers, and more. Edit ID3, FLAC, APE tags — over 120 fields supported." 
+  image="/images/app_icons/webp/Evertag_Icon-App-1024x1024.webp"
+  method="Resize"
+  options="200x q80 webp"
+  imageStyle="width: 72px; height: auto; margin-left: 1rem; margin-top: 1rem; border-radius: 12px; align-self: start; flex-shrink: 0;" 
 >}}
 
 {{< /cards >}}

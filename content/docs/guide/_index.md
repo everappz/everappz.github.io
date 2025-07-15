@@ -29,30 +29,46 @@ Pick an app below to get started.
 
 ## Choose Your Product
 
-{{< cards cols="1">}}
+{{< cards cols="2">}}
 
 {{< card 
   link="/docs/guide/evervideo" 
   title="Evervideo" 
-  subtitle="Play 360° videos, watch with subtitles, use a video equalizer, organize your media with playlists, download videos for offline use, and stream from iCloud." 
+  subtitle="Play 360° videos, watch with subtitles, use a video equalizer, organize your media with playlists, download videos for offline use, and stream from iCloud."
+  image="/images/app_icons/webp/Evervideo_Icon-App-1024x1024.webp"
+  method="Resize"
+  options="200x q80 webp"
+  imageStyle="width: 72px; height: auto; margin-left: 1rem; margin-top: 1rem; border-radius: 12px; align-self: start; flex-shrink: 0;"  
 >}}
 
 {{< card 
   link="/docs/guide/evermusic"
   title="Evermusic" 
   subtitle="Cloud music player with offline mode, audio equalizer, crossfade, gapless playback, playlists, music library, file manager." 
+  image="/images/app_icons/webp/Evermusic_Icon-App-1024x1024.webp"
+  method="Resize"
+  options="200x q80 webp"
+  imageStyle="width: 72px; height: auto; margin-left: 1rem; margin-top: 1rem; border-radius: 12px; align-self: start; flex-shrink: 0;"  
 >}}
 
 {{< card 
   link="/docs/guide/flacbox"
   title="Flacbox" 
   subtitle="Hi-Res audio player for iPhone and Mac. Listen to your music in lossless audio formats: flac, alac, ape, wv, dsd and more. Enable advanced audio output settings.​" 
+  image="/images/app_icons/webp/Flacbox_Icon-App-1024x1024.webp"
+  method="Resize"
+  options="200x q80 webp"
+  imageStyle="width: 72px; height: auto; margin-left: 1rem; margin-top: 1rem; border-radius: 12px; align-self: start; flex-shrink: 0;"  
 >}}
 
 {{< card 
   link="/docs/guide/evertag"
   title="Evertag" 
   subtitle="Music tags editor with automatic correction and batch mode. Find missing metadata, edit album covers. Edit ID3 / FLAC/ APE. More than 120 tags supported." 
+  image="/images/app_icons/webp/Evertag_Icon-App-1024x1024.webp"
+  method="Resize"
+  options="200x q80 webp"
+  imageStyle="width: 72px; height: auto; margin-left: 1rem; margin-top: 1rem; border-radius: 12px; align-self: start; flex-shrink: 0;" 
 >}}
 
 {{< /cards >}}
