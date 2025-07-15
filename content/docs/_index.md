@@ -4,7 +4,7 @@ draft: false
 title: 'Documentation'
 ---
 
-{{< lottie src="/images/juicy-json/juicy-girl-and-boy-searching-for-the-right-files.json" width="85%" >}}
+{{< lottie src="/images/juicy-json/juicy-girl-and-boy-searching-for-the-right-files.json" width="90%" >}}
 
 This section includes helpful documentation for all Everappz apps — including setup instructions, feature breakdowns, and advanced tips.
 
