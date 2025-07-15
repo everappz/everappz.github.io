@@ -1,5 +1,6 @@
 {{ $path := .Get "path" }}
 {{ $section := site.GetPage $path }}
+ {{- $readMore := (T "readMore") | default "Read more →" -}}
 
 <!-- <h2>Debug Info</h2> -->
 <!-- <p><strong>Section Path:</strong> {{ $path }}</p> -->
@@ -34,14 +35,33 @@
   {{ if not $pages }}
     <p>No valid posts found.</p>
   {{ else }}
-    <ul>
       {{ range $pages }}
-        <li>
-          <a href="{{ .RelPermalink }}">{{ .Title }}</a>
-          <!-- <small>({{ .Date.Format "2006-01-02" }})</small> -->
-        </li>
+          <div class="hx:mb-10">
+                <h3>
+                  <a href="{{ .RelPermalink }}" class="hx:block hx:font-semibold hx:mt-8 hx:text-2xl" style="color: inherit; text-decoration: none;">
+                    {{ .Title }}
+                  </a>
+                </h3>
+
+                <!-- {{ if site.Params.blog.list.displayTags }}
+                  {{ partial "tags.html" . }}
+                {{ end }} -->
+
+                <p class="hx:opacity-80 hx:mt-4 hx:leading-7">
+                  {{ partial "utils/page-description" . }}
+                </p>
+
+                <p class="hx:opacity-80 hx:mt-1 hx:leading-7">
+                  <a class="hx:text-[color:hsl(var(--primary-hue),100%,50%)] hx:underline hx:underline-offset-2 hx:decoration-from-font" href="{{ .RelPermalink }}">
+                    {{ $readMore }}
+                  </a>
+                </p>
+
+                <p class="hx:opacity-50 hx:text-sm hx:mt-4 hx:leading-7">
+                  {{ partial "utils/format-date" .Date }}
+                </p>
+          </div>
       {{ end }}
-    </ul>
   {{ end }}
 {{ else }}
   <p class="text-red-500">Section not found.</p>
