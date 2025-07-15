@@ -1,7 +1,7 @@
 ---
 title: "How to Change Album Covers for Local Tracks on Spotify: Step-by-Step Guide (Mobile & Desktop)"
 date: 2025-07-15
-description: "Learn how to change album artwork for local music files in Spotify on iPhone, Android, and desktop. Step-by-step guide to customize MP3 covers and edit metadata."
+description: "Learn how to change album artwork for local music files in Spotify on iPhone, iPad, Mac. Step-by-step guide to customize MP3 covers and edit metadata."
 keywords: ["change album cover spotify", "edit album artwork", "spotify local files", "mp3 album art", "music metadata editor", "spotify mobile album cover", "evertag app", "id3 tag editor"]
 tags: ["spotify", "album cover", "mp3", "metadata", "music editor", "local files"]
 readingTime: 3
