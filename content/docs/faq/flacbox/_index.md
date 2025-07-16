@@ -421,6 +421,15 @@ Explore these tutorials for more help:<br><br>
 
 {{% /details %}}
 
+{{% details title="Does Flacbox support Apple CarPlay?" closed="true" %}}
+Yes, **Flacbox fully supports Apple CarPlay**. You can browse your music library, play local or offline files, connect to cloud storage, and control playback directly from your car’s infotainment screen.
+
+The CarPlay interface includes dedicated tabs for **Library**, **Connections**, **Local Files**, and **Settings**, giving you full control over your music on the road. Playback controls, shuffle, repeat, and queue management are also available.
+
+To use CarPlay, make sure Siri is enabled and your iPhone is connected via USB or wireless.
+
+[Read the full guide](/docs/howto/how-to-play-your-own-music-on-iphone-using-carplay/)
+{{% /details %}}
 
 {{% details title="How do I use the Wi-Fi Drive feature in Flacbox?" closed="true" %}}
 

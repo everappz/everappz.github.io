@@ -29,7 +29,7 @@ On this screen, you can connect various sources containing your music. You can i
 If you encounter any issues, be sure to check your internet connection and login/password.  
 In the Premium version of the app, you can add an unlimited number of services.
 
-## Supported cloud storages
+## Supported cloud storage services
 
 Currently, the application supports the most popular cloud storage services: iCloud Drive, Dropbox, OneDrive, Google Drive, MEGA, Synology Drive, SMB, WebDAV, DLNA, Yandex.Disk, Box, 百度网盘, pCloud, WD My Cloud Home, InfiniCLOUD, MediaFire, OpenDrive, HiDrive, Cloud Mail.ru, Put.io, MyDrive.
 

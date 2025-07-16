@@ -265,6 +265,15 @@ Another available option is download music from Youtube and import it in Evermus
 [How to Download Music From YouTube and Listen to Offline Music on iPhone](/docs/howto/how-to-download-music-from-youtube-and-listen-to-offline-music-on-iphone)
 {{% /details %}}
 
+{{% details title="Does Evermusic support Apple CarPlay?" closed="true" %}}
+Yes, **Evermusic fully supports Apple CarPlay**. You can browse your music library, play local or offline files, connect to cloud storage, and control playback directly from your car’s infotainment screen.
+
+The CarPlay interface includes dedicated tabs for **Library**, **Connections**, **Local Files**, and **Settings**, giving you full control over your music on the road. Playback controls, shuffle, repeat, and queue management are also available.
+
+To use CarPlay, make sure Siri is enabled and your iPhone is connected via USB or wireless.
+
+[Read the full guide](/docs/howto/how-to-play-your-own-music-on-iphone-using-carplay/)
+{{% /details %}}
 
 {{% details title="What audio formats does Evermusic support?" closed="true" %}}
 Here’s the full list of supported audio formats and their corresponding file extensions:<br><br>
