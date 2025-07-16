@@ -69,7 +69,7 @@ Once you upgrade your app, you will see the Premium status screen with details o
 | Edit album covers | Yes | Yes |
 | Batch edit | Yes | Yes |
 | Fix encoding | Yes | Yes |
-| Cloud storages | 1 | Unlimited |
+| Cloud storage | 1 | Unlimited |
 | Favorites | 10 | Unlimited |
 | Auto tag search | 20/day | Unlimited |
 | Album art search | 20/day | Unlimited |
