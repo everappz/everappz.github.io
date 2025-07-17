@@ -78,8 +78,4 @@ However, if you want to import a playlist located on your device using the syste
 
 Due to security policies, the application can only access the file you select using the system files picker. However, the playlist file may include links to other media files on your device. To import a playlist from your device, you must select a folder containing both the playlist file and all media files linked to it. In this case, the app will scan the selected folder, find the playlist file, build the tracks list, and import it to the music library.
 
-You will see a warning alert explaining what you need to do in this scenario.
-
-![system file picker warning alert](21260c_2a1fc19a58f9437c9dd171ec5879a071~mv2.png)
-
 Additionally, you can import multiple playlists at once by tapping the "More Actions" button and selecting "Import Playlists from a Folder." The app will then scan the folder's content, find supported playlist files, and import them into the library.
