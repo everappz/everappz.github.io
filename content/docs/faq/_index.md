@@ -131,7 +131,7 @@ You can use one of the following options:<br>
   - [How To Export Playlists](/docs/howto/export-tracks-collection-from-evermusic-flacbox-to-m3u-csv-txt/)<br>
   - [How To Import Playlists](/docs/howto/how-to-import-m3u-playlist-to-evermusic-and-flacbox/)<br>
 - **Archive playlist or albums** and transfer via ZIP:<br>
-  - [Playlist Archive Guide](/howto/how-to-archive-zip-playlists-albums-artists-and-genres-in-evermusic-flacbox-and-transfer-to/)
+  - [Playlist Archive Guide](/docs/howto/how-to-archive-zip-playlists-albums-artists-and-genres-in-evermusic-flacbox-and-transfer-to/)
 {{% /details %}}
 
 {{% details title="Is it safe to use your apps? Can I disable analytics?" closed="true" %}}
