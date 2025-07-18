@@ -1,7 +1,7 @@
 ---
-title: "How to Edit ID3 Tags on iPhone"
+title: "How to Edit ID3 Tags on iPhone and Mac"
 date: 2017-10-17
-description: "Learn how to update ID3 tags and audio metadata directly from your iPhone using the Evermusic and Flacbox apps."
+description: "Learn how to update ID3 tags and audio metadata directly from your iPhone or Mac using the Evermusic and Flacbox apps."
 keywords: ["mp3 editor", "id3 tags", "metadata", "evermusic", "flacbox", "iphone tag editor"]
 tags: ["mp3", "editor", "iPhone", "tags", "metadata", "id3"]
 readingTime: 2
