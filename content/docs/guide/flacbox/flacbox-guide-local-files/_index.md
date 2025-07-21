@@ -4,6 +4,7 @@ date: 2020-02-01
 draft: false
 aliases:
   - /post/flacbox-guide-local-files/
+  - /amp/flacbox-guide-local-files/
   - /guide-flacbox-files/
 description: "Learn how to manage offline music with Flacbox using the Local Files section. Import files from cloud, USB, iTunes, or Wi-Fi, and organize your downloaded music with the built-in file manager."
 keywords: [

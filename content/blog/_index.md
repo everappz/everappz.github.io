@@ -47,6 +47,14 @@ aliases:
   - /blog/categories/choosing-the-best/
   - /blog/categories/development-and-technologies/
   - /blog/categories/what-s-new/
+  - /blog/hashtags/external/
+  - /blog/hashtags/flash/
+  - /blog/tags/app-store-keywords-guide/
+  - /blog/tags/metadata-optimizer/
+  - /blog/page/2/
+  - /blog/tags/wifi/
+  - /blog/tags/move/
+  - /index.php/tag/sound/
 
 cascade:
   type: blog

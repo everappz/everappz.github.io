@@ -12,6 +12,7 @@ readingTime: 4
 draft: false
 aliases:
   - /post/evermusic-guide-navigation/
+  - /amp/evermusic-guide-navigation/
   - /guide-evermusic-tab-bar/
 ---
 

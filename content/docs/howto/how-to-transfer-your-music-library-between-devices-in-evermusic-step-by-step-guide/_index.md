@@ -7,6 +7,7 @@ keywords: ["transfer music library Evermusic", "backup and restore playlists Eve
 readingTime: 3
 aliases:
   - /post/how-to-transfer-your-music-library-between-devices-in-evermusic-step-by-step-guide/
+  - /amp/how-to-transfer-your-music-library-between-devices-in-evermusic-step-by-step-guide/
 ---
 
 In this guide, we’ll walk you through transferring your entire music library — including database, album covers, and settings — from one device (iPhone or Mac) to another. While automatic music library and playlist sync is a feature planned for the future, this process must currently be done manually.

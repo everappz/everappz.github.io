@@ -7,6 +7,7 @@ tags: ["cloud", "player", "equalizer", "iPhone", "SoundCloud", "stream", "Chrome
 keywords: ["soundcloud equalizer app", "10-band equalizer iOS", "soundy soundcloud player", "music app with presets", "equalizer for iPhone", "playback speed soundcloud", "soundcloud app with sleep timer"]
 aliases:
   - /post/soundy-equalizer-for-soundcloud-on-the-app-store/
+  - /amp/soundy-equalizer-for-soundcloud-on-the-app-store/
   - /single-post/soundy-equalizer-for-soundcloud-on-the-app-store/
 ---
 

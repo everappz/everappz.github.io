@@ -7,6 +7,7 @@ tags: ["cloud", "streaming", "computer", "mp3", "file", "downloader", "manager",
 keywords: ["transfer files to iPhone SMB", "stream PC music on iPhone", "connect Mac to iPhone SMB", "Evermusic SMB setup", "access computer files iPhone", "Windows music share iOS", "SMB file transfer Evermusic"]
 aliases:
   - /post/transfer-your-files-from-the-computer-to-iphone-using-smb-protocol/
+  - /amp/transfer-your-files-from-the-computer-to-iphone-using-smb-protocol/
 ---
 
 Do you have an extensive collection of large files on your MAC or PC and wish to access them effortlessly from your iPhone or iPad? Our apps provide a simple solution.

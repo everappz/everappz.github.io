@@ -8,6 +8,7 @@ categories: ["How To"]
 draft: false
 aliases:
   - /post/audio-bookmarks-for-soundcloud/
+  - /amp/audio-bookmarks-for-soundcloud/
 ---
 
 {{< figure

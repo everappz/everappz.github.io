@@ -8,6 +8,7 @@ readingTime: 2
 draft: false
 aliases:
   - /post/how-to-increase-playback-speed-on-soundcloud/
+  - /amp/how-to-increase-playback-speed-on-soundcloud/
   - /single-post/How-to-increase-playback-speed-on-SoundCloud/
   - /single-post/How-to-change-playback-speed-on-SoundCloud/
 ---

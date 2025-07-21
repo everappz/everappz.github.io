@@ -7,6 +7,7 @@ tags: ["cloud", "streaming", "computer", "mp3", "file", "downloader", "manager",
 keywords: ["stream music from Mac to iPhone", "SMB audio streaming iOS", "Evermusic SMB setup", "connect PC music iPhone", "Mac music share iOS", "SMB Windows file streaming", "Evermusic PC folder access"]
 aliases:
   - /post/stream-your-music-from-mac-or-pc-to-iphone-using-smb/
+  - /amp/stream-your-music-from-mac-or-pc-to-iphone-using-smb/
   - /single-post/Stream-your-music-from-MAC-or-PC-to-iPhone-using-SMB/
   - /index.php/2016/05/29/stream-your-music-directly-from-mac-or-pc-using-smb/
 ---

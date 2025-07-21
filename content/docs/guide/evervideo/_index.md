@@ -4,6 +4,7 @@ draft: false
 title: 'Evervideo'
 aliases:
   - /post/evervideo-guide/
+  - /amp/evervideo-guide/
   - /support-evervideo/
   - /docs/guide/evervideo/evervideo-guide/
 ---

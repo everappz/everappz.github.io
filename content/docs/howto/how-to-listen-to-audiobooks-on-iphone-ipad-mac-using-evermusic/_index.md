@@ -8,6 +8,7 @@ readingTime: 5
 draft: false
 aliases:
   - /post/how-to-listen-to-audiobooks-on-iphone-ipad-mac-using-evermusic/
+  - /amp/how-to-listen-to-audiobooks-on-iphone-ipad-mac-using-evermusic/
 ---
 
 ## Introduction

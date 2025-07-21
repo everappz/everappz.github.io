@@ -8,6 +8,7 @@ tags: ["evermusic", "flacbox", "audio", "lossless", "crossfade", "difference", "
 draft: false
 aliases:
   - /post/what-is-the-difference-between-evermusic-and-flacbox/
+  - /amp/what-is-the-difference-between-evermusic-and-flacbox/
 readingTime: 3
 ---
 

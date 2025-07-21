@@ -7,6 +7,7 @@ tags: ["Evermusic", "downloads", "3million", "music apps", "cloud player", "offl
 draft: false
 aliases:
   - /post/evermusic-3-million-downloads/
+  - /amp/evermusic-3-million-downloads/
   - /single-post/Evermusic-3-million-downloads/
 cascade:
   type: docs

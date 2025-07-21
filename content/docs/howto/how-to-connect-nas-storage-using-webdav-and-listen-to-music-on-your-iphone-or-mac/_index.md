@@ -8,6 +8,7 @@ readingTime: 2
 draft: false
 aliases:
   - /post/how-to-connect-nas-storage-using-webdav-and-listen-to-music-on-your-iphone-or-mac/
+  - /amp/how-to-connect-nas-storage-using-webdav-and-listen-to-music-on-your-iphone-or-mac/
 ---
 
 Discover how to connect your NAS storage using WebDAV and effortlessly stream your music library to your iPhone or Mac. WebDAV (Web-based Distributed Authoring and Versioning) is a protocol that allows you to manage and share files over the Internet. By setting up WebDAV on your NAS, you can access and stream your music collection, ensuring you always have your favorite tunes at your fingertips.

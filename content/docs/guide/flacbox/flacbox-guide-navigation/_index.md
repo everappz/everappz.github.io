@@ -4,6 +4,7 @@ date: 2020-02-01
 draft: false
 aliases:
   - /post/flacbox-guide-navigation/
+  - /amp/flacbox-guide-navigation/
   - /guide-flacbox-navigation/
 description: "Learn how to navigate the Flacbox interface on iPhone, iPad, and Mac. This guide covers Music Library, Local Files, Playlists, Settings, the mini player, top toolbar, and VoiceOver accessibility features."
 keywords: [

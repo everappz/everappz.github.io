@@ -5,6 +5,7 @@ title: 'Contact Us'
 aliases:
   - /contact-us/
   - /subscribe/
+  - /index.php/contact-us/
 ---
 
 {{< lottie src="/images/juicy-json/juicy-girl-typing-on-phone.json" width="60%" >}}

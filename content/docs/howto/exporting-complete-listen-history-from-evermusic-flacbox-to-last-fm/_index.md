@@ -8,6 +8,7 @@ readingTime: 5
 draft: false
 aliases:
   - /post/exporting-complete-listen-history-from-evermusic-flacbox-to-last-fm/
+  - /amp/exporting-complete-listen-history-from-evermusic-flacbox-to-last-fm/
 ---
 
 **UPD:** Automatic scrobbling is now available! Learn more here: [/docs/howto/how-to-scrobble-your-music-history-from-evermusic-or-flacbox-to-last-fm](/docs/howto/how-to-scrobble-your-music-history-from-evermusic-or-flacbox-to-last-fm)

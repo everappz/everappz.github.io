@@ -6,6 +6,7 @@ description: 'Step-by-step guides, and tips to help you set up, use, and get the
 excludeSearch: true
 aliases:
   - /index.php/category/how-to/
+  - /post/how-to-/
 ---
 
 {{< lottie src="/images/juicy-json/juicy-team-analyzes-graphs-and-diagrams.json" width="85%" >}}

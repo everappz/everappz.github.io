@@ -17,6 +17,7 @@ keywords: [
 readingTime: 3
 aliases:
   - /post/how-to-transfer-files-from-my-mac-to-iphone-or-ipad-using-finder/
+  - /amp/how-to-transfer-files-from-my-mac-to-iphone-or-ipad-using-finder/
 ---
 
 iTunes File Sharing offers a convenient way to transfer files between your computer and iOS applications on your iPhone, iPad, or iPod touch. Whether you have a collection of favorite albums, artists, or tracks on your Mac or PC, you can easily copy this content to apps like Evermusic, Flacbox, or Evertag.

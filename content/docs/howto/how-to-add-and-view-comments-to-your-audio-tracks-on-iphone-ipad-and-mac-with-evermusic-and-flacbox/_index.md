@@ -8,6 +8,7 @@ readingTime: 4
 draft: false
 aliases:
   - /post/how-to-add-and-view-comments-to-your-audio-tracks-on-iphone-ipad-and-mac-with-evermusic-and-flacbox/
+  - /amp/how-to-add-and-view-comments-to-your-audio-tracks-on-iphone-ipad-and-mac-with-evermusic-and-flacbox/
 ---
 
 ## Introduction

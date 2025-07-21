@@ -7,6 +7,7 @@ tags: ["evermusic", "recents", "favorites", "export", "m3u", "playlist", "csv", 
 draft: false
 aliases:
   - /post/export-tracks-collection-from-evermusic-flacbox-to-m3u-csv-txt/
+  - /amp/export-tracks-collection-from-evermusic-flacbox-to-m3u-csv-txt/
 ---
 
 ## Intro

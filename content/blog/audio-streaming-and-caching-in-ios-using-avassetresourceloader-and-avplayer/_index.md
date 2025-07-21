@@ -7,6 +7,7 @@ tags: ["streaming", "AVPlayer", "AVFoundation", "iOS", "AVAssetResourceLoader", 
 draft: false
 aliases:
   - /post/audio-streaming-and-caching-in-ios-using-avassetresourceloader-and-avplayer/
+  - /amp/audio-streaming-and-caching-in-ios-using-avassetresourceloader-and-avplayer/
   - /single-post/Audio-Streaming-and-Caching-in-iOS-using-AVAssetResourceLoader-and-AVPlayer/
   - /index.php/2015/02/10/audio-streaming-and-caching-in-ios-using-avassetresourceloader-and-avplayer/
 cascade:

@@ -11,6 +11,7 @@ readingTime: 3
 draft: false
 aliases:
   - /post/evermusic-guide/
+  - /amp/evermusic-guide/
   - /support-evermusic/
   - /docs/guide/evermusic/evermusic-guide/
 ---

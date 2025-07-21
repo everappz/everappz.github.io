@@ -12,6 +12,7 @@ readingTime: 6
 draft: false
 aliases:
   - /post/evermusic-guide-local-files/
+  - /amp/evermusic-guide-local-files/
   - /guide-evermusic-files/
 ---
 

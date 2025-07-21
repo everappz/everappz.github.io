@@ -4,6 +4,7 @@ date: 2020-02-01
 draft: false
 aliases:
   - /post/flacbox-guide-connections/
+  - /amp/flacbox-guide-connections/
   - /guide-flacbox-connect/
 description: "Learn how to connect cloud services, NAS, and your computer to Flacbox. Stream music from iCloud, Dropbox, Google Drive, and more. Use SMB, WebDAV, DLNA, Wi-Fi Drive, and iTunes File Sharing."
 keywords: [

@@ -7,6 +7,7 @@ tags: ["evermusic", "setapp", "cloud", "audio", "mobile", "marketplace", "music"
 draft: false
 aliases:
   - /post/setapp-mobile-and-evermusic-pro/
+  - /amp/setapp-mobile-and-evermusic-pro/
 cascade:
   type: docs
 ---

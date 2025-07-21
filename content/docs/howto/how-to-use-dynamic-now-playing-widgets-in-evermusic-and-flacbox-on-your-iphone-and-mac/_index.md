@@ -7,6 +7,7 @@ tags: ["widgets", "ios17", "dynamic", "now playing", "home screen", "sonoma"]
 keywords: ["Evermusic widget", "Flacbox widget", "Now Playing widget iOS", "macOS Sonoma desktop widget", "audio bookmarks iPhone", "music widget Evermusic", "playback control home screen", "dynamic widgets iOS 17"]
 aliases:
   - /post/how-to-use-dynamic-now-playing-widgets-in-evermusic-and-flacbox-on-your-iphone-and-mac/
+  - /amp/how-to-use-dynamic-now-playing-widgets-in-evermusic-and-flacbox-on-your-iphone-and-mac/
 ---
 
 In the latest update for **Evermusic** and **Flacbox**, we’re excited to introduce **Dynamic Now Playing Widgets** for iOS and Mac. These widgets let you control playback directly from your home screen or desktop, giving you quick access to commands like Play, Pause, Stop, Next Track, Previous Track, Skip Forward, Skip Backward, Add to Favorites, and even Create Audio Bookmarks for specific tracks.

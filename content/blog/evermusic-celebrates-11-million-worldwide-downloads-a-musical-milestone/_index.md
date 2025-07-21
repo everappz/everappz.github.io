@@ -7,6 +7,7 @@ tags: ["evermusic", "iOS", "music player", "11 million downloads", "cloud music"
 draft: false
 aliases:
   - /post/evermusic-celebrates-11-million-worldwide-downloads-a-musical-milestone/
+  - /amp/evermusic-celebrates-11-million-worldwide-downloads-a-musical-milestone/
 cascade:
   type: docs
 ---

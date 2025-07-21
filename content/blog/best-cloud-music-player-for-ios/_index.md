@@ -7,6 +7,7 @@ tags: ["Evermusic", "cloud music", "offline playback", "iOS music apps", "MP3 pl
 draft: false
 aliases:
   - /post/best-cloud-music-player-for-ios/
+  - /amp/best-cloud-music-player-for-ios/
 cascade:
   type: docs
 ---

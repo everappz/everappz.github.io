@@ -7,6 +7,7 @@ tags: ["Evermusic", "Aliyun Drive", "Synology", "Album Covers", "Cloud Music", "
 draft: false
 aliases:
   - /post/evermusic6-8-aliyun-drive-synology-new-album-cover-styles/
+  - /amp/evermusic6-8-aliyun-drive-synology-new-album-cover-styles/
 cascade:
   type: docs
 ---

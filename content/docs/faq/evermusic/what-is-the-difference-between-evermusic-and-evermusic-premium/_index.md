@@ -8,6 +8,7 @@ tags: ["Evermusic", "Premium", "Difference", "Pro", "Free vs Paid", "Music App",
 draft: false
 aliases:
   - /post/what-is-the-difference-between-evermusic-and-evermusic-premium/
+  - /amp/what-is-the-difference-between-evermusic-and-evermusic-premium/
 ---
 
 Evermusic and Evermusic Premium are two different versions of the same music player application, with Evermusic Premium offering additional features and benefits compared to the standard Evermusic version.

@@ -8,6 +8,7 @@ readingTime: 4
 draft: false
 aliases:
   - /post/how-to-play-music-on-iphone-from-wd-my-cloud-home/
+  - /amp/how-to-play-music-on-iphone-from-wd-my-cloud-home/
 ---
 
 {{< figure src="21260c_9ca3708cd72943c8afe6d856df67b96b~mv2.jpg" alt="Evermusic + My Cloud Home: Banner" width="800" >}}

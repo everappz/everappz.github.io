@@ -7,6 +7,7 @@ tags: ["evermusic", "promo", "video", "ios", "music", "cloud", "player", "mobile
 draft: false
 aliases:
   - /post/evermusic-promo-video/
+  - /amp/evermusic-promo-video/
 cascade:
   type: docs
 ---

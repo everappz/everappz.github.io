@@ -7,6 +7,7 @@ keywords: ["transfer music without iTunes", "wifi drive iphone", "wirelessly cop
 readingTime: 2
 aliases:
   - /post/how-to-transfer-music-from-computer-to-iphone-without-itunes/
+  - /amp/how-to-transfer-music-from-computer-to-iphone-without-itunes/
 ---
 
 You can watch a video tutorial from [**TECHGUYPH**](https://www.youtube.com/channel/UCgpf09gGFE_c_3pPTtTpnzg) or read the text version below.

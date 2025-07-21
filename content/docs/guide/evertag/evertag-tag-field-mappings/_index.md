@@ -7,6 +7,7 @@ tags: ["Evertag", "audio tags", "metadata", "ID3", "Vorbis", "MP4", "ASF"]
 draft: false
 aliases:
   - /post/evertag-tag-field-mappings/
+  - /amp/evertag-tag-field-mappings/
 cascade:
   type: docs
 ---

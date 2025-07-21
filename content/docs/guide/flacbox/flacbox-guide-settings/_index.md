@@ -2,9 +2,6 @@
 title: "Settings"
 date: 2020-02-01
 draft: false
-aliases:
-  - /post/flacbox-guide-settings/
-  - /guide-flacbox-settings/
 description: "Explore every setting in Flacbox, from playback preferences and equalizer tweaks to metadata sync, playlist control, file transfers, UI customization, and Premium upgrade steps."
 keywords: [
   "Flacbox settings", "audio player configuration", "premium upgrade Flacbox",
@@ -14,6 +11,9 @@ keywords: [
 ]
 tags: ["guide", "flacbox", "settings"]
 readingTime: 14
+aliases:
+  - /post/flacbox-guide-settings/
+  - /guide-flacbox-settings/
 ---
 
 On this screen, you can access the application settings and upgrade it to the Premium version.

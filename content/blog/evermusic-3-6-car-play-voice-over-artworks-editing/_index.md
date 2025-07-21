@@ -7,6 +7,7 @@ tags: ["Evermusic", "CarPlay", "VoiceOver", "music apps", "accessibility", "iClo
 draft: false
 aliases:
   - /post/evermusic-3-6-car-play-voice-over-artworks-editing/
+  - /amp/evermusic-3-6-car-play-voice-over-artworks-editing/
 cascade:
   type: docs
 ---

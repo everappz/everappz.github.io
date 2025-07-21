@@ -6,6 +6,7 @@ tags: ["local music", "offline music", "music player", "iPhone", "Mac", "Evermus
 keywords: ["how to play local music on iPhone", "play music from device storage", "offline music player iOS", "Evermusic app tutorial", "Flacbox FLAC player", "iOS local file playback", "Mac music library", "music app for local files", "iPhone play downloaded songs", "how to use Evermusic with local files"]
 aliases:
   - /post/how-to-play-local-music-stored-on-your-iphone-or-mac/
+  - /amp/how-to-play-local-music-stored-on-your-iphone-or-mac/
 ---
 
 In the digital age, streaming services have changed how we listen to music, but there's something special about the music we've collected over the years on our Macs, PCs, or external drives.   

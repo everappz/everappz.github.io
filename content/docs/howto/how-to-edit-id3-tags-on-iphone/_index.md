@@ -8,6 +8,7 @@ readingTime: 2
 draft: false
 aliases:
   - /post/how-to-edit-id3-tags-on-iphone/
+  - /amp/how-to-edit-id3-tags-on-iphone/
   - /single-post/How-to-edit-id3-tags-on-iPhone/
 ---
 

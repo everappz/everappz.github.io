@@ -8,6 +8,7 @@ readingTime: 2
 draft: false
 aliases:
   - /post/how-to-install-app-from-the-app-store-using-redeem-promo-code/
+  - /amp/how-to-install-app-from-the-app-store-using-redeem-promo-code/
 ---
 
 {{< figure src="/21260c_b9528a8ed58c4207be1e012627bce8d1~mv2.png" alt="Activate redeem promo code on iPad" width="800" >}}

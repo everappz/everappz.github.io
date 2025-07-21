@@ -2,9 +2,6 @@
 title: "Audio Player"
 date: 2020-02-01
 draft: false
-aliases:
-  - /post/flacbox-guide-player/
-  - /guide-flacbox-player/
 description: "Learn how to use the Flacbox player to control playback, manage queues, adjust audio settings, use AirPlay or Google Cast, and more. This guide covers player screen navigation, equalizer, bookmarks, and advanced playback settings."
 keywords: [
   "Flacbox player guide", "audio player settings", "Flacbox equalizer", 
@@ -14,6 +11,9 @@ keywords: [
 ]
 tags: ["guide", "flacbox", "player"]
 readingTime: 12
+aliases:
+  - /post/flacbox-guide-player/
+  - /guide-flacbox-player/
 ---
 
 The Player is the main screen of the app where you control the music and other features. Let's explore how to use it.
