@@ -256,4 +256,19 @@ Try the following solutions:<br>
 Alternatively, connect using **WebDAV** or **DLNA** if your NAS supports them.
 {{% /details %}}
 
+{{% details title="How do I upload and manage music in iCloud?" closed="true" %}}
+– **How do I upload music to iCloud?**  <br>
+Go to [https://www.icloud.com](https://www.icloud.com) in your browser, create a folder, and upload your music files directly from your Mac or PC.<br>
+
+– **How do I manage iCloud storage?**  <br>
+You have two options:  <br>
+1. Use [https://www.icloud.com](https://www.icloud.com) in your browser to organize, upload, or delete files.<br>  
+2. In the app, after connecting to iCloud via **Connections → Connect to Cloud Storage → iCloud Drive**, use the built-in file manager to upload, download, rename folders, or delete files directly in your iCloud storage — without saving them to your device.<br>
+
+⚠️ Be careful when deleting files. The app permanently deletes them (they won’t go to the trash and can’t be recovered).<br>
+
+Learn more here: [How to Stream Music from iCloud Drive on My iPhone or Mac](/docs/howto/how-to-listen-to-music-from-icloud-drive-on-your-iphone-or-mac/)
+
+{{% /details %}}
+
 </div>
