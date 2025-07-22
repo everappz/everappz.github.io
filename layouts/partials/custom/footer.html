@@ -21,6 +21,7 @@
    }
    
    function denyCookies() {
+     const now = new Date().getTime();
      localStorage.setItem('cookie_consent', 'false');
      localStorage.setItem('cookie_consent_timestamp', now);
      document.getElementById('cookie-banner').style.display = 'none';
@@ -29,11 +30,11 @@
    window.onload = function () {
         const consent = localStorage.getItem('cookie_consent');
         const timestamp = parseInt(localStorage.getItem('cookie_consent_timestamp'), 10);
-        const THIRTY_DAYS = 30 * 24 * 60 * 60 * 1000;
+        const CONSENT_EXPIRATION_MS = 30 * 24 * 60 * 60 * 1000; // 30 days in milliseconds
    
-         if (consent === 'true' && timestamp && (new Date().getTime() - timestamp < THIRTY_DAYS)) {
+         if (consent === 'true' && timestamp && (new Date().getTime() - timestamp < CONSENT_EXPIRATION_MS)) {
             initAnalytics();
-         } else if (consent === null || (new Date().getTime() - timestamp >= THIRTY_DAYS)) {
+         } else if (consent === null || (new Date().getTime() - timestamp >= CONSENT_EXPIRATION_MS)) {
             // Expired or not set
             localStorage.removeItem('cookie_consent');
             localStorage.removeItem('cookie_consent_timestamp');
