@@ -10,8 +10,11 @@
 </head>
 
 <body>
-  <p>You are being redirected. If it doesn't happen automatically, please click the link below:</p>
-  <p><a href="{{ .Permalink }}">{{ .Permalink }}</a></p>
+  <div style="text-align: center; font-size: 1.25rem; line-height: 1.6;">
+    <p><strong>You are being redirected.</strong><br>
+      If it doesn't happen automatically, please click the link below:</p>
+    <p><a href="{{ .Permalink }}">{{ .Permalink }}</a></p>
+  </div>
 </body>
 
 </html>
