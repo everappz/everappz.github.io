@@ -54,7 +54,10 @@ aliases:
   - /blog/page/2/
   - /blog/tags/wifi/
   - /blog/tags/move/
+  - /blog/tags/download/
   - /index.php/tag/sound/
+  - /blog/tags/txt/
+  - /blog/tags/dynamic/
 
 cascade:
   type: blog
