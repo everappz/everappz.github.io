@@ -19,9 +19,9 @@ In this guide, we’ll show you step-by-step how to:
 - Enable the DLNA music server  
 - Access that music using the **Evermusic** or **Flacbox** iOS app
 
-This setup is 100% local — no cloud, no subscriptions, just your own music streamed over your Wi-Fi network. Whether you're trying to organize your large MP3 collection, listen to FLAC over Wi-Fi, or just enjoy your local music without syncing via iTunes, this setup is perfect for you.
+This setup is 100% free — no subscriptions, just your own music streamed over your Wi-Fi network. Whether you're trying to organize your large MP3 collection, listen to FLAC over Wi-Fi, or just enjoy your local music without syncing via iTunes, this setup is perfect for you.
 
-## Download and Install Kodi on Your Mac or PC
+## Download and Install Kodi on Your Mac / PC / Linux / NAS
 
 First, visit the official Kodi website:
 
@@ -38,7 +38,7 @@ Choose your operating system. In this example, we'll use **macOS**.
 {{< card subtitle="Kodi Downloads page" image="/2_kodi_downloads_page.webp" >}}
 {{< /cards >}}
 
-Click **Intex (x86/64)** if you have Intel Mac or **Apple Silicon** for M1, M2, M3 Mac to start download.
+Click **Intel (x86/64)** if you have Intel Mac or **Apple Silicon** for M1, M2, M3 Mac to start download.
 
 {{< cards cols="1">}}
 {{< card subtitle="Choose macOS installer" image="/3_kodi_macos_downloads.webp" >}}
@@ -95,7 +95,19 @@ Browse and select the folder where your music is stored.
 {{< card subtitle="Choose music source" image="/13_kodi_add_music_source.webp" >}}
 {{< /cards >}}
 
+Add music source to Kodi.
+
+{{< cards cols="1">}}
+{{< card subtitle="Add music source" image="/14_kodi_music_source_added.webp" >}}
+{{< /cards >}}
+
 Confirm and let Kodi scan your music library.
+
+{{< cards cols="1">}}
+{{< card subtitle="Confirm music sources" image="/15_kodi_add_media_to_library_confirmation.webp" >}}
+{{< /cards >}}
+
+Wait a moment while your library is being scanned and fully built.
 
 {{< cards cols="1">}}
 {{< card subtitle="Scanning music library" image="/16_kodi_scanning_library.webp" >}}
