@@ -81,7 +81,7 @@ Reports may be sent to Cloudflare via:
 
 https://a.nel.cloudflare.com/report/v4
 
-For more information, please see [Cloudflare’s rivacy policy](https://www.cloudflare.com/privacypolicy/).
+For more information, please see [Cloudflare’s Privacy Policy](https://www.cloudflare.com/privacypolicy/).
 
 ## Cookie Consent and Management
 
