@@ -1,0 +1,12 @@
+{{- $id := .Get "id" -}}
+{{- $title := .Get "title" -}}
+
+{{- $link := printf "https://www.youtube.com/watch?v=%s" $id -}}
+{{- $image := printf "https://img.youtube.com/vi/%s/maxresdefault.jpg" $id -}}
+
+{{- $shortcode := printf `
+{{< cards cols="1">}}
+  {{< card link="%s" title="%s" image="%s" >}}
+{{< /cards >}}` $link $title $image -}}
+
+{{ $shortcode | .Page.RenderString }}

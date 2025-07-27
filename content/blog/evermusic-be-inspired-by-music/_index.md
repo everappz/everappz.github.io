@@ -18,7 +18,7 @@ We’re excited to share a brand-new Evermusic promotional video — crafted wit
 
 Watch and experience the vibe of Evermusic in action:
 
-{{< youtube id="6mm3LVT4rtA" title="Evermusic Promo Video" >}}
+{{< youtubecard id="6mm3LVT4rtA" title="Evermusic Promo Video" >}}
 
 If you enjoy the video, please consider sharing it with your friends and fellow music lovers.
 

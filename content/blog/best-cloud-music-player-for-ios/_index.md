@@ -18,7 +18,7 @@ Welcome to the ultimate walkthrough showcasing **Evermusic** – the top-tier cl
 
 Watch the full video review by [@Massi_Media](https://www.youtube.com/@Massi_Media):
 
-{{< youtube id="pKUZmHy9dxc" >}}
+{{< youtubecard id="pKUZmHy9dxc" >}}
 
 If you found the video helpful, don’t forget to like, share, and subscribe!
 

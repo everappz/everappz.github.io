@@ -18,4 +18,4 @@ If you love the video, please share it with fellow music enthusiasts. Every shar
 
 ## Watch the Promo
 
-{{< youtube id="BwD0XLgdzEE" title="Evermusic Promo Video" >}}
+{{< youtubecard id="BwD0XLgdzEE" title="Evermusic Promo Video" >}}

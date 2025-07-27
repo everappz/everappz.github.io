@@ -16,7 +16,7 @@ You can transfer files wirelessly using a desktop web browser or WebDAV client l
 
 You can watch a video tutorial from [**TECHGUYPH**](https://www.youtube.com/channel/UCgpf09gGFE_c_3pPTtTpnzg) or read the text version below.
 <br><br>
-{{< youtube id="CqdqrQ0ge70" title="Can We Wirelessly Put Offline Music on iPhones?" >}}
+{{< youtubecard id="CqdqrQ0ge70" title="Can We Wirelessly Put Offline Music on iPhones?" >}}
 
 ## Transfer files from the computer wirelessly with a desktop web browser
 

@@ -12,7 +12,7 @@ aliases:
 
 You can watch a video tutorial from [**TECHGUYPH**](https://www.youtube.com/channel/UCgpf09gGFE_c_3pPTtTpnzg) or read the text version below.
 <br><br>
-{{< youtube id="CqdqrQ0ge70" title="Can We Wirelessly Put Offline Music on iPhones?" >}}
+{{< youtubecard id="CqdqrQ0ge70" title="Can We Wirelessly Put Offline Music on iPhones?" >}}
 
 Wi-Fi Drive is the ultimate solution for seamlessly transferring your music collection from your computer to your iPhone or iPad without the need for iTunes. This hassle-free method allows you to effortlessly download or upload multiple audio files and even entire folders using your local Wi-Fi connection. Both your computer and iOS device should be connected to the same Wi-Fi network for this to work like a charm.
 

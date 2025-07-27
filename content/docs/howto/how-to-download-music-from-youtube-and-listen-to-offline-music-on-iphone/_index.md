@@ -222,12 +222,12 @@ If you are uncertain of your options, consider asking for more information from 
 
 P.S. There are also several **video tutorials** available on the Youtube:
 <br><br>
-{{< youtube id="TlVpbRvAiwA" title="Descargar Música Gratis Para IOS" >}}
+{{< youtubecard id="TlVpbRvAiwA" title="Descargar Música Gratis Para IOS" >}}
 <br><br>
-{{< youtube id="jSDuNguZZNE" title="Evermusic: Free Offline Music Player for iOS (iPhone/iPod/iPad) | Music Files Organization" >}}
+{{< youtubecard id="jSDuNguZZNE" title="Evermusic: Free Offline Music Player for iOS (iPhone/iPod/iPad) | Music Files Organization" >}}
 <br><br>
-{{< youtube id="aM8jZi5bBr8" title="Use Evermusic to download your rehearsal tracks and scores" >}}
+{{< youtubecard id="aM8jZi5bBr8" title="Use Evermusic to download your rehearsal tracks and scores" >}}
 <br><br>
-{{< youtube id="-kY48ktbo2M" title="テクノロジー塾】おすすめiPhone 音楽アプリ「ever music」ストック型篇" >}}
+{{< youtubecard id="-kY48ktbo2M" title="テクノロジー塾】おすすめiPhone 音楽アプリ「ever music」ストック型篇" >}}
 
 
