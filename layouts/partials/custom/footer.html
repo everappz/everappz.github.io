@@ -1,26 +1,5 @@
 <script>
-   
-   function acceptCookies() {
-    const now = new Date().getTime();
-    localStorage.setItem('cookie_consent', 'true');
-    localStorage.setItem('cookie_consent_timestamp', now);
-    document.getElementById('cookie-banner').style.display = 'none';
-   }
-   
    window.onload = function () {
-        const consent = localStorage.getItem('cookie_consent');
-        const timestamp = parseInt(localStorage.getItem('cookie_consent_timestamp'), 10);
-        const CONSENT_EXPIRATION_MS = 30 * 24 * 60 * 60 * 1000; // 30 days in milliseconds
-   
-         if (consent === 'true' && timestamp && (new Date().getTime() - timestamp < CONSENT_EXPIRATION_MS)) {
-            initAnalytics();
-         } else if (consent === null || (new Date().getTime() - timestamp >= CONSENT_EXPIRATION_MS)) {
-            // Expired or not set
-            localStorage.removeItem('cookie_consent');
-            localStorage.removeItem('cookie_consent_timestamp');
-            document.getElementById('cookie-banner').style.display = 'block';
-         }
-
         // fix custom footer centering
         const elements = document.getElementsByClassName('hextra-custom-footer');
         for (let i = 0; i < elements.length; i++) {
@@ -28,33 +7,6 @@
         }
    }
 </script>
-
-<!-- No Blur -->
-<!-- class="hx:bg-white hx:dark:bg-neutral-900 hx:py-4 hx:px-6 hx:border-t hx:border-gray-200 hx:dark:border-neutral-800"> -->
- 
-<div id="cookie-banner" 
-   style="display:none; position:fixed; bottom:0; left:0; right:0; z-index:9999;"
-   class="hx:bg-white hx:dark:bg-dark hx:py-4 hx:px-6 hx:border-t hx:border-gray-200 hx:dark:border-neutral-800 nav-container-blur">
-   <div class="hx:flex hx:flex-row hx:justify-between hx:items-center">
-      <!-- Text and Learn More -->
-      <div class="hx:text-center">
-         <p style="display:inline;" class="hx:text-base hx:font-medium hx:text-gray-700 hx:dark:text-gray-200 hx:mb-2 sm:hx:mb-0">We use cookies on our website to see how you interact with it. 
-         <a href="/legal/cookie-policy/" class="hx:text-base hx:font-bold hx:text-gray-700 hx:dark:text-gray-200 hx:hover:underline">Learn More</a>
-         </p>
-      </div>
-      <!-- Buttons -->
-      <div class="hx:mt-1 hx:mb-1">
-         <button
-            type="button"
-            onclick="acceptCookies()"
-            style="margin-left: 0.5em; margin-right: 0.5em;"
-            class="not-prose hx:font-medium hx:cursor-pointer hx:px-6 hx:py-3 hx:rounded-full hx:text-center hx:text-white hx:inline-block hx:bg-primary-600 hx:hover:bg-primary-700 hx:focus:outline-hidden hx:focus:ring-4 hx:focus:ring-primary-300 hx:dark:bg-primary-600 hx:dark:hover:bg-primary-700 hx:dark:focus:ring-primary-800 hx:transition-all hx:ease-in hx:duration-200">
-         OK
-         </button>
-      </div>
-   </div>
-</div>
-
 
 <style>
 .footer-cards {
