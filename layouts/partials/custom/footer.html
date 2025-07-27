@@ -1,37 +1,87 @@
 <script>
-   window.onload = function () {
-        // fix custom footer centering
-        const elements = document.getElementsByClassName('hextra-custom-footer');
-        for (let i = 0; i < elements.length; i++) {
-          elements[i].classList.add('hx:mx-auto');
-        }
-   }
+
+  function acceptCookies() {
+    const now = new Date().getTime();
+    localStorage.setItem('cookie_consent', 'true');
+    localStorage.setItem('cookie_consent_timestamp', now);
+    document.getElementById('cookie-banner').style.display = 'none';
+  }
+
+  window.onload = function () {
+    const consent = localStorage.getItem('cookie_consent');
+    const timestamp = parseInt(localStorage.getItem('cookie_consent_timestamp'), 10);
+    const CONSENT_EXPIRATION_MS = 30 * 24 * 60 * 60 * 1000; // 30 days in milliseconds
+
+    if (consent === null || (new Date().getTime() - timestamp >= CONSENT_EXPIRATION_MS)) {
+      // Expired or not set
+      localStorage.removeItem('cookie_consent');
+      localStorage.removeItem('cookie_consent_timestamp');
+      document.getElementById('cookie-banner').style.display = 'block';
+    }
+
+    // fix custom footer centering
+    const elements = document.getElementsByClassName('hextra-custom-footer');
+    for (let i = 0; i < elements.length; i++) {
+      elements[i].classList.add('hx:mx-auto');
+    }
+  }
 </script>
 
+<!-- No Blur -->
+<!-- class="hx:bg-white hx:dark:bg-neutral-900 hx:py-4 hx:px-6 hx:border-t hx:border-gray-200 hx:dark:border-neutral-800"> -->
+
+<div id="cookie-banner" style="display:none; position:fixed; bottom:0; left:0; right:0; z-index:9999;"
+  class="hx:bg-white hx:dark:bg-dark hx:py-4 hx:px-6 hx:border-t hx:border-gray-200 hx:dark:border-neutral-800 nav-container-blur">
+  <div class="hx:flex hx:flex-row hx:justify-between hx:items-center">
+    <!-- Text and Learn More -->
+    <div class="hx:text-center">
+      <p style="display:inline;"
+        class="hx:text-base hx:font-medium hx:text-gray-700 hx:dark:text-gray-200 hx:mb-2 sm:hx:mb-0">We use only essential cookies and performance reporting required for the core functionality of this site. These cookies cannot be disabled. 
+        <a href="/legal/cookie-policy/"
+          class="hx:text-base hx:font-bold hx:text-gray-700 hx:dark:text-gray-200 hx:hover:underline">Learn More</a>
+      </p>
+    </div>
+    <!-- Buttons -->
+    <div class="hx:mt-1 hx:mb-1">
+      <button type="button" onclick="acceptCookies()" style="margin-left: 0.5em; margin-right: 0.5em;"
+        class="not-prose hx:font-medium hx:cursor-pointer hx:px-6 hx:py-3 hx:rounded-full hx:text-center hx:text-white hx:inline-block hx:bg-primary-600 hx:hover:bg-primary-700 hx:focus:outline-hidden hx:focus:ring-4 hx:focus:ring-primary-300 hx:dark:bg-primary-600 hx:dark:hover:bg-primary-700 hx:dark:focus:ring-primary-800 hx:transition-all hx:ease-in hx:duration-200">
+        OK
+      </button>
+    </div>
+  </div>
+</div>
+
+
+We use only essential cookies and performance reporting required for the core functionality of this site. These cannot be disabled.
+
+
 <style>
-.footer-cards {
-  display: grid;
-  grid-template-columns: repeat(auto-fill, minmax(max(100px, calc((100% - 1rem * 2) / var(--footer-cards-grid-cols, 1))), 1fr));
-  gap: 1rem; /* equivalent to hx:gap-4 */
-}
+  .footer-cards {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(max(100px, calc((100% - 1rem * 2) / var(--footer-cards-grid-cols, 1))), 1fr));
+    gap: 1rem;
+    /* equivalent to hx:gap-4 */
+  }
 </style>
 
 <!-- Footer columns, need to set 5 to fix layout on desktop -->
 <div class="footer-cards hx:py-12 hx:grid hx:text-sm" style="--footer-cards-grid-cols: 5;">
 
-<!-- Column 1: Products -->
-<div>
-  <h2 class="hx:font-semibold hx:text-gray-900 hx:dark:text-gray-100 hx:mb-4">Products</h2>
-  <ul>
-    <li class="hx:mb-2"><a class="hx:text-gray-600 hx:dark:text-gray-400" href="/products/evervideo">Evervideo</a></li>
-    <li class="hx:mb-2"><a class="hx:text-gray-600 hx:dark:text-gray-400" href="/products/evermusic">Evermusic</a></li>
-    <li class="hx:mb-2"><a class="hx:text-gray-600 hx:dark:text-gray-400" href="/products/evertag">Evertag</a></li>
-    <li class="hx:mb-2"><a class="hx:text-gray-600 hx:dark:text-gray-400" href="/products/flacbox">Flacbox</a></li>
-  </ul>
-</div>
+  <!-- Column 1: Products -->
+  <div>
+    <h2 class="hx:font-semibold hx:text-gray-900 hx:dark:text-gray-100 hx:mb-4">Products</h2>
+    <ul>
+      <li class="hx:mb-2"><a class="hx:text-gray-600 hx:dark:text-gray-400" href="/products/evervideo">Evervideo</a>
+      </li>
+      <li class="hx:mb-2"><a class="hx:text-gray-600 hx:dark:text-gray-400" href="/products/evermusic">Evermusic</a>
+      </li>
+      <li class="hx:mb-2"><a class="hx:text-gray-600 hx:dark:text-gray-400" href="/products/evertag">Evertag</a></li>
+      <li class="hx:mb-2"><a class="hx:text-gray-600 hx:dark:text-gray-400" href="/products/flacbox">Flacbox</a></li>
+    </ul>
+  </div>
 
-<!-- Column 2: Help Resources -->
-<div>
+  <!-- Column 2: Help Resources -->
+  <div>
     <h2 class="hx:font-semibold hx:text-gray-900 hx:dark:text-gray-100 hx:mb-4">Help</h2>
     <ul>
       <li class="hx:mb-2"><a class="hx:text-gray-600 hx:dark:text-gray-400" href="/docs/faq">FAQ</a></li>
@@ -39,29 +89,34 @@
       <li class="hx:mb-2"><a class="hx:text-gray-600 hx:dark:text-gray-400" href="/docs/guide">User Guide</a></li>
       <li class="hx:mb-2"><a class="hx:text-gray-600 hx:dark:text-gray-400" href="/support">Contact support</a></li>
     </ul>
-</div>
+  </div>
 
-<!-- Column 3: Legal -->
-<div>
-  <h2 class="hx:font-semibold hx:text-gray-900 hx:dark:text-gray-100 hx:mb-4">Legal</h2>
-  <ul>
-    <li class="hx:mb-2"><a class="hx:text-gray-600 hx:dark:text-gray-400" href="/legal/legal-notice">Legal Notice</a></li>
-    <li class="hx:mb-2"><a class="hx:text-gray-600 hx:dark:text-gray-400" href="/legal/privacy-policy">Privacy Policy</a></li>
-    <li class="hx:mb-2"><a class="hx:text-gray-600 hx:dark:text-gray-400" href="/legal/cookie-policy">Cookie Policy</a></li>
-    <li class="hx:mb-2"><a class="hx:text-gray-600 hx:dark:text-gray-400" href="/legal/terms-and-conditions">Terms and Conditions</a></li>
-    <li class="hx:mb-2"><a class="hx:text-gray-600 hx:dark:text-gray-400" href="/legal/license-agreement">License Agreement</a></li>
-  </ul>
-</div>
+  <!-- Column 3: Legal -->
+  <div>
+    <h2 class="hx:font-semibold hx:text-gray-900 hx:dark:text-gray-100 hx:mb-4">Legal</h2>
+    <ul>
+      <li class="hx:mb-2"><a class="hx:text-gray-600 hx:dark:text-gray-400" href="/legal/legal-notice">Legal Notice</a>
+      </li>
+      <li class="hx:mb-2"><a class="hx:text-gray-600 hx:dark:text-gray-400" href="/legal/privacy-policy">Privacy
+          Policy</a></li>
+      <li class="hx:mb-2"><a class="hx:text-gray-600 hx:dark:text-gray-400" href="/legal/cookie-policy">Cookie
+          Policy</a></li>
+      <li class="hx:mb-2"><a class="hx:text-gray-600 hx:dark:text-gray-400" href="/legal/terms-and-conditions">Terms and
+          Conditions</a></li>
+      <li class="hx:mb-2"><a class="hx:text-gray-600 hx:dark:text-gray-400" href="/legal/license-agreement">License
+          Agreement</a></li>
+    </ul>
+  </div>
 
-<!-- Column 4: Company -->
-<div>
-  <h2 class="hx:font-semibold hx:text-gray-900 hx:dark:text-gray-100 hx:mb-4">Company</h2>
-  <ul>
-    <li class="hx:mb-2"><a class="hx:text-gray-600 hx:dark:text-gray-400" href="/about">About</a></li>
-    <li class="hx:mb-2"><a class="hx:text-gray-600 hx:dark:text-gray-400" href="/blog">Blog</a></li>
-    <li class="hx:mb-2"><a class="hx:text-gray-600 hx:dark:text-gray-400" href="/contact">Contact</a></li>
-  </ul>
-</div>
+  <!-- Column 4: Company -->
+  <div>
+    <h2 class="hx:font-semibold hx:text-gray-900 hx:dark:text-gray-100 hx:mb-4">Company</h2>
+    <ul>
+      <li class="hx:mb-2"><a class="hx:text-gray-600 hx:dark:text-gray-400" href="/about">About</a></li>
+      <li class="hx:mb-2"><a class="hx:text-gray-600 hx:dark:text-gray-400" href="/blog">Blog</a></li>
+      <li class="hx:mb-2"><a class="hx:text-gray-600 hx:dark:text-gray-400" href="/contact">Contact</a></li>
+    </ul>
+  </div>
 
 </div>
 
@@ -71,73 +126,73 @@
 
     {{/* Twitter */}}
     <a href="https://x.com/Everappz" aria-label="X (Twitter)"
-       class="hx:text-gray-500 hx:hover:text-gray-900 hx:dark:text-neutral-400 hx:dark:hover:text-neutral-50"
-       style="width:32px;height:32px;">
+      class="hx:text-gray-500 hx:hover:text-gray-900 hx:dark:text-neutral-400 hx:dark:hover:text-neutral-50"
+      style="width:32px;height:32px;">
       {{ with index site.Data.icons "icons8-sf-regular-filled-twitter" }}
-        {{ . | safeHTML }}
+      {{ . | safeHTML }}
       {{ end }}
     </a>
 
     {{/* Facebook */}}
     <a href="https://www.facebook.com/everappz" aria-label="Facebook"
-       class="hx:text-gray-500 hx:hover:text-gray-900 hx:dark:text-neutral-400 hx:dark:hover:text-neutral-50"
-       style="width:32px;height:32px;">
+      class="hx:text-gray-500 hx:hover:text-gray-900 hx:dark:text-neutral-400 hx:dark:hover:text-neutral-50"
+      style="width:32px;height:32px;">
       {{ with index site.Data.icons "icons8-sf-regular-filled-facebook" }}
-        {{ . | safeHTML }}
+      {{ . | safeHTML }}
       {{ end }}
     </a>
 
     {{/* Reddit */}}
     <a href="https://www.reddit.com/r/everappz/" aria-label="Reddit"
-       class="hx:text-gray-500 hx:hover:text-gray-900 hx:dark:text-neutral-400 hx:dark:hover:text-neutral-50"
-       style="width:32px;height:32px;">
+      class="hx:text-gray-500 hx:hover:text-gray-900 hx:dark:text-neutral-400 hx:dark:hover:text-neutral-50"
+      style="width:32px;height:32px;">
       {{ with index site.Data.icons "icons8-sf-regular-filled-reddit" }}
-        {{ . | safeHTML }}
+      {{ . | safeHTML }}
       {{ end }}
     </a>
 
     {{/* VK */}}
     <a href="https://vk.com/everappz" aria-label="VK"
-       class="hx:text-gray-500 hx:hover:text-gray-900 hx:dark:text-neutral-400 hx:dark:hover:text-neutral-50"
-       style="width:32px;height:32px;">
+      class="hx:text-gray-500 hx:hover:text-gray-900 hx:dark:text-neutral-400 hx:dark:hover:text-neutral-50"
+      style="width:32px;height:32px;">
       {{ with index site.Data.icons "icons8-sf-regular-filled-vk" }}
-        {{ . | safeHTML }}
+      {{ . | safeHTML }}
       {{ end }}
     </a>
 
     {{/* GitHub */}}
     <a href="https://github.com/everappz" aria-label="GitHub"
-       class="hx:text-gray-500 hx:hover:text-gray-900 hx:dark:text-neutral-400 hx:dark:hover:text-neutral-50"
-       style="width:32px;height:32px;">
+      class="hx:text-gray-500 hx:hover:text-gray-900 hx:dark:text-neutral-400 hx:dark:hover:text-neutral-50"
+      style="width:32px;height:32px;">
       {{ with index site.Data.icons "icons8-sf-regular-filled-github" }}
-        {{ . | safeHTML }}
+      {{ . | safeHTML }}
       {{ end }}
     </a>
 
     {{/* LinkedIn */}}
     <a href="https://www.linkedin.com/company/everappz/" aria-label="LinkedIn"
-       class="hx:text-gray-500 hx:hover:text-gray-900 hx:dark:text-neutral-400 hx:dark:hover:text-neutral-50"
-       style="width:32px;height:32px;">
+      class="hx:text-gray-500 hx:hover:text-gray-900 hx:dark:text-neutral-400 hx:dark:hover:text-neutral-50"
+      style="width:32px;height:32px;">
       {{ with index site.Data.icons "icons8-sf-regular-filled-linkedin" }}
-        {{ . | safeHTML }}
+      {{ . | safeHTML }}
       {{ end }}
     </a>
 
     {{/* YouTube */}}
     <a href="https://www.youtube.com/@everappz" aria-label="YouTube"
-       class="hx:text-gray-500 hx:hover:text-gray-900 hx:dark:text-neutral-400 hx:dark:hover:text-neutral-50"
-       style="width:32px;height:32px;">
+      class="hx:text-gray-500 hx:hover:text-gray-900 hx:dark:text-neutral-400 hx:dark:hover:text-neutral-50"
+      style="width:32px;height:32px;">
       {{ with index site.Data.icons "icons8-sf-regular-filled-youtube" }}
-        {{ . | safeHTML }}
+      {{ . | safeHTML }}
       {{ end }}
     </a>
 
     {{/* TikTok */}}
     <a href="https://www.tiktok.com/@everappz" aria-label="TikTok"
-       class="hx:text-gray-500 hx:hover:text-gray-900 hx:dark:text-neutral-400 hx:dark:hover:text-neutral-50"
-       style="width:32px;height:32px;">
+      class="hx:text-gray-500 hx:hover:text-gray-900 hx:dark:text-neutral-400 hx:dark:hover:text-neutral-50"
+      style="width:32px;height:32px;">
       {{ with index site.Data.icons "icons8-sf-regular-filled-tiktok" }}
-        {{ . | safeHTML }}
+      {{ . | safeHTML }}
       {{ end }}
     </a>
 
@@ -148,8 +203,7 @@
 {{- $poweredBy := (T "poweredBy") | default "Powered by Hextra" -}}
 
 <div
-  class="hextra-max-footer-width hx:mx-auto hx:flex hx:justify-center hx:py-12 hx:pl-[max(env(safe-area-inset-left),1.5rem)] hx:pr-[max(env(safe-area-inset-right),1.5rem)] hx:text-gray-600 hx:dark:text-gray-400"
->
+  class="hextra-max-footer-width hx:mx-auto hx:flex hx:justify-center hx:py-12 hx:pl-[max(env(safe-area-inset-left),1.5rem)] hx:pr-[max(env(safe-area-inset-right),1.5rem)] hx:text-gray-600 hx:dark:text-gray-400">
   <div class="hx:flex hx:w-full hx:flex-col hx:items-center">
     <div class="hx:font-normal">{{ template "theme-credit" $poweredBy }}</div>
     <div class="hx:font-normal hx:mt-6 hx:text-xs">{{ $copyright | markdownify }}</div>

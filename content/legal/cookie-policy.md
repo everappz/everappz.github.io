@@ -19,6 +19,8 @@ Cookies typically store technical information, personal preferences, content cus
 
 ## Types of cookies
 
+Although this website currently uses only essential cookies, we provide the following classification of cookie types for transparency and informational purposes.
+
 Below is a classification of cookies based on several categories. However, note that the same cookie may be included in more than one category.
 
 ### According to the entity that manages them
@@ -47,9 +49,45 @@ If the cookies are installed from a device or domain managed by the editor but t
 
 - **Behavioral advertising cookies:** These manage the most efficient placement of advertising spaces based on user behavior obtained through the continuous observation of their browsing habits, allowing for the development of a specific profile to show ads accordingly.
 
-## How to disable cookies in major web browsers
+## Essential Cookies
 
-To configure the use of cookies, follow the instructions for your browser or check its help section:
+This website, owned by EVERAPPZ, **only uses essential cookies** and diagnostic reporting mechanisms necessary for proper functioning, security, and error monitoring.
+
+We use essential cookies solely to ensure the core functionality of the site, such as:
+
+- Verifying server status
+- Network error recovery
+- Security enforcement
+- Performance optimization
+
+These cookies cannot be disabled because they are required for the site to function properly.
+
+## Reporting & Diagnostics
+
+This website uses **Cloudflare’s security and performance services**, which may include browser-based reporting features:
+
+- **CSP (Content Security Policy) Reporting:** The browser may send violation reports to help us detect and fix unauthorized scripts or content sources.
+- **NEL (Network Error Logging):** Allows browsers to report network errors (e.g., connection failures, timeouts) to Cloudflare.
+- **Certificate Transparency Reports:** Help detect misissued or invalid TLS certificates.
+
+These reports **do not contain personally identifiable information**, but they may include technical data such as:
+
+- URL where the error occurred
+- Referrer headers
+- User agent string
+- IP-derived geolocation (at coarse levels, e.g., country)
+
+Reports may be sent to Cloudflare via:
+
+https://a.nel.cloudflare.com/report/v4
+
+For more information, please see [Cloudflare’s rivacy policy](https://www.cloudflare.com/privacypolicy/).
+
+## Cookie Consent and Management
+
+Because this site does not use any non-essential cookies, no cookie consent banner is required.
+
+However, if you would like to disable cookies in general, you may do so in your browser settings:
 
 - [Safari](https://support.apple.com/guide/safari/manage-cookies-and-website-data-sfri11471/mac)
 - [Firefox](https://support.mozilla.org/en-US/kb/enable-and-disable-cookies-website-preferences)
@@ -57,10 +95,6 @@ To configure the use of cookies, follow the instructions for your browser or che
 - [Opera](https://help.opera.com/en/latest/web-preferences/#cookies)
 - [Internet Explorer](https://support.microsoft.com/en-us/topic/how-to-delete-cookie-files-in-internet-explorer-bca9446f-d873-78de-77ba-d42645fa52fc)
 - [Edge](https://support.microsoft.com/en-us/microsoft-edge/delete-cookies-in-microsoft-edge-63947406-40ac-c3b8-57b9-2a946a29ae09)
-
-## What happens if cookies are not accepted?
-
-Rejecting cookies may prevent access to personalized content and services.
 
 ## Updates and modifications to the cookie policy
 
