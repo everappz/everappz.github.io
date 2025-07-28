@@ -19,7 +19,7 @@ Cookies typically store technical information, personal preferences, content cus
 
 ## Types of cookies
 
-Although this website currently uses only essential cookies, we provide the following classification of cookie types for transparency and informational purposes.
+Although **this website** currently uses only **essential cookies**, we provide the following classification of cookie types for transparency and informational purposes.
 
 Below is a classification of cookies based on several categories. However, note that the same cookie may be included in more than one category.
 
@@ -60,7 +60,7 @@ We use essential cookies solely to ensure the core functionality of the site, su
 - Security enforcement
 - Performance optimization
 
-These cookies cannot be disabled because they are required for the site to function properly.
+These cookies **cannot be disabled** because they are **required for the site** to function properly.
 
 ## Reporting & Diagnostics
 
@@ -85,7 +85,7 @@ For more information, please see [Cloudflare’s Privacy Policy](https://www.clo
 
 ## Cookie Consent and Management
 
-Because this site does not use any non-essential cookies, no cookie consent banner is required.
+Because this site does not use any non-essential cookies, a cookie **consent banner is not required**.
 
 However, if you would like to disable cookies in general, you may do so in your browser settings:
 

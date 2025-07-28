@@ -14,6 +14,7 @@ tags: ["guide", "flacbox", "playlists"]
 readingTime: 6
 aliases:
   - /post/flacbox-guide-playlists/
+  - /amp/flacbox-guide-playlists/
   - /guide-flacbox-playlists/
 ---
 
