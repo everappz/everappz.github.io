@@ -13,11 +13,11 @@ aliases:
 
 There are several ways to connect a USB flash or SD card to the iPhone and listen to music located on it. You can also manage your files with a built-in file manager in our apps Evermusic, Flacbox, Evertag.
 
-The first way is to connect your USB flashcard using standard Lightning to SD Card Camera Reader [https://www.apple.com/shop/product/MJYT2AM/A/lightning-to-sd-card-camera-reader](https://www.apple.com/shop/product/MJYT2AM/A/lightning-to-sd-card-camera-reader)
+The first way is to connect your USB flashcard using standard [Lightning to SD Card Camera Reader](https://www.google.com/search?q=Lightning+to+SD+Card+Camera+Reader)
 
 ![Apple Lightning Card Reader 1](21260c_e81edb4d52d8419790468aa37bc191ce~mv2.jpeg)
 
-or connect your USB flashcard using Apple Lightning to USB 3 Camera Adapter [https://www.apple.com/shop/product/MK0W2AM/A/lightning-to-usb-3-camera-adapter](https://www.apple.com/shop/product/MK0W2AM/A/lightning-to-usb-3-camera-adapter)
+or connect your USB flashcard using [Apple Lightning to USB 3 Camera Adapter](https://www.apple.com/shop/product/MX5J3AM/A/lightning-to-usb-3-camera-adapter)
 
 ![Apple Lightning Card Reader 2](21260c_33bca1e41db84a0a9fedfcbe804830de~mv2.jpeg)
 
@@ -39,7 +39,7 @@ Imported files located on your USB device and if you want to copy them to the ap
 
 But there is also another option available cause our apps support SanDisk iXpand Flash Drives natively.
 
-You can buy SanDisk here: [https://www.westerndigital.com/c/usb-flash-drives.connectorList-lightning](https://www.westerndigital.com/c/usb-flash-drives.connectorList-lightning)
+You can buy SanDisk here: [SanDisk iXpand Mini](https://www.google.com/search?q=sandisk+ixpand+mini)
 
 Currently, the app supports SanDisk Flash Drives with protocols iXpand V1, iXpand V2, iXpand V3, iXpand V6, iXpand V7. You can check if your iXpand Flash Drive is supported using the following steps:
 
