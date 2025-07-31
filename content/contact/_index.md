@@ -4,7 +4,6 @@ draft: false
 title: 'Contact Us'
 aliases:
   - /contact-us/
-  - /subscribe/
   - /index.php/contact-us/
 ---
 
