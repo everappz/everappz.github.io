@@ -14,6 +14,10 @@ keywords: [
 tags: [
   "subscribe", "newsletter", "app updates", "everappz","app offers", "early access"
 ]
+footer:
+  enable: false
+navbar:
+  enable: false
 hidden: true
 layout: hextra-home
 breadcrumbs: false

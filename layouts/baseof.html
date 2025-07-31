@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="{{ .Site.Language.Lang }}">
+{{- partial "head.html" . -}}
+
+<body dir="{{ .Site.Language.LanguageDirection | default `ltr` }}">
+  {{- if or (eq .Page.Params.navbar.enable nil) (.Page.Params.navbar.enable) }}
+    {{- partial "navbar.html" . -}}
+  {{ end }}
+  {{- block "main" . }}{{ end -}}
+  {{- $footerEnabled := true }}
+  {{- if isset .Site.Params "footer" }}
+    {{- $footerEnabled = .Site.Params.footer.enable | default true }}
+  {{- end }}
+  {{- if isset .Page.Params "footer" }}
+    {{- $footerEnabled = .Page.Params.footer.enable | default $footerEnabled }}
+  {{- end }}
+  {{- if $footerEnabled }}
+    {{ partial "footer.html" . }}
+  {{ end }}
+  {{ partial "scripts.html" . }}
+</body>
+
+</html>
