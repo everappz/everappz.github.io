@@ -226,8 +226,6 @@ P.S. There are also several **video tutorials** available on the Youtube:
 <br><br>
 {{< youtubecard id="jSDuNguZZNE" title="Evermusic: Free Offline Music Player for iOS (iPhone/iPod/iPad) | Music Files Organization" >}}
 <br><br>
-{{< youtubecard id="aM8jZi5bBr8" title="Use Evermusic to download your rehearsal tracks and scores" >}}
-<br><br>
 {{< youtubecard id="-kY48ktbo2M" title="テクノロジー塾】おすすめiPhone 音楽アプリ「ever music」ストック型篇" >}}
 
 
