@@ -678,4 +678,41 @@ With this wide range of supported formats and file extensions, you can enjoy you
 
 </div>
 
+<div class="hx:mt-6"></div>
+
+{{< hextra/section-headline >}}
+  User Guide
+{{< /hextra/section-headline >}}
+
+<div class="hx:mt-6"></div>
+
+<div class="hx:w-full">
+
+<div class="hx:w-full hx:mx-auto hx:flex hx:flex-col hx:items-center hx:text-center">
+  {{< hextra/info-paragraph border="false" >}}
+  This guide will help you get the best out of Evermusic on your iPhone, iPad, or Mac. Learn how to stream music from the cloud, manage your audiobooks, and move music between devices. Evermusic gives you full control over your music collection in one easy app.
+  {{< /hextra/info-paragraph >}}
+</div>
+
+{{< cards >}}
+  {{< card icon="location-marker" title="Navigation" subtitle="Learn how to navigate Evermusic using the Tab Bar on iPhone or the Left Menu on iPad and Mac." link="/docs/guide/evermusic/evermusic-guide-navigation" >}}
+
+  {{< card icon="cloud" title="Connections" subtitle="Connect your cloud accounts and manage online files using the built-in file manager." link="/docs/guide/evermusic/evermusic-guide-connections" >}}
+
+  {{< card icon="library" title="Music Library" subtitle="Organize and explore your tracks, albums, and artists in the Music Library." link="/docs/guide/evermusic/evermusic-guide-music-library" >}}
+
+  {{< card icon="collection" title="Playlists" subtitle="Create and arrange playlists to match your mood or occasion." link="/docs/guide/evermusic/evermusic-guide-playlists" >}}
+
+  {{< card icon="folder" title="Local Files" subtitle="Access and manage offline music through the Local Files section." link="/docs/guide/evermusic/evermusic-guide-local-files" >}}
+
+  {{< card icon="play" title="Audio Player" subtitle="Control your playback, queue, and audio settings like equalizer and sleep timer." link="/docs/guide/evermusic/evermusic-guide-player" >}}
+
+  {{< card icon="adjustments" title="Settings" subtitle="Customize Evermusic’s look, features, and performance settings." link="/docs/guide/evermusic/evermusic-guide-settings" >}}
+
+{{< /cards >}}
+
+</div>
+
+<div class="hx:mt-6"></div>
+
 <!-- </body> -->

@@ -808,3 +808,42 @@ To use CarPlay, make sure Siri is enabled and your iPhone is connected via USB o
 {{% /details %}}
 
 </div>
+
+
+<div class="hx:mt-6"></div>
+
+{{< hextra/section-headline >}}
+  User Guide
+{{< /hextra/section-headline >}}
+
+<div class="hx:mt-6"></div>
+
+<div class="hx:w-full">
+
+<div class="hx:w-full hx:mx-auto hx:flex hx:flex-col hx:items-center hx:text-center">
+  {{< hextra/info-paragraph border="false" >}}
+  This guide will help you get the most out of Flacbox on your iPhone, iPad, or Mac. Learn how to stream high-resolution music from the cloud, organize your library, manage audiobooks, and transfer music between devices.
+  {{< /hextra/info-paragraph >}}
+</div>
+
+{{< cards >}}
+
+{{< card icon="map" link="/docs/guide/flacbox/flacbox-guide-navigation" title="Navigation" subtitle="Use the Tab Bar on iPhone or Left Menu on iPad & Mac." >}}
+
+{{< card icon="cloud" link="/docs/guide/flacbox/flacbox-guide-connections" title="Connections" subtitle="Connect Dropbox, Google Drive, iCloud, or your NAS." >}}
+
+{{< card icon="collection" link="/docs/guide/flacbox/flacbox-guide-music-library" title="Music Library" subtitle="Manage and search tracks by artist, album, or genre." >}}
+
+{{< card icon="music-note" link="/docs/guide/flacbox/flacbox-guide-playlists" title="Playlists" subtitle="Create and organize playlists for any mood or occasion." >}}
+
+{{< card icon="folder" link="/docs/guide/flacbox/flacbox-guide-local-files" title="Local Files" subtitle="Edit and play offline music with the built-in file manager." >}}
+
+{{< card icon="play" link="/docs/guide/flacbox/flacbox-guide-player" title="Audio Player" subtitle="Control playback, adjust speed, set bookmarks, and more." >}}
+
+{{< card icon="adjustments" link="/docs/guide/flacbox/flacbox-guide-settings" title="Settings" subtitle="Customize equalizer, appearance, and app behavior." >}}
+
+{{< /cards >}}
+
+</div>
+
+<div class="hx:mt-6"></div>
