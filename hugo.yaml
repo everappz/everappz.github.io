@@ -8,10 +8,12 @@ enableRobotsTXT: true # Generates a robots.txt file for web crawlers.
 enableGitInfo: true # Enables Git commit metadata (e.g., last updated).
 hasCJKLanguage: true # Enables better word segmentation for CJK (Chinese/Japanese/Korean) languages.
 
+# todo: add "LLMS" to home page
+
 outputs:
-  home: ["HTML", "RSS", "JSON"]
-  page: ["HTML", "RSS", "JSON"]
-  section: ["HTML", "RSS", "JSON"]
+  home: ["HTML", "RSS"] 
+  page: ["HTML", "RSS"]
+  section: ["HTML", "RSS"]
 
 # MULTILINGUAL SUPPORT
 defaultContentLanguage: en # Default language to use if none is selected.

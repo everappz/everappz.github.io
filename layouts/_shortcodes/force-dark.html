@@ -1,4 +1,15 @@
 <script>
-  document.documentElement.classList.add("dark");
-  document.documentElement.style.colorScheme = "dark";
+  document.addEventListener('DOMContentLoaded', async () => {
+    document.documentElement.classList.remove("light", "dark");
+
+    let theme = "dark";
+    document.documentElement.classList.add(theme);
+    document.documentElement.style.colorScheme = theme;
+
+    // Force theme toggler UI to show dark icon
+    const themeToggleButtons = document.querySelectorAll(".hextra-theme-toggle");
+    themeToggleButtons.forEach((toggler) => {
+      toggler.parentElement.dataset.theme = theme; // lock icon to dark
+    });
+  });
 </script>
