@@ -12,6 +12,10 @@ aliases:
 
 We’re a small, passionate team of two people based in Spain, dedicated to building useful, fast, and user-friendly mobile and desktop applications.
 
+{{< cards cols="1">}}
+  {{< card title="Everappz Team" subtitle="" image="/everappz_team.webp" >}}
+{{< /cards >}}
+
 ## Our Journey
 
 Our story began in 2006, developing mobile apps for popular Java (J2ME) phones of the time. In 2009, we transitioned to iOS development, working for large companies and gaining valuable experience in professional app engineering.
