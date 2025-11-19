@@ -271,4 +271,32 @@ Learn more here: [How to Stream Music from iCloud Drive on My iPhone or Mac](/do
 
 {{% /details %}}
 
+{{% details title="How can I transfer my 10GB music library from Windows 11 to my iPhone for offline playback?" closed="true" %}}
+
+You have several reliable options to move your music library from your Windows 11 PC to your iPhone and use it offline in the app. Choose the method that works best for you:
+
+1. **Using a cable connection (recommended for large libraries)**  <br>
+   Use the **Apple Devices** app on Windows 11 to transfer files directly to your iPhone over USB.  
+   Follow Apple’s guide here:  
+   https://support.apple.com/en-ph/120402 <br>
+
+2. **Wirelessly via Wi-Fi Drive**  <br>
+   Enable the **WiFi Drive** feature inside the app and upload your music through a browser on your computer.  
+   Step-by-step instructions here:  
+   [How to Transfer Music Files from a Computer to iPhone Without iTunes Using WiFi-Drive](/docs/howto/how-to-transfer-music-from-computer-to-iphone-without-itunes/) <br>
+
+3. **Wirelessly using DLNA Server**  <br>
+   Turn on the DLNA media server on your Windows computer and stream or transfer your library directly to the app.  
+   Guide:  
+   [How to Enable DLNA Media Server on Windows 10 and Play Your Music on iPhone](/docs/howto/how-to-enable-dlna-media-server-on-windows-10-and-play-your-music-on-iphone/) <br>
+
+4. **Wirelessly using SMB File Sharing**  <br>
+   Enable **SMB file sharing** on your PC and connect to it in the app to browse, download, or transfer your files folder-by-folder.  
+   Instructions:  
+   [Transfer Files from Computer to iPhone Using SMB Protocol](/docs/howto/transfer-your-files-from-the-computer-to-iphone-using-smb-protocol/) <br>
+
+⚠️ When transferring large libraries (10GB+), a wired USB transfer is usually the fastest and most stable option.
+
+{{% /details %}}
+
 </div>
