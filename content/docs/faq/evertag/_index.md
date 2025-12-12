@@ -46,9 +46,9 @@ Upgrading to Premium removes ads and unlocks the full potential of Evertag. You 
 Premium users also gain access to full personalization settings, including the ability to change the app icon and theme. This plan is ideal for music collectors, DJs, or anyone managing large music libraries across different devices and cloud platforms.<br><br>
 
 **Pricing Options**  <br>
-• Premium Monthly — $0.99/month  <br>
-• Premium Yearly — $6.99/year  <br>
-• Premium Lifetime — $19.99 (one-time purchase)  <br><br>
+• Premium Monthly — $1.99/month  <br>
+• Premium Yearly — $12.99/year  <br>
+• Premium Lifetime — $24.99 (one-time purchase)  <br><br>
 
 Each premium option includes the same feature set, so you can choose the plan that fits your needs and budget.<br><br>
 

@@ -192,7 +192,7 @@ aliases:
 • Personalization<br /><br />
 <span class='hx:block hx:mt-2 hx:text-center'>
   <span class='hx:inline-block hx:rounded-full hx:border hx:border-gray-200 hx:hover:border-gray-300 hx:dark:border-neutral-800 hx:dark:hover:border-neutral-700 hx:px-3 hx:py-1'>
-    <strong>$0.99</strong>/month
+    <strong>$1.99</strong>/month
   </span>
 </span>`
     style="background: radial-gradient(ellipse at 50% 80%, rgba(6,182,212,0.05), hsla(0,0%,100%,0));"
@@ -212,7 +212,7 @@ aliases:
 • Personalization<br /><br />
 <span class='hx:block hx:mt-2 hx:text-center'>
   <span class='hx:inline-block hx:rounded-full hx:border hx:border-gray-200 hx:hover:border-gray-300 hx:dark:border-neutral-800 hx:dark:hover:border-neutral-700 hx:px-3 hx:py-1'>
-    <strong>$6.99</strong>/year
+    <strong>$12.99</strong>/year
   </span>
 </span>`
     style="background: radial-gradient(ellipse at 50% 80%, rgba(6,182,212,0.05), hsla(0,0%,100%,0));"
@@ -232,7 +232,7 @@ aliases:
 • Personalization<br /><br />
 <span class='hx:block hx:mt-2 hx:text-center'>
   <span class='hx:inline-block hx:rounded-full hx:border hx:border-gray-200 hx:hover:border-gray-300 hx:dark:border-neutral-800 hx:dark:hover:border-neutral-700 hx:px-3 hx:py-1'>
-    <strong>$19.99</strong>/lifetime
+    <strong>$24.99</strong>/lifetime
   </span>
 </span>`
     style="background: radial-gradient(ellipse at 50% 80%, rgba(6,182,212,0.05), hsla(0,0%,100%,0));"
@@ -287,9 +287,9 @@ Upgrading to Premium removes ads and unlocks the full potential of Evertag. You 
 Premium users also gain access to full personalization settings, including the ability to change the app icon and theme. This plan is ideal for music collectors, DJs, or anyone managing large music libraries across different devices and cloud platforms.<br><br>
 
 **Pricing Options**  <br>
-• Premium Monthly — $0.99/month  <br>
-• Premium Yearly — $6.99/year  <br>
-• Premium Lifetime — $19.99 (one-time purchase)  <br><br>
+• Premium Monthly — $1.99/month  <br>
+• Premium Yearly — $12.99/year  <br>
+• Premium Lifetime — $24.99 (one-time purchase)  <br><br>
 
 Each premium option includes the same feature set, so you can choose the plan that fits your needs and budget.<br><br>
 
