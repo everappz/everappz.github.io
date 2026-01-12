@@ -212,7 +212,7 @@ aliases:
 • Personalization<br /><br />
 <span class='hx:block hx:mt-2 hx:text-center'>
   <span class='hx:inline-block hx:rounded-full hx:border hx:border-gray-200 hx:hover:border-gray-300 hx:dark:border-neutral-800 hx:dark:hover:border-neutral-700 hx:px-3 hx:py-1'>
-    <strong>$12.99</strong>/year
+    7 days free, then <strong>$12.99</strong>/year
   </span>
 </span>`
     style="background: radial-gradient(ellipse at 50% 80%, rgba(6,182,212,0.05), hsla(0,0%,100%,0));"

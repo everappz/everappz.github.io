@@ -283,7 +283,7 @@ App Store Reviews
 • Full personalization<br /><br />
 <span class='hx:block hx:mt-2 hx:text-center'>
   <span class='hx:inline-block hx:rounded-full hx:border hx:border-gray-200 hx:hover:border-gray-300 hx:dark:border-neutral-800 hx:dark:hover:border-neutral-700 hx:px-3 hx:py-1'>
-    <strong>$0.99</strong>/month
+    <strong>$2.99</strong>/month
   </span>
 </span>`
     style="background: radial-gradient(ellipse at 50% 80%, rgba(6,182,212,0.05), hsla(0,0%,100%,0));"
@@ -308,7 +308,7 @@ App Store Reviews
 • Full personalization<br /><br />
 <span class='hx:block hx:mt-2 hx:text-center'>
   <span class='hx:inline-block hx:rounded-full hx:border hx:border-gray-200 hx:hover:border-gray-300 hx:dark:border-neutral-800 hx:dark:hover:border-neutral-700 hx:px-3 hx:py-1'>
-    <strong>$9.99</strong>/year
+    <strong>$19.99</strong>/year
   </span>
 </span>`
     style="background: radial-gradient(ellipse at 50% 80%, rgba(6,182,212,0.05), hsla(0,0%,100%,0));"
@@ -333,7 +333,7 @@ App Store Reviews
 • Full personalization<br /><br />
 <span class='hx:block hx:mt-2 hx:text-center'>
   <span class='hx:inline-block hx:rounded-full hx:border hx:border-gray-200 hx:hover:border-gray-300 hx:dark:border-neutral-800 hx:dark:hover:border-neutral-700 hx:px-3 hx:py-1'>
-    <strong>$29.99</strong>/lifetime
+    <strong>$69.99</strong>/lifetime
   </span>
 </span>`
     style="background: radial-gradient(ellipse at 50% 80%, rgba(6,182,212,0.05), hsla(0,0%,100%,0));"
