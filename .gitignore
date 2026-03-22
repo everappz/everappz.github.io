@@ -3,3 +3,4 @@ resources/
 .DS_Store
 dev/OPENAI_API_KEY.TXT
 dev/site-migration-check/html/
+.claude/
