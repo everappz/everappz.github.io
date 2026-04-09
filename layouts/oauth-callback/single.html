@@ -1,0 +1,22 @@
+{{ define "main" -}}
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>Redirecting...</title>
+<script>
+// URL pattern: /auth/{service}/{appId}/callback
+// Builds custom scheme: {service}-{appId}://callback?...
+var parts = window.location.pathname.split('/').filter(Boolean);
+var service = parts[1];
+var appId = parts[2];
+if (service && appId) {
+    window.location.href = service + '-' + appId + '://callback' + window.location.search;
+}
+</script>
+</head>
+<body>
+<p>Redirecting...</p>
+</body>
+</html>
+{{- end }}
