@@ -4,7 +4,14 @@
 <meta charset="utf-8">
 <title>Redirecting...</title>
 <script>
-window.location.href='threads-1924177098221918://callback'+window.location.search;
+var params = new URLSearchParams(window.location.search);
+var state = params.get('state') || '';
+var sep = state.indexOf('|');
+if (sep !== -1) {
+    var scheme = state.substring(0, sep);
+    params.set('state', state.substring(sep + 1));
+    window.location.href = scheme + '://callback?' + params.toString();
+}
 </script>
 </head>
 <body>
