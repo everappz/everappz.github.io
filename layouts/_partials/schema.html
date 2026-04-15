@@ -169,13 +169,19 @@
     "@type": "Organization",
     "name": "Everappz",
     "url": "{{ .Site.BaseURL }}"
-  }
-  {{- with .Params.authors }},
+  },
+  {{- if .Params.authors }}
   "author": [
-    {{- range $i, $a := . }}{{ if $i }},{{ end }}
+    {{- range $i, $a := .Params.authors }}{{ if $i }},{{ end }}
     { "@type": "Person", "name": "{{ $a }}" }
     {{- end }}
   ]
+  {{- else }}
+  "author": {
+    "@type": "Organization",
+    "@id": "{{ .Site.BaseURL }}#organization",
+    "name": "Everappz"
+  }
   {{- end }}
 }
 </script>
