@@ -5,9 +5,7 @@ hidden: true
 toc: false
 sidebar:
   exclude: true
-title: 'Soundy'
-seo:
-  title: "Soundy | Equalizer for SoundCloud"
+title: 'Soundy - Equalizer for SoundCloud'
 layout: hextra-home
 date: 2024-01-05
 description: "Thousands of customers use Soundy as default SoundCloud player on iPhone. Get ultimate sound quality, equalizer and much more."

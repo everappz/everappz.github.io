@@ -40,7 +40,7 @@
 {{- end }}
 
 {{/* ── SoftwareApplication (individual product pages under /products/) ── */}}
-{{- if and (eq .Section "products") (ne .Title "Products") }}
+{{- if and (eq .Section "products") .Parent (eq .Parent.Section "products") }}
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",

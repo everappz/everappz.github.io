@@ -1,9 +1,7 @@
 ---
 date: '2025-06-12T17:00:00+00:00'
 draft: false
-title: 'Evertag'
-seo:
-  title: 'Evertag | Music Tags Editor for iPhone and Mac'
+title: 'Evertag - Music Tag Editor for iPhone and Mac'
 layout: hextra-home
 date: 2024-01-05
 description: "Keep your music library organized. Find missing tags. Batch editing. Change album covers and much more."

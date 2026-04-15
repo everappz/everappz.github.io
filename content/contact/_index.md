@@ -1,7 +1,7 @@
 ---
 date: '2025-06-12T17:00:00+00:00'
 draft: false
-title: 'Contact Us'
+title: 'Contact Us - Get in Touch with Everappz'
 aliases:
   - /contact-us/
   - /index.php/contact-us/

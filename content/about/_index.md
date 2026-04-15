@@ -1,7 +1,7 @@
 ---
 date: '2025-06-12T17:00:00+00:00'
 draft: false
-title: 'About'
+title: 'About Everappz - Team Behind Evermusic, Flacbox & More'
 aliases:
   - /_api/one-app-session-web/v3/businesses/
 ---
