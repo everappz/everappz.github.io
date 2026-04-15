@@ -59,6 +59,43 @@
 </script>
 {{- end }}
 
+{{/* ── BreadcrumbList (all pages except homepage) ── */}}
+{{- if not .IsHome }}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BreadcrumbList",
+  "itemListElement": [
+    {
+      "@type": "ListItem",
+      "position": 1,
+      "name": "Home",
+      "item": "{{ .Site.BaseURL }}"
+    }
+    {{- $ancestors := .Ancestors.Reverse }}
+    {{- $pos := 1 }}
+    {{- range $ancestors }}
+    {{- if not .IsHome }}
+    {{- $pos = add $pos 1 }},
+    {
+      "@type": "ListItem",
+      "position": {{ $pos }},
+      "name": "{{ .Title }}",
+      "item": "{{ .Permalink }}"
+    }
+    {{- end }}
+    {{- end }}
+    {{- $pos = add $pos 1 }},
+    {
+      "@type": "ListItem",
+      "position": {{ $pos }},
+      "name": "{{ .Title }}"
+    }
+  ]
+}
+</script>
+{{- end }}
+
 {{/* ── Article (blog posts) ── */}}
 {{- if and (eq .Section "blog") (ne .Title "Blog") }}
 <script type="application/ld+json">
