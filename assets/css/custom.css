@@ -29,3 +29,186 @@
         border-radius: 8px;
     }
 }
+
+/* ── Smart Search: Shared bubble styles ── */
+
+/* Answer cards */
+.hextra-search-answer-card {
+    margin: 6px 10px 4px;
+    border-radius: 8px;
+    background: hsl(var(--primary-hue) var(--primary-saturation) 96%);
+    border: 1px solid hsl(var(--primary-hue) var(--primary-saturation) 88%);
+}
+
+:is(.dark) .hextra-search-answer-card {
+    background: hsl(var(--primary-hue) 20% 18%);
+    border-color: hsl(var(--primary-hue) 20% 26%);
+}
+
+.hextra-search-answer-link {
+    display: block;
+    padding: 10px 12px;
+    text-decoration: none;
+    border-radius: 8px;
+}
+
+.hextra-search-answer-link:focus-visible {
+    outline: none;
+}
+
+.hextra-search-answer-header {
+    display: flex;
+    align-items: center;
+    gap: 5px;
+    margin-bottom: 6px;
+}
+
+.hextra-search-answer-icon {
+    color: hsl(var(--primary-hue) var(--primary-saturation) 45%);
+    flex-shrink: 0;
+}
+
+:is(.dark) .hextra-search-answer-icon {
+    color: hsl(var(--primary-hue) var(--primary-saturation) 65%);
+}
+
+.hextra-search-answer-label {
+    font-size: 11px;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+    color: hsl(var(--primary-hue) var(--primary-saturation) 40%);
+}
+
+:is(.dark) .hextra-search-answer-label {
+    color: hsl(var(--primary-hue) var(--primary-saturation) 70%);
+}
+
+.hextra-search-answer-text {
+    font-size: 14px;
+    line-height: 1.5;
+    color: #1a1a2e;
+    display: -webkit-box;
+    -webkit-line-clamp: 5;
+    line-clamp: 5;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+}
+
+:is(.dark) .hextra-search-answer-text {
+    color: #d1d5db;
+}
+
+.hextra-search-answer-text .hextra-search-match {
+    color: hsl(var(--primary-hue) var(--primary-saturation) 40%);
+    font-weight: 600;
+}
+
+:is(.dark) .hextra-search-answer-text .hextra-search-match {
+    color: hsl(var(--primary-hue) var(--primary-saturation) 65%);
+}
+
+/* Shared footer style for answer cards and regular result cards */
+.hextra-search-answer-footer,
+.hextra-search-result-footer {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-top: 6px;
+    font-size: 12px;
+}
+
+.hextra-search-answer-source,
+.hextra-search-result-source {
+    color: #6b7280;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    max-width: 65%;
+}
+
+:is(.dark) .hextra-search-answer-source,
+:is(.dark) .hextra-search-result-source {
+    color: #9ca3af;
+}
+
+.hextra-search-answer-readmore,
+.hextra-search-result-readmore {
+    color: hsl(var(--primary-hue) var(--primary-saturation) 45%);
+    font-weight: 500;
+    white-space: nowrap;
+}
+
+:is(.dark) .hextra-search-answer-readmore,
+:is(.dark) .hextra-search-result-readmore {
+    color: hsl(var(--primary-hue) var(--primary-saturation) 65%);
+}
+
+/* Separator between answer cards and regular results */
+.hextra-search-answer-separator {
+    height: 1px;
+    margin: 4px 16px;
+    background: hsl(var(--primary-hue) var(--primary-saturation) 90% / 0.6);
+    list-style: none;
+}
+
+:is(.dark) .hextra-search-answer-separator {
+    background: hsl(var(--primary-hue) 15% 30% / 0.6);
+}
+
+/* Answer card active state */
+.hextra-search-answer-card a.hextra-search-active {
+    background: hsl(var(--primary-hue) var(--primary-saturation) 93%);
+}
+
+:is(.dark) .hextra-search-answer-card a.hextra-search-active {
+    background: hsl(var(--primary-hue) 20% 22%);
+}
+
+/* ── Regular result bubble cards ── */
+
+.hextra-search-result-card {
+    margin: 4px 10px;
+    border-radius: 8px;
+    background: hsl(0 0% 97%);
+    border: 1px solid hsl(0 0% 90%);
+}
+
+:is(.dark) .hextra-search-result-card {
+    background: hsl(0 0% 14%);
+    border-color: hsl(0 0% 22%);
+}
+
+.hextra-search-result-link {
+    display: block;
+    padding: 10px 12px;
+    text-decoration: none;
+    border-radius: 8px;
+}
+
+.hextra-search-result-link:focus-visible {
+    outline: none;
+}
+
+.hextra-search-result-card a.hextra-search-active {
+    background: hsl(0 0% 94%);
+}
+
+:is(.dark) .hextra-search-result-card a.hextra-search-active {
+    background: hsl(0 0% 18%);
+}
+
+/* Override theme defaults so bubble cards look consistent */
+.hextra-search-wrapper .hextra-search-result-card,
+.hextra-search-wrapper .hextra-search-answer-card {
+    list-style: none;
+}
+
+/* Excerpt in bubble cards: allow up to 3 lines */
+.hextra-search-result-card .hextra-search-excerpt {
+    display: -webkit-box;
+    -webkit-line-clamp: 3;
+    line-clamp: 3;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+}

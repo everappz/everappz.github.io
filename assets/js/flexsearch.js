@@ -30,6 +30,18 @@ document.addEventListener("DOMContentLoaded", function () {
     el.addEventListener('input', handleInputChange);
   }
 
+  // Restore search results after back-navigation (bfcache)
+  window.addEventListener('pageshow', function (e) {
+    if (e.persisted) {
+      for (const el of inputElements) {
+        if (el.value) {
+          el.dispatchEvent(new Event('focus'));
+          el.dispatchEvent(new KeyboardEvent('keyup'));
+        }
+      }
+    }
+  });
+
   const shortcutElements = document.querySelectorAll('.hextra-search-wrapper kbd');
 
   function setShortcutElementsOpacity(opacity) {
@@ -305,12 +317,138 @@ document.addEventListener("DOMContentLoaded", function () {
   }
 
   /**
+   * Strips question words and detects intent to improve FlexSearch matching.
+   */
+  function preprocessQuery(raw) {
+    const trimmed = raw.trim();
+    if (trimmed.length < 2) return { original: trimmed, cleaned: trimmed, intent: null, isQuestion: false };
+
+    const lower = trimmed.toLowerCase();
+    const questionPatterns = [
+      { regex: /^how\s+(do|can|to|does|did|should|would|is|are)\s+/i, intent: 'howto' },
+      { regex: /^what\s+(is|are|was|were|does|do)\s+/i, intent: 'definition' },
+      { regex: /^(can|could|is|are|does|do|will|would|should|has|have|did)\s+/i, intent: 'yesno' },
+      { regex: /^(where|when|which|who|why)\s+/i, intent: 'factoid' },
+      { regex: /^how\s+/i, intent: 'howto' }
+    ];
+
+    for (const { regex, intent } of questionPatterns) {
+      if (regex.test(trimmed)) {
+        let cleaned = trimmed.replace(regex, '').replace(/\?+$/, '').trim();
+        if (!cleaned) cleaned = trimmed.replace(/\?+$/, '').trim();
+        return { original: trimmed, cleaned, intent, isQuestion: true };
+      }
+    }
+
+    if (trimmed.endsWith('?')) {
+      const cleaned = trimmed.replace(/\?+$/, '').trim();
+      return { original: trimmed, cleaned, intent: 'general', isQuestion: true };
+    }
+
+    return { original: trimmed, cleaned: trimmed, intent: null, isQuestion: false };
+  }
+
+  /**
+   * Re-ranks FlexSearch results by query term overlap and content signals.
+   */
+  function rerankResults(results, queryInfo) {
+    const terms = queryInfo.cleaned.toLowerCase().split(/\s+/).filter(t => t.length > 1);
+    if (!terms.length) return results;
+
+    for (const r of results) {
+      let score = 0;
+      const title = (r.children.title || '').toLowerCase();
+      const content = (r.children.content || '').toLowerCase();
+      const route = (r.route || '').toLowerCase();
+
+      let titleHits = 0, contentHits = 0;
+      for (const term of terms) {
+        if (title.includes(term)) { score += 3; titleHits++; }
+        if (content.includes(term)) { score += 2; contentHits++; }
+      }
+
+      // All terms present bonus
+      if (titleHits === terms.length) score += 10;
+      if (contentHits === terms.length) score += 10;
+
+      // Exact phrase match bonus
+      const phrase = queryInfo.cleaned.toLowerCase();
+      if (title.includes(phrase)) score += 20;
+      if (content.includes(phrase)) score += 15;
+
+      // Content-type boost based on intent
+      if (queryInfo.intent === 'howto' && (route.includes('/howto/') || route.includes('/how-to/'))) score += 5;
+      if (queryInfo.intent === 'definition' && (route.includes('/faq/') || route.includes('/docs/'))) score += 5;
+
+      // Content length quality signal
+      const len = content.length;
+      if (len >= 50 && len <= 600) score += 3;
+      else if (len > 600) score += 1;
+
+      r._smartScore = score;
+    }
+
+    results.sort((a, b) => b._smartScore - a._smartScore);
+    return results;
+  }
+
+  /**
+   * Extracts answer snippets from top re-ranked results (up to 3 answer cards).
+   */
+  function extractAnswers(results, queryInfo) {
+    if (!queryInfo.isQuestion || !results.length) return [];
+
+    const answers = [];
+    const seenUrls = new Set();
+    const terms = queryInfo.cleaned.toLowerCase().split(/\s+/).filter(t => t.length > 1);
+
+    for (const r of results) {
+      if (answers.length >= 3) break;
+      if (!r._smartScore || r._smartScore < 8) continue;
+
+      const content = r.children.content || '';
+      if (!content || seenUrls.has(r.route)) continue;
+      seenUrls.add(r.route);
+
+      let text;
+      if (content.length <= 300) {
+        text = content;
+      } else {
+        const sentences = content.split(/(?<=[.!?])\s+/).filter(s => s.length > 15);
+        if (!sentences.length) {
+          text = content.slice(0, 300);
+        } else {
+          const scored = sentences.map((s, i) => {
+            const lower = s.toLowerCase();
+            let sc = 0;
+            for (const t of terms) { if (lower.includes(t)) sc += 3; }
+            if (i === 0) sc += 2;
+            return { text: s, score: sc };
+          });
+          scored.sort((a, b) => b.score - a.score);
+          const best = scored.slice(0, 3).filter(s => s.score > 0);
+          if (!best.length) {
+            text = sentences[0];
+          } else {
+            const selected = best.map(b => b.text);
+            text = sentences.filter(s => selected.includes(s)).join(' ');
+          }
+        }
+      }
+
+      answers.push({ text, source: r.children.title, url: r.route, prefix: r.prefix });
+    }
+
+    return answers;
+  }
+
+  /**
    * Performs a search based on the provided query and displays the results.
    * @param {Event} e - The event object.
    */
   function search(e) {
-    const query = e.target.value;
-    if (!e.target.value) {
+    const rawQuery = e.target.value;
+    if (!rawQuery) {
       hideSearchResults();
       return;
     }
@@ -321,7 +459,18 @@ document.addEventListener("DOMContentLoaded", function () {
     }
     resultsElement.classList.remove('hx:hidden');
 
+    const queryInfo = preprocessQuery(rawQuery);
+    const query = rawQuery;
+
+    // Search with both original and cleaned queries, merge results
     const pageResults = window.pageIndex.search(query, 5, { enrich: true, suggest: true })[0]?.result || [];
+    if (queryInfo.isQuestion && queryInfo.cleaned !== query) {
+      const cleanedPageResults = window.pageIndex.search(queryInfo.cleaned, 5, { enrich: true, suggest: true })[0]?.result || [];
+      const existingIds = new Set(pageResults.map(r => r.id));
+      for (const r of cleanedPageResults) {
+        if (!existingIds.has(r.id)) pageResults.push(r);
+      }
+    }
     // console.debug(`[Search] Found ${pageResults.length} pageResults`);
 
     const results = [];
@@ -429,7 +578,13 @@ document.addEventListener("DOMContentLoaded", function () {
 
     // console.debug(`[Search] Final sortedResults ready to render:`, sortedResults);
 
-    displayResults(sortedResults, query);
+    // Smart re-ranking and answer extraction for question queries
+    if (queryInfo.isQuestion) {
+      rerankResults(sortedResults, queryInfo);
+    }
+    const answers = extractAnswers(sortedResults, queryInfo);
+
+    displayResults(sortedResults, query, answers);
   }
 
   /**
@@ -438,7 +593,7 @@ document.addEventListener("DOMContentLoaded", function () {
    * @param {Array} results - The array of search results.
    * @param {string} query - The search query.
    */
-  function displayResults(results, query) {
+  function displayResults(results, query, answers) {
     const { resultsElement } = getActiveSearchElement();
     if (!resultsElement) return;
 
@@ -473,26 +628,73 @@ document.addEventListener("DOMContentLoaded", function () {
     }
 
     const fragment = document.createDocumentFragment();
+    let dataIdx = 0;
+
+    // Build set of answer URLs to skip from regular results
+    const answerUrls = new Set();
+    if (answers && answers.length) {
+      for (const a of answers) answerUrls.add(a.url + '@' + a.source);
+    }
+
+    // Render answer cards
+    if (answers && answers.length) {
+      for (let ai = 0; ai < answers.length; ai++) {
+        const answer = answers[ai];
+        const answerSource = answer.prefix ? answer.prefix : answer.source;
+        const answerCard = createElement(`
+          <li class="hextra-search-answer-card">
+            <a data-index="${dataIdx}" href="${answer.url}" class="${dataIdx === 0 ? 'hextra-search-active hextra-search-answer-link' : 'hextra-search-answer-link'}">
+              <div class="hextra-search-answer-header">
+                <svg class="hextra-search-answer-icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" fill="currentColor" width="16" height="16"><path fill-rule="evenodd" d="M18 10a8 8 0 11-16 0 8 8 0 0116 0zm-7-4a1 1 0 11-2 0 1 1 0 012 0zM9 9a.75.75 0 000 1.5h.253a.25.25 0 01.244.304l-.459 2.066A1.75 1.75 0 0010.747 15H11a.75.75 0 000-1.5h-.253a.25.25 0 01-.244-.304l.459-2.066A1.75 1.75 0 009.253 9H9z" clip-rule="evenodd" /></svg>
+                <span class="hextra-search-answer-label">Answer</span>
+              </div>
+              <div class="hextra-search-answer-text">${highlightMatches(answer.text, query)}</div>
+              <div class="hextra-search-answer-footer">
+                <span class="hextra-search-answer-source">${answerSource}</span>
+                <span class="hextra-search-answer-readmore">Read more &rarr;</span>
+              </div>
+            </a>
+          </li>`);
+        answerCard.addEventListener('mousemove', handleMouseMove);
+        answerCard.addEventListener('keydown', handleKeyDown);
+        answerCard.querySelector('a').addEventListener('click', function () { hideSearchResults(); });
+        fragment.appendChild(answerCard);
+        dataIdx++;
+      }
+
+      // Separator between answer cards and regular results
+      fragment.appendChild(createElement(`<li class="hextra-search-answer-separator" aria-hidden="true"></li>`));
+    }
+
+    // Render regular results as bubble cards
     for (let i = 0; i < results.length; i++) {
       const result = results[i];
-      if (result.prefix) {
-        fragment.appendChild(createElement(`
-          <div class="hextra-search-prefix">${result.prefix}</div>`));
-      }
-        let li = createElement(`
-        <li>
-          <a data-index="${i}" href="${result.route}" class=${i === 0 ? "hextra-search-active" : ""}>
-            <div class="hextra-search-title">`+ highlightMatches(result.children.title, query) + `</div>` +
-        (result.children.content ?
-            `<div class="hextra-search-excerpt">` + highlightMatches(result.children.content, query) + `</div>` : '') + `
+
+      // Skip results already shown as answer cards
+      if (answerUrls.has(result.route + '@' + result.children.title)) continue;
+
+      const source = result.prefix || '';
+      const li = createElement(`
+        <li class="hextra-search-result-card">
+          <a data-index="${dataIdx}" href="${result.route}" class="${dataIdx === 0 ? 'hextra-search-active hextra-search-result-link' : 'hextra-search-result-link'}">
+            <div class="hextra-search-title">${highlightMatches(result.children.title, query)}</div>` +
+        (result.children.content
+          ? `<div class="hextra-search-excerpt">${highlightMatches(result.children.content, query)}</div>`
+          : '') + `
+            <div class="hextra-search-result-footer">
+              <span class="hextra-search-result-source">${source}</span>
+              <span class="hextra-search-result-readmore">Read more &rarr;</span>
+            </div>
           </a>
         </li>`);
       li.addEventListener('mousemove', handleMouseMove);
       li.addEventListener('keydown', handleKeyDown);
-      li.querySelector('a').addEventListener('click', finishSearch);
+      li.querySelector('a').addEventListener('click', function () { hideSearchResults(); });
       fragment.appendChild(li);
+      dataIdx++;
     }
+
     resultsElement.appendChild(fragment);
-    resultsElement.dataset.count = results.length;
+    resultsElement.dataset.count = dataIdx;
   }
 })();

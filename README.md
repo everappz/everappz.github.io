@@ -13,4 +13,3 @@ Official website for [Everappz](https://everappz.com) — a small team building 
 
 - [Hugo](https://gohugo.io/) — Static site generator
 - [Hextra](https://github.com/imfing/hextra) — Hugo theme
-- Hosted on GitHub Pages
