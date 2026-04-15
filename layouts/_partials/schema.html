@@ -1,0 +1,87 @@
+{{/* JSON-LD Structured Data */}}
+
+{{/* ── Organization (all pages) ── */}}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Organization",
+  "name": "Everappz",
+  "url": "{{ .Site.BaseURL }}",
+  "logo": "{{ .Site.BaseURL }}images/logo.svg",
+  "description": "{{ .Site.Params.description }}",
+  "sameAs": [
+    "https://x.com/Everappz",
+    "https://www.facebook.com/everappz",
+    "https://www.reddit.com/r/everappz/",
+    "https://github.com/everappz"
+  ]
+}
+</script>
+
+{{/* ── WebSite + SearchAction (homepage only) ── */}}
+{{- if .IsHome }}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "WebSite",
+  "name": "{{ .Site.Title }}",
+  "url": "{{ .Site.BaseURL }}",
+  "description": "{{ .Site.Params.description }}",
+  "potentialAction": {
+    "@type": "SearchAction",
+    "target": {
+      "@type": "EntryPoint",
+      "urlTemplate": "{{ .Site.BaseURL }}?q={search_term_string}"
+    },
+    "query-input": "required name=search_term_string"
+  }
+}
+</script>
+{{- end }}
+
+{{/* ── SoftwareApplication (individual product pages under /products/) ── */}}
+{{- if and (eq .Section "products") (ne .Title "Products") }}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "SoftwareApplication",
+  "name": "{{ .Title }}",
+  "description": "{{ .Description }}",
+  "url": "{{ .Permalink }}",
+  "operatingSystem": "iOS, macOS",
+  "applicationCategory": "MultimediaApplication",
+  "offers": {
+    "@type": "Offer",
+    "price": "0",
+    "priceCurrency": "USD"
+  }
+}
+</script>
+{{- end }}
+
+{{/* ── Article (blog posts) ── */}}
+{{- if and (eq .Section "blog") (ne .Title "Blog") }}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "headline": "{{ .Title }}",
+  "description": "{{ .Description }}",
+  "url": "{{ .Permalink }}",
+  "datePublished": "{{ .Date.Format "2006-01-02T15:04:05Z07:00" }}",
+  "dateModified": "{{ .Lastmod.Format "2006-01-02T15:04:05Z07:00" }}",
+  "publisher": {
+    "@type": "Organization",
+    "name": "Everappz",
+    "url": "{{ .Site.BaseURL }}"
+  }
+  {{- with .Params.authors }},
+  "author": [
+    {{- range $i, $a := . }}{{ if $i }},{{ end }}
+    { "@type": "Person", "name": "{{ $a }}" }
+    {{- end }}
+  ]
+  {{- end }}
+}
+</script>
+{{- end }}
