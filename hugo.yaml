@@ -15,6 +15,9 @@ frontmatter:
     - :git         # 3. Git commit date (fallback for pages without date)
     - publishDate  # 4. publishDate fallback
 
+taxonomies:
+  tag: tags # Keep tags, disable categories
+
 outputs:
   home: ["HTML", "RSS", "llms"]
   page: ["HTML", "RSS"]

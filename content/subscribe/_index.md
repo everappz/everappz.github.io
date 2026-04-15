@@ -1,6 +1,8 @@
 ---
 draft: false
 title: 'Subscribe'
+sitemap:
+  disable: true
 date: 2025-06-12
 description: "Subscribe to get the latest updates, tips, and special offers for Everappz apps — music and video players, tag editors, and powerful tools for iPhone and Mac."
 keywords: [
