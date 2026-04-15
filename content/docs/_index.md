@@ -1,7 +1,7 @@
 ---
 date: '2025-06-12T17:00:00+00:00'
 draft: false
-title: 'Documentation - Guides, How-Tos & FAQs for Everappz Apps'
+title: 'Documentation'
 ---
 
 {{< lottie src="/images/juicy-json/juicy-girl-and-boy-searching-for-the-right-files.json" width="90%" >}}

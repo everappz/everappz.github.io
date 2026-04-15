@@ -1,7 +1,7 @@
 ---
 date: '2025-06-12T17:00:00+00:00'
 draft: false
-title: 'Blog - News, Guides & Tips for iOS Music and Video Apps'
+title: 'Blog'
 toc: true
 aliases:
   - /index.php/blog/

@@ -1,7 +1,7 @@
 ---
 date: '2025-06-12T17:00:00+00:00'
 draft: false
-title: 'How To - Step-by-Step Guides for Evermusic, Flacbox & More'
+title: 'How To'
 description: 'Step-by-step guides, and tips to help you set up, use, and get the most out of Everappz apps.'
 excludeSearch: true
 aliases:

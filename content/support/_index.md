@@ -1,7 +1,7 @@
 ---
 date: '2025-06-12T17:00:00+00:00'
 draft: false
-title: 'Support - Help Center for Everappz Apps'
+title: 'Support'
 aliases:
   - /index.php/support/trackback/
   - /index.php/support/
