@@ -8,6 +8,13 @@ enableRobotsTXT: true # Generates a robots.txt file for web crawlers.
 enableGitInfo: true # Enables Git commit metadata (e.g., last updated).
 hasCJKLanguage: true # Enables better word segmentation for CJK (Chinese/Japanese/Korean) languages.
 
+frontmatter:
+  lastmod:
+    - lastmod      # 1. Explicit lastmod in frontmatter (highest priority)
+    - date         # 2. Frontmatter date (content publication/update date)
+    - :git         # 3. Git commit date (fallback for pages without date)
+    - publishDate  # 4. publishDate fallback
+
 outputs:
   home: ["HTML", "RSS", "llms"]
   page: ["HTML", "RSS"]
