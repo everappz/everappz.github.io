@@ -391,4 +391,3 @@ style="outline: none; box-shadow: none;">Subscribe</button>
 </div>
 
 <div class="hx:mt-6"></div>
-
