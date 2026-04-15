@@ -197,7 +197,7 @@ languages:
 # module:
 #   hugoVersion:
 #     extended: true                   # Use Hugo extended version (for SCSS, etc).
-#     min: "0.147.8"                   # Minimum required Hugo version.
+#     min: "0.160.1"                   # Minimum required Hugo version.
 #
 #   workspace: hugo.work               # Workspace file used in development.
 #   imports:

@@ -3,13 +3,19 @@ date: '2025-06-12T17:00:00+00:00'
 draft: false
 title: 'Evertag - Music Tag Editor for iPhone and Mac'
 layout: hextra-home
-date: 2024-01-05
 description: "Keep your music library organized. Find missing tags. Batch editing. Change album covers and much more."
 keywords: ["Evertag", "audio tag editor", "ID3 tag manager", "edit music metadata", "FLAC tag editor", "music organizer app", "MP3 metadata editor", "iOS music tag editor", "Mac audio tag app", "rename music files"]
 tags: ["Evertag", "ID3 tags", "music metadata", "audio tag editor", "MP3 editor", "FLAC tagging", "iPhone utilities", "Mac music tools", "music library management"]
 aliases:
   - /evertag/
   - /mp3tag/
+appStoreUrl: "https://apps.apple.com/app/apple-store/id1450763230?pt=95781850&ct=everappzcom&mt=8"
+appStoreId: "1450763230"
+features: "Edit 120+ audio tags, Batch tag editing, Album cover finder, 30+ audio format support, Auto tag finder via MusicBrainz, Fix encoding issues, Cloud and USB access, Wi-Fi music transfer, Built-in file manager, Lyrics editor"
+screenshots:
+  - "https://everappz.com/products/evertag/screenshots/2048x2732/1.png"
+  - "https://everappz.com/products/evertag/screenshots/2048x2732/2.png"
+  - "https://everappz.com/products/evertag/screenshots/2048x2732/3.png"
 ---
 
 {{< hextra/hero-container

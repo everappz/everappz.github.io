@@ -3,13 +3,20 @@ date: '2025-06-12T17:00:00+00:00'
 draft: false
 title: 'Evermusic - Offline Music Player for iPhone and Mac'
 layout: hextra-home
-date: 2024-01-05
 description: "Download the best free offline music player for your iPhone and Mac and listen to your music everywhere."
 keywords: ["Evermusic", "offline music player", "iOS audio player", "cloud music app", "download music iPhone", "Mac music player", "streaming music offline", "FLAC player iPhone", "multi-cloud music player", "Evermusic app features"]
 tags: ["Evermusic", "offline playback", "cloud music", "MP3 player", "iPhone apps", "audio streaming", "music management", "Mac apps", "media player"]
 aliases:
   - /evermusic/
   - /index.php/app/evermusic/
+appStoreUrl: "https://apps.apple.com/app/apple-store/id885367198?pt=95781850&ct=everappzcom&mt=8"
+appStoreId: "885367198"
+features: "Offline music playback, Cloud streaming (iCloud, Google Drive, Dropbox, OneDrive, MEGA, Box), Audio equalizer with presets, Crossfade and gapless playback, M3U playlist import/export, Lyrics viewer, Audio bookmarks, Apple CarPlay, AirPlay and Chromecast, SMB/WebDAV/DLNA support, USB flash drive playback, Last.fm scrobbling"
+screenshots:
+  - "https://everappz.com/products/evermusic/screenshots/2048x2732/3.png"
+  - "https://everappz.com/products/evermusic/screenshots/2048x2732/4.png"
+  - "https://everappz.com/products/evermusic/screenshots/2048x2732/5.png"
+  - "https://everappz.com/products/evermusic/screenshots/2048x2732/6.png"
 ---
 
 <!-- <body class="hx:bg-transparent" style="background: radial-gradient(ellipse at 50% 80%, rgba(59,130,246,0.05), hsla(0,0%,100%,0));"> -->

@@ -7,7 +7,6 @@ sidebar:
   exclude: true
 title: 'Soundy - Equalizer for SoundCloud'
 layout: hextra-home
-date: 2024-01-05
 description: "Thousands of customers use Soundy as default SoundCloud player on iPhone. Get ultimate sound quality, equalizer and much more."
 keywords: ["Soundy", "SoundCloud player iPhone", "iOS music equalizer", "equalizer for SoundCloud", "SoundCloud offline player", "audio quality booster iOS", "SoundCloud EQ app", "best SoundCloud client iPhone", "iPhone music apps", "alternative SoundCloud player"]
 tags: ["Soundy", "SoundCloud", "iOS apps", "music equalizer", "audio player", "offline playback", "music app iPhone", "discontinued apps", "media player", "music streaming"]

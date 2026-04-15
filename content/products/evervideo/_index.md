@@ -3,12 +3,19 @@ date: '2025-06-12T17:00:00+00:00'
 draft: false
 title: 'Evervideo - HD Video Player for iPhone and Mac'
 layout: hextra-home
-date: 2024-01-05
 description: "Download the best free video player for your iPhone and Mac. Watch 360° videos, activate subtitles, adjust video equalizer, organize your videos with playlists, download for offline, and stream from iCloud."
 keywords: ["video player iPhone", "video player Mac", "360 video player", "offline video player iOS", "stream videos from iCloud", "subtitle support iOS", "video equalizer iPhone", "AirPlay video app", "Chromecast video player", "DLNA video streaming", "SMB WebDAV video player", "USB video player iPhone", "organize video playlists", "Mac video player with subtitles", "iTunes File Sharing video app", "free video app iOS", "media manager for videos", "multi-format video player"]
 tags: ["video player", "offline playback", "subtitle support", "iCloud streaming", "AirPlay", "Chromecast", "DLNA", "SMB", "WebDAV", "USB video access", "iPhone apps", "Mac apps", "media organizer", "360 video", "video playlists", "file sharing", "free video player", "multi-format support"]
 aliases:
   - /evervideo/
+appStoreUrl: "https://apps.apple.com/us/app/evervideo-hd-video-player/id6602897336?ct=everappzcom&mt=8"
+appStoreId: "6602897336"
+features: "HD video playback in all formats (MKV, AVI, MP4, MOV, FLV, WMV, WEBM), 360-degree and VR video support, Picture-in-Picture mode, Video and audio equalizer with 50+ presets, Subtitle support, Cloud streaming (iCloud, Google Drive, Dropbox, OneDrive, MEGA), Offline download, Media library with playlists, AirPlay and Chromecast, SMB/WebDAV/DLNA support, USB flash drive playback"
+screenshots:
+  - "https://everappz.com/products/evervideo/screenshots/2880x1800/1.png"
+  - "https://everappz.com/products/evervideo/screenshots/2880x1800/3.png"
+  - "https://everappz.com/products/evervideo/screenshots/2880x1800/5.png"
+  - "https://everappz.com/products/evervideo/screenshots/2880x1800/6.png"
 ---
 
 

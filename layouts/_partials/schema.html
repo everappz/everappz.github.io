@@ -5,15 +5,23 @@
 {
   "@context": "https://schema.org",
   "@type": "Organization",
+  "@id": "{{ .Site.BaseURL }}#organization",
   "name": "Everappz",
   "url": "{{ .Site.BaseURL }}",
   "logo": "{{ .Site.BaseURL }}images/logo.svg",
   "description": "{{ .Site.Params.description }}",
+  "foundingDate": "2023",
+  "numberOfEmployees": {
+    "@type": "QuantitativeValue",
+    "value": 2
+  },
+  "knowsAbout": ["iOS app development", "macOS app development", "audio player software", "video player software", "music tag editing", "cloud storage integration"],
   "sameAs": [
     "https://x.com/Everappz",
     "https://www.facebook.com/everappz",
     "https://www.reddit.com/r/everappz/",
-    "https://github.com/everappz"
+    "https://github.com/everappz",
+    "https://www.linkedin.com/company/everappz"
   ]
 }
 </script>
@@ -50,11 +58,61 @@
   "url": "{{ .Permalink }}",
   "operatingSystem": "iOS, macOS",
   "applicationCategory": "MultimediaApplication",
+  "datePublished": "{{ .Date.Format "2006-01-02" }}",
+  "dateModified": "{{ .Lastmod.Format "2006-01-02" }}",
+  "author": {
+    "@type": "Organization",
+    "@id": "{{ .Site.BaseURL }}#organization",
+    "name": "Everappz"
+  },
   "offers": {
     "@type": "Offer",
     "price": "0",
     "priceCurrency": "USD"
   }
+  {{- with .Params.appStoreUrl }},
+  "downloadUrl": "{{ . }}"
+  {{- end }}
+  {{- with .Params.features }},
+  "featureList": "{{ . }}"
+  {{- end }}
+  {{- with .Params.screenshots }},
+  "screenshot": [
+    {{- range $i, $s := . }}{{ if $i }},{{ end }}
+    "{{ $s }}"
+    {{- end }}
+  ]
+  {{- end }}
+  {{- with .Params.appStoreId }}
+    {{- $rating := 0.0 }}
+    {{- $ratingCount := 0 }}
+    {{- $url := printf "https://itunes.apple.com/lookup?id=%s" . }}
+    {{- with try (resources.GetRemote $url) }}
+      {{- with .Err }}
+        {{- warnf "App Store rating fetch failed: %s" . }}
+      {{- else with .Value }}
+        {{- $data := .Content | transform.Unmarshal }}
+        {{- with $data.results }}
+          {{- if gt (len .) 0 }}
+            {{- $app := index . 0 }}
+            {{- with $app.averageUserRating }}{{ $rating = . }}{{ end }}
+            {{- with $app.userRatingCount }}{{ $ratingCount = . }}{{ end }}
+          {{- end }}
+        {{- end }}
+      {{- else }}
+        {{- warnf "Unable to get remote resource %q" $url }}
+      {{- end }}
+    {{- end }}
+    {{- if gt $ratingCount 0 }},
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "{{ lang.FormatNumberCustom 2 $rating }}",
+      "ratingCount": "{{ $ratingCount }}",
+      "bestRating": "5",
+      "worstRating": "1"
+    }
+    {{- end }}
+  {{- end }}
 }
 </script>
 {{- end }}
@@ -119,6 +177,29 @@
     {{- end }}
   ]
   {{- end }}
+}
+</script>
+{{- end }}
+
+{{/* ── FAQPage (pages with details/FAQ shortcodes) ── */}}
+{{- $faqItems := .Store.Get "faqItems" }}
+{{- if $faqItems }}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {{- range $i, $item := $faqItems }}{{ if $i }},{{ end }}
+    {
+      "@type": "Question",
+      "name": {{ $item.question | jsonify }},
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": {{ $item.answer | jsonify }}
+      }
+    }
+    {{- end }}
+  ]
 }
 </script>
 {{- end }}
