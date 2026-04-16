@@ -36,16 +36,16 @@
     <!-- Text and Learn More -->
     <div class="hx:text-center">
       <p style="display:inline;"
-        class="hx:text-base hx:font-normal hx:text-gray-700 hx:dark:text-gray-200 hx:mb-2 sm:hx:mb-0">We use essential cookies to keep this site working properly. 
-        <a href="/legal/cookie-policy/"
-          class="hx:text-base hx:font-bold hx:text-gray-700 hx:dark:text-gray-200 hx:hover:underline">Learn More</a>
+        class="hx:text-base hx:font-normal hx:text-gray-700 hx:dark:text-gray-200 hx:mb-2 sm:hx:mb-0">{{ T "cookieText" }}
+        <a href="{{ relLangURL "/legal/cookie-policy/" }}"
+          class="hx:text-base hx:font-bold hx:text-gray-700 hx:dark:text-gray-200 hx:hover:underline">{{ T "cookieLearnMore" }}</a>
       </p>
     </div>
     <!-- Buttons -->
     <div class="hx:mt-1 hx:mb-1">
       <button type="button" onclick="acceptCookies()" style="margin-left: 0.5em; margin-right: 0.5em;"
         class="not-prose hx:font-medium hx:cursor-pointer hx:px-6 hx:py-3 hx:rounded-full hx:text-center hx:text-white hx:inline-block hx:bg-primary-600 hx:hover:bg-primary-700 hx:focus:outline-hidden hx:focus:ring-4 hx:focus:ring-primary-300 hx:dark:bg-primary-600 hx:dark:hover:bg-primary-700 hx:dark:focus:ring-primary-800 hx:transition-all hx:ease-in hx:duration-200">
-        OK
+        {{ T "cookieOK" }}
       </button>
     </div>
   </div>
@@ -65,52 +65,48 @@
 
   <!-- Column 1: Products -->
   <div>
-    <h2 class="hx:font-semibold hx:text-gray-900 hx:dark:text-gray-100 hx:mb-4">Products</h2>
+    <h2 class="hx:font-semibold hx:text-gray-900 hx:dark:text-gray-100 hx:mb-4">{{ T "products" }}</h2>
     <ul>
-      <li class="hx:mb-2"><a class="hx:text-gray-600 hx:dark:text-gray-400" href="/products/evervideo">Evervideo</a>
+      <li class="hx:mb-2"><a class="hx:text-gray-600 hx:dark:text-gray-400" href="{{ relLangURL "/products/evervideo" }}">Evervideo</a>
       </li>
-      <li class="hx:mb-2"><a class="hx:text-gray-600 hx:dark:text-gray-400" href="/products/evermusic">Evermusic</a>
+      <li class="hx:mb-2"><a class="hx:text-gray-600 hx:dark:text-gray-400" href="{{ relLangURL "/products/evermusic" }}">Evermusic</a>
       </li>
-      <li class="hx:mb-2"><a class="hx:text-gray-600 hx:dark:text-gray-400" href="/products/evertag">Evertag</a></li>
-      <li class="hx:mb-2"><a class="hx:text-gray-600 hx:dark:text-gray-400" href="/products/flacbox">Flacbox</a></li>
+      <li class="hx:mb-2"><a class="hx:text-gray-600 hx:dark:text-gray-400" href="{{ relLangURL "/products/evertag" }}">Evertag</a></li>
+      <li class="hx:mb-2"><a class="hx:text-gray-600 hx:dark:text-gray-400" href="{{ relLangURL "/products/flacbox" }}">Flacbox</a></li>
     </ul>
   </div>
 
   <!-- Column 2: Help Resources -->
   <div>
-    <h2 class="hx:font-semibold hx:text-gray-900 hx:dark:text-gray-100 hx:mb-4">Help</h2>
+    <h2 class="hx:font-semibold hx:text-gray-900 hx:dark:text-gray-100 hx:mb-4">{{ T "footerHelp" }}</h2>
     <ul>
-      <li class="hx:mb-2"><a class="hx:text-gray-600 hx:dark:text-gray-400" href="/docs/faq">FAQ</a></li>
-      <li class="hx:mb-2"><a class="hx:text-gray-600 hx:dark:text-gray-400" href="/docs/howto">How-To</a></li>
-      <li class="hx:mb-2"><a class="hx:text-gray-600 hx:dark:text-gray-400" href="/docs/guide">User Guide</a></li>
-      <li class="hx:mb-2"><a class="hx:text-gray-600 hx:dark:text-gray-400" href="/support">Contact support</a></li>
+      <li class="hx:mb-2"><a class="hx:text-gray-600 hx:dark:text-gray-400" href="{{ relLangURL "/docs/faq" }}">{{ T "footerFAQ" }}</a></li>
+      <li class="hx:mb-2"><a class="hx:text-gray-600 hx:dark:text-gray-400" href="{{ relLangURL "/docs/howto" }}">{{ T "genericHowTo" }}</a></li>
+      <li class="hx:mb-2"><a class="hx:text-gray-600 hx:dark:text-gray-400" href="{{ relLangURL "/docs/guide" }}">{{ T "genericUserGuide" }}</a></li>
+      <li class="hx:mb-2"><a class="hx:text-gray-600 hx:dark:text-gray-400" href="{{ relLangURL "/support" }}">{{ T "footerContactSupport" }}</a></li>
     </ul>
   </div>
 
   <!-- Column 3: Legal -->
   <div>
-    <h2 class="hx:font-semibold hx:text-gray-900 hx:dark:text-gray-100 hx:mb-4">Legal</h2>
+    <h2 class="hx:font-semibold hx:text-gray-900 hx:dark:text-gray-100 hx:mb-4">{{ T "legal" }}</h2>
     <ul>
-      <li class="hx:mb-2"><a class="hx:text-gray-600 hx:dark:text-gray-400" href="/legal/legal-notice">Legal Notice</a>
+      <li class="hx:mb-2"><a class="hx:text-gray-600 hx:dark:text-gray-400" href="{{ relLangURL "/legal/legal-notice" }}">{{ T "legalCardLegalNotice" }}</a>
       </li>
-      <li class="hx:mb-2"><a class="hx:text-gray-600 hx:dark:text-gray-400" href="/legal/privacy-policy">Privacy
-          Policy</a></li>
-      <li class="hx:mb-2"><a class="hx:text-gray-600 hx:dark:text-gray-400" href="/legal/cookie-policy">Cookie
-          Policy</a></li>
-      <li class="hx:mb-2"><a class="hx:text-gray-600 hx:dark:text-gray-400" href="/legal/terms-and-conditions">Terms and
-          Conditions</a></li>
-      <li class="hx:mb-2"><a class="hx:text-gray-600 hx:dark:text-gray-400" href="/legal/license-agreement">License
-          Agreement</a></li>
+      <li class="hx:mb-2"><a class="hx:text-gray-600 hx:dark:text-gray-400" href="{{ relLangURL "/legal/privacy-policy" }}">{{ T "legalCardPrivacy" }}</a></li>
+      <li class="hx:mb-2"><a class="hx:text-gray-600 hx:dark:text-gray-400" href="{{ relLangURL "/legal/cookie-policy" }}">{{ T "legalCardCookie" }}</a></li>
+      <li class="hx:mb-2"><a class="hx:text-gray-600 hx:dark:text-gray-400" href="{{ relLangURL "/legal/terms-and-conditions" }}">{{ T "legalCardTerms" }}</a></li>
+      <li class="hx:mb-2"><a class="hx:text-gray-600 hx:dark:text-gray-400" href="{{ relLangURL "/legal/license-agreement" }}">{{ T "legalCardLicense" }}</a></li>
     </ul>
   </div>
 
   <!-- Column 4: Company -->
   <div>
-    <h2 class="hx:font-semibold hx:text-gray-900 hx:dark:text-gray-100 hx:mb-4">Company</h2>
+    <h2 class="hx:font-semibold hx:text-gray-900 hx:dark:text-gray-100 hx:mb-4">{{ T "footerCompany" }}</h2>
     <ul>
-      <li class="hx:mb-2"><a class="hx:text-gray-600 hx:dark:text-gray-400" href="/about">About</a></li>
-      <li class="hx:mb-2"><a class="hx:text-gray-600 hx:dark:text-gray-400" href="/blog">Blog</a></li>
-      <li class="hx:mb-2"><a class="hx:text-gray-600 hx:dark:text-gray-400" href="/contact">Contact</a></li>
+      <li class="hx:mb-2"><a class="hx:text-gray-600 hx:dark:text-gray-400" href="{{ relLangURL "/about" }}">{{ T "about" }}</a></li>
+      <li class="hx:mb-2"><a class="hx:text-gray-600 hx:dark:text-gray-400" href="{{ relLangURL "/blog" }}">{{ T "blog" }}</a></li>
+      <li class="hx:mb-2"><a class="hx:text-gray-600 hx:dark:text-gray-400" href="{{ relLangURL "/contact" }}">{{ T "contact" }}</a></li>
     </ul>
   </div>
 

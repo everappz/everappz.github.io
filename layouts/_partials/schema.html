@@ -127,7 +127,7 @@
     {
       "@type": "ListItem",
       "position": 1,
-      "name": "Home",
+      "name": "{{ T "breadcrumbHome" | default "Home" }}",
       "item": "{{ .Site.BaseURL }}"
     }
     {{- $ancestors := .Ancestors.Reverse }}

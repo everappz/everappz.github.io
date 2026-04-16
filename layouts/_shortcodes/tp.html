@@ -1,0 +1,7 @@
+{{- $raw := T (.Get 0) -}}
+{{- $html := $raw | markdownify -}}
+{{- if not (hasPrefix $html "<") -}}
+<p>{{ $html }}</p>
+{{- else -}}
+{{- $html -}}
+{{- end -}}

@@ -1,0 +1,26 @@
+{{- /*
+  i18n-aware hero-button wrapper.
+  Params prefixed with "i18n:" are translated via T.
+
+  @example {{< hextra/i18n-hero-button text="i18n:downloadMobile" link="https://..." icon="device-mobile" >}}
+*/ -}}
+
+{{- $text := .Get "text" | default "" -}}
+{{- if hasPrefix $text "i18n:" }}{{ $text = T (strings.TrimPrefix "i18n:" $text) }}{{ end -}}
+
+{{- $link := .Get "link" -}}
+{{- $style := .Get "style" -}}
+{{- $icon := .Get "icon" -}}
+
+{{- $external := hasPrefix $link "http" -}}
+{{- $href := cond (hasPrefix $link "/") ($link | relURL) $link -}}
+
+<a
+  href="{{ $href }}"
+  class="not-prose hx:font-medium hx:cursor-pointer hx:px-6 hx:py-3 hx:rounded-full hx:text-center hx:text-white hx:inline-block hx:bg-primary-600 hx:hover:bg-primary-700 hx:hextra-focus-visible hx:dark:bg-primary-600 hx:dark:hover:bg-primary-700 hx:transition-all hx:ease-in hx:duration-200"
+  {{ with $style }}style="{{ . | safeCSS }}"{{ end }}
+  {{ if $external }}target="_blank" rel="noreferrer"{{ end -}}
+>
+  {{- with $icon }}{{ partial "utils/icon.html" (dict "name" . "attributes" "height=1em class=hx:inline") }} {{ end -}}
+  {{- $text -}}
+</a>

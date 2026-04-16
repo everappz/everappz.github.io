@@ -1,6 +1,6 @@
 # GENERAL CONFIGURATION
 baseURL: https://everappz.com # The full base URL of your website (used in link generation).
-languageCode: en # Default language/locale of your site.
+locale: en # Default language/locale of your site.
 title: Everappz # Title of the website (used in HTML <title> and RSS).
 theme: hextra # The Hugo theme used.
 
@@ -26,172 +26,237 @@ outputs:
 # MULTILINGUAL SUPPORT
 defaultContentLanguage: en # Default language to use if none is selected.
 languages:
-  #   ar:
-  #     languageName: عربي
-  #     languageCode: ar
-  #     languageDirection: rtl
-  #     weight: 1
-  #     title: Everappz
-  #   ca:
-  #     languageName: Català
-  #     languageCode: ca
-  #     weight: 2
-  #     title: Everappz
-  #   cs:
-  #     languageName: Čeština
-  #     languageCode: cs
-  #     weight: 3
-  #     title: Everappz
-  #   da:
-  #     languageName: Dansk
-  #     languageCode: da
-  #     weight: 4
-  #     title: Everappz
-  #   de:
-  #     languageName: Deutsch
-  #     languageCode: de
-  #     weight: 5
-  #     title: Everappz
-  #   el:
-  #     languageName: Ελληνικά
-  #     languageCode: el
-  #     weight: 6
-  #     title: Everappz
+  ar:
+    label: عربي
+    locale: ar
+    languageDirection: rtl
+    weight: 1
+    title: Everappz
+    params:
+      description: تطور Everappz تطبيقات iOS و Mac الشهيرة للصوت والفيديو وإدارة الملفات. مع أكثر من 14 مليون تنزيل حول العالم، تتيح لك تطبيقاتنا تشغيل الموسيقى ومشاهدة مقاطع الفيديو وتحرير العلامات وإدارة ملفاتك بسهولة.
+  ca:
+    label: Català
+    locale: ca
+    weight: 2
+    title: Everappz
+    params:
+      description: Everappz crea aplicacions populars per a iOS i Mac per a àudio, vídeo i gestió de fitxers. Amb més de 14 milions de descàrregues a tot el món, les nostres aplicacions et permeten reproduir música, veure vídeos, editar etiquetes i gestionar els teus fitxers amb facilitat.
+  cs:
+    label: Čeština
+    locale: cs
+    weight: 3
+    title: Everappz
+    params:
+      description: Everappz vytváří populární aplikace pro iOS a Mac pro audio, video a správu souborů. S více než 14 miliony stažení po celém světě vám naše aplikace umožní přehrávat hudbu, sledovat videa, upravovat tagy a spravovat soubory s lehkostí.
+  da:
+    label: Dansk
+    locale: da
+    weight: 4
+    title: Everappz
+    params:
+      description: Everappz skaber populære iOS- og Mac-apps til lyd, video og filhåndtering. Med over 14 millioner downloads verden over lader vores apps dig afspille musik, se videoer, redigere tags og administrere dine filer med lethed.
+  de:
+    label: Deutsch
+    locale: de
+    weight: 5
+    title: Everappz
+    params:
+      description: Everappz entwickelt beliebte iOS- und Mac-Apps für Audio, Video und Dateiverwaltung. Mit über 14 Millionen Downloads weltweit ermöglichen unsere Apps Musik abspielen, Videos ansehen, Tags bearbeiten und Dateien mühelos verwalten.
+  el:
+    label: Ελληνικά
+    locale: el
+    weight: 6
+    title: Everappz
+    params:
+      description: Η Everappz δημιουργεί δημοφιλείς εφαρμογές iOS και Mac για ήχο, βίντεο και διαχείριση αρχείων. Με πάνω από 14 εκατομμύρια λήψεις παγκοσμίως, οι εφαρμογές μας σας επιτρέπουν να αναπαράγετε μουσική, να παρακολουθείτε βίντεο, να επεξεργάζεστε ετικέτες και να διαχειρίζεστε τα αρχεία σας με ευκολία.
   en:
-    languageName: English
-    languageCode: en
+    label: English
+    locale: en
     weight: 7
     title: Everappz
-  # es:
-  #   languageName: Español
-  #   languageCode: es
-  #   weight: 8
-  #   title: Everappz
-  # fi:
-  #   languageName: Suomi
-  #   languageCode: fi
-  #   weight: 9
-  #   title: Everappz
-  # fr:
-  #   languageName: Français
-  #   languageCode: fr
-  #   weight: 10
-  #   title: Everappz
-  # he:
-  #   languageName: עברית
-  #   languageCode: he
-  #   weight: 11
-  #   title: Everappz
-  # hi:
-  #   languageName: हिन्दी
-  #   languageCode: hi
-  #   weight: 12
-  #   title: Everappz
-  # hr:
-  #   languageName: Hrvatski
-  #   languageCode: hr
-  #   weight: 13
-  #   title: Everappz
-  # hu:
-  #   languageName: Magyar
-  #   languageCode: hu
-  #   weight: 14
-  #   title: Everappz
-  # id:
-  #   languageName: Bahasa Indonesia
-  #   languageCode: id
-  #   weight: 15
-  #   title: Everappz
-  # it:
-  #   languageName: Italiano
-  #   languageCode: it
-  #   weight: 16
-  #   title: Everappz
-  # ja:
-  #   languageName: 日本語
-  #   languageCode: ja
-  #   weight: 17
-  #   title: Everappz
-  # ko:
-  #   languageName: 한국어
-  #   languageCode: ko
-  #   weight: 18
-  #   title: Everappz
-  # ms:
-  #   languageName: Bahasa Melayu
-  #   languageCode: ms
-  #   weight: 19
-  #   title: Everappz
-  # nl:
-  #   languageName: Nederlands
-  #   languageCode: nl
-  #   weight: 20
-  #   title: Everappz
-  # no:
-  #   languageName: Norsk
-  #   languageCode: no
-  #   weight: 21
-  #   title: Everappz
-  # pl:
-  #   languageName: Polski
-  #   languageCode: pl
-  #   weight: 22
-  #   title: Everappz
-  # pt:
-  #   languageName: Português
-  #   languageCode: pt
-  #   weight: 23
-  #   title: Everappz
-  # ro:
-  #   languageName: Română
-  #   languageCode: ro
-  #   weight: 24
-  #   title: Everappz
-  # ru:
-  #   languageName: Русский
-  #   languageCode: ru
-  #   weight: 25
-  #   title: Everappz
-  # sk:
-  #   languageName: Slovenčina
-  #   languageCode: sk
-  #   weight: 26
-  #   title: Everappz
-  # sv:
-  #   languageName: Svenska
-  #   languageCode: sv
-  #   weight: 27
-  #   title: Everappz
-  # th:
-  #   languageName: ไทย
-  #   languageCode: th
-  #   weight: 28
-  #   title: Everappz
-  # tr:
-  #   languageName: Türkçe
-  #   languageCode: tr
-  #   weight: 29
-  #   title: Everappz
-  # uk:
-  #   languageName: Українська
-  #   languageCode: uk
-  #   weight: 30
-  #   title: Everappz
-  # vi:
-  #   languageName: Tiếng Việt
-  #   languageCode: vi
-  #   weight: 31
-  #   title: Everappz
-  # zh-cn:
-  #   languageName: 简体中文
-  #   languageCode: zh-cn
-  #   weight: 32
-  #   title: Everappz
-  # zh-tw:
-  #   languageName: 繁體中文
-  #   languageCode: zh-tw
-  #   weight: 33
-  #   title: Everappz
+  es:
+    label: Español
+    locale: es
+    weight: 8
+    title: Everappz
+    params:
+      description: Everappz crea aplicaciones populares de iOS y Mac para audio, vídeo y gestión de archivos. Con más de 14 millones de descargas en todo el mundo, nuestras aplicaciones te permiten reproducir música, ver vídeos, editar etiquetas y gestionar tus archivos con facilidad.
+  fi:
+    label: Suomi
+    locale: fi
+    weight: 9
+    title: Everappz
+    params:
+      description: Everappz luo suosittuja iOS- ja Mac-sovelluksia ääni-, video- ja tiedostonhallintaan. Yli 14 miljoonalla latauksella maailmanlaajuisesti sovelluksemme antavat sinun toistaa musiikkia, katsoa videoita, muokata tunnisteita ja hallita tiedostojasi helposti.
+  fr:
+    label: Français
+    locale: fr
+    weight: 10
+    title: Everappz
+    params:
+      description: Everappz crée des applications iOS et Mac populaires pour l'audio, la vidéo et la gestion de fichiers. Avec plus de 14 millions de téléchargements dans le monde, nos applications vous permettent d'écouter de la musique, de regarder des vidéos, d'éditer des tags et de gérer vos fichiers facilement.
+  he:
+    label: עברית
+    locale: he
+    languageDirection: rtl
+    weight: 11
+    title: Everappz
+    params:
+      description: Everappz יוצרת אפליקציות iOS ו-Mac פופולריות לאודיו, וידאו וניהול קבצים. עם יותר מ-14 מיליון הורדות ברחבי העולם, האפליקציות שלנו מאפשרות לך לנגן מוזיקה, לצפות בסרטונים, לערוך תגיות ולנהל את הקבצים שלך בקלות.
+  hi:
+    label: हिन्दी
+    locale: hi
+    weight: 12
+    title: Everappz
+    params:
+      description: Everappz ऑडियो, वीडियो और फ़ाइल प्रबंधन के लिए लोकप्रिय iOS और Mac ऐप्स बनाता है। दुनिया भर में 14 मिलियन से अधिक डाउनलोड के साथ, हमारे ऐप्स आपको संगीत चलाने, वीडियो देखने, टैग संपादित करने और अपनी फ़ाइलों को आसानी से प्रबंधित करने देते हैं।
+  hr:
+    label: Hrvatski
+    locale: hr
+    weight: 13
+    title: Everappz
+    params:
+      description: Everappz stvara popularne iOS i Mac aplikacije za audio, video i upravljanje datotekama. S više od 14 milijuna preuzimanja diljem svijeta, naše aplikacije omogućuju reprodukciju glazbe, gledanje videa, uređivanje oznaka i upravljanje datotekama s lakoćom.
+  hu:
+    label: Magyar
+    locale: hu
+    weight: 14
+    title: Everappz
+    params:
+      description: Az Everappz népszerű iOS és Mac alkalmazásokat készít hang-, videó- és fájlkezeléshez. Világszerte több mint 14 millió letöltéssel alkalmazásaink lehetővé teszik zenehallgatást, videónézést, címkeszerkesztést és fájlkezelést könnyedén.
+  id:
+    label: Bahasa Indonesia
+    locale: id
+    weight: 15
+    title: Everappz
+    params:
+      description: Everappz membuat aplikasi iOS dan Mac populer untuk audio, video, dan manajemen file. Dengan lebih dari 14 juta unduhan di seluruh dunia, aplikasi kami memungkinkan Anda memutar musik, menonton video, mengedit tag, dan mengelola file dengan mudah.
+  it:
+    label: Italiano
+    locale: it
+    weight: 16
+    title: Everappz
+    params:
+      description: Everappz crea popolari app iOS e Mac per audio, video e gestione dei file. Con oltre 14 milioni di download in tutto il mondo, le nostre app ti permettono di riprodurre musica, guardare video, modificare tag e gestire i tuoi file con facilità.
+  ja:
+    label: 日本語
+    locale: ja
+    weight: 17
+    title: Everappz
+    params:
+      description: Everappzは、オーディオ、ビデオ、ファイル管理のための人気のiOSおよびMacアプリを開発しています。世界中で1400万以上のダウンロードを記録し、音楽の再生、ビデオの視聴、タグの編集、ファイルの管理を簡単に行えます。
+  ko:
+    label: 한국어
+    locale: ko
+    weight: 18
+    title: Everappz
+    params:
+      description: Everappz는 오디오, 비디오 및 파일 관리를 위한 인기 있는 iOS 및 Mac 앱을 만듭니다. 전 세계적으로 1,400만 이상의 다운로드를 기록하며, 음악 재생, 동영상 시청, 태그 편집, 파일 관리를 쉽게 할 수 있습니다.
+  ms:
+    label: Bahasa Melayu
+    locale: ms
+    weight: 19
+    title: Everappz
+    params:
+      description: Everappz mencipta aplikasi iOS dan Mac yang popular untuk audio, video dan pengurusan fail. Dengan lebih 14 juta muat turun di seluruh dunia, aplikasi kami membolehkan anda memainkan muzik, menonton video, mengedit tag dan mengurus fail anda dengan mudah.
+  nl:
+    label: Nederlands
+    locale: nl
+    weight: 20
+    title: Everappz
+    params:
+      description: Everappz maakt populaire iOS- en Mac-apps voor audio, video en bestandsbeheer. Met meer dan 14 miljoen downloads wereldwijd kunt u met onze apps muziek afspelen, video's bekijken, tags bewerken en uw bestanden eenvoudig beheren.
+  "no":
+    label: Norsk
+    locale: "no"
+    weight: 21
+    title: Everappz
+    params:
+      description: Everappz lager populære iOS- og Mac-apper for lyd, video og filbehandling. Med over 14 millioner nedlastinger over hele verden lar appene våre deg spille musikk, se videoer, redigere tagger og administrere filene dine med letthet.
+  pl:
+    label: Polski
+    locale: pl
+    weight: 22
+    title: Everappz
+    params:
+      description: Everappz tworzy popularne aplikacje na iOS i Mac do obsługi audio, wideo i zarządzania plikami. Z ponad 14 milionami pobrań na całym świecie, nasze aplikacje umożliwiają odtwarzanie muzyki, oglądanie filmów, edycję tagów i łatwe zarządzanie plikami.
+  pt:
+    label: Português
+    locale: pt
+    weight: 23
+    title: Everappz
+    params:
+      description: A Everappz cria aplicativos populares para iOS e Mac para áudio, vídeo e gerenciamento de arquivos. Com mais de 14 milhões de downloads em todo o mundo, nossos aplicativos permitem reproduzir música, assistir vídeos, editar tags e gerenciar seus arquivos com facilidade.
+  ro:
+    label: Română
+    locale: ro
+    weight: 24
+    title: Everappz
+    params:
+      description: Everappz creează aplicații populare pentru iOS și Mac pentru audio, video și gestionarea fișierelor. Cu peste 14 milioane de descărcări la nivel mondial, aplicațiile noastre vă permit să ascultați muzică, să vizionați videoclipuri, să editați etichete și să vă gestionați fișierele cu ușurință.
+  ru:
+    label: Русский
+    locale: ru
+    weight: 25
+    title: Everappz
+    params:
+      description: Everappz создаёт популярные приложения для iOS и Mac для работы с аудио, видео и управления файлами. С более чем 14 миллионами загрузок по всему миру наши приложения позволяют воспроизводить музыку, смотреть видео, редактировать теги и легко управлять файлами.
+  sk:
+    label: Slovenčina
+    locale: sk
+    weight: 26
+    title: Everappz
+    params:
+      description: Everappz vytvára populárne aplikácie pre iOS a Mac pre audio, video a správu súborov. S viac ako 14 miliónmi stiahnutí po celom svete vám naše aplikácie umožnia prehrávať hudbu, sledovať videá, upravovať tagy a spravovať súbory s ľahkosťou.
+  sv:
+    label: Svenska
+    locale: sv
+    weight: 27
+    title: Everappz
+    params:
+      description: Everappz skapar populära iOS- och Mac-appar för ljud, video och filhantering. Med över 14 miljoner nedladdningar världen över låter våra appar dig spela musik, titta på videor, redigera taggar och hantera dina filer med lätthet.
+  th:
+    label: ไทย
+    locale: th
+    weight: 28
+    title: Everappz
+    params:
+      description: Everappz สร้างแอป iOS และ Mac ยอดนิยมสำหรับเสียง วิดีโอ และการจัดการไฟล์ ด้วยการดาวน์โหลดมากกว่า 14 ล้านครั้งทั่วโลก แอปของเราให้คุณเล่นเพลง ดูวิดีโอ แก้ไขแท็ก และจัดการไฟล์ได้อย่างง่ายดาย
+  tr:
+    label: Türkçe
+    locale: tr
+    weight: 29
+    title: Everappz
+    params:
+      description: Everappz, ses, video ve dosya yönetimi için popüler iOS ve Mac uygulamaları oluşturur. Dünya genelinde 14 milyondan fazla indirme ile uygulamalarımız müzik dinlemenize, video izlemenize, etiketleri düzenlemenize ve dosyalarınızı kolayca yönetmenize olanak tanır.
+  uk:
+    label: Українська
+    locale: uk
+    weight: 30
+    title: Everappz
+    params:
+      description: Everappz створює популярні додатки для iOS та Mac для роботи з аудіо, відео та керування файлами. З понад 14 мільйонами завантажень по всьому світу наші додатки дозволяють відтворювати музику, переглядати відео, редагувати теги та легко керувати файлами.
+  vi:
+    label: Tiếng Việt
+    locale: vi
+    weight: 31
+    title: Everappz
+    params:
+      description: Everappz tạo ra các ứng dụng iOS và Mac phổ biến cho âm thanh, video và quản lý tệp. Với hơn 14 triệu lượt tải xuống trên toàn thế giới, các ứng dụng của chúng tôi cho phép bạn phát nhạc, xem video, chỉnh sửa thẻ và quản lý tệp của bạn một cách dễ dàng.
+  zh-cn:
+    label: 简体中文
+    locale: zh-cn
+    weight: 32
+    title: Everappz
+    params:
+      description: Everappz 为音频、视频和文件管理打造热门的 iOS 和 Mac 应用。全球下载量超过 1400 万次，我们的应用让您轻松播放音乐、观看视频、编辑标签和管理文件。
+  zh-tw:
+    label: 繁體中文
+    locale: zh-tw
+    weight: 33
+    title: Everappz
+    params:
+      description: Everappz 為音訊、視訊和檔案管理打造熱門的 iOS 和 Mac 應用程式。全球下載量超過 1400 萬次，我們的應用程式讓您輕鬆播放音樂、觀看影片、編輯標籤和管理檔案。
 
 # # MODULES (Used to import theme or dependencies)
 # module:
