@@ -194,7 +194,7 @@ aliases:
 
 {{< hextra/hero-badge >}}
   <div class="hx:w-2 hx:h-2 hx:rounded-full hx:bg-primary-400"></div>
-  <span>14 Million Downloads Worldwide</span>
+  <span>{{< t "homeHeroBadge" >}}</span>
   {{< icon name="arrow-circle-right" attributes="height=14" >}}
 {{< /hextra/hero-badge >}}
 
@@ -206,7 +206,7 @@ aliases:
 
 <div>
 {{< hextra/hero-subtitle >}}
-<strong>Discover our apps that boost productivity,&nbsp;<br class="hx:sm:block hx:hidden" />and make daily tasks easier and more enjoyable.</strong>
+<strong>{{< t "homeHeroSubtitle" >}}</strong>
 {{< /hextra/hero-subtitle >}}
 </div>
 
@@ -222,23 +222,23 @@ aliases:
 
 {{< hextra/feature-grid >}}
 
-  {{< hextra/feature-card
-    title="Built for You. Improved by You."
-    subtitle=`We read all reviews and use your feedback to improve every update.`
+  {{< hextra/i18n-feature-card
+    title="i18n:homeFeature1Title"
+    subtitle="i18n:homeFeature1Subtitle"
     icon="code"
     style="background: radial-gradient(circle at 50% 80%, rgba(99,102,241,0.15), transparent);"
   >}}
 
-  {{< hextra/feature-card
-    title="Performance Meets Purpose."
-    subtitle=`No bloat. Just clean, stable apps with features that matter.`
+  {{< hextra/i18n-feature-card
+    title="i18n:homeFeature2Title"
+    subtitle="i18n:homeFeature2Subtitle"
     icon="presentation-chart-line"
     style="background: radial-gradient(circle at 50% 80%, rgba(236,72,153,0.15), transparent);"
   >}}
 
-  {{< hextra/feature-card
-    title="Privacy. Accessibility. Simplicity."
-    subtitle=`Easy to use, fully accessible, and built with your privacy in mind.`
+  {{< hextra/i18n-feature-card
+    title="i18n:homeFeature3Title"
+    subtitle="i18n:homeFeature3Subtitle"
     icon="shield-check"
     style="background: radial-gradient(circle at 50% 80%, rgba(16,185,129,0.15), transparent);"
   >}}
@@ -256,7 +256,7 @@ aliases:
 <div class="hx:mt-12"></div>
 
 {{< hextra/section-headline >}}
-Our Products
+{{< t "homeSectionProducts" >}}
 {{< /hextra/section-headline >}}
 
 <div class="hx:mt-6"></div>
@@ -265,43 +265,43 @@ Our Products
 
 {{< cards cols="8">}}
 
-  {{< card 
+  {{< i18n-card 
     link="/products/evervideo" 
     title="Evervideo" 
-    tag="New"
-    subtitle="Play 360° videos, watch with subtitles, use a video equalizer, organize your media with playlists, download videos for offline use, and stream from iCloud." 
+    tag="i18n:genericNew"
+    subtitle="i18n:genericEvervideoSubtitle" 
     image="/images/app_icons/webp/Evervideo_Icon-App-1024x1024.webp"
     method="Resize"
     options="200x q80 webp"
     imageStyle="width: 72px; height: auto; margin-left: 1rem; margin-top: 1rem; border-radius: 12px; align-self: start; flex-shrink: 0;"
   >}}
 
-  {{< card 
+  {{< i18n-card 
     link="/products/evermusic"
     title="Evermusic" 
-    tag="11 Million Downloads Worldwide"
-    subtitle="Cloud music player with offline mode, audio equalizer, crossfade, gapless playback, playlists, music library, file manager." 
+    tag="i18n:generic11MDownloads"
+    subtitle="i18n:genericEvermusicSubtitle" 
     image="/images/app_icons/webp/Evermusic_Icon-App-1024x1024.webp"
     method="Resize"
     options="200x q80 webp"
     imageStyle="width: 72px; height: auto; margin-left: 1rem; margin-top: 1rem; border-radius: 12px; align-self: start; flex-shrink: 0;"
   >}}
 
-  {{< card 
+  {{< i18n-card 
     link="/products/flacbox"
     title="Flacbox" 
-    tag="1 Million Downloads Worldwide"
-    subtitle="Hi-Res audio player for iPhone and Mac. Listen to your music in lossless audio formats: flac, alac, ape, wv, dsd and more. Enable advanced audio output settings.​" 
+    tag="i18n:generic1MDownloads"
+    subtitle="i18n:genericFlacboxSubtitle" 
     image="/images/app_icons/webp/Flacbox_Icon-App-1024x1024.webp"
     method="Resize"
     options="200x q80 webp"
     imageStyle="width: 72px; height: auto; margin-left: 1rem; margin-top: 1rem; border-radius: 12px; align-self: start; flex-shrink: 0;"
   >}}
 
-  {{< card 
+  {{< i18n-card 
     link="/products/evertag"
     title="Evertag" 
-    subtitle="Music tags editor with automatic correction and batch mode. Find missing metadata, edit album covers. Edit ID3 / FLAC/ APE. More than 120 tags supported." 
+    subtitle="i18n:genericEvertagSubtitle" 
     image="/images/app_icons/webp/Evertag_Icon-App-1024x1024.webp"
     method="Resize"
     options="200x q80 webp"
@@ -315,7 +315,7 @@ Our Products
 <div class="hx:mt-6"></div>
 
 {{< hextra/section-headline >}}
-App Store Reviews
+{{< t "homeSectionReviews" >}}
 {{< /hextra/section-headline >}}
 
 <div class="hx:mt-6"></div>
@@ -327,7 +327,7 @@ App Store Reviews
 <div class="hx:mt-6"></div>
 
 {{< hextra/section-headline >}}
-Subscribe
+{{< t "homeSectionSubscribe" >}}
 {{< /hextra/section-headline >}}
 
 <div class="hx:mt-6"></div>
@@ -335,9 +335,7 @@ Subscribe
 <div class="hx:w-full hx:text-center">
 
 {{< hextra/hero-paragraph >}}
-Join people who get the latest news and exclusive deals from the Everappz team.  
-Don't forget to follow us on social media for the latest news and updates about the app.  
-By subscribing, you agree to our [Privacy Policy](/legal/privacy-policy) and accept the [Terms and Conditions](/legal/terms-and-conditions/).
+{{< t "homeSubscribeText" >}}
 {{< /hextra/hero-paragraph >}}
 
 </div>
@@ -384,7 +382,7 @@ style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text"
 <!-- style from hextra/hero-button -->
 <button type="submit"
 class="not-prose hx:font-bold hx:cursor-pointer hx:px-6 hx:py-3 hx:rounded-full hx:text-center hx:text-white hx:inline-flex hx:items-center hx:gap-2 hx:bg-primary-600 hx:hover:bg-primary-700 hx:focus:outline-hidden hx:focus:ring-4 hx:focus:ring-primary-300 hx:dark:bg-primary-600 hx:dark:hover:bg-primary-700 hx:dark:focus:ring-primary-800 hx:transition-all hx:ease-in hx:duration-200" 
-style="outline: none; box-shadow: none;">Subscribe</button>
+style="outline: none; box-shadow: none;">{{< t "homeSubscribeButton" >}}</button>
 
 {{< /rawhtml >}}
 

@@ -27,8 +27,7 @@ aliases:
 
 <div class="hx:mb-6 hx:text-center">
 {{< hextra/hero-paragraph >}}
-Discover the full range of Everappz applications designed to enhance your media experience.  
-Each product offers powerful features and seamless integration with iOS and macOS.  
+{{< t "productsPageIntro" >}}
 {{< /hextra/hero-paragraph >}}
 </div>
 
@@ -38,43 +37,43 @@ Each product offers powerful features and seamless integration with iOS and macO
 
 {{< cards cols="2">}}
 
-  {{< card 
+  {{< i18n-card 
     link="/products/evervideo" 
     title="Evervideo" 
-    tag="New"
-    subtitle="Play 360° videos, watch with subtitles, use a video equalizer, organize your media with playlists, download videos for offline use, and stream from iCloud." 
+    tag="i18n:genericNew"
+    subtitle="i18n:genericEvervideoSubtitle" 
     image="/images/app_icons/webp/Evervideo_Icon-App-1024x1024.webp"
     method="Resize"
     options="200x q80 webp"
     imageStyle="width: 72px; height: auto; margin-left: 1rem; margin-top: 1rem; border-radius: 12px; align-self: start; flex-shrink: 0;"
   >}}
 
-  {{< card 
+  {{< i18n-card 
     link="/products/evermusic"
     title="Evermusic" 
-    tag="11 Million Downloads Worldwide"
-    subtitle="Cloud music player with offline mode, audio equalizer, crossfade, gapless playback, playlists, music library, file manager." 
+    tag="i18n:generic11MDownloads"
+    subtitle="i18n:genericEvermusicSubtitle" 
     image="/images/app_icons/webp/Evermusic_Icon-App-1024x1024.webp"
     method="Resize"
     options="200x q80 webp"
     imageStyle="width: 72px; height: auto; margin-left: 1rem; margin-top: 1rem; border-radius: 12px; align-self: start; flex-shrink: 0;"
   >}}
 
-  {{< card 
+  {{< i18n-card 
     link="/products/flacbox"
     title="Flacbox" 
-    tag="1 Million Downloads Worldwide"
-    subtitle="Hi-Res audio player for iPhone and Mac. Listen to your music in lossless audio formats: flac, alac, ape, wv, dsd and more. Enable advanced audio output settings.​" 
+    tag="i18n:generic1MDownloads"
+    subtitle="i18n:genericFlacboxSubtitle" 
     image="/images/app_icons/webp/Flacbox_Icon-App-1024x1024.webp"
     method="Resize"
     options="200x q80 webp"
     imageStyle="width: 72px; height: auto; margin-left: 1rem; margin-top: 1rem; border-radius: 12px; align-self: start; flex-shrink: 0;"
   >}}
 
-  {{< card 
+  {{< i18n-card 
     link="/products/evertag"
     title="Evertag" 
-    subtitle="Music tags editor with automatic correction and batch mode. Find missing metadata, edit album covers. Edit ID3 / FLAC/ APE. More than 120 tags supported." 
+    subtitle="i18n:genericEvertagSubtitle" 
     image="/images/app_icons/webp/Evertag_Icon-App-1024x1024.webp"
     method="Resize"
     options="200x q80 webp"

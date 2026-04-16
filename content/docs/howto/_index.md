@@ -11,10 +11,6 @@ aliases:
 
 {{< lottie src="/images/juicy-json/juicy-team-analyzes-graphs-and-diagrams.json" width="85%" >}}
 
-This section offers practical, easy-to-follow guides for using Everappz apps.  
-
-Whether you're setting up for the first time or looking for tips on advanced features, you'll find the answers here.  
-
-Explore our tutorials to solve issues, learn new tricks, and make the most of your app experience.  
+{{< tp "howtoIntroText" >}}
 
 {{< posts-list path="/docs/howto" >}}

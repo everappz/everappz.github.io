@@ -49,7 +49,7 @@ sidebar:
 <div class="hx:mt-6"></div>
 
 {{< hextra/section-headline >}}
-Subscribe
+{{< t "homeSectionSubscribe" >}}
 {{< /hextra/section-headline >}}
 
 <div class="hx:mt-6"></div>
@@ -57,9 +57,7 @@ Subscribe
 <div class="hx:w-full hx:text-center">
 
 {{< hextra/hero-paragraph >}}
-Join people who get the latest news and exclusive deals from the Everappz team.  
-Don't forget to follow us on social media for the latest news and updates about the app.  
-By subscribing, you agree to our [Privacy Policy](/legal/privacy-policy) and accept the [Terms and Conditions](/legal/terms-and-conditions/).
+{{< t "homeSubscribeText" >}}
 {{< /hextra/hero-paragraph >}}
 
 </div>
@@ -106,7 +104,7 @@ style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text"
 <!-- style from hextra/hero-button -->
 <button type="submit"
 class="not-prose hx:font-bold hx:cursor-pointer hx:px-6 hx:py-3 hx:rounded-full hx:text-center hx:text-white hx:inline-flex hx:items-center hx:gap-2 hx:bg-primary-600 hx:hover:bg-primary-700 hx:focus:outline-hidden hx:focus:ring-4 hx:focus:ring-primary-300 hx:dark:bg-primary-600 hx:dark:hover:bg-primary-700 hx:dark:focus:ring-primary-800 hx:transition-all hx:ease-in hx:duration-200" 
-style="outline: none; box-shadow: none;">Subscribe</button>
+style="outline: none; box-shadow: none;">{{< t "homeSubscribeButton" >}}</button>
 
 {{< /rawhtml >}}
 

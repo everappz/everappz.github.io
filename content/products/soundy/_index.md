@@ -26,13 +26,13 @@ aliases:
 <div class="hx:mt-6 hx:mb-12">
 {{< hextra/hero-subtitle >}}
 <a href="https://www.chip.de/downloads/Evermusic-Pro-iPhone-_-iPad-App_91614216.html" target="_blank" rel="noopener">
-Soundy was removed from the App Store because we can not support it due to SoundCloud API changes
+{{< t "soundyRemovedText" >}}
   </a>
 {{< /hextra/hero-subtitle >}}
 </div>
 
-{{< hextra/hero-button 
-  text="Checkout our other apps"
+{{< hextra/i18n-hero-button 
+  text="i18n:soundyCheckoutBtn"
   link="/products"
 >}}
 

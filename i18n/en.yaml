@@ -1,1 +1,1706 @@
+# ══════════════════════════════════════
+# General / Site-wide
+# ══════════════════════════════════════
+
+# Copyright
 copyright: "© 2023 - 2026 EVERAPPZ SL"
+
+# Menu items
+home: "Home"
+products: "Products"
+blog: "Blog"
+docs: "Documentation"
+support: "Support"
+legal: "Legal"
+contact: "Contact"
+about: "About"
+
+# Footer
+footerHelp: "Help"
+footerCompany: "Company"
+footerFAQ: "FAQ"
+footerContactSupport: "Contact support"
+
+# Cookie banner
+cookieText: "We use essential cookies to keep this site working properly."
+cookieLearnMore: "Learn More"
+cookieOK: "OK"
+
+# Breadcrumb
+breadcrumbHome: "Home"
+
+# ══════════════════════════════════════
+# Shared / Generic strings
+# ══════════════════════════════════════
+
+# UI labels
+genericUserGuide: "User Guide"
+genericFAQ: "Frequently Asked Questions"
+genericHowTo: "How-To"
+genericAppStoreReviews: "App Store Reviews"
+
+# Buttons
+genericDownloadMobile: "Download for mobile"
+genericDownloadDesktop: "Download for desktop"
+
+# Badges
+genericNew: "New"
+generic14MDownloads: "14 Million Downloads Worldwide"
+generic11MDownloads: "11 Million Downloads Worldwide"
+generic1MDownloads: "1 Million Downloads Worldwide"
+
+# Pricing
+genericPricingPlans: "Pricing Plans"
+genericPricingFree: "Free"
+genericPricingMonthly: "Premium Monthly"
+genericPricingYearly: "Premium Yearly"
+genericPricingLifetime: "Premium Lifetime"
+
+# Product subtitles
+genericEvervideoSubtitle: "Play 360° videos, watch with subtitles, use a video equalizer, organize your media with playlists, download videos for offline use, and stream from iCloud."
+genericEvermusicSubtitle: "Cloud music player with offline mode, audio equalizer, crossfade, gapless playback, playlists, music library, file manager."
+genericFlacboxSubtitle: "Hi-Res audio player for iPhone and Mac. Listen to your music in lossless audio formats: flac, alac, ape, wv, dsd and more. Enable advanced audio output settings."
+genericEvertagSubtitle: "Music tags editor with automatic correction and batch mode. Find missing metadata, edit album covers. Edit ID3 / FLAC/ APE. More than 120 tags supported."
+
+# Guide section labels
+genericGuideNavigation: "Navigation"
+genericGuideConnections: "Connections"
+genericGuideMusicLibrary: "Music Library"
+genericGuideLocalFiles: "Local Files"
+genericGuideAudioPlayer: "Audio Player"
+genericGuidePlaylists: "Playlists"
+genericGuideSettings: "Settings"
+
+# Feature labels
+genericFeatureOfflineMode: "Offline Mode"
+genericFeatureFileManager: "File Manager"
+genericFeatureAirPlayChromecast: "AirPlay & Chromecast"
+genericFeatureAppleCarPlay: "Apple CarPlay"
+genericFeatureAdvancedSearch: "Advanced Search"
+genericFeatureUSBFlashCards: "USB Flash Cards"
+
+# Pricing info (shared across apps)
+genericPricingInfo: |
+  <strong>Family Sharing</strong>: All purchases and subscriptions support Family Sharing, allowing you to share Premium access with your family.<br><strong>Universal Access</strong>: Lifetime and subscription plans are shared between iOS and Mac devices using iCloud synchronization.<br><strong>Pricing</strong>: Prices are shown in US dollars for the United States. Final pricing may vary based on your region.
+
+# ══════════════════════════════════════
+# Page: Support
+# ══════════════════════════════════════
+supportHeadingNeedHelp: "Need Help? We're Here for You"
+supportNeedHelpText: |
+  If you have any questions or need assistance, feel free to reach out — we're always happy to help.
+
+  **Email us at:** [support@everappz.com](mailto:support@everappz.com)
+  By contacting us, you confirm that you have read and agree to our [Privacy Policy](../legal/privacy-policy).
+supportHeadingQuickHelp: "Quick Help Resources"
+supportQuickHelpIntro: |
+  To save time and get instant answers, please check out our most helpful resources. Many common questions are already covered:
+supportQuickHelpFooter: |
+  These guides are designed to help you get the most out of our apps — from setup to advanced features.
+
+  If you still need help, just send us a message and we'll get back to you as quickly as possible.
+
+# ══════════════════════════════════════
+# Page: Contact
+# ══════════════════════════════════════
+contactHeadingPostal: "Postal Address"
+contactPostalIntro: "You can contact us by sending a letter to:"
+contactHeadingEmail: "Send Us an Email"
+contactEmailText: |
+  Or by emailing us at: **[support@everappz.com](mailto:support@everappz.com)**
+  By sending an email, you confirm that you have read and agree to our [Privacy Policy](../legal/privacy-policy).
+contactDataProtection: "BASIC INFORMATION ON DATA PROTECTION. Controller: EVERAPPZ SL. Main Purpose: Comprehensive management of client relationships. Legal Basis: Consent of the data subject. Rights: Access, rectification, deletion, and portability of your data, limitation and objection to its processing, as well as the right not to be subject to decisions based solely on the automated processing of your data, where applicable. Additional Information: You can consult additional and detailed information about our [Privacy Policy](../legal/privacy-policy)."
+contactHeadingSocial: "Connect with Us"
+contactSocialIntro: "Subscribe to us on social networks to get the most up-to-date news, app updates, tips, and useful information:"
+
+# ══════════════════════════════════════
+# Page: About
+# ══════════════════════════════════════
+aboutHeadingWhoWeAre: "Who We Are"
+aboutWhoWeAreText: |
+  Everappz S.L. is an independent software company based in Spain. We are a small, passionate team of two, dedicated to building useful, fast, and user-friendly iOS and macOS applications for audio playback, video playback, and music metadata management. Our product lineup — Evermusic, Flacbox, EverTag, and Evervideo has accumulated over 14 million downloads worldwide. Evermusic, a cloud music player supporting 12+ storage services including iCloud, Dropbox, and Google Drive, accounts for 11 million of those downloads and holds a 4.6-star rating from over 18,000 App Store reviews. Flacbox, a lossless audio player supporting FLAC, DSD, ALAC, and 120+ audio formats, surpassed 1 million downloads. All products are distributed exclusively through the Apple App Store.
+aboutHeadingJourney: "Our Journey"
+aboutJourneyText: |
+  Our story began in 2006, developing mobile apps for popular Java (J2ME) phones of the time. In 2009, we transitioned to iOS development, working for large companies and gaining valuable experience in professional app engineering.
+
+  Eventually, we decided to apply our knowledge and passion to our own projects — removing middle managers, unnecessary meetings, and distractions. This gave us the freedom to focus solely on what matters: making great apps.
+aboutHeadingDrives: "What Drives Us"
+aboutDrive1: "**Simplicity and usability.** Our apps are designed so that anyone can enjoy them — no tech skills required."
+aboutDrive2: "**Customer-first mindset.** We read every user review and email, constantly improving our apps based on real feedback."
+aboutDrive3: "**Performance and quality.** We care deeply about speed, stability, and useful features."
+aboutDrive4: "**Purpose-driven features.** We use only time-proven technologies and practices. We avoid trendy or unnecessary features that exist solely for marketing. Instead, we implement only what's truly useful—based on customer requests and real-world use cases."
+aboutDrive5: "**Accessibility matters.** We invest significant time and effort to make our apps fully accessible, including full support for VoiceOver and screen reader navigation."
+aboutDrive6: "**Privacy first.** We respect your privacy by allowing you to disable all analytics tools from within our apps. We also follow high security standards to ensure sensitive data is stored safely and securely on your device — never on our servers."
+aboutHeadingImpact: "Our Impact"
+aboutImpactText: |
+  Our iOS and macOS apps have been downloaded over **14 million times**, with thousands of top-rated reviews on the App Store.
+
+  We're here to keep building better software — one thoughtful update at a time.
+aboutHeadingContact: "Contact Us"
+aboutContactText: |
+  Thanks for using our apps and supporting independent development. If you ever have ideas or questions, don't hesitate to [contact us](/contact).
+
+# ══════════════════════════════════════
+# Page: Docs
+# ══════════════════════════════════════
+docsIntroText: |
+  This section includes helpful documentation for all Everappz apps — including setup instructions, feature breakdowns, and advanced tips.
+
+  If you're new or looking to learn more, our guides and FAQs are a great place to start.
+docsHeadingGetStarted: "Get Started"
+docsStartText: |
+  - The **User Guide** helps you install, configure, and make the most of our apps.
+  - The **Frequently Asked Questions** cover the most common inquiries we receive, saving you time.
+  - The **How-To** provide step-by-step instructions for specific tasks and features — perfect for quick reference or troubleshooting.
+docsHeadingHelp: "Looking for Help?"
+docsHelpText: |
+  If your question isn't answered in the documentation, please visit our [Support](/support) page to get in touch with us directly. We're happy to assist you.
+docsHeadingLegal: "Legal Information"
+docsLegalText: "For legal policies, data handling practices, and user agreements related to our services, refer to the legal documents below:"
+docsCardLegal: "Legal Center"
+
+# ══════════════════════════════════════
+# Page: Legal
+# ══════════════════════════════════════
+legalIntroText: |
+  Here you can find all important documents and policies that govern the use of our products, services, and website. We are committed to transparency and compliance with data protection and consumer regulations.
+
+  Please review the documents below to understand your rights and responsibilities when interacting with our services.
+legalCardLegalNotice: "Legal Notice"
+legalCardPrivacy: "Privacy Policy"
+legalCardCookie: "Cookie Policy"
+legalCardTerms: "Terms and Conditions"
+legalCardLicense: "License Agreement"
+legalContactText: |
+  If you need any clarification or assistance, please [contact us](/contact).
+
+# ══════════════════════════════════════
+# Page: How-To
+# ══════════════════════════════════════
+howtoIntroText: |
+  This section offers practical, easy-to-follow guides for using Everappz apps.
+
+  Whether you're setting up for the first time or looking for tips on advanced features, you'll find the answers here.
+
+  Explore our tutorials to solve issues, learn new tricks, and make the most of your app experience.
+
+# ══════════════════════════════════════
+# Page: Homepage
+# ══════════════════════════════════════
+
+# Hero
+homeHeroBadge: "14 Million Downloads Worldwide"
+homeHeroSubtitle: "Discover our apps that boost productivity, and make daily tasks easier and more enjoyable."
+
+# Feature cards
+homeFeature1Title: "Built for You. Improved by You."
+homeFeature1Subtitle: "We read all reviews and use your feedback to improve every update."
+homeFeature2Title: "Performance Meets Purpose."
+homeFeature2Subtitle: "No bloat. Just clean, stable apps with features that matter."
+homeFeature3Title: "Privacy. Accessibility. Simplicity."
+homeFeature3Subtitle: "Easy to use, fully accessible, and built with your privacy in mind."
+
+# Section headlines
+homeSectionProducts: "Our Products"
+homeSectionReviews: "App Store Reviews"
+homeSectionSubscribe: "Subscribe"
+
+# Subscribe
+homeSubscribeText: |
+  Join people who get the latest news and exclusive deals from the Everappz team.
+  Don't forget to follow us on social media for the latest news and updates about the app.
+  By subscribing, you agree to our [Privacy Policy](/legal/privacy-policy) and accept the [Terms and Conditions](/legal/terms-and-conditions/).
+homeSubscribeButton: "Subscribe"
+
+# ══════════════════════════════════════
+# Page: Products listing
+# ══════════════════════════════════════
+productsPageIntro: |
+  Discover the full range of Everappz applications designed to enhance your media experience.
+  Each product offers powerful features and seamless integration with iOS and macOS.
+
+# ══════════════════════════════════════
+# App: Soundy
+# ══════════════════════════════════════
+soundyRemovedText: "Soundy was removed from the App Store because we can not support it due to SoundCloud API changes"
+soundyCheckoutBtn: "Checkout our other apps"
+
+# ══════════════════════════════════════
+# App: Evermusic
+# ══════════════════════════════════════
+
+# Hero
+evermusicHeroQuote: |
+  Is the perfect solution for organizing and playing&nbsp;<br class="hx:sm:block hx:hidden" />your own music from the cloud&nbsp;<br class="hx:sm:block hx:hidden" /><strong>chip.de</strong>
+evermusicHeroParagraph: |
+  • Play music with crossfade, gapless playback, and equalizer
+  • Import M3U playlists and download songs for offline listening
+  • Stream music from cloud drives, NAS, computer, or USB flash drives
+  • View lyrics while listening and add audio bookmarks to resume anytime
+
+# Feature cards
+evermusicFeature1Title: "Save Space on Device"
+evermusicFeature1Subtitle: "Got 100Gb of music collected by years but only 32Gb of storage on iPhone? Just move all your tracks to the cloud and free up such valuable space for photos, videos and apps."
+evermusicFeature2Title: "Instant Access to Tracks"
+evermusicFeature2Subtitle: "With support of the most popular cloud services Evermusic allows you to pick one or multiple services and stream your music from the cloud. No more iTunes synchronization, your audio files get uploaded to the cloud from PC or Mac just like other files."
+evermusicFeature3Title: "Offline Mode"
+evermusicFeature3Subtitle: "Offline mode allows you to download favourite albums, tracks, genres and playlists for offline playback and listen to music, when you aren't connected to the Internet."
+evermusicFeature4Title: "Your Music in the Cloud"
+evermusicFeature4Subtitle: "Create your own advanced music streaming service for free! Manage your massive music library, save device storage, and stream your favorite tracks directly from the cloud with smart buffering and seamless playback. Enjoy support for popular cloud services like iCloud, Google Drive, Dropbox, MEGA.nz, Box, OneDrive, and more."
+evermusicFeature5Title: "Transfer Files Easily"
+evermusicFeature5Subtitle: "Connect your Mac or PC and stream music directly from your home computer. Transfer audio files seamlessly between your computer and iOS device using Wi-Fi Drive or iTunes File Sharing. You can also link your NAS or a USB flash drive and access your library from anywhere."
+evermusicFeature6Title: "Automatic Sync"
+evermusicFeature6Subtitle: "Sync Manager automatically scans your cloud storage for audio files and updates your music library. The Metadata Loader organizes tracks by albums, artists, and genres using embedded audio tags."
+
+# Section headlines
+evermusicSectionDesign: "Clean & Simple Design"
+evermusicSectionFeatures: "Full Features Set"
+
+# Screenshot cards
+evermusicCard1Title: "Audio Equalizer"
+evermusicCard1Subtitle: "Fine-tune your sound with an iPod-style audio equalizer, customizable presets, and preamp gain for the best listening experience."
+evermusicCard2Title: "Lyrics Viewer"
+evermusicCard2Subtitle: "Read embedded lyrics and track comments while listening. Enjoy synchronized lyrics for a more immersive music experience."
+evermusicCard3Title: "Playlist Manager"
+evermusicCard3Subtitle: "Create and organize custom playlists, reorder songs, export to M3U, or archive them as ZIP files for easy sharing or backup."
+evermusicCard4Title: "Cloud Music Streaming"
+evermusicCard4Subtitle: "Link top cloud storage platforms like Google Drive, Dropbox, and OneDrive to stream your music collection anytime, anywhere."
+evermusicCard5Title: "File Manager"
+evermusicCard5Subtitle: "Easily manage your audio files—rename tracks, organize folders, and transfer music between devices using built-in tools."
+evermusicCard6Title: "App Customization"
+evermusicCard6Subtitle: "Tailor the player to your style: switch themes, adjust layout, and configure features for a truly personalized music app experience."
+
+# Full feature cards
+evermusicFullFeature1Title: "Audio Formats"
+evermusicFullFeature1Subtitle: "Supports: mp3, m4a, flac, wav, aac, mp4, m3u, m3u8, m4b, m4p, aiff, ogg, mp2, ac3, wma, and more."
+evermusicFullFeature2Title: "Audiobooks"
+evermusicFullFeature2Subtitle: "Includes audio bookmarks, playback speed control, and resume position."
+evermusicFullFeature3Title: "Automatic Sync"
+evermusicFullFeature3Subtitle: "Syncs your music library with the cloud, organized by artist, album, and genre."
+evermusicFullFeature4Title: "File Manager"
+evermusicFullFeature4Subtitle: "Manage files with operations like copy, move, rename, and delete."
+evermusicFullFeature5Title: "Cloud Services"
+evermusicFullFeature5Subtitle: "Supports iCloud, Google Drive, Dropbox, OneDrive, Box, MEGA, WD MyCloud Home, pCloud, and more."
+evermusicFullFeature6Title: "Crossfade Playback"
+evermusicFullFeature6Subtitle: "Next song starts before the current one ends for seamless transitions."
+evermusicFullFeature7Title: "Gapless Playback"
+evermusicFullFeature7Subtitle: "No pauses between songs — ideal for live, classical, or concept albums."
+evermusicFullFeature8Title: "Audio Equalizer"
+evermusicFullFeature8Subtitle: "Customizable equalizer with presets, manual control, and preamp gain."
+evermusicFullFeature9Title: "Advanced Search"
+evermusicFullFeature9Subtitle: "Find your favorite albums, artists, and tracks quickly and easily."
+evermusicFullFeature10Title: "Computer Access"
+evermusicFullFeature10Subtitle: "Connect via SMB, WebDAV, or DLNA. Transfer via iTunes File Sharing and Wi-Fi."
+evermusicFullFeature11Title: "AirPlay & Chromecast"
+evermusicFullFeature11Subtitle: "Stream to Apple TV and Google Chromecast devices wirelessly."
+evermusicFullFeature12Title: "Playlists"
+evermusicFullFeature12Subtitle: "Create, edit, reorder, and export/import M3U playlists with offline mode."
+evermusicFullFeature13Title: "USB Flash Cards"
+evermusicFullFeature13Subtitle: "Play music directly from SD cards using external readers like SanDisk iXpand."
+evermusicFullFeature14Title: "Offline Mode"
+evermusicFullFeature14Subtitle: "Download albums and playlists or auto-cache recently played tracks for offline listening."
+evermusicFullFeature15Title: "Apple CarPlay"
+evermusicFullFeature15Subtitle: "Drive safely with a dedicated CarPlay UI for music playback."
+evermusicFullFeature16Title: "ID3 Tags Editor"
+evermusicFullFeature16Subtitle: "Edit corrupted or missing metadata using the built-in tags editor."
+evermusicFullFeature17Title: "Lyrics and Comments"
+evermusicFullFeature17Subtitle: "View embedded lyrics and comments while listening to your music."
+evermusicFullFeature18Title: "Last.fm"
+evermusicFullFeature18Subtitle: "Connect your Last.fm account to get personalized listening stats and recommendations."
+
+# Pricing
+evermusicPricingFreeSubtitle: |
+  <span class='pricing-details'>• Contain Ads<br />
+  • Playlists (10)<br />
+  • Cloud services (3)<br />
+  • Archive media collections (3)<br />
+  • Favorites (1000)<br />
+  • Songs in playlist (1000)<br />
+  • Songs in queue (750)<br />
+  • Offline folders (1)<br />
+  • Offline albums (1)<br />
+  • Automatic tags search (20)<br />
+  • Export to M3U (5)<br />
+  • Download files<br />
+  • Export iTunes songs</span><br /><br />
+  <span class='hx:block hx:mt-2 hx:text-center'>
+    <span class='pricing-btn hx:inline-block hx:rounded-full hx:border hx:border-gray-200 hx:dark:border-neutral-800 hx:px-3 hx:py-1 hx:transition-all hx:duration-200'>
+      <strong>Free</strong>
+    </span>
+  </span>
+evermusicPricingMonthlySubtitle: |
+  <span class='pricing-details'>• Ad-free experience<br />
+  • Unlimited playlists<br />
+  • Unlimited cloud services<br />
+  • Unlimited media archiving<br />
+  • Unlimited favorites<br />
+  • Unlimited songs in playlist<br />
+  • Unlimited songs in queue<br />
+  • Unlimited offline folders<br />
+  • Unlimited offline albums<br />
+  • Unlimited tags search<br />
+  • Unlimited export to M3U<br />
+  • Download files<br />
+  • Export iTunes songs<br />
+  • Export iTunes collections<br />
+  • Download folders<br />
+  • Download collections<br />
+  • Full personalization</span><br /><br />
+  <span class='hx:block hx:mt-2 hx:text-center'>
+    <span class='pricing-btn hx:inline-block hx:rounded-full hx:border hx:border-gray-200 hx:dark:border-neutral-800 hx:px-3 hx:py-1 hx:transition-all hx:duration-200'>
+      <strong>$1.99</strong>/month
+    </span>
+  </span>
+evermusicPricingYearlySubtitle: |
+  <span class='pricing-details'>• Ad-free experience<br />
+  • Unlimited playlists<br />
+  • Unlimited cloud services<br />
+  • Unlimited media archiving<br />
+  • Unlimited favorites<br />
+  • Unlimited songs in playlist<br />
+  • Unlimited songs in queue<br />
+  • Unlimited offline folders<br />
+  • Unlimited offline albums<br />
+  • Unlimited tags search<br />
+  • Unlimited export to M3U<br />
+  • Download files<br />
+  • Export iTunes songs<br />
+  • Export iTunes collections<br />
+  • Download folders<br />
+  • Download collections<br />
+  • Full personalization</span><br /><br />
+  <span class='hx:block hx:mt-2 hx:text-center'>
+    <span class='pricing-btn hx:inline-block hx:rounded-full hx:border hx:border-gray-200 hx:dark:border-neutral-800 hx:px-3 hx:py-1 hx:transition-all hx:duration-200'>
+      7 days free, then <strong>$12.99</strong>/year
+    </span>
+  </span>
+evermusicPricingLifetimeSubtitle: |
+  <span class='pricing-details'>• Ad-free experience<br />
+  • Unlimited playlists<br />
+  • Unlimited cloud services<br />
+  • Unlimited media archiving<br />
+  • Unlimited favorites<br />
+  • Unlimited songs in playlist<br />
+  • Unlimited songs in queue<br />
+  • Unlimited offline folders<br />
+  • Unlimited offline albums<br />
+  • Unlimited tags search<br />
+  • Unlimited export to M3U<br />
+  • Download files<br />
+  • Export iTunes songs<br />
+  • Export iTunes collections<br />
+  • Download folders<br />
+  • Download collections<br />
+  • Full personalization</span><br /><br />
+  <span class='hx:block hx:mt-2 hx:text-center'>
+    <span class='pricing-btn hx:inline-block hx:rounded-full hx:border hx:border-gray-200 hx:dark:border-neutral-800 hx:px-3 hx:py-1 hx:transition-all hx:duration-200'>
+      <strong>$59.99</strong>/lifetime
+    </span>
+  </span>
+
+# FAQ
+evermusicFAQ1Title: "What is Evermusic?"
+evermusicFAQ1Content: |
+  Evermusic is a music player app that helps you listen to your favorite songs from different cloud storage services.<br>
+  You can easily download music to play offline, create and manage playlists, and use a built-in equalizer to enhance your listening experience.<br>
+  It works with services like Google Drive, Dropbox, OneDrive, and more, so you can keep all your music in one place and access it from any device.<br><br>
+  The app also supports various audio formats and lets you organize your music library by artist, album, genre, and composer.<br>
+  You can sync your library between your cloud storage and your device, ensuring you always have your favorite tunes available.<br>
+  Plus, with features like gapless playback, crossfade, and the ability to stream music to Chromecast and AirPlay devices, Evermusic offers a complete solution for all your music needs.
+evermusicFAQ2Title: "How does Evermusic work?"
+evermusicFAQ2Content: |
+  Evermusic works by connecting to various cloud storage services, such as Google Drive, Dropbox, OneDrive, and others, allowing you to access your music library from any device.<br>
+  Once connected, you can browse and stream your music directly from the cloud, or download your favorite songs, albums, and playlists for offline playback.<br>
+  The app supports multiple audio formats, making it easy to play any music file you have stored.<br><br>
+  In addition to cloud integration, Evermusic offers powerful features to enhance your listening experience.<br>
+  You can create and manage playlists, use the built-in equalizer to adjust sound quality, and enjoy seamless playback with features like gapless playback and crossfade.<br>
+  The app also supports streaming to devices like Chromecast and AirPlay, letting you play your music on any compatible device.<br>
+  With Evermusic, you can organize your music library by artist, album, genre, and composer, and keep it synchronized across your cloud storage and devices, ensuring you always have access to your favorite tunes.<br><br>
+  Moreover, Evermusic allows you to play local files stored directly on your iPhone, iPad, or Mac.<br>
+  You can easily import music from your device's storage or from the iTunes music library.<br>
+  This means you can enjoy your entire music collection, whether it's stored in the cloud or locally on your device.<br>
+  With Evermusic, all your favorite tracks are accessible in one convenient place.<br><br>
+  Explore our how-to guides for more details:<br>
+  - <a href="/docs/howto/how-to-listen-to-music-from-icloud-drive-on-your-iphone-or-mac">How to play music from iCloud Drive on my iPhone or Mac.</a><br>
+  - <a href="/docs/howto/how-to-enable-dlna-media-server-on-windows-10-and-play-your-music-on-iphone">How To Enable DLNA Media Server on Windows 10 and Play Your Music on iPhone.</a><br>
+  - <a href="/docs/howto/how-to-upload-my-files-to-the-cloud-storage-and-connect-them-to-evermusic-flacbox-evertag">How to upload my files to the cloud storage and connect them to Evermusic, Flacbox, Evertag.</a><br>
+  - <a href="/docs/howto/how-to-transfer-files-wirelessly-from-a-computer-to-an-iphone-using-wifi-drive">How to transfer files wirelessly from a computer to an iPhone using WiFi-Drive.</a><br>
+  - <a href="/docs/howto/how-to-connect-a-usb-flashcard-to-the-iphone-and-listen-to-music-or-manage-files-located-on-it">How to connect a USB flashcard to the iPhone and listen to music or manage files located on it.</a><br>
+  - <a href="/docs/howto/how-to-play-music-on-iphone-from-wd-my-cloud-home">How to play music on iPhone from WD My Cloud Home.</a>
+evermusicFAQ3Title: "Is Evermusic Free?"
+evermusicFAQ3Content: |
+  Evermusic is a free application with some limits that you can remove after upgrading to the Premium version. The application offers a one-time lifetime in-app purchase and two subscription options (1 month and 1 year) to remove all restrictions, allowing you to choose the best and most optimal price for you. Prices may vary depending on your country or territory. Also, please keep in mind that Family Sharing is enabled for all purchases and plans, so you can share the Premium version with members of your family.<br><br>
+  Lifetime purchases and subscriptions are shared between iOS and Mac, using iCloud to sync this information. If you have the Premium version on your iOS device, please ensure you have the latest version installed and that iCloud is enabled. Start the app on iOS and wait one minute for your purchase information to upload to iCloud.<br><br>
+  <a href="/docs/faq/evermusic/what-is-the-difference-between-evermusic-and-evermusic-premium/">Read more</a>
+evermusicFAQ4Title: "What is the difference between Evermusic free and Evermusic Premium?"
+evermusicFAQ4Content: |
+  <strong>Evermusic Free</strong><br>
+  • Contains Ads: The free version displays ads to generate revenue, which can occasionally disrupt your music listening.<br>
+  • Limited Playlists: You can create up to (10) playlists in the free version.<br>
+  • Restricted Cloud Services: The free version supports up to (3) cloud services.<br>
+  • Limited Favorites: You can add a maximum of (100) songs to your favorites in the free version.<br>
+  • Playlist and Queue Limits: The free version has limits on the number of songs you can add to a single playlist (1,000) and the maximum number of songs in the player queue (750).<br>
+  • Limited Offline Features: The free version has restrictions on offline access, including only (1) offline folder and the ability to download albums, artists, genres, playlists, and composers offline.<br>
+  • No iTunes Music Collections Export: You cannot export collections from iTunes music to Local Files in the free version.<br>
+  • Limited Tags Searching Features: Offers (20) automatic tags search requests and (20) album art search requests per day.<br>
+  • Limited Media Collections Export: Allows (5) media collections (playlists, albums, artists, genres) exports to M3U/CSV/TXT per day.<br>
+  • Limited Personalization Features: You can use only limited personalization options, and changing the app icon is also restricted.<br><br>
+  <strong>Evermusic Premium</strong><br>
+  • Ad-free experience: Evermusic Premium eliminates ads, providing a seamless and uninterrupted music listening experience.<br>
+  • Unlimited playlists: You can create an unlimited number of playlists with Evermusic Premium.<br>
+  • Unlimited cloud services: Evermusic Premium allows you to connect to an unlimited number of cloud services, expanding your music library access.<br>
+  • Unlimited favorites: You can add an unlimited number of songs to your favorites in Evermusic Premium.<br>
+  • Playlist and queue flexibility: Evermusic Premium removes limitations on playlist and queue size, giving you more control over your music organization.<br>
+  • Extensive offline features: Evermusic Premium offers advanced offline capabilities, including the ability to download folders, albums, artists, genres, playlists, and composers offline.<br>
+  • iTunes music collections export: You can export collections from iTunes music to Local Files.<br>
+  • Unlimited Tags Search: Offers unlimited automatic tags search requests.<br>
+  • Unlimited Album Art Search: Offers unlimited album art search requests.<br>
+  • Unlimited Media Collections Export: Allows unlimited media collections (playlists, albums, artists, genres) exports to M3U/CSV/TXT.<br>
+  • Full Personalization: Provides full personalization options, including the ability to change the app icon.<br><br>
+  <a href="/docs/faq/evermusic/what-is-the-difference-between-evermusic-and-evermusic-premium/">Read more</a>
+evermusicFAQ5Title: "Is Evermusic Safe?"
+evermusicFAQ5Content: |
+  Evermusic uses only official SDK and secure connections to interact with connected cloud services. Your login and password are not available for the application. All requests from the application to the cloud service are encrypted.<br>
+  When you enter login and password the application shows you the official authorization page that is provided by the cloud service provider and all authorization process is made outside the application. The cloud service provider sends an auth-token to the application after successful authorization and that token is used to make API calls.<br><br>
+  Auth-token is a digital key that allows third-party applications to interact with cloud storage. Auth-token is stored on your device in secure system storage called Keychain. You can download your files from the connected cloud service to the device and those files will be placed in the app "Documents" directory. You can remove that files anytime using the built-in file manager.<br>
+  The application does not share any information from the connected cloud account. You can revoke access to your cloud account anytime by opening the account settings page on your web browser.<br><br>
+  To reject auth-token login to your account on the web browser and navigate to the settings page. There you can find all third-party apps which are connected to your cloud account and remove any of them if you don't want to use that application anymore.<br><br>
+  You can also disconnect the connected cloud accounts in the application and auth-token will be also removed from your device. If you remove the application from your device all downloaded data and access tokens will be also removed.<br><br>
+  <a href="/docs/guide/evermusic/evermusic-guide-connections/">Read more</a>
+evermusicFAQ6Title: "How do I make a playlist on Evermusic?"
+evermusicFAQ6Content: |
+  - Open the Playlists section.<br>
+  - Tap the "+" button or the "..." button in the top right corner and select "New Playlist."<br>
+  - Enter a name for the playlist and tap "Save." The "Add Songs" dialog will appear.<br>
+  - Select the tracks you want to add to the playlist.<br><br>
+  <a href="/docs/guide/evermusic/evermusic-guide-playlists/">Read more</a>
+evermusicFAQ7Title: "What cloud services does Evermusic support?"
+evermusicFAQ7Content: |
+  Currently, the application supports the most popular cloud services: iCloud Drive, Google Drive, Dropbox, OneDrive, Box, MEGA, Yandex.Disk, WD MyCloud Home, DLNA, MediaFire, WebDAV, SMB, pCloud, HiDrive, 百度网盘, My Cloud Home, InfiniCLOUD, Cloud Mail.ru, Put.io, MyDrive.<br><br>
+  <a href="/docs/guide/evermusic/evermusic-guide-connections/">Read more</a>
+evermusicFAQ8Title: "How can I use an equalizer?"
+evermusicFAQ8Content: |
+  - Open the Audio Player Screen.<br>
+  - Tap on the "Equalizer" icon on the bottom of the screen.<br>
+  - Toggle switch control in the top right corner on the equalizer screen to activate the equalizer.<br>
+  - Select one of the available presets (rock, pop, dance, disco..) or change equalizer sliders to build your own preset.<br><br>
+  Full tutorial available here:<br>
+  <a href="/docs/howto/how-to-use-the-audio-equalizer-on-your-iphone-ipad-mac-with-evermusic-and-flacbox">How to use the audio equalizer on your iPhone, iPad, Mac with Evermusic and Flacbox</a>
+evermusicFAQ9Title: "How do I enable offline mode in Evermusic?"
+evermusicFAQ9Content: |
+  - Connect a Cloud Service:<br>
+   • Go to the "Connections" tab.<br>
+   • Select "Connect a cloud storage" and follow the prompts to connect your desired service.<br><br>
+  - Navigate to Music Folder:<br>
+   • Open the connected cloud storage and find your music folder.<br><br>
+  - Enable Offline Mode:<br>
+   • Tap the "More actions" button next to the folder name.<br>
+   • Choose "Enable offline mode."<br><br>
+   • The selected folder and all its contents will be downloaded to "Local files" > "Offline folders."<br><br>
+  - Automatic Updates:<br>
+   • The app will continuously scan for changes. New files added to the online folder will be automatically downloaded.<br><br>
+  - Configure Scanning Timeout:<br>
+   • Go to "Settings" > "File manager" > "Offline folders" > "Time interval" to set the scanning frequency.<br><br>
+  - Manual Synchronization:<br>
+   • To sync manually, go to "Settings" > "File manager" > "Offline folders" > "Synchronized offline folders."<br>
+   • Tap "More actions" and select "Start synchronization."<br><br>
+  <a href="/docs/howto/play-offline-music-in-evermusic-flacbox-download-sync-from-cloud-to-local-files/">Read more</a>
+evermusicFAQ10Title: "How to play locally Downloaded music on iPhone?"
+evermusicFAQ10Content: |
+  Once you've installed the application, open the "Local Files" screen and scroll down to the "Files on this iPhone" section.<br>
+  From there, choose "Open files..." if you need to select several audio files or "Open folder..." if you want to pick a music folder.<br>
+  The app will scan the folder's content, and all found audio files will be selected.<br>
+  Navigate to your music folder, tap "Open" to confirm your selection, and the files will be added to the player queue.<br>
+  These files will be played directly from the selected location without being copied to the application bundle.<br><br>
+  <strong>Adding a Folder to Favorites for Quick Access</strong><br>
+  Simplify the process by adding a folder located on your device to your favorites.<br>
+  This way, you won't need to repeat the steps every time you want to play music.<br>
+  Open the "Local Files" screen, scroll to the "Quick Access" section, and tap "Favorites" to access the "Favorite Files" screen.<br>
+  Tap the more actions button (three dots) in the top right corner and select "Add Folder."<br>
+  Navigate to your desired folder and tap "Open" to confirm.<br>
+  Your folder will be added to "Favorite Files," providing quick access to your music.<br><br>
+  <strong>Importing Local Files to the Music Library</strong><br>
+  If you prefer to organize your local files within your music library, open the "Music Library" screen, tap the three dots button at the top right corner, and select "+" (Add Music).<br>
+  Choose the "Local Files" menu item, scroll down to the "Files on this iPhone" section, and tap "Open Files...".<br>
+  Select the files you want to add and tap "Open" to confirm.<br>
+  The app will scan the selected files and add them to your music library, organizing them by metadata such as artist, album, and genre.<br><br>
+  <strong>Adding Local Files to a Playlist</strong><br>
+  To add local files to a playlist, open the "Playlists" screen and tap the more button in the top right corner.<br>
+  Select "+" (New Playlist), enter a name for your new playlist, and on the next screen, select the "Local Files" option.<br>
+  Scroll down to the "Files on this iPhone" section and tap "Open Files...".<br>
+  Select the audio files you want to add and tap "Open" to confirm.<br>
+  The files will be added to your playlist, where you can change the song order and perform other actions using the more button.<br><br>
+  With these simple steps, you can unlock the full potential of your iPhone and Mac as the ultimate platforms for enjoying your cherished local music collection.<br><br>
+  <a href="/docs/howto/how-to-play-local-music-stored-on-your-iphone-or-mac">Read more</a>
+evermusicFAQ11Title: "How can I resume a playlist from where I left off?"
+evermusicFAQ11Content: |
+  First, ensure "Save Audio Player State" is enabled in Settings > Audio Player > General.<br>
+  When you switch to another playlist and return, you will see four actions on the top toolbar under the album artwork: "Search," "Continue Playback," "Play All," and "Shuffle All".<br>
+  Tap "Continue Playback" to resume the playlist from the last saved state and media position.
+evermusicFAQ12Title: "How to view lyrics for songs in Evermusic?"
+evermusicFAQ12Content: |
+  You can view embedded lyrics for tracks in the Evermusic app by following these steps:<br>
+  1. Start playing an audio file by tapping on it.<br>
+  2. Open the full-screen audio player.<br>
+  3. Tap the "More Actions" button in the top right corner to see the more actions menu.<br>
+  4. Select the "View Comments" menu item.<br>
+  5. On the track comments screen, you have three modes which you can change by scrolling to the right: "Comments", "Embedded Lyrics", and "LRC File".<br><br>
+  <strong>Modes</strong>:<br>
+  1. "Comments Mode": Displays the content from the COMMENT field of your audio file.<br>
+  2. "Lyrics Mode": Shows the embedded lyrics from your audio file. If your audio file has lyrics in the tags, they will appear here. This mode also supports timed text in LRC format. To edit the lyrics tag, use an external audio tag editor like Evertag. You can find LRC format lyrics for free on websites like Lyricsify. Copy the needed lyrics to your tags and save them to display later on this screen.<br>
+  3. "LRC File Mode": Instead of editing audio files, you can place an LRC file in the same folder as the original audio file. Both files should have the same name but different extensions. When you swipe to the third page on the Comments screen, the app will search for the LRC file in the same directory and display its content.<br><br>
+  <a href="/docs/howto/how-to-add-and-view-comments-to-your-audio-tracks-on-iphone-ipad-and-mac-with-evermusic-and-flacbox">Read more</a>
+evermusicFAQ13Title: "How do I transfer music to Evermusic from my computer?"
+evermusicFAQ13Content: |
+  You can connect your computer or personal NAS using SMB, WebDAV, or DLNA protocols. Alternatively, use iTunes File Sharing to transfer music.<br><br>
+  To connect a computer using <strong>SMB</strong> protocol tap "Connect a cloud service" → SMB.<br>
+  Enter computer IP address and shared folder name in URL field using format smb://computer-ip-address/shared-folder-name,<br>
+  enter login and password and tap "Done".<br>
+  If your connection is successful you will see connected storage in the "Cloud services" section.<br><br>
+  A full tutorial available here:<br>
+  <a href="/docs/howto/transfer-your-files-from-the-computer-to-iphone-using-smb-protocol/">Transfer your files from the computer to iPhone using SMB protocol</a><br><br>
+  For <strong>WebDAV</strong> protocol, all steps are the same instead of the URL field.<br>
+  URL should be in format http://server-name or https://server-name if the server supports SSL.<br><br>
+  A full tutorial available here:<br>
+  <a href="/docs/howto/how-to-connect-nas-storage-using-webdav-and-listen-to-music-on-your-iphone-or-mac">How to Connect NAS Storage Using WebDAV and Listen to Music on Your iPhone or Mac</a><br><br>
+  <strong>Wi-Fi Drive</strong> is a popular technology that allows you to transfer files from your computer to an iOS device wirelessly using a desktop browser.<br>
+  To use this feature your device and computer should be connected to the same Wi-Fi network.<br>
+  Open "Connections" → "Computer" → "Connect using Wi-Fi" and enable the server.<br>
+  After this open a desktop browser and enter the URL from the application.<br>
+  You can drag-n-drop files from your computer to the opened web page and they will appear on the device.<br><br>
+  More detailed tutorial available here:<br>
+  <a href="/docs/howto/how-to-transfer-files-wirelessly-from-a-computer-to-an-iphone-using-wifi-drive">How to transfer files wirelessly from a computer to an iPhone using WiFi-Drive</a><br><br>
+  <strong>iTunes File Sharing</strong> is another technology that allows you to transfer files from computer to device using iTunes and lightning cable.<br>
+  Just connect a device to the computer using a cable and run iTunes.<br>
+  Open the iTunes → "Applications section" → and find Evermusic.<br>
+  Tap on the app icon to see a shared folder.<br>
+  Copy files from the computer to the shared folder on the device.<br><br>
+  Detailed instruction available here:<br>
+  <a href="/docs/howto/how-to-play-local-itunes-files-on-my-iphone">How to play local files (iTunes files) on my iPhone</a><br><br>
+  With <strong>DLNA</strong> you can also setup DLNA media server and stream your music from Window PC as described here:<br>
+  <a href="/docs/howto/how-to-enable-dlna-media-server-on-windows-10-and-play-your-music-on-iphone">How To Enable DLNA Media Server on Windows 10 and Play Your Music on iPhone</a>
+evermusicFAQ14Title: "How to download music?"
+evermusicFAQ14Content: |
+  Before you can download music and listen to your music offline you should connect network account.<br>
+  Just open the "Connections" screen and add your account.<br>
+  Once you added a network account you can download your music from the cloud.<br><br>
+  <strong>To download music from the cloud</strong><br>
+  – Open connected cloud service.<br>
+  – Navigate inside the folder you want to download.<br>
+  – Tap on the more actions button "..." in the top right corner and choose the "Select" menu item.<br>
+  – Select files you want to download and tap on the "Download" button.<br><br>
+  <strong>To enable offline mode for Artist/Playlist/Album/Genre</strong><br>
+  – Open Artists/Albums/Playlists/Genre Screen<br>
+  – Tap the "Offline mode" checkbox<br>
+  – Offline Artist/Album/Playlist/Genre will appear in the "Offline music" section of the music library<br><br>
+  More detailed instruction about offline mode available here:<br>
+  <a href="/docs/howto/play-offline-music-in-evermusic-flacbox-download-sync-from-cloud-to-local-files/">Play Offline Music in Evermusic &amp; Flacbox: Download &amp; Sync from Cloud to Local Files</a><br><br>
+  Another available option is download music from Youtube and import it in Evermusic as described here:<br>
+  <a href="/docs/howto/how-to-download-music-from-youtube-and-listen-to-offline-music-on-iphone">How to Download Music From YouTube and Listen to Offline Music on iPhone</a>
+evermusicFAQ15Title: "Does Evermusic support Apple CarPlay?"
+evermusicFAQ15Content: |
+  Yes, <strong>Evermusic fully supports Apple CarPlay</strong>. You can browse your music library, play local or offline files, connect to cloud storage, and control playback directly from your car's infotainment screen.
+  The CarPlay interface includes dedicated tabs for <strong>Library</strong>, <strong>Connections</strong>, <strong>Local Files</strong>, and <strong>Settings</strong>, giving you full control over your music on the road. Playback controls, shuffle, repeat, and queue management are also available.
+  To use CarPlay, make sure Siri is enabled and your iPhone is connected via USB or wireless.
+  <a href="/docs/howto/how-to-play-your-own-music-on-iphone-using-carplay/">Read the full guide</a>
+evermusicFAQ16Title: "What audio formats does Evermusic support?"
+evermusicFAQ16Content: |
+  Here's the full list of supported audio formats and their corresponding file extensions:<br><br>
+  <strong>Supported Audio Formats:</strong><br>
+  • AAC (MPEG-4 Advanced Audio Coding)<br>
+  • ALAC (Apple Lossless)<br>
+  • AMR (Adaptive Multi-Rate)<br>
+  • HE-AAC (MPEG-4 High-Efficiency AAC)<br>
+  • iLBC (Internet Low Bitrate Codec)<br>
+  • Linear PCM (Uncompressed, Linear Pulse Code Modulation)<br>
+  • MP3 (MPEG-1 Audio Layer 3)<br>
+  • μ-law and A-law<br>
+  • IMA4 (IMA/ADPCM)<br><br>
+  <strong>Supported Audio File Extensions:</strong><br>
+  mpeg, aifc, 3gp, avi, aif, latm, 3gpp, m4a, loas, cdda, aac, m4p, m4b, ac3, pls, mp4v, m3u, m4r, aiff, xhe, mp1, snd, mp2, wav, qt, wave, m3u8, m4v, mp3, 3g2, caf, mp4, flac, au, w64, ec3, adts, amr, vtt, mpa, aa<br><br>
+  With this wide range of supported formats and file extensions, you can enjoy your music in the format of your choice.
+
+# User Guide
+evermusicGuideIntro: "This guide will help you get the best out of Evermusic on your iPhone, iPad, or Mac. Learn how to stream music from the cloud, manage your audiobooks, and move music between devices. Evermusic gives you full control over your music collection in one easy app."
+evermusicGuide1Subtitle: "Learn how to navigate Evermusic using the Tab Bar on iPhone or the Left Menu on iPad and Mac."
+evermusicGuide2Subtitle: "Connect your cloud accounts and manage online files using the built-in file manager."
+evermusicGuide3Subtitle: "Organize and explore your tracks, albums, and artists in the Music Library."
+evermusicGuide4Subtitle: "Create and arrange playlists to match your mood or occasion."
+evermusicGuide5Subtitle: "Access and manage offline music through the Local Files section."
+evermusicGuide6Subtitle: "Control your playback, queue, and audio settings like equalizer and sleep timer."
+evermusicGuide7Subtitle: "Customize Evermusic's look, features, and performance settings."
+
+# ══════════════════════════════════════
+# App: Evervideo
+# ══════════════════════════════════════
+
+# Hero
+evervideoHeroSubtitle: "HD Video Player & Streamer&nbsp;<br class=\"hx:sm:block hx:hidden\" />For Your iPhone & MAC"
+evervideoHeroParagraph: |
+  • Watch 360° and high-definition videos in all formats
+  • Stream from iCloud, Google Drive, Dropbox, NAS, or your computer
+  • Download videos to watch offline anytime, anywhere
+  • Enable subtitles, use the video equalizer, and organize videos with playlists
+
+# Feature cards
+evervideoFeature1Title: "Play All Video and Audio Formats"
+evervideoFeature1Subtitle: "Watch your videos and listen to music without converting files. Supports MP4, MOV, MKV, AVI, FLV, WMV, WEBM, M4V, MP3, FLAC, AAC, ALAC, OGG, OPUS, WAV, WMA, and more."
+evervideoFeature2Title: "Media Library & Playlists"
+evervideoFeature2Subtitle: "Organize Media Library with tracks grouped by album, genre, or duration. Automatically syncs with cloud changes. Create, edit, and export M3U playlists with custom sorting."
+evervideoFeature3Title: "Audio & Video Equalizer"
+evervideoFeature3Subtitle: "Customize the way your videos look and sound by adjusting bass, pitch, brightness, gamma, saturation, contrast, and more, with 50+ video presets and 20+ audio presets available or the option to create your own."
+evervideoFeature4Title: "Picture-in-Picture"
+evervideoFeature4Subtitle: "Picture-in-Picture (PiP) lets you keep watching videos in a small floating window while using other apps, with full support for all major formats like MKV, AVI, MP4, and MOV, seamless video transitions in queue, automatic playback updates, and active subtitles always visible."
+evervideoFeature5Title: "360° Video & VR Mode"
+evervideoFeature5Subtitle: "Experience 360° and VR videos like never before — move your phone to explore every angle or dive fully in with a VR headset for total immersion. Instantly play 360° videos from Insta360 cameras and similar devices with smooth, effortless playback and no setup required."
+evervideoFeature6Title: "Seamless Streaming & Cloud Connectivity"
+evervideoFeature6Subtitle: "Stream videos directly from your Mac, PC, NAS, USB flash drive, or cloud storage and transfer media files using Wi-Fi Drive or iTunes File Sharing. Enjoy full access to your entire video library anywhere, even remotely, through Synology Drive, WD My Cloud Home, and similar NAS devices."
+
+# Section headlines
+evervideoSectionAllFeatures: "All Features"
+evervideoSectionDesign: "Intuitive Design"
+
+# All feature cards
+evervideoCard1Title: "Play All Video and Audio Formats"
+evervideoCard1Subtitle: "Watch your media without converting files. Evervideo supports all major formats, including MKV, AVI, MP4, MOV, FLAC, MP3, AAC, OGG, WAV, WMV, and more."
+evervideoCard2Title: "Offline Mode"
+evervideoCard2Subtitle: "Download videos, albums, and playlists to watch without an internet connection. Take your entire video collection anywhere."
+evervideoCard3Title: "360° Video & VR Mode"
+evervideoCard3Subtitle: "Watch 360° and VR videos in a fun and easy way. Move your phone around to look in any direction, or put it into a VR headset to feel like you're inside the video."
+evervideoCard4Title: "Picture-in-Picture"
+evervideoCard4Subtitle: "Keep watching videos in a small floating window while using other apps. Control playback and see subtitles at the same time – perfect for multitasking."
+evervideoCard5Title: "Video & Audio Equalizer"
+evervideoCard5Subtitle: "Customize the way your videos look and sound. Adjust bass, pitch, brightness, gamma, saturation, contrast, and more. Choose from 50+ video presets and 20+ audio presets, or create your own."
+evervideoCard6Title: "Subtitles"
+evervideoCard6Subtitle: "View embedded subtitles, select subtitle track number, and enjoy full subtitle support even in Picture-in-Picture mode."
+evervideoCard7Title: "Play Directly from Cloud"
+evervideoCard7Subtitle: "Watch videos directly from your cloud storage without using device space. Supports iCloud Drive, Google Drive, Dropbox, OneDrive, MEGA, Synology Drive, pCloud, and more."
+evervideoCard8Title: "Connect Computer / NAS"
+evervideoCard8Subtitle: "Easily connect your NAS, Mac, or PC over your home network using SMB, WebDAV, or DLNA. Remote access is supported for Synology Drive and WD MyCloud Home. Transfer media files to your device via Wi-Fi or iTunes File Sharing."
+evervideoCard9Title: "Media Library"
+evervideoCard9Subtitle: "Organize by album, genre, or duration. Automatically syncs with cloud changes. Create, edit, and export M3U playlists with custom sorting."
+evervideoCard10Title: "Bookmarks & Playback Position Saving"
+evervideoCard10Subtitle: "Save your place in any video with bookmarks and resume playback from where you left off. Adjust playback speed, mark favorites, and sort videos by most played for easy access."
+evervideoCard11Title: "AirPlay & Chromecast"
+evervideoCard11Subtitle: "Play videos on a bigger screen by streaming to Apple TV, Chromecast, or any compatible external display."
+evervideoCard12Title: "Import from Files & Libraries"
+evervideoCard12Subtitle: "Import videos directly from the Files app, Photos, or your iTunes Library. Access all your local and cloud content in one organized media library."
+evervideoCard13Title: "File Manager"
+evervideoCard13Subtitle: "Move, rename, delete, and organize files directly inside the app."
+evervideoCard14Title: "Personalization"
+evervideoCard14Subtitle: "Customize the app to fit your preferences. Choose themes, show or hide features, and adjust the interface to your needs."
+evervideoCard15Title: "Smart Search"
+evervideoCard15Subtitle: "Quickly find videos, albums, or playlists in your media library using keywords or filters."
+
+# Design cards
+evervideoDesign1Title: "Video Player"
+evervideoDesign1Subtitle: "Watch HD videos with playback speed, pitch, repeat, and shuffle controls. Supports nearly all audio and video formats."
+evervideoDesign2Title: "Audio & Video Equalizer"
+evervideoDesign2Subtitle: "Improve sound and video quality with presets, bass boost, brightness, contrast, and more adjustments."
+evervideoDesign3Title: "Playlists Manager"
+evervideoDesign3Subtitle: "Create and edit playlists, reorder tracks, and export as ZIP for sharing or backup."
+evervideoDesign4Title: "Media Library"
+evervideoDesign4Subtitle: "Keep all your videos and audio in one place with smart search and sorting tools."
+evervideoDesign5Title: "Cloud Storage"
+evervideoDesign5Subtitle: "Stream videos directly from iCloud, Google Drive, Dropbox, OneDrive, MEGA, and more."
+evervideoDesign6Title: "File Manager"
+evervideoDesign6Subtitle: "Organize, move, rename, and delete media files and folders easily within the app."
+
+# Pricing
+evervideoPricingFreeSubtitle: |
+  <span class='pricing-details'>• Contain Ads<br />
+  • Playlists (10)<br />
+  • Cloud services (3)<br />
+  • Archive media collections (3)<br />
+  • Favorites (100)<br />
+  • Songs in playlist (1000)<br />
+  • Songs in queue (750)<br />
+  • Offline folders (1)<br />
+  • Offline albums (1)<br />
+  • Export iTunes videos<br />
+  • Export Photos videos<br />
+  • Download files</span><br /><br />
+  <span class='hx:block hx:mt-2 hx:text-center'>
+    <span class='pricing-btn hx:inline-block hx:rounded-full hx:border hx:border-gray-200 hx:dark:border-neutral-800 hx:px-3 hx:py-1 hx:transition-all hx:duration-200'>
+      <strong>Free</strong>
+    </span>
+  </span>
+evervideoPricingMonthlySubtitle: |
+  <span class='pricing-details'>• Ad-free experience<br />
+  • Unlimited playlists<br />
+  • Unlimited cloud services<br />
+  • Unlimited media archiving<br />
+  • Unlimited favorites<br />
+  • Unlimited songs in playlist<br />
+  • Unlimited songs in queue<br />
+  • Unlimited offline folders<br />
+  • Unlimited offline albums<br />
+  • Unlimited export from iTunes<br />
+  • Unlimited export from Photos<br />
+  • Download files<br />
+  • Download folders<br />
+  • Download collections<br />
+  • Full personalization</span><br /><br />
+  <span class='hx:block hx:mt-2 hx:text-center'>
+    <span class='pricing-btn hx:inline-block hx:rounded-full hx:border hx:border-gray-200 hx:dark:border-neutral-800 hx:px-3 hx:py-1 hx:transition-all hx:duration-200'>
+      <strong>$1.99</strong>/month
+    </span>
+  </span>
+evervideoPricingYearlySubtitle: |
+  <span class='pricing-details'>• Ad-free experience<br />
+  • Unlimited playlists<br />
+  • Unlimited cloud services<br />
+  • Unlimited media archiving<br />
+  • Unlimited favorites<br />
+  • Unlimited songs in playlist<br />
+  • Unlimited songs in queue<br />
+  • Unlimited offline folders<br />
+  • Unlimited offline albums<br />
+  • Unlimited export from iTunes<br />
+  • Unlimited export from Photos<br />
+  • Download files<br />
+  • Download folders<br />
+  • Download collections<br />
+  • Full personalization</span><br /><br />
+  <span class='hx:block hx:mt-2 hx:text-center'>
+    <span class='pricing-btn hx:inline-block hx:rounded-full hx:border hx:border-gray-200 hx:dark:border-neutral-800 hx:px-3 hx:py-1 hx:transition-all hx:duration-200'>
+      7 days free, then <strong>$12.99</strong>/year
+    </span>
+  </span>
+evervideoPricingLifetimeSubtitle: |
+  <span class='pricing-details'>• Ad-free experience<br />
+  • Unlimited playlists<br />
+  • Unlimited cloud services<br />
+  • Unlimited media archiving<br />
+  • Unlimited favorites<br />
+  • Unlimited songs in playlist<br />
+  • Unlimited songs in queue<br />
+  • Unlimited offline folders<br />
+  • Unlimited offline albums<br />
+  • Unlimited export from iTunes<br />
+  • Unlimited export from Photos<br />
+  • Download files<br />
+  • Download folders<br />
+  • Download collections<br />
+  • Full personalization</span><br /><br />
+  <span class='hx:block hx:mt-2 hx:text-center'>
+    <span class='pricing-btn hx:inline-block hx:rounded-full hx:border hx:border-gray-200 hx:dark:border-neutral-800 hx:px-3 hx:py-1 hx:transition-all hx:duration-200'>
+      <strong>$59.99</strong>/lifetime
+    </span>
+  </span>
+
+# FAQ
+evervideoFAQ1Title: "How does Evervideo work?"
+evervideoFAQ1Content: |
+  Evervideo is a HD video player that lets you manage video tracks like regular files.<br>
+  You can upload your entire video collection to cloud services like Dropbox, OneDrive, iCloud, or a personal NAS and play video directly from the cloud with full control.<br><br>
+  No iTunes sync is needed—just upload from your PC or Mac like you do with any file.<br>
+  To listen offline, use the built-in download manager to save video to your device.<br><br>
+  Explore our how-to guides for more details:<br>
+  - <a href="/docs/guide/evervideo/">Evervideo guide</a><br>
+  - <a href="/docs/howto/how-to-transfer-files-wirelessly-from-a-computer-to-an-iphone-using-wifi-drive">How to transfer files wirelessly from a computer to an iPhone using WiFi-Drive.</a>
+evervideoFAQ2Title: "Is Evervideo Free?"
+evervideoFAQ2Content: |
+  Evervideo is free to use with some limitations, which can be removed by upgrading to the Premium version.<br>
+  You can choose between a one-time lifetime purchase or two subscription options (monthly or yearly). Prices may vary based on your region.<br><br>
+  Family Sharing is enabled for all plans, so you can share the Premium version with your family members.<br><br>
+  Premium purchases and subscriptions are shared across iOS and Mac via iCloud. To sync your purchase, make sure iCloud is enabled, open the app on your iOS device, and wait a minute for sync to complete.<br><br>
+  <a href="/docs/faq/evervideo/what-is-the-difference-between-evervideo-and-evervideo-premium/">Read more about the differences between Evervideo and Evervideo Premium</a>
+evervideoFAQ3Title: "How do I use Evervideo?"
+evervideoFAQ3Content: |
+  <strong>Install Evervideo</strong><br>
+  Download and install the Evervideo app from your device's app store. It's available for both iOS and Mac devices.<br><br>
+  <strong>Open the App</strong><br>
+  Launch Evervideo by tapping its icon on your device's home screen.<br><br>
+  <strong>Connect Your Cloud Service</strong><br>
+  • Open the <strong>Files</strong> tab.<br>
+  • Select <strong>Connect to cloud storage</strong> from the menu.<br>
+  • Choose your desired cloud storage service from the list.<br>
+  • Enter your credentials and tap <strong>Done</strong>.<br><br>
+  <strong>Import Files Located On Your Device</strong><br>
+  You can import files from your device, an external USB flash drive, a personal computer, or a NAS.<br>
+  • Open the <strong>Files</strong> tab.<br>
+  • Tap <strong>Open the files...</strong> or <strong>Open the folders...</strong> from the <strong>Files on this device</strong> menu.<br>
+  • Choose files or folders located on your device.<br>
+  • Tap <strong>Open</strong> to import files to the app.<br><br>
+  <strong>Add Your Video</strong><br>
+  You have two options to add video to Evervideo: manual addition or automatic synchronization.<br><br>
+  <strong>Manual Addition</strong><br>
+  • Open <strong>Library</strong> section.<br>
+  • Tap on the <strong>Add</strong> or similar menu item.<br>
+  • Select folders/files from your connected cloud storage services or local files.<br>
+  • Evervideo creates links to your tracks, preserving the original files' locations.<br>
+  • To make tracks available offline, use the built-in download manager or enable offline mode.<br><br>
+  <strong>Automatic Synchronization</strong><br>
+  • Go to the <strong>Settings</strong> -> <strong>Library</strong>.<br>
+  • Select <strong>Online synchronization</strong> -> <strong>Wi-Fi</strong> -> <strong>Synchronized online folders</strong> to enable automatic synchronization.<br>
+  • The app scans selected folders, identifies media files, and integrates them into your library.<br><br>
+  <strong>Explore Your Video Library</strong><br>
+  • Organized by source types and metadata tags.<br>
+  • Filters: online files, offline files, etc.<br>
+  • Categories: All videos, Albums, Artists, Genres, etc.<br>
+  • Use <strong>Search</strong> to find media tracks quickly.<br><br>
+  <strong>Customize Your Settings</strong><br>
+  • Tap the three dots button to access <strong>More actions</strong> and <strong>Settings</strong>.<br>
+  • Adjust metadata sync, personalization, playlists, recents, and favorites.<br><br>
+  <strong>Enjoy Your Video</strong><br>
+  Once your video is organized, use the top toolbar for quick actions like <strong>Search</strong>, <strong>Play All</strong>, <strong>Shuffle</strong>, and <strong>Continue Playback</strong>.
+evervideoFAQ4Title: "Is Evervideo Safe?"
+evervideoFAQ4Content: |
+  Evervideo uses only official SDK and secure connections to interact with connected cloud services. Your login and password are not available for the application. All requests from the application to the cloud service are encrypted.<br>
+  When you enter login and password the application shows you the official authorization page that is provided by the cloud service provider and all authorization process is made outside the application. The cloud service provider sends an auth-token to the application after successful authorization and that token is used to make API calls.<br><br>
+  Auth-token is a digital key that allows third-party applications to interact with cloud storage. Auth-token is stored on your device in secure system storage called Keychain. You can download your files from the connected cloud service to the device and those files will be placed in the app "Documents" directory. You can remove that files anytime using the built-in file manager.<br>
+  The application does not share any information from the connected cloud account. You can revoke access to your cloud account anytime by opening the account settings page on your web browser.<br><br>
+  To reject auth-token login to your account on the web browser and navigate to the settings page. There you can find all third-party apps which are connected to your cloud account and remove any of them if you don't want to use that application anymore.<br><br>
+  You can also disconnect the connected cloud accounts in the application and auth-token will be also removed from your device. If you remove the application from your device all downloaded data and access tokens will be also removed.
+evervideoFAQ5Title: "How do I make a playlist on Evervideo?"
+evervideoFAQ5Content: |
+  - Open the Playlists section.<br>
+  - Tap the "+" button or the "..." button in the top right corner and select "New Playlist."<br>
+  - Enter a name for the playlist and tap "Save." The "Add Media Files" dialog will appear.<br>
+  - Select the tracks you want to add to the playlist.
+evervideoFAQ6Title: "What cloud services does Evervideo support?"
+evervideoFAQ6Content: "Currently, the application supports the most popular cloud services: iCloud Drive, Google Drive, Dropbox, OneDrive, Box, MEGA, Yandex.Disk, DLNA, MediaFire, WebDAV, SMB, pCloud, Cloud Mail.ru, Put.io."
+evervideoFAQ7Title: "How do I enable offline mode in Evervideo?"
+evervideoFAQ7Content: |
+  - Connect to Cloud Storage:<br>
+   • Go to the "Files" tab.<br>
+   • Select "Connect to cloud storage" and follow the prompts to connect your desired service.<br><br>
+  - Navigate to Media Files Folder:<br>
+   • Open the connected cloud storage service and find your media folder.<br><br>
+  - Enable Offline Mode:<br>
+   • Tap the "More actions" button next to the folder name.<br>
+   • Choose "Enable offline mode."<br><br>
+  - Download Content:<br>
+   • The selected folder and all its contents will be downloaded to "Files" > "Offline folders."<br><br>
+  - Automatic Updates:<br>
+   • The app will continuously scan for changes. New files added to the online folder will be automatically downloaded.<br><br>
+  - Configure Scanning Timeout:<br>
+   • Go to "Settings" > "File manager" > "Offline folders" > "Time interval" to set the scanning frequency.<br><br>
+  - Manual Synchronization:<br>
+   • To sync manually, go to "Settings" > "File manager" > "Offline folders" > "Synchronized offline folders."<br>
+   • Tap "More actions" and select "Start synchronization."
+evervideoFAQ8Title: "How to play locally Downloaded videos on iPhone?"
+evervideoFAQ8Content: |
+  Once you've installed the application, open the "Files" screen and scroll down to the "Files on this iPhone" section. From there, choose "Open files..." if you need to select several files or "Open folder..." if you want to pick a media folder. The app will scan the folder's content, and all found media files will be selected. Navigate to your media folder, tap "Open" to confirm your selection, and the files will be added to the player queue. These files will be played directly from the selected location without being copied to the application bundle.<br><br>
+  <strong>Adding a Folder to Favorites for Quick Access</strong><br>
+  Simplify the process by adding a folder located on your device to your favorites. This way, you won't need to repeat the steps every time you want to play music. Open the "Files" screen, scroll to the "Quick Access" section, and tap "Favorites" to access the "Favorite Files" screen. Tap the more actions button (three dots) in the top right corner and select "Add Folder." Navigate to your desired folder and tap "Open" to confirm. Your folder will be added to "Favorite Files," providing quick access to your media files.<br><br>
+  <strong>Importing Local Files to the Library</strong><br>
+  If you prefer to organize your local files within your library, open the "Library" screen, tap the three dots button at the top right corner, and select "+ Add media files". Choose the "Files on this device" menu item, and tap "Open Files...". Select the files you want to add and tap "Open" to confirm. The app will scan the selected files and add them to your library, organizing them by metadata.<br><br>
+  <strong>Adding Local Files to a Playlist</strong><br>
+  To add local files to a playlist, open the "Playlists" screen and tap the more button in the top right corner. Select "+ New Playlist," enter a name for your new playlist, and on the next screen, select the "Files on this device" option and tap "Open Files...". Select the media files you want to add and tap "Open" to confirm. The files will be added to your playlist, where you can change the tracks order and perform other actions using the more button.
+evervideoFAQ9Title: "How can I resume a playlist from where I left off?"
+evervideoFAQ9Content: "First, ensure \"Save Media Player State\" is enabled in Settings > Media Player > General. When you switch to another playlist and return, you will see four actions on the top toolbar under the album artwork: \"Search,\" \"Continue Playback,\" \"Play All,\" and \"Shuffle All.\" Tap \"Continue Playback\" to resume the playlist from the last saved state and media position."
+evervideoFAQ10Title: "How do I transfer video to Evervideo from my computer?"
+evervideoFAQ10Content: |
+  You can connect your computer or personal NAS using SMB, WebDAV, or DLNA protocols. Alternatively, use iTunes File Sharing to transfer media files.<br><br>
+  To connect a computer using SMB protocol tap "Files" "Connect to cloud storage" → SMB. Enter computer IP address and shared folder name in URL field using format smb://computer-ip-address/shared-folder-name, enter login and password and tap "Done". If your connection is successful you will see connected storage in the "Cloud storage" section.<br><br>
+  A full tutorial available here:<br>
+  <a href="/docs/howto/transfer-your-files-from-the-computer-to-iphone-using-smb-protocol/">Transfer your files from the computer to iPhone using SMB protocol</a><br><br>
+  For WebDAV protocol, all steps are the same instead of the URL field. URL should be in format http://server-name or https://server-name if the server supports SSL.<br><br>
+  Wi-Fi Drive is a popular technology that allows you to transfer files from your computer to an iOS device wirelessly using a desktop browser. To use this feature your device and computer should be connected to the same Wi-Fi network. Open "Files" → "Computer" → "Connect using Wi-Fi" and enable the server. After this open a desktop browser and enter the URL from the application. You can drag-n-drop files from your computer to the opened web page and they will appear on the device.<br>
+  More detailed tutorial available here:<br>
+  <a href="/docs/howto/how-to-transfer-files-wirelessly-from-a-computer-to-an-iphone-using-wifi-drive">How to transfer files wirelessly from a computer to an iPhone using WiFi-Drive</a><br><br>
+  iTunes File Sharing is another technology that allows you to transfer files from computer to device using iTunes and lightning cable. Just connect a device to the computer using a cable and run iTunes. Open the iTunes → "Applications section" → and find Evervideo. Tap on the app icon to see a shared folder. Copy files from the computer to the shared folder on the device.<br><br>
+  Detailed instruction available here:<br>
+  <a href="/docs/howto/how-to-play-local-itunes-files-on-my-iphone">How to play local files (iTunes files) on my iPhone</a>
+evervideoFAQ11Title: "How to download video?"
+evervideoFAQ11Content: |
+  Before you can download video and watch it offline you should connect a cloud storage.<br>
+  Just open the "Files" screen and connect your cloud storage.<br>
+  Once you added it you can download your video from the cloud.<br><br>
+  <strong>To download video from the cloud</strong><br>
+  – Open connected cloud storage.<br>
+  – Navigate inside the folder you want to download.<br>
+  – Tap on the more actions button "..." in the top right corner and choose the "Select" menu item.<br>
+  – Select files you want to download and tap on the "Download" button.<br><br>
+  <strong>To enable offline mode for Artist/Playlist/Album</strong><br>
+  – Open Artists/Albums/Playlists Screen<br>
+  – Tap the "Offline mode" checkbox<br>
+  – Offline Artist/Album/Playlist will appear in the "Files" -> "Offline folders" section.
+evervideoFAQ12Title: "What audio formats does Evervideo support?"
+evervideoFAQ12Content: |
+  This app supports default <strong>system audio codecs</strong> and additional <strong>ffmpeg software codecs</strong>:<br><br>
+  3g2, 3gp, 3gp2, 3gpp, 8svx, aa, aac, aax, ac3, act, adt, adts, aif, aifc, aiff, alac, amr, amv, ape, asf, au, avi, awb, caf, cavs, cdda, cue, dct, dff, drc, dsf, dss, dvf, "dvr-ms", ec3, f4a, f4b, f4p, f4v, flac, flv, gif, gifv, gsm, gxf, h261, h263, h264, ifv, iklax, ivf, ivs, l16, latm, loas, m2t, m2ts, m2v, m3u, m3u8, m4a, m4b, m4p, m4r, m4v, mka, mkv, mmf, mng, mod, mogg, mov, mp1, mp2, mp3, mp4, mp4v, mpa, mpc, mpe, mpeg, mpg, mpv, msv, mts, mxf, nsf, nsv, nut, oga, ogg, ogv, opus, pcm, pls, qt, ra, raw, rm, rmvb, roq, rv, sln, snd, svi, tod, tta, vob, voc, vox, vtt, w64, wav, wave, webm, wma, wmv, wv, xhe, xmv, y4m, yuv.
+evervideoFAQ13Title: "Does Evervideo work with NAS devices?"
+evervideoFAQ13Content: |
+  Yes, Evervideo supports NAS connections using <strong>SMB</strong>, <strong>WebDAV</strong>, and <strong>DLNA</strong> protocols.<br><br>
+  <strong>To connect a NAS using SMB protocol:</strong><br>
+  • Tap <strong>Files</strong> -> <strong>"Connect to cloud storage" → SMB</strong>.<br>
+  • Enter the NAS server IP address and shared folder name in this format: <code>smb://your-ip/shared-folder</code><br>
+  • Choose protocol version: <strong>Auto</strong>, <strong>SMB1</strong>, or <strong>SMB2</strong>.<br>
+  • Enter your login and password (if required).<br>
+  • Tap <strong>"Done"</strong>.<br><br>
+  If the connection is successful, you'll see your NAS in the <strong>Cloud storage</strong> section.<br><br>
+  <strong>To connect via WebDAV protocol:</strong><br>
+  • Steps are the same as SMB, but use a WebDAV URL like <code>http://your-server-name</code> or <code>https://your-server-name</code> if using SSL.<br><br>
+  <strong>To stream via DLNA:</strong><br>
+  • You can stream from a Windows PC by enabling its DLNA media server.<br>
+  <a href="/docs/howto/how-to-enable-dlna-media-server-on-windows-10-and-play-your-music-on-iphone">Read the DLNA setup guide</a><br><br>
+  <strong>Available Devices section:</strong><br>
+  • Shows all discoverable NAS devices on your local network.<br>
+  • Tap a device name to connect, then enter login credentials if needed.
+evervideoFAQ14Title: "How do I use the Wi-Fi Drive feature in Evervideo?"
+evervideoFAQ14Content: |
+  <strong>Wireless transfer using a desktop browser</strong><br>
+  1. Launch the app: Open Evervideo.<br>
+  2. Connect via Wi-Fi: Go to Files → "Computer" → "Connect via Wi-Fi".<br>
+  3. (Optional) Add security: Enter a username and password if needed.<br>
+  4. Start Wi-Fi Drive: Tap "Start Wi-Fi Drive" and copy the provided URL.<br>
+  5. Open a browser (Safari, Chrome, Opera, Firefox, etc.) and enter the URL.<br>
+  6. Use the built-in file manager to upload, download, rename, or delete files. You can drag and drop files directly to your iPhone.<br>
+  7. When done, tap "Stop Wi-Fi Drive" on your iPhone.<br><br>
+  Note: Ensure JavaScript is enabled and you're using the latest browser version for best performance.<br><br>
+  <strong>Transfer files using Mac Finder</strong><br>
+  1. In Finder, click "Go" → "Connect to Server…".<br>
+  2. Enter the server URL shown in the Evervideo app.<br>
+  3. Click "Connect" and manage files on your iPhone like any network drive.<br><br>
+  <strong>Transfer files using Windows File Explorer</strong><br>
+  1. Right-click "This PC" → "Map Network Drive…".<br>
+  2. Enter the server URL from the Evervideo app in the "Folder" field.<br>
+  3. Choose a drive letter, click "Finish", and browse your iPhone's files directly.<br><br>
+  <a href="/docs/howto/how-to-transfer-files-wirelessly-from-a-computer-to-an-iphone-using-wifi-drive">Read more</a>
+
+# ══════════════════════════════════════
+# App: Flacbox
+# ══════════════════════════════════════
+
+# Hero
+flacboxHeroSubtitle: "Hi-Res Audio Player and Streamer&nbsp;<br class=\"hx:sm:block hx:hidden\" />for iPhone and MAC"
+flacboxHeroParagraph: |
+  • Play FLAC, ALAC, APE, DSD and more with lossless quality
+  • Download music and listen offline with full control
+  • Stream from Google Drive, Dropbox, NAS, or computer
+
+# Feature cards
+flacboxFeature1Title: "Stream Lossless Music"
+flacboxFeature1Subtitle: "Enjoy lossless music on iPhone, iPad, and Mac without subscriptions.<br><br>Connect your cloud storage to stream FLAC, ALAC, MKA and more for free. Easily cast to Chromecast and AirPlay devices.<br><br>Build your music library, organize tracks by album, artist, and genre. Enhance audio with a built-in equalizer, pitch/speed control, and bass boost."
+flacboxFeature2Title: "Play High-Res Audio"
+flacboxFeature2Subtitle: "Enjoy studio-quality sound with support for over 120 audio formats, including FLAC, ALAC, WAV, AIFF, and DSD.<br><br>Flacbox also plays MP3, AAC, OGG, APE, MOD, MKA, and advanced containers like MKV, MP4, and MOV.<br><br>With wide codec compatibility, your entire collection is accessible no conversion needed."
+flacboxFeature3Title: "Download & Listen Offline"
+flacboxFeature3Subtitle: "Stay connected to your music even when you're offline.<br><br>Download entire albums, genres, playlists, and tracks to your device. Use Wi-Fi Drive or iTunes File Sharing to transfer audio from Mac or PC.<br><br>Stream from USB flash drives or network storage (NAS) and enjoy your full music library without Internet access."
+
+# Section headlines
+flacboxSectionFeatures: "All-Inclusive Features"
+flacboxSectionDesign: "Intuitive Design"
+
+# All feature cards
+flacboxCard1Title: "Lossless Audio Support"
+flacboxCard1Subtitle: "Play FLAC, ALAC, WAV, APE, DFF, WV, AIFF, and many other high-quality formats."
+flacboxCard2Title: "Offline Mode"
+flacboxCard2Subtitle: "Download albums, playlists, and tracks for offline playback anytime."
+flacboxCard3Title: "File Management"
+flacboxCard3Subtitle: "Easily copy, move, rename, and delete files within the app."
+flacboxCard4Title: "Custom Playlists"
+flacboxCard4Subtitle: "Create, edit, reorder playlists, and export or import M3U files."
+flacboxCard5Title: "Media Library"
+flacboxCard5Subtitle: "Add music and organize it by album, artist, and genre using tags."
+flacboxCard6Title: "Advanced Search"
+flacboxCard6Subtitle: "Quickly find songs, artists, or albums with smart search tools."
+flacboxCard7Title: "Cloud Streaming"
+flacboxCard7Subtitle: "Stream from Google Drive, Dropbox, OneDrive, iCloud, MEGA, and more."
+flacboxCard8Title: "NAS & Computer Access"
+flacboxCard8Subtitle: "Connect via SMB, DLNA, or WebDAV. Transfer with iTunes or Wi-Fi."
+flacboxCard9Title: "USB Flash Cards"
+flacboxCard9Subtitle: "Play music directly from SD cards using USB adapters like iXpand."
+flacboxCard10Title: "Playback Controls"
+flacboxCard10Subtitle: "Change playback speed and pitch for perfect audio control."
+flacboxCard11Title: "Lyrics & Comments"
+flacboxCard11Subtitle: "View embedded lyrics and comments while playing songs."
+flacboxCard12Title: "ID3 Tag Editor"
+flacboxCard12Subtitle: "Edit and fix metadata like title, artist, or album with the built-in tool."
+flacboxCard13Title: "Equalizer & Boost"
+flacboxCard13Subtitle: "Use presets or adjust manually with preamp gain for rich sound."
+flacboxCard14Title: "Apple CarPlay"
+flacboxCard14Subtitle: "Drive safely with a dedicated CarPlay UI for music playback."
+flacboxCard15Title: "AirPlay & Chromecast"
+flacboxCard15Subtitle: "Stream to Apple TV and Google Chromecast devices wirelessly."
+flacboxCard16Title: "Last.fm Integration"
+flacboxCard16Subtitle: "Track music stats and get personalized song recommendations."
+flacboxCard17Title: "Automatic Sync"
+flacboxCard17Subtitle: "Auto-sync your music library with cloud and local folders."
+flacboxCard18Title: "Audiobook Support"
+flacboxCard18Subtitle: "Listen to audiobooks with bookmarks, sleep timer, and resume playback from where you stopped."
+
+# Screenshot cards
+flacboxScreenshot1Title: "Audio Player"
+flacboxScreenshot1Subtitle: "Advanced music player with repeat, shuffle, speed control, and pitch adjustment."
+flacboxScreenshot2Title: "Audio Equalizer"
+flacboxScreenshot2Subtitle: "Custom equalizer with presets, bass boost, and preamp for better sound."
+flacboxScreenshot3Title: "Playlists Manager"
+flacboxScreenshot3Subtitle: "Make playlists, change song order, export to M3U or ZIP for backup or sharing."
+flacboxScreenshot4Title: "Media Library"
+flacboxScreenshot4Subtitle: "Organize songs by album, artist, or genre using audio tags and metadata."
+flacboxScreenshot5Title: "Cloud Storage"
+flacboxScreenshot5Subtitle: "Stream music from Google Drive, Dropbox, OneDrive, and other cloud services."
+flacboxScreenshot6Title: "iCloud Drive"
+flacboxScreenshot6Subtitle: "Store lossless music in iCloud and stream it directly without downloading."
+
+# Pricing
+flacboxPricingFreeSubtitle: |
+  <span class='pricing-details'>• Contain Ads<br />
+  • Playlists (10)<br />
+  • Cloud services (3)<br />
+  • Archive media collections (3)<br />
+  • Favorites (1000)<br />
+  • Songs in playlist (1000)<br />
+  • Songs in queue (750)<br />
+  • Offline folders (1)<br />
+  • Offline albums (1)<br />
+  • Automatic tags search (20)<br />
+  • Export to M3U (5)<br />
+  • Download files</span><br /><br />
+  <span class='hx:block hx:mt-2 hx:text-center'>
+    <span class='pricing-btn hx:inline-block hx:rounded-full hx:border hx:border-gray-200 hx:dark:border-neutral-800 hx:px-3 hx:py-1 hx:transition-all hx:duration-200'>
+      <strong>Free</strong>
+    </span>
+  </span>
+flacboxPricingMonthlySubtitle: |
+  <span class='pricing-details'>• Ad-free experience<br />
+  • Unlimited playlists<br />
+  • Unlimited cloud services<br />
+  • Unlimited media archiving<br />
+  • Unlimited favorites<br />
+  • Unlimited songs in playlist<br />
+  • Unlimited songs in queue<br />
+  • Unlimited offline folders<br />
+  • Unlimited offline albums<br />
+  • Unlimited tags search<br />
+  • Unlimited export to M3U<br />
+  • Download files<br />
+  • Download folders<br />
+  • Download collections<br />
+  • Full personalization</span><br /><br />
+  <span class='hx:block hx:mt-2 hx:text-center'>
+    <span class='pricing-btn hx:inline-block hx:rounded-full hx:border hx:border-gray-200 hx:dark:border-neutral-800 hx:px-3 hx:py-1 hx:transition-all hx:duration-200'>
+      <strong>$2.99</strong>/month
+    </span>
+  </span>
+flacboxPricingYearlySubtitle: |
+  <span class='pricing-details'>• Ad-free experience<br />
+  • Unlimited playlists<br />
+  • Unlimited cloud services<br />
+  • Unlimited media archiving<br />
+  • Unlimited favorites<br />
+  • Unlimited songs in playlist<br />
+  • Unlimited songs in queue<br />
+  • Unlimited offline folders<br />
+  • Unlimited offline albums<br />
+  • Unlimited tags search<br />
+  • Unlimited export to M3U<br />
+  • Download files<br />
+  • Download folders<br />
+  • Download collections<br />
+  • Full personalization</span><br /><br />
+  <span class='hx:block hx:mt-2 hx:text-center'>
+    <span class='pricing-btn hx:inline-block hx:rounded-full hx:border hx:border-gray-200 hx:dark:border-neutral-800 hx:px-3 hx:py-1 hx:transition-all hx:duration-200'>
+      <strong>$19.99</strong>/year
+    </span>
+  </span>
+flacboxPricingLifetimeSubtitle: |
+  <span class='pricing-details'>• Ad-free experience<br />
+  • Unlimited playlists<br />
+  • Unlimited cloud services<br />
+  • Unlimited media archiving<br />
+  • Unlimited favorites<br />
+  • Unlimited songs in playlist<br />
+  • Unlimited songs in queue<br />
+  • Unlimited offline folders<br />
+  • Unlimited offline albums<br />
+  • Unlimited tags search<br />
+  • Unlimited export to M3U<br />
+  • Download files<br />
+  • Download folders<br />
+  • Download collections<br />
+  • Full personalization</span><br /><br />
+  <span class='hx:block hx:mt-2 hx:text-center'>
+    <span class='pricing-btn hx:inline-block hx:rounded-full hx:border hx:border-gray-200 hx:dark:border-neutral-800 hx:px-3 hx:py-1 hx:transition-all hx:duration-200'>
+      <strong>$69.99</strong>/lifetime
+    </span>
+  </span>
+
+# FAQ
+flacboxFAQ1Title: "How does Flacbox work?"
+flacboxFAQ1Content: |
+  Flacbox is a hi-res music player that lets you manage audio tracks like regular files.<br>
+  You can upload your entire music collection to cloud services like Dropbox, Google Drive, or a personal NAS and play music directly from the cloud with full control.<br><br>
+  No iTunes sync is needed—just upload from your PC or Mac like you do with any file.<br>
+  To listen offline, use the built-in download manager to save music to your device.<br><br>
+  Explore our how-to guides for more details:<br>
+  - <a href="/docs/guide/flacbox/flacbox-guide">Flacbox guide</a><br>
+  - <a href="/docs/howto/how-to-listen-to-music-from-icloud-drive-on-your-iphone-or-mac">How to play music from iCloud Drive on my iPhone or Mac.</a><br>
+  - <a href="/docs/howto/how-to-enable-dlna-media-server-on-windows-10-and-play-your-music-on-iphone">How To Enable DLNA Media Server on Windows 10 and Play Your Music on iPhone.</a><br>
+  - <a href="/docs/howto/how-to-upload-my-files-to-the-cloud-storage-and-connect-them-to-evermusic-flacbox-evertag">How to upload my files to the cloud storage and connect them to Evermusic, Flacbox, Evertag.</a><br>
+  - <a href="/docs/howto/how-to-transfer-files-wirelessly-from-a-computer-to-an-iphone-using-wifi-drive">How to transfer files wirelessly from a computer to an iPhone using WiFi-Drive.</a><br>
+  - <a href="/docs/howto/how-to-connect-a-usb-flashcard-to-the-iphone-and-listen-to-music-or-manage-files-located-on-it">How to connect a USB flashcard to the iPhone and listen to music or manage files located on it.</a><br>
+  - <a href="/docs/howto/how-to-play-music-on-iphone-from-wd-my-cloud-home">How to play music on iPhone from WD My Cloud Home.</a>
+flacboxFAQ2Title: "Is Flacbox Free?"
+flacboxFAQ2Content: |
+  Flacbox is free to use with some limitations, which can be removed by upgrading to the Premium version.<br>
+  You can choose between a one-time lifetime purchase or two subscription options (monthly or yearly). Prices may vary based on your region.<br><br>
+  Family Sharing is enabled for all plans, so you can share the Premium version with your family members.<br><br>
+  Premium purchases and subscriptions are shared across iOS and Mac via iCloud. To sync your purchase, make sure iCloud is enabled, open the app on your iOS device, and wait a minute for sync to complete.<br><br>
+  <a href="/docs/faq/flacbox/what-is-the-difference-between-flacbox-and-flacbox-premium/">Read more about the differences between Flacbox and Flacbox Premium</a>
+flacboxFAQ3Title: "What is the difference between Flacbox and Evermusic?"
+flacboxFAQ3Content: |
+  <strong>Flacbox</strong> is built to support all default iOS audio formats along with many additional formats not natively supported on iPhone, such as WMA, OGG, M4A, DSD, and more.<br>
+  It uses a custom audio engine to handle nearly all formats and offers features like adjustable audio output sample rate and pitch correction.<br><br>
+  <strong>Evermusic</strong>, on the other hand, supports default audio formats and includes advanced features like crossfade playback, gapless playback, audio equalizer, playback speed control, and more.<br><br>
+  If you mainly use MP3, ALAC, or FLAC, <strong>Evermusic</strong> may be the better option for its playback features.<br>
+  If you need broad compatibility with various audio file types, <strong>Flacbox</strong> is the right choice.<br><br>
+  <a href="/docs/faq/evermusic/what-is-the-difference-between-evermusic-and-flacbox/">Learn more about the differences between Flacbox and Evermusic</a>
+flacboxFAQ4Title: "How do I sync Flacbox?"
+flacboxFAQ4Content: |
+  <strong>Metadata Synchronization</strong><br>
+  When you add tracks to your library, a background metadata reader scans your files and organizes them by Artist, Album, Genre, and Composer.<br>
+  You can adjust the scan speed for faster loading, though it may increase energy use. You can also disable it entirely to show only file names instead of tags.<br><br>
+  The metadata reader <strong>does not modify</strong> your original audio files in the cloud or local storage. If you want to edit tags, use the built-in tags editor from the file's options menu.<br><br>
+  If background sync is enabled, the metadata reader will continue running even when the app is in the background, but keep in mind that iOS may suspend it if it consumes too much energy.<br>
+  For large libraries, it's recommended to sync metadata on the desktop version and use the <strong>data backup &amp; restore</strong> feature to transfer it to your mobile device.<br><br>
+  Use the <strong>'Reload metadata'</strong> action to force a full metadata refresh across your library.<br><br>
+  <strong>Online Music Synchronization</strong><br>
+  Online sync lets you add music from cloud storage to your library automatically.<br>
+  Go to <strong>Music Library Settings → Sync folders</strong>, select the folders to scan, and the app will find and add supported audio files.<br><br>
+  Online sync works <strong>only when the app is active</strong>, so it's best to leave the app open, connected to power, and enable <strong>"Always active screen"</strong> in settings for faster syncing.<br>
+  You can also do this on desktop and then transfer the library to mobile using backup &amp; restore.<br>
+  Sync frequency can be configured (e.g. "immediately" starts sync each time the app opens).<br><br>
+  <strong>Offline Music Synchronization</strong><br>
+  This scans all folders inside the app's <strong>Documents</strong> directory and adds supported local files to the music library.<br>
+  Files outside the app's sandbox (due to iOS/macOS security) must be added manually.<br>
+  Run offline sync periodically to keep the library up-to-date with your local files.<br><br>
+  <strong>Offline Folders</strong><br>
+  Enabling offline mode for any album, artist, genre, playlist, or remote folder downloads all files inside that group for offline access.<br>
+  They are stored under the <strong>Offline Folders</strong> section.<br><br>
+  New files added to the same remote folder will be automatically downloaded.<br>
+  To <strong>manually resync</strong>, tap the three-dot menu and choose <strong>"Synchronize"</strong>.<br><br>
+  You can also customize <strong>sync timeout intervals</strong> in settings for more control over sync behavior and ensure your offline music stays updated.<br><br>
+  <a href="/docs/guide/flacbox/flacbox-guide-music-library">Read more</a>
+flacboxFAQ5Title: "How do I use Flacbox?"
+flacboxFAQ5Content: |
+  <strong>Install Flacbox</strong><br>
+  Download and install the Flacbox app from your device's app store. It's available for both iOS and Mac devices.<br><br>
+  <strong>Open the App</strong><br>
+  Launch Flacbox by tapping its icon on your device's home screen.<br><br>
+  <strong>Connect Your Cloud Service</strong><br>
+  • Open the <strong>Connections</strong> tab.<br>
+  • Select <strong>Connect a cloud service</strong> from the menu.<br>
+  • Choose your desired cloud service from the list.<br>
+  • Enter your credentials and tap <strong>Done</strong>.<br><br>
+  <strong>Import Files Located On Your Device</strong><br>
+  You can import files from your device, an external USB flash drive, a personal computer, or a NAS.<br>
+  • Open the <strong>Local files</strong> tab.<br>
+  • Tap <strong>Open files...</strong> or <strong>Open folders...</strong> from the <strong>Files on this device</strong> menu.<br>
+  • Choose files or folders located on your device.<br>
+  • Tap <strong>Open</strong> to import files to the app.<br><br>
+  <strong>Add Your Music</strong><br>
+  You have two options to add music to Flacbox: manual addition or automatic synchronization.<br><br>
+  <strong>Manual Addition</strong><br>
+  • Tap on the <strong>Add music</strong> or similar menu item.<br>
+  • Select folders/files from your connected cloud services or local files.<br>
+  • Flacbox creates links to your tracks, preserving the original files' locations.<br>
+  • To make tracks available offline, use the built-in download manager or enable offline mode.<br><br>
+  <strong>Automatic Synchronization</strong><br>
+  • Go to the <strong>Music Library settings</strong>.<br>
+  • Select <strong>Sync folders</strong> to enable automatic synchronization.<br>
+  • The app scans selected folders, identifies audio files, and integrates them into your library.<br><br>
+  <strong>Explore Your Music Library</strong><br>
+  • Organized by source types and music tags.<br>
+  • Sections: Online music, Offline music, Local files, etc.<br>
+  • Categories: Songs, Albums, Artists, Genres, Composers.<br>
+  • Use <strong>Search</strong> to find tracks quickly.<br><br>
+  <strong>Customize Your Settings</strong><br>
+  • Tap the three dots button to access <strong>More actions</strong> and <strong>Settings</strong>.<br>
+  • Adjust metadata sync, personalization, album cover preferences, playlists, recents, and favorites.<br><br>
+  <strong>Enjoy Your Music</strong><br>
+  Once your music is organized, use the top toolbar for quick actions like <strong>Search</strong>, <strong>Play All</strong>, <strong>Shuffle</strong>, and <strong>Continue Playback</strong>.<br><br>
+  <strong>Learn More</strong><br>
+  Explore in-app tutorials or visit these guides:<br><br>
+  • <a href="/docs/guide/flacbox/flacbox-guide">Flacbox Guide</a><br>
+  • <a href="/docs/howto/how-to-upload-my-files-to-the-cloud-storage-and-connect-them-to-evermusic-flacbox-evertag">Upload files to cloud and connect to Flacbox</a><br>
+  • <a href="/docs/howto/how-to-listen-to-audiobooks-on-iphone-ipad-mac-using-evermusic">Listen to Audiobooks</a><br>
+  • <a href="/docs/howto/how-to-play-local-music-stored-on-your-iphone-or-mac">Play Local Music on iPhone or Mac</a><br>
+  • <a href="/docs/howto/how-to-listen-to-music-from-icloud-drive-on-your-iphone-or-mac">Play from iCloud Drive</a><br>
+  • <a href="/docs/howto/how-to-use-the-audio-equalizer-on-your-iphone-ipad-mac-with-evermusic-and-flacbox">Use the Audio Equalizer</a><br>
+  • <a href="/docs/howto/how-to-connect-a-usb-flashcard-to-the-iphone-and-listen-to-music-or-manage-files-located-on-it">Connect USB Flashcard</a><br>
+  • <a href="/docs/howto/how-to-transfer-files-wirelessly-from-a-computer-to-an-iphone-using-wifi-drive">WiFi-Drive Wireless Transfer</a>
+flacboxFAQ6Title: "Is Flacbox Safe?"
+flacboxFAQ6Content: |
+  Flacbox uses only official SDK and secure connections to interact with connected cloud services. Your login and password are not available for the application. All requests from the application to the cloud service are encrypted.<br>
+  When you enter login and password the application shows you the official authorization page that is provided by the cloud service provider and all authorization process is made outside the application. The cloud service provider sends an auth-token to the application after successful authorization and that token is used to make API calls.<br><br>
+  Auth-token is a digital key that allows third-party applications to interact with cloud storage. Auth-token is stored on your device in secure system storage called Keychain. You can download your files from the connected cloud service to the device and those files will be placed in the app "Documents" directory. You can remove that files anytime using the built-in file manager.<br>
+  The application does not share any information from the connected cloud account. You can revoke access to your cloud account anytime by opening the account settings page on your web browser.<br><br>
+  To reject auth-token login to your account on the web browser and navigate to the settings page. There you can find all third-party apps which are connected to your cloud account and remove any of them if you don't want to use that application anymore.<br><br>
+  You can also disconnect the connected cloud accounts in the application and auth-token will be also removed from your device. If you remove the application from your device all downloaded data and access tokens will be also removed.<br><br>
+  <a href="/docs/guide/flacbox/flacbox-guide-connections">Read more</a>
+flacboxFAQ7Title: "How do I make a playlist on Flacbox?"
+flacboxFAQ7Content: |
+  - Open the Playlists section.<br>
+  - Tap the "+" button or the "..." button in the top right corner and select "New Playlist."<br>
+  - Enter a name for the playlist and tap "Save." The "Add Songs" dialog will appear.<br>
+  - Select the tracks you want to add to the playlist.<br><br>
+  <a href="/docs/guide/flacbox/flacbox-guide-playlists">Read more</a>
+flacboxFAQ8Title: "What cloud services does Flacbox support?"
+flacboxFAQ8Content: |
+  Currently, the application supports the most popular cloud services: iCloud Drive, Google Drive, Dropbox, OneDrive, Box, MEGA, Yandex.Disk, WD MyCloud Home, DLNA, MediaFire, WebDAV, SMB, pCloud, HiDrive, My Cloud Home, InfiniCLOUD, Cloud Mail.ru, Put.io, MyDrive.<br><br>
+  <a href="/docs/guide/flacbox/flacbox-guide-connections">Read more</a>
+flacboxFAQ9Title: "How can I use an equalizer?"
+flacboxFAQ9Content: |
+  - Open the Audio Player Screen.<br>
+  - Tap on the "Equalizer" icon on the bottom of the screen.<br>
+  - Toggle switch control in the top right corner on the equalizer screen to activate the equalizer.<br>
+  - Select one of the available presets (rock, pop, dance, disco..) or change equalizer sliders to build your own preset.<br><br>
+  Full tutorial available here:<br>
+  <a href="/docs/howto/how-to-use-the-audio-equalizer-on-your-iphone-ipad-mac-with-evermusic-and-flacbox">How to use the audio equalizer on your iPhone, iPad, Mac with Evermusic and Flacbox</a>
+flacboxFAQ10Title: "How do I enable offline mode in Flacbox?"
+flacboxFAQ10Content: |
+  - Connect a Cloud Service:<br>
+   • Go to the "Connections" tab.<br>
+   • Select "Connect a cloud service" and follow the prompts to connect your desired service.<br><br>
+  - Navigate to Music Folder:<br>
+   • Open the connected cloud service and find your music folder.<br><br>
+  - Enable Offline Mode:<br>
+   • Tap the "More actions" button next to the folder name.<br>
+   • Choose "Enable offline mode."<br><br>
+  - Download Content:<br>
+   • The selected folder and all its contents will be downloaded to "Local files" > "Offline folders."<br><br>
+  - Automatic Updates:<br>
+   • The app will continuously scan for changes. New files added to the online folder will be automatically downloaded.<br><br>
+  - Configure Scanning Timeout:<br>
+   • Go to "Settings" > "File manager" > "Offline folders" > "Time interval" to set the scanning frequency.<br><br>
+  - Manual Synchronization:<br>
+   • To sync manually, go to "Settings" > "File manager" > "Offline folders" > "Synchronized offline folders."<br>
+   • Tap "More actions" and select "Start synchronization."<br><br>
+  <a href="/docs/howto/play-offline-music-in-evermusic-flacbox-download-sync-from-cloud-to-local-files/">Read more</a>
+flacboxFAQ11Title: "How to play locally Downloaded music on iPhone?"
+flacboxFAQ11Content: |
+  Once you've installed the application, open the "Local Files" screen and scroll down to the "Files on this iPhone" section. From there, choose "Open files..." if you need to select several audio files or "Open folder..." if you want to pick a music folder. The app will scan the folder's content, and all found audio files will be selected. Navigate to your music folder, tap "Open" to confirm your selection, and the files will be added to the player queue. These files will be played directly from the selected location without being copied to the application bundle.<br><br>
+  <strong>Adding a Folder to Favorites for Quick Access</strong><br>
+  Simplify the process by adding a folder located on your device to your favorites. This way, you won't need to repeat the steps every time you want to play music. Open the "Local Files" screen, scroll to the "Quick Access" section, and tap "Favorites" to access the "Favorite Files" screen. Tap the more actions button (three dots) in the top right corner and select "Add Folder." Navigate to your desired folder and tap "Open" to confirm. Your folder will be added to "Favorite Files," providing quick access to your music.<br><br>
+  <strong>Importing Local Files to the Music Library</strong><br>
+  If you prefer to organize your local files within your music library, open the "Music Library" screen, tap the three dots button at the top right corner, and select "+ Add Music." Choose the "Local Files" menu item, scroll down to the "Files on this iPhone" section, and tap "Open Files...". Select the files you want to add and tap "Open" to confirm. The app will scan the selected files and add them to your music library, organizing them by metadata such as artist, album, and genre.<br><br>
+  <strong>Adding Local Files to a Playlist</strong><br>
+  To add local files to a playlist, open the "Playlists" screen and tap the more button in the top right corner. Select "+ New Playlist," enter a name for your new playlist, and on the next screen, select the "Local Files" option. Scroll down to the "Files on this iPhone" section and tap "Open Files...". Select the audio files you want to add and tap "Open" to confirm. The files will be added to your playlist, where you can change the song order and perform other actions using the more button.<br><br>
+  With these simple steps, you can unlock the full potential of your iPhone and Mac as the ultimate platforms for enjoying your cherished local music collection.<br><br>
+  <a href="/docs/howto/how-to-play-local-music-stored-on-your-iphone-or-mac">Read more</a>
+flacboxFAQ12Title: "How can I resume a playlist from where I left off?"
+flacboxFAQ12Content: "First, ensure \"Save Audio Player State\" is enabled in Settings > Audio Player > General. When you switch to another playlist and return, you will see four actions on the top toolbar under the album artwork: \"Search,\" \"Continue Playback,\" \"Play All,\" and \"Shuffle All.\" Tap \"Continue Playback\" to resume the playlist from the last saved state and media position."
+flacboxFAQ13Title: "How to view lyrics for songs in Flacbox?"
+flacboxFAQ13Content: |
+  You can view embedded lyrics for tracks in the app by <strong>following these steps</strong>:<br>
+  1. Start playing an audio file by tapping on it.<br>
+  2. Open the full-screen audio player.<br>
+  3. Tap the "More Actions" button in the top right corner to see the more actions menu.<br>
+  4. Select the "View Comments" menu item.<br>
+  5. On the track comments screen, you have three modes which you can change by scrolling to the right: Comments, Embedded Lyrics, and LRC File.<br><br>
+  <strong>Modes</strong>:<br>
+  1. Comments Mode: Displays the content from the COMMENT field of your audio file.<br>
+  2. Lyrics Mode: Shows the embedded lyrics from your audio file. If your audio file has lyrics in the tags, they will appear here. This mode also supports timed text in LRC format. To edit the lyrics tag, use an external audio tag editor like Evertag. You can find LRC format lyrics for free on websites like Lyricsify. Copy the needed lyrics to your tags and save them to display later on this screen.<br>
+  3. LRC File Mode: Instead of editing audio files, you can place an LRC file in the same folder as the original audio file. Both files should have the same name but different extensions. When you swipe to the third page on the Comments screen, the app will search for the LRC file in the same directory and display its content.<br><br>
+  <a href="/docs/howto/how-to-add-and-view-comments-to-your-audio-tracks-on-iphone-ipad-and-mac-with-evermusic-and-flacbox">Read more</a>
+flacboxFAQ14Title: "How do I transfer music to Flacbox from my computer?"
+flacboxFAQ14Content: |
+  You can connect your computer or personal NAS using SMB, WebDAV, or DLNA protocols. Alternatively, use iTunes File Sharing to transfer music.<br><br>
+  To connect a computer using SMB protocol tap "Connect a cloud service" → SMB. Enter computer IP address and shared folder name in URL field using format smb://computer-ip-address/shared-folder-name, enter login and password and tap "Done". If your connection is successful you will see connected storage in the "Cloud services" section.<br><br>
+  A full tutorial available here:<br>
+  <a href="/docs/howto/transfer-your-files-from-the-computer-to-iphone-using-smb-protocol/">Transfer your files from the computer to iPhone using SMB protocol</a><br><br>
+  For WebDAV protocol, all steps are the same instead of the URL field. URL should be in format http://server-name or https://server-name if the server supports SSL.<br><br>
+  Wi-Fi Drive is a popular technology that allows you to transfer files from your computer to an iOS device wirelessly using a desktop browser. To use this feature your device and computer should be connected to the same Wi-Fi network. Open "Connections" → "Computer" → "Connect using Wi-Fi" and enable the server. After this open a desktop browser and enter the URL from the application. You can drag-n-drop files from your computer to the opened web page and they will appear on the device.<br>
+  More detailed tutorial available here:<br>
+  <a href="/docs/howto/how-to-transfer-files-wirelessly-from-a-computer-to-an-iphone-using-wifi-drive">How to transfer files wirelessly from a computer to an iPhone using WiFi-Drive</a><br><br>
+  iTunes File Sharing is another technology that allows you to transfer files from computer to device using iTunes and lightning cable. Just connect a device to the computer using a cable and run iTunes. Open the iTunes → "Applications section" → and find Evermusic. Tap on the app icon to see a shared folder. Copy files from the computer to the shared folder on the device.<br><br>
+  Detailed instruction available here:<br>
+  <a href="/docs/howto/how-to-play-local-itunes-files-on-my-iphone">How to play local files (iTunes files) on my iPhone</a><br><br>
+  DLNA You can also setup DLNA media server and stream your music from Window PC as described here:<br>
+  <a href="/docs/howto/how-to-enable-dlna-media-server-on-windows-10-and-play-your-music-on-iphone">How To Enable DLNA Media Server on Windows 10 and Play Your Music on iPhone</a>
+flacboxFAQ15Title: "How to download music?"
+flacboxFAQ15Content: |
+  Before you can download music and listen to your music offline you should connect network account.<br>
+  Just open the "Connections" screen and add your account.<br>
+  Once you added a network account you can download your music from the cloud.<br><br>
+  <strong>To download music from the cloud</strong><br>
+  – Open connected cloud service.<br>
+  – Navigate inside the folder you want to download.<br>
+  – Tap on the more actions button "..." in the top right corner and choose the "Select" menu item.<br>
+  – Select files you want to download and tap on the "Download" button.<br><br>
+  <strong>To enable offline mode for Artist/Playlist/Album/Genre</strong><br>
+  – Open Artists/Albums/Playlists/Genre Screen<br>
+  – Tap the "Offline mode" checkbox<br>
+  – Offline Artist/Album/Playlist/Genre will appear in the "Offline music" section of the music library<br><br>
+  More detailed instruction about offline mode available here:<br>
+  <a href="/docs/howto/play-offline-music-in-evermusic-flacbox-download-sync-from-cloud-to-local-files/">Play Offline Music in Evermusic &amp; Flacbox: Download &amp; Sync from Cloud to Local Files</a><br><br>
+  Another available option is download music from cloud services and import it in Evermusic as described here:<br>
+  <a href="/docs/howto/how-to-download-music-from-youtube-and-listen-to-offline-music-on-iphone">How to Download Music From YouTube and Listen to Offline Music on iPhone</a>
+flacboxFAQ16Title: "What audio formats does Flacbox support?"
+flacboxFAQ16Content: |
+  This app supports default <strong>system audio codecs</strong> and additional <strong>ffmpeg software codecs</strong>:<br><br>
+  3g2, 3gp, 3gp2, 3gpp, 8svx, aa, aac, aax, ac3, act, adt, adts, aif, aifc, aiff, alac, amr, amv, ape, asf, au, avi, awb, caf, cavs, cdda, cue, dct, dff, drc, dsf, dss, dvf, "dvr-ms", ec3, f4a, f4b, f4p, f4v, flac, flv, gif, gifv, gsm, gxf, h261, h263, h264, ifv, iklax, ivf, ivs, l16, latm, loas, m2t, m2ts, m2v, m3u, m3u8, m4a, m4b, m4p, m4r, m4v, mka, mkv, mmf, mng, mod, mogg, mov, mp1, mp2, mp3, mp4, mp4v, mpa, mpc, mpe, mpeg, mpg, mpv, msv, mts, mxf, nsf, nsv, nut, oga, ogg, ogv, opus, pcm, pls, qt, ra, raw, rm, rmvb, roq, rv, sln, snd, svi, tod, tta, vob, voc, vox, vtt, w64, wav, wave, webm, wma, wmv, wv, xhe, xmv, y4m, yuv.
+flacboxFAQ17Title: "Can I use Flacbox to play audiobooks?"
+flacboxFAQ17Content: |
+  Yes, Flacbox can be used as a powerful audiobook player.<br><br>
+  <strong>How to Add Audiobooks</strong><br>
+  • For <strong>local files</strong>, connect your iPhone or iPad to your computer, open iTunes (or Finder on macOS Catalina or later), and drag your audiobook files into the "Flacbox" section.<br>
+  • For <strong>cloud files</strong>, connect services like iCloud Drive, Google Drive, Dropbox, and others inside the Flacbox app to access your audiobooks remotely.<br><br>
+  <strong>Playback Features</strong><br>
+  • Navigate to your audiobooks via <strong>Music Library</strong> or <strong>Local Files</strong>.<br>
+  • Flacbox supports <strong>play, pause, skip</strong>, and <strong>adjustable playback speed</strong>.<br>
+  • You can enable <strong>Skip Time</strong> buttons in settings for quick navigation.<br>
+  • Create <strong>Audio bookmarks</strong> to save your place.<br>
+  • Use <strong>Continue Playback</strong> to resume from where you left off.<br><br>
+  <strong>Organization and Offline Access</strong><br>
+  • Organize audiobooks into playlists by <strong>genre</strong>, <strong>author</strong>, or <strong>series</strong>.<br>
+  • Download audiobooks for <strong>offline listening</strong>, perfect for travel or limited connectivity.<br><br>
+  Flacbox provides a full-featured solution for audiobook lovers on iPhone, iPad, and Mac.<br><br>
+  <a href="/docs/howto/how-to-listen-to-audiobooks-on-iphone-ipad-mac-using-evermusic">Read more</a>
+flacboxFAQ18Title: "Does Flacbox work with NAS devices?"
+flacboxFAQ18Content: |
+  Yes, Flacbox supports NAS connections using <strong>SMB</strong>, <strong>WebDAV</strong>, and <strong>DLNA</strong> protocols.<br><br>
+  <strong>To connect a NAS using SMB protocol:</strong><br>
+  • Tap <strong>"Connect a cloud service" → SMB</strong>.<br>
+  • Enter the NAS server IP address and shared folder name in this format: <code>smb://your-ip/shared-folder</code><br>
+  • Choose protocol version: <strong>Auto</strong>, <strong>SMB1</strong>, or <strong>SMB2</strong>.<br>
+  • Enter your login and password (if required).<br>
+  • Tap <strong>"Done"</strong>.<br><br>
+  If the connection is successful, you'll see your NAS in the <strong>Cloud services</strong> section.<br>
+  <a href="/docs/howto/stream-your-music-from-mac-or-pc-to-iphone-using-smb/">Read full tutorial</a><br><br>
+  <strong>To connect via WebDAV protocol:</strong><br>
+  • Steps are the same as SMB, but use a WebDAV URL like <code>http://your-server-name</code> or <code>https://your-server-name</code> if using SSL.<br><br>
+  <strong>To stream via DLNA:</strong><br>
+  • You can stream from a Windows PC by enabling its DLNA media server.<br>
+  <a href="/docs/howto/how-to-enable-dlna-media-server-on-windows-10-and-play-your-music-on-iphone">Read the DLNA setup guide</a><br><br>
+  <strong>Available Devices section:</strong><br>
+  • Shows all discoverable NAS devices on your local network.<br>
+  • Tap a device name to connect, then enter login credentials if needed.<br><br>
+  <strong>Useful links:</strong><br>
+  • <a href="/docs/howto/how-to-play-music-on-iphone-from-wd-my-cloud-home">How to play music on iPhone from WD My Cloud Home</a><br>
+  • <a href="/docs/howto/stream-your-music-from-mac-or-pc-to-iphone-using-smb/">Stream your music from MAC or PC to iPhone using SMB</a><br>
+  • <a href="/docs/howto/how-to-connect-bluesound-vault-s-internal-storage-from-the-evermusic-flacbox-evertag">Connect Bluesound Vault storage</a><br>
+  • <a href="/docs/howto/how-to-connect-nas-storage-using-webdav-and-listen-to-music-on-your-iphone-or-mac">Connect NAS Storage Using WebDAV</a>
+flacboxFAQ19Title: "How do I import music to Flacbox?"
+flacboxFAQ19Content: |
+  <strong>Connect Your Cloud Service</strong><br>
+  • Open the <strong>Connections</strong> tab.<br>
+  • Select <strong>Connect a cloud service</strong> from the menu.<br>
+  • Choose your desired cloud service from the list.<br>
+  • Enter your credentials and tap <strong>Done</strong>.<br><br>
+  <strong>Import Files Located On Your Device</strong><br>
+  You can import files from your device, a USB flash drive, a computer, or a NAS.<br>
+  • Open the <strong>Local files</strong> tab.<br>
+  • Tap <strong>Open files...</strong> or <strong>Open folders...</strong> from the <strong>Files on this device</strong> menu.<br>
+  • Choose files or folders located on your device.<br>
+  • Tap <strong>Open</strong> to import files to the app.<br><br>
+  <strong>Add Your Music</strong><br>
+  You can add music manually or automatically using sync folders.<br><br>
+  <strong>Manual Addition</strong><br>
+  • Tap on the <strong>Add music</strong> menu item.<br>
+  • Select folders or files from connected cloud services or your device.<br>
+  • Flacbox creates links to your tracks without copying them.<br>
+  • To make tracks available offline, use the download manager or enable <strong>Offline mode</strong>.<br><br>
+  <strong>Automatic Synchronization</strong><br>
+  • Open <strong>Music Library settings</strong>.<br>
+  • Select <strong>Sync folders</strong> to turn on automatic syncing.<br>
+  • The app scans selected folders and adds supported audio files to your library.<br><br>
+  <strong>Explore Your Music Library</strong><br>
+  • Your library is organized by source (online, offline, local).<br>
+  • Browse by songs, albums, artists, genres, and composers.<br>
+  • Use the search bar to find any song quickly.<br><br>
+  <strong>Learn More</strong><br>
+  Explore these tutorials for more help:<br><br>
+  • <a href="/docs/howto/how-to-upload-my-files-to-the-cloud-storage-and-connect-them-to-evermusic-flacbox-evertag">Upload files to cloud and connect them to Flacbox</a><br>
+  • <a href="/docs/howto/how-to-listen-to-audiobooks-on-iphone-ipad-mac-using-evermusic">Listen to Audiobooks on iPhone, iPad, or Mac</a><br>
+  • <a href="/docs/howto/how-to-play-local-music-stored-on-your-iphone-or-mac">Play Local Music Stored on Your iPhone or Mac</a><br>
+  • <a href="/docs/howto/how-to-listen-to-music-from-icloud-drive-on-your-iphone-or-mac">Play Music from iCloud Drive</a><br>
+  • <a href="/docs/howto/how-to-use-the-audio-equalizer-on-your-iphone-ipad-mac-with-evermusic-and-flacbox">Use the Audio Equalizer</a><br>
+  • <a href="/docs/howto/how-to-connect-a-usb-flashcard-to-the-iphone-and-listen-to-music-or-manage-files-located-on-it">Connect USB Flashcard to iPhone</a><br>
+  • <a href="/docs/howto/how-to-transfer-files-wirelessly-from-a-computer-to-an-iphone-using-wifi-drive">Transfer Files Wirelessly Using WiFi-Drive</a><br>
+  • <a href="/docs/howto/transfer-your-files-from-the-computer-to-iphone-using-smb-protocol/">Transfer Files Using SMB Protocol</a>
+flacboxFAQ20Title: "How do I use the Wi-Fi Drive feature in Flacbox?"
+flacboxFAQ20Content: |
+  <strong>Wireless transfer using a desktop browser</strong><br>
+  1. Launch the app: Open Flacbox.<br>
+  2. Connect via Wi-Fi: Go to "Connections" → "Computer" → "Connect using Wi-Fi".<br>
+  3. (Optional) Add security: Enter a username and password if needed.<br>
+  4. Start Wi-Fi Drive: Tap "Start Wi-Fi Drive" and copy the provided URL.<br>
+  5. Open a browser (Safari, Chrome, Opera, Firefox, etc.) and enter the URL.<br>
+  6. Use the built-in file manager to upload, download, rename, or delete files. You can drag and drop files directly to your iPhone.<br>
+  7. When done, tap "Stop Wi-Fi Drive" on your iPhone.<br><br>
+  Note: Ensure JavaScript is enabled and you're using the latest browser version for best performance.<br><br>
+  <strong>Transfer files using Mac Finder</strong><br>
+  1. In Finder, click "Go" → "Connect to Server…".<br>
+  2. Enter the server URL shown in the Flacbox app.<br>
+  3. Click "Connect" and manage files on your iPhone like any network drive.<br><br>
+  <strong>Transfer files using Windows File Explorer</strong><br>
+  1. Right-click "This PC" → "Map Network Drive…".<br>
+  2. Enter the server URL from the Flacbox app in the "Folder" field.<br>
+  3. Choose a drive letter, click "Finish", and browse your iPhone's files directly.<br><br>
+  <a href="/docs/howto/how-to-transfer-files-wirelessly-from-a-computer-to-an-iphone-using-wifi-drive">Read more</a>
+flacboxFAQ21Title: "Does Flacbox support Apple CarPlay?"
+flacboxFAQ21Content: |
+  Yes, <strong>Flacbox fully supports Apple CarPlay</strong>. You can browse your music library, play local or offline files, connect to cloud storage, and control playback directly from your car's infotainment screen.<br><br>
+  The CarPlay interface includes dedicated tabs for <strong>Library</strong>, <strong>Connections</strong>, <strong>Local Files</strong>, and <strong>Settings</strong>, giving you full control over your music on the road. Playback controls, shuffle, repeat, and queue management are also available.<br><br>
+  To use CarPlay, make sure Siri is enabled and your iPhone is connected via USB or wireless.<br><br>
+  <a href="/docs/howto/how-to-play-your-own-music-on-iphone-using-carplay/">Read the full guide</a>
+
+# User Guide
+flacboxGuideIntro: "This guide will help you get the most out of Flacbox on your iPhone, iPad, or Mac. Learn how to stream high-resolution music from the cloud, organize your library, manage audiobooks, and transfer music between devices."
+flacboxGuide1Subtitle: "Use the Tab Bar on iPhone or Left Menu on iPad & Mac."
+flacboxGuide2Subtitle: "Connect Dropbox, Google Drive, iCloud, or your NAS."
+flacboxGuide3Subtitle: "Manage and search tracks by artist, album, or genre."
+flacboxGuide4Subtitle: "Create and organize playlists for any mood or occasion."
+flacboxGuide5Subtitle: "Edit and play offline music with the built-in file manager."
+flacboxGuide6Subtitle: "Control playback, adjust speed, set bookmarks, and more."
+flacboxGuide7Subtitle: "Customize equalizer, appearance, and app behavior."
+
+# ══════════════════════════════════════
+# App: Evertag
+# ══════════════════════════════════════
+
+# Hero
+evertagHeroSubtitle: "Keep Your Music Library Organized"
+evertagHeroParagraph: |
+  • Add or update album covers
+  • Batch edit tags for many songs at once
+  • Fix broken encoding and auto-fill missing tags
+
+# Feature cards
+evertagFeature1Title: "Edit Over 120+ Tags"
+evertagFeature1Subtitle: "Quickly edit music tags like Title, Artist, Album, Album Artist, BPM, Comment, Composer, Disk Number, Genre, Lyrics, Rating, Track Number, Year, and more."
+evertagFeature2Title: "Batch Tag Editing"
+evertagFeature2Subtitle: "Update metadata for multiple files at once. Save time and keep your music library well-organized with just a few taps."
+evertagFeature3Title: "Find Album Covers"
+evertagFeature3Subtitle: "Automatically find and add missing album artwork to your songs. Make your music collection visually complete."
+evertagFeature4Title: "Works with 30+ Formats"
+evertagFeature4Subtitle: "Supports MP3, FLAC, OGG, OPUS, M4A, WAV, WMA, APE, AIFF, MOD, XM, IT, and more."
+evertagFeature5Title: "Auto Tag Finder"
+evertagFeature5Subtitle: "Detect missing song information and fill it in automatically using the MusicBrainz database. Choose to review changes or apply them instantly."
+evertagFeature6Title: "Fix Encoding Issues"
+evertagFeature6Subtitle: "Repair broken or unreadable characters in your metadata. Evertag keeps your tags clean and clear in any language."
+evertagFeature7Title: "Cloud and USB Access"
+evertagFeature7Subtitle: "Edit music directly from iCloud Drive, Google Drive, Dropbox, OneDrive, USB flash drives, or shared folders—no copying required."
+evertagFeature8Title: "Wi-Fi Music Transfer"
+evertagFeature8Subtitle: "Easily upload music to your iPhone or iPad from your computer using a Wi-Fi connection. No cables needed."
+evertagFeature9Title: "Built-In File Manager"
+evertagFeature9Subtitle: "Organize your music files with built-in tools. Rename, Move, Delete, Mark Favorites, and View Recent Activity — all in one app."
+
+# Pricing
+evertagPricingFreeSubtitle: |
+  <span class='pricing-details'>• Includes ads<br>
+  • Edit audio tags<br>
+  • Edit album covers<br>
+  • Edit files simultaneously<br>
+  • Fix charset encoding<br>
+  • Cloud storages (1)<br>
+  • Favorites (10)<br>
+  • Automatically find tags (20/day)<br>
+  • Search album covers (20/day)</span><br /><br />
+  <span class='hx:block hx:mt-2 hx:text-center'>
+    <span class='pricing-btn hx:inline-block hx:rounded-full hx:border hx:border-gray-200 hx:dark:border-neutral-800 hx:px-3 hx:py-1 hx:transition-all hx:duration-200'>
+      <strong>Free</strong>
+    </span>
+  </span>
+evertagPricingMonthlySubtitle: |
+  <span class='pricing-details'>• No ads<br />
+  • Edit audio tags<br>
+  • Edit album covers<br>
+  • Edit files simultaneously<br>
+  • Fix charset encoding<br>
+  • Cloud storages (unlimited)<br />
+  • Favorites (unlimited)<br />
+  • Automatically find tags (unlimited)<br />
+  • Search album covers (unlimited)<br />
+  • Personalization</span><br /><br />
+  <span class='hx:block hx:mt-2 hx:text-center'>
+    <span class='pricing-btn hx:inline-block hx:rounded-full hx:border hx:border-gray-200 hx:dark:border-neutral-800 hx:px-3 hx:py-1 hx:transition-all hx:duration-200'>
+      <strong>$1.99</strong>/month
+    </span>
+  </span>
+evertagPricingYearlySubtitle: |
+  <span class='pricing-details'>• No ads<br />
+  • Edit audio tags<br>
+  • Edit album covers<br>
+  • Edit files simultaneously<br>
+  • Fix charset encoding<br>
+  • Cloud storages (unlimited)<br />
+  • Favorites (unlimited)<br />
+  • Automatically find tags (unlimited)<br />
+  • Search album covers (unlimited)<br />
+  • Personalization</span><br /><br />
+  <span class='hx:block hx:mt-2 hx:text-center'>
+    <span class='pricing-btn hx:inline-block hx:rounded-full hx:border hx:border-gray-200 hx:dark:border-neutral-800 hx:px-3 hx:py-1 hx:transition-all hx:duration-200'>
+      7 days free, then <strong>$12.99</strong>/year
+    </span>
+  </span>
+evertagPricingLifetimeSubtitle: |
+  <span class='pricing-details'>• No ads<br />
+  • Edit audio tags<br>
+  • Edit album covers<br>
+  • Edit files simultaneously<br>
+  • Fix charset encoding<br>
+  • Cloud storages (unlimited)<br />
+  • Favorites (unlimited)<br />
+  • Automatically find tags (unlimited)<br />
+  • Search album covers (unlimited)<br />
+  • Personalization</span><br /><br />
+  <span class='hx:block hx:mt-2 hx:text-center'>
+    <span class='pricing-btn hx:inline-block hx:rounded-full hx:border hx:border-gray-200 hx:dark:border-neutral-800 hx:px-3 hx:py-1 hx:transition-all hx:duration-200'>
+      <strong>$24.99</strong>/lifetime
+    </span>
+  </span>
+
+# FAQ
+evertagFAQ1Title: "What is Evertag?"
+evertagFAQ1Content: |
+  Evertag is a powerful music metadata editor and album artwork manager designed for iOS and macOS. It gives you the tools to organize your music collection like a pro, whether your files are stored locally or in the cloud. With a clean interface and advanced editing features, Evertag makes it easy to fix missing tags, add high-quality cover art, and ensure your music library looks great and stays consistent.<br><br>
+  The app supports a wide range of popular audio formats, including MP3, FLAC, WAV, M4A, WMA, OGG, and many more. It allows you to edit common tags such as title, artist, album, genre, year, track number, and also extended fields like BPM, disc number, lyrics, MusicBrainz IDs, and more. You can work with one file at a time or switch to batch mode to edit multiple tracks simultaneously—perfect for organizing full albums or playlists.<br><br>
+  One of the standout features of Evertag is its ability to fetch missing album covers directly from the internet or let you add your own manually. You can also use the lyrics editor to add unsynced lyrics to your songs, enhancing playback in compatible players. The app supports open-in-place editing, so you can modify audio tags without needing to copy or move your files.<br><br>
+  Whether you're managing music on your device or in the cloud using Dropbox, OneDrive, MEGA, or other services, Evertag offers seamless file access and editing. It's the perfect solution for musicians, DJs, and collectors who want to maintain a clean, well-organized music library on iPhone, iPad without the need for a desktop computer.
+evertagFAQ2Title: "Is Evertag free?"
+evertagFAQ2Content: |
+  Evertag is a free application with some limits that you can remove after upgrading to the Premium version. The application offers a one-time lifetime in-app purchase and two subscription options (1 month and 1 year) to remove all restrictions, allowing you to choose the best and most optimal price for you. Prices may vary depending on your country or territory. Also, please keep in mind that Family Sharing is enabled for all purchases and plans, so you can share the Premium version with members of your family.<br><br>
+  Lifetime purchases and subscriptions are shared between iOS and Mac, using iCloud to sync this information. If you have the Premium version on your iOS device, please ensure you have the latest version installed and that iCloud is enabled. Start the app on iOS and wait one minute for your purchase information to upload to iCloud.
+evertagFAQ3Title: "What is the difference between Evertag Free and Evertag Premium?"
+evertagFAQ3Content: |
+  <strong>Evertag Free</strong><br>
+  Evertag Free gives you access to powerful music metadata editing features with some functional limitations. It includes ads and allows basic use of the tag editor, album cover editor, and batch editing. You can fix encoding issues, connect 1 cloud storage account, and mark up to 10 favorite files. Additionally, you can perform 20 automatic tag searches and 20 album cover lookups per day.<br><br>
+  This version is great for users who want to try out Evertag's core features without a subscription. You can edit over 120 audio tags, manage your files directly from the cloud, and organize your music library using the built-in file manager.<br><br>
+  <strong>Evertag Premium (Monthly, Yearly, or Lifetime)</strong><br>
+  Upgrading to Premium removes ads and unlocks the full potential of Evertag. You get unlimited access to all features: edit over 120+ tags, batch edit multiple files, fix encoding, and manage unlimited favorites. You can connect unlimited cloud storage services, perform unlimited automatic tag searches, and search for unlimited album covers.<br><br>
+  Premium users also gain access to full personalization settings, including the ability to change the app icon and theme. This plan is ideal for music collectors, DJs, or anyone managing large music libraries across different devices and cloud platforms.<br><br>
+  <strong>Pricing Options</strong><br>
+  • Premium Monthly — $1.99/month<br>
+  • Premium Yearly — $12.99/year<br>
+  • Premium Lifetime — $24.99 (one-time purchase)<br><br>
+  Each premium option includes the same feature set, so you can choose the plan that fits your needs and budget.
+evertagFAQ4Title: "Is Evertag safe?"
+evertagFAQ4Content: |
+  Evertag uses only official SDK and secure connections to interact with connected cloud services. Your login and password are not available for the application. All requests from the application to the cloud service are encrypted.<br>
+  When you enter login and password the application shows you the official authorization page that is provided by the cloud service provider and all authorization process is made outside the application. The cloud service provider sends an auth-token to the application after successful authorization and that token is used to make API calls.<br><br>
+  Auth-token is a digital key that allows third-party applications to interact with cloud storage. Auth-token is stored on your device in secure system storage called Keychain. You can download your files from the connected cloud service to the device and those files will be placed in the app "Documents" directory. You can remove that files anytime using the built-in file manager.<br>
+  The application does not share any information from the connected cloud account. You can revoke access to your cloud account anytime by opening the account settings page on your web browser.<br><br>
+  To reject auth-token login to your account on the web browser and navigate to the settings page. There you can find all third-party apps which are connected to your cloud account and remove any of them if you don't want to use that application anymore.<br><br>
+  You can also disconnect the connected cloud accounts in the application and auth-token will be also removed from your device. If you remove the application from your device all downloaded data and access tokens will be also removed.
+evertagFAQ5Title: "How to edit metadata for files in locally downloaded music on iPhone?"
+evertagFAQ5Content: |
+  Once you've installed the application, open the "Local Files" screen and scroll down to the "Files on this iPhone" section.<br>
+  From there, choose "Open files..." if you need to select several audio files or "Open folder..." if you want to pick a music folder.<br>
+  The app will scan the folder's content, and all found audio files will be selected.<br>
+  Navigate to your music folder, tap "Open" to confirm your selection, and the files will be added to the tags editor.<br>
+  These files will be edited directly from the selected location without being copied to the application bundle.<br><br>
+  <strong>Adding a Device Folder for Quick Access</strong><br>
+  Simplify the process by adding a folder located on your device to your quick access section.<br>
+  This way, you won't need to repeat the steps every time you want to edit tags for the files in the music folder.<br>
+  Open the "Local files" screen.<br>
+  Scroll down to the "Files on this device" section and tap "Connect a folder".<br>
+  Select a folder located on your device and tap "Open" to confirm selection.<br>
+  Your folder will be added to "Files on this iPhone" section providing quick access to your audio files.
+evertagFAQ6Title: "How to add lyrics for songs in Evertag?"
+evertagFAQ6Content: |
+  You can add embedded lyrics to your tracks in the Evertag app by following these steps:<br><br>
+  • Start editing an audio file by tapping on it.<br>
+  • Tap "Show extended tags" to switch the tag editor to advanced mode.<br>
+  • Scroll down to the "Lyrics unsynced" section and tap the text field.<br>
+  • Tap the "Add new page" menu item.<br>
+  • In the "Language" section, select the lyrics language or leave it blank to use English by default.<br>
+  • In the "Text" section, enter your lyrics in plain text or LRC format with timecodes. An example is shown on the screen. You can also find LRC-formatted lyrics at <a href="https://www.lyricsify.com/">lyricsify.com</a><br>
+  • Tap "Done" to confirm the changes both on the current screen and the Lyrics Edit screen.<br>
+  • Close the Lyrics Edit screen and tap "Save" to apply the changes to the current file.<br><br>
+  More detailed tutorial available here:<br>
+  <a href="/docs/howto/how-to-edit-lyrics-for-audio-files-on-iphone-mac/">How to Edit Lyrics for Audio Files on iPhone or MAC</a>
+evertagFAQ7Title: "How do I transfer music to Evertag from my computer?"
+evertagFAQ7Content: |
+  You can connect your computer or personal NAS using SMB, WebDAV. Alternatively, use iTunes File Sharing to transfer music.<br><br>
+  To connect a computer using <strong>SMB</strong> protocol tap "Connect to cloud storage" → SMB.<br>
+  Enter computer IP address and shared folder name in URL field using format smb://computer-ip-address/shared-folder-name,<br>
+  enter login and password and tap "Done".<br>
+  If your connection is successful you will see connected storage in the "Cloud storage" section.<br><br>
+  A full tutorial available here:<br>
+  <a href="/docs/howto/transfer-your-files-from-the-computer-to-iphone-using-smb-protocol/">Transfer your files from the computer to iPhone using SMB protocol</a><br><br>
+  For <strong>WebDAV</strong> protocol, all steps are the same instead of the URL field.<br>
+  URL should be in format http://server-name or https://server-name if the server supports SSL.<br><br>
+  A full tutorial available here:<br>
+  <a href="/docs/howto/how-to-connect-nas-storage-using-webdav-and-listen-to-music-on-your-iphone-or-mac">How to Connect NAS Storage Using WebDAV and Listen to Music on Your iPhone or Mac</a><br><br>
+  <strong>Wi-Fi Drive</strong> is a popular technology that allows you to transfer files from your computer to an iOS device wirelessly using a desktop browser.<br>
+  To use this feature your device and computer should be connected to the same Wi-Fi network.<br>
+  Open "Connections" → "Computer" → "Connect via Wi-Fi" and enable the server.<br>
+  After this open a desktop browser and enter the URL from the application.<br>
+  You can drag-n-drop files from your computer to the opened web page and they will appear on the device.<br><br>
+  More detailed tutorial available here:<br>
+  <a href="/docs/howto/how-to-transfer-files-wirelessly-from-a-computer-to-an-iphone-using-wifi-drive">How to transfer files wirelessly from a computer to an iPhone using WiFi-Drive</a><br><br>
+  <strong>iTunes File Sharing</strong> is another technology that allows you to transfer files from computer to device using iTunes and lightning cable.<br>
+  Just connect a device to the computer using a cable and run iTunes.<br>
+  Open the iTunes → "Applications section" → and find Evertag.<br>
+  Tap on the app icon to see a shared folder.<br>
+  Copy files from the computer to the shared folder on the device.<br><br>
+  Detailed instruction available here:<br>
+  <a href="/docs/howto/how-to-play-local-itunes-files-on-my-iphone">How to play local files (iTunes files) on my iPhone</a>
+evertagFAQ8Title: "What audio formats does Evertag support?"
+evertagFAQ8Content: |
+  Here's the full list of supported audio formats and their corresponding file extensions:<br><br>
+  MP3, OGG, OGA, FLAC, MPC, WV, SPX, OPUS, TTA, M4A, M4R, M4B, M4P, MP4, 3G2, M4V, WMA, ASF, AIF, AIFF, AFC, AIFC, WAV, APE, MOD, MODULE, NTS, WOW, S3M, IT, XM.
+evertagFAQ9Title: "What audio tags does Evertag support?"
+evertagFAQ9Content: |
+  Here's the full list of supported audio tags:<br><br>
+  ASIN, AcoustID: Fingerprint, AcoustID: Identifier, Album, Album Artist, Album Artist Sort Order, Album Cover, Album Sort Order, Arranger, Artist, Artist Sort Order, Artists, Barcode, Beats Per Minute, Catalog Number, Comment, Compilation, Composer, Composer Sort Order, Conductor, Content Group, Copyright, Description, Director, Disk Number, Disk Subtitle, Disk Total, Encoded By, Encoder Settings, Encoding Time, Engineer, File Owner, File Type, Genre, Grouping, ISRC, Initial Key, Involved People, Language, Length, License, Lyricist, Lyrics Advisory Rating, Lyrics Unsynced, Media Type, Mix DJ, Mixer, Mood, Movement Name, Movement Number, Movement Total, MusicBrainz: Album Artist ID, MusicBrainz: Album ID, MusicBrainz: Album Release Country, MusicBrainz: Album Status, MusicBrainz: Album Type, MusicBrainz: Artist ID, MusicBrainz: Disc ID, MusicBrainz: Original Album ID, MusicBrainz: Original Artist ID, MusicBrainz: Release Group ID, MusicBrainz: Release Track ID, MusicBrainz: TRM ID, MusicBrainz: Track ID, MusicBrainz: Work ID, MusicIP: Fingerprint, MusicIP: PUID, Musician Credits, Narrator, Net Radio Owner, Net Radio Station, Original Album, Original Artist, Original File Name, Original Lyricist, Original Release Date, Original Release Year, Performer, Podcast, Podcast Category, Podcast Description, Podcast ID, Podcast Keywords, Podcast URL, Producer, Publisher, Rating, Record Label, Release Country, Release Status, Release Type, Remixed By, Replay Gain: Album Gain, Replay Gain: Album Peak, Replay Gain: Album Range, Replay Gain: Reference Loudness, Replay Gain: Track Gain, Replay Gain: Track Peak, Replay Gain: Track Range, Script, Show Movement, Show Name, Show Name Sort Order, Subtitle, Track Number, Track Title, Track Title Sort Order, Track Total, WWW, WWW: Artist, WWW: Audio File, WWW: Audio Source, WWW: Commercial Info, WWW: Copyright, WWW: Payment, WWW: Publisher, WWW: Radio Page, Website, Work Title, Writer, Year<br><br>
+  <a href="/docs/guide/evertag/evertag-tag-field-mappings/">Read more</a>
+evertagFAQ10Title: "How to download files?"
+evertagFAQ10Content: |
+  Before you can download audio files and edit audio tags, you need to connect a cloud storage service.<br>
+  Open the "Connections" screen and add your cloud storage provider.<br>
+  Once added, you can begin downloading files to the app.<br><br>
+  To download files from the cloud:<br>
+  – Open the connected cloud storage service.<br>
+  – Navigate to the folder you want to download.<br>
+  – Tap the "More actions" button ("...") in the top right corner and select the "Select" menu item.<br>
+  – Choose the files or folders you want to download and tap on the "Download" action.
+evertagFAQ11Title: "What cloud services are supported?"
+evertagFAQ11Content: |
+  If your music library is stored in the cloud, you can connect the most popular cloud services directly in the app:<br>
+  Dropbox, OneDrive, Box, MEGA, Yandex.Disk, MediaFire, pCloud, HiDrive.<br><br>
+  You can browse and manage your files using the built-in file manager. The app supports all basic file operations like rename, delete, move, and more.<br><br>
+  You can also edit audio files stored locally on your device using the open-in-place feature. No need to copy them from other apps — simply open and edit them directly.
+evertagFAQ12Title: "How to automatically update file's metadata on a cloud service?"
+evertagFAQ12Content: |
+  Once you finish editing the metadata, tap the "Save" button in the top right corner to apply the changes to the selected files.<br><br>
+  If you're editing a file stored in the cloud, the app gives you several options for updating the file's metadata. These behaviors can be customized in the settings:<br><br>
+  • <strong>Show confirmation message</strong> – When enabled, the app will prompt you with a confirmation message before updating the file on the cloud.<br>
+  • <strong>Automatically update file's metadata</strong> – When enabled, the app will apply the changes to the cloud file right after saving.<br>
+  • <strong>Do not update file's metadata</strong> – When enabled, the app will skip updating the cloud file's metadata after editing.<br><br>
+  You can find and modify these options in the Evertag settings under the metadata update preferences section.
+evertagFAQ13Title: "How to add a new account?"
+evertagFAQ13Content: |
+  To connect a cloud service, open the "Connections" tab → select the "Connect to cloud storage" menu item → choose a cloud storage service from the list → enter your credentials and tap "Done".<br><br>
+  If you encounter issues, make sure your Internet connection is active and double-check your login and password.<br><br>
+  Currently supported services include: Dropbox, OneDrive, Box, MEGA, Yandex.Disk, Media Fire, PCloud, and HiDrive.<br><br>
+  In the Premium version of the app, you can add an unlimited number of cloud accounts.
+evertagFAQ14Title: "How to manage my files in the network storage?"
+evertagFAQ14Content: |
+  If you need to edit several files located on your cloud storage, activate select mode by tapping the "..." button in the top right corner.<br><br>
+  Once activated, checkboxes will appear next to each file. You can then perform actions on individual files or select multiple files to apply bulk actions.<br><br>
+  Available actions for selected files:<br>
+  • <strong>Download</strong> – Download a file or folder from cloud storage to the "Local Files" section.<br>
+  • <strong>Move</strong> – Move a file or folder to a different folder within the cloud storage.<br>
+  • <strong>Rename</strong> – Rename a file or folder on the remote storage.<br>
+  • <strong>Delete</strong> – Permanently delete a file or folder from the cloud storage.<br>
+  • <strong>Sort</strong> – Sort files by name, size, or date edited.<br>
+  • <strong>Grid/List</strong> – Switch between table view and thumbnail view modes.<br><br>
+  If there isn't enough space to display all options, a "More actions" button will appear. Tap it to access the full list of available actions.
+evertagFAQ15Title: "How to edit several files as one file?"
+evertagFAQ15Content: |
+  With "batch mode", you can edit multiple files at once and apply shared metadata changes quickly and efficiently.<br><br>
+  To activate batch mode:<br>
+  • Scroll to the bottom of the screen.<br>
+  • Tap the "Edit several files simultaneously" button.<br><br>
+  This mode is especially useful when you need to apply the same album name, artist, genre, or other metadata fields across multiple audio files.
+
+# User Guide
+evertagGuideNavigation: "Navigation"
+evertagGuideNavigationSubtitle: "Learn to navigate Evertag using the Tab Bar on iPhone or the Left Menu on iPad and Mac."
+evertagGuideConnections: "Connections"
+evertagGuideConnectionsSubtitle: "Connect your cloud accounts and manage online files."
+evertagGuideLocalFiles: "Local Files"
+evertagGuideLocalFilesSubtitle: "Access and manage your local audio files."
+evertagGuideTagEditor: "Tag Editor"
+evertagGuideTagEditorSubtitle: "Edit audio tags, album covers, and metadata."
+evertagGuideSettings: "Settings"
+evertagGuideSettingsSubtitle: "Customize Evertag's settings and preferences."
+evertagGuideFieldMappings: "Tag Field Mappings"
+evertagGuideFieldMappingsSubtitle: "Reference guide for supported tag fields across formats."
