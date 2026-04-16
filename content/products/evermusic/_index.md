@@ -281,7 +281,7 @@ screenshots:
   {{< hextra/feature-card
     title="Free"
     class="pricing-card pricing-free"
-    subtitle=`• Contain Ads<br />
+    subtitle=`<span class='pricing-details'>• Contain Ads<br />
 • Playlists (10)<br />
 • Cloud services (3)<br />
 • Archive media collections (3)<br />
@@ -293,7 +293,7 @@ screenshots:
 • Automatic tags search (20)<br />
 • Export to M3U (5)<br />
 • Download files<br />
-• Export iTunes songs<br /><br />
+• Export iTunes songs</span><br /><br />
 <span class='hx:block hx:mt-2 hx:text-center'>
   <span class='pricing-btn hx:inline-block hx:rounded-full hx:border hx:border-gray-200 hx:dark:border-neutral-800 hx:px-3 hx:py-1 hx:transition-all hx:duration-200'>
     <strong>Free</strong>
@@ -304,7 +304,7 @@ screenshots:
   {{< hextra/feature-card
     title="Premium Monthly"
     class="pricing-card pricing-subscription"
-    subtitle=`• Ad-free experience<br />
+    subtitle=`<span class='pricing-details'>• Ad-free experience<br />
 • Unlimited playlists<br />
 • Unlimited cloud services<br />
 • Unlimited media archiving<br />
@@ -320,7 +320,7 @@ screenshots:
 • Export iTunes collections<br />
 • Download folders<br />
 • Download collections<br />
-• Full personalization<br /><br />
+• Full personalization</span><br /><br />
 <span class='hx:block hx:mt-2 hx:text-center'>
   <span class='pricing-btn hx:inline-block hx:rounded-full hx:border hx:border-gray-200 hx:dark:border-neutral-800 hx:px-3 hx:py-1 hx:transition-all hx:duration-200'>
     <strong>$1.99</strong>/month
@@ -331,7 +331,7 @@ screenshots:
   {{< hextra/feature-card
     title="Premium Yearly"
     class="pricing-card pricing-subscription"
-    subtitle=`• Ad-free experience<br />
+    subtitle=`<span class='pricing-details'>• Ad-free experience<br />
 • Unlimited playlists<br />
 • Unlimited cloud services<br />
 • Unlimited media archiving<br />
@@ -347,7 +347,7 @@ screenshots:
 • Export iTunes collections<br />
 • Download folders<br />
 • Download collections<br />
-• Full personalization<br /><br />
+• Full personalization</span><br /><br />
 <span class='hx:block hx:mt-2 hx:text-center'>
   <span class='pricing-btn hx:inline-block hx:rounded-full hx:border hx:border-gray-200 hx:dark:border-neutral-800 hx:px-3 hx:py-1 hx:transition-all hx:duration-200'>
     7 days free, then <strong>$12.99</strong>/year
@@ -358,7 +358,7 @@ screenshots:
   {{< hextra/feature-card
     title="Premium Lifetime"
     class="pricing-card pricing-lifetime"
-    subtitle=`• Ad-free experience<br />
+    subtitle=`<span class='pricing-details'>• Ad-free experience<br />
 • Unlimited playlists<br />
 • Unlimited cloud services<br />
 • Unlimited media archiving<br />
@@ -374,13 +374,12 @@ screenshots:
 • Export iTunes collections<br />
 • Download folders<br />
 • Download collections<br />
-• Full personalization<br /><br />
+• Full personalization</span><br /><br />
 <span class='hx:block hx:mt-2 hx:text-center'>
   <span class='pricing-btn hx:inline-block hx:rounded-full hx:border hx:border-gray-200 hx:dark:border-neutral-800 hx:px-3 hx:py-1 hx:transition-all hx:duration-200'>
     <strong>$59.99</strong>/lifetime
   </span>
 </span>`
-    style="background: radial-gradient(ellipse at 50% 80%, rgba(6,182,212,0.05), hsla(0,0%,100%,0));"
   >}}
 
 {{< /hextra/feature-grid >}}

@@ -165,7 +165,7 @@ screenshots:
   {{< hextra/feature-card
     title="Free"
     class="pricing-card pricing-free"
-    subtitle=`• Includes ads<br>
+    subtitle=`<span class='pricing-details'>• Includes ads<br>
 • Edit audio tags<br>
 • Edit album covers<br>
 • Edit files simultaneously<br>
@@ -173,7 +173,7 @@ screenshots:
 • Cloud storages (1)<br>
 • Favorites (10)<br>
 • Automatically find tags (20/day)<br>
-• Search album covers (20/day)<br /><br />
+• Search album covers (20/day)</span><br /><br />
 <span class='hx:block hx:mt-2 hx:text-center'>
   <span class='pricing-btn hx:inline-block hx:rounded-full hx:border hx:border-gray-200 hx:dark:border-neutral-800 hx:px-3 hx:py-1 hx:transition-all hx:duration-200'>
     <strong>Free</strong>
@@ -186,7 +186,7 @@ screenshots:
     tagType="default"
     title="Premium Monthly"
     class="pricing-card pricing-subscription"
-    subtitle=`• No ads<br />
+    subtitle=`<span class='pricing-details'>• No ads<br />
 • Edit audio tags<br>
 • Edit album covers<br>
 • Edit files simultaneously<br>
@@ -195,7 +195,7 @@ screenshots:
 • Favorites (unlimited)<br />
 • Automatically find tags (unlimited)<br />
 • Search album covers (unlimited)<br />
-• Personalization<br /><br />
+• Personalization</span><br /><br />
 <span class='hx:block hx:mt-2 hx:text-center'>
   <span class='pricing-btn hx:inline-block hx:rounded-full hx:border hx:border-gray-200 hx:dark:border-neutral-800 hx:px-3 hx:py-1 hx:transition-all hx:duration-200'>
     <strong>$1.99</strong>/month
@@ -206,7 +206,7 @@ screenshots:
   {{< hextra/feature-card
     title="Premium Yearly"
     class="pricing-card pricing-subscription"
-    subtitle=`• No ads<br />
+    subtitle=`<span class='pricing-details'>• No ads<br />
 • Edit audio tags<br>
 • Edit album covers<br>
 • Edit files simultaneously<br>
@@ -215,7 +215,7 @@ screenshots:
 • Favorites (unlimited)<br />
 • Automatically find tags (unlimited)<br />
 • Search album covers (unlimited)<br />
-• Personalization<br /><br />
+• Personalization</span><br /><br />
 <span class='hx:block hx:mt-2 hx:text-center'>
   <span class='pricing-btn hx:inline-block hx:rounded-full hx:border hx:border-gray-200 hx:dark:border-neutral-800 hx:px-3 hx:py-1 hx:transition-all hx:duration-200'>
     7 days free, then <strong>$12.99</strong>/year
@@ -226,7 +226,7 @@ screenshots:
   {{< hextra/feature-card
     title="Premium Lifetime"
     class="pricing-card pricing-lifetime"
-    subtitle=`• No ads<br />
+    subtitle=`<span class='pricing-details'>• No ads<br />
 • Edit audio tags<br>
 • Edit album covers<br>
 • Edit files simultaneously<br>
@@ -235,7 +235,7 @@ screenshots:
 • Favorites (unlimited)<br />
 • Automatically find tags (unlimited)<br />
 • Search album covers (unlimited)<br />
-• Personalization<br /><br />
+• Personalization</span><br /><br />
 <span class='hx:block hx:mt-2 hx:text-center'>
   <span class='pricing-btn hx:inline-block hx:rounded-full hx:border hx:border-gray-200 hx:dark:border-neutral-800 hx:px-3 hx:py-1 hx:transition-all hx:duration-200'>
     <strong>$24.99</strong>/lifetime

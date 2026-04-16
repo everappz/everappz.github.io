@@ -251,7 +251,7 @@ App Store Reviews
   {{< hextra/feature-card
     title="Free"
     class="pricing-card pricing-free"
-    subtitle=`• Contain Ads<br />
+    subtitle=`<span class='pricing-details'>• Contain Ads<br />
 • Playlists (10)<br />
 • Cloud services (3)<br />
 • Archive media collections (3)<br />
@@ -262,7 +262,7 @@ App Store Reviews
 • Offline albums (1)<br />
 • Automatic tags search (20)<br />
 • Export to M3U (5)<br />
-• Download files<br /><br />
+• Download files</span><br /><br />
 <span class='hx:block hx:mt-2 hx:text-center'>
   <span class='pricing-btn hx:inline-block hx:rounded-full hx:border hx:border-gray-200 hx:dark:border-neutral-800 hx:px-3 hx:py-1 hx:transition-all hx:duration-200'>
     <strong>Free</strong>
@@ -273,7 +273,7 @@ App Store Reviews
   {{< hextra/feature-card
     title="Premium Monthly"
     class="pricing-card pricing-subscription"
-    subtitle=`• Ad-free experience<br />
+    subtitle=`<span class='pricing-details'>• Ad-free experience<br />
 • Unlimited playlists<br />
 • Unlimited cloud services<br />
 • Unlimited media archiving<br />
@@ -287,7 +287,7 @@ App Store Reviews
 • Download files<br />
 • Download folders<br />
 • Download collections<br />
-• Full personalization<br /><br />
+• Full personalization</span><br /><br />
 <span class='hx:block hx:mt-2 hx:text-center'>
   <span class='pricing-btn hx:inline-block hx:rounded-full hx:border hx:border-gray-200 hx:dark:border-neutral-800 hx:px-3 hx:py-1 hx:transition-all hx:duration-200'>
     <strong>$2.99</strong>/month
@@ -298,7 +298,7 @@ App Store Reviews
   {{< hextra/feature-card
     title="Premium Yearly"
     class="pricing-card pricing-subscription"
-    subtitle=`• Ad-free experience<br />
+    subtitle=`<span class='pricing-details'>• Ad-free experience<br />
 • Unlimited playlists<br />
 • Unlimited cloud services<br />
 • Unlimited media archiving<br />
@@ -312,7 +312,7 @@ App Store Reviews
 • Download files<br />
 • Download folders<br />
 • Download collections<br />
-• Full personalization<br /><br />
+• Full personalization</span><br /><br />
 <span class='hx:block hx:mt-2 hx:text-center'>
   <span class='pricing-btn hx:inline-block hx:rounded-full hx:border hx:border-gray-200 hx:dark:border-neutral-800 hx:px-3 hx:py-1 hx:transition-all hx:duration-200'>
     <strong>$19.99</strong>/year
@@ -323,7 +323,7 @@ App Store Reviews
   {{< hextra/feature-card
     title="Premium Lifetime"
     class="pricing-card pricing-lifetime"
-    subtitle=`• Ad-free experience<br />
+    subtitle=`<span class='pricing-details'>• Ad-free experience<br />
 • Unlimited playlists<br />
 • Unlimited cloud services<br />
 • Unlimited media archiving<br />
@@ -337,7 +337,7 @@ App Store Reviews
 • Download files<br />
 • Download folders<br />
 • Download collections<br />
-• Full personalization<br /><br />
+• Full personalization</span><br /><br />
 <span class='hx:block hx:mt-2 hx:text-center'>
   <span class='pricing-btn hx:inline-block hx:rounded-full hx:border hx:border-gray-200 hx:dark:border-neutral-800 hx:px-3 hx:py-1 hx:transition-all hx:duration-200'>
     <strong>$69.99</strong>/lifetime

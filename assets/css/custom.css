@@ -230,6 +230,12 @@
     transition: color 0s;
 }
 
+.pricing-card:hover .pricing-details {
+    color: var(--hover-color) !important;
+    opacity: 0.8;
+    transition: all 0s;
+}
+
 .pricing-card:hover .pricing-btn {
     background-color: var(--hover-color) !important;
     color: white !important;
