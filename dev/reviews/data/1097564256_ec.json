@@ -1,0 +1,32 @@
+[
+  {
+    "country": "ec",
+    "id": "11252927625",
+    "author": "Miguel Ángel$7",
+    "rating": 2,
+    "title": "No cargan las canciones",
+    "content": "Soy nuevo en la app, el primer mes estuvo bien. Pero hoy al abrir la app las canciones no cargaban, y sigo sin poder escuchar música.",
+    "date": "2024-05-10T10:29:00-07:00",
+    "version": "5.4"
+  },
+  {
+    "country": "ec",
+    "id": "9887424891",
+    "author": "24/01/85",
+    "rating": 5,
+    "title": "Saludos",
+    "content": "No me gustan los cambios que han hecho en la edición de las etiquetas de audio de audio creo que no es necesario",
+    "date": "2023-05-03T00:29:15-07:00",
+    "version": "4.3"
+  },
+  {
+    "country": "ec",
+    "id": "7287076918",
+    "author": "Mitch 31",
+    "rating": 5,
+    "title": "la mejor aplicación q he podido descargar, muchas gracias",
+    "content": "la mejor",
+    "date": "2021-05-01T17:58:27-07:00",
+    "version": "3.8"
+  }
+]

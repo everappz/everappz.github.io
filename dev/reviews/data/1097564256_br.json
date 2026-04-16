@@ -1,0 +1,502 @@
+[
+  {
+    "country": "br",
+    "id": "13689708417",
+    "author": "Vinnyrd7",
+    "rating": 4,
+    "title": "Melhoria",
+    "content": "Para o app ficar 100% precisa melhorar o tempo de resposta para musica tacar, pois mesmo com uma internet boa a musica demora muito para iniciar a reprodução!",
+    "date": "2026-01-29T08:40:34-07:00",
+    "version": "7.3"
+  },
+  {
+    "country": "br",
+    "id": "13630761279",
+    "author": "Denissond51",
+    "rating": 2,
+    "title": "Problema",
+    "content": "Não esta aparecendo todas as musicas dos álbuns, estão sumindo.",
+    "date": "2026-01-13T17:52:45-07:00",
+    "version": "7.2"
+  },
+  {
+    "country": "br",
+    "id": "13605675127",
+    "author": "Crisssss96",
+    "rating": 5,
+    "title": "App maravilhoso",
+    "content": "Amando! Muito prático pra quem tem iPhone e quer colocar músicas de fora.",
+    "date": "2026-01-07T07:16:58-07:00",
+    "version": "7.1"
+  },
+  {
+    "country": "br",
+    "id": "12663809261",
+    "author": "Evandro Marques",
+    "rating": 5,
+    "title": "Top com equalizador.",
+    "content": "Perfeito!!!",
+    "date": "2025-05-16T14:36:28-07:00",
+    "version": "6.5"
+  },
+  {
+    "country": "br",
+    "id": "12658174930",
+    "author": "fabionesid",
+    "rating": 2,
+    "title": "lento",
+    "content": "leva 3 dias pra sincronizar a track da nuvem, muito ruim",
+    "date": "2025-05-15T03:07:58-07:00",
+    "version": "6.5"
+  },
+  {
+    "country": "br",
+    "id": "12450019106",
+    "author": "MarcosV777",
+    "rating": 5,
+    "title": "Ótimo",
+    "content": "Funciona bem, tem todas as funcionalidades mais úteis, é ótimo",
+    "date": "2025-03-22T03:59:06-07:00",
+    "version": "6.3"
+  },
+  {
+    "country": "br",
+    "id": "12333780761",
+    "author": "rafaellucar",
+    "rating": 5,
+    "title": "Muito bom!",
+    "content": "O app funciona perfeitamente e possui muitas ferramentas. Parabéns aos desenvolvedores! Só senti falta do recurso gapless entre faixas.",
+    "date": "2025-02-20T06:59:27-07:00",
+    "version": "6.3"
+  },
+  {
+    "country": "br",
+    "id": "10849124261",
+    "author": "Macieldazl",
+    "rating": 4,
+    "title": "Quase perfeito",
+    "content": "Bom uso o app a muito tempo até tenho o premium dele mas nas últimas semanas está tendo um poblema não sei se é só comigo mas eu estou conseguindo colocar somente uma música por vez no app isso atrasa muito e confesso que está me deixando um pouco chatiado",
+    "date": "2024-01-21T15:39:50-07:00",
+    "version": "5.2"
+  },
+  {
+    "country": "br",
+    "id": "10762594446",
+    "author": "Budablue58",
+    "rating": 5,
+    "title": "As músicas param",
+    "content": "As músicas ficam inacessíveis após chegarem ao final !! Não consigo reproduzi-las novamente ! O app pula para uma música que esteja no início ou metade ... Mas não toca mais as que chegaram até o final !",
+    "date": "2023-12-30T04:45:40-07:00",
+    "version": "5.2"
+  },
+  {
+    "country": "br",
+    "id": "10623688389",
+    "author": "Rickvinil",
+    "rating": 3,
+    "title": "Reprodutor mediano",
+    "content": "É um reprodutor mediano. Complica demais o que deveria ser simples, poucas funções são intuitivas. No iOS 17 há problema na reprodução de áudio em “.ogg” e, diferente do que afirma a descrição, não executa arquivos de imagem “CUE”, ao menos comigo não funciona.",
+    "date": "2023-11-25T05:40:10-07:00",
+    "version": "5.0"
+  },
+  {
+    "country": "br",
+    "id": "10482844939",
+    "author": "Nelson80",
+    "rating": 5,
+    "title": "Excelent",
+    "content": "The best app and support.\nEven on an old device and old operating system, support is provided and the app smoothly fulfills its intended purpose.  thankyou\niPhone 6.",
+    "date": "2023-10-16T15:37:47-07:00",
+    "version": "4.8"
+  },
+  {
+    "country": "br",
+    "id": "10176819213",
+    "author": "Gabriel Malaggi",
+    "rating": 5,
+    "title": "Quase perfeito",
+    "content": "Único bug que encontrei foi ao reproduzir uma música flac via chrome-cast e as vezes ocorre que ela salta a música sem razão.",
+    "date": "2023-07-24T08:04:18-07:00",
+    "version": "4.4"
+  },
+  {
+    "country": "br",
+    "id": "9779974971",
+    "author": "mclancelotte",
+    "rating": 5,
+    "title": "Melhor aplicativo de musica do planeta.",
+    "content": "Aplicativo fácil de usar. Musicas off-line para ouvir onde e quando quiser. Perfeito. Vale à pena ter a versão pró. Vou adquirir depois.\nTodos os tipos de arquivos. Flac, wav, mp3",
+    "date": "2023-04-02T12:36:16-07:00",
+    "version": "4.2"
+  },
+  {
+    "country": "br",
+    "id": "9433188044",
+    "author": "tumucate",
+    "rating": 5,
+    "title": "Muito bom!",
+    "content": "Finalmente um app que eu consiga extrair o máximo dos meus headsets, está perfeito.",
+    "date": "2022-12-25T04:30:55-07:00",
+    "version": "4.2"
+  },
+  {
+    "country": "br",
+    "id": "9357986047",
+    "author": "TiaGeOl",
+    "rating": 5,
+    "title": "O melhor",
+    "content": "Parabéns aos desenvolvedores!",
+    "date": "2022-12-03T17:15:50-07:00",
+    "version": "4.2"
+  },
+  {
+    "country": "br",
+    "id": "9121087709",
+    "author": "Tcostasp",
+    "rating": 5,
+    "title": "Melhor MP3 player",
+    "content": "Procurei vários .. esse é o melhor.",
+    "date": "2022-09-25T10:25:20-07:00",
+    "version": "4.2"
+  },
+  {
+    "country": "br",
+    "id": "9055355135",
+    "author": "Euler Neto",
+    "rating": 5,
+    "title": "Excelente",
+    "content": "O MELHOR EQUALIZADOR DO MUNDO!!! Funciona perfeitamente no IPHONE,passei muito tempo procurando um equalizador e ainda bem que achei esse",
+    "date": "2022-09-05T09:42:24-07:00",
+    "version": "4.2"
+  },
+  {
+    "country": "br",
+    "id": "8121360127",
+    "author": "nilpablo",
+    "rating": 5,
+    "title": "Arquivos CUE",
+    "content": "por favor inclui a leitura de arquivos CUE, ficaria perfeito.",
+    "date": "2021-12-11T23:31:54-07:00",
+    "version": "4.0"
+  },
+  {
+    "country": "br",
+    "id": "7741675930",
+    "author": "DarilWesslen",
+    "rating": 4,
+    "title": "Muito bom, mas…",
+    "content": "Poderiam melhorar a apresentação da capa de álbum quando a música está tocando. A capa do álbum aparece ainda muito pequena na tela. Aplicativos menos sofisticados fazem isso melhor. Não acho que seja dificuldade para vocês.",
+    "date": "2021-08-27T12:37:24-07:00",
+    "version": "3.8"
+  },
+  {
+    "country": "br",
+    "id": "7260672203",
+    "author": "mari.30",
+    "rating": 3,
+    "title": "Bug na função “repetir - parar”",
+    "content": "Não está mais funcionando a função de parar a lista de reprodução em música específica.",
+    "date": "2021-04-24T18:38:24-07:00",
+    "version": "3.8"
+  },
+  {
+    "country": "br",
+    "id": "6776503279",
+    "author": "PaiNardo",
+    "rating": 5,
+    "title": "Já está perfeito.",
+    "content": "O aplicativo está perfeito e funcional mas os deva estão correndo para deixar ainda melhor. Recomendo muito!!",
+    "date": "2020-12-20T21:04:01-07:00",
+    "version": "3.6"
+  },
+  {
+    "country": "br",
+    "id": "6760260806",
+    "author": "jauejdkoq",
+    "rating": 5,
+    "title": "Coloquem o equalizador manual deNovo",
+    "content": "Coloquem o equalizador manual de novo",
+    "date": "2020-12-16T10:40:30-07:00",
+    "version": "3.5"
+  },
+  {
+    "country": "br",
+    "id": "6613640976",
+    "author": "Matheus.MK",
+    "rating": 1,
+    "title": "Deixou a desejar!",
+    "content": "Ja foi mt bom!...\nPorém depois dessa atualização quando almentamos o agudo ele perde ganho de graves. Prefiro o Evermusic",
+    "date": "2020-11-05T20:02:42-07:00",
+    "version": "3.4"
+  },
+  {
+    "country": "br",
+    "id": "6591346144",
+    "author": "david0801528303",
+    "rating": 1,
+    "title": "Equalizador",
+    "content": "Nova atualização está dando erro no equalizador \nToca uma música com o equalizador aí quando mudo de faixa o equalizador para de funcionar",
+    "date": "2020-10-30T13:39:04-07:00",
+    "version": "3.3"
+  },
+  {
+    "country": "br",
+    "id": "6316909065",
+    "author": "MattolaMelo",
+    "rating": 5,
+    "title": "APP PERFEITO",
+    "content": "esse app é perfeito sério tudo que eu precisava",
+    "date": "2020-08-13T20:57:14-07:00",
+    "version": "3.2"
+  },
+  {
+    "country": "br",
+    "id": "6109783799",
+    "author": "SidLira",
+    "rating": 5,
+    "title": "Muito bom!",
+    "content": "Aplicativo excelente para ouvir Flac!",
+    "date": "2020-06-22T14:40:28-07:00",
+    "version": "3.2"
+  },
+  {
+    "country": "br",
+    "id": "5755191375",
+    "author": "Mvrinaldi",
+    "rating": 5,
+    "title": "The best",
+    "content": "Disparado o melhor player!!! Tem tudo o q qq entusiasta de um bom player gosta!! Equalizador perfeito e de fácil acesso! Listas fáceis de criar e o melhor de tudo!!! Vc baixa musicas em qq app e envia direto para o Flacbox sem precisar de computador!!!! Pra ser nota 11!!!!",
+    "date": "2020-04-03T02:59:52-07:00",
+    "version": "3.2"
+  },
+  {
+    "country": "br",
+    "id": "5492564674",
+    "author": "Vilanokia",
+    "rating": 5,
+    "title": "Ótimo mas...",
+    "content": "Trata-se de um excelente equalizador, talvez o melhor que já testei. No entanto achei a interface um tanto confusa. Não consegui executar minhas músicas baixadas no iTunes, me parece que há uma incompatibilidade para os arquivos MP4. Consegui executar apenas músicas ripadas de CDs. Por isto dei 3 estrelas.",
+    "date": "2020-02-05T14:09:12-07:00",
+    "version": "2.8"
+  },
+  {
+    "country": "br",
+    "id": "5241044047",
+    "author": "André Braga MS",
+    "rating": 5,
+    "title": "Ótimo",
+    "content": "Ótimo aplicativo e não é caro, vale a pena, atualizem sempre, parabéns...",
+    "date": "2019-12-06T10:14:31-07:00",
+    "version": "2.8"
+  },
+  {
+    "country": "br",
+    "id": "5215839575",
+    "author": "jsjuznjisoa",
+    "rating": 5,
+    "title": "Top",
+    "content": "O melhorrrrrrrr\nBaixeemmm!!",
+    "date": "2019-11-30T02:06:51-07:00",
+    "version": "2.8"
+  },
+  {
+    "country": "br",
+    "id": "5007387345",
+    "author": "cathichin",
+    "rating": 3,
+    "title": "Está quase bom",
+    "content": "Quando seleciono uma playlist e começa a tocar, qnd acaba a música que eu estava escutando não passa para a próxima e o aplicativo para de tocar a música pelo menos com a tela bloqueada",
+    "date": "2019-10-24T08:32:51-07:00",
+    "version": "2.7"
+  },
+  {
+    "country": "br",
+    "id": "5006693150",
+    "author": "Allisson Samin",
+    "rating": 5,
+    "title": "Ótimo",
+    "content": "Ótimo",
+    "date": "2019-10-24T06:20:14-07:00",
+    "version": "2.7"
+  },
+  {
+    "country": "br",
+    "id": "4969402702",
+    "author": "Gateiro",
+    "rating": 5,
+    "title": "Perfeito",
+    "content": "O melhor da categoria, eu amei, é ótimo e não é caro, atualizem sempre.",
+    "date": "2019-10-18T14:47:25-07:00",
+    "version": "2.7"
+  },
+  {
+    "country": "br",
+    "id": "4942397065",
+    "author": "igula1",
+    "rating": 1,
+    "title": "Trava muito",
+    "content": "Ele tem um sério problema de não rodar algumas músicas seguintes de forma contínua. Acaba a música e a seguinte não toca. Só volta a tocar se passar as músicas seguintes. Isso ocorre tanto no modo normal ou shuffle. Com o tipo de arquivo WMA é impossível. Uso Iphone xr",
+    "date": "2019-10-13T14:12:49-07:00",
+    "version": "2.6"
+  },
+  {
+    "country": "br",
+    "id": "4762937912",
+    "author": "Sarnaglia",
+    "rating": 5,
+    "title": "Ótimo aplicativo",
+    "content": "Entre muitos testados, o melhor ate o momento",
+    "date": "2019-09-11T16:48:12-07:00",
+    "version": "2.5"
+  },
+  {
+    "country": "br",
+    "id": "4094514575",
+    "author": "LeonardoMitchell",
+    "rating": 2,
+    "title": "Trava muito",
+    "content": "O aplicativo em si é muito bom, mas ele trava demais. A arte do álbum fica com qualidade baixa mesmo estando em alta qualidade, ele não é fluido, é lento...",
+    "date": "2019-05-03T06:44:34-07:00",
+    "version": "2.5"
+  },
+  {
+    "country": "br",
+    "id": "3559600571",
+    "author": "Hugo Drummer",
+    "rating": 5,
+    "title": "Excelente aplicativo streaming de música pessoal.",
+    "content": "Aplicativo muito bem feito, muitos recursos recomendo muito .",
+    "date": "2018-12-22T05:57:43-07:00",
+    "version": "2.3"
+  },
+  {
+    "country": "br",
+    "id": "3230349723",
+    "author": "lilianalista",
+    "rating": 4,
+    "title": "Ótimo aplicativo",
+    "content": "O melhor player da loja. O único aplicativo que tem atendido minhas expectativas em relação a player de música no iPhone. Instalei vários da categoria e não tinha achado ainda um simples player das músicas que já estava na minha biblioteca no aplicativo Documentos By que também é um ótimo aplicativo, mas eu queria mesmo era um simples player para ouvir minhas músicas já baixadas. Único aplicativo que ouve áudios em formato opus (tipo voz do WhatsApp)Merece nota 1000. Parabéns aos desenvolvedores.",
+    "date": "2018-09-25T18:38:55-07:00",
+    "version": "2.1"
+  },
+  {
+    "country": "br",
+    "id": "2384476380",
+    "author": "nixiefacc",
+    "rating": 5,
+    "title": "O melhor EVEEEEEEEEEER!!",
+    "content": "Ele é simplesmente perfeito.",
+    "date": "2018-04-04T16:55:21-07:00",
+    "version": "2.0"
+  },
+  {
+    "country": "br",
+    "id": "2227737083",
+    "author": "herllin",
+    "rating": 5,
+    "title": "Top",
+    "content": "Agora sim",
+    "date": "2018-02-19T23:21:49-07:00",
+    "version": "2.0"
+  },
+  {
+    "country": "br",
+    "id": "2030642386",
+    "author": "Villat222",
+    "rating": 5,
+    "title": "Gostei...",
+    "content": ".........",
+    "date": "2017-12-26T18:34:31-07:00",
+    "version": "2.0"
+  },
+  {
+    "country": "br",
+    "id": "2027032504",
+    "author": "Dan.1.el",
+    "rating": 3,
+    "title": "It does not work with cue files",
+    "content": "One little giant step to perfection missing: working with .cue files!",
+    "date": "2017-12-25T12:58:14-07:00",
+    "version": "2.0"
+  },
+  {
+    "country": "br",
+    "id": "1998329141",
+    "author": "Matheus Leoci",
+    "rating": 4,
+    "title": "É ótimo! Mas...",
+    "content": "Falta a opção de ordenar as músicas na biblioteca pelo número do disco, porque quando coloco um álbum duplo as músicas aparecem todas misturadas, ignorando que são dois discos separados.",
+    "date": "2017-12-15T05:28:01-07:00",
+    "version": "2.0"
+  },
+  {
+    "country": "br",
+    "id": "1991226244",
+    "author": "fuzzlipe",
+    "rating": 5,
+    "title": "Excelente para rodar Flac",
+    "content": "Além de rodar arquivos FLAC, de alta qualidade, oferece várias funções de sincronizar o app com nuvens onde você pode colocar seus arquivos, sem precisar de cabos.",
+    "date": "2017-12-12T11:01:27-07:00",
+    "version": "2.0"
+  },
+  {
+    "country": "br",
+    "id": "1944699691",
+    "author": "Vmlacerda",
+    "rating": 5,
+    "title": "Excelente",
+    "content": "Excelente programa, interface amigável, intuitiva, bonita e de fácil manuseio, possibilita inclusive conectar-se com todos dispositivos linkados em sua rede ou passíveis de serem conectados como outgoing, suporte para arquivos lossless flac.",
+    "date": "2017-11-23T23:54:56-07:00",
+    "version": "2.0"
+  },
+  {
+    "country": "br",
+    "id": "1888103960",
+    "author": "Bukowski o beberrão",
+    "rating": 5,
+    "title": "Adorei!",
+    "content": "Deu gosto, muito bom mesmo.",
+    "date": "2017-10-31T10:49:23-07:00",
+    "version": "2.0"
+  },
+  {
+    "country": "br",
+    "id": "1863881511",
+    "author": "Renegado de Óreon",
+    "rating": 5,
+    "title": "Muito bom e fácil de utilizar.",
+    "content": "Minha única ressalva é que o mesmo poderia oferecer suporte ao iCloud e outros serviços de armazenamento.",
+    "date": "2017-10-21T01:15:51-07:00",
+    "version": "2.0"
+  },
+  {
+    "country": "br",
+    "id": "1594311461",
+    "author": "Mokirj",
+    "rating": 5,
+    "title": "The best player",
+    "content": "The best player",
+    "date": "2017-04-21T09:52:31-07:00",
+    "version": "1.7"
+  },
+  {
+    "country": "br",
+    "id": "1570312518",
+    "author": "Jussimir",
+    "rating": 5,
+    "title": "Awesome!",
+    "content": "Awesome free flac player!",
+    "date": "2017-03-22T14:47:05-07:00",
+    "version": "1.6"
+  },
+  {
+    "country": "br",
+    "id": "1541072569",
+    "author": "JBMedeiros",
+    "rating": 5,
+    "title": "The best FLAC Player for iOS",
+    "content": "Don't loose your time with other$.",
+    "date": "2017-02-09T19:38:11-07:00",
+    "version": "1.6"
+  }
+]

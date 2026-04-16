@@ -1,0 +1,32 @@
+[
+  {
+    "country": "pl",
+    "id": "12350270136",
+    "author": "Patryk357",
+    "rating": 4,
+    "title": "Spoko",
+    "content": "Aplikacja moim zdaniem najlepsza do zastąpienia Foobar2000, z chęcią bym ją kupił, jednakże czas załadowania pliku jak i samej aplikacje mnie nie zachęca",
+    "date": "2025-02-24T09:29:51-07:00",
+    "version": "7.2"
+  },
+  {
+    "country": "pl",
+    "id": "10887863811",
+    "author": "Piotrkwi",
+    "rating": 5,
+    "title": "Perfekt",
+    "content": "Super aplikacja, częste aktualizacje świadczą o tym, że jest rozwijana.\nOgrom opcji i wyśmienity korektor.\nUżywam, praktycznie codziennie, na iphonie i mac mini",
+    "date": "2024-02-01T00:39:46-07:00",
+    "version": "6.1"
+  },
+  {
+    "country": "pl",
+    "id": "8835907282",
+    "author": "Staszko Siemaszko",
+    "rating": 1,
+    "title": "Kiepski :(((",
+    "content": "Kiepski.Dobrze ze mozna darmowa werje sprawdzic i przetestowac. Nic specjalnego,slabe mozliwosci konfiguracji, malo wbudowanych opcji. Szkoda kasy na platna wersje. Na darmowa wersje rownierz szkoda miejsca na dysku. Sa o wiele lepsze aplikacje od tej. Nie polecam.",
+    "date": "2022-07-03T03:26:56-07:00",
+    "version": "4.9"
+  }
+]

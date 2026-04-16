@@ -1,0 +1,22 @@
+[
+  {
+    "country": "it",
+    "id": "11896098209",
+    "author": "Frankonne",
+    "rating": 5,
+    "title": "Evermusic",
+    "content": "Ottimo player..riproduzione di qualità, amplificatore super!!!",
+    "date": "2024-10-31T07:53:18-07:00",
+    "version": "6.9"
+  },
+  {
+    "country": "it",
+    "id": "10859785657",
+    "author": "Locojazz",
+    "rating": 3,
+    "title": "senza ne gloria ne infamia",
+    "content": "l'interfaccia è piacevole e ben progettata ma ci sono un po' troppi bachi che la rendono farraginosa da usare",
+    "date": "2024-01-24T12:18:10-07:00",
+    "version": "6.0"
+  }
+]

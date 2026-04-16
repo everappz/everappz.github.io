@@ -1,0 +1,72 @@
+[
+  {
+    "country": "no",
+    "id": "10714189548",
+    "author": "a13k5",
+    "rating": 2,
+    "title": "Playlist bugging after pausing playback",
+    "content": "When starting playback from local files, and pause mid-playback and then resume, the next song won’t play. \n\nChecking the playlist and then clicking on a random song, the player scrolls through all the files in a buggy manor.\nI then have to restart the playback by restarting the app.",
+    "date": "2023-12-18T15:59:03-07:00",
+    "version": "5.0"
+  },
+  {
+    "country": "no",
+    "id": "8046993735",
+    "author": "Aurora OB",
+    "rating": 4,
+    "title": "God",
+    "content": "Nice musicplayer for offline files but missing widgets",
+    "date": "2021-11-21T01:03:35-07:00",
+    "version": "3.9"
+  },
+  {
+    "country": "no",
+    "id": "7935519115",
+    "author": "BMXJergen",
+    "rating": 1,
+    "title": "Ad's with time makes it only 1 star",
+    "content": "Have to wait to start listen to my own music.. its okey with ads i can x out, but when they got a timer i will delete the app...",
+    "date": "2021-10-20T11:26:43-07:00",
+    "version": "3.9"
+  },
+  {
+    "country": "no",
+    "id": "4547555220",
+    "author": "Roberto018",
+    "rating": 2,
+    "title": "Worse audio quality",
+    "content": "It's great that this app is so simple to use, has built-in EQ and a handful of neat features, but...\nCompared to Apple's native music app, the audio quality leaves much to be desired. FLAC files should not sound worse than 192kbps, and I would really like a clarification as to why this is.",
+    "date": "2019-07-31T14:08:48-07:00",
+    "version": "2.5"
+  },
+  {
+    "country": "no",
+    "id": "4194090660",
+    "author": "Asphalt S",
+    "rating": 3,
+    "title": "Meh ..",
+    "content": "Metadata reader could be better.",
+    "date": "2019-05-22T21:30:02-07:00",
+    "version": "2.5"
+  },
+  {
+    "country": "no",
+    "id": "1679521933",
+    "author": "roeraas",
+    "rating": 4,
+    "title": "Flacbox",
+    "content": "Super avspiller for \"Lossless\" musikk!!",
+    "date": "2017-07-12T09:14:42-07:00",
+    "version": "1.8"
+  },
+  {
+    "country": "no",
+    "id": "1565100779",
+    "author": "Trond Kjetil",
+    "rating": 5,
+    "title": "Very good flac player",
+    "content": "The first usable flac player for ios that I have found",
+    "date": "2017-03-15T11:27:03-07:00",
+    "version": "1.6"
+  }
+]

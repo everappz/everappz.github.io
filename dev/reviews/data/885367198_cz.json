@@ -1,0 +1,122 @@
+[
+  {
+    "country": "cz",
+    "id": "13639349944",
+    "author": "Myšáček_14",
+    "rating": 3,
+    "title": "Chyba v albech",
+    "content": "Přidám ve vestavěném editoru název alba a pak ho smažu. Stáhnu skladbu do offline režimu, spustím přehrávání teto skladby a najednou se odstraněný název alba zase objeví! Neměl by, když jsem ho smazal!! Prosím opravte to, dekuji.",
+    "date": "2026-01-16T02:28:13-07:00",
+    "version": "8.4"
+  },
+  {
+    "country": "cz",
+    "id": "12849900370",
+    "author": "@Josef@",
+    "rating": 5,
+    "title": "Evermusic",
+    "content": "Perfektni aplikace na hudbu 👍",
+    "date": "2025-07-03T20:19:35-07:00",
+    "version": "7.6"
+  },
+  {
+    "country": "cz",
+    "id": "12739560381",
+    "author": "Antelliote",
+    "rating": 5,
+    "title": "Best music player",
+    "content": "love it",
+    "date": "2025-06-05T10:19:57-07:00",
+    "version": "7.4"
+  },
+  {
+    "country": "cz",
+    "id": "12124646229",
+    "author": "PetrCiz",
+    "rating": 3,
+    "title": "Working but not great",
+    "content": "+ Connection to OneDrive works \n+ other cloud solutions also available \n\n- tracks in folder ordered  randomly (eg books chapters or album tracks not players in order)\n- Small options for audiobooks listening (skipping by e.g. 30 seconds / 2 minutes not available)",
+    "date": "2024-12-30T11:15:59-07:00",
+    "version": "7.2"
+  },
+  {
+    "country": "cz",
+    "id": "11952679308",
+    "author": "Degustace",
+    "rating": 5,
+    "title": "Broken",
+    "content": "App is completely broken, I cant import or delete files anymore, hope it will be fixed!",
+    "date": "2024-11-15T05:51:02-07:00",
+    "version": "7.0"
+  },
+  {
+    "country": "cz",
+    "id": "11630342056",
+    "author": "Pomozte mi",
+    "rating": 3,
+    "title": "Já nevím jak se tam ta",
+    "content": "Hudba dá najít ??!!",
+    "date": "2024-08-19T20:42:47-07:00",
+    "version": "6.5"
+  },
+  {
+    "country": "cz",
+    "id": "8862291721",
+    "author": "jirsat",
+    "rating": 5,
+    "title": "Ok",
+    "content": "Ok",
+    "date": "2022-07-11T00:59:11-07:00",
+    "version": "4.9"
+  },
+  {
+    "country": "cz",
+    "id": "8746009466",
+    "author": "swenysk",
+    "rating": 3,
+    "title": "Outstanding",
+    "content": "I really like the feature of syncing music from Samba share. Great selection of protocols and online services.\n\nHowever CarPlay interface would need some serious love, it’s very plain with almost no control (buttons like play all / shuffle all songs in playlist missing)\n\nAlso shortcuts integration would be great at least minimal for playlists and play pause. This would give us control in car to play our playlist with voice. That would at least partially supplement missing Siri integration.\n\nEven considering those downsides, I’m happy that I don’t have to go through painful iTunes music loading no more. It’s worth it.",
+    "date": "2022-06-05T23:17:51-07:00",
+    "version": "4.8"
+  },
+  {
+    "country": "cz",
+    "id": "8135682725",
+    "author": "mirek zatko",
+    "rating": 5,
+    "title": "Vinikajicí přehrávač!",
+    "content": "Děkuji!!",
+    "date": "2021-12-16T03:07:41-07:00",
+    "version": "4.8"
+  },
+  {
+    "country": "cz",
+    "id": "8086963991",
+    "author": "Synchronik",
+    "rating": 5,
+    "title": "Spokojenost",
+    "content": "Přehrávání, stahování vlastní hudby z cloudu, časovač vypnutí apod. Hledal jsem přehrávač na audioknihy a tento splňuje všechny požadavky. Velké plus je i jednorázový nákup a ne žádné měsíční poplatky. Vývojáři si ty peníze opravdu zaslouží.",
+    "date": "2021-12-02T05:52:19-07:00",
+    "version": "4.7"
+  },
+  {
+    "country": "cz",
+    "id": "6899544410",
+    "author": "Superankan",
+    "rating": 5,
+    "title": "Finally proper folder control for music",
+    "content": "I love it! Allows me to use FileZilla (or some other WebDAV access) to transfer whatever I want. Music player works great and now when I don’t have to go trough the hassle of iTunes (or alternative clients) to transfer music I have started to listen to eat more music again, very very cool.",
+    "date": "2021-01-22T03:02:44-07:00",
+    "version": "4.5"
+  },
+  {
+    "country": "cz",
+    "id": "4806162152",
+    "author": "thxm8",
+    "rating": 5,
+    "title": "Best mp3 player",
+    "content": "Would give more stars if there was such option! Thank you😀!!!!!",
+    "date": "2019-09-19T15:54:22-07:00",
+    "version": "3.7"
+  }
+]

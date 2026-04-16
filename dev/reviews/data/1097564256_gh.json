@@ -1,0 +1,42 @@
+[
+  {
+    "country": "gh",
+    "id": "11989897021",
+    "author": "Turkßon",
+    "rating": 4,
+    "title": "Great app, Needs immediate fix",
+    "content": "Updated my iPhone to iOS 18 and the app has been misbehaving since. Sound deteriorates badly when the phone lags just a bit, and does not go back to normal even after the phone has stopped lagging",
+    "date": "2024-11-25T03:24:45-07:00",
+    "version": "6.1"
+  },
+  {
+    "country": "gh",
+    "id": "11952099071",
+    "author": "issah08",
+    "rating": 5,
+    "title": "Fantastic",
+    "content": "The best",
+    "date": "2024-11-15T02:36:44-07:00",
+    "version": "6.1"
+  },
+  {
+    "country": "gh",
+    "id": "8705027655",
+    "author": "Peppatron",
+    "rating": 5,
+    "title": "Vim",
+    "content": "Your is the best music app on iOS",
+    "date": "2022-05-24T18:58:57-07:00",
+    "version": "4.0"
+  },
+  {
+    "country": "gh",
+    "id": "7687268273",
+    "author": "Amaechi10",
+    "rating": 5,
+    "title": "Superb",
+    "content": "Just what I was looking for",
+    "date": "2021-08-13T00:55:15-07:00",
+    "version": "3.8"
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "country": "es",
+    "id": "13693062914",
+    "author": "Osesman",
+    "rating": 1,
+    "title": "No merece la pena",
+    "content": "Dicen que es gratis cuando la ofrecen en Flacbox, pero solo permite 7 días gratis.",
+    "date": "2026-01-30T06:19:48-07:00",
+    "version": "4.1"
+  },
+  {
+    "country": "es",
+    "id": "13308536874",
+    "author": "Ramón RAM",
+    "rating": 3,
+    "title": "No aparece Drive",
+    "content": "La aplicación es muy buena, pero cuando vas a conectar a una nube resulta que no aparece Drive de Google, antes si aparecía pero desde la última actualización ha desaparecido, aparecen muchas nubes pero no Drive, arregladlo por favor",
+    "date": "2025-10-24T09:20:09-07:00",
+    "version": "3.8"
+  },
+  {
+    "country": "es",
+    "id": "13121869571",
+    "author": "carolinaa.salazaar",
+    "rating": 4,
+    "title": "Falta Google Drive",
+    "content": "Es muy buena, pero no entiendo porque si en evernusic y Flacbox está la opción de Google Drive pero no en esta aplicación, ya que todas mis canciones están en Google Drive",
+    "date": "2025-09-10T10:59:45-07:00",
+    "version": "3.8"
+  },
+  {
+    "country": "es",
+    "id": "12178034985",
+    "author": "Lionel HR",
+    "rating": 3,
+    "title": "Stopped working",
+    "content": "I have been using Evertag for years and it has been working just fine, it was awesome. But around a month or two ago it has stopped working; it won't let me open files to edit them. And from other reviews that I have seen on YouTube and X, I'm not the only user with this problem. Sorry but I'll be looking for alternate apps.",
+    "date": "2025-01-12T20:11:44-07:00",
+    "version": "3.3"
+  },
+  {
+    "country": "es",
+    "id": "9073767007",
+    "author": "Groovefield",
+    "rating": 2,
+    "title": "Don’t save file on remote smb share NAS folder",
+    "content": "Tried so many times, with so many files and so many formats. Not upload modified mp3/flac file tags to smb share (I have write permissions). Not error mesage, but file isn’t modified and keeps spinning on transfer window. Also an integrated player would be great. Something simple but usable. Thinking on purchase when resolve this two issues",
+    "date": "2022-09-11T03:43:50-07:00",
+    "version": "1.9"
+  },
+  {
+    "country": "es",
+    "id": "6017946307",
+    "author": "Carlfr",
+    "rating": 2,
+    "title": "Not very useful because...",
+    "content": "...no batch “auto fill metadata” option available.\nOnly one by one.\nAuto fill metadata would be eternal.",
+    "date": "2020-05-31T07:26:05-07:00",
+    "version": "1.5"
+  }
+]

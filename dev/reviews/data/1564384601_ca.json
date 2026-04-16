@@ -1,0 +1,72 @@
+[
+  {
+    "country": "ca",
+    "id": "13390639354",
+    "author": "Dantaipan",
+    "rating": 1,
+    "title": "Can’t handle big collections",
+    "content": "App can’t handle big network collections. It chokes when adding a network drive with many files. If it succeeds to add it folders with many files don’t get added properly. For example I’ve got a lot of content from Beatles and Dylan and it won’t add these properly. One song on an album will get added and the name of the album will appear as that songs name. If you have a handful of digital files on your local machine it might be a good app but if you are looking for something to handle a big collection look elsewhere. Flacbox suffers from the same problem. Somehow MusicBee on the PC or Foobar for that matter handle large collections without issue.",
+    "date": "2025-11-12T16:06:17-07:00",
+    "version": "8.1"
+  },
+  {
+    "country": "ca",
+    "id": "13291592608",
+    "author": "A1iscoolguy",
+    "rating": 5,
+    "title": "evermusic",
+    "content": "Very good update its the best music out there",
+    "date": "2025-10-20T08:49:45-07:00",
+    "version": "8.0"
+  },
+  {
+    "country": "ca",
+    "id": "12516425862",
+    "author": "Franck0004",
+    "rating": 5,
+    "title": "Application",
+    "content": "Enfin une application facile a manipuler et a comprendre",
+    "date": "2025-04-07T15:59:57-07:00",
+    "version": "7.2"
+  },
+  {
+    "country": "ca",
+    "id": "10393971565",
+    "author": "GCxxxYz",
+    "rating": 5,
+    "title": "good",
+    "content": "good",
+    "date": "2023-09-21T23:35:36-07:00",
+    "version": "5.4"
+  },
+  {
+    "country": "ca",
+    "id": "9864311372",
+    "author": "Raga Multani",
+    "rating": 5,
+    "title": "Fantastic App! For those who read the description",
+    "content": "I also have been using the iOS version of this app for some time. The features in both versions are fantastic. The sound streaming, quality, uninterruped connection via WiFi to NAS or SMB are all flawless. I'm streaming from WD EX4 NAS to Audioengine WiFi speaker systems in multiple rooms. I eagerly pony up the money for the ongoing development, powerful options and features. This is not a simple local mp3 player. It would be better for potential users to read up on the features before buying the app. It isn't the developer's fault for buyers not reading the details BEFORE using the app. Excellent design and easy connections without having to configure NAS. 5 stars and more.",
+    "date": "2023-04-26T13:04:02-07:00",
+    "version": "5.1"
+  },
+  {
+    "country": "ca",
+    "id": "9095631372",
+    "author": "bobino9",
+    "rating": 5,
+    "title": "j aime",
+    "content": "jaime bien ce lecteur",
+    "date": "2022-09-17T18:45:26-07:00",
+    "version": "5.0"
+  },
+  {
+    "country": "ca",
+    "id": "8688229526",
+    "author": "VieuxRadiio",
+    "rating": 1,
+    "title": "waste of time and money",
+    "content": "if you don't allow cloud access to your file and everything, it won't do nothing, i have lost another 20$ with useless app from apple store",
+    "date": "2022-05-19T17:58:30-07:00",
+    "version": "4.8"
+  }
+]

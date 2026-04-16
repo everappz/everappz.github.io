@@ -1,0 +1,1382 @@
+[
+  {
+    "country": "fr",
+    "id": "13872568023",
+    "author": "C_Kaci",
+    "rating": 5,
+    "title": "SUPER",
+    "content": "Un nouveau élant d'écoute",
+    "date": "2026-03-21T12:16:44-07:00",
+    "version": "7.3"
+  },
+  {
+    "country": "ru",
+    "id": "13815374348",
+    "author": "Axonoff",
+    "rating": 4,
+    "title": "Spotify? Soundcloud?",
+    "content": "Планируется ли поддержка данных сервисов?",
+    "date": "2026-03-04T23:14:31-07:00",
+    "version": "7.3"
+  },
+  {
+    "country": "us",
+    "id": "13724237415",
+    "author": "goosehenry",
+    "rating": 4,
+    "title": "Almost perfect FLAC player",
+    "content": "I use Flacbox on my Mac and Phone to play music from my Bandcamp library. I wish they had a version for Apple TV.",
+    "date": "2026-02-07T11:56:09-07:00",
+    "version": "7.3"
+  },
+  {
+    "country": "de",
+    "id": "13687243461",
+    "author": "RuebeOHZ",
+    "rating": 1,
+    "title": "Schlecht",
+    "content": "Update zwar verfügbar, wird aber nicht abgeschlossen. Nutzloser Schrott.",
+    "date": "2026-01-28T16:45:39-07:00",
+    "version": "7.3"
+  },
+  {
+    "country": "cn",
+    "id": "13635597360",
+    "author": "CAT大海007",
+    "rating": 5,
+    "title": "Flacbox",
+    "content": "非常好,解析细腻",
+    "date": "2026-01-15T02:15:20-07:00",
+    "version": "7.2"
+  },
+  {
+    "country": "de",
+    "id": "13629062201",
+    "author": "smichael0815",
+    "rating": 3,
+    "title": "WTF is wrong with the last update?",
+    "content": "After the last update all(!!) my settings regarding my clouds and other networking stuff is gone! including my flacbox internal playlists. If thet is sold as a feature - I fear seeing actual bugs.",
+    "date": "2026-01-13T07:31:25-07:00",
+    "version": "7.1"
+  },
+  {
+    "country": "fr",
+    "id": "13543418370",
+    "author": "jepiro57",
+    "rating": 5,
+    "title": "The best",
+    "content": "Super j'ai remplacer Audirvana Studio (abonné) que j'avais depuis des années par Flacbox, le son est encore de meilleure qualité car béneficiant de plus de réglages notamment d'un égalisauer pour les fichiers musiques en DSD128 sur mes enceintes avec un pré amplificateur et interface plus conviviale, merci !!!",
+    "date": "2025-12-22T11:15:01-07:00",
+    "version": "7.1"
+  },
+  {
+    "country": "gb",
+    "id": "13534457523",
+    "author": "P Bux",
+    "rating": 1,
+    "title": "iOS is great but this…",
+    "content": "Been using FB for a month on iOS and really happy so download the MacOS version. Played a local file for about 3 minutes, FB crashed and refused to open from that point onward. This was despite numerous restarts of the device. Disappointed isn’t the word, premium subscription cancelled and back to my search…",
+    "date": "2025-12-20T03:29:40-07:00",
+    "version": "7.1"
+  },
+  {
+    "country": "fr",
+    "id": "13397162304",
+    "author": "Arlekin64",
+    "rating": 2,
+    "title": "Trop lent ! Et mensonger…",
+    "content": "Beaucoup TROP lent dans la récupération des albums et morceaux de musique qui sont sur le disque dur de l’iMac. Les morceaux apparaissent petit à petit, lentement, très lentement, mais alors vraiment très lentement, c’est incroyable.\niTunes récupère ma musique en 2 minutes, Flacbox… je ne sais pas, j’ai abandonné au bout de 1h30 d’attente…\n\nDe plus, quand on s’abonne, ou qu’on achète l’application, il est bien indiqué que l’on peut utiliser l’application sur tous les appareils connectés au compte iTunes. Ce qui est faux, il faut repasser à la caisse pour l’iPhone/iPad… :(\n\nDommage car l’esthétique et les fonctionnalités me plaisaient bien et je l’aurai bien utilisée s’il n’y avait pas ces désagréments…",
+    "date": "2025-11-14T07:51:25-07:00",
+    "version": "7.1"
+  },
+  {
+    "country": "mx",
+    "id": "13392692793",
+    "author": "John117Assasings",
+    "rating": 3,
+    "title": "Se reinicia y se cierra",
+    "content": "Desde la ultima actualización se cierra y se reinicia.",
+    "date": "2025-11-13T05:38:48-07:00",
+    "version": "7.1"
+  },
+  {
+    "country": "bg",
+    "id": "13345128176",
+    "author": "hhajduhx",
+    "rating": 2,
+    "title": "basically the same app like Evermusic",
+    "content": "basic functions are not available. Why i can not drag an mp3 into a playlist??? what is that?? omg... If there was an IOS version, I'm sure it would not be even possible to sync playlists between IOS and Mac version - but this is not possible in Evermusic :(",
+    "date": "2025-11-01T21:07:52-07:00",
+    "version": "6.9"
+  },
+  {
+    "country": "ru",
+    "id": "13249537523",
+    "author": "Andros62",
+    "rating": 4,
+    "title": "Оплатить премиум",
+    "content": "Не удается оплатить подписку, при оплате программа закрывается,",
+    "date": "2025-10-10T12:01:56-07:00",
+    "version": "6.9"
+  },
+  {
+    "country": "it",
+    "id": "13169343645",
+    "author": "DDM1712",
+    "rating": 5,
+    "title": "Il miglior lettore musicale offline per Mac!",
+    "content": "Applicazione ben progettata e ottimizzata per il Mac",
+    "date": "2025-09-22T02:30:54-07:00",
+    "version": "6.9"
+  },
+  {
+    "country": "us",
+    "id": "13162805922",
+    "author": "jack techie",
+    "rating": 1,
+    "title": "!!NOT!!",
+    "content": "Wish that the programmer would use their own app! Default sort = random? Need to Sort | File name twice to do ascending list. Tab goes to the top when filling in form - what?! Took several tries to authenticate SMB share. Uninstalled.",
+    "date": "2025-09-20T12:47:32-07:00",
+    "version": "6.9"
+  },
+  {
+    "country": "in",
+    "id": "13148754644",
+    "author": "SHIWANG PANDEY",
+    "rating": 5,
+    "title": "better than expected",
+    "content": "thanks to you mr dewloper",
+    "date": "2025-09-17T07:26:40-07:00",
+    "version": "6.9"
+  },
+  {
+    "country": "de",
+    "id": "13115100304",
+    "author": "profgenki37",
+    "rating": 4,
+    "title": "Braucht zeit zum gewöhnen",
+    "content": "ice benutze diese app nun seit einigen Monaten. Meiner Meinung nach fühlt es sich etwas kantig an aber das geht weg. Zum sortieren von Lokalen Musik Dateien ist es sehr gut! wenn man sich die app zu schwarz/rot stellt sieht es auch wie apple musik aus.\n\nEs gibt nur eine Sache die ich nicht verstehe, ich habe hier wirklich alles an Musik auf meiner SSD, aber nach dem importieren braucht er trotzdem Internet. Damit es wirklich alles 100% ist muss man in der app die Datei nochmals runterladen",
+    "date": "2025-09-08T16:01:44-07:00",
+    "version": "6.9"
+  },
+  {
+    "country": "us",
+    "id": "13033285480",
+    "author": "Cybersco",
+    "rating": 1,
+    "title": "???",
+    "content": "This app is almost worthless to me. I followed the developer’s guide to connecting to my external drive.  It seemed like it was adding files and folders, took quite a while.  After it’s finished reading and synching the files on the drive…….nothing. It shows no music was added at all. I have similar apps that do the same thing as this, but ACTUALLY WORK, and let me play music. This app needs to go back to the drawing board, and talk to someone who knows how to do this ‘music file syncing’ thing. Until then, my advice is….try a different app.",
+    "date": "2025-08-18T17:22:12-07:00",
+    "version": "6.8"
+  },
+  {
+    "country": "us",
+    "id": "13005595262",
+    "author": "agmvcc",
+    "rating": 1,
+    "title": "Wow!!!",
+    "content": "So far it has crashed twice on a brand new Mac mini.",
+    "date": "2025-08-11T22:31:34-07:00",
+    "version": "6.7"
+  },
+  {
+    "country": "fr",
+    "id": "12995835699",
+    "author": "ro1578",
+    "rating": 5,
+    "title": "A l’essai",
+    "content": "Appli téléchargé hier. Je prends le temps de le tester. Mais, je pense dors et déjà que c’est une bonne appli, car j’ai pu constater qu’elle est complète et surtout la qualité de son qu’elle délivre est supérieure à beaucoup d’autres appli sur le marché. J’espère qu’il y’aura des mises à jours régulières qui apporteront des corrections aux petits bugs que j’ai pu rencontré lors de son utilisation.",
+    "date": "2025-08-09T10:21:00-07:00",
+    "version": "6.7"
+  },
+  {
+    "country": "co",
+    "id": "12990685761",
+    "author": "User2601",
+    "rating": 5,
+    "title": "Amazing App",
+    "content": "I love this app! I’ve had it for years now and they make it better each time. Always using it on iPhone/iPad and now on my Mac.",
+    "date": "2025-08-08T04:21:19-07:00",
+    "version": "6.7"
+  },
+  {
+    "country": "es",
+    "id": "12951858273",
+    "author": "m00n_xyz",
+    "rating": 1,
+    "title": "Hello support?",
+    "content": "No reply after 2 mails to get support afterr paying $34 for a lifetime subscription.",
+    "date": "2025-07-29T12:56:30-07:00",
+    "version": "6.6"
+  },
+  {
+    "country": "ch",
+    "id": "12947601868",
+    "author": "Löwenherz",
+    "rating": 2,
+    "title": "Crashes after in-App Purchase",
+    "content": "The User Interface and the Feature Set look promising. However the app crashes always after the start of the in-App purchase. Cannot complete the premium purchase. Installed and deleted within ten minutes.",
+    "date": "2025-07-28T11:39:34-07:00",
+    "version": "6.6"
+  },
+  {
+    "country": "de",
+    "id": "12914669865",
+    "author": "Der Usch",
+    "rating": 1,
+    "title": "Mittlerweile Unbrauchbar !",
+    "content": "War mal meine bevorzugte App für Musik . Ist aber nach mehreren Updates völlig unübersichtlich . Das passiert wenn Entwickler Langweile haben und ein gutes Produkt unnötig mit neuen coolen Features vollstopfen ! Nicht Kaufen !!!",
+    "date": "2025-07-20T07:15:01-07:00",
+    "version": "6.6"
+  },
+  {
+    "country": "br",
+    "id": "12872040057",
+    "author": "Dellas Capua",
+    "rating": 5,
+    "title": "Perfeito",
+    "content": "Melhor Player, tanto para iOS quanto MacOS! Meu acervo todo da nuvem e ouço onde quiser, como quiser, com qualidade!",
+    "date": "2025-07-09T10:28:55-07:00",
+    "version": "6.6"
+  },
+  {
+    "country": "us",
+    "id": "12860124402",
+    "author": "yar000",
+    "rating": 5,
+    "title": "Amazing app",
+    "content": "Amazing app",
+    "date": "2025-07-06T10:34:05-07:00",
+    "version": "6.6"
+  },
+  {
+    "country": "ru",
+    "id": "12767317385",
+    "author": "nireallki",
+    "rating": 3,
+    "title": "Хорошее приложение",
+    "content": "Пользуюсь давно на айфоне. Покупал там полную версию, жаль для мака эта покупка не работает",
+    "date": "2025-06-12T15:17:36-07:00",
+    "version": "6.6"
+  },
+  {
+    "country": "de",
+    "id": "12766967160",
+    "author": "Fineyfein",
+    "rating": 3,
+    "title": "Guter Player mit Schwächen",
+    "content": "Der Import von Offline-Dateien, vor allem wenn es viele sind, ist schwierig, weil man die Alben einzeln synchronisieren muss. Der Player hat kein Gapless-Play. Der Support ist dahingehend feedbackresistent (und träge), man wird vertröstet (hat keine große Priorität etc), dabei sollte Gapless Play eigentlich Standard sein. Schade, wenn man für diesen Player schon bezahlt hat. Klingt gut, die App und kann HiRes, aber für meine Bedürfnisse nicht befriedigend, ich suche aktuell nach einer guten und nicht so überfrachteten Alternative.",
+    "date": "2025-06-12T13:02:00-07:00",
+    "version": "6.6"
+  },
+  {
+    "country": "pe",
+    "id": "12755208109",
+    "author": "Naujz",
+    "rating": 1,
+    "title": "No dan soporte",
+    "content": "I bought the paid version, everything was fine until one day I couldn't access all the features, I wrote them an email about the issue and they didn't respond. Compré la versión de pago, todo bien hasta que un día no pude acceder a todas las funciones, les escribo un correo sobre el tema y no respondieron",
+    "date": "2025-06-09T11:32:36-07:00",
+    "version": "6.6"
+  },
+  {
+    "country": "cn",
+    "id": "12753160567",
+    "author": "新起点电脑",
+    "rating": 1,
+    "title": "经常闪退",
+    "content": "没有一天不崩的,哎,没有一天不弹广告的,哎.",
+    "date": "2025-06-08T23:43:19-07:00",
+    "version": "6.6"
+  },
+  {
+    "country": "mo",
+    "id": "12748975882",
+    "author": "Ivan Ieong",
+    "rating": 5,
+    "title": "神app，好用過footer",
+    "content": "以為IOS好好用，點知macOS更好用！",
+    "date": "2025-06-07T21:18:58-07:00",
+    "version": "6.6"
+  },
+  {
+    "country": "cn",
+    "id": "12624148290",
+    "author": "妮妮的老皮猴",
+    "rating": 1,
+    "title": "永远在闪退的路上",
+    "content": "我是付费用户，虽然因为闪退导致我无法使用这个软件，但还是希望能够等到它正常使用的一天！",
+    "date": "2025-05-05T17:25:42-07:00",
+    "version": "6.4"
+  },
+  {
+    "country": "cn",
+    "id": "12614481506",
+    "author": "顽皮小小猪",
+    "rating": 4,
+    "title": "有歌词我就买了",
+    "content": "If add 歌词，I will buy it",
+    "date": "2025-05-03T05:53:26-07:00",
+    "version": "6.4"
+  },
+  {
+    "country": "hk",
+    "id": "12610432210",
+    "author": "Wch2000",
+    "rating": 1,
+    "title": "Keep clashing",
+    "content": "Keep on clashing repeatedly.   Please provide a refund on this for premium service.",
+    "date": "2025-05-02T04:53:21-07:00",
+    "version": "6.4"
+  },
+  {
+    "country": "cn",
+    "id": "12595846968",
+    "author": "幽谷客",
+    "rating": 5,
+    "title": "很棒的支持网络NAS等播放",
+    "content": "支持NAS上的音乐播放，太方便了，可以创建播放列表，将网络音乐文件快速添加，支持上很快速，音效很好",
+    "date": "2025-04-28T07:16:50-07:00",
+    "version": "6.3"
+  },
+  {
+    "country": "it",
+    "id": "12565171124",
+    "author": "Er DuCa(pelli)",
+    "rating": 5,
+    "title": "Davvero ottima.",
+    "content": "Da sistemare “importa playlist da una cartella”>”File su questo Mac” perché non importa nulla. Poi a differenza dell’app per iPhone, selezionato l’altoparlante non è possibile scegliere AirPlay o Google Chromecast.",
+    "date": "2025-04-20T04:05:20-07:00",
+    "version": "6.3"
+  },
+  {
+    "country": "de",
+    "id": "12539065641",
+    "author": "Uri3",
+    "rating": 2,
+    "title": "Absturz",
+    "content": "Apple Mac mini M2pro ständige abstürze des Programms machen es nicht brauchbar.",
+    "date": "2025-04-13T09:20:59-07:00",
+    "version": "6.3"
+  },
+  {
+    "country": "de",
+    "id": "12533309401",
+    "author": "Strawbs03",
+    "rating": 4,
+    "title": "Fazit zur FlacBox",
+    "content": "​FlacBox ist ein vielseitiger Hi-Res-Musikplayer für iOS und macOS, der sich besonders für Nutzer eignet, die ihre eigene verlustfreie Musiksammlung verwalten und abspielen möchten. FlacBox ist eine leistungsstarke App für Audiophile und Nutzer mit umfangreichen Musiksammlungen, die Wert auf verlustfreie Wiedergabe und flexible Speicheroptionen legen. Wünschenswert wären Druckfunktionen wie Titel aus Playlisten, sowohl das Anlegen von Unterordner. Auch der Import von Playlisten mit mehreren Ebenen wird ignoriert, es werden ausschließlich die Titel importiert. Ansonsten eine gute Anwendung mit vielen positiven Eigenschaften.",
+    "date": "2025-04-12T00:41:49-07:00",
+    "version": "6.3"
+  },
+  {
+    "country": "gb",
+    "id": "12509670365",
+    "author": "Aidyc1",
+    "rating": 4,
+    "title": "Good once your music library has synced.",
+    "content": "Took a full week to finish syncing meta data from my nas drive, even at full speed. Would be great to have the audio player button in the sidebar at the top. Would also like to see a seperate 'compilations' section. other than that, this is the best music player of its kind i have come across.",
+    "date": "2025-04-05T23:42:49-07:00",
+    "version": "6.3"
+  },
+  {
+    "country": "au",
+    "id": "12453051483",
+    "author": "Whitefish Heineken 1849",
+    "rating": 3,
+    "title": "Beautiful AND functional!",
+    "content": "Flacbox delivers exactly what music lovers need—a polished app that prioritizes listening without sacrificing power. Here's why it's become my daily driver:\n\nLightning-fast performance with instant library scans and gapless playback\nFrequent updates that consistently add value (6 major upgrades in 2024 alone)\nAudiophile-grade tools like parametric EQ and bass boost without UI clutter\nUniversal format support – plays FLAC/DSD/APE files natively\nSmart subscription model - only $15 a year\nThe minimalist interface keeps focus on album art and playback controls, while advanced features stay accessible through thoughtful gestures. Cloud integration (11+ services supported) makes my cloud library feel local.\n\nFor anyone tired of bloated music apps, Flacbox proves simplicity and sophistication can coexist – all at a price that puts premium DAC companies to shame. Essential for lossless audio enthusiasts!",
+    "date": "2025-03-22T20:44:18-07:00",
+    "version": "6.3"
+  },
+  {
+    "country": "mx",
+    "id": "12451193393",
+    "author": "friendly90210",
+    "rating": 5,
+    "title": "Excelente!",
+    "content": "Llevo poco usando su app, solo la uso para reproducir musica local, pero me gusto su interfaz y la forma en que se organiza todo. Como recomendacion, tal vez un acceso rápido para cambiar de tema claro a oscuro.",
+    "date": "2025-03-22T09:46:29-07:00",
+    "version": "6.3"
+  },
+  {
+    "country": "br",
+    "id": "12400601870",
+    "author": "Djfabiofranca",
+    "rating": 5,
+    "title": "muito bom, vale o investimento.",
+    "content": "app com recursos profissionais",
+    "date": "2025-03-09T07:00:03-07:00",
+    "version": "6.3"
+  },
+  {
+    "country": "it",
+    "id": "12269864932",
+    "author": "Robi dj",
+    "rating": 5,
+    "title": "x me e quello che mi ci vuole  grazie....",
+    "content": "grazie  sono anziano ..pero ogni tanto sento musica..grazie(e formidabile)",
+    "date": "2025-02-04T06:17:48-07:00",
+    "version": "6.3"
+  },
+  {
+    "country": "cr",
+    "id": "12254092190",
+    "author": "Alexandermex19",
+    "rating": 5,
+    "title": "perfect",
+    "content": "This app for Mac is amazing",
+    "date": "2025-01-31T11:24:25-07:00",
+    "version": "6.3"
+  },
+  {
+    "country": "fr",
+    "id": "12202879910",
+    "author": "ad49400",
+    "rating": 2,
+    "title": "Avis",
+    "content": "Satisfait de l'application sur mon téléhone avec la version payante.\nMais impossible de lire cette version sur mon ordinateur, dommage, sinon payer une seconde fois.\nAlors qu'il est indiqué dans l'abonnement que la version payante est utiliable sur tous les supports de l'abonné.",
+    "date": "2025-01-19T01:39:22-07:00",
+    "version": "6.3"
+  },
+  {
+    "country": "ru",
+    "id": "12180158832",
+    "author": "Stanislav Stan",
+    "rating": 5,
+    "title": "Нашёл то, что долго искал!",
+    "content": "Очень доволен, особенно сетевыми функциями проигрывания. Да и в целом, звучание очень приятное!",
+    "date": "2025-01-13T09:35:24-07:00",
+    "version": "6.3"
+  },
+  {
+    "country": "de",
+    "id": "12165767612",
+    "author": "spoon-one",
+    "rating": 2,
+    "title": "Too confusing!",
+    "content": "Too confusing! too much superfluous stuff. typically programmed for windows. Cumbersome.",
+    "date": "2025-01-09T20:10:57-07:00",
+    "version": "6.3"
+  },
+  {
+    "country": "ru",
+    "id": "12113071455",
+    "author": "jetart",
+    "rating": 5,
+    "title": "Мне нравится но есть пожелание",
+    "content": "Добавьте если можно Terabox",
+    "date": "2024-12-27T12:35:06-07:00",
+    "version": "6.3"
+  },
+  {
+    "country": "gb",
+    "id": "12088276330",
+    "author": "Nick996677",
+    "rating": 5,
+    "title": "Buy it once, use it every day",
+    "content": "Musical obsessive, digital packrat, staying up late nights to download, going wild on Bandcamp Friday, any of those sound familar? Apple’s decision to not support FLAC but instead introduce their own parallel scheme, ALAC, that requires 4x the CPU power that FLAC requires. Typical heavy-handed “you’ll take what we give you and like it” Apple approach.\n\nSo, I bought Flacbox for life, and was happy using it on my iPhone but now that it’s available on macOS, it’s even more useful. Music libraries that are split across directories or even volumes (NFS shares, etc.) are easy to integrate. Some of the power features are not totally obvious so some time with the documentation is useful.",
+    "date": "2024-12-21T03:12:14-07:00",
+    "version": "6.2"
+  },
+  {
+    "country": "cn",
+    "id": "12037790249",
+    "author": "小田契阔",
+    "rating": 3,
+    "title": "所以和evermusic的区别是什么？？？",
+    "content": "产品线混乱",
+    "date": "2024-12-07T15:20:49-07:00",
+    "version": "6.2"
+  },
+  {
+    "country": "cn",
+    "id": "12036161745",
+    "author": "zgy2299",
+    "rating": 5,
+    "title": "非常好",
+    "content": "打开文件夹的功能非常棒",
+    "date": "2024-12-07T06:23:37-07:00",
+    "version": "6.2"
+  },
+  {
+    "country": "de",
+    "id": "11987278985",
+    "author": "DeziByte",
+    "rating": 1,
+    "title": "Joa",
+    "content": "Der Player als Solches gefällt mir ja ganz gut, aber ist es normal dass ich im Player die Lautstärke nicht verändern kann? In allen anderen Player geht das ja auch.",
+    "date": "2024-11-24T09:16:17-07:00",
+    "version": "6.1"
+  },
+  {
+    "country": "vn",
+    "id": "11913796916",
+    "author": "Iviolets",
+    "rating": 5,
+    "title": "Good app",
+    "content": "Các chức năng đều ok ngoại trừ chơi nhạc định dạng .dsf chưa thật sự tốt, mong nhà phát triển cải thiện",
+    "date": "2024-11-04T19:22:39-07:00",
+    "version": "6.0"
+  },
+  {
+    "country": "br",
+    "id": "11903193316",
+    "author": "Jhon😉",
+    "rating": 5,
+    "title": "excelente",
+    "content": "o melhor app",
+    "date": "2024-11-02T05:09:03-07:00",
+    "version": "6.0"
+  },
+  {
+    "country": "cn",
+    "id": "11890793956",
+    "author": "Ayumivv0312",
+    "rating": 5,
+    "title": "想问下 怎么样设置才算是直出",
+    "content": "想问下 怎么样设置才算是直出",
+    "date": "2024-10-29T22:48:50-07:00",
+    "version": "5.9"
+  },
+  {
+    "country": "ua",
+    "id": "11875677529",
+    "author": "vavilon 55",
+    "rating": 5,
+    "title": "The BEST",
+    "content": "THE BEST",
+    "date": "2024-10-25T22:13:01-07:00",
+    "version": "5.9"
+  },
+  {
+    "country": "ru",
+    "id": "11840582330",
+    "author": "Спасибо!! Очень доволен...",
+    "rating": 5,
+    "title": "Лучший",
+    "content": "Спасибо команда!!! Спасибо",
+    "date": "2024-10-16T08:00:09-07:00",
+    "version": "5.8"
+  },
+  {
+    "country": "ch",
+    "id": "11808060038",
+    "author": "WSH5659",
+    "rating": 1,
+    "title": "Inutile",
+    "content": "Si plusieurs CD toutes les pistes numéro 1,2,3,… à la suite et non pas les CD 1,2,3,… à la suite",
+    "date": "2024-10-07T09:18:55-07:00",
+    "version": "5.8"
+  },
+  {
+    "country": "fr",
+    "id": "11777714174",
+    "author": "louis jp",
+    "rating": 5,
+    "title": "seuper",
+    "content": "tres bien comme apli",
+    "date": "2024-09-29T06:05:09-07:00",
+    "version": "5.8"
+  },
+  {
+    "country": "ru",
+    "id": "11774691867",
+    "author": "y.malichenko",
+    "rating": 1,
+    "title": "Не работает покупка на ноутбуее",
+    "content": "Купил на телефоне, на ноутук не перенсти покупку",
+    "date": "2024-09-28T09:31:04-07:00",
+    "version": "5.8"
+  },
+  {
+    "country": "kz",
+    "id": "11769233792",
+    "author": "Aleksey A Polyakov",
+    "rating": 5,
+    "title": "Thank you very much for the wonderful player!",
+    "content": "Hello! Thank you very much for the wonderful player! I use it on both iPhone and Mac. It would be great if you ported it to Windows 11. Thank you again!",
+    "date": "2024-09-26T23:14:07-07:00",
+    "version": "5.8"
+  },
+  {
+    "country": "us",
+    "id": "11738155132",
+    "author": "badprogger",
+    "rating": 5,
+    "title": "Flacbox is a game-changer for audiophiles!",
+    "content": "As someone who takes audio quality seriously, Flacbox is hands-down the best app I’ve found for playing my lossless music files. I’ve been using it on my Mac, and it has been a fantastic experience so far.\n\nKey features that stand out to me:\n\n- Supports all my audio formats: I primarily use FLAC, but it handles a ton of formats, including ALAC, MP3, and even DSD. No more worrying about converting files!\n\n- Built-in equalizer and preamp: The customizable equalizer really lets me tweak the sound to exactly how I want it. I love that it also has a preamp to boost sound without distortion.\n\n- Cloud support: I can connect my Google Drive, Dropbox, and even OneDrive accounts to stream my music directly, which is a lifesaver since I keep a large collection in the cloud.\n\n- Bookmarking and playlist management: I can easily bookmark specific tracks and organize everything into playlists. It makes managing a large library so much easier.\n\nHonestly, the app is smooth, responsive, and looks great on macOS. I’ve seen regular updates too, so it’s clear the developers are listening to feedback and improving the app. Highly recommended for anyone who loves high-quality audio!",
+    "date": "2024-09-18T10:09:20-07:00",
+    "version": "5.8"
+  },
+  {
+    "country": "de",
+    "id": "11713959643",
+    "author": "cristitm76",
+    "rating": 5,
+    "title": "Excelent App!",
+    "content": "Worth every penny!",
+    "date": "2024-09-11T14:05:30-07:00",
+    "version": "5.7"
+  },
+  {
+    "country": "mx",
+    "id": "11711620676",
+    "author": "The Effigy",
+    "rating": 4,
+    "title": "It is good but need some fixes",
+    "content": "The interface is not the best, You cannot go to the album artist or show the song is \"playing now\". The version for Mac recharge everytime you change the windows size. it works for me and people who have their own library",
+    "date": "2024-09-10T22:38:27-07:00",
+    "version": "5.7"
+  },
+  {
+    "country": "fr",
+    "id": "11616742020",
+    "author": "JOEL LAFLEUR",
+    "rating": 5,
+    "title": "Pour Tou Album",
+    "content": "Trés Bon Logiciel De Au Qualité Top",
+    "date": "2024-08-16T06:03:59-07:00",
+    "version": "5.7"
+  },
+  {
+    "country": "vn",
+    "id": "11563888530",
+    "author": "Lord Anh",
+    "rating": 5,
+    "title": "Great app",
+    "content": "I can put my lossless music on icloud folder and sync across iphone and mac. Love it",
+    "date": "2024-08-02T08:00:07-07:00",
+    "version": "5.6"
+  },
+  {
+    "country": "nl",
+    "id": "11524595733",
+    "author": "TrippleDutch",
+    "rating": 1,
+    "title": "Stuttering",
+    "content": "I bought the app to enjoy my music from iCloud, local driv and local server streaming, but every song I play is stuttering. Other apps did not have the problem. A waste of good money",
+    "date": "2024-07-22T23:45:40-07:00",
+    "version": "5.6"
+  },
+  {
+    "country": "cn",
+    "id": "11462684465",
+    "author": "Teviey7",
+    "rating": 1,
+    "title": "最差劲的软件",
+    "content": "别买，每次加载都要很久，还没有本地文件夹同步功能\n动不动报错丢歌单，用起来麻烦的要死",
+    "date": "2024-07-06T07:14:36-07:00",
+    "version": "5.5"
+  },
+  {
+    "country": "tr",
+    "id": "11395678380",
+    "author": "trothgard",
+    "rating": 1,
+    "title": "macos mu uygulama mı?",
+    "content": "macos mu kötü uygulama mı? Bence al birini vur ötekine. Apple aşıkları koyunluklarına devam etsinler. Cihazlar çok kaliteli olabilir ama kullanışlılık, esneklik, kişiselleştirilebilirlik sıfır. Apple nasıl istiyorsa öyle. Doğru dürüst bir müzik uygulaması bulamadım. En kötü Windows müzik uygulaması en iyi Mac müzik uygulamasından 10 kat daha kullanışlı. Apple Music bile, bırakın diğer platformları macos'ta bile iğrenç çalışıyor. Windows bilgisayarlar varken neden macos kullanayım. Bir Mac'im olsun diye mi? Çok komik.",
+    "date": "2024-06-18T08:52:36-07:00",
+    "version": "5.4"
+  },
+  {
+    "country": "us",
+    "id": "11392858585",
+    "author": "Slightly let down",
+    "rating": 5,
+    "title": "I love it!",
+    "content": "I have been using flacbox for my iphone for longer than I can remember.  Over the years it has only gotten better.  I just found it for my Mac and downloaded it immediately.  The user interface has been awesome so far and the sound quality to my headphones is way better than apple music.  I don't normally take the time to write reviews but my experience with flacbox has been so good for so many years I want to offer a well derserved positive review for it.",
+    "date": "2024-06-17T14:19:46-07:00",
+    "version": "5.4"
+  },
+  {
+    "country": "de",
+    "id": "11358789389",
+    "author": "Ossian Boris Haufe",
+    "rating": 4,
+    "title": "Sehr guter Klang",
+    "content": "Die Bedienung ist anstrengend, die Dateiverwaltung, wie bei vielen Produkten von/für Apple-Geräte, nicht sauber und eindeutig.\n\nDennoch muss ich sagen, der Klang ist richtig, richtig gut. Die Dateien werden so abgespielt wie aufgenommen und das hört man definitiv; daher bin ich sehr glücklich mit diesem Player und will aktuell keinen anderen.",
+    "date": "2024-06-08T12:44:50-07:00",
+    "version": "5.4"
+  },
+  {
+    "country": "cn",
+    "id": "11325606437",
+    "author": "万事随缘2",
+    "rating": 5,
+    "title": "希望添加播放列表内歌曲能批量删除功能",
+    "content": "优秀的播放管理软件，现在软件功能已经比较全面了，使用也很方便。但，播放列表里的歌曲删除还要一个一个删除，不是太方便。添加歌曲手动排序功能，添加，失效歌曲标识。希望能添加。",
+    "date": "2024-05-30T17:58:28-07:00",
+    "version": "5.4"
+  },
+  {
+    "country": "cn",
+    "id": "11314929826",
+    "author": "大喵，说谢谢哦！",
+    "rating": 3,
+    "title": "添加歌曲后经常没法在音乐库中显示",
+    "content": "添加歌曲到音乐库中经常没法立刻出现，从歌单里添加歌又能看到音乐库里刚加的歌，可是在音乐库里不显示，望解决这个问题。",
+    "date": "2024-05-27T19:44:02-07:00",
+    "version": "5.4"
+  },
+  {
+    "country": "gb",
+    "id": "11308513240",
+    "author": "MuriloRQ",
+    "rating": 3,
+    "title": "Great app but...",
+    "content": "Flacbox is a decent app overall, but it suffers from a significant bug that has been an ongoing issue. Albums from different artists that share the same name are incorrectly displayed as a single album. For example, multiple \"Greatest Hits\" albums by different artists are grouped together, which is quite frustrating. This flaw undermines the app's usability and needs to be addressed urgently.",
+    "date": "2024-05-26T01:59:37-07:00",
+    "version": "5.4"
+  },
+  {
+    "country": "gb",
+    "id": "11184557036",
+    "author": "PhilDewhurst",
+    "rating": 5,
+    "title": "Love it",
+    "content": "There's just something different when listening to music in FLAC format opposed to the 320kbps MP3's\n\nQuality 5***** from me.",
+    "date": "2024-04-21T05:39:23-07:00",
+    "version": "5.3"
+  },
+  {
+    "country": "tr",
+    "id": "11146274476",
+    "author": "D3RB3D3R",
+    "rating": 5,
+    "title": "iyi",
+    "content": "macbookta sesi düzeltiyor ve çoklu ayarı var güzel işimi görür bi uygulama tavsiye ederim",
+    "date": "2024-04-11T07:51:07-07:00",
+    "version": "5.3"
+  },
+  {
+    "country": "my",
+    "id": "11057189333",
+    "author": "KhairulsaniIsmail",
+    "rating": 5,
+    "title": "the best",
+    "content": "the best music player so far.",
+    "date": "2024-03-17T23:08:09-07:00",
+    "version": "5.3"
+  },
+  {
+    "country": "us",
+    "id": "11034156411",
+    "author": "Gordyb4",
+    "rating": 4,
+    "title": "Great Flac Player",
+    "content": "Easy user interface and track management. The only con is the \"select\" isn't always available and have to go through song by song but, it is available in other locations in the app.  Not a big deal and with the paid version you can link up all your icloud accounts. \nThis application is far superior to VOX. This is a great substitue for Apple Music if you want to listen to lossless playback.",
+    "date": "2024-03-11T13:56:57-07:00",
+    "version": "5.3"
+  },
+  {
+    "country": "de",
+    "id": "11015490885",
+    "author": "Hdrprofi",
+    "rating": 5,
+    "title": "Super Player",
+    "content": "Player, der wirklich keine Wünsche offen lässt. Super Support, der Fragen fix und umfassend beantwortet.",
+    "date": "2024-03-06T10:47:29-07:00",
+    "version": "5.3"
+  },
+  {
+    "country": "ua",
+    "id": "10916399276",
+    "author": "Den462678533",
+    "rating": 5,
+    "title": "Дуже подоюається!!!",
+    "content": "Особливо редагування та пошук тегів)))",
+    "date": "2024-02-08T07:52:59-07:00",
+    "version": "5.3"
+  },
+  {
+    "country": "de",
+    "id": "10915545654",
+    "author": "KontiSchmaus",
+    "rating": 3,
+    "title": "Super Plyer aber:",
+    "content": "2 Sterne Abzug. \nDa er auf (mein) Mac Mini M2 ständig abstürtz. \n\nBitte um stabieleres Update!\n\nSonst klare empfehlung",
+    "date": "2024-02-08T03:11:47-07:00",
+    "version": "5.3"
+  },
+  {
+    "country": "nl",
+    "id": "10914724852",
+    "author": "Joe SixApps",
+    "rating": 4,
+    "title": "seems nice",
+    "content": "..but very poor explanation. How to import .mp3-files?  How to connect to exiting iTunes-library?   I have to find out myself, I suppose?",
+    "date": "2024-02-07T21:08:37-07:00",
+    "version": "5.3"
+  },
+  {
+    "country": "ru",
+    "id": "10904987025",
+    "author": "Geronta.AD",
+    "rating": 1,
+    "title": "обман или баг",
+    "content": "установил на мобильном телефоне, купил премальную версию, но после параллельной установке на маке, прем не действует, только ограниченная версия. верните деньги!",
+    "date": "2024-02-05T07:30:24-07:00",
+    "version": "5.3"
+  },
+  {
+    "country": "cn",
+    "id": "10901127057",
+    "author": "兩人の櫻夢",
+    "rating": 5,
+    "title": "How to change the  format automatically by Flacbox?",
+    "content": "给五分以示尊敬，也希望开发者可以答疑，谢谢🙏\n   Could you tell me how to change the  format automatically by Flacbox?",
+    "date": "2024-02-04T07:29:26-07:00",
+    "version": "5.3"
+  },
+  {
+    "country": "us",
+    "id": "10799229792",
+    "author": "VALENTINOLOMBARDI",
+    "rating": 3,
+    "title": "flac box used to be nice and perfect",
+    "content": "except for many options to play music. last upgrade just stopped to play my files 24 bits 352 khz.",
+    "date": "2024-01-08T08:45:13-07:00",
+    "version": "5.2"
+  },
+  {
+    "country": "us",
+    "id": "10782964070",
+    "author": "Norgeloki",
+    "rating": 5,
+    "title": "Use this every day",
+    "content": "Makes hi-res files available in my vehicle through CarPlay, on my phone and all my Mac OS and iOS devices. Great piece of software!",
+    "date": "2024-01-04T05:48:24-07:00",
+    "version": "5.2"
+  },
+  {
+    "country": "us",
+    "id": "10780563664",
+    "author": "schuffr",
+    "rating": 3,
+    "title": "Powerful but UI needs SERIOUS work to get 5 stars",
+    "content": "I've been through SO MANY apps and this one really has the most promise. But EVERAPPZ needs some serious user interface expertise and needs better engagement with their users. \n\nThis app could easily be #1 and a truly 5 star app, and I would love to help them do so. I hope in 2024 they do so. I doubt it will take too much work to do so.",
+    "date": "2024-01-03T14:46:47-07:00",
+    "version": "5.2"
+  },
+  {
+    "country": "us",
+    "id": "10756679326",
+    "author": "Rondnor",
+    "rating": 5,
+    "title": "Good player, the only one I found that answered my needs",
+    "content": "I went throujgh a bunch of music players for my mac and iphone. Some had some of the features I needed, some had others, but only flacbox had most of it.\nI have been using it now (Preimum version) for a couple of years and all in all it performs well. The development team keeps on adding features, which is great! And of recent, when a bug caused an issue with the player, they fixed it within less than a day of me reporting it.",
+    "date": "2023-12-28T16:17:47-07:00",
+    "version": "5.2"
+  },
+  {
+    "country": "us",
+    "id": "10738237740",
+    "author": "Alexlianghu",
+    "rating": 1,
+    "title": "Why I can not restore my purchase via iPad to here?",
+    "content": "I have paid the upgrade fee via iPad version, why can not resdtore for the macbook version?",
+    "date": "2023-12-24T00:02:13-07:00",
+    "version": "5.0"
+  },
+  {
+    "country": "de",
+    "id": "10735275337",
+    "author": "Webwolle",
+    "rating": 5,
+    "title": "bester Player bislang,",
+    "content": "gemischte Dateitypen aus gewachsener Sammlung, alles kein Problem. Saubere Coverdarstellung, wirklich super gemacht.",
+    "date": "2023-12-23T06:11:49-07:00",
+    "version": "5.0"
+  },
+  {
+    "country": "ru",
+    "id": "10713224696",
+    "author": "Oleg Cheprasov",
+    "rating": 3,
+    "title": "Задумка хорошая...",
+    "content": "Красивый и удобный интерефес. Хороший потенциал, но... не знаю, как на мобильных устройствах, но на Маке управление библиотекой это ад какой-то...",
+    "date": "2023-12-18T12:20:47-07:00",
+    "version": "5.0"
+  },
+  {
+    "country": "fr",
+    "id": "10690302816",
+    "author": "mono61",
+    "rating": 5,
+    "title": "EXCELLENT !",
+    "content": "The best flac reader in the App Store !",
+    "date": "2023-12-13T07:55:33-07:00",
+    "version": "5.0"
+  },
+  {
+    "country": "us",
+    "id": "10610829036",
+    "author": "caferide",
+    "rating": 5,
+    "title": "Flacbox",
+    "content": "The app itself is decent, although the user interface is confusing to navigate. Options are plentiful but difficult to figure out. And don't try to ask questions to their tech support — it is non-existent! I tried repeatedly to resolve an issue and was ignored by everyone at this company. Terrible support!",
+    "date": "2023-11-21T17:19:31-07:00",
+    "version": "4.8"
+  },
+  {
+    "country": "cn",
+    "id": "10577584150",
+    "author": "gu2008",
+    "rating": 5,
+    "title": "hhhhhhhhhh",
+    "content": "ghghhhh",
+    "date": "2023-11-12T04:08:31-07:00",
+    "version": "4.8"
+  },
+  {
+    "country": "us",
+    "id": "10576034016",
+    "author": "Piltzner",
+    "rating": 1,
+    "title": "Unusable",
+    "content": "I purchaseed the premium version and downloaded folders to my iPhone according to online instructions. I cannot play, or even locate, this music in the app. I have tried repeatedly omline to find a solution, but all info refers to earlier vesions of MacOS. sorry to have to teport this, as I had  high hopes for this appp.\n-Phil L.",
+    "date": "2023-11-11T17:13:45-07:00",
+    "version": "4.8"
+  },
+  {
+    "country": "us",
+    "id": "10546351368",
+    "author": "Elon Tim",
+    "rating": 1,
+    "title": "From Sky to dustbean.",
+    "content": "This has turned into a complete disappointment and is now a mess. I am taking down my social media video where I praised it as the best music app.\n\nInitially, I considered this app one of the best and even created a social media video to recommend it. However, it seems they've ruined it now, and I've decided to remove my video.\n\nIt used to be an excellent app, but now it's not worth using. Instead of asking for $14, the developers should consider giving refunds. The user interface is confusing, copied files don't display properly, and it's all quite chaotic. In my opinion, they should either improve it, return to its previous state, or consider other options altogether. I apologize for my strong language, but this app is incredibly disappointing.\n\nMoreover, it's puzzling that the app is available for both Mac and iOS, yet it can't sync files on the same network. They seem unable to fix these simple issues. The sound quality has deteriorated significantly, and no matter how I adjust the EQ settings, it doesn't sound as it used to. The sound now has too much bass and is distorted, and the beats that I once enjoyed are no longer clear. Instead, I hear noise rather than music.\n\nIn summary, even if it's now available for free, it's not worth it. I recommend considering alternatives like Foobar or VLC, which, despite their less-than-perfect user interfaces, are not as bad as this app has become.",
+    "date": "2023-11-03T11:10:36-07:00",
+    "version": "4.8"
+  },
+  {
+    "country": "de",
+    "id": "10542355739",
+    "author": "JoWendehals",
+    "rating": 2,
+    "title": "Unbrauchbare Usability",
+    "content": "Auch nach dem \"Öffnen von Ordern\" bleibt die Musik-Library leer. Diese Usability macht schin von Anfang an keinen Spass.",
+    "date": "2023-11-02T08:38:19-07:00",
+    "version": "4.8"
+  },
+  {
+    "country": "fr",
+    "id": "10477045582",
+    "author": "colorfarma",
+    "rating": 1,
+    "title": "app compliqué",
+    "content": "Bonjour, j'ai acheté votre logiciel pour écouter ma musique stocker sur ordinateur Mac avec deux airpod car c'est la conversion de tous mes anciens CD ainsi que des fichiers en (.Flac), je ne sais toujours pas si votre logiciel le fait bien, mais j'ai l'impression qui ne lis que de la musique en ligne. dite le moi comment cela fonctionne sinon je vai rapidement demander le remboursement. je recherche une simple utilisation je depose mes musique j'appuie sur play et j'écoute tous simplement. Marre des truc en ligne.\nMerci",
+    "date": "2023-10-15T03:43:52-07:00",
+    "version": "4.7"
+  },
+  {
+    "country": "ua",
+    "id": "10466509601",
+    "author": "Ніжний Вуж",
+    "rating": 2,
+    "title": "Помилка",
+    "content": "Додаток сам закривається. Запускаєш в ту же мить закривається і видає помилку. відправляю репорт.",
+    "date": "2023-10-12T09:35:38-07:00",
+    "version": "4.7"
+  },
+  {
+    "country": "us",
+    "id": "10440854173",
+    "author": "james lee paul",
+    "rating": 5,
+    "title": "good",
+    "content": "very good",
+    "date": "2023-10-05T03:05:00-07:00",
+    "version": "4.6"
+  },
+  {
+    "country": "cn",
+    "id": "10396911858",
+    "author": "方吟歌",
+    "rating": 5,
+    "title": "非常优秀美观的无损音乐播放器",
+    "content": "总体使用体验非常好，界面漂亮，但是汉化还是不太贴切，希望作者再接再厉，还有就是能不能支持歌词？离线歌词或者内嵌歌词都可以。",
+    "date": "2023-09-22T19:12:11-07:00",
+    "version": "4.6"
+  },
+  {
+    "country": "pe",
+    "id": "10359622358",
+    "author": "DJ kaLO",
+    "rating": 5,
+    "title": "buenissimo aunque",
+    "content": "exelente reproductor solo le falta leer todos los formatos de audio y video",
+    "date": "2023-09-11T21:58:14-07:00",
+    "version": "4.6"
+  },
+  {
+    "country": "ru",
+    "id": "10238703537",
+    "author": "zanoch sergey",
+    "rating": 5,
+    "title": "самый лучший плеер",
+    "content": "я очень благодарен  звук прозрачный и очень музыкальный  лучший на M1",
+    "date": "2023-08-09T13:09:46-07:00",
+    "version": "4.5"
+  },
+  {
+    "country": "cn",
+    "id": "10226146951",
+    "author": "W_NONE",
+    "rating": 5,
+    "title": "挺好的本地音乐播放器",
+    "content": "整体功能满足需求，适合管理本地音乐文件。就是不明白为什么侧边“曲库”栏第二项为啥叫“相簿”，不叫“专辑”？",
+    "date": "2023-08-06T06:21:01-07:00",
+    "version": "4.5"
+  },
+  {
+    "country": "cn",
+    "id": "10127669162",
+    "author": "bachdyz",
+    "rating": 5,
+    "title": "ok",
+    "content": "ok",
+    "date": "2023-07-11T02:26:56-07:00",
+    "version": "4.4"
+  },
+  {
+    "country": "cn",
+    "id": "10116501361",
+    "author": "ttpi b li c",
+    "rating": 5,
+    "title": "音质不错，就是不知道能不能自动下载歌词",
+    "content": "音质不错，就是不知道能不能自动下载歌词",
+    "date": "2023-07-08T00:56:53-07:00",
+    "version": "4.4"
+  },
+  {
+    "country": "cn",
+    "id": "10112144690",
+    "author": "Qinsu",
+    "rating": 4,
+    "title": "Local music player",
+    "content": "Easy to use, but lack of lyrics.",
+    "date": "2023-07-06T19:34:15-07:00",
+    "version": "4.4"
+  },
+  {
+    "country": "kr",
+    "id": "10107760715",
+    "author": "tomsvanilla",
+    "rating": 1,
+    "title": "This app doesn't support in app purchase other device",
+    "content": "I bought in app purchase at macbook. But it has never operated restore function at iphone 14 pro max. And I send developer but he doesn't reply.",
+    "date": "2023-07-05T13:56:09-07:00",
+    "version": "4.4"
+  },
+  {
+    "country": "mx",
+    "id": "10099632547",
+    "author": "Alextor",
+    "rating": 5,
+    "title": "Ecelente reproductor y gestor de música",
+    "content": "Estuve probando varias opciones y todas ella se han olvidado de las funciones más básicas como poder ver tu biblioteca, seleccionar un album o cola de reproducción, Flacbox hace todo lo básico más lo nuevo cómo su integración cloud.",
+    "date": "2023-07-03T07:29:29-07:00",
+    "version": "4.4"
+  },
+  {
+    "country": "ru",
+    "id": "10089111958",
+    "author": "Jdkrkfgiororjf",
+    "rating": 4,
+    "title": "норм",
+    "content": "приложение хорошее)) мне нравится, но не очень удобное управление и не всегда можно поменять обложку для песни) для айфона подходит, чтобы бесплатно слушать музыку (советую это приложение)",
+    "date": "2023-06-30T08:40:53-07:00",
+    "version": "4.4"
+  },
+  {
+    "country": "ie",
+    "id": "10086145853",
+    "author": "moonito.com",
+    "rating": 5,
+    "title": "awesome and clear audio / no subcription crap",
+    "content": "all awesome \n\nmissing IMPORTANT option to protect your ears when using an external dac. \n\nit should never start at maximum volume when reopen the app with output on the dac",
+    "date": "2023-06-29T12:18:29-07:00",
+    "version": "4.4"
+  },
+  {
+    "country": "fr",
+    "id": "10021781295",
+    "author": "RnRoller",
+    "rating": 4,
+    "title": "5/5",
+    "content": "Le rêve ! Un miracle de musique hrs ligne et/ou en ligne. Merci !",
+    "date": "2023-06-11T01:06:33-07:00",
+    "version": "4.4"
+  },
+  {
+    "country": "us",
+    "id": "10013059791",
+    "author": "meekmillan",
+    "rating": 1,
+    "title": "Useless if you use an external drive",
+    "content": "TLDR; You can’t browse folders and sub folders from external drives in the app to play music without it being in one BIG playlist.\n\nCurrently you have to drag and drop or go to “Open Folders” and either open the specifc folder (album for example) you want to play or select the folder that it exists in (artist folder or all of your music library for example). From there it opens up everything inside that folder and puts it in one BIG playlist, regardless if any of the songs came from subfolders.\nThats not the worst if its just one album but for people that keep their music library on an external drive its a total deal breaker.\nNot to mention music often has unfilled/mixed meta data like multiple artists being apart of 1 song on an album which makes sorting innefective.\nThere NEEDS to be a way to browse folders the same way you would in Mac finder/Windows explorer. Because of this I always have to drag and drop individual folders (albums) into the player and go from there. Its super frustrating.\n\nAnd a related issue when opening files from the \"Files on this MAC\" tab or from an external drive, you can’t automatically sort/rearrange songs by title/file name/artist/etc etc. You’re stuck with the order that FLAC Box throws at you unless you want to individually rearrange each song. Again.. not THAT big of a deal when it’s one album but when its hundreds or thousands of songs it means this app isn’t an option.",
+    "date": "2023-06-08T11:55:55-07:00",
+    "version": "4.4"
+  },
+  {
+    "country": "it",
+    "id": "9998331269",
+    "author": "Vincezo Cristallo",
+    "rating": 5,
+    "title": "funziona , è quanto viene dichiarato .",
+    "content": "funziona , è quanto viene dichiarato .",
+    "date": "2023-06-04T06:16:08-07:00",
+    "version": "4.4"
+  },
+  {
+    "country": "ua",
+    "id": "9943144467",
+    "author": "Tt--1982",
+    "rating": 5,
+    "title": "Разработчики молодцы",
+    "content": "Шикарное приложение",
+    "date": "2023-05-19T06:06:47-07:00",
+    "version": "4.4"
+  },
+  {
+    "country": "cl",
+    "id": "9904191417",
+    "author": "Esepticox",
+    "rating": 5,
+    "title": "Me encantó",
+    "content": "La app es bastante versatil y multiples configuraciones para personalizar.\nlo mejor que he visto para mac.",
+    "date": "2023-05-07T19:52:03-07:00",
+    "version": "4.4"
+  },
+  {
+    "country": "us",
+    "id": "9880616614",
+    "author": "Sheryll234",
+    "rating": 1,
+    "title": "Severe bug exist for months!",
+    "content": "The player control crash was fixed after several months, but it is now crashing again when opening external folders in the latest version update!\n\nA new bug has been added!!\n\nI believe the developers have not abandoned this app, but it is clear that they are no longer actively maintaining it. Updates are few and far between, and even serious bugs are not fixed immediately!",
+    "date": "2023-05-01T03:14:26-07:00",
+    "version": "4.3"
+  },
+  {
+    "country": "pl",
+    "id": "9791919005",
+    "author": "tombanfoto",
+    "rating": 2,
+    "title": "Ładny... i tylko tyle",
+    "content": "Totalnie nieintuicyjny, dodanie folderu z muzyką to jakaś masakra. Do tego zawala dysk jakimiś niepotrzebnymi bibliotekami podczas importu muzyki. Po kliknięciu w utwór odtwarza, ale kolejnego już nie dodaje do playlisty automatycznie. Szkoda pieniędzy, kolejny nieudany odtwarzacz na Mac.",
+    "date": "2023-04-05T22:38:05-07:00",
+    "version": "4.2"
+  },
+  {
+    "country": "ie",
+    "id": "9779541290",
+    "author": "Faber000",
+    "rating": 5,
+    "title": "Such an underrated app",
+    "content": "I love and adore listening to my music on this app A",
+    "date": "2023-04-02T09:56:50-07:00",
+    "version": "4.2"
+  },
+  {
+    "country": "us",
+    "id": "9724689780",
+    "author": "Jasper.Hao",
+    "rating": 1,
+    "title": "for Mac and iPhone , YOU NEED TO PAY TWICE",
+    "content": "WITH THE SAME SOFTWARE, YOU HAVE PAID UPGRADED TO ADVANCED ON THE IPHONE, BUT YOU NEED TO PAY TO UPGRADE AGAIN ON THE MAC, AND YOU NEED TO PAY TWICE. If I had known this, I wouldn't have bought it once.",
+    "date": "2023-03-17T19:32:53-07:00",
+    "version": "4.2"
+  },
+  {
+    "country": "us",
+    "id": "9678142960",
+    "author": "BoHud",
+    "rating": 3,
+    "title": "MIxed Bag",
+    "content": "Quality of playback is really good, Equilizer is easy to operate. I love Audio Player feture which allows for a user just throw songs on it and it starts playback... but!!! I hate that I can not add additional song to Audio Player. When I try to drag another song to the bottom of the audio player que it takes out everything else and starts playing song(s) I just drag into it This also prevents a user from adding songs from different folders into Audio Player. Very annoying.",
+    "date": "2023-03-04T05:36:25-07:00",
+    "version": "4.2"
+  },
+  {
+    "country": "us",
+    "id": "9638007067",
+    "author": "justin88901",
+    "rating": 5,
+    "title": "Best Player",
+    "content": "Great",
+    "date": "2023-02-20T11:24:17-07:00",
+    "version": "4.2"
+  },
+  {
+    "country": "de",
+    "id": "9608157488",
+    "author": "Maze K.",
+    "rating": 4,
+    "title": "Great on MacBook & iPhone! But no gapless playback?",
+    "content": "Sleek interface, high quality playback... But please, please - for all audiophiles, listening to live albums: can you give us gapless playback? Those \"pause cracks\" destroy all the illusion... - but apart from that: great player! Updated to Premium.",
+    "date": "2023-02-11T15:39:06-07:00",
+    "version": "4.2"
+  },
+  {
+    "country": "gb",
+    "id": "9589368086",
+    "author": "hxj inning hrhsbsnss",
+    "rating": 5,
+    "title": "Perfect !",
+    "content": "Perfect !",
+    "date": "2023-02-06T05:22:47-07:00",
+    "version": "4.2"
+  },
+  {
+    "country": "us",
+    "id": "9518066833",
+    "author": "BBCo via VPN",
+    "rating": 1,
+    "title": "Can't sort files",
+    "content": "if there's a way then I couldn't find it.  no matter what i did this *%&$% program wouldn't let me sort some 150 short files on a playlist.",
+    "date": "2023-01-17T10:27:59-07:00",
+    "version": "4.2"
+  },
+  {
+    "country": "pe",
+    "id": "9478688504",
+    "author": "Escadislim",
+    "rating": 5,
+    "title": "Muy Buena",
+    "content": "La musica en alta fidelidad se escucha genial",
+    "date": "2023-01-06T11:26:54-07:00",
+    "version": "4.2"
+  },
+  {
+    "country": "cn",
+    "id": "9385168952",
+    "author": "yuhgfcv555",
+    "rating": 5,
+    "title": "垃圾骗钱软件",
+    "content": "买了不好用，经常卡死，现在直接用不了，大家别花冤枉钱",
+    "date": "2022-12-11T08:02:27-07:00",
+    "version": "4.2"
+  },
+  {
+    "country": "ru",
+    "id": "9352556054",
+    "author": "Air у меня",
+    "rating": 1,
+    "title": "Не запускается....",
+    "content": "На Каталине не запускается даже....",
+    "date": "2022-12-02T06:19:27-07:00",
+    "version": "4.2"
+  },
+  {
+    "country": "ru",
+    "id": "9350041534",
+    "author": "Vitaliy Dyukar",
+    "rating": 1,
+    "title": "Not work in Catalina",
+    "content": "at all",
+    "date": "2022-12-01T12:55:59-07:00",
+    "version": "4.2"
+  },
+  {
+    "country": "cn",
+    "id": "9343754849",
+    "author": "法圣卫鞅",
+    "rating": 3,
+    "title": "不如手机版好用",
+    "content": "本人都是购的高级版。此电脑版有BUG，使用中点菜单栏极易造成意外故障的BUG以致关停要自动重启。希望尽快修复吧",
+    "date": "2022-11-29T19:29:43-07:00",
+    "version": "4.2"
+  },
+  {
+    "country": "id",
+    "id": "9088196340",
+    "author": "Fikri Syahid",
+    "rating": 5,
+    "title": "Worked really well",
+    "content": "Worked on apple M1 with Mac OS Monterey 12.6. Speed change feature is very nice.",
+    "date": "2022-09-15T12:37:42-07:00",
+    "version": "4.2"
+  },
+  {
+    "country": "be",
+    "id": "9019377177",
+    "author": "Sebastien Thonnard",
+    "rating": 5,
+    "title": "top",
+    "content": "J'utilise flacbox pour écouter ma musique de nextcloud (webdav). Vraiment rien à signaler.\nInterface épurée et simple, très beau en plein écran. App stable!",
+    "date": "2022-08-26T08:13:08-07:00",
+    "version": "4.2"
+  },
+  {
+    "country": "id",
+    "id": "8922121554",
+    "author": "LUSIANALEKSANA",
+    "rating": 1,
+    "title": "can't be opened",
+    "content": "This app can't be opened in my mac. I wonder what makes it.",
+    "date": "2022-07-28T18:17:15-07:00",
+    "version": "4.2"
+  },
+  {
+    "country": "jp",
+    "id": "8906493917",
+    "author": "kaikibakotsu",
+    "rating": 4,
+    "title": "good",
+    "content": "id give you guys 5 if this app can see lyrics",
+    "date": "2022-07-24T04:07:52-07:00",
+    "version": "4.2"
+  },
+  {
+    "country": "mx",
+    "id": "8859830622",
+    "author": "Damonce",
+    "rating": 5,
+    "title": "Cuando cambia de canción se produce un sonido horrible",
+    "content": "Por su precio la App está bien y promete mucho. Sin embargo, aparte de su inestabilidad que parece que ya están atendiendo los desarrolladores, urge que le quiten el ruido horrible que se produce cuando pasa de una canción a. otra. Uuuuffffhhh!!!",
+    "date": "2022-07-10T06:31:24-07:00",
+    "version": "4.2"
+  },
+  {
+    "country": "cn",
+    "id": "8825122478",
+    "author": "leeooooo111",
+    "rating": 1,
+    "title": "广告太多",
+    "content": "没完没了的提示安装其他应用，烦",
+    "date": "2022-06-30T01:12:07-07:00",
+    "version": "4.1"
+  },
+  {
+    "country": "cn",
+    "id": "8795045384",
+    "author": "Noxt1999",
+    "rating": 1,
+    "title": "链接one drive使用每次换歌都非常的刺耳",
+    "content": "链接one drive使用每次换歌都非常的刺耳，每次都能被炸的不行",
+    "date": "2022-06-21T00:22:09-07:00",
+    "version": "4.1"
+  },
+  {
+    "country": "sg",
+    "id": "8769223148",
+    "author": "Paul Mina",
+    "rating": 1,
+    "title": "Does not correct volume for replay gain",
+    "content": "I have a number of recordings that all play back at different volumes. All my audio has replay gain tags so in other audio players everthing plays at the right volume. I have to give you one star as it is very dangerous when I'm driving and all of a sudden the volume is on full blast giving me a fright in traffic. This is unacceptable!!! Once you fix this I will update this review, untill then I need to find something else.",
+    "date": "2022-06-13T01:26:35-07:00",
+    "version": "4.1"
+  },
+  {
+    "country": "us",
+    "id": "8738863990",
+    "author": "emily.st",
+    "rating": 4,
+    "title": "Incredible compatibility, vaguely bewildering UI, some missing features",
+    "content": "I got this app so that I can play media off of a Plex server using DLNA. This works surprising well, and it's the only app of its kind that seems to allow what I want. It generally does this well, and it might go the distance with me.\n\nIt features a fully flexible sleep timer, fine-grained control of media/metadata synchronization, AirPlay/Bluetooth, fine-grained queue support, and a number of other little features I really wanted.\n\nThere are several rough spots, however, so I'm not giving this a perfect rating. Listing below:\n\nWhat is the difference between this and Evermusic? I literally cannot tell.\n\nLibraries/files/metadata cannot be stored nor synced in iCloud Drive, despite being a native macOS/iOS app.\n\nDLNA synchronization is painfully slow. It is also deeply confusing because Plex exposes its library several times over in different ways in DLNA, along with its *preferences*?? How weird.\n\nHaving online music, offline music, and external files in different places in the app is really confusing. It would seem preferable to expose, instead, simply a library, whose underlying files could be located locally, externally, or online.\n\nReminders of how to use the app interface are intrusive and cannot be disabled.\n\nSettings are laid out in an odd way. \"User interface\" stuff probably belongs grouped in with the settings for that part of the interface it actually affects. \n\nDeeply frustrating that there are very poor options for sorting and viewing. By default, for example, genres are presented as a *list of songs*. Under artists, you can choose to view songs or albums, which is inconsistent with genre (which does not give you this choice). The only way to see, say, artists or albums together under a genre is to sort by one or the other to group those songs together. There's no concept of sorting by multiple things (like artist then year).\n\nPlay queues can be edited, but certain nice things are missing, like the ability to clear everything in the queue *after* the song you're playing. There is also no easy, one-click way to play a single track without playing all the others (best way available is to choose \"Play Next\" and then start playback, a two-step process).\n\nAirplay works, but it gets easily confused about how to set the volume for an Airplay device.\n\nI'll be watching to see how this app develops in the future. Thanks!",
+    "date": "2022-06-03T20:20:02-07:00",
+    "version": "4.1"
+  }
+]

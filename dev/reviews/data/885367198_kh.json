@@ -1,0 +1,62 @@
+[
+  {
+    "country": "kh",
+    "id": "13409359862",
+    "author": "Ls Paul",
+    "rating": 5,
+    "title": "Amazing app",
+    "content": "The app is full of great feature. I enjoy using the app.",
+    "date": "2025-11-17T07:25:47-07:00",
+    "version": "8.3"
+  },
+  {
+    "country": "kh",
+    "id": "11052120532",
+    "author": "BeepItsskullie",
+    "rating": 2,
+    "title": "Downgrade audio files automatically",
+    "content": "I didn’t realize this before or it just start happening now but any files you upload get their audio downgraded. Recently my music sound extremely weird (some parts are louder and some are barely audible) and asmr videos sound like it’s coming from afar and inaccurate. I got confused so i went to the file section and play the file from there and realized the file is fine but anything i play using the app sounds horrid. Used to be good, now I’m contemplating deleting and moving onto something else.",
+    "date": "2024-03-16T13:30:40-07:00",
+    "version": "6.1"
+  },
+  {
+    "country": "kh",
+    "id": "9899437106",
+    "author": "Kouy Sopheara",
+    "rating": 1,
+    "title": "Evermusic",
+    "content": "This app go down fix it pls",
+    "date": "2023-05-06T10:55:05-07:00",
+    "version": "5.2"
+  },
+  {
+    "country": "kh",
+    "id": "8121290850",
+    "author": "nak-kh",
+    "rating": 5,
+    "title": "Good App",
+    "content": "Very convenient to use, easy to navigate!",
+    "date": "2021-12-11T23:01:39-07:00",
+    "version": "4.8"
+  },
+  {
+    "country": "kh",
+    "id": "7348526793",
+    "author": "fortnite player 123123123",
+    "rating": 5,
+    "title": "It’s good :>",
+    "content": "It’s good but I would change the layout of things to make it simpler",
+    "date": "2021-05-16T18:53:40-07:00",
+    "version": "4.6"
+  },
+  {
+    "country": "kh",
+    "id": "7218411822",
+    "author": "MIK PHEAKDAY",
+    "rating": 5,
+    "title": "Evermusic",
+    "content": "Good",
+    "date": "2021-04-13T10:45:07-07:00",
+    "version": "4.5"
+  }
+]

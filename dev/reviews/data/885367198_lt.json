@@ -1,0 +1,32 @@
+[
+  {
+    "country": "lt",
+    "id": "12960050654",
+    "author": "Viktor J.",
+    "rating": 3,
+    "title": "A lot of bugs",
+    "content": "When scrolling a song may skip next one and jump over to the second next, scroll is not precise. When on a single repeat may jump to start before the end. Turning EQ on/off sound disappears for a moment. Some ads does not have close or any other button to close it.",
+    "date": "2025-07-31T12:12:44-07:00",
+    "version": "7.6"
+  },
+  {
+    "country": "lt",
+    "id": "9384944705",
+    "author": "CV370",
+    "rating": 2,
+    "title": "Damn uncomfortable and illogical player",
+    "content": "Pro version user",
+    "date": "2022-12-11T06:49:58-07:00",
+    "version": "5.0"
+  },
+  {
+    "country": "lt",
+    "id": "7841071245",
+    "author": "Spaceowel",
+    "rating": 4,
+    "title": "It’s great except",
+    "content": "It’s great except if i edit audio tags, the song won’t play",
+    "date": "2021-09-24T11:49:07-07:00",
+    "version": "4.6"
+  }
+]

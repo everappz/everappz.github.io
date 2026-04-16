@@ -1,0 +1,22 @@
+[
+  {
+    "country": "fi",
+    "id": "12519696537",
+    "author": "yourbartender",
+    "rating": 2,
+    "title": "Doesn’t find all files",
+    "content": "It seems to find 69000+ songs, but only 4600+ albums and 323 albums artists. There should be about 100 artists starting with the letter A, for example. Rescanning doesn’t help",
+    "date": "2025-04-08T12:11:17-07:00",
+    "version": "7.2"
+  },
+  {
+    "country": "fi",
+    "id": "10905032333",
+    "author": "Piin tarina",
+    "rating": 4,
+    "title": "Hyvä soitin",
+    "content": "Hieman opettelua vaativa (omituinen) käyttöliittymä, mutta ihan hyvä kunhan logiikan oppii. Toimii erinomaisesti myös NAS-palvelimen \"läpi\" kotiverkossa.",
+    "date": "2024-02-05T07:44:32-07:00",
+    "version": "6.1"
+  }
+]

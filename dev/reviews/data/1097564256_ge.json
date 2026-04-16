@@ -1,0 +1,22 @@
+[
+  {
+    "country": "ge",
+    "id": "11623801799",
+    "author": "DonDavido21",
+    "rating": 5,
+    "title": "Mega super!!!!",
+    "content": "Gorgeous app!!!!!",
+    "date": "2024-08-18T03:13:15-07:00",
+    "version": "5.7"
+  },
+  {
+    "country": "ge",
+    "id": "10572663282",
+    "author": "Electronic Panopticon",
+    "rating": 1,
+    "title": "Add Siri support to play music with voice command",
+    "content": "Siri doesn’t support playing music from the voice command..(",
+    "date": "2023-11-10T19:50:19-07:00",
+    "version": "4.9"
+  }
+]

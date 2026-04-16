@@ -1,0 +1,22 @@
+[
+  {
+    "country": "cr",
+    "id": "10527109846",
+    "author": "Fabri Miranda",
+    "rating": 4,
+    "title": "Artists Images",
+    "content": "I can't edit/delete any artist image like when I select a picture unlike when I try to change a playlist pic",
+    "date": "2023-10-29T00:31:05-07:00",
+    "version": "5.7"
+  },
+  {
+    "country": "cr",
+    "id": "3571656804",
+    "author": "reydragner",
+    "rating": 5,
+    "title": "El mejor",
+    "content": "Este es muy buen reproductor excelente lo recomiendo",
+    "date": "2018-12-25T07:13:12-07:00",
+    "version": "3.4"
+  }
+]

@@ -1,0 +1,52 @@
+[
+  {
+    "country": "fi",
+    "id": "12132649454",
+    "author": "Pakkotäyttökohta",
+    "rating": 5,
+    "title": "Jäbä",
+    "content": "Parantaa i-tuotteen käytettävyyttä huimasti, käytä ihmeessä! Tää on hyvä soitin meille, joilla on omat cd:t digitoituna ja kansioituna.",
+    "date": "2025-01-01T11:31:56-07:00",
+    "version": "6.3"
+  },
+  {
+    "country": "fi",
+    "id": "10909723647",
+    "author": "PIT+",
+    "rating": 1,
+    "title": "Ei toimi iPad Pro tabletilla",
+    "content": "Ilmeisesti iPhone appi , kaatuu , ei lataa biisejä yms ongelmia koko ajan .\nTurhake poistoon lähti",
+    "date": "2024-02-06T12:35:54-07:00",
+    "version": "5.3"
+  },
+  {
+    "country": "fi",
+    "id": "9687705564",
+    "author": "QHGOTBDWCNLUYY",
+    "rating": 4,
+    "title": "Buffering doesn't work",
+    "content": "Cannot play smoothly files which resolution are higher than CD quality. Not even in fast a home network. The Player's buffer increase doesn't help a bit.\nI play files from home NAS using a Samba protocol.\nCD quality and mp3 playing works perfectly. Thanks for that!",
+    "date": "2023-03-06T23:02:56-07:00",
+    "version": "4.2"
+  },
+  {
+    "country": "fi",
+    "id": "6593809822",
+    "author": "SepeH",
+    "rating": 2,
+    "title": "Melko huono",
+    "content": "Ei pysty jatkamaan toistoa edes vartin tauon jälkeen?! Liikkeellä ollessa puhelimen yhteys voi luonnollisesti katketa sekunniksi. Kunpa soittimessa olisi toimiva bufferointi. Sopii siis vain täysin keskeytymättömään käyttöön.",
+    "date": "2020-10-31T06:52:15-07:00",
+    "version": "3.3"
+  },
+  {
+    "country": "fi",
+    "id": "1407718995",
+    "author": "Metaloholic",
+    "rating": 5,
+    "title": "Great",
+    "content": "Go lossles and you wont go back to paying 10 buck a month for only listening rights of crappy stream Services. 59gb free mega account and your good to go. Download mega app and create synchronic folder to Shoot your flacs to mega.\n-negative is sometimes song quits just before the end.",
+    "date": "2016-07-08T06:49:54-07:00",
+    "version": "1.1"
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "country": "pe",
+    "id": "12755208109",
+    "author": "Naujz",
+    "rating": 1,
+    "title": "No dan soporte",
+    "content": "I bought the paid version, everything was fine until one day I couldn't access all the features, I wrote them an email about the issue and they didn't respond. Compré la versión de pago, todo bien hasta que un día no pude acceder a todas las funciones, les escribo un correo sobre el tema y no respondieron",
+    "date": "2025-06-09T11:32:36-07:00",
+    "version": "6.6"
+  },
+  {
+    "country": "pe",
+    "id": "10359622358",
+    "author": "DJ kaLO",
+    "rating": 5,
+    "title": "buenissimo aunque",
+    "content": "exelente reproductor solo le falta leer todos los formatos de audio y video",
+    "date": "2023-09-11T21:58:14-07:00",
+    "version": "4.6"
+  },
+  {
+    "country": "pe",
+    "id": "9478688504",
+    "author": "Escadislim",
+    "rating": 5,
+    "title": "Muy Buena",
+    "content": "La musica en alta fidelidad se escucha genial",
+    "date": "2023-01-06T11:26:54-07:00",
+    "version": "4.2"
+  }
+]

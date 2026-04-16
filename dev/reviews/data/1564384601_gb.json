@@ -1,0 +1,22 @@
+[
+  {
+    "country": "gb",
+    "id": "13040378290",
+    "author": "Centenary bank",
+    "rating": 3,
+    "title": "Great app",
+    "content": "It is easy to use.",
+    "date": "2025-08-20T11:47:23-07:00",
+    "version": "7.9"
+  },
+  {
+    "country": "gb",
+    "id": "9462056698",
+    "author": "miramon",
+    "rating": 2,
+    "title": "Crashes constantly",
+    "content": "Crashes on opening. Crashes on closing. Crashes when you try and change directory and the drive doesn't react immediately.",
+    "date": "2023-01-02T03:50:03-07:00",
+    "version": "5.0"
+  }
+]

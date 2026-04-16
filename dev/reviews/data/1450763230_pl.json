@@ -1,0 +1,32 @@
+[
+  {
+    "country": "pl",
+    "id": "12492008176",
+    "author": "Adamiec7373",
+    "rating": 1,
+    "title": "Nie dziala",
+    "content": "Nie da sie odpalic poszczególnych funkcji (tych najważniejszych)",
+    "date": "2025-04-01T13:34:17-07:00",
+    "version": "3.3"
+  },
+  {
+    "country": "pl",
+    "id": "10444031816",
+    "author": "Pluntor",
+    "rating": 5,
+    "title": "Good app",
+    "content": "Simple and readable, even in limited version.",
+    "date": "2023-10-05T23:34:13-07:00",
+    "version": "2.3"
+  },
+  {
+    "country": "pl",
+    "id": "6377713607",
+    "author": "gruiggdnn",
+    "rating": 1,
+    "title": "Плохо",
+    "content": "Для нескольких файлов теги надо заполнять вручную. Ну и звуковая реклама добивает приложение.",
+    "date": "2020-08-30T08:39:12-07:00",
+    "version": "1.5"
+  }
+]

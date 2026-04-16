@@ -1,0 +1,62 @@
+[
+  {
+    "country": "cg",
+    "id": "9665247919",
+    "author": "Sacram-dg",
+    "rating": 5,
+    "title": "Lourd 👌🏾",
+    "content": "Meilleur application de musique",
+    "date": "2023-02-28T10:38:44-07:00",
+    "version": "5.0"
+  },
+  {
+    "country": "cg",
+    "id": "9596863105",
+    "author": "Mouchoukuru",
+    "rating": 5,
+    "title": "C'est très bonne application",
+    "content": "Magnifique",
+    "date": "2023-02-08T10:19:07-07:00",
+    "version": "5.0"
+  },
+  {
+    "country": "cg",
+    "id": "9126860768",
+    "author": "Dieu tien a sa parole",
+    "rating": 5,
+    "title": "Très bon",
+    "content": "Fiable et facile a utiliser",
+    "date": "2022-09-27T06:11:45-07:00",
+    "version": "5.0"
+  },
+  {
+    "country": "cg",
+    "id": "8958985575",
+    "author": "Spk 🤍🇨🇩",
+    "rating": 4,
+    "title": "Super mais les chansons qui suivent",
+    "content": "Je sais pas vous mais quand j’écoute un son 4 secondes avant la fin du son le son suivant commence déjà à être écouté, pouvez-vous arranger cela ?",
+    "date": "2022-08-08T15:08:22-07:00",
+    "version": "5.0"
+  },
+  {
+    "country": "cg",
+    "id": "8122117575",
+    "author": "lord exauce",
+    "rating": 5,
+    "title": "Cool",
+    "content": "Très cool",
+    "date": "2021-12-12T04:28:26-07:00",
+    "version": "4.8"
+  },
+  {
+    "country": "cg",
+    "id": "8015222020",
+    "author": "Mr Apple 237",
+    "rating": 3,
+    "title": "Bug",
+    "content": "Depuis la dernière maj il y a un bug qui enlève les morceaux classés manuellement dans «jouer ensuite».",
+    "date": "2021-11-12T01:35:39-07:00",
+    "version": "4.7"
+  }
+]

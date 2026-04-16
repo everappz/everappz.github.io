@@ -1,0 +1,32 @@
+[
+  {
+    "country": "nl",
+    "id": "10559371882",
+    "author": "Wim Oosthuizen",
+    "rating": 5,
+    "title": "Crash",
+    "content": "I use Evermusic on iMac, iPad and iPhone and I was very satisfied till now. With he new update on my iMac (Sonoma 14.0) Evermusic is crashing all the time. I don't know how to make it work as I was used before. Maybe the producer of the app can tell me. Thank you!",
+    "date": "2023-11-07T03:36:08-07:00",
+    "version": "5.7"
+  },
+  {
+    "country": "nl",
+    "id": "9853322179",
+    "author": "happycrew",
+    "rating": 2,
+    "title": "Useless",
+    "content": "I'm assuming the developer's intentions are good. Sorry, but I wonder how to program such a user-unfriendly confusing cluttered user interface for an app. You can no longer see the forest for the trees when you still have to add music to the app!\nPlease don't complicate it that much.",
+    "date": "2023-04-23T10:21:25-07:00",
+    "version": "5.1"
+  },
+  {
+    "country": "nl",
+    "id": "9609560754",
+    "author": "peterugchelen",
+    "rating": 5,
+    "title": "Super supportive",
+    "content": "Very handy tool for creating your own music collection and play it on your home-audio or when on vacation play it on a bleutooth speaker.",
+    "date": "2023-02-12T01:39:26-07:00",
+    "version": "5.0"
+  }
+]

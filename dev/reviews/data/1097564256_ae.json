@@ -1,0 +1,102 @@
+[
+  {
+    "country": "ae",
+    "id": "13630991335",
+    "author": "Bhogya",
+    "rating": 1,
+    "title": "Doesn't play higher flac",
+    "content": "It doesn't play higher flac file wasted money",
+    "date": "2026-01-13T19:25:38-07:00",
+    "version": "7.2"
+  },
+  {
+    "country": "ae",
+    "id": "12654159523",
+    "author": "EL AYONG",
+    "rating": 4,
+    "title": "جنوب السودان-جوبا",
+    "content": "هذه مشغل جيدة لكنها تحتاج الي المراجعة في اللغة العربية حتي تكتمل وكذلك تحتاج لتسهيل الوصول الي أدواتها التي تجعل تشغيلها سلسل",
+    "date": "2025-05-13T23:58:08-07:00",
+    "version": "6.5"
+  },
+  {
+    "country": "ae",
+    "id": "12519574251",
+    "author": "walkertexasgaucho",
+    "rating": 4,
+    "title": "Amazing, only one request",
+    "content": "Great audio player. Has replaced my apple music 100%. My only request for the UI please make so the search icon doesn’t scroll with the music list. I have over 1000 tracks and sometimes Il try to find a track and scroll only to decide to search for it bit because the search icon scrolls with the music you have to scroll all the way back up. Its annoying because i dont keep my music sorted alphabetically and i am always adding new tracks so i prefer to keep the new music at the top of the list, so having the search icon always available would be super convinient. Just that and it would be 5 star for me",
+    "date": "2025-04-08T11:30:10-07:00",
+    "version": "6.3"
+  },
+  {
+    "country": "ae",
+    "id": "11131396689",
+    "author": "Jon4Short1993",
+    "rating": 5,
+    "title": "Best Music Player",
+    "content": "To me this is the best music player for those who run a Linux Desktop with Gnome (Not sure about KDE)  like I do. I am able to access the app files and copy over my MP3s, it scans for them and even corrects the metadata and downloads the correct Album Art. Love it so much, hoping to buy the premium version soon.",
+    "date": "2024-04-07T04:41:42-07:00",
+    "version": "5.3"
+  },
+  {
+    "country": "ae",
+    "id": "10802008050",
+    "author": "Tarabin92",
+    "rating": 5,
+    "title": "Best AD free app",
+    "content": "After HOURs of installing and uninstalling music apps, this is BY FAR, the best app ever! Thank you so much for making this app with all of its cool features for free and with low ad spam",
+    "date": "2024-01-09T03:59:20-07:00",
+    "version": "5.2"
+  },
+  {
+    "country": "ae",
+    "id": "5779917855",
+    "author": "Hafsalrahman",
+    "rating": 5,
+    "title": "Great App",
+    "content": "Great App, thanks for the developers.\nKindly make the UI more professional and I will go with pro.",
+    "date": "2020-04-08T01:53:49-07:00",
+    "version": "3.2"
+  },
+  {
+    "country": "ae",
+    "id": "5653707162",
+    "author": "A.Meka",
+    "rating": 5,
+    "title": "Awesome player",
+    "content": "Flacbox is awesome for playing music wirelessly, to transfer music from desktop to mobile",
+    "date": "2020-03-13T00:58:55-07:00",
+    "version": "3.0"
+  },
+  {
+    "country": "ae",
+    "id": "5577413659",
+    "author": "jjvdm25",
+    "rating": 3,
+    "title": "Glitches.",
+    "content": "Why is it full of glitches after update? Please fix...",
+    "date": "2020-02-24T23:31:36-07:00",
+    "version": "2.9"
+  },
+  {
+    "country": "ae",
+    "id": "5244545371",
+    "author": "archit4",
+    "rating": 5,
+    "title": "Just what i was looking for",
+    "content": "Everything about this app is awesome, all it needs is a better UI and ill go pro",
+    "date": "2019-12-07T06:48:17-07:00",
+    "version": "2.8"
+  },
+  {
+    "country": "ae",
+    "id": "4783196554",
+    "author": "Farrukh Attique",
+    "rating": 4,
+    "title": "Bug",
+    "content": "This is very nice application for playing all type of audio formats. But there is a bug when connecting with bluetooth.\nScenario to produce bug.\n1-Play music and connect to bluetooth device\n2- Lock device while music is playing on bluetooth device.\n3- Observe when next song starts from the playlist its sound is not there in bluetooth dvice until you unlock device or change songs manually.\n\nKindly fix this issue i found this app after spending time to install and test applications for offline background music playing for my opus file extension.\n\nThanks",
+    "date": "2019-09-15T02:16:48-07:00",
+    "version": "2.5"
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "country": "de",
+    "id": "11630816760",
+    "author": "JesDud",
+    "rating": 1,
+    "title": "Bescheiden und mir zu langsam",
+    "content": "Ich hätte mir einen Editor in der Art von MP3Tag erhofft. Das hier ist im Vergleich einfach nur Spielzeug und dazu einfach gähnend langsam.\nGott sei Dank nur ein Monatsabo gekauft",
+    "date": "2024-08-20T00:28:57-07:00",
+    "version": "2.9"
+  },
+  {
+    "country": "de",
+    "id": "10877297211",
+    "author": "Nusskugeldingsi",
+    "rating": 1,
+    "title": "Writes advertising in ID3 comment field",
+    "content": "App updates ID3 tags fine, but if the comment field is empty, it fills it with advertising for its own website.",
+    "date": "2024-01-29T04:59:14-07:00",
+    "version": "2.6"
+  },
+  {
+    "country": "de",
+    "id": "10511378392",
+    "author": "Sowas auch",
+    "rating": 5,
+    "title": "Prima",
+    "content": "Ganz toll",
+    "date": "2023-10-24T12:10:48-07:00",
+    "version": "2.3"
+  },
+  {
+    "country": "de",
+    "id": "8899604096",
+    "author": "Ralphxyz22",
+    "rating": 5,
+    "title": "Super gemacht",
+    "content": "Sehr gute App",
+    "date": "2022-07-22T02:30:31-07:00",
+    "version": "1.9"
+  }
+]

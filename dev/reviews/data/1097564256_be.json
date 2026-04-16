@@ -1,0 +1,92 @@
+[
+  {
+    "country": "be",
+    "id": "9825505947",
+    "author": "ronaldolover 123",
+    "rating": 5,
+    "title": "👍👍",
+    "content": "love it mate doesnt crash does what it supossed to do mate🤬✌🏿",
+    "date": "2023-04-15T11:33:01-07:00",
+    "version": "4.2"
+  },
+  {
+    "country": "be",
+    "id": "9025464816",
+    "author": "Sebastien Thonnard",
+    "rating": 5,
+    "title": "Tip top!",
+    "content": "L’app a été améliorée depuis la dernière fois. Je n’ai plus de bug. Très bonne synchronisation avec nextcloud !",
+    "date": "2022-08-27T23:35:33-07:00",
+    "version": "4.2"
+  },
+  {
+    "country": "be",
+    "id": "7306451003",
+    "author": "Laura-chinobelge",
+    "rating": 5,
+    "title": "Application absolument parfaite !",
+    "content": "Magnifique app, très efficace ! 😃😃😃 Ne « crash » certainement pas « non stop », contrairement à un autre avis !!...",
+    "date": "2021-05-06T16:34:12-07:00",
+    "version": "3.8"
+  },
+  {
+    "country": "be",
+    "id": "7265815714",
+    "author": "dala83",
+    "rating": 2,
+    "title": "Teleurstellend",
+    "content": "In de voorbije maanden meerdere keren contact opgenomen met customer support. Nooit een antwoord mogen ontvangen. Vraag was simpel: album als favoriet markeren. Is nu niet mogelijk, enkel playlist. Synchroniseren (vanaf WD mycloud) gaat traag. Recent toegevoegde albums verschijnen niet automatisch. Sommige nummers verschijnen dubbel, hoewel ze slechts enkel op de schijf staan bewaard. Speelt veel audiobestanden af waaronder ook flac. Interface makkelijk aan te passen. Duidelijk en overzichtelijk.",
+    "date": "2021-04-26T04:43:29-07:00",
+    "version": "3.8"
+  },
+  {
+    "country": "be",
+    "id": "5579817021",
+    "author": "N . E",
+    "rating": 4,
+    "title": "Satisfait 100%",
+    "content": "J’ai longtemps cherché un lecteur répondant à mes attente pour une meilleure lecture de musique sans pub et hors mais, franchement je crois qu’il répond avec son Equalizer et le booster de Bass, on est content d’écouter du bon son. Je recommande.",
+    "date": "2020-02-25T12:06:43-07:00",
+    "version": "2.9"
+  },
+  {
+    "country": "be",
+    "id": "4047057773",
+    "author": "gerontous",
+    "rating": 5,
+    "title": "Reactie op mijn opname mogelijkheden",
+    "content": "Heb een indrukwekkende cd collectie klassieke muziek welke ik op de i phone kan zetten zodat ik nu overal kan kiezen uit mijn cd’s!!!",
+    "date": "2019-04-22T11:48:38-07:00",
+    "version": "2.5"
+  },
+  {
+    "country": "be",
+    "id": "3264087188",
+    "author": "jvdurme",
+    "rating": 5,
+    "title": "Very good NAS streamer",
+    "content": "I finally found a good dedicated music player to stream my music from my NAS. Flacbox is one of the few apps that provides smb access. No crash yet, very solid app. Auto download of artwork is also very neat!",
+    "date": "2018-10-04T15:02:37-07:00",
+    "version": "2.2"
+  },
+  {
+    "country": "be",
+    "id": "1841894467",
+    "author": "Ikke2401",
+    "rating": 1,
+    "title": "Non stop crash",
+    "content": "Crash non stop",
+    "date": "2017-10-11T09:02:04-07:00",
+    "version": "2.0"
+  },
+  {
+    "country": "be",
+    "id": "1452298642",
+    "author": "_esquare_",
+    "rating": 5,
+    "title": "pleasant UI, well integrated with different cloud services",
+    "content": "I enjoy using this FLAC player with google drive ..",
+    "date": "2016-09-19T03:47:03-07:00",
+    "version": "1.3"
+  }
+]

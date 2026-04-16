@@ -1,0 +1,32 @@
+[
+  {
+    "country": "cl",
+    "id": "13724531966",
+    "author": "jaimeg2019",
+    "rating": 4,
+    "title": "En evaluación",
+    "content": "En evaluación",
+    "date": "2026-02-07T13:46:39-07:00",
+    "version": "4.1"
+  },
+  {
+    "country": "cl",
+    "id": "12976882031",
+    "author": "billkaulitzlove",
+    "rating": 5,
+    "title": "👍",
+    "content": "Me gusta, buena app, pude ponerle nombre y portada a mis audios, aun que lo único malo es que tengo que reparar el audio y es tedioso para agregarle esas cosas, pero todo bueno, ojalá que no arruinen la aplicación",
+    "date": "2025-08-04T17:26:11-07:00",
+    "version": "3.7"
+  },
+  {
+    "country": "cl",
+    "id": "5409602517",
+    "author": "Yo_Yo...",
+    "rating": 1,
+    "title": "No le veo utilidad",
+    "content": "No sirve para actualizar los archivos en el teléfono, y si es para hacerlo con acceso a terceras fuentes, mejor hacerlo desde otra plataforma.",
+    "date": "2020-01-15T23:15:01-07:00",
+    "version": "1.0"
+  }
+]

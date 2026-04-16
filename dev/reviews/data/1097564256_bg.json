@@ -1,0 +1,32 @@
+[
+  {
+    "country": "bg",
+    "id": "9924442883",
+    "author": "Dgurko",
+    "rating": 5,
+    "title": "Owesome",
+    "content": "Best audio app by far",
+    "date": "2023-05-13T18:55:21-07:00",
+    "version": "4.4"
+  },
+  {
+    "country": "bg",
+    "id": "5848415419",
+    "author": "psionski",
+    "rating": 5,
+    "title": "Not made for albums?",
+    "content": "Albums over DLNA don’t work well - can’t sort by track number, and the only way to play an album is the three dots on the folder and “play all” - but this works only once, if you try to add another album, they get added in alphabetical order.\n\nOtherwise, the equalizer works well, FLAC playback generally works well, everything is fine, but it’s just not great for album-based music.",
+    "date": "2020-04-22T07:27:12-07:00",
+    "version": "3.2"
+  },
+  {
+    "country": "bg",
+    "id": "5741146754",
+    "author": "bransuna",
+    "rating": 5,
+    "title": "Best!!!",
+    "content": "Best application for me! Free version is very good, but I think it's time to buy full version!! TOP",
+    "date": "2020-03-31T07:19:22-07:00",
+    "version": "3.2"
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "country": "sn",
+    "id": "10948914064",
+    "author": "Toba233",
+    "rating": 5,
+    "title": "Diouwa",
+    "content": "Bay",
+    "date": "2024-02-17T06:29:03-07:00",
+    "version": "6.1"
+  },
+  {
+    "country": "sn",
+    "id": "9910155366",
+    "author": "IsmaSN",
+    "rating": 1,
+    "title": "Attention [ Warning ]",
+    "content": "Cette application a supprimé toutes mes fichiers lors d’une importation que je fesait\n\n[ This application deleted all my files during an import I was doing ]",
+    "date": "2023-05-09T14:02:38-07:00",
+    "version": "5.2"
+  }
+]

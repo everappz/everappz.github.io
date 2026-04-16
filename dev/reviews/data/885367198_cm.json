@@ -1,0 +1,22 @@
+[
+  {
+    "country": "cm",
+    "id": "10406465594",
+    "author": "abdjab",
+    "rating": 1,
+    "title": "Zéro",
+    "content": "Si je pouvais mettre zéro je mettrais zéro hélas",
+    "date": "2023-09-25T10:48:13-07:00",
+    "version": "5.4"
+  },
+  {
+    "country": "cm",
+    "id": "6402899787",
+    "author": "mpolet",
+    "rating": 1,
+    "title": "Difficile à utiliser",
+    "content": "Ça ne reconnaît pas les album. Et l’expérience utilisateur est mauvais",
+    "date": "2020-09-06T17:33:38-07:00",
+    "version": "4.2"
+  }
+]

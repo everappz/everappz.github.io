@@ -1,0 +1,22 @@
+[
+  {
+    "country": "ve",
+    "id": "13636196669",
+    "author": "Karlagrm",
+    "rating": 5,
+    "title": "Reseña",
+    "content": "Es rapida",
+    "date": "2026-01-15T05:50:02-07:00",
+    "version": "7.2"
+  },
+  {
+    "country": "ve",
+    "id": "7599329182",
+    "author": "Lpz-10",
+    "rating": 4,
+    "title": "Por favor actualicen la app.",
+    "content": "En todas las versiones anteriores cuando bloqueaba el reproductor se desplegaba la opción para poner el pin más la huella. Pero en esta última versión cuando se despliega, no tiene el mismo tema que la app. Está de color blanco y no se puede ver nada. Arreglen eso en la próxima actualización. Todo lo demás está genial.",
+    "date": "2021-07-20T15:22:38-07:00",
+    "version": "3.8"
+  }
+]

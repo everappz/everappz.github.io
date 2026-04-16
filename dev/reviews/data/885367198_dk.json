@@ -1,0 +1,152 @@
+[
+  {
+    "country": "dk",
+    "id": "11503131044",
+    "author": "gruiggdnn",
+    "rating": 2,
+    "title": "Problem with tags",
+    "content": "It doesn’t display tags for half of my library (tags exist)",
+    "date": "2024-07-17T04:55:38-07:00",
+    "version": "6.4"
+  },
+  {
+    "country": "dk",
+    "id": "11327970661",
+    "author": "Dr. Tobias Fűnke",
+    "rating": 2,
+    "title": "Controls not shown on Lock Screen",
+    "content": "I like the app. \nBut I cannot get it to show the controls on my lock screen (iPhone 13 Mini @ iOS 17.5.1).\n\nI have to unlock the phone, and go into the app in order to change tracks etc.\n\nHope this can be fixed. Or I’ll have to go back to the other music player I used to use.",
+    "date": "2024-05-31T09:24:54-07:00",
+    "version": "6.2"
+  },
+  {
+    "country": "dk",
+    "id": "10939082480",
+    "author": "Brilleaben",
+    "rating": 5,
+    "title": "Awesome app",
+    "content": "It is an awesome app. Currently synchronizing with a WebDAV server. It is a bit slow but it works. Also, awesome support!",
+    "date": "2024-02-14T13:03:29-07:00",
+    "version": "6.1"
+  },
+  {
+    "country": "dk",
+    "id": "10491005161",
+    "author": "kourosh8831",
+    "rating": 5,
+    "title": "Really good",
+    "content": "I have been using it for a long time and it doesn’t have any problems \nThx for this awesome app",
+    "date": "2023-10-19T00:38:11-07:00",
+    "version": "5.6"
+  },
+  {
+    "country": "dk",
+    "id": "10297105846",
+    "author": "dofalch",
+    "rating": 4,
+    "title": "Worked great until recently",
+    "content": "I was looking for an app that could play live albums without the annoying gaps between songs. Evermusic did the job until a recent update. Now there’s a fade out and fade in between songs that is as annoying as the breaks I wanted to avoid. A shame.",
+    "date": "2023-08-25T02:37:50-07:00",
+    "version": "5.3"
+  },
+  {
+    "country": "dk",
+    "id": "10191624435",
+    "author": "sehul098765",
+    "rating": 2,
+    "title": "Last update s…",
+    "content": "After the last update, the app don’t remember what was the last played file",
+    "date": "2023-07-28T06:32:33-07:00",
+    "version": "5.2"
+  },
+  {
+    "country": "dk",
+    "id": "9644251627",
+    "author": "Karollobumbum",
+    "rating": 5,
+    "title": "It’s a live ;D",
+    "content": "It’s working like it should 100%",
+    "date": "2023-02-22T09:24:43-07:00",
+    "version": "5.0"
+  },
+  {
+    "country": "dk",
+    "id": "8231752339",
+    "author": "Sean-in-Denmark",
+    "rating": 5,
+    "title": "Nice!",
+    "content": "I find this app really useful when working on new tracks of my own. Keep it up. 👍",
+    "date": "2022-01-12T03:10:43-07:00",
+    "version": "4.8"
+  },
+  {
+    "country": "dk",
+    "id": "7186692313",
+    "author": "iMulder",
+    "rating": 4,
+    "title": "Cloud streaming",
+    "content": "Fantastisk app - savner dog at få Pcloud til at virke med 2FA...",
+    "date": "2021-04-05T07:08:41-07:00",
+    "version": "4.5"
+  },
+  {
+    "country": "dk",
+    "id": "6345814835",
+    "author": "EricMasao",
+    "rating": 1,
+    "title": "No Chromecast",
+    "content": "Its useless without the option to cast music",
+    "date": "2020-08-21T11:00:21-07:00",
+    "version": "4.2"
+  },
+  {
+    "country": "dk",
+    "id": "5936406848",
+    "author": "laggymaclaglag",
+    "rating": 3,
+    "title": "Core functionality half baked",
+    "content": "Online folder scan very slow, even when using the highest read speed. The app is rescanning the entire library every time, which makes the media library (which is what you use for searching) practically unusable, if adding tracks to a large existing online library.",
+    "date": "2020-05-12T09:18:51-07:00",
+    "version": "4.2"
+  },
+  {
+    "country": "dk",
+    "id": "5546941143",
+    "author": "Jack Clubs",
+    "rating": 5,
+    "title": "Great app!",
+    "content": "Love it!",
+    "date": "2020-02-17T23:55:19-07:00",
+    "version": "3.9"
+  },
+  {
+    "country": "dk",
+    "id": "4351292121",
+    "author": "Sbnsen",
+    "rating": 4,
+    "title": "God app",
+    "content": "Bruger app’en til carplay. Vil dog kun starte op, hvis man går ind på iPhone først og vælger kunstner eller sang. Man kan ikke starte den op direkte på Carplay. Gør det lidt uhandy. Tror, dette må være generelt og ikke bare mit system...",
+    "date": "2019-06-21T23:22:10-07:00",
+    "version": "3.6"
+  },
+  {
+    "country": "dk",
+    "id": "3705109066",
+    "author": "Prootom",
+    "rating": 5,
+    "title": "good",
+    "content": "good app",
+    "date": "2019-01-28T07:42:49-07:00",
+    "version": "3.5"
+  },
+  {
+    "country": "dk",
+    "id": "1046171199",
+    "author": "PhillipSolbjerg",
+    "rating": 5,
+    "title": "Been looking for something like this forever!",
+    "content": "Great, easy, cheap player for my Google Drive Music :)\nOnly 7 DKK and I got LOTS for it!\nKeep up the good work guys!",
+    "date": "2014-08-13T16:10:13-07:00",
+    "version": "1.2"
+  }
+]

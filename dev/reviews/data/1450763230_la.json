@@ -1,0 +1,42 @@
+[
+  {
+    "country": "la",
+    "id": "13412461798",
+    "author": "ยุโล",
+    "rating": 4,
+    "title": "เสี่ยโล",
+    "content": "เสี่ยโล",
+    "date": "2025-11-18T03:51:20-07:00",
+    "version": "3.8"
+  },
+  {
+    "country": "la",
+    "id": "13402782419",
+    "author": "Doidhgj",
+    "rating": 5,
+    "title": "ດ່ອຍ",
+    "content": "ໃຊ່ດີຄັກ",
+    "date": "2025-11-15T15:30:12-07:00",
+    "version": "3.8"
+  },
+  {
+    "country": "la",
+    "id": "11907009720",
+    "author": "Can't play app",
+    "rating": 2,
+    "title": "Can't play app",
+    "content": "This update I can't play, can't log in, the app doesn't work, the app crashes and the screen goes black.🥹🥲",
+    "date": "2024-11-03T02:49:38-07:00",
+    "version": "3.1"
+  },
+  {
+    "country": "la",
+    "id": "10743757310",
+    "author": "เดีวย",
+    "rating": 5,
+    "title": "ไช่ดีมากครับ",
+    "content": "ไช่ดีมาก",
+    "date": "2023-12-25T09:14:22-07:00",
+    "version": "2.6"
+  }
+]

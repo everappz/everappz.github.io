@@ -1,0 +1,112 @@
+[
+  {
+    "country": "za",
+    "id": "12461288853",
+    "author": "Mantshehle",
+    "rating": 4,
+    "title": "My playlist",
+    "content": "My music",
+    "date": "2025-03-24T20:30:21-07:00",
+    "version": "7.2"
+  },
+  {
+    "country": "za",
+    "id": "10139574050",
+    "author": "PaulihnoSA",
+    "rating": 5,
+    "title": "Free music",
+    "content": "Awesome for mp3 collectors & editing metadata tags.",
+    "date": "2023-07-14T07:14:02-07:00",
+    "version": "5.2"
+  },
+  {
+    "country": "za",
+    "id": "9733983805",
+    "author": "Xuba KB",
+    "rating": 2,
+    "title": "Could use some fixing",
+    "content": "Greetings, I have been using the for some time, until I could no longer copy some songs from the files folder to the app. It show the option to do so but a few seconds before I press the “copy files”, it sorta freezes then disappears. So I could no longer listen to the songs on the app as they were stuck in the files folder. Otherwise I really like it.",
+    "date": "2023-03-20T10:20:40-07:00",
+    "version": "5.0"
+  },
+  {
+    "country": "za",
+    "id": "8126390763",
+    "author": "Cozmoos",
+    "rating": 4,
+    "title": "Err...",
+    "content": "Great App, simple and effective.",
+    "date": "2021-12-13T08:53:04-07:00",
+    "version": "4.8"
+  },
+  {
+    "country": "za",
+    "id": "7871011656",
+    "author": "Pascual112003",
+    "rating": 5,
+    "title": "The best",
+    "content": "The best app in quality sound and is amazing and the best things I hope that never change",
+    "date": "2021-10-02T16:58:50-07:00",
+    "version": "4.7"
+  },
+  {
+    "country": "za",
+    "id": "7261541131",
+    "author": "Sina Muva",
+    "rating": 5,
+    "title": "Ever music",
+    "content": "This app has a great performance",
+    "date": "2021-04-25T00:59:22-07:00",
+    "version": "4.6"
+  },
+  {
+    "country": "za",
+    "id": "6758742016",
+    "author": "ntabaazi",
+    "rating": 5,
+    "title": "So helpful!",
+    "content": "It just saved my day. My soundbar has too much bass but this app helped out.",
+    "date": "2020-12-16T01:23:28-07:00",
+    "version": "4.4"
+  },
+  {
+    "country": "za",
+    "id": "6257968552",
+    "author": "Dile45",
+    "rating": 4,
+    "title": "Diiiile",
+    "content": "It works fine now that it can access files",
+    "date": "2020-07-29T21:40:27-07:00",
+    "version": "4.2"
+  },
+  {
+    "country": "za",
+    "id": "5657730987",
+    "author": "Daddy T",
+    "rating": 5,
+    "title": "More than one song",
+    "content": "I love this app but if it could add more songs to the app when airdropped that would be a real help",
+    "date": "2020-03-13T20:37:27-07:00",
+    "version": "4.0"
+  },
+  {
+    "country": "za",
+    "id": "1610368991",
+    "author": "Makes tee",
+    "rating": 4,
+    "title": "Best of a bad bunch",
+    "content": "Good offline player, but could do with some polish.  Doesn't deselect online files filter when offline. The account creator loses folder info in smb urls affecting the music library.",
+    "date": "2017-05-10T11:12:09-07:00",
+    "version": "2.8"
+  },
+  {
+    "country": "za",
+    "id": "1412282217",
+    "author": "Elviaro",
+    "rating": 5,
+    "title": "It's nice",
+    "content": "Awesome guys",
+    "date": "2016-07-15T01:00:38-07:00",
+    "version": "2.5"
+  }
+]

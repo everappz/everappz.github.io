@@ -1,0 +1,122 @@
+[
+  {
+    "country": "pe",
+    "id": "13107473635",
+    "author": "Roanronsil",
+    "rating": 5,
+    "title": "Royju",
+    "content": "Lo mejor de lo mejor para el IPhone",
+    "date": "2025-09-06T16:20:23-07:00",
+    "version": "6.9"
+  },
+  {
+    "country": "pe",
+    "id": "12025217920",
+    "author": "nito2194",
+    "rating": 5,
+    "title": "Excelente",
+    "content": "Servicio",
+    "date": "2024-12-04T08:35:25-07:00",
+    "version": "6.2"
+  },
+  {
+    "country": "pe",
+    "id": "11486496000",
+    "author": "W71ss",
+    "rating": 2,
+    "title": "Visualizacion",
+    "content": "Falta implementación de pantalla completa del aplicativo al hacer scroll en la busqueda de canciones,se veria mejor estéticamente",
+    "date": "2024-07-12T17:41:20-07:00",
+    "version": "5.5"
+  },
+  {
+    "country": "pe",
+    "id": "11121955115",
+    "author": "Gepxho Tv",
+    "rating": 5,
+    "title": "José",
+    "content": "En algo la app faltan más mejoras , Pero no deja de ser buena",
+    "date": "2024-04-04T14:17:38-07:00",
+    "version": "5.3"
+  },
+  {
+    "country": "pe",
+    "id": "10886533019",
+    "author": "Atipax1",
+    "rating": 5,
+    "title": "Agradezco mejoras",
+    "content": "Buena aplicación, las  actualizaciones las esperaba, sería bueno que se incluyese el Bit Depth  en la ventana de reproducción además del bitrate y del sample rate recién añadidos",
+    "date": "2024-01-31T15:52:15-07:00",
+    "version": "5.3"
+  },
+  {
+    "country": "pe",
+    "id": "9990720132",
+    "author": "walter0373",
+    "rating": 4,
+    "title": "Bueno",
+    "content": "Muy rápido de configurar buen sonido",
+    "date": "2023-06-02T03:23:40-07:00",
+    "version": "4.4"
+  },
+  {
+    "country": "pe",
+    "id": "9738793681",
+    "author": "Beatrixisbleu",
+    "rating": 1,
+    "title": "Insatisfecha",
+    "content": "Modifiqué un audio y no logro regresar al original",
+    "date": "2023-03-21T22:05:25-07:00",
+    "version": "4.2"
+  },
+  {
+    "country": "pe",
+    "id": "8239771535",
+    "author": "300GEDEONES",
+    "rating": 5,
+    "title": "Exelente reproductor",
+    "content": "No solo puedo guardar y reproducir mi música si no compartirlas",
+    "date": "2022-01-14T07:45:41-07:00",
+    "version": "4.0"
+  },
+  {
+    "country": "pe",
+    "id": "6616452951",
+    "author": "Rafa abasolo",
+    "rating": 5,
+    "title": "El mejor Reproductor  Lejos",
+    "content": "probe varios y mas caros y ninguno iguala a flacbox y lo mas importante creo yo  es que realizan mejoras y actualizaciones continuas",
+    "date": "2020-11-06T13:59:26-07:00",
+    "version": "3.4"
+  },
+  {
+    "country": "pe",
+    "id": "6616439203",
+    "author": "Ferm1l",
+    "rating": 1,
+    "title": "Se estanca en las listas",
+    "content": "En una lista de canciones, sea cual sea, se estanca al azar en una canción, y ya no se puede continuar. Debo volver a abrir el aplicativo. Antes bastaba con mover manualmente la lista, pero ahora es peor. No lo recomiendo, busquen otro reproductor.",
+    "date": "2020-11-06T13:53:32-07:00",
+    "version": "3.4"
+  },
+  {
+    "country": "pe",
+    "id": "6588616122",
+    "author": "ozinasbab",
+    "rating": 2,
+    "title": "Problemas con el ecualizador",
+    "content": "Deberían arreglar el ecualizador, tiene errores, deberían dejarlo como estaba",
+    "date": "2020-10-29T20:21:39-07:00",
+    "version": "3.3"
+  },
+  {
+    "country": "pe",
+    "id": "6380599612",
+    "author": "alexisdioms",
+    "rating": 3,
+    "title": "La recomiendo",
+    "content": "Es muy completo, Actualmente lo estoy usando y es muy agradable ,si hay una diferencia escuchar Flac en este Reproductor, Hay algunas cosas que mejorar como por ejemplo la la transición de una música hacia otra música Qué no sea tan abrupta, hay que mejorar ahí..",
+    "date": "2020-08-31T06:17:52-07:00",
+    "version": "3.2"
+  }
+]

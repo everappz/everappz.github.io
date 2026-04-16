@@ -1,0 +1,32 @@
+[
+  {
+    "country": "ar",
+    "id": "11814740076",
+    "author": "TTTII2",
+    "rating": 2,
+    "title": "The album covers",
+    "content": "Look, i try to add a cover to a local file song and it works, but when i enter to Spotify the picture isn’t there, the rest of the details like the name of the song, the album name works, but that doesn’t",
+    "date": "2024-10-09T07:03:25-07:00",
+    "version": "2.9"
+  },
+  {
+    "country": "ar",
+    "id": "5941270861",
+    "author": "ME.I.AM.Steven4Real",
+    "rating": 5,
+    "title": "Muy buena",
+    "content": "Cumple con lo que dice",
+    "date": "2020-05-13T12:48:26-07:00",
+    "version": "1.4"
+  },
+  {
+    "country": "ar",
+    "id": "5670477345",
+    "author": "ConsolaOk",
+    "rating": 5,
+    "title": "Sube el archivo sin carátula",
+    "content": "Compre la versión pro \nPara que se me haga más fácil el trabajo \nY sigue sin subir los audios mp3 a mega sin las etiquetas \nA ver si lo arreglan O me devuelven el dinero saludos",
+    "date": "2020-03-16T18:10:20-07:00",
+    "version": "1.3"
+  }
+]

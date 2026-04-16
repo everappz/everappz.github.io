@@ -1,0 +1,42 @@
+[
+  {
+    "country": "pt",
+    "id": "13743975514",
+    "author": "kanguru007_",
+    "rating": 5,
+    "title": "Worth the money",
+    "content": "We needed a decent music player after the demise of iTunes. It’s not 100% perfect but it’s actively being improved and getting closer. I’ve been using it for a couple of years now.",
+    "date": "2026-02-13T01:16:52-07:00",
+    "version": "7.3"
+  },
+  {
+    "country": "pt",
+    "id": "13669853180",
+    "author": "FXSLoL",
+    "rating": 1,
+    "title": "👎🏻",
+    "content": "👎🏻",
+    "date": "2026-01-24T03:54:22-07:00",
+    "version": "7.2"
+  },
+  {
+    "country": "pt",
+    "id": "9896010589",
+    "author": "Jd03796",
+    "rating": 4,
+    "title": "Abrir outra nuvem",
+    "content": "Eliminaram a possibilidade de aceder a outras nuvens que não constam da lista de ligação.",
+    "date": "2023-05-05T11:16:10-07:00",
+    "version": "4.4"
+  },
+  {
+    "country": "pt",
+    "id": "8943333230",
+    "author": "alcunha1",
+    "rating": 2,
+    "title": "Confuso!",
+    "content": "App parece ter boas potencialidades mas é confusa de entender. Não explica o que acontece ao selecionarmos uma pasta local para reproduzir e se cria duplicados dos ficheiros em pasta própria da App ou não.\n\nPara quem quer uma App que organize uma biblioteca local com base numa pasta de música local não é fácil entender como fazer.",
+    "date": "2022-08-04T00:41:56-07:00",
+    "version": "4.2"
+  }
+]

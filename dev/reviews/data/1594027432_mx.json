@@ -1,0 +1,52 @@
+[
+  {
+    "country": "mx",
+    "id": "13392692793",
+    "author": "John117Assasings",
+    "rating": 3,
+    "title": "Se reinicia y se cierra",
+    "content": "Desde la ultima actualización se cierra y se reinicia.",
+    "date": "2025-11-13T05:38:48-07:00",
+    "version": "7.1"
+  },
+  {
+    "country": "mx",
+    "id": "12451193393",
+    "author": "friendly90210",
+    "rating": 5,
+    "title": "Excelente!",
+    "content": "Llevo poco usando su app, solo la uso para reproducir musica local, pero me gusto su interfaz y la forma en que se organiza todo. Como recomendacion, tal vez un acceso rápido para cambiar de tema claro a oscuro.",
+    "date": "2025-03-22T09:46:29-07:00",
+    "version": "6.3"
+  },
+  {
+    "country": "mx",
+    "id": "11711620676",
+    "author": "The Effigy",
+    "rating": 4,
+    "title": "It is good but need some fixes",
+    "content": "The interface is not the best, You cannot go to the album artist or show the song is \"playing now\". The version for Mac recharge everytime you change the windows size. it works for me and people who have their own library",
+    "date": "2024-09-10T22:38:27-07:00",
+    "version": "5.7"
+  },
+  {
+    "country": "mx",
+    "id": "10099632547",
+    "author": "Alextor",
+    "rating": 5,
+    "title": "Ecelente reproductor y gestor de música",
+    "content": "Estuve probando varias opciones y todas ella se han olvidado de las funciones más básicas como poder ver tu biblioteca, seleccionar un album o cola de reproducción, Flacbox hace todo lo básico más lo nuevo cómo su integración cloud.",
+    "date": "2023-07-03T07:29:29-07:00",
+    "version": "4.4"
+  },
+  {
+    "country": "mx",
+    "id": "8859830622",
+    "author": "Damonce",
+    "rating": 5,
+    "title": "Cuando cambia de canción se produce un sonido horrible",
+    "content": "Por su precio la App está bien y promete mucho. Sin embargo, aparte de su inestabilidad que parece que ya están atendiendo los desarrolladores, urge que le quiten el ruido horrible que se produce cuando pasa de una canción a. otra. Uuuuffffhhh!!!",
+    "date": "2022-07-10T06:31:24-07:00",
+    "version": "4.2"
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "country": "mu",
+    "id": "11813217077",
+    "author": "JoneeBee31",
+    "rating": 5,
+    "title": "Great",
+    "content": "Great app",
+    "date": "2024-10-08T20:13:05-07:00",
+    "version": "6.8"
+  },
+  {
+    "country": "mu",
+    "id": "10912576203",
+    "author": "Storm Burst",
+    "rating": 5,
+    "title": "À titre personnel",
+    "content": "La pub au lancement de l’application est dérangeant",
+    "date": "2024-02-07T07:14:47-07:00",
+    "version": "6.1"
+  },
+  {
+    "country": "mu",
+    "id": "5678648020",
+    "author": "dem2810",
+    "rating": 4,
+    "title": "Timer",
+    "content": "No sleep timer",
+    "date": "2020-03-18T12:31:35-07:00",
+    "version": "4.1"
+  }
+]

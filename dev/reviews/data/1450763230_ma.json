@@ -1,0 +1,32 @@
+[
+  {
+    "country": "ma",
+    "id": "11974922437",
+    "author": "shezuko",
+    "rating": 2,
+    "title": "Lagging",
+    "content": "It lags a lot please fix it",
+    "date": "2024-11-21T05:28:49-07:00",
+    "version": "3.1"
+  },
+  {
+    "country": "ma",
+    "id": "10413733443",
+    "author": "Belamal",
+    "rating": 1,
+    "title": "Idk",
+    "content": "It stopped working on amerigo 😭💔",
+    "date": "2023-09-27T13:34:09-07:00",
+    "version": "2.3"
+  },
+  {
+    "country": "ma",
+    "id": "6540275610",
+    "author": "hamzach6803",
+    "rating": 5,
+    "title": "Top",
+    "content": "Best app for edit audio",
+    "date": "2020-10-16T00:43:03-07:00",
+    "version": "1.5"
+  }
+]

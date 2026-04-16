@@ -1,0 +1,22 @@
+[
+  {
+    "country": "id",
+    "id": "9088196340",
+    "author": "Fikri Syahid",
+    "rating": 5,
+    "title": "Worked really well",
+    "content": "Worked on apple M1 with Mac OS Monterey 12.6. Speed change feature is very nice.",
+    "date": "2022-09-15T12:37:42-07:00",
+    "version": "4.2"
+  },
+  {
+    "country": "id",
+    "id": "8922121554",
+    "author": "LUSIANALEKSANA",
+    "rating": 1,
+    "title": "can't be opened",
+    "content": "This app can't be opened in my mac. I wonder what makes it.",
+    "date": "2022-07-28T18:17:15-07:00",
+    "version": "4.2"
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "country": "bo",
+    "id": "8788665747",
+    "author": "arcasval",
+    "rating": 5,
+    "title": "App amigo",
+    "content": "Es muy bueno nada complicado muy amigable cómodo y gustoso",
+    "date": "2022-06-19T00:27:49-07:00",
+    "version": "4.1"
+  },
+  {
+    "country": "bo",
+    "id": "8476075696",
+    "author": "RICKMAN201181",
+    "rating": 1,
+    "title": "Mala",
+    "content": "Prefiero que salga publicidad o que desactive el eq pero que el audio salga tan Malo? Es un abuso, si cargamos Flac es precisamente por calidad de audio, le quitaron el stereo a la versión free y eso es muy abusivo de su parte.",
+    "date": "2022-03-20T05:19:12-07:00",
+    "version": "3.2"
+  }
+]

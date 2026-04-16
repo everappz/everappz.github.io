@@ -1,0 +1,72 @@
+[
+  {
+    "country": "lv",
+    "id": "10478681301",
+    "author": "jurok00",
+    "rating": 5,
+    "title": "Окей !",
+    "content": "Ну вот, хотя бы один из годных аудио проигрывателей, в котором можно спокойно слушать свою музыку, оффлайн, без всяких навязчивых ‘’ стримов’’ Спасибо",
+    "date": "2023-10-15T11:56:51-07:00",
+    "version": "5.6"
+  },
+  {
+    "country": "lv",
+    "id": "10057974664",
+    "author": "Olegario213",
+    "rating": 5,
+    "title": "It’s not getting better",
+    "content": "Searching my songs became overconmplicated",
+    "date": "2023-06-21T12:03:12-07:00",
+    "version": "5.2"
+  },
+  {
+    "country": "lv",
+    "id": "7013604361",
+    "author": "Kwichii",
+    "rating": 5,
+    "title": "Awesome",
+    "content": "Can use iTunes for files",
+    "date": "2021-02-19T06:45:22-07:00",
+    "version": "4.5"
+  },
+  {
+    "country": "lv",
+    "id": "6984572151",
+    "author": "Jury St",
+    "rating": 5,
+    "title": "Best music player",
+    "content": "Very simple and user friendly.\nIf you fix problem with shuffle( not correctly mixing tracks) I will buy a pro version.",
+    "date": "2021-02-12T01:28:19-07:00",
+    "version": "4.5"
+  },
+  {
+    "country": "lv",
+    "id": "6770704554",
+    "author": "Punitif",
+    "rating": 3,
+    "title": "Was fine before",
+    "content": "It was all great before one day it just stopped connecting to a WebDAV share, failing with Error -1022. The server is fine and works otherwise.",
+    "date": "2020-12-19T07:09:30-07:00",
+    "version": "4.4"
+  },
+  {
+    "country": "lv",
+    "id": "4049826927",
+    "author": "Gogigogigogi",
+    "rating": 4,
+    "title": "Sos",
+    "content": "Что с тегами случилось ? Невозможно переиминовать .. пофиксите баг(((",
+    "date": "2019-04-23T05:07:52-07:00",
+    "version": "3.6"
+  },
+  {
+    "country": "lv",
+    "id": "1127508496",
+    "author": "Knokser",
+    "rating": 5,
+    "title": "Knocks",
+    "content": "Excellent",
+    "date": "2015-01-10T03:07:04-07:00",
+    "version": "1.4"
+  }
+]

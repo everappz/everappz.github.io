@@ -1,0 +1,32 @@
+[
+  {
+    "country": "au",
+    "id": "12694682423",
+    "author": "My Makky Boy",
+    "rating": 5,
+    "title": "Great App",
+    "content": "Had an issue with music player crashing so downloaded this app. Full of features and easy to use. Very stable on OSX.",
+    "date": "2025-05-24T18:37:27-07:00",
+    "version": "7.4"
+  },
+  {
+    "country": "au",
+    "id": "9614779753",
+    "author": "MJayD1",
+    "rating": 4,
+    "title": "does what it says",
+    "content": "love its simplicity",
+    "date": "2023-02-13T13:18:43-07:00",
+    "version": "5.0"
+  },
+  {
+    "country": "au",
+    "id": "8162989226",
+    "author": "electronicguy",
+    "rating": 5,
+    "title": "it works",
+    "content": "on my m1 macbook pro, it has what's expected from a player, smooth fade over from song to song, when playing the contents of a folder, yes just drag/drop a folder to play, excellent for party background",
+    "date": "2021-12-23T23:17:34-07:00",
+    "version": "4.8"
+  }
+]

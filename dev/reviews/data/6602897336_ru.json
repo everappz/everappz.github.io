@@ -1,0 +1,22 @@
+[
+  {
+    "country": "ru",
+    "id": "13305653775",
+    "author": "ArturGGPRO",
+    "rating": 1,
+    "title": "Video Codecs",
+    "content": "Overall, the app is ok. I liked equalizer feature in the video. But, the biggest drawback is the lack of support for Dolby Vision and all the necessary codecs for HDR10/Dolby Vision/Dolby Atmos. This would allow users to watch 40-70 GB releases from cinemas on their phones. Until this feature is added, the “Infuse” app remains the best choice for viewing content in the highest quality.",
+    "date": "2025-10-23T16:50:32-07:00",
+    "version": "1.4"
+  },
+  {
+    "country": "ru",
+    "id": "12636539379",
+    "author": "Юрий с...",
+    "rating": 5,
+    "title": "Недоработки",
+    "content": "Если будет русский поставлю 5 ещё нужно доработать нормальное соотношение сторон у видео с чёрными краями как стандартном файловом менеджере",
+    "date": "2025-05-09T05:06:08-07:00",
+    "version": "1.1"
+  }
+]

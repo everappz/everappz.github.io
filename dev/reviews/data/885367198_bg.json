@@ -1,0 +1,32 @@
+[
+  {
+    "country": "bg",
+    "id": "13602676994",
+    "author": "Denkata16",
+    "rating": 5,
+    "title": "Mega",
+    "content": "That app is perfect you don’t pay and it is like spotifay premium",
+    "date": "2026-01-06T11:45:05-07:00",
+    "version": "8.3"
+  },
+  {
+    "country": "bg",
+    "id": "13345113576",
+    "author": "hhajduhx",
+    "rating": 2,
+    "title": "No sync of playlists between mac / iphone",
+    "content": "The playlists between mac and iphone can not be synced, the mac/iphone versions are like independend from each other :(... I wish you can implement this. Also, on the mac version, you can not drag a mp3 / wav from your mac (finder) into a playlist. Why is that??? Basic simple functions not available. :( I go back to AudioFinder for mac. I wish to have app like Audiofinder but for IOS and Mac - that will sync your playlists, either by pulling them from a online database (dropbox) or by having and account and setup sync via dropbox. It would be an absolutely great feature if the playlists could be synced, especially when both (mac an iphone app) are connected to your dropbox.",
+    "date": "2025-11-01T21:02:13-07:00",
+    "version": "8.2"
+  },
+  {
+    "country": "bg",
+    "id": "12633257607",
+    "author": "JmeLche",
+    "rating": 1,
+    "title": "FTP client",
+    "content": "I have been waiting for you to add an FTP client for so many years and there is not much I am disappointed with you.",
+    "date": "2025-05-08T06:42:59-07:00",
+    "version": "7.3"
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "country": "ma",
+    "id": "12678551183",
+    "author": "Amine.FR",
+    "rating": 2,
+    "title": "the laste update is so ugly",
+    "content": "the laste update is so ugly, much pub, pub, pub, pup...",
+    "date": "2025-05-20T14:09:05-07:00",
+    "version": "7.4"
+  },
+  {
+    "country": "ma",
+    "id": "11709336449",
+    "author": "Utilisateur satisfait 2024",
+    "rating": 5,
+    "title": "Pratique",
+    "content": "Application très très pratique.",
+    "date": "2024-09-10T06:48:20-07:00",
+    "version": "6.5"
+  },
+  {
+    "country": "ma",
+    "id": "9691436468",
+    "author": "Ayoub-design",
+    "rating": 5,
+    "title": "My honest point of vue",
+    "content": "For real this app spacially for ios it is amaizing because i tried so many times to download apps but i’v never found what i needed",
+    "date": "2023-03-08T02:39:58-07:00",
+    "version": "5.0"
+  }
+]

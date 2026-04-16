@@ -1,0 +1,52 @@
+[
+  {
+    "country": "by",
+    "id": "12935837089",
+    "author": "Wooldran",
+    "rating": 4,
+    "title": "Slow",
+    "content": "Very slow downloads from cloud",
+    "date": "2025-07-25T11:53:07-07:00",
+    "version": "7.6"
+  },
+  {
+    "country": "by",
+    "id": "12051271159",
+    "author": "DizelPostSTRN",
+    "rating": 1,
+    "title": "Ущербное",
+    "content": "Ущербное как и все приложения для прослушивания музыки в аппсторе, в бесплатной версии ограниченое кол-во плейлистов…Разработчики, вы серьезно?) Сортировки треков как в двухтысячных, на Андроидах и то есть плееры получше. В общем научитесь делать правильные механики и интерфейсы",
+    "date": "2024-12-11T07:05:50-07:00",
+    "version": "7.1"
+  },
+  {
+    "country": "by",
+    "id": "10805636161",
+    "author": "Blvcknoise",
+    "rating": 1,
+    "title": "Перестали закачиваться файлы через wi-fi drive",
+    "content": "Перестали закачиваться файлы через wi-fi drive. Пробовал разные браузеры и разные вайфаи. Не подключается.",
+    "date": "2024-01-10T03:37:32-07:00",
+    "version": "6.0"
+  },
+  {
+    "country": "by",
+    "id": "10613138272",
+    "author": "lalejjcnspworufj",
+    "rating": 5,
+    "title": "Cool play",
+    "content": "Please add widgets",
+    "date": "2023-11-22T08:42:21-07:00",
+    "version": "5.8"
+  },
+  {
+    "country": "by",
+    "id": "4665012222",
+    "author": "purelatin",
+    "rating": 3,
+    "title": "Not bad, but...",
+    "content": "Not bad audio player, but speed of playing is changing only from \"0,88\" (I can’t change it on less then 12%)",
+    "date": "2019-08-24T03:23:34-07:00",
+    "version": "3.6"
+  }
+]

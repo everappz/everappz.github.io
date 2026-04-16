@@ -1,0 +1,82 @@
+[
+  {
+    "country": "gr",
+    "id": "13050501530",
+    "author": "Obrax",
+    "rating": 5,
+    "title": "Εξαιρετικό",
+    "content": "Απλό, λιτό, απέριττο!",
+    "date": "2025-08-23T03:45:15-07:00",
+    "version": "6.8"
+  },
+  {
+    "country": "gr",
+    "id": "12203698993",
+    "author": "Iliasdouk",
+    "rating": 1,
+    "title": "Crashing",
+    "content": "The app is way too confusing and complicated and I cannot listen to music without it crashing every 10 minutes also I am having problems trying to add new songs the app simply doesn’t recognize them. Waste of time and money",
+    "date": "2025-01-19T06:13:22-07:00",
+    "version": "6.3"
+  },
+  {
+    "country": "gr",
+    "id": "11231953011",
+    "author": "TinoKos78",
+    "rating": 5,
+    "title": "Все бы не плохо",
+    "content": "Жаль только что в самом приложении нельзя сохранять музыку, только лишь через облака… было бы не плохо скачивать музыку именно в приложение из интернета.",
+    "date": "2024-05-04T10:24:31-07:00",
+    "version": "5.4"
+  },
+  {
+    "country": "gr",
+    "id": "11198552390",
+    "author": "constantinos vasilopoulos",
+    "rating": 5,
+    "title": "Top",
+    "content": "Top\nTop\nTop",
+    "date": "2024-04-25T04:18:03-07:00",
+    "version": "5.4"
+  },
+  {
+    "country": "gr",
+    "id": "10949040661",
+    "author": "NightcrawlerGR",
+    "rating": 5,
+    "title": "Look no further",
+    "content": "This is the best player.",
+    "date": "2024-02-17T07:05:58-07:00",
+    "version": "5.3"
+  },
+  {
+    "country": "gr",
+    "id": "10431483032",
+    "author": "clavidis",
+    "rating": 5,
+    "title": "Great work",
+    "content": "One minor problem. In free version I was able to control playback from Lock Screen. In bought version Flacbox does not appear on controls.",
+    "date": "2023-10-02T11:31:06-07:00",
+    "version": "4.6"
+  },
+  {
+    "country": "gr",
+    "id": "3643115870",
+    "author": "ofiwhs",
+    "rating": 5,
+    "title": "Great app for FLAC !",
+    "content": "I tried a bunch of apps but this one had the best UI and many audio customization features...and just works great... Also you can connect other services to play them all in one app. Recommended!",
+    "date": "2019-01-12T15:23:00-07:00",
+    "version": "2.3"
+  },
+  {
+    "country": "gr",
+    "id": "1660572525",
+    "author": "Wisdomgodess",
+    "rating": 4,
+    "title": "One of the best",
+    "content": "I ve tried many but it's the only one that plays opus format on phone 👌🏻",
+    "date": "2017-06-28T01:16:52-07:00",
+    "version": "1.8"
+  }
+]

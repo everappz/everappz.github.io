@@ -1,0 +1,52 @@
+[
+  {
+    "country": "nl",
+    "id": "11326346345",
+    "author": "IvoAC1975",
+    "rating": 1,
+    "title": "App updates the wrong MP3 on my OneDrive",
+    "content": "When I update an MP3 on my Onedrive, it actually updates the wrong file or it does not update it at all.\n\nI tried several time closing the app, re-opening or re-loading the data, but kept having the same problem. Please refund.",
+    "date": "2024-05-30T23:48:42-07:00",
+    "version": "2.7"
+  },
+  {
+    "country": "nl",
+    "id": "11141572104",
+    "author": "beijder",
+    "rating": 1,
+    "title": "Can’t manage Apple Music library files on iPhone",
+    "content": "When you store all your “own” MP3 files in the Apple Music Library these are NOT accessible via this app.",
+    "date": "2024-04-10T01:05:17-07:00",
+    "version": "2.6"
+  },
+  {
+    "country": "nl",
+    "id": "10424425554",
+    "author": "Alex Hiemstra",
+    "rating": 5,
+    "title": "Great app! + suggestion",
+    "content": "Nice app, but i have a suggestion, add a music player in the app! That would be great! Thank you in advance",
+    "date": "2023-09-30T12:54:02-07:00",
+    "version": "2.3"
+  },
+  {
+    "country": "nl",
+    "id": "9330586675",
+    "author": "Stafhorst",
+    "rating": 2,
+    "title": "NAS",
+    "content": "Alleen in de betaalde versie.",
+    "date": "2022-11-26T03:47:14-07:00",
+    "version": "1.9"
+  },
+  {
+    "country": "nl",
+    "id": "8441347830",
+    "author": "Pannekoekje",
+    "rating": 2,
+    "title": "Doesn’t connect to NAS",
+    "content": "My music library is located on my NAS. This app doesn’t seem to find it, however Flacbox does.",
+    "date": "2022-03-10T12:03:46-07:00",
+    "version": "1.7"
+  }
+]

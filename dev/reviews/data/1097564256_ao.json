@@ -1,0 +1,32 @@
+[
+  {
+    "country": "ao",
+    "id": "13321263320",
+    "author": "Moisés Catumbela",
+    "rating": 5,
+    "title": "Muito bom aplicativo",
+    "content": "Nenhuma",
+    "date": "2025-10-27T07:56:25-07:00",
+    "version": "6.9"
+  },
+  {
+    "country": "ao",
+    "id": "11299198808",
+    "author": "Danilson Bravo",
+    "rating": 1,
+    "title": "Crítica",
+    "content": "O aplicativo trava muito",
+    "date": "2024-05-23T12:14:08-07:00",
+    "version": "5.4"
+  },
+  {
+    "country": "ao",
+    "id": "10022867546",
+    "author": "ProprioWiNaCasa",
+    "rating": 1,
+    "title": "Não pesquisa música",
+    "content": "É muito fraco. Não pesquisa músicas on-line.",
+    "date": "2023-06-11T07:57:02-07:00",
+    "version": "4.4"
+  }
+]

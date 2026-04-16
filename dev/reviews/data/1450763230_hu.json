@@ -1,0 +1,32 @@
+[
+  {
+    "country": "hu",
+    "id": "6422185387",
+    "author": "petiazenefan",
+    "rating": 3,
+    "title": "Dalszöveg?",
+    "content": "Hiányzik a dalszöveg funkció!",
+    "date": "2020-09-12T10:22:26-07:00",
+    "version": "1.5"
+  },
+  {
+    "country": "hu",
+    "id": "6251651637",
+    "author": "kőgazdag",
+    "rating": 3,
+    "title": "Jó, de...",
+    "content": "A ‘Lyrics” opciót hiányolom. Ha benne lesz, jár az 5*!",
+    "date": "2020-07-28T07:00:15-07:00",
+    "version": "1.5"
+  },
+  {
+    "country": "hu",
+    "id": "6149062759",
+    "author": "szosa59",
+    "rating": 1,
+    "title": "Ez nem megy",
+    "content": "Ez nem muxik",
+    "date": "2020-07-02T09:34:35-07:00",
+    "version": "1.5"
+  }
+]

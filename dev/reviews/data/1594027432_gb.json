@@ -1,0 +1,62 @@
+[
+  {
+    "country": "gb",
+    "id": "13534457523",
+    "author": "P Bux",
+    "rating": 1,
+    "title": "iOS is great but this…",
+    "content": "Been using FB for a month on iOS and really happy so download the MacOS version. Played a local file for about 3 minutes, FB crashed and refused to open from that point onward. This was despite numerous restarts of the device. Disappointed isn’t the word, premium subscription cancelled and back to my search…",
+    "date": "2025-12-20T03:29:40-07:00",
+    "version": "7.1"
+  },
+  {
+    "country": "gb",
+    "id": "12509670365",
+    "author": "Aidyc1",
+    "rating": 4,
+    "title": "Good once your music library has synced.",
+    "content": "Took a full week to finish syncing meta data from my nas drive, even at full speed. Would be great to have the audio player button in the sidebar at the top. Would also like to see a seperate 'compilations' section. other than that, this is the best music player of its kind i have come across.",
+    "date": "2025-04-05T23:42:49-07:00",
+    "version": "6.3"
+  },
+  {
+    "country": "gb",
+    "id": "12088276330",
+    "author": "Nick996677",
+    "rating": 5,
+    "title": "Buy it once, use it every day",
+    "content": "Musical obsessive, digital packrat, staying up late nights to download, going wild on Bandcamp Friday, any of those sound familar? Apple’s decision to not support FLAC but instead introduce their own parallel scheme, ALAC, that requires 4x the CPU power that FLAC requires. Typical heavy-handed “you’ll take what we give you and like it” Apple approach.\n\nSo, I bought Flacbox for life, and was happy using it on my iPhone but now that it’s available on macOS, it’s even more useful. Music libraries that are split across directories or even volumes (NFS shares, etc.) are easy to integrate. Some of the power features are not totally obvious so some time with the documentation is useful.",
+    "date": "2024-12-21T03:12:14-07:00",
+    "version": "6.2"
+  },
+  {
+    "country": "gb",
+    "id": "11308513240",
+    "author": "MuriloRQ",
+    "rating": 3,
+    "title": "Great app but...",
+    "content": "Flacbox is a decent app overall, but it suffers from a significant bug that has been an ongoing issue. Albums from different artists that share the same name are incorrectly displayed as a single album. For example, multiple \"Greatest Hits\" albums by different artists are grouped together, which is quite frustrating. This flaw undermines the app's usability and needs to be addressed urgently.",
+    "date": "2024-05-26T01:59:37-07:00",
+    "version": "5.4"
+  },
+  {
+    "country": "gb",
+    "id": "11184557036",
+    "author": "PhilDewhurst",
+    "rating": 5,
+    "title": "Love it",
+    "content": "There's just something different when listening to music in FLAC format opposed to the 320kbps MP3's\n\nQuality 5***** from me.",
+    "date": "2024-04-21T05:39:23-07:00",
+    "version": "5.3"
+  },
+  {
+    "country": "gb",
+    "id": "9589368086",
+    "author": "hxj inning hrhsbsnss",
+    "rating": 5,
+    "title": "Perfect !",
+    "content": "Perfect !",
+    "date": "2023-02-06T05:22:47-07:00",
+    "version": "4.2"
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "country": "ma",
+    "id": "13669043597",
+    "author": "Salah.serb",
+    "rating": 5,
+    "title": "The best",
+    "content": "The app does its job perfectly",
+    "date": "2026-01-23T22:07:42-07:00",
+    "version": "7.2"
+  },
+  {
+    "country": "ma",
+    "id": "11888761181",
+    "author": "Itsss___Alex",
+    "rating": 5,
+    "title": "Feature request",
+    "content": "Can you please add an seamless fade (crossfade) between tracks which i can configure how early the transition start, am loving this app",
+    "date": "2024-10-29T09:22:32-07:00",
+    "version": "5.9"
+  }
+]

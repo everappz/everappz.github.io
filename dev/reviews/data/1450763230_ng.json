@@ -1,0 +1,42 @@
+[
+  {
+    "country": "ng",
+    "id": "10560964294",
+    "author": "kingjayler",
+    "rating": 5,
+    "title": "I love the app",
+    "content": "I’m a musician and this Evertag Tags Editor App has made tagging my song easier, thanks alot, pls keep up the good service❤️",
+    "date": "2023-11-07T12:57:12-07:00",
+    "version": "2.4"
+  },
+  {
+    "country": "ng",
+    "id": "9259289870",
+    "author": "NijBaw",
+    "rating": 5,
+    "title": "Good App",
+    "content": "It does what it says 👌",
+    "date": "2022-11-05T16:25:19-07:00",
+    "version": "1.9"
+  },
+  {
+    "country": "ng",
+    "id": "7971495502",
+    "author": "Dessysings",
+    "rating": 5,
+    "title": "Nice App",
+    "content": "Working so fine.",
+    "date": "2021-10-30T14:30:03-07:00",
+    "version": "1.6"
+  },
+  {
+    "country": "ng",
+    "id": "6331691229",
+    "author": "horlabrown",
+    "rating": 3,
+    "title": "Album art issue",
+    "content": "CAnt add album art cover...previous version working perfect like wow...but now oh no",
+    "date": "2020-08-17T17:13:28-07:00",
+    "version": "1.5"
+  }
+]

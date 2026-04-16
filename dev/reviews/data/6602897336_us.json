@@ -1,0 +1,32 @@
+[
+  {
+    "country": "us",
+    "id": "13675345069",
+    "author": "aguynamedchriss",
+    "rating": 1,
+    "title": "Wish it worked…",
+    "content": "App crashes every time I try to play a 360 mp4 on my NAS. And if I add those mp4s to my library, the app crashes forever / I need to uninstall the app to fix.",
+    "date": "2026-01-25T12:23:40-07:00",
+    "version": "1.6"
+  },
+  {
+    "country": "us",
+    "id": "13305702747",
+    "author": "Gabsapps",
+    "rating": 3,
+    "title": "Lack of atmos support turns me off",
+    "content": "If we can get Dolby atmos in a update I’ll change my review u guys did get it working in flacbox we need it here",
+    "date": "2025-10-23T17:09:36-07:00",
+    "version": "1.4"
+  },
+  {
+    "country": "us",
+    "id": "13118647181",
+    "author": "Kellie calderón",
+    "rating": 4,
+    "title": "This app is good but I’m having a problem",
+    "content": "This app is good, but when I’m trying to play my files on shuffle mode, the app get stuck",
+    "date": "2025-09-09T14:29:32-07:00",
+    "version": "1.4"
+  }
+]

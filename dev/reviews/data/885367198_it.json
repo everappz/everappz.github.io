@@ -1,0 +1,502 @@
+[
+  {
+    "country": "it",
+    "id": "13730026672",
+    "author": "Expattinatore",
+    "rating": 2,
+    "title": "Lettura da cartella sincronizzata con Synology Drive",
+    "content": "L'app non permette di aggiungere alla biblioteca la cartella sincronizzata con Synology Drive\nPermette solo di aggiungere i file musicali presenti nella cartella\nSi è costretti quindi a sincronizzare tali file solo tramite la sincronizzazione con l'app evermusic\nPurtroppo, per ben 2 volte, dopo aver effettuata la sincronizzazione, si è verificato un crash che ha cancellato tutti i file dalla cartella locale costringendomi a sincronizzare di nuovo\nE comunque non riesce a sincronizzare tutti i file presenti nel mio nas synology\nA proposito, se ci sono molti file da sincronizzare, conviene far partire un brano e farlo ripetere all'infinito altrimenti la sincronizzazione si blocca",
+    "date": "2026-02-09T02:44:21-07:00",
+    "version": "8.5"
+  },
+  {
+    "country": "it",
+    "id": "13573923376",
+    "author": "Gasolio68",
+    "rating": 2,
+    "title": "Tartaruga Music",
+    "content": "Ti fa andar via la voglia di ascoltare musica per quanto è lenta a scansionare e caricare gli album,sia da Cloud che in locale,a volte carica in parte,a volte per niente,devi uscire e rientrare e forse carica. Cartelle non sincronizzate,scansione in manuale 10 volte su 10. Per fortuna il prezzo non elevato!",
+    "date": "2025-12-30T10:57:28-07:00",
+    "version": "8.3"
+  },
+  {
+    "country": "it",
+    "id": "13149671058",
+    "author": "DDM1712",
+    "rating": 5,
+    "title": "App perfetta per l’ascolto offline",
+    "content": "App ideale per ascoltare offline i propri file mp3!",
+    "date": "2025-09-17T11:46:27-07:00",
+    "version": "8.0"
+  },
+  {
+    "country": "it",
+    "id": "12878962781",
+    "author": "TuttlePier",
+    "rating": 2,
+    "title": "Lentezza insostenibile...",
+    "content": "Non c'è molto da dire... la sincronizzazione con la libreria locale é di una lentezza assoluta. 3 giorni per completare lo scan dei file...imbarazzante. Inoltre aggiungere nuova musica é una sofferenza infinita, con musica che non compare dopo l'aggiunta, o che compare parzialmente...o che richiede altrettanti giorni prima di comparire. Inoltre non legge i .cue per i FLAC, per cui tocca splittare i file...che è una roba che si faceva 15 anni fa. App oscena.",
+    "date": "2025-07-11T05:33:58-07:00",
+    "version": "7.6"
+  },
+  {
+    "country": "it",
+    "id": "12835824559",
+    "author": "Lukas1981",
+    "rating": 1,
+    "title": "Evermusic e WD Cloud Fail",
+    "content": "L’ultimo aggiornamento che doveva risolvere alcuni problemi del cloud in realtà ne ha creati: ora la connessione con il WD MyCloud Home da Errore d’accesso 1, rendendo l’app inutilizzabile!\nAperti più ticket ma senza ricevere assistenza! \nQuando funzionava ero anche contento dell’app ma ora è inutile! Cosa devo fare?",
+    "date": "2025-06-30T09:34:22-07:00",
+    "version": "7.4"
+  },
+  {
+    "country": "it",
+    "id": "12622478371",
+    "author": "RobyMarocco",
+    "rating": 1,
+    "title": "La compro o non la compro?",
+    "content": "Supporto Apple Watch indispensabile…come i Testi delle canzoni del resto…!!!",
+    "date": "2025-05-05T07:18:33-07:00",
+    "version": "7.2"
+  },
+  {
+    "country": "it",
+    "id": "12562837091",
+    "author": "Filippo7619",
+    "rating": 2,
+    "title": "Carplay",
+    "content": "Carplay...Blank screen, please repair it!",
+    "date": "2025-04-19T11:59:34-07:00",
+    "version": "7.2"
+  },
+  {
+    "country": "it",
+    "id": "12311387325",
+    "author": "re_bridge",
+    "rating": 5,
+    "title": "Evermusic",
+    "content": "Ho usato e molto apprezzato Evermusic base per parecchio tempo, poi ho deciso di passare a pro, proprio per avere la possibilità di collegarsi a più sevizi di cloud per ascoltare la propria musica online. Sarebbe utile a tantissimi utenti disporre (oltre a quelli già presenti) di ulteriori servizi di cloud a cui collegarsi come ad esempio TeraBox, che è un cloud decisamente valido e che offre anche molto spazio free.",
+    "date": "2025-02-14T14:10:06-07:00",
+    "version": "7.2"
+  },
+  {
+    "country": "it",
+    "id": "11920436439",
+    "author": "ajk_345_**!!",
+    "rating": 1,
+    "title": "Nel tempo peggiora",
+    "content": "Avevo scelto questa app perché si connetteva al mio storage anche in VPN e funzionava perfettamente. Versione dopo versione le connessioni sono diventate lente, si bloccano e alle volte impossibili. Adesso l’app all’apertura rimane con una schermata completamente nera (iOS). Questo con la versione a pagamento.",
+    "date": "2024-11-06T13:40:28-07:00",
+    "version": "6.9"
+  },
+  {
+    "country": "it",
+    "id": "10754473921",
+    "author": "King H.d.gr8",
+    "rating": 4,
+    "title": "Works perfect!",
+    "content": "I’ve found it functional. Perhaps, they work on allowing adding more than one song at a time when creating playlists.",
+    "date": "2023-12-28T04:12:14-07:00",
+    "version": "6.0"
+  },
+  {
+    "country": "it",
+    "id": "10739395169",
+    "author": "onmir05",
+    "rating": 2,
+    "title": "Ever Music",
+    "content": "Salta i brani non va in fila",
+    "date": "2023-12-24T06:37:17-07:00",
+    "version": "5.8"
+  },
+  {
+    "country": "it",
+    "id": "10638512316",
+    "author": "Dominicit",
+    "rating": 1,
+    "title": "App inutile",
+    "content": "App inutile",
+    "date": "2023-11-29T06:53:28-07:00",
+    "version": "5.8"
+  },
+  {
+    "country": "it",
+    "id": "10109585299",
+    "author": "Sirgio999",
+    "rating": 1,
+    "title": "Bug",
+    "content": "Piena di bug, orripilante.",
+    "date": "2023-07-06T03:27:13-07:00",
+    "version": "5.2"
+  },
+  {
+    "country": "it",
+    "id": "9682483923",
+    "author": "Gigidb",
+    "rating": 4,
+    "title": "Ottima app",
+    "content": "Mi unisco alle recensioni positive di molti. Segnalo peró una regressione nella versione 5.0, utilizzando l’equalizzazione e AirPlay accade che la musica si interrompere ad ogni modifica dei canali. Spero sia un bug già noto e risolto al primo aggiornamento.",
+    "date": "2023-03-05T08:50:23-07:00",
+    "version": "5.0"
+  },
+  {
+    "country": "it",
+    "id": "9665874360",
+    "author": "Destiny040",
+    "rating": 5,
+    "title": "Great",
+    "content": "Best music player app for iPhones",
+    "date": "2023-02-28T15:13:02-07:00",
+    "version": "5.0"
+  },
+  {
+    "country": "it",
+    "id": "8867090879",
+    "author": "Jefi8",
+    "rating": 5,
+    "title": "Espectacular",
+    "content": "Vale la pena tenerlo, escucharas tu música en cualquier lugar. Es una App que debes tener, es excelente 100%",
+    "date": "2022-07-12T11:29:11-07:00",
+    "version": "4.9"
+  },
+  {
+    "country": "it",
+    "id": "8739844157",
+    "author": "brescianik",
+    "rating": 5,
+    "title": "Evermusic is the best",
+    "content": "Ottimo player che consiglio veramente a tutti anche perché permette di leggere da cartelle remote senza download o preventiva preparazione. Complimenti!",
+    "date": "2022-06-04T03:44:45-07:00",
+    "version": "4.8"
+  },
+  {
+    "country": "it",
+    "id": "7843959285",
+    "author": "Materico",
+    "rating": 5,
+    "title": "Fantastica anche per i files!",
+    "content": "Allora, questa app ha risolto un problema apparentemente stupido, ma che su iPhone sembra un casino.\nLo chiedo anche a voi: che si fa se le vostre playlist in cloud, in seguito ad aggiornamento ad iOS 15, non funzionano più su iPhone (ma su iPad sì)? \nHo pensato di salvarmi la musica nel telefono, e quindi riprodurla con il lettore di sistem…ah no, su iPhone non si può. \nC’è “Musica”, ma non esplora i files locali. \nOk, cerchiamo una app decente che faccia da f0ttuto music player, ci sarà pure, voglio dire, è un iPhone, non un 3310.\nOh, provate voi a trovare una app che faccia da SEMPLICE RIPRODUTTORE AUDIO, ma che esplori la musica locale salvata nel telefono.\nNiente, introvabile.\nA parte questa, che è tipo perfetta.\nFa esattamente quello che farebbe un programma su computer, esplorando seriamente il contenuto del telefono e permettendo di importare INTERE CARTELLE.\nCosì la vita si risolve facile, e ci piace.\nDunque per me è da 5 stelle 👌🏼🤙🏼",
+    "date": "2021-09-25T07:13:31-07:00",
+    "version": "4.6"
+  },
+  {
+    "country": "it",
+    "id": "7839788545",
+    "author": "alien99L",
+    "rating": 1,
+    "title": "Aiuto",
+    "content": "Come faccio a scaricare la musica?",
+    "date": "2021-09-24T04:37:59-07:00",
+    "version": "4.6"
+  },
+  {
+    "country": "it",
+    "id": "7692555007",
+    "author": "Matthew3749",
+    "rating": 4,
+    "title": "Ottima, qualche bug qua e là",
+    "content": "Dal primo momento che ho visto l’app, me ne sono innamorato. Ci sono molte cose che la rendono unica, però voglio soffermarmi sulle caratteristiche che vi potrebbero essere più utili.\n- Supporta i formati più comuni (MP3, AAC, FLAC, ALAC, WAV, ecc) sia dal cloud e locale, e il riconoscimento del metadata funziona molto bene. Attenzione, perché dal cloud il metadata non viene letto dai file FLAC e WAV.\n- La sincronizzazione da cloud è un po’ “baggata”, alcune volte funziona, altre volte no. Stesso vale per la lettura del metadata. Alcune volte il numero (di tracce sincronizzate) rimane fermo, però i brani aumentano: ci vuole un po’ di pazienza!\n- L’interfaccia è molto diversa dagli screenshot sull’App Store (almeno per iPad), ed è mooolto meglio!\n- È ricchissima a livello di personalizzazione, per dirvi si possono cambiare i bottoni del player nella lock screen: tutto questo anche nella versione free! Nella premium, vengono tolte le pubblicità e le funzionalità rimangono le medesime.\n\nNota: (ovviamente) per cambiare i metadata di un brano, bisogna scaricarlo.",
+    "date": "2021-08-14T09:38:21-07:00",
+    "version": "4.6"
+  },
+  {
+    "country": "it",
+    "id": "7605812853",
+    "author": "Andre NonRicordo",
+    "rating": 4,
+    "title": "Manca qualcosa…",
+    "content": "Con gli ultimi aggiornamenti l’app è migliorata tantissimo. \nSecondo me manca ancora la possibilità di poter nascondere alcune delle voci che si trovano a sinistra (come ad esempio playlist e download)",
+    "date": "2021-07-22T09:07:27-07:00",
+    "version": "4.6"
+  },
+  {
+    "country": "it",
+    "id": "7332456863",
+    "author": "yetemono",
+    "rating": 5,
+    "title": "Vitale",
+    "content": "Tutta la musica del cloud in una sola App. Non c’è niente da aggiungere.",
+    "date": "2021-05-12T23:34:30-07:00",
+    "version": "4.6"
+  },
+  {
+    "country": "it",
+    "id": "7304111378",
+    "author": "KuuroFox99",
+    "rating": 4,
+    "title": "Quasi perfetta..",
+    "content": "L'applicazione è ben fatta, ho acquistato la versione Pro.. darò 5 stelle quando uscirà l'applicazione anche per Apple Watch",
+    "date": "2021-05-06T02:25:05-07:00",
+    "version": "4.6"
+  },
+  {
+    "country": "it",
+    "id": "7247009855",
+    "author": "massijay",
+    "rating": 4,
+    "title": "Really good, please add sort by date",
+    "content": "Best cloud music player I’ve found on iOS so far. A bit slow to sync (fetch metadata) my music library the first time but after is really fast and enjoyable. The sort songs/albums by year option would be nice to have",
+    "date": "2021-04-21T05:27:04-07:00",
+    "version": "4.5"
+  },
+  {
+    "country": "it",
+    "id": "6787323636",
+    "author": "GrandCri68",
+    "rating": 3,
+    "title": "Buona APP ma sulla sincronizzazione potrebbe migliorare",
+    "content": "A me l’app piace, offre alcune interessanti opportunità come la correzione dei tag. Il punto debole è certamente la sincronizzazione, che è molto lenta e va costantemente monitorata, e quindi alla fine la pazienza un po’ te la fa perdere. \nPer il resto a mio parere è migliore di tante altre.",
+    "date": "2020-12-23T22:38:00-07:00",
+    "version": "4.4"
+  },
+  {
+    "country": "it",
+    "id": "6719643612",
+    "author": "Stella966",
+    "rating": 5,
+    "title": "Necessita di aggiornamento",
+    "content": "Non funziona!!! Ho acquistato la versione pro ma dopo pochi secondi l’applicazione si chiude.",
+    "date": "2020-12-05T03:30:51-07:00",
+    "version": "4.3"
+  },
+  {
+    "country": "it",
+    "id": "6502127171",
+    "author": "$h13",
+    "rating": 4,
+    "title": "Molto bello",
+    "content": "L'app funziona bene molto utile magari se aggiungete anche la possibilità di avere il widget e l'interfaccia che cambia automaticamente tra Light e dark con il sistema del telefono sarebbe bello",
+    "date": "2020-10-04T23:36:04-07:00",
+    "version": "4.2"
+  },
+  {
+    "country": "it",
+    "id": "6140880725",
+    "author": "osvaldo.gr",
+    "rating": 5,
+    "title": "ottima",
+    "content": "la migliore secondo me",
+    "date": "2020-06-30T10:49:03-07:00",
+    "version": "4.2"
+  },
+  {
+    "country": "it",
+    "id": "6018359715",
+    "author": "franco py",
+    "rating": 5,
+    "title": "Perfetta",
+    "content": "Ho scaricato per caso questa app, ma dopo soli due giorni ho acquistato la versione pro! Perfetta per le mie esigenze! Devo solo fare una richiesta se possibile in carplay, sostituire il tasto della velocità, che per me serve a poco nella modalità riproduzione o implementare con quello della modalità causale!!",
+    "date": "2020-05-31T09:38:01-07:00",
+    "version": "4.2"
+  },
+  {
+    "country": "it",
+    "id": "5920752528",
+    "author": "IoTuNoiTutti",
+    "rating": 5,
+    "title": "Lettura metadati non funziona",
+    "content": "L’idea di poter fare un player che permette di ascoltare musica in streaming da servizi di cloud è eccellente, purtroppo la lettura dei metadati delle canzoni su cloud non funziona bene: su 12 canzoni ha aggiornato solo i metadati di 4 canzoni. Per aprire una canzone si sprecano troppi tap , bisogna aggiungere la possibilità di aprire già la lista di tutti i brani (o di tutti gli album/artisti/o di una playlist specifica) che ho online (o in locale, o entrambi, a scelta dell’utente) non appena apro l’app.",
+    "date": "2020-05-08T14:31:38-07:00",
+    "version": "4.2"
+  },
+  {
+    "country": "it",
+    "id": "5805875451",
+    "author": "LucaTorto90",
+    "rating": 4,
+    "title": "Top",
+    "content": "Sono un utente che dopo aver visto per 20 minuti com’era l’app free ho deciso immediatamente di passare alla premium. Con 5,49€ ho la versione premium per sempre, il che è una cosa fantastica. Ho aspettato quasi un mese per fare questa recensione proprio per cercare di essere il più capillare possibile. Vi riassumo qui i Pro e le cose che dal mio punto di vista vorrei vedere aggiunte. \n\nCOSE PRO: \n- Il prezzo, davvero accessibile (considerate che è per sempre). \n- La possibilità di collegare ogni cloud possibile è una cosa fantastica. \n- La possibilità di creare tutte le playlist che si voglia potendo metterci il titolo e la copertina che si desidera.\n- I continui aggiornamenti da parte degli sviluppatori fanno capire che c’è un lavoro continuo e che l’app non è lasciata a se stessa, anzi è sempre in miglioramento. \n- La possibilità di avere sia musica off-line cioè scaricata sul dispositivo, che ascoltarla on-line tramite internet dai propri cloud. \n- Quando importate la musica su quest app, se fate ricerca tag mette in automatico titolo e copertina delle canzoni rendendo la vita facile. \n- La possibilità di inviare canzoni a chiunque tramite messaggistica. \n- L’equalizzatore: per chi ascolta con delle cuffie serie si sente la differenza del suono. L’ho trovata una cosa molto utile e funzionale. \n- La possibilità di abilitare l’opzione “crossfade” per togliere quegli stacchi o silenzi odiosi da una canzone all’altra. \n- La possibilità di cambiare tema nell’app. Tema scuro e tema chiaro. \n\nMIGLIORAMENTI NECESSARI: \n- La possibilità di scaricare i file audio direttamente dall’App credo sia d’obbligo, ora devo usare un altra app (Documents) per scaricare i file audio per poi inviarmeli qui, il che è un po macchinoso.\n- Sarebbe anche molto utile la possibilità di poter modificare i file audio. Quindi poter decidere di tagliare parte degli audio iniziali o finali che non servono. (Cosa indispensabile per chi scarica file audio) \n- La possibilità di poter mettere i testi delle canzoni (magari nel retro della copertina della canzone. Quando schiacci la copertina si gira e ti da il testo). \n- La possibilità di avviare tema chiaro e tema scuro direttamente quando si seleziona il tema scuro nell’iphone. \n\nDetto questo l’app è fatta davvero bene e credo che abbia un potenziale unico che se ben sviluppato rende il consumatore veramente felice di comprare la versione pro. Per questo do 4 stelle perché nonostante sia ben fatta è ancora molto migliorabile. \nCon le migliorie che ho annotato avrei speso anche di più dei 5,49€ che ho pagato. Comunque bravi continuate cosi 💪🏼👏🏼 e non smettete mai di ascoltare noi consumatori. Speriamo di aiutarvi nel migliorare l’app con le nostre idee.",
+    "date": "2020-04-13T07:45:46-07:00",
+    "version": "4.2"
+  },
+  {
+    "country": "it",
+    "id": "5800077026",
+    "author": "1188996",
+    "rating": 5,
+    "title": "Ben fatta",
+    "content": "Top!",
+    "date": "2020-04-12T02:17:37-07:00",
+    "version": "4.2"
+  },
+  {
+    "country": "it",
+    "id": "5663392400",
+    "author": "Invenzione",
+    "rating": 1,
+    "title": "I wish... dynamic playlist",
+    "content": "Mi sembra ottimo sia come qualità che come profondità di programmazione. Mi piacerebbe una opzione che consenta di mantenere una playlist di una cartella cloud, agganciata ad essa dinamicamente: se cambia il contenuto della cartella dropbox mi piacerebbe che cambiasse automaticamente anche la playlist.",
+    "date": "2020-03-15T02:55:32-07:00",
+    "version": "4.0"
+  },
+  {
+    "country": "it",
+    "id": "5570127240",
+    "author": "orochi_78",
+    "rating": 3,
+    "title": "Da migliorare",
+    "content": "L’app è ottima e ha un sacco di funzioni, la migliore è l’integrazione con Mega, ma ha un sacco di bug, crasha spesso nel bel mezzo della riproduzione e mentre si scorrono i brani. Poi consuma molta batteria. Spero in un prossimo aggiornamento che risolva questi problemi.",
+    "date": "2020-02-23T06:01:30-07:00",
+    "version": "3.9"
+  },
+  {
+    "country": "it",
+    "id": "5133815666",
+    "author": "Cecchisandrone",
+    "rating": 5,
+    "title": "Buona ma non perfetta...peccato",
+    "content": "L’app ha molte funzioni e in generale funziona benino. Unica cosa il consumo della batteria, per favore migliorare le prestazioni!",
+    "date": "2019-11-13T14:21:39-07:00",
+    "version": "3.8"
+  },
+  {
+    "country": "it",
+    "id": "4827835236",
+    "author": "Matthias U.",
+    "rating": 5,
+    "title": "Simple, great.",
+    "content": "I am usibg evermusic since a while now and it is exactly what i needed. Webdav support for my owned music, carplay, local and offline access to my favourite tracks including playlists. There was one visual glitch i reported to the developer in ios beta 13, promptly it was resolved. That’s what i call a great app!!! Keep up the good work, worth every penny.",
+    "date": "2019-09-23T03:52:47-07:00",
+    "version": "3.7"
+  },
+  {
+    "country": "it",
+    "id": "4808524787",
+    "author": "Davorin1976",
+    "rating": 5,
+    "title": "Ottima!",
+    "content": "Collego la mia chiavetta IXpand al iPhone, e chiunque può importare i file con il connettore apposito con qualsiasi chiavetta o ssd...Importo Una o tutte le cartelle con la musica nella cartella File di iPhone dalla chiavetta. Poi andando alla cartella importata su File, la seleziono, condividi e importo nella Evermusic. Applicazione fa tutto da sola. Importa tutta la musica è la fa classificare per album. Poi posso cancellare dalla cartella del File tutto che ho trasferito, liberando così il duplicato dei file è quello che rimane è solamente musica nella applicazione.  Bravi! Addio ambaradam dì ITunes! Unica ancora che suggerisco e app per Apple Watch! E sarebbe veramente il top del top! Grazie!",
+    "date": "2019-09-20T02:15:20-07:00",
+    "version": "3.7"
+  },
+  {
+    "country": "it",
+    "id": "4460879026",
+    "author": "itiseljsa",
+    "rating": 4,
+    "title": "Testi alle canzoni",
+    "content": "L’app è davvero ottima , l’unica cosa è che aggiungerei la possibilità di inserire i testi alle canzoni, in modo da poterli visualizzare tranquillamente offline",
+    "date": "2019-07-14T09:21:22-07:00",
+    "version": "3.6"
+  },
+  {
+    "country": "it",
+    "id": "4247128522",
+    "author": "benzo_83",
+    "rating": 2,
+    "title": "Dlna indexing tooo slow",
+    "content": "As the title suggests, indexing music from my Synology NAS takes literally forever, even with background sync and metadata background sync enabled. In more than two weeks the app hasn't finished the indexing. Bad.",
+    "date": "2019-06-01T10:49:15-07:00",
+    "version": "3.6"
+  },
+  {
+    "country": "it",
+    "id": "4174438938",
+    "author": "Mar987654",
+    "rating": 4,
+    "title": "Buona ma con un difetto",
+    "content": "Tutto ok tranne i continui \" crash \" nonostante ottima connessione sia dati che wifi le interruzioni non mancano..",
+    "date": "2019-05-19T02:43:49-07:00",
+    "version": "3.6"
+  },
+  {
+    "country": "it",
+    "id": "4011790584",
+    "author": "c.mrr",
+    "rating": 5,
+    "title": "gioiellino",
+    "content": "bella, completa funzionale e funzionante \nne avrò provate cento prima di trovarla \nforse non è sponsorizzata Ma veramente la consiglio Ho la versione base",
+    "date": "2019-04-14T07:17:48-07:00",
+    "version": "3.6"
+  },
+  {
+    "country": "it",
+    "id": "3934467534",
+    "author": "Maxpendy",
+    "rating": 2,
+    "title": "Editing tag sui file originari",
+    "content": "L'app sembra ben fatta e sicuramente ha delle caratteristiche peculiari che la differenziano da altre.\nTuttavia non mi pare sia possibile modificare il tag delle canzoni senza copiarle in locale (che è il motivo per cui l'ho scaricata)\nPeccato che io GIÀ abbia in locale i file (li ascolto con Musica oppure con Foobar nonché  esplorando il file system del mio dispositivo) e non capisco perché devo duplicare ulteriormente ogni file, un file che poi posso vedere solo da Evermusic.\nDisinstallata.",
+    "date": "2019-03-27T14:55:05-07:00",
+    "version": "3.5"
+  },
+  {
+    "country": "it",
+    "id": "3865860059",
+    "author": "Faphone",
+    "rating": 5,
+    "title": "Migliore x CarPlay",
+    "content": "La migliore app da usare con CarPlay",
+    "date": "2019-03-10T07:56:59-07:00",
+    "version": "3.5"
+  },
+  {
+    "country": "it",
+    "id": "3291865306",
+    "author": "Barabbassj",
+    "rating": 5,
+    "title": "Ottimo",
+    "content": "Finalmente la app che ti permette di ascoltare L musica da Dropbox in modo facile. Stupenda",
+    "date": "2018-10-11T22:49:16-07:00",
+    "version": "3.3"
+  },
+  {
+    "country": "it",
+    "id": "2908987811",
+    "author": "kady_kg",
+    "rating": 5,
+    "title": "Great app highly recommend it !!",
+    "content": "It works perfectly even offline, and you can download every song you want",
+    "date": "2018-07-14T17:56:48-07:00",
+    "version": "3.1"
+  },
+  {
+    "country": "it",
+    "id": "1805845860",
+    "author": "ECMist",
+    "rating": 4,
+    "title": "Buono... quasi ottimo!",
+    "content": "La versione a pagamento e' ottima... funziona bene, non si impalla comne altre, permette di scaricare in locale da varie fonti e gestire quello che si vuole in playlist.\nPeccato che alcune funzioni di base (tipo scaricare intere cartelle da dropbox) non siano disponibili nella versione gratuita! E peccato anche per un piccolo difetto: non si possono spostare i files locali altrimenti le playlist non li trovano piu'!",
+    "date": "2017-09-23T10:14:18-07:00",
+    "version": "2.9"
+  },
+  {
+    "country": "it",
+    "id": "1668304853",
+    "author": "ap74",
+    "rating": 5,
+    "title": "Ottima la versione a pagamento",
+    "content": "Si sincronizza con dropbox. Ogni brano aggiunto può essere aggiunto a una playlist dell'app. \nSupporta chromecast e Apple TV. \nHa sostituito l'app di default su iPhone sul mio telefono e sull'iPad.",
+    "date": "2017-07-04T02:21:37-07:00",
+    "version": "2.9"
+  },
+  {
+    "country": "it",
+    "id": "1620771616",
+    "author": "Riky 13",
+    "rating": 5,
+    "title": "Veloce Smart",
+    "content": "Perfetta per le mie esigenze, la utilizzo sul cloud Mega per i miei 32Gb di MP3\nGrazie",
+    "date": "2017-05-21T23:37:36-07:00",
+    "version": "2.8"
+  },
+  {
+    "country": "it",
+    "id": "1473849532",
+    "author": "Mudimbi",
+    "rating": 5,
+    "title": "TOP",
+    "content": "Niente da aggiungere.",
+    "date": "2016-10-27T06:36:26-07:00",
+    "version": "2.7"
+  },
+  {
+    "country": "it",
+    "id": "1461558898",
+    "author": "Giorgio912",
+    "rating": 1,
+    "title": "Paradosso",
+    "content": "Compri la versione pro, poi ti ritrovi con la free che ha il doppio delle funzionalità e se le vuoi devi aggiornare a pro dalla versione free spendendo il doppio, ma è ridicolo.",
+    "date": "2016-10-05T09:00:11-07:00",
+    "version": "2.7"
+  }
+]

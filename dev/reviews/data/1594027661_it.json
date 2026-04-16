@@ -1,0 +1,82 @@
+[
+  {
+    "country": "it",
+    "id": "11614310033",
+    "author": "Sasy.C.28",
+    "rating": 5,
+    "title": "Applicazione fantastica!!",
+    "content": "Semplice e intuitiva, funziona davvero bene, consigliatissima!!",
+    "date": "2024-08-15T13:50:53-07:00",
+    "version": "2.9"
+  },
+  {
+    "country": "it",
+    "id": "11262824207",
+    "author": "RossNuccio",
+    "rating": 3,
+    "title": "non funziona più come prima",
+    "content": "risolvete e metto 5 stelle \nil tag automatico non va più nemmeno se scrivo bene la traccia e l'album",
+    "date": "2024-05-13T05:42:29-07:00",
+    "version": "2.7"
+  },
+  {
+    "country": "it",
+    "id": "11259251278",
+    "author": "motelopresto",
+    "rating": 5,
+    "title": "Abbastanza funzionale",
+    "content": "Un pochino lento in elaborazione contenuto cartelle ma tutto sommato é un buon programma. Cercavo la funzione di ricerca copertine da Internet e qui l'ho trovata e funziona.",
+    "date": "2024-05-12T05:30:27-07:00",
+    "version": "2.7"
+  },
+  {
+    "country": "it",
+    "id": "11200105270",
+    "author": "Asdrubale Rossi",
+    "rating": 5,
+    "title": "Decisamente efficace",
+    "content": "Intuitivo veloce e funzionale per le mie esigenze, lo sto usando per le mie produzioni e mi trovo molto bene",
+    "date": "2024-04-25T13:19:16-07:00",
+    "version": "2.7"
+  },
+  {
+    "country": "it",
+    "id": "10856134710",
+    "author": "Locojazz",
+    "rating": 2,
+    "title": "funziona a metà",
+    "content": "si connette benissimo con DropBox e mostra i tag presenti nelle canzoni. Quando si tratta di editare e correggere i Tag è un altra storia. Non è in grado quasi mai di cambiare il nome dell'artista e sono costretto ad usare un altro editor di TAG in parallelo. Peccato, potrebbe essere un'ottima app ma purtroppo funziona solo al 50%",
+    "date": "2024-01-23T12:55:00-07:00",
+    "version": "2.6"
+  },
+  {
+    "country": "it",
+    "id": "10471816642",
+    "author": "Ghera78",
+    "rating": 5,
+    "title": "ottimo",
+    "content": "non riesco a passare alla versione pro",
+    "date": "2023-10-13T20:07:08-07:00",
+    "version": "2.3"
+  },
+  {
+    "country": "it",
+    "id": "10144293439",
+    "author": "lucnoc87",
+    "rating": 5,
+    "title": "Ottima app",
+    "content": "10/10",
+    "date": "2023-07-15T13:03:28-07:00",
+    "version": "2.1"
+  },
+  {
+    "country": "it",
+    "id": "10046047906",
+    "author": "BoonX23",
+    "rating": 5,
+    "title": "L APP CHE CERCAVO!",
+    "content": "Sono un tipo puntiglioso su ordine ed oraganizzazione sopratutto per quanto riguarda la musica..mi piace ascoltare la musica ed infatti nel tempo ho accumulato una quantità spropositata di brani di tutti i generi. \norganizzare tutta i meta dati con le relative copertine degli album riuscivo a farlo con una vecchia versione di aimp... adesso grazie a questa app posso fare tutto tranquillamente da mac in tutta semplicità, aggiungendo il titolo, il cantante e sopratutto la copertina dell' album con un clic!\nEra l'app che stavo cercando!\nSe non sbaglio oltre a modificare i dati del singolo brano, credo che si possa ascoltare un brano in anteprima!! Ottimo la consilglio",
+    "date": "2023-06-18T02:13:28-07:00",
+    "version": "2.1"
+  }
+]
