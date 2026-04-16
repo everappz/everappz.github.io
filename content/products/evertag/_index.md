@@ -164,7 +164,7 @@ screenshots:
 
   {{< hextra/feature-card
     title="Free"
-    hoverColor="rgb(34,197,94)"
+    class="pricing-card pricing-free"
     subtitle=`• Includes ads<br>
 • Edit audio tags<br>
 • Edit album covers<br>
@@ -185,7 +185,7 @@ screenshots:
     tag="Free"
     tagType="default"
     title="Premium Monthly"
-    hoverColor="rgb(0,191,255)"
+    class="pricing-card pricing-subscription"
     subtitle=`• No ads<br />
 • Edit audio tags<br>
 • Edit album covers<br>
@@ -201,12 +201,11 @@ screenshots:
     <strong>$1.99</strong>/month
   </span>
 </span>`
-    style="background: radial-gradient(circle at 50% 80%, rgba(0,191,255,0.15), rgba(17,24,39,0));"
   >}}
 
   {{< hextra/feature-card
     title="Premium Yearly"
-    hoverColor="rgb(0,191,255)"
+    class="pricing-card pricing-subscription"
     subtitle=`• No ads<br />
 • Edit audio tags<br>
 • Edit album covers<br>
@@ -222,12 +221,11 @@ screenshots:
     7 days free, then <strong>$12.99</strong>/year
   </span>
 </span>`
-    style="background: radial-gradient(circle at 50% 80%, rgba(0,191,255,0.15), rgba(17,24,39,0));"
   >}}
 
   {{< hextra/feature-card
     title="Premium Lifetime"
-    hoverColor="rgb(138,43,226)"
+    class="pricing-card pricing-lifetime"
     subtitle=`• No ads<br />
 • Edit audio tags<br>
 • Edit album covers<br>
@@ -243,7 +241,6 @@ screenshots:
     <strong>$24.99</strong>/lifetime
   </span>
 </span>`
-    style="background: radial-gradient(circle at 50% 80%, rgba(138,43,226,0.15), rgba(17,24,39,0));"
   >}}
 
 {{< /hextra/feature-grid >}}

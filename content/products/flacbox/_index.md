@@ -250,7 +250,7 @@ App Store Reviews
 
   {{< hextra/feature-card
     title="Free"
-    hoverColor="rgb(34,197,94)"
+    class="pricing-card pricing-free"
     subtitle=`• Contain Ads<br />
 • Playlists (10)<br />
 • Cloud services (3)<br />
@@ -272,7 +272,7 @@ App Store Reviews
 
   {{< hextra/feature-card
     title="Premium Monthly"
-    hoverColor="rgb(0,191,255)"
+    class="pricing-card pricing-subscription"
     subtitle=`• Ad-free experience<br />
 • Unlimited playlists<br />
 • Unlimited cloud services<br />
@@ -293,12 +293,11 @@ App Store Reviews
     <strong>$2.99</strong>/month
   </span>
 </span>`
-    style="background: radial-gradient(circle at 50% 80%, rgba(0,191,255,0.15), rgba(17,24,39,0));"
   >}}
 
   {{< hextra/feature-card
     title="Premium Yearly"
-    hoverColor="rgb(0,191,255)"
+    class="pricing-card pricing-subscription"
     subtitle=`• Ad-free experience<br />
 • Unlimited playlists<br />
 • Unlimited cloud services<br />
@@ -319,12 +318,11 @@ App Store Reviews
     <strong>$19.99</strong>/year
   </span>
 </span>`
-    style="background: radial-gradient(circle at 50% 80%, rgba(0,191,255,0.15), rgba(17,24,39,0));"
   >}}
 
   {{< hextra/feature-card
     title="Premium Lifetime"
-    hoverColor="rgb(138,43,226)"
+    class="pricing-card pricing-lifetime"
     subtitle=`• Ad-free experience<br />
 • Unlimited playlists<br />
 • Unlimited cloud services<br />
@@ -345,7 +343,6 @@ App Store Reviews
     <strong>$69.99</strong>/lifetime
   </span>
 </span>`
-    style="background: radial-gradient(circle at 50% 80%, rgba(138,43,226,0.15), rgba(17,24,39,0));"
   >}}
 
 {{< /hextra/feature-grid >}}
