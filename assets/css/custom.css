@@ -217,6 +217,21 @@
 
 .pricing-card {
     --hover-color: inherit;
+    display: flex !important;
+    flex-direction: column;
+}
+
+.pricing-card > div {
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+}
+
+.pricing-card > div > p {
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
 }
 
 .pricing-card:hover {
