@@ -11,16 +11,28 @@
   const scrollSpeed = 0.5;
   const containerId = "commentsContainer-{{ .Get "apps" | urlize }}";
   const container = document.getElementById(containerId);
-  let currentAppIndex = 0;
-  let currentPage = 1;
+  const BATCH_SIZE = 20;
+
+  // Merged review pool: sorted by date, deduplicated
+  let reviewPool = [];
+  let renderIndex = 0;
   let isLoading = false;
-  let usedCachedFallback = {};
+  let poolReady = false;
+
+  // Per-app RSS pagination state
+  const rssPages = {};
+  const rssExhausted = {};
+  appIds.forEach(id => { rssPages[id] = 1; rssExhausted[id] = false; });
+
+  // Cached reviews (loaded once per app)
+  const cachedReviews = {};
+  let cachedLoaded = false;
 
   function generateStars(rating) {
     return '★'.repeat(rating) + '☆'.repeat(5 - rating);
   }
 
-  function renderComment(author, rating, date, content) {
+  function renderComment(r) {
     const div = document.createElement('div');
 
     div.className = [
@@ -56,79 +68,118 @@
 
     div.innerHTML = `
       <span class="hx:flex hx:items-center hx:gap-2 hx:font-semibold hx:text-gray-700 hx:dark:text-neutral-200">
-        ${author}
+        ${r.author}
       </span>
       <div class="hx:mt-1 hx:text-xs hx:text-gray-500 hx:dark:text-gray-400">
-        ${generateStars(rating)}
+        ${generateStars(r.rating)}
       </div>
       <div class="hx:mt-1 hx:text-xs hx:text-gray-500 hx:dark:text-gray-400">
-        ${new Date(date).toLocaleDateString()}
+        ${new Date(r.date).toLocaleDateString()}
       </div>
       <div class="hx:mt-2 hx:text-sm hx:text-gray-600 hx:dark:text-gray-300">
-        ${content}
+        ${r.content}
       </div>
     `;
     container.appendChild(div);
   }
 
-  // --- RSS feed (original method) ---
-  async function fetchFromRSS(appId, page) {
-    const url = `https://itunes.apple.com/us/rss/customerreviews/page=${page}/id=${appId}/sortby=mostrecent/json`;
+  // Render next batch from the pool
+  function renderBatch() {
+    const end = Math.min(renderIndex + BATCH_SIZE, reviewPool.length);
+    for (let i = renderIndex; i < end; i++) {
+      renderComment(reviewPool[i]);
+    }
+    renderIndex = end;
+  }
+
+  // Normalize RSS entry to common format
+  function normalizeRSS(entry) {
+    return {
+      id: entry.id.label,
+      author: entry.author.name.label,
+      rating: parseInt(entry['im:rating'].label, 10),
+      content: entry.content.label,
+      date: entry.updated.label,
+    };
+  }
+
+  // Fetch one RSS page for one app
+  async function fetchRSSPage(appId) {
+    if (rssExhausted[appId]) return [];
+    const page = rssPages[appId];
+    if (page > 10) { rssExhausted[appId] = true; return []; }
     try {
+      const url = `https://itunes.apple.com/us/rss/customerreviews/page=${page}/id=${appId}/sortby=mostrecent/json`;
       const res = await fetch(url);
       const data = await res.json();
       const entries = data.feed.entry || [];
-      return entries.filter(c => minStars.includes(parseInt(c['im:rating'].label, 10)));
+      const reviews = [];
+      for (const e of entries) {
+        if ('im:rating' in e) reviews.push(normalizeRSS(e));
+      }
+      rssPages[appId] = page + 1;
+      if (reviews.length === 0) rssExhausted[appId] = true;
+      return reviews;
     } catch {
+      rssExhausted[appId] = true;
       return [];
     }
   }
 
-  // --- Cached JSON fallback ---
-  async function fetchFromCache(appId) {
-    const url = `{{ site.BaseURL | default "/" }}reviews/sorted/${appId}.json`;
-    try {
-      const res = await fetch(url);
-      if (!res.ok) return [];
-      const reviews = await res.json();
-      return reviews.filter(r => minStars.includes(r.rating));
-    } catch {
-      return [];
-    }
+  // Load cached reviews (once)
+  async function loadCachedReviews() {
+    if (cachedLoaded) return;
+    cachedLoaded = true;
+    await Promise.all(appIds.map(async (appId) => {
+      try {
+        const url = `{{ site.BaseURL | default "/" }}reviews/sorted/${appId}.json`;
+        const res = await fetch(url);
+        if (!res.ok) { cachedReviews[appId] = []; return; }
+        cachedReviews[appId] = await res.json();
+      } catch { cachedReviews[appId] = []; }
+    }));
   }
 
-  async function loadComments() {
+  // Merge new reviews into the pool, deduplicate, re-sort
+  function mergeIntoPool(newReviews) {
+    const seen = new Set(reviewPool.map(r => String(r.id)));
+    let added = 0;
+    for (const r of newReviews) {
+      const rid = String(r.id);
+      if (!seen.has(rid) && minStars.includes(r.rating)) {
+        seen.add(rid);
+        reviewPool.push(r);
+        added++;
+      }
+    }
+    if (added > 0) {
+      reviewPool.sort((a, b) => (b.date || '').localeCompare(a.date || ''));
+    }
+    return added;
+  }
+
+  // Load more reviews: fetch next RSS page for each app, merge with cache
+  async function loadMore() {
     if (isLoading) return;
     isLoading = true;
-    const appId = appIds[currentAppIndex];
 
-    // Try RSS first
-    const rssComments = await fetchFromRSS(appId, currentPage++);
-    if (rssComments.length > 0) {
-      rssComments.forEach(c => {
-        const rating = parseInt(c['im:rating'].label, 10);
-        renderComment(
-          c.author.name.label,
-          rating,
-          c.updated.label,
-          c.content.label
-        );
-      });
+    // Load cached reviews on first call
+    await loadCachedReviews();
+
+    // Fetch next RSS page for each app in parallel
+    const rssResults = await Promise.all(appIds.map(fetchRSSPage));
+    const allNew = rssResults.flat();
+
+    // On first load, also merge cached reviews
+    if (renderIndex === 0) {
+      for (const appId of appIds) {
+        allNew.push(...(cachedReviews[appId] || []));
+      }
     }
 
-    // If RSS returned nothing and we haven't used cache for this app yet, load from cache
-    if (rssComments.length === 0 && !usedCachedFallback[appId]) {
-      usedCachedFallback[appId] = true;
-      const cachedComments = await fetchFromCache(appId);
-      cachedComments.forEach(c => {
-        renderComment(c.author, c.rating, c.date, c.content);
-      });
-    }
+    mergeIntoPool(allNew);
+    renderBatch();
 
-    if (rssComments.length < 10) {
-      currentPage = 1;
-      currentAppIndex = (currentAppIndex + 1) % appIds.length;
-    }
     isLoading = false;
   }
 
@@ -136,6 +187,10 @@
     let pos = 0;
     function scroll() {
       pos += scrollSpeed;
+      // When approaching the end of rendered content, load more
+      if (pos >= container.scrollHeight - 800 && renderIndex < reviewPool.length) {
+        renderBatch();
+      }
       if (pos >= container.scrollHeight - 400) pos = 0;
       container.style.transform = `translateY(-${pos}px)`;
       requestAnimationFrame(scroll);
@@ -144,9 +199,10 @@
   }
 
   document.addEventListener('DOMContentLoaded', async () => {
-    await loadComments();
+    await loadMore();
     startScroll();
-    setInterval(loadComments, 20000);
+    // Periodically fetch more RSS pages to grow the pool
+    setInterval(loadMore, 20000);
   });
 })();
 </script>
