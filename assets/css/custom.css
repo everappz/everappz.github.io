@@ -231,9 +231,12 @@
 }
 
 .pricing-card:hover .pricing-details {
-    color: var(--hover-color) !important;
-    opacity: 0.8;
+    color: color-mix(in srgb, var(--hover-color) 50%, #374151) !important;
     transition: all 0s;
+}
+
+:is(.dark) .pricing-card:hover .pricing-details {
+    color: color-mix(in srgb, var(--hover-color) 50%, #d1d5db) !important;
 }
 
 .pricing-card:hover .pricing-btn {
