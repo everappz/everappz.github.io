@@ -275,6 +275,7 @@ App Store Reviews
 
   {{< hextra/feature-card
     title="Free"
+    hoverColor="rgb(34,197,94)"
     subtitle=`• Contain Ads<br />
 • Playlists (10)<br />
 • Cloud services (3)<br />
@@ -288,7 +289,7 @@ App Store Reviews
 • Export Photos videos<br />
 • Download files<br /><br />
 <span class='hx:block hx:mt-2 hx:text-center'>
-  <span class='hx:inline-block hx:rounded-full hx:border hx:border-gray-200 hx:hover:border-gray-300 hx:dark:border-neutral-800 hx:dark:hover:border-neutral-700 hx:px-3 hx:py-1'>
+  <span class='pricing-btn hx:inline-block hx:rounded-full hx:border hx:border-gray-200 hx:dark:border-neutral-800 hx:px-3 hx:py-1 hx:transition-all hx:duration-200'>
     <strong>Free</strong>
   </span>
 </span>`
@@ -296,6 +297,7 @@ App Store Reviews
 
   {{< hextra/feature-card
     title="Premium Monthly"
+    hoverColor="rgb(0,191,255)"
     subtitle=`• Ad-free experience<br />
 • Unlimited playlists<br />
 • Unlimited cloud services<br />
@@ -312,15 +314,16 @@ App Store Reviews
 • Download collections<br />
 • Full personalization<br /><br />
 <span class='hx:block hx:mt-2 hx:text-center'>
-  <span class='hx:inline-block hx:rounded-full hx:border hx:border-gray-200 hx:hover:border-gray-300 hx:dark:border-neutral-800 hx:dark:hover:border-neutral-700 hx:px-3 hx:py-1'>
+  <span class='pricing-btn hx:inline-block hx:rounded-full hx:border hx:border-gray-200 hx:dark:border-neutral-800 hx:px-3 hx:py-1 hx:transition-all hx:duration-200'>
     <strong>$1.99</strong>/month
   </span>
 </span>`
-    style="background: radial-gradient(ellipse at 50% 80%, rgba(6,182,212,0.05), hsla(0,0%,100%,0));"
+    style="background: radial-gradient(circle at 50% 80%, rgba(0,191,255,0.15), rgba(17,24,39,0));"
   >}}
 
   {{< hextra/feature-card
     title="Premium Yearly"
+    hoverColor="rgb(0,191,255)"
     subtitle=`• Ad-free experience<br />
 • Unlimited playlists<br />
 • Unlimited cloud services<br />
@@ -337,15 +340,16 @@ App Store Reviews
 • Download collections<br />
 • Full personalization<br /><br />
 <span class='hx:block hx:mt-2 hx:text-center'>
-  <span class='hx:inline-block hx:rounded-full hx:border hx:border-gray-200 hx:hover:border-gray-300 hx:dark:border-neutral-800 hx:dark:hover:border-neutral-700 hx:px-3 hx:py-1'>
+  <span class='pricing-btn hx:inline-block hx:rounded-full hx:border hx:border-gray-200 hx:dark:border-neutral-800 hx:px-3 hx:py-1 hx:transition-all hx:duration-200'>
     7 days free, then <strong>$12.99</strong>/year
   </span>
 </span>`
-    style="background: radial-gradient(ellipse at 50% 80%, rgba(6,182,212,0.05), hsla(0,0%,100%,0));"
+    style="background: radial-gradient(circle at 50% 80%, rgba(0,191,255,0.15), rgba(17,24,39,0));"
   >}}
 
   {{< hextra/feature-card
     title="Premium Lifetime"
+    hoverColor="rgb(138,43,226)"
     subtitle=`• Ad-free experience<br />
 • Unlimited playlists<br />
 • Unlimited cloud services<br />
@@ -362,11 +366,11 @@ App Store Reviews
 • Download collections<br />
 • Full personalization<br /><br />
 <span class='hx:block hx:mt-2 hx:text-center'>
-  <span class='hx:inline-block hx:rounded-full hx:border hx:border-gray-200 hx:hover:border-gray-300 hx:dark:border-neutral-800 hx:dark:hover:border-neutral-700 hx:px-3 hx:py-1'>
+  <span class='pricing-btn hx:inline-block hx:rounded-full hx:border hx:border-gray-200 hx:dark:border-neutral-800 hx:px-3 hx:py-1 hx:transition-all hx:duration-200'>
     <strong>$59.99</strong>/lifetime
   </span>
 </span>`
-    style="background: radial-gradient(ellipse at 50% 80%, rgba(6,182,212,0.05), hsla(0,0%,100%,0));"
+    style="background: radial-gradient(circle at 50% 80%, rgba(138,43,226,0.15), rgba(17,24,39,0));"
   >}}
 
 {{< /hextra/feature-grid >}}

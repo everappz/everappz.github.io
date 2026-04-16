@@ -98,5 +98,105 @@
     "content": "Leider totaler Schrott.\nWie wärs, wenn mal wieder richtig easy going Apos gemacht werden for free?\nDirekt wieder gelöscht.",
     "date": "2020-09-25T10:23:02.000Z",
     "version": null
+  },
+  {
+    "country": "de",
+    "id": "13549218231",
+    "author": "Doc6803",
+    "rating": 1,
+    "title": "Dateihandling unterirdisch",
+    "content": "kann mich nur den Vorrednern anschließen",
+    "date": "2025-12-24T02:23:08-07:00",
+    "version": "3.9"
+  },
+  {
+    "country": "de",
+    "id": "13104549997",
+    "author": "McAwado",
+    "rating": 1,
+    "title": "Once good",
+    "content": "Since some of the last updates automatic cover search is stupid. Manually searching via google is no option.",
+    "date": "2025-09-06T00:01:50-07:00",
+    "version": "3.8"
+  },
+  {
+    "country": "de",
+    "id": "12617806579",
+    "author": "Francesco Slowdown",
+    "rating": 1,
+    "title": "Does not work",
+    "content": "I tried to add an album cover that I made by my own for my compositions and that doesn’t function at all.",
+    "date": "2025-05-04T02:33:50-07:00",
+    "version": "3.4"
+  },
+  {
+    "country": "de",
+    "id": "11502170082",
+    "author": "Warane 007",
+    "rating": 3,
+    "title": "CarPlay",
+    "content": "Super App aber leider mit dem CarPlay nicht funktioniert. 😢",
+    "date": "2024-07-16T22:14:59-07:00",
+    "version": "2.8"
+  },
+  {
+    "country": "de",
+    "id": "9655070799",
+    "author": "Bibomuzic",
+    "rating": 1,
+    "title": "Zerstört mein m4a",
+    "content": "Leider werden die m4a Dateien zerstört.\nNach der Bearbeitung mit dem Tag Editor sind die Dateien futsch.\nIst so leider nicht zu gebrauchen.\nVielleicht gibt es dazu einen Hinweis von den Entwicklern?!",
+    "date": "2023-02-25T11:48:44-07:00",
+    "version": "1.9"
+  },
+  {
+    "country": "de",
+    "id": "9317301816",
+    "author": "Marscell7",
+    "rating": 5,
+    "title": "5 stars",
+    "content": "Simple and usefull........perfect !! Thks",
+    "date": "2022-11-22T08:51:12-07:00",
+    "version": "1.9"
+  },
+  {
+    "country": "de",
+    "id": "8701035710",
+    "author": "ralffonso",
+    "rating": 1,
+    "title": "Vorsicht",
+    "content": "Bei mir hat Evertag mp3-Files verkleinert (obwohl ich Tags ergänzt habe) und vereinzelt gingen sogar Sekunden vom Track verloren. Ein No-Go natürlich. Ansonsten war ich zufrieden.",
+    "date": "2022-05-23T12:20:11-07:00",
+    "version": "1.7"
+  },
+  {
+    "country": "de",
+    "id": "7067305377",
+    "author": "Moe2k6",
+    "rating": 3,
+    "title": "Musik aus Apple Musik?",
+    "content": "I can’t find an option to access files from the Apple Music library/music app? \nIs this also possible to?",
+    "date": "2021-03-05T01:55:57-07:00",
+    "version": "1.6"
+  },
+  {
+    "country": "de",
+    "id": "7022858382",
+    "author": "Bernd_ham",
+    "rating": 1,
+    "title": "Kann leider nicht auf NAS zugreifen",
+    "content": "Die Dateien auf meinem NAS findet die App nicht. Daher für mich unbrauchbar.",
+    "date": "2021-02-21T13:49:43-07:00",
+    "version": "1.6"
+  },
+  {
+    "country": "de",
+    "id": "5854005294",
+    "author": "sarara_magrao",
+    "rating": 4,
+    "title": "Nice and useful",
+    "content": "Intuitive to use, editing easy and stable.\nWhat’s the gap to 5 stars:\n- File name generated from tag and vice-versa.\n- FTP interface",
+    "date": "2020-04-23T12:02:15-07:00",
+    "version": "1.4"
   }
 ]
