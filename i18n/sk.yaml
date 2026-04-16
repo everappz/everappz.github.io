@@ -1,0 +1,83 @@
+# sk — English defaults (needs translation)
+
+# Accessibility labels (screen reader only)
+closeBanner: "Close banner"
+menu: "Menu"
+mermaidDiagram: "Diagram"
+pdfViewer: "PDF viewer"
+permalinkLabel: "Permalink for this section"
+playbackTime: "Playback time"
+searchResults: "Search results"
+skipToContent: "Skip to content"
+tableOfContents: "Table of contents"
+terminalRecording: "Terminal recording"
+togglePageContextMenu: "Toggle page context menu"
+toggleSection: "Toggle section"
+
+# Accessibility live-region/status text
+resultsFound: "%d results found"
+
+# User-facing UI text
+archives: "Archives"
+backToTop: "Scroll to top"
+changeLanguage: "Change language"
+changeTheme: "Change theme"
+copy: "Copy"
+copied: "Copied!"
+copyAsMarkdown: "Copy as Markdown"
+copyPage: "Copy Page"
+copyCode: "Copy code"
+dark: "Dark"
+editThisPage: "Edit this page on GitHub →"
+lastUpdated: "Last updated on"
+light: "Light"
+next: "Next"
+noResultsFound: "No results found."
+onThisPage: "On this page"
+more: "More"
+poweredBy: "Powered by Hextra"
+previous: "Prev"
+readMore: "Read more →"
+searchPlaceholder: "Search..."
+system: "System"
+tags: "Tags"
+viewAsMarkdown: "View as Markdown"
+
+# ══════════════════════════════════════
+# Site-specific strings (EVERAPPZ)
+# ══════════════════════════════════════
+
+# Copyright
+copyright: "© 2023 - 2026 EVERAPPZ SL"
+
+# Menu items
+home: "Domov"
+products: "Produkty"
+blog: "Blog"
+docs: "Dokumentácia"
+support: "Podpora"
+legal: "Právne informácie"
+contact: "Kontakt"
+about: "O nás"
+
+# Footer
+footerHelp: "Pomoc"
+footerCompany: "Spoločnosť"
+footerFAQ: "FAQ"
+footerContactSupport: "Kontaktovať podporu"
+
+# Cookie banner
+cookieText: "Používame nevyhnutné cookies na správne fungovanie tejto stránky."
+cookieLearnMore: "Zistiť viac"
+cookieOK: "OK"
+
+# UI labels
+genericUserGuide: "Používateľská príručka"
+genericHowTo: "Návod"
+
+# Legal
+legalCardLegalNotice: "Právne upozornenie"
+legalCardPrivacy: "Zásady ochrany osobných údajov"
+legalCardCookie: "Zásady používania cookies"
+legalCardTerms: "Obchodné podmienky"
+legalCardLicense: "Licenčná zmluva"

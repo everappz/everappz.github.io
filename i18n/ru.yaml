@@ -1,0 +1,81 @@
+# Accessibility labels (screen reader only)
+closeBanner: "Закрыть баннер"
+menu: "Меню"
+mermaidDiagram: "Диаграмма"
+pdfViewer: "Просмотр PDF"
+permalinkLabel: "Постоянная ссылка на этот раздел"
+playbackTime: "Время воспроизведения"
+searchResults: "Результаты поиска"
+skipToContent: "Перейти к содержимому"
+tableOfContents: "Содержание"
+terminalRecording: "Запись терминала"
+togglePageContextMenu: "Переключить контекстное меню страницы"
+toggleSection: "Переключить раздел"
+
+# Accessibility live-region/status text
+resultsFound: "%d результатов найдено"
+
+# User-facing UI text
+archives: "Архив"
+backToTop: "Прокрутить к началу"
+changeLanguage: "Изменить язык"
+changeTheme: "Изменить тему"
+copy: "Копировать"
+copied: "Скопировано!"
+copyAsMarkdown: "Копировать как Markdown"
+copyPage: "Копировать страницу"
+copyCode: "Скопировать код"
+dark: "Темная"
+editThisPage: "Отредактировать страницу на GitHub →"
+lastUpdated: "Последнее обновление"
+light: "Светлая"
+next: "Далее"
+noResultsFound: "Ничего не найдено."
+onThisPage: "На этой странице"
+more: "Ещё"
+poweredBy: "При поддержке Hextra"
+previous: "Назад"
+readMore: "Читать далее →"
+searchPlaceholder: "Поиск..."
+system: "Система"
+tags: "Теги"
+viewAsMarkdown: "Просмотреть как Markdown"
+
+# ══════════════════════════════════════
+# Site-specific strings (EVERAPPZ)
+# ══════════════════════════════════════
+
+# Copyright
+copyright: "© 2023 - 2026 EVERAPPZ SL"
+
+# Menu items
+home: "Главная"
+products: "Продукты"
+blog: "Блог"
+docs: "Документация"
+support: "Поддержка"
+legal: "Правовая информация"
+contact: "Контакты"
+about: "О нас"
+
+# Footer
+footerHelp: "Помощь"
+footerCompany: "Компания"
+footerFAQ: "FAQ"
+footerContactSupport: "Связаться с поддержкой"
+
+# Cookie banner
+cookieText: "Мы используем необходимые файлы cookie для корректной работы сайта."
+cookieLearnMore: "Подробнее"
+cookieOK: "OK"
+
+# UI labels
+genericUserGuide: "Руководство пользователя"
+genericHowTo: "Инструкции"
+
+# Legal
+legalCardLegalNotice: "Правовое уведомление"
+legalCardPrivacy: "Политика конфиденциальности"
+legalCardCookie: "Политика использования cookie"
+legalCardTerms: "Условия использования"
+legalCardLicense: "Лицензионное соглашение"

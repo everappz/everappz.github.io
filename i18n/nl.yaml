@@ -1,0 +1,81 @@
+# Accessibility labels (screen reader only)
+closeBanner: "Banner sluiten"
+menu: "Menu"
+mermaidDiagram: "Diagram"
+pdfViewer: "PDF-weergave"
+permalinkLabel: "Permanente link naar deze sectie"
+playbackTime: "Afspeeltijd"
+searchResults: "Zoekresultaten"
+skipToContent: "Ga naar inhoud"
+tableOfContents: "Inhoudsopgave"
+terminalRecording: "Terminalopname"
+togglePageContextMenu: "Paginacontextmenu wisselen"
+toggleSection: "Sectie wisselen"
+
+# Accessibility live-region/status text
+resultsFound: "%d resultaten gevonden"
+
+# User-facing UI text
+archives: "Archief"
+backToTop: "Terug naar boven"
+changeLanguage: "Taal veranderen"
+changeTheme: "Thema aanpassen"
+copy: "Kopiëren"
+copied: "Gekopieerd!"
+copyAsMarkdown: "Kopieer als Markdown"
+copyPage: "Pagina kopiëren"
+copyCode: "Kopieer code"
+dark: "Donker"
+editThisPage: "Bewerk deze pagina op GitHub →"
+lastUpdated: "Laatst bijgewerkt op"
+light: "Licht"
+next: "Volgende"
+noResultsFound: "Geen resultaten gevonden."
+onThisPage: "Op deze pagina"
+more: "Meer"
+poweredBy: "Mogelijk gemaakt door Hextra"
+previous: "Vorige"
+readMore: "Lees meer →"
+searchPlaceholder: "Zoeken..."
+system: "Systeem"
+tags: "Labels"
+viewAsMarkdown: "Bekijk als Markdown"
+
+# ══════════════════════════════════════
+# Site-specific strings (EVERAPPZ)
+# ══════════════════════════════════════
+
+# Copyright
+copyright: "© 2023 - 2026 EVERAPPZ SL"
+
+# Menu items
+home: "Home"
+products: "Producten"
+blog: "Blog"
+docs: "Documentatie"
+support: "Ondersteuning"
+legal: "Juridisch"
+contact: "Contact"
+about: "Over ons"
+
+# Footer
+footerHelp: "Help"
+footerCompany: "Bedrijf"
+footerFAQ: "FAQ"
+footerContactSupport: "Neem contact op met support"
+
+# Cookie banner
+cookieText: "We gebruiken essentiële cookies om deze site goed te laten werken."
+cookieLearnMore: "Meer informatie"
+cookieOK: "OK"
+
+# UI labels
+genericUserGuide: "Gebruikershandleiding"
+genericHowTo: "Handleiding"
+
+# Legal
+legalCardLegalNotice: "Juridische kennisgeving"
+legalCardPrivacy: "Privacybeleid"
+legalCardCookie: "Cookiebeleid"
+legalCardTerms: "Algemene voorwaarden"
+legalCardLicense: "Licentieovereenkomst"

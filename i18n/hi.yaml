@@ -1,0 +1,83 @@
+# hi — English defaults (needs translation)
+
+# Accessibility labels (screen reader only)
+closeBanner: "Close banner"
+menu: "Menu"
+mermaidDiagram: "Diagram"
+pdfViewer: "PDF viewer"
+permalinkLabel: "Permalink for this section"
+playbackTime: "Playback time"
+searchResults: "Search results"
+skipToContent: "Skip to content"
+tableOfContents: "Table of contents"
+terminalRecording: "Terminal recording"
+togglePageContextMenu: "Toggle page context menu"
+toggleSection: "Toggle section"
+
+# Accessibility live-region/status text
+resultsFound: "%d results found"
+
+# User-facing UI text
+archives: "Archives"
+backToTop: "Scroll to top"
+changeLanguage: "Change language"
+changeTheme: "Change theme"
+copy: "Copy"
+copied: "Copied!"
+copyAsMarkdown: "Copy as Markdown"
+copyPage: "Copy Page"
+copyCode: "Copy code"
+dark: "Dark"
+editThisPage: "Edit this page on GitHub →"
+lastUpdated: "Last updated on"
+light: "Light"
+next: "Next"
+noResultsFound: "No results found."
+onThisPage: "On this page"
+more: "More"
+poweredBy: "Powered by Hextra"
+previous: "Prev"
+readMore: "Read more →"
+searchPlaceholder: "Search..."
+system: "System"
+tags: "Tags"
+viewAsMarkdown: "View as Markdown"
+
+# ══════════════════════════════════════
+# Site-specific strings (EVERAPPZ)
+# ══════════════════════════════════════
+
+# Copyright
+copyright: "© 2023 - 2026 EVERAPPZ SL"
+
+# Menu items
+home: "होम"
+products: "उत्पाद"
+blog: "ब्लॉग"
+docs: "दस्तावेज़ीकरण"
+support: "सहायता"
+legal: "कानूनी"
+contact: "संपर्क"
+about: "हमारे बारे में"
+
+# Footer
+footerHelp: "मदद"
+footerCompany: "कंपनी"
+footerFAQ: "अक्सर पूछे जाने वाले प्रश्न"
+footerContactSupport: "सहायता से संपर्क करें"
+
+# Cookie banner
+cookieText: "इस साइट को ठीक से काम करने के लिए हम आवश्यक कुकीज़ का उपयोग करते हैं।"
+cookieLearnMore: "और जानें"
+cookieOK: "ठीक है"
+
+# UI labels
+genericUserGuide: "उपयोगकर्ता मार्गदर्शिका"
+genericHowTo: "कैसे करें"
+
+# Legal
+legalCardLegalNotice: "कानूनी सूचना"
+legalCardPrivacy: "गोपनीयता नीति"
+legalCardCookie: "कुकी नीति"
+legalCardTerms: "नियम और शर्तें"
+legalCardLicense: "लाइसेंस अनुबंध"

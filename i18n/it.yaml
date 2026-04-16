@@ -1,0 +1,81 @@
+# Accessibility labels (screen reader only)
+closeBanner: "Chiudi banner"
+menu: "Menu"
+mermaidDiagram: "Diagramma"
+pdfViewer: "Visualizzatore PDF"
+permalinkLabel: "Link permanente a questa sezione"
+playbackTime: "Tempo di riproduzione"
+searchResults: "Risultati della ricerca"
+skipToContent: "Vai al contenuto"
+tableOfContents: "Indice dei contenuti"
+terminalRecording: "Registrazione del terminale"
+togglePageContextMenu: "Attiva/disattiva il menu contestuale della pagina"
+toggleSection: "Attiva/disattiva sezione"
+
+# Accessibility live-region/status text
+resultsFound: "%d risultati trovati"
+
+# User-facing UI text
+archives: "Archivi"
+backToTop: "Torna all'inizio"
+changeLanguage: "Cambia lingua"
+changeTheme: "Cambia tema"
+copy: "Copia"
+copied: "Copiato!"
+copyAsMarkdown: "Copia come Markdown"
+copyPage: "Copia pagina"
+copyCode: "Copia codice"
+dark: "Scuro"
+editThisPage: "Modifica questa pagina su GitHub →"
+lastUpdated: "Ultimo aggiornamento il"
+light: "Chiaro"
+next: "Successivo"
+noResultsFound: "Nessun risultato trovato."
+onThisPage: "In questa pagina"
+more: "Altro"
+poweredBy: "Realizzato da Hextra"
+previous: "Precedente"
+readMore: "Per saperne di più →"
+searchPlaceholder: "Cerca..."
+system: "Sistema"
+tags: "Etichette"
+viewAsMarkdown: "Visualizza come Markdown"
+
+# ══════════════════════════════════════
+# Site-specific strings (EVERAPPZ)
+# ══════════════════════════════════════
+
+# Copyright
+copyright: "© 2023 - 2026 EVERAPPZ SL"
+
+# Menu items
+home: "Home"
+products: "Prodotti"
+blog: "Blog"
+docs: "Documentazione"
+support: "Supporto"
+legal: "Legale"
+contact: "Contatti"
+about: "Chi siamo"
+
+# Footer
+footerHelp: "Aiuto"
+footerCompany: "Azienda"
+footerFAQ: "FAQ"
+footerContactSupport: "Contatta il supporto"
+
+# Cookie banner
+cookieText: "Utilizziamo cookie essenziali per garantire il corretto funzionamento di questo sito."
+cookieLearnMore: "Scopri di più"
+cookieOK: "OK"
+
+# UI labels
+genericUserGuide: "Guida utente"
+genericHowTo: "Guida pratica"
+
+# Legal
+legalCardLegalNotice: "Avviso legale"
+legalCardPrivacy: "Informativa sulla privacy"
+legalCardCookie: "Informativa sui cookie"
+legalCardTerms: "Termini e condizioni"
+legalCardLicense: "Contratto di licenza"

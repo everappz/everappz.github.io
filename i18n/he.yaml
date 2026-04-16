@@ -1,0 +1,81 @@
+# Accessibility labels (screen reader only)
+closeBanner: "סגור באנר"
+menu: "תפריט"
+mermaidDiagram: "תרשים"
+pdfViewer: "מציג PDF"
+permalinkLabel: "קישור קבוע לפסקה זו"
+playbackTime: "זמן ניגון"
+searchResults: "תוצאות חיפוש"
+skipToContent: "דלג לתוכן"
+tableOfContents: "תוכן עניינים"
+terminalRecording: "הקלטת מסוף"
+togglePageContextMenu: "הצג/הסתר תפריט ההקשר של הדף"
+toggleSection: "הצג/הסתר מקטע"
+
+# Accessibility live-region/status text
+resultsFound: "%d תוצאות נמצאו"
+
+# User-facing UI text
+archives: "ארכיון"
+backToTop: "גלול למעלה"
+changeLanguage: "שנה שפה"
+changeTheme: "שנה ערכת צבעים"
+copy: "העתק"
+copied: "הועתק!"
+copyAsMarkdown: "העתק כ-Markdown"
+copyPage: "העתק עמוד"
+copyCode: "העתק קוד"
+dark: "כהה"
+editThisPage: "← ערוך עמוד זה בגיטהאב"
+lastUpdated: "עודכן לאחרונה ב"
+light: "בהיר"
+next: "הבא"
+noResultsFound: "לא נמצאו תוצאות."
+onThisPage: "בעמוד זה"
+more: "עוד"
+poweredBy: "Hextra מופעל על-ידי"
+previous: "הקודם"
+readMore: "← קרא עוד"
+searchPlaceholder: "חיפוש..."
+system: "מערכת"
+tags: "תגיות"
+viewAsMarkdown: "הצג כ-Markdown"
+
+# ══════════════════════════════════════
+# Site-specific strings (EVERAPPZ)
+# ══════════════════════════════════════
+
+# Copyright
+copyright: "© 2023 - 2026 EVERAPPZ SL"
+
+# Menu items
+home: "דף הבית"
+products: "מוצרים"
+blog: "בלוג"
+docs: "תיעוד"
+support: "תמיכה"
+legal: "משפטי"
+contact: "צור קשר"
+about: "אודות"
+
+# Footer
+footerHelp: "עזרה"
+footerCompany: "החברה"
+footerFAQ: "שאלות נפוצות"
+footerContactSupport: "פנייה לתמיכה"
+
+# Cookie banner
+cookieText: "אנו משתמשים בעוגיות חיוניות כדי שהאתר יפעל כראוי."
+cookieLearnMore: "למידע נוסף"
+cookieOK: "אישור"
+
+# UI labels
+genericUserGuide: "מדריך למשתמש"
+genericHowTo: "מדריך שימוש"
+
+# Legal
+legalCardLegalNotice: "הודעה משפטית"
+legalCardPrivacy: "מדיניות פרטיות"
+legalCardCookie: "מדיניות עוגיות"
+legalCardTerms: "תנאים והגבלות"
+legalCardLicense: "הסכם רישיון"
