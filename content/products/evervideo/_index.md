@@ -248,8 +248,6 @@ Intuitive Design
 
 </div>
 
-<div style="display: none;">
-
 <div class="hx:mt-6"></div>
 
 {{< hextra/section-headline >}}
@@ -260,8 +258,6 @@ App Store Reviews
 
 <div class="hx:w-full">
 {{< appstore-reviews apps="6602897336,6743504109" stars="5,4" >}}
-</div>
-
 </div>
 
 

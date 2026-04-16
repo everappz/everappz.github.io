@@ -112,10 +112,13 @@
       const url = `https://itunes.apple.com/us/rss/customerreviews/page=${page}/id=${appId}/sortby=mostrecent/json`;
       const res = await fetch(url);
       const data = await res.json();
-      const entries = data.feed.entry || [];
+      let entries = data.feed.entry || [];
+      if (!Array.isArray(entries)) entries = [entries];
       const reviews = [];
       for (const e of entries) {
-        if ('im:rating' in e) reviews.push(normalizeRSS(e));
+        try {
+          if ('im:rating' in e) reviews.push(normalizeRSS(e));
+        } catch { /* skip malformed entry */ }
       }
       rssPages[appId] = page + 1;
       if (reviews.length === 0) rssExhausted[appId] = true;
@@ -132,7 +135,7 @@
     cachedLoaded = true;
     await Promise.all(appIds.map(async (appId) => {
       try {
-        const url = `{{ site.BaseURL | default "/" }}reviews/sorted/${appId}.json`;
+        const url = `/reviews/sorted/${appId}.json`;
         const res = await fetch(url);
         if (!res.ok) { cachedReviews[appId] = []; return; }
         cachedReviews[appId] = await res.json();
