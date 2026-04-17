@@ -74,6 +74,15 @@ By subscribing, you agree to our [Privacy Policy](/legal/privacy-policy) and acc
 - `social-cards` shortcode — keep as-is
 - `lottie` animations — keep as-is
 
+### Page Bundle Images (IMPORTANT)
+Hugo page bundles are language-scoped. Images stored alongside `_index.md` (e.g., `heroimage/`, `screenshots/`) are only served for the English page. Translated pages cannot access them via relative paths.
+
+**Rule:** In translated files, convert all relative image paths to absolute paths:
+- `./heroimage/hero_1600.webp` → `/products/<product>/heroimage/hero_1600.webp`
+- `./screenshots/1.png` → `/products/<product>/screenshots/1.png`
+
+This applies to any `image="./..."` parameter in shortcodes like `hextra/hero-container`, `hextra/hero-badge`, `card`, etc. The absolute path resolves to the English page bundle's resources, which are shared across all locales.
+
 ## Character Encoding Rules
 
 - ALWAYS use proper UTF-8 characters, NEVER HTML entities
