@@ -1,8 +1,8 @@
 <!DOCTYPE html>
-<html lang="{{ .Site.Language.Lang }}">
+<html lang="{{ .Site.Language.Lang }}" dir="{{ .Site.Language.Direction | default `ltr` }}">
 {{- partial "head.html" . -}}
 
-<body dir="{{ .Site.Language.LanguageDirection | default `ltr` }}">
+<body>
   {{- if or (eq .Page.Params.navbar.enable nil) (.Page.Params.navbar.enable) }}
     {{- partial "navbar.html" . -}}
   {{ end }}

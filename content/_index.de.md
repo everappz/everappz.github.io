@@ -379,7 +379,7 @@ required
 >
 
 <div 
-style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_f758cdf6a38df2a75513ac5f1_2373740226" tabindex="-1" value=""></div>
+style="position: absolute; width: 0; height: 0; overflow: hidden;" aria-hidden="true"><input type="text" name="b_f758cdf6a38df2a75513ac5f1_2373740226" tabindex="-1" value=""></div>
 
 <!-- style from hextra/hero-button -->
 <button type="submit"
