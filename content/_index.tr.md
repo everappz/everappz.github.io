@@ -194,7 +194,7 @@ aliases:
 
 {{< hextra/hero-badge >}}
   <div class="hx:w-2 hx:h-2 hx:rounded-full hx:bg-primary-400"></div>
-  <span>Dünya Genelinde 14 Milyon İndirme</span>
+  <span>14 Milyon İndirme</span>
   {{< icon name="arrow-circle-right" attributes="height=14" >}}
 {{< /hextra/hero-badge >}}
 
@@ -279,7 +279,7 @@ aliases:
   {{< card 
     link="/products/evermusic"
     title="Evermusic" 
-    tag="Dünya Genelinde 11 Milyon İndirme"
+    tag="11 Milyon İndirme"
     subtitle="Çevrimdışı mod, ses ekolayzırı, crossfade, kesintisiz çalma, çalma listeleri, müzik kütüphanesi ve dosya yöneticisi ile bulut müzik çalar." 
     image="/images/app_icons/webp/Evermusic_Icon-App-1024x1024.webp"
     method="Resize"
@@ -290,7 +290,7 @@ aliases:
   {{< card 
     link="/products/flacbox"
     title="Flacbox" 
-    tag="Dünya Genelinde 1 Milyon İndirme"
+    tag="1 Milyon İndirme"
     subtitle="iPhone ve Mac için Hi-Res ses oynatıcı. Müziğinizi kayıpsız ses formatlarında dinleyin: flac, alac, ape, wv, dsd ve daha fazlası. Gelişmiş ses çıkış ayarlarını etkinleştirin." 
     image="/images/app_icons/webp/Flacbox_Icon-App-1024x1024.webp"
     method="Resize"

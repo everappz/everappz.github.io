@@ -194,7 +194,7 @@ aliases:
 
 {{< hextra/hero-badge >}}
   <div class="hx:w-2 hx:h-2 hx:rounded-full hx:bg-primary-400"></div>
-  <span>14 milions de descàrregues a tot el món</span>
+  <span>14 milions de descàrregues</span>
   {{< icon name="arrow-circle-right" attributes="height=14" >}}
 {{< /hextra/hero-badge >}}
 
@@ -279,7 +279,7 @@ Els nostres productes
   {{< card 
     link="/products/evermusic"
     title="Evermusic" 
-    tag="11 milions de descàrregues a tot el món"
+    tag="11 milions de descàrregues"
     subtitle="Reproductor de música al núvol amb mode fora de línia, equalitzador d'àudio, crossfade, reproducció sense interrupcions, llistes de reproducció, biblioteca musical, gestor de fitxers." 
     image="/images/app_icons/webp/Evermusic_Icon-App-1024x1024.webp"
     method="Resize"
@@ -290,7 +290,7 @@ Els nostres productes
   {{< card 
     link="/products/flacbox"
     title="Flacbox" 
-    tag="1 milió de descàrregues a tot el món"
+    tag="1 milió de descàrregues"
     subtitle="Reproductor d'àudio d'alta resolució per a iPhone i Mac. Escolta la teva música en formats d'àudio sense pèrdua: flac, alac, ape, wv, dsd i més. Activa la configuració avançada de sortida d'àudio.​" 
     image="/images/app_icons/webp/Flacbox_Icon-App-1024x1024.webp"
     method="Resize"

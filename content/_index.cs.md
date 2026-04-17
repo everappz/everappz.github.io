@@ -194,7 +194,7 @@ aliases:
 
 {{< hextra/hero-badge >}}
   <div class="hx:w-2 hx:h-2 hx:rounded-full hx:bg-primary-400"></div>
-  <span>14 milionů stažení po celém světě</span>
+  <span>14 milionů stažení</span>
   {{< icon name="arrow-circle-right" attributes="height=14" >}}
 {{< /hextra/hero-badge >}}
 
@@ -279,7 +279,7 @@ Naše produkty
   {{< card 
     link="/products/evermusic"
     title="Evermusic" 
-    tag="11 milionů stažení po celém světě"
+    tag="11 milionů stažení"
     subtitle="Cloudový hudební přehrávač s offline režimem, audio ekvalizérem, crossfade, plynulým přehráváním, playlisty, hudební knihovnou, správcem souborů." 
     image="/images/app_icons/webp/Evermusic_Icon-App-1024x1024.webp"
     method="Resize"
@@ -290,7 +290,7 @@ Naše produkty
   {{< card 
     link="/products/flacbox"
     title="Flacbox" 
-    tag="1 milion stažení po celém světě"
+    tag="1 milion stažení"
     subtitle="Hi-Res audio přehrávač pro iPhone a Mac. Poslouchejte svou hudbu v bezztrátových audio formátech: flac, alac, ape, wv, dsd a dalších. Aktivujte pokročilá nastavení audio výstupu.​" 
     image="/images/app_icons/webp/Flacbox_Icon-App-1024x1024.webp"
     method="Resize"

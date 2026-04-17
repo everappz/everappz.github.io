@@ -194,7 +194,7 @@ aliases:
 
 {{< hextra/hero-badge >}}
   <div class="hx:w-2 hx:h-2 hx:rounded-full hx:bg-primary-400"></div>
-  <span>ดาวน์โหลด 14 ล้านครั้งทั่วโลก</span>
+  <span>ดาวน์โหลด 14 ล้านครั้ง</span>
   {{< icon name="arrow-circle-right" attributes="height=14" >}}
 {{< /hextra/hero-badge >}}
 
@@ -279,7 +279,7 @@ aliases:
   {{< card 
     link="/products/evermusic"
     title="Evermusic" 
-    tag="ดาวน์โหลด 11 ล้านครั้งทั่วโลก"
+    tag="ดาวน์โหลด 11 ล้านครั้ง"
     subtitle="เครื่องเล่นเพลงบนคลาวด์พร้อมโหมดออฟไลน์ อีควอไลเซอร์เสียง ครอสเฟด การเล่นแบบไร้รอยต่อ เพลย์ลิสต์ คลังเพลง ตัวจัดการไฟล์" 
     image="/images/app_icons/webp/Evermusic_Icon-App-1024x1024.webp"
     method="Resize"
@@ -290,7 +290,7 @@ aliases:
   {{< card 
     link="/products/flacbox"
     title="Flacbox" 
-    tag="ดาวน์โหลด 1 ล้านครั้งทั่วโลก"
+    tag="ดาวน์โหลด 1 ล้านครั้ง"
     subtitle="เครื่องเล่นเสียง Hi-Res สำหรับ iPhone และ Mac ฟังเพลงในรูปแบบเสียงแบบไม่สูญเสียคุณภาพ: flac, alac, ape, wv, dsd และอื่นๆ เปิดใช้งานการตั้งค่าเอาต์พุตเสียงขั้นสูง" 
     image="/images/app_icons/webp/Flacbox_Icon-App-1024x1024.webp"
     method="Resize"

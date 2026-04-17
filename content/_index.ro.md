@@ -194,7 +194,7 @@ aliases:
 
 {{< hextra/hero-badge >}}
   <div class="hx:w-2 hx:h-2 hx:rounded-full hx:bg-primary-400"></div>
-  <span>14 milioane de descărcări la nivel mondial</span>
+  <span>14 milioane de descărcări</span>
   {{< icon name="arrow-circle-right" attributes="height=14" >}}
 {{< /hextra/hero-badge >}}
 
@@ -279,7 +279,7 @@ Produsele noastre
   {{< card 
     link="/products/evermusic"
     title="Evermusic" 
-    tag="11 milioane de descărcări la nivel mondial"
+    tag="11 milioane de descărcări"
     subtitle="Player de muzică în cloud cu mod offline, egalizator audio, crossfade, redare fără pauze, playlisturi, bibliotecă muzicală, manager de fișiere." 
     image="/images/app_icons/webp/Evermusic_Icon-App-1024x1024.webp"
     method="Resize"
@@ -290,7 +290,7 @@ Produsele noastre
   {{< card 
     link="/products/flacbox"
     title="Flacbox" 
-    tag="1 milion de descărcări la nivel mondial"
+    tag="1 milion de descărcări"
     subtitle="Player audio Hi-Res pentru iPhone și Mac. Ascultați muzica în formate audio fără pierderi: flac, alac, ape, wv, dsd și altele. Activați setările avansate de ieșire audio." 
     image="/images/app_icons/webp/Flacbox_Icon-App-1024x1024.webp"
     method="Resize"

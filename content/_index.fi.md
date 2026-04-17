@@ -194,7 +194,7 @@ aliases:
 
 {{< hextra/hero-badge >}}
   <div class="hx:w-2 hx:h-2 hx:rounded-full hx:bg-primary-400"></div>
-  <span>14 miljoonaa latausta maailmanlaajuisesti</span>
+  <span>14 miljoonaa latausta</span>
   {{< icon name="arrow-circle-right" attributes="height=14" >}}
 {{< /hextra/hero-badge >}}
 
@@ -279,7 +279,7 @@ Tuotteemme
   {{< card 
     link="/products/evermusic"
     title="Evermusic" 
-    tag="11 miljoonaa latausta maailmanlaajuisesti"
+    tag="11 miljoonaa latausta"
     subtitle="Pilvimusiikin soitin offline-tilalla, äänitaajuuskorjaimella, crossfadella, tauottomalla toistolla, soittolistoilla, musiikkikirjastolla ja tiedostonhallinnalla." 
     image="/images/app_icons/webp/Evermusic_Icon-App-1024x1024.webp"
     method="Resize"
@@ -290,7 +290,7 @@ Tuotteemme
   {{< card 
     link="/products/flacbox"
     title="Flacbox" 
-    tag="1 miljoona latausta maailmanlaajuisesti"
+    tag="1 miljoona latausta"
     subtitle="Hi-Res-äänisoitin iPhonelle ja Macille. Kuuntele musiikkiasi häviöttömissä ääniformaateissa: flac, alac, ape, wv, dsd ja muut. Ota käyttöön edistyneet äänilähtöasetukset.​" 
     image="/images/app_icons/webp/Flacbox_Icon-App-1024x1024.webp"
     method="Resize"

@@ -52,7 +52,7 @@ Each product offers powerful features and seamless integration with iOS and macO
   {{< card 
     link="/products/evermusic"
     title="Evermusic" 
-    tag="11 Million Downloads Worldwide"
+    tag="11 Million Downloads"
     subtitle="Cloud music player with offline mode, audio equalizer, crossfade, gapless playback, playlists, music library, file manager." 
     image="/images/app_icons/webp/Evermusic_Icon-App-1024x1024.webp"
     method="Resize"
@@ -63,7 +63,7 @@ Each product offers powerful features and seamless integration with iOS and macO
   {{< card 
     link="/products/flacbox"
     title="Flacbox" 
-    tag="1 Million Downloads Worldwide"
+    tag="1 Million Downloads"
     subtitle="Hi-Res audio player for iPhone and Mac. Listen to your music in lossless audio formats: flac, alac, ape, wv, dsd and more. Enable advanced audio output settings.​" 
     image="/images/app_icons/webp/Flacbox_Icon-App-1024x1024.webp"
     method="Resize"

@@ -194,7 +194,7 @@ aliases:
 
 {{< hextra/hero-badge >}}
   <div class="hx:w-2 hx:h-2 hx:rounded-full hx:bg-primary-400"></div>
-  <span>14 miljoen downloads wereldwijd</span>
+  <span>14 miljoen downloads</span>
   {{< icon name="arrow-circle-right" attributes="height=14" >}}
 {{< /hextra/hero-badge >}}
 
@@ -279,7 +279,7 @@ Onze producten
   {{< card 
     link="/products/evermusic"
     title="Evermusic" 
-    tag="11 miljoen downloads wereldwijd"
+    tag="11 miljoen downloads"
     subtitle="Cloud-muziekspeler met offline modus, audio-equalizer, crossfade, naadloos afspelen, afspeellijsten, muziekbibliotheek, bestandsbeheer." 
     image="/images/app_icons/webp/Evermusic_Icon-App-1024x1024.webp"
     method="Resize"
@@ -290,7 +290,7 @@ Onze producten
   {{< card 
     link="/products/flacbox"
     title="Flacbox" 
-    tag="1 miljoen downloads wereldwijd"
+    tag="1 miljoen downloads"
     subtitle="Hi-Res audiospeler voor iPhone en Mac. Luister naar je muziek in verliesvrije audioformaten: flac, alac, ape, wv, dsd en meer. Schakel geavanceerde audio-uitvoerinstellingen in." 
     image="/images/app_icons/webp/Flacbox_Icon-App-1024x1024.webp"
     method="Resize"

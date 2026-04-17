@@ -194,7 +194,7 @@ aliases:
 
 {{< hextra/hero-badge >}}
   <div class="hx:w-2 hx:h-2 hx:rounded-full hx:bg-primary-400"></div>
-  <span>दुनिया भर में 1.4 करोड़ डाउनलोड</span>
+  <span>1.4 करोड़ डाउनलोड</span>
   {{< icon name="arrow-circle-right" attributes="height=14" >}}
 {{< /hextra/hero-badge >}}
 
@@ -279,7 +279,7 @@ aliases:
   {{< card 
     link="/products/evermusic"
     title="Evermusic" 
-    tag="दुनिया भर में 1.1 करोड़ डाउनलोड"
+    tag="1.1 करोड़ डाउनलोड"
     subtitle="ऑफ़लाइन मोड, ऑडियो इक्वलाइज़र, क्रॉसफ़ेड, गैपलेस प्लेबैक, प्लेलिस्ट, म्यूज़िक लाइब्रेरी, फ़ाइल मैनेजर के साथ क्लाउड म्यूज़िक प्लेयर।" 
     image="/images/app_icons/webp/Evermusic_Icon-App-1024x1024.webp"
     method="Resize"
@@ -290,7 +290,7 @@ aliases:
   {{< card 
     link="/products/flacbox"
     title="Flacbox" 
-    tag="दुनिया भर में 10 लाख डाउनलोड"
+    tag="10 लाख डाउनलोड"
     subtitle="iPhone और Mac के लिए Hi-Res ऑडियो प्लेयर। लॉसलेस ऑडियो फ़ॉर्मेट में अपना संगीत सुनें: flac, alac, ape, wv, dsd और अधिक। उन्नत ऑडियो आउटपुट सेटिंग्स सक्षम करें।​" 
     image="/images/app_icons/webp/Flacbox_Icon-App-1024x1024.webp"
     method="Resize"

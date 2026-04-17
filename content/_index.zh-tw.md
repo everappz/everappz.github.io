@@ -194,7 +194,7 @@ aliases:
 
 {{< hextra/hero-badge >}}
   <div class="hx:w-2 hx:h-2 hx:rounded-full hx:bg-primary-400"></div>
-  <span>全球 1400 萬次下載</span>
+  <span>1400 萬次下載</span>
   {{< icon name="arrow-circle-right" attributes="height=14" >}}
 {{< /hextra/hero-badge >}}
 
@@ -279,7 +279,7 @@ aliases:
   {{< card 
     link="/products/evermusic"
     title="Evermusic" 
-    tag="全球 1100 萬次下載"
+    tag="1100 萬次下載"
     subtitle="雲端音樂播放器，支援離線模式、音訊等化器、交叉淡入淡出、無縫播放、播放清單、音樂庫、檔案管理員。" 
     image="/images/app_icons/webp/Evermusic_Icon-App-1024x1024.webp"
     method="Resize"
@@ -290,7 +290,7 @@ aliases:
   {{< card 
     link="/products/flacbox"
     title="Flacbox" 
-    tag="全球 100 萬次下載"
+    tag="100 萬次下載"
     subtitle="適用於 iPhone 和 Mac 的 Hi-Res 音訊播放器。以無損音訊格式聆聽音樂：flac、alac、ape、wv、dsd 等。啟用進階音訊輸出設定。" 
     image="/images/app_icons/webp/Flacbox_Icon-App-1024x1024.webp"
     method="Resize"

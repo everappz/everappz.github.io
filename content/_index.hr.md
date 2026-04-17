@@ -194,7 +194,7 @@ aliases:
 
 {{< hextra/hero-badge >}}
   <div class="hx:w-2 hx:h-2 hx:rounded-full hx:bg-primary-400"></div>
-  <span>14 milijuna preuzimanja diljem svijeta</span>
+  <span>14 milijuna preuzimanja</span>
   {{< icon name="arrow-circle-right" attributes="height=14" >}}
 {{< /hextra/hero-badge >}}
 
@@ -279,7 +279,7 @@ Naši proizvodi
   {{< card 
     link="/products/evermusic"
     title="Evermusic" 
-    tag="11 milijuna preuzimanja diljem svijeta"
+    tag="11 milijuna preuzimanja"
     subtitle="Glazbeni reproduktor u oblaku s izvanmrežnim načinom rada, audio ekvalizatorom, crossfadeom, reprodukcijom bez pauza, popisima pjesama, glazbenom bibliotekom, upraviteljem datoteka." 
     image="/images/app_icons/webp/Evermusic_Icon-App-1024x1024.webp"
     method="Resize"
@@ -290,7 +290,7 @@ Naši proizvodi
   {{< card 
     link="/products/flacbox"
     title="Flacbox" 
-    tag="1 milijun preuzimanja diljem svijeta"
+    tag="1 milijun preuzimanja"
     subtitle="Hi-Res audio reproduktor za iPhone i Mac. Slušajte svoju glazbu u formatima bez gubitaka: flac, alac, ape, wv, dsd i više. Omogućite napredne postavke audio izlaza.​" 
     image="/images/app_icons/webp/Flacbox_Icon-App-1024x1024.webp"
     method="Resize"

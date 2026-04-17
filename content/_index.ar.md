@@ -194,7 +194,7 @@ aliases:
 
 {{< hextra/hero-badge >}}
   <div class="hx:w-2 hx:h-2 hx:rounded-full hx:bg-primary-400"></div>
-  <span>١٤ مليون تحميل حول العالم</span>
+  <span>١٤ مليون تحميل</span>
   {{< icon name="arrow-circle-right" attributes="height=14" >}}
 {{< /hextra/hero-badge >}}
 
@@ -279,7 +279,7 @@ aliases:
   {{< card 
     link="/products/evermusic"
     title="Evermusic" 
-    tag="١١ مليون تحميل حول العالم"
+    tag="١١ مليون تحميل"
     subtitle="مشغّل موسيقى سحابي مع وضع عدم الاتصال، معادل صوتي، انتقال سلس بين المسارات، تشغيل بدون فجوات، قوائم تشغيل، مكتبة موسيقية، مدير ملفات." 
     image="/images/app_icons/webp/Evermusic_Icon-App-1024x1024.webp"
     method="Resize"
@@ -290,7 +290,7 @@ aliases:
   {{< card 
     link="/products/flacbox"
     title="Flacbox" 
-    tag="مليون تحميل حول العالم"
+    tag="مليون تحميل"
     subtitle="مشغّل صوت عالي الدقة لأجهزة iPhone وMac. استمع لموسيقاك بصيغ صوتية بدون فقدان: flac، alac، ape، wv، dsd والمزيد. فعّل إعدادات الإخراج الصوتي المتقدمة.​" 
     image="/images/app_icons/webp/Flacbox_Icon-App-1024x1024.webp"
     method="Resize"

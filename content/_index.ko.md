@@ -194,7 +194,7 @@ aliases:
 
 {{< hextra/hero-badge >}}
   <div class="hx:w-2 hx:h-2 hx:rounded-full hx:bg-primary-400"></div>
-  <span>전 세계 1,400만 다운로드</span>
+  <span>1,400만 다운로드</span>
   {{< icon name="arrow-circle-right" attributes="height=14" >}}
 {{< /hextra/hero-badge >}}
 
@@ -279,7 +279,7 @@ aliases:
   {{< card 
     link="/products/evermusic"
     title="Evermusic" 
-    tag="전 세계 1,100만 다운로드"
+    tag="1,100만 다운로드"
     subtitle="오프라인 모드, 오디오 이퀄라이저, 크로스페이드, 갭리스 재생, 플레이리스트, 음악 라이브러리, 파일 관리자를 갖춘 클라우드 뮤직 플레이어." 
     image="/images/app_icons/webp/Evermusic_Icon-App-1024x1024.webp"
     method="Resize"
@@ -290,7 +290,7 @@ aliases:
   {{< card 
     link="/products/flacbox"
     title="Flacbox" 
-    tag="전 세계 100만 다운로드"
+    tag="100만 다운로드"
     subtitle="iPhone 및 Mac용 하이레졸루션 오디오 플레이어. 무손실 오디오 포맷(flac, alac, ape, wv, dsd 등)으로 음악을 감상하세요. 고급 오디오 출력 설정을 활성화할 수 있습니다." 
     image="/images/app_icons/webp/Flacbox_Icon-App-1024x1024.webp"
     method="Resize"

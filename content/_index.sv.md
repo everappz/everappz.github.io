@@ -194,7 +194,7 @@ aliases:
 
 {{< hextra/hero-badge >}}
   <div class="hx:w-2 hx:h-2 hx:rounded-full hx:bg-primary-400"></div>
-  <span>14 miljoner nedladdningar världen över</span>
+  <span>14 miljoner nedladdningar</span>
   {{< icon name="arrow-circle-right" attributes="height=14" >}}
 {{< /hextra/hero-badge >}}
 
@@ -279,7 +279,7 @@ Våra produkter
   {{< card 
     link="/products/evermusic"
     title="Evermusic" 
-    tag="11 miljoner nedladdningar världen över"
+    tag="11 miljoner nedladdningar"
     subtitle="Molnmusikspelare med offlineläge, audioequalizer, crossfade, sömlös uppspelning, spellistor, musikbibliotek, filhanterare." 
     image="/images/app_icons/webp/Evermusic_Icon-App-1024x1024.webp"
     method="Resize"
@@ -290,7 +290,7 @@ Våra produkter
   {{< card 
     link="/products/flacbox"
     title="Flacbox" 
-    tag="1 miljon nedladdningar världen över"
+    tag="1 miljon nedladdningar"
     subtitle="Hi-Res-ljudspelare för iPhone och Mac. Lyssna på din musik i förlustfria ljudformat: flac, alac, ape, wv, dsd och mer. Aktivera avancerade ljudutgångsinställningar." 
     image="/images/app_icons/webp/Flacbox_Icon-App-1024x1024.webp"
     method="Resize"

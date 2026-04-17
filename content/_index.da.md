@@ -194,7 +194,7 @@ aliases:
 
 {{< hextra/hero-badge >}}
   <div class="hx:w-2 hx:h-2 hx:rounded-full hx:bg-primary-400"></div>
-  <span>14 millioner downloads verden over</span>
+  <span>14 millioner downloads</span>
   {{< icon name="arrow-circle-right" attributes="height=14" >}}
 {{< /hextra/hero-badge >}}
 
@@ -279,7 +279,7 @@ Vores produkter
   {{< card 
     link="/products/evermusic"
     title="Evermusic" 
-    tag="11 millioner downloads verden over"
+    tag="11 millioner downloads"
     subtitle="Cloud-musikafspiller med offlinetilstand, audio-equalizer, crossfade, gapless afspilning, playlister, musikbibliotek, filhåndtering." 
     image="/images/app_icons/webp/Evermusic_Icon-App-1024x1024.webp"
     method="Resize"
@@ -290,7 +290,7 @@ Vores produkter
   {{< card 
     link="/products/flacbox"
     title="Flacbox" 
-    tag="1 million downloads verden over"
+    tag="1 million downloads"
     subtitle="Hi-Res lydafspiller til iPhone og Mac. Lyt til din musik i tabsfrie lydformater: flac, alac, ape, wv, dsd og mere. Aktivér avancerede lydudgangsindstillinger.​" 
     image="/images/app_icons/webp/Flacbox_Icon-App-1024x1024.webp"
     method="Resize"

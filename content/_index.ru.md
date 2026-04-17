@@ -194,7 +194,7 @@ aliases:
 
 {{< hextra/hero-badge >}}
   <div class="hx:w-2 hx:h-2 hx:rounded-full hx:bg-primary-400"></div>
-  <span>14 миллионов загрузок по всему миру</span>
+  <span>14 миллионов загрузок</span>
   {{< icon name="arrow-circle-right" attributes="height=14" >}}
 {{< /hextra/hero-badge >}}
 
@@ -279,7 +279,7 @@ aliases:
   {{< card 
     link="/products/evermusic"
     title="Evermusic" 
-    tag="11 миллионов загрузок по всему миру"
+    tag="11 миллионов загрузок"
     subtitle="Облачный музыкальный плеер с офлайн-режимом, аудиоэквалайзером, кроссфейдом, непрерывным воспроизведением, плейлистами, музыкальной библиотекой, файловым менеджером." 
     image="/images/app_icons/webp/Evermusic_Icon-App-1024x1024.webp"
     method="Resize"
@@ -290,7 +290,7 @@ aliases:
   {{< card 
     link="/products/flacbox"
     title="Flacbox" 
-    tag="1 миллион загрузок по всему миру"
+    tag="1 миллион загрузок"
     subtitle="Hi-Res аудиоплеер для iPhone и Mac. Слушайте музыку в форматах без потерь: flac, alac, ape, wv, dsd и других. Включите расширенные настройки аудиовыхода." 
     image="/images/app_icons/webp/Flacbox_Icon-App-1024x1024.webp"
     method="Resize"

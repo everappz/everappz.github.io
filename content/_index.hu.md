@@ -194,7 +194,7 @@ aliases:
 
 {{< hextra/hero-badge >}}
   <div class="hx:w-2 hx:h-2 hx:rounded-full hx:bg-primary-400"></div>
-  <span>14 millió letöltés világszerte</span>
+  <span>14 millió letöltés</span>
   {{< icon name="arrow-circle-right" attributes="height=14" >}}
 {{< /hextra/hero-badge >}}
 
@@ -279,7 +279,7 @@ Termékeink
   {{< card 
     link="/products/evermusic"
     title="Evermusic" 
-    tag="11 millió letöltés világszerte"
+    tag="11 millió letöltés"
     subtitle="Felhő zenelejátszó offline móddal, hangszínszabályzóval, crossfade-del, szünet nélküli lejátszással, lejátszási listákkal, zenei könyvtárral, fájlkezelővel." 
     image="/images/app_icons/webp/Evermusic_Icon-App-1024x1024.webp"
     method="Resize"
@@ -290,7 +290,7 @@ Termékeink
   {{< card 
     link="/products/flacbox"
     title="Flacbox" 
-    tag="1 millió letöltés világszerte"
+    tag="1 millió letöltés"
     subtitle="Hi-Res audiolejátszó iPhone-ra és Mac-re. Hallgassa zenéjét veszteségmentes formátumokban: flac, alac, ape, wv, dsd és még sok más. Engedélyezze a fejlett hangkimeneti beállításokat." 
     image="/images/app_icons/webp/Flacbox_Icon-App-1024x1024.webp"
     method="Resize"

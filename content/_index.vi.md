@@ -194,7 +194,7 @@ aliases:
 
 {{< hextra/hero-badge >}}
   <div class="hx:w-2 hx:h-2 hx:rounded-full hx:bg-primary-400"></div>
-  <span>14 triệu lượt tải xuống trên toàn thế giới</span>
+  <span>14 triệu lượt tải xuống</span>
   {{< icon name="arrow-circle-right" attributes="height=14" >}}
 {{< /hextra/hero-badge >}}
 
@@ -279,7 +279,7 @@ Sản phẩm của chúng tôi
   {{< card 
     link="/products/evermusic"
     title="Evermusic" 
-    tag="11 triệu lượt tải xuống trên toàn thế giới"
+    tag="11 triệu lượt tải xuống"
     subtitle="Trình phát nhạc đám mây với chế độ ngoại tuyến, bộ cân bằng âm thanh, crossfade, phát liên tục, danh sách phát, thư viện nhạc, trình quản lý tệp." 
     image="/images/app_icons/webp/Evermusic_Icon-App-1024x1024.webp"
     method="Resize"
@@ -290,7 +290,7 @@ Sản phẩm của chúng tôi
   {{< card 
     link="/products/flacbox"
     title="Flacbox" 
-    tag="1 triệu lượt tải xuống trên toàn thế giới"
+    tag="1 triệu lượt tải xuống"
     subtitle="Trình phát âm thanh Hi-Res cho iPhone và Mac. Nghe nhạc ở các định dạng âm thanh không mất dữ liệu: flac, alac, ape, wv, dsd và nhiều hơn nữa. Bật cài đặt đầu ra âm thanh nâng cao." 
     image="/images/app_icons/webp/Flacbox_Icon-App-1024x1024.webp"
     method="Resize"

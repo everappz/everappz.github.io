@@ -194,7 +194,7 @@ aliases:
 
 {{< hextra/hero-badge >}}
   <div class="hx:w-2 hx:h-2 hx:rounded-full hx:bg-primary-400"></div>
-  <span>14 מיליון הורדות ברחבי העולם</span>
+  <span>14 מיליון הורדות</span>
   {{< icon name="arrow-circle-right" attributes="height=14" >}}
 {{< /hextra/hero-badge >}}
 
@@ -279,7 +279,7 @@ aliases:
   {{< card 
     link="/products/evermusic"
     title="Evermusic" 
-    tag="11 מיליון הורדות ברחבי העולם"
+    tag="11 מיליון הורדות"
     subtitle="נגן מוזיקה בענן עם מצב לא מקוון, אקולייזר שמע, קרוספייד, השמעה רציפה, פלייליסטים, ספריית מוזיקה, מנהל קבצים." 
     image="/images/app_icons/webp/Evermusic_Icon-App-1024x1024.webp"
     method="Resize"
@@ -290,7 +290,7 @@ aliases:
   {{< card 
     link="/products/flacbox"
     title="Flacbox" 
-    tag="מיליון הורדות ברחבי העולם"
+    tag="מיליון הורדות"
     subtitle="נגן שמע Hi-Res לאייפון ולמק. האזינו למוזיקה שלכם בפורמטים ללא אובדן: flac, alac, ape, wv, dsd ועוד. הפעילו הגדרות פלט שמע מתקדמות.​" 
     image="/images/app_icons/webp/Flacbox_Icon-App-1024x1024.webp"
     method="Resize"

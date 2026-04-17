@@ -194,7 +194,7 @@ aliases:
 
 {{< hextra/hero-badge >}}
   <div class="hx:w-2 hx:h-2 hx:rounded-full hx:bg-primary-400"></div>
-  <span>14 Juta Muat Turun di Seluruh Dunia</span>
+  <span>14 Juta Muat Turun</span>
   {{< icon name="arrow-circle-right" attributes="height=14" >}}
 {{< /hextra/hero-badge >}}
 
@@ -279,7 +279,7 @@ Produk Kami
   {{< card 
     link="/products/evermusic"
     title="Evermusic" 
-    tag="11 Juta Muat Turun di Seluruh Dunia"
+    tag="11 Juta Muat Turun"
     subtitle="Pemain muzik awan dengan mod luar talian, penyama audio, crossfade, main balik tanpa jeda, senarai main, pustaka muzik, pengurus fail." 
     image="/images/app_icons/webp/Evermusic_Icon-App-1024x1024.webp"
     method="Resize"
@@ -290,7 +290,7 @@ Produk Kami
   {{< card 
     link="/products/flacbox"
     title="Flacbox" 
-    tag="1 Juta Muat Turun di Seluruh Dunia"
+    tag="1 Juta Muat Turun"
     subtitle="Pemain audio Hi-Res untuk iPhone dan Mac. Dengar muzik anda dalam format audio lossless: flac, alac, ape, wv, dsd dan banyak lagi. Aktifkan tetapan output audio lanjutan." 
     image="/images/app_icons/webp/Flacbox_Icon-App-1024x1024.webp"
     method="Resize"

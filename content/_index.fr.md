@@ -194,7 +194,7 @@ aliases:
 
 {{< hextra/hero-badge >}}
   <div class="hx:w-2 hx:h-2 hx:rounded-full hx:bg-primary-400"></div>
-  <span>14 millions de téléchargements dans le monde</span>
+  <span>14 millions de téléchargements</span>
   {{< icon name="arrow-circle-right" attributes="height=14" >}}
 {{< /hextra/hero-badge >}}
 
@@ -279,7 +279,7 @@ Nos produits
   {{< card 
     link="/products/evermusic"
     title="Evermusic" 
-    tag="11 millions de téléchargements dans le monde"
+    tag="11 millions de téléchargements"
     subtitle="Lecteur de musique cloud avec mode hors ligne, égaliseur audio, fondu enchaîné, lecture sans interruption, playlists, bibliothèque musicale, gestionnaire de fichiers." 
     image="/images/app_icons/webp/Evermusic_Icon-App-1024x1024.webp"
     method="Resize"
@@ -290,7 +290,7 @@ Nos produits
   {{< card 
     link="/products/flacbox"
     title="Flacbox" 
-    tag="1 million de téléchargements dans le monde"
+    tag="1 million de téléchargements"
     subtitle="Lecteur audio Hi-Res pour iPhone et Mac. Écoutez votre musique dans des formats audio sans perte : flac, alac, ape, wv, dsd et plus. Activez les paramètres de sortie audio avancés.​" 
     image="/images/app_icons/webp/Flacbox_Icon-App-1024x1024.webp"
     method="Resize"
