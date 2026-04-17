@@ -23,7 +23,7 @@ screenshots:
 {{< force-dark >}}
 
 {{< hextra/hero-container
-  image="./heroimage/hero_1600.webp"
+  image="/products/flacbox/heroimage/hero_1600.webp"
   imageWidth="800"
   imageCard="true"
 >}}
@@ -167,7 +167,7 @@ Intuitive Design
 {{< cards cols="4">}}
 
   {{< card 
-    image="./screenshots/2048x2732/1.png" 
+    image="/products/flacbox/screenshots/2048x2732/1.png" 
     title="Audio Player" 
     method="Fill"
     options="515x200 q90 webp"
@@ -176,7 +176,7 @@ Intuitive Design
   >}}
 
   {{< card 
-    image="./screenshots/2048x2732/2.png"  
+    image="/products/flacbox/screenshots/2048x2732/2.png"  
     title="Audio Equalizer" 
     method="Fill"
     options="515x200 q90 webp"
@@ -185,7 +185,7 @@ Intuitive Design
   >}}
 
   {{< card 
-    image="./screenshots/2048x2732/3.png"  
+    image="/products/flacbox/screenshots/2048x2732/3.png"  
     title="Playlists Manager" 
     method="Fill"
     options="515x200 q90 webp"
@@ -194,7 +194,7 @@ Intuitive Design
   >}}
 
   {{< card 
-    image="./screenshots/2048x2732/5.png"  
+    image="/products/flacbox/screenshots/2048x2732/5.png"  
     title="Media Library" 
     method="Fill"
     options="515x200 q90 webp"
@@ -203,7 +203,7 @@ Intuitive Design
   >}}
 
   {{< card 
-    image="./screenshots/2048x2732/7.png"  
+    image="/products/flacbox/screenshots/2048x2732/7.png"  
     title="Cloud Storage" 
     method="Fill"
     options="515x200 q90 webp"
@@ -212,7 +212,7 @@ Intuitive Design
   >}}
 
   {{< card 
-    image="./screenshots/2048x2732/8.png"  
+    image="/products/flacbox/screenshots/2048x2732/8.png"  
     title="iCloud Drive" 
     method="Fill"
     options="515x200 q90 webp"

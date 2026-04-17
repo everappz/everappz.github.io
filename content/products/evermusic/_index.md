@@ -22,7 +22,7 @@ screenshots:
 <!-- <body class="hx:bg-transparent" style="background: radial-gradient(ellipse at 50% 80%, rgba(59,130,246,0.05), hsla(0,0%,100%,0));"> -->
 
 {{< hextra/hero-container
-  image="./heroimage/hero_1200.webp"
+  image="/products/evermusic/heroimage/hero_1200.webp"
   imageWidth="600"
   imageCard="true"
 >}}
@@ -147,7 +147,7 @@ screenshots:
 
   {{< card 
     icon="adjustments"
-    image="./screenshots/2048x2732/3.png" 
+    image="/products/evermusic/screenshots/2048x2732/3.png" 
     title="Audio Equalizer" 
     method="Fill"
     options="515x200 q90 webp"
@@ -156,7 +156,7 @@ screenshots:
 
   {{< card 
     icon="annotation"
-    image="./screenshots/2048x2732/4.png"  
+    image="/products/evermusic/screenshots/2048x2732/4.png"  
     title="Lyrics Viewer" 
     method="Fill"
     options="515x200 q90 webp"
@@ -165,7 +165,7 @@ screenshots:
 
   {{< card 
     icon="collection"
-    image="./screenshots/2048x2732/5.png"  
+    image="/products/evermusic/screenshots/2048x2732/5.png"  
     title="Playlist Manager" 
     method="Fill"
     options="515x200 q90 webp"
@@ -174,7 +174,7 @@ screenshots:
 
   {{< card 
     icon="cloud"
-    image="./screenshots/2048x2732/6.png"  
+    image="/products/evermusic/screenshots/2048x2732/6.png"  
     title="Cloud Music Streaming" 
     method="Fill"
     options="515x200 q90 webp"
@@ -183,7 +183,7 @@ screenshots:
 
   {{< card 
     icon="duplicate"
-    image="./screenshots/2048x2732/9.png"  
+    image="/products/evermusic/screenshots/2048x2732/9.png"  
     title="File Manager" 
     method="Fill"
     options="515x200 q90 webp"
@@ -192,7 +192,7 @@ screenshots:
 
   {{< card 
     icon="sun"
-    image="./screenshots/2048x2732/10.png"  
+    image="/products/evermusic/screenshots/2048x2732/10.png"  
     title="App Customization" 
     method="Fill"
     options="515x200 q90 webp"

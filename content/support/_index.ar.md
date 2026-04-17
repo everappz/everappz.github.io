@@ -1,0 +1,33 @@
+---
+date: '2025-06-12T17:00:00+00:00'
+draft: false
+title: 'الدعم'
+aliases:
+  - /index.php/support/trackback/
+  - /index.php/support/
+---
+
+{{< lottie src="/images/juicy-json/juicy-girl-is-working-on-laptop-at-a-remote-job.json" width="80%" >}}
+
+## هل تحتاج مساعدة؟ نحن هنا من أجلك
+
+إذا كانت لديك أي أسئلة أو تحتاج إلى مساعدة، فلا تتردد في التواصل معنا — يسعدنا دائمًا مساعدتك.
+
+**راسلنا عبر البريد الإلكتروني:** [support@everappz.com](mailto:support@everappz.com)  
+بتواصلك معنا، فإنك تؤكد أنك قد قرأت ووافقت على [سياسة الخصوصية](../legal/privacy-policy) الخاصة بنا.
+
+<br>
+
+## موارد المساعدة السريعة
+
+لتوفير الوقت والحصول على إجابات فورية، يرجى الاطلاع على أكثر مواردنا فائدة. العديد من الأسئلة الشائعة مُغطاة بالفعل:
+
+{{< cards >}}
+  {{< card icon="book-open" link="/docs/guide" title="دليل المستخدم" >}}
+  {{< card icon="question-mark-circle" link="/docs/faq" title="الأسئلة الشائعة" >}}
+  {{< card icon="light-bulb" link="/docs/howto" title="كيفية الاستخدام" >}}
+{{< /cards >}}
+
+هذه الأدلة مصممة لمساعدتك على الاستفادة القصوى من تطبيقاتنا — من الإعداد إلى الميزات المتقدمة.
+
+إذا كنت لا تزال بحاجة إلى مساعدة، فقط أرسل لنا رسالة وسنرد عليك في أسرع وقت ممكن.

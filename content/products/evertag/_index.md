@@ -19,7 +19,7 @@ screenshots:
 ---
 
 {{< hextra/hero-container
-  image="./heroimage/evertag_mac_600_345.png"
+  image="/products/evertag/heroimage/evertag_mac_600_345.png"
   imageWidth="600"
 >}}
 

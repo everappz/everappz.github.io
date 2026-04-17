@@ -23,7 +23,7 @@ screenshots:
 {{< force-dark >}}
 
 {{< hextra/hero-container
-  image="./heroimage/hero_1600.webp"
+  image="/products/evervideo/heroimage/hero_1600.webp"
   imageWidth="800"
   imageCard="true"
 >}}
@@ -191,7 +191,7 @@ Intuitive Design
 {{< cards cols="4">}}
 
   {{< card 
-    image="./screenshots/2880x1800/1.png" 
+    image="/products/evervideo/screenshots/2880x1800/1.png" 
     title="Video Player" 
     method="Fill"
     options="515x200 q90 webp"
@@ -200,7 +200,7 @@ Intuitive Design
   >}}
 
   {{< card 
-    image="./screenshots/2880x1800/3.png" 
+    image="/products/evervideo/screenshots/2880x1800/3.png" 
     title="Audio & Video Equalizer" 
     method="Fill"
     options="515x200 q90 webp"
@@ -209,7 +209,7 @@ Intuitive Design
   >}}
 
   {{< card 
-    image="./screenshots/2880x1800/6.png" 
+    image="/products/evervideo/screenshots/2880x1800/6.png" 
     title="Playlists Manager" 
     method="Fill"
     options="515x200 q90 webp"
@@ -218,7 +218,7 @@ Intuitive Design
   >}}
 
   {{< card 
-    image="./screenshots/2880x1800/5.png" 
+    image="/products/evervideo/screenshots/2880x1800/5.png" 
     title="Media Library" 
     method="Fill"
     options="515x200 q90 webp"
@@ -227,7 +227,7 @@ Intuitive Design
   >}}
 
   {{< card 
-    image="./screenshots/2880x1800/7.png"  
+    image="/products/evervideo/screenshots/2880x1800/7.png"  
     title="Cloud Storage" 
     method="Fill"
     options="515x200 q90 webp"
@@ -236,7 +236,7 @@ Intuitive Design
   >}}
 
   {{< card 
-    image="./screenshots/2880x1800/9.png"  
+    image="/products/evervideo/screenshots/2880x1800/9.png"  
     title="File Manager" 
     method="Fill"
     options="515x200 q90 webp"
