@@ -10,9 +10,9 @@ Hugo uses filename-based translations:
 
 Files go in the SAME folder as the English original.
 
-## Supported Languages (31)
+## Supported Languages (32)
 
-ar, ca, cs, da, de, el, es, fi, fr, he, hi, hr, hu, id, it, ja, ko, ms, nl, pl, pt, ro, ru, sk, sv, th, tr, uk, vi, zh-cn, zh-tw
+ar, ca, cs, da, de, el, es, fi, fr, he, hi, hr, hu, id, it, ja, ko, ms, nl, no, pl, pt, ro, ru, sk, sv, th, tr, uk, vi, zh-cn, zh-tw
 
 ## What to Translate
 
@@ -27,7 +27,7 @@ Each translated file is an EXACT copy of the English original with ONLY these te
 - DO NOT translate: `aliases`, `date`, `draft`, `layout`, `headless`, `appStoreUrl`, `appStoreId`, `screenshots`, or any other technical frontmatter fields
 
 ### Body Text
-- Hero badge `<span>` text (e.g., "14 Million Downloads Worldwide")
+- Hero badge `<span>` text (e.g., "14 Million Downloads")
 - Hero subtitle text inside `<strong>` tags
 - Hero paragraph bullet points (the text, not the `•` bullets)
 - Feature card `title="..."` and `subtitle=`...`` values
@@ -65,7 +65,7 @@ By subscribing, you agree to our [Privacy Policy](/legal/privacy-policy) and acc
 - Icon names: `icon="code"`, `icon="shield-check"`, etc.
 - Image paths and processing options
 - Form `action=` URL, `method=`, `name=`, `class=`, `id=` attributes
-- The honeypot div (`position: absolute; left: -5000px;`)
+- The honeypot div (`position: absolute; width: 0; height: 0; overflow: hidden;`)
 
 ### Special Cases
 - `EVERAPPZ` headline — keep as-is (brand name)

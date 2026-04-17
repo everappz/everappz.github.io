@@ -1,0 +1,91 @@
+# ══════════════════════════════════════
+# General / Site-wide
+# ══════════════════════════════════════
+
+# Copyright
+copyright: "© 2023 - 2026 EVERAPPZ SL"
+
+# Menu items
+home: "Hjem"
+products: "Produkter"
+blog: "Blogg"
+docs: "Dokumentasjon"
+support: "Støtte"
+legal: "Juridisk"
+contact: "Kontakt"
+about: "Om oss"
+
+# Footer
+footerHelp: "Hjelp"
+footerCompany: "Selskap"
+footerFAQ: "FAQ"
+footerContactSupport: "Kontakt støtte"
+
+# Cookie banner
+cookieText: "Vi bruker essensielle informasjonskapsler for at dette nettstedet skal fungere ordentlig."
+cookieLearnMore: "Les mer"
+cookieOK: "OK"
+
+# ══════════════════════════════════════
+# Shared / Generic strings
+# ══════════════════════════════════════
+
+# UI labels
+genericUserGuide: "Brukerhåndbok"
+genericHowTo: "Veiledning"
+
+# ══════════════════════════════════════
+# Page: Legal
+# ══════════════════════════════════════
+legalCardLegalNotice: "Juridisk merknad"
+legalCardPrivacy: "Personvernpolicy"
+legalCardCookie: "Informasjonskapselpolicy"
+legalCardTerms: "Vilkår og betingelser"
+legalCardLicense: "Lisensavtale"
+
+# ══════════════════════════════════════
+# Theme UI strings
+# ══════════════════════════════════════
+
+# Accessibility labels (screen reader only)
+closeBanner: "Lukk banner"
+menu: "Meny"
+mermaidDiagram: "Diagram"
+pdfViewer: "PDF-viser"
+permalinkLabel: "Permalenke for denne seksjonen"
+playbackTime: "Avspillingstid"
+searchResults: "Søkeresultater"
+skipToContent: "Hopp til innhold"
+tableOfContents: "Innholdsfortegnelse"
+terminalRecording: "Terminalopptak"
+togglePageContextMenu: "Veksle sidekontekstmeny"
+toggleSection: "Veksle seksjon"
+
+# Accessibility live-region/status text
+resultsFound: "%d resultater funnet"
+
+# User-facing UI text
+archives: "Arkiver"
+backToTop: "Bla til toppen"
+changeLanguage: "Bytt språk"
+changeTheme: "Bytt tema"
+copy: "Kopier"
+copied: "Kopiert!"
+copyAsMarkdown: "Kopier som Markdown"
+copyPage: "Kopier side"
+copyCode: "Kopier kode"
+dark: "Mørk"
+editThisPage: "Rediger denne siden på GitHub →"
+lastUpdated: "Sist oppdatert"
+light: "Lys"
+next: "Neste"
+noResultsFound: "Ingen resultater funnet."
+onThisPage: "På denne siden"
+more: "Mer"
+poweredBy: "Drevet av Hextra"
+previous: "Forrige"
+readMore: "Les mer →"
+searchPlaceholder: "Søk..."
+system: "System"
+tags: "Emner"
+viewAsMarkdown: "Vis som Markdown"
