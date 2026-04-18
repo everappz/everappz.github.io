@@ -76,14 +76,18 @@ Import music files directly from iCloud Drive and other apps:
 
 ## FAQ
 
-### Does Evermusic work with CarPlay?
+{{% details title="Does Evermusic work with CarPlay?" closed="true" %}}
 Yes. Starting with version 3.6, Evermusic fully supports Apple CarPlay. You can browse and play your music library from your car's built-in display.
+{{% /details %}}
 
-### Is Evermusic accessible for blind or low-vision users?
+{{% details title="Is Evermusic accessible for blind or low-vision users?" closed="true" %}}
 Yes. Evermusic 3.6 includes full VoiceOver support with descriptive labels, hints, and a simplified interface mode.
+{{% /details %}}
 
-### Can I edit FLAC tags on iPhone with Evermusic?
+{{% details title="Can I edit FLAC tags on iPhone with Evermusic?" closed="true" %}}
 Yes. Evermusic includes a built-in tag editor that works with FLAC, MP3, and AIFF files. You can edit titles, artists, albums, and artwork.
+{{% /details %}}
 
-### Does Evermusic remember where I stopped listening?
+{{% details title="Does Evermusic remember where I stopped listening?" closed="true" %}}
 Yes. When "Save Audio Player State" is enabled, Evermusic restores your queue, current track, and exact playback position when you reopen the app.
+{{% /details %}}

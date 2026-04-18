@@ -84,17 +84,22 @@ Browse your connected cloud account, open a music folder, and tap a file to play
 
 ## Frequently Asked Questions
 
-**Is Evermusic free?**
+{{% details title="Is Evermusic free?" closed="true" %}}
 Evermusic is free to download with optional premium features. Basic cloud streaming and offline playback are available in the free version.
+{{% /details %}}
 
-**Which cloud services does Evermusic support?**
+{{% details title="Which cloud services does Evermusic support?" closed="true" %}}
 Google Drive, Dropbox, Box, OneDrive, MediaFire, MEGA, Yandex.Disk, pCloud, HiDrive, MyDrive, SMB file shares, and WebDAV servers.
+{{% /details %}}
 
-**Can I listen to music offline with Evermusic?**
+{{% details title="Can I listen to music offline with Evermusic?" closed="true" %}}
 Yes. Download any album, artist, playlist, or individual track for offline playback directly within the app.
+{{% /details %}}
 
-**What audio formats does Evermusic play?**
+{{% details title="What audio formats does Evermusic play?" closed="true" %}}
 Evermusic supports MP3, FLAC, AAC, WAV, ALAC, AIFF, OPUS, OGG, and many other formats.
+{{% /details %}}
 
-**Do I still need iTunes to transfer music?**
+{{% details title="Do I still need iTunes to transfer music?" closed="true" %}}
 No. Upload your music to any supported cloud service from your computer, then stream or download it through Evermusic on your iPhone or iPad.
+{{% /details %}}

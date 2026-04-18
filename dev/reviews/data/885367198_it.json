@@ -498,5 +498,15 @@
     "content": "Compri la versione pro, poi ti ritrovi con la free che ha il doppio delle funzionalità e se le vuoi devi aggiornare a pro dalla versione free spendendo il doppio, ma è ridicolo.",
     "date": "2016-10-05T09:00:11-07:00",
     "version": "2.7"
+  },
+  {
+    "country": "it",
+    "id": "13962790554",
+    "author": "Expattinatore",
+    "rating": 1,
+    "title": "Lettura da cartella sincronizzata con Synology Drive",
+    "content": "L'app non permette di selezionare la cartella sincronizzata con Synology Drive\nLa sincronizzazione con synology è possibile solo utilizzando la funzione di sincronizzazione offline tramite protocollo SMB, WEBDAV o Online\nPurtroppo, per ben 2 volte, dopo aver effettuata la sincronizzazione, si è verificato un crash che ha cancellato tutti i file dalla cartella locale costringendomi a sincronizzare di nuovo\nCORREGGO: È SUCCESSO ALTRE 2 VOLTE\nA proposito, se ci sono molti file da sincronizzare, conviene far partire un brano e farlo ripetere all'infinito altrimenti la sincronizzazione si blocca",
+    "date": "2026-04-15T22:08:10-07:00",
+    "version": "8.5"
   }
 ]

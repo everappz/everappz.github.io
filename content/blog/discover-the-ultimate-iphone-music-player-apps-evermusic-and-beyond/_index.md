@@ -126,17 +126,22 @@ Amazon Music integrates with the Amazon ecosystem, offering voice control throug
 
 ## FAQ
 
-### What is the best free music player for iPhone?
+{{% details title="What is the best free music player for iPhone?" closed="true" %}}
 For playing your own files, Evermusic and VLC are both free options. Evermusic adds cloud storage integration, while VLC supports the widest range of file formats.
+{{% /details %}}
 
-### Can I play FLAC files on iPhone?
+{{% details title="Can I play FLAC files on iPhone?" closed="true" %}}
 Yes. Evermusic and VLC both support FLAC playback on iPhone. Apple Music and Spotify do not play FLAC files directly.
+{{% /details %}}
 
-### Which music player app works with cloud storage?
+{{% details title="Which music player app works with cloud storage?" closed="true" %}}
 Evermusic is the leading iPhone music player with built-in cloud storage support. It connects to iCloud Drive, Dropbox, Google Drive, OneDrive, pCloud, and other services.
+{{% /details %}}
 
-### Is Evermusic better than Apple Music?
+{{% details title="Is Evermusic better than Apple Music?" closed="true" %}}
 They serve different purposes. Evermusic plays your own music files from cloud storage and local storage. Apple Music is a subscription streaming service with a 100M+ song catalog. If you own your music files, Evermusic is the better choice.
+{{% /details %}}
 
-### Can I use Spotify offline on iPhone?
+{{% details title="Can I use Spotify offline on iPhone?" closed="true" %}}
 Yes, but only with a Spotify Premium subscription. Free Spotify users cannot download songs for offline playback.
+{{% /details %}}

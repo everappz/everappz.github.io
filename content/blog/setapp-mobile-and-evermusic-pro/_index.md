@@ -73,17 +73,22 @@ Ready to try it? Get Evermusic Pro through Setapp Mobile and start streaming you
 
 ## Frequently Asked Questions
 
-**Is Evermusic Pro free with Setapp Mobile?**
+{{% details title="Is Evermusic Pro free with Setapp Mobile?" closed="true" %}}
 Yes. Evermusic Pro is included in the Setapp Mobile subscription at no additional cost. You get the full premium version with all features unlocked.
+{{% /details %}}
 
-**What cloud services does Evermusic Pro support?**
+{{% details title="What cloud services does Evermusic Pro support?" closed="true" %}}
 Evermusic Pro connects to Google Drive, Dropbox, OneDrive, iCloud, Box, MEGA, Yandex.Disk, pCloud, HiDrive, and WebDAV servers. It also supports SMB file shares and NAS devices.
+{{% /details %}}
 
-**Can I listen offline with Evermusic Pro?**
+{{% details title="Can I listen offline with Evermusic Pro?" closed="true" %}}
 Yes. You can download individual tracks, albums, artists, or entire playlists for offline playback directly within the app.
+{{% /details %}}
 
-**What audio formats does Evermusic Pro play?**
+{{% details title="What audio formats does Evermusic Pro play?" closed="true" %}}
 Evermusic Pro supports FLAC, MP3, AAC, WAV, ALAC, AIFF, OPUS, OGG, and many other formats. It handles both lossless and lossy audio files.
+{{% /details %}}
 
-**Do I need a separate Setapp subscription for iPhone?**
+{{% details title="Do I need a separate Setapp subscription for iPhone?" closed="true" %}}
 Setapp Mobile is available as part of the Setapp subscription plan that includes iOS apps. Check the Setapp website for current pricing and plan options.
+{{% /details %}}

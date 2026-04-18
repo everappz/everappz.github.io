@@ -117,17 +117,22 @@ The tool is open source. Bug reports, feature suggestions, and pull requests are
 
 ## Frequently Asked Questions
 
-**Is AppKeywords.pro really free?**
+{{% details title="Is AppKeywords.pro really free?" closed="true" %}}
 Yes. It is a fully open-source, browser-based tool with no signup, no ads, and no data collection. Your metadata never leaves your device.
+{{% /details %}}
 
-**Does this tool work for multiple App Store localizations?**
+{{% details title="Does this tool work for multiple App Store localizations?" closed="true" %}}
 Yes. You can add metadata for each locale independently, and the export includes all languages in a single JSON file compatible with Fastlane.
+{{% /details %}}
 
-**Should I repeat my title keywords in the keyword field?**
+{{% details title="Should I repeat my title keywords in the keyword field?" closed="true" %}}
 No. Apple already indexes words from your title and subtitle. Repeating them in the keyword field wastes characters.
+{{% /details %}}
 
-**How often should I update my App Store keywords?**
+{{% details title="How often should I update my App Store keywords?" closed="true" %}}
 Review and refresh your keywords at least once per quarter. Adjust sooner if you notice ranking drops or seasonal shifts in search behavior.
+{{% /details %}}
 
-**Can I use this tool with Fastlane?**
+{{% details title="Can I use this tool with Fastlane?" closed="true" %}}
 Yes. The GitHub repo includes shell scripts to convert between Fastlane's metadata folder structure and the JSON format used by AppKeywords.pro.
+{{% /details %}}

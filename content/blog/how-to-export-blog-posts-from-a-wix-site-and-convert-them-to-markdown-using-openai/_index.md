@@ -334,20 +334,26 @@ The project is open source. Bug reports, feature suggestions, and pull requests 
 
 ## Frequently Asked Questions
 
-**Why can't I just use `requests` to scrape Wix blog posts?**
+{{% details title="Why can't I just use `requests` to scrape Wix blog posts?" closed="true" %}}
 Wix renders content dynamically with JavaScript. A standard HTTP request returns an empty page shell. Selenium runs a headless browser to get the fully rendered HTML.
+{{% /details %}}
 
-**Does this work with any Wix blog?**
+{{% details title="Does this work with any Wix blog?" closed="true" %}}
 Yes. The scraper reads the blog sitemap XML and processes each URL. You only need to update the `SITEMAP_URL` variable in `parse_blog_sitemap.py` to point to your site's sitemap.
+{{% /details %}}
 
-**Which OpenAI model does this use?**
+{{% details title="Which OpenAI model does this use?" closed="true" %}}
 The script uses GPT-4o by default. You can change the `API_MODEL` variable in `generate_md.py` to use a different model.
+{{% /details %}}
 
-**Can I use this to migrate from Wix to Hugo?**
+{{% details title="Can I use this to migrate from Wix to Hugo?" closed="true" %}}
 Yes. The output is standard Markdown with local image paths, which works directly with Hugo, Jekyll, Astro, and other static site generators. Add front matter to the generated `_index.md` files to complete the migration.
+{{% /details %}}
 
-**How much does the OpenAI API cost for this?**
+{{% details title="How much does the OpenAI API cost for this?" closed="true" %}}
 Cost depends on the number and length of your blog posts. A typical blog with 50 posts of moderate length costs a few dollars in API usage with GPT-4o.
+{{% /details %}}
 
-**Is this tool open source?**
+{{% details title="Is this tool open source?" closed="true" %}}
 Yes. The full source code is available on [GitHub](https://github.com/everappz/wix-blog-export) under an open-source license.
+{{% /details %}}

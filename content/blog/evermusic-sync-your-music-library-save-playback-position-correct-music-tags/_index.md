@@ -65,17 +65,22 @@ Evermusic detects and corrects invalid or incomplete ID3 tags using online datab
 
 ## Frequently Asked Questions
 
-**Does Evermusic auto-sync work with all cloud services?**
+{{% details title="Does Evermusic auto-sync work with all cloud services?" closed="true" %}}
 Yes. Automatic sync works with Dropbox, Google Drive, OneDrive, MEGA, WebDAV, and SMB. Select the folders you want monitored and Evermusic keeps your library current.
+{{% /details %}}
 
-**Can Evermusic save my audiobook position?**
+{{% details title="Can Evermusic save my audiobook position?" closed="true" %}}
 Yes. Enable playback position saving in audio settings. Evermusic remembers where you stopped for each file, so you can resume without manual bookmarks.
+{{% /details %}}
 
-**How does background metadata reading work?**
+{{% details title="How does background metadata reading work?" closed="true" %}}
 Evermusic reads ID3 tags and file metadata in the background while you use other features. It organizes your library by Artist, Album, and Genre automatically.
+{{% /details %}}
 
-**Will Evermusic fix my broken music tags?**
+{{% details title="Will Evermusic fix my broken music tags?" closed="true" %}}
 Yes. The automatic tag correction feature checks your files against online databases and fixes invalid, incomplete, or missing ID3 metadata.
+{{% /details %}}
 
-**Is Evermusic free to download?**
+{{% details title="Is Evermusic free to download?" closed="true" %}}
 Evermusic is free to download with optional premium features available via in-app purchase.
+{{% /details %}}

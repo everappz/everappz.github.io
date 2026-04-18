@@ -39,11 +39,14 @@ If you enjoy the video, share it with your friends and fellow music lovers.
 
 ## FAQ
 
-### What is Evermusic?
+{{% details title="What is Evermusic?" closed="true" %}}
 Evermusic is a music player for iOS and macOS that streams audio from cloud services like Dropbox, Google Drive, OneDrive, and iCloud Drive. It also supports offline playback and includes a built-in equalizer.
+{{% /details %}}
 
-### Which cloud services does Evermusic support?
+{{% details title="Which cloud services does Evermusic support?" closed="true" %}}
 Evermusic connects to Dropbox, Google Drive, OneDrive, iCloud Drive, pCloud, Yandex.Disk, and several other cloud storage providers.
+{{% /details %}}
 
-### Is Evermusic free?
+{{% details title="Is Evermusic free?" closed="true" %}}
 Evermusic is free to download with optional premium features available via in-app purchase.
+{{% /details %}}

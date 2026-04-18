@@ -138,16 +138,20 @@ This tutorial provides a high-level overview of implementing `AVAssetResourceLoa
 
 This approach powers the audio streaming engine in [Evermusic](https://apps.apple.com/app/evermusic-offline-music-player/id885367198), which streams music from Dropbox, Google Drive, OneDrive, Yandex.Disk, and other cloud services on iOS and macOS.
 
-## FAQ
+## Frequently Asked Questions
 
-### When should I use AVAssetResourceLoaderDelegate instead of a direct URL?
+{{% details title="When should I use AVAssetResourceLoaderDelegate instead of a direct URL?" closed="true" %}}
 Use it when the cloud service requires custom authorization headers, when you need disk caching for streamed audio, or when you want fine-grained control over how data is loaded and buffered.
+{{% /details %}}
 
-### Does this approach work with Swift?
+{{% details title="Does this approach work with Swift?" closed="true" %}}
 Yes. The `AVAssetResourceLoaderDelegate` protocol works the same way in Swift. The Objective-C examples here translate directly.
+{{% /details %}}
 
-### Can I use this for video streaming too?
+{{% details title="Can I use this for video streaming too?" closed="true" %}}
 Yes. `AVAssetResourceLoaderDelegate` works with any media type that AVPlayer supports, including video. The same custom-scheme approach applies.
+{{% /details %}}
 
-### Does this support background audio playback?
+{{% details title="Does this support background audio playback?" closed="true" %}}
 Yes, as long as you enable the "Audio, AirPlay, and Picture in Picture" background mode in your app's capabilities and configure your `AVAudioSession` correctly.
+{{% /details %}}

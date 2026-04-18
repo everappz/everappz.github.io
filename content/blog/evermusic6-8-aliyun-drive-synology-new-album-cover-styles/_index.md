@@ -75,14 +75,18 @@ Evermusic 6.8 focuses on three areas: broader cloud compatibility (Aliyun Drive,
 
 ## Frequently Asked Questions
 
-**How do I connect Synology NAS to Evermusic?**
+{{% details title="How do I connect Synology NAS to Evermusic?" closed="true" %}}
 Go to the Connections tab, select Synology, and enter your QuickConnectID. Evermusic connects directly without requiring IP addresses or VPN setup.
+{{% /details %}}
 
-**Is Aliyun Drive free to use with Evermusic?**
+{{% details title="Is Aliyun Drive free to use with Evermusic?" closed="true" %}}
 Yes. If you have an Aliyun Drive account, you can connect it to Evermusic at no additional cost. Storage limits depend on your Aliyun Drive plan.
+{{% /details %}}
 
-**Can I customize the album cover scroll style?**
+{{% details title="Can I customize the album cover scroll style?" closed="true" %}}
 Yes. Go to Settings > Audio Player > Personalization > Album Covers Scrolling Style and choose from six options: MacDoc, Linear, Rotary, Inverted Rotary, Cylinder, or CoverFlow.
+{{% /details %}}
 
-**Does the minimal player screen work with all devices?**
+{{% details title="Does the minimal player screen work with all devices?" closed="true" %}}
 Yes. The fullscreen album cover style is available on all supported iPhones, iPads, and Macs running Evermusic 6.8 or later.
+{{% /details %}}

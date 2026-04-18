@@ -68,17 +68,22 @@ Evermusic is built for anyone who stores music in the cloud or on local storage.
 
 ## FAQ
 
-### What audio formats does Evermusic support?
+{{% details title="What audio formats does Evermusic support?" closed="true" %}}
 Evermusic plays MP3, FLAC, WAV, AAC, M4A, AIFF, OGG, WMA, and other popular audio formats.
+{{% /details %}}
 
-### Can I use Evermusic without an internet connection?
+{{% details title="Can I use Evermusic without an internet connection?" closed="true" %}}
 Yes. Download tracks from your cloud storage for offline playback. Once downloaded, no internet is required.
+{{% /details %}}
 
-### Does Evermusic work on Mac?
+{{% details title="Does Evermusic work on Mac?" closed="true" %}}
 Yes. Evermusic is available on both iOS (iPhone/iPad) and macOS, with library sync across all devices.
+{{% /details %}}
 
-### Is Evermusic free to download?
+{{% details title="Is Evermusic free to download?" closed="true" %}}
 Yes. Evermusic is free to download with optional premium features available through in-app purchase.
+{{% /details %}}
 
-### How does iCloud Drive streaming work in Evermusic?
+{{% details title="How does iCloud Drive streaming work in Evermusic?" closed="true" %}}
 Connect your iCloud Drive account in the app, browse your music files, and tap to play. Tracks stream directly without needing to download first.
+{{% /details %}}

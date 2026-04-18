@@ -76,20 +76,26 @@ Upcoming development focuses on:
 
 ## Frequently Asked Questions
 
-**What audio formats does Flacbox support?**
+{{% details title="What audio formats does Flacbox support?" closed="true" %}}
 Flacbox plays FLAC, ALAC, APE, DSD, WavPack, TTA, RealAudio, MP3, AAC, OGG, and many other formats. It is designed primarily for lossless and hi-res audio.
+{{% /details %}}
 
-**Does Flacbox have an equalizer?**
+{{% details title="Does Flacbox have an equalizer?" closed="true" %}}
 Yes. Flacbox includes a 10-band equalizer with genre presets and manual frequency adjustment.
+{{% /details %}}
 
-**Can I listen to music offline with Flacbox?**
+{{% details title="Can I listen to music offline with Flacbox?" closed="true" %}}
 Yes. Download files from cloud storage or transfer them directly to the app for offline playback without an internet connection.
+{{% /details %}}
 
-**Does Flacbox work on Mac?**
+{{% details title="Does Flacbox work on Mac?" closed="true" %}}
 Yes. Flacbox runs on iPhone, iPad, and Mac with synchronized libraries and playback history across all devices.
+{{% /details %}}
 
-**What is CUE sheet support?**
+{{% details title="What is CUE sheet support?" closed="true" %}}
 CUE sheets define track boundaries within a single audio file. Flacbox reads CUE files to split album rips into individual tracks with proper metadata.
+{{% /details %}}
 
-**Is Flacbox free?**
+{{% details title="Is Flacbox free?" closed="true" %}}
 Flacbox is free to download with optional premium features available through in-app purchase.
+{{% /details %}}
