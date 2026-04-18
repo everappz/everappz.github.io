@@ -1,8 +1,8 @@
 ---
-title: "Evermusic 3.1: Crossfade Playback, Music Library Overhaul, and Backup Features"
+title: "Evermusic 3.1: Crossfade, Library Sync & Backup"
 date: 2018-06-19
-description: "Explore the new features in Evermusic 3.1 including crossfade playback, revamped music library, data backup, iPod integration, and enhanced tag editing for a better music experience on iOS."
-keywords: ["Evermusic update", "crossfade playback iOS", "cloud music app", "music backup app", "audio player queue", "music tag editor", "ID3 tag update", "iPod library integration", "music player iPhone"]
+description: "Evermusic 3.1 adds crossfade playback, a redesigned music library, cloud backup and restore, iPod integration, and improved tag editing for iOS."
+keywords: ["Evermusic update", "crossfade playback iOS", "cloud music app", "music backup app", "audio player queue", "music tag editor", "ID3 tag update", "iPod library integration", "music player iPhone", "crossfade music iOS", "music library sync cloud", "backup music playlists iOS"]
 tags: ["Evermusic", "crossfade", "music library", "backup", "audio queue", "tags", "cloud player", "offline player", "editor", "iPod library"]
 draft: false
 aliases:
@@ -15,70 +15,92 @@ cascade:
   type: docs
 ---
 
-## Evermusic 3.1 Update: New Features and Enhancements
+## Evermusic 3.1: What Changed and Why It Matters
 
-We are excited to introduce **Evermusic 3.1**, a major release that delivers powerful improvements to your music listening experience. This version brings new playback capabilities, a redesigned music library, enhanced file safety, and more intuitive controls. Here's everything that's new in version 3.1:
+**TL;DR:** Evermusic 3.1 introduces crossfade playback (3-15 seconds), a redesigned music library with sync, full backup/restore to cloud storage, iPod library browsing, improved queue controls, and better ID3 tag editing.
+
+This release delivers meaningful upgrades across playback, library management, and data safety. Here is everything new in version 3.1.
 
 ### Crossfade Playback
 
-Enjoy smoother transitions between songs with the **Crossfade Playback** feature. Designed for continuous listening, this option eliminates gaps between tracks—ideal for classical music, live recordings, and curated playlists. Users can configure the crossfade duration from 3 to 15 seconds or disable it entirely. To activate, navigate to:
+Crossfade eliminates silence between tracks by blending the end of one song into the start of the next. This works well for:
+
+- Classical music and live recordings
+- DJ-style playlists
+- Continuous background listening
+
+You can set the crossfade duration from **3 to 15 seconds** or turn it off entirely.
 
 `Settings → Audio Player → Crossfade Playback`
 
 ### Redesigned Music Library
 
-The **Music Library** has been reimagined with a cleaner, more intuitive interface:
+The music library interface has been rebuilt for speed and clarity:
 
-- Quickly access your songs, artists, and albums.
-- Use the new **Synchronization** button to refresh your library after uploading new tracks to your cloud storage.
-- Sort content by Name, Size, Track Number, Album, or Artist.
-- Adjust **metadata scanning speed** via:
+- Browse songs, artists, and albums in a cleaner layout
+- Tap the **Synchronization** button to refresh after uploading new tracks to cloud storage
+- Sort by Name, Size, Track Number, Album, or Artist
+- Adjust **metadata scanning speed** to balance performance and battery life
 
 `Settings → Music Library → Metadata Reading`
 
 ### Music Library Backup and Restore
 
-Keep your music data safe with the new **Backup & Restore** tool:
+Protect your music data with one-tap backup:
 
-- Back up your entire library, including playlists, song metadata, cover art, and app settings.
-- Archives are saved to cloud storage in a single file.
-- Restore with a single tap whenever you need.
-
-Access this via:
+- Backs up playlists, song metadata, cover art, and app settings
+- Saves a single archive file to your connected cloud storage
+- Restore everything with one tap on any device
 
 `Settings → Backup & Restore`
 
 ### Enhanced Audio Player Queue
 
-New options give you better control over the playback queue:
+New queue controls give you more flexibility:
 
-- Add songs to **Play Next** or **Play Later**.
-- Reorder or remove tracks easily.
+- **Play Next** — insert a song right after the current track
+- **Play Later** — add songs to the end of the queue
+- Reorder or remove tracks with simple gestures
 
 ### iPod Library Integration
 
-Browse your iPod library directly from Evermusic’s main screen. Add iPod tracks to your playback queue or transfer them to the app’s Files section.
+Browse your iPod library directly from the Evermusic home screen. You can add iPod tracks to your playback queue or copy them into the app's Files section.
 
-Categories include:
+Available categories:
 
 - Playlists
 - Albums
 - Artists
 - Genres
 
-### Account Editing Improvements
+### Cloud Account Editing
 
-You can now edit login credentials for all connected cloud services without removing and re-adding them. This makes managing accounts more seamless and less error-prone.
+Edit login credentials for any connected cloud service without removing and re-adding the account. This saves time when passwords change or tokens expire.
 
-### Updated Tags Editor
+### Improved Tags Editor
 
-The **Audio Tags Editor** now offers better handling of metadata correction:
+The **Audio Tags Editor** now handles metadata correction more reliably:
 
-- Use the improved **Identify** action to scan filenames and update ID3 tags.
-- Quickly fix broken metadata or add missing album info.
+- Use the **Identify** action to scan filenames and update ID3 tags automatically
+- Fix broken metadata or add missing album information in bulk
 
-### Thanks For Your Support
+[Download Evermusic from the App Store](https://apps.apple.com/us/app/evermusic-cloud-music-player/id885367198) and try these features today.
 
-Upgrade to Evermusic 3.1 today and enjoy all these new capabilities. Whether you’re listening offline, organizing your collection, or syncing cloud files, this release is focused on enhancing your experience every step of the way.
+---
 
-Thank you for supporting Evermusic. We’re already working on more exciting updates for future versions.
+## Frequently Asked Questions
+
+**What is crossfade playback in Evermusic?**
+Crossfade playback blends the ending of one track into the beginning of the next, creating seamless transitions. You can set the duration between 3 and 15 seconds in Settings → Audio Player → Crossfade Playback.
+
+**Can I back up my Evermusic playlists to cloud storage?**
+Yes. Evermusic 3.1 lets you back up your entire library — including playlists, metadata, cover art, and settings — to any connected cloud service as a single file.
+
+**Does Evermusic support iPod library browsing?**
+Yes. You can browse your iPod library by playlists, albums, artists, and genres directly from the Evermusic home screen and add tracks to your queue.
+
+**How do I fix incorrect song tags in Evermusic?**
+Use the built-in Tags Editor and tap the Identify action. Evermusic scans your filenames and updates ID3 tags with corrected metadata automatically.
+
+**Which cloud services does Evermusic support?**
+Evermusic works with Dropbox, Google Drive, OneDrive, MEGA, Box, Yandex.Disk, WebDAV, SMB/CIFS, and FTP servers.

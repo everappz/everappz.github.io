@@ -1,30 +1,29 @@
 ---
-title: "How to Export Blog Posts from a Wix Site and Convert Them to Markdown Using OpenAI"
+title: "Export Wix Blog Posts to Markdown with OpenAI"
 date: 2025-06-24
-description: "Learn how to extract blog posts from a Wix site, render them, and convert them to Markdown format using OpenAI. This guide covers all scripts, techniques, and code involved in the process."
-keywords: ["Wix blog export", "convert HTML to markdown", "OpenAI markdown conversion", "wix to markdown", "seo blog migration", "generate_md.py", "beautifulsoup scraper", "selenium render HTML", "OpenAI API automation"]
+description: "Automate Wix blog export using Python, Selenium, and OpenAI. Extract dynamic content, download images, and convert HTML to clean Markdown for Hugo or Jekyll."
+keywords: ["Wix blog export", "convert HTML to markdown", "OpenAI markdown conversion", "wix to markdown", "seo blog migration", "wix to hugo migration", "beautifulsoup scraper", "selenium render HTML", "OpenAI API automation", "migrate wix to static site", "wix blog scraper python"]
 tags: ["wix", "markdown", "blog migration", "openai", "scraping", "beautifulsoup", "selenium", "automation", "SEO", "tutorial"]
 draft: false
 cascade:
   type: docs
 ---
 
-## Introduction
+## Why Export Blog Posts from Wix?
 
-If you’re moving your blog away from Wix and want to convert your blog content into clean, structured Markdown format, this article shows how to automate the entire process using **Python, Selenium, BeautifulSoup**, and **OpenAI's GPT model**.
+**TL;DR:** This guide shows how to export Wix blog posts to Markdown using three Python scripts: a setup runner, a Selenium-based scraper, and an OpenAI-powered HTML-to-Markdown converter. The result is clean, portable Markdown files ready for Hugo, Jekyll, or any static site generator.
 
-This post walks you through the full setup and execution of three scripts:
-- `fetch_blog_posts.sh` (setup + pipeline runner)
-- `parse_blog_sitemap.py` (render HTML, extract and save)
-- `generate_md.py` (convert HTML to Markdown with OpenAI)
+Wix does not offer a native blog export to Markdown. If you are migrating to a static site generator like Hugo or Jekyll, you need to scrape the rendered pages, extract the content, and convert it. This tutorial automates the entire process using **Python, Selenium, BeautifulSoup**, and **OpenAI's GPT API**.
 
-## Step 1: Setting Up the Environment
+The pipeline uses three scripts:
 
-Create a shell script `fetch_blog_posts.sh` that:
-- Checks for Python 3
-- Sets up a virtual environment
-- Installs required dependencies
-- Runs the full scraper pipeline
+- `fetch_blog_posts.sh` — sets up the environment and runs the pipeline
+- `parse_blog_sitemap.py` — renders pages with Selenium, extracts content, downloads images
+- `generate_md.py` — converts HTML to Markdown via OpenAI
+
+## Step 1: Set Up the Environment
+
+Create `fetch_blog_posts.sh` to handle Python checks, virtual environment setup, dependency installation, and pipeline execution.
 
 ```bash
 #!/bin/bash
@@ -61,20 +60,18 @@ python3 parse_blog_sitemap.py
 deactivate
 ```
 
-## Step 2: Parsing the Blog Sitemap
+## Step 2: Scrape and Extract Blog Content
 
-Create `parse_blog_sitemap.py` to:
-- Load sitemap XML
-- Visit each blog page with **Selenium**
-- Extract the `<div id="content-wrapper">`
-- Download and localize all image assets
-- Save HTML to `_index.html`
-- Call Markdown converter (`generate_md.py`)
+`parse_blog_sitemap.py` does the heavy lifting:
 
-**Why this approach?**
-- **Wix content is dynamically rendered.** Using `requests` won't give you full HTML.
-- **Selenium** renders the page like a real browser.
-- We isolate content with `<div id="content-wrapper">` to remove layout/ads.
+1. Fetches the sitemap XML to discover all blog post URLs
+2. Renders each page with **Selenium** (required because Wix content is dynamically loaded)
+3. Extracts the `<div id="content-wrapper">` to isolate article content
+4. Downloads all images locally and updates `src` attributes
+5. Saves the cleaned HTML as `_index.html`
+6. Calls the Markdown converter
+
+**Why Selenium instead of requests?** Wix renders content with JavaScript. A simple HTTP request returns an empty shell. Selenium runs a headless Chrome browser to get the fully rendered HTML.
 
 ```python
 #!/usr/bin/env python3
@@ -196,13 +193,9 @@ if __name__ == "__main__":
     parse_sitemap_and_process()
 ```
 
-## Step 3: Converting HTML to Markdown via OpenAI
+## Step 3: Convert HTML to Markdown with OpenAI
 
-The `generate_md.py` script:
-- Reads `_index.html`
-- Extracts the prettified HTML
-- Sends it to OpenAI Chat API with a system prompt
-- Converts structure into headers, images, paragraphs
+`generate_md.py` reads each `_index.html` file, sends the content to OpenAI's Chat API, and writes the resulting Markdown.
 
 ```python
 #!/usr/bin/env python3
@@ -300,55 +293,61 @@ if __name__ == "__main__":
 
 ```
 
-**Benefits:**
-- You get **semantically clean Markdown**.
-- All images are converted to `![alt](filename.png)` format.
-- Perfect for migrating content into static site generators (like Hugo, Jekyll).
+## Output Folder Structure
 
-## Output Structure
-
-Example folder structure after execution:
+After running the pipeline, each blog post gets its own folder:
 
 ```
 downloads/
   your-post-title/
-    _index.html
-    _index.md
-    image1.png
+    _index.html      # Extracted and cleaned HTML
+    _index.md         # Converted Markdown
+    image1.png        # Downloaded images
     image2.png
 ```
 
-## API Key Setup
+## OpenAI API Key Setup
 
-Save your OpenAI API key in a file called `OPENAI_API_KEY.TXT` in the same directory.
+Save your API key in a file called `OPENAI_API_KEY.TXT` in the script directory:
 
 ```text
 sk-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 ```
 
-## One Command to Run It All
+## Run the Full Pipeline
 
 ```bash
 bash fetch_blog_posts.sh
 ```
 
-## Conclusion
-
-Using this technique, developers can extract dynamic Wix blog content and convert it into portable Markdown format for SEO-optimized static blogs. Combining **browser automation**, **intelligent parsing**, and **LLM formatting**, this solution is ideal for developers migrating off closed platforms like Wix.
-
+This single command sets up the environment, scrapes all blog posts from the sitemap, downloads images, and converts everything to Markdown.
 
 ## Contribute to the Project
 
-We welcome contributions from developers, content creators, and automation enthusiasts! If you have ideas to improve the Wix blog export workflow — whether it's refining the scraping logic, enhancing Markdown output, or integrating new publishing pipelines — your help is appreciated.
-
-You can contribute by:
-- Reporting bugs or issues
-- Suggesting feature enhancements
-- Improving documentation
-- Submitting pull requests with improvements
-
-The project is fully open-source and available on GitHub. Jump in and help shape the tool for a smoother migration experience from Wix to Markdown.
+The project is open source. Bug reports, feature suggestions, and pull requests are welcome.
 
 {{< cards cols="1" >}}
   {{< card link="https://github.com/everappz/wix-blog-export" title="Project on GitHub" icon="github" tag="open source" >}}
 {{< /cards >}}
+
+---
+
+## Frequently Asked Questions
+
+**Why can't I just use `requests` to scrape Wix blog posts?**
+Wix renders content dynamically with JavaScript. A standard HTTP request returns an empty page shell. Selenium runs a headless browser to get the fully rendered HTML.
+
+**Does this work with any Wix blog?**
+Yes. The scraper reads the blog sitemap XML and processes each URL. You only need to update the `SITEMAP_URL` variable in `parse_blog_sitemap.py` to point to your site's sitemap.
+
+**Which OpenAI model does this use?**
+The script uses GPT-4o by default. You can change the `API_MODEL` variable in `generate_md.py` to use a different model.
+
+**Can I use this to migrate from Wix to Hugo?**
+Yes. The output is standard Markdown with local image paths, which works directly with Hugo, Jekyll, Astro, and other static site generators. Add front matter to the generated `_index.md` files to complete the migration.
+
+**How much does the OpenAI API cost for this?**
+Cost depends on the number and length of your blog posts. A typical blog with 50 posts of moderate length costs a few dollars in API usage with GPT-4o.
+
+**Is this tool open source?**
+Yes. The full source code is available on [GitHub](https://github.com/everappz/wix-blog-export) under an open-source license.

@@ -1,9 +1,9 @@
 ---
-title: "Evermusic Reaches 3 Million Downloads Worldwide"
+title: "Evermusic Hits 3 Million Downloads: Features Overview"
 date: 2017-11-08
-description: "Celebrate Evermusic's milestone of 3 million downloads. Discover its powerful features including cloud music integration, offline playback, 10-band EQ, file manager, and more."
-keywords: ["Evermusic downloads", "3 million app installs", "iOS music player", "cloud music app", "offline music player", "music downloader", "audiobook player", "ID3 tag editor", "iPhone file manager", "music equalizer app"]
-tags: ["Evermusic", "downloads", "3million", "music apps", "cloud player", "offline player", "tag editor", "equalizer", "audiobooks", "file manager"]
+description: "Evermusic reached 3 million downloads. Explore its cloud music streaming, offline playback, 10-band EQ, audiobook support, file manager, and ID3 tag editor."
+keywords: ["Evermusic downloads", "iOS music player", "cloud music app", "offline music player iPhone", "music downloader iOS", "audiobook player iPhone", "ID3 tag editor iOS", "iPhone file manager", "music equalizer app", "best cloud music player", "stream music from NAS iPhone"]
+tags: ["Evermusic", "downloads", "milestone", "music apps", "cloud player", "offline player", "tag editor", "equalizer", "audiobooks", "file manager"]
 draft: false
 aliases:
   - /post/evermusic-3-million-downloads/
@@ -13,96 +13,101 @@ cascade:
   type: docs
 ---
 
-## A Major Milestone
+## 3 Million Downloads
 
-We’re thrilled to announce that **Evermusic** has officially reached **3 million downloads worldwide**! 🎉
+**Evermusic** has reached **3 million downloads worldwide**. Thousands of users rely on it daily to stream music from cloud storage, manage audio files, and listen offline on iOS and macOS.
 
-Every day, thousands of users rely on Evermusic to stream music from the cloud, manage audio files, and enjoy music offline. This milestone is a testament to your support, feedback, and dedication.
+**TL;DR:** Evermusic is a cloud-connected music and audiobook player for iPhone, iPad, and Mac. It streams from Google Drive, Dropbox, OneDrive, NAS, and more. Features include offline downloads, a 10-band equalizer, ID3 tag editing, a file manager, and audiobook playback with bookmarks.
 
-## A Big Thank You to Our Users
+## Thank You to Our Users
 
-We wouldn’t be here without you — our incredible community! You’ve helped shape Evermusic into what it is today through:
-
-- Bug reports
-- Feature requests
-- Real-world feedback
-
-Nearly every major update has included features or improvements suggested by our users. From small tweaks to major capabilities, **you’ve helped us build a better app.**
+User feedback has shaped nearly every major update. Bug reports, feature requests, and real-world testing have driven improvements from small UI tweaks to major new capabilities.
 
 ![Evermusic App Store Analytics](21260c_c78cc02e2bc043f6bd42fee3b446b50a~mv2.png)
 
-## Why Millions Choose Evermusic
+## Key Features That Set Evermusic Apart
 
-Evermusic is a full-featured cloud and offline music player for iOS and macOS that works across devices. Here’s why users around the world love it:
+### Personal Cloud Streaming
 
-## Personal Cloud Streaming
-
-**Create your own cloud music service.** Connect all your storage sources:
+Build your own cloud music service by connecting all your storage sources:
 
 - Dropbox, Google Drive, OneDrive, Box, MEGA
 - Yandex.Disk, MyDrive, pCloud, HiDrive
 - SMB file shares, WebDAV servers
 - External Wi-Fi drives or SD cards via Lightning reader
 
-Stream or download music anytime — no need to store everything on your device.
+Stream or download music anytime without storing everything on your device.
 
-## Audiobook and Music Player in One
+### Audiobook Player with Bookmarks
 
-- Save playback position automatically
-- Add multiple **bookmarks**
-- Control **playback speed** (0.5x to 2.0x)
-- Use **sleep timers** (1 min – 24 hrs)
-- Enjoy **repeat stop** playback
-- Cast to **Chromecast** or **Apple TV**
+Evermusic doubles as an audiobook player with features designed for long-form listening:
 
-## Download and Listen Offline
+- Automatic playback position saving
+- Multiple **bookmarks** per file
+- **Playback speed** control (0.5x to 2.0x)
+- **Sleep timers** (1 min to 24 hrs)
+- **Repeat stop** playback mode
+- Casting to **Chromecast** or **Apple TV**
 
-Download your music from cloud or local storage for offline use with:
+### Offline Downloads
+
+Download music from cloud or local storage for offline use:
 
 - One-tap album or artist download
-- Parallel download threads (up to 20 connections)
-- Advanced cache and resume features
+- Up to 20 parallel download connections
+- Advanced cache and resume support
 
-## 10-Band Equalizer + Presets
+### 10-Band Equalizer with Presets
 
-Fine-tune your audio using:
+Fine-tune your audio output:
 
-- 10-band EQ
+- 10-band EQ with visual controls
 - Custom and preset profiles
 - Preamplifier gain control (0 to 2.0)
 
-## Powerful File Manager
+### Built-In File Manager
 
-Evermusic lets you manage your entire audio file collection:
+Manage your entire audio collection directly in the app:
 
 - Rename, move, delete, upload, and download files
 - Organize folders inside any connected cloud storage
-- Use the **Open In** feature for sharing files with other apps
+- Share files with other apps using **Open In**
 
-## Built-In ID3 Tag Editor
+### ID3 Tag Editor
 
-Fix corrupted metadata or missing info with the built-in tag editor:
+Fix metadata issues without leaving the app:
 
-- Edit or auto-complete artist, album, genre, year
+- Edit or auto-complete artist, album, genre, and year
 - Auto-fetch album covers
-- Auto-detect and fix broken encoding
+- Auto-detect and fix broken text encoding
 
-## Extend Storage with SD Cards
+### External Storage via SD Cards
 
-Don’t want to store files on your iPhone or iPad?
+Free up device space by storing music externally:
 
-- Use external **Lightning SD/microSD readers**
-- Store music on the card while streaming via the Evermusic app
-- Free up device space for other apps and media
+- Use **Lightning SD/microSD readers** to access music on cards
+- Stream directly from the card through Evermusic
+- Keep your iPhone or iPad storage available for other content
 
-## Download the App
+## Download Evermusic
 
 Evermusic is free on the App Store with optional premium features.
 
-👉 [Download Evermusic](https://itunes.apple.com/us/app/evermusic-offline-music-player-cloud-streamer/id885367198?ls=1&mt=8)
+[Download Evermusic](https://itunes.apple.com/us/app/evermusic-offline-music-player-cloud-streamer/id885367198?ls=1&mt=8)
 
-## Final Thoughts
+## Frequently Asked Questions
 
-With a blend of **cloud integration**, **offline listening**, **audiobook features**, and **playlist control**, Evermusic helps you build your perfect personal music streaming platform.
+**Is Evermusic free to use?**
+Yes. Evermusic is free to download with core features available at no cost. Premium features like the equalizer and advanced cloud options are available through an optional upgrade.
 
-Whether you're listening at home, on the go, or offline, Evermusic offers power and flexibility unmatched by most iOS music players.
+**Can Evermusic play audiobooks?**
+Yes. Evermusic saves your playback position, supports bookmarks, adjustable playback speed (0.5x to 2.0x), and sleep timers — making it suitable for audiobooks and podcasts.
+
+**What cloud services does Evermusic connect to?**
+Dropbox, Google Drive, OneDrive, Box, MEGA, Yandex.Disk, MyDrive, pCloud, HiDrive, SMB file shares, and WebDAV servers.
+
+**Can I use an SD card with Evermusic?**
+Yes. Connect a Lightning or USB-C SD card reader to your iPhone or iPad and stream music directly from the card through Evermusic.
+
+**Does Evermusic work on Mac?**
+Yes. Evermusic is available for both iOS and macOS, with cloud streaming and offline playback on all platforms.

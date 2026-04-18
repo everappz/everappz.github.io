@@ -1,9 +1,9 @@
 ---
-title: "Evermusic 3.6: What's New"
+title: "Evermusic 3.6: CarPlay, VoiceOver, and More"
 date: 2019-05-19
-description: "Explore the new features in Evermusic 3.6 including CarPlay integration, VoiceOver accessibility, mixed audio output, iCloud Drive support, and more."
-keywords: ["Evermusic 3.6", "CarPlay music apps", "VoiceOver audio player", "iPhone audio player features", "FLAC tag editor", "restore playback state", "edit music artwork", "cloud music player"]
-tags: ["Evermusic", "CarPlay", "VoiceOver", "music apps", "accessibility", "iCloud Drive", "tag editor", "playback features", "audiobooks", "streaming"]
+description: "Evermusic 3.6 adds CarPlay support, VoiceOver accessibility, mixed audio output, artwork editing, and iCloud Drive imports."
+keywords: ["Evermusic CarPlay", "music player CarPlay iPhone", "VoiceOver music app iOS", "FLAC tag editor iPhone", "edit album artwork iOS", "iCloud Drive music import", "audio player accessibility iOS", "mixed audio output iPhone"]
+tags: ["Evermusic", "CarPlay", "VoiceOver", "accessibility", "iCloud Drive", "tag editor", "artwork editing", "iOS update"]
 draft: false
 aliases:
   - /post/evermusic-3-6-car-play-voice-over-artworks-editing/
@@ -12,58 +12,78 @@ cascade:
   type: docs
 ---
 
-## Intro
+**TL;DR:** Evermusic 3.6 adds Apple CarPlay integration, full VoiceOver accessibility, mixed audio output, automatic playback resume, artwork and tag editing for FLAC/MP3/AIFF, and iCloud Drive file imports.
 
-Evermusic 3.6 brings a host of thoughtful updates to make your listening experience more seamless, accessible, and feature-rich. Whether you're a music lover, audiobook enthusiast, or someone who needs a more flexible audio player, these new features are designed to empower your daily audio journey.
+---
 
-## Apple CarPlay Integration
+## What's New in Evermusic 3.6
 
-CarPlay transforms your iPhone into a smarter, safer companion for your drive. With Evermusic 3.6, you can now access your playlists and favorite albums directly from your car’s built-in display. Navigate your music safely, all while keeping your eyes on the road and hands on the wheel.
+Evermusic 3.6 delivers six major features focused on car playback, accessibility, and library management. Here is what changed.
 
-## VoiceOver Accessibility
+## Apple CarPlay Support
 
-We’re proud to offer full support for VoiceOver, Apple’s gesture-based screen reader for users with visual impairments. In Evermusic 3.6:
+Evermusic now works with Apple CarPlay. Access your playlists and albums directly from your car's built-in display.
 
-- All UI elements include descriptive labels and accessibility hints.
-- A dedicated **Simple User Interface** mode in **Settings → Accessibility** removes visual clutter.
-- VoiceOver users can now enjoy a smooth, intuitive experience throughout the app.
+- Browse and play music from the car screen
+- Controls designed for safe, eyes-on-the-road use
+- Works with any CarPlay-compatible vehicle
 
-## Mixed Audio Output Mode
+## Full VoiceOver Accessibility
 
-Want to mix Evermusic playback with sounds from another app? Now you can!
+Evermusic 3.6 includes complete VoiceOver support for users with visual impairments:
 
-- Go to **Settings → Audio Player → General → Audio Output Mode**.
-- Enable mixed output for simultaneous audio from Evermusic and other sources—perfect for DJ sets or gaming.
+- All UI elements have descriptive labels and accessibility hints
+- **Simple User Interface** mode in **Settings > Accessibility** removes visual clutter
+- Smooth navigation throughout the entire app
 
-## Seamless Playback Resume
+This makes Evermusic one of the few third-party music players with thorough VoiceOver support on iOS.
 
-Your listening progress is now saved automatically. When you return to the app:
+## Mixed Audio Output
 
-- Your **queue**, **current track**, and **playback position** are restored.
-- Ideal for **audiobook** and **podcast** users.
+Play Evermusic audio alongside other apps simultaneously.
 
-To enable:  
-**Settings → Audio Player → General → Save Audio Player State → Enabled**
+- Enable in **Settings > Audio Player > General > Audio Output Mode**
+- Useful for mixing music with game audio, navigation, or DJ apps
 
-## Editable Artworks and Tags
+## Automatic Playback Resume
 
-Evermusic 3.6 makes personalizing your music easy:
+Evermusic saves your listening position automatically. When you reopen the app:
 
-- Edit album covers for **FLAC**, **MP3**, **AIFF**, and playlists.
-- Use the built-in **tag editor** to change artwork in just one tap.
+- Your **queue**, **current track**, and **playback position** are restored
+- Ideal for audiobooks and podcasts
 
-Organizing your library has never looked better.
+Enable at: **Settings > Audio Player > General > Save Audio Player State**
 
-## iCloud Drive Integration
+## Artwork and Tag Editing
 
-Import tracks directly from iCloud Drive and other compatible apps. Evermusic 3.6 supports:
+Edit album covers and metadata directly in Evermusic:
 
-- Seamless cloud imports
-- File management from native **Files** app
-- Fast access to your entire music collection
+- Change artwork for **FLAC**, **MP3**, **AIFF** files and playlists
+- Edit song title, artist, and album with the built-in tag editor
+- Update artwork in one tap
 
-## Conclusion
+## iCloud Drive File Import
 
-With Evermusic 3.6, we're setting a new standard for iOS audio apps. From **CarPlay** support to **VoiceOver** accessibility, from **mixed output** to **artwork editing**, every feature is designed to bring more control, clarity, and convenience to your listening.
+Import music files directly from iCloud Drive and other apps:
 
-Ready to upgrade? Update your app and enjoy a smarter, more powerful way to listen.
+- Browse files through the native iOS **Files** app
+- Import tracks into Evermusic with one tap
+- Access your full cloud music collection
+
+## Get the Update
+
+[Download Evermusic](https://apps.apple.com/app/evermusic-offline-music-player/id885367198) from the App Store or update to version 3.6 to access all new features.
+
+## FAQ
+
+### Does Evermusic work with CarPlay?
+Yes. Starting with version 3.6, Evermusic fully supports Apple CarPlay. You can browse and play your music library from your car's built-in display.
+
+### Is Evermusic accessible for blind or low-vision users?
+Yes. Evermusic 3.6 includes full VoiceOver support with descriptive labels, hints, and a simplified interface mode.
+
+### Can I edit FLAC tags on iPhone with Evermusic?
+Yes. Evermusic includes a built-in tag editor that works with FLAC, MP3, and AIFF files. You can edit titles, artists, albums, and artwork.
+
+### Does Evermusic remember where I stopped listening?
+Yes. When "Save Audio Player State" is enabled, Evermusic restores your queue, current track, and exact playback position when you reopen the app.

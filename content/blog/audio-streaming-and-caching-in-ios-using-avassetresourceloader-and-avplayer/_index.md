@@ -1,9 +1,9 @@
 ---
-title: "Audio Streaming and Caching in iOS using AVAssetResourceLoader and AVPlayer"
+title: "iOS Audio Streaming with AVAssetResourceLoader"
 date: 2015-06-20
-description: "Learn how to stream and cache audio in iOS using AVAssetResourceLoader and AVPlayer, with a real-life example from Evermusic 1.5."
-keywords: ["iOS audio streaming", "AVAssetResourceLoaderDelegate", "AVURLAsset", "AVPlayer", "AVFoundation", "AVAssetResourceLoadingRequest", "custom audio player", "cloud streaming", "media framework", "Evermusic"]
-tags: ["streaming", "AVPlayer", "AVFoundation", "iOS", "AVAssetResourceLoader", "AVAssetResourceLoaderDelegate", "AVAssetResourceLoadingRequest", "AVURLAsset", "audio", "tutorial"]
+description: "Learn how to stream and cache audio in iOS using AVAssetResourceLoaderDelegate and AVPlayer with custom URL schemes and disk caching."
+keywords: ["iOS audio streaming", "AVAssetResourceLoaderDelegate", "AVURLAsset", "AVPlayer tutorial", "AVFoundation audio", "AVAssetResourceLoadingRequest", "custom audio player iOS", "cloud audio streaming iOS", "audio caching iOS", "Swift AVPlayer custom scheme"]
+tags: ["streaming", "AVPlayer", "AVFoundation", "iOS", "AVAssetResourceLoader", "tutorial", "Objective-C", "audio caching"]
 draft: false
 aliases:
   - /post/audio-streaming-and-caching-in-ios-using-avassetresourceloader-and-avplayer/
@@ -16,24 +16,30 @@ cascade:
 
 ![](diagram.png)
 
-## Intro
+**TL;DR:** Use `AVAssetResourceLoaderDelegate` with a custom URL scheme to intercept AVPlayer's resource loading. This lets you add custom authorization headers for cloud services, cache audio to disk, and control streaming behavior -- all without writing a local HTTP proxy. Full source code is on [GitHub](http://github.com/leshkoapps/AVAssetResourceLoader).
 
-Welcome to this tutorial where you'll learn how to harness the power of `AVAssetResourceLoaderDelegate` with a real-life example from our app, Evermusic 1.5. We recently introduced the ability to stream music from Yandex.Disk and Web Dav, in addition to Dropbox and Google Drive. If you're curious about how we implemented these services in Evermusic and how you can utilize `AVAssetResourceLoader` and `AVPlayer` in your own apps, read on.
+---
 
-## Understanding AVPlayer and Resource Loading
+## Why AVPlayer Needs a Custom Resource Loader
 
-`AVPlayer` is a versatile tool for playing audio files from both local storage and remote hosts. To stream audio from a cloud service, you'd typically need a direct URL to the file and initialize `AVPlayer` with that URL. This method works for many cloud services like Dropbox, Box, and Google Drive. However, it falls short when playing audio from Yandex.Disk and Web Dav due to the authorization header required for GET requests. Unfortunately, `AVPlayer` doesn't offer a direct way to handle this.
+`AVPlayer` plays audio from local files and remote URLs. For most cloud services (Dropbox, Google Drive, Box), you can pass a direct download URL and playback works out of the box.
 
-So, we explored a solution and stumbled upon the `resourceLoader` object in `AVURLAsset`. This nifty API allows controlled access to remote files for `AVPlayer`, acting like a local HTTP proxy without the complexity.
+However, some services like **Yandex.Disk** and **WebDAV** require custom authorization headers on GET requests. `AVPlayer` provides no built-in way to inject these headers.
 
-The key insight here is that `AVPlayer` leverages `resourceLoader` when it doesn't know how to load a resource. We trick `AVPlayer` by changing the protocol, forcing it to delegate resource loading to our app. To achieve this, you'll need to implement two `AVAssetResourceLoaderDelegate` methods:
+The solution: use the `resourceLoader` property of `AVURLAsset`. This API intercepts resource loading requests, acting like a local HTTP proxy without the complexity.
 
-1. `resourceLoader:shouldWaitForLoadingOfRequestedResource:` — called when assistance is required to load a resource. Save `AVAssetResourceLoadingRequest` and start data loading operations.
-2. `resourceLoader:didCancelLoadingRequest:` — called when a request is canceled or superseded.
+### How It Works
 
-## Creating Your Custom AVPlayer
+`AVPlayer` uses `resourceLoader` when it does not recognize the URL scheme. By replacing `https://` with a custom scheme (e.g., `customscheme://`), you force AVPlayer to delegate all loading to your app.
 
-Now, let's create a custom AVPlayer using a different scheme:
+You need to implement two `AVAssetResourceLoaderDelegate` methods:
+
+1. **`resourceLoader:shouldWaitForLoadingOfRequestedResource:`** -- called when AVPlayer needs data. Save the `AVAssetResourceLoadingRequest` and start your data loading operation.
+2. **`resourceLoader:didCancelLoadingRequest:`** -- called when a request is canceled or superseded.
+
+## How to Create a Custom AVPlayer
+
+Set up an AVPlayer with a custom URL scheme:
 
 ```objc
 NSURL *url = [NSURL URLWithString:@"customscheme://host/audio.mp3"];
@@ -45,15 +51,15 @@ self.player = [AVPlayer playerWithPlayerItem:item];
 [self addObserversForPlayer];
 ```
 
-These lines define a custom URL with your scheme, set up an AVURLAsset with a delegate on the main queue, create an AVPlayerItem from the asset, and finally, initialize an AVPlayer.
+This code:
+- Defines a URL with your custom scheme
+- Creates an `AVURLAsset` with a delegate on the main queue
+- Builds an `AVPlayerItem` from the asset
+- Initializes `AVPlayer`
 
-## Custom Resource Loader
+## Implementing the Resource Loader Delegate
 
-Next, create a custom class, such as LSFilePlayerResourceLoader, responsible for loading data from the server and passing it back to AVURLAsset. This class should have two parameters in its init method: the requested file URL and an object (e.g., YDSession) responsible for fetching data from the cloud server.
-
-You'll store LSFilePlayerResourceLoader objects in a dictionary, using the resource URL as the key. The AVAssetResourceLoaderDelegate implementation will look like this:
-
-Create a class `LSFilePlayerResourceLoader` to handle data loading from the server and forward it to `AVURLAsset`.
+Create a class called `LSFilePlayerResourceLoader` to handle data fetching from the server and pass it back to `AVURLAsset`. Store loader instances in a dictionary keyed by resource URL.
 
 ```objc
 - (BOOL)resourceLoader:(AVAssetResourceLoader *)resourceLoader shouldWaitForLoadingOfRequestedResource:(AVAssetResourceLoadingRequest *)loadingRequest {
@@ -78,7 +84,7 @@ Create a class `LSFilePlayerResourceLoader` to handle data loading from the serv
 }
 ```
 
-These methods check the resourceURL scheme, get or create an LSFilePlayerResourceLoader, and add the loading request to the loader. If the scheme is not recognized, it returns NO.
+These methods check the URL scheme, create or retrieve a loader, and add the request to the loader's queue. Unrecognized schemes return `NO`.
 
 ## LSFilePlayerResourceLoader Interface
 
@@ -107,25 +113,41 @@ These methods check the resourceURL scheme, get or create an LSFilePlayerResourc
 @end
 ```
 
-This interface provides methods for managing requests in the loader queue and defines delegate methods for handling resource loading status.
+## Data Loading: Two-Step Process
 
-## Data Loading Operations
+When a loading request enters the queue, two operations execute in sequence:
 
-Now, when you add a loading request to the queue, it's saved in the pendingRequests array, and a data loading operation starts. This operation involves two steps: contentInfoOperation and dataOperation.
+- **contentInfoOperation** -- queries content length, MIME type, and byte-range support
+- **dataOperation** -- fetches file data starting from the `requestedOffset`
 
-- **contentInfoOperation**: identifies content length, type, and range support.
-- **dataOperation**: loads file data using `requestedOffset` from the request.
+## Disk Caching Strategy
 
-## Caching Strategy
+Downloaded data is written to a temporary file on disk. Subsequent requests for the same content are served from this cache, avoiding redundant network calls. This approach:
 
-Downloaded data is cached on disk using a temporary file. When requested, it's read from cache to fulfill future requests.
+- Reduces bandwidth usage
+- Enables near-instant replays
+- Supports seek operations within cached ranges
 
-## Processing Requests
+## Processing Pending Requests
 
-`processPendingRequests` handles filling `contentInformationRequest` and delivering cached data. Completed requests are removed from the queue.
+The `processPendingRequests` method fills each request's `contentInformationRequest` with metadata and delivers cached byte ranges. Completed requests are removed from the queue.
 
-## Final Thoughts
+## Source Code and Next Steps
 
-This should give you a solid foundation for implementing `AVAssetResourceLoaderDelegate` with your app, specifically for streaming audio from cloud services that require custom handling of authorization headers.
+This tutorial provides a high-level overview of implementing `AVAssetResourceLoaderDelegate` for cloud audio streaming with custom authorization headers. The full source code is available on [GitHub](http://github.com/leshkoapps/AVAssetResourceLoader).
 
-Please note that this is a complex and detailed topic, and this tutorial provides a high-level overview. The source code mentioned in the tutorial is available on [GitHub](http://github.com/leshkoapps/AVAssetResourceLoader) for further reference and exploration. 
+This approach powers the audio streaming engine in [Evermusic](https://apps.apple.com/app/evermusic-offline-music-player/id885367198), which streams music from Dropbox, Google Drive, OneDrive, Yandex.Disk, and other cloud services on iOS and macOS.
+
+## FAQ
+
+### When should I use AVAssetResourceLoaderDelegate instead of a direct URL?
+Use it when the cloud service requires custom authorization headers, when you need disk caching for streamed audio, or when you want fine-grained control over how data is loaded and buffered.
+
+### Does this approach work with Swift?
+Yes. The `AVAssetResourceLoaderDelegate` protocol works the same way in Swift. The Objective-C examples here translate directly.
+
+### Can I use this for video streaming too?
+Yes. `AVAssetResourceLoaderDelegate` works with any media type that AVPlayer supports, including video. The same custom-scheme approach applies.
+
+### Does this support background audio playback?
+Yes, as long as you enable the "Audio, AirPlay, and Picture in Picture" background mode in your app's capabilities and configure your `AVAudioSession` correctly.

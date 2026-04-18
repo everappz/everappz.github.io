@@ -1,8 +1,8 @@
 ---
-title: "Flacbox Celebrates 1 Million Worldwide Downloads - Your Gateway to Hi-Res Music"
+title: "Flacbox Hits 1 Million Downloads: Hi-Res Audio"
 date: 2023-09-06
-description: "Flacbox reaches 1 million global downloads! Discover the features that make Flacbox the ultimate hi-res audio player for iOS and Mac."
-keywords: ["Flacbox music player", "hi-res audio iOS", "lossless music app", "DSD FLAC APE player", "offline FLAC music", "Flacbox download milestone", "high quality audio iPhone", "Everappz audio apps", "CUE playlist player", "1 million downloads"]
+description: "Flacbox reaches 1 million global downloads. Explore the features that make it the top hi-res audio player for iPhone, iPad, and Mac — FLAC, DSD, APE, equalizer, and offline playback."
+keywords: ["Flacbox music player", "hi-res audio iOS", "lossless music app", "DSD FLAC APE player", "offline FLAC music", "Flacbox download milestone", "high quality audio iPhone", "Everappz audio apps", "CUE playlist player", "1 million downloads", "best FLAC player iOS", "hi-res music player Mac"]
 tags: ["Flacbox", "lossless", "hi-res audio", "music player", "audio", "milestone", "iOS apps", "What's New"]
 draft: false
 aliases:
@@ -12,63 +12,84 @@ cascade:
   type: docs
 ---
 
-We are thrilled to share a major milestone — **Flacbox** has officially surpassed **1 million downloads** across the globe. This achievement celebrates not only the growth of our app but the power of a global community that truly values high-resolution, lossless music.
+**TL;DR:** Flacbox has surpassed 1 million downloads worldwide. It supports FLAC, ALAC, APE, DSD, and other lossless formats with a 10-band equalizer, M3U/CUE playlists, offline playback, and cross-device sync across iPhone, iPad, and Mac.
 
-Thank you to every listener, tester, and audiophile who helped shape Flacbox into what it is today. Your feedback, bug reports, and feature suggestions continue to guide our evolution.
+**Flacbox** has officially passed **1 million downloads** globally. This milestone reflects a growing community of listeners who value high-resolution, lossless audio on iOS and Mac.
 
-## Why Flacbox Stands Out
+Thank you to every user who has shared feedback, reported bugs, and suggested features. Your input directly shapes how Flacbox evolves.
 
-Flacbox is more than just a music player — it's a hi-res audio experience built for those who demand precision, quality, and flexibility. Here's what makes it the go-to music app for discerning listeners:
+## What Makes Flacbox the Go-To Hi-Res Player
 
 ### Lossless Audio Format Support
 
-Experience true audio fidelity with support for:
+Flacbox plays your music exactly as it was recorded. Supported formats:
 
-- FLAC  
-- ALAC  
-- APE  
-- DSD  
-- WV  
-- TTA  
-- RA  
-- RM  
-
-Flacbox plays back your music exactly as it was recorded, offering crystal-clear detail for every genre.
+- **FLAC** — the most popular lossless format
+- **ALAC** — Apple's lossless codec
+- **APE** — Monkey's Audio
+- **DSD** — Direct Stream Digital for audiophile-grade playback
+- **WV** — WavPack
+- **TTA** — True Audio
+- **RA / RM** — RealAudio
 
 ### M3U and CUE Playlist Support
 
-Manage and organize your music with support for both **M3U** and **CUE** playlists. Whether you're archiving an entire album or curating a DJ-style mix, Flacbox has you covered.
+Organize your library with **M3U** and **CUE** playlists. CUE support is especially useful for playing full album rips with proper track splitting.
 
 ### Built-in 10-Band Equalizer
 
-Customize your sound with a powerful 10-band equalizer and genre-specific presets. Adjust frequency ranges manually or use quick presets to match your listening environment.
+Fine-tune your listening experience:
+
+- 10 adjustable frequency bands
+- Genre-specific presets (Rock, Jazz, Classical, and more)
+- Manual control for precise sound shaping
 
 ### Offline Playback
 
-Download tracks, albums, or entire folders for offline playback. Great for traveling, commuting, or areas with no data coverage — your music is always available.
+Download tracks, albums, or entire folders for offline listening. Your music stays available during flights, commutes, and areas without connectivity.
 
-### Cross-Device Synchronization
+### Cross-Device Sync (iPhone, iPad, Mac)
 
-Keep your music in sync across all your devices — **iPhone, iPad, and Mac** — so your library and playback history follow you wherever you go.
+Your library, playlists, and playback history stay synchronized across all Apple devices. Start a song on your iPhone and continue on your Mac.
 
-## Thank You to Our Global Audio Community
+## What Users Helped Build
 
-This milestone wouldn't be possible without you — our loyal users. Your enthusiasm for **lossless audio** and **powerful playback tools** is what drives us. You’ve helped us:
+Since launch, the community has driven:
 
-- Improve app performance  
-- Expand cloud support  
-- Fix hundreds of bugs  
-- Build new features for pro-level control  
+- Significant performance improvements
+- Expanded cloud storage support
+- Hundreds of bug fixes
+- Pro-level features like gapless playback and audio normalization
 
-We're incredibly grateful for the trust you've placed in Flacbox, and we’re more motivated than ever to keep pushing the boundaries of what's possible in an iOS music player.
+## What Comes Next
 
-## What’s Next?
+Upcoming development focuses on:
 
-We’re not stopping at 1 million. Stay tuned for new features, deeper integrations, and enhancements focused on:
+- Advanced playback controls
+- Expanded playlist management tools
+- Smart file organization
+- Audiophile-grade audio output options
 
-- Advanced playback controls  
-- Expanded playlist tools  
-- Smart file organization  
-- Audiophile-grade output options  
+[Download Flacbox from the App Store](https://apps.apple.com/us/app/flacbox-flac-player-equalizer/id1097564256) and experience hi-res audio on your iPhone, iPad, or Mac.
 
-Your feedback is always welcome. Reach out, review the app, or send us your ideas — we're building this together.
+---
+
+## Frequently Asked Questions
+
+**What audio formats does Flacbox support?**
+Flacbox plays FLAC, ALAC, APE, DSD, WavPack, TTA, RealAudio, MP3, AAC, OGG, and many other formats. It is designed primarily for lossless and hi-res audio.
+
+**Does Flacbox have an equalizer?**
+Yes. Flacbox includes a 10-band equalizer with genre presets and manual frequency adjustment.
+
+**Can I listen to music offline with Flacbox?**
+Yes. Download files from cloud storage or transfer them directly to the app for offline playback without an internet connection.
+
+**Does Flacbox work on Mac?**
+Yes. Flacbox runs on iPhone, iPad, and Mac with synchronized libraries and playback history across all devices.
+
+**What is CUE sheet support?**
+CUE sheets define track boundaries within a single audio file. Flacbox reads CUE files to split album rips into individual tracks with proper metadata.
+
+**Is Flacbox free?**
+Flacbox is free to download with optional premium features available through in-app purchase.

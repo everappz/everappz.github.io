@@ -1,9 +1,9 @@
 ---
-title: "Flacbox 1.6 for iOS: Automatic Music Library Sync, 10-Band Equalizer, and OPUS Support"
+title: "Flacbox 1.6: Auto Sync, Equalizer, OPUS Support"
 date: 2017-01-25
-description: "Discover what's new in Flacbox 1.6 for iPhone and iPad. Explore automatic sync, OPUS file format support, external flash playback, and a powerful 10-band equalizer."
-keywords: ["Flacbox music player", "FLAC player iOS", "10-band equalizer", "automatic sync", "external flash drive", "OPUS audio iPhone", "FLAC streaming", "hi-res music app"]
-tags: ["Flacbox", "equalizer", "music library", "OPUS", "FLAC", "external storage", "sync", "audio player", "iOS apps"]
+description: "Flacbox 1.6 for iOS adds automatic cloud sync, 10-band equalizer, OPUS format support, and external flash drive playback for iPhone and iPad."
+keywords: ["Flacbox update", "FLAC player iOS", "10-band equalizer iPhone", "automatic music sync", "play OPUS on iPhone", "external flash drive music", "FLAC streaming iOS", "hi-res music app iPhone", "Flacbox equalizer", "SD card music player iOS"]
+tags: ["Flacbox", "equalizer", "music library", "OPUS", "FLAC", "external storage", "sync", "audio player", "iOS apps", "update"]
 draft: false
 aliases:
   - /post/flacbox-for-ios-automatic-music-library-sync-equalizer-opus-external-flash/
@@ -14,57 +14,72 @@ cascade:
   type: docs
 ---
 
-We’re excited to unveil a major update for **Flacbox** — your go-to FLAC music player for iPhone and iPad. With version 1.6, we’re rolling out some of the most requested features, plus a few powerful enhancements to take your music experience to the next level.
+**Flacbox 1.6** brings major new features to the FLAC music player for iPhone and iPad.
 
-Whether you're streaming from the cloud or playing hi-res files locally, Flacbox delivers uncompromised audio fidelity.
+**TL;DR:** This update adds automatic cloud library sync, a 10-band equalizer with custom presets, OPUS format support, and the ability to play music from external SD cards. A FLAC playback bug has also been fixed.
 
-## What’s New in Flacbox 1.6
+## What's New in Flacbox 1.6
 
-### Automatic Music Library Sync
+### Automatic Cloud Music Library Sync
 
-Manually managing your music library is now a thing of the past. Our new sync engine automatically scans selected cloud folders and updates your music library in real-time.
+No more manually refreshing your library. The new sync engine automatically scans selected cloud folders and updates your music library in real time.
 
-- Enable it via: **Settings → Music Library → Automatic Sync**
+- Enable via: **Settings → Music Library → Automatic Sync**
 - Select folders via **Sync Folder → Change Settings**
 - Choose sync mode: Wi-Fi only or Wi-Fi + Cellular
-- Enable **Background Sync** to auto-update while the player is active (note: increases battery usage)
+- Enable **Background Sync** for auto-updates while the player is active (increases battery usage)
 
-Your audio collection stays up-to-date automatically — no manual refresh needed.
+Your cloud music collection stays current without manual intervention.
 
-### 10-Band Equalizer
+### 10-Band Equalizer for Custom Sound
 
-Customize your sound with our built-in **10-band equalizer**, available from both the Player screen and the Settings menu.
+Shape your audio with the built-in **10-band equalizer**, accessible from the Player screen or Settings.
 
-- Adjust frequency levels between **-12 dB** and **+12 dB**
-- Use built-in presets or define your own
-- Modify preamp power with caution to protect your hearing
+- Adjust frequencies between **-12 dB** and **+12 dB**
+- Use built-in presets or create your own
+- Fine-tune preamp power (use caution to protect hearing)
 
-This professional-grade equalizer lets you tailor your audio for every listening environment.
+This gives you studio-level audio control on your iPhone or iPad.
 
 ### OPUS File Format Support
 
-We’ve expanded file format compatibility by adding support for the **OPUS** codec. You can now play high-efficiency OPUS files alongside other formats like FLAC, ALAC, and MP3 — all with equalizer support included.
+Flacbox now plays **OPUS** files alongside FLAC, ALAC, MP3, and other formats. OPUS is a high-efficiency codec used widely for voice and music. Full equalizer support is included for OPUS playback.
 
-### External Flash Drive Integration
+### Play Music from External SD Cards
 
-Now you can **plug in an SD or microSD card** and play music directly from external flash memory:
+Play music directly from an SD or microSD card connected to your iPhone or iPad:
 
 - Use a **Lightning to SD Card Camera Reader Adapter**
-- Insert the flash card and connect to your device
-- Open Flacbox — it will recognize your card automatically
-- In **Services**, tap the “PowerDrive” section to browse and play files
+- Insert the card and connect to your device
+- Open Flacbox -- it recognizes the card automatically
+- Browse and play files via the **Services → PowerDrive** section
 
-This feature is ideal for conserving device storage and expanding your mobile music library.
+This is ideal for expanding your music library without using device storage.
 
-### Stability and Playback Fixes
+### FLAC Playback Bug Fix
 
-We’ve addressed a common playback bug: a **2-second skip at the end of FLAC files** has been fully resolved. Your tracks now play back seamlessly from start to finish.
+A **2-second skip at the end of FLAC files** has been fully resolved. Tracks now play seamlessly from start to finish.
 
-## Try Flacbox Today
+## Download Flacbox
 
-Flacbox continues to evolve based on your feedback. Version 1.6 is a major step forward in providing a full-featured, audiophile-grade experience on iOS.
+Flacbox 1.6 is available now on the App Store. [Download Flacbox](https://itunes.apple.com/us/app/flacbox-flac-player-music/id1097564256?mt=8) and try these features today.
 
-Download Flacbox on the App Store:  
-[Flacbox on iTunes](https://itunes.apple.com/us/app/flacbox-flac-player-music/id1097564256?mt=8)
+Have feedback or feature requests? Reach out -- we build Flacbox based on what our users need.
 
-Got ideas, questions, or feature requests? We’re listening. Reach out and help us shape the future of Flacbox.
+## Frequently Asked Questions
+
+{{% details title="What audio formats does Flacbox support?" closed="true" %}}
+Flacbox supports FLAC, ALAC, MP3, AAC, OGG, OPUS, WAV, AIFF, DSD, and other popular audio formats. All formats work with the built-in equalizer.
+{{% /details %}}
+
+{{% details title="Can I play music from an SD card on my iPhone?" closed="true" %}}
+Yes. Connect an SD or microSD card using a Lightning to SD Card Camera Reader Adapter. Flacbox detects the card automatically and lets you browse and play files directly from external storage.
+{{% /details %}}
+
+{{% details title="Does Flacbox sync with cloud storage automatically?" closed="true" %}}
+Yes. Starting with version 1.6, Flacbox can automatically sync your music library from cloud folders. Enable Automatic Sync in Settings and select the folders you want to monitor.
+{{% /details %}}
+
+{{% details title="Is the Flacbox equalizer customizable?" closed="true" %}}
+Yes. The 10-band equalizer lets you adjust individual frequency levels between -12 dB and +12 dB. You can use built-in presets or save your own custom settings.
+{{% /details %}}
