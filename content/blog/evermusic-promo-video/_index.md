@@ -10,7 +10,13 @@ aliases:
   - /amp/evermusic-promo-video/
 cascade:
   type: docs
+authors:
+  - name: "Anna Kosenko"
+    link: "https://www.linkedin.com/in/anna-kosenko-kosenko/"
+    image: "/images/about/anna-kosenko-cofounder-everappz.webp"
 ---
+
+{{< author-byline >}}
 
 ## Evermusic: The Cloud Music Player for iPhone and iPad
 

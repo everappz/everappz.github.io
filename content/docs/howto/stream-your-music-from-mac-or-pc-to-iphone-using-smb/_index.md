@@ -12,6 +12,8 @@ aliases:
   - /index.php/2016/05/29/stream-your-music-directly-from-mac-or-pc-using-smb/
 ---
 
+{{< author-byline >}}
+
 Are you drowning in a sea of music on your MAC or PC and want to enjoy it hassle-free on your iPhone or iPad? Look no further than Evermusic. With Evermusic, it's incredibly simple to connect your computer using the SMB protocol and stream your beloved tunes without worrying about taking up extra device space or dealing with synchronization hassles. Here's a step-by-step guide to get you started:
 
 ## Step 1: Enable SMB Protocol on Your Computer

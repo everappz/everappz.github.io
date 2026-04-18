@@ -11,6 +11,8 @@ aliases:
   - /amp/how-to-listen-to-music-from-icloud-drive-on-your-iphone-or-mac/
 ---
 
+{{< author-byline >}}
+
 In today’s world, music is a big part of our lives, and having your favorite songs available all the time is a must. Thanks to cloud technology, you no longer need to keep a physical music collection. You can now stream music from your iCloud Drive with just a few taps.
 
 Your iPhone can access a whole library of songs stored in the cloud. Whether you have carefully organized playlists or a mix of different songs, this guide will show you how to use iCloud Drive to turn your iPhone into a portable music player.

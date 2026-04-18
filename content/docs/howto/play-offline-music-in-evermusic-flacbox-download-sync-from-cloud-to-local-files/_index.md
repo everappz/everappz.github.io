@@ -10,6 +10,8 @@ aliases:
   - /amp/play-offline-music-in-evermusic-flacbox-download-sync-from-cloud-to-local-files/
 ---
 
+{{< author-byline >}}
+
 In a world where music streaming dominates, there's still great value in having your favorite tracks available offline. Evermusic and Flacbox are powerful apps that allow you to download and sync music from your cloud storage directly to your local files, ensuring you have access to your tunes anytime, anywhere. In this guide, we'll walk you through the steps to effortlessly play offline music using Evermusic and Flacbox, making your music library accessible even without an internet connection.
 
 Our music apps offer two primary methods for making music available offline: simple downloading and enabling offline mode for automatic synchronization.

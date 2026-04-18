@@ -10,6 +10,8 @@ aliases:
   - /amp/how-to-view-embedded-lyrics-comments-lrc-file-for-music-on-your-iphone-or-mac/
 ---
 
+{{< author-byline >}}
+
 Discover how to easily view embedded lyrics for your music on your iPhone or Mac using the **Evermusic** app. Whether it's text, lyrics, comments, or LRC files, this guide will show you step-by-step how to access and enjoy your song lyrics seamlessly.
 
 ## View Lyrics and Comments in Evermusic

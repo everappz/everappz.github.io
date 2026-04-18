@@ -12,6 +12,8 @@ aliases:
   - /amp/how-to-play-flac-music-on-iphone/
 ---
 
+{{< author-byline >}}
+
 [{{< figure src="/Flacbox_Icon-App-1024x1024.webp" alt="Flacbox Icon - FLAC music player and downloader" width="160" >}}](/products/flacbox)
 
 Apple's iOS 11 brought support for FLAC audio format to the Files app, but FLAC files can be quite large. Imagine having the flexibility to play your own FLAC music library from the cloud and download it whenever you want. That's where Flacbox steps in, providing a comprehensive solution to this music lover's dream.

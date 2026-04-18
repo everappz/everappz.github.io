@@ -10,6 +10,8 @@ aliases:
   - /amp/how-to-transfer-files-wirelessly-from-a-computer-to-an-iphone-using-wifi-drive/
 ---
 
+{{< author-byline >}}
+
 Wi-Fi Drive is the easiest way to transfer your files from the computer to an iPhone or iPad without iTunes. You can easily download or upload multiple files or even folders using a local Wi-Fi connection. Both devices should be connected to the same Wi-Fi network.
 
 You can transfer files wirelessly using a desktop web browser or WebDAV client like Mac Finder or Windows File Explorer.

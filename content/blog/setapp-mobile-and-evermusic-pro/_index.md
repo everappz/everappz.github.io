@@ -10,7 +10,13 @@ aliases:
   - /amp/setapp-mobile-and-evermusic-pro/
 cascade:
   type: docs
+authors:
+  - name: "Anna Kosenko"
+    link: "https://www.linkedin.com/in/anna-kosenko-kosenko/"
+    image: "/images/about/anna-kosenko-cofounder-everappz.webp"
 ---
+
+{{< author-byline >}}
 
 ![](21260c_766c4fbc81e6433cb8fc21b9c2862ce0~mv2.png)
 

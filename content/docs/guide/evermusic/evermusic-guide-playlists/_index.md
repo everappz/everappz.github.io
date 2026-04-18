@@ -16,6 +16,7 @@ aliases:
   - /guide-evermusic-playlists/
 ---
 
+
 ## Overview
 
 The Playlists section provides you with the tools to organize your tracks into lists. It includes a content view showcasing all your created playlists, a "..." button in the navigation bar offering various playlist-related actions, and a navigation toolbar with "Search," "Play all," and "Shuffle all" buttons. Furthermore, each individual playlist itself features a "..." button near the playlist title, offering a range of actions specific to that playlist.

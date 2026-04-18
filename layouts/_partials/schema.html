@@ -7,6 +7,7 @@
   "@type": "Organization",
   "@id": "{{ .Site.BaseURL }}#organization",
   "name": "Everappz",
+  "legalName": "Everappz SL",
   "url": "{{ .Site.BaseURL }}",
   "logo": "{{ .Site.BaseURL }}images/logo.svg",
   "description": "{{ .Site.Params.description }}",
@@ -14,6 +15,24 @@
   "numberOfEmployees": {
     "@type": "QuantitativeValue",
     "value": 2
+  },
+  "founder": [
+    {
+      "@type": "Person",
+      "name": "Artem Meleshko",
+      "jobTitle": "Co-Founder & iOS Engineer",
+      "sameAs": ["https://www.linkedin.com/in/artem-meleshko-s/"]
+    },
+    {
+      "@type": "Person",
+      "name": "Anna Kosenko",
+      "jobTitle": "Co-Founder & Director",
+      "sameAs": ["https://www.linkedin.com/in/anna-kosenko-kosenko/"]
+    }
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "addressCountry": "ES"
   },
   "knowsAbout": ["iOS app development", "macOS app development", "audio player software", "video player software", "music tag editing", "cloud storage integration"],
   "sameAs": [
@@ -163,12 +182,23 @@
   "headline": "{{ .Title }}",
   "description": "{{ .Description }}",
   "url": "{{ .Permalink }}",
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "{{ .Permalink }}"
+  },
   "datePublished": "{{ .Date.Format "2006-01-02T15:04:05Z07:00" }}",
   "dateModified": "{{ .Lastmod.Format "2006-01-02T15:04:05Z07:00" }}",
+  {{- with .Params.image }}
+  "image": "{{ . | absURL }}",
+  {{- end }}
   "publisher": {
     "@type": "Organization",
     "name": "Everappz",
-    "url": "{{ .Site.BaseURL }}"
+    "url": "{{ .Site.BaseURL }}",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "{{ .Site.BaseURL }}images/logo.svg"
+    }
   },
   {{- if .Params.authors }}
   "author": [
@@ -178,11 +208,63 @@
   ]
   {{- else }}
   "author": {
-    "@type": "Organization",
-    "@id": "{{ .Site.BaseURL }}#organization",
-    "name": "Everappz"
+    "@type": "Person",
+    "name": "Anna Kosenko",
+    "jobTitle": "Co-Founder & Director",
+    "url": "https://everappz.com/about/",
+    "image": "https://everappz.com/images/about/anna-kosenko-cofounder-everappz.webp",
+    "sameAs": ["https://www.linkedin.com/in/anna-kosenko-kosenko/"],
+    "worksFor": {
+      "@type": "Organization",
+      "name": "Everappz",
+      "url": "https://everappz.com"
+    }
   }
   {{- end }}
+}
+</script>
+{{- end }}
+
+{{/* ── Article (docs pages, non-index) ── */}}
+{{- if and (eq .Section "docs") (not .IsSection) }}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "headline": "{{ .Title }}",
+  "description": "{{ .Description }}",
+  "url": "{{ .Permalink }}",
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "{{ .Permalink }}"
+  },
+  "datePublished": "{{ .Date.Format "2006-01-02T15:04:05Z07:00" }}",
+  "dateModified": "{{ .Lastmod.Format "2006-01-02T15:04:05Z07:00" }}",
+  {{- with .Params.image }}
+  "image": "{{ . | absURL }}",
+  {{- end }}
+  "author": {
+    "@type": "Person",
+    "name": "Artem Meleshko",
+    "jobTitle": "Co-Founder & iOS Engineer",
+    "url": "https://everappz.com/about/",
+    "image": "https://everappz.com/images/about/artem-meleshko-cofounder-everappz.webp",
+    "sameAs": ["https://www.linkedin.com/in/artem-meleshko-s/"],
+    "worksFor": {
+      "@type": "Organization",
+      "name": "Everappz",
+      "url": "https://everappz.com"
+    }
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Everappz",
+    "url": "{{ .Site.BaseURL }}",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "{{ .Site.BaseURL }}images/logo.svg"
+    }
+  }
 }
 </script>
 {{- end }}
@@ -194,6 +276,38 @@
 {
   "@context": "https://schema.org",
   "@type": "FAQPage",
+  {{- if eq .Section "docs" }}
+  "author": {
+    "@type": "Person",
+    "name": "Artem Meleshko",
+    "jobTitle": "Co-Founder & iOS Engineer",
+    "url": "https://everappz.com/about/",
+    "sameAs": ["https://www.linkedin.com/in/artem-meleshko-s/"]
+  },
+  {{- else if eq .Section "blog" }}
+  "author": {
+    "@type": "Person",
+    "name": "Anna Kosenko",
+    "jobTitle": "Co-Founder & Director",
+    "url": "https://everappz.com/about/",
+    "sameAs": ["https://www.linkedin.com/in/anna-kosenko-kosenko/"]
+  },
+  {{- else }}
+  "author": {
+    "@type": "Organization",
+    "@id": "{{ .Site.BaseURL }}#organization",
+    "name": "Everappz"
+  },
+  {{- end }}
+  "publisher": {
+    "@type": "Organization",
+    "name": "Everappz",
+    "url": "{{ .Site.BaseURL }}",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "{{ .Site.BaseURL }}images/logo.svg"
+    }
+  },
   "mainEntity": [
     {{- range $i, $item := $faqItems }}{{ if $i }},{{ end }}
     {
@@ -206,6 +320,65 @@
     }
     {{- end }}
   ]
+}
+</script>
+{{- end }}
+
+{{/* ── Person schemas (About page) ── */}}
+{{- if eq .RelPermalink "/about/" }}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Person",
+  "name": "Artem Meleshko",
+  "jobTitle": "Co-Founder & iOS Engineer",
+  "url": "https://everappz.com/about/",
+  "image": "https://everappz.com/images/about/artem-meleshko-cofounder-everappz.webp",
+  "sameAs": ["https://www.linkedin.com/in/artem-meleshko-s/"],
+  "worksFor": {
+    "@type": "Organization",
+    "name": "Everappz",
+    "url": "https://everappz.com"
+  }
+}
+</script>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Person",
+  "name": "Anna Kosenko",
+  "jobTitle": "Co-Founder & Director",
+  "url": "https://everappz.com/about/",
+  "image": "https://everappz.com/images/about/anna-kosenko-cofounder-everappz.webp",
+  "sameAs": ["https://www.linkedin.com/in/anna-kosenko-kosenko/"],
+  "worksFor": {
+    "@type": "Organization",
+    "name": "Everappz",
+    "url": "https://everappz.com"
+  }
+}
+</script>
+{{- end }}
+
+{{/* ── ContactPage (contact and support pages) ── */}}
+{{- if or (eq .Section "contact") (eq .Section "support") }}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "ContactPage",
+  "name": "{{ .Title }}",
+  "url": "{{ .Permalink }}",
+  "publisher": {
+    "@type": "Organization",
+    "name": "Everappz",
+    "url": "{{ .Site.BaseURL }}"
+  },
+  "contactPoint": {
+    "@type": "ContactPoint",
+    "contactType": "customer support",
+    "email": "support@everappz.com",
+    "availableLanguage": ["English", "Spanish", "Russian"]
+  }
 }
 </script>
 {{- end }}

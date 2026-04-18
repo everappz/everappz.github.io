@@ -16,6 +16,7 @@ tags: ["music", "guide", "flacbox", "library"]
 readingTime: 10
 ---
 
+
 ## Intro
 
 Managing your music library is a breeze with Flacbox, where you can effortlessly organize all your tracks. You have two options for building your music library: manual addition or automatic synchronization.

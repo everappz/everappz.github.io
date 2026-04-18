@@ -11,6 +11,8 @@ aliases:
   - /amp/how-to-disconnect-third-party-app-from-your-google-account/
 ---
 
+{{< author-byline >}}
+
 In today's digital age, we often link our Google accounts to various third-party apps and services for added convenience. While this can make life easier, it's essential to maintain control and security over your Google account. Sometimes, you may want to disconnect a third-party app that you no longer use or trust. In this article, we'll guide you through the process of disconnecting a third-party app from your Google account, helping you ensure your online security.
 
 ## Why Disconnect a Third-Party App?

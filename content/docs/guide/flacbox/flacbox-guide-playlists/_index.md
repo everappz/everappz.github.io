@@ -18,6 +18,7 @@ aliases:
   - /guide-flacbox-playlists/
 ---
 
+
 ## Introduction
 
 In the Playlists section, you’ll find helpful tools to manage your music collections. This area shows all your playlists in one place. At the top, there’s a "..." button in the navigation bar that opens a menu with different playlist options. You’ll also see a toolbar with quick actions like "Search," "Play all," and "Shuffle all." Each playlist also has its own "..." button next to its title, giving you more options just for that playlist.

@@ -10,7 +10,13 @@ aliases:
   - /amp/evermusic-3-6-car-play-voice-over-artworks-editing/
 cascade:
   type: docs
+authors:
+  - name: "Anna Kosenko"
+    link: "https://www.linkedin.com/in/anna-kosenko-kosenko/"
+    image: "/images/about/anna-kosenko-cofounder-everappz.webp"
 ---
+
+{{< author-byline >}}
 
 **TL;DR:** Evermusic 3.6 adds Apple CarPlay integration, full VoiceOver accessibility, mixed audio output, automatic playback resume, artwork and tag editing for FLAC/MP3/AIFF, and iCloud Drive file imports.
 

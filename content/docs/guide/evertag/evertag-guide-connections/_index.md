@@ -14,6 +14,7 @@ aliases:
 readingTime: 11
 ---
 
+
 On this screen, you can connect various sources containing your audio files. You can integrate popular cloud services like Dropbox, OneDrive, iCloud, and others, as well as connect your Mac or PC. Additionally, you have the option to edit audio files located in Apple Time Capsule or WD Cloud Home.
 
 {{< cards cols="1">}}

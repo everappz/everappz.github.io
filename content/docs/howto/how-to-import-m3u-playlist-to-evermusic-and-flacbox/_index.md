@@ -11,6 +11,8 @@ aliases:
   - /amp/how-to-import-m3u-playlist-to-evermusic-and-flacbox/
 ---
 
+{{< author-byline >}}
+
 M3U, which stands for MP3 URL or Moving Picture Experts Group Audio Layer 3 Uniform Resource Locator, is a computer file format used for multimedia playlists. One of its primary uses is creating single-entry playlist files that point to streams on the internet. These files offer convenient access to streaming content and are commonly used for downloads, emailing, and listening to Internet radio.
 
 Despite its widespread use, there's no formal specification for the M3U format; it has become a de facto standard. An M3U file is essentially a plain text file that specifies the locations of one or more media files. Depending on the encoding, it's saved with either the "m3u" or "m3u8" filename extension. Each entry in the file specifies a media file's location, which can be an absolute local pathname, a local pathname relative to the M3U file location, or a URL. Entries are separated by line breaks, with some devices requiring line breaks represented as CR LF.

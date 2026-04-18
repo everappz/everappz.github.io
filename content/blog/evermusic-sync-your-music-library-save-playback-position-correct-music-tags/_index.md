@@ -10,7 +10,13 @@ aliases:
   - /amp/evermusic-sync-your-music-library-save-playback-position-correct-music-tags/
 cascade:
   type: docs
+authors:
+  - name: "Anna Kosenko"
+    link: "https://www.linkedin.com/in/anna-kosenko-kosenko/"
+    image: "/images/about/anna-kosenko-cofounder-everappz.webp"
 ---
+
+{{< author-byline >}}
 
 ![](21260c_641f376e779e47d4927b43c210d3c87f~mv2.jpeg)
 

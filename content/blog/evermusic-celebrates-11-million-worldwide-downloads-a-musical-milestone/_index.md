@@ -10,7 +10,13 @@ aliases:
   - /amp/evermusic-celebrates-11-million-worldwide-downloads-a-musical-milestone/
 cascade:
   type: docs
+authors:
+  - name: "Anna Kosenko"
+    link: "https://www.linkedin.com/in/anna-kosenko-kosenko/"
+    image: "/images/about/anna-kosenko-cofounder-everappz.webp"
 ---
+
+{{< author-byline >}}
 
 **TL;DR:** Evermusic has passed 11 million downloads worldwide. Key features include a 10-band equalizer, offline playback, iCloud Drive streaming, support for 10+ cloud services, cross-device sync, and a built-in ID3 tag editor.
 

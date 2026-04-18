@@ -11,7 +11,13 @@ aliases:
   - /single-post/Evermusic-3-million-downloads/
 cascade:
   type: docs
+authors:
+  - name: "Anna Kosenko"
+    link: "https://www.linkedin.com/in/anna-kosenko-kosenko/"
+    image: "/images/about/anna-kosenko-cofounder-everappz.webp"
 ---
+
+{{< author-byline >}}
 
 ## 3 Million Downloads
 

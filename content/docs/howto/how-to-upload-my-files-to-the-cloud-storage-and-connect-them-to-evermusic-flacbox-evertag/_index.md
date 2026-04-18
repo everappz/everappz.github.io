@@ -10,6 +10,8 @@ aliases:
   - /amp/how-to-upload-my-files-to-the-cloud-storage-and-connect-them-to-evermusic-flacbox-evertag/
 ---
 
+{{< author-byline >}}
+
 ## Step 1: Sign Up for a Cloud Storage Account
 
 If you haven’t already, sign up for a cloud service like Google Drive, Dropbox, OneDrive, etc.

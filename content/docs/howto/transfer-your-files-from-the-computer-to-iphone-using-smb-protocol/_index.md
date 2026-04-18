@@ -10,6 +10,8 @@ aliases:
   - /amp/transfer-your-files-from-the-computer-to-iphone-using-smb-protocol/
 ---
 
+{{< author-byline >}}
+
 Do you have an extensive collection of large files on your MAC or PC and wish to access them effortlessly from your iPhone or iPad? Our apps provide a simple solution.
 
 Follow these steps to enable seamless access between your computer and iOS device using the SMB protocol:

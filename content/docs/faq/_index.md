@@ -17,6 +17,7 @@ aliases:
   - /blog/categories/how-to/
 ---
 
+
 {{< lottie src="/images/juicy-json/juicy-woman-focused-on-online-learning.json" width="85%" >}}
 
 ## Learn How to Use Our Apps

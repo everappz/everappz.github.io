@@ -9,6 +9,8 @@ aliases:
   - /post/how-to-/
 ---
 
+{{< author-byline >}}
+
 {{< lottie src="/images/juicy-json/juicy-team-analyzes-graphs-and-diagrams.json" width="85%" >}}
 
 This section offers practical, easy-to-follow guides for using Everappz apps.  

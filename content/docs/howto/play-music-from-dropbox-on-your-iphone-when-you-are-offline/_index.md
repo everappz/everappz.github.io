@@ -11,6 +11,8 @@ aliases:
   - /single-post/Play-music-from-Dropbox-on-your-iPhone-when-you-are-offline/
 ---
 
+{{< author-byline >}}
+
 {{< figure src="21260c_b74074b6421e41748259d1c534c1cebd~mv2.jpeg" width="800" >}}
 
 Dropbox is a fantastic cloud storage solution, and it's not just for office files. You can also upload and store your audio content, making it a versatile option for music lovers. Imagine having your meticulously ripped CDs transformed into a vast music library, ready to accompany you wherever you go. With **Evermusic**, you can turn this dream into a reality.

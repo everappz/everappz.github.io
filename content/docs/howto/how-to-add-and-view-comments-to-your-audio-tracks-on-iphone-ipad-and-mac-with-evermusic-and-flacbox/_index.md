@@ -11,6 +11,8 @@ aliases:
   - /amp/how-to-add-and-view-comments-to-your-audio-tracks-on-iphone-ipad-and-mac-with-evermusic-and-flacbox/
 ---
 
+{{< author-byline >}}
+
 ## Introduction
 There are moments when you find the need to add comments to your tracks and read them while a song is playing. Consider scenarios like learning a foreign language through audio lessons, where having textual information is essential. The good news is that in the latest version of Evermusic and Flacbox, you can add your comments to a track, and the app seamlessly displays them while the song is playing. This feature adds a new layer of interactivity, making your music experience even more personalized and versatile.
 

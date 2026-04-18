@@ -10,6 +10,8 @@ aliases:
   - /amp/how-to-transfer-music-from-computer-to-iphone-without-itunes/
 ---
 
+{{< author-byline >}}
+
 You can watch a video tutorial from [**TECHGUYPH**](https://www.youtube.com/channel/UCgpf09gGFE_c_3pPTtTpnzg) or read the text version below.
 <br><br>
 {{< youtubecard id="CqdqrQ0ge70" title="Can We Wirelessly Put Offline Music on iPhones?" >}}

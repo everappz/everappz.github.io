@@ -12,7 +12,13 @@ sidebar:
   exclude: true
 cascade:
   type: docs
+authors:
+  - name: "Anna Kosenko"
+    link: "https://www.linkedin.com/in/anna-kosenko-kosenko/"
+    image: "/images/about/anna-kosenko-cofounder-everappz.webp"
 ---
+
+{{< author-byline >}}
 
 **TL;DR:** Evermusic wins in 5 of 8 categories, with 3 ties. It offers broader cloud storage support (12+ services vs. VOX Cloud only), built-in audiobook features, an ID3 tag editor, and wireless file transfer. VOX appeals to users who prefer its proprietary cloud and minimalist design.
 

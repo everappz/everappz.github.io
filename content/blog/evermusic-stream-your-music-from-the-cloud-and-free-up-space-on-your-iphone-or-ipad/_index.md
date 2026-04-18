@@ -14,7 +14,13 @@ aliases:
   - /index.php/2015/07/10/theappzine-evermusic-stream-music-from-a-cloud/
 cascade:
   type: docs
+authors:
+  - name: "Anna Kosenko"
+    link: "https://www.linkedin.com/in/anna-kosenko-kosenko/"
+    image: "/images/about/anna-kosenko-cofounder-everappz.webp"
 ---
+
+{{< author-byline >}}
 
 ![](21260c_00c5356db3a24db6a6a37e353b774d56~mv2.jpg)
 

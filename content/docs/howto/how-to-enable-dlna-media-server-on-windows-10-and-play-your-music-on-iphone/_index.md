@@ -11,6 +11,8 @@ aliases:
   - /amp/how-to-enable-dlna-media-server-on-windows-10-and-play-your-music-on-iphone/
 ---
 
+{{< author-byline >}}
+
 {{< figure src="/21260c_e902db0c9a4c45af9772ce000ef5891e~mv2.jpg" alt="Evermusic + Windows 10 DLNA: Front Cover" caption="DLNA music streaming to iPhone using Windows 10 and Evermusic" width="800" >}}
 
 DLNA (Digital Living Network Alliance) is a powerful tool that enables you to effortlessly stream various media content, including music, between DLNA-supported devices on your network. The good news is that Windows 10, and previous versions, come with a built-in DLNA feature, eliminating the need for third-party media servers. Here's how to enable DLNA Media Server on Windows 10 and enjoy music streaming on your iPhone.

@@ -10,7 +10,13 @@ aliases:
   - /amp/comparing-the-best-cloud-music-players-for-iphone-in-2023/
 cascade:
   type: docs
+authors:
+  - name: "Anna Kosenko"
+    link: "https://www.linkedin.com/in/anna-kosenko-kosenko/"
+    image: "/images/about/anna-kosenko-cofounder-everappz.webp"
 ---
+
+{{< author-byline >}}
 
 ## Which Cloud Music Player Is Best for iPhone?
 

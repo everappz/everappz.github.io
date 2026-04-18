@@ -11,6 +11,8 @@ aliases:
   - /amp/how-to-play-music-from-usb-flash-drive-on-iphone-with-evermusic-and-ixpand/
 ---
 
+{{< author-byline >}}
+
 {{< figure src="21260c_cbcf3bdd49c8493bbccf28e6922ea5fe~mv2.jpg" alt="Evermusic with iXpand Flash Drive" width="800" >}}
 
 Are you tired of running out of space on your iPhone or iPad? With Evermusic, you can effortlessly listen to your music directly from a SanDisk iXpand Flash Drive and free up precious storage space for photos and other essential apps. Imagine saving up to 256 GB of space on your iPhone! The iXpand Flash Drive is a compact device with a lightning connector on one end and a standard USB connector on the other. You can easily transfer files between your home computer and iPhone.

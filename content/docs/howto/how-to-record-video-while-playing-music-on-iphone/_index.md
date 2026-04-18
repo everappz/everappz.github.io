@@ -10,6 +10,8 @@ aliases:
   - /amp/how-to-record-video-while-playing-music-on-iphone/
 ---
 
+{{< author-byline >}}
+
 We've just let you know a little trick that allows you to play music in the background while recording video on your iPhone. You may find this useful next time you decide to create a new cool video for TikTok.
 
 ## Download the App

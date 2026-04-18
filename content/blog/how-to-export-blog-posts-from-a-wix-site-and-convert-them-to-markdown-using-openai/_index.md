@@ -7,7 +7,13 @@ tags: ["wix", "markdown", "blog migration", "openai", "scraping", "beautifulsoup
 draft: false
 cascade:
   type: docs
+authors:
+  - name: "Anna Kosenko"
+    link: "https://www.linkedin.com/in/anna-kosenko-kosenko/"
+    image: "/images/about/anna-kosenko-cofounder-everappz.webp"
 ---
+
+{{< author-byline >}}
 
 ## Why Export Blog Posts from Wix?
 

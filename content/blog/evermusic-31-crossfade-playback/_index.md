@@ -13,7 +13,13 @@ aliases:
   - /index.php/2016/05/26/evermusic-2-3-sync-you-music-library-automatically/
 cascade:
   type: docs
+authors:
+  - name: "Anna Kosenko"
+    link: "https://www.linkedin.com/in/anna-kosenko-kosenko/"
+    image: "/images/about/anna-kosenko-cofounder-everappz.webp"
 ---
+
+{{< author-byline >}}
 
 ## Evermusic 3.1: What Changed and Why It Matters
 

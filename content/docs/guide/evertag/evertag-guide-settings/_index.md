@@ -14,6 +14,7 @@ aliases:
   - /guide-evertag-settings/
 ---
 
+
 On this screen, you can access the application settings and upgrade it to the Premium version.
 
 {{< cards cols="1">}}

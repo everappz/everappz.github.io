@@ -8,6 +8,8 @@ readingTime: 5
 draft: false
 ---
 
+{{< author-byline >}}
+
 ## Intro
 
 Want to play your own music in the car using Apple CarPlay? Whether your songs are stored on your iPhone, in cloud storage, or offline, apps like **Evermusic** and **Flacbox** make it easy to listen to your personal music collection while driving.

@@ -9,6 +9,8 @@ aliases:
   - /amp/how-to-play-local-music-stored-on-your-iphone-or-mac/
 ---
 
+{{< author-byline >}}
+
 In the digital age, streaming services have changed how we listen to music, but there's something special about the music we've collected over the years on our Macs, PCs, or external drives.   
 
 These cherished local tunes hold personal meaning and nostalgia. Thankfully, playing this music on your iPhone and Mac is still possible and enjoyable. Whether you want to relive memories or enjoy your unique collection offline, this guide will show you how.    

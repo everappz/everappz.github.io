@@ -10,6 +10,8 @@ aliases:
   - /amp/audio-bookmarks-for-soundcloud/
 ---
 
+{{< author-byline >}}
+
 {{< figure
   src="/21260c_617fb607236c4b239b64b8816b7d19fe~mv2.jpg"
   alt="Soundy app used for audio bookmarking on SoundCloud"

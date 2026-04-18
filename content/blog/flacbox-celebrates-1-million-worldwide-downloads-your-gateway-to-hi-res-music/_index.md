@@ -10,7 +10,13 @@ aliases:
   - /amp/flacbox-celebrates-1-million-worldwide-downloads-your-gateway-to-hi-res-music/
 cascade:
   type: docs
+authors:
+  - name: "Anna Kosenko"
+    link: "https://www.linkedin.com/in/anna-kosenko-kosenko/"
+    image: "/images/about/anna-kosenko-cofounder-everappz.webp"
 ---
+
+{{< author-byline >}}
 
 **TL;DR:** Flacbox has surpassed 1 million downloads worldwide. It supports FLAC, ALAC, APE, DSD, and other lossless formats with a 10-band equalizer, M3U/CUE playlists, offline playback, and cross-device sync across iPhone, iPad, and Mac.
 

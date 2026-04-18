@@ -11,6 +11,8 @@ aliases:
   - /amp/how-to-connect-a-usb-flashcard-to-the-iphone-and-listen-to-music-or-manage-files-located-on-it/
 ---
 
+{{< author-byline >}}
+
 There are several ways to connect a USB flash or SD card to the iPhone and listen to music located on it. You can also manage your files with a built-in file manager in our apps Evermusic, Flacbox, Evertag.
 
 The first way is to connect your USB flashcard using standard [Lightning to SD Card Camera Reader](https://www.google.com/search?q=Lightning+to+SD+Card+Camera+Reader)

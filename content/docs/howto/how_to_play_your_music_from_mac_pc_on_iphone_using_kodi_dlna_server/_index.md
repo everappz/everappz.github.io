@@ -8,6 +8,8 @@ readingTime: 5
 draft: false
 ---
 
+{{< author-byline >}}
+
 ## Introduction
 
 If you have a **Mac, Windows PC, Linux machine, or NAS device**, you can easily transform it into a **personal music server** at home using [Kodi](https://kodi.tv/), a free and open-source media platform. With Kodi's built-in **DLNA/UPnP server**, you can stream your entire music library to any DLNA-compatible client — including your iPhone or iPad.

@@ -13,6 +13,8 @@ aliases:
   - /single-post/How-to-change-playback-speed-on-SoundCloud/
 ---
 
+{{< author-byline >}}
+
 {{< figure src="/21260c_85ec03750940439a9fcdb6360e93a5f6~mv2.jpg" alt="Soundy: Increase playback speed" caption="Soundy: Increase playback speed on SoundCloud" width="800" >}}
 
 Are you an avid SoundCloud user who loves music discovery? SoundCloud is fantastic, but if you're into audiobooks and podcasts, you've probably felt the absence of a key feature in the official iOS client: playback speed control. We hear you! Many SoundCloud users have requested this feature on the SoundCloud Help Community Center, but it hasn't materialized.

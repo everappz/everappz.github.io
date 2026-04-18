@@ -17,6 +17,7 @@ aliases:
   - /amp/flacbox-guide-player/
 ---
 
+
 The Player is the main screen of the app where you control the music and other features. Let's explore how to use it.
 
 ## Accessing the Audio Player

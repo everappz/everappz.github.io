@@ -12,6 +12,8 @@ aliases:
   - /single-post/How-to-edit-id3-tags-on-iPhone/
 ---
 
+{{< author-byline >}}
+
 ## Intro
 
 In this tutorial, we will learn how to edit your audio tags on iPhone or Mac using the built-in tag editor in the Evermusic or Flacbox app. Evermusic and Flacbox allow you to connect to your cloud storage services like Dropbox, Google Drive, OneDrive, and even your home computer, TimeCapsule, or NAS. With the ability to download songs, albums, and artists for offline playback at your convenience, your music is always at your fingertips.

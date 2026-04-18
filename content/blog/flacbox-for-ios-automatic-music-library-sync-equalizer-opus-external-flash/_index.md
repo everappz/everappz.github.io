@@ -12,7 +12,13 @@ aliases:
   - /index.php/2017/01/25/flacbox-1-6-for-ios-automatic-music-library-sync-10-band-equalizer-opus-file-format-external-flash-support/
 cascade:
   type: docs
+authors:
+  - name: "Anna Kosenko"
+    link: "https://www.linkedin.com/in/anna-kosenko-kosenko/"
+    image: "/images/about/anna-kosenko-cofounder-everappz.webp"
 ---
+
+{{< author-byline >}}
 
 **Flacbox 1.6** brings major new features to the FLAC music player for iPhone and iPad.
 

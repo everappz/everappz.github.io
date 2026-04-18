@@ -8,6 +8,8 @@ readingTime: 3
 draft: false
 ---
 
+{{< author-byline >}}
+
 ## Intro
 
 Looking to personalize your Spotify music collection with custom album artwork? While Spotify doesn't let you change covers for its streaming catalog, you *can* update album covers for **local music files** added to your library.

@@ -11,6 +11,8 @@ aliases:
   - /amp/how-to-connect-synology-nas-and-listen-to-music-on-your-iphone-or-mac/
 ---
 
+{{< author-byline >}}
+
 If you're looking for a seamless way to connect your Synology NAS and enjoy your music library on your iPhone or Mac, the Evermusic and Flacbox apps are the perfect solutions. These apps support a wide range of audio formats, including FLAC, MP3, and WAV, making it easy to stream and listen to high-quality music directly from your Synology NAS.
 
 In this guide, we will show you how to connect your Synology NAS to the Evermusic or Flacbox app using Synology's native API and QuickConnect feature. By leveraging Synology's direct API, you can securely access your music library outside your home network without needing complicated configurations like WebDAV, SMB, DLNA. With QuickConnect, you'll be able to stream and manage your music from anywhere, using your iPhone or Mac.

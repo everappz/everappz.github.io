@@ -12,6 +12,8 @@ aliases:
   - /index.php/2016/12/17/stream-your-music-from-soundcloud-to-chromecast/
 ---
 
+{{< author-byline >}}
+
 ![Soundy: Soundcloud and Chromecast](21260c_5e389cfe328f483d9475c1e59e2a4983~mv2.jpeg)
 
 SoundCloud users have been eagerly asking when Chromecast support will be added to the iOS app, but so far, there's been no official update from SoundCloud. Many iPhone users are left unable to stream their favorite SoundCloud tracks to Chromecast.

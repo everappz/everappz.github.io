@@ -10,6 +10,8 @@ aliases:
   - /amp/how-to-use-the-audio-equalizer-on-your-iphone-ipad-mac-with-evermusic-and-flacbox/
 ---
 
+{{< author-byline >}}
+
 When it comes to audio players, finding the right equalizer can make all the difference in your music-listening experience. Our audio apps, **Evermusic** and **Flacbox**, stand out as full-featured players equipped with a professional 10-band equalizer and a range of exciting features.
 
 In a perfect world, where music files and headphones are flawless, an equalizer might seem unnecessary. However, our daily lives often involve less-than-ideal listening environments — commuting, working out, or strolling through noisy city streets. These situations, combined with the limitations of standard headphones, call for the power of EQ adjustments. An equalizer lets you fine-tune frequency balance, compensate for imperfect headphones or speakers, and adapt to background noise. Whether you're boosting bass and treble for a party vibe or fine-tuning sound for a DJ session, our equalizer offers creative audio enhancement to elevate your listening experience.

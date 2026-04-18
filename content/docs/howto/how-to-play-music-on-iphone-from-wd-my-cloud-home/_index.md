@@ -13,6 +13,8 @@ aliases:
   - /amp/8-tb-of-music-on-your-iphone-with-evermusic-and-wd-my-cloud-home/
 ---
 
+{{< author-byline >}}
+
 {{< figure src="21260c_9ca3708cd72943c8afe6d856df67b96b~mv2.jpg" alt="Evermusic + My Cloud Home: Banner" width="800" >}}
 
 ## 8 TB Of Music On Your iPhone?

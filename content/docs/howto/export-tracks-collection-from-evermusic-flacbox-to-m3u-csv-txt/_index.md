@@ -10,6 +10,8 @@ aliases:
   - /amp/export-tracks-collection-from-evermusic-flacbox-to-m3u-csv-txt/
 ---
 
+{{< author-byline >}}
+
 ## Intro
 
 Exporting your recents, favorites, albums, and playlists from the app to an external file can be incredibly useful. You can use these files to update your listening history on scrobbler services such as [Last.fm](http://Last.fm) or listen to your playlists on external devices. With Evermusic and Flacbox, this process is easy. Here, we'll show you how to export your recents to CSV/TXT and your playlists to M3U. However, this functionality is available for any tracks collection within the app.

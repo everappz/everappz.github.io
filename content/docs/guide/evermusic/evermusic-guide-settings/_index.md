@@ -18,6 +18,7 @@ aliases:
   - /guide-evermusic-settings/
 ---
 
+
 On this screen, you can access the application settings and upgrade it to the Premium version.
 
 ![evermusic settings screen](21260c_9cc76041f09447d0b809e8d36f64fd95~mv2.png)

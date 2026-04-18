@@ -10,7 +10,13 @@ aliases:
   - /amp/unleash-audiophile-bliss-playing-lossless-music-on-iphone-or-mac-with-flacbox/
 cascade:
   type: docs
+authors:
+  - name: "Anna Kosenko"
+    link: "https://www.linkedin.com/in/anna-kosenko-kosenko/"
+    image: "/images/about/anna-kosenko-cofounder-everappz.webp"
 ---
+
+{{< author-byline >}}
 
 **TL;DR:** Install [Flacbox from the App Store](https://apps.apple.com/us/app/flacbox-flac-player-music/id1097564256?mt=8) to play FLAC, DSD, ALAC, and 120+ other audio formats on iPhone and Mac. Import files via iTunes File Sharing, Wi-Fi Drive, or cloud storage. No file conversion needed. Flacbox decodes lossless formats natively for full studio-quality playback.
 

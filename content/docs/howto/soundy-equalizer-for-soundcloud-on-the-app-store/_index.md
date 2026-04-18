@@ -11,6 +11,8 @@ aliases:
   - /single-post/soundy-equalizer-for-soundcloud-on-the-app-store/
 ---
 
+{{< author-byline >}}
+
 SoundCloud is renowned for music discovery, but one glaring omission in the official SoundCloud app is an equalizer. While alternative apps like TuneShell offer SoundCloud playback, their equalizer options are often limited. Enter Soundy, the solution you've been waiting for.
 
 Soundy is a feature-packed SoundCloud audio player that boasts a robust 10-band equalizer, reminiscent of iTunes, complete with popular presets such as Electronic, Jazz, Pop, Hip Hop, Rock, Bass Booster, and Bass Reducer. Beyond the equalizer, Soundy offers a plethora of features you'd expect in a top-notch music app, including easy playlist management, shuffle, repeat, audio bookmarks, favorites, sleep timer, and playback speed control.

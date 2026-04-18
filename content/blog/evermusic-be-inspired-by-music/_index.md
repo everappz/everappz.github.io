@@ -12,7 +12,13 @@ sidebar:
   exclude: true
 cascade:
   type: docs
+authors:
+  - name: "Anna Kosenko"
+    link: "https://www.linkedin.com/in/anna-kosenko-kosenko/"
+    image: "/images/about/anna-kosenko-cofounder-everappz.webp"
 ---
+
+{{< author-byline >}}
 
 **TL;DR:** Watch the official Evermusic promo video to see cloud music streaming, offline playback, and audio customization in action on iPhone and Mac.
 

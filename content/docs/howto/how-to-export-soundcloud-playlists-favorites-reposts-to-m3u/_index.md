@@ -12,6 +12,8 @@ aliases:
   - /amp/how-to-export-soundcloud-playlists-favorites-reposts-to-m3u/
 ---
 
+{{< author-byline >}}
+
 {{< figure src="/21260c_1d33da9a468b4b6aad57393aae61f763~mv2_d_4500_3450_s_4_2.jpg" alt="Soundy Playlists Export" caption="Exporting SoundCloud playlists to M3U format with Soundy" width="800" >}}
 
 ## How to Export a SoundCloud Playlist to M3U Format

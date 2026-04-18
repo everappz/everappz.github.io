@@ -16,6 +16,7 @@ aliases:
   - /guide-evermusic-connect/
 ---
 
+
 On this screen, you can connect various sources containing your music. You can integrate popular cloud services like Dropbox, Google Drive, and others, as well as connect your Mac or PC. Additionally, you have the option to import music from Apple Time Capsule, or WD Cloud Home.
 
 ## Connect to cloud storage

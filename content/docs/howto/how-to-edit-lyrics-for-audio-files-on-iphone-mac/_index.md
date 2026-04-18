@@ -8,6 +8,8 @@ readingTime: 2
 draft: false
 ---
 
+{{< author-byline >}}
+
 ## Intro
 
 In this tutorial, you’ll learn how to edit **Unsynced Lyrics** and **Lyrics Advisory Rating** in audio tags for your music files. Once updated, these lyrics will be visible in any music player that supports the lyrics tag such as **Evermusic** or **Flacbox**.

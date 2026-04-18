@@ -16,6 +16,7 @@ aliases:
   - /guide-evermusic-player/
 ---
 
+
 ## Introduction
 
 The Player is the main application screen where you can control the player queue and playback features such as the equalizer, sleep timer, audio bookmarks, and more. Let’s take a closer look at how to navigate and utilize these functions.

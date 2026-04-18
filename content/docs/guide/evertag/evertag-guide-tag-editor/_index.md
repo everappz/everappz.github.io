@@ -14,6 +14,7 @@ aliases:
 readingTime: 5
 ---
 
+
 The **Tag Editor** is the main screen of the Evertag app where you can view and edit audio file metadata. Open this screen by tapping a file from the **Local Files** section or from any connected **cloud storage** account.
 
 {{< cards cols="1">}}

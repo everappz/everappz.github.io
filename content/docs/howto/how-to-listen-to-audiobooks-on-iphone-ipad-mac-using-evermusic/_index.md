@@ -11,6 +11,8 @@ aliases:
   - /amp/how-to-listen-to-audiobooks-on-iphone-ipad-mac-using-evermusic/
 ---
 
+{{< author-byline >}}
+
 ## Introduction
 
 In our fast-paced world, audiobooks have become a favorite for book lovers who want to enjoy literature on the go. If you use Evermusic, you're in luck because this versatile music player also lets you listen to audiobooks. This guide will show you how to listen to audiobooks in Evermusic and optimize your content for search engines.

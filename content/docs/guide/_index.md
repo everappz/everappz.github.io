@@ -17,6 +17,7 @@ aliases:
   - /blog/categories/guide/
 ---
 
+
 {{< lottie src="/images/juicy-json/juicy-woman-with-graph-chart.json" width="75%" >}}
 
 ## Learn How to Use Our Apps

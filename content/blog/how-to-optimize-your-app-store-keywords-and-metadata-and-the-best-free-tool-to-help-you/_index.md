@@ -20,7 +20,13 @@ sidebar:
   exclude: true
 cascade:
   type: docs
+authors:
+  - name: "Anna Kosenko"
+    link: "https://www.linkedin.com/in/anna-kosenko-kosenko/"
+    image: "/images/about/anna-kosenko-cofounder-everappz.webp"
 ---
+
+{{< author-byline >}}
 
 ## Why App Store Keywords Determine Your Download Numbers
 

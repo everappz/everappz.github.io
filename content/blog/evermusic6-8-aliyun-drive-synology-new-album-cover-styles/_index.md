@@ -10,7 +10,13 @@ aliases:
   - /amp/evermusic6-8-aliyun-drive-synology-new-album-cover-styles/
 cascade:
   type: docs
+authors:
+  - name: "Anna Kosenko"
+    link: "https://www.linkedin.com/in/anna-kosenko-kosenko/"
+    image: "/images/about/anna-kosenko-cofounder-everappz.webp"
 ---
+
+{{< author-byline >}}
 
 **TL;DR:** Evermusic 6.8 adds Aliyun Drive and Synology NAS integration (with QuickConnect), six new album cover scroll effects, a minimal fullscreen player, drag-and-drop file management, and faster album art loading. Available now for iOS and macOS.
 

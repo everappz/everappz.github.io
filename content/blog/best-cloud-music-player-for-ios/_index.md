@@ -10,7 +10,13 @@ aliases:
   - /amp/best-cloud-music-player-for-ios/
 cascade:
   type: docs
+authors:
+  - name: "Anna Kosenko"
+    link: "https://www.linkedin.com/in/anna-kosenko-kosenko/"
+    image: "/images/about/anna-kosenko-cofounder-everappz.webp"
 ---
+
+{{< author-byline >}}
 
 **TL;DR:** Evermusic is a cloud music player for iPhone and iPad that connects to Dropbox, Google Drive, OneDrive, and 9+ other cloud services. It plays FLAC, MP3, WAV, and other formats, supports offline downloads, and includes an equalizer and ID3 tag editor. Free to download with a one-time Premium upgrade. 11 million+ downloads, 4.6-star App Store rating.
 

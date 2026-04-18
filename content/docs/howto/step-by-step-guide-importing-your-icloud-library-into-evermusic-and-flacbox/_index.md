@@ -10,6 +10,8 @@ aliases:
   - /amp/step-by-step-guide-importing-your-icloud-library-into-evermusic-and-flacbox/
 ---
 
+{{< author-byline >}}
+
 How to Sync Your iCloud Music Library with Flacbox and Evermusic for Smooth Playback. Recently, one of our subscribers reached out to the Everappz Support Team with a common concern:
 
 > "Hello Flacbox Support Team, I’ve recently subscribed to Flacbox for one year, but I’m having significant difficulties syncing my music from iCloud properly. I have about 60 albums of various soundtracks stored in my iCloud, which I would like to integrate into the app. However, it seems that the import process into the Flacbox library isn’t working as smoothly as I’d hoped. It takes an extremely long time for even a single album to load into the app. Yesterday, I spent several hours trying different methods to import the albums efficiently, but I couldn’t find a satisfactory solution. I would appreciate any guidance or a step-by-step guide on how to import iCloud-based music (without it being stored locally on my iPhone) in a way that doesn’t result in excessive loading times."
