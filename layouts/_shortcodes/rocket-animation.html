@@ -1,0 +1,59 @@
+<!-- Rocket tap-to-launch animation. Pairs with stars-background shortcode via window.speedMultiplier. -->
+<style>
+  .rocket-anim {
+    cursor: pointer;
+    transition: transform 0.6s ease-in;
+    will-change: transform;
+  }
+
+  .rocket-launch {
+    transform: translateY(-150vh) scale(1.2) rotate(-10deg);
+    transition: transform 0.6s cubic-bezier(0.55, 0, 0.8, 0.2);
+  }
+
+  .rocket-return {
+    animation: rocket-return 1.2s ease-out forwards;
+  }
+
+  @keyframes rocket-return {
+    0% {
+      transform: translateY(150vh) scale(0.9) rotate(15deg);
+      opacity: 0;
+    }
+    30% {
+      opacity: 0.5;
+    }
+    100% {
+      transform: translateY(0) scale(1) rotate(0deg);
+      opacity: 1;
+    }
+  }
+</style>
+
+<script>
+  if (typeof window.speedMultiplier === "undefined") {
+    window.speedMultiplier = 1;
+  }
+
+  document.addEventListener('DOMContentLoaded', function() {
+    var rocket = document.querySelector('.rocket-anim img, .rocket-anim div[id^="lottie"]');
+    if (!rocket) return;
+
+    rocket.style.cursor = 'pointer';
+
+    rocket.addEventListener('click', function() {
+      rocket.classList.add('rocket-launch');
+      window.speedMultiplier = 20;
+
+      setTimeout(function() {
+        rocket.classList.remove('rocket-launch');
+        rocket.classList.add('rocket-return');
+      }, 700);
+
+      rocket.addEventListener('animationend', function() {
+        rocket.classList.remove('rocket-return');
+        window.speedMultiplier = 1;
+      }, { once: true });
+    });
+  });
+</script>

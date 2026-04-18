@@ -12,6 +12,7 @@
 {{- $style := .Get "style" -}}
 
 {{- $lottie := .Get "lottie" -}}
+{{- $lottieList := .Get "lottieList" -}}
 {{- $lottieWidth := .Get "lottieWidth" | default "100%" }}
 {{- $lottieHeight := .Get "lottieHeight" | default "auto" }}
 {{- $lottieID := printf "lottie-%d" now.UnixNano }}
@@ -29,9 +30,9 @@
     {{ .Inner }}
   </div>
 
-  {{- if $lottie }}
-  <div class="hx:mx-auto">
-    <div id="{{ $lottieID }}" style="width:{{ $lottieWidth }};height:{{ $lottieHeight }};margin:0 auto;"></div>
+  {{- if or $lottie $lottieList }}
+  <div class="hx:mx-auto" style="display:flex;align-items:center;justify-content:center;width:100%;">
+    <div id="{{ $lottieID }}" style="width:{{ $lottieWidth }};height:{{ $lottieHeight }};{{ if $lottieList }}aspect-ratio:1/1;display:flex;align-items:center;justify-content:center;overflow:hidden;{{ end }}"></div>
 
     <script>
       if (!window._lottieScriptLoaded) {
@@ -41,18 +42,33 @@
         document.head.appendChild(script);
       }
 
-      const waitForLottie = setInterval(() => {
-        if (window.lottie) {
-          window.lottie.loadAnimation({
-            container: document.getElementById("{{ $lottieID }}"),
-            renderer: "svg",
-            loop: true,
-            autoplay: true,
-            path: "{{ $lottie }}"
-          });
-          clearInterval(waitForLottie);
-        }
-      }, 100);
+      (function() {
+        {{- if $lottieList }}
+        var paths = "{{ $lottieList }}".split(",");
+        var seen = [];
+        try { seen = JSON.parse(localStorage.getItem("lottie_seen") || "[]"); } catch(e) {}
+        var unseen = paths.filter(function(p) { return seen.indexOf(p) === -1; });
+        if (unseen.length === 0) { seen = []; unseen = paths; }
+        var lottiePath = unseen[Math.floor(Math.random() * unseen.length)];
+        seen.push(lottiePath);
+        try { localStorage.setItem("lottie_seen", JSON.stringify(seen)); } catch(e) {}
+        {{- else }}
+        var lottiePath = "{{ $lottie }}";
+        {{- end }}
+
+        var waitForLottie = setInterval(function() {
+          if (window.lottie) {
+            window.lottie.loadAnimation({
+              container: document.getElementById("{{ $lottieID }}"),
+              renderer: "svg",
+              loop: true,
+              autoplay: true,
+              path: lottiePath
+            });
+            clearInterval(waitForLottie);
+          }
+        }, 100);
+      })();
     </script>
   </div>
 
