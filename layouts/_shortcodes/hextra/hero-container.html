@@ -32,7 +32,7 @@
 
   {{- if or $lottie $lottieList }}
   <div class="hx:mx-auto" style="display:flex;align-items:center;justify-content:center;width:100%;">
-    <div id="{{ $lottieID }}" style="width:{{ $lottieWidth }};height:{{ $lottieHeight }};{{ if $lottieList }}aspect-ratio:1/1;display:flex;align-items:center;justify-content:center;overflow:hidden;{{ end }}"></div>
+    <div id="{{ $lottieID }}" class="hx:max-sm:!w-full" style="width:{{ $lottieWidth }};height:{{ $lottieHeight }};{{ if $lottieList }}aspect-ratio:1/1;display:flex;align-items:center;justify-content:center;overflow:hidden;{{ end }}"></div>
 
     <script>
       if (!window._lottieScriptLoaded) {
