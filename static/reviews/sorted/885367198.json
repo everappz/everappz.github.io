@@ -1,5 +1,35 @@
 [
   {
+    "country": "it",
+    "id": "13962790554",
+    "author": "Expattinatore",
+    "rating": 1,
+    "title": "Lettura da cartella sincronizzata con Synology Drive",
+    "content": "L'app non permette di selezionare la cartella sincronizzata con Synology Drive\nLa sincronizzazione con synology è possibile solo utilizzando la funzione di sincronizzazione offline tramite protocollo SMB, WEBDAV o Online\nPurtroppo, per ben 2 volte, dopo aver effettuata la sincronizzazione, si è verificato un crash che ha cancellato tutti i file dalla cartella locale costringendomi a sincronizzare di nuovo\nCORREGGO: È SUCCESSO ALTRE 2 VOLTE\nA proposito, se ci sono molti file da sincronizzare, conviene far partire un brano e farlo ripetere all'infinito altrimenti la sincronizzazione si blocca",
+    "date": "2026-04-15T22:08:10-07:00",
+    "version": "8.5"
+  },
+  {
+    "country": "ca",
+    "id": "13961889505",
+    "author": "A1iscoolguy",
+    "rating": 5,
+    "title": "Evermusic",
+    "content": "Very nice it deserves 10 stars",
+    "date": "2026-04-15T15:08:50-07:00",
+    "version": "8.5"
+  },
+  {
+    "country": "no",
+    "id": "13960833772",
+    "author": "rawdistorted",
+    "rating": 5,
+    "title": "I mean",
+    "content": "Perfect",
+    "date": "2026-04-15T08:32:39-07:00",
+    "version": "8.5"
+  },
+  {
     "country": "us",
     "id": "13955884060",
     "author": "HelloMyNameIsCam",
