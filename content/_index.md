@@ -36,9 +36,7 @@ aliases:
   lottieCardSize="420px"
 >}}
 
-<div class="hx:mt-12"></div>
-
-<div class="hx:flex hx:flex-col hx:items-center hx:justify-center hx:text-center hx:sm:block">
+<div class="hx:flex hx:flex-col hx:items-center hx:justify-center hx:text-center">
 
 {{< hextra/hero-badge >}}
   <div class="hx:w-2 hx:h-2 hx:rounded-full hx:bg-primary-400"></div>
