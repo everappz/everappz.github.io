@@ -32,12 +32,12 @@ aliases:
 
 {{< hextra/hero-container 
   lottieList="/images/juicy-json/businessman-exploring-financial-trends-on-visual-dashboard-investment-research-for-decision-making-1.json,/images/juicy-json/colleagues-reviewing-charts-and-diagrams-office-teamwork-or-business-analysis-concept.json,/images/juicy-json/creative-person-with-laptop-and-idea-startup-innovation-and-brainstorming.json,/images/juicy-json/juicy-boy-with-laptop.json,/images/juicy-json/juicy-business-coach-explains-the-material-to-the-woman.json,/images/juicy-json/juicy-girl-with-laptop.json,/images/juicy-json/juicy-man-programmer-writing-code-and-make-web-design-on-a-pc.json,/images/juicy-json/juicy-woman-is-reading-a-book-at-home.json,/images/juicy-json/juicy-woman-with-laptop-and-new-business-idea.json,/images/juicy-json/office-worker-meditating-with-documents-floating-stress-management-and-effective-multitasking-1.json,/images/juicy-json/student-daydreaming-at-desk-studies-on-the-eve-of-the-holidays-1.json,/images/juicy-json/student-taking-notes-while-using-computer-e-learning-at-home-1.json,/images/juicy-json/working-on-laptop-at-desk-remote-job-or-home-office-workspace-1.json" 
-  lottieWidth="80%"
+  lottieCard="true"
+  lottieCardSize="420px"
 >}}
 
-<div class="hx:mt-12"></div>
 
-<div class="hx:flex hx:flex-col hx:items-center hx:justify-center hx:text-center hx:sm:block">
+<div class="hx:flex hx:flex-col hx:items-center hx:justify-center hx:text-center">
 
 {{< hextra/hero-badge >}}
   <div class="hx:w-2 hx:h-2 hx:rounded-full hx:bg-primary-400"></div>
