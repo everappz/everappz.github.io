@@ -77,11 +77,23 @@ By subscribing, you agree to our [Privacy Policy](/legal/privacy-policy) and acc
 ### Page Bundle Images (IMPORTANT)
 Hugo page bundles are language-scoped. Images stored alongside `_index.md` (e.g., `heroimage/`, `screenshots/`) are only served for the English page. Translated pages cannot access them via relative paths.
 
-**Rule:** In translated files, convert all relative image paths to absolute paths:
-- `./heroimage/hero_1600.webp` → `/products/<product>/heroimage/hero_1600.webp`
-- `./screenshots/1.png` → `/products/<product>/screenshots/1.png`
+**Rule:** Move images from the page bundle to `static/` and use absolute paths in BOTH the English source and all translations:
+1. Move `content/<section>/<page>/image.png` → `static/<section>/<page>/image.png`
+2. Update the English `_index.md` to use the absolute path: `![](/section/page/image.png)`
+3. All translated `_index.XX.md` files use the same absolute path
 
-This applies to any `image="./..."` parameter in shortcodes like `hextra/hero-container`, `hextra/hero-badge`, `card`, etc. The absolute path resolves to the English page bundle's resources, which are shared across all locales.
+This applies to:
+- Markdown images: `![](image.png)` → `![](/section/page/image.png)`
+- Shortcode `image="./..."` parameters → `image="/section/page/..."`
+- Any `image="./..."` in shortcodes like `hextra/hero-container`, `hextra/hero-badge`, `card`, etc.
+
+**Example (blog post):**
+- Move: `content/blog/my-post/diagram.png` → `static/blog/my-post/diagram.png`
+- English & all translations use: `![](/blog/my-post/diagram.png)`
+
+For product pages with `heroimage/` and `screenshots/` subdirectories:
+- Move: `content/products/evermusic/heroimage/` → `static/products/evermusic/heroimage/`
+- English & all translations use: `image="/products/evermusic/heroimage/hero_1600.webp"`
 
 ## Character Encoding Rules
 
@@ -149,7 +161,6 @@ The `<strong>`, `&nbsp;`, `<br class="...">` tags stay exactly in place.
 
 ## Pages Pending Translation
 
-- `content/about/_index.md`
 - `content/support/_index.md`
 - `content/contact/_index.md`
 - `content/docs/_index.md`
@@ -165,4 +176,10 @@ The `<strong>`, `&nbsp;`, `<br class="...">` tags stay exactly in place.
 - `content/products/soundy/_index.md`
 - `content/subscribe/_index.md`
 
-Skip: `content/blog/_index.md` (no translatable content), `content/auth/` (skip entirely)
+## Pages Already Translated
+
+- `content/about/_index.md` — all 32 languages
+- `content/blog/_index.md` — all 32 languages
+- `content/blog/audio-streaming-and-caching-in-ios-using-avassetresourceloader-and-avplayer/_index.md` — all 32 languages
+
+Skip: `content/auth/` (skip entirely)

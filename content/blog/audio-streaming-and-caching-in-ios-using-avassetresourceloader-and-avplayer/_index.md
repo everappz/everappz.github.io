@@ -20,7 +20,7 @@ authors:
 
 {{< author-byline >}}
 
-![](diagram.png)
+![](/blog/audio-streaming-and-caching-in-ios-using-avassetresourceloader-and-avplayer/diagram.png)
 
 **TL;DR:** Use `AVAssetResourceLoaderDelegate` with a custom URL scheme to intercept AVPlayer's resource loading. This lets you add custom authorization headers for cloud services, cache audio to disk, and control streaming behavior -- all without writing a local HTTP proxy. Full source code is on [GitHub](http://github.com/leshkoapps/AVAssetResourceLoader).
 
