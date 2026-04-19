@@ -30,9 +30,14 @@
     {{ .Inner }}
   </div>
 
+  {{- $lottieCard := .Get "lottieCard" | default false -}}
+  {{- $lottieCardSize := .Get "lottieCardSize" | default "400px" -}}
   {{- if or $lottie $lottieList }}
-  <div class="hx:mx-auto" style="display:flex;align-items:center;justify-content:center;width:100%;">
-    <div id="{{ $lottieID }}" class="hx:max-sm:!w-full" style="width:{{ $lottieWidth }};height:{{ $lottieHeight }};{{ if $lottieList }}aspect-ratio:1/1;display:flex;align-items:center;justify-content:center;overflow:hidden;{{ end }}"></div>
+  <div class="hx:mx-auto hx:max-sm:justify-center" style="display:flex;align-items:center;justify-content:flex-end;width:100%;">
+    {{- $lottieCardPadding := .Get "lottieCardPadding" | default "1.5rem" -}}
+    {{ if $lottieCard }}<div class="hextra-feature-card not-prose hx:block hx:relative hx:overflow-hidden hx:rounded-3xl hx:border hx:border-gray-200 hx:hover:border-gray-300 hx:dark:border-neutral-800 hx:dark:hover:border-neutral-700 hx:before:pointer-events-none hx:before:absolute hx:before:inset-0 hx:before:bg-glass-gradient" style="width:{{ $lottieCardSize }};height:{{ $lottieCardSize }};max-width:100%;aspect-ratio:1/1;display:flex;align-items:center;justify-content:center;padding:{{ $lottieCardPadding }};">{{ end }}
+    <div id="{{ $lottieID }}" style="{{ if $lottieCard }}width:100%;height:100%;display:flex;align-items:center;justify-content:center;{{ else }}width:{{ $lottieWidth }};height:{{ $lottieHeight }};{{ if $lottieList }}aspect-ratio:1/1;display:flex;align-items:center;justify-content:center;overflow:hidden;{{ end }}{{ end }}"></div>
+    {{ if $lottieCard }}</div>{{ end }}
 
     <script>
       if (!window._lottieScriptLoaded) {
