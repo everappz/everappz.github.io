@@ -54,7 +54,7 @@ Her path to tech started in customer-facing roles in Spain's hospitality industr
 
 She transitioned into the tech world driven by a genuine passion for mobile technology. She loves discovering new iOS features and tricks, and has a natural vision for how to turn complex functionality into simple, intuitive apps. At Everappz, she's the one who makes sure every feature makes sense to real users — not just to developers.
 
-Anna graduated with honors (Matrícula de Honor) in Business Administration and Finance from Colegio Internacional Lope de Vega. She also holds certifications in conflict resolution and mediation (Divulgación Dinámica) and effective business communication (Coursera). She is based in Alicante, Spain.
+Anna graduated with honors (Matrícula de Honor) in Business Administration and Finance from Colegio Internacional Lope de Vega. She also holds certifications in conflict resolution and mediation and effective business communication. She is based in Alicante, Spain.
 
 
 
@@ -75,7 +75,7 @@ Artem Meleshko is a Senior iOS Developer and the co-founder of Everappz, a Spain
 
 His story began in 2006, developing mobile games and applications for the Java (J2ME) phones that were popular at the time. In 2009, he transitioned to iOS development, spending years working for large companies and gaining valuable experience in professional app engineering — building products used by tens of millions of people worldwide.
 
-Eventually, he decided to apply that knowledge and passion to his own projects — removing middle managers, unnecessary meetings, and distractions. This gave him the freedom to focus solely on what matters: making great apps. That's how Everappz was born.
+Eventually, he decided to apply that knowledge and passion to his own projects — removing middle managers, unnecessary meetings, and distractions. This gave him the freedom to focus solely on what matters:4 making great apps. That's how Everappz was born.
 
 His flagship app, Evermusic, is a cloud and offline music player that has been downloaded over 14 million times. It supports all major audio formats, integrates with 30+ cloud services and network protocols (SMB, WebDAV, DLNA), and includes features like an advanced equalizer, crossfade, gapless playback, CarPlay support, and a built-in ID3 tag editor.
 
