@@ -93,3 +93,6 @@ searchPlaceholder: "Search..."
 system: "System"
 tags: "Tags"
 viewAsMarkdown: "View as Markdown"
+
+# 404
+"404": "This page could not be found."

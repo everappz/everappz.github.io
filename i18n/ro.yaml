@@ -83,3 +83,6 @@ legalCardPrivacy: "Politica de confidențialitate"
 legalCardCookie: "Politica de cookie-uri"
 legalCardTerms: "Termeni și condiții"
 legalCardLicense: "Acord de licență"
+
+# 404
+"404": "Această pagină nu a putut fi găsită."

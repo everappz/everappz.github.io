@@ -85,3 +85,6 @@ legalCardPrivacy: "Pravila privatnosti"
 legalCardCookie: "Pravila o kolačićima"
 legalCardTerms: "Uvjeti korištenja"
 legalCardLicense: "Licencni ugovor"
+
+# 404
+"404": "Ova stranica nije pronađena."

@@ -93,3 +93,6 @@ searchPlaceholder: "Søk..."
 system: "System"
 tags: "Emner"
 viewAsMarkdown: "Vis som Markdown"
+
+# 404
+"404": "Denne siden ble ikke funnet."

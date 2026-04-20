@@ -85,3 +85,6 @@ legalCardPrivacy: "Tietosuojakäytäntö"
 legalCardCookie: "Evästekäytäntö"
 legalCardTerms: "Käyttöehdot"
 legalCardLicense: "Lisenssisopimus"
+
+# 404
+"404": "Tätä sivua ei löytynyt."

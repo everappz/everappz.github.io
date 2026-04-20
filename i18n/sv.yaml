@@ -85,3 +85,6 @@ legalCardPrivacy: "Integritetspolicy"
 legalCardCookie: "Cookiepolicy"
 legalCardTerms: "Villkor"
 legalCardLicense: "Licensavtal"
+
+# 404
+"404": "Den här sidan kunde inte hittas."

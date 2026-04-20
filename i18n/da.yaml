@@ -85,3 +85,6 @@ legalCardPrivacy: "Privatlivspolitik"
 legalCardCookie: "Cookiepolitik"
 legalCardTerms: "Vilkår og betingelser"
 legalCardLicense: "Licensaftale"
+
+# 404
+"404": "Denne side kunne ikke findes."

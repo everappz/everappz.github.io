@@ -85,3 +85,6 @@ legalCardPrivacy: "Política de privacitat"
 legalCardCookie: "Política de galetes"
 legalCardTerms: "Termes i condicions"
 legalCardLicense: "Acord de llicència"
+
+# 404
+"404": "No s'ha pogut trobar aquesta pàgina."

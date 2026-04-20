@@ -85,3 +85,6 @@ legalCardPrivacy: "Gizlilik Politikası"
 legalCardCookie: "Çerez Politikası"
 legalCardTerms: "Şartlar ve Koşullar"
 legalCardLicense: "Lisans Sözleşmesi"
+
+# 404
+"404": "Bu sayfa bulunamadı."

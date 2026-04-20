@@ -83,3 +83,6 @@ legalCardPrivacy: "Политика конфиденциальности"
 legalCardCookie: "Политика использования cookie"
 legalCardTerms: "Условия использования"
 legalCardLicense: "Лицензионное соглашение"
+
+# 404
+"404": "Эта страница не найдена."

@@ -85,3 +85,6 @@ legalCardPrivacy: "سياسة الخصوصية"
 legalCardCookie: "سياسة ملفات تعريف الارتباط"
 legalCardTerms: "الشروط والأحكام"
 legalCardLicense: "اتفاقية الترخيص"
+
+# 404
+"404": "لم يتم العثور على هذه الصفحة."

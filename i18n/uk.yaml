@@ -83,3 +83,6 @@ legalCardPrivacy: "Політика конфіденційності"
 legalCardCookie: "Політика файлів cookie"
 legalCardTerms: "Умови та положення"
 legalCardLicense: "Ліцензійна угода"
+
+# 404
+"404": "Цю сторінку не знайдено."

@@ -83,3 +83,6 @@ legalCardPrivacy: "Datenschutzerklärung"
 legalCardCookie: "Cookie-Richtlinie"
 legalCardTerms: "Allgemeine Geschäftsbedingungen"
 legalCardLicense: "Lizenzvereinbarung"
+
+# 404
+"404": "Diese Seite konnte nicht gefunden werden."

@@ -85,3 +85,6 @@ legalCardPrivacy: "Adatvédelmi szabályzat"
 legalCardCookie: "Süti szabályzat"
 legalCardTerms: "Általános szerződési feltételek"
 legalCardLicense: "Licencszerződés"
+
+# 404
+"404": "Ez az oldal nem található."

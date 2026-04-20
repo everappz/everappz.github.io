@@ -83,3 +83,6 @@ legalCardPrivacy: "Privacybeleid"
 legalCardCookie: "Cookiebeleid"
 legalCardTerms: "Algemene voorwaarden"
 legalCardLicense: "Licentieovereenkomst"
+
+# 404
+"404": "Deze pagina kon niet worden gevonden."

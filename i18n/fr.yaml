@@ -83,3 +83,6 @@ legalCardPrivacy: "Politique de confidentialité"
 legalCardCookie: "Politique de cookies"
 legalCardTerms: "Conditions générales"
 legalCardLicense: "Contrat de licence"
+
+# 404
+"404": "Cette page est introuvable."

@@ -19,8 +19,18 @@
 
 {{- $css := printf "--hextra-feature-grid-cols: %v; %s" $cols $style -}}
 {{- $href := cond (hasPrefix $imageLink "/") ($imageLink | relURL) $imageLink -}}
-{{- if hasPrefix $image "/" -}}
-{{- $image = relURL (strings.TrimPrefix "/" $image) -}}
+{{- if and $image (not (urls.Parse $image).Scheme) -}}
+  {{- $imgPath := strings.TrimPrefix "/" $image -}}
+  {{- with resources.Get $imgPath -}}
+    {{- $processed := .Process "Resize 800x webp q80" -}}
+    {{- $imageWidth = $processed.Width -}}
+    {{- $imageHeight = $processed.Height -}}
+    {{- $image = $processed.RelPermalink -}}
+  {{- else -}}
+    {{- if hasPrefix $image "/" -}}
+      {{- $image = relURL (strings.TrimPrefix "/" $image) -}}
+    {{- end -}}
+  {{- end -}}
 {{- end -}}
 
 <div
