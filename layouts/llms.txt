@@ -2,9 +2,12 @@
 
 > {{ .Site.Params.description | default "" }}
 
-## About Everappz
+{{- with .Site.GetPage "/about" }}
 
-Everappz S.L. is a Spanish software company that develops iOS and macOS applications for audio playback, video playback, and music metadata management. The two-person team has accumulated over 14 million app downloads worldwide. Evermusic alone accounts for 11 million downloads and holds a 4.6-star rating from over 18,000 App Store reviews. Flacbox, a lossless audio player supporting FLAC, DSD, and 120+ formats, surpassed 1 million downloads. The company distributes exclusively through the Apple App Store.
+## {{ .Title }}
+
+{{ .Description }}
+{{- end }}
 
 - Founded: 2023
 - Location: Spain
@@ -12,36 +15,34 @@ Everappz S.L. is a Spanish software company that develops iOS and macOS applicat
 - Total downloads: 14+ million
 - App Store developer: [Everappz on the App Store](https://apps.apple.com/developer/everappz/id892803498)
 
-## Products
+## {{ with .Site.GetPage "/products" }}{{ .Title }}{{ else }}Products{{ end }}
+{{ range ((.Site.GetPage "/products").Sections) }}
+- [{{ .Title }}]({{ .Permalink }}): {{ .Description | default (.Summary | plainify | truncate 200) }}
+{{- end }}
 
-- [Evermusic - Offline Music Player]({{ .Site.BaseURL }}products/evermusic/): Cloud music player for iOS and macOS with 11 million downloads. Supports iCloud, Dropbox, Google Drive, and 12+ cloud services. Features offline download, equalizer, CarPlay, and gapless playback. Rated 4.6/5 from 18,000+ App Store reviews.
-- [Flacbox - Hi-Res Music Player]({{ .Site.BaseURL }}products/flacbox/): Lossless music player supporting 120+ audio formats including FLAC, DSD, ALAC, APE, and WAV. Over 1 million downloads. 10-band equalizer, cloud streaming, and metadata editor. No subscription required.
-- [Evertag - Music Tag Editor]({{ .Site.BaseURL }}products/evertag/): Music metadata editor for iOS and macOS. Edit ID3 tags, album artwork, lyrics, and 120+ tag fields. Batch editing, automatic tag lookup, and cloud file support.
-- [Evervideo - Video Player]({{ .Site.BaseURL }}products/evervideo/): Video player for iOS with cloud storage integration. Plays MKV, AVI, MP4, and other formats. Supports subtitles, picture-in-picture, and AirPlay.
-
-## Blog
-{{ range where (site.GetPage "blog").Sections "Params.llms" "ne" false }}
+## {{ with .Site.GetPage "/blog" }}{{ .Title }}{{ else }}Blog{{ end }}
+{{ range where (.Site.GetPage "/blog").Sections "Params.llms" "ne" false }}
 - [{{ .Title }}]({{ .Permalink }}): {{ .Description | default (.Summary | plainify | truncate 120) }}{{ if .Date }} - Published {{ .Date.Format "2006-01-02" }}{{ end }}
 {{- end }}
 
-## Documentation
-{{ range where (site.GetPage "docs").Sections "Params.llms" "ne" false }}
+## {{ with .Site.GetPage "/docs" }}{{ .Title }}{{ else }}Documentation{{ end }}
+{{ range where (.Site.GetPage "/docs").Sections "Params.llms" "ne" false }}
 ### {{ .Title }}
 {{ range where .Sections "Params.llms" "ne" false }}
 - [{{ .Title }}]({{ .Permalink }}): {{ .Description | default (.Summary | plainify | truncate 120) }}{{ if .Date }} - Published {{ .Date.Format "2006-01-02" }}{{ end }}
 {{- end }}
 {{ end }}
 
-## Support
+## {{ T "support" | default "Support" }}
 
-- [Support]({{ .Site.BaseURL }}support/): Get help with Everappz products
-- [Contact]({{ .Site.BaseURL }}contact/): Contact the Everappz team
+- [{{ with .Site.GetPage "/support" }}{{ .Title }}{{ else }}Support{{ end }}]({{ with .Site.GetPage "/support" }}{{ .Permalink }}{{ else }}{{ .Site.BaseURL }}support/{{ end }})
+- [{{ with .Site.GetPage "/contact" }}{{ .Title }}{{ else }}Contact{{ end }}]({{ with .Site.GetPage "/contact" }}{{ .Permalink }}{{ else }}{{ .Site.BaseURL }}contact/{{ end }})
 
-## Legal
+## {{ T "legal" | default "Legal" }}
 
-- [Privacy Policy]({{ .Site.BaseURL }}legal/privacy-policy/)
-- [Terms of Use]({{ .Site.BaseURL }}legal/terms-of-use/)
-- [License Agreement]({{ .Site.BaseURL }}legal/license-agreement/)
+- [{{ with .Site.GetPage "/legal/privacy-policy" }}{{ .Title }}{{ else }}Privacy Policy{{ end }}]({{ with .Site.GetPage "/legal/privacy-policy" }}{{ .Permalink }}{{ else }}{{ .Site.BaseURL }}legal/privacy-policy/{{ end }})
+- [{{ with .Site.GetPage "/legal/terms-of-use" }}{{ .Title }}{{ else }}Terms of Use{{ end }}]({{ with .Site.GetPage "/legal/terms-of-use" }}{{ .Permalink }}{{ else }}{{ .Site.BaseURL }}legal/terms-of-use/{{ end }})
+- [{{ with .Site.GetPage "/legal/license-agreement" }}{{ .Title }}{{ else }}License Agreement{{ end }}]({{ with .Site.GetPage "/legal/license-agreement" }}{{ .Permalink }}{{ else }}{{ .Site.BaseURL }}legal/license-agreement/{{ end }})
 
 ## Social Profiles
 
