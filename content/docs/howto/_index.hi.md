@@ -1,0 +1,22 @@
+---
+date: '2025-06-12T17:00:00+00:00'
+draft: false
+title: 'कैसे करें'
+description: 'Everappz ऐप्स को सेट करने, उपयोग करने और अधिकतम लाभ उठाने में मदद करने के लिए चरण-दर-चरण गाइड और सुझाव।'
+excludeSearch: true
+aliases:
+  - /index.php/category/how-to/
+  - /post/how-to-/
+---
+
+{{< author-byline >}}
+
+{{< lottie src="/images/juicy-json/juicy-team-analyzes-graphs-and-diagrams.json" width="85%" >}}
+
+यह अनुभाग Everappz ऐप्स का उपयोग करने के लिए व्यावहारिक और आसान-से-अनुसरण गाइड प्रदान करता है।
+
+चाहे आप पहली बार सेट कर रहे हों या उन्नत सुविधाओं के बारे में सुझाव खोज रहे हों, आपको यहाँ उत्तर मिलेंगे।
+
+समस्याओं को हल करने, नई तरकीबें सीखने और अपने ऐप अनुभव को अधिकतम करने के लिए हमारे ट्यूटोरियल देखें।
+
+{{< posts-list path="/docs/howto" >}}
