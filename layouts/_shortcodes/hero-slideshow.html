@@ -32,7 +32,7 @@
       {{- $appStoreUrl = replaceRE `appStoreUrl="([^"]*)"` "$1" . -}}
     {{- end -}}
     {{- range (findRE `productPageUrl="([^"]*)"` $line) -}}
-      {{- $productPageUrl = replaceRE `productPageUrl="([^"]*)"` "$1" . -}}
+      {{- $productPageUrl = replaceRE `productPageUrl="([^"]*)"` "$1" . | relLangURL -}}
     {{- end -}}
     {{- range (findRE `image="([^"]*)"` $line) -}}
       {{- $imagePath = replaceRE `image="([^"]*)"` "$1" . -}}
