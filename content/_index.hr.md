@@ -41,7 +41,7 @@ icon="/images/app_icons/webp/Evertag_Icon-App-1024x1024.webp" title="Evertag" ap
 {{< /hero-slideshow >}}
 </div>
 
-<div class="hx:mt-6"></div>
+<div class="hx:mt-16"></div>
 
 <div class="hx:w-full">
 

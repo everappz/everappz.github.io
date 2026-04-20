@@ -85,7 +85,7 @@
 @media(max-width:639px){.hextra-slide-readmore-text{display:none}.hextra-slide-readmore-arrow{display:inline}}
 </style>
 <div id="{{ $slideshowID }}" class="hextra-hero-slideshow">
-  <div class="hextra-slideshow-container">
+  <div class="hextra-slideshow-container hextra-feature-card not-prose hx:block hx:relative hx:overflow-hidden hx:rounded-3xl hx:border hx:border-gray-200 hx:hover:border-gray-300 hx:dark:border-neutral-800 hx:dark:hover:border-neutral-700 hx:before:pointer-events-none hx:before:absolute hx:before:inset-0 hx:before:bg-glass-gradient">
     {{- range $i, $slide := $slides }}
     <div class="hextra-slide" data-index="{{ $i }}" style="position:absolute;inset:0;opacity:{{ if eq $i 0 }}1{{ else }}0{{ end }};transition:opacity 1s ease-in-out;z-index:{{ if eq $i 0 }}2{{ else }}1{{ end }};">
       {{- if $slide.productPageUrl }}<a href="{{ $slide.productPageUrl }}" style="display:block;width:100%;height:100%;">{{ end -}}
@@ -117,7 +117,7 @@
   </div>
 
   {{- if gt (len $slides) 1 }}
-  <div style="display:flex;justify-content:center;gap:0.5rem;padding-top:0.75rem;">
+  <div style="display:flex;justify-content:center;gap:0.5rem;padding-top:1.5rem;">
     {{- range $i, $slide := $slides }}
     <button class="hextra-dot" data-index="{{ $i }}" aria-label="Slide {{ add $i 1 }}" style="width:8px;height:8px;border-radius:50%;border:none;cursor:pointer;padding:0;transition:background 0.3s,transform 0.3s;background:{{ if eq $i 0 }}rgba(255,255,255,0.9){{ else }}rgba(255,255,255,0.35){{ end }};{{ if eq $i 0 }}transform:scale(1.25);{{ end }}"></button>
     {{- end }}
