@@ -28,21 +28,7 @@ aliases:
 
 {{< dark-gradient-bg >}}
 
-<div class="hx:w-full hx:flex hx:flex-col hx:items-center hx:justify-center hx:text-center">
-
-{{< hextra/hero-badge >}}
-  <div class="hx:w-2 hx:h-2 hx:rounded-full hx:bg-primary-400"></div>
-  <span>14 Million Downloads</span>
-  {{< icon name="arrow-circle-right" attributes="height=14" >}}
-{{< /hextra/hero-badge >}}
-
-<div class="hx:mt-6 hx:mb-6">
-{{< hextra/hero-headline >}}
-Apps you'll use every day.
-{{< /hextra/hero-headline >}}
-</div>
-
-</div>
+{{< home-hero-banner >}}
 
 <div class="hx:mt-12"></div>
 

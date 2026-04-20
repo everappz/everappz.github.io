@@ -60,6 +60,10 @@ legal: "Yasal"
 contact: "İletişim"
 about: "Hakkında"
 
+
+# Hero
+heroSlogan: "Her gün kullanacağınız uygulamalar."
+heroDownloads: "14 milyon indirme"
 # Footer
 footerHelp: "Yardım"
 footerCompany: "Şirket"

@@ -58,6 +58,10 @@ legal: "Juridisch"
 contact: "Contact"
 about: "Over ons"
 
+
+# Hero
+heroSlogan: "Apps die je elke dag gebruikt."
+heroDownloads: "14 miljoen downloads"
 # Footer
 footerHelp: "Help"
 footerCompany: "Bedrijf"

@@ -60,6 +60,10 @@ legal: "Oikeudelliset tiedot"
 contact: "Yhteystiedot"
 about: "Tietoa meistä"
 
+
+# Hero
+heroSlogan: "Sovelluksia, joita käytät joka päivä."
+heroDownloads: "14 miljoonaa latausta"
 # Footer
 footerHelp: "Ohje"
 footerCompany: "Yritys"

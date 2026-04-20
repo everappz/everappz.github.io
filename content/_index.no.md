@@ -28,39 +28,17 @@ aliases:
 
 {{< dark-gradient-bg >}}
 
+{{< home-hero-banner >}}
+
+<div class="hx:mt-12"></div>
+
 <div class="hx:w-full">
-
-{{< hextra/hero-container 
-  lottieList="/images/juicy-json/businessman-exploring-financial-trends-on-visual-dashboard-investment-research-for-decision-making-1.json,/images/juicy-json/colleagues-reviewing-charts-and-diagrams-office-teamwork-or-business-analysis-concept.json,/images/juicy-json/creative-person-with-laptop-and-idea-startup-innovation-and-brainstorming.json,/images/juicy-json/juicy-boy-with-laptop.json,/images/juicy-json/juicy-business-coach-explains-the-material-to-the-woman.json,/images/juicy-json/juicy-girl-with-laptop.json,/images/juicy-json/juicy-man-programmer-writing-code-and-make-web-design-on-a-pc.json,/images/juicy-json/juicy-woman-is-reading-a-book-at-home.json,/images/juicy-json/juicy-woman-with-laptop-and-new-business-idea.json,/images/juicy-json/office-worker-meditating-with-documents-floating-stress-management-and-effective-multitasking-1.json,/images/juicy-json/student-daydreaming-at-desk-studies-on-the-eve-of-the-holidays-1.json,/images/juicy-json/student-taking-notes-while-using-computer-e-learning-at-home-1.json,/images/juicy-json/working-on-laptop-at-desk-remote-job-or-home-office-workspace-1.json" 
-  lottieCard="true"
-  lottieCardSize="420px"
->}}
-
-
-<div class="hx:flex hx:flex-col hx:items-center hx:justify-center hx:text-center">
-
-{{< hextra/hero-badge >}}
-  <div class="hx:w-2 hx:h-2 hx:rounded-full hx:bg-primary-400"></div>
-  <span>14 millioner nedlastinger</span>
-  {{< icon name="arrow-circle-right" attributes="height=14" >}}
-{{< /hextra/hero-badge >}}
-
-<div class="hx:mt-6 hx:mb-6">
-{{< hextra/hero-headline >}}
- EVERAPPZ
-{{< /hextra/hero-headline >}}
-</div>
-
-<div>
-{{< hextra/hero-subtitle >}}
-<strong>Oppdag appene våre som øker produktiviteten,&nbsp;<br class="hx:sm:block hx:hidden" />og gjør daglige oppgaver enklere og mer morsomme.</strong>
-{{< /hextra/hero-subtitle >}}
-</div>
-
-</div>
-
-{{< /hextra/hero-container >}}
-
+{{< hero-slideshow >}}
+icon="/images/app_icons/webp/Evermusic_Icon-App-1024x1024.webp" title="Evermusic" appStoreUrl="https://apps.apple.com/app/apple-store/id885367198?pt=95781850&ct=everappzcom&mt=8" productPageUrl="/products/evermusic/" image="products/evermusic/heroimage/hero_1200.webp"
+icon="/images/app_icons/webp/Flacbox_Icon-App-1024x1024.webp" title="Flacbox" appStoreUrl="https://apps.apple.com/app/apple-store/id1097564256?pt=95781850&ct=everappzcom&mt=8" productPageUrl="/products/flacbox/" image="products/flacbox/heroimage/hero_1600.webp"
+icon="/images/app_icons/webp/Evervideo_Icon-App-1024x1024.webp" title="Evervideo" appStoreUrl="https://apps.apple.com/us/app/evervideo-hd-video-player/id6602897336?ct=everappzcom&mt=8" productPageUrl="/products/evervideo/" image="products/evervideo/heroimage/hero_1600.webp"
+icon="/images/app_icons/webp/Evertag_Icon-App-1024x1024.webp" title="Evertag" appStoreUrl="https://apps.apple.com/app/apple-store/id1450763230?pt=95781850&ct=everappzcom&mt=8" productPageUrl="/products/evertag/" image="products/evertag/heroimage/evertag_mac_600_345.png"
+{{< /hero-slideshow >}}
 </div>
 
 <div class="hx:mt-6"></div>

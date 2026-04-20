@@ -58,6 +58,10 @@ legal: "法的情報"
 contact: "お問い合わせ"
 about: "会社概要"
 
+
+# Hero
+heroSlogan: "毎日使いたくなるアプリ。"
+heroDownloads: "1400万ダウンロード"
 # Footer
 footerHelp: "ヘルプ"
 footerCompany: "会社情報"

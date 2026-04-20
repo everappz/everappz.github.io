@@ -60,6 +60,10 @@ legal: "Νομικά"
 contact: "Επικοινωνία"
 about: "Σχετικά"
 
+
+# Hero
+heroSlogan: "Εφαρμογές που θα χρησιμοποιείτε κάθε μέρα."
+heroDownloads: "14 εκατομμύρια λήψεις"
 # Footer
 footerHelp: "Βοήθεια"
 footerCompany: "Εταιρεία"

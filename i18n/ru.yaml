@@ -35,7 +35,7 @@ onThisPage: "На этой странице"
 more: "Ещё"
 poweredBy: "При поддержке Hextra"
 previous: "Назад"
-readMore: "Читать далее →"
+readMore: "Подробнее →"
 searchPlaceholder: "Поиск..."
 system: "Система"
 tags: "Теги"
@@ -58,6 +58,10 @@ legal: "Правовая информация"
 contact: "Контакты"
 about: "О нас"
 
+
+# Hero
+heroSlogan: "Приложения, которыми пользуешься каждый день."
+heroDownloads: "14 миллионов загрузок"
 # Footer
 footerHelp: "Помощь"
 footerCompany: "Компания"

@@ -35,7 +35,7 @@ onThisPage: "בעמוד זה"
 more: "עוד"
 poweredBy: "Hextra מופעל על-ידי"
 previous: "הקודם"
-readMore: "← קרא עוד"
+readMore: "קרא עוד →"
 searchPlaceholder: "חיפוש..."
 system: "מערכת"
 tags: "תגיות"
@@ -58,6 +58,10 @@ legal: "משפטי"
 contact: "צור קשר"
 about: "אודות"
 
+
+# Hero
+heroSlogan: "אפליקציות שתשתמשו בהן כל יום."
+heroDownloads: "14 מיליון הורדות"
 # Footer
 footerHelp: "עזרה"
 footerCompany: "החברה"

@@ -15,6 +15,11 @@ legal: "Legal"
 contact: "Contact"
 about: "About"
 
+# Hero
+heroSlogan: "Apps you'll use every day."
+heroDownloads: "14 Million Downloads"
+readMore: "Read more →"
+
 # Footer
 footerHelp: "Help"
 footerCompany: "Company"
@@ -84,7 +89,6 @@ onThisPage: "On this page"
 more: "More"
 poweredBy: "Powered by Hextra"
 previous: "Prev"
-readMore: "Read more →"
 searchPlaceholder: "Search..."
 system: "System"
 tags: "Tags"

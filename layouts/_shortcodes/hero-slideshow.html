@@ -77,7 +77,7 @@
         </div>
         {{- end }}
         {{- if $slide.productPageUrl }}
-        <a href="{{ $slide.productPageUrl }}" style="background:#fff;color:#000;padding:0.4rem 1rem;border-radius:9999px;font-size:0.8125rem;font-weight:600;text-decoration:none;flex-shrink:0;transition:background 0.2s;pointer-events:auto;" onmouseover="this.style.background='#e5e5e5'" onmouseout="this.style.background='#fff'">Read more</a>
+        <a href="{{ $slide.productPageUrl }}" style="background:#fff;color:#000;padding:0.4rem 1rem;border-radius:9999px;font-size:0.8125rem;font-weight:600;text-decoration:none;flex-shrink:0;transition:background 0.2s;pointer-events:auto;" onmouseover="this.style.background='#e5e5e5'" onmouseout="this.style.background='#fff'">{{ T "readMore" | default "Read more →" }}</a>
         {{- end }}
       </div>
     </div>

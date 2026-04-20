@@ -58,6 +58,10 @@ legal: "Правова інформація"
 contact: "Контакти"
 about: "Про нас"
 
+
+# Hero
+heroSlogan: "Застосунки, якими користуєшся щодня."
+heroDownloads: "14 мільйонів завантажень"
 # Footer
 footerHelp: "Довідка"
 footerCompany: "Компанія"

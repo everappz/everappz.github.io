@@ -15,6 +15,11 @@ legal: "Juridisk"
 contact: "Kontakt"
 about: "Om oss"
 
+
+# Hero
+heroSlogan: "Apper du vil bruke hver dag."
+heroDownloads: "14 millioner nedlastinger"
+readMore: "Les mer →"
 # Footer
 footerHelp: "Hjelp"
 footerCompany: "Selskap"
@@ -84,7 +89,6 @@ onThisPage: "På denne siden"
 more: "Mer"
 poweredBy: "Drevet av Hextra"
 previous: "Forrige"
-readMore: "Les mer →"
 searchPlaceholder: "Søk..."
 system: "System"
 tags: "Emner"

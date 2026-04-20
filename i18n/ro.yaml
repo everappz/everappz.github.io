@@ -35,7 +35,7 @@ onThisPage: "Pe această pagină"
 more: "Mai mult"
 poweredBy: "Susținut de Hextra"
 previous: "Anterior"
-readMore: "Citește mai mult ←"
+readMore: "Citește mai mult ← →"
 searchPlaceholder: "Caută..."
 system: "Sistem"
 tags: "Etichete"
@@ -58,6 +58,10 @@ legal: "Legal"
 contact: "Contact"
 about: "Despre"
 
+
+# Hero
+heroSlogan: "Aplicații pe care le vei folosi în fiecare zi."
+heroDownloads: "14 milioane de descărcări"
 # Footer
 footerHelp: "Ajutor"
 footerCompany: "Companie"

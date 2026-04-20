@@ -58,6 +58,10 @@ legal: "법적 고지"
 contact: "문의"
 about: "소개"
 
+
+# Hero
+heroSlogan: "매일 사용하게 될 앱."
+heroDownloads: "1,400만 다운로드"
 # Footer
 footerHelp: "도움말"
 footerCompany: "회사"

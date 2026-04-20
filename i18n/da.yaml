@@ -60,6 +60,10 @@ legal: "Juridisk"
 contact: "Kontakt"
 about: "Om os"
 
+
+# Hero
+heroSlogan: "Apps du vil bruge hver dag."
+heroDownloads: "14 millioner downloads"
 # Footer
 footerHelp: "Hjælp"
 footerCompany: "Virksomhed"

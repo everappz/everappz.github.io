@@ -60,6 +60,10 @@ legal: "Informacje prawne"
 contact: "Kontakt"
 about: "O nas"
 
+
+# Hero
+heroSlogan: "Aplikacje, których używasz każdego dnia."
+heroDownloads: "14 milionów pobrań"
 # Footer
 footerHelp: "Pomoc"
 footerCompany: "Firma"

@@ -60,6 +60,10 @@ legal: "ข้อกฎหมาย"
 contact: "ติดต่อ"
 about: "เกี่ยวกับ"
 
+
+# Hero
+heroSlogan: "แอปที่คุณจะใช้ทุกวัน"
+heroDownloads: "14 ล้านดาวน์โหลด"
 # Footer
 footerHelp: "ช่วยเหลือ"
 footerCompany: "บริษัท"

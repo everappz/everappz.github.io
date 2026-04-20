@@ -60,6 +60,10 @@ legal: "Jogi információk"
 contact: "Kapcsolat"
 about: "Rólunk"
 
+
+# Hero
+heroSlogan: "Alkalmazások, amelyeket minden nap használsz."
+heroDownloads: "14 millió letöltés"
 # Footer
 footerHelp: "Súgó"
 footerCompany: "Cég"

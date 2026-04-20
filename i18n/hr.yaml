@@ -60,6 +60,10 @@ legal: "Pravne informacije"
 contact: "Kontakt"
 about: "O nama"
 
+
+# Hero
+heroSlogan: "Aplikacije koje ćete koristiti svaki dan."
+heroDownloads: "14 milijuna preuzimanja"
 # Footer
 footerHelp: "Pomoć"
 footerCompany: "Tvrtka"

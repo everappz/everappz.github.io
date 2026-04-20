@@ -58,6 +58,10 @@ legal: "法律信息"
 contact: "联系我们"
 about: "关于"
 
+
+# Hero
+heroSlogan: "每天都会用到的应用。"
+heroDownloads: "1400万次下载"
 # Footer
 footerHelp: "帮助"
 footerCompany: "公司"

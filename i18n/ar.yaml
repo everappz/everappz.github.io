@@ -60,6 +60,10 @@ legal: "قانوني"
 contact: "اتصل بنا"
 about: "من نحن"
 
+
+# Hero
+heroSlogan: "تطبيقات ستستخدمها كل يوم."
+heroDownloads: "14 مليون تنزيل"
 # Footer
 footerHelp: "المساعدة"
 footerCompany: "الشركة"

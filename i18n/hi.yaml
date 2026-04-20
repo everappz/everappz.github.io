@@ -60,6 +60,10 @@ legal: "कानूनी"
 contact: "संपर्क"
 about: "हमारे बारे में"
 
+
+# Hero
+heroSlogan: "ऐप्स जो आप हर दिन इस्तेमाल करेंगे।"
+heroDownloads: "14 मिलियन डाउनलोड"
 # Footer
 footerHelp: "मदद"
 footerCompany: "कंपनी"
