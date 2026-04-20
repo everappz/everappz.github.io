@@ -2,7 +2,7 @@
 date: '2025-06-12T17:00:00+00:00'
 draft: false
 title: 'Gebruikershandleiding'
-description: 'Leer hoe u Everappz-apps zoals Evermusic, Flacbox, Evervideo en Evertag gebruikt. Stel cloudverbindingen in, beheer uw muziek en video\'s, pas afspelen aan en verken alle functies op één plek.'
+description: "Leer hoe u Everappz-apps zoals Evermusic, Flacbox, Evervideo en Evertag gebruikt. Stel cloudverbindingen in, beheer uw muziek en video's, pas afspelen aan en verken alle functies op één plek."
 keywords: [
   "Evermusic gebruikershandleiding", "Flacbox instructies", "Evervideo ondersteuning", "Evertag handleiding",
   "cloudmuziekspeler instellen", "hulp bij offline afspelen", "instructies audiotag-editor",
