@@ -34,10 +34,10 @@ aliases:
 
 <div class="hx:w-full">
 {{< hero-slideshow >}}
-icon="/images/app_icons/webp/Evermusic_Icon-App-1024x1024.webp" title="Evermusic" appStoreUrl="https://apps.apple.com/app/apple-store/id885367198?pt=95781850&ct=everappzcom&mt=8" productPageUrl="/products/evermusic/" image="products/evermusic/heroimage/hero_1200.webp"
-icon="/images/app_icons/webp/Flacbox_Icon-App-1024x1024.webp" title="Flacbox" appStoreUrl="https://apps.apple.com/app/apple-store/id1097564256?pt=95781850&ct=everappzcom&mt=8" productPageUrl="/products/flacbox/" image="products/flacbox/heroimage/hero_1600.webp"
-icon="/images/app_icons/webp/Evervideo_Icon-App-1024x1024.webp" title="Evervideo" appStoreUrl="https://apps.apple.com/us/app/evervideo-hd-video-player/id6602897336?ct=everappzcom&mt=8" productPageUrl="/products/evervideo/" image="products/evervideo/heroimage/hero_1600.webp"
-icon="/images/app_icons/webp/Evertag_Icon-App-1024x1024.webp" title="Evertag" appStoreUrl="https://apps.apple.com/app/apple-store/id1450763230?pt=95781850&ct=everappzcom&mt=8" productPageUrl="/products/evertag/" image="products/evertag/heroimage/evertag_mac_600_345.png"
+icon="/images/app_icons/webp/Evermusic_Icon-App-1024x1024.webp" title="Evermusic" appStoreUrl="https://apps.apple.com/app/apple-store/id885367198?pt=95781850&ct=everappzcom&mt=8" productPageUrl="/products/evermusic/" imageDesktop="products/evermusic/heroimage/hero_desktop.webp" imageMobile="products/evermusic/heroimage/hero_mobile.webp"
+icon="/images/app_icons/webp/Flacbox_Icon-App-1024x1024.webp" title="Flacbox" appStoreUrl="https://apps.apple.com/app/apple-store/id1097564256?pt=95781850&ct=everappzcom&mt=8" productPageUrl="/products/flacbox/" imageDesktop="products/flacbox/heroimage/hero_desktop.webp" imageMobile="products/flacbox/heroimage/hero_mobile.webp"
+icon="/images/app_icons/webp/Evervideo_Icon-App-1024x1024.webp" title="Evervideo" appStoreUrl="https://apps.apple.com/us/app/evervideo-hd-video-player/id6602897336?ct=everappzcom&mt=8" productPageUrl="/products/evervideo/" imageDesktop="products/evervideo/heroimage/hero_desktop.webp" imageMobile="products/evervideo/heroimage/hero_mobile.webp"
+icon="/images/app_icons/webp/Evertag_Icon-App-1024x1024.webp" title="Evertag" appStoreUrl="https://apps.apple.com/app/apple-store/id1450763230?pt=95781850&ct=everappzcom&mt=8" productPageUrl="/products/evertag/" imageDesktop="products/evertag/heroimage/hero_desktop.webp" imageMobile="products/evertag/heroimage/hero_mobile.webp"
 {{< /hero-slideshow >}}
 </div>
 
