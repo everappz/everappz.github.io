@@ -48,6 +48,11 @@ Apps you'll use every day.
 
 <div class="hx:w-full">
 {{< hero-slideshow >}}
+icon="/images/app_icons/webp/Evermusic_Icon-App-1024x1024.webp" title="Evermusic" appStoreUrl="https://apps.apple.com/app/apple-store/id885367198?pt=95781850&ct=everappzcom&mt=8" productPageUrl="/products/evermusic/" image="products/evermusic/heroimage/hero_1200.webp"
+icon="/images/app_icons/webp/Flacbox_Icon-App-1024x1024.webp" title="Flacbox" appStoreUrl="https://apps.apple.com/app/apple-store/id1097564256?pt=95781850&ct=everappzcom&mt=8" productPageUrl="/products/flacbox/" image="products/flacbox/heroimage/hero_1600.webp"
+icon="/images/app_icons/webp/Evervideo_Icon-App-1024x1024.webp" title="Evervideo" appStoreUrl="https://apps.apple.com/us/app/evervideo-hd-video-player/id6602897336?ct=everappzcom&mt=8" productPageUrl="/products/evervideo/" image="products/evervideo/heroimage/hero_1600.webp"
+icon="/images/app_icons/webp/Evertag_Icon-App-1024x1024.webp" title="Evertag" appStoreUrl="https://apps.apple.com/app/apple-store/id1450763230?pt=95781850&ct=everappzcom&mt=8" productPageUrl="/products/evertag/" image="products/evertag/heroimage/evertag_mac_600_345.png"
+{{< /hero-slideshow >}}
 </div>
 
 <div class="hx:mt-6"></div>
