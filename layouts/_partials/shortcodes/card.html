@@ -18,7 +18,14 @@
 {{- end -}}
 
 {{- $external := strings.HasPrefix $link "http" -}}
-{{- $href := cond (strings.HasPrefix $link "/") ($link | relURL) $link -}}
+{{- $href := $link -}}
+{{- if strings.HasPrefix $link "/" -}}
+  {{- with .page.GetPage $link -}}
+    {{- $href = .RelPermalink -}}
+  {{- else -}}
+    {{- $href = $link | relURL -}}
+  {{- end -}}
+{{- end -}}
 
 
 <a
