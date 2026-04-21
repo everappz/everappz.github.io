@@ -9,7 +9,6 @@ aliases:
   - /post/how-to-/
 ---
 
-{{< author-byline >}}
 
 {{< lottie src="/images/juicy-json/juicy-team-analyzes-graphs-and-diagrams.json" width="85%" >}}
 

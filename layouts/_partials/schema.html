@@ -225,8 +225,8 @@
 </script>
 {{- end }}
 
-{{/* ── Article (docs pages, non-index) ── */}}
-{{- if and (eq .Section "docs") (not .IsSection) }}
+{{/* ── Article (howto detail pages only) ── */}}
+{{- if and (eq .Section "docs") (not .IsSection) (in .RelPermalink "/docs/howto/") }}
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
@@ -276,7 +276,7 @@
 {
   "@context": "https://schema.org",
   "@type": "FAQPage",
-  {{- if eq .Section "docs" }}
+  {{- if and (eq .Section "docs") (in .RelPermalink "/docs/howto/") }}
   "author": {
     "@type": "Person",
     "name": "Artem Meleshko",
