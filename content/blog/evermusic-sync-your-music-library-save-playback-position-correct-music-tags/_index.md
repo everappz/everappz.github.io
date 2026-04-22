@@ -18,7 +18,7 @@ authors:
 
 {{< author-byline >}}
 
-![](21260c_641f376e779e47d4927b43c210d3c87f~mv2.jpeg)
+![](/blog/evermusic-sync-your-music-library-save-playback-position-correct-music-tags/21260c_641f376e779e47d4927b43c210d3c87f~mv2.jpeg)
 
 ## What Evermusic 2.3 Brings to Your Music Library
 
@@ -28,7 +28,7 @@ Evermusic is a cloud music player for iOS and macOS that lets you stream or down
 
 ## Automatic Music Library Sync
 
-![](21260c_7ae554f5982649758176de1c994b6b05~mv2.jpg)
+![](/blog/evermusic-sync-your-music-library-save-playback-position-correct-music-tags/21260c_7ae554f5982649758176de1c994b6b05~mv2.jpg)
 
 No more manual folder scanning. Evermusic 2.3 monitors your selected cloud folders and updates your music library automatically when files change. Set up the folders you want to track and the app handles the rest in the background.
 
@@ -40,7 +40,7 @@ This means:
 
 ## Save Playback Position for Audiobooks and Podcasts
 
-![](21260c_3baab435323443bcb788e5f6da0d39f3~mv2.jpg)
+![](/blog/evermusic-sync-your-music-library-save-playback-position-correct-music-tags/21260c_3baab435323443bcb788e5f6da0d39f3~mv2.jpg)
 
 Pause an audiobook or lecture and pick up exactly where you left off. When enabled, Evermusic remembers the playback position for each file automatically — no manual bookmarks needed.
 
@@ -55,13 +55,13 @@ Enable this in the app's audio settings.
 
 ## Background Metadata Reading
 
-![](21260c_511ee81f8b094059a2c14f1cfc32a1cc~mv2.jpg)
+![](/blog/evermusic-sync-your-music-library-save-playback-position-correct-music-tags/21260c_511ee81f8b094059a2c14f1cfc32a1cc~mv2.jpg)
 
 For large music collections, metadata reading now runs in the background. While you browse or listen, Evermusic scans your audio files and organizes them by Artist, Album, and Genre. This speeds up library browsing significantly for collections with thousands of tracks.
 
 ## Automatic ID3 Tag Correction
 
-![](21260c_2374803418e74c8680fd3420fc1fc35a~mv2.jpg)
+![](/blog/evermusic-sync-your-music-library-save-playback-position-correct-music-tags/21260c_2374803418e74c8680fd3420fc1fc35a~mv2.jpg)
 
 Evermusic detects and corrects invalid or incomplete ID3 tags using online databases. Files with messy, missing, or incorrect metadata get cleaned up automatically, keeping your library organized without manual editing.
 
