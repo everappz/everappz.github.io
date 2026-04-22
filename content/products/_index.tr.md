@@ -38,7 +38,7 @@ Her ürün güçlü özellikler ve iOS ile macOS'a sorunsuz entegrasyon sunar.
 
 {{< cards cols="2">}}
 
-  {{< card 
+  {{< product-card 
     link="/products/evervideo" 
     title="Evervideo" 
     tag="Yeni"
@@ -49,7 +49,7 @@ Her ürün güçlü özellikler ve iOS ile macOS'a sorunsuz entegrasyon sunar.
     imageStyle="width: 72px; height: auto; margin-left: 1rem; margin-top: 1rem; border-radius: 12px; align-self: start; flex-shrink: 0;"
   >}}
 
-  {{< card 
+  {{< product-card 
     link="/products/evermusic"
     title="Evermusic" 
     tag="11 Milyon İndirme"
@@ -60,7 +60,7 @@ Her ürün güçlü özellikler ve iOS ile macOS'a sorunsuz entegrasyon sunar.
     imageStyle="width: 72px; height: auto; margin-left: 1rem; margin-top: 1rem; border-radius: 12px; align-self: start; flex-shrink: 0;"
   >}}
 
-  {{< card 
+  {{< product-card 
     link="/products/flacbox"
     title="Flacbox" 
     tag="1 Milyon İndirme"
@@ -71,7 +71,7 @@ Her ürün güçlü özellikler ve iOS ile macOS'a sorunsuz entegrasyon sunar.
     imageStyle="width: 72px; height: auto; margin-left: 1rem; margin-top: 1rem; border-radius: 12px; align-self: start; flex-shrink: 0;"
   >}}
 
-  {{< card 
+  {{< product-card 
     link="/products/evertag"
     title="Evertag" 
     subtitle="Otomatik düzeltme ve toplu iş modu ile müzik etiket düzenleyici. Eksik meta verileri bulun, albüm kapaklarını düzenleyin. ID3 / FLAC / APE düzenleyin. 120'den fazla etiket desteklenir." 

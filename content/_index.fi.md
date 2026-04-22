@@ -85,7 +85,7 @@ Tuotteemme
 
 {{< cards cols="8">}}
 
-  {{< card 
+  {{< product-card 
     link="/products/evervideo" 
     title="Evervideo" 
     tag="Uusi"
@@ -96,7 +96,7 @@ Tuotteemme
     imageStyle="width: 72px; height: auto; margin-left: 1rem; margin-top: 1rem; border-radius: 12px; align-self: start; flex-shrink: 0;"
   >}}
 
-  {{< card 
+  {{< product-card 
     link="/products/evermusic"
     title="Evermusic" 
     tag="11 miljoonaa latausta"
@@ -107,7 +107,7 @@ Tuotteemme
     imageStyle="width: 72px; height: auto; margin-left: 1rem; margin-top: 1rem; border-radius: 12px; align-self: start; flex-shrink: 0;"
   >}}
 
-  {{< card 
+  {{< product-card 
     link="/products/flacbox"
     title="Flacbox" 
     tag="1 miljoona latausta"
@@ -118,7 +118,7 @@ Tuotteemme
     imageStyle="width: 72px; height: auto; margin-left: 1rem; margin-top: 1rem; border-radius: 12px; align-self: start; flex-shrink: 0;"
   >}}
 
-  {{< card 
+  {{< product-card 
     link="/products/evertag"
     title="Evertag" 
     subtitle="Musiikkitunnisteiden muokkain automaattisella korjauksella ja erätilalla. Etsi puuttuvat metatiedot, muokkaa albumin kansia. Muokkaa ID3 / FLAC / APE. Yli 120 tunnistetta tuettu." 

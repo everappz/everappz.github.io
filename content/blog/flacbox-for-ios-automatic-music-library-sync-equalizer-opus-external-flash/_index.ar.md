@@ -1,0 +1,91 @@
+---
+title: "Flacbox 1.6: مزامنة تلقائية، معادل صوت، دعم OPUS"
+date: 2017-01-25
+description: "يضيف Flacbox 1.6 لنظام iOS مزامنة سحابية تلقائية، معادل صوت بـ 10 نطاقات، دعم صيغة OPUS، وتشغيل الموسيقى من ذاكرة فلاش خارجية لـ iPhone وiPad."
+keywords: ["تحديث Flacbox", "مشغل FLAC iOS", "معادل صوت 10 نطاقات iPhone", "مزامنة موسيقى تلقائية", "تشغيل OPUS على iPhone", "موسيقى من ذاكرة فلاش خارجية", "بث FLAC iOS", "تطبيق موسيقى عالي الدقة iPhone", "معادل Flacbox", "مشغل موسيقى بطاقة SD iOS"]
+tags: ["Flacbox", "معادل صوت", "مكتبة موسيقى", "OPUS", "FLAC", "تخزين خارجي", "مزامنة", "مشغل صوتي", "تطبيقات iOS", "تحديث"]
+draft: false
+aliases:
+  - /post/flacbox-for-ios-automatic-music-library-sync-equalizer-opus-external-flash/
+  - /amp/flacbox-for-ios-automatic-music-library-sync-equalizer-opus-external-flash/
+  - /single-post/Flacbox-for-iOS-Automatic-Music-Library-Sync-Equalizer-OPUS-External-Flash/
+  - /index.php/2017/01/25/flacbox-1-6-for-ios-automatic-music-library-sync-10-band-equalizer-opus-file-format-external-flash-support/
+cascade:
+  type: docs
+authors:
+  - name: "Anna Kosenko"
+    link: "https://www.linkedin.com/in/anna-kosenko-kosenko/"
+    image: "/images/about/anna-kosenko-cofounder-everappz.webp"
+---
+
+{{< author-byline >}}
+
+يقدم **Flacbox 1.6** ميزات رئيسية جديدة لمشغل موسيقى FLAC لـ iPhone وiPad.
+
+**ملخص:** يضيف هذا التحديث مزامنة تلقائية لمكتبة الموسيقى السحابية، معادل صوت بـ 10 نطاقات مع إعدادات مخصصة، دعم صيغة OPUS، والقدرة على تشغيل الموسيقى من بطاقات SD خارجية. تم أيضاً إصلاح خطأ في تشغيل FLAC.
+
+## ما الجديد في Flacbox 1.6
+
+### مزامنة تلقائية لمكتبة الموسيقى السحابية
+
+لا مزيد من تحديث مكتبتك يدوياً. محرك المزامنة الجديد يفحص تلقائياً مجلدات السحابة المحددة ويحدّث مكتبة الموسيقى في الوقت الفعلي.
+
+- فعّله عبر: **Settings → Music Library → Automatic Sync**
+- حدد المجلدات عبر **Sync Folder → Change Settings**
+- اختر وضع المزامنة: Wi-Fi فقط أو Wi-Fi + بيانات الجوال
+- فعّل **Background Sync** للتحديثات التلقائية أثناء نشاط المشغل (يزيد استهلاك البطارية)
+
+تبقى مجموعتك الموسيقية السحابية محدثة بدون تدخل يدوي.
+
+### معادل صوت بـ 10 نطاقات لصوت مخصص
+
+شكّل صوتك مع **معادل الصوت بـ 10 نطاقات** المدمج، متاح من شاشة المشغل أو الإعدادات.
+
+- اضبط الترددات بين **-12 dB** و**+12 dB**
+- استخدم الإعدادات المسبقة أو أنشئ إعداداتك الخاصة
+- اضبط قوة مضخم الصوت المسبق (احرص على حماية السمع)
+
+يمنحك هذا تحكماً صوتياً بمستوى الاستوديو على iPhone أو iPad.
+
+### دعم صيغة OPUS
+
+يشغل Flacbox الآن ملفات **OPUS** إلى جانب FLAC وALAC وMP3 وصيغ أخرى. OPUS هو ترميز عالي الكفاءة يستخدم على نطاق واسع للصوت والموسيقى. يشمل دعم كامل للمعادل مع تشغيل OPUS.
+
+### تشغيل الموسيقى من بطاقات SD خارجية
+
+شغّل الموسيقى مباشرة من بطاقة SD أو microSD متصلة بـ iPhone أو iPad:
+
+- استخدم **Lightning to SD Card Camera Reader Adapter**
+- أدخل البطاقة وصلها بجهازك
+- افتح Flacbox -- يتعرف على البطاقة تلقائياً
+- تصفح وشغل الملفات عبر قسم **Services → PowerDrive**
+
+هذا مثالي لتوسيع مكتبتك الموسيقية دون استخدام مساحة تخزين الجهاز.
+
+### إصلاح خطأ تشغيل FLAC
+
+تم حل **تخطي لمدة ثانيتين في نهاية ملفات FLAC** بالكامل. تُشغل المسارات الآن بسلاسة من البداية إلى النهاية.
+
+## حمّل Flacbox
+
+Flacbox 1.6 متاح الآن على App Store. [حمّل Flacbox](https://itunes.apple.com/us/app/flacbox-flac-player-music/id1097564256?mt=8) وجرب هذه الميزات اليوم.
+
+لديك ملاحظات أو طلبات ميزات؟ تواصل معنا -- نبني Flacbox بناءً على ما يحتاجه مستخدمونا.
+
+## الأسئلة الشائعة
+
+{{% details title="ما صيغ الصوت التي يدعمها Flacbox؟" closed="true" %}}
+يدعم Flacbox صيغ FLAC وALAC وMP3 وAAC وOGG وOPUS وWAV وAIFF وDSD وصيغ صوتية شائعة أخرى. جميع الصيغ تعمل مع المعادل المدمج.
+{{% /details %}}
+
+{{% details title="هل يمكنني تشغيل الموسيقى من بطاقة SD على iPhone؟" closed="true" %}}
+نعم. صل بطاقة SD أو microSD باستخدام Lightning to SD Card Camera Reader Adapter. يكتشف Flacbox البطاقة تلقائياً ويتيح لك تصفح وتشغيل الملفات مباشرة من التخزين الخارجي.
+{{% /details %}}
+
+{{% details title="هل يزامن Flacbox مع التخزين السحابي تلقائياً؟" closed="true" %}}
+نعم. بدءاً من الإصدار 1.6، يمكن لـ Flacbox مزامنة مكتبة الموسيقى تلقائياً من مجلدات السحابة. فعّل المزامنة التلقائية في الإعدادات وحدد المجلدات التي تريد مراقبتها.
+{{% /details %}}
+
+{{% details title="هل معادل الصوت في Flacbox قابل للتخصيص؟" closed="true" %}}
+نعم. يتيح لك معادل الصوت بـ 10 نطاقات ضبط مستويات الترددات الفردية بين -12 dB و+12 dB. يمكنك استخدام الإعدادات المسبقة أو حفظ إعداداتك المخصصة.
+{{% /details %}}

@@ -85,7 +85,7 @@ aliases:
 
 {{< cards cols="8">}}
 
-  {{< card 
+  {{< product-card 
     link="/products/evervideo" 
     title="Evervideo" 
     tag="新品"
@@ -96,7 +96,7 @@ aliases:
     imageStyle="width: 72px; height: auto; margin-left: 1rem; margin-top: 1rem; border-radius: 12px; align-self: start; flex-shrink: 0;"
   >}}
 
-  {{< card 
+  {{< product-card 
     link="/products/evermusic"
     title="Evermusic" 
     tag="1100 万次下载"
@@ -107,7 +107,7 @@ aliases:
     imageStyle="width: 72px; height: auto; margin-left: 1rem; margin-top: 1rem; border-radius: 12px; align-self: start; flex-shrink: 0;"
   >}}
 
-  {{< card 
+  {{< product-card 
     link="/products/flacbox"
     title="Flacbox" 
     tag="100 万次下载"
@@ -118,7 +118,7 @@ aliases:
     imageStyle="width: 72px; height: auto; margin-left: 1rem; margin-top: 1rem; border-radius: 12px; align-self: start; flex-shrink: 0;"
   >}}
 
-  {{< card 
+  {{< product-card 
     link="/products/evertag"
     title="Evertag" 
     subtitle="音乐标签编辑器，支持自动更正和批量模式。查找缺失的元数据，编辑专辑封面。编辑 ID3 / FLAC / APE。支持超过 120 种标签。" 

@@ -38,7 +38,7 @@ aliases:
 
 {{< cards cols="2">}}
 
-  {{< card 
+  {{< product-card 
     link="/products/evervideo" 
     title="Evervideo" 
     tag="جديد"
@@ -49,7 +49,7 @@ aliases:
     imageStyle="width: 72px; height: auto; margin-left: 1rem; margin-top: 1rem; border-radius: 12px; align-self: start; flex-shrink: 0;"
   >}}
 
-  {{< card 
+  {{< product-card 
     link="/products/evermusic"
     title="Evermusic" 
     tag="11 مليون تحميل"
@@ -60,7 +60,7 @@ aliases:
     imageStyle="width: 72px; height: auto; margin-left: 1rem; margin-top: 1rem; border-radius: 12px; align-self: start; flex-shrink: 0;"
   >}}
 
-  {{< card 
+  {{< product-card 
     link="/products/flacbox"
     title="Flacbox" 
     tag="مليون تحميل"
@@ -71,7 +71,7 @@ aliases:
     imageStyle="width: 72px; height: auto; margin-left: 1rem; margin-top: 1rem; border-radius: 12px; align-self: start; flex-shrink: 0;"
   >}}
 
-  {{< card 
+  {{< product-card 
     link="/products/evertag"
     title="Evertag" 
     subtitle="محرر علامات الموسيقى مع التصحيح التلقائي ووضع الدفعات. اعثر على البيانات الوصفية المفقودة، حرّر أغلفة الألبومات. حرّر ID3 / FLAC / APE. دعم أكثر من 120 علامة." 

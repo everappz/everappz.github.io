@@ -38,7 +38,7 @@ Hvert produkt tilbyder kraftfulde funktioner og problemfri integration med iOS o
 
 {{< cards cols="2">}}
 
-  {{< card 
+  {{< product-card 
     link="/products/evervideo" 
     title="Evervideo" 
     tag="Ny"
@@ -49,7 +49,7 @@ Hvert produkt tilbyder kraftfulde funktioner og problemfri integration med iOS o
     imageStyle="width: 72px; height: auto; margin-left: 1rem; margin-top: 1rem; border-radius: 12px; align-self: start; flex-shrink: 0;"
   >}}
 
-  {{< card 
+  {{< product-card 
     link="/products/evermusic"
     title="Evermusic" 
     tag="11 millioner downloads"
@@ -60,7 +60,7 @@ Hvert produkt tilbyder kraftfulde funktioner og problemfri integration med iOS o
     imageStyle="width: 72px; height: auto; margin-left: 1rem; margin-top: 1rem; border-radius: 12px; align-self: start; flex-shrink: 0;"
   >}}
 
-  {{< card 
+  {{< product-card 
     link="/products/flacbox"
     title="Flacbox" 
     tag="1 million downloads"
@@ -71,7 +71,7 @@ Hvert produkt tilbyder kraftfulde funktioner og problemfri integration med iOS o
     imageStyle="width: 72px; height: auto; margin-left: 1rem; margin-top: 1rem; border-radius: 12px; align-self: start; flex-shrink: 0;"
   >}}
 
-  {{< card 
+  {{< product-card 
     link="/products/evertag"
     title="Evertag" 
     subtitle="Musik-tagredigering med automatisk korrektion og batch-tilstand. Find manglende metadata, rediger albumcovers. Rediger ID3 / FLAC / APE. Mere end 120 tags understøttet." 

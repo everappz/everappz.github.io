@@ -38,7 +38,7 @@ Cada producte ofereix funcions potents i una integració perfecta amb iOS i macO
 
 {{< cards cols="2">}}
 
-  {{< card 
+  {{< product-card 
     link="/products/evervideo" 
     title="Evervideo" 
     tag="Nou"
@@ -49,7 +49,7 @@ Cada producte ofereix funcions potents i una integració perfecta amb iOS i macO
     imageStyle="width: 72px; height: auto; margin-left: 1rem; margin-top: 1rem; border-radius: 12px; align-self: start; flex-shrink: 0;"
   >}}
 
-  {{< card 
+  {{< product-card 
     link="/products/evermusic"
     title="Evermusic" 
     tag="11 milions de descàrregues"
@@ -60,7 +60,7 @@ Cada producte ofereix funcions potents i una integració perfecta amb iOS i macO
     imageStyle="width: 72px; height: auto; margin-left: 1rem; margin-top: 1rem; border-radius: 12px; align-self: start; flex-shrink: 0;"
   >}}
 
-  {{< card 
+  {{< product-card 
     link="/products/flacbox"
     title="Flacbox" 
     tag="1 milió de descàrregues"
@@ -71,7 +71,7 @@ Cada producte ofereix funcions potents i una integració perfecta amb iOS i macO
     imageStyle="width: 72px; height: auto; margin-left: 1rem; margin-top: 1rem; border-radius: 12px; align-self: start; flex-shrink: 0;"
   >}}
 
-  {{< card 
+  {{< product-card 
     link="/products/evertag"
     title="Evertag" 
     subtitle="Editor d'etiquetes de música amb correcció automàtica i mode per lots. Troba metadades que falten, edita les portades dels àlbums. Edita ID3 / FLAC / APE. Més de 120 etiquetes compatibles." 

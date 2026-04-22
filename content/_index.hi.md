@@ -85,7 +85,7 @@ aliases:
 
 {{< cards cols="8">}}
 
-  {{< card 
+  {{< product-card 
     link="/products/evervideo" 
     title="Evervideo" 
     tag="नया"
@@ -96,7 +96,7 @@ aliases:
     imageStyle="width: 72px; height: auto; margin-left: 1rem; margin-top: 1rem; border-radius: 12px; align-self: start; flex-shrink: 0;"
   >}}
 
-  {{< card 
+  {{< product-card 
     link="/products/evermusic"
     title="Evermusic" 
     tag="1.1 करोड़ डाउनलोड"
@@ -107,7 +107,7 @@ aliases:
     imageStyle="width: 72px; height: auto; margin-left: 1rem; margin-top: 1rem; border-radius: 12px; align-self: start; flex-shrink: 0;"
   >}}
 
-  {{< card 
+  {{< product-card 
     link="/products/flacbox"
     title="Flacbox" 
     tag="10 लाख डाउनलोड"
@@ -118,7 +118,7 @@ aliases:
     imageStyle="width: 72px; height: auto; margin-left: 1rem; margin-top: 1rem; border-radius: 12px; align-self: start; flex-shrink: 0;"
   >}}
 
-  {{< card 
+  {{< product-card 
     link="/products/evertag"
     title="Evertag" 
     subtitle="स्वचालित सुधार और बैच मोड के साथ म्यूज़िक टैग एडिटर। गायब मेटाडेटा खोजें, एल्बम कवर संपादित करें। ID3 / FLAC / APE संपादित करें। 120 से अधिक टैग समर्थित।" 

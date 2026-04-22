@@ -85,7 +85,7 @@ Produk Kami
 
 {{< cards cols="8">}}
 
-  {{< card 
+  {{< product-card 
     link="/products/evervideo" 
     title="Evervideo" 
     tag="Baru"
@@ -96,7 +96,7 @@ Produk Kami
     imageStyle="width: 72px; height: auto; margin-left: 1rem; margin-top: 1rem; border-radius: 12px; align-self: start; flex-shrink: 0;"
   >}}
 
-  {{< card 
+  {{< product-card 
     link="/products/evermusic"
     title="Evermusic" 
     tag="11 Juta Unduhan"
@@ -107,7 +107,7 @@ Produk Kami
     imageStyle="width: 72px; height: auto; margin-left: 1rem; margin-top: 1rem; border-radius: 12px; align-self: start; flex-shrink: 0;"
   >}}
 
-  {{< card 
+  {{< product-card 
     link="/products/flacbox"
     title="Flacbox" 
     tag="1 Juta Unduhan"
@@ -118,7 +118,7 @@ Produk Kami
     imageStyle="width: 72px; height: auto; margin-left: 1rem; margin-top: 1rem; border-radius: 12px; align-self: start; flex-shrink: 0;"
   >}}
 
-  {{< card 
+  {{< product-card 
     link="/products/evertag"
     title="Evertag" 
     subtitle="Editor tag musik dengan koreksi otomatis dan mode batch. Temukan metadata yang hilang, edit sampul album. Edit ID3 / FLAC / APE. Lebih dari 120 tag didukung." 

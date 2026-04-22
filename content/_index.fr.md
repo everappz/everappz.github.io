@@ -85,7 +85,7 @@ Nos produits
 
 {{< cards cols="8">}}
 
-  {{< card 
+  {{< product-card 
     link="/products/evervideo" 
     title="Evervideo" 
     tag="Nouveau"
@@ -96,7 +96,7 @@ Nos produits
     imageStyle="width: 72px; height: auto; margin-left: 1rem; margin-top: 1rem; border-radius: 12px; align-self: start; flex-shrink: 0;"
   >}}
 
-  {{< card 
+  {{< product-card 
     link="/products/evermusic"
     title="Evermusic" 
     tag="11 millions de téléchargements"
@@ -107,7 +107,7 @@ Nos produits
     imageStyle="width: 72px; height: auto; margin-left: 1rem; margin-top: 1rem; border-radius: 12px; align-self: start; flex-shrink: 0;"
   >}}
 
-  {{< card 
+  {{< product-card 
     link="/products/flacbox"
     title="Flacbox" 
     tag="1 million de téléchargements"
@@ -118,7 +118,7 @@ Nos produits
     imageStyle="width: 72px; height: auto; margin-left: 1rem; margin-top: 1rem; border-radius: 12px; align-self: start; flex-shrink: 0;"
   >}}
 
-  {{< card 
+  {{< product-card 
     link="/products/evertag"
     title="Evertag" 
     subtitle="Éditeur de tags musicaux avec correction automatique et mode par lots. Trouvez les métadonnées manquantes, modifiez les pochettes d'albums. Éditez ID3 / FLAC / APE. Plus de 120 tags pris en charge." 

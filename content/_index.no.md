@@ -85,7 +85,7 @@ Våre produkter
 
 {{< cards cols="8">}}
 
-  {{< card 
+  {{< product-card 
     link="/products/evervideo" 
     title="Evervideo" 
     tag="Ny"
@@ -96,7 +96,7 @@ Våre produkter
     imageStyle="width: 72px; height: auto; margin-left: 1rem; margin-top: 1rem; border-radius: 12px; align-self: start; flex-shrink: 0;"
   >}}
 
-  {{< card 
+  {{< product-card 
     link="/products/evermusic"
     title="Evermusic" 
     tag="11 millioner nedlastinger"
@@ -107,7 +107,7 @@ Våre produkter
     imageStyle="width: 72px; height: auto; margin-left: 1rem; margin-top: 1rem; border-radius: 12px; align-self: start; flex-shrink: 0;"
   >}}
 
-  {{< card 
+  {{< product-card 
     link="/products/flacbox"
     title="Flacbox" 
     tag="1 million nedlastinger"
@@ -118,7 +118,7 @@ Våre produkter
     imageStyle="width: 72px; height: auto; margin-left: 1rem; margin-top: 1rem; border-radius: 12px; align-self: start; flex-shrink: 0;"
   >}}
 
-  {{< card 
+  {{< product-card 
     link="/products/evertag"
     title="Evertag" 
     subtitle="Musikktaggredigerer med automatisk korrigering og batchmodus. Finn manglende metadata, rediger albumomslag. Rediger ID3 / FLAC / APE. Mer enn 120 tagger støttes." 

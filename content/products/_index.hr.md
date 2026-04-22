@@ -38,7 +38,7 @@ Svaki proizvod nudi moćne značajke i besprijekornu integraciju s iOS-om i macO
 
 {{< cards cols="2">}}
 
-  {{< card 
+  {{< product-card 
     link="/products/evervideo" 
     title="Evervideo" 
     tag="Novo"
@@ -49,7 +49,7 @@ Svaki proizvod nudi moćne značajke i besprijekornu integraciju s iOS-om i macO
     imageStyle="width: 72px; height: auto; margin-left: 1rem; margin-top: 1rem; border-radius: 12px; align-self: start; flex-shrink: 0;"
   >}}
 
-  {{< card 
+  {{< product-card 
     link="/products/evermusic"
     title="Evermusic" 
     tag="11 milijuna preuzimanja"
@@ -60,7 +60,7 @@ Svaki proizvod nudi moćne značajke i besprijekornu integraciju s iOS-om i macO
     imageStyle="width: 72px; height: auto; margin-left: 1rem; margin-top: 1rem; border-radius: 12px; align-self: start; flex-shrink: 0;"
   >}}
 
-  {{< card 
+  {{< product-card 
     link="/products/flacbox"
     title="Flacbox" 
     tag="1 milijun preuzimanja"
@@ -71,7 +71,7 @@ Svaki proizvod nudi moćne značajke i besprijekornu integraciju s iOS-om i macO
     imageStyle="width: 72px; height: auto; margin-left: 1rem; margin-top: 1rem; border-radius: 12px; align-self: start; flex-shrink: 0;"
   >}}
 
-  {{< card 
+  {{< product-card 
     link="/products/evertag"
     title="Evertag" 
     subtitle="Uređivač glazbenih oznaka s automatskom korekcijom i skupnim načinom rada. Pronađite nedostajuće metapodatke, uredite omote albuma. Uredite ID3 / FLAC / APE. Podržano više od 120 oznaka." 

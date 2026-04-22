@@ -38,7 +38,7 @@ Każdy produkt oferuje zaawansowane funkcje i bezproblemową integrację z iOS i
 
 {{< cards cols="2">}}
 
-  {{< card 
+  {{< product-card 
     link="/products/evervideo" 
     title="Evervideo" 
     tag="Nowość"
@@ -49,7 +49,7 @@ Każdy produkt oferuje zaawansowane funkcje i bezproblemową integrację z iOS i
     imageStyle="width: 72px; height: auto; margin-left: 1rem; margin-top: 1rem; border-radius: 12px; align-self: start; flex-shrink: 0;"
   >}}
 
-  {{< card 
+  {{< product-card 
     link="/products/evermusic"
     title="Evermusic" 
     tag="11 milionów pobrań"
@@ -60,7 +60,7 @@ Każdy produkt oferuje zaawansowane funkcje i bezproblemową integrację z iOS i
     imageStyle="width: 72px; height: auto; margin-left: 1rem; margin-top: 1rem; border-radius: 12px; align-self: start; flex-shrink: 0;"
   >}}
 
-  {{< card 
+  {{< product-card 
     link="/products/flacbox"
     title="Flacbox" 
     tag="1 milion pobrań"
@@ -71,7 +71,7 @@ Każdy produkt oferuje zaawansowane funkcje i bezproblemową integrację z iOS i
     imageStyle="width: 72px; height: auto; margin-left: 1rem; margin-top: 1rem; border-radius: 12px; align-self: start; flex-shrink: 0;"
   >}}
 
-  {{< card 
+  {{< product-card 
     link="/products/evertag"
     title="Evertag" 
     subtitle="Edytor tagów muzycznych z automatyczną korektą i trybem wsadowym. Znajdź brakujące metadane, edytuj okładki albumów. Edytuj ID3 / FLAC / APE. Obsługa ponad 120 tagów." 

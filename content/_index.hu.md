@@ -85,7 +85,7 @@ Termékeink
 
 {{< cards cols="8">}}
 
-  {{< card 
+  {{< product-card 
     link="/products/evervideo" 
     title="Evervideo" 
     tag="Új"
@@ -96,7 +96,7 @@ Termékeink
     imageStyle="width: 72px; height: auto; margin-left: 1rem; margin-top: 1rem; border-radius: 12px; align-self: start; flex-shrink: 0;"
   >}}
 
-  {{< card 
+  {{< product-card 
     link="/products/evermusic"
     title="Evermusic" 
     tag="11 millió letöltés"
@@ -107,7 +107,7 @@ Termékeink
     imageStyle="width: 72px; height: auto; margin-left: 1rem; margin-top: 1rem; border-radius: 12px; align-self: start; flex-shrink: 0;"
   >}}
 
-  {{< card 
+  {{< product-card 
     link="/products/flacbox"
     title="Flacbox" 
     tag="1 millió letöltés"
@@ -118,7 +118,7 @@ Termékeink
     imageStyle="width: 72px; height: auto; margin-left: 1rem; margin-top: 1rem; border-radius: 12px; align-self: start; flex-shrink: 0;"
   >}}
 
-  {{< card 
+  {{< product-card 
     link="/products/evertag"
     title="Evertag" 
     subtitle="Zenei címkeszerkesztő automatikus javítással és kötegelt móddal. Hiányzó metaadatok keresése, albumborítók szerkesztése. ID3 / FLAC / APE szerkesztése. Több mint 120 címke támogatott." 

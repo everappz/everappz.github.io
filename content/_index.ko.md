@@ -85,7 +85,7 @@ aliases:
 
 {{< cards cols="8">}}
 
-  {{< card 
+  {{< product-card 
     link="/products/evervideo" 
     title="Evervideo" 
     tag="신규"
@@ -96,7 +96,7 @@ aliases:
     imageStyle="width: 72px; height: auto; margin-left: 1rem; margin-top: 1rem; border-radius: 12px; align-self: start; flex-shrink: 0;"
   >}}
 
-  {{< card 
+  {{< product-card 
     link="/products/evermusic"
     title="Evermusic" 
     tag="1,100만 다운로드"
@@ -107,7 +107,7 @@ aliases:
     imageStyle="width: 72px; height: auto; margin-left: 1rem; margin-top: 1rem; border-radius: 12px; align-self: start; flex-shrink: 0;"
   >}}
 
-  {{< card 
+  {{< product-card 
     link="/products/flacbox"
     title="Flacbox" 
     tag="100만 다운로드"
@@ -118,7 +118,7 @@ aliases:
     imageStyle="width: 72px; height: auto; margin-left: 1rem; margin-top: 1rem; border-radius: 12px; align-self: start; flex-shrink: 0;"
   >}}
 
-  {{< card 
+  {{< product-card 
     link="/products/evertag"
     title="Evertag" 
     subtitle="자동 수정 및 일괄 모드를 갖춘 음악 태그 편집기. 누락된 메타데이터 검색, 앨범 커버 편집. ID3 / FLAC / APE 편집. 120개 이상의 태그 지원." 

@@ -51,7 +51,7 @@ After downloading from the [App Store](https://apps.apple.com/us/app/flacbox-fla
 
 Flacbox automatically scans metadata and organizes your library by album, artist, and genre. It caches tracks locally for offline playback, so your lossless library works without an internet connection.
 
-![](21260c_fbf5300e88cf4b4892d7ff50610f2be7~mv2.jpeg)
+![](/blog/unleash-audiophile-bliss-playing-lossless-music-on-iphone-or-mac-with-flacbox/21260c_fbf5300e88cf4b4892d7ff50610f2be7~mv2.jpeg)
 
 ## Supported Audio Formats
 
@@ -93,7 +93,7 @@ Download Flacbox from the Mac App Store. The macOS version offers the same playb
 - Gapless playback for live albums and continuous mixes
 - High-resolution output through external USB or Thunderbolt DACs
 
-![](21260c_20809f29717e4bc5a8dccaa47f070550~mv2.png)
+![](/blog/unleash-audiophile-bliss-playing-lossless-music-on-iphone-or-mac-with-flacbox/21260c_20809f29717e4bc5a8dccaa47f070550~mv2.png)
 
 ## Why Choose Flacbox for Apple Devices
 
@@ -105,7 +105,7 @@ Download Flacbox from the Mac App Store. The macOS version offers the same playb
 - **Built-in tag editor** for metadata and album artwork management
 - **1 million+ downloads** and 4.6-star App Store rating
 
-![](21260c_7df7413591874a31b18562c0dd1478ab~mv2.png)
+![](/blog/unleash-audiophile-bliss-playing-lossless-music-on-iphone-or-mac-with-flacbox/21260c_7df7413591874a31b18562c0dd1478ab~mv2.png)
 
 ## Tips for Better Lossless Playback
 

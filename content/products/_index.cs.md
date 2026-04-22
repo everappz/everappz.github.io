@@ -38,7 +38,7 @@ Každý produkt nabízí výkonné funkce a bezproblémovou integraci s iOS a ma
 
 {{< cards cols="2">}}
 
-  {{< card 
+  {{< product-card 
     link="/products/evervideo" 
     title="Evervideo" 
     tag="Novinka"
@@ -49,7 +49,7 @@ Každý produkt nabízí výkonné funkce a bezproblémovou integraci s iOS a ma
     imageStyle="width: 72px; height: auto; margin-left: 1rem; margin-top: 1rem; border-radius: 12px; align-self: start; flex-shrink: 0;"
   >}}
 
-  {{< card 
+  {{< product-card 
     link="/products/evermusic"
     title="Evermusic" 
     tag="11 milionů stažení"
@@ -60,7 +60,7 @@ Každý produkt nabízí výkonné funkce a bezproblémovou integraci s iOS a ma
     imageStyle="width: 72px; height: auto; margin-left: 1rem; margin-top: 1rem; border-radius: 12px; align-self: start; flex-shrink: 0;"
   >}}
 
-  {{< card 
+  {{< product-card 
     link="/products/flacbox"
     title="Flacbox" 
     tag="1 milion stažení"
@@ -71,7 +71,7 @@ Každý produkt nabízí výkonné funkce a bezproblémovou integraci s iOS a ma
     imageStyle="width: 72px; height: auto; margin-left: 1rem; margin-top: 1rem; border-radius: 12px; align-self: start; flex-shrink: 0;"
   >}}
 
-  {{< card 
+  {{< product-card 
     link="/products/evertag"
     title="Evertag" 
     subtitle="Editor hudebních tagů s automatickou korekcí a dávkovým režimem. Najděte chybějící metadata, upravte obaly alb. Upravujte ID3 / FLAC / APE. Podpora více než 120 tagů." 

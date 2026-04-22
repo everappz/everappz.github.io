@@ -54,7 +54,7 @@ Managing this manually across multiple languages is tedious and error-prone. The
 - **Autosave** via localStorage — close the tab and resume later
 - **JSON import/export** for Fastlane CI/CD integration
 
-![](21260c_d61d1cc8c0a341e08f1b3e8f4c0a3f38~mv2.png)
+![](/blog/how-to-optimize-your-app-store-keywords-and-metadata-and-the-best-free-tool-to-help-you/21260c_d61d1cc8c0a341e08f1b3e8f4c0a3f38~mv2.png)
 
 ## How to Optimize Your App Store Metadata (Step by Step)
 

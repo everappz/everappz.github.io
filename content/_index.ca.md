@@ -85,7 +85,7 @@ Els nostres productes
 
 {{< cards cols="8">}}
 
-  {{< card 
+  {{< product-card 
     link="/products/evervideo" 
     title="Evervideo" 
     tag="Nou"
@@ -96,7 +96,7 @@ Els nostres productes
     imageStyle="width: 72px; height: auto; margin-left: 1rem; margin-top: 1rem; border-radius: 12px; align-self: start; flex-shrink: 0;"
   >}}
 
-  {{< card 
+  {{< product-card 
     link="/products/evermusic"
     title="Evermusic" 
     tag="11 milions de descàrregues"
@@ -107,7 +107,7 @@ Els nostres productes
     imageStyle="width: 72px; height: auto; margin-left: 1rem; margin-top: 1rem; border-radius: 12px; align-self: start; flex-shrink: 0;"
   >}}
 
-  {{< card 
+  {{< product-card 
     link="/products/flacbox"
     title="Flacbox" 
     tag="1 milió de descàrregues"
@@ -118,7 +118,7 @@ Els nostres productes
     imageStyle="width: 72px; height: auto; margin-left: 1rem; margin-top: 1rem; border-radius: 12px; align-self: start; flex-shrink: 0;"
   >}}
 
-  {{< card 
+  {{< product-card 
     link="/products/evertag"
     title="Evertag" 
     subtitle="Editor d'etiquetes musicals amb correcció automàtica i mode per lots. Troba metadades que falten, edita portades d'àlbums. Edita ID3 / FLAC / APE. Més de 120 etiquetes compatibles." 

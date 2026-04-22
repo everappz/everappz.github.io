@@ -38,7 +38,7 @@ Cada produto oferece recursos poderosos e integração perfeita com iOS e macOS.
 
 {{< cards cols="2">}}
 
-  {{< card 
+  {{< product-card 
     link="/products/evervideo" 
     title="Evervideo" 
     tag="Novo"
@@ -49,7 +49,7 @@ Cada produto oferece recursos poderosos e integração perfeita com iOS e macOS.
     imageStyle="width: 72px; height: auto; margin-left: 1rem; margin-top: 1rem; border-radius: 12px; align-self: start; flex-shrink: 0;"
   >}}
 
-  {{< card 
+  {{< product-card 
     link="/products/evermusic"
     title="Evermusic" 
     tag="11 milhões de downloads"
@@ -60,7 +60,7 @@ Cada produto oferece recursos poderosos e integração perfeita com iOS e macOS.
     imageStyle="width: 72px; height: auto; margin-left: 1rem; margin-top: 1rem; border-radius: 12px; align-self: start; flex-shrink: 0;"
   >}}
 
-  {{< card 
+  {{< product-card 
     link="/products/flacbox"
     title="Flacbox" 
     tag="1 milhão de downloads"
@@ -71,7 +71,7 @@ Cada produto oferece recursos poderosos e integração perfeita com iOS e macOS.
     imageStyle="width: 72px; height: auto; margin-left: 1rem; margin-top: 1rem; border-radius: 12px; align-self: start; flex-shrink: 0;"
   >}}
 
-  {{< card 
+  {{< product-card 
     link="/products/evertag"
     title="Evertag" 
     subtitle="Editor de tags de música com correção automática e modo em lote. Encontre metadados ausentes, edite capas de álbuns. Edite ID3 / FLAC / APE. Mais de 120 tags suportadas." 

@@ -85,7 +85,7 @@ Sản phẩm của chúng tôi
 
 {{< cards cols="8">}}
 
-  {{< card 
+  {{< product-card 
     link="/products/evervideo" 
     title="Evervideo" 
     tag="Mới"
@@ -96,7 +96,7 @@ Sản phẩm của chúng tôi
     imageStyle="width: 72px; height: auto; margin-left: 1rem; margin-top: 1rem; border-radius: 12px; align-self: start; flex-shrink: 0;"
   >}}
 
-  {{< card 
+  {{< product-card 
     link="/products/evermusic"
     title="Evermusic" 
     tag="11 triệu lượt tải xuống"
@@ -107,7 +107,7 @@ Sản phẩm của chúng tôi
     imageStyle="width: 72px; height: auto; margin-left: 1rem; margin-top: 1rem; border-radius: 12px; align-self: start; flex-shrink: 0;"
   >}}
 
-  {{< card 
+  {{< product-card 
     link="/products/flacbox"
     title="Flacbox" 
     tag="1 triệu lượt tải xuống"
@@ -118,7 +118,7 @@ Sản phẩm của chúng tôi
     imageStyle="width: 72px; height: auto; margin-left: 1rem; margin-top: 1rem; border-radius: 12px; align-self: start; flex-shrink: 0;"
   >}}
 
-  {{< card 
+  {{< product-card 
     link="/products/evertag"
     title="Evertag" 
     subtitle="Trình chỉnh sửa thẻ nhạc với tính năng sửa tự động và chế độ hàng loạt. Tìm metadata bị thiếu, chỉnh sửa ảnh bìa album. Chỉnh sửa ID3 / FLAC / APE. Hỗ trợ hơn 120 thẻ tag." 

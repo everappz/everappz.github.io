@@ -85,7 +85,7 @@ Onze producten
 
 {{< cards cols="8">}}
 
-  {{< card 
+  {{< product-card 
     link="/products/evervideo" 
     title="Evervideo" 
     tag="Nieuw"
@@ -96,7 +96,7 @@ Onze producten
     imageStyle="width: 72px; height: auto; margin-left: 1rem; margin-top: 1rem; border-radius: 12px; align-self: start; flex-shrink: 0;"
   >}}
 
-  {{< card 
+  {{< product-card 
     link="/products/evermusic"
     title="Evermusic" 
     tag="11 miljoen downloads"
@@ -107,7 +107,7 @@ Onze producten
     imageStyle="width: 72px; height: auto; margin-left: 1rem; margin-top: 1rem; border-radius: 12px; align-self: start; flex-shrink: 0;"
   >}}
 
-  {{< card 
+  {{< product-card 
     link="/products/flacbox"
     title="Flacbox" 
     tag="1 miljoen downloads"
@@ -118,7 +118,7 @@ Onze producten
     imageStyle="width: 72px; height: auto; margin-left: 1rem; margin-top: 1rem; border-radius: 12px; align-self: start; flex-shrink: 0;"
   >}}
 
-  {{< card 
+  {{< product-card 
     link="/products/evertag"
     title="Evertag" 
     subtitle="Muziektagseditor met automatische correctie en batchmodus. Vind ontbrekende metadata, bewerk albumhoezen. Bewerk ID3 / FLAC / APE. Meer dan 120 tags ondersteund." 

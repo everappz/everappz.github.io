@@ -85,7 +85,7 @@ Naše produkty
 
 {{< cards cols="8">}}
 
-  {{< card 
+  {{< product-card 
     link="/products/evervideo" 
     title="Evervideo" 
     tag="Novinka"
@@ -96,7 +96,7 @@ Naše produkty
     imageStyle="width: 72px; height: auto; margin-left: 1rem; margin-top: 1rem; border-radius: 12px; align-self: start; flex-shrink: 0;"
   >}}
 
-  {{< card 
+  {{< product-card 
     link="/products/evermusic"
     title="Evermusic" 
     tag="11 milionů stažení"
@@ -107,7 +107,7 @@ Naše produkty
     imageStyle="width: 72px; height: auto; margin-left: 1rem; margin-top: 1rem; border-radius: 12px; align-self: start; flex-shrink: 0;"
   >}}
 
-  {{< card 
+  {{< product-card 
     link="/products/flacbox"
     title="Flacbox" 
     tag="1 milion stažení"
@@ -118,7 +118,7 @@ Naše produkty
     imageStyle="width: 72px; height: auto; margin-left: 1rem; margin-top: 1rem; border-radius: 12px; align-self: start; flex-shrink: 0;"
   >}}
 
-  {{< card 
+  {{< product-card 
     link="/products/evertag"
     title="Evertag" 
     subtitle="Editor hudebních tagů s automatickou korekcí a dávkovým režimem. Najděte chybějící metadata, upravte obaly alb. Editujte ID3 / FLAC / APE. Podporováno více než 120 tagů." 

@@ -18,7 +18,7 @@ authors:
 
 {{< author-byline >}}
 
-![](21260c_766c4fbc81e6433cb8fc21b9c2862ce0~mv2.png)
+![](/blog/setapp-mobile-and-evermusic-pro/21260c_766c4fbc81e6433cb8fc21b9c2862ce0~mv2.png)
 
 **TL;DR:** Evermusic Pro is available through Setapp Mobile, giving you a full-featured cloud music player for iPhone and iPad at no extra cost. Stream from Google Drive, Dropbox, OneDrive, NAS, and more. Download for offline listening. Fine-tune audio with a 10-band equalizer. All included in one Setapp subscription.
 

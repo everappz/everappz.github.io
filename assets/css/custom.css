@@ -277,3 +277,48 @@
     --hover-color: rgb(168, 85, 247);
     background: radial-gradient(circle at 50% 80%, rgba(168, 85, 247, 0.15), rgba(17, 24, 39, 0));
 }
+
+/* ── Product cards ── */
+
+.product-card {
+    position: relative;
+}
+
+.product-card img {
+    user-select: none;
+}
+
+.product-card:hover .product-card-icon svg {
+    color: currentColor;
+}
+
+.product-card .product-card-icon svg {
+    width: 1.5rem;
+    color: #00000033;
+    transition: color 0.3s ease;
+}
+
+.product-card p {
+    margin-top: 0.5rem;
+    position: relative;
+}
+
+.dark .product-card .product-card-icon svg {
+    color: #ffffff66;
+}
+
+.dark .product-card:hover .product-card-icon svg {
+    color: currentColor;
+}
+
+.product-card-tag {
+    position: absolute;
+    z-index: 10;
+    top: 5px;
+    &:where(:dir(ltr)) {
+        right: 5px;
+    }
+    &:where(:dir(rtl)) {
+        left: 5px;
+    }
+}

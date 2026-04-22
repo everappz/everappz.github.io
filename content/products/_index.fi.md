@@ -38,7 +38,7 @@ Jokainen tuote tarjoaa tehokkaita ominaisuuksia ja saumattoman integraation iOS:
 
 {{< cards cols="2">}}
 
-  {{< card 
+  {{< product-card 
     link="/products/evervideo" 
     title="Evervideo" 
     tag="Uusi"
@@ -49,7 +49,7 @@ Jokainen tuote tarjoaa tehokkaita ominaisuuksia ja saumattoman integraation iOS:
     imageStyle="width: 72px; height: auto; margin-left: 1rem; margin-top: 1rem; border-radius: 12px; align-self: start; flex-shrink: 0;"
   >}}
 
-  {{< card 
+  {{< product-card 
     link="/products/evermusic"
     title="Evermusic" 
     tag="11 miljoonaa latausta"
@@ -60,7 +60,7 @@ Jokainen tuote tarjoaa tehokkaita ominaisuuksia ja saumattoman integraation iOS:
     imageStyle="width: 72px; height: auto; margin-left: 1rem; margin-top: 1rem; border-radius: 12px; align-self: start; flex-shrink: 0;"
   >}}
 
-  {{< card 
+  {{< product-card 
     link="/products/flacbox"
     title="Flacbox" 
     tag="1 miljoona latausta"
@@ -71,7 +71,7 @@ Jokainen tuote tarjoaa tehokkaita ominaisuuksia ja saumattoman integraation iOS:
     imageStyle="width: 72px; height: auto; margin-left: 1rem; margin-top: 1rem; border-radius: 12px; align-self: start; flex-shrink: 0;"
   >}}
 
-  {{< card 
+  {{< product-card 
     link="/products/evertag"
     title="Evertag" 
     subtitle="Musiikkitagien muokkain automaattisella korjauksella ja erätilalla. Etsi puuttuvat metatiedot, muokkaa albumin kansikuvia. Muokkaa ID3 / FLAC / APE. Yli 120 tagia tuettu." 

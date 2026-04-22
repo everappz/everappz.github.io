@@ -1,0 +1,107 @@
+---
+title: "Flacbox מגיע למיליון הורדות: אודיו Hi-Res"
+date: 2023-09-06
+description: "Flacbox מגיע למיליון הורדות ברחבי העולם. גלו את התכונות שהופכות אותו לנגן אודיו Hi-Res המוביל ל-iPhone, iPad ו-Mac — FLAC, DSD, APE, אקולייזר והשמעה לא מקוונת."
+keywords: ["נגן מוזיקה Flacbox", "אודיו hi-res iOS", "אפליקציית מוזיקה lossless", "נגן DSD FLAC APE", "מוזיקה FLAC לא מקוונת", "אבן דרך הורדות Flacbox", "אודיו באיכות גבוהה iPhone", "אפליקציות אודיו Everappz", "נגן רשימת השמעה CUE", "מיליון הורדות", "נגן FLAC הכי טוב iOS", "נגן מוזיקה hi-res Mac"]
+tags: ["Flacbox", "lossless", "אודיו hi-res", "נגן מוזיקה", "אודיו", "אבן דרך", "אפליקציות iOS", "מה חדש"]
+draft: false
+aliases:
+  - /post/flacbox-celebrates-1-million-worldwide-downloads-your-gateway-to-hi-res-music/
+  - /amp/flacbox-celebrates-1-million-worldwide-downloads-your-gateway-to-hi-res-music/
+cascade:
+  type: docs
+authors:
+  - name: "Anna Kosenko"
+    link: "https://www.linkedin.com/in/anna-kosenko-kosenko/"
+    image: "/images/about/anna-kosenko-cofounder-everappz.webp"
+---
+
+{{< author-byline >}}
+
+**בקצרה:** Flacbox עבר מיליון הורדות ברחבי העולם. הוא תומך ב-FLAC, ALAC, APE, DSD ופורמטים lossless אחרים עם אקולייזר 10 פסים, רשימות השמעה M3U/CUE, השמעה לא מקוונת וסנכרון בין מכשירים ב-iPhone, iPad ו-Mac.
+
+**Flacbox** עבר רשמית **מיליון הורדות** ברחבי העולם. אבן דרך זו משקפת קהילה הולכת וגדלה של מאזינים שמעריכים אודיו ברזולוציה גבוהה ו-lossless ב-iOS ו-Mac.
+
+תודה לכל משתמש ששיתף משוב, דיווח על באגים והציע תכונות. התרומות שלכם מעצבות ישירות את ההתפתחות של Flacbox.
+
+## מה הופך את Flacbox לנגן ה-Hi-Res המוביל
+
+### תמיכה בפורמטי אודיו lossless
+
+Flacbox מנגן את המוזיקה שלכם בדיוק כפי שהוקלטה. פורמטים נתמכים:
+
+- **FLAC** — הפורמט ה-lossless הפופולרי ביותר
+- **ALAC** — הקודק ה-lossless של Apple
+- **APE** — Monkey's Audio
+- **DSD** — Direct Stream Digital להשמעה באיכות אודיופילית
+- **WV** — WavPack
+- **TTA** — True Audio
+- **RA / RM** — RealAudio
+
+### תמיכה ברשימות השמעה M3U ו-CUE
+
+ארגנו את הספרייה שלכם עם רשימות השמעה **M3U** ו-**CUE**. תמיכת CUE שימושית במיוחד להשמעת ריפים של אלבומים שלמים עם פיצול רצועות תקין.
+
+### אקולייזר 10 פסים מובנה
+
+כוונו בדיוק את חוויית ההאזנה שלכם:
+
+- 10 פסי תדר מתכווננים
+- הגדרות מוכנות לפי ז׳אנר (רוק, ג׳אז, קלאסי ועוד)
+- שליטה ידנית לעיצוב צליל מדויק
+
+### השמעה לא מקוונת
+
+הורידו רצועות, אלבומים או תיקיות שלמות להאזנה לא מקוונת. המוזיקה שלכם נשארת זמינה בטיסות, נסיעות ואזורים ללא קישוריות.
+
+### סנכרון בין מכשירים (iPhone, iPad, Mac)
+
+הספרייה, רשימות ההשמעה והיסטוריית ההשמעה שלכם נשארים מסונכרנים בכל מכשירי Apple. התחילו שיר ב-iPhone והמשיכו ב-Mac.
+
+## מה המשתמשים עזרו לבנות
+
+מאז ההשקה, הקהילה הניעה:
+
+- שיפורי ביצועים משמעותיים
+- תמיכה מורחבת באחסון ענן
+- מאות תיקוני באגים
+- תכונות ברמה מקצועית כמו השמעה ללא הפסקות ונורמליזציית אודיו
+
+## מה צפוי בהמשך
+
+הפיתוח הקרוב מתמקד ב:
+
+- פקדי השמעה מתקדמים
+- כלי ניהול רשימות השמעה מורחבים
+- ארגון קבצים חכם
+- אפשרויות פלט אודיו באיכות אודיופילית
+
+[הורידו את Flacbox מה-App Store](https://apps.apple.com/us/app/flacbox-flac-player-equalizer/id1097564256) וחוו אודיו hi-res ב-iPhone, iPad או Mac שלכם.
+
+---
+
+## שאלות נפוצות
+
+{{% details title="באילו פורמטי אודיו Flacbox תומך?" closed="true" %}}
+Flacbox מנגן FLAC, ALAC, APE, DSD, WavPack, TTA, RealAudio, MP3, AAC, OGG ופורמטים רבים אחרים. הוא מתוכנן בעיקר לאודיו lossless ו-hi-res.
+{{% /details %}}
+
+{{% details title="האם ל-Flacbox יש אקולייזר?" closed="true" %}}
+כן. Flacbox כולל אקולייזר 10 פסים עם הגדרות מוכנות לפי ז׳אנר וכוונון תדרים ידני.
+{{% /details %}}
+
+{{% details title="האם ניתן להאזין למוזיקה לא מקוונת עם Flacbox?" closed="true" %}}
+כן. הורידו קבצים מאחסון ענן או העבירו אותם ישירות לאפליקציה להשמעה לא מקוונת ללא חיבור אינטרנט.
+{{% /details %}}
+
+{{% details title="האם Flacbox עובד על Mac?" closed="true" %}}
+כן. Flacbox פועל על iPhone, iPad ו-Mac עם ספריות מסונכרנות והיסטוריית השמעה בכל המכשירים.
+{{% /details %}}
+
+{{% details title="מהי תמיכת גיליון CUE?" closed="true" %}}
+גיליונות CUE מגדירים גבולות רצועות בתוך קובץ אודיו בודד. Flacbox קורא קבצי CUE כדי לפצל ריפים של אלבומים לרצועות בודדות עם מטא-נתונים תקינים.
+{{% /details %}}
+
+{{% details title="האם Flacbox חינמי?" closed="true" %}}
+Flacbox חינמי להורדה עם תכונות פרימיום אופציונליות זמינות באמצעות רכישה בתוך האפליקציה.
+{{% /details %}}

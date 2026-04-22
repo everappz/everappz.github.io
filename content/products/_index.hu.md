@@ -38,7 +38,7 @@ Minden termék hatékony funkciókat és zökkenőmentes integrációt kínál i
 
 {{< cards cols="2">}}
 
-  {{< card 
+  {{< product-card 
     link="/products/evervideo" 
     title="Evervideo" 
     tag="Új"
@@ -49,7 +49,7 @@ Minden termék hatékony funkciókat és zökkenőmentes integrációt kínál i
     imageStyle="width: 72px; height: auto; margin-left: 1rem; margin-top: 1rem; border-radius: 12px; align-self: start; flex-shrink: 0;"
   >}}
 
-  {{< card 
+  {{< product-card 
     link="/products/evermusic"
     title="Evermusic" 
     tag="11 millió letöltés"
@@ -60,7 +60,7 @@ Minden termék hatékony funkciókat és zökkenőmentes integrációt kínál i
     imageStyle="width: 72px; height: auto; margin-left: 1rem; margin-top: 1rem; border-radius: 12px; align-self: start; flex-shrink: 0;"
   >}}
 
-  {{< card 
+  {{< product-card 
     link="/products/flacbox"
     title="Flacbox" 
     tag="1 millió letöltés"
@@ -71,7 +71,7 @@ Minden termék hatékony funkciókat és zökkenőmentes integrációt kínál i
     imageStyle="width: 72px; height: auto; margin-left: 1rem; margin-top: 1rem; border-radius: 12px; align-self: start; flex-shrink: 0;"
   >}}
 
-  {{< card 
+  {{< product-card 
     link="/products/evertag"
     title="Evertag" 
     subtitle="Zenei címke szerkesztő automatikus javítással és kötegelt móddal. Keresse meg a hiányzó metaadatokat, szerkessze az albumborítókat. Szerkesszen ID3 / FLAC / APE fájlokat. Több mint 120 címke támogatott." 

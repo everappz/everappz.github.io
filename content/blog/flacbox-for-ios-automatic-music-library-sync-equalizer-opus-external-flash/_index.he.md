@@ -1,0 +1,91 @@
+---
+title: "Flacbox 1.6: סנכרון אוטומטי, אקולייזר, תמיכת OPUS"
+date: 2017-01-25
+description: "Flacbox 1.6 ל-iOS מוסיף סנכרון ענן אוטומטי, אקולייזר 10 פסים, תמיכה בפורמט OPUS והשמעה מכונן חיצוני ל-iPhone ו-iPad."
+keywords: ["עדכון Flacbox", "נגן FLAC iOS", "אקולייזר 10 פסים iPhone", "סנכרון מוזיקה אוטומטי", "נגינת OPUS באייפון", "מוזיקה מכונן חיצוני", "הזרמת FLAC iOS", "אפליקציית מוזיקה hi-res iPhone", "אקולייזר Flacbox", "נגן מוזיקה כרטיס SD iOS"]
+tags: ["Flacbox", "אקולייזר", "ספריית מוזיקה", "OPUS", "FLAC", "אחסון חיצוני", "סנכרון", "נגן שמע", "אפליקציות iOS", "עדכון"]
+draft: false
+aliases:
+  - /post/flacbox-for-ios-automatic-music-library-sync-equalizer-opus-external-flash/
+  - /amp/flacbox-for-ios-automatic-music-library-sync-equalizer-opus-external-flash/
+  - /single-post/Flacbox-for-iOS-Automatic-Music-Library-Sync-Equalizer-OPUS-External-Flash/
+  - /index.php/2017/01/25/flacbox-1-6-for-ios-automatic-music-library-sync-10-band-equalizer-opus-file-format-external-flash-support/
+cascade:
+  type: docs
+authors:
+  - name: "Anna Kosenko"
+    link: "https://www.linkedin.com/in/anna-kosenko-kosenko/"
+    image: "/images/about/anna-kosenko-cofounder-everappz.webp"
+---
+
+{{< author-byline >}}
+
+**Flacbox 1.6** מביא תכונות חדשות משמעותיות לנגן המוזיקה FLAC ל-iPhone ו-iPad.
+
+**בקצרה:** עדכון זה מוסיף סנכרון אוטומטי של ספריית ענן, אקולייזר 10 פסים עם הגדרות מותאמות אישית, תמיכה בפורמט OPUS ויכולת לנגן מוזיקה מכרטיסי SD חיצוניים. באג בהשמעת FLAC גם תוקן.
+
+## מה חדש ב-Flacbox 1.6
+
+### סנכרון אוטומטי של ספריית מוזיקה בענן
+
+אין עוד צורך לרענן ידנית את הספרייה שלכם. מנוע הסנכרון החדש סורק אוטומטית תיקיות ענן נבחרות ומעדכן את ספריית המוזיקה שלכם בזמן אמת.
+
+- הפעלה דרך: **Settings → Music Library → Automatic Sync**
+- בחירת תיקיות דרך **Sync Folder → Change Settings**
+- בחירת מצב סנכרון: Wi-Fi בלבד או Wi-Fi + סלולר
+- הפעלת **Background Sync** לעדכונים אוטומטיים בזמן שהנגן פעיל (מגביר צריכת סוללה)
+
+אוסף המוזיקה בענן שלכם נשאר מעודכן ללא התערבות ידנית.
+
+### אקולייזר 10 פסים לצליל מותאם אישית
+
+עצבו את השמע שלכם עם ה**אקולייזר 10 פסים** המובנה, נגיש ממסך הנגן או ההגדרות.
+
+- כוונו תדרים בין **-12 dB** ל-**+12 dB**
+- השתמשו בהגדרות מוכנות או צרו משלכם
+- כוונו את עוצמת הפרהאמפ (בזהירות להגנה על השמיעה)
+
+זה נותן לכם שליטת אודיו ברמת אולפן ב-iPhone או iPad שלכם.
+
+### תמיכה בפורמט OPUS
+
+Flacbox מנגן כעת קבצי **OPUS** לצד FLAC, ALAC, MP3 ופורמטים אחרים. OPUS הוא קודק יעיל במיוחד הנמצא בשימוש נרחב לקול ומוזיקה. תמיכה מלאה באקולייזר כלולה להשמעת OPUS.
+
+### השמעת מוזיקה מכרטיסי SD חיצוניים
+
+נגנו מוזיקה ישירות מכרטיס SD או microSD המחובר ל-iPhone או iPad שלכם:
+
+- השתמשו ב**מתאם Lightning לקורא כרטיסי SD**
+- הכניסו את הכרטיס וחברו למכשיר
+- פתחו את Flacbox -- הוא מזהה את הכרטיס אוטומטית
+- דפדפו ונגנו קבצים דרך קטע **Services → PowerDrive**
+
+זה אידיאלי להרחבת ספריית המוזיקה שלכם ללא שימוש באחסון המכשיר.
+
+### תיקון באג בהשמעת FLAC
+
+**דילוג של 2 שניות בסוף קבצי FLAC** נפתר לחלוטין. רצועות מתנגנות כעת בצורה חלקה מתחילה עד סוף.
+
+## הורדת Flacbox
+
+Flacbox 1.6 זמין כעת ב-App Store. [הורידו את Flacbox](https://itunes.apple.com/us/app/flacbox-flac-player-music/id1097564256?mt=8) ונסו את התכונות האלו היום.
+
+יש לכם משוב או בקשות לתכונות? פנו אלינו -- אנחנו בונים את Flacbox בהתבסס על מה שהמשתמשים שלנו צריכים.
+
+## שאלות נפוצות
+
+{{% details title="באילו פורמטי אודיו Flacbox תומך?" closed="true" %}}
+Flacbox תומך ב-FLAC, ALAC, MP3, AAC, OGG, OPUS, WAV, AIFF, DSD ופורמטי אודיו פופולריים נוספים. כל הפורמטים עובדים עם האקולייזר המובנה.
+{{% /details %}}
+
+{{% details title="האם ניתן לנגן מוזיקה מכרטיס SD באייפון?" closed="true" %}}
+כן. חברו כרטיס SD או microSD באמצעות מתאם Lightning לקורא כרטיסי SD. Flacbox מזהה את הכרטיס אוטומטית ומאפשר לכם לדפדף ולנגן קבצים ישירות מהאחסון החיצוני.
+{{% /details %}}
+
+{{% details title="האם Flacbox מסתנכרן עם אחסון ענן אוטומטית?" closed="true" %}}
+כן. החל מגרסה 1.6, Flacbox יכול לסנכרן אוטומטית את ספריית המוזיקה שלכם מתיקיות ענן. הפעילו סנכרון אוטומטי בהגדרות ובחרו את התיקיות שברצונכם לעקוב אחריהן.
+{{% /details %}}
+
+{{% details title="האם האקולייזר של Flacbox ניתן להתאמה אישית?" closed="true" %}}
+כן. האקולייזר בן 10 הפסים מאפשר לכם לכוונן רמות תדר בודדות בין -12 dB ל-+12 dB. תוכלו להשתמש בהגדרות מוכנות או לשמור הגדרות מותאמות אישית משלכם.
+{{% /details %}}
