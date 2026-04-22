@@ -34,7 +34,9 @@
 {{- end -}}
 
 <style>
-@media(max-width:639px){.hextra-hero-button{display:flex!important;width:100%;justify-content:center;margin-right:0!important}.hextra-hero-content{padding-bottom:1.5rem}}
+.hextra-hero-buttons{display:flex;flex-wrap:wrap;gap:1rem}
+.hextra-hero-buttons .hextra-hero-button{display:flex!important;flex:1 1 0%;min-width:fit-content;justify-content:center;margin:0!important;white-space:nowrap}
+@media(max-width:639px){.hextra-hero-content{padding-bottom:1.5rem}}
 </style>
 <div
   class="{{ $class }} hextra-feature-grid hx:grid hx:sm:max-lg:grid-cols-2 hx:max-sm:grid-cols-1 hx:gap-4 hx:w-full not-prose hx:items-center"
@@ -102,3 +104,14 @@
 
   {{ end -}}
 </div>
+<script>
+(function(){
+  var btns=document.querySelectorAll('.hextra-hero-content .hextra-hero-button');
+  if(btns.length<2)return;
+  var parent=btns[0].parentNode;
+  var wrap=document.createElement('div');
+  wrap.className='hextra-hero-buttons';
+  parent.insertBefore(wrap,btns[0]);
+  btns.forEach(function(b){wrap.appendChild(b)});
+})();
+</script>
