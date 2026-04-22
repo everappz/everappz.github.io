@@ -16,7 +16,7 @@
     {{- $heroImageDesktop := "" -}}
     {{- if $imageDesktopPath -}}
       {{- with resources.Get $imageDesktopPath -}}
-        {{- $processed := .Process "Resize 1200x webp q80" -}}
+        {{- $processed := .Process "Resize 2400x webp q95" -}}
         {{- $heroImageDesktop = $processed.RelPermalink -}}
       {{- else -}}
         {{- $heroImageDesktop = $imageDesktopPath -}}
@@ -26,7 +26,7 @@
     {{- $heroImageMobile := "" -}}
     {{- if $imageMobilePath -}}
       {{- with resources.Get $imageMobilePath -}}
-        {{- $processed := .Process "Resize 750x webp q80" -}}
+        {{- $processed := .Process "Resize 1400x webp q95" -}}
         {{- $heroImageMobile = $processed.RelPermalink -}}
       {{- else -}}
         {{- $heroImageMobile = $imageMobilePath -}}
