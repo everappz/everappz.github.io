@@ -83,52 +83,7 @@ Nuestros productos
 
 <div class="hx:w-full">
 
-{{< cards cols="8">}}
-
-  {{< product-card 
-    link="/products/evervideo" 
-    title="Evervideo" 
-    tag="Nuevo"
-    subtitle="Reproduce vídeos de 360°, mira con subtítulos, usa un ecualizador de vídeo, organiza tus medios con listas de reproducción, descarga vídeos para uso sin conexión y transmite desde iCloud." 
-    image="/images/app_icons/webp/Evervideo_Icon-App-1024x1024.webp"
-    method="Resize"
-    options="200x q80 webp"
-    imageStyle="width: 72px; height: auto; margin-left: 1rem; margin-top: 1rem; border-radius: 12px; align-self: start; flex-shrink: 0;"
-  >}}
-
-  {{< product-card 
-    link="/products/evermusic"
-    title="Evermusic" 
-    tag="11 millones de descargas"
-    subtitle="Reproductor de música en la nube con modo sin conexión, ecualizador de audio, crossfade, reproducción sin pausas, listas de reproducción, biblioteca musical, gestor de archivos." 
-    image="/images/app_icons/webp/Evermusic_Icon-App-1024x1024.webp"
-    method="Resize"
-    options="200x q80 webp"
-    imageStyle="width: 72px; height: auto; margin-left: 1rem; margin-top: 1rem; border-radius: 12px; align-self: start; flex-shrink: 0;"
-  >}}
-
-  {{< product-card 
-    link="/products/flacbox"
-    title="Flacbox" 
-    tag="1 millón de descargas"
-    subtitle="Reproductor de audio Hi-Res para iPhone y Mac. Escucha tu música en formatos de audio sin pérdida: flac, alac, ape, wv, dsd y más. Habilita configuraciones avanzadas de salida de audio.​" 
-    image="/images/app_icons/webp/Flacbox_Icon-App-1024x1024.webp"
-    method="Resize"
-    options="200x q80 webp"
-    imageStyle="width: 72px; height: auto; margin-left: 1rem; margin-top: 1rem; border-radius: 12px; align-self: start; flex-shrink: 0;"
-  >}}
-
-  {{< product-card 
-    link="/products/evertag"
-    title="Evertag" 
-    subtitle="Editor de etiquetas musicales con corrección automática y modo por lotes. Encuentra metadatos faltantes, edita portadas de álbumes. Edita ID3 / FLAC / APE. Más de 120 etiquetas soportadas." 
-    image="/images/app_icons/webp/Evertag_Icon-App-1024x1024.webp"
-    method="Resize"
-    options="200x q80 webp"
-    imageStyle="width: 72px; height: auto; margin-left: 1rem; margin-top: 1rem; border-radius: 12px; align-self: start; flex-shrink: 0;"
-  >}}
-
-{{< /cards >}}
+{{< product-cards >}}
 
 </div>
 

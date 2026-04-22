@@ -86,3 +86,15 @@ legalCardLicense: "Acord de licență"
 
 # 404
 "404": "Această pagină nu a putut fi găsită."
+
+# ══════════════════════════════════════
+# Product cards
+# ══════════════════════════════════════
+
+productEvervideoTag: "Nou"
+productEvervideoSubtitle: "Redați videoclipuri 360°, vizionați cu subtitrări, utilizați un egalizator video, organizați-vă media cu playlisturi, descărcați videoclipuri pentru utilizare offline și transmiteți din iCloud."
+productEvermusicTag: "11 milioane de descărcări"
+productEvermusicSubtitle: "Player de muzică în cloud cu mod offline, egalizator audio, crossfade, redare fără pauze, playlisturi, bibliotecă muzicală, manager de fișiere."
+productFlacboxTag: "1 milion de descărcări"
+productFlacboxSubtitle: "Player audio Hi-Res pentru iPhone și Mac. Ascultați muzica în formate audio fără pierderi: flac, alac, ape, wv, dsd și altele. Activați setările avansate de ieșire audio."
+productEvertagSubtitle: "Editor de taguri muzicale cu corecție automată și mod batch. Găsiți metadate lipsă, editați copertele albumelor. Editați ID3 / FLAC / APE. Peste 120 de taguri acceptate."

@@ -88,3 +88,15 @@ legalCardLicense: "Licencszerződés"
 
 # 404
 "404": "Ez az oldal nem található."
+
+# ══════════════════════════════════════
+# Product cards
+# ══════════════════════════════════════
+
+productEvervideoTag: "Új"
+productEvervideoSubtitle: "Játsszon le 360°-os videókat, nézzen felirattal, használjon videó hangszínszabályzót, rendszerezze médiáit lejátszási listákkal, töltsön le videókat offline használatra, és streameljen az iCloudból."
+productEvermusicTag: "11 millió letöltés"
+productEvermusicSubtitle: "Felhő zenelejátszó offline móddal, hangszínszabályzóval, crossfade-del, szünet nélküli lejátszással, lejátszási listákkal, zenei könyvtárral, fájlkezelővel."
+productFlacboxTag: "1 millió letöltés"
+productFlacboxSubtitle: "Hi-Res audiolejátszó iPhone-ra és Mac-re. Hallgassa zenéjét veszteségmentes formátumokban: flac, alac, ape, wv, dsd és még sok más. Engedélyezze a fejlett hangkimeneti beállításokat."
+productEvertagSubtitle: "Zenei címkeszerkesztő automatikus javítással és kötegelt móddal. Hiányzó metaadatok keresése, albumborítók szerkesztése. ID3 / FLAC / APE szerkesztése. Több mint 120 címke támogatott."

@@ -83,52 +83,7 @@ aliases:
 
 <div class="hx:w-full">
 
-{{< cards cols="8">}}
-
-  {{< product-card 
-    link="/products/evervideo" 
-    title="Evervideo" 
-    tag="신규"
-    subtitle="360° 비디오 재생, 자막과 함께 시청, 비디오 이퀄라이저 사용, 플레이리스트로 미디어 정리, 오프라인용 비디오 다운로드, iCloud에서 스트리밍." 
-    image="/images/app_icons/webp/Evervideo_Icon-App-1024x1024.webp"
-    method="Resize"
-    options="200x q80 webp"
-    imageStyle="width: 72px; height: auto; margin-left: 1rem; margin-top: 1rem; border-radius: 12px; align-self: start; flex-shrink: 0;"
-  >}}
-
-  {{< product-card 
-    link="/products/evermusic"
-    title="Evermusic" 
-    tag="1,100만 다운로드"
-    subtitle="오프라인 모드, 오디오 이퀄라이저, 크로스페이드, 갭리스 재생, 플레이리스트, 음악 라이브러리, 파일 관리자를 갖춘 클라우드 뮤직 플레이어." 
-    image="/images/app_icons/webp/Evermusic_Icon-App-1024x1024.webp"
-    method="Resize"
-    options="200x q80 webp"
-    imageStyle="width: 72px; height: auto; margin-left: 1rem; margin-top: 1rem; border-radius: 12px; align-self: start; flex-shrink: 0;"
-  >}}
-
-  {{< product-card 
-    link="/products/flacbox"
-    title="Flacbox" 
-    tag="100만 다운로드"
-    subtitle="iPhone 및 Mac용 하이레졸루션 오디오 플레이어. 무손실 오디오 포맷(flac, alac, ape, wv, dsd 등)으로 음악을 감상하세요. 고급 오디오 출력 설정을 활성화할 수 있습니다." 
-    image="/images/app_icons/webp/Flacbox_Icon-App-1024x1024.webp"
-    method="Resize"
-    options="200x q80 webp"
-    imageStyle="width: 72px; height: auto; margin-left: 1rem; margin-top: 1rem; border-radius: 12px; align-self: start; flex-shrink: 0;"
-  >}}
-
-  {{< product-card 
-    link="/products/evertag"
-    title="Evertag" 
-    subtitle="자동 수정 및 일괄 모드를 갖춘 음악 태그 편집기. 누락된 메타데이터 검색, 앨범 커버 편집. ID3 / FLAC / APE 편집. 120개 이상의 태그 지원." 
-    image="/images/app_icons/webp/Evertag_Icon-App-1024x1024.webp"
-    method="Resize"
-    options="200x q80 webp"
-    imageStyle="width: 72px; height: auto; margin-left: 1rem; margin-top: 1rem; border-radius: 12px; align-self: start; flex-shrink: 0;"
-  >}}
-
-{{< /cards >}}
+{{< product-cards >}}
 
 </div>
 

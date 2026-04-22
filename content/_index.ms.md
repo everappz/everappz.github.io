@@ -83,52 +83,7 @@ Produk Kami
 
 <div class="hx:w-full">
 
-{{< cards cols="8">}}
-
-  {{< product-card 
-    link="/products/evervideo" 
-    title="Evervideo" 
-    tag="Baharu"
-    subtitle="Main video 360°, tonton dengan sari kata, gunakan penyama video, susun media anda dengan senarai main, muat turun video untuk kegunaan luar talian, dan strim dari iCloud." 
-    image="/images/app_icons/webp/Evervideo_Icon-App-1024x1024.webp"
-    method="Resize"
-    options="200x q80 webp"
-    imageStyle="width: 72px; height: auto; margin-left: 1rem; margin-top: 1rem; border-radius: 12px; align-self: start; flex-shrink: 0;"
-  >}}
-
-  {{< product-card 
-    link="/products/evermusic"
-    title="Evermusic" 
-    tag="11 Juta Muat Turun"
-    subtitle="Pemain muzik awan dengan mod luar talian, penyama audio, crossfade, main balik tanpa jeda, senarai main, pustaka muzik, pengurus fail." 
-    image="/images/app_icons/webp/Evermusic_Icon-App-1024x1024.webp"
-    method="Resize"
-    options="200x q80 webp"
-    imageStyle="width: 72px; height: auto; margin-left: 1rem; margin-top: 1rem; border-radius: 12px; align-self: start; flex-shrink: 0;"
-  >}}
-
-  {{< product-card 
-    link="/products/flacbox"
-    title="Flacbox" 
-    tag="1 Juta Muat Turun"
-    subtitle="Pemain audio Hi-Res untuk iPhone dan Mac. Dengar muzik anda dalam format audio lossless: flac, alac, ape, wv, dsd dan banyak lagi. Aktifkan tetapan output audio lanjutan." 
-    image="/images/app_icons/webp/Flacbox_Icon-App-1024x1024.webp"
-    method="Resize"
-    options="200x q80 webp"
-    imageStyle="width: 72px; height: auto; margin-left: 1rem; margin-top: 1rem; border-radius: 12px; align-self: start; flex-shrink: 0;"
-  >}}
-
-  {{< product-card 
-    link="/products/evertag"
-    title="Evertag" 
-    subtitle="Editor tag muzik dengan pembetulan automatik dan mod kelompok. Cari metadata yang hilang, edit kulit album. Edit ID3 / FLAC / APE. Lebih daripada 120 tag disokong." 
-    image="/images/app_icons/webp/Evertag_Icon-App-1024x1024.webp"
-    method="Resize"
-    options="200x q80 webp"
-    imageStyle="width: 72px; height: auto; margin-left: 1rem; margin-top: 1rem; border-radius: 12px; align-self: start; flex-shrink: 0;"
-  >}}
-
-{{< /cards >}}
+{{< product-cards >}}
 
 </div>
 

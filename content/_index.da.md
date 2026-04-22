@@ -83,52 +83,7 @@ Vores produkter
 
 <div class="hx:w-full">
 
-{{< cards cols="8">}}
-
-  {{< product-card 
-    link="/products/evervideo" 
-    title="Evervideo" 
-    tag="Ny"
-    subtitle="Afspil 360° videoer, se med undertekster, brug en video-equalizer, organiser dine medier med playlister, download videoer til offline brug og stream fra iCloud." 
-    image="/images/app_icons/webp/Evervideo_Icon-App-1024x1024.webp"
-    method="Resize"
-    options="200x q80 webp"
-    imageStyle="width: 72px; height: auto; margin-left: 1rem; margin-top: 1rem; border-radius: 12px; align-self: start; flex-shrink: 0;"
-  >}}
-
-  {{< product-card 
-    link="/products/evermusic"
-    title="Evermusic" 
-    tag="11 millioner downloads"
-    subtitle="Cloud-musikafspiller med offlinetilstand, audio-equalizer, crossfade, gapless afspilning, playlister, musikbibliotek, filhåndtering." 
-    image="/images/app_icons/webp/Evermusic_Icon-App-1024x1024.webp"
-    method="Resize"
-    options="200x q80 webp"
-    imageStyle="width: 72px; height: auto; margin-left: 1rem; margin-top: 1rem; border-radius: 12px; align-self: start; flex-shrink: 0;"
-  >}}
-
-  {{< product-card 
-    link="/products/flacbox"
-    title="Flacbox" 
-    tag="1 million downloads"
-    subtitle="Hi-Res lydafspiller til iPhone og Mac. Lyt til din musik i tabsfrie lydformater: flac, alac, ape, wv, dsd og mere. Aktivér avancerede lydudgangsindstillinger.​" 
-    image="/images/app_icons/webp/Flacbox_Icon-App-1024x1024.webp"
-    method="Resize"
-    options="200x q80 webp"
-    imageStyle="width: 72px; height: auto; margin-left: 1rem; margin-top: 1rem; border-radius: 12px; align-self: start; flex-shrink: 0;"
-  >}}
-
-  {{< product-card 
-    link="/products/evertag"
-    title="Evertag" 
-    subtitle="Musiktageditor med automatisk korrektion og batchtilstand. Find manglende metadata, rediger albumcovers. Rediger ID3 / FLAC / APE. Mere end 120 tags understøttet." 
-    image="/images/app_icons/webp/Evertag_Icon-App-1024x1024.webp"
-    method="Resize"
-    options="200x q80 webp"
-    imageStyle="width: 72px; height: auto; margin-left: 1rem; margin-top: 1rem; border-radius: 12px; align-self: start; flex-shrink: 0;"
-  >}}
-
-{{< /cards >}}
+{{< product-cards >}}
 
 </div>
 

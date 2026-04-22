@@ -36,52 +36,7 @@ Svaki proizvod nudi moćne značajke i besprijekornu integraciju s iOS-om i macO
 
 <div class="hx:w-full">
 
-{{< cards cols="2">}}
-
-  {{< product-card 
-    link="/products/evervideo" 
-    title="Evervideo" 
-    tag="Novo"
-    subtitle="Reproducirajte 360° videe, gledajte s titlovima, koristite video ekvilajzer, organizirajte svoje medije s popisima za reprodukciju, preuzmite videe za offline korištenje i streamajte s iClouda." 
-    image="/images/app_icons/webp/Evervideo_Icon-App-1024x1024.webp"
-    method="Resize"
-    options="200x q80 webp"
-    imageStyle="width: 72px; height: auto; margin-left: 1rem; margin-top: 1rem; border-radius: 12px; align-self: start; flex-shrink: 0;"
-  >}}
-
-  {{< product-card 
-    link="/products/evermusic"
-    title="Evermusic" 
-    tag="11 milijuna preuzimanja"
-    subtitle="Oblačni glazbeni player s offline načinom rada, audio ekvilajzerom, crossfadeom, gapless reprodukcijom, popisima za reprodukciju, glazbenom knjižnicom, upraviteljem datoteka." 
-    image="/images/app_icons/webp/Evermusic_Icon-App-1024x1024.webp"
-    method="Resize"
-    options="200x q80 webp"
-    imageStyle="width: 72px; height: auto; margin-left: 1rem; margin-top: 1rem; border-radius: 12px; align-self: start; flex-shrink: 0;"
-  >}}
-
-  {{< product-card 
-    link="/products/flacbox"
-    title="Flacbox" 
-    tag="1 milijun preuzimanja"
-    subtitle="Hi-Res audio player za iPhone i Mac. Slušajte svoju glazbu u lossless audio formatima: flac, alac, ape, wv, dsd i više. Omogućite napredne postavke audio izlaza.​" 
-    image="/images/app_icons/webp/Flacbox_Icon-App-1024x1024.webp"
-    method="Resize"
-    options="200x q80 webp"
-    imageStyle="width: 72px; height: auto; margin-left: 1rem; margin-top: 1rem; border-radius: 12px; align-self: start; flex-shrink: 0;"
-  >}}
-
-  {{< product-card 
-    link="/products/evertag"
-    title="Evertag" 
-    subtitle="Uređivač glazbenih oznaka s automatskom korekcijom i skupnim načinom rada. Pronađite nedostajuće metapodatke, uredite omote albuma. Uredite ID3 / FLAC / APE. Podržano više od 120 oznaka." 
-    image="/images/app_icons/webp/Evertag_Icon-App-1024x1024.webp"
-    method="Resize"
-    options="200x q80 webp"
-    imageStyle="width: 72px; height: auto; margin-left: 1rem; margin-top: 1rem; border-radius: 12px; align-self: start; flex-shrink: 0;"
-  >}}
-
-{{< /cards >}}
+{{< product-cards cols="2" >}}
 
 </div>
 

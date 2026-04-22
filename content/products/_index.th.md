@@ -36,52 +36,7 @@ aliases:
 
 <div class="hx:w-full">
 
-{{< cards cols="2">}}
-
-  {{< product-card 
-    link="/products/evervideo" 
-    title="Evervideo" 
-    tag="ใหม่"
-    subtitle="เล่นวิดีโอ 360 องศา ดูพร้อมคำบรรยาย ใช้อีควอไลเซอร์วิดีโอ จัดระเบียบสื่อด้วยเพลย์ลิสต์ ดาวน์โหลดวิดีโอเพื่อใช้ออฟไลน์ และสตรีมจาก iCloud" 
-    image="/images/app_icons/webp/Evervideo_Icon-App-1024x1024.webp"
-    method="Resize"
-    options="200x q80 webp"
-    imageStyle="width: 72px; height: auto; margin-left: 1rem; margin-top: 1rem; border-radius: 12px; align-self: start; flex-shrink: 0;"
-  >}}
-
-  {{< product-card 
-    link="/products/evermusic"
-    title="Evermusic" 
-    tag="11 ล้านดาวน์โหลด"
-    subtitle="เครื่องเล่นเพลงคลาวด์พร้อมโหมดออฟไลน์ อีควอไลเซอร์เสียง ครอสเฟด เล่นต่อเนื่องไร้รอยต่อ เพลย์ลิสต์ ไลบรารีเพลง ตัวจัดการไฟล์" 
-    image="/images/app_icons/webp/Evermusic_Icon-App-1024x1024.webp"
-    method="Resize"
-    options="200x q80 webp"
-    imageStyle="width: 72px; height: auto; margin-left: 1rem; margin-top: 1rem; border-radius: 12px; align-self: start; flex-shrink: 0;"
-  >}}
-
-  {{< product-card 
-    link="/products/flacbox"
-    title="Flacbox" 
-    tag="1 ล้านดาวน์โหลด"
-    subtitle="เครื่องเล่นเสียง Hi-Res สำหรับ iPhone และ Mac ฟังเพลงของคุณในรูปแบบเสียง lossless: flac, alac, ape, wv, dsd และอื่นๆ เปิดใช้งานการตั้งค่าเอาต์พุตเสียงขั้นสูง​" 
-    image="/images/app_icons/webp/Flacbox_Icon-App-1024x1024.webp"
-    method="Resize"
-    options="200x q80 webp"
-    imageStyle="width: 72px; height: auto; margin-left: 1rem; margin-top: 1rem; border-radius: 12px; align-self: start; flex-shrink: 0;"
-  >}}
-
-  {{< product-card 
-    link="/products/evertag"
-    title="Evertag" 
-    subtitle="โปรแกรมแก้ไขแท็กเพลงพร้อมการแก้ไขอัตโนมัติและโหมดแบทช์ ค้นหาเมตาดาต้าที่ขาดหาย แก้ไขปกอัลบั้ม แก้ไข ID3 / FLAC / APE รองรับมากกว่า 120 แท็ก" 
-    image="/images/app_icons/webp/Evertag_Icon-App-1024x1024.webp"
-    method="Resize"
-    options="200x q80 webp"
-    imageStyle="width: 72px; height: auto; margin-left: 1rem; margin-top: 1rem; border-radius: 12px; align-self: start; flex-shrink: 0;"
-  >}}
-
-{{< /cards >}}
+{{< product-cards cols="2" >}}
 
 </div>
 

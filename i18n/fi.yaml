@@ -88,3 +88,15 @@ legalCardLicense: "Lisenssisopimus"
 
 # 404
 "404": "Tätä sivua ei löytynyt."
+
+# ══════════════════════════════════════
+# Product cards
+# ══════════════════════════════════════
+
+productEvervideoTag: "Uusi"
+productEvervideoSubtitle: "Toista 360°-videoita, katso tekstityksillä, käytä videotaajuuskorjainta, järjestä mediasi soittolistoilla, lataa videoita offline-käyttöön ja suoratoista iCloudista."
+productEvermusicTag: "11 miljoonaa latausta"
+productEvermusicSubtitle: "Pilvimusiikin soitin offline-tilalla, äänitaajuuskorjaimella, crossfadella, tauottomalla toistolla, soittolistoilla, musiikkikirjastolla ja tiedostonhallinnalla."
+productFlacboxTag: "1 miljoona latausta"
+productFlacboxSubtitle: "Hi-Res-äänisoitin iPhonelle ja Macille. Kuuntele musiikkiasi häviöttömissä ääniformaateissa: flac, alac, ape, wv, dsd ja muut. Ota käyttöön edistyneet äänilähtöasetukset."
+productEvertagSubtitle: "Musiikkitunnisteiden muokkain automaattisella korjauksella ja erätilalla. Etsi puuttuvat metatiedot, muokkaa albumin kansia. Muokkaa ID3 / FLAC / APE. Yli 120 tunnistetta tuettu."

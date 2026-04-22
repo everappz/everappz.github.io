@@ -86,3 +86,15 @@ legalCardLicense: "ライセンス契約"
 
 # 404
 "404": "このページは見つかりませんでした。"
+
+# ══════════════════════════════════════
+# Product cards
+# ══════════════════════════════════════
+
+productEvervideoTag: "新着"
+productEvervideoSubtitle: "360°動画の再生、字幕付き視聴、ビデオイコライザーの使用、プレイリストでのメディア整理、オフライン用の動画ダウンロード、iCloudからのストリーミング。"
+productEvermusicTag: "1,100万ダウンロード"
+productEvermusicSubtitle: "オフラインモード、オーディオイコライザー、クロスフェード、ギャップレス再生、プレイリスト、ミュージックライブラリ、ファイルマネージャーを備えたクラウドミュージックプレーヤー。"
+productFlacboxTag: "100万ダウンロード"
+productFlacboxSubtitle: "iPhone・Mac向けハイレゾオーディオプレーヤー。ロスレスオーディオフォーマット（flac、alac、ape、wv、dsdなど）で音楽を楽しめます。高度なオーディオ出力設定を有効にできます。"
+productEvertagSubtitle: "自動修正とバッチモードを備えた音楽タグエディター。不足しているメタデータの検索、アルバムカバーの編集。ID3 / FLAC / APEの編集。120以上のタグに対応。"

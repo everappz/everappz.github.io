@@ -83,52 +83,7 @@ aliases:
 
 <div class="hx:w-full">
 
-{{< cards cols="8">}}
-
-  {{< product-card 
-    link="/products/evervideo" 
-    title="Evervideo" 
-    tag="جديد"
-    subtitle="شغّل فيديوهات 360°، شاهد مع ترجمات، استخدم معادل الفيديو، نظّم وسائطك بقوائم التشغيل، حمّل الفيديوهات للمشاهدة بدون إنترنت، وابث من iCloud." 
-    image="/images/app_icons/webp/Evervideo_Icon-App-1024x1024.webp"
-    method="Resize"
-    options="200x q80 webp"
-    imageStyle="width: 72px; height: auto; margin-left: 1rem; margin-top: 1rem; border-radius: 12px; align-self: start; flex-shrink: 0;"
-  >}}
-
-  {{< product-card 
-    link="/products/evermusic"
-    title="Evermusic" 
-    tag="١١ مليون تحميل"
-    subtitle="مشغّل موسيقى سحابي مع وضع عدم الاتصال، معادل صوتي، انتقال سلس بين المسارات، تشغيل بدون فجوات، قوائم تشغيل، مكتبة موسيقية، مدير ملفات." 
-    image="/images/app_icons/webp/Evermusic_Icon-App-1024x1024.webp"
-    method="Resize"
-    options="200x q80 webp"
-    imageStyle="width: 72px; height: auto; margin-left: 1rem; margin-top: 1rem; border-radius: 12px; align-self: start; flex-shrink: 0;"
-  >}}
-
-  {{< product-card 
-    link="/products/flacbox"
-    title="Flacbox" 
-    tag="مليون تحميل"
-    subtitle="مشغّل صوت عالي الدقة لأجهزة iPhone وMac. استمع لموسيقاك بصيغ صوتية بدون فقدان: flac، alac، ape، wv، dsd والمزيد. فعّل إعدادات الإخراج الصوتي المتقدمة.​" 
-    image="/images/app_icons/webp/Flacbox_Icon-App-1024x1024.webp"
-    method="Resize"
-    options="200x q80 webp"
-    imageStyle="width: 72px; height: auto; margin-left: 1rem; margin-top: 1rem; border-radius: 12px; align-self: start; flex-shrink: 0;"
-  >}}
-
-  {{< product-card 
-    link="/products/evertag"
-    title="Evertag" 
-    subtitle="محرر علامات الموسيقى مع التصحيح التلقائي ووضع الدفعات. ابحث عن البيانات الوصفية المفقودة، حرّر أغلفة الألبومات. حرّر ID3 / FLAC / APE. أكثر من 120 علامة مدعومة." 
-    image="/images/app_icons/webp/Evertag_Icon-App-1024x1024.webp"
-    method="Resize"
-    options="200x q80 webp"
-    imageStyle="width: 72px; height: auto; margin-left: 1rem; margin-top: 1rem; border-radius: 12px; align-self: start; flex-shrink: 0;"
-  >}}
-
-{{< /cards >}}
+{{< product-cards >}}
 
 </div>
 

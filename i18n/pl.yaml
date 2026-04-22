@@ -88,3 +88,15 @@ legalCardLicense: "Umowa licencyjna"
 
 # 404
 "404": "Nie można odnaleźć tej strony."
+
+# ══════════════════════════════════════
+# Product cards
+# ══════════════════════════════════════
+
+productEvervideoTag: "Nowość"
+productEvervideoSubtitle: "Odtwarzaj filmy 360°, oglądaj z napisami, korzystaj z equalizera wideo, organizuj multimedia w playlistach, pobieraj filmy do użytku offline i strumieniuj z iCloud."
+productEvermusicTag: "11 milionów pobrań"
+productEvermusicSubtitle: "Odtwarzacz muzyki w chmurze z trybem offline, equalizerem audio, crossfade, bezprzerwowym odtwarzaniem, playlistami, biblioteką muzyczną, menedżerem plików."
+productFlacboxTag: "1 milion pobrań"
+productFlacboxSubtitle: "Odtwarzacz audio Hi-Res na iPhone'a i Maca. Słuchaj muzyki w bezstratnych formatach audio: flac, alac, ape, wv, dsd i więcej. Włącz zaawansowane ustawienia wyjścia audio."
+productEvertagSubtitle: "Edytor tagów muzycznych z automatyczną korektą i trybem wsadowym. Znajdź brakujące metadane, edytuj okładki albumów. Edytuj ID3 / FLAC / APE. Obsługa ponad 120 tagów."

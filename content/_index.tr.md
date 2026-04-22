@@ -83,52 +83,7 @@ aliases:
 
 <div class="hx:w-full">
 
-{{< cards cols="8">}}
-
-  {{< product-card 
-    link="/products/evervideo" 
-    title="Evervideo" 
-    tag="Yeni"
-    subtitle="360° videolar oynatın, altyazılı izleyin, video ekolayzır kullanın, medyanızı çalma listeleriyle düzenleyin, çevrimdışı kullanım için video indirin ve iCloud'dan akış yapın." 
-    image="/images/app_icons/webp/Evervideo_Icon-App-1024x1024.webp"
-    method="Resize"
-    options="200x q80 webp"
-    imageStyle="width: 72px; height: auto; margin-left: 1rem; margin-top: 1rem; border-radius: 12px; align-self: start; flex-shrink: 0;"
-  >}}
-
-  {{< product-card 
-    link="/products/evermusic"
-    title="Evermusic" 
-    tag="11 Milyon İndirme"
-    subtitle="Çevrimdışı mod, ses ekolayzırı, crossfade, kesintisiz çalma, çalma listeleri, müzik kütüphanesi ve dosya yöneticisi ile bulut müzik çalar." 
-    image="/images/app_icons/webp/Evermusic_Icon-App-1024x1024.webp"
-    method="Resize"
-    options="200x q80 webp"
-    imageStyle="width: 72px; height: auto; margin-left: 1rem; margin-top: 1rem; border-radius: 12px; align-self: start; flex-shrink: 0;"
-  >}}
-
-  {{< product-card 
-    link="/products/flacbox"
-    title="Flacbox" 
-    tag="1 Milyon İndirme"
-    subtitle="iPhone ve Mac için Hi-Res ses oynatıcı. Müziğinizi kayıpsız ses formatlarında dinleyin: flac, alac, ape, wv, dsd ve daha fazlası. Gelişmiş ses çıkış ayarlarını etkinleştirin." 
-    image="/images/app_icons/webp/Flacbox_Icon-App-1024x1024.webp"
-    method="Resize"
-    options="200x q80 webp"
-    imageStyle="width: 72px; height: auto; margin-left: 1rem; margin-top: 1rem; border-radius: 12px; align-self: start; flex-shrink: 0;"
-  >}}
-
-  {{< product-card 
-    link="/products/evertag"
-    title="Evertag" 
-    subtitle="Otomatik düzeltme ve toplu iş modu ile müzik etiket düzenleyici. Eksik meta verileri bulun, albüm kapaklarını düzenleyin. ID3 / FLAC / APE düzenleyin. 120'den fazla etiket desteklenir." 
-    image="/images/app_icons/webp/Evertag_Icon-App-1024x1024.webp"
-    method="Resize"
-    options="200x q80 webp"
-    imageStyle="width: 72px; height: auto; margin-left: 1rem; margin-top: 1rem; border-radius: 12px; align-self: start; flex-shrink: 0;"
-  >}}
-
-{{< /cards >}}
+{{< product-cards >}}
 
 </div>
 

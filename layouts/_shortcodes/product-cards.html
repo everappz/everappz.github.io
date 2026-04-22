@@ -1,0 +1,75 @@
+{{- /*
+  Renders all product cards with localized strings from i18n.
+
+  @param {string} cols Grid columns (default 8).
+
+  @example {{< product-cards >}}
+  @example {{< product-cards cols="2" >}}
+*/ -}}
+{{- $cols := .Get "cols" | default 8 -}}
+{{- $imageStyle := "width: 72px; height: auto; margin-left: 1rem; margin-top: 1rem; border-radius: 12px; align-self: start; flex-shrink: 0;" -}}
+{{- $process := "Resize 200x q80 webp" -}}
+{{- $buttonTitle := i18n "readMore" -}}
+
+{{- $products := slice
+  (dict
+    "link"     "/products/evervideo"
+    "title"    "Evervideo"
+    "tag"      (i18n "productEvervideoTag")
+    "subtitle" (i18n "productEvervideoSubtitle")
+    "image"    "/images/app_icons/webp/Evervideo_Icon-App-1024x1024.webp"
+  )
+  (dict
+    "link"     "/products/evermusic"
+    "title"    "Evermusic"
+    "tag"      (i18n "productEvermusicTag")
+    "subtitle" (i18n "productEvermusicSubtitle")
+    "image"    "/images/app_icons/webp/Evermusic_Icon-App-1024x1024.webp"
+  )
+  (dict
+    "link"     "/products/flacbox"
+    "title"    "Flacbox"
+    "tag"      (i18n "productFlacboxTag")
+    "subtitle" (i18n "productFlacboxSubtitle")
+    "image"    "/images/app_icons/webp/Flacbox_Icon-App-1024x1024.webp"
+  )
+  (dict
+    "link"     "/products/evertag"
+    "title"    "Evertag"
+    "subtitle" (i18n "productEvertagSubtitle")
+    "image"    "/images/app_icons/webp/Evertag_Icon-App-1024x1024.webp"
+  )
+-}}
+
+<div class="hextra-cards hx:mt-4 hx:gap-4 hx:grid not-prose" style="--hextra-cards-grid-cols: {{ $cols }};">
+  {{- range $product := $products -}}
+    {{- $img := $product.image -}}
+    {{- $width := 0 -}}
+    {{- $height := 0 -}}
+    {{- with resources.Get $img -}}
+      {{- if not (eq .MediaType.SubType "svg") -}}
+        {{- $processed := .Process $process -}}
+        {{- $width = $processed.Width -}}
+        {{- $height = $processed.Height -}}
+        {{- $img = $processed.RelPermalink -}}
+      {{- end -}}
+    {{- else -}}
+      {{- if hasPrefix $img "/" -}}
+        {{- $img = relURL (strings.TrimPrefix "/" $img) -}}
+      {{- end -}}
+    {{- end -}}
+    {{- partial "shortcodes/product-card" (dict
+      "page"        $.Page
+      "link"        $product.link
+      "title"       $product.title
+      "subtitle"    $product.subtitle
+      "tag"         $product.tag
+      "image"       $img
+      "alt"         $product.title
+      "width"       $width
+      "height"      $height
+      "imageStyle"  $imageStyle
+      "buttonTitle" $buttonTitle
+    ) -}}
+  {{- end -}}
+</div>

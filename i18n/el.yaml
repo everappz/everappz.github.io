@@ -88,3 +88,15 @@ legalCardLicense: "Άδεια χρήσης"
 
 # 404
 "404": "Αυτή η σελίδα δεν βρέθηκε."
+
+# ══════════════════════════════════════
+# Product cards
+# ══════════════════════════════════════
+
+productEvervideoTag: "Νέο"
+productEvervideoSubtitle: "Αναπαράγετε βίντεο 360°, παρακολουθήστε με υπότιτλους, χρησιμοποιήστε equalizer βίντεο, οργανώστε τα πολυμέσα σας με playlists, κατεβάστε βίντεο για χρήση εκτός σύνδεσης και κάντε streaming από το iCloud."
+productEvermusicTag: "11 εκατομμύρια λήψεις"
+productEvermusicSubtitle: "Cloud music player με λειτουργία εκτός σύνδεσης, audio equalizer, crossfade, αναπαραγωγή χωρίς κενά, playlists, μουσική βιβλιοθήκη, διαχειριστής αρχείων."
+productFlacboxTag: "1 εκατομμύριο λήψεις"
+productFlacboxSubtitle: "Hi-Res audio player για iPhone και Mac. Ακούστε τη μουσική σας σε μορφές ήχου χωρίς απώλειες: flac, alac, ape, wv, dsd και άλλα. Ενεργοποιήστε τις προηγμένες ρυθμίσεις εξόδου ήχου."
+productEvertagSubtitle: "Επεξεργαστής μουσικών tags με αυτόματη διόρθωση και λειτουργία δέσμης. Βρείτε μεταδεδομένα που λείπουν, επεξεργαστείτε εξώφυλλα άλμπουμ. Επεξεργαστείτε ID3 / FLAC / APE. Υποστήριξη περισσότερων από 120 tags."

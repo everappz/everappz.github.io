@@ -96,3 +96,15 @@ viewAsMarkdown: "View as Markdown"
 
 # 404
 "404": "This page could not be found."
+
+# ══════════════════════════════════════
+# Product cards
+# ══════════════════════════════════════
+
+productEvervideoTag: "New"
+productEvervideoSubtitle: "Play 360° videos, watch with subtitles, use a video equalizer, organize your media with playlists, download videos for offline use, and stream from iCloud."
+productEvermusicTag: "11 Million Downloads"
+productEvermusicSubtitle: "Cloud music player with offline mode, audio equalizer, crossfade, gapless playback, playlists, music library, file manager."
+productFlacboxTag: "1 Million Downloads"
+productFlacboxSubtitle: "Hi-Res audio player for iPhone and Mac. Listen to your music in lossless audio formats: flac, alac, ape, wv, dsd and more. Enable advanced audio output settings."
+productEvertagSubtitle: "Music tags editor with automatic correction and batch mode. Find missing metadata, edit album covers. Edit ID3 / FLAC/ APE. More than 120 tags supported."

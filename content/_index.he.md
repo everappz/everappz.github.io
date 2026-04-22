@@ -83,52 +83,7 @@ aliases:
 
 <div class="hx:w-full">
 
-{{< cards cols="8">}}
-
-  {{< product-card 
-    link="/products/evervideo" 
-    title="Evervideo" 
-    tag="חדש"
-    subtitle="נגנו סרטוני 360°, צפו עם כתוביות, השתמשו באקולייזר וידאו, ארגנו את המדיה שלכם עם פלייליסטים, הורידו סרטונים לשימוש לא מקוון והזרימו מ-iCloud." 
-    image="/images/app_icons/webp/Evervideo_Icon-App-1024x1024.webp"
-    method="Resize"
-    options="200x q80 webp"
-    imageStyle="width: 72px; height: auto; margin-left: 1rem; margin-top: 1rem; border-radius: 12px; align-self: start; flex-shrink: 0;"
-  >}}
-
-  {{< product-card 
-    link="/products/evermusic"
-    title="Evermusic" 
-    tag="11 מיליון הורדות"
-    subtitle="נגן מוזיקה בענן עם מצב לא מקוון, אקולייזר שמע, קרוספייד, השמעה רציפה, פלייליסטים, ספריית מוזיקה, מנהל קבצים." 
-    image="/images/app_icons/webp/Evermusic_Icon-App-1024x1024.webp"
-    method="Resize"
-    options="200x q80 webp"
-    imageStyle="width: 72px; height: auto; margin-left: 1rem; margin-top: 1rem; border-radius: 12px; align-self: start; flex-shrink: 0;"
-  >}}
-
-  {{< product-card 
-    link="/products/flacbox"
-    title="Flacbox" 
-    tag="מיליון הורדות"
-    subtitle="נגן שמע Hi-Res לאייפון ולמק. האזינו למוזיקה שלכם בפורמטים ללא אובדן: flac, alac, ape, wv, dsd ועוד. הפעילו הגדרות פלט שמע מתקדמות.​" 
-    image="/images/app_icons/webp/Flacbox_Icon-App-1024x1024.webp"
-    method="Resize"
-    options="200x q80 webp"
-    imageStyle="width: 72px; height: auto; margin-left: 1rem; margin-top: 1rem; border-radius: 12px; align-self: start; flex-shrink: 0;"
-  >}}
-
-  {{< product-card 
-    link="/products/evertag"
-    title="Evertag" 
-    subtitle="עורך תגיות מוזיקה עם תיקון אוטומטי ומצב אצווה. מצאו מטאדאטה חסרה, ערכו עטיפות אלבומים. ערכו ID3 / FLAC / APE. תמיכה ביותר מ-120 תגיות." 
-    image="/images/app_icons/webp/Evertag_Icon-App-1024x1024.webp"
-    method="Resize"
-    options="200x q80 webp"
-    imageStyle="width: 72px; height: auto; margin-left: 1rem; margin-top: 1rem; border-radius: 12px; align-self: start; flex-shrink: 0;"
-  >}}
-
-{{< /cards >}}
+{{< product-cards >}}
 
 </div>
 

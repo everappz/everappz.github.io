@@ -86,3 +86,15 @@ legalCardLicense: "Thỏa thuận cấp phép"
 
 # 404
 "404": "Không tìm thấy trang này."
+
+# ══════════════════════════════════════
+# Product cards
+# ══════════════════════════════════════
+
+productEvervideoTag: "Mới"
+productEvervideoSubtitle: "Phát video 360°, xem với phụ đề, sử dụng bộ cân bằng video, sắp xếp phương tiện với danh sách phát, tải video để xem ngoại tuyến và phát trực tuyến từ iCloud."
+productEvermusicTag: "11 triệu lượt tải xuống"
+productEvermusicSubtitle: "Trình phát nhạc đám mây với chế độ ngoại tuyến, bộ cân bằng âm thanh, crossfade, phát liên tục, danh sách phát, thư viện nhạc, trình quản lý tệp."
+productFlacboxTag: "1 triệu lượt tải xuống"
+productFlacboxSubtitle: "Trình phát âm thanh Hi-Res cho iPhone và Mac. Nghe nhạc ở các định dạng âm thanh không mất dữ liệu: flac, alac, ape, wv, dsd và nhiều hơn nữa. Bật cài đặt đầu ra âm thanh nâng cao."
+productEvertagSubtitle: "Trình chỉnh sửa thẻ nhạc với tính năng sửa tự động và chế độ hàng loạt. Tìm metadata bị thiếu, chỉnh sửa ảnh bìa album. Chỉnh sửa ID3 / FLAC / APE. Hỗ trợ hơn 120 thẻ tag."

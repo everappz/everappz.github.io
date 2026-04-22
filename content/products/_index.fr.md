@@ -36,52 +36,7 @@ Chaque produit offre des fonctionnalités puissantes et une intégration transpa
 
 <div class="hx:w-full">
 
-{{< cards cols="2">}}
-
-  {{< product-card 
-    link="/products/evervideo" 
-    title="Evervideo" 
-    tag="Nouveau"
-    subtitle="Lisez des vidéos à 360°, regardez avec des sous-titres, utilisez un égaliseur vidéo, organisez vos médias avec des playlists, téléchargez des vidéos pour une utilisation hors ligne et diffusez depuis iCloud." 
-    image="/images/app_icons/webp/Evervideo_Icon-App-1024x1024.webp"
-    method="Resize"
-    options="200x q80 webp"
-    imageStyle="width: 72px; height: auto; margin-left: 1rem; margin-top: 1rem; border-radius: 12px; align-self: start; flex-shrink: 0;"
-  >}}
-
-  {{< product-card 
-    link="/products/evermusic"
-    title="Evermusic" 
-    tag="11 millions de téléchargements"
-    subtitle="Lecteur de musique cloud avec mode hors ligne, égaliseur audio, crossfade, lecture sans interruption, playlists, bibliothèque musicale, gestionnaire de fichiers." 
-    image="/images/app_icons/webp/Evermusic_Icon-App-1024x1024.webp"
-    method="Resize"
-    options="200x q80 webp"
-    imageStyle="width: 72px; height: auto; margin-left: 1rem; margin-top: 1rem; border-radius: 12px; align-self: start; flex-shrink: 0;"
-  >}}
-
-  {{< product-card 
-    link="/products/flacbox"
-    title="Flacbox" 
-    tag="1 million de téléchargements"
-    subtitle="Lecteur audio Hi-Res pour iPhone et Mac. Écoutez votre musique dans des formats audio sans perte : flac, alac, ape, wv, dsd et plus. Activez les paramètres avancés de sortie audio.​" 
-    image="/images/app_icons/webp/Flacbox_Icon-App-1024x1024.webp"
-    method="Resize"
-    options="200x q80 webp"
-    imageStyle="width: 72px; height: auto; margin-left: 1rem; margin-top: 1rem; border-radius: 12px; align-self: start; flex-shrink: 0;"
-  >}}
-
-  {{< product-card 
-    link="/products/evertag"
-    title="Evertag" 
-    subtitle="Éditeur de tags musicaux avec correction automatique et mode par lots. Trouvez les métadonnées manquantes, modifiez les pochettes d'albums. Modifiez ID3 / FLAC / APE. Plus de 120 tags pris en charge." 
-    image="/images/app_icons/webp/Evertag_Icon-App-1024x1024.webp"
-    method="Resize"
-    options="200x q80 webp"
-    imageStyle="width: 72px; height: auto; margin-left: 1rem; margin-top: 1rem; border-radius: 12px; align-self: start; flex-shrink: 0;"
-  >}}
-
-{{< /cards >}}
+{{< product-cards cols="2" >}}
 
 </div>
 

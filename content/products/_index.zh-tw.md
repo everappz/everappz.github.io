@@ -36,52 +36,7 @@ aliases:
 
 <div class="hx:w-full">
 
-{{< cards cols="2">}}
-
-  {{< product-card 
-    link="/products/evervideo" 
-    title="Evervideo" 
-    tag="全新"
-    subtitle="播放 360° 影片，搭配字幕觀看，使用影片等化器，用播放清單整理媒體，下載影片供離線使用，從 iCloud 串流。" 
-    image="/images/app_icons/webp/Evervideo_Icon-App-1024x1024.webp"
-    method="Resize"
-    options="200x q80 webp"
-    imageStyle="width: 72px; height: auto; margin-left: 1rem; margin-top: 1rem; border-radius: 12px; align-self: start; flex-shrink: 0;"
-  >}}
-
-  {{< product-card 
-    link="/products/evermusic"
-    title="Evermusic" 
-    tag="1100 萬次下載"
-    subtitle="雲端音樂播放器，支援離線模式、音訊等化器、交叉淡入淡出、無縫播放、播放清單、音樂庫、檔案管理器。" 
-    image="/images/app_icons/webp/Evermusic_Icon-App-1024x1024.webp"
-    method="Resize"
-    options="200x q80 webp"
-    imageStyle="width: 72px; height: auto; margin-left: 1rem; margin-top: 1rem; border-radius: 12px; align-self: start; flex-shrink: 0;"
-  >}}
-
-  {{< product-card 
-    link="/products/flacbox"
-    title="Flacbox" 
-    tag="100 萬次下載"
-    subtitle="適用於 iPhone 和 Mac 的高解析音訊播放器。以無損音訊格式聆聽音樂：flac、alac、ape、wv、dsd 等。啟用進階音訊輸出設定。​" 
-    image="/images/app_icons/webp/Flacbox_Icon-App-1024x1024.webp"
-    method="Resize"
-    options="200x q80 webp"
-    imageStyle="width: 72px; height: auto; margin-left: 1rem; margin-top: 1rem; border-radius: 12px; align-self: start; flex-shrink: 0;"
-  >}}
-
-  {{< product-card 
-    link="/products/evertag"
-    title="Evertag" 
-    subtitle="音樂標籤編輯器，支援自動校正和批次模式。尋找遺失的中繼資料，編輯專輯封面。編輯 ID3 / FLAC / APE。支援超過 120 個標籤。" 
-    image="/images/app_icons/webp/Evertag_Icon-App-1024x1024.webp"
-    method="Resize"
-    options="200x q80 webp"
-    imageStyle="width: 72px; height: auto; margin-left: 1rem; margin-top: 1rem; border-radius: 12px; align-self: start; flex-shrink: 0;"
-  >}}
-
-{{< /cards >}}
+{{< product-cards cols="2" >}}
 
 </div>
 

@@ -83,52 +83,7 @@ Naši proizvodi
 
 <div class="hx:w-full">
 
-{{< cards cols="8">}}
-
-  {{< product-card 
-    link="/products/evervideo" 
-    title="Evervideo" 
-    tag="Novo"
-    subtitle="Reproducirajte 360° videozapise, gledajte s titlovima, koristite video ekvalizator, organizirajte svoje medije s popisima pjesama, preuzmite videozapise za izvanmrežno korištenje i emitirajte s iClouda." 
-    image="/images/app_icons/webp/Evervideo_Icon-App-1024x1024.webp"
-    method="Resize"
-    options="200x q80 webp"
-    imageStyle="width: 72px; height: auto; margin-left: 1rem; margin-top: 1rem; border-radius: 12px; align-self: start; flex-shrink: 0;"
-  >}}
-
-  {{< product-card 
-    link="/products/evermusic"
-    title="Evermusic" 
-    tag="11 milijuna preuzimanja"
-    subtitle="Glazbeni reproduktor u oblaku s izvanmrežnim načinom rada, audio ekvalizatorom, crossfadeom, reprodukcijom bez pauza, popisima pjesama, glazbenom bibliotekom, upraviteljem datoteka." 
-    image="/images/app_icons/webp/Evermusic_Icon-App-1024x1024.webp"
-    method="Resize"
-    options="200x q80 webp"
-    imageStyle="width: 72px; height: auto; margin-left: 1rem; margin-top: 1rem; border-radius: 12px; align-self: start; flex-shrink: 0;"
-  >}}
-
-  {{< product-card 
-    link="/products/flacbox"
-    title="Flacbox" 
-    tag="1 milijun preuzimanja"
-    subtitle="Hi-Res audio reproduktor za iPhone i Mac. Slušajte svoju glazbu u formatima bez gubitaka: flac, alac, ape, wv, dsd i više. Omogućite napredne postavke audio izlaza.​" 
-    image="/images/app_icons/webp/Flacbox_Icon-App-1024x1024.webp"
-    method="Resize"
-    options="200x q80 webp"
-    imageStyle="width: 72px; height: auto; margin-left: 1rem; margin-top: 1rem; border-radius: 12px; align-self: start; flex-shrink: 0;"
-  >}}
-
-  {{< product-card 
-    link="/products/evertag"
-    title="Evertag" 
-    subtitle="Uređivač glazbenih oznaka s automatskim ispravljanjem i skupnim načinom rada. Pronađite nedostajuće metapodatke, uredite omote albuma. Uredite ID3 / FLAC / APE. Podržano više od 120 oznaka." 
-    image="/images/app_icons/webp/Evertag_Icon-App-1024x1024.webp"
-    method="Resize"
-    options="200x q80 webp"
-    imageStyle="width: 72px; height: auto; margin-left: 1rem; margin-top: 1rem; border-radius: 12px; align-self: start; flex-shrink: 0;"
-  >}}
-
-{{< /cards >}}
+{{< product-cards >}}
 
 </div>
 

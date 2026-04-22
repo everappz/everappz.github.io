@@ -88,3 +88,15 @@ legalCardLicense: "Lisans Sözleşmesi"
 
 # 404
 "404": "Bu sayfa bulunamadı."
+
+# ══════════════════════════════════════
+# Product cards
+# ══════════════════════════════════════
+
+productEvervideoTag: "Yeni"
+productEvervideoSubtitle: "360° videolar oynatın, altyazılı izleyin, video ekolayzır kullanın, medyanızı çalma listeleriyle düzenleyin, çevrimdışı kullanım için video indirin ve iCloud'dan akış yapın."
+productEvermusicTag: "11 Milyon İndirme"
+productEvermusicSubtitle: "Çevrimdışı mod, ses ekolayzırı, crossfade, kesintisiz çalma, çalma listeleri, müzik kütüphanesi ve dosya yöneticisi ile bulut müzik çalar."
+productFlacboxTag: "1 Milyon İndirme"
+productFlacboxSubtitle: "iPhone ve Mac için Hi-Res ses oynatıcı. Müziğinizi kayıpsız ses formatlarında dinleyin: flac, alac, ape, wv, dsd ve daha fazlası. Gelişmiş ses çıkış ayarlarını etkinleştirin."
+productEvertagSubtitle: "Otomatik düzeltme ve toplu iş modu ile müzik etiket düzenleyici. Eksik meta verileri bulun, albüm kapaklarını düzenleyin. ID3 / FLAC / APE düzenleyin. 120'den fazla etiket desteklenir."

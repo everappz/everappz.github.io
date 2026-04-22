@@ -36,52 +36,7 @@ aliases:
 
 <div class="hx:w-full">
 
-{{< cards cols="2">}}
-
-  {{< product-card 
-    link="/products/evervideo" 
-    title="Evervideo" 
-    tag="Новинка"
-    subtitle="Воспроизводите 360°-видео, смотрите с субтитрами, используйте видеоэквалайзер, организуйте медиа с помощью плейлистов, скачивайте видео для офлайн-просмотра и стримьте из iCloud." 
-    image="/images/app_icons/webp/Evervideo_Icon-App-1024x1024.webp"
-    method="Resize"
-    options="200x q80 webp"
-    imageStyle="width: 72px; height: auto; margin-left: 1rem; margin-top: 1rem; border-radius: 12px; align-self: start; flex-shrink: 0;"
-  >}}
-
-  {{< product-card 
-    link="/products/evermusic"
-    title="Evermusic" 
-    tag="11 миллионов загрузок"
-    subtitle="Облачный музыкальный плеер с офлайн-режимом, аудиоэквалайзером, кроссфейдом, безразрывным воспроизведением, плейлистами, музыкальной библиотекой, файловым менеджером." 
-    image="/images/app_icons/webp/Evermusic_Icon-App-1024x1024.webp"
-    method="Resize"
-    options="200x q80 webp"
-    imageStyle="width: 72px; height: auto; margin-left: 1rem; margin-top: 1rem; border-radius: 12px; align-self: start; flex-shrink: 0;"
-  >}}
-
-  {{< product-card 
-    link="/products/flacbox"
-    title="Flacbox" 
-    tag="1 миллион загрузок"
-    subtitle="Hi-Res аудиоплеер для iPhone и Mac. Слушайте музыку в форматах без потерь: flac, alac, ape, wv, dsd и другие. Включите расширенные настройки аудиовыхода.​" 
-    image="/images/app_icons/webp/Flacbox_Icon-App-1024x1024.webp"
-    method="Resize"
-    options="200x q80 webp"
-    imageStyle="width: 72px; height: auto; margin-left: 1rem; margin-top: 1rem; border-radius: 12px; align-self: start; flex-shrink: 0;"
-  >}}
-
-  {{< product-card 
-    link="/products/evertag"
-    title="Evertag" 
-    subtitle="Редактор музыкальных тегов с автоматической коррекцией и пакетным режимом. Находите недостающие метаданные, редактируйте обложки альбомов. Редактируйте ID3 / FLAC / APE. Поддержка более 120 тегов." 
-    image="/images/app_icons/webp/Evertag_Icon-App-1024x1024.webp"
-    method="Resize"
-    options="200x q80 webp"
-    imageStyle="width: 72px; height: auto; margin-left: 1rem; margin-top: 1rem; border-radius: 12px; align-self: start; flex-shrink: 0;"
-  >}}
-
-{{< /cards >}}
+{{< product-cards cols="2" >}}
 
 </div>
 

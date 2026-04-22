@@ -88,3 +88,15 @@ legalCardLicense: "Licenčná zmluva"
 
 # 404
 "404": "Táto stránka nebola nájdená."
+
+# ══════════════════════════════════════
+# Product cards
+# ══════════════════════════════════════
+
+productEvervideoTag: "Novinka"
+productEvervideoSubtitle: "Prehrávajte 360° videá, sledujte s titulkami, používajte video ekvalizér, organizujte médiá pomocou playlistov, sťahujte videá na offline použitie a streamujte z iCloud."
+productEvermusicTag: "11 miliónov stiahnutí"
+productEvermusicSubtitle: "Cloudový hudobný prehrávač s offline režimom, audio ekvalizérom, crossfade, bezmedzerovým prehrávaním, playlistami, hudobnou knižnicou, správcom súborov."
+productFlacboxTag: "1 milión stiahnutí"
+productFlacboxSubtitle: "Hi-Res audio prehrávač pre iPhone a Mac. Počúvajte hudbu v bezstratových audio formátoch: flac, alac, ape, wv, dsd a ďalšie. Zapnite pokročilé nastavenia audio výstupu."
+productEvertagSubtitle: "Editor hudobných tagov s automatickou korekciou a dávkovým režimom. Nájdite chýbajúce metadáta, upravte obaly albumov. Upravte ID3 / FLAC / APE. Podpora viac ako 120 tagov."

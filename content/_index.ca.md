@@ -83,52 +83,7 @@ Els nostres productes
 
 <div class="hx:w-full">
 
-{{< cards cols="8">}}
-
-  {{< product-card 
-    link="/products/evervideo" 
-    title="Evervideo" 
-    tag="Nou"
-    subtitle="Reprodueix vídeos de 360°, mira amb subtítols, utilitza un equalitzador de vídeo, organitza els teus mitjans amb llistes de reproducció, descarrega vídeos per veure'ls fora de línia i transmet des d'iCloud." 
-    image="/images/app_icons/webp/Evervideo_Icon-App-1024x1024.webp"
-    method="Resize"
-    options="200x q80 webp"
-    imageStyle="width: 72px; height: auto; margin-left: 1rem; margin-top: 1rem; border-radius: 12px; align-self: start; flex-shrink: 0;"
-  >}}
-
-  {{< product-card 
-    link="/products/evermusic"
-    title="Evermusic" 
-    tag="11 milions de descàrregues"
-    subtitle="Reproductor de música al núvol amb mode fora de línia, equalitzador d'àudio, crossfade, reproducció sense interrupcions, llistes de reproducció, biblioteca musical, gestor de fitxers." 
-    image="/images/app_icons/webp/Evermusic_Icon-App-1024x1024.webp"
-    method="Resize"
-    options="200x q80 webp"
-    imageStyle="width: 72px; height: auto; margin-left: 1rem; margin-top: 1rem; border-radius: 12px; align-self: start; flex-shrink: 0;"
-  >}}
-
-  {{< product-card 
-    link="/products/flacbox"
-    title="Flacbox" 
-    tag="1 milió de descàrregues"
-    subtitle="Reproductor d'àudio d'alta resolució per a iPhone i Mac. Escolta la teva música en formats d'àudio sense pèrdua: flac, alac, ape, wv, dsd i més. Activa la configuració avançada de sortida d'àudio.​" 
-    image="/images/app_icons/webp/Flacbox_Icon-App-1024x1024.webp"
-    method="Resize"
-    options="200x q80 webp"
-    imageStyle="width: 72px; height: auto; margin-left: 1rem; margin-top: 1rem; border-radius: 12px; align-self: start; flex-shrink: 0;"
-  >}}
-
-  {{< product-card 
-    link="/products/evertag"
-    title="Evertag" 
-    subtitle="Editor d'etiquetes musicals amb correcció automàtica i mode per lots. Troba metadades que falten, edita portades d'àlbums. Edita ID3 / FLAC / APE. Més de 120 etiquetes compatibles." 
-    image="/images/app_icons/webp/Evertag_Icon-App-1024x1024.webp"
-    method="Resize"
-    options="200x q80 webp"
-    imageStyle="width: 72px; height: auto; margin-left: 1rem; margin-top: 1rem; border-radius: 12px; align-self: start; flex-shrink: 0;"
-  >}}
-
-{{< /cards >}}
+{{< product-cards >}}
 
 </div>
 

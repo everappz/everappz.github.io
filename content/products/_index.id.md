@@ -36,52 +36,7 @@ Setiap produk menawarkan fitur canggih dan integrasi mulus dengan iOS dan macOS.
 
 <div class="hx:w-full">
 
-{{< cards cols="2">}}
-
-  {{< product-card 
-    link="/products/evervideo" 
-    title="Evervideo" 
-    tag="Baru"
-    subtitle="Putar video 360°, tonton dengan subtitle, gunakan equalizer video, atur media Anda dengan playlist, unduh video untuk penggunaan offline, dan streaming dari iCloud." 
-    image="/images/app_icons/webp/Evervideo_Icon-App-1024x1024.webp"
-    method="Resize"
-    options="200x q80 webp"
-    imageStyle="width: 72px; height: auto; margin-left: 1rem; margin-top: 1rem; border-radius: 12px; align-self: start; flex-shrink: 0;"
-  >}}
-
-  {{< product-card 
-    link="/products/evermusic"
-    title="Evermusic" 
-    tag="11 Juta Unduhan"
-    subtitle="Pemutar musik cloud dengan mode offline, equalizer audio, crossfade, pemutaran gapless, playlist, perpustakaan musik, pengelola file." 
-    image="/images/app_icons/webp/Evermusic_Icon-App-1024x1024.webp"
-    method="Resize"
-    options="200x q80 webp"
-    imageStyle="width: 72px; height: auto; margin-left: 1rem; margin-top: 1rem; border-radius: 12px; align-self: start; flex-shrink: 0;"
-  >}}
-
-  {{< product-card 
-    link="/products/flacbox"
-    title="Flacbox" 
-    tag="1 Juta Unduhan"
-    subtitle="Pemutar audio Hi-Res untuk iPhone dan Mac. Dengarkan musik Anda dalam format audio lossless: flac, alac, ape, wv, dsd dan lainnya. Aktifkan pengaturan output audio tingkat lanjut.​" 
-    image="/images/app_icons/webp/Flacbox_Icon-App-1024x1024.webp"
-    method="Resize"
-    options="200x q80 webp"
-    imageStyle="width: 72px; height: auto; margin-left: 1rem; margin-top: 1rem; border-radius: 12px; align-self: start; flex-shrink: 0;"
-  >}}
-
-  {{< product-card 
-    link="/products/evertag"
-    title="Evertag" 
-    subtitle="Editor tag musik dengan koreksi otomatis dan mode batch. Temukan metadata yang hilang, edit sampul album. Edit ID3 / FLAC / APE. Lebih dari 120 tag didukung." 
-    image="/images/app_icons/webp/Evertag_Icon-App-1024x1024.webp"
-    method="Resize"
-    options="200x q80 webp"
-    imageStyle="width: 72px; height: auto; margin-left: 1rem; margin-top: 1rem; border-radius: 12px; align-self: start; flex-shrink: 0;"
-  >}}
-
-{{< /cards >}}
+{{< product-cards cols="2" >}}
 
 </div>
 

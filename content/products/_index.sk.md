@@ -36,52 +36,7 @@ Každý produkt ponúka výkonné funkcie a bezproblémovú integráciu s iOS a 
 
 <div class="hx:w-full">
 
-{{< cards cols="2">}}
-
-  {{< product-card 
-    link="/products/evervideo" 
-    title="Evervideo" 
-    tag="Novinka"
-    subtitle="Prehrávajte 360° videá, sledujte s titulkami, používajte video ekvalizér, organizujte médiá pomocou playlistov, sťahujte videá na offline použitie a streamujte z iCloud." 
-    image="/images/app_icons/webp/Evervideo_Icon-App-1024x1024.webp"
-    method="Resize"
-    options="200x q80 webp"
-    imageStyle="width: 72px; height: auto; margin-left: 1rem; margin-top: 1rem; border-radius: 12px; align-self: start; flex-shrink: 0;"
-  >}}
-
-  {{< product-card 
-    link="/products/evermusic"
-    title="Evermusic" 
-    tag="11 miliónov stiahnutí"
-    subtitle="Cloudový hudobný prehrávač s offline režimom, audio ekvalizérom, crossfade, bezmedzerovým prehrávaním, playlistami, hudobnou knižnicou, správcom súborov." 
-    image="/images/app_icons/webp/Evermusic_Icon-App-1024x1024.webp"
-    method="Resize"
-    options="200x q80 webp"
-    imageStyle="width: 72px; height: auto; margin-left: 1rem; margin-top: 1rem; border-radius: 12px; align-self: start; flex-shrink: 0;"
-  >}}
-
-  {{< product-card 
-    link="/products/flacbox"
-    title="Flacbox" 
-    tag="1 milión stiahnutí"
-    subtitle="Hi-Res audio prehrávač pre iPhone a Mac. Počúvajte hudbu v bezstratových audio formátoch: flac, alac, ape, wv, dsd a ďalšie. Aktivujte pokročilé nastavenia audio výstupu.​" 
-    image="/images/app_icons/webp/Flacbox_Icon-App-1024x1024.webp"
-    method="Resize"
-    options="200x q80 webp"
-    imageStyle="width: 72px; height: auto; margin-left: 1rem; margin-top: 1rem; border-radius: 12px; align-self: start; flex-shrink: 0;"
-  >}}
-
-  {{< product-card 
-    link="/products/evertag"
-    title="Evertag" 
-    subtitle="Editor hudobných tagov s automatickou korekciou a dávkovým režimom. Nájdite chýbajúce metadáta, upravte obaly albumov. Upravujte ID3 / FLAC / APE. Podpora viac ako 120 tagov." 
-    image="/images/app_icons/webp/Evertag_Icon-App-1024x1024.webp"
-    method="Resize"
-    options="200x q80 webp"
-    imageStyle="width: 72px; height: auto; margin-left: 1rem; margin-top: 1rem; border-radius: 12px; align-self: start; flex-shrink: 0;"
-  >}}
-
-{{< /cards >}}
+{{< product-cards cols="2" >}}
 
 </div>
 

@@ -88,3 +88,15 @@ legalCardLicense: "Licencni ugovor"
 
 # 404
 "404": "Ova stranica nije pronađena."
+
+# ══════════════════════════════════════
+# Product cards
+# ══════════════════════════════════════
+
+productEvervideoTag: "Novo"
+productEvervideoSubtitle: "Reproducirajte 360° videozapise, gledajte s titlovima, koristite video ekvalizator, organizirajte svoje medije s popisima pjesama, preuzmite videozapise za izvanmrežno korištenje i emitirajte s iClouda."
+productEvermusicTag: "11 milijuna preuzimanja"
+productEvermusicSubtitle: "Glazbeni reproduktor u oblaku s izvanmrežnim načinom rada, audio ekvalizatorom, crossfadeom, reprodukcijom bez pauza, popisima pjesama, glazbenom bibliotekom, upraviteljem datoteka."
+productFlacboxTag: "1 milijun preuzimanja"
+productFlacboxSubtitle: "Hi-Res audio reproduktor za iPhone i Mac. Slušajte svoju glazbu u formatima bez gubitaka: flac, alac, ape, wv, dsd i više. Omogućite napredne postavke audio izlaza."
+productEvertagSubtitle: "Uređivač glazbenih oznaka s automatskim ispravljanjem i skupnim načinom rada. Pronađite nedostajuće metapodatke, uredite omote albuma. Uredite ID3 / FLAC / APE. Podržano više od 120 oznaka."

@@ -88,3 +88,15 @@ legalCardLicense: "Licensavtal"
 
 # 404
 "404": "Den här sidan kunde inte hittas."
+
+# ══════════════════════════════════════
+# Product cards
+# ══════════════════════════════════════
+
+productEvervideoTag: "Ny"
+productEvervideoSubtitle: "Spela 360°-videor, titta med undertexter, använd en videoequalizer, organisera dina media med spellistor, ladda ner videor för offlineanvändning och strömma från iCloud."
+productEvermusicTag: "11 miljoner nedladdningar"
+productEvermusicSubtitle: "Molnmusikspelare med offlineläge, audioequalizer, crossfade, sömlös uppspelning, spellistor, musikbibliotek, filhanterare."
+productFlacboxTag: "1 miljon nedladdningar"
+productFlacboxSubtitle: "Hi-Res-ljudspelare för iPhone och Mac. Lyssna på din musik i förlustfria ljudformat: flac, alac, ape, wv, dsd och mer. Aktivera avancerade ljudutgångsinställningar."
+productEvertagSubtitle: "Musiktaggredigerare med automatisk korrigering och batchläge. Hitta saknad metadata, redigera albumomslag. Redigera ID3 / FLAC / APE. Mer än 120 taggar stöds."

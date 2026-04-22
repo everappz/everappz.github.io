@@ -83,52 +83,7 @@ aliases:
 
 <div class="hx:w-full">
 
-{{< cards cols="8">}}
-
-  {{< product-card 
-    link="/products/evervideo" 
-    title="Evervideo" 
-    tag="Νέο"
-    subtitle="Αναπαράγετε βίντεο 360°, παρακολουθήστε με υπότιτλους, χρησιμοποιήστε equalizer βίντεο, οργανώστε τα πολυμέσα σας με playlists, κατεβάστε βίντεο για χρήση εκτός σύνδεσης και κάντε streaming από το iCloud." 
-    image="/images/app_icons/webp/Evervideo_Icon-App-1024x1024.webp"
-    method="Resize"
-    options="200x q80 webp"
-    imageStyle="width: 72px; height: auto; margin-left: 1rem; margin-top: 1rem; border-radius: 12px; align-self: start; flex-shrink: 0;"
-  >}}
-
-  {{< product-card 
-    link="/products/evermusic"
-    title="Evermusic" 
-    tag="11 εκατομμύρια λήψεις"
-    subtitle="Cloud music player με λειτουργία εκτός σύνδεσης, audio equalizer, crossfade, αναπαραγωγή χωρίς κενά, playlists, μουσική βιβλιοθήκη, διαχειριστής αρχείων." 
-    image="/images/app_icons/webp/Evermusic_Icon-App-1024x1024.webp"
-    method="Resize"
-    options="200x q80 webp"
-    imageStyle="width: 72px; height: auto; margin-left: 1rem; margin-top: 1rem; border-radius: 12px; align-self: start; flex-shrink: 0;"
-  >}}
-
-  {{< product-card 
-    link="/products/flacbox"
-    title="Flacbox" 
-    tag="1 εκατομμύριο λήψεις"
-    subtitle="Hi-Res audio player για iPhone και Mac. Ακούστε τη μουσική σας σε μορφές ήχου χωρίς απώλειες: flac, alac, ape, wv, dsd και άλλα. Ενεργοποιήστε τις προηγμένες ρυθμίσεις εξόδου ήχου.​" 
-    image="/images/app_icons/webp/Flacbox_Icon-App-1024x1024.webp"
-    method="Resize"
-    options="200x q80 webp"
-    imageStyle="width: 72px; height: auto; margin-left: 1rem; margin-top: 1rem; border-radius: 12px; align-self: start; flex-shrink: 0;"
-  >}}
-
-  {{< product-card 
-    link="/products/evertag"
-    title="Evertag" 
-    subtitle="Επεξεργαστής μουσικών tags με αυτόματη διόρθωση και λειτουργία δέσμης. Βρείτε μεταδεδομένα που λείπουν, επεξεργαστείτε εξώφυλλα άλμπουμ. Επεξεργαστείτε ID3 / FLAC / APE. Υποστήριξη περισσότερων από 120 tags." 
-    image="/images/app_icons/webp/Evertag_Icon-App-1024x1024.webp"
-    method="Resize"
-    options="200x q80 webp"
-    imageStyle="width: 72px; height: auto; margin-left: 1rem; margin-top: 1rem; border-radius: 12px; align-self: start; flex-shrink: 0;"
-  >}}
-
-{{< /cards >}}
+{{< product-cards >}}
 
 </div>
 

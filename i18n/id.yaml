@@ -88,3 +88,15 @@ legalCardLicense: "Perjanjian Lisensi"
 
 # 404
 "404": "Halaman ini tidak dapat ditemukan."
+
+# ══════════════════════════════════════
+# Product cards
+# ══════════════════════════════════════
+
+productEvervideoTag: "Baru"
+productEvervideoSubtitle: "Putar video 360°, tonton dengan subtitle, gunakan equalizer video, atur media Anda dengan playlist, unduh video untuk penggunaan offline, dan streaming dari iCloud."
+productEvermusicTag: "11 Juta Unduhan"
+productEvermusicSubtitle: "Pemutar musik cloud dengan mode offline, equalizer audio, crossfade, pemutaran tanpa jeda, playlist, perpustakaan musik, pengelola file."
+productFlacboxTag: "1 Juta Unduhan"
+productFlacboxSubtitle: "Pemutar audio Hi-Res untuk iPhone dan Mac. Dengarkan musik Anda dalam format audio lossless: flac, alac, ape, wv, dsd dan lainnya. Aktifkan pengaturan output audio lanjutan."
+productEvertagSubtitle: "Editor tag musik dengan koreksi otomatis dan mode batch. Temukan metadata yang hilang, edit sampul album. Edit ID3 / FLAC / APE. Lebih dari 120 tag didukung."

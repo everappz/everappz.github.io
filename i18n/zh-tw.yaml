@@ -86,3 +86,15 @@ legalCardLicense: "授權合約"
 
 # 404
 "404": "找不到此頁面。"
+
+# ══════════════════════════════════════
+# Product cards
+# ══════════════════════════════════════
+
+productEvervideoTag: "新品"
+productEvervideoSubtitle: "播放 360° 影片，觀看帶字幕的影片，使用影片等化器，透過播放清單管理媒體，下載影片以供離線使用，並從 iCloud 串流。"
+productEvermusicTag: "1100 萬次下載"
+productEvermusicSubtitle: "雲端音樂播放器，支援離線模式、音訊等化器、交叉淡入淡出、無縫播放、播放清單、音樂庫、檔案管理員。"
+productFlacboxTag: "100 萬次下載"
+productFlacboxSubtitle: "適用於 iPhone 和 Mac 的 Hi-Res 音訊播放器。以無損音訊格式聆聽音樂：flac、alac、ape、wv、dsd 等。啟用進階音訊輸出設定。"
+productEvertagSubtitle: "音樂標籤編輯器，支援自動更正和批次模式。尋找遺失的中繼資料，編輯專輯封面。編輯 ID3 / FLAC / APE。支援超過 120 種標籤。"

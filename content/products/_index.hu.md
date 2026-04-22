@@ -36,52 +36,7 @@ Minden termék hatékony funkciókat és zökkenőmentes integrációt kínál i
 
 <div class="hx:w-full">
 
-{{< cards cols="2">}}
-
-  {{< product-card 
-    link="/products/evervideo" 
-    title="Evervideo" 
-    tag="Új"
-    subtitle="Játsszon le 360°-os videókat, nézzen feliratokkal, használjon videó hangszínszabályzót, rendezze médiáit lejátszási listákkal, töltsön le videókat offline használatra, és streameljen az iCloudból." 
-    image="/images/app_icons/webp/Evervideo_Icon-App-1024x1024.webp"
-    method="Resize"
-    options="200x q80 webp"
-    imageStyle="width: 72px; height: auto; margin-left: 1rem; margin-top: 1rem; border-radius: 12px; align-self: start; flex-shrink: 0;"
-  >}}
-
-  {{< product-card 
-    link="/products/evermusic"
-    title="Evermusic" 
-    tag="11 millió letöltés"
-    subtitle="Felhő zenelejátszó offline móddal, audio hangszínszabályzóval, crossfade-del, szünetmentes lejátszással, lejátszási listákkal, zenekönyvtárral, fájlkezelővel." 
-    image="/images/app_icons/webp/Evermusic_Icon-App-1024x1024.webp"
-    method="Resize"
-    options="200x q80 webp"
-    imageStyle="width: 72px; height: auto; margin-left: 1rem; margin-top: 1rem; border-radius: 12px; align-self: start; flex-shrink: 0;"
-  >}}
-
-  {{< product-card 
-    link="/products/flacbox"
-    title="Flacbox" 
-    tag="1 millió letöltés"
-    subtitle="Hi-Res audio lejátszó iPhone-ra és Mac-re. Hallgassa zenéjét veszteségmentes audio formátumokban: flac, alac, ape, wv, dsd és még több. Engedélyezze a fejlett hangkimeneti beállításokat.​" 
-    image="/images/app_icons/webp/Flacbox_Icon-App-1024x1024.webp"
-    method="Resize"
-    options="200x q80 webp"
-    imageStyle="width: 72px; height: auto; margin-left: 1rem; margin-top: 1rem; border-radius: 12px; align-self: start; flex-shrink: 0;"
-  >}}
-
-  {{< product-card 
-    link="/products/evertag"
-    title="Evertag" 
-    subtitle="Zenei címke szerkesztő automatikus javítással és kötegelt móddal. Keresse meg a hiányzó metaadatokat, szerkessze az albumborítókat. Szerkesszen ID3 / FLAC / APE fájlokat. Több mint 120 címke támogatott." 
-    image="/images/app_icons/webp/Evertag_Icon-App-1024x1024.webp"
-    method="Resize"
-    options="200x q80 webp"
-    imageStyle="width: 72px; height: auto; margin-left: 1rem; margin-top: 1rem; border-radius: 12px; align-self: start; flex-shrink: 0;"
-  >}}
-
-{{< /cards >}}
+{{< product-cards cols="2" >}}
 
 </div>
 

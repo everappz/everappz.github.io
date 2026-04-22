@@ -83,52 +83,7 @@ aliases:
 
 <div class="hx:w-full">
 
-{{< cards cols="8">}}
-
-  {{< product-card 
-    link="/products/evervideo" 
-    title="Evervideo" 
-    tag="新着"
-    subtitle="360°動画の再生、字幕付き視聴、ビデオイコライザーの使用、プレイリストでのメディア整理、オフライン用の動画ダウンロード、iCloudからのストリーミング。" 
-    image="/images/app_icons/webp/Evervideo_Icon-App-1024x1024.webp"
-    method="Resize"
-    options="200x q80 webp"
-    imageStyle="width: 72px; height: auto; margin-left: 1rem; margin-top: 1rem; border-radius: 12px; align-self: start; flex-shrink: 0;"
-  >}}
-
-  {{< product-card 
-    link="/products/evermusic"
-    title="Evermusic" 
-    tag="1,100万ダウンロード"
-    subtitle="オフラインモード、オーディオイコライザー、クロスフェード、ギャップレス再生、プレイリスト、ミュージックライブラリ、ファイルマネージャーを備えたクラウドミュージックプレーヤー。" 
-    image="/images/app_icons/webp/Evermusic_Icon-App-1024x1024.webp"
-    method="Resize"
-    options="200x q80 webp"
-    imageStyle="width: 72px; height: auto; margin-left: 1rem; margin-top: 1rem; border-radius: 12px; align-self: start; flex-shrink: 0;"
-  >}}
-
-  {{< product-card 
-    link="/products/flacbox"
-    title="Flacbox" 
-    tag="100万ダウンロード"
-    subtitle="iPhone・Mac向けハイレゾオーディオプレーヤー。ロスレスオーディオフォーマット（flac、alac、ape、wv、dsdなど）で音楽を楽しめます。高度なオーディオ出力設定を有効にできます。" 
-    image="/images/app_icons/webp/Flacbox_Icon-App-1024x1024.webp"
-    method="Resize"
-    options="200x q80 webp"
-    imageStyle="width: 72px; height: auto; margin-left: 1rem; margin-top: 1rem; border-radius: 12px; align-self: start; flex-shrink: 0;"
-  >}}
-
-  {{< product-card 
-    link="/products/evertag"
-    title="Evertag" 
-    subtitle="自動修正とバッチモードを備えた音楽タグエディター。不足しているメタデータの検索、アルバムカバーの編集。ID3 / FLAC / APEの編集。120以上のタグに対応。" 
-    image="/images/app_icons/webp/Evertag_Icon-App-1024x1024.webp"
-    method="Resize"
-    options="200x q80 webp"
-    imageStyle="width: 72px; height: auto; margin-left: 1rem; margin-top: 1rem; border-radius: 12px; align-self: start; flex-shrink: 0;"
-  >}}
-
-{{< /cards >}}
+{{< product-cards >}}
 
 </div>
 

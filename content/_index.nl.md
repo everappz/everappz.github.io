@@ -83,52 +83,7 @@ Onze producten
 
 <div class="hx:w-full">
 
-{{< cards cols="8">}}
-
-  {{< product-card 
-    link="/products/evervideo" 
-    title="Evervideo" 
-    tag="Nieuw"
-    subtitle="Speel 360°-video's af, bekijk met ondertitels, gebruik een video-equalizer, organiseer je media met afspeellijsten, download video's voor offline gebruik en stream vanaf iCloud." 
-    image="/images/app_icons/webp/Evervideo_Icon-App-1024x1024.webp"
-    method="Resize"
-    options="200x q80 webp"
-    imageStyle="width: 72px; height: auto; margin-left: 1rem; margin-top: 1rem; border-radius: 12px; align-self: start; flex-shrink: 0;"
-  >}}
-
-  {{< product-card 
-    link="/products/evermusic"
-    title="Evermusic" 
-    tag="11 miljoen downloads"
-    subtitle="Cloud-muziekspeler met offline modus, audio-equalizer, crossfade, naadloos afspelen, afspeellijsten, muziekbibliotheek, bestandsbeheer." 
-    image="/images/app_icons/webp/Evermusic_Icon-App-1024x1024.webp"
-    method="Resize"
-    options="200x q80 webp"
-    imageStyle="width: 72px; height: auto; margin-left: 1rem; margin-top: 1rem; border-radius: 12px; align-self: start; flex-shrink: 0;"
-  >}}
-
-  {{< product-card 
-    link="/products/flacbox"
-    title="Flacbox" 
-    tag="1 miljoen downloads"
-    subtitle="Hi-Res audiospeler voor iPhone en Mac. Luister naar je muziek in verliesvrije audioformaten: flac, alac, ape, wv, dsd en meer. Schakel geavanceerde audio-uitvoerinstellingen in." 
-    image="/images/app_icons/webp/Flacbox_Icon-App-1024x1024.webp"
-    method="Resize"
-    options="200x q80 webp"
-    imageStyle="width: 72px; height: auto; margin-left: 1rem; margin-top: 1rem; border-radius: 12px; align-self: start; flex-shrink: 0;"
-  >}}
-
-  {{< product-card 
-    link="/products/evertag"
-    title="Evertag" 
-    subtitle="Muziektagseditor met automatische correctie en batchmodus. Vind ontbrekende metadata, bewerk albumhoezen. Bewerk ID3 / FLAC / APE. Meer dan 120 tags ondersteund." 
-    image="/images/app_icons/webp/Evertag_Icon-App-1024x1024.webp"
-    method="Resize"
-    options="200x q80 webp"
-    imageStyle="width: 72px; height: auto; margin-left: 1rem; margin-top: 1rem; border-radius: 12px; align-self: start; flex-shrink: 0;"
-  >}}
-
-{{< /cards >}}
+{{< product-cards >}}
 
 </div>
 

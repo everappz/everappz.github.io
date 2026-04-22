@@ -86,3 +86,15 @@ legalCardLicense: "Licentieovereenkomst"
 
 # 404
 "404": "Deze pagina kon niet worden gevonden."
+
+# ══════════════════════════════════════
+# Product cards
+# ══════════════════════════════════════
+
+productEvervideoTag: "Nieuw"
+productEvervideoSubtitle: "Speel 360°-video's af, bekijk met ondertitels, gebruik een video-equalizer, organiseer je media met afspeellijsten, download video's voor offline gebruik en stream vanaf iCloud."
+productEvermusicTag: "11 miljoen downloads"
+productEvermusicSubtitle: "Cloud-muziekspeler met offline modus, audio-equalizer, crossfade, naadloos afspelen, afspeellijsten, muziekbibliotheek, bestandsbeheer."
+productFlacboxTag: "1 miljoen downloads"
+productFlacboxSubtitle: "Hi-Res audiospeler voor iPhone en Mac. Luister naar je muziek in verliesvrije audioformaten: flac, alac, ape, wv, dsd en meer. Schakel geavanceerde audio-uitvoerinstellingen in."
+productEvertagSubtitle: "Muziektagseditor met automatische correctie en batchmodus. Vind ontbrekende metadata, bewerk albumhoezen. Bewerk ID3 / FLAC / APE. Meer dan 120 tags ondersteund."

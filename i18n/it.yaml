@@ -86,3 +86,15 @@ legalCardLicense: "Contratto di licenza"
 
 # 404
 "404": "Questa pagina non è stata trovata."
+
+# ══════════════════════════════════════
+# Product cards
+# ══════════════════════════════════════
+
+productEvervideoTag: "Nuovo"
+productEvervideoSubtitle: "Riproduci video a 360°, guarda con i sottotitoli, usa un equalizzatore video, organizza i tuoi media con playlist, scarica video per l'uso offline e riproduci in streaming da iCloud."
+productEvermusicTag: "11 milioni di download"
+productEvermusicSubtitle: "Lettore musicale cloud con modalità offline, equalizzatore audio, crossfade, riproduzione gapless, playlist, libreria musicale, gestore file."
+productFlacboxTag: "1 milione di download"
+productFlacboxSubtitle: "Lettore audio Hi-Res per iPhone e Mac. Ascolta la tua musica in formati audio lossless: flac, alac, ape, wv, dsd e altro. Abilita le impostazioni avanzate di output audio."
+productEvertagSubtitle: "Editor di tag musicali con correzione automatica e modalità batch. Trova metadati mancanti, modifica le copertine degli album. Modifica ID3 / FLAC / APE. Oltre 120 tag supportati."

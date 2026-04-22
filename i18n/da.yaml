@@ -88,3 +88,15 @@ legalCardLicense: "Licensaftale"
 
 # 404
 "404": "Denne side kunne ikke findes."
+
+# ══════════════════════════════════════
+# Product cards
+# ══════════════════════════════════════
+
+productEvervideoTag: "Ny"
+productEvervideoSubtitle: "Afspil 360° videoer, se med undertekster, brug en video-equalizer, organiser dine medier med playlister, download videoer til offline brug og stream fra iCloud."
+productEvermusicTag: "11 millioner downloads"
+productEvermusicSubtitle: "Cloud-musikafspiller med offlinetilstand, audio-equalizer, crossfade, gapless afspilning, playlister, musikbibliotek, filhåndtering."
+productFlacboxTag: "1 million downloads"
+productFlacboxSubtitle: "Hi-Res lydafspiller til iPhone og Mac. Lyt til din musik i tabsfrie lydformater: flac, alac, ape, wv, dsd og mere. Aktivér avancerede lydudgangsindstillinger."
+productEvertagSubtitle: "Musiktageditor med automatisk korrektion og batchtilstand. Find manglende metadata, rediger albumcovers. Rediger ID3 / FLAC / APE. Mere end 120 tags understøttet."
