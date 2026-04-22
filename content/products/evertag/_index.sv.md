@@ -18,6 +18,8 @@ screenshots:
   - "https://everappz.com/products/evertag/screenshots/2048x2732/3.png"
 ---
 
+{{< force-dark >}}
+
 {{< hextra/hero-container
   image="/products/evertag/heroimage/evertag_mac_600_345.png"
   imageWidth="600"

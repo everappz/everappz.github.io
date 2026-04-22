@@ -21,6 +21,8 @@ screenshots:
 
 <!-- <body class="hx:bg-transparent" style="background: radial-gradient(ellipse at 50% 80%, rgba(59,130,246,0.05), hsla(0,0%,100%,0));"> -->
 
+{{< force-dark >}}
+
 {{< hextra/hero-container
   image="/products/evermusic/heroimage/hero_1200.webp"
   imageWidth="600"
