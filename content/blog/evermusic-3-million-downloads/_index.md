@@ -29,7 +29,7 @@ authors:
 
 User feedback has shaped nearly every major update. Bug reports, feature requests, and real-world testing have driven improvements from small UI tweaks to major new capabilities.
 
-![Evermusic App Store Analytics](21260c_c78cc02e2bc043f6bd42fee3b446b50a~mv2.png)
+![Evermusic App Store Analytics](/blog/evermusic-3-million-downloads/21260c_c78cc02e2bc043f6bd42fee3b446b50a~mv2.png)
 
 ## Key Features That Set Evermusic Apart
 

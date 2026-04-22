@@ -1,0 +1,117 @@
+---
+title: "Evermusic 3.1：クロスフェード、ライブラリ同期＆バックアップ"
+date: 2018-06-19
+description: "Evermusic 3.1ではクロスフェード再生、リデザインされた音楽ライブラリ、クラウドバックアップと復元、iPod連携、iOS向けのタグ編集の改善が追加されました。"
+keywords: ["Evermusic アップデート", "クロスフェード再生 iOS", "クラウド音楽アプリ", "音楽バックアップアプリ", "オーディオプレーヤー キュー", "音楽タグエディタ", "ID3タグ更新", "iPodライブラリ連携", "音楽プレーヤー iPhone", "クロスフェード音楽 iOS", "音楽ライブラリ同期 クラウド", "バックアップ音楽プレイリスト iOS"]
+tags: ["Evermusic", "クロスフェード", "音楽ライブラリ", "バックアップ", "オーディオキュー", "タグ", "クラウドプレーヤー", "オフラインプレーヤー", "エディタ", "iPodライブラリ"]
+draft: false
+aliases:
+  - /post/evermusic-31-crossfade-playback/
+  - /amp/evermusic-31-crossfade-playback/
+  - /single-post/Evermusic-Sync-your-Music-Library-Save-playback-position-Correct-music-tags/
+  - /amp/Evermusic-Sync-your-Music-Library-Save-playback-position-Correct-music-tags/
+  - /index.php/2016/05/26/evermusic-2-3-sync-you-music-library-automatically/
+cascade:
+  type: docs
+authors:
+  - name: "Anna Kosenko"
+    link: "https://www.linkedin.com/in/anna-kosenko-kosenko/"
+    image: "/images/about/anna-kosenko-cofounder-everappz.webp"
+---
+
+{{< author-byline >}}
+
+## Evermusic 3.1：変更点とその重要性
+
+**要約：** Evermusic 3.1ではクロスフェード再生（3〜15秒）、同期機能付きリデザインされた音楽ライブラリ、クラウドストレージへの完全バックアップ/復元、iPodライブラリ閲覧、改善されたキューコントロール、より良いID3タグ編集を導入しています。
+
+このリリースは再生、ライブラリ管理、データ安全性にわたる意義ある改善を提供します。バージョン3.1のすべての新機能はこちらです。
+
+### クロスフェード再生
+
+クロスフェードは1曲の終わりを次の曲の始まりにブレンドすることで、トラック間の無音を排除します。以下に適しています：
+
+- クラシック音楽やライブ録音
+- DJスタイルのプレイリスト
+- 継続的なBGMリスニング
+
+クロスフェードの長さは**3〜15秒**に設定するか、完全にオフにできます。
+
+`Settings → Audio Player → Crossfade Playback`
+
+### リデザインされた音楽ライブラリ
+
+音楽ライブラリのインターフェースが速度と明瞭さのために再構築されました：
+
+- よりクリーンなレイアウトで曲、アーティスト、アルバムを閲覧
+- クラウドストレージに新しいトラックをアップロードした後、**同期**ボタンをタップして更新
+- 名前、サイズ、トラック番号、アルバム、アーティストで並び替え
+- パフォーマンスとバッテリー寿命のバランスを取るために**メタデータ読み取り速度**を調整
+
+`Settings → Music Library → Metadata Reading`
+
+### 音楽ライブラリのバックアップと復元
+
+ワンタップバックアップで音楽データを保護：
+
+- プレイリスト、曲のメタデータ、カバーアート、アプリ設定をバックアップ
+- 接続されたクラウドストレージに単一のアーカイブファイルを保存
+- 任意のデバイスでワンタップですべてを復元
+
+`Settings → Backup & Restore`
+
+### 改善されたオーディオプレーヤーキュー
+
+新しいキューコントロールでより柔軟に：
+
+- **次に再生** — 現在のトラックの直後に曲を挿入
+- **後で再生** — キューの最後に曲を追加
+- シンプルなジェスチャーでトラックを並べ替えまたは削除
+
+### iPodライブラリ連携
+
+Evermusicのホーム画面から直接iPodライブラリを閲覧。iPodのトラックを再生キューに追加したり、アプリのファイルセクションにコピーしたりできます。
+
+利用可能なカテゴリ：
+
+- プレイリスト
+- アルバム
+- アーティスト
+- ジャンル
+
+### クラウドアカウント編集
+
+アカウントを削除して再追加することなく、接続されたクラウドサービスのログイン情報を編集。パスワードが変更されたりトークンが期限切れになった場合に時間を節約できます。
+
+### 改善されたタグエディタ
+
+**オーディオタグエディタ**がメタデータの修正をより確実に処理するようになりました：
+
+- **識別**アクションを使用してファイル名をスキャンし、ID3タグを自動更新
+- 壊れたメタデータの修正や不足しているアルバム情報の一括追加
+
+[App StoreからEvermusicをダウンロード](https://apps.apple.com/us/app/evermusic-cloud-music-player/id885367198)して、今日これらの機能をお試しください。
+
+---
+
+## よくある質問
+
+{{% details title="Evermusicのクロスフェード再生とは？" closed="true" %}}
+クロスフェード再生は1つのトラックの終わりを次のトラックの始まりにブレンドし、シームレスな移行を作成します。Settings → Audio Player → Crossfade Playbackで3〜15秒の間で長さを設定できます。
+{{% /details %}}
+
+{{% details title="Evermusicのプレイリストをクラウドストレージにバックアップできますか？" closed="true" %}}
+はい。Evermusic 3.1ではライブラリ全体（プレイリスト、メタデータ、カバーアート、設定を含む）を接続されたクラウドサービスに単一ファイルとしてバックアップできます。
+{{% /details %}}
+
+{{% details title="EvermusicはiPodライブラリの閲覧をサポートしていますか？" closed="true" %}}
+はい。Evermusicのホーム画面から直接プレイリスト、アルバム、アーティスト、ジャンルごとにiPodライブラリを閲覧し、キューにトラックを追加できます。
+{{% /details %}}
+
+{{% details title="Evermusicで不正確な曲のタグを修正するには？" closed="true" %}}
+内蔵タグエディタを使用して識別アクションをタップしてください。Evermusicがファイル名をスキャンし、修正されたメタデータでID3タグを自動的に更新します。
+{{% /details %}}
+
+{{% details title="Evermusicはどのクラウドサービスをサポートしていますか？" closed="true" %}}
+EvermusicはDropbox、Google Drive、OneDrive、MEGA、Box、Yandex.Disk、WebDAV、SMB/CIFS、FTPサーバーで動作します。
+{{% /details %}}

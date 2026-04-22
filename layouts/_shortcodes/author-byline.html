@@ -2,14 +2,24 @@
 {{- $authorTitle := "" -}}
 {{- $authorImage := "" -}}
 
-{{- if eq .Page.Section "blog" -}}
-  {{- $authorName = "Anna Kosenko" -}}
-  {{- $authorTitle = "Co-Founder & Director at Everappz" -}}
-  {{- $authorImage = "/images/about/anna-kosenko-cofounder-everappz.webp" -}}
-{{- else if in .Page.RelPermalink "/docs/howto/" -}}
-  {{- $authorName = "Artem Meleshko" -}}
-  {{- $authorTitle = "Co-Founder & iOS Engineer at Everappz" -}}
-  {{- $authorImage = "/images/about/artem-meleshko-cofounder-everappz.webp" -}}
+{{- with index (.Page.Params.authors) 0 -}}
+  {{- $authorName = .name -}}
+  {{- $authorImage = .image -}}
+  {{- if eq .name "Artem Meleshko" -}}
+    {{- $authorTitle = "Co-Founder & iOS Engineer at Everappz" -}}
+  {{- else if eq .name "Anna Kosenko" -}}
+    {{- $authorTitle = "Co-Founder & Director at Everappz" -}}
+  {{- end -}}
+{{- else -}}
+  {{- if eq $.Page.Section "blog" -}}
+    {{- $authorName = "Anna Kosenko" -}}
+    {{- $authorTitle = "Co-Founder & Director at Everappz" -}}
+    {{- $authorImage = "/images/about/anna-kosenko-cofounder-everappz.webp" -}}
+  {{- else if in $.Page.RelPermalink "/docs/howto/" -}}
+    {{- $authorName = "Artem Meleshko" -}}
+    {{- $authorTitle = "Co-Founder & iOS Engineer at Everappz" -}}
+    {{- $authorImage = "/images/about/artem-meleshko-cofounder-everappz.webp" -}}
+  {{- end -}}
 {{- end -}}
 
 {{- if $authorName -}}

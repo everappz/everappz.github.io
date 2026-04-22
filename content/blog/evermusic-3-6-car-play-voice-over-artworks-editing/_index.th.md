@@ -1,0 +1,99 @@
+---
+title: "Evermusic 3.6: CarPlay, VoiceOver และอื่นๆ"
+date: 2019-05-19
+description: "Evermusic 3.6 เพิ่มการรองรับ CarPlay, การเข้าถึง VoiceOver, เอาต์พุตเสียงแบบผสม, การแก้ไขปกอัลบั้ม และการนำเข้าจาก iCloud Drive"
+keywords: ["Evermusic CarPlay", "เครื่องเล่นเพลง CarPlay iPhone", "แอปเพลง VoiceOver iOS", "โปรแกรมแก้ไขแท็ก FLAC iPhone", "แก้ไขปกอัลบั้ม iOS", "นำเข้าเพลงจาก iCloud Drive", "การเข้าถึงเครื่องเล่นเสียง iOS", "เอาต์พุตเสียงแบบผสม iPhone"]
+tags: ["Evermusic", "CarPlay", "VoiceOver", "การเข้าถึง", "iCloud Drive", "โปรแกรมแก้ไขแท็ก", "แก้ไขปกอัลบั้ม", "อัปเดต iOS"]
+draft: false
+aliases:
+  - /post/evermusic-3-6-car-play-voice-over-artworks-editing/
+  - /amp/evermusic-3-6-car-play-voice-over-artworks-editing/
+cascade:
+  type: docs
+authors:
+  - name: "Anna Kosenko"
+    link: "https://www.linkedin.com/in/anna-kosenko-kosenko/"
+    image: "/images/about/anna-kosenko-cofounder-everappz.webp"
+---
+
+{{< author-byline >}}
+
+**TL;DR:** Evermusic 3.6 เพิ่มการรวม Apple CarPlay, การเข้าถึง VoiceOver เต็มรูปแบบ, เอาต์พุตเสียงแบบผสม, การเล่นต่ออัตโนมัติ, การแก้ไขปกและแท็กสำหรับ FLAC/MP3/AIFF และการนำเข้าไฟล์จาก iCloud Drive
+
+---
+
+## มีอะไรใหม่ใน Evermusic 3.6
+
+Evermusic 3.6 มอบฟีเจอร์หลัก 6 ประการที่เน้นการเล่นในรถยนต์ การเข้าถึง และการจัดการคลังเพลง นี่คือสิ่งที่เปลี่ยนแปลง
+
+## รองรับ Apple CarPlay
+
+Evermusic ใช้งานได้กับ Apple CarPlay แล้ว เข้าถึงเพลย์ลิสต์และอัลบั้มของคุณโดยตรงจากหน้าจอในตัวของรถยนต์
+
+- เรียกดูและเล่นเพลงจากหน้าจอรถยนต์
+- การควบคุมที่ออกแบบมาเพื่อการใช้งานที่ปลอดภัยโดยมองที่ถนน
+- ใช้งานได้กับรถยนต์ที่รองรับ CarPlay ทุกรุ่น
+
+## การเข้าถึง VoiceOver เต็มรูปแบบ
+
+Evermusic 3.6 รองรับ VoiceOver อย่างสมบูรณ์สำหรับผู้ใช้ที่มีความบกพร่องทางสายตา:
+
+- องค์ประกอบ UI ทั้งหมดมีป้ายกำกับและคำแนะนำการเข้าถึงที่อธิบายรายละเอียด
+- โหมด **Simple User Interface** ใน **Settings > Accessibility** ช่วยลดความซับซ้อนทางสายตา
+- การนำทางที่ราบรื่นตลอดทั้งแอป
+
+สิ่งนี้ทำให้ Evermusic เป็นหนึ่งในเครื่องเล่นเพลงจากบุคคลที่สามไม่กี่ตัวที่รองรับ VoiceOver อย่างละเอียดบน iOS
+
+## เอาต์พุตเสียงแบบผสม
+
+เล่นเสียง Evermusic พร้อมกับแอปอื่นๆ ได้
+
+- เปิดใช้งานใน **Settings > Audio Player > General > Audio Output Mode**
+- มีประโยชน์สำหรับการผสมเพลงกับเสียงเกม การนำทาง หรือแอป DJ
+
+## การเล่นต่ออัตโนมัติ
+
+Evermusic บันทึกตำแหน่งการฟังของคุณโดยอัตโนมัติ เมื่อคุณเปิดแอปอีกครั้ง:
+
+- **คิว**, **แทร็กปัจจุบัน** และ **ตำแหน่งการเล่น** ของคุณจะถูกกู้คืน
+- เหมาะสำหรับหนังสือเสียงและพอดแคสต์
+
+เปิดใช้งานที่: **Settings > Audio Player > General > Save Audio Player State**
+
+## การแก้ไขปกและแท็ก
+
+แก้ไขปกอัลบั้มและข้อมูลเมตาโดยตรงใน Evermusic:
+
+- เปลี่ยนปกสำหรับไฟล์ **FLAC**, **MP3**, **AIFF** และเพลย์ลิสต์
+- แก้ไขชื่อเพลง ศิลปิน และอัลบั้มด้วยโปรแกรมแก้ไขแท็กในตัว
+- อัปเดตปกด้วยการแตะเพียงครั้งเดียว
+
+## การนำเข้าไฟล์จาก iCloud Drive
+
+นำเข้าไฟล์เพลงโดยตรงจาก iCloud Drive และแอปอื่นๆ:
+
+- เรียกดูไฟล์ผ่านแอป **Files** ของ iOS
+- นำเข้าแทร็กไปยัง Evermusic ด้วยการแตะเพียงครั้งเดียว
+- เข้าถึงคอลเลกชันเพลงบนคลาวด์ทั้งหมดของคุณ
+
+## รับการอัปเดต
+
+[ดาวน์โหลด Evermusic](https://apps.apple.com/app/evermusic-offline-music-player/id885367198) จาก App Store หรืออัปเดตเป็นเวอร์ชัน 3.6 เพื่อเข้าถึงฟีเจอร์ใหม่ทั้งหมด
+
+## FAQ
+
+{{% details title="Evermusic ใช้งานได้กับ CarPlay หรือไม่?" closed="true" %}}
+ได้ ตั้งแต่เวอร์ชัน 3.6 เป็นต้นไป Evermusic รองรับ Apple CarPlay อย่างเต็มรูปแบบ คุณสามารถเรียกดูและเล่นคลังเพลงของคุณจากหน้าจอในตัวของรถยนต์
+{{% /details %}}
+
+{{% details title="Evermusic เข้าถึงได้สำหรับผู้ใช้ตาบอดหรือสายตาเลือนรางหรือไม่?" closed="true" %}}
+ได้ Evermusic 3.6 รองรับ VoiceOver อย่างเต็มรูปแบบพร้อมป้ายกำกับ คำแนะนำ และโหมดอินเทอร์เฟซที่เรียบง่าย
+{{% /details %}}
+
+{{% details title="ฉันสามารถแก้ไขแท็ก FLAC บน iPhone ด้วย Evermusic ได้หรือไม่?" closed="true" %}}
+ได้ Evermusic มีโปรแกรมแก้ไขแท็กในตัวที่ใช้งานได้กับไฟล์ FLAC, MP3 และ AIFF คุณสามารถแก้ไขชื่อเพลง ศิลปิน อัลบั้ม และปก
+{{% /details %}}
+
+{{% details title="Evermusic จำได้ไหมว่าฉันหยุดฟังตรงไหน?" closed="true" %}}
+ได้ เมื่อเปิดใช้งาน "Save Audio Player State" Evermusic จะกู้คืนคิว แทร็กปัจจุบัน และตำแหน่งการเล่นที่แน่นอนเมื่อคุณเปิดแอปอีกครั้ง
+{{% /details %}}
