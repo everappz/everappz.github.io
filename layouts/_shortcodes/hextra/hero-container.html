@@ -34,12 +34,12 @@
 {{- end -}}
 
 <style>
-@media(max-width:639px){.hextra-hero-button{display:flex!important;width:100%;justify-content:center;margin-right:0!important}}
+@media(max-width:639px){.hextra-hero-button{display:flex!important;width:100%;justify-content:center;margin-right:0!important}.hextra-hero-content{padding-bottom:1.5rem}}
 </style>
 <div
   class="{{ $class }} hextra-feature-grid hx:grid hx:sm:max-lg:grid-cols-2 hx:max-sm:grid-cols-1 hx:gap-4 hx:w-full not-prose hx:items-center"
   {{ with $css }}style="{{ . | safeCSS }}" {{ end }}>
-  <div class="hx:w-full">
+  <div class="hextra-hero-content hx:w-full">
     {{ .Inner }}
   </div>
 
