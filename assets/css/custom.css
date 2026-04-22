@@ -284,6 +284,14 @@
     position: relative;
 }
 
+:is(.dark) .product-card {
+    background-color: rgba(38, 38, 38, 0.5);
+}
+
+:is(.dark) .product-card:hover {
+    background-color: rgba(64, 64, 64, 0.6);
+}
+
 .product-card img {
     user-select: none;
 }
