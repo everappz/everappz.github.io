@@ -1,0 +1,83 @@
+<script>
+(function() {
+  var supported = [
+    'ar','ca','cs','da','de','el','en','es','fi','fr','he','hi','hr','hu',
+    'id','it','ja','ko','ms','nl','no','pl','pt','ro','ru','sk','sv','th',
+    'tr','uk','vi','zh-cn','zh-tw'
+  ];
+  var defaultLang = 'en';
+  var path = window.location.pathname;
+
+  // Detect current page language from URL
+  var currentLang = defaultLang;
+  for (var i = 0; i < supported.length; i++) {
+    if (supported[i] !== defaultLang && path.indexOf('/' + supported[i] + '/') === 0) {
+      currentLang = supported[i];
+      break;
+    }
+  }
+
+  // Strip language prefix to get the base path
+  var basePath = path;
+  if (currentLang !== defaultLang) {
+    basePath = path.substring(('/' + currentLang).length) || '/';
+  }
+
+  // Check for user's saved language preference
+  var savedLang = localStorage.getItem('preferred-lang');
+
+  // If user is on a page and has a saved preference that differs, redirect
+  if (savedLang && savedLang !== currentLang && supported.indexOf(savedLang) !== -1) {
+    var target = savedLang === defaultLang ? basePath : '/' + savedLang + basePath;
+    window.location.replace(target);
+    return;
+  }
+
+  // If no saved preference, auto-detect from browser on first visit
+  if (!savedLang) {
+    var langs = navigator.languages ? navigator.languages : [navigator.language || navigator.userLanguage || ''];
+    var match = '';
+
+    for (var j = 0; j < langs.length; j++) {
+      var tag = langs[j].toLowerCase();
+
+      if (supported.indexOf(tag) !== -1) { match = tag; break; }
+
+      // Map regional variants
+      if (tag === 'zh-hans' || tag === 'zh-sg') { match = 'zh-cn'; break; }
+      if (tag === 'zh-hant' || tag === 'zh-hk' || tag === 'zh-mo') { match = 'zh-tw'; break; }
+      if (tag === 'nb' || tag === 'nn') { match = 'no'; break; }
+      if (tag.indexOf('pt-br') === 0) { match = 'pt'; break; }
+
+      var base = tag.split('-')[0];
+      if (supported.indexOf(base) !== -1) { match = base; break; }
+    }
+
+    // Save detected language (or default)
+    var detected = match || defaultLang;
+    localStorage.setItem('preferred-lang', detected);
+
+    if (detected !== currentLang) {
+      var target = detected === defaultLang ? basePath : '/' + detected + basePath;
+      window.location.replace(target);
+      return;
+    }
+  }
+
+  // Track language switches: when user clicks a language link, save their choice
+  document.addEventListener('click', function(e) {
+    var link = e.target.closest('.hextra-language-options a');
+    if (!link) return;
+
+    var href = link.getAttribute('href');
+    var clickedLang = defaultLang;
+    for (var k = 0; k < supported.length; k++) {
+      if (supported[k] !== defaultLang && href.indexOf('/' + supported[k] + '/') === 0) {
+        clickedLang = supported[k];
+        break;
+      }
+    }
+    localStorage.setItem('preferred-lang', clickedLang);
+  });
+})();
+</script>

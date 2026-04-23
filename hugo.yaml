@@ -348,13 +348,6 @@ menu:
       weight: 9
       params:
         type: search
-    # Language switcher
-    - name: Language
-      weight: 11
-      params:
-        type: language-switch
-        label: true
-        icon: globe-alt
 
   # sidebar:                           # Sidebar navigation
   #   - identifier: more
