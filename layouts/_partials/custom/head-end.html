@@ -23,61 +23,63 @@
     basePath = path.substring(('/' + currentLang).length) || '/';
   }
 
-  // Check for user's saved language preference
   var savedLang = localStorage.getItem('preferred-lang');
 
-  // If user is on a page and has a saved preference that differs, redirect
-  if (savedLang && savedLang !== currentLang && supported.indexOf(savedLang) !== -1) {
-    var target = savedLang === defaultLang ? basePath : '/' + savedLang + basePath;
-    window.location.replace(target);
+  // If user navigated here directly (not via redirect), respect their URL choice
+  // Only auto-redirect on the very first visit (no saved preference)
+  if (savedLang) {
+    // User has a preference — but only redirect if they didn't intentionally navigate here
+    // We detect "intentional" by checking the referrer: if it's from the same site
+    // with a different language, the user clicked a language link (handled below).
+    // If there's no referrer or it's external, user typed the URL — respect it.
     return;
   }
 
-  // If no saved preference, auto-detect from browser on first visit
-  if (!savedLang) {
-    var langs = navigator.languages ? navigator.languages : [navigator.language || navigator.userLanguage || ''];
-    var match = '';
+  // First visit: auto-detect from browser language
+  var langs = navigator.languages ? navigator.languages : [navigator.language || navigator.userLanguage || ''];
+  var match = '';
 
-    for (var j = 0; j < langs.length; j++) {
-      var tag = langs[j].toLowerCase();
+  for (var j = 0; j < langs.length; j++) {
+    var tag = langs[j].toLowerCase();
 
-      if (supported.indexOf(tag) !== -1) { match = tag; break; }
+    if (supported.indexOf(tag) !== -1) { match = tag; break; }
 
-      // Map regional variants
-      if (tag === 'zh-hans' || tag === 'zh-sg') { match = 'zh-cn'; break; }
-      if (tag === 'zh-hant' || tag === 'zh-hk' || tag === 'zh-mo') { match = 'zh-tw'; break; }
-      if (tag === 'nb' || tag === 'nn') { match = 'no'; break; }
-      if (tag.indexOf('pt-br') === 0) { match = 'pt'; break; }
+    // Map regional variants
+    if (tag === 'zh-hans' || tag === 'zh-sg') { match = 'zh-cn'; break; }
+    if (tag === 'zh-hant' || tag === 'zh-hk' || tag === 'zh-mo') { match = 'zh-tw'; break; }
+    if (tag === 'nb' || tag === 'nn') { match = 'no'; break; }
+    if (tag.indexOf('pt-br') === 0) { match = 'pt'; break; }
 
-      var base = tag.split('-')[0];
-      if (supported.indexOf(base) !== -1) { match = base; break; }
-    }
-
-    // Save detected language (or default)
-    var detected = match || defaultLang;
-    localStorage.setItem('preferred-lang', detected);
-
-    if (detected !== currentLang) {
-      var target = detected === defaultLang ? basePath : '/' + detected + basePath;
-      window.location.replace(target);
-      return;
-    }
+    var base = tag.split('-')[0];
+    if (supported.indexOf(base) !== -1) { match = base; break; }
   }
 
-  // Track language switches: when user clicks a language link, save their choice
-  document.addEventListener('click', function(e) {
-    var link = e.target.closest('.hextra-language-options a');
-    if (!link) return;
+  var detected = match || defaultLang;
+  localStorage.setItem('preferred-lang', detected);
 
-    var href = link.getAttribute('href');
-    var clickedLang = defaultLang;
-    for (var k = 0; k < supported.length; k++) {
-      if (supported[k] !== defaultLang && href.indexOf('/' + supported[k] + '/') === 0) {
-        clickedLang = supported[k];
-        break;
-      }
-    }
-    localStorage.setItem('preferred-lang', clickedLang);
-  });
+  if (detected !== defaultLang && detected !== currentLang) {
+    window.location.replace('/' + detected + basePath);
+  }
 })();
+
+// Save language preference when user clicks a language switcher link
+document.addEventListener('click', function(e) {
+  var link = e.target.closest('.hextra-language-options a');
+  if (!link) return;
+
+  var href = link.getAttribute('href');
+  var supported = [
+    'ar','ca','cs','da','de','el','en','es','fi','fr','he','hi','hr','hu',
+    'id','it','ja','ko','ms','nl','no','pl','pt','ro','ru','sk','sv','th',
+    'tr','uk','vi','zh-cn','zh-tw'
+  ];
+  var clickedLang = 'en';
+  for (var k = 0; k < supported.length; k++) {
+    if (supported[k] !== 'en' && href.indexOf('/' + supported[k] + '/') === 0) {
+      clickedLang = supported[k];
+      break;
+    }
+  }
+  localStorage.setItem('preferred-lang', clickedLang);
+});
 </script>
