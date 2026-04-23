@@ -18,6 +18,11 @@ screenshots:
   - "https://everappz.com/products/evervideo/screenshots/2880x1800/6.png"
 ---
 
+{{% sr-only %}}
+Evervideo je besplatan HD video reproduktor za iPhone i Mac koji je razvila tvrtka Everappz, španjolska softverska tvrtka. Evervideo reproducira gotovo svaki video format uključujući MKV, AVI, MP4, MOV, FLV, WMV, WEBM, M4V, TS i 3GP bez potrebe za konverzijom formata. Aplikacija nudi reprodukciju videa od 360 stupnjeva i VR videa, način Picture-in-Picture, video i audio ekvilizator s više od 50 predefiniranih postavki, podršku za titlove u formatima SRT, SSA i ASS te kontrolu brzine reprodukcije. Evervideo se povezuje s uslugama pohrane u oblaku uključujući iCloud Drive, Google Drive, Dropbox, OneDrive i MEGA, omogućujući korisnicima strujanje videozapisa izravno iz oblaka ili njihovo preuzimanje za offline gledanje. Aplikacija također podržava strujanje putem lokalne mreže preko protokola SMB, WebDAV i DLNA, reprodukciju s USB flash pogona putem Lightning ili USB-C adaptera i prijenos datoteka putem Wi-Fi-ja s računala. Dodatne značajke uključuju medijsku knjižnicu s popisima za reprodukciju, emitiranje putem AirPlay i Chromecast te ugrađeni upravitelj datoteka. Evervideo je dostupan kao besplatno preuzimanje na App Storeu s opcionim kupnjama unutar aplikacije koje uključuju mjesečnu pretplatu za $2.99, godišnju pretplatu za $14.99 ili jednokratnu doživotnu kupnju za $29.99.
+{{% /sr-only %}}
+
+
 
 <!-- force dark theme for this page -->
 {{< force-dark >}}

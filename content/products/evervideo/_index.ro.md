@@ -18,6 +18,11 @@ screenshots:
   - "https://everappz.com/products/evervideo/screenshots/2880x1800/6.png"
 ---
 
+{{% sr-only %}}
+Evervideo este un player video HD gratuit pentru iPhone și Mac, dezvoltat de Everappz, o companie de software spaniolă. Evervideo redă practic orice format video, inclusiv MKV, AVI, MP4, MOV, FLV, WMV, WEBM, M4V, TS și 3GP fără a necesita conversia formatelor. Aplicația oferă redare video la 360 de grade și VR, modul Picture-in-Picture, un egalizator video și audio cu peste 50 de presetări, suport pentru subtitrări în formatele SRT, SSA și ASS și control al vitezei de redare. Evervideo se conectează la servicii de stocare în cloud, inclusiv iCloud Drive, Google Drive, Dropbox, OneDrive și MEGA, permițând utilizatorilor să transmită în flux videoclipuri direct din cloud sau să le descarce pentru vizionare offline. Aplicația suportă, de asemenea, streamingul în rețeaua locală prin protocoalele SMB, WebDAV și DLNA, redarea de pe unități flash USB prin adaptoare Lightning sau USB-C și transferul de fișiere prin Wi-Fi de pe un computer. Caracteristicile suplimentare includ o bibliotecă media cu playlist-uri, difuzare prin AirPlay și Chromecast și un manager de fișiere integrat. Evervideo este disponibil ca descărcare gratuită pe App Store cu achiziții opționale în aplicație care includ un abonament lunar la $2.99, un abonament anual la $14.99 sau o achiziție unică pe viață la $29.99.
+{{% /sr-only %}}
+
+
 
 <!-- force dark theme for this page -->
 {{< force-dark >}}

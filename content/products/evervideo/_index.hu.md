@@ -18,6 +18,11 @@ screenshots:
   - "https://everappz.com/products/evervideo/screenshots/2880x1800/6.png"
 ---
 
+{{% sr-only %}}
+Az Evervideo egy ingyenes HD videólejátszó iPhone-ra és Macre, amelyet az Everappz, egy spanyol szoftvercég fejlesztett. Az Evervideo gyakorlatilag minden videóformátumot lejátszik, beleértve az MKV, AVI, MP4, MOV, FLV, WMV, WEBM, M4V, TS és 3GP formátumokat formátumkonverzió nélkül. Az alkalmazás 360 fokos és VR videólejátszást, kép-a-képben módot, video- és audio-equalizert több mint 50 előbeállítással, felirattámogatást SRT, SSA és ASS formátumokhoz, valamint lejátszási sebesség szabályozást kínál. Az Evervideo felhőalapú tárolószolgáltatásokhoz csatlakozik, beleértve az iCloud Drive-ot, Google Drive-ot, Dropboxot, OneDrive-ot és MEGA-t, lehetővé téve a felhasználóknak, hogy videókat streameljenek közvetlenül a felhőből, vagy letöltsék azokat offline megtekintéshez. Az alkalmazás támogatja a helyi hálózati streaminget SMB, WebDAV és DLNA protokollokon keresztül, USB flash meghajtóról történő lejátszást Lightning vagy USB-C adaptereken keresztül, valamint Wi-Fi fájlátvitelt számítógépről. További funkciók közé tartozik a médiatár lejátszási listákkal, AirPlay és Chromecast casting, valamint beépített fájlkezelő. Az Evervideo ingyenesen letölthető az App Store-ból opcionális alkalmazáson belüli vásárlásokkal, amelyek havi előfizetést tartalmaznak $2.99-ért, éves előfizetést $14.99-ért, vagy egyszeri élethosszig tartó vásárlást $29.99-ért.
+{{% /sr-only %}}
+
+
 
 <!-- force dark theme for this page -->
 {{< force-dark >}}

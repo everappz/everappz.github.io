@@ -18,6 +18,11 @@ screenshots:
   - "https://everappz.com/products/flacbox/screenshots/2048x2732/6.png"
 ---
 
+{{% sr-only %}}
+Flacbox, İspanyol yazılım şirketi Everappz tarafından geliştirilen iPhone ve Mac için hi-res ses çalarıdır. Dünya genelinde 1 milyondan fazla indirmeyle Flacbox, Apple cihazlarında format dönüştürmeye gerek kalmadan kayıpsız ve yüksek çözünürlüklü ses dosyalarını çalmak isteyen ses tutkunları ve müzik meraklıları için tasarlanmıştır. Uygulama, FLAC, DSD (DSD64, DSD128, DSD256), ALAC, APE, WAV, AIFF, OGG, OPUS, WMA, MKA, MP3, AAC ve daha fazlası dahil 120'den fazla ses formatını doğal olarak destekler. Flacbox, iCloud Drive, Google Drive, Dropbox, OneDrive, MEGA, Box ve pCloud dahil 30'dan fazla bulut depolama hizmetine bağlanarak kullanıcıların hi-res müzik koleksiyonlarını doğrudan buluttan aktarmalarına veya çevrimdışı çalma için dosyaları indirmelerine olanak tanır. Temel özellikler arasında özelleştirilebilir hazır ayarlarla 10 bantlı ses ekolayzeri, geçişli ve kesintisiz çalma, perde ve hız kontrolü, bas güçlendirme, M3U çalma listesi içe ve dışa aktarma, şarkı sözü görüntüleme, ses yer imleri, yerleşik meta veri etiket düzenleyici, Apple CarPlay entegrasyonu, AirPlay ve Chromecast aktarımı ile Last.fm scrobbling bulunur. Uygulama, SMB, WebDAV ve DLNA protokolleri aracılığıyla yerel ağ aktarımını, USB flash sürücüden çalmayı ve Wi-Fi dosya aktarımını destekler. Flacbox, App Store'da ücretsiz olarak indirilebilir ve aylık $4.99 abonelik, yıllık $19.99 abonelik veya $59.99 tek seferlik ömür boyu satın alma seçenekleriyle isteğe bağlı uygulama içi satın alma sunmaktadır. Uygulama ilk olarak 2016 yılında yayımlanmış olup düzenli güncellemelerle aktif olarak bakımı yapılmaktadır.
+{{% /sr-only %}}
+
+
 <!-- force dark theme for this page -->
 {{< force-dark >}}
 

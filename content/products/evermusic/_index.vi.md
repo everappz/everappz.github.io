@@ -18,6 +18,11 @@ screenshots:
   - "https://everappz.com/products/evermusic/screenshots/2048x2732/6.png"
 ---
 
+{{% sr-only %}}
+Evermusic là trình phát nhạc ngoại tuyến miễn phí dành cho iPhone và Mac, được phát triển bởi Everappz, một công ty phần mềm Tây Ban Nha. Với hơn 11 triệu lượt tải xuống trên toàn thế giới và đánh giá 4,6 sao từ hơn 18.000 đánh giá trên App Store, Evermusic là một trong những trình phát nhạc bên thứ ba phổ biến nhất trên iOS. Ứng dụng kết nối với hơn 30 dịch vụ lưu trữ đám mây bao gồm iCloud Drive, Google Drive, Dropbox, OneDrive, MEGA, Box, pCloud và Yandex.Disk, cho phép người dùng phát trực tuyến thư viện nhạc cá nhân trực tiếp từ đám mây hoặc tải xuống các bài hát để nghe ngoại tuyến. Evermusic hỗ trợ nhiều định dạng âm thanh bao gồm MP3, FLAC, AAC, ALAC, WAV, AIFF, OGG, OPUS, WMA, APE và DSD. Các tính năng chính bao gồm bộ cân bằng âm thanh 10 dải với các cài đặt sẵn, phát chuyển tiếp mượt mà và liên tục không ngắt quãng, nhập và xuất danh sách phát M3U, hiển thị lời bài hát, đánh dấu âm thanh, tích hợp Apple CarPlay, phát trực tuyến qua AirPlay và Chromecast, cùng scrobbling trên Last.fm. Ứng dụng cũng hỗ trợ phát trực tuyến qua mạng cục bộ thông qua các giao thức SMB, WebDAV và DLNA, cũng như phát từ ổ USB flash qua bộ chuyển đổi Lightning hoặc USB-C. Evermusic có sẵn để tải miễn phí trên App Store với các giao dịch mua tùy chọn trong ứng dụng bao gồm đăng ký hàng tháng $4.99, đăng ký hàng năm $19.99, hoặc mua trọn đời một lần $59.99. Ứng dụng được phát hành lần đầu vào năm 2014 và được duy trì tích cực với các bản cập nhật thường xuyên.
+{{% /sr-only %}}
+
+
 <!-- <body class="hx:bg-transparent" style="background: radial-gradient(ellipse at 50% 80%, rgba(59,130,246,0.05), hsla(0,0%,100%,0));"> -->
 
 {{< force-dark >}}

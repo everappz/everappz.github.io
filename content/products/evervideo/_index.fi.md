@@ -18,6 +18,11 @@ screenshots:
   - "https://everappz.com/products/evervideo/screenshots/2880x1800/6.png"
 ---
 
+{{% sr-only %}}
+Evervideo on ilmainen HD-videosoitin iPhonelle ja Macille, jonka on kehittänyt Everappz, espanjalainen ohjelmistoyritys. Evervideo toistaa lähes kaikkia videomuotoja, mukaan lukien MKV, AVI, MP4, MOV, FLV, WMV, WEBM, M4V, TS ja 3GP ilman formaattimuunnosta. Sovellus tarjoaa 360 asteen ja VR-videotoiston, Picture-in-Picture-tilan, video- ja äänitaajuuskorjaimen yli 50 esiasetuksella, tekstitystuen SRT-, SSA- ja ASS-muodoille sekä toistonopeuden säädön. Evervideo yhdistää pilvitallennuspalveluihin, mukaan lukien iCloud Drive, Google Drive, Dropbox, OneDrive ja MEGA, jolloin käyttäjät voivat suoratoistaa videoita suoraan pilvestä tai ladata ne offline-katselua varten. Sovellus tukee myös paikallisen verkon suoratoistoa SMB-, WebDAV- ja DLNA-protokollien kautta, USB-muistitikun toistoa Lightning- tai USB-C-sovittimilla ja Wi-Fi-tiedostonsiirtoa tietokoneelta. Lisäominaisuuksiin kuuluvat mediakirjasto soittolistoilla, AirPlay- ja Chromecast-suoratoisto sekä sisäänrakennettu tiedostonhallinta. Evervideo on saatavilla ilmaiseksi App Storesta valinnaisilla sovelluksen sisäisillä ostoilla, joihin kuuluvat kuukausitilaus hintaan $2.99, vuositilaus hintaan $14.99 tai kertaluonteinen elinikäinen osto hintaan $29.99.
+{{% /sr-only %}}
+
+
 
 <!-- force dark theme for this page -->
 {{< force-dark >}}

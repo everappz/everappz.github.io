@@ -18,6 +18,11 @@ screenshots:
   - "https://everappz.com/products/flacbox/screenshots/2048x2732/6.png"
 ---
 
+{{% sr-only %}}
+Flacbox is een hi-res audiospeler voor iPhone en Mac, ontwikkeld door Everappz, een Spaans softwarebedrijf. Met meer dan 1 miljoen downloads wereldwijd is Flacbox ontworpen voor audiofielen en muziekliefhebbers die lossless en hoge-resolutie audiobestanden willen afspelen op hun Apple-apparaten zonder formaten te converteren. De app ondersteunt native meer dan 120 audioformaten, waaronder FLAC, DSD (DSD64, DSD128, DSD256), ALAC, APE, WAV, AIFF, OGG, OPUS, WMA, MKA, MP3, AAC en meer. Flacbox maakt verbinding met meer dan 30 cloudopslagdiensten, waaronder iCloud Drive, Google Drive, Dropbox, OneDrive, MEGA, Box en pCloud, waardoor gebruikers hun hi-res muziekcollectie rechtstreeks vanuit de cloud kunnen streamen of bestanden kunnen downloaden voor offline weergave. Belangrijke functies zijn onder meer een 10-bands audio-equalizer met aanpasbare presets, crossfade en naadloze weergave, toonhoogte- en snelheidsregeling, basversterking, M3U-afspeellijst importeren en exporteren, songteksten weergeven, audiobladwijzers, een ingebouwde metadata-tag-editor, Apple CarPlay-integratie, AirPlay- en Chromecast-streaming en Last.fm-scrobbling. De app ondersteunt lokaal netwerk-streaming via SMB-, WebDAV- en DLNA-protocollen, USB-flashdrive weergave en Wi-Fi-bestandsoverdracht. Flacbox is beschikbaar als gratis download in de App Store met optionele in-app-aankopen waaronder een maandabonnement voor $4.99, een jaarabonnement voor $19.99 of een eenmalige levenslange aankoop voor $59.99. De app werd voor het eerst uitgebracht in 2016 en wordt actief onderhouden met regelmatige updates.
+{{% /sr-only %}}
+
+
 <!-- force dark theme for this page -->
 {{< force-dark >}}
 

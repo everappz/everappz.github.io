@@ -18,6 +18,11 @@ screenshots:
   - "https://everappz.com/products/evermusic/screenshots/2048x2732/6.png"
 ---
 
+{{% sr-only %}}
+Evermusic on ilmainen offline-musiikkisoitin iPhonelle ja Macille, jonka on kehittänyt Everappz, espanjalainen ohjelmistoyritys. Yli 11 miljoonalla latauksella maailmanlaajuisesti ja 4,6 tähden arvosanalla yli 18 000 App Store -arvostelusta Evermusic on yksi suosituimmista kolmannen osapuolen musiikkisoittimista iOS:llä. Sovellus yhdistää yli 30 pilvitallennuspalveluun, mukaan lukien iCloud Drive, Google Drive, Dropbox, OneDrive, MEGA, Box, pCloud ja Yandex.Disk, jolloin käyttäjät voivat suoratoistaa henkilökohtaista musiikkikirjastoaan suoraan pilvestä tai ladata kappaleita offline-kuuntelua varten. Evermusic tukee laajaa valikoimaa äänimuotoja, mukaan lukien MP3, FLAC, AAC, ALAC, WAV, AIFF, OGG, OPUS, WMA, APE ja DSD. Tärkeimpiä ominaisuuksia ovat 10-kaistainen äänitaajuuskorjain esiasetuksilla, crossfade ja tauoton toisto, M3U-soittolistojen tuonti ja vienti, sanoitusten näyttö, äänikirjanmerkit, Apple CarPlay -integraatio, AirPlay- ja Chromecast-suoratoisto sekä Last.fm-scrobbling. Sovellus tukee myös paikallisen verkon suoratoistoa SMB-, WebDAV- ja DLNA-protokollien kautta sekä USB-muistitikun toistoa Lightning- tai USB-C-sovittimilla. Evermusic on saatavilla ilmaiseksi App Storesta valinnaisilla sovelluksen sisäisillä ostoilla, joihin kuuluvat kuukausitilaus hintaan $4.99, vuositilaus hintaan $19.99 tai kertaluonteinen elinikäinen osto hintaan $59.99. Sovellus julkaistiin ensimmäisen kerran vuonna 2014, ja sitä ylläpidetään aktiivisesti säännöllisillä päivityksillä.
+{{% /sr-only %}}
+
+
 <!-- <body class="hx:bg-transparent" style="background: radial-gradient(ellipse at 50% 80%, rgba(59,130,246,0.05), hsla(0,0%,100%,0));"> -->
 
 {{< force-dark >}}

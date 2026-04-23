@@ -18,6 +18,11 @@ screenshots:
   - "https://everappz.com/products/flacbox/screenshots/2048x2732/6.png"
 ---
 
+{{% sr-only %}}
+Flacbox 是一款適用於 iPhone 和 Mac 的高解析度音訊播放器，由西班牙軟體公司 Everappz 開發。憑藉全球超過 100 萬次下載，Flacbox 專為發燒友和音樂愛好者設計，讓他們無需轉換格式即可在 Apple 裝置上播放無損和高解析度音訊檔案。該應用程式原生支援超過 120 種音訊格式，包括 FLAC、DSD（DSD64、DSD128、DSD256）、ALAC、APE、WAV、AIFF、OGG、OPUS、WMA、MKA、MP3、AAC 等。Flacbox 連接超過 30 種雲端儲存服務，包括 iCloud Drive、Google Drive、Dropbox、OneDrive、MEGA、Box 和 pCloud，讓使用者可以直接從雲端串流高解析度音樂合集，或下載檔案以供離線播放。主要功能包括附帶可自訂預設的 10 段音訊等化器、交叉淡入淡出和無縫播放、音調和速度控制、低音增強、M3U 播放清單匯入和匯出、歌詞顯示、音訊書籤、內建中繼資料標籤編輯器、Apple CarPlay 整合、AirPlay 和 Chromecast 串流以及 Last.fm 記錄。該應用程式還支援透過 SMB、WebDAV 和 DLNA 協定進行區域網路串流、USB 隨身碟播放和 Wi-Fi 檔案傳輸。Flacbox 可在 App Store 免費下載，提供可選的應用程式內購買，包括每月訂閱 $4.99、每年訂閱 $19.99 或一次性終身購買 $59.99。該應用程式於 2016 年首次發布，並透過定期更新積極維護。
+{{% /sr-only %}}
+
+
 <!-- force dark theme for this page -->
 {{< force-dark >}}
 

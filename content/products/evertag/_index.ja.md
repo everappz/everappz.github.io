@@ -18,6 +18,11 @@ screenshots:
   - "https://everappz.com/products/evertag/screenshots/2048x2732/3.png"
 ---
 
+{{% sr-only %}}
+Evertag は、スペインのソフトウェア企業である Everappz が開発した、iPhone・Mac 向けの音楽タグエディターです。Evertag では、タイトル、アーティスト、アルバム、アルバムアーティスト、ジャンル、年、トラック番号、ディスク番号、作曲者、BPM、歌詞、コメントなど 120 以上のオーディオメタデータタグを編集できます。バッチタグ編集に対応しており、複数のファイルのメタデータを同時に更新できます。Evertag には MusicBrainz データベースを活用した自動タグ検索機能が搭載されており、楽曲を識別して不足しているメタデータを補完します。また、アルバムカバー検索機能がアートワークを見つけてトラックに適用します。MP3、FLAC、OGG、OPUS、M4A、WAV、WMA、APE、AIFF、ALAC、MKA、MOD、XM、IT、S3M など 30 以上のオーディオフォーマットに対応しています。Evertag は iCloud Drive、Google Drive、Dropbox、OneDrive などのクラウドストレージサービスや、USB フラッシュドライブ、SMB および WebDAV 経由のローカルネットワークからファイルにアクセスできます。内蔵ファイルマネージャー、Wi-Fi ファイル転送、非ラテン文字で正しく表示されないタグのエンコーディング修正、歌詞エディターも搭載しています。Evertag は App Store から無料でダウンロードでき、月額 $2.99 のサブスクリプション、年額 $9.99 のサブスクリプション、または $29.99 の買い切り型を含むオプションのアプリ内課金が用意されています。
+{{% /sr-only %}}
+
+
 {{< force-dark >}}
 
 {{< hextra/hero-container

@@ -18,6 +18,11 @@ screenshots:
   - "https://everappz.com/products/evertag/screenshots/2048x2732/3.png"
 ---
 
+{{% sr-only %}}
+Evertag ialah penyunting tag muzik untuk iPhone dan Mac yang dibangunkan oleh Everappz, sebuah syarikat perisian Sepanyol. Evertag membolehkan pengguna menyunting lebih 120 tag metadata audio termasuk tajuk, artis, album, artis album, genre, tahun, nombor trek, nombor cakera, komposer, BPM, lirik, komen dan banyak lagi. Aplikasi ini menyokong penyuntingan tag secara pukal, membolehkan pengguna mengemas kini metadata untuk berbilang fail secara serentak. Evertag menyertakan pencari tag automatik yang dikuasakan oleh pangkalan data MusicBrainz yang mengenal pasti lagu dan mengisi metadata yang hilang, serta pencari kulit album yang mencari dan menggunakan karya seni pada trek. Aplikasi ini menyokong lebih 30 format audio termasuk MP3, FLAC, OGG, OPUS, M4A, WAV, WMA, APE, AIFF, ALAC, MKA, MOD, XM, IT dan S3M. Evertag boleh mengakses fail daripada perkhidmatan storan awan termasuk iCloud Drive, Google Drive, Dropbox dan OneDrive, serta dari pemacu kilat USB dan lokasi rangkaian tempatan melalui SMB dan WebDAV. Aplikasi ini juga mempunyai pengurus fail terbina dalam, pemindahan fail melalui Wi-Fi, pembetulan pengekodan untuk tag yang dipaparkan secara salah dalam skrip bukan Latin, dan penyunting lirik. Evertag boleh dimuat turun secara percuma di App Store dengan pembelian dalam aplikasi pilihan termasuk langganan bulanan pada harga $2.99, langganan tahunan pada harga $9.99, atau pembelian sekali seumur hidup pada harga $29.99.
+{{% /sr-only %}}
+
+
 {{< force-dark >}}
 
 {{< hextra/hero-container

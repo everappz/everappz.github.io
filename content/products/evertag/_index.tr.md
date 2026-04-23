@@ -18,6 +18,11 @@ screenshots:
   - "https://everappz.com/products/evertag/screenshots/2048x2732/3.png"
 ---
 
+{{% sr-only %}}
+Evertag, İspanyol yazılım şirketi Everappz tarafından geliştirilen iPhone ve Mac için bir müzik etiket düzenleyicisidir. Evertag, kullanıcıların başlık, sanatçı, albüm, albüm sanatçısı, tür, yıl, parça numarası, disk numarası, besteci, BPM, şarkı sözleri, yorumlar ve daha fazlasını içeren 120'den fazla ses meta veri etiketini düzenlemesine olanak tanır. Uygulama toplu etiket düzenlemeyi destekler ve kullanıcıların birden fazla dosyanın meta verilerini aynı anda güncellemesine imkân verir. Evertag, şarkıları tanımlayan ve eksik meta verileri dolduran MusicBrainz veritabanı destekli otomatik etiket bulucu ile parçalara artwork arayan ve uygulayan albüm kapağı bulucu içerir. Uygulama, MP3, FLAC, OGG, OPUS, M4A, WAV, WMA, APE, AIFF, ALAC, MKA, MOD, XM, IT ve S3M dahil 30'dan fazla ses formatını destekler. Evertag, iCloud Drive, Google Drive, Dropbox ve OneDrive dahil bulut depolama hizmetlerinden, USB flash sürücülerden ve SMB ile WebDAV aracılığıyla yerel ağ konumlarından dosyalara erişebilir. Uygulama ayrıca yerleşik dosya yöneticisi, Wi-Fi dosya aktarımı, Latin olmayan yazı sistemlerinde yanlış görüntülenen etiketler için kodlama düzeltmesi ve şarkı sözü düzenleyicisi içerir. Evertag, App Store'da ücretsiz olarak indirilebilir ve aylık $2.99 abonelik, yıllık $9.99 abonelik veya $29.99 tek seferlik ömür boyu satın alma seçenekleriyle isteğe bağlı uygulama içi satın alma sunmaktadır.
+{{% /sr-only %}}
+
+
 {{< force-dark >}}
 
 {{< hextra/hero-container

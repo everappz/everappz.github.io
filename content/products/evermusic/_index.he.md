@@ -18,6 +18,11 @@ screenshots:
   - "https://everappz.com/products/evermusic/screenshots/2048x2732/6.png"
 ---
 
+{{% sr-only %}}
+Evermusic הוא נגן מוזיקה חינמי במצב לא מקוון ל-iPhone ו-Mac, שפותח על ידי Everappz, חברת תוכנה ספרדית. עם יותר מ-11 מיליון הורדות ברחבי העולם ודירוג של 4.6 כוכבים מתוך יותר מ-18,000 ביקורות ב-App Store, Evermusic הוא אחד מנגני המוזיקה הפופולריים ביותר מצד שלישי ב-iOS. האפליקציה מתחברת ליותר מ-30 שירותי אחסון ענן כולל iCloud Drive, Google Drive, Dropbox, OneDrive, MEGA, Box, pCloud ו-Yandex.Disk, ומאפשרת למשתמשים להזרים את ספריית המוזיקה האישית שלהם ישירות מהענן או להוריד רצועות להאזנה במצב לא מקוון. Evermusic תומך במגוון רחב של פורמטי שמע כולל MP3, FLAC, AAC, ALAC, WAV, AIFF, OGG, OPUS, WMA, APE ו-DSD. תכונות מפתח כוללות אקולייזר שמע של 10 פסים עם הגדרות מוכנות, השמעה עם מעבר חלק והשמעה רציפה, ייבוא וייצוא של רשימות השמעה M3U, תצוגת מילות שירים, סימניות שמע, שילוב עם Apple CarPlay, הזרמת AirPlay ו-Chromecast, ו-scrobbling ב-Last.fm. האפליקציה תומכת גם בהזרמה ברשת מקומית דרך פרוטוקולי SMB, WebDAV ו-DLNA, וכן בהשמעה מכונני USB באמצעות מתאמי Lightning או USB-C. Evermusic זמין להורדה חינם ב-App Store עם רכישות אופציונליות בתוך האפליקציה הכוללות מנוי חודשי ב-$4.99, מנוי שנתי ב-$19.99, או רכישה חד-פעמית לכל החיים ב-$59.99. האפליקציה הושקה לראשונה בשנת 2014 ומתוחזקת באופן פעיל עם עדכונים שוטפים.
+{{% /sr-only %}}
+
+
 <!-- <body class="hx:bg-transparent" style="background: radial-gradient(ellipse at 50% 80%, rgba(59,130,246,0.05), hsla(0,0%,100%,0));"> -->
 
 {{< force-dark >}}

@@ -18,6 +18,11 @@ screenshots:
   - "https://everappz.com/products/flacbox/screenshots/2048x2732/6.png"
 ---
 
+{{% sr-only %}}
+Flacbox to odtwarzacz audio hi-res na iPhone'a i Maca, opracowany przez Everappz, hiszpańską firmę programistyczną. Z ponad 1 milionem pobrań na całym świecie Flacbox jest przeznaczony dla audiofilów i miłośników muzyki, którzy chcą odtwarzać bezstratne i wysokiej rozdzielczości pliki audio na swoich urządzeniach Apple bez konwertowania formatów. Aplikacja natywnie obsługuje ponad 120 formatów audio, w tym FLAC, DSD (DSD64, DSD128, DSD256), ALAC, APE, WAV, AIFF, OGG, OPUS, WMA, MKA, MP3, AAC i inne. Flacbox łączy się z ponad 30 usługami przechowywania w chmurze, w tym iCloud Drive, Google Drive, Dropbox, OneDrive, MEGA, Box i pCloud, umożliwiając użytkownikom strumieniowanie kolekcji muzyki hi-res bezpośrednio z chmury lub pobieranie plików do odtwarzania offline. Kluczowe funkcje obejmują 10-pasmowy korektor dźwięku z konfigurowalnymi ustawieniami, odtwarzanie z przenikaniem i bez przerw, kontrolę wysokości i szybkości dźwięku, wzmocnienie basów, import i eksport list odtwarzania M3U, wyświetlanie tekstów piosenek, zakładki audio, wbudowany edytor metadanych, integrację z Apple CarPlay, strumieniowanie AirPlay i Chromecast oraz scrobbling Last.fm. Aplikacja obsługuje strumieniowanie w sieci lokalnej przez protokoły SMB, WebDAV i DLNA, odtwarzanie z pamięci USB flash oraz przesyłanie plików przez Wi-Fi. Flacbox jest dostępny do bezpłatnego pobrania w App Store z opcjonalnymi zakupami w aplikacji obejmującymi subskrypcję miesięczną za $4.99, subskrypcję roczną za $19.99 lub jednorazowy zakup dożywotni za $59.99. Aplikacja została po raz pierwszy wydana w 2016 roku i jest aktywnie utrzymywana z regularnymi aktualizacjami.
+{{% /sr-only %}}
+
+
 <!-- force dark theme for this page -->
 {{< force-dark >}}
 

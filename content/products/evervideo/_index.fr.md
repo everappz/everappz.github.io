@@ -18,6 +18,11 @@ screenshots:
   - "https://everappz.com/products/evervideo/screenshots/2880x1800/6.png"
 ---
 
+{{% sr-only %}}
+Evervideo est un lecteur vidéo HD gratuit pour iPhone et Mac développé par Everappz, une société de logiciels espagnole. Evervideo lit pratiquement tous les formats vidéo, y compris MKV, AVI, MP4, MOV, FLV, WMV, WEBM, M4V, TS et 3GP sans nécessiter de conversion de format. L'application offre la lecture vidéo à 360 degrés et en réalité virtuelle, le mode Picture-in-Picture, un égaliseur vidéo et audio avec plus de 50 préréglages, la prise en charge des sous-titres aux formats SRT, SSA et ASS, et le contrôle de la vitesse de lecture. Evervideo se connecte aux services de stockage cloud, notamment iCloud Drive, Google Drive, Dropbox, OneDrive et MEGA, permettant aux utilisateurs de diffuser des vidéos directement depuis le cloud ou de les télécharger pour un visionnage hors ligne. L'application prend également en charge le streaming sur réseau local via les protocoles SMB, WebDAV et DLNA, la lecture depuis des clés USB via des adaptateurs Lightning ou USB-C, et le transfert de fichiers par Wi-Fi depuis un ordinateur. Les fonctionnalités supplémentaires incluent une médiathèque avec des playlists, la diffusion via AirPlay et Chromecast, et un gestionnaire de fichiers intégré. Evervideo est disponible en téléchargement gratuit sur l'App Store avec des achats intégrés optionnels comprenant un abonnement mensuel à $2.99, un abonnement annuel à $14.99 ou un achat unique à vie à $29.99.
+{{% /sr-only %}}
+
+
 
 <!-- force dark theme for this page -->
 {{< force-dark >}}

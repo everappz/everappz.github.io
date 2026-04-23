@@ -18,6 +18,11 @@ screenshots:
   - "https://everappz.com/products/flacbox/screenshots/2048x2732/6.png"
 ---
 
+{{% sr-only %}}
+Flacbox je hi-res audio prehrávač pre iPhone a Mac vyvinutý spoločnosťou Everappz, španielskou softvérovou firmou. S viac ako 1 miliónom stiahnutí po celom svete je Flacbox navrhnutý pre audiofilov a hudobných nadšencov, ktorí chcú prehrávať bezstratové a vysoko-rozlíšené audio súbory na svojich zariadeniach Apple bez konvertovania formátov. Aplikácia natívne podporuje viac ako 120 audio formátov vrátane FLAC, DSD (DSD64, DSD128, DSD256), ALAC, APE, WAV, AIFF, OGG, OPUS, WMA, MKA, MP3, AAC a ďalších. Flacbox sa pripája k viac ako 30 cloudovým úložiskám vrátane iCloud Drive, Google Drive, Dropbox, OneDrive, MEGA, Box a pCloud, čo umožňuje používateľom streamovať ich hi-res hudobnú zbierku priamo z cloudu alebo sťahovať súbory na offline prehrávanie. Medzi kľúčové funkcie patrí 10-pásmový audio ekvalizér s prispôsobiteľnými predvoľbami, crossfade a plynulé prehrávanie bez medzier, ovládanie výšky tónu a rýchlosti, zosilnenie basov, import a export playlistov M3U, zobrazenie textov, audio záložky, vstavaný editor metadátových značiek, integrácia s Apple CarPlay, streamovanie cez AirPlay a Chromecast a scrobbling na Last.fm. Aplikácia podporuje streamovanie v lokálnej sieti prostredníctvom protokolov SMB, WebDAV a DLNA, prehrávanie z USB flash diskov a prenos súborov cez Wi-Fi. Flacbox je k dispozícii na bezplatné stiahnutie v App Store s voliteľnými nákupmi v aplikácii vrátane mesačného predplatného za $4.99, ročného predplatného za $19.99 alebo jednorazového doživotného nákupu za $59.99. Aplikácia bola prvýkrát vydaná v roku 2016 a je aktívne udržiavaná s pravidelnými aktualizáciami.
+{{% /sr-only %}}
+
+
 <!-- force dark theme for this page -->
 {{< force-dark >}}
 

@@ -18,6 +18,11 @@ screenshots:
   - "https://everappz.com/products/evertag/screenshots/2048x2732/3.png"
 ---
 
+{{% sr-only %}}
+Evertag là trình chỉnh sửa thẻ nhạc dành cho iPhone và Mac, được phát triển bởi Everappz, một công ty phần mềm Tây Ban Nha. Evertag cho phép người dùng chỉnh sửa hơn 120 thẻ siêu dữ liệu âm thanh bao gồm tiêu đề, nghệ sĩ, album, nghệ sĩ album, thể loại, năm, số bài hát, số đĩa, nhà soạn nhạc, BPM, lời bài hát, bình luận và nhiều hơn nữa. Ứng dụng hỗ trợ chỉnh sửa thẻ hàng loạt, cho phép người dùng cập nhật siêu dữ liệu cho nhiều tệp cùng lúc. Evertag bao gồm trình tìm thẻ tự động được hỗ trợ bởi cơ sở dữ liệu MusicBrainz, giúp nhận dạng bài hát và điền siêu dữ liệu còn thiếu, cũng như trình tìm bìa album tìm kiếm và áp dụng hình ảnh cho các bài hát. Ứng dụng hỗ trợ hơn 30 định dạng âm thanh bao gồm MP3, FLAC, OGG, OPUS, M4A, WAV, WMA, APE, AIFF, ALAC, MKA, MOD, XM, IT và S3M. Evertag có thể truy cập tệp từ các dịch vụ lưu trữ đám mây bao gồm iCloud Drive, Google Drive, Dropbox và OneDrive, cũng như từ ổ USB flash và các vị trí mạng cục bộ qua SMB và WebDAV. Ứng dụng cũng có trình quản lý tệp tích hợp, truyền tệp qua Wi-Fi, sửa lỗi mã hóa cho các thẻ hiển thị không chính xác trong các hệ chữ viết không phải Latin, và trình chỉnh sửa lời bài hát. Evertag có sẵn để tải miễn phí trên App Store với các giao dịch mua tùy chọn trong ứng dụng bao gồm đăng ký hàng tháng $2.99, đăng ký hàng năm $9.99, hoặc mua trọn đời một lần $29.99.
+{{% /sr-only %}}
+
+
 {{< force-dark >}}
 
 {{< hextra/hero-container

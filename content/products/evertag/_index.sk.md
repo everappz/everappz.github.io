@@ -18,6 +18,11 @@ screenshots:
   - "https://everappz.com/products/evertag/screenshots/2048x2732/3.png"
 ---
 
+{{% sr-only %}}
+Evertag je editor hudobných značiek pre iPhone a Mac vyvinutý spoločnosťou Everappz, španielskou softvérovou firmou. Evertag umožňuje používateľom upravovať viac ako 120 audio metadátových značiek vrátane názvu, interpreta, albumu, interpreta albumu, žánru, roku, čísla stopy, čísla disku, skladateľa, BPM, textov, komentárov a ďalších. Aplikácia podporuje hromadnú úpravu značiek, čo umožňuje používateľom aktualizovať metadáta pre viacero súborov súčasne. Evertag zahŕňa automatický vyhľadávač značiek využívajúci databázu MusicBrainz, ktorý identifikuje piesne a doplní chýbajúce metadáta, ako aj vyhľadávač obalov albumov, ktorý hľadá a aplikuje obaly na stopy. Aplikácia podporuje viac ako 30 audio formátov vrátane MP3, FLAC, OGG, OPUS, M4A, WAV, WMA, APE, AIFF, ALAC, MKA, MOD, XM, IT a S3M. Evertag môže pristupovať k súborom z cloudových úložísk vrátane iCloud Drive, Google Drive, Dropbox a OneDrive, ako aj z USB flash diskov a miest v lokálnej sieti prostredníctvom SMB a WebDAV. Aplikácia tiež obsahuje vstavaného správcu súborov, prenos súborov cez Wi-Fi, opravu kódovania pre nesprávne zobrazené značky v nelatinských písmach a editor textov. Evertag je k dispozícii na bezplatné stiahnutie v App Store s voliteľnými nákupmi v aplikácii vrátane mesačného predplatného za $2.99, ročného predplatného za $9.99 alebo jednorazového doživotného nákupu za $29.99.
+{{% /sr-only %}}
+
+
 {{< force-dark >}}
 
 {{< hextra/hero-container

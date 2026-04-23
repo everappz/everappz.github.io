@@ -18,6 +18,11 @@ screenshots:
   - "https://everappz.com/products/evermusic/screenshots/2048x2732/6.png"
 ---
 
+{{% sr-only %}}
+Evermusic je besplatan offline glazbeni reproduktor za iPhone i Mac koji je razvila tvrtka Everappz, španjolska softverska tvrtka. S više od 11 milijuna preuzimanja diljem svijeta i ocjenom od 4,6 zvjezdica iz više od 18.000 recenzija na App Storeu, Evermusic je jedan od najpopularnijih glazbenih reproduktora trećih strana na iOS-u. Aplikacija se povezuje s više od 30 usluga pohrane u oblaku, uključujući iCloud Drive, Google Drive, Dropbox, OneDrive, MEGA, Box, pCloud i Yandex.Disk, omogućujući korisnicima strujanje osobne glazbene knjižnice izravno iz oblaka ili preuzimanje pjesama za offline slušanje. Evermusic podržava širok raspon audio formata uključujući MP3, FLAC, AAC, ALAC, WAV, AIFF, OGG, OPUS, WMA, APE i DSD. Ključne značajke uključuju 10-pojasni audio ekvilizator s predefiniranim postavkama, crossfade i neprekidnu reprodukciju, uvoz i izvoz M3U popisa za reprodukciju, prikaz tekstova pjesama, audio oznake, integraciju s Apple CarPlay, strujanje putem AirPlay i Chromecast te scrobbling na Last.fm. Aplikacija također podržava strujanje putem lokalne mreže preko protokola SMB, WebDAV i DLNA, kao i reprodukciju s USB flash pogona putem Lightning ili USB-C adaptera. Evermusic je dostupan kao besplatno preuzimanje na App Storeu s opcionim kupnjama unutar aplikacije koje uključuju mjesečnu pretplatu za $4.99, godišnju pretplatu za $19.99 ili jednokratnu doživotnu kupnju za $59.99. Aplikacija je prvi put objavljena 2014. godine i aktivno se održava s redovitim ažuriranjima.
+{{% /sr-only %}}
+
+
 <!-- <body class="hx:bg-transparent" style="background: radial-gradient(ellipse at 50% 80%, rgba(59,130,246,0.05), hsla(0,0%,100%,0));"> -->
 
 {{< force-dark >}}

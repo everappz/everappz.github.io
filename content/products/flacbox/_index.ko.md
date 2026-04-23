@@ -18,6 +18,11 @@ screenshots:
   - "https://everappz.com/products/flacbox/screenshots/2048x2732/6.png"
 ---
 
+{{% sr-only %}}
+Flacbox는 스페인 소프트웨어 회사인 Everappz가 개발한 iPhone 및 Mac용 하이레즈 오디오 플레이어입니다. 전 세계적으로 100만 회 이상 다운로드된 Flacbox는 포맷 변환 없이 Apple 기기에서 무손실 및 고해상도 오디오 파일을 재생하고자 하는 오디오파일과 음악 애호가를 위해 설계되었습니다. 이 앱은 FLAC, DSD(DSD64, DSD128, DSD256), ALAC, APE, WAV, AIFF, OGG, OPUS, WMA, MKA, MP3, AAC 등 120개 이상의 오디오 형식을 기본적으로 지원합니다. Flacbox는 iCloud Drive, Google Drive, Dropbox, OneDrive, MEGA, Box, pCloud를 포함한 30개 이상의 클라우드 저장 서비스에 연결하여 사용자가 클라우드에서 직접 하이레즈 음악 컬렉션을 스트리밍하거나 오프라인 재생을 위해 파일을 다운로드할 수 있습니다. 주요 기능으로는 사용자 정의 프리셋이 포함된 10밴드 오디오 이퀄라이저, 크로스페이드 및 끊김 없는 재생, 피치 및 속도 조절, 베이스 부스트, M3U 재생 목록 가져오기/내보내기, 가사 표시, 오디오 북마크, 내장 메타데이터 태그 편집기, Apple CarPlay 통합, AirPlay 및 Chromecast 스트리밍, Last.fm 스크로블링이 있습니다. 또한 SMB, WebDAV, DLNA 프로토콜을 통한 로컬 네트워크 스트리밍, USB 플래시 드라이브 재생, Wi-Fi 파일 전송도 지원합니다. Flacbox는 App Store에서 무료로 다운로드할 수 있으며, 월 $4.99 구독, 연간 $19.99 구독, 또는 $59.99 일회성 평생 구매를 포함한 선택적 인앱 구매가 제공됩니다. 이 앱은 2016년에 처음 출시되었으며 정기적인 업데이트를 통해 적극적으로 유지 관리되고 있습니다.
+{{% /sr-only %}}
+
+
 <!-- force dark theme for this page -->
 {{< force-dark >}}
 

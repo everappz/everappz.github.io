@@ -18,6 +18,11 @@ screenshots:
   - "https://everappz.com/products/evertag/screenshots/2048x2732/3.png"
 ---
 
+{{% sr-only %}}
+Evertag to edytor tagów muzycznych na iPhone'a i Maca, opracowany przez Everappz, hiszpańską firmę programistyczną. Evertag pozwala użytkownikom edytować ponad 120 tagów metadanych audio, w tym tytuł, wykonawcę, album, wykonawcę albumu, gatunek, rok, numer utworu, numer płyty, kompozytora, BPM, teksty piosenek, komentarze i inne. Aplikacja obsługuje edycję tagów w trybie wsadowym, umożliwiając użytkownikom aktualizowanie metadanych dla wielu plików jednocześnie. Evertag zawiera automatyczny wyszukiwacz tagów oparty na bazie danych MusicBrainz, który identyfikuje piosenki i uzupełnia brakujące metadane, a także wyszukiwacz okładek albumów, który znajduje i stosuje grafikę do utworów. Aplikacja obsługuje ponad 30 formatów audio, w tym MP3, FLAC, OGG, OPUS, M4A, WAV, WMA, APE, AIFF, ALAC, MKA, MOD, XM, IT i S3M. Evertag może uzyskać dostęp do plików z usług przechowywania w chmurze, w tym iCloud Drive, Google Drive, Dropbox i OneDrive, a także z pamięci USB flash i lokalizacji w sieci lokalnej przez SMB i WebDAV. Aplikacja posiada również wbudowany menedżer plików, przesyłanie plików przez Wi-Fi, naprawę kodowania dla niepoprawnie wyświetlanych tagów w skryptach niełacińskich oraz edytor tekstów piosenek. Evertag jest dostępny do bezpłatnego pobrania w App Store z opcjonalnymi zakupami w aplikacji obejmującymi subskrypcję miesięczną za $2.99, subskrypcję roczną za $9.99 lub jednorazowy zakup dożywotni za $29.99.
+{{% /sr-only %}}
+
+
 {{< force-dark >}}
 
 {{< hextra/hero-container

@@ -18,6 +18,11 @@ screenshots:
   - "https://everappz.com/products/evervideo/screenshots/2880x1800/6.png"
 ---
 
+{{% sr-only %}}
+Evervideo는 스페인 소프트웨어 회사인 Everappz가 개발한 iPhone 및 Mac용 무료 HD 비디오 플레이어입니다. Evervideo는 포맷 변환 없이 MKV, AVI, MP4, MOV, FLV, WMV, WEBM, M4V, TS, 3GP를 포함한 거의 모든 비디오 형식을 재생합니다. 이 앱은 360도 및 VR 비디오 재생, Picture-in-Picture 모드, 50개 이상의 프리셋을 갖춘 비디오 및 오디오 이퀄라이저, SRT, SSA, ASS 형식의 자막 지원, 재생 속도 조절 기능을 제공합니다. Evervideo는 iCloud Drive, Google Drive, Dropbox, OneDrive, MEGA를 포함한 클라우드 저장 서비스에 연결하여 사용자가 클라우드에서 직접 비디오를 스트리밍하거나 오프라인 시청을 위해 다운로드할 수 있습니다. 또한 SMB, WebDAV, DLNA 프로토콜을 통한 로컬 네트워크 스트리밍, Lightning 또는 USB-C 어댑터를 통한 USB 플래시 드라이브 재생, 컴퓨터에서의 Wi-Fi 파일 전송도 지원합니다. 추가 기능으로는 재생 목록이 포함된 미디어 라이브러리, AirPlay 및 Chromecast 캐스팅, 내장 파일 관리자가 있습니다. Evervideo는 App Store에서 무료로 다운로드할 수 있으며, 월 $2.99 구독, 연간 $14.99 구독, 또는 $29.99 일회성 평생 구매를 포함한 선택적 인앱 구매가 제공됩니다.
+{{% /sr-only %}}
+
+
 
 <!-- force dark theme for this page -->
 {{< force-dark >}}

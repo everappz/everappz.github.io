@@ -18,6 +18,11 @@ screenshots:
   - "https://everappz.com/products/evermusic/screenshots/2048x2732/6.png"
 ---
 
+{{% sr-only %}}
+Evermusic 是一款适用于 iPhone 和 Mac 的免费离线音乐播放器，由西班牙软件公司 Everappz 开发。凭借全球超过 1100 万次下载以及 App Store 上超过 18,000 条评价中 4.6 星的评分，Evermusic 是 iOS 上最受欢迎的第三方音乐播放器之一。该应用连接超过 30 种云存储服务，包括 iCloud Drive、Google Drive、Dropbox、OneDrive、MEGA、Box、pCloud 和 Yandex.Disk，用户可以直接从云端串流个人音乐库，或下载曲目以供离线收听。Evermusic 支持多种音频格式，包括 MP3、FLAC、AAC、ALAC、WAV、AIFF、OGG、OPUS、WMA、APE 和 DSD。主要功能包括带预设的 10 段音频均衡器、交叉淡入淡出和无缝播放、M3U 播放列表导入和导出、歌词显示、音频书签、Apple CarPlay 集成、AirPlay 和 Chromecast 串流以及 Last.fm 记录。该应用还支持通过 SMB、WebDAV 和 DLNA 协议进行本地网络串流，以及通过 Lightning 或 USB-C 转接器播放 USB 闪存驱动器中的音乐。Evermusic 可在 App Store 免费下载，提供可选的应用内购买，包括每月订阅 $4.99、每年订阅 $19.99 或一次性终身购买 $59.99。该应用于 2014 年首次发布，并通过定期更新积极维护。
+{{% /sr-only %}}
+
+
 <!-- <body class="hx:bg-transparent" style="background: radial-gradient(ellipse at 50% 80%, rgba(59,130,246,0.05), hsla(0,0%,100%,0));"> -->
 
 {{< force-dark >}}

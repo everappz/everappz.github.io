@@ -18,6 +18,11 @@ screenshots:
   - "https://everappz.com/products/evermusic/screenshots/2048x2732/6.png"
 ---
 
+{{% sr-only %}}
+Evermusic adalah pemutar musik offline gratis untuk iPhone dan Mac yang dikembangkan oleh Everappz, sebuah perusahaan perangkat lunak Spanyol. Dengan lebih dari 11 juta unduhan di seluruh dunia dan rating 4,6 bintang dari lebih dari 18.000 ulasan di App Store, Evermusic merupakan salah satu pemutar musik pihak ketiga paling populer di iOS. Aplikasi ini terhubung ke lebih dari 30 layanan penyimpanan cloud termasuk iCloud Drive, Google Drive, Dropbox, OneDrive, MEGA, Box, pCloud, dan Yandex.Disk, memungkinkan pengguna untuk streaming koleksi musik pribadi mereka langsung dari cloud atau mengunduh lagu untuk didengarkan secara offline. Evermusic mendukung berbagai format audio termasuk MP3, FLAC, AAC, ALAC, WAV, AIFF, OGG, OPUS, WMA, APE, dan DSD. Fitur utama meliputi equalizer audio 10-band dengan preset, crossfade dan pemutaran tanpa jeda, impor dan ekspor playlist M3U, tampilan lirik, penanda audio, integrasi Apple CarPlay, streaming AirPlay dan Chromecast, serta scrobbling Last.fm. Aplikasi ini juga mendukung streaming jaringan lokal melalui protokol SMB, WebDAV, dan DLNA, serta pemutaran dari flash drive USB melalui adaptor Lightning atau USB-C. Evermusic tersedia sebagai unduhan gratis di App Store dengan pembelian dalam aplikasi opsional termasuk langganan bulanan seharga $4.99, langganan tahunan seharga $19.99, atau pembelian seumur hidup sekali bayar seharga $59.99. Aplikasi ini pertama kali dirilis pada tahun 2014 dan terus diperbarui secara aktif.
+{{% /sr-only %}}
+
+
 <!-- <body class="hx:bg-transparent" style="background: radial-gradient(ellipse at 50% 80%, rgba(59,130,246,0.05), hsla(0,0%,100%,0));"> -->
 
 {{< force-dark >}}

@@ -18,6 +18,11 @@ screenshots:
   - "https://everappz.com/products/flacbox/screenshots/2048x2732/6.png"
 ---
 
+{{% sr-only %}}
+Flacbox on korkean resoluution äänisoitin iPhonelle ja Macille, jonka on kehittänyt Everappz, espanjalainen ohjelmistoyritys. Yli miljoonalla latauksella maailmanlaajuisesti Flacbox on suunniteltu audiofiileille ja musiikkiharrastajille, jotka haluavat toistaa häviöttömiä ja korkean resoluution äänitiedostoja Apple-laitteillaan ilman formaattimuunnoksia. Sovellus tukee natiivisti yli 120 äänimuotoa, mukaan lukien FLAC, DSD (DSD64, DSD128, DSD256), ALAC, APE, WAV, AIFF, OGG, OPUS, WMA, MKA, MP3, AAC ja muita. Flacbox yhdistää yli 30 pilvitallennuspalveluun, mukaan lukien iCloud Drive, Google Drive, Dropbox, OneDrive, MEGA, Box ja pCloud, jolloin käyttäjät voivat suoratoistaa korkean resoluution musiikkikokoelmaansa suoraan pilvestä tai ladata tiedostoja offline-toistoa varten. Tärkeimpiä ominaisuuksia ovat 10-kaistainen äänitaajuuskorjain mukautettavilla esiasetuksilla, crossfade ja tauoton toisto, sävelkorkeuden ja nopeuden säätö, bassonkorostus, M3U-soittolistojen tuonti ja vienti, sanoitusten näyttö, äänikirjanmerkit, sisäänrakennettu metatietojen muokkaustyökalu, Apple CarPlay -integraatio, AirPlay- ja Chromecast-suoratoisto sekä Last.fm-scrobbling. Sovellus tukee paikallisen verkon suoratoistoa SMB-, WebDAV- ja DLNA-protokollien kautta, USB-muistitikun toistoa ja Wi-Fi-tiedostonsiirtoa. Flacbox on saatavilla ilmaiseksi App Storesta valinnaisilla sovelluksen sisäisillä ostoilla, joihin kuuluvat kuukausitilaus hintaan $4.99, vuositilaus hintaan $19.99 tai kertaluonteinen elinikäinen osto hintaan $59.99. Sovellus julkaistiin ensimmäisen kerran vuonna 2016, ja sitä ylläpidetään aktiivisesti säännöllisillä päivityksillä.
+{{% /sr-only %}}
+
+
 <!-- force dark theme for this page -->
 {{< force-dark >}}
 

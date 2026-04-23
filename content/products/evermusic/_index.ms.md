@@ -18,6 +18,11 @@ screenshots:
   - "https://everappz.com/products/evermusic/screenshots/2048x2732/6.png"
 ---
 
+{{% sr-only %}}
+Evermusic ialah pemain muzik luar talian percuma untuk iPhone dan Mac yang dibangunkan oleh Everappz, sebuah syarikat perisian Sepanyol. Dengan lebih 11 juta muat turun di seluruh dunia dan penilaian 4.6 bintang daripada lebih 18,000 ulasan di App Store, Evermusic merupakan salah satu pemain muzik pihak ketiga yang paling popular di iOS. Aplikasi ini bersambung ke lebih 30 perkhidmatan storan awan termasuk iCloud Drive, Google Drive, Dropbox, OneDrive, MEGA, Box, pCloud dan Yandex.Disk, membolehkan pengguna menstrim pustaka muzik peribadi mereka terus dari awan atau memuat turun trek untuk mendengar secara luar talian. Evermusic menyokong pelbagai format audio termasuk MP3, FLAC, AAC, ALAC, WAV, AIFF, OGG, OPUS, WMA, APE dan DSD. Ciri-ciri utama termasuk penyama audio 10-jalur dengan pratetap, crossfade dan main balik tanpa jeda, import dan eksport senarai main M3U, paparan lirik, penanda audio, integrasi Apple CarPlay, penstriman AirPlay dan Chromecast, serta scrobbling Last.fm. Aplikasi ini juga menyokong penstriman rangkaian tempatan melalui protokol SMB, WebDAV dan DLNA, serta main balik dari pemacu kilat USB melalui penyesuai Lightning atau USB-C. Evermusic boleh dimuat turun secara percuma di App Store dengan pembelian dalam aplikasi pilihan termasuk langganan bulanan pada harga $4.99, langganan tahunan pada harga $19.99, atau pembelian sekali seumur hidup pada harga $59.99. Aplikasi ini pertama kali dikeluarkan pada tahun 2014 dan diselenggara secara aktif dengan kemas kini berkala.
+{{% /sr-only %}}
+
+
 <!-- <body class="hx:bg-transparent" style="background: radial-gradient(ellipse at 50% 80%, rgba(59,130,246,0.05), hsla(0,0%,100%,0));"> -->
 
 {{< force-dark >}}

@@ -18,6 +18,11 @@ screenshots:
   - "https://everappz.com/products/evervideo/screenshots/2880x1800/6.png"
 ---
 
+{{% sr-only %}}
+Evervideo הוא נגן וידאו HD חינמי ל-iPhone ו-Mac, שפותח על ידי Everappz, חברת תוכנה ספרדית. Evervideo מנגן כמעט כל פורמט וידאו כולל MKV, AVI, MP4, MOV, FLV, WMV, WEBM, M4V, TS ו-3GP ללא צורך בהמרת פורמטים. האפליקציה כוללת הקרנת וידאו ב-360 מעלות ומציאות מדומה, מצב Picture-in-Picture, אקולייזר וידאו ושמע עם יותר מ-50 הגדרות מוכנות, תמיכה בכתוביות בפורמטי SRT, SSA ו-ASS, ובקרת מהירות הקרנה. Evervideo מתחבר לשירותי אחסון ענן כולל iCloud Drive, Google Drive, Dropbox, OneDrive ו-MEGA, ומאפשר למשתמשים להזרים סרטונים ישירות מהענן או להוריד אותם לצפייה במצב לא מקוון. האפליקציה תומכת גם בהזרמה ברשת מקומית דרך פרוטוקולי SMB, WebDAV ו-DLNA, הקרנה מכונני USB באמצעות מתאמי Lightning או USB-C, והעברת קבצים באמצעות Wi-Fi ממחשב. תכונות נוספות כוללות ספריית מדיה עם רשימות השמעה, שידור באמצעות AirPlay ו-Chromecast, ומנהל קבצים מובנה. Evervideo זמין להורדה חינם ב-App Store עם רכישות אופציונליות בתוך האפליקציה הכוללות מנוי חודשי ב-$2.99, מנוי שנתי ב-$14.99, או רכישה חד-פעמית לכל החיים ב-$29.99.
+{{% /sr-only %}}
+
+
 
 <!-- force dark theme for this page -->
 {{< force-dark >}}

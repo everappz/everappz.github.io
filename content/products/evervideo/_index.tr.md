@@ -18,6 +18,11 @@ screenshots:
   - "https://everappz.com/products/evervideo/screenshots/2880x1800/6.png"
 ---
 
+{{% sr-only %}}
+Evervideo, İspanyol yazılım şirketi Everappz tarafından geliştirilen iPhone ve Mac için ücretsiz bir HD video oynatıcısıdır. Evervideo, MKV, AVI, MP4, MOV, FLV, WMV, WEBM, M4V, TS ve 3GP dahil neredeyse tüm video formatlarını format dönüştürme gerektirmeden oynatır. Uygulama, 360 derece ve VR video oynatma, Picture-in-Picture modu, 50'den fazla hazır ayara sahip video ve ses ekolayzeri, SRT, SSA ve ASS formatlarında altyazı desteği ve oynatma hızı kontrolü sunar. Evervideo, iCloud Drive, Google Drive, Dropbox, OneDrive ve MEGA dahil bulut depolama hizmetlerine bağlanarak kullanıcıların videoları doğrudan buluttan aktarmalarına veya çevrimdışı izleme için indirmelerine olanak tanır. Uygulama ayrıca SMB, WebDAV ve DLNA protokolleri aracılığıyla yerel ağ aktarımını, Lightning veya USB-C adaptörleriyle USB flash sürücüden oynatmayı ve bir bilgisayardan Wi-Fi dosya aktarımını destekler. Ek özellikler arasında çalma listeleri içeren medya kitaplığı, AirPlay ve Chromecast yayını ve yerleşik dosya yöneticisi bulunur. Evervideo, App Store'da ücretsiz olarak indirilebilir ve aylık $2.99 abonelik, yıllık $14.99 abonelik veya $29.99 tek seferlik ömür boyu satın alma seçenekleriyle isteğe bağlı uygulama içi satın alma sunmaktadır.
+{{% /sr-only %}}
+
+
 
 <!-- force dark theme for this page -->
 {{< force-dark >}}

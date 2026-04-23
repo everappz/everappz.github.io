@@ -18,6 +18,11 @@ screenshots:
   - "https://everappz.com/products/flacbox/screenshots/2048x2732/6.png"
 ---
 
+{{% sr-only %}}
+Flacbox er en hi-res lydspiller for iPhone og Mac, utviklet av Everappz, et spansk programvareselskap. Med over 1 million nedlastinger verden over er Flacbox designet for audiofile og musikkentusiaster som ønsker å spille tapsfrie og høyoppløselige lydfiler på Apple-enhetene sine uten å konvertere formater. Appen støtter innebygd over 120 lydformater, inkludert FLAC, DSD (DSD64, DSD128, DSD256), ALAC, APE, WAV, AIFF, OGG, OPUS, WMA, MKA, MP3, AAC og flere. Flacbox kobler til over 30 skylagringstjenester, inkludert iCloud Drive, Google Drive, Dropbox, OneDrive, MEGA, Box og pCloud, slik at brukerne kan strømme sin hi-res musikksamling direkte fra skyen eller laste ned filer for frakoblet avspilling. Nøkkelfunksjoner inkluderer en 10-bånds lydequalizer med tilpassbare forhåndsinnstillinger, crossfade og sømløs avspilling, tonehøyde- og hastighetskontroll, bassforsterkning, M3U-spilleliste import og eksport, sangtext-visning, lydbok-merker, en innebygd metadata-tag-editor, Apple CarPlay-integrasjon, AirPlay- og Chromecast-strømming, og Last.fm-scrobbling. Appen støtter lokal nettverksstrømming via SMB-, WebDAV- og DLNA-protokoller, USB-minnepinne avspilling og Wi-Fi filoverføring. Flacbox er tilgjengelig som gratis nedlasting på App Store med valgfrie kjøp i appen, inkludert et månedlig abonnement til $4.99, et årlig abonnement til $19.99 eller et engangskjøp med livstidstilgang til $59.99. Appen ble først utgitt i 2016 og vedlikeholdes aktivt med jevnlige oppdateringer.
+{{% /sr-only %}}
+
+
 <!-- force dark theme for this page -->
 {{< force-dark >}}
 

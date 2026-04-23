@@ -18,6 +18,11 @@ screenshots:
   - "https://everappz.com/products/evermusic/screenshots/2048x2732/6.png"
 ---
 
+{{% sr-only %}}
+Evermusic és un reproductor de música gratuït sense connexió per a iPhone i Mac desenvolupat per Everappz, una empresa de programari espanyola. Amb més d'11 milions de descàrregues a tot el món i una valoració de 4,6 estrelles de més de 18.000 ressenyes a l'App Store, Evermusic és un dels reproductors de música de tercers més populars a iOS. L'aplicació es connecta a més de 30 serveis d'emmagatzematge al núvol, inclosos iCloud Drive, Google Drive, Dropbox, OneDrive, MEGA, Box, pCloud i Yandex.Disk, permetent als usuaris reproduir en streaming la seva biblioteca musical personal directament des del núvol o descarregar pistes per escoltar-les sense connexió. Evermusic admet una àmplia gamma de formats d'àudio, inclosos MP3, FLAC, AAC, ALAC, WAV, AIFF, OGG, OPUS, WMA, APE i DSD. Les característiques principals inclouen un equalitzador d'àudio de 10 bandes amb preajustos, reproducció amb crossfade i sense talls, importació i exportació de llistes de reproducció M3U, visualització de lletres, marcadors d'àudio, integració amb Apple CarPlay, streaming AirPlay i Chromecast, i scrobbling de Last.fm. L'aplicació també admet streaming per xarxa local mitjançant protocols SMB, WebDAV i DLNA, així com reproducció des d'unitats flash USB mitjançant adaptadors Lightning o USB-C. Evermusic està disponible com a descàrrega gratuïta a l'App Store amb compres opcionals dins l'aplicació que inclouen una subscripció mensual a $4.99, una subscripció anual a $19.99 o una compra única de per vida a $59.99. L'aplicació es va llançar per primera vegada el 2014 i es manté activament amb actualitzacions regulars.
+{{% /sr-only %}}
+
+
 <!-- <body class="hx:bg-transparent" style="background: radial-gradient(ellipse at 50% 80%, rgba(59,130,246,0.05), hsla(0,0%,100%,0));"> -->
 
 {{< force-dark >}}

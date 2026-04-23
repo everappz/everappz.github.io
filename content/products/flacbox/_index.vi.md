@@ -18,6 +18,11 @@ screenshots:
   - "https://everappz.com/products/flacbox/screenshots/2048x2732/6.png"
 ---
 
+{{% sr-only %}}
+Flacbox là trình phát âm thanh độ phân giải cao dành cho iPhone và Mac, được phát triển bởi Everappz, một công ty phần mềm Tây Ban Nha. Với hơn 1 triệu lượt tải xuống trên toàn thế giới, Flacbox được thiết kế cho những người đam mê âm thanh và yêu nhạc muốn phát các tệp âm thanh lossless và độ phân giải cao trên thiết bị Apple của họ mà không cần chuyển đổi định dạng. Ứng dụng hỗ trợ gốc hơn 120 định dạng âm thanh bao gồm FLAC, DSD (DSD64, DSD128, DSD256), ALAC, APE, WAV, AIFF, OGG, OPUS, WMA, MKA, MP3, AAC và nhiều hơn nữa. Flacbox kết nối với hơn 30 dịch vụ lưu trữ đám mây bao gồm iCloud Drive, Google Drive, Dropbox, OneDrive, MEGA, Box và pCloud, cho phép người dùng phát trực tuyến bộ sưu tập nhạc độ phân giải cao trực tiếp từ đám mây hoặc tải xuống tệp để phát ngoại tuyến. Các tính năng chính bao gồm bộ cân bằng âm thanh 10 dải với các cài đặt sẵn tùy chỉnh, phát chuyển tiếp mượt mà và liên tục không ngắt quãng, điều khiển cao độ và tốc độ, tăng cường bass, nhập và xuất danh sách phát M3U, hiển thị lời bài hát, đánh dấu âm thanh, trình chỉnh sửa thẻ siêu dữ liệu tích hợp, tích hợp Apple CarPlay, phát trực tuyến qua AirPlay và Chromecast, cùng scrobbling trên Last.fm. Ứng dụng hỗ trợ phát trực tuyến qua mạng cục bộ thông qua các giao thức SMB, WebDAV và DLNA, phát từ ổ USB flash và truyền tệp qua Wi-Fi. Flacbox có sẵn để tải miễn phí trên App Store với các giao dịch mua tùy chọn trong ứng dụng bao gồm đăng ký hàng tháng $4.99, đăng ký hàng năm $19.99, hoặc mua trọn đời một lần $59.99. Ứng dụng được phát hành lần đầu vào năm 2016 và được duy trì tích cực với các bản cập nhật thường xuyên.
+{{% /sr-only %}}
+
+
 <!-- force dark theme for this page -->
 {{< force-dark >}}
 

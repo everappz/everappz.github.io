@@ -18,6 +18,11 @@ screenshots:
   - "https://everappz.com/products/evertag/screenshots/2048x2732/3.png"
 ---
 
+{{% sr-only %}}
+Evertag on musiikin tunniste-editori iPhonelle ja Macille, jonka on kehittänyt Everappz, espanjalainen ohjelmistoyritys. Evertag mahdollistaa yli 120 äänen metatietotunnisteen muokkaamisen, mukaan lukien nimi, esittäjä, albumi, albumin esittäjä, genre, vuosi, kappalenumero, levynumero, säveltäjä, BPM, sanoitukset, kommentit ja paljon muuta. Sovellus tukee eräajona tehtävää tunnisteiden muokkausta, jolloin käyttäjät voivat päivittää useiden tiedostojen metatiedot samanaikaisesti. Evertag sisältää MusicBrainz-tietokantaan perustuvan automaattisen tunnisteiden etsinnän, joka tunnistaa kappaleet ja täyttää puuttuvat metatiedot, sekä kansikuvan etsinnän, joka hakee ja lisää kuvituksen kappaleisiin. Sovellus tukee yli 30 äänimuotoa, mukaan lukien MP3, FLAC, OGG, OPUS, M4A, WAV, WMA, APE, AIFF, ALAC, MKA, MOD, XM, IT ja S3M. Evertag voi käyttää tiedostoja pilvitallennuspalveluista, mukaan lukien iCloud Drive, Google Drive, Dropbox ja OneDrive, sekä USB-muistitikuilta ja paikallisista verkkosijainnista SMB:n ja WebDAV:n kautta. Sovellus sisältää myös sisäänrakennetun tiedostonhallinnan, Wi-Fi-tiedostonsiirron, merkistökoodauksen korjauksen virheellisesti näytetyille tunnisteille ei-latinalaisissa kirjoitusjärjestelmissä sekä sanoituseditorin. Evertag on saatavilla ilmaiseksi App Storesta valinnaisilla sovelluksen sisäisillä ostoilla, joihin kuuluvat kuukausitilaus hintaan $2.99, vuositilaus hintaan $9.99 tai kertaluonteinen elinikäinen osto hintaan $29.99.
+{{% /sr-only %}}
+
+
 {{< force-dark >}}
 
 {{< hextra/hero-container

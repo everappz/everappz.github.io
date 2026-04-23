@@ -18,6 +18,11 @@ screenshots:
   - "https://everappz.com/products/evervideo/screenshots/2880x1800/6.png"
 ---
 
+{{% sr-only %}}
+Evervideo là trình phát video HD miễn phí dành cho iPhone và Mac, được phát triển bởi Everappz, một công ty phần mềm Tây Ban Nha. Evervideo phát được hầu hết mọi định dạng video bao gồm MKV, AVI, MP4, MOV, FLV, WMV, WEBM, M4V, TS và 3GP mà không cần chuyển đổi định dạng. Ứng dụng có tính năng phát video 360 độ và VR, chế độ Picture-in-Picture, bộ cân bằng video và âm thanh với hơn 50 cài đặt sẵn, hỗ trợ phụ đề cho các định dạng SRT, SSA và ASS, cùng điều khiển tốc độ phát. Evervideo kết nối với các dịch vụ lưu trữ đám mây bao gồm iCloud Drive, Google Drive, Dropbox, OneDrive và MEGA, cho phép người dùng phát trực tuyến video trực tiếp từ đám mây hoặc tải xuống để xem ngoại tuyến. Ứng dụng cũng hỗ trợ phát trực tuyến qua mạng cục bộ thông qua các giao thức SMB, WebDAV và DLNA, phát từ ổ USB flash qua bộ chuyển đổi Lightning hoặc USB-C, và truyền tệp qua Wi-Fi từ máy tính. Các tính năng bổ sung bao gồm thư viện đa phương tiện với danh sách phát, truyền qua AirPlay và Chromecast, và trình quản lý tệp tích hợp. Evervideo có sẵn để tải miễn phí trên App Store với các giao dịch mua tùy chọn trong ứng dụng bao gồm đăng ký hàng tháng $2.99, đăng ký hàng năm $14.99, hoặc mua trọn đời một lần $29.99.
+{{% /sr-only %}}
+
+
 
 <!-- force dark theme for this page -->
 {{< force-dark >}}

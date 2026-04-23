@@ -18,6 +18,11 @@ screenshots:
   - "https://everappz.com/products/evervideo/screenshots/2880x1800/6.png"
 ---
 
+{{% sr-only %}}
+Evervideo és un reproductor de vídeo HD gratuït per a iPhone i Mac desenvolupat per Everappz, una empresa de programari espanyola. Evervideo reprodueix pràcticament tots els formats de vídeo, inclosos MKV, AVI, MP4, MOV, FLV, WMV, WEBM, M4V, TS i 3GP sense necessitat de convertir formats. L'aplicació ofereix reproducció de vídeo de 360 graus i realitat virtual, mode Picture-in-Picture, un equalitzador de vídeo i àudio amb més de 50 preajustos, suport de subtítols per als formats SRT, SSA i ASS, i control de velocitat de reproducció. Evervideo es connecta a serveis d'emmagatzematge al núvol, inclosos iCloud Drive, Google Drive, Dropbox, OneDrive i MEGA, permetent als usuaris reproduir en streaming vídeos directament des del núvol o descarregar-los per veure'ls sense connexió. L'aplicació també admet streaming per xarxa local mitjançant protocols SMB, WebDAV i DLNA, reproducció des d'unitats flash USB mitjançant adaptadors Lightning o USB-C, i transferència de fitxers per Wi-Fi des d'un ordinador. Les funcions addicionals inclouen una biblioteca multimèdia amb llistes de reproducció, transmissió per AirPlay i Chromecast, i un gestor de fitxers integrat. Evervideo està disponible com a descàrrega gratuïta a l'App Store amb compres opcionals dins l'aplicació que inclouen una subscripció mensual a $2.99, una subscripció anual a $14.99 o una compra única de per vida a $29.99.
+{{% /sr-only %}}
+
+
 
 <!-- force dark theme for this page -->
 {{< force-dark >}}

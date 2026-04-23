@@ -18,6 +18,11 @@ screenshots:
   - "https://everappz.com/products/evertag/screenshots/2048x2732/3.png"
 ---
 
+{{% sr-only %}}
+Az Evertag egy zenei címke szerkesztő iPhone-ra és Macre, amelyet az Everappz, egy spanyol szoftvercég fejlesztett. Az Evertag lehetővé teszi a felhasználóknak, hogy több mint 120 audio metaadat-címkét szerkesszenek, beleértve a címet, előadót, albumot, album előadóját, műfajt, évet, szám számát, lemez számát, zeneszerzőt, BPM-et, dalszövegeket, megjegyzéseket és még sok mást. Az alkalmazás támogatja a kötegelt címkeszerkesztést, lehetővé téve a felhasználóknak, hogy egyszerre több fájl metaadatait frissítsék. Az Evertag tartalmaz egy automatikus címkekereső funkciót, amelyet a MusicBrainz adatbázis működtet, és amely azonosítja a dalokat és kitölti a hiányzó metaadatokat, valamint egy albumborító keresőt, amely megtalálja és alkalmazza a borítóképeket a számokra. Az alkalmazás több mint 30 audioformátumot támogat, beleértve az MP3, FLAC, OGG, OPUS, M4A, WAV, WMA, APE, AIFF, ALAC, MKA, MOD, XM, IT és S3M formátumokat. Az Evertag fájlokat érhet el felhőalapú tárolószolgáltatásokból, beleértve az iCloud Drive-ot, Google Drive-ot, Dropboxot és OneDrive-ot, valamint USB flash meghajtókról és helyi hálózati helyekről SMB és WebDAV protokollon keresztül. Az alkalmazás beépített fájlkezelővel, Wi-Fi fájlátvitellel, kódolási javítással a nem latin betűs írásmódú helytelenül megjelenített címkékhez, valamint dalszövegszerkesztővel is rendelkezik. Az Evertag ingyenesen letölthető az App Store-ból opcionális alkalmazáson belüli vásárlásokkal, amelyek havi előfizetést tartalmaznak $2.99-ért, éves előfizetést $9.99-ért, vagy egyszeri élethosszig tartó vásárlást $29.99-ért.
+{{% /sr-only %}}
+
+
 {{< force-dark >}}
 
 {{< hextra/hero-container

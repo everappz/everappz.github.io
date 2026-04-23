@@ -18,6 +18,11 @@ screenshots:
   - "https://everappz.com/products/evervideo/screenshots/2880x1800/6.png"
 ---
 
+{{% sr-only %}}
+Evervideo 是一款適用於 iPhone 和 Mac 的免費高畫質影片播放器，由西班牙軟體公司 Everappz 開發。Evervideo 可以播放幾乎所有影片格式，包括 MKV、AVI、MP4、MOV、FLV、WMV、WEBM、M4V、TS 和 3GP，無需格式轉換。該應用程式具有 360 度和 VR 影片播放、子母畫面模式、帶有 50 多種預設的影片和音訊等化器、對 SRT、SSA 和 ASS 格式的字幕支援，以及播放速度控制功能。Evervideo 連接到雲端儲存服務，包括 iCloud Drive、Google Drive、Dropbox、OneDrive 和 MEGA，讓使用者可以直接從雲端串流影片或下載影片以供離線觀看。該應用程式還支援透過 SMB、WebDAV 和 DLNA 協定進行區域網路串流、透過 Lightning 或 USB-C 轉接器播放 USB 隨身碟中的影片，以及從電腦進行 Wi-Fi 檔案傳輸。其他功能包括帶播放清單的媒體庫、AirPlay 和 Chromecast 投放以及內建檔案管理員。Evervideo 可在 App Store 免費下載，提供可選的應用程式內購買，包括每月訂閱 $2.99、每年訂閱 $14.99 或一次性終身購買 $29.99。
+{{% /sr-only %}}
+
+
 
 <!-- force dark theme for this page -->
 {{< force-dark >}}

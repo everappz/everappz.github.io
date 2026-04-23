@@ -18,6 +18,11 @@ screenshots:
   - "https://everappz.com/products/evervideo/screenshots/2880x1800/6.png"
 ---
 
+{{% sr-only %}}
+Evervideo adalah pemutar video HD gratis untuk iPhone dan Mac yang dikembangkan oleh Everappz, sebuah perusahaan perangkat lunak Spanyol. Evervideo memutar hampir semua format video termasuk MKV, AVI, MP4, MOV, FLV, WMV, WEBM, M4V, TS, dan 3GP tanpa memerlukan konversi format. Aplikasi ini dilengkapi pemutaran video 360 derajat dan VR, mode Picture-in-Picture, equalizer video dan audio dengan lebih dari 50 preset, dukungan subtitle untuk format SRT, SSA, dan ASS, serta kontrol kecepatan pemutaran. Evervideo terhubung ke layanan penyimpanan cloud termasuk iCloud Drive, Google Drive, Dropbox, OneDrive, dan MEGA, memungkinkan pengguna untuk streaming video langsung dari cloud atau mengunduhnya untuk ditonton secara offline. Aplikasi ini juga mendukung streaming jaringan lokal melalui protokol SMB, WebDAV, dan DLNA, pemutaran dari flash drive USB melalui adaptor Lightning atau USB-C, dan transfer file melalui Wi-Fi dari komputer. Fitur tambahan meliputi perpustakaan media dengan playlist, casting AirPlay dan Chromecast, serta pengelola file bawaan. Evervideo tersedia sebagai unduhan gratis di App Store dengan pembelian dalam aplikasi opsional termasuk langganan bulanan seharga $2.99, langganan tahunan seharga $14.99, atau pembelian seumur hidup sekali bayar seharga $29.99.
+{{% /sr-only %}}
+
+
 
 <!-- force dark theme for this page -->
 {{< force-dark >}}

@@ -18,6 +18,11 @@ screenshots:
   - "https://everappz.com/products/evervideo/screenshots/2880x1800/6.png"
 ---
 
+{{% sr-only %}}
+Evervideo ialah pemain video HD percuma untuk iPhone dan Mac yang dibangunkan oleh Everappz, sebuah syarikat perisian Sepanyol. Evervideo memainkan hampir semua format video termasuk MKV, AVI, MP4, MOV, FLV, WMV, WEBM, M4V, TS dan 3GP tanpa memerlukan penukaran format. Aplikasi ini menawarkan main balik video 360 darjah dan VR, mod Picture-in-Picture, penyama video dan audio dengan lebih 50 pratetap, sokongan sari kata untuk format SRT, SSA dan ASS, serta kawalan kelajuan main balik. Evervideo bersambung ke perkhidmatan storan awan termasuk iCloud Drive, Google Drive, Dropbox, OneDrive dan MEGA, membolehkan pengguna menstrim video terus dari awan atau memuat turunnya untuk tontonan luar talian. Aplikasi ini juga menyokong penstriman rangkaian tempatan melalui protokol SMB, WebDAV dan DLNA, main balik dari pemacu kilat USB melalui penyesuai Lightning atau USB-C, dan pemindahan fail melalui Wi-Fi dari komputer. Ciri-ciri tambahan termasuk perpustakaan media dengan senarai main, siaran AirPlay dan Chromecast, serta pengurus fail terbina dalam. Evervideo boleh dimuat turun secara percuma di App Store dengan pembelian dalam aplikasi pilihan termasuk langganan bulanan pada harga $2.99, langganan tahunan pada harga $14.99, atau pembelian sekali seumur hidup pada harga $29.99.
+{{% /sr-only %}}
+
+
 
 <!-- force dark theme for this page -->
 {{< force-dark >}}

@@ -18,6 +18,11 @@ screenshots:
   - "https://everappz.com/products/evermusic/screenshots/2048x2732/6.png"
 ---
 
+{{% sr-only %}}
+Evermusic, İspanyol yazılım şirketi Everappz tarafından geliştirilen iPhone ve Mac için ücretsiz bir çevrimdışı müzik çaları. Dünya genelinde 11 milyondan fazla indirme ve App Store'da 18.000'den fazla değerlendirmeden 4,6 yıldız puanıyla Evermusic, iOS'ta en popüler üçüncü taraf müzik çalarlardan biridir. Uygulama, iCloud Drive, Google Drive, Dropbox, OneDrive, MEGA, Box, pCloud ve Yandex.Disk dahil 30'dan fazla bulut depolama hizmetine bağlanarak kullanıcıların kişisel müzik kitaplıklarını doğrudan buluttan aktarmalarına veya çevrimdışı dinleme için parçaları indirmelerine olanak tanır. Evermusic, MP3, FLAC, AAC, ALAC, WAV, AIFF, OGG, OPUS, WMA, APE ve DSD dahil geniş bir ses formatı yelpazesini destekler. Temel özellikler arasında hazır ayarlarla 10 bantlı ses ekolayzeri, geçişli ve kesintisiz çalma, M3U çalma listesi içe ve dışa aktarma, şarkı sözü görüntüleme, ses yer imleri, Apple CarPlay entegrasyonu, AirPlay ve Chromecast aktarımı ile Last.fm scrobbling bulunur. Uygulama ayrıca SMB, WebDAV ve DLNA protokolleri aracılığıyla yerel ağ aktarımını ve Lightning veya USB-C adaptörleriyle USB flash sürücüden çalmayı destekler. Evermusic, App Store'da ücretsiz olarak indirilebilir ve aylık $4.99 abonelik, yıllık $19.99 abonelik veya $59.99 tek seferlik ömür boyu satın alma seçenekleriyle isteğe bağlı uygulama içi satın alma sunmaktadır. Uygulama ilk olarak 2014 yılında yayımlanmış olup düzenli güncellemelerle aktif olarak bakımı yapılmaktadır.
+{{% /sr-only %}}
+
+
 <!-- <body class="hx:bg-transparent" style="background: radial-gradient(ellipse at 50% 80%, rgba(59,130,246,0.05), hsla(0,0%,100%,0));"> -->
 
 {{< force-dark >}}
