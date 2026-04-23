@@ -7,7 +7,6 @@ tags: ["evermusic", "setapp", "雲端", "音訊", "行動", "市集", "音樂", 
 draft: false
 aliases:
   - /post/setapp-mobile-and-evermusic-pro/
-  - /amp/setapp-mobile-and-evermusic-pro/
 cascade:
   type: docs
 authors:

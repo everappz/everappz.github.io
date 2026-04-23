@@ -13,8 +13,6 @@ tags: [
   "ajutor player muzică", "ghid player video", "editare etichete audio", "configurare cloud",
   "setări redare", "CarPlay", "AirPlay", "mod offline", "bibliotecă media"
 ]
-aliases:
-  - /blog/categories/guide/
 ---
 
 

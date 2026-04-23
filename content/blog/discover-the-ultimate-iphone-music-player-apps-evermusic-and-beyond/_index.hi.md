@@ -7,7 +7,6 @@ tags: ["म्यूज़िक ऐप्स", "iOS", "Evermusic", "Apple Music
 draft: false
 aliases:
   - /post/discover-the-ultimate-iphone-music-player-apps-evermusic-and-beyond/
-  - /amp/discover-the-ultimate-iphone-music-player-apps-evermusic-and-beyond/
 cascade:
   type: docs
 authors:

@@ -7,7 +7,6 @@ tags: ["evermusic", "música", "reproducció", "gestor", "editor", "sincronitzac
 draft: false
 aliases:
   - /post/evermusic-sync-your-music-library-save-playback-position-correct-music-tags/
-  - /amp/evermusic-sync-your-music-library-save-playback-position-correct-music-tags/
 cascade:
   type: docs
 authors:

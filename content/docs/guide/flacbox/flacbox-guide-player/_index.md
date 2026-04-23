@@ -14,7 +14,6 @@ readingTime: 12
 aliases:
   - /post/flacbox-guide-player/
   - /guide-flacbox-player/
-  - /amp/flacbox-guide-player/
 ---
 
 

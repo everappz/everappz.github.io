@@ -8,7 +8,6 @@ keywords: ["Lecteur FLAC iPhone", "lecteur de musique sans perte", "lecteur audi
 tags: ["Lecteur FLAC", "Audio haute résolution", "lecture hors ligne", "musique cloud", "audio DSD", "apps Mac", "apps iPhone", "audio USB iOS", "gestionnaire de fichiers musicaux", "égaliseur audio", "éditeur de métadonnées", "lecteur MP3", "lecteur SMB", "musique Chromecast", "lecteur de musique CarPlay", "support multiformat", "streaming musical", "gestionnaire de bibliothèque audio"]
 aliases:
   - /flacbox/
-  - /index.php/app/flap/
 appStoreUrl: "https://apps.apple.com/app/apple-store/id1097564256?pt=95781850&ct=everappzcom&mt=8"
 appStoreId: "1097564256"
 features: "Lecture Hi-Res FLAC/DSD/APE/ALAC, Streaming cloud (iCloud, Google Drive, Dropbox, OneDrive, MEGA, Box), Égaliseur audio avec préréglages, Lecture crossfade et sans coupure, Import/export de playlists M3U, Afficheur de paroles, Signets audio, Apple CarPlay, AirPlay et Chromecast, Support SMB/WebDAV/DLNA, Lecture depuis clé USB, Scrobbling Last.fm, Éditeur de tags intégré"

@@ -12,7 +12,6 @@ keywords: ["Soundy", "เครื่องเล่น SoundCloud iPhone", "อ
 tags: ["Soundy", "SoundCloud", "แอป iOS", "อีควอไลเซอร์เพลง", "เครื่องเล่นเสียง", "เล่นออฟไลน์", "แอปเพลง iPhone", "แอปที่ยกเลิกแล้ว", "เครื่องเล่นสื่อ", "สตรีมเพลง"]
 aliases:
   - /soundy/
-  - /index.php/app/sound-beats/
 ---
 
 <div class="hx:w-full hx:max-w-screen-lg hx:mx-auto hx:flex hx:flex-col hx:items-center hx:justify-center hx:text-center">

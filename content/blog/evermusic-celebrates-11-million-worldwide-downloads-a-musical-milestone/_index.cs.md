@@ -7,7 +7,6 @@ tags: ["Evermusic", "milník", "cloudová hudba", "offline přehrávání", "iCl
 draft: false
 aliases:
   - /post/evermusic-celebrates-11-million-worldwide-downloads-a-musical-milestone/
-  - /amp/evermusic-celebrates-11-million-worldwide-downloads-a-musical-milestone/
 cascade:
   type: docs
 authors:

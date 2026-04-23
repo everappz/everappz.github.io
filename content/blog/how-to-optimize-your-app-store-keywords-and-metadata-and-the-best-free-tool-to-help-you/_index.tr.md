@@ -6,7 +6,6 @@ keywords: ["app store anahtar kelime rehberi", "ASO anahtar kelime optimizasyonu
 tags: ["App Store Optimizasyonu", "ücretsiz ASO araçları", "app store başlık optimizasyonu", "ücretsiz ASO aracı", "app store anahtar kelime stratejisi", "metadata optimizer"]
 aliases:
   - /post/how-to-optimize-your-app-store-keywords-and-metadata-and-the-best-free-tool-to-help-you/
-  - /amp/how-to-optimize-your-app-store-keywords-and-metadata-and-the-best-free-tool-to-help-you/
 draft: false
 sidebar:
   exclude: true

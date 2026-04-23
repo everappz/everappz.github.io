@@ -7,7 +7,6 @@ tags: ["evermusic", "setapp", "云", "音频", "移动", "市场", "音乐", "io
 draft: false
 aliases:
   - /post/setapp-mobile-and-evermusic-pro/
-  - /amp/setapp-mobile-and-evermusic-pro/
 cascade:
   type: docs
 authors:

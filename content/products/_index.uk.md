@@ -19,8 +19,6 @@ tags: [
   "органайзер медіатеки", "еквалайзер", "файловий менеджер", "NAS трансляція", 
   "Chromecast", "AirPlay", "CarPlay", "створення плейлистів"
 ]
-aliases:
-  - /index.php/apps/
 ---
 
 {{< lottie src="/images/juicy-json/juicy-website-designer-making-landing-page-at-laptop.json" width="85%" >}}

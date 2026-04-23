@@ -7,7 +7,6 @@ tags: ["Evermusic", "promo", "musique", "vidéo", "musique cloud", "application 
 draft: false
 aliases:
   - /post/evermusic-be-inspired-by-music/
-  - /amp/evermusic-be-inspired-by-music/
 sidebar:
   exclude: true
 cascade:

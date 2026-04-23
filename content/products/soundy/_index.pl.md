@@ -12,7 +12,6 @@ keywords: ["Soundy", "odtwarzacz SoundCloud iPhone", "korektor muzyki iOS", "kor
 tags: ["Soundy", "SoundCloud", "aplikacje iOS", "korektor muzyki", "odtwarzacz audio", "odtwarzanie offline", "aplikacja muzyczna iPhone", "wycofane aplikacje", "odtwarzacz multimedialny", "strumieniowanie muzyki"]
 aliases:
   - /soundy/
-  - /index.php/app/sound-beats/
 ---
 
 <div class="hx:w-full hx:max-w-screen-lg hx:mx-auto hx:flex hx:flex-col hx:items-center hx:justify-center hx:text-center">

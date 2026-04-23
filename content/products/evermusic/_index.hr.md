@@ -8,7 +8,6 @@ keywords: ["Evermusic", "offline glazbeni player", "iOS audio player", "cloud gl
 tags: ["Evermusic", "offline reprodukcija", "cloud glazba", "MP3 player", "iPhone aplikacije", "audio streaming", "upravljanje glazbom", "Mac aplikacije", "media player"]
 aliases:
   - /evermusic/
-  - /index.php/app/evermusic/
 appStoreUrl: "https://apps.apple.com/app/apple-store/id885367198?pt=95781850&ct=everappzcom&mt=8"
 appStoreId: "885367198"
 features: "Offline reprodukcija glazbe, Cloud streaming (iCloud, Google Drive, Dropbox, OneDrive, MEGA, Box), Audio ekvilajzer s postavkama, Crossfade i reprodukcija bez pauza, Uvoz/izvoz M3U popisa za reprodukciju, Preglednik tekstova pjesama, Audio oznake, Apple CarPlay, AirPlay i Chromecast, SMB/WebDAV/DLNA podrška, Reprodukcija s USB pogona, Last.fm scrobbling"

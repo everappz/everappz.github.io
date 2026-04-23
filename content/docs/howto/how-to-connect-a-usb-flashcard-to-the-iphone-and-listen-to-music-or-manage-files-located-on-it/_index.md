@@ -8,7 +8,6 @@ readingTime: 2
 draft: false
 aliases:
   - /post/how-to-connect-a-usb-flashcard-to-the-iphone-and-listen-to-music-or-manage-files-located-on-it/
-  - /amp/how-to-connect-a-usb-flashcard-to-the-iphone-and-listen-to-music-or-manage-files-located-on-it/
 ---
 
 {{< author-byline >}}

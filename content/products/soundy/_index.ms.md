@@ -12,7 +12,6 @@ keywords: ["Soundy", "pemain SoundCloud iPhone", "penyama muzik iOS", "penyama u
 tags: ["Soundy", "SoundCloud", "aplikasi iOS", "penyama muzik", "pemain audio", "main balik luar talian", "aplikasi muzik iPhone", "aplikasi dihentikan", "pemain media", "penstriman muzik"]
 aliases:
   - /soundy/
-  - /index.php/app/sound-beats/
 ---
 
 <div class="hx:w-full hx:max-w-screen-lg hx:mx-auto hx:flex hx:flex-col hx:items-center hx:justify-center hx:text-center">

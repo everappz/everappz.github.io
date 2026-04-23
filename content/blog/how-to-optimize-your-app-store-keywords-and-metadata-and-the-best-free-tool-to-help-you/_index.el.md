@@ -6,7 +6,6 @@ keywords: ["οδηγός λέξεων-κλειδιών app store", "βελτισ
 tags: ["Βελτιστοποίηση App Store", "δωρεάν εργαλεία ASO", "βελτιστοποίηση τίτλου app store", "δωρεάν εργαλείο ASO", "στρατηγική λέξεων-κλειδιών app store", "βελτιστοποιητής μεταδεδομένων"]
 aliases:
   - /post/how-to-optimize-your-app-store-keywords-and-metadata-and-the-best-free-tool-to-help-you/
-  - /amp/how-to-optimize-your-app-store-keywords-and-metadata-and-the-best-free-tool-to-help-you/
 draft: false
 sidebar:
   exclude: true

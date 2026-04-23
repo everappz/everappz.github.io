@@ -3,7 +3,6 @@ date: '2025-06-12T17:00:00+00:00'
 draft: false
 title: 'Syarat dan Ketentuan'
 aliases:
-  - /index.php/terms-and-conditions/
   - /terms-and-conditions/
   - /terms-and-conditionsDec/
   - /terms-and-condition/

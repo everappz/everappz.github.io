@@ -8,7 +8,6 @@ keywords: ["FLAC-soitin iPhone", "häviötön musiikkisoitin", "hi-res-äänisoi
 tags: ["FLAC-soitin", "Hi-Res-ääni", "offline-toisto", "pilvimusiikki", "DSD-ääni", "Mac-sovellukset", "iPhone-sovellukset", "USB-ääni iOS", "musiikkitiedostojen hallinta", "äänitaajuuskorjain", "metatietoeditori", "MP3-soitin", "SMB-soitin", "Chromecast-musiikki", "CarPlay-musiikkisoitin", "moniformaattituki", "musiikin suoratoisto", "äänikirjaston hallinta"]
 aliases:
   - /flacbox/
-  - /index.php/app/flap/
 appStoreUrl: "https://apps.apple.com/app/apple-store/id1097564256?pt=95781850&ct=everappzcom&mt=8"
 appStoreId: "1097564256"
 features: "Hi-Res FLAC/DSD/APE/ALAC-toisto, Pilvisuoratoisto (iCloud, Google Drive, Dropbox, OneDrive, MEGA, Box), Äänitaajuuskorjain esiasetuksilla, Crossfade ja tauoton toisto, M3U-soittolistan tuonti/vienti, Sanoitusten katselu, Äänikirjanmerkit, Apple CarPlay, AirPlay ja Chromecast, SMB/WebDAV/DLNA-tuki, USB-muistitikun toisto, Last.fm-scrobbling, Sisäänrakennettu tagi-editori"

@@ -8,7 +8,6 @@ readingTime: 1
 draft: false
 aliases:
   - /post/how-to-connect-bluesound-vault-s-internal-storage-from-the-evermusic-flacbox-evertag/
-  - /amp/how-to-connect-bluesound-vault-s-internal-storage-from-the-evermusic-flacbox-evertag/
 ---
 
 {{< author-byline >}}

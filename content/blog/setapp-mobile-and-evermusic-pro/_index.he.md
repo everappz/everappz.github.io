@@ -7,7 +7,6 @@ tags: ["evermusic", "setapp", "ענן", "שמע", "נייד", "שוק", "מוז�
 draft: false
 aliases:
   - /post/setapp-mobile-and-evermusic-pro/
-  - /amp/setapp-mobile-and-evermusic-pro/
 cascade:
   type: docs
 authors:

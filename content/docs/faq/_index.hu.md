@@ -13,8 +13,6 @@ tags: [
   "felhő beállítás", "lejátszási problémák", "fájlkezelés", "metaadat-szerkesztés",
   "hibaelhárítás", "offline mód", "zenelejátszó", "videolejátszó"
 ]
-aliases:
-  - /blog/categories/how-to/
 ---
 
 

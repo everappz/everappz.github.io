@@ -12,7 +12,6 @@ keywords: ["Soundy", "reproductor SoundCloud iPhone", "ecualizador de música iO
 tags: ["Soundy", "SoundCloud", "aplicaciones iOS", "ecualizador de música", "reproductor de audio", "reproducción sin conexión", "aplicación de música iPhone", "aplicaciones descontinuadas", "reproductor multimedia", "transmisión de música"]
 aliases:
   - /soundy/
-  - /index.php/app/sound-beats/
 ---
 
 <div class="hx:w-full hx:max-w-screen-lg hx:mx-auto hx:flex hx:flex-col hx:items-center hx:justify-center hx:text-center">

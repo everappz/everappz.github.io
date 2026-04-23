@@ -19,8 +19,6 @@ tags: [
   "منظم مكتبة الوسائط", "معادل صوتي", "مدير ملفات", "بث NAS", 
   "Chromecast", "AirPlay", "CarPlay", "إنشاء قوائم تشغيل"
 ]
-aliases:
-  - /index.php/apps/
 ---
 
 {{< lottie src="/images/juicy-json/juicy-website-designer-making-landing-page-at-laptop.json" width="85%" >}}

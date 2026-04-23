@@ -7,7 +7,6 @@ tags: ["Evermusic", "promoción", "vídeo", "iOS", "música", "nube", "reproduct
 draft: false
 aliases:
   - /post/evermusic-promo-video/
-  - /amp/evermusic-promo-video/
 cascade:
   type: docs
 authors:

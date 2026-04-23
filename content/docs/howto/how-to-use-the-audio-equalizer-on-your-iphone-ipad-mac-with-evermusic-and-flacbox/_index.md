@@ -7,7 +7,6 @@ tags: ["music", "audio", "equalizer", "10-band", "gain", "configuration", "pream
 keywords: ["audio equalizer iPhone", "Evermusic EQ presets", "Flacbox 10-band equalizer", "adjust bass treble iOS", "equalizer Mac music app", "boost audio with preamp", "custom sound presets"]
 aliases:
   - /post/how-to-use-the-audio-equalizer-on-your-iphone-ipad-mac-with-evermusic-and-flacbox/
-  - /amp/how-to-use-the-audio-equalizer-on-your-iphone-ipad-mac-with-evermusic-and-flacbox/
 ---
 
 {{< author-byline >}}

@@ -13,8 +13,6 @@ tags: [
   "cloud setup", "playback issues", "file management", "metadata editing",
   "troubleshooting", "offline mode", "music player", "video player"
 ]
-aliases:
-  - /blog/categories/how-to/
 ---
 
 

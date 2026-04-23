@@ -19,8 +19,6 @@ tags: [
   "미디어 라이브러리 정리기", "이퀄라이저", "파일 관리자", "NAS 스트리밍", 
   "Chromecast", "AirPlay", "CarPlay", "재생목록 만들기"
 ]
-aliases:
-  - /index.php/apps/
 ---
 
 {{< lottie src="/images/juicy-json/juicy-website-designer-making-landing-page-at-laptop.json" width="85%" >}}

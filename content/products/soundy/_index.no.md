@@ -12,7 +12,6 @@ keywords: ["Soundy", "SoundCloud-spiller iPhone", "iOS musikk-equalizer", "equal
 tags: ["Soundy", "SoundCloud", "iOS-apper", "musikk-equalizer", "lydspiller", "frakoblet avspilling", "musikkapp iPhone", "avviklede apper", "mediaspiller", "musikkstrømming"]
 aliases:
   - /soundy/
-  - /index.php/app/sound-beats/
 ---
 
 <div class="hx:w-full hx:max-w-screen-lg hx:mx-auto hx:flex hx:flex-col hx:items-center hx:justify-center hx:text-center">

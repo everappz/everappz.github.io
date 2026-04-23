@@ -7,7 +7,6 @@ tags: ["Flacbox", "verlustfrei", "Hi-Res Audio", "Musikplayer", "Audio", "Meilen
 draft: false
 aliases:
   - /post/flacbox-celebrates-1-million-worldwide-downloads-your-gateway-to-hi-res-music/
-  - /amp/flacbox-celebrates-1-million-worldwide-downloads-your-gateway-to-hi-res-music/
 cascade:
   type: docs
 authors:

@@ -6,7 +6,6 @@ keywords: ["app store avainsanat opas", "ASO avainsanojen optimointi", "app stor
 tags: ["App Store -optimointi", "ilmaiset ASO-työkalut", "app store otsikon optimointi", "ilmainen ASO-työkalu", "app store avainsanastrategia", "metatietojen optimoija"]
 aliases:
   - /post/how-to-optimize-your-app-store-keywords-and-metadata-and-the-best-free-tool-to-help-you/
-  - /amp/how-to-optimize-your-app-store-keywords-and-metadata-and-the-best-free-tool-to-help-you/
 draft: false
 sidebar:
   exclude: true

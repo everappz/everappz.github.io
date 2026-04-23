@@ -5,7 +5,6 @@ title: '使用教程'
 description: '帮助您设置、使用和充分利用 Everappz 应用的分步指南和技巧。'
 excludeSearch: true
 aliases:
-  - /index.php/category/how-to/
   - /post/how-to-/
 ---
 

@@ -6,7 +6,6 @@ keywords: ["ghid cuvinte cheie app store", "optimizare cuvinte cheie ASO", "opti
 tags: ["Optimizare App Store", "instrumente ASO gratuite", "optimizare titlu app store", "instrument ASO gratuit", "strategie cuvinte cheie app store", "optimizer metadate"]
 aliases:
   - /post/how-to-optimize-your-app-store-keywords-and-metadata-and-the-best-free-tool-to-help-you/
-  - /amp/how-to-optimize-your-app-store-keywords-and-metadata-and-the-best-free-tool-to-help-you/
 draft: false
 sidebar:
   exclude: true

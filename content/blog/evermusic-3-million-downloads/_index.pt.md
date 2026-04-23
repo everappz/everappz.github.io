@@ -7,7 +7,6 @@ tags: ["Evermusic", "downloads", "marco", "apps de música", "reprodutor na nuve
 draft: false
 aliases:
   - /post/evermusic-3-million-downloads/
-  - /amp/evermusic-3-million-downloads/
   - /single-post/Evermusic-3-million-downloads/
 cascade:
   type: docs

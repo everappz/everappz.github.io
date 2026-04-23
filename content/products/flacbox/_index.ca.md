@@ -8,7 +8,6 @@ keywords: ["reproductor FLAC iPhone", "reproductor de música sense pèrdua", "r
 tags: ["reproductor FLAC", "àudio d'alta resolució", "reproducció fora de línia", "música al núvol", "àudio DSD", "apps Mac", "apps iPhone", "àudio USB iOS", "gestor de fitxers de música", "equalitzador d'àudio", "editor de metadades", "reproductor MP3", "reproductor SMB", "música Chromecast", "reproductor de música CarPlay", "compatibilitat multiformats", "transmissió de música", "gestor de biblioteca d'àudio"]
 aliases:
   - /flacbox/
-  - /index.php/app/flap/
 appStoreUrl: "https://apps.apple.com/app/apple-store/id1097564256?pt=95781850&ct=everappzcom&mt=8"
 appStoreId: "1097564256"
 features: "Reproducció Hi-Res FLAC/DSD/APE/ALAC, Transmissió al núvol (iCloud, Google Drive, Dropbox, OneDrive, MEGA, Box), Equalitzador d'àudio amb preajustaments, Crossfade i reproducció sense interrupcions, Importació/exportació de llistes M3U, Visor de lletres, Marcadors d'àudio, Apple CarPlay, AirPlay i Chromecast, Compatibilitat SMB/WebDAV/DLNA, Reproducció des de memòria USB, Scrobbling Last.fm, Editor d'etiquetes integrat"

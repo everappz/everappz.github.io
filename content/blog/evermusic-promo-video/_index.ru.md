@@ -7,7 +7,6 @@ tags: ["evermusic", "промо", "видео", "ios", "музыка", "обла
 draft: false
 aliases:
   - /post/evermusic-promo-video/
-  - /amp/evermusic-promo-video/
 cascade:
   type: docs
 authors:

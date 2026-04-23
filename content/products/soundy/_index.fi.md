@@ -12,7 +12,6 @@ keywords: ["Soundy", "SoundCloud-soitin iPhone", "iOS musiikki-taajuuskorjain", 
 tags: ["Soundy", "SoundCloud", "iOS-sovellukset", "musiikki-taajuuskorjain", "äänisoitin", "offline-toisto", "musiikkisovellus iPhone", "lopetetut sovellukset", "mediasoitin", "musiikin suoratoisto"]
 aliases:
   - /soundy/
-  - /index.php/app/sound-beats/
 ---
 
 <div class="hx:w-full hx:max-w-screen-lg hx:mx-auto hx:flex hx:flex-col hx:items-center hx:justify-center hx:text-center">

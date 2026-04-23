@@ -5,7 +5,6 @@ title: 'How To'
 description: 'Step-by-step guides, and tips to help you set up, use, and get the most out of Everappz apps.'
 excludeSearch: true
 aliases:
-  - /index.php/category/how-to/
   - /post/how-to-/
 ---
 

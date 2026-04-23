@@ -5,7 +5,6 @@ title: 'วิธีใช้'
 description: 'คำแนะนำทีละขั้นตอนและเคล็ดลับเพื่อช่วยให้คุณตั้งค่า ใช้งาน และใช้ประโยชน์จากแอป Everappz ได้อย่างเต็มที่'
 excludeSearch: true
 aliases:
-  - /index.php/category/how-to/
   - /post/how-to-/
 ---
 

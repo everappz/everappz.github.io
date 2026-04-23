@@ -19,8 +19,6 @@ tags: [
   "trình tổ chức thư viện phương tiện", "bộ cân bằng", "trình quản lý tệp", "phát trực tuyến NAS", 
   "Chromecast", "AirPlay", "CarPlay", "tạo danh sách phát"
 ]
-aliases:
-  - /index.php/apps/
 ---
 
 {{< lottie src="/images/juicy-json/juicy-website-designer-making-landing-page-at-laptop.json" width="85%" >}}

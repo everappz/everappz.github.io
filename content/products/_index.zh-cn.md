@@ -19,8 +19,6 @@ tags: [
   "媒体库管理器", "均衡器", "文件管理器", "NAS 流媒体", 
   "Chromecast", "AirPlay", "CarPlay", "创建播放列表"
 ]
-aliases:
-  - /index.php/apps/
 ---
 
 {{< lottie src="/images/juicy-json/juicy-website-designer-making-landing-page-at-laptop.json" width="85%" >}}

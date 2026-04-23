@@ -13,8 +13,6 @@ tags: [
   "konfiguracja chmury", "problemy z odtwarzaniem", "zarządzanie plikami", "edycja metadanych",
   "rozwiązywanie problemów", "tryb offline", "odtwarzacz muzyki", "odtwarzacz wideo"
 ]
-aliases:
-  - /blog/categories/how-to/
 ---
 
 

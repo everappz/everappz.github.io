@@ -6,7 +6,6 @@ keywords: ["app storeキーワードガイド", "ASOキーワード最適化", "
 tags: ["App Store最適化", "無料ASOツール", "app storeタイトル最適化", "無料ASOツール", "app storeキーワード戦略", "メタデータオプティマイザー"]
 aliases:
   - /post/how-to-optimize-your-app-store-keywords-and-metadata-and-the-best-free-tool-to-help-you/
-  - /amp/how-to-optimize-your-app-store-keywords-and-metadata-and-the-best-free-tool-to-help-you/
 draft: false
 sidebar:
   exclude: true

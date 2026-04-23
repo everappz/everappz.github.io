@@ -12,7 +12,6 @@ keywords: ["Soundy", "πρόγραμμα αναπαραγωγής SoundCloud iPh
 tags: ["Soundy", "SoundCloud", "εφαρμογές iOS", "ισοσταθμιστής μουσικής", "πρόγραμμα αναπαραγωγής ήχου", "αναπαραγωγή εκτός σύνδεσης", "εφαρμογή μουσικής iPhone", "καταργημένες εφαρμογές", "πρόγραμμα αναπαραγωγής πολυμέσων", "ροή μουσικής"]
 aliases:
   - /soundy/
-  - /index.php/app/sound-beats/
 ---
 
 <div class="hx:w-full hx:max-w-screen-lg hx:mx-auto hx:flex hx:flex-col hx:items-center hx:justify-center hx:text-center">

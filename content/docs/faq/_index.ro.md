@@ -13,8 +13,6 @@ tags: [
   "configurare cloud", "probleme redare", "gestionare fișiere", "editare metadate",
   "depanare", "mod offline", "player muzică", "player video"
 ]
-aliases:
-  - /blog/categories/how-to/
 ---
 
 

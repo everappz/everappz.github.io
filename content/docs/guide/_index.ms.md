@@ -13,8 +13,6 @@ tags: [
   "bantuan pemain muzik", "panduan pemain video", "penyuntingan tag audio", "persediaan awan",
   "tetapan main balik", "CarPlay", "AirPlay", "mod luar talian", "pustaka media"
 ]
-aliases:
-  - /blog/categories/guide/
 ---
 
 

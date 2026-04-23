@@ -7,7 +7,6 @@ tags: ["music", "cloud", "streaming", "sync", "icloud", "library"]
 keywords: ["import iCloud music Evermusic", "Flacbox iCloud sync", "Evermusic stream from iCloud", "music library iOS app", "Flacbox metadata reader", "icloud music streaming iPhone"]
 aliases:
   - /post/step-by-step-guide-importing-your-icloud-library-into-evermusic-and-flacbox/
-  - /amp/step-by-step-guide-importing-your-icloud-library-into-evermusic-and-flacbox/
 ---
 
 {{< author-byline >}}

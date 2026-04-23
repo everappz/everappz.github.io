@@ -12,7 +12,6 @@ readingTime: 11
 draft: false
 aliases:
   - /post/evermusic-guide-connections/
-  - /amp/evermusic-guide-connections/
   - /guide-evermusic-connect/
 ---
 

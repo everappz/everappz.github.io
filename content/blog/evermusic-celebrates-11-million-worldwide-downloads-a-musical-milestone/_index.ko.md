@@ -7,7 +7,6 @@ tags: ["Evermusic", "마일스톤", "클라우드 음악", "오프라인 재생"
 draft: false
 aliases:
   - /post/evermusic-celebrates-11-million-worldwide-downloads-a-musical-milestone/
-  - /amp/evermusic-celebrates-11-million-worldwide-downloads-a-musical-milestone/
 cascade:
   type: docs
 authors:

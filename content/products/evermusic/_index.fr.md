@@ -8,7 +8,6 @@ keywords: ["Evermusic", "lecteur de musique hors ligne", "lecteur audio iOS", "a
 tags: ["Evermusic", "lecture hors ligne", "musique cloud", "lecteur MP3", "applications iPhone", "streaming audio", "gestion musicale", "applications Mac", "lecteur multimédia"]
 aliases:
   - /evermusic/
-  - /index.php/app/evermusic/
 appStoreUrl: "https://apps.apple.com/app/apple-store/id885367198?pt=95781850&ct=everappzcom&mt=8"
 appStoreId: "885367198"
 features: "Lecture de musique hors ligne, Streaming cloud (iCloud, Google Drive, Dropbox, OneDrive, MEGA, Box), Égaliseur audio avec préréglages, Crossfade et lecture sans interruption, Import/export de playlists M3U, Afficheur de paroles, Signets audio, Apple CarPlay, AirPlay et Chromecast, Support SMB/WebDAV/DLNA, Lecture depuis clé USB, Scrobbling Last.fm"

@@ -7,7 +7,6 @@ tags: ["evermusic", "promo", "video", "ios", "glazba", "oblak", "player", "mobil
 draft: false
 aliases:
   - /post/evermusic-promo-video/
-  - /amp/evermusic-promo-video/
 cascade:
   type: docs
 authors:

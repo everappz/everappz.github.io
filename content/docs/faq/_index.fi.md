@@ -13,8 +13,6 @@ tags: [
   "pilviasennus", "toistongelmat", "tiedostonhallinta", "metatietojen muokkaus",
   "vianmääritys", "offline-tila", "musiikkisoitin", "videosoitin"
 ]
-aliases:
-  - /blog/categories/how-to/
 ---
 
 

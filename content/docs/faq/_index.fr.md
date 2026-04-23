@@ -13,8 +13,6 @@ tags: [
   "configuration cloud", "problèmes de lecture", "gestion de fichiers", "édition de métadonnées",
   "dépannage", "mode hors ligne", "lecteur de musique", "lecteur vidéo"
 ]
-aliases:
-  - /blog/categories/how-to/
 ---
 
 

@@ -8,7 +8,6 @@ keywords: ["Evermusic", "offline hudební přehrávač", "iOS audio přehrávač
 tags: ["Evermusic", "offline přehrávání", "cloudová hudba", "MP3 přehrávač", "iPhone aplikace", "audio streaming", "správa hudby", "Mac aplikace", "přehrávač médií"]
 aliases:
   - /evermusic/
-  - /index.php/app/evermusic/
 appStoreUrl: "https://apps.apple.com/app/apple-store/id885367198?pt=95781850&ct=everappzcom&mt=8"
 appStoreId: "885367198"
 features: "Offline přehrávání hudby, Cloudový streaming (iCloud, Google Drive, Dropbox, OneDrive, MEGA, Box), Audio ekvalizér s předvolbami, Crossfade a plynulé přehrávání, Import/export playlistů M3U, Prohlížeč textů písní, Audio záložky, Apple CarPlay, AirPlay a Chromecast, Podpora SMB/WebDAV/DLNA, Přehrávání z USB, Last.fm scrobbling"

@@ -7,7 +7,6 @@ tags: ["Evertag", "Premium", "Difference", "Pro", "Free vs Paid", "Tag Editor Ap
 draft: false
 aliases:
   - /post/what-is-the-difference-between-evertag-and-evertag-premium/
-  - /amp/what-is-the-difference-between-evertag-and-evertag-premium/
 ---
 
 

@@ -8,7 +8,6 @@ keywords: ["Evermusic", "offline zenelejátszó", "iOS audiolejátszó", "felhő
 tags: ["Evermusic", "offline lejátszás", "felhő zene", "MP3 lejátszó", "iPhone alkalmazások", "audio streaming", "zenekezelés", "Mac alkalmazások", "médialejátszó"]
 aliases:
   - /evermusic/
-  - /index.php/app/evermusic/
 appStoreUrl: "https://apps.apple.com/app/apple-store/id885367198?pt=95781850&ct=everappzcom&mt=8"
 appStoreId: "885367198"
 features: "Offline zenelejátszás, Felhő streaming (iCloud, Google Drive, Dropbox, OneDrive, MEGA, Box), Audio hangszínszabályzó előbeállításokkal, Crossfade és szünetmentes lejátszás, M3U lejátszási lista importálás/exportálás, Dalszöveg megjelenítő, Audio könyvjelzők, Apple CarPlay, AirPlay és Chromecast, SMB/WebDAV/DLNA támogatás, USB flash meghajtó lejátszás, Last.fm scrobbling"

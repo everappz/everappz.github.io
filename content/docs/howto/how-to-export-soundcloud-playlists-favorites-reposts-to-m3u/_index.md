@@ -9,7 +9,6 @@ readingTime: 1
 draft: false
 aliases:
   - /post/how-to-export-soundcloud-playlists-favorites-reposts-to-m3u/
-  - /amp/how-to-export-soundcloud-playlists-favorites-reposts-to-m3u/
 ---
 
 {{< author-byline >}}

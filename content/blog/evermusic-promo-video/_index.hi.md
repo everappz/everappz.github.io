@@ -7,7 +7,6 @@ tags: ["evermusic", "प्रोमो", "वीडियो", "ios", "म्�
 draft: false
 aliases:
   - /post/evermusic-promo-video/
-  - /amp/evermusic-promo-video/
 cascade:
   type: docs
 authors:

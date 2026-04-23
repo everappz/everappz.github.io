@@ -6,7 +6,6 @@ keywords: ["app store kulcsszavak útmutató", "ASO kulcsszó optimalizálás", 
 tags: ["App Store optimalizálás", "ingyenes ASO eszközök", "app store cím optimalizálás", "ingyenes ASO eszköz", "app store kulcsszó stratégia", "metaadat optimalizáló"]
 aliases:
   - /post/how-to-optimize-your-app-store-keywords-and-metadata-and-the-best-free-tool-to-help-you/
-  - /amp/how-to-optimize-your-app-store-keywords-and-metadata-and-the-best-free-tool-to-help-you/
 draft: false
 sidebar:
   exclude: true

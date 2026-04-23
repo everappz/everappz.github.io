@@ -7,7 +7,6 @@ keywords: ["wirelessly transfer files to iPhone", "wifi drive file transfer", "f
 readingTime: 2
 aliases:
   - /post/how-to-transfer-files-wirelessly-from-a-computer-to-an-iphone-using-wifi-drive/
-  - /amp/how-to-transfer-files-wirelessly-from-a-computer-to-an-iphone-using-wifi-drive/
 ---
 
 {{< author-byline >}}

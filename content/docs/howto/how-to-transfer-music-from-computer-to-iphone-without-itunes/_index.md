@@ -7,7 +7,6 @@ keywords: ["transfer music without iTunes", "wifi drive iphone", "wirelessly cop
 readingTime: 2
 aliases:
   - /post/how-to-transfer-music-from-computer-to-iphone-without-itunes/
-  - /amp/how-to-transfer-music-from-computer-to-iphone-without-itunes/
 ---
 
 {{< author-byline >}}

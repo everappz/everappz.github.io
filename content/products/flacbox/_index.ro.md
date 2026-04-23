@@ -8,7 +8,6 @@ keywords: ["player FLAC iPhone", "player muzică lossless", "player audio hi-res
 tags: ["player FLAC", "audio Hi-Res", "redare offline", "muzică cloud", "audio DSD", "aplicații Mac", "aplicații iPhone", "audio USB iOS", "manager fișiere muzicale", "egalizator audio", "editor metadate", "player MP3", "player SMB", "muzică Chromecast", "player muzică CarPlay", "suport multi-format", "streaming muzică", "manager bibliotecă audio"]
 aliases:
   - /flacbox/
-  - /index.php/app/flap/
 appStoreUrl: "https://apps.apple.com/app/apple-store/id1097564256?pt=95781850&ct=everappzcom&mt=8"
 appStoreId: "1097564256"
 features: "Redare Hi-Res FLAC/DSD/APE/ALAC, Streaming cloud (iCloud, Google Drive, Dropbox, OneDrive, MEGA, Box), Egalizator audio cu presetări, Crossfade și redare fără pauze, Import/export playlist M3U, Vizualizator versuri, Marcaje audio, Apple CarPlay, AirPlay și Chromecast, Suport SMB/WebDAV/DLNA, Redare de pe unitate flash USB, Scrobbling Last.fm, Editor de taguri integrat"

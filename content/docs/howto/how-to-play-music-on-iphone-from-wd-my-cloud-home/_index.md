@@ -8,9 +8,7 @@ readingTime: 4
 draft: false
 aliases:
   - /post/how-to-play-music-on-iphone-from-wd-my-cloud-home/
-  - /amp/how-to-play-music-on-iphone-from-wd-my-cloud-home/
   - /post/8-tb-of-music-on-your-iphone-with-evermusic-and-wd-my-cloud-home/
-  - /amp/8-tb-of-music-on-your-iphone-with-evermusic-and-wd-my-cloud-home/
 ---
 
 {{< author-byline >}}

@@ -13,8 +13,6 @@ tags: [
   "configuración en la nube", "problemas de reproducción", "gestión de archivos", "edición de metadatos",
   "solución de problemas", "modo sin conexión", "reproductor de música", "reproductor de vídeo"
 ]
-aliases:
-  - /blog/categories/how-to/
 ---
 
 

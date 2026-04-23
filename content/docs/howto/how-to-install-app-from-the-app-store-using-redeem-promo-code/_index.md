@@ -8,7 +8,6 @@ readingTime: 2
 draft: false
 aliases:
   - /post/how-to-install-app-from-the-app-store-using-redeem-promo-code/
-  - /amp/how-to-install-app-from-the-app-store-using-redeem-promo-code/
 ---
 
 {{< author-byline >}}

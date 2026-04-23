@@ -7,7 +7,6 @@ tags: ["Evermusic", "宣传", "音乐", "视频", "云音乐", "iOS 应用"]
 draft: false
 aliases:
   - /post/evermusic-be-inspired-by-music/
-  - /amp/evermusic-be-inspired-by-music/
 sidebar:
   exclude: true
 cascade:

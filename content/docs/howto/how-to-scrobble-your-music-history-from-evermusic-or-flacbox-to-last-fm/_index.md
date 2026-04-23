@@ -17,7 +17,6 @@ keywords: [
 readingTime: 2
 aliases:
   - /post/how-to-scrobble-your-music-history-from-evermusic-or-flacbox-to-last-fm/
-  - /amp/how-to-scrobble-your-music-history-from-evermusic-or-flacbox-to-last-fm/
 ---
 
 {{< author-byline >}}

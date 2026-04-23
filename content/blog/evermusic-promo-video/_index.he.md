@@ -7,7 +7,6 @@ tags: ["evermusic", "פרסום", "סרטון", "ios", "מוזיקה", "ענן",
 draft: false
 aliases:
   - /post/evermusic-promo-video/
-  - /amp/evermusic-promo-video/
 cascade:
   type: docs
 authors:

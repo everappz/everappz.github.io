@@ -7,7 +7,6 @@ tags: ["evermusic", "promosi", "video", "ios", "muzik", "awan", "pemain", "aplik
 draft: false
 aliases:
   - /post/evermusic-promo-video/
-  - /amp/evermusic-promo-video/
 cascade:
   type: docs
 authors:

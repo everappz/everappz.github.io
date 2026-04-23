@@ -13,8 +13,6 @@ tags: [
   "persediaan awan", "masalah main balik", "pengurusan fail", "penyuntingan metadata",
   "penyelesaian masalah", "mod luar talian", "pemain muzik", "pemain video"
 ]
-aliases:
-  - /blog/categories/how-to/
 ---
 
 

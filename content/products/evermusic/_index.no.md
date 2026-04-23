@@ -8,7 +8,6 @@ keywords: ["Evermusic", "frakoblet musikkspiller", "iOS lydspiller", "skymusikka
 tags: ["Evermusic", "frakoblet avspilling", "skymusikk", "MP3-spiller", "iPhone-apper", "lydstrømming", "musikkbehandling", "Mac-apper", "mediaspiller"]
 aliases:
   - /evermusic/
-  - /index.php/app/evermusic/
 appStoreUrl: "https://apps.apple.com/app/apple-store/id885367198?pt=95781850&ct=everappzcom&mt=8"
 appStoreId: "885367198"
 features: "Frakoblet musikkavspilling, Skystrømming (iCloud, Google Drive, Dropbox, OneDrive, MEGA, Box), Lydequalizer med forhåndsinnstillinger, Crossfade og sømløs avspilling, M3U spilleliste import/eksport, Sangtekstvisning, Lydbokmerker, Apple CarPlay, AirPlay og Chromecast, SMB/WebDAV/DLNA-støtte, USB-minnepinne avspilling, Last.fm scrobbling"

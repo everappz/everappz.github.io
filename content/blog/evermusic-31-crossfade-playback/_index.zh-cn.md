@@ -7,10 +7,7 @@ tags: ["Evermusic", "交叉淡入淡出", "音乐库", "备份", "音频队列",
 draft: false
 aliases:
   - /post/evermusic-31-crossfade-playback/
-  - /amp/evermusic-31-crossfade-playback/
   - /single-post/Evermusic-Sync-your-Music-Library-Save-playback-position-Correct-music-tags/
-  - /amp/Evermusic-Sync-your-Music-Library-Save-playback-position-Correct-music-tags/
-  - /index.php/2016/05/26/evermusic-2-3-sync-you-music-library-automatically/
 cascade:
   type: docs
 authors:

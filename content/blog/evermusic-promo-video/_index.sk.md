@@ -7,7 +7,6 @@ tags: ["evermusic", "propagácia", "video", "ios", "hudba", "cloud", "prehráva�
 draft: false
 aliases:
   - /post/evermusic-promo-video/
-  - /amp/evermusic-promo-video/
 cascade:
   type: docs
 authors:

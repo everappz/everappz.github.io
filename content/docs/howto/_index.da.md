@@ -5,7 +5,6 @@ title: 'Vejledninger'
 description: 'Trin-for-trin-vejledninger og tips til at hjælpe dig med at opsætte, bruge og få mest muligt ud af Everappz-apps.'
 excludeSearch: true
 aliases:
-  - /index.php/category/how-to/
   - /post/how-to-/
 ---
 

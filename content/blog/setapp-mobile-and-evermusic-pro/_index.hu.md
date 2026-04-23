@@ -7,7 +7,6 @@ tags: ["evermusic", "setapp", "felhő", "audio", "mobil", "piactér", "zene", "i
 draft: false
 aliases:
   - /post/setapp-mobile-and-evermusic-pro/
-  - /amp/setapp-mobile-and-evermusic-pro/
 cascade:
   type: docs
 authors:

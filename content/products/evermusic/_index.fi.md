@@ -8,7 +8,6 @@ keywords: ["Evermusic", "offline-musiikkisoitin", "iOS-äänisoitin", "pilvimusi
 tags: ["Evermusic", "offline-toisto", "pilvimusiikki", "MP3-soitin", "iPhone-sovellukset", "äänisuoratoisto", "musiikin hallinta", "Mac-sovellukset", "mediasoitin"]
 aliases:
   - /evermusic/
-  - /index.php/app/evermusic/
 appStoreUrl: "https://apps.apple.com/app/apple-store/id885367198?pt=95781850&ct=everappzcom&mt=8"
 appStoreId: "885367198"
 features: "Offline-musiikin toisto, Pilvisuoratoisto (iCloud, Google Drive, Dropbox, OneDrive, MEGA, Box), Äänitaajuuskorjain esiasetuksilla, Crossfade ja tauoton toisto, M3U-soittolistojen tuonti/vienti, Sanojen katselu, Äänikirjanmerkit, Apple CarPlay, AirPlay ja Chromecast, SMB/WebDAV/DLNA-tuki, USB-muistitikun toisto, Last.fm-scrobblaus"

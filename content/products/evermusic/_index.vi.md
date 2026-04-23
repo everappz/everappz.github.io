@@ -8,7 +8,6 @@ keywords: ["Evermusic", "trình phát nhạc ngoại tuyến", "trình phát âm
 tags: ["Evermusic", "phát ngoại tuyến", "nhạc đám mây", "trình phát MP3", "ứng dụng iPhone", "phát trực tuyến âm thanh", "quản lý nhạc", "ứng dụng Mac", "trình phát đa phương tiện"]
 aliases:
   - /evermusic/
-  - /index.php/app/evermusic/
 appStoreUrl: "https://apps.apple.com/app/apple-store/id885367198?pt=95781850&ct=everappzcom&mt=8"
 appStoreId: "885367198"
 features: "Phát nhạc ngoại tuyến, Phát trực tuyến từ đám mây (iCloud, Google Drive, Dropbox, OneDrive, MEGA, Box), Bộ cân bằng âm thanh với cài đặt sẵn, Chuyển đổi mượt và phát liên tục, Nhập/xuất danh sách phát M3U, Trình xem lời bài hát, Đánh dấu âm thanh, Apple CarPlay, AirPlay và Chromecast, Hỗ trợ SMB/WebDAV/DLNA, Phát từ USB, Last.fm Scrobbling"

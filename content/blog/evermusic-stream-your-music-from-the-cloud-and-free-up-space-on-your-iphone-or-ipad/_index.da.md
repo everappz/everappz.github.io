@@ -7,11 +7,7 @@ tags: ["lyd", "streaming", "afspiller", "mp3", "download", "GoogleDrive", "Dropb
 draft: false
 aliases:
   - /post/evermusic-stream-your-music-from-the-cloud-and-free-up-space-on-your-iphone-or-ipad/
-  - /amp/evermusic-stream-your-music-from-the-cloud-and-free-up-space-on-your-iphone-or-ipad/
   - /single-post/Evermusic-stream-your-music-from-the-cloud-and-free-up-space-on-your-iPhone-or-iPad/
-  - /index.php/2014/10/25/apppicker-evermusic-carry-your-music-with-you/
-  - /index.php/2016/05/26/free-up-space-on-your-iphone-or-ipad-and-stream-your-music-from-the-cloud/
-  - /index.php/2015/07/10/theappzine-evermusic-stream-music-from-a-cloud/
 cascade:
   type: docs
 authors:

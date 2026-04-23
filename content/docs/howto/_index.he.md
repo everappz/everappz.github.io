@@ -5,7 +5,6 @@ title: 'כיצד לעשות'
 description: 'מדריכים שלב-אחר-שלב וטיפים שיעזרו לך להגדיר, להשתמש ולהפיק את המירב מאפליקציות Everappz.'
 excludeSearch: true
 aliases:
-  - /index.php/category/how-to/
   - /post/how-to-/
 ---
 

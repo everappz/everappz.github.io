@@ -13,8 +13,6 @@ tags: [
   "configurazione cloud", "problemi di riproduzione", "gestione file", "modifica metadati",
   "risoluzione problemi", "modalità offline", "lettore musicale", "lettore video"
 ]
-aliases:
-  - /blog/categories/how-to/
 ---
 
 

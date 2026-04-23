@@ -8,7 +8,6 @@ readingTime: 2
 draft: false
 aliases:
   - /post/how-to-connect-nas-storage-using-webdav-and-listen-to-music-on-your-iphone-or-mac/
-  - /amp/how-to-connect-nas-storage-using-webdav-and-listen-to-music-on-your-iphone-or-mac/
 ---
 
 {{< author-byline >}}

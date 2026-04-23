@@ -13,8 +13,6 @@ tags: [
   "音樂播放器說明", "視訊播放器指南", "音訊標籤編輯", "雲端設定",
   "播放設定", "CarPlay", "AirPlay", "離線模式", "媒體庫"
 ]
-aliases:
-  - /blog/categories/guide/
 ---
 
 

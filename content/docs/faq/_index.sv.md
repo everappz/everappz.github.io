@@ -13,8 +13,6 @@ tags: [
   "molninställning", "uppspelningsproblem", "filhantering", "metadataredigering",
   "felsökning", "offlineläge", "musikspelare", "videospelare"
 ]
-aliases:
-  - /blog/categories/how-to/
 ---
 
 

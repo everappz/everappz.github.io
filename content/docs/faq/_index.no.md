@@ -13,8 +13,6 @@ tags: [
   "skyoppsett", "avspillingsproblemer", "filhåndtering", "metadataredigering",
   "feilsøking", "frakoblet modus", "musikkspiller", "videospiller"
 ]
-aliases:
-  - /blog/categories/how-to/
 ---
 
 

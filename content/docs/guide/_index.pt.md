@@ -13,8 +13,6 @@ tags: [
   "ajuda do player de música", "guia do player de vídeo", "edição de tags de áudio", "configuração na nuvem",
   "configurações de reprodução", "CarPlay", "AirPlay", "modo offline", "biblioteca de mídia"
 ]
-aliases:
-  - /blog/categories/guide/
 ---
 
 

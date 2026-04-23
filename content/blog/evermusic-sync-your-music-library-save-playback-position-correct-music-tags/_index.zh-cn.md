@@ -7,7 +7,6 @@ tags: ["evermusic", "音乐", "播放", "管理器", "编辑器", "同步", "位
 draft: false
 aliases:
   - /post/evermusic-sync-your-music-library-save-playback-position-correct-music-tags/
-  - /amp/evermusic-sync-your-music-library-save-playback-position-correct-music-tags/
 cascade:
   type: docs
 authors:

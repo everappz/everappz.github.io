@@ -13,8 +13,6 @@ tags: [
   "skyopsætning", "afspilningsproblemer", "filhåndtering", "metadataredigering",
   "fejlfinding", "offline-tilstand", "musikafspiller", "videoafspiller"
 ]
-aliases:
-  - /blog/categories/how-to/
 ---
 
 

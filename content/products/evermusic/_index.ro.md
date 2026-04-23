@@ -8,7 +8,6 @@ keywords: ["Evermusic", "player muzică offline", "player audio iOS", "aplicați
 tags: ["Evermusic", "redare offline", "muzică cloud", "player MP3", "aplicații iPhone", "streaming audio", "gestionare muzică", "aplicații Mac", "player media"]
 aliases:
   - /evermusic/
-  - /index.php/app/evermusic/
 appStoreUrl: "https://apps.apple.com/app/apple-store/id885367198?pt=95781850&ct=everappzcom&mt=8"
 appStoreId: "885367198"
 features: "Redare muzică offline, Streaming din cloud (iCloud, Google Drive, Dropbox, OneDrive, MEGA, Box), Egalizator audio cu presetări, Crossfade și redare fără pauze, Import/export playlist-uri M3U, Vizualizator versuri, Marcaje audio, Apple CarPlay, AirPlay și Chromecast, Suport SMB/WebDAV/DLNA, Redare de pe stick USB, Scrobbling Last.fm"

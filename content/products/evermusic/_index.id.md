@@ -8,7 +8,6 @@ keywords: ["Evermusic", "pemutar musik offline", "pemutar audio iOS", "aplikasi 
 tags: ["Evermusic", "pemutaran offline", "musik cloud", "pemutar MP3", "aplikasi iPhone", "streaming audio", "manajemen musik", "aplikasi Mac", "pemutar media"]
 aliases:
   - /evermusic/
-  - /index.php/app/evermusic/
 appStoreUrl: "https://apps.apple.com/app/apple-store/id885367198?pt=95781850&ct=everappzcom&mt=8"
 appStoreId: "885367198"
 features: "Pemutaran musik offline, Streaming cloud (iCloud, Google Drive, Dropbox, OneDrive, MEGA, Box), Equalizer audio dengan preset, Crossfade dan pemutaran tanpa jeda, Impor/ekspor playlist M3U, Penampil lirik, Penanda audio, Apple CarPlay, AirPlay dan Chromecast, Dukungan SMB/WebDAV/DLNA, Pemutaran flash drive USB, Last.fm scrobbling"

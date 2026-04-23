@@ -7,7 +7,6 @@ tags: ["jämförelse", "evermusic", "vox", "moln", "ljudböcker", "taggar", "str
 draft: false
 aliases:
   - /post/evermusic-vs-vox-a-comprehensive-comparison/
-  - /amp/evermusic-vs-vox-a-comprehensive-comparison/
 sidebar:
   exclude: true
 cascade:

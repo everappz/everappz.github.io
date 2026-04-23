@@ -13,8 +13,6 @@ tags: [
   "pengaturan cloud", "masalah pemutaran", "manajemen file", "pengeditan metadata",
   "pemecahan masalah", "mode offline", "pemutar musik", "pemutar video"
 ]
-aliases:
-  - /blog/categories/how-to/
 ---
 
 

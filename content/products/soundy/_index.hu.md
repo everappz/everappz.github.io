@@ -12,7 +12,6 @@ keywords: ["Soundy", "SoundCloud lejátszó iPhone", "iOS zenei hangszínszabál
 tags: ["Soundy", "SoundCloud", "iOS alkalmazások", "zenei hangszínszabályzó", "audiolejátszó", "offline lejátszás", "zenei alkalmazás iPhone", "megszűnt alkalmazások", "médialejátszó", "zenei streaming"]
 aliases:
   - /soundy/
-  - /index.php/app/sound-beats/
 ---
 
 <div class="hx:w-full hx:max-w-screen-lg hx:mx-auto hx:flex hx:flex-col hx:items-center hx:justify-center hx:text-center">

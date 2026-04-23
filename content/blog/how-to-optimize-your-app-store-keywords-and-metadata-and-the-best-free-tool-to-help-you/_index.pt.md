@@ -6,7 +6,6 @@ keywords: ["guia de palavras-chave app store", "otimização de palavras-chave A
 tags: ["Otimização App Store", "ferramentas ASO gratuitas", "otimização de título app store", "ferramenta ASO gratuita", "estratégia de palavras-chave app store", "otimizador de metadados"]
 aliases:
   - /post/how-to-optimize-your-app-store-keywords-and-metadata-and-the-best-free-tool-to-help-you/
-  - /amp/how-to-optimize-your-app-store-keywords-and-metadata-and-the-best-free-tool-to-help-you/
 draft: false
 sidebar:
   exclude: true

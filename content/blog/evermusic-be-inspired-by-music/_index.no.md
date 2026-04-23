@@ -7,7 +7,6 @@ tags: ["Evermusic", "promo", "musikk", "video", "skymusikk", "iOS-app"]
 draft: false
 aliases:
   - /post/evermusic-be-inspired-by-music/
-  - /amp/evermusic-be-inspired-by-music/
 sidebar:
   exclude: true
 cascade:

@@ -7,7 +7,6 @@ tags: ["Evermusic", "download", "traguardo", "app musicali", "lettore cloud", "l
 draft: false
 aliases:
   - /post/evermusic-3-million-downloads/
-  - /amp/evermusic-3-million-downloads/
   - /single-post/Evermusic-3-million-downloads/
 cascade:
   type: docs

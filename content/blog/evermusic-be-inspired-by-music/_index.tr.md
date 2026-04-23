@@ -7,7 +7,6 @@ tags: ["Evermusic", "tanıtım", "müzik", "video", "bulut müzik", "iOS uygulam
 draft: false
 aliases:
   - /post/evermusic-be-inspired-by-music/
-  - /amp/evermusic-be-inspired-by-music/
 sidebar:
   exclude: true
 cascade:

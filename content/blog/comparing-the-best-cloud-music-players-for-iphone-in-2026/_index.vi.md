@@ -7,7 +7,6 @@ tags: ["music", "streaming", "apps", "iOS", "cloud music", "Evermusic", "Spotify
 draft: false
 aliases:
   - /post/comparing-the-best-cloud-music-players-for-iphone-in-2023/
-  - /amp/comparing-the-best-cloud-music-players-for-iphone-in-2023/
   - /blog/comparing-the-best-cloud-music-players-for-iphone-in-2023/
 cascade:
   type: docs

@@ -7,7 +7,6 @@ tags: ["порівняння", "evermusic", "vox", "хмара", "аудіокн
 draft: false
 aliases:
   - /post/evermusic-vs-vox-a-comprehensive-comparison/
-  - /amp/evermusic-vs-vox-a-comprehensive-comparison/
 sidebar:
   exclude: true
 cascade:

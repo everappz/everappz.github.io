@@ -7,7 +7,6 @@ tags: ["evervideo", "premium", "upgrade", "video", "offline", "difference"]
 draft: false
 aliases:
   - /post/what-is-the-difference-between-evervideo-and-evervideo-premium/
-  - /amp/what-is-the-difference-between-evervideo-and-evervideo-premium/
 readingTime: 3
 ---
 

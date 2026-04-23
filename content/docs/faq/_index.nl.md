@@ -13,8 +13,6 @@ tags: [
   "cloud instellen", "afspeelproblemen", "bestandsbeheer", "metadata bewerken",
   "probleemoplossing", "offline modus", "muziekspeler", "videospeler"
 ]
-aliases:
-  - /blog/categories/how-to/
 ---
 
 

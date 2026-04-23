@@ -7,7 +7,6 @@ tags: ["Flacbox", "kayıpsız", "hi-res ses", "müzik çalar", "ses", "kilometre
 draft: false
 aliases:
   - /post/flacbox-celebrates-1-million-worldwide-downloads-your-gateway-to-hi-res-music/
-  - /amp/flacbox-celebrates-1-million-worldwide-downloads-your-gateway-to-hi-res-music/
 cascade:
   type: docs
 authors:

@@ -12,7 +12,6 @@ keywords: ["Soundy", "SoundCloud 플레이어 iPhone", "iOS 음악 이퀄라이�
 tags: ["Soundy", "SoundCloud", "iOS 앱", "음악 이퀄라이저", "오디오 플레이어", "오프라인 재생", "음악 앱 iPhone", "중단된 앱", "미디어 플레이어", "음악 스트리밍"]
 aliases:
   - /soundy/
-  - /index.php/app/sound-beats/
 ---
 
 <div class="hx:w-full hx:max-w-screen-lg hx:mx-auto hx:flex hx:flex-col hx:items-center hx:justify-center hx:text-center">

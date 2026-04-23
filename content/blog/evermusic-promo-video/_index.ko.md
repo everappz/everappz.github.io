@@ -7,7 +7,6 @@ tags: ["evermusic", "프로모션", "영상", "ios", "음악", "클라우드", "
 draft: false
 aliases:
   - /post/evermusic-promo-video/
-  - /amp/evermusic-promo-video/
 cascade:
   type: docs
 authors:

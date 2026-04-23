@@ -8,7 +8,6 @@ tags: ["flacbox", "premium", "upgrade", "audio", "offline", "difference"]
 draft: false
 aliases:
   - /post/what-is-the-difference-between-flacbox-and-flacbox-premium/
-  - /amp/what-is-the-difference-between-flacbox-and-flacbox-premium/
 readingTime: 3
 ---
 

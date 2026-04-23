@@ -7,7 +7,6 @@ tags: ["audio", "iphone", "mp3", "lyrics", "lrc", "embedded", "view", "display"]
 keywords: ["view embedded lyrics iPhone", "Evermusic show lyrics", "LRC file Evermusic", "comment tag audio", "lyrics display Flacbox", "lyrics iOS music app", "audio player show lyrics"]
 aliases:
   - /post/how-to-view-embedded-lyrics-comments-lrc-file-for-music-on-your-iphone-or-mac/
-  - /amp/how-to-view-embedded-lyrics-comments-lrc-file-for-music-on-your-iphone-or-mac/
 ---
 
 {{< author-byline >}}

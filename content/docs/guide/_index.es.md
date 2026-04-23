@@ -5,8 +5,6 @@ title: 'Guía del usuario'
 description: 'Aprende a usar las aplicaciones de Everappz como Evermusic, Flacbox, Evervideo y Evertag. Configura conexiones en la nube, gestiona tu música y vídeos, personaliza la reproducción y explora todas las funciones en un solo lugar.'
 keywords: ["guía de usuario Evermusic", "cómo usar Flacbox", "soporte Evervideo", "manual Evertag", "configuración reproductor de música en la nube", "ayuda reproducción sin conexión", "instrucciones editor de etiquetas de audio", "guía de música Apple CarPlay", "tutorial reproductor de vídeo AirPlay", "configuración del ecualizador"]
 tags: ["guía de usuario", "tutorial de la aplicación", "evermusic", "flacbox", "evervideo", "evertag", "ayuda reproductor de música", "guía reproductor de vídeo", "edición de etiquetas de audio", "configuración en la nube", "ajustes de reproducción", "CarPlay", "AirPlay", "modo sin conexión", "biblioteca multimedia"]
-aliases:
-  - /blog/categories/guide/
 ---
 
 

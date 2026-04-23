@@ -7,7 +7,6 @@ tags: ["evermusic", "quảng cáo", "video", "ios", "nhạc", "đám mây", "tr�
 draft: false
 aliases:
   - /post/evermusic-promo-video/
-  - /amp/evermusic-promo-video/
 cascade:
   type: docs
 authors:

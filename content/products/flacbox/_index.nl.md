@@ -8,7 +8,6 @@ keywords: ["FLAC speler iPhone", "lossless muziekspeler", "hi-res audiospeler", 
 tags: ["FLAC speler", "Hi-Res audio", "offline afspelen", "cloud muziek", "DSD audio", "Mac apps", "iPhone apps", "USB audio iOS", "muziekbestandsbeheer", "audio equalizer", "metadata-editor", "MP3 speler", "SMB speler", "Chromecast muziek", "CarPlay muziekspeler", "multi-formaat ondersteuning", "muziek streamen", "audiobibliotheekbeheer"]
 aliases:
   - /flacbox/
-  - /index.php/app/flap/
 appStoreUrl: "https://apps.apple.com/app/apple-store/id1097564256?pt=95781850&ct=everappzcom&mt=8"
 appStoreId: "1097564256"
 features: "Hi-Res FLAC/DSD/APE/ALAC afspelen, Cloud streaming (iCloud, Google Drive, Dropbox, OneDrive, MEGA, Box), Audio-equalizer met presets, Crossfade en naadloos afspelen, M3U afspeellijst importeren/exporteren, Songteksten weergeven, Audio bladwijzers, Apple CarPlay, AirPlay en Chromecast, SMB/WebDAV/DLNA ondersteuning, USB-stick afspelen, Last.fm scrobbling, Ingebouwde tag-editor"

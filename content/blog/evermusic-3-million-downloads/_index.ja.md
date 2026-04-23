@@ -7,7 +7,6 @@ tags: ["Evermusic", "ダウンロード", "マイルストーン", "音楽アプ
 draft: false
 aliases:
   - /post/evermusic-3-million-downloads/
-  - /amp/evermusic-3-million-downloads/
   - /single-post/Evermusic-3-million-downloads/
 cascade:
   type: docs

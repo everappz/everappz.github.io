@@ -13,8 +13,6 @@ tags: [
   "bulut kurulum", "oynatma sorunları", "dosya yönetimi", "meta veri düzenleme",
   "sorun giderme", "çevrimdışı mod", "müzik çalar", "video oynatıcı"
 ]
-aliases:
-  - /blog/categories/how-to/
 ---
 
 

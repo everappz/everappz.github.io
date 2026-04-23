@@ -8,7 +8,6 @@ keywords: ["itunes file sharing", "play local music", "transfer music to iphone"
 draft: false
 aliases:
   - /post/how-to-play-local-itunes-files-on-my-iphone/
-  - /amp/how-to-play-local-itunes-files-on-my-iphone/
   - /single-post/How-to-play-local-itunes-files-on-my-iPhone/
 ---
 

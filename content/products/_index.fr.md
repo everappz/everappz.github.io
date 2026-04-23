@@ -19,8 +19,6 @@ tags: [
   "organisateur de bibliothèque multimédia", "égaliseur", "gestionnaire de fichiers", "diffusion NAS", 
   "Chromecast", "AirPlay", "CarPlay", "création de playlists"
 ]
-aliases:
-  - /index.php/apps/
 ---
 
 {{< lottie src="/images/juicy-json/juicy-website-designer-making-landing-page-at-laptop.json" width="85%" >}}

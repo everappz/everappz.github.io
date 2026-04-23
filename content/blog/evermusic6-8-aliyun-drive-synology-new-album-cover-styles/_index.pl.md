@@ -7,7 +7,6 @@ tags: ["Evermusic", "Aliyun Drive", "Synology", "Okładki albumów", "Muzyka w c
 draft: false
 aliases:
   - /post/evermusic6-8-aliyun-drive-synology-new-album-cover-styles/
-  - /amp/evermusic6-8-aliyun-drive-synology-new-album-cover-styles/
 cascade:
   type: docs
 authors:

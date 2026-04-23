@@ -7,7 +7,6 @@ tags: ["比较", "evermusic", "vox", "云", "有声书", "标签", "流媒体", 
 draft: false
 aliases:
   - /post/evermusic-vs-vox-a-comprehensive-comparison/
-  - /amp/evermusic-vs-vox-a-comprehensive-comparison/
 sidebar:
   exclude: true
 cascade:

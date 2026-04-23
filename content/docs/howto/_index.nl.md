@@ -5,7 +5,6 @@ title: 'Instructies'
 description: 'Stapsgewijze handleidingen en tips om u te helpen Everappz-apps in te stellen, te gebruiken en optimaal te benutten.'
 excludeSearch: true
 aliases:
-  - /index.php/category/how-to/
   - /post/how-to-/
 ---
 

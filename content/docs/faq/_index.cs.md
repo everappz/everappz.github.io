@@ -13,8 +13,6 @@ tags: [
   "nastavení cloudu", "problémy s přehráváním", "správa souborů", "úprava metadat",
   "řešení problémů", "offline režim", "přehrávač hudby", "přehrávač videa"
 ]
-aliases:
-  - /blog/categories/how-to/
 ---
 
 

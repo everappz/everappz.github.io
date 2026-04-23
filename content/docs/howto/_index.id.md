@@ -5,7 +5,6 @@ title: 'Cara Penggunaan'
 description: 'Panduan langkah demi langkah dan tips untuk membantu Anda mengatur, menggunakan, dan memaksimalkan penggunaan aplikasi Everappz.'
 excludeSearch: true
 aliases:
-  - /index.php/category/how-to/
   - /post/how-to-/
 ---
 

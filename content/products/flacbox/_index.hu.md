@@ -8,7 +8,6 @@ keywords: ["FLAC lejátszó iPhone", "veszteségmentes zenelejátszó", "hi-res 
 tags: ["FLAC lejátszó", "Hi-Res audió", "offline lejátszás", "felhő zene", "DSD audió", "Mac alkalmazások", "iPhone alkalmazások", "USB audió iOS", "zenefájl-kezelő", "audio hangszínszabályzó", "metaadat-szerkesztő", "MP3 lejátszó", "SMB lejátszó", "Chromecast zene", "CarPlay zenelejátszó", "több formátum támogatás", "zene streamelés", "audio könyvtárkezelő"]
 aliases:
   - /flacbox/
-  - /index.php/app/flap/
 appStoreUrl: "https://apps.apple.com/app/apple-store/id1097564256?pt=95781850&ct=everappzcom&mt=8"
 appStoreId: "1097564256"
 features: "Hi-Res FLAC/DSD/APE/ALAC lejátszás, Felhő streamelés (iCloud, Google Drive, Dropbox, OneDrive, MEGA, Box), Audio hangszínszabályzó előbeállításokkal, Crossfade és szünetmentes lejátszás, M3U lejátszási lista importálás/exportálás, Dalszöveg-megjelenítő, Audio könyvjelzők, Apple CarPlay, AirPlay és Chromecast, SMB/WebDAV/DLNA támogatás, USB flash meghajtó lejátszás, Last.fm scrobbling, Beépített címkeszerkesztő"

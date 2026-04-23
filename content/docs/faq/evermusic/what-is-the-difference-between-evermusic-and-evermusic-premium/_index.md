@@ -8,7 +8,6 @@ tags: ["Evermusic", "Premium", "Difference", "Pro", "Free vs Paid", "Music App",
 draft: false
 aliases:
   - /post/what-is-the-difference-between-evermusic-and-evermusic-premium/
-  - /amp/what-is-the-difference-between-evermusic-and-evermusic-premium/
 ---
 
 

@@ -7,7 +7,6 @@ tags: ["แอปเพลง", "iOS", "Evermusic", "Apple Music", "Spotify", "V
 draft: false
 aliases:
   - /post/discover-the-ultimate-iphone-music-player-apps-evermusic-and-beyond/
-  - /amp/discover-the-ultimate-iphone-music-player-apps-evermusic-and-beyond/
 cascade:
   type: docs
 authors:

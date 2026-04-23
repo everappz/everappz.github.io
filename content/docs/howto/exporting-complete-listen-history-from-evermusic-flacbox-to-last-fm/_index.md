@@ -8,7 +8,6 @@ readingTime: 5
 draft: false
 aliases:
   - /post/exporting-complete-listen-history-from-evermusic-flacbox-to-last-fm/
-  - /amp/exporting-complete-listen-history-from-evermusic-flacbox-to-last-fm/
 ---
 
 {{< author-byline >}}

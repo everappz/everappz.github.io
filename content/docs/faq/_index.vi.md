@@ -13,8 +13,6 @@ tags: [
   "cài đặt đám mây", "sự cố phát lại", "quản lý tệp", "chỉnh sửa siêu dữ liệu",
   "khắc phục sự cố", "chế độ ngoại tuyến", "trình phát nhạc", "trình phát video"
 ]
-aliases:
-  - /blog/categories/how-to/
 ---
 
 

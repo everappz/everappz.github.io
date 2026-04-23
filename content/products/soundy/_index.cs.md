@@ -12,7 +12,6 @@ keywords: ["Soundy", "přehrávač SoundCloud iPhone", "iOS hudební ekvalizér"
 tags: ["Soundy", "SoundCloud", "iOS aplikace", "hudební ekvalizér", "audio přehrávač", "offline přehrávání", "hudební aplikace iPhone", "ukončené aplikace", "mediální přehrávač", "streamování hudby"]
 aliases:
   - /soundy/
-  - /index.php/app/sound-beats/
 ---
 
 <div class="hx:w-full hx:max-w-screen-lg hx:mx-auto hx:flex hx:flex-col hx:items-center hx:justify-center hx:text-center">

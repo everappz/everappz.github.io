@@ -12,7 +12,6 @@ keywords: ["Soundy", "pemutar SoundCloud iPhone", "equalizer musik iOS", "equali
 tags: ["Soundy", "SoundCloud", "aplikasi iOS", "equalizer musik", "pemutar audio", "pemutaran offline", "aplikasi musik iPhone", "aplikasi dihentikan", "pemutar media", "streaming musik"]
 aliases:
   - /soundy/
-  - /index.php/app/sound-beats/
 ---
 
 <div class="hx:w-full hx:max-w-screen-lg hx:mx-auto hx:flex hx:flex-col hx:items-center hx:justify-center hx:text-center">

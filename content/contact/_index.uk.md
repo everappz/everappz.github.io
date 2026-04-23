@@ -4,7 +4,6 @@ draft: false
 title: "Зв'яжіться з нами"
 aliases:
   - /contact-us/
-  - /index.php/contact-us/
 ---
 
 {{< lottie src="/images/juicy-json/juicy-girl-typing-on-phone.json" width="60%" >}}

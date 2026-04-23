@@ -13,8 +13,6 @@ tags: [
   "hjälp musikspelare", "guide videospelare", "redigering ljudtaggar", "molninställning",
   "uppspelningsinställningar", "CarPlay", "AirPlay", "offlineläge", "mediebibliotek"
 ]
-aliases:
-  - /blog/categories/guide/
 ---
 
 

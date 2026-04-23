@@ -7,7 +7,6 @@ tags: ["Evermusic", "프로모션", "음악", "영상", "클라우드 음악", "
 draft: false
 aliases:
   - /post/evermusic-be-inspired-by-music/
-  - /amp/evermusic-be-inspired-by-music/
 sidebar:
   exclude: true
 cascade:

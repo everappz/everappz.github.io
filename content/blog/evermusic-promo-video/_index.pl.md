@@ -7,7 +7,6 @@ tags: ["evermusic", "promocja", "wideo", "ios", "muzyka", "chmura", "odtwarzacz"
 draft: false
 aliases:
   - /post/evermusic-promo-video/
-  - /amp/evermusic-promo-video/
 cascade:
   type: docs
 authors:

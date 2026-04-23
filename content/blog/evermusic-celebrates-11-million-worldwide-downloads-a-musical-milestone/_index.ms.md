@@ -7,7 +7,6 @@ tags: ["Evermusic", "pencapaian", "muzik awan", "main balik luar talian", "iClou
 draft: false
 aliases:
   - /post/evermusic-celebrates-11-million-worldwide-downloads-a-musical-milestone/
-  - /amp/evermusic-celebrates-11-million-worldwide-downloads-a-musical-milestone/
 cascade:
   type: docs
 authors:

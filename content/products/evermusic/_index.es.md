@@ -8,7 +8,6 @@ keywords: ["Evermusic", "reproductor de música sin conexión", "reproductor de 
 tags: ["Evermusic", "reproducción sin conexión", "música en la nube", "reproductor MP3", "aplicaciones iPhone", "transmisión de audio", "gestión de música", "aplicaciones Mac", "reproductor multimedia"]
 aliases:
   - /evermusic/
-  - /index.php/app/evermusic/
 appStoreUrl: "https://apps.apple.com/app/apple-store/id885367198?pt=95781850&ct=everappzcom&mt=8"
 appStoreId: "885367198"
 features: "Reproducción de música sin conexión, Transmisión desde la nube (iCloud, Google Drive, Dropbox, OneDrive, MEGA, Box), Ecualizador de audio con preajustes, Crossfade y reproducción sin pausas, Importación/exportación de listas de reproducción M3U, Visor de letras, Marcadores de audio, Apple CarPlay, AirPlay y Chromecast, Soporte SMB/WebDAV/DLNA, Reproducción desde unidad USB, Scrobbling Last.fm"

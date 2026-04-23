@@ -7,7 +7,6 @@ keywords: ["record video while playing music on iPhone", "how to play music whil
 readingTime: 1
 aliases:
   - /post/how-to-record-video-while-playing-music-on-iphone/
-  - /amp/how-to-record-video-while-playing-music-on-iphone/
 ---
 
 {{< author-byline >}}

@@ -8,7 +8,6 @@ keywords: ["Evermusic", "Offline-Musikplayer", "iOS Audio-Player", "Cloud-Musik-
 tags: ["Evermusic", "Offline-Wiedergabe", "Cloud-Musik", "MP3 Player", "iPhone Apps", "Audio-Streaming", "Musikverwaltung", "Mac Apps", "Mediaplayer"]
 aliases:
   - /evermusic/
-  - /index.php/app/evermusic/
 appStoreUrl: "https://apps.apple.com/app/apple-store/id885367198?pt=95781850&ct=everappzcom&mt=8"
 appStoreId: "885367198"
 features: "Offline-Musikwiedergabe, Cloud-Streaming (iCloud, Google Drive, Dropbox, OneDrive, MEGA, Box), Audio-Equalizer mit Voreinstellungen, Crossfade und lückenlose Wiedergabe, M3U Playlist Import/Export, Liedtextanzeige, Audio-Lesezeichen, Apple CarPlay, AirPlay und Chromecast, SMB/WebDAV/DLNA-Unterstützung, USB-Stick-Wiedergabe, Last.fm Scrobbling"

@@ -5,8 +5,6 @@ title: 'Panduan Pengguna'
 description: 'Pelajari cara menggunakan aplikasi Everappz seperti Evermusic, Flacbox, Evervideo, dan Evertag. Siapkan koneksi cloud, kelola musik dan video Anda, sesuaikan pemutaran, dan jelajahi semua fitur dalam satu tempat.'
 keywords: ["panduan pengguna Evermusic", "cara menggunakan Flacbox", "dukungan Evervideo", "manual Evertag", "pengaturan pemutar musik cloud", "bantuan pemutaran offline", "petunjuk editor tag audio", "panduan musik Apple CarPlay", "tutorial pemutar video AirPlay", "konfigurasi ekualizer"]
 tags: ["panduan pengguna", "tutorial aplikasi", "evermusic", "flacbox", "evervideo", "evertag", "bantuan pemutar musik", "panduan pemutar video", "pengeditan tag audio", "pengaturan cloud", "pengaturan pemutaran", "CarPlay", "AirPlay", "mode offline", "perpustakaan media"]
-aliases:
-  - /blog/categories/guide/
 ---
 
 

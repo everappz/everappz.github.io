@@ -3,7 +3,6 @@ date: '2025-06-12T17:00:00+00:00'
 draft: false
 title: 'Términos y Condiciones'
 aliases:
-  - /index.php/terms-and-conditions/
   - /terms-and-conditions/
   - /terms-and-conditionsDec/
   - /terms-and-condition/

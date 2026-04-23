@@ -13,8 +13,6 @@ tags: [
   "Cloud-Einrichtung", "Wiedergabeprobleme", "Dateiverwaltung", "Metadaten-Bearbeitung",
   "Fehlerbehebung", "Offline-Modus", "Musikplayer", "Videoplayer"
 ]
-aliases:
-  - /blog/categories/how-to/
 ---
 
 

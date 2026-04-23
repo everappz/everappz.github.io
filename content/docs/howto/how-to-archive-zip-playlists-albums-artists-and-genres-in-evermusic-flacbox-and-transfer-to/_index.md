@@ -8,7 +8,6 @@ readingTime: 2
 draft: false
 aliases:
   - /post/how-to-archive-zip-playlists-albums-artists-and-genres-in-evermusic-flacbox-and-transfer-to/
-  - /amp/how-to-archive-zip-playlists-albums-artists-and-genres-in-evermusic-flacbox-and-transfer-to/
 ---
 
 {{< author-byline >}}

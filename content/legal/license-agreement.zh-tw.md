@@ -3,7 +3,6 @@ date: '2025-06-12T17:00:00+00:00'
 draft: false
 title: '授權合約'
 aliases:
-  - /index.php/license-agreement/
   - /license-agreement/
 ---
 

@@ -7,7 +7,6 @@ tags: ["比較", "evermusic", "vox", "雲端", "有聲書", "標籤", "串流", 
 draft: false
 aliases:
   - /post/evermusic-vs-vox-a-comprehensive-comparison/
-  - /amp/evermusic-vs-vox-a-comprehensive-comparison/
 sidebar:
   exclude: true
 cascade:

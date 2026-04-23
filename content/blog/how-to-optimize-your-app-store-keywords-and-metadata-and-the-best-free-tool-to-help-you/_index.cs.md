@@ -6,7 +6,6 @@ keywords: ["průvodce klíčovými slovy app store", "optimalizace klíčových 
 tags: ["Optimalizace App Store", "bezplatné ASO nástroje", "optimalizace názvu app store", "bezplatný ASO nástroj", "strategie klíčových slov app store", "optimalizátor metadat"]
 aliases:
   - /post/how-to-optimize-your-app-store-keywords-and-metadata-and-the-best-free-tool-to-help-you/
-  - /amp/how-to-optimize-your-app-store-keywords-and-metadata-and-the-best-free-tool-to-help-you/
 draft: false
 sidebar:
   exclude: true

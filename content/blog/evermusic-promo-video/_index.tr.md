@@ -7,7 +7,6 @@ tags: ["evermusic", "tanıtım", "video", "ios", "müzik", "bulut", "çalar", "m
 draft: false
 aliases:
   - /post/evermusic-promo-video/
-  - /amp/evermusic-promo-video/
 cascade:
   type: docs
 authors:

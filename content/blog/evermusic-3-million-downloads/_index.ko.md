@@ -7,7 +7,6 @@ tags: ["Evermusic", "다운로드", "마일스톤", "음악 앱", "클라우드 
 draft: false
 aliases:
   - /post/evermusic-3-million-downloads/
-  - /amp/evermusic-3-million-downloads/
   - /single-post/Evermusic-3-million-downloads/
 cascade:
   type: docs

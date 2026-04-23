@@ -19,8 +19,6 @@ tags: [
   "मीडिया लाइब्रेरी ऑर्गनाइज़र", "इक्वलाइज़र", "फ़ाइल मैनेजर", "NAS स्ट्रीमिंग", 
   "Chromecast", "AirPlay", "CarPlay", "प्लेलिस्ट बनाना"
 ]
-aliases:
-  - /index.php/apps/
 ---
 
 {{< lottie src="/images/juicy-json/juicy-website-designer-making-landing-page-at-laptop.json" width="85%" >}}

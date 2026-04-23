@@ -7,7 +7,6 @@ tags: ["evermusic", "setapp", "cloud", "lyd", "mobil", "marketplace", "musik", "
 draft: false
 aliases:
   - /post/setapp-mobile-and-evermusic-pro/
-  - /amp/setapp-mobile-and-evermusic-pro/
 cascade:
   type: docs
 authors:

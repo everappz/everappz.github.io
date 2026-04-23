@@ -8,7 +8,6 @@ keywords: ["Evermusic", "pemain muzik luar talian", "pemain audio iOS", "aplikas
 tags: ["Evermusic", "main balik luar talian", "muzik awan", "pemain MP3", "aplikasi iPhone", "penstriman audio", "pengurusan muzik", "aplikasi Mac", "pemain media"]
 aliases:
   - /evermusic/
-  - /index.php/app/evermusic/
 appStoreUrl: "https://apps.apple.com/app/apple-store/id885367198?pt=95781850&ct=everappzcom&mt=8"
 appStoreId: "885367198"
 features: "Main balik muzik luar talian, Penstriman awan (iCloud, Google Drive, Dropbox, OneDrive, MEGA, Box), Penyama audio dengan pratetap, Crossfade dan main balik tanpa jeda, Import/eksport senarai main M3U, Pemapar lirik, Penanda buku audio, Apple CarPlay, AirPlay dan Chromecast, Sokongan SMB/WebDAV/DLNA, Main balik pemacu kilat USB, Last.fm scrobbling"

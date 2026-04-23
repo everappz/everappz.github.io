@@ -13,8 +13,6 @@ tags: [
   "müzik çalar yardımı", "video oynatıcı kılavuzu", "ses etiketi düzenleme", "bulut kurulum",
   "oynatma ayarları", "CarPlay", "AirPlay", "çevrimdışı mod", "medya kütüphanesi"
 ]
-aliases:
-  - /blog/categories/guide/
 ---
 
 

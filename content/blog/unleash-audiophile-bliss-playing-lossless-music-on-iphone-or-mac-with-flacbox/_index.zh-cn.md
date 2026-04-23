@@ -7,7 +7,6 @@ tags: ["flacbox", "音乐", "音频", "无损", "iphone", "mac", "flac", "dsd", 
 draft: false
 aliases:
   - /post/unleash-audiophile-bliss-playing-lossless-music-on-iphone-or-mac-with-flacbox/
-  - /amp/unleash-audiophile-bliss-playing-lossless-music-on-iphone-or-mac-with-flacbox/
 cascade:
   type: docs
 authors:

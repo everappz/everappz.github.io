@@ -4,7 +4,6 @@ draft: false
 title: 'Kontakt oss'
 aliases:
   - /contact-us/
-  - /index.php/contact-us/
 ---
 
 {{< lottie src="/images/juicy-json/juicy-girl-typing-on-phone.json" width="60%" >}}

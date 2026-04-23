@@ -19,8 +19,6 @@ tags: [
   "mediebibliotekorganisator", "equalizer", "filbehandler", "NAS-strømming", 
   "Chromecast", "AirPlay", "CarPlay", "spillelisteoppretting"
 ]
-aliases:
-  - /index.php/apps/
 ---
 
 {{< lottie src="/images/juicy-json/juicy-website-designer-making-landing-page-at-laptop.json" width="85%" >}}

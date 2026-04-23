@@ -17,7 +17,6 @@ keywords: [
 readingTime: 3
 aliases:
   - /post/how-to-transfer-files-from-my-mac-to-iphone-or-ipad-using-finder/
-  - /amp/how-to-transfer-files-from-my-mac-to-iphone-or-ipad-using-finder/
 ---
 
 {{< author-byline >}}

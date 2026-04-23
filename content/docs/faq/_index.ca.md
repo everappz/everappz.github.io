@@ -13,8 +13,6 @@ tags: [
   "configuració al núvol", "problemes de reproducció", "gestió de fitxers", "edició de metadades",
   "solució de problemes", "mode sense connexió", "reproductor de música", "reproductor de vídeo"
 ]
-aliases:
-  - /blog/categories/how-to/
 ---
 
 

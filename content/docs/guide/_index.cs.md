@@ -5,8 +5,6 @@ title: 'Uživatelská příručka'
 description: 'Naučte se používat aplikace Everappz jako Evermusic, Flacbox, Evervideo a Evertag. Nastavte cloudová připojení, spravujte hudbu a videa, přizpůsobte přehrávání a prozkoumejte všechny funkce na jednom místě.'
 keywords: ["uživatelská příručka Evermusic", "jak používat Flacbox", "podpora Evervideo", "manuál Evertag", "nastavení cloudového přehrávače hudby", "pomoc s přehráváním offline", "pokyny editoru hudebních tagů", "průvodce hudbou Apple CarPlay", "výukový program pro přehrávač videa AirPlay", "konfigurace ekvalizéru"]
 tags: ["uživatelská příručka", "výukový program aplikace", "evermusic", "flacbox", "evervideo", "evertag", "pomoc s přehrávačem hudby", "průvodce přehrávačem videa", "úprava hudebních tagů", "nastavení cloudu", "nastavení přehrávání", "CarPlay", "AirPlay", "offline režim", "knihovna médií"]
-aliases:
-  - /blog/categories/guide/
 ---
 
 

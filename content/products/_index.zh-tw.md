@@ -19,8 +19,6 @@ tags: [
   "媒體庫管理器", "等化器", "檔案管理器", "NAS 串流", 
   "Chromecast", "AirPlay", "CarPlay", "建立播放清單"
 ]
-aliases:
-  - /index.php/apps/
 ---
 
 {{< lottie src="/images/juicy-json/juicy-website-designer-making-landing-page-at-laptop.json" width="85%" >}}

@@ -19,8 +19,6 @@ tags: [
   "mediebiblioteksorganiserare", "equalizer", "filhanterare", "NAS-strömning", 
   "Chromecast", "AirPlay", "CarPlay", "skapa spellistor"
 ]
-aliases:
-  - /index.php/apps/
 ---
 
 {{< lottie src="/images/juicy-json/juicy-website-designer-making-landing-page-at-laptop.json" width="85%" >}}

@@ -8,7 +8,6 @@ keywords: ["pemain FLAC iPhone", "pemain muzik lossless", "pemain audio hi-res",
 tags: ["pemain FLAC", "audio Hi-Res", "main balik luar talian", "muzik awan", "audio DSD", "aplikasi Mac", "aplikasi iPhone", "audio USB iOS", "pengurus fail muzik", "penyama audio", "penyunting metadata", "pemain MP3", "pemain SMB", "muzik Chromecast", "pemain muzik CarPlay", "sokongan pelbagai format", "penstriman muzik", "pengurus perpustakaan audio"]
 aliases:
   - /flacbox/
-  - /index.php/app/flap/
 appStoreUrl: "https://apps.apple.com/app/apple-store/id1097564256?pt=95781850&ct=everappzcom&mt=8"
 appStoreId: "1097564256"
 features: "Main balik Hi-Res FLAC/DSD/APE/ALAC, Penstriman awan (iCloud, Google Drive, Dropbox, OneDrive, MEGA, Box), Penyama audio dengan pratetap, Crossfade dan main balik tanpa jeda, Import/eksport senarai main M3U, Pemapar lirik, Penanda buku audio, Apple CarPlay, AirPlay dan Chromecast, Sokongan SMB/WebDAV/DLNA, Main balik pemacu kilat USB, Scrobbling Last.fm, Penyunting tag terbina dalam"

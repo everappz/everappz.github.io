@@ -8,7 +8,6 @@ keywords: ["FLAC player iPhone", "αναπαραγωγή μουσικής χωρ
 tags: ["FLAC player", "Hi-Res ήχος", "offline αναπαραγωγή", "cloud μουσική", "DSD ήχος", "εφαρμογές Mac", "εφαρμογές iPhone", "USB ήχος iOS", "διαχείριση μουσικών αρχείων", "ισοσταθμιστής ήχου", "επεξεργαστής μεταδεδομένων", "MP3 player", "SMB player", "Chromecast μουσική", "CarPlay music player", "υποστήριξη πολλαπλών μορφών", "streaming μουσικής", "διαχείριση βιβλιοθήκης ήχου"]
 aliases:
   - /flacbox/
-  - /index.php/app/flap/
 appStoreUrl: "https://apps.apple.com/app/apple-store/id1097564256?pt=95781850&ct=everappzcom&mt=8"
 appStoreId: "1097564256"
 features: "Hi-Res αναπαραγωγή FLAC/DSD/APE/ALAC, Cloud streaming (iCloud, Google Drive, Dropbox, OneDrive, MEGA, Box), Ισοσταθμιστής ήχου με προεπιλογές, Crossfade και αδιάκοπη αναπαραγωγή, Εισαγωγή/εξαγωγή λιστών M3U, Προβολή στίχων, Σελιδοδείκτες ήχου, Apple CarPlay, AirPlay και Chromecast, Υποστήριξη SMB/WebDAV/DLNA, Αναπαραγωγή από USB flash drive, Last.fm scrobbling, Ενσωματωμένος επεξεργαστής tags"

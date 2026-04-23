@@ -7,7 +7,6 @@ tags: ["Evermusic", "ترويج", "فيديو", "iOS", "موسيقى", "سحاب
 draft: false
 aliases:
   - /post/evermusic-promo-video/
-  - /amp/evermusic-promo-video/
 cascade:
   type: docs
 authors:

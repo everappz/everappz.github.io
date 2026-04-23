@@ -7,7 +7,6 @@ tags: ["music", "audio", "player", "offline", "mode", "download", "folder", "cac
 keywords: ["offline music iPhone", "cloud music sync", "Evermusic offline", "Flacbox sync music", "play music without internet", "download audio from cloud", "local file playback iOS"]
 aliases:
   - /post/play-offline-music-in-evermusic-flacbox-download-sync-from-cloud-to-local-files/
-  - /amp/play-offline-music-in-evermusic-flacbox-download-sync-from-cloud-to-local-files/
 ---
 
 {{< author-byline >}}

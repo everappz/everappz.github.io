@@ -13,8 +13,6 @@ tags: [
   "hulp muziekspeler", "gids videospeler", "audio tag bewerken", "cloud instellen",
   "afspelinstellingen", "CarPlay", "AirPlay", "offline modus", "mediabibliotheek"
 ]
-aliases:
-  - /blog/categories/guide/
 ---
 
 

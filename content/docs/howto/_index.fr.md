@@ -5,7 +5,6 @@ title: 'Comment faire'
 description: 'Guides étape par étape et conseils pour vous aider à configurer, utiliser et tirer le meilleur parti des applications Everappz.'
 excludeSearch: true
 aliases:
-  - /index.php/category/how-to/
   - /post/how-to-/
 ---
 

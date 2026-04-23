@@ -6,7 +6,6 @@ keywords: ["vodič za ključne riječi app store", "ASO optimizacija ključnih r
 tags: ["Optimizacija App Storea", "besplatni ASO alati", "optimizacija naslova app store", "besplatni ASO alat", "strategija ključnih riječi app store", "optimizator metapodataka"]
 aliases:
   - /post/how-to-optimize-your-app-store-keywords-and-metadata-and-the-best-free-tool-to-help-you/
-  - /amp/how-to-optimize-your-app-store-keywords-and-metadata-and-the-best-free-tool-to-help-you/
 draft: false
 sidebar:
   exclude: true

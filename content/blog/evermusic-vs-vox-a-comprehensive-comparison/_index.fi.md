@@ -7,7 +7,6 @@ tags: ["vertailu", "evermusic", "vox", "pilvi", "äänikirjat", "tunnisteet", "s
 draft: false
 aliases:
   - /post/evermusic-vs-vox-a-comprehensive-comparison/
-  - /amp/evermusic-vs-vox-a-comprehensive-comparison/
 sidebar:
   exclude: true
 cascade:

@@ -5,7 +5,6 @@ title: 'Com fer-ho'
 description: 'Guies pas a pas i consells per ajudar-vos a configurar, utilitzar i treure el màxim profit de les aplicacions d''Everappz.'
 excludeSearch: true
 aliases:
-  - /index.php/category/how-to/
   - /post/how-to-/
 ---
 

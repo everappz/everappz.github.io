@@ -5,7 +5,6 @@ title: 'Οδηγίες χρήσης'
 description: 'Βήμα προς βήμα οδηγοί και συμβουλές για να σας βοηθήσουν να ρυθμίσετε, να χρησιμοποιήσετε και να αξιοποιήσετε στο έπακρο τις εφαρμογές Everappz.'
 excludeSearch: true
 aliases:
-  - /index.php/category/how-to/
   - /post/how-to-/
 ---
 

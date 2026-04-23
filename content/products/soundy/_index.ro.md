@@ -12,7 +12,6 @@ keywords: ["Soundy", "player SoundCloud iPhone", "egalizator muzică iOS", "egal
 tags: ["Soundy", "SoundCloud", "aplicații iOS", "egalizator muzică", "player audio", "redare offline", "aplicație muzică iPhone", "aplicații retrase", "player media", "streaming muzical"]
 aliases:
   - /soundy/
-  - /index.php/app/sound-beats/
 ---
 
 <div class="hx:w-full hx:max-w-screen-lg hx:mx-auto hx:flex hx:flex-col hx:items-center hx:justify-center hx:text-center">

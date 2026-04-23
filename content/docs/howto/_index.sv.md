@@ -5,7 +5,6 @@ title: 'Instruktioner'
 description: 'Steg-för-steg-guider och tips som hjälper dig att konfigurera, använda och få ut det mesta av Everappz-appar.'
 excludeSearch: true
 aliases:
-  - /index.php/category/how-to/
   - /post/how-to-/
 ---
 

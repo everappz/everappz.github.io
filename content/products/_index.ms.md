@@ -19,8 +19,6 @@ tags: [
   "pengatur pustaka media", "penyama", "pengurus fail", "penstriman NAS", 
   "Chromecast", "AirPlay", "CarPlay", "penciptaan senarai main"
 ]
-aliases:
-  - /index.php/apps/
 ---
 
 {{< lottie src="/images/juicy-json/juicy-website-designer-making-landing-page-at-laptop.json" width="85%" >}}

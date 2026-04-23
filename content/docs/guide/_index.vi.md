@@ -13,8 +13,6 @@ tags: [
   "trợ giúp trình phát nhạc", "hướng dẫn trình phát video", "chỉnh sửa thẻ âm thanh", "cài đặt đám mây",
   "cài đặt phát lại", "CarPlay", "AirPlay", "chế độ ngoại tuyến", "thư viện phương tiện"
 ]
-aliases:
-  - /blog/categories/guide/
 ---
 
 

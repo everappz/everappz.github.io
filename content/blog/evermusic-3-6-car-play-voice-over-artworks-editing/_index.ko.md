@@ -7,7 +7,6 @@ tags: ["Evermusic", "CarPlay", "VoiceOver", "접근성", "iCloud Drive", "태그
 draft: false
 aliases:
   - /post/evermusic-3-6-car-play-voice-over-artworks-editing/
-  - /amp/evermusic-3-6-car-play-voice-over-artworks-editing/
 cascade:
   type: docs
 authors:

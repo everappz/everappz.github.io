@@ -9,7 +9,6 @@ draft: false
 aliases:
   - /post/how-to-play-flac-music-on-iphone/
   - /single-post/How-to-play-FLAC-music-on-iPhone/
-  - /amp/how-to-play-flac-music-on-iphone/
 ---
 
 {{< author-byline >}}

@@ -8,7 +8,6 @@ readingTime: 2
 draft: false
 aliases:
   - /post/how-to-disconnect-third-party-app-from-your-google-account/
-  - /amp/how-to-disconnect-third-party-app-from-your-google-account/
 ---
 
 {{< author-byline >}}

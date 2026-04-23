@@ -7,7 +7,6 @@ tags: ["Evermusic", "promo", "musica", "video", "musica cloud", "app iOS"]
 draft: false
 aliases:
   - /post/evermusic-be-inspired-by-music/
-  - /amp/evermusic-be-inspired-by-music/
 sidebar:
   exclude: true
 cascade:

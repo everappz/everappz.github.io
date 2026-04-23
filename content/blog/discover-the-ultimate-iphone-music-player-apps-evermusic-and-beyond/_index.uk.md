@@ -7,7 +7,6 @@ tags: ["музичні додатки", "iOS", "Evermusic", "Apple Music", "Spot
 draft: false
 aliases:
   - /post/discover-the-ultimate-iphone-music-player-apps-evermusic-and-beyond/
-  - /amp/discover-the-ultimate-iphone-music-player-apps-evermusic-and-beyond/
 cascade:
   type: docs
 authors:

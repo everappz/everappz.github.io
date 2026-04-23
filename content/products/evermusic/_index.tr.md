@@ -8,7 +8,6 @@ keywords: ["Evermusic", "çevrimdışı müzik çalar", "iOS ses çalar", "bulut
 tags: ["Evermusic", "çevrimdışı oynatma", "bulut müzik", "MP3 çalar", "iPhone uygulamaları", "ses akışı", "müzik yönetimi", "Mac uygulamaları", "medya oynatıcı"]
 aliases:
   - /evermusic/
-  - /index.php/app/evermusic/
 appStoreUrl: "https://apps.apple.com/app/apple-store/id885367198?pt=95781850&ct=everappzcom&mt=8"
 appStoreId: "885367198"
 features: "Çevrimdışı müzik oynatma, Bulut akışı (iCloud, Google Drive, Dropbox, OneDrive, MEGA, Box), Ön ayarlı ses ekolayzeri, Crossfade ve boşluksuz oynatma, M3U çalma listesi içe/dışa aktarma, Şarkı sözü görüntüleyici, Ses yer imleri, Apple CarPlay, AirPlay ve Chromecast, SMB/WebDAV/DLNA desteği, USB flash sürücü oynatma, Last.fm Scrobbling"

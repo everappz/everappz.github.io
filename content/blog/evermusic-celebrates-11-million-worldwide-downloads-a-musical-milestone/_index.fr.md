@@ -7,7 +7,6 @@ tags: ["Evermusic", "jalon", "musique cloud", "lecture hors ligne", "iCloud Driv
 draft: false
 aliases:
   - /post/evermusic-celebrates-11-million-worldwide-downloads-a-musical-milestone/
-  - /amp/evermusic-celebrates-11-million-worldwide-downloads-a-musical-milestone/
 cascade:
   type: docs
 authors:

@@ -5,7 +5,6 @@ title: 'Nasıl Yapılır'
 description: 'Everappz uygulamalarını kurmanıza, kullanmanıza ve en iyi şekilde değerlendirmenize yardımcı olacak adım adım kılavuzlar ve ipuçları.'
 excludeSearch: true
 aliases:
-  - /index.php/category/how-to/
   - /post/how-to-/
 ---
 

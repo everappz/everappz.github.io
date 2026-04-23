@@ -7,7 +7,6 @@ keywords: ["transfer music library Evermusic", "backup and restore playlists Eve
 readingTime: 3
 aliases:
   - /post/how-to-transfer-your-music-library-between-devices-in-evermusic-step-by-step-guide/
-  - /amp/how-to-transfer-your-music-library-between-devices-in-evermusic-step-by-step-guide/
 ---
 
 {{< author-byline >}}

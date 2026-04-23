@@ -7,7 +7,6 @@ tags: ["musik apps", "iOS", "Evermusic", "Apple Music", "Spotify", "VLC", "Amazo
 draft: false
 aliases:
   - /post/discover-the-ultimate-iphone-music-player-apps-evermusic-and-beyond/
-  - /amp/discover-the-ultimate-iphone-music-player-apps-evermusic-and-beyond/
 cascade:
   type: docs
 authors:

@@ -7,7 +7,6 @@ tags: ["comparação", "evermusic", "vox", "nuvem", "audiolivros", "tags", "stre
 draft: false
 aliases:
   - /post/evermusic-vs-vox-a-comprehensive-comparison/
-  - /amp/evermusic-vs-vox-a-comprehensive-comparison/
 sidebar:
   exclude: true
 cascade:

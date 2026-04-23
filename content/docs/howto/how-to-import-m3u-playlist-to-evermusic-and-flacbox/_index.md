@@ -8,7 +8,6 @@ readingTime: 3
 draft: false
 aliases:
   - /post/how-to-import-m3u-playlist-to-evermusic-and-flacbox/
-  - /amp/how-to-import-m3u-playlist-to-evermusic-and-flacbox/
 ---
 
 {{< author-byline >}}

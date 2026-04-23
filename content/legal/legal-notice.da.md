@@ -3,7 +3,6 @@ date: '2025-06-12T17:00:00+00:00'
 draft: false
 title: 'Juridisk meddelelse'
 aliases:
-  - /index.php/legal-notice/
   - /legal-notice/
 ---
 

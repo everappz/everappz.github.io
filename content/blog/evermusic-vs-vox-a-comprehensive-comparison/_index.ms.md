@@ -7,7 +7,6 @@ tags: ["perbandingan", "evermusic", "vox", "awan", "buku audio", "tag", "penstri
 draft: false
 aliases:
   - /post/evermusic-vs-vox-a-comprehensive-comparison/
-  - /amp/evermusic-vs-vox-a-comprehensive-comparison/
 sidebar:
   exclude: true
 cascade:

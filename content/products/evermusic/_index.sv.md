@@ -8,7 +8,6 @@ keywords: ["Evermusic", "offline musikspelare", "iOS ljudspelare", "molnmusikapp
 tags: ["Evermusic", "offline uppspelning", "molnmusik", "MP3-spelare", "iPhone-appar", "ljudströmning", "musikhantering", "Mac-appar", "mediaspelare"]
 aliases:
   - /evermusic/
-  - /index.php/app/evermusic/
 appStoreUrl: "https://apps.apple.com/app/apple-store/id885367198?pt=95781850&ct=everappzcom&mt=8"
 appStoreId: "885367198"
 features: "Offline musikuppspelning, Molnströmning (iCloud, Google Drive, Dropbox, OneDrive, MEGA, Box), Ljudequalizer med förinställningar, Crossfade och sömlös uppspelning, M3U-spellistimport/export, Texttittare, Ljudbokmärken, Apple CarPlay, AirPlay och Chromecast, SMB/WebDAV/DLNA-stöd, USB-minnesuppspelning, Last.fm-scrobbling"

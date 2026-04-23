@@ -19,8 +19,6 @@ tags: [
   "pengatur perpustakaan media", "equalizer", "pengelola file", "streaming NAS", 
   "Chromecast", "AirPlay", "CarPlay", "pembuatan playlist"
 ]
-aliases:
-  - /index.php/apps/
 ---
 
 {{< lottie src="/images/juicy-json/juicy-website-designer-making-landing-page-at-laptop.json" width="85%" >}}

@@ -8,7 +8,6 @@ readingTime: 5
 draft: false
 aliases:
   - /post/how-to-listen-to-music-from-icloud-drive-on-your-iphone-or-mac/
-  - /amp/how-to-listen-to-music-from-icloud-drive-on-your-iphone-or-mac/
 ---
 
 {{< author-byline >}}

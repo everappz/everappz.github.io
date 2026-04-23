@@ -19,8 +19,6 @@ tags: [
   "organitzador de biblioteca multimèdia", "equalitzador", "gestor de fitxers", "transmissió NAS", 
   "Chromecast", "AirPlay", "CarPlay", "creació de llistes de reproducció"
 ]
-aliases:
-  - /index.php/apps/
 ---
 
 {{< lottie src="/images/juicy-json/juicy-website-designer-making-landing-page-at-laptop.json" width="85%" >}}

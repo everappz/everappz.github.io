@@ -7,7 +7,6 @@ tags: ["evermusic", "음악", "재생", "관리자", "편집기", "동기화", "
 draft: false
 aliases:
   - /post/evermusic-sync-your-music-library-save-playback-position-correct-music-tags/
-  - /amp/evermusic-sync-your-music-library-save-playback-position-correct-music-tags/
 cascade:
   type: docs
 authors:

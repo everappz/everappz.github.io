@@ -13,8 +13,6 @@ tags: [
   "configuração em nuvem", "problemas de reprodução", "gerenciamento de arquivos", "edição de metadados",
   "solução de problemas", "modo offline", "reprodutor de música", "reprodutor de vídeo"
 ]
-aliases:
-  - /blog/categories/how-to/
 ---
 
 

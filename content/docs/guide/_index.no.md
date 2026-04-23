@@ -13,8 +13,6 @@ tags: [
   "hjelp musikkspelar", "guide videospiller", "lydtaggredigering", "skyoppsett",
   "avspillingsinnstillinger", "CarPlay", "AirPlay", "frakoblet modus", "mediebibliotek"
 ]
-aliases:
-  - /blog/categories/guide/
 ---
 
 

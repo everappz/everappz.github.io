@@ -13,8 +13,6 @@ tags: [
   "pomoc hudobný prehrávač", "sprievodca video prehrávač", "úprava zvukových tagov", "nastavenie cloudu",
   "nastavenia prehrávania", "CarPlay", "AirPlay", "offline režim", "mediálna knižnica"
 ]
-aliases:
-  - /blog/categories/guide/
 ---
 
 

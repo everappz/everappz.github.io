@@ -8,7 +8,6 @@ keywords: ["FLAC prehrávač iPhone", "bezstratový hudobný prehrávač", "hi-r
 tags: ["FLAC prehrávač", "Hi-Res audio", "offline prehrávanie", "cloudová hudba", "DSD audio", "Mac aplikácie", "iPhone aplikácie", "USB audio iOS", "správca hudobných súborov", "audio ekvalizér", "editor metadát", "MP3 prehrávač", "SMB prehrávač", "Chromecast hudba", "CarPlay hudobný prehrávač", "podpora viacerých formátov", "streamovanie hudby", "správca audio knižnice"]
 aliases:
   - /flacbox/
-  - /index.php/app/flap/
 appStoreUrl: "https://apps.apple.com/app/apple-store/id1097564256?pt=95781850&ct=everappzcom&mt=8"
 appStoreId: "1097564256"
 features: "Hi-Res prehrávanie FLAC/DSD/APE/ALAC, Cloudové streamovanie (iCloud, Google Drive, Dropbox, OneDrive, MEGA, Box), Audio ekvalizér s predvoľbami, Crossfade a bezmedzerové prehrávanie, Import/export playlistov M3U, Prehliadač textov piesní, Audio záložky, Apple CarPlay, AirPlay a Chromecast, Podpora SMB/WebDAV/DLNA, Prehrávanie z USB flash disku, Scrobbling Last.fm, Vstavaný editor tagov"

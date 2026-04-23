@@ -3,7 +3,6 @@ date: '2025-06-12T17:00:00+00:00'
 draft: false
 title: 'Kebijakan Privasi'
 aliases:
-  - /index.php/privacy-policy/
   - /privacy-policy/
 ---
 

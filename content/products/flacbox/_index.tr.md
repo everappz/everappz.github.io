@@ -8,7 +8,6 @@ keywords: ["FLAC oynatıcı iPhone", "kayıpsız müzik oynatıcı", "hi-res ses
 tags: ["FLAC oynatıcı", "Hi-Res ses", "çevrimdışı çalma", "bulut müzik", "DSD ses", "Mac uygulamaları", "iPhone uygulamaları", "USB ses iOS", "müzik dosya yöneticisi", "ses ekolayzır", "meta veri düzenleyici", "MP3 oynatıcı", "SMB oynatıcı", "Chromecast müzik", "CarPlay müzik oynatıcı", "çoklu format desteği", "müzik yayını", "ses kütüphanesi yöneticisi"]
 aliases:
   - /flacbox/
-  - /index.php/app/flap/
 appStoreUrl: "https://apps.apple.com/app/apple-store/id1097564256?pt=95781850&ct=everappzcom&mt=8"
 appStoreId: "1097564256"
 features: "Hi-Res FLAC/DSD/APE/ALAC çalma, Bulut yayını (iCloud, Google Drive, Dropbox, OneDrive, MEGA, Box), Ön ayarlı ses ekolayzır, Crossfade ve kesintisiz çalma, M3U çalma listesi içe/dışa aktarma, Şarkı sözleri görüntüleyici, Ses yer imleri, Apple CarPlay, AirPlay ve Chromecast, SMB/WebDAV/DLNA desteği, USB flash sürücü çalma, Last.fm scrobbling, Dahili etiket düzenleyici"

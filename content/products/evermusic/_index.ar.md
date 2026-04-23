@@ -8,7 +8,6 @@ keywords: ["Evermusic", "مشغل موسيقى بدون إنترنت", "مشغل
 tags: ["Evermusic", "تشغيل بدون إنترنت", "موسيقى سحابية", "مشغل MP3", "تطبيقات أيفون", "بث صوتي", "إدارة الموسيقى", "تطبيقات ماك", "مشغل وسائط"]
 aliases:
   - /evermusic/
-  - /index.php/app/evermusic/
 appStoreUrl: "https://apps.apple.com/app/apple-store/id885367198?pt=95781850&ct=everappzcom&mt=8"
 appStoreId: "885367198"
 features: "تشغيل الموسيقى بدون إنترنت، بث سحابي (iCloud، Google Drive، Dropbox، OneDrive، MEGA، Box)، معادل صوتي مع إعدادات مسبقة، تشغيل متقاطع وبدون فجوات، استيراد/تصدير قوائم تشغيل M3U، عارض كلمات الأغاني، إشارات مرجعية صوتية، Apple CarPlay، AirPlay وChromecast، دعم SMB/WebDAV/DLNA، تشغيل من USB، تسجيل Last.fm"

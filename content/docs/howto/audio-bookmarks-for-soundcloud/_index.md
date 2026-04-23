@@ -7,7 +7,6 @@ tags: ["audio", "equalizer", "soundy", "marks", "soundcloud"]
 draft: false
 aliases:
   - /post/audio-bookmarks-for-soundcloud/
-  - /amp/audio-bookmarks-for-soundcloud/
 ---
 
 {{< author-byline >}}

@@ -13,8 +13,6 @@ tags: [
   "音乐播放器帮助", "视频播放器指南", "音频标签编辑", "云设置",
   "播放设置", "CarPlay", "AirPlay", "离线模式", "媒体库"
 ]
-aliases:
-  - /blog/categories/guide/
 ---
 
 

@@ -6,7 +6,6 @@ keywords: ["מדריך מילות מפתח app store", "אופטימיזציית
 tags: ["אופטימיזציית App Store", "כלי ASO חינמיים", "אופטימיזציית כותרת app store", "כלי ASO חינמי", "אסטרטגיית מילות מפתח app store", "אופטימייזר מטא-נתונים"]
 aliases:
   - /post/how-to-optimize-your-app-store-keywords-and-metadata-and-the-best-free-tool-to-help-you/
-  - /amp/how-to-optimize-your-app-store-keywords-and-metadata-and-the-best-free-tool-to-help-you/
 draft: false
 sidebar:
   exclude: true

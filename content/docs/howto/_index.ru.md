@@ -5,7 +5,6 @@ title: 'Инструкции'
 description: 'Пошаговые руководства и советы, которые помогут вам настроить, использовать и получить максимум от приложений Everappz.'
 excludeSearch: true
 aliases:
-  - /index.php/category/how-to/
   - /post/how-to-/
 ---
 

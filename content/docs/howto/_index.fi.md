@@ -5,7 +5,6 @@ title: 'Ohjeet'
 description: 'Vaiheittaiset oppaat ja vinkit, jotka auttavat sinua asentamaan, käyttämään ja hyödyntämään Everappz-sovelluksia parhaalla mahdollisella tavalla.'
 excludeSearch: true
 aliases:
-  - /index.php/category/how-to/
   - /post/how-to-/
 ---
 

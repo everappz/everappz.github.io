@@ -5,7 +5,6 @@ title: 'Návody'
 description: 'Podrobné průvodce a tipy, které vám pomohou nastavit, používat a co nejlépe využít aplikace Everappz.'
 excludeSearch: true
 aliases:
-  - /index.php/category/how-to/
   - /post/how-to-/
 ---
 

@@ -7,7 +7,6 @@ tags: ["evermusic", "promoție", "video", "ios", "muzică", "cloud", "player", "
 draft: false
 aliases:
   - /post/evermusic-promo-video/
-  - /amp/evermusic-promo-video/
 cascade:
   type: docs
 authors:

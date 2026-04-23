@@ -13,8 +13,6 @@ tags: [
   "music player help", "video player guide", "audio tag editing", "cloud setup", 
   "playback settings", "CarPlay", "AirPlay", "offline mode", "media library"
 ]
-aliases:
-  - /blog/categories/guide/
 ---
 
 

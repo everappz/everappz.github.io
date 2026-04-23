@@ -7,7 +7,6 @@ tags: ["비교", "evermusic", "vox", "클라우드", "오디오북", "태그", "
 draft: false
 aliases:
   - /post/evermusic-vs-vox-a-comprehensive-comparison/
-  - /amp/evermusic-vs-vox-a-comprehensive-comparison/
 sidebar:
   exclude: true
 cascade:

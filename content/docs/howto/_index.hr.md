@@ -5,7 +5,6 @@ title: 'Upute'
 description: 'Vodiči korak po korak i savjeti koji će vam pomoći postaviti, koristiti i izvući maksimum iz Everappz aplikacija.'
 excludeSearch: true
 aliases:
-  - /index.php/category/how-to/
   - /post/how-to-/
 ---
 

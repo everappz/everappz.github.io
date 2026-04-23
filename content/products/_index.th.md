@@ -19,8 +19,6 @@ tags: [
   "ตัวจัดระเบียบไลบรารีสื่อ", "อีควอไลเซอร์", "ตัวจัดการไฟล์", "สตรีมมิ่ง NAS", 
   "Chromecast", "AirPlay", "CarPlay", "สร้างเพลย์ลิสต์"
 ]
-aliases:
-  - /index.php/apps/
 ---
 
 {{< lottie src="/images/juicy-json/juicy-website-designer-making-landing-page-at-laptop.json" width="85%" >}}

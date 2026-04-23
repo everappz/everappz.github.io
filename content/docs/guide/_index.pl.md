@@ -13,8 +13,6 @@ tags: [
   "pomoc odtwarzacza muzyki", "przewodnik odtwarzacza wideo", "edycja tagów audio", "konfiguracja chmury",
   "ustawienia odtwarzania", "CarPlay", "AirPlay", "tryb offline", "biblioteka multimediów"
 ]
-aliases:
-  - /blog/categories/guide/
 ---
 
 

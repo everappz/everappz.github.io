@@ -20,7 +20,6 @@ tags: [
 headless: false
 aliases:
   - /home/
-  - /index.php/
 ---
 
 <!-- force dark theme for this page -->

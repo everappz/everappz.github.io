@@ -7,7 +7,6 @@ tags: ["evermusic", "promo", "video", "ios", "musik", "cloud", "pemutar", "aplik
 draft: false
 aliases:
   - /post/evermusic-promo-video/
-  - /amp/evermusic-promo-video/
 cascade:
   type: docs
 authors:

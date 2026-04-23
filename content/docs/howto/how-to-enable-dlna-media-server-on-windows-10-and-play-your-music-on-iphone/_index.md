@@ -8,7 +8,6 @@ readingTime: 2
 draft: false
 aliases:
   - /post/how-to-enable-dlna-media-server-on-windows-10-and-play-your-music-on-iphone/
-  - /amp/how-to-enable-dlna-media-server-on-windows-10-and-play-your-music-on-iphone/
 ---
 
 {{< author-byline >}}

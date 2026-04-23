@@ -12,7 +12,6 @@ keywords: ["Soundy", "SoundCloud播放器 iPhone", "iOS音乐均衡器", "SoundC
 tags: ["Soundy", "SoundCloud", "iOS应用", "音乐均衡器", "音频播放器", "离线播放", "音乐应用 iPhone", "已停产应用", "媒体播放器", "音乐流媒体"]
 aliases:
   - /soundy/
-  - /index.php/app/sound-beats/
 ---
 
 <div class="hx:w-full hx:max-w-screen-lg hx:mx-auto hx:flex hx:flex-col hx:items-center hx:justify-center hx:text-center">

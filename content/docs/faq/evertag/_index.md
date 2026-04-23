@@ -12,7 +12,6 @@ tags: ["evertag", "faq", "audio tagging", "metadata editor", "music library"]
 aliases:
   - /faq-evertag/
   - /post/evertag-guide-faq/
-  - /amp/evertag-guide-faq/
 ---
 
 

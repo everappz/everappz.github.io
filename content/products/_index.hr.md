@@ -19,8 +19,6 @@ tags: [
   "organizator medijske knjižnice", "ekvilajzer", "upravitelj datoteka", "NAS streaming", 
   "Chromecast", "AirPlay", "CarPlay", "stvaranje popisa za reprodukciju"
 ]
-aliases:
-  - /index.php/apps/
 ---
 
 {{< lottie src="/images/juicy-json/juicy-website-designer-making-landing-page-at-laptop.json" width="85%" >}}

@@ -8,7 +8,6 @@ keywords: ["FLAC-afspiller iPhone", "tabsfri musikafspiller", "hi-res lydafspill
 tags: ["FLAC-afspiller", "Hi-Res lyd", "offline afspilning", "cloud-musik", "DSD-lyd", "Mac-apps", "iPhone-apps", "USB-lyd iOS", "musikfilhåndtering", "lyd-equalizer", "metadata-editor", "MP3-afspiller", "SMB-afspiller", "Chromecast-musik", "CarPlay musikafspiller", "multi-format support", "musikstreaming", "lydbibliotek-håndtering"]
 aliases:
   - /flacbox/
-  - /index.php/app/flap/
 appStoreUrl: "https://apps.apple.com/app/apple-store/id1097564256?pt=95781850&ct=everappzcom&mt=8"
 appStoreId: "1097564256"
 features: "Hi-Res FLAC/DSD/APE/ALAC-afspilning, Cloud-streaming (iCloud, Google Drive, Dropbox, OneDrive, MEGA, Box), Lyd-equalizer med forudindstillinger, Crossfade og gapless afspilning, M3U-playliste import/eksport, Sangtekst-visning, Lyd-bogmærker, Apple CarPlay, AirPlay og Chromecast, SMB/WebDAV/DLNA-support, USB-flashdrev afspilning, Last.fm scrobbling, Indbygget tag-editor"

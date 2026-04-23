@@ -7,7 +7,6 @@ tags: ["Evermusic", "Aliyun Drive", "Synology", "ปกอัลบั้ม", "
 draft: false
 aliases:
   - /post/evermusic6-8-aliyun-drive-synology-new-album-cover-styles/
-  - /amp/evermusic6-8-aliyun-drive-synology-new-album-cover-styles/
 cascade:
   type: docs
 authors:

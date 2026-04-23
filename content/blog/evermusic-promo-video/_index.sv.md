@@ -7,7 +7,6 @@ tags: ["evermusic", "reklam", "video", "ios", "musik", "moln", "spelare", "mobil
 draft: false
 aliases:
   - /post/evermusic-promo-video/
-  - /amp/evermusic-promo-video/
 cascade:
   type: docs
 authors:

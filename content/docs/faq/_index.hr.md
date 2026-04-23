@@ -13,8 +13,6 @@ tags: [
   "postavljanje oblaka", "problemi s reprodukcijom", "upravljanje datotekama", "uređivanje metapodataka",
   "rješavanje problema", "offline način rada", "glazbeni player", "video player"
 ]
-aliases:
-  - /blog/categories/how-to/
 ---
 
 

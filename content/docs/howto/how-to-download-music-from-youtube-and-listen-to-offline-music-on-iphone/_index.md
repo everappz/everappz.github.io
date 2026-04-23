@@ -8,9 +8,7 @@ readingTime: 5
 draft: false
 aliases:
   - /post/how-to-download-music-from-youtube-and-listen-to-offline-music-on-iphone/
-  - /amp/how-to-download-music-from-youtube-and-listen-to-offline-music-on-iphone/
   - /post/how-to-download-songs-from-youtube-and-listen-to-them-with-evermusic/
-  - /amp/how-to-download-songs-from-youtube-and-listen-to-them-with-evermusic/
 ---
 
 {{< author-byline >}}

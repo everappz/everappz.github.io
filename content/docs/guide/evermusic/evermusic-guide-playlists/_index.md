@@ -12,7 +12,6 @@ readingTime: 6
 draft: false
 aliases:
   - /post/evermusic-guide-playlists/
-  - /amp/evermusic-guide-playlists/
   - /guide-evermusic-playlists/
 ---
 

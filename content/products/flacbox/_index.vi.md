@@ -8,7 +8,6 @@ keywords: ["trình phát FLAC iPhone", "trình phát nhạc lossless", "trình p
 tags: ["trình phát FLAC", "âm thanh Hi-Res", "phát ngoại tuyến", "nhạc đám mây", "âm thanh DSD", "ứng dụng Mac", "ứng dụng iPhone", "âm thanh USB iOS", "quản lý tệp nhạc", "bộ cân bằng âm thanh", "trình chỉnh sửa metadata", "trình phát MP3", "trình phát SMB", "nhạc Chromecast", "trình phát nhạc CarPlay", "hỗ trợ đa định dạng", "phát trực tuyến nhạc", "quản lý thư viện âm thanh"]
 aliases:
   - /flacbox/
-  - /index.php/app/flap/
 appStoreUrl: "https://apps.apple.com/app/apple-store/id1097564256?pt=95781850&ct=everappzcom&mt=8"
 appStoreId: "1097564256"
 features: "Phát Hi-Res FLAC/DSD/APE/ALAC, Phát trực tuyến đám mây (iCloud, Google Drive, Dropbox, OneDrive, MEGA, Box), Bộ cân bằng âm thanh với cài đặt sẵn, Crossfade và phát liền mạch, Nhập/xuất danh sách phát M3U, Trình xem lời bài hát, Đánh dấu âm thanh, Apple CarPlay, AirPlay và Chromecast, Hỗ trợ SMB/WebDAV/DLNA, Phát từ ổ USB flash, Scrobbling Last.fm, Trình chỉnh sửa tag tích hợp"

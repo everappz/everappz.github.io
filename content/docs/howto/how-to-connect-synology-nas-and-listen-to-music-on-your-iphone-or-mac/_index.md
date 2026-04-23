@@ -8,7 +8,6 @@ readingTime: 4
 draft: false
 aliases:
   - /post/how-to-connect-synology-nas-and-listen-to-music-on-your-iphone-or-mac/
-  - /amp/how-to-connect-synology-nas-and-listen-to-music-on-your-iphone-or-mac/
 ---
 
 {{< author-byline >}}

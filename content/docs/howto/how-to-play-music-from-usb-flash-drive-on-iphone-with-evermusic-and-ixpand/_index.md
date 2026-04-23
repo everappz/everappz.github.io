@@ -8,7 +8,6 @@ readingTime: 3
 draft: false
 aliases:
   - /post/how-to-play-music-from-usb-flash-drive-on-iphone-with-evermusic-and-ixpand/
-  - /amp/how-to-play-music-from-usb-flash-drive-on-iphone-with-evermusic-and-ixpand/
 ---
 
 {{< author-byline >}}

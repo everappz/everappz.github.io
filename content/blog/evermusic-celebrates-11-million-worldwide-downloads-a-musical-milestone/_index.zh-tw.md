@@ -7,7 +7,6 @@ tags: ["Evermusic", "里程碑", "雲端音樂", "離線播放", "iCloud Drive",
 draft: false
 aliases:
   - /post/evermusic-celebrates-11-million-worldwide-downloads-a-musical-milestone/
-  - /amp/evermusic-celebrates-11-million-worldwide-downloads-a-musical-milestone/
 cascade:
   type: docs
 authors:

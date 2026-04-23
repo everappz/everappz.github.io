@@ -5,7 +5,6 @@ title: 'Instrucțiuni'
 description: 'Ghiduri pas cu pas și sfaturi pentru a te ajuta să configurezi, să folosești și să profiți la maximum de aplicațiile Everappz.'
 excludeSearch: true
 aliases:
-  - /index.php/category/how-to/
   - /post/how-to-/
 ---
 

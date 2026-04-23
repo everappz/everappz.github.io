@@ -7,7 +7,6 @@ tags: ["evermusic", "宣傳", "影片", "ios", "音樂", "雲端", "播放器", 
 draft: false
 aliases:
   - /post/evermusic-promo-video/
-  - /amp/evermusic-promo-video/
 cascade:
   type: docs
 authors:

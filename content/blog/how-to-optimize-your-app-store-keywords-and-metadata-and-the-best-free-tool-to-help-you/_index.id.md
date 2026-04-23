@@ -6,7 +6,6 @@ keywords: ["panduan kata kunci app store", "optimasi kata kunci ASO", "optimasi 
 tags: ["Optimasi App Store", "alat ASO gratis", "optimasi judul app store", "alat ASO gratis", "strategi kata kunci app store", "pengoptimal metadata"]
 aliases:
   - /post/how-to-optimize-your-app-store-keywords-and-metadata-and-the-best-free-tool-to-help-you/
-  - /amp/how-to-optimize-your-app-store-keywords-and-metadata-and-the-best-free-tool-to-help-you/
 draft: false
 sidebar:
   exclude: true
