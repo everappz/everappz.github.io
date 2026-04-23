@@ -319,6 +319,25 @@
     color: currentColor;
 }
 
+/* ── Details / FAQ shortcode ── */
+
+details a {
+    text-decoration: underline;
+}
+
+.hextra-details .hextra-details-plus {
+    display: inline-flex;
+}
+.hextra-details .hextra-details-minus {
+    display: none;
+}
+.hextra-details[open] .hextra-details-plus {
+    display: none;
+}
+.hextra-details[open] .hextra-details-minus {
+    display: inline-flex;
+}
+
 .product-card-tag {
     position: absolute;
     z-index: 10;
