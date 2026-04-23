@@ -348,22 +348,18 @@ menu:
       weight: 9
       params:
         type: search
-    # External social links
-    - identifier: twitter
-      params:
-        icon: icons8-sf-regular-filled-twitter
-      url: "https://x.com/Everappz"
+    # Theme toggle
+    - name: Theme
       weight: 10
-    - identifier: facebook
       params:
-        icon: icons8-sf-regular-filled-facebook
-      url: "https://www.facebook.com/everappz"
+        type: theme-toggle
+    # Language switcher
+    - name: Language
       weight: 11
-    - identifier: reddit
       params:
-        icon: icons8-sf-regular-filled-reddit
-      url: "https://www.reddit.com/r/everappz/"
-      weight: 12
+        type: language-switch
+        label: true
+        icon: globe-alt
 
   # sidebar:                           # Sidebar navigation
   #   - identifier: more
