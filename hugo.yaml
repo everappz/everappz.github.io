@@ -15,13 +15,17 @@ frontmatter:
     - :git         # 3. Git commit date (fallback for pages without date)
     - publishDate  # 4. publishDate fallback
 
-taxonomies:
-  tag: tags # Keep tags, disable categories
+disableKinds:
+  - taxonomy
+  - term
+  - RSS
+
+taxonomies: {}
 
 outputs:
-  home: ["HTML", "RSS", "llms"]
-  page: ["HTML", "RSS"]
-  section: ["HTML", "RSS"]
+  home: ["HTML", "llms"]
+  page: ["HTML"]
+  section: ["HTML"]
 
 # MULTILINGUAL SUPPORT
 defaultContentLanguage: en # Default language to use if none is selected.
@@ -422,7 +426,7 @@ params:
 
   blog:
     list:
-      displayTags: true # Show tags in the blog list.
+      displayTags: false # Show tags in the blog list.
       sortBy: date # Field to sort blog posts by: date, title, weight, etc.
       sortOrder: desc # Sort order: asc (ascending) or desc (descending).
       displayAuthor: true # Show author name in the blog list.
@@ -433,7 +437,7 @@ params:
       displayPagination: true # Enable pagination on the blog list page.
       postsPerPage: 10 # Number of posts per page in pagination.
     article:
-      displayTags: true # Show tags on individual blog posts.
+      displayTags: false # Show tags on individual blog posts.
       displayAuthor: true # Show author name on individual blog posts.
       displayDate: true # Show publication date on individual blog posts.
       displayReadingTime: true # Show estimated reading time on individual blog posts.
@@ -444,7 +448,7 @@ params:
       enableShareButtons: true # Show social share buttons.
 
   toc:
-    displayTags: true
+    displayTags: false
 
   highlight:
     copy:
