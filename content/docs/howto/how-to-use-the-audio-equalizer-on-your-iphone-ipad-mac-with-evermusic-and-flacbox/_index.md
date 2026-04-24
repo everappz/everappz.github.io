@@ -70,6 +70,37 @@ On the top-left corner of the equalizer screen, tap the **More Actions** (three 
 
 {{< figure src="21260c_342cfe573a0b428285cc42a95dfaa6c6~mv2.png" width="400" >}}
 
+## Built-In Equalizer Presets
+
+Evermusic and Flacbox include 22 built-in presets. The 10 bands correspond to frequencies: 32 Hz, 64 Hz, 125 Hz, 250 Hz, 500 Hz, 1 kHz, 2 kHz, 4 kHz, 8 kHz, and 16 kHz. All values are in dB.
+
+| Preset | 32 | 64 | 125 | 250 | 500 | 1k | 2k | 4k | 8k | 16k |
+|--------|----|----|-----|-----|-----|----|----|----|----|----|
+| Acoustic | +5.0 | +4.9 | +4.0 | +1.1 | +2.2 | +1.8 | +3.5 | +4.1 | +3.6 | +2.2 |
+| Bass Booster | +5.5 | +4.3 | +3.5 | +2.5 | +1.3 | 0 | 0 | 0 | 0 | 0 |
+| Bass Reducer | -5.5 | -4.3 | -3.5 | -2.5 | -1.3 | 0 | 0 | 0 | 0 | 0 |
+| Classical | +4.8 | +3.8 | +3.0 | +2.5 | -1.5 | -1.5 | 0 | +2.3 | +3.3 | +3.8 |
+| Dance | +3.6 | +6.6 | +5.0 | 0 | +1.9 | +3.7 | +5.2 | +4.5 | +3.6 | 0 |
+| Deep | +5.0 | +3.6 | +1.8 | +1.0 | +2.9 | +2.5 | +1.5 | -2.2 | -3.6 | -4.6 |
+| Electronic | +4.3 | +3.8 | +1.2 | 0 | -2.2 | +2.3 | +0.9 | +1.3 | +4.0 | +4.8 |
+| Flat | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+| Hip-Hop | +5.0 | +4.3 | +1.5 | +3.0 | -1.0 | -1.0 | +1.5 | -0.5 | +2.0 | +3.0 |
+| Jazz | +4.0 | +3.0 | +1.5 | +2.3 | -1.5 | -1.5 | 0 | +1.5 | +3.0 | +3.8 |
+| Latin | +4.5 | +3.0 | 0 | 0 | -1.5 | -1.5 | -1.5 | 0 | +3.0 | +4.5 |
+| Loudness | +6.0 | +4.0 | 0 | 0 | -2.0 | 0 | -1.0 | -5.0 | +5.0 | +1.0 |
+| Lounge | -3.0 | -1.5 | -0.5 | +1.5 | +4.0 | +2.5 | 0 | -1.5 | +2.0 | +1.0 |
+| Piano | +3.0 | +2.0 | 0 | +2.5 | +3.0 | +1.5 | +3.5 | +4.5 | +3.0 | +3.5 |
+| Pop | -1.5 | -1.0 | 0 | +2.0 | +4.0 | +4.0 | +2.0 | 0 | -1.0 | -1.5 |
+| R&B | +2.6 | +6.9 | +5.7 | +1.3 | -2.2 | -1.5 | +2.3 | +2.7 | +3.0 | +3.8 |
+| Rock | +5.0 | +4.0 | +3.0 | +1.5 | -0.5 | -1.0 | +0.5 | +2.5 | +3.5 | +4.5 |
+| Small Speakers | +5.5 | +4.3 | +3.5 | +2.5 | +1.3 | 0 | -1.3 | -2.5 | -3.5 | -4.3 |
+| Spoken Word | -3.5 | -0.5 | 0 | +0.7 | +3.5 | +4.6 | +4.8 | +4.3 | +2.5 | 0 |
+| Treble Booster | 0 | 0 | 0 | 0 | 0 | +1.3 | +2.5 | +3.5 | +4.3 | +5.5 |
+| Treble Reducer | 0 | 0 | 0 | 0 | 0 | -1.3 | -2.5 | -3.5 | -4.3 | -5.5 |
+| Vocal Booster | -1.5 | -3.0 | -3.0 | +1.5 | +3.8 | +3.8 | +3.0 | +1.5 | 0 | -1.5 |
+
+You can use any preset as a starting point and adjust individual bands to your taste. Use the real-time level indicators to check output and avoid distortion.
+
 ## Conclusion
 
 Elevate your music experience, tailor your audio to any scenario, and enjoy the perfect sound with the versatile equalizer in Evermusic and Flacbox.
