@@ -5,8 +5,6 @@ description: "Usporedite najbolje aplikacije za reprodukciju glazbe na iPhoneu: 
 keywords: ["najbolji iPhone glazbeni player", "aplikacija za reprodukciju glazbe iOS", "Evermusic vs Spotify", "cloud glazbeni player iPhone", "offline glazbena aplikacija iPhone", "FLAC player iOS", "Apple Music alternative", "VLC iPhone", "besplatni glazbeni player iOS"]
 tags: ["glazbene aplikacije", "iOS", "Evermusic", "Apple Music", "Spotify", "VLC", "Amazon Music", "usporedba", "cloud glazba", "offline reprodukcija"]
 draft: false
-aliases:
-  - /post/discover-the-ultimate-iphone-music-player-apps-evermusic-and-beyond/
 cascade:
   type: docs
 authors:

@@ -5,8 +5,6 @@ description: "Comparez les meilleures applications de lecteur de musique pour iP
 keywords: ["meilleur lecteur de musique iPhone", "application lecteur de musique iOS", "Evermusic vs Spotify", "lecteur de musique cloud iPhone", "application musique hors ligne iPhone", "lecteur FLAC iOS", "alternatives à Apple Music", "VLC iPhone", "lecteur de musique gratuit iOS"]
 tags: ["applications de musique", "iOS", "Evermusic", "Apple Music", "Spotify", "VLC", "Amazon Music", "comparaison", "musique cloud", "lecture hors ligne"]
 draft: false
-aliases:
-  - /post/discover-the-ultimate-iphone-music-player-apps-evermusic-and-beyond/
 cascade:
   type: docs
 authors:

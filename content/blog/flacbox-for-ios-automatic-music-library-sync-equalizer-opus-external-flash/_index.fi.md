@@ -5,9 +5,6 @@ description: "Flacbox 1.6 iOS:lle lisää automaattisen pilvisynkronoinnin, 10-k
 keywords: ["Flacbox päivitys", "FLAC-soitin iOS", "10-kaistan taajuuskorjain iPhone", "automaattinen musiikin synkronointi", "OPUS-toisto iPhonella", "musiikki ulkoiselta flash-asemalta", "FLAC-suoratoisto iOS", "hi-res-musiikkisovellus iPhone", "Flacbox taajuuskorjain", "SD-kortti musiikkisoitin iOS"]
 tags: ["Flacbox", "taajuuskorjain", "musiikkikirjasto", "OPUS", "FLAC", "ulkoinen tallennus", "synkronointi", "äänisoitin", "iOS-sovellukset", "päivitys"]
 draft: false
-aliases:
-  - /post/flacbox-for-ios-automatic-music-library-sync-equalizer-opus-external-flash/
-  - /single-post/Flacbox-for-iOS-Automatic-Music-Library-Sync-Equalizer-OPUS-External-Flash/
 cascade:
   type: docs
 authors:

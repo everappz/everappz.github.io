@@ -5,8 +5,6 @@ description: "Flacbox når 1 miljon globala nedladdningar. Utforska funktionerna
 keywords: ["Flacbox musikspelare", "hi-res-ljud iOS", "förlustfri musikapp", "DSD FLAC APE-spelare", "offline FLAC-musik", "Flacbox nedladdningsmilstolpe", "högkvalitativt ljud iPhone", "Everappz ljudappar", "CUE-spellistspelare", "1 miljon nedladdningar", "bästa FLAC-spelare iOS", "hi-res musikspelare Mac"]
 tags: ["Flacbox", "förlustfri", "hi-res-ljud", "musikspelare", "ljud", "milstolpe", "iOS-appar", "nyheter"]
 draft: false
-aliases:
-  - /post/flacbox-celebrates-1-million-worldwide-downloads-your-gateway-to-hi-res-music/
 cascade:
   type: docs
 authors:

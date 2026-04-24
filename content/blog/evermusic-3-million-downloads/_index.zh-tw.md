@@ -5,9 +5,6 @@ description: "Evermusic 達到 300 萬次下載。探索其雲端音樂串流、
 keywords: ["Evermusic 下載", "iOS 音樂播放器", "雲端音樂應用程式", "離線音樂播放器 iPhone", "音樂下載器 iOS", "有聲書播放器 iPhone", "ID3 標籤編輯器 iOS", "iPhone 檔案管理員", "音樂等化器應用程式", "最佳雲端音樂播放器", "從 NAS 串流音樂 iPhone"]
 tags: ["Evermusic", "下載", "里程碑", "音樂應用程式", "雲端播放器", "離線播放器", "標籤編輯器", "等化器", "有聲書", "檔案管理員"]
 draft: false
-aliases:
-  - /post/evermusic-3-million-downloads/
-  - /single-post/Evermusic-3-million-downloads/
 cascade:
   type: docs
 authors:

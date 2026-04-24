@@ -5,8 +5,6 @@ description: "Evermusic arriba als 11 milions de descàrregues. Descobreix les f
 keywords: ["Evermusic 11 milions de descàrregues", "millor reproductor de música al núvol iOS", "reproductor de música fora de línia iPhone", "reproducció de música iCloud Drive", "aplicació equalitzador de 10 bandes", "editor d'etiquetes ID3 iOS", "sincronització reproductor de música Mac iPhone", "reproductor FLAC iPhone"]
 tags: ["Evermusic", "fita", "música al núvol", "reproducció fora de línia", "iCloud Drive", "equalitzador", "reproductor de música iOS"]
 draft: false
-aliases:
-  - /post/evermusic-celebrates-11-million-worldwide-downloads-a-musical-milestone/
 cascade:
   type: docs
 authors:

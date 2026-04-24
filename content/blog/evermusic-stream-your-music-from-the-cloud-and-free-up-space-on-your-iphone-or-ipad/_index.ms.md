@@ -5,9 +5,6 @@ description: "Strim muzik dari Google Drive, Dropbox, atau OneDrive pada iPhone 
 keywords: ["Evermusic", "pemain muzik awan", "aplikasi muzik iOS", "strim muzik dari awan", "muzik luar talian iPhone", "pemain muzik Google Drive", "penstriman muzik Dropbox", "pemain MP3 iPhone", "bebaskan ruang iPhone", "muzik dari SMB", "main muzik dari storan awan iOS", "pemain muzik tanpa iTunes"]
 tags: ["audio", "penstriman", "pemain", "mp3", "pemuat turun", "GoogleDrive", "Dropbox", "muzik awan", "main balik luar talian"]
 draft: false
-aliases:
-  - /post/evermusic-stream-your-music-from-the-cloud-and-free-up-space-on-your-iphone-or-ipad/
-  - /single-post/Evermusic-stream-your-music-from-the-cloud-and-free-up-space-on-your-iPhone-or-iPad/
 cascade:
   type: docs
 authors:

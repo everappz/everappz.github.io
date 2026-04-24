@@ -6,9 +6,6 @@ layout: hextra-home
 description: "Udržujte svoju hudobnú knižnicu organizovanú. Nájdite chýbajúce tagy. Hromadné úpravy. Zmena obalov albumov a oveľa viac."
 keywords: ["Evertag", "editor audio tagov", "správca ID3 tagov", "úprava hudobných metadát", "editor FLAC tagov", "aplikácia na organizáciu hudby", "editor MP3 metadát", "iOS editor hudobných tagov", "Mac aplikácia na audio tagy", "premenovanie hudobných súborov"]
 tags: ["Evertag", "ID3 tagy", "hudobné metadáta", "editor audio tagov", "MP3 editor", "FLAC tagovanie", "iPhone nástroje", "Mac hudobné nástroje", "správa hudobnej knižnice"]
-aliases:
-  - /evertag/
-  - /mp3tag/
 appStoreUrl: "https://apps.apple.com/app/apple-store/id1450763230?pt=95781850&ct=everappzcom&mt=8"
 appStoreId: "1450763230"
 features: "Úprava 120+ audio tagov, Hromadná úprava tagov, Vyhľadávač obalov albumov, Podpora 30+ audio formátov, Automatické vyhľadávanie tagov cez MusicBrainz, Oprava problémov s kódovaním, Prístup ku cloudu a USB, Wi-Fi prenos hudby, Vstavaný správca súborov, Editor textov piesní"

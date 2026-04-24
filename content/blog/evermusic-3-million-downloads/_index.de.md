@@ -5,9 +5,6 @@ description: "Evermusic hat 3 Millionen Downloads erreicht. Entdecken Sie Cloud-
 keywords: ["Evermusic Downloads", "iOS Musikplayer", "Cloud-Musik-App", "Offline-Musikplayer iPhone", "Musik-Downloader iOS", "Hörbuch-Player iPhone", "ID3-Tag-Editor iOS", "iPhone Dateimanager", "Musik-Equalizer-App", "bester Cloud-Musikplayer", "Musik vom NAS streamen iPhone"]
 tags: ["Evermusic", "Downloads", "Meilenstein", "Musik-Apps", "Cloud-Player", "Offline-Player", "Tag-Editor", "Equalizer", "Hörbücher", "Dateimanager"]
 draft: false
-aliases:
-  - /post/evermusic-3-million-downloads/
-  - /single-post/Evermusic-3-million-downloads/
 cascade:
   type: docs
 authors:

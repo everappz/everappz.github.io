@@ -5,9 +5,6 @@ date: 2017-03-09
 readingTime: 2
 tags: ["pilvi", "soitin", "taajuuskorjain", "iPhone", "SoundCloud", "suoratoisto", "Chromecast"]
 keywords: ["soundcloud taajuuskorjain sovellus", "10-kaistan taajuuskorjain iOS", "soundy soundcloud soitin", "musiikkisovellus esiasetuksilla", "taajuuskorjain iPhonelle", "toistonopeus soundcloud", "soundcloud sovellus uniajastimella"]
-aliases:
-  - /post/soundy-equalizer-for-soundcloud-on-the-app-store/
-  - /single-post/soundy-equalizer-for-soundcloud-on-the-app-store/
 ---
 
 {{< author-byline >}}

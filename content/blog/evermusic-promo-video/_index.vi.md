@@ -5,8 +5,6 @@ description: "Xem video quảng cáo chính thức của Evermusic. Xem cách Ev
 keywords: ["video quảng cáo Evermusic", "trình phát nhạc đám mây iPhone", "video ứng dụng nhạc", "demo ứng dụng Evermusic", "nhạc đám mây iOS", "tính năng Evermusic", "trình phát nhạc iPad", "phát nhạc từ đám mây"]
 tags: ["evermusic", "quảng cáo", "video", "ios", "nhạc", "đám mây", "trình phát", "ứng dụng di động"]
 draft: false
-aliases:
-  - /post/evermusic-promo-video/
 cascade:
   type: docs
 authors:

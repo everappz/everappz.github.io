@@ -6,9 +6,6 @@ layout: hextra-home
 description: "保持您的音樂庫井然有序。尋找缺失標籤。批次編輯。變更專輯封面及更多功能。"
 keywords: ["Evertag", "音訊標籤編輯器", "ID3標籤管理器", "編輯音樂中繼資料", "FLAC標籤編輯器", "音樂整理應用程式", "MP3中繼資料編輯器", "iOS音樂標籤編輯器", "Mac音訊標籤應用程式", "重新命名音樂檔案"]
 tags: ["Evertag", "ID3標籤", "音樂中繼資料", "音訊標籤編輯器", "MP3編輯器", "FLAC標籤", "iPhone工具", "Mac音樂工具", "音樂庫管理"]
-aliases:
-  - /evertag/
-  - /mp3tag/
 appStoreUrl: "https://apps.apple.com/app/apple-store/id1450763230?pt=95781850&ct=everappzcom&mt=8"
 appStoreId: "1450763230"
 features: "編輯120+音訊標籤, 批次標籤編輯, 專輯封面搜尋器, 支援30+音訊格式, 透過MusicBrainz自動尋找標籤, 修復編碼問題, 雲端和USB存取, Wi-Fi音樂傳輸, 內建檔案管理器, 歌詞編輯器"

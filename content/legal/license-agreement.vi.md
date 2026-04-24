@@ -2,8 +2,6 @@
 date: '2025-06-12T17:00:00+00:00'
 draft: false
 title: 'Thỏa thuận cấp phép'
-aliases:
-  - /license-agreement/
 ---
 
 THỎA THUẬN CẤP PHÉP NGƯỜI DÙNG CUỐI CHO CÁC SẢN PHẨM CỦA EVERAPPZ S.L.

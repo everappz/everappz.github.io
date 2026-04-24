@@ -5,9 +5,6 @@ date: 2017-03-09
 readingTime: 2
 tags: ["cloud", "αναπαραγωγός", "ισοσταθμιστής", "iPhone", "SoundCloud", "streaming", "Chromecast"]
 keywords: ["εφαρμογή ισοσταθμιστή soundcloud", "ισοσταθμιστής 10 ζωνών iOS", "soundy αναπαραγωγός soundcloud", "εφαρμογή μουσικής με presets", "ισοσταθμιστής για iPhone", "ταχύτητα αναπαραγωγής soundcloud", "εφαρμογή soundcloud με χρονοδιακόπτη ύπνου"]
-aliases:
-  - /post/soundy-equalizer-for-soundcloud-on-the-app-store/
-  - /single-post/soundy-equalizer-for-soundcloud-on-the-app-store/
 ---
 
 {{< author-byline >}}

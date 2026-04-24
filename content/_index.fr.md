@@ -18,8 +18,6 @@ tags: [
   "Chromecast", "AirPlay", "CarPlay", "création de playlists"
 ]
 headless: false
-aliases:
-  - /home/
 ---
 
 <!-- force dark theme for this page -->

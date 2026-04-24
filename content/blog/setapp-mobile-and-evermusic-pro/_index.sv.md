@@ -5,8 +5,6 @@ description: "Få Evermusic Pro via Setapp Mobile. Strömma musik från Google D
 keywords: ["Setapp Mobile", "Evermusic Pro", "molnmusikspelare", "musikströmning iPhone", "offlinemusik iOS", "Setapp iOS-appar", "audiofilapp iPhone", "equalizer iOS-app", "NAS musik iPhone", "molnlagring musikspelare", "Setapp musikapp", "strömma musik från Google Drive iPhone"]
 tags: ["evermusic", "setapp", "moln", "ljud", "mobil", "marknadsplats", "musik", "iOS-appar"]
 draft: false
-aliases:
-  - /post/setapp-mobile-and-evermusic-pro/
 cascade:
   type: docs
 authors:

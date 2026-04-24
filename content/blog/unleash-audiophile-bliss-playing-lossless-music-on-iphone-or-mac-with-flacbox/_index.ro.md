@@ -5,8 +5,6 @@ description: "Redă FLAC, DSD, ALAC și peste 120 de formate audio pe iPhone și
 keywords: ["player muzică lossless", "player FLAC iOS", "player DSD iPhone", "audio hi-res Mac", "aplicație Flacbox", "cel mai bun player FLAC iPhone", "player FLAC offline", "player muzică audiofil iOS", "player FLAC Mac", "streaming hi-res iOS", "redare FLAC pe iPhone", "player DSD128", "aplicație audio lossless"]
 tags: ["flacbox", "muzică", "audio", "lossless", "iphone", "mac", "flac", "dsd", "audiofil"]
 draft: false
-aliases:
-  - /post/unleash-audiophile-bliss-playing-lossless-music-on-iphone-or-mac-with-flacbox/
 cascade:
   type: docs
 authors:

@@ -5,8 +5,6 @@ description: "Setapp Mobile을 통해 Evermusic Pro를 받으세요. Google Driv
 keywords: ["Setapp Mobile", "Evermusic Pro", "클라우드 음악 플레이어", "음악 스트리밍 iPhone", "오프라인 음악 iOS", "Setapp iOS 앱", "오디오파일 앱 iPhone", "이퀄라이저 iOS 앱", "NAS 음악 iPhone", "클라우드 저장소 음악 플레이어", "Setapp 음악 앱", "Google Drive에서 음악 스트리밍 iPhone"]
 tags: ["evermusic", "setapp", "클라우드", "오디오", "모바일", "마켓플레이스", "음악", "ios 앱"]
 draft: false
-aliases:
-  - /post/setapp-mobile-and-evermusic-pro/
 cascade:
   type: docs
 authors:

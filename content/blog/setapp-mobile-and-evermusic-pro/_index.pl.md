@@ -5,8 +5,6 @@ description: "Pobierz Evermusic Pro przez Setapp Mobile. Strumieniuj muzykę z G
 keywords: ["Setapp Mobile", "Evermusic Pro", "odtwarzacz muzyki z chmury", "strumieniowanie muzyki iPhone", "muzyka offline iOS", "aplikacje Setapp iOS", "aplikacja audiofilska iPhone", "aplikacja equalizer iOS", "muzyka NAS iPhone", "odtwarzacz muzyki z chmury", "aplikacja muzyczna Setapp", "strumieniowanie muzyki z Google Drive iPhone"]
 tags: ["evermusic", "setapp", "chmura", "audio", "mobilny", "marketplace", "muzyka", "aplikacje ios"]
 draft: false
-aliases:
-  - /post/setapp-mobile-and-evermusic-pro/
 cascade:
   type: docs
 authors:

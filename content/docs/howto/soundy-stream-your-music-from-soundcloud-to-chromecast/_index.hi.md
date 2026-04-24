@@ -5,9 +5,6 @@ date: 2016-12-17
 readingTime: 3
 tags: ["streaming", "iPhone", "SoundCloud", "GoogleChromecast"]
 keywords: ["SoundCloud Chromecast iOS", "Soundy ऐप SoundCloud", "SoundCloud को TV पर स्ट्रीम करें", "Chromecast म्यूज़िक प्लेयर", "SoundCloud इक्वलाइज़र iPhone", "Soundy प्लेलिस्ट SoundCloud"]
-aliases:
-  - /post/soundy-stream-your-music-from-soundcloud-to-chromecast/
-  - /single-post/Soundy-Stream-Your-Music-from-SoundCloud-to-Chromecast/
 ---
 
 {{< author-byline >}}

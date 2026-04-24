@@ -5,8 +5,6 @@ description: "Confronto Evermusic vs VOX in 8 categorie: archiviazione cloud, au
 keywords: ["Evermusic vs VOX", "alternativa VOX iOS", "miglior lettore musicale iPhone", "confronto lettori musicali cloud", "lettore audiolibri iOS", "editor tag ID3 iPhone", "app musica Wi-Fi drive", "lettore FLAC iPhone", "lettore musicale archiviazione cloud", "alternativa VOX Cloud"]
 tags: ["confronto", "evermusic", "vox", "cloud", "audiolibri", "tag", "streaming", "app", "lettore musicale", "ios"]
 draft: false
-aliases:
-  - /post/evermusic-vs-vox-a-comprehensive-comparison/
 sidebar:
   exclude: true
 cascade:

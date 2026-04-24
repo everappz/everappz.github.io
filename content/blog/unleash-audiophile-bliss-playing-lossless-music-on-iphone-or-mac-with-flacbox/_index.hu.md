@@ -5,8 +5,6 @@ description: "Játssz le FLAC, DSD, ALAC és 120+ audio formátumot iPhone-on é
 keywords: ["veszteségmentes zenelejátszó", "FLAC lejátszó iOS", "DSD lejátszó iPhone", "hi-res audio Mac", "Flacbox alkalmazás", "legjobb FLAC lejátszó iPhone", "offline FLAC lejátszó", "audiofil zenelejátszó iOS", "Mac FLAC lejátszó", "hi-res streaming iOS", "FLAC lejátszás iPhone-on", "DSD128 lejátszó", "veszteségmentes audio alkalmazás"]
 tags: ["flacbox", "zene", "audio", "veszteségmentes", "iphone", "mac", "flac", "dsd", "audiofil"]
 draft: false
-aliases:
-  - /post/unleash-audiophile-bliss-playing-lossless-music-on-iphone-or-mac-with-flacbox/
 cascade:
   type: docs
 authors:

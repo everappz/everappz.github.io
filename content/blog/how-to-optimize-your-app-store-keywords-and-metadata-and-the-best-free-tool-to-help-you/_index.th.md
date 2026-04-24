@@ -4,8 +4,6 @@ date: 2025-04-30
 description: "คู่มือทีละขั้นตอนเพื่อเพิ่มประสิทธิภาพคีย์เวิร์ด ชื่อเรื่อง และคำบรรยายใน App Store รวมเครื่องมือ ASO ฟรีในเบราว์เซอร์พร้อมการรวม Fastlane"
 keywords: ["คู่มือคีย์เวิร์ด app store", "ASO เพิ่มประสิทธิภาพคีย์เวิร์ด", "เพิ่มประสิทธิภาพชื่อ app store", "เพิ่มประสิทธิภาพคำบรรยาย app store", "เมตาดาต้า app store", "วิธีปรับปรุงอันดับ app store", "เพิ่มประสิทธิภาพ app store", "เครื่องมือ ASO ฟรี", "กลยุทธ์คีย์เวิร์ด app store", "apple app store SEO", "เครื่องมือเมตาดาต้า fastlane", "ค้นหาคีย์เวิร์ด app store ฟรี"]
 tags: ["เพิ่มประสิทธิภาพ App Store", "เครื่องมือ ASO ฟรี", "เพิ่มประสิทธิภาพชื่อ app store", "เครื่องมือ ASO ฟรี", "กลยุทธ์คีย์เวิร์ด app store", "ตัวเพิ่มประสิทธิภาพเมตาดาต้า"]
-aliases:
-  - /post/how-to-optimize-your-app-store-keywords-and-metadata-and-the-best-free-tool-to-help-you/
 draft: false
 sidebar:
   exclude: true

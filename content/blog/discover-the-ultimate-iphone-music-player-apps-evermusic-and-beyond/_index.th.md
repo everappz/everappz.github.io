@@ -5,8 +5,6 @@ description: "เปรียบเทียบแอปเครื่องเ
 keywords: ["เครื่องเล่นเพลง iPhone ที่ดีที่สุด", "แอปเครื่องเล่นเพลง iOS", "Evermusic vs Spotify", "เครื่องเล่นเพลงบนคลาวด์ iPhone", "แอปเพลงออฟไลน์ iPhone", "เครื่องเล่น FLAC iOS", "ทางเลือกแทน Apple Music", "VLC iPhone", "เครื่องเล่นเพลงฟรี iOS"]
 tags: ["แอปเพลง", "iOS", "Evermusic", "Apple Music", "Spotify", "VLC", "Amazon Music", "การเปรียบเทียบ", "เพลงบนคลาวด์", "การเล่นออฟไลน์"]
 draft: false
-aliases:
-  - /post/discover-the-ultimate-iphone-music-player-apps-evermusic-and-beyond/
 cascade:
   type: docs
 authors:

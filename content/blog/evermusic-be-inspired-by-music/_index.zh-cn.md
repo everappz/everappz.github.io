@@ -5,8 +5,6 @@ description: "观看 Evermusic 宣传视频，展示 iPhone 和 Mac 上的云音
 keywords: ["Evermusic 宣传视频", "音乐播放器 iOS", "云音乐应用 iPhone", "Evermusic 应用演示", "最佳音乐播放器 iPhone", "离线音乐播放器 iOS"]
 tags: ["Evermusic", "宣传", "音乐", "视频", "云音乐", "iOS 应用"]
 draft: false
-aliases:
-  - /post/evermusic-be-inspired-by-music/
 sidebar:
   exclude: true
 cascade:

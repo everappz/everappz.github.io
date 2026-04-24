@@ -5,8 +5,6 @@ description: "Riproduci FLAC, DSD, ALAC e oltre 120 formati audio su iPhone e Ma
 keywords: ["lettore musicale lossless", "lettore FLAC iOS", "lettore DSD iPhone", "audio hi-res Mac", "app Flacbox", "miglior lettore FLAC iPhone", "lettore FLAC offline", "lettore musicale audiofilo iOS", "lettore FLAC Mac", "streaming hi-res iOS", "riprodurre FLAC su iPhone", "lettore DSD128", "app audio lossless"]
 tags: ["flacbox", "musica", "audio", "lossless", "iphone", "mac", "flac", "dsd", "audiofilo"]
 draft: false
-aliases:
-  - /post/unleash-audiophile-bliss-playing-lossless-music-on-iphone-or-mac-with-flacbox/
 cascade:
   type: docs
 authors:

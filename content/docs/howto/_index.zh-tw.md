@@ -4,8 +4,6 @@ draft: false
 title: '使用教學'
 description: '幫助您設定、使用和充分利用 Everappz 應用程式的逐步指南和技巧。'
 excludeSearch: true
-aliases:
-  - /post/how-to-/
 ---
 
 

@@ -5,8 +5,6 @@ date: 2024-11-14
 readingTime: 7
 tags: ["音樂", "雲端", "串流", "同步", "icloud", "資料庫"]
 keywords: ["匯入 iCloud 音樂 Evermusic", "Flacbox iCloud 同步", "Evermusic 從 iCloud 串流", "音樂資料庫 iOS 應用", "Flacbox 元資料讀取器", "iCloud 音樂串流 iPhone"]
-aliases:
-  - /post/step-by-step-guide-importing-your-icloud-library-into-evermusic-and-flacbox/
 ---
 
 {{< author-byline >}}

@@ -5,9 +5,6 @@ date: 2017-03-09
 readingTime: 2
 tags: ["oblak", "player", "ekvalizator", "iPhone", "SoundCloud", "streaming", "Chromecast"]
 keywords: ["soundcloud ekvalizator aplikacija", "10-pojasni ekvalizator iOS", "soundy soundcloud player", "glazbena aplikacija s presetima", "ekvalizator za iPhone", "brzina reprodukcije soundcloud", "soundcloud aplikacija s timerom za spavanje"]
-aliases:
-  - /post/soundy-equalizer-for-soundcloud-on-the-app-store/
-  - /single-post/soundy-equalizer-for-soundcloud-on-the-app-store/
 ---
 
 {{< author-byline >}}

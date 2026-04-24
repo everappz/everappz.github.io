@@ -18,8 +18,6 @@ tags: [
   "Chromecast", "AirPlay", "CarPlay", "oppretting av spilleliste"
 ]
 headless: false
-aliases:
-  - /home/
 ---
 
 <!-- force dark theme for this page -->

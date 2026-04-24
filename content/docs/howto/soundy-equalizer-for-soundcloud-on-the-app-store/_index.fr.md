@@ -5,9 +5,6 @@ date: 2017-03-09
 readingTime: 2
 tags: ["cloud", "lecteur", "égaliseur", "iPhone", "SoundCloud", "streaming", "Chromecast"]
 keywords: ["application égaliseur soundcloud", "égaliseur 10 bandes iOS", "lecteur soundy soundcloud", "application musique avec préréglages", "égaliseur pour iPhone", "vitesse de lecture soundcloud", "application soundcloud avec minuterie sommeil"]
-aliases:
-  - /post/soundy-equalizer-for-soundcloud-on-the-app-store/
-  - /single-post/soundy-equalizer-for-soundcloud-on-the-app-store/
 ---
 
 {{< author-byline >}}

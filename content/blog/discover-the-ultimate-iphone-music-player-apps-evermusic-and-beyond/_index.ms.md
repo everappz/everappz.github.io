@@ -5,8 +5,6 @@ description: "Bandingkan aplikasi pemain muzik iPhone terbaik: Evermusic, Apple 
 keywords: ["pemain muzik iPhone terbaik", "aplikasi pemain muzik iOS", "Evermusic vs Spotify", "pemain muzik awan iPhone", "aplikasi muzik luar talian iPhone", "pemain FLAC iOS", "alternatif Apple Music", "VLC iPhone", "pemain muzik percuma iOS"]
 tags: ["aplikasi muzik", "iOS", "Evermusic", "Apple Music", "Spotify", "VLC", "Amazon Music", "perbandingan", "muzik awan", "main balik luar talian"]
 draft: false
-aliases:
-  - /post/discover-the-ultimate-iphone-music-player-apps-evermusic-and-beyond/
 cascade:
   type: docs
 authors:

@@ -5,8 +5,6 @@ description: "Guarda il video promozionale di Evermusic che mostra lo streaming 
 keywords: ["video promo Evermusic", "lettore musicale iOS", "app musica cloud iPhone", "demo app Evermusic", "miglior lettore musicale iPhone", "lettore musica offline iOS"]
 tags: ["Evermusic", "promo", "musica", "video", "musica cloud", "app iOS"]
 draft: false
-aliases:
-  - /post/evermusic-be-inspired-by-music/
 sidebar:
   exclude: true
 cascade:

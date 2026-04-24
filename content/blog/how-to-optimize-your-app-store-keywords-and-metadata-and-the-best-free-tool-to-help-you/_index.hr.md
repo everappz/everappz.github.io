@@ -4,8 +4,6 @@ date: 2025-04-30
 description: "Vodič korak po korak za optimizaciju ključnih riječi, naslova i podnaslova App Storea. Uključuje besplatni ASO alat temeljen na pregledniku s integracijom Fastlane."
 keywords: ["vodič za ključne riječi app store", "ASO optimizacija ključnih riječi", "optimizacija naslova app store", "optimizacija podnaslova app store", "metapodaci app store", "kako poboljšati rang app store", "optimizacija app store", "besplatni ASO alat", "besplatni ASO alati", "strategija ključnih riječi app store", "apple app store SEO", "fastlane alat za metapodatke", "besplatno istraživanje ključnih riječi app store"]
 tags: ["Optimizacija App Storea", "besplatni ASO alati", "optimizacija naslova app store", "besplatni ASO alat", "strategija ključnih riječi app store", "optimizator metapodataka"]
-aliases:
-  - /post/how-to-optimize-your-app-store-keywords-and-metadata-and-the-best-free-tool-to-help-you/
 draft: false
 sidebar:
   exclude: true

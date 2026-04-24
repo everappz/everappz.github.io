@@ -2,8 +2,6 @@
 date: '2025-06-12T17:00:00+00:00'
 draft: false
 title: 'Licenční smlouva'
-aliases:
-  - /license-agreement/
 ---
 
 LICENČNÍ SMLOUVA S KONCOVÝM UŽIVATELEM PRO PRODUKTY EVERAPPZ S.L.

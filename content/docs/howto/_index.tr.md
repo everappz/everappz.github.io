@@ -4,8 +4,6 @@ draft: false
 title: 'Nasıl Yapılır'
 description: 'Everappz uygulamalarını kurmanıza, kullanmanıza ve en iyi şekilde değerlendirmenize yardımcı olacak adım adım kılavuzlar ve ipuçları.'
 excludeSearch: true
-aliases:
-  - /post/how-to-/
 ---
 
 

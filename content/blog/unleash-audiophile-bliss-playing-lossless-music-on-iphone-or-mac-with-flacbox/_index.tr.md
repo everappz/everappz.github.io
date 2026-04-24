@@ -5,8 +5,6 @@ description: "Flacbox ile iPhone ve Mac'te FLAC, DSD, ALAC ve 120+ ses formatı 
 keywords: ["kayıpsız müzik çalar", "FLAC çalar iOS", "DSD çalar iPhone", "hi-res ses Mac", "Flacbox uygulaması", "en iyi FLAC çalar iPhone", "çevrimdışı FLAC çalar", "audiofil müzik çalar iOS", "Mac FLAC çalar", "hi-res akış iOS", "iPhone'da FLAC çalma", "DSD128 çalar", "kayıpsız ses uygulaması"]
 tags: ["flacbox", "müzik", "ses", "kayıpsız", "iphone", "mac", "flac", "dsd", "audiofil"]
 draft: false
-aliases:
-  - /post/unleash-audiophile-bliss-playing-lossless-music-on-iphone-or-mac-with-flacbox/
 cascade:
   type: docs
 authors:

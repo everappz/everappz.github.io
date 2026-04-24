@@ -5,9 +5,6 @@ description: "Flacbox 1.6 för iOS lägger till automatisk molnsynkronisering, 1
 keywords: ["Flacbox uppdatering", "FLAC-spelare iOS", "10-bands equalizer iPhone", "automatisk musiksynk", "spela OPUS på iPhone", "extern flashenhet musik", "FLAC-strömning iOS", "hi-res musikapp iPhone", "Flacbox equalizer", "SD-kort musikspelare iOS"]
 tags: ["Flacbox", "equalizer", "musikbibliotek", "OPUS", "FLAC", "extern lagring", "synk", "ljudspelare", "iOS-appar", "uppdatering"]
 draft: false
-aliases:
-  - /post/flacbox-for-ios-automatic-music-library-sync-equalizer-opus-external-flash/
-  - /single-post/Flacbox-for-iOS-Automatic-Music-Library-Sync-Equalizer-OPUS-External-Flash/
 cascade:
   type: docs
 authors:

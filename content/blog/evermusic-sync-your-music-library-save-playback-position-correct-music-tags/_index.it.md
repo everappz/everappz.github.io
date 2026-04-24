@@ -5,8 +5,6 @@ description: "Evermusic 2.3 aggiunge la sincronizzazione automatica della musica
 keywords: ["Evermusic", "lettore musicale cloud", "sincronizzazione musica iOS", "salvare posizione di riproduzione", "riproduzione audiolibri", "lettore di metadati", "correggere tag ID3", "streaming musica dal cloud", "app musica per Dropbox", "lettore Google Drive", "sincronizzazione automatica libreria musicale", "salvataggio posizione audiolibro iOS"]
 tags: ["evermusic", "musica", "riproduzione", "gestore", "editor", "sincronizzazione", "posizione", "tag id3", "cloud", "novità"]
 draft: false
-aliases:
-  - /post/evermusic-sync-your-music-library-save-playback-position-correct-music-tags/
 cascade:
   type: docs
 authors:

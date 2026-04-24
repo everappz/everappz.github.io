@@ -6,8 +6,6 @@ layout: hextra-home
 description: "הורד את נגן המוזיקה האופליין החינמי הטוב ביותר לאייפון ולמק שלך והאזן למוזיקה שלך בכל מקום."
 keywords: ["Evermusic", "נגן מוזיקה אופליין", "נגן אודיו iOS", "אפליקציית מוזיקה בענן", "הורדת מוזיקה אייפון", "נגן מוזיקה מק", "הזרמת מוזיקה אופליין", "נגן FLAC אייפון", "נגן מוזיקה רב-ענני", "תכונות אפליקציית Evermusic"]
 tags: ["Evermusic", "נגינה אופליין", "מוזיקה בענן", "נגן MP3", "אפליקציות אייפון", "הזרמת אודיו", "ניהול מוזיקה", "אפליקציות מק", "נגן מדיה"]
-aliases:
-  - /evermusic/
 appStoreUrl: "https://apps.apple.com/app/apple-store/id885367198?pt=95781850&ct=everappzcom&mt=8"
 appStoreId: "885367198"
 features: "נגינת מוזיקה אופליין, הזרמה מהענן (iCloud, Google Drive, Dropbox, OneDrive, MEGA, Box), אקולייזר עם פריסטים, קרוספייד ונגינה ללא הפסקות, ייבוא/ייצוא פלייליסטים M3U, צפייה במילות שירים, סימניות אודיו, Apple CarPlay, AirPlay ו-Chromecast, תמיכה ב-SMB/WebDAV/DLNA, נגינה מכונן USB, סקרובלינג Last.fm"

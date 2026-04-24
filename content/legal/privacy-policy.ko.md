@@ -2,8 +2,6 @@
 date: '2025-06-12T17:00:00+00:00'
 draft: false
 title: '개인정보 처리방침'
-aliases:
-  - /privacy-policy/
 ---
 
 ## 소개

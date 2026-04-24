@@ -6,8 +6,6 @@ layout: hextra-home
 description: "เล่นและดาวน์โหลดไฟล์ FLAC, DSD, APE, ALAC บน iPhone ของคุณ ฟังเพลงจากคลาวด์สตอเรจหรือคอมพิวเตอร์พร้อมอีควอไลเซอร์"
 keywords: ["เครื่องเล่น FLAC iPhone", "เครื่องเล่นเพลง lossless", "เครื่องเล่นเสียงความละเอียดสูง", "เครื่องเล่น DSD iOS", "เครื่องเล่น ALAC iPhone", "เครื่องเล่นเพลงออฟไลน์ iOS", "เครื่องเล่นเพลงคลาวด์", "สตรีมเพลงจาก NAS", "เล่น FLAC บน iPhone", "เครื่องเล่นเพลง iPhone พร้อมแท็ก", "เครื่องเล่นเพลง Mac", "ดาวน์โหลดเพลง iPhone", "อีควอไลเซอร์เสียง iOS", "เครื่องเล่นเพลง USB iPhone", "เครื่องเล่นเพลงหลายคลาวด์", "เครื่องเล่น SMB WebDAV DLNA", "แอป iTunes File Sharing", "รองรับ AirPlay และ Chromecast"]
 tags: ["เครื่องเล่น FLAC", "เสียง Hi-Res", "เล่นออฟไลน์", "เพลงคลาวด์", "เสียง DSD", "แอป Mac", "แอป iPhone", "เสียง USB iOS", "จัดการไฟล์เพลง", "อีควอไลเซอร์เสียง", "แก้ไขเมตาดาต้า", "เครื่องเล่น MP3", "เครื่องเล่น SMB", "Chromecast เพลง", "เครื่องเล่นเพลง CarPlay", "รองรับหลายฟอร์แมต", "สตรีมเพลง", "จัดการคลังเสียง"]
-aliases:
-  - /flacbox/
 appStoreUrl: "https://apps.apple.com/app/apple-store/id1097564256?pt=95781850&ct=everappzcom&mt=8"
 appStoreId: "1097564256"
 features: "เล่น Hi-Res FLAC/DSD/APE/ALAC, สตรีมจากคลาวด์ (iCloud, Google Drive, Dropbox, OneDrive, MEGA, Box), อีควอไลเซอร์เสียงพร้อมพรีเซ็ต, Crossfade และ gapless playback, นำเข้า/ส่งออกเพลย์ลิสต์ M3U, ดูเนื้อเพลง, บุ๊กมาร์กเสียง, Apple CarPlay, AirPlay และ Chromecast, รองรับ SMB/WebDAV/DLNA, เล่นจากแฟลชไดรฟ์ USB, Last.fm scrobbling, แก้ไขแท็กในตัว"

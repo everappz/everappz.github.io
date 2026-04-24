@@ -5,8 +5,6 @@ description: "Flacbox dosáhl 1 milionu stažení po celém světě. Prozkoumejt
 keywords: ["hudební přehrávač Flacbox", "hi-res audio iOS", "aplikace pro bezztrátovou hudbu", "přehrávač DSD FLAC APE", "offline FLAC hudba", "milník stažení Flacbox", "vysoce kvalitní zvuk iPhone", "audio aplikace Everappz", "přehrávač CUE playlistů", "1 milion stažení", "nejlepší přehrávač FLAC iOS", "hi-res hudební přehrávač Mac"]
 tags: ["Flacbox", "bezztrátový", "hi-res audio", "hudební přehrávač", "audio", "milník", "iOS aplikace", "co je nového"]
 draft: false
-aliases:
-  - /post/flacbox-celebrates-1-million-worldwide-downloads-your-gateway-to-hi-res-music/
 cascade:
   type: docs
 authors:

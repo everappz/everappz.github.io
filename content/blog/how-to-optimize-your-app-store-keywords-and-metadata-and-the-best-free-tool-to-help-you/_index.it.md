@@ -4,8 +4,6 @@ date: 2025-04-30
 description: "Guida passo passo per ottimizzare parole chiave, titoli e sottotitoli dell'App Store. Include uno strumento ASO gratuito basato su browser con integrazione Fastlane."
 keywords: ["guida parole chiave app store", "ottimizzazione parole chiave ASO", "ottimizzazione titolo app store", "ottimizzazione sottotitolo app store", "metadati app store", "come migliorare ranking app store", "ottimizzazione app store", "strumento ASO gratuito", "strumenti ASO gratuiti", "strategia parole chiave app store", "apple app store SEO", "strumento metadati fastlane", "ricerca parole chiave app store gratuita"]
 tags: ["Ottimizzazione App Store", "strumenti ASO gratuiti", "ottimizzazione titolo app store", "strumento ASO gratuito", "strategia parole chiave app store", "ottimizzatore metadati"]
-aliases:
-  - /post/how-to-optimize-your-app-store-keywords-and-metadata-and-the-best-free-tool-to-help-you/
 draft: false
 sidebar:
   exclude: true

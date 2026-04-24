@@ -2,11 +2,6 @@
 date: '2025-06-12T17:00:00+00:00'
 draft: false
 title: 'Általános Szerződési Feltételek'
-aliases:
-  - /terms-and-conditions/
-  - /terms-and-conditionsDec/
-  - /terms-and-condition/
-  - /terms-and-conditionsMay/
 ---
 
 Az EVERAPPZ S.L. az Evermusic, Evermusic Pro, Flacbox és az Evertag alkalmazások tulajdonosa. Ezek a zenelejátszók különböző fájltípusokat támogatnak, és az Evertag lehetővé teszi az audió címkék szerkesztését a fájljaihoz, mindezt az Általános Szerződési Feltételeknek megfelelően.

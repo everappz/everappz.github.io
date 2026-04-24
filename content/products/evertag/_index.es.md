@@ -6,9 +6,6 @@ layout: hextra-home
 description: "Mantén tu biblioteca musical organizada. Encuentra etiquetas faltantes. Edición por lotes. Cambia portadas de álbumes y mucho más."
 keywords: ["Evertag", "editor de etiquetas de audio", "gestor de etiquetas ID3", "editar metadatos de música", "editor de etiquetas FLAC", "app organizador de música", "editor de metadatos MP3", "editor de etiquetas de música iOS", "app de etiquetas de audio Mac", "renombrar archivos de música"]
 tags: ["Evertag", "etiquetas ID3", "metadatos de música", "editor de etiquetas de audio", "editor MP3", "etiquetado FLAC", "utilidades iPhone", "herramientas de música Mac", "gestión de biblioteca musical"]
-aliases:
-  - /evertag/
-  - /mp3tag/
 appStoreUrl: "https://apps.apple.com/app/apple-store/id1450763230?pt=95781850&ct=everappzcom&mt=8"
 appStoreId: "1450763230"
 features: "Edita más de 120 etiquetas de audio, Edición de etiquetas por lotes, Buscador de portadas de álbum, Soporte para más de 30 formatos de audio, Buscador automático de etiquetas vía MusicBrainz, Corregir problemas de codificación, Acceso a la nube y USB, Transferencia de música por Wi-Fi, Gestor de archivos integrado, Editor de letras"

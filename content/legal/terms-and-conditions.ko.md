@@ -2,11 +2,6 @@
 date: '2025-06-12T17:00:00+00:00'
 draft: false
 title: '이용약관'
-aliases:
-  - /terms-and-conditions/
-  - /terms-and-conditionsDec/
-  - /terms-and-condition/
-  - /terms-and-conditionsMay/
 ---
 
 EVERAPPZ S.L.은 Evermusic, Evermusic Pro, Flacbox 및 Evertag 앱과 같은 앱의 소유자입니다. 이 음악 플레이어들은 다양한 파일 형식을 지원하며, Evertag는 파일의 오디오 태그를 편집할 수 있게 해줍니다. 이 모든 것은 본 이용약관에 따릅니다.

@@ -5,9 +5,6 @@ date: 2016-05-29
 readingTime: 3
 tags: ["cloud", "streaming", "computer", "mp3", "file", "downloader", "manager", "pc", "mac", "sharing", "windows", "smb"]
 keywords: ["phát nhạc từ Mac sang iPhone", "SMB phát âm thanh iOS", "thiết lập Evermusic SMB", "kết nối nhạc PC iPhone", "chia sẻ nhạc Mac iOS", "SMB Windows phát tệp", "truy cập thư mục PC Evermusic"]
-aliases:
-  - /post/stream-your-music-from-mac-or-pc-to-iphone-using-smb/
-  - /single-post/Stream-your-music-from-MAC-or-PC-to-iPhone-using-SMB/
 ---
 
 {{< author-byline >}}

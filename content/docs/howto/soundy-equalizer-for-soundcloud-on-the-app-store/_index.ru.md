@@ -5,9 +5,6 @@ date: 2017-03-09
 readingTime: 2
 tags: ["облако", "плеер", "эквалайзер", "iPhone", "SoundCloud", "стриминг", "Chromecast"]
 keywords: ["приложение эквалайзер soundcloud", "10-полосный эквалайзер iOS", "soundy плеер soundcloud", "музыкальное приложение с пресетами", "эквалайзер для iPhone", "скорость воспроизведения soundcloud", "приложение soundcloud с таймером сна"]
-aliases:
-  - /post/soundy-equalizer-for-soundcloud-on-the-app-store/
-  - /single-post/soundy-equalizer-for-soundcloud-on-the-app-store/
 ---
 
 {{< author-byline >}}

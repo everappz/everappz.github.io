@@ -5,8 +5,6 @@ description: "Evermusic erreicht 11 Millionen Downloads. Entdecken Sie die Funkt
 keywords: ["Evermusic 11 Millionen Downloads", "bester Cloud-Musikplayer iOS", "Offline-Musikplayer iPhone", "iCloud Drive Musikstreaming", "10-Band-Equalizer-App", "ID3-Tag-Editor iOS", "Musikplayer Mac iPhone Synchronisation", "FLAC-Player iPhone"]
 tags: ["Evermusic", "Meilenstein", "Cloud-Musik", "Offline-Wiedergabe", "iCloud Drive", "Equalizer", "iOS-Musikplayer"]
 draft: false
-aliases:
-  - /post/evermusic-celebrates-11-million-worldwide-downloads-a-musical-milestone/
 cascade:
   type: docs
 authors:

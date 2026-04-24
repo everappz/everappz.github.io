@@ -5,8 +5,6 @@ description: "Toista FLAC-, DSD-, ALAC- ja yli 120 äänimuotoa iPhonella ja Mac
 keywords: ["häviötön musiikkisoitin", "FLAC-soitin iOS", "DSD-soitin iPhone", "hi-res-ääni Mac", "Flacbox-sovellus", "paras FLAC-soitin iPhone", "offline FLAC-soitin", "audiofiili musiikkisoitin iOS", "Mac FLAC-soitin", "hi-res-suoratoisto iOS", "FLAC-toisto iPhonella", "DSD128-soitin", "häviötön äänisovellus"]
 tags: ["flacbox", "musiikki", "ääni", "häviötön", "iphone", "mac", "flac", "dsd", "audiofiili"]
 draft: false
-aliases:
-  - /post/unleash-audiophile-bliss-playing-lossless-music-on-iphone-or-mac-with-flacbox/
 cascade:
   type: docs
 authors:

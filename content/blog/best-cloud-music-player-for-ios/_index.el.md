@@ -5,8 +5,6 @@ description: "Το Evermusic συνδέεται με 12+ υπηρεσίες clou
 keywords: ["καλύτερο πρόγραμμα αναπαραγωγής μουσικής cloud iOS", "πρόγραμμα αναπαραγωγής μουσικής cloud iPhone", "αναπαραγωγή μουσικής από Dropbox", "πρόγραμμα αναπαραγωγής μουσικής εκτός σύνδεσης iPhone", "πρόγραμμα αναπαραγωγής FLAC iOS", "αξιολόγηση Evermusic", "διαχειριστής μουσικής βιβλιοθήκης iOS", "πρόγραμμα αναπαραγωγής μουσικής Google Drive", "πρόγραμμα αναπαραγωγής μουσικής NAS iPhone", "πρόγραμμα αναπαραγωγής μουσικής WebDAV"]
 tags: ["Evermusic", "cloud music", "offline playback", "iOS music apps", "MP3 player", "audio", "music streaming", "guide", "FLAC", "review"]
 draft: false
-aliases:
-  - /post/best-cloud-music-player-for-ios/
 cascade:
   type: docs
 authors:

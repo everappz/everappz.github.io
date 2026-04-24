@@ -4,8 +4,6 @@ draft: false
 title: '使い方'
 description: 'Everappz アプリの設定、使用方法、最大限の活用に役立つステップバイステップのガイドとヒント。'
 excludeSearch: true
-aliases:
-  - /post/how-to-/
 ---
 
 

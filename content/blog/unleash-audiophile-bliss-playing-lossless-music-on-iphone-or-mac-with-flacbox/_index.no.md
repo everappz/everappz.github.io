@@ -5,8 +5,6 @@ description: "Spill FLAC, DSD, ALAC og 120+ lydformater på iPhone og Mac med Fl
 keywords: ["lossless musikkspiller", "FLAC-spiller iOS", "DSD-spiller iPhone", "hi-res lyd Mac", "Flacbox app", "beste FLAC-spiller iPhone", "frakoblet FLAC-spiller", "audiofil musikkspiller iOS", "Mac FLAC-spiller", "hi-res strømming iOS", "spill FLAC på iPhone", "DSD128-spiller", "lossless lydapp"]
 tags: ["flacbox", "musikk", "lyd", "lossless", "iphone", "mac", "flac", "dsd", "audiofil"]
 draft: false
-aliases:
-  - /post/unleash-audiophile-bliss-playing-lossless-music-on-iphone-or-mac-with-flacbox/
 cascade:
   type: docs
 authors:

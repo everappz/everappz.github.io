@@ -5,8 +5,6 @@ description: "Посмотрите промо-видео Evermusic, демонс
 keywords: ["Промо-видео Evermusic", "музыкальный плеер iOS", "облачное музыкальное приложение iPhone", "демо приложения Evermusic", "лучший музыкальный плеер iPhone", "офлайн музыкальный плеер iOS"]
 tags: ["Evermusic", "промо", "музыка", "видео", "облачная музыка", "приложение iOS"]
 draft: false
-aliases:
-  - /post/evermusic-be-inspired-by-music/
 sidebar:
   exclude: true
 cascade:

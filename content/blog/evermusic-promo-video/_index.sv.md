@@ -5,8 +5,6 @@ description: "Se det officiella Evermusic-reklamvideon. Se hur Evermusic streama
 keywords: ["Evermusic reklamvideo", "molnmusikspelare iPhone", "musikappvideo", "Evermusic appdemo", "molnmusik iOS", "Evermusic funktioner", "musikspelare iPad", "streama musik från molnet"]
 tags: ["evermusic", "reklam", "video", "ios", "musik", "moln", "spelare", "mobilapp"]
 draft: false
-aliases:
-  - /post/evermusic-promo-video/
 cascade:
   type: docs
 authors:

@@ -10,8 +10,6 @@ layout: hextra-home
 description: "Tusenvis av kunder bruker Soundy som standard SoundCloud-spiller på iPhone. Få ultimat lydkvalitet, equalizer og mye mer."
 keywords: ["Soundy", "SoundCloud-spiller iPhone", "iOS musikk-equalizer", "equalizer for SoundCloud", "SoundCloud frakoblet spiller", "lydkvalitetsforsterker iOS", "SoundCloud EQ-app", "beste SoundCloud-klient iPhone", "iPhone musikkapper", "alternativ SoundCloud-spiller"]
 tags: ["Soundy", "SoundCloud", "iOS-apper", "musikk-equalizer", "lydspiller", "frakoblet avspilling", "musikkapp iPhone", "avviklede apper", "mediaspiller", "musikkstrømming"]
-aliases:
-  - /soundy/
 ---
 
 <div class="hx:w-full hx:max-w-screen-lg hx:mx-auto hx:flex hx:flex-col hx:items-center hx:justify-center hx:text-center">

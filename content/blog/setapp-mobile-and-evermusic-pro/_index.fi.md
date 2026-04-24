@@ -5,8 +5,6 @@ description: "Hanki Evermusic Pro Setapp Mobilen kautta. Suoratoista musiikkia G
 keywords: ["Setapp Mobile", "Evermusic Pro", "pilvimusiikin soitin", "musiikin suoratoisto iPhone", "offline-musiikki iOS", "Setapp iOS -sovellukset", "audiofiilisovellus iPhone", "taajuuskorjain iOS", "NAS-musiikki iPhone", "pilvitallennuksen musiikkisoitin", "Setapp-musiikkisovellus", "musiikin suoratoisto Google Drivestä iPhone"]
 tags: ["evermusic", "setapp", "pilvi", "ääni", "mobiili", "marketplace", "musiikki", "ios-sovellukset"]
 draft: false
-aliases:
-  - /post/setapp-mobile-and-evermusic-pro/
 cascade:
   type: docs
 authors:

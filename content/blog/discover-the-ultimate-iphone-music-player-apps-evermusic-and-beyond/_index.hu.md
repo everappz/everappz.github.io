@@ -5,8 +5,6 @@ description: "Hasonlítsa össze a legjobb iPhone zenelejátszó alkalmazásokat
 keywords: ["legjobb iPhone zenelejátszó", "zenelejátszó alkalmazás iOS", "Evermusic vs Spotify", "felhő zenelejátszó iPhone", "offline zenei alkalmazás iPhone", "FLAC lejátszó iOS", "Apple Music alternatívák", "VLC iPhone", "ingyenes zenelejátszó iOS"]
 tags: ["zenei alkalmazások", "iOS", "Evermusic", "Apple Music", "Spotify", "VLC", "Amazon Music", "összehasonlítás", "felhő zene", "offline lejátszás"]
 draft: false
-aliases:
-  - /post/discover-the-ultimate-iphone-music-player-apps-evermusic-and-beyond/
 cascade:
   type: docs
 authors:

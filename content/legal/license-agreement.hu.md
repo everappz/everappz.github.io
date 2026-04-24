@@ -2,8 +2,6 @@
 date: '2025-06-12T17:00:00+00:00'
 draft: false
 title: 'Licencszerződés'
-aliases:
-  - /license-agreement/
 ---
 
 VÉGFELHASZNÁLÓI LICENCSZERZŐDÉS AZ EVERAPPZ S.L. TERMÉKEIHEZ

@@ -5,8 +5,6 @@ description: "Sammenlign de beste iPhone musikkspiller-appene: Evermusic, Apple 
 keywords: ["beste iPhone musikkspiller", "musikkspiller-app iOS", "Evermusic vs Spotify", "sky-musikkspiller iPhone", "offline musikkapp iPhone", "FLAC-spiller iOS", "Apple Music alternativer", "VLC iPhone", "gratis musikkspiller iOS"]
 tags: ["musikkapper", "iOS", "Evermusic", "Apple Music", "Spotify", "VLC", "Amazon Music", "sammenligning", "skymusikk", "offline avspilling"]
 draft: false
-aliases:
-  - /post/discover-the-ultimate-iphone-music-player-apps-evermusic-and-beyond/
 cascade:
   type: docs
 authors:

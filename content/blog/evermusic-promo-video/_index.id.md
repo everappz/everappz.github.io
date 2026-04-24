@@ -5,8 +5,6 @@ description: "Tonton video promo resmi Evermusic. Lihat bagaimana Evermusic mela
 keywords: ["video promo Evermusic", "pemutar musik cloud iPhone", "video aplikasi musik", "demo aplikasi Evermusic", "musik cloud iOS", "fitur Evermusic", "pemutar musik iPad", "streaming musik dari cloud"]
 tags: ["evermusic", "promo", "video", "ios", "musik", "cloud", "pemutar", "aplikasi mobile"]
 draft: false
-aliases:
-  - /post/evermusic-promo-video/
 cascade:
   type: docs
 authors:

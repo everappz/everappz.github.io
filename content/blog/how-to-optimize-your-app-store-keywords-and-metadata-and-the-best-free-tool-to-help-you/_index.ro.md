@@ -4,8 +4,6 @@ date: 2025-04-30
 description: "Ghid pas cu pas pentru optimizarea cuvintelor cheie, titlurilor și subtitlurilor App Store. Include un instrument ASO gratuit bazat pe browser cu integrare Fastlane."
 keywords: ["ghid cuvinte cheie app store", "optimizare cuvinte cheie ASO", "optimizare titlu app store", "optimizare subtitlu app store", "metadate app store", "cum să îmbunătățești clasamentul app store", "optimizare app store", "instrument ASO gratuit", "instrumente ASO gratuite", "strategie cuvinte cheie app store", "apple app store SEO", "instrument metadate fastlane", "cercetare gratuită cuvinte cheie app store"]
 tags: ["Optimizare App Store", "instrumente ASO gratuite", "optimizare titlu app store", "instrument ASO gratuit", "strategie cuvinte cheie app store", "optimizer metadate"]
-aliases:
-  - /post/how-to-optimize-your-app-store-keywords-and-metadata-and-the-best-free-tool-to-help-you/
 draft: false
 sidebar:
   exclude: true

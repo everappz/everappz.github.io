@@ -5,9 +5,6 @@ date: 2017-03-09
 readingTime: 2
 tags: ["क्लाउड", "प्लेयर", "इक्वलाइज़र", "iPhone", "SoundCloud", "स्ट्रीम", "Chromecast"]
 keywords: ["soundcloud इक्वलाइज़र ऐप", "10-बैंड इक्वलाइज़र iOS", "soundy soundcloud प्लेयर", "प्रीसेट के साथ म्यूज़िक ऐप", "iPhone के लिए इक्वलाइज़र", "प्लेबैक स्पीड soundcloud", "स्लीप टाइमर के साथ soundcloud ऐप"]
-aliases:
-  - /post/soundy-equalizer-for-soundcloud-on-the-app-store/
-  - /single-post/soundy-equalizer-for-soundcloud-on-the-app-store/
 ---
 
 {{< author-byline >}}

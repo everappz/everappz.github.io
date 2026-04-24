@@ -2,8 +2,6 @@
 date: '2025-06-12T17:00:00+00:00'
 draft: false
 title: 'Avís Legal'
-aliases:
-  - /legal-notice/
 ---
 
 ## Dades Identificatives del Titular del Lloc Web

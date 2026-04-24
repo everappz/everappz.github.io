@@ -5,9 +5,6 @@ description: "Ismerje meg, hogyan streamelhető és gyorsítótárazható az aud
 keywords: ["iOS audio streaming", "AVAssetResourceLoaderDelegate", "AVURLAsset", "AVPlayer útmutató", "AVFoundation audio", "AVAssetResourceLoadingRequest", "egyéni audio lejátszó iOS", "felhő audio streaming iOS", "audio gyorsítótárazás iOS", "Swift AVPlayer egyéni séma"]
 tags: ["streaming", "AVPlayer", "AVFoundation", "iOS", "AVAssetResourceLoader", "tutorial", "Objective-C", "audio caching"]
 draft: false
-aliases:
-  - /post/audio-streaming-and-caching-in-ios-using-avassetresourceloader-and-avplayer/
-  - /single-post/Audio-Streaming-and-Caching-in-iOS-using-AVAssetResourceLoader-and-AVPlayer/
 cascade:
   type: docs
 authors:

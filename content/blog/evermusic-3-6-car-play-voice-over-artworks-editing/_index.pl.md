@@ -5,8 +5,6 @@ description: "Evermusic 3.6 dodaje obsługę CarPlay, dostępność VoiceOver, m
 keywords: ["Evermusic CarPlay", "odtwarzacz muzyki CarPlay iPhone", "VoiceOver aplikacja muzyczna iOS", "edytor tagów FLAC iPhone", "edycja okładki albumu iOS", "import muzyki iCloud Drive", "odtwarzacz audio dostępność iOS", "mieszane wyjście audio iPhone"]
 tags: ["Evermusic", "CarPlay", "VoiceOver", "dostępność", "iCloud Drive", "edytor tagów", "edycja okładek", "aktualizacja iOS"]
 draft: false
-aliases:
-  - /post/evermusic-3-6-car-play-voice-over-artworks-editing/
 cascade:
   type: docs
 authors:

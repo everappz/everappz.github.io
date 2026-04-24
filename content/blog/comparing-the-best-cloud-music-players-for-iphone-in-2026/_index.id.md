@@ -5,9 +5,6 @@ description: "Bandingkan 7 pemutar musik cloud terbaik untuk iPhone: Apple Music
 keywords: ["pemutar musik cloud iPhone", "aplikasi musik terbaik untuk iPhone", "Evermusic vs Spotify", "aplikasi musik offline iOS", "alternatif Apple Music", "putar FLAC di iPhone", "streaming musik cloud", "pemutar audio iPhone", "pemutar musik untuk Dropbox", "putar file musik sendiri iPhone"]
 tags: ["music", "streaming", "apps", "iOS", "cloud music", "Evermusic", "Spotify", "Apple Music", "YouTube Music", "SoundCloud", "comparison"]
 draft: false
-aliases:
-  - /post/comparing-the-best-cloud-music-players-for-iphone-in-2023/
-  - /blog/comparing-the-best-cloud-music-players-for-iphone-in-2023/
 cascade:
   type: docs
 authors:

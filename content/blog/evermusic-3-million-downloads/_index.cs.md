@@ -5,9 +5,6 @@ description: "Evermusic dosáhl 3 milionů stažení. Prozkoumejte cloudový str
 keywords: ["stažení Evermusic", "hudební přehrávač iOS", "cloudová hudební aplikace", "offline hudební přehrávač iPhone", "stahování hudby iOS", "přehrávač audioknih iPhone", "editor tagů ID3 iOS", "správce souborů iPhone", "aplikace hudební ekvalizér", "nejlepší cloudový hudební přehrávač", "streamování hudby z NAS iPhone"]
 tags: ["Evermusic", "stažení", "milník", "hudební aplikace", "cloudový přehrávač", "offline přehrávač", "editor tagů", "ekvalizér", "audioknihy", "správce souborů"]
 draft: false
-aliases:
-  - /post/evermusic-3-million-downloads/
-  - /single-post/Evermusic-3-million-downloads/
 cascade:
   type: docs
 authors:

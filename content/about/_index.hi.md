@@ -3,8 +3,6 @@ date: '2025-06-12T17:00:00+00:00'
 draft: false
 title: 'हमारे बारे में'
 description: 'Everappz S.L. एक स्पेनिश सॉफ्टवेयर कंपनी है जो ऑडियो और वीडियो के लिए iOS और macOS ऐप्स विकसित करती है। Evermusic (11M डाउनलोड), Flacbox, EverTag, EverVideo और Soundy के निर्माता — दुनिया भर में 14 मिलियन से अधिक डाउनलोड।'
-aliases:
-  - /_api/one-app-session-web/v3/businesses/
 ---
 
 {{< lottie src="/images/juicy-json/juicy-girl-and-guy-preparing-start-up-rocket-to-launch-with-ideas.json" width="65%" >}}

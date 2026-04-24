@@ -5,9 +5,6 @@ description: "Transmita música do Google Drive, Dropbox ou OneDrive no iPhone e
 keywords: ["Evermusic", "reprodutor de música na nuvem", "aplicativo de música iOS", "transmitir música da nuvem", "música offline iPhone", "reprodutor de música Google Drive", "transmissão de música Dropbox", "reprodutor MP3 iPhone", "liberar espaço iPhone", "música via SMB", "reproduzir música do armazenamento em nuvem iOS", "reprodutor de música sem iTunes"]
 tags: ["áudio", "transmissão", "reprodutor", "mp3", "download", "GoogleDrive", "Dropbox", "música na nuvem", "reprodução offline"]
 draft: false
-aliases:
-  - /post/evermusic-stream-your-music-from-the-cloud-and-free-up-space-on-your-iphone-or-ipad/
-  - /single-post/Evermusic-stream-your-music-from-the-cloud-and-free-up-space-on-your-iPhone-or-iPad/
 cascade:
   type: docs
 authors:

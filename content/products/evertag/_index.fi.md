@@ -6,9 +6,6 @@ layout: hextra-home
 description: "Pidä musiikkikirjastosi järjestyksessä. Etsi puuttuvat tunnisteet. Erämuokkaus. Vaihda albumin kansia ja paljon muuta."
 keywords: ["Evertag", "äänitunniste-editori", "ID3-tunnisteiden hallinta", "muokkaa musiikin metatietoja", "FLAC-tunniste-editori", "musiikin järjestelijäsovellus", "MP3-metatietojen muokkain", "iOS musiikin tunniste-editori", "Mac äänitunnistesovellus", "nimeä musiikkitiedostot uudelleen"]
 tags: ["Evertag", "ID3-tunnisteet", "musiikin metatiedot", "äänitunniste-editori", "MP3-editori", "FLAC-tunnisteet", "iPhone-työkalut", "Mac-musiikkityökalut", "musiikkikirjaston hallinta"]
-aliases:
-  - /evertag/
-  - /mp3tag/
 appStoreUrl: "https://apps.apple.com/app/apple-store/id1450763230?pt=95781850&ct=everappzcom&mt=8"
 appStoreId: "1450763230"
 features: "Muokkaa yli 120 äänitunnistetta, Tunnisteiden erämuokkaus, Albumin kansien etsijä, Yli 30 äänimuodon tuki, Automaattinen tunnisteiden etsijä MusicBrainzin kautta, Koodausongelmien korjaus, Pilvi- ja USB-käyttö, Wi-Fi-musiikkisiirto, Sisäänrakennettu tiedostonhallinta, Sanoitusten muokkain"

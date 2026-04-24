@@ -2,8 +2,6 @@
 date: '2025-06-12T17:00:00+00:00'
 draft: false
 title: 'Neem contact met ons op'
-aliases:
-  - /contact-us/
 ---
 
 {{< lottie src="/images/juicy-json/juicy-girl-typing-on-phone.json" width="60%" >}}

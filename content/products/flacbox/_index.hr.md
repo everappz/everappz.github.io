@@ -6,8 +6,6 @@ layout: hextra-home
 description: "Reproducirajte i preuzimajte FLAC, DSD, APE, ALAC datoteke na svom iPhoneu. Slušajte glazbu izravno iz oblaka ili s računala uz ekvilajzer."
 keywords: ["FLAC player iPhone", "player za bezgubitnu glazbu", "hi-res audio player", "DSD player iOS", "ALAC player iPhone", "offline music player iOS", "cloud music player", "stream glazbe s NAS-a", "reprodukcija FLAC na iPhoneu", "iPhone music player s oznakama", "Mac music player", "preuzimanje glazbe iPhone", "audio ekvilajzer iOS", "USB music player iPhone", "multi-cloud music player", "SMB WebDAV DLNA player", "iTunes dijeljenje datoteka", "AirPlay i Chromecast podrška"]
 tags: ["FLAC player", "Hi-Res audio", "offline reprodukcija", "glazba u oblaku", "DSD audio", "Mac aplikacije", "iPhone aplikacije", "USB audio iOS", "upravitelj glazbenih datoteka", "audio ekvilajzer", "uređivač metapodataka", "MP3 player", "SMB player", "Chromecast glazba", "CarPlay music player", "podrška za više formata", "streaming glazbe", "upravitelj audio biblioteke"]
-aliases:
-  - /flacbox/
 appStoreUrl: "https://apps.apple.com/app/apple-store/id1097564256?pt=95781850&ct=everappzcom&mt=8"
 appStoreId: "1097564256"
 features: "Hi-Res FLAC/DSD/APE/ALAC reprodukcija, Streaming iz oblaka (iCloud, Google Drive, Dropbox, OneDrive, MEGA, Box), Audio ekvilajzer s postavkama, Crossfade i gapless reprodukcija, M3U uvoz/izvoz playlista, Preglednik tekstova pjesama, Audio oznake, Apple CarPlay, AirPlay i Chromecast, SMB/WebDAV/DLNA podrška, Reprodukcija s USB pogona, Last.fm scrobbling, Ugrađeni uređivač oznaka"

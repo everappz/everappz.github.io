@@ -5,8 +5,6 @@ description: "Evermusic dostiže 11 milijuna preuzimanja. Pogledajte značajke k
 keywords: ["Evermusic 11 milijuna preuzimanja", "najbolji cloud glazbeni player iOS", "izvanmrežni glazbeni player iPhone", "iCloud Drive streaming glazbe", "aplikacija 10-pojasni ekvilajzer", "uređivač ID3 oznaka iOS", "glazbeni player Mac iPhone sinkronizacija", "FLAC player iPhone"]
 tags: ["Evermusic", "prekretnica", "glazba u oblaku", "izvanmrežna reprodukcija", "iCloud Drive", "ekvilajzer", "iOS glazbeni player"]
 draft: false
-aliases:
-  - /post/evermusic-celebrates-11-million-worldwide-downloads-a-musical-milestone/
 cascade:
   type: docs
 authors:

@@ -5,8 +5,6 @@ description: "قارن بين أفضل تطبيقات مشغل الموسيقى 
 keywords: ["أفضل مشغل موسيقى للآيفون", "تطبيق مشغل موسيقى iOS", "Evermusic مقابل Spotify", "مشغل موسيقى سحابي للآيفون", "تطبيق موسيقى بدون إنترنت للآيفون", "مشغل FLAC لـ iOS", "بدائل Apple Music", "VLC للآيفون", "مشغل موسيقى مجاني لـ iOS"]
 tags: ["تطبيقات الموسيقى", "iOS", "Evermusic", "Apple Music", "Spotify", "VLC", "Amazon Music", "مقارنة", "موسيقى سحابية", "تشغيل بدون إنترنت"]
 draft: false
-aliases:
-  - /post/discover-the-ultimate-iphone-music-player-apps-evermusic-and-beyond/
 cascade:
   type: docs
 authors:

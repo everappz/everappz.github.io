@@ -5,8 +5,6 @@ description: "Evermusic 6.8 เพิ่มการรองรับ Aliyun Dr
 keywords: ["อัปเดต Evermusic", "Aliyun Drive เครื่องเล่นเพลง", "Synology NAS เพลง", "เครื่องเล่นเพลงคลาวด์ iOS", "เครื่องเล่นเสียง iOS", "สไตล์ปกอัลบั้ม", "ลากและวางเบราว์เซอร์ไฟล์", "Evermusic 6.8", "เครื่องเล่น FLAC iOS", "QuickConnect เครื่องเล่นเพลง", "สตรีมเพลง NAS iPhone"]
 tags: ["Evermusic", "Aliyun Drive", "Synology", "ปกอัลบั้ม", "เพลงคลาวด์", "แอปเพลง iOS", "มีอะไรใหม่"]
 draft: false
-aliases:
-  - /post/evermusic6-8-aliyun-drive-synology-new-album-cover-styles/
 cascade:
   type: docs
 authors:

@@ -5,9 +5,6 @@ description: "Pelajari cara melakukan streaming dan cache audio di iOS menggunak
 keywords: ["iOS audio streaming", "AVAssetResourceLoaderDelegate", "AVURLAsset", "tutorial AVPlayer", "AVFoundation audio", "AVAssetResourceLoadingRequest", "pemutar audio kustom iOS", "cloud audio streaming iOS", "cache audio iOS", "Swift AVPlayer skema kustom"]
 tags: ["streaming", "AVPlayer", "AVFoundation", "iOS", "AVAssetResourceLoader", "tutorial", "Objective-C", "audio caching"]
 draft: false
-aliases:
-  - /post/audio-streaming-and-caching-in-ios-using-avassetresourceloader-and-avplayer/
-  - /single-post/Audio-Streaming-and-Caching-in-iOS-using-AVAssetResourceLoader-and-AVPlayer/
 cascade:
   type: docs
 authors:

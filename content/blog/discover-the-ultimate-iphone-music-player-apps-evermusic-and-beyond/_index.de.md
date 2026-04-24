@@ -5,8 +5,6 @@ description: "Vergleichen Sie die besten iPhone-Musikplayer-Apps: Evermusic, App
 keywords: ["bester iPhone Musikplayer", "Musikplayer App iOS", "Evermusic vs Spotify", "Cloud Musikplayer iPhone", "Offline Musik App iPhone", "FLAC Player iOS", "Apple Music Alternativen", "VLC iPhone", "kostenloser Musikplayer iOS"]
 tags: ["Musik-Apps", "iOS", "Evermusic", "Apple Music", "Spotify", "VLC", "Amazon Music", "Vergleich", "Cloud-Musik", "Offline-Wiedergabe"]
 draft: false
-aliases:
-  - /post/discover-the-ultimate-iphone-music-player-apps-evermusic-and-beyond/
 cascade:
   type: docs
 authors:

@@ -6,8 +6,6 @@ layout: hextra-home
 description: "iPhone上でFLAC、DSD、APE、ALACファイルを再生・ダウンロード。クラウドストレージやコンピュータから直接イコライザー付きで音楽を聴けます。"
 keywords: ["FLACプレーヤー iPhone", "ロスレス音楽プレーヤー", "ハイレゾオーディオプレーヤー", "DSDプレーヤー iOS", "ALACプレーヤー iPhone", "オフライン音楽プレーヤー iOS", "クラウド音楽プレーヤー", "NASから音楽ストリーミング", "iPhoneでFLAC再生", "タグ付きiPhone音楽プレーヤー", "Mac音楽プレーヤー", "音楽ダウンロード iPhone", "オーディオイコライザー iOS", "USB音楽プレーヤー iPhone", "マルチクラウド音楽プレーヤー", "SMB WebDAV DLNAプレーヤー", "iTunesファイル共有アプリ", "AirPlay Chromecastサポート"]
 tags: ["FLACプレーヤー", "ハイレゾオーディオ", "オフライン再生", "クラウド音楽", "DSDオーディオ", "Macアプリ", "iPhoneアプリ", "USB オーディオ iOS", "音楽ファイルマネージャー", "オーディオイコライザー", "メタデータエディター", "MP3プレーヤー", "SMBプレーヤー", "Chromecast音楽", "CarPlay音楽プレーヤー", "マルチフォーマット対応", "音楽ストリーミング", "オーディオライブラリマネージャー"]
-aliases:
-  - /flacbox/
 appStoreUrl: "https://apps.apple.com/app/apple-store/id1097564256?pt=95781850&ct=everappzcom&mt=8"
 appStoreId: "1097564256"
 features: "ハイレゾFLAC/DSD/APE/ALAC再生、クラウドストリーミング（iCloud、Google Drive、Dropbox、OneDrive、MEGA、Box）、プリセット付きオーディオイコライザー、クロスフェード＆ギャップレス再生、M3Uプレイリストインポート/エクスポート、歌詞ビューアー、オーディオブックマーク、Apple CarPlay、AirPlay＆Chromecast、SMB/WebDAV/DLNAサポート、USBフラッシュドライブ再生、Last.fmスクロブリング、内蔵タグエディター"

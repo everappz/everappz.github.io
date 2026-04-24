@@ -5,9 +5,6 @@ description: "Vertaa 7 parasta pilvimusiikin soitinta iPhonelle: Apple Music, Sp
 keywords: ["pilvimusiikin soitin iPhone", "parhaat musiikkisovellukset iPhonelle", "Evermusic vs Spotify", "offline-musiikkisovellus iOS", "Apple Music vaihtoehto", "FLAC:n toistaminen iPhonella", "pilvimusiikin suoratoisto", "äänentoistin iPhone", "musiikinsoitin Dropboxille", "omien musiikkitiedostojen toistaminen iPhonella"]
 tags: ["music", "streaming", "apps", "iOS", "cloud music", "Evermusic", "Spotify", "Apple Music", "YouTube Music", "SoundCloud", "comparison"]
 draft: false
-aliases:
-  - /post/comparing-the-best-cloud-music-players-for-iphone-in-2023/
-  - /blog/comparing-the-best-cloud-music-players-for-iphone-in-2023/
 cascade:
   type: docs
 authors:

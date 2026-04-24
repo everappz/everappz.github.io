@@ -5,9 +5,6 @@ date: 2016-12-17
 readingTime: 3
 tags: ["streaming", "iPhone", "SoundCloud", "GoogleChromecast"]
 keywords: ["SoundCloud Chromecast iOS", "aplikace Soundy SoundCloud", "streamovat SoundCloud na TV", "hudební přehrávač Chromecast", "ekvalizér SoundCloud iPhone", "seznamy skladeb Soundy SoundCloud"]
-aliases:
-  - /post/soundy-stream-your-music-from-soundcloud-to-chromecast/
-  - /single-post/Soundy-Stream-Your-Music-from-SoundCloud-to-Chromecast/
 ---
 
 {{< author-byline >}}

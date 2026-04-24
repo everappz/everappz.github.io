@@ -5,8 +5,6 @@ description: "Flacbox से iPhone और Mac पर FLAC, DSD, ALAC और 120
 keywords: ["lossless म्यूजिक प्लेयर", "FLAC प्लेयर iOS", "DSD प्लेयर iPhone", "hi-res ऑडियो Mac", "Flacbox ऐप", "सबसे अच्छा FLAC प्लेयर iPhone", "ऑफ़लाइन FLAC प्लेयर", "ऑडियोफाइल म्यूजिक प्लेयर iOS", "Mac FLAC प्लेयर", "hi-res स्ट्रीमिंग iOS", "iPhone पर FLAC चलाएं", "DSD128 प्लेयर", "lossless ऑडियो ऐप"]
 tags: ["flacbox", "म्यूजिक", "ऑडियो", "lossless", "iphone", "mac", "flac", "dsd", "ऑडियोफाइल"]
 draft: false
-aliases:
-  - /post/unleash-audiophile-bliss-playing-lossless-music-on-iphone-or-mac-with-flacbox/
 cascade:
   type: docs
 authors:

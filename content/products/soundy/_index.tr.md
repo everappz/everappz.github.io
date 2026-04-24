@@ -10,8 +10,6 @@ layout: hextra-home
 description: "Binlerce müşteri iPhone'da varsayılan SoundCloud oynatıcısı olarak Soundy'yi kullanıyor. En iyi ses kalitesi, ekolayzır ve çok daha fazlasını edinin."
 keywords: ["Soundy", "SoundCloud oynatıcı iPhone", "iOS müzik ekolayzırı", "SoundCloud için ekolayzır", "SoundCloud çevrimdışı oynatıcı", "ses kalitesi güçlendirici iOS", "SoundCloud EQ uygulaması", "en iyi SoundCloud istemcisi iPhone", "iPhone müzik uygulamaları", "alternatif SoundCloud oynatıcı"]
 tags: ["Soundy", "SoundCloud", "iOS uygulamaları", "müzik ekolayzırı", "ses oynatıcı", "çevrimdışı oynatma", "müzik uygulaması iPhone", "sonlandırılmış uygulamalar", "medya oynatıcı", "müzik akışı"]
-aliases:
-  - /soundy/
 ---
 
 <div class="hx:w-full hx:max-w-screen-lg hx:mx-auto hx:flex hx:flex-col hx:items-center hx:justify-center hx:text-center">

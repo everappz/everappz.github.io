@@ -5,9 +5,6 @@ description: "Evermusic 3.1 přidává crossfade přehrávání, přepracovanou 
 keywords: ["aktualizace Evermusic", "crossfade přehrávání iOS", "cloudová hudební aplikace", "aplikace pro zálohu hudby", "fronta zvukového přehrávače", "editor hudebních tagů", "aktualizace ID3 tagů", "integrace knihovny iPod", "hudební přehrávač iPhone", "crossfade hudba iOS", "synchronizace hudební knihovny cloud", "záloha playlistů iOS"]
 tags: ["Evermusic", "crossfade", "hudební knihovna", "záloha", "zvuková fronta", "tagy", "cloudový přehrávač", "offline přehrávač", "editor", "knihovna iPod"]
 draft: false
-aliases:
-  - /post/evermusic-31-crossfade-playback/
-  - /single-post/Evermusic-Sync-your-Music-Library-Save-playback-position-Correct-music-tags/
 cascade:
   type: docs
 authors:

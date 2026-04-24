@@ -2,11 +2,6 @@
 date: '2025-06-12T17:00:00+00:00'
 draft: false
 title: 'Termes i condicions'
-aliases:
-  - /terms-and-conditions/
-  - /terms-and-conditionsDec/
-  - /terms-and-condition/
-  - /terms-and-conditionsMay/
 ---
 
 EVERAPPZ S.L. és la propietària d'aplicacions com Evermusic, Evermusic Pro, Flacbox i l'aplicació Evertag. Aquests reproductors de música admeten diversos tipus de fitxers, i Evertag us permet editar les etiquetes d'àudio dels vostres fitxers, tot d'acord amb els Termes i condicions.

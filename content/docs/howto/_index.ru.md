@@ -4,8 +4,6 @@ draft: false
 title: 'Инструкции'
 description: 'Пошаговые руководства и советы, которые помогут вам настроить, использовать и получить максимум от приложений Everappz.'
 excludeSearch: true
-aliases:
-  - /post/how-to-/
 ---
 
 

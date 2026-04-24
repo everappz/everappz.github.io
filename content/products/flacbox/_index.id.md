@@ -6,8 +6,6 @@ layout: hextra-home
 description: "Putar & unduh file FLAC, DSD, APE, ALAC di iPhone Anda. Dengarkan musik langsung dari penyimpanan cloud atau komputer dengan equalizer."
 keywords: ["Pemutar FLAC iPhone", "pemutar musik lossless", "pemutar audio hi-res", "pemutar DSD iOS", "pemutar ALAC iPhone", "pemutar musik offline iOS", "pemutar musik cloud", "streaming musik dari NAS", "putar FLAC di iPhone", "pemutar musik iPhone dengan tag", "pemutar musik Mac", "unduh musik iPhone", "equalizer audio iOS", "pemutar musik USB iPhone", "pemutar musik multi-cloud", "pemutar SMB WebDAV DLNA", "aplikasi berbagi file iTunes", "dukungan AirPlay dan Chromecast"]
 tags: ["Pemutar FLAC", "Audio Hi-Res", "pemutaran offline", "musik cloud", "audio DSD", "aplikasi Mac", "aplikasi iPhone", "audio USB iOS", "pengelola file musik", "equalizer audio", "editor metadata", "pemutar MP3", "pemutar SMB", "musik Chromecast", "pemutar musik CarPlay", "dukungan multi-format", "streaming musik", "pengelola pustaka audio"]
-aliases:
-  - /flacbox/
 appStoreUrl: "https://apps.apple.com/app/apple-store/id1097564256?pt=95781850&ct=everappzcom&mt=8"
 appStoreId: "1097564256"
 features: "Pemutaran Hi-Res FLAC/DSD/APE/ALAC, Streaming cloud (iCloud, Google Drive, Dropbox, OneDrive, MEGA, Box), Equalizer audio dengan preset, Pemutaran crossfade dan gapless, Impor/ekspor playlist M3U, Penampil lirik, Penanda audio, Apple CarPlay, AirPlay dan Chromecast, Dukungan SMB/WebDAV/DLNA, Pemutaran dari USB flash drive, Scrobbling Last.fm, Editor tag bawaan"

@@ -10,8 +10,6 @@ layout: hextra-home
 description: "Тисячі користувачів використовують Soundy як стандартний плеєр SoundCloud на iPhone. Отримайте найкращу якість звуку, еквалайзер та багато іншого."
 keywords: ["Soundy", "плеєр SoundCloud iPhone", "еквалайзер музики iOS", "еквалайзер для SoundCloud", "офлайн-плеєр SoundCloud", "підсилювач якості звуку iOS", "додаток SoundCloud EQ", "найкращий клієнт SoundCloud iPhone", "музичні додатки iPhone", "альтернативний плеєр SoundCloud"]
 tags: ["Soundy", "SoundCloud", "додатки iOS", "музичний еквалайзер", "аудіоплеєр", "офлайн-відтворення", "музичний додаток iPhone", "припинені додатки", "медіаплеєр", "потокова музика"]
-aliases:
-  - /soundy/
 ---
 
 <div class="hx:w-full hx:max-w-screen-lg hx:mx-auto hx:flex hx:flex-col hx:items-center hx:justify-center hx:text-center">

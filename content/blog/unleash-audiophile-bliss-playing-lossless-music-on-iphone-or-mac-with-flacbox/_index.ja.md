@@ -5,8 +5,6 @@ description: "FlacboxでiPhoneとMacでFLAC、DSD、ALAC、120以上のオーデ
 keywords: ["ロスレス音楽プレーヤー", "FLACプレーヤーiOS", "DSDプレーヤーiPhone", "Hi-ResオーディオMac", "Flacboxアプリ", "最高のFLACプレーヤーiPhone", "オフラインFLACプレーヤー", "オーディオファイル音楽プレーヤーiOS", "Mac FLACプレーヤー", "Hi-ResストリーミングiOS", "iPhoneでFLAC再生", "DSD128プレーヤー", "ロスレスオーディオアプリ"]
 tags: ["flacbox", "音楽", "オーディオ", "ロスレス", "iphone", "mac", "flac", "dsd", "オーディオファイル"]
 draft: false
-aliases:
-  - /post/unleash-audiophile-bliss-playing-lossless-music-on-iphone-or-mac-with-flacbox/
 cascade:
   type: docs
 authors:

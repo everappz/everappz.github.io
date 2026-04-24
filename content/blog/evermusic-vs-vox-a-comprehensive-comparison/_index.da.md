@@ -5,8 +5,6 @@ description: "Evermusic vs VOX sammenlignet i 8 kategorier: cloud-lagring, lydb√
 keywords: ["Evermusic vs VOX", "VOX alternativ iOS", "bedste musikafspiller iPhone", "sammenligning af cloud-musikafspillere", "lydbogafspiller iOS", "ID3 tag editor iPhone", "Wi-Fi Drive musikapp", "FLAC afspiller iPhone", "musikafspiller til cloud-lagring", "VOX Cloud alternativ"]
 tags: ["sammenligning", "evermusic", "vox", "cloud", "lydb√∏ger", "tags", "streaming", "apps", "musikafspiller", "ios"]
 draft: false
-aliases:
-  - /post/evermusic-vs-vox-a-comprehensive-comparison/
 sidebar:
   exclude: true
 cascade:

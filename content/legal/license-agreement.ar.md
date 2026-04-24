@@ -2,8 +2,6 @@
 date: '2025-06-12T17:00:00+00:00'
 draft: false
 title: 'اتفاقية الترخيص'
-aliases:
-  - /license-agreement/
 ---
 
 اتفاقية ترخيص المستخدم النهائي لمنتجات EVERAPPZ S.L.

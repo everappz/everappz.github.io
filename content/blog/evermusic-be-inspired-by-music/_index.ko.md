@@ -5,8 +5,6 @@ description: "iPhone과 Mac에서 클라우드 음악 스트리밍, 오프라인
 keywords: ["Evermusic 프로모션 영상", "음악 플레이어 iOS", "클라우드 음악 앱 iPhone", "Evermusic 앱 데모", "최고의 음악 플레이어 iPhone", "오프라인 음악 플레이어 iOS"]
 tags: ["Evermusic", "프로모션", "음악", "영상", "클라우드 음악", "iOS 앱"]
 draft: false
-aliases:
-  - /post/evermusic-be-inspired-by-music/
 sidebar:
   exclude: true
 cascade:

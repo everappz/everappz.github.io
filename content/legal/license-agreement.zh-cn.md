@@ -2,8 +2,6 @@
 date: '2025-06-12T17:00:00+00:00'
 draft: false
 title: '许可协议'
-aliases:
-  - /license-agreement/
 ---
 
 EVERAPPZ S.L. 产品最终用户许可协议

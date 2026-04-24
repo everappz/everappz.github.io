@@ -10,8 +10,6 @@ layout: hextra-home
 description: "Tuhannet asiakkaat käyttävät Soundya oletusarvoisena SoundCloud-soittimena iPhonessa. Hanki paras äänenlaatu, taajuuskorjain ja paljon muuta."
 keywords: ["Soundy", "SoundCloud-soitin iPhone", "iOS musiikki-taajuuskorjain", "taajuuskorjain SoundCloudille", "SoundCloud offline-soitin", "äänenlaadun tehostin iOS", "SoundCloud EQ-sovellus", "paras SoundCloud-asiakasohjelma iPhone", "iPhone musiikkisovellukset", "vaihtoehtoinen SoundCloud-soitin"]
 tags: ["Soundy", "SoundCloud", "iOS-sovellukset", "musiikki-taajuuskorjain", "äänisoitin", "offline-toisto", "musiikkisovellus iPhone", "lopetetut sovellukset", "mediasoitin", "musiikin suoratoisto"]
-aliases:
-  - /soundy/
 ---
 
 <div class="hx:w-full hx:max-w-screen-lg hx:mx-auto hx:flex hx:flex-col hx:items-center hx:justify-center hx:text-center">

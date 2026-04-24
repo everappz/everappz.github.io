@@ -5,8 +5,6 @@ description: "Tonton video promo Evermusic yang menampilkan streaming musik clou
 keywords: ["video promo Evermusic", "pemutar musik iOS", "aplikasi musik cloud iPhone", "demo aplikasi Evermusic", "pemutar musik terbaik iPhone", "pemutar musik offline iOS"]
 tags: ["Evermusic", "promo", "musik", "video", "musik cloud", "aplikasi iOS"]
 draft: false
-aliases:
-  - /post/evermusic-be-inspired-by-music/
 sidebar:
   exclude: true
 cascade:

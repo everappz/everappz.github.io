@@ -2,8 +2,6 @@
 date: '2025-06-12T17:00:00+00:00'
 draft: false
 title: 'Contrat de licence'
-aliases:
-  - /license-agreement/
 ---
 
 CONTRAT DE LICENCE UTILISATEUR FINAL POUR LES PRODUITS EVERAPPZ S.L.

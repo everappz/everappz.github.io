@@ -5,9 +5,6 @@ description: "Evermusicが300万ダウンロードに到達。クラウド音楽
 keywords: ["Evermusic ダウンロード", "iOS 音楽プレーヤー", "クラウド音楽アプリ", "オフライン音楽プレーヤー iPhone", "音楽ダウンローダー iOS", "オーディオブックプレーヤー iPhone", "ID3 タグエディタ iOS", "iPhone ファイルマネージャー", "音楽イコライザーアプリ", "最高のクラウド音楽プレーヤー", "NASから音楽ストリーミング iPhone"]
 tags: ["Evermusic", "ダウンロード", "マイルストーン", "音楽アプリ", "クラウドプレーヤー", "オフラインプレーヤー", "タグエディタ", "イコライザー", "オーディオブック", "ファイルマネージャー"]
 draft: false
-aliases:
-  - /post/evermusic-3-million-downloads/
-  - /single-post/Evermusic-3-million-downloads/
 cascade:
   type: docs
 authors:

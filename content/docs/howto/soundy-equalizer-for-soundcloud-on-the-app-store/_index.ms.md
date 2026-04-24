@@ -5,9 +5,6 @@ date: 2017-03-09
 readingTime: 2
 tags: ["awan", "pemain", "penyama", "iPhone", "SoundCloud", "penstriman", "Chromecast"]
 keywords: ["aplikasi penyama soundcloud", "penyama 10-jalur iOS", "pemain soundy soundcloud", "aplikasi muzik dengan praset", "penyama untuk iPhone", "kelajuan main balik soundcloud", "aplikasi soundcloud dengan pemasa tidur"]
-aliases:
-  - /post/soundy-equalizer-for-soundcloud-on-the-app-store/
-  - /single-post/soundy-equalizer-for-soundcloud-on-the-app-store/
 ---
 
 {{< author-byline >}}

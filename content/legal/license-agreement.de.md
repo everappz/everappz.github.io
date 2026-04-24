@@ -2,8 +2,6 @@
 date: '2025-06-12T17:00:00+00:00'
 draft: false
 title: 'Lizenzvereinbarung'
-aliases:
-  - /license-agreement/
 ---
 
 ENDBENUTZER-LIZENZVEREINBARUNG FÜR PRODUKTE VON EVERAPPZ S.L.

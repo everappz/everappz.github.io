@@ -5,9 +5,6 @@ description: "Naučite kako streamati i cachirati audio na iOS-u koristeći AVAs
 keywords: ["iOS audio streaming", "AVAssetResourceLoaderDelegate", "AVURLAsset", "AVPlayer vodič", "AVFoundation audio", "AVAssetResourceLoadingRequest", "prilagođeni audio player iOS", "cloud audio streaming iOS", "audio caching iOS", "Swift AVPlayer prilagođena shema"]
 tags: ["streaming", "AVPlayer", "AVFoundation", "iOS", "AVAssetResourceLoader", "tutorial", "Objective-C", "audio caching"]
 draft: false
-aliases:
-  - /post/audio-streaming-and-caching-in-ios-using-avassetresourceloader-and-avplayer/
-  - /single-post/Audio-Streaming-and-Caching-in-iOS-using-AVAssetResourceLoader-and-AVPlayer/
 cascade:
   type: docs
 authors:

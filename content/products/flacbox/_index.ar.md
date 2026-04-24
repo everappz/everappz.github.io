@@ -6,8 +6,6 @@ layout: hextra-home
 description: "قم بتشغيل وتنزيل ملفات FLAC و DSD و APE و ALAC على جهاز iPhone الخاص بك. استمع إلى موسيقاك مباشرة من التخزين السحابي أو الكمبيوتر مع معادل الصوت."
 keywords: ["مشغل FLAC iPhone", "مشغل موسيقى بدون فقدان", "مشغل صوت عالي الدقة", "مشغل DSD iOS", "مشغل ALAC iPhone", "مشغل موسيقى بدون إنترنت iOS", "مشغل موسيقى سحابي", "بث الموسيقى من NAS", "تشغيل FLAC على iPhone", "مشغل موسيقى iPhone مع علامات", "مشغل موسيقى Mac", "تنزيل الموسيقى iPhone", "معادل صوتي iOS", "مشغل موسيقى USB iPhone", "مشغل موسيقى متعدد السحب", "مشغل SMB WebDAV DLNA", "تطبيق مشاركة ملفات iTunes", "دعم AirPlay و Chromecast"]
 tags: ["مشغل FLAC", "صوت عالي الدقة", "تشغيل بدون إنترنت", "موسيقى سحابية", "صوت DSD", "تطبيقات Mac", "تطبيقات iPhone", "صوت USB iOS", "مدير ملفات الموسيقى", "معادل صوتي", "محرر البيانات الوصفية", "مشغل MP3", "مشغل SMB", "موسيقى Chromecast", "مشغل موسيقى CarPlay", "دعم تنسيقات متعددة", "بث الموسيقى", "مدير مكتبة الصوت"]
-aliases:
-  - /flacbox/
 appStoreUrl: "https://apps.apple.com/app/apple-store/id1097564256?pt=95781850&ct=everappzcom&mt=8"
 appStoreId: "1097564256"
 features: "تشغيل FLAC/DSD/APE/ALAC عالي الدقة، بث سحابي (iCloud، Google Drive، Dropbox، OneDrive، MEGA، Box)، معادل صوتي مع إعدادات مسبقة، تشغيل متقاطع وبدون فجوات، استيراد/تصدير قوائم تشغيل M3U، عارض كلمات الأغاني، إشارات مرجعية صوتية، Apple CarPlay، AirPlay و Chromecast، دعم SMB/WebDAV/DLNA، تشغيل من محرك أقراص USB، تسجيل Last.fm، محرر علامات مدمج"

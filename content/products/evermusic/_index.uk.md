@@ -6,8 +6,6 @@ layout: hextra-home
 description: "Завантажте найкращий безкоштовний офлайн музичний плеєр для вашого iPhone та Mac і слухайте музику будь-де."
 keywords: ["Evermusic", "офлайн музичний плеєр", "iOS аудіоплеєр", "хмарний музичний додаток", "завантажити музику iPhone", "Mac музичний плеєр", "потокова музика офлайн", "FLAC плеєр iPhone", "мульти-хмарний музичний плеєр", "функції додатку Evermusic"]
 tags: ["Evermusic", "офлайн відтворення", "хмарна музика", "MP3 плеєр", "додатки iPhone", "аудіо потік", "керування музикою", "додатки Mac", "медіаплеєр"]
-aliases:
-  - /evermusic/
 appStoreUrl: "https://apps.apple.com/app/apple-store/id885367198?pt=95781850&ct=everappzcom&mt=8"
 appStoreId: "885367198"
 features: "Офлайн відтворення музики, Хмарне потокове відтворення (iCloud, Google Drive, Dropbox, OneDrive, MEGA, Box), Аудіо еквалайзер з пресетами, Кросфейд та безперервне відтворення, Імпорт/експорт плейлистів M3U, Перегляд текстів пісень, Аудіо закладки, Apple CarPlay, AirPlay та Chromecast, Підтримка SMB/WebDAV/DLNA, Відтворення з USB флеш-накопичувача, Last.fm Scrobbling"

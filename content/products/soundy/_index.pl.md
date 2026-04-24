@@ -10,8 +10,6 @@ layout: hextra-home
 description: "Tysiące klientów używa Soundy jako domyślnego odtwarzacza SoundCloud na iPhone. Uzyskaj najwyższą jakość dźwięku, korektor i wiele więcej."
 keywords: ["Soundy", "odtwarzacz SoundCloud iPhone", "korektor muzyki iOS", "korektor dźwięku dla SoundCloud", "odtwarzacz SoundCloud offline", "wzmacniacz jakości dźwięku iOS", "aplikacja SoundCloud EQ", "najlepszy klient SoundCloud iPhone", "aplikacje muzyczne iPhone", "alternatywny odtwarzacz SoundCloud"]
 tags: ["Soundy", "SoundCloud", "aplikacje iOS", "korektor muzyki", "odtwarzacz audio", "odtwarzanie offline", "aplikacja muzyczna iPhone", "wycofane aplikacje", "odtwarzacz multimedialny", "strumieniowanie muzyki"]
-aliases:
-  - /soundy/
 ---
 
 <div class="hx:w-full hx:max-w-screen-lg hx:mx-auto hx:flex hx:flex-col hx:items-center hx:justify-center hx:text-center">

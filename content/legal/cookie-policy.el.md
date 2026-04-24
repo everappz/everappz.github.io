@@ -2,8 +2,6 @@
 date: '2025-06-12T17:00:00+00:00'
 draft: false
 title: 'Πολιτική Cookies'
-aliases:
-  - /cookie-policy/
 ---
 
 ## Αυτός ο ιστότοπος χρησιμοποιεί cookies

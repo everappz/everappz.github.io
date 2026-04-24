@@ -5,8 +5,6 @@ description: "Evermusic 2.3 donosi automatsku sinkronizaciju glazbe u oblaku, sp
 keywords: ["Evermusic", "cloud glazbeni player", "sinkronizacija glazbe iOS", "spremanje pozicije reprodukcije", "reprodukcija audioknjiga", "čitač metapodataka", "ispravak ID3 oznaka", "streamanje glazbe iz oblaka", "glazbena aplikacija za Dropbox", "Google Drive player", "automatska sinkronizacija glazbene knjižnice", "spremanje pozicije audioknjige iOS"]
 tags: ["evermusic", "glazba", "reprodukcija", "upravitelj", "uređivač", "sinkronizacija", "pozicija", "id3 oznake", "oblak", "što je novo"]
 draft: false
-aliases:
-  - /post/evermusic-sync-your-music-library-save-playback-position-correct-music-tags/
 cascade:
   type: docs
 authors:

@@ -5,9 +5,6 @@ description: "Evermusic 3.1, crossfade oynatma, yeniden tasarlanmış müzik kü
 keywords: ["Evermusic güncelleme", "crossfade oynatma iOS", "bulut müzik uygulaması", "müzik yedekleme uygulaması", "ses oynatıcı kuyruğu", "müzik etiket düzenleyici", "ID3 etiket güncelleme", "iPod kütüphane entegrasyonu", "müzik çalar iPhone", "crossfade müzik iOS", "müzik kütüphanesi bulut senkronizasyonu", "müzik çalma listesi yedekleme iOS"]
 tags: ["Evermusic", "crossfade", "müzik kütüphanesi", "yedekleme", "ses kuyruğu", "etiketler", "bulut çalar", "çevrimdışı çalar", "düzenleyici", "iPod kütüphanesi"]
 draft: false
-aliases:
-  - /post/evermusic-31-crossfade-playback/
-  - /single-post/Evermusic-Sync-your-Music-Library-Save-playback-position-Correct-music-tags/
 cascade:
   type: docs
 authors:

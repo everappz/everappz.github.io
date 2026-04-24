@@ -2,8 +2,6 @@
 date: '2025-06-12T17:00:00+00:00'
 draft: false
 title: 'Mentions Légales'
-aliases:
-  - /legal-notice/
 ---
 
 ## Données d'Identification du Propriétaire du Site Web

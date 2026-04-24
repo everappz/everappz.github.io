@@ -5,9 +5,6 @@ description: "وصل Evermusic إلى 3 ملايين تحميل. اكتشف بث
 keywords: ["تحميلات Evermusic", "مشغل موسيقى iOS", "تطبيق موسيقى سحابي", "مشغل موسيقى بدون اتصال آيفون", "تحميل موسيقى iOS", "مشغل كتب صوتية آيفون", "محرر علامات ID3 iOS", "مدير ملفات آيفون", "تطبيق معادل صوت", "أفضل مشغل موسيقى سحابي", "بث موسيقى من NAS آيفون"]
 tags: ["Evermusic", "تحميلات", "إنجاز", "تطبيقات موسيقى", "مشغل سحابي", "مشغل بدون اتصال", "محرر علامات", "معادل صوت", "كتب صوتية", "مدير ملفات"]
 draft: false
-aliases:
-  - /post/evermusic-3-million-downloads/
-  - /single-post/Evermusic-3-million-downloads/
 cascade:
   type: docs
 authors:

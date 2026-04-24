@@ -5,8 +5,6 @@ description: "Evermusic 6.8 lägger till stöd för Aliyun Drive och Synology NA
 keywords: ["Evermusic uppdatering", "Aliyun Drive musikspelare", "Synology NAS musik", "molnmusikspelare iOS", "ljudspelare iOS", "albumomslagsstilar", "dra och släpp filhanterare", "Evermusic 6.8", "FLAC-spelare iOS", "QuickConnect musikspelare", "NAS musikströmning iPhone"]
 tags: ["Evermusic", "Aliyun Drive", "Synology", "albumomslag", "molnmusik", "iOS musikapp", "nyheter"]
 draft: false
-aliases:
-  - /post/evermusic6-8-aliyun-drive-synology-new-album-cover-styles/
 cascade:
   type: docs
 authors:

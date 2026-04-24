@@ -5,8 +5,6 @@ date: 2024-11-14
 readingTime: 7
 tags: ["zene", "felhő", "streaming", "szinkronizálás", "icloud", "könyvtár"]
 keywords: ["iCloud zene importálás Evermusic", "Flacbox iCloud szinkronizálás", "Evermusic streaming iCloudból", "zenei könyvtár iOS alkalmazás", "Flacbox metaadat-olvasó", "iCloud zene streaming iPhone"]
-aliases:
-  - /post/step-by-step-guide-importing-your-icloud-library-into-evermusic-and-flacbox/
 ---
 
 {{< author-byline >}}

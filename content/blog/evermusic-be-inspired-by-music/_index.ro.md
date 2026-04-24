@@ -5,8 +5,6 @@ description: "Vizionați videoclipul promoțional Evermusic care prezintă strea
 keywords: ["Video promoțional Evermusic", "player muzică iOS", "aplicație muzică cloud iPhone", "demo aplicație Evermusic", "cel mai bun player muzică iPhone", "player muzică offline iOS"]
 tags: ["Evermusic", "promoție", "muzică", "video", "muzică cloud", "aplicație iOS"]
 draft: false
-aliases:
-  - /post/evermusic-be-inspired-by-music/
 sidebar:
   exclude: true
 cascade:

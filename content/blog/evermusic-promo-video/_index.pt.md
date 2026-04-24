@@ -5,8 +5,6 @@ description: "Assista ao vídeo promocional oficial do Evermusic. Veja como o Ev
 keywords: ["Vídeo promocional Evermusic", "reprodutor de música na nuvem iPhone", "vídeo app de música", "demo do app Evermusic", "música na nuvem iOS", "recursos Evermusic", "reprodutor de música iPad", "transmitir música da nuvem"]
 tags: ["evermusic", "promoção", "vídeo", "ios", "música", "nuvem", "reprodutor", "app móvel"]
 draft: false
-aliases:
-  - /post/evermusic-promo-video/
 cascade:
   type: docs
 authors:

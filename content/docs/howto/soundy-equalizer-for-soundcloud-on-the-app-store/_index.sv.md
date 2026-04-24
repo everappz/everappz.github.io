@@ -5,9 +5,6 @@ date: 2017-03-09
 readingTime: 2
 tags: ["moln", "spelare", "equalizer", "iPhone", "SoundCloud", "streaming", "Chromecast"]
 keywords: ["soundcloud equalizer app", "10-bands equalizer iOS", "soundy soundcloud spelare", "musikapp med förinställningar", "equalizer för iPhone", "uppspelningshastighet soundcloud", "soundcloud app med sovtimer"]
-aliases:
-  - /post/soundy-equalizer-for-soundcloud-on-the-app-store/
-  - /single-post/soundy-equalizer-for-soundcloud-on-the-app-store/
 ---
 
 {{< author-byline >}}

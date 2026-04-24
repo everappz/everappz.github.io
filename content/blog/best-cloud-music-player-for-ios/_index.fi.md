@@ -5,8 +5,6 @@ description: "Evermusic yhdistää yli 12 pilvipalveluun, toistaa FLAC- ja MP3-t
 keywords: ["paras pilvimusiikin soitin iOS", "pilvimusiikin soitin iPhone", "musiikin toistaminen Dropboxista", "offline-musiikin soitin iPhone", "FLAC-soitin iOS", "Evermusic arvostelu", "musiikkikirjaston hallinta iOS", "Google Drive musiikin soitin", "NAS-musiikin soitin iPhone", "WebDAV-musiikin soitin"]
 tags: ["Evermusic", "cloud music", "offline playback", "iOS music apps", "MP3 player", "audio", "music streaming", "guide", "FLAC", "review"]
 draft: false
-aliases:
-  - /post/best-cloud-music-player-for-ios/
 cascade:
   type: docs
 authors:

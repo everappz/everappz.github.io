@@ -6,8 +6,6 @@ layout: hextra-home
 description: "Last ned den beste gratis frakoblede musikkspilleren for din iPhone og Mac og lytt til musikken din overalt."
 keywords: ["Evermusic", "frakoblet musikkspiller", "iOS lydspiller", "skymusikkapp", "last ned musikk iPhone", "Mac musikkspiller", "strømme musikk frakoblet", "FLAC-spiller iPhone", "multi-sky musikkspiller", "Evermusic app funksjoner"]
 tags: ["Evermusic", "frakoblet avspilling", "skymusikk", "MP3-spiller", "iPhone-apper", "lydstrømming", "musikkbehandling", "Mac-apper", "mediaspiller"]
-aliases:
-  - /evermusic/
 appStoreUrl: "https://apps.apple.com/app/apple-store/id885367198?pt=95781850&ct=everappzcom&mt=8"
 appStoreId: "885367198"
 features: "Frakoblet musikkavspilling, Skystrømming (iCloud, Google Drive, Dropbox, OneDrive, MEGA, Box), Lydequalizer med forhåndsinnstillinger, Crossfade og sømløs avspilling, M3U spilleliste import/eksport, Sangtekstvisning, Lydbokmerker, Apple CarPlay, AirPlay og Chromecast, SMB/WebDAV/DLNA-støtte, USB-minnepinne avspilling, Last.fm scrobbling"

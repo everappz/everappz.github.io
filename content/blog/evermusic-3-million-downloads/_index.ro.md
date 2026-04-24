@@ -5,9 +5,6 @@ description: "Evermusic a atins 3 milioane de descărcări. Explorați streaming
 keywords: ["Evermusic descărcări", "player muzică iOS", "aplicație muzică cloud", "player muzică offline iPhone", "descărcare muzică iOS", "player cărți audio iPhone", "editor taguri ID3 iOS", "manager fișiere iPhone", "aplicație egalizator muzică", "cel mai bun player muzică cloud", "streaming muzică de pe NAS iPhone"]
 tags: ["Evermusic", "descărcări", "reper", "aplicații muzică", "player cloud", "player offline", "editor taguri", "egalizator", "cărți audio", "manager fișiere"]
 draft: false
-aliases:
-  - /post/evermusic-3-million-downloads/
-  - /single-post/Evermusic-3-million-downloads/
 cascade:
   type: docs
 authors:

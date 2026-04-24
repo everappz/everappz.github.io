@@ -5,8 +5,6 @@ description: "เปรียบเทียบ Evermusic vs VOX ใน 8 หม
 keywords: ["Evermusic vs VOX", "ทางเลือก VOX iOS", "เครื่องเล่นเพลงที่ดีที่สุด iPhone", "เปรียบเทียบเครื่องเล่นเพลงคลาวด์", "เครื่องเล่นหนังสือเสียง iOS", "โปรแกรมแก้ไขแท็ก ID3 iPhone", "แอปเพลง Wi-Fi", "เครื่องเล่น FLAC iPhone", "เครื่องเล่นเพลงสำหรับที่เก็บข้อมูลคลาวด์", "ทางเลือก VOX Cloud"]
 tags: ["เปรียบเทียบ", "evermusic", "vox", "คลาวด์", "หนังสือเสียง", "แท็ก", "สตรีมมิ่ง", "แอป", "เครื่องเล่นเพลง", "ios"]
 draft: false
-aliases:
-  - /post/evermusic-vs-vox-a-comprehensive-comparison/
 sidebar:
   exclude: true
 cascade:

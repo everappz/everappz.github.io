@@ -5,9 +5,6 @@ date: 2017-03-09
 readingTime: 2
 tags: ["云", "播放器", "均衡器", "iPhone", "SoundCloud", "流媒体", "Chromecast"]
 keywords: ["soundcloud均衡器应用", "10段均衡器iOS", "soundy soundcloud播放器", "带预设的音乐应用", "iPhone均衡器", "播放速度soundcloud", "带睡眠定时器的soundcloud应用"]
-aliases:
-  - /post/soundy-equalizer-for-soundcloud-on-the-app-store/
-  - /single-post/soundy-equalizer-for-soundcloud-on-the-app-store/
 ---
 
 {{< author-byline >}}

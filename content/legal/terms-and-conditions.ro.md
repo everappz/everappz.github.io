@@ -2,11 +2,6 @@
 date: '2025-06-12T17:00:00+00:00'
 draft: false
 title: 'Termeni și Condiții'
-aliases:
-  - /terms-and-conditions/
-  - /terms-and-conditionsDec/
-  - /terms-and-condition/
-  - /terms-and-conditionsMay/
 ---
 
 EVERAPPZ S.L. este proprietarul aplicațiilor precum Evermusic, Evermusic Pro, Flacbox și Evertag. Aceste playere de muzică suportă diverse tipuri de fișiere, iar Evertag vă permite să editați etichetele audio ale fișierelor dvs., totul în conformitate cu Termenii și Condițiile.

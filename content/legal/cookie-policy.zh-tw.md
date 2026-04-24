@@ -2,8 +2,6 @@
 date: '2025-06-12T17:00:00+00:00'
 draft: false
 title: 'Cookie政策'
-aliases:
-  - /cookie-policy/
 ---
 
 ## 本網站使用Cookie

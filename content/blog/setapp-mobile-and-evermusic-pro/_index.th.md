@@ -5,8 +5,6 @@ description: "รับ Evermusic Pro ผ่าน Setapp Mobile สตรีม
 keywords: ["Setapp Mobile", "Evermusic Pro", "เครื่องเล่นเพลงคลาวด์", "สตรีมเพลง iPhone", "เพลงออฟไลน์ iOS", "Setapp แอป iOS", "แอปออดิโอไฟล์ iPhone", "อีควอไลเซอร์แอป iOS", "NAS เพลง iPhone", "ที่เก็บข้อมูลคลาวด์เครื่องเล่นเพลง", "Setapp แอปเพลง", "สตรีมเพลงจาก Google Drive iPhone"]
 tags: ["evermusic", "setapp", "คลาวด์", "เสียง", "มือถือ", "ตลาด", "เพลง", "แอป ios"]
 draft: false
-aliases:
-  - /post/setapp-mobile-and-evermusic-pro/
 cascade:
   type: docs
 authors:

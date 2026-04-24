@@ -5,9 +5,6 @@ description: "השווה בין 7 נגני מוזיקה ענן מובילים ל
 keywords: ["נגן מוזיקה ענן iPhone", "אפליקציות המוזיקה הטובות ביותר ל-iPhone", "Evermusic מול Spotify", "אפליקציית מוזיקה אופליין iOS", "חלופה ל-Apple Music", "ניגון FLAC ב-iPhone", "סטרימינג מוזיקה ענן", "נגן שמע iPhone", "נגן מוזיקה ל-Dropbox", "ניגון קבצי מוזיקה משלי ב-iPhone"]
 tags: ["music", "streaming", "apps", "iOS", "cloud music", "Evermusic", "Spotify", "Apple Music", "YouTube Music", "SoundCloud", "comparison"]
 draft: false
-aliases:
-  - /post/comparing-the-best-cloud-music-players-for-iphone-in-2023/
-  - /blog/comparing-the-best-cloud-music-players-for-iphone-in-2023/
 cascade:
   type: docs
 authors:

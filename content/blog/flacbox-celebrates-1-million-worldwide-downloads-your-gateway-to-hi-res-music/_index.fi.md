@@ -5,8 +5,6 @@ description: "Flacbox saavuttaa 1 miljoonan latauksen maailmanlaajuisesti. Tutus
 keywords: ["Flacbox musiikkisoitin", "hi-res-ääni iOS", "häviötön musiikkisovellus", "DSD FLAC APE -soitin", "offline FLAC-musiikki", "Flacbox latausten virstanpylväs", "korkealaatuinen ääni iPhone", "Everappz äänisovellukset", "CUE-soittolistan soitin", "1 miljoona latausta", "paras FLAC-soitin iOS", "hi-res-musiikkisoitin Mac"]
 tags: ["Flacbox", "häviötön", "hi-res-ääni", "musiikkisoitin", "ääni", "virstanpylväs", "iOS-sovellukset", "uutiset"]
 draft: false
-aliases:
-  - /post/flacbox-celebrates-1-million-worldwide-downloads-your-gateway-to-hi-res-music/
 cascade:
   type: docs
 authors:

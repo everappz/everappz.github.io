@@ -5,8 +5,6 @@ description: "צפו בסרטון הפרסומי הרשמי של Evermusic. רא
 keywords: ["סרטון פרסומי Evermusic", "נגן מוזיקה ענן iPhone", "סרטון אפליקציית מוזיקה", "הדגמת אפליקציית Evermusic", "מוזיקה בענן iOS", "תכונות Evermusic", "נגן מוזיקה iPad", "הזרמת מוזיקה מהענן"]
 tags: ["evermusic", "פרסום", "סרטון", "ios", "מוזיקה", "ענן", "נגן", "אפליקציה סלולרית"]
 draft: false
-aliases:
-  - /post/evermusic-promo-video/
 cascade:
   type: docs
 authors:

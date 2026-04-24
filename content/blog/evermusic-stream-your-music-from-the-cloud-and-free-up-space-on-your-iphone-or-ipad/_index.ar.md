@@ -5,9 +5,6 @@ description: "بث الموسيقى من Google Drive أو Dropbox أو OneDrive
 keywords: ["Evermusic", "مشغل موسيقى سحابي", "تطبيق موسيقى iOS", "بث الموسيقى من السحابة", "موسيقى بدون اتصال iPhone", "مشغل موسيقى Google Drive", "بث موسيقى Dropbox", "مشغل MP3 iPhone", "توفير مساحة iPhone", "موسيقى من SMB", "تشغيل الموسيقى من التخزين السحابي iOS", "مشغل موسيقى بدون iTunes"]
 tags: ["صوت", "بث", "مشغل", "mp3", "تنزيل", "GoogleDrive", "Dropbox", "موسيقى سحابية", "تشغيل بدون اتصال"]
 draft: false
-aliases:
-  - /post/evermusic-stream-your-music-from-the-cloud-and-free-up-space-on-your-iphone-or-ipad/
-  - /single-post/Evermusic-stream-your-music-from-the-cloud-and-free-up-space-on-your-iPhone-or-iPad/
 cascade:
   type: docs
 authors:

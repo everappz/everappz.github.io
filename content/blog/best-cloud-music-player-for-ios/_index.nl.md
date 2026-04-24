@@ -5,8 +5,6 @@ description: "Evermusic verbindt met 12+ clouddiensten, speelt FLAC en MP3 offli
 keywords: ["beste cloud muziekspeler iOS", "cloud muziekspeler iPhone", "muziek afspelen van Dropbox", "offline muziekspeler iPhone", "FLAC speler iOS", "Evermusic review", "muziekbibliotheek beheerder iOS", "Google Drive muziekspeler", "NAS muziekspeler iPhone", "WebDAV muziekspeler"]
 tags: ["Evermusic", "cloud music", "offline playback", "iOS music apps", "MP3 player", "audio", "music streaming", "guide", "FLAC", "review"]
 draft: false
-aliases:
-  - /post/best-cloud-music-player-for-ios/
 cascade:
   type: docs
 authors:

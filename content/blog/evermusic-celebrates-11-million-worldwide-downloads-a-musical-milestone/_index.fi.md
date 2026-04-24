@@ -5,8 +5,6 @@ description: "Evermusic saavuttaa 11 miljoonaa latausta. Katso ominaisuudet, jot
 keywords: ["Evermusic 11 miljoonaa latausta", "paras pilvimusiikkisoitin iOS", "offline-musiikkisoitin iPhone", "iCloud Drive musiikin suoratoisto", "10-kaistainen taajuuskorjain sovellus", "ID3-tunniste-editori iOS", "musiikkisoitin Mac iPhone synkronointi", "FLAC-soitin iPhone"]
 tags: ["Evermusic", "virstanpylväs", "pilvimusiikki", "offline-toisto", "iCloud Drive", "taajuuskorjain", "iOS-musiikkisoitin"]
 draft: false
-aliases:
-  - /post/evermusic-celebrates-11-million-worldwide-downloads-a-musical-milestone/
 cascade:
   type: docs
 authors:

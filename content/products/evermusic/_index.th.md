@@ -6,8 +6,6 @@ layout: hextra-home
 description: "ดาวน์โหลดเครื่องเล่นเพลงออฟไลน์ฟรีที่ดีที่สุดสำหรับ iPhone และ Mac ของคุณ แล้วฟังเพลงได้ทุกที่"
 keywords: ["Evermusic", "เครื่องเล่นเพลงออฟไลน์", "เครื่องเล่นเสียง iOS", "แอปเพลงคลาวด์", "ดาวน์โหลดเพลง iPhone", "เครื่องเล่นเพลง Mac", "สตรีมเพลงออฟไลน์", "เครื่องเล่น FLAC iPhone", "เครื่องเล่นเพลงมัลติคลาวด์", "ฟีเจอร์แอป Evermusic"]
 tags: ["Evermusic", "เล่นออฟไลน์", "เพลงคลาวด์", "เครื่องเล่น MP3", "แอป iPhone", "สตรีมเสียง", "จัดการเพลง", "แอป Mac", "เครื่องเล่นมีเดีย"]
-aliases:
-  - /evermusic/
 appStoreUrl: "https://apps.apple.com/app/apple-store/id885367198?pt=95781850&ct=everappzcom&mt=8"
 appStoreId: "885367198"
 features: "เล่นเพลงออฟไลน์, สตรีมจากคลาวด์ (iCloud, Google Drive, Dropbox, OneDrive, MEGA, Box), อีควอไลเซอร์เสียงพร้อมพรีเซ็ต, ครอสเฟดและเล่นต่อเนื่อง, นำเข้า/ส่งออกเพลย์ลิสต์ M3U, ดูเนื้อเพลง, บุ๊คมาร์คเสียง, Apple CarPlay, AirPlay และ Chromecast, รองรับ SMB/WebDAV/DLNA, เล่นจาก USB แฟลชไดรฟ์, Last.fm Scrobbling"

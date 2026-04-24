@@ -3,8 +3,6 @@ date: '2025-06-12T17:00:00+00:00'
 draft: false
 title: '私たちについて'
 description: 'Everappz S.L.はオーディオとビデオのためのiOSおよびmacOSアプリを開発するスペインのソフトウェア会社です。Evermusic（1100万ダウンロード）、Flacbox、EverTag、EverVideo、Soundyのメーカー — 世界中で1400万以上のダウンロード。'
-aliases:
-  - /_api/one-app-session-web/v3/businesses/
 ---
 
 {{< lottie src="/images/juicy-json/juicy-girl-and-guy-preparing-start-up-rocket-to-launch-with-ideas.json" width="65%" >}}

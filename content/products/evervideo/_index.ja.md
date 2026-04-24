@@ -6,8 +6,6 @@ layout: hextra-home
 description: "iPhoneとMac用の最高の無料ビデオプレーヤーをダウンロードしましょう。360°ビデオの視聴、字幕の有効化、ビデオイコライザーの調整、プレイリストでのビデオ整理、オフライン用ダウンロード、iCloudからのストリーミングが可能です。"
 keywords: ["ビデオプレーヤー iPhone", "ビデオプレーヤー Mac", "360ビデオプレーヤー", "オフラインビデオプレーヤー iOS", "iCloudからビデオストリーミング", "字幕サポート iOS", "ビデオイコライザー iPhone", "AirPlayビデオアプリ", "Chromecastビデオプレーヤー", "DLNAビデオストリーミング", "SMB WebDAVビデオプレーヤー", "USBビデオプレーヤー iPhone", "ビデオプレイリスト整理", "Mac字幕付きビデオプレーヤー", "iTunesファイル共有ビデオアプリ", "無料ビデオアプリ iOS", "ビデオ用メディアマネージャー", "マルチフォーマットビデオプレーヤー"]
 tags: ["ビデオプレーヤー", "オフライン再生", "字幕サポート", "iCloudストリーミング", "AirPlay", "Chromecast", "DLNA", "SMB", "WebDAV", "USBビデオアクセス", "iPhoneアプリ", "Macアプリ", "メディアオーガナイザー", "360ビデオ", "ビデオプレイリスト", "ファイル共有", "無料ビデオプレーヤー", "マルチフォーマットサポート"]
-aliases:
-  - /evervideo/
 appStoreUrl: "https://apps.apple.com/us/app/evervideo-hd-video-player/id6602897336?ct=everappzcom&mt=8"
 appStoreId: "6602897336"
 features: "すべてのフォーマットでHDビデオ再生（MKV、AVI、MP4、MOV、FLV、WMV、WEBM）、360度およびVRビデオサポート、ピクチャー・イン・ピクチャーモード、50以上のプリセット付きビデオ＆オーディオイコライザー、字幕サポート、クラウドストリーミング（iCloud、Google Drive、Dropbox、OneDrive、MEGA）、オフラインダウンロード、プレイリスト付きメディアライブラリ、AirPlayとChromecast、SMB/WebDAV/DLNAサポート、USBフラッシュドライブ再生"

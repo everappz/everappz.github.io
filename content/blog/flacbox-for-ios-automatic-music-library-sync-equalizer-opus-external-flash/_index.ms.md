@@ -5,9 +5,6 @@ description: "Flacbox 1.6 untuk iOS menambah penyegerakan awan automatik, penyam
 keywords: ["kemas kini Flacbox", "pemain FLAC iOS", "penyama 10 jalur iPhone", "penyegerakan muzik automatik", "main OPUS di iPhone", "muzik pemacu kilat luaran", "penstriman FLAC iOS", "aplikasi muzik hi-res iPhone", "penyama Flacbox", "pemain muzik kad SD iOS"]
 tags: ["Flacbox", "penyama", "perpustakaan muzik", "OPUS", "FLAC", "storan luaran", "penyegerakan", "pemain audio", "aplikasi iOS", "kemas kini"]
 draft: false
-aliases:
-  - /post/flacbox-for-ios-automatic-music-library-sync-equalizer-opus-external-flash/
-  - /single-post/Flacbox-for-iOS-Automatic-Music-Library-Sync-Equalizer-OPUS-External-Flash/
 cascade:
   type: docs
 authors:

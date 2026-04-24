@@ -2,8 +2,6 @@
 date: '2025-06-12T17:00:00+00:00'
 draft: false
 title: 'लाइसेंस समझौता'
-aliases:
-  - /license-agreement/
 ---
 
 EVERAPPZ S.L. उत्पादों के लिए अंतिम-उपयोगकर्ता लाइसेंस समझौता

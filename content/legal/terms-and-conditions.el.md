@@ -2,11 +2,6 @@
 date: '2025-06-12T17:00:00+00:00'
 draft: false
 title: 'Όροι και Προϋποθέσεις'
-aliases:
-  - /terms-and-conditions/
-  - /terms-and-conditionsDec/
-  - /terms-and-condition/
-  - /terms-and-conditionsMay/
 ---
 
 Η EVERAPPZ S.L. είναι ιδιοκτήτρια εφαρμογών όπως Evermusic, Evermusic Pro, Flacbox και η εφαρμογή Evertag. Αυτά τα προγράμματα αναπαραγωγής μουσικής υποστηρίζουν διάφορους τύπους αρχείων και το Evertag σας επιτρέπει να επεξεργάζεστε τις ετικέτες ήχου των αρχείων σας, όλα σύμφωνα με τους Όρους και τις Προϋποθέσεις.

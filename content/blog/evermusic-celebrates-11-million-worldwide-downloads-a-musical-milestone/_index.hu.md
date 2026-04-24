@@ -5,8 +5,6 @@ description: "Az Evermusic eléri a 11 millió letöltést. Nézd meg a funkció
 keywords: ["Evermusic 11 millió letöltés", "legjobb felhő zenelejátszó iOS", "offline zenelejátszó iPhone", "iCloud Drive zenei streaming", "10 sávos hangszínszabályzó alkalmazás", "ID3 címkeszerkesztő iOS", "zenelejátszó Mac iPhone szinkronizálás", "FLAC lejátszó iPhone"]
 tags: ["Evermusic", "mérföldkő", "felhőzene", "offline lejátszás", "iCloud Drive", "hangszínszabályzó", "iOS zenelejátszó"]
 draft: false
-aliases:
-  - /post/evermusic-celebrates-11-million-worldwide-downloads-a-musical-milestone/
 cascade:
   type: docs
 authors:

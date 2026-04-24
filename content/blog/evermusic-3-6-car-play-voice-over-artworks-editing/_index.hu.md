@@ -5,8 +5,6 @@ description: "Az Evermusic 3.6 CarPlay támogatást, VoiceOver akadálymentessé
 keywords: ["Evermusic CarPlay", "zenelejátszó CarPlay iPhone", "VoiceOver zenei alkalmazás iOS", "FLAC címkeszerkesztő iPhone", "albumborító szerkesztés iOS", "iCloud Drive zene importálás", "hanglejátszó akadálymentesség iOS", "vegyes hangkimenet iPhone"]
 tags: ["Evermusic", "CarPlay", "VoiceOver", "akadálymentesség", "iCloud Drive", "címkeszerkesztő", "borítószerkesztés", "iOS frissítés"]
 draft: false
-aliases:
-  - /post/evermusic-3-6-car-play-voice-over-artworks-editing/
 cascade:
   type: docs
 authors:

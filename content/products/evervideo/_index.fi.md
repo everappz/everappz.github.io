@@ -6,8 +6,6 @@ layout: hextra-home
 description: "Lataa paras ilmainen videosoitin iPhonellesi ja Macillesi. Katso 360°-videoita, ota tekstitykset käyttöön, säädä videotaajuuskorjainta, järjestä videosi soittolistoilla, lataa offline-katseluun ja suoratoista iCloudista."
 keywords: ["videosoitin iPhone", "videosoitin Mac", "360 videosoitin", "offline-videosoitin iOS", "suoratoista videoita iCloudista", "tekstitystuki iOS", "videotaajuuskorjain iPhone", "AirPlay videosovellus", "Chromecast videosoitin", "DLNA videosuoratoisto", "SMB WebDAV videosoitin", "USB videosoitin iPhone", "järjestä videosoittolistoja", "Mac videosoitin tekstityksillä", "iTunes tiedostonjako videosovellus", "ilmainen videosovellus iOS", "medianhallinta videoille", "moniformaattinen videosoitin"]
 tags: ["videosoitin", "offline-toisto", "tekstitystuki", "iCloud-suoratoisto", "AirPlay", "Chromecast", "DLNA", "SMB", "WebDAV", "USB videoyhteys", "iPhone-sovellukset", "Mac-sovellukset", "mediajärjestäjä", "360 video", "videosoittolistat", "tiedostonjako", "ilmainen videosoitin", "moniformaattituki"]
-aliases:
-  - /evervideo/
 appStoreUrl: "https://apps.apple.com/us/app/evervideo-hd-video-player/id6602897336?ct=everappzcom&mt=8"
 appStoreId: "6602897336"
 features: "HD-videotoisto kaikissa muodoissa (MKV, AVI, MP4, MOV, FLV, WMV, WEBM), 360 asteen ja VR-videotuki, Kuva kuvassa -tila, Video- ja äänitaajuuskorjain yli 50 esiasetuksella, Tekstitystuki, Pilvisuoratoisto (iCloud, Google Drive, Dropbox, OneDrive, MEGA), Offline-lataus, Mediakirjasto soittolistoineen, AirPlay ja Chromecast, SMB/WebDAV/DLNA-tuki, USB-muistitikun toisto"

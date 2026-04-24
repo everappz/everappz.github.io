@@ -5,9 +5,6 @@ description: "Evermusic 3.1 voegt crossfade-weergave, een vernieuwde muziekbibli
 keywords: ["Evermusic update", "crossfade afspelen iOS", "cloud muziek-app", "muziek back-up app", "audiospeler wachtrij", "muziek tag-editor", "ID3-tag update", "iPod-bibliotheekintegratie", "muziekspeler iPhone", "crossfade muziek iOS", "muziekbibliotheek cloud synchronisatie", "back-up muziek afspeellijsten iOS"]
 tags: ["Evermusic", "crossfade", "muziekbibliotheek", "back-up", "audiowachtrij", "tags", "cloud speler", "offline speler", "editor", "iPod-bibliotheek"]
 draft: false
-aliases:
-  - /post/evermusic-31-crossfade-playback/
-  - /single-post/Evermusic-Sync-your-Music-Library-Save-playback-position-Correct-music-tags/
 cascade:
   type: docs
 authors:

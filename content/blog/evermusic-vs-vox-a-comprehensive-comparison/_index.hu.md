@@ -5,8 +5,6 @@ description: "Evermusic vs VOX összehasonlítás 8 kategóriában: felhőtárhe
 keywords: ["Evermusic vs VOX", "VOX alternatíva iOS", "legjobb zenelejátszó iPhone", "felhő zenelejátszó összehasonlítás", "hangoskönyv lejátszó iOS", "ID3 címkeszerkesztő iPhone", "Wi-Fi drive zenei alkalmazás", "FLAC lejátszó iPhone", "zenelejátszó felhőtárhelyhez", "VOX Cloud alternatíva"]
 tags: ["összehasonlítás", "evermusic", "vox", "felhő", "hangoskönyvek", "címkék", "streaming", "alkalmazások", "zenelejátszó", "ios"]
 draft: false
-aliases:
-  - /post/evermusic-vs-vox-a-comprehensive-comparison/
 sidebar:
   exclude: true
 cascade:

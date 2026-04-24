@@ -5,8 +5,6 @@ description: "Посмотрите официальное промо-видео 
 keywords: ["Промо-видео Evermusic", "облачный музыкальный плеер iPhone", "видео музыкального приложения", "демо приложения Evermusic", "облачная музыка iOS", "функции Evermusic", "музыкальный плеер iPad", "стриминг музыки из облака"]
 tags: ["evermusic", "промо", "видео", "ios", "музыка", "облако", "плеер", "мобильное приложение"]
 draft: false
-aliases:
-  - /post/evermusic-promo-video/
 cascade:
   type: docs
 authors:

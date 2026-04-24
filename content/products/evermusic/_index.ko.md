@@ -6,8 +6,6 @@ layout: hextra-home
 description: "iPhone과 Mac을 위한 최고의 무료 오프라인 음악 플레이어를 다운로드하고 어디서나 음악을 감상하세요."
 keywords: ["Evermusic", "오프라인 음악 플레이어", "iOS 오디오 플레이어", "클라우드 음악 앱", "음악 다운로드 iPhone", "Mac 음악 플레이어", "오프라인 음악 스트리밍", "FLAC 플레이어 iPhone", "멀티 클라우드 음악 플레이어", "Evermusic 앱 기능"]
 tags: ["Evermusic", "오프라인 재생", "클라우드 음악", "MP3 플레이어", "iPhone 앱", "오디오 스트리밍", "음악 관리", "Mac 앱", "미디어 플레이어"]
-aliases:
-  - /evermusic/
 appStoreUrl: "https://apps.apple.com/app/apple-store/id885367198?pt=95781850&ct=everappzcom&mt=8"
 appStoreId: "885367198"
 features: "오프라인 음악 재생, 클라우드 스트리밍 (iCloud, Google Drive, Dropbox, OneDrive, MEGA, Box), 프리셋 오디오 이퀄라이저, 크로스페이드 및 갭리스 재생, M3U 재생목록 가져오기/내보내기, 가사 뷰어, 오디오 북마크, Apple CarPlay, AirPlay 및 Chromecast, SMB/WebDAV/DLNA 지원, USB 플래시 드라이브 재생, Last.fm 스크로블링"

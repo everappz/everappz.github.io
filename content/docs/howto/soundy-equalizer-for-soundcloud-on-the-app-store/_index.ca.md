@@ -5,9 +5,6 @@ date: 2017-03-09
 readingTime: 2
 tags: ["núvol", "reproductor", "equalitzador", "iPhone", "SoundCloud", "streaming", "Chromecast"]
 keywords: ["aplicació equalitzador soundcloud", "equalitzador 10 bandes iOS", "reproductor soundy soundcloud", "aplicació de música amb presets", "equalitzador per a iPhone", "velocitat de reproducció soundcloud", "aplicació soundcloud amb temporitzador de son"]
-aliases:
-  - /post/soundy-equalizer-for-soundcloud-on-the-app-store/
-  - /single-post/soundy-equalizer-for-soundcloud-on-the-app-store/
 ---
 
 {{< author-byline >}}

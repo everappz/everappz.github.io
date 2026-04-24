@@ -5,8 +5,6 @@ description: "Evermusic 6.8 menambah sokongan Aliyun Drive dan Synology NAS, kes
 keywords: ["kemas kini Evermusic", "pemain muzik Aliyun Drive", "muzik Synology NAS", "pemain muzik awan iOS", "pemain audio iOS", "gaya kulit album", "pelayar fail seret dan lepas", "Evermusic 6.8", "pemain FLAC iOS", "pemain muzik QuickConnect", "penstriman muzik NAS iPhone"]
 tags: ["Evermusic", "Aliyun Drive", "Synology", "Kulit Album", "Muzik Awan", "Aplikasi Muzik iOS", "Apa Yang Baharu"]
 draft: false
-aliases:
-  - /post/evermusic6-8-aliyun-drive-synology-new-album-cover-styles/
 cascade:
   type: docs
 authors:

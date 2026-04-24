@@ -5,8 +5,6 @@ description: "Evermusic 2.3 lisää automaattisen pilvimusiikin synkronoinnin, t
 keywords: ["Evermusic", "pilvimusiikin soitin", "musiikin synkronointi iOS", "tallenna toistosijainti", "äänikirjan toisto", "metatietojen lukija", "korjaa ID3-tunnisteet", "suoratoista musiikkia pilvestä", "musiikkisovellus Dropboxille", "Google Drive -soitin", "automaattinen musiikkikirjaston synkronointi", "äänikirjan sijainnin tallennus iOS"]
 tags: ["evermusic", "musiikki", "toisto", "hallinta", "muokkain", "synkronointi", "sijainti", "id3-tunnisteet", "pilvi", "uutiset"]
 draft: false
-aliases:
-  - /post/evermusic-sync-your-music-library-save-playback-position-correct-music-tags/
 cascade:
   type: docs
 authors:

@@ -5,9 +5,6 @@ description: "Το Flacbox 1.6 για iOS προσθέτει αυτόματο σ
 keywords: ["ενημέρωση Flacbox", "αναπαραγωγέας FLAC iOS", "equalizer 10 ζωνών iPhone", "αυτόματος συγχρονισμός μουσικής", "αναπαραγωγή OPUS σε iPhone", "μουσική από εξωτερικό flash drive", "streaming FLAC iOS", "εφαρμογή hi-res μουσικής iPhone", "equalizer Flacbox", "αναπαραγωγέας μουσικής κάρτα SD iOS"]
 tags: ["Flacbox", "equalizer", "μουσική βιβλιοθήκη", "OPUS", "FLAC", "εξωτερική αποθήκευση", "συγχρονισμός", "αναπαραγωγέας ήχου", "εφαρμογές iOS", "ενημέρωση"]
 draft: false
-aliases:
-  - /post/flacbox-for-ios-automatic-music-library-sync-equalizer-opus-external-flash/
-  - /single-post/Flacbox-for-iOS-Automatic-Music-Library-Sync-Equalizer-OPUS-External-Flash/
 cascade:
   type: docs
 authors:

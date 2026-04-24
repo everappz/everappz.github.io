@@ -4,8 +4,6 @@ draft: false
 title: 'Instruktioner'
 description: 'Steg-för-steg-guider och tips som hjälper dig att konfigurera, använda och få ut det mesta av Everappz-appar.'
 excludeSearch: true
-aliases:
-  - /post/how-to-/
 ---
 
 

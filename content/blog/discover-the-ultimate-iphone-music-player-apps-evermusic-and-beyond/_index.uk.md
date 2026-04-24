@@ -5,8 +5,6 @@ description: "Порівняйте найкращі додатки для від
 keywords: ["найкращий музичний плеєр iPhone", "додаток для відтворення музики iOS", "Evermusic vs Spotify", "хмарний музичний плеєр iPhone", "офлайн музичний додаток iPhone", "FLAC плеєр iOS", "альтернативи Apple Music", "VLC iPhone", "безкоштовний музичний плеєр iOS"]
 tags: ["музичні додатки", "iOS", "Evermusic", "Apple Music", "Spotify", "VLC", "Amazon Music", "порівняння", "хмарна музика", "офлайн-відтворення"]
 draft: false
-aliases:
-  - /post/discover-the-ultimate-iphone-music-player-apps-evermusic-and-beyond/
 cascade:
   type: docs
 authors:

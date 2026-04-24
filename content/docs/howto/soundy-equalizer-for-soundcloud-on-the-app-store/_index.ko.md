@@ -5,9 +5,6 @@ date: 2017-03-09
 readingTime: 2
 tags: ["클라우드", "플레이어", "이퀄라이저", "iPhone", "SoundCloud", "스트리밍", "Chromecast"]
 keywords: ["soundcloud 이퀄라이저 앱", "10밴드 이퀄라이저 iOS", "soundy soundcloud 플레이어", "프리셋이 있는 음악 앱", "iPhone용 이퀄라이저", "재생 속도 soundcloud", "슬립 타이머가 있는 soundcloud 앱"]
-aliases:
-  - /post/soundy-equalizer-for-soundcloud-on-the-app-store/
-  - /single-post/soundy-equalizer-for-soundcloud-on-the-app-store/
 ---
 
 {{< author-byline >}}

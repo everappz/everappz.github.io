@@ -5,8 +5,6 @@ description: "Evermusic vs VOX vergeleken in 8 categorieën: cloudopslag, audiob
 keywords: ["Evermusic vs VOX", "VOX alternatief iOS", "beste muziekspeler iPhone", "vergelijking cloudmuziekspeler", "audioboekenspeler iOS", "ID3-tageditor iPhone", "Wi-Fi drive muziekapp", "FLAC-speler iPhone", "muziekspeler voor cloudopslag", "VOX Cloud alternatief"]
 tags: ["vergelijking", "evermusic", "vox", "cloud", "audioboeken", "tags", "streaming", "apps", "muziekspeler", "ios"]
 draft: false
-aliases:
-  - /post/evermusic-vs-vox-a-comprehensive-comparison/
 sidebar:
   exclude: true
 cascade:

@@ -5,8 +5,6 @@ description: "Setapp Mobile aracılığıyla Evermusic Pro edinin. Google Drive,
 keywords: ["Setapp Mobile", "Evermusic Pro", "bulut müzik çalar", "müzik akışı iPhone", "çevrimdışı müzik iOS", "Setapp iOS uygulamaları", "audiofil uygulama iPhone", "ekolayzır iOS uygulaması", "NAS müzik iPhone", "bulut depolama müzik çalar", "Setapp müzik uygulaması", "Google Drive'dan müzik akışı iPhone"]
 tags: ["evermusic", "setapp", "bulut", "ses", "mobil", "pazar yeri", "müzik", "ios uygulamaları"]
 draft: false
-aliases:
-  - /post/setapp-mobile-and-evermusic-pro/
 cascade:
   type: docs
 authors:

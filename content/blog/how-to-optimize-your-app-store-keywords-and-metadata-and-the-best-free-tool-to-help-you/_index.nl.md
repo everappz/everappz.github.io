@@ -4,8 +4,6 @@ date: 2025-04-30
 description: "Stapsgewijze handleiding voor het optimaliseren van App Store zoekwoorden, titels en ondertitels. Inclusief een gratis browsergebaseerde ASO-tool met Fastlane-integratie."
 keywords: ["app store zoekwoorden gids", "ASO zoekwoordoptimalisatie", "app store titel optimalisatie", "app store ondertitel optimalisatie", "app store metadata", "hoe app store ranking verbeteren", "app store optimalisatie", "gratis ASO tool", "gratis ASO tools", "app store zoekwoordstrategie", "apple app store SEO", "fastlane metadata tool", "gratis app store zoekwoordonderzoek"]
 tags: ["App Store Optimalisatie", "gratis ASO tools", "app store titel optimalisatie", "gratis ASO tool", "app store zoekwoordstrategie", "metadata optimizer"]
-aliases:
-  - /post/how-to-optimize-your-app-store-keywords-and-metadata-and-the-best-free-tool-to-help-you/
 draft: false
 sidebar:
   exclude: true

@@ -4,8 +4,6 @@ date: 2025-04-30
 description: "دليل خطوة بخطوة لتحسين كلمات App Store المفتاحية والعناوين والعناوين الفرعية. يتضمن أداة ASO مجانية تعمل بالمتصفح مع تكامل Fastlane."
 keywords: ["دليل كلمات app store المفتاحية", "تحسين كلمات ASO المفتاحية", "تحسين عنوان app store", "تحسين العنوان الفرعي لـ app store", "بيانات app store الوصفية", "كيفية تحسين ترتيب app store", "تحسين app store", "أداة ASO مجانية", "أدوات ASO مجانية", "استراتيجية كلمات app store المفتاحية", "SEO apple app store", "أداة بيانات fastlane الوصفية", "بحث كلمات app store المفتاحية مجاناً"]
 tags: ["تحسين App Store", "أدوات ASO مجانية", "تحسين عنوان app store", "أداة ASO مجانية", "استراتيجية كلمات app store المفتاحية", "محسن البيانات الوصفية"]
-aliases:
-  - /post/how-to-optimize-your-app-store-keywords-and-metadata-and-the-best-free-tool-to-help-you/
 draft: false
 sidebar:
   exclude: true

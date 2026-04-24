@@ -5,8 +5,6 @@ date: 2024-11-14
 readingTime: 7
 tags: ["muzică", "cloud", "streaming", "sincronizare", "icloud", "bibliotecă"]
 keywords: ["import muzică iCloud Evermusic", "Flacbox sincronizare iCloud", "Evermusic streaming din iCloud", "bibliotecă muzicală aplicație iOS", "Flacbox cititor metadate", "streaming muzică iCloud iPhone"]
-aliases:
-  - /post/step-by-step-guide-importing-your-icloud-library-into-evermusic-and-flacbox/
 ---
 
 {{< author-byline >}}

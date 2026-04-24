@@ -2,11 +2,6 @@
 date: '2025-06-12T17:00:00+00:00'
 draft: false
 title: 'Syarat dan Ketentuan'
-aliases:
-  - /terms-and-conditions/
-  - /terms-and-conditionsDec/
-  - /terms-and-condition/
-  - /terms-and-conditionsMay/
 ---
 
 EVERAPPZ S.L. adalah pemilik aplikasi seperti Evermusic, Evermusic Pro, Flacbox, dan aplikasi Evertag. Pemutar musik ini mendukung berbagai jenis file, dan Evertag memungkinkan Anda mengedit tag audio untuk file Anda, semuanya sesuai dengan Syarat dan Ketentuan.

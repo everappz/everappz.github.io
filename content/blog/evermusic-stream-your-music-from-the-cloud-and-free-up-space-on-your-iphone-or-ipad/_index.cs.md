@@ -5,9 +5,6 @@ description: "Streamujte hudbu z Google Drive, Dropbox nebo OneDrive na iPhone a
 keywords: ["Evermusic", "cloudový hudební přehrávač", "hudební aplikace iOS", "streamování hudby z cloudu", "offline hudba iPhone", "hudební přehrávač Google Drive", "streamování hudby Dropbox", "MP3 přehrávač iPhone", "uvolnit místo iPhone", "hudba z SMB", "přehrávání hudby z cloudového úložiště iOS", "hudební přehrávač bez iTunes"]
 tags: ["zvuk", "streamování", "přehrávač", "mp3", "stahování", "GoogleDrive", "Dropbox", "cloudová hudba", "offline přehrávání"]
 draft: false
-aliases:
-  - /post/evermusic-stream-your-music-from-the-cloud-and-free-up-space-on-your-iphone-or-ipad/
-  - /single-post/Evermusic-stream-your-music-from-the-cloud-and-free-up-space-on-your-iPhone-or-iPad/
 cascade:
   type: docs
 authors:

@@ -5,8 +5,6 @@ description: "Дивіться офіційне промовідео Evermusic. 
 keywords: ["промовідео Evermusic", "хмарний музичний плеєр iPhone", "відео музичного додатку", "демо додатку Evermusic", "хмарна музика iOS", "функції Evermusic", "музичний плеєр iPad", "стрімінг музики з хмари"]
 tags: ["evermusic", "промо", "відео", "ios", "музика", "хмара", "плеєр", "мобільний додаток"]
 draft: false
-aliases:
-  - /post/evermusic-promo-video/
 cascade:
   type: docs
 authors:

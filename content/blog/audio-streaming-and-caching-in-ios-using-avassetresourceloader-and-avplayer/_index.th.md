@@ -5,9 +5,6 @@ description: "เรียนรู้วิธีสตรีมและแค
 keywords: ["iOS audio streaming", "AVAssetResourceLoaderDelegate", "AVURLAsset", "AVPlayer tutorial", "AVFoundation audio", "AVAssetResourceLoadingRequest", "custom audio player iOS", "cloud audio streaming iOS", "audio caching iOS", "Swift AVPlayer custom scheme"]
 tags: ["streaming", "AVPlayer", "AVFoundation", "iOS", "AVAssetResourceLoader", "tutorial", "Objective-C", "audio caching"]
 draft: false
-aliases:
-  - /post/audio-streaming-and-caching-in-ios-using-avassetresourceloader-and-avplayer/
-  - /single-post/Audio-Streaming-and-Caching-in-iOS-using-AVAssetResourceLoader-and-AVPlayer/
 cascade:
   type: docs
 authors:

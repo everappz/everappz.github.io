@@ -2,8 +2,6 @@
 date: '2025-06-12T17:00:00+00:00'
 draft: false
 title: '법적 고지'
-aliases:
-  - /legal-notice/
 ---
 
 ## 웹사이트 소유자의 식별 데이터

@@ -5,8 +5,6 @@ description: "Evermusic atteint 11 millions de téléchargements. Découvrez les
 keywords: ["Evermusic 11 millions téléchargements", "meilleur lecteur musique cloud iOS", "lecteur musique hors ligne iPhone", "streaming musique iCloud Drive", "application égaliseur 10 bandes", "éditeur tags ID3 iOS", "synchronisation lecteur musique Mac iPhone", "lecteur FLAC iPhone"]
 tags: ["Evermusic", "jalon", "musique cloud", "lecture hors ligne", "iCloud Drive", "égaliseur", "lecteur musique iOS"]
 draft: false
-aliases:
-  - /post/evermusic-celebrates-11-million-worldwide-downloads-a-musical-milestone/
 cascade:
   type: docs
 authors:

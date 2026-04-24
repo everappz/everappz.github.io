@@ -5,8 +5,6 @@ description: "Flacbox दुनिया भर में 10 लाख डाउ
 keywords: ["Flacbox म्यूजिक प्लेयर", "hi-res ऑडियो iOS", "lossless म्यूजिक ऐप", "DSD FLAC APE प्लेयर", "ऑफ़लाइन FLAC म्यूजिक", "Flacbox डाउनलोड माइलस्टोन", "उच्च गुणवत्ता ऑडियो iPhone", "Everappz ऑडियो ऐप्स", "CUE प्लेलिस्ट प्लेयर", "10 लाख डाउनलोड", "सबसे अच्छा FLAC प्लेयर iOS", "hi-res म्यूजिक प्लेयर Mac"]
 tags: ["Flacbox", "lossless", "hi-res ऑडियो", "म्यूजिक प्लेयर", "ऑडियो", "माइलस्टोन", "iOS ऐप्स", "नया क्या है"]
 draft: false
-aliases:
-  - /post/flacbox-celebrates-1-million-worldwide-downloads-your-gateway-to-hi-res-music/
 cascade:
   type: docs
 authors:

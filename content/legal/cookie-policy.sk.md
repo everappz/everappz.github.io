@@ -2,8 +2,6 @@
 date: '2025-06-12T17:00:00+00:00'
 draft: false
 title: 'Zásady používania cookies'
-aliases:
-  - /cookie-policy/
 ---
 
 ## Táto webová stránka používa súbory cookie

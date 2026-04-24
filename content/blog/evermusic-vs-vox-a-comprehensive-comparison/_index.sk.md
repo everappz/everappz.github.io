@@ -5,8 +5,6 @@ description: "Porovnanie Evermusic vs VOX v 8 kategóriách: cloudové úložisk
 keywords: ["Evermusic vs VOX", "alternatíva VOX iOS", "najlepší hudobný prehrávač iPhone", "porovnanie cloudových hudobných prehrávačov", "prehrávač audiokníh iOS", "editor ID3 tagov iPhone", "Wi-Fi hudobná aplikácia", "FLAC prehrávač iPhone", "hudobný prehrávač pre cloudové úložisko", "alternatíva VOX Cloud"]
 tags: ["porovnanie", "evermusic", "vox", "cloud", "audioknihy", "tagy", "streamovanie", "aplikácie", "hudobný prehrávač", "ios"]
 draft: false
-aliases:
-  - /post/evermusic-vs-vox-a-comprehensive-comparison/
 sidebar:
   exclude: true
 cascade:

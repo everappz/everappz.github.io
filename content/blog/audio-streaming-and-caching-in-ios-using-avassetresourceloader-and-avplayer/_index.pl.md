@@ -5,9 +5,6 @@ description: "Dowiedz się, jak strumieniować i buforować audio w iOS za pomoc
 keywords: ["strumieniowanie audio iOS", "AVAssetResourceLoaderDelegate", "AVURLAsset", "poradnik AVPlayer", "AVFoundation audio", "AVAssetResourceLoadingRequest", "niestandardowy odtwarzacz audio iOS", "strumieniowanie audio z chmury iOS", "buforowanie audio iOS", "Swift AVPlayer niestandardowy schemat"]
 tags: ["streaming", "AVPlayer", "AVFoundation", "iOS", "AVAssetResourceLoader", "tutorial", "Objective-C", "audio caching"]
 draft: false
-aliases:
-  - /post/audio-streaming-and-caching-in-ios-using-avassetresourceloader-and-avplayer/
-  - /single-post/Audio-Streaming-and-Caching-in-iOS-using-AVAssetResourceLoader-and-AVPlayer/
 cascade:
   type: docs
 authors:

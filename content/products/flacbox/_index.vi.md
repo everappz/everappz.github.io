@@ -6,8 +6,6 @@ layout: hextra-home
 description: "Phát và tải xuống các tệp FLAC, DSD, APE, ALAC trên iPhone. Nghe nhạc trực tiếp từ bộ nhớ đám mây hoặc máy tính với bộ cân bằng âm thanh."
 keywords: ["trình phát FLAC iPhone", "trình phát nhạc lossless", "trình phát âm thanh hi-res", "trình phát DSD iOS", "trình phát ALAC iPhone", "trình phát nhạc ngoại tuyến iOS", "trình phát nhạc đám mây", "phát nhạc từ NAS", "phát FLAC trên iPhone", "trình phát nhạc iPhone với tag", "trình phát nhạc Mac", "tải nhạc iPhone", "bộ cân bằng âm thanh iOS", "trình phát nhạc USB iPhone", "trình phát nhạc đa đám mây", "trình phát SMB WebDAV DLNA", "ứng dụng iTunes File Sharing", "hỗ trợ AirPlay và Chromecast"]
 tags: ["trình phát FLAC", "âm thanh Hi-Res", "phát ngoại tuyến", "nhạc đám mây", "âm thanh DSD", "ứng dụng Mac", "ứng dụng iPhone", "âm thanh USB iOS", "quản lý tệp nhạc", "bộ cân bằng âm thanh", "trình chỉnh sửa metadata", "trình phát MP3", "trình phát SMB", "nhạc Chromecast", "trình phát nhạc CarPlay", "hỗ trợ đa định dạng", "phát trực tuyến nhạc", "quản lý thư viện âm thanh"]
-aliases:
-  - /flacbox/
 appStoreUrl: "https://apps.apple.com/app/apple-store/id1097564256?pt=95781850&ct=everappzcom&mt=8"
 appStoreId: "1097564256"
 features: "Phát Hi-Res FLAC/DSD/APE/ALAC, Phát trực tuyến đám mây (iCloud, Google Drive, Dropbox, OneDrive, MEGA, Box), Bộ cân bằng âm thanh với cài đặt sẵn, Crossfade và phát liền mạch, Nhập/xuất danh sách phát M3U, Trình xem lời bài hát, Đánh dấu âm thanh, Apple CarPlay, AirPlay và Chromecast, Hỗ trợ SMB/WebDAV/DLNA, Phát từ ổ USB flash, Scrobbling Last.fm, Trình chỉnh sửa tag tích hợp"

@@ -5,9 +5,6 @@ description: "Evermusic 3.1 מוסיף השמעת מעבר חלק, ספריית 
 keywords: ["עדכון Evermusic", "מעבר חלק iOS", "אפליקציית מוזיקה בענן", "אפליקציית גיבוי מוזיקה", "תור נגן שמע", "עורך תגיות מוזיקה", "עדכון תגיות ID3", "שילוב ספריית iPod", "נגן מוזיקה iPhone", "מעבר חלק מוזיקה iOS", "סנכרון ספריית מוזיקה ענן", "גיבוי רשימות השמעה מוזיקה iOS"]
 tags: ["Evermusic", "מעבר חלק", "ספריית מוזיקה", "גיבוי", "תור שמע", "תגיות", "נגן ענן", "נגן לא מקוון", "עורך", "ספריית iPod"]
 draft: false
-aliases:
-  - /post/evermusic-31-crossfade-playback/
-  - /single-post/Evermusic-Sync-your-Music-Library-Save-playback-position-Correct-music-tags/
 cascade:
   type: docs
 authors:

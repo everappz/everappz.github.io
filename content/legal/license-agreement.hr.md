@@ -2,8 +2,6 @@
 date: '2025-06-12T17:00:00+00:00'
 draft: false
 title: 'Licencni ugovor'
-aliases:
-  - /license-agreement/
 ---
 
 LICENCNI UGOVOR ZA KRAJNJEG KORISNIKA ZA PROIZVODE EVERAPPZ S.L.

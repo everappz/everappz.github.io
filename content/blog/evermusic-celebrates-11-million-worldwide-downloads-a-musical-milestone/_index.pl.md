@@ -5,8 +5,6 @@ description: "Evermusic osiąga 11 milionów pobrań. Zobacz funkcje, które ucz
 keywords: ["Evermusic 11 milionów pobrań", "najlepszy odtwarzacz muzyki z chmury iOS", "odtwarzacz muzyki offline iPhone", "strumieniowanie muzyki iCloud Drive", "aplikacja korektor 10-pasmowy", "edytor tagów ID3 iOS", "odtwarzacz muzyki synchronizacja Mac iPhone", "odtwarzacz FLAC iPhone"]
 tags: ["Evermusic", "kamień milowy", "muzyka z chmury", "odtwarzanie offline", "iCloud Drive", "korektor", "odtwarzacz muzyki iOS"]
 draft: false
-aliases:
-  - /post/evermusic-celebrates-11-million-worldwide-downloads-a-musical-milestone/
 cascade:
   type: docs
 authors:

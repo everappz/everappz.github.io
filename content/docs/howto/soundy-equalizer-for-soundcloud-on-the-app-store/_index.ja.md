@@ -5,9 +5,6 @@ date: 2017-03-09
 readingTime: 2
 tags: ["クラウド", "プレーヤー", "イコライザー", "iPhone", "SoundCloud", "ストリーミング", "Chromecast"]
 keywords: ["soundcloudイコライザーアプリ", "10バンドイコライザーiOS", "soundy soundcloudプレーヤー", "プリセット付き音楽アプリ", "iPhone用イコライザー", "再生速度soundcloud", "スリープタイマー付きsoundcloudアプリ"]
-aliases:
-  - /post/soundy-equalizer-for-soundcloud-on-the-app-store/
-  - /single-post/soundy-equalizer-for-soundcloud-on-the-app-store/
 ---
 
 {{< author-byline >}}

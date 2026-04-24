@@ -5,8 +5,6 @@ description: "Krijg Evermusic Pro via Setapp Mobile. Stream muziek van Google Dr
 keywords: ["Setapp Mobile", "Evermusic Pro", "cloudmuziekspeler", "muziekstreaming iPhone", "offline muziek iOS", "Setapp iOS-apps", "audiofiel app iPhone", "equalizer iOS-app", "NAS muziek iPhone", "cloudopslag muziekspeler", "Setapp muziek-app", "stream muziek van Google Drive iPhone"]
 tags: ["evermusic", "setapp", "cloud", "audio", "mobiel", "marktplaats", "muziek", "ios-apps"]
 draft: false
-aliases:
-  - /post/setapp-mobile-and-evermusic-pro/
 cascade:
   type: docs
 authors:

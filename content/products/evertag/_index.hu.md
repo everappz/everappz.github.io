@@ -6,9 +6,6 @@ layout: hextra-home
 description: "Tartsa zenei könyvtárát rendben. Találja meg a hiányzó címkéket. Kötegelt szerkesztés. Borítóképek módosítása és még sok más."
 keywords: ["Evertag", "audió címkeszerkesztő", "ID3 címkekezelő", "zenei metaadatok szerkesztése", "FLAC címkeszerkesztő", "zenerendező alkalmazás", "MP3 metaadat-szerkesztő", "iOS zenei címkeszerkesztő", "Mac audió címke alkalmazás", "zenefájlok átnevezése"]
 tags: ["Evertag", "ID3 címkék", "zenei metaadatok", "audió címkeszerkesztő", "MP3 szerkesztő", "FLAC címkézés", "iPhone segédprogramok", "Mac zenei eszközök", "zenei könyvtár kezelés"]
-aliases:
-  - /evertag/
-  - /mp3tag/
 appStoreUrl: "https://apps.apple.com/app/apple-store/id1450763230?pt=95781850&ct=everappzcom&mt=8"
 appStoreId: "1450763230"
 features: "120+ audió címke szerkesztése, Kötegelt címkeszerkesztés, Borítókép kereső, 30+ audió formátum támogatás, Automatikus címkekereső MusicBrainz-en keresztül, Kódolási problémák javítása, Felhő és USB hozzáférés, Wi-Fi zenei átvitel, Beépített fájlkezelő, Dalszöveg-szerkesztő"

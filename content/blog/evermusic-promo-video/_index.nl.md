@@ -5,8 +5,6 @@ description: "Bekijk de officiële Evermusic-promotievideo. Zie hoe Evermusic je
 keywords: ["Evermusic promotievideo", "cloud muziekspeler iPhone", "muziek app video", "Evermusic app demo", "cloud muziek iOS", "Evermusic functies", "muziekspeler iPad", "muziek streamen vanuit cloud"]
 tags: ["evermusic", "promotie", "video", "ios", "muziek", "cloud", "speler", "mobiele app"]
 draft: false
-aliases:
-  - /post/evermusic-promo-video/
 cascade:
   type: docs
 authors:

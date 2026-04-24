@@ -5,9 +5,6 @@ date: 2016-05-29
 readingTime: 3
 tags: ["cloud", "streaming", "computer", "mp3", "file", "downloader", "manager", "pc", "mac", "sharing", "windows", "smb"]
 keywords: ["streamovanie hudby z Mac na iPhone", "SMB audio streaming iOS", "nastavenie Evermusic SMB", "pripojenie hudby z PC na iPhone", "zdieľanie hudby Mac iOS", "SMB Windows streamovanie súborov", "prístup Evermusic k priečinkom PC"]
-aliases:
-  - /post/stream-your-music-from-mac-or-pc-to-iphone-using-smb/
-  - /single-post/Stream-your-music-from-MAC-or-PC-to-iPhone-using-SMB/
 ---
 
 {{< author-byline >}}

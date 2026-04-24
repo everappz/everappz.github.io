@@ -5,8 +5,6 @@ description: "Podívejte se na oficiální propagační video Evermusic. Uvidít
 keywords: ["propagační video Evermusic", "cloudový hudební přehrávač iPhone", "video hudební aplikace", "ukázka aplikace Evermusic", "cloudová hudba iOS", "funkce Evermusic", "hudební přehrávač iPad", "streamování hudby z cloudu"]
 tags: ["Evermusic", "propagace", "video", "iOS", "hudba", "cloud", "přehrávač", "mobilní aplikace"]
 draft: false
-aliases:
-  - /post/evermusic-promo-video/
 cascade:
   type: docs
 authors:

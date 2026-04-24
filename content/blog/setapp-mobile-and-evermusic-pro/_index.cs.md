@@ -5,8 +5,6 @@ description: "Získejte Evermusic Pro prostřednictvím Setapp Mobile. Streamujt
 keywords: ["Setapp Mobile", "Evermusic Pro", "cloudový hudební přehrávač", "streamování hudby iPhone", "offline hudba iOS", "Setapp iOS aplikace", "audiofilní aplikace iPhone", "ekvalizér iOS", "NAS hudba iPhone", "přehrávač hudby cloudové úložiště", "Setapp hudební aplikace", "streamování hudby z Google Drive iPhone"]
 tags: ["evermusic", "setapp", "cloud", "audio", "mobilní", "marketplace", "hudba", "ios aplikace"]
 draft: false
-aliases:
-  - /post/setapp-mobile-and-evermusic-pro/
 cascade:
   type: docs
 authors:

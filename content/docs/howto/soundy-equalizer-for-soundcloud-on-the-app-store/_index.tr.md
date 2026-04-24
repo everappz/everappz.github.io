@@ -5,9 +5,6 @@ date: 2017-03-09
 readingTime: 2
 tags: ["bulut", "oynatıcı", "ekolayzır", "iPhone", "SoundCloud", "yayın", "Chromecast"]
 keywords: ["soundcloud ekolayzır uygulaması", "10 bantlı ekolayzır iOS", "soundy soundcloud oynatıcı", "ön ayarlı müzik uygulaması", "iPhone için ekolayzır", "oynatma hızı soundcloud", "uyku zamanlayıcılı soundcloud uygulaması"]
-aliases:
-  - /post/soundy-equalizer-for-soundcloud-on-the-app-store/
-  - /single-post/soundy-equalizer-for-soundcloud-on-the-app-store/
 ---
 
 {{< author-byline >}}

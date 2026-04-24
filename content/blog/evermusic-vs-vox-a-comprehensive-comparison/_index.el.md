@@ -5,8 +5,6 @@ description: "Σύγκριση Evermusic και VOX σε 8 κατηγορίες:
 keywords: ["Evermusic εναντίον VOX", "εναλλακτική VOX iOS", "καλύτερο πρόγραμμα αναπαραγωγής μουσικής iPhone", "σύγκριση cloud προγραμμάτων μουσικής", "πρόγραμμα αναπαραγωγής ηχητικών βιβλίων iOS", "επεξεργαστής ετικετών ID3 iPhone", "εφαρμογή μουσικής Wi-Fi Drive", "πρόγραμμα αναπαραγωγής FLAC iPhone", "πρόγραμμα μουσικής για αποθήκευση cloud", "εναλλακτική VOX Cloud"]
 tags: ["σύγκριση", "evermusic", "vox", "cloud", "ηχητικά βιβλία", "ετικέτες", "streaming", "εφαρμογές", "πρόγραμμα αναπαραγωγής μουσικής", "ios"]
 draft: false
-aliases:
-  - /post/evermusic-vs-vox-a-comprehensive-comparison/
 sidebar:
   exclude: true
 cascade:

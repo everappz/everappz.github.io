@@ -6,8 +6,6 @@ layout: hextra-home
 description: "Stiahnite si najlepší bezplatný offline prehrávač hudby pre iPhone a Mac a počúvajte svoju hudbu kdekoľvek."
 keywords: ["Evermusic", "offline prehrávač hudby", "audio prehrávač iOS", "aplikácia cloudovej hudby", "sťahovanie hudby iPhone", "prehrávač hudby Mac", "streamovanie hudby offline", "FLAC prehrávač iPhone", "multi-cloud prehrávač hudby", "funkcie aplikácie Evermusic"]
 tags: ["Evermusic", "offline prehrávanie", "cloudová hudba", "MP3 prehrávač", "aplikácie iPhone", "streamovanie audia", "správa hudby", "aplikácie Mac", "mediálny prehrávač"]
-aliases:
-  - /evermusic/
 appStoreUrl: "https://apps.apple.com/app/apple-store/id885367198?pt=95781850&ct=everappzcom&mt=8"
 appStoreId: "885367198"
 features: "Offline prehrávanie hudby, Streamovanie z cloudu (iCloud, Google Drive, Dropbox, OneDrive, MEGA, Box), Audio ekvalizér s predvoľbami, Crossfade a plynulé prehrávanie, Import/export playlistov M3U, Prehliadač textov piesní, Audio záložky, Apple CarPlay, AirPlay a Chromecast, Podpora SMB/WebDAV/DLNA, Prehrávanie z USB flash disku, Scrobbling Last.fm"

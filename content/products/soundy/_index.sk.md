@@ -10,8 +10,6 @@ layout: hextra-home
 description: "Tisíce zákazníkov používajú Soundy ako predvolený prehrávač SoundCloud na iPhone. Získajte špičkovú kvalitu zvuku, ekvalizér a oveľa viac."
 keywords: ["Soundy", "prehrávač SoundCloud iPhone", "iOS hudobný ekvalizér", "ekvalizér pre SoundCloud", "SoundCloud offline prehrávač", "zosilňovač kvality zvuku iOS", "SoundCloud EQ aplikácia", "najlepší SoundCloud klient iPhone", "iPhone hudobné aplikácie", "alternatívny prehrávač SoundCloud"]
 tags: ["Soundy", "SoundCloud", "iOS aplikácie", "hudobný ekvalizér", "audio prehrávač", "offline prehrávanie", "hudobná aplikácia iPhone", "ukončené aplikácie", "mediálny prehrávač", "streamovanie hudby"]
-aliases:
-  - /soundy/
 ---
 
 <div class="hx:w-full hx:max-w-screen-lg hx:mx-auto hx:flex hx:flex-col hx:items-center hx:justify-center hx:text-center">

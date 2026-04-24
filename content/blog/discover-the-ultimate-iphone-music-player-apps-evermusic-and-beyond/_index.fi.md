@@ -5,8 +5,6 @@ description: "Vertaa parhaita iPhonen musiikkisoitinsovelluksia: Evermusic, Appl
 keywords: ["paras iPhone musiikkisoitin", "musiikkisoitinsovellus iOS", "Evermusic vs Spotify", "pilvi musiikkisoitin iPhone", "offline musiikkisovellus iPhone", "FLAC-soitin iOS", "Apple Music vaihtoehdot", "VLC iPhone", "ilmainen musiikkisoitin iOS"]
 tags: ["musiikkisovellukset", "iOS", "Evermusic", "Apple Music", "Spotify", "VLC", "Amazon Music", "vertailu", "pilvimusiikki", "offline-toisto"]
 draft: false
-aliases:
-  - /post/discover-the-ultimate-iphone-music-player-apps-evermusic-and-beyond/
 cascade:
   type: docs
 authors:

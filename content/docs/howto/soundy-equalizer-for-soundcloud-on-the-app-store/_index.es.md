@@ -5,9 +5,6 @@ date: 2017-03-09
 readingTime: 2
 tags: ["nube", "reproductor", "ecualizador", "iPhone", "SoundCloud", "streaming", "Chromecast"]
 keywords: ["aplicación ecualizador soundcloud", "ecualizador 10 bandas iOS", "reproductor soundy soundcloud", "aplicación música con presets", "ecualizador para iPhone", "velocidad reproducción soundcloud", "aplicación soundcloud con temporizador sueño"]
-aliases:
-  - /post/soundy-equalizer-for-soundcloud-on-the-app-store/
-  - /single-post/soundy-equalizer-for-soundcloud-on-the-app-store/
 ---
 
 {{< author-byline >}}

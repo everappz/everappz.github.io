@@ -5,8 +5,6 @@ description: "Obejrzyj film promocyjny Evermusic prezentujący strumieniowanie m
 keywords: ["Film promocyjny Evermusic", "odtwarzacz muzyki iOS", "aplikacja muzyki z chmury iPhone", "demo aplikacji Evermusic", "najlepszy odtwarzacz muzyki iPhone", "odtwarzacz muzyki offline iOS"]
 tags: ["Evermusic", "promocja", "muzyka", "wideo", "muzyka z chmury", "aplikacja iOS"]
 draft: false
-aliases:
-  - /post/evermusic-be-inspired-by-music/
 sidebar:
   exclude: true
 cascade:

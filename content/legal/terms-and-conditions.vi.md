@@ -2,11 +2,6 @@
 date: '2025-06-12T17:00:00+00:00'
 draft: false
 title: 'Điều khoản và Điều kiện'
-aliases:
-  - /terms-and-conditions/
-  - /terms-and-conditionsDec/
-  - /terms-and-condition/
-  - /terms-and-conditionsMay/
 ---
 
 EVERAPPZ S.L. là chủ sở hữu của các ứng dụng như Evermusic, Evermusic Pro, Flacbox và ứng dụng Evertag. Các trình phát nhạc này hỗ trợ nhiều loại tệp khác nhau, và Evertag cho phép bạn chỉnh sửa thẻ âm thanh cho các tệp của bạn, tất cả đều tuân theo Điều khoản và Điều kiện.

@@ -6,8 +6,6 @@ layout: hextra-home
 description: "Download de beste gratis videospeler voor je iPhone en Mac. Bekijk 360°-video's, activeer ondertitels, pas de video-equalizer aan, organiseer je video's met afspeellijsten, download voor offline en stream vanuit iCloud."
 keywords: ["videospeler iPhone", "videospeler Mac", "360 videospeler", "offline videospeler iOS", "video's streamen vanuit iCloud", "ondertitelondersteuning iOS", "video-equalizer iPhone", "AirPlay video-app", "Chromecast videospeler", "DLNA videostreaming", "SMB WebDAV videospeler", "USB videospeler iPhone", "video-afspeellijsten organiseren", "Mac videospeler met ondertitels", "iTunes Bestandsdeling video-app", "gratis video-app iOS", "mediabeheerder voor video's", "multi-formaat videospeler"]
 tags: ["videospeler", "offline afspelen", "ondertitelondersteuning", "iCloud streaming", "AirPlay", "Chromecast", "DLNA", "SMB", "WebDAV", "USB video-toegang", "iPhone apps", "Mac apps", "media-organizer", "360 video", "video-afspeellijsten", "bestandsdeling", "gratis videospeler", "multi-formaat ondersteuning"]
-aliases:
-  - /evervideo/
 appStoreUrl: "https://apps.apple.com/us/app/evervideo-hd-video-player/id6602897336?ct=everappzcom&mt=8"
 appStoreId: "6602897336"
 features: "HD video afspelen in alle formaten (MKV, AVI, MP4, MOV, FLV, WMV, WEBM), 360-graden en VR-video-ondersteuning, Beeld-in-beeld-modus, Video- en audio-equalizer met 50+ presets, Ondertitelondersteuning, Cloud-streaming (iCloud, Google Drive, Dropbox, OneDrive, MEGA), Offline downloaden, Mediabibliotheek met afspeellijsten, AirPlay en Chromecast, SMB/WebDAV/DLNA-ondersteuning, USB-flashdrive afspelen"

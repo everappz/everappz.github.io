@@ -5,8 +5,6 @@ description: "Regardez la vidéo promotionnelle officielle d'Evermusic. Découvr
 keywords: ["vidéo promo Evermusic", "lecteur musique cloud iPhone", "vidéo application musique", "démo application Evermusic", "musique cloud iOS", "fonctionnalités Evermusic", "lecteur musique iPad", "streamer musique depuis cloud"]
 tags: ["evermusic", "promo", "vidéo", "ios", "musique", "cloud", "lecteur", "application mobile"]
 draft: false
-aliases:
-  - /post/evermusic-promo-video/
 cascade:
   type: docs
 authors:

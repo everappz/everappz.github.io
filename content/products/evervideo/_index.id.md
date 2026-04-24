@@ -6,8 +6,6 @@ layout: hextra-home
 description: "Unduh pemutar video gratis terbaik untuk iPhone dan Mac Anda. Tonton video 360°, aktifkan subtitle, sesuaikan equalizer video, atur video Anda dengan playlist, unduh untuk offline, dan streaming dari iCloud."
 keywords: ["pemutar video iPhone", "pemutar video Mac", "pemutar video 360", "pemutar video offline iOS", "streaming video dari iCloud", "dukungan subtitle iOS", "equalizer video iPhone", "aplikasi video AirPlay", "pemutar video Chromecast", "streaming video DLNA", "pemutar video SMB WebDAV", "pemutar video USB iPhone", "atur playlist video", "pemutar video Mac dengan subtitle", "aplikasi video iTunes File Sharing", "aplikasi video gratis iOS", "manajer media untuk video", "pemutar video multi-format"]
 tags: ["pemutar video", "pemutaran offline", "dukungan subtitle", "streaming iCloud", "AirPlay", "Chromecast", "DLNA", "SMB", "WebDAV", "akses video USB", "aplikasi iPhone", "aplikasi Mac", "pengatur media", "video 360", "playlist video", "berbagi file", "pemutar video gratis", "dukungan multi-format"]
-aliases:
-  - /evervideo/
 appStoreUrl: "https://apps.apple.com/us/app/evervideo-hd-video-player/id6602897336?ct=everappzcom&mt=8"
 appStoreId: "6602897336"
 features: "Pemutaran video HD dalam semua format (MKV, AVI, MP4, MOV, FLV, WMV, WEBM), Dukungan video 360 derajat dan VR, Mode Picture-in-Picture, Equalizer video dan audio dengan 50+ preset, Dukungan subtitle, Streaming cloud (iCloud, Google Drive, Dropbox, OneDrive, MEGA), Unduhan offline, Perpustakaan media dengan playlist, AirPlay dan Chromecast, Dukungan SMB/WebDAV/DLNA, Pemutaran USB flash drive"

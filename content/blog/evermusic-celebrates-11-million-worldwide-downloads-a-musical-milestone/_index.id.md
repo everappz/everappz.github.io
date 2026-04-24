@@ -5,8 +5,6 @@ description: "Evermusic mencapai 11 juta unduhan. Lihat fitur-fitur yang menjadi
 keywords: ["Evermusic 11 juta unduhan", "pemutar musik cloud terbaik iOS", "pemutar musik offline iPhone", "streaming musik iCloud Drive", "aplikasi equalizer 10-band", "editor tag ID3 iOS", "pemutar musik sinkronisasi Mac iPhone", "pemutar FLAC iPhone"]
 tags: ["Evermusic", "pencapaian", "musik cloud", "pemutaran offline", "iCloud Drive", "equalizer", "pemutar musik iOS"]
 draft: false
-aliases:
-  - /post/evermusic-celebrates-11-million-worldwide-downloads-a-musical-milestone/
 cascade:
   type: docs
 authors:

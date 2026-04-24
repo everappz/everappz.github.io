@@ -6,8 +6,6 @@ layout: hextra-home
 description: "iPhone에서 FLAC, DSD, APE, ALAC 파일을 재생하고 다운로드하세요. 이퀄라이저로 클라우드 스토리지나 컴퓨터에서 직접 음악을 들으세요."
 keywords: ["FLAC 플레이어 iPhone", "무손실 음악 플레이어", "하이레스 오디오 플레이어", "DSD 플레이어 iOS", "ALAC 플레이어 iPhone", "오프라인 음악 플레이어 iOS", "클라우드 음악 플레이어", "NAS에서 음악 스트리밍", "iPhone에서 FLAC 재생", "태그 지원 iPhone 음악 플레이어", "Mac 음악 플레이어", "음악 다운로드 iPhone", "오디오 이퀄라이저 iOS", "USB 음악 플레이어 iPhone", "멀티 클라우드 음악 플레이어", "SMB WebDAV DLNA 플레이어", "iTunes 파일 공유 앱", "AirPlay Chromecast 지원"]
 tags: ["FLAC 플레이어", "하이레스 오디오", "오프라인 재생", "클라우드 음악", "DSD 오디오", "Mac 앱", "iPhone 앱", "USB 오디오 iOS", "음악 파일 관리자", "오디오 이퀄라이저", "메타데이터 편집기", "MP3 플레이어", "SMB 플레이어", "Chromecast 음악", "CarPlay 음악 플레이어", "다중 포맷 지원", "음악 스트리밍", "오디오 라이브러리 관리자"]
-aliases:
-  - /flacbox/
 appStoreUrl: "https://apps.apple.com/app/apple-store/id1097564256?pt=95781850&ct=everappzcom&mt=8"
 appStoreId: "1097564256"
 features: "하이레스 FLAC/DSD/APE/ALAC 재생, 클라우드 스트리밍 (iCloud, Google Drive, Dropbox, OneDrive, MEGA, Box), 프리셋 포함 오디오 이퀄라이저, 크로스페이드 및 갭리스 재생, M3U 재생목록 가져오기/내보내기, 가사 뷰어, 오디오 북마크, Apple CarPlay, AirPlay 및 Chromecast, SMB/WebDAV/DLNA 지원, USB 플래시 드라이브 재생, Last.fm 스크로블링, 내장 태그 편집기"

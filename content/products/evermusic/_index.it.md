@@ -6,8 +6,6 @@ layout: hextra-home
 description: "Scarica il miglior lettore musicale offline gratuito per iPhone e Mac e ascolta la tua musica ovunque."
 keywords: ["Evermusic", "lettore musicale offline", "lettore audio iOS", "app musica cloud", "scaricare musica iPhone", "lettore musicale Mac", "streaming musica offline", "lettore FLAC iPhone", "lettore musicale multi-cloud", "funzionalità app Evermusic"]
 tags: ["Evermusic", "riproduzione offline", "musica cloud", "lettore MP3", "app iPhone", "streaming audio", "gestione musicale", "app Mac", "lettore multimediale"]
-aliases:
-  - /evermusic/
 appStoreUrl: "https://apps.apple.com/app/apple-store/id885367198?pt=95781850&ct=everappzcom&mt=8"
 appStoreId: "885367198"
 features: "Riproduzione musicale offline, Streaming cloud (iCloud, Google Drive, Dropbox, OneDrive, MEGA, Box), Equalizzatore audio con preset, Crossfade e riproduzione senza interruzioni, Importazione/esportazione playlist M3U, Visualizzatore testi, Segnalibri audio, Apple CarPlay, AirPlay e Chromecast, Supporto SMB/WebDAV/DLNA, Riproduzione da chiavetta USB, Last.fm scrobbling"

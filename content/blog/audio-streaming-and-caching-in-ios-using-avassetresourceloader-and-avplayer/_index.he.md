@@ -5,9 +5,6 @@ description: "למדו כיצד לסטרם ולשמור אודיו במטמון 
 keywords: ["סטרימינג אודיו iOS", "AVAssetResourceLoaderDelegate", "AVURLAsset", "מדריך AVPlayer", "אודיו AVFoundation", "AVAssetResourceLoadingRequest", "נגן אודיו מותאם iOS", "סטרימינג אודיו ענן iOS", "מטמון אודיו iOS", "Swift AVPlayer סכמה מותאמת"]
 tags: ["streaming", "AVPlayer", "AVFoundation", "iOS", "AVAssetResourceLoader", "tutorial", "Objective-C", "audio caching"]
 draft: false
-aliases:
-  - /post/audio-streaming-and-caching-in-ios-using-avassetresourceloader-and-avplayer/
-  - /single-post/Audio-Streaming-and-Caching-in-iOS-using-AVAssetResourceLoader-and-AVPlayer/
 cascade:
   type: docs
 authors:

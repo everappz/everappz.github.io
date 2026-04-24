@@ -5,9 +5,6 @@ date: 2017-03-09
 readingTime: 2
 tags: ["คลาวด์", "เครื่องเล่น", "อีควอไลเซอร์", "iPhone", "SoundCloud", "สตรีม", "Chromecast"]
 keywords: ["แอปอีควอไลเซอร์ soundcloud", "อีควอไลเซอร์ 10 แบนด์ iOS", "เครื่องเล่น soundy soundcloud", "แอปเพลงพร้อมพรีเซ็ต", "อีควอไลเซอร์สำหรับ iPhone", "ความเร็วการเล่น soundcloud", "แอป soundcloud พร้อมตัวตั้งเวลานอน"]
-aliases:
-  - /post/soundy-equalizer-for-soundcloud-on-the-app-store/
-  - /single-post/soundy-equalizer-for-soundcloud-on-the-app-store/
 ---
 
 {{< author-byline >}}

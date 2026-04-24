@@ -5,8 +5,6 @@ description: "Το Flacbox φτάνει 1 εκατομμύριο λήψεις π
 keywords: ["αναπαραγωγέας μουσικής Flacbox", "hi-res ήχος iOS", "εφαρμογή μουσικής χωρίς απώλειες", "αναπαραγωγέας DSD FLAC APE", "FLAC μουσική εκτός σύνδεσης", "ορόσημο λήψεων Flacbox", "υψηλής ποιότητας ήχος iPhone", "εφαρμογές ήχου Everappz", "αναπαραγωγέας λιστών CUE", "1 εκατομμύριο λήψεις", "καλύτερος αναπαραγωγέας FLAC iOS", "αναπαραγωγέας μουσικής hi-res Mac"]
 tags: ["Flacbox", "χωρίς απώλειες", "hi-res ήχος", "αναπαραγωγέας μουσικής", "ήχος", "ορόσημο", "εφαρμογές iOS", "τι νέο υπάρχει"]
 draft: false
-aliases:
-  - /post/flacbox-celebrates-1-million-worldwide-downloads-your-gateway-to-hi-res-music/
 cascade:
   type: docs
 authors:

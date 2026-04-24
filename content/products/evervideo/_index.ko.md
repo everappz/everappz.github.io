@@ -6,8 +6,6 @@ layout: hextra-home
 description: "iPhone과 Mac을 위한 최고의 무료 비디오 플레이어를 다운로드하세요. 360° 비디오 감상, 자막 활성화, 비디오 이퀄라이저 조정, 재생목록으로 비디오 정리, 오프라인 다운로드, iCloud 스트리밍을 지원합니다."
 keywords: ["아이폰 비디오 플레이어", "Mac 비디오 플레이어", "360 비디오 플레이어", "iOS 오프라인 비디오 플레이어", "iCloud 비디오 스트리밍", "iOS 자막 지원", "아이폰 비디오 이퀄라이저", "AirPlay 비디오 앱", "Chromecast 비디오 플레이어", "DLNA 비디오 스트리밍", "SMB WebDAV 비디오 플레이어", "아이폰 USB 비디오 플레이어", "비디오 재생목록 정리", "자막 지원 Mac 비디오 플레이어", "iTunes 파일 공유 비디오 앱", "무료 iOS 비디오 앱", "비디오 미디어 관리자", "다중 형식 비디오 플레이어"]
 tags: ["비디오 플레이어", "오프라인 재생", "자막 지원", "iCloud 스트리밍", "AirPlay", "Chromecast", "DLNA", "SMB", "WebDAV", "USB 비디오 액세스", "아이폰 앱", "Mac 앱", "미디어 정리", "360 비디오", "비디오 재생목록", "파일 공유", "무료 비디오 플레이어", "다중 형식 지원"]
-aliases:
-  - /evervideo/
 appStoreUrl: "https://apps.apple.com/us/app/evervideo-hd-video-player/id6602897336?ct=everappzcom&mt=8"
 appStoreId: "6602897336"
 features: "모든 형식(MKV, AVI, MP4, MOV, FLV, WMV, WEBM)의 HD 비디오 재생, 360도 및 VR 비디오 지원, PIP(화면 속 화면) 모드, 50개 이상의 프리셋이 포함된 비디오 및 오디오 이퀄라이저, 자막 지원, 클라우드 스트리밍(iCloud, Google Drive, Dropbox, OneDrive, MEGA), 오프라인 다운로드, 재생목록이 포함된 미디어 라이브러리, AirPlay 및 Chromecast, SMB/WebDAV/DLNA 지원, USB 플래시 드라이브 재생"

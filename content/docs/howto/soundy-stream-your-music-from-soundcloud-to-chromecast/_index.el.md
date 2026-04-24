@@ -5,9 +5,6 @@ date: 2016-12-17
 readingTime: 3
 tags: ["streaming", "iPhone", "SoundCloud", "GoogleChromecast"]
 keywords: ["SoundCloud Chromecast iOS", "εφαρμογή Soundy SoundCloud", "streaming SoundCloud σε TV", "αναπαραγωγέας μουσικής Chromecast", "ισοσταθμιστής SoundCloud iPhone", "λίστες αναπαραγωγής Soundy SoundCloud"]
-aliases:
-  - /post/soundy-stream-your-music-from-soundcloud-to-chromecast/
-  - /single-post/Soundy-Stream-Your-Music-from-SoundCloud-to-Chromecast/
 ---
 
 {{< author-byline >}}

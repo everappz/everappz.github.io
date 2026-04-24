@@ -5,9 +5,6 @@ date: 2017-03-09
 readingTime: 2
 tags: ["雲端", "播放器", "等化器", "iPhone", "SoundCloud", "串流", "Chromecast"]
 keywords: ["soundcloud等化器應用", "10段等化器iOS", "soundy soundcloud播放器", "帶預設的音樂應用", "iPhone等化器", "播放速度soundcloud", "帶睡眠計時器的soundcloud應用"]
-aliases:
-  - /post/soundy-equalizer-for-soundcloud-on-the-app-store/
-  - /single-post/soundy-equalizer-for-soundcloud-on-the-app-store/
 ---
 
 {{< author-byline >}}

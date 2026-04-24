@@ -6,8 +6,6 @@ layout: hextra-home
 description: "Prehrávajte a sťahujte súbory FLAC, DSD, APE, ALAC na vašom iPhone. Počúvajte svoju hudbu priamo z cloudového úložiska alebo počítača s ekvalizérom."
 keywords: ["FLAC prehrávač iPhone", "bezstratový hudobný prehrávač", "hi-res audio prehrávač", "DSD prehrávač iOS", "ALAC prehrávač iPhone", "offline hudobný prehrávač iOS", "cloudový hudobný prehrávač", "streamovanie hudby z NAS", "prehrávanie FLAC na iPhone", "iPhone hudobný prehrávač s tagmi", "Mac hudobný prehrávač", "sťahovanie hudby iPhone", "audio ekvalizér iOS", "USB hudobný prehrávač iPhone", "multi-cloudový hudobný prehrávač", "SMB WebDAV DLNA prehrávač", "aplikácia iTunes File Sharing", "podpora AirPlay a Chromecast"]
 tags: ["FLAC prehrávač", "Hi-Res audio", "offline prehrávanie", "cloudová hudba", "DSD audio", "Mac aplikácie", "iPhone aplikácie", "USB audio iOS", "správca hudobných súborov", "audio ekvalizér", "editor metadát", "MP3 prehrávač", "SMB prehrávač", "Chromecast hudba", "CarPlay hudobný prehrávač", "podpora viacerých formátov", "streamovanie hudby", "správca audio knižnice"]
-aliases:
-  - /flacbox/
 appStoreUrl: "https://apps.apple.com/app/apple-store/id1097564256?pt=95781850&ct=everappzcom&mt=8"
 appStoreId: "1097564256"
 features: "Hi-Res prehrávanie FLAC/DSD/APE/ALAC, Cloudové streamovanie (iCloud, Google Drive, Dropbox, OneDrive, MEGA, Box), Audio ekvalizér s predvoľbami, Crossfade a bezmedzerové prehrávanie, Import/export playlistov M3U, Prehliadač textov piesní, Audio záložky, Apple CarPlay, AirPlay a Chromecast, Podpora SMB/WebDAV/DLNA, Prehrávanie z USB flash disku, Scrobbling Last.fm, Vstavaný editor tagov"

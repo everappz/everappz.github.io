@@ -6,9 +6,6 @@ layout: hextra-home
 description: "Păstrați-vă biblioteca muzicală organizată. Găsiți taguri lipsă. Editare în lot. Schimbați coperțile albumelor și multe altele."
 keywords: ["Evertag", "editor taguri audio", "manager taguri ID3", "editare metadate muzicale", "editor taguri FLAC", "aplicație organizare muzică", "editor metadate MP3", "editor taguri muzicale iOS", "aplicație taguri audio Mac", "redenumire fișiere muzicale"]
 tags: ["Evertag", "taguri ID3", "metadate muzicale", "editor taguri audio", "editor MP3", "etichetare FLAC", "utilitare iPhone", "instrumente muzicale Mac", "gestionare bibliotecă muzicală"]
-aliases:
-  - /evertag/
-  - /mp3tag/
 appStoreUrl: "https://apps.apple.com/app/apple-store/id1450763230?pt=95781850&ct=everappzcom&mt=8"
 appStoreId: "1450763230"
 features: "Editare peste 120 de taguri audio, Editare taguri în lot, Căutare coperți albume, Suport pentru peste 30 de formate audio, Căutare automată taguri prin MusicBrainz, Reparare probleme de codificare, Acces cloud și USB, Transfer muzică prin Wi-Fi, Manager de fișiere integrat, Editor versuri"

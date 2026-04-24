@@ -2,11 +2,6 @@
 date: '2025-06-12T17:00:00+00:00'
 draft: false
 title: 'Algemene Voorwaarden'
-aliases:
-  - /terms-and-conditions/
-  - /terms-and-conditionsDec/
-  - /terms-and-condition/
-  - /terms-and-conditionsMay/
 ---
 
 EVERAPPZ S.L. is de eigenaar van apps zoals Evermusic, Evermusic Pro, Flacbox en de Evertag app. Deze muziekspelers ondersteunen verschillende bestandstypen, en Evertag laat u audiotags voor uw bestanden bewerken, allemaal in overeenstemming met de Algemene Voorwaarden.

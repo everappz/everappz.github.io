@@ -3,8 +3,6 @@ date: '2025-06-12T17:00:00+00:00'
 draft: false
 title: 'Rólunk'
 description: 'Az Everappz S.L. egy spanyol szoftvercég, amely iOS és macOS alkalmazásokat fejleszt hang és videó lejátszáshoz. Az Evermusic (11M letöltés), Flacbox, EverTag, EverVideo és Soundy készítői — világszerte több mint 14 millió letöltés.'
-aliases:
-  - /_api/one-app-session-web/v3/businesses/
 ---
 
 {{< lottie src="/images/juicy-json/juicy-girl-and-guy-preparing-start-up-rocket-to-launch-with-ideas.json" width="65%" >}}

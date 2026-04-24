@@ -5,8 +5,6 @@ description: "Evermusic 2.3 menambah penyegerakan muzik awan automatik, penyimpa
 keywords: ["Evermusic", "pemain muzik awan", "segerak muzik iOS", "simpan posisi main balik", "main balik buku audio", "pembaca metadata", "betulkan tag ID3", "strim muzik dari awan", "aplikasi muzik untuk Dropbox", "pemain Google Drive", "segerak pustaka muzik automatik", "simpan posisi buku audio iOS"]
 tags: ["evermusic", "muzik", "main balik", "pengurus", "penyunting", "segerak", "posisi", "tagid3", "awan", "apa yang baharu"]
 draft: false
-aliases:
-  - /post/evermusic-sync-your-music-library-save-playback-position-correct-music-tags/
 cascade:
   type: docs
 authors:

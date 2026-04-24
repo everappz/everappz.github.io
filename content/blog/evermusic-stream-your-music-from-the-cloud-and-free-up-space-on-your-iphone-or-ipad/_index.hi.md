@@ -5,9 +5,6 @@ description: "Evermusic के साथ iPhone और iPad पर Google Drive,
 keywords: ["Evermusic", "क्लाउड म्यूजिक प्लेयर", "iOS म्यूजिक ऐप", "क्लाउड से संगीत स्ट्रीम", "ऑफलाइन संगीत iPhone", "Google Drive म्यूजिक प्लेयर", "Dropbox म्यूजिक स्ट्रीमिंग", "MP3 प्लेयर iPhone", "iPhone में जगह खाली करें", "SMB से संगीत", "iOS क्लाउड स्टोरेज से संगीत चलाएं", "बिना iTunes म्यूजिक प्लेयर"]
 tags: ["ऑडियो", "स्ट्रीमिंग", "प्लेयर", "mp3", "डाउनलोडर", "GoogleDrive", "Dropbox", "क्लाउड म्यूजिक", "ऑफलाइन प्लेबैक"]
 draft: false
-aliases:
-  - /post/evermusic-stream-your-music-from-the-cloud-and-free-up-space-on-your-iphone-or-ipad/
-  - /single-post/Evermusic-stream-your-music-from-the-cloud-and-free-up-space-on-your-iPhone-or-iPad/
 cascade:
   type: docs
 authors:

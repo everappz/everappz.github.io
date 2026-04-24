@@ -5,8 +5,6 @@ description: "Flacbox je dostigao 1 milijun preuzimanja diljem svijeta. Istraži
 keywords: ["Flacbox glazbeni player", "hi-res audio iOS", "lossless glazbena aplikacija", "DSD FLAC APE player", "offline FLAC glazba", "Flacbox prekretnica preuzimanja", "visokokvalitetni audio iPhone", "Everappz audio aplikacije", "CUE player lista za reprodukciju", "1 milijun preuzimanja", "najbolji FLAC player iOS", "hi-res glazbeni player Mac"]
 tags: ["Flacbox", "lossless", "hi-res audio", "glazbeni player", "audio", "prekretnica", "iOS aplikacije", "Novosti"]
 draft: false
-aliases:
-  - /post/flacbox-celebrates-1-million-worldwide-downloads-your-gateway-to-hi-res-music/
 cascade:
   type: docs
 authors:

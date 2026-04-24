@@ -6,8 +6,6 @@ layout: hextra-home
 description: "Odtwarzaj i pobieraj pliki FLAC, DSD, APE, ALAC na swoim iPhonie. Słuchaj muzyki bezpośrednio z chmury lub komputera z equalizerem."
 keywords: ["odtwarzacz FLAC iPhone", "bezstratny odtwarzacz muzyki", "odtwarzacz audio hi-res", "odtwarzacz DSD iOS", "odtwarzacz ALAC iPhone", "odtwarzacz muzyki offline iOS", "odtwarzacz muzyki w chmurze", "streamowanie muzyki z NAS", "odtwarzanie FLAC na iPhone", "odtwarzacz muzyki iPhone z tagami", "odtwarzacz muzyki Mac", "pobieranie muzyki iPhone", "equalizer audio iOS", "odtwarzacz muzyki USB iPhone", "odtwarzacz multi-cloud", "odtwarzacz SMB WebDAV DLNA", "aplikacja udostępniania plików iTunes", "obsługa AirPlay i Chromecast"]
 tags: ["odtwarzacz FLAC", "audio Hi-Res", "odtwarzanie offline", "muzyka w chmurze", "audio DSD", "aplikacje Mac", "aplikacje iPhone", "audio USB iOS", "menedżer plików muzycznych", "equalizer audio", "edytor metadanych", "odtwarzacz MP3", "odtwarzacz SMB", "muzyka Chromecast", "odtwarzacz muzyki CarPlay", "obsługa wielu formatów", "streamowanie muzyki", "menedżer biblioteki audio"]
-aliases:
-  - /flacbox/
 appStoreUrl: "https://apps.apple.com/app/apple-store/id1097564256?pt=95781850&ct=everappzcom&mt=8"
 appStoreId: "1097564256"
 features: "Odtwarzanie Hi-Res FLAC/DSD/APE/ALAC, Streamowanie z chmury (iCloud, Google Drive, Dropbox, OneDrive, MEGA, Box), Equalizer audio z presetami, Crossfade i bezprzerwowe odtwarzanie, Import/eksport playlist M3U, Przeglądarka tekstów, Zakładki audio, Apple CarPlay, AirPlay i Chromecast, Obsługa SMB/WebDAV/DLNA, Odtwarzanie z pendrive USB, Scrobbling Last.fm, Wbudowany edytor tagów"

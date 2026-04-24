@@ -5,8 +5,6 @@ description: "使用 Flacbox 在 iPhone 和 Mac 上播放 FLAC、DSD、ALAC 和 
 keywords: ["无损音乐播放器", "FLAC 播放器 iOS", "DSD 播放器 iPhone", "hi-res 音频 Mac", "Flacbox 应用", "最佳 FLAC 播放器 iPhone", "离线 FLAC 播放器", "发烧友音乐播放器 iOS", "Mac FLAC 播放器", "hi-res 流式播放 iOS", "在 iPhone 上播放 FLAC", "DSD128 播放器", "无损音频应用"]
 tags: ["flacbox", "音乐", "音频", "无损", "iphone", "mac", "flac", "dsd", "发烧友"]
 draft: false
-aliases:
-  - /post/unleash-audiophile-bliss-playing-lossless-music-on-iphone-or-mac-with-flacbox/
 cascade:
   type: docs
 authors:

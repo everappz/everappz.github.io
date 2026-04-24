@@ -5,9 +5,6 @@ date: 2017-03-09
 readingTime: 2
 tags: ["chmura", "odtwarzacz", "korektor", "iPhone", "SoundCloud", "strumieniowanie", "Chromecast"]
 keywords: ["aplikacja korektor soundcloud", "10-pasmowy korektor iOS", "odtwarzacz soundy soundcloud", "aplikacja muzyczna z presetami", "korektor na iPhone", "prędkość odtwarzania soundcloud", "aplikacja soundcloud z timerem snu"]
-aliases:
-  - /post/soundy-equalizer-for-soundcloud-on-the-app-store/
-  - /single-post/soundy-equalizer-for-soundcloud-on-the-app-store/
 ---
 
 {{< author-byline >}}

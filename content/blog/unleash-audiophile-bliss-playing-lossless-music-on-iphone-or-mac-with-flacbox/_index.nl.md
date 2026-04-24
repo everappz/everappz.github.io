@@ -5,8 +5,6 @@ description: "Speel FLAC, DSD, ALAC en 120+ audioformaten op iPhone en Mac met F
 keywords: ["lossless muziekspeler", "FLAC-speler iOS", "DSD-speler iPhone", "hi-res audio Mac", "Flacbox app", "beste FLAC-speler iPhone", "offline FLAC-speler", "audiofiel muziekspeler iOS", "Mac FLAC-speler", "hi-res streaming iOS", "FLAC afspelen op iPhone", "DSD128-speler", "lossless audio-app"]
 tags: ["flacbox", "muziek", "audio", "lossless", "iphone", "mac", "flac", "dsd", "audiofiel"]
 draft: false
-aliases:
-  - /post/unleash-audiophile-bliss-playing-lossless-music-on-iphone-or-mac-with-flacbox/
 cascade:
   type: docs
 authors:

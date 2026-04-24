@@ -10,8 +10,6 @@ layout: hextra-home
 description: "Milhares de clientes usam o Soundy como reprodutor padrão do SoundCloud no iPhone. Obtenha qualidade de som superior, equalizador e muito mais."
 keywords: ["Soundy", "reprodutor SoundCloud iPhone", "equalizador de música iOS", "equalizador para SoundCloud", "reprodutor SoundCloud offline", "amplificador de qualidade de áudio iOS", "aplicativo SoundCloud EQ", "melhor cliente SoundCloud iPhone", "aplicativos de música iPhone", "reprodutor alternativo SoundCloud"]
 tags: ["Soundy", "SoundCloud", "aplicativos iOS", "equalizador de música", "reprodutor de áudio", "reprodução offline", "aplicativo de música iPhone", "aplicativos descontinuados", "reprodutor de mídia", "streaming de música"]
-aliases:
-  - /soundy/
 ---
 
 <div class="hx:w-full hx:max-w-screen-lg hx:mx-auto hx:flex hx:flex-col hx:items-center hx:justify-center hx:text-center">

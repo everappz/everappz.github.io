@@ -5,9 +5,6 @@ description: "Evermusic 3.1 tuo crossfade-toiston, uudistetun musiikkikirjaston,
 keywords: ["Evermusic-päivitys", "crossfade-toisto iOS", "pilvimusiikkisovellus", "musiikin varmuuskopiointisovellus", "äänisoittimen jono", "musiikin tunniste-editori", "ID3-tunnistepäivitys", "iPod-kirjastointegraatio", "musiikkisoitin iPhone", "crossfade-musiikki iOS", "musiikkikirjaston pilvisynkronointi", "soittolistojen varmuuskopiointi iOS"]
 tags: ["Evermusic", "crossfade", "musiikkikirjasto", "varmuuskopiointi", "äänijono", "tunnisteet", "pilvisoitin", "offline-soitin", "editori", "iPod-kirjasto"]
 draft: false
-aliases:
-  - /post/evermusic-31-crossfade-playback/
-  - /single-post/Evermusic-Sync-your-Music-Library-Save-playback-position-Correct-music-tags/
 cascade:
   type: docs
 authors:

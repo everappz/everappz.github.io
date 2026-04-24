@@ -5,9 +5,6 @@ description: "Evermusic je dostigao 3 milijuna preuzimanja. Istražite streaming
 keywords: ["Evermusic preuzimanja", "iOS glazbeni player", "aplikacija za glazbu u oblaku", "izvanmrežni glazbeni player iPhone", "preuzimanje glazbe iOS", "player za audioknjige iPhone", "uređivač ID3 oznaka iOS", "upravitelj datoteka iPhone", "aplikacija za glazbeni ekvilajzer", "najbolji cloud glazbeni player", "streaming glazbe s NAS iPhone"]
 tags: ["Evermusic", "preuzimanja", "prekretnica", "glazbene aplikacije", "cloud player", "izvanmrežni player", "uređivač oznaka", "ekvilajzer", "audioknjige", "upravitelj datoteka"]
 draft: false
-aliases:
-  - /post/evermusic-3-million-downloads/
-  - /single-post/Evermusic-3-million-downloads/
 cascade:
   type: docs
 authors:

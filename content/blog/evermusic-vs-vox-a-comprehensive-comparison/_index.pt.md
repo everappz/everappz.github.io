@@ -5,8 +5,6 @@ description: "Evermusic vs VOX comparados em 8 categorias: armazenamento em nuve
 keywords: ["Evermusic vs VOX", "alternativa VOX iOS", "melhor reprodutor de música iPhone", "comparação de reprodutor de música em nuvem", "reprodutor de audiolivros iOS", "editor de tags ID3 iPhone", "aplicativo de música Wi-Fi drive", "reprodutor FLAC iPhone", "reprodutor de música para armazenamento em nuvem", "alternativa VOX Cloud"]
 tags: ["comparação", "evermusic", "vox", "nuvem", "audiolivros", "tags", "streaming", "aplicativos", "reprodutor de música", "ios"]
 draft: false
-aliases:
-  - /post/evermusic-vs-vox-a-comprehensive-comparison/
 sidebar:
   exclude: true
 cascade:

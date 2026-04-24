@@ -5,8 +5,6 @@ description: "Nézd meg az Evermusic hivatalos promóciós videóját. Lásd, ho
 keywords: ["Evermusic promó videó", "felhő zenelejátszó iPhone", "zenei alkalmazás videó", "Evermusic alkalmazás demó", "felhőzene iOS", "Evermusic funkciók", "zenelejátszó iPad", "zene streamelése felhőből"]
 tags: ["evermusic", "promó", "videó", "ios", "zene", "felhő", "lejátszó", "mobilalkalmazás"]
 draft: false
-aliases:
-  - /post/evermusic-promo-video/
 cascade:
   type: docs
 authors:

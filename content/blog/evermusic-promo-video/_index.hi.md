@@ -5,8 +5,6 @@ description: "आधिकारिक Evermusic प्रोमो वीडि
 keywords: ["Evermusic प्रोमो वीडियो", "क्लाउड म्यूजिक प्लेयर iPhone", "म्यूजिक ऐप वीडियो", "Evermusic ऐप डेमो", "क्लाउड म्यूजिक iOS", "Evermusic फीचर्स", "म्यूजिक प्लेयर iPad", "क्लाउड से म्यूजिक स्ट्रीम"]
 tags: ["evermusic", "प्रोमो", "वीडियो", "ios", "म्यूजिक", "क्लाउड", "प्लेयर", "मोबाइल ऐप"]
 draft: false
-aliases:
-  - /post/evermusic-promo-video/
 cascade:
   type: docs
 authors:

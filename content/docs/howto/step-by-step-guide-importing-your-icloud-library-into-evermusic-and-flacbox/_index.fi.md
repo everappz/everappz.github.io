@@ -5,8 +5,6 @@ date: 2024-11-14
 readingTime: 7
 tags: ["musiikki", "pilvi", "suoratoisto", "synkronointi", "icloud", "kirjasto"]
 keywords: ["tuo iCloud-musiikki Evermusic", "Flacbox iCloud-synkronointi", "Evermusic suoratoisto iCloudista", "musiikkikirjasto iOS-sovellus", "Flacbox metatietojen lukija", "iCloud-musiikin suoratoisto iPhone"]
-aliases:
-  - /post/step-by-step-guide-importing-your-icloud-library-into-evermusic-and-flacbox/
 ---
 
 {{< author-byline >}}

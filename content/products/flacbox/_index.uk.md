@@ -6,8 +6,6 @@ layout: hextra-home
 description: "Відтворюйте та завантажуйте файли FLAC, DSD, APE, ALAC на вашому iPhone. Слухайте музику безпосередньо з хмарного сховища або комп'ютера з еквалайзером."
 keywords: ["FLAC плеєр iPhone", "програвач музики без втрат", "hi-res аудіоплеєр", "DSD плеєр iOS", "ALAC плеєр iPhone", "офлайн музичний плеєр iOS", "хмарний музичний плеєр", "стрімінг музики з NAS", "відтворити FLAC на iPhone", "музичний плеєр iPhone з тегами", "музичний плеєр Mac", "завантажити музику iPhone", "аудіо еквалайзер iOS", "USB музичний плеєр iPhone", "мультихмарний музичний плеєр", "SMB WebDAV DLNA плеєр", "додаток iTunes File Sharing", "підтримка AirPlay та Chromecast"]
 tags: ["FLAC плеєр", "Hi-Res аудіо", "офлайн відтворення", "хмарна музика", "DSD аудіо", "додатки Mac", "додатки iPhone", "USB аудіо iOS", "менеджер музичних файлів", "аудіо еквалайзер", "редактор метаданих", "MP3 плеєр", "SMB плеєр", "Chromecast музика", "CarPlay музичний плеєр", "підтримка багатьох форматів", "стрімінг музики", "менеджер аудіобібліотеки"]
-aliases:
-  - /flacbox/
 appStoreUrl: "https://apps.apple.com/app/apple-store/id1097564256?pt=95781850&ct=everappzcom&mt=8"
 appStoreId: "1097564256"
 features: "Hi-Res FLAC/DSD/APE/ALAC відтворення, Хмарний стрімінг (iCloud, Google Drive, Dropbox, OneDrive, MEGA, Box), Аудіо еквалайзер з пресетами, Crossfade та безперервне відтворення, Імпорт/експорт плейлистів M3U, Перегляд текстів пісень, Аудіо закладки, Apple CarPlay, AirPlay та Chromecast, Підтримка SMB/WebDAV/DLNA, Відтворення з USB-накопичувача, Last.fm scrobbling, Вбудований редактор тегів"

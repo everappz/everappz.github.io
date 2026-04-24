@@ -5,8 +5,6 @@ description: "공식 Evermusic 프로모션 영상을 시청하세요. Evermusic
 keywords: ["Evermusic 프로모션 영상", "클라우드 음악 플레이어 iPhone", "음악 앱 영상", "Evermusic 앱 데모", "클라우드 음악 iOS", "Evermusic 기능", "음악 플레이어 iPad", "클라우드에서 음악 스트리밍"]
 tags: ["evermusic", "프로모션", "영상", "ios", "음악", "클라우드", "플레이어", "모바일 앱"]
 draft: false
-aliases:
-  - /post/evermusic-promo-video/
 cascade:
   type: docs
 authors:

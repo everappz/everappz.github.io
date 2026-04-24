@@ -5,8 +5,6 @@ description: "Katso Evermusicin promovideo, joka esittelee pilvimusiikin suorato
 keywords: ["Evermusic promovideo", "musiikkisoitin iOS", "pilvimusiikkisovellus iPhone", "Evermusic-sovelluksen esittely", "paras musiikkisoitin iPhone", "offline-musiikkisoitin iOS"]
 tags: ["Evermusic", "promootio", "musiikki", "video", "pilvimusiikki", "iOS-sovellus"]
 draft: false
-aliases:
-  - /post/evermusic-be-inspired-by-music/
 sidebar:
   exclude: true
 cascade:

@@ -5,9 +5,6 @@ date: 2017-03-09
 readingTime: 2
 tags: ["ענן", "נגן", "אקולייזר", "iPhone", "SoundCloud", "סטרימינג", "Chromecast"]
 keywords: ["אפליקציית אקולייזר soundcloud", "אקולייזר 10 פסים iOS", "נגן soundy soundcloud", "אפליקציית מוזיקה עם הגדרות מוכנות", "אקולייזר ל-iPhone", "מהירות השמעה soundcloud", "אפליקציית soundcloud עם טיימר שינה"]
-aliases:
-  - /post/soundy-equalizer-for-soundcloud-on-the-app-store/
-  - /single-post/soundy-equalizer-for-soundcloud-on-the-app-store/
 ---
 
 {{< author-byline >}}

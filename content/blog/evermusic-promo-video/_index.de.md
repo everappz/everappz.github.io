@@ -5,8 +5,6 @@ description: "Sehen Sie das offizielle Evermusic Promo-Video. Erfahren Sie, wie 
 keywords: ["Evermusic Promo-Video", "Cloud-Musikplayer iPhone", "Musik-App-Video", "Evermusic App-Demo", "Cloud-Musik iOS", "Evermusic Funktionen", "Musikplayer iPad", "Musik aus Cloud streamen"]
 tags: ["Evermusic", "Promo", "Video", "iOS", "Musik", "Cloud", "Player", "Mobile App"]
 draft: false
-aliases:
-  - /post/evermusic-promo-video/
 cascade:
   type: docs
 authors:

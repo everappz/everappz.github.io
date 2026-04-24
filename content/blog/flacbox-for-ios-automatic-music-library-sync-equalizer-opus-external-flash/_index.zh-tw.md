@@ -5,9 +5,6 @@ description: "iOS 版 Flacbox 1.6 新增自動雲端同步、10 段等化器、O
 keywords: ["Flacbox 更新", "FLAC 播放器 iOS", "10 段等化器 iPhone", "自動音樂同步", "在 iPhone 上播放 OPUS", "外接隨身碟音樂", "FLAC 串流 iOS", "hi-res 音樂應用程式 iPhone", "Flacbox 等化器", "SD 卡音樂播放器 iOS"]
 tags: ["Flacbox", "等化器", "音樂庫", "OPUS", "FLAC", "外部儲存", "同步", "音訊播放器", "iOS 應用程式", "更新"]
 draft: false
-aliases:
-  - /post/flacbox-for-ios-automatic-music-library-sync-equalizer-opus-external-flash/
-  - /single-post/Flacbox-for-iOS-Automatic-Music-Library-Sync-Equalizer-OPUS-External-Flash/
 cascade:
   type: docs
 authors:

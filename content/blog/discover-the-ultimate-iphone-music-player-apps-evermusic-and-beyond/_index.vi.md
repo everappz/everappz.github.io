@@ -5,8 +5,6 @@ description: "So sánh các ứng dụng nghe nhạc iPhone tốt nhất: Evermu
 keywords: ["trình phát nhạc iPhone tốt nhất", "ứng dụng nghe nhạc iOS", "Evermusic vs Spotify", "trình phát nhạc đám mây iPhone", "ứng dụng nhạc ngoại tuyến iPhone", "trình phát FLAC iOS", "thay thế Apple Music", "VLC iPhone", "trình phát nhạc miễn phí iOS"]
 tags: ["ứng dụng nhạc", "iOS", "Evermusic", "Apple Music", "Spotify", "VLC", "Amazon Music", "so sánh", "nhạc đám mây", "phát ngoại tuyến"]
 draft: false
-aliases:
-  - /post/discover-the-ultimate-iphone-music-player-apps-evermusic-and-beyond/
 cascade:
   type: docs
 authors:

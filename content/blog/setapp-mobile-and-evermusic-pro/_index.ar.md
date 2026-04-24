@@ -5,8 +5,6 @@ description: "احصل على Evermusic Pro من خلال Setapp Mobile. قم ب
 keywords: ["Setapp Mobile", "Evermusic Pro", "مشغل موسيقى سحابي", "بث موسيقى iPhone", "موسيقى بدون إنترنت iOS", "تطبيقات Setapp iOS", "تطبيق audiophile iPhone", "معادل صوت iOS", "موسيقى NAS iPhone", "مشغل موسيقى التخزين السحابي", "تطبيق موسيقى Setapp", "بث موسيقى من Google Drive iPhone"]
 tags: ["evermusic", "setapp", "سحابي", "صوت", "موبايل", "سوق", "موسيقى", "تطبيقات ios"]
 draft: false
-aliases:
-  - /post/setapp-mobile-and-evermusic-pro/
 cascade:
   type: docs
 authors:

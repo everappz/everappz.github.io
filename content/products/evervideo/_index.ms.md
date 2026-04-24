@@ -6,8 +6,6 @@ layout: hextra-home
 description: "Muat turun pemain video percuma terbaik untuk iPhone dan Mac anda. Tonton video 360°, aktifkan sarikata, laraskan penyama video, susun video anda dengan senarai main, muat turun untuk luar talian, dan strim dari iCloud."
 keywords: ["pemain video iPhone", "pemain video Mac", "pemain video 360", "pemain video luar talian iOS", "strim video dari iCloud", "sokongan sarikata iOS", "penyama video iPhone", "aplikasi video AirPlay", "pemain video Chromecast", "penstriman video DLNA", "pemain video SMB WebDAV", "pemain video USB iPhone", "susun senarai main video", "pemain video Mac dengan sarikata", "aplikasi video Perkongsian Fail iTunes", "aplikasi video percuma iOS", "pengurus media untuk video", "pemain video pelbagai format"]
 tags: ["pemain video", "main balik luar talian", "sokongan sarikata", "penstriman iCloud", "AirPlay", "Chromecast", "DLNA", "SMB", "WebDAV", "akses video USB", "aplikasi iPhone", "aplikasi Mac", "pengatur media", "video 360", "senarai main video", "perkongsian fail", "pemain video percuma", "sokongan pelbagai format"]
-aliases:
-  - /evervideo/
 appStoreUrl: "https://apps.apple.com/us/app/evervideo-hd-video-player/id6602897336?ct=everappzcom&mt=8"
 appStoreId: "6602897336"
 features: "Main balik video HD dalam semua format (MKV, AVI, MP4, MOV, FLV, WMV, WEBM), sokongan video 360 darjah dan VR, mod Gambar-dalam-Gambar, Penyama video dan audio dengan 50+ pratetap, Sokongan sarikata, Penstriman awan (iCloud, Google Drive, Dropbox, OneDrive, MEGA), Muat turun luar talian, Perpustakaan media dengan senarai main, AirPlay dan Chromecast, sokongan SMB/WebDAV/DLNA, Main balik pemacu kilat USB"

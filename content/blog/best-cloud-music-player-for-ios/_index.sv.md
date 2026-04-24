@@ -5,8 +5,6 @@ description: "Evermusic ansluter till 12+ molntjänster, spelar FLAC och MP3 off
 keywords: ["bästa molnbaserade musikspelaren iOS", "molnbaserad musikspelare iPhone", "spela musik från Dropbox", "offline musikspelare iPhone", "FLAC-spelare iOS", "Evermusic recension", "musikbibliotekshanterare iOS", "Google Drive musikspelare", "NAS musikspelare iPhone", "WebDAV musikspelare"]
 tags: ["Evermusic", "cloud music", "offline playback", "iOS music apps", "MP3 player", "audio", "music streaming", "guide", "FLAC", "review"]
 draft: false
-aliases:
-  - /post/best-cloud-music-player-for-ios/
 cascade:
   type: docs
 authors:

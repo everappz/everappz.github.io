@@ -5,8 +5,6 @@ description: "Setapp MobileでEvermusic Proを入手。Google Drive、Dropbox、
 keywords: ["Setapp Mobile", "Evermusic Pro", "クラウド音楽プレーヤー", "音楽ストリーミングiPhone", "オフライン音楽iOS", "Setapp iOSアプリ", "オーディオファイルアプリiPhone", "イコライザーiOS", "NAS音楽iPhone", "クラウドストレージ音楽プレーヤー", "Setapp音楽アプリ", "Google Driveから音楽ストリーミングiPhone"]
 tags: ["evermusic", "setapp", "クラウド", "オーディオ", "モバイル", "マーケットプレイス", "音楽", "iOSアプリ"]
 draft: false
-aliases:
-  - /post/setapp-mobile-and-evermusic-pro/
 cascade:
   type: docs
 authors:

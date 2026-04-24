@@ -5,9 +5,6 @@ date: 2017-03-09
 readingTime: 2
 tags: ["đám mây", "trình phát", "bộ cân bằng", "iPhone", "SoundCloud", "phát trực tuyến", "Chromecast"]
 keywords: ["ứng dụng bộ cân bằng soundcloud", "bộ cân bằng 10 dải iOS", "trình phát soundy soundcloud", "ứng dụng nhạc với preset", "bộ cân bằng cho iPhone", "tốc độ phát soundcloud", "ứng dụng soundcloud với hẹn giờ ngủ"]
-aliases:
-  - /post/soundy-equalizer-for-soundcloud-on-the-app-store/
-  - /single-post/soundy-equalizer-for-soundcloud-on-the-app-store/
 ---
 
 {{< author-byline >}}

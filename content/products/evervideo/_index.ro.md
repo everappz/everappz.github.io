@@ -6,8 +6,6 @@ layout: hextra-home
 description: "Descărcați cel mai bun player video gratuit pentru iPhone și Mac. Vizionați videoclipuri la 360°, activați subtitrările, reglați egalizatorul video, organizați videoclipurile în playlisturi, descărcați pentru vizionare offline și transmiteți din iCloud."
 keywords: ["player video iPhone", "player video Mac", "player video 360", "player video offline iOS", "transmitere video din iCloud", "suport subtitrări iOS", "egalizator video iPhone", "aplicație video AirPlay", "player video Chromecast", "transmitere video DLNA", "player video SMB WebDAV", "player video USB iPhone", "organizare playlisturi video", "player video Mac cu subtitrări", "aplicație video iTunes File Sharing", "aplicație video gratuită iOS", "manager media pentru videoclipuri", "player video multi-format"]
 tags: ["player video", "redare offline", "suport subtitrări", "transmitere iCloud", "AirPlay", "Chromecast", "DLNA", "SMB", "WebDAV", "acces video USB", "aplicații iPhone", "aplicații Mac", "organizator media", "video 360", "playlisturi video", "partajare fișiere", "player video gratuit", "suport multi-format"]
-aliases:
-  - /evervideo/
 appStoreUrl: "https://apps.apple.com/us/app/evervideo-hd-video-player/id6602897336?ct=everappzcom&mt=8"
 appStoreId: "6602897336"
 features: "Redare video HD în toate formatele (MKV, AVI, MP4, MOV, FLV, WMV, WEBM), suport video la 360 de grade și VR, modul Picture-in-Picture, egalizator video și audio cu peste 50 de presetări, suport subtitrări, transmitere din cloud (iCloud, Google Drive, Dropbox, OneDrive, MEGA), descărcare offline, bibliotecă media cu playlisturi, AirPlay și Chromecast, suport SMB/WebDAV/DLNA, redare de pe unitate flash USB"

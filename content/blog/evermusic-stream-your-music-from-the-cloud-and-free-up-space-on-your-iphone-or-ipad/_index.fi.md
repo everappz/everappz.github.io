@@ -5,9 +5,6 @@ description: "Suoratoista musiikkia Google Drivesta, Dropboxista tai OneDrivesta
 keywords: ["Evermusic", "pilvimusiikin soitin", "iOS-musiikkisovellus", "suoratoista musiikkia pilvestä", "offline-musiikki iPhone", "Google Drive -musiikinsoitin", "Dropbox-musiikin suoratoisto", "MP3-soitin iPhone", "vapauta tilaa iPhone", "musiikki SMB:stä", "toista musiikkia pilvitallennuksesta iOS", "musiikinsoitin ilman iTunesia"]
 tags: ["ääni", "suoratoisto", "soitin", "mp3", "lataus", "GoogleDrive", "Dropbox", "pilvimusiikki", "offline-toisto"]
 draft: false
-aliases:
-  - /post/evermusic-stream-your-music-from-the-cloud-and-free-up-space-on-your-iphone-or-ipad/
-  - /single-post/Evermusic-stream-your-music-from-the-cloud-and-free-up-space-on-your-iPhone-or-iPad/
 cascade:
   type: docs
 authors:

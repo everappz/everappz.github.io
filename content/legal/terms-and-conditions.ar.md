@@ -2,11 +2,6 @@
 date: '2025-06-12T17:00:00+00:00'
 draft: false
 title: 'الشروط والأحكام'
-aliases:
-  - /terms-and-conditions/
-  - /terms-and-conditionsDec/
-  - /terms-and-condition/
-  - /terms-and-conditionsMay/
 ---
 
 EVERAPPZ S.L. هي المالكة لتطبيقات مثل Evermusic وEvermusic Pro وFlacbox وتطبيق Evertag. تدعم مشغلات الموسيقى هذه أنواعًا مختلفة من الملفات، ويتيح لك Evertag تعديل علامات الصوت لملفاتك، وكل ذلك وفقًا للشروط والأحكام.

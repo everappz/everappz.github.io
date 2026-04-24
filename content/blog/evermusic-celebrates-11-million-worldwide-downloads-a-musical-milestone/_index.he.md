@@ -5,8 +5,6 @@ description: "Evermusic מגיע ל-11 מיליון הורדות. ראו את ה
 keywords: ["Evermusic 11 מיליון הורדות", "נגן מוזיקה ענן הטוב ביותר iOS", "נגן מוזיקה לא מקוון iPhone", "הזרמת מוזיקה iCloud Drive", "אפליקציית אקולייזר 10 פסים", "עורך תגיות ID3 iOS", "סנכרון נגן מוזיקה Mac iPhone", "נגן FLAC iPhone"]
 tags: ["Evermusic", "אבן דרך", "מוזיקה בענן", "השמעה לא מקוונת", "iCloud Drive", "אקולייזר", "נגן מוזיקה iOS"]
 draft: false
-aliases:
-  - /post/evermusic-celebrates-11-million-worldwide-downloads-a-musical-milestone/
 cascade:
   type: docs
 authors:

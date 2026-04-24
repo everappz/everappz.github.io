@@ -5,8 +5,6 @@ description: "So sánh Evermusic vs VOX qua 8 hạng mục: lưu trữ đám mâ
 keywords: ["Evermusic vs VOX", "thay thế VOX iOS", "trình phát nhạc tốt nhất iPhone", "so sánh trình phát nhạc đám mây", "trình phát sách nói iOS", "trình chỉnh sửa thẻ ID3 iPhone", "ứng dụng nhạc Wi-Fi", "trình phát FLAC iPhone", "trình phát nhạc cho lưu trữ đám mây", "thay thế VOX Cloud"]
 tags: ["so sánh", "evermusic", "vox", "đám mây", "sách nói", "thẻ", "phát trực tuyến", "ứng dụng", "trình phát nhạc", "ios"]
 draft: false
-aliases:
-  - /post/evermusic-vs-vox-a-comprehensive-comparison/
 sidebar:
   exclude: true
 cascade:

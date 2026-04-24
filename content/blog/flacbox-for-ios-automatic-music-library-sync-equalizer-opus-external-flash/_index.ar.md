@@ -5,9 +5,6 @@ description: "يضيف Flacbox 1.6 لنظام iOS مزامنة سحابية تل
 keywords: ["تحديث Flacbox", "مشغل FLAC iOS", "معادل صوت 10 نطاقات iPhone", "مزامنة موسيقى تلقائية", "تشغيل OPUS على iPhone", "موسيقى من ذاكرة فلاش خارجية", "بث FLAC iOS", "تطبيق موسيقى عالي الدقة iPhone", "معادل Flacbox", "مشغل موسيقى بطاقة SD iOS"]
 tags: ["Flacbox", "معادل صوت", "مكتبة موسيقى", "OPUS", "FLAC", "تخزين خارجي", "مزامنة", "مشغل صوتي", "تطبيقات iOS", "تحديث"]
 draft: false
-aliases:
-  - /post/flacbox-for-ios-automatic-music-library-sync-equalizer-opus-external-flash/
-  - /single-post/Flacbox-for-iOS-Automatic-Music-Library-Sync-Equalizer-OPUS-External-Flash/
 cascade:
   type: docs
 authors:

@@ -4,8 +4,6 @@ draft: false
 title: 'Veiledninger'
 description: 'Trinnvise guider og tips som hjelper deg å sette opp, bruke og få mest mulig ut av Everappz-apper.'
 excludeSearch: true
-aliases:
-  - /post/how-to-/
 ---
 
 

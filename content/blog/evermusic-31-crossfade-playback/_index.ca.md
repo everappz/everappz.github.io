@@ -5,9 +5,6 @@ description: "Evermusic 3.1 afegeix reproducció amb crossfade, una biblioteca d
 keywords: ["actualització Evermusic", "reproducció crossfade iOS", "aplicació de música al núvol", "aplicació de còpia de seguretat de música", "cua del reproductor d'àudio", "editor d'etiquetes de música", "actualització d'etiquetes ID3", "integració biblioteca iPod", "reproductor de música iPhone", "crossfade música iOS", "sincronització biblioteca de música al núvol", "còpia de seguretat llistes de reproducció iOS"]
 tags: ["Evermusic", "crossfade", "biblioteca de música", "còpia de seguretat", "cua d'àudio", "etiquetes", "reproductor al núvol", "reproductor fora de línia", "editor", "biblioteca iPod"]
 draft: false
-aliases:
-  - /post/evermusic-31-crossfade-playback/
-  - /single-post/Evermusic-Sync-your-Music-Library-Save-playback-position-Correct-music-tags/
 cascade:
   type: docs
 authors:

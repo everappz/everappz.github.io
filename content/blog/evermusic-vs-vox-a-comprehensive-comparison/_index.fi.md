@@ -5,8 +5,6 @@ description: "Evermusic vs VOX vertailu 8 kategoriassa: pilvitallennus, ääniki
 keywords: ["Evermusic vs VOX", "VOX vaihtoehto iOS", "paras musiikkisoitin iPhone", "pilvimusiikin soittimen vertailu", "äänikirjasoitin iOS", "ID3-tunnisteen muokkain iPhone", "Wi-Fi Drive musiikkisovellus", "FLAC-soitin iPhone", "musiikkisoitin pilvitallennukseen", "VOX Cloud vaihtoehto"]
 tags: ["vertailu", "evermusic", "vox", "pilvi", "äänikirjat", "tunnisteet", "suoratoisto", "sovellukset", "musiikkisoitin", "ios"]
 draft: false
-aliases:
-  - /post/evermusic-vs-vox-a-comprehensive-comparison/
 sidebar:
   exclude: true
 cascade:

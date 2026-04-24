@@ -5,8 +5,6 @@ description: "Evermusic se povezuje s 12+ cloud usluga, reproducira FLAC i MP3 o
 keywords: ["najbolji cloud glazbeni player iOS", "cloud glazbeni player iPhone", "reprodukcija glazbe iz Dropboxa", "offline glazbeni player iPhone", "FLAC player iOS", "recenzija Evermusic", "upravitelj glazbene biblioteke iOS", "Google Drive glazbeni player", "NAS glazbeni player iPhone", "WebDAV glazbeni player"]
 tags: ["Evermusic", "cloud music", "offline playback", "iOS music apps", "MP3 player", "audio", "music streaming", "guide", "FLAC", "review"]
 draft: false
-aliases:
-  - /post/best-cloud-music-player-for-ios/
 cascade:
   type: docs
 authors:

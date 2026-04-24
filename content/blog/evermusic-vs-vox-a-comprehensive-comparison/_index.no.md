@@ -5,8 +5,6 @@ description: "Evermusic vs VOX sammenlignet i 8 kategorier: skylagring, lydbøke
 keywords: ["Evermusic vs VOX", "VOX alternativ iOS", "beste musikkspiller iPhone", "sammenligning av skymusikkspiller", "lydbok-spiller iOS", "ID3 tag-editor iPhone", "Wi-Fi drive musikkapp", "FLAC-spiller iPhone", "musikkspiller for skylagring", "VOX Cloud alternativ"]
 tags: ["sammenligning", "evermusic", "vox", "sky", "lydbøker", "tagger", "strømming", "apper", "musikkspiller", "ios"]
 draft: false
-aliases:
-  - /post/evermusic-vs-vox-a-comprehensive-comparison/
 sidebar:
   exclude: true
 cascade:

@@ -5,8 +5,6 @@ description: "Få Evermusic Pro gjennom Setapp Mobile. Strøm musikk fra Google 
 keywords: ["Setapp Mobile", "Evermusic Pro", "skymusikkspiller", "musikkstrømming iPhone", "frakoblet musikk iOS", "Setapp iOS-apper", "audiofil app iPhone", "equalizer iOS-app", "NAS musikk iPhone", "skylagring musikkspiller", "Setapp musikkapp", "strøm musikk fra Google Drive iPhone"]
 tags: ["evermusic", "setapp", "sky", "lyd", "mobil", "markedsplass", "musikk", "ios-apper"]
 draft: false
-aliases:
-  - /post/setapp-mobile-and-evermusic-pro/
 cascade:
   type: docs
 authors:

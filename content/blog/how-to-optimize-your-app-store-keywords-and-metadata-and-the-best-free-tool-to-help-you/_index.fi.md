@@ -4,8 +4,6 @@ date: 2025-04-30
 description: "Vaiheittainen opas App Storen avainsanojen, otsikoiden ja alaotsikkojen optimointiin. Sisältää ilmaisen selainpohjaisen ASO-työkalun Fastlane-integraatiolla."
 keywords: ["app store avainsanat opas", "ASO avainsanojen optimointi", "app store otsikon optimointi", "app store alaotsikon optimointi", "app store metatiedot", "kuinka parantaa app store sijoitusta", "app store optimointi", "ilmainen ASO-työkalu", "ilmaiset ASO-työkalut", "app store avainsanastrategia", "apple app store SEO", "fastlane metatietotyökalu", "ilmainen app store avainsanatutkimus"]
 tags: ["App Store -optimointi", "ilmaiset ASO-työkalut", "app store otsikon optimointi", "ilmainen ASO-työkalu", "app store avainsanastrategia", "metatietojen optimoija"]
-aliases:
-  - /post/how-to-optimize-your-app-store-keywords-and-metadata-and-the-best-free-tool-to-help-you/
 draft: false
 sidebar:
   exclude: true

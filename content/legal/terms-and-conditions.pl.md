@@ -2,11 +2,6 @@
 date: '2025-06-12T17:00:00+00:00'
 draft: false
 title: 'Regulamin'
-aliases:
-  - /terms-and-conditions/
-  - /terms-and-conditionsDec/
-  - /terms-and-condition/
-  - /terms-and-conditionsMay/
 ---
 
 EVERAPPZ S.L. jest właścicielem aplikacji takich jak Evermusic, Evermusic Pro, Flacbox i Evertag. Te odtwarzacze muzyki obsługują różne formaty plików, a Evertag umożliwia edycję tagów audio w plikach, wszystko zgodnie z niniejszym Regulaminem.

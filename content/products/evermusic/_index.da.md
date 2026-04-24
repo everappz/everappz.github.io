@@ -6,8 +6,6 @@ layout: hextra-home
 description: "Download den bedste gratis offline musikafspiller til din iPhone og Mac og lyt til din musik overalt."
 keywords: ["Evermusic", "offline musikafspiller", "iOS lydafspiller", "cloud musik app", "download musik iPhone", "Mac musikafspiller", "streaming musik offline", "FLAC afspiller iPhone", "multi-cloud musikafspiller", "Evermusic app funktioner"]
 tags: ["Evermusic", "offline afspilning", "cloud musik", "MP3 afspiller", "iPhone apps", "lyd streaming", "musikstyring", "Mac apps", "medieafspiller"]
-aliases:
-  - /evermusic/
 appStoreUrl: "https://apps.apple.com/app/apple-store/id885367198?pt=95781850&ct=everappzcom&mt=8"
 appStoreId: "885367198"
 features: "Offline musikafspilning, Cloud streaming (iCloud, Google Drive, Dropbox, OneDrive, MEGA, Box), Lydequalizer med forudindstillinger, Crossfade og pauseløs afspilning, M3U playliste import/eksport, Sangtekstvisning, Lydbogmærker, Apple CarPlay, AirPlay og Chromecast, SMB/WebDAV/DLNA support, USB-flashdrev afspilning, Last.fm scrobbling"

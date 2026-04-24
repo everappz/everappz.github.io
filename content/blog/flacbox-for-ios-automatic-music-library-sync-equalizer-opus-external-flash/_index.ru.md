@@ -5,9 +5,6 @@ description: "Flacbox 1.6 для iOS добавляет автоматическ
 keywords: ["обновление Flacbox", "плеер FLAC iOS", "10-полосный эквалайзер iPhone", "автоматическая синхронизация музыки", "воспроизведение OPUS на iPhone", "музыка с внешнего флеш-накопителя", "стриминг FLAC iOS", "hi-res музыкальное приложение iPhone", "эквалайзер Flacbox", "музыкальный плеер SD карта iOS"]
 tags: ["Flacbox", "эквалайзер", "музыкальная библиотека", "OPUS", "FLAC", "внешнее хранилище", "синхронизация", "аудиоплеер", "приложения iOS", "обновление"]
 draft: false
-aliases:
-  - /post/flacbox-for-ios-automatic-music-library-sync-equalizer-opus-external-flash/
-  - /single-post/Flacbox-for-iOS-Automatic-Music-Library-Sync-Equalizer-OPUS-External-Flash/
 cascade:
   type: docs
 authors:

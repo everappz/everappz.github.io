@@ -5,8 +5,6 @@ description: "iPhone के सर्वश्रेष्ठ म्यूज़
 keywords: ["सबसे अच्छा iPhone म्यूज़िक प्लेयर", "म्यूज़िक प्लेयर ऐप iOS", "Evermusic बनाम Spotify", "क्लाउड म्यूज़िक प्लेयर iPhone", "ऑफ़लाइन म्यूज़िक ऐप iPhone", "FLAC प्लेयर iOS", "Apple Music विकल्प", "VLC iPhone", "मुफ़्त म्यूज़िक प्लेयर iOS"]
 tags: ["म्यूज़िक ऐप्स", "iOS", "Evermusic", "Apple Music", "Spotify", "VLC", "Amazon Music", "तुलना", "क्लाउड म्यूज़िक", "ऑफ़लाइन प्लेबैक"]
 draft: false
-aliases:
-  - /post/discover-the-ultimate-iphone-music-player-apps-evermusic-and-beyond/
 cascade:
   type: docs
 authors:

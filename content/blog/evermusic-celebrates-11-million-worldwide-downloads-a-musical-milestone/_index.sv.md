@@ -5,8 +5,6 @@ description: "Evermusic når 11 miljoner nedladdningar. Se funktionerna som gjor
 keywords: ["Evermusic 11 miljoner nedladdningar", "bästa molnmusikspelaren iOS", "offline musikspelare iPhone", "iCloud Drive musikstreaming", "10-bands equalizer-app", "ID3-taggredigerare iOS", "musikspelare Mac iPhone synk", "FLAC-spelare iPhone"]
 tags: ["Evermusic", "milstolpe", "molnmusik", "offlineuppspelning", "iCloud Drive", "equalizer", "iOS musikspelare"]
 draft: false
-aliases:
-  - /post/evermusic-celebrates-11-million-worldwide-downloads-a-musical-milestone/
 cascade:
   type: docs
 authors:

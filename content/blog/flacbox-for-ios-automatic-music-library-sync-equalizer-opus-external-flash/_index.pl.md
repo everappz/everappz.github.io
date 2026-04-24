@@ -5,9 +5,6 @@ description: "Flacbox 1.6 dla iOS dodaje automatyczną synchronizację z chmurą
 keywords: ["aktualizacja Flacbox", "odtwarzacz FLAC iOS", "10-pasmowy equalizer iPhone", "automatyczna synchronizacja muzyki", "odtwarzanie OPUS na iPhone", "muzyka z zewnętrznego dysku flash", "strumieniowanie FLAC iOS", "aplikacja muzyki hi-res iPhone", "equalizer Flacbox", "odtwarzacz muzyki z karty SD iOS"]
 tags: ["Flacbox", "equalizer", "biblioteka muzyczna", "OPUS", "FLAC", "zewnętrzna pamięć", "synchronizacja", "odtwarzacz audio", "aplikacje iOS", "aktualizacja"]
 draft: false
-aliases:
-  - /post/flacbox-for-ios-automatic-music-library-sync-equalizer-opus-external-flash/
-  - /single-post/Flacbox-for-iOS-Automatic-Music-Library-Sync-Equalizer-OPUS-External-Flash/
 cascade:
   type: docs
 authors:

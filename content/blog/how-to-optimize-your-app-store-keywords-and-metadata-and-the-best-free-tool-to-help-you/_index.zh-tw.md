@@ -4,8 +4,6 @@ date: 2025-04-30
 description: "逐步指南最佳化 App Store 關鍵字、標題和副標題。包含免費的瀏覽器端 ASO 工具，支援 Fastlane 整合。"
 keywords: ["app store 關鍵字指南", "ASO 關鍵字最佳化", "app store 標題最佳化", "app store 副標題最佳化", "app store 中繼資料", "如何提高 app store 排名", "app store 最佳化", "免費 ASO 工具", "app store 關鍵字策略", "apple app store SEO", "fastlane 中繼資料工具", "免費 app store 關鍵字研究"]
 tags: ["App Store 最佳化", "免費 ASO 工具", "app store 標題最佳化", "免費 ASO 工具", "app store 關鍵字策略", "中繼資料最佳化器"]
-aliases:
-  - /post/how-to-optimize-your-app-store-keywords-and-metadata-and-the-best-free-tool-to-help-you/
 draft: false
 sidebar:
   exclude: true

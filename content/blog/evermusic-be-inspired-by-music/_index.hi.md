@@ -5,8 +5,6 @@ description: "iPhone और Mac पर क्लाउड म्यूजिक 
 keywords: ["Evermusic प्रोमो वीडियो", "म्यूजिक प्लेयर iOS", "क्लाउड म्यूजिक ऐप iPhone", "Evermusic ऐप डेमो", "बेस्ट म्यूजिक प्लेयर iPhone", "ऑफलाइन म्यूजिक प्लेयर iOS"]
 tags: ["Evermusic", "प्रोमो", "म्यूजिक", "वीडियो", "क्लाउड म्यूजिक", "iOS ऐप"]
 draft: false
-aliases:
-  - /post/evermusic-be-inspired-by-music/
 sidebar:
   exclude: true
 cascade:

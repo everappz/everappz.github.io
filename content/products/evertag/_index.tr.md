@@ -6,9 +6,6 @@ layout: hextra-home
 description: "Müzik kütüphanenizi düzenli tutun. Eksik etiketleri bulun. Toplu düzenleme. Albüm kapaklarını değiştirin ve çok daha fazlası."
 keywords: ["Evertag", "ses etiket düzenleyici", "ID3 etiket yöneticisi", "müzik meta verilerini düzenle", "FLAC etiket düzenleyici", "müzik düzenleyici uygulaması", "MP3 meta veri düzenleyici", "iOS müzik etiket düzenleyici", "Mac ses etiket uygulaması", "müzik dosyalarını yeniden adlandır"]
 tags: ["Evertag", "ID3 etiketleri", "müzik meta verileri", "ses etiket düzenleyici", "MP3 düzenleyici", "FLAC etiketleme", "iPhone araçları", "Mac müzik araçları", "müzik kütüphanesi yönetimi"]
-aliases:
-  - /evertag/
-  - /mp3tag/
 appStoreUrl: "https://apps.apple.com/app/apple-store/id1450763230?pt=95781850&ct=everappzcom&mt=8"
 appStoreId: "1450763230"
 features: "120'den fazla ses etiketi düzenleme, Toplu etiket düzenleme, Albüm kapağı bulucu, 30'dan fazla ses formatı desteği, MusicBrainz ile otomatik etiket bulucu, Kodlama sorunlarını düzeltme, Bulut ve USB erişimi, Wi-Fi müzik aktarımı, Dahili dosya yöneticisi, Şarkı sözü düzenleyici"

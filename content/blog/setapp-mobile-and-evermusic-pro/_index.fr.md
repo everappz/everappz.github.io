@@ -5,8 +5,6 @@ description: "Obtenez Evermusic Pro via Setapp Mobile. Diffusez de la musique de
 keywords: ["Setapp Mobile", "Evermusic Pro", "lecteur musique cloud", "streaming musique iPhone", "musique hors ligne iOS", "applications iOS Setapp", "application audiophile iPhone", "égaliseur iOS", "NAS musique iPhone", "lecteur musique stockage cloud", "application musique Setapp", "streaming musique Google Drive iPhone"]
 tags: ["evermusic", "setapp", "cloud", "audio", "mobile", "marketplace", "musique", "applications ios"]
 draft: false
-aliases:
-  - /post/setapp-mobile-and-evermusic-pro/
 cascade:
   type: docs
 authors:

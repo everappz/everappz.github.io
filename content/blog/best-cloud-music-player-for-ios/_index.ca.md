@@ -5,8 +5,6 @@ description: "Evermusic es connecta a més de 12 serveis al núvol, reprodueix F
 keywords: ["millor reproductor música núvol iOS", "reproductor música núvol iPhone", "reproduir música des de Dropbox", "reproductor música sense connexió iPhone", "reproductor FLAC iOS", "ressenya Evermusic", "gestor biblioteca música iOS", "reproductor música Google Drive", "reproductor música NAS iPhone", "reproductor música WebDAV"]
 tags: ["Evermusic", "cloud music", "offline playback", "iOS music apps", "MP3 player", "audio", "music streaming", "guide", "FLAC", "review"]
 draft: false
-aliases:
-  - /post/best-cloud-music-player-for-ios/
 cascade:
   type: docs
 authors:

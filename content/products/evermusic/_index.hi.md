@@ -6,8 +6,6 @@ layout: hextra-home
 description: "अपने iPhone और Mac के लिए सबसे अच्छा मुफ्त ऑफलाइन म्यूजिक प्लेयर डाउनलोड करें और अपना संगीत कहीं भी सुनें।"
 keywords: ["Evermusic", "ऑफलाइन म्यूजिक प्लेयर", "iOS ऑडियो प्लेयर", "क्लाउड म्यूजिक ऐप", "म्यूजिक डाउनलोड iPhone", "Mac म्यूजिक प्लेयर", "ऑफलाइन म्यूजिक स्ट्रीमिंग", "FLAC प्लेयर iPhone", "मल्टी-क्लाउड म्यूजिक प्लेयर", "Evermusic ऐप फीचर्स"]
 tags: ["Evermusic", "ऑफलाइन प्लेबैक", "क्लाउड म्यूजिक", "MP3 प्लेयर", "iPhone ऐप्स", "ऑडियो स्ट्रीमिंग", "म्यूजिक मैनेजमेंट", "Mac ऐप्स", "मीडिया प्लेयर"]
-aliases:
-  - /evermusic/
 appStoreUrl: "https://apps.apple.com/app/apple-store/id885367198?pt=95781850&ct=everappzcom&mt=8"
 appStoreId: "885367198"
 features: "ऑफलाइन म्यूजिक प्लेबैक, क्लाउड स्ट्रीमिंग (iCloud, Google Drive, Dropbox, OneDrive, MEGA, Box), प्रीसेट के साथ ऑडियो इक्वलाइज़र, क्रॉसफेड और गैपलेस प्लेबैक, M3U प्लेलिस्ट आयात/निर्यात, गीत दर्शक, ऑडियो बुकमार्क, Apple CarPlay, AirPlay और Chromecast, SMB/WebDAV/DLNA सपोर्ट, USB फ्लैश ड्राइव प्लेबैक, Last.fm स्क्रॉबलिंग"

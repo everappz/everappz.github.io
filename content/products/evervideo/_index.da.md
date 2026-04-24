@@ -6,8 +6,6 @@ layout: hextra-home
 description: "Download den bedste gratis videoafspiller til din iPhone og Mac. Se 360°-videoer, aktiver undertekster, juster video-equalizer, organiser dine videoer med afspilningslister, download til offline og stream fra iCloud."
 keywords: ["videoafspiller iPhone", "videoafspiller Mac", "360 videoafspiller", "offline videoafspiller iOS", "stream videoer fra iCloud", "undertekststøtte iOS", "video-equalizer iPhone", "AirPlay videoapp", "Chromecast videoafspiller", "DLNA videostreaming", "SMB WebDAV videoafspiller", "USB videoafspiller iPhone", "organiser videoafspilningslister", "Mac videoafspiller med undertekster", "iTunes fildeling videoapp", "gratis videoapp iOS", "mediehåndtering til videoer", "multiformatvideoafspiller"]
 tags: ["videoafspiller", "offlineafspilning", "undertekststøtte", "iCloud-streaming", "AirPlay", "Chromecast", "DLNA", "SMB", "WebDAV", "USB videoadgang", "iPhone-apps", "Mac-apps", "medieorganisator", "360 video", "videoafspilningslister", "fildeling", "gratis videoafspiller", "multiformatstøtte"]
-aliases:
-  - /evervideo/
 appStoreUrl: "https://apps.apple.com/us/app/evervideo-hd-video-player/id6602897336?ct=everappzcom&mt=8"
 appStoreId: "6602897336"
 features: "HD-videoafspilning i alle formater (MKV, AVI, MP4, MOV, FLV, WMV, WEBM), 360-graders og VR-videostøtte, Billede-i-billede-tilstand, Video- og lyd-equalizer med 50+ forudindstillinger, Undertekststøtte, Cloud-streaming (iCloud, Google Drive, Dropbox, OneDrive, MEGA), Offline download, Mediebibliotek med afspilningslister, AirPlay og Chromecast, SMB/WebDAV/DLNA-støtte, USB-flashdrev-afspilning"

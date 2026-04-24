@@ -5,8 +5,6 @@ description: "Main FLAC, DSD, ALAC dan 120+ format audio di iPhone dan Mac denga
 keywords: ["pemain muzik lossless", "pemain FLAC iOS", "pemain DSD iPhone", "audio hi-res Mac", "aplikasi Flacbox", "pemain FLAC terbaik iPhone", "pemain FLAC luar talian", "pemain muzik audiofil iOS", "pemain FLAC Mac", "penstriman hi-res iOS", "main FLAC di iPhone", "pemain DSD128", "aplikasi audio lossless"]
 tags: ["flacbox", "muzik", "audio", "lossless", "iphone", "mac", "flac", "dsd", "audiofil"]
 draft: false
-aliases:
-  - /post/unleash-audiophile-bliss-playing-lossless-music-on-iphone-or-mac-with-flacbox/
 cascade:
   type: docs
 authors:

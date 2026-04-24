@@ -5,8 +5,6 @@ description: "Obțineți Evermusic Pro prin Setapp Mobile. Transmiteți muzică 
 keywords: ["Setapp Mobile", "Evermusic Pro", "player muzică cloud", "streaming muzică iPhone", "muzică offline iOS", "aplicații Setapp iOS", "aplicație audiofil iPhone", "aplicație egalizator iOS", "muzică NAS iPhone", "player muzică stocare cloud", "aplicație muzică Setapp", "streaming muzică de pe Google Drive iPhone"]
 tags: ["evermusic", "setapp", "cloud", "audio", "mobil", "marketplace", "muzică", "aplicații ios"]
 draft: false
-aliases:
-  - /post/setapp-mobile-and-evermusic-pro/
 cascade:
   type: docs
 authors:

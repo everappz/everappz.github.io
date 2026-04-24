@@ -5,8 +5,6 @@ description: "Evermusic vs VOX dibandingkan merentas 8 kategori: storan awan, bu
 keywords: ["Evermusic vs VOX", "alternatif VOX iOS", "pemain muzik terbaik iPhone", "perbandingan pemain muzik awan", "pemain buku audio iOS", "penyunting tag ID3 iPhone", "aplikasi muzik Wi-Fi drive", "pemain FLAC iPhone", "pemain muzik untuk storan awan", "alternatif VOX Cloud"]
 tags: ["perbandingan", "evermusic", "vox", "awan", "buku audio", "tag", "penstriman", "aplikasi", "pemain muzik", "ios"]
 draft: false
-aliases:
-  - /post/evermusic-vs-vox-a-comprehensive-comparison/
 sidebar:
   exclude: true
 cascade:

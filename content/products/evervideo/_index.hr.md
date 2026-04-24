@@ -6,8 +6,6 @@ layout: hextra-home
 description: "Preuzmite najbolji besplatni video player za svoj iPhone i Mac. Gledajte 360° videozapise, aktivirajte titlove, prilagodite video ekvalizator, organizirajte svoje videozapise s popisima za reprodukciju, preuzmite za offline gledanje i streamajte s iClouda."
 keywords: ["video player iPhone", "video player Mac", "360 video player", "offline video player iOS", "streaming videa s iClouda", "podrška za titlove iOS", "video ekvalizator iPhone", "AirPlay video aplikacija", "Chromecast video player", "DLNA video streaming", "SMB WebDAV video player", "USB video player iPhone", "organizacija video popisa", "Mac video player s titlovima", "iTunes File Sharing video aplikacija", "besplatna video aplikacija iOS", "media manager za video", "multi-format video player"]
 tags: ["video player", "offline reprodukcija", "podrška za titlove", "iCloud streaming", "AirPlay", "Chromecast", "DLNA", "SMB", "WebDAV", "USB pristup videu", "iPhone aplikacije", "Mac aplikacije", "media organizator", "360 video", "video popisi", "dijeljenje datoteka", "besplatni video player", "podrška za više formata"]
-aliases:
-  - /evervideo/
 appStoreUrl: "https://apps.apple.com/us/app/evervideo-hd-video-player/id6602897336?ct=everappzcom&mt=8"
 appStoreId: "6602897336"
 features: "HD video reprodukcija u svim formatima (MKV, AVI, MP4, MOV, FLV, WMV, WEBM), podrška za 360-stupnjeve i VR video, Picture-in-Picture način rada, Video i audio ekvalizator s 50+ preseta, Podrška za titlove, Cloud streaming (iCloud, Google Drive, Dropbox, OneDrive, MEGA), Offline preuzimanje, Medijska knjižnica s popisima za reprodukciju, AirPlay i Chromecast, SMB/WebDAV/DLNA podrška, USB flash drive reprodukcija"

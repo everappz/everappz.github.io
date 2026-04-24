@@ -5,9 +5,6 @@ description: "Sammenlign 7 topkvalitets cloud musikafspillere til iPhone: Apple 
 keywords: ["cloud musikafspiller iPhone", "bedste musikapps til iPhone", "Evermusic vs Spotify", "offline musikapp iOS", "Apple Music alternativ", "afspil FLAC på iPhone", "cloud musikstreaming", "lydafspiller iPhone", "musikafspiller til Dropbox", "afspil egne musikfiler iPhone"]
 tags: ["music", "streaming", "apps", "iOS", "cloud music", "Evermusic", "Spotify", "Apple Music", "YouTube Music", "SoundCloud", "comparison"]
 draft: false
-aliases:
-  - /post/comparing-the-best-cloud-music-players-for-iphone-in-2023/
-  - /blog/comparing-the-best-cloud-music-players-for-iphone-in-2023/
 cascade:
   type: docs
 authors:

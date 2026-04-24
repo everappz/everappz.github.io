@@ -4,8 +4,6 @@ draft: false
 title: 'Cara Penggunaan'
 description: 'Panduan langkah demi langkah dan tips untuk membantu anda menyediakan, menggunakan, dan memanfaatkan sepenuhnya aplikasi Everappz.'
 excludeSearch: true
-aliases:
-  - /post/how-to-/
 ---
 
 

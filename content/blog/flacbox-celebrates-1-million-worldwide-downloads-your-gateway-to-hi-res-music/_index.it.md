@@ -5,8 +5,6 @@ description: "Flacbox raggiunge 1 milione di download globali. Scopri le funzion
 keywords: ["lettore musicale Flacbox", "audio hi-res iOS", "app musica lossless", "lettore DSD FLAC APE", "musica FLAC offline", "traguardo download Flacbox", "audio alta qualità iPhone", "app audio Everappz", "lettore playlist CUE", "1 milione di download", "miglior lettore FLAC iOS", "lettore musica hi-res Mac"]
 tags: ["Flacbox", "lossless", "audio hi-res", "lettore musicale", "audio", "traguardo", "app iOS", "Novità"]
 draft: false
-aliases:
-  - /post/flacbox-celebrates-1-million-worldwide-downloads-your-gateway-to-hi-res-music/
 cascade:
   type: docs
 authors:

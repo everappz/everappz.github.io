@@ -5,9 +5,6 @@ description: "कस्टम URL स्कीम और डिस्क कै�
 keywords: ["iOS ऑडियो स्ट्रीमिंग", "AVAssetResourceLoaderDelegate", "AVURLAsset", "AVPlayer ट्यूटोरियल", "AVFoundation ऑडियो", "AVAssetResourceLoadingRequest", "कस्टम ऑडियो प्लेयर iOS", "क्लाउड ऑडियो स्ट्रीमिंग iOS", "ऑडियो कैशिंग iOS", "Swift AVPlayer कस्टम स्कीम"]
 tags: ["streaming", "AVPlayer", "AVFoundation", "iOS", "AVAssetResourceLoader", "tutorial", "Objective-C", "audio caching"]
 draft: false
-aliases:
-  - /post/audio-streaming-and-caching-in-ios-using-avassetresourceloader-and-avplayer/
-  - /single-post/Audio-Streaming-and-Caching-in-iOS-using-AVAssetResourceLoader-and-AVPlayer/
 cascade:
   type: docs
 authors:

@@ -2,8 +2,6 @@
 date: '2025-06-12T17:00:00+00:00'
 draft: false
 title: 'Çerez Politikası'
-aliases:
-  - /cookie-policy/
 ---
 
 ## Bu web sitesi çerezler kullanmaktadır

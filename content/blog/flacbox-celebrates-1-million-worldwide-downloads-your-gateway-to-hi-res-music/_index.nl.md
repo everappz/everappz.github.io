@@ -5,8 +5,6 @@ description: "Flacbox bereikt 1 miljoen wereldwijde downloads. Ontdek de functie
 keywords: ["Flacbox muziekspeler", "hi-res audio iOS", "lossless muziekapp", "DSD FLAC APE speler", "offline FLAC muziek", "Flacbox downloadmijlpaal", "hoge kwaliteit audio iPhone", "Everappz audio-apps", "CUE afspeellijstspeler", "1 miljoen downloads", "beste FLAC-speler iOS", "hi-res muziekspeler Mac"]
 tags: ["Flacbox", "lossless", "hi-res audio", "muziekspeler", "audio", "mijlpaal", "iOS-apps", "Wat is nieuw"]
 draft: false
-aliases:
-  - /post/flacbox-celebrates-1-million-worldwide-downloads-your-gateway-to-hi-res-music/
 cascade:
   type: docs
 authors:

@@ -5,8 +5,6 @@ description: "Evermusic se připojuje k více než 12 cloudovým službám, pře
 keywords: ["nejlepší cloudový hudební přehrávač iOS", "cloudový hudební přehrávač iPhone", "přehrávání hudby z Dropboxu", "offline hudební přehrávač iPhone", "přehrávač FLAC iOS", "recenze Evermusic", "správce hudební knihovny iOS", "hudební přehrávač Google Drive", "hudební přehrávač NAS iPhone", "hudební přehrávač WebDAV"]
 tags: ["Evermusic", "cloud music", "offline playback", "iOS music apps", "MP3 player", "audio", "music streaming", "guide", "FLAC", "review"]
 draft: false
-aliases:
-  - /post/best-cloud-music-player-for-ios/
 cascade:
   type: docs
 authors:

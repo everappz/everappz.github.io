@@ -5,8 +5,6 @@ description: "Tonton video promosi rasmi Evermusic. Lihat bagaimana Evermusic me
 keywords: ["Video promosi Evermusic", "pemain muzik awan iPhone", "video aplikasi muzik", "demo aplikasi Evermusic", "muzik awan iOS", "ciri Evermusic", "pemain muzik iPad", "strim muzik dari awan"]
 tags: ["evermusic", "promosi", "video", "ios", "muzik", "awan", "pemain", "aplikasi mudah alih"]
 draft: false
-aliases:
-  - /post/evermusic-promo-video/
 cascade:
   type: docs
 authors:

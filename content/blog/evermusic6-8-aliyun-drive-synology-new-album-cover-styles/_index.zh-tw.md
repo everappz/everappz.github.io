@@ -5,8 +5,6 @@ description: "Evermusic 6.8 新增 Aliyun Drive 和 Synology NAS 支援、新的
 keywords: ["Evermusic 更新", "Aliyun Drive 音樂播放器", "Synology NAS 音樂", "雲端音樂播放器 iOS", "音訊播放器 iOS", "專輯封面樣式", "拖放檔案瀏覽器", "Evermusic 6.8", "FLAC 播放器 iOS", "QuickConnect 音樂播放器", "NAS 音樂串流 iPhone"]
 tags: ["Evermusic", "Aliyun Drive", "Synology", "專輯封面", "雲端音樂", "iOS 音樂應用程式", "新功能"]
 draft: false
-aliases:
-  - /post/evermusic6-8-aliyun-drive-synology-new-album-cover-styles/
 cascade:
   type: docs
 authors:

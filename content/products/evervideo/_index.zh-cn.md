@@ -6,8 +6,6 @@ layout: hextra-home
 description: "下载适用于 iPhone 和 Mac 的最佳免费视频播放器。观看 360° 视频，启用字幕，调整视频均衡器，使用播放列表整理视频，下载离线观看，以及从 iCloud 串流播放。"
 keywords: ["iPhone 视频播放器", "Mac 视频播放器", "360 视频播放器", "iOS 离线视频播放器", "从 iCloud 串流视频", "iOS 字幕支持", "iPhone 视频均衡器", "AirPlay 视频应用", "Chromecast 视频播放器", "DLNA 视频串流", "SMB WebDAV 视频播放器", "USB 视频播放器 iPhone", "整理视频播放列表", "带字幕的 Mac 视频播放器", "iTunes 文件共享视频应用", "免费视频应用 iOS", "视频媒体管理器", "多格式视频播放器"]
 tags: ["视频播放器", "离线播放", "字幕支持", "iCloud 串流", "AirPlay", "Chromecast", "DLNA", "SMB", "WebDAV", "USB 视频访问", "iPhone 应用", "Mac 应用", "媒体管理器", "360 视频", "视频播放列表", "文件共享", "免费视频播放器", "多格式支持"]
-aliases:
-  - /evervideo/
 appStoreUrl: "https://apps.apple.com/us/app/evervideo-hd-video-player/id6602897336?ct=everappzcom&mt=8"
 appStoreId: "6602897336"
 features: "所有格式的高清视频播放（MKV、AVI、MP4、MOV、FLV、WMV、WEBM），360 度和 VR 视频支持，画中画模式，50+ 预设的视频和音频均衡器，字幕支持，云端串流（iCloud、Google Drive、Dropbox、OneDrive、MEGA），离线下载，带播放列表的媒体库，AirPlay 和 Chromecast，SMB/WebDAV/DLNA 支持，USB 闪存驱动器播放"

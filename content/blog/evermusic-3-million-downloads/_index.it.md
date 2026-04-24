@@ -5,9 +5,6 @@ description: "Evermusic ha raggiunto 3 milioni di download. Scopri lo streaming 
 keywords: ["download Evermusic", "lettore musicale iOS", "app musica cloud", "lettore musica offline iPhone", "scaricatore musica iOS", "lettore audiolibri iPhone", "editor tag ID3 iOS", "gestore file iPhone", "app equalizzatore musicale", "miglior lettore musica cloud", "streaming musica da NAS iPhone"]
 tags: ["Evermusic", "download", "traguardo", "app musicali", "lettore cloud", "lettore offline", "editor tag", "equalizzatore", "audiolibri", "gestore file"]
 draft: false
-aliases:
-  - /post/evermusic-3-million-downloads/
-  - /single-post/Evermusic-3-million-downloads/
 cascade:
   type: docs
 authors:

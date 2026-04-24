@@ -5,8 +5,6 @@ description: "Evermusic vs VOX 在8个类别中进行比较：云存储、有声
 keywords: ["Evermusic vs VOX", "VOX替代品iOS", "最佳音乐播放器iPhone", "云音乐播放器比较", "有声书播放器iOS", "ID3标签编辑器iPhone", "Wi-Fi音乐应用", "FLAC播放器iPhone", "云存储音乐播放器", "VOX Cloud替代品"]
 tags: ["比较", "evermusic", "vox", "云", "有声书", "标签", "流媒体", "应用", "音乐播放器", "ios"]
 draft: false
-aliases:
-  - /post/evermusic-vs-vox-a-comprehensive-comparison/
 sidebar:
   exclude: true
 cascade:

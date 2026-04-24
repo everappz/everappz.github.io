@@ -2,8 +2,6 @@
 date: '2025-06-12T17:00:00+00:00'
 draft: false
 title: '法律声明'
-aliases:
-  - /legal-notice/
 ---
 
 ## 网站所有者的身份信息

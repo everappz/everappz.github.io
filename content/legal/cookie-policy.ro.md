@@ -2,8 +2,6 @@
 date: '2025-06-12T17:00:00+00:00'
 draft: false
 title: 'Politica privind cookie-urile'
-aliases:
-  - /cookie-policy/
 ---
 
 ## Acest site web utilizează cookie-uri

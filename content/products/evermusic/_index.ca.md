@@ -6,8 +6,6 @@ layout: hextra-home
 description: "Descarrega el millor reproductor de música gratuït sense connexió per al teu iPhone i Mac i escolta la teva música a tot arreu."
 keywords: ["Evermusic", "reproductor de música sense connexió", "reproductor d'àudio iOS", "aplicació de música al núvol", "descarregar música iPhone", "reproductor de música Mac", "streaming de música sense connexió", "reproductor FLAC iPhone", "reproductor de música multi-núvol", "funcions de l'aplicació Evermusic"]
 tags: ["Evermusic", "reproducció sense connexió", "música al núvol", "reproductor MP3", "aplicacions iPhone", "streaming d'àudio", "gestió de música", "aplicacions Mac", "reproductor multimèdia"]
-aliases:
-  - /evermusic/
 appStoreUrl: "https://apps.apple.com/app/apple-store/id885367198?pt=95781850&ct=everappzcom&mt=8"
 appStoreId: "885367198"
 features: "Reproducció de música sense connexió, Streaming al núvol (iCloud, Google Drive, Dropbox, OneDrive, MEGA, Box), Equalitzador d'àudio amb presets, Crossfade i reproducció sense pauses, Importació/exportació de llistes de reproducció M3U, Visor de lletres, Marcadors d'àudio, Apple CarPlay, AirPlay i Chromecast, Suport SMB/WebDAV/DLNA, Reproducció des d'USB, Scrobbling Last.fm"

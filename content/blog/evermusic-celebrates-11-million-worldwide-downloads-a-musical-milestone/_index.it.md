@@ -5,8 +5,6 @@ description: "Evermusic raggiunge 11 milioni di download. Scopri le funzionalit√
 keywords: ["Evermusic 11 milioni download", "miglior lettore musica cloud iOS", "lettore musica offline iPhone", "streaming musica iCloud Drive", "app equalizzatore 10 bande", "editor tag ID3 iOS", "lettore musica sincronizzazione Mac iPhone", "lettore FLAC iPhone"]
 tags: ["Evermusic", "traguardo", "musica cloud", "riproduzione offline", "iCloud Drive", "equalizzatore", "lettore musicale iOS"]
 draft: false
-aliases:
-  - /post/evermusic-celebrates-11-million-worldwide-downloads-a-musical-milestone/
 cascade:
   type: docs
 authors:

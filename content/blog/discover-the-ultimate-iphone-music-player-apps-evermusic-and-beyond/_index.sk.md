@@ -5,8 +5,6 @@ description: "Porovnajte najlepšie aplikácie na prehrávanie hudby pre iPhone:
 keywords: ["najlepší prehrávač hudby pre iPhone", "aplikácia na prehrávanie hudby iOS", "Evermusic vs Spotify", "cloudový prehrávač hudby iPhone", "offline hudobná aplikácia iPhone", "FLAC prehrávač iOS", "alternatívy k Apple Music", "VLC iPhone", "bezplatný prehrávač hudby iOS"]
 tags: ["hudobné aplikácie", "iOS", "Evermusic", "Apple Music", "Spotify", "VLC", "Amazon Music", "porovnanie", "cloudová hudba", "offline prehrávanie"]
 draft: false
-aliases:
-  - /post/discover-the-ultimate-iphone-music-player-apps-evermusic-and-beyond/
 cascade:
   type: docs
 authors:

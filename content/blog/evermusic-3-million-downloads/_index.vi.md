@@ -5,9 +5,6 @@ description: "Evermusic đạt 3 triệu lượt tải. Khám phá phát nhạc 
 keywords: ["Evermusic lượt tải", "trình phát nhạc iOS", "ứng dụng nhạc đám mây", "trình phát nhạc offline iPhone", "tải nhạc iOS", "trình phát sách nói iPhone", "trình chỉnh sửa thẻ ID3 iOS", "trình quản lý tệp iPhone", "ứng dụng bộ cân bằng nhạc", "trình phát nhạc đám mây tốt nhất", "phát nhạc từ NAS iPhone"]
 tags: ["Evermusic", "lượt tải", "cột mốc", "ứng dụng nhạc", "trình phát đám mây", "trình phát offline", "trình chỉnh sửa thẻ", "bộ cân bằng", "sách nói", "trình quản lý tệp"]
 draft: false
-aliases:
-  - /post/evermusic-3-million-downloads/
-  - /single-post/Evermusic-3-million-downloads/
 cascade:
   type: docs
 authors:

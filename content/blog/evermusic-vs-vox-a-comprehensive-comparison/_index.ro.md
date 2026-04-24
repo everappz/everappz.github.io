@@ -5,8 +5,6 @@ description: "Evermusic vs VOX comparate în 8 categorii: stocare cloud, cărți
 keywords: ["Evermusic vs VOX", "alternativă VOX iOS", "cel mai bun player muzică iPhone", "comparație player muzică cloud", "player cărți audio iOS", "editor etichete ID3 iPhone", "aplicație muzică Wi-Fi drive", "player FLAC iPhone", "player muzică pentru stocare cloud", "alternativă VOX Cloud"]
 tags: ["comparație", "evermusic", "vox", "cloud", "cărți audio", "etichete", "streaming", "aplicații", "player muzică", "ios"]
 draft: false
-aliases:
-  - /post/evermusic-vs-vox-a-comprehensive-comparison/
 sidebar:
   exclude: true
 cascade:

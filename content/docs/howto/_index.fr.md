@@ -4,8 +4,6 @@ draft: false
 title: 'Comment faire'
 description: 'Guides étape par étape et conseils pour vous aider à configurer, utiliser et tirer le meilleur parti des applications Everappz.'
 excludeSearch: true
-aliases:
-  - /post/how-to-/
 ---
 
 

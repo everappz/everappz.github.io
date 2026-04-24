@@ -5,9 +5,6 @@ description: "Az Evermusic elérte a 3 millió letöltést. Fedezd fel a felhőz
 keywords: ["Evermusic letöltések", "iOS zenelejátszó", "felhőzenei alkalmazás", "offline zenelejátszó iPhone", "zeneletöltő iOS", "hangoskönyv-lejátszó iPhone", "ID3 címkeszerkesztő iOS", "iPhone fájlkezelő", "zenei hangszínszabályzó alkalmazás", "legjobb felhő zenelejátszó", "zene streamelése NAS-ról iPhone"]
 tags: ["Evermusic", "letöltések", "mérföldkő", "zenei alkalmazások", "felhőlejátszó", "offline lejátszó", "címkeszerkesztő", "hangszínszabályzó", "hangoskönyvek", "fájlkezelő"]
 draft: false
-aliases:
-  - /post/evermusic-3-million-downloads/
-  - /single-post/Evermusic-3-million-downloads/
 cascade:
   type: docs
 authors:

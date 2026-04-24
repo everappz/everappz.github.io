@@ -2,8 +2,6 @@
 date: '2025-06-12T17:00:00+00:00'
 draft: false
 title: 'Политика использования файлов cookie'
-aliases:
-  - /cookie-policy/
 ---
 
 ## Этот веб-сайт использует файлы cookie

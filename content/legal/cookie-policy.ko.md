@@ -2,8 +2,6 @@
 date: '2025-06-12T17:00:00+00:00'
 draft: false
 title: '쿠키 정책'
-aliases:
-  - /cookie-policy/
 ---
 
 ## 이 웹사이트는 쿠키를 사용합니다

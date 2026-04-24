@@ -5,8 +5,6 @@ description: "Dapatkan Evermusic Pro melalui Setapp Mobile. Strim muzik dari Goo
 keywords: ["Setapp Mobile", "Evermusic Pro", "pemain muzik awan", "penstriman muzik iPhone", "muzik luar talian iOS", "aplikasi Setapp iOS", "aplikasi audiofil iPhone", "aplikasi penyama iOS", "muzik NAS iPhone", "pemain muzik storan awan", "aplikasi muzik Setapp", "strim muzik dari Google Drive iPhone"]
 tags: ["evermusic", "setapp", "awan", "audio", "mudah alih", "pasaran", "muzik", "aplikasi ios"]
 draft: false
-aliases:
-  - /post/setapp-mobile-and-evermusic-pro/
 cascade:
   type: docs
 authors:

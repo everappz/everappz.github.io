@@ -5,8 +5,6 @@ description: "Συγκρίνετε τις καλύτερες εφαρμογές 
 keywords: ["καλύτερο πρόγραμμα αναπαραγωγής μουσικής iPhone", "εφαρμογή αναπαραγωγής μουσικής iOS", "Evermusic vs Spotify", "cloud αναπαραγωγή μουσικής iPhone", "εφαρμογή μουσικής εκτός σύνδεσης iPhone", "αναπαραγωγέας FLAC iOS", "εναλλακτικές Apple Music", "VLC iPhone", "δωρεάν αναπαραγωγέας μουσικής iOS"]
 tags: ["εφαρμογές μουσικής", "iOS", "Evermusic", "Apple Music", "Spotify", "VLC", "Amazon Music", "σύγκριση", "μουσική στο cloud", "αναπαραγωγή εκτός σύνδεσης"]
 draft: false
-aliases:
-  - /post/discover-the-ultimate-iphone-music-player-apps-evermusic-and-beyond/
 cascade:
   type: docs
 authors:

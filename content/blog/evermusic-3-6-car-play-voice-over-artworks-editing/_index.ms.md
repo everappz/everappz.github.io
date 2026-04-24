@@ -5,8 +5,6 @@ description: "Evermusic 3.6 menambah sokongan CarPlay, kebolehcapaian VoiceOver,
 keywords: ["Evermusic CarPlay", "pemain muzik CarPlay iPhone", "VoiceOver aplikasi muzik iOS", "editor tag FLAC iPhone", "edit karya seni album iOS", "import muzik iCloud Drive", "pemain audio kebolehcapaian iOS", "output audio campuran iPhone"]
 tags: ["Evermusic", "CarPlay", "VoiceOver", "kebolehcapaian", "iCloud Drive", "editor tag", "penyuntingan karya seni", "kemas kini iOS"]
 draft: false
-aliases:
-  - /post/evermusic-3-6-car-play-voice-over-artworks-editing/
 cascade:
   type: docs
 authors:

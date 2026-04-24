@@ -2,11 +2,6 @@
 date: '2025-06-12T17:00:00+00:00'
 draft: false
 title: '利用規約'
-aliases:
-  - /terms-and-conditions/
-  - /terms-and-conditionsDec/
-  - /terms-and-condition/
-  - /terms-and-conditionsMay/
 ---
 
 EVERAPPZ S.L.は、Evermusic、Evermusic Pro、Flacbox、Evertagアプリなどのアプリの所有者です。これらの音楽プレーヤーはさまざまなファイル形式をサポートしており、Evertagではファイルのオーディオタグを編集できます。すべて本利用規約に従います。

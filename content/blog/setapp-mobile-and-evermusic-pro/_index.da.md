@@ -5,8 +5,6 @@ description: "Få Evermusic Pro gennem Setapp Mobile. Stream musik fra Google Dr
 keywords: ["Setapp Mobile", "Evermusic Pro", "cloud musikafspiller", "musikstreaming iPhone", "offline musik iOS", "Setapp iOS apps", "audiofil app iPhone", "equalizer iOS app", "NAS musik iPhone", "cloud storage musikafspiller", "Setapp musik app", "stream musik fra Google Drive iPhone"]
 tags: ["evermusic", "setapp", "cloud", "lyd", "mobil", "marketplace", "musik", "ios apps"]
 draft: false
-aliases:
-  - /post/setapp-mobile-and-evermusic-pro/
 cascade:
   type: docs
 authors:

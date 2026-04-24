@@ -5,8 +5,6 @@ date: 2022-03-17
 readingTime: 3
 tags: ["cloud", "streaming", "computer", "mp3", "file", "downloader", "manager", "pc", "mac", "sharing", "windows", "smb"]
 keywords: ["iPhone'a dosya aktarma SMB", "PC müziğini iPhone'da yayınlama", "Mac'i iPhone'a bağlama SMB", "Evermusic SMB kurulumu", "bilgisayar dosyalarına iPhone'dan erişim", "Windows müzik paylaşımı iOS", "SMB dosya aktarımı Evermusic"]
-aliases:
-  - /post/transfer-your-files-from-the-computer-to-iphone-using-smb-protocol/
 ---
 
 {{< author-byline >}}

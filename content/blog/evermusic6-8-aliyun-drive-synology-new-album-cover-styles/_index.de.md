@@ -5,8 +5,6 @@ description: "Evermusic 6.8 fügt Aliyun Drive und Synology NAS Unterstützung h
 keywords: ["Evermusic Update", "Aliyun Drive Musikplayer", "Synology NAS Musik", "Cloud Musikplayer iOS", "Audio Player iOS", "Album-Cover-Stile", "Drag and Drop Dateibrowser", "Evermusic 6.8", "FLAC Player iOS", "QuickConnect Musikplayer", "NAS Musik-Streaming iPhone"]
 tags: ["Evermusic", "Aliyun Drive", "Synology", "Album-Cover", "Cloud-Musik", "iOS Musik-App", "Neuigkeiten"]
 draft: false
-aliases:
-  - /post/evermusic6-8-aliyun-drive-synology-new-album-cover-styles/
 cascade:
   type: docs
 authors:

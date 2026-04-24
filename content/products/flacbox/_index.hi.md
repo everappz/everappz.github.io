@@ -6,8 +6,6 @@ layout: hextra-home
 description: "अपने iPhone पर FLAC, DSD, APE, ALAC फ़ाइलें चलाएं और डाउनलोड करें। इक्वलाइज़र के साथ क्लाउड स्टोरेज या कंप्यूटर से सीधे अपना संगीत सुनें।"
 keywords: ["FLAC प्लेयर iPhone", "लॉसलेस म्यूज़िक प्लेयर", "हाई-रेज़ ऑडियो प्लेयर", "DSD प्लेयर iOS", "ALAC प्लेयर iPhone", "ऑफ़लाइन म्यूज़िक प्लेयर iOS", "क्लाउड म्यूज़िक प्लेयर", "NAS से म्यूज़िक स्ट्रीम", "iPhone पर FLAC चलाएं", "टैग्स के साथ iPhone म्यूज़िक प्लेयर", "Mac म्यूज़िक प्लेयर", "म्यूज़िक डाउनलोड iPhone", "ऑडियो इक्वलाइज़र iOS", "USB म्यूज़िक प्लेयर iPhone", "मल्टी-क्लाउड म्यूज़िक प्लेयर", "SMB WebDAV DLNA प्लेयर", "iTunes File Sharing ऐप", "AirPlay और Chromecast सपोर्ट"]
 tags: ["FLAC प्लेयर", "हाई-रेज़ ऑडियो", "ऑफ़लाइन प्लेबैक", "क्लाउड म्यूज़िक", "DSD ऑडियो", "Mac ऐप्स", "iPhone ऐप्स", "USB ऑडियो iOS", "म्यूज़िक फ़ाइल मैनेजर", "ऑडियो इक्वलाइज़र", "मेटाडेटा एडिटर", "MP3 प्लेयर", "SMB प्लेयर", "Chromecast म्यूज़िक", "CarPlay म्यूज़िक प्लेयर", "मल्टी-फ़ॉर्मेट सपोर्ट", "म्यूज़िक स्ट्रीमिंग", "ऑडियो लाइब्रेरी मैनेजर"]
-aliases:
-  - /flacbox/
 appStoreUrl: "https://apps.apple.com/app/apple-store/id1097564256?pt=95781850&ct=everappzcom&mt=8"
 appStoreId: "1097564256"
 features: "हाई-रेज़ FLAC/DSD/APE/ALAC प्लेबैक, क्लाउड स्ट्रीमिंग (iCloud, Google Drive, Dropbox, OneDrive, MEGA, Box), प्रीसेट के साथ ऑडियो इक्वलाइज़र, क्रॉसफ़ेड और गैपलेस प्लेबैक, M3U प्लेलिस्ट इंपोर्ट/एक्सपोर्ट, लिरिक्स व्यूअर, ऑडियो बुकमार्क्स, Apple CarPlay, AirPlay और Chromecast, SMB/WebDAV/DLNA सपोर्ट, USB फ्लैश ड्राइव प्लेबैक, Last.fm स्क्रोबलिंग, बिल्ट-इन टैग एडिटर"

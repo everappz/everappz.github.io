@@ -5,8 +5,6 @@ description: "Se Evermusic reklamvideo som visar molnmusikstreaming, offlineupps
 keywords: ["Evermusic reklamvideo", "musikspelare iOS", "molnmusikapp iPhone", "Evermusic appdemo", "bästa musikspelaren iPhone", "offline musikspelare iOS"]
 tags: ["Evermusic", "reklam", "musik", "video", "molnmusik", "iOS-app"]
 draft: false
-aliases:
-  - /post/evermusic-be-inspired-by-music/
 sidebar:
   exclude: true
 cascade:

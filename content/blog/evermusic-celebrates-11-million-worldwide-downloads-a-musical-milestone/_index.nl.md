@@ -5,8 +5,6 @@ description: "Evermusic bereikt 11 miljoen downloads. Bekijk de functies die het
 keywords: ["Evermusic 11 miljoen downloads", "beste cloud muziekspeler iOS", "offline muziekspeler iPhone", "iCloud Drive muziek streamen", "10-bands equalizer app", "ID3 tag-editor iOS", "muziekspeler Mac iPhone sync", "FLAC-speler iPhone"]
 tags: ["Evermusic", "mijlpaal", "cloudmuziek", "offline afspelen", "iCloud Drive", "equalizer", "iOS muziekspeler"]
 draft: false
-aliases:
-  - /post/evermusic-celebrates-11-million-worldwide-downloads-a-musical-milestone/
 cascade:
   type: docs
 authors:

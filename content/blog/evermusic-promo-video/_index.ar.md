@@ -5,8 +5,6 @@ description: "شاهد الفيديو الترويجي الرسمي لـ Evermus
 keywords: ["فيديو ترويجي Evermusic", "مشغل موسيقى سحابي آيفون", "فيديو تطبيق موسيقى", "عرض تطبيق Evermusic", "موسيقى سحابية iOS", "ميزات Evermusic", "مشغل موسيقى آيباد", "بث موسيقى من السحابة"]
 tags: ["Evermusic", "ترويج", "فيديو", "iOS", "موسيقى", "سحابة", "مشغل", "تطبيق موبايل"]
 draft: false
-aliases:
-  - /post/evermusic-promo-video/
 cascade:
   type: docs
 authors:

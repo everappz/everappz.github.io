@@ -10,8 +10,6 @@ layout: hextra-home
 description: "يستخدم آلاف العملاء Soundy كمشغل SoundCloud الافتراضي على iPhone. احصل على جودة صوت فائقة ومعادل صوت وأكثر من ذلك بكثير."
 keywords: ["Soundy", "مشغل SoundCloud آيفون", "معادل صوت iOS", "معادل صوت لـ SoundCloud", "مشغل SoundCloud بدون إنترنت", "معزز جودة الصوت iOS", "تطبيق SoundCloud EQ", "أفضل عميل SoundCloud آيفون", "تطبيقات موسيقى آيفون", "مشغل SoundCloud بديل"]
 tags: ["Soundy", "SoundCloud", "تطبيقات iOS", "معادل صوت", "مشغل صوتي", "تشغيل بدون إنترنت", "تطبيق موسيقى آيفون", "تطبيقات متوقفة", "مشغل وسائط", "بث موسيقى"]
-aliases:
-  - /soundy/
 ---
 
 <div class="hx:w-full hx:max-w-screen-lg hx:mx-auto hx:flex hx:flex-col hx:items-center hx:justify-center hx:text-center">

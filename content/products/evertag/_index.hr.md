@@ -6,9 +6,6 @@ layout: hextra-home
 description: "Držite svoju glazbenu biblioteku organiziranom. Pronađite oznake koje nedostaju. Grupno uređivanje. Promijenite omote albuma i još mnogo toga."
 keywords: ["Evertag", "uređivač audio oznaka", "ID3 upravljač oznaka", "uređivanje glazbenih metapodataka", "FLAC uređivač oznaka", "aplikacija za organizaciju glazbe", "MP3 uređivač metapodataka", "iOS uređivač glazbenih oznaka", "Mac audio oznaka aplikacija", "preimenovanje glazbenih datoteka"]
 tags: ["Evertag", "ID3 oznake", "glazbeni metapodaci", "uređivač audio oznaka", "MP3 uređivač", "FLAC označavanje", "iPhone alati", "Mac glazbeni alati", "upravljanje glazbenom bibliotekom"]
-aliases:
-  - /evertag/
-  - /mp3tag/
 appStoreUrl: "https://apps.apple.com/app/apple-store/id1450763230?pt=95781850&ct=everappzcom&mt=8"
 appStoreId: "1450763230"
 features: "Uređivanje 120+ audio oznaka, Grupno uređivanje oznaka, Tražilica omota albuma, Podrška za 30+ audio formata, Automatsko pronalaženje oznaka putem MusicBrainz, Popravak problema s kodiranjem, Pristup oblaku i USB-u, Wi-Fi prijenos glazbe, Ugrađeni upravitelj datoteka, Uređivač tekstova pjesama"

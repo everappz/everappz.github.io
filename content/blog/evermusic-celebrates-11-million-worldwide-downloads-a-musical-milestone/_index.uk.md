@@ -5,8 +5,6 @@ description: "Evermusic досяг 11 мільйонів завантажень.
 keywords: ["Evermusic 11 мільйонів завантажень", "найкращий хмарний музичний плеєр iOS", "офлайн музичний плеєр iPhone", "стрімінг музики з iCloud Drive", "додаток 10-смуговий еквалайзер", "редактор тегів ID3 iOS", "синхронізація музичного плеєра Mac iPhone", "FLAC плеєр iPhone"]
 tags: ["Evermusic", "досягнення", "хмарна музика", "офлайн-відтворення", "iCloud Drive", "еквалайзер", "iOS музичний плеєр"]
 draft: false
-aliases:
-  - /post/evermusic-celebrates-11-million-worldwide-downloads-a-musical-milestone/
 cascade:
   type: docs
 authors:

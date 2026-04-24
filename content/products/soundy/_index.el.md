@@ -10,8 +10,6 @@ layout: hextra-home
 description: "Χιλιάδες πελάτες χρησιμοποιούν το Soundy ως προεπιλεγμένο πρόγραμμα αναπαραγωγής SoundCloud στο iPhone. Αποκτήστε απόλυτη ποιότητα ήχου, ισοσταθμιστή και πολλά άλλα."
 keywords: ["Soundy", "πρόγραμμα αναπαραγωγής SoundCloud iPhone", "ισοσταθμιστής μουσικής iOS", "ισοσταθμιστής για SoundCloud", "SoundCloud εκτός σύνδεσης", "ενισχυτής ποιότητας ήχου iOS", "εφαρμογή SoundCloud EQ", "καλύτερο πρόγραμμα SoundCloud iPhone", "εφαρμογές μουσικής iPhone", "εναλλακτικό πρόγραμμα SoundCloud"]
 tags: ["Soundy", "SoundCloud", "εφαρμογές iOS", "ισοσταθμιστής μουσικής", "πρόγραμμα αναπαραγωγής ήχου", "αναπαραγωγή εκτός σύνδεσης", "εφαρμογή μουσικής iPhone", "καταργημένες εφαρμογές", "πρόγραμμα αναπαραγωγής πολυμέσων", "ροή μουσικής"]
-aliases:
-  - /soundy/
 ---
 
 <div class="hx:w-full hx:max-w-screen-lg hx:mx-auto hx:flex hx:flex-col hx:items-center hx:justify-center hx:text-center">

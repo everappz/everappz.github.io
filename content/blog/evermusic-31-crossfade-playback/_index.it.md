@@ -5,9 +5,6 @@ description: "Evermusic 3.1 aggiunge la riproduzione crossfade, una libreria mus
 keywords: ["aggiornamento Evermusic", "crossfade riproduzione iOS", "app musica cloud", "app backup musica", "coda lettore audio", "editor tag musicali", "aggiornamento tag ID3", "integrazione libreria iPod", "lettore musicale iPhone", "crossfade musica iOS", "sincronizzazione libreria musicale cloud", "backup playlist musica iOS"]
 tags: ["Evermusic", "crossfade", "libreria musicale", "backup", "coda audio", "tag", "lettore cloud", "lettore offline", "editor", "libreria iPod"]
 draft: false
-aliases:
-  - /post/evermusic-31-crossfade-playback/
-  - /single-post/Evermusic-Sync-your-Music-Library-Save-playback-position-Correct-music-tags/
 cascade:
   type: docs
 authors:

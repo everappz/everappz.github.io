@@ -5,9 +5,6 @@ description: "Evermusic nådde 3 miljoner nedladdningar. Utforska molnmusikstrea
 keywords: ["Evermusic nedladdningar", "iOS musikspelare", "molnmusikapp", "offline musikspelare iPhone", "musiknedladdare iOS", "ljudboksspelare iPhone", "ID3-taggredigerare iOS", "iPhone filhanterare", "musik equalizer-app", "bästa molnmusikspelaren", "streama musik från NAS iPhone"]
 tags: ["Evermusic", "nedladdningar", "milstolpe", "musikappar", "molnspelare", "offlinespelare", "taggredigerare", "equalizer", "ljudböcker", "filhanterare"]
 draft: false
-aliases:
-  - /post/evermusic-3-million-downloads/
-  - /single-post/Evermusic-3-million-downloads/
 cascade:
   type: docs
 authors:

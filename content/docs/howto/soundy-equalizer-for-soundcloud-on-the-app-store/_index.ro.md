@@ -5,9 +5,6 @@ date: 2017-03-09
 readingTime: 2
 tags: ["cloud", "player", "egalizator", "iPhone", "SoundCloud", "streaming", "Chromecast"]
 keywords: ["aplicație egalizator soundcloud", "egalizator 10 benzi iOS", "player soundy soundcloud", "aplicație muzică cu presetări", "egalizator pentru iPhone", "viteză redare soundcloud", "aplicație soundcloud cu cronometru somn"]
-aliases:
-  - /post/soundy-equalizer-for-soundcloud-on-the-app-store/
-  - /single-post/soundy-equalizer-for-soundcloud-on-the-app-store/
 ---
 
 {{< author-byline >}}

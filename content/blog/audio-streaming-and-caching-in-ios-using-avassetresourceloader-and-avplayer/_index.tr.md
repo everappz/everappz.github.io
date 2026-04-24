@@ -5,9 +5,6 @@ description: "Özel URL şemaları ve disk önbelleği kullanarak AVAssetResourc
 keywords: ["iOS ses akışı", "AVAssetResourceLoaderDelegate", "AVURLAsset", "AVPlayer eğitimi", "AVFoundation ses", "AVAssetResourceLoadingRequest", "özel ses oynatıcı iOS", "bulut ses akışı iOS", "ses önbelleği iOS", "Swift AVPlayer özel şema"]
 tags: ["streaming", "AVPlayer", "AVFoundation", "iOS", "AVAssetResourceLoader", "tutorial", "Objective-C", "audio caching"]
 draft: false
-aliases:
-  - /post/audio-streaming-and-caching-in-ios-using-avassetresourceloader-and-avplayer/
-  - /single-post/Audio-Streaming-and-Caching-in-iOS-using-AVAssetResourceLoader-and-AVPlayer/
 cascade:
   type: docs
 authors:

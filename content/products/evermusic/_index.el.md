@@ -6,8 +6,6 @@ layout: hextra-home
 description: "Κατεβάστε το καλύτερο δωρεάν πρόγραμμα αναπαραγωγής μουσικής εκτός σύνδεσης για το iPhone και το Mac σας και ακούστε τη μουσική σας παντού."
 keywords: ["Evermusic", "αναπαραγωγή μουσικής εκτός σύνδεσης", "αναπαραγωγή ήχου iOS", "εφαρμογή μουσικής cloud", "λήψη μουσικής iPhone", "αναπαραγωγή μουσικής Mac", "ροή μουσικής εκτός σύνδεσης", "αναπαραγωγή FLAC iPhone", "αναπαραγωγή μουσικής πολλαπλών cloud", "χαρακτηριστικά εφαρμογής Evermusic"]
 tags: ["Evermusic", "αναπαραγωγή εκτός σύνδεσης", "μουσική cloud", "αναπαραγωγή MP3", "εφαρμογές iPhone", "ροή ήχου", "διαχείριση μουσικής", "εφαρμογές Mac", "αναπαραγωγή πολυμέσων"]
-aliases:
-  - /evermusic/
 appStoreUrl: "https://apps.apple.com/app/apple-store/id885367198?pt=95781850&ct=everappzcom&mt=8"
 appStoreId: "885367198"
 features: "Αναπαραγωγή μουσικής εκτός σύνδεσης, Ροή από cloud (iCloud, Google Drive, Dropbox, OneDrive, MEGA, Box), Ισοσταθμιστής ήχου με προεπιλογές, Crossfade και αναπαραγωγή χωρίς κενά, Εισαγωγή/εξαγωγή λιστών αναπαραγωγής M3U, Προβολή στίχων, Σελιδοδείκτες ήχου, Apple CarPlay, AirPlay και Chromecast, Υποστήριξη SMB/WebDAV/DLNA, Αναπαραγωγή από USB flash drive, Scrobbling Last.fm"

@@ -6,8 +6,6 @@ layout: hextra-home
 description: "Pobierz najlepszy darmowy odtwarzacz muzyki offline na iPhone i Mac i słuchaj muzyki wszędzie."
 keywords: ["Evermusic", "odtwarzacz muzyki offline", "odtwarzacz audio iOS", "aplikacja muzyki w chmurze", "pobieranie muzyki iPhone", "odtwarzacz muzyki Mac", "strumieniowanie muzyki offline", "odtwarzacz FLAC iPhone", "odtwarzacz muzyki multi-cloud", "funkcje aplikacji Evermusic"]
 tags: ["Evermusic", "odtwarzanie offline", "muzyka w chmurze", "odtwarzacz MP3", "aplikacje iPhone", "strumieniowanie audio", "zarządzanie muzyką", "aplikacje Mac", "odtwarzacz multimedialny"]
-aliases:
-  - /evermusic/
 appStoreUrl: "https://apps.apple.com/app/apple-store/id885367198?pt=95781850&ct=everappzcom&mt=8"
 appStoreId: "885367198"
 features: "Odtwarzanie muzyki offline, Strumieniowanie z chmury (iCloud, Google Drive, Dropbox, OneDrive, MEGA, Box), Korektor dźwięku z presetami, Crossfade i odtwarzanie bezprzerwowe, Import/eksport playlist M3U, Przeglądarka tekstów piosenek, Zakładki audio, Apple CarPlay, AirPlay i Chromecast, Obsługa SMB/WebDAV/DLNA, Odtwarzanie z pamięci USB, Scrobbling Last.fm"

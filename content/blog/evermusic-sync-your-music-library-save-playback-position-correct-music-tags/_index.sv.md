@@ -5,8 +5,6 @@ description: "Evermusic 2.3 lägger till automatisk synkronisering av molnmusik,
 keywords: ["Evermusic", "molnmusikspelare", "musiksynk iOS", "spara uppspelningsposition", "ljudboksuppspelning", "metadataläsare", "fixa ID3-taggar", "streama musik från molnet", "musikapp för Dropbox", "Google Drive-spelare", "automatisk musikbibliotekssynk", "spara ljudboksposition iOS"]
 tags: ["evermusic", "musik", "uppspelning", "hanterare", "redigerare", "synkronisering", "position", "id3-taggar", "moln", "nyheter"]
 draft: false
-aliases:
-  - /post/evermusic-sync-your-music-library-save-playback-position-correct-music-tags/
 cascade:
   type: docs
 authors:

@@ -4,8 +4,6 @@ draft: false
 title: 'Instrukcje'
 description: 'Przewodniki krok po kroku i wskazówki, które pomogą Ci skonfigurować, używać i w pełni korzystać z aplikacji Everappz.'
 excludeSearch: true
-aliases:
-  - /post/how-to-/
 ---
 
 

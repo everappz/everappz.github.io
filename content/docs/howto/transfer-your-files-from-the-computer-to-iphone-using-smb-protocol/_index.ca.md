@@ -5,8 +5,6 @@ date: 2022-03-17
 readingTime: 3
 tags: ["cloud", "streaming", "computer", "mp3", "file", "downloader", "manager", "pc", "mac", "sharing", "windows", "smb"]
 keywords: ["transferir fitxers a iPhone SMB", "transmetre música del PC a l'iPhone", "connectar Mac a iPhone SMB", "configuració Evermusic SMB", "accedir a fitxers de l'ordinador iPhone", "compartir música de Windows iOS", "transferència de fitxers SMB Evermusic"]
-aliases:
-  - /post/transfer-your-files-from-the-computer-to-iphone-using-smb-protocol/
 ---
 
 {{< author-byline >}}

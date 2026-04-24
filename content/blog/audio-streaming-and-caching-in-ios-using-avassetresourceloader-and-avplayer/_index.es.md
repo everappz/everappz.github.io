@@ -5,9 +5,6 @@ description: "Aprenda a hacer streaming y almacenamiento en caché de audio en i
 keywords: ["streaming de audio iOS", "AVAssetResourceLoaderDelegate", "AVURLAsset", "tutorial AVPlayer", "AVFoundation audio", "AVAssetResourceLoadingRequest", "reproductor de audio personalizado iOS", "streaming de audio en la nube iOS", "caché de audio iOS", "Swift AVPlayer esquema personalizado"]
 tags: ["streaming", "AVPlayer", "AVFoundation", "iOS", "AVAssetResourceLoader", "tutorial", "Objective-C", "audio caching"]
 draft: false
-aliases:
-  - /post/audio-streaming-and-caching-in-ios-using-avassetresourceloader-and-avplayer/
-  - /single-post/Audio-Streaming-and-Caching-in-iOS-using-AVAssetResourceLoader-and-AVPlayer/
 cascade:
   type: docs
 authors:

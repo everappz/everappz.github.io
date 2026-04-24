@@ -10,8 +10,6 @@ layout: hextra-home
 description: "Beribu-ribu pelanggan menggunakan Soundy sebagai pemain SoundCloud lalai di iPhone. Dapatkan kualiti bunyi terbaik, penyama dan banyak lagi."
 keywords: ["Soundy", "pemain SoundCloud iPhone", "penyama muzik iOS", "penyama untuk SoundCloud", "pemain SoundCloud luar talian", "penggalak kualiti audio iOS", "aplikasi SoundCloud EQ", "klien SoundCloud terbaik iPhone", "aplikasi muzik iPhone", "pemain SoundCloud alternatif"]
 tags: ["Soundy", "SoundCloud", "aplikasi iOS", "penyama muzik", "pemain audio", "main balik luar talian", "aplikasi muzik iPhone", "aplikasi dihentikan", "pemain media", "penstriman muzik"]
-aliases:
-  - /soundy/
 ---
 
 <div class="hx:w-full hx:max-w-screen-lg hx:mx-auto hx:flex hx:flex-col hx:items-center hx:justify-center hx:text-center">

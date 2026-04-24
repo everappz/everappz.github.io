@@ -5,9 +5,6 @@ description: "Evermusic har nådd 3 millioner nedlastinger. Utforsk skymusikkstr
 keywords: ["Evermusic nedlastinger", "iOS musikkspiller", "skymusikkapp", "musikkspiller uten nett iPhone", "musikknedlaster iOS", "lydbokspiller iPhone", "ID3 tag-editor iOS", "iPhone filbehandler", "musikk equalizer-app", "beste skymusikkspiller", "strøm musikk fra NAS iPhone"]
 tags: ["Evermusic", "nedlastinger", "milepæl", "musikkapper", "skyspiller", "offline-spiller", "tag-editor", "equalizer", "lydbøker", "filbehandler"]
 draft: false
-aliases:
-  - /post/evermusic-3-million-downloads/
-  - /single-post/Evermusic-3-million-downloads/
 cascade:
   type: docs
 authors:

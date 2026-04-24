@@ -2,8 +2,6 @@
 date: '2025-06-12T17:00:00+00:00'
 draft: false
 title: 'Acord de licență'
-aliases:
-  - /license-agreement/
 ---
 
 ACORD DE LICENȚĂ PENTRU UTILIZATORUL FINAL PENTRU PRODUSELE EVERAPPZ S.L.

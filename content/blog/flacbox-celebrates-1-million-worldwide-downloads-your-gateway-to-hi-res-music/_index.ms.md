@@ -5,8 +5,6 @@ description: "Flacbox mencapai 1 juta muat turun global. Terokai ciri-ciri yang 
 keywords: ["pemain muzik Flacbox", "audio hi-res iOS", "aplikasi muzik lossless", "pemain DSD FLAC APE", "muzik FLAC luar talian", "pencapaian muat turun Flacbox", "audio berkualiti tinggi iPhone", "aplikasi audio Everappz", "pemain senarai main CUE", "1 juta muat turun", "pemain FLAC terbaik iOS", "pemain muzik hi-res Mac"]
 tags: ["Flacbox", "lossless", "audio hi-res", "pemain muzik", "audio", "pencapaian", "aplikasi iOS", "Apa Yang Baharu"]
 draft: false
-aliases:
-  - /post/flacbox-celebrates-1-million-worldwide-downloads-your-gateway-to-hi-res-music/
 cascade:
   type: docs
 authors:

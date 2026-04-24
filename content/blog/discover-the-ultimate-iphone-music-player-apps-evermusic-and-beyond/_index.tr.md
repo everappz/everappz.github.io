@@ -5,8 +5,6 @@ description: "En iyi iPhone müzik çalar uygulamalarını karşılaştırın: E
 keywords: ["en iyi iPhone müzik çalar", "müzik çalar uygulaması iOS", "Evermusic vs Spotify", "bulut müzik çalar iPhone", "çevrimdışı müzik uygulaması iPhone", "FLAC çalar iOS", "Apple Music alternatifleri", "VLC iPhone", "ücretsiz müzik çalar iOS"]
 tags: ["müzik uygulamaları", "iOS", "Evermusic", "Apple Music", "Spotify", "VLC", "Amazon Music", "karşılaştırma", "bulut müzik", "çevrimdışı oynatma"]
 draft: false
-aliases:
-  - /post/discover-the-ultimate-iphone-music-player-apps-evermusic-and-beyond/
 cascade:
   type: docs
 authors:

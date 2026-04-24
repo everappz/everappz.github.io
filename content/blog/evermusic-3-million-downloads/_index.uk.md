@@ -5,9 +5,6 @@ description: "Evermusic досяг 3 мільйонів завантажень. 
 keywords: ["Evermusic завантаження", "iOS музичний плеєр", "хмарний музичний додаток", "офлайн музичний плеєр iPhone", "завантажувач музики iOS", "плеєр аудіокниг iPhone", "редактор тегів ID3 iOS", "файловий менеджер iPhone", "додаток еквалайзер для музики", "найкращий хмарний музичний плеєр", "стрімінг музики з NAS iPhone"]
 tags: ["Evermusic", "завантаження", "досягнення", "музичні додатки", "хмарний плеєр", "офлайн плеєр", "редактор тегів", "еквалайзер", "аудіокниги", "файловий менеджер"]
 draft: false
-aliases:
-  - /post/evermusic-3-million-downloads/
-  - /single-post/Evermusic-3-million-downloads/
 cascade:
   type: docs
 authors:

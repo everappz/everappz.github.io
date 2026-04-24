@@ -2,11 +2,6 @@
 date: '2025-06-12T17:00:00+00:00'
 draft: false
 title: 'תנאים והגבלות'
-aliases:
-  - /terms-and-conditions/
-  - /terms-and-conditionsDec/
-  - /terms-and-condition/
-  - /terms-and-conditionsMay/
 ---
 
 EVERAPPZ S.L. היא הבעלים של אפליקציות כמו Evermusic, Evermusic Pro, Flacbox ואפליקציית Evertag. נגני המוזיקה הללו תומכים בסוגי קבצים שונים, ו-Evertag מאפשר לך לערוך תגי שמע עבור הקבצים שלך, הכל בהתאם לתנאים וההגבלות.

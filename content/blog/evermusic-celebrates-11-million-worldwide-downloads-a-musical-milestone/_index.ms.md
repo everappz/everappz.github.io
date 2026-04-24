@@ -5,8 +5,6 @@ description: "Evermusic mencapai 11 juta muat turun. Lihat ciri yang menjadikann
 keywords: ["Evermusic 11 juta muat turun", "pemain muzik awan terbaik iOS", "pemain muzik luar talian iPhone", "penstriman muzik iCloud Drive", "aplikasi penyama 10-jalur", "editor tag ID3 iOS", "pemain muzik segerak Mac iPhone", "pemain FLAC iPhone"]
 tags: ["Evermusic", "pencapaian", "muzik awan", "main balik luar talian", "iCloud Drive", "penyama", "pemain muzik iOS"]
 draft: false
-aliases:
-  - /post/evermusic-celebrates-11-million-worldwide-downloads-a-musical-milestone/
 cascade:
   type: docs
 authors:

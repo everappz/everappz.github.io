@@ -5,8 +5,6 @@ description: "Evermusic 2.3 tilføjer automatisk cloud-musiksynkronisering, lagr
 keywords: ["Evermusic", "cloud-musikafspiller", "musiksynkronisering iOS", "gem afspilningsposition", "lydbogsafspilning", "metadatalæser", "ret ID3-tags", "stream musik fra cloud", "musik-app til Dropbox", "Google Drive-afspiller", "automatisk musikbibliotekssynkronisering", "gem lydbogsposition iOS"]
 tags: ["evermusic", "musik", "afspilning", "manager", "editor", "synkronisering", "position", "id3-tags", "cloud", "nyheder"]
 draft: false
-aliases:
-  - /post/evermusic-sync-your-music-library-save-playback-position-correct-music-tags/
 cascade:
   type: docs
 authors:

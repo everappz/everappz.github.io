@@ -5,8 +5,6 @@ description: "Evermusic 3.6 dodaje podršku za CarPlay, pristupačnost VoiceOver
 keywords: ["Evermusic CarPlay", "glazbeni player CarPlay iPhone", "VoiceOver glazbena aplikacija iOS", "FLAC uređivač oznaka iPhone", "uređivanje naslovnice albuma iOS", "uvoz glazbe iCloud Drive", "audio player pristupačnost iOS", "mješoviti audio izlaz iPhone"]
 tags: ["Evermusic", "CarPlay", "VoiceOver", "pristupačnost", "iCloud Drive", "uređivač oznaka", "uređivanje naslovnica", "iOS ažuriranje"]
 draft: false
-aliases:
-  - /post/evermusic-3-6-car-play-voice-over-artworks-editing/
 cascade:
   type: docs
 authors:

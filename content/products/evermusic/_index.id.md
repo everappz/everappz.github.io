@@ -6,8 +6,6 @@ layout: hextra-home
 description: "Unduh pemutar musik offline gratis terbaik untuk iPhone dan Mac Anda dan dengarkan musik Anda di mana saja."
 keywords: ["Evermusic", "pemutar musik offline", "pemutar audio iOS", "aplikasi musik cloud", "unduh musik iPhone", "pemutar musik Mac", "streaming musik offline", "pemutar FLAC iPhone", "pemutar musik multi-cloud", "fitur aplikasi Evermusic"]
 tags: ["Evermusic", "pemutaran offline", "musik cloud", "pemutar MP3", "aplikasi iPhone", "streaming audio", "manajemen musik", "aplikasi Mac", "pemutar media"]
-aliases:
-  - /evermusic/
 appStoreUrl: "https://apps.apple.com/app/apple-store/id885367198?pt=95781850&ct=everappzcom&mt=8"
 appStoreId: "885367198"
 features: "Pemutaran musik offline, Streaming cloud (iCloud, Google Drive, Dropbox, OneDrive, MEGA, Box), Equalizer audio dengan preset, Crossfade dan pemutaran tanpa jeda, Impor/ekspor playlist M3U, Penampil lirik, Penanda audio, Apple CarPlay, AirPlay dan Chromecast, Dukungan SMB/WebDAV/DLNA, Pemutaran flash drive USB, Last.fm scrobbling"

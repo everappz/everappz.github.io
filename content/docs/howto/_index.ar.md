@@ -4,8 +4,6 @@ draft: false
 title: 'كيفية الاستخدام'
 description: 'أدلة خطوة بخطوة ونصائح لمساعدتك في إعداد واستخدام تطبيقات Everappz والحصول على أقصى استفادة منها.'
 excludeSearch: true
-aliases:
-  - /post/how-to-/
 ---
 
 

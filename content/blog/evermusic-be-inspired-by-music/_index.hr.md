@@ -5,8 +5,6 @@ description: "Pogledajte Evermusic promotivni video koji prikazuje streaming gla
 keywords: ["Evermusic promotivni video", "glazbeni player iOS", "aplikacija za glazbu u oblaku iPhone", "Evermusic demo aplikacije", "najbolji glazbeni player iPhone", "izvanmrežni glazbeni player iOS"]
 tags: ["Evermusic", "promo", "glazba", "video", "glazba u oblaku", "iOS aplikacija"]
 draft: false
-aliases:
-  - /post/evermusic-be-inspired-by-music/
 sidebar:
   exclude: true
 cascade:

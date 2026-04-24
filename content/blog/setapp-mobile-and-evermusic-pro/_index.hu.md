@@ -5,8 +5,6 @@ description: "Szerezd meg az Evermusic Pro-t a Setapp Mobile-on keresztül. Stre
 keywords: ["Setapp Mobile", "Evermusic Pro", "felhő zenelejátszó", "zene streaming iPhone", "offline zene iOS", "Setapp iOS alkalmazások", "audiofil alkalmazás iPhone", "hangszínszabályzó iOS", "NAS zene iPhone", "felhőtárhely zenelejátszó", "Setapp zenei alkalmazás", "zene streamelés Google Drive iPhone"]
 tags: ["evermusic", "setapp", "felhő", "audio", "mobil", "piactér", "zene", "ios alkalmazások"]
 draft: false
-aliases:
-  - /post/setapp-mobile-and-evermusic-pro/
 cascade:
   type: docs
 authors:

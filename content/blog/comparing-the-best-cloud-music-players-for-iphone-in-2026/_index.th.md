@@ -5,9 +5,6 @@ description: "เปรียบเทียบเครื่องเล่น
 keywords: ["เครื่องเล่นเพลงคลาวด์ iPhone", "แอปเพลงที่ดีที่สุดสำหรับ iPhone", "Evermusic vs Spotify", "แอปเพลงออฟไลน์ iOS", "ทางเลือก Apple Music", "เล่น FLAC บน iPhone", "สตรีมมิ่งเพลงคลาวด์", "เครื่องเล่นเสียง iPhone", "เครื่องเล่นเพลงสำหรับ Dropbox", "เล่นไฟล์เพลงของตัวเอง iPhone"]
 tags: ["music", "streaming", "apps", "iOS", "cloud music", "Evermusic", "Spotify", "Apple Music", "YouTube Music", "SoundCloud", "comparison"]
 draft: false
-aliases:
-  - /post/comparing-the-best-cloud-music-players-for-iphone-in-2023/
-  - /blog/comparing-the-best-cloud-music-players-for-iphone-in-2023/
 cascade:
   type: docs
 authors:

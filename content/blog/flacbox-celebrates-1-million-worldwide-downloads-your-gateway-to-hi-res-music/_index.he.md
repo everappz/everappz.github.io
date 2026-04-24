@@ -5,8 +5,6 @@ description: "Flacbox מגיע למיליון הורדות ברחבי העולם
 keywords: ["נגן מוזיקה Flacbox", "אודיו hi-res iOS", "אפליקציית מוזיקה lossless", "נגן DSD FLAC APE", "מוזיקה FLAC לא מקוונת", "אבן דרך הורדות Flacbox", "אודיו באיכות גבוהה iPhone", "אפליקציות אודיו Everappz", "נגן רשימת השמעה CUE", "מיליון הורדות", "נגן FLAC הכי טוב iOS", "נגן מוזיקה hi-res Mac"]
 tags: ["Flacbox", "lossless", "אודיו hi-res", "נגן מוזיקה", "אודיו", "אבן דרך", "אפליקציות iOS", "מה חדש"]
 draft: false
-aliases:
-  - /post/flacbox-celebrates-1-million-worldwide-downloads-your-gateway-to-hi-res-music/
 cascade:
   type: docs
 authors:

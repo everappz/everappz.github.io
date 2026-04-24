@@ -5,9 +5,6 @@ description: "Evermusic ile iPhone ve iPad'de Google Drive, Dropbox veya OneDriv
 keywords: ["Evermusic", "bulut müzik çalar", "iOS müzik uygulaması", "buluttan müzik yayını", "çevrimdışı müzik iPhone", "Google Drive müzik çalar", "Dropbox müzik yayını", "MP3 çalar iPhone", "iPhone'da yer açma", "SMB'den müzik", "iOS bulut depolamadan müzik çalma", "iTunes'suz müzik çalar"]
 tags: ["ses", "yayın", "çalar", "mp3", "indirme", "GoogleDrive", "Dropbox", "bulut müzik", "çevrimdışı oynatma"]
 draft: false
-aliases:
-  - /post/evermusic-stream-your-music-from-the-cloud-and-free-up-space-on-your-iphone-or-ipad/
-  - /single-post/Evermusic-stream-your-music-from-the-cloud-and-free-up-space-on-your-iPhone-or-iPad/
 cascade:
   type: docs
 authors:

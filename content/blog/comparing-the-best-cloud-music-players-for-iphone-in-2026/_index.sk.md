@@ -5,9 +5,6 @@ description: "Porovnajte 7 najlepších cloudových hudobných prehrávačov pre
 keywords: ["cloudový hudobný prehrávač iPhone", "najlepšie hudobné aplikácie pre iPhone", "Evermusic vs Spotify", "offline hudobná aplikácia iOS", "alternatíva Apple Music", "prehrávanie FLAC na iPhone", "cloudový hudobný streaming", "audio prehrávač iPhone", "hudobný prehrávač pre Dropbox", "prehrávanie vlastných hudobných súborov iPhone"]
 tags: ["music", "streaming", "apps", "iOS", "cloud music", "Evermusic", "Spotify", "Apple Music", "YouTube Music", "SoundCloud", "comparison"]
 draft: false
-aliases:
-  - /post/comparing-the-best-cloud-music-players-for-iphone-in-2023/
-  - /blog/comparing-the-best-cloud-music-players-for-iphone-in-2023/
 cascade:
   type: docs
 authors:

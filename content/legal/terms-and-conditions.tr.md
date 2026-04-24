@@ -2,11 +2,6 @@
 date: '2025-06-12T17:00:00+00:00'
 draft: false
 title: 'Şartlar ve Koşullar'
-aliases:
-  - /terms-and-conditions/
-  - /terms-and-conditionsDec/
-  - /terms-and-condition/
-  - /terms-and-conditionsMay/
 ---
 
 EVERAPPZ S.L., Evermusic, Evermusic Pro, Flacbox ve Evertag uygulamalarının sahibidir. Bu müzik oynatıcılar çeşitli dosya türlerini destekler ve Evertag, dosyalarınız için ses etiketlerini düzenlemenize olanak tanır; tümü Şartlar ve Koşullara uygun olarak.

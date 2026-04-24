@@ -5,8 +5,6 @@ description: "Evermusic kobler til 12+ skytjenester, spiller FLAC og MP3 offline
 keywords: ["beste sky-musikkspiller iOS", "sky-musikkspiller iPhone", "spill musikk fra Dropbox", "offline musikkspiller iPhone", "FLAC-spiller iOS", "Evermusic anmeldelse", "musikkbibliotekbehandler iOS", "Google Drive musikkspiller", "NAS musikkspiller iPhone", "WebDAV musikkspiller"]
 tags: ["Evermusic", "cloud music", "offline playback", "iOS music apps", "MP3 player", "audio", "music streaming", "guide", "FLAC", "review"]
 draft: false
-aliases:
-  - /post/best-cloud-music-player-for-ios/
 cascade:
   type: docs
 authors:

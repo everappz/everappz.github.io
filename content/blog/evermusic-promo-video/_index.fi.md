@@ -5,8 +5,6 @@ description: "Katso Evermusicin virallinen promovideo. Näe miten Evermusic suor
 keywords: ["Evermusic promovideo", "pilvimusiikkisoitin iPhone", "musiikkisovelluksen video", "Evermusic-sovelluksen esittely", "pilvimusiikki iOS", "Evermusicin ominaisuudet", "musiikkisoitin iPad", "suoratoista musiikkia pilvestä"]
 tags: ["Evermusic", "promootio", "video", "iOS", "musiikki", "pilvi", "soitin", "mobiilisovellus"]
 draft: false
-aliases:
-  - /post/evermusic-promo-video/
 cascade:
   type: docs
 authors:

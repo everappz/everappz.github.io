@@ -4,8 +4,6 @@ draft: false
 title: 'Hướng dẫn thực hiện'
 description: 'Hướng dẫn từng bước và mẹo giúp bạn thiết lập, sử dụng và tận dụng tối đa các ứng dụng Everappz.'
 excludeSearch: true
-aliases:
-  - /post/how-to-/
 ---
 
 

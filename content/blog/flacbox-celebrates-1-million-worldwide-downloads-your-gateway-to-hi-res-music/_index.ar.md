@@ -5,8 +5,6 @@ description: "يصل Flacbox إلى مليون تحميل عالمياً. اكت
 keywords: ["مشغل موسيقى Flacbox", "صوت عالي الدقة iOS", "تطبيق موسيقى بلا فقدان", "مشغل DSD FLAC APE", "موسيقى FLAC بدون إنترنت", "إنجاز تحميلات Flacbox", "صوت عالي الجودة iPhone", "تطبيقات صوتية Everappz", "مشغل قوائم CUE", "مليون تحميل", "أفضل مشغل FLAC iOS", "مشغل موسيقى عالي الدقة Mac"]
 tags: ["Flacbox", "بلا فقدان", "صوت عالي الدقة", "مشغل موسيقى", "صوت", "إنجاز", "تطبيقات iOS", "ما الجديد"]
 draft: false
-aliases:
-  - /post/flacbox-celebrates-1-million-worldwide-downloads-your-gateway-to-hi-res-music/
 cascade:
   type: docs
 authors:

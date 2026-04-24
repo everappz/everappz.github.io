@@ -5,8 +5,6 @@ description: "Flacbox досяг 1 мільйона завантажень у в
 keywords: ["Flacbox музичний програвач", "hi-res аудіо iOS", "додаток для безвтратної музики", "DSD FLAC APE програвач", "офлайн FLAC музика", "Flacbox віха завантажень", "високоякісний звук iPhone", "Everappz аудіо додатки", "програвач CUE плейлистів", "1 мільйон завантажень", "найкращий FLAC програвач iOS", "hi-res музичний програвач Mac"]
 tags: ["Flacbox", "безвтратний", "hi-res аудіо", "музичний програвач", "аудіо", "віха", "додатки iOS", "що нового"]
 draft: false
-aliases:
-  - /post/flacbox-celebrates-1-million-worldwide-downloads-your-gateway-to-hi-res-music/
 cascade:
   type: docs
 authors:

@@ -5,8 +5,6 @@ description: "觀看 Evermusic 宣傳影片，展示 iPhone 和 Mac 上的雲端
 keywords: ["Evermusic 宣傳影片", "音樂播放器 iOS", "雲端音樂應用程式 iPhone", "Evermusic 應用程式演示", "最佳音樂播放器 iPhone", "離線音樂播放器 iOS"]
 tags: ["Evermusic", "宣傳", "音樂", "影片", "雲端音樂", "iOS 應用程式"]
 draft: false
-aliases:
-  - /post/evermusic-be-inspired-by-music/
 sidebar:
   exclude: true
 cascade:

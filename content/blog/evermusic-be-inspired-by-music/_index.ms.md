@@ -5,8 +5,6 @@ description: "Tonton video promosi Evermusic yang mempamerkan penstriman muzik a
 keywords: ["Video promosi Evermusic", "pemain muzik iOS", "aplikasi muzik awan iPhone", "demo aplikasi Evermusic", "pemain muzik terbaik iPhone", "pemain muzik luar talian iOS"]
 tags: ["Evermusic", "promosi", "muzik", "video", "muzik awan", "aplikasi iOS"]
 draft: false
-aliases:
-  - /post/evermusic-be-inspired-by-music/
 sidebar:
   exclude: true
 cascade:

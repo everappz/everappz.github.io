@@ -2,8 +2,6 @@
 date: '2025-06-12T17:00:00+00:00'
 draft: false
 title: '라이선스 계약'
-aliases:
-  - /license-agreement/
 ---
 
 EVERAPPZ S.L. 제품에 대한 최종 사용자 라이선스 계약

@@ -5,8 +5,6 @@ description: "Evermusic 3.6, CarPlay desteği, VoiceOver erişilebilirliği, kar
 keywords: ["Evermusic CarPlay", "müzik çalar CarPlay iPhone", "VoiceOver müzik uygulaması iOS", "FLAC etiket düzenleyici iPhone", "albüm kapağı düzenleme iOS", "iCloud Drive müzik içe aktarma", "ses oynatıcı erişilebilirlik iOS", "karma ses çıkışı iPhone"]
 tags: ["Evermusic", "CarPlay", "VoiceOver", "erişilebilirlik", "iCloud Drive", "etiket düzenleyici", "kapak düzenleme", "iOS güncellemesi"]
 draft: false
-aliases:
-  - /post/evermusic-3-6-car-play-voice-over-artworks-editing/
 cascade:
   type: docs
 authors:

@@ -5,8 +5,6 @@ description: "Se den offisielle Evermusic-promovideoen. Se hvordan Evermusic str
 keywords: ["Evermusic promovideo", "skymusikkspiller iPhone", "musikkapp-video", "Evermusic app-demo", "skymusikk iOS", "Evermusic-funksjoner", "musikkspiller iPad", "strøm musikk fra skyen"]
 tags: ["evermusic", "promo", "video", "ios", "musikk", "sky", "spiller", "mobilapp"]
 draft: false
-aliases:
-  - /post/evermusic-promo-video/
 cascade:
   type: docs
 authors:

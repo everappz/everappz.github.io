@@ -2,8 +2,6 @@
 date: '2025-06-12T17:00:00+00:00'
 draft: false
 title: 'Thông báo pháp lý'
-aliases:
-  - /legal-notice/
 ---
 
 ## Dữ liệu nhận dạng của chủ sở hữu trang web

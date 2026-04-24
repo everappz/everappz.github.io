@@ -5,8 +5,6 @@ description: "Evermusic 連接12個以上雲端服務，離線播放 FLAC 和 MP
 keywords: ["iOS 最佳雲端音樂播放器", "iPhone 雲端音樂播放器", "從 Dropbox 播放音樂", "iPhone 離線音樂播放器", "iOS FLAC 播放器", "Evermusic 評測", "iOS 音樂庫管理器", "Google Drive 音樂播放器", "iPhone NAS 音樂播放器", "WebDAV 音樂播放器"]
 tags: ["Evermusic", "cloud music", "offline playback", "iOS music apps", "MP3 player", "audio", "music streaming", "guide", "FLAC", "review"]
 draft: false
-aliases:
-  - /post/best-cloud-music-player-for-ios/
 cascade:
   type: docs
 authors:

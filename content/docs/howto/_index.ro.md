@@ -4,8 +4,6 @@ draft: false
 title: 'Instrucțiuni'
 description: 'Ghiduri pas cu pas și sfaturi pentru a te ajuta să configurezi, să folosești și să profiți la maximum de aplicațiile Everappz.'
 excludeSearch: true
-aliases:
-  - /post/how-to-/
 ---
 
 

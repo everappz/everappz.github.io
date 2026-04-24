@@ -5,8 +5,6 @@ date: 2024-11-14
 readingTime: 7
 tags: ["âm nhạc", "đám mây", "phát trực tuyến", "đồng bộ", "icloud", "thư viện"]
 keywords: ["nhập nhạc iCloud Evermusic", "Flacbox đồng bộ iCloud", "Evermusic phát trực tuyến từ iCloud", "thư viện nhạc ứng dụng iOS", "Flacbox đọc siêu dữ liệu", "phát nhạc iCloud iPhone"]
-aliases:
-  - /post/step-by-step-guide-importing-your-icloud-library-into-evermusic-and-flacbox/
 ---
 
 {{< author-byline >}}

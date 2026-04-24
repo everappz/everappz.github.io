@@ -5,8 +5,6 @@ description: "Flacbox đạt 1 triệu lượt tải toàn cầu. Khám phá cá
 keywords: ["Flacbox trình phát nhạc", "hi-res audio iOS", "ứng dụng nhạc lossless", "DSD FLAC APE trình phát", "nhạc FLAC ngoại tuyến", "Flacbox cột mốc tải về", "âm thanh chất lượng cao iPhone", "Everappz ứng dụng âm thanh", "trình phát danh sách CUE", "1 triệu lượt tải", "trình phát FLAC tốt nhất iOS", "trình phát nhạc hi-res Mac"]
 tags: ["Flacbox", "lossless", "hi-res audio", "trình phát nhạc", "âm thanh", "cột mốc", "ứng dụng iOS", "có gì mới"]
 draft: false
-aliases:
-  - /post/flacbox-celebrates-1-million-worldwide-downloads-your-gateway-to-hi-res-music/
 cascade:
   type: docs
 authors:

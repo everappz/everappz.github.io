@@ -5,8 +5,6 @@ description: "Flacbox mencapai 1 juta unduhan global. Jelajahi fitur yang menjad
 keywords: ["pemutar musik Flacbox", "audio hi-res iOS", "aplikasi musik lossless", "pemutar DSD FLAC APE", "musik FLAC offline", "pencapaian unduhan Flacbox", "audio berkualitas tinggi iPhone", "aplikasi audio Everappz", "pemutar playlist CUE", "1 juta unduhan", "pemutar FLAC terbaik iOS", "pemutar musik hi-res Mac"]
 tags: ["Flacbox", "lossless", "audio hi-res", "pemutar musik", "audio", "pencapaian", "aplikasi iOS", "Yang Baru"]
 draft: false
-aliases:
-  - /post/flacbox-celebrates-1-million-worldwide-downloads-your-gateway-to-hi-res-music/
 cascade:
   type: docs
 authors:

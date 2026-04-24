@@ -5,8 +5,6 @@ description: "Flacbox 全球下载量达到 100 万次。探索使其成为 iPho
 keywords: ["Flacbox 音乐播放器", "hi-res 音频 iOS", "无损音乐应用", "DSD FLAC APE 播放器", "离线 FLAC 音乐", "Flacbox 下载里程碑", "高品质音频 iPhone", "Everappz 音频应用", "CUE 播放列表播放器", "100 万次下载", "最佳 FLAC 播放器 iOS", "hi-res 音乐播放器 Mac"]
 tags: ["Flacbox", "无损", "hi-res 音频", "音乐播放器", "音频", "里程碑", "iOS 应用", "新功能"]
 draft: false
-aliases:
-  - /post/flacbox-celebrates-1-million-worldwide-downloads-your-gateway-to-hi-res-music/
 cascade:
   type: docs
 authors:

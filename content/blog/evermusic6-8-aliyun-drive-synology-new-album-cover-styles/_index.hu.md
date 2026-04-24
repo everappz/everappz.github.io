@@ -5,8 +5,6 @@ description: "Az Evermusic 6.8 Aliyun Drive és Synology NAS támogatást, új a
 keywords: ["Evermusic frissítés", "Aliyun Drive zenelejátszó", "Synology NAS zene", "felhő zenelejátszó iOS", "audio lejátszó iOS", "albumborító stílusok", "húzd és ejtsd fájlkezelő", "Evermusic 6.8", "FLAC lejátszó iOS", "QuickConnect zenelejátszó", "NAS zene streaming iPhone"]
 tags: ["Evermusic", "Aliyun Drive", "Synology", "Albumborítók", "Felhő zene", "iOS zenei alkalmazás", "Újdonságok"]
 draft: false
-aliases:
-  - /post/evermusic6-8-aliyun-drive-synology-new-album-cover-styles/
 cascade:
   type: docs
 authors:

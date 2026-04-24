@@ -5,8 +5,6 @@ description: "Flacbox atinge 1 milion de descărcări globale. Explorați funcț
 keywords: ["player muzical Flacbox", "audio hi-res iOS", "aplicație muzică lossless", "player DSD FLAC APE", "muzică FLAC offline", "reper descărcări Flacbox", "audio de înaltă calitate iPhone", "aplicații audio Everappz", "player playlist CUE", "1 milion descărcări", "cel mai bun player FLAC iOS", "player muzică hi-res Mac"]
 tags: ["Flacbox", "lossless", "audio hi-res", "player muzical", "audio", "reper", "aplicații iOS", "Ce este nou"]
 draft: false
-aliases:
-  - /post/flacbox-celebrates-1-million-worldwide-downloads-your-gateway-to-hi-res-music/
 cascade:
   type: docs
 authors:

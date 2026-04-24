@@ -5,9 +5,6 @@ description: "Naučte sa streamovať a cachovať zvuk v iOS pomocou AVAssetResou
 keywords: ["iOS audio streaming", "AVAssetResourceLoaderDelegate", "AVURLAsset", "AVPlayer tutoriál", "AVFoundation audio", "AVAssetResourceLoadingRequest", "vlastný audio prehrávač iOS", "cloudový audio streaming iOS", "cachovanie zvuku iOS", "Swift AVPlayer vlastná schéma"]
 tags: ["streaming", "AVPlayer", "AVFoundation", "iOS", "AVAssetResourceLoader", "tutorial", "Objective-C", "audio caching"]
 draft: false
-aliases:
-  - /post/audio-streaming-and-caching-in-ios-using-avassetresourceloader-and-avplayer/
-  - /single-post/Audio-Streaming-and-Caching-in-iOS-using-AVAssetResourceLoader-and-AVPlayer/
 cascade:
   type: docs
 authors:

@@ -5,8 +5,6 @@ description: "观看 Evermusic 官方宣传视频。了解 Evermusic 如何在 i
 keywords: ["Evermusic 宣传视频", "云音乐播放器 iPhone", "音乐应用视频", "Evermusic 应用演示", "云音乐 iOS", "Evermusic 功能", "音乐播放器 iPad", "从云端串流音乐"]
 tags: ["evermusic", "宣传", "视频", "ios", "音乐", "云端", "播放器", "移动应用"]
 draft: false
-aliases:
-  - /post/evermusic-promo-video/
 cascade:
   type: docs
 authors:

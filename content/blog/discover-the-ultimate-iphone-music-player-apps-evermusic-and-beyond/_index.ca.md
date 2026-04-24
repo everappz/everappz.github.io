@@ -5,8 +5,6 @@ description: "Compara les millors aplicacions de reproductor de música per a iP
 keywords: ["millor reproductor de música iPhone", "aplicació reproductor de música iOS", "Evermusic vs Spotify", "reproductor de música al núvol iPhone", "aplicació de música fora de línia iPhone", "reproductor FLAC iOS", "alternatives a Apple Music", "VLC iPhone", "reproductor de música gratuït iOS"]
 tags: ["aplicacions de música", "iOS", "Evermusic", "Apple Music", "Spotify", "VLC", "Amazon Music", "comparació", "música al núvol", "reproducció fora de línia"]
 draft: false
-aliases:
-  - /post/discover-the-ultimate-iphone-music-player-apps-evermusic-and-beyond/
 cascade:
   type: docs
 authors:

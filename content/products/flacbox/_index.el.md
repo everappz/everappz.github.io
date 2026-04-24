@@ -6,8 +6,6 @@ layout: hextra-home
 description: "Αναπαραγωγή και λήψη αρχείων FLAC, DSD, APE, ALAC στο iPhone σας. Ακούστε τη μουσική σας απευθείας από αποθηκευτικό χώρο cloud ή υπολογιστή με ισοσταθμιστή."
 keywords: ["FLAC player iPhone", "αναπαραγωγή μουσικής χωρίς απώλειες", "hi-res audio player", "DSD player iOS", "ALAC player iPhone", "offline αναπαραγωγή μουσικής iOS", "cloud music player", "streaming μουσικής από NAS", "αναπαραγωγή FLAC στο iPhone", "iPhone music player με tags", "Mac music player", "λήψη μουσικής iPhone", "ισοσταθμιστής ήχου iOS", "USB music player iPhone", "multi-cloud music player", "SMB WebDAV DLNA player", "εφαρμογή κοινής χρήσης αρχείων iTunes", "υποστήριξη AirPlay και Chromecast"]
 tags: ["FLAC player", "Hi-Res ήχος", "offline αναπαραγωγή", "cloud μουσική", "DSD ήχος", "εφαρμογές Mac", "εφαρμογές iPhone", "USB ήχος iOS", "διαχείριση μουσικών αρχείων", "ισοσταθμιστής ήχου", "επεξεργαστής μεταδεδομένων", "MP3 player", "SMB player", "Chromecast μουσική", "CarPlay music player", "υποστήριξη πολλαπλών μορφών", "streaming μουσικής", "διαχείριση βιβλιοθήκης ήχου"]
-aliases:
-  - /flacbox/
 appStoreUrl: "https://apps.apple.com/app/apple-store/id1097564256?pt=95781850&ct=everappzcom&mt=8"
 appStoreId: "1097564256"
 features: "Hi-Res αναπαραγωγή FLAC/DSD/APE/ALAC, Cloud streaming (iCloud, Google Drive, Dropbox, OneDrive, MEGA, Box), Ισοσταθμιστής ήχου με προεπιλογές, Crossfade και αδιάκοπη αναπαραγωγή, Εισαγωγή/εξαγωγή λιστών M3U, Προβολή στίχων, Σελιδοδείκτες ήχου, Apple CarPlay, AirPlay και Chromecast, Υποστήριξη SMB/WebDAV/DLNA, Αναπαραγωγή από USB flash drive, Last.fm scrobbling, Ενσωματωμένος επεξεργαστής tags"

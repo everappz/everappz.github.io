@@ -5,9 +5,6 @@ date: 2017-03-09
 readingTime: 2
 tags: ["cloud", "pemutar", "equalizer", "iPhone", "SoundCloud", "streaming", "Chromecast"]
 keywords: ["aplikasi equalizer soundcloud", "equalizer 10-band iOS", "pemutar soundy soundcloud", "aplikasi musik dengan preset", "equalizer untuk iPhone", "kecepatan pemutaran soundcloud", "aplikasi soundcloud dengan timer tidur"]
-aliases:
-  - /post/soundy-equalizer-for-soundcloud-on-the-app-store/
-  - /single-post/soundy-equalizer-for-soundcloud-on-the-app-store/
 ---
 
 {{< author-byline >}}

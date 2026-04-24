@@ -2,8 +2,6 @@
 date: '2025-06-12T17:00:00+00:00'
 draft: false
 title: 'Ліцензійна угода'
-aliases:
-  - /license-agreement/
 ---
 
 ЛІЦЕНЗІЙНА УГОДА З КІНЦЕВИМ КОРИСТУВАЧЕМ ДЛЯ ПРОДУКТІВ EVERAPPZ S.L.

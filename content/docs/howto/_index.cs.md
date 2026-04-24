@@ -4,8 +4,6 @@ draft: false
 title: 'Návody'
 description: 'Podrobné průvodce a tipy, které vám pomohou nastavit, používat a co nejlépe využít aplikace Everappz.'
 excludeSearch: true
-aliases:
-  - /post/how-to-/
 ---
 
 

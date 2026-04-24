@@ -5,9 +5,6 @@ description: "Phát nhạc từ Google Drive, Dropbox hoặc OneDrive trên iPho
 keywords: ["Evermusic", "trình phát nhạc đám mây", "ứng dụng nhạc iOS", "phát nhạc từ đám mây", "nhạc ngoại tuyến iPhone", "trình phát nhạc Google Drive", "phát nhạc Dropbox", "trình phát MP3 iPhone", "giải phóng dung lượng iPhone", "nhạc từ SMB", "phát nhạc từ bộ nhớ đám mây iOS", "trình phát nhạc không cần iTunes"]
 tags: ["âm thanh", "phát trực tuyến", "trình phát", "mp3", "tải xuống", "GoogleDrive", "Dropbox", "nhạc đám mây", "phát ngoại tuyến"]
 draft: false
-aliases:
-  - /post/evermusic-stream-your-music-from-the-cloud-and-free-up-space-on-your-iphone-or-ipad/
-  - /single-post/Evermusic-stream-your-music-from-the-cloud-and-free-up-space-on-your-iPhone-or-iPad/
 cascade:
   type: docs
 authors:

@@ -5,9 +5,6 @@ description: "Evermusic 3 milyon indirmeye ulaştı. Bulut müzik akışı, çev
 keywords: ["Evermusic indirmeler", "iOS müzik çalar", "bulut müzik uygulaması", "çevrimdışı müzik çalar iPhone", "müzik indirici iOS", "sesli kitap çalar iPhone", "ID3 etiket düzenleyici iOS", "iPhone dosya yöneticisi", "müzik ekolayzır uygulaması", "en iyi bulut müzik çalar", "NAS'tan müzik akışı iPhone"]
 tags: ["Evermusic", "indirmeler", "dönüm noktası", "müzik uygulamaları", "bulut çalar", "çevrimdışı çalar", "etiket düzenleyici", "ekolayzır", "sesli kitaplar", "dosya yöneticisi"]
 draft: false
-aliases:
-  - /post/evermusic-3-million-downloads/
-  - /single-post/Evermusic-3-million-downloads/
 cascade:
   type: docs
 authors:

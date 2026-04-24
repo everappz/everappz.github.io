@@ -5,9 +5,6 @@ description: "Evermusic osiągnął 3 miliony pobrań. Poznaj strumieniowanie mu
 keywords: ["Evermusic pobrania", "odtwarzacz muzyki iOS", "aplikacja muzyki z chmury", "odtwarzacz muzyki offline iPhone", "pobieranie muzyki iOS", "odtwarzacz audiobooków iPhone", "edytor tagów ID3 iOS", "menedżer plików iPhone", "aplikacja korektor muzyczny", "najlepszy odtwarzacz muzyki z chmury", "strumieniowanie muzyki z NAS iPhone"]
 tags: ["Evermusic", "pobrania", "kamień milowy", "aplikacje muzyczne", "odtwarzacz chmurowy", "odtwarzacz offline", "edytor tagów", "korektor", "audiobooki", "menedżer plików"]
 draft: false
-aliases:
-  - /post/evermusic-3-million-downloads/
-  - /single-post/Evermusic-3-million-downloads/
 cascade:
   type: docs
 authors:

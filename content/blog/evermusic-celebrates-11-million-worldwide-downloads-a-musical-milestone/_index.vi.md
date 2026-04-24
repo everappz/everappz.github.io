@@ -5,8 +5,6 @@ description: "Evermusic đạt 11 triệu lượt tải. Xem các tính năng gi
 keywords: ["Evermusic 11 triệu lượt tải", "trình phát nhạc đám mây tốt nhất iOS", "trình phát nhạc offline iPhone", "phát nhạc iCloud Drive", "ứng dụng bộ cân bằng 10 dải", "trình chỉnh sửa thẻ ID3 iOS", "đồng bộ trình phát nhạc Mac iPhone", "trình phát FLAC iPhone"]
 tags: ["Evermusic", "cột mốc", "nhạc đám mây", "phát offline", "iCloud Drive", "bộ cân bằng", "trình phát nhạc iOS"]
 draft: false
-aliases:
-  - /post/evermusic-celebrates-11-million-worldwide-downloads-a-musical-milestone/
 cascade:
   type: docs
 authors:

@@ -6,8 +6,6 @@ layout: hextra-home
 description: "Lisez et téléchargez des fichiers FLAC, DSD, APE, ALAC sur votre iPhone. Écoutez votre musique directement depuis le stockage cloud ou l'ordinateur avec égaliseur."
 keywords: ["Lecteur FLAC iPhone", "lecteur de musique sans perte", "lecteur audio haute résolution", "lecteur DSD iOS", "lecteur ALAC iPhone", "lecteur de musique hors ligne iOS", "lecteur de musique cloud", "diffuser musique depuis NAS", "lire FLAC sur iPhone", "lecteur de musique iPhone avec tags", "lecteur de musique Mac", "télécharger musique iPhone", "égaliseur audio iOS", "lecteur de musique USB iPhone", "lecteur de musique multi-cloud", "lecteur SMB WebDAV DLNA", "app partage de fichiers iTunes", "support AirPlay et Chromecast"]
 tags: ["Lecteur FLAC", "Audio haute résolution", "lecture hors ligne", "musique cloud", "audio DSD", "apps Mac", "apps iPhone", "audio USB iOS", "gestionnaire de fichiers musicaux", "égaliseur audio", "éditeur de métadonnées", "lecteur MP3", "lecteur SMB", "musique Chromecast", "lecteur de musique CarPlay", "support multiformat", "streaming musical", "gestionnaire de bibliothèque audio"]
-aliases:
-  - /flacbox/
 appStoreUrl: "https://apps.apple.com/app/apple-store/id1097564256?pt=95781850&ct=everappzcom&mt=8"
 appStoreId: "1097564256"
 features: "Lecture Hi-Res FLAC/DSD/APE/ALAC, Streaming cloud (iCloud, Google Drive, Dropbox, OneDrive, MEGA, Box), Égaliseur audio avec préréglages, Lecture crossfade et sans coupure, Import/export de playlists M3U, Afficheur de paroles, Signets audio, Apple CarPlay, AirPlay et Chromecast, Support SMB/WebDAV/DLNA, Lecture depuis clé USB, Scrobbling Last.fm, Éditeur de tags intégré"

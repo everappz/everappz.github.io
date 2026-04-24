@@ -5,8 +5,6 @@ description: "Dapatkan Evermusic Pro melalui Setapp Mobile. Streaming musik dari
 keywords: ["Setapp Mobile", "Evermusic Pro", "pemutar musik cloud", "streaming musik iPhone", "musik offline iOS", "aplikasi Setapp iOS", "aplikasi audiofil iPhone", "equalizer iOS", "NAS musik iPhone", "pemutar musik penyimpanan cloud", "aplikasi musik Setapp", "streaming musik dari Google Drive iPhone"]
 tags: ["evermusic", "setapp", "cloud", "audio", "mobile", "marketplace", "musik", "aplikasi ios"]
 draft: false
-aliases:
-  - /post/setapp-mobile-and-evermusic-pro/
 cascade:
   type: docs
 authors:

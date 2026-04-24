@@ -2,11 +2,6 @@
 date: '2025-06-12T17:00:00+00:00'
 draft: false
 title: 'ข้อกำหนดและเงื่อนไข'
-aliases:
-  - /terms-and-conditions/
-  - /terms-and-conditionsDec/
-  - /terms-and-condition/
-  - /terms-and-conditionsMay/
 ---
 
 EVERAPPZ S.L. เป็นเจ้าของแอปพลิเคชันต่างๆ เช่น Evermusic, Evermusic Pro, Flacbox และแอป Evertag เครื่องเล่นเพลงเหล่านี้รองรับไฟล์หลากหลายประเภท และ Evertag ให้คุณแก้ไขแท็กเสียงของไฟล์ ทั้งหมดเป็นไปตามข้อกำหนดและเงื่อนไข

@@ -6,8 +6,6 @@ layout: hextra-home
 description: "Spielen und laden Sie FLAC-, DSD-, APE-, ALAC-Dateien auf Ihrem iPhone. Hören Sie Ihre Musik direkt aus dem Cloud-Speicher oder Computer mit Equalizer."
 keywords: ["FLAC-Player iPhone", "verlustfreier Musikplayer", "Hi-Res Audioplayer", "DSD-Player iOS", "ALAC-Player iPhone", "Offline-Musikplayer iOS", "Cloud-Musikplayer", "Musik von NAS streamen", "FLAC auf iPhone abspielen", "iPhone-Musikplayer mit Tags", "Mac-Musikplayer", "Musik herunterladen iPhone", "Audio-Equalizer iOS", "USB-Musikplayer iPhone", "Multi-Cloud-Musikplayer", "SMB WebDAV DLNA-Player", "iTunes-Dateifreigabe-App", "AirPlay- und Chromecast-Unterstützung"]
 tags: ["FLAC-Player", "Hi-Res Audio", "Offline-Wiedergabe", "Cloud-Musik", "DSD-Audio", "Mac-Apps", "iPhone-Apps", "USB-Audio iOS", "Musikdateimanager", "Audio-Equalizer", "Metadaten-Editor", "MP3-Player", "SMB-Player", "Chromecast-Musik", "CarPlay-Musikplayer", "Multiformatunterstützung", "Musikstreaming", "Audiobibliothek-Manager"]
-aliases:
-  - /flacbox/
 appStoreUrl: "https://apps.apple.com/app/apple-store/id1097564256?pt=95781850&ct=everappzcom&mt=8"
 appStoreId: "1097564256"
 features: "Hi-Res FLAC/DSD/APE/ALAC-Wiedergabe, Cloud-Streaming (iCloud, Google Drive, Dropbox, OneDrive, MEGA, Box), Audio-Equalizer mit Voreinstellungen, Crossfade und lückenlose Wiedergabe, M3U-Playlist Import/Export, Textanzeige, Audio-Lesezeichen, Apple CarPlay, AirPlay und Chromecast, SMB/WebDAV/DLNA-Unterstützung, USB-Stick-Wiedergabe, Last.fm-Scrobbling, Integrierter Tag-Editor"

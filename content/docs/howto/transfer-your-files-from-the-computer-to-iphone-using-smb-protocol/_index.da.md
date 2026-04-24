@@ -5,8 +5,6 @@ date: 2022-03-17
 readingTime: 3
 tags: ["cloud", "streaming", "computer", "mp3", "file", "downloader", "manager", "pc", "mac", "sharing", "windows", "smb"]
 keywords: ["overfør filer til iPhone SMB", "stream PC-musik på iPhone", "tilslut Mac til iPhone SMB", "Evermusic SMB opsætning", "adgang til computerfiler iPhone", "Windows musikdeling iOS", "SMB filoverførsel Evermusic"]
-aliases:
-  - /post/transfer-your-files-from-the-computer-to-iphone-using-smb-protocol/
 ---
 
 {{< author-byline >}}

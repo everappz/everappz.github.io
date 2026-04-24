@@ -5,8 +5,6 @@ description: "Evermusic se conectează la 12+ servicii cloud, redă FLAC și MP3
 keywords: ["cel mai bun player muzică cloud iOS", "player muzică cloud iPhone", "redare muzică din Dropbox", "player muzică offline iPhone", "player FLAC iOS", "recenzie Evermusic", "manager bibliotecă muzică iOS", "player muzică Google Drive", "player muzică NAS iPhone", "player muzică WebDAV"]
 tags: ["Evermusic", "cloud music", "offline playback", "iOS music apps", "MP3 player", "audio", "music streaming", "guide", "FLAC", "review"]
 draft: false
-aliases:
-  - /post/best-cloud-music-player-for-ios/
 cascade:
   type: docs
 authors:

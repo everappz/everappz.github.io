@@ -5,9 +5,6 @@ description: "So sánh 7 trình phát nhạc đám mây hàng đầu cho iPhone:
 keywords: ["trình phát nhạc đám mây iPhone", "ứng dụng nhạc tốt nhất cho iPhone", "Evermusic vs Spotify", "ứng dụng nhạc ngoại tuyến iOS", "thay thế Apple Music", "phát FLAC trên iPhone", "phát trực tuyến nhạc đám mây", "trình phát âm thanh iPhone", "trình phát nhạc cho Dropbox", "phát tệp nhạc của chính mình iPhone"]
 tags: ["music", "streaming", "apps", "iOS", "cloud music", "Evermusic", "Spotify", "Apple Music", "YouTube Music", "SoundCloud", "comparison"]
 draft: false
-aliases:
-  - /post/comparing-the-best-cloud-music-players-for-iphone-in-2023/
-  - /blog/comparing-the-best-cloud-music-players-for-iphone-in-2023/
 cascade:
   type: docs
 authors:

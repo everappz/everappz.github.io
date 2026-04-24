@@ -5,8 +5,6 @@ description: "Αναπαράγετε FLAC, DSD, ALAC και 120+ μορφές ή
 keywords: ["αναπαραγωγέας μουσικής χωρίς απώλειες", "FLAC αναπαραγωγέας iOS", "DSD αναπαραγωγέας iPhone", "hi-res ήχος Mac", "εφαρμογή Flacbox", "καλύτερος FLAC αναπαραγωγέας iPhone", "offline FLAC αναπαραγωγέας", "audiophile αναπαραγωγέας μουσικής iOS", "Mac FLAC αναπαραγωγέας", "hi-res streaming iOS", "αναπαραγωγή FLAC σε iPhone", "DSD128 αναπαραγωγέας", "εφαρμογή ήχου χωρίς απώλειες"]
 tags: ["flacbox", "μουσική", "ήχος", "χωρίς απώλειες", "iphone", "mac", "flac", "dsd", "audiophile"]
 draft: false
-aliases:
-  - /post/unleash-audiophile-bliss-playing-lossless-music-on-iphone-or-mac-with-flacbox/
 cascade:
   type: docs
 authors:

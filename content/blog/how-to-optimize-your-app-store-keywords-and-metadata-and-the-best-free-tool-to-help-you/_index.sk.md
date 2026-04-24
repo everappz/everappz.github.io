@@ -12,8 +12,6 @@ tags: [
   "optimalizácia App Store", "bezplatné ASO nástroje", "optimalizácia titulu app store",
   "bezplatný ASO nástroj", "stratégia kľúčových slov app store", "optimalizátor metadát"
 ]
-aliases:
-  - /post/how-to-optimize-your-app-store-keywords-and-metadata-and-the-best-free-tool-to-help-you/
 draft: false
 sidebar:
   exclude: true

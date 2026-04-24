@@ -2,8 +2,6 @@
 date: '2025-06-12T17:00:00+00:00'
 draft: false
 title: '隐私政策'
-aliases:
-  - /privacy-policy/
 ---
 
 ## 引言

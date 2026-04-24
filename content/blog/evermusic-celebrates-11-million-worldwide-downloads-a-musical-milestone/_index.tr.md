@@ -5,8 +5,6 @@ description: "Evermusic 11 milyon indirmeye ulaştı. Onu en iyi bulut müzik ç
 keywords: ["Evermusic 11 milyon indirme", "en iyi bulut müzik çalar iOS", "çevrimdışı müzik çalar iPhone", "iCloud Drive müzik akışı", "10 bantlı ekolayzır uygulaması", "ID3 etiket düzenleyici iOS", "müzik çalar Mac iPhone senkronizasyonu", "FLAC çalar iPhone"]
 tags: ["Evermusic", "dönüm noktası", "bulut müzik", "çevrimdışı oynatma", "iCloud Drive", "ekolayzır", "iOS müzik çalar"]
 draft: false
-aliases:
-  - /post/evermusic-celebrates-11-million-worldwide-downloads-a-musical-milestone/
 cascade:
   type: docs
 authors:

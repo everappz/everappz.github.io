@@ -5,8 +5,6 @@ description: "Ottieni Evermusic Pro tramite Setapp Mobile. Riproduci musica in s
 keywords: ["Setapp Mobile", "Evermusic Pro", "lettore musicale cloud", "streaming musica iPhone", "musica offline iOS", "app Setapp iOS", "app audiofila iPhone", "equalizzatore iOS", "NAS musica iPhone", "lettore musicale archiviazione cloud", "app musica Setapp", "streaming musica da Google Drive iPhone"]
 tags: ["evermusic", "setapp", "cloud", "audio", "mobile", "marketplace", "musica", "app ios"]
 draft: false
-aliases:
-  - /post/setapp-mobile-and-evermusic-pro/
 cascade:
   type: docs
 authors:

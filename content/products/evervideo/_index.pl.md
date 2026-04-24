@@ -6,8 +6,6 @@ layout: hextra-home
 description: "Pobierz najlepszy darmowy odtwarzacz wideo na iPhone i Mac. Oglądaj filmy 360°, włączaj napisy, reguluj korektor wideo, organizuj filmy za pomocą playlist, pobieraj do trybu offline i streamuj z iCloud."
 keywords: ["odtwarzacz wideo iPhone", "odtwarzacz wideo Mac", "odtwarzacz wideo 360", "odtwarzacz wideo offline iOS", "streamowanie wideo z iCloud", "obsługa napisów iOS", "korektor wideo iPhone", "aplikacja wideo AirPlay", "odtwarzacz wideo Chromecast", "streamowanie wideo DLNA", "odtwarzacz wideo SMB WebDAV", "odtwarzacz wideo USB iPhone", "organizowanie playlist wideo", "odtwarzacz wideo Mac z napisami", "aplikacja wideo iTunes File Sharing", "darmowa aplikacja wideo iOS", "menedżer mediów do filmów", "odtwarzacz wideo wieloformatowy"]
 tags: ["odtwarzacz wideo", "odtwarzanie offline", "obsługa napisów", "streamowanie iCloud", "AirPlay", "Chromecast", "DLNA", "SMB", "WebDAV", "dostęp do wideo USB", "aplikacje iPhone", "aplikacje Mac", "organizator mediów", "wideo 360", "playlisty wideo", "udostępnianie plików", "darmowy odtwarzacz wideo", "obsługa wielu formatów"]
-aliases:
-  - /evervideo/
 appStoreUrl: "https://apps.apple.com/us/app/evervideo-hd-video-player/id6602897336?ct=everappzcom&mt=8"
 appStoreId: "6602897336"
 features: "Odtwarzanie wideo HD we wszystkich formatach (MKV, AVI, MP4, MOV, FLV, WMV, WEBM), obsługa wideo 360 stopni i VR, tryb Obraz w obrazie, Korektor wideo i audio z ponad 50 presetami, Obsługa napisów, Streamowanie z chmury (iCloud, Google Drive, Dropbox, OneDrive, MEGA), Pobieranie offline, Biblioteka mediów z playlistami, AirPlay i Chromecast, obsługa SMB/WebDAV/DLNA, Odtwarzanie z pendrive'a USB"

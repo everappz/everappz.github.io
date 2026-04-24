@@ -5,9 +5,6 @@ description: "Az Evermusic 3.1 crossfade lejátszást, újratervezett zenei kön
 keywords: ["Evermusic frissítés", "crossfade lejátszás iOS", "felhőzenei alkalmazás", "zenei biztonsági mentés alkalmazás", "hanglejátszó várólista", "zenei címkeszerkesztő", "ID3 címke frissítés", "iPod könyvtár integráció", "zenelejátszó iPhone", "crossfade zene iOS", "zenei könyvtár szinkronizálás felhő", "biztonsági mentés zenei lejátszási listák iOS"]
 tags: ["Evermusic", "crossfade", "zenei könyvtár", "biztonsági mentés", "hang várólista", "címkék", "felhőlejátszó", "offline lejátszó", "szerkesztő", "iPod könyvtár"]
 draft: false
-aliases:
-  - /post/evermusic-31-crossfade-playback/
-  - /single-post/Evermusic-Sync-your-Music-Library-Save-playback-position-Correct-music-tags/
 cascade:
   type: docs
 authors:

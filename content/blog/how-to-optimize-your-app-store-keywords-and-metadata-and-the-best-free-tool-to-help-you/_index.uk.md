@@ -4,8 +4,6 @@ date: 2025-04-30
 description: "Покроковий посібник з оптимізації ключових слів, заголовків та підзаголовків App Store. Включає безкоштовний ASO інструмент у браузері з інтеграцією Fastlane."
 keywords: ["посібник ключових слів app store", "ASO оптимізація ключових слів", "оптимізація заголовка app store", "оптимізація підзаголовка app store", "метадані app store", "як покращити рейтинг app store", "оптимізація app store", "безкоштовний ASO інструмент", "стратегія ключових слів app store", "apple app store SEO", "інструмент метаданих fastlane", "безкоштовне дослідження ключових слів app store"]
 tags: ["оптимізація App Store", "безкоштовні ASO інструменти", "оптимізація заголовка app store", "безкоштовний ASO інструмент", "стратегія ключових слів app store", "оптимізатор метаданих"]
-aliases:
-  - /post/how-to-optimize-your-app-store-keywords-and-metadata-and-the-best-free-tool-to-help-you/
 draft: false
 sidebar:
   exclude: true

@@ -5,8 +5,6 @@ description: "Mira el vídeo promocional d'Evermusic que mostra la reproducció 
 keywords: ["vídeo promocional Evermusic", "reproductor de música iOS", "aplicació de música al núvol iPhone", "demostració aplicació Evermusic", "millor reproductor de música iPhone", "reproductor de música fora de línia iOS"]
 tags: ["Evermusic", "promoció", "música", "vídeo", "música al núvol", "aplicació iOS"]
 draft: false
-aliases:
-  - /post/evermusic-be-inspired-by-music/
 sidebar:
   exclude: true
 cascade:

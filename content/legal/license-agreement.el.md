@@ -2,8 +2,6 @@
 date: '2025-06-12T17:00:00+00:00'
 draft: false
 title: 'Συμφωνία Άδειας Χρήσης'
-aliases:
-  - /license-agreement/
 ---
 
 ΣΥΜΦΩΝΙΑ ΑΔΕΙΑΣ ΧΡΗΣΗΣ ΤΕΛΙΚΟΥ ΧΡΗΣΤΗ ΓΙΑ ΠΡΟΪΟΝΤΑ ΤΗΣ EVERAPPZ S.L.

@@ -5,9 +5,6 @@ date: 2017-03-09
 readingTime: 2
 tags: ["хмара", "плеєр", "еквалайзер", "iPhone", "SoundCloud", "стрімінг", "Chromecast"]
 keywords: ["додаток еквалайзер soundcloud", "10-смуговий еквалайзер iOS", "soundy плеєр soundcloud", "музичний додаток з пресетами", "еквалайзер для iPhone", "швидкість відтворення soundcloud", "додаток soundcloud з таймером сну"]
-aliases:
-  - /post/soundy-equalizer-for-soundcloud-on-the-app-store/
-  - /single-post/soundy-equalizer-for-soundcloud-on-the-app-store/
 ---
 
 {{< author-byline >}}

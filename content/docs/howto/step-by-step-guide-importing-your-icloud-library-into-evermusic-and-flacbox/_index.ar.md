@@ -5,8 +5,6 @@ date: 2024-11-14
 readingTime: 7
 tags: ["موسيقى", "سحابة", "بث", "مزامنة", "icloud", "مكتبة"]
 keywords: ["استيراد موسيقى iCloud إلى Evermusic", "مزامنة iCloud مع Flacbox", "بث Evermusic من iCloud", "تطبيق مكتبة الموسيقى iOS", "قارئ بيانات Flacbox الوصفية", "بث موسيقى iCloud على iPhone"]
-aliases:
-  - /post/step-by-step-guide-importing-your-icloud-library-into-evermusic-and-flacbox/
 ---
 
 {{< author-byline >}}

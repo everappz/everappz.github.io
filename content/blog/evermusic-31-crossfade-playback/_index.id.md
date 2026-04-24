@@ -5,9 +5,6 @@ description: "Evermusic 3.1 menambahkan pemutaran crossfade, perpustakaan musik 
 keywords: ["pembaruan Evermusic", "crossfade pemutaran iOS", "aplikasi musik cloud", "aplikasi cadangan musik", "antrean pemutar audio", "editor tag musik", "pembaruan tag ID3", "integrasi perpustakaan iPod", "pemutar musik iPhone", "crossfade musik iOS", "sinkronisasi perpustakaan musik cloud", "cadangan daftar putar musik iOS"]
 tags: ["Evermusic", "crossfade", "perpustakaan musik", "cadangan", "antrean audio", "tag", "pemutar cloud", "pemutar offline", "editor", "perpustakaan iPod"]
 draft: false
-aliases:
-  - /post/evermusic-31-crossfade-playback/
-  - /single-post/Evermusic-Sync-your-Music-Library-Save-playback-position-Correct-music-tags/
 cascade:
   type: docs
 authors:

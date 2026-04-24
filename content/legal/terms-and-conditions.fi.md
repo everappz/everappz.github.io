@@ -2,11 +2,6 @@
 date: '2025-06-12T17:00:00+00:00'
 draft: false
 title: 'Käyttöehdot'
-aliases:
-  - /terms-and-conditions/
-  - /terms-and-conditionsDec/
-  - /terms-and-condition/
-  - /terms-and-conditionsMay/
 ---
 
 EVERAPPZ S.L. on sovellusten, kuten Evermusic, Evermusic Pro, Flacbox ja Evertag-sovelluksen omistaja. Nämä musiikkisoittimet tukevat erilaisia tiedostotyyppejä, ja Evertag mahdollistaa äänitunnisteiden muokkaamisen tiedostoillesi, kaikki käyttöehtojen mukaisesti.

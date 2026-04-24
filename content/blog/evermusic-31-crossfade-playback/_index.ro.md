@@ -5,9 +5,6 @@ description: "Evermusic 3.1 adaugă redare crossfade, o bibliotecă muzicală re
 keywords: ["Actualizare Evermusic", "redare crossfade iOS", "aplicație muzică cloud", "aplicație backup muzică", "coadă player audio", "editor taguri muzică", "actualizare taguri ID3", "integrare bibliotecă iPod", "player muzică iPhone", "crossfade muzică iOS", "sincronizare bibliotecă muzicală cloud", "backup playlisturi muzică iOS"]
 tags: ["Evermusic", "crossfade", "bibliotecă muzicală", "backup", "coadă audio", "taguri", "player cloud", "player offline", "editor", "bibliotecă iPod"]
 draft: false
-aliases:
-  - /post/evermusic-31-crossfade-playback/
-  - /single-post/Evermusic-Sync-your-Music-Library-Save-playback-position-Correct-music-tags/
 cascade:
   type: docs
 authors:

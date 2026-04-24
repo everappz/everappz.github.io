@@ -6,8 +6,6 @@ layout: hextra-home
 description: "Töltse le a legjobb ingyenes videólejátszót iPhone-jára és Mac-jére. Nézzen 360°-os videókat, aktiváljon feliratokat, állítsa be a videó hangszínszabályzót, rendezze videóit lejátszási listákkal, töltse le offline megtekintéshez és streamelj az iCloudból."
 keywords: ["videólejátszó iPhone", "videólejátszó Mac", "360 videólejátszó", "offline videólejátszó iOS", "videók streamelése iCloudból", "felirat támogatás iOS", "videó hangszínszabályzó iPhone", "AirPlay videó alkalmazás", "Chromecast videólejátszó", "DLNA videó streaming", "SMB WebDAV videólejátszó", "USB videólejátszó iPhone", "videó lejátszási listák rendezése", "Mac videólejátszó feliratokkal", "iTunes fájlmegosztás videó alkalmazás", "ingyenes videó alkalmazás iOS", "médiakezelő videókhoz", "több formátumú videólejátszó"]
 tags: ["videólejátszó", "offline lejátszás", "felirat támogatás", "iCloud streaming", "AirPlay", "Chromecast", "DLNA", "SMB", "WebDAV", "USB videó hozzáférés", "iPhone alkalmazások", "Mac alkalmazások", "médiaszervező", "360 videó", "videó lejátszási listák", "fájlmegosztás", "ingyenes videólejátszó", "több formátum támogatás"]
-aliases:
-  - /evervideo/
 appStoreUrl: "https://apps.apple.com/us/app/evervideo-hd-video-player/id6602897336?ct=everappzcom&mt=8"
 appStoreId: "6602897336"
 features: "HD videólejátszás minden formátumban (MKV, AVI, MP4, MOV, FLV, WMV, WEBM), 360 fokos és VR videó támogatás, Kép a képben mód, Videó és audio hangszínszabályzó 50+ előbeállítással, Felirat támogatás, Felhő streaming (iCloud, Google Drive, Dropbox, OneDrive, MEGA), Offline letöltés, Médiatár lejátszási listákkal, AirPlay és Chromecast, SMB/WebDAV/DLNA támogatás, USB flash meghajtó lejátszás"

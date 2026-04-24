@@ -6,8 +6,6 @@ layout: hextra-home
 description: "Töltsd le a legjobb ingyenes offline zenelejátszót iPhone-ra és Mac-re, és hallgasd a zenédet bárhol."
 keywords: ["Evermusic", "offline zenelejátszó", "iOS audiolejátszó", "felhő zenei alkalmazás", "zene letöltés iPhone", "Mac zenelejátszó", "zene streaming offline", "FLAC lejátszó iPhone", "multi-felhő zenelejátszó", "Evermusic alkalmazás funkciók"]
 tags: ["Evermusic", "offline lejátszás", "felhő zene", "MP3 lejátszó", "iPhone alkalmazások", "audio streaming", "zenekezelés", "Mac alkalmazások", "médialejátszó"]
-aliases:
-  - /evermusic/
 appStoreUrl: "https://apps.apple.com/app/apple-store/id885367198?pt=95781850&ct=everappzcom&mt=8"
 appStoreId: "885367198"
 features: "Offline zenelejátszás, Felhő streaming (iCloud, Google Drive, Dropbox, OneDrive, MEGA, Box), Audio hangszínszabályzó előbeállításokkal, Crossfade és szünetmentes lejátszás, M3U lejátszási lista importálás/exportálás, Dalszöveg megjelenítő, Audio könyvjelzők, Apple CarPlay, AirPlay és Chromecast, SMB/WebDAV/DLNA támogatás, USB flash meghajtó lejátszás, Last.fm scrobbling"

@@ -5,8 +5,6 @@ description: "Putar FLAC, DSD, ALAC, dan 120+ format audio di iPhone dan Mac den
 keywords: ["pemutar musik lossless", "pemutar FLAC iOS", "pemutar DSD iPhone", "audio hi-res Mac", "aplikasi Flacbox", "pemutar FLAC terbaik iPhone", "pemutar FLAC offline", "pemutar musik audiofil iOS", "pemutar FLAC Mac", "streaming hi-res iOS", "putar FLAC di iPhone", "pemutar DSD128", "aplikasi audio lossless"]
 tags: ["flacbox", "musik", "audio", "lossless", "iphone", "mac", "flac", "dsd", "audiofil"]
 draft: false
-aliases:
-  - /post/unleash-audiophile-bliss-playing-lossless-music-on-iphone-or-mac-with-flacbox/
 cascade:
   type: docs
 authors:

@@ -5,9 +5,6 @@ date: 2017-03-09
 readingTime: 2
 tags: ["سحابة", "مشغل", "معادل صوت", "iPhone", "SoundCloud", "بث", "Chromecast"]
 keywords: ["تطبيق معادل صوت soundcloud", "معادل صوت 10 نطاقات iOS", "مشغل soundy soundcloud", "تطبيق موسيقى مع إعدادات مسبقة", "معادل صوت لـ iPhone", "سرعة التشغيل soundcloud", "تطبيق soundcloud مع مؤقت النوم"]
-aliases:
-  - /post/soundy-equalizer-for-soundcloud-on-the-app-store/
-  - /single-post/soundy-equalizer-for-soundcloud-on-the-app-store/
 ---
 
 {{< author-byline >}}

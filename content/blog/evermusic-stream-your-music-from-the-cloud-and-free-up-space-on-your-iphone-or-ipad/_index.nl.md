@@ -5,9 +5,6 @@ description: "Stream muziek vanuit Google Drive, Dropbox of OneDrive op iPhone e
 keywords: ["Evermusic", "cloud muziekspeler", "iOS muziek-app", "muziek streamen vanuit cloud", "offline muziek iPhone", "Google Drive muziekspeler", "Dropbox muziek streamen", "MP3-speler iPhone", "ruimte vrijmaken iPhone", "muziek via SMB", "muziek afspelen vanuit cloudopslag iOS", "muziekspeler zonder iTunes"]
 tags: ["audio", "streaming", "speler", "mp3", "downloader", "GoogleDrive", "Dropbox", "cloudmuziek", "offline afspelen"]
 draft: false
-aliases:
-  - /post/evermusic-stream-your-music-from-the-cloud-and-free-up-space-on-your-iphone-or-ipad/
-  - /single-post/Evermusic-stream-your-music-from-the-cloud-and-free-up-space-on-your-iPhone-or-iPad/
 cascade:
   type: docs
 authors:

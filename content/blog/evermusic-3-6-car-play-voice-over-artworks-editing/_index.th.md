@@ -5,8 +5,6 @@ description: "Evermusic 3.6 เพิ่มการรองรับ CarPlay, 
 keywords: ["Evermusic CarPlay", "เครื่องเล่นเพลง CarPlay iPhone", "แอปเพลง VoiceOver iOS", "โปรแกรมแก้ไขแท็ก FLAC iPhone", "แก้ไขปกอัลบั้ม iOS", "นำเข้าเพลงจาก iCloud Drive", "การเข้าถึงเครื่องเล่นเสียง iOS", "เอาต์พุตเสียงแบบผสม iPhone"]
 tags: ["Evermusic", "CarPlay", "VoiceOver", "การเข้าถึง", "iCloud Drive", "โปรแกรมแก้ไขแท็ก", "แก้ไขปกอัลบั้ม", "อัปเดต iOS"]
 draft: false
-aliases:
-  - /post/evermusic-3-6-car-play-voice-over-artworks-editing/
 cascade:
   type: docs
 authors:

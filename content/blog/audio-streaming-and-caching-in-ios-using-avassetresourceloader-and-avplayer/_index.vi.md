@@ -5,9 +5,6 @@ description: "Tìm hiểu cách phát trực tuyến và lưu bộ nhớ đệm 
 keywords: ["phát trực tuyến âm thanh iOS", "AVAssetResourceLoaderDelegate", "AVURLAsset", "hướng dẫn AVPlayer", "AVFoundation âm thanh", "AVAssetResourceLoadingRequest", "trình phát âm thanh tùy chỉnh iOS", "phát trực tuyến âm thanh đám mây iOS", "lưu bộ nhớ đệm âm thanh iOS", "Swift AVPlayer scheme tùy chỉnh"]
 tags: ["streaming", "AVPlayer", "AVFoundation", "iOS", "AVAssetResourceLoader", "tutorial", "Objective-C", "audio caching"]
 draft: false
-aliases:
-  - /post/audio-streaming-and-caching-in-ios-using-avassetresourceloader-and-avplayer/
-  - /single-post/Audio-Streaming-and-Caching-in-iOS-using-AVAssetResourceLoader-and-AVPlayer/
 cascade:
   type: docs
 authors:

@@ -5,8 +5,6 @@ description: "Evermusic 2.3, otomatik bulut müzik senkronizasyonu, sesli kitapl
 keywords: ["Evermusic", "bulut müzik çalar", "müzik senkronizasyonu iOS", "oynatma konumunu kaydet", "sesli kitap oynatma", "meta veri okuyucu", "ID3 etiketlerini düzelt", "buluttan müzik yayını", "Dropbox müzik uygulaması", "Google Drive oynatıcı", "otomatik müzik kütüphanesi senkronizasyonu", "sesli kitap konumu kaydetme iOS"]
 tags: ["evermusic", "müzik", "oynatma", "yönetici", "düzenleyici", "senkronizasyon", "konum", "id3etiketleri", "bulut", "yenilikler"]
 draft: false
-aliases:
-  - /post/evermusic-sync-your-music-library-save-playback-position-correct-music-tags/
 cascade:
   type: docs
 authors:

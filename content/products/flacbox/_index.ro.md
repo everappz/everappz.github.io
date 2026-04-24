@@ -6,8 +6,6 @@ layout: hextra-home
 description: "Redați și descărcați fișiere FLAC, DSD, APE, ALAC pe iPhone-ul dvs. Ascultați muzica direct din stocarea cloud sau de pe computer cu egalizator."
 keywords: ["player FLAC iPhone", "player muzică lossless", "player audio hi-res", "player DSD iOS", "player ALAC iPhone", "player muzică offline iOS", "player muzică cloud", "streaming muzică de pe NAS", "redare FLAC pe iPhone", "player muzică iPhone cu taguri", "player muzică Mac", "descărcare muzică iPhone", "egalizator audio iOS", "player muzică USB iPhone", "player multi-cloud", "player SMB WebDAV DLNA", "aplicație partajare fișiere iTunes", "suport AirPlay și Chromecast"]
 tags: ["player FLAC", "audio Hi-Res", "redare offline", "muzică cloud", "audio DSD", "aplicații Mac", "aplicații iPhone", "audio USB iOS", "manager fișiere muzicale", "egalizator audio", "editor metadate", "player MP3", "player SMB", "muzică Chromecast", "player muzică CarPlay", "suport multi-format", "streaming muzică", "manager bibliotecă audio"]
-aliases:
-  - /flacbox/
 appStoreUrl: "https://apps.apple.com/app/apple-store/id1097564256?pt=95781850&ct=everappzcom&mt=8"
 appStoreId: "1097564256"
 features: "Redare Hi-Res FLAC/DSD/APE/ALAC, Streaming cloud (iCloud, Google Drive, Dropbox, OneDrive, MEGA, Box), Egalizator audio cu presetări, Crossfade și redare fără pauze, Import/export playlist M3U, Vizualizator versuri, Marcaje audio, Apple CarPlay, AirPlay și Chromecast, Suport SMB/WebDAV/DLNA, Redare de pe unitate flash USB, Scrobbling Last.fm, Editor de taguri integrat"

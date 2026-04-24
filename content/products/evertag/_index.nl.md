@@ -6,9 +6,6 @@ layout: hextra-home
 description: "Houd je muziekbibliotheek georganiseerd. Vind ontbrekende tags. Batch bewerking. Wijzig albumhoezen en nog veel meer."
 keywords: ["Evertag", "audio tag editor", "ID3 tag beheerder", "muziek metadata bewerken", "FLAC tag editor", "muziek organisatie app", "MP3 metadata editor", "iOS muziek tag editor", "Mac audio tag app", "muziekbestanden hernoemen"]
 tags: ["Evertag", "ID3 tags", "muziek metadata", "audio tag editor", "MP3 editor", "FLAC tagging", "iPhone hulpmiddelen", "Mac muziek tools", "muziekbibliotheek beheer"]
-aliases:
-  - /evertag/
-  - /mp3tag/
 appStoreUrl: "https://apps.apple.com/app/apple-store/id1450763230?pt=95781850&ct=everappzcom&mt=8"
 appStoreId: "1450763230"
 features: "Bewerk 120+ audiotags, Batch tag bewerking, Albumhoes zoeker, 30+ audioformaten ondersteuning, Automatische tag zoeker via MusicBrainz, Coderingsproblemen oplossen, Cloud en USB toegang, Wi-Fi muziekoverdracht, Ingebouwde bestandsbeheerder, Songtekst editor"

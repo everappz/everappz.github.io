@@ -5,8 +5,6 @@ description: "Az Evermusic 2.3 automatikus felhőzenei szinkronizálást, hangos
 keywords: ["Evermusic", "felhő zenelejátszó", "zeneszinkronizálás iOS", "lejátszási pozíció mentése", "hangoskönyv lejátszás", "metaadat-olvasó", "ID3 címkék javítása", "zene streamelése felhőből", "zenei alkalmazás Dropboxhoz", "Google Drive lejátszó", "automatikus zenei könyvtár szinkronizálás", "hangoskönyv pozíció mentés iOS"]
 tags: ["evermusic", "zene", "lejátszás", "kezelő", "szerkesztő", "szinkronizálás", "pozíció", "id3 címkék", "felhő", "újdonságok"]
 draft: false
-aliases:
-  - /post/evermusic-sync-your-music-library-save-playback-position-correct-music-tags/
 cascade:
   type: docs
 authors:

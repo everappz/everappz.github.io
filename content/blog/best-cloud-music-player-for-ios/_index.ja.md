@@ -5,8 +5,6 @@ description: "Evermusicは12以上のクラウドサービスに接続し、FLAC
 keywords: ["最高のクラウド音楽プレイヤー iOS", "クラウド音楽プレイヤー iPhone", "Dropboxから音楽を再生", "オフライン音楽プレイヤー iPhone", "FLACプレイヤー iOS", "Evermusic レビュー", "音楽ライブラリマネージャー iOS", "Google Drive 音楽プレイヤー", "NAS 音楽プレイヤー iPhone", "WebDAV 音楽プレイヤー"]
 tags: ["Evermusic", "cloud music", "offline playback", "iOS music apps", "MP3 player", "audio", "music streaming", "guide", "FLAC", "review"]
 draft: false
-aliases:
-  - /post/best-cloud-music-player-for-ios/
 cascade:
   type: docs
 authors:

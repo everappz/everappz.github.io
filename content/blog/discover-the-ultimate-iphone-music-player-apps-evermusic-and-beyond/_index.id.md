@@ -5,8 +5,6 @@ description: "Bandingkan aplikasi pemutar musik iPhone terbaik: Evermusic, Apple
 keywords: ["pemutar musik iPhone terbaik", "aplikasi pemutar musik iOS", "Evermusic vs Spotify", "pemutar musik cloud iPhone", "aplikasi musik offline iPhone", "pemutar FLAC iOS", "alternatif Apple Music", "VLC iPhone", "pemutar musik gratis iOS"]
 tags: ["aplikasi musik", "iOS", "Evermusic", "Apple Music", "Spotify", "VLC", "Amazon Music", "perbandingan", "musik cloud", "pemutaran offline"]
 draft: false
-aliases:
-  - /post/discover-the-ultimate-iphone-music-player-apps-evermusic-and-beyond/
 cascade:
   type: docs
 authors:

@@ -5,9 +5,6 @@ description: "Compară 7 playere de muzică din cloud pentru iPhone: Apple Music
 keywords: ["player muzică cloud iPhone", "cele mai bune aplicații de muzică pentru iPhone", "Evermusic vs Spotify", "aplicație muzică offline iOS", "alternativă Apple Music", "redare FLAC pe iPhone", "streaming muzică cloud", "player audio iPhone", "player muzică pentru Dropbox", "redare fișiere muzică proprii iPhone"]
 tags: ["music", "streaming", "apps", "iOS", "cloud music", "Evermusic", "Spotify", "Apple Music", "YouTube Music", "SoundCloud", "comparison"]
 draft: false
-aliases:
-  - /post/comparing-the-best-cloud-music-players-for-iphone-in-2023/
-  - /blog/comparing-the-best-cloud-music-players-for-iphone-in-2023/
 cascade:
   type: docs
 authors:

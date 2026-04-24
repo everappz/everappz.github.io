@@ -5,8 +5,6 @@ date: 2024-11-14
 readingTime: 7
 tags: ["음악", "클라우드", "스트리밍", "동기화", "icloud", "라이브러리"]
 keywords: ["iCloud 음악 가져오기 Evermusic", "Flacbox iCloud 동기화", "Evermusic iCloud에서 스트리밍", "음악 라이브러리 iOS 앱", "Flacbox 메타데이터 리더", "iCloud 음악 스트리밍 iPhone"]
-aliases:
-  - /post/step-by-step-guide-importing-your-icloud-library-into-evermusic-and-flacbox/
 ---
 
 {{< author-byline >}}

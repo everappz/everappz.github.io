@@ -6,8 +6,6 @@ layout: hextra-home
 description: "Ladda ner den bästa gratis offline musikspelaren för iPhone och Mac och lyssna på din musik överallt."
 keywords: ["Evermusic", "offline musikspelare", "iOS ljudspelare", "molnmusikapp", "ladda ner musik iPhone", "musikspelare Mac", "strömma musik offline", "FLAC-spelare iPhone", "multi-moln musikspelare", "Evermusic appfunktioner"]
 tags: ["Evermusic", "offline uppspelning", "molnmusik", "MP3-spelare", "iPhone-appar", "ljudströmning", "musikhantering", "Mac-appar", "mediaspelare"]
-aliases:
-  - /evermusic/
 appStoreUrl: "https://apps.apple.com/app/apple-store/id885367198?pt=95781850&ct=everappzcom&mt=8"
 appStoreId: "885367198"
 features: "Offline musikuppspelning, Molnströmning (iCloud, Google Drive, Dropbox, OneDrive, MEGA, Box), Ljudequalizer med förinställningar, Crossfade och sömlös uppspelning, M3U-spellistimport/export, Texttittare, Ljudbokmärken, Apple CarPlay, AirPlay och Chromecast, SMB/WebDAV/DLNA-stöd, USB-minnesuppspelning, Last.fm-scrobbling"

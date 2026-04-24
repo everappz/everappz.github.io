@@ -5,9 +5,6 @@ description: "Streaming musik dari Google Drive, Dropbox, atau OneDrive di iPhon
 keywords: ["Evermusic", "pemutar musik cloud", "aplikasi musik iOS", "streaming musik dari cloud", "musik offline iPhone", "pemutar musik Google Drive", "streaming musik Dropbox", "pemutar MP3 iPhone", "bebaskan ruang iPhone", "musik dari SMB", "putar musik dari penyimpanan cloud iOS", "pemutar musik tanpa iTunes"]
 tags: ["audio", "streaming", "pemutar", "mp3", "pengunduh", "GoogleDrive", "Dropbox", "musik cloud", "pemutaran offline"]
 draft: false
-aliases:
-  - /post/evermusic-stream-your-music-from-the-cloud-and-free-up-space-on-your-iphone-or-ipad/
-  - /single-post/Evermusic-stream-your-music-from-the-cloud-and-free-up-space-on-your-iPhone-or-iPad/
 cascade:
   type: docs
 authors:

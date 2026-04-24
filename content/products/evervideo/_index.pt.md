@@ -6,8 +6,6 @@ layout: hextra-home
 description: "Baixe o melhor reprodutor de vídeo gratuito para seu iPhone e Mac. Assista vídeos 360°, ative legendas, ajuste o equalizador de vídeo, organize seus vídeos com playlists, baixe para offline e transmita do iCloud."
 keywords: ["reprodutor de vídeo iPhone", "reprodutor de vídeo Mac", "reprodutor de vídeo 360", "reprodutor de vídeo offline iOS", "transmitir vídeos do iCloud", "suporte a legendas iOS", "equalizador de vídeo iPhone", "app de vídeo AirPlay", "reprodutor de vídeo Chromecast", "streaming de vídeo DLNA", "reprodutor de vídeo SMB WebDAV", "reprodutor de vídeo USB iPhone", "organizar playlists de vídeo", "reprodutor de vídeo Mac com legendas", "app de vídeo Compartilhamento de Arquivos iTunes", "app de vídeo gratuito iOS", "gerenciador de mídia para vídeos", "reprodutor de vídeo multiformato"]
 tags: ["reprodutor de vídeo", "reprodução offline", "suporte a legendas", "streaming iCloud", "AirPlay", "Chromecast", "DLNA", "SMB", "WebDAV", "acesso a vídeo USB", "apps iPhone", "apps Mac", "organizador de mídia", "vídeo 360", "playlists de vídeo", "compartilhamento de arquivos", "reprodutor de vídeo gratuito", "suporte multiformato"]
-aliases:
-  - /evervideo/
 appStoreUrl: "https://apps.apple.com/us/app/evervideo-hd-video-player/id6602897336?ct=everappzcom&mt=8"
 appStoreId: "6602897336"
 features: "Reprodução de vídeo HD em todos os formatos (MKV, AVI, MP4, MOV, FLV, WMV, WEBM), suporte a vídeo 360 graus e VR, modo Picture-in-Picture, Equalizador de vídeo e áudio com mais de 50 predefinições, Suporte a legendas, Streaming na nuvem (iCloud, Google Drive, Dropbox, OneDrive, MEGA), Download offline, Biblioteca de mídia com playlists, AirPlay e Chromecast, suporte SMB/WebDAV/DLNA, Reprodução de pen drive USB"

@@ -10,8 +10,6 @@ layout: hextra-home
 description: "Több ezer ügyfél használja a Soundy-t alapértelmezett SoundCloud-lejátszóként iPhone-on. Szerezze meg a legjobb hangminőséget, hangszínszabályzót és még sok mást."
 keywords: ["Soundy", "SoundCloud lejátszó iPhone", "iOS zenei hangszínszabályzó", "hangszínszabályzó SoundCloudhoz", "SoundCloud offline lejátszó", "hangminőség-javító iOS", "SoundCloud EQ alkalmazás", "legjobb SoundCloud kliens iPhone", "iPhone zenei alkalmazások", "alternatív SoundCloud lejátszó"]
 tags: ["Soundy", "SoundCloud", "iOS alkalmazások", "zenei hangszínszabályzó", "audiolejátszó", "offline lejátszás", "zenei alkalmazás iPhone", "megszűnt alkalmazások", "médialejátszó", "zenei streaming"]
-aliases:
-  - /soundy/
 ---
 
 <div class="hx:w-full hx:max-w-screen-lg hx:mx-auto hx:flex hx:flex-col hx:items-center hx:justify-center hx:text-center">

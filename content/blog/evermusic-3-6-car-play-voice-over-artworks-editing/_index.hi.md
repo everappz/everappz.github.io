@@ -5,8 +5,6 @@ description: "Evermusic 3.6 में CarPlay सपोर्ट, VoiceOver ए�
 keywords: ["Evermusic CarPlay", "म्यूजिक प्लेयर CarPlay iPhone", "VoiceOver म्यूजिक ऐप iOS", "FLAC टैग एडिटर iPhone", "एल्बम आर्टवर्क एडिट iOS", "iCloud Drive म्यूजिक इम्पोर्ट", "ऑडियो प्लेयर एक्सेसिबिलिटी iOS", "मिक्स्ड ऑडियो आउटपुट iPhone"]
 tags: ["Evermusic", "CarPlay", "VoiceOver", "एक्सेसिबिलिटी", "iCloud Drive", "टैग एडिटर", "आर्टवर्क एडिटिंग", "iOS अपडेट"]
 draft: false
-aliases:
-  - /post/evermusic-3-6-car-play-voice-over-artworks-editing/
 cascade:
   type: docs
 authors:

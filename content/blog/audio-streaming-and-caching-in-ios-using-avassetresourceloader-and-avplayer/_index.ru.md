@@ -5,9 +5,6 @@ description: "Узнайте, как организовать потоковое
 keywords: ["потоковое аудио iOS", "AVAssetResourceLoaderDelegate", "AVURLAsset", "руководство AVPlayer", "AVFoundation аудио", "AVAssetResourceLoadingRequest", "пользовательский аудиоплеер iOS", "потоковое аудио из облака iOS", "кэширование аудио iOS", "Swift AVPlayer пользовательская схема"]
 tags: ["streaming", "AVPlayer", "AVFoundation", "iOS", "AVAssetResourceLoader", "tutorial", "Objective-C", "audio caching"]
 draft: false
-aliases:
-  - /post/audio-streaming-and-caching-in-ios-using-avassetresourceloader-and-avplayer/
-  - /single-post/Audio-Streaming-and-Caching-in-iOS-using-AVAssetResourceLoader-and-AVPlayer/
 cascade:
   type: docs
 authors:

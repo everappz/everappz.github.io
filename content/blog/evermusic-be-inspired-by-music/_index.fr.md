@@ -5,8 +5,6 @@ description: "Regardez la vidéo promotionnelle d'Evermusic présentant le strea
 keywords: ["vidéo promo Evermusic", "lecteur musique iOS", "application musique cloud iPhone", "démo application Evermusic", "meilleur lecteur musique iPhone", "lecteur musique hors ligne iOS"]
 tags: ["Evermusic", "promo", "musique", "vidéo", "musique cloud", "application iOS"]
 draft: false
-aliases:
-  - /post/evermusic-be-inspired-by-music/
 sidebar:
   exclude: true
 cascade:

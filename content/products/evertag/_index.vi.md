@@ -6,9 +6,6 @@ layout: hextra-home
 description: "Giữ thư viện nhạc của bạn ngăn nắp. Tìm các thẻ bị thiếu. Chỉnh sửa hàng loạt. Thay đổi bìa album và nhiều hơn nữa."
 keywords: ["Evertag", "trình chỉnh sửa thẻ âm thanh", "quản lý thẻ ID3", "chỉnh sửa siêu dữ liệu nhạc", "trình chỉnh sửa thẻ FLAC", "ứng dụng tổ chức nhạc", "trình chỉnh sửa siêu dữ liệu MP3", "trình chỉnh sửa thẻ nhạc iOS", "ứng dụng thẻ âm thanh Mac", "đổi tên tệp nhạc"]
 tags: ["Evertag", "thẻ ID3", "siêu dữ liệu nhạc", "trình chỉnh sửa thẻ âm thanh", "trình chỉnh sửa MP3", "gắn thẻ FLAC", "công cụ iPhone", "công cụ nhạc Mac", "quản lý thư viện nhạc"]
-aliases:
-  - /evertag/
-  - /mp3tag/
 appStoreUrl: "https://apps.apple.com/app/apple-store/id1450763230?pt=95781850&ct=everappzcom&mt=8"
 appStoreId: "1450763230"
 features: "Chỉnh sửa hơn 120 thẻ âm thanh, Chỉnh sửa thẻ hàng loạt, Tìm bìa album, Hỗ trợ hơn 30 định dạng âm thanh, Tự động tìm thẻ qua MusicBrainz, Sửa lỗi mã hóa, Truy cập đám mây và USB, Truyền nhạc qua Wi-Fi, Trình quản lý tệp tích hợp, Trình chỉnh sửa lời bài hát"

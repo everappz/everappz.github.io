@@ -5,8 +5,6 @@ description: "Відтворюйте FLAC, DSD, ALAC та 120+ аудіо фор
 keywords: ["безвтратний музичний програвач", "FLAC програвач iOS", "DSD програвач iPhone", "hi-res аудіо Mac", "додаток Flacbox", "найкращий FLAC програвач iPhone", "офлайн FLAC програвач", "аудіофільський програвач iOS", "Mac FLAC програвач", "hi-res потокове відтворення iOS", "відтворення FLAC на iPhone", "DSD128 програвач", "безвтратний аудіо додаток"]
 tags: ["flacbox", "музика", "аудіо", "безвтратний", "iphone", "mac", "flac", "dsd", "аудіофіл"]
 draft: false
-aliases:
-  - /post/unleash-audiophile-bliss-playing-lossless-music-on-iphone-or-mac-with-flacbox/
 cascade:
   type: docs
 authors:

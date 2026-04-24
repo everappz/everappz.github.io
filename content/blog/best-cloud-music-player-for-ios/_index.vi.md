@@ -5,8 +5,6 @@ description: "Evermusic kết nối với 12+ dịch vụ đám mây, phát FLAC
 keywords: ["trình phát nhạc đám mây iOS tốt nhất", "trình phát nhạc đám mây iPhone", "phát nhạc từ Dropbox", "trình phát nhạc ngoại tuyến iPhone", "trình phát FLAC iOS", "đánh giá Evermusic", "quản lý thư viện nhạc iOS", "trình phát nhạc Google Drive", "trình phát nhạc NAS iPhone", "trình phát nhạc WebDAV"]
 tags: ["Evermusic", "cloud music", "offline playback", "iOS music apps", "MP3 player", "audio", "music streaming", "guide", "FLAC", "review"]
 draft: false
-aliases:
-  - /post/best-cloud-music-player-for-ios/
 cascade:
   type: docs
 authors:

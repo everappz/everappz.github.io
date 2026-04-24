@@ -5,8 +5,6 @@ description: "Phát FLAC, DSD, ALAC và hơn 120 định dạng âm thanh trên 
 keywords: ["trình phát nhạc lossless", "trình phát FLAC iOS", "trình phát DSD iPhone", "hi-res audio Mac", "ứng dụng Flacbox", "trình phát FLAC tốt nhất iPhone", "trình phát FLAC ngoại tuyến", "trình phát nhạc audiophile iOS", "Mac trình phát FLAC", "hi-res streaming iOS", "phát FLAC trên iPhone", "trình phát DSD128", "ứng dụng âm thanh lossless"]
 tags: ["flacbox", "nhạc", "âm thanh", "lossless", "iphone", "mac", "flac", "dsd", "audiophile"]
 draft: false
-aliases:
-  - /post/unleash-audiophile-bliss-playing-lossless-music-on-iphone-or-mac-with-flacbox/
 cascade:
   type: docs
 authors:

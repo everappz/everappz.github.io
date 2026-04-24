@@ -5,8 +5,6 @@ description: "Evermusic 2.3 menambahkan sinkronisasi musik cloud otomatis, penyi
 keywords: ["Evermusic", "pemutar musik cloud", "sinkronisasi musik iOS", "simpan posisi pemutaran", "pemutaran buku audio", "pembaca metadata", "perbaiki tag ID3", "streaming musik dari cloud", "aplikasi musik untuk Dropbox", "pemutar Google Drive", "sinkronisasi otomatis perpustakaan musik", "simpan posisi buku audio iOS"]
 tags: ["evermusic", "musik", "pemutaran", "pengelola", "editor", "sinkronisasi", "posisi", "tag id3", "cloud", "apa yang baru"]
 draft: false
-aliases:
-  - /post/evermusic-sync-your-music-library-save-playback-position-correct-music-tags/
 cascade:
   type: docs
 authors:

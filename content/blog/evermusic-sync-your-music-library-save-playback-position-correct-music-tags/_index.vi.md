@@ -5,8 +5,6 @@ description: "Evermusic 2.3 bổ sung đồng bộ nhạc đám mây tự độn
 keywords: ["Evermusic", "trình phát nhạc đám mây", "đồng bộ nhạc iOS", "lưu vị trí phát", "phát sách nói", "trình đọc metadata", "sửa thẻ ID3", "phát nhạc từ đám mây", "ứng dụng nhạc cho Dropbox", "trình phát Google Drive", "đồng bộ thư viện nhạc tự động", "lưu vị trí sách nói iOS"]
 tags: ["evermusic", "nhạc", "phát lại", "quản lý", "chỉnh sửa", "đồng bộ", "vị trí", "thẻid3", "đám mây", "có gì mới"]
 draft: false
-aliases:
-  - /post/evermusic-sync-your-music-library-save-playback-position-correct-music-tags/
 cascade:
   type: docs
 authors:

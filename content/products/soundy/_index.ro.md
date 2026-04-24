@@ -10,8 +10,6 @@ layout: hextra-home
 description: "Mii de clienți folosesc Soundy ca player SoundCloud implicit pe iPhone. Obțineți calitate audio supremă, egalizator și multe altele."
 keywords: ["Soundy", "player SoundCloud iPhone", "egalizator muzică iOS", "egalizator pentru SoundCloud", "player SoundCloud offline", "amplificator calitate audio iOS", "aplicație SoundCloud EQ", "cel mai bun client SoundCloud iPhone", "aplicații muzică iPhone", "player alternativ SoundCloud"]
 tags: ["Soundy", "SoundCloud", "aplicații iOS", "egalizator muzică", "player audio", "redare offline", "aplicație muzică iPhone", "aplicații retrase", "player media", "streaming muzical"]
-aliases:
-  - /soundy/
 ---
 
 <div class="hx:w-full hx:max-w-screen-lg hx:mx-auto hx:flex hx:flex-col hx:items-center hx:justify-center hx:text-center">

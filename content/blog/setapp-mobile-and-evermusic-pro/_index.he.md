@@ -5,8 +5,6 @@ description: "קבלו Evermusic Pro דרך Setapp Mobile. הזרימו מוזי
 keywords: ["Setapp Mobile", "Evermusic Pro", "נגן מוזיקה בענן", "הזרמת מוזיקה iPhone", "מוזיקה לא מקוונת iOS", "אפליקציות Setapp iOS", "אפליקציית אודיופיל iPhone", "אקולייזר iOS", "NAS מוזיקה iPhone", "נגן מוזיקה אחסון ענן", "אפליקציית מוזיקה Setapp", "הזרמת מוזיקה מ-Google Drive iPhone"]
 tags: ["evermusic", "setapp", "ענן", "שמע", "נייד", "שוק", "מוזיקה", "אפליקציות ios"]
 draft: false
-aliases:
-  - /post/setapp-mobile-and-evermusic-pro/
 cascade:
   type: docs
 authors:

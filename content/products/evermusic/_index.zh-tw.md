@@ -6,8 +6,6 @@ layout: hextra-home
 description: "下載適用於 iPhone 和 Mac 的最佳免費離線音樂播放器，隨時隨地聆聽您的音樂。"
 keywords: ["Evermusic", "離線音樂播放器", "iOS 音訊播放器", "雲端音樂應用", "iPhone 下載音樂", "Mac 音樂播放器", "離線串流音樂", "iPhone FLAC 播放器", "多雲音樂播放器", "Evermusic 應用功能"]
 tags: ["Evermusic", "離線播放", "雲端音樂", "MP3 播放器", "iPhone 應用", "音訊串流", "音樂管理", "Mac 應用", "媒體播放器"]
-aliases:
-  - /evermusic/
 appStoreUrl: "https://apps.apple.com/app/apple-store/id885367198?pt=95781850&ct=everappzcom&mt=8"
 appStoreId: "885367198"
 features: "離線音樂播放, 雲端串流（iCloud、Google Drive、Dropbox、OneDrive、MEGA、Box）, 帶預設的音訊等化器, 淡入淡出和無縫播放, M3U 播放清單匯入/匯出, 歌詞檢視器, 音訊書籤, Apple CarPlay, AirPlay 和 Chromecast, SMB/WebDAV/DLNA 支援, USB 隨身碟播放, Last.fm 記錄"

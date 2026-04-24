@@ -5,8 +5,6 @@ description: "Evermusic vs VOX 8 kategoride karşılaştırıldı: bulut depolam
 keywords: ["Evermusic vs VOX", "VOX alternatifi iOS", "en iyi müzik çalar iPhone", "bulut müzik çalar karşılaştırması", "sesli kitap çalar iOS", "ID3 etiket düzenleyici iPhone", "Wi-Fi müzik uygulaması", "FLAC çalar iPhone", "bulut depolama müzik çalar", "VOX Cloud alternatifi"]
 tags: ["karşılaştırma", "evermusic", "vox", "bulut", "sesli kitaplar", "etiketler", "akış", "uygulamalar", "müzik çalar", "ios"]
 draft: false
-aliases:
-  - /post/evermusic-vs-vox-a-comprehensive-comparison/
 sidebar:
   exclude: true
 cascade:

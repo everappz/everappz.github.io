@@ -2,8 +2,6 @@
 date: '2025-06-12T17:00:00+00:00'
 draft: false
 title: 'Acord de llicència'
-aliases:
-  - /license-agreement/
 ---
 
 ACORD DE LLICÈNCIA D'USUARI FINAL PER ALS PRODUCTES D'EVERAPPZ S.L.

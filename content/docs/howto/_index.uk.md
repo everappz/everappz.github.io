@@ -4,8 +4,6 @@ draft: false
 title: 'Інструкції'
 description: 'Покрокові посібники та поради, які допоможуть вам налаштувати, використовувати та отримати максимум від додатків Everappz.'
 excludeSearch: true
-aliases:
-  - /post/how-to-/
 ---
 
 

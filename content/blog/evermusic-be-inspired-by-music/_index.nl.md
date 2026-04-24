@@ -5,8 +5,6 @@ description: "Bekijk de Evermusic-promotievideo met cloudmuziekstreaming, offlin
 keywords: ["Evermusic promotievideo", "muziekspeler iOS", "cloud muziek-app iPhone", "Evermusic app demo", "beste muziekspeler iPhone", "offline muziekspeler iOS"]
 tags: ["Evermusic", "promotie", "muziek", "video", "cloudmuziek", "iOS-app"]
 draft: false
-aliases:
-  - /post/evermusic-be-inspired-by-music/
 sidebar:
   exclude: true
 cascade:

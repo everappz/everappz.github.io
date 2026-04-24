@@ -5,8 +5,6 @@ description: "Evermusic 6.8 מוסיף תמיכה ב-Aliyun Drive ו-Synology NA
 keywords: ["עדכון Evermusic", "נגן מוזיקה Aliyun Drive", "מוזיקה Synology NAS", "נגן מוזיקה בענן iOS", "נגן שמע iOS", "סגנונות עטיפות אלבומים", "דפדפן קבצים גרירה ושחרור", "Evermusic 6.8", "נגן FLAC iOS", "נגן מוזיקה QuickConnect", "הזרמת מוזיקה NAS אייפון"]
 tags: ["Evermusic", "Aliyun Drive", "Synology", "עטיפות אלבומים", "מוזיקה בענן", "אפליקציית מוזיקה iOS", "מה חדש"]
 draft: false
-aliases:
-  - /post/evermusic6-8-aliyun-drive-synology-new-album-cover-styles/
 cascade:
   type: docs
 authors:

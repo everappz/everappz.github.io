@@ -6,8 +6,6 @@ layout: hextra-home
 description: "Laden Sie den besten kostenlosen Videoplayer für Ihr iPhone und Mac herunter. Sehen Sie 360°-Videos, aktivieren Sie Untertitel, passen Sie den Video-Equalizer an, organisieren Sie Ihre Videos mit Wiedergabelisten, laden Sie für die Offline-Wiedergabe herunter und streamen Sie von iCloud."
 keywords: ["Videoplayer iPhone", "Videoplayer Mac", "360-Videoplayer", "Offline-Videoplayer iOS", "Videos von iCloud streamen", "Untertitelunterstützung iOS", "Video-Equalizer iPhone", "AirPlay Video-App", "Chromecast Videoplayer", "DLNA Video-Streaming", "SMB WebDAV Videoplayer", "USB Videoplayer iPhone", "Video-Wiedergabelisten organisieren", "Mac Videoplayer mit Untertiteln", "iTunes Dateifreigabe Video-App", "kostenlose Video-App iOS", "Medienmanager für Videos", "Multiformatvideoplayer"]
 tags: ["Videoplayer", "Offline-Wiedergabe", "Untertitelunterstützung", "iCloud-Streaming", "AirPlay", "Chromecast", "DLNA", "SMB", "WebDAV", "USB-Videozugang", "iPhone-Apps", "Mac-Apps", "Medienorganisator", "360-Video", "Video-Wiedergabelisten", "Dateifreigabe", "kostenloser Videoplayer", "Multiformatunterstützung"]
-aliases:
-  - /evervideo/
 appStoreUrl: "https://apps.apple.com/us/app/evervideo-hd-video-player/id6602897336?ct=everappzcom&mt=8"
 appStoreId: "6602897336"
 features: "HD-Videowiedergabe in allen Formaten (MKV, AVI, MP4, MOV, FLV, WMV, WEBM), 360-Grad- und VR-Videounterstützung, Bild-in-Bild-Modus, Video- und Audio-Equalizer mit über 50 Voreinstellungen, Untertitelunterstützung, Cloud-Streaming (iCloud, Google Drive, Dropbox, OneDrive, MEGA), Offline-Download, Medienbibliothek mit Wiedergabelisten, AirPlay und Chromecast, SMB/WebDAV/DLNA-Unterstützung, USB-Stick-Wiedergabe"

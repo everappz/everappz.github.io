@@ -5,8 +5,6 @@ description: "比較最佳iPhone音樂播放器應用程式：Evermusic、Apple 
 keywords: ["最佳iPhone音樂播放器", "iOS音樂播放器應用程式", "Evermusic vs Spotify", "雲端音樂播放器iPhone", "離線音樂應用程式iPhone", "FLAC播放器iOS", "Apple Music替代方案", "VLC iPhone", "免費音樂播放器iOS"]
 tags: ["音樂應用程式", "iOS", "Evermusic", "Apple Music", "Spotify", "VLC", "Amazon Music", "比較", "雲端音樂", "離線播放"]
 draft: false
-aliases:
-  - /post/discover-the-ultimate-iphone-music-player-apps-evermusic-and-beyond/
 cascade:
   type: docs
 authors:

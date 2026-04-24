@@ -5,8 +5,6 @@ description: "Resmi Evermusic tanıtım videosunu izleyin. Evermusic'in iPhone v
 keywords: ["Evermusic tanıtım videosu", "bulut müzik çalar iPhone", "müzik uygulaması videosu", "Evermusic uygulama demosu", "bulut müzik iOS", "Evermusic özellikleri", "müzik çalar iPad", "buluttan müzik akışı"]
 tags: ["evermusic", "tanıtım", "video", "ios", "müzik", "bulut", "çalar", "mobil uygulama"]
 draft: false
-aliases:
-  - /post/evermusic-promo-video/
 cascade:
   type: docs
 authors:

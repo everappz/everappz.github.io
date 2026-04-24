@@ -5,8 +5,6 @@ description: "ชมวิดีโอโปรโมทอย่างเป็
 keywords: ["วิดีโอโปรโมท Evermusic", "เครื่องเล่นเพลงคลาวด์ iPhone", "วิดีโอแอปเพลง", "สาธิตแอป Evermusic", "เพลงคลาวด์ iOS", "ฟีเจอร์ Evermusic", "เครื่องเล่นเพลง iPad", "สตรีมเพลงจากคลาวด์"]
 tags: ["evermusic", "โปรโมท", "วิดีโอ", "ios", "เพลง", "คลาวด์", "เครื่องเล่น", "แอปมือถือ"]
 draft: false
-aliases:
-  - /post/evermusic-promo-video/
 cascade:
   type: docs
 authors:

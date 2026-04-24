@@ -5,8 +5,6 @@ description: "Pozrite si propagačné video Evermusic prezentujúce cloudové st
 keywords: ["Evermusic propagačné video", "hudobný prehrávač iOS", "cloudová hudobná aplikácia iPhone", "ukážka aplikácie Evermusic", "najlepší hudobný prehrávač iPhone", "offline hudobný prehrávač iOS"]
 tags: ["Evermusic", "propagácia", "hudba", "video", "cloudová hudba", "iOS aplikácia"]
 draft: false
-aliases:
-  - /post/evermusic-be-inspired-by-music/
 sidebar:
   exclude: true
 cascade:

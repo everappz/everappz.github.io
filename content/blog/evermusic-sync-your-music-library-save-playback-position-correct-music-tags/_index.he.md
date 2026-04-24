@@ -5,8 +5,6 @@ description: "Evermusic 2.3 מוסיף סנכרון אוטומטי של מוזי
 keywords: ["Evermusic", "נגן מוזיקה בענן", "סנכרון מוזיקה iOS", "שמירת מיקום השמעה", "השמעת ספרי שמע", "קורא מטא-נתונים", "תיקון תגיות ID3", "הזרמת מוזיקה מהענן", "אפליקציית מוזיקה ל-Dropbox", "נגן Google Drive", "סנכרון אוטומטי של ספריית מוזיקה", "שמירת מיקום ספר שמע iOS"]
 tags: ["evermusic", "מוזיקה", "השמעה", "מנהל", "עורך", "סנכרון", "מיקום", "תגיות id3", "ענן", "מה חדש"]
 draft: false
-aliases:
-  - /post/evermusic-sync-your-music-library-save-playback-position-correct-music-tags/
 cascade:
   type: docs
 authors:

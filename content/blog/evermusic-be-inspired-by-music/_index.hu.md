@@ -5,8 +5,6 @@ description: "Nézd meg az Evermusic promóciós videót, amely bemutatja a felh
 keywords: ["Evermusic promó videó", "zenelejátszó iOS", "felhőzenei alkalmazás iPhone", "Evermusic alkalmazás demó", "legjobb zenelejátszó iPhone", "offline zenelejátszó iOS"]
 tags: ["Evermusic", "promó", "zene", "videó", "felhőzene", "iOS alkalmazás"]
 draft: false
-aliases:
-  - /post/evermusic-be-inspired-by-music/
 sidebar:
   exclude: true
 cascade:

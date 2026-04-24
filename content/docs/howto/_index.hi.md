@@ -4,8 +4,6 @@ draft: false
 title: 'कैसे करें'
 description: 'Everappz ऐप्स को सेट करने, उपयोग करने और अधिकतम लाभ उठाने में मदद करने के लिए चरण-दर-चरण गाइड और सुझाव।'
 excludeSearch: true
-aliases:
-  - /post/how-to-/
 ---
 
 

@@ -5,8 +5,6 @@ description: "Παρακολουθήστε το βίντεο προώθησης 
 keywords: ["βίντεο προώθησης Evermusic", "αναπαραγωγέας μουσικής iOS", "εφαρμογή μουσικής cloud iPhone", "επίδειξη εφαρμογής Evermusic", "καλύτερος αναπαραγωγέας μουσικής iPhone", "αναπαραγωγέας μουσικής εκτός σύνδεσης iOS"]
 tags: ["Evermusic", "προώθηση", "μουσική", "βίντεο", "μουσική cloud", "εφαρμογή iOS"]
 draft: false
-aliases:
-  - /post/evermusic-be-inspired-by-music/
 sidebar:
   exclude: true
 cascade:

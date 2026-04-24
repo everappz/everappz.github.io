@@ -5,8 +5,6 @@ description: "Flacbox osiąga 1 milion globalnych pobrań. Poznaj funkcje, któr
 keywords: ["odtwarzacz muzyki Flacbox", "audio hi-res iOS", "aplikacja muzyki bezstratnej", "odtwarzacz DSD FLAC APE", "muzyka FLAC offline", "kamień milowy pobrań Flacbox", "audio wysokiej jakości iPhone", "aplikacje audio Everappz", "odtwarzacz playlist CUE", "1 milion pobrań", "najlepszy odtwarzacz FLAC iOS", "odtwarzacz muzyki hi-res Mac"]
 tags: ["Flacbox", "bezstratny", "audio hi-res", "odtwarzacz muzyki", "audio", "kamień milowy", "aplikacje iOS", "Co nowego"]
 draft: false
-aliases:
-  - /post/flacbox-celebrates-1-million-worldwide-downloads-your-gateway-to-hi-res-music/
 cascade:
   type: docs
 authors:

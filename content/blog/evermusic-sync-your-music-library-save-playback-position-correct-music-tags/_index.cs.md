@@ -5,8 +5,6 @@ description: "Evermusic 2.3 přidává automatickou synchronizaci cloudové hudb
 keywords: ["Evermusic", "cloudový hudební přehrávač", "synchronizace hudby iOS", "uložit pozici přehrávání", "přehrávání audioknih", "čtečka metadat", "opravit ID3 tagy", "streamování hudby z cloudu", "hudební aplikace pro Dropbox", "přehrávač Google Drive", "automatická synchronizace hudební knihovny", "uložení pozice audioknihy iOS"]
 tags: ["evermusic", "hudba", "přehrávání", "správce", "editor", "synchronizace", "pozice", "id3 tagy", "cloud", "novinky"]
 draft: false
-aliases:
-  - /post/evermusic-sync-your-music-library-save-playback-position-correct-music-tags/
 cascade:
   type: docs
 authors:

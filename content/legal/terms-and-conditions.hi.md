@@ -2,11 +2,6 @@
 date: '2025-06-12T17:00:00+00:00'
 draft: false
 title: 'नियम और शर्तें'
-aliases:
-  - /terms-and-conditions/
-  - /terms-and-conditionsDec/
-  - /terms-and-condition/
-  - /terms-and-conditionsMay/
 ---
 
 EVERAPPZ S.L. Evermusic, Evermusic Pro, Flacbox और Evertag ऐप जैसे ऐप्स की स्वामी है। ये म्यूजिक प्लेयर विभिन्न फ़ाइल प्रकारों का समर्थन करते हैं, और Evertag आपको अपनी फ़ाइलों के ऑडियो टैग संपादित करने की सुविधा देता है, यह सब नियम और शर्तों के अनुसार है।

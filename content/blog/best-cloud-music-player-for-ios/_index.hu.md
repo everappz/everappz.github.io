@@ -5,8 +5,6 @@ description: "Az Evermusic 12+ felhőszolgáltatáshoz csatlakozik, offline lej�
 keywords: ["legjobb felhőalapú zenlejátszó iOS", "felhőalapú zenlejátszó iPhone", "zene lejátszása Dropboxból", "offline zenlejátszó iPhone", "FLAC lejátszó iOS", "Evermusic vélemény", "zenei könyvtárkezelő iOS", "Google Drive zenlejátszó", "NAS zenlejátszó iPhone", "WebDAV zenlejátszó"]
 tags: ["Evermusic", "cloud music", "offline playback", "iOS music apps", "MP3 player", "audio", "music streaming", "guide", "FLAC", "review"]
 draft: false
-aliases:
-  - /post/best-cloud-music-player-for-ios/
 cascade:
   type: docs
 authors:

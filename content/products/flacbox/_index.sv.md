@@ -6,8 +6,6 @@ layout: hextra-home
 description: "Spela och ladda ner FLAC-, DSD-, APE-, ALAC-filer pa din iPhone. Lyssna pa din musik direkt fran molnlagring eller dator med equalizer."
 keywords: ["FLAC-spelare iPhone", "forlustfri musikspelare", "hi-res ljudspelare", "DSD-spelare iOS", "ALAC-spelare iPhone", "offline musikspelare iOS", "moln-musikspelare", "strömma musik fran NAS", "spela FLAC pa iPhone", "iPhone musikspelare med taggar", "Mac musikspelare", "ladda ner musik iPhone", "ljud-equalizer iOS", "USB musikspelare iPhone", "multi-moln musikspelare", "SMB WebDAV DLNA-spelare", "iTunes File Sharing-app", "AirPlay- och Chromecast-stöd"]
 tags: ["FLAC-spelare", "Hi-Res ljud", "offline uppspelning", "molnmusik", "DSD-ljud", "Mac-appar", "iPhone-appar", "USB-ljud iOS", "musikfilhanterare", "ljud-equalizer", "metadataeditor", "MP3-spelare", "SMB-spelare", "Chromecast-musik", "CarPlay musikspelare", "multiformatstöd", "musikstreaming", "ljudbibliotekshanterare"]
-aliases:
-  - /flacbox/
 appStoreUrl: "https://apps.apple.com/app/apple-store/id1097564256?pt=95781850&ct=everappzcom&mt=8"
 appStoreId: "1097564256"
 features: "Hi-Res FLAC/DSD/APE/ALAC-uppspelning, Molnstreaming (iCloud, Google Drive, Dropbox, OneDrive, MEGA, Box), Ljud-equalizer med förinställningar, Crossfade och sömlös uppspelning, M3U-spellistor import/export, Textvisning, Ljudbokmärken, Apple CarPlay, AirPlay och Chromecast, SMB/WebDAV/DLNA-stöd, USB-flashminne-uppspelning, Last.fm-scrobbling, Inbyggd taggredigerare"

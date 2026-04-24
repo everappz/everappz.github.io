@@ -5,8 +5,6 @@ description: "Se Evermusic-promovideoen som viser skymusikkstrømming, avspillin
 keywords: ["Evermusic promovideo", "musikkspiller iOS", "skymusikkapp iPhone", "Evermusic app-demo", "beste musikkspiller iPhone", "musikkspiller uten nett iOS"]
 tags: ["Evermusic", "promo", "musikk", "video", "skymusikk", "iOS-app"]
 draft: false
-aliases:
-  - /post/evermusic-be-inspired-by-music/
 sidebar:
   exclude: true
 cascade:

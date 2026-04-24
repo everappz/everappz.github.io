@@ -5,8 +5,6 @@ description: "Flacbox dünya genelinde 1 milyon indirmeye ulaştı. iPhone, iPad
 keywords: ["Flacbox müzik çalar", "hi-res ses iOS", "kayıpsız müzik uygulaması", "DSD FLAC APE çalar", "çevrimdışı FLAC müzik", "Flacbox indirme kilometre taşı", "yüksek kaliteli ses iPhone", "Everappz ses uygulamaları", "CUE çalma listesi çalar", "1 milyon indirme", "en iyi FLAC çalar iOS", "hi-res müzik çalar Mac"]
 tags: ["Flacbox", "kayıpsız", "hi-res ses", "müzik çalar", "ses", "kilometre taşı", "iOS uygulamaları", "yenilikler"]
 draft: false
-aliases:
-  - /post/flacbox-celebrates-1-million-worldwide-downloads-your-gateway-to-hi-res-music/
 cascade:
   type: docs
 authors:

@@ -2,8 +2,6 @@
 date: '2025-06-12T17:00:00+00:00'
 draft: false
 title: '法的通知'
-aliases:
-  - /legal-notice/
 ---
 
 ## ウェブサイト所有者の識別データ

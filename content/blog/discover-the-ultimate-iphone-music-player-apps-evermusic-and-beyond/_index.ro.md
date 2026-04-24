@@ -5,8 +5,6 @@ description: "Comparați cele mai bune aplicații player muzică iPhone: Evermus
 keywords: ["cel mai bun player muzică iPhone", "aplicație player muzică iOS", "Evermusic vs Spotify", "player muzică cloud iPhone", "aplicație muzică offline iPhone", "player FLAC iOS", "alternative Apple Music", "VLC iPhone", "player muzică gratuit iOS"]
 tags: ["aplicații muzică", "iOS", "Evermusic", "Apple Music", "Spotify", "VLC", "Amazon Music", "comparație", "muzică cloud", "redare offline"]
 draft: false
-aliases:
-  - /post/discover-the-ultimate-iphone-music-player-apps-evermusic-and-beyond/
 cascade:
   type: docs
 authors:

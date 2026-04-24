@@ -5,9 +5,6 @@ description: "Flacbox 1.6 for iOSに自動クラウド同期、10バンドイコ
 keywords: ["Flacboxアップデート", "FLACプレーヤーiOS", "10バンドイコライザーiPhone", "自動音楽同期", "iPhoneでOPUS再生", "外部フラッシュドライブ音楽", "FLACストリーミングiOS", "Hi-Res音楽アプリiPhone", "Flacboxイコライザー", "SDカード音楽プレーヤーiOS"]
 tags: ["Flacbox", "イコライザー", "音楽ライブラリ", "OPUS", "FLAC", "外部ストレージ", "同期", "オーディオプレーヤー", "iOSアプリ", "アップデート"]
 draft: false
-aliases:
-  - /post/flacbox-for-ios-automatic-music-library-sync-equalizer-opus-external-flash/
-  - /single-post/Flacbox-for-iOS-Automatic-Music-Library-Sync-Equalizer-OPUS-External-Flash/
 cascade:
   type: docs
 authors:

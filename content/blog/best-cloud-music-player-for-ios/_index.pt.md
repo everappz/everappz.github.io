@@ -5,8 +5,6 @@ description: "O Evermusic conecta-se a 12+ serviços de nuvem, reproduz FLAC e M
 keywords: ["melhor reprodutor de música em nuvem iOS", "reprodutor de música em nuvem iPhone", "reproduzir música do Dropbox", "reprodutor de música offline iPhone", "reprodutor FLAC iOS", "avaliação Evermusic", "gerenciador de biblioteca de música iOS", "reprodutor de música Google Drive", "reprodutor de música NAS iPhone", "reprodutor de música WebDAV"]
 tags: ["Evermusic", "cloud music", "offline playback", "iOS music apps", "MP3 player", "audio", "music streaming", "guide", "FLAC", "review"]
 draft: false
-aliases:
-  - /post/best-cloud-music-player-for-ios/
 cascade:
   type: docs
 authors:

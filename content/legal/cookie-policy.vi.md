@@ -2,8 +2,6 @@
 date: '2025-06-12T17:00:00+00:00'
 draft: false
 title: 'Chính sách Cookie'
-aliases:
-  - /cookie-policy/
 ---
 
 ## Trang web này sử dụng cookie

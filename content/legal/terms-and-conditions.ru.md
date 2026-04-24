@@ -2,11 +2,6 @@
 date: '2025-06-12T17:00:00+00:00'
 draft: false
 title: 'Условия использования'
-aliases:
-  - /terms-and-conditions/
-  - /terms-and-conditionsDec/
-  - /terms-and-condition/
-  - /terms-and-conditionsMay/
 ---
 
 EVERAPPZ S.L. является владельцем таких приложений, как Evermusic, Evermusic Pro, Flacbox и Evertag. Эти музыкальные плееры поддерживают различные форматы файлов, а Evertag позволяет редактировать аудиотеги ваших файлов — всё в соответствии с настоящими Условиями использования.

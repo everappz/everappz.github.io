@@ -6,8 +6,6 @@ layout: hextra-home
 description: "נגן והורד קבצי FLAC, DSD, APE, ALAC באייפון שלך. האזן למוזיקה שלך ישירות מאחסון הענן או מהמחשב עם אקולייזר."
 keywords: ["נגן FLAC אייפון", "נגן מוזיקה ללא אובדן", "נגן אודיו באיכות גבוהה", "נגן DSD iOS", "נגן ALAC אייפון", "נגן מוזיקה אופליין iOS", "נגן מוזיקה בענן", "הזרמת מוזיקה מ-NAS", "נגינת FLAC באייפון", "נגן מוזיקה לאייפון עם תגיות", "נגן מוזיקה למק", "הורדת מוזיקה אייפון", "אקולייזר אודיו iOS", "נגן מוזיקה USB אייפון", "נגן מוזיקה רב-ענן", "נגן SMB WebDAV DLNA", "אפליקציית iTunes File Sharing", "תמיכה ב-AirPlay ו-Chromecast"]
 tags: ["נגן FLAC", "אודיו באיכות גבוהה", "נגינה אופליין", "מוזיקה בענן", "אודיו DSD", "אפליקציות מק", "אפליקציות אייפון", "אודיו USB iOS", "מנהל קבצי מוזיקה", "אקולייזר אודיו", "עורך מטא-נתונים", "נגן MP3", "נגן SMB", "מוזיקה Chromecast", "נגן מוזיקה CarPlay", "תמיכה במולטי-פורמט", "הזרמת מוזיקה", "מנהל ספריית אודיו"]
-aliases:
-  - /flacbox/
 appStoreUrl: "https://apps.apple.com/app/apple-store/id1097564256?pt=95781850&ct=everappzcom&mt=8"
 appStoreId: "1097564256"
 features: "נגינת Hi-Res FLAC/DSD/APE/ALAC, הזרמה מהענן (iCloud, Google Drive, Dropbox, OneDrive, MEGA, Box), אקולייזר אודיו עם הגדרות מוכנות, קרוספייד ונגינה ללא הפסקות, ייבוא/ייצוא רשימות M3U, מציג מילים, סימניות אודיו, Apple CarPlay, AirPlay ו-Chromecast, תמיכה ב-SMB/WebDAV/DLNA, נגינה מכונן USB, סקרובלינג Last.fm, עורך תגיות מובנה"

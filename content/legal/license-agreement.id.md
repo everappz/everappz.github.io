@@ -2,8 +2,6 @@
 date: '2025-06-12T17:00:00+00:00'
 draft: false
 title: 'Perjanjian Lisensi'
-aliases:
-  - /license-agreement/
 ---
 
 PERJANJIAN LISENSI PENGGUNA AKHIR UNTUK PRODUK EVERAPPZ S.L.

@@ -5,9 +5,6 @@ description: "Comparez 7 lecteurs de musique cloud pour iPhone : Apple Music, Sp
 keywords: ["lecteur de musique cloud iPhone", "meilleures applications musicales pour iPhone", "Evermusic vs Spotify", "application de musique hors ligne iOS", "alternative Apple Music", "lire FLAC sur iPhone", "streaming de musique cloud", "lecteur audio iPhone", "lecteur de musique pour Dropbox", "lire ses propres fichiers musicaux iPhone"]
 tags: ["music", "streaming", "apps", "iOS", "cloud music", "Evermusic", "Spotify", "Apple Music", "YouTube Music", "SoundCloud", "comparison"]
 draft: false
-aliases:
-  - /post/comparing-the-best-cloud-music-players-for-iphone-in-2023/
-  - /blog/comparing-the-best-cloud-music-players-for-iphone-in-2023/
 cascade:
   type: docs
 authors:

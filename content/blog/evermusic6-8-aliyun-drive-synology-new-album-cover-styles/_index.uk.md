@@ -5,8 +5,6 @@ description: "Evermusic 6.8 додає підтримку Aliyun Drive та Syno
 keywords: ["оновлення Evermusic", "Aliyun Drive музичний програвач", "Synology NAS музика", "хмарний музичний програвач iOS", "аудіо програвач iOS", "стилі обкладинок альбомів", "перетягування файловий браузер", "Evermusic 6.8", "FLAC програвач iOS", "QuickConnect музичний програвач", "NAS потокова музика iPhone"]
 tags: ["Evermusic", "Aliyun Drive", "Synology", "обкладинки альбомів", "хмарна музика", "iOS музичний додаток", "що нового"]
 draft: false
-aliases:
-  - /post/evermusic6-8-aliyun-drive-synology-new-album-cover-styles/
 cascade:
   type: docs
 authors:

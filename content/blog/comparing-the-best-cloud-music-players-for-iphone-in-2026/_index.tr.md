@@ -5,9 +5,6 @@ description: "iPhone için 7 en iyi bulut müzik oynatıcısını karşılaştı
 keywords: ["bulut müzik oynatıcısı iPhone", "iPhone için en iyi müzik uygulamaları", "Evermusic vs Spotify", "çevrimdışı müzik uygulaması iOS", "Apple Music alternatifi", "iPhone'da FLAC çalma", "bulut müzik yayını", "iPhone ses oynatıcısı", "Dropbox için müzik oynatıcısı", "iPhone'da kendi müzik dosyalarını çalma"]
 tags: ["music", "streaming", "apps", "iOS", "cloud music", "Evermusic", "Spotify", "Apple Music", "YouTube Music", "SoundCloud", "comparison"]
 draft: false
-aliases:
-  - /post/comparing-the-best-cloud-music-players-for-iphone-in-2023/
-  - /blog/comparing-the-best-cloud-music-players-for-iphone-in-2023/
 cascade:
   type: docs
 authors:

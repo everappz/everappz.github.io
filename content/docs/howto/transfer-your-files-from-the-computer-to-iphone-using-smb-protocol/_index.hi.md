@@ -5,8 +5,6 @@ date: 2022-03-17
 readingTime: 3
 tags: ["cloud", "streaming", "computer", "mp3", "file", "downloader", "manager", "pc", "mac", "sharing", "windows", "smb"]
 keywords: ["iPhone में फ़ाइलें ट्रांसफर SMB", "PC संगीत iPhone पर स्ट्रीम", "Mac को iPhone से कनेक्ट SMB", "Evermusic SMB सेटअप", "कंप्यूटर फ़ाइलें iPhone एक्सेस", "Windows संगीत शेयर iOS", "SMB फ़ाइल ट्रांसफर Evermusic"]
-aliases:
-  - /post/transfer-your-files-from-the-computer-to-iphone-using-smb-protocol/
 ---
 
 {{< author-byline >}}

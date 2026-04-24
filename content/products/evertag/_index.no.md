@@ -6,9 +6,6 @@ layout: hextra-home
 description: "Hold musikkbiblioteket ditt organisert. Finn manglende tagger. Masseredigering. Endre albumomslag og mye mer."
 keywords: ["Evertag", "lyd-taggredigerer", "ID3-taggbehandler", "rediger musikkmetadata", "FLAC-taggredigerer", "musikkorganisator-app", "MP3-metadataredigerer", "iOS musikk-taggredigerer", "Mac lyd-taggapp", "gi nytt navn til musikkfiler"]
 tags: ["Evertag", "ID3-tagger", "musikkmetadata", "lyd-taggredigerer", "MP3-redigerer", "FLAC-tagging", "iPhone-verktøy", "Mac musikkverktøy", "musikkbibliotekadministrasjon"]
-aliases:
-  - /evertag/
-  - /mp3tag/
 appStoreUrl: "https://apps.apple.com/app/apple-store/id1450763230?pt=95781850&ct=everappzcom&mt=8"
 appStoreId: "1450763230"
 features: "Rediger 120+ lydtagger, Masseredigering av tagger, Albumomslagfinner, Støtte for 30+ lydformater, Automatisk taggfinner via MusicBrainz, Fiks kodingsproblemer, Sky- og USB-tilgang, Wi-Fi musikkoverføring, Innebygd filbehandler, Tekstredigerer"

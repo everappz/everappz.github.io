@@ -5,8 +5,6 @@ description: "Evermusicの公式プロモーションビデオをご覧くださ
 keywords: ["Evermusic プロモビデオ", "クラウド音楽プレーヤー iPhone", "音楽アプリ ビデオ", "Evermusic アプリデモ", "クラウド音楽 iOS", "Evermusic 機能", "音楽プレーヤー iPad", "クラウドから音楽ストリーミング"]
 tags: ["evermusic", "プロモ", "ビデオ", "ios", "音楽", "クラウド", "プレーヤー", "モバイルアプリ"]
 draft: false
-aliases:
-  - /post/evermusic-promo-video/
 cascade:
   type: docs
 authors:

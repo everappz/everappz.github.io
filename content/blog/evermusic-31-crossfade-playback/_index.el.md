@@ -5,9 +5,6 @@ description: "Το Evermusic 3.1 προσθέτει αναπαραγωγή cross
 keywords: ["ενημέρωση Evermusic", "αναπαραγωγή crossfade iOS", "εφαρμογή μουσικής cloud", "εφαρμογή αντιγράφων ασφαλείας μουσικής", "ουρά αναπαραγωγέα ήχου", "επεξεργαστής ετικετών μουσικής", "ενημέρωση ετικετών ID3", "ενσωμάτωση βιβλιοθήκης iPod", "αναπαραγωγέας μουσικής iPhone", "crossfade μουσική iOS", "συγχρονισμός μουσικής βιβλιοθήκης cloud", "αντίγραφο ασφαλείας λιστών αναπαραγωγής iOS"]
 tags: ["Evermusic", "crossfade", "μουσική βιβλιοθήκη", "αντίγραφο ασφαλείας", "ουρά ήχου", "ετικέτες", "αναπαραγωγέας cloud", "αναπαραγωγέας εκτός σύνδεσης", "επεξεργαστής", "βιβλιοθήκη iPod"]
 draft: false
-aliases:
-  - /post/evermusic-31-crossfade-playback/
-  - /single-post/Evermusic-Sync-your-Music-Library-Save-playback-position-Correct-music-tags/
 cascade:
   type: docs
 authors:

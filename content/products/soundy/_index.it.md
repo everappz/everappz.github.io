@@ -10,8 +10,6 @@ layout: hextra-home
 description: "Migliaia di clienti usano Soundy come lettore SoundCloud predefinito su iPhone. Ottieni la massima qualità audio, equalizzatore e molto altro."
 keywords: ["Soundy", "lettore SoundCloud iPhone", "equalizzatore musica iOS", "equalizzatore per SoundCloud", "lettore SoundCloud offline", "amplificatore qualità audio iOS", "app SoundCloud EQ", "miglior client SoundCloud iPhone", "app musica iPhone", "lettore SoundCloud alternativo"]
 tags: ["Soundy", "SoundCloud", "app iOS", "equalizzatore musica", "lettore audio", "riproduzione offline", "app musica iPhone", "app ritirate", "lettore multimediale", "streaming musicale"]
-aliases:
-  - /soundy/
 ---
 
 <div class="hx:w-full hx:max-w-screen-lg hx:mx-auto hx:flex hx:flex-col hx:items-center hx:justify-center hx:text-center">

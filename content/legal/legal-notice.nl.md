@@ -2,8 +2,6 @@
 date: '2025-06-12T17:00:00+00:00'
 draft: false
 title: 'Juridische kennisgeving'
-aliases:
-  - /legal-notice/
 ---
 
 ## Identificatiegegevens van de eigenaar van de website

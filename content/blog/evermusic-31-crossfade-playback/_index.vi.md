@@ -5,9 +5,6 @@ description: "Evermusic 3.1 thêm phát crossfade, thư viện nhạc được t
 keywords: ["cập nhật Evermusic", "phát crossfade iOS", "ứng dụng nhạc đám mây", "ứng dụng sao lưu nhạc", "hàng đợi trình phát âm thanh", "trình chỉnh sửa thẻ nhạc", "cập nhật thẻ ID3", "tích hợp thư viện iPod", "trình phát nhạc iPhone", "crossfade nhạc iOS", "đồng bộ thư viện nhạc đám mây", "sao lưu danh sách phát nhạc iOS"]
 tags: ["Evermusic", "crossfade", "thư viện nhạc", "sao lưu", "hàng đợi âm thanh", "thẻ", "trình phát đám mây", "trình phát offline", "trình chỉnh sửa", "thư viện iPod"]
 draft: false
-aliases:
-  - /post/evermusic-31-crossfade-playback/
-  - /single-post/Evermusic-Sync-your-Music-Library-Save-playback-position-Correct-music-tags/
 cascade:
   type: docs
 authors:

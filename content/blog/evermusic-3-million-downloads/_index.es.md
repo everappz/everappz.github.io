@@ -5,9 +5,6 @@ description: "Evermusic alcanzó los 3 millones de descargas. Explora la transmi
 keywords: ["descargas Evermusic", "reproductor de música iOS", "app de música en la nube", "reproductor de música sin conexión iPhone", "descargador de música iOS", "reproductor de audiolibros iPhone", "editor de etiquetas ID3 iOS", "gestor de archivos iPhone", "app ecualizador de música", "mejor reproductor de música en la nube", "transmitir música desde NAS iPhone"]
 tags: ["Evermusic", "descargas", "hito", "apps de música", "reproductor en la nube", "reproductor sin conexión", "editor de etiquetas", "ecualizador", "audiolibros", "gestor de archivos"]
 draft: false
-aliases:
-  - /post/evermusic-3-million-downloads/
-  - /single-post/Evermusic-3-million-downloads/
 cascade:
   type: docs
 authors:

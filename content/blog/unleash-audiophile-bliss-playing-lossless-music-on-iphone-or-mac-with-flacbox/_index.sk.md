@@ -5,8 +5,6 @@ description: "Prehrávajte FLAC, DSD, ALAC a 120+ audio formátov na iPhone a Ma
 keywords: ["bezstratový hudobný prehrávač", "FLAC prehrávač iOS", "DSD prehrávač iPhone", "hi-res audio Mac", "Flacbox aplikácia", "najlepší FLAC prehrávač iPhone", "offline FLAC prehrávač", "audiofilský hudobný prehrávač iOS", "Mac FLAC prehrávač", "hi-res streamovanie iOS", "prehrávanie FLAC na iPhone", "DSD128 prehrávač", "bezstratová audio aplikácia"]
 tags: ["flacbox", "hudba", "audio", "bezstratový", "iphone", "mac", "flac", "dsd", "audiofil"]
 draft: false
-aliases:
-  - /post/unleash-audiophile-bliss-playing-lossless-music-on-iphone-or-mac-with-flacbox/
 cascade:
   type: docs
 authors:

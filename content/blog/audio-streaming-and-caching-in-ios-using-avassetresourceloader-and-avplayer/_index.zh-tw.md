@@ -5,9 +5,6 @@ description: "學習如何使用 AVAssetResourceLoaderDelegate 和 AVPlayer，�
 keywords: ["iOS 音訊串流", "AVAssetResourceLoaderDelegate", "AVURLAsset", "AVPlayer 教學", "AVFoundation 音訊", "AVAssetResourceLoadingRequest", "iOS 自訂音訊播放器", "iOS 雲端音訊串流", "iOS 音訊快取", "Swift AVPlayer 自訂方案"]
 tags: ["streaming", "AVPlayer", "AVFoundation", "iOS", "AVAssetResourceLoader", "tutorial", "Objective-C", "audio caching"]
 draft: false
-aliases:
-  - /post/audio-streaming-and-caching-in-ios-using-avassetresourceloader-and-avplayer/
-  - /single-post/Audio-Streaming-and-Caching-in-iOS-using-AVAssetResourceLoader-and-AVPlayer/
 cascade:
   type: docs
 authors:

@@ -5,9 +5,6 @@ description: "Erfahren Sie, wie Sie Audio in iOS mit AVAssetResourceLoaderDelega
 keywords: ["iOS Audio-Streaming", "AVAssetResourceLoaderDelegate", "AVURLAsset", "AVPlayer Tutorial", "AVFoundation Audio", "AVAssetResourceLoadingRequest", "benutzerdefinierter Audio-Player iOS", "Cloud-Audio-Streaming iOS", "Audio-Caching iOS", "Swift AVPlayer benutzerdefiniertes Schema"]
 tags: ["streaming", "AVPlayer", "AVFoundation", "iOS", "AVAssetResourceLoader", "tutorial", "Objective-C", "audio caching"]
 draft: false
-aliases:
-  - /post/audio-streaming-and-caching-in-ios-using-avassetresourceloader-and-avplayer/
-  - /single-post/Audio-Streaming-and-Caching-in-iOS-using-AVAssetResourceLoader-and-AVPlayer/
 cascade:
   type: docs
 authors:

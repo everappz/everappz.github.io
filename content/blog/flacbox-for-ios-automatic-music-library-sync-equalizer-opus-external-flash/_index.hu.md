@@ -5,9 +5,6 @@ description: "A Flacbox 1.6 iOS-re automatikus felhőszinkronizálást, 10 sávo
 keywords: ["Flacbox frissítés", "FLAC lejátszó iOS", "10 sávos hangszínszabályzó iPhone", "automatikus zeneszinkronizálás", "OPUS lejátszás iPhone-on", "külső flash meghajtó zene", "FLAC streaming iOS", "hi-res zenei alkalmazás iPhone", "Flacbox hangszínszabályzó", "SD kártya zenelejátszó iOS"]
 tags: ["Flacbox", "hangszínszabályzó", "zenei könyvtár", "OPUS", "FLAC", "külső tárhely", "szinkronizálás", "audio lejátszó", "iOS alkalmazások", "frissítés"]
 draft: false
-aliases:
-  - /post/flacbox-for-ios-automatic-music-library-sync-equalizer-opus-external-flash/
-  - /single-post/Flacbox-for-iOS-Automatic-Music-Library-Sync-Equalizer-OPUS-External-Flash/
 cascade:
   type: docs
 authors:

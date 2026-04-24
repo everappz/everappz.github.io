@@ -5,8 +5,6 @@ description: "Evermusic 3.6 新增 CarPlay 支持、VoiceOver 无障碍功能、
 keywords: ["Evermusic CarPlay", "音乐播放器 CarPlay iPhone", "VoiceOver 音乐应用 iOS", "FLAC 标签编辑器 iPhone", "编辑专辑封面 iOS", "iCloud Drive 音乐导入", "音频播放器无障碍 iOS", "混合音频输出 iPhone"]
 tags: ["Evermusic", "CarPlay", "VoiceOver", "无障碍", "iCloud Drive", "标签编辑器", "封面编辑", "iOS 更新"]
 draft: false
-aliases:
-  - /post/evermusic-3-6-car-play-voice-over-artworks-editing/
 cascade:
   type: docs
 authors:

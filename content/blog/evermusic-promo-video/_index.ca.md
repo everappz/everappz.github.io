@@ -5,8 +5,6 @@ description: "Mira el vídeo promocional oficial d'Evermusic. Descobreix com Eve
 keywords: ["vídeo promocional Evermusic", "reproductor de música al núvol iPhone", "vídeo aplicació de música", "demostració aplicació Evermusic", "música al núvol iOS", "funcions Evermusic", "reproductor de música iPad", "reproduir música des del núvol"]
 tags: ["Evermusic", "promoció", "vídeo", "iOS", "música", "núvol", "reproductor", "aplicació mòbil"]
 draft: false
-aliases:
-  - /post/evermusic-promo-video/
 cascade:
   type: docs
 authors:

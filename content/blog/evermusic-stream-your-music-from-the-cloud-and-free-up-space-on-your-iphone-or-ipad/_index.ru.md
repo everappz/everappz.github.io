@@ -5,9 +5,6 @@ description: "Слушайте музыку из Google Drive, Dropbox или On
 keywords: ["Evermusic", "облачный музыкальный плеер", "музыкальное приложение iOS", "потоковая музыка из облака", "офлайн музыка iPhone", "музыкальный плеер Google Drive", "потоковая музыка Dropbox", "MP3-плеер iPhone", "освободить место iPhone", "музыка через SMB", "воспроизведение музыки из облачного хранилища iOS", "музыкальный плеер без iTunes"]
 tags: ["аудио", "потоковое воспроизведение", "плеер", "mp3", "загрузчик", "GoogleDrive", "Dropbox", "облачная музыка", "офлайн воспроизведение"]
 draft: false
-aliases:
-  - /post/evermusic-stream-your-music-from-the-cloud-and-free-up-space-on-your-iphone-or-ipad/
-  - /single-post/Evermusic-stream-your-music-from-the-cloud-and-free-up-space-on-your-iPhone-or-iPad/
 cascade:
   type: docs
 authors:

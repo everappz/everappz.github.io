@@ -2,11 +2,6 @@
 date: '2025-06-12T17:00:00+00:00'
 draft: false
 title: 'Vilkår og betingelser'
-aliases:
-  - /terms-and-conditions/
-  - /terms-and-conditionsDec/
-  - /terms-and-condition/
-  - /terms-and-conditionsMay/
 ---
 
 EVERAPPZ S.L. er eieren av apper som Evermusic, Evermusic Pro, Flacbox og Evertag-appen. Disse musikkspillerne støtter ulike filtyper, og Evertag lar deg redigere lydtagger for filene dine, alt i samsvar med vilkårene og betingelsene.

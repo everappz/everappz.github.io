@@ -5,8 +5,6 @@ description: "Vizionați videoclipul promoțional oficial Evermusic. Vedeți cum
 keywords: ["Video promoțional Evermusic", "player muzică cloud iPhone", "video aplicație muzică", "demo aplicație Evermusic", "muzică cloud iOS", "funcții Evermusic", "player muzică iPad", "streaming muzică din cloud"]
 tags: ["evermusic", "promoție", "video", "ios", "muzică", "cloud", "player", "aplicație mobilă"]
 draft: false
-aliases:
-  - /post/evermusic-promo-video/
 cascade:
   type: docs
 authors:

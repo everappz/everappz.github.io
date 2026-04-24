@@ -2,11 +2,6 @@
 date: '2025-06-12T17:00:00+00:00'
 draft: false
 title: 'Uvjeti i odredbe'
-aliases:
-  - /terms-and-conditions/
-  - /terms-and-conditionsDec/
-  - /terms-and-condition/
-  - /terms-and-conditionsMay/
 ---
 
 EVERAPPZ S.L. je vlasnik aplikacija kao što su Evermusic, Evermusic Pro, Flacbox i Evertag. Ovi glazbeni reproduktori podržavaju razne vrste datoteka, a Evertag vam omogućuje uređivanje audio oznaka vaših datoteka, sve u skladu s Uvjetima i odredbama.

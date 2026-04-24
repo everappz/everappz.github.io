@@ -4,8 +4,6 @@ draft: false
 title: 'Útmutatók'
 description: 'Lépésről lépésre szóló útmutatók és tippek, amelyek segítenek beállítani, használni és a legtöbbet kihozni az Everappz alkalmazásokból.'
 excludeSearch: true
-aliases:
-  - /post/how-to-/
 ---
 
 

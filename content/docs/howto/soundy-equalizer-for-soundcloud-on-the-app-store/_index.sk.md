@@ -5,9 +5,6 @@ date: 2017-03-09
 readingTime: 2
 tags: ["cloud", "prehrávač", "ekvalizér", "iPhone", "SoundCloud", "stream", "Chromecast"]
 keywords: ["soundcloud ekvalizér aplikácia", "10-pásmový ekvalizér iOS", "soundy soundcloud prehrávač", "hudobná aplikácia s presetmi", "ekvalizér pre iPhone", "rýchlosť prehrávania soundcloud", "soundcloud aplikácia s časovačom spánku"]
-aliases:
-  - /post/soundy-equalizer-for-soundcloud-on-the-app-store/
-  - /single-post/soundy-equalizer-for-soundcloud-on-the-app-store/
 ---
 
 {{< author-byline >}}

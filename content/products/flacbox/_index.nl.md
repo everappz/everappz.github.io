@@ -6,8 +6,6 @@ layout: hextra-home
 description: "Speel en download FLAC, DSD, APE, ALAC bestanden op je iPhone. Luister naar je muziek rechtstreeks vanuit de cloudopslag of computer met equalizer."
 keywords: ["FLAC speler iPhone", "lossless muziekspeler", "hi-res audiospeler", "DSD speler iOS", "ALAC speler iPhone", "offline muziekspeler iOS", "cloud muziekspeler", "muziek streamen vanaf NAS", "FLAC afspelen op iPhone", "iPhone muziekspeler met tags", "Mac muziekspeler", "muziek downloaden iPhone", "audio equalizer iOS", "USB muziekspeler iPhone", "multi-cloud muziekspeler", "SMB WebDAV DLNA speler", "iTunes bestandsdeling app", "AirPlay en Chromecast ondersteuning"]
 tags: ["FLAC speler", "Hi-Res audio", "offline afspelen", "cloud muziek", "DSD audio", "Mac apps", "iPhone apps", "USB audio iOS", "muziekbestandsbeheer", "audio equalizer", "metadata-editor", "MP3 speler", "SMB speler", "Chromecast muziek", "CarPlay muziekspeler", "multi-formaat ondersteuning", "muziek streamen", "audiobibliotheekbeheer"]
-aliases:
-  - /flacbox/
 appStoreUrl: "https://apps.apple.com/app/apple-store/id1097564256?pt=95781850&ct=everappzcom&mt=8"
 appStoreId: "1097564256"
 features: "Hi-Res FLAC/DSD/APE/ALAC afspelen, Cloud streaming (iCloud, Google Drive, Dropbox, OneDrive, MEGA, Box), Audio-equalizer met presets, Crossfade en naadloos afspelen, M3U afspeellijst importeren/exporteren, Songteksten weergeven, Audio bladwijzers, Apple CarPlay, AirPlay en Chromecast, SMB/WebDAV/DLNA ondersteuning, USB-stick afspelen, Last.fm scrobbling, Ingebouwde tag-editor"

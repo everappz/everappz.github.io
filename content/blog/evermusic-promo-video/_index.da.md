@@ -5,8 +5,6 @@ description: "Se den officielle Evermusic-promovideo. Se hvordan Evermusic strea
 keywords: ["Evermusic promovideo", "cloud-musikafspiller iPhone", "musikapp video", "Evermusic app demo", "cloud-musik iOS", "Evermusic funktioner", "musikafspiller iPad", "stream musik fra cloud"]
 tags: ["Evermusic", "promo", "video", "iOS", "musik", "cloud", "afspiller", "mobilapp"]
 draft: false
-aliases:
-  - /post/evermusic-promo-video/
 cascade:
   type: docs
 authors:

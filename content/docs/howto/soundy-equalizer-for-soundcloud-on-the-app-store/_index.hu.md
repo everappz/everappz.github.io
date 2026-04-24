@@ -5,9 +5,6 @@ date: 2017-03-09
 readingTime: 2
 tags: ["felhő", "lejátszó", "equalizer", "iPhone", "SoundCloud", "streaming", "Chromecast"]
 keywords: ["soundcloud equalizer alkalmazás", "10 sávos equalizer iOS", "soundy soundcloud lejátszó", "zenei alkalmazás presetekkel", "equalizer iPhone-ra", "lejátszási sebesség soundcloud", "soundcloud alkalmazás alvásidőzítővel"]
-aliases:
-  - /post/soundy-equalizer-for-soundcloud-on-the-app-store/
-  - /single-post/soundy-equalizer-for-soundcloud-on-the-app-store/
 ---
 
 {{< author-byline >}}

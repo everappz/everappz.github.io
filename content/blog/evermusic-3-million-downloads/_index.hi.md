@@ -5,9 +5,6 @@ description: "Evermusic 3 मिलियन डाउनलोड तक पह
 keywords: ["Evermusic डाउनलोड", "iOS म्यूजिक प्लेयर", "क्लाउड म्यूजिक ऐप", "ऑफलाइन म्यूजिक प्लेयर iPhone", "म्यूजिक डाउनलोडर iOS", "ऑडियोबुक प्लेयर iPhone", "ID3 टैग एडिटर iOS", "iPhone फ़ाइल मैनेजर", "म्यूजिक इक्वलाइज़र ऐप", "बेस्ट क्लाउड म्यूजिक प्लेयर", "NAS से म्यूजिक स्ट्रीम iPhone"]
 tags: ["Evermusic", "डाउनलोड", "मील का पत्थर", "म्यूजिक ऐप्स", "क्लाउड प्लेयर", "ऑफलाइन प्लेयर", "टैग एडिटर", "इक्वलाइज़र", "ऑडियोबुक", "फ़ाइल मैनेजर"]
 draft: false
-aliases:
-  - /post/evermusic-3-million-downloads/
-  - /single-post/Evermusic-3-million-downloads/
 cascade:
   type: docs
 authors:

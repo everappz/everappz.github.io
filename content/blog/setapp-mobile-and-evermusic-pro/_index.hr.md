@@ -5,8 +5,6 @@ description: "Nabavite Evermusic Pro putem Setapp Mobile. Streamajte glazbu s Go
 keywords: ["Setapp Mobile", "Evermusic Pro", "cloud glazbeni player", "streaming glazbe iPhone", "offline glazba iOS", "Setapp iOS aplikacije", "audiofilska aplikacija iPhone", "ekvilajzer iOS", "NAS glazba iPhone", "cloud pohrana glazbeni player", "Setapp glazbena aplikacija", "streaming glazbe s Google Drive iPhone"]
 tags: ["evermusic", "setapp", "oblak", "audio", "mobilno", "tržište", "glazba", "ios aplikacije"]
 draft: false
-aliases:
-  - /post/setapp-mobile-and-evermusic-pro/
 cascade:
   type: docs
 authors:

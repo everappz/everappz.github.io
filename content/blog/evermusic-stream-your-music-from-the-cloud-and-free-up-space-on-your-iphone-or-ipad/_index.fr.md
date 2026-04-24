@@ -5,9 +5,6 @@ description: "Streamez votre musique depuis Google Drive, Dropbox ou OneDrive su
 keywords: ["Evermusic", "lecteur musique cloud", "application musique iOS", "streamer musique depuis le cloud", "musique hors ligne iPhone", "lecteur musique Google Drive", "streaming musique Dropbox", "lecteur MP3 iPhone", "libérer espace iPhone", "musique depuis SMB", "lire musique depuis stockage cloud iOS", "lecteur musique sans iTunes"]
 tags: ["audio", "streaming", "lecteur", "mp3", "téléchargeur", "GoogleDrive", "Dropbox", "musique cloud", "lecture hors ligne"]
 draft: false
-aliases:
-  - /post/evermusic-stream-your-music-from-the-cloud-and-free-up-space-on-your-iphone-or-ipad/
-  - /single-post/Evermusic-stream-your-music-from-the-cloud-and-free-up-space-on-your-iPhone-or-iPad/
 cascade:
   type: docs
 authors:

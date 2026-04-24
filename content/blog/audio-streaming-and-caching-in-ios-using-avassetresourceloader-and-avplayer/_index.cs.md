@@ -5,9 +5,6 @@ description: "Naučte se, jak streamovat a ukládat zvuk do mezipaměti v iOS po
 keywords: ["streamování zvuku iOS", "AVAssetResourceLoaderDelegate", "AVURLAsset", "tutoriál AVPlayer", "zvuk AVFoundation", "AVAssetResourceLoadingRequest", "vlastní audio přehrávač iOS", "cloudové streamování zvuku iOS", "ukládání zvuku do mezipaměti iOS", "Swift AVPlayer vlastní schéma"]
 tags: ["streaming", "AVPlayer", "AVFoundation", "iOS", "AVAssetResourceLoader", "tutorial", "Objective-C", "audio caching"]
 draft: false
-aliases:
-  - /post/audio-streaming-and-caching-in-ios-using-avassetresourceloader-and-avplayer/
-  - /single-post/Audio-Streaming-and-Caching-in-iOS-using-AVAssetResourceLoader-and-AVPlayer/
 cascade:
   type: docs
 authors:

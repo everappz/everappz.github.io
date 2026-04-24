@@ -5,8 +5,6 @@ description: "Evermusic ทะลุ 11 ล้านดาวน์โหลด 
 keywords: ["Evermusic 11 ล้านดาวน์โหลด", "เครื่องเล่นเพลงคลาวด์ที่ดีที่สุด iOS", "เครื่องเล่นเพลงออฟไลน์ iPhone", "สตรีมเพลง iCloud Drive", "แอปอีควอไลเซอร์ 10 แบนด์", "โปรแกรมแก้ไขแท็ก ID3 iOS", "ซิงค์เครื่องเล่นเพลง Mac iPhone", "เครื่องเล่น FLAC iPhone"]
 tags: ["Evermusic", "เหตุการณ์สำคัญ", "เพลงคลาวด์", "เล่นออฟไลน์", "iCloud Drive", "อีควอไลเซอร์", "เครื่องเล่นเพลง iOS"]
 draft: false
-aliases:
-  - /post/evermusic-celebrates-11-million-worldwide-downloads-a-musical-milestone/
 cascade:
   type: docs
 authors:

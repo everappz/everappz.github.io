@@ -5,8 +5,6 @@ description: "Evermusic 2.3 legger til automatisk synkronisering av skymusikk, l
 keywords: ["Evermusic", "sky-musikkspiller", "musikksynkronisering iOS", "lagre avspillingsposisjon", "lydbokavspilling", "metadataleser", "fikse ID3-tagger", "strømme musikk fra skyen", "musikkapp for Dropbox", "Google Drive-spiller", "automatisk musikkbiblioteksynkronisering", "lagre lydbokposisjon iOS"]
 tags: ["evermusic", "musikk", "avspilling", "behandler", "redigering", "synkronisering", "posisjon", "id3-tagger", "sky", "nytt"]
 draft: false
-aliases:
-  - /post/evermusic-sync-your-music-library-save-playback-position-correct-music-tags/
 cascade:
   type: docs
 authors:

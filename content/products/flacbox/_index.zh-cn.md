@@ -6,8 +6,6 @@ layout: hextra-home
 description: "在iPhone上播放和下载FLAC、DSD、APE、ALAC文件。通过均衡器直接从云存储或计算机收听音乐。"
 keywords: ["FLAC播放器iPhone", "无损音乐播放器", "高解析度音频播放器", "DSD播放器iOS", "ALAC播放器iPhone", "离线音乐播放器iOS", "云音乐播放器", "从NAS串流音乐", "在iPhone上播放FLAC", "带标签的iPhone音乐播放器", "Mac音乐播放器", "下载音乐iPhone", "音频均衡器iOS", "USB音乐播放器iPhone", "多云音乐播放器", "SMB WebDAV DLNA播放器", "iTunes文件共享应用", "AirPlay和Chromecast支持"]
 tags: ["FLAC播放器", "高解析度音频", "离线播放", "云音乐", "DSD音频", "Mac应用", "iPhone应用", "USB音频iOS", "音乐文件管理器", "音频均衡器", "元数据编辑器", "MP3播放器", "SMB播放器", "Chromecast音乐", "CarPlay音乐播放器", "多格式支持", "音乐串流", "音频库管理器"]
-aliases:
-  - /flacbox/
 appStoreUrl: "https://apps.apple.com/app/apple-store/id1097564256?pt=95781850&ct=everappzcom&mt=8"
 appStoreId: "1097564256"
 features: "高解析度FLAC/DSD/APE/ALAC播放, 云串流(iCloud、Google Drive、Dropbox、OneDrive、MEGA、Box), 带预设的音频均衡器, 交叉淡入淡出和无缝播放, M3U播放列表导入/导出, 歌词查看器, 音频书签, Apple CarPlay, AirPlay和Chromecast, SMB/WebDAV/DLNA支持, USB闪存驱动器播放, Last.fm记录, 内置标签编辑器"

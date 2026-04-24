@@ -5,9 +5,6 @@ description: "Opi suoratoistamaan ja välimuistittamaan ääntä iOS:ssa käytt�
 keywords: ["iOS äänisuoratoisto", "AVAssetResourceLoaderDelegate", "AVURLAsset", "AVPlayer opas", "AVFoundation ääni", "AVAssetResourceLoadingRequest", "mukautettu äänisoitin iOS", "pilvipalvelun äänisuoratoisto iOS", "äänivälimuisti iOS", "Swift AVPlayer mukautettu skeema"]
 tags: ["streaming", "AVPlayer", "AVFoundation", "iOS", "AVAssetResourceLoader", "tutorial", "Objective-C", "audio caching"]
 draft: false
-aliases:
-  - /post/audio-streaming-and-caching-in-ios-using-avassetresourceloader-and-avplayer/
-  - /single-post/Audio-Streaming-and-Caching-in-iOS-using-AVAssetResourceLoader-and-AVPlayer/
 cascade:
   type: docs
 authors:

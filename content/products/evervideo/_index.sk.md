@@ -6,8 +6,6 @@ layout: hextra-home
 description: "Stiahnite si najlepší bezplatný video prehrávač pre iPhone a Mac. Sledujte 360° videá, aktivujte titulky, upravte video ekvalizér, organizujte videá pomocou playlistov, stiahnite si ich pre offline prehrávanie a streamujte z iCloudu."
 keywords: ["video prehrávač iPhone", "video prehrávač Mac", "360 video prehrávač", "offline video prehrávač iOS", "streamovanie videí z iCloud", "podpora titulkov iOS", "video ekvalizér iPhone", "AirPlay video aplikácia", "Chromecast video prehrávač", "DLNA video streamovanie", "SMB WebDAV video prehrávač", "USB video prehrávač iPhone", "organizovanie video playlistov", "Mac video prehrávač s titulkami", "iTunes File Sharing video aplikácia", "bezplatná video aplikácia iOS", "správca médií pre videá", "multifor­mátový video prehrávač"]
 tags: ["video prehrávač", "offline prehrávanie", "podpora titulkov", "iCloud streamovanie", "AirPlay", "Chromecast", "DLNA", "SMB", "WebDAV", "USB prístup k videám", "iPhone aplikácie", "Mac aplikácie", "organizátor médií", "360 video", "video playlisty", "zdieľanie súborov", "bezplatný video prehrávač", "podpora viacerých formátov"]
-aliases:
-  - /evervideo/
 appStoreUrl: "https://apps.apple.com/us/app/evervideo-hd-video-player/id6602897336?ct=everappzcom&mt=8"
 appStoreId: "6602897336"
 features: "HD prehrávanie videa vo všetkých formátoch (MKV, AVI, MP4, MOV, FLV, WMV, WEBM), podpora 360-stupňového a VR videa, režim Obraz v obraze, video a audio ekvalizér s 50+ predvoľbami, podpora titulkov, streamovanie z cloudu (iCloud, Google Drive, Dropbox, OneDrive, MEGA), offline sťahovanie, knižnica médií s playlistami, AirPlay a Chromecast, podpora SMB/WebDAV/DLNA, prehrávanie z USB flash disku"

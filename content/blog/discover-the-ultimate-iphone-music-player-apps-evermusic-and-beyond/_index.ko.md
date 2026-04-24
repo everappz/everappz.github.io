@@ -5,8 +5,6 @@ description: "최고의 iPhone 음악 플레이어 앱 비교: Evermusic, Apple 
 keywords: ["최고의 iPhone 음악 플레이어", "iOS 음악 플레이어 앱", "Evermusic vs Spotify", "클라우드 음악 플레이어 iPhone", "오프라인 음악 앱 iPhone", "FLAC 플레이어 iOS", "Apple Music 대안", "VLC iPhone", "무료 음악 플레이어 iOS"]
 tags: ["음악 앱", "iOS", "Evermusic", "Apple Music", "Spotify", "VLC", "Amazon Music", "비교", "클라우드 음악", "오프라인 재생"]
 draft: false
-aliases:
-  - /post/discover-the-ultimate-iphone-music-player-apps-evermusic-and-beyond/
 cascade:
   type: docs
 authors:

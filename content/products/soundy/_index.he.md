@@ -10,8 +10,6 @@ layout: hextra-home
 description: "אלפי לקוחות משתמשים ב-Soundy כנגן SoundCloud ברירת המחדל באייפון. קבלו איכות שמע מעולה, אקולייזר ועוד הרבה יותר."
 keywords: ["Soundy", "נגן SoundCloud אייפון", "אקולייזר מוזיקה iOS", "אקולייזר ל-SoundCloud", "נגן SoundCloud אופליין", "משפר איכות שמע iOS", "אפליקציית SoundCloud EQ", "לקוח SoundCloud הטוב ביותר אייפון", "אפליקציות מוזיקה אייפון", "נגן SoundCloud חלופי"]
 tags: ["Soundy", "SoundCloud", "אפליקציות iOS", "אקולייזר מוזיקה", "נגן שמע", "השמעה אופליין", "אפליקציית מוזיקה אייפון", "אפליקציות שהופסקו", "נגן מדיה", "הזרמת מוזיקה"]
-aliases:
-  - /soundy/
 ---
 
 <div class="hx:w-full hx:max-w-screen-lg hx:mx-auto hx:flex hx:flex-col hx:items-center hx:justify-center hx:text-center">

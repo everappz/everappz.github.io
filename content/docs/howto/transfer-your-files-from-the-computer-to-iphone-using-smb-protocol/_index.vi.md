@@ -5,8 +5,6 @@ date: 2022-03-17
 readingTime: 3
 tags: ["cloud", "streaming", "computer", "mp3", "file", "downloader", "manager", "pc", "mac", "sharing", "windows", "smb"]
 keywords: ["chuyển tệp sang iPhone SMB", "phát nhạc PC trên iPhone", "kết nối Mac với iPhone SMB", "thiết lập Evermusic SMB", "truy cập tệp máy tính iPhone", "chia sẻ nhạc Windows iOS", "chuyển tệp SMB Evermusic"]
-aliases:
-  - /post/transfer-your-files-from-the-computer-to-iphone-using-smb-protocol/
 ---
 
 {{< author-byline >}}

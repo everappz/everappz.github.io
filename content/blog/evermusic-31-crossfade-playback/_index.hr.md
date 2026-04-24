@@ -5,9 +5,6 @@ description: "Evermusic 3.1 dodaje crossfade reprodukciju, redizajniranu glazben
 keywords: ["Evermusic ažuriranje", "crossfade reprodukcija iOS", "aplikacija za glazbu u oblaku", "aplikacija za sigurnosnu kopiju glazbe", "red čekanja audio playera", "uređivač glazbenih oznaka", "ažuriranje ID3 oznaka", "integracija iPod biblioteke", "glazbeni player iPhone", "crossfade glazba iOS", "sinkronizacija glazbene biblioteke oblak", "sigurnosna kopija glazbenih popisa iOS"]
 tags: ["Evermusic", "crossfade", "glazbena biblioteka", "sigurnosna kopija", "audio red čekanja", "oznake", "cloud player", "izvanmrežni player", "uređivač", "iPod biblioteka"]
 draft: false
-aliases:
-  - /post/evermusic-31-crossfade-playback/
-  - /single-post/Evermusic-Sync-your-Music-Library-Save-playback-position-Correct-music-tags/
 cascade:
   type: docs
 authors:

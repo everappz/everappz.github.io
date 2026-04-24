@@ -5,9 +5,6 @@ description: "iOS için Flacbox 1.6, otomatik bulut senkronizasyonu, 10 bantlı 
 keywords: ["Flacbox güncelleme", "FLAC çalar iOS", "10 bantlı ekolayzır iPhone", "otomatik müzik senkronizasyonu", "iPhone'da OPUS oynatma", "harici flash sürücü müzik", "FLAC akışı iOS", "hi-res müzik uygulaması iPhone", "Flacbox ekolayzır", "SD kart müzik çalar iOS"]
 tags: ["Flacbox", "ekolayzır", "müzik kütüphanesi", "OPUS", "FLAC", "harici depolama", "senkronizasyon", "ses çalar", "iOS uygulamaları", "güncelleme"]
 draft: false
-aliases:
-  - /post/flacbox-for-ios-automatic-music-library-sync-equalizer-opus-external-flash/
-  - /single-post/Flacbox-for-iOS-Automatic-Music-Library-Sync-Equalizer-OPUS-External-Flash/
 cascade:
   type: docs
 authors:

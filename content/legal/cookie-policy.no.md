@@ -2,8 +2,6 @@
 date: '2025-06-12T17:00:00+00:00'
 draft: false
 title: 'Retningslinjer for informasjonskapsler'
-aliases:
-  - /cookie-policy/
 ---
 
 ## Denne nettsiden bruker informasjonskapsler

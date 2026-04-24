@@ -6,8 +6,6 @@ layout: hextra-home
 description: "Tải xuống trình phát video miễn phí tốt nhất cho iPhone và Mac. Xem video 360°, bật phụ đề, điều chỉnh bộ cân bằng video, sắp xếp video bằng danh sách phát, tải về để xem ngoại tuyến và phát trực tuyến từ iCloud."
 keywords: ["trình phát video iPhone", "trình phát video Mac", "trình phát video 360", "trình phát video ngoại tuyến iOS", "phát trực tuyến video từ iCloud", "hỗ trợ phụ đề iOS", "bộ cân bằng video iPhone", "ứng dụng video AirPlay", "trình phát video Chromecast", "phát trực tuyến video DLNA", "trình phát video SMB WebDAV", "trình phát video USB iPhone", "sắp xếp danh sách phát video", "trình phát video Mac có phụ đề", "ứng dụng chia sẻ tệp iTunes", "ứng dụng video miễn phí iOS", "quản lý phương tiện video", "trình phát video đa định dạng"]
 tags: ["trình phát video", "phát ngoại tuyến", "hỗ trợ phụ đề", "phát trực tuyến iCloud", "AirPlay", "Chromecast", "DLNA", "SMB", "WebDAV", "truy cập video USB", "ứng dụng iPhone", "ứng dụng Mac", "quản lý phương tiện", "video 360", "danh sách phát video", "chia sẻ tệp", "trình phát video miễn phí", "hỗ trợ đa định dạng"]
-aliases:
-  - /evervideo/
 appStoreUrl: "https://apps.apple.com/us/app/evervideo-hd-video-player/id6602897336?ct=everappzcom&mt=8"
 appStoreId: "6602897336"
 features: "Phát video HD ở mọi định dạng (MKV, AVI, MP4, MOV, FLV, WMV, WEBM), Hỗ trợ video 360 độ và VR, Chế độ Hình trong hình, Bộ cân bằng video và âm thanh với hơn 50 cài đặt sẵn, Hỗ trợ phụ đề, Phát trực tuyến đám mây (iCloud, Google Drive, Dropbox, OneDrive, MEGA), Tải về ngoại tuyến, Thư viện phương tiện với danh sách phát, AirPlay và Chromecast, Hỗ trợ SMB/WebDAV/DLNA, Phát từ ổ USB"

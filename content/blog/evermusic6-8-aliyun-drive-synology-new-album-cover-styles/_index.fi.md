@@ -5,8 +5,6 @@ description: "Evermusic 6.8 lisää Aliyun Drive- ja Synology NAS -tuen, uusia a
 keywords: ["Evermusic päivitys", "Aliyun Drive musiikkisoitin", "Synology NAS musiikki", "pilvimusiikin soitin iOS", "äänisoitin iOS", "albumin kansikuvatyylit", "raahaa ja pudota tiedostoselain", "Evermusic 6.8", "FLAC-soitin iOS", "QuickConnect musiikkisoitin", "NAS musiikin suoratoisto iPhone"]
 tags: ["Evermusic", "Aliyun Drive", "Synology", "albumin kansikuvat", "pilvimusiikki", "iOS musiikkisovellus", "uutiset"]
 draft: false
-aliases:
-  - /post/evermusic6-8-aliyun-drive-synology-new-album-cover-styles/
 cascade:
   type: docs
 authors:

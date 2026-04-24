@@ -5,8 +5,6 @@ description: "Evermusic 2.3 voegt automatische cloudmuziek-synchronisatie, opsla
 keywords: ["Evermusic", "cloud muziekspeler", "muziek synchronisatie iOS", "afspeelpositie opslaan", "audioboek afspelen", "metadata lezer", "ID3-tags corrigeren", "muziek streamen vanuit cloud", "muziek-app voor Dropbox", "Google Drive speler", "automatische muziekbibliotheek synchronisatie", "audioboek positie opslaan iOS"]
 tags: ["evermusic", "muziek", "afspelen", "beheerder", "editor", "synchronisatie", "positie", "id3tags", "cloud", "nieuw"]
 draft: false
-aliases:
-  - /post/evermusic-sync-your-music-library-save-playback-position-correct-music-tags/
 cascade:
   type: docs
 authors:

@@ -5,8 +5,6 @@ description: "يتصل Evermusic بأكثر من 12 خدمة سحابية، وي
 keywords: ["أفضل مشغل موسيقى سحابي iOS", "مشغل موسيقى سحابي iPhone", "تشغيل الموسيقى من Dropbox", "مشغل موسيقى بدون إنترنت iPhone", "مشغل FLAC iOS", "مراجعة Evermusic", "مدير مكتبة موسيقى iOS", "مشغل موسيقى Google Drive", "مشغل موسيقى NAS iPhone", "مشغل موسيقى WebDAV"]
 tags: ["Evermusic", "cloud music", "offline playback", "iOS music apps", "MP3 player", "audio", "music streaming", "guide", "FLAC", "review"]
 draft: false
-aliases:
-  - /post/best-cloud-music-player-for-ios/
 cascade:
   type: docs
 authors:

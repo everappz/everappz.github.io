@@ -5,9 +5,6 @@ description: "Strøm musikk fra Google Drive, Dropbox eller OneDrive på iPhone 
 keywords: ["Evermusic", "sky-musikkspiller", "iOS musikkapp", "strømme musikk fra skyen", "frakoblet musikk iPhone", "Google Drive musikkspiller", "Dropbox musikkstrømming", "MP3-spiller iPhone", "frigjøre plass iPhone", "musikk fra SMB", "spille musikk fra skylagring iOS", "musikkspiller uten iTunes"]
 tags: ["lyd", "strømming", "spiller", "mp3", "nedlaster", "GoogleDrive", "Dropbox", "skymusikk", "frakoblet avspilling"]
 draft: false
-aliases:
-  - /post/evermusic-stream-your-music-from-the-cloud-and-free-up-space-on-your-iphone-or-ipad/
-  - /single-post/Evermusic-stream-your-music-from-the-cloud-and-free-up-space-on-your-iPhone-or-iPad/
 cascade:
   type: docs
 authors:

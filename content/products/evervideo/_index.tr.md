@@ -6,8 +6,6 @@ layout: hextra-home
 description: "iPhone ve Mac'iniz için en iyi ücretsiz video oynatıcıyı indirin. 360° videoları izleyin, altyazıları etkinleştirin, video ekolayzerini ayarlayın, videolarınızı çalma listeleriyle düzenleyin, çevrimdışı indirin ve iCloud'dan yayınlayın."
 keywords: ["video oynatıcı iPhone", "video oynatıcı Mac", "360 video oynatıcı", "çevrimdışı video oynatıcı iOS", "iCloud'dan video yayınlama", "altyazı desteği iOS", "video ekolayzeri iPhone", "AirPlay video uygulaması", "Chromecast video oynatıcı", "DLNA video yayını", "SMB WebDAV video oynatıcı", "USB video oynatıcı iPhone", "video çalma listeleri düzenleme", "Mac altyazılı video oynatıcı", "iTunes Dosya Paylaşımı video uygulaması", "ücretsiz video uygulaması iOS", "video medya yöneticisi", "çoklu format video oynatıcı"]
 tags: ["video oynatıcı", "çevrimdışı oynatma", "altyazı desteği", "iCloud yayını", "AirPlay", "Chromecast", "DLNA", "SMB", "WebDAV", "USB video erişimi", "iPhone uygulamaları", "Mac uygulamaları", "medya düzenleyici", "360 video", "video çalma listeleri", "dosya paylaşımı", "ücretsiz video oynatıcı", "çoklu format desteği"]
-aliases:
-  - /evervideo/
 appStoreUrl: "https://apps.apple.com/us/app/evervideo-hd-video-player/id6602897336?ct=everappzcom&mt=8"
 appStoreId: "6602897336"
 features: "Tüm formatlarda HD video oynatma (MKV, AVI, MP4, MOV, FLV, WMV, WEBM), 360 derece ve VR video desteği, Resim İçinde Resim modu, 50'den fazla hazır ayarlı Video ve ses ekolayzeri, Altyazı desteği, Bulut yayını (iCloud, Google Drive, Dropbox, OneDrive, MEGA), Çevrimdışı indirme, Çalma listeleriyle Medya kütüphanesi, AirPlay ve Chromecast, SMB/WebDAV/DLNA desteği, USB flash sürücüden oynatma"

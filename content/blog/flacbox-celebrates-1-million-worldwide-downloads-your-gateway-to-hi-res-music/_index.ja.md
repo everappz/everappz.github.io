@@ -5,8 +5,6 @@ description: "Flacboxが世界で100万ダウンロードを達成。iPhone、iP
 keywords: ["Flacbox音楽プレーヤー", "Hi-ResオーディオiOS", "ロスレス音楽アプリ", "DSD FLAC APEプレーヤー", "オフラインFLAC音楽", "Flacboxダウンロードマイルストーン", "高音質オーディオiPhone", "Everappzオーディオアプリ", "CUEプレイリストプレーヤー", "100万ダウンロード", "最高のFLACプレーヤーiOS", "Hi-Res音楽プレーヤーMac"]
 tags: ["Flacbox", "ロスレス", "Hi-Resオーディオ", "音楽プレーヤー", "オーディオ", "マイルストーン", "iOSアプリ", "新機能"]
 draft: false
-aliases:
-  - /post/flacbox-celebrates-1-million-worldwide-downloads-your-gateway-to-hi-res-music/
 cascade:
   type: docs
 authors:

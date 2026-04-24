@@ -6,9 +6,6 @@ layout: hextra-home
 description: "音楽ライブラリを整理整頓。不足しているタグを検索。一括編集。アルバムカバーの変更など多数の機能。"
 keywords: ["Evertag", "オーディオタグエディタ", "ID3タグマネージャー", "音楽メタデータ編集", "FLACタグエディタ", "音楽整理アプリ", "MP3メタデータエディタ", "iOS音楽タグエディタ", "Macオーディオタグアプリ", "音楽ファイルリネーム"]
 tags: ["Evertag", "ID3タグ", "音楽メタデータ", "オーディオタグエディタ", "MP3エディタ", "FLACタグ付け", "iPhoneユーティリティ", "Mac音楽ツール", "音楽ライブラリ管理"]
-aliases:
-  - /evertag/
-  - /mp3tag/
 appStoreUrl: "https://apps.apple.com/app/apple-store/id1450763230?pt=95781850&ct=everappzcom&mt=8"
 appStoreId: "1450763230"
 features: "120以上のオーディオタグ編集, 一括タグ編集, アルバムカバー検索, 30以上のオーディオフォーマット対応, MusicBrainz経由の自動タグ検索, エンコーディング問題の修正, クラウド・USB接続, Wi-Fi音楽転送, 内蔵ファイルマネージャー, 歌詞エディタ"

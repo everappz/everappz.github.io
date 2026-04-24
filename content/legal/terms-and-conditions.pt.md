@@ -2,11 +2,6 @@
 date: '2025-06-12T17:00:00+00:00'
 draft: false
 title: 'Termos e Condições'
-aliases:
-  - /terms-and-conditions/
-  - /terms-and-conditionsDec/
-  - /terms-and-condition/
-  - /terms-and-conditionsMay/
 ---
 
 EVERAPPZ S.L. é a proprietária de aplicações como Evermusic, Evermusic Pro, Flacbox e Evertag. Estes leitores de música suportam vários tipos de ficheiros, e o Evertag permite-lhe editar etiquetas de áudio dos seus ficheiros, tudo em conformidade com os Termos e Condições.

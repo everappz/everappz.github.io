@@ -5,8 +5,6 @@ description: "Xem video quảng cáo Evermusic giới thiệu phát nhạc đám
 keywords: ["video quảng cáo Evermusic", "trình phát nhạc iOS", "ứng dụng nhạc đám mây iPhone", "demo ứng dụng Evermusic", "trình phát nhạc tốt nhất iPhone", "trình phát nhạc offline iOS"]
 tags: ["Evermusic", "quảng cáo", "nhạc", "video", "nhạc đám mây", "ứng dụng iOS"]
 draft: false
-aliases:
-  - /post/evermusic-be-inspired-by-music/
 sidebar:
   exclude: true
 cascade:

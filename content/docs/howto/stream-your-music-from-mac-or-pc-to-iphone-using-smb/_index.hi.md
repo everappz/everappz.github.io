@@ -5,9 +5,6 @@ date: 2016-05-29
 readingTime: 3
 tags: ["cloud", "streaming", "computer", "mp3", "file", "downloader", "manager", "pc", "mac", "sharing", "windows", "smb"]
 keywords: ["Mac से iPhone पर संगीत स्ट्रीम करें", "SMB ऑडियो स्ट्रीमिंग iOS", "Evermusic SMB सेटअप", "PC संगीत iPhone कनेक्ट करें", "Mac संगीत शेयर iOS", "SMB Windows फाइल स्ट्रीमिंग", "Evermusic PC फोल्डर एक्सेस"]
-aliases:
-  - /post/stream-your-music-from-mac-or-pc-to-iphone-using-smb/
-  - /single-post/Stream-your-music-from-MAC-or-PC-to-iPhone-using-SMB/
 ---
 
 {{< author-byline >}}

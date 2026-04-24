@@ -5,8 +5,6 @@ description: "Spielen Sie FLAC, DSD, ALAC und 120+ Audioformate auf iPhone und M
 keywords: ["verlustfreier Musikplayer", "FLAC Player iOS", "DSD Player iPhone", "Hi-Res Audio Mac", "Flacbox App", "bester FLAC Player iPhone", "Offline FLAC Player", "Audiophiler Musikplayer iOS", "Mac FLAC Player", "Hi-Res Streaming iOS", "FLAC auf iPhone abspielen", "DSD128 Player", "verlustfreie Audio App"]
 tags: ["flacbox", "Musik", "Audio", "verlustfrei", "iphone", "mac", "flac", "dsd", "audiophil"]
 draft: false
-aliases:
-  - /post/unleash-audiophile-bliss-playing-lossless-music-on-iphone-or-mac-with-flacbox/
 cascade:
   type: docs
 authors:

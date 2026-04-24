@@ -6,8 +6,6 @@ layout: hextra-home
 description: "Scarica il miglior lettore video gratuito per il tuo iPhone e Mac. Guarda video a 360°, attiva i sottotitoli, regola l'equalizzatore video, organizza i tuoi video con playlist, scarica per la visione offline e riproduci in streaming da iCloud."
 keywords: ["lettore video iPhone", "lettore video Mac", "lettore video 360", "lettore video offline iOS", "streaming video da iCloud", "supporto sottotitoli iOS", "equalizzatore video iPhone", "app video AirPlay", "lettore video Chromecast", "streaming video DLNA", "lettore video SMB WebDAV", "lettore video USB iPhone", "organizzare playlist video", "lettore video Mac con sottotitoli", "app video iTunes File Sharing", "app video gratuita iOS", "gestore multimediale per video", "lettore video multi-formato"]
 tags: ["lettore video", "riproduzione offline", "supporto sottotitoli", "streaming iCloud", "AirPlay", "Chromecast", "DLNA", "SMB", "WebDAV", "accesso video USB", "app iPhone", "app Mac", "organizzatore multimediale", "video 360", "playlist video", "condivisione file", "lettore video gratuito", "supporto multi-formato"]
-aliases:
-  - /evervideo/
 appStoreUrl: "https://apps.apple.com/us/app/evervideo-hd-video-player/id6602897336?ct=everappzcom&mt=8"
 appStoreId: "6602897336"
 features: "Riproduzione video HD in tutti i formati (MKV, AVI, MP4, MOV, FLV, WMV, WEBM), Supporto video a 360 gradi e VR, Modalità Picture-in-Picture, Equalizzatore video e audio con oltre 50 preset, Supporto sottotitoli, Streaming cloud (iCloud, Google Drive, Dropbox, OneDrive, MEGA), Download offline, Libreria multimediale con playlist, AirPlay e Chromecast, Supporto SMB/WebDAV/DLNA, Riproduzione da chiavetta USB"

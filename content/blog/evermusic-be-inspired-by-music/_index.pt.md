@@ -5,8 +5,6 @@ description: "Assista ao vídeo promocional do Evermusic mostrando streaming de 
 keywords: ["Vídeo promocional Evermusic", "reprodutor de música iOS", "app de música na nuvem iPhone", "demo do app Evermusic", "melhor reprodutor de música iPhone", "reprodutor de música offline iOS"]
 tags: ["Evermusic", "promoção", "música", "vídeo", "música na nuvem", "app iOS"]
 draft: false
-aliases:
-  - /post/evermusic-be-inspired-by-music/
 sidebar:
   exclude: true
 cascade:

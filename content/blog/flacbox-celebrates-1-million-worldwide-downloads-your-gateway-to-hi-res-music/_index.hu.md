@@ -5,8 +5,6 @@ description: "A Flacbox elérte az 1 millió globális letöltést. Fedezd fel a
 keywords: ["Flacbox zenelejátszó", "hi-res audio iOS", "veszteségmentes zenei alkalmazás", "DSD FLAC APE lejátszó", "offline FLAC zene", "Flacbox letöltési mérföldkő", "kiváló minőségű audio iPhone", "Everappz audio alkalmazások", "CUE lejátszási lista lejátszó", "1 millió letöltés", "legjobb FLAC lejátszó iOS", "hi-res zenelejátszó Mac"]
 tags: ["Flacbox", "veszteségmentes", "hi-res audio", "zenelejátszó", "audio", "mérföldkő", "iOS alkalmazások", "Újdonságok"]
 draft: false
-aliases:
-  - /post/flacbox-celebrates-1-million-worldwide-downloads-your-gateway-to-hi-res-music/
 cascade:
   type: docs
 authors:

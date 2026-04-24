@@ -5,9 +5,6 @@ description: "Evermusic 3.1 menambah main balik crossfade, pustaka muzik yang di
 keywords: ["Kemas kini Evermusic", "main balik crossfade iOS", "aplikasi muzik awan", "aplikasi sandaran muzik", "baris gilir pemain audio", "editor tag muzik", "kemas kini tag ID3", "integrasi pustaka iPod", "pemain muzik iPhone", "muzik crossfade iOS", "segerak pustaka muzik awan", "sandaran senarai main muzik iOS"]
 tags: ["Evermusic", "crossfade", "pustaka muzik", "sandaran", "baris gilir audio", "tag", "pemain awan", "pemain luar talian", "editor", "pustaka iPod"]
 draft: false
-aliases:
-  - /post/evermusic-31-crossfade-playback/
-  - /single-post/Evermusic-Sync-your-Music-Library-Save-playback-position-Correct-music-tags/
 cascade:
   type: docs
 authors:

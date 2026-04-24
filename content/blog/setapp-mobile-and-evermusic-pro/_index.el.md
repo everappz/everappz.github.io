@@ -5,8 +5,6 @@ description: "Αποκτήστε το Evermusic Pro μέσω Setapp Mobile. Κά
 keywords: ["Setapp Mobile", "Evermusic Pro", "αναπαραγωγέας μουσικής cloud", "streaming μουσικής iPhone", "μουσική εκτός σύνδεσης iOS", "εφαρμογές Setapp iOS", "εφαρμογή audiophile iPhone", "equalizer iOS", "μουσική NAS iPhone", "αναπαραγωγέας μουσικής cloud αποθήκευσης", "εφαρμογή μουσικής Setapp", "streaming μουσικής από Google Drive iPhone"]
 tags: ["evermusic", "setapp", "cloud", "ήχος", "κινητό", "marketplace", "μουσική", "εφαρμογές ios"]
 draft: false
-aliases:
-  - /post/setapp-mobile-and-evermusic-pro/
 cascade:
   type: docs
 authors:
