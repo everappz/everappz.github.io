@@ -16,7 +16,7 @@ aliases:
 
 **TL;DR:** Download [Flacbox](/products/flacbox) (free), connect your cloud storage or NAS, and start playing FLAC, DSD, OGG, OPUS, MP3, and WAV files on your iPhone or iPad -- with a 10-band equalizer, offline mode, and AirPlay support.
 
-[{{< figure src="/Flacbox_Icon-App-1024x1024.webp" alt="Flacbox Icon - FLAC music player and downloader" width="160" >}}](/products/flacbox)
+[{{< figure src="/docs/howto/how-to-play-flac-music-on-iphone/Flacbox_Icon-App-1024x1024.webp" alt="Flacbox Icon - FLAC music player and downloader" width="160" >}}](/products/flacbox)
 
 Apple's iOS 11 brought support for FLAC audio format to the Files app, but FLAC files can be quite large. Imagine having the flexibility to play your own FLAC music library from the cloud and download it whenever you want. That's where Flacbox steps in, providing a comprehensive solution to this music lover's dream.
 

@@ -39,7 +39,7 @@ Before listening to YouTube songs on your device, you must convert the music fil
 First, go to the YouTube video that you want to convert to an audio file. Open YouTube in Safari, find the video and tap and hold the video title to open the context menu. Select the "Copy" action to copy the video URL to the clipboard. You can also click “Share” to copy the video link.
 
 {{< figure
-  src="/21260c_483d5b4e7bb2459280a1f3555bbf4a41~mv2.jpg"
+  src="/docs/howto/how-to-download-music-from-youtube-and-listen-to-offline-music-on-iphone/21260c_483d5b4e7bb2459280a1f3555bbf4a41~mv2.jpg"
   alt="Copy Youtube Video Link"
   caption="Copy Youtube Video Link"
   width="400"
@@ -50,7 +50,7 @@ First, go to the YouTube video that you want to convert to an audio file. Open Y
 Next, go to a YouTube-to-MP3 converter website and paste the URL link in the text box. Click “Convert” and wait for the operation to complete. The website will then provide you with a link that you click to download the converted audio file.
 
 {{< figure
-  src="/21260c_200ac3cb05d24fbe82ca4139dffab17e~mv2.png"
+  src="/docs/howto/how-to-download-music-from-youtube-and-listen-to-offline-music-on-iphone/21260c_200ac3cb05d24fbe82ca4139dffab17e~mv2.png"
   alt="Download Youtube Video"
   caption="Download Youtube Video"
   width="400"
@@ -61,7 +61,7 @@ Next, go to a YouTube-to-MP3 converter website and paste the URL link in the tex
 The file is usually converted to MP3 format, although there are other audio formats available. Once you have downloaded the file, you have the choice to store the file in your iCloud or Local Files.
 
 {{< figure
-  src="/21260c_daf0349d6e3e464699c4bd44182e4548~mv2.png"
+  src="/docs/howto/how-to-download-music-from-youtube-and-listen-to-offline-music-on-iphone/21260c_daf0349d6e3e464699c4bd44182e4548~mv2.png"
   alt="List Of Downloads"
   caption="List Of Downloads"
   width="400"
@@ -79,7 +79,7 @@ There are several ways to import downloaded files to the Evermusic app. The firs
 
 
 {{< figure
-  src="/21260c_d852202816d649dd83c4905cd74621d3~mv2.png"
+  src="/docs/howto/how-to-download-music-from-youtube-and-listen-to-offline-music-on-iphone/21260c_d852202816d649dd83c4905cd74621d3~mv2.png"
   alt="Downloads Folder iPhone"
   caption="Downloads Folder iPhone"
   width="400"
@@ -90,7 +90,7 @@ There are several ways to import downloaded files to the Evermusic app. The firs
 Then tap on that file to open it and select share action.
 
 {{< figure
-  src="/21260c_37d5ace0c1574fa5bb4ac3944ce919cf~mv2.png"
+  src="/docs/howto/how-to-download-music-from-youtube-and-listen-to-offline-music-on-iphone/21260c_37d5ace0c1574fa5bb4ac3944ce919cf~mv2.png"
   alt="Opened Audio File On iPhone"
   caption="Opened Audio File On iPhone"
   width="400"
@@ -99,7 +99,7 @@ Then tap on that file to open it and select share action.
 On the share screen tap the "More" button and select the Evermusic app to open that file in Evermusic.
 
 {{< figure
-  src="/21260c_5500693141dc42709ff45315fe96c303~mv2.jpg"
+  src="/docs/howto/how-to-download-music-from-youtube-and-listen-to-offline-music-on-iphone/21260c_5500693141dc42709ff45315fe96c303~mv2.jpg"
   alt="Open in Evermusic App"
   caption="Open in Evermusic App"
   width="400"
@@ -108,7 +108,7 @@ On the share screen tap the "More" button and select the Evermusic app to open t
 After this file will be opened in the Evermusic app and a confirmation alert will appear, asking if you want to copy that file to the Evermusic app for quick access.
 
 {{< figure
-  src="/21260c_24eba0c09ce04c3e8226d5d18cb79c98~mv2.png"
+  src="/docs/howto/how-to-download-music-from-youtube-and-listen-to-offline-music-on-iphone/21260c_24eba0c09ce04c3e8226d5d18cb79c98~mv2.png"
   alt="Copy File During Importing Alert"
   caption="Copy File During Importing Alert"
   width="400"
@@ -121,7 +121,7 @@ Evermusic also has a playlist manager so you can group your songs according to y
 Another case is much simpler. Just open the "Local files" tab navigate to the "Files on this iPhone" section and choose "Open files..." to open the files import dialog. You can select the downloaded file in that dialog and import it to the app. If you have several files, downloaded to your iPhone just select "Open folder..." and select "Downloads" folder. In that case, all files from the "Downloads" folder will be imported to the app.
 
 {{< figure
-  src="/21260c_d852202816d649dd83c4905cd74621d3~mv2.png"
+  src="/docs/howto/how-to-download-music-from-youtube-and-listen-to-offline-music-on-iphone/21260c_d852202816d649dd83c4905cd74621d3~mv2.png"
   alt="Downloads Screen iPhone"
   caption="Downloads Screen iPhone"
   width="400"
@@ -137,7 +137,7 @@ Here’s how to use ClipGrab:
 - **Search for Videos**: Open the app, go to the “Search” tab, and enter your search text to find the desired video. Tap on the video to proceed to the “Downloads” tab.
 
 {{< figure
-  src="/21260c_1422bfb63d924db69729fd4d8eb8cdfa~mv2.png"
+  src="/docs/howto/how-to-download-music-from-youtube-and-listen-to-offline-music-on-iphone/21260c_1422bfb63d924db69729fd4d8eb8cdfa~mv2.png"
   alt="ClipGrab Search"
   caption="ClipGrab Search"
   width="600"
@@ -146,7 +146,7 @@ Here’s how to use ClipGrab:
 - **Enter YouTube URL**: Alternatively, you can directly enter the YouTube URL in the “Downloads” tab. The app will search for the direct link.
 
 {{< figure
-  src="/21260c_ec6e17a9cb2d45a1bc221277bbe8c50b~mv2.png"
+  src="/docs/howto/how-to-download-music-from-youtube-and-listen-to-offline-music-on-iphone/21260c_ec6e17a9cb2d45a1bc221277bbe8c50b~mv2.png"
   alt="Enter YouTube URL"
   caption="Enter YouTube URL"
   width="600"
@@ -155,7 +155,7 @@ Here’s how to use ClipGrab:
 - **Choose Output Format**: Select the desired audio format and choose the destination directory on your Mac or PC.
 
 {{< figure
-  src="/21260c_41fa5a184c28499d9f18edfba518cba1~mv2.png"
+  src="/docs/howto/how-to-download-music-from-youtube-and-listen-to-offline-music-on-iphone/21260c_41fa5a184c28499d9f18edfba518cba1~mv2.png"
   alt="Choose Output Format"
   caption="Choose Output Format"
   width="400"
@@ -164,7 +164,7 @@ Here’s how to use ClipGrab:
 - **Start Downloading**: Tap “Grab this clip!” to start downloading.
 
 {{< figure
-  src="/21260c_06217f48c61747cf8a9788a8d11414af~mv2.png"
+  src="/docs/howto/how-to-download-music-from-youtube-and-listen-to-offline-music-on-iphone/21260c_06217f48c61747cf8a9788a8d11414af~mv2.png"
   alt="Start Downloading"
   caption="Start Downloading"
   width="600"
@@ -180,7 +180,7 @@ If you face download issues using ClipGrab, try the following steps:
 - **Relaunch ClipGrab**: Restart the app. On startup, the app will check the library version and download the latest version from the repository.
 
 {{< figure
-  src="/21260c_3814963362b047109f462adbd1901356~mv2.png"
+  src="/docs/howto/how-to-download-music-from-youtube-and-listen-to-offline-music-on-iphone/21260c_3814963362b047109f462adbd1901356~mv2.png"
   alt="Relaunch ClipGrab"
   caption="Relaunch ClipGrab"
   width="600"
@@ -189,7 +189,7 @@ If you face download issues using ClipGrab, try the following steps:
 - **Check Library Path**: You can check the current path for the yt-dlp library by opening the “About” tab in the app.
 
 {{< figure
-  src="/21260c_58b4eb59fb4a42a7bff226780655268e~mv2.png"
+  src="/docs/howto/how-to-download-music-from-youtube-and-listen-to-offline-music-on-iphone/21260c_58b4eb59fb4a42a7bff226780655268e~mv2.png"
   alt="Check Library Path"
   caption="Check Library Path"
   width="600"

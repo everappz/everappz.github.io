@@ -25,7 +25,7 @@ In our apps Evermusic and Flacbox, we've implemented M3U file import functionali
 
 First, navigate to the 'Playlists' section. Next, tap the 'More' button located in the top right corner. From the menu that appears, select the 'Import playlist' option.
 
-![import playlist action](21260c_fd95e0ec2f6a49bfb98fc33005b2f70a~mv2.png)
+![import playlist action](/docs/howto/how-to-import-m3u-playlist-to-evermusic-and-flacbox/21260c_fd95e0ec2f6a49bfb98fc33005b2f70a~mv2.png)
 
 On the next screen, choose the file location. Supported options include:
 
@@ -33,15 +33,15 @@ On the next screen, choose the file location. Supported options include:
 - Files in the application;
 - Files on your device;
 
-![select file location](21260c_1a9066303ba74a0980957ced63536683~mv2.png)
+![select file location](/docs/howto/how-to-import-m3u-playlist-to-evermusic-and-flacbox/21260c_1a9066303ba74a0980957ced63536683~mv2.png)
 
 Let's select connected cloud storage and open the folder containing the playlist file. Supported playlist file extensions include M3U, M3U8, and CUE. Select the playlist file and tap 'Done' to confirm your selection.
 
-![select m3u file](21260c_4024ea3ad6d24efdb40f62e599da198a~mv2.png)
+![select m3u file](/docs/howto/how-to-import-m3u-playlist-to-evermusic-and-flacbox/21260c_4024ea3ad6d24efdb40f62e599da198a~mv2.png)
 
 The app will parse the playlist file and create a list of tracks. It will then locate those files on the storage and compile a final playlist that will be imported into the music library. It's crucial that your M3U/CUE file contains the correct paths for media files, and the files should be located at those paths on your storage.
 
-![imported playlist](21260c_2b56a04c305f496c84ce025769e2ed5c~mv2.png)
+![imported playlist](/docs/howto/how-to-import-m3u-playlist-to-evermusic-and-flacbox/21260c_2b56a04c305f496c84ce025769e2ed5c~mv2.png)
 
 The app supports both relative paths and absolute file URLs.
 

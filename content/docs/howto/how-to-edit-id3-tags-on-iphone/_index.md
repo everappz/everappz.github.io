@@ -42,21 +42,21 @@ But before you begin, check out the **Evertag** app — it supports **120+ audio
 Link your preferred cloud account within the app.
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Connect Cloud Server" image="/connect_cloud_server.webp" >}}
+{{< card title="" subtitle="Connect Cloud Server" image="/docs/howto/how-to-edit-id3-tags-on-iphone/connect_cloud_server.webp" >}}
 {{< /cards >}}
 
 ## Navigate to Your Audio Files  
 Open the folder containing your audio files in the connected cloud account.
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Cloud Folders" image="/cloud_server_folders.webp" >}}
+{{< card title="" subtitle="Cloud Folders" image="/docs/howto/how-to-edit-id3-tags-on-iphone/cloud_server_folders.webp" >}}
 {{< /cards >}}
 
 ## Access File Options  
 Tap the 'More' button ('...') near the file you want to edit.
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="More Actions" image="/cloud_server_audio_more_actions.webp" >}}
+{{< card title="" subtitle="More Actions" image="/docs/howto/how-to-edit-id3-tags-on-iphone/cloud_server_audio_more_actions.webp" >}}
 {{< /cards >}}
 
 ## Choose 'Edit Audio Tags'  
@@ -74,7 +74,7 @@ On the 'Tag Editor' screen, modify metadata fields such as Title, Artist, Album,
 Once you've finished editing, tap the 'Save' button to save your changes.
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Tag Editor" image="/tags_editor.webp" >}}
+{{< card title="" subtitle="Tag Editor" image="/docs/howto/how-to-edit-id3-tags-on-iphone/tags_editor.webp" >}}
 {{< /cards >}}
 
 ## Smart Autocomplete  
@@ -92,7 +92,7 @@ You can edit audio tags for files stored **directly on your device** — without
 - **Go to the "Local Files" section**, then scroll down to **"Files On This Device."**
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Files On This Device" image="/local_files.webp" >}}
+{{< card title="" subtitle="Files On This Device" image="/docs/howto/how-to-edit-id3-tags-on-iphone/local_files.webp" >}}
 {{< /cards >}}
 
 - Tap **"Connect a Folder"**.
@@ -100,25 +100,25 @@ You can edit audio tags for files stored **directly on your device** — without
 - In the folder picker, choose the directory you want to access and tap **"Open"** to confirm.
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Connect External Folder" image="/connect_external_folder.webp" >}}
+{{< card title="" subtitle="Connect External Folder" image="/docs/howto/how-to-edit-id3-tags-on-iphone/connect_external_folder.webp" >}}
 {{< /cards >}}
 
 - After adding the folder, tap on it to view the files inside.
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="External Folder Content" image="/connected_external_folder.webp" >}}
+{{< card title="" subtitle="External Folder Content" image="/docs/howto/how-to-edit-id3-tags-on-iphone/connected_external_folder.webp" >}}
 {{< /cards >}}
 
 - Just like with cloud files, tap the **"More Actions"** button next to an audio file and select **"Edit Audio Tags."**
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="More Actions - Local File" image="/more_actions_local_file.webp" >}}
+{{< card title="" subtitle="More Actions - Local File" image="/docs/howto/how-to-edit-id3-tags-on-iphone/more_actions_local_file.webp" >}}
 {{< /cards >}}
 
 - The Tag Editor will open. Make your changes and tap **"Save"**. That’s it! Your edits are applied directly to the file — no need to copy it back or move anything around.
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Tag Editor - Local File" image="/tag_editor_local_file.webp" >}}
+{{< card title="" subtitle="Tag Editor - Local File" image="/docs/howto/how-to-edit-id3-tags-on-iphone/tag_editor_local_file.webp" >}}
 {{< /cards >}}
 
 ## Edit Album Cover
@@ -130,7 +130,7 @@ To change an album cover:
 3. Select an image to apply as cover art.
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Select Image" image="/tags_editor_choose_image.webp" >}}
+{{< card title="" subtitle="Select Image" image="/docs/howto/how-to-edit-id3-tags-on-iphone/tags_editor_choose_image.webp" >}}
 {{< /cards >}}
 
 ## More Actions in Tag Editor
@@ -138,7 +138,7 @@ To change an album cover:
 Extra editing options are available via the toolbar beneath the artwork view.
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="More Actions Menu" image="/tags_edito_more_actions.webp" >}}
+{{< card title="" subtitle="More Actions Menu" image="/docs/howto/how-to-edit-id3-tags-on-iphone/tags_edito_more_actions.webp" >}}
 {{< /cards >}}
 
 ### Auto-Search Audio Tags

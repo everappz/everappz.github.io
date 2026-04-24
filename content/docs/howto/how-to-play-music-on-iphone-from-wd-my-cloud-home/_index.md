@@ -16,13 +16,13 @@ aliases:
 
 **TL;DR:** Use Evermusic to stream or download music from your WD My Cloud Home NAS directly to your iPhone. Access up to 8 TB of music, play offline, and use the built-in equalizer -- all without monthly subscriptions.
 
-{{< figure src="21260c_9ca3708cd72943c8afe6d856df67b96b~mv2.jpg" alt="Evermusic + My Cloud Home: Banner" width="800" >}}
+{{< figure src="/docs/howto/how-to-play-music-on-iphone-from-wd-my-cloud-home/21260c_9ca3708cd72943c8afe6d856df67b96b~mv2.jpg" alt="Evermusic + My Cloud Home: Banner" width="800" >}}
 
 ## 8 TB Of Music On Your iPhone?
 
 Did you ever dream of having a massive 8 TB music library right at your fingertips on your iPhone? Well, it's not only possible but also surprisingly easy with Evermusic and WD My Cloud Home. If you've got your cherished music collection, including favorite albums and exclusive recordings, and you're wondering how to enjoy it seamlessly on your iPhone, just invest 2 minutes of your time to learn how to effortlessly stream music from WD My Cloud Home to your iPhone.
 
-{{< figure src="21260c_78c8759201c947c794ab1882db805e7b~mv2_d_2838_1978_s_2.jpg" alt="Evermusic + My Cloud Home: Sign In" width="600" >}}
+{{< figure src="/docs/howto/how-to-play-music-on-iphone-from-wd-my-cloud-home/21260c_78c8759201c947c794ab1882db805e7b~mv2_d_2838_1978_s_2.jpg" alt="Evermusic + My Cloud Home: Sign In" width="600" >}}
 
 There's an array of personal NAS servers available on the market, each with its own set of advantages and drawbacks. Some may be more complex, while others are user-friendly. Western Digital has introduced one of the simplest personal network-attached storage solutions, the WD My Cloud Home.
 
@@ -30,7 +30,7 @@ The primary objective of this storage device is to make setup and usage as strai
 
 Once you've received it, just plug the device into a power supply and connect a network cable. Visit the home page [link](https://home.mycloud.com/) to create your account. Your device is now connected to the internet, granting you access to all your files from anywhere using your web browser. The next step involves copying your music from your computer, CDs, or DVDs to the My Cloud Home device, which may take some time but is a one-time effort.
 
-{{< figure src="21260c_29344e6912a34a26ba17bcda89864a2c~mv2.jpg" alt="Evermusic + My Cloud Home: Add Cloud Storage" width="400" >}}
+{{< figure src="/docs/howto/how-to-play-music-on-iphone-from-wd-my-cloud-home/21260c_29344e6912a34a26ba17bcda89864a2c~mv2.jpg" alt="Evermusic + My Cloud Home: Add Cloud Storage" width="400" >}}
 
 Now, you might be wondering, how can all that music be accessible on your iPhone? The answer lies in Evermusic, the default music player for thousands of users who have grown weary of subscription-based services like Apple Music, Spotify, Plex, and others that eat away at your wallet every month, with sound quality not always up to par. Now, it's your turn to decide whether you want to keep shelling out cash for features that you can enjoy for free. With Evermusic, you can build your own limitless music streaming service.
 
@@ -55,15 +55,15 @@ Follow these steps to connect your WD My Cloud Home to Evermusic:
 
 Once completed, your WD My Cloud Home will be connected to Evermusic and ready for music streaming or downloads.
 
-{{< figure src="21260c_d6295ba7da90419ca5a50be103f78a0b~mv2.jpg" alt="Evermusic + My Cloud Home: Enter Credentials" width="400" >}}
+{{< figure src="/docs/howto/how-to-play-music-on-iphone-from-wd-my-cloud-home/21260c_d6295ba7da90419ca5a50be103f78a0b~mv2.jpg" alt="Evermusic + My Cloud Home: Enter Credentials" width="400" >}}
 
 Evermusic employs a secure connection and the official API developed by Western Digital engineers, ensuring the safety of your data and communication. You can listen to your music online directly from your NAS device at home or download tracks for offline playback when you're without an internet connection.
 
-{{< figure src="21260c_0b0b905622354a3a8f9eeb5280af0325~mv2.jpg" alt="Evermusic + My Cloud Home: Downloads" width="400" >}}
+{{< figure src="/docs/howto/how-to-play-music-on-iphone-from-wd-my-cloud-home/21260c_0b0b905622354a3a8f9eeb5280af0325~mv2.jpg" alt="Evermusic + My Cloud Home: Downloads" width="400" >}}
 
 You'll have full control over your files, the ability to edit tags, change playback speed, and access numerous other features.
 
-{{< figure src="21260c_5f89e4158354487ea950b373976bd8fb~mv2.jpg" alt="Evermusic + My Cloud Home: Equalizer" width="400" >}}
+{{< figure src="/docs/howto/how-to-play-music-on-iphone-from-wd-my-cloud-home/21260c_5f89e4158354487ea950b373976bd8fb~mv2.jpg" alt="Evermusic + My Cloud Home: Equalizer" width="400" >}}
 
 ## How to Play Music on iPhone from WD MyCloud EX2 Ultra, WD MyCloud Mirror, or Any Other WD MyCloud Storage
 

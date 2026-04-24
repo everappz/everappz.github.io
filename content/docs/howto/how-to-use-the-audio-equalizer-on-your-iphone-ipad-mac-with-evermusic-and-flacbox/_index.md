@@ -22,7 +22,7 @@ In a perfect world, where music files and headphones are flawless, an equalizer 
 
 Our apps boast a powerful 10-band equalizer, offering precise control over specific sound frequencies. Here's how it works:
 
-{{< figure src="21260c_f94a834da7c84eb8bdf2494086527bb6~mv2.png" width="400" >}}
+{{< figure src="/docs/howto/how-to-use-the-audio-equalizer-on-your-iphone-ipad-mac-with-evermusic-and-flacbox/21260c_f94a834da7c84eb8bdf2494086527bb6~mv2.png" width="400" >}}
 
 **Frequency Control:** The equalizer spans 10 different frequencies, ranging from 32 Hz to 16 kHz. Adjust the amplifier gain for each frequency using intuitive sliders.
 
@@ -45,19 +45,19 @@ It's a breeze to activate and customize the equalizer in our apps:
 
 4. Choose from the array of preset options in the pop-up menu.
 
-{{< figure src="21260c_165ec4812bde419cb824d130c581fd3f~mv2.png" width="400" >}}
+{{< figure src="/docs/howto/how-to-use-the-audio-equalizer-on-your-iphone-ipad-mac-with-evermusic-and-flacbox/21260c_165ec4812bde419cb824d130c581fd3f~mv2.png" width="400" >}}
 
 5. Fine-tune your sound by dragging the frequency sliders up or down to adjust the volume in decibels.
 
-{{< figure src="21260c_bb5f312caf63466aac3e0d6cfd274d38~mv2.png" width="400" >}}
+{{< figure src="/docs/howto/how-to-use-the-audio-equalizer-on-your-iphone-ipad-mac-with-evermusic-and-flacbox/21260c_bb5f312caf63466aac3e0d6cfd274d38~mv2.png" width="400" >}}
 
 6. Save your unique equalizer configuration for future listening.
 
-{{< figure src="21260c_8aa45559788240a78806461d9c7d8bb5~mv2.png" width="400" >}}
+{{< figure src="/docs/howto/how-to-use-the-audio-equalizer-on-your-iphone-ipad-mac-with-evermusic-and-flacbox/21260c_8aa45559788240a78806461d9c7d8bb5~mv2.png" width="400" >}}
 
 7. For an extra volume boost, use the **preamplifier** slider.
 
-{{< figure src="21260c_34869d69d565402da768f73e179b8f4e~mv2.jpeg" width="400" >}}
+{{< figure src="/docs/howto/how-to-use-the-audio-equalizer-on-your-iphone-ipad-mac-with-evermusic-and-flacbox/21260c_34869d69d565402da768f73e179b8f4e~mv2.jpeg" width="400" >}}
 
 ## Manage Presets Configurations
 
@@ -68,7 +68,7 @@ On the top-left corner of the equalizer screen, tap the **More Actions** (three 
 - **Edit Configuration:** Sort and organize your saved presets.  
 - **Reset All Configurations:** Restore defaults and remove all custom presets.
 
-{{< figure src="21260c_342cfe573a0b428285cc42a95dfaa6c6~mv2.png" width="400" >}}
+{{< figure src="/docs/howto/how-to-use-the-audio-equalizer-on-your-iphone-ipad-mac-with-evermusic-and-flacbox/21260c_342cfe573a0b428285cc42a95dfaa6c6~mv2.png" width="400" >}}
 
 ## Built-In Equalizer Presets
 

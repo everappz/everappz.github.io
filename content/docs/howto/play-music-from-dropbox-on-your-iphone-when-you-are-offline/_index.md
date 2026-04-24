@@ -15,7 +15,7 @@ aliases:
 
 **TL;DR:** Upload your music to Dropbox, install the free Evermusic app on your iPhone, connect your Dropbox account, and play or download your tracks for offline listening. Evermusic supports MP3, FLAC, WAV, AAC, and more. It includes a 10-band equalizer, playlists, and file management.
 
-{{< figure src="21260c_b74074b6421e41748259d1c534c1cebd~mv2.jpeg" width="800" >}}
+{{< figure src="/docs/howto/play-music-from-dropbox-on-your-iphone-when-you-are-offline/21260c_b74074b6421e41748259d1c534c1cebd~mv2.jpeg" width="800" >}}
 
 Dropbox is a fantastic cloud storage solution, and it's not just for office files. You can also upload and store your audio content, making it a versatile option for music lovers. Imagine having your meticulously ripped CDs transformed into a vast music library, ready to accompany you wherever you go. With **Evermusic**, you can turn this dream into a reality.
 
@@ -27,14 +27,14 @@ Evermusic is your all-in-one music player, streamer, downloader, and playlists m
 
 Start by registering and signing into your Dropbox account using a desktop web browser. Install the Dropbox app on your computer and transfer your audio tracks to the Dropbox folder. It may take some time to sync all your data to the server.
 
-{{< figure src="21260c_2aaf143c560b4cf2b318ea618d88a15e~mv2.png" width="600" >}}
+{{< figure src="/docs/howto/play-music-from-dropbox-on-your-iphone-when-you-are-offline/21260c_2aaf143c560b4cf2b318ea618d88a15e~mv2.png" width="600" >}}
 
 ### Install Evermusic App
 
 **Get Evermusic:**  
 Evermusic is absolutely free and available for both iPhone and iPad, compatible with devices running iOS 8.0 or later.  
 
-{{< figure src="21260c_3eaa4bd316de42ea93181821a37bf8cb~mv2.png" width="600" >}}
+{{< figure src="/docs/howto/play-music-from-dropbox-on-your-iphone-when-you-are-offline/21260c_3eaa4bd316de42ea93181821a37bf8cb~mv2.png" width="600" >}}
 
 {{< cards cols="1">}}
 

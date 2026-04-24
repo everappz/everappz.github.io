@@ -39,13 +39,13 @@ To connect a cloud storage service:
 - Tap **Connect to Cloud Storage**
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Connect To Cloud Storage" image="/connect-to-cloud-storage.webp" >}}
+{{< card title="" subtitle="Connect To Cloud Storage" image="/docs/howto/how-to-edit-lyrics-for-audio-files-on-iphone-mac/connect-to-cloud-storage.webp" >}}
 {{< /cards >}}
 
 - Select a supported provider, enter your credentials, and tap **Done**
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Connect To Cloud Storage" image="/connect-to-cloud-storage.webp" >}}
+{{< card title="" subtitle="Connect To Cloud Storage" image="/docs/howto/how-to-edit-lyrics-for-audio-files-on-iphone-mac/connect-to-cloud-storage.webp" >}}
 {{< /cards >}}
 
 - Once connected, your cloud storage will appear in the **Cloud Storage** section of the app.
@@ -53,7 +53,7 @@ To connect a cloud storage service:
 - Tap your connected cloud storage to browse and load its folder contents.
   
 {{< cards cols="1">}}
-{{< card title="" subtitle="Cloud Storage Files List" image="/cloud-storage-list-audio-files.webp" >}}
+{{< card title="" subtitle="Cloud Storage Files List" image="/docs/howto/how-to-edit-lyrics-for-audio-files-on-iphone-mac/cloud-storage-list-audio-files.webp" >}}
 {{< /cards >}}
 
 ## Connect Local Folder
@@ -75,7 +75,7 @@ You can edit audio tags for files stored directly on your device without importi
 - Scroll down to **Files On This Device** on the side bar menu
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Device Folders" image="/device-folders.webp" >}}
+{{< card title="" subtitle="Device Folders" image="/docs/howto/how-to-edit-lyrics-for-audio-files-on-iphone-mac/device-folders.webp" >}}
 {{< /cards >}}
   
 - Tap **All device folders** menu item 
@@ -92,7 +92,7 @@ You can edit audio tags for files stored directly on your device without importi
 The **Tag Editor** is the main screen of the Evertag app where you can view and edit audio file metadata. Open this screen by tapping a file from the **Local Files** section or from any connected **Cloud storage** account.
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Evertag Tag Editor Screen" image="/cloud-storage-audio-file-tag-editor.webp" >}}
+{{< card title="" subtitle="Evertag Tag Editor Screen" image="/docs/howto/how-to-edit-lyrics-for-audio-files-on-iphone-mac/cloud-storage-audio-file-tag-editor.webp" >}}
 {{< /cards >}}
 
 ## Editing Modes
@@ -113,7 +113,7 @@ By default, the app opens the tag editor in single-file mode with only the main 
 To access all available tags, scroll to the bottom of the screen and tap the **Show Extended Tags** option. This will switch the editor to extended mode, allowing you to edit over **120 metadata fields**, including **MusicBrainz Tags**, **Lyrics**, **Advisory Ratings**, and more.
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Bottom Actions Panel" image="/show-extended-tags.webp" >}}
+{{< card title="" subtitle="Bottom Actions Panel" image="/docs/howto/how-to-edit-lyrics-for-audio-files-on-iphone-mac/show-extended-tags.webp" >}}
 {{< /cards >}}
 
 ## Batch Mode
@@ -138,7 +138,7 @@ Here’s how to add or update **Unsynced Lyrics** embedded in your audio files u
 In **Extended Tags** mode, scroll down and tap the **Lyrics Unsynced** text field.
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Lyrics Unsynced Text Field" image="/advisory-rating-2.webp" >}}
+{{< card title="" subtitle="Lyrics Unsynced Text Field" image="/docs/howto/how-to-edit-lyrics-for-audio-files-on-iphone-mac/advisory-rating-2.webp" >}}
 {{< /cards >}}
 
 > Audio files that support **ID3 tags** (such as `.mp3` or `.wav`) allow you to add lyrics in multiple languages. If you are editing an ID3-tagged file, Evertag enables full multi-language support.  
@@ -149,7 +149,7 @@ In **Extended Tags** mode, scroll down and tap the **Lyrics Unsynced** text fiel
 If you're editing ID3 tags, the next screen will show an **Add New Page** button. Tap it to begin adding a new lyrics entry.
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Add New Lyrics Page" image="/add-new-page.webp" >}}
+{{< card title="" subtitle="Add New Lyrics Page" image="/docs/howto/how-to-edit-lyrics-for-audio-files-on-iphone-mac/add-new-page.webp" >}}
 {{< /cards >}}
 
 ### Choose Language, Comment, and Lyrics Content
@@ -160,7 +160,7 @@ On the lyrics entry screen, you'll be able to:
 - Enter the actual **lyrics text**
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Select Language" image="/choose-language.webp" >}}
+{{< card title="" subtitle="Select Language" image="/docs/howto/how-to-edit-lyrics-for-audio-files-on-iphone-mac/choose-language.webp" >}}
 {{< /cards >}}
 
 ### Enter the Lyrics
@@ -170,7 +170,7 @@ Type or paste your lyrics content. Evertag supports LRC-style lyrics with timest
 > Tip: Looking for high-quality lyrics? Visit [lyricsify.com](https://www.lyricsify.com) to find lyrics in LRC format for thousands of tracks.
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Added Lyrics" image="/added-lyrics.webp" >}}
+{{< card title="" subtitle="Added Lyrics" image="/docs/howto/how-to-edit-lyrics-for-audio-files-on-iphone-mac/added-lyrics.webp" >}}
 {{< /cards >}}
 
 ### Tap “Done” to Confirm
@@ -178,7 +178,7 @@ Type or paste your lyrics content. Evertag supports LRC-style lyrics with timest
 After entering your lyrics, tap **Done** on the lyrics page. Then tap **Done** again on the previous screen to confirm your changes.
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Saved Lyrics" image="/saved-lyrics.webp" >}}
+{{< card title="" subtitle="Saved Lyrics" image="/docs/howto/how-to-edit-lyrics-for-audio-files-on-iphone-mac/saved-lyrics.webp" >}}
 {{< /cards >}}
 
 ### Save the Tag Changes
@@ -186,7 +186,7 @@ After entering your lyrics, tap **Done** on the lyrics page. Then tap **Done** a
 Finally, on the **Tag Editor** screen, tap **Save** to write the updated tags—including your new lyrics—back to the file.
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Tag Editor With Lyrics" image="/tags-editor-with-lyrics.webp" >}}
+{{< card title="" subtitle="Tag Editor With Lyrics" image="/docs/howto/how-to-edit-lyrics-for-audio-files-on-iphone-mac/tags-editor-with-lyrics.webp" >}}
 {{< /cards >}}
 
 ### Set the Lyrics Advisory Rating

@@ -37,7 +37,7 @@ By default, the **Local Files Library** is disabled in the Spotify app. If you w
 ### Open the Spotify App
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Main Spotify App Interface" image="/spotify-main.webp" >}}
+{{< card title="" subtitle="Main Spotify App Interface" image="/docs/howto/how-to-change-album-covers-for-local-tracks-on-spotify-step-by-step-guide-mobile-desktop/spotify-main.webp" >}}
 {{< /cards >}}
 
 ### Tap on Your Profile Icon
@@ -45,7 +45,7 @@ By default, the **Local Files Library** is disabled in the Spotify app. If you w
 Look in the top left corner of the Spotify home screen and tap your profile picture to open the menu.
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Spotify Avatar and Options" image="/spotify-avatar-options.webp" >}}
+{{< card title="" subtitle="Spotify Avatar and Options" image="/docs/howto/how-to-change-album-covers-for-local-tracks-on-spotify-step-by-step-guide-mobile-desktop/spotify-avatar-options.webp" >}}
 {{< /cards >}}
 
 ### Choose "Settings and Privacy"
@@ -53,7 +53,7 @@ Look in the top left corner of the Spotify home screen and tap your profile pict
 Scroll down the menu and select **Settings and Privacy** to open the full list of options.
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Spotify Settings Menu" image="/spotify-settings.webp" >}}
+{{< card title="" subtitle="Spotify Settings Menu" image="/docs/howto/how-to-change-album-covers-for-local-tracks-on-spotify-step-by-step-guide-mobile-desktop/spotify-settings.webp" >}}
 {{< /cards >}}
 
 ### Select "Apps and Devices"
@@ -61,7 +61,7 @@ Scroll down the menu and select **Settings and Privacy** to open the full list o
 Find and tap the **Apps and Devices** menu item to view device integration settings.
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Spotify Apps and Devices" image="/spotify-apps-and-devices.webp" >}}
+{{< card title="" subtitle="Spotify Apps and Devices" image="/docs/howto/how-to-change-album-covers-for-local-tracks-on-spotify-step-by-step-guide-mobile-desktop/spotify-apps-and-devices.webp" >}}
 {{< /cards >}}
 
 ### Toggle On "Local Audio Files"
@@ -69,7 +69,7 @@ Find and tap the **Apps and Devices** menu item to view device integration setti
 Turn on the switch for **Local Audio Files**. When prompted, grant Spotify permission to access your music files.
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Grant Spotify Access to Music Files" image="/spotify-access-to-music.webp" >}}
+{{< card title="" subtitle="Grant Spotify Access to Music Files" image="/docs/howto/how-to-change-album-covers-for-local-tracks-on-spotify-step-by-step-guide-mobile-desktop/spotify-access-to-music.webp" >}}
 {{< /cards >}}
 
 ### Check Spotify Folder
@@ -77,7 +77,7 @@ Turn on the switch for **Local Audio Files**. When prompted, grant Spotify permi
 Once permission is granted, open the **Files app**, go to **Locations > On My iPhone/iPad**, and find the **Spotify** folder. This is where local music files should be placed.
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Spotify Music Files" image="/files-app-spotify-folder.webp" >}}
+{{< card title="" subtitle="Spotify Music Files" image="/docs/howto/how-to-change-album-covers-for-local-tracks-on-spotify-step-by-step-guide-mobile-desktop/files-app-spotify-folder.webp" >}}
 {{< /cards >}}
 
 ## Put Music Files into Spotify's Local Library Folder
@@ -91,7 +91,7 @@ Below are instructions using the **Files app** method.
 ### Open Files App – Locations – On This Device
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Spotify Folder" image="/files-app-spotify-folder.webp" >}}
+{{< card title="" subtitle="Spotify Folder" image="/docs/howto/how-to-change-album-covers-for-local-tracks-on-spotify-step-by-step-guide-mobile-desktop/files-app-spotify-folder.webp" >}}
 {{< /cards >}}
 
 ### Copy Music Folder
@@ -99,7 +99,7 @@ Below are instructions using the **Files app** method.
 Navigate to your **Music** folder. Tap and hold it to open the context menu, then choose **Copy**.
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Access Folder Options in Files App" image="/files-app-folder-options.webp" >}}
+{{< card title="" subtitle="Access Folder Options in Files App" image="/docs/howto/how-to-change-album-covers-for-local-tracks-on-spotify-step-by-step-guide-mobile-desktop/files-app-folder-options.webp" >}}
 {{< /cards >}}
 
 ### Paste Music Folder
@@ -107,7 +107,7 @@ Navigate to your **Music** folder. Tap and hold it to open the context menu, the
 Navigate to the **Spotify** folder, tap and hold on a blank area, and choose **Paste** from the context menu.
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Paste Folder to Destination Location" image="/files-app-paste-folder.webp" >}}
+{{< card title="" subtitle="Paste Folder to Destination Location" image="/docs/howto/how-to-change-album-covers-for-local-tracks-on-spotify-step-by-step-guide-mobile-desktop/files-app-paste-folder.webp" >}}
 {{< /cards >}}
 
 ### Wait for the Copying Process
@@ -115,7 +115,7 @@ Navigate to the **Spotify** folder, tap and hold on a blank area, and choose **P
 Wait until the system finishes copying your music folder to the Spotify local directory.
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Copying Music Files Using Files App" image="/files-app-copying-music.webp" >}}
+{{< card title="" subtitle="Copying Music Files Using Files App" image="/docs/howto/how-to-change-album-covers-for-local-tracks-on-spotify-step-by-step-guide-mobile-desktop/files-app-copying-music.webp" >}}
 {{< /cards >}}
 
 ### Open Spotify Local Library
@@ -123,7 +123,7 @@ Wait until the system finishes copying your music folder to the Spotify local di
 Now go back to the Spotify app. Tap **Your Library > Local Files**, and you’ll see the music files you just copied.
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Spotify Showing Local Music Library" image="/spotify-local-music-library.webp" >}}
+{{< card title="" subtitle="Spotify Showing Local Music Library" image="/docs/howto/how-to-change-album-covers-for-local-tracks-on-spotify-step-by-step-guide-mobile-desktop/spotify-local-music-library.webp" >}}
 {{< /cards >}}
 
 ## Connect Spotify Folder in the Evertag App
@@ -150,26 +150,26 @@ You can edit metadata directly from folders without importing the files.
 - Scroll to **Files On This Device** in the sidebar
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="View All Device Folders in Evertag" image="/evertag-all-device-folders.webp" >}}
+{{< card title="" subtitle="View All Device Folders in Evertag" image="/docs/howto/how-to-change-album-covers-for-local-tracks-on-spotify-step-by-step-guide-mobile-desktop/evertag-all-device-folders.webp" >}}
 {{< /cards >}}
 
 - Tap **All Device Folders**
 - Tap **Connect a Folder**
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Connect Folder Using Files Picker" image="/evertag-connect-folder-files-picker.webp" >}}
+{{< card title="" subtitle="Connect Folder Using Files Picker" image="/docs/howto/how-to-change-album-covers-for-local-tracks-on-spotify-step-by-step-guide-mobile-desktop/evertag-connect-folder-files-picker.webp" >}}
 {{< /cards >}}
 
 - Choose the **Spotify** folder and tap **Open** to confirm
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Connect Folder With Spotify Local Files" image="/evertag-connect-folder-spotify-local.webp" >}}
+{{< card title="" subtitle="Connect Folder With Spotify Local Files" image="/docs/howto/how-to-change-album-covers-for-local-tracks-on-spotify-step-by-step-guide-mobile-desktop/evertag-connect-folder-spotify-local.webp" >}}
 {{< /cards >}}
 
 - Tap the connected folder to view and edit its contents
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Folder Successfully Connected in Evertag" image="/evertag-connected-folder.webp" >}}
+{{< card title="" subtitle="Folder Successfully Connected in Evertag" image="/docs/howto/how-to-change-album-covers-for-local-tracks-on-spotify-step-by-step-guide-mobile-desktop/evertag-connected-folder.webp" >}}
 {{< /cards >}}
 
 ## Tag Editor
@@ -177,7 +177,7 @@ You can edit metadata directly from folders without importing the files.
 The **Tag Editor** is the main workspace where you view and modify metadata of your audio files.
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Browse Connected Folder Content" image="/evertag-connected-folder-content.webp" >}}
+{{< card title="" subtitle="Browse Connected Folder Content" image="/docs/howto/how-to-change-album-covers-for-local-tracks-on-spotify-step-by-step-guide-mobile-desktop/evertag-connected-folder-content.webp" >}}
 {{< /cards >}}
 
 ## Editing Modes
@@ -222,25 +222,25 @@ To replace or add new album artwork:
 1. Tap the **Camera icon** on the artwork carousel
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Choose a Custom Album Cover Photo" image="/evertag-choose-photo.webp" >}}
+{{< card title="" subtitle="Choose a Custom Album Cover Photo" image="/docs/howto/how-to-change-album-covers-for-local-tracks-on-spotify-step-by-step-guide-mobile-desktop/evertag-choose-photo.webp" >}}
 {{< /cards >}}
 
 2. Select an image source (Photo Library, Local Files, Cloud)
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Access Photo Library to Pick Artwork" image="/evertag-photo-library.webp" >}}
+{{< card title="" subtitle="Access Photo Library to Pick Artwork" image="/docs/howto/how-to-change-album-covers-for-local-tracks-on-spotify-step-by-step-guide-mobile-desktop/evertag-photo-library.webp" >}}
 {{< /cards >}}
 
 3. Pick the image to use as cover art
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Edited Album Cover Preview" image="/evertag-edited-album-cover.webp" >}}
+{{< card title="" subtitle="Edited Album Cover Preview" image="/docs/howto/how-to-change-album-covers-for-local-tracks-on-spotify-step-by-step-guide-mobile-desktop/evertag-edited-album-cover.webp" >}}
 {{< /cards >}}
 
 4. Tap **Save** to apply the changes
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Save Updated Audio Tags" image="/evertag-save-tags.webp" >}}
+{{< card title="" subtitle="Save Updated Audio Tags" image="/docs/howto/how-to-change-album-covers-for-local-tracks-on-spotify-step-by-step-guide-mobile-desktop/evertag-save-tags.webp" >}}
 {{< /cards >}}
 
 ## Update Spotify Library
@@ -248,7 +248,7 @@ To replace or add new album artwork:
 After saving your tags, go back to the Spotify app.
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Browse Spotify Music Library" image="/spotify-library.webp" >}}
+{{< card title="" subtitle="Browse Spotify Music Library" image="/docs/howto/how-to-change-album-covers-for-local-tracks-on-spotify-step-by-step-guide-mobile-desktop/spotify-library.webp" >}}
 {{< /cards >}}
 
 Open the **Local Files** section again. You should now see updated artwork and tags for your local tracks.
@@ -256,7 +256,7 @@ Open the **Local Files** section again. You should now see updated artwork and t
 > If updates don't show immediately, **force-close Spotify** and reopen it. This triggers a metadata refresh.
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Now Playing Track with Edited Tag" image="/spotify-playing-edited-tag.webp" >}}
+{{< card title="" subtitle="Now Playing Track with Edited Tag" image="/docs/howto/how-to-change-album-covers-for-local-tracks-on-spotify-step-by-step-guide-mobile-desktop/spotify-playing-edited-tag.webp" >}}
 {{< /cards >}}
 
 ## Conclusion

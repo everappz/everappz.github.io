@@ -45,7 +45,7 @@ With macOS Catalina or a newer version, you can use the Finder to share files be
 4. Click the "Files" tab to see a list of apps capable of file sharing. If you don't see this section, it means your device doesn't support file-sharing apps.
 5. Click the triangle next to an app to view the files available for sharing.
 
-![How to Use Finder for File Sharing](21260c_ff2f6bb6f8674f598e0697e64594f707~mv2.png)
+![How to Use Finder for File Sharing](/docs/howto/how-to-play-local-itunes-files-on-my-iphone/21260c_ff2f6bb6f8674f598e0697e64594f707~mv2.png)
 
 #### Copying Files from Your Mac to Device
 
@@ -67,7 +67,7 @@ If you're using an older macOS version, you can use iTunes for File Sharing.
 - Your iPhone, iPad, or iPod touch should be running the latest iOS version.
 - If you're using a Windows PC, make sure it's updated to at least Windows 7.
 
-![iTunes File Sharing](21260c_deca296b9fe34c50bec8717646da7b34~mv2.png)
+![iTunes File Sharing](/docs/howto/how-to-play-local-itunes-files-on-my-iphone/21260c_deca296b9fe34c50bec8717646da7b34~mv2.png)
 
 ### How to Use iTunes File Sharing for macOS Versions Earlier than Catalina 
 
@@ -78,7 +78,7 @@ If you're using an older macOS version, you can use iTunes for File Sharing.
 5. Scroll down to the "File Sharing" section at the page's bottom.
 6. Select the app to see which files are available for sharing on your device.
 
-![itunes file sharing select app](21260c_5af90f153a0949e9914130b7c7c8fccc~mv2.png)
+![itunes file sharing select app](/docs/howto/how-to-play-local-itunes-files-on-my-iphone/21260c_5af90f153a0949e9914130b7c7c8fccc~mv2.png)
 
 #### Copying Files from Your Computer to the App   
 
@@ -86,7 +86,7 @@ If you're using an older macOS version, you can use iTunes for File Sharing.
 2. To copy files to your device, simply drag and drop them from a folder or window onto the Documents list.
 3. Alternatively, click "Add" in the Documents list in iTunes, locate the audio files on your computer, and click "Add." iTunes will copy these music files to the Documents directory of your chosen app on your device. Ensure you choose audio files compatible with the app; refer to the user guide for supported formats.
 
-![itunes file sharing move files](21260c_3c8f3a4e03c8475ab183e33ff4c964ea~mv2.png)
+![itunes file sharing move files](/docs/howto/how-to-play-local-itunes-files-on-my-iphone/21260c_3c8f3a4e03c8475ab183e33ff4c964ea~mv2.png)
 
 #### Copying Audio Files from an iOS App to Your Computer   
 
@@ -94,7 +94,7 @@ If you're using an older macOS version, you can use iTunes for File Sharing.
 2. To copy files to your computer, drag them from the Documents list to a folder or window on your computer.
 3. Alternatively, select the audio files you want to copy to your computer from the Documents list, click "Save to," and choose the destination folder on your computer.
 
-![iTunes File Sharing: Copying Audio Files from an iOS App to Your Computer](21260c_18c02708dcc542489c2ec68842bc925b~mv2.png)
+![iTunes File Sharing: Copying Audio Files from an iOS App to Your Computer](/docs/howto/how-to-play-local-itunes-files-on-my-iphone/21260c_18c02708dcc542489c2ec68842bc925b~mv2.png)
 
 ## Accessing Shared Audio Files   
 
@@ -104,7 +104,7 @@ Once you've successfully copied files from your computer to your iOS device, you
 - Tap on the "Local files" section to view the list of available files.
 - Simply tap on any file to start playing.
 
-{{< figure src="/21260c_549f899dd8dc41b29efa7f548c826d15~mv2.png" alt="iTunes File Sharing: Accessing Files From The App" caption="iTunes File Sharing: Accessing Files From The App" width="400" >}}
+{{< figure src="/docs/howto/how-to-play-local-itunes-files-on-my-iphone/21260c_549f899dd8dc41b29efa7f548c826d15~mv2.png" alt="iTunes File Sharing: Accessing Files From The App" caption="iTunes File Sharing: Accessing Files From The App" width="400" >}}
 
 ## Deleting Shared Files from Your iOS Device   
 
@@ -120,7 +120,7 @@ To remove audio files copied from your computer to an iOS app using File Sharing
 6. Select the audio file you wish to remove from the Documents list, then press the "Delete" key on your keyboard.
 7. Confirm the deletion in iTunes.
 
-![iTunes File Sharing: Delete File](21260c_1c6199eeac94435fa557b688c75c2fcd~mv2.png)
+![iTunes File Sharing: Delete File](/docs/howto/how-to-play-local-itunes-files-on-my-iphone/21260c_1c6199eeac94435fa557b688c75c2fcd~mv2.png)
 
 #### Using the Built-in File Manager  
 
@@ -130,7 +130,7 @@ To remove audio files copied from your computer to an iOS app using File Sharing
 4. Tap the "Delete" action. If this action isn't immediately visible, tap the "More actions" menu.
 5. Confirm the deletion in the pop-up message.
 
-{{< figure src="/21260c_535a8879faf84b8bacf283cbde15e480~mv2.png" alt="Evermusic: Select Files" caption="Evermusic: Select Files" width="400" >}}
+{{< figure src="/docs/howto/how-to-play-local-itunes-files-on-my-iphone/21260c_535a8879faf84b8bacf283cbde15e480~mv2.png" alt="Evermusic: Select Files" caption="Evermusic: Select Files" width="400" >}}
 
 ## Bonus Tip   
 

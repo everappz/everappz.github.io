@@ -19,7 +19,7 @@ Are you drowning in a sea of music on your MAC or PC and want to enjoy it hassle
 
 ## Step 1: Enable SMB Protocol on Your Computer
 
-![Evermusic - SMB Support - Mac Sharing Screen](21260c_4c8f67e6cad0498080909244213f84af~mv2.png)
+![Evermusic - SMB Support - Mac Sharing Screen](/docs/howto/stream-your-music-from-mac-or-pc-to-iphone-using-smb/21260c_4c8f67e6cad0498080909244213f84af~mv2.png)
 
 ### If you're using MAC
 
@@ -29,16 +29,16 @@ Are you drowning in a sea of music on your MAC or PC and want to enjoy it hassle
 - For added convenience, you can select "Everyone: Read Only" for the music folder, making it easily accessible in Evermusic.
 - Don't forget to remember your computer's URL (smb://192.168.xx.xx) for the next steps.
 
-![Evermusic - SMB Support - File Sharing Screen](21260c_32c05fd0930a4ec28256afe40c0ba8a5~mv2.png)
+![Evermusic - SMB Support - File Sharing Screen](/docs/howto/stream-your-music-from-mac-or-pc-to-iphone-using-smb/21260c_32c05fd0930a4ec28256afe40c0ba8a5~mv2.png)
 
 - Tap "Options" and enable "Share files and folders using SMB."
 - Enable "Windows File Sharing" for available accounts.
 
-![Evermusic - SMB Support - Share Files And Folders Screen](21260c_26acaa067aae40788465c1698b0458dc~mv2.png)
+![Evermusic - SMB Support - Share Files And Folders Screen](/docs/howto/stream-your-music-from-mac-or-pc-to-iphone-using-smb/21260c_26acaa067aae40788465c1698b0458dc~mv2.png)
 
 ### If you're using a Windows PC
 
-![Evermusic - SMB Support - Share Files On Windows](21260c_c503c5d0d1f44daeb14d5a4cadfe9ac2~mv2.png)
+![Evermusic - SMB Support - Share Files On Windows](/docs/howto/stream-your-music-from-mac-or-pc-to-iphone-using-smb/21260c_c503c5d0d1f44daeb14d5a4cadfe9ac2~mv2.png)
 
 - Right-click on your music folder.
 - Select "Properties."
@@ -48,7 +48,7 @@ Are you drowning in a sea of music on your MAC or PC and want to enjoy it hassle
 - Like with MAC, you can opt for "Everyone: Read" for the selected music folder.
 - Click "Done" to save your settings.
 
-![Evermusic - SMB Support - Folder Shared on Windows](21260c_350e2dca694b41bcade8f455acc4e481~mv2.png)
+![Evermusic - SMB Support - Folder Shared on Windows](/docs/howto/stream-your-music-from-mac-or-pc-to-iphone-using-smb/21260c_350e2dca694b41bcade8f455acc4e481~mv2.png)
 
 ## Step 2: Add Your Computer Automatically
 
@@ -56,7 +56,7 @@ Are you drowning in a sea of music on your MAC or PC and want to enjoy it hassle
 - If you see your computer in the "Available devices" ("Available shares" if you are using old app version) section and selected "Anyone: Read Only" in the previous step, simply tap on your computer, and it will connect automatically.
 - If this doesn't happen, you can add your computer manually.
 
-![Evermusic - SMB Support - Connect Account Screen](21260c_b1a1b89d7756458c952957fc2dd05582~mv2.jpg)
+![Evermusic - SMB Support - Connect Account Screen](/docs/howto/stream-your-music-from-mac-or-pc-to-iphone-using-smb/21260c_b1a1b89d7756458c952957fc2dd05582~mv2.jpg)
 
 ## Step 3: Add Your Computer Manually
 
@@ -74,15 +74,15 @@ Are you drowning in a sea of music on your MAC or PC and want to enjoy it hassle
   - Enter your Login and Password or leave these fields blank if you selected "Anyone: Read Only" in the previous step.
   - The "WORKGROUP" field is optional and should be used if you have an Active Directory Domain.
 
-![Evermusic - SMB Support - Enter Credentials Screen](21260c_9e043c2fa28d4932a7e7fb7e01df6923~mv2.jpg)
+![Evermusic - SMB Support - Enter Credentials Screen](/docs/howto/stream-your-music-from-mac-or-pc-to-iphone-using-smb/21260c_9e043c2fa28d4932a7e7fb7e01df6923~mv2.jpg)
 
 Once you've connected your SMB Account, it will appear in the "Cloud services"("Accounts") section. Open the connected account by tapping on it, navigate to the music folder, and tap on any audio file to start the player.
 
-![Evermusic - SMB Support - Open Connected Folder Screen](21260c_d517e0d9a8ae4d5d973f0b42e396dc71~mv2.jpg)
+![Evermusic - SMB Support - Open Connected Folder Screen](/docs/howto/stream-your-music-from-mac-or-pc-to-iphone-using-smb/21260c_d517e0d9a8ae4d5d973f0b42e396dc71~mv2.jpg)
 
 Enjoy your music collection seamlessly on your iPhone or iPad with Evermusic.
 
-![Evermusic - SMB Support - Audio Player Screen](21260c_fa2058e0ed9d48e0921b7229e5747f02~mv2.jpg)
+![Evermusic - SMB Support - Audio Player Screen](/docs/howto/stream-your-music-from-mac-or-pc-to-iphone-using-smb/21260c_fa2058e0ed9d48e0921b7229e5747f02~mv2.jpg)
 
 ## Step 4: SMB2 Workaround
 

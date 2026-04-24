@@ -27,16 +27,16 @@ Follow these steps to enable seamless access between your computer and iOS devic
 3. Enable the "File Sharing" service.
 4. Add your music folder to the "Shared Folders" section. Add a user and choose the permission level (Read & Write or Read Only). You can opt for "Everyone: Read Only" for the added music folder.
 
-   ![Mac Settings Screen](21260c_4c8f67e6cad0498080909244213f84af~mv2.png)
+   ![Mac Settings Screen](/docs/howto/transfer-your-files-from-the-computer-to-iphone-using-smb-protocol/21260c_4c8f67e6cad0498080909244213f84af~mv2.png)
 
 5. Remember the computer URL (smb://192.168.xx.xx), as you will use it in the next steps.
 6. Click on "Options" and activate "Share files and folders using SMB."
 
-   ![Mac File Sharing Screen](21260c_32c05fd0930a4ec28256afe40c0ba8a5~mv2.png)
+   ![Mac File Sharing Screen](/docs/howto/transfer-your-files-from-the-computer-to-iphone-using-smb-protocol/21260c_32c05fd0930a4ec28256afe40c0ba8a5~mv2.png)
 
 7. Enable "Windows File Sharing" for available accounts.
 
-   ![Mac Smb Sharing Screen](21260c_26acaa067aae40788465c1698b0458dc~mv2.png)
+   ![Mac Smb Sharing Screen](/docs/howto/transfer-your-files-from-the-computer-to-iphone-using-smb-protocol/21260c_26acaa067aae40788465c1698b0458dc~mv2.png)
 
 **For Windows PC:**
 
@@ -46,12 +46,12 @@ Follow these steps to enable seamless access between your computer and iOS devic
 4. Click on "Share..."
 5. Choose the individuals with whom you want to share the folder and specify the permission level. You can select "Everyone:Read" for the chosen music folder.
 
-   ![Window SMB Sharing Screen](21260c_c503c5d0d1f44daeb14d5a4cadfe9ac2~mv2.png)
+   ![Window SMB Sharing Screen](/docs/howto/transfer-your-files-from-the-computer-to-iphone-using-smb-protocol/21260c_c503c5d0d1f44daeb14d5a4cadfe9ac2~mv2.png)
 
 6. Click "Done."
 7. Click "Done" in the "File Sharing" window, and remember the folder path.
 
-   ![Windows SMB Shared Folder](21260c_350e2dca694b41bcade8f455acc4e481~mv2.png)
+   ![Windows SMB Shared Folder](/docs/howto/transfer-your-files-from-the-computer-to-iphone-using-smb-protocol/21260c_350e2dca694b41bcade8f455acc4e481~mv2.png)
 
 ## Step 2: Connect Your iOS Device
 
@@ -59,7 +59,7 @@ Follow these steps to enable seamless access between your computer and iOS devic
 2. Go to the "Connections" Tab.
 
    {{< figure
-  src="/21260c_1b1864a302194414a6ec4dc14f95bfaf~mv2.png"
+  src="/docs/howto/transfer-your-files-from-the-computer-to-iphone-using-smb-protocol/21260c_1b1864a302194414a6ec4dc14f95bfaf~mv2.png"
   alt="Evermusic Connections Screen"
   caption="Evermusic Connections Screen"
   width="400"
@@ -76,7 +76,7 @@ If your computer is visible in the "Available devices" section and you selected 
 
    
 {{< figure
-  src="/21260c_fd5a7b81f9cf427e99ccb0024c0a686c~mv2.jpeg"
+  src="/docs/howto/transfer-your-files-from-the-computer-to-iphone-using-smb-protocol/21260c_fd5a7b81f9cf427e99ccb0024c0a686c~mv2.jpeg"
   alt="Evermusic Connect A Cloud Service Screen"
   caption="Evermusic Connect A Cloud Service Screen"
   width="400"
@@ -94,7 +94,7 @@ If your computer is visible in the "Available devices" section and you selected 
 5. The "WORKGROUP" field is optional and should be used if you have an Active Directory Domain.
 
   {{< figure
-  src="/21260c_b6a9a4ad317447768f7f38b41bc07aca~mv2.png"
+  src="/docs/howto/transfer-your-files-from-the-computer-to-iphone-using-smb-protocol/21260c_b6a9a4ad317447768f7f38b41bc07aca~mv2.png"
   alt="Evermusic SMB Connector Screen"
   caption="Evermusic SMB Connector Screen"
   width="400"
@@ -104,7 +104,7 @@ If your computer is visible in the "Available devices" section and you selected 
 7. Open the connected service and navigate to the desired folder.
 
   {{< figure
-  src="/21260c_ed605ed873184662bbc26e75651cc8d8~mv2.png"
+  src="/docs/howto/transfer-your-files-from-the-computer-to-iphone-using-smb-protocol/21260c_ed605ed873184662bbc26e75651cc8d8~mv2.png"
   alt="Evermusic Opened SMB Folder"
   caption="Evermusic Opened SMB Folder"
   width="400"
@@ -113,7 +113,7 @@ If your computer is visible in the "Available devices" section and you selected 
 8. You can utilize the built-in file manager to edit your files as needed.
 
   {{< figure
-  src="/21260c_a514e7cbd5ba43aa9a49646a5cf138b4~mv2.jpeg"
+  src="/docs/howto/transfer-your-files-from-the-computer-to-iphone-using-smb-protocol/21260c_a514e7cbd5ba43aa9a49646a5cf138b4~mv2.jpeg"
   alt="Evermusic File Manager"
   caption="Evermusic File Manager"
   width="400"

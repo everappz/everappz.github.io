@@ -18,7 +18,7 @@ draft: false
 Want to play your own music in the car using Apple CarPlay? Whether your songs are stored on your iPhone, in cloud storage, or offline, apps like **Evermusic** and **Flacbox** make it easy to listen to your personal music collection while driving.
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="CarPlay Up Next Queue" image="/carplay-nowplaying-5.webp" imageStyle="border-radius: clamp(14px, 2vw, 28px);" >}}
+{{< card title="" subtitle="CarPlay Up Next Queue" image="/docs/howto/how-to-play-your-own-music-on-iphone-using-carplay/carplay-nowplaying-5.webp" imageStyle="border-radius: clamp(14px, 2vw, 28px);" >}}
 {{< /cards >}}
 
 In this guide, we’ll show you how to prepare your music files for CarPlay, organize them with correct album covers and track info, and play them safely from your iPhone. With Evermusic or Flacbox, you can create playlists, and stream or download songs from services like **Google Drive**, **Dropbox**, **OneDrive**, **NAS**, or your home computer.
@@ -107,7 +107,7 @@ Transfer files wirelessly as described [here](/docs/howto/how-to-transfer-files-
 Once you lauched our apps Evermusic or Flacbox on with CarPLay mode you will see main interface devied by 4 main tabs: Library, Connections, Local Files, Settings. 
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="CerPlay Main Menu" image="/library-with-images.webp" imageStyle="border-radius: clamp(14px, 2vw, 28px);" >}}
+{{< card title="" subtitle="CerPlay Main Menu" image="/docs/howto/how-to-play-your-own-music-on-iphone-using-carplay/library-with-images.webp" imageStyle="border-radius: clamp(14px, 2vw, 28px);" >}}
 {{< /cards >}}
 
 ## Library
@@ -117,7 +117,7 @@ The **Library** tab in Evermusic is the central hub where all your music is orga
 This screen gives you quick access to your favorites, recents, playlists, bookmarks, and all added tracks. You can also continue playback from your last session, view unplayed songs, and explore music by tags or source type.
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Library" image="/library-with-images-3.webp" imageStyle="border-radius: clamp(14px, 2vw, 28px);" >}}
+{{< card title="" subtitle="Library" image="/docs/howto/how-to-play-your-own-music-on-iphone-using-carplay/library-with-images-3.webp" imageStyle="border-radius: clamp(14px, 2vw, 28px);" >}}
 {{< /cards >}}
 
 The **Library** section contains the following categories:
@@ -140,7 +140,7 @@ The **Library** section contains the following categories:
 - **Online Files** – Music streamed directly from cloud services
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Albums View" image="/albums.webp" imageStyle="border-radius: clamp(14px, 2vw, 28px);" >}}
+{{< card title="" subtitle="Albums View" image="/docs/howto/how-to-play-your-own-music-on-iphone-using-carplay/albums.webp" imageStyle="border-radius: clamp(14px, 2vw, 28px);" >}}
 {{< /cards >}}
 
 You can open any submenu and tap a track to start playback instantly. For more in-depth details, check the full [Music Library Guide](/docs/guide/evermusic/evermusic-guide-music-library/).
@@ -151,7 +151,7 @@ You can open any submenu and tap a track to start playback instantly. For more i
 The **Connections** tab is your central hub for accessing and managing all connected cloud storage services, local network devices.
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Connections" image="/connections-with-images-3.webp" imageStyle="border-radius: clamp(14px, 2vw, 28px);" >}}
+{{< card title="" subtitle="Connections" image="/docs/howto/how-to-play-your-own-music-on-iphone-using-carplay/connections-with-images-3.webp" imageStyle="border-radius: clamp(14px, 2vw, 28px);" >}}
 {{< /cards >}}
 
 From here, you can connect to popular cloud platforms like Dropbox, Google Drive, OneDrive, MEGA, iCloud Drive, and even network drives like SMB, DLNA, and WebDAV. Once connected, you can browse, stream, download, and manage files directly from within the app.
@@ -173,7 +173,7 @@ To learn more about all the ways to connect and manage your cloud and network li
 The **Local Files** section is your central hub for managing audio files stored directly on your device or inside the Evermusic app’s **Documents** directory. It also includes offline files downloaded from cloud storage, audio player cache files, and folders you've made available for offline playback. This section ensures you can enjoy your music library even without an internet connection.
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Local Files" image="/local-files-with-images.webp" imageStyle="border-radius: clamp(14px, 2vw, 28px);" >}}
+{{< card title="" subtitle="Local Files" image="/docs/howto/how-to-play-your-own-music-on-iphone-using-carplay/local-files-with-images.webp" imageStyle="border-radius: clamp(14px, 2vw, 28px);" >}}
 {{< /cards >}}
 
 The **Local Files** screen is organized into the following key sections:
@@ -187,7 +187,7 @@ The **Local Files** screen is organized into the following key sections:
 - **Audio Player** – A cache folder used for crossfade and performance optimization. Can be disabled or cleared in settings.
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Device Folders in Local Files" image="/local-files-device-folders.webp" imageStyle="border-radius: clamp(14px, 2vw, 28px);" >}}
+{{< card title="" subtitle="Device Folders in Local Files" image="/docs/howto/how-to-play-your-own-music-on-iphone-using-carplay/local-files-device-folders.webp" imageStyle="border-radius: clamp(14px, 2vw, 28px);" >}}
 {{< /cards >}}
 
 You can learn more in the full [Local Files Guide](/docs/guide/evermusic/evermusic-guide-local-files/).
@@ -195,7 +195,7 @@ You can learn more in the full [Local Files Guide](/docs/guide/evermusic/evermus
 ## Folder View
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Local Folder with Covers" image="/local-folder-with-images-2.webp" imageStyle="border-radius: clamp(14px, 2vw, 28px);" >}}
+{{< card title="" subtitle="Local Folder with Covers" image="/docs/howto/how-to-play-your-own-music-on-iphone-using-carplay/local-folder-with-images-2.webp" imageStyle="border-radius: clamp(14px, 2vw, 28px);" >}}
 {{< /cards >}}
 
 When you open a folder, you'll find a set of handy actions at the top:
@@ -207,7 +207,7 @@ When you open a folder, you'll find a set of handy actions at the top:
 ## Content Depth Limit
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Content Depth Limit" image="/content-depth-limit.webp" imageStyle="border-radius: clamp(14px, 2vw, 28px);" >}}
+{{< card title="" subtitle="Content Depth Limit" image="/docs/howto/how-to-play-your-own-music-on-iphone-using-carplay/content-depth-limit.webp" imageStyle="border-radius: clamp(14px, 2vw, 28px);" >}}
 {{< /cards >}}
 
 When using CarPlay, you may encounter a **"Content Depth Limit"** error — especially if your music library has many deeply nested folders.  
@@ -228,7 +228,7 @@ This workaround ensures a seamless experience when browsing your music in the ca
 ## Now Playing Screen
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="CarPlay Now Playing Entry" image="/carplay-nowplaying.webp" imageStyle="border-radius: clamp(14px, 2vw, 28px);" >}}
+{{< card title="" subtitle="CarPlay Now Playing Entry" image="/docs/howto/how-to-play-your-own-music-on-iphone-using-carplay/carplay-nowplaying.webp" imageStyle="border-radius: clamp(14px, 2vw, 28px);" >}}
 {{< /cards >}}
 
 After tapping on any audio file, it’s automatically added to the **player queue**.  
@@ -245,7 +245,7 @@ This screen lets you stay in control of your listening experience while driving 
 ## Settings
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Settings Menu" image="/settings-2.webp" imageStyle="border-radius: clamp(14px, 2vw, 28px);" >}}
+{{< card title="" subtitle="Settings Menu" image="/docs/howto/how-to-play-your-own-music-on-iphone-using-carplay/settings-2.webp" imageStyle="border-radius: clamp(14px, 2vw, 28px);" >}}
 {{< /cards >}}
 
 The **Settings** section in the CarPlay interface allows you to customize how the app behaves while you're driving. These settings help enhance performance, reduce distractions, and provide a smoother listening experience.
@@ -261,7 +261,7 @@ The **Settings** section in the CarPlay interface allows you to customize how th
 - **Sort** – Adjust how content is sorted in CarPlay menus such as files, music library, and connections.
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Sort Options Menu" image="/settings-sort.webp" imageStyle="border-radius: clamp(14px, 2vw, 28px);" >}}
+{{< card title="" subtitle="Sort Options Menu" image="/docs/howto/how-to-play-your-own-music-on-iphone-using-carplay/settings-sort.webp" imageStyle="border-radius: clamp(14px, 2vw, 28px);" >}}
 {{< /cards >}}
 
 - **Content Loading Limit** – Set how many items should appear per screen. Lower limits improve loading speed and reduce scrolling effort.
@@ -272,19 +272,19 @@ The **Settings** section in the CarPlay interface allows you to customize how th
 - **Audio Equalizer**
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Equalizer Configuration Panel" image="/settings-eq-configuration.webp" imageStyle="border-radius: clamp(14px, 2vw, 28px);" >}}
+{{< card title="" subtitle="Equalizer Configuration Panel" image="/docs/howto/how-to-play-your-own-music-on-iphone-using-carplay/settings-eq-configuration.webp" imageStyle="border-radius: clamp(14px, 2vw, 28px);" >}}
 {{< /cards >}}
 
 Enable the built-in audio equalizer, adjust frequency bands, and select from preconfigured presets for a personalized sound experience.
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Equalizer Presets List" image="/settings-equalizer.webp" imageStyle="border-radius: clamp(14px, 2vw, 28px);" >}}
+{{< card title="" subtitle="Equalizer Presets List" image="/docs/howto/how-to-play-your-own-music-on-iphone-using-carplay/settings-equalizer.webp" imageStyle="border-radius: clamp(14px, 2vw, 28px);" >}}
 {{< /cards >}}
 
 - **Crossfade Playback**
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Crossfade Playback" image="/settings-crossfade-playback.webp" imageStyle="border-radius: clamp(14px, 2vw, 28px);" >}}
+{{< card title="" subtitle="Crossfade Playback" image="/docs/howto/how-to-play-your-own-music-on-iphone-using-carplay/settings-crossfade-playback.webp" imageStyle="border-radius: clamp(14px, 2vw, 28px);" >}}
 {{< /cards >}}
 
 Create smooth transitions between songs by overlapping the ending of one track with the beginning of the next. Crossfade duration can be customized.
@@ -292,7 +292,7 @@ Create smooth transitions between songs by overlapping the ending of one track w
 - **Gapless Playback**
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="Gapless Playback" image="/settings-gapless-playback.webp" imageStyle="border-radius: clamp(14px, 2vw, 28px);" >}}
+{{< card title="" subtitle="Gapless Playback" image="/docs/howto/how-to-play-your-own-music-on-iphone-using-carplay/settings-gapless-playback.webp" imageStyle="border-radius: clamp(14px, 2vw, 28px);" >}}
 {{< /cards >}}
 
 Play tracks seamlessly without pauses — ideal for live recordings, DJ mixes, and concept albums.
@@ -308,7 +308,7 @@ To learn more, read the full [Settings Guide](/docs/guide/evermusic/evermusic-gu
 With **Evermusic** and **Flacbox**, playing your own music in the car using Apple CarPlay becomes simple, flexible, and reliable. Whether you're streaming from cloud storage, accessing local files, or playing downloaded tracks offline — these apps are built to give you total control over your listening experience while driving.
 
 {{< cards cols="1">}}
-{{< card title="" subtitle="CarPlay Now Playing Screen" image="/carplay-nowplaying-2.webp" imageStyle="border-radius: clamp(14px, 2vw, 28px);" >}}
+{{< card title="" subtitle="CarPlay Now Playing Screen" image="/docs/howto/how-to-play-your-own-music-on-iphone-using-carplay/carplay-nowplaying-2.webp" imageStyle="border-radius: clamp(14px, 2vw, 28px);" >}}
 {{< /cards >}}
 
 From seamless cloud integration to offline folder syncing, from deep music library organization to customizable playback with equalizers and crossfade — these features make Evermusic and Flacbox more than just audio players. They're smart CarPlay companions designed for audiophiles, commuters, and everyday users alike.

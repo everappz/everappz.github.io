@@ -22,11 +22,11 @@ Exporting your recents, favorites, albums, and playlists from the app to an exte
 
 To export your recents open the 'Music library' section and select 'Recents' menu item.
 
-![music library](21260c_d7437e96448342ec9a0b2726b10ba1e6~mv2.png)
+![music library](/docs/howto/export-tracks-collection-from-evermusic-flacbox-to-m3u-csv-txt/21260c_d7437e96448342ec9a0b2726b10ba1e6~mv2.png)
 
 On the next screen tap 'More' button in the top right corner and choose 'Export songs list'.
 
-![export recents](21260c_ce62fff9eaf24f20ab1450a4ff62a091~mv2.png)
+![export recents](/docs/howto/export-tracks-collection-from-evermusic-flacbox-to-m3u-csv-txt/21260c_ce62fff9eaf24f20ab1450a4ff62a091~mv2.png)
 
 On the 'Select file format' screen you have several options - CSV, TXT, M3U.
 
@@ -46,15 +46,15 @@ This format is essentially the go-to for creating playlists. It's great because 
 
 Now, let's select CSV and see what we'll receive. Simply choose CSV and hit the 'Export' button.
 
-![select file format](21260c_001c15e241744c1bab444c64f278b6d8~mv2.png)
+![select file format](/docs/howto/export-tracks-collection-from-evermusic-flacbox-to-m3u-csv-txt/21260c_001c15e241744c1bab444c64f278b6d8~mv2.png)
 
 Once the export is completed, you will see an alert with two options. Tapping 'Show file' will reveal the resulting file in your documents directory.
 
-![export completed](21260c_b46e5019cfaf45d0ad0fff8969b87afa~mv2.png)
+![export completed](/docs/howto/export-tracks-collection-from-evermusic-flacbox-to-m3u-csv-txt/21260c_b46e5019cfaf45d0ad0fff8969b87afa~mv2.png)
 
 Now you can send that file, open it in an external text editor, or use it to update your listening progress on [Last.fm](http://Last.fm).
 
-![export folder with result files](21260c_d03e11c2cfce443e8e8e3422040a4e8a~mv2.png)
+![export folder with result files](/docs/howto/export-tracks-collection-from-evermusic-flacbox-to-m3u-csv-txt/21260c_d03e11c2cfce443e8e8e3422040a4e8a~mv2.png)
 
 The output CSV file will contain fields in the following format:
 
@@ -68,7 +68,7 @@ For example:
 The Everly Brothers,100 Greatest Feel Good,All I Have To Do Is Dream,2024-01-06 23:17:26,The Everly Brothers,00:02:23
 ```
 
-![exported csv file](21260c_fcfba9a96e3c4db9bd3b227e625b2383~mv2.png)
+![exported csv file](/docs/howto/export-tracks-collection-from-evermusic-flacbox-to-m3u-csv-txt/21260c_fcfba9a96e3c4db9bd3b227e625b2383~mv2.png)
 
 ## TXT Format
 
@@ -84,17 +84,17 @@ For example:
 22. Queen Omega - Reggae Hits Vol 30 - All For You (00:03:21)
 ```
 
-![exported txt file](21260c_f134980fbc2b4443b096e301d7cb6a91~mv2.png)
+![exported txt file](/docs/howto/export-tracks-collection-from-evermusic-flacbox-to-m3u-csv-txt/21260c_f134980fbc2b4443b096e301d7cb6a91~mv2.png)
 
 ## M3U Format
 
 Next, we'll guide you through exporting your playlist to M3U format, which is the de facto standard for playlist files. The main precondition for successful playlist export is that all files in the playlist must be located on the same storage, whether it's in a cloud service like your Google Drive, local files, or files on your device. To begin the export process, open any playlist and tap the 'More' button in the top right corner, then choose the 'Export songs list' menu item.
 
-![playlist screen](21260c_1371229150d54151ba525addf7e59448~mv2.png)
+![playlist screen](/docs/howto/export-tracks-collection-from-evermusic-flacbox-to-m3u-csv-txt/21260c_1371229150d54151ba525addf7e59448~mv2.png)
 
 On the next screen, select the 'M3U' file format, where you'll encounter two options for 'Media file location type':
 
-![select export file format screen](21260c_57113a1744f94428b75c73ad05462f7f~mv2.png)
+![select export file format screen](/docs/howto/export-tracks-collection-from-evermusic-flacbox-to-m3u-csv-txt/21260c_57113a1744f94428b75c73ad05462f7f~mv2.png)
 
 1. If you choose 'Relative path', the playlist will be created with media file locations written relative to the playlist file. For example:
 
@@ -116,19 +116,19 @@ https://uc2a69c7b75b6056be42091d92dd.dl.dropboxusercontent.com/cd/0/get/CMVQoDWS
 
 Once you've selected the 'Media file location type', tap 'Export'. The app will prompt you to choose a destination folder for exporting the M3U file. Tap 'Done' to confirm your selection.
 
-![select a folder](21260c_b3b006951b754f2f90cb030f7fa50274~mv2.png)
+![select a folder](/docs/howto/export-tracks-collection-from-evermusic-flacbox-to-m3u-csv-txt/21260c_b3b006951b754f2f90cb030f7fa50274~mv2.png)
 
 The app will generate an M3U file and upload/move it to the destination folder.
 
-![uploading m3u file](21260c_dea69f019bca45c1aa6ba929d15018b7~mv2.png)
+![uploading m3u file](/docs/howto/export-tracks-collection-from-evermusic-flacbox-to-m3u-csv-txt/21260c_dea69f019bca45c1aa6ba929d15018b7~mv2.png)
 
 Once the export is completed, a system alert will appear with the option to 'Show file'.
 
-![export completed alert](21260c_b46e5019cfaf45d0ad0fff8969b87afa~mv2.png)
+![export completed alert](/docs/howto/export-tracks-collection-from-evermusic-flacbox-to-m3u-csv-txt/21260c_b46e5019cfaf45d0ad0fff8969b87afa~mv2.png)
 
 Tapping on this will reveal the exported file in the app.
 
-![exported m3u file in files list](21260c_59aaa264cfcc494e88ca1683796590ba~mv2.png)
+![exported m3u file in files list](/docs/howto/export-tracks-collection-from-evermusic-flacbox-to-m3u-csv-txt/21260c_59aaa264cfcc494e88ca1683796590ba~mv2.png)
 
 If you selected 'Relative path' as the 'Media file location type' in the previous step, the output file will be in the following format:
 
@@ -138,7 +138,7 @@ If you selected 'Relative path' as the 'Media file location type' in the previou
 080 - Kenny Rogers & The First Edition - Just Dropped In (To See What Condition My Condition Was In).mp3
 ```
 
-![m3u example with relative paths](21260c_6b681b8079154631845f5b6f40653a39~mv2.png)
+![m3u example with relative paths](/docs/howto/export-tracks-collection-from-evermusic-flacbox-to-m3u-csv-txt/21260c_6b681b8079154631845f5b6f40653a39~mv2.png)
 
 For the 'Absolute URL' option the app will generate an M3U file in the format:
 
@@ -148,11 +148,11 @@ For the 'Absolute URL' option the app will generate an M3U file in the format:
 https://cloud.com/dfgfdguh45tgkbfgr/filecontent
 ```
 
-![m3u example with absolute files urls](21260c_a64edbada1ef4122bb0d6d92874de34e~mv2.png)
+![m3u example with absolute files urls](/docs/howto/export-tracks-collection-from-evermusic-flacbox-to-m3u-csv-txt/21260c_a64edbada1ef4122bb0d6d92874de34e~mv2.png)
 
 You can open that file on any device/application that supports M3U playlists.
 
-![m3u playlist opened in external app](21260c_16a6ec3d1ee7483b872e6002fbc0c5e9~mv2.png)
+![m3u playlist opened in external app](/docs/howto/export-tracks-collection-from-evermusic-flacbox-to-m3u-csv-txt/21260c_16a6ec3d1ee7483b872e6002fbc0c5e9~mv2.png)
 
 ## Final Thoughts
 

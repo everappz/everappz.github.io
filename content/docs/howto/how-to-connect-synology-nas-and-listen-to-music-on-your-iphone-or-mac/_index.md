@@ -23,23 +23,23 @@ In this guide, we will show you how to connect your Synology NAS to the Evermusi
 
 1. Open the **Control Panel** and go to the **Shared Folder** section.
 
-![Shared Folder](21260c_599ebfa896164704ba4497524286ea58~mv2.png)
+![Shared Folder](/docs/howto/how-to-connect-synology-nas-and-listen-to-music-on-your-iphone-or-mac/21260c_599ebfa896164704ba4497524286ea58~mv2.png)
 
 2. Select the **Music** folder and click **Edit**.
 
 3. In the **Permissions** tab, configure the permissions. Enable guest access with Read-only if you just need to listen to music, or Read/Write if you need to modify files. Save the changes.
 
-![Permissions](21260c_43b09e36fc284a43b867e588da32b314~mv2.png)
+![Permissions](/docs/howto/how-to-connect-synology-nas-and-listen-to-music-on-your-iphone-or-mac/21260c_43b09e36fc284a43b867e588da32b314~mv2.png)
 
 ## Step 2: Find Synology NAS IP Address
 
 1. Open the **Control Panel** and go to the **Network Interface** tab.
 
-![Network Interface](21260c_51839801a6f44035b08b3a4b7d33f142~mv2.png)
+![Network Interface](/docs/howto/how-to-connect-synology-nas-and-listen-to-music-on-your-iphone-or-mac/21260c_51839801a6f44035b08b3a4b7d33f142~mv2.png)
 
 2. Or use your web browser to visit [find.synology.com](http://find.synology.com).
 
-![Find Synology](21260c_5bfb1db8e04d4eddb8ff5238f8b214da~mv2.png)
+![Find Synology](/docs/howto/how-to-connect-synology-nas-and-listen-to-music-on-your-iphone-or-mac/21260c_5bfb1db8e04d4eddb8ff5238f8b214da~mv2.png)
 
 3. Note the IP address of your Synology NAS (e.g., 192.168.18.137).
 
@@ -53,7 +53,7 @@ Synology DSM uses the following default ports:
 
 These are the default ports for accessing the DSM interface.
 
-![Network Ports](21260c_61d64239cd7e4bfab2530c32b5a8ceee~mv2.png)
+![Network Ports](/docs/howto/how-to-connect-synology-nas-and-listen-to-music-on-your-iphone-or-mac/21260c_61d64239cd7e4bfab2530c32b5a8ceee~mv2.png)
 
 ## Step 4: Enable QuickConnect ID feature
 
@@ -65,7 +65,7 @@ A Synology QuickConnect ID is a unique identifier that allows you to access your
 2. Go to **Control Panel > External Access > QuickConnect**.
 3. **Enable QuickConnect** and either create or view your unique QuickConnect ID.
 
-![QuickConnect](21260c_504d681f7e5848fabe0ee57fc80e770b~mv2.png)
+![QuickConnect](/docs/howto/how-to-connect-synology-nas-and-listen-to-music-on-your-iphone-or-mac/21260c_504d681f7e5848fabe0ee57fc80e770b~mv2.png)
 
 ## Step 5: Connect to Synology NAS on your iPhone/Mac using Evermusic or Flacbox
 
@@ -73,11 +73,11 @@ A Synology QuickConnect ID is a unique identifier that allows you to access your
 
 1. Open the Evermusic or Flacbox app and go to the **Connections** tab.
 
-![Connections](21260c_d2dedf2cc0614bbe818f89e9d165411c~mv2.png)
+![Connections](/docs/howto/how-to-connect-synology-nas-and-listen-to-music-on-your-iphone-or-mac/21260c_d2dedf2cc0614bbe818f89e9d165411c~mv2.png)
 
 2. Choose **Connect a cloud service** and select **Synology Drive**.
 
-![Synology Drive](21260c_eb5e8f1a02b64748a9fa23eee5df7e0d~mv2.jpg)
+![Synology Drive](/docs/howto/how-to-connect-synology-nas-and-listen-to-music-on-your-iphone-or-mac/21260c_eb5e8f1a02b64748a9fa23eee5df7e0d~mv2.jpg)
 
 You have two connection options: **manual** using the server’s IP address and port, or **automatic** via QuickConnect ID.
 
@@ -96,7 +96,7 @@ For the manual method, you’ll need the direct IP address and port number that 
 3. Enter your **login** and **password** for the Synology NAS.
 4. Tap **Sign In** to establish the connection.
 
-![Manual Connection](21260c_8952ec16c92046fd81d62bff4139a97b~mv2.jpg)
+![Manual Connection](/docs/howto/how-to-connect-synology-nas-and-listen-to-music-on-your-iphone-or-mac/21260c_8952ec16c92046fd81d62bff4139a97b~mv2.jpg)
 
 ### Automatic Connection
 
@@ -104,7 +104,7 @@ For the automatic connection, you’ll use the **QuickConnect ID** from step 4. 
 
 This method allows you to access your NAS remotely, even outside your home network, so you can manage your files from the internet without needing to configure port forwarding or static IP addresses.
 
-![Automatic Connection](21260c_68bd2a6bcbf844eea7248cbe1c1cb3fe~mv2.jpg)
+![Automatic Connection](/docs/howto/how-to-connect-synology-nas-and-listen-to-music-on-your-iphone-or-mac/21260c_68bd2a6bcbf844eea7248cbe1c1cb3fe~mv2.jpg)
 
 ## Two-Factor Authentication
 
@@ -122,11 +122,11 @@ This ensures that even if you're accessing your NAS from an untrusted network, y
 
 1. Once connected, the device will appear in the **Connected Devices** list.
 
-![Connected Devices](21260c_61446121c6b240f1a2c04ecd4c4badc0~mv2.jpg)
+![Connected Devices](/docs/howto/how-to-connect-synology-nas-and-listen-to-music-on-your-iphone-or-mac/21260c_61446121c6b240f1a2c04ecd4c4badc0~mv2.jpg)
 
 2. Navigate to the **Music** folder and tap any audio file to start playback.
 
-![Play Music](21260c_1702cbbfaa474d5b8c64fb9ca5e77dd4~mv2.jpg)
+![Play Music](/docs/howto/how-to-connect-synology-nas-and-listen-to-music-on-your-iphone-or-mac/21260c_1702cbbfaa474d5b8c64fb9ca5e77dd4~mv2.jpg)
 
 ## Step 7: Add Connected Cloud Folder to Music Library
 

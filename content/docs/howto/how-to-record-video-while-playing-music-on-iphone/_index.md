@@ -20,30 +20,30 @@ We've just let you know a little trick that allows you to play music in the back
 
 Open App Store and search for the app called [Evermusic](https://apps.apple.com/app/evermusic-cloud-music-player/id885367198). Download it for free.
 
-{{< figure src="21260c_9430a2a876cf4747b996044a6493696d~mv2.jpg" alt="Evermusic on App Store" width="400" >}}
+{{< figure src="/docs/howto/how-to-record-video-while-playing-music-on-iphone/21260c_9430a2a876cf4747b996044a6493696d~mv2.jpg" alt="Evermusic on App Store" width="400" >}}
 
 ## Import Music
 Add some music using [WiFi Drive](/docs/howto/how-to-transfer-music-from-computer-to-iphone-without-itunes), [iTunes file sharing](/docs/howto/how-to-play-local-itunes-files-on-my-iphone) or import existing music on your iPhone.
 
-{{< figure src="21260c_e1998cc648c24dbcb081c8ce76578715~mv2.jpg" alt="Add Music to Evermusic" width="400" >}}
+{{< figure src="/docs/howto/how-to-record-video-while-playing-music-on-iphone/21260c_e1998cc648c24dbcb081c8ce76578715~mv2.jpg" alt="Add Music to Evermusic" width="400" >}}
 
 ## Change Audio Output Mode
 
 Open app "Settings" - "Audio Player" - "General" - "Audio Output mode" and change it to "Mixed mode".
 
-{{< figure src="21260c_59fdf74049e6464f8e9611fdcf9360af~mv2.jpg" alt="Audio Output Mode - Mixed" width="400" >}}
+{{< figure src="/docs/howto/how-to-record-video-while-playing-music-on-iphone/21260c_59fdf74049e6464f8e9611fdcf9360af~mv2.jpg" alt="Audio Output Mode - Mixed" width="400" >}}
 
 ## Start Player
 Start the audio player by tapping on any track in the app.
 
-{{< figure src="21260c_5b2c8042b10a4678a7e45b16406f8449~mv2.jpg" alt="Evermusic Audio Player" width="400" >}}
+{{< figure src="/docs/howto/how-to-record-video-while-playing-music-on-iphone/21260c_5b2c8042b10a4678a7e45b16406f8449~mv2.jpg" alt="Evermusic Audio Player" width="400" >}}
 
 ## Open Camera App
 
 Open camera app or any other application and start recording.   
 This trick works on every iPhone.
 
-{{< figure src="21260c_fff02309eeb74e7fa8d73d948ad6157f~mv2.jpg" alt="iPhone Camera While Playing Music" width="400" >}}
+{{< figure src="/docs/howto/how-to-record-video-while-playing-music-on-iphone/21260c_fff02309eeb74e7fa8d73d948ad6157f~mv2.jpg" alt="iPhone Camera While Playing Music" width="400" >}}
 
 ## Frequently Asked Questions
 

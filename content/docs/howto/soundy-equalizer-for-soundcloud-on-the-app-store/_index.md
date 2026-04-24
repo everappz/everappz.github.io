@@ -41,7 +41,7 @@ So, what makes Soundy's equalizer REAL? Unlike other apps with pseudo-parametric
 1. Go to Player Screen > Equalizer.
 2. Adjust the frequency settings by dragging sliders to your preference.
 
-{{< figure src="21260c_1ff5c4fcef8e438ca73afa7c569bd402~mv2.png" width="400" >}}
+{{< figure src="/docs/howto/soundy-equalizer-for-soundcloud-on-the-app-store/21260c_1ff5c4fcef8e438ca73afa7c569bd402~mv2.png" width="400" >}}
 
 Soundy doesn't just sound good; it sounds exceptional. Thanks to its proprietary auto-normalizer, Soundy prevents clipping and compression of dynamics. This results in an unparalleled listening experience for SoundCloud tracks.
 
@@ -53,7 +53,7 @@ However, the equalizer isn't Soundy's only standout feature. It also offers:
 - Audio bookmarks and resume playback from the last position.
 - A sleep timer that fades out your music softly, conserving your device's battery while lulling you to sleep.
 
-{{< figure src="21260c_1e684638838f4aabaf68b09616eade33~mv2.png" width="400" >}}
+{{< figure src="/docs/howto/soundy-equalizer-for-soundcloud-on-the-app-store/21260c_1e684638838f4aabaf68b09616eade33~mv2.png" width="400" >}}
 
 This post doesn't cover all of Soundy's features, so we invite you to explore the rest yourself. In summary, Soundy is a visually appealing app, user-friendly, with excellent sound quality, and the ability to equalize SoundCloud songs, making it a must-have for SoundCloud enthusiasts.
 

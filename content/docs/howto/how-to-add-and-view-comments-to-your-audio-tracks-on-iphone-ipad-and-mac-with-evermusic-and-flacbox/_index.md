@@ -21,19 +21,19 @@ There are moments when you find the need to add comments to your tracks and read
 ## How to Add Comments
 To start adding comments, simply utilize the built-in audio tags editor. While a track is playing, navigate to the audio player screen and tap the three dots button next to the track title.
 
-![Image](21260c_a06a754caa3946ebbbcbe66a55be6ad9~mv2.png)
+![Image](/docs/howto/how-to-add-and-view-comments-to-your-audio-tracks-on-iphone-ipad-and-mac-with-evermusic-and-flacbox/21260c_a06a754caa3946ebbbcbe66a55be6ad9~mv2.png)
 
 From the available options, select 'Edit audio tags' menu item.
 
-![Image](21260c_031f51c2248a4ba38b705f36a1a84406~mv2.jpeg)
+![Image](/docs/howto/how-to-add-and-view-comments-to-your-audio-tracks-on-iphone-ipad-and-mac-with-evermusic-and-flacbox/21260c_031f51c2248a4ba38b705f36a1a84406~mv2.jpeg)
 
 In the audio tags editor, you'll find the option to edit various audio tags such as 'Track Title,' 'Album,' 'Artist,' 'Genre,' and 'Artwork.'
 
-![Image](21260c_b6f3c28a70284077a6891d9bfed56625~mv2.png)
+![Image](/docs/howto/how-to-add-and-view-comments-to-your-audio-tracks-on-iphone-ipad-and-mac-with-evermusic-and-flacbox/21260c_b6f3c28a70284077a6891d9bfed56625~mv2.png)
 
 However, what captures our interest at this particular moment is the 'Comment' section. Simply scroll down and tap the text field to initiate the editing process. Whether it's your thoughts on the song or language-learning notes, this feature allows you to input any text.
 
-![Image](21260c_e6163727561e4ca1ae02c5eb1076c19a~mv2.png)
+![Image](/docs/howto/how-to-add-and-view-comments-to-your-audio-tracks-on-iphone-ipad-and-mac-with-evermusic-and-flacbox/21260c_e6163727561e4ca1ae02c5eb1076c19a~mv2.png)
 
 ## Timed Comments
 Take your comments to the next level by inserting time markers. Using the format [MM:SS.SS], you can ensure that your comments are highlighted precisely when the audio player reaches specific time intervals during playback. It's a dynamic way to engage with your music, providing context and insights at key moments.
@@ -65,26 +65,26 @@ Once you've crafted your comments and added any timed markers, a simple tap on '
 ## How to View Comments
 Evermusic and Flacbox make it effortless to access and enjoy your comments while listening to music. On the player screen, tap the three dots button in the top right corner (in Modern style) and choose 'Comments' from the menu. A full-screen 'Comments screen' appears, presenting your comments in a visually appealing and organized manner.
 
-![Image](21260c_19888ab21af94732a582c382bf50543d~mv2.png)
+![Image](/docs/howto/how-to-add-and-view-comments-to-your-audio-tracks-on-iphone-ipad-and-mac-with-evermusic-and-flacbox/21260c_19888ab21af94732a582c382bf50543d~mv2.png)
 
 ## Timed Comments in Action
 If you've added timed comments, witness the app intelligently highlighting them in sync with your music playback. As you scroll through the comments, tapping on any specific comment instantly prompts the audio player to jump to the corresponding time, offering a seamless and interactive experience.
 
-![Image](21260c_9473d7888db24ccf823add09a4764dd1~mv2.png)
+![Image](/docs/howto/how-to-add-and-view-comments-to-your-audio-tracks-on-iphone-ipad-and-mac-with-evermusic-and-flacbox/21260c_9473d7888db24ccf823add09a4764dd1~mv2.png)
 
 ## Activating the 'Comments' Button
 For those who frequently use this feature, Evermusic and Flacbox offer a more convenient way to activate it. On the player screen, tap the three dots button at the top right and select 'Settings.' On the 'Audio player settings' screen choose 'Personalization'.
 
-![Image](21260c_577448eb0940498e80bdd5437ae4251c~mv2.png)
+![Image](/docs/howto/how-to-add-and-view-comments-to-your-audio-tracks-on-iphone-ipad-and-mac-with-evermusic-and-flacbox/21260c_577448eb0940498e80bdd5437ae4251c~mv2.png)
 
 Scroll down to the 'Buttons on the main screen' section. Put a check box next to 'Comments' to seamlessly integrate this feature into your main screen.
 
-![Image](21260c_a2e6b9b315bc415fb6a0d83f18b85f50~mv2.png)
+![Image](/docs/howto/how-to-add-and-view-comments-to-your-audio-tracks-on-iphone-ipad-and-mac-with-evermusic-and-flacbox/21260c_a2e6b9b315bc415fb6a0d83f18b85f50~mv2.png)
 
 ## Switching Between Modes
 Now, on the player screen, tap the 'View mode' button at the bottom of the screen next to the 'Equalizer' icon to switch between 'Audio player queue,' 'Comments,' and 'Artwork' modes. This customization adds an extra layer of personalization to your music exploration.
 
-![Image](21260c_4d06d160d9f949f3b5ee83bb111af8ee~mv2.png)
+![Image](/docs/howto/how-to-add-and-view-comments-to-your-audio-tracks-on-iphone-ipad-and-mac-with-evermusic-and-flacbox/21260c_4d06d160d9f949f3b5ee83bb111af8ee~mv2.png)
 
 ## Switching between Comments / Embedded Lyrics / LRC file
 Once you open the Comments screen, you can switch between three modes by swiping right: Comments, Embedded Lyrics, and LRC File.
