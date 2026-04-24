@@ -173,27 +173,5 @@ The `<strong>`, `&nbsp;`, `<br class="...">` tags stay exactly in place.
 - Content files use standard Hugo shortcodes with inline text (no i18n shortcodes in content)
 - The `{{< t >}}` and `{{< tp >}}` shortcodes were REMOVED — they don't work reliably in Hugo (can't nest inside other shortcodes, break in headings)
 
-## Pages Pending Translation
-
-- `content/support/_index.md`
-- `content/contact/_index.md`
-- `content/docs/_index.md`
-- `content/docs/faq/_index.md`
-- `content/docs/guide/_index.md`
-- `content/docs/howto/_index.md`
-- `content/legal/_index.md`
-- `content/products/_index.md`
-- `content/products/evermusic/_index.md`
-- `content/products/evervideo/_index.md`
-- `content/products/flacbox/_index.md`
-- `content/products/evertag/_index.md`
-- `content/products/soundy/_index.md`
-- `content/subscribe/_index.md`
-
-## Pages Already Translated
-
-- `content/about/_index.md` — all 32 languages
-- `content/blog/_index.md` — all 32 languages
-- `content/blog/audio-streaming-and-caching-in-ios-using-avassetresourceloader-and-avplayer/_index.md` — all 32 languages
 
 Skip: `content/auth/` (skip entirely)
