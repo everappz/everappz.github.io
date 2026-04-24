@@ -12,6 +12,9 @@ aliases:
 
 {{< author-byline >}}
 
+
+**TL;DR:** Soundy is a SoundCloud player for iPhone with a real 10-band equalizer, 20+ presets (Jazz, Rock, Electronic, Hip Hop, and more), sleep timer, audio bookmarks, playback speed control, and auto-normalizer for superior sound quality.
+
 SoundCloud is renowned for music discovery, but one glaring omission in the official SoundCloud app is an equalizer. While alternative apps like TuneShell offer SoundCloud playback, their equalizer options are often limited. Enter Soundy, the solution you've been waiting for.
 
 Soundy is a feature-packed SoundCloud audio player that boasts a robust 10-band equalizer, reminiscent of iTunes, complete with popular presets such as Electronic, Jazz, Pop, Hip Hop, Rock, Bass Booster, and Bass Reducer. Beyond the equalizer, Soundy offers a plethora of features you'd expect in a top-notch music app, including easy playlist management, shuffle, repeat, audio bookmarks, favorites, sleep timer, and playback speed control.
@@ -55,3 +58,25 @@ However, the equalizer isn't Soundy's only standout feature. It also offers:
 This post doesn't cover all of Soundy's features, so we invite you to explore the rest yourself. In summary, Soundy is a visually appealing app, user-friendly, with excellent sound quality, and the ability to equalize SoundCloud songs, making it a must-have for SoundCloud enthusiasts.
 
 Discover the full potential of Soundy and elevate your SoundCloud listening experience.
+
+## Frequently Asked Questions
+
+{{% details title="Does the SoundCloud app have an equalizer?" closed="true" %}}
+No. The official SoundCloud app does not include an equalizer. Soundy is a third-party SoundCloud player that adds a real 10-band equalizer with 20+ presets.
+{{% /details %}}
+
+{{% details title="Is Soundy free?" closed="true" %}}
+Soundy is available on the App Store for iPhone. Check the App Store listing for current pricing and any free trial options.
+{{% /details %}}
+
+{{% details title="Can I adjust bass on SoundCloud?" closed="true" %}}
+Yes, with Soundy. Use the Bass Booster preset for a quick bass enhancement, or manually drag the low-frequency sliders on the 10-band equalizer for precise bass control.
+{{% /details %}}
+
+{{% details title="Does Soundy support background playback?" closed="true" %}}
+Yes. Soundy plays SoundCloud audio in the background while you use other apps or lock your device.
+{{% /details %}}
+
+{{% details title="What is the auto-normalizer in Soundy?" closed="true" %}}
+The auto-normalizer automatically adjusts playback volume to prevent clipping and preserve audio dynamics. This means consistent volume across tracks without distortion.
+{{% /details %}}

@@ -12,6 +12,9 @@ aliases:
 
 {{< author-byline >}}
 
+
+**TL;DR:** A promo code lets you download a paid app for free or unlock in-app purchases. On iOS: App Store > Account icon > Redeem Gift Card or Code > enter code. On Mac: App Store > Account > Redeem Gift Card > enter code. Then open the app and restore purchases if needed.
+
 {{< figure src="/21260c_b9528a8ed58c4207be1e012627bce8d1~mv2.png" alt="Activate redeem promo code on iPad" width="800" >}}
 
 ## What is a Redeem Promo Code?
@@ -91,3 +94,25 @@ Follow the same steps above to redeem the code. After that, open the app and nav
 4. Open the app and go to **Settings > Restore Purchases** to unlock premium features.
 
 Enjoy your free app or in-app upgrade!
+
+## Frequently Asked Questions
+
+{{% details title="Where do I get a promo code?" closed="true" %}}
+Promo codes are provided by app developers for reviews, giveaways, or promotions. Contact the developer directly to request one.
+{{% /details %}}
+
+{{% details title="Do promo codes expire?" closed="true" %}}
+Yes. Apple App Store promo codes expire 28 days after they are generated and can only be redeemed once.
+{{% /details %}}
+
+{{% details title="Can I use a promo code in any country?" closed="true" %}}
+Promo codes are region-specific. The code must match the App Store country of your Apple ID.
+{{% /details %}}
+
+{{% details title="How do I activate in-app purchases with a promo code?" closed="true" %}}
+After redeeming the code in the App Store, open the app and go to Settings > Restore Purchases. The premium content will be unlocked automatically.
+{{% /details %}}
+
+{{% details title="The promo code says it has already been redeemed. What should I do?" closed="true" %}}
+Each promo code can only be used once. Contact the developer to request a new code.
+{{% /details %}}

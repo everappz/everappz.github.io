@@ -12,6 +12,9 @@ aliases:
 
 {{< author-byline >}}
 
+
+**TL;DR:** Evermusic lets you play music directly from a SanDisk iXpand Flash Drive on your iPhone or iPad. Plug in the drive, open Evermusic, and start listening -- no need to copy files to your device. Supports file management, playlists, equalizer, and AirPlay streaming.
+
 {{< figure src="21260c_cbcf3bdd49c8493bbccf28e6922ea5fe~mv2.jpg" alt="Evermusic with iXpand Flash Drive" width="800" >}}
 
 Are you tired of running out of space on your iPhone or iPad? With Evermusic, you can effortlessly listen to your music directly from a SanDisk iXpand Flash Drive and free up precious storage space for photos and other essential apps. Imagine saving up to 256 GB of space on your iPhone! The iXpand Flash Drive is a compact device with a lightning connector on one end and a standard USB connector on the other. You can easily transfer files between your home computer and iPhone.
@@ -66,3 +69,25 @@ Of course, if you ever want to copy audio files from your flash drive to your iP
 
 ## Conclusion
 With Evermusic and the SanDisk iXpand Flash Drive, you'll have the freedom to enjoy your music collection without worrying about storage limitations. To learn more about Evermusic, visit [link](/docs/guide/evermusic/). To discover more about the iXpand by SanDisk, check out [link](http://www.ixpand.com). Say goodbye to storage woes and hello to your music on the go!
+
+## FAQ
+
+{{% details title="What iXpand Flash Drive models does Evermusic support?" closed="true" %}}
+Evermusic supports SanDisk iXpand Flash Drives with protocols V1, V2, V3, V6, and V7. You can check compatibility in your iPhone's Settings under General > About > iXpand Flash Drive.
+{{% /details %}}
+
+{{% details title="Can I play music from the USB drive without copying files to my iPhone?" closed="true" %}}
+Yes. Evermusic plays audio files directly from the iXpand Flash Drive. No need to copy anything to your device's internal storage.
+{{% /details %}}
+
+{{% details title="What audio formats does Evermusic support from USB drives?" closed="true" %}}
+Evermusic supports all major audio formats including MP3, FLAC, AAC, WAV, AIFF, OGG, and more. Any audio file stored on your iXpand drive can be played directly.
+{{% /details %}}
+
+{{% details title="Can I stream music from the iXpand drive to AirPlay speakers?" closed="true" %}}
+Yes. While playing music from the USB drive, you can stream audio to AirPlay-compatible devices such as Sonos speakers, Apple TV, and Google Chromecast.
+{{% /details %}}
+
+{{% details title="What should I do if my iXpand drive is not recognized?" closed="true" %}}
+Make sure no other apps are using the drive. Try unplugging and reconnecting it. If your model is not supported, use an Apple Lightning to USB adapter to connect the drive as a standard USB device.
+{{% /details %}}

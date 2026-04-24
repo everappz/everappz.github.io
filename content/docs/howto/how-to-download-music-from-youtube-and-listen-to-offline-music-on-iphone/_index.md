@@ -13,6 +13,9 @@ aliases:
 
 {{< author-byline >}}
 
+
+**TL;DR:** Convert YouTube videos to MP3 using a browser-based converter or the free ClipGrab desktop app. Then import the audio files into Evermusic on your iPhone or Mac for offline playback -- no internet required.
+
 YouTube is a beloved platform for streaming videos, but slow or unreliable internet connections can hinder your music-listening experience. In such cases, downloading your favorite songs for offline listening becomes a preferred option.
 
 Evermusic, available for iPhone, iPad, and Mac, not only enables offline music playback but also allows you to enjoy your favorite YouTube songs without an internet connection.
@@ -228,4 +231,25 @@ P.S. There are also several **video tutorials** available on the Youtube:
 <br><br>
 {{< youtubecard id="-kY48ktbo2M" title="テクノロジー塾】おすすめiPhone 音楽アプリ「ever music」ストック型篇" >}}
 
+## FAQ
+
+{{% details title="Is it legal to download music from YouTube?" closed="true" %}}
+It depends on the content's copyright status. Royalty-free and Creative Commons content can typically be downloaded for personal use. Copyrighted music requires proper licensing or permission.
+{{% /details %}}
+
+{{% details title="What audio formats does Evermusic support?" closed="true" %}}
+Evermusic supports MP3, FLAC, AAC, WAV, OGG, AIFF, and many other audio formats. You can play virtually any audio file you download.
+{{% /details %}}
+
+{{% details title="Can I use Evermusic without an internet connection?" closed="true" %}}
+Yes. Once audio files are imported into Evermusic, you can play them completely offline -- no internet connection required.
+{{% /details %}}
+
+{{% details title="Is ClipGrab free?" closed="true" %}}
+Yes. ClipGrab is free and available for both Mac and Windows. It uses the open-source youtube-dlp library for downloads.
+{{% /details %}}
+
+{{% details title="How do I transfer downloaded music from Mac to iPhone?" closed="true" %}}
+You can use AirDrop, iTunes File Sharing, or Evermusic's built-in Wi-Fi Drive feature to transfer audio files from your Mac to your iPhone.
+{{% /details %}}
 

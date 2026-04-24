@@ -10,6 +10,9 @@ draft: false
 
 {{< author-byline >}}
 
+
+**TL;DR:** Install Kodi on your Mac, PC, Linux, or NAS, enable its DLNA/UPnP server, and stream your entire music library to iPhone or iPad using the free Evermusic or Flacbox app over Wi-Fi. No subscriptions required.
+
 ## Introduction
 
 If you have a **Mac, Windows PC, Linux machine, or NAS device**, you can easily transform it into a **personal music server** at home using [Kodi](https://kodi.tv/), a free and open-source media platform. With Kodi's built-in **DLNA/UPnP server**, you can stream your entire music library to any DLNA-compatible client — including your iPhone or iPad.
@@ -301,3 +304,29 @@ Whether you're an audiophile or a casual listener, Evermusic and Flacbox offer e
 {{< /cards >}}
 
 Start building your personal music experience today.
+
+## FAQ
+
+{{% details title="Is Kodi free to use as a DLNA server?" closed="true" %}}
+Yes. Kodi is completely free and open-source. It runs on macOS, Windows, Linux, and many NAS devices.
+{{% /details %}}
+
+{{% details title="Do Evermusic and Flacbox support FLAC streaming over DLNA?" closed="true" %}}
+Yes. Flacbox is optimized for hi-res formats like FLAC, ALAC, and DSD. Evermusic also supports FLAC playback alongside MP3 and other standard formats.
+{{% /details %}}
+
+{{% details title="Can I listen offline after streaming from Kodi?" closed="true" %}}
+Yes. Enable Offline Mode on any playlist, and the app downloads all tracks to your device for listening without a network connection.
+{{% /details %}}
+
+{{% details title="Do I need a premium subscription to use DLNA?" closed="true" %}}
+The free version supports up to 3 cloud or network connections. Premium removes this limit and lets you connect unlimited services and DLNA servers.
+{{% /details %}}
+
+{{% details title="Does my iPhone need to be on the same Wi-Fi network as Kodi?" closed="true" %}}
+Yes. DLNA streaming works over your local network. Both the Kodi server and your iOS device must be connected to the same Wi-Fi network.
+{{% /details %}}
+
+{{% details title="Can I use this setup with a NAS instead of a Mac or PC?" closed="true" %}}
+Yes. Many NAS devices (Synology, QNAP, etc.) support Kodi or have their own built-in DLNA server. Evermusic and Flacbox can connect to any standard DLNA/UPnP server.
+{{% /details %}}

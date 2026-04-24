@@ -11,6 +11,9 @@ aliases:
 
 {{< author-byline >}}
 
+
+**TL;DR:** Evermusic for iPhone and Mac displays embedded lyrics, comment tags, and external .lrc files for any audio track. Open the player, tap More Actions, then select Comments to view lyrics in three modes: Comments, Embedded Lyrics, and LRC File.
+
 Discover how to easily view embedded lyrics for your music on your iPhone or Mac using the **Evermusic** app. Whether it's text, lyrics, comments, or LRC files, this guide will show you step-by-step how to access and enjoy your song lyrics seamlessly.
 
 ## View Lyrics and Comments in Evermusic
@@ -64,3 +67,25 @@ Return to the main player and tap the **audio queue button** several times to cy
 ## Conclusion
 
 Viewing embedded lyrics, comments, or synced `.lrc` files in **Evermusic** is effortless. Whether you're editing tags or using external lyric files, the app makes it convenient to explore your music's metadata and lyrics. For enhanced control, don’t forget to enable the **Quick Comments View** for faster access while listening.
+
+## FAQ
+
+{{% details title="How do I view embedded lyrics on my iPhone?" closed="true" %}}
+Open Evermusic, play a song, tap More Actions in the full-screen player, and select Comments. Swipe to the Embedded Lyrics tab to see lyrics stored in the audio file's tags.
+{{% /details %}}
+
+{{% details title="What is an LRC file and how does it work?" closed="true" %}}
+An LRC file is a text file containing time-stamped song lyrics. When placed in the same folder as an audio file with the same filename, Evermusic reads it and displays synced lyrics that scroll during playback.
+{{% /details %}}
+
+{{% details title="Can I add lyrics to my music files on iPhone?" closed="true" %}}
+Yes. Use the Evertag app to edit ID3 tags and add or update embedded lyrics directly on your iPhone. You can paste timed LRC-format text for synced lyrics.
+{{% /details %}}
+
+{{% details title="Does Evermusic support synced (timed) lyrics?" closed="true" %}}
+Yes. Evermusic supports timed lyrics in LRC format, both when embedded in audio tags and when provided as a separate `.lrc` file.
+{{% /details %}}
+
+{{% details title="What audio formats support embedded lyrics?" closed="true" %}}
+MP3, FLAC, AAC, M4A, OGG, and most other common formats support embedded lyrics through their respective tag standards.
+{{% /details %}}

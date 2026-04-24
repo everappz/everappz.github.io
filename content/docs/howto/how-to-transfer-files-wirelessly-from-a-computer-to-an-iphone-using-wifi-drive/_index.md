@@ -11,6 +11,9 @@ aliases:
 
 {{< author-byline >}}
 
+
+**TL;DR:** Wi-Fi Drive lets you transfer files from any computer to your iPhone or iPad over Wi-Fi -- no iTunes or cables required. Use a web browser, Mac Finder, or Windows File Explorer. Both devices must be on the same Wi-Fi network.
+
 Wi-Fi Drive is the easiest way to transfer your files from the computer to an iPhone or iPad without iTunes. You can easily download or upload multiple files or even folders using a local Wi-Fi connection. Both devices should be connected to the same Wi-Fi network.
 
 You can transfer files wirelessly using a desktop web browser or WebDAV client like Mac Finder or Windows File Explorer.
@@ -86,3 +89,29 @@ You can watch a video tutorial from [**TECHGUYPH**](https://www.youtube.com/chan
 With Wi-Fi Drive, you can easily and wirelessly transfer files between your computer and iOS device, enhancing your file management and sharing capabilities.
 
 No iTunes is required!
+
+## Frequently Asked Questions
+
+{{% details title="Do I need iTunes to transfer files to my iPhone?" closed="true" %}}
+No. Wi-Fi Drive transfers files directly over your local Wi-Fi network. iTunes is not required.
+{{% /details %}}
+
+{{% details title="Which apps support Wi-Fi Drive?" closed="true" %}}
+Wi-Fi Drive is available in Evermusic, Flacbox, Evertag, and Evervideo for iOS.
+{{% /details %}}
+
+{{% details title="Do both devices need to be on the same Wi-Fi network?" closed="true" %}}
+Yes. Your computer and iPhone or iPad must be connected to the same local Wi-Fi network for Wi-Fi Drive to work.
+{{% /details %}}
+
+{{% details title="Can I transfer entire folders, not just individual files?" closed="true" %}}
+Yes. Wi-Fi Drive supports uploading and downloading entire folders through the web browser interface.
+{{% /details %}}
+
+{{% details title="Does Wi-Fi Drive work with Windows?" closed="true" %}}
+Yes. You can use any web browser on Windows or connect via Windows File Explorer using the WebDAV protocol.
+{{% /details %}}
+
+{{% details title="Can I use a USB cable to speed up the transfer?" closed="true" %}}
+Yes. If your iPhone is connected to your Mac via USB while Wi-Fi Drive is running, the transfer will use the cable connection for faster speeds.
+{{% /details %}}

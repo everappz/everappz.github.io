@@ -10,6 +10,9 @@ draft: false
 
 {{< author-byline >}}
 
+
+**TL;DR:** Spotify does not let you change album covers for streamed tracks, but you can update artwork for local files. Enable Spotify's Local Files feature, copy your music to the Spotify folder, then use the free Evertag app to edit album covers and metadata. Changes appear in Spotify after a restart.
+
 ## Intro
 
 Looking to personalize your Spotify music collection with custom album artwork? While Spotify doesn't let you change covers for its streaming catalog, you *can* update album covers for **local music files** added to your library.
@@ -263,3 +266,29 @@ That’s it! You’ve now successfully enabled Spotify’s local file library, a
 This method is ideal for music collectors, independent artists, and anyone who wants full control over how their music appears inside Spotify — especially when using offline or personally curated tracks.
 
 Need help tagging FLAC, MP3, or other high-quality formats? [Try Evertag](/products/evertag/) — your personal audio tag assistant on iOS and macOS.
+
+## FAQ
+
+{{% details title="Can I change album covers for Spotify streaming tracks?" closed="true" %}}
+No. Spotify does not allow changing artwork for tracks in its streaming catalog. You can only edit album covers for local files added to your Spotify library.
+{{% /details %}}
+
+{{% details title="Is Evertag free to use?" closed="true" %}}
+Yes. Evertag is free to download and use on both iOS and macOS. It supports over 120 audio tags and 30+ file formats.
+{{% /details %}}
+
+{{% details title="What audio formats does Evertag support?" closed="true" %}}
+Evertag supports 30+ formats including MP3, FLAC, AAC, ALAC, WAV, AIFF, OGG, WMA, and more.
+{{% /details %}}
+
+{{% details title="Why doesn't Spotify show my updated album cover?" closed="true" %}}
+Force-close the Spotify app and reopen it. Spotify caches metadata and needs a restart to pick up changes to local files.
+{{% /details %}}
+
+{{% details title="Can I edit tags for multiple files at once?" closed="true" %}}
+Yes. Evertag supports batch editing. Select multiple files and tap "Edit several files simultaneously" to update tags and artwork for all selected tracks at once.
+{{% /details %}}
+
+{{% details title="Do I need to copy files to the Spotify folder?" closed="true" %}}
+Yes. Spotify only reads local files from its dedicated folder. Copy or move your music files into the Spotify folder on your device, then enable the Local Audio Files toggle in Spotify settings.
+{{% /details %}}

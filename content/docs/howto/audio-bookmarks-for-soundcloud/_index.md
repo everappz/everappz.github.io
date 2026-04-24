@@ -11,6 +11,9 @@ aliases:
 
 {{< author-byline >}}
 
+
+**TL;DR:** Soundy lets you create audio bookmarks in SoundCloud tracks -- ideal for marking positions in audiobooks, podcasts, and lectures.
+
 {{< figure
   src="/21260c_617fb607236c4b239b64b8816b7d19fe~mv2.jpg"
   alt="Soundy app used for audio bookmarking on SoundCloud"
@@ -100,3 +103,17 @@ Tap any bookmark title to instantly resume playback from that moment.
 Use the **All Songs** filter to find and manage all your bookmarked audio.
 
 If you have any questions, leave a comment below or contact support!
+
+## FAQ
+
+{{% details title="What are audio bookmarks?" closed="true" %}}
+Audio bookmarks let you save specific timestamps within a track so you can jump back to that exact moment later. They are especially useful for long-form content like audiobooks, podcasts, and lectures.
+{{% /details %}}
+
+{{% details title="Can I create audio bookmarks in Evermusic or Flacbox?" closed="true" %}}
+Yes. Both Evermusic and Flacbox include a free audio bookmarks feature for tracks stored in cloud services or local storage.
+{{% /details %}}
+
+{{% details title="How many bookmarks can I create per track?" closed="true" %}}
+There is no fixed limit. You can create multiple bookmarks per track and manage them from the bookmarks list.
+{{% /details %}}

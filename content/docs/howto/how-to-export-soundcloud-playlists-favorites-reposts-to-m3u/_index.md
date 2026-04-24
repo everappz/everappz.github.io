@@ -13,6 +13,9 @@ aliases:
 
 {{< author-byline >}}
 
+
+**TL;DR:** Use the **Soundy** app to export any SoundCloud playlist, favorites, or reposts as an M3U file. Transfer the file via AirDrop to your Mac and open it in any compatible music player.
+
 {{< figure src="/21260c_1d33da9a468b4b6aad57393aae61f763~mv2_d_4500_3450_s_4_2.jpg" alt="Soundy Playlists Export" caption="Exporting SoundCloud playlists to M3U format with Soundy" width="800" >}}
 
 ## How to Export a SoundCloud Playlist to M3U Format
@@ -65,3 +68,25 @@ To export favorites:
    {{< figure src="/21260c_869482bcb58d49cf90972ee68ce08254~mv2.jpg" alt="Soundy Export To M3U Screen" caption="Export SoundCloud favorites to M3U" width="400" >}}
 
 That's all for this tutorial. You can find more information about the Soundy app [here](/products/soundy).
+
+## Frequently Asked Questions
+
+{{% details title="What is an M3U file?" closed="true" %}}
+M3U is a standard playlist format supported by most music players. It contains a list of file paths or URLs pointing to audio tracks. When you export a SoundCloud playlist to M3U, the file contains streaming URLs for each track.
+{{% /details %}}
+
+{{% details title="Can I export playlists from other SoundCloud users?" closed="true" %}}
+Yes. Soundy can export playlists, favorites, and reposts from any public SoundCloud profile, not just your own account.
+{{% /details %}}
+
+{{% details title="Which music players support M3U playlists?" closed="true" %}}
+Most music players support M3U, including VLC, WinAmp, Windows Media Player, iTunes, foobar2000, Evermusic, and Flacbox.
+{{% /details %}}
+
+{{% details title="Can I export reposts to M3U as well?" closed="true" %}}
+Yes. Soundy supports exporting playlists, favorites, uploaded songs, and reposts. The process is the same: tap the More button and select Export to M3U.
+{{% /details %}}
+
+{{% details title="Is there a limit on how many tracks I can export?" closed="true" %}}
+Soundy exports all tracks in the selected playlist or collection. There is no artificial limit imposed by the app.
+{{% /details %}}

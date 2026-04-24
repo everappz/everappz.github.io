@@ -12,6 +12,9 @@ aliases:
 
 {{< author-byline >}}
 
+
+**TL;DR:** Evermusic and Flacbox let you add text comments with time markers to any audio track, then display them in sync during playback. You can also view embedded lyrics and LRC files. The comments and lyrics features are free in both apps.
+
 ## Introduction
 There are moments when you find the need to add comments to your tracks and read them while a song is playing. Consider scenarios like learning a foreign language through audio lessons, where having textual information is essential. The good news is that in the latest version of Evermusic and Flacbox, you can add your comments to a track, and the app seamlessly displays them while the song is playing. This feature adds a new layer of interactivity, making your music experience even more personalized and versatile.
 
@@ -94,3 +97,25 @@ This setup ensures you can easily view comments, lyrics, and LRC files for your 
 
 ## Conclusion
 The addition of comments to audio tracks in Evermusic and Flacbox marks a significant leap in user engagement and personalization. Whether you're a music aficionado or a language learner, this feature empowers you to interact with your tracks in a whole new way. Dive into the world of personalized audio commentary and rediscover your music library with Evermusic and Flacbox. Enhance your music experience, one comment at a time.
+
+## FAQ
+
+{{% details title="Is the comments feature free in Evermusic and Flacbox?" closed="true" %}}
+Yes. Adding, editing, and viewing comments and lyrics is a free feature in both Evermusic and Flacbox.
+{{% /details %}}
+
+{{% details title="What format should I use for timed comments?" closed="true" %}}
+Use the LRC time marker format: `[MM:SS.SS]` followed by your text. For example: `[01:23.45]This is my comment`. You can assign multiple timestamps to a single line.
+{{% /details %}}
+
+{{% details title="Can I view lyrics and LRC files in the same screen?" closed="true" %}}
+Yes. The Comments screen supports three modes you can swipe between: Comments, Embedded Lyrics, and LRC File.
+{{% /details %}}
+
+{{% details title="Where can I find LRC lyrics files?" closed="true" %}}
+Free LRC lyrics are available on websites like Lyricsify.com. You can either embed them in your audio file's lyrics tag or place a separate `.lrc` file alongside your audio file.
+{{% /details %}}
+
+{{% details title="Do I need a separate app to edit lyrics tags?" closed="true" %}}
+You can edit comments directly in Evermusic and Flacbox. For editing the lyrics tag specifically, use Evertag, a free audio metadata editor for iOS and macOS.
+{{% /details %}}

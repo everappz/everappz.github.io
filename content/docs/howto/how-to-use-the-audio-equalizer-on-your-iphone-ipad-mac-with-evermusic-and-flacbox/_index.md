@@ -11,6 +11,9 @@ aliases:
 
 {{< author-byline >}}
 
+
+**TL;DR:** Evermusic and Flacbox include a professional 10-band audio equalizer with presets (Rock, Hip-Hop, Bass Booster, and more), custom preset creation, and a preamplifier for volume boosting. Available on iPhone, iPad, and Mac.
+
 When it comes to audio players, finding the right equalizer can make all the difference in your music-listening experience. Our audio apps, **Evermusic** and **Flacbox**, stand out as full-featured players equipped with a professional 10-band equalizer and a range of exciting features.
 
 In a perfect world, where music files and headphones are flawless, an equalizer might seem unnecessary. However, our daily lives often involve less-than-ideal listening environments — commuting, working out, or strolling through noisy city streets. These situations, combined with the limitations of standard headphones, call for the power of EQ adjustments. An equalizer lets you fine-tune frequency balance, compensate for imperfect headphones or speakers, and adapt to background noise. Whether you're boosting bass and treble for a party vibe or fine-tuning sound for a DJ session, our equalizer offers creative audio enhancement to elevate your listening experience.
@@ -70,3 +73,29 @@ On the top-left corner of the equalizer screen, tap the **More Actions** (three 
 ## Conclusion
 
 Elevate your music experience, tailor your audio to any scenario, and enjoy the perfect sound with the versatile equalizer in Evermusic and Flacbox.
+
+## Frequently Asked Questions
+
+{{% details title="Does the equalizer work with all audio formats?" closed="true" %}}
+Yes. The 10-band EQ in Evermusic and Flacbox works with MP3, FLAC, AAC, WAV, ALAC, OGG, and all other supported formats.
+{{% /details %}}
+
+{{% details title="Will the EQ settings apply to all songs?" closed="true" %}}
+Yes. Once you activate the equalizer and select a preset, it applies to all playback until you change it or turn it off.
+{{% /details %}}
+
+{{% details title="Can I create more than one custom preset?" closed="true" %}}
+Yes. You can create, save, and switch between multiple custom presets. Use the Export feature to back them up.
+{{% /details %}}
+
+{{% details title="Does the preamplifier cause distortion?" closed="true" %}}
+It can if set too high. Watch the audio level indicators while adjusting. If the levels are clipping (hitting the top), reduce the preamp gain slightly.
+{{% /details %}}
+
+{{% details title="Is the equalizer available on both Evermusic and Flacbox?" closed="true" %}}
+Yes. Both apps include the same 10-band equalizer with presets, custom presets, and preamplifier.
+{{% /details %}}
+
+{{% details title="Can I share my EQ presets with someone else?" closed="true" %}}
+Yes. Use the Export Configuration option to save your presets to a file, then share it. The other person can import it using Import Configuration.
+{{% /details %}}

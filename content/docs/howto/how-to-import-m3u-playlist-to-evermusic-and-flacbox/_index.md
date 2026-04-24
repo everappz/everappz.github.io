@@ -12,6 +12,9 @@ aliases:
 
 {{< author-byline >}}
 
+
+**TL;DR:** Evermusic and Flacbox support importing M3U, M3U8, and CUE playlist files from cloud storage, local app files, or your device. Go to Playlists > More > Import Playlist, select a source, pick your file, and the app builds your playlist automatically.
+
 M3U, which stands for MP3 URL or Moving Picture Experts Group Audio Layer 3 Uniform Resource Locator, is a computer file format used for multimedia playlists. One of its primary uses is creating single-entry playlist files that point to streams on the internet. These files offer convenient access to streaming content and are commonly used for downloads, emailing, and listening to Internet radio.
 
 Despite its widespread use, there's no formal specification for the M3U format; it has become a de facto standard. An M3U file is essentially a plain text file that specifies the locations of one or more media files. Depending on the encoding, it's saved with either the "m3u" or "m3u8" filename extension. Each entry in the file specifies a media file's location, which can be an absolute local pathname, a local pathname relative to the M3U file location, or a URL. Entries are separated by line breaks, with some devices requiring line breaks represented as CR LF.
@@ -81,3 +84,25 @@ However, if you want to import a playlist located on your device using the syste
 Due to security policies, the application can only access the file you select using the system files picker. However, the playlist file may include links to other media files on your device. To import a playlist from your device, you must select a folder containing both the playlist file and all media files linked to it. In this case, the app will scan the selected folder, find the playlist file, build the tracks list, and import it to the music library.
 
 Additionally, you can import multiple playlists at once by tapping the "More Actions" button and selecting "Import Playlists from a Folder." The app will then scan the folder's content, find supported playlist files, and import them into the library.
+
+## Frequently Asked Questions
+
+{{% details title="What playlist formats do Evermusic and Flacbox support?" closed="true" %}}
+Both apps support M3U, M3U8, and CUE playlist file formats. These cover the most common playlist standards used by music players and media software.
+{{% /details %}}
+
+{{% details title="Can I import playlists from cloud storage?" closed="true" %}}
+Yes. You can import playlist files from any connected cloud storage service including Google Drive, Dropbox, OneDrive, and WebDAV servers.
+{{% /details %}}
+
+{{% details title="Why are some tracks missing after import?" closed="true" %}}
+The playlist file must contain correct paths to your media files, and those files must exist at the specified locations on your storage. Double-check that file paths in your M3U or CUE file match the actual file locations.
+{{% /details %}}
+
+{{% details title="Can I import multiple playlists at once?" closed="true" %}}
+Yes. Use the More Actions button and select "Import Playlists from a Folder." The app scans the folder for all supported playlist files and imports them in one step.
+{{% /details %}}
+
+{{% details title="Do I need to manually create playlists?" closed="true" %}}
+No. The import feature eliminates manual playlist creation. Just point the app to your existing M3U, M3U8, or CUE file and it builds the playlist automatically.
+{{% /details %}}

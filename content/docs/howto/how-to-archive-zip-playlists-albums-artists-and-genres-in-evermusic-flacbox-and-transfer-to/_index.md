@@ -12,6 +12,9 @@ aliases:
 
 {{< author-byline >}}
 
+
+**TL;DR:** Evermusic and Flacbox can archive any playlist, album, artist, or genre into a ZIP file with an M3U playlist, album artwork, and all audio files. Transfer the ZIP to another device, unarchive it, and import the M3U to rebuild the playlist instantly.
+
 This comprehensive guide will walk you through the process of archiving (ZIP) playlists, albums, artists, and genres in **Evermusic** and **Flacbox** and transferring them to another device.
 
 ## Step-by-Step Instructions
@@ -101,3 +104,25 @@ By tapping on the generated M3U file, you can view all playlist tracks along wit
 ### 7. Conclusion
 
 By following this guide, you can efficiently archive and transfer your playlists, albums, artists, or genres between devices using Evermusic or Flacbox. This method ensures your playlists remain intact and accessible wherever you go.
+
+## FAQ
+
+{{% details title="What gets included in the ZIP archive?" closed="true" %}}
+The archive contains all audio files, an M3U playlist file that preserves track order, and the playlist's album artwork saved as a separate image file.
+{{% /details %}}
+
+{{% details title="Does archiving work with cloud files?" closed="true" %}}
+Yes. The app automatically downloads all cloud-stored files before adding them to the archive. You can monitor the download progress in the File transfers section.
+{{% /details %}}
+
+{{% details title="Can I archive albums, artists, and genres too?" closed="true" %}}
+Yes. The Add to Archive option is available for playlists, albums, artists, and genres. The process is identical for all of them.
+{{% /details %}}
+
+{{% details title="How do I transfer the archive to another device?" closed="true" %}}
+You can upload the ZIP to cloud storage (Google Drive, Dropbox, etc.), use AirDrop, or transfer wirelessly via the built-in Wi-Fi Drive feature in Evermusic and Flacbox.
+{{% /details %}}
+
+{{% details title="Will the playlist structure be preserved after transfer?" closed="true" %}}
+Yes. The M3U file stores the playlist structure with relative paths. After unarchiving on the new device, import the M3U file to rebuild the playlist with all tracks in the original order.
+{{% /details %}}

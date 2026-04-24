@@ -11,6 +11,9 @@ aliases:
 
 {{< author-byline >}}
 
+
+**TL;DR:** To transfer your Evermusic library to a new device, create a backup on the source device, start Wi-Fi Drive, connect the second device over the same network, download the backup and music files, then restore from backup. The entire process takes about 10 minutes depending on library size.
+
 In this guide, we’ll walk you through transferring your entire music library — including database, album covers, and settings — from one device (iPhone or Mac) to another. While automatic music library and playlist sync is a feature planned for the future, this process must currently be done manually.
 
 ## Step 1: Create a Backup on the First Device
@@ -140,3 +143,25 @@ Check the **Playlists** or **Music Library** sections to verify the restoration.
 2. Go to **Settings > Music Library > Offline Music Sync** and select **Start Local Folders Scanning**.
 
 By following these steps, you’ll successfully transfer your music library, playlists, and settings to another device. If you encounter any issues, don’t hesitate to reach out for support.
+
+## Frequently Asked Questions
+
+{{% details title="Can I transfer my Evermusic library without Wi-Fi?" closed="true" %}}
+Wi-Fi Drive requires both devices to be on the same Wi-Fi network. There is currently no Bluetooth or cellular transfer option. You can alternatively use AirDrop or the Files app to manually move the backup file and music folders between devices.
+{{% /details %}}
+
+{{% details title="Will my cloud service connections transfer with the backup?" closed="true" %}}
+The backup includes your database, playlists, album covers, and settings. Cloud service login credentials are not included for security reasons. You will need to reconnect your cloud accounts on the new device after restoring.
+{{% /details %}}
+
+{{% details title="What happens to my existing library on the second device?" closed="true" %}}
+Restoring a backup replaces all existing music library data, playlists, settings, and album artwork on the second device. Make a separate backup of the second device first if you want to preserve its data.
+{{% /details %}}
+
+{{% details title="Does this process work between iPhone and Mac?" closed="true" %}}
+Yes. Evermusic supports Wi-Fi Drive transfer between any combination of iPhone, iPad, and Mac. Both devices just need to be on the same Wi-Fi network.
+{{% /details %}}
+
+{{% details title="How long does the transfer take?" closed="true" %}}
+Transfer time depends on the size of your music library and your Wi-Fi speed. A typical library of a few gigabytes transfers in 5-15 minutes over a standard home network.
+{{% /details %}}

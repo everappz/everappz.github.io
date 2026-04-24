@@ -11,6 +11,9 @@ aliases:
 
 {{< author-byline >}}
 
+
+**TL;DR:** Use Evermusic on your iPhone or iPad to access files stored on your Mac or Windows PC over your local network via SMB. No cables, no iTunes, no cloud upload required. Enable file sharing on your computer, connect in the app, and browse or play your files wirelessly.
+
 Do you have an extensive collection of large files on your MAC or PC and wish to access them effortlessly from your iPhone or iPad? Our apps provide a simple solution.
 
 Follow these steps to enable seamless access between your computer and iOS device using the SMB protocol:
@@ -138,3 +141,29 @@ By following these steps, you can mitigate the issues with special characters in
 ## Conclusion
 
 With these steps, you can effortlessly access your vast collection of files from your MAC or PC on your iPhone or iPad using our apps.
+
+## Frequently Asked Questions
+
+{{% details title="Can I access files on my PC from my iPhone without iTunes?" closed="true" %}}
+Yes. Evermusic connects to your computer over SMB on your local Wi-Fi network. No iTunes or Finder sync is needed. Enable file sharing on your PC and connect directly from the app.
+{{% /details %}}
+
+{{% details title="Does SMB file access work over the internet?" closed="true" %}}
+No. SMB is a local network protocol. Your iPhone and computer must be on the same Wi-Fi network. For remote access, upload files to a cloud service like Google Drive or Dropbox and connect to it in Evermusic.
+{{% /details %}}
+
+{{% details title="What file types can I access over SMB?" closed="true" %}}
+Evermusic supports MP3, FLAC, AAC, WAV, AIFF, OGG, WMA, ALAC, and other audio formats. You can also browse and manage non-audio files using the built-in file manager.
+{{% /details %}}
+
+{{% details title="Can I transfer files from a NAS to my iPhone using SMB?" closed="true" %}}
+Yes. Most NAS devices (Synology, QNAP, WD My Cloud, and others) support SMB. Connect to your NAS using the same steps in this guide.
+{{% /details %}}
+
+{{% details title="Do I need to copy files to my iPhone to play them?" closed="true" %}}
+No. Evermusic streams files directly from your computer or NAS over the network. Files are not copied to your iPhone unless you choose to download them for offline playback.
+{{% /details %}}
+
+{{% details title="Is SMB file sharing secure?" closed="true" %}}
+SMB file sharing works only on your local network. Other devices on different networks cannot access your shared folders. For additional security, use a login and password instead of anonymous (Everyone) access.
+{{% /details %}}

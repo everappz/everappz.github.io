@@ -12,6 +12,9 @@ aliases:
 
 {{< author-byline >}}
 
+
+**TL;DR:** Upload music to iCloud Drive, install [Evermusic](/products/evermusic) (for MP3/WAV) or [Flacbox](/products/flacbox) (for FLAC/DSD), connect your iCloud Drive folder, and stream directly without using device storage.
+
 In today’s world, music is a big part of our lives, and having your favorite songs available all the time is a must. Thanks to cloud technology, you no longer need to keep a physical music collection. You can now stream music from your iCloud Drive with just a few taps.
 
 Your iPhone can access a whole library of songs stored in the cloud. Whether you have carefully organized playlists or a mix of different songs, this guide will show you how to use iCloud Drive to turn your iPhone into a portable music player.
@@ -212,3 +215,25 @@ With your iCloud Drive and the right app, your iPhone and Mac can become your go
 So, whether you're a long-time iCloud Drive user or new to its capabilities, this guide has equipped you to unlock the world of convenience and effortlessly stream your favorite melodies on your Apple devices. Your personal musical journey awaits in the cloud, ready for you to explore and enjoy!
 
 Now, go ahead, start streaming, and let the music play!
+
+## FAQ
+
+{{% details title="Which audio formats can I stream from iCloud Drive?" closed="true" %}}
+Evermusic supports MP3, WAV, AAC, and other standard formats. Flacbox adds support for FLAC, DSD, OGG, and OPUS. Choose the app that matches your music collection.
+{{% /details %}}
+
+{{% details title="Does streaming from iCloud Drive use device storage?" closed="true" %}}
+No. Both Evermusic and Flacbox stream audio directly from your iCloud Drive without downloading files to your device. You can optionally download individual tracks for offline listening.
+{{% /details %}}
+
+{{% details title="Can I use iCloud Drive music offline?" closed="true" %}}
+Yes. Tap the three-dot menu on any track and choose the download option. The file will be saved locally for offline playback.
+{{% /details %}}
+
+{{% details title="Why does my music stop or buffer during playback?" closed="true" %}}
+This is usually caused by a slow or unstable internet connection. Enable the audio player cache in Settings to pre-download upcoming tracks and prevent interruptions.
+{{% /details %}}
+
+{{% details title="Is iCloud Drive music streaming free?" closed="true" %}}
+Both Evermusic and Flacbox are free to download. iCloud Drive offers 5 GB of free storage. You can upgrade your iCloud storage plan through Apple if you need more space.
+{{% /details %}}

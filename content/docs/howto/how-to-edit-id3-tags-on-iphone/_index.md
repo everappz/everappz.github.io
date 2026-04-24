@@ -13,6 +13,9 @@ aliases:
 
 {{< author-byline >}}
 
+
+**TL;DR:** Use the built-in tag editor in Evermusic or Flacbox to edit ID3 tags on iPhone or Mac -- for both cloud and local files. Need batch editing or 120+ tag fields? Use [Evertag](https://apps.apple.com/app/apple-store/id1450763230?pt=95781850&ct=everappzcom&mt=8) instead.
+
 ## Intro
 
 In this tutorial, we will learn how to edit your audio tags on iPhone or Mac using the built-in tag editor in the Evermusic or Flacbox app. Evermusic and Flacbox allow you to connect to your cloud storage services like Dropbox, Google Drive, OneDrive, and even your home computer, TimeCapsule, or NAS. With the ability to download songs, albums, and artists for offline playback at your convenience, your music is always at your fingertips.
@@ -193,3 +196,25 @@ Customize which actions appear on the main screen of the tag editor. Enable or d
 ## Conclusion
 
 Simplify your music library management and tag editing with Evermusic and Flacbox. Enjoy a streamlined experience and make the most of your cloud-stored music. Try it today and rediscover your music collection with ease!
+
+## FAQ
+
+{{% details title="What audio formats can I edit tags for?" closed="true" %}}
+Evermusic and Flacbox support editing tags for MP3, FLAC, AAC, OGG, and other common audio formats. Evertag supports 30+ formats including WAV, AIFF, WMA, and APE.
+{{% /details %}}
+
+{{% details title="Can I edit tags for files stored in cloud services?" closed="true" %}}
+Yes. Connect your Dropbox, Google Drive, OneDrive, or other cloud account. The app downloads the file, lets you edit tags, and automatically uploads the modified file back to the cloud.
+{{% /details %}}
+
+{{% details title="What is the difference between Evermusic/Flacbox and Evertag?" closed="true" %}}
+Evermusic and Flacbox are music players with a built-in basic tag editor. Evertag is a dedicated tag editor supporting 120+ audio tags, batch editing, and 30+ formats -- ideal for managing large libraries.
+{{% /details %}}
+
+{{% details title="Does the auto-search feature require an internet connection?" closed="true" %}}
+Yes. The Auto-Search Audio Tags feature queries the MusicBrainz online database to find and fill in metadata. An active internet connection is required for this feature.
+{{% /details %}}
+
+{{% details title="Will editing tags change my audio quality?" closed="true" %}}
+No. Tag editing only modifies the metadata embedded in the file. The audio data itself remains untouched -- no re-encoding occurs.
+{{% /details %}}

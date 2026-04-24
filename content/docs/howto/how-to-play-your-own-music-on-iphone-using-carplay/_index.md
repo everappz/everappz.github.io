@@ -10,6 +10,9 @@ draft: false
 
 {{< author-byline >}}
 
+
+**TL;DR:** Use [Evermusic](https://apps.apple.com/app/apple-store/id885367198?pt=95781850&ct=everappzcom&mt=8) or [Flacbox](https://apps.apple.com/app/apple-store/id1097564256?pt=95781850&ct=everappzcom&mt=8) to play your own MP3, FLAC, or other audio files on iPhone through Apple CarPlay. Add music from cloud storage, USB, or Wi-Fi transfer, then browse your library, playlists, and folders directly on your car's screen.
+
 ## Intro
 
 Want to play your own music in the car using Apple CarPlay? Whether your songs are stored on your iPhone, in cloud storage, or offline, apps like **Evermusic** and **Flacbox** make it easy to listen to your personal music collection while driving.
@@ -320,3 +323,25 @@ By following this guide, you’ve learned how to:
 Now it’s your turn to take the wheel and enjoy your favorite music — your way — every time you drive.
 
 Explore more features, settings, and how-tos in our full [Evermusic User Guide](/docs/guide/evermusic/).
+
+## Frequently Asked Questions
+
+{{% details title="What music file formats work with CarPlay in Evermusic and Flacbox?" closed="true" %}}
+Evermusic and Flacbox support a wide range of audio formats including MP3, FLAC, AAC, WAV, AIFF, OGG, WMA, and more. All supported formats work through CarPlay without any conversion needed.
+{{% /details %}}
+
+{{% details title="Can I play music from Google Drive or Dropbox on CarPlay?" closed="true" %}}
+Yes. Both Evermusic and Flacbox let you connect to cloud storage services like Google Drive, Dropbox, OneDrive, MEGA, and others. You can stream music directly or download it for offline CarPlay playback.
+{{% /details %}}
+
+{{% details title="Do I need an internet connection to play music on CarPlay?" closed="true" %}}
+No. You can download music from cloud storage for offline playback. Once files are stored locally on your iPhone, they play through CarPlay without any internet connection.
+{{% /details %}}
+
+{{% details title="Why do I see a Content Depth Limit error on CarPlay?" closed="true" %}}
+CarPlay restricts how many folder levels it can display. If your music is in deeply nested folders, add those folders to Favorites so you can access them directly from the Favorites menu in CarPlay.
+{{% /details %}}
+
+{{% details title="Is Evermusic or Flacbox free to use with CarPlay?" closed="true" %}}
+Both apps are free to download with full CarPlay support, equalizer, and playback features. The free versions have limits on cloud connections (3), playlists (10), and offline folders (1). Premium removes all limits.
+{{% /details %}}

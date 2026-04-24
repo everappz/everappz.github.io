@@ -10,6 +10,9 @@ aliases:
 
 {{< author-byline >}}
 
+
+**TL;DR:** Install [Evermusic](/products/evermusic) (MP3/WAV) or [Flacbox](/products/flacbox) (FLAC/DSD), open any local audio file or folder, and start playing. Add folders to Favorites for quick access, import tracks into your Music Library, or create playlists.
+
 In the digital age, streaming services have changed how we listen to music, but there's something special about the music we've collected over the years on our Macs, PCs, or external drives.   
 
 These cherished local tunes hold personal meaning and nostalgia. Thankfully, playing this music on your iPhone and Mac is still possible and enjoyable. Whether you want to relive memories or enjoy your unique collection offline, this guide will show you how.    
@@ -131,3 +134,25 @@ To add local files located on your device to a playlist, follow these steps:
 ## Conclusion
 
 With these simple steps, you can unlock the full potential of your iPhone and Mac as the ultimate platforms for enjoying your cherished local music collection. Say goodbye to the limitations of streaming services and rediscover the magic of your personally curated playlists and songs. Your musical journey is just a few taps away!
+
+## FAQ
+
+{{% details title="What audio formats can Evermusic and Flacbox play?" closed="true" %}}
+Evermusic plays MP3, WAV, AAC, M4A, and other standard formats. Flacbox adds support for FLAC, DSD, OGG, OPUS, APE, WMA, and ALAC.
+{{% /details %}}
+
+{{% details title="Do these apps copy files to the app storage?" closed="true" %}}
+By default, files play from their original location without being copied. To change this behavior, enable "Always copy files during opening" in Settings > File manager.
+{{% /details %}}
+
+{{% details title="Can I organize local music by artist and album?" closed="true" %}}
+Yes. Import files into the Music Library (Step 4) and the app reads metadata to group tracks by Artist, Album, Genre, and Composer.
+{{% /details %}}
+
+{{% details title="How do I transfer music from my computer to iPhone?" closed="true" %}}
+Use iTunes File Sharing (USB), WiFi Drive (wireless), or SMB (streaming). See our detailed guide: [Transfer and Play Local Files on iPhone](/docs/howto/how-to-play-local-itunes-files-on-my-iphone/).
+{{% /details %}}
+
+{{% details title="Are Evermusic and Flacbox free?" closed="true" %}}
+Yes, both apps are free to download with core features including playback, equalizer, and cloud streaming. The free versions have some limits (number of playlists, cloud accounts, offline folders). Upgrading to Premium removes these limits.
+{{% /details %}}

@@ -12,6 +12,9 @@ aliases:
 
 {{< author-byline >}}
 
+
+**TL;DR:** The official SoundCloud iOS app does not support Chromecast. Soundy is a free iOS app that lets you stream SoundCloud music to Google Chromecast and AirPlay devices. It also includes a 10-band equalizer, playlists, speed control, and audio bookmarks.
+
 ![Soundy: Soundcloud and Chromecast](21260c_5e389cfe328f483d9475c1e59e2a4983~mv2.jpeg)
 
 SoundCloud users have been eagerly asking when Chromecast support will be added to the iOS app, but so far, there's been no official update from SoundCloud. Many iPhone users are left unable to stream their favorite SoundCloud tracks to Chromecast.
@@ -74,3 +77,29 @@ Finally, we'll show you how to stream your SoundCloud music to Chromecast.
 Once the connection is established, your music will start playing on the connected Google Cast device. You can control the Chromecast volume using the volume slider on the Player screen, and you can also switch between songs and use the scrubber on the iPhone's lock screen.
 
 Enjoy streaming your favorite SoundCloud tracks to Chromecast hassle-free with Soundy!
+
+## FAQ
+
+{{% details title="Does the official SoundCloud app support Chromecast on iOS?" closed="true" %}}
+No. As of now, the official SoundCloud iOS app does not support Google Chromecast. Soundy is a free alternative that adds Chromecast support for SoundCloud on iPhone and iPad.
+{{% /details %}}
+
+{{% details title="Is Soundy free to download?" closed="true" %}}
+Yes. Soundy is free to download from the App Store and includes Chromecast support at no additional cost.
+{{% /details %}}
+
+{{% details title="Can I use Soundy without a SoundCloud account?" closed="true" %}}
+Yes. You can search for music, create local playlists, and stream to Chromecast without connecting a SoundCloud account. Connecting your account lets you access your uploaded tracks, favorites, and playlists.
+{{% /details %}}
+
+{{% details title="Does Soundy support AirPlay?" closed="true" %}}
+Yes. In addition to Google Chromecast, Soundy supports AirPlay streaming to Apple TV and compatible speakers.
+{{% /details %}}
+
+{{% details title="What audio quality features does Soundy offer?" closed="true" %}}
+Soundy includes a 10-band equalizer with iTunes presets, playback speed control from 0.2x to 2.0x, audio bookmarks, and a sleep timer.
+{{% /details %}}
+
+{{% details title="Can I control Chromecast playback from my iPhone lock screen?" closed="true" %}}
+Yes. Once connected to Chromecast, you can switch songs, adjust the scrubber, and control playback directly from your iPhone lock screen.
+{{% /details %}}

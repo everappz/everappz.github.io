@@ -11,6 +11,9 @@ aliases:
 
 {{< author-byline >}}
 
+
+**TL;DR:** Upload your music or media files to any supported cloud service (Google Drive, Dropbox, OneDrive, and more), then connect that service inside Evermusic, Flacbox, or Evertag to stream or download your files directly on iPhone, iPad, or Mac.
+
 ## Step 1: Sign Up for a Cloud Storage Account
 
 If you haven’t already, sign up for a cloud service like Google Drive, Dropbox, OneDrive, etc.
@@ -72,3 +75,41 @@ Once connected, browse your cloud files and manage them using the in-app file ma
 Connecting your cloud service to our apps streamlines file access and management, making it easier than ever to enjoy your files across different devices.
 
 Say goodbye to storage limitations and hello to convenience!
+
+## Frequently Asked Questions
+
+{{% details title="Which cloud services are supported?" closed="true" %}}
+Evermusic, Flacbox, and Evertag support Google Drive, Dropbox, OneDrive, Box, MediaFire, Yandex.Disk, MEGA, MyDrive, pCloud, and other cloud providers. You can also connect custom WebDAV, SMB, and FTP servers.
+{{% /details %}}
+
+{{% details title="Can I stream music directly from the cloud without downloading?" closed="true" %}}
+Yes. All three apps support streaming audio files directly from your connected cloud storage. You can also download files for offline playback when you do not have internet access.
+{{% /details %}}
+
+{{% details title="Is there a file size or storage limit in the app?" closed="true" %}}
+The apps do not impose their own file size or storage limits. Your available storage depends on your cloud service plan and your device's local storage for downloaded files.
+{{% /details %}}
+
+{{% details title="Can I connect multiple cloud accounts at the same time?" closed="true" %}}
+Yes. You can connect multiple cloud services and multiple accounts from the same provider simultaneously. All connected accounts appear in the Connections tab for easy switching.
+{{% /details %}}
+
+{{% details title="Do I need to re-upload files if I switch to a different app?" closed="true" %}}
+No. Since your files are stored in the cloud, you can connect the same cloud account to Evermusic, Flacbox, or Evertag without re-uploading anything. Each app accesses the same files from your cloud storage.
+{{% /details %}}
+
+{{% details title="Is my cloud account data secure?" closed="true" %}}
+Yes. The app uses only official SDKs and encrypted connections to interact with cloud services. Your login and password are never stored by the app. When you sign in, the app displays the official authorization page provided by the cloud service. After successful authorization, the cloud provider sends an auth token to the app, which is stored securely in the device Keychain. This token is used for all API requests.<br><br>
+The app does not share any information from your cloud account. You can revoke access at any time from your cloud account settings page in a web browser, or disconnect the account inside the app.
+{{% /details %}}
+
+{{% details title="How do I disconnect a cloud service or change its configuration?" closed="true" %}}
+Locate the cloud storage in the app's Connections tab and tap the **...** button next to it. You will see these options:<br>
+- **Rename** -- change the display name of the cloud service<br>
+- **Settings** -- modify configuration or re-authorize if the token has expired<br>
+- **Disconnect** -- remove the connection entirely. This removes all songs from this cloud service from the app's music library, but files remain on the server
+{{% /details %}}
+
+{{% details title="How do I revoke the app's access to my cloud account?" closed="true" %}}
+Log in to your cloud account in a web browser and open the account settings or security page. Find the list of connected third-party apps and remove the app you no longer want to authorize. You can also disconnect the cloud account inside the app -- this removes the auth token from your device. If you delete the app entirely, all downloaded data and access tokens are removed automatically.
+{{% /details %}}

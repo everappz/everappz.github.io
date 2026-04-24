@@ -32,6 +32,9 @@ draft: false
 
 {{< author-byline >}}
 
+
+**TL;DR:** Use Apple Music's built-in **File > Library > Export Playlist** to save any playlist as an M3U file. Then import it into **Evermusic** or **Flacbox** on Mac. You can also archive playlists as ZIP files for easy transfer to other devices.
+
 Apple Music on macOS allows you to create playlists not only from your Apple Music library but also from audio files located directly on your device.  
 This is perfect if you want to organize your local collection of MP3, FLAC, or other audio files into playlists.  
 
@@ -194,3 +197,25 @@ By saving your playlists as **M3U files** and importing them into these apps, yo
 
 With this workflow, you no longer need to recreate playlists manually.  
 Instead, enjoy a seamless music experience with more control, better features, and cross-device portability.
+
+## Frequently Asked Questions
+
+{{% details title="What playlist format does Apple Music export?" closed="true" %}}
+Apple Music exports playlists in M3U format, which is a standard playlist format supported by most music players including Evermusic, Flacbox, VLC, and foobar2000.
+{{% /details %}}
+
+{{% details title="Why must the M3U file and audio files be in the same folder?" closed="true" %}}
+Evermusic and Flacbox run in macOS sandbox mode, which restricts file access to folders you explicitly grant permission to. Keeping the M3U file and audio files in the same folder ensures the app can read both during import.
+{{% /details %}}
+
+{{% details title="Can I transfer playlists between Mac and iPhone?" closed="true" %}}
+Yes. Use the playlist archiving feature to create a ZIP file containing the playlist and all tracks. Transfer the ZIP to your iPhone via AirDrop, iCloud Drive, or any other method, then import it in Evermusic or Flacbox on iOS.
+{{% /details %}}
+
+{{% details title="Does this work with Apple Music streaming tracks?" closed="true" %}}
+This method works with local audio files that you have added to Apple Music. DRM-protected streaming tracks from Apple Music cannot be exported as M3U playlists.
+{{% /details %}}
+
+{{% details title="What audio formats do Evermusic and Flacbox support?" closed="true" %}}
+Both apps support a wide range of formats including MP3, FLAC, AAC, WAV, OGG, AIFF, ALAC, WMA, APE, and more. They also support hi-res audio playback for lossless formats.
+{{% /details %}}

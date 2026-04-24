@@ -12,6 +12,9 @@ aliases:
 
 {{< author-byline >}}
 
+
+**TL;DR:** Connect your Synology NAS to Evermusic or Flacbox using Synology's native API -- either manually via IP address or automatically via QuickConnect ID. QuickConnect lets you stream music remotely without port forwarding. Both apps support FLAC, MP3, WAV, and other hi-res formats.
+
 If you're looking for a seamless way to connect your Synology NAS and enjoy your music library on your iPhone or Mac, the Evermusic and Flacbox apps are the perfect solutions. These apps support a wide range of audio formats, including FLAC, MP3, and WAV, making it easy to stream and listen to high-quality music directly from your Synology NAS.
 
 In this guide, we will show you how to connect your Synology NAS to the Evermusic or Flacbox app using Synology's native API and QuickConnect feature. By leveraging Synology's direct API, you can securely access your music library outside your home network without needing complicated configurations like WebDAV, SMB, DLNA. With QuickConnect, you'll be able to stream and manage your music from anywhere, using your iPhone or Mac.
@@ -137,3 +140,25 @@ This ensures that even if you're accessing your NAS from an untrusted network, y
 By following these steps, you can easily set up a connection on your Synology NAS and stream your entire music library to your iPhone or Mac using Evermusic or Flacbox. Whether you're at home or on the go, enjoy seamless, high-quality access to your favorite tracks from anywhere using QuickConnect. Take advantage of the flexibility and convenience that these apps offer, and start managing your music collection with ease across all your devices.
 
 With secure remote access through QuickConnect and support for a wide range of audio formats, you'll never be far from your music. Now, your NAS-stored files are just a tap away!
+
+## FAQ
+
+{{% details title="What is the difference between manual connection and QuickConnect?" closed="true" %}}
+Manual connection uses the NAS IP address and port, which works on your local network. QuickConnect uses Synology's relay service to establish a connection from anywhere over the internet, without port forwarding.
+{{% /details %}}
+
+{{% details title="Can I stream music from Synology NAS outside my home network?" closed="true" %}}
+Yes. Enable QuickConnect on your Synology NAS and use the QuickConnect ID in Evermusic or Flacbox to stream music from anywhere with an internet connection.
+{{% /details %}}
+
+{{% details title="Which audio formats are supported when streaming from Synology NAS?" closed="true" %}}
+Evermusic and Flacbox support FLAC, MP3, AAC, WAV, ALAC, OGG, WMA, DSD, and many other formats. All supported formats work when streaming from Synology NAS.
+{{% /details %}}
+
+{{% details title="Do I need two-factor authentication to connect?" closed="true" %}}
+No, 2FA is optional. However, if you have enabled 2-step verification on your Synology DSM, the app will ask for a one-time password during login. You will need to reauthorize when the session expires.
+{{% /details %}}
+
+{{% details title="Should I use Synology native API, WebDAV, or SMB to connect?" closed="true" %}}
+The Synology native API with QuickConnect is the best choice for remote access. For local network use, SMB is typically the fastest option. WebDAV works well for both local and remote access. Evermusic and Flacbox support all three protocols.
+{{% /details %}}

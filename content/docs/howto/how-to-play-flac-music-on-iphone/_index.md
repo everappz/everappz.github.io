@@ -13,6 +13,9 @@ aliases:
 
 {{< author-byline >}}
 
+
+**TL;DR:** Download [Flacbox](/products/flacbox) (free), connect your cloud storage or NAS, and start playing FLAC, DSD, OGG, OPUS, MP3, and WAV files on your iPhone or iPad -- with a 10-band equalizer, offline mode, and AirPlay support.
+
 [{{< figure src="/Flacbox_Icon-App-1024x1024.webp" alt="Flacbox Icon - FLAC music player and downloader" width="160" >}}](/products/flacbox)
 
 Apple's iOS 11 brought support for FLAC audio format to the Files app, but FLAC files can be quite large. Imagine having the flexibility to play your own FLAC music library from the cloud and download it whenever you want. That's where Flacbox steps in, providing a comprehensive solution to this music lover's dream.
@@ -62,3 +65,29 @@ Best of all, Flacbox is completely free and compatible with iPhone and iPad runn
 {{< /cards >}}
 
 Elevate your music experience with Flacbox and embrace the freedom to enjoy your FLAC music library from anywhere, at any time.
+
+## FAQ
+
+{{% details title="Can iPhone play FLAC files natively?" closed="true" %}}
+iOS supports basic FLAC playback through the Files app since iOS 11, but it lacks equalizer, playlist management, and cloud streaming. Flacbox provides all of these features.
+{{% /details %}}
+
+{{% details title="Does Flacbox convert FLAC to another format?" closed="true" %}}
+No. Flacbox plays FLAC files in their original lossless quality without conversion, preserving full audio fidelity.
+{{% /details %}}
+
+{{% details title="Can I stream FLAC files from my NAS?" closed="true" %}}
+Yes. Flacbox connects to NAS devices, Wi-Fi disks, and computers via the SMB protocol. Your entire library is accessible without copying files to your iPhone.
+{{% /details %}}
+
+{{% details title="Is Flacbox really free?" closed="true" %}}
+Flacbox is free to download with core features including the equalizer, cloud streaming, and offline playback. The free version has some limits (number of playlists, cloud accounts, offline folders). Upgrading to Premium removes these limits and adds unlimited cloud connections, playlists, and offline folders.
+{{% /details %}}
+
+{{% details title="What audio formats does Flacbox support?" closed="true" %}}
+Flacbox supports FLAC, DSD, OGG, OPUS, MP3, WAV, AAC, ALAC, APE, WMA, and many other formats.
+{{% /details %}}
+
+{{% details title="Can I use Flacbox offline?" closed="true" %}}
+Yes. Download tracks from your cloud storage or NAS for offline playback. Delete and re-download files as needed to manage device storage.
+{{% /details %}}

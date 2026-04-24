@@ -10,6 +10,9 @@ draft: false
 
 {{< author-byline >}}
 
+
+**TL;DR:** Use the free **Evertag** app to edit unsynced lyrics, advisory ratings, and 120+ audio tags on iPhone or Mac. Works with local and cloud-stored files, supports batch editing, and saves lyrics visible in Evermusic, Flacbox, and other players.
+
 ## Intro
 
 In this tutorial, you’ll learn how to edit **Unsynced Lyrics** and **Lyrics Advisory Rating** in audio tags for your music files. Once updated, these lyrics will be visible in any music player that supports the lyrics tag such as **Evermusic** or **Flacbox**.
@@ -199,3 +202,25 @@ Optionally, update the **Lyrics Advisory Rating** using the segmented control. T
 ## Conclusion
 
 By following these steps, your lyrics will be properly embedded into the audio file's metadata and visible in compatible apps like **Evermusic**, **Flacbox**, and others.
+
+## Frequently Asked Questions
+
+{{% details title="What audio formats does Evertag support for lyrics editing?" closed="true" %}}
+Evertag supports over 30 audio formats, including MP3, FLAC, WAV, M4A, OGG, AIFF, and more. You can edit lyrics and other metadata tags in any of these formats.
+{{% /details %}}
+
+{{% details title="Can I add lyrics in multiple languages?" closed="true" %}}
+Yes, but only for audio files that use ID3 tags (such as MP3 and WAV). For other formats like FLAC or M4A, only a single lyrics entry is supported.
+{{% /details %}}
+
+{{% details title="Does Evertag support batch lyrics editing?" closed="true" %}}
+Yes. You can enter batch mode to edit metadata across multiple files at once. This is useful for applying the same lyrics advisory rating or other shared tags to an entire album.
+{{% /details %}}
+
+{{% details title="Will edited lyrics appear in Apple Music or Spotify?" closed="true" %}}
+Lyrics edited with Evertag are embedded in the audio file's metadata. They will appear in any music player that reads embedded lyrics tags, such as Evermusic, Flacbox, VLC, and foobar2000. Streaming apps like Spotify and Apple Music use their own lyrics databases and do not read embedded tags.
+{{% /details %}}
+
+{{% details title="Can I edit tags for files stored in cloud storage?" closed="true" %}}
+Yes. Evertag supports connecting to cloud storage services. The app downloads the file, lets you edit the tags, and uploads the updated file back to the cloud automatically.
+{{% /details %}}

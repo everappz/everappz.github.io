@@ -32,6 +32,9 @@ draft: false
 
 {{< author-byline >}}
 
+
+**TL;DR:** Paste any Internet Archive URL into [archivetom3u.com](https://archivetom3u.com), pick your audio format (MP3, FLAC, OGG), and download a ready-to-play M3U playlist -- no account required. Then import it into [Evermusic](https://apps.apple.com/app/apple-store/id885367198?pt=95781850&ct=everappzcom&mt=8) on iPhone or Mac for instant playback.
+
 In this step-by-step guide, you'll learn how to generate and download M3U playlists from [Internet Archive](https://archive.org) items — including the **Live Music Archive** — using a simple, browser-based tool.
 
 ## What Is the Internet Archive?
@@ -216,3 +219,25 @@ No content is hosted or redistributed by this site. Please ensure you comply wit
 ## Conclusion
 
 Now you know how to create and import M3U playlists from the Internet Archive and Live Music Archive in just a few clicks - completely free and private. Enjoy your music on any device.
+
+## FAQ
+
+{{% details title="Is the M3U generator tool free to use?" closed="true" %}}
+Yes. The tool at [archivetom3u.com](https://archivetom3u.com) is completely free, requires no account, and runs entirely in your browser.
+{{% /details %}}
+
+{{% details title="What audio formats can I include in the M3U playlist?" closed="true" %}}
+You can choose VBR MP3, FLAC, 24-bit FLAC, or OGG Vorbis. Only tracks available in your selected format will appear in the playlist.
+{{% /details %}}
+
+{{% details title="Can I play M3U playlists on iPhone or Mac?" closed="true" %}}
+Yes. Download the free Evermusic app for iOS or macOS, then use the Import Playlist feature to load your `.m3u` file.
+{{% /details %}}
+
+{{% details title="Does the tool store my data or host any music?" closed="true" %}}
+No. All processing happens locally in your browser. No data is stored, and all audio streams come directly from archive.org.
+{{% /details %}}
+
+{{% details title="Is this tool affiliated with the Internet Archive?" closed="true" %}}
+No. It is an independent, open-source project built for convenience. It uses the official Internet Archive Metadata API to generate playlists.
+{{% /details %}}

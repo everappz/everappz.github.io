@@ -13,6 +13,9 @@ aliases:
 
 {{< author-byline >}}
 
+
+**TL;DR:** Transfer music from your computer to iPhone using one of three methods: **iTunes/Finder File Sharing** (USB cable), **[WiFi Drive](/docs/howto/how-to-transfer-music-from-computer-to-iphone-without-itunes)** (wireless, no cable needed), or **[SMB](/docs/howto/stream-your-music-from-mac-or-pc-to-iphone-using-smb/)** (stream directly without copying). Then play with [Evermusic](/products/evermusic) or [Flacbox](/products/flacbox).
+
 Managing your music files between your computer and iOS devices has never been simpler. We've outlined three easy methods – iTunes File Sharing, WiFi Drive, and SMB protocol – to ensure a smooth music transfer and seamless playback.
 
 ## iTunes File Sharing
@@ -132,3 +135,25 @@ To remove audio files copied from your computer to an iOS app using File Sharing
 ## Bonus Tip   
 
 You can also connect your computer using the SMB protocol to directly stream music from your MAC/PC to your iOS device. Find detailed instructions here: [How To Stream Your Music from MAC or PC to iPhone Using SMB](/docs/howto/stream-your-music-from-mac-or-pc-to-iphone-using-smb/).
+
+## FAQ
+
+{{% details title="What is the fastest way to transfer music to iPhone?" closed="true" %}}
+iTunes/Finder File Sharing over USB is the fastest method for large music libraries. For smaller transfers, WiFi Drive is more convenient since it does not require a cable.
+{{% /details %}}
+
+{{% details title="Can I transfer FLAC files to my iPhone?" closed="true" %}}
+Yes. Both Evermusic and Flacbox accept FLAC files via iTunes File Sharing, WiFi Drive, or SMB. Flacbox is recommended for lossless formats.
+{{% /details %}}
+
+{{% details title="Do I need iTunes on macOS Catalina or later?" closed="true" %}}
+No. Apple replaced iTunes with Finder for device management starting with macOS Catalina. Use the Finder's Files tab for file sharing.
+{{% /details %}}
+
+{{% details title="Can I stream music without copying files to my iPhone?" closed="true" %}}
+Yes. Use the SMB protocol to stream music directly from your Mac or PC. This saves device storage and keeps your library on your computer.
+{{% /details %}}
+
+{{% details title="Which app should I use -- Evermusic or Flacbox?" closed="true" %}}
+Use Evermusic for standard formats like MP3, WAV, and AAC. Choose Flacbox if your library includes lossless formats like FLAC, DSD, or OGG.
+{{% /details %}}

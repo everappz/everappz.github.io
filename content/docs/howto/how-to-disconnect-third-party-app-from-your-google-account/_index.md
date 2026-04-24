@@ -12,6 +12,9 @@ aliases:
 
 {{< author-byline >}}
 
+
+**TL;DR:** Go to [myaccount.google.com](https://myaccount.google.com/) > Security > Third-party apps & services. Click the app you want to remove, then select "Remove Access" or "Delete all connections." Repeat for each app.
+
 In today's digital age, we often link our Google accounts to various third-party apps and services for added convenience. While this can make life easier, it's essential to maintain control and security over your Google account. Sometimes, you may want to disconnect a third-party app that you no longer use or trust. In this article, we'll guide you through the process of disconnecting a third-party app from your Google account, helping you ensure your online security.
 
 ## Why Disconnect a Third-Party App?
@@ -72,3 +75,21 @@ After disconnecting the apps, it's a good practice to review and adjust the perm
 Taking control of your online security and privacy is vital in today's digital landscape. Disconnecting third-party apps that you no longer use or trust is a step in the right direction. By following the simple steps outlined in this guide, you can effectively manage your Google account's access and ensure that your personal information remains secure.
 
 Remember that while third-party apps can enhance your digital experience, it's crucial to be discerning about the apps you connect to your Google account. Regularly reviewing and disconnecting apps you no longer need is a proactive way to protect your online identity and data.
+
+## FAQ
+
+{{% details title="Will disconnecting an app delete my data from that app?" closed="true" %}}
+No. Removing access only stops the app from accessing your Google account going forward. Data already shared with the app may still exist on their servers. Check the app's own privacy settings to delete that data.
+{{% /details %}}
+
+{{% details title="Can I reconnect an app after disconnecting it?" closed="true" %}}
+Yes. If you need the app again, simply sign in with Google when prompted. The app will request permissions again, and you can review them before granting access.
+{{% /details %}}
+
+{{% details title="How often should I review third-party app access?" closed="true" %}}
+Review your connected apps every 3-6 months, or immediately after you stop using a service. Regular audits help keep your account secure.
+{{% /details %}}
+
+{{% details title="Does this affect apps like Evermusic that connect to Google Drive?" closed="true" %}}
+Yes. If you disconnect an app like Evermusic or Flacbox from your Google account, it will lose access to your Google Drive files. You can reconnect at any time from within the app.
+{{% /details %}}

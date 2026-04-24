@@ -11,6 +11,9 @@ aliases:
 
 {{< author-byline >}}
 
+
+**TL;DR:** Evermusic and Flacbox offer interactive Now Playing widgets on iOS 17+ and macOS 14 Sonoma+. You can control playback, skip tracks, add favorites, and create audio bookmarks directly from your iPhone home screen or Mac desktop — no need to open the app.
+
 In the latest update for **Evermusic** and **Flacbox**, we’re excited to introduce **Dynamic Now Playing Widgets** for iOS and Mac. These widgets let you control playback directly from your home screen or desktop, giving you quick access to commands like Play, Pause, Stop, Next Track, Previous Track, Skip Forward, Skip Backward, Add to Favorites, and even Create Audio Bookmarks for specific tracks.
 
 ## Requirements for Dynamic Widgets
@@ -74,3 +77,25 @@ This feature is perfect for audiobooks and long-form audio content, allowing you
 We’d love to hear your ideas! Reach out to us at [support@everappz.com](mailto:support@everappz.com), and we’ll work to bring your suggestions to life.
 
 Enjoy the update, and happy listening!
+
+## Frequently Asked Questions
+
+{{% details title="Do the widgets work without opening the app?" closed="true" %}}
+Yes. On iOS 17 and macOS 14 Sonoma, widget buttons are interactive and control playback directly. The app does not need to be in the foreground.
+{{% /details %}}
+
+{{% details title="Which widget size should I choose?" closed="true" %}}
+Choose Small for basic play/pause and favorites. Choose Medium if you want skip buttons. Choose Large if you also want audio bookmarking.
+{{% /details %}}
+
+{{% details title="Can I use the widget to resume an audiobook?" closed="true" %}}
+Yes. Enable "Save Audio Player State" in Settings, and the widget will resume playback from your last position even after the app has been closed.
+{{% /details %}}
+
+{{% details title="Are the widgets available on iPad?" closed="true" %}}
+Yes. iPadOS 17 supports the same interactive widgets as iPhone.
+{{% /details %}}
+
+{{% details title="Do both Evermusic and Flacbox have these widgets?" closed="true" %}}
+Yes. The Now Playing widget is available in both Evermusic and Flacbox with identical functionality.
+{{% /details %}}
