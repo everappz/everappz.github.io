@@ -67,6 +67,20 @@ By subscribing, you agree to our [Privacy Policy](/legal/privacy-policy) and acc
 - Form `action=` URL, `method=`, `name=`, `class=`, `id=` attributes
 - The honeypot div (`position: absolute; width: 0; height: 0; overflow: hidden;`)
 
+### App UI Menu Items (IMPORTANT)
+
+When the post references app menu items (e.g., **Settings**, **Connections**, **Music Library**, **Audio Player**, **Local Files**, **Equalizer**, **More actions**, etc.), use the official translated UI strings from the app's localization files.
+
+**Localization files location:** `/Users/artem/Documents/Projects/myproject/MyApp/Localization/all/{lang}.lproj/Localizable.strings`
+
+**Pre-extracted reference:** `scripts/ui_translations.json` — contains key UI term translations for all 32 languages in JSON format. Use this file first for quick lookup and update it if needed.
+
+**Language folder mapping:**
+- Most languages use their code directly: `es.lproj`, `fr.lproj`, `de.lproj`, etc.
+- Exceptions: `no` → `nb.lproj`, `pt` → `pt-PT.lproj`, `zh-cn` → `zh-Hans.lproj`, `zh-tw` → `zh-Hant.lproj`
+
+**How to use:** When you encounter a UI term like **Settings > Audio Player > General** in the English post, look up "Settings", "Audio Player", and "General" in the localization reference and replace with their translated equivalents. If a term is not found in the localization files, translate it naturally.
+
 ### Special Cases
 - `EVERAPPZ` headline — keep as-is (brand name)
 - App Store review shortcode — keep as-is (reviews are in original language)
