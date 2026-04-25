@@ -1,6 +1,13 @@
 #!/bin/bash
 set -e
 
+# Kill any existing Hugo server
+if pgrep -f "hugo server" > /dev/null 2>&1; then
+  echo "🛑 Stopping existing Hugo server..."
+  pkill -f "hugo server" 2>/dev/null
+  sleep 1
+fi
+
 echo "🔍 Checking for aliases in localized pages..."
 BAD_FILES=()
 while IFS= read -r f; do

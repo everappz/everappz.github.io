@@ -18,6 +18,7 @@ document.addEventListener("DOMContentLoaded", function () {
 //   {{ $searchData := $searchData | minify | fingerprint }}
 // {{ end }}
 // {{ $noResultsFound := (T "noResultsFound") | default "No results found." }}
+// {{ $readMore := (T "readMore") | default "Read more" }}
 
 (function () {
   const searchDataURL = '{{ $searchData.RelPermalink }}';
@@ -376,6 +377,13 @@ document.addEventListener("DOMContentLoaded", function () {
       if (title.includes(phrase)) score += 20;
       if (content.includes(phrase)) score += 15;
 
+      // Section priority boost (higher = more important)
+      if (route.includes('/docs/howto/')) score += 12;
+      else if (route.includes('/docs/guide/')) score += 10;
+      else if (route.includes('/docs/faq/')) score += 8;
+      else if (route.includes('/blog/')) score += 6;
+      else if (route.includes('/products/')) score += 4;
+
       // Content-type boost based on intent
       if (queryInfo.intent === 'howto' && (route.includes('/howto/') || route.includes('/how-to/'))) score += 5;
       if (queryInfo.intent === 'definition' && (route.includes('/faq/') || route.includes('/docs/'))) score += 5;
@@ -651,7 +659,7 @@ document.addEventListener("DOMContentLoaded", function () {
               <div class="hextra-search-answer-text">${highlightMatches(answer.text, query)}</div>
               <div class="hextra-search-answer-footer">
                 <span class="hextra-search-answer-source">${answerSource}</span>
-                <span class="hextra-search-answer-readmore">Read more &rarr;</span>
+                <span class="hextra-search-answer-readmore">{{ $readMore }}</span>
               </div>
             </a>
           </li>`);
@@ -683,7 +691,7 @@ document.addEventListener("DOMContentLoaded", function () {
           : '') + `
             <div class="hextra-search-result-footer">
               <span class="hextra-search-result-source">${source}</span>
-              <span class="hextra-search-result-readmore">Read more &rarr;</span>
+              <span class="hextra-search-result-readmore">{{ $readMore }}</span>
             </div>
           </a>
         </li>`);

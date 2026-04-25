@@ -403,6 +403,8 @@ params:
     flexsearch:
       index: content # What to index: content | title | heading | summary
       tokenize: forward # Tokenization strategy: full | forward | reverse | strict
+      maxPageResults: 40
+      maxSectionResults: 20
 
   editURL:
     enable: false # Show edit-on-GitHub link.
