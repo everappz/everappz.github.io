@@ -1,6 +1,26 @@
 #!/bin/bash
 set -e
 
+echo "🔍 Checking for aliases in localized pages..."
+BAD_FILES=()
+while IFS= read -r f; do
+  # Match localized pages: any .XX.md or .xx-xx.md (2-letter or 2-letter-2-letter lang code before .md)
+  [[ "$f" =~ \.[a-z]{2}(-[a-z]{2})?\.md$ ]] || continue
+  if grep -q '^aliases:' "$f" 2>/dev/null; then
+    BAD_FILES+=("$f")
+  fi
+done < <(find content -name '*.md' -type f)
+
+if [ ${#BAD_FILES[@]} -gt 0 ]; then
+  echo "❌ Found aliases in localized pages (aliases must be removed from translations):"
+  for bf in "${BAD_FILES[@]}"; do
+    echo "   $bf"
+  done
+  exit 1
+fi
+echo "   ✓ No aliases found in localized pages"
+
+echo ""
 echo "🧹 Cleaning public folder..."
 rm -rf public
 
