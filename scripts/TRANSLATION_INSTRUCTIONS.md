@@ -24,7 +24,8 @@ Each translated file is an EXACT copy of the English original with ONLY these te
 - `keywords:` — translate all keyword values for local SEO
 - `tags:` — translate all tag values for local SEO
 - `features:` — translate the feature descriptions
-- DO NOT translate: `aliases`, `date`, `draft`, `layout`, `headless`, `appStoreUrl`, `appStoreId`, `screenshots`, or any other technical frontmatter fields
+- `aliases:` — **REMOVE entirely** from translated files (do not keep, do not translate). Aliases in translations cause duplicate route conflicts in Hugo.
+- DO NOT translate: `date`, `draft`, `layout`, `headless`, `appStoreUrl`, `appStoreId`, `screenshots`, or any other technical frontmatter fields
 
 ### Body Text
 - Hero badge `<span>` text (e.g., "14 Million Downloads")

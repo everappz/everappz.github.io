@@ -6,26 +6,38 @@ rm -rf public
 
 echo ""
 echo "🚀 Starting Hugo server (writes to public/ automatically)..."
-echo "   Build will take 30s–2min for 22k files."
 echo ""
 
 # Start Hugo server in background (it writes to public/ by default)
 hugo server --buildDrafts --disableFastRender --logLevel warn &
 SERVER_PID=$!
 
-# Wait for index.html to appear (signals build is done)
-echo "⏳ Waiting for initial build..."
+# Progress indicator while waiting for build
+echo -n "⏳ Building"
 while [ ! -f "public/index.html" ]; do
-  sleep 1
+  sleep 2
   if ! kill -0 $SERVER_PID 2>/dev/null; then
+    echo ""
     echo "❌ Hugo server died. Check errors above."
     exit 1
   fi
+  # Show file count as progress
+  if [ -d "public" ]; then
+    COUNT=$(find public -type f 2>/dev/null | wc -l | tr -d ' ')
+    echo -ne "\r⏳ Building... ${COUNT} files generated"
+  else
+    echo -n "."
+  fi
 done
 
-# Give Hugo a few more seconds to finish writing everything
-sleep 5
+# Keep showing progress for a few more seconds while Hugo finishes writing
+for i in 1 2 3 4 5; do
+  sleep 2
+  COUNT=$(find public -type f 2>/dev/null | wc -l | tr -d ' ')
+  echo -ne "\r⏳ Building... ${COUNT} files generated"
+done
 
+echo ""
 echo ""
 echo "📊 Build Stats"
 echo "─────────────────────────────"
