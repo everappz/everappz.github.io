@@ -8,9 +8,9 @@ if pgrep -f hugo > /dev/null 2>&1; then
   sleep 1
 fi
 
-echo "🧹 Clearing Hugo caches..."
-rm -rf resources/_gen
-hugo --gc > /dev/null 2>&1 || true
+# echo "🧹 Clearing Hugo caches..."
+# rm -rf resources/_gen
+# hugo --gc > /dev/null 2>&1 || true
 
 echo ""
 echo "🔍 Checking for aliases in localized pages..."
@@ -51,8 +51,3 @@ for dir in public/*/; do
   count=$(find "$dir" -type f 2>/dev/null | wc -l | tr -d ' ')
   printf "  %-30s %s\n" "$(basename "$dir")" "$count"
 done
-
-echo ""
-echo "🚀 Starting Hugo server..."
-echo ""
-hugo server --buildDrafts --disableFastRender --logLevel warn
