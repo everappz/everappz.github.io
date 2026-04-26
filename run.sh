@@ -1,13 +1,18 @@
 #!/bin/bash
 set -e
 
-# Kill any existing Hugo server
-if pgrep -f "hugo server" > /dev/null 2>&1; then
-  echo "🛑 Stopping existing Hugo server..."
-  pkill -f "hugo server" 2>/dev/null
+# Kill all existing Hugo processes
+if pgrep -f hugo > /dev/null 2>&1; then
+  echo "🛑 Killing all Hugo processes..."
+  pkill -9 -f hugo 2>/dev/null
   sleep 1
 fi
 
+echo "🧹 Clearing Hugo caches..."
+rm -rf resources/_gen
+hugo --gc > /dev/null 2>&1 || true
+
+echo ""
 echo "🔍 Checking for aliases in localized pages..."
 BAD_FILES=()
 while IFS= read -r f; do
@@ -32,39 +37,9 @@ echo "🧹 Cleaning public folder..."
 rm -rf public
 
 echo ""
-echo "🚀 Starting Hugo server (writes to public/ automatically)..."
-echo ""
+echo "🔨 Building site..."
+hugo --buildDrafts --logLevel warn
 
-# Start Hugo server in background (it writes to public/ by default)
-hugo server --buildDrafts --disableFastRender --logLevel warn &
-SERVER_PID=$!
-
-# Progress indicator while waiting for build
-echo -n "⏳ Building"
-while [ ! -f "public/index.html" ]; do
-  sleep 2
-  if ! kill -0 $SERVER_PID 2>/dev/null; then
-    echo ""
-    echo "❌ Hugo server died. Check errors above."
-    exit 1
-  fi
-  # Show file count as progress
-  if [ -d "public" ]; then
-    COUNT=$(find public -type f 2>/dev/null | wc -l | tr -d ' ')
-    echo -ne "\r⏳ Building... ${COUNT} files generated"
-  else
-    echo -n "."
-  fi
-done
-
-# Keep showing progress for a few more seconds while Hugo finishes writing
-for i in 1 2 3 4 5; do
-  sleep 2
-  COUNT=$(find public -type f 2>/dev/null | wc -l | tr -d ' ')
-  echo -ne "\r⏳ Building... ${COUNT} files generated"
-done
-
-echo ""
 echo ""
 echo "📊 Build Stats"
 echo "─────────────────────────────"
@@ -78,6 +53,6 @@ for dir in public/*/; do
 done
 
 echo ""
-echo "✅ Server running at http://localhost:1313/"
-echo "   Press Ctrl+C to stop."
-wait $SERVER_PID
+echo "🚀 Starting Hugo server..."
+echo ""
+hugo server --buildDrafts --disableFastRender --logLevel warn
