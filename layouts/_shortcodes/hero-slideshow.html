@@ -7,7 +7,7 @@
 {{- $slides := slice -}}
 
 {{- /* Load slides from data/hero_slides.yaml */ -}}
-{{- with site.Data.hero_slides -}}
+{{- with hugo.Data.hero_slides -}}
   {{- range . -}}
     {{- $imageDesktopPath := .imageDesktop -}}
     {{- $imageMobilePath := .imageMobile -}}

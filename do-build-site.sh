@@ -36,7 +36,7 @@ rm -rf public
 
 echo ""
 echo "🔨 Building site..."
-hugo --buildDrafts --logLevel warn
+hugo --buildDrafts --logLevel info
 
 echo ""
 echo "📊 Build Stats"
