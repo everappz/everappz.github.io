@@ -4,7 +4,6 @@ date: 2020-03-04
 description: "Evermusic vs VOXを8カテゴリーで比較：クラウドストレージ、オーディオブック、タグ編集、Wi-Fi転送など。どちらのiOS音楽プレーヤーが勝つかご覧ください。"
 keywords: ["Evermusic vs VOX", "VOX代替iOS", "最高の音楽プレーヤーiPhone", "クラウド音楽プレーヤー比較", "オーディオブックプレーヤーiOS", "ID3タグエディタiPhone", "Wi-Fiドライブ音楽アプリ", "FLACプレーヤーiPhone", "クラウドストレージ音楽プレーヤー", "VOX Cloud代替"]
 tags: ["比較", "evermusic", "vox", "クラウド", "オーディオブック", "タグ", "ストリーミング", "アプリ", "音楽プレーヤー", "ios"]
-draft: false
 sidebar:
   exclude: true
 cascade:

@@ -1,6 +1,5 @@
 ---
 date: '2025-06-12T17:00:00+00:00'
-draft: false
 title: 'Evervideo - HD-Videoplayer für iPhone und Mac'
 layout: hextra-home
 description: "Laden Sie den besten kostenlosen Videoplayer für Ihr iPhone und Mac herunter. Sehen Sie 360°-Videos, aktivieren Sie Untertitel, passen Sie den Video-Equalizer an, organisieren Sie Ihre Videos mit Wiedergabelisten, laden Sie für die Offline-Wiedergabe herunter und streamen Sie von iCloud."

@@ -4,7 +4,6 @@ date: 2019-07-02
 description: "Pogledajte službeni Evermusic promotivni video. Pogledajte kako Evermusic streama, preuzima i organizira vašu glazbu iz pohrane u oblaku na iPhoneu i iPadu."
 keywords: ["Evermusic promotivni video", "cloud glazbeni player iPhone", "video glazbene aplikacije", "Evermusic demo aplikacije", "glazba u oblaku iOS", "Evermusic značajke", "glazbeni player iPad", "streaming glazbe iz oblaka"]
 tags: ["evermusic", "promo", "video", "ios", "glazba", "oblak", "player", "mobilna aplikacija"]
-draft: false
 cascade:
   type: docs
 authors:

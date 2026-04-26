@@ -1,6 +1,5 @@
 ---
 date: '2025-06-12T17:00:00+00:00'
-draft: false
 title: 'Com fer-ho'
 description: 'Guies pas a pas i consells per ajudar-vos a configurar, utilitzar i treure el màxim profit de les aplicacions d''Everappz.'
 excludeSearch: true

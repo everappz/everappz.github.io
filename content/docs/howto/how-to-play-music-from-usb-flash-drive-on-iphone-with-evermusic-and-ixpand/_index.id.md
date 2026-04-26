@@ -5,7 +5,6 @@ description: "Pelajari cara menggunakan Evermusic dengan SanDisk iXpand Flash Dr
 keywords: ["evermusic", "ixpand", "sandisk", "drive usb", "flash drive", "musik eksternal", "pemutar musik iphone", "pengelola file", "penyimpanan lightning", "putar musik dari usb", "akses file iphone"]
 tags: ["musik", "usb", "eksternal", "ixpand", "sandisk", "iphone", "evermusic"]
 readingTime: 3
-draft: false
 ---
 
 {{< author-byline >}}

@@ -1,6 +1,5 @@
 ---
 date: '2025-06-12T17:00:00+00:00'
-draft: false
 title: 'Evertag - iPhone 및 Mac용 음악 태그 편집기'
 layout: hextra-home
 description: "음악 라이브러리를 체계적으로 관리하세요. 누락된 태그를 찾고, 일괄 편집하고, 앨범 커버를 변경하는 등 다양한 기능을 제공합니다."

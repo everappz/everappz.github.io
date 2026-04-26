@@ -1,7 +1,6 @@
 ---
 title: "Local Files"
 date: 2020-02-01
-draft: false
 description: "Learn how to manage local audio files with Evertag. Import files from cloud storage, USB drives, iTunes, or Wi-Fi Drive and organize them with the built-in file manager for tag editing and offline access."
 keywords: [
   "Evertag local files", "audio tag editor offline", "download audio from cloud iPhone",

@@ -4,7 +4,6 @@ date: 2017-01-25
 description: "Flacbox 1.6 pentru iOS adaugă sincronizare automată cu cloud-ul, egalizator de 10 benzi, suport format OPUS și redare de pe unități flash externe pentru iPhone și iPad."
 keywords: ["actualizare Flacbox", "player FLAC iOS", "egalizator 10 benzi iPhone", "sincronizare automată muzică", "redare OPUS pe iPhone", "muzică unitate flash externă", "streaming FLAC iOS", "aplicație muzică hi-res iPhone", "egalizator Flacbox", "player muzică card SD iOS"]
 tags: ["Flacbox", "egalizator", "bibliotecă muzicală", "OPUS", "FLAC", "stocare externă", "sincronizare", "player audio", "aplicații iOS", "actualizare"]
-draft: false
 cascade:
   type: docs
 authors:

@@ -1,5 +1,4 @@
 ---
-draft: false
 title: 'Abonnieren'
 sitemap:
   disable: true

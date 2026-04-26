@@ -4,7 +4,6 @@ date: 2017-11-08
 description: "Evermusic heeft 3 miljoen downloads bereikt. Ontdek cloudmuziekstreaming, offline afspelen, 10-bands EQ, audioboekondersteuning, bestandsbeheer en ID3-tag-editor."
 keywords: ["Evermusic downloads", "iOS muziekspeler", "cloud muziek-app", "offline muziekspeler iPhone", "muziek downloader iOS", "audioboekspeler iPhone", "ID3 tag-editor iOS", "iPhone bestandsbeheer", "muziek equalizer app", "beste cloud muziekspeler", "muziek streamen vanaf NAS iPhone"]
 tags: ["Evermusic", "downloads", "mijlpaal", "muziek-apps", "cloud speler", "offline speler", "tag-editor", "equalizer", "audioboeken", "bestandsbeheer"]
-draft: false
 cascade:
   type: docs
 authors:

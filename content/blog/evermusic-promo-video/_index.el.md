@@ -4,7 +4,6 @@ date: 2019-07-02
 description: "Δείτε το επίσημο βίντεο προώθησης του Evermusic. Δείτε πώς το Evermusic κάνει ροή, λήψη και οργάνωση της μουσικής σας από αποθηκευτικό χώρο cloud σε iPhone και iPad."
 keywords: ["βίντεο προώθησης Evermusic", "αναπαραγωγέας μουσικής cloud iPhone", "βίντεο εφαρμογής μουσικής", "επίδειξη εφαρμογής Evermusic", "μουσική cloud iOS", "χαρακτηριστικά Evermusic", "αναπαραγωγέας μουσικής iPad", "ροή μουσικής από cloud"]
 tags: ["Evermusic", "προώθηση", "βίντεο", "iOS", "μουσική", "cloud", "αναπαραγωγέας", "εφαρμογή κινητού"]
-draft: false
 cascade:
   type: docs
 authors:

@@ -4,7 +4,6 @@ date: 2016-05-26
 description: "بث الموسيقى من Google Drive أو Dropbox أو OneDrive على iPhone وiPad مع Evermusic. وفّر مساحة التخزين واستمع بدون اتصال دون مزامنة iTunes."
 keywords: ["Evermusic", "مشغل موسيقى سحابي", "تطبيق موسيقى iOS", "بث الموسيقى من السحابة", "موسيقى بدون اتصال iPhone", "مشغل موسيقى Google Drive", "بث موسيقى Dropbox", "مشغل MP3 iPhone", "توفير مساحة iPhone", "موسيقى من SMB", "تشغيل الموسيقى من التخزين السحابي iOS", "مشغل موسيقى بدون iTunes"]
 tags: ["صوت", "بث", "مشغل", "mp3", "تنزيل", "GoogleDrive", "Dropbox", "موسيقى سحابية", "تشغيل بدون اتصال"]
-draft: false
 cascade:
   type: docs
 authors:

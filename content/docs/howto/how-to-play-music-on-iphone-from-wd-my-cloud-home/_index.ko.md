@@ -5,7 +5,6 @@ description: "Evermusic 앱을 사용하여 WD My Cloud Home에서 iPhone으로 
 keywords: ["evermusic", "wd my cloud", "음악 스트리밍", "iphone", "NAS 스토리지", "오프라인 음악", "커스텀 이퀄라이저", "my cloud home", "8TB 음악 라이브러리", "WD MyCloud EX2 Ultra", "MyCloud Mirror"]
 tags: ["evermusic", "음악", "클라우드", "iphone", "스토리지", "nas", "듣기", "원격", "홈", "온라인", "wd", "mycloud"]
 readingTime: 4
-draft: false
 ---
 
 {{< author-byline >}}

@@ -4,7 +4,6 @@ date: 2024-09-17
 description: "Evermusic 6.8 में Aliyun Drive और Synology NAS सपोर्ट, नए एल्बम कवर स्क्रॉल इफेक्ट्स, मिनिमल प्लेयर स्क्रीन, ड्रैग-एंड-ड्रॉप फाइल मैनेजमेंट और तेज़ आर्टवर्क लोडिंग जोड़ी गई है।"
 keywords: ["Evermusic अपडेट", "Aliyun Drive म्यूजिक प्लेयर", "Synology NAS म्यूजिक", "क्लाउड म्यूजिक प्लेयर iOS", "ऑडियो प्लेयर iOS", "एल्बम कवर स्टाइल", "ड्रैग एंड ड्रॉप फाइल ब्राउज़र", "Evermusic 6.8", "FLAC प्लेयर iOS", "QuickConnect म्यूजिक प्लेयर", "NAS म्यूजिक स्ट्रीमिंग iPhone"]
 tags: ["Evermusic", "Aliyun Drive", "Synology", "एल्बम कवर", "क्लाउड म्यूजिक", "iOS म्यूजिक ऐप", "नया क्या है"]
-draft: false
 cascade:
   type: docs
 authors:

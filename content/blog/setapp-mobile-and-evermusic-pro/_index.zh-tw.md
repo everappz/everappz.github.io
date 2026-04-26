@@ -4,7 +4,6 @@ date: 2024-09-17
 description: "透過 Setapp Mobile 取得 Evermusic Pro。在 iPhone 和 iPad 上從 Google Drive、Dropbox、NAS 等串流音樂，支援離線播放和 10 段 EQ。"
 keywords: ["Setapp Mobile", "Evermusic Pro", "雲端音樂播放器", "音樂串流 iPhone", "離線音樂 iOS", "Setapp iOS 應用程式", "發燒友應用程式 iPhone", "等化器 iOS 應用程式", "NAS 音樂 iPhone", "雲端儲存音樂播放器", "Setapp 音樂應用程式", "從 Google Drive 串流音樂 iPhone"]
 tags: ["evermusic", "setapp", "雲端", "音訊", "行動", "市集", "音樂", "ios 應用程式"]
-draft: false
 cascade:
   type: docs
 authors:

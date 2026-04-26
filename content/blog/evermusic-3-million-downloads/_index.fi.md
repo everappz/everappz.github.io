@@ -4,7 +4,6 @@ date: 2017-11-08
 description: "Evermusic saavutti 3 miljoonaa latausta. Tutustu pilvimusiikin suoratoistoon, offline-toistoon, 10-kaistaiseen taajuuskorjaimeen, äänikirjatukeen, tiedostonhallintaan ja ID3-tunniste-editoriin."
 keywords: ["Evermusic lataukset", "iOS musiikkisoitin", "pilvimusiikin sovellus", "offline-musiikkisoitin iPhone", "musiikin lataus iOS", "äänikirjasoitin iPhone", "ID3-tunniste-editori iOS", "iPhone tiedostonhallinta", "musiikin taajuuskorjain sovellus", "paras pilvimusiikin soitin", "suoratoista musiikkia NAS iPhone"]
 tags: ["Evermusic", "lataukset", "virstanpylväs", "musiikkisovellukset", "pilvisoitin", "offline-soitin", "tunniste-editori", "taajuuskorjain", "äänikirjat", "tiedostonhallinta"]
-draft: false
 cascade:
   type: docs
 authors:

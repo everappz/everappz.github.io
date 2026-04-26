@@ -4,7 +4,6 @@ date: 2016-05-26
 description: "使用 Evermusic 在 iPhone 和 iPad 上从 Google Drive、Dropbox 或 OneDrive 播放音乐。释放设备存储空间，无需 iTunes 同步即可离线收听。"
 keywords: ["Evermusic", "云音乐播放器", "iOS 音乐应用", "从云端播放音乐", "离线音乐 iPhone", "Google Drive 音乐播放器", "Dropbox 音乐播放", "MP3 播放器 iPhone", "释放 iPhone 空间", "SMB 音乐", "iOS 云存储播放音乐", "无需 iTunes 的音乐播放器"]
 tags: ["音频", "流媒体", "播放器", "mp3", "下载", "GoogleDrive", "Dropbox", "云音乐", "离线播放"]
-draft: false
 cascade:
   type: docs
 authors:

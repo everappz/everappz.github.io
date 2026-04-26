@@ -4,7 +4,6 @@ date: 2016-05-26
 description: "สตรีมเพลงจาก Google Drive, Dropbox หรือ OneDrive บน iPhone และ iPad ด้วย Evermusic ประหยัดพื้นที่จัดเก็บบนอุปกรณ์และฟังแบบออฟไลน์โดยไม่ต้องซิงค์ iTunes"
 keywords: ["Evermusic", "เครื่องเล่นเพลงคลาวด์", "แอปเพลง iOS", "สตรีมเพลงจากคลาวด์", "เพลงออฟไลน์ iPhone", "เครื่องเล่นเพลง Google Drive", "สตรีมเพลง Dropbox", "เครื่องเล่น MP3 iPhone", "เพิ่มพื้นที่ว่าง iPhone", "เพลงจาก SMB", "เล่นเพลงจากคลาวด์สตอเรจ iOS", "เครื่องเล่นเพลงไม่ต้องใช้ iTunes"]
 tags: ["เสียง", "สตรีมมิง", "เครื่องเล่น", "mp3", "ดาวน์โหลด", "GoogleDrive", "Dropbox", "เพลงคลาวด์", "เล่นออฟไลน์"]
-draft: false
 cascade:
   type: docs
 authors:

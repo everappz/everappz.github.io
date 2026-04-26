@@ -5,7 +5,6 @@ description: "Μάθετε πώς να αναπαράγετε τη δική σα
 keywords: ["carplay μουσική", "αναπαραγωγή δικής μουσικής στο iphone", "iphone τοπική μουσική", "carplay offline μουσική", "evermusic", "flacbox", "iphone mp3 player"]
 tags: ["carplay", "iphone", "τοπική μουσική", "offline αναπαραγωγή", "evermusic", "flacbox"]
 readingTime: 5
-draft: false
 ---
 
 {{< author-byline >}}

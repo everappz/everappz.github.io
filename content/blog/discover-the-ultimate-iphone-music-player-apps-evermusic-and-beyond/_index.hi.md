@@ -4,7 +4,6 @@ date: 2020-05-05
 description: "iPhone के सर्वश्रेष्ठ म्यूज़िक प्लेयर ऐप्स की तुलना करें: Evermusic, Apple Music, Spotify, VLC और Amazon Music। सुविधाएँ, कीमत और ऑफ़लाइन सपोर्ट।"
 keywords: ["सबसे अच्छा iPhone म्यूज़िक प्लेयर", "म्यूज़िक प्लेयर ऐप iOS", "Evermusic बनाम Spotify", "क्लाउड म्यूज़िक प्लेयर iPhone", "ऑफ़लाइन म्यूज़िक ऐप iPhone", "FLAC प्लेयर iOS", "Apple Music विकल्प", "VLC iPhone", "मुफ़्त म्यूज़िक प्लेयर iOS"]
 tags: ["म्यूज़िक ऐप्स", "iOS", "Evermusic", "Apple Music", "Spotify", "VLC", "Amazon Music", "तुलना", "क्लाउड म्यूज़िक", "ऑफ़लाइन प्लेबैक"]
-draft: false
 cascade:
   type: docs
 authors:

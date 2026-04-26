@@ -5,7 +5,6 @@ description: "Узнайте, как использовать Evermusic с SanDi
 keywords: ["evermusic", "ixpand", "sandisk", "usb накопитель", "флешка", "внешняя музыка", "музыкальный плеер iphone", "файловый менеджер", "lightning хранилище", "воспроизведение музыки с usb", "доступ к файлам iphone"]
 tags: ["музыка", "usb", "внешний", "ixpand", "sandisk", "iphone", "evermusic"]
 readingTime: 3
-draft: false
 ---
 
 {{< author-byline >}}

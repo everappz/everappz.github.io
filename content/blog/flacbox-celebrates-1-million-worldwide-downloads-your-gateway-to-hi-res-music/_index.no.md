@@ -4,7 +4,6 @@ date: 2023-09-06
 description: "Flacbox når 1 million globale nedlastinger. Utforsk funksjonene som gjør den til den beste hi-res lydspilleren for iPhone, iPad og Mac — FLAC, DSD, APE, equalizer og frakoblet avspilling."
 keywords: ["Flacbox musikkspiller", "hi-res lyd iOS", "lossless musikkapp", "DSD FLAC APE spiller", "frakoblet FLAC musikk", "Flacbox nedlastingsmilepæl", "høykvalitets lyd iPhone", "Everappz lydapper", "CUE spilleliste spiller", "1 million nedlastinger", "beste FLAC-spiller iOS", "hi-res musikkspiller Mac"]
 tags: ["Flacbox", "lossless", "hi-res lyd", "musikkspiller", "lyd", "milepæl", "iOS-apper", "Hva er nytt"]
-draft: false
 cascade:
   type: docs
 authors:

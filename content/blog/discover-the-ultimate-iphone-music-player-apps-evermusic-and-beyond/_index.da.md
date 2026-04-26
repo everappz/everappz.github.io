@@ -4,7 +4,6 @@ date: 2020-05-05
 description: "Sammenlign de bedste musikafspiller-apps til iPhone: Evermusic, Apple Music, Spotify, VLC og Amazon Music. Funktioner, priser og offline-understøttelse."
 keywords: ["bedste iPhone musikafspiller", "musikafspiller app iOS", "Evermusic vs Spotify", "cloud musikafspiller iPhone", "offline musik app iPhone", "FLAC afspiller iOS", "Apple Music alternativer", "VLC iPhone", "gratis musikafspiller iOS"]
 tags: ["musik apps", "iOS", "Evermusic", "Apple Music", "Spotify", "VLC", "Amazon Music", "sammenligning", "cloud musik", "offline afspilning"]
-draft: false
 cascade:
   type: docs
 authors:

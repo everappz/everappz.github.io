@@ -4,7 +4,6 @@ date: 2025-04-30
 description: "Guide étape par étape pour optimiser les mots-clés, titres et sous-titres de l'App Store. Inclut un outil ASO gratuit basé sur navigateur avec intégration Fastlane."
 keywords: ["guide mots-clés app store", "optimisation mots-clés ASO", "optimisation titre app store", "optimisation sous-titre app store", "métadonnées app store", "améliorer classement app store", "optimisation app store", "outil ASO gratuit", "outils ASO gratuits", "stratégie mots-clés app store", "SEO apple app store", "outil métadonnées fastlane", "recherche mots-clés app store gratuit"]
 tags: ["Optimisation App Store", "outils ASO gratuits", "optimisation titre app store", "outil ASO gratuit", "stratégie mots-clés app store", "optimiseur de métadonnées"]
-draft: false
 sidebar:
   exclude: true
 cascade:

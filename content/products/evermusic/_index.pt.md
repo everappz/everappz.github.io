@@ -1,6 +1,5 @@
 ---
 date: '2025-06-12T17:00:00+00:00'
-draft: false
 title: 'Evermusic - Reprodutor de Música Offline para iPhone e Mac'
 layout: hextra-home
 description: "Baixe o melhor reprodutor de música offline gratuito para iPhone e Mac e ouça sua música em qualquer lugar."

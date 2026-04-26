@@ -4,7 +4,6 @@ date: 2016-05-26
 description: "Streamajte glazbu s Google Drivea, Dropboxa ili OneDrivea na iPhoneu i iPadu s Evermusicom. Oslobodite prostor na uređaju i slušajte offline bez iTunes sinkronizacije."
 keywords: ["Evermusic", "cloud glazbeni player", "iOS glazbena aplikacija", "streamanje glazbe iz oblaka", "offline glazba iPhone", "Google Drive glazbeni player", "Dropbox streamanje glazbe", "MP3 player iPhone", "osloboditi prostor iPhone", "glazba sa SMB-a", "reprodukcija glazbe iz oblaka iOS", "glazbeni player bez iTunesa"]
 tags: ["audio", "streamanje", "player", "mp3", "preuzimanje", "GoogleDrive", "Dropbox", "cloud glazba", "offline reprodukcija"]
-draft: false
 cascade:
   type: docs
 authors:

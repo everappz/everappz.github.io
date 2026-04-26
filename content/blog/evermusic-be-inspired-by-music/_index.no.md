@@ -4,7 +4,6 @@ date: 2019-12-01
 description: "Se Evermusic-promovideoen som viser skymusikkstrømming, avspilling uten nett og equalizerfunksjoner på iPhone og Mac."
 keywords: ["Evermusic promovideo", "musikkspiller iOS", "skymusikkapp iPhone", "Evermusic app-demo", "beste musikkspiller iPhone", "musikkspiller uten nett iOS"]
 tags: ["Evermusic", "promo", "musikk", "video", "skymusikk", "iOS-app"]
-draft: false
 sidebar:
   exclude: true
 cascade:

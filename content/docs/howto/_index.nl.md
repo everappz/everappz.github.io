@@ -1,6 +1,5 @@
 ---
 date: '2025-06-12T17:00:00+00:00'
-draft: false
 title: 'Instructies'
 description: 'Stapsgewijze handleidingen en tips om u te helpen Everappz-apps in te stellen, te gebruiken en optimaal te benutten.'
 excludeSearch: true

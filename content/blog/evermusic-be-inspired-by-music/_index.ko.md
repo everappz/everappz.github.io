@@ -4,7 +4,6 @@ date: 2019-12-01
 description: "iPhone과 Mac에서 클라우드 음악 스트리밍, 오프라인 재생, 이퀄라이저 기능을 보여주는 Evermusic 프로모션 영상을 시청하세요."
 keywords: ["Evermusic 프로모션 영상", "음악 플레이어 iOS", "클라우드 음악 앱 iPhone", "Evermusic 앱 데모", "최고의 음악 플레이어 iPhone", "오프라인 음악 플레이어 iOS"]
 tags: ["Evermusic", "프로모션", "음악", "영상", "클라우드 음악", "iOS 앱"]
-draft: false
 sidebar:
   exclude: true
 cascade:

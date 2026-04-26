@@ -4,7 +4,6 @@ date: 2023-09-06
 description: "Flacbox raggiunge 1 milione di download globali. Scopri le funzionalità che lo rendono il miglior lettore audio hi-res per iPhone, iPad e Mac — FLAC, DSD, APE, equalizzatore e riproduzione offline."
 keywords: ["lettore musicale Flacbox", "audio hi-res iOS", "app musica lossless", "lettore DSD FLAC APE", "musica FLAC offline", "traguardo download Flacbox", "audio alta qualità iPhone", "app audio Everappz", "lettore playlist CUE", "1 milione di download", "miglior lettore FLAC iOS", "lettore musica hi-res Mac"]
 tags: ["Flacbox", "lossless", "audio hi-res", "lettore musicale", "audio", "traguardo", "app iOS", "Novità"]
-draft: false
 cascade:
   type: docs
 authors:

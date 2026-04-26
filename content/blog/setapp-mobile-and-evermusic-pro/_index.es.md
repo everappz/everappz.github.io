@@ -4,7 +4,6 @@ date: 2024-09-17
 description: "Obtén Evermusic Pro a través de Setapp Mobile. Reproduce música de Google Drive, Dropbox, NAS y más en iPhone y iPad con reproducción sin conexión y ecualizador de 10 bandas."
 keywords: ["Setapp Mobile", "Evermusic Pro", "reproductor de música en la nube", "streaming de música iPhone", "música sin conexión iOS", "aplicaciones Setapp iOS", "aplicación audiófila iPhone", "ecualizador iOS", "música NAS iPhone", "reproductor de música almacenamiento en la nube", "aplicación de música Setapp", "streaming de música desde Google Drive iPhone"]
 tags: ["evermusic", "setapp", "nube", "audio", "móvil", "marketplace", "música", "aplicaciones ios"]
-draft: false
 cascade:
   type: docs
 authors:

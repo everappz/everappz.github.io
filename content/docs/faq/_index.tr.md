@@ -1,6 +1,5 @@
 ---
 date: '2025-06-12T17:00:00+00:00'
-draft: false
 title: 'Sıkça Sorulan Sorular'
 description: 'Evermusic, Flacbox, Evervideo ve Evertag hakkında sık sorulan soruların cevaplarını bulun. Bulut akışı, dosya yönetimi, oynatma seçenekleri, meta veri düzenleme ve daha fazlası gibi özellikleri keşfedin.'
 keywords: [

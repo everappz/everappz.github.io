@@ -1,7 +1,6 @@
 ---
 title: "Connections"
 date: 2020-02-01
-draft: false
 description: "Learn how to connect cloud storage, NAS, and your computer to Evertag. Access and edit audio files directly from cloud storage, personal NAS, or Mac/PC."
 keywords: [
   "Evertag cloud setup", "connect iCloud to Evertag", "SMB file access iOS",

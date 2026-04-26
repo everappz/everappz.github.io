@@ -4,7 +4,6 @@ date: 2015-06-20
 description: "Erfahren Sie, wie Sie Audio in iOS mit AVAssetResourceLoaderDelegate und AVPlayer mit benutzerdefinierten URL-Schemata und Disk-Caching streamen und zwischenspeichern."
 keywords: ["iOS Audio-Streaming", "AVAssetResourceLoaderDelegate", "AVURLAsset", "AVPlayer Tutorial", "AVFoundation Audio", "AVAssetResourceLoadingRequest", "benutzerdefinierter Audio-Player iOS", "Cloud-Audio-Streaming iOS", "Audio-Caching iOS", "Swift AVPlayer benutzerdefiniertes Schema"]
 tags: ["streaming", "AVPlayer", "AVFoundation", "iOS", "AVAssetResourceLoader", "tutorial", "Objective-C", "audio caching"]
-draft: false
 cascade:
   type: docs
 authors:

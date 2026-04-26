@@ -1,5 +1,4 @@
 ---
-draft: false
 title: 'הרשמה'
 sitemap:
   disable: true

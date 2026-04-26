@@ -4,7 +4,6 @@ date: 2024-09-17
 description: "Dapatkan Evermusic Pro melalui Setapp Mobile. Strim muzik dari Google Drive, Dropbox, NAS dan banyak lagi di iPhone dan iPad dengan main balik luar talian dan EQ 10 jalur."
 keywords: ["Setapp Mobile", "Evermusic Pro", "pemain muzik awan", "penstriman muzik iPhone", "muzik luar talian iOS", "aplikasi Setapp iOS", "aplikasi audiofil iPhone", "aplikasi penyama iOS", "muzik NAS iPhone", "pemain muzik storan awan", "aplikasi muzik Setapp", "strim muzik dari Google Drive iPhone"]
 tags: ["evermusic", "setapp", "awan", "audio", "mudah alih", "pasaran", "muzik", "aplikasi ios"]
-draft: false
 cascade:
   type: docs
 authors:

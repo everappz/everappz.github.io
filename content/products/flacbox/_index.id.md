@@ -1,6 +1,5 @@
 ---
 date: '2025-06-12T17:00:00+00:00'
-draft: false
 title: 'Flacbox - Pemutar Audio Hi-Res untuk iPhone dan Mac'
 layout: hextra-home
 description: "Putar & unduh file FLAC, DSD, APE, ALAC di iPhone Anda. Dengarkan musik langsung dari penyimpanan cloud atau komputer dengan equalizer."

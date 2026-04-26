@@ -4,7 +4,6 @@ date: 2016-05-26
 description: "Evermusic 2.3 lägger till automatisk synkronisering av molnmusik, sparande av uppspelningsposition för ljudböcker, metadataläsning i bakgrunden och korrigering av ID3-taggar."
 keywords: ["Evermusic", "molnmusikspelare", "musiksynk iOS", "spara uppspelningsposition", "ljudboksuppspelning", "metadataläsare", "fixa ID3-taggar", "streama musik från molnet", "musikapp för Dropbox", "Google Drive-spelare", "automatisk musikbibliotekssynk", "spara ljudboksposition iOS"]
 tags: ["evermusic", "musik", "uppspelning", "hanterare", "redigerare", "synkronisering", "position", "id3-taggar", "moln", "nyheter"]
-draft: false
 cascade:
   type: docs
 authors:

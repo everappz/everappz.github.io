@@ -4,7 +4,6 @@ date: 2025-04-05
 description: "Speel FLAC, DSD, ALAC en 120+ audioformaten op iPhone en Mac met Flacbox. Importeer via cloud, Wi-Fi of USB. Inclusief 10-bands EQ en offline afspelen."
 keywords: ["lossless muziekspeler", "FLAC-speler iOS", "DSD-speler iPhone", "hi-res audio Mac", "Flacbox app", "beste FLAC-speler iPhone", "offline FLAC-speler", "audiofiel muziekspeler iOS", "Mac FLAC-speler", "hi-res streaming iOS", "FLAC afspelen op iPhone", "DSD128-speler", "lossless audio-app"]
 tags: ["flacbox", "muziek", "audio", "lossless", "iphone", "mac", "flac", "dsd", "audiofiel"]
-draft: false
 cascade:
   type: docs
 authors:

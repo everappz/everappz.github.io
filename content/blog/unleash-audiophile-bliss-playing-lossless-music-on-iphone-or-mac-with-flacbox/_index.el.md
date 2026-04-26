@@ -4,7 +4,6 @@ date: 2025-04-05
 description: "Αναπαράγετε FLAC, DSD, ALAC και 120+ μορφές ήχου σε iPhone και Mac με Flacbox. Εισαγωγή μέσω cloud, Wi-Fi ή USB. Περιλαμβάνει equalizer 10 ζωνών και αναπαραγωγή εκτός σύνδεσης."
 keywords: ["αναπαραγωγέας μουσικής χωρίς απώλειες", "FLAC αναπαραγωγέας iOS", "DSD αναπαραγωγέας iPhone", "hi-res ήχος Mac", "εφαρμογή Flacbox", "καλύτερος FLAC αναπαραγωγέας iPhone", "offline FLAC αναπαραγωγέας", "audiophile αναπαραγωγέας μουσικής iOS", "Mac FLAC αναπαραγωγέας", "hi-res streaming iOS", "αναπαραγωγή FLAC σε iPhone", "DSD128 αναπαραγωγέας", "εφαρμογή ήχου χωρίς απώλειες"]
 tags: ["flacbox", "μουσική", "ήχος", "χωρίς απώλειες", "iphone", "mac", "flac", "dsd", "audiophile"]
-draft: false
 cascade:
   type: docs
 authors:

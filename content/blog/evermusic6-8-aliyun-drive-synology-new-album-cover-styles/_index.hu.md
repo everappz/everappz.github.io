@@ -4,7 +4,6 @@ date: 2024-09-17
 description: "Az Evermusic 6.8 Aliyun Drive és Synology NAS támogatást, új albumborító görgetési effekteket, minimális lejátszót, húzd és ejtsd fájlkezelést és gyorsabb borítóbetöltést hoz."
 keywords: ["Evermusic frissítés", "Aliyun Drive zenelejátszó", "Synology NAS zene", "felhő zenelejátszó iOS", "audio lejátszó iOS", "albumborító stílusok", "húzd és ejtsd fájlkezelő", "Evermusic 6.8", "FLAC lejátszó iOS", "QuickConnect zenelejátszó", "NAS zene streaming iPhone"]
 tags: ["Evermusic", "Aliyun Drive", "Synology", "Albumborítók", "Felhő zene", "iOS zenei alkalmazás", "Újdonságok"]
-draft: false
 cascade:
   type: docs
 authors:

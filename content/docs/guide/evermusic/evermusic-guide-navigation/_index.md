@@ -9,7 +9,6 @@ keywords: [
 ]
 tags: ["evermusic", "guide", "navigation"]
 readingTime: 4
-draft: false
 aliases:
   - /post/evermusic-guide-navigation/
   - /guide-evermusic-tab-bar/

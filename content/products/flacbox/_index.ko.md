@@ -1,6 +1,5 @@
 ---
 date: '2025-06-12T17:00:00+00:00'
-draft: false
 title: 'Flacbox - iPhone 및 Mac용 하이레스 오디오 플레이어'
 layout: hextra-home
 description: "iPhone에서 FLAC, DSD, APE, ALAC 파일을 재생하고 다운로드하세요. 이퀄라이저로 클라우드 스토리지나 컴퓨터에서 직접 음악을 들으세요."

@@ -4,7 +4,6 @@ date: 2017-01-25
 description: "Flacbox 1.6 for iOS legger til automatisk skysynkronisering, 10-bånds equalizer, OPUS-formatstøtte og avspilling fra eksterne flash-enheter for iPhone og iPad."
 keywords: ["Flacbox oppdatering", "FLAC-spiller iOS", "10-bånds equalizer iPhone", "automatisk musikksynkronisering", "spill OPUS på iPhone", "musikk ekstern flash-enhet", "FLAC-strømming iOS", "hi-res musikkapp iPhone", "Flacbox equalizer", "SD-kort musikkspiller iOS"]
 tags: ["Flacbox", "equalizer", "musikkbibliotek", "OPUS", "FLAC", "ekstern lagring", "synkronisering", "lydspiller", "iOS-apper", "oppdatering"]
-draft: false
 cascade:
   type: docs
 authors:

@@ -5,7 +5,6 @@ description: "Discover how to connect USB flash drives or SD cards to your iPhon
 keywords: ["usb music iphone", "flacbox usb drive", "evermusic external storage", "connect flash drive iphone", "ixpand evermusic"]
 tags: ["music", "files", "usb", "flash", "external", "ixpand", "play", "card", "adapter", "stick", "reader", "lightning"]
 readingTime: 2
-draft: false
 aliases:
   - /post/how-to-connect-a-usb-flashcard-to-the-iphone-and-listen-to-music-or-manage-files-located-on-it/
 ---

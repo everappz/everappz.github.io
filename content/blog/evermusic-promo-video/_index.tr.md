@@ -4,7 +4,6 @@ date: 2019-07-02
 description: "Resmi Evermusic tanıtım videosunu izleyin. Evermusic'in iPhone ve iPad'de bulut depolamadan müziği nasıl aktardığını, indirdiğini ve düzenlediğini görün."
 keywords: ["Evermusic tanıtım videosu", "bulut müzik çalar iPhone", "müzik uygulaması videosu", "Evermusic uygulama demosu", "bulut müzik iOS", "Evermusic özellikleri", "müzik çalar iPad", "buluttan müzik akışı"]
 tags: ["evermusic", "tanıtım", "video", "ios", "müzik", "bulut", "çalar", "mobil uygulama"]
-draft: false
 cascade:
   type: docs
 authors:

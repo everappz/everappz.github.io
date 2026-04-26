@@ -5,7 +5,6 @@ description: "Află cum să redai propria muzică locală sau offline pe iPhone 
 keywords: ["carplay muzică", "redare muzică proprie pe iphone", "iphone muzică locală", "carplay muzică offline", "evermusic", "flacbox", "iphone player mp3"]
 tags: ["carplay", "iphone", "muzică locală", "redare offline", "evermusic", "flacbox"]
 readingTime: 5
-draft: false
 ---
 
 {{< author-byline >}}

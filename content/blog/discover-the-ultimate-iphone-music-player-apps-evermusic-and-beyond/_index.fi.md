@@ -4,7 +4,6 @@ date: 2020-05-05
 description: "Vertaa parhaita iPhonen musiikkisoitinsovelluksia: Evermusic, Apple Music, Spotify, VLC ja Amazon Music. Ominaisuudet, hinnoittelu ja offline-tuki."
 keywords: ["paras iPhone musiikkisoitin", "musiikkisoitinsovellus iOS", "Evermusic vs Spotify", "pilvi musiikkisoitin iPhone", "offline musiikkisovellus iPhone", "FLAC-soitin iOS", "Apple Music vaihtoehdot", "VLC iPhone", "ilmainen musiikkisoitin iOS"]
 tags: ["musiikkisovellukset", "iOS", "Evermusic", "Apple Music", "Spotify", "VLC", "Amazon Music", "vertailu", "pilvimusiikki", "offline-toisto"]
-draft: false
 cascade:
   type: docs
 authors:

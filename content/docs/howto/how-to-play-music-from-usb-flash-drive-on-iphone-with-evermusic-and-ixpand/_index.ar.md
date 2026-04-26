@@ -5,7 +5,6 @@ description: "تعرف على كيفية استخدام Evermusic مع محرك 
 keywords: ["evermusic", "ixpand", "sandisk", "محرك usb", "محرك أقراص فلاش", "موسيقى خارجية", "مشغل موسيقى iphone", "مدير ملفات", "تخزين lightning", "تشغيل الموسيقى من usb", "الوصول إلى ملفات iphone"]
 tags: ["موسيقى", "usb", "خارجي", "ixpand", "sandisk", "iphone", "evermusic"]
 readingTime: 3
-draft: false
 ---
 
 {{< author-byline >}}

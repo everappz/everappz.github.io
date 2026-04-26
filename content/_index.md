@@ -1,6 +1,5 @@
 ---
 date: '2025-06-12T17:00:00+00:00'
-draft: false
 title: 'Home'
 layout: hextra-home
 description: "Explore Everappz apps for iPhone and Mac: play FLAC, DSD, APE, and ALAC, stream from cloud storage or NAS, download music and videos, edit tags, and customize playback with equalizer and playlist tools."

@@ -1,7 +1,6 @@
 ---
 title: "Music Library"
 date: 2020-02-01
-draft: false
 aliases:
   - /post/flacbox-guide-music-library/
   - /guide-flacbox-music-library/

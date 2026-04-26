@@ -4,7 +4,6 @@ date: 2025-01-05
 description: "Evermusic terhubung ke 12+ layanan cloud, memutar FLAC dan MP3 secara offline, dan mengelola perpustakaan musik Anda. Lihat mengapa ini adalah pemutar musik cloud terbaik untuk iOS."
 keywords: ["pemutar musik cloud terbaik iOS", "pemutar musik cloud iPhone", "putar musik dari Dropbox", "pemutar musik offline iPhone", "pemutar FLAC iOS", "ulasan Evermusic", "manajer perpustakaan musik iOS", "pemutar musik Google Drive", "pemutar musik NAS iPhone", "pemutar musik WebDAV"]
 tags: ["Evermusic", "cloud music", "offline playback", "iOS music apps", "MP3 player", "audio", "music streaming", "guide", "FLAC", "review"]
-draft: false
 cascade:
   type: docs
 authors:

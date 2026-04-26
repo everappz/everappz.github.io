@@ -5,7 +5,6 @@ description: "Saznajte kako koristiti Evermusic sa SanDisk iXpand Flash Drive za
 keywords: ["evermusic", "ixpand", "sandisk", "usb pogon", "flash pogon", "vanjska glazba", "iphone glazbeni player", "upravitelj datoteka", "lightning pohrana", "reproduciraj glazbu s usb", "pristup datotekama iphone"]
 tags: ["glazba", "usb", "vanjski", "ixpand", "sandisk", "iphone", "evermusic"]
 readingTime: 3
-draft: false
 ---
 
 {{< author-byline >}}

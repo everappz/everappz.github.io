@@ -1,6 +1,5 @@
 ---
 date: '2025-06-12T17:00:00+00:00'
-draft: false
 title: 'Evervideo - Lettore Video HD per iPhone e Mac'
 layout: hextra-home
 description: "Scarica il miglior lettore video gratuito per il tuo iPhone e Mac. Guarda video a 360°, attiva i sottotitoli, regola l'equalizzatore video, organizza i tuoi video con playlist, scarica per la visione offline e riproduci in streaming da iCloud."

@@ -4,7 +4,6 @@ date: 2025-04-30
 description: "逐步指南优化 App Store 关键词、标题和副标题。包含一个免费的浏览器端 ASO 工具，支持 Fastlane 集成。"
 keywords: ["app store 关键词指南", "ASO 关键词优化", "app store 标题优化", "app store 副标题优化", "app store 元数据", "如何提高 app store 排名", "app store 优化", "免费 ASO 工具", "app store 关键词策略", "apple app store SEO", "fastlane 元数据工具", "免费 app store 关键词研究"]
 tags: ["App Store 优化", "免费 ASO 工具", "app store 标题优化", "免费 ASO 工具", "app store 关键词策略", "元数据优化器"]
-draft: false
 sidebar:
   exclude: true
 cascade:

@@ -4,7 +4,6 @@ date: 2015-06-20
 description: "Apprenez à diffuser et mettre en cache de l'audio sur iOS avec AVAssetResourceLoaderDelegate et AVPlayer, en utilisant des schémas d'URL personnalisés et un cache sur disque."
 keywords: ["streaming audio iOS", "AVAssetResourceLoaderDelegate", "AVURLAsset", "tutoriel AVPlayer", "audio AVFoundation", "AVAssetResourceLoadingRequest", "lecteur audio personnalisé iOS", "streaming audio cloud iOS", "mise en cache audio iOS", "Swift AVPlayer schéma personnalisé"]
 tags: ["streaming", "AVPlayer", "AVFoundation", "iOS", "AVAssetResourceLoader", "tutorial", "Objective-C", "audio caching"]
-draft: false
 cascade:
   type: docs
 authors:

@@ -4,7 +4,6 @@ date: 2023-09-06
 description: "Evermusic når 11 millioner downloads. Se de funktioner, der har gjort den til en top cloud-musikafspiller: equalizer, offline-tilstand, iCloud og mere."
 keywords: ["Evermusic 11 millioner downloads", "bedste cloud-musikafspiller iOS", "offline musikafspiller iPhone", "iCloud Drive musikstreaming", "10-bånds equalizer app", "ID3 tag-editor iOS", "musikafspiller Mac iPhone synkronisering", "FLAC-afspiller iPhone"]
 tags: ["Evermusic", "milepæl", "cloud-musik", "offline afspilning", "iCloud Drive", "equalizer", "iOS musikafspiller"]
-draft: false
 cascade:
   type: docs
 authors:

@@ -4,7 +4,6 @@ date: 2015-06-20
 description: "Opi suoratoistamaan ja välimuistittamaan ääntä iOS:ssa käyttämällä AVAssetResourceLoaderDelegate- ja AVPlayer-komponentteja mukautetuilla URL-skeemoilla ja levyvälimuistilla."
 keywords: ["iOS äänisuoratoisto", "AVAssetResourceLoaderDelegate", "AVURLAsset", "AVPlayer opas", "AVFoundation ääni", "AVAssetResourceLoadingRequest", "mukautettu äänisoitin iOS", "pilvipalvelun äänisuoratoisto iOS", "äänivälimuisti iOS", "Swift AVPlayer mukautettu skeema"]
 tags: ["streaming", "AVPlayer", "AVFoundation", "iOS", "AVAssetResourceLoader", "tutorial", "Objective-C", "audio caching"]
-draft: false
 cascade:
   type: docs
 authors:

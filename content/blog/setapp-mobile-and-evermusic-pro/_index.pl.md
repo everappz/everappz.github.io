@@ -4,7 +4,6 @@ date: 2024-09-17
 description: "Pobierz Evermusic Pro przez Setapp Mobile. Strumieniuj muzykę z Google Drive, Dropbox, NAS i więcej na iPhone i iPad z odtwarzaniem offline i 10-pasmowym EQ."
 keywords: ["Setapp Mobile", "Evermusic Pro", "odtwarzacz muzyki z chmury", "strumieniowanie muzyki iPhone", "muzyka offline iOS", "aplikacje Setapp iOS", "aplikacja audiofilska iPhone", "aplikacja equalizer iOS", "muzyka NAS iPhone", "odtwarzacz muzyki z chmury", "aplikacja muzyczna Setapp", "strumieniowanie muzyki z Google Drive iPhone"]
 tags: ["evermusic", "setapp", "chmura", "audio", "mobilny", "marketplace", "muzyka", "aplikacje ios"]
-draft: false
 cascade:
   type: docs
 authors:

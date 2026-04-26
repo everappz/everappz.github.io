@@ -4,7 +4,6 @@ date: 2017-01-25
 description: "Flacbox 1.6 ל-iOS מוסיף סנכרון ענן אוטומטי, אקולייזר 10 פסים, תמיכה בפורמט OPUS והשמעה מכונן חיצוני ל-iPhone ו-iPad."
 keywords: ["עדכון Flacbox", "נגן FLAC iOS", "אקולייזר 10 פסים iPhone", "סנכרון מוזיקה אוטומטי", "נגינת OPUS באייפון", "מוזיקה מכונן חיצוני", "הזרמת FLAC iOS", "אפליקציית מוזיקה hi-res iPhone", "אקולייזר Flacbox", "נגן מוזיקה כרטיס SD iOS"]
 tags: ["Flacbox", "אקולייזר", "ספריית מוזיקה", "OPUS", "FLAC", "אחסון חיצוני", "סנכרון", "נגן שמע", "אפליקציות iOS", "עדכון"]
-draft: false
 cascade:
   type: docs
 authors:

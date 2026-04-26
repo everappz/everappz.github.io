@@ -5,7 +5,6 @@ description: "Discover how to control playback speed on SoundCloud using the fre
 keywords: ["soundcloud", "playback speed", "soundy", "audiobooks", "podcasts", "ios", "equalizer", "speed control"]
 tags: ["playback", "SoundCloud", "podcasts", "speed", "audiobooks"]
 readingTime: 2
-draft: false
 aliases:
   - /post/how-to-increase-playback-speed-on-soundcloud/
   - /single-post/How-to-increase-playback-speed-on-SoundCloud/

@@ -1,6 +1,5 @@
 ---
 date: '2025-06-12T17:00:00+00:00'
-draft: false
 title: 'Evervideo'
 description: 'Explore Evervideo — the HD video player for iOS and macOS. Stream from cloud, watch offline, manage video collections, and sync playlists with ease.'
 keywords: [

@@ -4,7 +4,6 @@ date: 2025-06-24
 description: "אוטומציה של ייצוא בלוג Wix באמצעות Python, Selenium ו-OpenAI. חילוץ תוכן דינמי, הורדת תמונות והמרת HTML ל-Markdown נקי עבור Hugo או Jekyll."
 keywords: ["ייצוא בלוג Wix", "המרת HTML ל-markdown", "המרת markdown OpenAI", "wix ל-markdown", "הגירת בלוג SEO", "הגירת wix ל-hugo", "scraper beautifulsoup", "רינדור HTML selenium", "אוטומציית API OpenAI", "הגירת wix לאתר סטטי", "scraper בלוג wix python"]
 tags: ["wix", "markdown", "הגירת בלוג", "openai", "scraping", "beautifulsoup", "selenium", "אוטומציה", "SEO", "מדריך"]
-draft: false
 cascade:
   type: docs
 authors:

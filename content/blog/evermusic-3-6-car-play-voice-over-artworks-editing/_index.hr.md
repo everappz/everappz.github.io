@@ -4,7 +4,6 @@ date: 2019-05-19
 description: "Evermusic 3.6 dodaje podršku za CarPlay, pristupačnost VoiceOver, mješoviti audio izlaz, uređivanje naslovnica i uvoz iz iCloud Drive."
 keywords: ["Evermusic CarPlay", "glazbeni player CarPlay iPhone", "VoiceOver glazbena aplikacija iOS", "FLAC uređivač oznaka iPhone", "uređivanje naslovnice albuma iOS", "uvoz glazbe iCloud Drive", "audio player pristupačnost iOS", "mješoviti audio izlaz iPhone"]
 tags: ["Evermusic", "CarPlay", "VoiceOver", "pristupačnost", "iCloud Drive", "uređivač oznaka", "uređivanje naslovnica", "iOS ažuriranje"]
-draft: false
 cascade:
   type: docs
 authors:

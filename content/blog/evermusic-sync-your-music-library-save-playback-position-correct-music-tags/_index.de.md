@@ -4,7 +4,6 @@ date: 2016-05-26
 description: "Evermusic 2.3 fügt automatische Cloud-Musiksynchronisierung, Speichern der Wiedergabeposition für Hörbücher, Hintergrund-Metadatenlesung und ID3-Tag-Korrektur hinzu."
 keywords: ["Evermusic", "Cloud-Musikplayer", "Musiksynchronisierung iOS", "Wiedergabeposition speichern", "Hörbuch-Wiedergabe", "Metadatenleser", "ID3-Tags reparieren", "Musik aus der Cloud streamen", "Musik-App für Dropbox", "Google Drive Player", "automatische Musikbibliothek-Synchronisierung", "Hörbuchposition speichern iOS"]
 tags: ["evermusic", "Musik", "Wiedergabe", "Manager", "Editor", "Synchronisierung", "Position", "ID3-Tags", "Cloud", "Neuigkeiten"]
-draft: false
 cascade:
   type: docs
 authors:

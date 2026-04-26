@@ -5,7 +5,6 @@ description: "Ketahui cara menstrim dan memuat turun muzik dari WD My Cloud Home
 keywords: ["evermusic", "wd my cloud", "strim muzik", "iphone", "storan NAS", "muzik luar talian", "penyama tersuai", "my cloud home", "pustaka muzik 8TB", "WD MyCloud EX2 Ultra", "MyCloud Mirror"]
 tags: ["evermusic", "muzik", "awan", "iphone", "storan", "nas", "dengar", "jauh", "rumah", "dalam talian", "wd", "mycloud"]
 readingTime: 4
-draft: false
 ---
 
 {{< author-byline >}}

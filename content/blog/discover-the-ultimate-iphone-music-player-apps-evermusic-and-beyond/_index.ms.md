@@ -4,7 +4,6 @@ date: 2020-05-05
 description: "Bandingkan aplikasi pemain muzik iPhone terbaik: Evermusic, Apple Music, Spotify, VLC dan Amazon Music. Ciri-ciri, harga dan sokongan luar talian."
 keywords: ["pemain muzik iPhone terbaik", "aplikasi pemain muzik iOS", "Evermusic vs Spotify", "pemain muzik awan iPhone", "aplikasi muzik luar talian iPhone", "pemain FLAC iOS", "alternatif Apple Music", "VLC iPhone", "pemain muzik percuma iOS"]
 tags: ["aplikasi muzik", "iOS", "Evermusic", "Apple Music", "Spotify", "VLC", "Amazon Music", "perbandingan", "muzik awan", "main balik luar talian"]
-draft: false
 cascade:
   type: docs
 authors:

@@ -4,7 +4,6 @@ date: 2025-06-24
 description: "อัตโนมัติการส่งออกบล็อก Wix โดยใช้ Python, Selenium และ OpenAI แยกเนื้อหาแบบไดนามิก ดาวน์โหลดรูปภาพ และแปลง HTML เป็น Markdown สำหรับ Hugo หรือ Jekyll"
 keywords: ["ส่งออกบล็อก Wix", "แปลง HTML เป็น markdown", "OpenAI แปลง markdown", "wix เป็น markdown", "ย้ายบล็อก SEO", "ย้าย wix เป็น hugo", "beautifulsoup scraper", "selenium เรนเดอร์ HTML", "OpenAI API อัตโนมัติ", "ย้าย wix เป็นเว็บไซต์แบบสถิต", "wix blog scraper python"]
 tags: ["wix", "markdown", "ย้ายบล็อก", "openai", "scraping", "beautifulsoup", "selenium", "อัตโนมัติ", "SEO", "บทเรียน"]
-draft: false
 cascade:
   type: docs
 authors:

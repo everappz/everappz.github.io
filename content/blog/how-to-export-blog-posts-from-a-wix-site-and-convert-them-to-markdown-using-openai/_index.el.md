@@ -4,7 +4,6 @@ date: 2025-06-24
 description: "Αυτοματοποιήστε την εξαγωγή blog Wix με Python, Selenium και OpenAI. Εξαγάγετε δυναμικό περιεχόμενο, κατεβάστε εικόνες και μετατρέψτε HTML σε καθαρό Markdown για Hugo ή Jekyll."
 keywords: ["εξαγωγή blog Wix", "μετατροπή HTML σε markdown", "μετατροπή OpenAI σε markdown", "wix σε markdown", "μετάβαση blog SEO", "μετάβαση wix σε hugo", "scraper beautifulsoup", "απόδοση HTML με selenium", "αυτοματοποίηση OpenAI API", "μετάβαση wix σε στατικό site", "scraper blog wix python"]
 tags: ["wix", "markdown", "μετάβαση blog", "openai", "scraping", "beautifulsoup", "selenium", "αυτοματοποίηση", "SEO", "οδηγός"]
-draft: false
 cascade:
   type: docs
 authors:

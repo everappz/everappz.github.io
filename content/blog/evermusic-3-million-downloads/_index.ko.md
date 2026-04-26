@@ -4,7 +4,6 @@ date: 2017-11-08
 description: "Evermusic이 300만 다운로드를 달성했습니다. 클라우드 음악 스트리밍, 오프라인 재생, 10밴드 EQ, 오디오북 지원, 파일 관리자, ID3 태그 편집기를 살펴보세요."
 keywords: ["Evermusic 다운로드", "iOS 음악 플레이어", "클라우드 음악 앱", "오프라인 음악 플레이어 iPhone", "음악 다운로더 iOS", "오디오북 플레이어 iPhone", "ID3 태그 편집기 iOS", "iPhone 파일 관리자", "음악 이퀄라이저 앱", "최고의 클라우드 음악 플레이어", "NAS에서 iPhone으로 음악 스트리밍"]
 tags: ["Evermusic", "다운로드", "마일스톤", "음악 앱", "클라우드 플레이어", "오프라인 플레이어", "태그 편집기", "이퀄라이저", "오디오북", "파일 관리자"]
-draft: false
 cascade:
   type: docs
 authors:

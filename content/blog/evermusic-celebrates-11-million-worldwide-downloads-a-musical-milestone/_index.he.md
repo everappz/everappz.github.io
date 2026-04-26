@@ -4,7 +4,6 @@ date: 2023-09-06
 description: "Evermusic מגיע ל-11 מיליון הורדות. ראו את התכונות שהפכו אותו לנגן מוזיקה ענן מוביל: אקולייזר, מצב לא מקוון, iCloud ועוד."
 keywords: ["Evermusic 11 מיליון הורדות", "נגן מוזיקה ענן הטוב ביותר iOS", "נגן מוזיקה לא מקוון iPhone", "הזרמת מוזיקה iCloud Drive", "אפליקציית אקולייזר 10 פסים", "עורך תגיות ID3 iOS", "סנכרון נגן מוזיקה Mac iPhone", "נגן FLAC iPhone"]
 tags: ["Evermusic", "אבן דרך", "מוזיקה בענן", "השמעה לא מקוונת", "iCloud Drive", "אקולייזר", "נגן מוזיקה iOS"]
-draft: false
 cascade:
   type: docs
 authors:

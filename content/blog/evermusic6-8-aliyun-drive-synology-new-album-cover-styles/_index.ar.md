@@ -4,7 +4,6 @@ date: 2024-09-17
 description: "يضيف Evermusic 6.8 دعم Aliyun Drive وSynology NAS، تأثيرات تمرير جديدة لأغلفة الألبومات، شاشة مشغل مبسطة، إدارة ملفات بالسحب والإفلات، وتحميل أسرع للأعمال الفنية."
 keywords: ["تحديث Evermusic", "مشغل موسيقى Aliyun Drive", "موسيقى Synology NAS", "مشغل موسيقى سحابي iOS", "مشغل صوتي iOS", "أنماط أغلفة الألبومات", "سحب وإفلات متصفح الملفات", "Evermusic 6.8", "مشغل FLAC iOS", "مشغل موسيقى QuickConnect", "بث موسيقى NAS iPhone"]
 tags: ["Evermusic", "Aliyun Drive", "Synology", "أغلفة الألبومات", "موسيقى سحابية", "تطبيق موسيقى iOS", "ما الجديد"]
-draft: false
 cascade:
   type: docs
 authors:

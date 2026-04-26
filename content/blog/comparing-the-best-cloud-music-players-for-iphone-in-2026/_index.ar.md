@@ -4,7 +4,6 @@ date: 2026-04-22
 description: "قارن بين 7 مشغلات موسيقى سحابية رائدة لأجهزة iPhone: Apple Music وSpotify وEvermusic والمزيد. الميزات والأسعار ودعم الاستخدام دون اتصال وتوافق الصيغ."
 keywords: ["مشغل موسيقى سحابي iPhone", "أفضل تطبيقات الموسيقى لـ iPhone", "Evermusic مقابل Spotify", "تطبيق موسيقى أوفلاين iOS", "بديل Apple Music", "تشغيل FLAC على iPhone", "بث موسيقى سحابي", "مشغل صوت iPhone", "مشغل موسيقى لـ Dropbox", "تشغيل ملفات موسيقية خاصة على iPhone"]
 tags: ["music", "streaming", "apps", "iOS", "cloud music", "Evermusic", "Spotify", "Apple Music", "YouTube Music", "SoundCloud", "comparison"]
-draft: false
 cascade:
   type: docs
 authors:

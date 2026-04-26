@@ -4,7 +4,6 @@ date: 2018-06-19
 description: "Evermusic 3.1 thêm phát crossfade, thư viện nhạc được thiết kế lại, sao lưu và khôi phục đám mây, tích hợp iPod và cải thiện chỉnh sửa thẻ cho iOS."
 keywords: ["cập nhật Evermusic", "phát crossfade iOS", "ứng dụng nhạc đám mây", "ứng dụng sao lưu nhạc", "hàng đợi trình phát âm thanh", "trình chỉnh sửa thẻ nhạc", "cập nhật thẻ ID3", "tích hợp thư viện iPod", "trình phát nhạc iPhone", "crossfade nhạc iOS", "đồng bộ thư viện nhạc đám mây", "sao lưu danh sách phát nhạc iOS"]
 tags: ["Evermusic", "crossfade", "thư viện nhạc", "sao lưu", "hàng đợi âm thanh", "thẻ", "trình phát đám mây", "trình phát offline", "trình chỉnh sửa", "thư viện iPod"]
-draft: false
 cascade:
   type: docs
 authors:

@@ -4,7 +4,6 @@ date: 2020-05-05
 description: "So sánh các ứng dụng nghe nhạc iPhone tốt nhất: Evermusic, Apple Music, Spotify, VLC và Amazon Music. Tính năng, giá cả và hỗ trợ ngoại tuyến."
 keywords: ["trình phát nhạc iPhone tốt nhất", "ứng dụng nghe nhạc iOS", "Evermusic vs Spotify", "trình phát nhạc đám mây iPhone", "ứng dụng nhạc ngoại tuyến iPhone", "trình phát FLAC iOS", "thay thế Apple Music", "VLC iPhone", "trình phát nhạc miễn phí iOS"]
 tags: ["ứng dụng nhạc", "iOS", "Evermusic", "Apple Music", "Spotify", "VLC", "Amazon Music", "so sánh", "nhạc đám mây", "phát ngoại tuyến"]
-draft: false
 cascade:
   type: docs
 authors:

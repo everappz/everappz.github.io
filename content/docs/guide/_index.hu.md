@@ -1,6 +1,5 @@
 ---
 date: '2025-06-12T17:00:00+00:00'
-draft: false
 title: 'Felhasználói kézikönyv'
 description: 'Ismerje meg, hogyan használja az Everappz alkalmazásokat, mint az Evermusic, Flacbox, Evervideo és Evertag. Állítson be felhőkapcsolatokat, kezelje zenéjét és videóit, szabja testre a lejátszást, és fedezze fel az összes funkciót egy helyen.'
 keywords: ["Evermusic felhasználói kézikönyv", "Flacbox használata", "Evervideo támogatás", "Evertag kézikönyv", "felhő zeneszlejátszó beállítása", "offline lejátszás segítség", "hangtag-szerkesztő útmutató", "Apple CarPlay zenei útmutató", "AirPlay videólejátszó útmutató", "hangszínszabályozó konfiguráció"]

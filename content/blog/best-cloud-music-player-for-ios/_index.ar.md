@@ -4,7 +4,6 @@ date: 2025-01-05
 description: "يتصل Evermusic بأكثر من 12 خدمة سحابية، ويشغل ملفات FLAC وMP3 دون اتصال، ويدير مكتبتك الموسيقية. اكتشف لماذا هو أفضل مشغل موسيقى سحابي لأجهزة iOS."
 keywords: ["أفضل مشغل موسيقى سحابي iOS", "مشغل موسيقى سحابي iPhone", "تشغيل الموسيقى من Dropbox", "مشغل موسيقى بدون إنترنت iPhone", "مشغل FLAC iOS", "مراجعة Evermusic", "مدير مكتبة موسيقى iOS", "مشغل موسيقى Google Drive", "مشغل موسيقى NAS iPhone", "مشغل موسيقى WebDAV"]
 tags: ["Evermusic", "cloud music", "offline playback", "iOS music apps", "MP3 player", "audio", "music streaming", "guide", "FLAC", "review"]
-draft: false
 cascade:
   type: docs
 authors:

@@ -5,7 +5,6 @@ description: "Learn how to redeem promo codes to install apps or unlock in-app p
 keywords: ["redeem promo code", "appstore", "in-app purchase", "ios", "mac", "free apps", "install apps", "promo"]
 tags: ["promo", "appstore", "install", "redeem", "code", "free"]
 readingTime: 2
-draft: false
 aliases:
   - /post/how-to-install-app-from-the-app-store-using-redeem-promo-code/
 ---

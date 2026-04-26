@@ -4,7 +4,6 @@ date: 2015-06-20
 description: "Ismerje meg, hogyan streamelhető és gyorsítótárazható az audio iOS rendszeren az AVAssetResourceLoaderDelegate és az AVPlayer segítségével egyéni URL-sémákkal és lemezgyorsítótárral."
 keywords: ["iOS audio streaming", "AVAssetResourceLoaderDelegate", "AVURLAsset", "AVPlayer útmutató", "AVFoundation audio", "AVAssetResourceLoadingRequest", "egyéni audio lejátszó iOS", "felhő audio streaming iOS", "audio gyorsítótárazás iOS", "Swift AVPlayer egyéni séma"]
 tags: ["streaming", "AVPlayer", "AVFoundation", "iOS", "AVAssetResourceLoader", "tutorial", "Objective-C", "audio caching"]
-draft: false
 cascade:
   type: docs
 authors:

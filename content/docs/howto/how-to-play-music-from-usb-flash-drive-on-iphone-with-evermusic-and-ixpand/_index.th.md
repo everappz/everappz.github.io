@@ -5,7 +5,6 @@ description: "เรียนรู้วิธีใช้ Evermusic กับ 
 keywords: ["evermusic", "ixpand", "sandisk", "ไดรฟ์ usb", "แฟลชไดรฟ์", "เพลงภายนอก", "เครื่องเล่นเพลง iphone", "ตัวจัดการไฟล์", "ที่เก็บข้อมูล lightning", "เล่นเพลงจาก usb", "การเข้าถึงไฟล์ iphone"]
 tags: ["เพลง", "usb", "ภายนอก", "ixpand", "sandisk", "iphone", "evermusic"]
 readingTime: 3
-draft: false
 ---
 
 {{< author-byline >}}

@@ -4,7 +4,6 @@ date: 2019-12-01
 description: "Guarda il video promozionale di Evermusic che mostra lo streaming musicale cloud, la riproduzione offline e le funzionalità dell'equalizzatore su iPhone e Mac."
 keywords: ["video promo Evermusic", "lettore musicale iOS", "app musica cloud iPhone", "demo app Evermusic", "miglior lettore musicale iPhone", "lettore musica offline iOS"]
 tags: ["Evermusic", "promo", "musica", "video", "musica cloud", "app iOS"]
-draft: false
 sidebar:
   exclude: true
 cascade:

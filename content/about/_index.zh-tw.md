@@ -1,6 +1,5 @@
 ---
 date: '2025-06-12T17:00:00+00:00'
-draft: false
 title: '關於我們'
 description: 'Everappz S.L. 是一家西班牙軟體公司，專注於開發 iOS 和 macOS 音視頻應用程式。旗下產品 Evermusic（1100萬次下載）、Flacbox、EverTag、EverVideo 和 Soundy 在全球累計下載量超過 1400 萬次。'
 ---

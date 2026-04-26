@@ -4,7 +4,6 @@ date: 2025-06-24
 description: "Python, Selenium ve OpenAI kullanarak Wix blog aktarımını otomatikleştirin. Dinamik içeriği çıkarın, görselleri indirin ve HTML'yi Hugo veya Jekyll için temiz Markdown'a dönüştürün."
 keywords: ["Wix blog aktarımı", "HTML'yi markdown'a dönüştürme", "OpenAI markdown dönüşümü", "wix'ten markdown'a", "SEO blog taşıma", "wix'ten hugo'ya taşıma", "beautifulsoup scraper", "selenium HTML işleme", "OpenAI API otomasyonu", "wix'ten statik siteye taşıma", "wix blog scraper python"]
 tags: ["wix", "markdown", "blog taşıma", "openai", "scraping", "beautifulsoup", "selenium", "otomasyon", "SEO", "rehber"]
-draft: false
 cascade:
   type: docs
 authors:

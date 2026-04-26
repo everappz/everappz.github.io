@@ -4,7 +4,6 @@ date: 2025-01-05
 description: "Evermusic 连接12个以上云服务，离线播放 FLAC 和 MP3，并管理您的音乐库。了解它为何是 iOS 最佳云端音乐播放器。"
 keywords: ["iOS 最佳云端音乐播放器", "iPhone 云端音乐播放器", "从 Dropbox 播放音乐", "iPhone 离线音乐播放器", "iOS FLAC 播放器", "Evermusic 评测", "iOS 音乐库管理器", "Google Drive 音乐播放器", "iPhone NAS 音乐播放器", "WebDAV 音乐播放器"]
 tags: ["Evermusic", "cloud music", "offline playback", "iOS music apps", "MP3 player", "audio", "music streaming", "guide", "FLAC", "review"]
-draft: false
 cascade:
   type: docs
 authors:

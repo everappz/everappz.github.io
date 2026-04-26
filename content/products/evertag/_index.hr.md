@@ -1,6 +1,5 @@
 ---
 date: '2025-06-12T17:00:00+00:00'
-draft: false
 title: 'Evertag - Uređivač glazbenih oznaka za iPhone i Mac'
 layout: hextra-home
 description: "Držite svoju glazbenu biblioteku organiziranom. Pronađite oznake koje nedostaju. Grupno uređivanje. Promijenite omote albuma i još mnogo toga."

@@ -1,5 +1,4 @@
 ---
-draft: false
 title: 'Feliratkozás'
 sitemap:
   disable: true

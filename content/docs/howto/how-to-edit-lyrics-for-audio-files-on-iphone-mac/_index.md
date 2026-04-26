@@ -5,7 +5,6 @@ description: "Easily edit lyrics, ID3 tags, and metadata for MP3 and FLAC audio 
 keywords: ["edit lyrics", "mp3 tag editor", "id3 tag editor", "audio metadata", "iphone music editor", "evertag app"]
 tags: ["lyrics", "mp3", "id3", "metadata", "iphone", "audio editing"]
 readingTime: 2
-draft: false
 ---
 
 {{< author-byline >}}

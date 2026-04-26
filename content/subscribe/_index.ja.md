@@ -1,5 +1,4 @@
 ---
-draft: false
 title: '購読する'
 sitemap:
   disable: true

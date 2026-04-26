@@ -4,7 +4,6 @@ date: 2019-12-01
 description: "iPhone और Mac पर क्लाउड म्यूजिक स्ट्रीमिंग, ऑफलाइन प्लेबैक और इक्वलाइज़र फीचर्स दिखाने वाला Evermusic प्रोमो वीडियो देखें।"
 keywords: ["Evermusic प्रोमो वीडियो", "म्यूजिक प्लेयर iOS", "क्लाउड म्यूजिक ऐप iPhone", "Evermusic ऐप डेमो", "बेस्ट म्यूजिक प्लेयर iPhone", "ऑफलाइन म्यूजिक प्लेयर iOS"]
 tags: ["Evermusic", "प्रोमो", "म्यूजिक", "वीडियो", "क्लाउड म्यूजिक", "iOS ऐप"]
-draft: false
 sidebar:
   exclude: true
 cascade:

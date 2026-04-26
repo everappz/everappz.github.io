@@ -5,7 +5,6 @@ description: "Дізнайтеся, як використовувати Evermusi
 keywords: ["evermusic", "ixpand", "sandisk", "usb накопичувач", "флешка", "зовнішня музика", "музичний плеєр iphone", "файловий менеджер", "сховище lightning", "відтворення музики з usb", "доступ до файлів iphone"]
 tags: ["музика", "usb", "зовнішній", "ixpand", "sandisk", "iphone", "evermusic"]
 readingTime: 3
-draft: false
 ---
 
 {{< author-byline >}}

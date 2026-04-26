@@ -4,7 +4,6 @@ date: 2025-04-05
 description: "Flacbox ile iPhone ve Mac'te FLAC, DSD, ALAC ve 120+ ses formatı çalın. Bulut, Wi-Fi veya USB ile içe aktarın. 10 bantlı EQ ve çevrimdışı oynatma içerir."
 keywords: ["kayıpsız müzik çalar", "FLAC çalar iOS", "DSD çalar iPhone", "hi-res ses Mac", "Flacbox uygulaması", "en iyi FLAC çalar iPhone", "çevrimdışı FLAC çalar", "audiofil müzik çalar iOS", "Mac FLAC çalar", "hi-res akış iOS", "iPhone'da FLAC çalma", "DSD128 çalar", "kayıpsız ses uygulaması"]
 tags: ["flacbox", "müzik", "ses", "kayıpsız", "iphone", "mac", "flac", "dsd", "audiofil"]
-draft: false
 cascade:
   type: docs
 authors:

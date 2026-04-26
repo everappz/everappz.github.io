@@ -1,6 +1,5 @@
 ---
 date: '2025-06-12T17:00:00+00:00'
-draft: false
 title: 'Ghid de utilizare'
 description: 'Află cum să folosești aplicațiile Everappz precum Evermusic, Flacbox, Evervideo și Evertag. Configurează conexiunile cloud, gestionează muzica și videoclipurile, personalizează redarea și explorează toate funcțiile într-un singur loc.'
 keywords: [

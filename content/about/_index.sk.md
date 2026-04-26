@@ -1,6 +1,5 @@
 ---
 date: '2025-06-12T17:00:00+00:00'
-draft: false
 title: 'O nás'
 description: 'Everappz S.L. je španielska softvérová spoločnosť vyvíjajúca aplikácie pre iOS a macOS pre audio a video. Tvorcovia Evermusic (11M stiahnutí), Flacbox, EverTag, EverVideo a Soundy — viac ako 14 miliónov stiahnutí po celom svete.'
 ---

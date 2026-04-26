@@ -4,7 +4,6 @@ date: 2019-05-19
 description: "Evermusic 3.6 thêm hỗ trợ CarPlay, khả năng tiếp cận VoiceOver, đầu ra âm thanh hỗn hợp, chỉnh sửa ảnh bìa và nhập từ iCloud Drive."
 keywords: ["Evermusic CarPlay", "trình phát nhạc CarPlay iPhone", "ứng dụng nhạc VoiceOver iOS", "trình chỉnh sửa thẻ FLAC iPhone", "chỉnh sửa ảnh bìa album iOS", "nhập nhạc từ iCloud Drive", "khả năng tiếp cận trình phát âm thanh iOS", "đầu ra âm thanh hỗn hợp iPhone"]
 tags: ["Evermusic", "CarPlay", "VoiceOver", "khả năng tiếp cận", "iCloud Drive", "trình chỉnh sửa thẻ", "chỉnh sửa ảnh bìa", "cập nhật iOS"]
-draft: false
 cascade:
   type: docs
 authors:

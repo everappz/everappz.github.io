@@ -5,7 +5,6 @@ description: "Lær hvordan du afspiller din egen lokale eller offline musik på 
 keywords: ["carplay musik", "afspil egen musik på iphone", "iphone lokal musik", "carplay offline musik", "evermusic", "flacbox", "iphone mp3 afspiller"]
 tags: ["carplay", "iphone", "lokal musik", "offline afspilning", "evermusic", "flacbox"]
 readingTime: 5
-draft: false
 ---
 
 {{< author-byline >}}

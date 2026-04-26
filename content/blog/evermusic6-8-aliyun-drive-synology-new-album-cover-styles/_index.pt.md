@@ -4,7 +4,6 @@ date: 2024-09-17
 description: "Evermusic 6.8 adiciona suporte a Aliyun Drive e Synology NAS, novos efeitos de rolagem de capas de álbum, tela de reprodutor mínima, gerenciamento de arquivos arrastar e soltar e carregamento mais rápido de artes."
 keywords: ["atualização Evermusic", "reprodutor de música Aliyun Drive", "música Synology NAS", "reprodutor de música em nuvem iOS", "reprodutor de áudio iOS", "estilos de capa de álbum", "navegador de arquivos arrastar e soltar", "Evermusic 6.8", "reprodutor FLAC iOS", "reprodutor de música QuickConnect", "streaming de música NAS iPhone"]
 tags: ["Evermusic", "Aliyun Drive", "Synology", "Capas de Álbum", "Música em Nuvem", "App de Música iOS", "Novidades"]
-draft: false
 cascade:
   type: docs
 authors:

@@ -4,7 +4,6 @@ date: 2020-05-05
 description: "เปรียบเทียบแอปเครื่องเล่นเพลง iPhone ที่ดีที่สุด: Evermusic, Apple Music, Spotify, VLC และ Amazon Music คุณสมบัติ ราคา และการรองรับออฟไลน์"
 keywords: ["เครื่องเล่นเพลง iPhone ที่ดีที่สุด", "แอปเครื่องเล่นเพลง iOS", "Evermusic vs Spotify", "เครื่องเล่นเพลงบนคลาวด์ iPhone", "แอปเพลงออฟไลน์ iPhone", "เครื่องเล่น FLAC iOS", "ทางเลือกแทน Apple Music", "VLC iPhone", "เครื่องเล่นเพลงฟรี iOS"]
 tags: ["แอปเพลง", "iOS", "Evermusic", "Apple Music", "Spotify", "VLC", "Amazon Music", "การเปรียบเทียบ", "เพลงบนคลาวด์", "การเล่นออฟไลน์"]
-draft: false
 cascade:
   type: docs
 authors:

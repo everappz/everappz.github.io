@@ -1,6 +1,5 @@
 ---
 date: '2025-06-12T17:00:00+00:00'
-draft: false
 title: '사용 방법'
 description: 'Everappz 앱을 설정하고 사용하며 최대한 활용하는 데 도움이 되는 단계별 가이드와 팁.'
 excludeSearch: true

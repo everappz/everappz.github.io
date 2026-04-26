@@ -4,7 +4,6 @@ date: 2015-06-20
 description: "Pelajari cara menstream dan menyimpan cache audio dalam iOS menggunakan AVAssetResourceLoaderDelegate dan AVPlayer dengan skim URL tersuai dan caching cakera."
 keywords: ["penstriman audio iOS", "AVAssetResourceLoaderDelegate", "AVURLAsset", "tutorial AVPlayer", "audio AVFoundation", "AVAssetResourceLoadingRequest", "pemain audio tersuai iOS", "penstriman audio awan iOS", "caching audio iOS", "Swift AVPlayer skim tersuai"]
 tags: ["streaming", "AVPlayer", "AVFoundation", "iOS", "AVAssetResourceLoader", "tutorial", "Objective-C", "audio caching"]
-draft: false
 cascade:
   type: docs
 authors:

@@ -4,7 +4,6 @@ date: 2026-04-22
 description: "Jämför 7 topp molnbaserade musikspelare för iPhone: Apple Music, Spotify, Evermusic och mer. Funktioner, priser, offline-stöd och formatkompatibilitet."
 keywords: ["molnbaserad musikspelare iPhone", "bästa musikappar för iPhone", "Evermusic vs Spotify", "offline musik-app iOS", "Apple Music alternativ", "spela FLAC på iPhone", "molnbaserad musikströmning", "iPhone ljudspelare", "musikspelare för Dropbox", "spela egna musikfiler iPhone"]
 tags: ["music", "streaming", "apps", "iOS", "cloud music", "Evermusic", "Spotify", "Apple Music", "YouTube Music", "SoundCloud", "comparison"]
-draft: false
 cascade:
   type: docs
 authors:

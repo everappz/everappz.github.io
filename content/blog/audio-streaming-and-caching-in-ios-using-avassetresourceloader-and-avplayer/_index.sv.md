@@ -4,7 +4,6 @@ date: 2015-06-20
 description: "Lär dig att streama och cacha ljud i iOS med AVAssetResourceLoaderDelegate och AVPlayer med anpassade URL-scheman och diskcachning."
 keywords: ["iOS audio streaming", "AVAssetResourceLoaderDelegate", "AVURLAsset", "AVPlayer handledning", "AVFoundation audio", "AVAssetResourceLoadingRequest", "anpassad ljudspelare iOS", "moln-ljud-streaming iOS", "ljud-cachning iOS", "Swift AVPlayer anpassat schema"]
 tags: ["streaming", "AVPlayer", "AVFoundation", "iOS", "AVAssetResourceLoader", "tutorial", "Objective-C", "audio caching"]
-draft: false
 cascade:
   type: docs
 authors:

@@ -4,7 +4,6 @@ date: 2019-05-19
 description: "Evermusic 3.6 מוסיף תמיכה ב-CarPlay, נגישות VoiceOver, פלט שמע מעורב, עריכת עטיפות וייבוא מ-iCloud Drive."
 keywords: ["Evermusic CarPlay", "נגן מוזיקה CarPlay iPhone", "אפליקציית מוזיקה VoiceOver iOS", "עורך תגיות FLAC iPhone", "עריכת עטיפת אלבום iOS", "ייבוא מוזיקה iCloud Drive", "נגן שמע נגישות iOS", "פלט שמע מעורב iPhone"]
 tags: ["Evermusic", "CarPlay", "VoiceOver", "נגישות", "iCloud Drive", "עורך תגיות", "עריכת עטיפות", "עדכון iOS"]
-draft: false
 cascade:
   type: docs
 authors:

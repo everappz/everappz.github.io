@@ -5,7 +5,6 @@ description: "Opi toistamaan omaa paikallista tai offline-musiikkia iPhonellasi 
 keywords: ["carplay musiikki", "toista omaa musiikkia iphonella", "iphone paikallinen musiikki", "carplay offline musiikki", "evermusic", "flacbox", "iphone mp3 soitin"]
 tags: ["carplay", "iphone", "paikallinen musiikki", "offline toisto", "evermusic", "flacbox"]
 readingTime: 5
-draft: false
 ---
 
 {{< author-byline >}}

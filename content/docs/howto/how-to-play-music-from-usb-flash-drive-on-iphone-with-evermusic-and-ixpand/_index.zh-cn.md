@@ -5,7 +5,6 @@ description: "了解如何使用 Evermusic 配合 SanDisk iXpand Flash Drive 在
 keywords: ["evermusic", "ixpand", "sandisk", "usb 驱动器", "闪存驱动器", "外部音乐", "iphone 音乐播放器", "文件管理器", "lightning 存储", "从 usb 播放音乐", "iphone 文件访问"]
 tags: ["音乐", "usb", "外部", "ixpand", "sandisk", "iphone", "evermusic"]
 readingTime: 3
-draft: false
 ---
 
 {{< author-byline >}}

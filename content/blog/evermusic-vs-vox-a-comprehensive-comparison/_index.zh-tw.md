@@ -4,7 +4,6 @@ date: 2020-03-04
 description: "Evermusic vs VOX 在8個類別中進行比較：雲端儲存、有聲書、標籤編輯、Wi-Fi傳輸等。看看哪個iOS音樂播放器勝出。"
 keywords: ["Evermusic vs VOX", "VOX替代品iOS", "最佳音樂播放器iPhone", "雲端音樂播放器比較", "有聲書播放器iOS", "ID3標籤編輯器iPhone", "Wi-Fi音樂應用", "FLAC播放器iPhone", "雲端儲存音樂播放器", "VOX Cloud替代品"]
 tags: ["比較", "evermusic", "vox", "雲端", "有聲書", "標籤", "串流", "應用程式", "音樂播放器", "ios"]
-draft: false
 sidebar:
   exclude: true
 cascade:

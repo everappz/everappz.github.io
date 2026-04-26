@@ -4,7 +4,6 @@ date: 2016-05-26
 description: "הזרימו מוזיקה מ-Google Drive, Dropbox או OneDrive באייפון ובאייפד עם Evermusic. שחררו מקום באחסון המכשיר והאזינו אופליין ללא סנכרון iTunes."
 keywords: ["Evermusic", "נגן מוזיקה בענן", "אפליקציית מוזיקה iOS", "הזרמת מוזיקה מהענן", "מוזיקה אופליין אייפון", "נגן מוזיקה Google Drive", "הזרמת מוזיקה Dropbox", "נגן MP3 אייפון", "שחרור מקום באייפון", "מוזיקה מ-SMB", "נגן מוזיקה מאחסון ענן iOS", "נגן מוזיקה ללא iTunes"]
 tags: ["אודיו", "הזרמה", "נגן", "mp3", "הורדה", "GoogleDrive", "Dropbox", "מוזיקה בענן", "השמעה אופליין"]
-draft: false
 cascade:
   type: docs
 authors:

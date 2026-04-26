@@ -4,7 +4,6 @@ date: 2020-03-04
 description: "Comparación de Evermusic y VOX en 8 categorías: almacenamiento en la nube, audiolibros, edición de etiquetas, transferencia Wi-Fi y más. Descubre qué reproductor de música iOS gana."
 keywords: ["Evermusic vs VOX", "alternativa a VOX iOS", "mejor reproductor de música iPhone", "comparación de reproductores de música en la nube", "reproductor de audiolibros iOS", "editor de etiquetas ID3 iPhone", "aplicación de música Wi-Fi Drive", "reproductor FLAC iPhone", "reproductor de música para almacenamiento en la nube", "alternativa a VOX Cloud"]
 tags: ["comparación", "evermusic", "vox", "nube", "audiolibros", "etiquetas", "streaming", "aplicaciones", "reproductor de música", "ios"]
-draft: false
 sidebar:
   exclude: true
 cascade:

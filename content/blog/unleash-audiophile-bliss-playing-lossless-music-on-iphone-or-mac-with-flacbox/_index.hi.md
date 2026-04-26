@@ -4,7 +4,6 @@ date: 2025-04-05
 description: "Flacbox से iPhone और Mac पर FLAC, DSD, ALAC और 120+ ऑडियो फॉर्मेट चलाएं। क्लाउड, Wi-Fi या USB से इम्पोर्ट करें। 10-बैंड EQ और ऑफ़लाइन प्लेबैक शामिल।"
 keywords: ["lossless म्यूजिक प्लेयर", "FLAC प्लेयर iOS", "DSD प्लेयर iPhone", "hi-res ऑडियो Mac", "Flacbox ऐप", "सबसे अच्छा FLAC प्लेयर iPhone", "ऑफ़लाइन FLAC प्लेयर", "ऑडियोफाइल म्यूजिक प्लेयर iOS", "Mac FLAC प्लेयर", "hi-res स्ट्रीमिंग iOS", "iPhone पर FLAC चलाएं", "DSD128 प्लेयर", "lossless ऑडियो ऐप"]
 tags: ["flacbox", "म्यूजिक", "ऑडियो", "lossless", "iphone", "mac", "flac", "dsd", "ऑडियोफाइल"]
-draft: false
 cascade:
   type: docs
 authors:

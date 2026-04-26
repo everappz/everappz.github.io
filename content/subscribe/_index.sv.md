@@ -1,5 +1,4 @@
 ---
-draft: false
 title: 'Prenumerera'
 sitemap:
   disable: true

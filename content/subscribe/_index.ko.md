@@ -1,5 +1,4 @@
 ---
-draft: false
 title: '구독하기'
 sitemap:
   disable: true

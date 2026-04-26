@@ -4,7 +4,6 @@ date: 2020-05-05
 description: "比较最佳iPhone音乐播放器应用：Evermusic、Apple Music、Spotify、VLC和Amazon Music。功能、价格和离线支持。"
 keywords: ["最佳iPhone音乐播放器", "iOS音乐播放器应用", "Evermusic vs Spotify", "云音乐播放器iPhone", "离线音乐应用iPhone", "FLAC播放器iOS", "Apple Music替代品", "VLC iPhone", "免费音乐播放器iOS"]
 tags: ["音乐应用", "iOS", "Evermusic", "Apple Music", "Spotify", "VLC", "Amazon Music", "对比", "云音乐", "离线播放"]
-draft: false
 cascade:
   type: docs
 authors:

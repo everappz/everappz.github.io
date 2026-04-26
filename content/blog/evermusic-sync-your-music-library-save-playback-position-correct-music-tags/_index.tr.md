@@ -4,7 +4,6 @@ date: 2016-05-26
 description: "Evermusic 2.3, otomatik bulut müzik senkronizasyonu, sesli kitaplar için oynatma konumu kaydetme, arka planda meta veri okuma ve ID3 etiketi düzeltme özellikleri ekler."
 keywords: ["Evermusic", "bulut müzik çalar", "müzik senkronizasyonu iOS", "oynatma konumunu kaydet", "sesli kitap oynatma", "meta veri okuyucu", "ID3 etiketlerini düzelt", "buluttan müzik yayını", "Dropbox müzik uygulaması", "Google Drive oynatıcı", "otomatik müzik kütüphanesi senkronizasyonu", "sesli kitap konumu kaydetme iOS"]
 tags: ["evermusic", "müzik", "oynatma", "yönetici", "düzenleyici", "senkronizasyon", "konum", "id3etiketleri", "bulut", "yenilikler"]
-draft: false
 cascade:
   type: docs
 authors:

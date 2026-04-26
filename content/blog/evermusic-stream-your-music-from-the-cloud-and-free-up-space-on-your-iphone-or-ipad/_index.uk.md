@@ -4,7 +4,6 @@ date: 2016-05-26
 description: "Відтворюйте музику з Google Drive, Dropbox або OneDrive на iPhone та iPad за допомогою Evermusic. Звільніть пам'ять пристрою та слухайте офлайн без синхронізації iTunes."
 keywords: ["Evermusic", "хмарний музичний плеєр", "iOS музичний додаток", "потокова музика з хмари", "офлайн музика iPhone", "музичний плеєр Google Drive", "потокове відтворення музики Dropbox", "MP3 плеєр iPhone", "звільнити місце iPhone", "музика з SMB", "відтворення музики з хмарного сховища iOS", "музичний плеєр без iTunes"]
 tags: ["аудіо", "потокове відтворення", "плеєр", "mp3", "завантаження", "GoogleDrive", "Dropbox", "хмарна музика", "офлайн відтворення"]
-draft: false
 cascade:
   type: docs
 authors:

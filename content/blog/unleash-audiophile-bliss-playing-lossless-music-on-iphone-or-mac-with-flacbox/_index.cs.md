@@ -4,7 +4,6 @@ date: 2025-04-05
 description: "Přehrávejte FLAC, DSD, ALAC a 120+ audio formátů na iPhone a Mac s Flacboxem. Import přes cloud, Wi-Fi nebo USB. Zahrnuje 10pásmový ekvalizér a offline přehrávání."
 keywords: ["bezztrátový hudební přehrávač", "FLAC přehrávač iOS", "DSD přehrávač iPhone", "hi-res audio Mac", "aplikace Flacbox", "nejlepší FLAC přehrávač iPhone", "offline FLAC přehrávač", "audiofilní hudební přehrávač iOS", "Mac FLAC přehrávač", "hi-res streaming iOS", "přehrávání FLAC na iPhone", "DSD128 přehrávač", "aplikace bezztrátového audia"]
 tags: ["flacbox", "hudba", "audio", "bezztrátový", "iphone", "mac", "flac", "dsd", "audiofil"]
-draft: false
 cascade:
   type: docs
 authors:

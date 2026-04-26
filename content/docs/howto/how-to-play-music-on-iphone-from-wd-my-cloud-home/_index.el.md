@@ -5,7 +5,6 @@ description: "Μάθετε πώς να κάνετε streaming και λήψη μ
 keywords: ["evermusic", "wd my cloud", "streaming μουσικής", "iphone", "αποθήκευση NAS", "μουσική εκτός σύνδεσης", "προσαρμοσμένος ισοσταθμιστής", "my cloud home", "μουσική βιβλιοθήκη 8TB", "WD MyCloud EX2 Ultra", "MyCloud Mirror"]
 tags: ["evermusic", "μουσική", "cloud", "iphone", "αποθήκευση", "nas", "ακρόαση", "απομακρυσμένη", "σπίτι", "online", "wd", "mycloud"]
 readingTime: 4
-draft: false
 ---
 
 {{< author-byline >}}

@@ -4,7 +4,6 @@ date: 2025-01-05
 description: "Evermusic는 12개 이상의 클라우드 서비스에 연결하고, FLAC 및 MP3를 오프라인으로 재생하며, 음악 라이브러리를 관리합니다. iOS 최고의 클라우드 음악 플레이어인 이유를 확인하세요."
 keywords: ["iOS 최고 클라우드 음악 플레이어", "iPhone 클라우드 음악 플레이어", "Dropbox에서 음악 재생", "iPhone 오프라인 음악 플레이어", "iOS FLAC 플레이어", "Evermusic 리뷰", "iOS 음악 라이브러리 관리자", "Google Drive 음악 플레이어", "iPhone NAS 음악 플레이어", "WebDAV 음악 플레이어"]
 tags: ["Evermusic", "cloud music", "offline playback", "iOS music apps", "MP3 player", "audio", "music streaming", "guide", "FLAC", "review"]
-draft: false
 cascade:
   type: docs
 authors:

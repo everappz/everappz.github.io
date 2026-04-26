@@ -5,7 +5,6 @@ updated: 2024-12-08
 description: "Discover what sets Flacbox Premium apart from the free version. Learn about feature differences, premium plans, and how to sync purchases across devices."
 keywords: ["Flacbox Premium", "Flacbox vs Premium", "audio player upgrade", "music player comparison", "Flacbox features", "premium music app", "offline music", "audio tag search"]
 tags: ["flacbox", "premium", "upgrade", "audio", "offline", "difference"]
-draft: false
 aliases:
   - /post/what-is-the-difference-between-flacbox-and-flacbox-premium/
 readingTime: 3

@@ -1,6 +1,5 @@
 ---
 date: '2025-06-12T17:00:00+00:00'
-draft: false
 title: '首页'
 layout: hextra-home
 description: "探索适用于 iPhone 和 Mac 的 Everappz 应用：播放 FLAC、DSD、APE 和 ALAC，从云存储或 NAS 流式传输，下载音乐和视频，编辑标签，并使用均衡器和播放列表工具自定义播放。"

@@ -4,7 +4,6 @@ date: 2023-09-06
 description: "Flacbox osiąga 1 milion globalnych pobrań. Poznaj funkcje, które czynią go najlepszym odtwarzaczem audio hi-res na iPhone, iPad i Mac — FLAC, DSD, APE, equalizer i odtwarzanie offline."
 keywords: ["odtwarzacz muzyki Flacbox", "audio hi-res iOS", "aplikacja muzyki bezstratnej", "odtwarzacz DSD FLAC APE", "muzyka FLAC offline", "kamień milowy pobrań Flacbox", "audio wysokiej jakości iPhone", "aplikacje audio Everappz", "odtwarzacz playlist CUE", "1 milion pobrań", "najlepszy odtwarzacz FLAC iOS", "odtwarzacz muzyki hi-res Mac"]
 tags: ["Flacbox", "bezstratny", "audio hi-res", "odtwarzacz muzyki", "audio", "kamień milowy", "aplikacje iOS", "Co nowego"]
-draft: false
 cascade:
   type: docs
 authors:

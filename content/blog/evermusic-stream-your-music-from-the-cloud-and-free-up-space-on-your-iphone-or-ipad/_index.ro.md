@@ -4,7 +4,6 @@ date: 2016-05-26
 description: "Redă muzică din Google Drive, Dropbox sau OneDrive pe iPhone și iPad cu Evermusic. Eliberează spațiul de stocare al dispozitivului și ascultă offline fără sincronizare iTunes."
 keywords: ["Evermusic", "player muzică cloud", "aplicație muzică iOS", "redare muzică din cloud", "muzică offline iPhone", "player muzică Google Drive", "streaming muzică Dropbox", "player MP3 iPhone", "eliberare spațiu iPhone", "muzică de pe SMB", "redare muzică din stocarea cloud iOS", "player muzică fără iTunes"]
 tags: ["audio", "streaming", "player", "mp3", "descărcare", "GoogleDrive", "Dropbox", "muzică cloud", "redare offline"]
-draft: false
 cascade:
   type: docs
 authors:

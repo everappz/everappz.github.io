@@ -4,7 +4,6 @@ date: 2026-04-22
 description: "Bandingkan 7 pemain muzik awan terbaik untuk iPhone: Apple Music, Spotify, Evermusic dan lain-lain. Ciri, harga, sokongan luar talian dan keserasian format."
 keywords: ["pemain muzik awan iPhone", "aplikasi muzik terbaik untuk iPhone", "Evermusic vs Spotify", "aplikasi muzik luar talian iOS", "alternatif Apple Music", "main FLAC di iPhone", "penstriman muzik awan", "pemain audio iPhone", "pemain muzik untuk Dropbox", "main fail muzik sendiri iPhone"]
 tags: ["music", "streaming", "apps", "iOS", "cloud music", "Evermusic", "Spotify", "Apple Music", "YouTube Music", "SoundCloud", "comparison"]
-draft: false
 cascade:
   type: docs
 authors:

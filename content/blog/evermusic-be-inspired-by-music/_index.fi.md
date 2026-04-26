@@ -4,7 +4,6 @@ date: 2019-12-01
 description: "Katso Evermusicin promovideo, joka esittelee pilvimusiikin suoratoistoa, offline-toistoa ja taajuuskorjaimen ominaisuuksia iPhonella ja Macilla."
 keywords: ["Evermusic promovideo", "musiikkisoitin iOS", "pilvimusiikkisovellus iPhone", "Evermusic-sovelluksen esittely", "paras musiikkisoitin iPhone", "offline-musiikkisoitin iOS"]
 tags: ["Evermusic", "promootio", "musiikki", "video", "pilvimusiikki", "iOS-sovellus"]
-draft: false
 sidebar:
   exclude: true
 cascade:

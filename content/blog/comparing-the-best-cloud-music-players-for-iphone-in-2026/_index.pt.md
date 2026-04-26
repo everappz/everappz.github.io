@@ -4,7 +4,6 @@ date: 2026-04-22
 description: "Compare 7 melhores reprodutores de música em nuvem para iPhone: Apple Music, Spotify, Evermusic e mais. Recursos, preços, suporte offline e compatibilidade de formatos."
 keywords: ["reprodutor de música em nuvem iPhone", "melhores apps de música para iPhone", "Evermusic vs Spotify", "app de música offline iOS", "alternativa ao Apple Music", "tocar FLAC no iPhone", "streaming de música em nuvem", "reprodutor de áudio iPhone", "reprodutor de música para Dropbox", "tocar próprios arquivos de música iPhone"]
 tags: ["music", "streaming", "apps", "iOS", "cloud music", "Evermusic", "Spotify", "Apple Music", "YouTube Music", "SoundCloud", "comparison"]
-draft: false
 cascade:
   type: docs
 authors:

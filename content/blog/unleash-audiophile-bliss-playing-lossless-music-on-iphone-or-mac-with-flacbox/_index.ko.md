@@ -4,7 +4,6 @@ date: 2025-04-05
 description: "Flacbox로 iPhone과 Mac에서 FLAC, DSD, ALAC 및 120개 이상의 오디오 형식을 재생하세요. 클라우드, Wi-Fi 또는 USB로 가져오기. 10밴드 EQ와 오프라인 재생 포함."
 keywords: ["무손실 음악 플레이어", "FLAC 플레이어 iOS", "DSD 플레이어 iPhone", "hi-res 오디오 Mac", "Flacbox 앱", "최고의 FLAC 플레이어 iPhone", "오프라인 FLAC 플레이어", "오디오파일 음악 플레이어 iOS", "Mac FLAC 플레이어", "hi-res 스트리밍 iOS", "iPhone에서 FLAC 재생", "DSD128 플레이어", "무손실 오디오 앱"]
 tags: ["flacbox", "음악", "오디오", "무손실", "iphone", "mac", "flac", "dsd", "오디오파일"]
-draft: false
 cascade:
   type: docs
 authors:

@@ -4,7 +4,6 @@ date: 2025-04-05
 description: "使用 Flacbox 在 iPhone 和 Mac 上播放 FLAC、DSD、ALAC 和 120+ 種音訊格式。透過雲端、Wi-Fi 或 USB 匯入。包含 10 段 EQ 和離線播放。"
 keywords: ["無損音樂播放器", "FLAC 播放器 iOS", "DSD 播放器 iPhone", "hi-res 音訊 Mac", "Flacbox 應用程式", "最佳 FLAC 播放器 iPhone", "離線 FLAC 播放器", "發燒友音樂播放器 iOS", "Mac FLAC 播放器", "hi-res 串流 iOS", "在 iPhone 上播放 FLAC", "DSD128 播放器", "無損音訊應用程式"]
 tags: ["flacbox", "音樂", "音訊", "無損", "iphone", "mac", "flac", "dsd", "發燒友"]
-draft: false
 cascade:
   type: docs
 authors:

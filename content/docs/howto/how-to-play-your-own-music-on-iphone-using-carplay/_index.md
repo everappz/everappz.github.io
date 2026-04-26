@@ -5,7 +5,6 @@ description: "Learn how to play your own local or offline music on your iPhone u
 keywords: ["carplay music", "play own music on iphone", "iphone local music", "carplay offline music", "evermusic", "flacbox", "iphone mp3 player"]
 tags: ["carplay", "iphone", "local music", "offline playback", "evermusic", "flacbox"]
 readingTime: 5
-draft: false
 ---
 
 {{< author-byline >}}

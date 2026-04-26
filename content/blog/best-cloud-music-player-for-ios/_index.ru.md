@@ -4,7 +4,6 @@ date: 2025-01-05
 description: "Evermusic подключается к 12+ облачным сервисам, воспроизводит FLAC и MP3 в офлайн-режиме и управляет вашей музыкальной библиотекой. Узнайте, почему это лучший облачный музыкальный плеер для iOS."
 keywords: ["лучший облачный музыкальный плеер iOS", "облачный музыкальный плеер iPhone", "воспроизведение музыки из Dropbox", "офлайн музыкальный плеер iPhone", "FLAC плеер iOS", "обзор Evermusic", "менеджер музыкальной библиотеки iOS", "музыкальный плеер Google Drive", "музыкальный плеер NAS iPhone", "музыкальный плеер WebDAV"]
 tags: ["Evermusic", "cloud music", "offline playback", "iOS music apps", "MP3 player", "audio", "music streaming", "guide", "FLAC", "review"]
-draft: false
 cascade:
   type: docs
 authors:

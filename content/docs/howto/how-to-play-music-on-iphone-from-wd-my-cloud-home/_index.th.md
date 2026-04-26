@@ -5,7 +5,6 @@ description: "เรียนรู้วิธีสตรีมและดา
 keywords: ["evermusic", "wd my cloud", "สตรีมเพลง", "iphone", "ที่เก็บข้อมูล NAS", "เพลงออฟไลน์", "อีควอไลเซอร์", "my cloud home", "คลังเพลง 8TB", "WD MyCloud EX2 Ultra", "MyCloud Mirror"]
 tags: ["evermusic", "เพลง", "คลาวด์", "iphone", "ที่เก็บข้อมูล", "nas", "ฟัง", "ระยะไกล", "บ้าน", "ออนไลน์", "wd", "mycloud"]
 readingTime: 4
-draft: false
 ---
 
 {{< author-byline >}}

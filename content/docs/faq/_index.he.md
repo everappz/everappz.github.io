@@ -1,6 +1,5 @@
 ---
 date: '2025-06-12T17:00:00+00:00'
-draft: false
 title: 'שאלות נפוצות'
 description: 'מצא תשובות לשאלות נפוצות על Evermusic, Flacbox, Evervideo ו-Evertag. חקור תכונות כמו סטרימינג בענן, ניהול קבצים, אפשרויות הפעלה, עריכת מטא-נתונים ועוד.'
 keywords: [

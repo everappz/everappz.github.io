@@ -4,7 +4,6 @@ date: 2023-09-06
 description: "Evermusic đạt 11 triệu lượt tải. Xem các tính năng giúp nó trở thành trình phát nhạc đám mây hàng đầu: bộ cân bằng, chế độ offline, iCloud và nhiều hơn nữa."
 keywords: ["Evermusic 11 triệu lượt tải", "trình phát nhạc đám mây tốt nhất iOS", "trình phát nhạc offline iPhone", "phát nhạc iCloud Drive", "ứng dụng bộ cân bằng 10 dải", "trình chỉnh sửa thẻ ID3 iOS", "đồng bộ trình phát nhạc Mac iPhone", "trình phát FLAC iPhone"]
 tags: ["Evermusic", "cột mốc", "nhạc đám mây", "phát offline", "iCloud Drive", "bộ cân bằng", "trình phát nhạc iOS"]
-draft: false
 cascade:
   type: docs
 authors:

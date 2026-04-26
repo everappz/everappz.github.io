@@ -1,6 +1,5 @@
 ---
 date: '2025-06-12T17:00:00+00:00'
-draft: false
 title: 'Flacbox - iPhone和Mac高解析度音频播放器'
 layout: hextra-home
 description: "在iPhone上播放和下载FLAC、DSD、APE、ALAC文件。通过均衡器直接从云存储或计算机收听音乐。"

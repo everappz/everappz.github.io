@@ -8,7 +8,6 @@ keywords: [
 ]
 tags: ["evermusic", "guide"]
 readingTime: 3
-draft: false
 aliases:
   - /post/evermusic-guide/
   - /support-evermusic/

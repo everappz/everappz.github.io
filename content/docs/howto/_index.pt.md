@@ -1,6 +1,5 @@
 ---
 date: '2025-06-12T17:00:00+00:00'
-draft: false
 title: 'Como fazer'
 description: 'Guias passo a passo e dicas para ajudá-lo a configurar, usar e aproveitar ao máximo os aplicativos Everappz.'
 excludeSearch: true

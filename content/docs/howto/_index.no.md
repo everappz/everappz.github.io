@@ -1,6 +1,5 @@
 ---
 date: '2025-06-12T17:00:00+00:00'
-draft: false
 title: 'Veiledninger'
 description: 'Trinnvise guider og tips som hjelper deg å sette opp, bruke og få mest mulig ut av Everappz-apper.'
 excludeSearch: true

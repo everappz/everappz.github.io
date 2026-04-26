@@ -1,6 +1,5 @@
 ---
 date: '2025-06-12T17:00:00+00:00'
-draft: false
 title: 'Flacbox - iPhone ve Mac için Hi-Res Ses Oynatıcı'
 layout: hextra-home
 description: "iPhone'unuzda FLAC, DSD, APE, ALAC dosyalarını çalın ve indirin. Ekolayzır ile müziğinizi doğrudan bulut depolama veya bilgisayardan dinleyin."

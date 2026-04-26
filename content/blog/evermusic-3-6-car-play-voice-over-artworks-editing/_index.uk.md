@@ -4,7 +4,6 @@ date: 2019-05-19
 description: "Evermusic 3.6 додає підтримку CarPlay, доступність VoiceOver, змішаний аудіовихід, редагування обкладинок та імпорт з iCloud Drive."
 keywords: ["Evermusic CarPlay", "музичний плеєр CarPlay iPhone", "VoiceOver музичний додаток iOS", "FLAC редактор тегів iPhone", "редагування обкладинки альбому iOS", "імпорт музики з iCloud Drive", "доступність аудіоплеєра iOS", "змішаний аудіовихід iPhone"]
 tags: ["Evermusic", "CarPlay", "VoiceOver", "доступність", "iCloud Drive", "редактор тегів", "редагування обкладинок", "оновлення iOS"]
-draft: false
 cascade:
   type: docs
 authors:

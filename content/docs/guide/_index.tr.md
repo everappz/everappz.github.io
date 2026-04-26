@@ -1,6 +1,5 @@
 ---
 date: '2025-06-12T17:00:00+00:00'
-draft: false
 title: 'Kullanım Kılavuzu'
 description: 'Evermusic, Flacbox, Evervideo ve Evertag gibi Everappz uygulamalarını nasıl kullanacağınızı öğrenin. Bulut bağlantıları kurun, müzik ve videolarınızı yönetin, oynatmayı özelleştirin ve tüm özellikleri tek bir yerde keşfedin.'
 keywords: [

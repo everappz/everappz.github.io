@@ -4,7 +4,6 @@ date: 2019-12-01
 description: "Evermusic tanıtım videosunu izleyin: iPhone ve Mac'te bulut müzik akışı, çevrimdışı oynatma ve ekolayzır özelliklerini görün."
 keywords: ["Evermusic tanıtım videosu", "müzik çalar iOS", "bulut müzik uygulaması iPhone", "Evermusic uygulama demosu", "en iyi müzik çalar iPhone", "çevrimdışı müzik çalar iOS"]
 tags: ["Evermusic", "tanıtım", "müzik", "video", "bulut müzik", "iOS uygulaması"]
-draft: false
 sidebar:
   exclude: true
 cascade:

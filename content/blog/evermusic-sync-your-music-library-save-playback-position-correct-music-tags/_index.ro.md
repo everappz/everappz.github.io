@@ -4,7 +4,6 @@ date: 2016-05-26
 description: "Evermusic 2.3 adaugă sincronizarea automată a muzicii din cloud, salvarea poziției de redare pentru cărți audio, citirea metadatelor în fundal și corectarea tagurilor ID3."
 keywords: ["Evermusic", "player muzică cloud", "sincronizare muzică iOS", "salvare poziție redare", "redare cărți audio", "cititor metadate", "corectare taguri ID3", "redare muzică din cloud", "aplicație muzică pentru Dropbox", "player Google Drive", "sincronizare automată bibliotecă muzicală", "salvare poziție carte audio iOS"]
 tags: ["evermusic", "muzică", "redare", "manager", "editor", "sincronizare", "poziție", "taguri id3", "cloud", "noutăți"]
-draft: false
 cascade:
   type: docs
 authors:

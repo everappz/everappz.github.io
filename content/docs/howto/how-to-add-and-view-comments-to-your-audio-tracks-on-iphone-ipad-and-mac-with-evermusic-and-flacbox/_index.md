@@ -5,7 +5,6 @@ description: "Learn how to add, edit, and display comments with time markers for
 keywords: ["evermusic", "flacbox", "audio comments", "edit tags", "audio metadata", "lyrics", "LRC", "comment viewer"]
 tags: ["evermusic", "audio", "editor", "tags", "comments"]
 readingTime: 4
-draft: false
 aliases:
   - /post/how-to-add-and-view-comments-to-your-audio-tracks-on-iphone-ipad-and-mac-with-evermusic-and-flacbox/
 ---

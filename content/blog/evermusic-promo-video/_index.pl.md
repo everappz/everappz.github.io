@@ -4,7 +4,6 @@ date: 2019-07-02
 description: "Obejrzyj oficjalny film promocyjny Evermusic. Zobacz, jak Evermusic strumieniuje, pobiera i organizuje muzykę z chmury na iPhonie i iPadzie."
 keywords: ["Film promocyjny Evermusic", "odtwarzacz muzyki z chmury iPhone", "wideo aplikacji muzycznej", "demo aplikacji Evermusic", "muzyka z chmury iOS", "funkcje Evermusic", "odtwarzacz muzyki iPad", "strumieniowanie muzyki z chmury"]
 tags: ["evermusic", "promocja", "wideo", "ios", "muzyka", "chmura", "odtwarzacz", "aplikacja mobilna"]
-draft: false
 cascade:
   type: docs
 authors:

@@ -1,6 +1,5 @@
 ---
 date: '2025-06-12T17:00:00+00:00'
-draft: false
 title: 'Etusivu'
 layout: hextra-home
 description: "Tutustu Everappz-sovelluksiin iPhonelle ja Macille: toista FLAC-, DSD-, APE- ja ALAC-tiedostoja, suoratoista pilvitallennustilasta tai NAS:sta, lataa musiikkia ja videoita, muokkaa tunnisteita ja mukauta toistoa taajuuskorjaimella ja soittolistatyökaluilla."

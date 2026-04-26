@@ -4,7 +4,6 @@ date: 2016-05-26
 description: "Strumieniuj muzykę z Google Drive, Dropbox lub OneDrive na iPhone i iPad z Evermusic. Zwolnij miejsce na urządzeniu i słuchaj offline bez synchronizacji iTunes."
 keywords: ["Evermusic", "odtwarzacz muzyki w chmurze", "aplikacja muzyczna iOS", "strumieniowanie muzyki z chmury", "muzyka offline iPhone", "odtwarzacz muzyki Google Drive", "strumieniowanie muzyki Dropbox", "odtwarzacz MP3 iPhone", "zwolnij miejsce iPhone", "muzyka z SMB", "odtwarzanie muzyki z chmury iOS", "odtwarzacz muzyki bez iTunes"]
 tags: ["audio", "strumieniowanie", "odtwarzacz", "mp3", "pobieranie", "GoogleDrive", "Dropbox", "muzyka w chmurze", "odtwarzanie offline"]
-draft: false
 cascade:
   type: docs
 authors:

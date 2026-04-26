@@ -5,7 +5,6 @@ description: "Naučite kako reproducirati vlastitu lokalnu ili offline glazbu na
 keywords: ["carplay glazba", "reproduciraj vlastitu glazbu na iPhoneu", "iPhone lokalna glazba", "carplay offline glazba", "evermusic", "flacbox", "iPhone mp3 player"]
 tags: ["carplay", "iPhone", "lokalna glazba", "offline reprodukcija", "evermusic", "flacbox"]
 readingTime: 5
-draft: false
 ---
 
 {{< author-byline >}}

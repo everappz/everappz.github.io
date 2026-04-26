@@ -4,7 +4,6 @@ date: 2023-09-06
 description: "Flacbox bereikt 1 miljoen wereldwijde downloads. Ontdek de functies die het de beste hi-res audiospeler maken voor iPhone, iPad en Mac — FLAC, DSD, APE, equalizer en offline afspelen."
 keywords: ["Flacbox muziekspeler", "hi-res audio iOS", "lossless muziekapp", "DSD FLAC APE speler", "offline FLAC muziek", "Flacbox downloadmijlpaal", "hoge kwaliteit audio iPhone", "Everappz audio-apps", "CUE afspeellijstspeler", "1 miljoen downloads", "beste FLAC-speler iOS", "hi-res muziekspeler Mac"]
 tags: ["Flacbox", "lossless", "hi-res audio", "muziekspeler", "audio", "mijlpaal", "iOS-apps", "Wat is nieuw"]
-draft: false
 cascade:
   type: docs
 authors:

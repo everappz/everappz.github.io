@@ -4,7 +4,6 @@ date: 2024-09-17
 description: "Evermusic 6.8 ajoute la prise en charge d'Aliyun Drive et Synology NAS, de nouveaux effets de défilement des pochettes d'album, un lecteur minimaliste, la gestion par glisser-déposer et un chargement plus rapide des illustrations."
 keywords: ["mise à jour Evermusic", "lecteur musique Aliyun Drive", "musique Synology NAS", "lecteur musique cloud iOS", "lecteur audio iOS", "styles pochettes album", "navigateur fichiers glisser-déposer", "Evermusic 6.8", "lecteur FLAC iOS", "lecteur musique QuickConnect", "streaming musique NAS iPhone"]
 tags: ["Evermusic", "Aliyun Drive", "Synology", "Pochettes d'album", "Musique cloud", "Application musique iOS", "Nouveautés"]
-draft: false
 cascade:
   type: docs
 authors:

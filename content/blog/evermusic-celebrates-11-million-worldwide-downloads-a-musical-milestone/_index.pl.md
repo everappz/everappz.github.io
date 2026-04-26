@@ -4,7 +4,6 @@ date: 2023-09-06
 description: "Evermusic osiąga 11 milionów pobrań. Zobacz funkcje, które uczyniły go czołowym odtwarzaczem muzyki z chmury: korektor, tryb offline, iCloud i więcej."
 keywords: ["Evermusic 11 milionów pobrań", "najlepszy odtwarzacz muzyki z chmury iOS", "odtwarzacz muzyki offline iPhone", "strumieniowanie muzyki iCloud Drive", "aplikacja korektor 10-pasmowy", "edytor tagów ID3 iOS", "odtwarzacz muzyki synchronizacja Mac iPhone", "odtwarzacz FLAC iPhone"]
 tags: ["Evermusic", "kamień milowy", "muzyka z chmury", "odtwarzanie offline", "iCloud Drive", "korektor", "odtwarzacz muzyki iOS"]
-draft: false
 cascade:
   type: docs
 authors:

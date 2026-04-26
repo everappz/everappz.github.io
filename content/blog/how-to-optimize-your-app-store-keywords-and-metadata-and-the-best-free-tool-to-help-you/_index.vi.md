@@ -4,7 +4,6 @@ date: 2025-04-30
 description: "Hướng dẫn từng bước tối ưu hóa từ khóa, tiêu đề và phụ đề App Store. Bao gồm công cụ ASO miễn phí trong trình duyệt với tích hợp Fastlane."
 keywords: ["hướng dẫn từ khóa app store", "tối ưu hóa từ khóa ASO", "tối ưu hóa tiêu đề app store", "tối ưu hóa phụ đề app store", "siêu dữ liệu app store", "cách cải thiện xếp hạng app store", "tối ưu hóa app store", "công cụ ASO miễn phí", "chiến lược từ khóa app store", "apple app store SEO", "công cụ siêu dữ liệu fastlane", "nghiên cứu từ khóa app store miễn phí"]
 tags: ["Tối ưu hóa App Store", "công cụ ASO miễn phí", "tối ưu hóa tiêu đề app store", "công cụ ASO miễn phí", "chiến lược từ khóa app store", "trình tối ưu hóa siêu dữ liệu"]
-draft: false
 sidebar:
   exclude: true
 cascade:

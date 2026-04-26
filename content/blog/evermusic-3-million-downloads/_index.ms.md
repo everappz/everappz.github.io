@@ -4,7 +4,6 @@ date: 2017-11-08
 description: "Evermusic telah mencapai 3 juta muat turun. Terokai penstriman muzik awan, main balik luar talian, EQ 10-jalur, sokongan buku audio, pengurus fail dan editor tag ID3."
 keywords: ["Evermusic muat turun", "pemain muzik iOS", "aplikasi muzik awan", "pemain muzik luar talian iPhone", "pemuat turun muzik iOS", "pemain buku audio iPhone", "editor tag ID3 iOS", "pengurus fail iPhone", "aplikasi penyama muzik", "pemain muzik awan terbaik", "strim muzik dari NAS iPhone"]
 tags: ["Evermusic", "muat turun", "pencapaian", "aplikasi muzik", "pemain awan", "pemain luar talian", "editor tag", "penyama", "buku audio", "pengurus fail"]
-draft: false
 cascade:
   type: docs
 authors:

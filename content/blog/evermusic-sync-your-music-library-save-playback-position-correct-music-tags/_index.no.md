@@ -4,7 +4,6 @@ date: 2016-05-26
 description: "Evermusic 2.3 legger til automatisk synkronisering av skymusikk, lagring av avspillingsposisjon for lydbøker, bakgrunnslesing av metadata og ID3-tagkorrigering."
 keywords: ["Evermusic", "sky-musikkspiller", "musikksynkronisering iOS", "lagre avspillingsposisjon", "lydbokavspilling", "metadataleser", "fikse ID3-tagger", "strømme musikk fra skyen", "musikkapp for Dropbox", "Google Drive-spiller", "automatisk musikkbiblioteksynkronisering", "lagre lydbokposisjon iOS"]
 tags: ["evermusic", "musikk", "avspilling", "behandler", "redigering", "synkronisering", "posisjon", "id3-tagger", "sky", "nytt"]
-draft: false
 cascade:
   type: docs
 authors:

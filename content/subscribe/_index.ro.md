@@ -1,5 +1,4 @@
 ---
-draft: false
 title: 'Abonează-te'
 sitemap:
   disable: true

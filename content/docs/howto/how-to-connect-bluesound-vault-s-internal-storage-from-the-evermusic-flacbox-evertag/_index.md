@@ -5,7 +5,6 @@ description: "Learn how to access Bluesound VAULT's internal hard drive from Eve
 keywords: ["bluesound vault", "connect smb storage", "evermusic smb", "flacbox vault", "evertag smb", "nas storage music", "vault internal drive"]
 tags: ["evermusic", "connect", "bluesound vault"]
 readingTime: 1
-draft: false
 aliases:
   - /post/how-to-connect-bluesound-vault-s-internal-storage-from-the-evermusic-flacbox-evertag/
 ---

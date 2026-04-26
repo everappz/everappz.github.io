@@ -1,6 +1,5 @@
 ---
 date: '2025-06-12T17:00:00+00:00'
-draft: false
 title: 'About'
 description: 'Everappz S.L. is a Spanish software company developing iOS and macOS apps for audio and video. Makers of Evermusic (11M downloads), Flacbox, EverTag, EverVideo, and Soundy — over 14 million downloads worldwide.'
 aliases:

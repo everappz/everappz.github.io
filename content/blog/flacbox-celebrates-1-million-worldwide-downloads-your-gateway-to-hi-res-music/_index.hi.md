@@ -4,7 +4,6 @@ date: 2023-09-06
 description: "Flacbox दुनिया भर में 10 लाख डाउनलोड तक पहुँचा। जानें वो फीचर्स जो इसे iPhone, iPad और Mac के लिए शीर्ष hi-res ऑडियो प्लेयर बनाते हैं — FLAC, DSD, APE, इक्वलाइज़र और ऑफ़लाइन प्लेबैक।"
 keywords: ["Flacbox म्यूजिक प्लेयर", "hi-res ऑडियो iOS", "lossless म्यूजिक ऐप", "DSD FLAC APE प्लेयर", "ऑफ़लाइन FLAC म्यूजिक", "Flacbox डाउनलोड माइलस्टोन", "उच्च गुणवत्ता ऑडियो iPhone", "Everappz ऑडियो ऐप्स", "CUE प्लेलिस्ट प्लेयर", "10 लाख डाउनलोड", "सबसे अच्छा FLAC प्लेयर iOS", "hi-res म्यूजिक प्लेयर Mac"]
 tags: ["Flacbox", "lossless", "hi-res ऑडियो", "म्यूजिक प्लेयर", "ऑडियो", "माइलस्टोन", "iOS ऐप्स", "नया क्या है"]
-draft: false
 cascade:
   type: docs
 authors:

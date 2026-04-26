@@ -5,7 +5,6 @@ description: "Ketahui cara menggunakan Evermusic dengan SanDisk iXpand Flash Dri
 keywords: ["evermusic", "ixpand", "sandisk", "pemacu usb", "pemacu kilat", "muzik luaran", "pemain muzik iphone", "pengurus fail", "storan lightning", "main muzik dari usb", "akses fail iphone"]
 tags: ["muzik", "usb", "luaran", "ixpand", "sandisk", "iphone", "evermusic"]
 readingTime: 3
-draft: false
 ---
 
 {{< author-byline >}}

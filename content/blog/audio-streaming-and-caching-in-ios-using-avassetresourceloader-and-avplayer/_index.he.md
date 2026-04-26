@@ -4,7 +4,6 @@ date: 2015-06-20
 description: "למדו כיצד לסטרם ולשמור אודיו במטמון ב-iOS באמצעות AVAssetResourceLoaderDelegate ו-AVPlayer עם סכמות URL מותאמות אישית ומטמון על הדיסק."
 keywords: ["סטרימינג אודיו iOS", "AVAssetResourceLoaderDelegate", "AVURLAsset", "מדריך AVPlayer", "אודיו AVFoundation", "AVAssetResourceLoadingRequest", "נגן אודיו מותאם iOS", "סטרימינג אודיו ענן iOS", "מטמון אודיו iOS", "Swift AVPlayer סכמה מותאמת"]
 tags: ["streaming", "AVPlayer", "AVFoundation", "iOS", "AVAssetResourceLoader", "tutorial", "Objective-C", "audio caching"]
-draft: false
 cascade:
   type: docs
 authors:

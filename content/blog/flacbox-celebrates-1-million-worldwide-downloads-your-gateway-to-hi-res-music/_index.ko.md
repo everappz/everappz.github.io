@@ -4,7 +4,6 @@ date: 2023-09-06
 description: "Flacbox가 전 세계 100만 다운로드를 달성했습니다. iPhone, iPad 및 Mac을 위한 최고의 hi-res 오디오 플레이어의 기능을 살펴보세요 — FLAC, DSD, APE, 이퀄라이저 및 오프라인 재생."
 keywords: ["Flacbox 음악 플레이어", "hi-res 오디오 iOS", "무손실 음악 앱", "DSD FLAC APE 플레이어", "오프라인 FLAC 음악", "Flacbox 다운로드 이정표", "고품질 오디오 iPhone", "Everappz 오디오 앱", "CUE 재생 목록 플레이어", "100만 다운로드", "최고의 FLAC 플레이어 iOS", "hi-res 음악 플레이어 Mac"]
 tags: ["Flacbox", "무손실", "hi-res 오디오", "음악 플레이어", "오디오", "이정표", "iOS 앱", "새로운 기능"]
-draft: false
 cascade:
   type: docs
 authors:

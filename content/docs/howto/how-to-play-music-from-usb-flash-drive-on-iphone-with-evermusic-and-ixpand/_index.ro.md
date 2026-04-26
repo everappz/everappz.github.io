@@ -5,7 +5,6 @@ description: "Aflați cum să utilizați Evermusic cu SanDisk iXpand Flash Drive
 keywords: ["evermusic", "ixpand", "sandisk", "drive usb", "stick usb", "muzică externă", "player muzică iphone", "manager fișiere", "stocare lightning", "redare muzică de pe usb", "acces fișiere iphone"]
 tags: ["muzică", "usb", "extern", "ixpand", "sandisk", "iphone", "evermusic"]
 readingTime: 3
-draft: false
 ---
 
 {{< author-byline >}}

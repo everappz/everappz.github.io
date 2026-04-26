@@ -5,7 +5,6 @@ description: "Pelajari cara streaming dan mengunduh musik dari WD My Cloud Home 
 keywords: ["evermusic", "wd my cloud", "streaming musik", "iphone", "penyimpanan NAS", "musik offline", "equalizer kustom", "my cloud home", "perpustakaan musik 8TB", "WD MyCloud EX2 Ultra", "MyCloud Mirror"]
 tags: ["evermusic", "musik", "cloud", "iphone", "penyimpanan", "nas", "dengarkan", "jarak jauh", "rumah", "online", "wd", "mycloud"]
 readingTime: 4
-draft: false
 ---
 
 {{< author-byline >}}

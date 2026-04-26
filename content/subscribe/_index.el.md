@@ -1,5 +1,4 @@
 ---
-draft: false
 title: 'Εγγραφή'
 sitemap:
   disable: true

@@ -4,7 +4,6 @@ date: 2025-04-30
 description: "Průvodce krok za krokem optimalizací klíčových slov, názvů a podtitulů App Store. Zahrnuje bezplatný ASO nástroj v prohlížeči s integrací Fastlane."
 keywords: ["průvodce klíčovými slovy app store", "optimalizace klíčových slov ASO", "optimalizace názvu app store", "optimalizace podtitulu app store", "metadata app store", "jak zlepšit hodnocení app store", "optimalizace app store", "bezplatný ASO nástroj", "bezplatné ASO nástroje", "strategie klíčových slov app store", "SEO apple app store", "nástroj pro metadata fastlane", "bezplatný výzkum klíčových slov app store"]
 tags: ["Optimalizace App Store", "bezplatné ASO nástroje", "optimalizace názvu app store", "bezplatný ASO nástroj", "strategie klíčových slov app store", "optimalizátor metadat"]
-draft: false
 sidebar:
   exclude: true
 cascade:

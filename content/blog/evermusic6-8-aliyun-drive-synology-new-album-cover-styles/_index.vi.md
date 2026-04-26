@@ -4,7 +4,6 @@ date: 2024-09-17
 description: "Evermusic 6.8 thêm hỗ trợ Aliyun Drive và Synology NAS, hiệu ứng cuộn bìa album mới, màn hình trình phát tối giản, quản lý tệp kéo-thả và tải bìa nhanh hơn."
 keywords: ["cập nhật Evermusic", "Aliyun Drive trình phát nhạc", "Synology NAS nhạc", "trình phát nhạc đám mây iOS", "trình phát âm thanh iOS", "phong cách bìa album", "kéo thả trình duyệt tệp", "Evermusic 6.8", "trình phát FLAC iOS", "QuickConnect trình phát nhạc", "phát nhạc NAS iPhone"]
 tags: ["Evermusic", "Aliyun Drive", "Synology", "bìa album", "nhạc đám mây", "ứng dụng nhạc iOS", "có gì mới"]
-draft: false
 cascade:
   type: docs
 authors:

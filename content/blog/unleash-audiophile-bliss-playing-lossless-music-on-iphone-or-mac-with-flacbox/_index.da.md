@@ -4,7 +4,6 @@ date: 2025-04-05
 description: "Afspil FLAC, DSD, ALAC og 120+ lydformater på iPhone og Mac med Flacbox. Importer via cloud, Wi-Fi eller USB. Inkluderer 10-bånds equalizer og offline afspilning."
 keywords: ["tabsfri musikafspiller", "FLAC afspiller iOS", "DSD afspiller iPhone", "hi-res lyd Mac", "Flacbox app", "bedste FLAC afspiller iPhone", "offline FLAC afspiller", "audiofil musikafspiller iOS", "Mac FLAC afspiller", "hi-res streaming iOS", "afspil FLAC på iPhone", "DSD128 afspiller", "tabsfri lyd app"]
 tags: ["flacbox", "musik", "lyd", "tabsfri", "iphone", "mac", "flac", "dsd", "audiofil"]
-draft: false
 cascade:
   type: docs
 authors:

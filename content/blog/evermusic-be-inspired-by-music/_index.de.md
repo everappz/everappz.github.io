@@ -4,7 +4,6 @@ date: 2019-12-01
 description: "Sehen Sie das Evermusic Promo-Video, das Cloud-Musikstreaming, Offline-Wiedergabe und Equalizer-Funktionen auf iPhone und Mac zeigt."
 keywords: ["Evermusic Promo-Video", "Musikplayer iOS", "Cloud-Musik-App iPhone", "Evermusic App-Demo", "bester Musikplayer iPhone", "Offline-Musikplayer iOS"]
 tags: ["Evermusic", "Promo", "Musik", "Video", "Cloud-Musik", "iOS-App"]
-draft: false
 sidebar:
   exclude: true
 cascade:

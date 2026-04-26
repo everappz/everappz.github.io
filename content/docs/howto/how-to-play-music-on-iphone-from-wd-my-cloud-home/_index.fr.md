@@ -5,7 +5,6 @@ description: "Apprenez à diffuser et télécharger de la musique depuis WD My C
 keywords: ["evermusic", "wd my cloud", "diffuser de la musique", "iphone", "stockage NAS", "musique hors ligne", "égaliseur personnalisé", "my cloud home", "bibliothèque musicale 8 To", "WD MyCloud EX2 Ultra", "MyCloud Mirror"]
 tags: ["evermusic", "musique", "cloud", "iphone", "stockage", "nas", "écouter", "distant", "maison", "en ligne", "wd", "mycloud"]
 readingTime: 4
-draft: false
 ---
 
 {{< author-byline >}}

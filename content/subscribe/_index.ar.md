@@ -1,5 +1,4 @@
 ---
-draft: false
 title: 'اشترك'
 sitemap:
   disable: true

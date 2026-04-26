@@ -1,6 +1,5 @@
 ---
 date: '2025-06-12T17:00:00+00:00'
-draft: false
 title: 'Flacbox - مشغل صوت عالي الدقة لـ iPhone و Mac'
 layout: hextra-home
 description: "قم بتشغيل وتنزيل ملفات FLAC و DSD و APE و ALAC على جهاز iPhone الخاص بك. استمع إلى موسيقاك مباشرة من التخزين السحابي أو الكمبيوتر مع معادل الصوت."

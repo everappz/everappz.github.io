@@ -4,7 +4,6 @@ date: 2023-09-06
 description: "O Evermusic alcança 11 milhões de downloads. Veja os recursos que o tornaram um dos melhores reprodutores de música na nuvem: equalizador, modo offline, iCloud e mais."
 keywords: ["Evermusic 11 milhões de downloads", "melhor reprodutor de música na nuvem iOS", "reprodutor de música offline iPhone", "streaming de música iCloud Drive", "app equalizador 10 bandas", "editor de tags ID3 iOS", "reprodutor de música sincronização Mac iPhone", "reprodutor FLAC iPhone"]
 tags: ["Evermusic", "marco", "música na nuvem", "reprodução offline", "iCloud Drive", "equalizador", "reprodutor de música iOS"]
-draft: false
 cascade:
   type: docs
 authors:

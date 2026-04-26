@@ -4,7 +4,6 @@ date: 2019-07-02
 description: "Guarda il video promozionale ufficiale di Evermusic. Scopri come Evermusic esegue lo streaming, scarica e organizza la tua musica dall'archiviazione cloud su iPhone e iPad."
 keywords: ["video promo Evermusic", "lettore musica cloud iPhone", "video app musicale", "demo app Evermusic", "musica cloud iOS", "funzionalità Evermusic", "lettore musicale iPad", "streaming musica dal cloud"]
 tags: ["evermusic", "promo", "video", "ios", "musica", "cloud", "lettore", "app mobile"]
-draft: false
 cascade:
   type: docs
 authors:

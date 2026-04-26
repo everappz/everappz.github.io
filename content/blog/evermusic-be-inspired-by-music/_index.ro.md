@@ -4,7 +4,6 @@ date: 2019-12-01
 description: "Vizionați videoclipul promoțional Evermusic care prezintă streamingul de muzică din cloud, redarea offline și funcțiile de egalizator pe iPhone și Mac."
 keywords: ["Video promoțional Evermusic", "player muzică iOS", "aplicație muzică cloud iPhone", "demo aplicație Evermusic", "cel mai bun player muzică iPhone", "player muzică offline iOS"]
 tags: ["Evermusic", "promoție", "muzică", "video", "muzică cloud", "aplicație iOS"]
-draft: false
 sidebar:
   exclude: true
 cascade:

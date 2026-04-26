@@ -4,7 +4,6 @@ date: 2026-04-22
 description: "比较7款iPhone顶级云端音乐播放器：Apple Music、Spotify、Evermusic等。功能、定价、离线支持和格式兼容性。"
 keywords: ["云端音乐播放器iPhone", "iPhone最佳音乐应用", "Evermusic vs Spotify", "iOS离线音乐应用", "Apple Music替代品", "iPhone播放FLAC", "云端音乐流媒体", "iPhone音频播放器", "Dropbox音乐播放器", "iPhone播放自己的音乐文件"]
 tags: ["music", "streaming", "apps", "iOS", "cloud music", "Evermusic", "Spotify", "Apple Music", "YouTube Music", "SoundCloud", "comparison"]
-draft: false
 cascade:
   type: docs
 authors:

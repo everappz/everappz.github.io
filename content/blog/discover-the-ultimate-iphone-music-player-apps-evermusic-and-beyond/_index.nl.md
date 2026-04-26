@@ -4,7 +4,6 @@ date: 2020-05-05
 description: "Vergelijk de beste iPhone muziekspeler apps: Evermusic, Apple Music, Spotify, VLC en Amazon Music. Functies, prijzen en offline ondersteuning."
 keywords: ["beste iPhone muziekspeler", "muziekspeler app iOS", "Evermusic vs Spotify", "cloud muziekspeler iPhone", "offline muziek app iPhone", "FLAC speler iOS", "Apple Music alternatieven", "VLC iPhone", "gratis muziekspeler iOS"]
 tags: ["muziek apps", "iOS", "Evermusic", "Apple Music", "Spotify", "VLC", "Amazon Music", "vergelijking", "cloud muziek", "offline afspelen"]
-draft: false
 cascade:
   type: docs
 authors:

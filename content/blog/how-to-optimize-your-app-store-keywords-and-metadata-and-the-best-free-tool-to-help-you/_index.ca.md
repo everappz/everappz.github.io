@@ -4,7 +4,6 @@ date: 2025-04-30
 description: "Guia pas a pas per optimitzar les paraules clau, títols i subtítols de l'App Store. Inclou una eina ASO gratuïta basada en navegador amb integració Fastlane."
 keywords: ["guia de paraules clau app store", "optimització de paraules clau ASO", "optimització de títol app store", "optimització de subtítol app store", "metadades app store", "com millorar el rànquing app store", "optimització app store", "eina ASO gratuïta", "eines ASO gratuïtes", "estratègia de paraules clau app store", "SEO apple app store", "eina de metadades fastlane", "recerca de paraules clau app store gratuïta"]
 tags: ["Optimització App Store", "eines ASO gratuïtes", "optimització de títol app store", "eina ASO gratuïta", "estratègia de paraules clau app store", "optimitzador de metadades"]
-draft: false
 sidebar:
   exclude: true
 cascade:

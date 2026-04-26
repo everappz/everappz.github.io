@@ -4,7 +4,6 @@ date: 2015-06-20
 description: "Aprèn a fer streaming i emmagatzemar en memòria cau àudio en iOS utilitzant AVAssetResourceLoaderDelegate i AVPlayer amb esquemes d'URL personalitzats i memòria cau en disc."
 keywords: ["streaming d'àudio iOS", "AVAssetResourceLoaderDelegate", "AVURLAsset", "tutorial AVPlayer", "àudio AVFoundation", "AVAssetResourceLoadingRequest", "reproductor d'àudio personalitzat iOS", "streaming d'àudio al núvol iOS", "memòria cau d'àudio iOS", "Swift AVPlayer esquema personalitzat"]
 tags: ["streaming", "AVPlayer", "AVFoundation", "iOS", "AVAssetResourceLoader", "tutorial", "Objective-C", "audio caching"]
-draft: false
 cascade:
   type: docs
 authors:

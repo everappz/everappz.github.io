@@ -5,7 +5,6 @@ description: "Lær hvordan du strømmer og laster ned musikk fra WD My Cloud Hom
 keywords: ["evermusic", "wd my cloud", "strømme musikk", "iphone", "NAS-lagring", "offline musikk", "tilpasset equalizer", "my cloud home", "8TB musikkbibliotek", "WD MyCloud EX2 Ultra", "MyCloud Mirror"]
 tags: ["evermusic", "musikk", "sky", "iphone", "lagring", "nas", "lytte", "ekstern", "hjem", "online", "wd", "mycloud"]
 readingTime: 4
-draft: false
 ---
 
 {{< author-byline >}}

@@ -4,7 +4,6 @@ date: 2020-05-05
 description: "Сравнение лучших музыкальных плееров для iPhone: Evermusic, Apple Music, Spotify, VLC и Amazon Music. Функции, цены и поддержка офлайн."
 keywords: ["лучший музыкальный плеер iPhone", "приложение музыкальный плеер iOS", "Evermusic vs Spotify", "облачный музыкальный плеер iPhone", "офлайн музыкальное приложение iPhone", "FLAC плеер iOS", "альтернативы Apple Music", "VLC iPhone", "бесплатный музыкальный плеер iOS"]
 tags: ["музыкальные приложения", "iOS", "Evermusic", "Apple Music", "Spotify", "VLC", "Amazon Music", "сравнение", "облачная музыка", "офлайн воспроизведение"]
-draft: false
 cascade:
   type: docs
 authors:

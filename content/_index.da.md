@@ -1,6 +1,5 @@
 ---
 date: '2025-06-12T17:00:00+00:00'
-draft: false
 title: 'Hjem'
 layout: hextra-home
 description: "Udforsk Everappz-apps til iPhone og Mac: afspil FLAC, DSD, APE og ALAC, stream fra cloud-lagring eller NAS, download musik og videoer, rediger tags og tilpas afspilning med equalizer- og playlisteværktøjer."

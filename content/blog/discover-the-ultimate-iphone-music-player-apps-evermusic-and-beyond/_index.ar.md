@@ -4,7 +4,6 @@ date: 2020-05-05
 description: "قارن بين أفضل تطبيقات مشغل الموسيقى للآيفون: Evermusic وApple Music وSpotify وVLC وAmazon Music. الميزات والأسعار والدعم بدون إنترنت."
 keywords: ["أفضل مشغل موسيقى للآيفون", "تطبيق مشغل موسيقى iOS", "Evermusic مقابل Spotify", "مشغل موسيقى سحابي للآيفون", "تطبيق موسيقى بدون إنترنت للآيفون", "مشغل FLAC لـ iOS", "بدائل Apple Music", "VLC للآيفون", "مشغل موسيقى مجاني لـ iOS"]
 tags: ["تطبيقات الموسيقى", "iOS", "Evermusic", "Apple Music", "Spotify", "VLC", "Amazon Music", "مقارنة", "موسيقى سحابية", "تشغيل بدون إنترنت"]
-draft: false
 cascade:
   type: docs
 authors:

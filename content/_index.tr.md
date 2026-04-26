@@ -1,6 +1,5 @@
 ---
 date: '2025-06-12T17:00:00+00:00'
-draft: false
 title: 'Ana Sayfa'
 layout: hextra-home
 description: "iPhone ve Mac için Everappz uygulamalarini kesfedin: FLAC, DSD, APE ve ALAC oynatın, bulut depolama veya NAS'tan akış yapın, müzik ve video indirin, etiketleri düzenleyin ve ekolayzır ile çalma listesi araçlarıyla kaydı özelleştirin."

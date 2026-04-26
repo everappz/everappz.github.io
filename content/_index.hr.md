@@ -1,6 +1,5 @@
 ---
 date: '2025-06-12T17:00:00+00:00'
-draft: false
 title: 'Početna'
 layout: hextra-home
 description: "Istražite Everappz aplikacije za iPhone i Mac: reproducirajte FLAC, DSD, APE i ALAC, emitirajte iz pohrane u oblaku ili NAS-a, preuzimajte glazbu i videozapise, uređujte oznake i prilagodite reprodukciju s ekvalizatorom i alatima za popise pjesama."

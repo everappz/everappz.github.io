@@ -4,7 +4,6 @@ date: 2023-09-06
 description: "Flacbox reaches 1 million global downloads. Explore the features that make it the top hi-res audio player for iPhone, iPad, and Mac — FLAC, DSD, APE, equalizer, and offline playback."
 keywords: ["Flacbox music player", "hi-res audio iOS", "lossless music app", "DSD FLAC APE player", "offline FLAC music", "Flacbox download milestone", "high quality audio iPhone", "Everappz audio apps", "CUE playlist player", "1 million downloads", "best FLAC player iOS", "hi-res music player Mac"]
 tags: ["Flacbox", "lossless", "hi-res audio", "music player", "audio", "milestone", "iOS apps", "What's New"]
-draft: false
 aliases:
   - /post/flacbox-celebrates-1-million-worldwide-downloads-your-gateway-to-hi-res-music/
 cascade:

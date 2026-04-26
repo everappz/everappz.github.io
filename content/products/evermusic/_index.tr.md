@@ -1,6 +1,5 @@
 ---
 date: '2025-06-12T17:00:00+00:00'
-draft: false
 title: 'Evermusic - iPhone ve Mac için Çevrimdışı Müzik Çalar'
 layout: hextra-home
 description: "iPhone ve Mac'iniz için en iyi ücretsiz çevrimdışı müzik çaları indirin ve müziğinizi her yerde dinleyin."

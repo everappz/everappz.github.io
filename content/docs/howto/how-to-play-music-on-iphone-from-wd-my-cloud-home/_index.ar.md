@@ -5,7 +5,6 @@ description: "تعرّف على كيفية بث وتنزيل الموسيقى م
 keywords: ["evermusic", "wd my cloud", "بث الموسيقى", "iphone", "تخزين NAS", "موسيقى بدون إنترنت", "معادل صوت مخصص", "my cloud home", "مكتبة موسيقى 8 تيرابايت", "WD MyCloud EX2 Ultra", "MyCloud Mirror"]
 tags: ["evermusic", "موسيقى", "سحابة", "iphone", "تخزين", "nas", "استماع", "بعيد", "منزل", "متصل", "wd", "mycloud"]
 readingTime: 4
-draft: false
 ---
 
 {{< author-byline >}}

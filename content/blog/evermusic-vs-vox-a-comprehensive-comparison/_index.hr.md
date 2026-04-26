@@ -4,7 +4,6 @@ date: 2020-03-04
 description: "Usporedba Evermusic vs VOX u 8 kategorija: pohrana u oblaku, audioknjige, uređivanje oznaka, Wi-Fi prijenos i više. Saznajte koji iOS glazbeni player pobjeđuje."
 keywords: ["Evermusic vs VOX", "VOX alternativa iOS", "najbolji glazbeni player iPhone", "usporedba glazbenih playera u oblaku", "player za audioknjige iOS", "ID3 uređivač oznaka iPhone", "Wi-Fi drive glazbena aplikacija", "FLAC player iPhone", "glazbeni player za pohranu u oblaku", "VOX Cloud alternativa"]
 tags: ["usporedba", "evermusic", "vox", "oblak", "audioknjige", "oznake", "streaming", "aplikacije", "glazbeni player", "ios"]
-draft: false
 sidebar:
   exclude: true
 cascade:

@@ -4,7 +4,6 @@ date: 2019-12-01
 description: "ชมวิดีโอโปรโมท Evermusic ที่แสดงการสตรีมเพลงคลาวด์ การเล่นออฟไลน์ และฟีเจอร์อีควอไลเซอร์บน iPhone และ Mac"
 keywords: ["วิดีโอโปรโมท Evermusic", "เครื่องเล่นเพลง iOS", "แอปเพลงคลาวด์ iPhone", "สาธิตแอป Evermusic", "เครื่องเล่นเพลงที่ดีที่สุด iPhone", "เครื่องเล่นเพลงออฟไลน์ iOS"]
 tags: ["Evermusic", "โปรโมท", "เพลง", "วิดีโอ", "เพลงคลาวด์", "แอป iOS"]
-draft: false
 sidebar:
   exclude: true
 cascade:

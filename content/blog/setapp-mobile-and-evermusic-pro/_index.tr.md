@@ -4,7 +4,6 @@ date: 2024-09-17
 description: "Setapp Mobile aracılığıyla Evermusic Pro edinin. Google Drive, Dropbox, NAS ve daha fazlasından iPhone ve iPad'de çevrimdışı oynatma ve 10 bantlı EQ ile müzik yayınlayın."
 keywords: ["Setapp Mobile", "Evermusic Pro", "bulut müzik çalar", "müzik akışı iPhone", "çevrimdışı müzik iOS", "Setapp iOS uygulamaları", "audiofil uygulama iPhone", "ekolayzır iOS uygulaması", "NAS müzik iPhone", "bulut depolama müzik çalar", "Setapp müzik uygulaması", "Google Drive'dan müzik akışı iPhone"]
 tags: ["evermusic", "setapp", "bulut", "ses", "mobil", "pazar yeri", "müzik", "ios uygulamaları"]
-draft: false
 cascade:
   type: docs
 authors:

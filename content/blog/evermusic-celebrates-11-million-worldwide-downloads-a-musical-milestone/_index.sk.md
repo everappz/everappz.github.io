@@ -4,7 +4,6 @@ date: 2023-09-06
 description: "Evermusic dosiahol 11 miliónov stiahnutí. Pozrite si funkcie, ktoré z neho urobili špičkový cloudový hudobný prehrávač: ekvalizér, offline režim, iCloud a ďalšie."
 keywords: ["Evermusic 11 miliónov stiahnutí", "najlepší cloudový hudobný prehrávač iOS", "offline hudobný prehrávač iPhone", "streamovanie hudby z iCloud Drive", "aplikácia 10-pásmový ekvalizér", "editor ID3 tagov iOS", "synchronizácia hudobného prehrávača Mac iPhone", "FLAC prehrávač iPhone"]
 tags: ["Evermusic", "míľnik", "cloudová hudba", "offline prehrávanie", "iCloud Drive", "ekvalizér", "iOS hudobný prehrávač"]
-draft: false
 cascade:
   type: docs
 authors:

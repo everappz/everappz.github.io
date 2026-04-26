@@ -1,5 +1,4 @@
 ---
-draft: false
 title: 'Inscrever-se'
 sitemap:
   disable: true

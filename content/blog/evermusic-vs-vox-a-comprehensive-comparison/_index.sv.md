@@ -4,7 +4,6 @@ date: 2020-03-04
 description: "Evermusic vs VOX jämförs i 8 kategorier: molnlagring, ljudböcker, taggredigering, Wi-Fi-överföring och mer. Se vilken iOS-musikspelare som vinner."
 keywords: ["Evermusic vs VOX", "VOX alternativ iOS", "bästa musikspelare iPhone", "jämförelse molnmusikspelare", "ljudboksspelare iOS", "ID3-taggredigerare iPhone", "Wi-Fi musikapp", "FLAC-spelare iPhone", "musikspelare för molnlagring", "VOX Cloud alternativ"]
 tags: ["jämförelse", "evermusic", "vox", "moln", "ljudböcker", "taggar", "streaming", "appar", "musikspelare", "ios"]
-draft: false
 sidebar:
   exclude: true
 cascade:

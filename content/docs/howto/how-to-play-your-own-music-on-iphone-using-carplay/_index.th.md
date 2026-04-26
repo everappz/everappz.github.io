@@ -5,7 +5,6 @@ description: "เรียนรู้วิธีเล่นเพลงใน
 keywords: ["เพลง carplay", "เล่นเพลงของตัวเองบน iphone", "เพลงในเครื่อง iphone", "เพลงออฟไลน์ carplay", "evermusic", "flacbox", "เครื่องเล่น mp3 iphone"]
 tags: ["carplay", "iphone", "เพลงในเครื่อง", "เล่นออฟไลน์", "evermusic", "flacbox"]
 readingTime: 5
-draft: false
 ---
 
 {{< author-byline >}}

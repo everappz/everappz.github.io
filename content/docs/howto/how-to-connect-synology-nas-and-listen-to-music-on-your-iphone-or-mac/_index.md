@@ -5,7 +5,6 @@ description: "Learn how to connect your Synology NAS using native API or QuickCo
 keywords: ["synology nas", "stream music", "quickconnect", "evermusic synology", "flacbox synology", "nas music player", "iphone nas music"]
 tags: ["music", "streaming", "nas", "synology", "quickconnect"]
 readingTime: 4
-draft: false
 aliases:
   - /post/how-to-connect-synology-nas-and-listen-to-music-on-your-iphone-or-mac/
 ---

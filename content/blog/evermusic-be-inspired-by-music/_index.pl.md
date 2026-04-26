@@ -4,7 +4,6 @@ date: 2019-12-01
 description: "Obejrzyj film promocyjny Evermusic prezentujący strumieniowanie muzyki z chmury, odtwarzanie offline i funkcje korektora na iPhonie i Macu."
 keywords: ["Film promocyjny Evermusic", "odtwarzacz muzyki iOS", "aplikacja muzyki z chmury iPhone", "demo aplikacji Evermusic", "najlepszy odtwarzacz muzyki iPhone", "odtwarzacz muzyki offline iOS"]
 tags: ["Evermusic", "promocja", "muzyka", "wideo", "muzyka z chmury", "aplikacja iOS"]
-draft: false
 sidebar:
   exclude: true
 cascade:

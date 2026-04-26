@@ -4,7 +4,6 @@ date: 2025-04-05
 description: "شغّل FLAC وDSD وALAC وأكثر من 120 صيغة صوتية على iPhone وMac مع Flacbox. استورد عبر السحابة أو Wi-Fi أو USB. يتضمن معادل 10 نطاقات وتشغيل بدون إنترنت."
 keywords: ["مشغل موسيقى بلا فقدان", "مشغل FLAC iOS", "مشغل DSD iPhone", "صوت عالي الدقة Mac", "تطبيق Flacbox", "أفضل مشغل FLAC iPhone", "مشغل FLAC بدون إنترنت", "مشغل موسيقى audiophile iOS", "مشغل FLAC Mac", "بث عالي الدقة iOS", "تشغيل FLAC على iPhone", "مشغل DSD128", "تطبيق صوت بلا فقدان"]
 tags: ["flacbox", "موسيقى", "صوت", "بلا فقدان", "iphone", "mac", "flac", "dsd", "audiophile"]
-draft: false
 cascade:
   type: docs
 authors:

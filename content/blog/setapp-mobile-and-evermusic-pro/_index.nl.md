@@ -4,7 +4,6 @@ date: 2024-09-17
 description: "Krijg Evermusic Pro via Setapp Mobile. Stream muziek van Google Drive, Dropbox, NAS en meer op iPhone en iPad met offline afspelen en een 10-bands EQ."
 keywords: ["Setapp Mobile", "Evermusic Pro", "cloudmuziekspeler", "muziekstreaming iPhone", "offline muziek iOS", "Setapp iOS-apps", "audiofiel app iPhone", "equalizer iOS-app", "NAS muziek iPhone", "cloudopslag muziekspeler", "Setapp muziek-app", "stream muziek van Google Drive iPhone"]
 tags: ["evermusic", "setapp", "cloud", "audio", "mobiel", "marktplaats", "muziek", "ios-apps"]
-draft: false
 cascade:
   type: docs
 authors:

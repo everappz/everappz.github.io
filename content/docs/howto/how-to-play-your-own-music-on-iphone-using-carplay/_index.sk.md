@@ -5,7 +5,6 @@ description: "Naučte sa, ako prehrávať vlastnú lokálnu alebo offline hudbu 
 keywords: ["carplay hudba", "prehrávanie vlastnej hudby na iphone", "iphone lokálna hudba", "carplay offline hudba", "evermusic", "flacbox", "iphone mp3 prehrávač"]
 tags: ["carplay", "iphone", "lokálna hudba", "offline prehrávanie", "evermusic", "flacbox"]
 readingTime: 5
-draft: false
 ---
 
 {{< author-byline >}}

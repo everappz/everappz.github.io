@@ -1,6 +1,5 @@
 ---
 date: '2025-06-12T17:00:00+00:00'
-draft: false
 title: 'Brugervejledning'
 description: 'Lær at bruge Everappz-apps som Evermusic, Flacbox, Evervideo og Evertag. Opsæt skyforbindelser, administrer din musik og dine videoer, tilpas afspilning, og udforsk alle funktioner på ét sted.'
 keywords: ["Evermusic brugervejledning", "Flacbox vejledning", "Evervideo support", "Evertag manual", "opsætning af skymusikafspiller", "hjælp til offline afspilning", "instruktioner til lydtageditor", "Apple CarPlay musikguide", "AirPlay videospiller tutorial", "ekvalisatorkonfiguration"]

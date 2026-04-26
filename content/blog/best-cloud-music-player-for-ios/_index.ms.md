@@ -4,7 +4,6 @@ date: 2025-01-05
 description: "Evermusic menyambung ke 12+ perkhidmatan awan, memainkan FLAC dan MP3 secara luar talian, dan mengurus perpustakaan muzik anda. Lihat mengapa ia adalah pemain muzik awan terbaik untuk iOS."
 keywords: ["pemain muzik awan iOS terbaik", "pemain muzik awan iPhone", "main muzik dari Dropbox", "pemain muzik luar talian iPhone", "pemain FLAC iOS", "ulasan Evermusic", "pengurus perpustakaan muzik iOS", "pemain muzik Google Drive", "pemain muzik NAS iPhone", "pemain muzik WebDAV"]
 tags: ["Evermusic", "cloud music", "offline playback", "iOS music apps", "MP3 player", "audio", "music streaming", "guide", "FLAC", "review"]
-draft: false
 cascade:
   type: docs
 authors:

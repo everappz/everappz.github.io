@@ -1,6 +1,5 @@
 ---
 date: '2025-06-12T17:00:00+00:00'
-draft: false
 title: 'Preguntas frecuentes'
 description: 'Encuentra respuestas a preguntas comunes sobre Evermusic, Flacbox, Evervideo y Evertag. Explora funciones como streaming en la nube, gestión de archivos, opciones de reproducción, edición de metadatos y más.'
 keywords: [

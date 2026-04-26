@@ -1,6 +1,5 @@
 ---
 date: '2025-06-12T17:00:00+00:00'
-draft: false
 title: 'Útmutatók'
 description: 'Lépésről lépésre szóló útmutatók és tippek, amelyek segítenek beállítani, használni és a legtöbbet kihozni az Everappz alkalmazásokból.'
 excludeSearch: true

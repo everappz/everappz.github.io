@@ -1,5 +1,4 @@
 ---
-draft: false
 title: 'Підписатися'
 sitemap:
   disable: true

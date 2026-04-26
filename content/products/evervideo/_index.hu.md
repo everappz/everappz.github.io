@@ -1,6 +1,5 @@
 ---
 date: '2025-06-12T17:00:00+00:00'
-draft: false
 title: 'Evervideo - HD videólejátszó iPhone-ra és Macre'
 layout: hextra-home
 description: "Töltse le a legjobb ingyenes videólejátszót iPhone-jára és Mac-jére. Nézzen 360°-os videókat, aktiváljon feliratokat, állítsa be a videó hangszínszabályzót, rendezze videóit lejátszási listákkal, töltse le offline megtekintéshez és streamelj az iCloudból."

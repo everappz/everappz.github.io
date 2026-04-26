@@ -1,6 +1,5 @@
 ---
 date: '2025-06-12T17:00:00+00:00'
-draft: false
 title: 'Evervideo - iPhone ve Mac için HD Video Oynatıcı'
 layout: hextra-home
 description: "iPhone ve Mac'iniz için en iyi ücretsiz video oynatıcıyı indirin. 360° videoları izleyin, altyazıları etkinleştirin, video ekolayzerini ayarlayın, videolarınızı çalma listeleriyle düzenleyin, çevrimdışı indirin ve iCloud'dan yayınlayın."

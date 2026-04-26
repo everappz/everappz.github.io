@@ -4,7 +4,6 @@ date: 2025-04-05
 description: "Play FLAC, DSD, ALAC, and 120+ audio formats on iPhone and Mac with Flacbox. Import via cloud, Wi-Fi, or USB. Includes 10-band EQ and offline playback."
 keywords: ["lossless music player", "FLAC player iOS", "DSD player iPhone", "hi-res audio Mac", "Flacbox app", "best FLAC player iPhone", "offline FLAC player", "audiophile music player iOS", "Mac FLAC player", "hi-res streaming iOS", "play FLAC on iPhone", "DSD128 player", "lossless audio app"]
 tags: ["flacbox", "music", "audio", "lossless", "iphone", "mac", "flac", "dsd", "audiophile"]
-draft: false
 aliases:
   - /post/unleash-audiophile-bliss-playing-lossless-music-on-iphone-or-mac-with-flacbox/
 cascade:

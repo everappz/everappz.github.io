@@ -4,7 +4,6 @@ date: 2016-05-26
 description: "O Evermusic 2.3 adiciona sincronização automática de música na nuvem, salvamento da posição de reprodução para audiolivros, leitura de metadados em segundo plano e correção de tags ID3."
 keywords: ["Evermusic", "reprodutor de música na nuvem", "sincronização de música iOS", "salvar posição de reprodução", "reprodução de audiolivros", "leitor de metadados", "corrigir tags ID3", "transmitir música da nuvem", "aplicativo de música para Dropbox", "reprodutor Google Drive", "sincronização automática da biblioteca musical", "salvar posição de audiolivro iOS"]
 tags: ["evermusic", "música", "reprodução", "gerenciador", "editor", "sincronização", "posição", "tags id3", "nuvem", "novidades"]
-draft: false
 cascade:
   type: docs
 authors:

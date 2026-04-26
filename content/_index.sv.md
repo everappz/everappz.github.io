@@ -1,6 +1,5 @@
 ---
 date: '2025-06-12T17:00:00+00:00'
-draft: false
 title: 'Hem'
 layout: hextra-home
 description: "Utforska Everappz-appar för iPhone och Mac: spela FLAC, DSD, APE och ALAC, strömma från molnlagring eller NAS, ladda ner musik och videor, redigera taggar och anpassa uppspelning med equalizer och spellistverktyg."

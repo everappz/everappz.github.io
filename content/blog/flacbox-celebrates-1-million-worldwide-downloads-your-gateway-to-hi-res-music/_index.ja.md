@@ -4,7 +4,6 @@ date: 2023-09-06
 description: "Flacboxが世界で100万ダウンロードを達成。iPhone、iPad、Mac向けトップHi-Resオーディオプレーヤーの機能を紹介 — FLAC、DSD、APE、イコライザー、オフライン再生。"
 keywords: ["Flacbox音楽プレーヤー", "Hi-ResオーディオiOS", "ロスレス音楽アプリ", "DSD FLAC APEプレーヤー", "オフラインFLAC音楽", "Flacboxダウンロードマイルストーン", "高音質オーディオiPhone", "Everappzオーディオアプリ", "CUEプレイリストプレーヤー", "100万ダウンロード", "最高のFLACプレーヤーiOS", "Hi-Res音楽プレーヤーMac"]
 tags: ["Flacbox", "ロスレス", "Hi-Resオーディオ", "音楽プレーヤー", "オーディオ", "マイルストーン", "iOSアプリ", "新機能"]
-draft: false
 cascade:
   type: docs
 authors:

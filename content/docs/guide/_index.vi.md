@@ -1,6 +1,5 @@
 ---
 date: '2025-06-12T17:00:00+00:00'
-draft: false
 title: 'Hướng dẫn sử dụng'
 description: 'Tìm hiểu cách sử dụng các ứng dụng Everappz như Evermusic, Flacbox, Evervideo và Evertag. Thiết lập kết nối đám mây, quản lý âm nhạc và video, tùy chỉnh phát lại và khám phá tất cả các tính năng ở một nơi.'
 keywords: [

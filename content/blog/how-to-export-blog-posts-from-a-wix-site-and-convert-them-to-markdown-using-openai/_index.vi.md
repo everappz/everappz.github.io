@@ -4,7 +4,6 @@ date: 2025-06-24
 description: "Tự động hóa xuất blog Wix bằng Python, Selenium và OpenAI. Trích xuất nội dung động, tải ảnh và chuyển đổi HTML thành Markdown cho Hugo hoặc Jekyll."
 keywords: ["xuất blog Wix", "chuyển đổi HTML sang markdown", "OpenAI chuyển đổi markdown", "wix sang markdown", "di chuyển blog SEO", "di chuyển wix sang hugo", "beautifulsoup scraper", "selenium render HTML", "OpenAI API tự động hóa", "di chuyển wix sang trang tĩnh", "wix blog scraper python"]
 tags: ["wix", "markdown", "di chuyển blog", "openai", "scraping", "beautifulsoup", "selenium", "tự động hóa", "SEO", "hướng dẫn"]
-draft: false
 cascade:
   type: docs
 authors:

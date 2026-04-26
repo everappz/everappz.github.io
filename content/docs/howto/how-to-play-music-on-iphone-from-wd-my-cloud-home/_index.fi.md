@@ -5,7 +5,6 @@ description: "Opi kuinka suoratoistaa ja ladata musiikkia WD My Cloud Homesta iP
 keywords: ["evermusic", "wd my cloud", "suoratoista musiikkia", "iphone", "NAS-tallennustila", "offline-musiikki", "mukautettu taajuuskorjain", "my cloud home", "8TB musiikkikirjasto", "WD MyCloud EX2 Ultra", "MyCloud Mirror"]
 tags: ["evermusic", "musiikki", "pilvi", "iphone", "tallennustila", "nas", "kuuntele", "etä", "koti", "verkossa", "wd", "mycloud"]
 readingTime: 4
-draft: false
 ---
 
 {{< author-byline >}}

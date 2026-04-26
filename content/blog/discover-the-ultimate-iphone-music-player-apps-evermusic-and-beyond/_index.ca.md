@@ -4,7 +4,6 @@ date: 2020-05-05
 description: "Compara les millors aplicacions de reproductor de música per a iPhone: Evermusic, Apple Music, Spotify, VLC i Amazon Music. Característiques, preus i suport fora de línia."
 keywords: ["millor reproductor de música iPhone", "aplicació reproductor de música iOS", "Evermusic vs Spotify", "reproductor de música al núvol iPhone", "aplicació de música fora de línia iPhone", "reproductor FLAC iOS", "alternatives a Apple Music", "VLC iPhone", "reproductor de música gratuït iOS"]
 tags: ["aplicacions de música", "iOS", "Evermusic", "Apple Music", "Spotify", "VLC", "Amazon Music", "comparació", "música al núvol", "reproducció fora de línia"]
-draft: false
 cascade:
   type: docs
 authors:

@@ -4,7 +4,6 @@ date: 2016-05-26
 description: "Streamelj zenét a Google Drive-ról, Dropboxról vagy OneDrive-ról iPhone-on és iPaden az Evermusickel. Szabadíts fel tárhelyet és hallgass offline-ban iTunes szinkronizálás nélkül."
 keywords: ["Evermusic", "felhő zenelejátszó", "iOS zenei alkalmazás", "zene streamelés felhőből", "offline zene iPhone", "Google Drive zenelejátszó", "Dropbox zene streamelés", "MP3 lejátszó iPhone", "tárhely felszabadítás iPhone", "zene SMB-ről", "zene lejátszása felhőtárhelyről iOS", "zenelejátszó iTunes nélkül"]
 tags: ["audió", "streamelés", "lejátszó", "mp3", "letöltő", "GoogleDrive", "Dropbox", "felhő zene", "offline lejátszás"]
-draft: false
 cascade:
   type: docs
 authors:

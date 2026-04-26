@@ -4,7 +4,6 @@ date: 2025-04-05
 description: "เล่น FLAC, DSD, ALAC และรูปแบบเสียงมากกว่า 120 รูปแบบบน iPhone และ Mac ด้วย Flacbox นำเข้าผ่านคลาวด์ Wi-Fi หรือ USB มีอีควอไลเซอร์ 10 แบนด์และการเล่นออฟไลน์"
 keywords: ["เครื่องเล่นเพลง lossless", "เครื่องเล่น FLAC iOS", "เครื่องเล่น DSD iPhone", "hi-res audio Mac", "แอป Flacbox", "เครื่องเล่น FLAC ที่ดีที่สุด iPhone", "เครื่องเล่น FLAC ออฟไลน์", "เครื่องเล่นเพลงออดิโอไฟล์ iOS", "Mac FLAC เครื่องเล่น", "hi-res สตรีมมิ่ง iOS", "เล่น FLAC บน iPhone", "เครื่องเล่น DSD128", "แอปเสียง lossless"]
 tags: ["flacbox", "เพลง", "เสียง", "lossless", "iphone", "mac", "flac", "dsd", "ออดิโอไฟล์"]
-draft: false
 cascade:
   type: docs
 authors:

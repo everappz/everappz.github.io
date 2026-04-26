@@ -5,7 +5,6 @@ description: "Află cum să transmiți și să descarci muzică de pe WD My Clou
 keywords: ["evermusic", "wd my cloud", "transmitere muzică", "iphone", "stocare NAS", "muzică offline", "egalizator personalizat", "my cloud home", "bibliotecă muzicală 8TB", "WD MyCloud EX2 Ultra", "MyCloud Mirror"]
 tags: ["evermusic", "muzică", "cloud", "iphone", "stocare", "nas", "ascultare", "remote", "acasă", "online", "wd", "mycloud"]
 readingTime: 4
-draft: false
 ---
 
 {{< author-byline >}}

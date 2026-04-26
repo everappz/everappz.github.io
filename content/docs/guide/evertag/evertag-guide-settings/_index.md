@@ -1,7 +1,6 @@
 ---
 title: "Settings"
 date: 2020-02-01
-draft: false
 description: "Explore all available settings in Evertag, including tag editor preferences, file transfers, UI customization, language selection, backup options, and Premium upgrade features."
 keywords: [
   "Evertag settings", "tag editor preferences", "metadata editor",

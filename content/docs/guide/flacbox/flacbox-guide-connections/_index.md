@@ -1,7 +1,6 @@
 ---
 title: "Connections"
 date: 2020-02-01
-draft: false
 aliases:
   - /post/flacbox-guide-connections/
   - /guide-flacbox-connect/

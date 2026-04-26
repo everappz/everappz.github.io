@@ -4,7 +4,6 @@ date: 2017-01-25
 description: "Flacbox 1.6 pro iOS přidává automatickou cloudovou synchronizaci, 10pásmový ekvalizér, podporu formátu OPUS a přehrávání hudby z externího flash disku pro iPhone a iPad."
 keywords: ["aktualizace Flacbox", "přehrávač FLAC iOS", "10pásmový ekvalizér iPhone", "automatická synchronizace hudby", "přehrávání OPUS na iPhone", "hudba z externího flash disku", "streamování FLAC iOS", "aplikace pro hi-res hudbu iPhone", "ekvalizér Flacbox", "přehrávač hudby z SD karty iOS"]
 tags: ["Flacbox", "ekvalizér", "hudební knihovna", "OPUS", "FLAC", "externí úložiště", "synchronizace", "audio přehrávač", "iOS aplikace", "aktualizace"]
-draft: false
 cascade:
   type: docs
 authors:

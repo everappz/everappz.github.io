@@ -1,6 +1,5 @@
 ---
 date: '2025-06-12T17:00:00+00:00'
-draft: false
 title: 'Flacbox - Hi-Res lydspiller for iPhone og Mac'
 layout: hextra-home
 description: "Spill av og last ned FLAC, DSD, APE, ALAC-filer på din iPhone. Lytt til musikken din direkte fra skylagring eller datamaskin med equalizer."

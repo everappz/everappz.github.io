@@ -1,5 +1,4 @@
 ---
-draft: false
 title: 'Iscriviti'
 sitemap:
   disable: true

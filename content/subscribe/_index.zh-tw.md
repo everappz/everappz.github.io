@@ -1,5 +1,4 @@
 ---
-draft: false
 title: '訂閱'
 sitemap:
   disable: true

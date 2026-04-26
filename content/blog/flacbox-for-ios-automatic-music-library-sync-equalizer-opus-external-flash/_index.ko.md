@@ -4,7 +4,6 @@ date: 2017-01-25
 description: "Flacbox 1.6 iOS용은 자동 클라우드 동기화, 10밴드 이퀄라이저, OPUS 형식 지원, iPhone 및 iPad용 외장 플래시 드라이브 재생을 추가합니다."
 keywords: ["Flacbox 업데이트", "FLAC 플레이어 iOS", "10밴드 이퀄라이저 iPhone", "자동 음악 동기화", "iPhone에서 OPUS 재생", "외장 플래시 드라이브 음악", "FLAC 스트리밍 iOS", "hi-res 음악 앱 iPhone", "Flacbox 이퀄라이저", "SD 카드 음악 플레이어 iOS"]
 tags: ["Flacbox", "이퀄라이저", "음악 라이브러리", "OPUS", "FLAC", "외부 저장소", "동기화", "오디오 플레이어", "iOS 앱", "업데이트"]
-draft: false
 cascade:
   type: docs
 authors:

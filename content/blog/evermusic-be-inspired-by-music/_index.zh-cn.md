@@ -4,7 +4,6 @@ date: 2019-12-01
 description: "观看 Evermusic 宣传视频，展示 iPhone 和 Mac 上的云音乐串流、离线播放和均衡器功能。"
 keywords: ["Evermusic 宣传视频", "音乐播放器 iOS", "云音乐应用 iPhone", "Evermusic 应用演示", "最佳音乐播放器 iPhone", "离线音乐播放器 iOS"]
 tags: ["Evermusic", "宣传", "音乐", "视频", "云音乐", "iOS 应用"]
-draft: false
 sidebar:
   exclude: true
 cascade:

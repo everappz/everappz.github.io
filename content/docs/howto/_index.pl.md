@@ -1,6 +1,5 @@
 ---
 date: '2025-06-12T17:00:00+00:00'
-draft: false
 title: 'Instrukcje'
 description: 'Przewodniki krok po kroku i wskazówki, które pomogą Ci skonfigurować, używać i w pełni korzystać z aplikacji Everappz.'
 excludeSearch: true

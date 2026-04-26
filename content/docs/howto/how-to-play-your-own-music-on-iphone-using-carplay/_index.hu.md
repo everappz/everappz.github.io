@@ -5,7 +5,6 @@ description: "Ismerje meg, hogyan játszhatja le saját helyi vagy offline zené
 keywords: ["carplay zene", "saját zene lejátszása iPhone-on", "iPhone helyi zene", "carplay offline zene", "evermusic", "flacbox", "iPhone mp3 lejátszó"]
 tags: ["carplay", "iPhone", "helyi zene", "offline lejátszás", "evermusic", "flacbox"]
 readingTime: 5
-draft: false
 ---
 
 {{< author-byline >}}

@@ -4,7 +4,6 @@ date: 2023-09-06
 description: "Flacbox saavuttaa 1 miljoonan latauksen maailmanlaajuisesti. Tutustu ominaisuuksiin, jotka tekevät siitä parhaan hi-res-äänisoittimen iPhonelle, iPadille ja Macille — FLAC, DSD, APE, taajuuskorjain ja offline-toisto."
 keywords: ["Flacbox musiikkisoitin", "hi-res-ääni iOS", "häviötön musiikkisovellus", "DSD FLAC APE -soitin", "offline FLAC-musiikki", "Flacbox latausten virstanpylväs", "korkealaatuinen ääni iPhone", "Everappz äänisovellukset", "CUE-soittolistan soitin", "1 miljoona latausta", "paras FLAC-soitin iOS", "hi-res-musiikkisoitin Mac"]
 tags: ["Flacbox", "häviötön", "hi-res-ääni", "musiikkisoitin", "ääni", "virstanpylväs", "iOS-sovellukset", "uutiset"]
-draft: false
 cascade:
   type: docs
 authors:

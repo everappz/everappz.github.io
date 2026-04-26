@@ -4,7 +4,6 @@ date: 2019-07-02
 description: "Katso Evermusicin virallinen promovideo. Näe miten Evermusic suoratoistaa, lataa ja järjestää musiikkisi pilvipalvelusta iPhonella ja iPadilla."
 keywords: ["Evermusic promovideo", "pilvimusiikkisoitin iPhone", "musiikkisovelluksen video", "Evermusic-sovelluksen esittely", "pilvimusiikki iOS", "Evermusicin ominaisuudet", "musiikkisoitin iPad", "suoratoista musiikkia pilvestä"]
 tags: ["Evermusic", "promootio", "video", "iOS", "musiikki", "pilvi", "soitin", "mobiilisovellus"]
-draft: false
 cascade:
   type: docs
 authors:

@@ -1,7 +1,6 @@
 ---
 title: "Navigation"
 date: 2020-02-01
-draft: false
 description: "Learn how to navigate the Evertag interface on iPhone, iPad, and Mac. This guide covers Local Files, File Manager, Connections, Tag Editor, Settings, and accessibility features like VoiceOver."
 keywords: [
   "Evertag navigation", "tag editor interface", "audio file manager iOS", "edit music metadata",

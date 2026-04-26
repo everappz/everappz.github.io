@@ -5,7 +5,6 @@ description: "Learn how to import M3U, M3U8, and CUE playlist files from cloud, 
 keywords: ["evermusic", "flacbox", "playlist", "m3u", "m3u8", "cue", "import", "music app"]
 tags: ["evermusic", "import", "playlists", "m3u", "cue"]
 readingTime: 3
-draft: false
 aliases:
   - /post/how-to-import-m3u-playlist-to-evermusic-and-flacbox/
 ---

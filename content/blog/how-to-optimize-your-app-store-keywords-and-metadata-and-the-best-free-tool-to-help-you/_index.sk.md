@@ -12,7 +12,6 @@ tags: [
   "optimalizácia App Store", "bezplatné ASO nástroje", "optimalizácia titulu app store",
   "bezplatný ASO nástroj", "stratégia kľúčových slov app store", "optimalizátor metadát"
 ]
-draft: false
 sidebar:
   exclude: true
 cascade:

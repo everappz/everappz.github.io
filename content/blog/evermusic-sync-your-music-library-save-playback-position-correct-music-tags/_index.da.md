@@ -4,7 +4,6 @@ date: 2016-05-26
 description: "Evermusic 2.3 tilføjer automatisk cloud-musiksynkronisering, lagring af afspilningsposition til lydbøger, baggrundsmetadatalæsning og ID3-tagkorrektion."
 keywords: ["Evermusic", "cloud-musikafspiller", "musiksynkronisering iOS", "gem afspilningsposition", "lydbogsafspilning", "metadatalæser", "ret ID3-tags", "stream musik fra cloud", "musik-app til Dropbox", "Google Drive-afspiller", "automatisk musikbibliotekssynkronisering", "gem lydbogsposition iOS"]
 tags: ["evermusic", "musik", "afspilning", "manager", "editor", "synkronisering", "position", "id3-tags", "cloud", "nyheder"]
-draft: false
 cascade:
   type: docs
 authors:

@@ -4,7 +4,6 @@ date: 2019-12-01
 description: "Assista ao vídeo promocional do Evermusic mostrando streaming de música na nuvem, reprodução offline e recursos de equalizador no iPhone e Mac."
 keywords: ["Vídeo promocional Evermusic", "reprodutor de música iOS", "app de música na nuvem iPhone", "demo do app Evermusic", "melhor reprodutor de música iPhone", "reprodutor de música offline iOS"]
 tags: ["Evermusic", "promoção", "música", "vídeo", "música na nuvem", "app iOS"]
-draft: false
 sidebar:
   exclude: true
 cascade:

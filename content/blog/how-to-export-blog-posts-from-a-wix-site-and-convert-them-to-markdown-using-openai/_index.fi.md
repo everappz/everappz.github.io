@@ -4,7 +4,6 @@ date: 2025-06-24
 description: "Automatisoi Wix-blogin vienti Pythonilla, Seleniumilla ja OpenAI:lla. Poimi dynaaminen sisältö, lataa kuvat ja muunna HTML puhtaaksi Markdowniksi Hugolle tai Jekyllille."
 keywords: ["Wix blogin vienti", "muunna HTML markdowniksi", "OpenAI markdown-muunnos", "wix markdowniksi", "SEO blogin migraatio", "wix hugo migraatio", "beautifulsoup scraper", "selenium HTML-renderöinti", "OpenAI API automatisointi", "wix staattiseksi sivustoksi", "wix blogi scraper python"]
 tags: ["wix", "markdown", "blogin migraatio", "openai", "scraping", "beautifulsoup", "selenium", "automatisointi", "SEO", "opas"]
-draft: false
 cascade:
   type: docs
 authors:

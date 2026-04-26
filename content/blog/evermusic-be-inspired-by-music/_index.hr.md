@@ -4,7 +4,6 @@ date: 2019-12-01
 description: "Pogledajte Evermusic promotivni video koji prikazuje streaming glazbe iz oblaka, izvanmrežnu reprodukciju i značajke ekvilajzera na iPhoneu i Macu."
 keywords: ["Evermusic promotivni video", "glazbeni player iOS", "aplikacija za glazbu u oblaku iPhone", "Evermusic demo aplikacije", "najbolji glazbeni player iPhone", "izvanmrežni glazbeni player iOS"]
 tags: ["Evermusic", "promo", "glazba", "video", "glazba u oblaku", "iOS aplikacija"]
-draft: false
 sidebar:
   exclude: true
 cascade:

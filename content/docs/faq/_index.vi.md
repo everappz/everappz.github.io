@@ -1,6 +1,5 @@
 ---
 date: '2025-06-12T17:00:00+00:00'
-draft: false
 title: 'Câu hỏi thường gặp'
 description: 'Tìm câu trả lời cho các câu hỏi phổ biến về Evermusic, Flacbox, Evervideo và Evertag. Khám phá các tính năng như phát trực tuyến từ đám mây, quản lý tệp, tùy chọn phát lại, chỉnh sửa siêu dữ liệu và nhiều hơn nữa.'
 keywords: [

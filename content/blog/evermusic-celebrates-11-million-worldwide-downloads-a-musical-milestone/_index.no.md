@@ -4,7 +4,6 @@ date: 2023-09-06
 description: "Evermusic når 11 millioner nedlastinger. Se funksjonene som gjorde det til en topp skymusikkspiller: equalizer, offline-modus, iCloud og mer."
 keywords: ["Evermusic 11 millioner nedlastinger", "beste skymusikkspiller iOS", "musikkspiller uten nett iPhone", "iCloud Drive musikkstrømming", "10-bånds equalizer-app", "ID3 tag-editor iOS", "musikkspiller Mac iPhone synkronisering", "FLAC-spiller iPhone"]
 tags: ["Evermusic", "milepæl", "skymusikk", "avspilling uten nett", "iCloud Drive", "equalizer", "iOS musikkspiller"]
-draft: false
 cascade:
   type: docs
 authors:

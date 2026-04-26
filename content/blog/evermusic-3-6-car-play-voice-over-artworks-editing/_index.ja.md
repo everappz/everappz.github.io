@@ -4,7 +4,6 @@ date: 2019-05-19
 description: "Evermusic 3.6ではCarPlayサポート、VoiceOverアクセシビリティ、ミックスオーディオ出力、アートワーク編集、iCloud Driveからのインポートが追加されました。"
 keywords: ["Evermusic CarPlay", "音楽プレーヤー CarPlay iPhone", "VoiceOver 音楽アプリ iOS", "FLAC タグエディタ iPhone", "アルバムアートワーク編集 iOS", "iCloud Drive 音楽インポート", "オーディオプレーヤー アクセシビリティ iOS", "ミックスオーディオ出力 iPhone"]
 tags: ["Evermusic", "CarPlay", "VoiceOver", "アクセシビリティ", "iCloud Drive", "タグエディタ", "アートワーク編集", "iOSアップデート"]
-draft: false
 cascade:
   type: docs
 authors:

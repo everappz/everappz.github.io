@@ -1,6 +1,5 @@
 ---
 date: '2025-06-12T17:00:00+00:00'
-draft: false
 title: 'Evervideo - Pemutar Video HD untuk iPhone dan Mac'
 layout: hextra-home
 description: "Unduh pemutar video gratis terbaik untuk iPhone dan Mac Anda. Tonton video 360°, aktifkan subtitle, sesuaikan equalizer video, atur video Anda dengan playlist, unduh untuk offline, dan streaming dari iCloud."

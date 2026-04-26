@@ -4,7 +4,6 @@ date: 2017-01-25
 description: "Flacbox 1.6 cho iOS thêm đồng bộ đám mây tự động, bộ cân bằng 10 dải, hỗ trợ định dạng OPUS và phát từ ổ flash ngoài cho iPhone và iPad."
 keywords: ["cập nhật Flacbox", "trình phát FLAC iOS", "bộ cân bằng 10 dải iPhone", "đồng bộ nhạc tự động", "phát OPUS trên iPhone", "nhạc ổ flash ngoài", "phát trực tuyến FLAC iOS", "ứng dụng nhạc hi-res iPhone", "Flacbox bộ cân bằng", "trình phát nhạc thẻ SD iOS"]
 tags: ["Flacbox", "bộ cân bằng", "thư viện nhạc", "OPUS", "FLAC", "bộ nhớ ngoài", "đồng bộ", "trình phát âm thanh", "ứng dụng iOS", "cập nhật"]
-draft: false
 cascade:
   type: docs
 authors:

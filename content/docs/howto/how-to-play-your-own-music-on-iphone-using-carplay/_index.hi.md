@@ -5,7 +5,6 @@ description: "Apple CarPlay का उपयोग करके अपने iPh
 keywords: ["carplay संगीत", "iPhone पर अपना संगीत चलाएं", "iPhone लोकल संगीत", "carplay ऑफ़लाइन संगीत", "evermusic", "flacbox", "iPhone mp3 प्लेयर"]
 tags: ["carplay", "iPhone", "लोकल संगीत", "ऑफ़लाइन प्लेबैक", "evermusic", "flacbox"]
 readingTime: 5
-draft: false
 ---
 
 {{< author-byline >}}

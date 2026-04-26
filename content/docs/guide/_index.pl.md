@@ -1,6 +1,5 @@
 ---
 date: '2025-06-12T17:00:00+00:00'
-draft: false
 title: 'Podręcznik użytkownika'
 description: 'Dowiedz się, jak korzystać z aplikacji Everappz, takich jak Evermusic, Flacbox, Evervideo i Evertag. Skonfiguruj połączenia z chmurą, zarządzaj muzyką i filmami, dostosuj odtwarzanie i poznaj wszystkie funkcje w jednym miejscu.'
 keywords: [

@@ -1,6 +1,5 @@
 ---
 date: '2025-06-12T17:00:00+00:00'
-draft: false
 title: 'כיצד לעשות'
 description: 'מדריכים שלב-אחר-שלב וטיפים שיעזרו לך להגדיר, להשתמש ולהפיק את המירב מאפליקציות Everappz.'
 excludeSearch: true

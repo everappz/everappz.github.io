@@ -4,7 +4,6 @@ date: 2019-05-19
 description: "يضيف Evermusic 3.6 دعم CarPlay وإمكانية الوصول عبر VoiceOver والإخراج الصوتي المختلط وتحرير الأغلفة واستيراد ملفات iCloud Drive."
 keywords: ["Evermusic CarPlay", "مشغل موسيقى CarPlay آيفون", "تطبيق موسيقى VoiceOver iOS", "محرر علامات FLAC آيفون", "تحرير غلاف الألبوم iOS", "استيراد موسيقى iCloud Drive", "مشغل صوتي إمكانية الوصول iOS", "إخراج صوتي مختلط آيفون"]
 tags: ["Evermusic", "CarPlay", "VoiceOver", "إمكانية الوصول", "iCloud Drive", "محرر العلامات", "تحرير الأغلفة", "تحديث iOS"]
-draft: false
 cascade:
   type: docs
 authors:

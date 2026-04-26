@@ -5,7 +5,6 @@ description: "Naučte se, jak streamovat a stahovat hudbu z WD My Cloud Home do 
 keywords: ["evermusic", "wd my cloud", "streamování hudby", "iphone", "úložiště NAS", "offline hudba", "vlastní ekvalizér", "my cloud home", "hudební knihovna 8 TB", "WD MyCloud EX2 Ultra", "MyCloud Mirror"]
 tags: ["evermusic", "hudba", "cloud", "iphone", "úložiště", "nas", "poslech", "vzdálený", "domov", "online", "wd", "mycloud"]
 readingTime: 4
-draft: false
 ---
 
 {{< author-byline >}}

@@ -5,7 +5,6 @@ description: "Apple CarPlay kullanarak iPhone'unuzda kendi yerel veya çevrimdı
 keywords: ["carplay müzik", "iphone'da kendi müziğini çal", "iphone yerel müzik", "carplay çevrimdışı müzik", "evermusic", "flacbox", "iphone mp3 çalar"]
 tags: ["carplay", "iphone", "yerel müzik", "çevrimdışı çalma", "evermusic", "flacbox"]
 readingTime: 5
-draft: false
 ---
 
 {{< author-byline >}}

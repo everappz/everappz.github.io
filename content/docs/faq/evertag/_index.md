@@ -1,6 +1,5 @@
 ---
 date: '2025-06-12T17:00:00+00:00'
-draft: false
 title: 'Evertag'
 description: 'Learn how to use Evertag — the advanced audio metadata editor for iOS and macOS. Organize your music collection, fix missing tags, and edit album artwork directly in the cloud or locally with batch editing support.'
 keywords: [

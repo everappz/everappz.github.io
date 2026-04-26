@@ -4,7 +4,6 @@ date: 2019-12-01
 description: "Tonton video promosi Evermusic yang mempamerkan penstriman muzik awan, main balik luar talian dan ciri penyama di iPhone dan Mac."
 keywords: ["Video promosi Evermusic", "pemain muzik iOS", "aplikasi muzik awan iPhone", "demo aplikasi Evermusic", "pemain muzik terbaik iPhone", "pemain muzik luar talian iOS"]
 tags: ["Evermusic", "promosi", "muzik", "video", "muzik awan", "aplikasi iOS"]
-draft: false
 sidebar:
   exclude: true
 cascade:

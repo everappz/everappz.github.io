@@ -1,6 +1,5 @@
 ---
 date: '2025-06-12T17:00:00+00:00'
-draft: false
 title: 'Flacbox - เครื่องเล่นเสียงความละเอียดสูงสำหรับ iPhone และ Mac'
 layout: hextra-home
 description: "เล่นและดาวน์โหลดไฟล์ FLAC, DSD, APE, ALAC บน iPhone ของคุณ ฟังเพลงจากคลาวด์สตอเรจหรือคอมพิวเตอร์พร้อมอีควอไลเซอร์"

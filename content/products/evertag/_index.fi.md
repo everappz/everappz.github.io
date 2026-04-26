@@ -1,6 +1,5 @@
 ---
 date: '2025-06-12T17:00:00+00:00'
-draft: false
 title: 'Evertag - Musiikin tunniste-editori iPhonelle ja Macille'
 layout: hextra-home
 description: "Pidä musiikkikirjastosi järjestyksessä. Etsi puuttuvat tunnisteet. Erämuokkaus. Vaihda albumin kansia ja paljon muuta."

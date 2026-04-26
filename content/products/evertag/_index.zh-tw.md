@@ -1,6 +1,5 @@
 ---
 date: '2025-06-12T17:00:00+00:00'
-draft: false
 title: 'Evertag - iPhone和Mac音樂標籤編輯器'
 layout: hextra-home
 description: "保持您的音樂庫井然有序。尋找缺失標籤。批次編輯。變更專輯封面及更多功能。"

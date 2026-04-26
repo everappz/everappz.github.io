@@ -1,6 +1,5 @@
 ---
 date: '2025-06-12T17:00:00+00:00'
-draft: false
 title: 'Evervideo - iPhoneとMac用HDビデオプレーヤー'
 layout: hextra-home
 description: "iPhoneとMac用の最高の無料ビデオプレーヤーをダウンロードしましょう。360°ビデオの視聴、字幕の有効化、ビデオイコライザーの調整、プレイリストでのビデオ整理、オフライン用ダウンロード、iCloudからのストリーミングが可能です。"

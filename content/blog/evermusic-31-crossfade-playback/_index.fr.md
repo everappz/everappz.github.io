@@ -4,7 +4,6 @@ date: 2018-06-19
 description: "Evermusic 3.1 ajoute le fondu enchaîné, une bibliothèque musicale repensée, la sauvegarde et restauration cloud, l'intégration iPod et l'édition améliorée des tags pour iOS."
 keywords: ["mise à jour Evermusic", "fondu enchaîné iOS", "application musique cloud", "application sauvegarde musique", "file d'attente lecteur audio", "éditeur tags musique", "mise à jour tags ID3", "intégration bibliothèque iPod", "lecteur musique iPhone", "fondu enchaîné musique iOS", "synchronisation bibliothèque musicale cloud", "sauvegarde playlists musique iOS"]
 tags: ["Evermusic", "fondu enchaîné", "bibliothèque musicale", "sauvegarde", "file d'attente audio", "tags", "lecteur cloud", "lecteur hors ligne", "éditeur", "bibliothèque iPod"]
-draft: false
 cascade:
   type: docs
 authors:

@@ -4,7 +4,6 @@ date: 2015-06-20
 description: "学习如何使用 AVAssetResourceLoaderDelegate 和 AVPlayer，通过自定义 URL 方案和磁盘缓存在 iOS 中实现音频流媒体传输与缓存。"
 keywords: ["iOS 音频流媒体", "AVAssetResourceLoaderDelegate", "AVURLAsset", "AVPlayer 教程", "AVFoundation 音频", "AVAssetResourceLoadingRequest", "iOS 自定义音频播放器", "iOS 云端音频流", "iOS 音频缓存", "Swift AVPlayer 自定义方案"]
 tags: ["streaming", "AVPlayer", "AVFoundation", "iOS", "AVAssetResourceLoader", "tutorial", "Objective-C", "audio caching"]
-draft: false
 cascade:
   type: docs
 authors:

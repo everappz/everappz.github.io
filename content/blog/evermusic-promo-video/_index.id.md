@@ -4,7 +4,6 @@ date: 2019-07-02
 description: "Tonton video promo resmi Evermusic. Lihat bagaimana Evermusic melakukan streaming, mengunduh, dan mengatur musik Anda dari penyimpanan cloud di iPhone dan iPad."
 keywords: ["video promo Evermusic", "pemutar musik cloud iPhone", "video aplikasi musik", "demo aplikasi Evermusic", "musik cloud iOS", "fitur Evermusic", "pemutar musik iPad", "streaming musik dari cloud"]
 tags: ["evermusic", "promo", "video", "ios", "musik", "cloud", "pemutar", "aplikasi mobile"]
-draft: false
 cascade:
   type: docs
 authors:

@@ -4,7 +4,6 @@ date: 2015-06-20
 description: "Дізнайтеся, як організувати потокову передачу та кешування аудіо в iOS за допомогою AVAssetResourceLoaderDelegate та AVPlayer із власними схемами URL і дисковим кешуванням."
 keywords: ["потокова передача аудіо iOS", "AVAssetResourceLoaderDelegate", "AVURLAsset", "підручник AVPlayer", "AVFoundation аудіо", "AVAssetResourceLoadingRequest", "власний аудіоплеєр iOS", "потокове хмарне аудіо iOS", "кешування аудіо iOS", "Swift AVPlayer власна схема"]
 tags: ["streaming", "AVPlayer", "AVFoundation", "iOS", "AVAssetResourceLoader", "tutorial", "Objective-C", "audio caching"]
-draft: false
 cascade:
   type: docs
 authors:

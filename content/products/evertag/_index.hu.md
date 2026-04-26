@@ -1,6 +1,5 @@
 ---
 date: '2025-06-12T17:00:00+00:00'
-draft: false
 title: 'Evertag - Zenei címkeszerkesztő iPhone-ra és Mac-re'
 layout: hextra-home
 description: "Tartsa zenei könyvtárát rendben. Találja meg a hiányzó címkéket. Kötegelt szerkesztés. Borítóképek módosítása és még sok más."

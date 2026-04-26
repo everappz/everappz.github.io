@@ -4,7 +4,6 @@ date: 2023-09-06
 description: "Evermusic atinge 11 milioane de descărcări. Vedeți funcțiile care l-au făcut un player de muzică cloud de top: egalizator, mod offline, iCloud și altele."
 keywords: ["Evermusic 11 milioane descărcări", "cel mai bun player muzică cloud iOS", "player muzică offline iPhone", "streaming muzică iCloud Drive", "aplicație egalizator 10 benzi", "editor taguri ID3 iOS", "player muzică sincronizare Mac iPhone", "player FLAC iPhone"]
 tags: ["Evermusic", "reper", "muzică cloud", "redare offline", "iCloud Drive", "egalizator", "player muzică iOS"]
-draft: false
 cascade:
   type: docs
 authors:

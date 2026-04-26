@@ -4,7 +4,6 @@ date: 2017-01-25
 description: "Το Flacbox 1.6 για iOS προσθέτει αυτόματο συγχρονισμό cloud, equalizer 10 ζωνών, υποστήριξη μορφής OPUS και αναπαραγωγή μουσικής από εξωτερικό flash drive για iPhone και iPad."
 keywords: ["ενημέρωση Flacbox", "αναπαραγωγέας FLAC iOS", "equalizer 10 ζωνών iPhone", "αυτόματος συγχρονισμός μουσικής", "αναπαραγωγή OPUS σε iPhone", "μουσική από εξωτερικό flash drive", "streaming FLAC iOS", "εφαρμογή hi-res μουσικής iPhone", "equalizer Flacbox", "αναπαραγωγέας μουσικής κάρτα SD iOS"]
 tags: ["Flacbox", "equalizer", "μουσική βιβλιοθήκη", "OPUS", "FLAC", "εξωτερική αποθήκευση", "συγχρονισμός", "αναπαραγωγέας ήχου", "εφαρμογές iOS", "ενημέρωση"]
-draft: false
 cascade:
   type: docs
 authors:

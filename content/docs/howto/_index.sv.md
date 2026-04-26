@@ -1,6 +1,5 @@
 ---
 date: '2025-06-12T17:00:00+00:00'
-draft: false
 title: 'Instruktioner'
 description: 'Steg-för-steg-guider och tips som hjälper dig att konfigurera, använda och få ut det mesta av Everappz-appar.'
 excludeSearch: true

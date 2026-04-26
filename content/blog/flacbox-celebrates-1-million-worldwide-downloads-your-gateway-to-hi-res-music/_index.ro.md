@@ -4,7 +4,6 @@ date: 2023-09-06
 description: "Flacbox atinge 1 milion de descărcări globale. Explorați funcțiile care îl fac cel mai bun player audio hi-res pentru iPhone, iPad și Mac — FLAC, DSD, APE, egalizator și redare offline."
 keywords: ["player muzical Flacbox", "audio hi-res iOS", "aplicație muzică lossless", "player DSD FLAC APE", "muzică FLAC offline", "reper descărcări Flacbox", "audio de înaltă calitate iPhone", "aplicații audio Everappz", "player playlist CUE", "1 milion descărcări", "cel mai bun player FLAC iOS", "player muzică hi-res Mac"]
 tags: ["Flacbox", "lossless", "audio hi-res", "player muzical", "audio", "reper", "aplicații iOS", "Ce este nou"]
-draft: false
 cascade:
   type: docs
 authors:

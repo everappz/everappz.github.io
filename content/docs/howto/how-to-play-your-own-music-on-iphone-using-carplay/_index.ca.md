@@ -5,7 +5,6 @@ description: "Aprèn com reproduir la teva música local o sense connexió a l'i
 keywords: ["música carplay", "reproduir música pròpia a l'iphone", "música local iphone", "música carplay sense connexió", "evermusic", "flacbox", "reproductor mp3 iphone"]
 tags: ["carplay", "iphone", "música local", "reproducció sense connexió", "evermusic", "flacbox"]
 readingTime: 5
-draft: false
 ---
 
 {{< author-byline >}}

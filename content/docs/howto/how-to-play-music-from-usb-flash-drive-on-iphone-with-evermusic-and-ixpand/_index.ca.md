@@ -5,7 +5,6 @@ description: "Apreneu a utilitzar Evermusic amb la unitat flash SanDisk iXpand p
 keywords: ["evermusic", "ixpand", "sandisk", "unitat usb", "unitat flash", "música externa", "reproductor de música iphone", "gestor de fitxers", "emmagatzematge lightning", "reproduir música des d'usb", "accés a fitxers iphone"]
 tags: ["música", "usb", "extern", "ixpand", "sandisk", "iphone", "evermusic"]
 readingTime: 3
-draft: false
 ---
 
 {{< author-byline >}}

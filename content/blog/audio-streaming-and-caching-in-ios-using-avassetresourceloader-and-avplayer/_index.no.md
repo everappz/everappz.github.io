@@ -4,7 +4,6 @@ date: 2015-06-20
 description: "Lær hvordan du strømmer og cacher lyd i iOS ved hjelp av AVAssetResourceLoaderDelegate og AVPlayer med tilpassede URL-skjemaer og diskbufring."
 keywords: ["iOS lydstrømming", "AVAssetResourceLoaderDelegate", "AVURLAsset", "AVPlayer opplæring", "AVFoundation lyd", "AVAssetResourceLoadingRequest", "tilpasset lydspiller iOS", "skybasert lydstrømming iOS", "lydbufring iOS", "Swift AVPlayer tilpasset skjema"]
 tags: ["streaming", "AVPlayer", "AVFoundation", "iOS", "AVAssetResourceLoader", "tutorial", "Objective-C", "audio caching"]
-draft: false
 cascade:
   type: docs
 authors:

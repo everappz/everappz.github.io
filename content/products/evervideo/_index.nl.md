@@ -1,6 +1,5 @@
 ---
 date: '2025-06-12T17:00:00+00:00'
-draft: false
 title: 'Evervideo - HD Videospeler voor iPhone en Mac'
 layout: hextra-home
 description: "Download de beste gratis videospeler voor je iPhone en Mac. Bekijk 360°-video's, activeer ondertitels, pas de video-equalizer aan, organiseer je video's met afspeellijsten, download voor offline en stream vanuit iCloud."

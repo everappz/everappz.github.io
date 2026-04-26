@@ -5,7 +5,6 @@ description: "למדו כיצד להשתמש ב-Evermusic עם כונן הבזק
 keywords: ["evermusic", "ixpand", "sandisk", "כונן usb", "כונן הבזק", "מוזיקה חיצונית", "נגן מוזיקה אייפון", "מנהל קבצים", "אחסון lightning", "נגן מוזיקה מ-usb", "גישה לקבצים אייפון"]
 tags: ["מוזיקה", "usb", "חיצוני", "ixpand", "sandisk", "iphone", "evermusic"]
 readingTime: 3
-draft: false
 ---
 
 {{< author-byline >}}

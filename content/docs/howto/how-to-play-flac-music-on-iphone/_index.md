@@ -5,7 +5,6 @@ description: "Learn how to play FLAC audio files on your iPhone or iPad using Fl
 keywords: ["flac", "iphone", "lossless", "music", "flacbox", "stream", "offline", "player"]
 tags: ["music", "cloud", "player", "downloader", "equalizer", "lossless", "offline", "FLAC", "streamer"]
 readingTime: 5
-draft: false
 aliases:
   - /post/how-to-play-flac-music-on-iphone/
   - /single-post/How-to-play-FLAC-music-on-iPhone/

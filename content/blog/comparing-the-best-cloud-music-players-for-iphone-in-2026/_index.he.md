@@ -4,7 +4,6 @@ date: 2026-04-22
 description: "השווה בין 7 נגני מוזיקה ענן מובילים ל-iPhone: Apple Music, Spotify, Evermusic ועוד. תכונות, תמחור, תמיכה אופליין ותאימות פורמטים."
 keywords: ["נגן מוזיקה ענן iPhone", "אפליקציות המוזיקה הטובות ביותר ל-iPhone", "Evermusic מול Spotify", "אפליקציית מוזיקה אופליין iOS", "חלופה ל-Apple Music", "ניגון FLAC ב-iPhone", "סטרימינג מוזיקה ענן", "נגן שמע iPhone", "נגן מוזיקה ל-Dropbox", "ניגון קבצי מוזיקה משלי ב-iPhone"]
 tags: ["music", "streaming", "apps", "iOS", "cloud music", "Evermusic", "Spotify", "Apple Music", "YouTube Music", "SoundCloud", "comparison"]
-draft: false
 cascade:
   type: docs
 authors:

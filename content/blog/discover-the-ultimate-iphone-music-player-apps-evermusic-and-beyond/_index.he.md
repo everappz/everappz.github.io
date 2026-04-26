@@ -4,7 +4,6 @@ date: 2020-05-05
 description: "השוו בין אפליקציות נגן המוזיקה הטובות ביותר לאייפון: Evermusic, Apple Music, Spotify, VLC ו-Amazon Music. תכונות, מחירים ותמיכה במצב לא מקוון."
 keywords: ["נגן המוזיקה הטוב ביותר לאייפון", "אפליקציית נגן מוזיקה iOS", "Evermusic מול Spotify", "נגן מוזיקה ענן אייפון", "אפליקציית מוזיקה לא מקוונת אייפון", "נגן FLAC iOS", "חלופות ל-Apple Music", "VLC אייפון", "נגן מוזיקה חינמי iOS"]
 tags: ["אפליקציות מוזיקה", "iOS", "Evermusic", "Apple Music", "Spotify", "VLC", "Amazon Music", "השוואה", "מוזיקה בענן", "השמעה לא מקוונת"]
-draft: false
 cascade:
   type: docs
 authors:

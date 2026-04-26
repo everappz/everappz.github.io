@@ -4,7 +4,6 @@ date: 2025-04-05
 description: "Reproducirajte FLAC, DSD, ALAC i 120+ audio formata na iPhoneu i Macu s Flacboxom. Uvezite putem oblaka, Wi-Fija ili USB-a. Uključuje 10-pojasni EQ i offline reprodukciju."
 keywords: ["lossless glazbeni player", "FLAC player iOS", "DSD player iPhone", "hi-res audio Mac", "Flacbox aplikacija", "najbolji FLAC player iPhone", "offline FLAC player", "audiofilski glazbeni player iOS", "Mac FLAC player", "hi-res streaming iOS", "reprodukcija FLAC na iPhoneu", "DSD128 player", "lossless audio aplikacija"]
 tags: ["flacbox", "glazba", "audio", "lossless", "iphone", "mac", "flac", "dsd", "audiofil"]
-draft: false
 cascade:
   type: docs
 authors:

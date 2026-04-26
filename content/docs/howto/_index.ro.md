@@ -1,6 +1,5 @@
 ---
 date: '2025-06-12T17:00:00+00:00'
-draft: false
 title: 'Instrucțiuni'
 description: 'Ghiduri pas cu pas și sfaturi pentru a te ajuta să configurezi, să folosești și să profiți la maximum de aplicațiile Everappz.'
 excludeSearch: true

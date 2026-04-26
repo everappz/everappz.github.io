@@ -4,7 +4,6 @@ date: 2025-04-05
 description: "Phát FLAC, DSD, ALAC và hơn 120 định dạng âm thanh trên iPhone và Mac với Flacbox. Nhập qua đám mây, Wi-Fi hoặc USB. Bao gồm EQ 10 dải và phát ngoại tuyến."
 keywords: ["trình phát nhạc lossless", "trình phát FLAC iOS", "trình phát DSD iPhone", "hi-res audio Mac", "ứng dụng Flacbox", "trình phát FLAC tốt nhất iPhone", "trình phát FLAC ngoại tuyến", "trình phát nhạc audiophile iOS", "Mac trình phát FLAC", "hi-res streaming iOS", "phát FLAC trên iPhone", "trình phát DSD128", "ứng dụng âm thanh lossless"]
 tags: ["flacbox", "nhạc", "âm thanh", "lossless", "iphone", "mac", "flac", "dsd", "audiophile"]
-draft: false
 cascade:
   type: docs
 authors:

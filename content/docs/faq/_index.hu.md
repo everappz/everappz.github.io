@@ -1,6 +1,5 @@
 ---
 date: '2025-06-12T17:00:00+00:00'
-draft: false
 title: 'Gyakran ismételt kérdések'
 description: 'Találjon válaszokat az Evermusic, Flacbox, Evervideo és Evertag alkalmazásokkal kapcsolatos általános kérdésekre. Fedezze fel a cloud streaming, fájlkezelés, lejátszási lehetőségek, metaadat-szerkesztés és más funkciók részleteit.'
 keywords: [

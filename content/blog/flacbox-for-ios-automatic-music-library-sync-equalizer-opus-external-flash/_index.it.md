@@ -4,7 +4,6 @@ date: 2017-01-25
 description: "Flacbox 1.6 per iOS aggiunge la sincronizzazione cloud automatica, un equalizzatore a 10 bande, il supporto al formato OPUS e la riproduzione da unità flash esterne per iPhone e iPad."
 keywords: ["aggiornamento Flacbox", "lettore FLAC iOS", "equalizzatore 10 bande iPhone", "sincronizzazione musica automatica", "riprodurre OPUS su iPhone", "musica da unità flash esterna", "streaming FLAC iOS", "app musica hi-res iPhone", "equalizzatore Flacbox", "lettore musica scheda SD iOS"]
 tags: ["Flacbox", "equalizzatore", "libreria musicale", "OPUS", "FLAC", "archiviazione esterna", "sincronizzazione", "lettore audio", "app iOS", "aggiornamento"]
-draft: false
 cascade:
   type: docs
 authors:

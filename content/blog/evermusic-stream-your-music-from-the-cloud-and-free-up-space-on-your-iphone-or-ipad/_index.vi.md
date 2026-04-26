@@ -4,7 +4,6 @@ date: 2016-05-26
 description: "Phát nhạc từ Google Drive, Dropbox hoặc OneDrive trên iPhone và iPad với Evermusic. Giải phóng dung lượng thiết bị và nghe ngoại tuyến mà không cần đồng bộ iTunes."
 keywords: ["Evermusic", "trình phát nhạc đám mây", "ứng dụng nhạc iOS", "phát nhạc từ đám mây", "nhạc ngoại tuyến iPhone", "trình phát nhạc Google Drive", "phát nhạc Dropbox", "trình phát MP3 iPhone", "giải phóng dung lượng iPhone", "nhạc từ SMB", "phát nhạc từ bộ nhớ đám mây iOS", "trình phát nhạc không cần iTunes"]
 tags: ["âm thanh", "phát trực tuyến", "trình phát", "mp3", "tải xuống", "GoogleDrive", "Dropbox", "nhạc đám mây", "phát ngoại tuyến"]
-draft: false
 cascade:
   type: docs
 authors:

@@ -1,5 +1,4 @@
 ---
-draft: false
 title: 'Odoberať'
 sitemap:
   disable: true

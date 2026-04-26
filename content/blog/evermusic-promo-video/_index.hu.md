@@ -4,7 +4,6 @@ date: 2019-07-02
 description: "Nézd meg az Evermusic hivatalos promóciós videóját. Lásd, hogyan streamel, tölt le és szervez zenét az Evermusic a felhőtárolóból iPhone-on és iPaden."
 keywords: ["Evermusic promó videó", "felhő zenelejátszó iPhone", "zenei alkalmazás videó", "Evermusic alkalmazás demó", "felhőzene iOS", "Evermusic funkciók", "zenelejátszó iPad", "zene streamelése felhőből"]
 tags: ["evermusic", "promó", "videó", "ios", "zene", "felhő", "lejátszó", "mobilalkalmazás"]
-draft: false
 cascade:
   type: docs
 authors:

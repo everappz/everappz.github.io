@@ -4,7 +4,6 @@ date: 2020-05-05
 description: "En iyi iPhone müzik çalar uygulamalarını karşılaştırın: Evermusic, Apple Music, Spotify, VLC ve Amazon Music. Özellikler, fiyatlandırma ve çevrimdışı destek."
 keywords: ["en iyi iPhone müzik çalar", "müzik çalar uygulaması iOS", "Evermusic vs Spotify", "bulut müzik çalar iPhone", "çevrimdışı müzik uygulaması iPhone", "FLAC çalar iOS", "Apple Music alternatifleri", "VLC iPhone", "ücretsiz müzik çalar iOS"]
 tags: ["müzik uygulamaları", "iOS", "Evermusic", "Apple Music", "Spotify", "VLC", "Amazon Music", "karşılaştırma", "bulut müzik", "çevrimdışı oynatma"]
-draft: false
 cascade:
   type: docs
 authors:

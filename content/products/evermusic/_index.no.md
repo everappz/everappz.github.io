@@ -1,6 +1,5 @@
 ---
 date: '2025-06-12T17:00:00+00:00'
-draft: false
 title: 'Evermusic - Frakoblet musikkspiller for iPhone og Mac'
 layout: hextra-home
 description: "Last ned den beste gratis frakoblede musikkspilleren for din iPhone og Mac og lytt til musikken din overalt."

@@ -4,7 +4,6 @@ date: 2019-05-19
 description: "Evermusic 3.6 afegeix suport per a CarPlay, accessibilitat VoiceOver, sortida d'àudio mixta, edició de caràtules i importació des d'iCloud Drive."
 keywords: ["Evermusic CarPlay", "reproductor de música CarPlay iPhone", "aplicació de música VoiceOver iOS", "editor d'etiquetes FLAC iPhone", "editar caràtula d'àlbum iOS", "importar música iCloud Drive", "reproductor d'àudio accessibilitat iOS", "sortida d'àudio mixta iPhone"]
 tags: ["Evermusic", "CarPlay", "VoiceOver", "accessibilitat", "iCloud Drive", "editor d'etiquetes", "edició de caràtules", "actualització iOS"]
-draft: false
 cascade:
   type: docs
 authors:

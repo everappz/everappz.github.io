@@ -4,7 +4,6 @@ date: 2019-05-19
 description: "Evermusic 3.6 新增 CarPlay 支援、VoiceOver 無障礙功能、混合音訊輸出、封面編輯和 iCloud Drive 匯入。"
 keywords: ["Evermusic CarPlay", "音樂播放器 CarPlay iPhone", "VoiceOver 音樂應用程式 iOS", "FLAC 標籤編輯器 iPhone", "編輯專輯封面 iOS", "iCloud Drive 音樂匯入", "音訊播放器無障礙 iOS", "混合音訊輸出 iPhone"]
 tags: ["Evermusic", "CarPlay", "VoiceOver", "無障礙", "iCloud Drive", "標籤編輯器", "封面編輯", "iOS 更新"]
-draft: false
 cascade:
   type: docs
 authors:

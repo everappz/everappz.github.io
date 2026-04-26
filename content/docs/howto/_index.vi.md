@@ -1,6 +1,5 @@
 ---
 date: '2025-06-12T17:00:00+00:00'
-draft: false
 title: 'Hướng dẫn thực hiện'
 description: 'Hướng dẫn từng bước và mẹo giúp bạn thiết lập, sử dụng và tận dụng tối đa các ứng dụng Everappz.'
 excludeSearch: true

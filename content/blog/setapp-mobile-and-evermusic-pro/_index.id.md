@@ -4,7 +4,6 @@ date: 2024-09-17
 description: "Dapatkan Evermusic Pro melalui Setapp Mobile. Streaming musik dari Google Drive, Dropbox, NAS, dan lainnya di iPhone dan iPad dengan pemutaran offline dan EQ 10-band."
 keywords: ["Setapp Mobile", "Evermusic Pro", "pemutar musik cloud", "streaming musik iPhone", "musik offline iOS", "aplikasi Setapp iOS", "aplikasi audiofil iPhone", "equalizer iOS", "NAS musik iPhone", "pemutar musik penyimpanan cloud", "aplikasi musik Setapp", "streaming musik dari Google Drive iPhone"]
 tags: ["evermusic", "setapp", "cloud", "audio", "mobile", "marketplace", "musik", "aplikasi ios"]
-draft: false
 cascade:
   type: docs
 authors:

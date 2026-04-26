@@ -1,6 +1,5 @@
 ---
 date: '2025-06-12T17:00:00+00:00'
-draft: false
 title: 'Evermusic - Offline zenelejátszó iPhone-ra és Mac-re'
 layout: hextra-home
 description: "Töltsd le a legjobb ingyenes offline zenelejátszót iPhone-ra és Mac-re, és hallgasd a zenédet bárhol."

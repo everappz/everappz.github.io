@@ -1,6 +1,5 @@
 ---
 date: '2025-06-12T17:00:00+00:00'
-draft: false
 title: 'Trang chủ'
 layout: hextra-home
 description: "Khám phá các ứng dụng Everappz cho iPhone và Mac: phát FLAC, DSD, APE và ALAC, phát trực tuyến từ bộ nhớ đám mây hoặc NAS, tải nhạc và video, chỉnh sửa thẻ tag và tùy chỉnh phát lại với bộ cân bằng âm thanh và công cụ danh sách phát."

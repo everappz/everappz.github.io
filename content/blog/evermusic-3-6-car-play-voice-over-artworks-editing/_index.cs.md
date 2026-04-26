@@ -4,7 +4,6 @@ date: 2019-05-19
 description: "Evermusic 3.6 přidává podporu CarPlay, přístupnost VoiceOver, smíšený zvukový výstup, úpravu obalů a import souborů z iCloud Drive."
 keywords: ["Evermusic CarPlay", "hudební přehrávač CarPlay iPhone", "hudební aplikace VoiceOver iOS", "editor tagů FLAC iPhone", "úprava obalu alba iOS", "import hudby iCloud Drive", "zvukový přehrávač přístupnost iOS", "smíšený zvukový výstup iPhone"]
 tags: ["Evermusic", "CarPlay", "VoiceOver", "přístupnost", "iCloud Drive", "editor tagů", "úprava obalů", "aktualizace iOS"]
-draft: false
 cascade:
   type: docs
 authors:

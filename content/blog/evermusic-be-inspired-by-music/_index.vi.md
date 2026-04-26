@@ -4,7 +4,6 @@ date: 2019-12-01
 description: "Xem video quảng cáo Evermusic giới thiệu phát nhạc đám mây, phát offline và các tính năng bộ cân bằng trên iPhone và Mac."
 keywords: ["video quảng cáo Evermusic", "trình phát nhạc iOS", "ứng dụng nhạc đám mây iPhone", "demo ứng dụng Evermusic", "trình phát nhạc tốt nhất iPhone", "trình phát nhạc offline iOS"]
 tags: ["Evermusic", "quảng cáo", "nhạc", "video", "nhạc đám mây", "ứng dụng iOS"]
-draft: false
 sidebar:
   exclude: true
 cascade:

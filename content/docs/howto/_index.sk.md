@@ -1,6 +1,5 @@
 ---
 date: '2025-06-12T17:00:00+00:00'
-draft: false
 title: 'Návody'
 description: 'Podrobné návody krok za krokom a tipy, ktoré vám pomôžu nastaviť, používať a naplno využívať aplikácie Everappz.'
 excludeSearch: true

@@ -1,5 +1,4 @@
 ---
-draft: false
 title: "S'abonner"
 sitemap:
   disable: true

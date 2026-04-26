@@ -1,6 +1,5 @@
 ---
 date: '2025-06-12T17:00:00+00:00'
-draft: false
 title: 'Acasă'
 layout: hextra-home
 description: "Explorați aplicațiile Everappz pentru iPhone și Mac: redați FLAC, DSD, APE și ALAC, transmiteți din stocarea cloud sau NAS, descărcați muzică și videoclipuri, editați taguri și personalizați redarea cu instrumente de egalizare și playlisturi."

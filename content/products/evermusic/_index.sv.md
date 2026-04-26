@@ -1,6 +1,5 @@
 ---
 date: '2025-06-12T17:00:00+00:00'
-draft: false
 title: 'Evermusic - Offline musikspelare för iPhone och Mac'
 layout: hextra-home
 description: "Ladda ner den bästa gratis offline musikspelaren för iPhone och Mac och lyssna på din musik överallt."

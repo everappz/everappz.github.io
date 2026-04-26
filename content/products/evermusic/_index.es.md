@@ -1,6 +1,5 @@
 ---
 date: '2025-06-12T17:00:00+00:00'
-draft: false
 title: 'Evermusic - Reproductor de Música Sin Conexión para iPhone y Mac'
 layout: hextra-home
 description: "Descarga el mejor reproductor de música sin conexión gratuito para tu iPhone y Mac y escucha tu música en todas partes."

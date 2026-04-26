@@ -4,7 +4,6 @@ date: 2019-07-02
 description: "Se den offisielle Evermusic-promovideoen. Se hvordan Evermusic strømmer, laster ned og organiserer musikken din fra skylagring på iPhone og iPad."
 keywords: ["Evermusic promovideo", "skymusikkspiller iPhone", "musikkapp-video", "Evermusic app-demo", "skymusikk iOS", "Evermusic-funksjoner", "musikkspiller iPad", "strøm musikk fra skyen"]
 tags: ["evermusic", "promo", "video", "ios", "musikk", "sky", "spiller", "mobilapp"]
-draft: false
 cascade:
   type: docs
 authors:

@@ -5,7 +5,6 @@ description: "Learn how to update ID3 tags and audio metadata directly from your
 keywords: ["mp3 editor", "id3 tags", "metadata", "evermusic", "flacbox", "iphone tag editor"]
 tags: ["mp3", "editor", "iPhone", "tags", "metadata", "id3"]
 readingTime: 2
-draft: false
 aliases:
   - /post/how-to-edit-id3-tags-on-iphone/
   - /single-post/How-to-edit-id3-tags-on-iPhone/

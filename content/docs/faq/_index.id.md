@@ -1,6 +1,5 @@
 ---
 date: '2025-06-12T17:00:00+00:00'
-draft: false
 title: 'Pertanyaan yang Sering Diajukan'
 description: 'Temukan jawaban atas pertanyaan umum tentang Evermusic, Flacbox, Evervideo, dan Evertag. Jelajahi fitur seperti streaming cloud, manajemen file, opsi pemutaran, pengeditan metadata, dan lainnya.'
 keywords: [

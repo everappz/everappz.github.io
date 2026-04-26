@@ -4,7 +4,6 @@ date: 2023-09-06
 description: "Evermusic arriba als 11 milions de descàrregues. Descobreix les funcions que l'han convertit en un dels millors reproductors de música al núvol: equalitzador, mode fora de línia, iCloud i molt més."
 keywords: ["Evermusic 11 milions de descàrregues", "millor reproductor de música al núvol iOS", "reproductor de música fora de línia iPhone", "reproducció de música iCloud Drive", "aplicació equalitzador de 10 bandes", "editor d'etiquetes ID3 iOS", "sincronització reproductor de música Mac iPhone", "reproductor FLAC iPhone"]
 tags: ["Evermusic", "fita", "música al núvol", "reproducció fora de línia", "iCloud Drive", "equalitzador", "reproductor de música iOS"]
-draft: false
 cascade:
   type: docs
 authors:

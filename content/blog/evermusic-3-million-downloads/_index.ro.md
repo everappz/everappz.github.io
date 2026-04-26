@@ -4,7 +4,6 @@ date: 2017-11-08
 description: "Evermusic a atins 3 milioane de descărcări. Explorați streamingul de muzică din cloud, redarea offline, EQ cu 10 benzi, suport pentru cărți audio, manager de fișiere și editor de taguri ID3."
 keywords: ["Evermusic descărcări", "player muzică iOS", "aplicație muzică cloud", "player muzică offline iPhone", "descărcare muzică iOS", "player cărți audio iPhone", "editor taguri ID3 iOS", "manager fișiere iPhone", "aplicație egalizator muzică", "cel mai bun player muzică cloud", "streaming muzică de pe NAS iPhone"]
 tags: ["Evermusic", "descărcări", "reper", "aplicații muzică", "player cloud", "player offline", "editor taguri", "egalizator", "cărți audio", "manager fișiere"]
-draft: false
 cascade:
   type: docs
 authors:

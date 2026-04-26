@@ -5,7 +5,6 @@ description: "Learn how to transfer and play your local music files from your co
 readingTime: 4
 tags: ["audio", "player", "computer", "files", "file", "pc", "mac", "sharing", "iPhone", "local", "usb", "transfer", "import", "FLAC", "cable", "itunes", "move", "copy", "finder", "iTunes", "FileSharing", "MP3"]
 keywords: ["itunes file sharing", "play local music", "transfer music to iphone", "copy files to ios", "mac to iphone audio", "local files on iphone", "evermusic", "flacbox", "music player", "file sharing", "wifi drive", "smb music streaming", "iphone music app", "import music to ios"]
-draft: false
 aliases:
   - /post/how-to-play-local-itunes-files-on-my-iphone/
   - /single-post/How-to-play-local-itunes-files-on-my-iPhone/

@@ -1,6 +1,5 @@
 ---
 date: '2025-06-12T17:00:00+00:00'
-draft: false
 title: 'Evertag - iPhone・Mac用音楽タグエディタ'
 layout: hextra-home
 description: "音楽ライブラリを整理整頓。不足しているタグを検索。一括編集。アルバムカバーの変更など多数の機能。"

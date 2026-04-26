@@ -4,7 +4,6 @@ date: 2018-06-19
 description: "Evermusic 3.1 menambahkan pemutaran crossfade, perpustakaan musik yang didesain ulang, cadangan dan pemulihan cloud, integrasi iPod, dan pengeditan tag yang ditingkatkan untuk iOS."
 keywords: ["pembaruan Evermusic", "crossfade pemutaran iOS", "aplikasi musik cloud", "aplikasi cadangan musik", "antrean pemutar audio", "editor tag musik", "pembaruan tag ID3", "integrasi perpustakaan iPod", "pemutar musik iPhone", "crossfade musik iOS", "sinkronisasi perpustakaan musik cloud", "cadangan daftar putar musik iOS"]
 tags: ["Evermusic", "crossfade", "perpustakaan musik", "cadangan", "antrean audio", "tag", "pemutar cloud", "pemutar offline", "editor", "perpustakaan iPod"]
-draft: false
 cascade:
   type: docs
 authors:

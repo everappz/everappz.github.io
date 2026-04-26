@@ -1,6 +1,5 @@
 ---
 date: '2025-06-12T17:00:00+00:00'
-draft: false
 title: 'ホーム'
 layout: hextra-home
 description: "iPhone・Mac向けEverappzアプリをご覧ください：FLAC、DSD、APE、ALACの再生、クラウドストレージやNASからのストリーミング、音楽・動画のダウンロード、タグ編集、イコライザーやプレイリストツールによる再生カスタマイズ。"

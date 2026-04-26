@@ -1,6 +1,5 @@
 ---
 date: '2025-06-12T17:00:00+00:00'
-draft: false
 title: 'Evervideo - 適用於 iPhone 和 Mac 的高畫質影片播放器'
 layout: hextra-home
 description: "下載適用於 iPhone 和 Mac 的最佳免費影片播放器。觀看 360° 影片，啟用字幕，調整影片等化器，使用播放清單整理影片，下載離線觀看，以及從 iCloud 串流播放。"

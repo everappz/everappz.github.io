@@ -1,6 +1,5 @@
 ---
 date: '2025-06-12T17:00:00+00:00'
-draft: false
 title: 'Evervideo - HD video přehrávač pro iPhone a Mac'
 layout: hextra-home
 description: "Stáhněte si nejlepší bezplatný video přehrávač pro iPhone a Mac. Sledujte 360° videa, aktivujte titulky, upravte video ekvalizér, organizujte svá videa pomocí playlistů, stahujte pro offline přehrávání a streamujte z iCloud."

@@ -5,7 +5,6 @@ description: "Enable DLNA server on Windows 10 and stream your music to iPhone w
 keywords: ["evermusic", "dlna", "windows 10", "iphone music streaming", "media server", "local network", "upnp"]
 tags: ["evermusic", "music", "cloud", "iphone", "storage", "local", "nas", "windows", "wifi", "listen", "network", "remote", "home", "online", "dlna"]
 readingTime: 2
-draft: false
 aliases:
   - /post/how-to-enable-dlna-media-server-on-windows-10-and-play-your-music-on-iphone/
 ---

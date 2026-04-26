@@ -4,7 +4,6 @@ date: 2016-05-26
 description: "Evermusic के साथ iPhone और iPad पर Google Drive, Dropbox या OneDrive से संगीत स्ट्रीम करें। डिवाइस स्टोरेज खाली करें और iTunes सिंकिंग के बिना ऑफलाइन सुनें।"
 keywords: ["Evermusic", "क्लाउड म्यूजिक प्लेयर", "iOS म्यूजिक ऐप", "क्लाउड से संगीत स्ट्रीम", "ऑफलाइन संगीत iPhone", "Google Drive म्यूजिक प्लेयर", "Dropbox म्यूजिक स्ट्रीमिंग", "MP3 प्लेयर iPhone", "iPhone में जगह खाली करें", "SMB से संगीत", "iOS क्लाउड स्टोरेज से संगीत चलाएं", "बिना iTunes म्यूजिक प्लेयर"]
 tags: ["ऑडियो", "स्ट्रीमिंग", "प्लेयर", "mp3", "डाउनलोडर", "GoogleDrive", "Dropbox", "क्लाउड म्यूजिक", "ऑफलाइन प्लेबैक"]
-draft: false
 cascade:
   type: docs
 authors:

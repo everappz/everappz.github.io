@@ -4,7 +4,6 @@ date: 2025-01-05
 description: "Evermusic connects to 12+ cloud services, plays FLAC and MP3 offline, and manages your music library. See why it's the top cloud music player for iOS."
 keywords: ["best cloud music player iOS", "cloud music player iPhone", "play music from Dropbox", "offline music player iPhone", "FLAC player iOS", "Evermusic review", "music library manager iOS", "Google Drive music player", "NAS music player iPhone", "WebDAV music player"]
 tags: ["Evermusic", "cloud music", "offline playback", "iOS music apps", "MP3 player", "audio", "music streaming", "guide", "FLAC", "review"]
-draft: false
 aliases:
   - /post/best-cloud-music-player-for-ios/
 cascade:

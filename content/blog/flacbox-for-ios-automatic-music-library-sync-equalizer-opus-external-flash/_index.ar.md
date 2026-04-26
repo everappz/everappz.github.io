@@ -4,7 +4,6 @@ date: 2017-01-25
 description: "يضيف Flacbox 1.6 لنظام iOS مزامنة سحابية تلقائية، معادل صوت بـ 10 نطاقات، دعم صيغة OPUS، وتشغيل الموسيقى من ذاكرة فلاش خارجية لـ iPhone وiPad."
 keywords: ["تحديث Flacbox", "مشغل FLAC iOS", "معادل صوت 10 نطاقات iPhone", "مزامنة موسيقى تلقائية", "تشغيل OPUS على iPhone", "موسيقى من ذاكرة فلاش خارجية", "بث FLAC iOS", "تطبيق موسيقى عالي الدقة iPhone", "معادل Flacbox", "مشغل موسيقى بطاقة SD iOS"]
 tags: ["Flacbox", "معادل صوت", "مكتبة موسيقى", "OPUS", "FLAC", "تخزين خارجي", "مزامنة", "مشغل صوتي", "تطبيقات iOS", "تحديث"]
-draft: false
 cascade:
   type: docs
 authors:

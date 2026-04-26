@@ -1,6 +1,5 @@
 ---
 date: '2025-06-12T17:00:00+00:00'
-draft: false
 title: 'Guide de l''utilisateur'
 description: 'Apprenez à utiliser les applications Everappz comme Evermusic, Flacbox, Evervideo et Evertag. Configurez des connexions cloud, gérez votre musique et vos vidéos, personnalisez la lecture et explorez toutes les fonctionnalités en un seul endroit.'
 keywords: ["guide utilisateur Evermusic", "comment utiliser Flacbox", "support Evervideo", "manuel Evertag", "configuration lecteur musique cloud", "aide lecture hors ligne", "instructions éditeur de tags audio", "guide musique Apple CarPlay", "tutoriel lecteur vidéo AirPlay", "configuration égaliseur"]

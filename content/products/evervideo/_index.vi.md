@@ -1,6 +1,5 @@
 ---
 date: '2025-06-12T17:00:00+00:00'
-draft: false
 title: 'Evervideo - Trình phát video HD cho iPhone và Mac'
 layout: hextra-home
 description: "Tải xuống trình phát video miễn phí tốt nhất cho iPhone và Mac. Xem video 360°, bật phụ đề, điều chỉnh bộ cân bằng video, sắp xếp video bằng danh sách phát, tải về để xem ngoại tuyến và phát trực tuyến từ iCloud."

@@ -4,7 +4,6 @@ date: 2020-05-05
 description: "Hasonlítsa össze a legjobb iPhone zenelejátszó alkalmazásokat: Evermusic, Apple Music, Spotify, VLC és Amazon Music. Funkciók, árak és offline támogatás."
 keywords: ["legjobb iPhone zenelejátszó", "zenelejátszó alkalmazás iOS", "Evermusic vs Spotify", "felhő zenelejátszó iPhone", "offline zenei alkalmazás iPhone", "FLAC lejátszó iOS", "Apple Music alternatívák", "VLC iPhone", "ingyenes zenelejátszó iOS"]
 tags: ["zenei alkalmazások", "iOS", "Evermusic", "Apple Music", "Spotify", "VLC", "Amazon Music", "összehasonlítás", "felhő zene", "offline lejátszás"]
-draft: false
 cascade:
   type: docs
 authors:

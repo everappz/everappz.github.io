@@ -4,7 +4,6 @@ date: 2019-07-02
 description: "Se det officiella Evermusic-reklamvideon. Se hur Evermusic streamar, laddar ner och organiserar din musik från molnlagring på iPhone och iPad."
 keywords: ["Evermusic reklamvideo", "molnmusikspelare iPhone", "musikappvideo", "Evermusic appdemo", "molnmusik iOS", "Evermusic funktioner", "musikspelare iPad", "streama musik från molnet"]
 tags: ["evermusic", "reklam", "video", "ios", "musik", "moln", "spelare", "mobilapp"]
-draft: false
 cascade:
   type: docs
 authors:

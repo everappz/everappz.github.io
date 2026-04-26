@@ -1,7 +1,6 @@
 ---
 title: "Tag Editor"
 date: 2020-02-01
-draft: false
 description: "Learn how to use the Evertag Tag Editor to update music metadata, edit album covers, batch edit multiple files, and manage tags from MusicBrainz. Ideal for organizing your music library on iOS and Mac."
 keywords: [
   "Evertag tag editor", "audio metadata editor", "music tag editor", 

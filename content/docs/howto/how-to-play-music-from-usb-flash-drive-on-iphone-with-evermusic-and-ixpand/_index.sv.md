@@ -5,7 +5,6 @@ description: "Lär dig hur du använder Evermusic med SanDisk iXpand Flash Drive
 keywords: ["evermusic", "ixpand", "sandisk", "usb-enhet", "usb-minne", "extern musik", "iphone musikspelare", "filhanterare", "lightning-lagring", "spela musik från usb", "iphone filåtkomst"]
 tags: ["musik", "usb", "extern", "ixpand", "sandisk", "iphone", "evermusic"]
 readingTime: 3
-draft: false
 ---
 
 {{< author-byline >}}

@@ -4,7 +4,6 @@ date: 2023-09-06
 description: "Flacbox alcanza 1 millón de descargas en todo el mundo. Explora las características que lo convierten en el mejor reproductor de audio de alta resolución para iPhone, iPad y Mac — FLAC, DSD, APE, ecualizador y reproducción sin conexión."
 keywords: ["reproductor de música Flacbox", "audio de alta resolución iOS", "aplicación de música sin pérdidas", "reproductor DSD FLAC APE", "música FLAC sin conexión", "hito de descargas Flacbox", "audio de alta calidad iPhone", "aplicaciones de audio Everappz", "reproductor de listas CUE", "1 millón de descargas", "mejor reproductor FLAC iOS", "reproductor de música hi-res Mac"]
 tags: ["Flacbox", "sin pérdidas", "audio de alta resolución", "reproductor de música", "audio", "hito", "aplicaciones iOS", "novedades"]
-draft: false
 cascade:
   type: docs
 authors:

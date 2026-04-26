@@ -5,7 +5,6 @@ description: "Découvrez comment utiliser Evermusic avec la clé USB SanDisk iXp
 keywords: ["evermusic", "ixpand", "sandisk", "clé usb", "clé flash", "musique externe", "lecteur de musique iphone", "gestionnaire de fichiers", "stockage lightning", "lire musique depuis usb", "accès fichiers iphone"]
 tags: ["musique", "usb", "externe", "ixpand", "sandisk", "iphone", "evermusic"]
 readingTime: 3
-draft: false
 ---
 
 {{< author-byline >}}

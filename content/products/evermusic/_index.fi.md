@@ -1,6 +1,5 @@
 ---
 date: '2025-06-12T17:00:00+00:00'
-draft: false
 title: 'Evermusic - Offline-musiikkisoitin iPhonelle ja Macille'
 layout: hextra-home
 description: "Lataa paras ilmainen offline-musiikkisoitin iPhonellesi ja Macillesi ja kuuntele musiikkiasi kaikkialla."

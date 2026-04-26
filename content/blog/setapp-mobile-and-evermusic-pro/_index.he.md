@@ -4,7 +4,6 @@ date: 2024-09-17
 description: "קבלו Evermusic Pro דרך Setapp Mobile. הזרימו מוזיקה מ-Google Drive, Dropbox, NAS ועוד ב-iPhone ו-iPad עם השמעה לא מקוונת ואקולייזר 10 פסים."
 keywords: ["Setapp Mobile", "Evermusic Pro", "נגן מוזיקה בענן", "הזרמת מוזיקה iPhone", "מוזיקה לא מקוונת iOS", "אפליקציות Setapp iOS", "אפליקציית אודיופיל iPhone", "אקולייזר iOS", "NAS מוזיקה iPhone", "נגן מוזיקה אחסון ענן", "אפליקציית מוזיקה Setapp", "הזרמת מוזיקה מ-Google Drive iPhone"]
 tags: ["evermusic", "setapp", "ענן", "שמע", "נייד", "שוק", "מוזיקה", "אפליקציות ios"]
-draft: false
 cascade:
   type: docs
 authors:

@@ -9,7 +9,6 @@ keywords: [
 ]
 tags: ["evermusic", "guide", "playlists"]
 readingTime: 6
-draft: false
 aliases:
   - /post/evermusic-guide-playlists/
   - /guide-evermusic-playlists/

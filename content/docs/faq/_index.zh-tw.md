@@ -1,6 +1,5 @@
 ---
 date: '2025-06-12T17:00:00+00:00'
-draft: false
 title: '常見問題解答'
 description: '尋找關於 Evermusic、Flacbox、Evervideo 和 Evertag 的常見問題解答。探索雲端串流、檔案管理、播放選項、中繼資料編輯等功能。'
 keywords: [

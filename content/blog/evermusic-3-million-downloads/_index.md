@@ -4,7 +4,6 @@ date: 2017-11-08
 description: "Evermusic reached 3 million downloads. Explore its cloud music streaming, offline playback, 10-band EQ, audiobook support, file manager, and ID3 tag editor."
 keywords: ["Evermusic downloads", "iOS music player", "cloud music app", "offline music player iPhone", "music downloader iOS", "audiobook player iPhone", "ID3 tag editor iOS", "iPhone file manager", "music equalizer app", "best cloud music player", "stream music from NAS iPhone"]
 tags: ["Evermusic", "downloads", "milestone", "music apps", "cloud player", "offline player", "tag editor", "equalizer", "audiobooks", "file manager"]
-draft: false
 aliases:
   - /post/evermusic-3-million-downloads/
   - /single-post/Evermusic-3-million-downloads/

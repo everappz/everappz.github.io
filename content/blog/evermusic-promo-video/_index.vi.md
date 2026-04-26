@@ -4,7 +4,6 @@ date: 2019-07-02
 description: "Xem video quảng cáo chính thức của Evermusic. Xem cách Evermusic phát, tải và sắp xếp nhạc từ bộ nhớ đám mây trên iPhone và iPad."
 keywords: ["video quảng cáo Evermusic", "trình phát nhạc đám mây iPhone", "video ứng dụng nhạc", "demo ứng dụng Evermusic", "nhạc đám mây iOS", "tính năng Evermusic", "trình phát nhạc iPad", "phát nhạc từ đám mây"]
 tags: ["evermusic", "quảng cáo", "video", "ios", "nhạc", "đám mây", "trình phát", "ứng dụng di động"]
-draft: false
 cascade:
   type: docs
 authors:

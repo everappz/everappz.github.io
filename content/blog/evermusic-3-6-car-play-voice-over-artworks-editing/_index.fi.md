@@ -4,7 +4,6 @@ date: 2019-05-19
 description: "Evermusic 3.6 tuo CarPlay-tuen, VoiceOver-saavutettavuuden, sekoitetun äänilähdön, kansikuvien muokkauksen ja iCloud Drive -tuonnin."
 keywords: ["Evermusic CarPlay", "musiikkisoitin CarPlay iPhone", "VoiceOver musiikkisovellus iOS", "FLAC-tunniste-editori iPhone", "muokkaa albumin kansikuvaa iOS", "iCloud Drive musiikin tuonti", "äänisoitin saavutettavuus iOS", "sekoitettu äänilähtö iPhone"]
 tags: ["Evermusic", "CarPlay", "VoiceOver", "saavutettavuus", "iCloud Drive", "tunniste-editori", "kansikuvien muokkaus", "iOS-päivitys"]
-draft: false
 cascade:
   type: docs
 authors:

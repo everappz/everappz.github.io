@@ -5,7 +5,6 @@ description: "Μάθετε πώς να χρησιμοποιείτε το Evermus
 keywords: ["evermusic", "ixpand", "sandisk", "μονάδα usb", "flash drive", "εξωτερική μουσική", "αναπαραγωγέας μουσικής iphone", "διαχείριση αρχείων", "αποθηκευτικός χώρος lightning", "αναπαραγωγή μουσικής από usb", "πρόσβαση αρχείων iphone"]
 tags: ["μουσική", "usb", "εξωτερικό", "ixpand", "sandisk", "iphone", "evermusic"]
 readingTime: 3
-draft: false
 ---
 
 {{< author-byline >}}

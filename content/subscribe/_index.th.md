@@ -1,5 +1,4 @@
 ---
-draft: false
 title: 'สมัครสมาชิก'
 sitemap:
   disable: true

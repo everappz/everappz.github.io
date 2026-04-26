@@ -1,5 +1,4 @@
 ---
-draft: false
 title: 'सदस्यता लें'
 sitemap:
   disable: true

@@ -1,6 +1,5 @@
 ---
 date: '2025-06-12T17:00:00+00:00'
-draft: false
 title: 'Evermusic - Lecteur de Musique Hors Ligne pour iPhone et Mac'
 layout: hextra-home
 description: "Téléchargez le meilleur lecteur de musique hors ligne gratuit pour votre iPhone et Mac et écoutez votre musique partout."

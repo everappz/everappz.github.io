@@ -4,7 +4,6 @@ date: 2023-09-06
 description: "Evermusic 达到 1100 万次下载。了解使其成为顶级云音乐播放器的功能：均衡器、离线模式、iCloud 等。"
 keywords: ["Evermusic 1100 万下载", "最佳云音乐播放器 iOS", "离线音乐播放器 iPhone", "iCloud Drive 音乐串流", "10 段均衡器应用", "ID3 标签编辑器 iOS", "音乐播放器 Mac iPhone 同步", "FLAC 播放器 iPhone"]
 tags: ["Evermusic", "里程碑", "云音乐", "离线播放", "iCloud Drive", "均衡器", "iOS 音乐播放器"]
-draft: false
 cascade:
   type: docs
 authors:

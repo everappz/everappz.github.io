@@ -1,6 +1,5 @@
 ---
 date: '2025-06-12T17:00:00+00:00'
-draft: false
 title: 'Evertag - Trình chỉnh sửa thẻ nhạc cho iPhone và Mac'
 layout: hextra-home
 description: "Giữ thư viện nhạc của bạn ngăn nắp. Tìm các thẻ bị thiếu. Chỉnh sửa hàng loạt. Thay đổi bìa album và nhiều hơn nữa."

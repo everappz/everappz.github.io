@@ -1,6 +1,5 @@
 ---
 date: '2025-06-12T17:00:00+00:00'
-draft: false
 title: 'Evervideo - HD-videosoitin iPhonelle ja Macille'
 layout: hextra-home
 description: "Lataa paras ilmainen videosoitin iPhonellesi ja Macillesi. Katso 360°-videoita, ota tekstitykset käyttöön, säädä videotaajuuskorjainta, järjestä videosi soittolistoilla, lataa offline-katseluun ja suoratoista iCloudista."

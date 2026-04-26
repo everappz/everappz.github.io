@@ -4,7 +4,6 @@ date: 2024-09-17
 description: "Evermusic 6.8 menambahkan dukungan Aliyun Drive dan Synology NAS, efek gulir sampul album baru, layar pemutar minimal, manajemen file seret dan lepas, dan pemuatan artwork lebih cepat."
 keywords: ["pembaruan Evermusic", "pemutar musik Aliyun Drive", "musik Synology NAS", "pemutar musik cloud iOS", "pemutar audio iOS", "gaya sampul album", "browser file seret dan lepas", "Evermusic 6.8", "pemutar FLAC iOS", "pemutar musik QuickConnect", "streaming musik NAS iPhone"]
 tags: ["Evermusic", "Aliyun Drive", "Synology", "Sampul Album", "Musik Cloud", "Aplikasi Musik iOS", "Yang Baru"]
-draft: false
 cascade:
   type: docs
 authors:

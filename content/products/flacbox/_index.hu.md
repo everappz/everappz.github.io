@@ -1,6 +1,5 @@
 ---
 date: '2025-06-12T17:00:00+00:00'
-draft: false
 title: 'Flacbox - Hi-Res audiolejátszó iPhone-ra és Macre'
 layout: hextra-home
 description: "FLAC, DSD, APE, ALAC fájlok lejátszása és letöltése iPhone-on. Hallgasd zenédet közvetlenül felhőtárhelyről vagy számítógépről hangszínszabályzóval."

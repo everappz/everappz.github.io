@@ -4,7 +4,6 @@ date: 2026-04-22
 description: "Vergelijk 7 top cloud muziekspelers voor iPhone: Apple Music, Spotify, Evermusic en meer. Functies, prijzen, offline ondersteuning en formaatcompatibiliteit."
 keywords: ["cloud muziekspeler iPhone", "beste muziekapps voor iPhone", "Evermusic vs Spotify", "offline muziek app iOS", "Apple Music alternatief", "FLAC afspelen op iPhone", "cloud muziek streaming", "iPhone audiospeler", "muziekspeler voor Dropbox", "eigen muziekbestanden afspelen iPhone"]
 tags: ["music", "streaming", "apps", "iOS", "cloud music", "Evermusic", "Spotify", "Apple Music", "YouTube Music", "SoundCloud", "comparison"]
-draft: false
 cascade:
   type: docs
 authors:

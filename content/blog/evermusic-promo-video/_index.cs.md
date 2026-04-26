@@ -4,7 +4,6 @@ date: 2019-07-02
 description: "Podívejte se na oficiální propagační video Evermusic. Uvidíte, jak Evermusic streamuje, stahuje a organizuje vaši hudbu z cloudového úložiště na iPhone a iPad."
 keywords: ["propagační video Evermusic", "cloudový hudební přehrávač iPhone", "video hudební aplikace", "ukázka aplikace Evermusic", "cloudová hudba iOS", "funkce Evermusic", "hudební přehrávač iPad", "streamování hudby z cloudu"]
 tags: ["Evermusic", "propagace", "video", "iOS", "hudba", "cloud", "přehrávač", "mobilní aplikace"]
-draft: false
 cascade:
   type: docs
 authors:

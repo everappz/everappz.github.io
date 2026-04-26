@@ -1,6 +1,5 @@
 ---
 date: '2025-06-12T17:00:00+00:00'
-draft: false
 title: 'Evertag - iPhone ve Mac için Müzik Etiket Düzenleyici'
 layout: hextra-home
 description: "Müzik kütüphanenizi düzenli tutun. Eksik etiketleri bulun. Toplu düzenleme. Albüm kapaklarını değiştirin ve çok daha fazlası."

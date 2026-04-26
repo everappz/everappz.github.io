@@ -4,7 +4,6 @@ date: 2019-07-02
 description: "Watch the official Evermusic promo video. See how Evermusic streams, downloads, and organizes your music from cloud storage on iPhone and iPad."
 keywords: ["Evermusic promo video", "cloud music player iPhone", "music app video", "Evermusic app demo", "cloud music iOS", "Evermusic features", "music player iPad", "stream music from cloud"]
 tags: ["evermusic", "promo", "video", "ios", "music", "cloud", "player", "mobile app"]
-draft: false
 aliases:
   - /post/evermusic-promo-video/
 cascade:

@@ -4,7 +4,6 @@ date: 2016-05-26
 description: "Evermusic ile iPhone ve iPad'de Google Drive, Dropbox veya OneDrive'dan müzik yayını yapın. Cihaz depolama alanını boşaltın ve iTunes senkronizasyonu olmadan çevrimdışı dinleyin."
 keywords: ["Evermusic", "bulut müzik çalar", "iOS müzik uygulaması", "buluttan müzik yayını", "çevrimdışı müzik iPhone", "Google Drive müzik çalar", "Dropbox müzik yayını", "MP3 çalar iPhone", "iPhone'da yer açma", "SMB'den müzik", "iOS bulut depolamadan müzik çalma", "iTunes'suz müzik çalar"]
 tags: ["ses", "yayın", "çalar", "mp3", "indirme", "GoogleDrive", "Dropbox", "bulut müzik", "çevrimdışı oynatma"]
-draft: false
 cascade:
   type: docs
 authors:

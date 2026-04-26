@@ -5,7 +5,6 @@ description: "Aprenda a reproduzir suas próprias músicas locais ou offline no 
 keywords: ["carplay música", "reproduzir música própria no iphone", "iphone música local", "carplay música offline", "evermusic", "flacbox", "iphone reprodutor mp3"]
 tags: ["carplay", "iphone", "música local", "reprodução offline", "evermusic", "flacbox"]
 readingTime: 5
-draft: false
 ---
 
 {{< author-byline >}}

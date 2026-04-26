@@ -4,7 +4,6 @@ date: 2015-06-20
 description: "學習如何使用 AVAssetResourceLoaderDelegate 和 AVPlayer，透過自訂 URL 方案和磁碟快取在 iOS 中實現音訊串流傳輸與快取。"
 keywords: ["iOS 音訊串流", "AVAssetResourceLoaderDelegate", "AVURLAsset", "AVPlayer 教學", "AVFoundation 音訊", "AVAssetResourceLoadingRequest", "iOS 自訂音訊播放器", "iOS 雲端音訊串流", "iOS 音訊快取", "Swift AVPlayer 自訂方案"]
 tags: ["streaming", "AVPlayer", "AVFoundation", "iOS", "AVAssetResourceLoader", "tutorial", "Objective-C", "audio caching"]
-draft: false
 cascade:
   type: docs
 authors:

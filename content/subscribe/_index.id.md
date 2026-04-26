@@ -1,5 +1,4 @@
 ---
-draft: false
 title: 'Berlangganan'
 sitemap:
   disable: true

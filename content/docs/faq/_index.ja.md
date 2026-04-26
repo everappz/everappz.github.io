@@ -1,6 +1,5 @@
 ---
 date: '2025-06-12T17:00:00+00:00'
-draft: false
 title: 'よくある質問'
 description: 'Evermusic、Flacbox、Evervideo、Evertag に関するよくある質問への回答を見つけましょう。クラウドストリーミング、ファイル管理、再生オプション、メタデータ編集などの機能を探索できます。'
 keywords: [

@@ -1,5 +1,4 @@
 ---
-draft: false
 title: 'Tilaa'
 sitemap:
   disable: true

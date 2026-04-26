@@ -4,7 +4,6 @@ date: 2016-05-26
 description: "Evermusic 2.3 dodaje automatyczną synchronizację muzyki z chmury, zapisywanie pozycji odtwarzania dla audiobooków, odczyt metadanych w tle i korektę tagów ID3."
 keywords: ["Evermusic", "odtwarzacz muzyki w chmurze", "synchronizacja muzyki iOS", "zapisz pozycję odtwarzania", "odtwarzanie audiobooków", "czytnik metadanych", "naprawa tagów ID3", "strumieniowanie muzyki z chmury", "aplikacja muzyczna dla Dropbox", "odtwarzacz Google Drive", "automatyczna synchronizacja biblioteki muzycznej", "zapisywanie pozycji audiobooka iOS"]
 tags: ["evermusic", "muzyka", "odtwarzanie", "menedżer", "edytor", "synchronizacja", "pozycja", "tagi id3", "chmura", "nowości"]
-draft: false
 cascade:
   type: docs
 authors:

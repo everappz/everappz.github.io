@@ -4,7 +4,6 @@ date: 2018-06-19
 description: "Evermusic 3.1 dodaje crossfade reprodukciju, redizajniranu glazbenu biblioteku, sigurnosno kopiranje i vraćanje u oblak, integraciju iPoda i poboljšano uređivanje oznaka za iOS."
 keywords: ["Evermusic ažuriranje", "crossfade reprodukcija iOS", "aplikacija za glazbu u oblaku", "aplikacija za sigurnosnu kopiju glazbe", "red čekanja audio playera", "uređivač glazbenih oznaka", "ažuriranje ID3 oznaka", "integracija iPod biblioteke", "glazbeni player iPhone", "crossfade glazba iOS", "sinkronizacija glazbene biblioteke oblak", "sigurnosna kopija glazbenih popisa iOS"]
 tags: ["Evermusic", "crossfade", "glazbena biblioteka", "sigurnosna kopija", "audio red čekanja", "oznake", "cloud player", "izvanmrežni player", "uređivač", "iPod biblioteka"]
-draft: false
 cascade:
   type: docs
 authors:

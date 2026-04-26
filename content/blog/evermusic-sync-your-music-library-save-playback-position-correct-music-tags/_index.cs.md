@@ -4,7 +4,6 @@ date: 2016-05-26
 description: "Evermusic 2.3 přidává automatickou synchronizaci cloudové hudby, ukládání pozice přehrávání pro audioknihy, čtení metadat na pozadí a opravu ID3 tagů."
 keywords: ["Evermusic", "cloudový hudební přehrávač", "synchronizace hudby iOS", "uložit pozici přehrávání", "přehrávání audioknih", "čtečka metadat", "opravit ID3 tagy", "streamování hudby z cloudu", "hudební aplikace pro Dropbox", "přehrávač Google Drive", "automatická synchronizace hudební knihovny", "uložení pozice audioknihy iOS"]
 tags: ["evermusic", "hudba", "přehrávání", "správce", "editor", "synchronizace", "pozice", "id3 tagy", "cloud", "novinky"]
-draft: false
 cascade:
   type: docs
 authors:

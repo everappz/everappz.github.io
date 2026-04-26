@@ -5,7 +5,6 @@ description: "Lær hvordan du streamer og downloader musik fra WD My Cloud Home 
 keywords: ["evermusic", "wd my cloud", "stream musik", "iphone", "NAS-lagring", "offline musik", "brugerdefineret equalizer", "my cloud home", "8TB musikbibliotek", "WD MyCloud EX2 Ultra", "MyCloud Mirror"]
 tags: ["evermusic", "musik", "cloud", "iphone", "lagring", "nas", "lytte", "fjern", "hjem", "online", "wd", "mycloud"]
 readingTime: 4
-draft: false
 ---
 
 {{< author-byline >}}

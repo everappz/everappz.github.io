@@ -1,6 +1,5 @@
 ---
 date: '2025-06-12T17:00:00+00:00'
-draft: false
 title: 'Vejledninger'
 description: 'Trin-for-trin-vejledninger og tips til at hjælpe dig med at opsætte, bruge og få mest muligt ud af Everappz-apps.'
 excludeSearch: true

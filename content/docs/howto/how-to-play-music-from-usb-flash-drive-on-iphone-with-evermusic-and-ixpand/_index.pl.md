@@ -5,7 +5,6 @@ description: "Dowiedz się, jak używać Evermusic z dyskiem SanDisk iXpand Flas
 keywords: ["evermusic", "ixpand", "sandisk", "dysk usb", "pendrive", "muzyka zewnętrzna", "odtwarzacz muzyki iphone", "menedżer plików", "pamięć lightning", "odtwarzanie muzyki z usb", "dostęp do plików iphone"]
 tags: ["muzyka", "usb", "zewnętrzny", "ixpand", "sandisk", "iphone", "evermusic"]
 readingTime: 3
-draft: false
 ---
 
 {{< author-byline >}}

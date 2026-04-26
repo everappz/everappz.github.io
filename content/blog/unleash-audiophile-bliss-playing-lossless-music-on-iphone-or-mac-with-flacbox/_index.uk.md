@@ -4,7 +4,6 @@ date: 2025-04-05
 description: "Відтворюйте FLAC, DSD, ALAC та 120+ аудіо форматів на iPhone та Mac з Flacbox. Імпорт через хмару, Wi-Fi або USB. Включає 10-смуговий EQ та офлайн відтворення."
 keywords: ["безвтратний музичний програвач", "FLAC програвач iOS", "DSD програвач iPhone", "hi-res аудіо Mac", "додаток Flacbox", "найкращий FLAC програвач iPhone", "офлайн FLAC програвач", "аудіофільський програвач iOS", "Mac FLAC програвач", "hi-res потокове відтворення iOS", "відтворення FLAC на iPhone", "DSD128 програвач", "безвтратний аудіо додаток"]
 tags: ["flacbox", "музика", "аудіо", "безвтратний", "iphone", "mac", "flac", "dsd", "аудіофіл"]
-draft: false
 cascade:
   type: docs
 authors:

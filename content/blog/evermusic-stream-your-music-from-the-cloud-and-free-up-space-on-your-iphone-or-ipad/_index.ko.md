@@ -4,7 +4,6 @@ date: 2016-05-26
 description: "Evermusic로 iPhone과 iPad에서 Google Drive, Dropbox 또는 OneDrive의 음악을 스트리밍하세요. iTunes 동기화 없이 기기 저장 공간을 확보하고 오프라인으로 들으세요."
 keywords: ["Evermusic", "클라우드 음악 플레이어", "iOS 음악 앱", "클라우드에서 음악 스트리밍", "오프라인 음악 iPhone", "Google Drive 음악 플레이어", "Dropbox 음악 스트리밍", "MP3 플레이어 iPhone", "iPhone 저장 공간 확보", "SMB 음악", "iOS 클라우드 저장소에서 음악 재생", "iTunes 없는 음악 플레이어"]
 tags: ["오디오", "스트리밍", "플레이어", "mp3", "다운로더", "GoogleDrive", "Dropbox", "클라우드 음악", "오프라인 재생"]
-draft: false
 cascade:
   type: docs
 authors:

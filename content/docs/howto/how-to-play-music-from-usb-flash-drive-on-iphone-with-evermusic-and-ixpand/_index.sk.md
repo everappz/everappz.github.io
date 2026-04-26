@@ -5,7 +5,6 @@ description: "Zistite, ako používať Evermusic s diskom SanDisk iXpand Flash D
 keywords: ["evermusic", "ixpand", "sandisk", "usb disk", "flash disk", "externá hudba", "hudobný prehrávač iphone", "správca súborov", "lightning úložisko", "prehrávanie hudby z usb", "prístup k súborom iphone"]
 tags: ["hudba", "usb", "externý", "ixpand", "sandisk", "iphone", "evermusic"]
 readingTime: 3
-draft: false
 ---
 
 {{< author-byline >}}

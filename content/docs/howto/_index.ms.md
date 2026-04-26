@@ -1,6 +1,5 @@
 ---
 date: '2025-06-12T17:00:00+00:00'
-draft: false
 title: 'Cara Penggunaan'
 description: 'Panduan langkah demi langkah dan tips untuk membantu anda menyediakan, menggunakan, dan memanfaatkan sepenuhnya aplikasi Everappz.'
 excludeSearch: true

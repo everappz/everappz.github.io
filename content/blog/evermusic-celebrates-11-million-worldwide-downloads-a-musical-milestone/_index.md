@@ -4,7 +4,6 @@ date: 2023-09-06
 description: "Evermusic reaches 11 million downloads. See the features that made it a top cloud music player: equalizer, offline mode, iCloud, and more."
 keywords: ["Evermusic 11 million downloads", "best cloud music player iOS", "offline music player iPhone", "iCloud Drive music streaming", "10-band equalizer app", "ID3 tag editor iOS", "music player Mac iPhone sync", "FLAC player iPhone"]
 tags: ["Evermusic", "milestone", "cloud music", "offline playback", "iCloud Drive", "equalizer", "iOS music player"]
-draft: false
 aliases:
   - /post/evermusic-celebrates-11-million-worldwide-downloads-a-musical-milestone/
 cascade:

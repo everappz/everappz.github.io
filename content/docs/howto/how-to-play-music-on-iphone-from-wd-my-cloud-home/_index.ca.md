@@ -5,7 +5,6 @@ description: "Apreneu a reproduir en streaming i descarregar música de WD My Cl
 keywords: ["evermusic", "wd my cloud", "reproduir música en streaming", "iphone", "emmagatzematge NAS", "música fora de línia", "equalitzador personalitzat", "my cloud home", "biblioteca musical de 8 TB", "WD MyCloud EX2 Ultra", "MyCloud Mirror"]
 tags: ["evermusic", "música", "núvol", "iphone", "emmagatzematge", "nas", "escoltar", "remot", "llar", "en línia", "wd", "mycloud"]
 readingTime: 4
-draft: false
 ---
 
 {{< author-byline >}}

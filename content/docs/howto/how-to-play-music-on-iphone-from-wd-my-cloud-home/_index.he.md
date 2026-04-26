@@ -5,7 +5,6 @@ description: "למדו כיצד להזרים ולהוריד מוזיקה מ-WD M
 keywords: ["evermusic", "wd my cloud", "הזרמת מוזיקה", "iphone", "אחסון NAS", "מוזיקה לא מקוונת", "אקולייזר מותאם אישית", "my cloud home", "ספריית מוזיקה 8TB", "WD MyCloud EX2 Ultra", "MyCloud Mirror"]
 tags: ["evermusic", "מוזיקה", "ענן", "iphone", "אחסון", "nas", "האזנה", "מרחוק", "בית", "מקוון", "wd", "mycloud"]
 readingTime: 4
-draft: false
 ---
 
 {{< author-byline >}}

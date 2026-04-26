@@ -4,7 +4,6 @@ date: 2025-04-05
 description: "Putar FLAC, DSD, ALAC, dan 120+ format audio di iPhone dan Mac dengan Flacbox. Impor melalui cloud, Wi-Fi, atau USB. Termasuk EQ 10-band dan pemutaran offline."
 keywords: ["pemutar musik lossless", "pemutar FLAC iOS", "pemutar DSD iPhone", "audio hi-res Mac", "aplikasi Flacbox", "pemutar FLAC terbaik iPhone", "pemutar FLAC offline", "pemutar musik audiofil iOS", "pemutar FLAC Mac", "streaming hi-res iOS", "putar FLAC di iPhone", "pemutar DSD128", "aplikasi audio lossless"]
 tags: ["flacbox", "musik", "audio", "lossless", "iphone", "mac", "flac", "dsd", "audiofil"]
-draft: false
 cascade:
   type: docs
 authors:

@@ -5,7 +5,6 @@ description: "Learn how to disconnect apps from your Google account to improve p
 keywords: ["google account", "disconnect apps", "remove third-party app", "app access", "google privacy", "google security"]
 tags: ["google", "security", "privacy", "apps", "account", "access"]
 readingTime: 2
-draft: false
 aliases:
   - /post/how-to-disconnect-third-party-app-from-your-google-account/
 ---

@@ -5,7 +5,6 @@ description: "Tìm hiểu cách phát nhạc cục bộ hoặc ngoại tuyến c
 keywords: ["nhạc carplay", "phát nhạc riêng trên iphone", "nhạc cục bộ iphone", "nhạc ngoại tuyến carplay", "evermusic", "flacbox", "trình phát mp3 iphone"]
 tags: ["carplay", "iphone", "nhạc cục bộ", "phát ngoại tuyến", "evermusic", "flacbox"]
 readingTime: 5
-draft: false
 ---
 
 {{< author-byline >}}

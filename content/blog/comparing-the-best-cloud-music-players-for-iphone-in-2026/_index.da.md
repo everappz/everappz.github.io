@@ -4,7 +4,6 @@ date: 2026-04-22
 description: "Sammenlign 7 topkvalitets cloud musikafspillere til iPhone: Apple Music, Spotify, Evermusic og flere. Funktioner, priser, offline-support og formatkompatibilitet."
 keywords: ["cloud musikafspiller iPhone", "bedste musikapps til iPhone", "Evermusic vs Spotify", "offline musikapp iOS", "Apple Music alternativ", "afspil FLAC på iPhone", "cloud musikstreaming", "lydafspiller iPhone", "musikafspiller til Dropbox", "afspil egne musikfiler iPhone"]
 tags: ["music", "streaming", "apps", "iOS", "cloud music", "Evermusic", "Spotify", "Apple Music", "YouTube Music", "SoundCloud", "comparison"]
-draft: false
 cascade:
   type: docs
 authors:

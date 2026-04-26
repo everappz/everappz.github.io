@@ -1,6 +1,5 @@
 ---
 date: '2025-06-12T17:00:00+00:00'
-draft: false
 title: 'Používateľská príručka'
 description: 'Zistite, ako používať aplikácie Everappz ako Evermusic, Flacbox, Evervideo a Evertag. Nastavte cloudové pripojenia, spravujte svoju hudbu a videá, prispôsobte prehrávanie a preskúmajte všetky funkcie na jednom mieste.'
 keywords: [

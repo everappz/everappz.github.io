@@ -4,7 +4,6 @@ date: 2024-01-31
 description: "Learn how to export your recents, favorites, playlists, and albums from Evermusic and Flacbox to M3U, CSV, or TXT formats. Perfect for Last.fm scrobbling and playback on other devices."
 keywords: ["evermusic export", "flacbox export", "export to m3u", "export playlist to csv", "m3u txt csv playlist", "music export"]
 tags: ["evermusic", "recents", "favorites", "export", "m3u", "playlist", "csv", "txt", "album"]
-draft: false
 aliases:
   - /post/export-tracks-collection-from-evermusic-flacbox-to-m3u-csv-txt/
 ---

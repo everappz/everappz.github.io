@@ -4,7 +4,6 @@ date: 2025-04-30
 description: "מדריך שלב אחר שלב לאופטימיזציה של מילות מפתח, כותרות וכותרות משנה ב-App Store. כולל כלי ASO חינמי מבוסס דפדפן עם אינטגרציית Fastlane."
 keywords: ["מדריך מילות מפתח app store", "אופטימיזציית מילות מפתח ASO", "אופטימיזציית כותרת app store", "אופטימיזציית כותרת משנה app store", "מטא-נתוני app store", "שיפור דירוג app store", "אופטימיזציית app store", "כלי ASO חינמי", "כלי ASO חינמיים", "אסטרטגיית מילות מפתח app store", "SEO apple app store", "כלי מטא-נתונים fastlane", "מחקר מילות מפתח app store חינם"]
 tags: ["אופטימיזציית App Store", "כלי ASO חינמיים", "אופטימיזציית כותרת app store", "כלי ASO חינמי", "אסטרטגיית מילות מפתח app store", "אופטימייזר מטא-נתונים"]
-draft: false
 sidebar:
   exclude: true
 cascade:

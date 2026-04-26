@@ -1,6 +1,5 @@
 ---
 date: '2025-06-12T17:00:00+00:00'
-draft: false
 title: 'Flacbox - Reproductor de audio Hi-Res para iPhone y Mac'
 layout: hextra-home
 description: "Reproduce y descarga archivos FLAC, DSD, APE, ALAC en tu iPhone. Escucha tu música directamente desde el almacenamiento en la nube o la computadora con ecualizador."

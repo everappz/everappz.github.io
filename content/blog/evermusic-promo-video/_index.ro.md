@@ -4,7 +4,6 @@ date: 2019-07-02
 description: "Vizionați videoclipul promoțional oficial Evermusic. Vedeți cum Evermusic redă, descarcă și organizează muzica din stocarea cloud pe iPhone și iPad."
 keywords: ["Video promoțional Evermusic", "player muzică cloud iPhone", "video aplicație muzică", "demo aplicație Evermusic", "muzică cloud iOS", "funcții Evermusic", "player muzică iPad", "streaming muzică din cloud"]
 tags: ["evermusic", "promoție", "video", "ios", "muzică", "cloud", "player", "aplicație mobilă"]
-draft: false
 cascade:
   type: docs
 authors:

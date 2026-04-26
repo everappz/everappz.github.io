@@ -4,7 +4,6 @@ date: 2025-06-24
 description: "Python、Selenium、OpenAIを使用してWixブログのエクスポートを自動化。動的コンテンツの抽出、画像のダウンロード、HTMLからHugoやJekyll用のクリーンなMarkdownへの変換。"
 keywords: ["Wixブログエクスポート", "HTMLをmarkdownに変換", "OpenAI markdown変換", "wixからmarkdown", "SEOブログ移行", "wixからhugo移行", "beautifulsoupスクレイパー", "selenium HTMLレンダリング", "OpenAI API自動化", "wixから静的サイトに移行", "wixブログスクレイパーpython"]
 tags: ["wix", "markdown", "ブログ移行", "openai", "スクレイピング", "beautifulsoup", "selenium", "自動化", "SEO", "チュートリアル"]
-draft: false
 cascade:
   type: docs
 authors:

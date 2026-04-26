@@ -4,7 +4,6 @@ date: 2017-11-08
 description: "Evermusic ha arribat als 3 milions de descàrregues. Descobreix la reproducció de música al núvol, la reproducció fora de línia, l'equalitzador de 10 bandes, el suport d'audiollibres, el gestor de fitxers i l'editor d'etiquetes ID3."
 keywords: ["descàrregues Evermusic", "reproductor de música iOS", "aplicació de música al núvol", "reproductor de música fora de línia iPhone", "descarregador de música iOS", "reproductor d'audiollibres iPhone", "editor d'etiquetes ID3 iOS", "gestor de fitxers iPhone", "aplicació equalitzador de música", "millor reproductor de música al núvol", "reproduir música des de NAS iPhone"]
 tags: ["Evermusic", "descàrregues", "fita", "aplicacions de música", "reproductor al núvol", "reproductor fora de línia", "editor d'etiquetes", "equalitzador", "audiollibres", "gestor de fitxers"]
-draft: false
 cascade:
   type: docs
 authors:

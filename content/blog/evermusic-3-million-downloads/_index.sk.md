@@ -4,7 +4,6 @@ date: 2017-11-08
 description: "Evermusic dosiahol 3 milióny stiahnutí. Preskúmajte jeho cloudové streamovanie hudby, offline prehrávanie, 10-pásmový ekvalizér, podporu audiokníh, správcu súborov a editor ID3 tagov."
 keywords: ["Evermusic stiahnutia", "iOS hudobný prehrávač", "cloudová hudobná aplikácia", "offline hudobný prehrávač iPhone", "sťahovanie hudby iOS", "prehrávač audiokníh iPhone", "editor ID3 tagov iOS", "správca súborov iPhone", "ekvalizér hudobná aplikácia", "najlepší cloudový hudobný prehrávač", "streamovanie hudby z NAS iPhone"]
 tags: ["Evermusic", "stiahnutia", "míľnik", "hudobné aplikácie", "cloudový prehrávač", "offline prehrávač", "editor tagov", "ekvalizér", "audioknihy", "správca súborov"]
-draft: false
 cascade:
   type: docs
 authors:

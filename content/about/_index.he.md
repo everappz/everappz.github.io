@@ -1,6 +1,5 @@
 ---
 date: '2025-06-12T17:00:00+00:00'
-draft: false
 title: 'אודות'
 description: 'Everappz S.L. היא חברת תוכנה ספרדית המפתחת אפליקציות iOS ו-macOS לאודיו ווידאו. יוצרי Evermusic (11 מיליון הורדות), Flacbox, EverTag, EverVideo ו-Soundy — מעל 14 מיליון הורדות ברחבי העולם.'
 ---

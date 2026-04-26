@@ -1,6 +1,5 @@
 ---
 date: '2025-06-12T17:00:00+00:00'
-draft: false
 title: 'Flacbox - iPhone और Mac के लिए हाई-रेज़ ऑडियो प्लेयर'
 layout: hextra-home
 description: "अपने iPhone पर FLAC, DSD, APE, ALAC फ़ाइलें चलाएं और डाउनलोड करें। इक्वलाइज़र के साथ क्लाउड स्टोरेज या कंप्यूटर से सीधे अपना संगीत सुनें।"

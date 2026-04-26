@@ -4,7 +4,6 @@ date: 2020-05-05
 description: "Comparați cele mai bune aplicații player muzică iPhone: Evermusic, Apple Music, Spotify, VLC și Amazon Music. Funcții, prețuri și suport offline."
 keywords: ["cel mai bun player muzică iPhone", "aplicație player muzică iOS", "Evermusic vs Spotify", "player muzică cloud iPhone", "aplicație muzică offline iPhone", "player FLAC iOS", "alternative Apple Music", "VLC iPhone", "player muzică gratuit iOS"]
 tags: ["aplicații muzică", "iOS", "Evermusic", "Apple Music", "Spotify", "VLC", "Amazon Music", "comparație", "muzică cloud", "redare offline"]
-draft: false
 cascade:
   type: docs
 authors:

@@ -5,7 +5,6 @@ description: "Naučite kako streamati i preuzimati glazbu s WD My Cloud Home na 
 keywords: ["evermusic", "wd my cloud", "streamanje glazbe", "iphone", "NAS pohrana", "offline glazba", "prilagođeni ekvilajzer", "my cloud home", "glazbena knjižnica od 8TB", "WD MyCloud EX2 Ultra", "MyCloud Mirror"]
 tags: ["evermusic", "glazba", "oblak", "iphone", "pohrana", "nas", "slušanje", "udaljeno", "dom", "online", "wd", "mycloud"]
 readingTime: 4
-draft: false
 ---
 
 {{< author-byline >}}

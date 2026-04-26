@@ -4,7 +4,6 @@ date: 2025-04-30
 description: "App Store 키워드, 제목, 부제목 최적화를 위한 단계별 가이드. Fastlane 통합이 가능한 무료 브라우저 기반 ASO 도구를 포함합니다."
 keywords: ["app store 키워드 가이드", "ASO 키워드 최적화", "app store 제목 최적화", "app store 부제목 최적화", "app store 메타데이터", "app store 순위 개선 방법", "app store 최적화", "무료 ASO 도구", "무료 ASO 도구들", "app store 키워드 전략", "apple app store SEO", "fastlane 메타데이터 도구", "무료 app store 키워드 조사"]
 tags: ["App Store 최적화", "무료 ASO 도구", "app store 제목 최적화", "무료 ASO 도구", "app store 키워드 전략", "메타데이터 최적화"]
-draft: false
 sidebar:
   exclude: true
 cascade:

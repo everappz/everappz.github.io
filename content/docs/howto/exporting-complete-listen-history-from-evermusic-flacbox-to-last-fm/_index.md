@@ -5,7 +5,6 @@ description: "Learn how to export your music history from Evermusic and Flacbox 
 keywords: ["evermusic", "flacbox", "lastfm", "music history", "scrobbling", "export tracks", "csv", "scrubbler"]
 tags: ["evermusic", "flacbox", "recents", "lastfm", "export", "scrobbler"]
 readingTime: 5
-draft: false
 aliases:
   - /post/exporting-complete-listen-history-from-evermusic-flacbox-to-last-fm/
 ---

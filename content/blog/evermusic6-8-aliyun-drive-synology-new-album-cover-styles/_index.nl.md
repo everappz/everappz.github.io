@@ -4,7 +4,6 @@ date: 2024-09-17
 description: "Evermusic 6.8 voegt Aliyun Drive- en Synology NAS-ondersteuning toe, nieuwe scrolleffecten voor albumcovers, een minimaal spelerscherm, drag-and-drop bestandsbeheer en snellere artwork-lading."
 keywords: ["Evermusic update", "Aliyun Drive muziekspeler", "Synology NAS muziek", "cloudmuziekspeler iOS", "audiospeler iOS", "albumcoverstijlen", "drag-and-drop bestandsbrowser", "Evermusic 6.8", "FLAC-speler iOS", "QuickConnect muziekspeler", "NAS muziekstreaming iPhone"]
 tags: ["Evermusic", "Aliyun Drive", "Synology", "Albumcovers", "Cloudmuziek", "iOS Muziekapp", "Wat is nieuw"]
-draft: false
 cascade:
   type: docs
 authors:

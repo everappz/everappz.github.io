@@ -4,7 +4,6 @@ date: 2024-09-17
 description: "Το Evermusic 6.8 προσθέτει υποστήριξη Aliyun Drive και Synology NAS, νέα εφέ κύλισης εξωφύλλων, μια minimal οθόνη αναπαραγωγής, διαχείριση αρχείων με σύρσιμο και απόθεση και ταχύτερη φόρτωση εξωφύλλων."
 keywords: ["ενημέρωση Evermusic", "αναπαραγωγέας μουσικής Aliyun Drive", "μουσική Synology NAS", "αναπαραγωγέας μουσικής cloud iOS", "αναπαραγωγέας ήχου iOS", "στυλ εξωφύλλων άλμπουμ", "σύρσιμο και απόθεση περιηγητής αρχείων", "Evermusic 6.8", "αναπαραγωγέας FLAC iOS", "αναπαραγωγέας μουσικής QuickConnect", "streaming μουσικής NAS iPhone"]
 tags: ["Evermusic", "Aliyun Drive", "Synology", "εξώφυλλα άλμπουμ", "μουσική cloud", "εφαρμογή μουσικής iOS", "τι νέο υπάρχει"]
-draft: false
 cascade:
   type: docs
 authors:

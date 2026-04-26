@@ -4,7 +4,6 @@ date: 2025-06-24
 description: "أتمتة تصدير مدونة Wix باستخدام Python وSelenium وOpenAI. استخراج المحتوى الديناميكي، تحميل الصور، وتحويل HTML إلى Markdown نظيف لـ Hugo أو Jekyll."
 keywords: ["تصدير مدونة Wix", "تحويل HTML إلى markdown", "تحويل OpenAI إلى markdown", "wix إلى markdown", "ترحيل مدونة SEO", "ترحيل wix إلى hugo", "أداة beautifulsoup", "عرض HTML بـ selenium", "أتمتة OpenAI API", "ترحيل wix إلى موقع ثابت", "أداة استخراج مدونة wix بـ python"]
 tags: ["wix", "markdown", "ترحيل مدونة", "openai", "استخراج البيانات", "beautifulsoup", "selenium", "أتمتة", "SEO", "دليل تعليمي"]
-draft: false
 cascade:
   type: docs
 authors:

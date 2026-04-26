@@ -5,7 +5,6 @@ description: "Apple CarPlay를 사용하여 iPhone에서 로컬 또는 오프라
 keywords: ["carplay 음악", "아이폰에서 나만의 음악 재생", "아이폰 로컬 음악", "carplay 오프라인 음악", "evermusic", "flacbox", "아이폰 mp3 플레이어"]
 tags: ["carplay", "아이폰", "로컬 음악", "오프라인 재생", "evermusic", "flacbox"]
 readingTime: 5
-draft: false
 ---
 
 {{< author-byline >}}

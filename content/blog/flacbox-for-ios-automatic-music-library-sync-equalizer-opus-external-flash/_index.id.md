@@ -4,7 +4,6 @@ date: 2017-01-25
 description: "Flacbox 1.6 untuk iOS menambahkan sinkronisasi cloud otomatis, equalizer 10-band, dukungan format OPUS, dan pemutaran dari flash drive eksternal untuk iPhone dan iPad."
 keywords: ["pembaruan Flacbox", "pemutar FLAC iOS", "equalizer 10-band iPhone", "sinkronisasi musik otomatis", "putar OPUS di iPhone", "musik flash drive eksternal", "streaming FLAC iOS", "aplikasi musik hi-res iPhone", "equalizer Flacbox", "pemutar musik kartu SD iOS"]
 tags: ["Flacbox", "equalizer", "perpustakaan musik", "OPUS", "FLAC", "penyimpanan eksternal", "sinkronisasi", "pemutar audio", "aplikasi iOS", "pembaruan"]
-draft: false
 cascade:
   type: docs
 authors:

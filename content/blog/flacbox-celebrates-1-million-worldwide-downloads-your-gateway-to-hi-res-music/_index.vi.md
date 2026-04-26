@@ -4,7 +4,6 @@ date: 2023-09-06
 description: "Flacbox đạt 1 triệu lượt tải toàn cầu. Khám phá các tính năng làm cho nó trở thành trình phát âm thanh hi-res hàng đầu cho iPhone, iPad và Mac — FLAC, DSD, APE, bộ cân bằng và phát ngoại tuyến."
 keywords: ["Flacbox trình phát nhạc", "hi-res audio iOS", "ứng dụng nhạc lossless", "DSD FLAC APE trình phát", "nhạc FLAC ngoại tuyến", "Flacbox cột mốc tải về", "âm thanh chất lượng cao iPhone", "Everappz ứng dụng âm thanh", "trình phát danh sách CUE", "1 triệu lượt tải", "trình phát FLAC tốt nhất iOS", "trình phát nhạc hi-res Mac"]
 tags: ["Flacbox", "lossless", "hi-res audio", "trình phát nhạc", "âm thanh", "cột mốc", "ứng dụng iOS", "có gì mới"]
-draft: false
 cascade:
   type: docs
 authors:

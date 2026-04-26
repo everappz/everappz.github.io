@@ -4,7 +4,6 @@ date: 2015-06-20
 description: "Naučte se, jak streamovat a ukládat zvuk do mezipaměti v iOS pomocí AVAssetResourceLoaderDelegate a AVPlayer s vlastními schématy URL a ukládáním na disk."
 keywords: ["streamování zvuku iOS", "AVAssetResourceLoaderDelegate", "AVURLAsset", "tutoriál AVPlayer", "zvuk AVFoundation", "AVAssetResourceLoadingRequest", "vlastní audio přehrávač iOS", "cloudové streamování zvuku iOS", "ukládání zvuku do mezipaměti iOS", "Swift AVPlayer vlastní schéma"]
 tags: ["streaming", "AVPlayer", "AVFoundation", "iOS", "AVAssetResourceLoader", "tutorial", "Objective-C", "audio caching"]
-draft: false
 cascade:
   type: docs
 authors:

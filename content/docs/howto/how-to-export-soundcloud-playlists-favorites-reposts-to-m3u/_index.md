@@ -6,7 +6,6 @@ description: "Learn how to export your SoundCloud playlists, likes, and reposts 
 keywords: ["soundcloud", "playlist export", "m3u", "soundy", "favorites", "reposts", "music tools"]
 tags: ["how-to", "soundcloud", "playlist", "m3u", "export", "audio", "favorites"]
 readingTime: 1
-draft: false
 aliases:
   - /post/how-to-export-soundcloud-playlists-favorites-reposts-to-m3u/
 ---

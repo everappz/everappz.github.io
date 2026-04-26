@@ -4,7 +4,6 @@ date: 2018-06-19
 description: "Evermusic 3.1 lägger till crossfade-uppspelning, ett omdesignat musikbibliotek, molnsäkerhetskopiering och återställning, iPod-integration och förbättrad taggredigering för iOS."
 keywords: ["Evermusic uppdatering", "crossfade uppspelning iOS", "molnmusikapp", "musiksäkerhetskopieringsapp", "ljudspelarens kö", "musiktaggredigerare", "ID3-tagguppdatering", "iPod-biblioteksintegration", "musikspelare iPhone", "crossfade musik iOS", "synk musikbibliotek moln", "säkerhetskopiera musikspellistor iOS"]
 tags: ["Evermusic", "crossfade", "musikbibliotek", "säkerhetskopiering", "ljudkö", "taggar", "molnspelare", "offlinespelare", "redigerare", "iPod-bibliotek"]
-draft: false
 cascade:
   type: docs
 authors:

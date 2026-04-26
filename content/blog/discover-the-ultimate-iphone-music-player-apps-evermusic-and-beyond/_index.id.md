@@ -4,7 +4,6 @@ date: 2020-05-05
 description: "Bandingkan aplikasi pemutar musik iPhone terbaik: Evermusic, Apple Music, Spotify, VLC, dan Amazon Music. Fitur, harga, dan dukungan offline."
 keywords: ["pemutar musik iPhone terbaik", "aplikasi pemutar musik iOS", "Evermusic vs Spotify", "pemutar musik cloud iPhone", "aplikasi musik offline iPhone", "pemutar FLAC iOS", "alternatif Apple Music", "VLC iPhone", "pemutar musik gratis iOS"]
 tags: ["aplikasi musik", "iOS", "Evermusic", "Apple Music", "Spotify", "VLC", "Amazon Music", "perbandingan", "musik cloud", "pemutaran offline"]
-draft: false
 cascade:
   type: docs
 authors:

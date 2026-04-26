@@ -4,7 +4,6 @@ date: 2023-09-06
 description: "A Flacbox elérte az 1 millió globális letöltést. Fedezd fel a funkciókat, amelyek a legjobb hi-res audio lejátszóvá teszik iPhone-ra, iPadre és Macre — FLAC, DSD, APE, hangszínszabályzó és offline lejátszás."
 keywords: ["Flacbox zenelejátszó", "hi-res audio iOS", "veszteségmentes zenei alkalmazás", "DSD FLAC APE lejátszó", "offline FLAC zene", "Flacbox letöltési mérföldkő", "kiváló minőségű audio iPhone", "Everappz audio alkalmazások", "CUE lejátszási lista lejátszó", "1 millió letöltés", "legjobb FLAC lejátszó iOS", "hi-res zenelejátszó Mac"]
 tags: ["Flacbox", "veszteségmentes", "hi-res audio", "zenelejátszó", "audio", "mérföldkő", "iOS alkalmazások", "Újdonságok"]
-draft: false
 cascade:
   type: docs
 authors:

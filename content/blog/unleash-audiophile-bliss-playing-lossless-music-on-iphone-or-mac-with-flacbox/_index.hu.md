@@ -4,7 +4,6 @@ date: 2025-04-05
 description: "Játssz le FLAC, DSD, ALAC és 120+ audio formátumot iPhone-on és Macen a Flacbox-szal. Importálj felhőn, Wi-Fin vagy USB-n keresztül. 10 sávos EQ és offline lejátszás."
 keywords: ["veszteségmentes zenelejátszó", "FLAC lejátszó iOS", "DSD lejátszó iPhone", "hi-res audio Mac", "Flacbox alkalmazás", "legjobb FLAC lejátszó iPhone", "offline FLAC lejátszó", "audiofil zenelejátszó iOS", "Mac FLAC lejátszó", "hi-res streaming iOS", "FLAC lejátszás iPhone-on", "DSD128 lejátszó", "veszteségmentes audio alkalmazás"]
 tags: ["flacbox", "zene", "audio", "veszteségmentes", "iphone", "mac", "flac", "dsd", "audiofil"]
-draft: false
 cascade:
   type: docs
 authors:

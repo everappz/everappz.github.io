@@ -4,7 +4,6 @@ date: 2025-06-24
 description: "Automatizirajte izvoz Wix bloga koristeći Python, Selenium i OpenAI. Izvucite dinamički sadržaj, preuzmite slike i pretvorite HTML u čisti Markdown za Hugo ili Jekyll."
 keywords: ["izvoz Wix bloga", "pretvorba HTML u markdown", "OpenAI pretvorba u markdown", "wix u markdown", "SEO migracija bloga", "wix u hugo migracija", "beautifulsoup scraper", "selenium renderiranje HTML", "OpenAI API automatizacija", "migracija wix na statičku stranicu", "wix blog scraper python"]
 tags: ["wix", "markdown", "migracija bloga", "openai", "scraping", "beautifulsoup", "selenium", "automatizacija", "SEO", "vodič"]
-draft: false
 cascade:
   type: docs
 authors:

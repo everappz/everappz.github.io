@@ -4,7 +4,6 @@ date: 2019-07-02
 description: "觀看 Evermusic 官方宣傳影片。了解 Evermusic 如何在 iPhone 和 iPad 上從雲端儲存串流、下載和整理您的音樂。"
 keywords: ["Evermusic 宣傳影片", "雲端音樂播放器 iPhone", "音樂應用程式影片", "Evermusic 應用程式演示", "雲端音樂 iOS", "Evermusic 功能", "音樂播放器 iPad", "從雲端串流音樂"]
 tags: ["evermusic", "宣傳", "影片", "ios", "音樂", "雲端", "播放器", "行動應用程式"]
-draft: false
 cascade:
   type: docs
 authors:

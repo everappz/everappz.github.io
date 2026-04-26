@@ -4,7 +4,6 @@ date: 2024-09-17
 description: "Evermusic 6.8 dodaje podršku za Aliyun Drive i Synology NAS, nove efekte pomicanja omota albuma, minimalni player, upravljanje datotekama povlačenjem i ispuštanjem te brže učitavanje omota."
 keywords: ["ažuriranje Evermusic", "Aliyun Drive glazbeni player", "Synology NAS glazba", "cloud glazbeni player iOS", "audio player iOS", "stilovi omota albuma", "preglednik datoteka povuci i ispusti", "Evermusic 6.8", "FLAC player iOS", "QuickConnect glazbeni player", "NAS streaming glazbe iPhone"]
 tags: ["Evermusic", "Aliyun Drive", "Synology", "Omoti albuma", "Cloud glazba", "iOS glazbena aplikacija", "Novosti"]
-draft: false
 cascade:
   type: docs
 authors:

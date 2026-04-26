@@ -4,7 +4,6 @@ date: 2017-01-25
 description: "Flacbox 1.6 za iOS dodaje automatsku sinkronizaciju s oblakom, 10-pojasni ekvilajzer, podršku za OPUS format i reprodukciju s vanjskih flash pogona za iPhone i iPad."
 keywords: ["ažuriranje Flacbox", "FLAC player iOS", "10-pojasni ekvilajzer iPhone", "automatska sinkronizacija glazbe", "reprodukcija OPUS na iPhoneu", "glazba s vanjskog flash pogona", "FLAC streaming iOS", "hi-res glazbena aplikacija iPhone", "Flacbox ekvilajzer", "SD kartica glazbeni player iOS"]
 tags: ["Flacbox", "ekvilajzer", "glazbena knjižnica", "OPUS", "FLAC", "vanjska pohrana", "sinkronizacija", "audio player", "iOS aplikacije", "ažuriranje"]
-draft: false
 cascade:
   type: docs
 authors:

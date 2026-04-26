@@ -5,7 +5,6 @@ description: "Dowiedz się, jak strumieniować i pobierać muzykę z WD My Cloud
 keywords: ["evermusic", "wd my cloud", "strumieniowanie muzyki", "iphone", "pamięć NAS", "muzyka offline", "korektor dźwięku", "my cloud home", "biblioteka muzyki 8TB", "WD MyCloud EX2 Ultra", "MyCloud Mirror"]
 tags: ["evermusic", "muzyka", "chmura", "iphone", "pamięć", "nas", "słuchanie", "zdalny", "dom", "online", "wd", "mycloud"]
 readingTime: 4
-draft: false
 ---
 
 {{< author-byline >}}

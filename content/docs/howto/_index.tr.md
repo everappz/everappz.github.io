@@ -1,6 +1,5 @@
 ---
 date: '2025-06-12T17:00:00+00:00'
-draft: false
 title: 'Nasıl Yapılır'
 description: 'Everappz uygulamalarını kurmanıza, kullanmanıza ve en iyi şekilde değerlendirmenize yardımcı olacak adım adım kılavuzlar ve ipuçları.'
 excludeSearch: true

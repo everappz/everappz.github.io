@@ -1,6 +1,5 @@
 ---
 date: 2020-01-01
-draft: false
 title: 'Evertag'
 description: 'Learn how to use Evertag – the powerful music tag editor for iPhone, iPad, and Mac. Edit audio tags, update album covers, manage files, connect cloud storage, and organize your music library with ease.'
 keywords: [

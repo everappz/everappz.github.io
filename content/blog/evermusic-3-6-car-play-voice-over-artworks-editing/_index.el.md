@@ -4,7 +4,6 @@ date: 2019-05-19
 description: "Το Evermusic 3.6 προσθέτει υποστήριξη CarPlay, προσβασιμότητα VoiceOver, μικτή έξοδο ήχου, επεξεργασία εξωφύλλων και εισαγωγή αρχείων από το iCloud Drive."
 keywords: ["Evermusic CarPlay", "αναπαραγωγέας μουσικής CarPlay iPhone", "εφαρμογή μουσικής VoiceOver iOS", "επεξεργαστής ετικετών FLAC iPhone", "επεξεργασία εξωφύλλου άλμπουμ iOS", "εισαγωγή μουσικής iCloud Drive", "αναπαραγωγέας ήχου προσβασιμότητα iOS", "μικτή έξοδος ήχου iPhone"]
 tags: ["Evermusic", "CarPlay", "VoiceOver", "προσβασιμότητα", "iCloud Drive", "επεξεργαστής ετικετών", "επεξεργασία εξωφύλλων", "ενημέρωση iOS"]
-draft: false
 cascade:
   type: docs
 authors:

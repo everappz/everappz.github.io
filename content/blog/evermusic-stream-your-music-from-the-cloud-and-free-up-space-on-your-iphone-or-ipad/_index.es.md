@@ -4,7 +4,6 @@ date: 2016-05-26
 description: "Reproduce música desde Google Drive, Dropbox u OneDrive en iPhone y iPad con Evermusic. Libera espacio de almacenamiento y escucha sin conexión sin sincronizar con iTunes."
 keywords: ["Evermusic", "reproductor de música en la nube", "aplicación de música iOS", "reproducir música desde la nube", "música sin conexión iPhone", "reproductor de música Google Drive", "streaming de música Dropbox", "reproductor MP3 iPhone", "liberar espacio iPhone", "música desde SMB", "reproducir música desde almacenamiento en la nube iOS", "reproductor de música sin iTunes"]
 tags: ["audio", "streaming", "reproductor", "mp3", "descarga", "GoogleDrive", "Dropbox", "música en la nube", "reproducción sin conexión"]
-draft: false
 cascade:
   type: docs
 authors:

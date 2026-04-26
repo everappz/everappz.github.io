@@ -9,7 +9,6 @@ keywords: [
 ]
 tags: ["evermusic", "guide", "connections"]
 readingTime: 11
-draft: false
 aliases:
   - /post/evermusic-guide-connections/
   - /guide-evermusic-connect/

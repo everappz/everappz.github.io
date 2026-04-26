@@ -4,7 +4,6 @@ date: 2025-06-24
 description: "Python, Selenium, OpenAI를 사용하여 Wix 블로그 내보내기를 자동화합니다. 동적 콘텐츠를 추출하고 이미지를 다운로드하며 HTML을 Hugo나 Jekyll용 깔끔한 Markdown으로 변환합니다."
 keywords: ["Wix 블로그 내보내기", "HTML을 markdown으로 변환", "OpenAI markdown 변환", "wix에서 markdown으로", "SEO 블로그 마이그레이션", "wix에서 hugo 마이그레이션", "beautifulsoup 스크래퍼", "selenium HTML 렌더링", "OpenAI API 자동화", "wix에서 정적 사이트로 마이그레이션", "wix 블로그 스크래퍼 python"]
 tags: ["wix", "markdown", "블로그 마이그레이션", "openai", "스크래핑", "beautifulsoup", "selenium", "자동화", "SEO", "튜토리얼"]
-draft: false
 cascade:
   type: docs
 authors:

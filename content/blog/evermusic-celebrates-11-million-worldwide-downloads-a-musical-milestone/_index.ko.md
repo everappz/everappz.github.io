@@ -4,7 +4,6 @@ date: 2023-09-06
 description: "Evermusic이 1,100만 다운로드를 달성했습니다. 최고의 클라우드 음악 플레이어로 만든 기능들을 확인하세요: 이퀄라이저, 오프라인 모드, iCloud 등."
 keywords: ["Evermusic 1100만 다운로드", "최고의 클라우드 음악 플레이어 iOS", "오프라인 음악 플레이어 iPhone", "iCloud Drive 음악 스트리밍", "10밴드 이퀄라이저 앱", "ID3 태그 편집기 iOS", "음악 플레이어 Mac iPhone 동기화", "FLAC 플레이어 iPhone"]
 tags: ["Evermusic", "마일스톤", "클라우드 음악", "오프라인 재생", "iCloud Drive", "이퀄라이저", "iOS 음악 플레이어"]
-draft: false
 cascade:
   type: docs
 authors:

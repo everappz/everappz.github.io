@@ -4,7 +4,6 @@ date: 2019-12-01
 description: "Bekijk de Evermusic-promotievideo met cloudmuziekstreaming, offline afspelen en equalizerfuncties op iPhone en Mac."
 keywords: ["Evermusic promotievideo", "muziekspeler iOS", "cloud muziek-app iPhone", "Evermusic app demo", "beste muziekspeler iPhone", "offline muziekspeler iOS"]
 tags: ["Evermusic", "promotie", "muziek", "video", "cloudmuziek", "iOS-app"]
-draft: false
 sidebar:
   exclude: true
 cascade:

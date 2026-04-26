@@ -5,7 +5,6 @@ description: "Evermusic와 SanDisk iXpand Flash Drive를 사용하여 iPhone 또
 keywords: ["evermusic", "ixpand", "sandisk", "usb 드라이브", "플래시 드라이브", "외장 음악", "아이폰 음악 플레이어", "파일 관리자", "라이트닝 저장장치", "usb에서 음악 재생", "아이폰 파일 접근"]
 tags: ["음악", "usb", "외장", "ixpand", "sandisk", "아이폰", "evermusic"]
 readingTime: 3
-draft: false
 ---
 
 {{< author-byline >}}

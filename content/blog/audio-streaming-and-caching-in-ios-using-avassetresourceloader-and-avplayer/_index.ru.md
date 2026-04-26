@@ -4,7 +4,6 @@ date: 2015-06-20
 description: "Узнайте, как организовать потоковое воспроизведение и кэширование аудио в iOS с помощью AVAssetResourceLoaderDelegate и AVPlayer с пользовательскими схемами URL и кэшем на диске."
 keywords: ["потоковое аудио iOS", "AVAssetResourceLoaderDelegate", "AVURLAsset", "руководство AVPlayer", "AVFoundation аудио", "AVAssetResourceLoadingRequest", "пользовательский аудиоплеер iOS", "потоковое аудио из облака iOS", "кэширование аудио iOS", "Swift AVPlayer пользовательская схема"]
 tags: ["streaming", "AVPlayer", "AVFoundation", "iOS", "AVAssetResourceLoader", "tutorial", "Objective-C", "audio caching"]
-draft: false
 cascade:
   type: docs
 authors:

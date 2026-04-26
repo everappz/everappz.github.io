@@ -4,7 +4,6 @@ date: 2025-04-05
 description: "FlacboxでiPhoneとMacでFLAC、DSD、ALAC、120以上のオーディオフォーマットを再生。クラウド、Wi-Fi、USBからインポート。10バンドEQとオフライン再生付き。"
 keywords: ["ロスレス音楽プレーヤー", "FLACプレーヤーiOS", "DSDプレーヤーiPhone", "Hi-ResオーディオMac", "Flacboxアプリ", "最高のFLACプレーヤーiPhone", "オフラインFLACプレーヤー", "オーディオファイル音楽プレーヤーiOS", "Mac FLACプレーヤー", "Hi-ResストリーミングiOS", "iPhoneでFLAC再生", "DSD128プレーヤー", "ロスレスオーディオアプリ"]
 tags: ["flacbox", "音楽", "オーディオ", "ロスレス", "iphone", "mac", "flac", "dsd", "オーディオファイル"]
-draft: false
 cascade:
   type: docs
 authors:

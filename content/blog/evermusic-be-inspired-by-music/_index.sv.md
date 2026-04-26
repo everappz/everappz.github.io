@@ -4,7 +4,6 @@ date: 2019-12-01
 description: "Se Evermusic reklamvideo som visar molnmusikstreaming, offlineuppspelning och equalizerfunktioner på iPhone och Mac."
 keywords: ["Evermusic reklamvideo", "musikspelare iOS", "molnmusikapp iPhone", "Evermusic appdemo", "bästa musikspelaren iPhone", "offline musikspelare iOS"]
 tags: ["Evermusic", "reklam", "musik", "video", "molnmusik", "iOS-app"]
-draft: false
 sidebar:
   exclude: true
 cascade:

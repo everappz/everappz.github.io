@@ -4,7 +4,6 @@ date: 2015-06-20
 description: "تعرّف على كيفية بث الصوت وتخزينه مؤقتًا في iOS باستخدام AVAssetResourceLoaderDelegate وAVPlayer مع مخططات URL مخصصة والتخزين المؤقت على القرص."
 keywords: ["بث الصوت في iOS", "AVAssetResourceLoaderDelegate", "AVURLAsset", "شرح AVPlayer", "AVFoundation صوت", "AVAssetResourceLoadingRequest", "مشغل صوت مخصص iOS", "بث الصوت السحابي iOS", "تخزين الصوت مؤقتًا iOS", "Swift AVPlayer مخطط مخصص"]
 tags: ["streaming", "AVPlayer", "AVFoundation", "iOS", "AVAssetResourceLoader", "tutorial", "Objective-C", "audio caching"]
-draft: false
 cascade:
   type: docs
 authors:

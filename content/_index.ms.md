@@ -1,6 +1,5 @@
 ---
 date: '2025-06-12T17:00:00+00:00'
-draft: false
 title: 'Laman Utama'
 layout: hextra-home
 description: "Terokai aplikasi Everappz untuk iPhone dan Mac: mainkan FLAC, DSD, APE, dan ALAC, strim dari storan awan atau NAS, muat turun muzik dan video, edit tag, dan sesuaikan main balik dengan penyama dan alat senarai main."

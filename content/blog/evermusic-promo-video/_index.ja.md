@@ -4,7 +4,6 @@ date: 2019-07-02
 description: "Evermusicの公式プロモーションビデオをご覧ください。EvermusicがiPhoneとiPadでクラウドストレージから音楽をストリーミング、ダウンロード、整理する様子をご紹介します。"
 keywords: ["Evermusic プロモビデオ", "クラウド音楽プレーヤー iPhone", "音楽アプリ ビデオ", "Evermusic アプリデモ", "クラウド音楽 iOS", "Evermusic 機能", "音楽プレーヤー iPad", "クラウドから音楽ストリーミング"]
 tags: ["evermusic", "プロモ", "ビデオ", "ios", "音楽", "クラウド", "プレーヤー", "モバイルアプリ"]
-draft: false
 cascade:
   type: docs
 authors:

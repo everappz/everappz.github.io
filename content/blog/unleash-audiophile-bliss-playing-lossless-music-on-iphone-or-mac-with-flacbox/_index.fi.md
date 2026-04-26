@@ -4,7 +4,6 @@ date: 2025-04-05
 description: "Toista FLAC-, DSD-, ALAC- ja yli 120 äänimuotoa iPhonella ja Macilla Flacboxilla. Tuo pilvestä, Wi-Fin tai USB:n kautta. Sisältää 10-kaistan taajuuskorjaimen ja offline-toiston."
 keywords: ["häviötön musiikkisoitin", "FLAC-soitin iOS", "DSD-soitin iPhone", "hi-res-ääni Mac", "Flacbox-sovellus", "paras FLAC-soitin iPhone", "offline FLAC-soitin", "audiofiili musiikkisoitin iOS", "Mac FLAC-soitin", "hi-res-suoratoisto iOS", "FLAC-toisto iPhonella", "DSD128-soitin", "häviötön äänisovellus"]
 tags: ["flacbox", "musiikki", "ääni", "häviötön", "iphone", "mac", "flac", "dsd", "audiofiili"]
-draft: false
 cascade:
   type: docs
 authors:

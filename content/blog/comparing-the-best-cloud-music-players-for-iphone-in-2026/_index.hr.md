@@ -4,7 +4,6 @@ date: 2026-04-22
 description: "Usporedite 7 top cloud glazbenih playera za iPhone: Apple Music, Spotify, Evermusic i više. Značajke, cijene, offline podrška i kompatibilnost formata."
 keywords: ["cloud glazbeni player iPhone", "najbolje glazbene aplikacije za iPhone", "Evermusic vs Spotify", "offline glazbena aplikacija iOS", "alternativa Apple Musicu", "reprodukcija FLAC-a na iPhoneu", "cloud glazbeni streaming", "audio player iPhone", "glazbeni player za Dropbox", "reprodukcija vlastitih glazbenih datoteka iPhone"]
 tags: ["music", "streaming", "apps", "iOS", "cloud music", "Evermusic", "Spotify", "Apple Music", "YouTube Music", "SoundCloud", "comparison"]
-draft: false
 cascade:
   type: docs
 authors:

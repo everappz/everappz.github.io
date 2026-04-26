@@ -4,7 +4,6 @@ date: 2018-06-19
 description: "Evermusic 3.1 adds crossfade playback, a redesigned music library, cloud backup and restore, iPod integration, and improved tag editing for iOS."
 keywords: ["Evermusic update", "crossfade playback iOS", "cloud music app", "music backup app", "audio player queue", "music tag editor", "ID3 tag update", "iPod library integration", "music player iPhone", "crossfade music iOS", "music library sync cloud", "backup music playlists iOS"]
 tags: ["Evermusic", "crossfade", "music library", "backup", "audio queue", "tags", "cloud player", "offline player", "editor", "iPod library"]
-draft: false
 aliases:
   - /post/evermusic-31-crossfade-playback/
   - /single-post/Evermusic-Sync-your-Music-Library-Save-playback-position-Correct-music-tags/

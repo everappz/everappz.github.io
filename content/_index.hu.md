@@ -1,6 +1,5 @@
 ---
 date: '2025-06-12T17:00:00+00:00'
-draft: false
 title: 'Főoldal'
 layout: hextra-home
 description: "Fedezze fel az Everappz alkalmazásait iPhone-ra és Mac-re: játsszon le FLAC, DSD, APE és ALAC formátumokat, streameljen felhőtárhelyről vagy NAS-ról, töltsön le zenéket és videókat, szerkessze a címkéket, és szabja testre a lejátszást hangszínszabályzóval és lejátszási lista eszközökkel."

@@ -1,6 +1,5 @@
 ---
 date: '2025-06-12T17:00:00+00:00'
-draft: false
 title: 'Tentang Kami'
 description: 'Everappz S.L. ialah syarikat perisian Sepanyol yang membangunkan aplikasi iOS dan macOS untuk audio dan video. Pembuat Evermusic (11J muat turun), Flacbox, EverTag, EverVideo dan Soundy — lebih 14 juta muat turun di seluruh dunia.'
 ---

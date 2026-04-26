@@ -4,7 +4,6 @@ date: 2019-05-19
 description: "Az Evermusic 3.6 CarPlay támogatást, VoiceOver akadálymentességet, vegyes hangkimenetet, borítószerkesztést és iCloud Drive importálást hoz."
 keywords: ["Evermusic CarPlay", "zenelejátszó CarPlay iPhone", "VoiceOver zenei alkalmazás iOS", "FLAC címkeszerkesztő iPhone", "albumborító szerkesztés iOS", "iCloud Drive zene importálás", "hanglejátszó akadálymentesség iOS", "vegyes hangkimenet iPhone"]
 tags: ["Evermusic", "CarPlay", "VoiceOver", "akadálymentesség", "iCloud Drive", "címkeszerkesztő", "borítószerkesztés", "iOS frissítés"]
-draft: false
 cascade:
   type: docs
 authors:

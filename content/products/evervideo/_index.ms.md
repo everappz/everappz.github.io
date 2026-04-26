@@ -1,6 +1,5 @@
 ---
 date: '2025-06-12T17:00:00+00:00'
-draft: false
 title: 'Evervideo - Pemain Video HD untuk iPhone dan Mac'
 layout: hextra-home
 description: "Muat turun pemain video percuma terbaik untuk iPhone dan Mac anda. Tonton video 360°, aktifkan sarikata, laraskan penyama video, susun video anda dengan senarai main, muat turun untuk luar talian, dan strim dari iCloud."

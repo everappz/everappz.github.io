@@ -4,7 +4,6 @@ date: 2019-12-01
 description: "Tonton video promo Evermusic yang menampilkan streaming musik cloud, pemutaran offline, dan fitur equalizer di iPhone dan Mac."
 keywords: ["video promo Evermusic", "pemutar musik iOS", "aplikasi musik cloud iPhone", "demo aplikasi Evermusic", "pemutar musik terbaik iPhone", "pemutar musik offline iOS"]
 tags: ["Evermusic", "promo", "musik", "video", "musik cloud", "aplikasi iOS"]
-draft: false
 sidebar:
   exclude: true
 cascade:

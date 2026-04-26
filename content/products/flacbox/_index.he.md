@@ -1,6 +1,5 @@
 ---
 date: '2025-06-12T17:00:00+00:00'
-draft: false
 title: 'Flacbox - נגן אודיו באיכות גבוהה לאייפון ומק'
 layout: hextra-home
 description: "נגן והורד קבצי FLAC, DSD, APE, ALAC באייפון שלך. האזן למוזיקה שלך ישירות מאחסון הענן או מהמחשב עם אקולייזר."

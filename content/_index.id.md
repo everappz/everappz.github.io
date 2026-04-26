@@ -1,6 +1,5 @@
 ---
 date: '2025-06-12T17:00:00+00:00'
-draft: false
 title: 'Beranda'
 layout: hextra-home
 description: "Jelajahi aplikasi Everappz untuk iPhone dan Mac: putar FLAC, DSD, APE, dan ALAC, streaming dari penyimpanan cloud atau NAS, unduh musik dan video, edit tag, dan sesuaikan pemutaran dengan equalizer dan alat playlist."

@@ -4,7 +4,6 @@ date: 2024-09-17
 description: "Obtenez Evermusic Pro via Setapp Mobile. Diffusez de la musique depuis Google Drive, Dropbox, NAS et plus sur iPhone et iPad avec lecture hors ligne et un égaliseur 10 bandes."
 keywords: ["Setapp Mobile", "Evermusic Pro", "lecteur musique cloud", "streaming musique iPhone", "musique hors ligne iOS", "applications iOS Setapp", "application audiophile iPhone", "égaliseur iOS", "NAS musique iPhone", "lecteur musique stockage cloud", "application musique Setapp", "streaming musique Google Drive iPhone"]
 tags: ["evermusic", "setapp", "cloud", "audio", "mobile", "marketplace", "musique", "applications ios"]
-draft: false
 cascade:
   type: docs
 authors:

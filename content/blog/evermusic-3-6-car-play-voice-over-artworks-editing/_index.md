@@ -4,7 +4,6 @@ date: 2019-05-19
 description: "Evermusic 3.6 adds CarPlay support, VoiceOver accessibility, mixed audio output, artwork editing, and iCloud Drive imports."
 keywords: ["Evermusic CarPlay", "music player CarPlay iPhone", "VoiceOver music app iOS", "FLAC tag editor iPhone", "edit album artwork iOS", "iCloud Drive music import", "audio player accessibility iOS", "mixed audio output iPhone"]
 tags: ["Evermusic", "CarPlay", "VoiceOver", "accessibility", "iCloud Drive", "tag editor", "artwork editing", "iOS update"]
-draft: false
 aliases:
   - /post/evermusic-3-6-car-play-voice-over-artworks-editing/
 cascade:

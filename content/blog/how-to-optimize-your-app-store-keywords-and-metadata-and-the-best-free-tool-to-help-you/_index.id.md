@@ -4,7 +4,6 @@ date: 2025-04-30
 description: "Panduan langkah demi langkah untuk mengoptimasi kata kunci, judul, dan subjudul App Store. Termasuk alat ASO gratis berbasis browser dengan integrasi Fastlane."
 keywords: ["panduan kata kunci app store", "optimasi kata kunci ASO", "optimasi judul app store", "optimasi subjudul app store", "metadata app store", "cara meningkatkan peringkat app store", "optimasi app store", "alat ASO gratis", "alat ASO gratis", "strategi kata kunci app store", "apple app store SEO", "alat metadata fastlane", "riset kata kunci app store gratis"]
 tags: ["Optimasi App Store", "alat ASO gratis", "optimasi judul app store", "alat ASO gratis", "strategi kata kunci app store", "pengoptimal metadata"]
-draft: false
 sidebar:
   exclude: true
 cascade:

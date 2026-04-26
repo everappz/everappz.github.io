@@ -4,7 +4,6 @@ date: 2015-06-20
 description: "कस्टम URL स्कीम और डिस्क कैशिंग के साथ AVAssetResourceLoaderDelegate और AVPlayer का उपयोग करके iOS पर ऑडियो स्ट्रीम और कैश करना सीखें।"
 keywords: ["iOS ऑडियो स्ट्रीमिंग", "AVAssetResourceLoaderDelegate", "AVURLAsset", "AVPlayer ट्यूटोरियल", "AVFoundation ऑडियो", "AVAssetResourceLoadingRequest", "कस्टम ऑडियो प्लेयर iOS", "क्लाउड ऑडियो स्ट्रीमिंग iOS", "ऑडियो कैशिंग iOS", "Swift AVPlayer कस्टम स्कीम"]
 tags: ["streaming", "AVPlayer", "AVFoundation", "iOS", "AVAssetResourceLoader", "tutorial", "Objective-C", "audio caching"]
-draft: false
 cascade:
   type: docs
 authors:

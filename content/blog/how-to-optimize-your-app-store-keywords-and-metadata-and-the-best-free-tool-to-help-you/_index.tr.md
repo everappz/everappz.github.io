@@ -4,7 +4,6 @@ date: 2025-04-30
 description: "App Store anahtar kelimelerini, başlıkları ve alt başlıkları optimize etmek için adım adım rehber. Fastlane entegrasyonlu ücretsiz tarayıcı tabanlı ASO aracı içerir."
 keywords: ["app store anahtar kelime rehberi", "ASO anahtar kelime optimizasyonu", "app store başlık optimizasyonu", "app store alt başlık optimizasyonu", "app store metadata", "app store sıralamasını iyileştirme", "app store optimizasyonu", "ücretsiz ASO aracı", "app store anahtar kelime stratejisi", "apple app store SEO", "fastlane metadata aracı", "ücretsiz app store anahtar kelime araştırması"]
 tags: ["App Store Optimizasyonu", "ücretsiz ASO araçları", "app store başlık optimizasyonu", "ücretsiz ASO aracı", "app store anahtar kelime stratejisi", "metadata optimizer"]
-draft: false
 sidebar:
   exclude: true
 cascade:

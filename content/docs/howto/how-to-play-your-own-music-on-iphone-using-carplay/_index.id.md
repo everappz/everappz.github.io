@@ -5,7 +5,6 @@ description: "Pelajari cara memutar musik lokal atau offline Anda sendiri di iPh
 keywords: ["musik carplay", "putar musik sendiri di iPhone", "musik lokal iPhone", "musik offline carplay", "evermusic", "flacbox", "pemutar mp3 iPhone"]
 tags: ["carplay", "iPhone", "musik lokal", "pemutaran offline", "evermusic", "flacbox"]
 readingTime: 5
-draft: false
 ---
 
 {{< author-byline >}}

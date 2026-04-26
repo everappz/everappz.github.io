@@ -4,7 +4,6 @@ date: 2023-09-06
 description: "Evermusic alcanza los 11 millones de descargas. Descubre las funciones que lo convirtieron en un reproductor de música en la nube de primer nivel: ecualizador, modo sin conexión, iCloud y más."
 keywords: ["Evermusic 11 millones de descargas", "mejor reproductor de música en la nube iOS", "reproductor de música sin conexión iPhone", "transmisión de música iCloud Drive", "app ecualizador de 10 bandas", "editor de etiquetas ID3 iOS", "sincronización reproductor de música Mac iPhone", "reproductor FLAC iPhone"]
 tags: ["Evermusic", "hito", "música en la nube", "reproducción sin conexión", "iCloud Drive", "ecualizador", "reproductor de música iOS"]
-draft: false
 cascade:
   type: docs
 authors:

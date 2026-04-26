@@ -4,7 +4,6 @@ date: 2016-05-26
 description: "Evermusic 2.3에 자동 클라우드 음악 동기화, 오디오북 재생 위치 저장, 백그라운드 메타데이터 읽기, ID3 태그 수정 기능이 추가되었습니다."
 keywords: ["Evermusic", "클라우드 음악 플레이어", "iOS 음악 동기화", "재생 위치 저장", "오디오북 재생", "메타데이터 리더", "ID3 태그 수정", "클라우드에서 음악 스트리밍", "Dropbox 음악 앱", "Google Drive 플레이어", "자동 음악 라이브러리 동기화", "iOS 오디오북 위치 저장"]
 tags: ["evermusic", "음악", "재생", "관리자", "편집기", "동기화", "위치", "id3태그", "클라우드", "새로운 기능"]
-draft: false
 cascade:
   type: docs
 authors:

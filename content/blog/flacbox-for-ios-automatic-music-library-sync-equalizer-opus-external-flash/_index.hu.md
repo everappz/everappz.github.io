@@ -4,7 +4,6 @@ date: 2017-01-25
 description: "A Flacbox 1.6 iOS-re automatikus felhőszinkronizálást, 10 sávos hangszínszabályzót, OPUS formátum támogatást és külső flash meghajtóról történő lejátszást hoz iPhone-ra és iPadre."
 keywords: ["Flacbox frissítés", "FLAC lejátszó iOS", "10 sávos hangszínszabályzó iPhone", "automatikus zeneszinkronizálás", "OPUS lejátszás iPhone-on", "külső flash meghajtó zene", "FLAC streaming iOS", "hi-res zenei alkalmazás iPhone", "Flacbox hangszínszabályzó", "SD kártya zenelejátszó iOS"]
 tags: ["Flacbox", "hangszínszabályzó", "zenei könyvtár", "OPUS", "FLAC", "külső tárhely", "szinkronizálás", "audio lejátszó", "iOS alkalmazások", "frissítés"]
-draft: false
 cascade:
   type: docs
 authors:

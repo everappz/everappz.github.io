@@ -4,7 +4,6 @@ date: 2025-04-30
 description: "App Storeのキーワード、タイトル、サブタイトルを最適化するステップバイステップガイド。Fastlane連携機能付きの無料ブラウザベースASOツールを紹介。"
 keywords: ["app storeキーワードガイド", "ASOキーワード最適化", "app storeタイトル最適化", "app storeサブタイトル最適化", "app storeメタデータ", "app storeランキング向上方法", "app store最適化", "無料ASOツール", "ASOツール無料", "app storeキーワード戦略", "apple app store SEO", "fastlaneメタデータツール", "app storeキーワードリサーチ無料"]
 tags: ["App Store最適化", "無料ASOツール", "app storeタイトル最適化", "無料ASOツール", "app storeキーワード戦略", "メタデータオプティマイザー"]
-draft: false
 sidebar:
   exclude: true
 cascade:

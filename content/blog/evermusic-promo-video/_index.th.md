@@ -4,7 +4,6 @@ date: 2019-07-02
 description: "ชมวิดีโอโปรโมทอย่างเป็นทางการของ Evermusic ดูวิธีที่ Evermusic สตรีม ดาวน์โหลด และจัดระเบียบเพลงจากคลาวด์สตอเรจบน iPhone และ iPad"
 keywords: ["วิดีโอโปรโมท Evermusic", "เครื่องเล่นเพลงคลาวด์ iPhone", "วิดีโอแอปเพลง", "สาธิตแอป Evermusic", "เพลงคลาวด์ iOS", "ฟีเจอร์ Evermusic", "เครื่องเล่นเพลง iPad", "สตรีมเพลงจากคลาวด์"]
 tags: ["evermusic", "โปรโมท", "วิดีโอ", "ios", "เพลง", "คลาวด์", "เครื่องเล่น", "แอปมือถือ"]
-draft: false
 cascade:
   type: docs
 authors:

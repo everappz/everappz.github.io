@@ -5,7 +5,6 @@ description: "Scopri come riprodurre in streaming e scaricare musica da WD My Cl
 keywords: ["evermusic", "wd my cloud", "streaming musicale", "iphone", "archiviazione NAS", "musica offline", "equalizzatore personalizzato", "my cloud home", "libreria musicale 8TB", "WD MyCloud EX2 Ultra", "MyCloud Mirror"]
 tags: ["evermusic", "musica", "cloud", "iphone", "archiviazione", "nas", "ascoltare", "remoto", "casa", "online", "wd", "mycloud"]
 readingTime: 4
-draft: false
 ---
 
 {{< author-byline >}}

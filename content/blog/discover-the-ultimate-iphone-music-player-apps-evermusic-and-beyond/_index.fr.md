@@ -4,7 +4,6 @@ date: 2020-05-05
 description: "Comparez les meilleures applications de lecteur de musique pour iPhone : Evermusic, Apple Music, Spotify, VLC et Amazon Music. Fonctionnalités, prix et mode hors ligne."
 keywords: ["meilleur lecteur de musique iPhone", "application lecteur de musique iOS", "Evermusic vs Spotify", "lecteur de musique cloud iPhone", "application musique hors ligne iPhone", "lecteur FLAC iOS", "alternatives à Apple Music", "VLC iPhone", "lecteur de musique gratuit iOS"]
 tags: ["applications de musique", "iOS", "Evermusic", "Apple Music", "Spotify", "VLC", "Amazon Music", "comparaison", "musique cloud", "lecture hors ligne"]
-draft: false
 cascade:
   type: docs
 authors:

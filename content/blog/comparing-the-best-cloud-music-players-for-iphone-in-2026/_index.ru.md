@@ -4,7 +4,6 @@ date: 2026-04-22
 description: "Сравните 7 лучших облачных музыкальных плееров для iPhone: Apple Music, Spotify, Evermusic и другие. Функции, цены, поддержка офлайн и совместимость форматов."
 keywords: ["облачный музыкальный плеер iPhone", "лучшие музыкальные приложения для iPhone", "Evermusic vs Spotify", "офлайн музыкальное приложение iOS", "альтернатива Apple Music", "воспроизведение FLAC на iPhone", "облачная музыка стриминг", "аудиоплеер iPhone", "музыкальный плеер для Dropbox", "воспроизведение собственных музыкальных файлов iPhone"]
 tags: ["music", "streaming", "apps", "iOS", "cloud music", "Evermusic", "Spotify", "Apple Music", "YouTube Music", "SoundCloud", "comparison"]
-draft: false
 cascade:
   type: docs
 authors:

@@ -4,7 +4,6 @@ date: 2017-11-08
 description: "Evermusic har nådd 3 millioner nedlastinger. Utforsk skymusikkstrømming, avspilling uten nett, 10-bånds EQ, lydbokstøtte, filbehandler og ID3-tag-editor."
 keywords: ["Evermusic nedlastinger", "iOS musikkspiller", "skymusikkapp", "musikkspiller uten nett iPhone", "musikknedlaster iOS", "lydbokspiller iPhone", "ID3 tag-editor iOS", "iPhone filbehandler", "musikk equalizer-app", "beste skymusikkspiller", "strøm musikk fra NAS iPhone"]
 tags: ["Evermusic", "nedlastinger", "milepæl", "musikkapper", "skyspiller", "offline-spiller", "tag-editor", "equalizer", "lydbøker", "filbehandler"]
-draft: false
 cascade:
   type: docs
 authors:

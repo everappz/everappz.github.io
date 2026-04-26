@@ -4,7 +4,6 @@ date: 2023-09-06
 description: "Evermusic 11 milyon indirmeye ulaştı. Onu en iyi bulut müzik çalar yapan özellikleri görün: ekolayzır, çevrimdışı mod, iCloud ve daha fazlası."
 keywords: ["Evermusic 11 milyon indirme", "en iyi bulut müzik çalar iOS", "çevrimdışı müzik çalar iPhone", "iCloud Drive müzik akışı", "10 bantlı ekolayzır uygulaması", "ID3 etiket düzenleyici iOS", "müzik çalar Mac iPhone senkronizasyonu", "FLAC çalar iPhone"]
 tags: ["Evermusic", "dönüm noktası", "bulut müzik", "çevrimdışı oynatma", "iCloud Drive", "ekolayzır", "iOS müzik çalar"]
-draft: false
 cascade:
   type: docs
 authors:

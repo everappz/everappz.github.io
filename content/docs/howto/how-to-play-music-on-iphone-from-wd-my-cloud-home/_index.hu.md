@@ -5,7 +5,6 @@ description: "Ismerd meg, hogyan streamelhetsz és tölthetsz le zenét a WD My 
 keywords: ["evermusic", "wd my cloud", "zene streamelés", "iphone", "NAS tárhely", "offline zene", "egyéni hangszínszabályzó", "my cloud home", "8TB zenei könyvtár", "WD MyCloud EX2 Ultra", "MyCloud Mirror"]
 tags: ["evermusic", "zene", "felhő", "iphone", "tárhely", "nas", "hallgatás", "távoli", "otthon", "online", "wd", "mycloud"]
 readingTime: 4
-draft: false
 ---
 
 {{< author-byline >}}

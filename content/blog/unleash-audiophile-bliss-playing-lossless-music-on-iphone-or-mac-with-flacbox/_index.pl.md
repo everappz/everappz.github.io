@@ -4,7 +4,6 @@ date: 2025-04-05
 description: "Odtwarzaj FLAC, DSD, ALAC i ponad 120 formatów audio na iPhone i Mac z Flacbox. Importuj przez chmurę, Wi-Fi lub USB. Zawiera 10-pasmowy EQ i odtwarzanie offline."
 keywords: ["odtwarzacz muzyki bezstratnej", "odtwarzacz FLAC iOS", "odtwarzacz DSD iPhone", "hi-res audio Mac", "aplikacja Flacbox", "najlepszy odtwarzacz FLAC iPhone", "odtwarzacz FLAC offline", "odtwarzacz muzyki audiofilski iOS", "odtwarzacz FLAC Mac", "strumieniowanie hi-res iOS", "odtwarzanie FLAC na iPhone", "odtwarzacz DSD128", "aplikacja audio bezstratna"]
 tags: ["flacbox", "muzyka", "audio", "bezstratny", "iphone", "mac", "flac", "dsd", "audiofil"]
-draft: false
 cascade:
   type: docs
 authors:

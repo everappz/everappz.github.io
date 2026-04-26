@@ -4,7 +4,6 @@ date: 2024-09-17
 description: "Få Evermusic Pro gjennom Setapp Mobile. Strøm musikk fra Google Drive, Dropbox, NAS og mer på iPhone og iPad med frakoblet avspilling og 10-bånds EQ."
 keywords: ["Setapp Mobile", "Evermusic Pro", "skymusikkspiller", "musikkstrømming iPhone", "frakoblet musikk iOS", "Setapp iOS-apper", "audiofil app iPhone", "equalizer iOS-app", "NAS musikk iPhone", "skylagring musikkspiller", "Setapp musikkapp", "strøm musikk fra Google Drive iPhone"]
 tags: ["evermusic", "setapp", "sky", "lyd", "mobil", "markedsplass", "musikk", "ios-apper"]
-draft: false
 cascade:
   type: docs
 authors:

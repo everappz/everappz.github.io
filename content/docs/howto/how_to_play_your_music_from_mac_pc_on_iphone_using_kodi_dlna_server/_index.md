@@ -5,7 +5,6 @@ description: "Stream music from your computer or NAS to your iPhone over Wi-Fi u
 keywords: ["kodi dlna server", "stream music to iphone", "play music from nas", "evermusic dlna", "mac to iphone music", "windows to iphone music", "kodi dlna iphone", "dlna audio streaming"]
 tags: ["dlna", "kodi", "evermusic", "iphone", "music streaming", "mac", "nas", "linux", "local network"]
 readingTime: 5
-draft: false
 ---
 
 {{< author-byline >}}

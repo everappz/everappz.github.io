@@ -4,7 +4,6 @@ date: 2020-05-05
 description: "Vergleichen Sie die besten iPhone-Musikplayer-Apps: Evermusic, Apple Music, Spotify, VLC und Amazon Music. Funktionen, Preise und Offline-Unterstützung."
 keywords: ["bester iPhone Musikplayer", "Musikplayer App iOS", "Evermusic vs Spotify", "Cloud Musikplayer iPhone", "Offline Musik App iPhone", "FLAC Player iOS", "Apple Music Alternativen", "VLC iPhone", "kostenloser Musikplayer iOS"]
 tags: ["Musik-Apps", "iOS", "Evermusic", "Apple Music", "Spotify", "VLC", "Amazon Music", "Vergleich", "Cloud-Musik", "Offline-Wiedergabe"]
-draft: false
 cascade:
   type: docs
 authors:

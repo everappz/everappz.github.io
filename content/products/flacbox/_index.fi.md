@@ -1,6 +1,5 @@
 ---
 date: '2025-06-12T17:00:00+00:00'
-draft: false
 title: 'Flacbox - Hi-Res-äänisoitin iPhonelle ja Macille'
 layout: hextra-home
 description: "Toista ja lataa FLAC-, DSD-, APE- ja ALAC-tiedostoja iPhonellasi. Kuuntele musiikkiasi suoraan pilvipalvelusta tai tietokoneelta taajuuskorjaimen kanssa."

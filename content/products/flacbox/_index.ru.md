@@ -1,6 +1,5 @@
 ---
 date: '2025-06-12T17:00:00+00:00'
-draft: false
 title: 'Flacbox - Hi-Res аудиоплеер для iPhone и Mac'
 layout: hextra-home
 description: "Воспроизводите и скачивайте файлы FLAC, DSD, APE, ALAC на вашем iPhone. Слушайте музыку прямо из облачного хранилища или компьютера с эквалайзером."

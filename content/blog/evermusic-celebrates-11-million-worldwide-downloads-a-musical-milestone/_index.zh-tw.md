@@ -4,7 +4,6 @@ date: 2023-09-06
 description: "Evermusic 達到 1100 萬次下載。了解使其成為頂級雲端音樂播放器的功能：等化器、離線模式、iCloud 等。"
 keywords: ["Evermusic 1100 萬下載", "最佳雲端音樂播放器 iOS", "離線音樂播放器 iPhone", "iCloud Drive 音樂串流", "10 段等化器應用程式", "ID3 標籤編輯器 iOS", "音樂播放器 Mac iPhone 同步", "FLAC 播放器 iPhone"]
 tags: ["Evermusic", "里程碑", "雲端音樂", "離線播放", "iCloud Drive", "等化器", "iOS 音樂播放器"]
-draft: false
 cascade:
   type: docs
 authors:

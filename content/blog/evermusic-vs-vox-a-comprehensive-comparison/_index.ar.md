@@ -4,7 +4,6 @@ date: 2020-03-04
 description: "مقارنة Evermusic مع VOX عبر 8 فئات: التخزين السحابي، الكتب الصوتية، تحرير العلامات، نقل Wi-Fi، والمزيد. اكتشف أي مشغل موسيقى iOS يفوز."
 keywords: ["Evermusic مقابل VOX", "بديل VOX لـ iOS", "أفضل مشغل موسيقى iPhone", "مقارنة مشغلات الموسيقى السحابية", "مشغل الكتب الصوتية iOS", "محرر علامات ID3 iPhone", "تطبيق موسيقى Wi-Fi Drive", "مشغل FLAC iPhone", "مشغل موسيقى للتخزين السحابي", "بديل VOX Cloud"]
 tags: ["مقارنة", "evermusic", "vox", "سحابي", "كتب صوتية", "علامات", "بث", "تطبيقات", "مشغل موسيقى", "ios"]
-draft: false
 sidebar:
   exclude: true
 cascade:

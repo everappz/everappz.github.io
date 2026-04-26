@@ -5,7 +5,6 @@ description: "Evermusic uygulamasını kullanarak WD My Cloud Home'dan iPhone'un
 keywords: ["evermusic", "wd my cloud", "müzik akışı", "iphone", "NAS depolama", "çevrimdışı müzik", "özel ekolayzır", "my cloud home", "8TB müzik kitaplığı", "WD MyCloud EX2 Ultra", "MyCloud Mirror"]
 tags: ["evermusic", "müzik", "bulut", "iphone", "depolama", "nas", "dinleme", "uzak", "ev", "çevrimiçi", "wd", "mycloud"]
 readingTime: 4
-draft: false
 ---
 
 {{< author-byline >}}

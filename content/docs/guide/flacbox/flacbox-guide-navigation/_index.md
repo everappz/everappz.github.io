@@ -1,7 +1,6 @@
 ---
 title: "Navigation"
 date: 2020-02-01
-draft: false
 aliases:
   - /post/flacbox-guide-navigation/
   - /guide-flacbox-navigation/

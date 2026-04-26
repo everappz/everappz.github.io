@@ -4,7 +4,6 @@ date: 2024-09-17
 description: "通过 Setapp Mobile 获取 Evermusic Pro。在 iPhone 和 iPad 上从 Google Drive、Dropbox、NAS 等流式播放音乐，支持离线播放和 10 段 EQ。"
 keywords: ["Setapp Mobile", "Evermusic Pro", "云音乐播放器", "音乐流式播放 iPhone", "离线音乐 iOS", "Setapp iOS 应用", "发烧友应用 iPhone", "均衡器 iOS 应用", "NAS 音乐 iPhone", "云存储音乐播放器", "Setapp 音乐应用", "从 Google Drive 流式播放音乐 iPhone"]
 tags: ["evermusic", "setapp", "云", "音频", "移动", "市场", "音乐", "ios 应用"]
-draft: false
 cascade:
   type: docs
 authors:

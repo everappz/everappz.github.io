@@ -4,7 +4,6 @@ date: 2024-09-17
 description: "Setapp MobileでEvermusic Proを入手。Google Drive、Dropbox、NASなどからiPhoneとiPadでオフライン再生と10バンドEQ付きで音楽をストリーミング。"
 keywords: ["Setapp Mobile", "Evermusic Pro", "クラウド音楽プレーヤー", "音楽ストリーミングiPhone", "オフライン音楽iOS", "Setapp iOSアプリ", "オーディオファイルアプリiPhone", "イコライザーiOS", "NAS音楽iPhone", "クラウドストレージ音楽プレーヤー", "Setapp音楽アプリ", "Google Driveから音楽ストリーミングiPhone"]
 tags: ["evermusic", "setapp", "クラウド", "オーディオ", "モバイル", "マーケットプレイス", "音楽", "iOSアプリ"]
-draft: false
 cascade:
   type: docs
 authors:

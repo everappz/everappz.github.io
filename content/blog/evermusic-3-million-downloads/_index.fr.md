@@ -4,7 +4,6 @@ date: 2017-11-08
 description: "Evermusic a atteint 3 millions de téléchargements. Découvrez le streaming musical cloud, la lecture hors ligne, l'égaliseur 10 bandes, le support des livres audio, le gestionnaire de fichiers et l'éditeur de tags ID3."
 keywords: ["téléchargements Evermusic", "lecteur musique iOS", "application musique cloud", "lecteur musique hors ligne iPhone", "téléchargeur musique iOS", "lecteur livres audio iPhone", "éditeur tags ID3 iOS", "gestionnaire fichiers iPhone", "application égaliseur musique", "meilleur lecteur musique cloud", "streamer musique depuis NAS iPhone"]
 tags: ["Evermusic", "téléchargements", "jalon", "applications musicales", "lecteur cloud", "lecteur hors ligne", "éditeur de tags", "égaliseur", "livres audio", "gestionnaire de fichiers"]
-draft: false
 cascade:
   type: docs
 authors:

@@ -4,7 +4,6 @@ date: 2019-12-01
 description: "Mira el vídeo promocional de Evermusic que muestra la transmisión de música en la nube, reproducción sin conexión y funciones de ecualizador en iPhone y Mac."
 keywords: ["vídeo promocional Evermusic", "reproductor de música iOS", "app de música en la nube iPhone", "demostración app Evermusic", "mejor reproductor de música iPhone", "reproductor de música sin conexión iOS"]
 tags: ["Evermusic", "promoción", "música", "vídeo", "música en la nube", "app iOS"]
-draft: false
 sidebar:
   exclude: true
 cascade:

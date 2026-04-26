@@ -1,6 +1,5 @@
 ---
 date: '2025-06-12T17:00:00+00:00'
-draft: false
 title: 'Panduan Pengguna'
 description: 'Ketahui cara menggunakan aplikasi Everappz seperti Evermusic, Flacbox, Evervideo, dan Evertag. Sediakan sambungan awan, urus muzik dan video anda, sesuaikan main balik, dan terokai semua ciri dalam satu tempat.'
 keywords: [

@@ -1,5 +1,4 @@
 ---
-draft: false
 title: 'Đăng ký'
 sitemap:
   disable: true

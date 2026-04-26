@@ -1,6 +1,5 @@
 ---
 date: '2025-06-12T17:00:00+00:00'
-draft: false
 title: 'Evermusic - Trình phát nhạc ngoại tuyến cho iPhone và Mac'
 layout: hextra-home
 description: "Tải xuống trình phát nhạc ngoại tuyến miễn phí tốt nhất cho iPhone và Mac của bạn và nghe nhạc mọi nơi."

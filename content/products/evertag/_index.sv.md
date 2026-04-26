@@ -1,6 +1,5 @@
 ---
 date: '2025-06-12T17:00:00+00:00'
-draft: false
 title: 'Evertag - Musiktaggredigerare för iPhone och Mac'
 layout: hextra-home
 description: "Håll ditt musikbibliotek organiserat. Hitta saknade taggar. Batchredigering. Ändra albumomslag och mycket mer."

@@ -1,6 +1,5 @@
 ---
 date: '2025-06-12T17:00:00+00:00'
-draft: false
 title: 'Evervideo - Reprodutor de Vídeo HD para iPhone e Mac'
 layout: hextra-home
 description: "Baixe o melhor reprodutor de vídeo gratuito para seu iPhone e Mac. Assista vídeos 360°, ative legendas, ajuste o equalizador de vídeo, organize seus vídeos com playlists, baixe para offline e transmita do iCloud."

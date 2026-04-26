@@ -11,7 +11,6 @@ keywords: [
 ]
 tags: ["evermusic", "guide", "settings"]
 readingTime: 14
-draft: false
 aliases:
   - /post/evermusic-guide-settings/
   - /guide-evermusic-settings/

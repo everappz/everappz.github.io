@@ -9,7 +9,6 @@ keywords: [
 ]
 tags: ["evermusic", "guide", "music", "library"]
 readingTime: 11
-draft: false
 aliases:
   - /post/evermusic-guide-music-library/
   - /guide-evermusic-music-library/

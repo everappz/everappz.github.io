@@ -4,7 +4,6 @@ date: 2020-03-04
 description: "Evermusic vs VOX comparate în 8 categorii: stocare cloud, cărți audio, editare etichete, transfer Wi-Fi și altele. Vezi care player de muzică iOS câștigă."
 keywords: ["Evermusic vs VOX", "alternativă VOX iOS", "cel mai bun player muzică iPhone", "comparație player muzică cloud", "player cărți audio iOS", "editor etichete ID3 iPhone", "aplicație muzică Wi-Fi drive", "player FLAC iPhone", "player muzică pentru stocare cloud", "alternativă VOX Cloud"]
 tags: ["comparație", "evermusic", "vox", "cloud", "cărți audio", "etichete", "streaming", "aplicații", "player muzică", "ios"]
-draft: false
 sidebar:
   exclude: true
 cascade:

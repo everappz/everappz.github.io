@@ -1,6 +1,5 @@
 ---
 date: '2025-06-12T17:00:00+00:00'
-draft: false
 title: 'User Guide'
 description: 'Learn how to use Everappz apps like Evermusic, Flacbox, Evervideo, and Evertag. Set up cloud connections, manage your music and videos, customize playback, and explore all features in one place.'
 keywords: [

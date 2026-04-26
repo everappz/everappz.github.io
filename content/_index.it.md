@@ -1,6 +1,5 @@
 ---
 date: '2025-06-12T17:00:00+00:00'
-draft: false
 title: 'Home'
 layout: hextra-home
 description: "Esplora le app Everappz per iPhone e Mac: riproduci FLAC, DSD, APE e ALAC, effettua lo streaming da cloud storage o NAS, scarica musica e video, modifica i tag e personalizza la riproduzione con equalizzatore e strumenti per playlist."

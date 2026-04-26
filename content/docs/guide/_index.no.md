@@ -1,6 +1,5 @@
 ---
 date: '2025-06-12T17:00:00+00:00'
-draft: false
 title: 'Brukerveiledning'
 description: 'Lær å bruke Everappz-apper som Evermusic, Flacbox, Evervideo og Evertag. Sett opp skytilkoblinger, administrer musikk og videoer, tilpass avspilling og utforsk alle funksjoner på ett sted.'
 keywords: [

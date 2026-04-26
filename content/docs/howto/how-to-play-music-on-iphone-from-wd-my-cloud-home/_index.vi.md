@@ -5,7 +5,6 @@ description: "Tìm hiểu cách phát trực tuyến và tải nhạc từ WD My
 keywords: ["evermusic", "wd my cloud", "phát nhạc trực tuyến", "iphone", "lưu trữ NAS", "nhạc ngoại tuyến", "bộ cân bằng tùy chỉnh", "my cloud home", "thư viện nhạc 8TB", "WD MyCloud EX2 Ultra", "MyCloud Mirror"]
 tags: ["evermusic", "nhạc", "đám mây", "iphone", "lưu trữ", "nas", "nghe", "từ xa", "nhà", "trực tuyến", "wd", "mycloud"]
 readingTime: 4
-draft: false
 ---
 
 {{< author-byline >}}

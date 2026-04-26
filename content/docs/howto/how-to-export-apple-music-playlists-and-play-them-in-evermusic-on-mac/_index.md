@@ -27,7 +27,6 @@ tags: [
   "playlist",
 ]
 readingTime: 5
-draft: false
 ---
 
 {{< author-byline >}}

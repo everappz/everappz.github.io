@@ -4,7 +4,6 @@ date: 2025-01-05
 description: "Evermusic se connecte à plus de 12 services cloud, lit FLAC et MP3 hors ligne et gère votre bibliothèque musicale. Découvrez pourquoi c'est le meilleur lecteur de musique cloud pour iOS."
 keywords: ["meilleur lecteur musique cloud iOS", "lecteur musique cloud iPhone", "lire musique depuis Dropbox", "lecteur musique hors ligne iPhone", "lecteur FLAC iOS", "avis Evermusic", "gestionnaire bibliothèque musicale iOS", "lecteur musique Google Drive", "lecteur musique NAS iPhone", "lecteur musique WebDAV"]
 tags: ["Evermusic", "cloud music", "offline playback", "iOS music apps", "MP3 player", "audio", "music streaming", "guide", "FLAC", "review"]
-draft: false
 cascade:
   type: docs
 authors:

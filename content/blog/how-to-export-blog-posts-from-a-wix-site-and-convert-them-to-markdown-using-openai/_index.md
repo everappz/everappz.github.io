@@ -4,7 +4,6 @@ date: 2025-06-24
 description: "Automate Wix blog export using Python, Selenium, and OpenAI. Extract dynamic content, download images, and convert HTML to clean Markdown for Hugo or Jekyll."
 keywords: ["Wix blog export", "convert HTML to markdown", "OpenAI markdown conversion", "wix to markdown", "seo blog migration", "wix to hugo migration", "beautifulsoup scraper", "selenium render HTML", "OpenAI API automation", "migrate wix to static site", "wix blog scraper python"]
 tags: ["wix", "markdown", "blog migration", "openai", "scraping", "beautifulsoup", "selenium", "automation", "SEO", "tutorial"]
-draft: false
 cascade:
   type: docs
 authors:

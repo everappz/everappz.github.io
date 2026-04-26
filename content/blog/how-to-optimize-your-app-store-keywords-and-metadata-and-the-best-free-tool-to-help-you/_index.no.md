@@ -4,7 +4,6 @@ date: 2025-04-30
 description: "Trinn-for-trinn guide for å optimalisere App Store søkeord, titler og undertekster. Inkluderer et gratis nettleserbasert ASO-verktøy med Fastlane-integrering."
 keywords: ["app store søkeord guide", "ASO søkeordoptimalisering", "app store titteloptimalisering", "app store undertekstoptimalisering", "app store metadata", "hvordan forbedre app store rangering", "app store optimalisering", "gratis ASO verktøy", "gratis ASO verktøy", "app store søkeordstrategi", "apple app store SEO", "fastlane metadata verktøy", "gratis app store søkeordundersøkelse"]
 tags: ["App Store Optimalisering", "gratis ASO verktøy", "app store titteloptimalisering", "gratis ASO verktøy", "app store søkeordstrategi", "metadata optimaliserer"]
-draft: false
 sidebar:
   exclude: true
 cascade:

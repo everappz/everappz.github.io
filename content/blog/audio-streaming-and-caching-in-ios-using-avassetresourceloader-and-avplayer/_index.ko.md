@@ -4,7 +4,6 @@ date: 2015-06-20
 description: "AVAssetResourceLoaderDelegate와 AVPlayer를 사용하여 커스텀 URL 스킴과 디스크 캐싱으로 iOS에서 오디오를 스트리밍하고 캐싱하는 방법을 알아보세요."
 keywords: ["iOS 오디오 스트리밍", "AVAssetResourceLoaderDelegate", "AVURLAsset", "AVPlayer 튜토리얼", "AVFoundation 오디오", "AVAssetResourceLoadingRequest", "커스텀 오디오 플레이어 iOS", "클라우드 오디오 스트리밍 iOS", "오디오 캐싱 iOS", "Swift AVPlayer 커스텀 스킴"]
 tags: ["streaming", "AVPlayer", "AVFoundation", "iOS", "AVAssetResourceLoader", "tutorial", "Objective-C", "audio caching"]
-draft: false
 cascade:
   type: docs
 authors:

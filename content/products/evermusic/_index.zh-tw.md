@@ -1,6 +1,5 @@
 ---
 date: '2025-06-12T17:00:00+00:00'
-draft: false
 title: 'Evermusic - 適用於 iPhone 和 Mac 的離線音樂播放器'
 layout: hextra-home
 description: "下載適用於 iPhone 和 Mac 的最佳免費離線音樂播放器，隨時隨地聆聽您的音樂。"

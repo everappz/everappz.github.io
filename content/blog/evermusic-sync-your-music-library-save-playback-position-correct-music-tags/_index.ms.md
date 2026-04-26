@@ -4,7 +4,6 @@ date: 2016-05-26
 description: "Evermusic 2.3 menambah penyegerakan muzik awan automatik, penyimpanan posisi main balik untuk buku audio, pembacaan metadata latar belakang, dan pembetulan tag ID3."
 keywords: ["Evermusic", "pemain muzik awan", "segerak muzik iOS", "simpan posisi main balik", "main balik buku audio", "pembaca metadata", "betulkan tag ID3", "strim muzik dari awan", "aplikasi muzik untuk Dropbox", "pemain Google Drive", "segerak pustaka muzik automatik", "simpan posisi buku audio iOS"]
 tags: ["evermusic", "muzik", "main balik", "pengurus", "penyunting", "segerak", "posisi", "tagid3", "awan", "apa yang baharu"]
-draft: false
 cascade:
   type: docs
 authors:

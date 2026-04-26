@@ -1,6 +1,5 @@
 ---
 date: '2025-06-12T17:00:00+00:00'
-draft: false
 title: 'Användarhandbok'
 description: 'Lär dig använda Everappz-appar som Evermusic, Flacbox, Evervideo och Evertag. Ställ in molnanslutningar, hantera din musik och dina videor, anpassa uppspelning och utforska alla funktioner på ett ställe.'
 keywords: [

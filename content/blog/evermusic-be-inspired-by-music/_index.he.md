@@ -4,7 +4,6 @@ date: 2019-12-01
 description: "צפו בסרטון הפרסומי של Evermusic המציג הזרמת מוזיקה מהענן, השמעה לא מקוונת ותכונות אקולייזר באייפון ו-Mac."
 keywords: ["סרטון פרסומי Evermusic", "נגן מוזיקה iOS", "אפליקציית מוזיקה בענן iPhone", "הדגמת אפליקציית Evermusic", "נגן מוזיקה הטוב ביותר iPhone", "נגן מוזיקה לא מקוון iOS"]
 tags: ["Evermusic", "פרסום", "מוזיקה", "סרטון", "מוזיקה בענן", "אפליקציית iOS"]
-draft: false
 sidebar:
   exclude: true
 cascade:

@@ -1,6 +1,5 @@
 ---
 date: '2025-06-12T17:00:00+00:00'
-draft: false
 title: 'Foire aux questions'
 description: 'Trouvez des réponses aux questions fréquentes sur Evermusic, Flacbox, Evervideo et Evertag. Explorez des fonctionnalités telles que le streaming cloud, la gestion de fichiers, les options de lecture, l''édition de métadonnées et plus encore.'
 keywords: [

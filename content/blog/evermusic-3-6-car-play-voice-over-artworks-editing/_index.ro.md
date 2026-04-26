@@ -4,7 +4,6 @@ date: 2019-05-19
 description: "Evermusic 3.6 adaugă suport CarPlay, accesibilitate VoiceOver, ieșire audio mixtă, editarea copertelor și importul din iCloud Drive."
 keywords: ["Evermusic CarPlay", "player muzică CarPlay iPhone", "VoiceOver aplicație muzică iOS", "editor taguri FLAC iPhone", "editare copertă album iOS", "import muzică iCloud Drive", "player audio accesibilitate iOS", "ieșire audio mixtă iPhone"]
 tags: ["Evermusic", "CarPlay", "VoiceOver", "accesibilitate", "iCloud Drive", "editor taguri", "editare coperte", "actualizare iOS"]
-draft: false
 cascade:
   type: docs
 authors:

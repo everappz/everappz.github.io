@@ -1,6 +1,5 @@
 ---
 date: '2025-06-12T17:00:00+00:00'
-draft: false
 title: 'Startpagina'
 layout: hextra-home
 description: "Ontdek Everappz-apps voor iPhone en Mac: speel FLAC, DSD, APE en ALAC af, stream vanaf cloudopslag of NAS, download muziek en video's, bewerk tags en pas het afspelen aan met equalizer- en afspeellijsttools."

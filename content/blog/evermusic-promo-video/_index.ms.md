@@ -4,7 +4,6 @@ date: 2019-07-02
 description: "Tonton video promosi rasmi Evermusic. Lihat bagaimana Evermusic menstrim, memuat turun dan menyusun muzik anda dari storan awan di iPhone dan iPad."
 keywords: ["Video promosi Evermusic", "pemain muzik awan iPhone", "video aplikasi muzik", "demo aplikasi Evermusic", "muzik awan iOS", "ciri Evermusic", "pemain muzik iPad", "strim muzik dari awan"]
 tags: ["evermusic", "promosi", "video", "ios", "muzik", "awan", "pemain", "aplikasi mudah alih"]
-draft: false
 cascade:
   type: docs
 authors:

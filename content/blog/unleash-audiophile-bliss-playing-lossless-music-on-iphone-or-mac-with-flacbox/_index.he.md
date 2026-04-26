@@ -4,7 +4,6 @@ date: 2025-04-05
 description: "נגנו FLAC, DSD, ALAC ו-120+ פורמטי אודיו ב-iPhone ו-Mac עם Flacbox. ייבוא דרך ענן, Wi-Fi או USB. כולל אקולייזר 10 פסים והשמעה לא מקוונת."
 keywords: ["נגן מוזיקה lossless", "נגן FLAC iOS", "נגן DSD iPhone", "אודיו hi-res Mac", "אפליקציית Flacbox", "נגן FLAC הכי טוב iPhone", "נגן FLAC לא מקוון", "נגן מוזיקה אודיופיל iOS", "נגן FLAC Mac", "הזרמת hi-res iOS", "נגינת FLAC באייפון", "נגן DSD128", "אפליקציית אודיו lossless"]
 tags: ["flacbox", "מוזיקה", "אודיו", "lossless", "iphone", "mac", "flac", "dsd", "אודיופיל"]
-draft: false
 cascade:
   type: docs
 authors:

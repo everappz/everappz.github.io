@@ -5,7 +5,6 @@ description: "Learn how to use Evermusic with the SanDisk iXpand Flash Drive to 
 keywords: ["evermusic", "ixpand", "sandisk", "usb drive", "flash drive", "external music", "iphone music player", "file manager", "lightning storage", "play music from usb", "iphone file access"]
 tags: ["music", "usb", "external", "ixpand", "sandisk", "iphone", "evermusic"]
 readingTime: 3
-draft: false
 aliases:
   - /post/how-to-play-music-from-usb-flash-drive-on-iphone-with-evermusic-and-ixpand/
 ---

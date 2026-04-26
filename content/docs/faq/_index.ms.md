@@ -1,6 +1,5 @@
 ---
 date: '2025-06-12T17:00:00+00:00'
-draft: false
 title: 'Soalan Lazim'
 description: 'Cari jawapan kepada soalan umum tentang Evermusic, Flacbox, Evervideo, dan Evertag. Terokai ciri-ciri seperti penstriman awan, pengurusan fail, pilihan main balik, penyuntingan metadata, dan banyak lagi.'
 keywords: [

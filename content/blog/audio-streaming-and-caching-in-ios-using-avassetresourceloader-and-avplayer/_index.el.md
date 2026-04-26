@@ -4,7 +4,6 @@ date: 2015-06-20
 description: "Μάθετε πώς να κάνετε streaming και αποθήκευση ήχου στο iOS χρησιμοποιώντας AVAssetResourceLoaderDelegate και AVPlayer με προσαρμοσμένα σχήματα URL και αποθήκευση στο δίσκο."
 keywords: ["iOS audio streaming", "AVAssetResourceLoaderDelegate", "AVURLAsset", "AVPlayer οδηγός", "AVFoundation ήχος", "AVAssetResourceLoadingRequest", "προσαρμοσμένος audio player iOS", "cloud audio streaming iOS", "audio caching iOS", "Swift AVPlayer προσαρμοσμένο σχήμα"]
 tags: ["streaming", "AVPlayer", "AVFoundation", "iOS", "AVAssetResourceLoader", "tutorial", "Objective-C", "audio caching"]
-draft: false
 cascade:
   type: docs
 authors:

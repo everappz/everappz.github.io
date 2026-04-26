@@ -4,7 +4,6 @@ date: 2025-06-24
 description: "Otomasi ekspor blog Wix menggunakan Python, Selenium, dan OpenAI. Ekstrak konten dinamis, unduh gambar, dan konversi HTML ke Markdown bersih untuk Hugo atau Jekyll."
 keywords: ["ekspor blog Wix", "konversi HTML ke markdown", "konversi markdown OpenAI", "wix ke markdown", "migrasi blog SEO", "migrasi wix ke hugo", "scraper beautifulsoup", "render HTML selenium", "otomasi API OpenAI", "migrasi wix ke situs statis", "scraper blog wix python"]
 tags: ["wix", "markdown", "migrasi blog", "openai", "scraping", "beautifulsoup", "selenium", "otomasi", "SEO", "tutorial"]
-draft: false
 cascade:
   type: docs
 authors:

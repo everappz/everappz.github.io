@@ -1,6 +1,5 @@
 ---
 date: '2025-06-12T17:00:00+00:00'
-draft: false
 title: 'Časté dotazy'
 description: 'Najděte odpovědi na běžné otázky o Evermusic, Flacbox, Evervideo a Evertag. Prozkoumejte funkce jako cloudové streamování, správa souborů, možnosti přehrávání, úprava metadat a další.'
 keywords: [

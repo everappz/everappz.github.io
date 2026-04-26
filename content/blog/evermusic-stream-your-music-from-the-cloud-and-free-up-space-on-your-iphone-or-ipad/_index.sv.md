@@ -4,7 +4,6 @@ date: 2016-05-26
 description: "Streama musik från Google Drive, Dropbox eller OneDrive på iPhone och iPad med Evermusic. Frigör enhetens lagringsutrymme och lyssna offline utan iTunes-synkronisering."
 keywords: ["Evermusic", "molnmusikspelare", "iOS musikapp", "streama musik från molnet", "offline musik iPhone", "Google Drive musikspelare", "Dropbox musikstreaming", "MP3-spelare iPhone", "frigör utrymme iPhone", "musik från SMB", "spela musik från molnlagring iOS", "musikspelare utan iTunes"]
 tags: ["ljud", "streaming", "spelare", "mp3", "nedladdning", "GoogleDrive", "Dropbox", "molnmusik", "offline uppspelning"]
-draft: false
 cascade:
   type: docs
 authors:

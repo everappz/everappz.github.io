@@ -1,6 +1,5 @@
 ---
 date: 2020-01-01
-draft: false
 title: 'Flacbox'
 description: 'Learn how to use Flacbox – the hi-res cloud music player for iPhone, iPad, and Mac. Connect your cloud storage, manage your library, customize playback, and explore all features.'
 keywords: [

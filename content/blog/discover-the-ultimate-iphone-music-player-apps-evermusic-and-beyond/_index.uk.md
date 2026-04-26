@@ -4,7 +4,6 @@ date: 2020-05-05
 description: "Порівняйте найкращі додатки для відтворення музики на iPhone: Evermusic, Apple Music, Spotify, VLC та Amazon Music. Функції, ціни та офлайн-підтримка."
 keywords: ["найкращий музичний плеєр iPhone", "додаток для відтворення музики iOS", "Evermusic vs Spotify", "хмарний музичний плеєр iPhone", "офлайн музичний додаток iPhone", "FLAC плеєр iOS", "альтернативи Apple Music", "VLC iPhone", "безкоштовний музичний плеєр iOS"]
 tags: ["музичні додатки", "iOS", "Evermusic", "Apple Music", "Spotify", "VLC", "Amazon Music", "порівняння", "хмарна музика", "офлайн-відтворення"]
-draft: false
 cascade:
   type: docs
 authors:

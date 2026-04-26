@@ -5,7 +5,6 @@ description: "Learn how to configure WebDAV on your Synology NAS and stream musi
 keywords: ["connect nas", "webdav synology", "stream music nas", "evermusic webdav", "flacbox webdav", "webdav iphone", "webdav mac"]
 tags: ["music", "streaming", "storage", "nas", "connect", "webdav"]
 readingTime: 2
-draft: false
 aliases:
   - /post/how-to-connect-nas-storage-using-webdav-and-listen-to-music-on-your-iphone-or-mac/
 ---

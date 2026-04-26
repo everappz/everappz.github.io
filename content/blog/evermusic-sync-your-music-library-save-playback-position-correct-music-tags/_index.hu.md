@@ -4,7 +4,6 @@ date: 2016-05-26
 description: "Az Evermusic 2.3 automatikus felhőzenei szinkronizálást, hangoskönyvekhez lejátszási pozíció mentést, háttérben futó metaadat-olvasást és ID3 címke javítást hoz."
 keywords: ["Evermusic", "felhő zenelejátszó", "zeneszinkronizálás iOS", "lejátszási pozíció mentése", "hangoskönyv lejátszás", "metaadat-olvasó", "ID3 címkék javítása", "zene streamelése felhőből", "zenei alkalmazás Dropboxhoz", "Google Drive lejátszó", "automatikus zenei könyvtár szinkronizálás", "hangoskönyv pozíció mentés iOS"]
 tags: ["evermusic", "zene", "lejátszás", "kezelő", "szerkesztő", "szinkronizálás", "pozíció", "id3 címkék", "felhő", "újdonságok"]
-draft: false
 cascade:
   type: docs
 authors:

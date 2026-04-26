@@ -5,7 +5,6 @@ description: "Learn how to convert YouTube videos to audio, download music files
 keywords: ["youtube download", "offline music iphone", "evermusic", "convert youtube mp3", "youtube music player", "clipgrab", "download audio"]
 tags: ["music", "audio", "player", "iphone", "playback", "offline", "download", "youtube"]
 readingTime: 5
-draft: false
 aliases:
   - /post/how-to-download-music-from-youtube-and-listen-to-offline-music-on-iphone/
   - /post/how-to-download-songs-from-youtube-and-listen-to-them-with-evermusic/

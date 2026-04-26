@@ -4,7 +4,6 @@ date: 2018-06-19
 description: "Evermusic 3.1 adaugă redare crossfade, o bibliotecă muzicală redesenată, backup și restaurare în cloud, integrare iPod și editare îmbunătățită a tagurilor pentru iOS."
 keywords: ["Actualizare Evermusic", "redare crossfade iOS", "aplicație muzică cloud", "aplicație backup muzică", "coadă player audio", "editor taguri muzică", "actualizare taguri ID3", "integrare bibliotecă iPod", "player muzică iPhone", "crossfade muzică iOS", "sincronizare bibliotecă muzicală cloud", "backup playlisturi muzică iOS"]
 tags: ["Evermusic", "crossfade", "bibliotecă muzicală", "backup", "coadă audio", "taguri", "player cloud", "player offline", "editor", "bibliotecă iPod"]
-draft: false
 cascade:
   type: docs
 authors:

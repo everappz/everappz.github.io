@@ -1,7 +1,6 @@
 ---
 title: "Local Files"
 date: 2020-02-01
-draft: false
 aliases:
   - /post/flacbox-guide-local-files/
   - /guide-flacbox-files/

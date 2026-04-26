@@ -4,7 +4,6 @@ date: 2019-12-01
 description: "iPhoneとMacでのクラウド音楽ストリーミング、オフライン再生、イコライザー機能を紹介するEvermusicプロモーションビデオをご覧ください。"
 keywords: ["Evermusic プロモビデオ", "音楽プレーヤー iOS", "クラウド音楽アプリ iPhone", "Evermusic アプリデモ", "最高の音楽プレーヤー iPhone", "オフライン音楽プレーヤー iOS"]
 tags: ["Evermusic", "プロモ", "音楽", "ビデオ", "クラウド音楽", "iOSアプリ"]
-draft: false
 sidebar:
   exclude: true
 cascade:

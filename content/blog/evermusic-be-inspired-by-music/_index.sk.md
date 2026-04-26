@@ -4,7 +4,6 @@ date: 2019-12-01
 description: "Pozrite si propagačné video Evermusic prezentujúce cloudové streamovanie hudby, offline prehrávanie a funkcie ekvalizéra na iPhone a Mac."
 keywords: ["Evermusic propagačné video", "hudobný prehrávač iOS", "cloudová hudobná aplikácia iPhone", "ukážka aplikácie Evermusic", "najlepší hudobný prehrávač iPhone", "offline hudobný prehrávač iOS"]
 tags: ["Evermusic", "propagácia", "hudba", "video", "cloudová hudba", "iOS aplikácia"]
-draft: false
 sidebar:
   exclude: true
 cascade:

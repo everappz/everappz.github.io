@@ -1,6 +1,5 @@
 ---
 date: '2025-06-12T17:00:00+00:00'
-draft: false
 title: 'Usein kysytyt kysymykset'
 description: 'Löydä vastauksia yleisiin kysymyksiin Evermusic-, Flacbox-, Evervideo- ja Evertag-sovelluksista. Tutustu ominaisuuksiin kuten pilvisuoratoisto, tiedostonhallinta, toistoasetukset, metatietojen muokkaus ja paljon muuta.'
 keywords: [

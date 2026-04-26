@@ -5,7 +5,6 @@ description: "SanDisk iXpand Flash Driveを使用してiPhoneまたはiPadでUSB
 keywords: ["evermusic", "ixpand", "sandisk", "usbドライブ", "フラッシュドライブ", "外部音楽", "iphone音楽プレーヤー", "ファイルマネージャー", "lightningストレージ", "usbから音楽再生", "iphoneファイルアクセス"]
 tags: ["音楽", "usb", "外部", "ixpand", "sandisk", "iphone", "evermusic"]
 readingTime: 3
-draft: false
 ---
 
 {{< author-byline >}}

@@ -1,6 +1,5 @@
 ---
 date: '2025-06-12T17:00:00+00:00'
-draft: false
 title: '사용자 가이드'
 description: 'Evermusic, Flacbox, Evervideo, Evertag와 같은 Everappz 앱 사용법을 알아보세요. 클라우드 연결 설정, 음악 및 비디오 관리, 재생 사용자 지정, 한 곳에서 모든 기능을 살펴보세요.'
 keywords: [

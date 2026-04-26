@@ -4,7 +4,6 @@ date: 2016-05-26
 description: "Evermusic 2.3 adds automatic cloud music sync, playback position saving for audiobooks, background metadata reading, and ID3 tag correction."
 keywords: ["Evermusic", "cloud music player", "music sync iOS", "save playback position", "audiobook playback", "metadata reader", "fix ID3 tags", "stream music from cloud", "music app for Dropbox", "Google Drive player", "automatic music library sync", "audiobook position save iOS"]
 tags: ["evermusic", "music", "playback", "manager", "editor", "sync", "position", "id3tags", "cloud", "what's new"]
-draft: false
 aliases:
   - /post/evermusic-sync-your-music-library-save-playback-position-correct-music-tags/
 cascade:

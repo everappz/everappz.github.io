@@ -1,5 +1,4 @@
 ---
-draft: false
 title: 'Odebírat'
 sitemap:
   disable: true

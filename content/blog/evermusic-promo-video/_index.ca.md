@@ -4,7 +4,6 @@ date: 2019-07-02
 description: "Mira el vídeo promocional oficial d'Evermusic. Descobreix com Evermusic reprodueix, descarrega i organitza la teva música des de l'emmagatzematge al núvol a iPhone i iPad."
 keywords: ["vídeo promocional Evermusic", "reproductor de música al núvol iPhone", "vídeo aplicació de música", "demostració aplicació Evermusic", "música al núvol iOS", "funcions Evermusic", "reproductor de música iPad", "reproduir música des del núvol"]
 tags: ["Evermusic", "promoció", "vídeo", "iOS", "música", "núvol", "reproductor", "aplicació mòbil"]
-draft: false
 cascade:
   type: docs
 authors:

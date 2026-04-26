@@ -4,7 +4,6 @@ date: 2015-06-20
 description: "Özel URL şemaları ve disk önbelleği kullanarak AVAssetResourceLoaderDelegate ve AVPlayer ile iOS'ta ses akışı ve önbelleğe almanın nasıl yapılacağını öğrenin."
 keywords: ["iOS ses akışı", "AVAssetResourceLoaderDelegate", "AVURLAsset", "AVPlayer eğitimi", "AVFoundation ses", "AVAssetResourceLoadingRequest", "özel ses oynatıcı iOS", "bulut ses akışı iOS", "ses önbelleği iOS", "Swift AVPlayer özel şema"]
 tags: ["streaming", "AVPlayer", "AVFoundation", "iOS", "AVAssetResourceLoader", "tutorial", "Objective-C", "audio caching"]
-draft: false
 cascade:
   type: docs
 authors:

@@ -1,6 +1,5 @@
 ---
 date: '2025-06-12T17:00:00+00:00'
-draft: false
 title: 'Anleitungen'
 description: 'Schritt-für-Schritt-Anleitungen und Tipps, die Ihnen helfen, Everappz-Apps einzurichten, zu verwenden und das Beste aus ihnen herauszuholen.'
 excludeSearch: true

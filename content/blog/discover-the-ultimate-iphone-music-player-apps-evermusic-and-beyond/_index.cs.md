@@ -4,7 +4,6 @@ date: 2020-05-05
 description: "Porovnejte nejlepší aplikace přehrávačů hudby pro iPhone: Evermusic, Apple Music, Spotify, VLC a Amazon Music. Funkce, ceny a podpora offline přehrávání."
 keywords: ["nejlepší přehrávač hudby pro iPhone", "aplikace přehrávač hudby iOS", "Evermusic vs Spotify", "cloudový přehrávač hudby iPhone", "offline hudební aplikace iPhone", "FLAC přehrávač iOS", "alternativy k Apple Music", "VLC iPhone", "bezplatný přehrávač hudby iOS"]
 tags: ["hudební aplikace", "iOS", "Evermusic", "Apple Music", "Spotify", "VLC", "Amazon Music", "srovnání", "cloudová hudba", "offline přehrávání"]
-draft: false
 cascade:
   type: docs
 authors:

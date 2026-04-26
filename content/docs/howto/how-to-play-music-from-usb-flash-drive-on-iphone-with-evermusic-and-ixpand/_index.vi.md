@@ -5,7 +5,6 @@ description: "Tìm hiểu cách sử dụng Evermusic với SanDisk iXpand Flash
 keywords: ["evermusic", "ixpand", "sandisk", "ổ usb", "ổ flash", "nhạc ngoài", "trình phát nhạc iphone", "quản lý tệp", "bộ nhớ lightning", "phát nhạc từ usb", "truy cập tệp iphone"]
 tags: ["nhạc", "usb", "ngoài", "ixpand", "sandisk", "iphone", "evermusic"]
 readingTime: 3
-draft: false
 ---
 
 {{< author-byline >}}

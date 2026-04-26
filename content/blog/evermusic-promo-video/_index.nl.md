@@ -4,7 +4,6 @@ date: 2019-07-02
 description: "Bekijk de officiële Evermusic-promotievideo. Zie hoe Evermusic je muziek streamt, downloadt en organiseert vanuit cloudopslag op iPhone en iPad."
 keywords: ["Evermusic promotievideo", "cloud muziekspeler iPhone", "muziek app video", "Evermusic app demo", "cloud muziek iOS", "Evermusic functies", "muziekspeler iPad", "muziek streamen vanuit cloud"]
 tags: ["evermusic", "promotie", "video", "ios", "muziek", "cloud", "speler", "mobiele app"]
-draft: false
 cascade:
   type: docs
 authors:

@@ -4,7 +4,6 @@ date: 2018-06-19
 description: "Evermusic 3.1 新增交叉淡入淡出播放、重新設計的音樂庫、雲端備份和還原、iPod 整合以及改進的 iOS 標籤編輯功能。"
 keywords: ["Evermusic 更新", "交叉淡入淡出播放 iOS", "雲端音樂應用程式", "音樂備份應用程式", "音訊播放器佇列", "音樂標籤編輯器", "ID3 標籤更新", "iPod 音樂庫整合", "音樂播放器 iPhone", "交叉淡入淡出音樂 iOS", "音樂庫同步雲端", "備份音樂播放清單 iOS"]
 tags: ["Evermusic", "交叉淡入淡出", "音樂庫", "備份", "音訊佇列", "標籤", "雲端播放器", "離線播放器", "編輯器", "iPod 音樂庫"]
-draft: false
 cascade:
   type: docs
 authors:

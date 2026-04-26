@@ -5,7 +5,6 @@ description: "Saiba como transmitir e baixar música do WD My Cloud Home para o 
 keywords: ["evermusic", "wd my cloud", "transmitir música", "iphone", "armazenamento NAS", "música offline", "equalizador personalizado", "my cloud home", "biblioteca de música 8TB", "WD MyCloud EX2 Ultra", "MyCloud Mirror"]
 tags: ["evermusic", "música", "nuvem", "iphone", "armazenamento", "nas", "ouvir", "remoto", "casa", "online", "wd", "mycloud"]
 readingTime: 4
-draft: false
 ---
 
 {{< author-byline >}}

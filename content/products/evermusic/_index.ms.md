@@ -1,6 +1,5 @@
 ---
 date: '2025-06-12T17:00:00+00:00'
-draft: false
 title: 'Evermusic - Pemain Muzik Luar Talian untuk iPhone dan Mac'
 layout: hextra-home
 description: "Muat turun pemain muzik luar talian percuma terbaik untuk iPhone dan Mac anda dan dengar muzik anda di mana sahaja."

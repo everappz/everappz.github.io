@@ -1,6 +1,5 @@
 ---
 date: '2025-06-12T17:00:00+00:00'
-draft: false
 title: 'Käyttöopas'
 description: 'Opi käyttämään Everappz-sovelluksia, kuten Evermusic, Flacbox, Evervideo ja Evertag. Määritä pilviyhteydet, hallitse musiikkiasi ja videoitasi, mukauta toistoa ja tutustu kaikkiin ominaisuuksiin yhdessä paikassa.'
 keywords: ["Evermusic käyttöopas", "Flacbox ohjeet", "Evervideo tuki", "Evertag käsikirja", "pilvimusiikin soittimen asennus", "offline-toiston ohje", "äänitunnisteen muokkausohjeet", "Apple CarPlay musiikkiopas", "AirPlay videosoitin opas", "ekvalisaattorin konfigurointi"]

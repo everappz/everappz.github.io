@@ -5,7 +5,6 @@ description: "Узнайте, как воспроизводить собстве
 keywords: ["carplay музыка", "воспроизведение своей музыки на iphone", "iphone локальная музыка", "carplay офлайн музыка", "evermusic", "flacbox", "iphone mp3 плеер"]
 tags: ["carplay", "iphone", "локальная музыка", "офлайн воспроизведение", "evermusic", "flacbox"]
 readingTime: 5
-draft: false
 ---
 
 {{< author-byline >}}

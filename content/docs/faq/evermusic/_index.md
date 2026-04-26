@@ -1,6 +1,5 @@
 ---
 date: '2025-06-12T17:00:00+00:00'
-draft: false
 title: 'Evermusic'
 description: 'Find answers to frequently asked questions about Evermusic — a powerful cloud music player for iPhone, iPad, and Mac. Learn how to stream, download, organize, and manage your audio library from multiple cloud services.'
 keywords: [

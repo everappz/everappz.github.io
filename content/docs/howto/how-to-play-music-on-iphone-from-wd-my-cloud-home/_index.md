@@ -5,7 +5,6 @@ description: "Learn how to stream and download music from WD My Cloud Home to yo
 keywords: ["evermusic", "wd my cloud", "stream music", "iphone", "NAS storage", "offline music", "custom equalizer", "my cloud home", "8TB music library", "WD MyCloud EX2 Ultra", "MyCloud Mirror"]
 tags: ["evermusic", "music", "cloud", "iphone", "storage", "nas", "listen", "remote", "home", "online", "wd", "mycloud"]
 readingTime: 4
-draft: false
 aliases:
   - /post/how-to-play-music-on-iphone-from-wd-my-cloud-home/
   - /post/8-tb-of-music-on-your-iphone-with-evermusic-and-wd-my-cloud-home/

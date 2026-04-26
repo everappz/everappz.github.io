@@ -4,7 +4,6 @@ date: 2017-11-08
 description: "Evermusic mencapai 3 juta unduhan. Jelajahi streaming musik cloud, pemutaran offline, EQ 10-band, dukungan buku audio, manajer file, dan editor tag ID3."
 keywords: ["unduhan Evermusic", "pemutar musik iOS", "aplikasi musik cloud", "pemutar musik offline iPhone", "pengunduh musik iOS", "pemutar buku audio iPhone", "editor tag ID3 iOS", "manajer file iPhone", "aplikasi equalizer musik", "pemutar musik cloud terbaik", "streaming musik dari NAS iPhone"]
 tags: ["Evermusic", "unduhan", "pencapaian", "aplikasi musik", "pemutar cloud", "pemutar offline", "editor tag", "equalizer", "buku audio", "manajer file"]
-draft: false
 cascade:
   type: docs
 authors:

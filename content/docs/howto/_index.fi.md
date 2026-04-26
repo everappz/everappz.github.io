@@ -1,6 +1,5 @@
 ---
 date: '2025-06-12T17:00:00+00:00'
-draft: false
 title: 'Ohjeet'
 description: 'Vaiheittaiset oppaat ja vinkit, jotka auttavat sinua asentamaan, käyttämään ja hyödyntämään Everappz-sovelluksia parhaalla mahdollisella tavalla.'
 excludeSearch: true

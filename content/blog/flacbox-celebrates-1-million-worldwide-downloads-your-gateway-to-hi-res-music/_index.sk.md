@@ -4,7 +4,6 @@ date: 2023-09-06
 description: "Flacbox dosiahol 1 milión stiahnutí po celom svete. Preskúmajte funkcie, ktoré z neho robia top prehrávač hi-res zvuku pre iPhone, iPad a Mac — FLAC, DSD, APE, ekvalizér a offline prehrávanie."
 keywords: ["Flacbox hudobný prehrávač", "hi-res audio iOS", "bezstratová hudobná aplikácia", "DSD FLAC APE prehrávač", "offline FLAC hudba", "Flacbox míľnik stiahnutí", "vysokokvalitný zvuk iPhone", "Everappz audio aplikácie", "CUE playlist prehrávač", "1 milión stiahnutí", "najlepší FLAC prehrávač iOS", "hi-res hudobný prehrávač Mac"]
 tags: ["Flacbox", "bezstratový", "hi-res audio", "hudobný prehrávač", "audio", "míľnik", "iOS aplikácie", "čo je nové"]
-draft: false
 cascade:
   type: docs
 authors:

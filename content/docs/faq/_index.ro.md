@@ -1,6 +1,5 @@
 ---
 date: '2025-06-12T17:00:00+00:00'
-draft: false
 title: 'Întrebări frecvente'
 description: 'Găsește răspunsuri la întrebări frecvente despre Evermusic, Flacbox, Evervideo și Evertag. Explorează funcții precum streaming în cloud, gestionarea fișierelor, opțiuni de redare, editarea metadatelor și altele.'
 keywords: [

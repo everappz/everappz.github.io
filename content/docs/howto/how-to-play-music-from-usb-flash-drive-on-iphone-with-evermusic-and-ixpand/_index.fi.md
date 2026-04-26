@@ -5,7 +5,6 @@ description: "Opi käyttämään Evermusicia SanDisk iXpand Flash Drive -muistit
 keywords: ["evermusic", "ixpand", "sandisk", "usb-asema", "muistitikku", "ulkoinen musiikki", "iphone musiikkisoitin", "tiedostonhallinta", "lightning-tallennustila", "toista musiikkia usb:ltä", "iphone tiedostojen käyttö"]
 tags: ["musiikki", "usb", "ulkoinen", "ixpand", "sandisk", "iphone", "evermusic"]
 readingTime: 3
-draft: false
 ---
 
 {{< author-byline >}}

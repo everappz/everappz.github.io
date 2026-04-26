@@ -4,7 +4,6 @@ date: 2015-06-20
 description: "Tìm hiểu cách phát trực tuyến và lưu bộ nhớ đệm âm thanh trong iOS bằng AVAssetResourceLoaderDelegate và AVPlayer với các URL scheme tùy chỉnh và bộ nhớ đệm đĩa."
 keywords: ["phát trực tuyến âm thanh iOS", "AVAssetResourceLoaderDelegate", "AVURLAsset", "hướng dẫn AVPlayer", "AVFoundation âm thanh", "AVAssetResourceLoadingRequest", "trình phát âm thanh tùy chỉnh iOS", "phát trực tuyến âm thanh đám mây iOS", "lưu bộ nhớ đệm âm thanh iOS", "Swift AVPlayer scheme tùy chỉnh"]
 tags: ["streaming", "AVPlayer", "AVFoundation", "iOS", "AVAssetResourceLoader", "tutorial", "Objective-C", "audio caching"]
-draft: false
 cascade:
   type: docs
 authors:

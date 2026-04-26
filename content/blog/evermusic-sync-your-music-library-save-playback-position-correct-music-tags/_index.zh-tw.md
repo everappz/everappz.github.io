@@ -4,7 +4,6 @@ date: 2016-05-26
 description: "Evermusic 2.3 新增自動雲端音樂同步、有聲書播放位置儲存、背景元資料讀取和 ID3 標籤修正功能。"
 keywords: ["Evermusic", "雲端音樂播放器", "音樂同步 iOS", "儲存播放位置", "有聲書播放", "元資料讀取器", "修復 ID3 標籤", "從雲端播放音樂", "Dropbox 音樂應用程式", "Google Drive 播放器", "自動音樂庫同步", "儲存有聲書位置 iOS"]
 tags: ["evermusic", "音樂", "播放", "管理器", "編輯器", "同步", "位置", "id3標籤", "雲端", "新功能"]
-draft: false
 cascade:
   type: docs
 authors:

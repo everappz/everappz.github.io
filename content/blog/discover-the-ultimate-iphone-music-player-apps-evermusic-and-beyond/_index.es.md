@@ -4,7 +4,6 @@ date: 2020-05-05
 description: "Compara las mejores aplicaciones de reproductor de música para iPhone: Evermusic, Apple Music, Spotify, VLC y Amazon Music. Características, precios y soporte sin conexión."
 keywords: ["mejor reproductor de música iPhone", "aplicación reproductor de música iOS", "Evermusic vs Spotify", "reproductor de música en la nube iPhone", "aplicación de música sin conexión iPhone", "reproductor FLAC iOS", "alternativas a Apple Music", "VLC iPhone", "reproductor de música gratis iOS"]
 tags: ["aplicaciones de música", "iOS", "Evermusic", "Apple Music", "Spotify", "VLC", "Amazon Music", "comparación", "música en la nube", "reproducción sin conexión"]
-draft: false
 cascade:
   type: docs
 authors:

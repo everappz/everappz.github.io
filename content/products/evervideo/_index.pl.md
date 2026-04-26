@@ -1,6 +1,5 @@
 ---
 date: '2025-06-12T17:00:00+00:00'
-draft: false
 title: 'Evervideo - Odtwarzacz wideo HD na iPhone i Mac'
 layout: hextra-home
 description: "Pobierz najlepszy darmowy odtwarzacz wideo na iPhone i Mac. Oglądaj filmy 360°, włączaj napisy, reguluj korektor wideo, organizuj filmy za pomocą playlist, pobieraj do trybu offline i streamuj z iCloud."

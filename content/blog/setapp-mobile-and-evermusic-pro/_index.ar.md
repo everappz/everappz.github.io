@@ -4,7 +4,6 @@ date: 2024-09-17
 description: "احصل على Evermusic Pro من خلال Setapp Mobile. قم ببث الموسيقى من Google Drive وDropbox وNAS والمزيد على iPhone وiPad مع تشغيل بدون إنترنت ومعادل صوت 10 نطاقات."
 keywords: ["Setapp Mobile", "Evermusic Pro", "مشغل موسيقى سحابي", "بث موسيقى iPhone", "موسيقى بدون إنترنت iOS", "تطبيقات Setapp iOS", "تطبيق audiophile iPhone", "معادل صوت iOS", "موسيقى NAS iPhone", "مشغل موسيقى التخزين السحابي", "تطبيق موسيقى Setapp", "بث موسيقى من Google Drive iPhone"]
 tags: ["evermusic", "setapp", "سحابي", "صوت", "موبايل", "سوق", "موسيقى", "تطبيقات ios"]
-draft: false
 cascade:
   type: docs
 authors:

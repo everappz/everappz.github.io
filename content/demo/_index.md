@@ -1,6 +1,5 @@
 ---
 title: 'Demo'
-draft: false
 build:
   list: never
   publishResources: false

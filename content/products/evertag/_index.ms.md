@@ -1,6 +1,5 @@
 ---
 date: '2025-06-12T17:00:00+00:00'
-draft: false
 title: 'Evertag - Editor Tag Muzik untuk iPhone dan Mac'
 layout: hextra-home
 description: "Susun pustaka muzik anda dengan teratur. Cari tag yang hilang. Pengeditan kelompok. Tukar kulit album dan banyak lagi."

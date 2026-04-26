@@ -5,7 +5,6 @@ description: "Learn how to change album artwork for local music files in Spotify
 keywords: ["change album cover spotify", "edit album artwork", "spotify local files", "mp3 album art", "music metadata editor", "spotify mobile album cover", "evertag app", "id3 tag editor"]
 tags: ["spotify", "album cover", "mp3", "metadata", "music editor", "local files"]
 readingTime: 3
-draft: false
 ---
 
 {{< author-byline >}}

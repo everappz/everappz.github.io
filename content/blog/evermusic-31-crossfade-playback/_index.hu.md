@@ -4,7 +4,6 @@ date: 2018-06-19
 description: "Az Evermusic 3.1 crossfade lejátszást, újratervezett zenei könyvtárat, felhő biztonsági mentést és visszaállítást, iPod integrációt és javított címkeszerkesztést hoz iOS-re."
 keywords: ["Evermusic frissítés", "crossfade lejátszás iOS", "felhőzenei alkalmazás", "zenei biztonsági mentés alkalmazás", "hanglejátszó várólista", "zenei címkeszerkesztő", "ID3 címke frissítés", "iPod könyvtár integráció", "zenelejátszó iPhone", "crossfade zene iOS", "zenei könyvtár szinkronizálás felhő", "biztonsági mentés zenei lejátszási listák iOS"]
 tags: ["Evermusic", "crossfade", "zenei könyvtár", "biztonsági mentés", "hang várólista", "címkék", "felhőlejátszó", "offline lejátszó", "szerkesztő", "iPod könyvtár"]
-draft: false
 cascade:
   type: docs
 authors:

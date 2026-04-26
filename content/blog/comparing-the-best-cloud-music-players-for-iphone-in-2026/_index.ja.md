@@ -4,7 +4,6 @@ date: 2026-04-22
 description: "iPhone向け7大クラウド音楽プレイヤーを比較：Apple Music、Spotify、Evermusicなど。機能、価格、オフライン対応、フォーマット互換性を解説。"
 keywords: ["クラウド音楽プレイヤー iPhone", "iPhone向け最高音楽アプリ", "Evermusic vs Spotify", "オフライン音楽アプリ iOS", "Apple Music 代替", "iPhone FLAC再生", "クラウド音楽ストリーミング", "iPhoneオーディオプレイヤー", "Dropbox音楽プレイヤー", "自分の音楽ファイル iPhone再生"]
 tags: ["music", "streaming", "apps", "iOS", "cloud music", "Evermusic", "Spotify", "Apple Music", "YouTube Music", "SoundCloud", "comparison"]
-draft: false
 cascade:
   type: docs
 authors:

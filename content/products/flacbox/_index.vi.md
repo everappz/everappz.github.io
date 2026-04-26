@@ -1,6 +1,5 @@
 ---
 date: '2025-06-12T17:00:00+00:00'
-draft: false
 title: 'Flacbox - Trình phát âm thanh Hi-Res cho iPhone và Mac'
 layout: hextra-home
 description: "Phát và tải xuống các tệp FLAC, DSD, APE, ALAC trên iPhone. Nghe nhạc trực tiếp từ bộ nhớ đám mây hoặc máy tính với bộ cân bằng âm thanh."

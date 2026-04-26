@@ -1,6 +1,5 @@
 ---
 date: '2025-06-12T17:00:00+00:00'
-draft: false
 title: 'Evertag - Editor hudebních tagů pro iPhone a Mac'
 layout: hextra-home
 description: "Udržujte svou hudební knihovnu organizovanou. Najděte chybějící tagy. Hromadné úpravy. Změna obalů alb a mnoho dalšího."

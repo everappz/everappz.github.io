@@ -4,7 +4,6 @@ date: 2025-04-30
 description: "Lépésről lépésre útmutató az App Store kulcsszavak, címek és alcímek optimalizálásához. Ingyenes böngésző alapú ASO eszközzel és Fastlane integrációval."
 keywords: ["app store kulcsszavak útmutató", "ASO kulcsszó optimalizálás", "app store cím optimalizálás", "app store alcím optimalizálás", "app store metaadatok", "app store rangsor javítása", "app store optimalizálás", "ingyenes ASO eszköz", "ingyenes ASO eszközök", "app store kulcsszó stratégia", "apple app store SEO", "fastlane metaadat eszköz", "ingyenes app store kulcsszó kutatás"]
 tags: ["App Store optimalizálás", "ingyenes ASO eszközök", "app store cím optimalizálás", "ingyenes ASO eszköz", "app store kulcsszó stratégia", "metaadat optimalizáló"]
-draft: false
 sidebar:
   exclude: true
 cascade:

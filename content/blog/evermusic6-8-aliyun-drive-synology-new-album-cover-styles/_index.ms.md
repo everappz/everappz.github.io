@@ -4,7 +4,6 @@ date: 2024-09-17
 description: "Evermusic 6.8 menambah sokongan Aliyun Drive dan Synology NAS, kesan skrol kulit album baharu, skrin pemain minimal, pengurusan fail seret dan lepas, dan pemuatan karya seni yang lebih pantas."
 keywords: ["kemas kini Evermusic", "pemain muzik Aliyun Drive", "muzik Synology NAS", "pemain muzik awan iOS", "pemain audio iOS", "gaya kulit album", "pelayar fail seret dan lepas", "Evermusic 6.8", "pemain FLAC iOS", "pemain muzik QuickConnect", "penstriman muzik NAS iPhone"]
 tags: ["Evermusic", "Aliyun Drive", "Synology", "Kulit Album", "Muzik Awan", "Aplikasi Muzik iOS", "Apa Yang Baharu"]
-draft: false
 cascade:
   type: docs
 authors:

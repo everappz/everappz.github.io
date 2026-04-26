@@ -1,5 +1,4 @@
 ---
-draft: false
 title: 'Abone Ol'
 sitemap:
   disable: true

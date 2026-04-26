@@ -4,7 +4,6 @@ date: 2025-04-05
 description: "Reproduce FLAC, DSD, ALAC y más de 120 formatos de audio en iPhone y Mac con Flacbox. Importa vía nube, Wi-Fi o USB. Incluye ecualizador de 10 bandas y reproducción sin conexión."
 keywords: ["reproductor de música sin pérdidas", "reproductor FLAC iOS", "reproductor DSD iPhone", "audio de alta resolución Mac", "aplicación Flacbox", "mejor reproductor FLAC iPhone", "reproductor FLAC sin conexión", "reproductor de música audiófilo iOS", "reproductor FLAC Mac", "streaming de alta resolución iOS", "reproducir FLAC en iPhone", "reproductor DSD128", "aplicación de audio sin pérdidas"]
 tags: ["flacbox", "música", "audio", "sin pérdidas", "iphone", "mac", "flac", "dsd", "audiófilo"]
-draft: false
 cascade:
   type: docs
 authors:

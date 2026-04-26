@@ -4,7 +4,6 @@ date: 2025-06-24
 description: "使用 Python、Selenium 和 OpenAI 自动化 Wix 博客导出。提取动态内容、下载图片并将 HTML 转换为干净的 Markdown，适用于 Hugo 或 Jekyll。"
 keywords: ["Wix 博客导出", "HTML 转 markdown", "OpenAI markdown 转换", "wix 转 markdown", "SEO 博客迁移", "wix 迁移到 hugo", "beautifulsoup 爬虫", "selenium 渲染 HTML", "OpenAI API 自动化", "wix 迁移到静态网站", "wix 博客爬虫 python"]
 tags: ["wix", "markdown", "博客迁移", "openai", "爬虫", "beautifulsoup", "selenium", "自动化", "SEO", "教程"]
-draft: false
 cascade:
   type: docs
 authors:

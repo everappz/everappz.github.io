@@ -1,6 +1,5 @@
 ---
 date: '2025-06-12T17:00:00+00:00'
-draft: false
 title: 'Evervideo - Player Video HD pentru iPhone și Mac'
 layout: hextra-home
 description: "Descărcați cel mai bun player video gratuit pentru iPhone și Mac. Vizionați videoclipuri la 360°, activați subtitrările, reglați egalizatorul video, organizați videoclipurile în playlisturi, descărcați pentru vizionare offline și transmiteți din iCloud."

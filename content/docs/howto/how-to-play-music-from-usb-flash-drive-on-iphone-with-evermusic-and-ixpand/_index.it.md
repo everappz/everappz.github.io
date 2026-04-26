@@ -5,7 +5,6 @@ description: "Scopri come utilizzare Evermusic con la chiavetta SanDisk iXpand p
 keywords: ["evermusic", "ixpand", "sandisk", "unità usb", "chiavetta flash", "musica esterna", "lettore musicale iphone", "gestore file", "archiviazione lightning", "riprodurre musica da usb", "accesso file iphone"]
 tags: ["musica", "usb", "esterno", "ixpand", "sandisk", "iphone", "evermusic"]
 readingTime: 3
-draft: false
 ---
 
 {{< author-byline >}}

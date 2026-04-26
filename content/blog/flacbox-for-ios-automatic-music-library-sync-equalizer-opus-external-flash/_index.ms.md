@@ -4,7 +4,6 @@ date: 2017-01-25
 description: "Flacbox 1.6 untuk iOS menambah penyegerakan awan automatik, penyama 10 jalur, sokongan format OPUS, dan main balik pemacu kilat luaran untuk iPhone dan iPad."
 keywords: ["kemas kini Flacbox", "pemain FLAC iOS", "penyama 10 jalur iPhone", "penyegerakan muzik automatik", "main OPUS di iPhone", "muzik pemacu kilat luaran", "penstriman FLAC iOS", "aplikasi muzik hi-res iPhone", "penyama Flacbox", "pemain muzik kad SD iOS"]
 tags: ["Flacbox", "penyama", "perpustakaan muzik", "OPUS", "FLAC", "storan luaran", "penyegerakan", "pemain audio", "aplikasi iOS", "kemas kini"]
-draft: false
 cascade:
   type: docs
 authors:

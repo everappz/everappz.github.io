@@ -4,7 +4,6 @@ date: 2024-12-08
 description: "Learn how to use Soundy to create audio bookmarks in SoundCloud tracks. Perfect for audiobooks, podcasts, and lectures."
 keywords: ["Soundy", "SoundCloud bookmarks", "audio bookmarks", "podcast bookmarks", "audiobook player", "SoundCloud podcast player"]
 tags: ["audio", "equalizer", "soundy", "marks", "soundcloud"]
-draft: false
 aliases:
   - /post/audio-bookmarks-for-soundcloud/
 ---

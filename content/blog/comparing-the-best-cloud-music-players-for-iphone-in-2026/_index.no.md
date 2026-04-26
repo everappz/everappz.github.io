@@ -4,7 +4,6 @@ date: 2026-04-22
 description: "Sammenlign 7 topp sky-musikkspillere for iPhone: Apple Music, Spotify, Evermusic og mer. Funksjoner, priser, offline-støtte og formatkompatibilitet."
 keywords: ["sky-musikkspiller iPhone", "beste musikkapps for iPhone", "Evermusic vs Spotify", "offline musikk-app iOS", "Apple Music alternativ", "spille FLAC på iPhone", "sky-musikkstrømming", "iPhone lydspiller", "musikkspiller for Dropbox", "spille egne musikk filer iPhone"]
 tags: ["music", "streaming", "apps", "iOS", "cloud music", "Evermusic", "Spotify", "Apple Music", "YouTube Music", "SoundCloud", "comparison"]
-draft: false
 cascade:
   type: docs
 authors:

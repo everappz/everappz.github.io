@@ -4,7 +4,6 @@ date: 2023-09-06
 description: "Flacbox 全球下載量達到 100 萬次。探索使其成為 iPhone、iPad 和 Mac 頂級 hi-res 音訊播放器的功能 — FLAC、DSD、APE、等化器和離線播放。"
 keywords: ["Flacbox 音樂播放器", "hi-res 音訊 iOS", "無損音樂應用程式", "DSD FLAC APE 播放器", "離線 FLAC 音樂", "Flacbox 下載里程碑", "高品質音訊 iPhone", "Everappz 音訊應用程式", "CUE 播放清單播放器", "100 萬次下載", "最佳 FLAC 播放器 iOS", "hi-res 音樂播放器 Mac"]
 tags: ["Flacbox", "無損", "hi-res 音訊", "音樂播放器", "音訊", "里程碑", "iOS 應用程式", "新功能"]
-draft: false
 cascade:
   type: docs
 authors:

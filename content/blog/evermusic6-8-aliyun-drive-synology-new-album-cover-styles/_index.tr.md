@@ -4,7 +4,6 @@ date: 2024-09-17
 description: "Evermusic 6.8, Aliyun Drive ve Synology NAS desteği, yeni albüm kapağı kaydırma efektleri, minimal çalar ekranı, sürükle-bırak dosya yönetimi ve daha hızlı kapak yükleme ekliyor."
 keywords: ["Evermusic güncelleme", "Aliyun Drive müzik çalar", "Synology NAS müzik", "bulut müzik çalar iOS", "ses çalar iOS", "albüm kapağı stilleri", "sürükle bırak dosya tarayıcı", "Evermusic 6.8", "FLAC çalar iOS", "QuickConnect müzik çalar", "NAS müzik akışı iPhone"]
 tags: ["Evermusic", "Aliyun Drive", "Synology", "albüm kapakları", "bulut müzik", "iOS müzik uygulaması", "yenilikler"]
-draft: false
 cascade:
   type: docs
 authors:
