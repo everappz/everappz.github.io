@@ -117,6 +117,28 @@ For product pages with `heroimage/` and `screenshots/` subdirectories:
 - Wrong: `&agrave;`, `&eacute;`, `&ntilde;`, `&uuml;`, `&ouml;`
 - Exception: `&nbsp;` in layout HTML is OK (it's intentional for spacing)
 
+## Quoting Rules (CRITICAL)
+
+Hugo shortcode parameters and YAML frontmatter use ASCII double quotes `"` as delimiters. **Never place unescaped ASCII double quotes inside these values.** This causes Hugo build errors like `got positional parameter ... Cannot mix named and positional parameters`.
+
+### In shortcode parameters (`title="..."`, `subtitle="..."`, `alt="..."`, `caption="..."`)
+- **NEVER** use ASCII double quotes `"` inside the value
+- Use single quotes `'`, angle brackets `«»`, corner brackets `「」`, or rephrase to avoid inner quotes
+- Wrong: `title="My SanDisk shows "busy" error"`
+- Correct: `title="My SanDisk shows 'busy' error"`
+- Correct (CJK): `title="我的SanDisk显示「忙碌」错误"`
+- Correct (Cyrillic): `title="Мой SanDisk показывает ошибку «занят»"`
+
+### In YAML frontmatter (`title: "..."`, `description: "..."`)
+- Same rule: **no ASCII double quotes inside the value**
+- Wrong: `title: "How to fix "error" on iPhone"`
+- Correct: `title: "How to fix 'error' on iPhone"`
+
+### In keywords and tags arrays
+- Each value is already wrapped in `["..."]` — no inner double quotes allowed
+- Wrong: `keywords: ["fix "busy" error"]`
+- Correct: `keywords: ["fix busy error"]`
+
 ## Example: Feature Card Translation
 
 English:
