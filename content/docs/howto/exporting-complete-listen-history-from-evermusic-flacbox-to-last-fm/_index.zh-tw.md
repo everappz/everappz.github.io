@@ -7,150 +7,149 @@ tags: ["evermusic", "flacbox", "最近使用的", "lastfm", "匯出", "scrobbler
 readingTime: 5
 ---
 
-
 {{< author-byline >}}
 
 
-**摘要：** Export your listening history from Evermusic or Flacbox as a CSV file, then upload it to Last.fm using the free Last.fm-Scrubbler-WPF tool on Windows. Automatic scrobbling is also available natively in both apps.
+**摘要：** 將您的收聽記錄從Evermusic或Flacbox匯出為CSV檔案，然後使用Windows上的免費工具Last.fm-Scrubbler-WPF上傳到Last.fm。兩個應用程式都原生支援自動scrobble功能。
 
-**更新：** Automatic scrobbling is now available! Learn more here: [/docs/howto/how-to-scrobble-your-music-history-from-evermusic-or-flacbox-to-last-fm](/docs/howto/how-to-scrobble-your-music-history-from-evermusic-or-flacbox-to-last-fm)
+**更新：** 自動scrobble功能現已推出！在此了解更多：[/docs/howto/how-to-scrobble-your-music-history-from-evermusic-or-flacbox-to-last-fm](/docs/howto/how-to-scrobble-your-music-history-from-evermusic-or-flacbox-to-last-fm)
 
-Scrobbling is a simple way to automatically save basic details like the title and artist of the song you're currently playing to an online service. Later on, you can review your listening history.
+Scrobbling是一種簡單的方式，可以自動將您正在播放的歌曲的基本資訊（如標題和藝術家）儲存到線上服務中。之後，您可以檢視自己的收聽記錄。
 
-[Last.fm](https://www.last.fm/home), powered by a music recommender system called "Audioscrobbler," offers this service for free. It creates a detailed profile of your musical taste by recording the tracks you listen to, whether from internet radio stations, your computer, or various portable music devices. You can visit the website later to receive recommendations for new artists or albums that match your music taste.
+[Last.fm](https://www.last.fm/home)由名為Audioscrobbler的音樂推薦系統驅動，免費提供此服務。它透過記錄您收聽的曲目（無論是來自網路電台、您的電腦還是各種可攜式音樂裝置）來建立您音樂品味的詳細檔案。您可以稍後造訪該網站，取得與您音樂品味相符的新藝術家或專輯推薦。
 
-You can upload your listening history to [Last.fm](http://Last.fm) from Evermusic and Flacbox apps using a free tool, and we'll walk you through how to do this.
+您可以使用免費工具將收聽記錄從Evermusic和Flacbox應用程式上傳到[Last.fm](http://Last.fm)，我們將向您說明具體操作方法。
 
-Open the 'Music Library' section of the application and scroll to the 'Quick access' section. Tap the 'Recents' menu item.
+開啟應用程式的「音樂資料庫」部分，捲動到「快速存取」部分。點選「最近使用的」選單項目。
 
-![music library screen](/docs/howto/exporting-complete-listen-history-from-evermusic-flacbox-to-last-fm/21260c_515ff6fa1fa447d29da56f0998302e4e~mv2.png)
+![音樂資料庫畫面](/docs/howto/exporting-complete-listen-history-from-evermusic-flacbox-to-last-fm/21260c_515ff6fa1fa447d29da56f0998302e4e~mv2.png)
 
-On the 'Recents' screen tap the 'More' button in the top right corner to activate the 'More actions' menu. Tap the 'Export songs list' menu item.
+在「最近使用的」畫面上，點選右上角的「更多」按鈕以啟動「更多操作」選單。點選「匯出歌曲清單」選單項目。
 
-![recents screen](/docs/howto/exporting-complete-listen-history-from-evermusic-flacbox-to-last-fm/21260c_762ce17498ed43d2a4402ef0d1fd250b~mv2.png)
+![最近使用的畫面](/docs/howto/exporting-complete-listen-history-from-evermusic-flacbox-to-last-fm/21260c_762ce17498ed43d2a4402ef0d1fd250b~mv2.png)
 
-On the 'Select file format' screen you have the possibility to select the format of the destination file. Available options - CSV, TXT, M3U.
+在「選擇檔案格式」畫面上，您可以選擇目標檔案的格式。可用選項 - CSV、TXT、M3U。
 
-![select file format screen](/docs/howto/exporting-complete-listen-history-from-evermusic-flacbox-to-last-fm/21260c_589bfdb833c24877a1c8e3f13d6830fa~mv2.png)
+![選擇檔案格式畫面](/docs/howto/exporting-complete-listen-history-from-evermusic-flacbox-to-last-fm/21260c_589bfdb833c24877a1c8e3f13d6830fa~mv2.png)
 
-CSV: This stands for Comma-Separated Values, perfect for organizing your data into a neat table format. In the destination file, you'll find parameters like Artist Name, Album Name, Track Name, Timestamp (the time you listened to the tracks), Album Artist Name, and Track Duration.
+CSV：即逗號分隔值（Comma-Separated Values），非常適合將資料整理成整齊的表格格式。在目標檔案中，您將找到藝術家名稱、專輯名稱、曲目名稱、時間戳記（您收聽曲目的時間）、專輯藝術家名稱和曲目時長等參數。
 
-TXT: Here, we're talking about a plain text file. It's simple and straightforward, with parameters including Artist Name, Album Name, Track Name, and Duration.
+TXT：這是一個純文字檔案。簡單直接，參數包括藝術家名稱、專輯名稱、曲目名稱和時長。
 
-M3U: This format is essentially the go-to for creating playlists. It's great because you can export your song list and enjoy your tracks on any device, even if you don't have the original files (provided you select the absolute URL for the media files option). In the output file, you'll find parameters such as Duration, Artist Name, Track Name, and Media File Location.
+M3U：這種格式是建立播放清單的首選。它很棒，因為您可以匯出歌曲清單並在任何裝置上欣賞您的曲目，即使您沒有原始檔案（前提是您選擇媒體檔案的絕對URL選項）。在輸出檔案中，您將找到時長、藝術家名稱、曲目名稱和媒體檔案位置等參數。
 
-For our task, selecting CSV is the way to go. We'll be using this file with the free software Last.fm-Scrubbler-WPF to upload our listening history to the [Last.fm](http://Last.fm) service. Simply choose CSV and hit the 'Export' button.
+對於我們的任務，選擇CSV是正確的選擇。我們將使用此檔案配合免費軟體Last.fm-Scrubbler-WPF將收聽記錄上傳到[Last.fm](http://Last.fm)服務。只需選擇CSV並點選「匯出」按鈕。
 
-![export completed screen](/docs/howto/exporting-complete-listen-history-from-evermusic-flacbox-to-last-fm/21260c_fb3fcd41b94b468c955283c9e64a5ccd~mv2.png)
+![匯出完成畫面](/docs/howto/exporting-complete-listen-history-from-evermusic-flacbox-to-last-fm/21260c_fb3fcd41b94b468c955283c9e64a5ccd~mv2.png)
 
-After the export is complete, simply tap the 'Show file' button, and the app will reveal the created file in your documents folder. Then, tap the 'More actions' button next to the file name and select the 'Open in' option from the menu. Our next step is to copy the exported file to your desktop computer. You can easily do this by selecting the 'AirDrop' option from the 'Open in' menu.
+匯出完成後，只需點選「顯示檔案」按鈕，應用程式將在您的文件資料夾中顯示建立的檔案。然後，點選檔案名稱旁邊的「更多操作」按鈕，從選單中選擇「開啟方式」選項。下一步是將匯出的檔案複製到您的桌上型電腦。您可以透過從「開啟方式」選單中選擇AirDrop選項輕鬆完成此操作。
 
-![more actions for exported file](/docs/howto/exporting-complete-listen-history-from-evermusic-flacbox-to-last-fm/21260c_f536f740deec4cefbcd90fa5c2c3a492~mv2.png)
+![匯出檔案的更多操作](/docs/howto/exporting-complete-listen-history-from-evermusic-flacbox-to-last-fm/21260c_f536f740deec4cefbcd90fa5c2c3a492~mv2.png)
 
-Next up, we'll be using a free open-source [Last.FM](http://Last.FM) client which is available on the Windows platform only. This client allows you to efficiently update your listening history on [Last.FM](http://Last.FM) using the CSV file we just exported.
+接下來，我們將使用一個免費的開源[Last.FM](http://Last.FM)用戶端，該用戶端僅在Windows平台上可用。此用戶端允許您使用我們剛匯出的CSV檔案高效地更新[Last.FM](http://Last.FM)上的收聽記錄。
 
-Now, if you're not currently using a Windows computer, don't worry. You can still access this client by installing VirtualBox on your Mac and using the official Windows development environment image file.
+如果您目前沒有使用Windows電腦，不用擔心。您可以透過在Mac上安裝VirtualBox並使用官方Windows開發環境映像檔來存取此用戶端。
 
-Here's what you need to do:
+以下是您需要做的：
 
-- Install VirtualBox from the following link: [VirtualBox Download](https://www.virtualbox.org/wiki/Downloads)
+- 從以下連結安裝VirtualBox：[下載VirtualBox](https://www.virtualbox.org/wiki/Downloads)
 
-- Download and install the Windows development environment from this link: [Windows Development Environment](https://developer.microsoft.com/en-us/windows/downloads/virtual-machines/)
+- 從此連結下載並安裝Windows開發環境：[Windows開發環境](https://developer.microsoft.com/en-us/windows/downloads/virtual-machines/)
 
-On your Windows computer (or VirtualBox app with Windows Development image) download and install [Last.fm-Scrubbler-WPF](https://github.com/SHOEGAZEssb/Last.fm-Scrubbler-WPF) - free open-source software available on GitHub. We tested on version 1.28 which you can download here: [https://github.com/SHOEGAZEssb/Last.fm-Scrubbler-WPF/releases/tag/B1.28](https://github.com/SHOEGAZEssb/Last.fm-Scrubbler-WPF/releases/tag/B1.28)
+在您的Windows電腦上（或帶有Windows Development映像的VirtualBox應用程式中）下載並安裝[Last.fm-Scrubbler-WPF](https://github.com/SHOEGAZEssb/Last.fm-Scrubbler-WPF) - GitHub上可用的免費開源軟體。我們在1.28版本上進行了測試，您可以在此處下載：[https://github.com/SHOEGAZEssb/Last.fm-Scrubbler-WPF/releases/tag/B1.28](https://github.com/SHOEGAZEssb/Last.fm-Scrubbler-WPF/releases/tag/B1.28)
 
-![Last.fm-Scrubbler-WPF download page](/docs/howto/exporting-complete-listen-history-from-evermusic-flacbox-to-last-fm/21260c_5d6c84d8bdee485f897aa22586a57f55~mv2.png)
+![Last.fm-Scrubbler-WPF下載頁面](/docs/howto/exporting-complete-listen-history-from-evermusic-flacbox-to-last-fm/21260c_5d6c84d8bdee485f897aa22586a57f55~mv2.png)
 
-Under the 'Assets' section tap on [Last.fm-Scrubbler-WPF-Beta-1.28.zip](http://Last.fm-Scrubbler-WPF-Beta-1.28.zip) to download the installation archive. Unarchive the downloaded file and open the unarchived folder.
+在「Assets」部分點選[Last.fm-Scrubbler-WPF-Beta-1.28.zip](http://Last.fm-Scrubbler-WPF-Beta-1.28.zip)下載安裝壓縮檔。解壓縮下載的檔案並開啟解壓縮後的資料夾。
 
-- IMPORTANT
+- 重要提示
 
-This app is still in beta. The app creators did not get a lot of testing. They recommend trying to scrobble to a test account first and see if the things you want to scrobble do so correctly. Especially if you scrobble a lot of tracks at once. Please be careful with your accounts.
+此應用程式仍處於測試版。應用程式建立者沒有進行大量測試。他們建議先嘗試scrobble到測試帳戶，看看您想要scrobble的內容是否正確。特別是如果您一次scrobble大量曲目。請謹慎使用您的帳戶。
 
-Run Last.fm-Scrubbler-WPF.exe
+執行 Last.fm-Scrubbler-WPF.exe
 
 ![Last.fm-Scrubbler-WPF](/docs/howto/exporting-complete-listen-history-from-evermusic-flacbox-to-last-fm/21260c_a6d8eb1310c34e19a51479af6687e010~mv2.png)
 
-On the main screen of the application, simply tap on 'Not logged in,' located in the bottom left corner, to activate the 'Add account' screen.
+在應用程式的主畫面上，只需點選左下角的「未登入」以啟動「新增帳戶」畫面。
 
-![Add account screen](/docs/howto/exporting-complete-listen-history-from-evermusic-flacbox-to-last-fm/21260c_131ab8d5992246e2b34e52e9524123e2~mv2.png)
+![新增帳戶畫面](/docs/howto/exporting-complete-listen-history-from-evermusic-flacbox-to-last-fm/21260c_131ab8d5992246e2b34e52e9524123e2~mv2.png)
 
-Enter your login credentials.
+輸入您的登入憑證。
 
-![enter login credentials screen](/docs/howto/exporting-complete-listen-history-from-evermusic-flacbox-to-last-fm/21260c_6886c14a62e5476f8119c7402d45ec0c~mv2.png)
+![輸入登入憑證畫面](/docs/howto/exporting-complete-listen-history-from-evermusic-flacbox-to-last-fm/21260c_6886c14a62e5476f8119c7402d45ec0c~mv2.png)
 
-Tap the 'Login' button to add your account.
+點選「Login」按鈕新增您的帳戶。
 
-![Tap the 'Login' button to add your account.](/docs/howto/exporting-complete-listen-history-from-evermusic-flacbox-to-last-fm/21260c_df441de5f5724852bf19fdbfa8642db4~mv2.png)
+![點選Login按鈕新增您的帳戶。](/docs/howto/exporting-complete-listen-history-from-evermusic-flacbox-to-last-fm/21260c_df441de5f5724852bf19fdbfa8642db4~mv2.png)
 
-Open the 'File Parse Scrobbler' tab to start importing CSV file from the Evermusic app.
+開啟「File Parse Scrobbler」標籤頁，開始從Evermusic應用程式匯入CSV檔案。
 
-![Open the 'File Parse Scrobbler' tab to start importing CSV file from the Evermusic app.](/docs/howto/exporting-complete-listen-history-from-evermusic-flacbox-to-last-fm/21260c_ed50cac3149741c59ebccf65dc03843a~mv2.png)
+![開啟File Parse Scrobbler標籤頁，開始從Evermusic應用程式匯入CSV檔案。](/docs/howto/exporting-complete-listen-history-from-evermusic-flacbox-to-last-fm/21260c_ed50cac3149741c59ebccf65dc03843a~mv2.png)
 
-Choose 'Parser: CSV' and tap the 'Settings' button.
+選擇「Parser: CSV」並點選「Settings」按鈕。
 
-On the next screen, you can choose the order of the parameters on your CSV file.
+在下一個畫面上，您可以選擇CSV檔案中參數的順序。
 
-Individual fields can be enclosed by quotes and NEED to be enclosed by quotes if the field contains any of the set delimiters. For example:
+各個欄位可以用引號括起來，如果欄位包含任何設定的分隔符號，則必須用引號括起來。例如：
 
 "ArtistWith, CommaInTheName", Album, Track, 06/13/2016 19:54, AlbumArtist, 00:02:33
 
-So leave all settings by default the only thing you need to change is to enable the checkbox in the 'Has Fields Enclosed In Quotes' field.
+因此保留所有預設設定，您唯一需要更改的是啟用「Has Fields Enclosed In Quotes」欄位中的核取方塊。
 
-Tap 'Save & Close' to apply changes.
+點選「Save & Close」套用變更。
 
-![choose the order of the parameters on your CSV file.](/docs/howto/exporting-complete-listen-history-from-evermusic-flacbox-to-last-fm/21260c_fd30ebaa4ef547b08e5314c6d44c9fc7~mv2.png)
+![選擇CSV檔案中參數的順序。](/docs/howto/exporting-complete-listen-history-from-evermusic-flacbox-to-last-fm/21260c_fd30ebaa4ef547b08e5314c6d44c9fc7~mv2.png)
 
-File parse scrobbling has two modes. They can be changed with the "Scrobbling Mode" ComboBox.
+檔案解析scrobbling有兩種模式。可以透過「Scrobbling Mode」下拉方塊更改。
 
-Normal Mode: In this mode, the tracks will be scrobbled with the timestamp from the parsed scrobble. Only scrobbles newer than 14 days can be scrobbled.
+一般模式：在此模式下，曲目將使用解析的scrobble時間戳記進行scrobble。只有14天內的scrobble才能被scrobble。
 
-Import Mode: In this mode, the tracks will be scrobbled with the timestamp calculated from the "Finish Time" and the selected duration between each track. This allows the scrobbling of the tracks even if the timestamp of the parsed scrobble is older than 14 days. Therefore the first (upmost) track in the csv file will be scrobbled with the "Finish Time".
+匯入模式：在此模式下，曲目將使用從「Finish Time」和每個曲目之間選定的時長計算出的時間戳記進行scrobble。這允許即使解析的scrobble時間戳記超過14天也能scrobble曲目。因此，CSV檔案中的第一個（最上面的）曲目將使用「Finish Time」進行scrobble。
 
-Choose a previously generated CSV file from the Evermusic app in 'File:' field and tap 'Parse'. In some cases, you may see an error alert saying that some scrobbles could not be parsed. It's ok if you have some tracks without complete metadata like Artist Name.
+在「File:」欄位中選擇之前從Evermusic應用程式產生的CSV檔案，然後點選「Parse」。在某些情況下，您可能會看到錯誤提示，說某些scrobble無法解析。如果您有一些缺少完整中繼資料（如藝術家名稱）的曲目，這是正常的。
 
-![some scrobbles could not be parsed](/docs/howto/exporting-complete-listen-history-from-evermusic-flacbox-to-last-fm/21260c_7b7b485f106c4fbe8287c82b65b0cf32~mv2.png)
+![某些scrobble無法解析](/docs/howto/exporting-complete-listen-history-from-evermusic-flacbox-to-last-fm/21260c_7b7b485f106c4fbe8287c82b65b0cf32~mv2.png)
 
-Tap the 'Check All' button to select all parsed tracks.
+點選「Check All」按鈕選擇所有已解析的曲目。
 
-![Tap the 'Check All' button to select all parsed tracks.](/docs/howto/exporting-complete-listen-history-from-evermusic-flacbox-to-last-fm/21260c_8364b0734ea44375a1906de2a6a5391f~mv2.png)
+![點選Check All按鈕選擇所有已解析的曲目。](/docs/howto/exporting-complete-listen-history-from-evermusic-flacbox-to-last-fm/21260c_8364b0734ea44375a1906de2a6a5391f~mv2.png)
 
-Tap the 'Preview' button to check all changes that will be posted to the server.
+點選「Preview」按鈕檢查將要傳送到伺服器的所有變更。
 
-![Tap the 'Preview' button to check all changes that will be posted to the server.](/docs/howto/exporting-complete-listen-history-from-evermusic-flacbox-to-last-fm/21260c_c02268681c6e4b51aa7e48e178d34be0~mv2.png)
+![點選Preview按鈕檢查將要傳送到伺服器的所有變更。](/docs/howto/exporting-complete-listen-history-from-evermusic-flacbox-to-last-fm/21260c_c02268681c6e4b51aa7e48e178d34be0~mv2.png)
 
-Tap the 'Scrobble' button to upload all changes to the server.
+點選「Scrobble」按鈕將所有變更上傳到伺服器。
 
-![Tap the 'Scrobble' button to upload all changes to the server.](/docs/howto/exporting-complete-listen-history-from-evermusic-flacbox-to-last-fm/21260c_5e1aeac472344d1899c8103b04922a7e~mv2.png)
+![點選Scrobble按鈕將所有變更上傳到伺服器。](/docs/howto/exporting-complete-listen-history-from-evermusic-flacbox-to-last-fm/21260c_5e1aeac472344d1899c8103b04922a7e~mv2.png)
 
-Previously the Last.fm-Scrubbler-WPF did not have a scrobbles per day limit. This has now changed since some people used the Scrubbler to scrobble so many tracks, that it caused problems for the Last.fm page. The scrobble limit is currently 2800 scrobbles per day. When you try to scrobble more than that you will get an error message. There are plans to add a "scrobble queue", so if you need to scrobble more than 2800 tracks, they get added to a queue and are automatically scrobbled after some time. You can check how many scrobbles you have left in the user selection view.
+之前Last.fm-Scrubbler-WPF沒有每日scrobble限制。現在已經改變了，因為一些人使用Scrubbler scrobble了太多曲目，導致Last.fm頁面出現問題。目前scrobble限制為每天2800次。當您嘗試scrobble超過此數量時，將收到錯誤訊息。計畫新增「scrobble佇列」功能，這樣如果您需要scrobble超過2800個曲目，它們將被新增到佇列中，過一段時間後自動scrobble。您可以在使用者選擇檢視中查看剩餘的scrobble次數。
 
-Once all records are successfully uploaded to the server, you'll see a message at the bottom of the app window confirming: 'Successfully scrobbled selected tracks.'
+當所有記錄成功上傳到伺服器後，您將在應用程式視窗底部看到確認訊息：'Successfully scrobbled selected tracks.'
 
 ![Successfully scrobbled selected tracks.](/docs/howto/exporting-complete-listen-history-from-evermusic-flacbox-to-last-fm/21260c_c7c943f9994741eabbbab49de8ed6380~mv2.png)
 
-Now you can open your profile on the [Last.fm](http://Last.fm) page and check all the changes.
+現在您可以在[Last.fm](http://Last.fm)頁面上開啟您的個人資料並檢查所有變更。
 
-![your profile on the Last.fm page](/docs/howto/exporting-complete-listen-history-from-evermusic-flacbox-to-last-fm/21260c_1c065f759f624deea69a814e1b72c8bf~mv2.png)
+![您在Last.fm頁面上的個人資料](/docs/howto/exporting-complete-listen-history-from-evermusic-flacbox-to-last-fm/21260c_1c065f759f624deea69a814e1b72c8bf~mv2.png)
 
 ## 常見問題
 
-{{% details title="Can I scrobble automatically without exporting CSV files?" closed="true" %}}
-Yes. Both Evermusic and Flacbox now support automatic Last.fm scrobbling. See the guide: [How to Scrobble to Last.fm](/docs/howto/how-to-scrobble-your-music-history-from-evermusic-or-flacbox-to-last-fm).
+{{% details title="我可以不匯出CSV檔案而自動scrobble嗎？" closed="true" %}}
+可以。Evermusic和Flacbox現在都支援自動Last.fm scrobble。請參閱指南：[如何Scrobble到Last.fm](/docs/howto/how-to-scrobble-your-music-history-from-evermusic-or-flacbox-to-last-fm)。
 {{% /details %}}
 
-{{% details title="What if my CSV has tracks older than 14 days?" closed="true" %}}
-Use Import Mode in Last.fm-Scrubbler-WPF. It recalculates timestamps from the Finish Time, allowing you to scrobble tracks regardless of their original date.
+{{% details title="如果我的CSV中有超過14天的曲目怎麼辦？" closed="true" %}}
+在Last.fm-Scrubbler-WPF中使用匯入模式。它從Finish Time重新計算時間戳記，允許您不受原始日期限制地scrobble曲目。
 {{% /details %}}
 
-{{% details title="I do not have a Windows computer. Can I still use Last.fm-Scrubbler?" closed="true" %}}
-Yes. Install VirtualBox on your Mac and download the free Windows Development Environment image from Microsoft. Run Last.fm-Scrubbler-WPF inside the virtual machine.
+{{% details title="我沒有Windows電腦。我還能使用Last.fm-Scrubbler嗎？" closed="true" %}}
+可以。在Mac上安裝VirtualBox並從Microsoft下載免費的Windows開發環境映像。在虛擬機器中執行Last.fm-Scrubbler-WPF。
 {{% /details %}}
 
-{{% details title="Why are some scrobbles not parsed?" closed="true" %}}
-Tracks missing essential metadata (like artist name) cannot be parsed. This is expected and does not affect other tracks in the file.
+{{% details title="為什麼某些scrobble沒有被解析？" closed="true" %}}
+缺少必要中繼資料（如藝術家名稱）的曲目無法被解析。這是正常的，不會影響檔案中的其他曲目。
 {{% /details %}}
 
-{{% details title="Is there a daily scrobble limit?" closed="true" %}}
-Yes. Last.fm-Scrubbler-WPF allows up to 2,800 scrobbles per day. If you need to scrobble more, split the process across multiple days.
+{{% details title="有每日scrobble限制嗎？" closed="true" %}}
+有。Last.fm-Scrubbler-WPF允許每天最多2,800次scrobble。如果您需要scrobble更多，請將過程分散到多天進行。
 {{% /details %}}

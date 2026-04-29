@@ -7,150 +7,149 @@ tags: ["evermusic", "flacbox", "нещодавні", "lastfm", "експорт",
 readingTime: 5
 ---
 
-
 {{< author-byline >}}
 
 
-**Коротко:** Export your listening history from Evermusic or Flacbox as a CSV file, then upload it to Last.fm using the free Last.fm-Scrubbler-WPF tool on Windows. Automatic scrobbling is also available natively in both apps.
+**Стисло:** Експортуйте історію прослуховування з Evermusic або Flacbox як CSV-файл, а потім завантажте його на Last.fm за допомогою безкоштовного інструменту Last.fm-Scrubbler-WPF на Windows. Автоматичний скробблінг також доступний нативно в обох додатках.
 
-**Оновлення:** Automatic scrobbling is now available! Learn more here: [/docs/howto/how-to-scrobble-your-music-history-from-evermusic-or-flacbox-to-last-fm](/docs/howto/how-to-scrobble-your-music-history-from-evermusic-or-flacbox-to-last-fm)
+**Оновлення:** Автоматичний скробблінг тепер доступний! Дізнайтеся більше тут: [/docs/howto/how-to-scrobble-your-music-history-from-evermusic-or-flacbox-to-last-fm](/docs/howto/how-to-scrobble-your-music-history-from-evermusic-or-flacbox-to-last-fm)
 
-Scrobbling is a simple way to automatically save basic details like the title and artist of the song you're currently playing to an online service. Later on, you can review your listening history.
+Скробблінг — це простий спосіб автоматично зберігати основні деталі, такі як назва та виконавець пісні, яку ви зараз слухаєте, в онлайн-сервісі. Пізніше ви зможете переглянути свою історію прослуховування.
 
-[Last.fm](https://www.last.fm/home), powered by a music recommender system called "Audioscrobbler," offers this service for free. It creates a detailed profile of your musical taste by recording the tracks you listen to, whether from internet radio stations, your computer, or various portable music devices. You can visit the website later to receive recommendations for new artists or albums that match your music taste.
+[Last.fm](https://www.last.fm/home), який працює на системі рекомендацій музики під назвою Audioscrobbler, пропонує цей сервіс безкоштовно. Він створює детальний профіль вашого музичного смаку, записуючи треки, які ви слухаєте, чи то з інтернет-радіостанцій, вашого комп'ютера чи різних портативних музичних пристроїв. Ви можете відвідати веб-сайт пізніше, щоб отримати рекомендації нових виконавців або альбомів, що відповідають вашому музичному смаку.
 
-You can upload your listening history to [Last.fm](http://Last.fm) from Evermusic and Flacbox apps using a free tool, and we'll walk you through how to do this.
+Ви можете завантажити свою історію прослуховування на [Last.fm](http://Last.fm) з додатків Evermusic та Flacbox за допомогою безкоштовного інструменту, і ми покажемо вам, як це зробити.
 
-Open the 'Music Library' section of the application and scroll to the 'Quick access' section. Tap the 'Recents' menu item.
+Відкрийте розділ «Музична бібліотека» додатку та прокрутіть до розділу «Швидкий доступ». Натисніть пункт меню «Нещодавні».
 
-![music library screen](/docs/howto/exporting-complete-listen-history-from-evermusic-flacbox-to-last-fm/21260c_515ff6fa1fa447d29da56f0998302e4e~mv2.png)
+![екран музичної бібліотеки](/docs/howto/exporting-complete-listen-history-from-evermusic-flacbox-to-last-fm/21260c_515ff6fa1fa447d29da56f0998302e4e~mv2.png)
 
-On the 'Recents' screen tap the 'More' button in the top right corner to activate the 'More actions' menu. Tap the 'Export songs list' menu item.
+На екрані «Нещодавні» натисніть кнопку «Більше» у правому верхньому куті, щоб активувати меню «Більше дій». Натисніть пункт меню «Експорт списку пісень».
 
-![recents screen](/docs/howto/exporting-complete-listen-history-from-evermusic-flacbox-to-last-fm/21260c_762ce17498ed43d2a4402ef0d1fd250b~mv2.png)
+![екран нещодавніх](/docs/howto/exporting-complete-listen-history-from-evermusic-flacbox-to-last-fm/21260c_762ce17498ed43d2a4402ef0d1fd250b~mv2.png)
 
-On the 'Select file format' screen you have the possibility to select the format of the destination file. Available options - CSV, TXT, M3U.
+На екрані «Оберіть формат файлу» ви маєте можливість обрати формат файлу призначення. Доступні варіанти — CSV, TXT, M3U.
 
-![select file format screen](/docs/howto/exporting-complete-listen-history-from-evermusic-flacbox-to-last-fm/21260c_589bfdb833c24877a1c8e3f13d6830fa~mv2.png)
+![екран вибору формату файлу](/docs/howto/exporting-complete-listen-history-from-evermusic-flacbox-to-last-fm/21260c_589bfdb833c24877a1c8e3f13d6830fa~mv2.png)
 
-CSV: This stands for Comma-Separated Values, perfect for organizing your data into a neat table format. In the destination file, you'll find parameters like Artist Name, Album Name, Track Name, Timestamp (the time you listened to the tracks), Album Artist Name, and Track Duration.
+CSV: Це означає Comma-Separated Values, ідеально підходить для організації ваших даних у акуратному табличному форматі. У файлі призначення ви знайдете параметри, такі як Ім'я виконавця, Назва альбому, Назва треку, Мітка часу (час, коли ви слухали треки), Ім'я виконавця альбому та Тривалість треку.
 
-TXT: Here, we're talking about a plain text file. It's simple and straightforward, with parameters including Artist Name, Album Name, Track Name, and Duration.
+TXT: Тут ми говоримо про простий текстовий файл. Він простий і зрозумілий, з параметрами, що включають Ім'я виконавця, Назву альбому, Назву треку та Тривалість.
 
-M3U: This format is essentially the go-to for creating playlists. It's great because you can export your song list and enjoy your tracks on any device, even if you don't have the original files (provided you select the absolute URL for the media files option). In the output file, you'll find parameters such as Duration, Artist Name, Track Name, and Media File Location.
+M3U: Цей формат є основним вибором для створення плейлистів. Він чудовий, тому що ви можете експортувати свій список пісень і насолоджуватися треками на будь-якому пристрої, навіть якщо у вас немає оригінальних файлів (за умови, що ви оберете опцію абсолютної URL-адреси для медіафайлів). У вихідному файлі ви знайдете параметри, такі як Тривалість, Ім'я виконавця, Назва треку та Розташування медіафайлу.
 
-For our task, selecting CSV is the way to go. We'll be using this file with the free software Last.fm-Scrubbler-WPF to upload our listening history to the [Last.fm](http://Last.fm) service. Simply choose CSV and hit the 'Export' button.
+Для нашого завдання вибір CSV — правильний шлях. Ми будемо використовувати цей файл із безкоштовним програмним забезпеченням Last.fm-Scrubbler-WPF для завантаження нашої історії прослуховування до сервісу [Last.fm](http://Last.fm). Просто оберіть CSV і натисніть кнопку «Експорт».
 
-![export completed screen](/docs/howto/exporting-complete-listen-history-from-evermusic-flacbox-to-last-fm/21260c_fb3fcd41b94b468c955283c9e64a5ccd~mv2.png)
+![екран завершення експорту](/docs/howto/exporting-complete-listen-history-from-evermusic-flacbox-to-last-fm/21260c_fb3fcd41b94b468c955283c9e64a5ccd~mv2.png)
 
-After the export is complete, simply tap the 'Show file' button, and the app will reveal the created file in your documents folder. Then, tap the 'More actions' button next to the file name and select the 'Open in' option from the menu. Our next step is to copy the exported file to your desktop computer. You can easily do this by selecting the 'AirDrop' option from the 'Open in' menu.
+Після завершення експорту просто натисніть кнопку «Показати файл», і додаток покаже створений файл у вашій папці документів. Потім натисніть кнопку «Більше дій» поруч з назвою файлу та оберіть опцію «Відкрити в» з меню. Наступний крок — скопіювати експортований файл на ваш настільний комп'ютер. Ви можете легко зробити це, обравши опцію AirDrop з меню «Відкрити в».
 
-![more actions for exported file](/docs/howto/exporting-complete-listen-history-from-evermusic-flacbox-to-last-fm/21260c_f536f740deec4cefbcd90fa5c2c3a492~mv2.png)
+![більше дій для експортованого файлу](/docs/howto/exporting-complete-listen-history-from-evermusic-flacbox-to-last-fm/21260c_f536f740deec4cefbcd90fa5c2c3a492~mv2.png)
 
-Next up, we'll be using a free open-source [Last.FM](http://Last.FM) client which is available on the Windows platform only. This client allows you to efficiently update your listening history on [Last.FM](http://Last.FM) using the CSV file we just exported.
+Далі ми будемо використовувати безкоштовний клієнт з відкритим вихідним кодом [Last.FM](http://Last.FM), який доступний лише на платформі Windows. Цей клієнт дозволяє ефективно оновлювати вашу історію прослуховування на [Last.FM](http://Last.FM) за допомогою CSV-файлу, який ми щойно експортували.
 
-Now, if you're not currently using a Windows computer, don't worry. You can still access this client by installing VirtualBox on your Mac and using the official Windows development environment image file.
+Якщо ви зараз не використовуєте комп'ютер з Windows, не хвилюйтеся. Ви все ще можете отримати доступ до цього клієнта, встановивши VirtualBox на вашому Mac та використовуючи офіційний образ середовища розробки Windows.
 
-Here's what you need to do:
+Ось що вам потрібно зробити:
 
-- Install VirtualBox from the following link: [VirtualBox Download](https://www.virtualbox.org/wiki/Downloads)
+- Встановіть VirtualBox за наступним посиланням: [Завантажити VirtualBox](https://www.virtualbox.org/wiki/Downloads)
 
-- Download and install the Windows development environment from this link: [Windows Development Environment](https://developer.microsoft.com/en-us/windows/downloads/virtual-machines/)
+- Завантажте та встановіть середовище розробки Windows за цим посиланням: [Середовище розробки Windows](https://developer.microsoft.com/en-us/windows/downloads/virtual-machines/)
 
-On your Windows computer (or VirtualBox app with Windows Development image) download and install [Last.fm-Scrubbler-WPF](https://github.com/SHOEGAZEssb/Last.fm-Scrubbler-WPF) - free open-source software available on GitHub. We tested on version 1.28 which you can download here: [https://github.com/SHOEGAZEssb/Last.fm-Scrubbler-WPF/releases/tag/B1.28](https://github.com/SHOEGAZEssb/Last.fm-Scrubbler-WPF/releases/tag/B1.28)
+На вашому комп'ютері з Windows (або в додатку VirtualBox з образом Windows Development) завантажте та встановіть [Last.fm-Scrubbler-WPF](https://github.com/SHOEGAZEssb/Last.fm-Scrubbler-WPF) — безкоштовне програмне забезпечення з відкритим вихідним кодом, доступне на GitHub. Ми тестували на версії 1.28, яку можна завантажити тут: [https://github.com/SHOEGAZEssb/Last.fm-Scrubbler-WPF/releases/tag/B1.28](https://github.com/SHOEGAZEssb/Last.fm-Scrubbler-WPF/releases/tag/B1.28)
 
-![Last.fm-Scrubbler-WPF download page](/docs/howto/exporting-complete-listen-history-from-evermusic-flacbox-to-last-fm/21260c_5d6c84d8bdee485f897aa22586a57f55~mv2.png)
+![Сторінка завантаження Last.fm-Scrubbler-WPF](/docs/howto/exporting-complete-listen-history-from-evermusic-flacbox-to-last-fm/21260c_5d6c84d8bdee485f897aa22586a57f55~mv2.png)
 
-Under the 'Assets' section tap on [Last.fm-Scrubbler-WPF-Beta-1.28.zip](http://Last.fm-Scrubbler-WPF-Beta-1.28.zip) to download the installation archive. Unarchive the downloaded file and open the unarchived folder.
+У розділі 'Assets' натисніть на [Last.fm-Scrubbler-WPF-Beta-1.28.zip](http://Last.fm-Scrubbler-WPF-Beta-1.28.zip), щоб завантажити інсталяційний архів. Розархівуйте завантажений файл і відкрийте розархівовану папку.
 
-- IMPORTANT
+- ВАЖЛИВО
 
-This app is still in beta. The app creators did not get a lot of testing. They recommend trying to scrobble to a test account first and see if the things you want to scrobble do so correctly. Especially if you scrobble a lot of tracks at once. Please be careful with your accounts.
+Цей додаток все ще перебуває в бета-версії. Творці додатку не провели багато тестування. Вони рекомендують спочатку спробувати скробблити на тестовий акаунт і перевірити, чи правильно скробляться потрібні речі. Особливо якщо ви скробблите багато треків одразу. Будь ласка, будьте обережні зі своїми акаунтами.
 
-Run Last.fm-Scrubbler-WPF.exe
+Запустіть Last.fm-Scrubbler-WPF.exe
 
 ![Last.fm-Scrubbler-WPF](/docs/howto/exporting-complete-listen-history-from-evermusic-flacbox-to-last-fm/21260c_a6d8eb1310c34e19a51479af6687e010~mv2.png)
 
-On the main screen of the application, simply tap on 'Not logged in,' located in the bottom left corner, to activate the 'Add account' screen.
+На головному екрані додатку просто натисніть «Не увійшли» в нижньому лівому куті, щоб активувати екран «Додати акаунт».
 
-![Add account screen](/docs/howto/exporting-complete-listen-history-from-evermusic-flacbox-to-last-fm/21260c_131ab8d5992246e2b34e52e9524123e2~mv2.png)
+![Екран додавання акаунту](/docs/howto/exporting-complete-listen-history-from-evermusic-flacbox-to-last-fm/21260c_131ab8d5992246e2b34e52e9524123e2~mv2.png)
 
-Enter your login credentials.
+Введіть свої облікові дані для входу.
 
-![enter login credentials screen](/docs/howto/exporting-complete-listen-history-from-evermusic-flacbox-to-last-fm/21260c_6886c14a62e5476f8119c7402d45ec0c~mv2.png)
+![екран введення облікових даних](/docs/howto/exporting-complete-listen-history-from-evermusic-flacbox-to-last-fm/21260c_6886c14a62e5476f8119c7402d45ec0c~mv2.png)
 
-Tap the 'Login' button to add your account.
+Натисніть кнопку 'Login', щоб додати свій акаунт.
 
-![Tap the 'Login' button to add your account.](/docs/howto/exporting-complete-listen-history-from-evermusic-flacbox-to-last-fm/21260c_df441de5f5724852bf19fdbfa8642db4~mv2.png)
+![Натисніть кнопку Login, щоб додати свій акаунт.](/docs/howto/exporting-complete-listen-history-from-evermusic-flacbox-to-last-fm/21260c_df441de5f5724852bf19fdbfa8642db4~mv2.png)
 
-Open the 'File Parse Scrobbler' tab to start importing CSV file from the Evermusic app.
+Відкрийте вкладку 'File Parse Scrobbler', щоб почати імпорт CSV-файлу з додатку Evermusic.
 
-![Open the 'File Parse Scrobbler' tab to start importing CSV file from the Evermusic app.](/docs/howto/exporting-complete-listen-history-from-evermusic-flacbox-to-last-fm/21260c_ed50cac3149741c59ebccf65dc03843a~mv2.png)
+![Відкрийте вкладку File Parse Scrobbler, щоб почати імпорт CSV-файлу з додатку Evermusic.](/docs/howto/exporting-complete-listen-history-from-evermusic-flacbox-to-last-fm/21260c_ed50cac3149741c59ebccf65dc03843a~mv2.png)
 
-Choose 'Parser: CSV' and tap the 'Settings' button.
+Оберіть 'Parser: CSV' та натисніть кнопку 'Settings'.
 
-On the next screen, you can choose the order of the parameters on your CSV file.
+На наступному екрані ви можете обрати порядок параметрів у вашому CSV-файлі.
 
-Individual fields can be enclosed by quotes and NEED to be enclosed by quotes if the field contains any of the set delimiters. For example:
+Окремі поля можуть бути взяті в лапки і ПОВИННІ бути взяті в лапки, якщо поле містить будь-який із встановлених роздільників. Наприклад:
 
 "ArtistWith, CommaInTheName", Album, Track, 06/13/2016 19:54, AlbumArtist, 00:02:33
 
-So leave all settings by default the only thing you need to change is to enable the checkbox in the 'Has Fields Enclosed In Quotes' field.
+Отже, залиште всі налаштування за замовчуванням; єдине, що потрібно змінити — увімкнути прапорець у полі 'Has Fields Enclosed In Quotes'.
 
-Tap 'Save & Close' to apply changes.
+Натисніть 'Save & Close', щоб застосувати зміни.
 
-![choose the order of the parameters on your CSV file.](/docs/howto/exporting-complete-listen-history-from-evermusic-flacbox-to-last-fm/21260c_fd30ebaa4ef547b08e5314c6d44c9fc7~mv2.png)
+![оберіть порядок параметрів у вашому CSV-файлі.](/docs/howto/exporting-complete-listen-history-from-evermusic-flacbox-to-last-fm/21260c_fd30ebaa4ef547b08e5314c6d44c9fc7~mv2.png)
 
-File parse scrobbling has two modes. They can be changed with the "Scrobbling Mode" ComboBox.
+Скробблінг з аналізу файлу має два режими. Їх можна змінити за допомогою ComboBox «Scrobbling Mode».
 
-Normal Mode: In this mode, the tracks will be scrobbled with the timestamp from the parsed scrobble. Only scrobbles newer than 14 days can be scrobbled.
+Звичайний режим: У цьому режимі треки будуть скробблитися з міткою часу з розібраного скроббла. Тільки скроббли, новіші за 14 днів, можуть бути скроббленими.
 
-Import Mode: In this mode, the tracks will be scrobbled with the timestamp calculated from the "Finish Time" and the selected duration between each track. This allows the scrobbling of the tracks even if the timestamp of the parsed scrobble is older than 14 days. Therefore the first (upmost) track in the csv file will be scrobbled with the "Finish Time".
+Режим імпорту: У цьому режимі треки будуть скробблитися з міткою часу, розрахованою з «Finish Time» та обраної тривалості між кожним треком. Це дозволяє скробблити треки, навіть якщо мітка часу розібраного скроббла старіша за 14 днів. Тому перший (найверхній) трек у CSV-файлі буде скробблений з «Finish Time».
 
-Choose a previously generated CSV file from the Evermusic app in 'File:' field and tap 'Parse'. In some cases, you may see an error alert saying that some scrobbles could not be parsed. It's ok if you have some tracks without complete metadata like Artist Name.
+Оберіть раніше створений CSV-файл з додатку Evermusic у полі 'File:' та натисніть 'Parse'. У деяких випадках ви можете побачити повідомлення про помилку, що деякі скроббли не вдалося розібрати. Це нормально, якщо у вас є деякі треки без повних метаданих, таких як Ім'я виконавця.
 
-![some scrobbles could not be parsed](/docs/howto/exporting-complete-listen-history-from-evermusic-flacbox-to-last-fm/21260c_7b7b485f106c4fbe8287c82b65b0cf32~mv2.png)
+![деякі скроббли не вдалося розібрати](/docs/howto/exporting-complete-listen-history-from-evermusic-flacbox-to-last-fm/21260c_7b7b485f106c4fbe8287c82b65b0cf32~mv2.png)
 
-Tap the 'Check All' button to select all parsed tracks.
+Натисніть кнопку 'Check All', щоб вибрати всі розібрані треки.
 
-![Tap the 'Check All' button to select all parsed tracks.](/docs/howto/exporting-complete-listen-history-from-evermusic-flacbox-to-last-fm/21260c_8364b0734ea44375a1906de2a6a5391f~mv2.png)
+![Натисніть кнопку Check All, щоб вибрати всі розібрані треки.](/docs/howto/exporting-complete-listen-history-from-evermusic-flacbox-to-last-fm/21260c_8364b0734ea44375a1906de2a6a5391f~mv2.png)
 
-Tap the 'Preview' button to check all changes that will be posted to the server.
+Натисніть кнопку 'Preview', щоб перевірити всі зміни, які будуть відправлені на сервер.
 
-![Tap the 'Preview' button to check all changes that will be posted to the server.](/docs/howto/exporting-complete-listen-history-from-evermusic-flacbox-to-last-fm/21260c_c02268681c6e4b51aa7e48e178d34be0~mv2.png)
+![Натисніть кнопку Preview, щоб перевірити всі зміни, які будуть відправлені на сервер.](/docs/howto/exporting-complete-listen-history-from-evermusic-flacbox-to-last-fm/21260c_c02268681c6e4b51aa7e48e178d34be0~mv2.png)
 
-Tap the 'Scrobble' button to upload all changes to the server.
+Натисніть кнопку 'Scrobble', щоб завантажити всі зміни на сервер.
 
-![Tap the 'Scrobble' button to upload all changes to the server.](/docs/howto/exporting-complete-listen-history-from-evermusic-flacbox-to-last-fm/21260c_5e1aeac472344d1899c8103b04922a7e~mv2.png)
+![Натисніть кнопку Scrobble, щоб завантажити всі зміни на сервер.](/docs/howto/exporting-complete-listen-history-from-evermusic-flacbox-to-last-fm/21260c_5e1aeac472344d1899c8103b04922a7e~mv2.png)
 
-Previously the Last.fm-Scrubbler-WPF did not have a scrobbles per day limit. This has now changed since some people used the Scrubbler to scrobble so many tracks, that it caused problems for the Last.fm page. The scrobble limit is currently 2800 scrobbles per day. When you try to scrobble more than that you will get an error message. There are plans to add a "scrobble queue", so if you need to scrobble more than 2800 tracks, they get added to a queue and are automatically scrobbled after some time. You can check how many scrobbles you have left in the user selection view.
+Раніше Last.fm-Scrubbler-WPF не мав денного ліміту скробблів. Тепер це змінилося, оскільки деякі люди використовували Scrubbler для скробблінгу стількох треків, що це спричиняло проблеми для сторінки Last.fm. Ліміт скробблів наразі становить 2800 скробблів на день. Коли ви спробуєте скробблити більше, ви отримаєте повідомлення про помилку. Планується додати «чергу скробблів», тому якщо вам потрібно скробблити більше 2800 треків, вони будуть додані до черги та автоматично скроббляться через деякий час. Ви можете перевірити, скільки скробблів у вас залишилося, у вигляді вибору користувача.
 
-Once all records are successfully uploaded to the server, you'll see a message at the bottom of the app window confirming: 'Successfully scrobbled selected tracks.'
+Коли всі записи успішно завантажені на сервер, ви побачите повідомлення внизу вікна додатку, що підтверджує: 'Successfully scrobbled selected tracks.'
 
 ![Successfully scrobbled selected tracks.](/docs/howto/exporting-complete-listen-history-from-evermusic-flacbox-to-last-fm/21260c_c7c943f9994741eabbbab49de8ed6380~mv2.png)
 
-Now you can open your profile on the [Last.fm](http://Last.fm) page and check all the changes.
+Тепер ви можете відкрити свій профіль на сторінці [Last.fm](http://Last.fm) та перевірити всі зміни.
 
-![your profile on the Last.fm page](/docs/howto/exporting-complete-listen-history-from-evermusic-flacbox-to-last-fm/21260c_1c065f759f624deea69a814e1b72c8bf~mv2.png)
+![ваш профіль на сторінці Last.fm](/docs/howto/exporting-complete-listen-history-from-evermusic-flacbox-to-last-fm/21260c_1c065f759f624deea69a814e1b72c8bf~mv2.png)
 
 ## Часті запитання
 
-{{% details title="Can I scrobble automatically without exporting CSV files?" closed="true" %}}
-Yes. Both Evermusic and Flacbox now support automatic Last.fm scrobbling. See the guide: [How to Scrobble to Last.fm](/docs/howto/how-to-scrobble-your-music-history-from-evermusic-or-flacbox-to-last-fm).
+{{% details title="Чи можу я скробблити автоматично без експорту CSV-файлів?" closed="true" %}}
+Так. І Evermusic, і Flacbox тепер підтримують автоматичний скробблінг на Last.fm. Дивіться посібник: [Як скробблити на Last.fm](/docs/howto/how-to-scrobble-your-music-history-from-evermusic-or-flacbox-to-last-fm).
 {{% /details %}}
 
-{{% details title="What if my CSV has tracks older than 14 days?" closed="true" %}}
-Use Import Mode in Last.fm-Scrubbler-WPF. It recalculates timestamps from the Finish Time, allowing you to scrobble tracks regardless of their original date.
+{{% details title="Що робити, якщо мій CSV має треки старіші за 14 днів?" closed="true" %}}
+Використовуйте Режим імпорту в Last.fm-Scrubbler-WPF. Він перераховує мітки часу з Finish Time, дозволяючи скробблити треки незалежно від їх оригінальної дати.
 {{% /details %}}
 
-{{% details title="I do not have a Windows computer. Can I still use Last.fm-Scrubbler?" closed="true" %}}
-Yes. Install VirtualBox on your Mac and download the free Windows Development Environment image from Microsoft. Run Last.fm-Scrubbler-WPF inside the virtual machine.
+{{% details title="У мене немає комп'ютера з Windows. Чи можу я все одно використовувати Last.fm-Scrubbler?" closed="true" %}}
+Так. Встановіть VirtualBox на ваш Mac та завантажте безкоштовний образ Середовища розробки Windows від Microsoft. Запустіть Last.fm-Scrubbler-WPF всередині віртуальної машини.
 {{% /details %}}
 
-{{% details title="Why are some scrobbles not parsed?" closed="true" %}}
-Tracks missing essential metadata (like artist name) cannot be parsed. This is expected and does not affect other tracks in the file.
+{{% details title="Чому деякі скроббли не були розібрані?" closed="true" %}}
+Треки, у яких відсутні важливі метадані (наприклад, ім'я виконавця), не можуть бути розібрані. Це очікувано і не впливає на інші треки у файлі.
 {{% /details %}}
 
-{{% details title="Is there a daily scrobble limit?" closed="true" %}}
-Yes. Last.fm-Scrubbler-WPF allows up to 2,800 scrobbles per day. If you need to scrobble more, split the process across multiple days.
+{{% details title="Чи є денний ліміт скробблів?" closed="true" %}}
+Так. Last.fm-Scrubbler-WPF дозволяє до 2 800 скробблів на день. Якщо вам потрібно скробблити більше, розподіліть процес на кілька днів.
 {{% /details %}}

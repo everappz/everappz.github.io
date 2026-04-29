@@ -7,150 +7,149 @@ tags: ["evermusic", "flacbox", "gần đây", "lastfm", "xuất", "scrobbler"]
 readingTime: 5
 ---
 
-
 {{< author-byline >}}
 
 
-**Tóm tắt:** Export your listening history from Evermusic or Flacbox as a CSV file, then upload it to Last.fm using the free Last.fm-Scrubbler-WPF tool on Windows. Automatic scrobbling is also available natively in both apps.
+**Tóm tắt:** Xuất lịch sử nghe nhạc từ Evermusic hoặc Flacbox dưới dạng tệp CSV, sau đó tải lên Last.fm bằng công cụ miễn phí Last.fm-Scrubbler-WPF trên Windows. Scrobble tự động cũng có sẵn trong cả hai ứng dụng.
 
-**Cập nhật:** Automatic scrobbling is now available! Learn more here: [/docs/howto/how-to-scrobble-your-music-history-from-evermusic-or-flacbox-to-last-fm](/docs/howto/how-to-scrobble-your-music-history-from-evermusic-or-flacbox-to-last-fm)
+**Cập nhật:** Scrobble tự động hiện đã có sẵn! Tìm hiểu thêm tại đây: [/docs/howto/how-to-scrobble-your-music-history-from-evermusic-or-flacbox-to-last-fm](/docs/howto/how-to-scrobble-your-music-history-from-evermusic-or-flacbox-to-last-fm)
 
-Scrobbling is a simple way to automatically save basic details like the title and artist of the song you're currently playing to an online service. Later on, you can review your listening history.
+Scrobbling là cách đơn giản để tự động lưu các thông tin cơ bản như tiêu đề và nghệ sĩ của bài hát bạn đang phát vào một dịch vụ trực tuyến. Sau đó, bạn có thể xem lại lịch sử nghe nhạc của mình.
 
-[Last.fm](https://www.last.fm/home), powered by a music recommender system called "Audioscrobbler," offers this service for free. It creates a detailed profile of your musical taste by recording the tracks you listen to, whether from internet radio stations, your computer, or various portable music devices. You can visit the website later to receive recommendations for new artists or albums that match your music taste.
+[Last.fm](https://www.last.fm/home), được hỗ trợ bởi hệ thống gợi ý âm nhạc có tên Audioscrobbler, cung cấp dịch vụ này miễn phí. Nó tạo ra một hồ sơ chi tiết về sở thích âm nhạc của bạn bằng cách ghi lại các bản nhạc bạn nghe, dù là từ các đài phát thanh internet, máy tính hay các thiết bị nghe nhạc di động khác nhau. Bạn có thể truy cập trang web sau đó để nhận các gợi ý nghệ sĩ hoặc album mới phù hợp với sở thích âm nhạc của bạn.
 
-You can upload your listening history to [Last.fm](http://Last.fm) from Evermusic and Flacbox apps using a free tool, and we'll walk you through how to do this.
+Bạn có thể tải lịch sử nghe nhạc lên [Last.fm](http://Last.fm) từ ứng dụng Evermusic và Flacbox bằng công cụ miễn phí, và chúng tôi sẽ hướng dẫn bạn cách thực hiện.
 
-Open the 'Music Library' section of the application and scroll to the 'Quick access' section. Tap the 'Recents' menu item.
+Mở phần 'Thư viện nhạc' của ứng dụng và cuộn đến phần 'Truy cập nhanh'. Nhấn vào mục menu 'Gần đây'.
 
-![music library screen](/docs/howto/exporting-complete-listen-history-from-evermusic-flacbox-to-last-fm/21260c_515ff6fa1fa447d29da56f0998302e4e~mv2.png)
+![màn hình thư viện nhạc](/docs/howto/exporting-complete-listen-history-from-evermusic-flacbox-to-last-fm/21260c_515ff6fa1fa447d29da56f0998302e4e~mv2.png)
 
-On the 'Recents' screen tap the 'More' button in the top right corner to activate the 'More actions' menu. Tap the 'Export songs list' menu item.
+Trên màn hình 'Gần đây', nhấn nút 'Thêm' ở góc trên bên phải để kích hoạt menu 'Thêm hành động'. Nhấn vào mục menu 'Xuất danh sách bài hát'.
 
-![recents screen](/docs/howto/exporting-complete-listen-history-from-evermusic-flacbox-to-last-fm/21260c_762ce17498ed43d2a4402ef0d1fd250b~mv2.png)
+![màn hình gần đây](/docs/howto/exporting-complete-listen-history-from-evermusic-flacbox-to-last-fm/21260c_762ce17498ed43d2a4402ef0d1fd250b~mv2.png)
 
-On the 'Select file format' screen you have the possibility to select the format of the destination file. Available options - CSV, TXT, M3U.
+Trên màn hình 'Chọn định dạng tệp', bạn có thể chọn định dạng của tệp đích. Các tùy chọn có sẵn - CSV, TXT, M3U.
 
-![select file format screen](/docs/howto/exporting-complete-listen-history-from-evermusic-flacbox-to-last-fm/21260c_589bfdb833c24877a1c8e3f13d6830fa~mv2.png)
+![màn hình chọn định dạng tệp](/docs/howto/exporting-complete-listen-history-from-evermusic-flacbox-to-last-fm/21260c_589bfdb833c24877a1c8e3f13d6830fa~mv2.png)
 
-CSV: This stands for Comma-Separated Values, perfect for organizing your data into a neat table format. In the destination file, you'll find parameters like Artist Name, Album Name, Track Name, Timestamp (the time you listened to the tracks), Album Artist Name, and Track Duration.
+CSV: Viết tắt của Comma-Separated Values, hoàn hảo để sắp xếp dữ liệu của bạn thành định dạng bảng gọn gàng. Trong tệp đích, bạn sẽ tìm thấy các tham số như Tên nghệ sĩ, Tên album, Tên bản nhạc, Dấu thời gian (thời điểm bạn nghe các bản nhạc), Tên nghệ sĩ album và Thời lượng bản nhạc.
 
-TXT: Here, we're talking about a plain text file. It's simple and straightforward, with parameters including Artist Name, Album Name, Track Name, and Duration.
+TXT: Ở đây chúng ta nói về tệp văn bản thuần túy. Đơn giản và dễ hiểu, với các tham số bao gồm Tên nghệ sĩ, Tên album, Tên bản nhạc và Thời lượng.
 
-M3U: This format is essentially the go-to for creating playlists. It's great because you can export your song list and enjoy your tracks on any device, even if you don't have the original files (provided you select the absolute URL for the media files option). In the output file, you'll find parameters such as Duration, Artist Name, Track Name, and Media File Location.
+M3U: Định dạng này là lựa chọn hàng đầu để tạo danh sách phát. Rất tuyệt vì bạn có thể xuất danh sách bài hát và thưởng thức các bản nhạc trên bất kỳ thiết bị nào, ngay cả khi bạn không có tệp gốc (miễn là bạn chọn tùy chọn URL tuyệt đối cho tệp phương tiện). Trong tệp đầu ra, bạn sẽ tìm thấy các tham số như Thời lượng, Tên nghệ sĩ, Tên bản nhạc và Vị trí tệp phương tiện.
 
-For our task, selecting CSV is the way to go. We'll be using this file with the free software Last.fm-Scrubbler-WPF to upload our listening history to the [Last.fm](http://Last.fm) service. Simply choose CSV and hit the 'Export' button.
+Đối với nhiệm vụ của chúng ta, chọn CSV là lựa chọn đúng đắn. Chúng ta sẽ sử dụng tệp này với phần mềm miễn phí Last.fm-Scrubbler-WPF để tải lịch sử nghe nhạc lên dịch vụ [Last.fm](http://Last.fm). Chỉ cần chọn CSV và nhấn nút 'Xuất'.
 
-![export completed screen](/docs/howto/exporting-complete-listen-history-from-evermusic-flacbox-to-last-fm/21260c_fb3fcd41b94b468c955283c9e64a5ccd~mv2.png)
+![màn hình xuất hoàn tất](/docs/howto/exporting-complete-listen-history-from-evermusic-flacbox-to-last-fm/21260c_fb3fcd41b94b468c955283c9e64a5ccd~mv2.png)
 
-After the export is complete, simply tap the 'Show file' button, and the app will reveal the created file in your documents folder. Then, tap the 'More actions' button next to the file name and select the 'Open in' option from the menu. Our next step is to copy the exported file to your desktop computer. You can easily do this by selecting the 'AirDrop' option from the 'Open in' menu.
+Sau khi xuất hoàn tất, chỉ cần nhấn nút 'Hiển thị tệp', ứng dụng sẽ hiển thị tệp đã tạo trong thư mục tài liệu của bạn. Sau đó, nhấn nút 'Thêm hành động' bên cạnh tên tệp và chọn tùy chọn 'Mở trong' từ menu. Bước tiếp theo là sao chép tệp đã xuất sang máy tính để bàn của bạn. Bạn có thể dễ dàng thực hiện bằng cách chọn tùy chọn AirDrop từ menu 'Mở trong'.
 
-![more actions for exported file](/docs/howto/exporting-complete-listen-history-from-evermusic-flacbox-to-last-fm/21260c_f536f740deec4cefbcd90fa5c2c3a492~mv2.png)
+![thêm hành động cho tệp đã xuất](/docs/howto/exporting-complete-listen-history-from-evermusic-flacbox-to-last-fm/21260c_f536f740deec4cefbcd90fa5c2c3a492~mv2.png)
 
-Next up, we'll be using a free open-source [Last.FM](http://Last.FM) client which is available on the Windows platform only. This client allows you to efficiently update your listening history on [Last.FM](http://Last.FM) using the CSV file we just exported.
+Tiếp theo, chúng ta sẽ sử dụng một ứng dụng khách mã nguồn mở miễn phí của [Last.FM](http://Last.FM) chỉ có trên nền tảng Windows. Ứng dụng khách này cho phép bạn cập nhật hiệu quả lịch sử nghe nhạc trên [Last.FM](http://Last.FM) bằng tệp CSV mà chúng ta vừa xuất.
 
-Now, if you're not currently using a Windows computer, don't worry. You can still access this client by installing VirtualBox on your Mac and using the official Windows development environment image file.
+Nếu bạn hiện không sử dụng máy tính Windows, đừng lo lắng. Bạn vẫn có thể truy cập ứng dụng khách này bằng cách cài đặt VirtualBox trên Mac và sử dụng tệp hình ảnh môi trường phát triển Windows chính thức.
 
-Here's what you need to do:
+Đây là những gì bạn cần làm:
 
-- Install VirtualBox from the following link: [VirtualBox Download](https://www.virtualbox.org/wiki/Downloads)
+- Cài đặt VirtualBox từ liên kết sau: [Tải VirtualBox](https://www.virtualbox.org/wiki/Downloads)
 
-- Download and install the Windows development environment from this link: [Windows Development Environment](https://developer.microsoft.com/en-us/windows/downloads/virtual-machines/)
+- Tải và cài đặt môi trường phát triển Windows từ liên kết này: [Môi trường phát triển Windows](https://developer.microsoft.com/en-us/windows/downloads/virtual-machines/)
 
-On your Windows computer (or VirtualBox app with Windows Development image) download and install [Last.fm-Scrubbler-WPF](https://github.com/SHOEGAZEssb/Last.fm-Scrubbler-WPF) - free open-source software available on GitHub. We tested on version 1.28 which you can download here: [https://github.com/SHOEGAZEssb/Last.fm-Scrubbler-WPF/releases/tag/B1.28](https://github.com/SHOEGAZEssb/Last.fm-Scrubbler-WPF/releases/tag/B1.28)
+Trên máy tính Windows của bạn (hoặc ứng dụng VirtualBox với hình ảnh Windows Development) tải và cài đặt [Last.fm-Scrubbler-WPF](https://github.com/SHOEGAZEssb/Last.fm-Scrubbler-WPF) - phần mềm mã nguồn mở miễn phí có trên GitHub. Chúng tôi đã thử nghiệm trên phiên bản 1.28 mà bạn có thể tải tại đây: [https://github.com/SHOEGAZEssb/Last.fm-Scrubbler-WPF/releases/tag/B1.28](https://github.com/SHOEGAZEssb/Last.fm-Scrubbler-WPF/releases/tag/B1.28)
 
-![Last.fm-Scrubbler-WPF download page](/docs/howto/exporting-complete-listen-history-from-evermusic-flacbox-to-last-fm/21260c_5d6c84d8bdee485f897aa22586a57f55~mv2.png)
+![Trang tải Last.fm-Scrubbler-WPF](/docs/howto/exporting-complete-listen-history-from-evermusic-flacbox-to-last-fm/21260c_5d6c84d8bdee485f897aa22586a57f55~mv2.png)
 
-Under the 'Assets' section tap on [Last.fm-Scrubbler-WPF-Beta-1.28.zip](http://Last.fm-Scrubbler-WPF-Beta-1.28.zip) to download the installation archive. Unarchive the downloaded file and open the unarchived folder.
+Trong phần 'Assets', nhấn vào [Last.fm-Scrubbler-WPF-Beta-1.28.zip](http://Last.fm-Scrubbler-WPF-Beta-1.28.zip) để tải tệp cài đặt nén. Giải nén tệp đã tải và mở thư mục đã giải nén.
 
-- IMPORTANT
+- QUAN TRỌNG
 
-This app is still in beta. The app creators did not get a lot of testing. They recommend trying to scrobble to a test account first and see if the things you want to scrobble do so correctly. Especially if you scrobble a lot of tracks at once. Please be careful with your accounts.
+Ứng dụng này vẫn đang trong giai đoạn beta. Các nhà phát triển ứng dụng chưa thực hiện nhiều thử nghiệm. Họ khuyến nghị thử scrobble vào tài khoản thử nghiệm trước và xem những thứ bạn muốn scrobble có hoạt động chính xác không. Đặc biệt nếu bạn scrobble nhiều bản nhạc cùng lúc. Vui lòng cẩn thận với tài khoản của bạn.
 
-Run Last.fm-Scrubbler-WPF.exe
+Chạy Last.fm-Scrubbler-WPF.exe
 
 ![Last.fm-Scrubbler-WPF](/docs/howto/exporting-complete-listen-history-from-evermusic-flacbox-to-last-fm/21260c_a6d8eb1310c34e19a51479af6687e010~mv2.png)
 
-On the main screen of the application, simply tap on 'Not logged in,' located in the bottom left corner, to activate the 'Add account' screen.
+Trên màn hình chính của ứng dụng, chỉ cần nhấn vào 'Chưa đăng nhập' ở góc dưới bên trái để kích hoạt màn hình 'Thêm tài khoản'.
 
-![Add account screen](/docs/howto/exporting-complete-listen-history-from-evermusic-flacbox-to-last-fm/21260c_131ab8d5992246e2b34e52e9524123e2~mv2.png)
+![Màn hình thêm tài khoản](/docs/howto/exporting-complete-listen-history-from-evermusic-flacbox-to-last-fm/21260c_131ab8d5992246e2b34e52e9524123e2~mv2.png)
 
-Enter your login credentials.
+Nhập thông tin đăng nhập của bạn.
 
-![enter login credentials screen](/docs/howto/exporting-complete-listen-history-from-evermusic-flacbox-to-last-fm/21260c_6886c14a62e5476f8119c7402d45ec0c~mv2.png)
+![màn hình nhập thông tin đăng nhập](/docs/howto/exporting-complete-listen-history-from-evermusic-flacbox-to-last-fm/21260c_6886c14a62e5476f8119c7402d45ec0c~mv2.png)
 
-Tap the 'Login' button to add your account.
+Nhấn nút 'Login' để thêm tài khoản của bạn.
 
-![Tap the 'Login' button to add your account.](/docs/howto/exporting-complete-listen-history-from-evermusic-flacbox-to-last-fm/21260c_df441de5f5724852bf19fdbfa8642db4~mv2.png)
+![Nhấn nút Login để thêm tài khoản của bạn.](/docs/howto/exporting-complete-listen-history-from-evermusic-flacbox-to-last-fm/21260c_df441de5f5724852bf19fdbfa8642db4~mv2.png)
 
-Open the 'File Parse Scrobbler' tab to start importing CSV file from the Evermusic app.
+Mở tab 'File Parse Scrobbler' để bắt đầu nhập tệp CSV từ ứng dụng Evermusic.
 
-![Open the 'File Parse Scrobbler' tab to start importing CSV file from the Evermusic app.](/docs/howto/exporting-complete-listen-history-from-evermusic-flacbox-to-last-fm/21260c_ed50cac3149741c59ebccf65dc03843a~mv2.png)
+![Mở tab File Parse Scrobbler để bắt đầu nhập tệp CSV từ ứng dụng Evermusic.](/docs/howto/exporting-complete-listen-history-from-evermusic-flacbox-to-last-fm/21260c_ed50cac3149741c59ebccf65dc03843a~mv2.png)
 
-Choose 'Parser: CSV' and tap the 'Settings' button.
+Chọn 'Parser: CSV' và nhấn nút 'Settings'.
 
-On the next screen, you can choose the order of the parameters on your CSV file.
+Trên màn hình tiếp theo, bạn có thể chọn thứ tự các tham số trong tệp CSV của bạn.
 
-Individual fields can be enclosed by quotes and NEED to be enclosed by quotes if the field contains any of the set delimiters. For example:
+Các trường riêng lẻ có thể được bao quanh bằng dấu ngoặc kép và CẦN được bao quanh bằng dấu ngoặc kép nếu trường chứa bất kỳ ký tự phân cách nào đã đặt. Ví dụ:
 
 "ArtistWith, CommaInTheName", Album, Track, 06/13/2016 19:54, AlbumArtist, 00:02:33
 
-So leave all settings by default the only thing you need to change is to enable the checkbox in the 'Has Fields Enclosed In Quotes' field.
+Vì vậy, giữ nguyên tất cả cài đặt mặc định; điều duy nhất bạn cần thay đổi là bật hộp kiểm trong trường 'Has Fields Enclosed In Quotes'.
 
-Tap 'Save & Close' to apply changes.
+Nhấn 'Save & Close' để áp dụng thay đổi.
 
-![choose the order of the parameters on your CSV file.](/docs/howto/exporting-complete-listen-history-from-evermusic-flacbox-to-last-fm/21260c_fd30ebaa4ef547b08e5314c6d44c9fc7~mv2.png)
+![chọn thứ tự các tham số trong tệp CSV của bạn.](/docs/howto/exporting-complete-listen-history-from-evermusic-flacbox-to-last-fm/21260c_fd30ebaa4ef547b08e5314c6d44c9fc7~mv2.png)
 
-File parse scrobbling has two modes. They can be changed with the "Scrobbling Mode" ComboBox.
+Scrobble phân tích tệp có hai chế độ. Chúng có thể được thay đổi bằng ComboBox 'Scrobbling Mode'.
 
-Normal Mode: In this mode, the tracks will be scrobbled with the timestamp from the parsed scrobble. Only scrobbles newer than 14 days can be scrobbled.
+Chế độ Bình thường: Trong chế độ này, các bản nhạc sẽ được scrobble với dấu thời gian từ scrobble đã phân tích. Chỉ các scrobble mới hơn 14 ngày mới có thể được scrobble.
 
-Import Mode: In this mode, the tracks will be scrobbled with the timestamp calculated from the "Finish Time" and the selected duration between each track. This allows the scrobbling of the tracks even if the timestamp of the parsed scrobble is older than 14 days. Therefore the first (upmost) track in the csv file will be scrobbled with the "Finish Time".
+Chế độ Nhập: Trong chế độ này, các bản nhạc sẽ được scrobble với dấu thời gian được tính từ 'Finish Time' và thời lượng đã chọn giữa mỗi bản nhạc. Điều này cho phép scrobble các bản nhạc ngay cả khi dấu thời gian của scrobble đã phân tích cũ hơn 14 ngày. Do đó, bản nhạc đầu tiên (trên cùng) trong tệp CSV sẽ được scrobble với 'Finish Time'.
 
-Choose a previously generated CSV file from the Evermusic app in 'File:' field and tap 'Parse'. In some cases, you may see an error alert saying that some scrobbles could not be parsed. It's ok if you have some tracks without complete metadata like Artist Name.
+Chọn tệp CSV đã tạo trước đó từ ứng dụng Evermusic trong trường 'File:' và nhấn 'Parse'. Trong một số trường hợp, bạn có thể thấy cảnh báo lỗi nói rằng một số scrobble không thể phân tích được. Không sao nếu bạn có một số bản nhạc thiếu dữ liệu đầy đủ như Tên nghệ sĩ.
 
-![some scrobbles could not be parsed](/docs/howto/exporting-complete-listen-history-from-evermusic-flacbox-to-last-fm/21260c_7b7b485f106c4fbe8287c82b65b0cf32~mv2.png)
+![một số scrobble không thể phân tích được](/docs/howto/exporting-complete-listen-history-from-evermusic-flacbox-to-last-fm/21260c_7b7b485f106c4fbe8287c82b65b0cf32~mv2.png)
 
-Tap the 'Check All' button to select all parsed tracks.
+Nhấn nút 'Check All' để chọn tất cả các bản nhạc đã phân tích.
 
-![Tap the 'Check All' button to select all parsed tracks.](/docs/howto/exporting-complete-listen-history-from-evermusic-flacbox-to-last-fm/21260c_8364b0734ea44375a1906de2a6a5391f~mv2.png)
+![Nhấn nút Check All để chọn tất cả các bản nhạc đã phân tích.](/docs/howto/exporting-complete-listen-history-from-evermusic-flacbox-to-last-fm/21260c_8364b0734ea44375a1906de2a6a5391f~mv2.png)
 
-Tap the 'Preview' button to check all changes that will be posted to the server.
+Nhấn nút 'Preview' để kiểm tra tất cả thay đổi sẽ được gửi đến máy chủ.
 
-![Tap the 'Preview' button to check all changes that will be posted to the server.](/docs/howto/exporting-complete-listen-history-from-evermusic-flacbox-to-last-fm/21260c_c02268681c6e4b51aa7e48e178d34be0~mv2.png)
+![Nhấn nút Preview để kiểm tra tất cả thay đổi sẽ được gửi đến máy chủ.](/docs/howto/exporting-complete-listen-history-from-evermusic-flacbox-to-last-fm/21260c_c02268681c6e4b51aa7e48e178d34be0~mv2.png)
 
-Tap the 'Scrobble' button to upload all changes to the server.
+Nhấn nút 'Scrobble' để tải tất cả thay đổi lên máy chủ.
 
-![Tap the 'Scrobble' button to upload all changes to the server.](/docs/howto/exporting-complete-listen-history-from-evermusic-flacbox-to-last-fm/21260c_5e1aeac472344d1899c8103b04922a7e~mv2.png)
+![Nhấn nút Scrobble để tải tất cả thay đổi lên máy chủ.](/docs/howto/exporting-complete-listen-history-from-evermusic-flacbox-to-last-fm/21260c_5e1aeac472344d1899c8103b04922a7e~mv2.png)
 
-Previously the Last.fm-Scrubbler-WPF did not have a scrobbles per day limit. This has now changed since some people used the Scrubbler to scrobble so many tracks, that it caused problems for the Last.fm page. The scrobble limit is currently 2800 scrobbles per day. When you try to scrobble more than that you will get an error message. There are plans to add a "scrobble queue", so if you need to scrobble more than 2800 tracks, they get added to a queue and are automatically scrobbled after some time. You can check how many scrobbles you have left in the user selection view.
+Trước đây Last.fm-Scrubbler-WPF không có giới hạn scrobble mỗi ngày. Điều này đã thay đổi vì một số người đã sử dụng Scrubbler để scrobble quá nhiều bản nhạc, gây ra sự cố cho trang Last.fm. Giới hạn scrobble hiện tại là 2800 scrobble mỗi ngày. Khi bạn cố scrobble nhiều hơn, bạn sẽ nhận được thông báo lỗi. Có kế hoạch thêm 'hàng đợi scrobble', vì vậy nếu bạn cần scrobble hơn 2800 bản nhạc, chúng sẽ được thêm vào hàng đợi và tự động scrobble sau một thời gian. Bạn có thể kiểm tra còn bao nhiêu scrobble trong chế độ xem chọn người dùng.
 
-Once all records are successfully uploaded to the server, you'll see a message at the bottom of the app window confirming: 'Successfully scrobbled selected tracks.'
+Khi tất cả bản ghi được tải lên máy chủ thành công, bạn sẽ thấy thông báo ở cuối cửa sổ ứng dụng xác nhận: 'Successfully scrobbled selected tracks.'
 
 ![Successfully scrobbled selected tracks.](/docs/howto/exporting-complete-listen-history-from-evermusic-flacbox-to-last-fm/21260c_c7c943f9994741eabbbab49de8ed6380~mv2.png)
 
-Now you can open your profile on the [Last.fm](http://Last.fm) page and check all the changes.
+Bây giờ bạn có thể mở hồ sơ của mình trên trang [Last.fm](http://Last.fm) và kiểm tra tất cả thay đổi.
 
-![your profile on the Last.fm page](/docs/howto/exporting-complete-listen-history-from-evermusic-flacbox-to-last-fm/21260c_1c065f759f624deea69a814e1b72c8bf~mv2.png)
+![hồ sơ của bạn trên trang Last.fm](/docs/howto/exporting-complete-listen-history-from-evermusic-flacbox-to-last-fm/21260c_1c065f759f624deea69a814e1b72c8bf~mv2.png)
 
 ## Câu hỏi thường gặp
 
-{{% details title="Can I scrobble automatically without exporting CSV files?" closed="true" %}}
-Yes. Both Evermusic and Flacbox now support automatic Last.fm scrobbling. See the guide: [How to Scrobble to Last.fm](/docs/howto/how-to-scrobble-your-music-history-from-evermusic-or-flacbox-to-last-fm).
+{{% details title="Tôi có thể scrobble tự động mà không cần xuất tệp CSV không?" closed="true" %}}
+Có. Cả Evermusic và Flacbox đều hỗ trợ scrobble tự động sang Last.fm. Xem hướng dẫn: [Cách Scrobble sang Last.fm](/docs/howto/how-to-scrobble-your-music-history-from-evermusic-or-flacbox-to-last-fm).
 {{% /details %}}
 
-{{% details title="What if my CSV has tracks older than 14 days?" closed="true" %}}
-Use Import Mode in Last.fm-Scrubbler-WPF. It recalculates timestamps from the Finish Time, allowing you to scrobble tracks regardless of their original date.
+{{% details title="Nếu CSV của tôi có bản nhạc cũ hơn 14 ngày thì sao?" closed="true" %}}
+Sử dụng Chế độ Nhập trong Last.fm-Scrubbler-WPF. Nó tính lại dấu thời gian từ Finish Time, cho phép bạn scrobble bản nhạc bất kể ngày gốc.
 {{% /details %}}
 
-{{% details title="I do not have a Windows computer. Can I still use Last.fm-Scrubbler?" closed="true" %}}
-Yes. Install VirtualBox on your Mac and download the free Windows Development Environment image from Microsoft. Run Last.fm-Scrubbler-WPF inside the virtual machine.
+{{% details title="Tôi không có máy tính Windows. Tôi vẫn có thể sử dụng Last.fm-Scrubbler không?" closed="true" %}}
+Có. Cài đặt VirtualBox trên Mac của bạn và tải hình ảnh Môi trường Phát triển Windows miễn phí từ Microsoft. Chạy Last.fm-Scrubbler-WPF bên trong máy ảo.
 {{% /details %}}
 
-{{% details title="Why are some scrobbles not parsed?" closed="true" %}}
-Tracks missing essential metadata (like artist name) cannot be parsed. This is expected and does not affect other tracks in the file.
+{{% details title="Tại sao một số scrobble không được phân tích?" closed="true" %}}
+Các bản nhạc thiếu siêu dữ liệu cần thiết (như tên nghệ sĩ) không thể được phân tích. Điều này là bình thường và không ảnh hưởng đến các bản nhạc khác trong tệp.
 {{% /details %}}
 
-{{% details title="Is there a daily scrobble limit?" closed="true" %}}
-Yes. Last.fm-Scrubbler-WPF allows up to 2,800 scrobbles per day. If you need to scrobble more, split the process across multiple days.
+{{% details title="Có giới hạn scrobble hàng ngày không?" closed="true" %}}
+Có. Last.fm-Scrubbler-WPF cho phép tối đa 2.800 scrobble mỗi ngày. Nếu bạn cần scrobble nhiều hơn, hãy chia quy trình thành nhiều ngày.
 {{% /details %}}
