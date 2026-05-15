@@ -1,0 +1,46 @@
+{{- $link := .link -}}
+{{- $title := .title -}}
+{{- $subtitle := .subtitle -}}
+{{- $date := .date -}}
+{{- $buttonTitle := .buttonTitle -}}
+
+{{- $href := $link -}}
+{{- if and $link (strings.HasPrefix $link "/") -}}
+  {{- with .page.GetPage $link -}}
+    {{- $href = .RelPermalink -}}
+  {{- else -}}
+    {{- $href = $link | relURL -}}
+  {{- end -}}
+{{- end -}}
+
+<a
+  class="blog-card hx:group hx:flex hx:flex-col hx:justify-start hx:overflow-hidden hx:rounded-lg hx:border hx:border-gray-200 hx:text-current hx:no-underline hx:dark:shadow-none hx:hover:shadow-gray-100 hx:dark:hover:shadow-none hx:shadow-gray-100 hx:active:shadow-sm hx:active:shadow-gray-200 hx:transition-all hx:duration-200 hx:hover:border-gray-300 hx:bg-gray-100 hx:shadow-sm hx:dark:border-neutral-700 hx:dark:text-gray-50 hx:hover:shadow-lg hx:dark:hover:border-neutral-500"
+  href="{{ $href }}"
+>
+  <div class="hx:flex hx:flex-col hx:flex-1 hx:px-4 hx:pt-8 hx:pb-2">
+    <span class="blog-card-title hx:font-semibold hx:text-gray-700 hx:hover:text-gray-900 hx:dark:text-neutral-200 hx:dark:hover:text-neutral-50 hx:text-lg hx:leading-snug">
+      {{- $title -}}
+    </span>
+    {{- with $subtitle -}}
+      <div class="blog-card-subtitle hx:text-sm hx:font-normal hx:text-gray-500 hx:dark:text-gray-400 hx:mt-2 hx:leading-relaxed">{{- . | markdownify -}}</div>
+    {{- end -}}
+  </div>
+
+  {{- with $buttonTitle -}}
+    <div class="hx:flex hx:justify-end hx:px-4 hx:mt-auto" style="padding-bottom: 1rem; padding-top: 1rem;">
+      <span class="hx:text-[color:hsl(var(--primary-hue),100%,50%)] hx:underline hx:underline-offset-2 hx:decoration-from-font hx:text-sm hx:font-medium">
+        {{- . -}}
+      </span>
+    </div>
+  {{- end -}}
+
+  {{- with $date -}}
+    {{- partial "shortcodes/badge.html" (dict
+      "content" (partial "utils/format-date" .)
+      "class" "blog-card-tag"
+      "border" true
+      )
+    -}}
+  {{- end -}}
+</a>
+{{- /* Strip trailing newline. */ -}}

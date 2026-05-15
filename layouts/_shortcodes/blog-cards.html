@@ -1,0 +1,84 @@
+{{- /*
+  Renders the latest blog posts as cards, dynamically fitted to N complete rows.
+
+  @param {string} cols Grid columns (default 6).
+  @param {string} count Max number of posts to fetch (default 12).
+  @param {string} rows Target number of complete rows to display (default 2).
+  @param {string} min Minimum number of posts to display, rounded up to a complete row (default 4).
+  @param {string} section Section path to pull posts from (default /blog).
+
+  @example {{< blog-cards >}}
+  @example {{< blog-cards count="12" rows="2" min="4" section="/blog" >}}
+*/ -}}
+{{- $cols := .Get "cols" | default 6 -}}
+{{- $count := int (.Get "count" | default 12) -}}
+{{- $rows := int (.Get "rows" | default 2) -}}
+{{- $min := int (.Get "min" | default 4) -}}
+{{- $sectionPath := .Get "section" | default "/blog" -}}
+{{- $buttonTitle := i18n "readMore" -}}
+{{- $gridId := printf "blog-cards-grid-%s" (substr (md5 (printf "%s-%d-%d-%d" $sectionPath $count $rows $min)) 0 8) -}}
+
+{{- $section := site.GetPage $sectionPath -}}
+{{- $validPages := slice -}}
+{{- if $section -}}
+  {{- range $p := $section.Pages -}}
+    {{- if and (not $p.Date.IsZero) (not $p.Params.draft) -}}
+      {{- $validPages = $validPages | append $p -}}
+    {{- end -}}
+  {{- end -}}
+{{- end -}}
+{{- $sorted := sort $validPages "Date" "desc" -}}
+{{- $posts := first $count $sorted -}}
+
+<div id="{{ $gridId }}" class="blog-cards-grid hextra-cards hx:mt-4 hx:gap-4 hx:grid not-prose" data-target-rows="{{ $rows }}" data-min-posts="{{ $min }}" style="--hextra-cards-grid-cols: {{ $cols }};">
+  {{- range $post := $posts -}}
+    {{- $description := partial "utils/page-description" $post -}}
+    {{- partial "shortcodes/blog-card" (dict
+      "page"        $.Page
+      "link"        $post.RelPermalink
+      "title"       $post.Title
+      "subtitle"    (truncate 180 $description)
+      "date"        $post.Date
+      "buttonTitle" $buttonTitle
+    ) -}}
+  {{- end -}}
+</div>
+
+<script>
+(function () {
+  var grid = document.getElementById("{{ $gridId }}");
+  if (!grid) return;
+  var targetRows = parseInt(grid.getAttribute("data-target-rows"), 10) || 2;
+  var minPosts = parseInt(grid.getAttribute("data-min-posts"), 10) || 0;
+
+  function adjust() {
+    var cards = grid.querySelectorAll(".blog-card");
+    if (!cards.length) return;
+    for (var i = 0; i < cards.length; i++) cards[i].style.display = "";
+    var firstTop = cards[0].offsetTop;
+    var cols = 0;
+    for (var j = 0; j < cards.length; j++) {
+      if (cards[j].offsetTop === firstTop) cols++;
+      else break;
+    }
+    if (cols < 1) cols = 1;
+    var byRows = cols * targetRows;
+    var byMin = Math.ceil(minPosts / cols) * cols;
+    var visible = Math.max(byRows, byMin);
+    for (var k = 0; k < cards.length; k++) {
+      cards[k].style.display = k < visible ? "" : "none";
+    }
+  }
+
+  if (document.readyState === "loading") {
+    document.addEventListener("DOMContentLoaded", adjust);
+  } else {
+    adjust();
+  }
+  var t;
+  window.addEventListener("resize", function () {
+    clearTimeout(t);
+    t = setTimeout(adjust, 100);
+  });
+})();
+</script>

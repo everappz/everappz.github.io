@@ -100,6 +100,20 @@ App Store Reviews
 <div class="hx:mt-6"></div>
 
 {{< hextra/section-headline >}}
+Latest News
+{{< /hextra/section-headline >}}
+
+<div class="hx:mt-6"></div>
+
+<div class="hx:w-full">
+
+{{< blog-cards >}}
+
+</div>
+
+<div class="hx:mt-6"></div>
+
+{{< hextra/section-headline >}}
 Subscribe
 {{< /hextra/section-headline >}}
 

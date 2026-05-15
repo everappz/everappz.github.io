@@ -98,6 +98,20 @@ headless: false
 <div class="hx:mt-6"></div>
 
 {{< hextra/section-headline >}}
+חדשות אחרונות
+{{< /hextra/section-headline >}}
+
+<div class="hx:mt-6"></div>
+
+<div class="hx:w-full">
+
+{{< blog-cards >}}
+
+</div>
+
+<div class="hx:mt-6"></div>
+
+{{< hextra/section-headline >}}
 הרשמה
 {{< /hextra/section-headline >}}
 

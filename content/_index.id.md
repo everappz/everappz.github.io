@@ -98,6 +98,20 @@ Ulasan App Store
 <div class="hx:mt-6"></div>
 
 {{< hextra/section-headline >}}
+Berita Terbaru
+{{< /hextra/section-headline >}}
+
+<div class="hx:mt-6"></div>
+
+<div class="hx:w-full">
+
+{{< blog-cards >}}
+
+</div>
+
+<div class="hx:mt-6"></div>
+
+{{< hextra/section-headline >}}
 Berlangganan
 {{< /hextra/section-headline >}}
 

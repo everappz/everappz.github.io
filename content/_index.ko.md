@@ -98,6 +98,20 @@ App Store 리뷰
 <div class="hx:mt-6"></div>
 
 {{< hextra/section-headline >}}
+최신 뉴스
+{{< /hextra/section-headline >}}
+
+<div class="hx:mt-6"></div>
+
+<div class="hx:w-full">
+
+{{< blog-cards >}}
+
+</div>
+
+<div class="hx:mt-6"></div>
+
+{{< hextra/section-headline >}}
 구독하기
 {{< /hextra/section-headline >}}
 

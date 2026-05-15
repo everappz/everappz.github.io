@@ -98,6 +98,20 @@ App Store 評論
 <div class="hx:mt-6"></div>
 
 {{< hextra/section-headline >}}
+最新消息
+{{< /hextra/section-headline >}}
+
+<div class="hx:mt-6"></div>
+
+<div class="hx:w-full">
+
+{{< blog-cards >}}
+
+</div>
+
+<div class="hx:mt-6"></div>
+
+{{< hextra/section-headline >}}
 訂閱
 {{< /hextra/section-headline >}}
 

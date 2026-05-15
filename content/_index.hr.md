@@ -98,6 +98,20 @@ Recenzije iz App Storea
 <div class="hx:mt-6"></div>
 
 {{< hextra/section-headline >}}
+Najnovije vijesti
+{{< /hextra/section-headline >}}
+
+<div class="hx:mt-6"></div>
+
+<div class="hx:w-full">
+
+{{< blog-cards >}}
+
+</div>
+
+<div class="hx:mt-6"></div>
+
+{{< hextra/section-headline >}}
 Pretplatite se
 {{< /hextra/section-headline >}}
 

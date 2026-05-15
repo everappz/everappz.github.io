@@ -98,6 +98,20 @@ Recensioni App Store
 <div class="hx:mt-6"></div>
 
 {{< hextra/section-headline >}}
+Ultime notizie
+{{< /hextra/section-headline >}}
+
+<div class="hx:mt-6"></div>
+
+<div class="hx:w-full">
+
+{{< blog-cards >}}
+
+</div>
+
+<div class="hx:mt-6"></div>
+
+{{< hextra/section-headline >}}
 Iscriviti
 {{< /hextra/section-headline >}}
 

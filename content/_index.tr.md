@@ -98,6 +98,20 @@ App Store Yorumları
 <div class="hx:mt-6"></div>
 
 {{< hextra/section-headline >}}
+Son Haberler
+{{< /hextra/section-headline >}}
+
+<div class="hx:mt-6"></div>
+
+<div class="hx:w-full">
+
+{{< blog-cards >}}
+
+</div>
+
+<div class="hx:mt-6"></div>
+
+{{< hextra/section-headline >}}
 Abone Ol
 {{< /hextra/section-headline >}}
 

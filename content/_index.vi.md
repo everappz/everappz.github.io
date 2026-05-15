@@ -98,6 +98,20 @@ Sản phẩm của chúng tôi
 <div class="hx:mt-6"></div>
 
 {{< hextra/section-headline >}}
+Tin tức mới nhất
+{{< /hextra/section-headline >}}
+
+<div class="hx:mt-6"></div>
+
+<div class="hx:w-full">
+
+{{< blog-cards >}}
+
+</div>
+
+<div class="hx:mt-6"></div>
+
+{{< hextra/section-headline >}}
 Đăng ký
 {{< /hextra/section-headline >}}
 

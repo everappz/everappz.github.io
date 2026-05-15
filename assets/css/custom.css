@@ -349,3 +349,34 @@ details a {
         left: 5px;
     }
 }
+
+/* ── Blog cards ── */
+
+.blog-card {
+    position: relative;
+}
+
+:is(.dark) .blog-card {
+    background-color: rgba(38, 38, 38, 0.5);
+}
+
+:is(.dark) .blog-card:hover {
+    background-color: rgba(64, 64, 64, 0.6);
+}
+
+.blog-card p {
+    margin-top: 0.5rem;
+    position: relative;
+}
+
+.blog-card-tag {
+    position: absolute;
+    z-index: 10;
+    top: 5px;
+    &:where(:dir(ltr)) {
+        right: 5px;
+    }
+    &:where(:dir(rtl)) {
+        left: 5px;
+    }
+}

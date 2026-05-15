@@ -98,6 +98,20 @@ App Store-anmeldelser
 <div class="hx:mt-6"></div>
 
 {{< hextra/section-headline >}}
+Seneste nyheder
+{{< /hextra/section-headline >}}
+
+<div class="hx:mt-6"></div>
+
+<div class="hx:w-full">
+
+{{< blog-cards >}}
+
+</div>
+
+<div class="hx:mt-6"></div>
+
+{{< hextra/section-headline >}}
 Abonner
 {{< /hextra/section-headline >}}
 

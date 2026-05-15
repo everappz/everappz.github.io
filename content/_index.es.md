@@ -98,6 +98,20 @@ Reseñas de la App Store
 <div class="hx:mt-6"></div>
 
 {{< hextra/section-headline >}}
+Últimas noticias
+{{< /hextra/section-headline >}}
+
+<div class="hx:mt-6"></div>
+
+<div class="hx:w-full">
+
+{{< blog-cards >}}
+
+</div>
+
+<div class="hx:mt-6"></div>
+
+{{< hextra/section-headline >}}
 Suscríbete
 {{< /hextra/section-headline >}}
 
