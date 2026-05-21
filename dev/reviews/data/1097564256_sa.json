@@ -48,5 +48,25 @@
     "content": "It needs updates to work with ios 11, \nIt crashes",
     "date": "2018-01-01T11:43:53-07:00",
     "version": "2.0"
+  },
+  {
+    "country": "sa",
+    "id": "14043255656",
+    "author": "ELYAS_el",
+    "rating": 3,
+    "title": "Good but",
+    "content": "to much add",
+    "date": "2026-05-08T23:45:03.000Z",
+    "version": null
+  },
+  {
+    "country": "sa",
+    "id": "14057162112",
+    "author": "AHAlwagdani",
+    "rating": 3,
+    "title": "I like it… but",
+    "content": "This app is honestly the closest thing to Poweramp available on Android, but a few major pain points keep it from being perfect.\n1. Infuriatingly Slow Syncing\nI cannot emphasize this enough: the syncing feature is a nightmare. Even when I add just two new songs to my Dropbox, the app triggers a full sync that can last for an hour. For a cloud-based music player, efficient syncing is the most critical feature, and currently, it feels incredibly broken.\n2. Lack of a Quick Shuffle\nThe app desperately needs a \"Shuffle All\" button that is accessible from anywhere. Currently, I have to navigate to specific sections just to start a shuffle. Furthermore, if I search for a song and hit shuffle, it only plays through the filtered search results rather than the entire library. When I want to shuffle, I mean my entire collection, regardless of the folder I’m currently in.\n3. Non-Recursive Search\nThe search function should work recursively by default. It is tedious to manually select \"this folder and other folders\" every single time I want to find a track. Search should look through the entire library unless specified otherwise.\nFinal Thoughts:\nThe app is good, and I often feel like I have to use it because there aren't many other viable alternatives. However, these UX hurdles make the daily experience frustrating. Please, developer, address these issues!",
+    "date": "2026-05-12T18:26:29.000Z",
+    "version": null
   }
 ]

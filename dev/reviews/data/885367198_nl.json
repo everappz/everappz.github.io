@@ -498,5 +498,15 @@
     "content": "Werkt perfect en mooie interface.",
     "date": "2017-07-11T01:51:21-07:00",
     "version": "2.9"
+  },
+  {
+    "country": "nl",
+    "id": "14015796347",
+    "author": "321AnH",
+    "rating": 3,
+    "title": "One shot play needed",
+    "content": "We need an option to play a track once, then stop. No continuous play. At that point, we need to be able to go back to the beginning or jump to the next track in the current playlist (but not start to play automatically)",
+    "date": "2026-05-01T09:46:01.000Z",
+    "version": null
   }
 ]
