@@ -37,7 +37,7 @@ By default, the app opens the tag editor in single-file mode with only the main 
 
 **Track Title, Subtitle, Album Artist, Album, Artist, Composer, Performer, Genre, Comment, Beats Per Minute, Podcast, Compilation, Disc Number, Track Number, Track Total, Rating, Year**
 
-To access all available tags, scroll to the bottom of the screen and tap the **Show Extended Tags** option. This will switch the editor to extended mode, allowing you to edit over **120 metadata fields**, including **MusicBrainz Tags**, **Lyrics**, **Advisory Ratings**, and more.
+To access all available tags, scroll to the bottom of the screen and tap the **Show Extended Tags** option. This will switch the editor to extended mode, allowing you to edit over **120 metadata fields**, including **MusicBrainz Tags**, **Lyrics**, **Advisory Ratings**, replay-gain values, sort orders, podcast metadata, and more. Use **Settings → Audio tags editor → Buttons on the main screen** to permanently toggle Show Extended Tags so it's always on.
 
 {{< cards cols="1">}}
 {{< card title="" subtitle="Bottom Actions Panel" image="/docs/guide/evertag/img/tag-editor-bottom-actions.webp" >}}
@@ -59,6 +59,68 @@ You can enter batch editing in two ways:
 {{< /cards >}}
 
 After editing, tap **Save** to apply changes.
+
+## Edit Lyrics
+
+The extended editor exposes the **Lyrics** field. Tap it to open the lyrics list — each lyrics entry has its own language and description, so a single track can store several translations.
+
+You don't have to type lyrics from scratch. The editor includes one-tap search shortcuts to the most popular lyrics databases on the web, pre-filled with the current track's artist and title:
+
+- **Lrclib** — the go-to public database for **timed (LRC-style) lyrics**. Use it when you want synced lyrics that scroll line-by-line in players that support them.
+- **Genius** — large catalog with annotations and accurate plain-text lyrics.
+- **Lyricsify** — community-driven database with plain and timestamped lyrics.
+- **Google** — a general web search as a fallback when the dedicated databases don't have a match.
+
+Each shortcut only appears when the corresponding service is reachable from your device. Tap a service, copy the lyrics (or the LRC timestamps) you want, return to Evertag, and paste them into the text field — then **Save** to write the lyrics back into the audio file's tags.
+
+{{< cards cols="1">}}
+  {{< card title="" subtitle="Lyrics Pages" image="/docs/guide/evertag/img/tag-editor-lyrics-pages.webp" >}}
+{{< /cards >}}
+
+Pick a language from the picker:
+
+{{< cards cols="1">}}
+  {{< card title="" subtitle="Lyrics Language Selector" image="/docs/guide/evertag/img/tag-editor-lyrics-language-select.webp" >}}
+{{< /cards >}}
+
+Then paste or type the lyrics text. Evertag supports both plain text and timestamped (synced) lyrics — the placeholder shows an example of the LRC-style format, which is exactly what Lrclib and Lyricsify return for synced results.
+
+{{< cards cols="1">}}
+  {{< card title="" subtitle="Lyrics Text Editor" image="/docs/guide/evertag/img/tag-editor-lyrics-text.webp" >}}
+{{< /cards >}}
+
+## Set a Rating and Advisory Rating
+
+The extended editor offers a star **Rating** control alongside an **Advisory Rating** segmented control.
+
+### Star Rating
+
+Use the **Rating** field to give a track a personal score from one to five stars. The value is written into the standard rating tag of the file (POPM for ID3, `rate` for MP4, `RATING` for Vorbis/APE, etc.), so other apps that read this tag — including the Music app, Plex, Roon, and most desktop tag editors — will pick up your scores immediately.
+
+{{< cards cols="1">}}
+  {{< card title="" subtitle="Rating" image="/docs/guide/evertag/img/tag-editor-rating.webp" >}}
+{{< /cards >}}
+
+### Advisory Rating
+
+The **Advisory Rating** marks a track's content using one of the values from the Parental Advisory standard the iTunes Store and most music platforms use:
+
+- **Inoffensive** — the default for tracks with no parental-advisory information. The file is treated as suitable for all listeners and won't show any advisory label in players that respect the tag.
+- **Explicit** — the track contains explicit language or content. Players that honor parental controls (the Music app, the Apple TV app, Spotify exports, Plex, etc.) will display an **E** badge next to the title and, when restrictions are enabled on the device or account, may hide the track from kids' profiles or refuse to play it.
+- **Clean** — a censored or edited version of an otherwise explicit track. Players display a **C** badge so listeners can distinguish a clean edit from the original explicit master, which is useful when both versions live in the same library.
+
+You'll want to set or fix this field when:
+
+- A file has the wrong label (for example a clean radio edit that was mistakenly tagged as Explicit, or vice versa).
+- Tracks were ripped or downloaded without the tag and are now showing as Inoffensive even though they contain explicit content — necessary for parental controls and family-shared libraries to work correctly.
+- You're preparing an album for submission or sharing and need every track to carry consistent metadata.
+- You want CarPlay, the Lock Screen, Apple Music–style players, or DJ software to display the correct **E** / **C** badge next to the track title.
+
+The value is stored in the standard advisory-rating field for the file format (`rtng` for MP4, `TXXX:ITUNESADVISORY` for ID3, `ITUNESADVISORY` for Vorbis), so any player that reads parental-advisory metadata will see your update.
+
+{{< cards cols="1">}}
+  {{< card title="" subtitle="Lyrics Advisory Rating" image="/docs/guide/evertag/img/lyrics-advisory-rating.webp" >}}
+{{< /cards >}}
 
 ## Edit Album Cover
 
@@ -141,7 +203,16 @@ Clear all metadata fields for a file. Useful when starting from scratch. Tap **S
 
 ## Tag Editor Settings
 
-Navigate to **Settings → Tag Editor** to customize behavior.
+Navigate to **Settings → Audio tags editor** to customize behavior.
+
+### Album Cover Scaling
+
+Select how album covers should be scaled when saved into audio files. You can disable scaling to keep the original image size, but be aware that some players may not support large artwork files. The "original size" option is part of the Premium personalization features.
+
+### Tag Saving Options
+
+- **ID3v2.4** — When enabled, the app saves tags in the ID3v2.4 format when possible. Disable to fall back to the more widely-supported ID3v2.3 if your audio tags aren't displayed correctly on older players or devices.
+- **Duplicate tags** — When enabled, common metadata fields are duplicated into both tag sections of the file. This improves compatibility with older audio players, but in most cases is not required.
 
 ### Cloud File Metadata Update Options
 
@@ -166,10 +237,6 @@ Choose what happens to locally downloaded copies of cloud files after editing:
 - **Do not delete downloaded file**  
   Keep the downloaded file on your device after editing.
 
-### Album Cover Scaling
-
-Select how album covers should be scaled when saved into audio files. You can disable scaling to keep the original image size, but be aware that some players may not support large artwork files.
-
 ### Main Screen Buttons
 
-Customize which actions appear on the main screen of the tag editor. Enable or disable specific buttons to tailor the interface to your workflow.
+Customize which actions appear on the main screen of the tag editor (Auto-search audio tags, Manual search audio tags, Search album artwork, Save album artwork, Normalize encoding, Delete audio tags). You can also toggle **Show extended tags** and **Edit files simultaneously** so the editor always opens in your preferred mode.

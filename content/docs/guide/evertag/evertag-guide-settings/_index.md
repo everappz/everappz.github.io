@@ -14,7 +14,13 @@ aliases:
 ---
 
 
-On this screen, you can access the application settings and upgrade it to the Premium version.
+On this screen, you can access the application settings and upgrade it to the Premium version. The Settings root is grouped into the following sections:
+
+- **Purchases & updates** — upgrade to Premium, restore purchases, view software update / "What's new"
+- **App preferences** — passcode, file manager, audio tags editor, Wi-Fi Drive, personalization, window settings (iPad/Mac), language
+- **Feedback & more** — rate the app, send feedback, tell a friend, subscribe, discover more apps
+- **Help** — Help Center, User Guide, How To, FAQ
+- **Legal & privacy** — Terms, Privacy Policy, Legal Notices, Analytics & data collection
 
 {{< cards cols="1">}}
   {{< card title="" subtitle="Evertag Settings Screen" image="/docs/guide/evertag/img/settings.webp" >}}
@@ -64,15 +70,15 @@ The file manager supports access to connected cloud storage accounts and offers 
 
 ### File transfers
 
-Choose your network preference when downloading files to your device.
+Choose your network preference when downloading files to your device — Wi-Fi only or Wi-Fi & Cellular Data.
 
-### Maximum number of parallel tasks
+### Parallel file transfer limit
 
-Set the number of parallel download threads. Choosing a higher number will speed up file downloads but may require extra battery power.
+Set the maximum number of files transferred simultaneously. A higher number can speed up transfers but may use more system resources and battery.
 
 ### File transfer tasks
 
-Displays currently active upload/download tasks.
+Open the transfer queue to view and manage ongoing and completed upload/download tasks.
 
 ### Background transfers
 
@@ -88,7 +94,7 @@ Activate this option if you need to view complete filenames, including extension
 
 ### Thumbnails for files
 
-Delete and manage generated file thumbnails to free up storage space.
+Choose whether thumbnails for files in cloud storage are loaded (and whether cellular data is allowed), open the cache folder, or delete cached thumbnails to free up storage space.
 
 ### Delete temporary files
 
@@ -104,19 +110,24 @@ In this section, you can configure the built-in audio tags editor.
 
 ### Album cover scaling
 
-Here you can select the scaling method for the album cover when saving it to audio tags.
+Choose the scaling method (Small / Medium / Large / Extra Large) for the album cover when saving it to audio tags, or deactivate scaling to keep the original size. Original-size scaling is part of the Premium personalization features.
+
+### Tag saving options
+
+- **ID3v2.4** — Save tags in the ID3v2.4 format when possible. Disable if older players don't read the tags correctly and the app will fall back to ID3v2.3.
+- **Duplicate tags** — Duplicate common metadata fields into both tag sections of the file for compatibility with older players.
 
 ### Update online files
 
-You can enable this option, and the application will automatically update the file's metadata on a cloud server after you've finished editing it.
+Control how the app updates metadata for audio files stored on a connected cloud service: ask before each save, always upload, or never upload (local-only changes).
 
 ### Edit online files
 
-You can choose whether the application should delete the downloaded file after you've finished editing the online file on a cloud server.
+Decide whether the locally downloaded copy of a cloud file is deleted automatically after you finish editing, or kept on your device for offline access.
 
 ### Main screen buttons
 
-You can choose which buttons should be available on the main screen of the audio tags editor.
+Choose which actions appear on the main screen of the audio tags editor — Auto-search audio tags, Manual search audio tags, Search album artwork, Save album artwork, Normalize encoding, Delete audio tags — and whether **Show extended tags** and **Edit files simultaneously** are always on by default.
 
 ## WiFi-Drive
 
@@ -130,21 +141,37 @@ In this section, you can customize the user interface settings to suit your pref
   {{< card title="" subtitle="Evertag Settings Personalization Screen" image="/docs/guide/evertag/img/settings-personalization.webp" >}}
 {{< /cards >}}
 
+### Application icon
+
+Pick an alternate Home Screen / Dock icon for the app, or keep the default. Some alternate icons are part of the Premium personalization features.
+
 ### Color scheme
 
 Customize the user interface theme and enable dark mode here. When the default option is selected, the application will adapt its color scheme based on your device's appearance settings.
 
 ### Appearance of items in the list
 
-Here you can customize how items in the list are displayed, which is especially useful for devices with smaller screens. You can choose whether the app should automatically adjust the height based on the content or show smaller icons in list cells to provide more space for text.
+Customize how items in the list are displayed, which is especially useful for devices with smaller screens. You can choose whether the app should automatically adjust the height based on the content or show smaller icons in list cells to provide more space for text.
+
+### Content loading limit
+
+Set the maximum number of items the app loads per page in a folder (100, 500, 1000, 5000, or no limit). Pagination keeps folder loading fast; disable the limit if you'd rather load everything at once.
+
+### Main menu style (iPad and Mac)
+
+On iPad and Mac, choose between a plain main menu or an expandable, grouped menu in the sidebar.
+
+### Local files screen style
+
+Pick a plain or grouped layout for the Local Files screen.
 
 ### Context menu style
 
-Select a style for the context menu that appears when you tap the 'More Actions' button.
+Select a style for the context menu that appears when you tap the 'More Actions' button — system menu or the app's custom bottom sheet.
 
-## Screen
+## Window settings (iPad and Mac)
 
-In this section, you have the option to customize whether the screen should stay active while you're using the application.
+On iPad and Mac, decide whether the screen should stay active while you're using the application, and configure other window-level options.
 
 ## Language
 

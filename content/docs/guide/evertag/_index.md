@@ -25,7 +25,7 @@ Evertag seamlessly handles a broad range of popular audio formats, including MP3
 
 ## 120+ Tags
 
-Evertag allows you to modify the most popular audio tags such as TITLE, ARTIST, ALBUM, COMMENT, GENRE, TRACK_NUMBER, YEAR, FRONT_COVER, DURATION, BITRATE, SAMPLE_RATE, CHANNELS, ALBUM_ARTIST, COMPOSER, BPM, DISK_NUMBER, RATING and many others.
+Evertag allows you to modify the most popular audio tags such as TITLE, ARTIST, ALBUM, COMMENT, GENRE, TRACK_NUMBER, YEAR, FRONT_COVER, DURATION, BITRATE, SAMPLE_RATE, CHANNELS, ALBUM_ARTIST, COMPOSER, BPM, DISK_NUMBER, RATING, lyrics (including timestamped lyrics) and many others. Switch to the extended editor to access every supported field, including MusicBrainz identifiers and replay-gain values.
 
 ## Batch Mode
 
@@ -33,23 +33,23 @@ Save time by selecting multiple files and editing them as if they were a single 
 
 ## Album Covers
 
-Customize your music files by updating album covers effortlessly within the app.
+Customize your music files by updating album covers effortlessly within the app, pick artwork from your Photos library, the cloud, or downloaded files, and choose how covers are scaled before they are saved into audio tags.
 
 ## Automated Correction
 
-Evertag identifies missing audio tags and automatically rectifies broken metadata, ensuring your music library stays pristine.
+Evertag identifies missing audio tags and automatically rectifies broken metadata, ensuring your music library stays pristine. Use auto-search or manual search powered by the MusicBrainz database, normalize encodings to fix garbled characters, and pick between ID3v2.3 and ID3v2.4 for maximum player compatibility.
 
 ## Cloud Integration
 
-If your music library resides in the cloud, seamlessly connect Evertag with popular cloud services such as iCloudDrive, Dropbox, OneDrive, Box, MEGA, Yandex.Disk, and others.
+If your music library resides in the cloud, seamlessly connect Evertag with the full lineup of supported services: iCloud Drive, Google Drive, Dropbox, OneDrive, Box, MEGA, Yandex.Disk, pCloud, Synology Drive, MediaFire, WD My Cloud Home, InfiniCLOUD (TeraCLOUD), HiDrive, OpenDrive, MyDrive, Put.io, Cloud Mail.ru, and Baidu Pan (百度网盘). You can also connect personal NAS, Apple Time Capsule, or computers over SMB and WebDAV.
 
 ## File Management
 
-Evertag includes a built-in file manager that supports all fundamental file operations. You can also edit audio files directly on your device using the convenient open-in-place feature, eliminating the need to copy files from external applications.
+Evertag includes a built-in file manager that supports all fundamental file operations. You can also edit audio files directly on your device using the convenient open-in-place feature, eliminating the need to copy files from external applications. Quick Access, Recently Opened, and Favorites help you jump back to the files you work with most.
 
 ## Wi-Fi Transfer
 
-Transfer audio files to your device effortlessly using a web browser on your computer with the Wi-Fi Transfer feature.
+Transfer audio files to your device effortlessly using a web browser on your computer with the Wi-Fi Drive feature, or use iTunes File Sharing with a cable on iPhone and iPad.
 
 ## Data Security
 

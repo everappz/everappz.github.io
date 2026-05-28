@@ -14,11 +14,15 @@ readingTime: 11
 ---
 
 
-On this screen, you can connect various sources containing your audio files. You can integrate popular cloud services like Dropbox, OneDrive, iCloud, and others, as well as connect your Mac or PC. Additionally, you have the option to edit audio files located in Apple Time Capsule or WD Cloud Home.
+On this screen, you can connect various sources containing your audio files. You can integrate popular cloud services like Google Drive, Dropbox, OneDrive, iCloud, and others, as well as connect your Mac or PC. Additionally, you have the option to edit audio files located in Apple Time Capsule, WD Cloud Home, or any NAS that speaks SMB or WebDAV.
 
 {{< cards cols="1">}}
   {{< card title="" subtitle="Evertag Connections Screen" image="/docs/guide/evertag/img/connections.webp" >}}
 {{< /cards >}}
+
+## Quick access
+
+At the top of the Connections screen you'll find a **Quick access** list. Any cloud folder you add to favorites — even one buried several levels deep — appears here so you can jump to it without navigating through parent folders every time.
 
 ## Connect to cloud storage
 
@@ -32,7 +36,7 @@ In the Premium version of the app, you can add an unlimited number of services.
 
 ## Supported cloud storage services
 
-Currently, the application supports the most popular cloud storage services: iCloud Drive, Dropbox, OneDrive, MEGA, Synology Drive, SMB, WebDAV, Yandex.Disk, Box, 百度网盘, pCloud, WD My Cloud Home, InfiniCLOUD, MediaFire, OpenDrive, HiDrive, Cloud Mail.ru, Put.io, MyDrive.
+Currently, the application supports the most popular cloud storage services: iCloud Drive, Google Drive, Dropbox, OneDrive, Box, MEGA, Yandex.Disk, pCloud, Synology Drive, MediaFire, WD My Cloud Home, InfiniCLOUD (TeraCLOUD), HiDrive, OpenDrive, MyDrive, Put.io, Cloud Mail.ru, Baidu Pan (百度网盘), as well as any SMB or WebDAV server.
 
 ## Security and privacy
 
@@ -124,7 +128,7 @@ Detailed instructions on how to use iTunes File Sharing are available [here](/do
 
 ## Connect a USB flashcard
 
-If you have an SD card, you can connect it using a Lightning card reader. The app currently supports Apple Certified card readers. We have detailed instructions on how to connect a USB flashcard to the iPhone and manage files located on it, available [here](/docs/howto/how-to-connect-a-usb-flashcard-to-the-iphone-and-listen-to-music-or-manage-files-located-on-it).
+If you have an SD card or USB stick, you can connect it using a Lightning or USB-C card reader on iPhone/iPad, or plug it directly into a Mac. The app currently supports Apple Certified card readers. We have detailed instructions on how to connect a USB flashcard to your iPhone or iPad and manage files located on it, available [here](/docs/howto/how-to-connect-a-usb-flashcard-to-the-iphone-and-listen-to-music-or-manage-files-located-on-it). Connected drives appear in the **External accessories** section of the Connections screen.
 
 ## File Manager
 
