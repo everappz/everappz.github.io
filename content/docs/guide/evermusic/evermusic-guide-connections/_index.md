@@ -15,23 +15,38 @@ aliases:
 ---
 
 
-On this screen, you can connect various sources containing your music. You can integrate popular cloud services like Dropbox, Google Drive, and others, as well as connect your Mac or PC. Additionally, you have the option to import music from Apple Time Capsule, or WD Cloud Home.
+On the Connections screen you can connect every source that holds your music — popular cloud services, self-hosted media servers, your Mac or PC, a personal NAS, Apple Time Capsule, WD My Cloud Home, even a USB flash drive — and use them all from one unified interface. Connections is also where you set up Quick Access to deeply nested cloud folders and where you authenticate Last.fm for scrobbling.
+
+The screen is divided into clearly labeled sections so it scales from a single iCloud Drive account to a library spread across multiple clouds and NAS devices: Quick Access at the top (your favorite cloud folders), Cloud storage (the accounts you've added), Local network (Bonjour-discovered devices), Computer (Wi-Fi Drive, iTunes File Sharing, SMB), External accessories (connected USB flash drives), and Other services (Last.fm and similar).
+
+{{< cards cols="1">}}
+  {{< card title="" subtitle="Evermusic Connections Screen" image="/docs/guide/evermusic/evermusic-guide-connections/img/connect-main.webp" >}}
+{{< /cards >}}
 
 ## Connect to cloud storage
 
-- Open the 'Connections' tab
-- Select 'Connect to cloud storage' from the menu
-- Choose cloud storage service from the list
-- Enter your credentials, and tap 'Done.'
+- Open the Connections tab.
+- Select Connect to cloud storage from the menu.
+- Choose a cloud storage service from the list.
+- Sign in on the provider's official authorization page (Evermusic never sees your password).
+- Tap Done.
 
-![Connect a Cloud Service](21260c_f3f30523c16a45af8a7a50af24ef7951~mv2.png)
+{{< cards cols="1">}}
+  {{< card title="" subtitle="Connect Cloud Storage Provider Picker" image="/docs/guide/evermusic/evermusic-guide-connections/img/connect-add-storage.webp" >}}
+{{< /cards >}}
 
-If you encounter any issues, be sure to check your internet connection and login/password.  
-In the Premium version of the app, you can add an unlimited number of services.
+If you encounter any issues, double-check your internet connection and login credentials, and make sure two-factor authentication is configured correctly for that service.  
+In the Premium version of the app you can add an unlimited number of services. Free users can connect a single cloud account at a time.
 
 ## Supported cloud storage services
 
-Currently, the application supports the most popular cloud storage services: iCloud Drive, Dropbox, OneDrive, Google Drive, MEGA, Synology Drive, SMB, WebDAV, DLNA, Yandex.Disk, Box, 阿里云盘, 百度网盘, pCloud, WD My Cloud Home, InfiniCLOUD, MediaFire, OpenDrive, HiDrive, Cloud Mail.ru, Put.io, MyDrive. The free and Premium versions of the app support different cloud services.
+Evermusic supports the full lineup of popular cloud and self-hosted services. Free users get the same provider catalog but with the one-account limit; Premium unlocks unlimited accounts and removes most other limits.
+
+- **Personal cloud accounts:** iCloud Drive · Google Drive · Dropbox · OneDrive · Box · MEGA · Yandex.Disk · pCloud · MediaFire · WD My Cloud Home · InfiniCLOUD (TeraCLOUD) · HiDrive · OpenDrive · MyDrive · Put.io · Cloud Mail.ru · Icedrive · Koofr · Proton Drive · Internxt · AliDrive (阿里云盘) · Baidu Pan (百度网盘).
+- **Self-hosted servers and media libraries:** Plex · Jellyfin · Emby · Subsonic (and every Subsonic-compatible server — Airsonic, Funkwhale, Gonic, Logitech Media Server, Ampache) · Navidrome · Nextcloud (and Owncloud, via the shared API) · Synology Drive · QNAP.
+- **NAS and file-share protocols:** SMB (SMB1, SMB2, Auto), WebDAV (HTTP / HTTPS), FTP / FTPS, SFTP (password or public-key authentication), NFS, and DLNA (read-only — playback and download).
+- **S3-compatible object storage:** AWS S3, Backblaze B2, Wasabi, Cloudflare R2, MinIO, DigitalOcean Spaces, Linode Object Storage, IBM Cloud Object Storage, or any S3-API endpoint.
+- **Local-network discovery:** the Available devices section automatically lists any device on your Wi-Fi that advertises itself via Bonjour / mDNS — Plex, Jellyfin, Emby servers, Synology, QNAP, Asustor, TerraMaster, Apple Time Capsule, AirPort routers with attached drives, and so on.
 
 ## Security and privacy
 
@@ -57,7 +72,9 @@ You can also disconnect the connected cloud accounts in the application and the 
   - **Settings**: to modify the configuration or authentication data for the cloud service, choose 'Settings.' Sometimes, you may need to reauthorize the connected cloud service if the authorization token has expired.
   - **Disconnect**: if you wish to completely sever the connection between the app and the cloud service, select 'Disconnect.' Be aware that choosing this option will remove all songs associated with this cloud service from your app's music library, but they will remain on the server.
 
-![disconnect a cloud service or change configuration](21260c_553b3f9b3e524c9ea5424024f064b2a6~mv2.png)
+{{< cards cols="1">}}
+  {{< card title="" subtitle="Connected Cloud Storage More Actions Menu" image="/docs/guide/evermusic/evermusic-guide-connections/img/connect-storage-more-actions.webp" >}}
+{{< /cards >}}
 
 ## Connect to Computer or NAS
 
@@ -74,7 +91,9 @@ You can also connect your computer, personal NAS, or other network devices using
 If your connection is successful you will see connected storage in the "Cloud storage" section.  
 A full tutorial about how to connect your MAC or PC using SMB is available [here](/docs/howto/stream-your-music-from-mac-or-pc-to-iphone-using-smb/).
 
-![Connect to computer using SMB protocol](21260c_e968a4df26b74390aebb5abcd0b9bd72~mv2.png)
+{{< cards cols="1">}}
+  {{< card title="" subtitle="SMB Connection Settings" image="/docs/guide/evermusic/evermusic-guide-connections/img/connect-smb-settings.webp" >}}
+{{< /cards >}}
 
 ## Connect to NAS using WebDAV
 
@@ -82,9 +101,17 @@ All steps are the same instead of the URL field.
 URL should be in the format http://server-name, or https://server-name if the server supports SSL.
 A full tutorial about how to connect NAS using WebDAV protocol is available [here](/docs/howto/how-to-connect-nas-storage-using-webdav-and-listen-to-music-on-your-iphone-or-mac).
 
+{{< cards cols="1">}}
+  {{< card title="" subtitle="WebDAV Connection Settings" image="/docs/guide/evermusic/evermusic-guide-connections/img/connect-webdav-settings.webp" >}}
+{{< /cards >}}
+
 ## Connect to Computer or NAS using DLNA
 
 You can also share a music library located on your Windows PC or personal NAS using the DLNA protocol and access that library in the app as described [here](/docs/howto/how-to-enable-dlna-media-server-on-windows-10-and-play-your-music-on-iphone). DLNA is a popular and widely used protocol, but it only allows you to play or download music. You can't upload files or create new folders on the server.
+
+{{< cards cols="1">}}
+  {{< card title="" subtitle="DLNA Connection Settings" image="/docs/guide/evermusic/evermusic-guide-connections/img/connect-dlna-settings.webp" >}}
+{{< /cards >}}
 
 ## Available devices
 
@@ -95,7 +122,9 @@ To establish a connection with a device, follow these steps:
 - Tap the device you want to connect to from the list.
 - If needed, enter your login details to complete the connection.
 
-![Available devices section displays all devices within your local network that you can connect to through the application](21260c_8897c451db094373b87b6c1ae1d0be2c~mv2.png)
+{{< cards cols="1">}}
+  {{< card title="" subtitle="Available Devices on the Local Network" image="/docs/guide/evermusic/evermusic-guide-connections/img/connect-available-devices.webp" >}}
+{{< /cards >}}
 
 ## Wi-Fi Drive 
 
@@ -119,7 +148,9 @@ Here's a step-by-step guide on how to use Wi-Fi Drive.
 Once the web page corresponding to your iOS device opens in the browser, you can easily drag and drop files from your computer onto the web page.  
 The files you drag and drop will begin transferring to your iOS device and will be accessible within the application.
 
-![Wi-Fi Drive is a convenient technology that enables wireless file transfers from your computer to your iOS device via a desktop browser](21260c_ec3157566d2848a48feee051e18b8c76~mv2.png)
+{{< cards cols="1">}}
+  {{< card title="" subtitle="Wi-Fi Drive Server Settings" image="/docs/guide/evermusic/evermusic-guide-connections/img/connect-wifidrive-settings.webp" >}}
+{{< /cards >}}
 
 Detailed instructions about how to transfer files wirelessly using WiFi-Drive is available [here](/docs/howto/how-to-transfer-files-wirelessly-from-a-computer-to-an-iphone-using-wifi-drive).
 
@@ -133,7 +164,9 @@ iTunes File Sharing is another technology that allows you to transfer files from
 
 Detailed instructions about how to use iTunes file sharing available [here](/docs/howto/how-to-play-local-itunes-files-on-my-iphone/).
 
-![iTunes File Sharing is another technology that allows you to transfer files from computer to device using the Finder app on your Mac and lightning cable](21260c_9885734200f04fa09cd27d435971647c~mv2.png)
+{{< cards cols="1">}}
+  {{< card title="" subtitle="iTunes / Finder File Sharing on Mac" image="/docs/guide/evermusic/evermusic-guide-connections/img/connect-itunes-file-sharing.webp" >}}
+{{< /cards >}}
 
 ## Connect a USB flashcard
 
@@ -152,7 +185,9 @@ The top toolbar, conveniently located under the navigation bar, offers several u
 - **Play All**: By selecting this action, the app will scan the current folder and its subfolders, adding all the found audio files to a new player queue. This is useful when you want to play all the music within a particular directory.
 - **Shuffle All**: Similar to "Play All," this action scans the current folder and its subfolders but shuffles the files before adding them to the audio player queue. It's a great way to enjoy your music in a random order for a bit of variety.
 
-![The top toolbar, conveniently located under the navigation bar, offers several useful actions for easy access.](21260c_1a8a90ad75f44ff7bd2f7d19a8ecbe75~mv2.png)
+{{< cards cols="1">}}
+  {{< card title="" subtitle="Top Toolbar Inside a Cloud Folder" image="/docs/guide/evermusic/evermusic-guide-connections/img/connect-top-toolbar.webp" >}}
+{{< /cards >}}
 
 ## Folder Options
 
@@ -167,7 +202,9 @@ Here's a breakdown of these actions:
 - **Sort**: Sort files within the folder by criteria such as name, size, or date edited. The default sort mode typically mirrors the sorting order on the server, but you can change it to suit your preferences.
 - **Grid/List View**: Switch between two viewing modes: table view and thumbnail view. The table view presents files in a list, while the thumbnail view displays visual representations of the files, making it easier to identify content at a glance.
 
-![Current Folder Options](21260c_01f9148f4b834bb6872bc45b7352470e~mv2.png)
+{{< cards cols="1">}}
+  {{< card title="" subtitle="Current Folder More Actions Menu" image="/docs/guide/evermusic/evermusic-guide-connections/img/connect-folder-options.webp" >}}
+{{< /cards >}}
 
 ## Edit Online Files
 
@@ -177,7 +214,9 @@ When you find the need to manage multiple files within your cloud storage on Eve
 - **Choose Files**: You'll notice checkboxes appearing next to every file or folder listed. Choose one or multiple files or folders by simply tapping on the checkboxes next to them.
 - **Perform Various Actions**: Once you've selected the files or folders you want to manage, you'll have access to several actions tailored to your needs:
 
-![Editing Online Files](21260c_5bbaabf22bd74323b0e610752cf6b362~mv2.png)
+{{< cards cols="1">}}
+  {{< card title="" subtitle="Selection Mode for Online Files" image="/docs/guide/evermusic/evermusic-guide-connections/img/connect-selection-mode.webp" >}}
+{{< /cards >}}
 
 ## File actions
 
@@ -194,9 +233,11 @@ Tap on it to reveal a list of available actions:
 - **Rename**: This option permits you to rename the file directly on the remote storage, allowing for customized file naming.
 - **Move**: Opt for this action to relocate the file to a different folder within your cloud storage, aiding in maintaining an organized file structure.
 - **Open In**: Use this action to export the file to another compatible app. The file will be downloaded to your device, and then the Share dialog will appear for further sharing or interaction.
-- **Delete**: Exercise caution with this action, as it permanently removes the file from your cloud storage. **This deletion cannot be undone**.
+- **Delete**: Exercise caution with this action, as it permanently removes the file from your cloud storage. This deletion cannot be undone.
 
-![File actions](21260c_08d9170647f947bd940d69a7e1bbaf19~mv2.png)
+{{< cards cols="1">}}
+  {{< card title="" subtitle="More Actions Menu for a Single File" image="/docs/guide/evermusic/evermusic-guide-connections/img/connect-single-folder-more-options.webp" >}}
+{{< /cards >}}
 
 If the list of actions exceeds the available screen space, simply scroll down within the actions menu to access additional options.
 
@@ -214,15 +255,14 @@ For each folder in your cloud storage, you have various actions available. To ac
 - **Download**: Download all the contents of the folder to your device for offline access.
 - **Rename**: Rename the folder directly on the remote storage.
 - **Move**: Relocate the folder to a different location within your cloud storage.
-- **Delete**: Be cautious with this action as it permanently removes the folder and its contents from your cloud storage. **This action cannot be undone**.
+- **Delete**: Be cautious with this action as it permanently removes the folder and its contents from your cloud storage. This action cannot be undone.
 
-![Folder actions](21260c_3431f1c4b12d41c78f9c5be7b348b2e3~mv2.png)
 
 ## Quick Access
 
 The Quick Access section is located at the top of the screen. It gives you fast access to your favorite and recently opened files from connected cloud services.
-Whenever you open a file or folder from the cloud, it’s added to the "Recently Opened" list. To clear this list, open "Recents," tap the "More Actions" button, and choose "Delete List." You can also mark deeply nested folders as **Favorites** to access them quickly without digging through the directory structure.
+Whenever you open a file or folder from the cloud, it’s added to the "Recently Opened" list. To clear this list, open "Recents," tap the "More Actions" button, and choose "Delete List." You can also mark deeply nested folders as Favorites to access them quickly without digging through the directory structure.
 
 ## Other Services
 
-This section displays extra features that enhance your experience. Currently, the app supports **Last.fm scrobbling**. When connected, your playback stats are automatically sent to your Last.fm account. You can visit your Last.fm profile later to view listening analytics and get personalized music recommendations. Detailed setup instructions are available [here](/docs/howto/how-to-scrobble-your-music-history-from-evermusic-or-flacbox-to-last-fm).
+This section displays extra features that enhance your experience. Currently, the app supports Last.fm scrobbling. When connected, your playback stats are automatically sent to your Last.fm account. You can visit your Last.fm profile later to view listening analytics and get personalized music recommendations. Detailed setup instructions are available [here](/docs/howto/how-to-scrobble-your-music-history-from-evermusic-or-flacbox-to-last-fm).

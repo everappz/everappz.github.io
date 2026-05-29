@@ -19,11 +19,17 @@ aliases:
 
 The Playlists section provides you with the tools to organize your tracks into lists. It includes a content view showcasing all your created playlists, a "..." button in the navigation bar offering various playlist-related actions, and a navigation toolbar with "Search," "Play all," and "Shuffle all" buttons. Furthermore, each individual playlist itself features a "..." button near the playlist title, offering a range of actions specific to that playlist.
 
+{{< cards cols="1">}}
+  {{< card title="" subtitle="Evermusic Playlists Screen" image="/docs/guide/evermusic/evermusic-guide-playlists/img/playlists-main.webp" >}}
+{{< /cards >}}
+
 ## Creating a Playlist
 
 To create a new playlist, either tap the "+" button or the "..." button in the top right corner of the navigation bar, select "New playlist" and assign a name to your playlist. After naming it, tap "Save."
 
-![Creating a Playlist](21260c_7d04499d811f4485a84a94be7a480195~mv2.png)
+{{< cards cols="1">}}
+  {{< card title="" subtitle="Create a New Playlist" image="/docs/guide/evermusic/evermusic-guide-playlists/img/playlists-add-new.webp" >}}
+{{< /cards >}}
 
 This prompts the "Add songs" dialog, where you can choose which tracks to add to the new playlist. Tracks are categorized by source type, and you have several options:
 
@@ -38,7 +44,9 @@ By default, you can add a track to a playlist only once. To allow duplicated son
 
 In Evermusic, we’ve added M3U file import functionality, so you don’t have to create playlists manually.
 
-![Import Playlist](21260c_b8e7f1fbae09458abcd1616faf11d9e9~mv2.png)
+{{< cards cols="1">}}
+  {{< card title="" subtitle="Import Playlist From a File Source" image="/docs/guide/evermusic/evermusic-guide-playlists/img/playlists-import-from-files.webp" >}}
+{{< /cards >}}
 
 First, go to the ‘Playlists’ section. Then, tap the ‘More’ button in the top right corner. From the menu that appears, select the ‘Import Playlist’ option.
 
@@ -48,8 +56,6 @@ On the next screen, choose the file location. Supported options include:
 - Files in the application
 - Files on your device
 
-![File location options](21260c_ff428a191ca9480c8997f25cc315c0e1~mv2.png)
-
 Let’s select connected cloud storage and open the folder containing the playlist file. Supported playlist file extensions include M3U, M3U8, and CUE. Select the playlist file and tap ‘Done’ to confirm your selection.
 
 The app will parse the playlist file, create a list of tracks, and locate those files on the storage to compile a final playlist, which will be imported into the music library. It’s crucial that your M3U/CUE file contains the correct paths for media files, and the files should be located at those paths on your storage. You can read more about playlist import [here](/docs/howto/how-to-import-m3u-playlist-to-evermusic-and-flacbox).
@@ -58,7 +64,9 @@ The app will parse the playlist file, create a list of tracks, and locate those 
 
 When you open a playlist, the "Playlist detail screen" appears. On this screen, you'll find a "..." button in the top right corner with playlist options and three buttons under the artwork image: "Search," "Continue playback", "Play all," and "Shuffle all." Additionally, there's an "Offline mode" checkbox.
 
-![Playlist Detail Screen](21260c_78b94d51d1de40da8ecdd25bb7ed1562~mv2.png)
+{{< cards cols="1">}}
+  {{< card title="" subtitle="Playlist Detail Screen" image="/docs/guide/evermusic/evermusic-guide-playlists/img/playlists-detail-screen.webp" >}}
+{{< /cards >}}
 
 - **Continue playback**: Restore playback position for this playlist.
 - **Search**: Perform a search within the current playlist.
@@ -81,13 +89,13 @@ You can access actions for a playlist by tapping the "..." button near the playl
 - **Rename:** Rename the playlist.
 - **Delete playlist:** Delete the playlist from the Music library. Please note that this action cannot be undone.
 
-![More Actions for Playlist](21260c_b6c8ee3b4be44eb0b88f23c09dfb2039~mv2.png)
+{{< cards cols="1">}}
+  {{< card title="" subtitle="More Actions Menu for a Playlist" image="/docs/guide/evermusic/evermusic-guide-playlists/img/playlists-more-actions-for-separate-playlist.webp" >}}
+{{< /cards >}}
 
 ## More Actions for Playlist in the Playlist Detail Screen
 
 You can access actions for a playlist by tapping the "..." button in the top right corner. Here are the available actions:
-
-![More Actions for Playlist in the Playlist Detail Screen](21260c_02ab6a38d53841009e824d32f7993168~mv2.png)
 
 - **Select:** Activates track selection mode, useful for deleting multiple tracks from the playlist or changing their order.
 - **Play next:** Adds playlist tracks to the top of the existing player queue.
@@ -107,31 +115,33 @@ You can access actions for a playlist by tapping the "..." button in the top rig
 
 To change the order of songs in a playlist, tap the "..." button in the top right corner and select "Select" to enter selection mode. Use the reorder control and drag-and-drop gestures near each track to move them up or down. Tapping on the reorder control will move the track to the top of the list. To exit selection mode and apply changes, tap "Done."
 
-![Changing Song Order in a Playlist](21260c_2953679fb5024e268582839a48e090ba~mv2.png)
+{{< cards cols="1">}}
+  {{< card title="" subtitle="Change Song Order in a Playlist" image="/docs/guide/evermusic/evermusic-guide-playlists/img/playlists-change-songs-order.webp" >}}
+{{< /cards >}}
 
 ## Changing Playlist Cover Image
 
 To change the cover image of a playlist, tap the "..." button in the top right corner and select "Edit image." Choose an image from the available sources and confirm the changes by tapping "Done."
 
-![Changing Playlist Cover Image](21260c_f12220fca0ef40189f79b49ea3d8e05b~mv2.png)
-
 ## Adding Songs to a Playlist
 
 Open the playlist and tap the "..." button in the top right corner, then select "Add songs" to open a dialog. Choose the tracks you want to add and confirm the changes by tapping "Done."
-
-![Adding Songs to a Playlist](21260c_2acfc6a11c6942779252b4a89669109f~mv2.png)
 
 ## Deleting Multiple Songs from a Playlist
 
 Open the playlist, tap the "..." button in the top right corner, and select "Select" to enter selection mode. Choose the tracks you want to delete and tap the "Delete from playlist" button at the bottom of the screen. Confirm the changes by tapping "Done."
 
-![Deleting Multiple Songs from a Playlist](21260c_082a5bddd4c94b3cbe2529a1e7d59491~mv2.png)
+{{< cards cols="1">}}
+  {{< card title="" subtitle="Selection Mode Inside a Playlist" image="/docs/guide/evermusic/evermusic-guide-playlists/img/playlists-selection-mode-in-playlist-details-screen.webp" >}}
+{{< /cards >}}
 
 ## Track Options
 
 Each track in a playlist has a list of actions, accessible by tapping the "..." button. If you can't see all actions, scroll down to view them. You can delete the track from the playlist, download it, edit audio tags, and more.
 
-![Track Options](21260c_be1e20c9be124a039dfb5795f34c8c10~mv2.png)
+{{< cards cols="1">}}
+  {{< card title="" subtitle="Track Options Menu in a Playlist" image="/docs/guide/evermusic/evermusic-guide-playlists/img/playlists-track-options.webp" >}}
+{{< /cards >}}
 
 - **Play next:** Adds the track to the top of the player queue.
 - **Play later:** Appends the track to the bottom of the player queue.

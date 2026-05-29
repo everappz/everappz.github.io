@@ -21,7 +21,9 @@ The Player is the main application screen where you can control the player queue
 
 ## Accessing the Player
 
-![player screen](21260c_1f52314f2ff24f2789ab08bcd18177a5~mv2.png)
+{{< cards cols="1">}}
+  {{< card title="" subtitle="Evermusic Audio Player Screen" image="/docs/guide/evermusic/evermusic-guide-player/img/player-main.webp" >}}
+{{< /cards >}}
 
 You can access the full-screen player from the mini-player view. On your iPhone, you’ll find the mini player above the tab bar on the main screen. On your iPad or Mac, it’s accessible from the left menu. To tuck away the mini player, tap its icon and swipe downwards. To completely hide the full-screen player, simply tap the close button located at the bottom right corner.
 
@@ -46,7 +48,9 @@ If you're in the mood for some randomness, the "Shuffle" option is your go-to. I
 
 ## Volume Control
 
-![Volume Control](21260c_2294a6ed19fa40f38c6c0018c319e333~mv2.png)
+{{< cards cols="1">}}
+  {{< card title="" subtitle="Volume Control with AirPlay and Google Cast" image="/docs/guide/evermusic/evermusic-guide-player/img/player-volume-control.webp" >}}
+{{< /cards >}}
 
 Find the volume slider on the Audio Settings screen by tapping the sound icon under playback controls. You can change the volume using this slider or standard volume buttons on your device. Additionally, you'll find some handy streaming buttons:
 
@@ -63,13 +67,17 @@ On the other hand, if you prefer AirPlay, look for the AirPlay button at the bot
 
 ## Audio Equalizer
 
-![audio equalizer screen](21260c_99d91cee8fc04306b7a45e1bd64ad5ca~mv2.png)
+{{< cards cols="1">}}
+  {{< card title="" subtitle="10-Band Audio Equalizer" image="/docs/guide/evermusic/evermusic-guide-player/img/player-equalizer.webp" >}}
+{{< /cards >}}
 
 Evermusic comes packed with a 10-band equalizer, complete with iPod-style presets, a preamplifier, and manual equalizer settings. To activate the equalizer, simply tap the "Equalizer" button on the bottom toolbar and toggle the switch control in the top right corner. You can select from a range of predefined equalizer presets like "Acoustic", "Bass Booster", "Classical", and more. If you're a sound enthusiast, you'll appreciate the ability to fine-tune each frequency band using sliders. Feel free to create and save your very own audio equalizer presets. If a track isn't loud enough, you can also adjust the preamplifier gain. We have more detailed instructions about how to use equalizer [here](/docs/howto/how-to-use-the-audio-equalizer-on-your-iphone-ipad-mac-with-evermusic-and-flacbox).
 
 ## Player Mode Toolbar
 
-![Player Mode Toolbar](21260c_4d3d3f675b454c3c8429293b7c57e6ba~mv2.png)
+{{< cards cols="1">}}
+  {{< card title="" subtitle="Player Top Toolbar with Search and Speed" image="/docs/guide/evermusic/evermusic-guide-player/img/player-top-toolbar.webp" >}}
+{{< /cards >}}
 
 For a select few player screen styles you'll find a player mode toolbar at the top of the player screen, right below the navigation bar. This handy toolbar houses three buttons.
 
@@ -78,17 +86,25 @@ For a select few player screen styles you'll find a player mode toolbar at the t
 
 ## Audio Bookmarks
 
-![audio bookmarks screen](21260c_0b150b3657e0422386342dff57768b79~mv2.png)
+{{< cards cols="1">}}
+  {{< card title="" subtitle="Audio Bookmarks for Audiobooks and Lectures" image="/docs/guide/evermusic/evermusic-guide-player/img/player-bookmarks.webp" >}}
+{{< /cards >}}
 
 Here's where you can create multiple bookmarks for tracks in your music library. We have a full instruction on how to use bookmarks [here](/docs/howto/how-to-listen-to-audiobooks-on-iphone-ipad-mac-using-evermusic).
 
 ## Player Queue
 
+{{< cards cols="1">}}
+  {{< card title="" subtitle="Player Queue" image="/docs/guide/evermusic/evermusic-guide-player/img/player-queue.webp" >}}
+{{< /cards >}}
+
 To access your player queue, simply tap the player queue button located on the bottom toolbar. To move a song in the queue, use the reorder indicator near the title.
 
 ## Comments / Lyrics
 
-![Comments / Lyrics](21260c_768197034bdd465e8eb2e39d0894e5e6~mv2.png)
+{{< cards cols="1">}}
+  {{< card title="" subtitle="Comments, Embedded Lyrics, and LRC Files" image="/docs/guide/evermusic/evermusic-guide-player/img/player-lyrics.webp" >}}
+{{< /cards >}}
 
 To view track comments and embedded lyrics, as well as LRC files, follow these steps:
 
@@ -102,7 +118,9 @@ We have a full instruction on how to view lyrics [here](/docs/howto/how-to-view-
 
 ## Options Menu
 
-![Options Menu](21260c_add18796aa274197bd23cda47bf3a1eb~mv2.png)
+{{< cards cols="1">}}
+  {{< card title="" subtitle="Options Menu for a Queue Item" image="/docs/guide/evermusic/evermusic-guide-player/img/player-queue-item-options-menu.webp" >}}
+{{< /cards >}}
 
 Each song in your audio player queue has a menu with more actions, which you can access by tapping the three dots button near the song title. The available actions are:
 
@@ -120,8 +138,6 @@ Each song in your audio player queue has a menu with more actions, which you can
 - **Delete from music library**: Deletes the song from your music library, while keeping the file in storage.
 
 ## Additional Player Actions
-
-![audio player more options screen](21260c_e9e9082de38f4c14bcbbd0c8abbe18b1~mv2.png)
 
 Tap the more actions button "..." on the left side of the currently played song title to see additional actions.
 
@@ -141,30 +157,35 @@ Tap the more actions button "..." on the left side of the currently played song 
 
 ## Recents and Favorites
 
-![audio player recents screen](21260c_7f50323f714048d786cdb2fe89b0ced9~mv2.png)
+{{< cards cols="1">}}
+  {{< card title="" subtitle="Recently Played Songs from the Player" image="/docs/guide/evermusic/evermusic-guide-player/img/player-recents.webp" >}}
+{{< /cards >}}
 
-On the player screen, you can access the ‘Recents’ and ‘Favorites’ sections by tapping the More Actions button ‘…’ and selecting the respective menu item. In both sections, you can search for songs, play all tracks, shuffle all tracks, export the list, and delete the list. We have detailed instructions on how to export song lists [here]  
-favorites screen
+On the player screen, you can access the ‘Recents’ and ‘Favorites’ sections by tapping the More Actions button ‘…’ and selecting the respective menu item. In both sections, you can search for songs, play all tracks, shuffle all tracks, export the list, and delete the list. We have detailed instructions on how to export song lists [here](/docs/howto/export-tracks-collection-from-evermusic-flacbox-to-m3u-csv-txt/).
 
 ## Mini Player Window (Mac Exclusive)
 
-![mini player window](21260c_797a72d6626d4860b3e1bc10031d9d5e~mv2.png)
+{{< cards cols="1">}}
+  {{< card title="" subtitle="Mac Mini Player Window" image="/docs/guide/evermusic/evermusic-guide-player/img/player-mini-mac.webp" >}}
+{{< /cards >}}
 
-For Mac users, there's a handy mini-player window. To access it, simply move your cursor to the bottom-right edge of the app window and resize it to the smallest possible size. Then, tap the collapse button (depicted as a downward arrow) to activate the mini-player window. If you want to keep it on top of other windows, go to the top menu bar of your Mac, select 'Window,' and choose 'Show Window Always On Top.' This feature is especially convenient when you're listening to audio lectures and don't want any interruptions.  
-mini player window mac
+For Mac users, there's a handy mini-player window. To access it, simply move your cursor to the bottom-right edge of the app window and resize it to the smallest possible size. Then, tap the collapse button (depicted as a downward arrow) to activate the mini-player window. If you want to keep it on top of other windows, go to the top menu bar of your Mac, select 'Window,' and choose 'Show Window Always On Top.' This feature is especially convenient when you're listening to audio lectures and don't want any interruptions.
 
 ## Keyboard Shortcuts (Mac Exclusive)
 
-![keyboard shortcuts](21260c_f5974c1f64ab4e22b7a787f7f7eed0f5~mv2.png)
+{{< cards cols="1">}}
+  {{< card title="" subtitle="Mac Status Bar Playback Menu with Keyboard Shortcuts" image="/docs/guide/evermusic/evermusic-guide-player/img/player-mac-shortcuts.webp" >}}
+{{< /cards >}}
 
 For Mac users, there is a system playback menu available on the status bar with keyboard shortcuts. For example, to Play/Pause, just tap the spacebar on your keyboard. Shortcuts for Stop, Next Song, Previous Song, Skip Time, Repeat, Shuffle, and Playback Speed are available as shown in the screenshot.
 
 ## Audio Player Settings
 
-![player settings](21260c_4c87f3644ba743bb8c7835aa793153f4~mv2.png)
+{{< cards cols="1">}}
+  {{< card title="" subtitle="Audio Player Settings" image="/docs/guide/evermusic/evermusic-guide-player/img/player-settings.webp" >}}
+{{< /cards >}}
 
-To access audio player settings, tap the More button on the audio player screen and select "Settings" from the drop-down menu. Here, you'll find various sections:  
-audio player settings menu
+To access audio player settings, tap the More button on the audio player screen and select "Settings" from the drop-down menu. Here, you'll find various sections grouped by functionality:
 
 ### General
 

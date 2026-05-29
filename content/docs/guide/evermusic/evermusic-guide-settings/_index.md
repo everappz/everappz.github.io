@@ -1,502 +1,469 @@
 ---
 title: "Settings"
 date: 2020-01-01
-description: "Explore all settings in Evermusic including audio configuration, music library sync, offline folders, metadata, personalization, accessibility, and backup options."
+description: "Explore all settings in Evermusic including audio configuration, music library sync, offline folders, metadata, personalization, accessibility, widgets, CarPlay, and backup options."
 keywords: [
   "Evermusic", "settings", "audio settings", "music library sync",
   "offline folders", "equalizer", "crossfade", "gapless playback",
-  "audio processor", "playlist settings", "premium upgrade", 
+  "audio processor", "playlist settings", "premium upgrade",
   "restore purchases", "file manager", "tags editor", "WiFi drive",
-  "voiceover", "app backup", "accessibility", "localization"
+  "voiceover", "app backup", "accessibility", "localization",
+  "widgets", "CarPlay", "spatial audio", "audio pitch"
 ]
 tags: ["evermusic", "guide", "settings"]
-readingTime: 14
+readingTime: 16
 aliases:
   - /post/evermusic-guide-settings/
   - /guide-evermusic-settings/
 ---
 
 
-On this screen, you can access the application settings and upgrade it to the Premium version.
+The Settings screen is the control center of Evermusic. From here you can upgrade to Premium, configure the audio player, manage your music library, set up the file manager, customize the interface, enable widgets and CarPlay, back up your data, and access help and legal information. Sections are grouped under headers: **Purchases & updates**, app preferences, **Help**, and **Legal & privacy**.
 
-![evermusic settings screen](21260c_9cc76041f09447d0b809e8d36f64fd95~mv2.png)
+{{< cards cols="1">}}
+  {{< card title="" subtitle="Evermusic Settings Screen" image="/docs/guide/evermusic/evermusic-guide-settings/img/settings-main-screen.webp" >}}
+{{< /cards >}}
 
-## Upgrade to Premium
+## Purchases & Updates
 
-Upgrade the application to the Premium version to remove all limits. The free version of the application offers one-lifetime in-app purchase and two subscription options that allow you to remove all restrictions and upgrade to the Premium version.  
+### Upgrade to Premium
 
-Also, please keep in mind that **Family Sharing** is enabled for all purchases and plans, so you can share the Premium version with members of your family.  
+Upgrade the application to the Premium version to remove all limits. The free version offers one lifetime in-app purchase and two subscription options that unlock the full feature set.
 
-You can read more about purchases and Premium version here: [What is the difference between Evermusic and Evermusic Premium](/docs/faq/evermusic/what-is-the-difference-between-evermusic-and-evermusic-premium/).
+Family Sharing is enabled for all purchases and plans, so you can share the Premium version with members of your family.
 
-![evermusic upgrade to premium screen](21260c_332587e2cac0445ba8ea9446fb877b47~mv2.png)
+You can read more about purchases and the Premium version here: [What is the difference between Evermusic and Evermusic Premium](/docs/faq/evermusic/what-is-the-difference-between-evermusic-and-evermusic-premium/).
 
-## Sharing Purchases Between iOS and Mac
+### Sharing Purchases Between iOS and Mac
 
-Please keep in mind that lifetime purchases and subscriptions are shared between iOS and Mac, using iCloud to sync this information. If you have the premium version on your iOS device, please ensure you have the latest version installed and that iCloud is enabled. Start the app on iOS and wait one minute for your purchase information to upload to iCloud.
+Lifetime purchases and subscriptions are shared between iOS and Mac using iCloud. If you already own Premium on iOS, make sure you have the latest version installed and that iCloud is enabled. Start the app on iOS and wait one minute for your purchase information to upload to iCloud.
 
-You can also try pressing the "Restore Purchases" button in the app settings. Afterward, install the latest app version from the App Store on your Mac and start the app. Ensure you have an internet connection and are using the same iCloud and App Store account on your Mac that you used on your iOS device. Wait one minute for the app to download purchase info from iCloud. The premium version should activate on your Mac automatically.
+You can also tap **Restore Purchases** in app settings. Afterwards, install the latest app version from the App Store on your Mac and start the app. Ensure you have an internet connection and are signed in with the same iCloud and App Store account on both devices. Wait one minute for the app to download purchase information from iCloud. The Premium version should activate on your Mac automatically.
 
-## Restore purchases on a New Device
+### Restore Purchases on a New Device
 
-To restore your purchase on the new device just use the **Purchases -> Restore purchases** menu. You will see the list of your purchases. If you don't see all your purchases please check if the device is connected to the same iTunes account that was used to make purchases, and make sure iCloud is enabled.
+To restore your purchase on a new device, use **Purchases → Restore Purchases**. You will see the list of your purchases. If anything is missing, verify that the device is connected to the same iTunes account that was used to make the purchases and that iCloud is enabled.
 
-![Restore purchases screen](21260c_07ece11fbf9e42429a5dee53d3bf2ff3~mv2.png)
+### Try Premium for Free
 
-## Try Premium for Free 
+You can upgrade to the Premium version for free for a limited time using this menu. Watch a short advertisement or share the app with friends to unlock Premium temporarily.
 
-You can upgrade to the Premium version for free but for a limited time only using this menu. Just watch an advertisement or tell your friends about this app to get the Premium version for free.
+### Purchases
 
-## Purchases 
+Restore previous purchases from this menu. If you encounter activation errors, try enabling the **Restore Purchases at App Launch** option.
 
-You can restore previous purchases from this menu. If you encounter activation errors, try enabling the “Restore Purchases at App Launch” option.
+### Software Update
 
-## What’s new 
+Tap **Software Update** to check whether a newer version of Evermusic is available. The app will compare your installed version with the latest version on the App Store and let you know if an update is recommended.
 
-This menu is available after new version released. You can see what is new in the updated application.
+### What’s New
+
+This menu becomes available after a new version is released. It shows a summary of the changes and new features included in the most recent update.
 
 ## Audio Player Settings
 
-All audio player settings available in this section like equalizer, crossfade playback, audio player cache, song loading, and so on. They are all grouped by functionality.
+All audio player settings are grouped here: equalizer, crossfade playback, audio player cache, song loading, and more. Settings are organized into logical sub-sections.
 
-![evermusic audio player settings screen](21260c_4f4b9f4a6fc746a2aba18ea5b64f42d6~mv2.png)
+### General
 
-### General 
+This sub-section contains general playback queue, audio output, and state-saving settings.
 
-This section contains general audio player settings for playback queue, audio output, and state-saving.
+#### Repeat Mode
 
-#### Repeat mode
+Specifies the audio player’s behavior when a track finishes playback:
 
-Change the repeat mode to specify the audio player’s behavior when a track finishes playback. You have several options.
+- **Repeat all** – loops all tracks in your player queue.
+- **Repeat one** – repeats only the current track.
+- **Repeat stop** – pauses playback when the current track ends.
+- **Repeat none** – lets your queue play through without repeating.
 
-  - "Repeat all" – for looping all tracks in your player queue.
-  - "Repeat one" – for repeating only the current track.
-  - "Repeat Stop" – to pause playback when the current track ends.
-  - "Repeat None" – for letting your queue play through without repeating.
+#### Shuffle Mode
 
-#### Shuffle mode 
+Plays the tracks in a randomized order. This actually shuffles the queue and plays tracks one by one in the new order. Available values: **Shuffle off** and **Shuffle on**.
 
-Change tracks order randomly. This action changes tracks order in the queue and tracks are played one by one with the new order. Available values: "Shuffle off", "Shuffle on".
+#### Audio Processor
 
-![Shuffle mode screen](21260c_f5f2beb3b5e64b79b2e79362759b4867~mv2.png)
+Possible values: **AVFoundation** and **CoreAudio**. By default, AVFoundation is used. Due to a known issue with AVFoundation on iOS 17.0–17.6, crossfade playback and the audio equalizer cannot be used at the same time. To enjoy both crossfade and the equalizer on those iOS versions, switch to the CoreAudio audio processor.
 
-#### Audio processor
+If you experience issues with gapless playback using AVFoundation, try CoreAudio as well. The only limitations of CoreAudio are internet streaming of some radio stations and certain audio formats, since it does not support every system audio format (such as M4A and a few others).
 
-Possible values: AVFoundation and CoreAudio. By default, the AVFoundation audio processor is used. However, due to a known issue with the AVFoundation audio processor in iOS versions 17.0 to 17.6, the crossfade playback feature and the audio equalizer cannot be used simultaneously. To enjoy both crossfade playback and the audio equalizer on iOS 17.0-17.6, switch to the CoreAudio audio processor.
+#### Audio Output Sample Rate
 
-Additionally, if you experience issues with gapless playback using the AVFoundation audio processor, try switching to the CoreAudio audio processor. The only limitations of the CoreAudio audio processor are internet streaming of some radio stations and certain audio formats, as it does not support all system audio formats like M4A and some others.
+Set the audio output sample rate from 8 KHz to 384 KHz. This option is available only when the CoreAudio processor is selected.
 
-#### Audio output sample rate
+#### Audio Output Number of Channels
 
-This lets you set the audio output sample rate from 8KHz to 384KHz. This feature is available if the CoreAudio audio processor is selected.
+Set the audio output number of channels — **MONO** or **STEREO**. This option is available only when the CoreAudio processor is selected.
 
-#### Audio output number of channels
+#### Audio Pitch Algorithm
 
-This lets you set the audio output number of channels. Possible values are MONO and STEREO. This feature is available if the CoreAudio audio processor is selected.
+Choose the algorithm used for pitch correction. Available values are **Time Domain**, **Spectral**, and **Varispeed**. Useful if you adjust playback speed and want to control the resulting audio quality.
 
-#### Audio pitch algorithm
+#### Spatial Audio
 
-This lets you set the audio pitch algorithm that will be applied for pitch correction. Available values are ‘Time Domain,’ ‘Spectral,’ and ‘Varispeed.’ Useful if you need to increase playback speed.
+Spatial audio uses psychoacoustic methods to create a more immersive audio experience on supported headphones and speaker arrangements. Possible values: **Deactivated**, **Mono and Stereo**, **Multichannel**, **Mono Stereo Multichannel**.
 
-#### Spatial audio
+#### Audio Output Mode
 
-Spatial audio uses psychoacoustic methods to create a more immersive audio experience when played on specialized headphones and speaker arrangements. This setting lets you configure the audio to apply the spatial audio effect. Possible values are: Deactivated, Mono and Stereo, Multichannel, Mono Stereo Multichannel.
+Available on iOS only. Lets you enable mixed mode so audio from this application blends with other applications. You can find instructions on how to use mixed mode [here](/docs/howto/how-to-record-video-while-playing-music-on-iphone).
 
-#### Audio output mode
+#### Save Playback Position
 
-Available on iOS only. Lets you set audio output mixed mode so audio from this application will blend with other applications. You can find instructions about how to use mixed mode [here](/docs/howto/how-to-record-video-while-playing-music-on-iphone).
+Ensures the application saves and restores the playback position for songs in your music library.
 
-#### Save playback position
+#### Save Audio Player State
 
-Ensures the application saves and restores playback position for songs in your Music library.
+Saves the audio player state before closing the application, making it easy to resume from where you left off.
 
-#### Save audio player state
-
-Saves your audio player state before closing the application, making it easy to resume from where you left off.
-
-Once you’ve enabled both of these features, open any folder, album, artist, or genre within Evermusic. You’ll notice a **Continue Playback** action at the top of the screen, along with the last saved song playback position. To restore the playback progress, simply tap on the ‘Continue Playback’ button. If you want to restore playback for an individual file, tap on that specific file.
+Once both of these features are enabled, open any folder, album, artist, or genre. You will see a **Continue Playback** action at the top of the screen, along with the last saved song and playback position. Tap **Continue Playback** to restore. To resume playback for an individual file, simply tap that file.
 
 ### Personalization
 
-Allows you to customize the look of the audio player screen, change available controls on the main screen of the audio player, lock screen, and status bar during audio playback, and configure skip time controls.
-
-![Personalization screen](21260c_2076d445248142b09491a95e00755cce~mv2.png)
+Customize the look of the audio player screen, choose which controls are visible on the player, lock screen, and status bar, and configure the skip-time buttons.
 
 #### Audio Player Screen Style
 
-You can configure the positioning for toolbars and main controls on the main screen of audio player.
+Configure the positioning of toolbars and main controls on the audio player.
 
 #### Album Covers Scrolling Style
 
-You can configure the preferred album covers scrolling style on the main screen of audio player.
+Choose the scrolling style for album covers on the audio player screen.
 
-#### Additional Elements 
+#### Additional Elements
 
-This allows you to enable additional elements on the audio player screen. Enabling ‘Audio Format Info’ will show the now-playing track’s audio info above the artwork picture. Enabling the ‘Audio Volume Slider’ will show the audio output slider below the playback controls on the main screen of the audio player.
+Enable extra elements on the audio player screen. **Audio Format Info** displays the now-playing track’s technical info above the artwork; **Audio Volume Slider** shows the audio output slider below the playback controls.
 
 #### Main Screen Actions
 
-This allows you to configure which buttons should be visible on the main audio player screen by default. Possible values include Repeat and Shuffle Mode, Next and Previous Song, Skip Time, Sleep Timer, Google Chromecast, AirPlay and Bluetooth, Audio Equalizer, Search, Bookmarks, Speed, Add Bookmark, Add to Favorites, Comments, and others.
+Configure which buttons are visible on the main audio player screen. Available options include Repeat and Shuffle Mode, Next and Previous Song, Skip Time, Sleep Timer, Google Chromecast, AirPlay and Bluetooth, Audio Equalizer, Search, Bookmarks, Speed, Add Bookmark, Add to Favorites, Comments, and more.
 
 #### Playback Controls on the Lock Screen
 
-You can set which controls should be enabled on the lock screen. Possible values are Skip Time, Add Bookmark, and Add to Favorites.
+Choose which extra controls are enabled on the lock screen. Possible values: **Skip Time**, **Add Bookmark**, and **Add to Favorites**.
 
 #### Skip Time Intervals
 
-You can select the time interval for the ‘Skip Time’ buttons here.
+Select the time intervals used by the forward and backward Skip Time buttons.
 
 ### File Loading
 
-During the song loading process, you can change the network type that app uses to load songs. Available options - "Wi-Fi", "Wi-Fi and Cellular data".
+Choose the network type used to stream songs. Available options: **Wi-Fi** and **Wi-Fi & Cellular Data**.
 
-![Song Loading screen](21260c_9e0bc9afb49249498f87c9348bc941d2~mv2.png)
+#### Preloading Time
 
-#### Preloading time
+Set the buffering time interval. Increase this value if you have a poor network connection.
 
-Set buffering time interval. You may increase this value if you have a bad network connection.
+#### Use Direct URL
 
-#### Use direct URL
+When enabled, a direct URL is used to load the song if the server supports it. This can speed up song loading but may slightly affect playback stability.
 
-When this option is enabled a direct URL will be used to load the song if the server supports it. This can speed up song loading but may affect playback stability.
+#### Optimize File Loading
 
-#### Optimize file loading 
-
-When this option is enabled the system will optimize song loading for the AVFoundation audio processor. This can enhance playback stability. The app uses the technology described [here](/blog/audio-streaming-and-caching-in-ios-using-avassetresourceloader-and-avplayer/).
+When enabled, the system optimizes song loading for the AVFoundation audio processor, which can improve playback stability. The app uses the technology described [here](/blog/audio-streaming-and-caching-in-ios-using-avassetresourceloader-and-avplayer/).
 
 ### Audio Equalizer
 
-This is where you can change the audio equalizer configuration. You can read more about configuring audio equalizer, presets, configurations [here](/docs/howto/how-to-use-the-audio-equalizer-on-your-iphone-ipad-mac-with-evermusic-and-flacbox).
+Configure the audio equalizer. You can read more about presets and EQ configurations [here](/docs/howto/how-to-use-the-audio-equalizer-on-your-iphone-ipad-mac-with-evermusic-and-flacbox).
 
-![Audio Equalizer screen](21260c_426e44954ff845c286e016fab348dc76~mv2.png)
+### Devices
 
-### Connect to a device
-
-This is where you can connect to Airplay or Google Chromecast device (iOS only)
+Connect to an AirPlay or Google Chromecast device (iOS only).
 
 ### Playback Speed
 
-This lets you adjust the audio player playback speed. If you need more precise adjustments, activate the precise slider by tapping the configuration icon in the top right corner.
+Adjust the audio player playback speed. For more precise control, enable the precise slider by tapping the configuration icon in the top right corner.
 
-![Playback Speed screen](21260c_146058260f7640c888b4340b8028e1c2~mv2.png)
+### Crossfade Playback
 
-### Crossfade playback
+Crossfade allows songs to flow seamlessly in a continuous mix — the next song starts playing a few seconds before the current one finishes. Crossfade is not available for AirPlay and Google Chromecast. On this screen, choose how long the current and next song play simultaneously. If you experience issues with crossfade and the audio equalizer at the same time, switch the audio processor as described above.
 
-Crossfade allows the songs to flow seamlessly in a continuous mix. The next song begins playing a few seconds before the current one finishes. Please notice that crossfade is not available for AirPlay and Google Chromecast. On this screen, you can select the duration when the current song and next song are playing simultaneously. If you experience issues with crossfade playback and the audio equalizer simultaneously, consider changing the audio processor as described above.
+### Gapless Playback
 
-![Crossfade playback screen](21260c_37077448a4824c8b948dd81eb86c38f4~mv2.png)
-
-### Gapless playback
-
-Gapless playback ensures that songs play without any interruptions or silence in between. It’s perfect for genres like classical music, live recordings, and concept albums. If you have issues with gapless playback, consider changing the audio processor as described above.
-
-![Gapless playback screen](21260c_24ae4b3d8697480d9741c2f1fb9c1add~mv2.png)
+Gapless playback ensures that songs play without any interruption or silence in between. It is perfect for classical music, live recordings, and concept albums. If you have issues with gapless playback, switch the audio processor as described above.
 
 ### Playback Cache
 
-Songs in the audio player queue will be downloaded automatically for smooth playback. If you download audio files manually, you can disable this option to avoid duplicates. You can also configure the audio player cache size here. You can read more about offline mode and playback cache here: [Play Offline Music in Evermusic & Flacbox: Download & Sync from Cloud to Local Files](/docs/howto/play-offline-music-in-evermusic-flacbox-download-sync-from-cloud-to-local-files/) 
+Songs in the audio player queue are downloaded automatically for smooth playback. If you download audio files manually, you can disable this option to avoid duplicates. You can also configure the audio player cache size here. Read more about offline mode and playback cache here: [Play Offline Music in Evermusic & Flacbox: Download & Sync from Cloud to Local Files](/docs/howto/play-offline-music-in-evermusic-flacbox-download-sync-from-cloud-to-local-files/).
 
-![Audio Player Cache screen](21260c_beb32b8ff5ff408d8ac7d2d2a0d0e4c9~mv2.png)
+### Sleep Timer
 
-### Sleep timer
-
-Lets you enable a timer to stop playback after a specified timeout. If you need more precise adjustments, activate the precise mode by tapping the configuration icon in the top right corner.
-
-![Sleep timer settings screen](21260c_667bbba4695b4895a99287cba1a6699b~mv2.png)
+Enable a timer to stop playback after a specified timeout. For more precise control, enable precise mode by tapping the configuration icon in the top right corner.
 
 ## Library
 
-Your music library settings like automatic sync, metadata reading, loading of album artworks, playlists are located here.
-
-![Music library settings screen](21260c_32a25b477f5249909a7b4e33047144f5~mv2.png)
+Music library settings — automatic sync, metadata reading, album cover loading, playlists, recents, and favorites — live here.
 
 ### Metadata Reading
 
-When you add tracks to the library, the metadata reader gets to work. This background process reads all metadata from your tracks and organizes them by Artist, Album, Genre, and Composer. You have the flexibility to adjust the speed of metadata reading to load data faster, but be aware that this may use more energy. You can also disable the metadata reader and display file names instead of tag information.
+When you add tracks to the library, the metadata reader processes them in the background and organizes them by Artist, Album, Genre, and Composer. You can adjust how fast metadata is read to load data faster (at the cost of more battery). You can also disable the metadata reader entirely and show file names instead of tag information.
 
-![Metadata Synchronization screen](21260c_9d22c93f1e574ffc9e2b9f189fedac62~mv2.png)
+The metadata reader only updates the music library database; it does not alter files stored in your cloud account or local storage. If you need to edit audio file metadata, use the built-in tags editor via the corresponding action in the options menu.
 
-Importantly, the metadata reader only updates metadata in your music library and does not alter the files stored in your cloud account or local storage. If you wish to edit metadata for audio files, you can do so using the built-in tags editor, which you can activate from the corresponding action in the options menu.
+When **Metadata Reading in the Background** is on, the reader continues working in background mode. If the app uses too much energy during playback, iOS may suspend it.
 
-When the **Metadata reading in the background** switch is on, the metadata reader works in background mode. However, please note that if the app consumes a lot of energy during audio playback, the iOS operating system may suspend it.
+If you have a large music collection, it is advisable to perform metadata synchronization on the desktop version of the application. You can then transfer the synchronized music library to iOS using the **Backup & Restore** feature.
 
-So, if you have a large music collection, it's advisable to use the desktop version of the application for metadata synchronization. You can then use the data backup and restore feature to transfer the synchronized music library from the desktop, which is available in app settings.
+When **Normalize Metadata Encoding** is enabled, the app automatically normalizes the encoding of metadata for all songs. This fixes issues where audio tag encoding is broken (for example after editing files on a Windows PC) and prevents incorrect characters from appearing in track information.
 
-When the **Normalize metadata encoding** is enabled, the app will automatically normalize metadata encoding for all songs in the music library. This fixes issues where audio tags’ encoding is broken (such as after editing files on a Windows PC) and prevents incorrect information from displaying while a track is playing or added to the library.
+**Reload Metadata** flags every file in your music library as having missing metadata, which causes the metadata reader to refresh every record.
 
-The **Reload metadata** action will flag all files in your music library as having missing metadata, triggering the metadata reader to refresh the metadata for every file in your music library.
-
-Tap the **Start Metadata Reading** action to start the metadata reader. The operation progress will be displayed below.
+**Start Metadata Reading** triggers the metadata reader manually. Progress is shown below the action.
 
 ### Online Synchronization
 
-Automatic online music sync allows you to add tracks from connected cloud services to the music library automatically. To activate this feature, head to music library settings and select sync folders.
+Automatic online music sync adds tracks from connected cloud services to the music library automatically. To enable it, open the music library settings and select sync folders.
 
-![Online Music Synchronization screen](21260c_ac7c155c66ba48ca972c80f3c0d66950~mv2.png)
+With this option enabled, the application scans the selected folders, identifies supported audio files, and adds them to your library. Start or stop synchronization with the corresponding menu action.
 
-With this option enabled, the application scans all selected folders, identifies supported audio files, and seamlessly integrates them into your library. You can start or stop synchronization by tapping on the corresponding menu action.
+Online sync runs only when the app is in the foreground, so synchronizing a large library can take some time. To speed things up, keep the app open, connect to a power source, and enable **Screen → Always Active** in settings.
 
-![Synchronized online folders selection screen](21260c_cd8c111c7ab640e5be6f15e775f7259c~mv2.png)
+Alternatively, perform online sync on the desktop version of the app and transfer the music library to iOS using **Backup & Restore**.
 
-Online music synchronization operates exclusively when the app is in the foreground, which means synchronization may take some time. To speed up the process, leave your app open, connect it to a power source, and enable **'Screen' -> 'Always active'** option in application settings.
+You can also choose how often online sync runs. Setting the interval to **Immediately** triggers a sync every time you open the application.
 
-Alternatively, you can perform online music synchronization on the desktop version of the app and transfer the music library to the iOS version using the data backup restore feature.
+### Offline Synchronization
 
-You can also set how often you want to synchronize your online music library. If you set it to **"Immediately"**, online sync will start every time you open the application.
-
-![Online synchronization time interval screen](21260c_30f554b0d0a3473ba7628539ce26ace8~mv2.png)
-
-### Offline Synchronizationh
-
-Here you can configure offline music synchronization.
-
-![Offline Music Synchronization screen](21260c_f6b45dbcf5cc4dd282857d348d946003~mv2.png)
+Configure offline music synchronization.
 
 #### Synchronized Offline Folders
 
-When you make an online folder on your cloud server available offline (using the **More Actions** menu), this folder will appear here. The folder content will be downloaded to the **Local Files -> Offline Folders** section. When you change the online folder on the cloud server (adding, removing, or updating files), the app will check for changes and update the local copy of this folder on your device.
+When you mark an online folder on your cloud server as available offline (using the More Actions menu), it appears here. The folder content is downloaded to **Local Files → Offline Folders**. When the online folder changes (files added, removed, or updated), the app checks for changes and updates the local copy on your device.
 
-On this screen, you can manually start offline folder synchronization, show the offline folder in its enclosing folder, and disable offline mode for this folder. Disabling offline mode will remove all local copies of files from your device.
-
-![Synchronized Offline Folders screen](21260c_d4e0b5f422894598a3ab2f1eaafe7657~mv2.png)
+On this screen you can manually start offline folder synchronization, reveal the offline folder in its enclosing folder, and disable offline mode for the folder. Disabling offline mode removes all local copies of files from your device.
 
 #### Time Interval
 
-You can set the time interval for how often the app should check offline folders for modifications.
+Choose how often the app checks offline folders for modifications.
 
 #### Start Local Folders Scanning
 
-This option scans all local folders located in the application’s **Documents** directory to find supported audio files. All these local files are seamlessly added to your music library. Local files located on your device but outside of this application must be added to the music library manually, as the app does not have access to files outside the application Documents directory due to iOS/MacOS security restrictions.
+Scan all local folders in the application Documents directory for supported audio files. Found files are added to the music library automatically. Files located on your device but outside of the application Documents directory must be added to the music library manually, as the app cannot access them due to iOS/macOS security restrictions.
 
 **Important:** It is advisable to periodically initiate offline music synchronization to keep your music library updated with your local files.
 
 ### Personalization
 
-In this section, you can configure the music library screen style to suit your preferences. Three options are available: Plain menu, Grouped menu, Tabbed menu. Also you can enable or disable showing album covers in album details screen.
-
-![Personalization screen](21260c_468417e440b846a59af908d5101901b6~mv2.png)
+Configure the music library screen style. Three options are available: **Plain menu**, **Grouped menu**, and **Tabbed menu**. You can also enable or disable album covers in the album details screen.
 
 ### Album Covers
 
-Here, you can enable the search for album covers within your music folders. You can also choose the quality of album covers stored on your device and manage your cached album covers. By default, the app will check for embedded album covers in your tracks and display them if available. If there are no embedded album artworks and the ‘Search in the folder’ option is enabled, the app will check the enclosing folder for JPEG or PNG images and use them as album artwork for all tracks in that folder.
+Choose how the application loads and stores album artwork.
 
-![Album Covers Settings Screen](21260c_bafa8d6fb0a4465ba696af582c0074aa~mv2.png)
+- **Network type** — pick **Wi-Fi** or **Wi-Fi & Cellular Data** for cover downloads.
+- **Search on the Internet** — when enabled, the app downloads missing album covers from the Internet for songs without embedded covers.
+- **Load Album Covers for Online Files** — when enabled, embedded album covers are also loaded for files stored in cloud storage. This may use additional network data.
+- **Search in the Folder** — when enabled, if a track has no embedded cover, the app looks for JPEG or PNG images in the same folder and uses them as the album artwork.
+- **Cover Quality** — select the quality of album covers stored on your device.
+- **Show in Folder** — open the folder where album covers are cached so you can manage or back them up.
+- **Delete All** — delete cached album covers to free up storage and force the app to reload them on demand.
 
 ### Playlists
 
-You can enable the option to add the same song to a playlist twice. By default, this option is disabled.
-
-![Playlists Settings](21260c_8f67546ed47245169983fcea35d5af3f~mv2.png)
+Enable the option to add the same song to a playlist twice. By default, this option is disabled.
 
 ### Recents
 
-You can manage your recently played songs list.
+Manage your recently played songs list.
 
-![Recents screen](21260c_0a400318ca3c45dfb10659b151430bb9~mv2.png)
-
-- **Delete List:** You can delete the entire list of recently played songs.
-- **Change List Size:** You can set the number of items that should appear in the list.
-- **Export Songs List:** Use this action to export your recently played songs list in different formats: M3U, CSV, or TXT. Detailed instructions are available on our website [here](/docs/howto/export-tracks-collection-from-evermusic-flacbox-to-m3u-csv-txt/).
-
-![Export Songs List screen](21260c_eace98a1cc344e7299377aba42f18512~mv2.png)
+- **Delete List** — delete the entire list of recently played songs.
+- **Change List Size** — set the number of items that appear in the list.
+- **Export Songs List** — export your recently played songs list as M3U, CSV, or TXT. Detailed instructions are available [here](/docs/howto/export-tracks-collection-from-evermusic-flacbox-to-m3u-csv-txt/).
 
 ### Favorites
 
-You can manage the list of your favorite songs.
+Manage the list of your favorite songs.
 
-- **Simultaneous Editing:** Enable this option to add a song to the favorites list in both the music library and the files section simultaneously.
-- **Delete List:** You can delete the entire list of favorite songs.
-- **Export Songs List:** Similar to the Recents section, you can export the list of your favorite tracks in different formats: M3U, CSV, or TXT.
+- **Simultaneous Editing** — when enabled, adding a song to favorites adds it both in the music library and the files section simultaneously.
+- **Delete List** — delete the entire list of favorite songs.
+- **Export Songs List** — like Recents, export favorites as M3U, CSV, or TXT.
 
-![Favorites screen](21260c_64e95955fadf4605930ac98e9bafa0f3~mv2.png)
+### Delete Music Library
 
-### Delete music library
-
-This action will erase the music library database, but it will leave your music files untouched.
+Erase the music library database. Your music files on storage are left untouched.
 
 ## Passcode
 
 Activates the password protection screen if you want to protect your application data.
 
-![evermusic passcode screen](21260c_9c328f0298394b549003f899602704e3~mv2.png)
+## File Manager
 
-## File manager
+The File Manager section controls how files are transferred, stored, and previewed.
 
-![File manager screen](21260c_c2881a78d2c94d53b977c577fd0fc459~mv2.png)
+### File Transfers
 
-### File transfers
+Choose your network preference for downloading files to your device.
 
-Choose your network preference when downloading files to your device.
+### Maximum Number of Parallel Tasks
 
-### Maximum number of parallel tasks
+Set the number of parallel download threads. A higher number speeds up downloads but requires more battery.
 
-Set the number of parallel download threads. Choosing a higher number will speed up file downloads but may require extra battery power.
+### File Transfer Tasks
 
-### File transfer tasks
+Displays currently active upload and download tasks.
 
-Displays currently active upload/download tasks.
+### Background Transfers
 
-### Background transfers
+Allow downloads while the app is in the background. If background transfers consume a lot of energy, iOS may suspend the app.
 
-You can enable downloads even when the app is running in the background. Please be aware that if this operation consumes a significant amount of energy, the operating system may suspend the app.
+### Save Downloaded Files To
 
-### Save downloaded files to
+Choose the default downloads directory, or have the app prompt you every time.
 
-Define your default downloads directory or opt to be prompted every time to choose where to save files.
+### Synchronized Offline Folders
 
-### Synchronized offline folders
+Manage offline sync for selected folders. To enable offline sync, tap the three-dots button next to a folder and select **Available Offline Mode**. New files added to the cloud folder are downloaded to your device automatically. Read more about offline modes [here](/docs/howto/play-offline-music-in-evermusic-flacbox-download-sync-from-cloud-to-local-files/).
 
-Manage synchronization of selected offline folders. If you want to synchronize a folder for offline playback, tap the three dots button near the folder name and select ‘Available Offline Mode.’ All new files added to the cloud folder will be downloaded to your device automatically. You can read more about offline modes [here](/docs/howto/play-offline-music-in-evermusic-flacbox-download-sync-from-cloud-to-local-files/).
+### Time Interval
 
-### Time interval
+Choose how often offline folders are synchronized. **Immediately** triggers a sync every time you open the app.
 
-Select the time interval for synchronizing offline folders. If you choose "Immediately," offline folders will be synchronized every time you open the application.
+### Show Full Filenames
 
-### Show full filenames
+Show complete filenames, including extensions, in the file manager.
 
-Activate this option if you need to view complete filenames, including extensions, in the file manager.
+### Edit Online Files
 
-### Edit online files
+Disable online file editing to switch to read-only mode for connected cloud services and prevent accidental deletions. This action removes file editing operations from the user interface.
 
-You can disable online file editing and switch to a read-only mode for connected cloud services to prevent accidental file deletions. This action removes file editing operations from the user interface.
+### Copy Files When Opening
 
-### Copy files when opening
+Specify how the app handles imported files from other applications.
 
-Specify how the app should handle imported files from other applications.
+### Thumbnails for Files
 
-### Thumbnails for files
+Manage and delete generated file thumbnails to free up storage space.
 
-Delete and manage generated file thumbnails to free up storage space.
+### Delete Temporary Files
 
-### Delete temporary files
+Clear the application’s cache folder to reclaim storage space.
 
-Clear the application's cache folder to reclaim storage space.
+## Audio Tags Editor
 
-## Audio tags editor
+Configure the built-in audio tags editor.
 
-![Audio tags editor screen](21260c_1bac9f60647347c5b1f3f493bd3a546b~mv2.png)
+### Album Cover Scaling
 
-In this section, you can configure the built-in audio tags editor.
+Choose the scaling method used when an album cover is saved into audio tags.
 
-### Album cover scaling
+### Update Online Files
 
-Here you can select the scaling method for the album cover when saving it to audio tags.
+When enabled, the application automatically updates a file’s metadata on the cloud server after you finish editing it.
 
-### Update online files
+### Delete File After Editing Online
 
-You can enable this option, and the application will automatically update the file's metadata on a cloud server after you've finished editing it.
+Choose whether the application should delete the downloaded copy after finishing the edit of an online file on a cloud server.
 
-### Edit online files
+### Main Screen Buttons
 
-You can choose whether the application should delete the downloaded file after you've finished editing the online file on a cloud server.
+Choose which buttons are visible on the main screen of the audio tags editor.
 
-### Main screen buttons
+## Widgets
 
-You can choose which buttons should be available on the main screen of the audio tags editor.
+Enable widgets so the app updates widget data during playback. Widget updates require additional energy, so enable this only if you actually use widgets on your Home Screen or Lock Screen.
+
+You can read more about Evermusic widgets in the [Navigation guide](/docs/guide/evermusic/evermusic-guide-navigation/).
 
 ## CarPlay
 
-You can change CarPlay settings here. This menu also abailable in CarPlay interface allowing you to optimize it.
+Change CarPlay settings here. This menu is also available inside the CarPlay interface so you can adjust the experience while driving.
 
 ### Sort
 
-You can change sort options here for all CarPlay screens.
+Configure sort options for all CarPlay screens.
 
-### Content loading limit
+### Content Loading Limit
 
-You can select if the app should use pagination in CarPlay screen.
+Choose whether the app uses pagination on the CarPlay screen. Pagination keeps menus responsive on devices with limited memory and large libraries.
 
-### Show images
+### Menu Icons Gradient Color
 
-You can disable images on CarPlay screen to optimize loading speed.
+Select the color scheme for the CarPlay home screen.
 
-### Pause playback when connected
+### Show Images
 
-You can enable this to avoid sudden loud audio when you connect to CarPlay interface.
+Disable images on the CarPlay screen to optimize loading speed and reduce memory usage on large libraries.
 
-## WiFi-Drive
+### Pause Playback When Connected
 
-In this section, you can activate the WiFi Drive feature, which allows you to transfer files from your computer to this device using a desktop web browser. We have detailed instructions on how to use WiFi Drive [here](/docs/howto/how-to-transfer-files-wirelessly-from-a-computer-to-an-iphone-using-wifi-drive).
+Enable this to avoid sudden loud audio when you connect your device to CarPlay.
 
-![WiFi-Drive screen](21260c_47d7e22d7d7542119123cee8d3ae24b8~mv2.png)
+## Wi-Fi Drive
+
+Activate Wi-Fi Drive to transfer files from a computer to your device using a desktop web browser. Detailed instructions on how to use Wi-Fi Drive are available [here](/docs/howto/how-to-transfer-files-wirelessly-from-a-computer-to-an-iphone-using-wifi-drive).
 
 ## Personalization
 
-![Personalization screen](21260c_e5c5241ce76d4276a575085fdd613035~mv2.png)
+Customize the user interface to suit your preferences.
 
-In this section, you can customize the user interface settings to suit your preferences.
+### Application Icon
 
-### Application icon
+Choose an alternate application icon for your Home Screen.
 
-Select an application icon for your home screen, whether you want a fresh new look or something that matches your style.
+### Color Scheme
 
-### Color scheme
+Pick the user interface theme and enable dark mode. When **Default** is selected, the application follows the device-wide appearance settings.
 
-Customize the user interface theme and enable dark mode here. When the default option is selected, the application will adapt its color scheme based on your device's appearance settings.
+### Background Style
 
-### Background style
+Modify the background style of the application. Currently the only option is **Blurred Album Cover**, which uses the currently playing track’s artwork as a blurred app background.
 
-Modify the background style of the application. Currently, the only available option is "Blurred album cover." When enabled, a blurred album cover image will serve as the application's background.
+### Appearance of Items in the List
 
-### Appearance of items in the list
+Tune how items are displayed in lists. Useful on small screens — you can let the app adjust row height automatically based on content, or show smaller icons in list cells to give text more space.
 
-Here you can customize how items in the list are displayed, which is especially useful for devices with smaller screens. You can choose whether the app should automatically adjust the height based on the content or show smaller icons in list cells to provide more space for text.
+### Content Loading Limit
 
-### Content loading limit
+By default the application uses pagination to speed up content loading. You can disable pagination to load everything at once.
 
-By default, the application uses pagination to speed up content loading. However, you can opt to disable this feature, allowing the application to load all available data at once.
+### Local Files Screen Style
 
-### Local files screen style
+Change the presentation style of the **Local Files** section.
 
-Change the presentation style for the "Local files" section to your preference.
+### Music Library Screen Style
 
-### Music library screen style
+Customize the look of the **Music Library** screen.
 
-Customize the style of the "Music library" screen to suit your taste.
+### Audio Player Screen Style
 
-### Audio player screen style
+Configure the look of the **Audio Player** screen.
 
-Configure the style of the "Audio player" screen to match your preferences.
+### Context Menu Style
 
-### Context menu style
+Choose the style of the context menu shown when you tap the More Actions button.
 
-Select a style for the context menu that appears when you tap the 'More Actions' button.
+## Window
+
+Available on Mac and Catalyst. Configure window-related preferences such as default size and behavior on launch.
 
 ## Screen
 
-In this section, you have the option to customize whether the screen should stay active while you're using the application.
+Choose whether the screen should stay active while you are using the application. Useful when scanning large libraries or doing prolonged tag-editing work.
 
 ## Accessibility
 
-In this section, you can activate text mode for the application, which hides all images. This feature is automatically enabled when VoiceOver is active.
+Activate **Text Mode** to hide all images in the user interface. Text Mode is enabled automatically when VoiceOver is active and is also useful for very small or text-only setups.
 
 ## Language
 
-![Language screen](21260c_d18ffeafea86496a9bbd5d2629aa3c28~mv2.png)
-
-In this section, you can change the application language and override the default system settings. Currently, the app supports following localizations: Afrikaans, Akan, Albanian, Amharic, Arabic, Armenian, Assamese, Aymara, Azerbaijani, Bambara, Bangla, Basque, Belarusian, Bosnian, Bulgarian, Burmese, Catalan, Cebuano, Chinese, Simplified, Chinese, Traditional, Corsican, Croatian, Czech, Danish, Dhivehi, Dogri, Dutch, English, Esperanto, Estonian, Ewe, Filipino, Finnish, French, Galician, Ganda, Georgian, German, Greek, Guarani, Gujarati, Haitian Creole, Hausa, Hawaiian, Hebrew, Hindi, Hmong, Hungarian, Icelandic, Igbo, Iloko, Indonesian, Irish, Italian, Japanese, Javanese, Kannada, Kazakh, Khmer, Kinyarwanda, Korean, Krio, Kurdish, Kurdish, Sorani, Kyrgyz, Lao, Latin, Latvian, Lingala, Lithuanian, Luxembourgish, Macedonian, Maithili, Malagasy, Malay, Malayalam, Maltese, Māori, Marathi, Mizo, Mongolian, Nepali, Northern Sotho, Norwegian Bokmål, Nyanja, Odia, Oromo, Pashto, Persian, Polish, Portuguese, Punjabi, Romanian, Russian, Samoan, Sanskrit, Scottish Gaelic, Serbian, Shona, Sindhi, Sinhala, Slovak, Slovenian, Somali, Southern Sotho, Spanish, Sundanese, Swahili, Swedish, Tajik, Tamil, Tatar, Telugu, Thai, Tsonga, Turkish, Turkmen, Ukrainian, Urdu, Uyghur, Uzbek, Vietnamese, Welsh, Xhosa, Yiddish, Yoruba, Zulu
+Change the application language and override the system default. Currently the app supports the following localizations: Afrikaans, Akan, Albanian, Amharic, Arabic, Armenian, Assamese, Aymara, Azerbaijani, Bambara, Bangla, Basque, Belarusian, Bosnian, Bulgarian, Burmese, Catalan, Cebuano, Chinese Simplified, Chinese Traditional, Corsican, Croatian, Czech, Danish, Dhivehi, Dogri, Dutch, English, Esperanto, Estonian, Ewe, Filipino, Finnish, French, Galician, Ganda, Georgian, German, Greek, Guarani, Gujarati, Haitian Creole, Hausa, Hawaiian, Hebrew, Hindi, Hmong, Hungarian, Icelandic, Igbo, Iloko, Indonesian, Irish, Italian, Japanese, Javanese, Kannada, Kazakh, Khmer, Kinyarwanda, Korean, Krio, Kurdish, Kurdish Sorani, Kyrgyz, Lao, Latin, Latvian, Lingala, Lithuanian, Luxembourgish, Macedonian, Maithili, Malagasy, Malay, Malayalam, Maltese, Māori, Marathi, Mizo, Mongolian, Nepali, Northern Sotho, Norwegian Bokmål, Nyanja, Odia, Oromo, Pashto, Persian, Polish, Portuguese, Punjabi, Romanian, Russian, Samoan, Sanskrit, Scottish Gaelic, Serbian, Shona, Sindhi, Sinhala, Slovak, Slovenian, Somali, Southern Sotho, Spanish, Sundanese, Swahili, Swedish, Tajik, Tamil, Tatar, Telugu, Thai, Tsonga, Turkish, Turkmen, Ukrainian, Urdu, Uyghur, Uzbek, Vietnamese, Welsh, Xhosa, Yiddish, Yoruba, Zulu.
 
 ## Backup & Restore
 
-![Backup & Restore screen](21260c_07a50c600fae45d7b9964475a6eb28da~mv2.png)
+Back up all of your application data or migrate it to another device. You can choose what to include:
 
-Use this feature to backup all your application data or migrate it to another device.
+- **Database** — all of your music library tracks and playlists. Offline tracks are not included to keep the backup size manageable.
+- **Album Covers** — all of your cached album covers.
+- **Settings** — all of your application settings.
 
-You can choose which data you want to migrate:
+Tap **Backup Application Data** to start the backup operation. The application data is written to a single file that you can use later to restore the application state on a new device or after reinstalling the app.
 
-- **Database:** All your tracks in the music library, including playlists. Offline tracks will not backup to optimize backup file size.
-- **Album Covers:** All your cached album covers.
-- **Settings:** All your application settings.
+To restore application data on a new device, move the backup file to the new device using a connected cloud service or iCloud and open it on the new device.
 
-To start the backup operation, just tap the **Backup Application Data** button. Application data will be backed up to a file, and you can use it in the future to restore the application state on a new device or after reinstalling the application.
-
-If you need to restore application data on a new device, move the backup file from this device to the new device using a connected cloud service or iCloud and open it on the new device.
-
-We have detailed instruction about how to use data backup and restore feature here: [How to Transfer Your Music Library Between Devices in Evermusic: Step-by-Step Guide](/docs/howto/how-to-transfer-your-music-library-between-devices-in-evermusic-step-by-step-guide).
+We have a detailed step-by-step guide here: [How to Transfer Your Music Library Between Devices in Evermusic: Step-by-Step Guide](/docs/howto/how-to-transfer-your-music-library-between-devices-in-evermusic-step-by-step-guide).
 
 ## Help
 
-Access the application guide for assistance and guidance on using the app effectively.
+Open the application guide for assistance and guidance on using the app effectively.
 
 ## Frequently Asked Questions
 
@@ -504,19 +471,19 @@ Find answers to common questions in the FAQ section.
 
 ## Send Feedback
 
-Have feedback or need assistance? Send your feedback to our support team.
+Have feedback or need assistance? Send your feedback to our support team directly from the app.
 
 ## Share This App
 
-Share this application with your friends and spread the word.
+Share the application with your friends to help spread the word.
 
 ## Discover More Apps
 
-Explore our other apps and discover more from our collection.
+Explore other apps from Everappz.
 
 ## Terms and Conditions
 
-This section outlines the terms and conditions for using the application. Please read it before using the application.
+Outlines the terms and conditions for using the application. Please read it before using the application.
 
 ## Privacy Policy
 
@@ -524,8 +491,8 @@ Visit the privacy policy page to understand our data handling practices. Please 
 
 ## Analytics and Data Collection
 
-Here you can check what services are enabled for analytics and data collection and deactivate them if you need.
+Check which services are enabled for analytics and data collection and deactivate any you do not want.
 
 ## Legal Notices
 
-This section contains information about all the libraries and app version details used in the application.
+Contains information about every library used in the application along with the app version number and build information.
