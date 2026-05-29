@@ -46,7 +46,7 @@ Evermusic supports the full lineup of popular cloud and self-hosted services. Fr
 - **Self-hosted servers and media libraries:** Plex · Jellyfin · Emby · Subsonic (and every Subsonic-compatible server — Airsonic, Funkwhale, Gonic, Logitech Media Server, Ampache) · Navidrome · Nextcloud (and Owncloud, via the shared API) · Synology Drive · QNAP.
 - **NAS and file-share protocols:** SMB (SMB1, SMB2, Auto), WebDAV (HTTP / HTTPS), FTP / FTPS, SFTP (password or public-key authentication), NFS, and DLNA (read-only — playback and download).
 - **S3-compatible object storage:** AWS S3, Backblaze B2, Wasabi, Cloudflare R2, MinIO, DigitalOcean Spaces, Linode Object Storage, IBM Cloud Object Storage, or any S3-API endpoint.
-- **Local-network discovery:** the Available devices section automatically lists any device on your Wi-Fi that advertises itself via Bonjour / mDNS — Plex, Jellyfin, Emby servers, Synology, QNAP, Asustor, TerraMaster, Apple Time Capsule, AirPort routers with attached drives, and so on.
+- **Local-network discovery:** the Available devices section automatically lists any device on your Wi-Fi that advertises itself via Bonjour / mDNS — Plex, Jellyfin, Emby servers, Synology, QNAP, WD My Cloud Home, Apple Time Capsule, AirPort routers with attached drives, and so on.
 
 ## Security and privacy
 

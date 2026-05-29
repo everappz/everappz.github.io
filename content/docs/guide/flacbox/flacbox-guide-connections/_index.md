@@ -4,225 +4,277 @@ date: 2020-02-01
 aliases:
   - /post/flacbox-guide-connections/
   - /guide-flacbox-connect/
-description: "Learn how to connect cloud services, NAS, and your computer to Flacbox. Stream music from iCloud, Dropbox, Google Drive, and more. Use SMB, WebDAV, DLNA, Wi-Fi Drive, and iTunes File Sharing."
+description: "Learn how to connect cloud services and NAS devices to Flacbox. Stream high-resolution music from iCloud Drive, Dropbox, Google Drive, OneDrive, MEGA, Box, pCloud, Synology Drive, Yandex Disk, and more. Use SMB, WebDAV, DLNA, FTP / SFTP, Wi-Fi Drive, iTunes / Finder File Sharing, and USB flash drives."
 keywords: [
-  "Flacbox cloud setup", "connect Google Drive to Flacbox", "SMB music streaming", 
-  "WebDAV iOS player", "DLNA music app", "NAS audio streaming", "Wi-Fi Drive iPhone", 
-  "transfer files to iPhone", "Flacbox iTunes File Sharing", "connect NAS to iPhone"
+  "Flacbox cloud setup", "connect Google Drive to Flacbox", "SMB music streaming",
+  "WebDAV iOS player", "DLNA music app", "NAS audio streaming", "Wi-Fi Drive iPhone",
+  "transfer files to iPhone", "Flacbox iTunes File Sharing", "connect NAS to iPhone",
+  "Synology Drive music app", "QNAP music app", "Bluesound music app",
+  "Flacbox pCloud", "Flacbox MEGA", "Flacbox OneDrive", "Flacbox Yandex Disk",
+  "Flacbox HiDrive", "Flacbox MediaFire", "Last.fm scrobbling music app",
+  "iXpand Flash Drive music", "USB DAC iPhone"
 ]
-tags: ["guide", "flacbox", "connections"]
-readingTime: 11
+tags: ["guide", "flacbox", "connections", "cloud", "NAS"]
+readingTime: 12
 ---
 
 
-On this screen, you can connect various sources containing your music. You can integrate popular cloud services like Dropbox, Google Drive, and others, as well as connect your Mac or PC. Additionally, you have the option to import music from Apple Time Capsule or WD Cloud Home.
+On this screen, you can connect every source that holds your music. You can integrate popular cloud services like **Dropbox, Google Drive, iCloud Drive, OneDrive, MEGA, Box, pCloud, Yandex Disk, Synology Drive,** and many more, as well as your **Mac, PC, or NAS** over standard protocols. Whether your collection lives on a streaming-friendly service like Dropbox or on a personal NAS like a Synology, QNAP, Buffalo, **Apple Time Capsule**, or **WD My Cloud Home**, Flacbox connects to them all from a single screen.
 
-## Connect to cloud storage
+{{< cards cols="1">}}
+  {{< card title="" subtitle="Flacbox Connections Screen" image="/docs/guide/flacbox/img/connections-main.webp" >}}
+{{< /cards >}}
 
-- Open the 'Connections' tab  
-- Select 'Connect to cloud storage' from the menu  
-- Choose a cloud storage service from the list  
-- Enter your credentials, and tap 'Done.'
+## Connect to Cloud Storage
 
-![Connect a Cloud Service](21260c_f3f30523c16a45af8a7a50af24ef7951~mv2.png)
+- Open the **Connections** tab.
+- Select **Connect to cloud storage** from the menu.
+- Choose a cloud storage service from the list.
+- Enter your credentials on the official authorization page provided by the cloud provider, then tap **Done**.
 
-If you encounter any issues, be sure to check your internet connection and login/password.  
-In the Premium version of the app, you can add an unlimited number of services.
+{{< cards cols="1">}}
+  {{< card title="" subtitle="Flacbox Add a Cloud Storage Service" image="/docs/guide/flacbox/img/add-cloud-storage.webp" >}}
+{{< /cards >}}
 
-## Supported cloud storage services
+If you encounter any issues, check your internet connection and your login / password. In the **Premium** version of the app, you can add an unlimited number of services; the free version supports up to three.
 
-Currently, the application supports the most popular cloud storage services: iCloud Drive, Dropbox, OneDrive, Google Drive, MEGA, Synology Drive, SMB, WebDAV, DLNA, Yandex.Disk, Box, 百度网盘, pCloud, WD My Cloud Home, InfiniCLOUD, MediaFire, OpenDrive, HiDrive, Cloud Mail.ru, Put.io, MyDrive.
+## Supported Cloud Storage Services, Media Servers, and Protocols
 
-## Security and privacy
+Flacbox supports an exceptionally wide range of sources for your music. Everything below works from a single **Connect to cloud storage** screen.
 
-We use only official SDKs and secure connections to interact with connected cloud services. Your login and password are not accessible to the application. All requests from the application to the cloud service are encrypted.
+**Personal cloud storage:** iCloud Drive · Dropbox · OneDrive · Google Drive · MEGA · Box · pCloud · Yandex Disk · WD My Cloud Home · MediaFire · TeraCLOUD (InfiniCLOUD) · HiDrive · IceDrive · Koofr · OpenDrive · MyDrive · Put.io · Cloud Mail.ru · Internxt · Proton Drive · AliDrive (阿里云盘) · Baidu Pan (百度网盘).
 
-When you enter your login and password, the application shows you the official authorization page provided by the cloud service provider, and the entire authorization process occurs outside the application. The cloud service provider sends an auth token to the application after successful authorization, and that token is used to make API calls.
+**Self-hosted servers and music-server APIs:** **Plex** · **Jellyfin** · **Emby** · **Subsonic** (and every Subsonic-compatible server — Airsonic, Funkwhale, Gonic, Logitech Media Server, Ampache) · **Navidrome** · Nextcloud (and ownCloud via the shared API) · **Synology Drive** · **QNAP**.
 
-An auth token is a digital key that allows third-party applications to interact with cloud storage. The auth token is stored on your device in a secure system storage called Keychain. You can download your files from the connected cloud service to the device, and those files will be placed in the app's "Documents" directory. You can remove those files anytime using the built-in file manager.
+**NAS and file-share protocols:** **SMB** (SMB1, SMB2, Auto) · **WebDAV** (HTTP / HTTPS) · **FTP / FTPS** · **SFTP** (SSH File Transfer Protocol, password or public-key auth) · **NFS** · **DLNA / UPnP** (playback and download).
 
-The application does not share any information from the connected cloud account. You can revoke access to your cloud account at any time by opening the account settings page in your web browser.
+**S3-compatible object storage:** AWS S3, Backblaze B2, Wasabi, Cloudflare R2, MinIO, DigitalOcean Spaces, and any other S3-API endpoint.
 
-## Reject auth-token
+**Local-network discovery:** the **Available Devices** section auto-lists every Bonjour / mDNS service on your Wi-Fi network so you can tap to connect without typing an IP address.
 
-Log in to your account in a web browser and navigate to the settings page. There, you can find all third-party apps that are connected to your cloud account and remove any of them if you no longer want to use that application. Detailed instructions are available [here](/docs/howto/how-to-disconnect-third-party-app-from-your-google-account).
+Each connection uses the **official SDK or open protocol** of the service, with OAuth-based authorization where supported. You can connect multiple accounts of the same service (for example, two Google Drive accounts, a personal Dropbox alongside a work one, or both a Plex and a Jellyfin server) and browse them side-by-side in the Connections screen.
 
-You can also disconnect the connected cloud accounts in the application, and the auth token will also be removed from your device. If you remove the application from your device, all downloaded data and access tokens will also be removed.
+## Security and Privacy
 
-## Disconnect a cloud storage or change configuration
+We use only **official SDKs and secure connections** to interact with connected cloud services. Your login and password are not accessible to the application — all transfers are TLS-encrypted.
 
-- Access Cloud Storage Options: First, locate the cloud storage you wish to manage within the app's interface.  
-- Tap '...' Button: Next to the service title, you'll see a '...' button. Tap on it to access additional options.  
-  - **Rename**: If you want to change the name of the cloud service as it appears in your list, select 'Rename.'  
-  - **Settings**: To modify the configuration or authentication data for the cloud service, choose 'Settings.' Sometimes, you may need to reauthorize the connected cloud service if the authorization token has expired.  
-  - **Disconnect**: If you wish to completely sever the connection between the app and the cloud service, select 'Disconnect.' Be aware that choosing this option will remove all songs associated with this cloud service from your app's music library, but they will remain on the server.
+When you enter your login and password, the application shows you the **official authorization page provided by the cloud service provider**, and the entire authorization process takes place outside the application. The cloud service provider then sends an **auth-token** to the application after successful authorization, and that token is used to make API calls.
 
-![disconnect a cloud service or change configuration](21260c_553b3f9b3e524c9ea5424024f064b2a6~mv2.png)
+An auth-token is a digital key that allows third-party applications to interact with cloud storage on your behalf. The token is stored on your device in **Apple’s secure system storage (Keychain)**, which is encrypted at rest and protected by your device passcode or biometric lock. You can download files from connected cloud services to your device; those files are placed in the app’s **Documents** directory and can be removed at any time using the built-in file manager.
 
-## Connect to Computer or NAS
+The application **does not share any information** from your connected cloud accounts with Everappz, advertisers, or any third party. You can revoke access to your cloud account at any time by opening the account-settings page in your web browser.
 
-You can also connect your computer, personal NAS, or other network devices using the SMB, DLNA, or WebDAV protocol.
+## Reject Auth-Token
 
-## Connect to computer using SMB
+To revoke an auth-token, log in to your cloud account in a web browser and navigate to the security or connected-apps page. There you can find every third-party app that is connected to your cloud account and remove any of them if you no longer want to use it. Detailed instructions for Google accounts are available [here](/docs/howto/how-to-disconnect-third-party-app-from-your-google-account).
 
-- Tap "Connect to cloud storage" → SMB.  
-- Enter the computer IP address and shared folder name in the URL field using the format smb://computer-ip-address/shared-folder-name  
-- Choose protocol version: Auto, SMB1, SMB2  
-- Enter login and password (if required)  
-- Tap "Done."
+You can also disconnect the cloud account inside the application itself — when you do, the auth-token is immediately deleted from your device. If you uninstall the application from your device, all downloaded data and access tokens are removed automatically along with it.
 
-If your connection is successful, you will see the connected storage in the "Cloud storage" section.  
-A full tutorial on how to connect your Mac or PC using SMB is available [here](/docs/howto/stream-your-music-from-mac-or-pc-to-iphone-using-smb/).
+## Disconnect a Cloud Storage or Change Configuration
 
-![Connect to computer using SMB protocol](21260c_e968a4df26b74390aebb5abcd0b9bd72~mv2.png)
+- **Access cloud-storage options** — locate the connected service in the **Connections** screen.
+- **Tap the "..." button** next to the service title to open additional options:
+  - **Rename** — change the name of the cloud service as it appears in your list.
+  - **Settings** — modify the configuration or authentication data. Sometimes you may need to re-authorize the connected cloud service if the authorization token has expired.
+  - **Disconnect** — completely sever the connection between the app and the cloud service. This removes all songs associated with that service from your app’s music library, but it leaves them untouched on the server.
 
-## Connect to NAS using WebDAV
+## Connect to a Computer or NAS
 
-All steps are the same except for the URL field.  
-The URL should be in the format http://server-name, or https://server-name if the server supports SSL.  
-A full tutorial on how to connect NAS using the WebDAV protocol is available [here](/docs/howto/how-to-connect-nas-storage-using-webdav-and-listen-to-music-on-your-iphone-or-mac).
+You can also connect your computer, personal NAS, or other network devices using the **SMB**, **DLNA**, or **WebDAV** protocols. This is the easiest way to bring an existing home music library — whether it lives on a Mac, a Windows PC, a Synology box, or a NAS — into Flacbox without copying anything.
 
-## Connect to Computer or NAS using DLNA
+## Connect to a Computer Using SMB
 
-You can also share a music library located on your Windows PC or personal NAS using the DLNA protocol and access that library in the app as described [here](/docs/howto/how-to-enable-dlna-media-server-on-windows-10-and-play-your-music-on-iphone). DLNA is a popular and widely used protocol, but it only allows you to play or download music. You can't upload files or create new folders on the server.
+- Tap **Connect to cloud storage → SMB**.
+- Enter the computer’s IP address and shared folder name in the URL field using the format `smb://computer-ip-address/shared-folder-name`.
+- Choose the protocol version: **Auto**, **SMB1**, or **SMB2**.
+- Enter your login and password (if required).
+- Tap **Done**.
 
-## Available devices
+If the connection is successful, you will see the connected storage in the **Cloud Storage** section. A full tutorial on how to connect your Mac or PC using SMB is available [here](/docs/howto/stream-your-music-from-mac-or-pc-to-iphone-using-smb/).
 
-This section displays all devices within your local network that you can connect to through the application.  
-To establish a connection with a device, follow these steps:
+## Connect to a NAS Using WebDAV
 
-- Open the app and go to the "Available Devices" section.  
-- Tap the device you want to connect to from the list.  
+All steps are the same as SMB, except for the URL field. The URL should be in the format `http://server-name` or `https://server-name` if the server supports SSL. WebDAV works with **Synology, QNAP, Nextcloud, ownCloud, WD My Cloud Home, Buffalo,** and many other servers — anywhere a WebDAV endpoint is available.
+
+A full tutorial on how to connect a NAS using WebDAV is available [here](/docs/howto/how-to-connect-nas-storage-using-webdav-and-listen-to-music-on-your-iphone-or-mac).
+
+## Connect to a Computer or NAS Using DLNA
+
+You can also share a music library located on your Windows PC or personal NAS using the **DLNA / UPnP** protocol and access that library in the app as described [here](/docs/howto/how-to-enable-dlna-media-server-on-windows-10-and-play-your-music-on-iphone). DLNA is a popular, widely supported protocol, but it only allows you to play or download music — you cannot upload files or create new folders on a DLNA server.
+
+## Connect to a NAS or Server Using FTP, FTPS, or SFTP
+
+Flacbox also supports the classic file-transfer protocols. To connect a server over **FTP** or **FTPS**, tap **Connect to cloud storage → FTP**, enter the host URL in the form `ftp://server-name` (or `ftps://server-name` for an encrypted connection), provide your login and password, then tap **Done**. For **SFTP (SSH File Transfer Protocol)**, choose **SFTP** instead and supply either a password or an SSH key pair. Both work with NAS devices, Linux hosts, and any server that has an FTP / FTPS / SSH daemon.
+
+## Connect to an NFS Share
+
+Flacbox includes **NFS (Network File System)** support — handy for Linux hosts, BSD servers, and NAS devices that prefer to expose music libraries over NFS instead of SMB. Pick **NFS** in the **Connect to cloud storage** menu, enter the server address and exported path, and tap **Done**.
+
+## Connect a Plex Media Server
+
+Flacbox can connect directly to a **Plex Media Server** and browse your music library by Artists, Albums, Genres, and Playlists. Tap **Connect to cloud storage → Plex**, sign in with your Plex account, pick a server, and the library appears alongside your cloud services. Plex servers on the same local network are also discovered automatically in the **Available Devices** section.
+
+## Connect a Jellyfin or Emby Server
+
+Both **Jellyfin** (open-source) and **Emby** (commercial) media servers work natively in Flacbox. Tap **Connect to cloud storage → Jellyfin** or **Emby**, enter your server URL (something like `http://server-ip:8096`) and credentials, and your music library is ready to stream. As with Plex, libraries on the local network are listed automatically in **Available Devices**.
+
+## Connect a Subsonic or Navidrome Server
+
+Flacbox speaks the **Subsonic API**, which means it works with **Subsonic** itself, **Navidrome**, and every other Subsonic-compatible server — including **Airsonic, Funkwhale, Gonic, Logitech Media Server (LMS),** and **Ampache**. Tap **Connect to cloud storage → Subsonic**, enter the server URL and credentials, and the library appears in the Connections screen. This is the easiest way to give Flacbox access to a self-hosted music collection without exposing the underlying file share.
+
+## Connect to S3-Compatible Object Storage
+
+For self-hosters and audiophiles using cloud object storage, Flacbox includes an **S3-compatible** connector. Tap **Connect to cloud storage → S3 storage**, then enter the endpoint URL, region, access key, secret key, and bucket name. This works with **AWS S3, Backblaze B2, Wasabi, Cloudflare R2, MinIO, DigitalOcean Spaces,** and any other service that exposes an S3-API endpoint.
+
+## Available Devices
+
+This section displays every device on your local network that you can connect to from Flacbox via Bonjour discovery. To establish a connection, follow these steps:
+
+- Open the app and go to the **Available Devices** section under Connections.
+- Tap the device you want to connect to.
 - If needed, enter your login details to complete the connection.
 
-![Available devices section displays all devices within your local network that you can connect to through the application](21260c_8897c451db094373b87b6c1ae1d0be2c~mv2.png)
+This is the fastest way to discover an SMB, WebDAV, DLNA, or **Bluesound Vault** share on your home network without typing IP addresses manually.
 
-## Wi-Fi Drive 
+{{< cards cols="1">}}
+  {{< card title="" subtitle="Flacbox Available Devices on the Local Network" image="/docs/guide/flacbox/img/available-devies.webp" >}}
+{{< /cards >}}
 
-Wi-Fi Drive is a convenient technology that enables wireless file transfers from your computer to your iOS device via a desktop browser.  
-To use this feature effectively, ensure that your device and computer are connected to the same Wi-Fi network.  
-Here's a step-by-step guide on how to use Wi-Fi Drive.
+## Wi-Fi Drive
 
-## Enable Wi-Fi Drive
+**Wi-Fi Drive** is a convenient technology that enables wireless file transfers from your computer to your iOS device via any desktop browser. To use this feature effectively, ensure that your device and computer are connected to the same Wi-Fi network. Here is a step-by-step guide on how to use Wi-Fi Drive.
 
-- Open the application and go to the "Connections" tab.  
-- Select "Connect via Wi-Fi" to access the Wi-Fi Drive main screen.  
-- Tap "Start Wi-Fi Drive" to enable Wi-Fi Drive.
+### Enable Wi-Fi Drive
 
-## Access Wi-Fi Drive on Your Computer
+- Open the application and go to the **Connections** tab.
+- Select **Connect via Wi-Fi** to access the Wi-Fi Drive main screen.
+- (Optional) Set a username and password for the embedded web server to protect access.
+- Tap **Start Wi-Fi Drive** to enable Wi-Fi Drive.
 
-- On your computer (desktop or laptop), open a web browser (such as Chrome, Firefox, or Safari).  
-- In the browser's address bar, enter the URL provided by the application.
+{{< cards cols="1">}}
+  {{< card title="" subtitle="Flacbox Wi-Fi Drive" image="/docs/guide/flacbox/img/wifi-drive.webp" >}}
+{{< /cards >}}
 
-## Transfer Files Wirelessly
+### Access Wi-Fi Drive on Your Computer
 
-Once the web page corresponding to your iOS device opens in the browser, you can easily drag and drop files from your computer onto the web page.  
-The files you drag and drop will begin transferring to your iOS device and will be accessible within the application.
+- On your computer (desktop or laptop), open a web browser (such as Chrome, Firefox, or Safari).
+- In the browser’s address bar, enter the URL provided by the application.
 
-![Wi-Fi Drive is a convenient technology that enables wireless file transfers from your computer to your iOS device via a desktop browser](21260c_ec3157566d2848a48feee051e18b8c76~mv2.png)
+### Transfer Files Wirelessly
+
+Once the web page corresponding to your iOS device opens in the browser, you can easily **drag and drop** files from your computer onto the web page. The files you drop will begin transferring to your iOS device and will be accessible inside Flacbox.
+
+You can also mount Wi-Fi Drive directly in **Finder** on macOS (Go → Connect to Server…) or **File Explorer** on Windows (Map Network Drive…) and treat your iPhone or iPad as a regular network drive.
 
 Detailed instructions on how to transfer files wirelessly using Wi-Fi Drive are available [here](/docs/howto/how-to-transfer-files-wirelessly-from-a-computer-to-an-iphone-using-wifi-drive).
 
-## iTunes File Sharing
+## iTunes / Finder File Sharing
 
-iTunes File Sharing is another technology that allows you to transfer files from a computer to a device using the Finder app on your Mac and a Lightning cable.  
-- Just connect the device to the computer using a cable and run the Finder app on your Mac.  
-- Open "Locations" → "Your Connected Device" → "Files" → and find the current app.  
-- Tap on the app icon to see all shared folders.  
+**iTunes File Sharing** (now **Finder File Sharing** on macOS Catalina and later) is another way to transfer files from a computer to a device using a Lightning or USB-C cable.
+
+- Connect the device to the computer using a cable and run **Finder** on Mac (or **iTunes** on Windows).
+- Open **Locations → Your Connected Device → Files** and find the Flacbox app.
+- Tap on the app icon to see all shared folders.
 - Copy files from the computer to the shared folder on the device using drag-and-drop.
 
-Detailed instructions on how to use iTunes File Sharing are available [here](/docs/howto/how-to-play-local-itunes-files-on-my-iphone/).
+Detailed instructions on how to use Finder File Sharing are available [here](/docs/howto/how-to-play-local-itunes-files-on-my-iphone/).
 
-![iTunes File Sharing is another technology that allows you to transfer files from computer to device using the Finder app on your Mac and lightning cable](21260c_9885734200f04fa09cd27d435971647c~mv2.png)
+## Connect a USB Flash Drive
 
-## Connect a USB flashcard
+If you have an SD card or USB drive, you can connect it using a **Lightning to USB / SD Card Reader** or a USB-C drive (on iPad and iPhone 15 / 16 / 17 / Pro). The app supports **Apple Certified card readers** and **iXpand Flash Drives**. With an iXpand Flash Drive, insert it into the Lightning port and open the application — you’ll see an **External Device Connected** message and the device information. Tap the flash drive icon to access the music folder and tap any audio file to start playing.
 
-If you have an SD card, you can connect it using a Lightning card reader. The app currently supports Apple Certified card readers and iXpand Flash Drives. If you have an iXpand Flash Drive, insert it into the Lightning port and open the application. You'll see an 'External device connected' message and device information. Simply tap on the flash drive icon to access the music folder and tap on any audio file to start playing. We have detailed instructions on how to connect a USB flashcard to the iPhone and listen to music or manage files located on it, available [here](/docs/howto/how-to-connect-a-usb-flashcard-to-the-iphone-and-listen-to-music-or-manage-files-located-on-it).
+We have detailed instructions on how to connect a USB flash drive to your iPhone and listen to music or manage files located on it [here](/docs/howto/how-to-connect-a-usb-flashcard-to-the-iphone-and-listen-to-music-or-manage-files-located-on-it).
 
 ## File Manager
 
-Once you’ve connected a cloud storage service, tap its icon to view all available files and folders. You can use the built-in file manager to work with these files — download, rename, move, and more. When you start a download, the file will appear in the transfer queue. To view the transfer queue, go to the "Local Files" tab and tap the spinning arrows in the top left corner. All downloaded files and folders are available in the "Local Files" section.
+Once you’ve connected a cloud storage service, tap its icon to view all available files and folders. You can use the built-in file manager to work with these files — download, rename, move, upload, delete, and more. When you start a download, the file appears in the **transfer queue**. To open the transfer queue, go to the **Local Files** tab and tap the spinning-arrows icon in the top-left corner. All downloaded files and folders are available in the **Local Files** section.
+
+{{< cards cols="1">}}
+  {{< card title="" subtitle="Flacbox Browsing Folders on a Connected Cloud Service" image="/docs/guide/flacbox/img/connected-device-folders.webp" >}}
+{{< /cards >}}
 
 ## Top Toolbar
 
-The top toolbar, conveniently located under the navigation bar, offers several useful actions for easy access. You can show or hide this toolbar by using a simple swipe-down gesture. Here are the available actions:
+The top toolbar, conveniently located under the navigation bar, offers several useful actions for easy access. You can show or hide it with a simple swipe-down gesture.
 
-- **Search**: This option allows you to perform a quick search within the current directory, making it effortless to locate specific files or folders.  
-- **Continue Playback**: If enabled in the application settings, this feature restores the audio player queue and the last media position for the current folder. It's a handy way to pick up where you left off in your music library.  
-- **Play All**: By selecting this action, the app will scan the current folder and its subfolders, adding all the found audio files to a new player queue. This is useful when you want to play all the music within a particular directory.  
-- **Shuffle All**: Similar to "Play All," this action scans the current folder and its subfolders but shuffles the files before adding them to the audio player queue. It's a great way to enjoy your music in a random order for a bit of variety.
-
-![The top toolbar, conveniently located under the navigation bar, offers several useful actions for easy access.](21260c_1a8a90ad75f44ff7bd2f7d19a8ecbe75~mv2.png)
+- **Search** — perform a quick search within the current directory, making it effortless to locate specific files or folders.
+- **Continue Playback** — if enabled in the application settings, this restores the audio player queue and the last media position for the current folder. A handy way to pick up where you left off.
+- **Play All** — scans the current folder and its subfolders, then adds all found audio files to a new player queue. Useful when you want to play every track in a directory.
+- **Shuffle All** — like **Play All**, but shuffles the files before adding them to the audio player queue. Great for rediscovering an old folder of music.
 
 ## Folder Options
 
-When you open a folder within the app, you'll find a handy set of actions available by tapping the "..." button in the top right corner of the screen.  
-Here's a breakdown of these actions:
+When you open a folder, you’ll find a handy set of actions available by tapping the **"..."** button in the top right corner.
 
-- **Select**: Activate file selection mode. This mode enables you to choose one or more files within the folder, making it easy to perform actions on selected items.  
-- **New Folder**: Create a new folder within the current folder. This feature allows you to organize your files and keep your library well-structured.  
-- **Enable Offline Mode**: Toggle on offline mode for the current folder. Offline mode goes beyond simple downloading; it actively monitors the folder for changes. If you add new files to the folder online, the app will automatically download these files to your device. This ensures that your local library stays up-to-date with changes on the server.  
-- **Upload Files**: Upload files from your device to the online folder. This action lets you transfer files to the cloud or server, making them accessible from anywhere.  
-- **Search**: Search for specific files within the current folder. This is especially useful for quickly locating specific items in a large collection.  
-- **Sort**: Sort files within the folder by criteria such as name, size, or date edited. The default sort mode typically mirrors the sorting order on the server, but you can change it to suit your preferences.  
-- **Grid/List View**: Switch between two viewing modes: table view and thumbnail view. The table view presents files in a list, while the thumbnail view displays visual representations of the files, making it easier to identify content at a glance.
-
-![Current Folder Options](21260c_01f9148f4b834bb6872bc45b7352470e~mv2.png)
+- **Select** — activate file-selection mode. This lets you choose one or more files within the folder and perform actions on the whole selection.
+- **New Folder** — create a new folder in the current folder. Great for keeping your library well-structured.
+- **Enable Offline Mode** — toggle on offline mode for the current folder. Offline mode goes beyond simple downloading: it actively monitors the folder for changes. If you add new files online, they’ll automatically appear on your device.
+- **Upload Files** — upload files from your device to the online folder. This makes them accessible from anywhere via the same cloud service.
+- **Search** — search for specific files within the current folder.
+- **Sort** — sort files by name, size, date modified, or by metadata. The default sort mode mirrors the sort order on the server, but you can change it to suit your preferences.
+- **Grid / List View** — switch between table view and thumbnail view. Table view shows a compact list; thumbnail view shows large artwork previews for quick visual identification.
 
 ## Edit Online Files
 
-When you need to manage multiple files within your cloud storage on this app, you can use the select mode to streamline your actions. Follow these steps for effective file management:
+When you need to manage multiple files in your cloud storage, use **Selection Mode** to streamline your actions:
 
-- **Activate Selection Mode**: Open the app on your device and navigate to the section containing your cloud storage. Look for the top right corner where you'll find the "..." (ellipsis) button. Tap on it and choose the "Select" menu item to activate selection mode.  
-- **Choose Files**: You'll notice checkboxes appearing next to every file or folder listed. Choose one or multiple files or folders by simply tapping on the checkboxes next to them.  
-- **Perform Various Actions**: Once you've selected the files or folders you want to manage, you'll have access to several actions tailored to your needs:
+- **Activate Selection Mode** — tap the **"..."** button in the top-right corner and choose **Select**.
+- **Choose Files** — checkboxes appear next to every file and folder. Tap to select one or several items.
+- **Perform Actions** — once you’ve selected the files or folders, you’ll have access to **Play Next, Play Later, Add to Music Library, Add to a Playlist, Copy, Upload, Move, Rename,** and **Delete**.
 
-![Editing Online Files](21260c_5bbaabf22bd74323b0e610752cf6b362~mv2.png)
+If you’d rather treat connected cloud storage as read-only (to prevent accidental deletions), enable **Settings → File Manager → Edit Online Files → Off** to hide all destructive operations from the UI.
 
-## File actions
+## File Actions
 
-Near the title of the file, you'll notice an ellipsis symbol "..." (three dots) – this serves as the actions menu.  
-Tap on it to reveal a list of available actions:
+Tap the **"..."** icon near a file’s title to reveal its actions menu:
 
-- **Play Next**: Opt for this action to insert the chosen file at the top of your player queue, ensuring it plays immediately after the currently playing item.  
-- **Play Later**: Selecting this option adds the file to the bottom of your player queue, ensuring it plays after the existing queue.  
-- **Add to Music Library**: This action lets you incorporate the file into your music library, making it easily accessible and neatly organized by artist, album, genre, or composer.  
-- **Add to a Playlist**: Use this action to add the file to an existing playlist or create a new one.  
-- **Edit Audio Tags**: By selecting this option, you can access built-in tag editor, allowing you to modify audio tags for the chosen file. The file will be temporarily downloaded to a temporary directory and then uploaded to the storage after you confirm the changes.  
-- **Add to Favorites**: This action adds the file to your list of favorite files for quick and convenient access.  
-- **Download**: Choose this action to download the file or folder to your device, making it accessible for offline use.  
-- **Rename**: This option permits you to rename the file directly on the remote storage, allowing for customized file naming.  
-- **Move**: Opt for this action to relocate the file to a different folder within your cloud storage, aiding in maintaining an organized file structure.  
-- **Open In**: Use this action to export the file to another compatible app. The file will be downloaded to your device, and then the Share dialog will appear for further sharing or interaction.  
-- **Delete**: Exercise caution with this action, as it permanently removes the file from your cloud storage. **This deletion cannot be undone**.
+- **Play Next** — insert the file at the top of the player queue, so it plays right after the current track.
+- **Play Later** — append the file to the bottom of the player queue.
+- **Add to Music Library** — incorporate the file into your music library, organized by artist, album, genre, or composer.
+- **Add to a Playlist** — add the file to an existing playlist or create a new one.
+- **Edit Audio Tags** — open the built-in tag editor to modify metadata. For online files, the track is temporarily downloaded, edited, and then re-uploaded after you confirm.
+- **Add to Favorites** — add the file to your favorites list for quick access.
+- **Download** — download the file or folder to your device for offline use.
+- **Rename** — rename the file directly on the remote storage.
+- **Move** — relocate the file to a different folder within your cloud storage.
+- **Open In** — export the file to another compatible app. The file is downloaded to your device, then the system Share sheet appears.
+- **Delete** — permanently remove the file from your cloud storage. **This action cannot be undone.**
 
-![File actions](21260c_08d9170647f947bd940d69a7e1bbaf19~mv2.png)
+{{< cards cols="1">}}
+  {{< card title="" subtitle="Flacbox More Actions for a File in Connected Cloud Storage" image="/docs/guide/flacbox/img/more-actions-for-file-in-connected-cloud-storage.webp" >}}
+{{< /cards >}}
 
 If the list of actions exceeds the available screen space, simply scroll down within the actions menu to access additional options.
 
-## Folder actions
+## Folder Actions
 
-For each folder in your cloud storage, you have various actions available. To access these options, simply tap the ellipsis icon "..." located next to the folder title. If you don't see all the actions, scroll down to reveal more choices. Here are the available actions:
+For each folder in your cloud storage, you have a wide variety of actions available by tapping the **"..."** icon next to the folder title. If you don’t see all the actions, scroll down to reveal more.
 
-- **Play All**: Replace the current player queue with all the items from the selected folder.  
-- **Play Next**: Add the entire folder to the top of the player queue, right after the currently playing item.  
-- **Play Later**: Append the folder contents to the bottom of the player queue.  
-- **Add to Music Library**: This action seamlessly incorporates the folder's content into your music library, making it easily accessible and neatly organized by artist, album, genre, or composer.  
-- **Add to Playlist**: You can include the entire folder in a playlist. You also have the option to create a new playlist, and the folder's name will be automatically assigned.  
-- **Add to Favorites**: Use this action to add the folder to your list of favorite files for quick and convenient access.  
-- **Enable Offline Mode**: By enabling offline mode for a selected folder, the application goes beyond simple downloading. It continuously scans for changes, and if new files are added to the online folder, they will be automatically downloaded to the app.  
-- **Download**: Download all the contents of the folder to your device for offline access.  
-- **Rename**: Rename the folder directly on the remote storage.  
-- **Move**: Relocate the folder to a different location within your cloud storage.  
-- **Delete**: Be cautious with this action, as it permanently removes the folder and its contents from your cloud storage. **This action cannot be undone**.
-
-![Folder actions](21260c_3431f1c4b12d41c78f9c5be7b348b2e3~mv2.png)
+- **Play All** — replace the current player queue with every item in the selected folder.
+- **Play Next** — add the entire folder to the top of the player queue.
+- **Play Later** — append the folder contents to the bottom of the player queue.
+- **Add to Music Library** — incorporate the folder’s content into your music library.
+- **Add to Playlist** — add the entire folder to a playlist. You also have the option to create a new playlist; its name is auto-populated from the folder name.
+- **Add to Favorites** — add the folder to your favorites for quick access.
+- **Enable Offline Mode** — beyond a simple download, this continuously monitors the folder for new files and auto-downloads them as they appear online.
+- **Download** — download all contents of the folder to your device for offline access.
+- **Rename** — rename the folder directly on the remote storage.
+- **Move** — relocate the folder to a different location within your cloud storage.
+- **Archive (ZIP)** — bundle the folder contents into a single ZIP file (Premium feature).
+- **Delete** — permanently remove the folder and its contents from your cloud storage. **This action cannot be undone.**
 
 ## Quick Access
 
-The Quick Access section is located at the top of the screen. It gives you fast access to your favorite and recently opened files from connected cloud services.  
-Whenever you open a file or folder from the cloud, it’s added to the "Recently Opened" list. To clear this list, open "Recents," tap the "More Actions" button, and choose "Delete List." You can also mark deeply nested folders as **Favorites** to access them quickly without digging through the directory structure.
+The **Quick Access** section is located at the top of the screen. It gives you fast access to your favorite and recently opened files from connected cloud services. Whenever you open a file or folder from the cloud, it’s added to the **Recently Opened** list. To clear this list, open **Recents**, tap the **More Actions** button, and choose **Delete List**. You can also mark deeply nested folders as **Favorites** to access them quickly without digging through the directory structure.
+
+{{< cards cols="1">}}
+  {{< card title="" subtitle="Flacbox Online Links and Quick Access" image="/docs/guide/flacbox/img/online-links.webp" >}}
+{{< /cards >}}
 
 ## Other Services
 
-This section displays extra features that enhance your experience. Currently, the app supports **Last.fm scrobbling**. When connected, your playback stats are automatically sent to your Last.fm account. You can visit your Last.fm profile later to view listening analytics and get personalized music recommendations. Detailed setup instructions are available [here](/docs/howto/how-to-scrobble-your-music-history-from-evermusic-or-flacbox-to-last-fm).
+This section displays extra features that enhance your experience. Currently, the app supports **Last.fm scrobbling** — when connected, your playback statistics are automatically sent to your Last.fm account. You can later visit your Last.fm profile to view listening analytics and get personalized music recommendations. Detailed setup instructions are available [here](/docs/howto/how-to-scrobble-your-music-history-from-evermusic-or-flacbox-to-last-fm).
+
+{{< cards cols="1">}}
+  {{< card title="" subtitle="Flacbox Last.fm Connect" image="/docs/guide/flacbox/img/last-fm-connect.webp" >}}
+{{< /cards >}}

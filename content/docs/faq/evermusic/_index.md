@@ -176,7 +176,7 @@ The same action is also available for albums, artists, genres, the Recents list,
 {{% details title="What cloud services does Evermusic support?" closed="true" %}}
 **Evermusic connects to most popular cloud storage providers and personal NAS devices** — including iCloud Drive, Google Drive, Dropbox, OneDrive (Personal and Business), Box, MEGA, Yandex Disk, WD My Cloud Home, MediaFire, pCloud, HiDrive, 百度网盘 (Baidu), InfiniCLOUD, Cloud Mail.ru, Put.io, MyDrive, and many more.<br><br>
 
-In addition to dedicated cloud services, Evermusic supports the standard network protocols **WebDAV**, **SMB**, **FTP**, **SFTP**, and **DLNA**. This means you can connect almost any NAS device — Synology, QNAP, TrueNAS, ASUSTOR, Western Digital, Buffalo, Netgear, Seagate, Zyxel — as well as a regular Windows, macOS, or Linux file share, a self-hosted Nextcloud / ownCloud server, or a UPnP / DLNA media server.<br><br>
+In addition to dedicated cloud services, Evermusic supports the standard network protocols **WebDAV**, **SMB**, **FTP / SFTP**, **NFS**, and **DLNA / UPnP**. This means you can connect almost any NAS device — Synology, QNAP, WD My Cloud Home, Buffalo, Apple Time Capsule — as well as a regular Windows, macOS, or Linux file share, a self-hosted Nextcloud / ownCloud server, or a UPnP / DLNA media server.<br><br>
 
 Each connection uses the **official SDK or open protocol** of the service, with OAuth-based authorization where supported. You can connect multiple accounts of the same service (for example, two Google Drive accounts) and browse them side-by-side in the Connections screen. Premium users can add an unlimited number of services; the free version is limited to three.<br><br>
 
@@ -186,7 +186,7 @@ Each connection uses the **official SDK or open protocol** of the service, with 
 {{% details title="How do I connect a NAS to Evermusic over SMB?" closed="true" %}}
 **To connect a NAS over SMB, tap "Connect a cloud service" → SMB, enter `smb://<ip-address>/<shared-folder>`, your login and password, then tap Done.**<br><br>
 
-Both your iPhone / iPad / Mac and the NAS must be on the same local network. The same flow works for Synology, QNAP, TrueNAS, ASUSTOR, Western Digital, and any other device that exposes an SMB share — including Windows and macOS file sharing.<br><br>
+Both your iPhone / iPad / Mac and the NAS must be on the same local network. The same flow works for Synology, QNAP, WD My Cloud Home, Buffalo, Apple Time Capsule, and any other device that exposes an SMB share — including Windows and macOS file sharing.<br><br>
 
 [Full SMB tutorial](/docs/howto/transfer-your-files-from-the-computer-to-iphone-using-smb-protocol/)
 {{% /details %}}

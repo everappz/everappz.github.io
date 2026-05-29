@@ -35,7 +35,7 @@ Evermusic lets you build your own cloud music streaming system — just like Spo
 
 - **Personal cloud accounts:** iCloud Drive · Google Drive · Dropbox · OneDrive · Box · MEGA · Yandex.Disk · pCloud · MediaFire · WD My Cloud Home · InfiniCLOUD (TeraCLOUD) · HiDrive · OpenDrive · MyDrive · Put.io · Cloud Mail.ru · Icedrive · Koofr · Proton Drive · Internxt · AliDrive (阿里云盘) · Baidu Pan (百度网盘).
 - **Self-hosted servers and media libraries:** Plex · Jellyfin · Emby · Subsonic (and every Subsonic-compatible server — Airsonic, Funkwhale, Gonic, Logitech Media Server, Ampache) · Navidrome · Nextcloud (and Owncloud, via the shared API) · Synology Drive · QNAP.
-- **NAS and file-share protocols:** SMB (SMB1, SMB2, Auto) · WebDAV (HTTP / HTTPS) · FTP / FTPS · SFTP (SSH File Transfer Protocol, password or public-key auth) · NFS · DLNA / UPnP (playback and download). Works with Apple Time Capsule, Synology, QNAP, Asustor, TerraMaster, Western Digital, Buffalo, FreeNAS / TrueNAS, any Linux Samba / NFS / SSH host, or a shared folder on your Mac or Windows PC.
+- **NAS and file-share protocols:** SMB (SMB1, SMB2, Auto) · WebDAV (HTTP / HTTPS) · FTP / FTPS · SFTP (SSH File Transfer Protocol, password or public-key auth) · NFS · DLNA / UPnP (playback and download). Works with Apple Time Capsule, Synology, QNAP, WD My Cloud Home, Buffalo, any Linux Samba / NFS / SSH host, or a shared folder on your Mac or Windows PC.
 - **S3-compatible object storage:** AWS S3 · Backblaze B2 · Wasabi · Cloudflare R2 · MinIO · DigitalOcean Spaces · Linode Object Storage · IBM Cloud Object Storage · any S3-API endpoint.
 - **Local-network discovery:** the Available devices section auto-lists every Bonjour / mDNS device on your Wi-Fi — Plex, Jellyfin, Emby servers, Synology, QNAP, AirPort routers with attached drives, Time Capsule — so you can tap to connect without typing an IP.
 - **Device and external sources:** the iPod / Apple Music library (non-DRM tracks), files in the system Files app (other apps, external SSDs, mounted folders), USB flash drives via Apple Certified card readers and iXpand Flash Drives, Wi-Fi Drive (drag-and-drop in a desktop browser), and iTunes / Finder File Sharing over a USB cable.
@@ -56,7 +56,7 @@ If song titles or album info are wrong or missing, don't worry. Evermusic includ
 
 ### Simple File Transfers
 
-Sending music from your computer to your iPhone or iPad is easy. Evermusic supports SMB, WebDAV, DLNA, Wi-Fi Drive (drag-and-drop in a browser), iTunes / Finder File Sharing (USB cable), and direct downloads from any connected cloud account. You can also connect Apple Time Capsule, WD My Cloud, Synology, QNAP, Asustor, TerraMaster or any other NAS drive to access a huge music library without using up device storage.
+Sending music from your computer to your iPhone or iPad is easy. Evermusic supports SMB, WebDAV, FTP / FTPS, SFTP, NFS, DLNA, Wi-Fi Drive (drag-and-drop in a browser), iTunes / Finder File Sharing (USB cable), and direct downloads from any connected cloud account. You can also connect Apple Time Capsule, WD My Cloud Home, Synology, QNAP, Buffalo, or any other NAS that exposes one of those standard protocols, without using up device storage.
 
 ### Powerful Sound Controls
 
