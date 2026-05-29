@@ -34,6 +34,15 @@ Family Sharing is enabled for all purchases and plans, so you can share the Prem
 
 You can read more about purchases and the Premium version here: [What is the difference between Evermusic and Evermusic Premium](/docs/faq/evermusic/what-is-the-difference-between-evermusic-and-evermusic-premium/).
 
+#### Evermusic Free (Blue Icon) vs Evermusic Pro (Red Icon)
+
+Evermusic is published on the App Store under two different icons / colors:
+
+- **Evermusic Free (blue icon)** is split into **two separate App Store apps with different bundle IDs** — one for **iOS / iPadOS** and a dedicated one for **macOS** (Universal binary that runs on both **Apple Silicon and Intel Macs**). Premium in-app purchases are **shared between the iOS and Mac blue apps via iCloud** — buy Premium on iPhone and it automatically activates on the Mac (and vice versa), as long as both devices use the same Apple ID with iCloud enabled.
+- **Evermusic Pro (red icon)** is a **single App Store app** with a **single bundle ID** that runs on **iPhone, iPad, and Apple Silicon Macs (M1 and later)**. It has the **same functionality as Evermusic Free with an activated Premium plan**. The red app **does not support Intel Macs**, which is why its price is slightly lower than the equivalent Premium purchase in the blue app. Evermusic Pro also **does not collect any user diagnostics or analytics at all** — analytics are completely disabled in the build, with no opt-in option.
+
+Because the bundle IDs differ between blue and red, a Premium in-app purchase activated in the blue app does not unlock the red app for free, and vice versa. If you already use the blue app with Premium activated, there is no need to install the red app — you already have everything Pro offers.
+
 ### Sharing Purchases Between iOS and Mac
 
 Lifetime purchases and subscriptions are shared between iOS and Mac using iCloud. If you already own Premium on iOS, make sure you have the latest version installed and that iCloud is enabled. Start the app on iOS and wait one minute for your purchase information to upload to iCloud.
@@ -250,8 +259,7 @@ Configure the music library screen style. Three options are available: **Plain m
 Choose how the application loads and stores album artwork.
 
 - **Network type** — pick **Wi-Fi** or **Wi-Fi & Cellular Data** for cover downloads.
-- **Search on the Internet** — when enabled, the app downloads missing album covers from the Internet for songs without embedded covers.
-- **Load Album Covers for Online Files** — when enabled, embedded album covers are also loaded for files stored in cloud storage. This may use additional network data.
+- **Load Album Covers for Online Files** — when enabled, embedded album covers are loaded for files stored in cloud storage. This may use additional network data.
 - **Search in the Folder** — when enabled, if a track has no embedded cover, the app looks for JPEG or PNG images in the same folder and uses them as the album artwork.
 - **Cover Quality** — select the quality of album covers stored on your device.
 - **Show in Folder** — open the folder where album covers are cached so you can manage or back them up.
@@ -492,6 +500,8 @@ Visit the privacy policy page to understand our data handling practices. Please 
 ## Analytics and Data Collection
 
 Check which services are enabled for analytics and data collection and deactivate any you do not want.
+
+In **Evermusic Free (blue icon)**, analytics and diagnostics are enabled by default to help us improve the app — you can turn them off here at any time. **Evermusic Pro (red icon) does not include any analytics or diagnostics at all** — the section is empty (or hidden) because nothing is collected, and there is no opt-in option.
 
 ## Legal Notices
 

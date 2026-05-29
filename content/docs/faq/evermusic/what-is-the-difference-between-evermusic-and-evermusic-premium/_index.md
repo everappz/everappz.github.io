@@ -1,10 +1,10 @@
 ---
 title: "What is the difference between Evermusic and Evermusic Premium"
 date: 2020-02-01
-updated: 2024-12-08
-description: "Compare Evermusic Free and Evermusic Premium to find out which version best fits your music listening needs. See all limits, features, and pricing options."
-keywords: ["Evermusic", "Evermusic Premium", "music player app", "offline music", "iOS music player", "cloud music", "premium upgrade", "ad-free player", "playlist limits", "in-app purchase"]
-tags: ["Evermusic", "Premium", "Difference", "Pro", "Free vs Paid", "Music App", "Offline Music"]
+updated: 2026-05-29
+description: "Compare Evermusic Free (blue icon), Evermusic Premium, and Evermusic Pro (red icon) — limits, features, pricing, Family Sharing, Mac compatibility (Apple Silicon vs Intel), and privacy / analytics defaults explained."
+keywords: ["Evermusic", "Evermusic Premium", "Evermusic Pro", "Evermusic red icon", "Evermusic blue icon", "music player app", "offline music", "iOS music player", "cloud music", "premium upgrade", "ad-free player", "playlist limits", "in-app purchase", "Apple Silicon Mac", "M1 M2 M3 M4 Mac", "Intel Mac music app", "Family Sharing music", "no analytics music app"]
+tags: ["Evermusic", "Premium", "Pro", "Free vs Paid", "Music App", "Offline Music", "Apple Silicon", "Privacy"]
 aliases:
   - /post/what-is-the-difference-between-evermusic-and-evermusic-premium/
 ---
@@ -56,14 +56,54 @@ Once you upgrade your app, you will see the Premium status screen with details o
   width="600"
 >}}
 
-Evermusic Pro (app with red icon) has the same functionality as Evermusic Free (blue icon) with activated purchase. So there is no need to install a "red" app if you have already upgraded the "blue" app with purchase. These apps have different bundle IDs so if you activate in-app purchases in the "blue" app you will not be able to install the "red" app for free.
+## Evermusic Pro (Red Icon) vs Evermusic Free (Blue Icon)
+
+**Evermusic Pro — the app with the red icon — has exactly the same functionality as Evermusic Free (blue icon) with an activated Premium in-app purchase.** Both apps share the same code base, the same features, and the same look and feel. So if you have already upgraded the blue Evermusic Free to Premium, there is **no need to install the red Evermusic Pro** — you already have everything Pro offers.
+
+What differs between blue and red is **how they’re packaged on the App Store**, which platforms each one runs on, and a couple of defaults.
+
+<div style="display: flex; gap: 24px; align-items: center; flex-wrap: wrap; justify-content: center; margin: 24px 0;">
 
 {{< figure
   src="/evermusic-free-icon.webp"
-  alt="Evermusic Free Icon"
-  caption="Evermusic Free Icon"
+  alt="Evermusic Free Icon (Blue)"
+  caption="Evermusic Free — Blue Icon"
   width="150"
 >}}
+
+{{< figure
+  src="/evermusic-pro-icon.webp"
+  alt="Evermusic Pro Icon (Red)"
+  caption="Evermusic Pro — Red Icon"
+  width="150"
+>}}
+
+</div>
+
+### Download on the App Store
+
+{{< cards >}}
+  {{< card link="https://apps.apple.com/app/apple-store/id885367198?pt=95781850&ct=everappzcom&mt=8" title="Evermusic for iPhone & iPad" subtitle="Blue icon — Free with optional Premium in-app purchase" icon="download" tag="Free" >}}
+  {{< card link="https://apps.apple.com/app/apple-store/id1564384601?pt=95781850&ct=everappzcom&mt=8" title="Evermusic for Mac" subtitle="Blue icon — Universal (Apple Silicon & Intel), shares purchases with iOS via iCloud" icon="download" tag="Free" >}}
+  {{< card link="https://apps.apple.com/us/app/evermusic-pro-music-player/id905746421" title="Evermusic Pro" subtitle="Red icon — iPhone, iPad, Apple Silicon Mac (M1+); no analytics, lower price" icon="download" tag="Paid" >}}
+{{< /cards >}}
+
+### App Store packaging
+
+- **Evermusic Free (blue)** is published as **two separate App Store apps** with **separate bundle IDs** — one for **iOS / iPadOS** and a dedicated one for **macOS**. The Mac version is **Universal**, so it runs on **both Apple Silicon Macs (M1, M2, M3, M4, M5 and later) and Intel Macs**. Purchases made in one of the blue apps are **shared with the other via iCloud** — for example, a Premium subscription bought in Evermusic Free on iPhone automatically unlocks Premium in Evermusic Free on Mac (and vice versa), as long as both devices are signed in to the same Apple ID and have iCloud enabled.
+- **Evermusic Pro (red)** is a **single App Store app** with a **single bundle ID** that runs on **iPhone, iPad, and Apple Silicon Macs (M1 and later)**. Because there’s only one bundle, there’s nothing to sync — one purchase covers every device you install it on. Evermusic Pro **does not support Intel Macs**.
+
+### Key differences
+
+- **Mac compatibility.** The blue Evermusic Free Mac app is Universal and supports **both Apple Silicon and Intel Macs**. The red Evermusic Pro is **Apple Silicon-only (M1 and later)** — it cannot be installed on Intel Macs. If you (or anyone in your Family Sharing group) still uses an Intel Mac, choose the blue Evermusic Free + Premium so Mac support is covered.
+- **Price.** Because Evermusic Pro (red) skips the Intel Mac build, its App Store price is **slightly lower** than the equivalent Premium in-app purchase in the blue app.
+- **Privacy / analytics.** Evermusic Pro (red) **does not collect any user diagnostics or analytics at all** — analytics are completely disabled in the build, with no opt-in option. The blue Evermusic Free uses standard analytics defaults, which you can turn off at any time under **Settings → Analytics and Data Collection**.
+- **Cross-app purchase.** Bundle IDs differ between blue and red, so a Premium purchase activated in the blue app **does not unlock the red app for free**, and vice versa. Purchase sync works **within the same color** — blue iOS ↔ blue Mac via iCloud, or red across all of its supported devices automatically.
+
+### Which one should I choose?
+
+- **Use Evermusic Free (blue) + Premium** if you want the **widest device coverage** — iPhone, iPad, Apple Silicon Mac, *and* Intel Mac — with one Premium purchase covering both the iOS and Mac blue apps via iCloud purchase sync.
+- **Use Evermusic Pro (red)** if you only use **iPhone, iPad, and an Apple Silicon Mac (M1 or later)**, you prefer the lower upfront price, and you want a build with **no analytics or diagnostics collected at all** — out of the box and with no opt-in option.
 
 ## Evermusic Free
 
@@ -78,13 +118,6 @@ Evermusic Pro (app with red icon) has the same functionality as Evermusic Free (
 - **Limited Tags Searching Features**: Offers 20 automatic tags search requests and 20 album art search requests per day.
 - **Limited Media Collections Export**: Allows 5 media collections (playlists, albums, artists, genres) exports to M3U/CSV/TXT per day.
 - **Limited Personalization Features**: You can use only limited personalization options, and changing the app icon is also restricted.
-
-{{< figure
-  src="/evermusic-pro-icon.webp"
-  alt="Evermusic Pro Icon"
-  caption="Evermusic Pro Icon"
-  width="150"
->}}
 
 ## Evermusic Premium
 
@@ -134,4 +167,10 @@ You can upgrade to the Premium version for free but for a limited time only usin
 
 ## What to choose?
 
-In summary, Evermusic Premium offers an enhanced and more feature-rich music player experience compared to the free version of Evermusic. Users who want advanced features, an ad-free experience, and extensive offline access to their music library may find Evermusic Premium to be a worthwhile investment. However, the choice between the two versions ultimately depends on your specific music-listening needs and preferences.
+In summary, you have three paths to a full-featured Evermusic experience:
+
+- **Evermusic Free (blue icon)** — start here for free with limits; upgrade to **Premium** later via in-app purchase if you decide you want unlimited cloud services, playlists, offline content, and an ad-free experience.
+- **Evermusic Free + Premium (blue icon)** — the widest device coverage: iPhone, iPad, Apple Silicon **and Intel** Mac, all from a single purchase, with Family Sharing for up to five additional family members.
+- **Evermusic Pro (red icon)** — a slightly cheaper, **Apple Silicon Mac-only** alternative with **analytics and diagnostics off by default**. Best if you only use iPhone, iPad, and an M1 / M2 / M3 / M4 / M5 (or later) Mac, and you want maximum privacy out of the box.
+
+The free version is great for casual listeners, while Premium and Pro are aimed at users who want the full feature set, an ad-free experience, and unlimited offline access to their music library. The choice ultimately depends on your devices, privacy preferences, and music-listening habits.
