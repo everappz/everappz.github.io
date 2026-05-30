@@ -153,25 +153,25 @@ What differs between blue and red is **how they’re packaged on the App Store**
 - **Unlimited Media Collections Export**: Allows unlimited media collections (playlists, albums, artists, genres) exports to M3U/CSV/TXT.
 - **Full Personalization**: Provides full personalization options, including the ability to change the app icon.
 
-| Feature | Free | Premium |
-|--------|------|---------|
-| No ads | No | Yes |
-| Create playlists | 10 | Unlimited |
-| Connect cloud accounts | 3 | Unlimited |
-| Archive media collections (ZIP) | 3 | Unlimited |
-| Favorites | 100 | Unlimited |
-| Songs per playlist | 1000 | Unlimited |
-| Songs in playback queue | 750 | Unlimited |
-| Download files | Yes | Yes |
-| Download/upload folders | No | Yes |
-| Download albums, artists, genres | No | Yes |
-| Offline folders | 1 | Unlimited |
-| Offline albums, artists, genres, playlists, composers | 1 | Unlimited |
-| Export songs from iTunes to Local Files | Yes | Yes |
-| Export collections from iTunes to Local Files | No | Yes |
-| Tags and album art searches per day | 20 | Unlimited |
-| Export playlists, albums, artists, genres to M3U/CSV/TXT | 5 | Unlimited |
-| Full personalization | No | Yes |
+| Feature Description                                             | Evermusic Free | Evermusic Premium |
+|-----------------------------------------------------------------|----------------|-------------------|
+| Ad-free music experience                                        | No             | Yes               |
+| Total playlists you can create                                  | 10             | Unlimited         |
+| Number of cloud storage services you can connect                | 3              | Unlimited         |
+| Archive playlists, albums, artists, or genres to ZIP format     | 3              | Unlimited         |
+| Songs you can mark as favorites                                 | 100            | Unlimited         |
+| Songs allowed in a single playlist                              | 1000           | Unlimited         |
+| Songs allowed in the playback queue                             | 750            | Unlimited         |
+| Download individual files from cloud storage                    | Yes            | Yes               |
+| Download and upload entire folders                              | No             | Yes               |
+| Download entire albums, artists, and genres                     | No             | Yes               |
+| Number of folders you can make available offline                | 1              | Unlimited         |
+| Albums, artists, genres, playlists, composers available offline | 1              | Unlimited         |
+| Export individual songs from iTunes / Apple Music               | Yes            | Yes               |
+| Export full collections from iTunes / Apple Music               | No             | Yes               |
+| Daily automatic audio tag and album-art searches                | 20             | Unlimited         |
+| Export playlists, albums, artists, and genres to M3U / CSV / TXT | 5             | Unlimited         |
+| Full personalization (including custom app icon)                | No             | Yes               |
 
 ## Try Premium for free
 

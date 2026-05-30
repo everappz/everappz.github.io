@@ -62,18 +62,18 @@ Once you upgrade your app, you will see the Premium status screen with details o
 - Unlimited album cover lookups
 - Full UI personalization, including icon and theme
 
-| Feature | Free | Premium |
-|--------|------|---------|
-| Ads | Yes | No |
-| Edit audio tags | Yes | Yes |
-| Edit album covers | Yes | Yes |
-| Batch edit | Yes | Yes |
-| Fix encoding | Yes | Yes |
-| Cloud storage | 1 | Unlimited |
-| Favorites | 10 | Unlimited |
-| Auto tag search | 20/day | Unlimited |
-| Album art search | 20/day | Unlimited |
-| Personalization | Basic | Full |
+| Feature Description                                            | Evertag Free | Evertag Premium |
+|----------------------------------------------------------------|--------------|-----------------|
+| Ad-free editing experience                                     | No           | Yes             |
+| Edit standard audio tags (title, artist, album, year, genre)   | Yes          | Yes             |
+| Add, replace, or remove embedded album-cover artwork           | Yes          | Yes             |
+| Edit multiple files at once in batch mode                      | Yes          | Yes             |
+| Fix broken or mis-encoded tag character sets                   | Yes          | Yes             |
+| Number of cloud storage services you can connect               | 1            | Unlimited       |
+| Files you can mark as favorites                                | 10           | Unlimited       |
+| Daily automatic audio tag searches (MusicBrainz)               | 20           | Unlimited       |
+| Daily automatic album-cover artwork searches                   | 20           | Unlimited       |
+| Full personalization (custom app icon, themes, layout)         | No           | Yes             |
 
 
 ## Try Premium for free

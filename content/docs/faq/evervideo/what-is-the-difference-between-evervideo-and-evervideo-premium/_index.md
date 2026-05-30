@@ -84,22 +84,22 @@ Additionally, there's a limited-time opportunity to "**Try Premium for Free**". 
 
 Here’s a side-by-side feature comparison:
 
-| Feature Description                                           | Evervideo Free | Evervideo Premium |
-|---------------------------------------------------------------|----------------|-------------------|
-| Ad-free playback                                              | No             | Yes               |
-| Total playlists you can create                                | 10             | Unlimited         |
-| Cloud storage accounts allowed                                | 3              | Unlimited         |
-| Archive (ZIP) media collections                               | 3              | Unlimited         |
-| Videos you can mark as favorites                              | 100            | Unlimited         |
-| Videos per playlist                                           | 1000           | Unlimited         |
-| Videos in playback queue                                      | 750            | Unlimited         |
-| Offline folders                                               | 1              | Unlimited         |
-| Offline albums/playlists                                      | 1              | Unlimited         |
-| Export videos from iTunes                                     | Yes (limited)  | Unlimited         |
-| Export videos from Photos                                     | Yes (limited)  | Unlimited         |
-| Download individual files                                     | Yes            | Yes               |
-| Download folders and collections                              | No             | Yes               |
-| Personalization and theming                                   | No             | Yes               |
+| Feature Description                                              | Evervideo Free | Evervideo Premium |
+|------------------------------------------------------------------|----------------|-------------------|
+| Ad-free playback experience                                      | No             | Yes               |
+| Total video playlists you can create                             | 10             | Unlimited         |
+| Number of cloud storage services you can connect                 | 3              | Unlimited         |
+| Archive playlists, albums, or genres into a single ZIP archive   | 3              | Unlimited         |
+| Videos you can mark as favorites                                 | 100            | Unlimited         |
+| Videos allowed in a single playlist                              | 1000           | Unlimited         |
+| Videos allowed in the playback queue                             | 750            | Unlimited         |
+| Number of folders you can make available offline                 | 1              | Unlimited         |
+| Albums, genres, and playlists available offline                  | 1              | Unlimited         |
+| Export videos from the iOS Music / iTunes library                | Yes (limited)  | Unlimited         |
+| Export videos from the iOS Photos library                        | Yes (limited)  | Unlimited         |
+| Download individual files from cloud storage                     | Yes            | Yes               |
+| Download entire folders and media collections                    | No             | Yes               |
+| Full personalization and theming (custom app icon, color scheme) | No             | Yes               |
 
 ## What to choose?
 
