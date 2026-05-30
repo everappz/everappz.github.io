@@ -637,3 +637,39 @@ Hinweis: Stellen Sie sicher, dass JavaScript aktiviert ist und Sie die neueste B
 {{% /details %}}
 
 </div>
+
+
+<div class="hx:mt-6"></div>
+
+{{< hextra/section-headline >}}
+  Benutzerhandbuch
+{{< /hextra/section-headline >}}
+
+<div class="hx:mt-6"></div>
+
+<div class="hx:w-full">
+
+<div class="hx:w-full hx:mx-auto hx:flex hx:flex-col hx:items-center hx:text-center">
+  {{< hextra/info-paragraph border="false" >}}
+  Diese Anleitung hilft dir, das Beste aus Evervideo auf deinem iPhone, iPad oder Mac herauszuholen. Lerne, wie du Videos aus Cloud-Speicher und von NAS streamst, Bild-in-Bild verwendest, Untertitel verwaltest und die Audio- und Video-Equalizer feinjustierst. Evervideo gibt dir die volle Kontrolle über deine gesamte Videosammlung – aus jeder Quelle – in einer einfachen App.
+  {{< /hextra/info-paragraph >}}
+</div>
+
+{{< cards >}}
+  {{< card icon="location-marker" title="Navigation" subtitle="Lerne, wie du Evervideo mit der Tab-Leiste auf dem iPhone oder dem linken Menü auf iPad und Mac steuerst – inklusive des kompakten, immer sichtbaren Videoplayers." link="/docs/guide/evervideo/evervideo-guide-navigation" >}}
+
+  {{< card icon="folder" title="Dateien" subtitle="Verbinde Cloud-Konten, NAS-Freigaben, Medienserver (Plex, Jellyfin, Emby, Subsonic, Navidrome), RTSP-Streams und lokale Dateien in einem einheitlichen Tab." link="/docs/guide/evervideo/evervideo-guide-files" >}}
+
+  {{< card icon="library" title="Mediathek" subtitle="Organisiere und entdecke deine Videos und Musik nach Alben, Genres, Zuletzt gespielt und Favoriten – plus die iOS-Fotomediathek und die Apple-Music-Mediathek." link="/docs/guide/evervideo/evervideo-guide-video-library" >}}
+
+  {{< card icon="collection" title="Wiedergabelisten" subtitle="Erstelle und ordne Wiedergabelisten für Videos, Musik, Serien oder Kurse und importiere M3U-, M3U8- oder CUE-Dateien." link="/docs/guide/evervideo/evervideo-guide-playlists" >}}
+
+  {{< card icon="play" title="Medienplayer" subtitle="Steuere Wiedergabe, Warteschlange, Bild-in-Bild, Audio- und Videospuren, primäre und sekundäre Untertitel sowie die Audio- und Video-Equalizer." link="/docs/guide/evervideo/evervideo-guide-player" >}}
+
+  {{< card icon="adjustments" title="Einstellungen" subtitle="Passe Aussehen, Decoder, Equalizer, Untertitel, Widgets, Sprache, Code-Sperre, Backup und Leistungseinstellungen von Evervideo an." link="/docs/guide/evervideo/evervideo-guide-settings" >}}
+
+{{< /cards >}}
+
+</div>
+
+<div class="hx:mt-6"></div>

@@ -637,3 +637,39 @@ Nota: Pastikan JavaScript diaktifkan dan anda menggunakan versi pelayar terkini 
 {{% /details %}}
 
 </div>
+
+
+<div class="hx:mt-6"></div>
+
+{{< hextra/section-headline >}}
+  Panduan Pengguna
+{{< /hextra/section-headline >}}
+
+<div class="hx:mt-6"></div>
+
+<div class="hx:w-full">
+
+<div class="hx:w-full hx:mx-auto hx:flex hx:flex-col hx:items-center hx:text-center">
+  {{< hextra/info-paragraph border="false" >}}
+  Panduan ini akan membantu anda memanfaatkan Evervideo sepenuhnya pada iPhone, iPad atau Mac anda. Pelajari cara menstrim video daripada storan awan dan NAS, menggunakan Gambar dalam Gambar, menguruskan sari kata, dan menala penyama audio dan video. Evervideo memberi anda kawalan penuh ke atas keseluruhan koleksi video anda — dari mana-mana sumber — dalam satu aplikasi mudah.
+  {{< /hextra/info-paragraph >}}
+</div>
+
+{{< cards >}}
+  {{< card icon="location-marker" title="Navigasi" subtitle="Pelajari cara menavigasi Evervideo menggunakan Bar Tab pada iPhone atau Menu Kiri pada iPad dan Mac, serta pemain video padat yang sentiasa kelihatan pada skrin." link="/docs/guide/evervideo/evervideo-guide-navigation" >}}
+
+  {{< card icon="folder" title="Fail" subtitle="Sambungkan akaun awan, perkongsian NAS, pelayan media (Plex, Jellyfin, Emby, Subsonic, Navidrome), strim RTSP dan fail tempatan dalam satu tab bersepadu." link="/docs/guide/evervideo/evervideo-guide-files" >}}
+
+  {{< card icon="library" title="Pustaka Media" subtitle="Susun dan terokai video serta muzik anda mengikut Album, Genre, Terkini dan Kegemaran — termasuk pustaka Foto iOS dan pustaka Apple Music." link="/docs/guide/evervideo/evervideo-guide-video-library" >}}
+
+  {{< card icon="collection" title="Senarai Main" subtitle="Cipta dan susun senarai main untuk video, muzik, siri atau kursus dan import fail M3U / M3U8 / CUE." link="/docs/guide/evervideo/evervideo-guide-playlists" >}}
+
+  {{< card icon="play" title="Pemain Media" subtitle="Kawal main balik, baris gilir, Gambar dalam Gambar, trek audio dan video, sari kata utama dan sekunder serta penyama audio dan video." link="/docs/guide/evervideo/evervideo-guide-player" >}}
+
+  {{< card icon="adjustments" title="Tetapan" subtitle="Sesuaikan rupa, penyahkod, penyama, sari kata, widget, bahasa, kod laluan, sandaran dan tetapan prestasi Evervideo." link="/docs/guide/evervideo/evervideo-guide-settings" >}}
+
+{{< /cards >}}
+
+</div>
+
+<div class="hx:mt-6"></div>

@@ -637,3 +637,39 @@ Wi-Fi Drive هي تقنية شائعة تتيح لك نقل الملفات من 
 {{% /details %}}
 
 </div>
+
+
+<div class="hx:mt-6"></div>
+
+{{< hextra/section-headline >}}
+  دليل المستخدم
+{{< /hextra/section-headline >}}
+
+<div class="hx:mt-6"></div>
+
+<div class="hx:w-full">
+
+<div class="hx:w-full hx:mx-auto hx:flex hx:flex-col hx:items-center hx:text-center">
+  {{< hextra/info-paragraph border="false" >}}
+  سيساعدك هذا الدليل على الاستفادة القصوى من Evervideo على iPhone وiPad وMac. تعلّم كيفية بث الفيديوهات من التخزين السحابي وأجهزة NAS، واستخدام «صورة داخل صورة»، وإدارة الترجمات، وضبط معادلات الصوت والفيديو. يمنحك Evervideo التحكم الكامل في مجموعة الفيديوهات بالكامل من أي مصدر في تطبيق سهل واحد.
+  {{< /hextra/info-paragraph >}}
+</div>
+
+{{< cards >}}
+  {{< card icon="location-marker" title="التنقل" subtitle="تعلّم كيفية التنقل في Evervideo باستخدام شريط علامات التبويب على iPhone أو القائمة اليسرى على iPad وMac، بالإضافة إلى المشغل المضغوط الدائم على الشاشة." link="/docs/guide/evervideo/evervideo-guide-navigation" >}}
+
+  {{< card icon="folder" title="الملفات" subtitle="اربط حسابات السحابة وأقراص NAS وخوادم الوسائط (Plex، Jellyfin، Emby، Subsonic، Navidrome) وتدفقات RTSP والملفات المحلية في علامة تبويب موحدة." link="/docs/guide/evervideo/evervideo-guide-files" >}}
+
+  {{< card icon="library" title="مكتبة الوسائط" subtitle="نظّم واستكشف الفيديوهات والموسيقى حسب الألبومات والأنواع والمشاهدات الأخيرة والمفضلة، بالإضافة إلى مكتبة صور iOS ومكتبة Apple Music." link="/docs/guide/evervideo/evervideo-guide-video-library" >}}
+
+  {{< card icon="collection" title="قوائم التشغيل" subtitle="أنشئ ونظّم قوائم تشغيل للفيديوهات والموسيقى والمسلسلات أو الدورات، واستورد ملفات M3U / M3U8 / CUE." link="/docs/guide/evervideo/evervideo-guide-playlists" >}}
+
+  {{< card icon="play" title="مشغل الوسائط" subtitle="تحكم في التشغيل وقائمة الانتظار و«صورة داخل صورة» ومسارات الصوت والفيديو والترجمات الأساسية والثانوية ومعادلات الصوت والفيديو." link="/docs/guide/evervideo/evervideo-guide-player" >}}
+
+  {{< card icon="adjustments" title="الإعدادات" subtitle="خصّص مظهر Evervideo وفك التشفير والمعادلات والترجمات والأدوات واللغة ورمز المرور والنسخ الاحتياطي وإعدادات الأداء." link="/docs/guide/evervideo/evervideo-guide-settings" >}}
+
+{{< /cards >}}
+
+</div>
+
+<div class="hx:mt-6"></div>

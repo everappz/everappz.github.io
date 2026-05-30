@@ -637,3 +637,39 @@ Catatan: Pastikan JavaScript diaktifkan dan Anda menggunakan versi browser terba
 {{% /details %}}
 
 </div>
+
+
+<div class="hx:mt-6"></div>
+
+{{< hextra/section-headline >}}
+  Panduan Pengguna
+{{< /hextra/section-headline >}}
+
+<div class="hx:mt-6"></div>
+
+<div class="hx:w-full">
+
+<div class="hx:w-full hx:mx-auto hx:flex hx:flex-col hx:items-center hx:text-center">
+  {{< hextra/info-paragraph border="false" >}}
+  Panduan ini akan membantu Anda mendapatkan yang terbaik dari Evervideo di iPhone, iPad, atau Mac Anda. Pelajari cara streaming video dari penyimpanan cloud dan NAS, menggunakan Gambar dalam Gambar, mengelola subtitle, serta menyetel equalizer audio dan video. Evervideo memberi Anda kendali penuh atas seluruh koleksi video Anda — dari sumber mana pun — dalam satu aplikasi yang mudah.
+  {{< /hextra/info-paragraph >}}
+</div>
+
+{{< cards >}}
+  {{< card icon="location-marker" title="Navigasi" subtitle="Pelajari cara menavigasi Evervideo menggunakan Bilah Tab di iPhone atau Menu Kiri di iPad dan Mac, plus pemutar video ringkas yang selalu terlihat di layar." link="/docs/guide/evervideo/evervideo-guide-navigation" >}}
+
+  {{< card icon="folder" title="Berkas" subtitle="Hubungkan akun cloud, berbagi NAS, server media (Plex, Jellyfin, Emby, Subsonic, Navidrome), aliran RTSP, dan berkas lokal dalam satu tab terpadu." link="/docs/guide/evervideo/evervideo-guide-files" >}}
+
+  {{< card icon="library" title="Pustaka Media" subtitle="Atur dan jelajahi video dan musik Anda berdasarkan Album, Genre, Terbaru, dan Favorit — termasuk pustaka Foto iOS dan pustaka Apple Music." link="/docs/guide/evervideo/evervideo-guide-video-library" >}}
+
+  {{< card icon="collection" title="Daftar Putar" subtitle="Buat dan atur daftar putar untuk video, musik, serial, atau kursus, dan impor berkas M3U / M3U8 / CUE." link="/docs/guide/evervideo/evervideo-guide-playlists" >}}
+
+  {{< card icon="play" title="Pemutar Media" subtitle="Kendalikan pemutaran, antrean, Gambar dalam Gambar, trek audio dan video, subtitle utama dan sekunder, serta equalizer audio dan video." link="/docs/guide/evervideo/evervideo-guide-player" >}}
+
+  {{< card icon="adjustments" title="Pengaturan" subtitle="Sesuaikan tampilan, dekoder, equalizer, subtitle, widget, bahasa, kode sandi, pencadangan, dan pengaturan kinerja Evervideo." link="/docs/guide/evervideo/evervideo-guide-settings" >}}
+
+{{< /cards >}}
+
+</div>
+
+<div class="hx:mt-6"></div>

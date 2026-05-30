@@ -637,3 +637,39 @@ Huomio: Varmista, että JavaScript on käytössä ja käytät uusinta selainvers
 {{% /details %}}
 
 </div>
+
+
+<div class="hx:mt-6"></div>
+
+{{< hextra/section-headline >}}
+  Käyttöopas
+{{< /hextra/section-headline >}}
+
+<div class="hx:mt-6"></div>
+
+<div class="hx:w-full">
+
+<div class="hx:w-full hx:mx-auto hx:flex hx:flex-col hx:items-center hx:text-center">
+  {{< hextra/info-paragraph border="false" >}}
+  Tämä opas auttaa sinua saamaan parhaan irti Evervideosta iPhonella, iPadilla tai Macilla. Opettele suoratoistamaan videoita pilvitallennuksesta ja NAS-laitteilta, käyttämään Kuva kuvassa -tilaa, hallitsemaan tekstityksiä ja säätämään äänen ja kuvan taajuuskorjaimia. Evervideo antaa sinulle täyden hallinnan koko videokokoelmaasi mistä tahansa lähteestä yhdessä helppokäyttöisessä sovelluksessa.
+  {{< /hextra/info-paragraph >}}
+</div>
+
+{{< cards >}}
+  {{< card icon="location-marker" title="Navigointi" subtitle="Opi navigoimaan Evervideossa iPhonen välilehtipalkin tai iPadin ja Macin vasemman valikon avulla – mukaan lukien kompakti aina näkyvä videosoitin." link="/docs/guide/evervideo/evervideo-guide-navigation" >}}
+
+  {{< card icon="folder" title="Tiedostot" subtitle="Liitä pilvitilit, NAS-jaot, mediapalvelimet (Plex, Jellyfin, Emby, Subsonic, Navidrome), RTSP-suoratoistot ja paikalliset tiedostot yhteen yhtenäiseen välilehteen." link="/docs/guide/evervideo/evervideo-guide-files" >}}
+
+  {{< card icon="library" title="Mediakirjasto" subtitle="Järjestä ja selaa videoitasi ja musiikkiasi albumin, genren, viimeksi toistettujen ja suosikkien mukaan – mukana myös iOS:n Kuvat-kirjasto ja Apple Music -kirjasto." link="/docs/guide/evervideo/evervideo-guide-video-library" >}}
+
+  {{< card icon="collection" title="Soittolistat" subtitle="Luo ja järjestä soittolistat videoille, musiikille, sarjoille tai kursseille ja tuo M3U / M3U8 / CUE -tiedostoja." link="/docs/guide/evervideo/evervideo-guide-playlists" >}}
+
+  {{< card icon="play" title="Mediasoitin" subtitle="Hallitse toistoa, jonoa, Kuva kuvassa -tilaa, ääni- ja videoraitoja, ensisijaisia ja toissijaisia tekstityksiä sekä äänen ja kuvan taajuuskorjaimia." link="/docs/guide/evervideo/evervideo-guide-player" >}}
+
+  {{< card icon="adjustments" title="Asetukset" subtitle="Mukauta Evervideon ulkoasu, dekooderi, taajuuskorjaimet, tekstitykset, widgetit, kieli, pääsykoodi, varmuuskopiointi ja suorituskykyasetukset." link="/docs/guide/evervideo/evervideo-guide-settings" >}}
+
+{{< /cards >}}
+
+</div>
+
+<div class="hx:mt-6"></div>

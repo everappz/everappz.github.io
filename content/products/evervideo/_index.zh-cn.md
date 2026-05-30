@@ -637,3 +637,39 @@ iTunes 文件共享是另一种技术，允许您使用 iTunes 和 Lightning 线
 {{% /details %}}
 
 </div>
+
+
+<div class="hx:mt-6"></div>
+
+{{< hextra/section-headline >}}
+  用户指南
+{{< /hextra/section-headline >}}
+
+<div class="hx:mt-6"></div>
+
+<div class="hx:w-full">
+
+<div class="hx:w-full hx:mx-auto hx:flex hx:flex-col hx:items-center hx:text-center">
+  {{< hextra/info-paragraph border="false" >}}
+  本指南将帮助你在 iPhone、iPad 或 Mac 上充分发挥 Evervideo 的功能。了解如何从云存储和 NAS 流式播放视频、使用画中画、管理字幕以及调节音频和视频均衡器。Evervideo 让你在一个简单的应用中,从任何来源完全掌控你的整个视频收藏。
+  {{< /hextra/info-paragraph >}}
+</div>
+
+{{< cards >}}
+  {{< card icon="location-marker" title="导航" subtitle="学习如何使用 iPhone 上的标签栏或 iPad 和 Mac 上的左侧菜单,以及屏幕上始终显示的紧凑视频播放器,来浏览 Evervideo。" link="/docs/guide/evervideo/evervideo-guide-navigation" >}}
+
+  {{< card icon="folder" title="文件" subtitle="在一个统一的标签页中连接云账户、NAS 共享、媒体服务器(Plex、Jellyfin、Emby、Subsonic、Navidrome)、RTSP 流和本地文件。" link="/docs/guide/evervideo/evervideo-guide-files" >}}
+
+  {{< card icon="library" title="媒体库" subtitle="按专辑、流派、最近播放和收藏整理与浏览你的视频和音乐,同时支持 iOS 照片图库和 Apple Music 媒体库。" link="/docs/guide/evervideo/evervideo-guide-video-library" >}}
+
+  {{< card icon="collection" title="播放列表" subtitle="为视频、音乐、剧集或课程创建并整理播放列表,并导入 M3U / M3U8 / CUE 文件。" link="/docs/guide/evervideo/evervideo-guide-playlists" >}}
+
+  {{< card icon="play" title="媒体播放器" subtitle="控制播放、队列、画中画、音频与视频轨道、主副字幕以及音频 + 视频均衡器。" link="/docs/guide/evervideo/evervideo-guide-player" >}}
+
+  {{< card icon="adjustments" title="设置" subtitle="自定义 Evervideo 的外观、解码器、均衡器、字幕、小组件、语言、密码、备份和性能设置。" link="/docs/guide/evervideo/evervideo-guide-settings" >}}
+
+{{< /cards >}}
+
+</div>
+
+<div class="hx:mt-6"></div>

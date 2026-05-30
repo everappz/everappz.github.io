@@ -637,3 +637,39 @@ Napomena: Provjerite je li JavaScript omogućen i koristite li najnoviju verziju
 {{% /details %}}
 
 </div>
+
+
+<div class="hx:mt-6"></div>
+
+{{< hextra/section-headline >}}
+  Korisnički vodič
+{{< /hextra/section-headline >}}
+
+<div class="hx:mt-6"></div>
+
+<div class="hx:w-full">
+
+<div class="hx:w-full hx:mx-auto hx:flex hx:flex-col hx:items-center hx:text-center">
+  {{< hextra/info-paragraph border="false" >}}
+  Ovaj vodič pomoći će vam da izvučete najbolje iz aplikacije Evervideo na vašem iPhoneu, iPadu ili Macu. Naučite kako streamati videozapise iz cloud pohrane i s NAS-a, koristiti Slika u slici, upravljati titlovima i ugoditi audio i video ekvilizatore. Evervideo vam daje potpunu kontrolu nad cijelom video kolekcijom, s bilo kojeg izvora, u jednoj jednostavnoj aplikaciji.
+  {{< /hextra/info-paragraph >}}
+</div>
+
+{{< cards >}}
+  {{< card icon="location-marker" title="Navigacija" subtitle="Naučite kako se kretati kroz Evervideo pomoću trake kartica na iPhoneu ili lijevog izbornika na iPadu i Macu, uz kompaktni uvijek prisutni video player." link="/docs/guide/evervideo/evervideo-guide-navigation" >}}
+
+  {{< card icon="folder" title="Datoteke" subtitle="Povežite cloud račune, NAS dijeljene mape, medijske poslužitelje (Plex, Jellyfin, Emby, Subsonic, Navidrome), RTSP streamove i lokalne datoteke u jednoj objedinjenoj kartici." link="/docs/guide/evervideo/evervideo-guide-files" >}}
+
+  {{< card icon="library" title="Medijska biblioteka" subtitle="Organizirajte i istražujte svoje videozapise i glazbu prema albumima, žanrovima, nedavnima i favoritima – uz iOS biblioteku Fotografije i biblioteku Apple Musica." link="/docs/guide/evervideo/evervideo-guide-video-library" >}}
+
+  {{< card icon="collection" title="Popisi za reprodukciju" subtitle="Stvarajte i uređujte popise za videozapise, glazbu, serije ili tečajeve te uvozite M3U / M3U8 / CUE datoteke." link="/docs/guide/evervideo/evervideo-guide-playlists" >}}
+
+  {{< card icon="play" title="Medijski player" subtitle="Upravljajte reprodukcijom, redom, načinom Slika u slici, audio i video zapisima, primarnim i sekundarnim titlovima te audio i video ekvilizatorima." link="/docs/guide/evervideo/evervideo-guide-player" >}}
+
+  {{< card icon="adjustments" title="Postavke" subtitle="Prilagodite izgled, dekoder, ekvilizatore, titlove, widgete, jezik, šifru, sigurnosnu kopiju i postavke performansi aplikacije Evervideo." link="/docs/guide/evervideo/evervideo-guide-settings" >}}
+
+{{< /cards >}}
+
+</div>
+
+<div class="hx:mt-6"></div>

@@ -637,3 +637,39 @@ iTunes File Sharing เป็นอีกเทคโนโลยีหนึ่
 {{% /details %}}
 
 </div>
+
+
+<div class="hx:mt-6"></div>
+
+{{< hextra/section-headline >}}
+  คู่มือผู้ใช้
+{{< /hextra/section-headline >}}
+
+<div class="hx:mt-6"></div>
+
+<div class="hx:w-full">
+
+<div class="hx:w-full hx:mx-auto hx:flex hx:flex-col hx:items-center hx:text-center">
+  {{< hextra/info-paragraph border="false" >}}
+  คู่มือนี้จะช่วยให้คุณใช้ Evervideo บน iPhone, iPad หรือ Mac ได้อย่างเต็มประสิทธิภาพ เรียนรู้วิธีสตรีมวิดีโอจากที่จัดเก็บข้อมูลบนคลาวด์และ NAS ใช้โหมดภาพในภาพ จัดการคำบรรยาย และปรับอีควอไลเซอร์เสียงและวิดีโอ Evervideo ให้คุณควบคุมคลังวิดีโอทั้งหมดของคุณจากทุกแหล่งได้อย่างเต็มที่ในแอปเดียวที่ใช้งานง่าย
+  {{< /hextra/info-paragraph >}}
+</div>
+
+{{< cards >}}
+  {{< card icon="location-marker" title="การนำทาง" subtitle="เรียนรู้วิธีนำทางใน Evervideo โดยใช้แถบแท็บบน iPhone หรือเมนูทางซ้ายบน iPad และ Mac พร้อมโปรแกรมเล่นวิดีโอแบบกะทัดรัดที่แสดงตลอดเวลา" link="/docs/guide/evervideo/evervideo-guide-navigation" >}}
+
+  {{< card icon="folder" title="ไฟล์" subtitle="เชื่อมต่อบัญชีคลาวด์ การแชร์ NAS เซิร์ฟเวอร์สื่อ (Plex, Jellyfin, Emby, Subsonic, Navidrome) สตรีม RTSP และไฟล์ในเครื่องในแท็บเดียวที่รวมเข้าด้วยกัน" link="/docs/guide/evervideo/evervideo-guide-files" >}}
+
+  {{< card icon="library" title="คลังสื่อ" subtitle="จัดระเบียบและสำรวจวิดีโอและเพลงของคุณตามอัลบั้ม แนวเพลง รายการล่าสุด และรายการโปรด รวมถึงคลังภาพถ่ายของ iOS และคลัง Apple Music" link="/docs/guide/evervideo/evervideo-guide-video-library" >}}
+
+  {{< card icon="collection" title="รายการเล่น" subtitle="สร้างและจัดเรียงรายการเล่นสำหรับวิดีโอ เพลง ซีรีส์ หรือคอร์สเรียน และนำเข้าไฟล์ M3U / M3U8 / CUE" link="/docs/guide/evervideo/evervideo-guide-playlists" >}}
+
+  {{< card icon="play" title="เครื่องเล่นสื่อ" subtitle="ควบคุมการเล่น คิว ภาพในภาพ แทร็กเสียงและวิดีโอ คำบรรยายหลักและรอง และอีควอไลเซอร์เสียง + วิดีโอ" link="/docs/guide/evervideo/evervideo-guide-player" >}}
+
+  {{< card icon="adjustments" title="การตั้งค่า" subtitle="ปรับแต่งรูปลักษณ์ ตัวถอดรหัส อีควอไลเซอร์ คำบรรยาย วิดเจ็ต ภาษา รหัสผ่าน การสำรองข้อมูล และการตั้งค่าประสิทธิภาพของ Evervideo" link="/docs/guide/evervideo/evervideo-guide-settings" >}}
+
+{{< /cards >}}
+
+</div>
+
+<div class="hx:mt-6"></div>

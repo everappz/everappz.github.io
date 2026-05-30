@@ -637,3 +637,39 @@ Poznámka: Uistite sa, že JavaScript je povolený a používate najnovšiu verz
 {{% /details %}}
 
 </div>
+
+
+<div class="hx:mt-6"></div>
+
+{{< hextra/section-headline >}}
+  Používateľská príručka
+{{< /hextra/section-headline >}}
+
+<div class="hx:mt-6"></div>
+
+<div class="hx:w-full">
+
+<div class="hx:w-full hx:mx-auto hx:flex hx:flex-col hx:items-center hx:text-center">
+  {{< hextra/info-paragraph border="false" >}}
+  Táto príručka vám pomôže získať z Evervidea v iPhone, iPade alebo Macu maximum. Naučte sa, ako streamovať videá z cloudového úložiska a NAS, používať režim Obraz v obraze, spravovať titulky a ladiť ekvalizéry zvuku a obrazu. Evervideo vám dáva úplnú kontrolu nad celou vašou zbierkou videí — z akéhokoľvek zdroja — v jednej jednoduchej aplikácii.
+  {{< /hextra/info-paragraph >}}
+</div>
+
+{{< cards >}}
+  {{< card icon="location-marker" title="Navigácia" subtitle="Naučte sa ovládať Evervideo pomocou panela kariet v iPhone alebo ľavého menu v iPade a Macu, plus kompaktného prehrávača videa, ktorý je vždy na obrazovke." link="/docs/guide/evervideo/evervideo-guide-navigation" >}}
+
+  {{< card icon="folder" title="Súbory" subtitle="Pripojte cloudové účty, zdieľané priečinky NAS, mediálne servery (Plex, Jellyfin, Emby, Subsonic, Navidrome), RTSP streamy a lokálne súbory v jednej zjednotenej karte." link="/docs/guide/evervideo/evervideo-guide-files" >}}
+
+  {{< card icon="library" title="Mediálna knižnica" subtitle="Usporiadajte a prehľadávajte videá a hudbu podľa albumov, žánrov, nedávno prehraných a obľúbených — plus knižnica Fotky v iOS a knižnica Apple Music." link="/docs/guide/evervideo/evervideo-guide-video-library" >}}
+
+  {{< card icon="collection" title="Zoznamy skladieb" subtitle="Vytvárajte a usporiadajte zoznamy skladieb pre videá, hudbu, seriály alebo kurzy a importujte súbory M3U / M3U8 / CUE." link="/docs/guide/evervideo/evervideo-guide-playlists" >}}
+
+  {{< card icon="play" title="Mediálny prehrávač" subtitle="Ovládajte prehrávanie, frontu, režim Obraz v obraze, audio a video stopy, primárne a sekundárne titulky a ekvalizéry zvuku aj obrazu." link="/docs/guide/evervideo/evervideo-guide-player" >}}
+
+  {{< card icon="adjustments" title="Nastavenia" subtitle="Prispôsobte vzhľad, dekodér, ekvalizéry, titulky, widgety, jazyk, prístupový kód, zálohu a výkonnostné nastavenia aplikácie Evervideo." link="/docs/guide/evervideo/evervideo-guide-settings" >}}
+
+{{< /cards >}}
+
+</div>
+
+<div class="hx:mt-6"></div>

@@ -24,12 +24,12 @@ aliases:
 
 <div class="hx:mt-6"></div>
 
-Evermusic is a cloud-aware music player for **iPhone, iPad, and Mac** that streams and downloads songs from iCloud Drive, Google Drive, Dropbox, OneDrive, MEGA, Box, pCloud, Yandex Disk, WebDAV, SMB, DLNA, NAS devices, and dozens more. This FAQ answers the questions users send most often — about supported formats and protocols, Premium features, offline playback, CarPlay, widgets, backups, and troubleshooting. For step-by-step walkthroughs, see the [Evermusic User Guide](/docs/guide/evermusic/) or browse our [How-to articles](/docs/howto/).
+Evermusic is a cloud music player for iPhone, iPad, and Mac that streams and downloads songs from iCloud Drive, Google Drive, Dropbox, OneDrive, MEGA, Box, pCloud, Yandex Disk, WebDAV, SMB, DLNA, NAS devices, and dozens more. This FAQ answers the questions users send most often — about supported formats and protocols, Premium features, offline playback, CarPlay, widgets, backups, and troubleshooting. For step-by-step walkthroughs, see the [Evermusic User Guide](/docs/guide/evermusic/) or browse our [How-to articles](/docs/howto/).
 
 <div class="hx:w-full">
 
 {{% details title="What is Evermusic?" closed="true" %}}
-**Evermusic is a cloud-aware music player for iPhone, iPad, and Mac** that lets you stream, download, and organize tracks from multiple cloud services, NAS devices, and local storage — all from a single, unified library.<br><br>
+Evermusic is a **cloud music player** for iPhone, iPad, and Mac that lets you stream, download, and organize tracks from multiple cloud services, NAS devices, and local storage — all from a single, unified library.<br><br>
 
 You can easily download music to play offline, create and manage playlists, and use a built-in equalizer to enhance your listening experience. The app works with services like **Google Drive, Dropbox, OneDrive, iCloud Drive, MEGA, Box, pCloud, Yandex Disk** and many more, so you can keep all of your music in one place and access it from any device.<br><br>
 

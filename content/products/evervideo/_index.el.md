@@ -637,3 +637,39 @@ Evervideo
 {{% /details %}}
 
 </div>
+
+
+<div class="hx:mt-6"></div>
+
+{{< hextra/section-headline >}}
+  Οδηγός χρήσης
+{{< /hextra/section-headline >}}
+
+<div class="hx:mt-6"></div>
+
+<div class="hx:w-full">
+
+<div class="hx:w-full hx:mx-auto hx:flex hx:flex-col hx:items-center hx:text-center">
+  {{< hextra/info-paragraph border="false" >}}
+  Αυτός ο οδηγός θα σας βοηθήσει να αξιοποιήσετε στο έπακρο το Evervideo στο iPhone, iPad ή Mac σας. Μάθετε πώς να μεταδίδετε βίντεο από αποθήκευση cloud και NAS, να χρησιμοποιείτε λειτουργία Εικόνα-σε-Εικόνα, να διαχειρίζεστε υπότιτλους και να ρυθμίζετε τους ισοσταθμιστές ήχου και βίντεο. Το Evervideo σας δίνει πλήρη έλεγχο σε ολόκληρη τη συλλογή βίντεό σας, από οποιαδήποτε πηγή, σε μία εύκολη εφαρμογή.
+  {{< /hextra/info-paragraph >}}
+</div>
+
+{{< cards >}}
+  {{< card icon="location-marker" title="Πλοήγηση" subtitle="Μάθετε πώς να πλοηγείστε στο Evervideo μέσω της γραμμής καρτελών στο iPhone ή του αριστερού μενού σε iPad και Mac, καθώς και του συμπαγούς πάντοτε ορατού player βίντεο." link="/docs/guide/evervideo/evervideo-guide-navigation" >}}
+
+  {{< card icon="folder" title="Αρχεία" subtitle="Συνδέστε λογαριασμούς cloud, κοινόχρηστα NAS, διακομιστές πολυμέσων (Plex, Jellyfin, Emby, Subsonic, Navidrome), ροές RTSP και τοπικά αρχεία σε μία ενοποιημένη καρτέλα." link="/docs/guide/evervideo/evervideo-guide-files" >}}
+
+  {{< card icon="library" title="Βιβλιοθήκη πολυμέσων" subtitle="Οργανώστε και εξερευνήστε τα βίντεο και τη μουσική σας ανά Άλμπουμ, Είδη, Πρόσφατα και Αγαπημένα — μαζί με τη βιβλιοθήκη Φωτογραφιών iOS και τη βιβλιοθήκη Apple Music." link="/docs/guide/evervideo/evervideo-guide-video-library" >}}
+
+  {{< card icon="collection" title="Λίστες αναπαραγωγής" subtitle="Δημιουργήστε και οργανώστε λίστες αναπαραγωγής για βίντεο, μουσική, σειρές ή μαθήματα και εισαγάγετε αρχεία M3U / M3U8 / CUE." link="/docs/guide/evervideo/evervideo-guide-playlists" >}}
+
+  {{< card icon="play" title="Συσκευή αναπαραγωγής πολυμέσων" subtitle="Ελέγξτε την αναπαραγωγή, την ουρά, την Εικόνα-σε-Εικόνα, τα κανάλια ήχου και βίντεο, τους κύριους και δευτερεύοντες υπότιτλους και τους ισοσταθμιστές ήχου και βίντεο." link="/docs/guide/evervideo/evervideo-guide-player" >}}
+
+  {{< card icon="adjustments" title="Ρυθμίσεις" subtitle="Προσαρμόστε την εμφάνιση, τον αποκωδικοποιητή, τους ισοσταθμιστές, τους υπότιτλους, τα widgets, τη γλώσσα, τον κωδικό πρόσβασης, τα αντίγραφα ασφαλείας και τις ρυθμίσεις απόδοσης του Evervideo." link="/docs/guide/evervideo/evervideo-guide-settings" >}}
+
+{{< /cards >}}
+
+</div>
+
+<div class="hx:mt-6"></div>

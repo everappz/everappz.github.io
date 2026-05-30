@@ -637,3 +637,39 @@ Megjegyzés: A legjobb teljesítmény érdekében győződjön meg róla, hogy a
 {{% /details %}}
 
 </div>
+
+
+<div class="hx:mt-6"></div>
+
+{{< hextra/section-headline >}}
+  Felhasználói útmutató
+{{< /hextra/section-headline >}}
+
+<div class="hx:mt-6"></div>
+
+<div class="hx:w-full">
+
+<div class="hx:w-full hx:mx-auto hx:flex hx:flex-col hx:items-center hx:text-center">
+  {{< hextra/info-paragraph border="false" >}}
+  Ez az útmutató segít a legtöbbet kihozni az Evervideóból iPhone-on, iPaden vagy Mac-en. Tanuld meg, hogyan streamelhetsz videókat felhőtárhelyekről és NAS-ról, hogyan használhatod a Kép a képben módot, hogyan kezelheted a feliratokat, és hogyan állíthatod be az audio- és video-hangszínszabályzókat. Az Evervideo teljes kontrollt ad neked a teljes videógyűjteményed felett – bármilyen forrásból – egyetlen egyszerű alkalmazásban.
+  {{< /hextra/info-paragraph >}}
+</div>
+
+{{< cards >}}
+  {{< card icon="location-marker" title="Navigáció" subtitle="Tanuld meg, hogyan navigálj az Evervideóban az iPhone fülsorával vagy az iPad és Mac bal oldali menüjével, valamint a kompakt, mindig látható videolejátszóval." link="/docs/guide/evervideo/evervideo-guide-navigation" >}}
+
+  {{< card icon="folder" title="Fájlok" subtitle="Csatlakoztass felhőfiókokat, NAS megosztásokat, médiakiszolgálókat (Plex, Jellyfin, Emby, Subsonic, Navidrome), RTSP-streameket és helyi fájlokat egyetlen egyesített fülön." link="/docs/guide/evervideo/evervideo-guide-files" >}}
+
+  {{< card icon="library" title="Médiakönyvtár" subtitle="Rendezd és fedezd fel videóidat és zenédet albumok, műfajok, legutóbbiak és kedvencek szerint – beleértve az iOS Fotók könyvtárát és az Apple Music könyvtárát is." link="/docs/guide/evervideo/evervideo-guide-video-library" >}}
+
+  {{< card icon="collection" title="Lejátszási listák" subtitle="Hozz létre és rendezz lejátszási listákat videókhoz, zenéhez, sorozatokhoz vagy kurzusokhoz, és importálj M3U / M3U8 / CUE fájlokat." link="/docs/guide/evervideo/evervideo-guide-playlists" >}}
+
+  {{< card icon="play" title="Médialejátszó" subtitle="Vezéreld a lejátszást, a sort, a Kép a képben módot, az audio- és videosávokat, az elsődleges és másodlagos feliratokat, valamint az audio- és video-hangszínszabályzókat." link="/docs/guide/evervideo/evervideo-guide-player" >}}
+
+  {{< card icon="adjustments" title="Beállítások" subtitle="Szabd személyre az Evervideo megjelenését, dekódolóját, hangszínszabályzóit, feliratait, widgetjeit, nyelvét, jelszavát, biztonsági mentését és teljesítménybeállításait." link="/docs/guide/evervideo/evervideo-guide-settings" >}}
+
+{{< /cards >}}
+
+</div>
+
+<div class="hx:mt-6"></div>

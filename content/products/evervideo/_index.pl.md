@@ -637,3 +637,39 @@ Uwaga: Upewnij się, że JavaScript jest włączony i używasz najnowszej wersji
 {{% /details %}}
 
 </div>
+
+
+<div class="hx:mt-6"></div>
+
+{{< hextra/section-headline >}}
+  Przewodnik użytkownika
+{{< /hextra/section-headline >}}
+
+<div class="hx:mt-6"></div>
+
+<div class="hx:w-full">
+
+<div class="hx:w-full hx:mx-auto hx:flex hx:flex-col hx:items-center hx:text-center">
+  {{< hextra/info-paragraph border="false" >}}
+  Ten przewodnik pomoże Ci w pełni wykorzystać Evervideo na iPhonie, iPadzie lub Macu. Naucz się przesyłać strumieniowo wideo z pamięci w chmurze i NAS, korzystać z obrazu w obrazie, zarządzać napisami oraz dostrajać korektory audio i wideo. Evervideo daje pełną kontrolę nad całą kolekcją wideo — z dowolnego źródła — w jednej prostej aplikacji.
+  {{< /hextra/info-paragraph >}}
+</div>
+
+{{< cards >}}
+  {{< card icon="location-marker" title="Nawigacja" subtitle="Naucz się poruszać po Evervideo za pomocą paska kart na iPhonie lub lewego menu na iPadzie i Macu, a także kompaktowego, zawsze widocznego odtwarzacza wideo." link="/docs/guide/evervideo/evervideo-guide-navigation" >}}
+
+  {{< card icon="folder" title="Pliki" subtitle="Połącz konta w chmurze, udziały NAS, serwery multimedialne (Plex, Jellyfin, Emby, Subsonic, Navidrome), strumienie RTSP i pliki lokalne w jednej ujednoliconej karcie." link="/docs/guide/evervideo/evervideo-guide-files" >}}
+
+  {{< card icon="library" title="Biblioteka multimediów" subtitle="Organizuj i przeglądaj wideo i muzykę według albumów, gatunków, ostatnio odtwarzanych i ulubionych — w tym bibliotekę Zdjęć iOS i bibliotekę Apple Music." link="/docs/guide/evervideo/evervideo-guide-video-library" >}}
+
+  {{< card icon="collection" title="Listy odtwarzania" subtitle="Twórz i organizuj listy odtwarzania dla wideo, muzyki, seriali lub kursów oraz importuj pliki M3U / M3U8 / CUE." link="/docs/guide/evervideo/evervideo-guide-playlists" >}}
+
+  {{< card icon="play" title="Odtwarzacz multimediów" subtitle="Steruj odtwarzaniem, kolejką, obrazem w obrazie, ścieżkami audio i wideo, napisami głównymi i drugorzędnymi oraz korektorami audio i wideo." link="/docs/guide/evervideo/evervideo-guide-player" >}}
+
+  {{< card icon="adjustments" title="Ustawienia" subtitle="Dostosuj wygląd, dekoder, korektory, napisy, widżety, język, kod dostępu, kopię zapasową i ustawienia wydajności Evervideo." link="/docs/guide/evervideo/evervideo-guide-settings" >}}
+
+{{< /cards >}}
+
+</div>
+
+<div class="hx:mt-6"></div>

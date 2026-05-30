@@ -637,3 +637,39 @@ Opmerking: Zorg ervoor dat JavaScript is ingeschakeld en dat je de nieuwste brow
 {{% /details %}}
 
 </div>
+
+
+<div class="hx:mt-6"></div>
+
+{{< hextra/section-headline >}}
+  Gebruikershandleiding
+{{< /hextra/section-headline >}}
+
+<div class="hx:mt-6"></div>
+
+<div class="hx:w-full">
+
+<div class="hx:w-full hx:mx-auto hx:flex hx:flex-col hx:items-center hx:text-center">
+  {{< hextra/info-paragraph border="false" >}}
+  Deze handleiding helpt je het beste uit Evervideo te halen op je iPhone, iPad of Mac. Leer hoe je video's streamt vanuit cloudopslag en NAS, gebruikmaakt van Beeld-in-beeld, ondertiteling beheert en de audio- en video-equalizers afstemt. Evervideo geeft je volledige controle over je hele videocollectie — vanuit elke bron — in één eenvoudige app.
+  {{< /hextra/info-paragraph >}}
+</div>
+
+{{< cards >}}
+  {{< card icon="location-marker" title="Navigatie" subtitle="Leer hoe je Evervideo navigeert met de tabbalk op iPhone of het linkermenu op iPad en Mac, plus de compacte altijd zichtbare videospeler." link="/docs/guide/evervideo/evervideo-guide-navigation" >}}
+
+  {{< card icon="folder" title="Bestanden" subtitle="Verbind cloudaccounts, NAS-shares, mediaservers (Plex, Jellyfin, Emby, Subsonic, Navidrome), RTSP-streams en lokale bestanden in één gecombineerd tabblad." link="/docs/guide/evervideo/evervideo-guide-files" >}}
+
+  {{< card icon="library" title="Mediabibliotheek" subtitle="Beheer en verken je video's en muziek op Albums, Genres, Recent en Favorieten — plus de iOS Foto's-bibliotheek en de Apple Music-bibliotheek." link="/docs/guide/evervideo/evervideo-guide-video-library" >}}
+
+  {{< card icon="collection" title="Afspeellijsten" subtitle="Maak en orden afspeellijsten voor video's, muziek, series of cursussen en importeer M3U / M3U8 / CUE-bestanden." link="/docs/guide/evervideo/evervideo-guide-playlists" >}}
+
+  {{< card icon="play" title="Mediaspeler" subtitle="Bedien afspelen, wachtrij, Beeld-in-beeld, audio- en videosporen, primaire en secundaire ondertiteling en de audio- + video-equalizers." link="/docs/guide/evervideo/evervideo-guide-player" >}}
+
+  {{< card icon="adjustments" title="Instellingen" subtitle="Pas het uiterlijk, de decoder, equalizers, ondertiteling, widgets, taal, toegangscode, back-up en prestatie-instellingen van Evervideo aan." link="/docs/guide/evervideo/evervideo-guide-settings" >}}
+
+{{< /cards >}}
+
+</div>
+
+<div class="hx:mt-6"></div>

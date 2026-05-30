@@ -637,3 +637,39 @@ Note : Assurez-vous que JavaScript est activé et que vous utilisez la dernière
 {{% /details %}}
 
 </div>
+
+
+<div class="hx:mt-6"></div>
+
+{{< hextra/section-headline >}}
+  Guide de l'utilisateur
+{{< /hextra/section-headline >}}
+
+<div class="hx:mt-6"></div>
+
+<div class="hx:w-full">
+
+<div class="hx:w-full hx:mx-auto hx:flex hx:flex-col hx:items-center hx:text-center">
+  {{< hextra/info-paragraph border="false" >}}
+  Ce guide vous aidera à tirer le meilleur parti d'Evervideo sur votre iPhone, iPad ou Mac. Apprenez à diffuser des vidéos depuis le stockage cloud et les NAS, à utiliser le mode Image dans l'image, à gérer les sous-titres et à régler les égaliseurs audio et vidéo. Evervideo vous donne un contrôle total sur l'ensemble de votre collection vidéo, depuis n'importe quelle source, dans une seule application simple.
+  {{< /hextra/info-paragraph >}}
+</div>
+
+{{< cards >}}
+  {{< card icon="location-marker" title="Navigation" subtitle="Apprenez à naviguer dans Evervideo grâce à la barre d'onglets sur iPhone ou au menu de gauche sur iPad et Mac, ainsi qu'au lecteur vidéo compact toujours affiché." link="/docs/guide/evervideo/evervideo-guide-navigation" >}}
+
+  {{< card icon="folder" title="Fichiers" subtitle="Connectez vos comptes cloud, partages NAS, serveurs multimédias (Plex, Jellyfin, Emby, Subsonic, Navidrome), flux RTSP et fichiers locaux dans un onglet unifié." link="/docs/guide/evervideo/evervideo-guide-files" >}}
+
+  {{< card icon="library" title="Bibliothèque multimédia" subtitle="Organisez et explorez vos vidéos et votre musique par Albums, Genres, Récents et Favoris, ainsi que via la bibliothèque Photos d'iOS et la bibliothèque Apple Music." link="/docs/guide/evervideo/evervideo-guide-video-library" >}}
+
+  {{< card icon="collection" title="Listes de lecture" subtitle="Créez et organisez des listes pour vidéos, musique, séries ou cours et importez des fichiers M3U / M3U8 / CUE." link="/docs/guide/evervideo/evervideo-guide-playlists" >}}
+
+  {{< card icon="play" title="Lecteur multimédia" subtitle="Contrôlez la lecture, la file d'attente, l'Image dans l'image, les pistes audio et vidéo, les sous-titres principaux et secondaires, et les égaliseurs audio et vidéo." link="/docs/guide/evervideo/evervideo-guide-player" >}}
+
+  {{< card icon="adjustments" title="Réglages" subtitle="Personnalisez l'apparence, le décodeur, les égaliseurs, les sous-titres, les widgets, la langue, le code, la sauvegarde et les réglages de performance d'Evervideo." link="/docs/guide/evervideo/evervideo-guide-settings" >}}
+
+{{< /cards >}}
+
+</div>
+
+<div class="hx:mt-6"></div>

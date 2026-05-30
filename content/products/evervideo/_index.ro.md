@@ -637,3 +637,39 @@ Notă: Asigurați-vă că JavaScript este activat și că folosiți cea mai rece
 {{% /details %}}
 
 </div>
+
+
+<div class="hx:mt-6"></div>
+
+{{< hextra/section-headline >}}
+  Ghidul utilizatorului
+{{< /hextra/section-headline >}}
+
+<div class="hx:mt-6"></div>
+
+<div class="hx:w-full">
+
+<div class="hx:w-full hx:mx-auto hx:flex hx:flex-col hx:items-center hx:text-center">
+  {{< hextra/info-paragraph border="false" >}}
+  Acest ghid te va ajuta să profiți la maximum de Evervideo pe iPhone, iPad sau Mac. Învață cum să transmiți videoclipuri din stocarea în cloud și NAS, să folosești modul Imagine în imagine, să gestionezi subtitrările și să reglezi egalizatoarele audio și video. Evervideo îți oferă control complet asupra întregii colecții video — din orice sursă — într-o singură aplicație ușor de folosit.
+  {{< /hextra/info-paragraph >}}
+</div>
+
+{{< cards >}}
+  {{< card icon="location-marker" title="Navigare" subtitle="Învață cum să navighezi în Evervideo folosind bara de file pe iPhone sau meniul din stânga pe iPad și Mac, plus playerul video compact mereu vizibil pe ecran." link="/docs/guide/evervideo/evervideo-guide-navigation" >}}
+
+  {{< card icon="folder" title="Fișiere" subtitle="Conectează conturi cloud, partajări NAS, servere media (Plex, Jellyfin, Emby, Subsonic, Navidrome), fluxuri RTSP și fișiere locale într-o singură filă unificată." link="/docs/guide/evervideo/evervideo-guide-files" >}}
+
+  {{< card icon="library" title="Bibliotecă media" subtitle="Organizează și explorează videoclipurile și muzica după Albume, Genuri, Recente și Favorite — plus biblioteca Fotografii iOS și biblioteca Apple Music." link="/docs/guide/evervideo/evervideo-guide-video-library" >}}
+
+  {{< card icon="collection" title="Liste de redare" subtitle="Creează și aranjează liste de redare pentru videoclipuri, muzică, seriale sau cursuri și importă fișiere M3U / M3U8 / CUE." link="/docs/guide/evervideo/evervideo-guide-playlists" >}}
+
+  {{< card icon="play" title="Player media" subtitle="Controlează redarea, coada, Imagine în imagine, piesele audio și video, subtitrările primare și secundare și egalizatoarele audio și video." link="/docs/guide/evervideo/evervideo-guide-player" >}}
+
+  {{< card icon="adjustments" title="Setări" subtitle="Personalizează aspectul, decodorul, egalizatoarele, subtitrările, widget-urile, limba, codul de acces, copia de siguranță și setările de performanță Evervideo." link="/docs/guide/evervideo/evervideo-guide-settings" >}}
+
+{{< /cards >}}
+
+</div>
+
+<div class="hx:mt-6"></div>

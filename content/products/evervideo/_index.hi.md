@@ -637,3 +637,39 @@ iTunes File Sharing एक और तकनीक है जो आपको iTu
 {{% /details %}}
 
 </div>
+
+
+<div class="hx:mt-6"></div>
+
+{{< hextra/section-headline >}}
+  उपयोगकर्ता मार्गदर्शिका
+{{< /hextra/section-headline >}}
+
+<div class="hx:mt-6"></div>
+
+<div class="hx:w-full">
+
+<div class="hx:w-full hx:mx-auto hx:flex hx:flex-col hx:items-center hx:text-center">
+  {{< hextra/info-paragraph border="false" >}}
+  यह मार्गदर्शिका आपके iPhone, iPad या Mac पर Evervideo से अधिकतम लाभ उठाने में आपकी मदद करेगी। क्लाउड स्टोरेज और NAS से वीडियो स्ट्रीम करना, Picture-in-Picture का उपयोग करना, सबटाइटल प्रबंधित करना, और ऑडियो और वीडियो इक्वलाइज़र ट्यून करना सीखें। Evervideo आपको किसी भी स्रोत से आपके पूरे वीडियो संग्रह पर एक आसान ऐप में पूर्ण नियंत्रण देता है।
+  {{< /hextra/info-paragraph >}}
+</div>
+
+{{< cards >}}
+  {{< card icon="location-marker" title="नेविगेशन" subtitle="iPhone पर टैब बार या iPad और Mac पर बाएँ मेनू, साथ ही कॉम्पैक्ट हमेशा-स्क्रीन पर रहने वाले वीडियो प्लेयर का उपयोग करके Evervideo में नेविगेट करना सीखें।" link="/docs/guide/evervideo/evervideo-guide-navigation" >}}
+
+  {{< card icon="folder" title="फ़ाइलें" subtitle="क्लाउड खाते, NAS शेयर, मीडिया सर्वर (Plex, Jellyfin, Emby, Subsonic, Navidrome), RTSP स्ट्रीम और स्थानीय फ़ाइलों को एक एकीकृत टैब में कनेक्ट करें।" link="/docs/guide/evervideo/evervideo-guide-files" >}}
+
+  {{< card icon="library" title="मीडिया लाइब्रेरी" subtitle="अपने वीडियो और संगीत को एल्बम, शैली, हाल के और पसंदीदा द्वारा व्यवस्थित और एक्सप्लोर करें — साथ ही iOS Photos लाइब्रेरी और Apple Music लाइब्रेरी।" link="/docs/guide/evervideo/evervideo-guide-video-library" >}}
+
+  {{< card icon="collection" title="प्लेलिस्ट" subtitle="वीडियो, संगीत, सीरीज़ या पाठ्यक्रमों के लिए प्लेलिस्ट बनाएँ और व्यवस्थित करें और M3U / M3U8 / CUE फ़ाइलें आयात करें।" link="/docs/guide/evervideo/evervideo-guide-playlists" >}}
+
+  {{< card icon="play" title="मीडिया प्लेयर" subtitle="प्लेबैक, क्यू, Picture-in-Picture, ऑडियो और वीडियो ट्रैक, प्राथमिक और द्वितीयक सबटाइटल और ऑडियो + वीडियो इक्वलाइज़र को नियंत्रित करें।" link="/docs/guide/evervideo/evervideo-guide-player" >}}
+
+  {{< card icon="adjustments" title="सेटिंग्स" subtitle="Evervideo के लुक, डिकोडर, इक्वलाइज़र, सबटाइटल, विजेट, भाषा, पासकोड, बैकअप और प्रदर्शन सेटिंग्स को कस्टमाइज़ करें।" link="/docs/guide/evervideo/evervideo-guide-settings" >}}
+
+{{< /cards >}}
+
+</div>
+
+<div class="hx:mt-6"></div>

@@ -637,3 +637,39 @@ iTunes File Sharing — це ще одна технологія, яка дозв
 {{% /details %}}
 
 </div>
+
+
+<div class="hx:mt-6"></div>
+
+{{< hextra/section-headline >}}
+  Посібник користувача
+{{< /hextra/section-headline >}}
+
+<div class="hx:mt-6"></div>
+
+<div class="hx:w-full">
+
+<div class="hx:w-full hx:mx-auto hx:flex hx:flex-col hx:items-center hx:text-center">
+  {{< hextra/info-paragraph border="false" >}}
+  Цей посібник допоможе вам отримати максимум від Evervideo на iPhone, iPad або Mac. Дізнайтеся, як транслювати відео з хмарних сховищ і NAS, користуватися режимом «Картинка в картинці», керувати субтитрами та налаштовувати аудіо- й відеоеквалайзери. Evervideo дає повний контроль над усією вашою колекцією відео — з будь-якого джерела — в одному простому додатку.
+  {{< /hextra/info-paragraph >}}
+</div>
+
+{{< cards >}}
+  {{< card icon="location-marker" title="Навігація" subtitle="Дізнайтеся, як орієнтуватися в Evervideo за допомогою панелі вкладок на iPhone або лівого меню на iPad і Mac, а також компактного відеоплеєра, що завжди видно на екрані." link="/docs/guide/evervideo/evervideo-guide-navigation" >}}
+
+  {{< card icon="folder" title="Файли" subtitle="Підключайте хмарні облікові записи, спільні папки NAS, медіасервери (Plex, Jellyfin, Emby, Subsonic, Navidrome), потоки RTSP та локальні файли в одній об'єднаній вкладці." link="/docs/guide/evervideo/evervideo-guide-files" >}}
+
+  {{< card icon="library" title="Медіатека" subtitle="Упорядковуйте та переглядайте відео й музику за альбомами, жанрами, нещодавніми та обраними — а також бібліотеку «Фотографії» iOS і медіатеку Apple Music." link="/docs/guide/evervideo/evervideo-guide-video-library" >}}
+
+  {{< card icon="collection" title="Списки відтворення" subtitle="Створюйте та впорядковуйте списки для відео, музики, серіалів або курсів та імпортуйте файли M3U / M3U8 / CUE." link="/docs/guide/evervideo/evervideo-guide-playlists" >}}
+
+  {{< card icon="play" title="Медіаплеєр" subtitle="Керуйте відтворенням, чергою, режимом «Картинка в картинці», аудіо- й відеодоріжками, основними та додатковими субтитрами, а також аудіо- й відеоеквалайзерами." link="/docs/guide/evervideo/evervideo-guide-player" >}}
+
+  {{< card icon="adjustments" title="Налаштування" subtitle="Налаштуйте зовнішній вигляд, декодер, еквалайзери, субтитри, віджети, мову, код-пароль, резервне копіювання та параметри продуктивності Evervideo." link="/docs/guide/evervideo/evervideo-guide-settings" >}}
+
+{{< /cards >}}
+
+</div>
+
+<div class="hx:mt-6"></div>

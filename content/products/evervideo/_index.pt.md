@@ -637,3 +637,39 @@ Nota: Certifique-se de que o JavaScript esteja ativado e que você esteja usando
 {{% /details %}}
 
 </div>
+
+
+<div class="hx:mt-6"></div>
+
+{{< hextra/section-headline >}}
+  Guia do utilizador
+{{< /hextra/section-headline >}}
+
+<div class="hx:mt-6"></div>
+
+<div class="hx:w-full">
+
+<div class="hx:w-full hx:mx-auto hx:flex hx:flex-col hx:items-center hx:text-center">
+  {{< hextra/info-paragraph border="false" >}}
+  Este guia ajudá-lo-á a tirar o melhor partido do Evervideo no seu iPhone, iPad ou Mac. Aprenda a transmitir vídeos a partir de armazenamento na cloud e NAS, a utilizar Imagem em Imagem, a gerir legendas e a ajustar os equalizadores de áudio e vídeo. O Evervideo dá-lhe controlo total sobre toda a sua coleção de vídeos — de qualquer origem — numa aplicação simples.
+  {{< /hextra/info-paragraph >}}
+</div>
+
+{{< cards >}}
+  {{< card icon="location-marker" title="Navegação" subtitle="Aprenda a navegar no Evervideo usando a Barra de separadores no iPhone ou o Menu esquerdo no iPad e Mac, além do reprodutor de vídeo compacto sempre visível." link="/docs/guide/evervideo/evervideo-guide-navigation" >}}
+
+  {{< card icon="folder" title="Ficheiros" subtitle="Ligue contas na cloud, partilhas NAS, servidores multimédia (Plex, Jellyfin, Emby, Subsonic, Navidrome), transmissões RTSP e ficheiros locais num separador unificado." link="/docs/guide/evervideo/evervideo-guide-files" >}}
+
+  {{< card icon="library" title="Biblioteca multimédia" subtitle="Organize e explore os seus vídeos e música por Álbuns, Géneros, Recentes e Favoritos — além da biblioteca de Fotos do iOS e da biblioteca Apple Music." link="/docs/guide/evervideo/evervideo-guide-video-library" >}}
+
+  {{< card icon="collection" title="Listas de reprodução" subtitle="Crie e organize listas para vídeos, música, séries ou cursos e importe ficheiros M3U / M3U8 / CUE." link="/docs/guide/evervideo/evervideo-guide-playlists" >}}
+
+  {{< card icon="play" title="Reprodutor multimédia" subtitle="Controle a reprodução, a fila, Imagem em Imagem, faixas de áudio e vídeo, legendas principais e secundárias e os equalizadores de áudio e vídeo." link="/docs/guide/evervideo/evervideo-guide-player" >}}
+
+  {{< card icon="adjustments" title="Definições" subtitle="Personalize o aspeto, o descodificador, os equalizadores, as legendas, os widgets, o idioma, o código, a cópia de segurança e as definições de desempenho do Evervideo." link="/docs/guide/evervideo/evervideo-guide-settings" >}}
+
+{{< /cards >}}
+
+</div>
+
+<div class="hx:mt-6"></div>

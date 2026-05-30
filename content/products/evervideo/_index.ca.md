@@ -637,3 +637,39 @@ Nota: Assegura't que JavaScript estigui habilitat i que estiguis utilitzant l'ú
 {{% /details %}}
 
 </div>
+
+
+<div class="hx:mt-6"></div>
+
+{{< hextra/section-headline >}}
+  Guia de l'usuari
+{{< /hextra/section-headline >}}
+
+<div class="hx:mt-6"></div>
+
+<div class="hx:w-full">
+
+<div class="hx:w-full hx:mx-auto hx:flex hx:flex-col hx:items-center hx:text-center">
+  {{< hextra/info-paragraph border="false" >}}
+  Aquesta guia t'ajudarà a treure el màxim profit d'Evervideo al teu iPhone, iPad o Mac. Aprèn a transmetre vídeos des de l'emmagatzematge al núvol i NAS, utilitzar Picture-in-Picture, gestionar subtítols i ajustar els equalitzadors d'àudio i vídeo. Evervideo et dona control total sobre tota la teva col·lecció de vídeos, des de qualsevol origen, en una aplicació senzilla.
+  {{< /hextra/info-paragraph >}}
+</div>
+
+{{< cards >}}
+  {{< card icon="location-marker" title="Navegació" subtitle="Aprèn a navegar per Evervideo amb la Barra de pestanyes a l'iPhone o el Menú esquerre a l'iPad i Mac, més el reproductor de vídeo compacte sempre visible a la pantalla." link="/docs/guide/evervideo/evervideo-guide-navigation" >}}
+
+  {{< card icon="folder" title="Fitxers" subtitle="Connecta comptes al núvol, recursos NAS, servidors multimèdia (Plex, Jellyfin, Emby, Subsonic, Navidrome), fluxos RTSP i fitxers locals en una pestanya unificada." link="/docs/guide/evervideo/evervideo-guide-files" >}}
+
+  {{< card icon="library" title="Biblioteca multimèdia" subtitle="Organitza i explora els teus vídeos i música per Àlbums, Gèneres, Recents i Preferits, més la biblioteca de Fotos d'iOS i la biblioteca d'Apple Music." link="/docs/guide/evervideo/evervideo-guide-video-library" >}}
+
+  {{< card icon="collection" title="Llistes de reproducció" subtitle="Crea i organitza llistes per a vídeos, música, sèries o cursos i importa fitxers M3U / M3U8 / CUE." link="/docs/guide/evervideo/evervideo-guide-playlists" >}}
+
+  {{< card icon="play" title="Reproductor multimèdia" subtitle="Controla la reproducció, la cua, Picture-in-Picture, les pistes d'àudio i vídeo, els subtítols primaris i secundaris i els equalitzadors d'àudio i vídeo." link="/docs/guide/evervideo/evervideo-guide-player" >}}
+
+  {{< card icon="adjustments" title="Configuració" subtitle="Personalitza l'aspecte, el descodificador, els equalitzadors, els subtítols, els widgets, l'idioma, el codi d'accés, la còpia de seguretat i els ajustos de rendiment d'Evervideo." link="/docs/guide/evervideo/evervideo-guide-settings" >}}
+
+{{< /cards >}}
+
+</div>
+
+<div class="hx:mt-6"></div>

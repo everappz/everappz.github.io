@@ -637,3 +637,39 @@ Bemærk: Sørg for, at JavaScript er aktiveret, og at du bruger den nyeste brows
 {{% /details %}}
 
 </div>
+
+
+<div class="hx:mt-6"></div>
+
+{{< hextra/section-headline >}}
+  Brugervejledning
+{{< /hextra/section-headline >}}
+
+<div class="hx:mt-6"></div>
+
+<div class="hx:w-full">
+
+<div class="hx:w-full hx:mx-auto hx:flex hx:flex-col hx:items-center hx:text-center">
+  {{< hextra/info-paragraph border="false" >}}
+  Denne vejledning hjælper dig med at få det bedste ud af Evervideo på din iPhone, iPad eller Mac. Lær at streame videoer fra skylager og NAS, bruge Billed-i-billede, administrere undertekster og finjustere lyd- og video­equalizere. Evervideo giver dig fuld kontrol over hele din video­samling fra enhver kilde i én nem app.
+  {{< /hextra/info-paragraph >}}
+</div>
+
+{{< cards >}}
+  {{< card icon="location-marker" title="Navigation" subtitle="Lær at navigere i Evervideo med fanelinjen på iPhone eller venstremenuen på iPad og Mac samt den kompakte altid-synlige videoafspiller." link="/docs/guide/evervideo/evervideo-guide-navigation" >}}
+
+  {{< card icon="folder" title="Filer" subtitle="Tilslut sky­konti, NAS-shares, medieservere (Plex, Jellyfin, Emby, Subsonic, Navidrome), RTSP-streams og lokale filer i én samlet fane." link="/docs/guide/evervideo/evervideo-guide-files" >}}
+
+  {{< card icon="library" title="Mediebibliotek" subtitle="Organisér og udforsk dine videoer og din musik efter Album, Genrer, Senest afspillede og Favoritter – plus iOS Fotos-biblioteket og Apple Music-biblioteket." link="/docs/guide/evervideo/evervideo-guide-video-library" >}}
+
+  {{< card icon="collection" title="Spillelister" subtitle="Opret og arrangér spillelister til videoer, musik, serier eller kurser og importér M3U / M3U8 / CUE-filer." link="/docs/guide/evervideo/evervideo-guide-playlists" >}}
+
+  {{< card icon="play" title="Medieafspiller" subtitle="Styr afspilning, kø, Billed-i-billede, lyd- og videospor, primære og sekundære undertekster samt lyd- og video­equalizere." link="/docs/guide/evervideo/evervideo-guide-player" >}}
+
+  {{< card icon="adjustments" title="Indstillinger" subtitle="Tilpas Evervideos udseende, afkoder, equalizere, undertekster, widgets, sprog, adgangskode, sikkerhedskopiering og ydeevneindstillinger." link="/docs/guide/evervideo/evervideo-guide-settings" >}}
+
+{{< /cards >}}
+
+</div>
+
+<div class="hx:mt-6"></div>

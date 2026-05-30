@@ -637,3 +637,39 @@ iTunes 檔案共享是另一種技術，允許您使用 iTunes 和 Lightning 連
 {{% /details %}}
 
 </div>
+
+
+<div class="hx:mt-6"></div>
+
+{{< hextra/section-headline >}}
+  使用者指南
+{{< /hextra/section-headline >}}
+
+<div class="hx:mt-6"></div>
+
+<div class="hx:w-full">
+
+<div class="hx:w-full hx:mx-auto hx:flex hx:flex-col hx:items-center hx:text-center">
+  {{< hextra/info-paragraph border="false" >}}
+  本指南將協助你在 iPhone、iPad 或 Mac 上充分發揮 Evervideo 的功能。了解如何從雲端儲存空間和 NAS 串流影片、使用子母畫面、管理字幕,以及微調音訊和影片等化器。Evervideo 讓你在一個簡單易用的應用程式中,完全掌控來自任何來源的整個影片收藏。
+  {{< /hextra/info-paragraph >}}
+</div>
+
+{{< cards >}}
+  {{< card icon="location-marker" title="導覽" subtitle="學習如何透過 iPhone 上的標籤列或 iPad 和 Mac 上的左側選單,以及螢幕上常駐的精巧影片播放器,在 Evervideo 中瀏覽。" link="/docs/guide/evervideo/evervideo-guide-navigation" >}}
+
+  {{< card icon="folder" title="檔案" subtitle="在單一整合分頁中連接雲端帳戶、NAS 共用、媒體伺服器(Plex、Jellyfin、Emby、Subsonic、Navidrome)、RTSP 串流與本機檔案。" link="/docs/guide/evervideo/evervideo-guide-files" >}}
+
+  {{< card icon="library" title="媒體庫" subtitle="依專輯、類型、最近播放和最愛整理並瀏覽你的影片和音樂,並同時支援 iOS 照片圖庫和 Apple Music 音樂庫。" link="/docs/guide/evervideo/evervideo-guide-video-library" >}}
+
+  {{< card icon="collection" title="播放清單" subtitle="為影片、音樂、影集或課程建立並整理播放清單,並匯入 M3U / M3U8 / CUE 檔案。" link="/docs/guide/evervideo/evervideo-guide-playlists" >}}
+
+  {{< card icon="play" title="媒體播放器" subtitle="控制播放、佇列、子母畫面、音訊與影片軌、主要與次要字幕以及音訊 + 影片等化器。" link="/docs/guide/evervideo/evervideo-guide-player" >}}
+
+  {{< card icon="adjustments" title="設定" subtitle="自訂 Evervideo 的外觀、解碼器、等化器、字幕、小工具、語言、密碼、備份與效能設定。" link="/docs/guide/evervideo/evervideo-guide-settings" >}}
+
+{{< /cards >}}
+
+</div>
+
+<div class="hx:mt-6"></div>
