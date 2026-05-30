@@ -62,31 +62,50 @@ Once you upgrade your app, you will see the Premium status screen with details o
 
 What differs between blue and red is **how they’re packaged on the App Store**, which platforms each one runs on, and a couple of defaults.
 
-<div style="display: flex; gap: 24px; align-items: center; flex-wrap: wrap; justify-content: center; margin: 24px 0;">
+### Download on the App Store
 
-{{< figure
-  src="/evermusic-free-icon.webp"
+<div class="hextra-cards hx:mt-4 hx:gap-4 hx:grid not-prose" style="--hextra-cards-grid-cols: 3;">
+
+{{< product-card
+  link="https://apps.apple.com/app/apple-store/id885367198?pt=95781850&ct=everappzcom&mt=8"
+  title="Evermusic for iOS"
+  subtitle="iPhone & iPad; free with optional Premium in-app purchase"
+  tag="Free"
+  image="/evermusic-free-icon.webp"
   alt="Evermusic Free Icon (Blue)"
-  caption="Evermusic Free — Blue Icon"
-  width="150"
+  method="Resize"
+  options="200x q80 webp"
+  imageStyle="width: 80px; height: auto; border-radius: 17.96px;"
+  noButton="true"
 >}}
 
-{{< figure
-  src="/evermusic-pro-icon.webp"
+{{< product-card
+  link="https://apps.apple.com/app/apple-store/id1564384601?pt=95781850&ct=everappzcom&mt=8"
+  title="Evermusic for Mac"
+  subtitle="Universal (Apple Silicon & Intel); shares purchases with iOS via iCloud"
+  tag="Free"
+  image="/evermusic-free-icon.webp"
+  alt="Evermusic Free Icon (Blue)"
+  method="Resize"
+  options="200x q80 webp"
+  imageStyle="width: 80px; height: auto; border-radius: 17.96px;"
+  noButton="true"
+>}}
+
+{{< product-card
+  link="https://apps.apple.com/us/app/evermusic-pro-music-player/id905746421"
+  title="Evermusic Pro"
+  subtitle="iPhone, iPad, Apple Silicon Mac (M1+); no analytics, lower price"
+  tag="Paid"
+  image="/evermusic-pro-icon.webp"
   alt="Evermusic Pro Icon (Red)"
-  caption="Evermusic Pro — Red Icon"
-  width="150"
+  method="Resize"
+  options="200x q80 webp"
+  imageStyle="width: 80px; height: auto; border-radius: 17.96px;"
+  noButton="true"
 >}}
 
 </div>
-
-### Download on the App Store
-
-{{< cards >}}
-  {{< card link="https://apps.apple.com/app/apple-store/id885367198?pt=95781850&ct=everappzcom&mt=8" title="Evermusic for iPhone & iPad" subtitle="Blue icon — Free with optional Premium in-app purchase" icon="download" tag="Free" >}}
-  {{< card link="https://apps.apple.com/app/apple-store/id1564384601?pt=95781850&ct=everappzcom&mt=8" title="Evermusic for Mac" subtitle="Blue icon — Universal (Apple Silicon & Intel), shares purchases with iOS via iCloud" icon="download" tag="Free" >}}
-  {{< card link="https://apps.apple.com/us/app/evermusic-pro-music-player/id905746421" title="Evermusic Pro" subtitle="Red icon — iPhone, iPad, Apple Silicon Mac (M1+); no analytics, lower price" icon="download" tag="Paid" >}}
-{{< /cards >}}
 
 ### App Store packaging
 

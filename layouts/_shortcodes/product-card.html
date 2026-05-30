@@ -14,6 +14,7 @@
   @param {string} imageStyle The style of the image.
   @param {string} buttonTitle The title of the action button (defaults to i18n "readMore").
   @param {string} buttonLink The link for the action button (defaults to card link).
+  @param {string} noButton When "true", hides the action button entirely (overrides buttonTitle).
 
   @example {{< product-card link="/" title="My App" subtitle="Description" image="/icon.webp" >}}
 */ -}}
@@ -22,7 +23,10 @@
 {{- $icon := .Get "icon" -}}
 {{- $subtitle := .Get "subtitle" -}}
 {{- $buttonTitle := "" -}}
-{{- if isset .Params "buttontitle" -}}
+{{- $noButton := eq (.Get "noButton") "true" -}}
+{{- if $noButton -}}
+  {{- $buttonTitle = "" -}}
+{{- else if isset .Params "buttontitle" -}}
   {{- $buttonTitle = .Get "buttonTitle" -}}
 {{- else -}}
   {{- $buttonTitle = i18n "readMore" -}}
