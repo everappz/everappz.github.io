@@ -18,8 +18,6 @@ readingTime: 5
 ---
 
 
-## Intro
-
 Flacbox offers an intuitive user interface that closely resembles the native Music app, but adds a true **built-in file manager** so you can edit audio files, organize them into folders, and seamlessly move them to and from cloud storage and your device — without leaving the app.
 
 Flacbox’s functionality is thoughtfully split into two logical halves: the **Music Library**, surfaced through the **Music Library** and **Playlists** tabs, and the **Files** section, surfaced through the **Connections** and **Local Files** tabs. The Music Library treats tracks as metadata-aware media items (with artist / album / genre / composer hierarchies), while the Files section gives you full file-and-folder control over the raw audio files behind those items.

@@ -17,8 +17,6 @@ readingTime: 8
 ---
 
 
-## Introduction
-
 The **Local Files** section serves as a hub for managing files located in the application’s **Documents** folder, as well as files added from your device that are available for **offline playback**.
 
 This built-in file manager allows you to edit files (rename, move, copy, upload, delete), monitor transfers, and offers several methods to import audio files into the app — direct downloads from the cloud, offline-mode sync, USB flash drives, Wi-Fi Drive, and Finder File Sharing.

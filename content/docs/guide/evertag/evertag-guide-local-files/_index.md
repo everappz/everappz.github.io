@@ -15,8 +15,6 @@ aliases:
 ---
 
 
-## Introduction
-
 The Local Files section serves as a hub for managing files located in the application's "Documents" folder, as well as files added from your device, which are available offline.
 
 This built-in file manager allows you to edit files and offers various methods to import audio files into the app. Files you've recently opened automatically appear in the **Recents** tab and the items you mark with a star show up under **Favorites**, so you can jump straight to the files you work with most without browsing back to this screen.

@@ -637,3 +637,38 @@ Note: Ensure JavaScript is enabled and you're using the latest browser version f
 {{% /details %}}
 
 </div>
+
+<div class="hx:mt-6"></div>
+
+{{< hextra/section-headline >}}
+  User Guide
+{{< /hextra/section-headline >}}
+
+<div class="hx:mt-6"></div>
+
+<div class="hx:w-full">
+
+<div class="hx:w-full hx:mx-auto hx:flex hx:flex-col hx:items-center hx:text-center">
+  {{< hextra/info-paragraph border="false" >}}
+  This guide will help you get the best out of Evervideo on your iPhone, iPad, or Mac. Learn how to stream videos from cloud storage and NAS, use Picture-in-Picture, manage subtitles, and tune the audio and video equalizers. Evervideo gives you full control over your entire video collection from any source in one easy app.
+  {{< /hextra/info-paragraph >}}
+</div>
+
+{{< cards >}}
+  {{< card icon="location-marker" title="Navigation" subtitle="Learn how to navigate Evervideo using the Tab Bar on iPhone or the Left Menu on iPad and Mac, plus the compact always-on-screen video player." link="/docs/guide/evervideo/evervideo-guide-navigation" >}}
+
+  {{< card icon="folder" title="Files" subtitle="Connect cloud accounts, NAS shares, media servers (Plex, Jellyfin, Emby, Subsonic, Navidrome), RTSP streams, and local files in one unified tab." link="/docs/guide/evervideo/evervideo-guide-files" >}}
+
+  {{< card icon="library" title="Media Library" subtitle="Organize and explore your videos and music by Albums, Genres, Recents, and Favorites - plus the iOS Photos library and Apple Music library." link="/docs/guide/evervideo/evervideo-guide-video-library" >}}
+
+  {{< card icon="collection" title="Playlists" subtitle="Create and arrange playlists for videos, music, series, or courses and import M3U / M3U8 / CUE files." link="/docs/guide/evervideo/evervideo-guide-playlists" >}}
+
+  {{< card icon="play" title="Media Player" subtitle="Control playback, queue, Picture-in-Picture, audio and video tracks, primary and secondary subtitles, and the audio + video equalizers." link="/docs/guide/evervideo/evervideo-guide-player" >}}
+
+  {{< card icon="adjustments" title="Settings" subtitle="Customize Evervideo’s look, decoder, equalizers, subtitles, widgets, language, passcode, backup, and performance settings." link="/docs/guide/evervideo/evervideo-guide-settings" >}}
+
+{{< /cards >}}
+
+</div>
+
+<div class="hx:mt-6"></div>

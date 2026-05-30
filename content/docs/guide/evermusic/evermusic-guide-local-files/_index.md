@@ -18,8 +18,6 @@ aliases:
 ---
 
 
-## Introduction
-
 The Local Files section serves as a hub for managing files located in the application's "Documents" folder, as well as files added from your device, which are available for offline playback.
 
 This built-in file manager allows you to edit files and offers various methods to import audio files into the app.

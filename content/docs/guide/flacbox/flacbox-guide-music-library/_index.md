@@ -19,8 +19,6 @@ readingTime: 11
 ---
 
 
-## Intro
-
 Managing your music library is a breeze with Flacbox, where you can effortlessly organize all your tracks — local FLAC, ALAC, DSD, MP3, M4A, OGG, WMA, APE, and dozens of other formats — into a single, searchable collection. You have two options for building your music library: **manual addition** (you pick exactly what gets added) or **automatic synchronization** (Flacbox scans designated cloud folders and adds new files automatically as they appear).
 
 {{< cards cols="1">}}

@@ -15,8 +15,6 @@ aliases:
 ---
 
 
-## Intro
-
 Managing your music library is a breeze with Evermusic, where you can effortlessly organize all your tracks. You have two options for building your music library: manual addition or automatic synchronization.
 
 {{< cards cols="1">}}

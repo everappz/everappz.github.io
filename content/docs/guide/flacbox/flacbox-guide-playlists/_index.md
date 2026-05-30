@@ -18,8 +18,6 @@ aliases:
 ---
 
 
-## Introduction
-
 In the **Playlists** section, you’ll find helpful tools to manage your music collections. This area shows all your playlists in one place. At the top, there’s a **"..."** button in the navigation bar that opens a menu with different playlist options, plus a toolbar with quick actions like **Search**, **Play All**, and **Shuffle All**. Each playlist also has its own **"..."** button next to its title, giving you more options just for that playlist.
 
 Playlists in Flacbox can contain a mix of online cloud tracks, offline downloaded files, and local files from your device — all in one playlist — and play seamlessly together.

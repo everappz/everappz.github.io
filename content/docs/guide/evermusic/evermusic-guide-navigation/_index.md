@@ -19,8 +19,6 @@ aliases:
 ---
 
 
-## Intro
-
 Evermusic offers an intuitive user interface that closely resembles the native Music app. What sets it apart from many popular music apps is its built-in file manager, giving users the power to edit audio files and seamlessly transfer them to and from cloud storage.
 
 Evermusic's functionality is thoughtfully divided into two distinct components: the Music Library, conveniently accessible through the "Music Library" and "Playlists" tabs, and the Files section, found under the "Connections" and "Local Files" tabs.
