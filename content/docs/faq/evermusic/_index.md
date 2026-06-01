@@ -199,6 +199,17 @@ This works with Synology WebDAV Server, QNAP, Nextcloud, ownCloud, and most othe
 [Full WebDAV tutorial](/docs/howto/how-to-connect-nas-storage-using-webdav-and-listen-to-music-on-your-iphone-or-mac)
 {{% /details %}}
 
+{{% details title="Does Evermusic support Plex, Jellyfin, Emby, Subsonic, and Navidrome?" closed="true" %}}
+**Yes — Evermusic connects natively to Plex Media Server, Jellyfin, Emby, Subsonic, and Navidrome**, so you can stream your self-hosted music library directly from any of them without exposing the underlying file share.<br><br>
+
+- **Plex Media Server** — tap **Connect a cloud service → Plex**, sign in with your Plex account, and pick a server. Plex servers on the same local network are also auto-discovered in the **Available Devices** section.<br>
+- **Jellyfin** (open-source) — tap **Connect a cloud service → Jellyfin**, enter your server URL (something like `http://server-ip:8096`) and credentials.<br>
+- **Emby** (commercial) — tap **Connect a cloud service → Emby** and enter the server URL and login.<br>
+- **Subsonic and Subsonic-compatible servers** — tap **Connect a cloud service → Subsonic**, enter the server URL and credentials. The same API path works with **Navidrome**, **Airsonic**, **Funkwhale**, **Gonic**, **Logitech Media Server (LMS)**, and **Ampache**.<br><br>
+
+Once connected, each server appears alongside your cloud accounts in the Connections screen. You can browse by Artists, Albums, Genres, and Playlists; download tracks for offline playback; queue them in the audio player; and pull them into Evermusic's global Music Library so they show up in your Artists / Albums / Genres / Composers views — all without leaving the app.
+{{% /details %}}
+
 {{% details title="How do I transfer music to Evermusic from my computer?" closed="true" %}}
 **You can transfer music to Evermusic over SMB, WebDAV, FTP / SFTP, DLNA, Wi-Fi Drive, or via iTunes / Finder File Sharing — any method that exposes the files to your device works.**<br><br>
 

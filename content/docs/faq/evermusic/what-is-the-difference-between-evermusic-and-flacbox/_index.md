@@ -24,7 +24,7 @@ Here's a side-by-side comparison of their core features and capabilities.
 
 | Feature | Evermusic | Flacbox |
 |--------|-----------|---------|
-| **Supported Audio Formats** | Extensive support (MP3, AAC, FLAC, M4A, etc.) | Focused on high-res/lossless (FLAC, ALAC, DSD, APE, etc.) |
+| **Supported Audio Formats** | Extensive support (MP3, AAC, WAV, M4A, etc.) | Focused on high-res/lossless (FLAC, ALAC, DSD, APE, etc.) |
 | **Audio Codecs** | System codecs (AVPlayer + CoreAudio) | System + FFMPEG for broader codec support |
 | **Output Sample Rate** | Follows system default | 44.1kHz, 48kHz, 64kHz, 88.2kHz, 96kHz |
 | **Output Channels** | Stereo | Mono, Stereo, 5.1, ITU BS.775-1, SDDS, and more |

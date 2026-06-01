@@ -58,7 +58,7 @@ Once you upgrade your app, you will see the Premium status screen with details o
 
 ## Evermusic Pro (Red Icon) vs Evermusic Free (Blue Icon)
 
-**Evermusic Pro — the app with the red icon — has exactly the same functionality as Evermusic Free (blue icon) with an activated Premium in-app purchase.** Both apps share the same code base, the same features, and the same look and feel. So if you have already upgraded the blue Evermusic Free to Premium, there is **no need to install the red Evermusic Pro** — you already have everything Pro offers.
+**Evermusic Pro, the app with the red icon, has exactly the same functionality as Evermusic Free (blue icon) with an activated Premium in-app purchase.** Both apps share the same features, and the same look and feel. So if you have already upgraded the blue Evermusic Free to Premium, there is no need to install the red Evermusic Pro, you already have everything Pro offers.
 
 What differs between blue and red is **how they’re packaged on the App Store**, which platforms each one runs on, and a couple of defaults.
 

@@ -27,7 +27,7 @@ Evertag is a music metadata editor for **iPhone, iPad, and Mac** that lets you f
 {{% details title="What is Evertag?" closed="true" %}}
 Evertag is a music metadata editor and album-artwork manager for **iOS and macOS** that lets you fix tags, add cover art, and clean up audio files stored on your device or in the cloud.<br><br>
 
-The app supports a wide range of popular audio formats — MP3, FLAC, WAV, M4A, AIFF, OGG, OPUS, WMA, APE and many others — and lets you edit common tags such as title, artist, album, genre, year, track number, plus extended fields like BPM, disc number, lyrics, MusicBrainz IDs, replay-gain values, and parental advisory ratings. You can work with one file at a time or switch to **batch mode** to edit multiple tracks simultaneously — perfect for organizing full albums or playlists.<br><br>
+The app supports a wide range of popular audio formats — MP3, FLAC, WAV, M4A, AIFF, OGG, OPUS, WMA, APE and many others — and lets you edit common tags such as **TITLE**, **ARTIST**, **ALBUM**, **GENRE**, **YEAR**, **TRACK NUMBER**, plus extended fields like **BPM**, **DISC NUMBER**, **LYRICS**, **MUSICBRAINZ IDs**, **REPLAY-GAIN** values, and **PARENTAL ADVISORY** ratings. You can work with one file at a time or switch to **batch mode** to edit multiple tracks simultaneously — perfect for organizing full albums or playlists.<br><br>
 
 One of the standout features of Evertag is its ability to fetch missing album covers from the internet (via MusicBrainz) or let you add your own from the Photos library. The built-in lyrics editor supports both plain and **synced (LRC)** lyrics and includes one-tap shortcuts to Lrclib, Genius, Lyricsify, and Google search. The app supports **open-in-place** editing, so you can modify audio tags without copying files around.<br><br>
 
@@ -85,9 +85,9 @@ If you delete Evertag from your device, all downloaded data and access tokens ar
 {{% /details %}}
 
 {{% details title="Does Evertag collect or share my personal data?" closed="true" %}}
-No — Evertag does not sell or share your personal data. The app stores nothing about your music library on our servers; everything you edit stays on your device or in your own cloud account.<br><br>
+The app stores nothing about your music library on our servers; everything you edit stays on your device or in your own cloud account.<br><br>
 
-Evertag uses a minimal set of services for analytics and crash reporting (Firebase Analytics and Crashlytics) and shows ads in the free version through AdMob. You can review and turn off these services in **Settings → Analytics and Data Collection**. Apple's App Tracking Transparency prompt also lets you decline tracking the first time the app starts. See our [Privacy Policy](/privacy/) for the full breakdown.<br><br>
+Evertag uses a minimal set of services for analytics and crash reporting (Firebase Analytics and Crashlytics) and shows ads in the free version through AdMob. You can review and turn off these services in **Settings → Analytics and Data Collection**. Apple's App Tracking Transparency prompt also lets you decline tracking the first time the app starts. See our [Privacy Policy](/legal/privacy-policy/) for the full breakdown.<br><br>
 {{% /details %}}
 
 {{% details title="Can I protect Evertag with a passcode or Face ID?" closed="true" %}}
@@ -165,7 +165,7 @@ Yes. Connect any NAS using **SMB** or **WebDAV** — they're the two protocols e
 
 • **SMB** — tap **Connect to cloud storage → SMB**, enter `smb://nas-ip-address/shared-folder-name`, choose protocol version (Auto / SMB1 / SMB2), enter login + password, tap **Done**. Full tutorial: [Stream music from Mac or PC via SMB](/docs/howto/stream-your-music-from-mac-or-pc-to-iphone-using-smb/).<br>
 • **WebDAV** — same flow, but enter `http://server-name` or `https://server-name` for SSL. Full tutorial: [Connect NAS storage via WebDAV](/docs/howto/how-to-connect-nas-storage-using-webdav-and-listen-to-music-on-your-iphone-or-mac).<br>
-• **Synology Drive** — supported as a first-class integration (separate from generic WebDAV).<br><br>
+• **Synology Drive** — supported as a first-class integration (separate from generic WebDAV). Full tutorial: [Connect Synology NAS and listen to music on your iPhone or Mac](/docs/howto/how-to-connect-synology-nas-and-listen-to-music-on-your-iphone-or-mac/).<br><br>
 
 Devices broadcasting on the local network also appear automatically in the **Available devices** section of the Connections screen.<br><br>
 {{% /details %}}
@@ -248,7 +248,7 @@ You can connect your computer or NAS using **SMB**, **WebDAV**, **Wi-Fi Drive**,
 {{% details title="Can I edit audio tags offline without an internet connection?" closed="true" %}}
 Yes. Editing local files works fully offline — the tag editor, batch mode, album-cover replacement, encoding fix, and lyrics editor don't require an internet connection.<br><br>
 
-Features that **do** need internet are clearly marked: MusicBrainz auto-search, manual MusicBrainz tag search, the album-artwork web search, and the lyrics-search shortcuts (Lrclib, Genius, Lyricsify, Google). If you go offline mid-session, those services are simply disabled — your local edits are unaffected.<br><br>
+Features that do need internet are clearly marked: MusicBrainz auto-search, manual MusicBrainz tag search, the album-artwork web search, and the lyrics-search shortcuts (Lrclib, Genius, Lyricsify, Google). If you go offline mid-session, those services are simply disabled — your local edits are unaffected.<br><br>
 {{% /details %}}
 
 {{% details title="How do I edit several files at once (batch mode)?" closed="true" %}}

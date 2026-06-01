@@ -372,7 +372,7 @@ App Store Reviews
 {{% details title="How does Flacbox work?" closed="true" %}}
 Flacbox is a hi-res music player that lets you manage audio tracks like regular files.<br>
 You can upload your entire music collection to cloud services like Dropbox, Google Drive, or a personal NAS and play music directly from the cloud with full control.<br><br>
-No iTunes sync is needed—just upload from your PC or Mac like you do with any file.<br>
+No iTunes sync is needed, just upload from your PC or Mac like you do with any file.<br>
 To listen offline, use the built-in download manager to save music to your device.<br><br>
 
 Explore our how-to guides for more details:<br>

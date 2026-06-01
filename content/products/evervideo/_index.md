@@ -397,7 +397,7 @@ App Store Reviews
 {{% details title="How does Evervideo work?" closed="true" %}}
 Evervideo is a HD video player that lets you manage video tracks like regular files.<br>
 You can upload your entire video collection to cloud services like Dropbox, OneDrive, iCloud, or a personal NAS and play video directly from the cloud with full control.<br><br>
-No iTunes sync is needed—just upload from your PC or Mac like you do with any file.<br>
+No iTunes sync is needed, just upload from your PC or Mac like you do with any file.<br>
 To listen offline, use the built-in download manager to save video to your device.<br><br>
 
 Explore our how-to guides for more details:<br>

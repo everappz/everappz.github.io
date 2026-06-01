@@ -29,14 +29,14 @@ aliases:
 
 <div class="hx:mt-6"></div>
 
-Evervideo is an HD and 4K cloud video player for **iPhone, iPad, and Mac** that streams and downloads videos from iCloud Drive, Google Drive, Dropbox, OneDrive, MEGA, Box, pCloud, Yandex Disk, Synology, QNAP, and any WebDAV, SMB, NFS, FTP / SFTP, DLNA, or S3 source — plus self-hosted media servers like **Plex, Jellyfin, Emby, Subsonic,** and **Navidrome**, and live **RTSP** streams from IP cameras. Built on a custom **FFmpeg-based player engine** with **hardware-accelerated H.264 / HEVC decoding**, primary and secondary subtitle tracks (SRT / VTT / ASS / libass), a video equalizer with presets, an audio equalizer, **Picture-in-Picture**, **360° / VR playback** for Insta360 and GoPro Max footage, **AirPlay 2** and **Chromecast** casting, and an always-on-screen compact player. This FAQ answers the questions users send most often. For deeper walkthroughs, see the [Evervideo User Guide](/docs/guide/evervideo/).
+Evervideo is an HD and 4K **cloud video player** for **iPhone, iPad, and Mac** that streams and downloads videos from iCloud Drive, Google Drive, Dropbox, OneDrive, MEGA, Box, pCloud, Yandex Disk, Synology, QNAP, and any WebDAV, SMB, NFS, FTP / SFTP, DLNA, or S3 source — plus self-hosted media servers like **Plex, Jellyfin, Emby, Subsonic,** and **Navidrome**, and live **RTSP** streams from IP cameras. Built on a custom **FFmpeg-based player engine** with **hardware-accelerated H.264 / HEVC decoding**, primary and secondary subtitle tracks (SRT / VTT / ASS / libass), a video equalizer with presets, an audio equalizer, **Picture-in-Picture**, **360° / VR playback** for Insta360 and GoPro Max footage, **AirPlay 2** and **Chromecast** casting, and an always-on-screen compact player. This FAQ answers the questions users send most often. For deeper walkthroughs, see the [Evervideo User Guide](/docs/guide/evervideo/).
 
 <div class="hx:w-full">
 
 {{% details title="How does Evervideo work?" closed="true" %}}
 Evervideo is a HD video player that lets you manage video tracks like regular files.<br>
 You can upload your entire video collection to cloud services like Dropbox, OneDrive, iCloud, or a personal NAS and play video directly from the cloud with full control.<br><br>
-No iTunes sync is needed—just upload from your PC or Mac like you do with any file.<br>
+No iTunes sync is needed, just upload from your PC or Mac like you do with any file.<br>
 To listen offline, use the built-in download manager to save video to your device.<br><br>
 
 Explore our how-to guides for more details:<br>
@@ -116,6 +116,9 @@ The application does not share any information from the connected cloud account.
 
 To reject auth-token login to your account on the web browser and navigate to the settings page. There you can find all third-party apps which are connected to your cloud account and remove any of them if you don’t want to use that application anymore.<br><br>
 
+A full tutorial available here:<br>
+[How to disconnect a third-party app from your Google account](/docs/howto/how-to-disconnect-third-party-app-from-your-google-account/)<br><br>
+
 You can also disconnect the connected cloud accounts in the application and auth-token will be also removed from your device. If you remove the application from your device all downloaded data and access tokens will be also removed.<br><br>
 
 {{% /details %}}
@@ -183,6 +186,9 @@ A full tutorial available here:<br>
 
 For WebDAV protocol, all steps are the same instead of the URL field. URL should be in format http://server-name or https://server-name if the server supports SSL.<br><br>
 
+A full tutorial available here:<br>
+[How to Connect NAS Storage Using WebDAV and Listen to Music on Your iPhone or Mac](/docs/howto/how-to-connect-nas-storage-using-webdav-and-listen-to-music-on-your-iphone-or-mac/)<br><br>
+
 Wi-Fi Drive is a popular technology that allows you to transfer files from your computer to an iOS device wirelessly using a desktop browser. To use this feature your device and computer should be connected to the same Wi-Fi network. Open "Files" → "Computer" → "Connect using Wi-Fi" and enable the server. After this open a desktop browser and enter the URL from the application. You can drag-n-drop files from your computer to the opened web page and they will appear on the device.<br>
 More detailed tutorial available here:<br>
 [How to transfer files wirelessly from a computer to an iPhone using WiFi-Drive](/docs/howto/how-to-transfer-files-wirelessly-from-a-computer-to-an-iphone-using-wifi-drive)<br><br>
@@ -209,6 +215,9 @@ Once you added it you can download your video from the cloud.<br><br>
 – Open Artists/Albums/Playlists Screen<br>
 – Tap the "Offline mode" checkbox<br>
 – Offline Artist/Album/Playlist will appear in the "Files" -> "Offline folders" section.<br><br>
+
+Another option is to download videos from YouTube and import them into Evervideo, as described here:<br>
+[How to download music from YouTube and listen to offline music on iPhone](/docs/howto/how-to-download-music-from-youtube-and-listen-to-offline-music-on-iphone/)<br><br>
 
 {{% /details %}}
 
