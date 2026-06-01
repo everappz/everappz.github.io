@@ -1,19 +1,35 @@
 ---
 date: '2025-06-12T17:00:00+00:00'
 title: 'Evervideo'
-description: 'Explore Evervideo — the HD video player for iOS and macOS. Stream from cloud, watch offline, manage video collections, and sync playlists with ease.'
+description: 'Evervideo FAQ: HD and 4K cloud video player for iPhone, iPad, and Mac. Stream and download videos from iCloud Drive, Google Drive, Dropbox, OneDrive, MEGA, Box, pCloud, Synology, QNAP, NAS, WebDAV, SMB, NFS, FTP / SFTP, DLNA, and S3 — plus Plex, Jellyfin, Emby, Subsonic, and Navidrome. Answers about MKV, HEVC, AV1, 360° / VR video from Insta360 and GoPro Max, Picture-in-Picture, primary and secondary subtitles (SRT, VTT, ASS, libass), audio and video equalizers with presets, RTSP IP-camera streams, AirPlay 2, Chromecast, hardware H.264 / HEVC decoding, Photos and Apple Music library integration, offline mode, backup, Family Sharing, and Premium plans.'
 keywords: [
-  "Evervideo", "video player iOS", "watch videos offline iPhone", "cloud video streaming",
-  "video playback iPhone", "video playlists", "offline video player", "HD video app",
-  "stream from NAS", "WiFi drive iPhone", "DLNA player", "WebDAV video player"
+  "Evervideo FAQ", "Evervideo iPhone", "Evervideo iPad", "Evervideo Mac",
+  "cloud video player", "HD video player iOS", "4K video player iPhone",
+  "MKV player iOS", "HEVC player iPhone", "AV1 player iOS",
+  "FFmpeg video player", "MP4 player Mac", "AVI player iOS",
+  "360 video player iPhone", "VR video player iPhone", "Insta360 video player",
+  "Picture-in-Picture video iPhone", "PiP video player iPad",
+  "RTSP player iPhone", "IP camera viewer", "DLNA video player",
+  "Plex client iPhone", "Jellyfin client iOS", "Emby client iPad",
+  "Subsonic video", "Navidrome client", "video subtitle player",
+  "SRT VTT ASS subtitles", "secondary subtitles iPhone", "dual subtitles",
+  "video equalizer iOS", "video equalizer presets",
+  "stream video from Google Drive", "stream video from Dropbox",
+  "stream video from OneDrive", "stream video from iCloud Drive",
+  "stream video from NAS", "Chromecast video iPhone", "AirPlay 2 video",
+  "Photos library video player", "Apple Music video player",
+  "Wi-Fi Drive video transfer", "M3U video playlist", "USB flash drive video iPhone",
+  "Evervideo Premium", "Family Sharing video app", "YouTube style video player"
 ]
-tags: ["evervideo", "faq", "video streaming", "offline player", "ios video app"]
+tags: ["evervideo", "faq", "video streaming", "offline player", "ios video app", "PiP", "subtitles", "360 video", "FFmpeg", "Plex", "RTSP"]
 aliases:
   - /faq-evervideo/
 ---
 
 
 <div class="hx:mt-6"></div>
+
+Evervideo is an HD and 4K cloud video player for **iPhone, iPad, and Mac** that streams and downloads videos from iCloud Drive, Google Drive, Dropbox, OneDrive, MEGA, Box, pCloud, Yandex Disk, Synology, QNAP, and any WebDAV, SMB, NFS, FTP / SFTP, DLNA, or S3 source — plus self-hosted media servers like **Plex, Jellyfin, Emby, Subsonic,** and **Navidrome**, and live **RTSP** streams from IP cameras. Built on a custom **FFmpeg-based player engine** with **hardware-accelerated H.264 / HEVC decoding**, primary and secondary subtitle tracks (SRT / VTT / ASS / libass), a video equalizer with presets, an audio equalizer, **Picture-in-Picture**, **360° / VR playback** for Insta360 and GoPro Max footage, **AirPlay 2** and **Chromecast** casting, and an always-on-screen compact player. This FAQ answers the questions users send most often. For deeper walkthroughs, see the [Evervideo User Guide](/docs/guide/evervideo/).
 
 <div class="hx:w-full">
 
@@ -112,11 +128,6 @@ You can also disconnect the connected cloud accounts in the application and auth
 
 {{% /details %}}
 
-{{% details title="What cloud services does Evervideo support?" closed="true" %}}
-Currently, the application supports the most popular cloud services: iCloud Drive, Google Drive, Dropbox, OneDrive, Box, MEGA, Yandex.Disk, DLNA, MediaFire, WebDAV, SMB, pCloud, Cloud Mail.ru, Put.io.<br><br>
-
-{{% /details %}}
-
 {{% details title="How do I enable offline mode in Evervideo?" closed="true" %}}
 - Connect to Cloud Storage:<br>
  • Go to the “Files” tab.<br>
@@ -206,32 +217,6 @@ This app supports default **system audio codecs** and additional **ffmpeg softwa
 3g2, 3gp, 3gp2, 3gpp, 8svx, aa, aac, aax, ac3, act, adt, adts, aif, aifc, aiff, alac, amr, amv, ape, asf, au, avi, awb, caf, cavs, cdda, cue, dct, dff, drc, dsf, dss, dvf, "dvr-ms", ec3, f4a, f4b, f4p, f4v, flac, flv, gif, gifv, gsm, gxf, h261, h263, h264, ifv, iklax, ivf, ivs, l16, latm, loas, m2t, m2ts, m2v, m3u, m3u8, m4a, m4b, m4p, m4r, m4v, mka, mkv, mmf, mng, mod, mogg, mov, mp1, mp2, mp3, mp4, mp4v, mpa, mpc, mpe, mpeg, mpg, mpv, msv, mts, mxf, nsf, nsv, nut, oga, ogg, ogv, opus, pcm, pls, qt, ra, raw, rm, rmvb, roq, rv, sln, snd, svi, tod, tta, vob, voc, vox, vtt, w64, wav, wave, webm, wma, wmv, wv, xhe, xmv, y4m, yuv.
 {{% /details %}}
 
-{{% details title="Does Evervideo work with NAS devices?" closed="true" %}}
-
-Yes, Evervideo supports NAS connections using **SMB**, **WebDAV**, and **DLNA** protocols.<br><br>
-
-**To connect a NAS using SMB protocol:**<br>
-• Tap **Files** -> **"Connect to cloud storage" → SMB**.<br>
-• Enter the NAS server IP address and shared folder name in this format: `smb://your-ip/shared-folder`<br>
-• Choose protocol version: **Auto**, **SMB1**, or **SMB2**.<br>
-• Enter your login and password (if required).<br>
-• Tap **"Done"**.<br><br>
-
-If the connection is successful, you’ll see your NAS in the **Cloud storage** section.<br><br>
-
-**To connect via WebDAV protocol:**<br>
-• Steps are the same as SMB, but use a WebDAV URL like `http://your-server-name` or `https://your-server-name` if using SSL.<br><br>
-
-**To stream via DLNA:**<br>
-• You can stream from a Windows PC by enabling its DLNA media server.<br>
-[Read the DLNA setup guide](/docs/howto/how-to-enable-dlna-media-server-on-windows-10-and-play-your-music-on-iphone)<br><br>
-
-**Available Devices section:**<br>
-• Shows all discoverable NAS devices on your local network.<br>
-• Tap a device name to connect, then enter login credentials if needed.<br><br>
-
-{{% /details %}}
-
 {{% details title="How do I use the Wi-Fi Drive feature in Evervideo?" closed="true" %}}
 
 **Wireless transfer using a desktop browser**<br>
@@ -257,6 +242,281 @@ Note: Ensure JavaScript is enabled and you're using the latest browser version f
 
 [Read more](/docs/howto/how-to-transfer-files-wirelessly-from-a-computer-to-an-iphone-using-wifi-drive)
 
+{{% /details %}}
+
+{{% details title="What is Evervideo?" closed="true" %}}
+**Evervideo is a full-featured HD and 4K cloud video player for iPhone, iPad, and Mac** that turns any cloud storage account, NAS, or media server into your personal video library — without subscription fees, without re-uploading anything, and without giving up control of your files.<br><br>
+
+Built on a custom FFmpeg-based player engine with hardware-accelerated H.264 and HEVC decoding, Evervideo plays virtually any modern container and codec (MP4, MKV, AVI, MOV, FLV, WMV, WebM, TS, M2TS, and the long tail of FFmpeg formats), supports primary and secondary subtitles, includes an audio and a video equalizer, and works in Picture-in-Picture mode so you can keep watching while you use other apps.
+{{% /details %}}
+
+{{% details title="What is the difference between Evervideo Free and Evervideo Premium?" closed="true" %}}
+**Evervideo Premium removes every limit of the free version**: it strips ads, unlocks unlimited playlists, cloud services, favorites, offline downloads, ZIP archives, and enables full personalization.<br><br>
+
+Detailed side-by-side comparison and pricing:<br>
+[Read the full comparison](/docs/faq/evervideo/what-is-the-difference-between-evervideo-and-evervideo-premium/)
+{{% /details %}}
+
+{{% details title="What video formats does Evervideo support?" closed="true" %}}
+**Evervideo plays virtually every modern video container and codec on iPhone, iPad, and Mac** thanks to the bundled FFmpeg engine combined with hardware-accelerated H.264 / HEVC decoding.<br><br>
+
+**Containers:** MP4, M4V, MKV, MOV, AVI, FLV, WMV, ASF, WebM, TS, M2TS, MTS, MPG, MPEG, OGV, 3GP, 3G2, F4V, RM, RMVB, VOB, DAT, and many more.<br>
+**Video codecs:** H.264 (AVC), H.265 (HEVC), VP9, VP8, AV1, MPEG-2, MPEG-4, MJPEG, ProRes, Theora, WMV, and virtually every other codec FFmpeg supports.<br>
+**Audio codecs (inside video):** AAC, MP3, FLAC, ALAC, OGG / Vorbis, OPUS, AC-3, EAC-3, DTS, AMR, WMA, APE.<br>
+**Subtitles:** SRT, VTT (WebVTT), ASS / SSA (rendered via libass), embedded image and text tracks.<br>
+**Streaming protocols:** HTTP / HTTPS, HLS (m3u8), DASH (mpd), RTSP, RTMP, MMS, plus direct streaming over SMB / WebDAV / FTP / SFTP / NFS / DLNA.
+{{% /details %}}
+
+{{% details title="Does Evervideo play MKV files on iPhone?" closed="true" %}}
+**Yes — Evervideo plays MKV files natively on iPhone, iPad, and Mac** with no conversion needed, including MKV containers with H.264, HEVC, VP9, or AV1 video, multiple audio tracks, and embedded SRT / ASS subtitles.<br><br>
+
+This is one of the main reasons people install Evervideo over Apple's default player: iOS does not open MKV at all, but Evervideo handles them through the bundled FFmpeg engine. You can stream MKV files directly from cloud storage or a NAS without downloading.
+{{% /details %}}
+
+{{% details title="Does Evervideo support 4K and HDR video?" closed="true" %}}
+**Yes — Evervideo plays 4K (Ultra HD) video and HDR-encoded content** on every device that has the hardware to decode it. Modern iPhones, iPads, and Apple Silicon Macs all decode 4K H.264 and 4K HEVC in hardware, so playback is smooth and battery-friendly.<br><br>
+
+For best results on cloud-streamed 4K, increase the **Preloading Time** in **Settings → Player → File Loading** so the buffer can keep up with high-bitrate files, and connect to a Wi-Fi network rather than cellular.
+{{% /details %}}
+
+{{% details title="Does Evervideo support hardware H.264 and HEVC decoding?" closed="true" %}}
+**Yes — Evervideo uses hardware H.264 (AVC) and H.265 (HEVC) decoders by default** on every iPhone, iPad, and Mac that supports them, which means smoother playback, lower battery use, and cooler device temperature compared with pure software decoding.<br><br>
+
+You can toggle hardware decoding independently for H.264 and HEVC in **Settings → Player → Video → Hardware Decode H.264 / H.265**. If a specific file has compatibility issues (corrupted streams, exotic profiles), disable hardware decoding for that file to fall back to FFmpeg software decoding.
+{{% /details %}}
+
+{{% details title="How do I add or change subtitles in Evervideo?" closed="true" %}}
+**Tap the More Actions ("...") button on the player and choose Subtitles — then pick an embedded subtitle track, load an external subtitle file, or change the font.**<br><br>
+
+Evervideo automatically lists every subtitle track embedded in a video. To load an external subtitle file, choose **External File** and pick a `.srt`, `.vtt`, `.ass`, or `.ssa` file from your device, iCloud Drive, or any connected cloud service. You can also configure default subtitle behavior in **Settings → Player → Subtitles**.
+{{% /details %}}
+
+{{% details title="Does Evervideo support external SRT, VTT, and ASS subtitle files?" closed="true" %}}
+**Yes — Evervideo loads external subtitle files in SRT, VTT (WebVTT), ASS, and SSA formats** from anywhere on your device or any connected cloud service.<br><br>
+
+ASS / SSA files with advanced styling (custom fonts, colors, positions, karaoke effects) are rendered correctly thanks to the bundled **libass** library — perfect for fansubbed anime, professional caption files, and presentations. You can also assign a specific font to subtitles in **Settings → Player → Subtitles → Font**.
+{{% /details %}}
+
+{{% details title="Does Evervideo support dual / secondary subtitles for language learning?" closed="true" %}}
+**Yes — Evervideo can render two subtitle tracks at once on the same video.** This is invaluable for language learners who want to watch with the source language and a translation simultaneously, or for accessibility users who want descriptive captions alongside the dialogue.<br><br>
+
+Choose the primary track via **More Actions → Subtitles → Subtitle Track**, and the secondary track via **More Actions → Subtitles → Secondary Subtitle Track**. Each track has its own independent font selection in **Settings → Player → Subtitles → Font** and **Secondary Font**.
+{{% /details %}}
+
+{{% details title="How do I pick a different audio track (dub, commentary) in a video?" closed="true" %}}
+**Tap the More Actions ("...") button on the player and choose Audio Track — then pick the track you want from the list.**<br><br>
+
+For videos with multiple audio tracks (alternate language dubs, director's commentary, original / live mixes), Evervideo shows every embedded track with its language and codec. This works for MKV, MP4, M2TS, and any other container that exposes multiple audio streams.
+{{% /details %}}
+
+{{% details title="Does Evervideo support Picture-in-Picture (PiP)?" closed="true" %}}
+**Yes — Evervideo fully supports Picture-in-Picture on iPhone and iPad.** When you swipe Evervideo into the background or tap the PiP icon on the player, the video continues playing in a floating window above every other app.<br><br>
+
+Drag the floating window to any corner, pinch to resize, tap once to bring up basic play / pause / skip controls, and tap the small expand button to return to Evervideo. PiP works with **every video format Evervideo plays**, including cloud-streamed files and RTSP IP-camera streams, and continues running while your phone is locked.
+{{% /details %}}
+
+{{% details title="Does Evervideo have a YouTube-style player UI for my local videos?" closed="true" %}}
+**Yes — Evervideo's default layout is built around a YouTube-style experience for your own videos: a compact video player permanently visible at the top of the screen while you browse your library below.**<br><br>
+
+The **compact player** stays on-screen across every tab — Recents, Favorites, Media Library, Playlists, Files, and Settings — so you can browse, search, organize, and queue up the next video without ever interrupting playback. Tap the compact player to expand it into the full-screen view; swipe down to collapse it back to compact without stopping the video. On macOS, the compact player can detach into a separate **always-on-top floating window** for true picture-in-picture style multitasking on the desktop.<br><br>
+
+Unlike YouTube, there are no ads, no algorithmic recommendations, no autoplay nags, and no tracking — you keep full control over your own video library from iCloud, Google Drive, Dropbox, your NAS, Plex / Jellyfin / Emby, or anywhere else.
+{{% /details %}}
+
+{{% details title="Does Evervideo play 360° videos from Insta360 and other 360 cameras?" closed="true" %}}
+**Yes — Evervideo plays 360° / VR (spherical) videos directly, with no pre-processing or conversion required**, including footage from Insta360 (One X, X3, X4, ONE RS, GO 3), GoPro Max, Ricoh Theta, Samsung Gear 360, Vuze, and any other equirectangular 360° source.<br><br>
+
+Just drop the 360° video into iCloud Drive, Google Drive, Dropbox, your NAS, or play it from the iOS Photos library — Evervideo recognizes the spherical format and switches into VR-viewport rendering automatically. From there you can:<br>
+
+- **Rotate your device** — physically tilt and turn your iPhone or iPad and the video viewport rotates in real time to look around the scene.<br>
+- **Drag with your finger** to pan in any direction without moving the device.<br>
+- **Pinch to zoom** in and out of the spherical view.<br>
+- Switch projection / view modes in the player More Actions menu, and use a VR headset enclosure for a fully immersive experience.<br><br>
+
+This means your Insta360 footage works out of the box on iPhone and iPad — no extra apps, no transcoding, no cloud subscription required.
+{{% /details %}}
+
+{{% details title="How do I use the video equalizer and presets?" closed="true" %}}
+**Open the player, tap More Actions → Video Equalizer, then drag the sliders for brightness, contrast, saturation, and hue — or pick a preset.**<br><br>
+
+The Evervideo **video equalizer** is a real-time picture adjustment tool that runs inside the FFmpeg rendering pipeline:<br>
+
+- **Brightness** — boost a dark scene shot in low light, or pull back a blown-out exposure.<br>
+- **Contrast** — add punch to washed-out content or soften an over-contrasty source.<br>
+- **Saturation** — warm up muted colors or desaturate for a cinematic look.<br>
+- **Hue** — shift the color balance to fix a green or magenta cast.<br><br>
+
+You can save your favorite settings as a **custom preset** and re-apply it with one tap on any future video. Presets can also be **exported and imported** so you can share them across iPhone, iPad, and Mac, or back them up. Combine the video equalizer with the **audio equalizer** (10-band EQ with its own preset library) for full control over both picture and sound.
+{{% /details %}}
+
+{{% details title="How do I rotate or change the scaling mode of a video?" closed="true" %}}
+**Tap More Actions on the player and choose Rotation (0° / 90° / 180° / 270°) or Scaling Mode (Fit / Fill / Stretch / Original).**<br><br>
+
+**Rotation** is handy for videos recorded sideways or upside down — rotate the picture without leaving the player. **Scaling Mode** controls how the picture fills the screen:<br>
+
+- **Fit** — preserve the original aspect ratio with black bars where needed.<br>
+- **Fill** — fill the entire screen, cropping the video if necessary.<br>
+- **Stretch** — stretch to fill the screen, distorting the picture.<br>
+- **Original** — keep the native resolution at 1:1.
+{{% /details %}}
+
+{{% details title="What cloud services does Evervideo support?" closed="true" %}}
+**Evervideo connects to virtually every popular cloud storage provider, self-hosted media server, and file-share protocol — all from one Connect to cloud storage screen.**<br><br>
+
+**Personal cloud storage:** iCloud Drive · Google Drive · Dropbox · OneDrive · Box · MEGA · pCloud · Yandex Disk · WD My Cloud Home · MediaFire · TeraCLOUD (InfiniCLOUD) · HiDrive · IceDrive · Koofr · OpenDrive · MyDrive · Put.io · Cloud Mail.ru · Internxt · Proton Drive · AliDrive (阿里云盘) · Baidu Pan (百度网盘).<br>
+
+**Self-hosted media servers:** **Plex** · **Jellyfin** · **Emby** · **Subsonic** · **Navidrome** · Nextcloud · **Synology Drive** · **QNAP**.<br>
+
+**NAS protocols:** SMB · WebDAV · FTP / FTPS · SFTP · NFS · DLNA / UPnP.<br>
+
+**Live and IP-camera streams:** RTSP.<br>
+
+**S3-compatible object storage:** AWS S3, Backblaze B2, Wasabi, Cloudflare R2, MinIO, DigitalOcean Spaces.<br><br>
+
+Premium users can connect an unlimited number of services; the free version is limited to three.
+{{% /details %}}
+
+{{% details title="Does Evervideo support Plex, Jellyfin, Emby, Subsonic, and Navidrome?" closed="true" %}}
+**Yes — Evervideo connects natively to Plex Media Server, Jellyfin, Emby, Subsonic, and Navidrome**, so you can stream your self-hosted video library directly without exposing the underlying file share.<br><br>
+
+- **Plex Media Server** — tap **Files → Connect to cloud storage → Plex**, sign in with your Plex account, and pick a server. Plex servers on the same local network are also auto-discovered in the **Available Devices** section.<br>
+- **Jellyfin** (open-source) — tap **Files → Connect to cloud storage → Jellyfin**, enter your server URL (something like `http://server-ip:8096`) and credentials.<br>
+- **Emby** (commercial) — tap **Files → Connect to cloud storage → Emby** and enter the server URL and login.<br>
+- **Subsonic and Subsonic-compatible servers** — tap **Files → Connect to cloud storage → Subsonic**, enter the server URL and credentials. The same API path works with **Navidrome**, **Airsonic**, **Funkwhale**, **Gonic**, **Logitech Media Server (LMS)**, and **Ampache**.<br><br>
+
+Once connected, each server appears alongside your cloud accounts in the Files tab. You can browse Movies, TV Shows, Home Videos, Music, Playlists, and collections; download for offline playback; queue items in the player; and pull them into your global Media Library — all without leaving Evervideo.
+{{% /details %}}
+
+{{% details title="Does Evervideo connect via SMB, WebDAV, FTP / SFTP, NFS, and DLNA?" closed="true" %}}
+**Yes — Evervideo supports every major NAS and file-share protocol: SMB (SMB1, SMB2, Auto), WebDAV (HTTP / HTTPS), FTP / FTPS, SFTP (password or public-key auth), NFS, and DLNA / UPnP.**<br><br>
+
+This lets you connect to almost any NAS device (Synology, QNAP, WD My Cloud Home, Buffalo, Apple Time Capsule), a Linux / macOS / Windows file share, a self-hosted Nextcloud / ownCloud server, or any UPnP / DLNA media server, all from the **Files → Connect to cloud storage** menu.
+{{% /details %}}
+
+{{% details title="Does Evervideo support S3-compatible object storage?" closed="true" %}}
+**Yes — Evervideo includes an S3-compatible connector** that works with **AWS S3, Backblaze B2, Wasabi, Cloudflare R2, MinIO, DigitalOcean Spaces,** and any other service that exposes an S3-API endpoint.<br><br>
+
+Tap **Files → Connect to cloud storage → S3 storage**, then enter the endpoint URL, region, access key, secret key, and bucket name. Once connected, the bucket behaves like any other cloud — browse, stream, download, queue, and add to your library.
+{{% /details %}}
+
+{{% details title="Can I play RTSP streams (IP cameras, IPTV) in Evervideo?" closed="true" %}}
+**Yes — Evervideo has native RTSP support**, so you can point it at any `rtsp://` URL — security cameras, doorbell cameras, baby monitors, IPTV providers, broadcast feeds — and Evervideo will pull and decode the live stream.<br><br>
+
+Tap **Files → Connect to cloud storage → RTSP**, paste in the full URL (`rtsp://camera-ip:port/stream-path`), supply login and password if required, and tap **Done**. RTSP streams work in Picture-in-Picture, the compact player, and they cast over AirPlay 2 and Chromecast just like a regular video.
+{{% /details %}}
+
+{{% details title="How do I import videos from the iOS Photos library?" closed="true" %}}
+**Open the Media Library tab → Photos Library to browse every video in your iOS Photos app, organized by All Videos, Short, Medium, Long, Screen Recordings, and Photo Albums.**<br><br>
+
+You don't need to copy anything out of Photos — Evervideo plays them in place, with full subtitle support, Picture-in-Picture, the equalizer, and Chromecast / AirPlay. Camera recordings, AirDropped clips, iCloud-shared albums, and Smart Albums are all included.
+{{% /details %}}
+
+{{% details title="How do I use a USB flash drive or SD card with Evervideo on iPhone?" closed="true" %}}
+**Plug the drive into your iPhone, iPad, or Mac via Lightning-to-USB, USB-C, or a card reader, then in Evervideo open Files → Files on This iPhone → Open Folder, navigate to the drive, and pick the video.**<br><br>
+
+Evervideo plays files directly from the drive without copying them to internal storage — perfect for very large 4K or HDR libraries. Works with **Apple Certified card readers** and **iXpand Flash Drives**.
+{{% /details %}}
+
+{{% details title="How do I import an M3U, M3U8, or CUE playlist into Evervideo?" closed="true" %}}
+**Open the Playlists tab, tap the "..." menu, select Import Playlist, then pick the .m3u, .m3u8, or .cue file from your cloud storage or device.**<br><br>
+
+Evervideo parses the playlist file, locates each referenced video on your storage, and creates a real playlist in your library. Make sure the paths inside the playlist file match where the video files actually live.
+{{% /details %}}
+
+{{% details title="How do I cast a video from Evervideo to Chromecast or AirPlay?" closed="true" %}}
+**Open the video player, tap the AirPlay or Chromecast icon, and pick your TV, Apple TV, HomePod, or smart speaker from the list.**<br><br>
+
+Both **AirPlay 2** and **Google Chromecast** are supported on iOS. AirPlay 2 also lets you stream to multiple compatible devices at the same time. Some hi-res or HEVC files may need to be transcoded for Chromecast hardware.
+{{% /details %}}
+
+{{% details title="Does Evervideo support Apple CarPlay?" closed="true" %}}
+**No — Evervideo does not support Apple CarPlay.** Apple CarPlay is restricted to audio-only apps (music, podcasts, audiobooks, navigation), so a video player cannot run on a CarPlay screen by Apple's policy.<br><br>
+
+If you want a cloud-connected app that does support CarPlay, our music apps **Evermusic** and **Flacbox** both work fully on CarPlay with dedicated tabs for Library, Connections, Local Files, and Settings.
+{{% /details %}}
+
+{{% details title="How do I change playback speed in Evervideo?" closed="true" %}}
+**Open the player, tap the Speed control on the toolbar, and drag the slider — speeds from 0.25× to 3.00× are supported.**<br><br>
+
+You can slow content down for frame-by-frame analysis (0.25× / 0.5×) or speed it up for tutorials and lectures (1.25× / 1.5× / 2×). Tap the configuration icon in the top-right corner of the Speed screen to switch to precise mode for finer adjustments. Per-track pitch correction keeps audio sounding natural at non-1× speeds.
+{{% /details %}}
+
+{{% details title="How do I set a sleep timer in Evervideo?" closed="true" %}}
+**Open Settings → Player → Sleep Timer, turn it on, and choose how long you want playback to continue before automatically stopping.**<br><br>
+
+You can also add the **Sleep Timer** button directly to the main player screen via **Settings → Player → Personalization → Main Screen Actions**. Tap the configuration icon for precise mode with minute-by-minute granularity — handy for falling asleep to a show.
+{{% /details %}}
+
+{{% details title="How do I bookmark a specific position in a video?" closed="true" %}}
+**Open the player and tap Add Bookmark from the More Actions menu to save the current playback position — bookmarks appear under More Actions → Bookmarks.**<br><br>
+
+Bookmarks are stored per-video and persist between sessions, making them perfect for long videos, lectures, audiobooks-on-video, tutorial series, and concert recordings where you want to jump back to specific moments.
+{{% /details %}}
+
+{{% details title="Can I use Evervideo without an internet connection?" closed="true" %}}
+**Yes — once you've downloaded videos or enabled offline mode for a folder, Evervideo plays everything fully offline.**<br><br>
+
+Offline content lives under **Files → Files in This Application** and continues to work in airplane mode, on flights, and anywhere without Wi-Fi or cellular data. Cloud-only videos (those you haven't downloaded) will be greyed out until you regain a connection. For trips, enable **Offline Mode** for the relevant folders or download specific videos before you go.
+{{% /details %}}
+
+{{% details title="How do I enable dark mode in Evervideo?" closed="true" %}}
+**Open Settings → Personalization → Color Scheme, then pick Dark, Light, or Default (which follows your system appearance).**<br><br>
+
+You can also pick alternate app icons in **Settings → Personalization → Application Icon** (Premium), and choose a blurred poster as the app background under **Background Style**.
+{{% /details %}}
+
+{{% details title="How do I change the language of the Evervideo interface?" closed="true" %}}
+**Open Settings → Language, pick from over 120 supported languages, then restart the app for the change to take effect.**<br><br>
+
+The app supports localizations including English, French, German, Spanish, Italian, Portuguese, Russian, Ukrainian, Polish, Dutch, Arabic, Hebrew, Hindi, Japanese, Korean, Chinese (Simplified and Traditional), Vietnamese, Turkish, and many more. Choose **Default** to follow the device's language setting automatically.
+{{% /details %}}
+
+{{% details title="How do I protect Evervideo with a passcode?" closed="true" %}}
+**Open Settings → Passcode, tap Enable, and pick a 4-digit code — you'll be prompted to enter it every time the app launches.**<br><br>
+
+Evervideo uses a fixed 4-digit numeric passcode. The passcode prevents anyone with access to your device from opening Evervideo and browsing your connected cloud accounts, downloaded videos, and library. Combine it with iOS Face ID / Touch ID on the device for extra protection.
+{{% /details %}}
+
+{{% details title="How do I enable Evervideo widgets on my iPhone Home Screen or Lock Screen?" closed="true" %}}
+**Enable widget updates in Settings → Widgets, then long-press your Home Screen or Lock Screen, tap "+", search "Evervideo," and pick a widget size.**<br><br>
+
+The widget shows the currently playing video with title, poster, and basic controls. Because widget refreshes use a small amount of energy, the **Enable Widgets** toggle is off by default — turn it on only if you actively use widgets. Widgets work on iPhone and iPad Home Screen and Lock Screen, and on macOS in the Notification Center.
+{{% /details %}}
+
+{{% details title="How do I share Evervideo Premium with my family?" closed="true" %}}
+**All Evervideo Premium plans — lifetime, monthly, and annual — work with Apple Family Sharing, so anyone in your family group can install Evervideo and use Premium at no extra cost.**<br><br>
+
+Set up Family Sharing in iOS / macOS **Settings → Family**, then have each family member install Evervideo from the App Store and run it once while signed in to their own Apple ID. Premium is recognized automatically within a minute. The same plan is shared between iPhone, iPad, and Mac for every family member.
+{{% /details %}}
+
+{{% details title="How do I cancel my Evervideo Premium subscription?" closed="true" %}}
+**Open iOS or macOS Settings → [your name] → Subscriptions, find Evervideo, and tap Cancel Subscription — your Premium features stay active until the end of the current billing period.**<br><br>
+
+Lifetime in-app purchases are not subscriptions and do not need to be cancelled. For refunds, use Apple's **Report a Problem** page (`reportaproblem.apple.com`) — refunds are issued by Apple, not by Everappz.
+{{% /details %}}
+
+{{% details title="How do I back up and restore my Evervideo library?" closed="true" %}}
+**Open Settings → Backup & Restore, select what to include (Database, Album Covers, Settings), tap "Backup Application Data," and save the backup file — open it on another device to restore.**<br><br>
+
+The backup contains your media library entries, playlists, favorites, watch progress, settings, and poster cache. It does **not** include offline-downloaded video files (those would make the backup huge). Move the backup file to the new device via iCloud Drive, AirDrop, or any connected cloud service, then open it in Evervideo to apply.
+{{% /details %}}
+
+{{% details title="Why is my cloud video buffering or stuttering?" closed="true" %}}
+**Buffering is almost always caused by slow network, big file sizes, or low player buffer settings — increase Preloading Time and switch to a faster network or download the file.**<br><br>
+
+A few practical tips:<br>
+
+- **Increase the buffer** in **Settings → Player → File Loading → Preloading Time** for high-bitrate 4K or HEVC content.<br>
+- **Switch to Wi-Fi** if you're on cellular, or move closer to your router.<br>
+- **Enable Hardware Decode** for H.264 and HEVC in **Settings → Player → Video** so the CPU isn't the bottleneck.<br>
+- **Download the file for offline playback** if the source is slower than your viewing speed — large 4K files can easily exceed cellular bandwidth.<br>
+- **Re-authorize your cloud account** in the Files tab if a connection has expired.
+{{% /details %}}
+
+{{% details title="How do I contact Evervideo support?" closed="true" %}}
+**Open Settings → Send Feedback to email our support team directly from the app, with diagnostic info attached automatically.**<br><br>
+
+You can also visit the [Help Center](/docs/), browse the [How-to guides](/docs/howto/), or check the broader [FAQ](/docs/faq/) for self-serve answers. We typically reply within one business day.
 {{% /details %}}
 
 </div>
