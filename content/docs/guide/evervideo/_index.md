@@ -1,5 +1,6 @@
 ---
 date: 2020-01-01
+lastmod: 2026-06-01
 title: 'Evervideo'
 description: 'Learn how to use Evervideo — the all-in-one cloud video player for iPhone, iPad, and Mac. Stream and download videos from iCloud Drive, Google Drive, Dropbox, OneDrive, MEGA, Box, pCloud, Synology, QNAP, NAS, WebDAV, SMB, NFS, FTP / SFTP, DLNA, and S3 — plus Plex, Jellyfin, Emby, Subsonic, and Navidrome. Picture-in-Picture, primary and secondary subtitles, audio and video equalizers, RTSP IP camera streams, Chromecast, AirPlay 2, hardware H.264 / HEVC decoding, Photos and Apple Music library integration, and a compact always-on-top player.'
 keywords: [

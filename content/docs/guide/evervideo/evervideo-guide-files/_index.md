@@ -1,6 +1,7 @@
 ---
 title: "Files"
 date: 2020-02-01
+lastmod: 2026-06-01
 aliases:
   - /post/evervideo-guide-files/
   - /guide-evervideo-files/

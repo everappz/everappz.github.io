@@ -1,6 +1,7 @@
 ---
 title: "Media Library"
 date: 2020-02-01
+lastmod: 2026-06-01
 aliases:
   - /post/evervideo-guide-video-library/
   - /guide-evervideo-video-library/

@@ -1,6 +1,7 @@
 ---
 title: "Media Player"
 date: 2020-02-01
+lastmod: 2026-06-01
 description: "Learn how to use the Evervideo media player on iPhone, iPad, and Mac. Picture-in-Picture, hardware-accelerated H.264 / HEVC decoding, audio and video equalizers, primary and secondary subtitles, audio and video track selection, video scaling and rotation, playback speed, sleep timer, AirPlay 2, Google Chromecast, RTSP streams, and the compact always-on-screen player."
 keywords: [
   "Evervideo player guide", "video player settings", "Evervideo equalizer",

@@ -1,6 +1,7 @@
 ---
 title: "Playlists"
 date: 2020-02-01
+lastmod: 2026-06-01
 description: "Learn how to create, import, manage, and customize video playlists in Evervideo on iPhone, iPad, and Mac. Build playlists from cloud, NAS, Photos, and Apple Music libraries, import M3U / M3U8 / CUE, reorder videos, edit cover art, archive to ZIP, and export to M3U / CSV / TXT."
 keywords: [
   "Evervideo playlists", "video playlist iPhone", "import M3U video playlist",

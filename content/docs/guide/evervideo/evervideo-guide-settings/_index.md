@@ -1,6 +1,7 @@
 ---
 title: "Settings"
 date: 2020-02-01
+lastmod: 2026-06-01
 description: "Explore every setting in Evervideo — Media Player (Picture-in-Picture, hardware H.264 / HEVC decoding, video equalizer, scaling, rotation, VR view-port), Audio (equalizer, sample rate, channels, IO buffer, mixed mode), Subtitles (primary / secondary, font, external file, libass), Media Library, File Manager, Wi-Fi Drive, Widgets, Personalization, Language, Passcode, Backup & Restore — for iPhone, iPad, and Mac."
 keywords: [
   "Evervideo settings", "video player configuration", "premium upgrade Evervideo",
