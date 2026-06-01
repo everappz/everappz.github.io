@@ -22,7 +22,7 @@ aliases:
 
 <div class="hx:mt-6"></div>
 
-Flacbox is a hi-res music player for **iPhone, iPad, and Mac** that streams and downloads tracks from iCloud Drive, Google Drive, Dropbox, OneDrive, MEGA, Box, pCloud, Yandex Disk, Synology, QNAP, WD My Cloud Home, and any other WebDAV, SMB, or DLNA server. Built on the system codecs plus the bundled **FFmpeg** library, it adds support for formats Apple’s default player can’t handle — WMA, OGG, OPUS, APE, DSD — and gives audiophiles control over output sample rate, multi-channel routing, pitch correction, and IO buffer duration. This FAQ answers the questions users send most often. For deeper walkthroughs, see the [Flacbox User Guide](/docs/guide/flacbox/) or browse our [How-to articles](/docs/howto/).
+Flacbox is a **hi-res music player** for **iPhone, iPad, and Mac** that streams and downloads tracks from iCloud Drive, Google Drive, Dropbox, OneDrive, MEGA, Box, pCloud, Yandex Disk, Synology, QNAP, WD My Cloud Home, and any other WebDAV, SMB, or DLNA server. Built on the system codecs plus the bundled **FFmpeg** library, it adds support for formats Apple’s default player can’t handle — WMA, OGG, OPUS, APE, DSD — and gives audiophiles control over output sample rate, multi-channel routing, pitch correction, and IO buffer duration. This FAQ answers the questions users send most often. For deeper walkthroughs, see the [Flacbox User Guide](/docs/guide/flacbox/) or browse our [How-to articles](/docs/howto/).
 
 <div class="hx:w-full">
 
@@ -179,6 +179,8 @@ To connect a computer using **SMB** protocol, tap **Connect a cloud service → 
 [Full tutorial: transfer your files from the computer to iPhone using SMB protocol](/docs/howto/transfer-your-files-from-the-computer-to-iphone-using-smb-protocol/)<br><br>
 
 For **WebDAV**, all steps are the same except for the URL field — use `http://server-name` or `https://server-name` if the server supports SSL. WebDAV works great with Synology, QNAP, Nextcloud, ownCloud, and any other server that exposes a WebDAV endpoint.<br><br>
+
+[Full tutorial: how to connect NAS storage using WebDAV and listen to music on your iPhone or Mac](/docs/howto/how-to-connect-nas-storage-using-webdav-and-listen-to-music-on-your-iphone-or-mac/)<br><br>
 
 **Wi-Fi Drive** is a popular technology that lets you transfer files from your computer to an iOS device wirelessly using any desktop web browser. To use this feature, your device and computer should be on the same Wi-Fi network. Open **Connections → Computer → Connect using Wi-Fi** and enable the server. Then open a desktop browser and enter the URL shown by the app. You can drag and drop files from your computer onto the open web page and they will appear on your device almost immediately.<br><br>
 
