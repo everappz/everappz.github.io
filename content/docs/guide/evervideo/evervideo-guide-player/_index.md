@@ -44,7 +44,7 @@ Evervideo plays virtually every modern container and codec through the bundled *
 - **Video codecs:** H.264 (AVC), H.265 (HEVC), VP9, VP8, AV1, MPEG-2, MPEG-4, MJPEG, ProRes, Theora, WMV — plus virtually every other codec that FFmpeg supports.
 - **Audio codecs (inside video files or stand-alone):** AAC, MP3, FLAC, ALAC, OGG / Vorbis, OPUS, AC-3, EAC-3, DTS, AMR, WMA, APE, TTA, MPC, WV — and many more.
 - **Subtitle formats:** SRT, VTT (WebVTT), ASS / SSA, .sup (image-based), and embedded text or image subtitle tracks.
-- **Streaming protocols:** HTTP / HTTPS, HLS (m3u8), DASH (mpd), RTSP, RTMP, MMS, and direct file streaming over SMB / WebDAV / FTP / SFTP / NFS / DLNA.
+- **Streaming protocols:** HTTP / HTTPS, HLS (m3u8), **RTSP** (IP cameras and IPTV), and direct file streaming over SMB / WebDAV / FTP / SFTP / NFS / DLNA.
 
 That covers virtually every video file you're likely to encounter — including MKV rips, security-camera RTSP streams, and AV1 webm web downloads.
 

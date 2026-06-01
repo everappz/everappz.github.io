@@ -46,7 +46,7 @@ On macOS, the compact player can also be detached as a separate **floating mini-
 
 ## Picture-in-Picture (PiP)
 
-On iPhone and iPad, Evervideo fully supports **Picture-in-Picture (PiP)**, so when you swipe Evervideo into the background or switch to another app, the video continues playing in a movable floating window. Tap the PiP icon on the full-screen player to enter PiP mode manually; drag the floating window to any corner; pinch to resize; tap once to bring up basic play / pause / skip controls; and tap the small expand button to return to the full Evervideo app.
+On iPhone and iPad, Evervideo fully supports **Picture-in-Picture (PiP)**, so when you switch to another app, the video continues playing in a movable floating window. Tap the PiP icon on the full-screen player to enter PiP mode manually; drag the floating window to any corner; pinch to resize; tap once to bring up basic play / pause / skip controls; and tap the small expand button to return to the full Evervideo app.
 
 PiP works with **all video formats Evervideo plays**, including cloud-streamed files and RTSP streams, and continues running while your phone is locked.
 
