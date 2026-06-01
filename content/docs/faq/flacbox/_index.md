@@ -408,7 +408,7 @@ Both **AirPlay 2** and **Google Chromecast** are supported on iOS — the button
 The widget shows the currently playing track with artwork and basic info. Because widget refreshes use a small amount of energy, the **Enable Widgets** toggle is off by default — turn it on only if you actively use widgets. Widgets work on iPhone and iPad Home Screen and Lock Screen, and also in the macOS Notification Center.
 {{% /details %}}
 
-{{% details title="How do I edit MP3, FLAC, or M4A tags from Flacbox?" closed="true" %}}
+{{% details title="How do I edit MP3 tags from Flacbox?" closed="true" %}}
 **Tap "..." on any track and choose Edit Audio Tags to open the built-in tags editor — you can change title, artist, album, year, genre, lyrics, album cover, and more.**<br><br>
 
 For online files, Flacbox temporarily downloads the track, lets you edit, and then re-uploads it to the cloud service. You can configure this behavior in **Settings → Audio Tags Editor** — including album-cover scaling, whether changes are written back to cloud files automatically, and which buttons appear on the editor’s main screen. For deeper batch editing across many files at once, install our companion app **Evertag**. [Learn more about Evertag](/products/evertag/).

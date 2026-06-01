@@ -24,7 +24,7 @@ aliases:
 
 <div class="hx:mt-6"></div>
 
-Evermusic is a cloud music player for iPhone, iPad, and Mac that streams and downloads songs from iCloud Drive, Google Drive, Dropbox, OneDrive, MEGA, Box, pCloud, Yandex Disk, WebDAV, SMB, DLNA, NAS devices, and dozens more. This FAQ answers the questions users send most often — about supported formats and protocols, Premium features, offline playback, CarPlay, widgets, backups, and troubleshooting. For step-by-step walkthroughs, see the [Evermusic User Guide](/docs/guide/evermusic/) or browse our [How-to articles](/docs/howto/).
+Evermusic is a cloud music player for iPhone, iPad, and Mac that streams and downloads songs from iCloud Drive, Google Drive, Dropbox, OneDrive, MEGA, Box, pCloud, Yandex Disk, WebDAV, SMB, DLNA, NAS devices, and dozens more. This FAQ answers the questions users send most often about supported formats and protocols, Premium features, offline playback, CarPlay, widgets, backups, and troubleshooting. For step-by-step walkthroughs, see the [Evermusic User Guide](/docs/guide/evermusic/) or browse our [How-to articles](/docs/howto/).
 
 <div class="hx:w-full">
 
@@ -35,7 +35,7 @@ You can easily download music to play offline, create and manage playlists, and 
 
 Evermusic supports a wide range of audio formats and lets you organize your music library by **artist, album, genre, and composer**. You can sync your library between cloud storage and your device, ensuring your favorite tunes are always available — even on a flight or in airplane mode.<br><br>
 
-With features like **gapless playback, crossfade, audio equalizer, Hi-Res audio, lyrics, widgets, Apple CarPlay, AirPlay, and Google Chromecast streaming**, Evermusic is a complete music solution for any iPhone, iPad, or Mac user who keeps music in the cloud or on a personal NAS.
+With features like **gapless playback, crossfade, audio equalizer, lyrics, widgets, Apple CarPlay, AirPlay, and Google Chromecast streaming**, Evermusic is a complete music solution for any iPhone, iPad, or Mac user who keeps music in the cloud or on a personal NAS.
 {{% /details %}}
 
 {{% details title="How does Evermusic work?" closed="true" %}}
@@ -104,7 +104,7 @@ If you’re also wondering about the **red-icon Evermusic Pro** app, see the nex
 {{% /details %}}
 
 {{% details title="What is the difference between Evermusic Free (blue icon) and Evermusic Pro (red icon)?" closed="true" %}}
-**Evermusic Pro (red icon) has the exact same functionality as Evermusic Free (blue icon) with an activated Premium in-app purchase — same code, same features, same look. The differences are how the apps are packaged on the App Store, Mac compatibility, price, and privacy defaults.**<br><br>
+**Evermusic Pro (red icon) has the exact same functionality as Evermusic Free (blue icon) with an activated Premium in-app purchase, same features, same look. The differences are how the apps are packaged on the App Store, Mac compatibility, price, and privacy defaults.**<br><br>
 
 **App Store packaging:**<br>
 - **Evermusic Free (blue)** is published as **two separate App Store apps** with **separate bundle IDs** — one for **iOS / iPadOS** and a dedicated one for **macOS** (Universal binary that runs on both **Apple Silicon and Intel Macs**). Purchases made in one of the blue apps are **shared with the other via iCloud** — buy Premium in Evermusic Free on iPhone and it automatically unlocks Premium in Evermusic Free on Mac (and vice versa), as long as both devices are signed in to the same Apple ID with iCloud enabled.<br>
@@ -224,7 +224,7 @@ With **DLNA** you can also set up a DLNA media server and stream your music from
 {{% /details %}}
 
 {{% details title="What audio formats does Evermusic support?" closed="true" %}}
-**Evermusic plays MP3, FLAC, ALAC, AAC, M4A, WAV, AIFF, AC3, AMR, and many more — covering virtually every modern lossy and lossless format used on iOS and macOS.**<br><br>
+**Evermusic plays MP3, ALAC, AAC, M4A, WAV, AIFF, AC3, AMR, and many more — covering virtually every modern lossy and lossless format used on iOS and macOS.**<br><br>
 
 Here is the full list of supported audio formats and their corresponding file extensions:<br><br>
 
@@ -237,25 +237,11 @@ Here is the full list of supported audio formats and their corresponding file ex
 • **Linear PCM** (uncompressed, Linear Pulse-Code Modulation)<br>
 • **MP3** (MPEG-1 Audio Layer 3)<br>
 • **μ-law** and **A-law**<br>
-• **IMA4** (IMA / ADPCM)<br>
-• **FLAC** (Free Lossless Audio Codec)<br><br>
+• **IMA4** (IMA / ADPCM)<br><br>
 
 **Supported Audio File Extensions:**<br>
-mpeg, aifc, 3gp, avi, aif, latm, 3gpp, m4a, loas, cdda, aac, m4p, m4b, ac3, pls, mp4v, m3u, m4r, aiff, xhe, mp1, snd, mp2, wav, qt, wave, m3u8, m4v, mp3, 3g2, caf, mp4, flac, au, w64, ec3, adts, amr, vtt, mpa, aa<br><br>
+mpeg, aifc, 3gp, avi, aif, latm, 3gpp, m4a, loas, cdda, aac, m4p, m4b, ac3, pls, mp4v, m3u, m4r, aiff, xhe, mp1, snd, mp2, wav, qt, wave, m3u8, m4v, mp3, 3g2, caf, mp4, au, w64, ec3, adts, amr, vtt, mpa, aa<br><br>
 
-With this wide range of supported formats and file extensions — and **Hi-Res audio up to 384 kHz / 24-bit** through the CoreAudio processor — you can enjoy your music exactly as it was recorded, whether you keep it as compact MP3s for streaming or as full lossless FLAC for critical listening.
-{{% /details %}}
-
-{{% details title="Does Evermusic play FLAC on iPhone?" closed="true" %}}
-**Yes — Evermusic plays FLAC lossless audio natively on iPhone, iPad, and Mac**, with no need for conversion or third-party plugins.<br><br>
-
-FLAC files stream directly from connected cloud storage and play from local storage, with full support for embedded album art, lyrics, and metadata. For best results with very high-resolution files, switch the audio processor to **CoreAudio** in **Settings → Audio Player → General**.
-{{% /details %}}
-
-{{% details title="Does Evermusic support Hi-Res audio (24-bit / 96 kHz / 192 kHz / 384 kHz)?" closed="true" %}}
-**Yes — Evermusic supports Hi-Res audio playback up to 384 kHz through the CoreAudio audio processor.**<br><br>
-
-In **Settings → Audio Player → General**, switch **Audio Processor** to **CoreAudio**, then choose your preferred **Audio Output Sample Rate** (8 kHz to 384 kHz) and number of channels (Mono or Stereo). Pair this with a compatible DAC or USB audio interface to get bit-perfect output from your iPhone, iPad, or Mac.
 {{% /details %}}
 
 {{% details title="How do I use the audio equalizer in Evermusic?" closed="true" %}}
@@ -355,7 +341,7 @@ The app scans the selection, adds the files to the player queue, and plays them 
 {{% /details %}}
 
 {{% details title="How do I import music from iTunes or Apple Music to Evermusic?" closed="true" %}}
-**Open Music Library → Add Music → iTunes Music to browse your local Apple Music / iTunes library, select tracks or whole collections, and tap Done — they’re added to your Evermusic library.**<br><br>
+**Open Music Library → iTunes Music to browse your local Apple Music / iTunes library.**<br><br>
 
 DRM-protected Apple Music streaming tracks are not importable due to Apple restrictions; only files you own (purchased from the iTunes Store, ripped from CDs, or added from your own collection) can be copied. To export full collections to Local Files, Premium is required.<br><br>
 
@@ -411,7 +397,7 @@ Both AirPlay and Google Chromecast are supported on iOS. The buttons can be adde
 The widget shows the currently playing track with artwork and basic controls. Because widget refreshes use a small amount of energy, the **Enable Widgets** toggle is off by default — turn it on only if you actively use widgets. See the [Navigation guide](/docs/guide/evermusic/evermusic-guide-navigation/) for more on Home Screen and Lock Screen integration.
 {{% /details %}}
 
-{{% details title="How do I edit MP3, FLAC, or M4A tags from Evermusic?" closed="true" %}}
+{{% details title="How do I edit MP3 tags from Evermusic?" closed="true" %}}
 **Tap "..." on any track and choose Edit Audio Tags to open the built-in tags editor — you can change title, artist, album, year, genre, lyrics, album cover, and more.**<br><br>
 
 You can fine-tune the editor in **Settings → Audio Tags Editor** — including album-cover scaling, whether changes are written back to cloud files, and which buttons appear on the editor’s main screen. For batch editing across many files at once, install our companion app **Evertag**, designed specifically for tag editing and library cleanup. [Learn more about Evertag](/products/evertag/).
@@ -504,7 +490,7 @@ Search is local and works fully offline against your library database, so result
 {{% /details %}}
 
 {{% details title="Can I play audiobooks or podcasts with Evermusic?" closed="true" %}}
-**Yes — Evermusic plays any audiobook or podcast file your storage holds in a supported format (MP3, M4A, M4B, AAC, FLAC, WAV, AIFF, and others), with bookmarks, variable playback speed, and a sleep timer for bedtime listening.**<br><br>
+**Yes — Evermusic plays any audiobook or podcast file your storage holds in a supported format (MP3, M4A, M4B, AAC, WAV, AIFF, and others), with bookmarks, variable playback speed, and a sleep timer for bedtime listening.**<br><br>
 
 Use **Bookmarks** to mark interesting positions, enable **Save Playback Position** in **Settings → Audio Player → General** so the app remembers where you stopped, and add **Playback Speed** to the player’s main screen for quick 1.25× / 1.5× / 2× control. Long audiobook chapters and `.m4b` files with chapter markers are fully supported.
 {{% /details %}}
