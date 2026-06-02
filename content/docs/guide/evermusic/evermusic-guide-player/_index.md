@@ -37,8 +37,8 @@ At the bottom of the player screen, you'll discover playback controls. These inc
 
 When you want to change the repeat mode, a simple tap on the repeat button will do the trick. You have several options:
 
-- "Repeat all" – for looping all tracks in your player queue.
-- "Repeat one" – for repeating only the current track.
+- "Repeat All" – for looping all tracks in your player queue.
+- "Repeat One" – for repeating only the current track.
 - "Repeat Stop" – to pause playback when the current track ends.
 - "Repeat None" – for letting your queue play through without repeating.
 
@@ -192,8 +192,8 @@ Houses general audio player settings for playback queue, audio output, and state
 **Available options:**
 
 - **Repeat mode**: change repeat mode to specify audio player behaviour when track finished playback. You have several options:  
-  - "Repeat all" – for looping all tracks in your player queue.  
-  - "Repeat one" – for repeating only the current track.  
+  - "Repeat All" – for looping all tracks in your player queue.  
+  - "Repeat One" – for repeating only the current track.  
   - "Repeat Stop" – to pause playback when the current track ends.  
   - "Repeat None" – for letting your queue play through without repeating.
 

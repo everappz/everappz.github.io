@@ -50,7 +50,7 @@ Evermusic doubles as an audiobook player with features designed for long-form li
 - Multiple **bookmarks** per file
 - **Playback speed** control (0.5x to 2.0x)
 - **Sleep timers** (1 min to 24 hrs)
-- **Repeat stop** playback mode
+- **Repeat Stop** playback mode
 - Casting to **Chromecast** or **Apple TV**
 
 ### Offline Downloads

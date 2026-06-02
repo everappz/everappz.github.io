@@ -50,7 +50,7 @@ The local files section is divided into two categories: Files in this applicatio
 Activate a full-screen player by tapping the mini player icon and using a swipe-down gesture to hide it. On iPad and Mac, the mini player screen is located at the top of the screen and can be hidden when opening the full-screen player via the main menu.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="iPhone Tab Bar with the Mini Player Above It" image="/docs/guide/evermusic/evermusic-guide-navigation/img/navigation-bottom-tabbar.webp" >}}
+  {{< card title="" subtitle="iPhone Tab Bar" image="/docs/guide/evermusic/evermusic-guide-navigation/img/navigation-bottom-tabbar.webp" >}}
 {{< /cards >}}
 
 ## Mini Player Window (Mac Exclusive)

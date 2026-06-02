@@ -81,10 +81,10 @@ This sub-section contains general playback queue, audio output, and state-saving
 
 Specifies the audio player’s behavior when a track finishes playback:
 
-- **Repeat all** – loops all tracks in your player queue.
-- **Repeat one** – repeats only the current track.
-- **Repeat stop** – pauses playback when the current track ends.
-- **Repeat none** – lets your queue play through without repeating.
+- **Repeat All** – loops all tracks in your player queue.
+- **Repeat One** – repeats only the current track.
+- **Repeat Stop** – pauses playback when the current track ends.
+- **Repeat None** – lets your queue play through without repeating.
 
 #### Shuffle Mode
 

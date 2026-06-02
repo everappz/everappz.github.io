@@ -25,7 +25,7 @@ aliases:
 ---
 
 
-Evermusic is a powerful cloud music player and library manager that turns your iPhone, iPad, or Mac into a full-featured streaming and offline music system — no monthly catalog fee, no playlist limits, no DRM. It works with the cloud accounts and NAS you already own, plays virtually every audio format your device can decode, and gives you a deep audio engine (10-band equalizer, crossfade, gapless, spatial audio, pitch correction) on top.
+Evermusic is a powerful cloud music player and library manager that turns your iPhone, iPad, or Mac into a full-featured streaming and offline music system. It works with the cloud accounts and NAS you already own, plays virtually every audio format your device can decode, and gives you a deep audio engine (10-band equalizer, crossfade, gapless, spatial audio, pitch correction) on top.
 
 Available in two editions: Evermusic (free, ad-supported) and Evermusic Pro (paid, no ads, full feature set). Lifetime, monthly, and yearly Premium plans on the free edition unlock the same feature set; both editions share purchases between iOS and Mac via iCloud and Family Sharing.
 
@@ -40,7 +40,7 @@ Evermusic lets you build your own cloud music streaming system — just like Spo
 - **Local-network discovery:** the Available devices section auto-lists every Bonjour / mDNS device on your Wi-Fi — Plex, Jellyfin, Emby servers, Synology, QNAP, AirPort routers with attached drives, Time Capsule — so you can tap to connect without typing an IP.
 - **Device and external sources:** the iPod / Apple Music library (non-DRM tracks), files in the system Files app (other apps, external SSDs, mounted folders), USB flash drives via Apple Certified card readers and iXpand Flash Drives, Wi-Fi Drive (drag-and-drop in a desktop browser), and iTunes / Finder File Sharing over a USB cable.
 
-That's 30+ source types in one app. Once your music is in the cloud, you can play it anywhere, anytime, with the same library on every device — and Backup & Restore lets you snapshot the whole library to a single file and import it on another iPhone, iPad, or Mac in seconds.
+That's 30+ source types in one app. Once your music is in the cloud, you can play it anywhere, anytime, with the same library on every device. Backup & Restore lets you snapshot the whole library to a single file and import it on another iPhone, iPad, or Mac in seconds.
 
 ### Smooth Playback
 
@@ -48,11 +48,11 @@ Evermusic uses smart preloading and a configurable playback cache to make songs 
 
 ### Easy Music Sorting
 
-When you add songs to Evermusic, the background metadata reader parses each file and builds a clean Music Library sorted by Songs, Unplayed Songs, Albums, Album Artists, Artists, Genres, and Composers. Albums have three sub-views — All Albums, Exclusive Albums, and Solo Albums — so compilations and same-named albums by different artists don't collide. No more messy folders — your music stays neat and easy to use.
+When you add songs to Evermusic, the background metadata reader parses each file and builds a clean Music Library sorted by Songs, Unplayed Songs, Albums, Album Artists, Artists, Genres, and Composers. Albums have three sub-views: All Albums, Exclusive Albums, and Solo Albums so compilations and same-named albums by different artists don't collide.
 
 ### Fix Song Info Easily
 
-If song titles or album info are wrong or missing, don't worry. Evermusic includes a built-in tag editor that lets you fix metadata in seconds. You can update title, artist, album, album artist, year, genre, BPM, and album cover, plus normalize broken encodings (Cyrillic or Asian text that appears garbled) with one tap. The editor uses MusicBrainz to auto-find missing tags and album artwork.
+If song titles or album info are wrong or missing, don't worry. Evermusic includes a built-in tag editor that lets you fix metadata in seconds. You can update title, artist, album, album artist, year, genre, and album cover, plus normalize broken encodings (Cyrillic or Asian text that appears garbled) with one tap. The editor uses MusicBrainz to auto-find missing tags and album artwork.
 
 ### Simple File Transfers
 
