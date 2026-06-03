@@ -13,7 +13,7 @@ aliases:
 Evermusic and Evermusic Premium are two different versions of the same music player application, with Evermusic Premium offering additional features and benefits compared to the standard Evermusic version.
 
 {{< figure
-  src="/1.webp"
+  src="/docs/faq/evermusic/what-is-the-difference-between-evermusic-and-evermusic-premium/1.webp"
   alt="Evermusic Upgrade To Premium"
   caption="Evermusic Upgrade To Premium"
   width="600"
@@ -24,7 +24,7 @@ Evermusic and Evermusic Premium are two different versions of the same music pla
 The free version of the application offers a one-time lifetime in-app purchase and two subscription options (1 month and 1 year) to remove all restrictions and upgrade to the Premium version, allowing you to choose the best and most optimal price for you. Prices may vary depending on your country or territory. Also, please keep in mind that **Family Sharing** is **enabled** for all purchases and plans, so you can share the Premium version with members of your family.
 
 {{< figure
-  src="/2.webp"
+  src="/docs/faq/evermusic/what-is-the-difference-between-evermusic-and-evermusic-premium/2.webp"
   alt="Evermusic Premium Select Your Plan"
   caption="Evermusic Premium Select Your Plan"
   width="600"
@@ -41,7 +41,7 @@ You can also try pressing the "Restore Purchases" button in the app Settings. Af
 To restore your purchase on the new device just use the "Restore purchases" menu. You will see the list of your purchases. If you don't see all your purchases please check if the device is connected to the same iTunes account that was used to make purchases, and make sure iCloud is enabled.
 
 {{< figure
-  src="/7.webp"
+  src="/docs/faq/evermusic/what-is-the-difference-between-evermusic-and-evermusic-premium/7.webp"
   alt="Evermusic Premium Purchase Restore"
   caption="Evermusic Premium Purchase Restore"
   width="600"
@@ -50,7 +50,7 @@ To restore your purchase on the new device just use the "Restore purchases" menu
 Once you upgrade your app, you will see the Premium status screen with details of your current purchases.
 
 {{< figure
-  src="/4.webp"
+  src="/docs/faq/evermusic/what-is-the-difference-between-evermusic-and-evermusic-premium/4.webp"
   alt="Evermusic You Are Using Premium"
   caption="Evermusic You Are Using Premium"
   width="600"
@@ -71,7 +71,7 @@ What differs between blue and red is **how they’re packaged on the App Store**
   title="Evermusic for iOS"
   subtitle="iPhone & iPad; free with optional Premium in-app purchase"
   tag="Free"
-  image="/evermusic-free-icon.webp"
+  image="/docs/faq/evermusic/what-is-the-difference-between-evermusic-and-evermusic-premium/evermusic-free-icon.webp"
   alt="Evermusic Free Icon (Blue)"
   method="Resize"
   options="200x q80 webp"
@@ -84,7 +84,7 @@ What differs between blue and red is **how they’re packaged on the App Store**
   title="Evermusic for Mac"
   subtitle="Universal (Apple Silicon & Intel); shares purchases with iOS via iCloud"
   tag="Free"
-  image="/evermusic-free-icon.webp"
+  image="/docs/faq/evermusic/what-is-the-difference-between-evermusic-and-evermusic-premium/evermusic-free-icon.webp"
   alt="Evermusic Free Icon (Blue)"
   method="Resize"
   options="200x q80 webp"
@@ -97,7 +97,7 @@ What differs between blue and red is **how they’re packaged on the App Store**
   title="Evermusic Pro"
   subtitle="iPhone, iPad, Apple Silicon Mac (M1+); no analytics, lower price"
   tag="Paid"
-  image="/evermusic-pro-icon.webp"
+  image="/docs/faq/evermusic/what-is-the-difference-between-evermusic-and-evermusic-premium/evermusic-pro-icon.webp"
   alt="Evermusic Pro Icon (Red)"
   method="Resize"
   options="200x q80 webp"
@@ -178,7 +178,7 @@ What differs between blue and red is **how they’re packaged on the App Store**
 You can upgrade to the Premium version for free but for a limited time only using the "Try premium for free" menu. Just watch an advertisement or tell your friends about this app to get the Premium version for free.
 
 {{< figure
-  src="/3.webp"
+  src="/docs/faq/evermusic/what-is-the-difference-between-evermusic-and-evermusic-premium/3.webp"
   alt="Try Premium For Free"
   caption="Try Premium For Free"
   width="600"
