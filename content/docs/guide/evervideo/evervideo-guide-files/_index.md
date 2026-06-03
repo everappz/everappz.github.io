@@ -25,7 +25,7 @@ tags: ["guide", "evervideo", "files", "connections", "cloud", "NAS", "Plex", "RT
 readingTime: 14
 ---
 
-The **Files** tab is Evervideo's all-in-one file manager. Unlike most video apps that split cloud storage from local files into different tabs, Evervideo merges both into a single, scrollable screen so you can move from a Plex server to a cloud folder to your iPhone's Documents folder without bouncing between tabs.
+The Files tab is Evervideo's all-in-one file manager. Unlike most video apps that split cloud storage from local files into different tabs, Evervideo merges both into a single, scrollable screen so you can move from a Plex server to a cloud folder to your iPhone's Documents folder without bouncing between tabs.
 
 The Files tab is split into clear sections that appear in this order on your screen:
 
@@ -34,9 +34,8 @@ The Files tab is split into clear sections that appear in this order on your scr
 - **Files on This iPhone / iPad / Mac** — videos elsewhere on your device, surfaced through the system file picker.
 - **Cloud Storage** — every cloud account, NAS, and media server you have connected.
 - **Available Devices** — Bonjour / mDNS auto-discovered servers and drives on your local network.
-- **Other Services** — extra integrations (such as Last.fm).
 
-In the **top-left corner** of the Files screen is a **Transfers** button (a spinning-arrows icon). Tap it to open the **Transfers Queue** where you monitor every download and upload across all of your sources.
+In the top-right corner of the Files screen is a Transfers button (a spinning-arrows icon). Tap it to open the Transfers Queue where you monitor every download and upload across all of your sources.
 
 {{< cards cols="1">}}
   {{< card title="" subtitle="Evervideo Files Across Connected Storages" image="/docs/guide/evervideo/img/evervideo-files-connected-storages.webp" >}}
@@ -44,7 +43,7 @@ In the **top-left corner** of the Files screen is a **Transfers** button (a spin
 
 ## Connect to Cloud Storage
 
-The **Cloud Storage** section of the Files tab is where every connected account, NAS, media server, and stream lives — side by side, in one scrollable list.
+The Cloud Storage section of the Files tab is where every connected account, NAS, media server, and stream lives — side by side, in one scrollable list.
 
 {{< cards cols="1">}}
   {{< card title="" subtitle="Evervideo Cloud Storage Section in the Files Tab" image="/docs/guide/evervideo/img/evervideo-connections.webp" >}}
@@ -60,37 +59,37 @@ The **Cloud Storage** section of the Files tab is where every connected account,
   {{< card title="" subtitle="Evervideo Connect a Cloud Storage Service" image="/docs/guide/evervideo/img/evervideo-connect-cloud-storage.webp" >}}
 {{< /cards >}}
 
-If you encounter any issues, check your internet connection and your login / password. In the **Premium** version of the app, you can add an unlimited number of services; the free version supports up to three.
+If you encounter any issues, check your internet connection and your login / password. In the Premium version of the app, you can add an unlimited number of services; the free version supports up to three.
 
 ## Supported Cloud Storage Services, Media Servers, and Protocols
 
-Evervideo supports an exceptionally wide range of sources for your videos. Everything below works from a single **Connect to cloud storage** flow.
+Evervideo supports an exceptionally wide range of sources for your videos. Everything below works from a single Connect to cloud storage flow.
 
 **Personal cloud storage:** iCloud Drive · Dropbox · OneDrive · Google Drive · MEGA · Box · pCloud · Yandex Disk · WD My Cloud Home · MediaFire · TeraCLOUD (InfiniCLOUD) · HiDrive · IceDrive · Koofr · OpenDrive · MyDrive · Put.io · Cloud Mail.ru · Internxt · Proton Drive · AliDrive (阿里云盘) · Baidu Pan (百度网盘).
 
-**Self-hosted media servers and content-server APIs:** **Plex** · **Jellyfin** · **Emby** · **Subsonic** (and every Subsonic-compatible server — Airsonic, Funkwhale, Gonic, Ampache) · **Navidrome** · Nextcloud (and ownCloud via the shared API) · **Synology Drive** · **QNAP**.
+**Self-hosted media servers:** Plex · Jellyfin · Emby · Subsonic (and every Subsonic-compatible server — Airsonic, Funkwhale, Gonic, Ampache) · Navidrome · Nextcloud (and ownCloud via the shared API) · Synology Drive · QNAP.
 
-**NAS and file-share protocols:** **SMB** (SMB1, SMB2, Auto) · **WebDAV** (HTTP / HTTPS) · **FTP / FTPS** · **SFTP** (SSH File Transfer Protocol, password or public-key auth) · **NFS** · **DLNA / UPnP** (playback and download).
+**NAS and file-share protocols:** SMB (SMB1, SMB2, Auto) · WebDAV (HTTP / HTTPS) · FTP · FTPS · SFTP (SSH File Transfer Protocol, password or public-key auth) · NFS · DLNA / UPnP (playback and download).
 
-**Live and IP-camera streams:** **RTSP** — point Evervideo at any `rtsp://` URL and it just plays. Great for security cameras, IPTV streams, doorbell cameras, baby monitors, and similar live sources.
+**Live and IP-camera streams:** RTSP — point Evervideo at any `rtsp://` URL and it just plays. Great for security cameras, IPTV streams, doorbell cameras, baby monitors, and similar live sources.
 
 **S3-compatible object storage:** AWS S3, Backblaze B2, Wasabi, Cloudflare R2, MinIO, DigitalOcean Spaces, and any other S3-API endpoint.
 
-**On-device libraries:** the iOS **Photos library** (all videos, screen recordings, photo albums) and the iOS **Music app library** (Albums, Genres, Playlists) — both surface inside the Media Library so you don't have to copy anything.
+**On-device libraries:** the Photos library (all videos, screen recordings, photo albums) and the Music app library (Albums, Genres, Playlists) — both surface inside the Media Library so you don't have to copy anything.
 
-**Local-network discovery:** the **Available Devices** section auto-lists every Bonjour / mDNS service on your Wi-Fi network — Plex, Jellyfin, Emby servers, Synology, QNAP, AirPort routers with attached drives, Apple Time Capsule — so you can tap to connect without typing an IP address.
+**Local-network discovery:** the Available Devices section auto-lists every Bonjour / mDNS service on your Wi-Fi network — Plex, Jellyfin, Emby servers, Synology, QNAP, AirPort routers with attached drives, Apple Time Capsule — so you can tap to connect without typing an IP address.
 
-Each connection uses the **official SDK or open protocol** of the service, with OAuth-based authorization where supported. You can connect multiple accounts of the same service (for example, two Google Drive accounts, or both a Plex and a Jellyfin server) and browse them side-by-side in the Cloud Storage section.
+Each connection uses the official SDK or open protocol of the service, with OAuth-based authorization where supported. You can connect multiple accounts of the same service (for example, two Google Drive accounts, or both a Plex and a Jellyfin server) and browse them side-by-side in the Cloud Storage section.
 
 ## Security and Privacy
 
-Evervideo uses only **official SDKs and secure connections** to interact with connected cloud services. Your login and password are not accessible to the application — all transfers are TLS-encrypted.
+Evervideo uses only official SDKs and secure connections to interact with connected cloud services. Your login and password are not accessible to the application — all transfers are TLS-encrypted.
 
-When you enter your login and password, the application shows you the **official authorization page provided by the cloud service provider**, and the entire authorization process takes place outside the application. The cloud service provider then sends an **auth-token** to the application after successful authorization, and that token is used to make API calls.
+When you enter your login and password, the application shows you the official authorization page provided by the cloud service provider, and the entire authorization process takes place outside the application. The cloud service provider then sends an auth-token to the application after successful authorization, and that token is used to make API calls.
 
-An auth-token is a digital key that allows third-party applications to interact with cloud storage on your behalf. The token is stored on your device in **Apple's secure system storage (Keychain)**, which is encrypted at rest and protected by your device passcode or biometric lock. You can download files from connected cloud services to your device; those files are placed in the app's **Documents** directory and can be removed at any time using the built-in file manager.
+An auth-token is a digital key that allows third-party applications to interact with cloud storage on your behalf. The token is stored on your device in Apple's secure system storage (Keychain), which is encrypted at rest and protected by your device passcode or biometric lock. You can download files from connected cloud services to your device; those files are placed in the app's Documents directory and can be removed at any time using the built-in file manager.
 
-The application **does not share any information** from your connected cloud accounts with Everappz, advertisers, or any third party. You can revoke access to your cloud account at any time by opening the account-settings page in your web browser.
+The application does not share any information from your connected cloud accounts with Everappz, advertisers, or any third party. You can revoke access to your cloud account at any time by opening the account-settings page in your web browser.
 
 ## Reject Auth-Token
 
@@ -108,7 +107,7 @@ You can also disconnect the cloud account inside the application itself — when
 
 ## Connect to a Computer or NAS
 
-You can connect your computer, personal NAS, or other network device using the **SMB, WebDAV, FTP / FTPS, SFTP, NFS,** or **DLNA** protocol. This is the easiest way to bring an existing home media library — whether it lives on a Mac, Windows PC, Synology, QNAP, Apple Time Capsule, or WD My Cloud Home — into Evervideo without copying anything.
+You can connect your computer, personal NAS, or other network device using the SMB, WebDAV, FTP / FTPS, SFTP, NFS, or DLNA protocol. This is the easiest way to bring an existing home media library — whether it lives on a Mac, Windows PC, Synology, QNAP, Apple Time Capsule, or WD My Cloud Home — into Evervideo without copying anything.
 
 ### Connect to a Computer Using SMB
 
@@ -118,51 +117,51 @@ You can connect your computer, personal NAS, or other network device using the *
 - Enter your login and password (if required).
 - Tap **Done**.
 
-If the connection is successful, the share appears in the **Cloud Storage** section. A full tutorial on how to connect your Mac or PC using SMB is available [here](/docs/howto/stream-your-music-from-mac-or-pc-to-iphone-using-smb/).
+If the connection is successful, the share appears in the Cloud Storage section. A full tutorial on how to connect your Mac or PC using SMB is available [here](/docs/howto/stream-your-music-from-mac-or-pc-to-iphone-using-smb/).
 
 ### Connect to a NAS Using WebDAV
 
-All steps are the same as SMB, except for the URL field. Use `http://server-name` or `https://server-name` if the server supports SSL. WebDAV works with **Synology, QNAP, Nextcloud, ownCloud, WD My Cloud Home, Buffalo**, and any other server with a WebDAV endpoint.
+All steps are the same as SMB, except for the URL field. Use `http://server-name` or `https://server-name` if the server supports SSL. WebDAV works with Synology, QNAP, Nextcloud, ownCloud, WD My Cloud Home, and any other server with a WebDAV endpoint.
 
 A full tutorial on WebDAV is available [here](/docs/howto/how-to-connect-nas-storage-using-webdav-and-listen-to-music-on-your-iphone-or-mac).
 
 ### Connect via DLNA / UPnP
 
-Share a media library located on your Windows PC or NAS using the **DLNA / UPnP** protocol and access it inside Evervideo as described [here](/docs/howto/how-to-enable-dlna-media-server-on-windows-10-and-play-your-music-on-iphone). DLNA is widely supported, but it only allows you to play or download videos — you cannot upload files or create new folders on a DLNA server.
+Share a media library located on your Windows PC or NAS using the DLNA / UPnP protocol and access it inside Evervideo as described [here](/docs/howto/how-to-enable-dlna-media-server-on-windows-10-and-play-your-music-on-iphone). DLNA is widely supported, but it only allows you to play or download videos — you cannot upload files or create new folders on a DLNA server.
 
 ### Connect Using FTP, FTPS, or SFTP
 
-Evervideo also supports the classic file-transfer protocols. To connect a server over **FTP** or **FTPS**, tap **Connect to cloud storage → FTP**, enter the host URL in the form `ftp://server-name` (or `ftps://server-name` for an encrypted connection), provide your login and password, then tap **Done**. For **SFTP (SSH File Transfer Protocol)**, choose **SFTP** instead and supply either a password or an SSH key pair.
+Evervideo also supports the classic file-transfer protocols. To connect a server over FTP or FTPS, tap Connect to cloud storage → FTP, enter the host URL in the form `ftp://server-name` (or `ftps://server-name` for an encrypted connection), provide your login and password, then tap Done. For SFTP (SSH File Transfer Protocol), choose SFTP instead and supply either a password or an SSH key pair.
 
 ### Connect to an NFS Share
 
-Evervideo includes **NFS (Network File System)** support — handy for Linux hosts, BSD servers, and NAS devices that prefer to expose video libraries over NFS instead of SMB. Pick **NFS** in the **Connect to cloud storage** menu, enter the server address and exported path, and tap **Done**.
+Evervideo includes NFS (Network File System) support — handy for Linux hosts, BSD servers, and NAS devices that prefer to expose video libraries over NFS instead of SMB. Pick NFS in the Connect to cloud storage menu, enter the server address and exported path, and tap Done.
 
 ## Connect a Plex Media Server
 
-Evervideo can connect directly to a **Plex Media Server** and browse your Movies, TV Shows, and Home Videos libraries. Tap **Connect to cloud storage → Plex**, sign in with your Plex account, pick a server, and the library appears alongside your cloud services. Plex servers on the same local network are also discovered automatically in the **Available Devices** section.
+Evervideo can connect directly to a Plex Media Server and browse your Movies, TV Shows, and Home Videos libraries. Tap Connect to cloud storage → Plex, sign in with your Plex account, pick a server, and the library appears alongside your cloud services. Plex servers on the same local network are also discovered automatically in the Available Devices section.
 
 ## Connect a Jellyfin or Emby Server
 
-Both **Jellyfin** (open-source) and **Emby** (commercial) media servers work natively in Evervideo. Tap **Connect to cloud storage → Jellyfin** or **Emby**, enter your server URL (typically something like `http://server-ip:8096`) and credentials, and your library is ready to stream.
+Both Jellyfin (open-source) and Emby (commercial) media servers work natively in Evervideo. Tap Connect to cloud storage → Jellyfin or Emby, enter your server URL (typically something like `http://server-ip:8096`) and credentials, and your library is ready to stream.
 
 ## Connect a Subsonic or Navidrome Server
 
-Evervideo speaks the **Subsonic API**, which means it works with **Subsonic** itself, **Navidrome**, and every other Subsonic-compatible server — including **Airsonic, Funkwhale, Gonic, Logitech Media Server (LMS),** and **Ampache**. Tap **Connect to cloud storage → Subsonic**, enter the server URL and credentials, and the library appears in the Cloud Storage section.
+Evervideo speaks the Subsonic API, which means it works with Subsonic itself, Navidrome, and every other Subsonic-compatible server — including Airsonic, Funkwhale, Gonic, Logitech Media Server (LMS), and Ampache. Tap Connect to cloud storage → Subsonic, enter the server URL and credentials, and the library appears in the Cloud Storage section.
 
 ## Connect an RTSP Stream (IP Cameras, Live TV, IPTV)
 
-Evervideo has native **RTSP** support, so you can point it at any RTSP source — security cameras, doorbell cameras, IPTV providers, baby monitors, broadcast feeds — and Evervideo will pull and decode the stream live. Tap **Connect to cloud storage → RTSP**, paste in the full URL (`rtsp://camera-ip:port/stream-path`), supply login and password if required, and tap **Done**.
+Evervideo has native RTSP support, so you can point it at any RTSP source — security cameras, doorbell cameras, IPTV providers, baby monitors, broadcast feeds — and Evervideo will pull and decode the stream live. Tap Online Links → Add link, paste in the full URL (`rtsp://camera-ip:port/stream-path`), supply login and password if required, and tap Done.
 
 ## Connect to S3-Compatible Object Storage
 
-For self-hosters and power users using cloud object storage, Evervideo includes an **S3-compatible** connector. Tap **Connect to cloud storage → S3 storage**, then enter the endpoint URL, region, access key, secret key, and bucket name. This works with **AWS S3, Backblaze B2, Wasabi, Cloudflare R2, MinIO, DigitalOcean Spaces,** and any other S3-API endpoint.
+For self-hosters and power users using cloud object storage, Evervideo includes an S3-compatible connector. Tap Connect to cloud storage → S3 storage, then enter the endpoint URL, region, access key, secret key, and bucket name. This works with AWS S3, Backblaze B2, Wasabi, Cloudflare R2, MinIO, DigitalOcean Spaces, and any other S3-API endpoint.
 
 ## Available Devices
 
 This section displays every device on your local network that you can connect to from Evervideo via Bonjour / mDNS discovery — Plex, Jellyfin, Emby servers, Synology, QNAP, AirPort routers with attached drives, Apple Time Capsule, and so on. To establish a connection:
 
-- Scroll to the **Available Devices** section in the Files tab.
+- Scroll to the Available Devices section in the Files tab.
 - Tap the device you want to connect to.
 - If needed, enter your login details to complete the connection.
 
@@ -172,17 +171,17 @@ This section displays every device on your local network that you can connect to
 
 ## Wi-Fi Drive
 
-**Wi-Fi Drive** lets you transfer files wirelessly from your computer to your iOS device via any desktop browser, Finder, or File Explorer. Your device and computer must be on the same Wi-Fi network.
-
-### Enable Wi-Fi Drive
-
-- In the **Files** tab, scroll to **Cloud Storage → Connect via Wi-Fi** to open the Wi-Fi Drive main screen.
-- (Optional) Set a username and password for the embedded web server.
-- Tap **Start Wi-Fi Drive**.
+Wi-Fi Drive lets you transfer files wirelessly from your computer to your iOS device via any desktop browser, Finder, or File Explorer. Your device and computer must be on the same Wi-Fi network.
 
 {{< cards cols="1">}}
   {{< card title="" subtitle="Evervideo Wi-Fi Drive" image="/docs/guide/evervideo/img/evervideo-wifi-drive.webp" >}}
 {{< /cards >}}
+
+### Enable Wi-Fi Drive
+
+- In the Files tab, scroll to Cloud Storage → Connect via Wi-Fi to open the Wi-Fi Drive main screen.
+- (Optional) Set a username and password for the embedded web server.
+- Tap Start Wi-Fi Drive.
 
 ### Access Wi-Fi Drive on Your Computer
 
@@ -190,17 +189,17 @@ This section displays every device on your local network that you can connect to
 - Enter the URL shown by the application.
 - Drag and drop files from your computer onto the web page — they'll begin transferring to your iOS device.
 
-You can also mount Wi-Fi Drive directly in **Finder** on macOS (Go → Connect to Server…) or **File Explorer** on Windows (Map Network Drive…) and treat your iPhone or iPad as a regular network drive.
+You can also mount Wi-Fi Drive directly in **Finder** on macOS (Go → Connect to Server…) or File Explorer on Windows (Map Network Drive…) and treat your iPhone or iPad as a regular network drive.
 
 Detailed instructions are available [here](/docs/howto/how-to-transfer-files-wirelessly-from-a-computer-to-an-iphone-using-wifi-drive).
 
 ## iTunes / Finder File Sharing
 
-**iTunes File Sharing** (now **Finder File Sharing** on macOS Catalina and later) lets you transfer files using a Lightning or USB-C cable. Connect the device, open **Finder** on Mac (or iTunes on Windows), find Evervideo in the apps list, and copy files into its shared folder.
+iTunes File Sharing (now Finder File Sharing on macOS Catalina and later) lets you transfer files using a Lightning or USB-C cable. Connect the device, open Finder on Mac (or iTunes on Windows), find Evervideo in the apps list, and copy files into its shared folder.
 
 ## Connect a USB Flash Drive or SD Card
 
-Plug a USB drive or SD card into your iPhone, iPad, or Mac via the Lightning-to-USB / USB-C adapter or card reader. Open **Files → Files on This iPhone → Open Folder**, navigate to the drive, and pick a video file or folder. Evervideo plays files directly from the drive without copying them to internal storage — handy for very large 4K libraries.
+Plug a USB drive or SD card into your iPhone, iPad, or Mac via the Lightning-to-USB / USB-C adapter or card reader. Open Files → Files on This iPhone → Open Folder, navigate to the drive, and pick a video file or folder. Evervideo plays files directly from the drive without copying them to internal storage — handy for very large 4K libraries.
 
 ## Folder Browsing in Connected Storages
 
@@ -212,7 +211,7 @@ Tap any connected cloud service to open its file browser. Folders show video thu
 
 ## Quick Access
 
-The **Quick Access** section sits at the top of the Files tab. It gives you fast access to your favorite and recently opened files and folders — both from cloud services and from on-device storage. Whenever you open a file or folder from the cloud, it's added to the **Recently Opened** list. You can mark deeply nested folders as **Favorites** to access them quickly without digging through the directory structure.
+The Quick Access section sits at the top of the Files tab. It gives you fast access to your favorite and recently opened files and folders — both from cloud services and from on-device storage. Whenever you open a file or folder from the cloud, it's added to the Recently Opened list. You can mark deeply nested folders as Favorites to access them quickly without digging through the directory structure.
 
 {{< cards cols="1">}}
   {{< card title="" subtitle="Evervideo Online Links and Quick Access" image="/docs/guide/evervideo/img/evervideo-connections-online-links.webp" >}}
@@ -220,7 +219,7 @@ The **Quick Access** section sits at the top of the Files tab. It gives you fast
 
 ## Files in This Application
 
-This section shows files and folders stored in Evervideo's sandboxed **Documents** directory — everything you've downloaded from the cloud, transferred via Wi-Fi Drive, copied through Finder File Sharing, or imported from another app.
+This section shows files and folders stored in Evervideo's sandboxed Documents directory — everything you've downloaded from the cloud, transferred via Wi-Fi Drive, copied through Finder File Sharing, or imported from another app.
 
 {{< cards cols="1">}}
   {{< card title="" subtitle="Evervideo Files in This Application" image="/docs/guide/evervideo/img/evervideo-files-in-this-application.webp" >}}
@@ -228,7 +227,7 @@ This section shows files and folders stored in Evervideo's sandboxed **Documents
 
 ### Documents Folder
 
-The Documents folder is the root of everything inside **Files in This Application**. You can create subfolders, rename files, move them around, and group them however you like.
+The Documents folder is the root of everything inside Files in This Application. You can create subfolders, rename files, move them around, and group them however you like.
 
 {{< cards cols="1">}}
   {{< card title="" subtitle="Evervideo Local Files — Documents Folder" image="/docs/guide/evervideo/img/evervideo-local-files-documents.webp" >}}
@@ -238,10 +237,10 @@ The Documents folder is the root of everything inside **Files in This Applicatio
 
 This section shows videos located on your device but in different applications. You can import them into Evervideo using the system file picker:
 
-- Tap **Open Files…** to select specific files.
-- Tap **Open Folder…** to select a whole folder.
+- Tap Open Files… to select specific files.
+- Tap Open Folder… to select a whole folder.
 
-You can also use **Connect a Folder** to create a link to a folder on your device with read / write access — perfect for working with a folder on iCloud Drive or an attached USB drive without copying anything.
+You can also use Connect a Folder to create a link to a folder on your device with read / write access — perfect for working with a folder on iCloud Drive or an attached USB drive without copying anything.
 
 {{< cards cols="1">}}
   {{< card title="" subtitle="Evervideo Files on This Device" image="/docs/guide/evervideo/img/evervideo-files-on-this-device.webp" >}}
@@ -251,7 +250,7 @@ You can also use **Connect a Folder** to create a link to a folder on your devic
 
 Within the Files tab you'll see several special folders that Evervideo creates and uses automatically:
 
-- **Downloads** — every file downloaded from the cloud appears here by default. Customize in **Settings → File Manager → Save Downloaded Files To**.
+- **Downloads** — every file downloaded from the cloud appears here by default. Customize in Settings → File Manager → Save Downloaded Files To.
 - **Player Cache** — the media player cache. By default the player downloads upcoming videos for smooth playback. You can disable the cache in app settings or simply delete this folder.
 - **iCloud** — files in this folder sync across all your devices connected to the same iCloud account.
 - **Offline Folders** — when you mark a folder, playlist, album, or genre as available offline, the files are downloaded into this folder.
@@ -285,7 +284,7 @@ Tap **"..."** in the top-right corner and choose **Select** to enter selection m
   {{< card title="" subtitle="Evervideo Selection Mode in the File Manager" image="/docs/guide/evervideo/img/evervideo-selection-mode-in-files.webp" >}}
 {{< /cards >}}
 
-If you'd rather treat connected cloud storage as read-only (to prevent accidental deletions), enable **Settings → File Manager → Edit Online Files → Off** to hide all destructive operations from the UI.
+If you'd rather treat connected cloud storage as read-only (to prevent accidental deletions), enable Settings → File Manager → Edit Online Files → Off to hide all destructive operations from the UI.
 
 ## File Actions
 
@@ -321,13 +320,13 @@ For each folder in your cloud storage, you have many actions available by tappin
 
 ## Transfers Queue
 
-In the **top-left corner** of the Files tab is a **Transfers** button (a spinning-arrows icon). Tap it to open the Transfers Queue — a list of every active download and upload across all of your sources, with real-time progress, speed, and ETA per file.
+In the top-right corner of the Files tab is a **Transfers** button (a spinning-arrows icon). Tap it to open the Transfers Queue — a list of every active download and upload across all of your sources, with real-time progress, speed, and ETA per file.
 
 {{< cards cols="1">}}
   {{< card title="" subtitle="Evervideo File Transfers Queue" image="/docs/guide/evervideo/img/evervideo-file-transfers.webp" >}}
 {{< /cards >}}
 
-You can pause, resume, retry failed transfers, rearrange items to prioritize specific downloads, or cancel them individually. You can also adjust the transfer queue speed (maximum parallel tasks), network type (Wi-Fi only or Wi-Fi + Cellular), and background transfers in **Settings → File Manager**.
+You can pause, resume, retry failed transfers, rearrange items to prioritize specific downloads, or cancel them individually. You can also adjust the transfer queue speed (maximum parallel tasks), network type (Wi-Fi only or Wi-Fi + Cellular), and background transfers in Settings → File Manager.
 
 {{< cards cols="1">}}
   {{< card title="" subtitle="Evervideo Actions on the File Transfers Queue" image="/docs/guide/evervideo/img/evervideo-file-transfers-actions.webp" >}}
@@ -335,16 +334,16 @@ You can pause, resume, retry failed transfers, rearrange items to prioritize spe
 
 ## Offline Mode and Synchronized Offline Folders
 
-Offline mode is a handy feature that lets you watch your favorite videos even when you're not connected to the internet. When you enable offline mode for any folder, playlist, album, or genre, all files within that collection are automatically downloaded to your device for offline playback. They appear in the **Offline Folders** section.
+Offline mode is a handy feature that lets you watch your favorite videos even when you're not connected to the internet. When you enable offline mode for any folder, playlist, album, or genre, all files within that collection are automatically downloaded to your device for offline playback. They appear in the Offline Folders section.
 
-When you add new files to the remote server, they're also automatically downloaded — so your offline collection stays current without you doing anything. To manually re-sync, tap the three dots in the top-right corner of an offline folder and select **Synchronize**.
+When you add new files to the remote server, they're also automatically downloaded — so your offline collection stays current without you doing anything. To manually re-sync, tap the three dots in the top-right corner of an offline folder and select Synchronize.
 
-You can adjust the synchronization timeout in **Settings → File Manager → Synchronized Offline Folders → Time Interval**.
+You can adjust the synchronization timeout in Settings → File Manager → Synchronized Offline Folders → Time Interval.
 
 Detailed instructions are available [here](/docs/howto/play-offline-music-in-evermusic-flacbox-download-sync-from-cloud-to-local-files/).
 
 ## Personalization
 
-In **Settings → Personalization** you can configure how the Files tab is presented:
+In Settings → Personalization you can configure how the Files tab is presented:
 
 - **Files Screen Style** — Plain Menu (shows the folder list directly) or Grouped Menu (groups content by category — Quick Access, Special Folders, Cloud Storage, etc.).

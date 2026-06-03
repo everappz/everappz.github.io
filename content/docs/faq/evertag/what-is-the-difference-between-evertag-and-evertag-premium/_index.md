@@ -13,7 +13,7 @@ aliases:
 Evertag and Evertag Premium are two versions of the same powerful tag editing app. While Evertag Free gives you access to essential metadata editing tools, Evertag Premium unlocks the full experience—ad-free, unlimited, and customizable.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evertag Upgrade To Premium Screen" image="/upgrade-to-premium.webp" >}}
+  {{< card title="" subtitle="Evertag Upgrade To Premium Screen" image="/docs/faq/evertag/what-is-the-difference-between-evertag-and-evertag-premium/upgrade-to-premium.webp" >}}
 {{< /cards >}}
 
 ## Choose Your Premium Plan
@@ -21,7 +21,7 @@ Evertag and Evertag Premium are two versions of the same powerful tag editing ap
 The free version of the application offers a one-time lifetime in-app purchase and two subscription options (1 month and 1 year) to remove all restrictions and upgrade to the Premium version, allowing you to choose the best and most optimal price for you. Prices may vary depending on your country or territory. Also, please keep in mind that **Family Sharing** is **enabled** for all purchases and plans, so you can share the Premium version with members of your family.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evertag Select Your Premium Plan Screen" image="/select-your-plan.webp" >}}
+  {{< card title="" subtitle="Evertag Select Your Premium Plan Screen" image="/docs/faq/evertag/what-is-the-difference-between-evertag-and-evertag-premium/select-your-plan.webp" >}}
 {{< /cards >}}
 
 ## Sharing Purchases Between iOS and Mac
@@ -81,7 +81,7 @@ Once you upgrade your app, you will see the Premium status screen with details o
 You can upgrade to the Premium version for free but for a limited time only using the "Try premium for free" menu. Just watch an advertisement or tell your friends about this app to get the Premium version for free.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evertag Try Premium For Free Screen" image="/try-premium-for-free.webp" >}}
+  {{< card title="" subtitle="Evertag Try Premium For Free Screen" image="/docs/faq/evertag/what-is-the-difference-between-evertag-and-evertag-premium/try-premium-for-free.webp" >}}
 {{< /cards >}}
 
 ## What to Choose?

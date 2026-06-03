@@ -125,7 +125,7 @@ Evermusic ships with four Home Screen / Lock Screen widgets that surface key par
 - **Lyrics** — the lyrics of the currently playing track (embedded or LRC), scrolling line-by-line in larger sizes.
 - **Recently Played** — quick access to the songs you played most recently, with one-tap resume.
 
-All four widgets are available in **Small**, **Medium**, and **Large** sizes so you can pick the layout that fits your screen.
+All four widgets are available in Small, Medium, and Large sizes so you can pick the layout that fits your screen.
 
 {{< cards cols="1">}}
   {{< card title="" subtitle="Adding Evermusic Widgets" image="/docs/guide/evermusic/evermusic-guide-navigation/img/navigation-add-widgets.webp" >}}
