@@ -13,7 +13,7 @@ readingTime: 3
 Evervideo offers both a free version with certain usage limitations and a premium version with added features, which can be unlocked through in-app purchases.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Upgrade Default Plan Screen" image="/upgrade-default.webp" >}}
+  {{< card title="" subtitle="Upgrade Default Plan Screen" image="/docs/faq/evervideo/what-is-the-difference-between-evervideo-and-evervideo-premium/upgrade-default.webp" >}}
 {{< /cards >}}
 
 ## Choose Your Premium Plan
@@ -21,7 +21,7 @@ Evervideo offers both a free version with certain usage limitations and a premiu
 The free version of the application offers a one-time lifetime in-app purchase and two subscription options (1 month and 1 year) to remove all restrictions and upgrade to the Premium version, allowing you to choose the best and most optimal price for you. Prices may vary depending on your country or territory. Also, please keep in mind that **Family Sharing** is enabled for all purchases and plans, so you can share the Premium version with members of your family.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Evervideo Plan Selection Screen" image="/plan-select.webp" >}}
+  {{< card title="" subtitle="Evervideo Plan Selection Screen" image="/docs/faq/evervideo/what-is-the-difference-between-evervideo-and-evervideo-premium/plan-select.webp" >}}
 {{< /cards >}}
 
 ## Sharing Purchases Between iOS and Mac
@@ -33,13 +33,13 @@ You can also try pressing the "Restore Purchases" button in the app settings. Af
 To restore your purchase on the new device just use the "Restore purchases" menu. You will see the list of your purchases. If you don't see all your purchases please check if the device is connected to the same iTunes account that was used to make purchases, and make sure iCloud is enabled.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Purchase Restored Screen" image="/purchase-restored.webp" >}}
+  {{< card title="" subtitle="Purchase Restored Screen" image="/docs/faq/evervideo/what-is-the-difference-between-evervideo-and-evervideo-premium/purchase-restored.webp" >}}
 {{< /cards >}}
 
 Once you upgrade your app, you will see the Premium status screen with details of your current purchases.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="You Are Using Premium Screen" image="/you-are-using-premium.webp" >}}
+  {{< card title="" subtitle="You Are Using Premium Screen" image="/docs/faq/evervideo/what-is-the-difference-between-evervideo-and-evervideo-premium/you-are-using-premium.webp" >}}
 {{< /cards >}}
 
 ## Try Premium for Free
@@ -47,7 +47,7 @@ Once you upgrade your app, you will see the Premium status screen with details o
 Additionally, there's a limited-time opportunity to "**Try Premium for Free**". You can access this feature through the "Try Premium for Free" menu. By simply watching an advertisement or spreading the word about the app to your friends, you can unlock the Premium version for free during this promotional period. This provides you with a chance to experience the premium features without any financial commitment.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Try Premium For Free Screen" image="/premium-for-free.webp" >}}
+  {{< card title="" subtitle="Try Premium For Free Screen" image="/docs/faq/evervideo/what-is-the-difference-between-evervideo-and-evervideo-premium/premium-for-free.webp" >}}
 {{< /cards >}}
 
 ## Evervideo Free
@@ -64,7 +64,7 @@ Additionally, there's a limited-time opportunity to "**Try Premium for Free**". 
 - No customization or personalization options.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="Upgrade Cloud Storage Screen" image="/upgrade-cloud-storage.webp" >}}
+  {{< card title="" subtitle="Upgrade Cloud Storage Screen" image="/docs/faq/evervideo/what-is-the-difference-between-evervideo-and-evervideo-premium/upgrade-cloud-storage.webp" >}}
 {{< /cards >}}
 
 ## Evervideo Premium
@@ -108,7 +108,7 @@ If you're just getting started or only need basic video playback features, **Eve
 On the other hand, **Evervideo Premium** unlocks the full experience. You’ll enjoy an ad-free interface, unlimited playlist and queue support, full offline functionality, cloud flexibility, and advanced exporting and personalization options. It’s the best option for users with large video libraries, those who watch content from multiple sources, or anyone looking for a more professional and seamless media player.
 
 {{< cards cols="1">}}
-  {{< card title="" subtitle="You Have Purchased Premium Screen" image="/you-have-purchased-premium.webp" >}}
+  {{< card title="" subtitle="You Have Purchased Premium Screen" image="/docs/faq/evervideo/what-is-the-difference-between-evervideo-and-evervideo-premium/you-have-purchased-premium.webp" >}}
 {{< /cards >}}
 
 If you're looking for flexibility, try the **monthly plan**. For long-term value, go with the **yearly** or **lifetime** upgrade — both offer full access at a better price.

@@ -17,7 +17,7 @@ aliases:
   - /guide-evervideo-playlists/
 ---
 
-In the **Playlists** section, you'll find helpful tools to manage your video collections — perfect for series, courses, tutorial sequences, music videos, and curated marathons. This area shows all your playlists in one place. At the top, there's a **"..."** button in the navigation bar that opens a menu with playlist options, plus a toolbar with quick actions like **Search**, **Play All**, and **Shuffle All**. Each playlist also has its own **"..."** button next to its title, giving you more options just for that playlist.
+In the Playlists section, you'll find helpful tools to manage your video collections — perfect for series, courses, tutorial sequences, music videos, and curated marathons. This area shows all your playlists in one place. At the top, there's a "..." button in the navigation bar that opens a menu with playlist options, plus a toolbar with quick actions like Search, Play All, and Shuffle All. Each playlist also has its own "..." button next to its title, giving you more options just for that playlist.
 
 Playlists in Evervideo can contain a mix of online cloud videos, offline downloaded files, local files, Photos library videos, and iOS Music library videos — all in one playlist — and play seamlessly together.
 
@@ -29,22 +29,20 @@ Playlists in Evervideo can contain a mix of online cloud videos, offline downloa
 
 Creating a new playlist is straightforward. You have two options: tap the **+** button, or tap the **"..."** button in the upper-right corner of the navigation bar and choose **New Playlist**. Give your playlist a meaningful name, then tap **Save**.
 
-This triggers the **Add Videos** dialog, where you can handpick the videos you wish to include. Videos are conveniently categorized by source type:
+This triggers the **Add Files** dialog, where you can handpick the videos you wish to include. Videos are conveniently categorized by source type:
 
-- **Library** — videos already in your media library.
+- **Library** — files already in your media library.
 - **Files in This Application** — videos in the app's Documents folder.
 - **Files on This Device** — videos located elsewhere on your device, not in this application.
 - **Connections** — online videos located within your connected cloud storage services and media servers.
-- **Photos Library** — videos from your iOS Photos library.
-- **Music Library** — videos from your iOS Music app library.
 
-By default, you can add a single video to a playlist only once. If you want to allow duplicates, enable this in **Settings → Media Library → Playlists → Duplicates in a Playlist → Enable**.
+By default, you can add a single video to a playlist only once. If you want to allow duplicates, enable this in Settings → Library → Playlists → Duplicates in a Playlist → Enable.
 
 ## Import Playlist
 
-Evervideo supports **M3U / M3U8 / CUE** playlist file import, so you can bring existing playlists in without re-creating them by hand.
+Evervideo supports M3U / M3U8 / CUE playlist file import, so you can bring existing playlists in without re-creating them by hand.
 
-First, go to the **Playlists** section. Then, tap the **More** button in the top-right corner. From the menu, select **Import Playlist**.
+First, go to the Playlists section. Then, tap the More button in the top-right corner. From the menu, select Import Playlist.
 
 On the next screen, choose the file location. Supported options:
 
@@ -52,11 +50,11 @@ On the next screen, choose the file location. Supported options:
 - Files in the application
 - Files on your device
 
-Select the location, open the folder containing the playlist file, then pick the **.m3u**, **.m3u8**, or **.cue** file and tap **Done**. Evervideo parses the file, locates each referenced video on storage, and creates a real playlist in your library. **Important:** the playlist file must reference files that actually exist at the paths it specifies.
+Select the location, open the folder containing the playlist file, then pick the .m3u, .m3u8, or .cue file and tap Done. Evervideo parses the file, locates each referenced video on storage, and creates a real playlist in your library. Important: the playlist file must reference files that actually exist at the paths it specifies.
 
 ## Playlist Detail Screen
 
-When you open a playlist, the **Playlist Detail** screen appears. You'll find a **"..."** button in the top-right corner with playlist options, and three buttons under the cover image: **Search**, **Continue Playback**, **Play All**, and **Shuffle All**. There's also an **Offline Mode** checkbox to toggle full-playlist offline sync.
+When you open a playlist, the Playlist Detail screen appears. You'll find a **"..."** button in the top-right corner with playlist options, and three buttons under the cover image: **Search**, **Continue Playback**, **Play All**, and **Shuffle All**. There's also an **Offline Mode** checkbox to toggle full-playlist offline sync.
 
 - **Continue Playback** — restore the last saved playback position for this playlist.
 - **Search** — perform a search within the current playlist.
@@ -96,11 +94,9 @@ You can access actions by tapping the **"..."** button in the top-right corner o
 - **Grid / List** — change the screen-layout presentation.
 - **Delete Playlist** — delete the playlist from the media library. This action does not delete videos from your storage, but **it cannot be undone**.
 
-## Changing Video Order in a Playlist
+## Changing Files Order in a Playlist
 
 To change the order of videos in a playlist, tap the **"..."** button in the top-right corner and select **Select** to enter selection mode. Use the reorder control and drag-and-drop gestures near each video to move them up or down. Tapping the reorder control moves the video to the top of the list. To exit selection mode and apply changes, tap **Done**.
-
-For an even simpler workflow on long playlists, choose **More Actions → Rearrange Videos** to enter dedicated drag-and-drop reorder mode.
 
 ## Changing the Playlist Cover Image
 
