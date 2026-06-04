@@ -20,9 +20,13 @@ readingTime: 8
 ---
 
 
-The **Media Library** is the heart of Evervideo. It brings every video and music file you can access — from connected cloud services, NAS shares, downloaded files, your iOS **Photos library**, and the iOS **Music library** — into a single, searchable hub. You can browse by **Albums, Genres, Playlists, Recents, Favorites,** All Videos, and Unplayed Videos, and Evervideo automatically tracks **watch progress** so you can resume any title exactly where you left off.
+The **Media Library** is the heart of Evervideo. It brings every video and music file you can access — from connected cloud services, NAS shares, downloaded files, your **Photos library**, and the **Music library** — into a single, searchable hub. You can browse by Albums, Genres, Playlists, Recents, Favorites, All Videos, and Unplayed Videos, and Evervideo automatically tracks **watch progress** so you can resume any title exactly where you left off.
 
 You have two ways to add media to your library: **manual addition** (you pick exactly what gets added) or **automatic synchronization** (Evervideo scans designated cloud folders and adds new files automatically as they appear).
+
+{{< cards cols="1">}}
+  {{< card title="" subtitle="Evervideo Media Library" image="/docs/guide/evervideo/img/evervideo-genres-in-media-library.webp" >}}
+{{< /cards >}}
 
 ## Manual Addition
 
@@ -32,13 +36,13 @@ On Mac, you can also drag-and-drop files into the library window.
 
 ## Continue Playback
 
-Restore the player state from the last saved position if **Save Player State** is enabled in **Settings → Player → General**. Once enabled, a **Continue Playback** button appears at the top of every folder, album, genre, and playlist screen — tap it to jump straight back to the exact video and position you last left.
+Restore the player state from the last saved position if **Save Player State** is enabled in Settings → Player → General. Once enabled, a **Continue Playback** button appears at the top of every folder, album, genre, and playlist screen — tap it to jump straight back to the exact video and position you last left.
 
-Evervideo also tracks **per-file playback progress** so that even when you didn't use Continue Playback, every video in a list shows a small progress bar indicating how much you've already watched. This makes long TV shows, lecture series, and tutorial collections especially easy to manage.
+Evervideo also tracks per-file playback progress so that even when you didn't use Continue Playback, every video in a list shows a small progress bar indicating how much you've already watched. This makes long TV shows, lecture series, and tutorial collections especially easy to manage.
 
 ## Locations
 
-All the videos in your library are thoughtfully grouped by **source type**. You can filter videos by location using the **More Actions** button in the top-right corner and selecting **Filter**.
+All the videos in your library are thoughtfully grouped by source type. You can filter videos by location using the **More Actions** button in the top-right corner and selecting **Filter**.
 
 ### Online Videos
 
@@ -54,7 +58,7 @@ This category includes videos imported into the application from your device, ad
 
 ### Photos Library
 
-Evervideo can browse and play every video stored in your iOS **Photos library** — all camera recordings, screen recordings, downloaded clips, and AirDropped video files. The library is split into convenient buckets:
+Evervideo can browse and play every video stored in your iOS Photos library — all camera recordings, screen recordings, downloaded clips, and AirDropped video files. The library is split into convenient buckets:
 
 - **All Videos** — every video in Photos, regardless of length.
 - **Short Videos** — clips under 60 seconds (great for memes and quick captures).
@@ -67,15 +71,11 @@ This means you don't have to copy anything out of Photos to watch it in Evervide
 
 ### iOS Music Library
 
-Evervideo also reads videos from the iOS **Music app library** (anything you've purchased from iTunes, ripped from your own DVDs, or added through Apple Music's offline downloads where applicable). You can browse by **Albums, Genres,** and **Playlists** — without copying or transcoding.
+Evervideo also reads videos from the Music app library (anything you've purchased from iTunes, ripped from your own DVDs, or added through Apple Music's offline downloads where applicable). You can browse by Albums, Genres, and Playlists — without copying or transcoding.
 
 ## Categories
 
 When you add videos to your media library, Evervideo automatically reads their metadata and organizes them into categories.
-
-{{< cards cols="1">}}
-  {{< card title="" subtitle="Evervideo Genres in the Media Library" image="/docs/guide/evervideo/img/evervideo-genres-in-media-library.webp" >}}
-{{< /cards >}}
 
 ## Tags Grouping
 
@@ -83,17 +83,17 @@ These categories help you organize your videos by metadata. When you add videos 
 
 - **All Videos** — every video in the library, sorted by title.
 - **Unplayed Videos** — videos that have never been played all the way through.
-- **Albums** — videos grouped by the **ALBUM_NAME** tag (handy for series and box sets).
-- **Genres** — videos grouped by the **GENRE** tag.
+- **Albums** — videos grouped by the ALBUM_NAME tag (handy for series and box sets).
+- **Genres** — videos grouped by the GENRE tag.
 - **Playlists** — your own playlists, in the order you created them.
 - **Recents** — videos you've recently played.
 - **Favorites** — videos you've marked as favorites.
 
-If you don't see all your titles, ensure the app has scanned every file. You can check the scanning progress in **Settings → Media Library → Metadata Reading → Number of Processed Files**.
+If you don't see all your titles, ensure the app has scanned every file. You can check the scanning progress in Settings → Media Library → Metadata Reading → Number of Processed Files.
 
 ## Recents
 
-This section displays all recently played videos with their last playback position, so you can resume any of them with one tap. You can change how many entries the list keeps in **Settings → Media Library → Recents → Change List Size**, and export the list to **M3U / CSV / TXT** to back up your watch history.
+This section displays all recently played videos with their last playback position, so you can resume any of them with one tap. You can change how many entries the list keeps in Settings → Media Library → Recents → Change List Size, and export the list to M3U / CSV / TXT to back up your watch history.
 
 {{< cards cols="1">}}
   {{< card title="" subtitle="Evervideo Recents — Recently Watched Videos" image="/docs/guide/evervideo/img/evervideo-recents.webp" >}}
@@ -113,11 +113,11 @@ Evervideo tracks the playback position of every video you watch. Each video in a
 
 ## Top Toolbar
 
-Located just beneath the navigation bar, the top toolbar offers several convenient actions: **Search, Play All, Shuffle All,** and **Continue Playback**. You can reveal or hide this toolbar with a simple swipe-down gesture.
+Located just beneath the navigation bar, the top toolbar offers several convenient actions: Search, Play All, Shuffle All, and Continue Playback. You can reveal or hide this toolbar with a simple swipe-down gesture.
 
 ## Search
 
-The search feature empowers you to locate a specific title, album, genre, or playlist within your media library. Within the **Search** screen, you have access to **Sort, Filter,** and **Grid / List** view actions. Search runs locally against the media library database, so it works fully offline and returns results as you type.
+The search feature empowers you to locate a specific title, album, genre, or playlist within your media library. Within the Search screen, you have access to Sort, Filter, and Grid / List view actions. Search runs locally against the media library database, so it works fully offline and returns results as you type.
 
 {{< cards cols="1">}}
   {{< card title="" subtitle="Evervideo Media Library Search" image="/docs/guide/evervideo/img/evervideo-library-search.webp" >}}
@@ -159,8 +159,8 @@ You can activate selection mode using the **More Actions** button in the top-rig
 
 ## Settings
 
-Tap **More Actions → Settings** to configure your media library preferences — including metadata reading speed, online and offline sync folders, library presentation style, album cover quality and search, playlist duplicate behavior, recents list size, and favorites simultaneous editing. See the [Settings guide](/docs/guide/evervideo/evervideo-guide-settings/) for the full breakdown.
+Tap More Actions → Settings to configure your media library preferences — including metadata reading speed, online and offline sync folders, library presentation style, album cover quality and search, playlist duplicate behavior, recents list size, and favorites simultaneous editing. See the [Settings guide](/docs/guide/evervideo/evervideo-guide-settings/) for the full breakdown.
 
 ## Delete Media Library
 
-In **Settings → Media Library → Delete Library**, you can erase the media library database. Your video files on storage are left untouched.
+In Settings → Media Library → Delete Library, you can erase the media library database. Your video files on storage are left untouched.

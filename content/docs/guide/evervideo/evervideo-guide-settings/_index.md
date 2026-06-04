@@ -117,13 +117,10 @@ Configure audio playback and output.
 Evervideo includes comprehensive subtitle support.
 
 - **Subtitle Track** — pick from embedded subtitle tracks in the file.
-- **Secondary Subtitle Track** — render a second subtitle track on top of the first (perfect for language learners).
 - **External Subtitle File** — load an external `.srt`, `.vtt`, `.ass`, or `.ssa` file from your device or any connected cloud service.
 - **Font** — pick a font for the primary subtitle track.
-- **Secondary Font** — separate font for the secondary subtitle track.
-- **libass** — advanced ASS / SSA styling (custom fonts, colors, positions, karaoke effects) is rendered correctly via the bundled libass engine.
 
-### Devices (iOS Only)
+### Devices (iOS/iPadOS Only)
 
 Pick an **AirPlay** or **Google Chromecast** device for video output.
 
