@@ -14,7 +14,7 @@ readingTime: 3
 Flacbox offers both a free version with certain usage limitations and a premium version with added features, which can be unlocked through in-app purchases.
 
 {{< figure
-  src="/flacbox-premium.webp"
+  src="/docs/faq/flacbox/what-is-the-difference-between-flacbox-and-flacbox-premium/flacbox-premium.webp"
   alt="Flacbox Upgrade To Premium"
   caption="Flacbox Upgrade To Premium"
   width="600"
@@ -25,7 +25,7 @@ Flacbox offers both a free version with certain usage limitations and a premium 
 The free version of the application offers a one-time lifetime in-app purchase and two subscription options (1 month and 1 year) to remove all restrictions and upgrade to the Premium version, allowing you to choose the best and most optimal price for you. Prices may vary depending on your country or territory. Also, please keep in mind that **Family Sharing** is enabled for all purchases and plans, so you can share the Premium version with members of your family.
 
 {{< figure
-  src="/flacbox-plan-select.webp"
+  src="/docs/faq/flacbox/what-is-the-difference-between-flacbox-and-flacbox-premium/flacbox-plan-select.webp"
   alt="Flacbox Premium Plan Select"
   caption="Flacbox Premium Plan Select"
   width="600"
@@ -40,7 +40,7 @@ You can also try pressing the "Restore Purchases" button in the app settings. Af
 To restore your purchase on the new device just use the "Restore purchases" menu. You will see the list of your purchases. If you don't see all your purchases please check if the device is connected to the same iTunes account that was used to make purchases, and make sure iCloud is enabled.
 
 {{< figure
-  src="/flacbox-restore-purchases.webp"
+  src="/docs/faq/flacbox/what-is-the-difference-between-flacbox-and-flacbox-premium/flacbox-restore-purchases.webp"
   alt="Flacbox Restore Purchases"
   caption="Flacbox Restore Purchases"
   width="600"
@@ -49,7 +49,7 @@ To restore your purchase on the new device just use the "Restore purchases" menu
 Once you upgrade your app, you will see the Premium status screen with details of your current purchases.
 
 {{< figure
-  src="/flacbox-you-are-using-premium.webp"
+  src="/docs/faq/flacbox/what-is-the-difference-between-flacbox-and-flacbox-premium/flacbox-you-are-using-premium.webp"
   alt="Flacbox You Are Using Premium"
   caption="Flacbox You Are Using Premium"
   width="600"
@@ -60,7 +60,7 @@ Once you upgrade your app, you will see the Premium status screen with details o
 Additionally, there's a limited-time opportunity to "**Try Premium for Free**". You can access this feature through the "Try Premium for Free" menu. By simply watching an advertisement or spreading the word about the app to your friends, you can unlock the Premium version for free during this promotional period. This provides you with a chance to experience the premium features without any financial commitment.
 
 {{< figure
-  src="/flacbox-premium-for-free.webp"
+  src="/docs/faq/flacbox/what-is-the-difference-between-flacbox-and-flacbox-premium/flacbox-premium-for-free.webp"
   alt="Flacbox Premium For Free"
   caption="Flacbox Premium For Free"
   width="600"
