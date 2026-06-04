@@ -37,11 +37,11 @@ You can also drag-and-drop files into the library on the Mac version, or use **O
 
 ## Continue Playback
 
-Restore the audio player queue from the last saved position if this feature is enabled in the application settings. Enable both **Save Audio Player State** and **Save Playback Position** in **Settings → Audio Player → General** for the best experience. Once enabled, a **Continue Playback** button appears at the top of every folder, album, artist, genre, and playlist screen — tap it to jump straight back to the exact track and position you last left.
+Restore the audio player queue from the last saved position if this feature is enabled in the application settings. Enable both **Save Audio Player State** and **Save Playback Position** in Settings → Audio Player → General for the best experience. Once enabled, a **Continue Playback** button appears at the top of every folder, album, artist, genre, and playlist screen — tap it to jump straight back to the exact track and position you last left.
 
 ## Locations
 
-All the tracks in your library are thoughtfully grouped by **source type and music tags**. You can filter songs by location using the **More Actions** button in the top-right corner and selecting **Filter**.
+All the tracks in your library are thoughtfully grouped by source type and music tags. You can filter songs by location using the **More Actions** button in the top-right corner and selecting **Filter**.
 
 ### Online Music
 
@@ -49,7 +49,7 @@ This section showcases music from your connected cloud storage services. The tra
 
 ### Files in This Application
 
-Here you can find music available for offline playback, sourced from your local files. This includes files in the app’s **Documents** directory — anything you downloaded, transferred via Wi-Fi Drive, or imported through Finder File Sharing.
+Here you can find music available for offline playback, sourced from your local files. This includes files in the app’s Documents directory — anything you downloaded, transferred via Wi-Fi Drive, or imported through Finder File Sharing.
 
 ### Files on This iPhone / iPad / Mac
 
@@ -57,19 +57,19 @@ This category includes music imported into the application from your device, add
 
 ## Categories
 
-When you add tracks to your music library, the app automatically reads their audio tags and organizes them into categories such as **Songs, Unplayed Songs, Albums, Album Artists, Artists, Genres,** and **Composers**.
+When you add tracks to your music library, the app automatically reads their audio tags and organizes them into categories such as Songs, Unplayed Songs, Albums, Album Artists, Artists, Genres, and Composers.
 
 ## Tags Grouping
 
-These categories help you organize your tracks by music tags. When you add tracks to the music library, the app reads their metadata and groups them by these categories. If you don’t see all your albums, ensure the app has scanned every track. You can check the scanning progress in **Settings → Music Library → Metadata Reading → Number of Processed Files in Music Library**. For local files, you can also rescan offline folders in **Settings → Music Library → Offline Folders Sync → Start Local Folders Scanning**. After the metadata reader completes all operations, you’ll see the following categories in your music library:
+These categories help you organize your tracks by music tags. When you add tracks to the music library, the app reads their metadata and groups them by these categories. If you don’t see all your albums, ensure the app has scanned every track. You can check the scanning progress in Settings → Music Library → Metadata Reading → Number of Processed Files in Music Library. For local files, you can also rescan offline folders in Settings → Music Library → Offline Folders Sync → Start Local Folders Scanning. After the metadata reader completes all operations, you’ll see the following categories in your music library:
 
-- **Songs** — all songs grouped by the **TRACK_TITLE** tag. You can check the sort order using the **More Actions** menu in the top-right corner.
+- **Songs** — all songs grouped by the TRACK_TITLE tag. You can check the sort order using the More Actions menu in the top-right corner.
 - **Unplayed Songs** — all songs that have never been played.
-- **Albums** — songs grouped by the **ALBUM_NAME** tag, ignoring artist, album-artist, and composer tags. If you have several albums with the same name but different artists, consider using the **Exclusive Albums** sorting described below.
-- **Album Artists** — songs grouped by the **ALBUM_ARTIST_TAG** only. Useful for keeping compilations and collaborations cleanly separated from solo work.
-- **Artists** — songs grouped by the **ARTIST_TAG** only.
-- **Genres** — songs grouped by the **GENRE** tag.
-- **Composers** — songs grouped by the **COMPOSER** tag — invaluable for classical music libraries where “composer” is the primary navigation axis.
+- **Albums** — songs grouped by the ALBUM_NAME tag, ignoring artist, album-artist, and composer tags. If you have several albums with the same name but different artists, consider using the Exclusive Albums sorting described below.
+- **Album Artists** — songs grouped by the ALBUM_ARTIST_TAG only. Useful for keeping compilations and collaborations cleanly separated from solo work.
+- **Artists** — songs grouped by the ARTIST_TAG only.
+- **Genres** — songs grouped by the GENRE tag.
+- **Composers** — songs grouped by the COMPOSER tag — invaluable for classical music libraries where “composer” is the primary navigation axis.
 
 ## Favorites
 
@@ -77,19 +77,19 @@ You can mark songs as favorites on the audio player screen or using the options 
 
 ## Recents
 
-This section displays all recently played tracks. You can customize how many items the recents list keeps in **Settings → Library → Recents → Change List Size**, and export the list to **M3U / CSV / TXT** to back up your listening history.
+This section displays all recently played tracks. You can customize how many items the recents list keeps in Settings → Library → Recents → Change List Size, and export the list to M3U / CSV / TXT to back up your listening history.
 
 ## Bookmarks
 
-You can create **audio bookmarks** while a song is playing and manage them on this screen — perfect for audiobooks, long mixes, lectures, or just marking the chorus of a favorite track. Detailed instructions on working with audio bookmarks are available [here](/docs/guide/evermusic/evermusic-guide-music-library).
+You can create audio bookmarks while a song is playing and manage them on this screen — perfect for audiobooks, long mixes, lectures, or just marking the chorus of a favorite track. Detailed instructions on working with audio bookmarks are available [here](/docs/guide/evermusic/evermusic-guide-music-library).
 
 ## Top Toolbar
 
-Located just beneath the navigation bar, the top toolbar offers several convenient actions: **Search, Play All, Shuffle All,** and **Continue Playback**. You can reveal or hide this toolbar with a simple swipe-down gesture.
+Located just beneath the navigation bar, the top toolbar offers several convenient actions: Search, Play All, Shuffle All, and Continue Playback. You can reveal or hide this toolbar with a simple swipe-down gesture.
 
 ## Search
 
-The search feature empowers you to locate a specific track, artist, album, or genre within your music library. Within the **Search** screen, you have access to **Sort, Filter,** and **Grid / List** view actions. Search runs locally against the music library database, so it works fully offline and returns results as you type.
+The search feature empowers you to locate a specific track, artist, album, or genre within your music library. Within the Search screen, you have access to Sort, Filter, and Grid / List view actions. Search runs locally against the music library database, so it works fully offline and returns results as you type.
 
 {{< cards cols="1">}}
   {{< card title="" subtitle="Flacbox Music Library Search" image="/docs/guide/flacbox/img/media-library-search.webp" >}}
@@ -115,7 +115,7 @@ Each song in your music library has a menu with more actions, accessed by tappin
 
 ### For Song Collections
 
-For song collections like **Albums, Artists, Genres,** or **Composers**, the options menu includes the following actions.
+For song collections like Albums, Artists, Genres, or Composers, the options menu includes the following actions.
 
 - **Play All** — replaces the player queue with songs from the selected collection.
 - **Play Next** — adds the songs from this collection to the top of the player queue.
@@ -129,11 +129,11 @@ For song collections like **Albums, Artists, Genres,** or **Composers**, the opt
 
 ## Selection Mode
 
-You can activate selection mode using the **More Actions** button in the top-right corner. In this mode, you can select multiple tracks at once and perform batch actions — add to playlist, mark as favorite, delete from library, download, and more.
+You can activate selection mode using the More Actions button in the top-right corner. In this mode, you can select multiple tracks at once and perform batch actions — add to playlist, mark as favorite, delete from library, download, and more.
 
 ## Album Detail
 
-When you open the **Artist, Album Artist,** or **Composer** sections, you can see a switcher for **Songs / All Albums / Exclusive Albums / Solo Albums**.
+When you open the Artist, Album Artist, or Composer sections, you can see a switcher for Songs / All Albums / Exclusive Albums / Solo Albums.
 
 - **Songs** — displays all songs where this Artist / Album Artist / Composer appears in the audio tags.
 - **All Albums** — shows compilation albums and all albums where the artist is present at all.
@@ -148,13 +148,13 @@ This is especially useful for cleaning up cluttered “Various Artists” compil
 
 ## Settings
 
-Tap **More Actions → Settings** to configure your music library preferences.
+Tap More Actions → Settings to configure your music library preferences.
 
 ### Metadata Reading
 
-When you add tracks to the library, the **metadata reader** gets to work. This background process reads all metadata from your tracks and organizes them by Artist, Album, Genre, and Composer. You can adjust the speed of metadata reading to load data faster — be aware that faster reading uses more energy. You can also disable the metadata reader entirely and display file names instead of tag information.
+When you add tracks to the library, the metadata reader gets to work. This background process reads all metadata from your tracks and organizes them by Artist, Album, Genre, and Composer. You can adjust the speed of metadata reading to load data faster — be aware that faster reading uses more energy. You can also disable the metadata reader entirely and display file names instead of tag information.
 
-Importantly, the metadata reader **only updates metadata in your music library** and does not alter the files stored in your cloud account or local storage. If you wish to edit metadata for audio files, you can do so using the built-in **tag editor**, which you can activate from the corresponding action in the options menu.
+Importantly, the metadata reader only updates metadata in your music library and does not alter the files stored in your cloud account or local storage. If you wish to edit metadata for audio files, you can do so using the built-in tag editor, which you can activate from the corresponding action in the options menu.
 
 ### Available Modes for the Metadata Reader
 
@@ -165,7 +165,7 @@ Importantly, the metadata reader **only updates metadata in your music library**
 
 When the **Metadata Reading in the Background** switch is on, the metadata reader continues working in background mode. Note that if the app consumes a lot of energy during audio playback, the iOS operating system may suspend it.
 
-So, if you have a large music collection, it’s advisable to use the desktop version of the application for metadata synchronization. You can then use the **Data Backup and Restore** feature in app settings to transfer the synchronized library from the desktop to mobile.
+So, if you have a large music collection, it’s advisable to use the desktop version of the application for metadata synchronization. You can then use the Data Backup and Restore feature in app settings to transfer the synchronized library from the desktop to mobile.
 
 When the **Normalize Metadata Encoding** option is enabled, the app automatically normalizes metadata encoding for all songs in the music library. This fixes issues where audio-tag encoding is broken (such as after editing files on a Windows PC) and prevents incorrect characters from showing in track information.
 
@@ -175,15 +175,15 @@ Tap **Start Metadata Reading** to trigger the reader manually. The operation pro
 
 ### Online Synchronization
 
-Automatic online music sync allows you to add tracks from connected cloud services to the music library automatically. To activate this feature, head to **Music Library Settings** and select sync folders.
+Automatic online music sync allows you to add tracks from connected cloud services to the music library automatically. To activate this feature, head to Music Library Settings and select sync folders.
 
 With this option enabled, the application scans all selected folders, identifies supported audio files, and seamlessly integrates them into your library. You can start or stop synchronization by tapping the corresponding menu action.
 
-Online music synchronization operates exclusively when the app is in the foreground, which means syncing a large library can take some time. To speed up the process, leave your app open, connect it to a power source, and enable **Screen → Always Active** in application settings.
+Online music synchronization operates exclusively when the app is in the foreground, which means syncing a large library can take some time. To speed up the process, leave your app open, connect it to a power source, and enable Screen → Always Active in application settings.
 
-Alternatively, you can perform online music synchronization on the desktop version of the app and transfer the music library to the iOS version using the **Backup & Restore** feature.
+Alternatively, you can perform online music synchronization on the desktop version of the app and transfer the music library to the iOS version using the Backup & Restore feature.
 
-You can also set how often you want to synchronize your online music library. If you set the interval to **Immediately**, online sync will start every time you open the application.
+You can also set how often you want to synchronize your online music library. If you set the interval to Immediately, online sync will start every time you open the application.
 
 ### Offline Synchronization
 
@@ -191,7 +191,7 @@ Here you can configure offline music synchronization.
 
 #### Synchronized Offline Folders
 
-When you make a cloud folder available offline (via the **More Actions** menu), it appears in the **Local Files → Offline Folders** section. The app downloads its contents to your device. If you make changes to the folder in the cloud — like adding, removing, or updating files — the app detects those changes and updates the local copy automatically.
+When you make a cloud folder available offline (via the More Actions menu), it appears in the Local Files → Offline Folders section. The app downloads its contents to your device. If you make changes to the folder in the cloud — like adding, removing, or updating files — the app detects those changes and updates the local copy automatically.
 
 On this screen, you can manually start offline folder synchronization, reveal the offline folder in its enclosing folder, and disable offline mode for the folder. Disabling offline mode removes all local copies of files from your device.
 
@@ -201,7 +201,7 @@ You can set the time interval for how often the app should check offline folders
 
 #### Start Local Folders Scanning
 
-This option scans all local folders located in the application’s **Documents** directory to find supported audio files. All these local files are seamlessly added to your music library. Local files located on your device but outside of this application must be added to the music library manually, as the app does not have access to files outside the application’s Documents directory due to iOS / macOS security restrictions.
+This option scans all local folders located in the application’s Documents directory to find supported audio files. All these local files are seamlessly added to your music library. Local files located on your device but outside of this application must be added to the music library manually, as the app does not have access to files outside the application’s Documents directory due to iOS / macOS security restrictions.
 
 #### Important
 
@@ -209,13 +209,13 @@ It is advisable to periodically initiate offline music synchronization to keep y
 
 ### Personalization
 
-In this section, you can configure the music library screen style to suit your preferences. Three options are available: **Plain Menu, Grouped Menu, Tabbed Menu**. You can also enable or disable showing album covers in album detail screens.
+In this section, you can configure the music library screen style to suit your preferences. Three options are available: Plain Menu, Grouped Menu, Tabbed Menu. You can also enable or disable showing album covers in album detail screens.
 
 ### Album Covers
 
 Here, you can configure how the application loads and stores album artwork.
 
-- **Network Type** — pick **Wi-Fi** or **Wi-Fi & Cellular Data** for cover downloads.
+- **Network Type** — pick Wi-Fi or Wi-Fi & Cellular Data for cover downloads.
 - **Load Album Covers for Online Files** — when enabled, embedded album covers are loaded for files stored in cloud storage. This may use additional network data.
 - **Search in the Folder** — when enabled, if a track has no embedded cover, the app looks for JPEG or PNG images in the same folder and uses them as album artwork.
 - **Cover Quality** — choose the quality of album covers stored on your device.
@@ -250,4 +250,4 @@ This action will erase the music library database, but it will leave your music 
 
 ### Content Loading Limit
 
-By default, the application uses pagination to reduce content loading time and keep large libraries responsive. However, you can disable this option and allow the application to load all available data at once. To do so, open application settings, scroll down to **Personalization → Content Loading Limit**, and choose **Deactivated**.
+By default, the application uses pagination to reduce content loading time and keep large libraries responsive. However, you can disable this option and allow the application to load all available data at once. To do so, open application settings, scroll down to Personalization → Content Loading Limit, and choose Deactivated.

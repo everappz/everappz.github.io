@@ -19,7 +19,7 @@ aliases:
 ---
 
 
-The **Audio Player** is the main screen of the app where you control the music and most playback features. It’s also where Flacbox’s hi-res audio engine — built on the system codecs plus the bundled **FFmpeg** library — does the heavy lifting. Let’s explore how to use it.
+The Audio Player is the main screen of the app where you control the music and most playback features. It’s also where Flacbox’s hi-res audio engine — built on the system codecs plus the bundled **FFmpeg** library — does the heavy lifting. Let’s explore how to use it.
 
 ## Accessing the Audio Player
 
@@ -33,13 +33,13 @@ You can get to the full-screen player from the mini player bar. On iPhone, the m
 
 Flacbox plays the most popular audio formats — both Apple’s system codecs and many additional formats handled by the bundled FFmpeg engine:
 
-3g2, 3gp, 3gp2, 3gpp, 8svx, aa, aac, aax, ac3, act, adt, adts, aif, aifc, aiff, alac, amr, amv, ape, asf, au, avi, awb, caf, cavs, cdda, cue, dct, dff, drc, dsf, dss, dvf, dvr-ms, ec3, f4a, f4b, f4p, f4v, **flac**, flv, gif, gifv, gsm, gxf, h261, h263, h264, ifv, iklax, ivf, ivs, l16, latm, loas, m2t, m2ts, m2v, m3u, m3u8, m4a, m4b, m4p, m4r, m4v, mka, mkv, mmf, mng, mod, mogg, mov, mp1, mp2, **mp3**, mp4, mp4v, mpa, mpc, mpe, mpeg, mpg, mpv, msv, mts, mxf, nsf, nsv, nut, oga, **ogg**, ogv, **opus**, **pcm**, pls, qt, ra, raw, rm, rmvb, roq, rv, sln, snd, svi, tod, **tta**, vob, voc, vox, vtt, w64, **wav**, wave, webm, **wma**, wmv, **wv**, xhe, xmv, y4m, yuv.
+3g2, 3gp, 3gp2, 3gpp, 8svx, aa, aac, aax, ac3, act, adt, adts, aif, aifc, aiff, alac, amr, amv, ape, asf, au, avi, awb, caf, cavs, cdda, cue, dct, dff, drc, dsf, dss, dvf, dvr-ms, ec3, f4a, f4b, f4p, f4v, flac, flv, gif, gifv, gsm, gxf, h261, h263, h264, ifv, iklax, ivf, ivs, l16, latm, loas, m2t, m2ts, m2v, m3u, m3u8, m4a, m4b, m4p, m4r, m4v, mka, mkv, mmf, mng, mod, mogg, mov, mp1, mp2, mp3, mp4, mp4v, mpa, mpc, mpe, mpeg, mpg, mpv, msv, mts, mxf, nsf, nsv, nut, oga, ogg, ogv, opus, pcm, pls, qt, ra, raw, rm, rmvb, roq, rv, sln, snd, svi, tod, tta, vob, voc, vox, vtt, w64, wav, wave, webm, wma, wmv, wv, xhe, xmv, y4m, yuv.
 
 That covers virtually every modern lossy and lossless format you’re likely to have in a personal music collection.
 
 ## Playback Controls
 
-At the bottom of the player screen, you’ll see buttons for **Play**, **Pause**, **Next Track**, and **Previous Track**. There are also optional buttons like **Next 30 sec** and **Previous 30 sec** that you can enable in the app settings (handy for audiobooks). You can fast-forward or rewind by holding down the Next / Previous buttons. To jump to a specific part of a track, drag the playback slider.
+At the bottom of the player screen, you’ll see buttons for Play, Pause, Next Track, and Previous Track. There are also optional buttons like Next 30 sec and Previous 30 sec that you can enable in the app settings (handy for audiobooks). You can fast-forward or rewind by holding down the Next / Previous buttons. To jump to a specific part of a track, drag the playback slider.
 
 ## Repeat and Shuffle
 
@@ -54,7 +54,7 @@ Use the **Shuffle** button to randomize the order of tracks in the queue.
 
 ## Volume Control
 
-Open the **Audio Settings** screen by tapping the sound icon under the playback controls to access the volume slider. You’ll also find buttons here for **Google Cast** and **AirPlay** so you can quickly switch playback to another device.
+Open the Audio Settings screen by tapping the sound icon under the playback controls to access the volume slider. You’ll also find buttons here for **Google Cast** and **AirPlay** so you can quickly switch playback to another device.
 
 ## Google Cast (Chromecast)
 
@@ -66,7 +66,7 @@ For AirPlay, look for the **AirPlay** button at the bottom of the player. Tap it
 
 ## Audio Equalizer
 
-Flacbox includes a **10-band equalizer** with iPod-style presets. Tap **Equalizer** on the volume view, then switch it on in the top-right corner. You can use presets like **Acoustic** and **Bass Booster**, or adjust each frequency band with sliders. Make your own presets, save them under any name, and boost overall volume with the **preamplifier**. We have more detailed instructions on how to use the equalizer [here](/docs/howto/how-to-use-the-audio-equalizer-on-your-iphone-ipad-mac-with-evermusic-and-flacbox).
+Flacbox includes a **10-band equalizer** with iPod-style presets. Tap Equalizer on the volume view, then switch it on in the top-right corner. You can use presets like Acoustic and Bass Booster, or adjust each frequency band with sliders. Make your own presets, save them under any name, and boost overall volume with the preamplifier. We have more detailed instructions on how to use the equalizer [here](/docs/howto/how-to-use-the-audio-equalizer-on-your-iphone-ipad-mac-with-evermusic-and-flacbox).
 
 {{< cards cols="1">}}
   {{< card title="" subtitle="Flacbox Audio Player Equalizer" image="/docs/guide/flacbox/img/audio-player-equalizer.webp" >}}
@@ -74,10 +74,10 @@ Flacbox includes a **10-band equalizer** with iPod-style presets. Tap **Equalize
 
 ## Player Mode Toolbar
 
-For some player styles like **Antique** and **Classical**, there’s a dedicated toolbar at the top of the full-screen player. This toolbar houses three useful buttons:
+For some player styles, there’s a dedicated toolbar at the top of the full-screen player. This toolbar houses three useful buttons:
 
 - **Search** — quickly locate a specific track in your player queue.
-- **Playback Speed Control** — adjust playback speed anywhere from **0.02× to 3.00×**. Perfect for audiobooks, podcasts, and lectures. Tap **Normal** to revert to default speed.
+- **Playback Speed Control** — adjust playback speed anywhere from 0.02× to 3.00×. Perfect for audiobooks, podcasts, and lectures. Tap Normal to revert to default speed.
 - **Audio Bookmarks** — create multiple bookmarks per track. We have full instructions on how to use bookmarks [here](/docs/howto/how-to-listen-to-audiobooks-on-iphone-ipad-mac-using-evermusic).
 
 ## Player Queue
@@ -98,7 +98,7 @@ To view track comments and embedded lyrics, as well as LRC files, follow these s
 4. Tap **Buttons on the main screen**.
 5. Enable **Comments**.
 
-After this, tap the player queue button at the bottom of the screen several times to switch from the artwork / queue view to the comments view. On the **Comments** screen, scroll right to switch between **Comments**, **Embedded Lyrics**, and the **LRC File**. Full instructions are available [here](/docs/howto/how-to-add-and-view-comments-to-your-audio-tracks-on-iphone-ipad-and-mac-with-evermusic-and-flacbox).
+After this, tap the player queue button at the bottom of the screen several times to switch from the artwork / queue view to the comments view. On the Comments screen, scroll right to switch between **Comments**, **Embedded Lyrics**, and the **LRC File**. Full instructions are available [here](/docs/howto/how-to-add-and-view-comments-to-your-audio-tracks-on-iphone-ipad-and-mac-with-evermusic-and-flacbox).
 
 {{< cards cols="1">}}
   {{< card title="" subtitle="Flacbox Lyrics and Comments Screen" image="/docs/guide/flacbox/img/lyrics-screen.webp" >}}
@@ -129,7 +129,7 @@ The same options are available for the now-playing item in the audio player queu
 
 ## Additional Player Actions
 
-Tap the **More Actions "..."** button on the left side of the currently playing song title to see additional actions.
+Tap the **More Actions** "..." button on the left side of the currently playing song title to see additional actions.
 
 - **Continue Playback** — resume from where you left off, including queue and media position. Particularly useful for audiobooks. Activated in the app settings.
 - **Search** — quickly find a specific track in your audio player queue.
@@ -161,7 +161,7 @@ To create a new bookmark:
 - Select **Add Bookmark**.
 - Choose the bookmark time and tap **Done** in the top-right corner.
 
-Editing bookmarks for the current track is easy: tap **Edit** in the top-right corner to enter edit mode. In this mode, you can rearrange bookmarks, delete them, adjust bookmark time, and change bookmark titles. More detailed instructions on audio bookmarks are available [here](/docs/howto/how-to-listen-to-audiobooks-on-iphone-ipad-mac-using-evermusic).
+Editing bookmarks for the current track is easy: tap Edit in the top-right corner to enter edit mode. In this mode, you can rearrange bookmarks, delete them, adjust bookmark time, and change bookmark titles. More detailed instructions on audio bookmarks are available [here](/docs/howto/how-to-listen-to-audiobooks-on-iphone-ipad-mac-using-evermusic).
 
 {{< cards cols="1">}}
   {{< card title="" subtitle="Flacbox Audio Bookmarks Screen" image="/docs/guide/flacbox/img/audio-bookmarks.webp" >}}
@@ -169,11 +169,11 @@ Editing bookmarks for the current track is easy: tap **Edit** in the top-right c
 
 ## Recents and Favorites
 
-On the player screen, tap the three dots to access **Recents** and **Favorites**. In both sections, you can search for songs, play all, shuffle all, export the list, and clear the list. We have detailed instructions on how to export song lists [here](/docs/howto/export-tracks-collection-from-evermusic-flacbox-to-m3u-csv-txt/).
+On the player screen, tap the three dots to access Recents and Favorites. In both sections, you can search for songs, play all, shuffle all, export the list, and clear the list. We have detailed instructions on how to export song lists [here](/docs/howto/export-tracks-collection-from-evermusic-flacbox-to-m3u-csv-txt/).
 
 ## Apple CarPlay (iPhone)
 
-Connect your iPhone to your car via USB or wireless **Apple CarPlay** and Flacbox appears on your CarPlay home screen, ready to play music safely while driving. The CarPlay interface includes dedicated tabs for **Library**, **Connections**, **Local Files**, and **Settings**, with playback controls, shuffle, repeat, queue management, and the **audio equalizer** all available without picking up your phone. Configure the CarPlay experience further in **Settings → CarPlay** — sort options, pagination, menu icons gradient color, whether images are loaded, and an option to pause playback automatically when CarPlay connects.
+Connect your iPhone to your car via USB or wireless Apple CarPlay and Flacbox appears on your CarPlay home screen, ready to play music safely while driving. The CarPlay interface includes dedicated tabs for Library, Connections, Local Files, and Settings, with playback controls, shuffle, repeat, queue management, and the audio equalizer all available without picking up your phone. Configure the CarPlay experience further in Settings → CarPlay — sort options, pagination, menu icons gradient color, whether images are loaded, and an option to pause playback automatically when CarPlay connects.
 
 [Read the full CarPlay guide](/docs/howto/how-to-play-your-own-music-on-iphone-using-carplay/).
 
@@ -183,19 +183,19 @@ Connect your iPhone to your car via USB or wireless **Apple CarPlay** and Flacbo
 
 ## Home Screen Widgets (iPhone & iPad)
 
-Flacbox supports iOS **Home Screen and Lock Screen widgets** so you can see and control playback at a glance. Make sure **Widgets** are enabled in **Settings → Widgets → Enable Widgets**, then long-press your Home Screen or Lock Screen, tap **+**, search **Flacbox**, and add a widget. The widget refreshes during playback to show the now-playing track artwork, title, and artist.
+Flacbox supports iOS Home Screen and Lock Screen widgets so you can see and control playback at a glance. Make sure Widgets are enabled in Settings → Widgets → Enable Widgets, then long-press your Home Screen or Lock Screen, tap **+**, search **Flacbox**, and add a widget. The widget refreshes during playback to show the now-playing track artwork, title, and artist.
 
 ## Mini Player Window (Mac Exclusive)
 
-Mac users can use a compact, always-on-top mini player. Move your cursor to the bottom-right edge of the Flacbox window, resize it down to its smallest size, and tap the collapse button. Keep it on top of every other window by selecting **Window → Show Window Always On Top** in the menu bar — perfect for keeping music controls visible while you work in another app.
+Mac users can use a compact, always-on-top mini player. Move your cursor to the bottom-right edge of the Flacbox window, resize it down to its smallest size, and tap the collapse button. Keep it on top of every other window by selecting Window → Show Window Always On Top in the menu bar — perfect for keeping music controls visible while you work in another app.
 
 ## Keyboard Shortcuts (Mac Exclusive)
 
-For Mac users, a system playback menu is available in the status bar with keyboard shortcuts. For example, hit the spacebar to Play / Pause. Shortcuts for **Stop, Next Song, Previous Song, Skip Time, Repeat, Shuffle,** and **Playback Speed** are also available.
+For Mac users, a system playback menu is available in the status bar with keyboard shortcuts. For example, hit the spacebar to Play / Pause. Shortcuts for Stop, Next Song, Previous Song, Skip Time, Repeat, Shuffle, and Playback Speed are also available.
 
 ## Audio Player Settings
 
-To access settings, tap the **More** button on the player screen and choose **Settings**. Here, you’ll find several sections, listed below.
+To access settings, tap the More button on the player screen and choose Settings. Here, you’ll find several sections, listed below.
 
 ### General
 

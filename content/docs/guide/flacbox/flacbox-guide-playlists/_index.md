@@ -18,7 +18,7 @@ aliases:
 ---
 
 
-In the **Playlists** section, you’ll find helpful tools to manage your music collections. This area shows all your playlists in one place. At the top, there’s a **"..."** button in the navigation bar that opens a menu with different playlist options, plus a toolbar with quick actions like **Search**, **Play All**, and **Shuffle All**. Each playlist also has its own **"..."** button next to its title, giving you more options just for that playlist.
+In the Playlists section, you’ll find helpful tools to manage your music collections. This area shows all your playlists in one place. At the top, there’s a **"..."** button in the navigation bar that opens a menu with different playlist options, plus a toolbar with quick actions like Search, Play All, and Shuffle All. Each playlist also has its own **"..."** button next to its title, giving you more options just for that playlist.
 
 Playlists in Flacbox can contain a mix of online cloud tracks, offline downloaded files, and local files from your device — all in one playlist — and play seamlessly together.
 
@@ -28,22 +28,22 @@ Playlists in Flacbox can contain a mix of online cloud tracks, offline downloade
 
 ## Creating a Playlist
 
-Creating a new playlist is straightforward. You have two options: tap the **+** button, or tap the **"..."** button located in the upper-right corner of the navigation bar and choose **New Playlist**. Give your playlist a meaningful name, then tap **Save**.
+Creating a new playlist is straightforward. You have two options: tap the **+** button, or tap the **"..."** button located in the upper-right corner of the navigation bar and choose New Playlist. Give your playlist a meaningful name, then tap Save.
 
-This triggers the **Add Songs** dialog, where you can handpick the tracks you wish to include in your new playlist. Tracks are conveniently categorized by source type:
+This triggers the Add Songs dialog, where you can handpick the tracks you wish to include in your new playlist. Tracks are conveniently categorized by source type:
 
 - **Library** — tracks already in your music library.
 - **Files in This Application** — audio files in the app’s Documents folder (downloaded from cloud storage, imported via Wi-Fi Drive, or added through Finder File Sharing).
 - **Files on This Device** — audio files located elsewhere on your device, not in this application.
 - **Connections** — online files located within your connected cloud storage services.
 
-By default, you can add a single track to a playlist only once. If you want to allow duplicates, enable this feature in **Settings → Music Library → Playlists → Duplicates in a Playlist → Enable**.
+By default, you can add a single track to a playlist only once. If you want to allow duplicates, enable this feature in Settings → Music Library → Playlists → Duplicates in a Playlist → Enable.
 
 ## Import Playlist
 
-In Flacbox, we’ve added **M3U / M3U8 / CUE** file import so you don’t have to recreate playlists manually after switching from another player.
+In Flacbox, we’ve added M3U / M3U8 / CUE file import so you don’t have to recreate playlists manually after switching from another player.
 
-First, go to the **Playlists** section. Then, tap the **More** button in the top-right corner. From the menu, select **Import Playlist**.
+First, go to the Playlists section. Then, tap the More button in the top-right corner. From the menu, select Import Playlist.
 
 On the next screen, choose the file location. Supported options include:
 
@@ -51,13 +51,13 @@ On the next screen, choose the file location. Supported options include:
 - Files in the application
 - Files on your device
 
-Select connected cloud storage and open the folder containing the playlist file. Supported playlist file extensions include **M3U**, **M3U8**, and **CUE**. Select the playlist file and tap **Done** to confirm your selection.
+Select connected cloud storage and open the folder containing the playlist file. Supported playlist file extensions include M3U, M3U8, and CUE. Select the playlist file and tap Done to confirm your selection.
 
-The app parses the playlist file, creates a list of tracks, and locates those files on the storage to compile a final playlist, which is then imported into the music library. **Important:** the M3U / CUE file must contain the correct paths to the media files, and the files should actually exist at those paths on your storage. Read more about playlist import [here](/docs/howto/how-to-import-m3u-playlist-to-evermusic-and-flacbox).
+The app parses the playlist file, creates a list of tracks, and locates those files on the storage to compile a final playlist, which is then imported into the music library. Important: the M3U / CUE file must contain the correct paths to the media files, and the files should actually exist at those paths on your storage. Read more about playlist import [here](/docs/howto/how-to-import-m3u-playlist-to-evermusic-and-flacbox).
 
 ## Playlist Detail Screen
 
-When you open a playlist, the **Playlist Detail** screen appears. You’ll find a **"..."** button in the top-right corner with playlist options, and three buttons under the artwork: **Search**, **Continue Playback**, **Play All**, and **Shuffle All**. There’s also an **Offline Mode** checkbox to toggle full-playlist offline sync.
+When you open a playlist, the Playlist Detail screen appears. You’ll find a **"..."** button in the top-right corner with playlist options, and three buttons under the artwork: Search, Continue Playback, Play All, and Shuffle All. There’s also an Offline Mode checkbox to toggle full-playlist offline sync.
 
 - **Continue Playback** — restore the last saved playback position for this playlist.
 - **Search** — perform a search within the current playlist.
@@ -110,7 +110,7 @@ You can access actions for a playlist by tapping the **"..."** button in the top
 
 To change the order of songs in a playlist, tap the **"..."** button in the top-right corner and select **Select** to enter selection mode. Use the reorder control and drag-and-drop gestures near each track to move them up or down. Tapping the reorder control moves the track to the top of the list. To exit selection mode and apply changes, tap **Done**.
 
-For an even simpler workflow on long playlists, choose **More Actions → Rearrange Songs** to enter dedicated drag-and-drop reorder mode.
+For an even simpler workflow on long playlists, choose More Actions → Rearrange Songs to enter dedicated drag-and-drop reorder mode.
 
 {{< cards cols="1">}}
   {{< card title="" subtitle="Flacbox Rearrange Songs in a Playlist" image="/docs/guide/flacbox/img/playlist-details-rearange-songs.webp" >}}
@@ -151,7 +151,7 @@ Each track in a playlist has a list of actions, accessible by tapping the **"...
 
 ## Accessibility
 
-Flacbox is fully accessible with **VoiceOver** technology, ensuring every component has a well-designed label and description. When VoiceOver is active, the app translates the user interface to **Text Mode**, displaying only accessible and useful elements to improve navigation speed and convenience. You can also activate Text Mode in **Settings → Accessibility → Text Mode**.
+Flacbox is fully accessible with **VoiceOver** technology, ensuring every component has a well-designed label and description. When VoiceOver is active, the app translates the user interface to **Text Mode**, displaying only accessible and useful elements to improve navigation speed and convenience. You can also activate Text Mode in Settings → Accessibility → Text Mode.
 
 ### Adjusting Track Position in a Playlist with VoiceOver
 

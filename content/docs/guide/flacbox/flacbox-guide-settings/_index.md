@@ -21,7 +21,7 @@ aliases:
 ---
 
 
-The **Settings** screen is the control center of Flacbox. From here you can upgrade to Premium, configure the audio engine (system codecs or **FFmpeg**), manage your music library, set up the file manager, customize the audio tags editor, enable Home Screen widgets and Apple CarPlay, back up your data, and access help and legal information. Sections are grouped under headers: **Purchases & Updates**, app preferences, **Help**, and **Legal & Privacy**.
+The Settings screen is the control center of Flacbox. From here you can upgrade to Premium, configure the audio engine (system codecs or FFmpeg), manage your music library, set up the file manager, customize the audio tags editor, enable Home Screen widgets and Apple CarPlay, back up your data, and access help and legal information. Sections are grouped under headers: Purchases & Updates, App Preferences, Help, and Legal & Privacy.
 
 {{< cards cols="1">}}
   {{< card title="" subtitle="Flacbox Settings Main Screen" image="/docs/guide/flacbox/img/settings-main.webp" >}}
@@ -29,7 +29,7 @@ The **Settings** screen is the control center of Flacbox. From here you can upgr
 
 ## Upgrade to Premium
 
-Upgrade the application to the Premium version to remove all limits. The free version of the application offers a **one-time lifetime in-app purchase** and **two subscription options (1 month and 1 year)** to remove all restrictions and upgrade to Premium.
+Upgrade the application to the Premium version to remove all limits. The free version of the application offers a one-time lifetime in-app purchase and two subscription options (1 month and 1 year) to remove all restrictions and upgrade to Premium.
 
 {{< cards cols="1">}}
   {{< card title="" subtitle="Flacbox Upgrade to Premium" image="/docs/guide/flacbox/img/upgrade-to-premium.webp" >}}
@@ -45,13 +45,13 @@ You can read more about purchases and the Premium version here: [What is the dif
 
 ## Sharing Purchases Between iOS and Mac
 
-Lifetime purchases and subscriptions are shared between iOS and Mac, using **iCloud** to sync this information. If you have the Premium version on your iOS device, ensure you have the latest version installed and that iCloud is enabled. Start the app on iOS and wait one minute for your purchase information to upload to iCloud.
+Lifetime purchases and subscriptions are shared between iOS and Mac, using iCloud to sync this information. If you have the Premium version on your iOS device, ensure you have the latest version installed and that iCloud is enabled. Start the app on iOS and wait one minute for your purchase information to upload to iCloud.
 
-You can also try tapping the **Restore Purchases** button in the app settings. Afterward, install the latest app version from the App Store on your Mac and start the app. Ensure you have an internet connection and are using the same iCloud and App Store account on Mac that you used on iOS. Wait one minute for the app to download purchase info from iCloud — the Premium version should activate on your Mac automatically.
+You can also try tapping the Restore Purchases button in the app settings. Afterward, install the latest app version from the App Store on your Mac and start the app. Ensure you have an internet connection and are using the same iCloud and App Store account on Mac that you used on iOS. Wait one minute for the app to download purchase info from iCloud — the Premium version should activate on your Mac automatically.
 
 ## Restore Purchases on a New Device
 
-To restore your purchase on a new device, use the **Purchases → Restore Purchases** menu. You’ll see the list of your purchases. If you don’t see all of them, confirm the device is connected to the same Apple ID that was used to make the purchases, and make sure iCloud is enabled.
+To restore your purchase on a new device, use the Purchases → Restore Purchases menu. You’ll see the list of your purchases. If you don’t see all of them, confirm the device is connected to the same Apple ID that was used to make the purchases, and make sure iCloud is enabled.
 
 ## Try Premium for Free
 
@@ -59,11 +59,11 @@ You can upgrade to the Premium version for free, for a limited time, using this 
 
 ## Purchases
 
-You can restore previous purchases from this menu. If you encounter activation errors, try enabling the **Restore Purchases at App Launch** option.
+You can restore previous purchases from this menu. If you encounter activation errors, try enabling the Restore Purchases at App Launch option.
 
 ## Software Update
 
-Tap **Software Update** to check whether a newer version of Flacbox is available. The app will compare your installed version with the latest version on the App Store and let you know if an update is recommended.
+Tap Software Update to check whether a newer version of Flacbox is available. The app will compare your installed version with the latest version on the App Store and let you know if an update is recommended.
 
 ## What’s New
 
@@ -87,7 +87,7 @@ These settings cover the fundamental aspects of the audio player — playback qu
   - **System Codec + FFmpeg** — prioritizes the system’s audio codec where possible, enhancing compatibility and stability. Pitch correction and audio output sample rate may be limited.
   - **FFmpeg** — forces the FFmpeg codec for all audio files, unlocking pitch correction and the audio output sample rate.
 - **Audio Output Sample Rate** — adjust the audio output sample rate to optimize sound quality, especially useful with an external DAC. Available values: **44.1 kHz, 48 kHz, 64 kHz, 88.2 kHz,** and **96 kHz**.
-- **Audio Output Number of Channels** — for multichannel audio systems with an external DAC, specify the number of channels: **Mono, Stereo, Center / Left / Right, Center / Left / Right / Surround, ITU BS.775-1, 5.1 Surround,** and **SDDS**.
+- **Audio Output Number of Channels** — for multichannel audio systems with an external DAC, specify the number of channels: Mono, Stereo, Center / Left / Right, Center / Left / Right / Surround, ITU BS.775-1, 5.1 Surround, and SDDS.
 - **Audio Output Preferred IO Buffer Duration** — configure the input / output buffer duration. A typical value for minimizing latency while playing high-resolution audio is around **5 milliseconds (0.005 seconds)**. Test different durations on your target device to find the best balance between low latency and glitch-free playback.
 - **Audio Output Mode (iOS only)** — configure mixed audio output so audio from Flacbox blends with other applications. Detailed instructions are [here](/docs/howto/how-to-record-video-while-playing-music-on-iphone).
 - **Save Playback Position** — saves and restores the playback position for songs in your music library.
@@ -101,10 +101,10 @@ Personalization allows you to customize the look of the audio player screen, cha
 
 - **Audio Player Screen Style** — configure the positioning of elements on the audio player screen.
 - **Album Covers Scrolling Style** — configure the preferred scrolling style for album covers.
-- **Additional Elements** — enable extra elements on the audio player screen. **Audio Format Info** shows the now-playing track’s audio info above the artwork; **Audio Volume Slider** shows the audio output slider below the playback controls.
-- **Main Screen Actions** — configure which buttons should be visible on the main audio player screen by default: **Repeat and Shuffle Mode, Next and Previous Song, Skip Time, Sleep Timer, Google Chromecast, AirPlay and Bluetooth, Audio Equalizer, Search, Bookmarks, Speed, Add Bookmark, Add to Favorites, Comments,** and more.
-- **Playback Controls on the Lock Screen** — choose which controls appear on the lock screen. Possible values: **Skip Time, Add Bookmark, Add to Favorites**.
-- **Skip Time Buttons** — pick the time interval for the **Skip Time** buttons.
+- **Additional Elements** — enable extra elements on the audio player screen. Audio Format Info shows the now-playing track’s audio info above the artwork; Audio Volume Slider shows the audio output slider below the playback controls.
+- **Main Screen Actions** — configure which buttons should be visible on the main audio player screen by default: Repeat and Shuffle Mode, Next and Previous Song, Skip Time, Sleep Timer, Google Chromecast, AirPlay and Bluetooth, Audio Equalizer, Search, Bookmarks, Speed, Add Bookmark, Add to Favorites, Comments, and more.
+- **Playback Controls on the Lock Screen** — choose which controls appear on the lock screen. Possible values: Skip Time, Add Bookmark, Add to Favorites.
+- **Skip Time Buttons** — pick the time interval for the Skip Time buttons.
 
 ### File Loading
 
@@ -226,7 +226,7 @@ Erase the music library database. Your music files on storage are left untouched
 
 ## Passcode
 
-Activate the passcode screen to protect your application data with a **4-digit numeric passcode**. When enabled, you’ll be prompted to enter the passcode every time the app launches. Combine it with iOS Face ID / Touch ID on the device for extra protection.
+Activate the passcode screen to protect your application data with a 4-digit numeric passcode. When enabled, you’ll be prompted to enter the passcode every time the app launches. Combine it with iOS Face ID / Touch ID on the device for extra protection.
 
 ## File Manager
 
