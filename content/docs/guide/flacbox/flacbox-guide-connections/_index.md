@@ -19,7 +19,7 @@ readingTime: 12
 ---
 
 
-On this screen, you can connect every source that holds your music. You can integrate popular cloud services like **Dropbox, Google Drive, iCloud Drive, OneDrive, MEGA, Box, pCloud, Yandex Disk, Synology Drive,** and many more, as well as your **Mac, PC, or NAS** over standard protocols. Whether your collection lives on a streaming-friendly service like Dropbox or on a personal NAS like a Synology, QNAP, Buffalo, **Apple Time Capsule**, or **WD My Cloud Home**, Flacbox connects to them all from a single screen.
+On this screen, you can connect every source that holds your music. You can integrate popular cloud services like Dropbox, Google Drive, iCloud Drive, OneDrive, MEGA, Box, pCloud, Yandex Disk, Synology Drive, and many more, as well as your Mac, PC, or NAS over standard protocols. Whether your collection lives on a streaming-friendly service like Dropbox or on a personal NAS like a Synology, QNAP, Buffalo, Apple Time Capsule, or WD My Cloud Home, Flacbox connects to them all from a single screen.
 
 {{< cards cols="1">}}
   {{< card title="" subtitle="Flacbox Connections Screen" image="/docs/guide/flacbox/img/connections-main.webp" >}}
@@ -36,7 +36,7 @@ On this screen, you can connect every source that holds your music. You can inte
   {{< card title="" subtitle="Flacbox Add a Cloud Storage Service" image="/docs/guide/flacbox/img/add-cloud-storage.webp" >}}
 {{< /cards >}}
 
-If you encounter any issues, check your internet connection and your login / password. In the **Premium** version of the app, you can add an unlimited number of services; the free version supports up to three.
+If you encounter any issues, check your internet connection and your login / password. In the Premium version of the app, you can add an unlimited number of services; the free version supports up to three.
 
 ## Supported Cloud Storage Services, Media Servers, and Protocols
 
@@ -44,25 +44,25 @@ Flacbox supports an exceptionally wide range of sources for your music. Everythi
 
 **Personal cloud storage:** iCloud Drive · Dropbox · OneDrive · Google Drive · MEGA · Box · pCloud · Yandex Disk · WD My Cloud Home · MediaFire · TeraCLOUD (InfiniCLOUD) · HiDrive · IceDrive · Koofr · OpenDrive · MyDrive · Put.io · Cloud Mail.ru · Internxt · Proton Drive · AliDrive (阿里云盘) · Baidu Pan (百度网盘).
 
-**Self-hosted servers and music-server APIs:** **Plex** · **Jellyfin** · **Emby** · **Subsonic** (and every Subsonic-compatible server — Airsonic, Funkwhale, Gonic, Logitech Media Server, Ampache) · **Navidrome** · Nextcloud (and ownCloud via the shared API) · **Synology Drive** · **QNAP**.
+**Self-hosted servers:** Plex · Jellyfin · Emby · Subsonic (and every Subsonic-compatible server — Airsonic, Funkwhale, Gonic, Logitech Media Server, Ampache) · Navidrome · Nextcloud (and ownCloud via the shared API) · Synology Drive · QNAP.
 
-**NAS and file-share protocols:** **SMB** (SMB1, SMB2, Auto) · **WebDAV** (HTTP / HTTPS) · **FTP / FTPS** · **SFTP** (SSH File Transfer Protocol, password or public-key auth) · **NFS** · **DLNA / UPnP** (playback and download).
+**NAS and file-share protocols:** SMB (SMB1, SMB2, Auto) · WebDAV (HTTP / HTTPS) · FTP · FTPS · SFTP (SSH File Transfer Protocol, password or public-key auth) · NFS · DLNA / UPnP (playback and download).
 
 **S3-compatible object storage:** AWS S3, Backblaze B2, Wasabi, Cloudflare R2, MinIO, DigitalOcean Spaces, and any other S3-API endpoint.
 
-**Local-network discovery:** the **Available Devices** section auto-lists every Bonjour / mDNS service on your Wi-Fi network so you can tap to connect without typing an IP address.
+**Local-network discovery:** Available Devices section auto-lists every Bonjour / mDNS service on your Wi-Fi network so you can tap to connect without typing an IP address.
 
 Each connection uses the **official SDK or open protocol** of the service, with OAuth-based authorization where supported. You can connect multiple accounts of the same service (for example, two Google Drive accounts, a personal Dropbox alongside a work one, or both a Plex and a Jellyfin server) and browse them side-by-side in the Connections screen.
 
 ## Security and Privacy
 
-We use only **official SDKs and secure connections** to interact with connected cloud services. Your login and password are not accessible to the application — all transfers are TLS-encrypted.
+We use only official SDKs and secure connections to interact with connected cloud services. Your login and password are not accessible to the application — all transfers are TLS-encrypted.
 
-When you enter your login and password, the application shows you the **official authorization page provided by the cloud service provider**, and the entire authorization process takes place outside the application. The cloud service provider then sends an **auth-token** to the application after successful authorization, and that token is used to make API calls.
+When you enter your login and password, the application shows you the official authorization page provided by the cloud service provider, and the entire authorization process takes place outside the application. The cloud service provider then sends an auth-token to the application after successful authorization, and that token is used to make API calls.
 
-An auth-token is a digital key that allows third-party applications to interact with cloud storage on your behalf. The token is stored on your device in **Apple’s secure system storage (Keychain)**, which is encrypted at rest and protected by your device passcode or biometric lock. You can download files from connected cloud services to your device; those files are placed in the app’s **Documents** directory and can be removed at any time using the built-in file manager.
+An auth-token is a digital key that allows third-party applications to interact with cloud storage on your behalf. The token is stored on your device in Apple’s secure system storage (Keychain), which is encrypted at rest and protected by your device passcode or biometric lock. You can download files from connected cloud services to your device; those files are placed in the app’s Documents directory and can be removed at any time using the built-in file manager.
 
-The application **does not share any information** from your connected cloud accounts with Everappz, advertisers, or any third party. You can revoke access to your cloud account at any time by opening the account-settings page in your web browser.
+The application does not share any information from your connected cloud accounts with Everappz, advertisers, or any third party. You can revoke access to your cloud account at any time by opening the account-settings page in your web browser.
 
 ## Reject Auth-Token
 
@@ -80,7 +80,7 @@ You can also disconnect the cloud account inside the application itself — when
 
 ## Connect to a Computer or NAS
 
-You can also connect your computer, personal NAS, or other network devices using the **SMB**, **DLNA**, or **WebDAV** protocols. This is the easiest way to bring an existing home music library — whether it lives on a Mac, a Windows PC, a Synology box, or a NAS — into Flacbox without copying anything.
+You can also connect your computer, personal NAS, or other network devices using the SMB, DLNA, or WebDAV protocols. This is the easiest way to bring an existing home music library — whether it lives on a Mac, a Windows PC, a Synology box, or a NAS — into Flacbox without copying anything.
 
 ## Connect to a Computer Using SMB
 
@@ -94,25 +94,25 @@ If the connection is successful, you will see the connected storage in the **Clo
 
 ## Connect to a NAS Using WebDAV
 
-All steps are the same as SMB, except for the URL field. The URL should be in the format `http://server-name` or `https://server-name` if the server supports SSL. WebDAV works with **Synology, QNAP, Nextcloud, ownCloud, WD My Cloud Home, Buffalo,** and many other servers — anywhere a WebDAV endpoint is available.
+All steps are the same as SMB, except for the URL field. The URL should be in the format `http://server-name` or `https://server-name` if the server supports SSL. WebDAV works with **Synology, QNAP, Nextcloud, ownCloud,** and many other servers — anywhere a WebDAV endpoint is available.
 
 A full tutorial on how to connect a NAS using WebDAV is available [here](/docs/howto/how-to-connect-nas-storage-using-webdav-and-listen-to-music-on-your-iphone-or-mac).
 
 ## Connect to a Computer or NAS Using DLNA
 
-You can also share a music library located on your Windows PC or personal NAS using the **DLNA / UPnP** protocol and access that library in the app as described [here](/docs/howto/how-to-enable-dlna-media-server-on-windows-10-and-play-your-music-on-iphone). DLNA is a popular, widely supported protocol, but it only allows you to play or download music — you cannot upload files or create new folders on a DLNA server.
+You can also share a music library located on your Windows PC or personal NAS using the DLNA / UPnP protocol and access that library in the app as described [here](/docs/howto/how-to-enable-dlna-media-server-on-windows-10-and-play-your-music-on-iphone). DLNA is a popular, widely supported protocol, but it only allows you to play or download music — you cannot upload files or create new folders on a DLNA server.
 
 ## Connect to a NAS or Server Using FTP, FTPS, or SFTP
 
-Flacbox also supports the classic file-transfer protocols. To connect a server over **FTP** or **FTPS**, tap **Connect to cloud storage → FTP**, enter the host URL in the form `ftp://server-name` (or `ftps://server-name` for an encrypted connection), provide your login and password, then tap **Done**. For **SFTP (SSH File Transfer Protocol)**, choose **SFTP** instead and supply either a password or an SSH key pair. Both work with NAS devices, Linux hosts, and any server that has an FTP / FTPS / SSH daemon.
+Flacbox also supports the classic file-transfer protocols. To connect a server over FTP or FTPS, tap **Connect to cloud storage → FTP**, enter the host URL in the form `ftp://server-name` (or `ftps://server-name` for an encrypted connection), provide your login and password, then tap **Done**. For **SFTP** (SSH File Transfer Protocol), choose **SFTP** instead and supply either a password or an SSH key pair. Both work with NAS devices, Linux hosts, and any server that has an FTP / FTPS / SSH daemon.
 
 ## Connect to an NFS Share
 
-Flacbox includes **NFS (Network File System)** support — handy for Linux hosts, BSD servers, and NAS devices that prefer to expose music libraries over NFS instead of SMB. Pick **NFS** in the **Connect to cloud storage** menu, enter the server address and exported path, and tap **Done**.
+Flacbox includes **NFS** (Network File System) support — handy for Linux hosts, BSD servers, and NAS devices that prefer to expose music libraries over NFS instead of SMB. Pick **NFS** in the **Connect to cloud storage** menu, enter the server address and exported path, and tap **Done**.
 
 ## Connect a Plex Media Server
 
-Flacbox can connect directly to a **Plex Media Server** and browse your music library by Artists, Albums, Genres, and Playlists. Tap **Connect to cloud storage → Plex**, sign in with your Plex account, pick a server, and the library appears alongside your cloud services. Plex servers on the same local network are also discovered automatically in the **Available Devices** section.
+Flacbox can connect directly to a Plex Media Server and browse your music library by Artists, Albums, Genres, and Playlists. Tap **Connect to cloud storage → Plex**, sign in with your Plex account, pick a server, and the library appears alongside your cloud services. Plex servers on the same local network are also discovered automatically in the **Available Devices** section.
 
 ## Connect a Jellyfin or Emby Server
 
@@ -120,11 +120,11 @@ Both **Jellyfin** (open-source) and **Emby** (commercial) media servers work nat
 
 ## Connect a Subsonic or Navidrome Server
 
-Flacbox speaks the **Subsonic API**, which means it works with **Subsonic** itself, **Navidrome**, and every other Subsonic-compatible server — including **Airsonic, Funkwhale, Gonic, Logitech Media Server (LMS),** and **Ampache**. Tap **Connect to cloud storage → Subsonic**, enter the server URL and credentials, and the library appears in the Connections screen. This is the easiest way to give Flacbox access to a self-hosted music collection without exposing the underlying file share.
+Flacbox speaks the Subsonic API, which means it works with **Subsonic** itself, **Navidrome**, and every other Subsonic-compatible server — including Airsonic, Funkwhale, Gonic, Logitech Media Server (LMS), Ampache. Tap **Connect to cloud storage → Subsonic**, enter the server URL and credentials, and the library appears in the Connections screen. This is the easiest way to give Flacbox access to a self-hosted music collection without exposing the underlying file share.
 
 ## Connect to S3-Compatible Object Storage
 
-For self-hosters and audiophiles using cloud object storage, Flacbox includes an **S3-compatible** connector. Tap **Connect to cloud storage → S3 storage**, then enter the endpoint URL, region, access key, secret key, and bucket name. This works with **AWS S3, Backblaze B2, Wasabi, Cloudflare R2, MinIO, DigitalOcean Spaces,** and any other service that exposes an S3-API endpoint.
+For self-hosters and audiophiles using cloud object storage, Flacbox includes an S3-compatible connector. Tap **Connect to cloud storage → S3 storage**, then enter the endpoint URL, region, access key, secret key, and bucket name. This works with AWS S3, Backblaze B2, Wasabi, Cloudflare R2, MinIO, DigitalOcean Spaces, and any other service that exposes an S3-API endpoint.
 
 ## Available Devices
 
@@ -134,7 +134,7 @@ This section displays every device on your local network that you can connect to
 - Tap the device you want to connect to.
 - If needed, enter your login details to complete the connection.
 
-This is the fastest way to discover an SMB, WebDAV, DLNA, or **Bluesound Vault** share on your home network without typing IP addresses manually.
+This is the fastest way to discover an SMB, WebDAV, DLNA share on your home network without typing IP addresses manually.
 
 {{< cards cols="1">}}
   {{< card title="" subtitle="Flacbox Available Devices on the Local Network" image="/docs/guide/flacbox/img/available-devies.webp" >}}
@@ -142,7 +142,7 @@ This is the fastest way to discover an SMB, WebDAV, DLNA, or **Bluesound Vault**
 
 ## Wi-Fi Drive
 
-**Wi-Fi Drive** is a convenient technology that enables wireless file transfers from your computer to your iOS device via any desktop browser. To use this feature effectively, ensure that your device and computer are connected to the same Wi-Fi network. Here is a step-by-step guide on how to use Wi-Fi Drive.
+Wi-Fi Drive is a convenient technology that enables wireless file transfers from your computer to your iOS device via any desktop browser. To use this feature effectively, ensure that your device and computer are connected to the same Wi-Fi network. Here is a step-by-step guide on how to use Wi-Fi Drive.
 
 ### Enable Wi-Fi Drive
 
@@ -162,15 +162,15 @@ This is the fastest way to discover an SMB, WebDAV, DLNA, or **Bluesound Vault**
 
 ### Transfer Files Wirelessly
 
-Once the web page corresponding to your iOS device opens in the browser, you can easily **drag and drop** files from your computer onto the web page. The files you drop will begin transferring to your iOS device and will be accessible inside Flacbox.
+Once the web page corresponding to your iOS device opens in the browser, you can easily drag and drop files from your computer onto the web page. The files you drop will begin transferring to your iOS device and will be accessible inside Flacbox.
 
-You can also mount Wi-Fi Drive directly in **Finder** on macOS (Go → Connect to Server…) or **File Explorer** on Windows (Map Network Drive…) and treat your iPhone or iPad as a regular network drive.
+You can also mount Wi-Fi Drive directly in Finder on macOS (Go → Connect to Server…) or File Explorer on Windows (Map Network Drive…) and treat your iPhone or iPad as a regular network drive.
 
 Detailed instructions on how to transfer files wirelessly using Wi-Fi Drive are available [here](/docs/howto/how-to-transfer-files-wirelessly-from-a-computer-to-an-iphone-using-wifi-drive).
 
 ## iTunes / Finder File Sharing
 
-**iTunes File Sharing** (now **Finder File Sharing** on macOS Catalina and later) is another way to transfer files from a computer to a device using a Lightning or USB-C cable.
+iTunes File Sharing (now Finder File Sharing on macOS Catalina and later) is another way to transfer files from a computer to a device using a Lightning or USB-C cable.
 
 - Connect the device to the computer using a cable and run **Finder** on Mac (or **iTunes** on Windows).
 - Open **Locations → Your Connected Device → Files** and find the Flacbox app.
@@ -181,17 +181,13 @@ Detailed instructions on how to use Finder File Sharing are available [here](/do
 
 ## Connect a USB Flash Drive
 
-If you have an SD card or USB drive, you can connect it using a **Lightning to USB / SD Card Reader** or a USB-C drive (on iPad and iPhone 15 / 16 / 17 / Pro). The app supports **Apple Certified card readers** and **iXpand Flash Drives**. With an iXpand Flash Drive, insert it into the Lightning port and open the application — you’ll see an **External Device Connected** message and the device information. Tap the flash drive icon to access the music folder and tap any audio file to start playing.
+If you have an SD card or USB drive, you can connect it using a Lightning to USB / SD Card Reader or a USB-C drive (on iPad and iPhone 15 / 16 / 17 / Pro). The app supports Apple Certified card readers and iXpand Flash Drives. With an iXpand Flash Drive, insert it into the Lightning port and open the application — you’ll see an External Device Connected message and the device information. Tap the flash drive icon to access the music folder and tap any audio file to start playing.
 
 We have detailed instructions on how to connect a USB flash drive to your iPhone and listen to music or manage files located on it [here](/docs/howto/how-to-connect-a-usb-flashcard-to-the-iphone-and-listen-to-music-or-manage-files-located-on-it).
 
 ## File Manager
 
-Once you’ve connected a cloud storage service, tap its icon to view all available files and folders. You can use the built-in file manager to work with these files — download, rename, move, upload, delete, and more. When you start a download, the file appears in the **transfer queue**. To open the transfer queue, go to the **Local Files** tab and tap the spinning-arrows icon in the top-left corner. All downloaded files and folders are available in the **Local Files** section.
-
-{{< cards cols="1">}}
-  {{< card title="" subtitle="Flacbox Browsing Folders on a Connected Cloud Service" image="/docs/guide/flacbox/img/connected-device-folders.webp" >}}
-{{< /cards >}}
+Once you’ve connected a cloud storage service, tap its icon to view all available files and folders. You can use the built-in file manager to work with these files — download, rename, move, upload, delete, and more. When you start a download, the file appears in the transfer queue. To open the transfer queue, go to the Local Files tab and tap the spinning-arrows icon in the top-left corner. All downloaded files and folders are available in the Local Files section.
 
 ## Top Toolbar
 
@@ -200,7 +196,7 @@ The top toolbar, conveniently located under the navigation bar, offers several u
 - **Search** — perform a quick search within the current directory, making it effortless to locate specific files or folders.
 - **Continue Playback** — if enabled in the application settings, this restores the audio player queue and the last media position for the current folder. A handy way to pick up where you left off.
 - **Play All** — scans the current folder and its subfolders, then adds all found audio files to a new player queue. Useful when you want to play every track in a directory.
-- **Shuffle All** — like **Play All**, but shuffles the files before adding them to the audio player queue. Great for rediscovering an old folder of music.
+- **Shuffle All** — like Play All, but shuffles the files before adding them to the audio player queue. Great for rediscovering an old folder of music.
 
 ## Folder Options
 
@@ -220,9 +216,9 @@ When you need to manage multiple files in your cloud storage, use **Selection Mo
 
 - **Activate Selection Mode** — tap the **"..."** button in the top-right corner and choose **Select**.
 - **Choose Files** — checkboxes appear next to every file and folder. Tap to select one or several items.
-- **Perform Actions** — once you’ve selected the files or folders, you’ll have access to **Play Next, Play Later, Add to Music Library, Add to a Playlist, Copy, Upload, Move, Rename,** and **Delete**.
+- **Perform Actions** — once you’ve selected the files or folders, you’ll have access to Play Next, Play Later, Add to Music Library, Add to a Playlist, Copy, Upload, Move, Rename, and Delete.
 
-If you’d rather treat connected cloud storage as read-only (to prevent accidental deletions), enable **Settings → File Manager → Edit Online Files → Off** to hide all destructive operations from the UI.
+If you’d rather treat connected cloud storage as read-only (to prevent accidental deletions), enable Settings → File Manager → Edit Online Files → Off to hide all destructive operations from the UI.
 
 ## File Actions
 
@@ -265,7 +261,7 @@ For each folder in your cloud storage, you have a wide variety of actions availa
 
 ## Quick Access
 
-The **Quick Access** section is located at the top of the screen. It gives you fast access to your favorite and recently opened files from connected cloud services. Whenever you open a file or folder from the cloud, it’s added to the **Recently Opened** list. To clear this list, open **Recents**, tap the **More Actions** button, and choose **Delete List**. You can also mark deeply nested folders as **Favorites** to access them quickly without digging through the directory structure.
+The Quick Access section is located at the top of the screen. It gives you fast access to your favorite and recently opened files from connected cloud services. Whenever you open a file or folder from the cloud, it’s added to the Recently Opened list. To clear this list, open Recents, tap the More Actions button, and choose Delete List. You can also mark deeply nested folders as Favorites to access them quickly without digging through the directory structure.
 
 {{< cards cols="1">}}
   {{< card title="" subtitle="Flacbox Online Links and Quick Access" image="/docs/guide/flacbox/img/online-links.webp" >}}
@@ -273,7 +269,7 @@ The **Quick Access** section is located at the top of the screen. It gives you f
 
 ## Other Services
 
-This section displays extra features that enhance your experience. Currently, the app supports **Last.fm scrobbling** — when connected, your playback statistics are automatically sent to your Last.fm account. You can later visit your Last.fm profile to view listening analytics and get personalized music recommendations. Detailed setup instructions are available [here](/docs/howto/how-to-scrobble-your-music-history-from-evermusic-or-flacbox-to-last-fm).
+This section displays extra features that enhance your experience. Currently, the app supports **Last.fm** scrobbling — when connected, your playback statistics are automatically sent to your Last.fm account. You can later visit your Last.fm profile to view listening analytics and get personalized music recommendations. Detailed setup instructions are available [here](/docs/howto/how-to-scrobble-your-music-history-from-evermusic-or-flacbox-to-last-fm).
 
 {{< cards cols="1">}}
   {{< card title="" subtitle="Flacbox Last.fm Connect" image="/docs/guide/flacbox/img/last-fm-connect.webp" >}}

@@ -17,7 +17,7 @@ readingTime: 8
 ---
 
 
-The **Local Files** section serves as a hub for managing files located in the application’s **Documents** folder, as well as files added from your device that are available for **offline playback**.
+The Local Files section serves as a hub for managing files located in the application’s Documents folder, as well as files added from your device that are available for offline playback.
 
 This built-in file manager allows you to edit files (rename, move, copy, upload, delete), monitor transfers, and offers several methods to import audio files into the app — direct downloads from the cloud, offline-mode sync, USB flash drives, Wi-Fi Drive, and Finder File Sharing.
 
@@ -47,11 +47,11 @@ Transfer files wirelessly using any desktop browser as described [here](/docs/ho
 
 ## Transfers Queue
 
-In the top-left corner of the navigation bar, you’ll find a **Transfers** button. Tap it to access the transfers queue, where you can monitor and manage every download and upload — pause, resume, retry failed transfers, and view detailed progress per item. You can also adjust the transfer queue speed (maximum parallel tasks) and network type in **Settings → File Manager**.
+In the top-left corner of the navigation bar, you’ll find a Transfers button. Tap it to access the transfers queue, where you can monitor and manage every download and upload — pause, resume, retry failed transfers, and view detailed progress per item. You can also adjust the transfer queue speed (maximum parallel tasks) and network type in Settings → File Manager.
 
 ## Quick Access Section
 
-At the top of the screen, a **Quick Access** section provides convenient links to your recent and favorite files and folders.
+At the top of the screen, a Quick Access section provides convenient links to your recent and favorite files and folders.
 
 ## Recents
 
@@ -59,7 +59,7 @@ This section displays every recently opened file or folder, so you can jump back
 
 ## Favorites
 
-You can mark files or folders as favorites and access them in this section. You can also add a folder located on your device to your favorites. To do this, open the **Favorites** section, tap the three dots in the top right corner, and choose **Add Folder**. Follow the prompts to add a folder from your device to favorites for quick access.
+You can mark files or folders as favorites and access them in this section. You can also add a folder located on your device to your favorites. To do this, open the Favorites section, tap the three dots in the top right corner, and choose Add Folder. Follow the prompts to add a folder from your device to favorites for quick access.
 
 ## Top Toolbar
 
@@ -68,21 +68,21 @@ The top toolbar, located under the navigation bar, offers several actions:
 - **Search** — perform a search within the current folder.
 - **Continue Playback** — if enabled in the application settings, this feature restores the audio player queue and the last media position for the current folder, allowing you to resume where you left off.
 - **Play All** — scan the current folder and its subfolders, then add files to the player queue with the current sort order.
-- **Shuffle All** — similar to **Play All**, but shuffles files before adding them to the audio player queue.
+- **Shuffle All** — similar to Play All, but shuffles files before adding them to the audio player queue.
 
 You can show or hide the top toolbar using a swipe-down gesture.
 
 ## Special Folders
 
-Within the **Local Files** screen, you’ll encounter several special folders that Flacbox uses to organize content.
+Within the Local Files screen, you’ll encounter several special folders that Flacbox uses to organize content.
 
 ## Downloads
 
-All files downloaded from a cloud storage service will appear here by default. You can customize this behavior in **Settings → File Manager → Save Downloaded Files To**.
+All files downloaded from a cloud storage service will appear here by default. You can customize this behavior in Settings → File Manager → Save Downloaded Files To.
 
 ## Audio Player
 
-This is the **audio player cache** folder. By default, the audio player downloads upcoming songs in the player queue to apply crossfade and optimize playback. You can disable the audio player cache in app settings or simply delete this folder from **Local Files** to free up space.
+This is the audio player cache folder. By default, the audio player downloads upcoming songs in the player queue to apply crossfade and optimize playback. You can disable the audio player cache in app settings or simply delete this folder from Local Files to free up space.
 
 ## iCloud
 
@@ -90,11 +90,11 @@ Place files in this folder, and they will sync across all your devices connected
 
 ## Offline Folders
 
-When you make a playlist, album, artist, or online folder available for offline use, all those files are downloaded into this folder. If you need to disable offline mode for specific items, you can use the **More Actions** menu or delete the corresponding folder located in **Offline Folders**.
+When you make a playlist, album, artist, or online folder available for offline use, all those files are downloaded into this folder. If you need to disable offline mode for specific items, you can use the More Actions menu or delete the corresponding folder located in Offline Folders.
 
 ## Two Distinct Sections
 
-The **Local Files** screen is organized into two distinct sections.
+The Local Files screen is organized into two distinct sections.
 
 ### Files in This Application
 
@@ -104,7 +104,11 @@ Shows files and folders stored in the app’s Documents directory and iCloud Dri
 
 Shows files located on your device but in different applications. You can import them into this application using the system file picker. To activate the picker, choose **Open Files…** to select files or **Open Folders…** to select folders. Detailed instructions on how to import local music stored on your iPhone or Mac are available [here](/docs/howto/how-to-play-local-music-stored-on-your-iphone-or-mac).
 
-You can also connect a folder located on your device and have quick access to its content. Use the **Connect a Folder** menu item and choose a folder located on your device. Tap **Done**, and the app creates a link to that folder with **read / write** access, allowing you to manage files directly from this app. To disconnect a folder located on your device, tap the **More Actions** button and choose **Disconnect**.
+{{< cards cols="1">}}
+  {{< card title="" subtitle="Flacbox Connected Device Folders" image="/docs/guide/flacbox/img/connected-device-folders.webp" >}}
+{{< /cards >}}
+
+You can also connect a folder located on your device and have quick access to its content. Use the **Connect a Folder** menu item and choose a folder located on your device. Tap **Done**, and the app creates a link to that folder with read / write access, allowing you to manage files directly from this app. To disconnect a folder located on your device, tap the **More Actions** button and choose **Disconnect**.
 
 ## Import Files Located on Connected USB Flash Drives
 
@@ -112,7 +116,7 @@ Detailed instructions on how to connect a USB flash drive to your iPhone and lis
 
 ## More Actions
 
-The **More Actions** menu for the currently opened folder is located in the top-right corner and provides access to various actions.
+The More Actions menu for the currently opened folder is located in the top-right corner and provides access to various actions.
 
 - **Select** — switch to selection mode for files and folders.
 - **New Folder** — create a new folder within the current folder.
@@ -177,7 +181,8 @@ Detailed instructions on how to play offline music in Flacbox — including how 
 
 ## Personalization
 
-By opening the application settings and going to **Personalization → Local Files Screen Style**, you can configure the Local Files presentation. Available options are:
+By opening the application settings and going to Personalization → Local Files Screen Style, you can configure the Local Files presentation. 
+Available options are:
 
 - **Plain Menu** — shows folders located in the app’s Documents directory directly.
 - **Grouped Menu** — shows screen content grouped by categories (Quick Access, Special Folders, Files in This Application, Files on This Device, and so on) for a tidier overview.

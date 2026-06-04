@@ -19,7 +19,7 @@ readingTime: 11
 ---
 
 
-Managing your music library is a breeze with Flacbox, where you can effortlessly organize all your tracks — local FLAC, ALAC, DSD, MP3, M4A, OGG, WMA, APE, and dozens of other formats — into a single, searchable collection. You have two options for building your music library: **manual addition** (you pick exactly what gets added) or **automatic synchronization** (Flacbox scans designated cloud folders and adds new files automatically as they appear).
+Managing your music library is a breeze with Flacbox, where you can effortlessly organize all your tracks — local FLAC, ALAC, DSD, MP3, M4A, OGG, WMA, APE, and dozens of other formats — into a single, searchable collection. You have two options for building your music library: manual addition (you pick exactly what gets added) or automatic synchronization (Flacbox scans designated cloud folders and adds new files automatically as they appear).
 
 {{< cards cols="1">}}
   {{< card title="" subtitle="Flacbox Music Library Albums View" image="/docs/guide/flacbox/img/media-library-albums.webp" >}}
@@ -27,7 +27,7 @@ Managing your music library is a breeze with Flacbox, where you can effortlessly
 
 ## Manual Addition
 
-To manually add tracks, tap the **Add Music** icon located in the top-left corner and pick folders or files from a connected cloud storage service or files located on your device. When you add tracks to the library, only **links** to those tracks are created — the actual files stay in their original locations to save valuable disk space. If you want to make tracks available offline, you can use the **Download** action from the options menu or enable **Offline Mode** for playlists and track collections.
+To manually add tracks, tap the **Add Music** icon located in the top-left corner and pick folders or files from a connected cloud storage service or files located on your device. When you add tracks to the library, only links to those tracks are created — the actual files stay in their original locations to save valuable disk space. If you want to make tracks available offline, you can use the Download action from the options menu or enable Offline Mode for playlists and track collections.
 
 {{< cards cols="1">}}
   {{< card title="" subtitle="Flacbox Add Songs to the Music Library" image="/docs/guide/flacbox/img/library-add-songs.webp" >}}
