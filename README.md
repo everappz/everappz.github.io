@@ -2,6 +2,8 @@
 
 Official website for [Everappz](https://everappz.com) — a small team building iOS and Mac apps for audio, video, and file management with over 14 million downloads worldwide.
 
+![Everappz website screenshot](screenshots/everappz.com.png)
+
 ## Apps
 
 - **Evermusic** — Offline music player with cloud streaming, equalizer, and playlist management
