@@ -5,7 +5,6 @@
   {{ $url := cond (ne (.Params.redirect_url | default "") "") .Params.redirect_url .Permalink }}
   <title>{{ $url }}</title>
   <link rel="canonical" href="{{ $url }}">
-  <!-- removed meta name="robots" -->
   <meta charset="utf-8">
   <meta http-equiv="refresh" content="0; url={{ $url }}">
 </head>
@@ -16,6 +15,7 @@
       If it doesn't happen automatically, please click the link below:</p>
     <p><a href="{{ $url }}">{{ $url }}</a></p>
   </div>
+  <script>location.replace({{ $url | jsonify | safeJS }});</script>
 </body>
 
 </html>
