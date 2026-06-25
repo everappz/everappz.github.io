@@ -39,7 +39,7 @@ We zijn hier om betere software te blijven bouwen — één doordachte update te
     link="https://www.linkedin.com/in/artem-meleshko-s/"
     title="Artem Meleshko"
     tag="Oprichter & Ingenieur"
-    subtitle="Senior ingenieur en oprichter van Everappz. Maker van Evermusic, Flacbox, Evervideo en Evertag."
+    subtitle="Senior ingenieur en oprichter van Everappz."
     image="/images/about/artem-meleshko-founder-everappz.webp"
     imageStyle="width: 80px; height: 80px; border-radius: 50%; object-fit: cover; margin-left: 1rem; margin-top: 1rem; align-self: start; flex-shrink: 0;"
   >}}
@@ -64,7 +64,7 @@ Hij studeerde aan de Admiral Makarov Nationale Universiteit voor Scheepsbouw, is
     link="https://www.linkedin.com/in/anna-kosenko-kosenko/"
     title="Anna Kosenko"
     tag="Medeoprichter & Administrator"
-    subtitle="Productmanager, hoofd klantrelaties en administrator bij Everappz."
+    subtitle="Administrator bij Everappz."
     image="/images/about/anna-kosenko-cofounder-everappz.webp"
     imageStyle="width: 80px; height: 80px; border-radius: 50%; object-fit: cover; margin-left: 1rem; margin-top: 1rem; align-self: start; flex-shrink: 0;"
   >}}

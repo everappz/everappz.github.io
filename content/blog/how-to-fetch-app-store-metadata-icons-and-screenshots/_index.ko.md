@@ -20,7 +20,7 @@ cascade:
 authors:
   - name: "Artem Meleshko"
     link: "https://www.linkedin.com/in/artem-meleshko/"
-    image: "/images/about/artem-meleshko-cofounder-everappz.webp"
+    image: "/images/about/artem-meleshko-founder-everappz.webp"
 ---
 
 {{< author-byline >}}

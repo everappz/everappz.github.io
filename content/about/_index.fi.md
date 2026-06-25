@@ -39,7 +39,7 @@ Olemme täällä jatkamassa paremman ohjelmiston rakentamista — yksi harkittu 
     link="https://www.linkedin.com/in/artem-meleshko-s/"
     title="Artem Meleshko"
     tag="Perustaja ja insinööri"
-    subtitle="Vanhempi insinööri ja Everappzin perustaja. Evermusic-, Flacbox-, Evervideo- ja Evertag-sovellusten luoja."
+    subtitle="Vanhempi insinööri ja Everappzin perustaja."
     image="/images/about/artem-meleshko-founder-everappz.webp"
     imageStyle="width: 80px; height: 80px; border-radius: 50%; object-fit: cover; margin-left: 1rem; margin-top: 1rem; align-self: start; flex-shrink: 0;"
   >}}
@@ -64,7 +64,7 @@ Hän opiskeli Admiral Makarovin kansallisessa laivanrakennusyliopistossa, on akt
     link="https://www.linkedin.com/in/anna-kosenko-kosenko/"
     title="Anna Kosenko"
     tag="Perustajajäsen ja hallintojohtaja"
-    subtitle="Tuotepäällikkö, asiakassuhteiden vastaava ja hallintojohtaja Everappzilla."
+    subtitle="Hallintojohtaja Everappzilla."
     image="/images/about/anna-kosenko-cofounder-everappz.webp"
     imageStyle="width: 80px; height: 80px; border-radius: 50%; object-fit: cover; margin-left: 1rem; margin-top: 1rem; align-self: start; flex-shrink: 0;"
   >}}

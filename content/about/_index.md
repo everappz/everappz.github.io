@@ -41,7 +41,7 @@ We're here to keep building better software — one thoughtful update at a time.
     link="https://www.linkedin.com/in/artem-meleshko-s/"
     title="Artem Meleshko"
     tag="Founder & Engineer"
-    subtitle="Senior Engineer and Founder of Everappz. Creator of Evermusic, Flacbox, Evervideo, and Evertag."
+    subtitle="Senior Engineer and Founder of Everappz."
     image="/images/about/artem-meleshko-founder-everappz.webp"
     imageStyle="width: 80px; height: 80px; border-radius: 50%; object-fit: cover; margin-left: 1rem; margin-top: 1rem; align-self: start; flex-shrink: 0;"
   >}}
@@ -66,7 +66,7 @@ He studied at Admiral Makarov National University of Shipbuilding, is an active 
     link="https://www.linkedin.com/in/anna-kosenko-kosenko/"
     title="Anna Kosenko"
     tag="Co-Founder & Administrator"
-    subtitle="Product manager, customer relations lead, and administrator at Everappz."
+    subtitle="Administrator at Everappz."
     image="/images/about/anna-kosenko-cofounder-everappz.webp"
     imageStyle="width: 80px; height: 80px; border-radius: 50%; object-fit: cover; margin-left: 1rem; margin-top: 1rem; align-self: start; flex-shrink: 0;"
   >}}

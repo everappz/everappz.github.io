@@ -39,7 +39,7 @@ Kami di sini untuk terus membina perisian yang lebih baik — satu kemas kini ya
     link="https://www.linkedin.com/in/artem-meleshko-s/"
     title="Artem Meleshko"
     tag="Pengasas & Jurutera"
-    subtitle="Jurutera Kanan dan Pengasas Everappz. Pencipta Evermusic, Flacbox, Evervideo dan Evertag."
+    subtitle="Jurutera Kanan dan Pengasas Everappz."
     image="/images/about/artem-meleshko-founder-everappz.webp"
     imageStyle="width: 80px; height: 80px; border-radius: 50%; object-fit: cover; margin-left: 1rem; margin-top: 1rem; align-self: start; flex-shrink: 0;"
   >}}
@@ -64,7 +64,7 @@ Beliau belajar di Universiti Pembinaan Kapal Kebangsaan Admiral Makarov, penyumb
     link="https://www.linkedin.com/in/anna-kosenko-kosenko/"
     title="Anna Kosenko"
     tag="Pengasas Bersama & Pentadbir"
-    subtitle="Pengurus produk, ketua hubungan pelanggan dan pentadbir di Everappz."
+    subtitle="Pentadbir di Everappz."
     image="/images/about/anna-kosenko-cofounder-everappz.webp"
     imageStyle="width: 80px; height: 80px; border-radius: 50%; object-fit: cover; margin-left: 1rem; margin-top: 1rem; align-self: start; flex-shrink: 0;"
   >}}

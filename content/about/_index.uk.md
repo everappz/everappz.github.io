@@ -39,7 +39,7 @@ Everappz S.L. — незалежна software-компанія, що базує�
     link="https://www.linkedin.com/in/artem-meleshko-s/"
     title="Artem Meleshko"
     tag="Засновник & інженер"
-    subtitle="Старший інженер та засновник Everappz. Творець Evermusic, Flacbox, Evervideo та Evertag."
+    subtitle="Старший інженер та засновник Everappz."
     image="/images/about/artem-meleshko-founder-everappz.webp"
     imageStyle="width: 80px; height: 80px; border-radius: 50%; object-fit: cover; margin-left: 1rem; margin-top: 1rem; align-self: start; flex-shrink: 0;"
   >}}
@@ -64,7 +64,7 @@ Artem Meleshko — старший інженер та засновник Everapp
     link="https://www.linkedin.com/in/anna-kosenko-kosenko/"
     title="Anna Kosenko"
     tag="Співзасновниця & адміністратор"
-    subtitle="Продуктовий менеджер, відповідальна за роботу з клієнтами та адміністратор в Everappz."
+    subtitle="Адміністратор в Everappz."
     image="/images/about/anna-kosenko-cofounder-everappz.webp"
     imageStyle="width: 80px; height: 80px; border-radius: 50%; object-fit: cover; margin-left: 1rem; margin-top: 1rem; align-self: start; flex-shrink: 0;"
   >}}

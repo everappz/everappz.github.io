@@ -39,7 +39,7 @@ Daha iyi yazılım oluşturmaya devam etmek için buradayız — her seferinde d
     link="https://www.linkedin.com/in/artem-meleshko-s/"
     title="Artem Meleshko"
     tag="Kurucu & Mühendis"
-    subtitle="Kıdemli Mühendis ve Everappz'ın kurucusu. Evermusic, Flacbox, Evervideo ve Evertag'ın yaratıcısı."
+    subtitle="Kıdemli Mühendis ve Everappz'ın kurucusu."
     image="/images/about/artem-meleshko-founder-everappz.webp"
     imageStyle="width: 80px; height: 80px; border-radius: 50%; object-fit: cover; margin-left: 1rem; margin-top: 1rem; align-self: start; flex-shrink: 0;"
   >}}
@@ -64,7 +64,7 @@ Admiral Makarov Ulusal Gemi İnşa Üniversitesi'nde eğitim görmüş, GitHub'd
     link="https://www.linkedin.com/in/anna-kosenko-kosenko/"
     title="Anna Kosenko"
     tag="Kurucu Ortak & Yönetici"
-    subtitle="Everappz'da ürün yöneticisi, müşteri ilişkileri sorumlusu ve yönetici."
+    subtitle="Everappz'da yönetici."
     image="/images/about/anna-kosenko-cofounder-everappz.webp"
     imageStyle="width: 80px; height: 80px; border-radius: 50%; object-fit: cover; margin-left: 1rem; margin-top: 1rem; align-self: start; flex-shrink: 0;"
   >}}

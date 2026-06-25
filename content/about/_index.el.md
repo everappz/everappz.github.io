@@ -39,7 +39,7 @@ description: 'Η Everappz S.L. είναι μια ισπανική εταιρεί
     link="https://www.linkedin.com/in/artem-meleshko-s/"
     title="Artem Meleshko"
     tag="Ιδρυτής & Μηχανικός"
-    subtitle="Senior Μηχανικός και ιδρυτής της Everappz. Δημιουργός των Evermusic, Flacbox, Evervideo και Evertag."
+    subtitle="Senior Μηχανικός και ιδρυτής της Everappz."
     image="/images/about/artem-meleshko-founder-everappz.webp"
     imageStyle="width: 80px; height: 80px; border-radius: 50%; object-fit: cover; margin-left: 1rem; margin-top: 1rem; align-self: start; flex-shrink: 0;"
   >}}
@@ -64,7 +64,7 @@ description: 'Η Everappz S.L. είναι μια ισπανική εταιρεί
     link="https://www.linkedin.com/in/anna-kosenko-kosenko/"
     title="Anna Kosenko"
     tag="Συνιδρύτρια & Διαχειρίστρια"
-    subtitle="Υπεύθυνη προϊόντος, υπεύθυνη σχέσεων με πελάτες και διαχειρίστρια στην Everappz."
+    subtitle="Διαχειρίστρια στην Everappz."
     image="/images/about/anna-kosenko-cofounder-everappz.webp"
     imageStyle="width: 80px; height: 80px; border-radius: 50%; object-fit: cover; margin-left: 1rem; margin-top: 1rem; align-self: start; flex-shrink: 0;"
   >}}

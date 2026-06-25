@@ -39,7 +39,7 @@ Suntem aici pentru a continua să construim software mai bun — câte o actuali
     link="https://www.linkedin.com/in/artem-meleshko-s/"
     title="Artem Meleshko"
     tag="Fondator & Inginer"
-    subtitle="Inginer senior și fondator al Everappz. Creatorul Evermusic, Flacbox, Evervideo și Evertag."
+    subtitle="Inginer senior și fondator al Everappz."
     image="/images/about/artem-meleshko-founder-everappz.webp"
     imageStyle="width: 80px; height: 80px; border-radius: 50%; object-fit: cover; margin-left: 1rem; margin-top: 1rem; align-self: start; flex-shrink: 0;"
   >}}
@@ -64,7 +64,7 @@ A studiat la Universitatea Națională de Construcții Navale Admiral Makarov, e
     link="https://www.linkedin.com/in/anna-kosenko-kosenko/"
     title="Anna Kosenko"
     tag="Cofondatoare & Administrator"
-    subtitle="Manager de produs, responsabil relații cu clienții și administrator la Everappz."
+    subtitle="Administrator la Everappz."
     image="/images/about/anna-kosenko-cofounder-everappz.webp"
     imageStyle="width: 80px; height: 80px; border-radius: 50%; object-fit: cover; margin-left: 1rem; margin-top: 1rem; align-self: start; flex-shrink: 0;"
   >}}
