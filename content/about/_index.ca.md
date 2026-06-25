@@ -64,7 +64,7 @@ Va estudiar a la Universitat Nacional de Construcció Naval Admiral Makarov, és
     link="https://www.linkedin.com/in/anna-kosenko-kosenko/"
     title="Anna Kosenko"
     tag="Cofundadora i Administradora"
-    subtitle="Administradora a Everappz."
+    subtitle="Administradora i cofundadora d'Everappz."
     image="/images/about/anna-kosenko-cofounder-everappz.webp"
     imageStyle="width: 80px; height: 80px; border-radius: 50%; object-fit: cover; margin-left: 1rem; margin-top: 1rem; align-self: start; flex-shrink: 0;"
   >}}

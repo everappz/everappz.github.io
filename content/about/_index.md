@@ -66,7 +66,7 @@ He studied at Admiral Makarov National University of Shipbuilding, is an active 
     link="https://www.linkedin.com/in/anna-kosenko-kosenko/"
     title="Anna Kosenko"
     tag="Co-Founder & Administrator"
-    subtitle="Administrator at Everappz."
+    subtitle="Administrator and Co-Founder of Everappz."
     image="/images/about/anna-kosenko-cofounder-everappz.webp"
     imageStyle="width: 80px; height: 80px; border-radius: 50%; object-fit: cover; margin-left: 1rem; margin-top: 1rem; align-self: start; flex-shrink: 0;"
   >}}

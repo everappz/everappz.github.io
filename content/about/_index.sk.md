@@ -64,7 +64,7 @@ Pod značkou Everappz Artem tiež vytvoril Flacbox (hi-res bezstratový audio pr
     link="https://www.linkedin.com/in/anna-kosenko-kosenko/"
     title="Anna Kosenko"
     tag="Spoluzakladateľka & Administrátorka"
-    subtitle="Administrátorka v Everappz."
+    subtitle="Administrátorka a spoluzakladateľka Everappz."
     image="/images/about/anna-kosenko-cofounder-everappz.webp"
     imageStyle="width: 80px; height: 80px; border-radius: 50%; object-fit: cover; margin-left: 1rem; margin-top: 1rem; align-self: start; flex-shrink: 0;"
   >}}

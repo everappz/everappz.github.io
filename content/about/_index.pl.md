@@ -64,7 +64,7 @@ Studiował na Narodowym Uniwersytecie Budowy Okrętów im. Admirała Makarowa, j
     link="https://www.linkedin.com/in/anna-kosenko-kosenko/"
     title="Anna Kosenko"
     tag="Współzałożycielka & Administrator"
-    subtitle="Administrator w Everappz."
+    subtitle="Administrator i współzałożycielka Everappz."
     image="/images/about/anna-kosenko-cofounder-everappz.webp"
     imageStyle="width: 80px; height: 80px; border-radius: 50%; object-fit: cover; margin-left: 1rem; margin-top: 1rem; align-self: start; flex-shrink: 0;"
   >}}

@@ -64,7 +64,7 @@ Studirao je na Nacionalnom sveučilištu za brodogradnju Admiral Makarov, aktiva
     link="https://www.linkedin.com/in/anna-kosenko-kosenko/"
     title="Anna Kosenko"
     tag="Suosnivačica i administratorica"
-    subtitle="Administratorica u Everappzu."
+    subtitle="Administratorica i suosnivačica Everappza."
     image="/images/about/anna-kosenko-cofounder-everappz.webp"
     imageStyle="width: 80px; height: 80px; border-radius: 50%; object-fit: cover; margin-left: 1rem; margin-top: 1rem; align-self: start; flex-shrink: 0;"
   >}}

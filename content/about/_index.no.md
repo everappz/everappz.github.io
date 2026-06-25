@@ -64,7 +64,7 @@ Han studerte ved Admiral Makarov Nasjonale Universitet for Skipbygging, er en ak
     link="https://www.linkedin.com/in/anna-kosenko-kosenko/"
     title="Anna Kosenko"
     tag="Medgrunnlegger & Administrator"
-    subtitle="Administrator hos Everappz."
+    subtitle="Administrator og medgrunnlegger hos Everappz."
     image="/images/about/anna-kosenko-cofounder-everappz.webp"
     imageStyle="width: 80px; height: 80px; border-radius: 50%; object-fit: cover; margin-left: 1rem; margin-top: 1rem; align-self: start; flex-shrink: 0;"
   >}}

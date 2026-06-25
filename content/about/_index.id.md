@@ -64,7 +64,7 @@ Dia belajar di Universitas Nasional Pembuatan Kapal Admiral Makarov, kontributor
     link="https://www.linkedin.com/in/anna-kosenko-kosenko/"
     title="Anna Kosenko"
     tag="Co-Founder & Administrator"
-    subtitle="Administrator di Everappz."
+    subtitle="Administrator dan Co-Founder Everappz."
     image="/images/about/anna-kosenko-cofounder-everappz.webp"
     imageStyle="width: 80px; height: 80px; border-radius: 50%; object-fit: cover; margin-left: 1rem; margin-top: 1rem; align-self: start; flex-shrink: 0;"
   >}}

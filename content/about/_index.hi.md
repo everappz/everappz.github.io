@@ -64,7 +64,7 @@ Everappz ब्रांड के तहत, Artem ने Flacbox (ऑडिय
     link="https://www.linkedin.com/in/anna-kosenko-kosenko/"
     title="Anna Kosenko"
     tag="सह-संस्थापक और प्रशासक"
-    subtitle="Everappz में प्रशासक।"
+    subtitle="Everappz की प्रशासक और सह-संस्थापक।"
     image="/images/about/anna-kosenko-cofounder-everappz.webp"
     imageStyle="width: 80px; height: 80px; border-radius: 50%; object-fit: cover; margin-left: 1rem; margin-top: 1rem; align-self: start; flex-shrink: 0;"
   >}}

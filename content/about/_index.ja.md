@@ -64,7 +64,7 @@ Everappzブランドの下で、ArtemはFlacbox（オーディオファイル向
     link="https://www.linkedin.com/in/anna-kosenko-kosenko/"
     title="Anna Kosenko"
     tag="共同創設者兼管理者"
-    subtitle="Everappzの管理者。"
+    subtitle="Everappzの管理者兼共同創設者。"
     image="/images/about/anna-kosenko-cofounder-everappz.webp"
     imageStyle="width: 80px; height: 80px; border-radius: 50%; object-fit: cover; margin-left: 1rem; margin-top: 1rem; align-self: start; flex-shrink: 0;"
   >}}
