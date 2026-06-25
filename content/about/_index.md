@@ -72,7 +72,7 @@ He studied at Admiral Makarov National University of Shipbuilding, is an active 
   >}}
 {{< /cards >}}
 
-Anna Kosenko is Co-Founder and Administrator at Everappz, where she wears many hats — product manager, customer relations lead, support team coordinator, and administrator.
+Anna Kosenko is Co-Founder and Administrator at Everappz.
 
 Her path to tech started in customer-facing roles in Spain's hospitality industry, where she spent years working directly with people and building strong relationships.
 

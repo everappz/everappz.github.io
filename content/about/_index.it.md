@@ -32,43 +32,20 @@ Siamo qui per continuare a creare software migliore — un aggiornamento pondera
 
 ## Il nostro team
 
-### Anna Kosenko
-
-{{< cards cols="1" >}}
-  {{< card
-    link="https://www.linkedin.com/in/anna-kosenko-kosenko/"
-    title="Anna Kosenko"
-    tag="Co-Founder & Direttrice"
-    subtitle="Product manager, responsabile delle relazioni con i clienti e amministratrice presso Everappz."
-    image="/images/about/anna-kosenko-cofounder-everappz.webp"
-    imageStyle="width: 80px; height: 80px; border-radius: 50%; object-fit: cover; margin-left: 1rem; margin-top: 1rem; align-self: start; flex-shrink: 0;"
-  >}}
-{{< /cards >}}
-
-Anna Kosenko è cofondatrice e direttrice presso Everappz, dove ricopre molteplici ruoli — product manager, responsabile delle relazioni con i clienti, coordinatrice del team di supporto e amministratrice.
-
-Il suo percorso verso la tecnologia è iniziato in ruoli a contatto con i clienti nell'industria dell'ospitalità spagnola, dove ha trascorso anni lavorando direttamente con le persone e costruendo relazioni solide. Quell'esperienza le ha dato qualcosa che la maggior parte dei product manager non ha: una comprensione profonda e diretta di ciò che i clienti vogliono realmente, non ciò che dicono di volere.
-
-È passata al mondo della tecnologia spinta da una genuina passione per la tecnologia mobile. Ama scoprire nuove funzionalità e trucchi di iOS e ha una visione naturale su come trasformare funzionalità complesse in app semplici e intuitive. Presso Everappz, è lei che si assicura che ogni funzionalità abbia senso per gli utenti reali — non solo per gli sviluppatori.
-
-Anna si è laureata con lode (Matrícula de Honor) in Amministrazione Aziendale e Finanza presso il Colegio Internacional Lope de Vega. Possiede anche certificazioni in risoluzione dei conflitti e mediazione e comunicazione aziendale efficace. Risiede ad Alicante, Spagna.
-
-
-
 ### Artem Meleshko
 
 {{< cards cols="1" >}}
   {{< card
     link="https://www.linkedin.com/in/artem-meleshko-s/"
     title="Artem Meleshko"
-    tag="Co-Founder & Ingegnere iOS"
-    subtitle="Senior iOS Developer e cofondatore di Everappz. Creatore di Evermusic, Flacbox, Evervideo ed Evertag."
-    image="/images/about/artem-meleshko-cofounder-everappz.webp"
+    tag="Fondatore e Ingegnere"
+    subtitle="Senior Engineer e Fondatore di Everappz. Creatore di Evermusic, Flacbox, Evervideo ed Evertag."
+    image="/images/about/artem-meleshko-founder-everappz.webp"
     imageStyle="width: 80px; height: 80px; border-radius: 50%; object-fit: cover; margin-left: 1rem; margin-top: 1rem; align-self: start; flex-shrink: 0;"
   >}}
 {{< /cards >}}
 
-Artem Meleshko è un Senior iOS Developer e cofondatore di Everappz, uno studio di app con sede in Spagna dietro alcune delle app per la riproduzione multimediale più popolari sull'App Store.
+Artem Meleshko è un Senior Engineer e Fondatore di Everappz, uno studio di app con sede in Spagna dietro alcune delle app per la riproduzione multimediale più popolari sull'App Store.
 
 La sua storia è iniziata nel 2006, sviluppando giochi e applicazioni mobili per i telefoni Java (J2ME) popolari dell'epoca. Nel 2009, è passato allo sviluppo iOS, trascorrendo anni a lavorare per grandi aziende e acquisendo preziosa esperienza nell'ingegneria professionale delle app — creando prodotti utilizzati da decine di milioni di persone in tutto il mondo.
 
@@ -79,6 +56,27 @@ La sua app di punta, Evermusic, è un lettore musicale cloud e offline che è st
 Sotto il marchio Everappz, Artem ha anche creato Flacbox (un lettore audio lossless ad alta risoluzione per audiofili), Evervideo (un lettore video HD con supporto per sottotitoli e 360°) ed Evertag (un editor di metadati musicali che supporta 120+ campi tag con modifica in batch).
 
 Ha studiato all'Università Nazionale di Costruzione Navale Admiral Makarov, è un contributore attivo open-source su GitHub e risiede in Spagna.
+
+### Anna Kosenko
+
+{{< cards cols="1" >}}
+  {{< card
+    link="https://www.linkedin.com/in/anna-kosenko-kosenko/"
+    title="Anna Kosenko"
+    tag="Co-Fondatrice e Amministratrice"
+    subtitle="Product manager, responsabile delle relazioni con i clienti e amministratrice presso Everappz."
+    image="/images/about/anna-kosenko-cofounder-everappz.webp"
+    imageStyle="width: 80px; height: 80px; border-radius: 50%; object-fit: cover; margin-left: 1rem; margin-top: 1rem; align-self: start; flex-shrink: 0;"
+  >}}
+{{< /cards >}}
+
+Anna Kosenko è cofondatrice e amministratrice presso Everappz.
+
+Il suo percorso verso la tecnologia è iniziato in ruoli a contatto con i clienti nell'industria dell'ospitalità spagnola, dove ha trascorso anni lavorando direttamente con le persone e costruendo relazioni solide.
+
+È passata al mondo della tecnologia spinta da una genuina passione per la tecnologia mobile. Ama scoprire nuove funzionalità e trucchi di iOS e ha una visione naturale su come trasformare funzionalità complesse in app semplici e intuitive.
+
+Anna si è laureata con lode (Matrícula de Honor) in Amministrazione Aziendale e Finanza presso il Colegio Internacional Lope de Vega. Possiede anche certificazioni in risoluzione dei conflitti e mediazione e comunicazione aziendale efficace. Risiede ad Alicante, Spagna.
 
 ## Contattaci
 

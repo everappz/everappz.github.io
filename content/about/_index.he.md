@@ -32,43 +32,20 @@ Everappz S.L. היא חברת תוכנה עצמאית הממוקמת בספרד.
 
 ## הצוות שלנו
 
-### Anna Kosenko
-
-{{< cards cols="1" >}}
-  {{< card
-    link="https://www.linkedin.com/in/anna-kosenko-kosenko/"
-    title="Anna Kosenko"
-    tag="Co-Founder & דירקטורית"
-    subtitle="מנהלת מוצר, אחראית קשרי לקוחות ומנהלת ב-Everappz."
-    image="/images/about/anna-kosenko-cofounder-everappz.webp"
-    imageStyle="width: 80px; height: 80px; border-radius: 50%; object-fit: cover; margin-left: 1rem; margin-top: 1rem; align-self: start; flex-shrink: 0;"
-  >}}
-{{< /cards >}}
-
-Anna Kosenko היא שותפה מייסדת ודירקטורית ב-Everappz, שם היא ממלאה תפקידים רבים — מנהלת מוצר, אחראית קשרי לקוחות, מתאמת צוות תמיכה ומנהלת.
-
-הדרך שלה לעולם הטכנולוגיה התחילה בתפקידים מול לקוחות בתעשיית האירוח בספרד, שם היא עבדה שנים ישירות מול אנשים ובנתה מערכות יחסים חזקות. הניסיון הזה נתן לה משהו שרוב מנהלי המוצר חסרים: הבנה עמוקה וישירה של מה שלקוחות באמת רוצים, לא מה שהם אומרים שהם רוצים.
-
-היא עברה לעולם הטכנולוגיה מתוך תשוקה אמיתית לטכנולוגיה מובילית. היא אוהבת לגלות תכונות וטריקים חדשים ב-iOS, ויש לה חזון טבעי כיצד להפוך פונקציונליות מורכבת לאפליקציות פשוטות ואינטואיטיביות. ב-Everappz, היא זו שמוודאת שכל תכונה הגיונית למשתמשים אמיתיים — לא רק למפתחים.
-
-Anna סיימה בהצטיינות יתרה (Matrícula de Honor) את לימודי מנהל עסקים ומימון ב-Colegio Internacional Lope de Vega. היא מחזיקה גם בהסמכות בפתרון סכסוכים וגישור ובתקשורת עסקית אפקטיבית. היא מתגוררת באליקנטה, ספרד.
-
-
-
 ### Artem Meleshko
 
 {{< cards cols="1" >}}
   {{< card
     link="https://www.linkedin.com/in/artem-meleshko-s/"
     title="Artem Meleshko"
-    tag="Co-Founder & מהנדס iOS"
-    subtitle="מפתח iOS בכיר ושותף מייסד של Everappz. יוצר Evermusic, Flacbox, Evervideo ו-Evertag."
-    image="/images/about/artem-meleshko-cofounder-everappz.webp"
+    tag="מייסד ומהנדס"
+    subtitle="מהנדס בכיר ומייסד של Everappz. יוצר Evermusic, Flacbox, Evervideo ו-Evertag."
+    image="/images/about/artem-meleshko-founder-everappz.webp"
     imageStyle="width: 80px; height: 80px; border-radius: 50%; object-fit: cover; margin-left: 1rem; margin-top: 1rem; align-self: start; flex-shrink: 0;"
   >}}
 {{< /cards >}}
 
-Artem Meleshko הוא מפתח iOS בכיר ושותף מייסד של Everappz, סטודיו אפליקציות הממוקם בספרד מאחורי כמה מאפליקציות נגני המדיה הפופולריות ביותר ב-App Store.
+Artem Meleshko הוא מהנדס בכיר ומייסד של Everappz, סטודיו אפליקציות הממוקם בספרד מאחורי כמה מאפליקציות נגני המדיה הפופולריות ביותר ב-App Store.
 
 הסיפור שלו התחיל ב-2006, עם פיתוח משחקים ואפליקציות מובייל לטלפוני Java (J2ME) הפופולריים של אותה תקופה. ב-2009, הוא עבר לפיתוח iOS, ועבד שנים עבור חברות גדולות וצבר ניסיון יקר ערך בהנדסת אפליקציות מקצועית — בניית מוצרים שמשמשים עשרות מיליוני אנשים ברחבי העולם.
 
@@ -79,6 +56,27 @@ Artem Meleshko הוא מפתח iOS בכיר ושותף מייסד של Everappz,
 תחת המותג Everappz, Artem גם יצר את Flacbox (נגן אודיו ללא אובדן איכות ברזולוציה גבוהה לאודיופילים), Evervideo (נגן וידאו HD עם תמיכה בכתוביות ו-360°) ו-Evertag (עורך מטא-נתוני מוזיקה התומך ביותר מ-120 שדות תגיות עם עריכה קבוצתית).
 
 הוא למד באוניברסיטה הלאומית לבניית ספינות על שם האדמירל מקרוב, הוא תורם פעיל לקוד פתוח ב-GitHub ומתגורר בספרד.
+
+### Anna Kosenko
+
+{{< cards cols="1" >}}
+  {{< card
+    link="https://www.linkedin.com/in/anna-kosenko-kosenko/"
+    title="Anna Kosenko"
+    tag="שותפה מייסדת ומנהלת"
+    subtitle="מנהלת מוצר, אחראית קשרי לקוחות ומנהלת ב-Everappz."
+    image="/images/about/anna-kosenko-cofounder-everappz.webp"
+    imageStyle="width: 80px; height: 80px; border-radius: 50%; object-fit: cover; margin-left: 1rem; margin-top: 1rem; align-self: start; flex-shrink: 0;"
+  >}}
+{{< /cards >}}
+
+Anna Kosenko היא שותפה מייסדת ומנהלת ב-Everappz.
+
+הדרך שלה לעולם הטכנולוגיה התחילה בתפקידים מול לקוחות בתעשיית האירוח בספרד, שם היא עבדה שנים ישירות מול אנשים ובנתה מערכות יחסים חזקות.
+
+היא עברה לעולם הטכנולוגיה מתוך תשוקה אמיתית לטכנולוגיה מובילית. היא אוהבת לגלות תכונות וטריקים חדשים ב-iOS, ויש לה חזון טבעי כיצד להפוך פונקציונליות מורכבת לאפליקציות פשוטות ואינטואיטיביות.
+
+Anna סיימה בהצטיינות יתרה (Matrícula de Honor) את לימודי מנהל עסקים ומימון ב-Colegio Internacional Lope de Vega. היא מחזיקה גם בהסמכות בפתרון סכסוכים וגישור ובתקשורת עסקית אפקטיבית. היא מתגוררת באליקנטה, ספרד.
 
 ## צרו קשר
 

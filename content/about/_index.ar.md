@@ -32,43 +32,20 @@ Everappz S.L. هي شركة برمجيات مستقلة مقرها في إسبا
 
 ## فريقنا
 
-### Anna Kosenko
-
-{{< cards cols="1" >}}
-  {{< card
-    link="https://www.linkedin.com/in/anna-kosenko-kosenko/"
-    title="Anna Kosenko"
-    tag="Co-Founder & مديرة"
-    subtitle="مديرة المنتج، مسؤولة العلاقات مع العملاء، والمسؤولة الإدارية في Everappz."
-    image="/images/about/anna-kosenko-cofounder-everappz.webp"
-    imageStyle="width: 80px; height: 80px; border-radius: 50%; object-fit: cover; margin-left: 1rem; margin-top: 1rem; align-self: start; flex-shrink: 0;"
-  >}}
-{{< /cards >}}
-
-Anna Kosenko هي المؤسسة المشاركة والمديرة في Everappz، حيث تتولى أدواراً متعددة — مديرة المنتج، مسؤولة العلاقات مع العملاء، منسقة فريق الدعم، والمسؤولة الإدارية.
-
-بدأ طريقها نحو التكنولوجيا في أدوار مواجهة العملاء في قطاع الضيافة الإسباني، حيث أمضت سنوات تعمل مباشرة مع الناس وتبني علاقات قوية. منحتها تلك التجربة شيئاً يفتقر إليه معظم مديري المنتجات: فهم عميق ومباشر لما يريده العملاء فعلاً، وليس ما يقولون إنهم يريدونه.
-
-انتقلت إلى عالم التكنولوجيا مدفوعة بشغف حقيقي بتكنولوجيا الهاتف المحمول. تحب اكتشاف ميزات وحيل iOS الجديدة، ولديها رؤية طبيعية لكيفية تحويل الوظائف المعقدة إلى تطبيقات بسيطة وبديهية. في Everappz، هي من تتأكد أن كل ميزة منطقية للمستخدمين الحقيقيين — وليس فقط للمطورين.
-
-تخرجت Anna بتفوق (Matrícula de Honor) في إدارة الأعمال والمالية من Colegio Internacional Lope de Vega. كما تحمل شهادات في حل النزاعات والوساطة والتواصل التجاري الفعال. تقيم في أليكانتي، إسبانيا.
-
-
-
 ### Artem Meleshko
 
 {{< cards cols="1" >}}
   {{< card
     link="https://www.linkedin.com/in/artem-meleshko-s/"
     title="Artem Meleshko"
-    tag="Co-Founder & مهندس iOS"
-    subtitle="مطور iOS أول ومؤسس مشارك لـ Everappz. مبتكر Evermusic وFlacbox وEvervideo وEvertag."
-    image="/images/about/artem-meleshko-cofounder-everappz.webp"
+    tag="المؤسس والمهندس"
+    subtitle="مهندس أول ومؤسس Everappz. مبتكر Evermusic وFlacbox وEvervideo وEvertag."
+    image="/images/about/artem-meleshko-founder-everappz.webp"
     imageStyle="width: 80px; height: 80px; border-radius: 50%; object-fit: cover; margin-left: 1rem; margin-top: 1rem; align-self: start; flex-shrink: 0;"
   >}}
 {{< /cards >}}
 
-Artem Meleshko هو مطور iOS أول ومؤسس مشارك لـ Everappz، استوديو تطبيقات مقره في إسبانيا وراء بعض أشهر تطبيقات مشغل الوسائط على App Store.
+Artem Meleshko هو مهندس أول ومؤسس Everappz، استوديو تطبيقات مقره في إسبانيا وراء بعض أشهر تطبيقات مشغل الوسائط على App Store.
 
 بدأت قصته في عام 2006، بتطوير ألعاب وتطبيقات الهاتف المحمول لهواتف Java (J2ME) الشائعة في ذلك الوقت. في عام 2009، انتقل إلى تطوير iOS، حيث أمضى سنوات يعمل لدى شركات كبيرة واكتسب خبرة قيّمة في هندسة التطبيقات الاحترافية — بناء منتجات يستخدمها عشرات الملايين من الأشخاص حول العالم.
 
@@ -79,6 +56,27 @@ Artem Meleshko هو مطور iOS أول ومؤسس مشارك لـ Everappz، ا
 تحت علامة Everappz التجارية، ابتكر Artem أيضاً Flacbox (مشغل صوت عالي الدقة بدون فقدان جودة لعشاق الصوت)، وEvervideo (مشغل فيديو HD مع دعم الترجمات و360°)، وEvertag (محرر بيانات وصفية للموسيقى يدعم أكثر من 120 حقل علامة مع التحرير الجماعي).
 
 درس في جامعة الأدميرال ماكاروف الوطنية لبناء السفن، وهو مساهم نشط في المصادر المفتوحة على GitHub، ومقيم في إسبانيا.
+
+### Anna Kosenko
+
+{{< cards cols="1" >}}
+  {{< card
+    link="https://www.linkedin.com/in/anna-kosenko-kosenko/"
+    title="Anna Kosenko"
+    tag="المؤسسة المشاركة والمديرة"
+    subtitle="مديرة المنتج، مسؤولة العلاقات مع العملاء، والمسؤولة الإدارية في Everappz."
+    image="/images/about/anna-kosenko-cofounder-everappz.webp"
+    imageStyle="width: 80px; height: 80px; border-radius: 50%; object-fit: cover; margin-left: 1rem; margin-top: 1rem; align-self: start; flex-shrink: 0;"
+  >}}
+{{< /cards >}}
+
+Anna Kosenko هي المؤسسة المشاركة والمديرة في Everappz.
+
+بدأ طريقها نحو التكنولوجيا في أدوار مواجهة العملاء في قطاع الضيافة الإسباني، حيث أمضت سنوات تعمل مباشرة مع الناس وتبني علاقات قوية.
+
+انتقلت إلى عالم التكنولوجيا مدفوعة بشغف حقيقي بتكنولوجيا الهاتف المحمول. تحب اكتشاف ميزات وحيل iOS الجديدة، ولديها رؤية طبيعية لكيفية تحويل الوظائف المعقدة إلى تطبيقات بسيطة وبديهية.
+
+تخرجت Anna بتفوق (Matrícula de Honor) في إدارة الأعمال والمالية من Colegio Internacional Lope de Vega. كما تحمل شهادات في حل النزاعات والوساطة والتواصل التجاري الفعال. تقيم في أليكانتي، إسبانيا.
 
 ## تواصل معنا
 

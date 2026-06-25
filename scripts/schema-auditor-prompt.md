@@ -18,17 +18,17 @@ Audit the website **everappz.com** (source files of site available in this folde
 
 ### Co-Founders
 
-**Artem Meleshko** — Co-Founder & iOS Engineer at Everappz
+**Artem Meleshko** — Founder & Engineer at Everappz
 - LinkedIn: https://www.linkedin.com/in/artem-meleshko-s/
 - LinkedIn title: iOS Engineer
-- Website role: Co-Founder & iOS Engineer
-- Image: `/images/about/artem-meleshko-cofounder-everappz.webp`
+- Website role: Founder & Engineer
+- Image: `/images/about/artem-meleshko-founder-everappz.webp`
 - Alt text: `Artem Meleshko, Co-Founder and iOS Engineer at Everappz`
 
-**Anna Kosenko Kosenko** — Co-Founder & Director at Everappz
+**Anna Kosenko Kosenko** — Co-Founder & Administrator at Everappz
 - LinkedIn: https://www.linkedin.com/in/anna-kosenko-kosenko/
 - LinkedIn title: Directora
-- Website role: Co-Founder & Director
+- Website role: Co-Founder & Administrator
 - Image: `/images/about/anna-kosenko-cofounder-everappz.webp`
 - Alt text: `Anna Kosenko, Co-Founder and Director at Everappz`
 
@@ -38,9 +38,9 @@ Different page types have different authors. Follow these rules strictly:
 
 | Page Type | Author (Person) | Publisher (Organization) |
 |---|---|---|
-| Blog posts (`/blog/*`) | **Anna Kosenko** — Co-Founder & Director | Everappz |
-| FAQ pages (`/docs/faq/*`) | **Artem Meleshko** — Co-Founder & iOS Engineer | Everappz |
-| How-To / Documentation (`/docs/howto/*`, `/docs/guide/*`) | **Artem Meleshko** — Co-Founder & iOS Engineer | Everappz |
+| Blog posts (`/blog/*`) | **Anna Kosenko** — Co-Founder & Administrator | Everappz |
+| FAQ pages (`/docs/faq/*`) | **Artem Meleshko** — Founder & Engineer | Everappz |
+| How-To / Documentation (`/docs/howto/*`, `/docs/guide/*`) | **Artem Meleshko** — Founder & Engineer | Everappz |
 | Product pages (`/products/*`) | No personal author | Everappz |
 | Homepage | No personal author | Everappz |
 | About page | Both (as Person schemas) | Everappz |
@@ -53,7 +53,7 @@ Different page types have different authors. Follow these rules strictly:
 "author": {
   "@type": "Person",
   "name": "Anna Kosenko",
-  "jobTitle": "Co-Founder & Director",
+  "jobTitle": "Co-Founder & Administrator",
   "url": "https://everappz.com/about/",
   "image": "https://everappz.com/images/about/anna-kosenko-cofounder-everappz.webp",
   "sameAs": ["https://www.linkedin.com/in/anna-kosenko-kosenko/"],
@@ -70,9 +70,9 @@ Different page types have different authors. Follow these rules strictly:
 "author": {
   "@type": "Person",
   "name": "Artem Meleshko",
-  "jobTitle": "Co-Founder & iOS Engineer",
+  "jobTitle": "Founder & Engineer",
   "url": "https://everappz.com/about/",
-  "image": "https://everappz.com/images/about/artem-meleshko-cofounder-everappz.webp",
+  "image": "https://everappz.com/images/about/artem-meleshko-founder-everappz.webp",
   "sameAs": ["https://www.linkedin.com/in/artem-meleshko-s/"],
   "worksFor": {
     "@type": "Organization",
@@ -111,7 +111,7 @@ Every blog post must have:
 
 Also add a visible author byline on each blog post:
 ```
-Written by Anna Kosenko — Co-Founder & Director at Everappz
+Written by Anna Kosenko — Co-Founder & Administrator at Everappz
 ```
 Link name to `/about/` page. Include her round profile photo next to the byline.
 
@@ -159,7 +159,7 @@ Extract actual questions and answers from the page content. Do not fabricate Q&A
 
 Also add a visible author byline on each FAQ page:
 ```
-Written by Artem Meleshko — Co-Founder & iOS Engineer at Everappz
+Written by Artem Meleshko — Founder & Engineer at Everappz
 ```
 
 ### 5. How-To & Documentation Pages (author: Artem Meleshko)
@@ -184,9 +184,9 @@ The About page must include:
 **Person schema for Artem Meleshko:**
 - `@type`: `Person`
 - `name`: "Artem Meleshko"
-- `jobTitle`: "Co-Founder & iOS Engineer"
+- `jobTitle`: "Founder & Engineer"
 - `url`: "https://everappz.com/about/"
-- `image`: "https://everappz.com/images/about/artem-meleshko-cofounder-everappz.webp"
+- `image`: "https://everappz.com/images/about/artem-meleshko-founder-everappz.webp"
 - `sameAs`: ["https://www.linkedin.com/in/artem-meleshko-s/"]
 - `worksFor` → `@type: Organization` referencing Everappz
 - `description`: (bio below)
@@ -194,7 +194,7 @@ The About page must include:
 **Person schema for Anna Kosenko:**
 - `@type`: `Person`
 - `name`: "Anna Kosenko"
-- `jobTitle`: "Co-Founder & Director"
+- `jobTitle`: "Co-Founder & Administrator"
 - `url`: "https://everappz.com/about/"
 - `image`: "https://everappz.com/images/about/anna-kosenko-cofounder-everappz.webp"
 - `sameAs`: ["https://www.linkedin.com/in/anna-kosenko-kosenko/"]
@@ -249,7 +249,7 @@ Image: `anna-kosenko-cofounder-everappz.webp`
 
 Bio:
 
-Anna Kosenko is Co-Founder and Administrator at Everappz, where she wears many hats — product manager, customer relations lead, support team coordinator, and administrator.
+Anna Kosenko is Co-Founder and Administrator at Everappz.
 
 Her path to tech started in customer-facing roles in Spain's hospitality industry, where she spent years working directly with people and building strong relationships.
 
@@ -344,7 +344,7 @@ After auditing all pages, provide a final section with:
 - All URLs must be absolute (https://everappz.com/...).
 - Use `datePublished` and `dateModified` in ISO 8601 format (YYYY-MM-DD).
 - Titles/roles must match LinkedIn profiles:
-  - Artem Meleshko: "iOS Engineer" on LinkedIn → "Co-Founder & iOS Engineer" on website
-  - Anna Kosenko Kosenko: "Directora" on LinkedIn → "Co-Founder & Director" on website
+  - Artem Meleshko: "iOS Engineer" on LinkedIn → "Founder & Engineer" on website
+  - Anna Kosenko Kosenko: "Directora" on LinkedIn → "Co-Founder & Administrator" on website
 - Author assignment must follow the table in this document. Do not assign wrong authors to pages.
 - Blog posts always have Anna as author. FAQ/docs always have Artem as author. No exceptions unless overridden in front matter.
