@@ -225,13 +225,13 @@ Update the About page to include both co-founder bios with round profile photos.
   - LinkedIn icon/link
   - Bio text
 
-### Artem Meleshko — Co-Founder & iOS Engineer
+### Artem Meleshko — Founder & Engineer
 
-Image: `artem-meleshko-cofounder-everappz.webp`
+Image: `artem-meleshko-founder-everappz.webp`
 
 Bio:
 
-Artem Meleshko is a Senior iOS Developer and the co-founder of Everappz, a Spain-based app studio behind some of the most popular media player apps on the App Store.
+Artem Meleshko is a Senior Engineer and Founder of Everappz, a Spain-based app studio behind some of the most popular media player apps on the App Store.
 
 His story began in 2006, developing mobile games and applications for the Java (J2ME) phones that were popular at the time. In 2009, he transitioned to iOS development, spending years working for large companies and gaining valuable experience in professional app engineering — building products used by tens of millions of people worldwide.
 
@@ -243,19 +243,19 @@ Under the Everappz brand, Artem also created Flacbox (a hi-res lossless audio pl
 
 He studied at Admiral Makarov National University of Shipbuilding, is an active open-source contributor on GitHub, and is based in Spain.
 
-### Anna Kosenko — Co-Founder & Director
+### Anna Kosenko — Co-Founder & Administrator
 
 Image: `anna-kosenko-cofounder-everappz.webp`
 
 Bio:
 
-Anna Kosenko is Co-founder and Director at Everappz, where she wears many hats — product manager, customer relations lead, support team coordinator, and administrator.
+Anna Kosenko is Co-Founder and Administrator at Everappz, where she wears many hats — product manager, customer relations lead, support team coordinator, and administrator.
 
-Her path to tech started in customer-facing roles in Spain's hospitality industry, where she spent years working directly with people and building strong relationships. That experience gave her something most product managers lack: a deep, firsthand understanding of what customers actually want, not what they say they want.
+Her path to tech started in customer-facing roles in Spain's hospitality industry, where she spent years working directly with people and building strong relationships.
 
-She transitioned into the tech world driven by a genuine passion for mobile technology. She loves discovering new iOS features and tricks, and has a natural vision for how to turn complex functionality into simple, intuitive apps. At Everappz, she's the one who makes sure every feature makes sense to real users — not just to developers.
+She transitioned into the tech world driven by a genuine passion for mobile technology. She loves discovering new iOS features and tricks, and has a natural vision for how to turn complex functionality into simple, intuitive apps.
 
-Anna graduated with honors (Matrícula de Honor) in Business Administration and Finance from Colegio Internacional Lope de Vega. She also holds certifications in conflict resolution and mediation (Divulgación Dinámica) and effective business communication (Coursera). She is based in Alicante, Spain.
+Anna graduated with honors (Matrícula de Honor) in Business Administration and Finance from Colegio Internacional Lope de Vega. She also holds certifications in conflict resolution and mediation and effective business communication. She is based in Alicante, Spain.
 
 ## Audit Process
 

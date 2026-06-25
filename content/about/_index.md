@@ -34,53 +34,51 @@ We're here to keep building better software — one thoughtful update at a time.
 
 ## Our Team
 
-### Anna Kosenko
-
-{{< cards cols="1" >}}
-  {{< card
-    link="https://www.linkedin.com/in/anna-kosenko-kosenko/"
-    title="Anna Kosenko"
-    tag="Co-Founder & Director"
-    subtitle="Product manager, customer relations lead, and administrator at Everappz."
-    image="/images/about/anna-kosenko-cofounder-everappz.webp"
-    imageStyle="width: 80px; height: 80px; border-radius: 50%; object-fit: cover; margin-left: 1rem; margin-top: 1rem; align-self: start; flex-shrink: 0;"
-  >}}
-{{< /cards >}}
-
-Anna Kosenko is Co-founder and Director at Everappz, where she wears many hats — product manager, customer relations lead, support team coordinator, and administrator.
-
-Her path to tech started in customer-facing roles in Spain's hospitality industry, where she spent years working directly with people and building strong relationships. That experience gave her something most product managers lack: a deep, firsthand understanding of what customers actually want, not what they say they want.
-
-She transitioned into the tech world driven by a genuine passion for mobile technology. She loves discovering new iOS features and tricks, and has a natural vision for how to turn complex functionality into simple, intuitive apps. At Everappz, she's the one who makes sure every feature makes sense to real users — not just to developers.
-
-Anna graduated with honors (Matrícula de Honor) in Business Administration and Finance from Colegio Internacional Lope de Vega. She also holds certifications in conflict resolution and mediation and effective business communication. She is based in Alicante, Spain.
-
-
-
 ### Artem Meleshko
 
 {{< cards cols="1" >}}
   {{< card
     link="https://www.linkedin.com/in/artem-meleshko-s/"
     title="Artem Meleshko"
-    tag="Co-Founder & iOS Engineer"
-    subtitle="Senior iOS Developer and the co-founder of Everappz. Creator of Evermusic, Flacbox, Evervideo, and Evertag."
-    image="/images/about/artem-meleshko-cofounder-everappz.webp"
+    tag="Founder & Engineer"
+    subtitle="Senior Engineer and Founder of Everappz. Creator of Evermusic, Flacbox, Evervideo, and Evertag."
+    image="/images/about/artem-meleshko-founder-everappz.webp"
     imageStyle="width: 80px; height: 80px; border-radius: 50%; object-fit: cover; margin-left: 1rem; margin-top: 1rem; align-self: start; flex-shrink: 0;"
   >}}
 {{< /cards >}}
 
-Artem Meleshko is a Senior iOS Developer and the co-founder of Everappz, a Spain-based app studio behind some of the most popular media player apps on the App Store.
+Artem Meleshko is a Senior Engineer and Founder of Everappz, a Spain-based app studio behind some of the most popular media player apps on the App Store.
 
 His story began in 2006, developing mobile games and applications for the Java (J2ME) phones that were popular at the time. In 2009, he transitioned to iOS development, spending years working for large companies and gaining valuable experience in professional app engineering — building products used by tens of millions of people worldwide.
 
-Eventually, he decided to apply that knowledge and passion to his own projects — removing middle managers, unnecessary meetings, and distractions. This gave him the freedom to focus solely on what matters:4 making great apps. That's how Everappz was born.
+Eventually, he decided to apply that knowledge and passion to his own projects — removing middle managers, unnecessary meetings, and distractions. This gave him the freedom to focus solely on what matters: making great apps. That's how Everappz was born.
 
 His flagship app, Evermusic, is a cloud and offline music player that has been downloaded over 14 million times. It supports all major audio formats, integrates with 30+ cloud services and network protocols (SMB, WebDAV, DLNA), and includes features like an advanced equalizer, crossfade, gapless playback, CarPlay support, and a built-in ID3 tag editor.
 
 Under the Everappz brand, Artem also created Flacbox (a hi-res lossless audio player for audiophiles), Evervideo (an HD video player with subtitle and 360° support), and Evertag (a music metadata editor supporting 120+ tag fields with batch editing).
 
 He studied at Admiral Makarov National University of Shipbuilding, is an active open-source contributor on GitHub, and is based in Spain.
+
+### Anna Kosenko
+
+{{< cards cols="1" >}}
+  {{< card
+    link="https://www.linkedin.com/in/anna-kosenko-kosenko/"
+    title="Anna Kosenko"
+    tag="Co-Founder & Administrator"
+    subtitle="Product manager, customer relations lead, and administrator at Everappz."
+    image="/images/about/anna-kosenko-cofounder-everappz.webp"
+    imageStyle="width: 80px; height: 80px; border-radius: 50%; object-fit: cover; margin-left: 1rem; margin-top: 1rem; align-self: start; flex-shrink: 0;"
+  >}}
+{{< /cards >}}
+
+Anna Kosenko is Co-Founder and Administrator at Everappz, where she wears many hats — product manager, customer relations lead, support team coordinator, and administrator.
+
+Her path to tech started in customer-facing roles in Spain's hospitality industry, where she spent years working directly with people and building strong relationships.
+
+She transitioned into the tech world driven by a genuine passion for mobile technology. She loves discovering new iOS features and tricks, and has a natural vision for how to turn complex functionality into simple, intuitive apps.
+
+Anna graduated with honors (Matrícula de Honor) in Business Administration and Finance from Colegio Internacional Lope de Vega. She also holds certifications in conflict resolution and mediation and effective business communication. She is based in Alicante, Spain.
 
 ## Contact Us
 
