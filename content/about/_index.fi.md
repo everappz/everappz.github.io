@@ -63,14 +63,14 @@ Hän opiskeli Admiral Makarovin kansallisessa laivanrakennusyliopistossa, on akt
   {{< card
     link="https://www.linkedin.com/in/anna-kosenko-kosenko/"
     title="Anna Kosenko"
-    tag="Hallintojohtaja"
-    subtitle="Everappzin hallintojohtaja."
-    image="/images/about/anna-kosenko-administrator-everappz.webp"
+    tag="Johtaja"
+    subtitle="Everappzin johtaja."
+    image="/images/about/anna-kosenko-director-everappz.webp"
     imageStyle="width: 80px; height: 80px; border-radius: 50%; object-fit: cover; margin-left: 1rem; margin-top: 1rem; align-self: start; flex-shrink: 0;"
   >}}
 {{< /cards >}}
 
-Anna Kosenko on Everappzin hallintojohtaja.
+Anna Kosenko on Everappzin johtaja.
 
 Hänen polkunsa teknologiaan alkoi asiakaspalvelutehtävissä Espanjan ravintola-alalla, jossa hän vietti vuosia työskennellen suoraan ihmisten kanssa ja rakentaen vahvoja suhteita.
 

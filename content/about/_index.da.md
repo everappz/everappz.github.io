@@ -63,14 +63,14 @@ Han studerede på Admiral Makarov Nationale Universitet for Skibsbygning, er en 
   {{< card
     link="https://www.linkedin.com/in/anna-kosenko-kosenko/"
     title="Anna Kosenko"
-    tag="Administrator"
-    subtitle="Administrator hos Everappz."
-    image="/images/about/anna-kosenko-administrator-everappz.webp"
+    tag="Direktør"
+    subtitle="Direktør hos Everappz."
+    image="/images/about/anna-kosenko-director-everappz.webp"
     imageStyle="width: 80px; height: 80px; border-radius: 50%; object-fit: cover; margin-left: 1rem; margin-top: 1rem; align-self: start; flex-shrink: 0;"
   >}}
 {{< /cards >}}
 
-Anna Kosenko er administrator hos Everappz.
+Anna Kosenko er direktør hos Everappz.
 
 Hendes vej til teknologi begyndte i kundevendte roller i den spanske hotel- og restaurationsbranchen, hvor hun tilbragte år med at arbejde direkte med mennesker og opbygge stærke relationer.
 

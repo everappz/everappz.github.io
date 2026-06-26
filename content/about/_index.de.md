@@ -63,14 +63,14 @@ Er studierte an der Nationalen Universität für Schiffbau Admiral Makarow, ist 
   {{< card
     link="https://www.linkedin.com/in/anna-kosenko-kosenko/"
     title="Anna Kosenko"
-    tag="Administratorin"
-    subtitle="Administratorin bei Everappz."
-    image="/images/about/anna-kosenko-administrator-everappz.webp"
+    tag="Direktorin"
+    subtitle="Direktorin bei Everappz."
+    image="/images/about/anna-kosenko-director-everappz.webp"
     imageStyle="width: 80px; height: 80px; border-radius: 50%; object-fit: cover; margin-left: 1rem; margin-top: 1rem; align-self: start; flex-shrink: 0;"
   >}}
 {{< /cards >}}
 
-Anna Kosenko ist Administratorin bei Everappz.
+Anna Kosenko ist Direktorin bei Everappz.
 
 Ihr Weg in die Technologie begann in kundenorientierten Rollen in der spanischen Gastgewerbebranche, wo sie jahrelang direkt mit Menschen arbeitete und starke Beziehungen aufbaute.
 

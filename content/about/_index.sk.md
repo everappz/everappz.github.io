@@ -63,14 +63,14 @@ Pod značkou Everappz Artem tiež vytvoril Flacbox (hi-res bezstratový audio pr
   {{< card
     link="https://www.linkedin.com/in/anna-kosenko-kosenko/"
     title="Anna Kosenko"
-    tag="Administrátorka"
-    subtitle="Administrátorka Everappz."
-    image="/images/about/anna-kosenko-administrator-everappz.webp"
+    tag="Riaditeľka"
+    subtitle="Riaditeľka Everappz."
+    image="/images/about/anna-kosenko-director-everappz.webp"
     imageStyle="width: 80px; height: 80px; border-radius: 50%; object-fit: cover; margin-left: 1rem; margin-top: 1rem; align-self: start; flex-shrink: 0;"
   >}}
 {{< /cards >}}
 
-Anna Kosenko je administrátorka v Everappz.
+Anna Kosenko je riaditeľka v Everappz.
 
 Jej cesta k technológiám začala v zákazníckych rolách v španielskom hotelníctve, kde strávila roky prácou priamo s ľuďmi a budovaním silných vzťahov.
 

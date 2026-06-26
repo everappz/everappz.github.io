@@ -65,7 +65,7 @@ Artem Meleshko הוא מהנדס בכיר ומייסד של Everappz, סטודי
     title="Anna Kosenko"
     tag="מנהלת"
     subtitle="מנהלת ב-Everappz."
-    image="/images/about/anna-kosenko-administrator-everappz.webp"
+    image="/images/about/anna-kosenko-director-everappz.webp"
     imageStyle="width: 80px; height: 80px; border-radius: 50%; object-fit: cover; margin-left: 1rem; margin-top: 1rem; align-self: start; flex-shrink: 0;"
   >}}
 {{< /cards >}}

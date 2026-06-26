@@ -13,7 +13,7 @@ cascade:
 authors:
   - name: "Anna Kosenko"
     link: "https://www.linkedin.com/in/anna-kosenko-kosenko/"
-    image: "/images/about/anna-kosenko-administrator-everappz.webp"
+    image: "/images/about/anna-kosenko-director-everappz.webp"
 ---
 
 {{< author-byline >}}

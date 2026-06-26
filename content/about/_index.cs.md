@@ -63,14 +63,14 @@ Studoval na Národní univerzitě stavby lodí Admirála Makarova, je aktivním 
   {{< card
     link="https://www.linkedin.com/in/anna-kosenko-kosenko/"
     title="Anna Kosenko"
-    tag="Administrátorka"
-    subtitle="Administrátorka v Everappz."
-    image="/images/about/anna-kosenko-administrator-everappz.webp"
+    tag="Ředitelka"
+    subtitle="Ředitelka v Everappz."
+    image="/images/about/anna-kosenko-director-everappz.webp"
     imageStyle="width: 80px; height: 80px; border-radius: 50%; object-fit: cover; margin-left: 1rem; margin-top: 1rem; align-self: start; flex-shrink: 0;"
   >}}
 {{< /cards >}}
 
-Anna Kosenko je administrátorka v Everappz.
+Anna Kosenko je ředitelka v Everappz.
 
 Její cesta k technologiím začala v zákaznických rolích ve španělském hotelnictví, kde strávila roky prací přímo s lidmi a budováním silných vztahů.
 

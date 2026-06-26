@@ -63,14 +63,14 @@ description: 'Η Everappz S.L. είναι μια ισπανική εταιρεί
   {{< card
     link="https://www.linkedin.com/in/anna-kosenko-kosenko/"
     title="Anna Kosenko"
-    tag="Διαχειρίστρια"
-    subtitle="Διαχειρίστρια στην Everappz."
-    image="/images/about/anna-kosenko-administrator-everappz.webp"
+    tag="Διευθύντρια"
+    subtitle="Διευθύντρια στην Everappz."
+    image="/images/about/anna-kosenko-director-everappz.webp"
     imageStyle="width: 80px; height: 80px; border-radius: 50%; object-fit: cover; margin-left: 1rem; margin-top: 1rem; align-self: start; flex-shrink: 0;"
   >}}
 {{< /cards >}}
 
-Η Anna Kosenko είναι διαχειρίστρια στην Everappz.
+Η Anna Kosenko είναι διευθύντρια στην Everappz.
 
 Η πορεία της προς την τεχνολογία ξεκίνησε σε ρόλους εξυπηρέτησης πελατών στη φιλοξενία της Ισπανίας, όπου πέρασε χρόνια δουλεύοντας απευθείας με ανθρώπους και χτίζοντας ισχυρές σχέσεις.
 

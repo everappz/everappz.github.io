@@ -63,14 +63,14 @@ Admiral Makarov Ulusal Gemi İnşa Üniversitesi'nde eğitim görmüş, GitHub'd
   {{< card
     link="https://www.linkedin.com/in/anna-kosenko-kosenko/"
     title="Anna Kosenko"
-    tag="Yönetici"
-    subtitle="Everappz'ın yöneticisi."
-    image="/images/about/anna-kosenko-administrator-everappz.webp"
+    tag="Direktör"
+    subtitle="Everappz'ın direktörü."
+    image="/images/about/anna-kosenko-director-everappz.webp"
     imageStyle="width: 80px; height: 80px; border-radius: 50%; object-fit: cover; margin-left: 1rem; margin-top: 1rem; align-self: start; flex-shrink: 0;"
   >}}
 {{< /cards >}}
 
-Anna Kosenko, Everappz'ın yöneticisidir.
+Anna Kosenko, Everappz'ın direktörüdür.
 
 Teknolojiye giden yolu, İspanya'nın konaklama sektöründeki müşteriyle yüz yüze çalışılan rollerden başladı. Yıllarca doğrudan insanlarla çalışarak güçlü ilişkiler kurdu.
 
