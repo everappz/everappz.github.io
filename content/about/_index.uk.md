@@ -63,14 +63,14 @@ Artem Meleshko — старший інженер та засновник Everapp
   {{< card
     link="https://www.linkedin.com/in/anna-kosenko-kosenko/"
     title="Anna Kosenko"
-    tag="Співзасновниця & адміністратор"
-    subtitle="Адміністратор та співзасновниця Everappz."
-    image="/images/about/anna-kosenko-cofounder-everappz.webp"
+    tag="Адміністратор"
+    subtitle="Адміністратор Everappz."
+    image="/images/about/anna-kosenko-administrator-everappz.webp"
     imageStyle="width: 80px; height: 80px; border-radius: 50%; object-fit: cover; margin-left: 1rem; margin-top: 1rem; align-self: start; flex-shrink: 0;"
   >}}
 {{< /cards >}}
 
-Anna Kosenko є співзасновницею та адміністратором в Everappz.
+Anna Kosenko є адміністратором в Everappz.
 
 Її шлях до технологій розпочався з клієнтоорієнтованих ролей у сфері гостинності Іспанії, де вона роками безпосередньо спілкувалася з людьми та будувала міцні стосунки.
 

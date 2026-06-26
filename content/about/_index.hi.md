@@ -63,14 +63,14 @@ Everappz ब्रांड के तहत, Artem ने Flacbox (ऑडिय
   {{< card
     link="https://www.linkedin.com/in/anna-kosenko-kosenko/"
     title="Anna Kosenko"
-    tag="सह-संस्थापक और प्रशासक"
-    subtitle="Everappz की प्रशासक और सह-संस्थापक।"
-    image="/images/about/anna-kosenko-cofounder-everappz.webp"
+    tag="प्रशासक"
+    subtitle="Everappz की प्रशासक।"
+    image="/images/about/anna-kosenko-administrator-everappz.webp"
     imageStyle="width: 80px; height: 80px; border-radius: 50%; object-fit: cover; margin-left: 1rem; margin-top: 1rem; align-self: start; flex-shrink: 0;"
   >}}
 {{< /cards >}}
 
-Anna Kosenko Everappz में सह-संस्थापक और प्रशासक हैं।
+Anna Kosenko Everappz में प्रशासक हैं।
 
 तकनीक की ओर उनका रास्ता स्पेन के हॉस्पिटैलिटी उद्योग में ग्राहक-सामना भूमिकाओं से शुरू हुआ, जहां उन्होंने वर्षों तक सीधे लोगों के साथ काम किया और मजबूत संबंध बनाए।
 

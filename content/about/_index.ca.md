@@ -63,14 +63,14 @@ Va estudiar a la Universitat Nacional de Construcció Naval Admiral Makarov, és
   {{< card
     link="https://www.linkedin.com/in/anna-kosenko-kosenko/"
     title="Anna Kosenko"
-    tag="Cofundadora i Administradora"
-    subtitle="Administradora i cofundadora d'Everappz."
-    image="/images/about/anna-kosenko-cofounder-everappz.webp"
+    tag="Administradora"
+    subtitle="Administradora a Everappz."
+    image="/images/about/anna-kosenko-administrator-everappz.webp"
     imageStyle="width: 80px; height: 80px; border-radius: 50%; object-fit: cover; margin-left: 1rem; margin-top: 1rem; align-self: start; flex-shrink: 0;"
   >}}
 {{< /cards >}}
 
-Anna Kosenko és cofundadora i administradora a Everappz.
+Anna Kosenko és administradora a Everappz.
 
 El seu camí cap a la tecnologia va començar en rols d'atenció al client en la indústria hotelera espanyola, on va passar anys treballant directament amb persones i construint relacions sòlides.
 

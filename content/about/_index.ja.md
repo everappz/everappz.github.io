@@ -63,14 +63,14 @@ Everappzブランドの下で、ArtemはFlacbox（オーディオファイル向
   {{< card
     link="https://www.linkedin.com/in/anna-kosenko-kosenko/"
     title="Anna Kosenko"
-    tag="共同創設者兼管理者"
-    subtitle="Everappzの管理者兼共同創設者。"
-    image="/images/about/anna-kosenko-cofounder-everappz.webp"
+    tag="管理者"
+    subtitle="Everappzの管理者。"
+    image="/images/about/anna-kosenko-administrator-everappz.webp"
     imageStyle="width: 80px; height: 80px; border-radius: 50%; object-fit: cover; margin-left: 1rem; margin-top: 1rem; align-self: start; flex-shrink: 0;"
   >}}
 {{< /cards >}}
 
-Anna KosenkoはEverappzの共同創設者兼管理者です。
+Anna KosenkoはEverappzの管理者です。
 
 テクノロジーへの道は、スペインのホスピタリティ業界の顧客対応の役割から始まりました。そこで彼女は何年も直接人々と仕事をし、強い関係を築きました。
 

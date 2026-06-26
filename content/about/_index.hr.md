@@ -63,14 +63,14 @@ Studirao je na Nacionalnom sveučilištu za brodogradnju Admiral Makarov, aktiva
   {{< card
     link="https://www.linkedin.com/in/anna-kosenko-kosenko/"
     title="Anna Kosenko"
-    tag="Suosnivačica i administratorica"
-    subtitle="Administratorica i suosnivačica Everappza."
-    image="/images/about/anna-kosenko-cofounder-everappz.webp"
+    tag="Administratorica"
+    subtitle="Administratorica u Everappzu."
+    image="/images/about/anna-kosenko-administrator-everappz.webp"
     imageStyle="width: 80px; height: 80px; border-radius: 50%; object-fit: cover; margin-left: 1rem; margin-top: 1rem; align-self: start; flex-shrink: 0;"
   >}}
 {{< /cards >}}
 
-Anna Kosenko je suosnivačica i administratorica u Everappzu.
+Anna Kosenko je administratorica u Everappzu.
 
 Njezin put do tehnologije započeo je u ulogama usmjerenim na klijente u španjolskoj ugostiteljskoj industriji, gdje je provela godine radeći izravno s ljudima i gradeći jake odnose.
 

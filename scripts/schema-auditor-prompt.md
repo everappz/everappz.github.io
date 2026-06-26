@@ -25,12 +25,12 @@ Audit the website **everappz.com** (source files of site available in this folde
 - Image: `/images/about/artem-meleshko-founder-everappz.webp`
 - Alt text: `Artem Meleshko, Co-Founder and iOS Engineer at Everappz`
 
-**Anna Kosenko Kosenko** — Co-Founder & Administrator at Everappz
+**Anna Kosenko Kosenko** — Administrator at Everappz
 - LinkedIn: https://www.linkedin.com/in/anna-kosenko-kosenko/
 - LinkedIn title: Directora
-- Website role: Co-Founder & Administrator
-- Image: `/images/about/anna-kosenko-cofounder-everappz.webp`
-- Alt text: `Anna Kosenko, Co-Founder and Director at Everappz`
+- Website role: Administrator
+- Image: `/images/about/anna-kosenko-administrator-everappz.webp`
+- Alt text: `Anna Kosenko, Administrator at Everappz`
 
 ## Author Assignment Rules
 
@@ -38,7 +38,7 @@ Different page types have different authors. Follow these rules strictly:
 
 | Page Type | Author (Person) | Publisher (Organization) |
 |---|---|---|
-| Blog posts (`/blog/*`) | **Anna Kosenko** — Co-Founder & Administrator | Everappz |
+| Blog posts (`/blog/*`) | **Anna Kosenko** — Administrator | Everappz |
 | FAQ pages (`/docs/faq/*`) | **Artem Meleshko** — Founder & Engineer | Everappz |
 | How-To / Documentation (`/docs/howto/*`, `/docs/guide/*`) | **Artem Meleshko** — Founder & Engineer | Everappz |
 | Product pages (`/products/*`) | No personal author | Everappz |
@@ -53,9 +53,9 @@ Different page types have different authors. Follow these rules strictly:
 "author": {
   "@type": "Person",
   "name": "Anna Kosenko",
-  "jobTitle": "Co-Founder & Administrator",
+  "jobTitle": "Administrator",
   "url": "https://everappz.com/about/",
-  "image": "https://everappz.com/images/about/anna-kosenko-cofounder-everappz.webp",
+  "image": "https://everappz.com/images/about/anna-kosenko-administrator-everappz.webp",
   "sameAs": ["https://www.linkedin.com/in/anna-kosenko-kosenko/"],
   "worksFor": {
     "@type": "Organization",
@@ -111,7 +111,7 @@ Every blog post must have:
 
 Also add a visible author byline on each blog post:
 ```
-Written by Anna Kosenko — Co-Founder & Administrator at Everappz
+Written by Anna Kosenko — Administrator at Everappz
 ```
 Link name to `/about/` page. Include her round profile photo next to the byline.
 
@@ -194,9 +194,9 @@ The About page must include:
 **Person schema for Anna Kosenko:**
 - `@type`: `Person`
 - `name`: "Anna Kosenko"
-- `jobTitle`: "Co-Founder & Administrator"
+- `jobTitle`: "Administrator"
 - `url`: "https://everappz.com/about/"
-- `image`: "https://everappz.com/images/about/anna-kosenko-cofounder-everappz.webp"
+- `image`: "https://everappz.com/images/about/anna-kosenko-administrator-everappz.webp"
 - `sameAs`: ["https://www.linkedin.com/in/anna-kosenko-kosenko/"]
 - `worksFor` → `@type: Organization` referencing Everappz
 - `description`: (bio below)
@@ -243,13 +243,13 @@ Under the Everappz brand, Artem also created Flacbox (a hi-res lossless audio pl
 
 He studied at Admiral Makarov National University of Shipbuilding, is an active open-source contributor on GitHub, and is based in Spain.
 
-### Anna Kosenko — Co-Founder & Administrator
+### Anna Kosenko — Administrator
 
-Image: `anna-kosenko-cofounder-everappz.webp`
+Image: `anna-kosenko-administrator-everappz.webp`
 
 Bio:
 
-Anna Kosenko is Co-Founder and Administrator at Everappz.
+Anna Kosenko is Administrator at Everappz.
 
 Her path to tech started in customer-facing roles in Spain's hospitality industry, where she spent years working directly with people and building strong relationships.
 
@@ -345,6 +345,6 @@ After auditing all pages, provide a final section with:
 - Use `datePublished` and `dateModified` in ISO 8601 format (YYYY-MM-DD).
 - Titles/roles must match LinkedIn profiles:
   - Artem Meleshko: "iOS Engineer" on LinkedIn → "Founder & Engineer" on website
-  - Anna Kosenko Kosenko: "Directora" on LinkedIn → "Co-Founder & Administrator" on website
+  - Anna Kosenko Kosenko: "Directora" on LinkedIn → "Administrator" on website
 - Author assignment must follow the table in this document. Do not assign wrong authors to pages.
 - Blog posts always have Anna as author. FAQ/docs always have Artem as author. No exceptions unless overridden in front matter.

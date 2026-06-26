@@ -8,13 +8,13 @@
   {{- if eq .name "Artem Meleshko" -}}
     {{- $authorTitle = "Founder & Engineer at Everappz" -}}
   {{- else if eq .name "Anna Kosenko" -}}
-    {{- $authorTitle = "Co-Founder & Administrator at Everappz" -}}
+    {{- $authorTitle = "Administrator at Everappz" -}}
   {{- end -}}
 {{- else -}}
   {{- if eq $.Page.Section "blog" -}}
     {{- $authorName = "Anna Kosenko" -}}
-    {{- $authorTitle = "Co-Founder & Administrator at Everappz" -}}
-    {{- $authorImage = "/images/about/anna-kosenko-cofounder-everappz.webp" -}}
+    {{- $authorTitle = "Administrator at Everappz" -}}
+    {{- $authorImage = "/images/about/anna-kosenko-administrator-everappz.webp" -}}
   {{- else if in $.Page.RelPermalink "/docs/howto/" -}}
     {{- $authorName = "Artem Meleshko" -}}
     {{- $authorTitle = "Founder & Engineer at Everappz" -}}

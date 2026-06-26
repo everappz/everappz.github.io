@@ -63,14 +63,14 @@ Han studerte ved Admiral Makarov Nasjonale Universitet for Skipbygging, er en ak
   {{< card
     link="https://www.linkedin.com/in/anna-kosenko-kosenko/"
     title="Anna Kosenko"
-    tag="Medgrunnlegger & Administrator"
-    subtitle="Administrator og medgrunnlegger hos Everappz."
-    image="/images/about/anna-kosenko-cofounder-everappz.webp"
+    tag="Administrator"
+    subtitle="Administrator hos Everappz."
+    image="/images/about/anna-kosenko-administrator-everappz.webp"
     imageStyle="width: 80px; height: 80px; border-radius: 50%; object-fit: cover; margin-left: 1rem; margin-top: 1rem; align-self: start; flex-shrink: 0;"
   >}}
 {{< /cards >}}
 
-Anna Kosenko er medgrunnlegger og administrator hos Everappz.
+Anna Kosenko er administrator hos Everappz.
 
 Veien hennes til teknologi begynte i kundevendte roller i den spanske gjestfrihetsbransjen, hvor hun tilbrakte år med å jobbe direkte med mennesker og bygge sterke relasjoner.
 

@@ -63,14 +63,14 @@ Anh học tại Đại học Đóng tàu Quốc gia Admiral Makarov, là cộng 
   {{< card
     link="https://www.linkedin.com/in/anna-kosenko-kosenko/"
     title="Anna Kosenko"
-    tag="Đồng sáng lập & Quản trị viên"
-    subtitle="Quản trị viên và Đồng sáng lập Everappz."
-    image="/images/about/anna-kosenko-cofounder-everappz.webp"
+    tag="Quản trị viên"
+    subtitle="Quản trị viên tại Everappz."
+    image="/images/about/anna-kosenko-administrator-everappz.webp"
     imageStyle="width: 80px; height: 80px; border-radius: 50%; object-fit: cover; margin-left: 1rem; margin-top: 1rem; align-self: start; flex-shrink: 0;"
   >}}
 {{< /cards >}}
 
-Anna Kosenko là Đồng sáng lập và Quản trị viên tại Everappz.
+Anna Kosenko là Quản trị viên tại Everappz.
 
 Con đường đến với công nghệ của cô bắt đầu từ các vị trí đối mặt với khách hàng trong ngành khách sạn tại Tây Ban Nha, nơi cô dành nhiều năm làm việc trực tiếp với mọi người và xây dựng các mối quan hệ bền chặt.
 

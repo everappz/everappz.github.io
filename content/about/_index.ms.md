@@ -63,14 +63,14 @@ Beliau belajar di Universiti Pembinaan Kapal Kebangsaan Admiral Makarov, penyumb
   {{< card
     link="https://www.linkedin.com/in/anna-kosenko-kosenko/"
     title="Anna Kosenko"
-    tag="Pengasas Bersama & Pentadbir"
-    subtitle="Pentadbir dan Pengasas Bersama Everappz."
-    image="/images/about/anna-kosenko-cofounder-everappz.webp"
+    tag="Pentadbir"
+    subtitle="Pentadbir di Everappz."
+    image="/images/about/anna-kosenko-administrator-everappz.webp"
     imageStyle="width: 80px; height: 80px; border-radius: 50%; object-fit: cover; margin-left: 1rem; margin-top: 1rem; align-self: start; flex-shrink: 0;"
   >}}
 {{< /cards >}}
 
-Anna Kosenko ialah Pengasas Bersama dan Pentadbir di Everappz.
+Anna Kosenko ialah Pentadbir di Everappz.
 
 Perjalanannya ke dunia teknologi bermula dalam peranan yang berhadapan dengan pelanggan dalam industri hospitaliti Sepanyol, di mana beliau menghabiskan bertahun-tahun bekerja secara langsung dengan orang ramai dan membina hubungan yang kukuh.
 
