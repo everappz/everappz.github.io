@@ -39,7 +39,7 @@ Everappz S.L. היא חברת תוכנה עצמאית הממוקמת בספרד.
     link="https://www.linkedin.com/in/artem-meleshko-s/"
     title="Artem Meleshko"
     tag="מייסד ומהנדס"
-    subtitle="מהנדס בכיר ומייסד של Everappz."
+    subtitle="מהנדס בכיר ומייסד של Everappz"
     image="/images/about/artem-meleshko-founder-everappz.webp"
     imageStyle="width: 80px; height: 80px; border-radius: 50%; object-fit: cover; margin-left: 1rem; margin-top: 1rem; align-self: start; flex-shrink: 0;"
   >}}
@@ -64,7 +64,7 @@ Artem Meleshko הוא מהנדס בכיר ומייסד של Everappz, סטודי
     link="https://www.linkedin.com/in/anna-kosenko-kosenko/"
     title="Anna Kosenko"
     tag="מנהלת"
-    subtitle="מנהלת ב-Everappz."
+    subtitle="מנהלת ב-Everappz"
     image="/images/about/anna-kosenko-director-everappz.webp"
     imageStyle="width: 80px; height: 80px; border-radius: 50%; object-fit: cover; margin-left: 1rem; margin-top: 1rem; align-self: start; flex-shrink: 0;"
   >}}

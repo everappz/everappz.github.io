@@ -39,7 +39,7 @@ Som aquí per continuar creant millor programari — una actualització meditada
     link="https://www.linkedin.com/in/artem-meleshko-s/"
     title="Artem Meleshko"
     tag="Fundador i Enginyer"
-    subtitle="Enginyer sènior i fundador d'Everappz."
+    subtitle="Enginyer sènior i fundador d'Everappz"
     image="/images/about/artem-meleshko-founder-everappz.webp"
     imageStyle="width: 80px; height: 80px; border-radius: 50%; object-fit: cover; margin-left: 1rem; margin-top: 1rem; align-self: start; flex-shrink: 0;"
   >}}
@@ -64,7 +64,7 @@ Va estudiar a la Universitat Nacional de Construcció Naval Admiral Makarov, és
     link="https://www.linkedin.com/in/anna-kosenko-kosenko/"
     title="Anna Kosenko"
     tag="Directora"
-    subtitle="Directora a Everappz."
+    subtitle="Directora a Everappz"
     image="/images/about/anna-kosenko-director-everappz.webp"
     imageStyle="width: 80px; height: 80px; border-radius: 50%; object-fit: cover; margin-left: 1rem; margin-top: 1rem; align-self: start; flex-shrink: 0;"
   >}}

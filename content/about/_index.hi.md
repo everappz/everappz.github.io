@@ -39,7 +39,7 @@ Everappz S.L. स्पेन में स्थित एक स्वतं�
     link="https://www.linkedin.com/in/artem-meleshko-s/"
     title="Artem Meleshko"
     tag="संस्थापक और इंजीनियर"
-    subtitle="वरिष्ठ इंजीनियर और Everappz के संस्थापक।"
+    subtitle="वरिष्ठ इंजीनियर और Everappz के संस्थापक"
     image="/images/about/artem-meleshko-founder-everappz.webp"
     imageStyle="width: 80px; height: 80px; border-radius: 50%; object-fit: cover; margin-left: 1rem; margin-top: 1rem; align-self: start; flex-shrink: 0;"
   >}}
@@ -64,7 +64,7 @@ Everappz ब्रांड के तहत, Artem ने Flacbox (ऑडिय
     link="https://www.linkedin.com/in/anna-kosenko-kosenko/"
     title="Anna Kosenko"
     tag="निदेशक"
-    subtitle="Everappz की निदेशक।"
+    subtitle="Everappz की निदेशक"
     image="/images/about/anna-kosenko-director-everappz.webp"
     imageStyle="width: 80px; height: 80px; border-radius: 50%; object-fit: cover; margin-left: 1rem; margin-top: 1rem; align-self: start; flex-shrink: 0;"
   >}}

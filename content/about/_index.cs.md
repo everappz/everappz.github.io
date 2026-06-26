@@ -39,7 +39,7 @@ Jsme tu, abychom pokračovali v tvorbě lepšího softwaru — jednou promyšlen
     link="https://www.linkedin.com/in/artem-meleshko-s/"
     title="Artem Meleshko"
     tag="Zakladatel a inženýr"
-    subtitle="Senior inženýr a zakladatel Everappz."
+    subtitle="Senior inženýr a zakladatel Everappz"
     image="/images/about/artem-meleshko-founder-everappz.webp"
     imageStyle="width: 80px; height: 80px; border-radius: 50%; object-fit: cover; margin-left: 1rem; margin-top: 1rem; align-self: start; flex-shrink: 0;"
   >}}
@@ -64,7 +64,7 @@ Studoval na Národní univerzitě stavby lodí Admirála Makarova, je aktivním 
     link="https://www.linkedin.com/in/anna-kosenko-kosenko/"
     title="Anna Kosenko"
     tag="Ředitelka"
-    subtitle="Ředitelka v Everappz."
+    subtitle="Ředitelka v Everappz"
     image="/images/about/anna-kosenko-director-everappz.webp"
     imageStyle="width: 80px; height: 80px; border-radius: 50%; object-fit: cover; margin-left: 1rem; margin-top: 1rem; align-self: start; flex-shrink: 0;"
   >}}

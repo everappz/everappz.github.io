@@ -39,7 +39,7 @@ Vi er her for å fortsette å bygge bedre programvare — én gjennomtenkt oppda
     link="https://www.linkedin.com/in/artem-meleshko-s/"
     title="Artem Meleshko"
     tag="Grunnlegger & Ingeniør"
-    subtitle="Senioringeniør og grunnlegger av Everappz."
+    subtitle="Senioringeniør og grunnlegger av Everappz"
     image="/images/about/artem-meleshko-founder-everappz.webp"
     imageStyle="width: 80px; height: 80px; border-radius: 50%; object-fit: cover; margin-left: 1rem; margin-top: 1rem; align-self: start; flex-shrink: 0;"
   >}}
@@ -64,7 +64,7 @@ Han studerte ved Admiral Makarov Nasjonale Universitet for Skipbygging, er en ak
     link="https://www.linkedin.com/in/anna-kosenko-kosenko/"
     title="Anna Kosenko"
     tag="Direktør"
-    subtitle="Direktør hos Everappz."
+    subtitle="Direktør hos Everappz"
     image="/images/about/anna-kosenko-director-everappz.webp"
     imageStyle="width: 80px; height: 80px; border-radius: 50%; object-fit: cover; margin-left: 1rem; margin-top: 1rem; align-self: start; flex-shrink: 0;"
   >}}

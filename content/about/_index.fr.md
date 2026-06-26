@@ -39,7 +39,7 @@ Nous sommes là pour continuer à créer de meilleurs logiciels — une mise à 
     link="https://www.linkedin.com/in/artem-meleshko-s/"
     title="Artem Meleshko"
     tag="Fondateur et ingénieur"
-    subtitle="Ingénieur senior et fondateur d'Everappz."
+    subtitle="Ingénieur senior et fondateur d'Everappz"
     image="/images/about/artem-meleshko-founder-everappz.webp"
     imageStyle="width: 80px; height: 80px; border-radius: 50%; object-fit: cover; margin-left: 1rem; margin-top: 1rem; align-self: start; flex-shrink: 0;"
   >}}
@@ -64,7 +64,7 @@ Il a étudié à l'Université nationale de construction navale Admiral Makarov,
     link="https://www.linkedin.com/in/anna-kosenko-kosenko/"
     title="Anna Kosenko"
     tag="Directrice"
-    subtitle="Directrice chez Everappz."
+    subtitle="Directrice chez Everappz"
     image="/images/about/anna-kosenko-director-everappz.webp"
     imageStyle="width: 80px; height: 80px; border-radius: 50%; object-fit: cover; margin-left: 1rem; margin-top: 1rem; align-self: start; flex-shrink: 0;"
   >}}

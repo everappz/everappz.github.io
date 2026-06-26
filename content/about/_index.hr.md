@@ -39,7 +39,7 @@ Tu smo da nastavimo graditi bolji softver — jedno promišljeno ažuriranje u i
     link="https://www.linkedin.com/in/artem-meleshko-s/"
     title="Artem Meleshko"
     tag="Osnivač i inženjer"
-    subtitle="Viši inženjer i osnivač Everappza."
+    subtitle="Viši inženjer i osnivač Everappza"
     image="/images/about/artem-meleshko-founder-everappz.webp"
     imageStyle="width: 80px; height: 80px; border-radius: 50%; object-fit: cover; margin-left: 1rem; margin-top: 1rem; align-self: start; flex-shrink: 0;"
   >}}
@@ -64,7 +64,7 @@ Studirao je na Nacionalnom sveučilištu za brodogradnju Admiral Makarov, aktiva
     link="https://www.linkedin.com/in/anna-kosenko-kosenko/"
     title="Anna Kosenko"
     tag="Direktorica"
-    subtitle="Direktorica u Everappzu."
+    subtitle="Direktorica u Everappzu"
     image="/images/about/anna-kosenko-director-everappz.webp"
     imageStyle="width: 80px; height: 80px; border-radius: 50%; object-fit: cover; margin-left: 1rem; margin-top: 1rem; align-self: start; flex-shrink: 0;"
   >}}
