@@ -7,9 +7,9 @@ tags: ["evermusic", "音乐", "播放", "管理器", "编辑器", "同步", "位
 cascade:
   type: docs
 authors:
-  - name: "Anna Kosenko"
-    link: "https://www.linkedin.com/in/anna-kosenko-kosenko/"
-    image: "/images/about/anna-kosenko-director-everappz.webp"
+  - name: "Artem Meleshko"
+    link: "https://www.linkedin.com/in/artem-meleshko/"
+    image: "/images/about/artem-meleshko-founder-everappz.webp"
 ---
 
 {{< author-byline >}}

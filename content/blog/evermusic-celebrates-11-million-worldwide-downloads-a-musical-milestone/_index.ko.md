@@ -7,9 +7,9 @@ tags: ["Evermusic", "마일스톤", "클라우드 음악", "오프라인 재생"
 cascade:
   type: docs
 authors:
-  - name: "Anna Kosenko"
-    link: "https://www.linkedin.com/in/anna-kosenko-kosenko/"
-    image: "/images/about/anna-kosenko-director-everappz.webp"
+  - name: "Artem Meleshko"
+    link: "https://www.linkedin.com/in/artem-meleshko/"
+    image: "/images/about/artem-meleshko-founder-everappz.webp"
 ---
 
 {{< author-byline >}}

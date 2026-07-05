@@ -7,9 +7,9 @@ tags: ["Evermusic", "Evermusic 8.7", "갭리스 재생", "오디오 이펙트", 
 cascade:
   type: docs
 authors:
-  - name: "Anna Kosenko"
-    link: "https://www.linkedin.com/in/anna-kosenko-kosenko/"
-    image: "/images/about/anna-kosenko-director-everappz.webp"
+  - name: "Artem Meleshko"
+    link: "https://www.linkedin.com/in/artem-meleshko/"
+    image: "/images/about/artem-meleshko-founder-everappz.webp"
 ---
 
 {{< author-byline >}}

@@ -7,9 +7,9 @@ tags: ["音訊", "串流", "播放器", "mp3", "下載", "GoogleDrive", "Dropbox
 cascade:
   type: docs
 authors:
-  - name: "Anna Kosenko"
-    link: "https://www.linkedin.com/in/anna-kosenko-kosenko/"
-    image: "/images/about/anna-kosenko-director-everappz.webp"
+  - name: "Artem Meleshko"
+    link: "https://www.linkedin.com/in/artem-meleshko/"
+    image: "/images/about/artem-meleshko-founder-everappz.webp"
 ---
 
 {{< author-byline >}}
