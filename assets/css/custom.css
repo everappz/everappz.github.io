@@ -380,3 +380,24 @@ details a {
         left: 5px;
     }
 }
+
+/* Footer / social icons — single source of truth for size + color.
+   Colors use the theme's Tailwind tokens (same ones the hx:text-gray-500 /
+   hx:dark:text-neutral-400 utilities compile to), so they stay in sync with the
+   theme. Change the size here once instead of on every <a> in
+   footer.html / social.html; add a @media rule for a different mobile size. */
+.everappz-social-icon {
+    width: 28px;
+    height: 28px;
+    color: var(--hx-color-gray-500);
+    transition: color 0.15s ease;
+}
+.everappz-social-icon:hover {
+    color: var(--hx-color-gray-900);
+}
+.dark .everappz-social-icon {
+    color: var(--hx-color-neutral-400);
+}
+.dark .everappz-social-icon:hover {
+    color: var(--hx-color-neutral-50);
+}
