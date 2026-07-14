@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "banners": [
+    {
+      "id": 1,
+      "name": "evermusic_free_ios",
+      "platform": "ios",
+      "version": 1,
+      "priority": "normal",
+      "configPath": "evermusic_free_ios/config.json",
+      "indexPath": "evermusic_free_ios/index.html"
+    },
+    {
+      "id": 2,
+      "name": "evermusic_macos",
+      "platform": "macos",
+      "version": 1,
+      "priority": "normal",
+      "configPath": "evermusic_macos/config.json",
+      "indexPath": "evermusic_macos/index.html"
+    }
+  ]
+}

@@ -1,0 +1,1874 @@
+{
+  "id": 2,
+  "version": 1,
+  "appId": "1564384601",
+  "storeUrl": "https://apps.apple.com/app/apple-store/id1564384601?pt=95781850&ct=cross_app_sale&mt=8",
+  "clickUrl": "",
+  "closeUrl": "",
+  "defaultLang": "en",
+  "screens": [
+    "resources/screens/1.png",
+    "resources/screens/2.png",
+    "resources/screens/3.png",
+    "resources/screens/4.png",
+    "resources/screens/5.png",
+    "resources/screens/6.png",
+    "resources/screens/7.png",
+    "resources/screens/8.png",
+    "resources/screens/9.png",
+    "resources/screens/10.png"
+  ],
+  "languages": {
+    "en": {
+      "eyebrow": "Download our <span class=\"hl\">Free</span> App",
+      "appTitle": "Evermusic",
+      "hook": "Advanced music player for your Mac",
+      "storeSmall": "Download on the",
+      "free": "Free",
+      "trust": "12 million downloads worldwide",
+      "features": [
+        [
+          "Audio equalizer",
+          "Pro equalizer, bass booster & custom presets"
+        ],
+        [
+          "Audio effects",
+          "Reverb, delay, crossfeed & normalization"
+        ],
+        [
+          "Gapless & crossfade",
+          "Seamless transitions, spatial audio & pitch"
+        ],
+        [
+          "Synced lyrics",
+          "Time-synced lyrics that scroll with the song"
+        ],
+        [
+          "Cloud streaming",
+          "Dropbox, Google Drive, OneDrive, Box & pCloud"
+        ],
+        [
+          "NAS & media servers",
+          "Plex, Jellyfin, Emby, SMB, FTP, WebDAV, UPnP"
+        ],
+        [
+          "Offline mode",
+          "Download songs & listen with no Internet"
+        ]
+      ],
+      "a11yTitle": "App banner",
+      "a11yClose": "Close app banner",
+      "a11yIcon": "App icon",
+      "a11yShot": "App screenshot"
+    },
+    "ar": {
+      "dir": "rtl",
+      "eyebrow": "حمّل تطبيقنا <span class=\"hl\">المجاني</span>",
+      "appTitle": "Evermusic",
+      "hook": "مشغّل موسيقى متقدّم لجهاز Mac",
+      "storeSmall": "حمّله من",
+      "free": "مجاني",
+      "trust": "12 مليون تنزيل حول العالم",
+      "features": [
+        [
+          "معادل الصوت",
+          "معادل احترافي، معزّز جهير وإعدادات مسبقة"
+        ],
+        [
+          "مؤثرات صوتية",
+          "صدى، تأخير، كروسفيد وتطبيع الصوت"
+        ],
+        [
+          "تشغيل بلا فواصل",
+          "انتقالات سلسة، صوت مكاني وتصحيح النبرة"
+        ],
+        [
+          "كلمات متزامنة",
+          "كلمات تتمرّر مع الأغنية"
+        ],
+        [
+          "بث سحابي",
+          "Dropbox، Google Drive، OneDrive، Box وpCloud"
+        ],
+        [
+          "NAS وخوادم الوسائط",
+          "Plex، Jellyfin، Emby، SMB، FTP، WebDAV، UPnP"
+        ],
+        [
+          "وضع دون اتصال",
+          "نزّل الأغاني واستمع دون إنترنت"
+        ]
+      ],
+      "a11yTitle": "لافتة التطبيق",
+      "a11yClose": "إغلاق لافتة التطبيق",
+      "a11yIcon": "أيقونة التطبيق",
+      "a11yShot": "لقطة شاشة التطبيق"
+    },
+    "bn": {
+      "eyebrow": "আমাদের <span class=\"hl\">ফ্রি</span> অ্যাপ ডাউনলোড করুন",
+      "appTitle": "Evermusic",
+      "hook": "আপনার Mac-এর জন্য উন্নত মিউজিক প্লেয়ার",
+      "storeSmall": "ডাউনলোড করুন",
+      "free": "ফ্রি",
+      "trust": "বিশ্বজুড়ে ১ কোটি ২০ লাখ ডাউনলোড",
+      "features": [
+        [
+          "অডিও ইকুয়ালাইজার",
+          "প্রো ইকুয়ালাইজার, বেস বুস্টার ও প্রিসেট"
+        ],
+        [
+          "অডিও এফেক্ট",
+          "রিভার্ব, ডিলে, ক্রসফিড ও নর্মালাইজেশন"
+        ],
+        [
+          "গ্যাপলেস ও ক্রসফেড",
+          "মসৃণ ট্রানজিশন, স্প্যাশিয়াল অডিও ও পিচ"
+        ],
+        [
+          "সিঙ্কড লিরিক্স",
+          "গানের সাথে স্ক্রল হওয়া সিঙ্কড লিরিক্স"
+        ],
+        [
+          "ক্লাউড স্ট্রিমিং",
+          "Dropbox, Google Drive, OneDrive, Box & pCloud"
+        ],
+        [
+          "NAS ও মিডিয়া সার্ভার",
+          "Plex, Jellyfin, Emby, SMB, FTP, WebDAV, UPnP"
+        ],
+        [
+          "অফলাইন মোড",
+          "গান ডাউনলোড করে ইন্টারনেট ছাড়াই শুনুন"
+        ]
+      ],
+      "a11yTitle": "অ্যাপ ব্যানার",
+      "a11yClose": "অ্যাপ ব্যানার বন্ধ করুন",
+      "a11yIcon": "অ্যাপ আইকন",
+      "a11yShot": "অ্যাপ স্ক্রিনশট"
+    },
+    "ca": {
+      "eyebrow": "Baixa la nostra app <span class=\"hl\">gratuïta</span>",
+      "appTitle": "Evermusic",
+      "hook": "Reproductor de música avançat per al teu Mac",
+      "storeSmall": "Baixa-la a l’",
+      "free": "Gratis",
+      "trust": "12 milions de baixades a tot el món",
+      "features": [
+        [
+          "Equalitzador d’àudio",
+          "Equalitzador pro, potenciador de greus i predefinits"
+        ],
+        [
+          "Efectes d’àudio",
+          "Reverb, delay, crossfeed i normalització"
+        ],
+        [
+          "Sense talls i crossfade",
+          "Transicions fluides, àudio espacial i to"
+        ],
+        [
+          "Lletres sincronitzades",
+          "Lletres que es desplacen amb la cançó"
+        ],
+        [
+          "Reproducció al núvol",
+          "Dropbox, Google Drive, OneDrive, Box & pCloud"
+        ],
+        [
+          "NAS i servidors multimèdia",
+          "Plex, Jellyfin, Emby, SMB, FTP, WebDAV, UPnP"
+        ],
+        [
+          "Mode fora de línia",
+          "Baixa cançons i escolta sense Internet"
+        ]
+      ],
+      "a11yTitle": "Bàner de l’app",
+      "a11yClose": "Tanca el bàner de l’app",
+      "a11yIcon": "Icona de l’app",
+      "a11yShot": "Captura de l’app"
+    },
+    "cs": {
+      "eyebrow": "Stáhněte si naši <span class=\"hl\">bezplatnou</span> aplikaci",
+      "appTitle": "Evermusic",
+      "hook": "Pokročilý hudební přehrávač pro váš Mac",
+      "storeSmall": "Stáhnout na",
+      "free": "Zdarma",
+      "trust": "12 milionů stažení po celém světě",
+      "features": [
+        [
+          "Ekvalizér zvuku",
+          "Profi ekvalizér, zesílení basů a předvolby"
+        ],
+        [
+          "Zvukové efekty",
+          "Dozvuk, delay, crossfeed a normalizace"
+        ],
+        [
+          "Plynulé přehrávání a prolínání",
+          "Plynulé přechody, prostorový zvuk a ladění"
+        ],
+        [
+          "Synchronizovaný text",
+          "Text písně, který se posouvá se skladbou"
+        ],
+        [
+          "Streamování z cloudu",
+          "Dropbox, Google Drive, OneDrive, Box & pCloud"
+        ],
+        [
+          "NAS a mediální servery",
+          "Plex, Jellyfin, Emby, SMB, FTP, WebDAV, UPnP"
+        ],
+        [
+          "Offline režim",
+          "Stáhněte skladby a poslouchejte bez internetu"
+        ]
+      ],
+      "a11yTitle": "Banner aplikace",
+      "a11yClose": "Zavřít banner aplikace",
+      "a11yIcon": "Ikona aplikace",
+      "a11yShot": "Snímek aplikace"
+    },
+    "da": {
+      "eyebrow": "Download vores <span class=\"hl\">gratis</span> app",
+      "appTitle": "Evermusic",
+      "hook": "Avanceret musikafspiller til din Mac",
+      "storeSmall": "Hent i",
+      "free": "Gratis",
+      "trust": "12 millioner downloads på verdensplan",
+      "features": [
+        [
+          "Lydequalizer",
+          "Pro-equalizer, basforstærker og forudindstillinger"
+        ],
+        [
+          "Lydeffekter",
+          "Rumklang, delay, crossfeed og normalisering"
+        ],
+        [
+          "Gapless og crossfade",
+          "Problemfrie overgange, rumlig lyd og pitch"
+        ],
+        [
+          "Synkroniseret sangtekst",
+          "Sangtekst der ruller med musikken"
+        ],
+        [
+          "Cloud-streaming",
+          "Dropbox, Google Drive, OneDrive, Box & pCloud"
+        ],
+        [
+          "NAS og medieservere",
+          "Plex, Jellyfin, Emby, SMB, FTP, WebDAV, UPnP"
+        ],
+        [
+          "Offlinetilstand",
+          "Download sange og lyt uden internet"
+        ]
+      ],
+      "a11yTitle": "App-banner",
+      "a11yClose": "Luk app-banner",
+      "a11yIcon": "App-ikon",
+      "a11yShot": "App-skærmbillede"
+    },
+    "de": {
+      "eyebrow": "Lade unsere <span class=\"hl\">kostenlose</span> App",
+      "appTitle": "Evermusic",
+      "hook": "Erweiterter Musikplayer für deinen Mac",
+      "storeSmall": "Laden im",
+      "free": "Gratis",
+      "trust": "12 Millionen Downloads weltweit",
+      "features": [
+        [
+          "Audio-Equalizer",
+          "Profi-Equalizer, Bassverstärker & Voreinstellungen"
+        ],
+        [
+          "Audioeffekte",
+          "Hall, Delay, Crossfeed & Normalisierung"
+        ],
+        [
+          "Gapless & Crossfade",
+          "Nahtlose Übergänge, Raumklang & Tonhöhe"
+        ],
+        [
+          "Synchroner Songtext",
+          "Songtext, der mit dem Lied mitläuft"
+        ],
+        [
+          "Cloud-Streaming",
+          "Dropbox, Google Drive, OneDrive, Box & pCloud"
+        ],
+        [
+          "NAS & Medienserver",
+          "Plex, Jellyfin, Emby, SMB, FTP, WebDAV, UPnP"
+        ],
+        [
+          "Offline-Modus",
+          "Songs laden und ohne Internet hören"
+        ]
+      ],
+      "a11yTitle": "App-Banner",
+      "a11yClose": "App-Banner schließen",
+      "a11yIcon": "App-Symbol",
+      "a11yShot": "App-Screenshot"
+    },
+    "el": {
+      "eyebrow": "Κατεβάστε τη <span class=\"hl\">δωρεάν</span> εφαρμογή μας",
+      "appTitle": "Evermusic",
+      "hook": "Προηγμένο πρόγραμμα αναπαραγωγής μουσικής για το Mac σας",
+      "storeSmall": "Κατεβάστε το από το",
+      "free": "Δωρεάν",
+      "trust": "12 εκατομμύρια λήψεις παγκοσμίως",
+      "features": [
+        [
+          "Ισοσταθμιστής ήχου",
+          "Επαγγελματικός ισοσταθμιστής, ενισχυτής μπάσων & προρρυθμίσεις"
+        ],
+        [
+          "Ηχητικά εφέ",
+          "Ρεβέρμπ, ντιλέι, crossfeed & κανονικοποίηση"
+        ],
+        [
+          "Χωρίς κενά & crossfade",
+          "Ομαλές μεταβάσεις, χωρικός ήχος & τόνος"
+        ],
+        [
+          "Συγχρονισμένοι στίχοι",
+          "Στίχοι που κυλούν μαζί με το τραγούδι"
+        ],
+        [
+          "Streaming στο cloud",
+          "Dropbox, Google Drive, OneDrive, Box & pCloud"
+        ],
+        [
+          "NAS & διακομιστές πολυμέσων",
+          "Plex, Jellyfin, Emby, SMB, FTP, WebDAV, UPnP"
+        ],
+        [
+          "Λειτουργία εκτός σύνδεσης",
+          "Κατεβάστε τραγούδια & ακούστε χωρίς Internet"
+        ]
+      ],
+      "a11yTitle": "Μπάνερ εφαρμογής",
+      "a11yClose": "Κλείσιμο μπάνερ εφαρμογής",
+      "a11yIcon": "Εικονίδιο εφαρμογής",
+      "a11yShot": "Στιγμιότυπο εφαρμογής"
+    },
+    "es": {
+      "eyebrow": "Descarga nuestra app <span class=\"hl\">gratis</span>",
+      "appTitle": "Evermusic",
+      "hook": "Reproductor de música avanzado para tu Mac",
+      "storeSmall": "Descárgala en el",
+      "free": "Gratis",
+      "trust": "12 millones de descargas en todo el mundo",
+      "features": [
+        [
+          "Ecualizador de audio",
+          "Ecualizador pro, potenciador de graves y ajustes"
+        ],
+        [
+          "Efectos de audio",
+          "Reverberación, retardo, crossfeed y normalización"
+        ],
+        [
+          "Sin cortes y crossfade",
+          "Transiciones suaves, audio espacial y tono"
+        ],
+        [
+          "Letras sincronizadas",
+          "Letras que avanzan con la canción"
+        ],
+        [
+          "Streaming en la nube",
+          "Dropbox, Google Drive, OneDrive, Box & pCloud"
+        ],
+        [
+          "NAS y servidores multimedia",
+          "Plex, Jellyfin, Emby, SMB, FTP, WebDAV, UPnP"
+        ],
+        [
+          "Modo sin conexión",
+          "Descarga canciones y escucha sin Internet"
+        ]
+      ],
+      "a11yTitle": "Banner de la app",
+      "a11yClose": "Cerrar banner de la app",
+      "a11yIcon": "Icono de la app",
+      "a11yShot": "Captura de la app"
+    },
+    "fi": {
+      "eyebrow": "Lataa <span class=\"hl\">ilmainen</span> sovelluksemme",
+      "appTitle": "Evermusic",
+      "hook": "Kehittynyt musiikkisoitin Macillesi",
+      "storeSmall": "Lataa",
+      "free": "Ilmainen",
+      "trust": "12 miljoonaa latausta maailmanlaajuisesti",
+      "features": [
+        [
+          "Äänen taajuuskorjain",
+          "Ammattitason taajuuskorjain, bassokorostus ja esiasetukset"
+        ],
+        [
+          "Äänitehosteet",
+          "Kaiku, viive, crossfeed ja normalisointi"
+        ],
+        [
+          "Saumaton ja ristihäivytys",
+          "Saumattomat siirtymät, tilaääni ja sävelkorkeus"
+        ],
+        [
+          "Synkronoidut sanat",
+          "Sanat, jotka vierivät kappaleen mukana"
+        ],
+        [
+          "Pilvisuoratoisto",
+          "Dropbox, Google Drive, OneDrive, Box & pCloud"
+        ],
+        [
+          "NAS ja mediapalvelimet",
+          "Plex, Jellyfin, Emby, SMB, FTP, WebDAV, UPnP"
+        ],
+        [
+          "Offline-tila",
+          "Lataa kappaleet ja kuuntele ilman nettiä"
+        ]
+      ],
+      "a11yTitle": "Sovelluksen banneri",
+      "a11yClose": "Sulje sovelluksen banneri",
+      "a11yIcon": "Sovelluksen kuvake",
+      "a11yShot": "Sovelluksen kuvakaappaus"
+    },
+    "fr": {
+      "eyebrow": "Téléchargez notre appli <span class=\"hl\">gratuite</span>",
+      "appTitle": "Evermusic",
+      "hook": "Lecteur de musique avancé pour votre Mac",
+      "storeSmall": "Télécharger dans l’",
+      "free": "Gratuit",
+      "trust": "12 millions de téléchargements dans le monde",
+      "features": [
+        [
+          "Égaliseur audio",
+          "Égaliseur pro, ampli de basses et préréglages"
+        ],
+        [
+          "Effets audio",
+          "Réverbération, delay, crossfeed et normalisation"
+        ],
+        [
+          "Sans blanc et crossfade",
+          "Transitions fluides, audio spatial et pitch"
+        ],
+        [
+          "Paroles synchronisées",
+          "Paroles qui défilent avec la chanson"
+        ],
+        [
+          "Streaming cloud",
+          "Dropbox, Google Drive, OneDrive, Box & pCloud"
+        ],
+        [
+          "NAS et serveurs multimédias",
+          "Plex, Jellyfin, Emby, SMB, FTP, WebDAV, UPnP"
+        ],
+        [
+          "Mode hors ligne",
+          "Téléchargez vos titres et écoutez sans Internet"
+        ]
+      ],
+      "a11yTitle": "Bannière de l’app",
+      "a11yClose": "Fermer la bannière de l’app",
+      "a11yIcon": "Icône de l’app",
+      "a11yShot": "Capture d’écran de l’app"
+    },
+    "gu": {
+      "eyebrow": "અમારી <span class=\"hl\">મફત</span> એપ ડાઉનલોડ કરો",
+      "appTitle": "Evermusic",
+      "hook": "તમારા Mac માટે અદ્યતન મ્યુઝિક પ્લેયર",
+      "storeSmall": "ડાઉનલોડ કરો",
+      "free": "મફત",
+      "trust": "વિશ્વભરમાં 1.2 કરોડ ડાઉનલોડ",
+      "features": [
+        [
+          "ઑડિયો ઇક્વલાઇઝર",
+          "પ્રો ઇક્વલાઇઝર, બેસ બૂસ્ટર અને પ્રીસેટ"
+        ],
+        [
+          "ઑડિયો ઇફેક્ટ્સ",
+          "રિવર્બ, ડિલે, ક્રોસફીડ અને નોર્મલાઇઝેશન"
+        ],
+        [
+          "ગેપલેસ અને ક્રોસફેડ",
+          "સરળ સંક્રમણો, સ્પેશિયલ ઑડિયો અને પિચ"
+        ],
+        [
+          "સિંક લિરિક્સ",
+          "ગીત સાથે સ્ક્રોલ થતા લિરિક્સ"
+        ],
+        [
+          "ક્લાઉડ સ્ટ્રીમિંગ",
+          "Dropbox, Google Drive, OneDrive, Box & pCloud"
+        ],
+        [
+          "NAS અને મીડિયા સર્વર",
+          "Plex, Jellyfin, Emby, SMB, FTP, WebDAV, UPnP"
+        ],
+        [
+          "ઑફલાઇન મોડ",
+          "ગીતો ડાઉનલોડ કરો અને ઇન્ટરનેટ વગર સાંભળો"
+        ]
+      ],
+      "a11yTitle": "એપ બેનર",
+      "a11yClose": "એપ બેનર બંધ કરો",
+      "a11yIcon": "એપ આઇકન",
+      "a11yShot": "એપ સ્ક્રીનશોટ"
+    },
+    "he": {
+      "dir": "rtl",
+      "eyebrow": "הורידו את האפליקציה <span class=\"hl\">החינמית</span> שלנו",
+      "appTitle": "Evermusic",
+      "hook": "נגן מוזיקה מתקדם ל‑Mac שלך",
+      "storeSmall": "הורידו מ־",
+      "free": "חינם",
+      "trust": "12 מיליון הורדות ברחבי העולם",
+      "features": [
+        [
+          "אקולייזר שמע",
+          "אקולייזר מקצועי, מגביר בסים והגדרות מוכנות"
+        ],
+        [
+          "אפקטי שמע",
+          "רברב, דיליי, קרוספיד ונרמול"
+        ],
+        [
+          "נגינה רציפה וקרוספייד",
+          "מעברים חלקים, שמע מרחבי וכוונון גובה"
+        ],
+        [
+          "מילים מסונכרנות",
+          "מילות השיר נגללות יחד עם המוזיקה"
+        ],
+        [
+          "סטרימינג מהענן",
+          "Dropbox, Google Drive, OneDrive, Box & pCloud"
+        ],
+        [
+          "NAS ושרתי מדיה",
+          "Plex, Jellyfin, Emby, SMB, FTP, WebDAV, UPnP"
+        ],
+        [
+          "מצב לא מקוון",
+          "הורידו שירים והאזינו ללא אינטרנט"
+        ]
+      ],
+      "a11yTitle": "באנר האפליקציה",
+      "a11yClose": "סגירת באנר האפליקציה",
+      "a11yIcon": "סמל האפליקציה",
+      "a11yShot": "צילום מסך של האפליקציה"
+    },
+    "hi": {
+      "eyebrow": "हमारा <span class=\"hl\">मुफ़्त</span> ऐप डाउनलोड करें",
+      "appTitle": "Evermusic",
+      "hook": "आपके Mac के लिए उन्नत म्यूज़िक प्लेयर",
+      "storeSmall": "डाउनलोड करें",
+      "free": "मुफ़्त",
+      "trust": "दुनिया भर में 1.2 करोड़ डाउनलोड",
+      "features": [
+        [
+          "ऑडियो इक्वलाइज़र",
+          "प्रो इक्वलाइज़र, बास बूस्टर और प्रीसेट"
+        ],
+        [
+          "ऑडियो इफ़ेक्ट",
+          "रिवर्ब, डिले, क्रॉसफ़ीड और नॉर्मलाइज़ेशन"
+        ],
+        [
+          "गैपलेस और क्रॉसफ़ेड",
+          "सहज ट्रांज़िशन, स्थानिक ऑडियो और पिच"
+        ],
+        [
+          "सिंक लिरिक्स",
+          "गाने के साथ स्क्रॉल होते सिंक लिरिक्स"
+        ],
+        [
+          "क्लाउड स्ट्रीमिंग",
+          "Dropbox, Google Drive, OneDrive, Box & pCloud"
+        ],
+        [
+          "NAS और मीडिया सर्वर",
+          "Plex, Jellyfin, Emby, SMB, FTP, WebDAV, UPnP"
+        ],
+        [
+          "ऑफ़लाइन मोड",
+          "गाने डाउनलोड करें, बिना इंटरनेट सुनें"
+        ]
+      ],
+      "a11yTitle": "ऐप बैनर",
+      "a11yClose": "ऐप बैनर बंद करें",
+      "a11yIcon": "ऐप आइकन",
+      "a11yShot": "ऐप स्क्रीनशॉट"
+    },
+    "hr": {
+      "eyebrow": "Preuzmite našu <span class=\"hl\">besplatnu</span> aplikaciju",
+      "appTitle": "Evermusic",
+      "hook": "Napredni glazbeni player za vaš Mac",
+      "storeSmall": "Preuzmite na",
+      "free": "Besplatno",
+      "trust": "12 milijuna preuzimanja diljem svijeta",
+      "features": [
+        [
+          "Audio ekvilizator",
+          "Profesionalni ekvilizator, pojačivač basa i postavke"
+        ],
+        [
+          "Audio efekti",
+          "Reverb, delay, crossfeed i normalizacija"
+        ],
+        [
+          "Bez pauza i crossfade",
+          "Glatki prijelazi, prostorni zvuk i visina tona"
+        ],
+        [
+          "Sinkronizirani tekst",
+          "Tekst pjesme koji se pomiče uz pjesmu"
+        ],
+        [
+          "Streaming u oblaku",
+          "Dropbox, Google Drive, OneDrive, Box & pCloud"
+        ],
+        [
+          "NAS i medijski poslužitelji",
+          "Plex, Jellyfin, Emby, SMB, FTP, WebDAV, UPnP"
+        ],
+        [
+          "Izvanmrežni način rada",
+          "Preuzmite pjesme i slušajte bez interneta"
+        ]
+      ],
+      "a11yTitle": "Banner aplikacije",
+      "a11yClose": "Zatvori banner aplikacije",
+      "a11yIcon": "Ikona aplikacije",
+      "a11yShot": "Snimka zaslona aplikacije"
+    },
+    "hu": {
+      "eyebrow": "Töltsd le <span class=\"hl\">ingyenes</span> alkalmazásunkat",
+      "appTitle": "Evermusic",
+      "hook": "Fejlett zenelejátszó az Mac-odhoz",
+      "storeSmall": "Töltsd le innen:",
+      "free": "Ingyenes",
+      "trust": "12 millió letöltés világszerte",
+      "features": [
+        [
+          "Hangszínszabályozó",
+          "Profi hangszínszabályozó, basszuserősítő és előbeállítások"
+        ],
+        [
+          "Hangeffektek",
+          "Zengetés, delay, crossfeed és normalizálás"
+        ],
+        [
+          "Szünetmentes és áttűnés",
+          "Zökkenőmentes átmenetek, térbeli hang és hangmagasság"
+        ],
+        [
+          "Szinkronizált dalszöveg",
+          "A dallal együtt gördülő dalszöveg"
+        ],
+        [
+          "Felhőalapú streaming",
+          "Dropbox, Google Drive, OneDrive, Box & pCloud"
+        ],
+        [
+          "NAS és médiaszerverek",
+          "Plex, Jellyfin, Emby, SMB, FTP, WebDAV, UPnP"
+        ],
+        [
+          "Offline mód",
+          "Tölts le dalokat, és hallgasd internet nélkül"
+        ]
+      ],
+      "a11yTitle": "Alkalmazásbanner",
+      "a11yClose": "Alkalmazásbanner bezárása",
+      "a11yIcon": "Alkalmazásikon",
+      "a11yShot": "Alkalmazás képernyőkép"
+    },
+    "id": {
+      "eyebrow": "Unduh aplikasi <span class=\"hl\">gratis</span> kami",
+      "appTitle": "Evermusic",
+      "hook": "Pemutar musik canggih untuk Mac Anda",
+      "storeSmall": "Unduh di",
+      "free": "Gratis",
+      "trust": "12 juta unduhan di seluruh dunia",
+      "features": [
+        [
+          "Ekualiser audio",
+          "Ekualiser pro, penguat bass & preset"
+        ],
+        [
+          "Efek audio",
+          "Reverb, delay, crossfeed & normalisasi"
+        ],
+        [
+          "Gapless & crossfade",
+          "Transisi mulus, audio spasial & pitch"
+        ],
+        [
+          "Lirik tersinkron",
+          "Lirik yang bergulir seiring lagu"
+        ],
+        [
+          "Streaming awan",
+          "Dropbox, Google Drive, OneDrive, Box & pCloud"
+        ],
+        [
+          "NAS & server media",
+          "Plex, Jellyfin, Emby, SMB, FTP, WebDAV, UPnP"
+        ],
+        [
+          "Mode offline",
+          "Unduh lagu & dengarkan tanpa Internet"
+        ]
+      ],
+      "a11yTitle": "Banner aplikasi",
+      "a11yClose": "Tutup banner aplikasi",
+      "a11yIcon": "Ikon aplikasi",
+      "a11yShot": "Tangkapan layar aplikasi"
+    },
+    "it": {
+      "eyebrow": "Scarica la nostra app <span class=\"hl\">gratuita</span>",
+      "appTitle": "Evermusic",
+      "hook": "Lettore musicale avanzato per il tuo Mac",
+      "storeSmall": "Scarica su",
+      "free": "Gratis",
+      "trust": "12 milioni di download in tutto il mondo",
+      "features": [
+        [
+          "Equalizzatore audio",
+          "Equalizzatore pro, esaltatore di bassi e preset"
+        ],
+        [
+          "Effetti audio",
+          "Riverbero, delay, crossfeed e normalizzazione"
+        ],
+        [
+          "Senza pause e crossfade",
+          "Transizioni fluide, audio spaziale e intonazione"
+        ],
+        [
+          "Testi sincronizzati",
+          "Testi che scorrono con la canzone"
+        ],
+        [
+          "Streaming nel cloud",
+          "Dropbox, Google Drive, OneDrive, Box & pCloud"
+        ],
+        [
+          "NAS e server multimediali",
+          "Plex, Jellyfin, Emby, SMB, FTP, WebDAV, UPnP"
+        ],
+        [
+          "Modalità offline",
+          "Scarica i brani e ascolta senza Internet"
+        ]
+      ],
+      "a11yTitle": "Banner dell’app",
+      "a11yClose": "Chiudi il banner dell’app",
+      "a11yIcon": "Icona dell’app",
+      "a11yShot": "Screenshot dell’app"
+    },
+    "ja": {
+      "eyebrow": "<span class=\"hl\">無料</span>アプリをダウンロード",
+      "appTitle": "Evermusic",
+      "hook": "Mac のための高度な音楽プレーヤー",
+      "storeSmall": "ダウンロード：",
+      "free": "無料",
+      "trust": "世界中で1,200万ダウンロード",
+      "features": [
+        [
+          "オーディオイコライザー",
+          "プロ仕様イコライザー、低音ブースター、カスタムプリセット"
+        ],
+        [
+          "オーディオエフェクト",
+          "リバーブ、ディレイ、クロスフィード、音量正規化"
+        ],
+        [
+          "ギャップレスとクロスフェード",
+          "シームレスな切り替え、空間オーディオ、ピッチ補正"
+        ],
+        [
+          "同期歌詞",
+          "曲に合わせてスクロールする同期歌詞"
+        ],
+        [
+          "クラウドストリーミング",
+          "Dropbox、Google Drive、OneDrive、Box、pCloud"
+        ],
+        [
+          "NAS とメディアサーバー",
+          "Plex、Jellyfin、Emby、SMB、FTP、WebDAV、UPnP"
+        ],
+        [
+          "オフラインモード",
+          "曲をダウンロードしてインターネットなしで再生"
+        ]
+      ],
+      "a11yTitle": "アプリバナー",
+      "a11yClose": "アプリバナーを閉じる",
+      "a11yIcon": "アプリアイコン",
+      "a11yShot": "アプリのスクリーンショット"
+    },
+    "kn": {
+      "eyebrow": "ನಮ್ಮ <span class=\"hl\">ಉಚಿತ</span> ಆ್ಯಪ್ ಡೌನ್‌ಲೋಡ್ ಮಾಡಿ",
+      "appTitle": "Evermusic",
+      "hook": "ನಿಮ್ಮ Mac ಗಾಗಿ ಸುಧಾರಿತ ಸಂಗೀತ ಪ್ಲೇಯರ್",
+      "storeSmall": "ಡೌನ್‌ಲೋಡ್ ಮಾಡಿ",
+      "free": "ಉಚಿತ",
+      "trust": "ವಿಶ್ವಾದ್ಯಂತ 1.2 ಕೋಟಿ ಡೌನ್‌ಲೋಡ್‌ಗಳು",
+      "features": [
+        [
+          "ಆಡಿಯೊ ಈಕ್ವಲೈಜರ್",
+          "ಪ್ರೊ ಈಕ್ವಲೈಜರ್, ಬೇಸ್ ಬೂಸ್ಟರ್ ಮತ್ತು ಪ್ರಿಸೆಟ್‌ಗಳು"
+        ],
+        [
+          "ಆಡಿಯೊ ಎಫೆಕ್ಟ್‌ಗಳು",
+          "ರಿವರ್ಬ್, ಡಿಲೇ, ಕ್ರಾಸ್‌ಫೀಡ್ ಮತ್ತು ನಾರ್ಮಲೈಸೇಶನ್"
+        ],
+        [
+          "ಗ್ಯಾಪ್‌ಲೆಸ್ ಮತ್ತು ಕ್ರಾಸ್‌ಫೇಡ್",
+          "ನಯವಾದ ಪರಿವರ್ತನೆಗಳು, ಸ್ಪೇಶಿಯಲ್ ಆಡಿಯೊ ಮತ್ತು ಪಿಚ್"
+        ],
+        [
+          "ಸಿಂಕ್ ಸಾಹಿತ್ಯ",
+          "ಹಾಡಿನೊಂದಿಗೆ ಸ್ಕ್ರಾಲ್ ಆಗುವ ಸಾಹಿತ್ಯ"
+        ],
+        [
+          "ಕ್ಲೌಡ್ ಸ್ಟ್ರೀಮಿಂಗ್",
+          "Dropbox, Google Drive, OneDrive, Box & pCloud"
+        ],
+        [
+          "NAS ಮತ್ತು ಮೀಡಿಯಾ ಸರ್ವರ್‌ಗಳು",
+          "Plex, Jellyfin, Emby, SMB, FTP, WebDAV, UPnP"
+        ],
+        [
+          "ಆಫ್‌ಲೈನ್ ಮೋಡ್",
+          "ಹಾಡುಗಳನ್ನು ಡೌನ್‌ಲೋಡ್ ಮಾಡಿ, ಇಂಟರ್ನೆಟ್ ಇಲ್ಲದೆ ಕೇಳಿ"
+        ]
+      ],
+      "a11yTitle": "ಆ್ಯಪ್ ಬ್ಯಾನರ್",
+      "a11yClose": "ಆ್ಯಪ್ ಬ್ಯಾನರ್ ಮುಚ್ಚಿ",
+      "a11yIcon": "ಆ್ಯಪ್ ಐಕಾನ್",
+      "a11yShot": "ಆ್ಯಪ್ ಸ್ಕ್ರೀನ್‌ಶಾಟ್"
+    },
+    "ko": {
+      "eyebrow": "<span class=\"hl\">무료</span> 앱을 다운로드하세요",
+      "appTitle": "Evermusic",
+      "hook": "Mac을 위한 고급 음악 플레이어",
+      "storeSmall": "다운로드:",
+      "free": "무료",
+      "trust": "전 세계 1,200만 다운로드",
+      "features": [
+        [
+          "오디오 이퀄라이저",
+          "프로 이퀄라이저, 베이스 부스터 및 사용자 프리셋"
+        ],
+        [
+          "오디오 효과",
+          "리버브, 딜레이, 크로스피드 및 볼륨 정규화"
+        ],
+        [
+          "갭리스 및 크로스페이드",
+          "매끄러운 전환, 공간 음향 및 피치 보정"
+        ],
+        [
+          "동기화 가사",
+          "노래에 맞춰 스크롤되는 동기화 가사"
+        ],
+        [
+          "클라우드 스트리밍",
+          "Dropbox, Google Drive, OneDrive, Box 및 pCloud"
+        ],
+        [
+          "NAS 및 미디어 서버",
+          "Plex, Jellyfin, Emby, SMB, FTP, WebDAV, UPnP"
+        ],
+        [
+          "오프라인 모드",
+          "노래를 다운로드해 인터넷 없이 감상"
+        ]
+      ],
+      "a11yTitle": "앱 배너",
+      "a11yClose": "앱 배너 닫기",
+      "a11yIcon": "앱 아이콘",
+      "a11yShot": "앱 스크린샷"
+    },
+    "ml": {
+      "eyebrow": "ഞങ്ങളുടെ <span class=\"hl\">സൗജന്യ</span> ആപ്പ് ഡൗൺലോഡ് ചെയ്യൂ",
+      "appTitle": "Evermusic",
+      "hook": "നിങ്ങളുടെ Mac-നായി വിപുലമായ മ്യൂസിക് പ്ലേയർ",
+      "storeSmall": "ഡൗൺലോഡ് ചെയ്യൂ",
+      "free": "സൗജന്യം",
+      "trust": "ലോകമെമ്പാടും 1.2 കോടി ഡൗൺലോഡുകൾ",
+      "features": [
+        [
+          "ഓഡിയോ ഇക്വലൈസർ",
+          "പ്രോ ഇക്വലൈസർ, ബാസ് ബൂസ്റ്റർ, പ്രീസെറ്റുകൾ"
+        ],
+        [
+          "ഓഡിയോ ഇഫക്റ്റുകൾ",
+          "റിവർബ്, ഡിലേ, ക്രോസ്ഫീഡ്, നോർമലൈസേഷൻ"
+        ],
+        [
+          "ഗ്യാപ്‌ലെസ്, ക്രോസ്ഫേഡ്",
+          "സുഗമമായ മാറ്റങ്ങൾ, സ്പേഷ്യൽ ഓഡിയോ, പിച്ച്"
+        ],
+        [
+          "സിങ്ക് ചെയ്ത വരികൾ",
+          "പാട്ടിനൊപ്പം സ്ക്രോൾ ചെയ്യുന്ന വരികൾ"
+        ],
+        [
+          "ക്ലൗഡ് സ്ട്രീമിംഗ്",
+          "Dropbox, Google Drive, OneDrive, Box & pCloud"
+        ],
+        [
+          "NAS, മീഡിയ സെർവറുകൾ",
+          "Plex, Jellyfin, Emby, SMB, FTP, WebDAV, UPnP"
+        ],
+        [
+          "ഓഫ്‌ലൈൻ മോഡ്",
+          "പാട്ടുകൾ ഡൗൺലോഡ് ചെയ്ത് ഇന്റർനെറ്റില്ലാതെ കേൾക്കൂ"
+        ]
+      ],
+      "a11yTitle": "ആപ്പ് ബാനർ",
+      "a11yClose": "ആപ്പ് ബാനർ അടയ്ക്കുക",
+      "a11yIcon": "ആപ്പ് ഐക്കൺ",
+      "a11yShot": "ആപ്പ് സ്ക്രീൻഷോട്ട്"
+    },
+    "mr": {
+      "eyebrow": "आमचे <span class=\"hl\">मोफत</span> अ‍ॅप डाउनलोड करा",
+      "appTitle": "Evermusic",
+      "hook": "तुमच्या Mac साठी प्रगत म्युझिक प्लेयर",
+      "storeSmall": "डाउनलोड करा",
+      "free": "मोफत",
+      "trust": "जगभरात 1.2 कोटी डाउनलोड",
+      "features": [
+        [
+          "ऑडिओ इक्वलायझर",
+          "प्रो इक्वलायझर, बेस बूस्टर आणि प्रीसेट"
+        ],
+        [
+          "ऑडिओ इफेक्ट्स",
+          "रिव्हर्ब, डिले, क्रॉसफीड आणि नॉर्मलायझेशन"
+        ],
+        [
+          "गॅपलेस आणि क्रॉसफेड",
+          "सहज संक्रमणे, स्पेशियल ऑडिओ आणि पिच"
+        ],
+        [
+          "सिंक लिरिक्स",
+          "गाण्यासोबत स्क्रोल होणारे लिरिक्स"
+        ],
+        [
+          "क्लाउड स्ट्रीमिंग",
+          "Dropbox, Google Drive, OneDrive, Box & pCloud"
+        ],
+        [
+          "NAS आणि मीडिया सर्व्हर",
+          "Plex, Jellyfin, Emby, SMB, FTP, WebDAV, UPnP"
+        ],
+        [
+          "ऑफलाइन मोड",
+          "गाणी डाउनलोड करा आणि इंटरनेटशिवाय ऐका"
+        ]
+      ],
+      "a11yTitle": "अ‍ॅप बॅनर",
+      "a11yClose": "अ‍ॅप बॅनर बंद करा",
+      "a11yIcon": "अ‍ॅप आयकॉन",
+      "a11yShot": "अ‍ॅप स्क्रीनशॉट"
+    },
+    "ms": {
+      "eyebrow": "Muat turun apl <span class=\"hl\">percuma</span> kami",
+      "appTitle": "Evermusic",
+      "hook": "Pemain muzik lanjutan untuk Mac anda",
+      "storeSmall": "Muat turun di",
+      "free": "Percuma",
+      "trust": "12 juta muat turun di seluruh dunia",
+      "features": [
+        [
+          "Penyama audio",
+          "Penyama pro, penggalak bes & pratetap"
+        ],
+        [
+          "Kesan audio",
+          "Reverb, delay, crossfeed & penormalan"
+        ],
+        [
+          "Tanpa jeda & crossfade",
+          "Peralihan lancar, audio spatial & pic"
+        ],
+        [
+          "Lirik segerak",
+          "Lirik yang menatal mengikut lagu"
+        ],
+        [
+          "Penstriman awan",
+          "Dropbox, Google Drive, OneDrive, Box & pCloud"
+        ],
+        [
+          "NAS & pelayan media",
+          "Plex, Jellyfin, Emby, SMB, FTP, WebDAV, UPnP"
+        ],
+        [
+          "Mod luar talian",
+          "Muat turun lagu & dengar tanpa Internet"
+        ]
+      ],
+      "a11yTitle": "Sepanduk apl",
+      "a11yClose": "Tutup sepanduk apl",
+      "a11yIcon": "Ikon apl",
+      "a11yShot": "Tangkapan skrin apl"
+    },
+    "nb": {
+      "eyebrow": "Last ned vår <span class=\"hl\">gratis</span> app",
+      "appTitle": "Evermusic",
+      "hook": "Avansert musikkspiller for Mac",
+      "storeSmall": "Last ned på",
+      "free": "Gratis",
+      "trust": "12 millioner nedlastinger over hele verden",
+      "features": [
+        [
+          "Lydequalizer",
+          "Proff equalizer, bassforsterker og forhåndsinnstillinger"
+        ],
+        [
+          "Lydeffekter",
+          "Klang, delay, crossfeed og normalisering"
+        ],
+        [
+          "Sømløs og crossfade",
+          "Sømløse overganger, romlig lyd og tonehøyde"
+        ],
+        [
+          "Synkronisert sangtekst",
+          "Sangtekst som ruller med låten"
+        ],
+        [
+          "Skystrømming",
+          "Dropbox, Google Drive, OneDrive, Box & pCloud"
+        ],
+        [
+          "NAS og medieservere",
+          "Plex, Jellyfin, Emby, SMB, FTP, WebDAV, UPnP"
+        ],
+        [
+          "Frakoblet modus",
+          "Last ned sanger og lytt uten internett"
+        ]
+      ],
+      "a11yTitle": "App-banner",
+      "a11yClose": "Lukk app-banner",
+      "a11yIcon": "App-ikon",
+      "a11yShot": "App-skjermbilde"
+    },
+    "nl": {
+      "eyebrow": "Download onze <span class=\"hl\">gratis</span> app",
+      "appTitle": "Evermusic",
+      "hook": "Geavanceerde muziekspeler voor je Mac",
+      "storeSmall": "Downloaden in de",
+      "free": "Gratis",
+      "trust": "12 miljoen downloads wereldwijd",
+      "features": [
+        [
+          "Audio-equalizer",
+          "Pro-equalizer, basversterker en presets"
+        ],
+        [
+          "Audio-effecten",
+          "Reverb, delay, crossfeed en normalisatie"
+        ],
+        [
+          "Naadloos en crossfade",
+          "Vloeiende overgangen, ruimtelijke audio en toonhoogte"
+        ],
+        [
+          "Gesynchroniseerde songteksten",
+          "Songtekst die met het nummer meescrollt"
+        ],
+        [
+          "Cloudstreaming",
+          "Dropbox, Google Drive, OneDrive, Box & pCloud"
+        ],
+        [
+          "NAS en mediaservers",
+          "Plex, Jellyfin, Emby, SMB, FTP, WebDAV, UPnP"
+        ],
+        [
+          "Offlinemodus",
+          "Download nummers en luister zonder internet"
+        ]
+      ],
+      "a11yTitle": "App-banner",
+      "a11yClose": "App-banner sluiten",
+      "a11yIcon": "App-pictogram",
+      "a11yShot": "App-schermafbeelding"
+    },
+    "or": {
+      "eyebrow": "ଆମର <span class=\"hl\">ମାଗଣା</span> ଆପ୍ ଡାଉନଲୋଡ୍ କରନ୍ତୁ",
+      "appTitle": "Evermusic",
+      "hook": "ଆପଣଙ୍କ Mac ପାଇଁ ଉନ୍ନତ ମ୍ୟୁଜିକ୍ ପ୍ଲେୟାର୍",
+      "storeSmall": "ଡାଉନଲୋଡ୍ କରନ୍ତୁ",
+      "free": "ମାଗଣା",
+      "trust": "ବିଶ୍ୱବ୍ୟାପୀ 1.2 କୋଟି ଡାଉନଲୋଡ୍",
+      "features": [
+        [
+          "ଅଡିଓ ଇକ୍ୱାଲାଇଜର୍",
+          "ପ୍ରୋ ଇକ୍ୱାଲାଇଜର୍, ବେସ୍ ବୁଷ୍ଟର୍ ଓ ପ୍ରିସେଟ୍"
+        ],
+        [
+          "ଅଡିଓ ଇଫେକ୍ଟ",
+          "ରିଭର୍ବ, ଡିଲେ, କ୍ରସ୍‌ଫିଡ୍ ଓ ନର୍ମାଲାଇଜେସନ୍"
+        ],
+        [
+          "ଗ୍ୟାପ୍‌ଲେସ୍ ଓ କ୍ରସ୍‌ଫେଡ୍",
+          "ସୁଗମ ପରିବର୍ତ୍ତନ, ସ୍ପେସିଆଲ୍ ଅଡିଓ ଓ ପିଚ୍"
+        ],
+        [
+          "ସିଙ୍କ୍ ଲିରିକ୍ସ",
+          "ଗୀତ ସହିତ ସ୍କ୍ରୋଲ୍ ହେଉଥିବା ଲିରିକ୍ସ"
+        ],
+        [
+          "କ୍ଲାଉଡ୍ ଷ୍ଟ୍ରିମିଂ",
+          "Dropbox, Google Drive, OneDrive, Box & pCloud"
+        ],
+        [
+          "NAS ଓ ମିଡିଆ ସର୍ଭର୍",
+          "Plex, Jellyfin, Emby, SMB, FTP, WebDAV, UPnP"
+        ],
+        [
+          "ଅଫଲାଇନ୍ ମୋଡ୍",
+          "ଗୀତ ଡାଉନଲୋଡ୍ କରି ଇଣ୍ଟରନେଟ୍ ବିନା ଶୁଣନ୍ତୁ"
+        ]
+      ],
+      "a11yTitle": "ଆପ୍ ବ୍ୟାନର୍",
+      "a11yClose": "ଆପ୍ ବ୍ୟାନର୍ ବନ୍ଦ କରନ୍ତୁ",
+      "a11yIcon": "ଆପ୍ ଆଇକନ୍",
+      "a11yShot": "ଆପ୍ ସ୍କ୍ରିନ୍‌ସଟ୍"
+    },
+    "pa": {
+      "eyebrow": "ਸਾਡੀ <span class=\"hl\">ਮੁਫ਼ਤ</span> ਐਪ ਡਾਊਨਲੋਡ ਕਰੋ",
+      "appTitle": "Evermusic",
+      "hook": "ਤੁਹਾਡੇ Mac ਲਈ ਉੱਨਤ ਮਿਊਜ਼ਿਕ ਪਲੇਅਰ",
+      "storeSmall": "ਡਾਊਨਲੋਡ ਕਰੋ",
+      "free": "ਮੁਫ਼ਤ",
+      "trust": "ਦੁਨੀਆ ਭਰ ਵਿੱਚ 1.2 ਕਰੋੜ ਡਾਊਨਲੋਡ",
+      "features": [
+        [
+          "ਆਡੀਓ ਇਕੁਲਾਈਜ਼ਰ",
+          "ਪ੍ਰੋ ਇਕੁਲਾਈਜ਼ਰ, ਬੇਸ ਬੂਸਟਰ ਅਤੇ ਪ੍ਰੀਸੈੱਟ"
+        ],
+        [
+          "ਆਡੀਓ ਇਫੈਕਟ",
+          "ਰਿਵਰਬ, ਡਿਲੇ, ਕ੍ਰਾਸਫੀਡ ਅਤੇ ਨੌਰਮਲਾਈਜ਼ੇਸ਼ਨ"
+        ],
+        [
+          "ਗੈਪਲੈੱਸ ਅਤੇ ਕ੍ਰਾਸਫੇਡ",
+          "ਸੁਚਾਰੂ ਤਬਦੀਲੀਆਂ, ਸਪੇਸ਼ੀਅਲ ਆਡੀਓ ਅਤੇ ਪਿੱਚ"
+        ],
+        [
+          "ਸਿੰਕ ਲਿਰਿਕਸ",
+          "ਗੀਤ ਨਾਲ ਸਕ੍ਰੋਲ ਹੁੰਦੇ ਲਿਰਿਕਸ"
+        ],
+        [
+          "ਕਲਾਊਡ ਸਟ੍ਰੀਮਿੰਗ",
+          "Dropbox, Google Drive, OneDrive, Box & pCloud"
+        ],
+        [
+          "NAS ਅਤੇ ਮੀਡੀਆ ਸਰਵਰ",
+          "Plex, Jellyfin, Emby, SMB, FTP, WebDAV, UPnP"
+        ],
+        [
+          "ਆਫਲਾਈਨ ਮੋਡ",
+          "ਗੀਤ ਡਾਊਨਲੋਡ ਕਰੋ ਅਤੇ ਇੰਟਰਨੈੱਟ ਤੋਂ ਬਿਨਾਂ ਸੁਣੋ"
+        ]
+      ],
+      "a11yTitle": "ਐਪ ਬੈਨਰ",
+      "a11yClose": "ਐਪ ਬੈਨਰ ਬੰਦ ਕਰੋ",
+      "a11yIcon": "ਐਪ ਆਈਕਨ",
+      "a11yShot": "ਐਪ ਸਕ੍ਰੀਨਸ਼ਾਟ"
+    },
+    "pl": {
+      "eyebrow": "Pobierz naszą <span class=\"hl\">darmową</span> aplikację",
+      "appTitle": "Evermusic",
+      "hook": "Zaawansowany odtwarzacz muzyki na Maca",
+      "storeSmall": "Pobierz z",
+      "free": "Za darmo",
+      "trust": "12 milionów pobrań na całym świecie",
+      "features": [
+        [
+          "Korektor dźwięku",
+          "Profesjonalny korektor, wzmacniacz basów i ustawienia"
+        ],
+        [
+          "Efekty dźwiękowe",
+          "Pogłos, delay, crossfeed i normalizacja"
+        ],
+        [
+          "Bez przerw i crossfade",
+          "Płynne przejścia, dźwięk przestrzenny i wysokość"
+        ],
+        [
+          "Zsynchronizowany tekst",
+          "Tekst przewijający się razem z utworem"
+        ],
+        [
+          "Strumieniowanie z chmury",
+          "Dropbox, Google Drive, OneDrive, Box & pCloud"
+        ],
+        [
+          "NAS i serwery multimedialne",
+          "Plex, Jellyfin, Emby, SMB, FTP, WebDAV, UPnP"
+        ],
+        [
+          "Tryb offline",
+          "Pobieraj utwory i słuchaj bez internetu"
+        ]
+      ],
+      "a11yTitle": "Baner aplikacji",
+      "a11yClose": "Zamknij baner aplikacji",
+      "a11yIcon": "Ikona aplikacji",
+      "a11yShot": "Zrzut ekranu aplikacji"
+    },
+    "pt": {
+      "eyebrow": "Baixe nosso app <span class=\"hl\">grátis</span>",
+      "appTitle": "Evermusic",
+      "hook": "Reprodutor de música avançado para seu Mac",
+      "storeSmall": "Baixe na",
+      "free": "Grátis",
+      "trust": "12 milhões de downloads no mundo todo",
+      "features": [
+        [
+          "Equalizador de áudio",
+          "Equalizador pro, reforço de graves e predefinições"
+        ],
+        [
+          "Efeitos de áudio",
+          "Reverb, delay, crossfeed e normalização"
+        ],
+        [
+          "Sem pausas e crossfade",
+          "Transições suaves, áudio espacial e tom"
+        ],
+        [
+          "Letras sincronizadas",
+          "Letras que rolam junto com a música"
+        ],
+        [
+          "Streaming na nuvem",
+          "Dropbox, Google Drive, OneDrive, Box & pCloud"
+        ],
+        [
+          "NAS e servidores de mídia",
+          "Plex, Jellyfin, Emby, SMB, FTP, WebDAV, UPnP"
+        ],
+        [
+          "Modo offline",
+          "Baixe músicas e ouça sem Internet"
+        ]
+      ],
+      "a11yTitle": "Banner do app",
+      "a11yClose": "Fechar banner do app",
+      "a11yIcon": "Ícone do app",
+      "a11yShot": "Captura de tela do app"
+    },
+    "ro": {
+      "eyebrow": "Descarcă aplicația noastră <span class=\"hl\">gratuită</span>",
+      "appTitle": "Evermusic",
+      "hook": "Player de muzică avansat pentru Mac-ul tău",
+      "storeSmall": "Descarcă din",
+      "free": "Gratuit",
+      "trust": "12 milioane de descărcări în întreaga lume",
+      "features": [
+        [
+          "Egalizator audio",
+          "Egalizator pro, amplificator de başi și presetări"
+        ],
+        [
+          "Efecte audio",
+          "Reverb, delay, crossfeed și normalizare"
+        ],
+        [
+          "Fără pauze și crossfade",
+          "Tranziții fluide, audio spațial și ton"
+        ],
+        [
+          "Versuri sincronizate",
+          "Versuri care se derulează odată cu melodia"
+        ],
+        [
+          "Streaming în cloud",
+          "Dropbox, Google Drive, OneDrive, Box & pCloud"
+        ],
+        [
+          "NAS și servere media",
+          "Plex, Jellyfin, Emby, SMB, FTP, WebDAV, UPnP"
+        ],
+        [
+          "Mod offline",
+          "Descarcă melodii și ascultă fără internet"
+        ]
+      ],
+      "a11yTitle": "Banner aplicație",
+      "a11yClose": "Închide bannerul aplicației",
+      "a11yIcon": "Pictogramă aplicație",
+      "a11yShot": "Captură de ecran aplicație"
+    },
+    "ru": {
+      "eyebrow": "Скачайте наше <span class=\"hl\">бесплатное</span> приложение",
+      "appTitle": "Evermusic",
+      "hook": "Продвинутый музыкальный плеер для вашего Mac",
+      "storeSmall": "Загрузите в",
+      "free": "Бесплатно",
+      "trust": "12 миллионов загрузок по всему миру",
+      "features": [
+        [
+          "Эквалайзер",
+          "Профи-эквалайзер, усилитель баса и пресеты"
+        ],
+        [
+          "Аудиоэффекты",
+          "Реверберация, задержка, кроссфид и нормализация"
+        ],
+        [
+          "Без пауз и кроссфейд",
+          "Плавные переходы, объёмный звук и тон"
+        ],
+        [
+          "Синхронный текст",
+          "Текст, что прокручивается вместе с песней"
+        ],
+        [
+          "Облачный стриминг",
+          "Dropbox, Google Drive, OneDrive, Box & pCloud"
+        ],
+        [
+          "NAS и медиасерверы",
+          "Plex, Jellyfin, Emby, SMB, FTP, WebDAV, UPnP"
+        ],
+        [
+          "Офлайн-режим",
+          "Скачивайте песни и слушайте без интернета"
+        ]
+      ],
+      "a11yTitle": "Баннер приложения",
+      "a11yClose": "Закрыть баннер приложения",
+      "a11yIcon": "Значок приложения",
+      "a11yShot": "Скриншот приложения"
+    },
+    "sk": {
+      "eyebrow": "Stiahnite si našu <span class=\"hl\">bezplatnú</span> aplikáciu",
+      "appTitle": "Evermusic",
+      "hook": "Pokročilý hudobný prehrávač pre váš Mac",
+      "storeSmall": "Stiahnuť z",
+      "free": "Zadarmo",
+      "trust": "12 miliónov stiahnutí po celom svete",
+      "features": [
+        [
+          "Ekvalizér zvuku",
+          "Profi ekvalizér, zosilnenie basov a predvoľby"
+        ],
+        [
+          "Zvukové efekty",
+          "Dozvuk, delay, crossfeed a normalizácia"
+        ],
+        [
+          "Plynulé prehrávanie a prelínanie",
+          "Plynulé prechody, priestorový zvuk a ladenie"
+        ],
+        [
+          "Synchronizovaný text",
+          "Text piesne, ktorý sa posúva so skladbou"
+        ],
+        [
+          "Streamovanie z cloudu",
+          "Dropbox, Google Drive, OneDrive, Box & pCloud"
+        ],
+        [
+          "NAS a mediálne servery",
+          "Plex, Jellyfin, Emby, SMB, FTP, WebDAV, UPnP"
+        ],
+        [
+          "Offline režim",
+          "Stiahnite skladby a počúvajte bez internetu"
+        ]
+      ],
+      "a11yTitle": "Banner aplikácie",
+      "a11yClose": "Zavrieť banner aplikácie",
+      "a11yIcon": "Ikona aplikácie",
+      "a11yShot": "Snímka aplikácie"
+    },
+    "sl": {
+      "eyebrow": "Prenesite našo <span class=\"hl\">brezplačno</span> aplikacijo",
+      "appTitle": "Evermusic",
+      "hook": "Napredni predvajalnik glasbe za vaš Mac",
+      "storeSmall": "Prenesite v",
+      "free": "Brezplačno",
+      "trust": "12 milijonov prenosov po vsem svetu",
+      "features": [
+        [
+          "Zvočni izenačevalnik",
+          "Profesionalni izenačevalnik, ojačevalnik basov in prednastavitve"
+        ],
+        [
+          "Zvočni učinki",
+          "Odmev, delay, crossfeed in normalizacija"
+        ],
+        [
+          "Brez premorov in crossfade",
+          "Gladki prehodi, prostorski zvok in višina tona"
+        ],
+        [
+          "Sinhronizirano besedilo",
+          "Besedilo, ki se pomika s skladbo"
+        ],
+        [
+          "Pretakanje v oblaku",
+          "Dropbox, Google Drive, OneDrive, Box & pCloud"
+        ],
+        [
+          "NAS in predstavnostni strežniki",
+          "Plex, Jellyfin, Emby, SMB, FTP, WebDAV, UPnP"
+        ],
+        [
+          "Način brez povezave",
+          "Prenesite skladbe in poslušajte brez interneta"
+        ]
+      ],
+      "a11yTitle": "Pasica aplikacije",
+      "a11yClose": "Zapri pasico aplikacije",
+      "a11yIcon": "Ikona aplikacije",
+      "a11yShot": "Posnetek zaslona aplikacije"
+    },
+    "sv": {
+      "eyebrow": "Ladda ner vår <span class=\"hl\">gratis</span> app",
+      "appTitle": "Evermusic",
+      "hook": "Avancerad musikspelare för din Mac",
+      "storeSmall": "Ladda ner på",
+      "free": "Gratis",
+      "trust": "12 miljoner nedladdningar över hela världen",
+      "features": [
+        [
+          "Ljudequalizer",
+          "Proffs-equalizer, basförstärkare och förinställningar"
+        ],
+        [
+          "Ljudeffekter",
+          "Efterklang, delay, crossfeed och normalisering"
+        ],
+        [
+          "Sömlös och crossfade",
+          "Sömlösa övergångar, rumslig ljud och tonhöjd"
+        ],
+        [
+          "Synkroniserad låttext",
+          "Låttext som rullar med låten"
+        ],
+        [
+          "Molnstreaming",
+          "Dropbox, Google Drive, OneDrive, Box & pCloud"
+        ],
+        [
+          "NAS och medieservrar",
+          "Plex, Jellyfin, Emby, SMB, FTP, WebDAV, UPnP"
+        ],
+        [
+          "Offlineläge",
+          "Ladda ner låtar och lyssna utan internet"
+        ]
+      ],
+      "a11yTitle": "Appbanner",
+      "a11yClose": "Stäng appbanner",
+      "a11yIcon": "Appikon",
+      "a11yShot": "App-skärmbild"
+    },
+    "ta": {
+      "eyebrow": "எங்கள் <span class=\"hl\">இலவச</span> ஆப்பைப் பதிவிறக்குங்கள்",
+      "appTitle": "Evermusic",
+      "hook": "உங்கள் Mac-க்கான மேம்பட்ட இசை பிளேயர்",
+      "storeSmall": "பதிவிறக்குங்கள்",
+      "free": "இலவசம்",
+      "trust": "உலகம் முழுவதும் 1.2 கோடி பதிவிறக்கங்கள்",
+      "features": [
+        [
+          "ஆடியோ ஈக்வலைசர்",
+          "ப்ரோ ஈக்வலைசர், பேஸ் பூஸ்டர் மற்றும் ப்ரீசெட்கள்"
+        ],
+        [
+          "ஆடியோ எஃபெக்ட்கள்",
+          "ரிவெர்ப், டிலே, க்ராஸ்ஃபீட் மற்றும் நார்மலைசேஷன்"
+        ],
+        [
+          "இடைவெளியில்லா & க்ராஸ்ஃபேட்",
+          "மென்மையான மாற்றங்கள், ஸ்பேஷியல் ஆடியோ மற்றும் பிட்ச்"
+        ],
+        [
+          "ஒத்திசைந்த வரிகள்",
+          "பாடலுடன் ஸ்க்ரோல் ஆகும் வரிகள்"
+        ],
+        [
+          "கிளவுட் ஸ்ட்ரீமிங்",
+          "Dropbox, Google Drive, OneDrive, Box & pCloud"
+        ],
+        [
+          "NAS & மீடியா சர்வர்கள்",
+          "Plex, Jellyfin, Emby, SMB, FTP, WebDAV, UPnP"
+        ],
+        [
+          "ஆஃப்லைன் பயன்முறை",
+          "பாடல்களைப் பதிவிறக்கி இணையம் இல்லாமல் கேளுங்கள்"
+        ]
+      ],
+      "a11yTitle": "ஆப் பேனர்",
+      "a11yClose": "ஆப் பேனரை மூடு",
+      "a11yIcon": "ஆப் ஐகான்",
+      "a11yShot": "ஆப் ஸ்கிரீன்ஷாட்"
+    },
+    "te": {
+      "eyebrow": "మా <span class=\"hl\">ఉచిత</span> యాప్‌ను డౌన్‌లోడ్ చేయండి",
+      "appTitle": "Evermusic",
+      "hook": "మీ Mac కోసం అధునాతన మ్యూజిక్ ప్లేయర్",
+      "storeSmall": "డౌన్‌లోడ్ చేయండి",
+      "free": "ఉచితం",
+      "trust": "ప్రపంచవ్యాప్తంగా 1.2 కోట్ల డౌన్‌లోడ్‌లు",
+      "features": [
+        [
+          "ఆడియో ఈక్వలైజర్",
+          "ప్రో ఈక్వలైజర్, బాస్ బూస్టర్ మరియు ప్రీసెట్‌లు"
+        ],
+        [
+          "ఆడియో ఎఫెక్ట్‌లు",
+          "రివర్బ్, డిలే, క్రాస్‌ఫీడ్ మరియు నార్మలైజేషన్"
+        ],
+        [
+          "గ్యాప్‌లెస్ & క్రాస్‌ఫేడ్",
+          "సున్నితమైన మార్పులు, స్పేషియల్ ఆడియో మరియు పిచ్"
+        ],
+        [
+          "సింక్ లిరిక్స్",
+          "పాటతో స్క్రోల్ అయ్యే లిరిక్స్"
+        ],
+        [
+          "క్లౌడ్ స్ట్రీమింగ్",
+          "Dropbox, Google Drive, OneDrive, Box & pCloud"
+        ],
+        [
+          "NAS & మీడియా సర్వర్‌లు",
+          "Plex, Jellyfin, Emby, SMB, FTP, WebDAV, UPnP"
+        ],
+        [
+          "ఆఫ్‌లైన్ మోడ్",
+          "పాటలు డౌన్‌లోడ్ చేసి ఇంటర్నెట్ లేకుండా వినండి"
+        ]
+      ],
+      "a11yTitle": "యాప్ బ్యానర్",
+      "a11yClose": "యాప్ బ్యానర్ మూసివేయండి",
+      "a11yIcon": "యాప్ ఐకాన్",
+      "a11yShot": "యాప్ స్క్రీన్‌షాట్"
+    },
+    "th": {
+      "eyebrow": "ดาวน์โหลดแอป <span class=\"hl\">ฟรี</span> ของเรา",
+      "appTitle": "Evermusic",
+      "hook": "เครื่องเล่นเพลงขั้นสูงสำหรับ Mac ของคุณ",
+      "storeSmall": "ดาวน์โหลดบน",
+      "free": "ฟรี",
+      "trust": "ยอดดาวน์โหลด 12 ล้านครั้งทั่วโลก",
+      "features": [
+        [
+          "อีควอไลเซอร์เสียง",
+          "อีควอไลเซอร์ระดับโปร ตัวเพิ่มเสียงเบส และพรีเซ็ต"
+        ],
+        [
+          "เอฟเฟกต์เสียง",
+          "รีเวิร์บ ดีเลย์ ครอสฟีด และการปรับระดับเสียง"
+        ],
+        [
+          "ไร้ช่องว่างและครอสเฟด",
+          "การเปลี่ยนเพลงที่ลื่นไหล เสียงเชิงพื้นที่ และพิตช์"
+        ],
+        [
+          "เนื้อเพลงซิงก์",
+          "เนื้อเพลงที่เลื่อนไปพร้อมกับเพลง"
+        ],
+        [
+          "สตรีมมิงบนคลาวด์",
+          "Dropbox, Google Drive, OneDrive, Box & pCloud"
+        ],
+        [
+          "NAS และมีเดียเซิร์ฟเวอร์",
+          "Plex, Jellyfin, Emby, SMB, FTP, WebDAV, UPnP"
+        ],
+        [
+          "โหมดออฟไลน์",
+          "ดาวน์โหลดเพลงและฟังโดยไม่ต้องต่อเน็ต"
+        ]
+      ],
+      "a11yTitle": "แบนเนอร์แอป",
+      "a11yClose": "ปิดแบนเนอร์แอป",
+      "a11yIcon": "ไอคอนแอป",
+      "a11yShot": "ภาพหน้าจอแอป"
+    },
+    "tr": {
+      "eyebrow": "<span class=\"hl\">Ücretsiz</span> uygulamamızı indirin",
+      "appTitle": "Evermusic",
+      "hook": "Mac’ınız için gelişmiş müzik çalar",
+      "storeSmall": "Şuradan indirin:",
+      "free": "Ücretsiz",
+      "trust": "Dünya genelinde 12 milyon indirme",
+      "features": [
+        [
+          "Ses ekolayzırı",
+          "Profesyonel ekolayzır, bas güçlendirici ve hazır ayarlar"
+        ],
+        [
+          "Ses efektleri",
+          "Reverb, delay, crossfeed ve normalleştirme"
+        ],
+        [
+          "Kesintisiz ve crossfade",
+          "Pürüzsüz geçişler, uzamsal ses ve perde"
+        ],
+        [
+          "Senkronize şarkı sözleri",
+          "Şarkıyla birlikte kayan sözler"
+        ],
+        [
+          "Bulut akışı",
+          "Dropbox, Google Drive, OneDrive, Box & pCloud"
+        ],
+        [
+          "NAS ve medya sunucuları",
+          "Plex, Jellyfin, Emby, SMB, FTP, WebDAV, UPnP"
+        ],
+        [
+          "Çevrimdışı mod",
+          "Şarkıları indirin ve internetsiz dinleyin"
+        ]
+      ],
+      "a11yTitle": "Uygulama afişi",
+      "a11yClose": "Uygulama afişini kapat",
+      "a11yIcon": "Uygulama simgesi",
+      "a11yShot": "Uygulama ekran görüntüsü"
+    },
+    "uk": {
+      "eyebrow": "Завантажте наш <span class=\"hl\">безкоштовний</span> застосунок",
+      "appTitle": "Evermusic",
+      "hook": "Просунутий музичний плеєр для вашого Mac",
+      "storeSmall": "Завантажте в",
+      "free": "Безкоштовно",
+      "trust": "12 мільйонів завантажень у всьому світі",
+      "features": [
+        [
+          "Еквалайзер",
+          "Профі-еквалайзер, підсилювач басів і пресети"
+        ],
+        [
+          "Аудіоефекти",
+          "Реверберація, затримка, кросфід і нормалізація"
+        ],
+        [
+          "Без пауз і кросфейд",
+          "Плавні переходи, просторовий звук і тон"
+        ],
+        [
+          "Синхронний текст",
+          "Текст, що прокручується разом із піснею"
+        ],
+        [
+          "Хмарний стримінг",
+          "Dropbox, Google Drive, OneDrive, Box & pCloud"
+        ],
+        [
+          "NAS і медіасервери",
+          "Plex, Jellyfin, Emby, SMB, FTP, WebDAV, UPnP"
+        ],
+        [
+          "Офлайн-режим",
+          "Завантажуйте пісні й слухайте без інтернету"
+        ]
+      ],
+      "a11yTitle": "Банер застосунку",
+      "a11yClose": "Закрити банер застосунку",
+      "a11yIcon": "Значок застосунку",
+      "a11yShot": "Знімок екрана застосунку"
+    },
+    "ur": {
+      "dir": "rtl",
+      "eyebrow": "ہماری <span class=\"hl\">مفت</span> ایپ ڈاؤن لوڈ کریں",
+      "appTitle": "Evermusic",
+      "hook": "آپ کے Mac کے لیے جدید میوزک پلیئر",
+      "storeSmall": "ڈاؤن لوڈ کریں",
+      "free": "مفت",
+      "trust": "دنیا بھر میں 1 کروڑ 20 لاکھ ڈاؤن لوڈز",
+      "features": [
+        [
+          "آڈیو ایکوالائزر",
+          "پرو ایکوالائزر، بیس بوسٹر اور پری سیٹس"
+        ],
+        [
+          "آڈیو ایفیکٹس",
+          "ریورب، ڈیلے، کراس فیڈ اور نارملائزیشن"
+        ],
+        [
+          "بلا وقفہ اور کراس فیڈ",
+          "ہموار منتقلی، مقامی آڈیو اور پچ"
+        ],
+        [
+          "مطابقت شدہ بول",
+          "گانے کے ساتھ اسکرول ہوتے بول"
+        ],
+        [
+          "کلاؤڈ اسٹریمنگ",
+          "Dropbox, Google Drive, OneDrive, Box & pCloud"
+        ],
+        [
+          "NAS اور میڈیا سرورز",
+          "Plex, Jellyfin, Emby, SMB, FTP, WebDAV, UPnP"
+        ],
+        [
+          "آف لائن موڈ",
+          "گانے ڈاؤن لوڈ کریں اور انٹرنیٹ کے بغیر سنیں"
+        ]
+      ],
+      "a11yTitle": "ایپ بینر",
+      "a11yClose": "ایپ بینر بند کریں",
+      "a11yIcon": "ایپ آئیکن",
+      "a11yShot": "ایپ اسکرین شاٹ"
+    },
+    "vi": {
+      "eyebrow": "Tải ứng dụng <span class=\"hl\">miễn phí</span> của chúng tôi",
+      "appTitle": "Evermusic",
+      "hook": "Trình phát nhạc nâng cao cho Mac của bạn",
+      "storeSmall": "Tải xuống trên",
+      "free": "Miễn phí",
+      "trust": "12 triệu lượt tải trên toàn thế giới",
+      "features": [
+        [
+          "Bộ chỉnh âm",
+          "Bộ chỉnh âm chuyên nghiệp, tăng cường bass & cài đặt sẵn"
+        ],
+        [
+          "Hiệu ứng âm thanh",
+          "Reverb, delay, crossfeed & chuẩn hóa"
+        ],
+        [
+          "Liền mạch & crossfade",
+          "Chuyển tiếp mượt mà, âm thanh không gian & cao độ"
+        ],
+        [
+          "Lời bài hát đồng bộ",
+          "Lời bài hát cuộn theo bài hát"
+        ],
+        [
+          "Phát trực tuyến qua đám mây",
+          "Dropbox, Google Drive, OneDrive, Box & pCloud"
+        ],
+        [
+          "NAS & máy chủ media",
+          "Plex, Jellyfin, Emby, SMB, FTP, WebDAV, UPnP"
+        ],
+        [
+          "Chế độ ngoại tuyến",
+          "Tải bài hát & nghe không cần Internet"
+        ]
+      ],
+      "a11yTitle": "Biểu ngữ ứng dụng",
+      "a11yClose": "Đóng biểu ngữ ứng dụng",
+      "a11yIcon": "Biểu tượng ứng dụng",
+      "a11yShot": "Ảnh chụp màn hình ứng dụng"
+    },
+    "zh-Hans": {
+      "eyebrow": "下载我们的<span class=\"hl\">免费</span>应用",
+      "appTitle": "Evermusic",
+      "hook": "为您的 Mac 打造的高级音乐播放器",
+      "storeSmall": "下载于",
+      "free": "免费",
+      "trust": "全球下载量超 1200 万次",
+      "features": [
+        [
+          "音频均衡器",
+          "专业均衡器、低音增强与自定义预设"
+        ],
+        [
+          "音频效果",
+          "混响、延迟、交叉馈送与音量标准化"
+        ],
+        [
+          "无缝与交叉淡入",
+          "平滑过渡、空间音频与音高校正"
+        ],
+        [
+          "同步歌词",
+          "随歌曲滚动的同步歌词"
+        ],
+        [
+          "云端流播",
+          "Dropbox、Google Drive、OneDrive、Box 与 pCloud"
+        ],
+        [
+          "NAS 与媒体服务器",
+          "Plex、Jellyfin、Emby、SMB、FTP、WebDAV、UPnP"
+        ],
+        [
+          "离线模式",
+          "下载歌曲，无网络也能畅听"
+        ]
+      ],
+      "a11yTitle": "应用横幅",
+      "a11yClose": "关闭应用横幅",
+      "a11yIcon": "应用图标",
+      "a11yShot": "应用截图"
+    },
+    "zh-Hant": {
+      "eyebrow": "下載我們的<span class=\"hl\">免費</span>應用程式",
+      "appTitle": "Evermusic",
+      "hook": "為您的 Mac 打造的進階音樂播放器",
+      "storeSmall": "下載於",
+      "free": "免費",
+      "trust": "全球下載量超過 1200 萬次",
+      "features": [
+        [
+          "音訊等化器",
+          "專業等化器、低音增強與自訂預設"
+        ],
+        [
+          "音訊效果",
+          "殘響、延遲、交叉饋送與音量正規化"
+        ],
+        [
+          "無縫與交叉淡入",
+          "平滑轉場、空間音訊與音高校正"
+        ],
+        [
+          "同步歌詞",
+          "隨歌曲捲動的同步歌詞"
+        ],
+        [
+          "雲端串流",
+          "Dropbox、Google Drive、OneDrive、Box 與 pCloud"
+        ],
+        [
+          "NAS 與媒體伺服器",
+          "Plex、Jellyfin、Emby、SMB、FTP、WebDAV、UPnP"
+        ],
+        [
+          "離線模式",
+          "下載歌曲，沒有網路也能聆聽"
+        ]
+      ],
+      "a11yTitle": "應用程式橫幅",
+      "a11yClose": "關閉應用程式橫幅",
+      "a11yIcon": "應用程式圖示",
+      "a11yShot": "應用程式截圖"
+    }
+  }
+}

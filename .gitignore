@@ -4,3 +4,7 @@ resources/
 dev/OPENAI_API_KEY.TXT
 dev/site-migration-check/html/
 .claude/
+
+# Banner assets live under static/ and must ship (override the generic resources/ ignore)
+!/static/banners/**/resources/
+!/static/banners/**/resources/**
