@@ -1,10 +1,10 @@
 {
-  "id": 2,
+  "id": 3,
   "version": 1,
-  "appId": "1564384601",
-  "scheme": "lsevermusicmac",
-  "bundleID": "com.leshko.cloudplayer.mac",
-  "storeUrl": "https://apps.apple.com/app/apple-store/id1564384601?pt=95781850&ct=cross_app_sale&mt=8",
+  "appId": "905746421",
+  "scheme": "lsevermusicpro",
+  "bundleID": "com.leshko.cloudplayerpro",
+  "storeUrl": "https://apps.apple.com/app/apple-store/id905746421?pt=95781850&ct=cross_app_sale&mt=8",
   "clickUrl": "",
   "closeUrl": "",
   "defaultLang": "en",
@@ -16,19 +16,22 @@
     "resources/screens/5.png",
     "resources/screens/6.png",
     "resources/screens/7.png",
-    "resources/screens/8.png",
     "resources/screens/9.png",
     "resources/screens/10.png"
   ],
   "languages": {
     "en": {
-      "eyebrow": "Download our <span class=\"hl\">Free</span> App",
-      "appTitle": "Evermusic",
-      "hook": "Advanced music player for your Mac",
+      "eyebrow": "Download our <span class=\"hl\">Pro</span> App",
+      "appTitle": "Evermusic Pro",
+      "hook": "Advanced music player for your iPhone",
       "storeSmall": "Download on the",
-      "free": "Free",
-      "trust": "12 million downloads worldwide",
+      "free": "Pro",
+      "trust": "No ads · No tracking · Just your music",
       "features": [
+        [
+          "Ad-free listening",
+          "Listen to your music without ads or distractions"
+        ],
         [
           "Audio equalizer",
           "Pro equalizer, bass booster & custom presets"
@@ -65,13 +68,17 @@
     },
     "ar": {
       "dir": "rtl",
-      "eyebrow": "حمّل تطبيقنا <span class=\"hl\">المجاني</span>",
-      "appTitle": "Evermusic",
-      "hook": "مشغّل موسيقى متقدّم لجهاز Mac",
+      "eyebrow": "حمّل تطبيقنا <span class=\"hl\">Pro</span>",
+      "appTitle": "Evermusic Pro",
+      "hook": "مشغّل موسيقى متقدّم لهاتف iPhone",
       "storeSmall": "حمّله من",
-      "free": "مجاني",
-      "trust": "12 مليون تنزيل حول العالم",
+      "free": "Pro",
+      "trust": "بلا إعلانات · بلا تتبّع · موسيقاك فقط",
       "features": [
+        [
+          "استماع بلا إعلانات",
+          "استمع إلى موسيقاك دون إعلانات أو تشتيت"
+        ],
         [
           "معادل الصوت",
           "معادل احترافي، معزّز جهير وإعدادات مسبقة"
@@ -107,13 +114,17 @@
       "a11yShot": "لقطة شاشة التطبيق"
     },
     "bn": {
-      "eyebrow": "আমাদের <span class=\"hl\">ফ্রি</span> অ্যাপ ডাউনলোড করুন",
-      "appTitle": "Evermusic",
-      "hook": "আপনার Mac-এর জন্য উন্নত মিউজিক প্লেয়ার",
+      "eyebrow": "আমাদের <span class=\"hl\">Pro</span> অ্যাপ ডাউনলোড করুন",
+      "appTitle": "Evermusic Pro",
+      "hook": "আপনার iPhone-এর জন্য উন্নত মিউজিক প্লেয়ার",
       "storeSmall": "ডাউনলোড করুন",
-      "free": "ফ্রি",
-      "trust": "বিশ্বজুড়ে ১ কোটি ২০ লাখ ডাউনলোড",
+      "free": "Pro",
+      "trust": "বিজ্ঞাপন নেই · ট্র্যাকিং নেই · শুধু আপনার গান",
       "features": [
+        [
+          "বিজ্ঞাপনহীন শোনা",
+          "বিজ্ঞাপন বা বিঘ্ন ছাড়াই আপনার গান শুনুন"
+        ],
         [
           "অডিও ইকুয়ালাইজার",
           "প্রো ইকুয়ালাইজার, বেস বুস্টার ও প্রিসেট"
@@ -149,13 +160,17 @@
       "a11yShot": "অ্যাপ স্ক্রিনশট"
     },
     "ca": {
-      "eyebrow": "Baixa la nostra app <span class=\"hl\">gratuïta</span>",
-      "appTitle": "Evermusic",
-      "hook": "Reproductor de música avançat per al teu Mac",
+      "eyebrow": "Baixa la nostra app <span class=\"hl\">Pro</span>",
+      "appTitle": "Evermusic Pro",
+      "hook": "Reproductor de música avançat per al teu iPhone",
       "storeSmall": "Baixa-la a l’",
-      "free": "Gratis",
-      "trust": "12 milions de baixades a tot el món",
+      "free": "Pro",
+      "trust": "Sense anuncis · Sense seguiment · Només la teva música",
       "features": [
+        [
+          "Escolta sense anuncis",
+          "Escolta la teva música sense anuncis ni distraccions"
+        ],
         [
           "Equalitzador d’àudio",
           "Equalitzador pro, potenciador de greus i predefinits"
@@ -191,13 +206,17 @@
       "a11yShot": "Captura de l’app"
     },
     "cs": {
-      "eyebrow": "Stáhněte si naši <span class=\"hl\">bezplatnou</span> aplikaci",
-      "appTitle": "Evermusic",
-      "hook": "Pokročilý hudební přehrávač pro váš Mac",
+      "eyebrow": "Stáhněte si naši <span class=\"hl\">Pro</span> aplikaci",
+      "appTitle": "Evermusic Pro",
+      "hook": "Pokročilý hudební přehrávač pro váš iPhone",
       "storeSmall": "Stáhnout na",
-      "free": "Zdarma",
-      "trust": "12 milionů stažení po celém světě",
+      "free": "Pro",
+      "trust": "Žádné reklamy · Žádné sledování · Jen tvoje hudba",
       "features": [
+        [
+          "Poslech bez reklam",
+          "Poslouchejte hudbu bez reklam a rušení"
+        ],
         [
           "Ekvalizér zvuku",
           "Profi ekvalizér, zesílení basů a předvolby"
@@ -233,13 +252,17 @@
       "a11yShot": "Snímek aplikace"
     },
     "da": {
-      "eyebrow": "Download vores <span class=\"hl\">gratis</span> app",
-      "appTitle": "Evermusic",
-      "hook": "Avanceret musikafspiller til din Mac",
+      "eyebrow": "Download vores <span class=\"hl\">Pro</span> app",
+      "appTitle": "Evermusic Pro",
+      "hook": "Avanceret musikafspiller til din iPhone",
       "storeSmall": "Hent i",
-      "free": "Gratis",
-      "trust": "12 millioner downloads på verdensplan",
+      "free": "Pro",
+      "trust": "Ingen reklamer · Ingen sporing · Kun din musik",
       "features": [
+        [
+          "Lyt uden reklamer",
+          "Lyt til din musik uden reklamer eller forstyrrelser"
+        ],
         [
           "Lydequalizer",
           "Pro-equalizer, basforstærker og forudindstillinger"
@@ -275,13 +298,17 @@
       "a11yShot": "App-skærmbillede"
     },
     "de": {
-      "eyebrow": "Lade unsere <span class=\"hl\">kostenlose</span> App",
-      "appTitle": "Evermusic",
-      "hook": "Erweiterter Musikplayer für deinen Mac",
+      "eyebrow": "Lade unsere <span class=\"hl\">Pro</span> App",
+      "appTitle": "Evermusic Pro",
+      "hook": "Erweiterter Musikplayer für dein iPhone",
       "storeSmall": "Laden im",
-      "free": "Gratis",
-      "trust": "12 Millionen Downloads weltweit",
+      "free": "Pro",
+      "trust": "Keine Werbung · Kein Tracking · Nur deine Musik",
       "features": [
+        [
+          "Werbefrei hören",
+          "Hör deine Musik ohne Werbung und Ablenkungen"
+        ],
         [
           "Audio-Equalizer",
           "Profi-Equalizer, Bassverstärker & Voreinstellungen"
@@ -317,13 +344,17 @@
       "a11yShot": "App-Screenshot"
     },
     "el": {
-      "eyebrow": "Κατεβάστε τη <span class=\"hl\">δωρεάν</span> εφαρμογή μας",
-      "appTitle": "Evermusic",
-      "hook": "Προηγμένο πρόγραμμα αναπαραγωγής μουσικής για το Mac σας",
+      "eyebrow": "Κατεβάστε τη <span class=\"hl\">Pro</span> εφαρμογή μας",
+      "appTitle": "Evermusic Pro",
+      "hook": "Προηγμένο πρόγραμμα αναπαραγωγής μουσικής για το iPhone σας",
       "storeSmall": "Κατεβάστε το από το",
-      "free": "Δωρεάν",
-      "trust": "12 εκατομμύρια λήψεις παγκοσμίως",
+      "free": "Pro",
+      "trust": "Χωρίς διαφημίσεις · Χωρίς παρακολούθηση · Μόνο η μουσική σου",
       "features": [
+        [
+          "Ακρόαση χωρίς διαφημίσεις",
+          "Ακούστε τη μουσική σας χωρίς διαφημίσεις ή περισπασμούς"
+        ],
         [
           "Ισοσταθμιστής ήχου",
           "Επαγγελματικός ισοσταθμιστής, ενισχυτής μπάσων & προρρυθμίσεις"
@@ -359,13 +390,17 @@
       "a11yShot": "Στιγμιότυπο εφαρμογής"
     },
     "es": {
-      "eyebrow": "Descarga nuestra app <span class=\"hl\">gratis</span>",
-      "appTitle": "Evermusic",
-      "hook": "Reproductor de música avanzado para tu Mac",
+      "eyebrow": "Descarga nuestra app <span class=\"hl\">Pro</span>",
+      "appTitle": "Evermusic Pro",
+      "hook": "Reproductor de música avanzado para tu iPhone",
       "storeSmall": "Descárgala en el",
-      "free": "Gratis",
-      "trust": "12 millones de descargas en todo el mundo",
+      "free": "Pro",
+      "trust": "Sin anuncios · Sin rastreo · Solo tu música",
       "features": [
+        [
+          "Sin anuncios",
+          "Escucha tu música sin anuncios ni distracciones"
+        ],
         [
           "Ecualizador de audio",
           "Ecualizador pro, potenciador de graves y ajustes"
@@ -401,13 +436,17 @@
       "a11yShot": "Captura de la app"
     },
     "fi": {
-      "eyebrow": "Lataa <span class=\"hl\">ilmainen</span> sovelluksemme",
-      "appTitle": "Evermusic",
-      "hook": "Kehittynyt musiikkisoitin Macillesi",
+      "eyebrow": "Lataa <span class=\"hl\">Pro</span> sovelluksemme",
+      "appTitle": "Evermusic Pro",
+      "hook": "Kehittynyt musiikkisoitin iPhonellesi",
       "storeSmall": "Lataa",
-      "free": "Ilmainen",
-      "trust": "12 miljoonaa latausta maailmanlaajuisesti",
+      "free": "Pro",
+      "trust": "Ei mainoksia · Ei seurantaa · Vain sinun musiikkisi",
       "features": [
+        [
+          "Kuuntelu ilman mainoksia",
+          "Kuuntele musiikkiasi ilman mainoksia tai häiriöitä"
+        ],
         [
           "Äänen taajuuskorjain",
           "Ammattitason taajuuskorjain, bassokorostus ja esiasetukset"
@@ -443,13 +482,17 @@
       "a11yShot": "Sovelluksen kuvakaappaus"
     },
     "fr": {
-      "eyebrow": "Téléchargez notre appli <span class=\"hl\">gratuite</span>",
-      "appTitle": "Evermusic",
-      "hook": "Lecteur de musique avancé pour votre Mac",
+      "eyebrow": "Téléchargez notre appli <span class=\"hl\">Pro</span>",
+      "appTitle": "Evermusic Pro",
+      "hook": "Lecteur de musique avancé pour votre iPhone",
       "storeSmall": "Télécharger dans l’",
-      "free": "Gratuit",
-      "trust": "12 millions de téléchargements dans le monde",
+      "free": "Pro",
+      "trust": "Sans publicité · Sans suivi · Rien que votre musique",
       "features": [
+        [
+          "Écoute sans publicité",
+          "Écoutez votre musique sans publicité ni distraction"
+        ],
         [
           "Égaliseur audio",
           "Égaliseur pro, ampli de basses et préréglages"
@@ -485,13 +528,17 @@
       "a11yShot": "Capture d’écran de l’app"
     },
     "gu": {
-      "eyebrow": "અમારી <span class=\"hl\">મફત</span> એપ ડાઉનલોડ કરો",
-      "appTitle": "Evermusic",
-      "hook": "તમારા Mac માટે અદ્યતન મ્યુઝિક પ્લેયર",
+      "eyebrow": "અમારી <span class=\"hl\">Pro</span> એપ ડાઉનલોડ કરો",
+      "appTitle": "Evermusic Pro",
+      "hook": "તમારા iPhone માટે અદ્યતન મ્યુઝિક પ્લેયર",
       "storeSmall": "ડાઉનલોડ કરો",
-      "free": "મફત",
-      "trust": "વિશ્વભરમાં 1.2 કરોડ ડાઉનલોડ",
+      "free": "Pro",
+      "trust": "જાહેરાત નહીં · ટ્રેકિંગ નહીં · ફક્ત તમારું સંગીત",
       "features": [
+        [
+          "જાહેરાત વિના સાંભળો",
+          "જાહેરાત કે વિક્ષેપ વિના તમારું સંગીત સાંભળો"
+        ],
         [
           "ઑડિયો ઇક્વલાઇઝર",
           "પ્રો ઇક્વલાઇઝર, બેસ બૂસ્ટર અને પ્રીસેટ"
@@ -528,13 +575,17 @@
     },
     "he": {
       "dir": "rtl",
-      "eyebrow": "הורידו את האפליקציה <span class=\"hl\">החינמית</span> שלנו",
-      "appTitle": "Evermusic",
-      "hook": "נגן מוזיקה מתקדם ל‑Mac שלך",
+      "eyebrow": "הורידו את האפליקציה <span class=\"hl\">Pro</span> שלנו",
+      "appTitle": "Evermusic Pro",
+      "hook": "נגן מוזיקה מתקדם ל‑iPhone שלך",
       "storeSmall": "הורידו מ־",
-      "free": "חינם",
-      "trust": "12 מיליון הורדות ברחבי העולם",
+      "free": "Pro",
+      "trust": "בלי פרסומות · בלי מעקב · רק המוזיקה שלך",
       "features": [
+        [
+          "האזנה ללא פרסומות",
+          "האזינו למוזיקה שלכם ללא פרסומות והסחות דעת"
+        ],
         [
           "אקולייזר שמע",
           "אקולייזר מקצועי, מגביר בסים והגדרות מוכנות"
@@ -570,13 +621,17 @@
       "a11yShot": "צילום מסך של האפליקציה"
     },
     "hi": {
-      "eyebrow": "हमारा <span class=\"hl\">मुफ़्त</span> ऐप डाउनलोड करें",
-      "appTitle": "Evermusic",
-      "hook": "आपके Mac के लिए उन्नत म्यूज़िक प्लेयर",
+      "eyebrow": "हमारा <span class=\"hl\">Pro</span> ऐप डाउनलोड करें",
+      "appTitle": "Evermusic Pro",
+      "hook": "आपके iPhone के लिए उन्नत म्यूज़िक प्लेयर",
       "storeSmall": "डाउनलोड करें",
-      "free": "मुफ़्त",
-      "trust": "दुनिया भर में 1.2 करोड़ डाउनलोड",
+      "free": "Pro",
+      "trust": "कोई विज्ञापन नहीं · कोई ट्रैकिंग नहीं · सिर्फ़ आपका संगीत",
       "features": [
+        [
+          "बिना विज्ञापन सुनें",
+          "बिना विज्ञापन या रुकावट के अपना संगीत सुनें"
+        ],
         [
           "ऑडियो इक्वलाइज़र",
           "प्रो इक्वलाइज़र, बास बूस्टर और प्रीसेट"
@@ -612,13 +667,17 @@
       "a11yShot": "ऐप स्क्रीनशॉट"
     },
     "hr": {
-      "eyebrow": "Preuzmite našu <span class=\"hl\">besplatnu</span> aplikaciju",
-      "appTitle": "Evermusic",
-      "hook": "Napredni glazbeni player za vaš Mac",
+      "eyebrow": "Preuzmite našu <span class=\"hl\">Pro</span> aplikaciju",
+      "appTitle": "Evermusic Pro",
+      "hook": "Napredni glazbeni player za vaš iPhone",
       "storeSmall": "Preuzmite na",
-      "free": "Besplatno",
-      "trust": "12 milijuna preuzimanja diljem svijeta",
+      "free": "Pro",
+      "trust": "Bez oglasa · Bez praćenja · Samo tvoja glazba",
       "features": [
+        [
+          "Slušanje bez oglasa",
+          "Slušajte glazbu bez oglasa i ometanja"
+        ],
         [
           "Audio ekvilizator",
           "Profesionalni ekvilizator, pojačivač basa i postavke"
@@ -654,13 +713,17 @@
       "a11yShot": "Snimka zaslona aplikacije"
     },
     "hu": {
-      "eyebrow": "Töltsd le <span class=\"hl\">ingyenes</span> alkalmazásunkat",
-      "appTitle": "Evermusic",
-      "hook": "Fejlett zenelejátszó az Mac-odhoz",
+      "eyebrow": "Töltsd le <span class=\"hl\">Pro</span> alkalmazásunkat",
+      "appTitle": "Evermusic Pro",
+      "hook": "Fejlett zenelejátszó az iPhone-odhoz",
       "storeSmall": "Töltsd le innen:",
-      "free": "Ingyenes",
-      "trust": "12 millió letöltés világszerte",
+      "free": "Pro",
+      "trust": "Nincs reklám · Nincs követés · Csak a te zenéd",
       "features": [
+        [
+          "Reklámmentes hallgatás",
+          "Hallgasd a zenéd reklámok és zavaró tényezők nélkül"
+        ],
         [
           "Hangszínszabályozó",
           "Profi hangszínszabályozó, basszuserősítő és előbeállítások"
@@ -696,13 +759,17 @@
       "a11yShot": "Alkalmazás képernyőkép"
     },
     "id": {
-      "eyebrow": "Unduh aplikasi <span class=\"hl\">gratis</span> kami",
-      "appTitle": "Evermusic",
-      "hook": "Pemutar musik canggih untuk Mac Anda",
+      "eyebrow": "Unduh aplikasi <span class=\"hl\">Pro</span> kami",
+      "appTitle": "Evermusic Pro",
+      "hook": "Pemutar musik canggih untuk iPhone Anda",
       "storeSmall": "Unduh di",
-      "free": "Gratis",
-      "trust": "12 juta unduhan di seluruh dunia",
+      "free": "Pro",
+      "trust": "Tanpa iklan · Tanpa pelacakan · Hanya musik Anda",
       "features": [
+        [
+          "Dengar tanpa iklan",
+          "Dengarkan musik Anda tanpa iklan atau gangguan"
+        ],
         [
           "Ekualiser audio",
           "Ekualiser pro, penguat bass & preset"
@@ -738,13 +805,17 @@
       "a11yShot": "Tangkapan layar aplikasi"
     },
     "it": {
-      "eyebrow": "Scarica la nostra app <span class=\"hl\">gratuita</span>",
-      "appTitle": "Evermusic",
-      "hook": "Lettore musicale avanzato per il tuo Mac",
+      "eyebrow": "Scarica la nostra app <span class=\"hl\">Pro</span>",
+      "appTitle": "Evermusic Pro",
+      "hook": "Lettore musicale avanzato per il tuo iPhone",
       "storeSmall": "Scarica su",
-      "free": "Gratis",
-      "trust": "12 milioni di download in tutto il mondo",
+      "free": "Pro",
+      "trust": "Niente pubblicità · Niente tracciamento · Solo la tua musica",
       "features": [
+        [
+          "Ascolto senza pubblicità",
+          "Ascolta la tua musica senza pubblicità né distrazioni"
+        ],
         [
           "Equalizzatore audio",
           "Equalizzatore pro, esaltatore di bassi e preset"
@@ -780,13 +851,17 @@
       "a11yShot": "Screenshot dell’app"
     },
     "ja": {
-      "eyebrow": "<span class=\"hl\">無料</span>アプリをダウンロード",
-      "appTitle": "Evermusic",
-      "hook": "Mac のための高度な音楽プレーヤー",
+      "eyebrow": "<span class=\"hl\">Pro</span>アプリをダウンロード",
+      "appTitle": "Evermusic Pro",
+      "hook": "iPhone のための高度な音楽プレーヤー",
       "storeSmall": "ダウンロード：",
-      "free": "無料",
-      "trust": "世界中で1,200万ダウンロード",
+      "free": "Pro",
+      "trust": "広告なし · トラッキングなし · あなたの音楽だけ",
       "features": [
+        [
+          "広告なしで再生",
+          "広告や邪魔なしで音楽を楽しめます"
+        ],
         [
           "オーディオイコライザー",
           "プロ仕様イコライザー、低音ブースター、カスタムプリセット"
@@ -822,13 +897,17 @@
       "a11yShot": "アプリのスクリーンショット"
     },
     "kn": {
-      "eyebrow": "ನಮ್ಮ <span class=\"hl\">ಉಚಿತ</span> ಆ್ಯಪ್ ಡೌನ್‌ಲೋಡ್ ಮಾಡಿ",
-      "appTitle": "Evermusic",
-      "hook": "ನಿಮ್ಮ Mac ಗಾಗಿ ಸುಧಾರಿತ ಸಂಗೀತ ಪ್ಲೇಯರ್",
+      "eyebrow": "ನಮ್ಮ <span class=\"hl\">Pro</span> ಆ್ಯಪ್ ಡೌನ್‌ಲೋಡ್ ಮಾಡಿ",
+      "appTitle": "Evermusic Pro",
+      "hook": "ನಿಮ್ಮ iPhone ಗಾಗಿ ಸುಧಾರಿತ ಸಂಗೀತ ಪ್ಲೇಯರ್",
       "storeSmall": "ಡೌನ್‌ಲೋಡ್ ಮಾಡಿ",
-      "free": "ಉಚಿತ",
-      "trust": "ವಿಶ್ವಾದ್ಯಂತ 1.2 ಕೋಟಿ ಡೌನ್‌ಲೋಡ್‌ಗಳು",
+      "free": "Pro",
+      "trust": "ಜಾಹೀರಾತು ಇಲ್ಲ · ಟ್ರ್ಯಾಕಿಂಗ್ ಇಲ್ಲ · ನಿಮ್ಮ ಸಂಗೀತ ಮಾತ್ರ",
       "features": [
+        [
+          "ಜಾಹೀರಾತು ರಹಿತ ಆಲಿಸುವಿಕೆ",
+          "ಜಾಹೀರಾತು ಅಥವಾ ಗೊಂದಲವಿಲ್ಲದೆ ನಿಮ್ಮ ಸಂಗೀತ ಆಲಿಸಿ"
+        ],
         [
           "ಆಡಿಯೊ ಈಕ್ವಲೈಜರ್",
           "ಪ್ರೊ ಈಕ್ವಲೈಜರ್, ಬೇಸ್ ಬೂಸ್ಟರ್ ಮತ್ತು ಪ್ರಿಸೆಟ್‌ಗಳು"
@@ -864,13 +943,17 @@
       "a11yShot": "ಆ್ಯಪ್ ಸ್ಕ್ರೀನ್‌ಶಾಟ್"
     },
     "ko": {
-      "eyebrow": "<span class=\"hl\">무료</span> 앱을 다운로드하세요",
-      "appTitle": "Evermusic",
-      "hook": "Mac을 위한 고급 음악 플레이어",
+      "eyebrow": "<span class=\"hl\">Pro</span> 앱을 다운로드하세요",
+      "appTitle": "Evermusic Pro",
+      "hook": "iPhone을 위한 고급 음악 플레이어",
       "storeSmall": "다운로드:",
-      "free": "무료",
-      "trust": "전 세계 1,200만 다운로드",
+      "free": "Pro",
+      "trust": "광고 없음 · 추적 없음 · 오직 당신의 음악",
       "features": [
+        [
+          "광고 없는 감상",
+          "광고나 방해 없이 음악을 감상하세요"
+        ],
         [
           "오디오 이퀄라이저",
           "프로 이퀄라이저, 베이스 부스터 및 사용자 프리셋"
@@ -906,13 +989,17 @@
       "a11yShot": "앱 스크린샷"
     },
     "ml": {
-      "eyebrow": "ഞങ്ങളുടെ <span class=\"hl\">സൗജന്യ</span> ആപ്പ് ഡൗൺലോഡ് ചെയ്യൂ",
-      "appTitle": "Evermusic",
-      "hook": "നിങ്ങളുടെ Mac-നായി വിപുലമായ മ്യൂസിക് പ്ലേയർ",
+      "eyebrow": "ഞങ്ങളുടെ <span class=\"hl\">Pro</span> ആപ്പ് ഡൗൺലോഡ് ചെയ്യൂ",
+      "appTitle": "Evermusic Pro",
+      "hook": "നിങ്ങളുടെ iPhone-നായി വിപുലമായ മ്യൂസിക് പ്ലേയർ",
       "storeSmall": "ഡൗൺലോഡ് ചെയ്യൂ",
-      "free": "സൗജന്യം",
-      "trust": "ലോകമെമ്പാടും 1.2 കോടി ഡൗൺലോഡുകൾ",
+      "free": "Pro",
+      "trust": "പരസ്യമില്ല · ട്രാക്കിംഗ് ഇല്ല · നിങ്ങളുടെ സംഗീതം മാത്രം",
       "features": [
+        [
+          "പരസ്യമില്ലാതെ കേൾക്കൂ",
+          "പരസ്യങ്ങളോ ശല്യങ്ങളോ ഇല്ലാതെ നിങ്ങളുടെ സംഗീതം കേൾക്കൂ"
+        ],
         [
           "ഓഡിയോ ഇക്വലൈസർ",
           "പ്രോ ഇക്വലൈസർ, ബാസ് ബൂസ്റ്റർ, പ്രീസെറ്റുകൾ"
@@ -948,13 +1035,17 @@
       "a11yShot": "ആപ്പ് സ്ക്രീൻഷോട്ട്"
     },
     "mr": {
-      "eyebrow": "आमचे <span class=\"hl\">मोफत</span> अ‍ॅप डाउनलोड करा",
-      "appTitle": "Evermusic",
-      "hook": "तुमच्या Mac साठी प्रगत म्युझिक प्लेयर",
+      "eyebrow": "आमचे <span class=\"hl\">Pro</span> अ‍ॅप डाउनलोड करा",
+      "appTitle": "Evermusic Pro",
+      "hook": "तुमच्या iPhone साठी प्रगत म्युझिक प्लेयर",
       "storeSmall": "डाउनलोड करा",
-      "free": "मोफत",
-      "trust": "जगभरात 1.2 कोटी डाउनलोड",
+      "free": "Pro",
+      "trust": "जाहिराती नाहीत · ट्रॅकिंग नाही · फक्त तुमचे संगीत",
       "features": [
+        [
+          "जाहिरातींशिवाय ऐका",
+          "जाहिराती किंवा व्यत्ययाशिवाय तुमचे संगीत ऐका"
+        ],
         [
           "ऑडिओ इक्वलायझर",
           "प्रो इक्वलायझर, बेस बूस्टर आणि प्रीसेट"
@@ -990,13 +1081,17 @@
       "a11yShot": "अ‍ॅप स्क्रीनशॉट"
     },
     "ms": {
-      "eyebrow": "Muat turun apl <span class=\"hl\">percuma</span> kami",
-      "appTitle": "Evermusic",
-      "hook": "Pemain muzik lanjutan untuk Mac anda",
+      "eyebrow": "Muat turun apl <span class=\"hl\">Pro</span> kami",
+      "appTitle": "Evermusic Pro",
+      "hook": "Pemain muzik lanjutan untuk iPhone anda",
       "storeSmall": "Muat turun di",
-      "free": "Percuma",
-      "trust": "12 juta muat turun di seluruh dunia",
+      "free": "Pro",
+      "trust": "Tiada iklan · Tiada penjejakan · Hanya muzik anda",
       "features": [
+        [
+          "Dengar tanpa iklan",
+          "Dengar muzik anda tanpa iklan atau gangguan"
+        ],
         [
           "Penyama audio",
           "Penyama pro, penggalak bes & pratetap"
@@ -1032,13 +1127,17 @@
       "a11yShot": "Tangkapan skrin apl"
     },
     "nb": {
-      "eyebrow": "Last ned vår <span class=\"hl\">gratis</span> app",
-      "appTitle": "Evermusic",
-      "hook": "Avansert musikkspiller for Mac",
+      "eyebrow": "Last ned vår <span class=\"hl\">Pro</span> app",
+      "appTitle": "Evermusic Pro",
+      "hook": "Avansert musikkspiller for iPhone",
       "storeSmall": "Last ned på",
-      "free": "Gratis",
-      "trust": "12 millioner nedlastinger over hele verden",
+      "free": "Pro",
+      "trust": "Ingen reklame · Ingen sporing · Bare musikken din",
       "features": [
+        [
+          "Lytt uten reklame",
+          "Lytt til musikken din uten reklame eller forstyrrelser"
+        ],
         [
           "Lydequalizer",
           "Proff equalizer, bassforsterker og forhåndsinnstillinger"
@@ -1074,13 +1173,17 @@
       "a11yShot": "App-skjermbilde"
     },
     "nl": {
-      "eyebrow": "Download onze <span class=\"hl\">gratis</span> app",
-      "appTitle": "Evermusic",
-      "hook": "Geavanceerde muziekspeler voor je Mac",
+      "eyebrow": "Download onze <span class=\"hl\">Pro</span> app",
+      "appTitle": "Evermusic Pro",
+      "hook": "Geavanceerde muziekspeler voor je iPhone",
       "storeSmall": "Downloaden in de",
-      "free": "Gratis",
-      "trust": "12 miljoen downloads wereldwijd",
+      "free": "Pro",
+      "trust": "Geen advertenties · Geen tracking · Alleen jouw muziek",
       "features": [
+        [
+          "Luisteren zonder advertenties",
+          "Luister naar je muziek zonder advertenties of afleiding"
+        ],
         [
           "Audio-equalizer",
           "Pro-equalizer, basversterker en presets"
@@ -1116,13 +1219,17 @@
       "a11yShot": "App-schermafbeelding"
     },
     "or": {
-      "eyebrow": "ଆମର <span class=\"hl\">ମାଗଣା</span> ଆପ୍ ଡାଉନଲୋଡ୍ କରନ୍ତୁ",
-      "appTitle": "Evermusic",
-      "hook": "ଆପଣଙ୍କ Mac ପାଇଁ ଉନ୍ନତ ମ୍ୟୁଜିକ୍ ପ୍ଲେୟାର୍",
+      "eyebrow": "ଆମର <span class=\"hl\">Pro</span> ଆପ୍ ଡାଉନଲୋଡ୍ କରନ୍ତୁ",
+      "appTitle": "Evermusic Pro",
+      "hook": "ଆପଣଙ୍କ iPhone ପାଇଁ ଉନ୍ନତ ମ୍ୟୁଜିକ୍ ପ୍ଲେୟାର୍",
       "storeSmall": "ଡାଉନଲୋଡ୍ କରନ୍ତୁ",
-      "free": "ମାଗଣା",
-      "trust": "ବିଶ୍ୱବ୍ୟାପୀ 1.2 କୋଟି ଡାଉନଲୋଡ୍",
+      "free": "Pro",
+      "trust": "ବିଜ୍ଞାପନ ନାହିଁ · ଟ୍ରାକିଂ ନାହିଁ · କେବଳ ଆପଣଙ୍କ ସଙ୍ଗୀତ",
       "features": [
+        [
+          "ବିଜ୍ଞାପନ ବିନା ଶୁଣନ୍ତୁ",
+          "ବିଜ୍ଞାପନ କିମ୍ବା ବ୍ୟାଘାତ ବିନା ଆପଣଙ୍କ ସଙ୍ଗୀତ ଶୁଣନ୍ତୁ"
+        ],
         [
           "ଅଡିଓ ଇକ୍ୱାଲାଇଜର୍",
           "ପ୍ରୋ ଇକ୍ୱାଲାଇଜର୍, ବେସ୍ ବୁଷ୍ଟର୍ ଓ ପ୍ରିସେଟ୍"
@@ -1158,13 +1265,17 @@
       "a11yShot": "ଆପ୍ ସ୍କ୍ରିନ୍‌ସଟ୍"
     },
     "pa": {
-      "eyebrow": "ਸਾਡੀ <span class=\"hl\">ਮੁਫ਼ਤ</span> ਐਪ ਡਾਊਨਲੋਡ ਕਰੋ",
-      "appTitle": "Evermusic",
-      "hook": "ਤੁਹਾਡੇ Mac ਲਈ ਉੱਨਤ ਮਿਊਜ਼ਿਕ ਪਲੇਅਰ",
+      "eyebrow": "ਸਾਡੀ <span class=\"hl\">Pro</span> ਐਪ ਡਾਊਨਲੋਡ ਕਰੋ",
+      "appTitle": "Evermusic Pro",
+      "hook": "ਤੁਹਾਡੇ iPhone ਲਈ ਉੱਨਤ ਮਿਊਜ਼ਿਕ ਪਲੇਅਰ",
       "storeSmall": "ਡਾਊਨਲੋਡ ਕਰੋ",
-      "free": "ਮੁਫ਼ਤ",
-      "trust": "ਦੁਨੀਆ ਭਰ ਵਿੱਚ 1.2 ਕਰੋੜ ਡਾਊਨਲੋਡ",
+      "free": "Pro",
+      "trust": "ਕੋਈ ਇਸ਼ਤਿਹਾਰ ਨਹੀਂ · ਕੋਈ ਟਰੈਕਿੰਗ ਨਹੀਂ · ਸਿਰਫ਼ ਤੁਹਾਡਾ ਸੰਗੀਤ",
       "features": [
+        [
+          "ਬਿਨਾਂ ਇਸ਼ਤਿਹਾਰ ਸੁਣੋ",
+          "ਬਿਨਾਂ ਇਸ਼ਤਿਹਾਰ ਜਾਂ ਰੁਕਾਵਟ ਦੇ ਆਪਣਾ ਸੰਗੀਤ ਸੁਣੋ"
+        ],
         [
           "ਆਡੀਓ ਇਕੁਲਾਈਜ਼ਰ",
           "ਪ੍ਰੋ ਇਕੁਲਾਈਜ਼ਰ, ਬੇਸ ਬੂਸਟਰ ਅਤੇ ਪ੍ਰੀਸੈੱਟ"
@@ -1200,13 +1311,17 @@
       "a11yShot": "ਐਪ ਸਕ੍ਰੀਨਸ਼ਾਟ"
     },
     "pl": {
-      "eyebrow": "Pobierz naszą <span class=\"hl\">darmową</span> aplikację",
-      "appTitle": "Evermusic",
-      "hook": "Zaawansowany odtwarzacz muzyki na Maca",
+      "eyebrow": "Pobierz naszą <span class=\"hl\">Pro</span> aplikację",
+      "appTitle": "Evermusic Pro",
+      "hook": "Zaawansowany odtwarzacz muzyki na iPhone’a",
       "storeSmall": "Pobierz z",
-      "free": "Za darmo",
-      "trust": "12 milionów pobrań na całym świecie",
+      "free": "Pro",
+      "trust": "Bez reklam · Bez śledzenia · Tylko twoja muzyka",
       "features": [
+        [
+          "Słuchanie bez reklam",
+          "Słuchaj muzyki bez reklam i rozpraszaczy"
+        ],
         [
           "Korektor dźwięku",
           "Profesjonalny korektor, wzmacniacz basów i ustawienia"
@@ -1242,13 +1357,17 @@
       "a11yShot": "Zrzut ekranu aplikacji"
     },
     "pt": {
-      "eyebrow": "Baixe nosso app <span class=\"hl\">grátis</span>",
-      "appTitle": "Evermusic",
-      "hook": "Reprodutor de música avançado para seu Mac",
+      "eyebrow": "Baixe nosso app <span class=\"hl\">Pro</span>",
+      "appTitle": "Evermusic Pro",
+      "hook": "Reprodutor de música avançado para seu iPhone",
       "storeSmall": "Baixe na",
-      "free": "Grátis",
-      "trust": "12 milhões de downloads no mundo todo",
+      "free": "Pro",
+      "trust": "Sem anúncios · Sem rastreio · Só a sua música",
       "features": [
+        [
+          "Sem anúncios",
+          "Ouça sua música sem anúncios nem distrações"
+        ],
         [
           "Equalizador de áudio",
           "Equalizador pro, reforço de graves e predefinições"
@@ -1284,13 +1403,17 @@
       "a11yShot": "Captura de tela do app"
     },
     "ro": {
-      "eyebrow": "Descarcă aplicația noastră <span class=\"hl\">gratuită</span>",
-      "appTitle": "Evermusic",
-      "hook": "Player de muzică avansat pentru Mac-ul tău",
+      "eyebrow": "Descarcă aplicația noastră <span class=\"hl\">Pro</span>",
+      "appTitle": "Evermusic Pro",
+      "hook": "Player de muzică avansat pentru iPhone-ul tău",
       "storeSmall": "Descarcă din",
-      "free": "Gratuit",
-      "trust": "12 milioane de descărcări în întreaga lume",
+      "free": "Pro",
+      "trust": "Fără reclame · Fără urmărire · Doar muzica ta",
       "features": [
+        [
+          "Ascultare fără reclame",
+          "Ascultă-ți muzica fără reclame sau distrageri"
+        ],
         [
           "Egalizator audio",
           "Egalizator pro, amplificator de başi și presetări"
@@ -1326,13 +1449,17 @@
       "a11yShot": "Captură de ecran aplicație"
     },
     "ru": {
-      "eyebrow": "Скачайте наше <span class=\"hl\">бесплатное</span> приложение",
-      "appTitle": "Evermusic",
-      "hook": "Продвинутый музыкальный плеер для вашего Mac",
+      "eyebrow": "Скачайте наше <span class=\"hl\">Pro</span> приложение",
+      "appTitle": "Evermusic Pro",
+      "hook": "Продвинутый музыкальный плеер для вашего iPhone",
       "storeSmall": "Загрузите в",
-      "free": "Бесплатно",
-      "trust": "12 миллионов загрузок по всему миру",
+      "free": "Pro",
+      "trust": "Без рекламы · Без слежки · Только ваша музыка",
       "features": [
+        [
+          "Прослушивание без рекламы",
+          "Слушайте музыку без рекламы и отвлечений"
+        ],
         [
           "Эквалайзер",
           "Профи-эквалайзер, усилитель баса и пресеты"
@@ -1368,13 +1495,17 @@
       "a11yShot": "Скриншот приложения"
     },
     "sk": {
-      "eyebrow": "Stiahnite si našu <span class=\"hl\">bezplatnú</span> aplikáciu",
-      "appTitle": "Evermusic",
-      "hook": "Pokročilý hudobný prehrávač pre váš Mac",
+      "eyebrow": "Stiahnite si našu <span class=\"hl\">Pro</span> aplikáciu",
+      "appTitle": "Evermusic Pro",
+      "hook": "Pokročilý hudobný prehrávač pre váš iPhone",
       "storeSmall": "Stiahnuť z",
-      "free": "Zadarmo",
-      "trust": "12 miliónov stiahnutí po celom svete",
+      "free": "Pro",
+      "trust": "Žiadne reklamy · Žiadne sledovanie · Len tvoja hudba",
       "features": [
+        [
+          "Počúvanie bez reklám",
+          "Počúvajte hudbu bez reklám a rušenia"
+        ],
         [
           "Ekvalizér zvuku",
           "Profi ekvalizér, zosilnenie basov a predvoľby"
@@ -1410,13 +1541,17 @@
       "a11yShot": "Snímka aplikácie"
     },
     "sl": {
-      "eyebrow": "Prenesite našo <span class=\"hl\">brezplačno</span> aplikacijo",
-      "appTitle": "Evermusic",
-      "hook": "Napredni predvajalnik glasbe za vaš Mac",
+      "eyebrow": "Prenesite našo <span class=\"hl\">Pro</span> aplikacijo",
+      "appTitle": "Evermusic Pro",
+      "hook": "Napredni predvajalnik glasbe za vaš iPhone",
       "storeSmall": "Prenesite v",
-      "free": "Brezplačno",
-      "trust": "12 milijonov prenosov po vsem svetu",
+      "free": "Pro",
+      "trust": "Brez oglasov · Brez sledenja · Samo tvoja glasba",
       "features": [
+        [
+          "Poslušanje brez oglasov",
+          "Poslušajte glasbo brez oglasov in motenj"
+        ],
         [
           "Zvočni izenačevalnik",
           "Profesionalni izenačevalnik, ojačevalnik basov in prednastavitve"
@@ -1452,13 +1587,17 @@
       "a11yShot": "Posnetek zaslona aplikacije"
     },
     "sv": {
-      "eyebrow": "Ladda ner vår <span class=\"hl\">gratis</span> app",
-      "appTitle": "Evermusic",
-      "hook": "Avancerad musikspelare för din Mac",
+      "eyebrow": "Ladda ner vår <span class=\"hl\">Pro</span> app",
+      "appTitle": "Evermusic Pro",
+      "hook": "Avancerad musikspelare för din iPhone",
       "storeSmall": "Ladda ner på",
-      "free": "Gratis",
-      "trust": "12 miljoner nedladdningar över hela världen",
+      "free": "Pro",
+      "trust": "Inga annonser · Ingen spårning · Bara din musik",
       "features": [
+        [
+          "Lyssna utan annonser",
+          "Lyssna på din musik utan annonser eller störningar"
+        ],
         [
           "Ljudequalizer",
           "Proffs-equalizer, basförstärkare och förinställningar"
@@ -1494,13 +1633,17 @@
       "a11yShot": "App-skärmbild"
     },
     "ta": {
-      "eyebrow": "எங்கள் <span class=\"hl\">இலவச</span> ஆப்பைப் பதிவிறக்குங்கள்",
-      "appTitle": "Evermusic",
-      "hook": "உங்கள் Mac-க்கான மேம்பட்ட இசை பிளேயர்",
+      "eyebrow": "எங்கள் <span class=\"hl\">Pro</span> ஆப்பைப் பதிவிறக்குங்கள்",
+      "appTitle": "Evermusic Pro",
+      "hook": "உங்கள் iPhone-க்கான மேம்பட்ட இசை பிளேயர்",
       "storeSmall": "பதிவிறக்குங்கள்",
-      "free": "இலவசம்",
-      "trust": "உலகம் முழுவதும் 1.2 கோடி பதிவிறக்கங்கள்",
+      "free": "Pro",
+      "trust": "விளம்பரங்கள் இல்லை · கண்காணிப்பு இல்லை · உங்கள் இசை மட்டுமே",
       "features": [
+        [
+          "விளம்பரமின்றி கேளுங்கள்",
+          "விளம்பரங்கள் அல்லது இடையூறுகள் இன்றி உங்கள் இசையைக் கேளுங்கள்"
+        ],
         [
           "ஆடியோ ஈக்வலைசர்",
           "ப்ரோ ஈக்வலைசர், பேஸ் பூஸ்டர் மற்றும் ப்ரீசெட்கள்"
@@ -1536,13 +1679,17 @@
       "a11yShot": "ஆப் ஸ்கிரீன்ஷாட்"
     },
     "te": {
-      "eyebrow": "మా <span class=\"hl\">ఉచిత</span> యాప్‌ను డౌన్‌లోడ్ చేయండి",
-      "appTitle": "Evermusic",
-      "hook": "మీ Mac కోసం అధునాతన మ్యూజిక్ ప్లేయర్",
+      "eyebrow": "మా <span class=\"hl\">Pro</span> యాప్‌ను డౌన్‌లోడ్ చేయండి",
+      "appTitle": "Evermusic Pro",
+      "hook": "మీ iPhone కోసం అధునాతన మ్యూజిక్ ప్లేయర్",
       "storeSmall": "డౌన్‌లోడ్ చేయండి",
-      "free": "ఉచితం",
-      "trust": "ప్రపంచవ్యాప్తంగా 1.2 కోట్ల డౌన్‌లోడ్‌లు",
+      "free": "Pro",
+      "trust": "ప్రకటనలు లేవు · ట్రాకింగ్ లేదు · మీ సంగీతం మాత్రమే",
       "features": [
+        [
+          "ప్రకటనలు లేకుండా వినండి",
+          "ప్రకటనలు లేదా అంతరాయాలు లేకుండా మీ సంగీతాన్ని వినండి"
+        ],
         [
           "ఆడియో ఈక్వలైజర్",
           "ప్రో ఈక్వలైజర్, బాస్ బూస్టర్ మరియు ప్రీసెట్‌లు"
@@ -1578,13 +1725,17 @@
       "a11yShot": "యాప్ స్క్రీన్‌షాట్"
     },
     "th": {
-      "eyebrow": "ดาวน์โหลดแอป <span class=\"hl\">ฟรี</span> ของเรา",
-      "appTitle": "Evermusic",
-      "hook": "เครื่องเล่นเพลงขั้นสูงสำหรับ Mac ของคุณ",
+      "eyebrow": "ดาวน์โหลดแอป <span class=\"hl\">Pro</span> ของเรา",
+      "appTitle": "Evermusic Pro",
+      "hook": "เครื่องเล่นเพลงขั้นสูงสำหรับ iPhone ของคุณ",
       "storeSmall": "ดาวน์โหลดบน",
-      "free": "ฟรี",
-      "trust": "ยอดดาวน์โหลด 12 ล้านครั้งทั่วโลก",
+      "free": "Pro",
+      "trust": "ไม่มีโฆษณา · ไม่มีการติดตาม · มีแค่เพลงของคุณ",
       "features": [
+        [
+          "ฟังโดยไม่มีโฆษณา",
+          "ฟังเพลงของคุณโดยไม่มีโฆษณาหรือสิ่งรบกวน"
+        ],
         [
           "อีควอไลเซอร์เสียง",
           "อีควอไลเซอร์ระดับโปร ตัวเพิ่มเสียงเบส และพรีเซ็ต"
@@ -1620,13 +1771,17 @@
       "a11yShot": "ภาพหน้าจอแอป"
     },
     "tr": {
-      "eyebrow": "<span class=\"hl\">Ücretsiz</span> uygulamamızı indirin",
-      "appTitle": "Evermusic",
-      "hook": "Mac’ınız için gelişmiş müzik çalar",
+      "eyebrow": "<span class=\"hl\">Pro</span> uygulamamızı indirin",
+      "appTitle": "Evermusic Pro",
+      "hook": "iPhone’unuz için gelişmiş müzik çalar",
       "storeSmall": "Şuradan indirin:",
-      "free": "Ücretsiz",
-      "trust": "Dünya genelinde 12 milyon indirme",
+      "free": "Pro",
+      "trust": "Reklam yok · Takip yok · Sadece müziğiniz",
       "features": [
+        [
+          "Reklamsız dinleme",
+          "Müziğinizi reklamsız ve dikkat dağıtmadan dinleyin"
+        ],
         [
           "Ses ekolayzırı",
           "Profesyonel ekolayzır, bas güçlendirici ve hazır ayarlar"
@@ -1662,13 +1817,17 @@
       "a11yShot": "Uygulama ekran görüntüsü"
     },
     "uk": {
-      "eyebrow": "Завантажте наш <span class=\"hl\">безкоштовний</span> застосунок",
-      "appTitle": "Evermusic",
-      "hook": "Просунутий музичний плеєр для вашого Mac",
+      "eyebrow": "Завантажте наш <span class=\"hl\">Pro</span> застосунок",
+      "appTitle": "Evermusic Pro",
+      "hook": "Просунутий музичний плеєр для вашого iPhone",
       "storeSmall": "Завантажте в",
-      "free": "Безкоштовно",
-      "trust": "12 мільйонів завантажень у всьому світі",
+      "free": "Pro",
+      "trust": "Без реклами · Без стеження · Лише ваша музика",
       "features": [
+        [
+          "Прослуховування без реклами",
+          "Слухайте музику без реклами й відволікань"
+        ],
         [
           "Еквалайзер",
           "Профі-еквалайзер, підсилювач басів і пресети"
@@ -1705,13 +1864,17 @@
     },
     "ur": {
       "dir": "rtl",
-      "eyebrow": "ہماری <span class=\"hl\">مفت</span> ایپ ڈاؤن لوڈ کریں",
-      "appTitle": "Evermusic",
-      "hook": "آپ کے Mac کے لیے جدید میوزک پلیئر",
+      "eyebrow": "ہماری <span class=\"hl\">Pro</span> ایپ ڈاؤن لوڈ کریں",
+      "appTitle": "Evermusic Pro",
+      "hook": "آپ کے iPhone کے لیے جدید میوزک پلیئر",
       "storeSmall": "ڈاؤن لوڈ کریں",
-      "free": "مفت",
-      "trust": "دنیا بھر میں 1 کروڑ 20 لاکھ ڈاؤن لوڈز",
+      "free": "Pro",
+      "trust": "کوئی اشتہار نہیں · کوئی ٹریکنگ نہیں · صرف آپ کی موسیقی",
       "features": [
+        [
+          "اشتہارات کے بغیر سنیں",
+          "اشتہارات یا خلل کے بغیر اپنی موسیقی سنیں"
+        ],
         [
           "آڈیو ایکوالائزر",
           "پرو ایکوالائزر، بیس بوسٹر اور پری سیٹس"
@@ -1747,13 +1910,17 @@
       "a11yShot": "ایپ اسکرین شاٹ"
     },
     "vi": {
-      "eyebrow": "Tải ứng dụng <span class=\"hl\">miễn phí</span> của chúng tôi",
-      "appTitle": "Evermusic",
-      "hook": "Trình phát nhạc nâng cao cho Mac của bạn",
+      "eyebrow": "Tải ứng dụng <span class=\"hl\">Pro</span> của chúng tôi",
+      "appTitle": "Evermusic Pro",
+      "hook": "Trình phát nhạc nâng cao cho iPhone của bạn",
       "storeSmall": "Tải xuống trên",
-      "free": "Miễn phí",
-      "trust": "12 triệu lượt tải trên toàn thế giới",
+      "free": "Pro",
+      "trust": "Không quảng cáo · Không theo dõi · Chỉ nhạc của bạn",
       "features": [
+        [
+          "Nghe không quảng cáo",
+          "Nghe nhạc của bạn không quảng cáo hay phiền nhiễu"
+        ],
         [
           "Bộ chỉnh âm",
           "Bộ chỉnh âm chuyên nghiệp, tăng cường bass & cài đặt sẵn"
@@ -1789,13 +1956,17 @@
       "a11yShot": "Ảnh chụp màn hình ứng dụng"
     },
     "zh-Hans": {
-      "eyebrow": "下载我们的<span class=\"hl\">免费</span>应用",
-      "appTitle": "Evermusic",
-      "hook": "为您的 Mac 打造的高级音乐播放器",
+      "eyebrow": "下载我们的<span class=\"hl\">Pro</span>应用",
+      "appTitle": "Evermusic Pro",
+      "hook": "为您的 iPhone 打造的高级音乐播放器",
       "storeSmall": "下载于",
-      "free": "免费",
-      "trust": "全球下载量超 1200 万次",
+      "free": "Pro",
+      "trust": "无广告 · 无追踪 · 只有你的音乐",
       "features": [
+        [
+          "无广告聆听",
+          "无广告、无干扰地聆听您的音乐"
+        ],
         [
           "音频均衡器",
           "专业均衡器、低音增强与自定义预设"
@@ -1831,13 +2002,17 @@
       "a11yShot": "应用截图"
     },
     "zh-Hant": {
-      "eyebrow": "下載我們的<span class=\"hl\">免費</span>應用程式",
-      "appTitle": "Evermusic",
-      "hook": "為您的 Mac 打造的進階音樂播放器",
+      "eyebrow": "下載我們的<span class=\"hl\">Pro</span>應用程式",
+      "appTitle": "Evermusic Pro",
+      "hook": "為您的 iPhone 打造的進階音樂播放器",
       "storeSmall": "下載於",
-      "free": "免費",
-      "trust": "全球下載量超過 1200 萬次",
+      "free": "Pro",
+      "trust": "無廣告 · 無追蹤 · 只有你的音樂",
       "features": [
+        [
+          "無廣告聆聽",
+          "無廣告、無干擾地聆聽您的音樂"
+        ],
         [
           "音訊等化器",
           "專業等化器、低音增強與自訂預設"

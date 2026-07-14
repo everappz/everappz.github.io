@@ -5,6 +5,8 @@
       "id": 1,
       "name": "evermusic_free_ios",
       "platform": "ios",
+      "scheme": "lsevermusic",
+      "bundleID": "com.leshko.cloudplayer",
       "version": 1,
       "priority": "normal",
       "configPath": "evermusic_free_ios/config.json",
@@ -14,10 +16,23 @@
       "id": 2,
       "name": "evermusic_macos",
       "platform": "macos",
+      "scheme": "lsevermusicmac",
+      "bundleID": "com.leshko.cloudplayer.mac",
       "version": 1,
       "priority": "normal",
       "configPath": "evermusic_macos/config.json",
       "indexPath": "evermusic_macos/index.html"
+    },
+    {
+      "id": 3,
+      "name": "evermusic_pro_ios",
+      "platform": "ios",
+      "scheme": "lsevermusicpro",
+      "bundleID": "com.leshko.cloudplayerpro",
+      "version": 1,
+      "priority": "normal",
+      "configPath": "evermusic_pro_ios/config.json",
+      "indexPath": "evermusic_pro_ios/index.html"
     }
   ]
 }
