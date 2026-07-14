@@ -1,0 +1,2051 @@
+{
+  "id": 4,
+  "version": 1,
+  "appId": "1450763230",
+  "scheme": "lsevertag",
+  "bundleID": "com.leshko.tagseditor",
+  "storeUrl": "https://apps.apple.com/app/apple-store/id1450763230?pt=95781850&ct=cross_app_sale&mt=8",
+  "clickUrl": "",
+  "closeUrl": "",
+  "defaultLang": "en",
+  "screens": [
+    "resources/screens/1.png",
+    "resources/screens/2.png",
+    "resources/screens/3.png",
+    "resources/screens/4.png",
+    "resources/screens/5.png",
+    "resources/screens/6.png",
+    "resources/screens/7.png",
+    "resources/screens/8.png",
+    "resources/screens/9.png"
+  ],
+  "languages": {
+    "en": {
+      "eyebrow": "Download our <span class=\"hl\">Free</span> App",
+      "appTitle": "Evertag",
+      "hook": "Professional audio tags editor for your iPhone",
+      "storeSmall": "Download on the",
+      "free": "Free",
+      "trust": "Edit 120+ audio tags · all major formats",
+      "features": [
+        [
+          "Audio tags editor",
+          "Edit metadata for MP3, FLAC, OGG, M4A, WMA and more"
+        ],
+        [
+          "Batch mode",
+          "Select multiple files and edit them all at once"
+        ],
+        [
+          "Album covers",
+          "Find and add missing album artwork"
+        ],
+        [
+          "Advanced search",
+          "Find missing tags manually or automatically"
+        ],
+        [
+          "Encoding correction",
+          "Normalize encoding so tags display correctly"
+        ],
+        [
+          "Local files",
+          "Edit files on your device and in other apps"
+        ],
+        [
+          "Cloud storage",
+          "Edit tags in the cloud, no extra device space"
+        ],
+        [
+          "Computer and USB",
+          "Connect a computer or USB drive to edit files"
+        ]
+      ],
+      "a11yTitle": "App banner",
+      "a11yClose": "Close app banner",
+      "a11yIcon": "App icon",
+      "a11yShot": "App screenshot"
+    },
+    "ar": {
+      "dir": "rtl",
+      "eyebrow": "حمّل تطبيقنا <span class=\"hl\">المجاني</span>",
+      "appTitle": "Evertag",
+      "hook": "محرر احترافي لوسوم الصوت على iPhone",
+      "storeSmall": "حمّله من",
+      "free": "مجاني",
+      "trust": "عدّل أكثر من 120 وسمًا صوتيًا · جميع الصيغ الرئيسية",
+      "features": [
+        [
+          "محرر وسوم الصوت",
+          "حرّر بيانات MP3 وFLAC وOGG وM4A وWMA والمزيد"
+        ],
+        [
+          "الوضع الجماعي",
+          "حدّد عدة ملفات وحرّرها كلها دفعة واحدة"
+        ],
+        [
+          "أغلفة الألبومات",
+          "ابحث عن أغلفة الألبومات المفقودة وأضفها"
+        ],
+        [
+          "بحث متقدم",
+          "ابحث عن الوسوم المفقودة يدويًا أو تلقائيًا"
+        ],
+        [
+          "تصحيح الترميز",
+          "وحّد الترميز لتظهر الوسوم بشكل صحيح"
+        ],
+        [
+          "ملفات محلية",
+          "حرّر الملفات على جهازك وفي التطبيقات الأخرى"
+        ],
+        [
+          "التخزين السحابي",
+          "حرّر الوسوم في السحابة دون شغل مساحة الجهاز"
+        ],
+        [
+          "الكمبيوتر وUSB",
+          "وصّل كمبيوتر أو قرص USB لتحرير الملفات"
+        ]
+      ],
+      "a11yTitle": "لافتة التطبيق",
+      "a11yClose": "إغلاق لافتة التطبيق",
+      "a11yIcon": "أيقونة التطبيق",
+      "a11yShot": "لقطة شاشة التطبيق"
+    },
+    "bn": {
+      "eyebrow": "আমাদের <span class=\"hl\">ফ্রি</span> অ্যাপ ডাউনলোড করুন",
+      "appTitle": "Evertag",
+      "hook": "আপনার iPhone-এর জন্য পেশাদার অডিও ট্যাগ এডিটর",
+      "storeSmall": "ডাউনলোড করুন",
+      "free": "ফ্রি",
+      "trust": "120+ অডিও ট্যাগ সম্পাদনা · সব প্রধান ফরম্যাট",
+      "features": [
+        [
+          "অডিও ট্যাগ এডিটর",
+          "MP3, FLAC, OGG, M4A, WMA ও আরও ফরম্যাটের মেটাডেটা সম্পাদনা করুন"
+        ],
+        [
+          "ব্যাচ মোড",
+          "একাধিক ফাইল নির্বাচন করে একসাথে সম্পাদনা করুন"
+        ],
+        [
+          "অ্যালবাম কভার",
+          "অনুপস্থিত অ্যালবাম আর্টওয়ার্ক খুঁজে যোগ করুন"
+        ],
+        [
+          "উন্নত অনুসন্ধান",
+          "অনুপস্থিত ট্যাগ ম্যানুয়ালি বা স্বয়ংক্রিয়ভাবে খুঁজুন"
+        ],
+        [
+          "এনকোডিং সংশোধন",
+          "ট্যাগ সঠিকভাবে দেখাতে এনকোডিং নর্মালাইজ করুন"
+        ],
+        [
+          "স্থানীয় ফাইল",
+          "আপনার ডিভাইস ও অন্য অ্যাপে ফাইল সম্পাদনা করুন"
+        ],
+        [
+          "ক্লাউড স্টোরেজ",
+          "ডিভাইসের জায়গা ছাড়াই ক্লাউডে ট্যাগ সম্পাদনা করুন"
+        ],
+        [
+          "কম্পিউটার ও USB",
+          "ফাইল সম্পাদনায় কম্পিউটার বা USB ড্রাইভ সংযুক্ত করুন"
+        ]
+      ],
+      "a11yTitle": "অ্যাপ ব্যানার",
+      "a11yClose": "অ্যাপ ব্যানার বন্ধ করুন",
+      "a11yIcon": "অ্যাপ আইকন",
+      "a11yShot": "অ্যাপ স্ক্রিনশট"
+    },
+    "ca": {
+      "eyebrow": "Baixa la nostra app <span class=\"hl\">gratuïta</span>",
+      "appTitle": "Evertag",
+      "hook": "Editor professional d'etiquetes d'àudio per al teu iPhone",
+      "storeSmall": "Baixa-la a l’",
+      "free": "Gratis",
+      "trust": "Edita més de 120 etiquetes d’àudio · tots els formats principals",
+      "features": [
+        [
+          "Editor d'etiquetes",
+          "Edita metadades de MP3, FLAC, OGG, M4A, WMA i més"
+        ],
+        [
+          "Mode per lots",
+          "Selecciona diversos fitxers i edita'ls alhora"
+        ],
+        [
+          "Caràtules d'àlbum",
+          "Troba i afegeix caràtules d'àlbum que falten"
+        ],
+        [
+          "Cerca avançada",
+          "Troba etiquetes que falten manualment o automàticament"
+        ],
+        [
+          "Correcció de codificació",
+          "Normalitza la codificació perquè les etiquetes es vegin bé"
+        ],
+        [
+          "Fitxers locals",
+          "Edita fitxers al dispositiu i en altres apps"
+        ],
+        [
+          "Emmagatzematge al núvol",
+          "Edita etiquetes al núvol sense ocupar espai"
+        ],
+        [
+          "Ordinador i USB",
+          "Connecta un ordinador o una unitat USB per editar"
+        ]
+      ],
+      "a11yTitle": "Bàner de l’app",
+      "a11yClose": "Tanca el bàner de l’app",
+      "a11yIcon": "Icona de l’app",
+      "a11yShot": "Captura de l’app"
+    },
+    "cs": {
+      "eyebrow": "Stáhněte si naši <span class=\"hl\">bezplatnou</span> aplikaci",
+      "appTitle": "Evertag",
+      "hook": "Profesionální editor zvukových tagů pro váš iPhone",
+      "storeSmall": "Stáhnout na",
+      "free": "Zdarma",
+      "trust": "Upravte 120+ zvukových tagů · všechny hlavní formáty",
+      "features": [
+        [
+          "Editor tagů",
+          "Upravte metadata pro MP3, FLAC, OGG, M4A, WMA a další"
+        ],
+        [
+          "Dávkový režim",
+          "Vyberte více souborů a upravte je najednou"
+        ],
+        [
+          "Obaly alb",
+          "Najděte a doplňte chybějící obaly alb"
+        ],
+        [
+          "Pokročilé hledání",
+          "Najděte chybějící tagy ručně nebo automaticky"
+        ],
+        [
+          "Oprava kódování",
+          "Sjednoťte kódování, aby se tagy zobrazovaly správně"
+        ],
+        [
+          "Místní soubory",
+          "Upravujte soubory v zařízení i v jiných aplikacích"
+        ],
+        [
+          "Cloudové úložiště",
+          "Upravujte tagy v cloudu bez místa v zařízení"
+        ],
+        [
+          "Počítač a USB",
+          "Připojte počítač nebo USB disk a upravujte soubory"
+        ]
+      ],
+      "a11yTitle": "Banner aplikace",
+      "a11yClose": "Zavřít banner aplikace",
+      "a11yIcon": "Ikona aplikace",
+      "a11yShot": "Snímek aplikace"
+    },
+    "da": {
+      "eyebrow": "Download vores <span class=\"hl\">gratis</span> app",
+      "appTitle": "Evertag",
+      "hook": "Professionel lyd-tag-editor til din iPhone",
+      "storeSmall": "Hent i",
+      "free": "Gratis",
+      "trust": "Rediger 120+ lydtags · alle større formater",
+      "features": [
+        [
+          "Lyd-tag-editor",
+          "Rediger metadata for MP3, FLAC, OGG, M4A, WMA og mere"
+        ],
+        [
+          "Batch-tilstand",
+          "Vælg flere filer og rediger dem på én gang"
+        ],
+        [
+          "Albumcovere",
+          "Find og tilføj manglende albumcovere"
+        ],
+        [
+          "Avanceret søgning",
+          "Find manglende tags manuelt eller automatisk"
+        ],
+        [
+          "Kodningsrettelse",
+          "Normaliser kodning, så tags vises korrekt"
+        ],
+        [
+          "Lokale filer",
+          "Rediger filer på din enhed og i andre apps"
+        ],
+        [
+          "Cloudlagring",
+          "Rediger tags i skyen uden ekstra plads på enheden"
+        ],
+        [
+          "Computer og USB",
+          "Tilslut en computer eller et USB-drev for at redigere"
+        ]
+      ],
+      "a11yTitle": "App-banner",
+      "a11yClose": "Luk app-banner",
+      "a11yIcon": "App-ikon",
+      "a11yShot": "App-skærmbillede"
+    },
+    "de": {
+      "eyebrow": "Lade unsere <span class=\"hl\">kostenlose</span> App",
+      "appTitle": "Evertag",
+      "hook": "Professioneller Audio-Tag-Editor für dein iPhone",
+      "storeSmall": "Laden im",
+      "free": "Gratis",
+      "trust": "Über 120 Audio-Tags bearbeiten · alle gängigen Formate",
+      "features": [
+        [
+          "Audio-Tag-Editor",
+          "Metadaten für MP3, FLAC, OGG, M4A, WMA und mehr bearbeiten"
+        ],
+        [
+          "Stapelmodus",
+          "Mehrere Dateien auswählen und alle auf einmal bearbeiten"
+        ],
+        [
+          "Albumcover",
+          "Fehlende Albumcover finden und hinzufügen"
+        ],
+        [
+          "Erweiterte Suche",
+          "Fehlende Tags manuell oder automatisch finden"
+        ],
+        [
+          "Kodierungskorrektur",
+          "Kodierung normalisieren, damit Tags korrekt erscheinen"
+        ],
+        [
+          "Lokale Dateien",
+          "Dateien auf dem Gerät und in anderen Apps bearbeiten"
+        ],
+        [
+          "Cloud-Speicher",
+          "Tags in der Cloud bearbeiten, ohne Speicherplatz zu belegen"
+        ],
+        [
+          "Computer und USB",
+          "Computer oder USB-Laufwerk verbinden und Dateien bearbeiten"
+        ]
+      ],
+      "a11yTitle": "App-Banner",
+      "a11yClose": "App-Banner schließen",
+      "a11yIcon": "App-Symbol",
+      "a11yShot": "App-Screenshot"
+    },
+    "el": {
+      "eyebrow": "Κατεβάστε τη <span class=\"hl\">δωρεάν</span> εφαρμογή μας",
+      "appTitle": "Evertag",
+      "hook": "Επαγγελματικός επεξεργαστής ετικετών ήχου για το iPhone σας",
+      "storeSmall": "Κατεβάστε το από το",
+      "free": "Δωρεάν",
+      "trust": "Επεξεργασία 120+ ετικετών ήχου · όλες οι βασικές μορφές",
+      "features": [
+        [
+          "Επεξεργαστής ετικετών",
+          "Επεξεργαστείτε μεταδεδομένα για MP3, FLAC, OGG, M4A, WMA και άλλα"
+        ],
+        [
+          "Μαζική λειτουργία",
+          "Επιλέξτε πολλά αρχεία και επεξεργαστείτε τα μαζί"
+        ],
+        [
+          "Εξώφυλλα άλμπουμ",
+          "Βρείτε και προσθέστε εξώφυλλα άλμπουμ που λείπουν"
+        ],
+        [
+          "Σύνθετη αναζήτηση",
+          "Βρείτε ετικέτες που λείπουν χειροκίνητα ή αυτόματα"
+        ],
+        [
+          "Διόρθωση κωδικοποίησης",
+          "Ομαλοποιήστε την κωδικοποίηση για σωστές ετικέτες"
+        ],
+        [
+          "Τοπικά αρχεία",
+          "Επεξεργαστείτε αρχεία στη συσκευή και σε άλλες εφαρμογές"
+        ],
+        [
+          "Αποθήκευση στο cloud",
+          "Επεξεργαστείτε ετικέτες στο cloud χωρίς χώρο στη συσκευή"
+        ],
+        [
+          "Υπολογιστής και USB",
+          "Συνδέστε υπολογιστή ή μονάδα USB για επεξεργασία"
+        ]
+      ],
+      "a11yTitle": "Μπάνερ εφαρμογής",
+      "a11yClose": "Κλείσιμο μπάνερ εφαρμογής",
+      "a11yIcon": "Εικονίδιο εφαρμογής",
+      "a11yShot": "Στιγμιότυπο εφαρμογής"
+    },
+    "es": {
+      "eyebrow": "Descarga nuestra app <span class=\"hl\">gratis</span>",
+      "appTitle": "Evertag",
+      "hook": "Editor profesional de etiquetas de audio para tu iPhone",
+      "storeSmall": "Descárgala en el",
+      "free": "Gratis",
+      "trust": "Edita más de 120 etiquetas de audio · todos los formatos principales",
+      "features": [
+        [
+          "Editor de etiquetas",
+          "Edita metadatos de MP3, FLAC, OGG, M4A, WMA y más"
+        ],
+        [
+          "Modo por lotes",
+          "Selecciona varios archivos y edítalos a la vez"
+        ],
+        [
+          "Carátulas de álbum",
+          "Encuentra y añade carátulas de álbum que faltan"
+        ],
+        [
+          "Búsqueda avanzada",
+          "Encuentra etiquetas que faltan manual o automáticamente"
+        ],
+        [
+          "Corrección de codificación",
+          "Normaliza la codificación para ver bien las etiquetas"
+        ],
+        [
+          "Archivos locales",
+          "Edita archivos en tu dispositivo y en otras apps"
+        ],
+        [
+          "Almacenamiento en la nube",
+          "Edita etiquetas en la nube sin ocupar espacio"
+        ],
+        [
+          "Ordenador y USB",
+          "Conecta un ordenador o una unidad USB para editar"
+        ]
+      ],
+      "a11yTitle": "Banner de la app",
+      "a11yClose": "Cerrar banner de la app",
+      "a11yIcon": "Icono de la app",
+      "a11yShot": "Captura de la app"
+    },
+    "fi": {
+      "eyebrow": "Lataa <span class=\"hl\">ilmainen</span> sovelluksemme",
+      "appTitle": "Evertag",
+      "hook": "Ammattimainen äänitunnisteiden editori iPhonelle",
+      "storeSmall": "Lataa",
+      "free": "Ilmainen",
+      "trust": "Muokkaa yli 120 äänitunnistetta · kaikki tärkeimmät muodot",
+      "features": [
+        [
+          "Tunnisteiden editori",
+          "Muokkaa MP3-, FLAC-, OGG-, M4A- ja WMA-metatietoja"
+        ],
+        [
+          "Eräajotila",
+          "Valitse useita tiedostoja ja muokkaa kaikkia kerralla"
+        ],
+        [
+          "Albumin kannet",
+          "Etsi ja lisää puuttuvat albumin kannet"
+        ],
+        [
+          "Tarkennettu haku",
+          "Etsi puuttuvat tunnisteet käsin tai automaattisesti"
+        ],
+        [
+          "Koodauksen korjaus",
+          "Normalisoi koodaus, jotta tunnisteet näkyvät oikein"
+        ],
+        [
+          "Paikalliset tiedostot",
+          "Muokkaa tiedostoja laitteella ja muissa sovelluksissa"
+        ],
+        [
+          "Pilvitallennus",
+          "Muokkaa tunnisteita pilvessä ilman laitetilaa"
+        ],
+        [
+          "Tietokone ja USB",
+          "Yhdistä tietokone tai USB-asema ja muokkaa tiedostoja"
+        ]
+      ],
+      "a11yTitle": "Sovelluksen banneri",
+      "a11yClose": "Sulje sovelluksen banneri",
+      "a11yIcon": "Sovelluksen kuvake",
+      "a11yShot": "Sovelluksen kuvakaappaus"
+    },
+    "fr": {
+      "eyebrow": "Téléchargez notre appli <span class=\"hl\">gratuite</span>",
+      "appTitle": "Evertag",
+      "hook": "Éditeur pro de tags audio pour votre iPhone",
+      "storeSmall": "Télécharger dans l’",
+      "free": "Gratuit",
+      "trust": "Modifiez plus de 120 tags audio · tous les formats majeurs",
+      "features": [
+        [
+          "Éditeur de tags",
+          "Modifiez les métadonnées MP3, FLAC, OGG, M4A, WMA et plus"
+        ],
+        [
+          "Mode par lots",
+          "Sélectionnez plusieurs fichiers et modifiez-les d'un coup"
+        ],
+        [
+          "Pochettes d'album",
+          "Trouvez et ajoutez les pochettes d'album manquantes"
+        ],
+        [
+          "Recherche avancée",
+          "Trouvez les tags manquants manuellement ou automatiquement"
+        ],
+        [
+          "Correction d'encodage",
+          "Normalisez l'encodage pour un affichage correct des tags"
+        ],
+        [
+          "Fichiers locaux",
+          "Modifiez les fichiers sur l'appareil et dans d'autres apps"
+        ],
+        [
+          "Stockage cloud",
+          "Modifiez les tags dans le cloud sans occuper d'espace"
+        ],
+        [
+          "Ordinateur et USB",
+          "Connectez un ordinateur ou une clé USB pour éditer"
+        ]
+      ],
+      "a11yTitle": "Bannière de l’app",
+      "a11yClose": "Fermer la bannière de l’app",
+      "a11yIcon": "Icône de l’app",
+      "a11yShot": "Capture d’écran de l’app"
+    },
+    "gu": {
+      "eyebrow": "અમારી <span class=\"hl\">મફત</span> એપ ડાઉનલોડ કરો",
+      "appTitle": "Evertag",
+      "hook": "તમારા iPhone માટે વ્યાવસાયિક ઑડિયો ટૅગ એડિટર",
+      "storeSmall": "ડાઉનલોડ કરો",
+      "free": "મફત",
+      "trust": "120+ ઑડિયો ટૅગ સંપાદિત કરો · બધા મુખ્ય ફોર્મેટ",
+      "features": [
+        [
+          "ઑડિયો ટૅગ એડિટર",
+          "MP3, FLAC, OGG, M4A, WMA અને વધુના મેટાડેટા સંપાદિત કરો"
+        ],
+        [
+          "બૅચ મોડ",
+          "અનેક ફાઇલો પસંદ કરી બધીને એકસાથે સંપાદિત કરો"
+        ],
+        [
+          "આલ્બમ કવર",
+          "ખૂટતા આલ્બમ કવર શોધો અને ઉમેરો"
+        ],
+        [
+          "અદ્યતન શોધ",
+          "ખૂટતા ટૅગ મેન્યુઅલી કે આપમેળે શોધો"
+        ],
+        [
+          "એન્કોડિંગ સુધારો",
+          "ટૅગ યોગ્ય રીતે દેખાય તે માટે એન્કોડિંગ સામાન્ય કરો"
+        ],
+        [
+          "સ્થાનિક ફાઇલો",
+          "તમારા ઉપકરણ અને અન્ય એપમાં ફાઇલો સંપાદિત કરો"
+        ],
+        [
+          "ક્લાઉડ સ્ટોરેજ",
+          "ઉપકરણની જગ્યા વગર ક્લાઉડમાં ટૅગ સંપાદિત કરો"
+        ],
+        [
+          "કમ્પ્યુટર અને USB",
+          "ફાઇલો સંપાદિત કરવા કમ્પ્યુટર કે USB ડ્રાઇવ જોડો"
+        ]
+      ],
+      "a11yTitle": "એપ બેનર",
+      "a11yClose": "એપ બેનર બંધ કરો",
+      "a11yIcon": "એપ આઇકન",
+      "a11yShot": "એપ સ્ક્રીનશોટ"
+    },
+    "he": {
+      "dir": "rtl",
+      "eyebrow": "הורידו את האפליקציה <span class=\"hl\">החינמית</span> שלנו",
+      "appTitle": "Evertag",
+      "hook": "עורך תגי אודיו מקצועי ל-iPhone שלך",
+      "storeSmall": "הורידו מ־",
+      "free": "חינם",
+      "trust": "עריכת 120+ תגי אודיו · כל הפורמטים המרכזיים",
+      "features": [
+        [
+          "עורך תגי אודיו",
+          "ערכו מטא-נתונים של MP3, FLAC, OGG, M4A, WMA ועוד"
+        ],
+        [
+          "מצב אצווה",
+          "בחרו כמה קבצים וערכו את כולם בבת אחת"
+        ],
+        [
+          "עטיפות אלבום",
+          "מצאו והוסיפו עטיפות אלבום חסרות"
+        ],
+        [
+          "חיפוש מתקדם",
+          "מצאו תגים חסרים ידנית או אוטומטית"
+        ],
+        [
+          "תיקון קידוד",
+          "נרמלו את הקידוד כדי שהתגים יוצגו נכון"
+        ],
+        [
+          "קבצים מקומיים",
+          "ערכו קבצים במכשיר וביישומים אחרים"
+        ],
+        [
+          "אחסון בענן",
+          "ערכו תגים בענן בלי לתפוס מקום במכשיר"
+        ],
+        [
+          "מחשב ו-USB",
+          "חברו מחשב או כונן USB לעריכת קבצים"
+        ]
+      ],
+      "a11yTitle": "באנר האפליקציה",
+      "a11yClose": "סגירת באנר האפליקציה",
+      "a11yIcon": "סמל האפליקציה",
+      "a11yShot": "צילום מסך של האפליקציה"
+    },
+    "hi": {
+      "eyebrow": "हमारा <span class=\"hl\">मुफ़्त</span> ऐप डाउनलोड करें",
+      "appTitle": "Evertag",
+      "hook": "आपके iPhone के लिए पेशेवर ऑडियो टैग एडिटर",
+      "storeSmall": "डाउनलोड करें",
+      "free": "मुफ़्त",
+      "trust": "120+ ऑडियो टैग संपादित करें · सभी प्रमुख फ़ॉर्मेट",
+      "features": [
+        [
+          "ऑडियो टैग एडिटर",
+          "MP3, FLAC, OGG, M4A, WMA और अन्य के मेटाडेटा संपादित करें"
+        ],
+        [
+          "बैच मोड",
+          "कई फ़ाइलें चुनें और सभी को एक साथ संपादित करें"
+        ],
+        [
+          "एल्बम कवर",
+          "गुम एल्बम आर्टवर्क खोजें और जोड़ें"
+        ],
+        [
+          "उन्नत खोज",
+          "गुम टैग मैन्युअल या स्वचालित रूप से खोजें"
+        ],
+        [
+          "एन्कोडिंग सुधार",
+          "टैग सही दिखें इसके लिए एन्कोडिंग सामान्य करें"
+        ],
+        [
+          "स्थानीय फ़ाइलें",
+          "अपने डिवाइस और अन्य ऐप्स में फ़ाइलें संपादित करें"
+        ],
+        [
+          "क्लाउड स्टोरेज",
+          "डिवाइस की जगह लिए बिना क्लाउड में टैग संपादित करें"
+        ],
+        [
+          "कंप्यूटर और USB",
+          "फ़ाइलें संपादित करने के लिए कंप्यूटर या USB ड्राइव जोड़ें"
+        ]
+      ],
+      "a11yTitle": "ऐप बैनर",
+      "a11yClose": "ऐप बैनर बंद करें",
+      "a11yIcon": "ऐप आइकन",
+      "a11yShot": "ऐप स्क्रीनशॉट"
+    },
+    "hr": {
+      "eyebrow": "Preuzmite našu <span class=\"hl\">besplatnu</span> aplikaciju",
+      "appTitle": "Evertag",
+      "hook": "Profesionalni uređivač audio oznaka za vaš iPhone",
+      "storeSmall": "Preuzmite na",
+      "free": "Besplatno",
+      "trust": "Uredite 120+ audio oznaka · svi glavni formati",
+      "features": [
+        [
+          "Uređivač oznaka",
+          "Uredite metapodatke za MP3, FLAC, OGG, M4A, WMA i više"
+        ],
+        [
+          "Skupni način",
+          "Odaberite više datoteka i uredite ih odjednom"
+        ],
+        [
+          "Omoti albuma",
+          "Pronađite i dodajte nedostajuće omote albuma"
+        ],
+        [
+          "Napredno pretraživanje",
+          "Pronađite oznake koje nedostaju ručno ili automatski"
+        ],
+        [
+          "Ispravak kodiranja",
+          "Normalizirajte kodiranje da se oznake ispravno prikažu"
+        ],
+        [
+          "Lokalne datoteke",
+          "Uređujte datoteke na uređaju i u drugim aplikacijama"
+        ],
+        [
+          "Pohrana u oblaku",
+          "Uređujte oznake u oblaku bez zauzimanja prostora"
+        ],
+        [
+          "Računalo i USB",
+          "Spojite računalo ili USB pogon za uređivanje datoteka"
+        ]
+      ],
+      "a11yTitle": "Banner aplikacije",
+      "a11yClose": "Zatvori banner aplikacije",
+      "a11yIcon": "Ikona aplikacije",
+      "a11yShot": "Snimka zaslona aplikacije"
+    },
+    "hu": {
+      "eyebrow": "Töltsd le <span class=\"hl\">ingyenes</span> alkalmazásunkat",
+      "appTitle": "Evertag",
+      "hook": "Professzionális hangcímke-szerkesztő iPhone-hoz",
+      "storeSmall": "Töltsd le innen:",
+      "free": "Ingyenes",
+      "trust": "120+ hangcímke szerkesztése · minden fő formátum",
+      "features": [
+        [
+          "Címkeszerkesztő",
+          "Szerkessz MP3, FLAC, OGG, M4A, WMA és más metaadatokat"
+        ],
+        [
+          "Kötegelt mód",
+          "Válassz ki több fájlt, és szerkeszd egyszerre"
+        ],
+        [
+          "Albumborítók",
+          "Keresd meg és add hozzá a hiányzó albumborítókat"
+        ],
+        [
+          "Speciális keresés",
+          "Keresd a hiányzó címkéket kézzel vagy automatikusan"
+        ],
+        [
+          "Kódolásjavítás",
+          "Normalizáld a kódolást a helyes címkemegjelenítéshez"
+        ],
+        [
+          "Helyi fájlok",
+          "Szerkessz fájlokat az eszközön és más appokban"
+        ],
+        [
+          "Felhőtárhely",
+          "Szerkessz címkéket a felhőben, eszközhely nélkül"
+        ],
+        [
+          "Számítógép és USB",
+          "Csatlakoztass számítógépet vagy USB-t a szerkesztéshez"
+        ]
+      ],
+      "a11yTitle": "Alkalmazásbanner",
+      "a11yClose": "Alkalmazásbanner bezárása",
+      "a11yIcon": "Alkalmazásikon",
+      "a11yShot": "Alkalmazás képernyőkép"
+    },
+    "id": {
+      "eyebrow": "Unduh aplikasi <span class=\"hl\">gratis</span> kami",
+      "appTitle": "Evertag",
+      "hook": "Editor tag audio profesional untuk iPhone Anda",
+      "storeSmall": "Unduh di",
+      "free": "Gratis",
+      "trust": "Edit 120+ tag audio · semua format utama",
+      "features": [
+        [
+          "Editor tag audio",
+          "Edit metadata MP3, FLAC, OGG, M4A, WMA, dan lainnya"
+        ],
+        [
+          "Mode batch",
+          "Pilih beberapa file dan edit sekaligus"
+        ],
+        [
+          "Sampul album",
+          "Temukan dan tambahkan sampul album yang hilang"
+        ],
+        [
+          "Pencarian lanjutan",
+          "Temukan tag yang hilang secara manual atau otomatis"
+        ],
+        [
+          "Koreksi enkoding",
+          "Normalkan enkoding agar tag tampil dengan benar"
+        ],
+        [
+          "File lokal",
+          "Edit file di perangkat dan di aplikasi lain"
+        ],
+        [
+          "Penyimpanan cloud",
+          "Edit tag di cloud tanpa memakai ruang perangkat"
+        ],
+        [
+          "Komputer dan USB",
+          "Sambungkan komputer atau drive USB untuk mengedit"
+        ]
+      ],
+      "a11yTitle": "Banner aplikasi",
+      "a11yClose": "Tutup banner aplikasi",
+      "a11yIcon": "Ikon aplikasi",
+      "a11yShot": "Tangkapan layar aplikasi"
+    },
+    "it": {
+      "eyebrow": "Scarica la nostra app <span class=\"hl\">gratuita</span>",
+      "appTitle": "Evertag",
+      "hook": "Editor professionale di tag audio per il tuo iPhone",
+      "storeSmall": "Scarica su",
+      "free": "Gratis",
+      "trust": "Modifica oltre 120 tag audio · tutti i formati principali",
+      "features": [
+        [
+          "Editor di tag audio",
+          "Modifica i metadati di MP3, FLAC, OGG, M4A, WMA e altro"
+        ],
+        [
+          "Modalità batch",
+          "Seleziona più file e modificali tutti insieme"
+        ],
+        [
+          "Copertine album",
+          "Trova e aggiungi le copertine degli album mancanti"
+        ],
+        [
+          "Ricerca avanzata",
+          "Trova i tag mancanti manualmente o automaticamente"
+        ],
+        [
+          "Correzione codifica",
+          "Normalizza la codifica per visualizzare bene i tag"
+        ],
+        [
+          "File locali",
+          "Modifica i file sul dispositivo e in altre app"
+        ],
+        [
+          "Archiviazione cloud",
+          "Modifica i tag nel cloud senza occupare spazio"
+        ],
+        [
+          "Computer e USB",
+          "Collega un computer o un'unità USB per modificare i file"
+        ]
+      ],
+      "a11yTitle": "Banner dell’app",
+      "a11yClose": "Chiudi il banner dell’app",
+      "a11yIcon": "Icona dell’app",
+      "a11yShot": "Screenshot dell’app"
+    },
+    "ja": {
+      "eyebrow": "<span class=\"hl\">無料</span>アプリをダウンロード",
+      "appTitle": "Evertag",
+      "hook": "iPhone向けのプロ仕様オーディオタグエディタ",
+      "storeSmall": "ダウンロード：",
+      "free": "無料",
+      "trust": "120以上のオーディオタグを編集 · 主要な全フォーマット対応",
+      "features": [
+        [
+          "タグエディタ",
+          "MP3、FLAC、OGG、M4A、WMAなどのメタデータを編集"
+        ],
+        [
+          "一括モード",
+          "複数のファイルを選んでまとめて編集"
+        ],
+        [
+          "アルバムアート",
+          "不足しているアルバムアートを検索して追加"
+        ],
+        [
+          "高度な検索",
+          "不足しているタグを手動または自動で検索"
+        ],
+        [
+          "エンコード修正",
+          "エンコードを正規化してタグを正しく表示"
+        ],
+        [
+          "ローカルファイル",
+          "端末上や他のアプリのファイルを編集"
+        ],
+        [
+          "クラウドストレージ",
+          "端末の容量を使わずクラウドでタグを編集"
+        ],
+        [
+          "コンピュータとUSB",
+          "コンピュータやUSBドライブを接続して編集"
+        ]
+      ],
+      "a11yTitle": "アプリバナー",
+      "a11yClose": "アプリバナーを閉じる",
+      "a11yIcon": "アプリアイコン",
+      "a11yShot": "アプリのスクリーンショット"
+    },
+    "kn": {
+      "eyebrow": "ನಮ್ಮ <span class=\"hl\">ಉಚಿತ</span> ಆ್ಯಪ್ ಡೌನ್‌ಲೋಡ್ ಮಾಡಿ",
+      "appTitle": "Evertag",
+      "hook": "ನಿಮ್ಮ iPhone ಗಾಗಿ ವೃತ್ತಿಪರ ಆಡಿಯೊ ಟ್ಯಾಗ್ ಸಂಪಾದಕ",
+      "storeSmall": "ಡೌನ್‌ಲೋಡ್ ಮಾಡಿ",
+      "free": "ಉಚಿತ",
+      "trust": "120+ ಆಡಿಯೊ ಟ್ಯಾಗ್‌ಗಳನ್ನು ಸಂಪಾದಿಸಿ · ಎಲ್ಲಾ ಪ್ರಮುಖ ಫಾರ್ಮ್ಯಾಟ್‌ಗಳು",
+      "features": [
+        [
+          "ಆಡಿಯೊ ಟ್ಯಾಗ್ ಸಂಪಾದಕ",
+          "MP3, FLAC, OGG, M4A, WMA ಮತ್ತು ಇತರ ಮೆಟಾಡೇಟಾ ಸಂಪಾದಿಸಿ"
+        ],
+        [
+          "ಬ್ಯಾಚ್ ಮೋಡ್",
+          "ಹಲವು ಫೈಲ್‌ಗಳನ್ನು ಆಯ್ಕೆ ಮಾಡಿ ಒಟ್ಟಿಗೆ ಸಂಪಾದಿಸಿ"
+        ],
+        [
+          "ಆಲ್ಬಮ್ ಕವರ್",
+          "ಕಾಣೆಯಾದ ಆಲ್ಬಮ್ ಕಲಾಕೃತಿ ಹುಡುಕಿ ಸೇರಿಸಿ"
+        ],
+        [
+          "ಸುಧಾರಿತ ಹುಡುಕಾಟ",
+          "ಕಾಣೆಯಾದ ಟ್ಯಾಗ್‌ಗಳನ್ನು ಕೈಯಿಂದ ಅಥವಾ ಸ್ವಯಂ ಹುಡುಕಿ"
+        ],
+        [
+          "ಎನ್‌ಕೋಡಿಂಗ್ ತಿದ್ದುಪಡಿ",
+          "ಟ್ಯಾಗ್ ಸರಿಯಾಗಿ ತೋರಲು ಎನ್‌ಕೋಡಿಂಗ್ ಸಾಮಾನ್ಯಗೊಳಿಸಿ"
+        ],
+        [
+          "ಸ್ಥಳೀಯ ಫೈಲ್‌ಗಳು",
+          "ನಿಮ್ಮ ಸಾಧನ ಮತ್ತು ಇತರ ಆ್ಯಪ್‌ಗಳಲ್ಲಿ ಫೈಲ್ ಸಂಪಾದಿಸಿ"
+        ],
+        [
+          "ಕ್ಲೌಡ್ ಸಂಗ್ರಹ",
+          "ಸಾಧನದ ಜಾಗ ಬಳಸದೆ ಕ್ಲೌಡ್‌ನಲ್ಲಿ ಟ್ಯಾಗ್ ಸಂಪಾದಿಸಿ"
+        ],
+        [
+          "ಕಂಪ್ಯೂಟರ್ ಮತ್ತು USB",
+          "ಫೈಲ್ ಸಂಪಾದಿಸಲು ಕಂಪ್ಯೂಟರ್ ಅಥವಾ USB ಡ್ರೈವ್ ಸಂಪರ್ಕಿಸಿ"
+        ]
+      ],
+      "a11yTitle": "ಆ್ಯಪ್ ಬ್ಯಾನರ್",
+      "a11yClose": "ಆ್ಯಪ್ ಬ್ಯಾನರ್ ಮುಚ್ಚಿ",
+      "a11yIcon": "ಆ್ಯಪ್ ಐಕಾನ್",
+      "a11yShot": "ಆ್ಯಪ್ ಸ್ಕ್ರೀನ್‌ಶಾಟ್"
+    },
+    "ko": {
+      "eyebrow": "<span class=\"hl\">무료</span> 앱을 다운로드하세요",
+      "appTitle": "Evertag",
+      "hook": "iPhone를 위한 전문 오디오 태그 편집기",
+      "storeSmall": "다운로드:",
+      "free": "무료",
+      "trust": "120개 이상의 오디오 태그 편집 · 모든 주요 형식",
+      "features": [
+        [
+          "오디오 태그 편집기",
+          "MP3, FLAC, OGG, M4A, WMA 등의 메타데이터 편집"
+        ],
+        [
+          "일괄 모드",
+          "여러 파일을 선택해 한 번에 편집"
+        ],
+        [
+          "앨범 커버",
+          "누락된 앨범 아트를 찾아 추가"
+        ],
+        [
+          "고급 검색",
+          "누락된 태그를 수동 또는 자동으로 검색"
+        ],
+        [
+          "인코딩 교정",
+          "인코딩을 정규화해 태그를 올바르게 표시"
+        ],
+        [
+          "로컬 파일",
+          "기기 및 다른 앱의 파일 편집"
+        ],
+        [
+          "클라우드 저장소",
+          "기기 공간 없이 클라우드에서 태그 편집"
+        ],
+        [
+          "컴퓨터와 USB",
+          "컴퓨터나 USB 드라이브를 연결해 파일 편집"
+        ]
+      ],
+      "a11yTitle": "앱 배너",
+      "a11yClose": "앱 배너 닫기",
+      "a11yIcon": "앱 아이콘",
+      "a11yShot": "앱 스크린샷"
+    },
+    "ml": {
+      "eyebrow": "ഞങ്ങളുടെ <span class=\"hl\">സൗജന്യ</span> ആപ്പ് ഡൗൺലോഡ് ചെയ്യൂ",
+      "appTitle": "Evertag",
+      "hook": "നിങ്ങളുടെ iPhone-നായി പ്രൊഫഷണൽ ഓഡിയോ ടാഗ് എഡിറ്റർ",
+      "storeSmall": "ഡൗൺലോഡ് ചെയ്യൂ",
+      "free": "സൗജന്യം",
+      "trust": "120+ ഓഡിയോ ടാഗുകൾ എഡിറ്റ് ചെയ്യൂ · എല്ലാ പ്രധാന ഫോർമാറ്റുകളും",
+      "features": [
+        [
+          "ഓഡിയോ ടാഗ് എഡിറ്റർ",
+          "MP3, FLAC, OGG, M4A, WMA എന്നിവയുടെ മെറ്റാഡാറ്റ എഡിറ്റ് ചെയ്യുക"
+        ],
+        [
+          "ബാച്ച് മോഡ്",
+          "ഒന്നിലധികം ഫയലുകൾ തിരഞ്ഞെടുത്ത് ഒരുമിച്ച് എഡിറ്റ് ചെയ്യുക"
+        ],
+        [
+          "ആൽബം കവർ",
+          "കാണാതായ ആൽബം ആർട്ട്‌വർക്ക് കണ്ടെത്തി ചേർക്കുക"
+        ],
+        [
+          "വിപുല തിരയൽ",
+          "കാണാതായ ടാഗുകൾ സ്വമേധയാ അല്ലെങ്കിൽ സ്വയമേവ കണ്ടെത്തുക"
+        ],
+        [
+          "എൻകോഡിംഗ് തിരുത്തൽ",
+          "ടാഗുകൾ ശരിയായി കാണാൻ എൻകോഡിംഗ് സാധാരണമാക്കുക"
+        ],
+        [
+          "ലോക്കൽ ഫയലുകൾ",
+          "നിങ്ങളുടെ ഉപകരണത്തിലും മറ്റ് ആപ്പുകളിലും ഫയലുകൾ എഡിറ്റ് ചെയ്യുക"
+        ],
+        [
+          "ക്ലൗഡ് സ്റ്റോറേജ്",
+          "ഉപകരണ ഇടം ഉപയോഗിക്കാതെ ക്ലൗഡിൽ ടാഗുകൾ എഡിറ്റ് ചെയ്യുക"
+        ],
+        [
+          "കമ്പ്യൂട്ടറും USB-യും",
+          "ഫയലുകൾ എഡിറ്റ് ചെയ്യാൻ കമ്പ്യൂട്ടറോ USB ഡ്രൈവോ കണക്റ്റ് ചെയ്യുക"
+        ]
+      ],
+      "a11yTitle": "ആപ്പ് ബാനർ",
+      "a11yClose": "ആപ്പ് ബാനർ അടയ്ക്കുക",
+      "a11yIcon": "ആപ്പ് ഐക്കൺ",
+      "a11yShot": "ആപ്പ് സ്ക്രീൻഷോട്ട്"
+    },
+    "mr": {
+      "eyebrow": "आमचे <span class=\"hl\">मोफत</span> अ‍ॅप डाउनलोड करा",
+      "appTitle": "Evertag",
+      "hook": "तुमच्या iPhone साठी व्यावसायिक ऑडिओ टॅग संपादक",
+      "storeSmall": "डाउनलोड करा",
+      "free": "मोफत",
+      "trust": "120+ ऑडिओ टॅग संपादित करा · सर्व प्रमुख फॉरमॅट",
+      "features": [
+        [
+          "ऑडिओ टॅग संपादक",
+          "MP3, FLAC, OGG, M4A, WMA आणि इतर मेटाडेटा संपादित करा"
+        ],
+        [
+          "बॅच मोड",
+          "अनेक फाइल्स निवडा आणि सर्व एकाच वेळी संपादित करा"
+        ],
+        [
+          "अल्बम कव्हर",
+          "गहाळ अल्बम आर्टवर्क शोधा आणि जोडा"
+        ],
+        [
+          "प्रगत शोध",
+          "गहाळ टॅग स्वहस्ते किंवा स्वयंचलितपणे शोधा"
+        ],
+        [
+          "एन्कोडिंग दुरुस्ती",
+          "टॅग योग्यरित्या दिसण्यासाठी एन्कोडिंग सामान्य करा"
+        ],
+        [
+          "स्थानिक फाइल्स",
+          "तुमच्या डिव्हाइस आणि इतर अ‍ॅप्समध्ये फाइल्स संपादित करा"
+        ],
+        [
+          "क्लाउड स्टोरेज",
+          "डिव्हाइस जागा न वापरता क्लाउडमध्ये टॅग संपादित करा"
+        ],
+        [
+          "संगणक आणि USB",
+          "फाइल्स संपादित करण्यासाठी संगणक किंवा USB ड्राइव्ह जोडा"
+        ]
+      ],
+      "a11yTitle": "अ‍ॅप बॅनर",
+      "a11yClose": "अ‍ॅप बॅनर बंद करा",
+      "a11yIcon": "अ‍ॅप आयकॉन",
+      "a11yShot": "अ‍ॅप स्क्रीनशॉट"
+    },
+    "ms": {
+      "eyebrow": "Muat turun apl <span class=\"hl\">percuma</span> kami",
+      "appTitle": "Evertag",
+      "hook": "Editor tag audio profesional untuk iPhone anda",
+      "storeSmall": "Muat turun di",
+      "free": "Percuma",
+      "trust": "Edit 120+ tag audio · semua format utama",
+      "features": [
+        [
+          "Editor tag audio",
+          "Edit metadata MP3, FLAC, OGG, M4A, WMA dan lain-lain"
+        ],
+        [
+          "Mod kelompok",
+          "Pilih beberapa fail dan edit semuanya sekali gus"
+        ],
+        [
+          "Kulit album",
+          "Cari dan tambah kulit album yang hilang"
+        ],
+        [
+          "Carian lanjutan",
+          "Cari tag yang hilang secara manual atau automatik"
+        ],
+        [
+          "Pembetulan pengekodan",
+          "Normalkan pengekodan agar tag dipapar dengan betul"
+        ],
+        [
+          "Fail tempatan",
+          "Edit fail pada peranti dan dalam aplikasi lain"
+        ],
+        [
+          "Storan awan",
+          "Edit tag di awan tanpa guna ruang peranti"
+        ],
+        [
+          "Komputer dan USB",
+          "Sambungkan komputer atau pemacu USB untuk mengedit"
+        ]
+      ],
+      "a11yTitle": "Sepanduk apl",
+      "a11yClose": "Tutup sepanduk apl",
+      "a11yIcon": "Ikon apl",
+      "a11yShot": "Tangkapan skrin apl"
+    },
+    "nb": {
+      "eyebrow": "Last ned vår <span class=\"hl\">gratis</span> app",
+      "appTitle": "Evertag",
+      "hook": "Profesjonell lyd-tag-editor for din iPhone",
+      "storeSmall": "Last ned på",
+      "free": "Gratis",
+      "trust": "Rediger 120+ lydtagger · alle store formater",
+      "features": [
+        [
+          "Lyd-tag-editor",
+          "Rediger metadata for MP3, FLAC, OGG, M4A, WMA og mer"
+        ],
+        [
+          "Batch-modus",
+          "Velg flere filer og rediger dem alle på én gang"
+        ],
+        [
+          "Albumomslag",
+          "Finn og legg til manglende albumomslag"
+        ],
+        [
+          "Avansert søk",
+          "Finn manglende tagger manuelt eller automatisk"
+        ],
+        [
+          "Kodingsretting",
+          "Normaliser koding så taggene vises riktig"
+        ],
+        [
+          "Lokale filer",
+          "Rediger filer på enheten og i andre apper"
+        ],
+        [
+          "Skylagring",
+          "Rediger tagger i skyen uten ekstra plass på enheten"
+        ],
+        [
+          "Datamaskin og USB",
+          "Koble til en datamaskin eller USB-stasjon for å redigere"
+        ]
+      ],
+      "a11yTitle": "App-banner",
+      "a11yClose": "Lukk app-banner",
+      "a11yIcon": "App-ikon",
+      "a11yShot": "App-skjermbilde"
+    },
+    "nl": {
+      "eyebrow": "Download onze <span class=\"hl\">gratis</span> app",
+      "appTitle": "Evertag",
+      "hook": "Professionele audiotag-editor voor je iPhone",
+      "storeSmall": "Downloaden in de",
+      "free": "Gratis",
+      "trust": "Bewerk 120+ audiotags · alle grote formaten",
+      "features": [
+        [
+          "Audiotag-editor",
+          "Bewerk metadata voor MP3, FLAC, OGG, M4A, WMA en meer"
+        ],
+        [
+          "Batchmodus",
+          "Selecteer meerdere bestanden en bewerk ze in één keer"
+        ],
+        [
+          "Albumhoezen",
+          "Vind en voeg ontbrekende albumhoezen toe"
+        ],
+        [
+          "Geavanceerd zoeken",
+          "Vind ontbrekende tags handmatig of automatisch"
+        ],
+        [
+          "Coderingscorrectie",
+          "Normaliseer codering zodat tags correct worden getoond"
+        ],
+        [
+          "Lokale bestanden",
+          "Bewerk bestanden op je apparaat en in andere apps"
+        ],
+        [
+          "Cloudopslag",
+          "Bewerk tags in de cloud zonder apparaatruimte"
+        ],
+        [
+          "Computer en USB",
+          "Sluit een computer of USB-station aan om te bewerken"
+        ]
+      ],
+      "a11yTitle": "App-banner",
+      "a11yClose": "App-banner sluiten",
+      "a11yIcon": "App-pictogram",
+      "a11yShot": "App-schermafbeelding"
+    },
+    "or": {
+      "eyebrow": "ଆମର <span class=\"hl\">ମାଗଣା</span> ଆପ୍ ଡାଉନଲୋଡ୍ କରନ୍ତୁ",
+      "appTitle": "Evertag",
+      "hook": "ଆପଣଙ୍କ iPhone ପାଇଁ ପେସାଦାର ଅଡିଓ ଟ୍ୟାଗ୍ ଏଡିଟର",
+      "storeSmall": "ଡାଉନଲୋଡ୍ କରନ୍ତୁ",
+      "free": "ମାଗଣା",
+      "trust": "120+ ଅଡିଓ ଟ୍ୟାଗ୍ ସମ୍ପାଦନା · ସମସ୍ତ ମୁଖ୍ୟ ଫର୍ମାଟ୍",
+      "features": [
+        [
+          "ଅଡିଓ ଟ୍ୟାଗ୍ ଏଡିଟର",
+          "MP3, FLAC, OGG, M4A, WMA ଓ ଅଧିକର ମେଟାଡାଟା ସମ୍ପାଦନା କରନ୍ତୁ"
+        ],
+        [
+          "ବ୍ୟାଚ୍ ମୋଡ୍",
+          "ଏକାଧିକ ଫାଇଲ୍ ଚୟନ କରି ସବୁକୁ ଏକାଥରେ ସମ୍ପାଦନା କରନ୍ତୁ"
+        ],
+        [
+          "ଆଲବମ୍ କଭର",
+          "ହଜିଯାଇଥିବା ଆଲବମ୍ ଆର୍ଟୱର୍କ ଖୋଜି ଯୋଡନ୍ତୁ"
+        ],
+        [
+          "ଉନ୍ନତ ସନ୍ଧାନ",
+          "ହଜିଯାଇଥିବା ଟ୍ୟାଗ୍ ମାନୁଆଲ୍ କିମ୍ବା ସ୍ୱୟଂଚାଳିତ ଭାବେ ଖୋଜନ୍ତୁ"
+        ],
+        [
+          "ଏନକୋଡିଂ ସଂଶୋଧନ",
+          "ଟ୍ୟାଗ୍ ଠିକ୍ ଦେଖାଇବା ପାଇଁ ଏନକୋଡିଂ ସାଧାରଣ କରନ୍ତୁ"
+        ],
+        [
+          "ସ୍ଥାନୀୟ ଫାଇଲ୍",
+          "ଆପଣଙ୍କ ଡିଭାଇସ୍ ଓ ଅନ୍ୟ ଆପରେ ଫାଇଲ୍ ସମ୍ପାଦନା କରନ୍ତୁ"
+        ],
+        [
+          "କ୍ଲାଉଡ୍ ଷ୍ଟୋରେଜ୍",
+          "ଡିଭାଇସ୍ ସ୍ଥାନ ବିନା କ୍ଲାଉଡ୍‌ରେ ଟ୍ୟାଗ୍ ସମ୍ପାଦନା କରନ୍ତୁ"
+        ],
+        [
+          "କମ୍ପ୍ୟୁଟର ଓ USB",
+          "ଫାଇଲ୍ ସମ୍ପାଦନା ପାଇଁ କମ୍ପ୍ୟୁଟର କିମ୍ବା USB ଡ୍ରାଇଭ୍ ଯୋଡନ୍ତୁ"
+        ]
+      ],
+      "a11yTitle": "ଆପ୍ ବ୍ୟାନର୍",
+      "a11yClose": "ଆପ୍ ବ୍ୟାନର୍ ବନ୍ଦ କରନ୍ତୁ",
+      "a11yIcon": "ଆପ୍ ଆଇକନ୍",
+      "a11yShot": "ଆପ୍ ସ୍କ୍ରିନ୍‌ସଟ୍"
+    },
+    "pa": {
+      "eyebrow": "ਸਾਡੀ <span class=\"hl\">ਮੁਫ਼ਤ</span> ਐਪ ਡਾਊਨਲੋਡ ਕਰੋ",
+      "appTitle": "Evertag",
+      "hook": "ਤੁਹਾਡੇ iPhone ਲਈ ਪੇਸ਼ੇਵਰ ਆਡੀਓ ਟੈਗ ਐਡੀਟਰ",
+      "storeSmall": "ਡਾਊਨਲੋਡ ਕਰੋ",
+      "free": "ਮੁਫ਼ਤ",
+      "trust": "120+ ਆਡੀਓ ਟੈਗ ਸੰਪਾਦਿਤ ਕਰੋ · ਸਾਰੇ ਮੁੱਖ ਫਾਰਮੈਟ",
+      "features": [
+        [
+          "ਆਡੀਓ ਟੈਗ ਐਡੀਟਰ",
+          "MP3, FLAC, OGG, M4A, WMA ਅਤੇ ਹੋਰ ਦਾ ਮੈਟਾਡੇਟਾ ਸੋਧੋ"
+        ],
+        [
+          "ਬੈਚ ਮੋਡ",
+          "ਕਈ ਫਾਈਲਾਂ ਚੁਣੋ ਅਤੇ ਸਾਰੀਆਂ ਨੂੰ ਇਕੱਠੇ ਸੋਧੋ"
+        ],
+        [
+          "ਐਲਬਮ ਕਵਰ",
+          "ਗੁੰਮ ਐਲਬਮ ਆਰਟਵਰਕ ਲੱਭੋ ਅਤੇ ਸ਼ਾਮਲ ਕਰੋ"
+        ],
+        [
+          "ਉੱਨਤ ਖੋਜ",
+          "ਗੁੰਮ ਟੈਗ ਹੱਥੀਂ ਜਾਂ ਆਪਣੇ-ਆਪ ਲੱਭੋ"
+        ],
+        [
+          "ਏਨਕੋਡਿੰਗ ਸੁਧਾਰ",
+          "ਟੈਗ ਸਹੀ ਦਿਖਣ ਲਈ ਏਨਕੋਡਿੰਗ ਸਧਾਰਨ ਕਰੋ"
+        ],
+        [
+          "ਸਥਾਨਕ ਫਾਈਲਾਂ",
+          "ਆਪਣੇ ਡਿਵਾਈਸ ਅਤੇ ਹੋਰ ਐਪਾਂ ਵਿੱਚ ਫਾਈਲਾਂ ਸੋਧੋ"
+        ],
+        [
+          "ਕਲਾਉਡ ਸਟੋਰੇਜ",
+          "ਡਿਵਾਈਸ ਥਾਂ ਵਰਤੇ ਬਿਨਾਂ ਕਲਾਉਡ ਵਿੱਚ ਟੈਗ ਸੋਧੋ"
+        ],
+        [
+          "ਕੰਪਿਊਟਰ ਅਤੇ USB",
+          "ਫਾਈਲਾਂ ਸੋਧਣ ਲਈ ਕੰਪਿਊਟਰ ਜਾਂ USB ਡਰਾਈਵ ਜੋੜੋ"
+        ]
+      ],
+      "a11yTitle": "ਐਪ ਬੈਨਰ",
+      "a11yClose": "ਐਪ ਬੈਨਰ ਬੰਦ ਕਰੋ",
+      "a11yIcon": "ਐਪ ਆਈਕਨ",
+      "a11yShot": "ਐਪ ਸਕ੍ਰੀਨਸ਼ਾਟ"
+    },
+    "pl": {
+      "eyebrow": "Pobierz naszą <span class=\"hl\">darmową</span> aplikację",
+      "appTitle": "Evertag",
+      "hook": "Profesjonalny edytor tagów audio na iPhone'a",
+      "storeSmall": "Pobierz z",
+      "free": "Za darmo",
+      "trust": "Edytuj ponad 120 tagów audio · wszystkie główne formaty",
+      "features": [
+        [
+          "Edytor tagów audio",
+          "Edytuj metadane plików MP3, FLAC, OGG, M4A, WMA i innych"
+        ],
+        [
+          "Tryb wsadowy",
+          "Zaznacz wiele plików i edytuj je naraz"
+        ],
+        [
+          "Okładki albumów",
+          "Znajdź i dodaj brakujące okładki albumów"
+        ],
+        [
+          "Wyszukiwanie zaawansowane",
+          "Znajdź brakujące tagi ręcznie lub automatycznie"
+        ],
+        [
+          "Korekta kodowania",
+          "Ujednolić kodowanie, aby tagi wyświetlały się poprawnie"
+        ],
+        [
+          "Pliki lokalne",
+          "Edytuj pliki na urządzeniu i w innych aplikacjach"
+        ],
+        [
+          "Chmura",
+          "Edytuj tagi w chmurze bez zajmowania miejsca w urządzeniu"
+        ],
+        [
+          "Komputer i USB",
+          "Podłącz komputer lub dysk USB, aby edytować pliki"
+        ]
+      ],
+      "a11yTitle": "Baner aplikacji",
+      "a11yClose": "Zamknij baner aplikacji",
+      "a11yIcon": "Ikona aplikacji",
+      "a11yShot": "Zrzut ekranu aplikacji"
+    },
+    "pt": {
+      "eyebrow": "Baixe nosso app <span class=\"hl\">grátis</span>",
+      "appTitle": "Evertag",
+      "hook": "Editor profissional de tags de áudio para o seu iPhone",
+      "storeSmall": "Baixe na",
+      "free": "Grátis",
+      "trust": "Edite mais de 120 tags de áudio · todos os principais formatos",
+      "features": [
+        [
+          "Editor de tags",
+          "Edite metadados de MP3, FLAC, OGG, M4A, WMA e mais"
+        ],
+        [
+          "Modo em lote",
+          "Selecione vários arquivos e edite todos de uma vez"
+        ],
+        [
+          "Capas de álbum",
+          "Encontre e adicione capas de álbum ausentes"
+        ],
+        [
+          "Busca avançada",
+          "Encontre tags ausentes manual ou automaticamente"
+        ],
+        [
+          "Correção de codificação",
+          "Normalize a codificação para exibir as tags corretamente"
+        ],
+        [
+          "Arquivos locais",
+          "Edite arquivos no dispositivo e em outros apps"
+        ],
+        [
+          "Armazenamento na nuvem",
+          "Edite tags na nuvem sem ocupar espaço no dispositivo"
+        ],
+        [
+          "Computador e USB",
+          "Conecte um computador ou pen drive USB para editar"
+        ]
+      ],
+      "a11yTitle": "Banner do app",
+      "a11yClose": "Fechar banner do app",
+      "a11yIcon": "Ícone do app",
+      "a11yShot": "Captura de tela do app"
+    },
+    "ro": {
+      "eyebrow": "Descarcă aplicația noastră <span class=\"hl\">gratuită</span>",
+      "appTitle": "Evertag",
+      "hook": "Editor profesional de etichete audio pentru iPhone",
+      "storeSmall": "Descarcă din",
+      "free": "Gratuit",
+      "trust": "Editează 120+ etichete audio · toate formatele majore",
+      "features": [
+        [
+          "Editor de etichete",
+          "Editează metadate pentru MP3, FLAC, OGG, M4A, WMA și altele"
+        ],
+        [
+          "Mod lot",
+          "Selectează mai multe fișiere și editează-le simultan"
+        ],
+        [
+          "Coperți de album",
+          "Găsește și adaugă coperțile de album lipsă"
+        ],
+        [
+          "Căutare avansată",
+          "Găsește etichetele lipsă manual sau automat"
+        ],
+        [
+          "Corectare codificare",
+          "Normalizează codificarea pentru afișarea corectă a etichetelor"
+        ],
+        [
+          "Fișiere locale",
+          "Editează fișiere pe dispozitiv și în alte aplicații"
+        ],
+        [
+          "Stocare în cloud",
+          "Editează etichete în cloud fără spațiu pe dispozitiv"
+        ],
+        [
+          "Computer și USB",
+          "Conectează un computer sau o unitate USB pentru editare"
+        ]
+      ],
+      "a11yTitle": "Banner aplicație",
+      "a11yClose": "Închide bannerul aplicației",
+      "a11yIcon": "Pictogramă aplicație",
+      "a11yShot": "Captură de ecran aplicație"
+    },
+    "ru": {
+      "eyebrow": "Скачайте наше <span class=\"hl\">бесплатное</span> приложение",
+      "appTitle": "Evertag",
+      "hook": "Профессиональный редактор аудиотегов для вашего iPhone",
+      "storeSmall": "Загрузите в",
+      "free": "Бесплатно",
+      "trust": "Редактируйте 120+ аудиотегов · все основные форматы",
+      "features": [
+        [
+          "Редактор аудиотегов",
+          "Редактируйте метаданные MP3, FLAC, OGG, M4A, WMA и других"
+        ],
+        [
+          "Пакетный режим",
+          "Выберите несколько файлов и отредактируйте их сразу"
+        ],
+        [
+          "Обложки альбомов",
+          "Найдите и добавьте недостающие обложки альбомов"
+        ],
+        [
+          "Расширенный поиск",
+          "Найдите недостающие теги вручную или автоматически"
+        ],
+        [
+          "Исправление кодировки",
+          "Приведите кодировку в порядок для верного показа тегов"
+        ],
+        [
+          "Локальные файлы",
+          "Редактируйте файлы на устройстве и в других приложениях"
+        ],
+        [
+          "Облачное хранилище",
+          "Редактируйте теги в облаке без места на устройстве"
+        ],
+        [
+          "Компьютер и USB",
+          "Подключите компьютер или USB-накопитель для правки файлов"
+        ]
+      ],
+      "a11yTitle": "Баннер приложения",
+      "a11yClose": "Закрыть баннер приложения",
+      "a11yIcon": "Значок приложения",
+      "a11yShot": "Скриншот приложения"
+    },
+    "sk": {
+      "eyebrow": "Stiahnite si našu <span class=\"hl\">bezplatnú</span> aplikáciu",
+      "appTitle": "Evertag",
+      "hook": "Profesionálny editor zvukových značiek pre váš iPhone",
+      "storeSmall": "Stiahnuť z",
+      "free": "Zadarmo",
+      "trust": "Upravte 120+ zvukových značiek · všetky hlavné formáty",
+      "features": [
+        [
+          "Editor značiek",
+          "Upravte metadáta pre MP3, FLAC, OGG, M4A, WMA a ďalšie"
+        ],
+        [
+          "Dávkový režim",
+          "Vyberte viac súborov a upravte ich naraz"
+        ],
+        [
+          "Obaly albumov",
+          "Nájdite a doplňte chýbajúce obaly albumov"
+        ],
+        [
+          "Rozšírené hľadanie",
+          "Nájdite chýbajúce značky ručne alebo automaticky"
+        ],
+        [
+          "Oprava kódovania",
+          "Zjednoťte kódovanie, aby sa značky zobrazovali správne"
+        ],
+        [
+          "Miestne súbory",
+          "Upravujte súbory v zariadení aj v iných aplikáciách"
+        ],
+        [
+          "Cloudové úložisko",
+          "Upravujte značky v cloude bez miesta v zariadení"
+        ],
+        [
+          "Počítač a USB",
+          "Pripojte počítač alebo USB disk a upravujte súbory"
+        ]
+      ],
+      "a11yTitle": "Banner aplikácie",
+      "a11yClose": "Zavrieť banner aplikácie",
+      "a11yIcon": "Ikona aplikácie",
+      "a11yShot": "Snímka aplikácie"
+    },
+    "sl": {
+      "eyebrow": "Prenesite našo <span class=\"hl\">brezplačno</span> aplikacijo",
+      "appTitle": "Evertag",
+      "hook": "Profesionalni urejevalnik zvočnih oznak za vaš iPhone",
+      "storeSmall": "Prenesite v",
+      "free": "Brezplačno",
+      "trust": "Urejajte 120+ zvočnih oznak · vsi glavni formati",
+      "features": [
+        [
+          "Urejevalnik oznak",
+          "Urejajte metapodatke za MP3, FLAC, OGG, M4A, WMA in več"
+        ],
+        [
+          "Paketni način",
+          "Izberite več datotek in jih uredite hkrati"
+        ],
+        [
+          "Ovitki albumov",
+          "Poiščite in dodajte manjkajoče ovitke albumov"
+        ],
+        [
+          "Napredno iskanje",
+          "Poiščite manjkajoče oznake ročno ali samodejno"
+        ],
+        [
+          "Popravek kodiranja",
+          "Poenotite kodiranje, da se oznake pravilno prikažejo"
+        ],
+        [
+          "Lokalne datoteke",
+          "Urejajte datoteke v napravi in v drugih aplikacijah"
+        ],
+        [
+          "Shramba v oblaku",
+          "Urejajte oznake v oblaku brez prostora v napravi"
+        ],
+        [
+          "Računalnik in USB",
+          "Priključite računalnik ali USB-ključek za urejanje"
+        ]
+      ],
+      "a11yTitle": "Pasica aplikacije",
+      "a11yClose": "Zapri pasico aplikacije",
+      "a11yIcon": "Ikona aplikacije",
+      "a11yShot": "Posnetek zaslona aplikacije"
+    },
+    "sv": {
+      "eyebrow": "Ladda ner vår <span class=\"hl\">gratis</span> app",
+      "appTitle": "Evertag",
+      "hook": "Professionell ljudtagg-redigerare för din iPhone",
+      "storeSmall": "Ladda ner på",
+      "free": "Gratis",
+      "trust": "Redigera 120+ ljudtaggar · alla stora format",
+      "features": [
+        [
+          "Ljudtagg-redigerare",
+          "Redigera metadata för MP3, FLAC, OGG, M4A, WMA med mera"
+        ],
+        [
+          "Batchläge",
+          "Välj flera filer och redigera dem på en gång"
+        ],
+        [
+          "Albumomslag",
+          "Hitta och lägg till saknade albumomslag"
+        ],
+        [
+          "Avancerad sökning",
+          "Hitta saknade taggar manuellt eller automatiskt"
+        ],
+        [
+          "Kodningskorrigering",
+          "Normalisera kodningen så att taggar visas korrekt"
+        ],
+        [
+          "Lokala filer",
+          "Redigera filer på enheten och i andra appar"
+        ],
+        [
+          "Molnlagring",
+          "Redigera taggar i molnet utan extra utrymme på enheten"
+        ],
+        [
+          "Dator och USB",
+          "Anslut en dator eller USB-enhet för att redigera filer"
+        ]
+      ],
+      "a11yTitle": "Appbanner",
+      "a11yClose": "Stäng appbanner",
+      "a11yIcon": "Appikon",
+      "a11yShot": "App-skärmbild"
+    },
+    "ta": {
+      "eyebrow": "எங்கள் <span class=\"hl\">இலவச</span> ஆப்பைப் பதிவிறக்குங்கள்",
+      "appTitle": "Evertag",
+      "hook": "உங்கள் iPhone-க்கான தொழில்முறை ஆடியோ டேக் திருத்தி",
+      "storeSmall": "பதிவிறக்குங்கள்",
+      "free": "இலவசம்",
+      "trust": "120+ ஆடியோ டேக்குகளைத் திருத்துங்கள் · அனைத்து முக்கிய வடிவங்களும்",
+      "features": [
+        [
+          "ஆடியோ டேக் திருத்தி",
+          "MP3, FLAC, OGG, M4A, WMA மற்றும் பிற மெட்டாடேட்டாவைத் திருத்துங்கள்"
+        ],
+        [
+          "தொகுப்பு முறை",
+          "பல கோப்புகளைத் தேர்ந்தெடுத்து ஒரே நேரத்தில் திருத்துங்கள்"
+        ],
+        [
+          "ஆல்பம் அட்டைகள்",
+          "விடுபட்ட ஆல்பம் படங்களைக் கண்டறிந்து சேர்க்கவும்"
+        ],
+        [
+          "மேம்பட்ட தேடல்",
+          "விடுபட்ட டேக்குகளை கைமுறையாக அல்லது தானாகக் கண்டறியவும்"
+        ],
+        [
+          "குறியாக்கத் திருத்தம்",
+          "டேக்குகள் சரியாகத் தோன்ற குறியாக்கத்தை சீராக்கவும்"
+        ],
+        [
+          "உள்ளூர் கோப்புகள்",
+          "உங்கள் சாதனத்திலும் பிற ஆப்களிலும் கோப்புகளைத் திருத்துங்கள்"
+        ],
+        [
+          "கிளவுட் சேமிப்பு",
+          "சாதன இடம் இல்லாமல் கிளவுடில் டேக்குகளைத் திருத்துங்கள்"
+        ],
+        [
+          "கணினி மற்றும் USB",
+          "கோப்புகளைத் திருத்த கணினி அல்லது USB டிரைவை இணைக்கவும்"
+        ]
+      ],
+      "a11yTitle": "ஆப் பேனர்",
+      "a11yClose": "ஆப் பேனரை மூடு",
+      "a11yIcon": "ஆப் ஐகான்",
+      "a11yShot": "ஆப் ஸ்கிரீன்ஷாட்"
+    },
+    "te": {
+      "eyebrow": "మా <span class=\"hl\">ఉచిత</span> యాప్‌ను డౌన్‌లోడ్ చేయండి",
+      "appTitle": "Evertag",
+      "hook": "మీ iPhone కోసం ప్రొఫెషనల్ ఆడియో ట్యాగ్ ఎడిటర్",
+      "storeSmall": "డౌన్‌లోడ్ చేయండి",
+      "free": "ఉచితం",
+      "trust": "120+ ఆడియో ట్యాగ్‌లను ఎడిట్ చేయండి · అన్ని ప్రధాన ఫార్మాట్‌లు",
+      "features": [
+        [
+          "ఆడియో ట్యాగ్ ఎడిటర్",
+          "MP3, FLAC, OGG, M4A, WMA మరియు ఇతర మెటాడేటాను సవరించండి"
+        ],
+        [
+          "బ్యాచ్ మోడ్",
+          "అనేక ఫైళ్లను ఎంచుకుని అన్నింటినీ ఒకేసారి సవరించండి"
+        ],
+        [
+          "ఆల్బమ్ కవర్లు",
+          "లేని ఆల్బమ్ ఆర్ట్‌వర్క్‌ను కనుగొని జోడించండి"
+        ],
+        [
+          "అధునాతన శోధన",
+          "లేని ట్యాగ్‌లను మాన్యువల్‌గా లేదా ఆటోమేటిక్‌గా కనుగొనండి"
+        ],
+        [
+          "ఎన్‌కోడింగ్ సవరణ",
+          "ట్యాగ్‌లు సరిగా కనిపించేలా ఎన్‌కోడింగ్‌ను సాధారణీకరించండి"
+        ],
+        [
+          "స్థానిక ఫైళ్లు",
+          "మీ పరికరంలో, ఇతర యాప్‌లలో ఫైళ్లను సవరించండి"
+        ],
+        [
+          "క్లౌడ్ నిల్వ",
+          "పరికర స్థలం లేకుండా క్లౌడ్‌లో ట్యాగ్‌లను సవరించండి"
+        ],
+        [
+          "కంప్యూటర్ మరియు USB",
+          "ఫైళ్లను సవరించడానికి కంప్యూటర్ లేదా USB డ్రైవ్‌ను కనెక్ట్ చేయండి"
+        ]
+      ],
+      "a11yTitle": "యాప్ బ్యానర్",
+      "a11yClose": "యాప్ బ్యానర్ మూసివేయండి",
+      "a11yIcon": "యాప్ ఐకాన్",
+      "a11yShot": "యాప్ స్క్రీన్‌షాట్"
+    },
+    "th": {
+      "eyebrow": "ดาวน์โหลดแอป <span class=\"hl\">ฟรี</span> ของเรา",
+      "appTitle": "Evertag",
+      "hook": "โปรแกรมแก้ไขแท็กเสียงระดับมืออาชีพสำหรับ iPhone ของคุณ",
+      "storeSmall": "ดาวน์โหลดบน",
+      "free": "ฟรี",
+      "trust": "แก้ไขแท็กเสียง 120+ รายการ · ทุกฟอร์แมตหลัก",
+      "features": [
+        [
+          "แก้ไขแท็กเสียง",
+          "แก้ไขข้อมูลเมตาของ MP3, FLAC, OGG, M4A, WMA และอื่น ๆ"
+        ],
+        [
+          "โหมดชุด",
+          "เลือกหลายไฟล์และแก้ไขทั้งหมดพร้อมกัน"
+        ],
+        [
+          "ปกอัลบั้ม",
+          "ค้นหาและเพิ่มปกอัลบั้มที่ขาดหายไป"
+        ],
+        [
+          "ค้นหาขั้นสูง",
+          "ค้นหาแท็กที่ขาดหายด้วยตนเองหรืออัตโนมัติ"
+        ],
+        [
+          "แก้ไขการเข้ารหัส",
+          "ปรับการเข้ารหัสให้แท็กแสดงผลถูกต้อง"
+        ],
+        [
+          "ไฟล์ในเครื่อง",
+          "แก้ไขไฟล์บนอุปกรณ์และในแอปอื่น"
+        ],
+        [
+          "ที่จัดเก็บบนคลาวด์",
+          "แก้ไขแท็กบนคลาวด์โดยไม่ใช้พื้นที่อุปกรณ์"
+        ],
+        [
+          "คอมพิวเตอร์และ USB",
+          "เชื่อมต่อคอมพิวเตอร์หรือไดรฟ์ USB เพื่อแก้ไขไฟล์"
+        ]
+      ],
+      "a11yTitle": "แบนเนอร์แอป",
+      "a11yClose": "ปิดแบนเนอร์แอป",
+      "a11yIcon": "ไอคอนแอป",
+      "a11yShot": "ภาพหน้าจอแอป"
+    },
+    "tr": {
+      "eyebrow": "<span class=\"hl\">Ücretsiz</span> uygulamamızı indirin",
+      "appTitle": "Evertag",
+      "hook": "iPhone'unuz için profesyonel ses etiketi düzenleyici",
+      "storeSmall": "Şuradan indirin:",
+      "free": "Ücretsiz",
+      "trust": "120+ ses etiketini düzenleyin · tüm başlıca formatlar",
+      "features": [
+        [
+          "Ses etiketi düzenleyici",
+          "MP3, FLAC, OGG, M4A, WMA ve daha fazlasının meta verilerini düzenleyin"
+        ],
+        [
+          "Toplu mod",
+          "Birden çok dosya seçin ve hepsini birlikte düzenleyin"
+        ],
+        [
+          "Albüm kapakları",
+          "Eksik albüm kapaklarını bulun ve ekleyin"
+        ],
+        [
+          "Gelişmiş arama",
+          "Eksik etiketleri elle veya otomatik bulun"
+        ],
+        [
+          "Kodlama düzeltme",
+          "Etiketlerin doğru görünmesi için kodlamayı düzeltin"
+        ],
+        [
+          "Yerel dosyalar",
+          "Dosyaları cihazınızda ve diğer uygulamalarda düzenleyin"
+        ],
+        [
+          "Bulut depolama",
+          "Cihaz alanı kullanmadan bulutta etiket düzenleyin"
+        ],
+        [
+          "Bilgisayar ve USB",
+          "Dosyaları düzenlemek için bilgisayar veya USB sürücü bağlayın"
+        ]
+      ],
+      "a11yTitle": "Uygulama afişi",
+      "a11yClose": "Uygulama afişini kapat",
+      "a11yIcon": "Uygulama simgesi",
+      "a11yShot": "Uygulama ekran görüntüsü"
+    },
+    "uk": {
+      "eyebrow": "Завантажте наш <span class=\"hl\">безкоштовний</span> застосунок",
+      "appTitle": "Evertag",
+      "hook": "Професійний редактор аудіотегів для вашого iPhone",
+      "storeSmall": "Завантажте в",
+      "free": "Безкоштовно",
+      "trust": "Редагуйте 120+ аудіотегів · усі основні формати",
+      "features": [
+        [
+          "Редактор аудіотегів",
+          "Редагуйте метадані MP3, FLAC, OGG, M4A, WMA та інших"
+        ],
+        [
+          "Пакетний режим",
+          "Виберіть кілька файлів і редагуйте їх одразу"
+        ],
+        [
+          "Обкладинки альбомів",
+          "Знайдіть і додайте відсутні обкладинки альбомів"
+        ],
+        [
+          "Розширений пошук",
+          "Знаходьте відсутні теги вручну або автоматично"
+        ],
+        [
+          "Виправлення кодування",
+          "Нормалізуйте кодування для правильного показу тегів"
+        ],
+        [
+          "Локальні файли",
+          "Редагуйте файли на пристрої та в інших застосунках"
+        ],
+        [
+          "Хмарне сховище",
+          "Редагуйте теги в хмарі без місця на пристрої"
+        ],
+        [
+          "Комп'ютер і USB",
+          "Підключіть комп'ютер або USB-накопичувач для редагування"
+        ]
+      ],
+      "a11yTitle": "Банер застосунку",
+      "a11yClose": "Закрити банер застосунку",
+      "a11yIcon": "Значок застосунку",
+      "a11yShot": "Знімок екрана застосунку"
+    },
+    "ur": {
+      "dir": "rtl",
+      "eyebrow": "ہماری <span class=\"hl\">مفت</span> ایپ ڈاؤن لوڈ کریں",
+      "appTitle": "Evertag",
+      "hook": "آپ کے iPhone کے لیے پیشہ ورانہ آڈیو ٹیگ ایڈیٹر",
+      "storeSmall": "ڈاؤن لوڈ کریں",
+      "free": "مفت",
+      "trust": "120+ آڈیو ٹیگز میں ترمیم کریں · تمام بڑے فارمیٹس",
+      "features": [
+        [
+          "آڈیو ٹیگ ایڈیٹر",
+          "MP3، FLAC، OGG، M4A، WMA اور مزید کا میٹا ڈیٹا ترمیم کریں"
+        ],
+        [
+          "بیچ موڈ",
+          "متعدد فائلیں منتخب کریں اور سب کو ایک ساتھ ترمیم کریں"
+        ],
+        [
+          "البم کور",
+          "غائب البم آرٹ ورک تلاش کر کے شامل کریں"
+        ],
+        [
+          "اعلیٰ تلاش",
+          "غائب ٹیگ دستی یا خودکار طور پر تلاش کریں"
+        ],
+        [
+          "انکوڈنگ کی درستی",
+          "ٹیگ درست دکھانے کے لیے انکوڈنگ نارمل کریں"
+        ],
+        [
+          "مقامی فائلیں",
+          "اپنے آلے اور دیگر ایپس میں فائلیں ترمیم کریں"
+        ],
+        [
+          "کلاؤڈ اسٹوریج",
+          "آلے کی جگہ لیے بغیر کلاؤڈ میں ٹیگ ترمیم کریں"
+        ],
+        [
+          "کمپیوٹر اور USB",
+          "فائلیں ترمیم کرنے کے لیے کمپیوٹر یا USB ڈرائیو جوڑیں"
+        ]
+      ],
+      "a11yTitle": "ایپ بینر",
+      "a11yClose": "ایپ بینر بند کریں",
+      "a11yIcon": "ایپ آئیکن",
+      "a11yShot": "ایپ اسکرین شاٹ"
+    },
+    "vi": {
+      "eyebrow": "Tải ứng dụng <span class=\"hl\">miễn phí</span> của chúng tôi",
+      "appTitle": "Evertag",
+      "hook": "Trình chỉnh sửa thẻ âm thanh chuyên nghiệp cho iPhone",
+      "storeSmall": "Tải xuống trên",
+      "free": "Miễn phí",
+      "trust": "Chỉnh sửa hơn 120 thẻ âm thanh · mọi định dạng chính",
+      "features": [
+        [
+          "Trình sửa thẻ âm thanh",
+          "Chỉnh sửa metadata cho MP3, FLAC, OGG, M4A, WMA và hơn thế"
+        ],
+        [
+          "Chế độ hàng loạt",
+          "Chọn nhiều tệp và chỉnh sửa tất cả cùng lúc"
+        ],
+        [
+          "Ảnh bìa album",
+          "Tìm và thêm ảnh bìa album còn thiếu"
+        ],
+        [
+          "Tìm kiếm nâng cao",
+          "Tìm thẻ còn thiếu theo cách thủ công hoặc tự động"
+        ],
+        [
+          "Sửa mã hóa",
+          "Chuẩn hóa mã hóa để thẻ hiển thị đúng"
+        ],
+        [
+          "Tệp cục bộ",
+          "Chỉnh sửa tệp trên thiết bị và trong ứng dụng khác"
+        ],
+        [
+          "Lưu trữ đám mây",
+          "Chỉnh sửa thẻ trên đám mây, không tốn dung lượng máy"
+        ],
+        [
+          "Máy tính và USB",
+          "Kết nối máy tính hoặc ổ USB để chỉnh sửa tệp"
+        ]
+      ],
+      "a11yTitle": "Biểu ngữ ứng dụng",
+      "a11yClose": "Đóng biểu ngữ ứng dụng",
+      "a11yIcon": "Biểu tượng ứng dụng",
+      "a11yShot": "Ảnh chụp màn hình ứng dụng"
+    },
+    "zh-Hans": {
+      "eyebrow": "下载我们的<span class=\"hl\">免费</span>应用",
+      "appTitle": "Evertag",
+      "hook": "专为 iPhone 打造的专业音频标签编辑器",
+      "storeSmall": "下载于",
+      "free": "免费",
+      "trust": "编辑 120+ 音频标签 · 支持所有主流格式",
+      "features": [
+        [
+          "音频标签编辑器",
+          "编辑 MP3、FLAC、OGG、M4A、WMA 等格式的元数据"
+        ],
+        [
+          "批量模式",
+          "选择多个文件并一次性编辑"
+        ],
+        [
+          "专辑封面",
+          "查找并添加缺失的专辑封面"
+        ],
+        [
+          "高级搜索",
+          "手动或自动查找缺失的标签"
+        ],
+        [
+          "编码校正",
+          "规范编码，让标签正确显示"
+        ],
+        [
+          "本地文件",
+          "编辑设备上及其他应用中的文件"
+        ],
+        [
+          "云端存储",
+          "在云端编辑标签，不占用设备空间"
+        ],
+        [
+          "电脑与 USB",
+          "连接电脑或 USB 驱动器以编辑文件"
+        ]
+      ],
+      "a11yTitle": "应用横幅",
+      "a11yClose": "关闭应用横幅",
+      "a11yIcon": "应用图标",
+      "a11yShot": "应用截图"
+    },
+    "zh-Hant": {
+      "eyebrow": "下載我們的<span class=\"hl\">免費</span>應用程式",
+      "appTitle": "Evertag",
+      "hook": "專為 iPhone 打造的專業音訊標籤編輯器",
+      "storeSmall": "下載於",
+      "free": "免費",
+      "trust": "編輯 120+ 音訊標籤 · 支援所有主流格式",
+      "features": [
+        [
+          "音訊標籤編輯器",
+          "編輯 MP3、FLAC、OGG、M4A、WMA 等格式的中繼資料"
+        ],
+        [
+          "批次模式",
+          "選取多個檔案並一次編輯"
+        ],
+        [
+          "專輯封面",
+          "尋找並加入缺少的專輯封面"
+        ],
+        [
+          "進階搜尋",
+          "手動或自動尋找缺少的標籤"
+        ],
+        [
+          "編碼校正",
+          "正規化編碼，讓標籤正確顯示"
+        ],
+        [
+          "本機檔案",
+          "編輯裝置上及其他 App 中的檔案"
+        ],
+        [
+          "雲端儲存",
+          "在雲端編輯標籤，不佔用裝置空間"
+        ],
+        [
+          "電腦與 USB",
+          "連接電腦或 USB 隨身碟以編輯檔案"
+        ]
+      ],
+      "a11yTitle": "應用程式橫幅",
+      "a11yClose": "關閉應用程式橫幅",
+      "a11yIcon": "應用程式圖示",
+      "a11yShot": "應用程式截圖"
+    }
+  }
+}

@@ -33,6 +33,28 @@
       "priority": "normal",
       "configPath": "evermusic_pro_ios/config.json",
       "indexPath": "evermusic_pro_ios/index.html"
+    },
+    {
+      "id": 4,
+      "name": "evertag_ios",
+      "platform": "ios",
+      "scheme": "lsevertag",
+      "bundleID": "com.leshko.tagseditor",
+      "version": 1,
+      "priority": "normal",
+      "configPath": "evertag_ios/config.json",
+      "indexPath": "evertag_ios/index.html"
+    },
+    {
+      "id": 5,
+      "name": "evertag_macos",
+      "platform": "macos",
+      "scheme": "lsevertagmac",
+      "bundleID": "com.leshko.tagseditor.mac",
+      "version": 1,
+      "priority": "normal",
+      "configPath": "evertag_macos/config.json",
+      "indexPath": "evertag_macos/index.html"
     }
   ]
 }
