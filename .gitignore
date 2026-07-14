@@ -8,3 +8,6 @@ dev/site-migration-check/html/
 # Banner assets live under static/ and must ship (override the generic resources/ ignore)
 !/static/banners/**/resources/
 !/static/banners/**/resources/**
+
+# macOS Finder cruft — keep ignored even inside the force-included banner resources
+.DS_Store
