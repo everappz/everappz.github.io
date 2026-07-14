@@ -1,0 +1,678 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta
+      name="viewport"
+      content="width=device-width, initial-scale=1, viewport-fit=cover, maximum-scale=1, user-scalable=no"
+    />
+    <title>Flacbox — Hi-Res Audio Player</title>
+    <style>
+      /* ---- App brand font (DM Sans, variable) ---- */
+      @font-face {
+        font-family: "DM Sans";
+        src: url("resources/fonts/DMSans.ttf") format("truetype");
+        font-weight: 100 1000;
+        font-style: normal;
+        font-display: swap;
+      }
+
+      :root {
+        --bg: #14100a;
+        --orange: #ff9f0a;
+        --orange-soft: rgba(255, 159, 10, 0.14);
+        --fg: #ffffff;
+        --muted: #c3ccdb;
+        --hint: #8a90a0;
+        --gold: #ffc24b;
+      }
+
+      * {
+        margin: 0;
+        padding: 0;
+        box-sizing: border-box;
+        -webkit-tap-highlight-color: transparent;
+      }
+
+      html,
+      body {
+        height: 100%;
+        background: var(--bg);
+        font-family: "DM Sans", system-ui, -apple-system, sans-serif;
+        color: var(--fg);
+        overflow: hidden;
+        overflow-x: hidden;
+      }
+
+      /* Full-screen interstitial takeover */
+      .interstitial {
+        position: fixed;
+        top: 0;
+        left: 0;
+        right: 0;
+        height: 100vh; /* fallback */
+        height: 100dvh; /* fits the visible area, excluding browser toolbars */
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        background:
+          radial-gradient(
+            120% 70% at 50% 0%,
+            rgba(255, 159, 10, 0.22) 0%,
+            rgba(255, 159, 10, 0.07) 32%,
+            rgba(7, 11, 24, 0) 62%
+          ),
+          var(--bg);
+        padding:
+          calc(env(safe-area-inset-top) + 12px)
+          clamp(16px, 4.5vw, 38px)
+          calc(env(safe-area-inset-bottom) + 16px);
+        overflow: hidden;
+      }
+      @media (max-height: 620px) {
+        .interstitial { overflow-y: auto; -webkit-overflow-scrolling: touch; }
+      }
+
+
+      /* ---- Top bar: Skip (right) ---- */
+      .topbar {
+        width: 100%;
+        max-width: 760px;
+        display: flex;
+        justify-content: flex-end;
+        align-items: center;
+        z-index: 3;
+        flex: 0 0 auto;
+      }
+      .free-badge {
+        font-size: clamp(11px, 3vw, 12.5px);
+        font-weight: 700;
+        letter-spacing: 0.08em;
+        color: var(--orange);
+        background: var(--orange-soft);
+        border: 1px solid rgba(255, 159, 10, 0.35);
+        padding: 6px 12px;
+        border-radius: 999px;
+        text-transform: uppercase;
+      }
+      .skip {
+        position: absolute;
+        top: calc(env(safe-area-inset-top, 0px) + 12px);
+        right: calc(env(safe-area-inset-right, 0px) + 12px);
+        z-index: 5;
+        appearance: none;
+        border: none;
+        background: rgba(255, 255, 255, 0.08);
+        color: var(--muted);
+        font-family: inherit;
+        width: 42px;
+        height: 42px;
+        padding: 0;
+        border-radius: 999px;
+        display: inline-flex;
+        align-items: center;
+        justify-content: center;
+        cursor: pointer;
+        transition: background 0.18s ease, color 0.18s ease;
+      }
+      .skip:hover { background: rgba(255, 255, 255, 0.14); color: #fff; }
+      .skip svg { width: 18px; height: 18px; }
+      [dir="rtl"] .skip { right: auto; left: calc(env(safe-area-inset-left, 0px) + 12px); }
+
+      /* ---- Centered content column ---- */
+      .content {
+        position: relative;
+        z-index: 2;
+        width: 100%;
+        max-width: 760px;
+        flex: 1 1 auto;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        gap: clamp(10px, 2vh, 18px);
+        min-height: 0;
+        padding: clamp(6px, 1.4vh, 14px) 0;
+      }
+
+      /* Eyebrow — large, thin, elegant headline with a blue accent on "Free" */
+      .eyebrow {
+        display: inline-flex;
+        align-items: baseline;
+        gap: 10px;
+        flex: 0 0 auto;
+        z-index: 3;
+        margin: 50px 0 2px;
+        font-size: clamp(32px, 7.2vw, 46px);
+        font-weight: 600;
+        letter-spacing: 0.005em;
+        color: #eef3fb;
+        white-space: nowrap;
+      }
+      .eyebrow .hl {
+        color: var(--orange);
+        font-weight: 600;
+        text-shadow: 0 0 20px rgba(255, 159, 10, 0.45);
+      }
+      .eyebrow .spark {
+        align-self: center;
+        color: var(--orange);
+        font-size: 0.62em;
+        font-weight: 600;
+        line-height: 1;
+        text-shadow: 0 0 16px rgba(255, 159, 10, 0.8);
+        animation: sparkle 2.6s ease-in-out infinite;
+      }
+
+      /* ---- Hero: app screenshots + brand/rating/features ---- */
+      .hero {
+        width: 100%;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        gap: clamp(16px, 4.5vw, 40px);
+        margin-top: 20px;
+      }
+      .shot {
+        flex: 0 0 auto;
+        position: relative;
+      }
+      /* blue glow behind the phone */
+      .shot::before {
+        content: "";
+        position: absolute;
+        inset: -8% -16%;
+        background: radial-gradient(circle at center, rgba(255, 159, 10, 0.32), rgba(7, 11, 24, 0) 70%);
+        z-index: -1;
+        filter: blur(6px);
+      }
+      /* ---- iPhone frame holding the app screenshots ----
+         Corner radii are LENGTHS derived from width (not %), and the screen
+         radius = outer radius − bezel, so the corners nest concentrically and
+         read as a real device. */
+      .phone {
+        --ph: clamp(270px, 42vh, 440px);   /* phone height */
+        --pw: calc(var(--ph) * 0.485);      /* phone width */
+        --rad: calc(var(--pw) * 0.16);      /* outer corner radius */
+        --bez: calc(var(--pw) * 0.04);      /* bezel thickness */
+        position: relative;
+        width: var(--pw);
+        height: var(--ph);
+        border-radius: var(--rad);
+        padding: var(--bez);
+        /* titanium rim: light edge top-left fading to near-black body */
+        background: linear-gradient(150deg, #54575f 0%, #1a1b1f 20%, #050506 60%);
+        box-shadow:
+          0 26px 64px rgba(0, 0, 0, 0.62),
+          0 0 54px rgba(255, 159, 10, 0.18),
+          inset 0 0 0 1.5px rgba(255, 255, 255, 0.22);
+      }
+      .phone .screen {
+        position: relative;
+        width: 100%;
+        height: 100%;
+        border-radius: calc(var(--rad) - var(--bez));
+        overflow: hidden;
+        background: #000;
+      }
+      /* Crossfading screenshot stack */
+      .slides {
+        position: absolute;
+        inset: 0;
+      }
+      .slide {
+        position: absolute;
+        inset: 0;
+        width: 100%;
+        height: 100%;
+        object-fit: cover;
+        display: block;
+        opacity: 0;
+        transition: opacity 1.1s ease-in-out;
+        will-change: opacity;
+      }
+      .slide.active { opacity: 1; }
+      .phone .island {
+        position: absolute;
+        top: calc(var(--bez) + var(--pw) * 0.022);
+        left: 50%;
+        transform: translateX(-50%);
+        width: calc(var(--pw) * 0.3);
+        height: calc(var(--pw) * 0.072);
+        background: #000;
+        border-radius: 999px;
+        z-index: 3;
+      }
+
+      /* Centered brand header */
+      .header {
+        width: 100%;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        text-align: center;
+        gap: clamp(8px, 1.6vh, 13px);
+      }
+      .features { flex: 0 1 auto; min-width: 0; }
+      .brandrow { display: flex; align-items: center; justify-content: center; gap: 14px; }
+      .brand-text { display: flex; flex-direction: column; gap: 4px; text-align: left; min-width: 0; }
+      .app-icon {
+        flex: 0 0 auto;
+        width: clamp(62px, 16vw, 84px);
+        height: clamp(62px, 16vw, 84px);
+        border-radius: 22.5%;
+        box-shadow: 0 10px 26px rgba(0, 0, 0, 0.5), 0 0 30px rgba(255, 159, 10, 0.3);
+      }
+      .title {
+        font-size: clamp(28px, 7.2vw, 44px);
+        font-weight: 800;
+        letter-spacing: -0.035em;
+        line-height: 1.02;
+        overflow-wrap: break-word;
+      }
+      .hook {
+        font-size: clamp(13.5px, 3.7vw, 17px);
+        font-weight: 500;
+        color: var(--muted);
+        line-height: 1.25;
+        text-align: left;
+      }
+      .hook b { color: var(--orange); font-weight: 700; }
+
+      /* Star rating */
+      .rating { display: flex; flex-wrap: wrap; align-items: center; justify-content: center; gap: 4px 8px; font-size: clamp(12.5px, 3.4vw, 14px); color: var(--muted); font-weight: 500; }
+      .stars { display: inline-flex; gap: 2px; }
+      .stars svg { width: clamp(15px, 4vw, 17px); height: clamp(15px, 4vw, 17px); fill: var(--gold); }
+      .rating b { color: #fff; font-weight: 700; }
+
+      /* Feature checklist */
+      .features { display: flex; flex-direction: column; gap: clamp(7px, 1.4vh, 11px); list-style: none; margin-top: 2px; }
+      .feature { display: flex; align-items: center; gap: 11px; }
+      .feature .ic {
+        flex: 0 0 auto;
+        width: clamp(26px, 7vw, 30px);
+        height: clamp(26px, 7vw, 30px);
+        border-radius: 9px;
+        background: var(--orange-soft);
+        display: grid;
+        place-items: center;
+      }
+      .feature .ic svg { width: 62%; height: 62%; color: var(--orange); }
+      .feature .txt { min-width: 0; display: flex; flex-direction: column; }
+      .feature .lbl { font-size: clamp(14px, 3.8vw, 16px); font-weight: 600; line-height: 1.15; }
+      .feature .sub { font-size: clamp(11.5px, 3.2vw, 13px); font-weight: 400; color: var(--hint); line-height: 1.2; margin-top: 1px; }
+
+      /* ---- App Store download button (shimmering, pulsing) ---- */
+      .cta-group {
+        flex: 0 0 auto;
+        width: 100%;
+        max-width: 760px;
+        z-index: 2;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        margin-top: clamp(8px, 1.6vh, 14px);
+      }
+      .cta { width: 100%; text-decoration: none; }
+      .store-btn {
+        position: relative;
+        overflow: hidden;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        gap: 13px;
+        width: 100%;
+        background: linear-gradient(180deg, #ffffff 0%, #eef0f3 100%);
+        color: #070b18;
+        border-radius: 16px;
+        padding: clamp(9px, 1.3vh, 12px) 20px;
+        box-shadow: 0 12px 30px rgba(0, 0, 0, 0.34), inset 0 1px 0 rgba(255, 255, 255, 0.9);
+        transition: transform 0.45s cubic-bezier(0.16, 1, 0.3, 1), box-shadow 0.45s ease;
+        animation: ctaglow 3.2s ease-in-out infinite;
+        will-change: transform, box-shadow;
+      }
+      /* smooth glossy sweep (white sheen, no hard color edge) */
+      .store-btn::after {
+        content: "";
+        position: absolute;
+        top: -20%;
+        left: -80%;
+        width: 60%;
+        height: 140%;
+        /* wide, soft blue sheen — same broad shape as the Pro button, tinted blue */
+        background: linear-gradient(105deg, transparent 0%, rgba(255, 185, 80, 0.55) 50%, transparent 100%);
+        transform: skewX(-16deg);
+        animation: sheen 3.6s cubic-bezier(0.4, 0, 0.2, 1) infinite;
+        animation-delay: 1.4s;
+        pointer-events: none;
+      }
+      .cta:hover .store-btn { transform: translateY(-2px); box-shadow: 0 18px 44px rgba(0, 0, 0, 0.4), 0 0 42px rgba(255, 159, 10, 0.48), inset 0 1px 0 rgba(255, 255, 255, 0.9); }
+      .cta:active .store-btn { transform: translateY(0) scale(0.985); transition-duration: 0.12s; }
+      .store-btn .apple { width: clamp(52px, 13.5vw, 62px); height: clamp(52px, 13.5vw, 62px); fill: #070b18; flex: 0 0 auto; z-index: 1; }
+      .store-btn .lines { display: flex; flex-direction: column; line-height: 1.08; text-align: left; z-index: 1; }
+      .store-btn .small { font-size: clamp(10px, 2.7vw, 11px); font-weight: 600; opacity: 0.62; letter-spacing: 0.04em; text-transform: uppercase; }
+      .store-btn .big { font-size: clamp(18px, 4.8vw, 21px); font-weight: 800; letter-spacing: -0.015em; }
+      .store-btn .freepill {
+        margin-left: 10px;
+        font-size: clamp(11px, 3vw, 12.5px);
+        font-weight: 800;
+        color: #1a1204;
+        background: linear-gradient(180deg, #ffb340 0%, #e0850a 100%);
+        padding: 5px 13px;
+        border-radius: 999px;
+        z-index: 1;
+        letter-spacing: 0.05em;
+        text-transform: uppercase;
+        box-shadow: 0 4px 12px rgba(255, 159, 10, 0.4), inset 0 1px 0 rgba(255, 255, 255, 0.35);
+      }
+      .trust { font-size: clamp(11.5px, 3.2vw, 13px); color: var(--hint); text-align: center; margin-top: 9px; }
+
+      /* ---- Keyframes ---- */
+      @keyframes pop { 0% { opacity: 0; transform: scale(0.55) rotate(-8deg); } 70% { opacity: 1; transform: scale(1.04) rotate(1deg); } 100% { opacity: 1; transform: scale(1) rotate(0); } }
+      @keyframes rise { 0% { opacity: 0; transform: translateY(20px); } 100% { opacity: 1; transform: translateY(0); } }
+      @keyframes slideL { 0% { opacity: 0; transform: translateX(-26px) scale(0.96); } 100% { opacity: 1; transform: translateX(0) scale(1); } }
+      @keyframes sheen { 0% { left: -80%; } 42%, 100% { left: 150%; } }
+      @keyframes ctaglow {
+        0%, 100% { box-shadow: 0 12px 30px rgba(0, 0, 0, 0.34), 0 0 20px rgba(255, 159, 10, 0.16), inset 0 1px 0 rgba(255, 255, 255, 0.9); }
+        50% { box-shadow: 0 14px 38px rgba(0, 0, 0, 0.4), 0 0 38px rgba(255, 159, 10, 0.42), inset 0 1px 0 rgba(255, 255, 255, 0.9); }
+      }
+
+      /* Close button reveals last, after every other element has animated in */
+      .skip { animation: rise 0.5s ease both 2.2s; }
+      .eyebrow { animation: rise 0.5s ease both 0.25s; }
+      @keyframes sparkle {
+        0%, 100% { transform: scale(1) rotate(0); opacity: 0.85; }
+        50% { transform: scale(1.25) rotate(18deg); opacity: 1; }
+      }
+      .shot { animation: slideL 0.7s cubic-bezier(0.16, 1, 0.3, 1) both 0.35s; }
+      .brandrow { animation: rise 0.55s cubic-bezier(0.16, 1, 0.3, 1) both 0.5s; }
+      .app-icon { animation: pop 0.7s cubic-bezier(0.34, 1.56, 0.64, 1) both 0.5s; }
+      .hook { animation: rise 0.5s ease both 0.62s; }
+      .rating { animation: rise 0.5s ease both 0.72s; }
+      .feature { animation: rise 0.5s cubic-bezier(0.16, 1, 0.3, 1) both; }
+      .feature:nth-child(1) { animation-delay: 0.82s; }
+      .feature:nth-child(2) { animation-delay: 0.89s; }
+      .feature:nth-child(3) { animation-delay: 0.96s; }
+      .feature:nth-child(4) { animation-delay: 1.03s; }
+      .feature:nth-child(5) { animation-delay: 1.10s; }
+      .feature:nth-child(6) { animation-delay: 1.17s; }
+      .feature:nth-child(7) { animation-delay: 1.24s; }
+      .feature:nth-child(8) { animation-delay: 1.31s; }
+      .cta { animation: rise 0.55s cubic-bezier(0.16, 1, 0.3, 1) both 1.34s; }
+      .trust { animation: rise 0.5s ease both 1.62s; }
+
+      @media (prefers-reduced-motion: reduce) {
+        * { animation-duration: 0.001s !important; animation-iteration-count: 1 !important; }
+        .slide { transition: none; }
+      }
+
+      /* ---- Narrow phones: stack screenshot beside a tight text column ---- */
+      /* ultra-narrow (iPhone SE/mini): shrink the 32px headline so it never clips */
+      @media (max-width: 384px) {
+        .eyebrow { font-size: 27px; }
+      }
+
+      @media (max-width: 560px) {
+        .title { font-size: clamp(26px, 7.6vw, 34px); }
+        .feature .sub { display: none; }
+        .phone { --ph: clamp(230px, 39vh, 340px); }
+        .hero { gap: clamp(10px, 3vw, 22px); }
+        .features { gap: 7px; }
+        .feature { gap: 8px; }
+        .feature .lbl { font-size: clamp(12.5px, 3.3vw, 15px); }
+      }
+
+      /* ---- Very short: shrink the screenshot so the column still fits ---- */
+      @media (max-height: 740px) {
+        .eyebrow { display: none; }   /* frees space so the header/CTA don't overlap on short screens */
+        .content { gap: 8px; }
+        .phone { --ph: clamp(230px, 40vh, 330px); }
+        .feature { gap: 9px; }
+      }
+
+      /* ---- Large / iPad: roomier, full feature subtext ---- */
+      @media (min-width: 760px) {
+        .content { max-width: 820px; gap: 22px; }
+        .hero { gap: 48px; }
+      }
+
+      /* RTL: mirror the left-aligned text columns */
+      [dir="rtl"] .brand-text,
+      [dir="rtl"] .hook,
+      [dir="rtl"] .store-btn .lines { text-align: right; }
+      [dir="rtl"] .store-btn .freepill { margin-left: 0; margin-right: 10px; }
+    </style>
+  </head>
+  <body>
+    <div class="interstitial" role="dialog" aria-label="App banner">
+
+      <!-- Top bar -->
+      <div class="topbar">
+        <button class="skip" type="button" onclick="dismissInterstitial()" aria-label="Close app banner">
+          <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M6 6l12 12M18 6L6 18" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" fill="none" /></svg>
+        </button>
+      </div>
+
+      <!-- Headline pinned near the top -->
+      <div class="eyebrow" data-i18n-html="eyebrow">Download our <span class="hl">Free</span> App</div>
+
+      <div class="content">
+        <!-- Centered brand header -->
+        <div class="header">
+          <div class="brandrow">
+            <img class="app-icon" src="resources/appicon.png" alt="App icon" />
+            <div class="brand-text">
+              <div class="title" data-i18n="appTitle">Flacbox</div>
+              <div class="hook" data-i18n="hook">Hi-res audio player for your iPhone</div>
+            </div>
+          </div>
+        </div>
+
+        <!-- Screenshots + feature list -->
+        <div class="hero">
+          <div class="shot">
+            <div class="phone">
+              <div class="screen">
+                <div class="island"></div>
+                <!-- Screenshots are auto-detected at runtime: 1.png, 2.png, …
+                     in resources/screens/ (see the slideshow script below). -->
+                <div class="slides" id="slides"></div>
+              </div>
+            </div>
+          </div>
+          <ul class="features">
+            <li class="feature"><span class="ic" aria-hidden="true"><svg viewBox="0 0 500 500" fill="currentColor" aria-hidden="true"><path fill-rule="nonzero" fill="currentColor" fill-opacity="1" d="M 100 66.667969 C 81.582031 66.667969 66.667969 81.582031 66.667969 100 L 66.667969 400 C 66.667969 418.417969 81.582031 433.332031 100 433.332031 L 400 433.332031 C 418.417969 433.332031 433.332031 418.417969 433.332031 400 L 433.332031 100 C 433.332031 81.582031 418.417969 66.667969 400 66.667969 Z M 250 100 C 332.851562 100 400 167.148438 400 250 C 400 332.851562 332.851562 400 250 400 C 167.148438 400 100 332.851562 100 250 C 100 167.148438 167.148438 100 250 100 Z M 200.292969 146.90625 C 197.109375 146.828125 193.96875 147.664062 191.242188 149.316406 C 173.914062 159.457031 159.433594 173.878906 149.285156 191.242188 C 147.019531 195.0625 146.371094 199.625 147.484375 203.921875 C 148.59375 208.21875 151.375 211.894531 155.203125 214.136719 C 159.035156 216.375 163.601562 216.996094 167.894531 215.859375 C 172.183594 214.71875 175.84375 211.917969 178.058594 208.074219 C 185.3125 195.667969 195.667969 185.351562 208.074219 178.09375 C 212.34375 175.6875 215.335938 171.523438 216.257812 166.710938 C 217.183594 161.898438 215.941406 156.925781 212.867188 153.109375 C 209.789062 149.292969 205.191406 147.027344 200.292969 146.90625 Z M 250 200 C 222.382812 200 200 222.382812 200 250 C 200 277.617188 222.382812 300 250 300 C 277.617188 300 300 277.617188 300 250 C 300 222.382812 277.617188 200 250 200 Z M 250 233.332031 C 259.199219 233.332031 266.667969 240.800781 266.667969 250 C 266.667969 259.199219 259.199219 266.667969 250 266.667969 C 240.800781 266.667969 233.332031 259.199219 233.332031 250 C 233.332031 240.800781 240.800781 233.332031 250 233.332031 Z M 336.652344 283.464844 C 333.667969 283.425781 330.726562 284.191406 328.140625 285.683594 C 325.550781 287.171875 323.410156 289.328125 321.941406 291.925781 C 314.6875 304.332031 304.332031 314.648438 291.925781 321.90625 C 288.082031 324.125 285.28125 327.785156 284.140625 332.074219 C 283.003906 336.363281 283.625 340.929688 285.863281 344.761719 C 288.105469 348.59375 291.78125 351.375 296.078125 352.484375 C 300.375 353.597656 304.9375 352.949219 308.757812 350.683594 C 326.085938 340.542969 340.566406 326.121094 350.714844 308.757812 C 352.753906 305.390625 353.53125 301.410156 352.917969 297.523438 C 352.300781 293.636719 350.332031 290.09375 347.355469 287.523438 C 344.378906 284.949219 340.589844 283.511719 336.652344 283.464844 Z M 336.652344 283.464844 "/></svg></span><span class="txt"><span class="lbl">Hi-res audio formats</span><span class="sub">Play FLAC, ALAC, WAV, AIFF, DSD, APE and more</span></span></li>
+            <li class="feature"><span class="ic" aria-hidden="true"><svg viewBox="0 0 500 500" fill="currentColor" aria-hidden="true"><path fill-rule="nonzero" fill="currentColor" fill-opacity="1" d="M 116.40625 49.773438 C 111.992188 49.839844 107.785156 51.660156 104.707031 54.828125 C 101.632812 57.992188 99.941406 62.25 100 66.667969 L 100 221.191406 C 89.703125 227.136719 83.355469 238.113281 83.332031 250 C 83.332031 258.839844 86.84375 267.320312 93.097656 273.570312 C 99.347656 279.820312 107.824219 283.332031 116.667969 283.332031 C 125.507812 283.332031 133.984375 279.820312 140.238281 273.570312 C 146.488281 267.320312 150 258.839844 150 250 C 149.992188 238.101562 143.636719 227.109375 133.332031 221.160156 L 133.332031 66.667969 C 133.394531 62.160156 131.628906 57.824219 128.441406 54.640625 C 125.253906 51.457031 120.910156 49.703125 116.40625 49.773438 Z M 249.738281 49.773438 C 245.324219 49.839844 241.117188 51.660156 238.042969 54.828125 C 234.964844 57.992188 233.273438 62.25 233.332031 66.667969 L 233.332031 121.160156 C 223.027344 127.109375 216.675781 138.101562 216.667969 150 C 216.667969 158.839844 220.179688 167.320312 226.429688 173.570312 C 232.679688 179.820312 241.160156 183.332031 250 183.332031 C 258.839844 183.332031 267.320312 179.820312 273.570312 173.570312 C 279.820312 167.320312 283.332031 158.839844 283.332031 150 C 283.3125 138.113281 276.960938 127.136719 266.667969 121.191406 L 266.667969 66.667969 C 266.726562 62.160156 264.964844 57.824219 261.773438 54.640625 C 258.585938 51.457031 254.246094 49.703125 249.738281 49.773438 Z M 383.074219 49.773438 C 378.660156 49.839844 374.453125 51.660156 371.375 54.828125 C 368.300781 57.992188 366.605469 62.25 366.667969 66.667969 L 366.667969 287.859375 C 356.371094 293.800781 350.019531 304.777344 350 316.667969 C 350 325.507812 353.511719 333.984375 359.761719 340.238281 C 366.015625 346.488281 374.492188 350 383.332031 350 C 392.175781 350 400.652344 346.488281 406.902344 340.238281 C 413.15625 333.984375 416.667969 325.507812 416.667969 316.667969 C 416.65625 304.765625 410.304688 293.773438 400 287.824219 L 400 66.667969 C 400.0625 62.160156 398.296875 57.824219 395.109375 54.640625 C 391.917969 51.457031 387.578125 49.703125 383.074219 49.773438 Z M 233.332031 214.324219 L 233.332031 433.332031 C 233.332031 437.753906 235.089844 441.992188 238.214844 445.117188 C 241.339844 448.242188 245.578125 450 250 450 C 254.421875 450 258.660156 448.242188 261.785156 445.117188 C 264.910156 441.992188 266.667969 437.753906 266.667969 433.332031 L 266.667969 214.324219 C 261.316406 215.707031 255.785156 216.667969 250 216.667969 C 244.214844 216.667969 238.683594 215.707031 233.332031 214.324219 Z M 100 314.324219 L 100 433.332031 C 100 437.753906 101.757812 441.992188 104.882812 445.117188 C 108.007812 448.242188 112.246094 450 116.667969 450 C 121.085938 450 125.324219 448.242188 128.453125 445.117188 C 131.578125 441.992188 133.332031 437.753906 133.332031 433.332031 L 133.332031 314.324219 C 127.984375 315.707031 122.449219 316.667969 116.667969 316.667969 C 110.882812 316.667969 105.351562 315.707031 100 314.324219 Z M 366.667969 380.988281 L 366.667969 433.332031 C 366.667969 437.753906 368.421875 441.992188 371.546875 445.117188 C 374.675781 448.242188 378.914062 450 383.332031 450 C 387.753906 450 391.992188 448.242188 395.117188 445.117188 C 398.242188 441.992188 400 437.753906 400 433.332031 L 400 380.988281 C 394.648438 382.371094 389.117188 383.332031 383.332031 383.332031 C 377.550781 383.332031 372.015625 382.371094 366.667969 380.988281 Z M 366.667969 380.988281 "/></svg></span><span class="txt"><span class="lbl">Audio equalizer</span><span class="sub">Pro EQ, bass booster, preamp and pitch control</span></span></li>
+            <li class="feature"><span class="ic" aria-hidden="true"><svg viewBox="0 0 500 500" fill="currentColor" aria-hidden="true"><path fill-rule="nonzero" fill="currentColor" fill-opacity="1" d="M 400 66.667969 L 100 66.667969 C 81.582031 66.667969 66.667969 81.582031 66.667969 100 L 66.667969 400 C 66.667969 418.417969 81.582031 433.332031 100 433.332031 L 400 433.332031 C 418.417969 433.332031 433.332031 418.417969 433.332031 400 L 433.332031 100 C 433.332031 81.582031 418.417969 66.667969 400 66.667969 Z M 167.5 356.066406 C 164.25 359.316406 159.984375 360.949219 155.714844 360.949219 C 151.449219 360.949219 147.183594 359.316406 143.933594 356.066406 C 115.601562 327.734375 100 290.066406 100 250 C 100 209.933594 115.601562 172.265625 143.933594 143.933594 C 150.449219 137.417969 160.984375 137.417969 167.5 143.933594 C 174.015625 150.433594 174.015625 160.984375 167.5 167.5 C 145.484375 189.550781 133.332031 218.832031 133.332031 250 C 133.332031 281.167969 145.484375 310.449219 167.5 332.5 C 174 339 174 349.566406 167.5 356.066406 Z M 214.648438 285.351562 C 221.167969 291.867188 221.167969 302.417969 214.648438 308.933594 C 211.398438 312.183594 207.132812 313.816406 202.867188 313.816406 C 198.601562 313.816406 194.332031 312.183594 191.082031 308.949219 C 175.351562 293.199219 166.667969 272.265625 166.667969 250 C 166.667969 227.734375 175.351562 206.800781 191.082031 191.066406 C 197.601562 184.566406 208.132812 184.566406 214.648438 191.066406 C 221.167969 197.566406 221.167969 208.132812 214.648438 214.648438 C 205.199219 224.082031 200 236.632812 200 250 C 200 263.367188 205.199219 275.917969 214.648438 285.351562 Z M 250 266.667969 C 240.800781 266.667969 233.332031 259.199219 233.332031 250 C 233.332031 240.800781 240.800781 233.332031 250 233.332031 C 259.199219 233.332031 266.667969 240.800781 266.667969 250 C 266.667969 259.199219 259.199219 266.667969 250 266.667969 Z M 297.132812 313.816406 C 292.867188 313.816406 288.601562 312.183594 285.351562 308.933594 C 278.832031 302.417969 278.832031 291.867188 285.351562 285.351562 C 294.800781 275.917969 300 263.367188 300 250 C 300 236.632812 294.800781 224.082031 285.351562 214.648438 C 278.832031 208.132812 278.832031 197.582031 285.351562 191.066406 C 291.867188 184.550781 302.398438 184.566406 308.917969 191.066406 C 324.648438 206.800781 333.332031 227.734375 333.332031 250 C 333.332031 272.265625 324.648438 293.199219 308.917969 308.933594 C 305.667969 312.183594 301.398438 313.816406 297.132812 313.816406 Z M 356.066406 356.066406 C 352.816406 359.316406 348.550781 360.949219 344.285156 360.949219 C 340.015625 360.949219 335.75 359.316406 332.5 356.066406 C 325.984375 349.566406 325.984375 339.015625 332.5 332.5 C 354.515625 310.449219 366.667969 281.167969 366.667969 250 C 366.667969 218.832031 354.515625 189.550781 332.5 167.5 C 325.984375 160.984375 325.984375 150.433594 332.5 143.933594 C 339.015625 137.417969 349.550781 137.417969 356.066406 143.933594 C 384.398438 172.265625 400 209.933594 400 250 C 400 290.066406 384.398438 327.734375 356.066406 356.066406 Z M 356.066406 356.066406 "/></svg></span><span class="txt"><span class="lbl">Audio effects</span><span class="sub">Reverb, echo, chorus, flanger, distortion and more</span></span></li>
+            <li class="feature"><span class="ic" aria-hidden="true"><svg viewBox="0 0 500 500" fill="currentColor" aria-hidden="true"><path fill-rule="nonzero" fill="currentColor" fill-opacity="1" d="M 250.199219 449.882812 C 360.699219 449.882812 450.199219 360.382812 450.199219 249.882812 C 450.199219 139.382812 360.699219 49.882812 250.199219 49.882812 C 139.699219 49.882812 50.199219 139.382812 50.199219 249.882812 C 50.199219 360.382812 139.699219 449.882812 250.199219 449.882812 Z M 83.535156 249.882812 C 83.699219 240.882812 91.199219 233.550781 100.199219 233.550781 L 133.535156 233.550781 C 140.535156 233.550781 146.867188 238.050781 149.199219 244.714844 L 151.035156 249.882812 L 167.035156 147.714844 C 168.199219 139.714844 174.867188 133.882812 182.867188 133.550781 C 191.035156 132.714844 197.867188 138.714844 199.699219 146.550781 L 229.035156 273.714844 L 250.367188 114.714844 C 251.367188 106.550781 258.367188 100.382812 266.699219 100.214844 C 275.035156 100.714844 282.035156 106.214844 283.367188 114.382812 L 302.367188 237.882812 L 317.199219 163.550781 C 318.699219 155.714844 325.867188 150.214844 333.699219 150.214844 C 341.867188 150.382812 348.535156 156.214844 349.867188 164.214844 L 364.199219 250.214844 L 400.199219 250.214844 C 408.035156 250.214844 414.535156 255.550781 416.367188 262.882812 C 416.035156 266.882812 415.699219 270.714844 415.035156 274.382812 C 412.367188 279.882812 406.699219 283.550781 400.199219 283.550781 L 350.199219 283.550781 C 342.035156 283.550781 335.035156 277.714844 333.699219 269.550781 L 332.035156 259.382812 L 316.535156 336.882812 C 314.867188 344.714844 307.699219 349.882812 299.867188 350.214844 C 291.699219 350.050781 284.867188 344.050781 283.699219 336.050781 L 268.035156 234.214844 L 250.035156 369.050781 C 248.867188 377.050781 242.367188 383.214844 234.199219 383.550781 L 233.535156 383.550781 C 225.699219 383.550781 219.035156 378.214844 217.199219 370.714844 L 186.535156 237.882812 L 173.535156 320.882812 C 172.367188 328.382812 166.199219 334.214844 158.535156 334.882812 C 151.035156 335.714844 143.867188 331.050781 141.367188 323.714844 L 121.699219 266.882812 L 100.199219 266.882812 C 91.035156 266.882812 83.535156 259.382812 83.535156 250.214844 C 83.535156 250.050781 83.535156 250.050781 83.535156 249.882812 Z M 83.535156 249.882812 "/></svg></span><span class="txt"><span class="lbl">Studio-quality sound</span><span class="sub">Lossless decoding at high sample rates and bit depths</span></span></li>
+            <li class="feature"><span class="ic" aria-hidden="true"><svg viewBox="0 0 500 500" fill="currentColor" aria-hidden="true"><path fill-rule="nonzero" fill="currentColor" fill-opacity="1" d="M 450.910156 66.960938 L 343 90.070312 C 327.632812 93.355469 316.667969 106.941406 316.667969 122.65625 L 316.667969 311.882812 C 316.667969 344.363281 216.667969 317.207031 216.667969 407.976562 C 216.667969 424.640625 226.714844 466.632812 274.445312 466.632812 C 333.113281 466.652344 350 422.058594 350 372.558594 L 350 175.617188 L 451.335938 153.386719 C 460.285156 151.417969 466.667969 143.492188 466.667969 134.308594 L 466.667969 79.6875 C 466.667969 71.386719 459.011719 65.210938 450.910156 66.960938 Z M 66.667969 100 C 57.464844 100 50 107.464844 50 116.667969 C 50 125.867188 57.464844 133.332031 66.667969 133.332031 L 266.667969 133.332031 C 275.867188 133.332031 283.332031 125.867188 283.332031 116.667969 C 283.332031 107.464844 275.867188 100 266.667969 100 Z M 66.667969 183.332031 C 57.464844 183.332031 50 190.800781 50 200 C 50 209.199219 57.464844 216.667969 66.667969 216.667969 L 266.667969 216.667969 C 275.867188 216.667969 283.332031 209.199219 283.332031 200 C 283.332031 190.800781 275.867188 183.332031 266.667969 183.332031 Z M 66.667969 266.667969 C 57.464844 266.667969 50 274.132812 50 283.332031 C 50 292.535156 57.464844 300 66.667969 300 L 266.667969 300 C 275.867188 300 283.332031 292.535156 283.332031 283.332031 C 283.332031 274.132812 275.867188 266.667969 266.667969 266.667969 Z M 66.667969 350 C 57.464844 350 50 357.464844 50 366.667969 C 50 375.867188 57.464844 383.332031 66.667969 383.332031 L 185.578125 383.332031 C 187.996094 370.214844 192.285156 359.199219 197.851562 350 Z M 66.667969 350 "/></svg></span><span class="txt"><span class="lbl">Library & playlists</span><span class="sub">Group by album, artist, genre; build playlists</span></span></li>
+            <li class="feature"><span class="ic" aria-hidden="true"><svg viewBox="0 0 500 500" fill="currentColor" aria-hidden="true"><path fill-rule="nonzero" fill="currentColor" fill-opacity="1" d="M 300 83.332031 C 275.429688 83.355469 251.339844 90.167969 230.398438 103.019531 C 209.453125 115.871094 192.46875 134.257812 181.316406 156.152344 C 171.371094 152.101562 160.738281 150.015625 150 150 C 129.839844 150.023438 110.371094 157.359375 95.203125 170.640625 C 80.035156 183.921875 70.199219 202.253906 67.511719 222.234375 C 47.832031 228.992188 30.753906 241.722656 18.652344 258.652344 C 6.550781 275.578125 0.03125 295.859375 0 316.667969 C 0 343.1875 10.535156 368.625 29.289062 387.378906 C 48.042969 406.132812 73.476562 416.667969 100 416.667969 L 400 416.667969 C 426.523438 416.667969 451.957031 406.132812 470.710938 387.378906 C 489.464844 368.625 500 343.1875 500 316.667969 C 499.96875 295.960938 493.511719 275.773438 481.519531 258.890625 C 469.523438 242.011719 452.585938 229.269531 433.039062 222.429688 C 433.179688 220.511719 433.277344 218.589844 433.332031 216.667969 C 433.332031 181.304688 419.285156 147.390625 394.28125 122.386719 C 369.277344 97.382812 335.363281 83.332031 300 83.332031 Z M 300 83.332031 "/></svg></span><span class="txt"><span class="lbl">Cloud streaming</span><span class="sub">Stream hi-res audio from the cloud, no extra space</span></span></li>
+            <li class="feature"><span class="ic" aria-hidden="true"><svg viewBox="0 0 500 500" fill="currentColor" aria-hidden="true"><path fill-rule="nonzero" fill="currentColor" fill-opacity="1" d="M 66.667969 83.332031 C 48.25 83.332031 33.332031 98.25 33.332031 116.667969 L 33.332031 383.332031 C 33.332031 401.75 48.25 416.667969 66.667969 416.667969 L 433.332031 416.667969 C 451.75 416.667969 466.667969 401.75 466.667969 383.332031 L 466.667969 116.667969 C 466.667969 98.25 451.75 83.332031 433.332031 83.332031 Z M 100 116.667969 C 109.199219 116.667969 116.667969 124.132812 116.667969 133.332031 C 116.667969 142.535156 109.199219 150 100 150 C 90.800781 150 83.332031 142.535156 83.332031 133.332031 C 83.332031 124.132812 90.800781 116.667969 100 116.667969 Z M 166.667969 116.667969 L 233.332031 116.667969 L 233.332031 383.332031 L 166.667969 383.332031 Z M 266.667969 116.667969 L 333.332031 116.667969 L 333.332031 383.332031 L 266.667969 383.332031 Z M 366.667969 116.667969 L 433.332031 116.667969 L 433.332031 383.332031 L 366.667969 383.332031 Z M 200 150 C 195.578125 150 191.339844 151.757812 188.214844 154.882812 C 185.089844 158.007812 183.332031 162.246094 183.332031 166.667969 C 183.332031 171.085938 185.089844 175.324219 188.214844 178.453125 C 191.339844 181.578125 195.578125 183.332031 200 183.332031 C 204.421875 183.332031 208.660156 181.578125 211.785156 178.453125 C 214.910156 175.324219 216.667969 171.085938 216.667969 166.667969 C 216.667969 162.246094 214.910156 158.007812 211.785156 154.882812 C 208.660156 151.757812 204.421875 150 200 150 Z M 300 150 C 295.578125 150 291.339844 151.757812 288.214844 154.882812 C 285.089844 158.007812 283.332031 162.246094 283.332031 166.667969 C 283.332031 171.085938 285.089844 175.324219 288.214844 178.453125 C 291.339844 181.578125 295.578125 183.332031 300 183.332031 C 304.421875 183.332031 308.660156 181.578125 311.785156 178.453125 C 314.910156 175.324219 316.667969 171.085938 316.667969 166.667969 C 316.667969 162.246094 314.910156 158.007812 311.785156 154.882812 C 308.660156 151.757812 304.421875 150 300 150 Z M 400 150 C 395.578125 150 391.339844 151.757812 388.214844 154.882812 C 385.089844 158.007812 383.332031 162.246094 383.332031 166.667969 C 383.332031 171.085938 385.089844 175.324219 388.214844 178.453125 C 391.339844 181.578125 395.578125 183.332031 400 183.332031 C 404.421875 183.332031 408.660156 181.578125 411.785156 178.453125 C 414.910156 175.324219 416.667969 171.085938 416.667969 166.667969 C 416.667969 162.246094 414.910156 158.007812 411.785156 154.882812 C 408.660156 151.757812 404.421875 150 400 150 Z M 100 183.332031 C 109.199219 183.332031 116.667969 190.800781 116.667969 200 C 116.667969 209.199219 109.199219 216.667969 100 216.667969 C 90.800781 216.667969 83.332031 209.199219 83.332031 200 C 83.332031 190.800781 90.800781 183.332031 100 183.332031 Z M 100 350 C 109.199219 350 116.667969 357.464844 116.667969 366.667969 C 116.667969 375.867188 109.199219 383.332031 100 383.332031 C 90.800781 383.332031 83.332031 375.867188 83.332031 366.667969 C 83.332031 357.464844 90.800781 350 100 350 Z M 100 350 "/></svg></span><span class="txt"><span class="lbl">NAS & computer</span><span class="sub">Play and transfer files over Wi-Fi from a NAS or PC</span></span></li>
+            <li class="feature"><span class="ic" aria-hidden="true"><svg viewBox="0 0 500 500" fill="currentColor" aria-hidden="true"><path fill-rule="nonzero" fill="currentColor" fill-opacity="1" d="M 66.667969 50 C 48.25 50 33.332031 64.917969 33.332031 83.332031 L 33.332031 383.332031 C 33.332031 401.75 48.25 416.667969 66.667969 416.667969 L 433.332031 416.667969 C 451.75 416.667969 466.667969 401.75 466.667969 383.332031 L 466.667969 116.667969 C 466.667969 98.25 451.75 83.332031 433.332031 83.332031 L 186.652344 83.332031 L 176.367188 66.179688 C 170.351562 56.144531 159.503906 50 147.785156 50 Z M 250 150 C 259.214844 150 266.667969 157.464844 266.667969 166.667969 L 266.667969 293.097656 L 304.882812 254.882812 C 311.398438 248.367188 321.933594 248.367188 328.449219 254.882812 C 334.96875 261.398438 334.96875 271.933594 328.449219 278.449219 L 261.785156 345.117188 C 258.535156 348.367188 254.265625 350 250 350 C 245.734375 350 241.464844 348.367188 238.214844 345.117188 L 171.550781 278.449219 C 165.03125 271.933594 165.03125 261.398438 171.550781 254.882812 C 178.066406 248.367188 188.601562 248.367188 195.117188 254.882812 L 233.332031 293.097656 L 233.332031 166.667969 C 233.332031 157.464844 240.785156 150 250 150 Z M 250 150 "/></svg></span><span class="txt"><span class="lbl">Offline mode</span><span class="sub">Download songs and playlists to listen offline</span></span></li>
+          </ul>
+        </div>
+      </div>
+
+      <!-- Download on the App Store -->
+      <div class="cta-group">
+      <a class="cta" id="cta" href="https://apps.apple.com/app/apple-store/id1097564256?pt=95781850&amp;ct=cross_app_sale&amp;mt=8" target="_blank" rel="noopener">
+        <div class="store-btn">
+          <svg class="apple" viewBox="0 0 24 24" aria-hidden="true"><path d="M16.37 12.42c.02 2.36 2.07 3.15 2.1 3.16-.02.06-.33 1.13-1.09 2.23-.66.95-1.34 1.9-2.42 1.92-1.06.02-1.4-.63-2.61-.63-1.21 0-1.59.61-2.59.65-1.04.04-1.83-1.03-2.5-1.98-1.36-1.96-2.4-5.55-1-7.97.69-1.2 1.93-1.96 3.27-1.98 1.02-.02 1.99.69 2.61.69.62 0 1.79-.85 3.02-.73.52.02 1.97.21 2.9 1.58-.08.05-1.73 1.01-1.71 3.01M14.4 5.27c.55-.67.92-1.6.82-2.52-.79.03-1.75.53-2.32 1.19-.51.59-.96 1.53-.84 2.43.88.07 1.79-.45 2.34-1.1"/></svg>
+          <div class="lines">
+            <span class="small" data-i18n="storeSmall">Download on the</span>
+            <span class="big">App Store</span>
+          </div>
+          <span class="freepill" data-i18n="free">Free</span>
+        </div>
+      </a>
+      <div class="trust" data-i18n="trust">Listen to hi-res music without limits</div>
+      </div>
+    </div>
+
+    <script>
+      /* ---- Localizations and the store link live in config.json, loaded at
+             runtime. The English text baked into the markup above is the
+             fallback if the config can't be fetched (e.g. opened as a file). ---- */
+      var closeUrl = null; // tracking endpoint pinged when the Close button is tapped
+      var clickUrl = null; // tracking endpoint pinged when the download CTA is tapped
+      var a11yShotText = "App screenshot"; // localized alt for the first screenshot (shared with the slideshow builder)
+
+      function applyConfig(cfg) {
+        closeUrl = (cfg && cfg.closeUrl) || null;
+        clickUrl = (cfg && cfg.clickUrl) || null;
+        var langs = (cfg && cfg.languages) || {};
+        var fallback = cfg && cfg.defaultLang && langs[cfg.defaultLang] ? cfg.defaultLang : "en";
+
+        // Pick a language: ?lang= override, else browser language, else default.
+        // Matching is case-insensitive; region tags fall back to the base
+        // language (e.g. "pt-BR" -> "pt"), and Chinese resolves by script
+        // (zh-CN/SG -> zh-Hans, zh-TW/HK/MO -> zh-Hant).
+        var byLower = {}; // lowercased locale code -> actual key in config
+        Object.keys(langs).forEach(function (k) { byLower[k.toLowerCase()] = k; });
+        var zhMap = {
+          "zh": "zh-hans", "zh-cn": "zh-hans", "zh-sg": "zh-hans", "zh-hans": "zh-hans",
+          "zh-tw": "zh-hant", "zh-hk": "zh-hant", "zh-mo": "zh-hant", "zh-hant": "zh-hant"
+        };
+        var alias = { "iw": "he", "in": "id", "no": "nb" }; // legacy / macro codes
+
+        var params = new URLSearchParams(location.search);
+        var raw = String(params.get("lang") || navigator.language || fallback).toLowerCase();
+        var base = raw.split("-")[0];
+        var code = byLower[raw]
+                || (zhMap[raw] && byLower[zhMap[raw]])
+                || (alias[raw] && byLower[alias[raw]])
+                || byLower[base]
+                || (zhMap[base] && byLower[zhMap[base]])
+                || (alias[base] && byLower[alias[base]])
+                || fallback;
+
+        var t = langs[code];
+
+        // Store link applies regardless of language. Prefer an explicit
+        // storeUrl; otherwise build the App Store link from appId.
+        var url = (cfg && cfg.storeUrl) ||
+                  (cfg && cfg.appId ? "https://apps.apple.com/app/id" + cfg.appId : null);
+        var cta = document.getElementById("cta");
+        if (cta && url) cta.setAttribute("href", url);
+
+        if (!t) return; // no matching language block -> keep baked-in English
+
+        var root = document.documentElement;
+        root.lang = code;
+        root.dir = t.dir || "ltr";
+
+        // Plain-text nodes
+        document.querySelectorAll("[data-i18n]").forEach(function (el) {
+          var key = el.getAttribute("data-i18n");
+          if (t[key] != null) el.textContent = t[key];
+        });
+        // Rich-text nodes (headline keeps the blue "Free" highlight span)
+        document.querySelectorAll("[data-i18n-html]").forEach(function (el) {
+          var key = el.getAttribute("data-i18n-html");
+          if (t[key] != null) el.innerHTML = t[key];
+        });
+        // Accessibility labels (dialog, close button, app icon alt, screenshot alt)
+        var dialog = document.querySelector(".interstitial");
+        if (dialog && t.a11yTitle) dialog.setAttribute("aria-label", t.a11yTitle);
+        var skipBtn = document.querySelector(".skip");
+        if (skipBtn && t.a11yClose) skipBtn.setAttribute("aria-label", t.a11yClose);
+        var appIcon = document.querySelector(".app-icon");
+        if (appIcon && t.a11yIcon) appIcon.setAttribute("alt", t.a11yIcon);
+        if (t.a11yShot) {
+          a11yShotText = t.a11yShot; // used by slides created later
+          var firstShot = document.querySelector("#slides .slide");
+          if (firstShot) firstShot.setAttribute("alt", a11yShotText);
+        }
+        // Feature list (label + subtitle by index)
+        var lbls = document.querySelectorAll(".feature .lbl");
+        var subs = document.querySelectorAll(".feature .sub");
+        (t.features || []).forEach(function (f, i) {
+          if (lbls[i]) lbls[i].textContent = f[0];
+          if (subs[i]) subs[i].textContent = f[1];
+        });
+      }
+
+      fetch("config.json", { cache: "no-cache" })
+        .then(function (r) { return r.json(); })
+        .then(function (cfg) { applyConfig(cfg); applyScreens(cfg); })
+        .catch(function () { applyScreens(null); }); // config unavailable -> auto-detect screenshots
+
+      // Fire a tracking URL (fire-and-forget). sendBeacon survives the page
+      // being torn down / navigating away; an image pixel is the fallback.
+      function ping(url) {
+        if (!url) return;
+        try {
+          if (navigator.sendBeacon && navigator.sendBeacon(url)) return;
+        } catch (e) {}
+        try { new Image().src = url; } catch (e) {}
+      }
+
+      function dismissInterstitial() {
+        ping(closeUrl);
+        var el = document.querySelector(".interstitial");
+        if (el) el.style.display = "none";
+        try { window.parent && window.parent.postMessage("interstitial:close", "*"); } catch (e) {}
+      }
+
+      // Report the download tap. The link still opens the store normally;
+      // the beacon just fires alongside the navigation.
+      (function () {
+        var cta = document.getElementById("cta");
+        if (!cta) return;
+        cta.addEventListener("click", function () {
+          ping(clickUrl);
+          try { window.parent && window.parent.postMessage("interstitial:click", "*"); } catch (e) {}
+        });
+      })();
+
+      // Cross-fading app screenshots. The paths come from config.json
+      // ("screens": ["resources/screens/1.png", …]) so they can be changed
+      // without touching this HTML. Only the ".active" slide is opaque;
+      // advancing swaps the class and the CSS opacity transition handles the
+      // 1.1s cross-dissolve.
+      var slideEls = [];
+
+      function startCrossfade() {
+        if (slideEls.length < 2) return; // 0 or 1 screenshot: nothing to cross-fade
+        var i = 0;
+        setInterval(function () {
+          slideEls[i].classList.remove("active");
+          i = (i + 1) % slideEls.length;
+          slideEls[i].classList.add("active");
+        }, 3000);
+      }
+
+      function addSlide(src) {
+        var container = document.getElementById("slides");
+        if (!container) return;
+        var el = document.createElement("img");
+        el.className = "slide" + (slideEls.length === 0 ? " active" : "");
+        el.src = src;
+        el.alt = slideEls.length === 0 ? a11yShotText : ""; // rest are decorative
+        container.appendChild(el);
+        slideEls.push(el);
+      }
+
+      // Fallback when config.json can't be read (e.g. opened as a file://):
+      // auto-detect resources/screens/1.png, 2.png, … stopping at the first gap.
+      function probeScreens() {
+        var BASE = "resources/screens/", EXT = ".png", MAX = 100;
+        (function probe(n) {
+          if (n > MAX) return startCrossfade();
+          var test = new Image();
+          test.onload = function () { addSlide(BASE + n + EXT); probe(n + 1); };
+          test.onerror = function () { startCrossfade(); };
+          test.src = BASE + n + EXT;
+        })(1);
+      }
+
+      // Build the slideshow from config.screens, or fall back to auto-detection.
+      function applyScreens(cfg) {
+        if (slideEls.length) return; // already built
+        var list = cfg && Array.isArray(cfg.screens) && cfg.screens.length ? cfg.screens : null;
+        if (list) { list.forEach(addSlide); startCrossfade(); }
+        else probeScreens();
+      }
+    </script>
+  </body>
+</html>

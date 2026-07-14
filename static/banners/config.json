@@ -55,6 +55,50 @@
       "priority": "normal",
       "configPath": "evertag_macos/config.json",
       "indexPath": "evertag_macos/index.html"
+    },
+    {
+      "id": 6,
+      "name": "evervideo_ios",
+      "platform": "ios",
+      "scheme": "lsevervideo",
+      "bundleID": "com.leshko.videoplayer",
+      "version": 1,
+      "priority": "normal",
+      "configPath": "evervideo_ios/config.json",
+      "indexPath": "evervideo_ios/index.html"
+    },
+    {
+      "id": 7,
+      "name": "evervideo_macos",
+      "platform": "macos",
+      "scheme": "lsevervideomac",
+      "bundleID": "com.leshko.videoplayer.mac",
+      "version": 1,
+      "priority": "normal",
+      "configPath": "evervideo_macos/config.json",
+      "indexPath": "evervideo_macos/index.html"
+    },
+    {
+      "id": 8,
+      "name": "flacbox_ios",
+      "platform": "ios",
+      "scheme": "lsflap",
+      "bundleID": "com.leshko.flap",
+      "version": 1,
+      "priority": "normal",
+      "configPath": "flacbox_ios/config.json",
+      "indexPath": "flacbox_ios/index.html"
+    },
+    {
+      "id": 9,
+      "name": "flacbox_macos",
+      "platform": "macos",
+      "scheme": "lsflapmac",
+      "bundleID": "com.leshko.flap.mac",
+      "version": 1,
+      "priority": "normal",
+      "configPath": "flacbox_macos/config.json",
+      "indexPath": "flacbox_macos/index.html"
     }
   ]
 }

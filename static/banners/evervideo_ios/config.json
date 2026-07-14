@@ -1,0 +1,2052 @@
+{
+  "id": 6,
+  "version": 1,
+  "appId": "6602897336",
+  "scheme": "lsevervideo",
+  "bundleID": "com.leshko.videoplayer",
+  "storeUrl": "https://apps.apple.com/app/apple-store/id6602897336?pt=95781850&ct=cross_app_sale&mt=8",
+  "clickUrl": "",
+  "closeUrl": "",
+  "defaultLang": "en",
+  "screens": [
+    "resources/screens/1.png",
+    "resources/screens/2.png",
+    "resources/screens/3.png",
+    "resources/screens/4.png",
+    "resources/screens/5.png",
+    "resources/screens/6.png",
+    "resources/screens/7.png",
+    "resources/screens/8.png",
+    "resources/screens/9.png",
+    "resources/screens/10.png"
+  ],
+  "languages": {
+    "en": {
+      "eyebrow": "Download our <span class=\"hl\">Free</span> App",
+      "appTitle": "Evervideo",
+      "hook": "Play any video file on your iPhone",
+      "storeSmall": "Download on the",
+      "free": "Free",
+      "trust": "Watch your videos anytime, anywhere",
+      "features": [
+        [
+          "Multimedia player",
+          "Play any video format from your computer or cloud"
+        ],
+        [
+          "360° video",
+          "Watch VR and 360° videos from every angle"
+        ],
+        [
+          "Audio & video equalizer",
+          "Tune sound and picture with presets and controls"
+        ],
+        [
+          "Picture-in-Picture",
+          "Keep watching in a floating window with subtitles"
+        ],
+        [
+          "Bookmarks",
+          "Bookmark, change speed, and resume playback"
+        ],
+        [
+          "Rotation & scaling",
+          "Rotate and scale video to fit your screen"
+        ],
+        [
+          "Library & playlists",
+          "Organize by album, genre, or duration"
+        ],
+        [
+          "Offline mode",
+          "Download videos and playlists to watch offline"
+        ]
+      ],
+      "a11yTitle": "App banner",
+      "a11yClose": "Close app banner",
+      "a11yIcon": "App icon",
+      "a11yShot": "App screenshot"
+    },
+    "ar": {
+      "dir": "rtl",
+      "eyebrow": "حمّل تطبيقنا <span class=\"hl\">المجاني</span>",
+      "appTitle": "Evervideo",
+      "hook": "شغّل أي ملف فيديو على iPhone",
+      "storeSmall": "حمّله من",
+      "free": "مجاني",
+      "trust": "شاهد فيديوهاتك في أي وقت وأي مكان",
+      "features": [
+        [
+          "مشغّل الوسائط",
+          "شغّل أي صيغة فيديو من حاسوبك أو السحابة"
+        ],
+        [
+          "فيديو 360°",
+          "شاهد فيديوهات VR و360° من كل زاوية"
+        ],
+        [
+          "معادل الصوت والفيديو",
+          "اضبط الصوت والصورة بإعدادات مسبقة وأدوات تحكم"
+        ],
+        [
+          "صورة داخل صورة",
+          "تابع المشاهدة في نافذة عائمة مع الترجمة"
+        ],
+        [
+          "الإشارات المرجعية",
+          "أضف إشارة مرجعية وغيّر السرعة واستأنف التشغيل"
+        ],
+        [
+          "التدوير والتحجيم",
+          "دوّر الفيديو وحجّمه ليلائم شاشتك"
+        ],
+        [
+          "المكتبة وقوائم التشغيل",
+          "نظّم حسب الألبوم أو النوع أو المدة"
+        ],
+        [
+          "الوضع دون اتصال",
+          "نزّل الفيديوهات وقوائم التشغيل للمشاهدة دون اتصال"
+        ]
+      ],
+      "a11yTitle": "لافتة التطبيق",
+      "a11yClose": "إغلاق لافتة التطبيق",
+      "a11yIcon": "أيقونة التطبيق",
+      "a11yShot": "لقطة شاشة التطبيق"
+    },
+    "bn": {
+      "eyebrow": "আমাদের <span class=\"hl\">ফ্রি</span> অ্যাপ ডাউনলোড করুন",
+      "appTitle": "Evervideo",
+      "hook": "আপনার iPhone-এ যেকোনো ভিডিও ফাইল চালান",
+      "storeSmall": "ডাউনলোড করুন",
+      "free": "ফ্রি",
+      "trust": "যেকোনো সময়, যেকোনো জায়গায় আপনার ভিডিও দেখুন",
+      "features": [
+        [
+          "মাল্টিমিডিয়া প্লেয়ার",
+          "কম্পিউটার বা ক্লাউড থেকে যেকোনো ভিডিও ফরম্যাট চালান"
+        ],
+        [
+          "360° ভিডিও",
+          "প্রতিটি কোণ থেকে VR ও 360° ভিডিও দেখুন"
+        ],
+        [
+          "অডিও ও ভিডিও ইকুয়ালাইজার",
+          "প্রিসেট ও নিয়ন্ত্রণ দিয়ে শব্দ ও ছবি সমন্বয় করুন"
+        ],
+        [
+          "পিকচার-ইন-পিকচার",
+          "সাবটাইটেলসহ ভাসমান উইন্ডোতে দেখা চালিয়ে যান"
+        ],
+        [
+          "বুকমার্ক",
+          "বুকমার্ক করুন, গতি বদলান ও প্লেব্যাক পুনরায় শুরু করুন"
+        ],
+        [
+          "ঘোরানো ও মাপ পরিবর্তন",
+          "স্ক্রিনে মানানসই করতে ভিডিও ঘোরান ও মাপ বদলান"
+        ],
+        [
+          "লাইব্রেরি ও প্লেলিস্ট",
+          "অ্যালবাম, ঘরানা বা সময়কাল অনুযায়ী সাজান"
+        ],
+        [
+          "অফলাইন মোড",
+          "অফলাইনে দেখার জন্য ভিডিও ও প্লেলিস্ট ডাউনলোড করুন"
+        ]
+      ],
+      "a11yTitle": "অ্যাপ ব্যানার",
+      "a11yClose": "অ্যাপ ব্যানার বন্ধ করুন",
+      "a11yIcon": "অ্যাপ আইকন",
+      "a11yShot": "অ্যাপ স্ক্রিনশট"
+    },
+    "ca": {
+      "eyebrow": "Baixa la nostra app <span class=\"hl\">gratuïta</span>",
+      "appTitle": "Evervideo",
+      "hook": "Reprodueix qualsevol fitxer de vídeo a l'iPhone",
+      "storeSmall": "Baixa-la a l’",
+      "free": "Gratis",
+      "trust": "Mira els teus vídeos en qualsevol moment i lloc",
+      "features": [
+        [
+          "Reproductor multimèdia",
+          "Reprodueix qualsevol format de vídeo des de l'ordinador o el núvol"
+        ],
+        [
+          "Vídeo 360°",
+          "Mira vídeos VR i 360° des de tots els angles"
+        ],
+        [
+          "Equalitzador d'àudio i vídeo",
+          "Ajusta so i imatge amb predefinits i controls"
+        ],
+        [
+          "Imatge en imatge",
+          "Continua mirant en una finestra flotant amb subtítols"
+        ],
+        [
+          "Marcadors",
+          "Marca, canvia la velocitat i reprèn la reproducció"
+        ],
+        [
+          "Rotació i escala",
+          "Gira i escala el vídeo perquè s'ajusti a la pantalla"
+        ],
+        [
+          "Biblioteca i llistes",
+          "Organitza per àlbum, gènere o durada"
+        ],
+        [
+          "Mode fora de línia",
+          "Baixa vídeos i llistes per veure'ls sense connexió"
+        ]
+      ],
+      "a11yTitle": "Bàner de l’app",
+      "a11yClose": "Tanca el bàner de l’app",
+      "a11yIcon": "Icona de l’app",
+      "a11yShot": "Captura de l’app"
+    },
+    "cs": {
+      "eyebrow": "Stáhněte si naši <span class=\"hl\">bezplatnou</span> aplikaci",
+      "appTitle": "Evervideo",
+      "hook": "Přehrajte jakýkoli video soubor na iPhonu",
+      "storeSmall": "Stáhnout na",
+      "free": "Zdarma",
+      "trust": "Sledujte svá videa kdykoli a kdekoli",
+      "features": [
+        [
+          "Multimediální přehrávač",
+          "Přehrajte jakýkoli formát videa z počítače nebo cloudu"
+        ],
+        [
+          "360° video",
+          "Sledujte VR a 360° videa ze všech úhlů"
+        ],
+        [
+          "Ekvalizér zvuku a obrazu",
+          "Vylaďte zvuk i obraz pomocí předvoleb a ovládání"
+        ],
+        [
+          "Obraz v obraze",
+          "Sledujte dál v plovoucím okně s titulky"
+        ],
+        [
+          "Záložky",
+          "Přidejte záložku, změňte rychlost a pokračujte"
+        ],
+        [
+          "Otočení a měřítko",
+          "Otočte a přizpůsobte video své obrazovce"
+        ],
+        [
+          "Knihovna a playlisty",
+          "Uspořádejte podle alba, žánru nebo délky"
+        ],
+        [
+          "Offline režim",
+          "Stáhněte videa a playlisty pro sledování offline"
+        ]
+      ],
+      "a11yTitle": "Banner aplikace",
+      "a11yClose": "Zavřít banner aplikace",
+      "a11yIcon": "Ikona aplikace",
+      "a11yShot": "Snímek aplikace"
+    },
+    "da": {
+      "eyebrow": "Download vores <span class=\"hl\">gratis</span> app",
+      "appTitle": "Evervideo",
+      "hook": "Afspil enhver videofil på din iPhone",
+      "storeSmall": "Hent i",
+      "free": "Gratis",
+      "trust": "Se dine videoer når og hvor som helst",
+      "features": [
+        [
+          "Multimedieafspiller",
+          "Afspil ethvert videoformat fra computer eller sky"
+        ],
+        [
+          "360°-video",
+          "Se VR- og 360°-videoer fra alle vinkler"
+        ],
+        [
+          "Lyd- og videoequalizer",
+          "Finjustér lyd og billede med forudindstillinger og kontroller"
+        ],
+        [
+          "Billede-i-billede",
+          "Bliv ved med at se i et flydende vindue med undertekster"
+        ],
+        [
+          "Bogmærker",
+          "Sæt bogmærke, skift hastighed og genoptag afspilning"
+        ],
+        [
+          "Rotation og skalering",
+          "Rotér og skalér video, så den passer til skærmen"
+        ],
+        [
+          "Bibliotek og playlister",
+          "Organisér efter album, genre eller varighed"
+        ],
+        [
+          "Offlinetilstand",
+          "Download videoer og playlister til offline visning"
+        ]
+      ],
+      "a11yTitle": "App-banner",
+      "a11yClose": "Luk app-banner",
+      "a11yIcon": "App-ikon",
+      "a11yShot": "App-skærmbillede"
+    },
+    "de": {
+      "eyebrow": "Lade unsere <span class=\"hl\">kostenlose</span> App",
+      "appTitle": "Evervideo",
+      "hook": "Spiele jede Videodatei auf deinem iPhone ab",
+      "storeSmall": "Laden im",
+      "free": "Gratis",
+      "trust": "Sieh deine Videos jederzeit und überall",
+      "features": [
+        [
+          "Multimedia-Player",
+          "Spiele jedes Videoformat vom Computer oder aus der Cloud ab"
+        ],
+        [
+          "360°-Video",
+          "Sieh VR- und 360°-Videos aus jedem Blickwinkel"
+        ],
+        [
+          "Audio- & Video-Equalizer",
+          "Stelle Ton und Bild mit Presets und Reglern ein"
+        ],
+        [
+          "Bild-in-Bild",
+          "Schau weiter in einem schwebenden Fenster mit Untertiteln"
+        ],
+        [
+          "Lesezeichen",
+          "Setze Lesezeichen, ändere Tempo und setze fort"
+        ],
+        [
+          "Drehen & Skalieren",
+          "Drehe und skaliere das Video passend zum Bildschirm"
+        ],
+        [
+          "Mediathek & Playlists",
+          "Ordne nach Album, Genre oder Länge"
+        ],
+        [
+          "Offline-Modus",
+          "Lade Videos und Playlists zum Offline-Ansehen herunter"
+        ]
+      ],
+      "a11yTitle": "App-Banner",
+      "a11yClose": "App-Banner schließen",
+      "a11yIcon": "App-Symbol",
+      "a11yShot": "App-Screenshot"
+    },
+    "el": {
+      "eyebrow": "Κατεβάστε τη <span class=\"hl\">δωρεάν</span> εφαρμογή μας",
+      "appTitle": "Evervideo",
+      "hook": "Αναπαράγετε οποιοδήποτε αρχείο βίντεο στο iPhone σας",
+      "storeSmall": "Κατεβάστε το από το",
+      "free": "Δωρεάν",
+      "trust": "Δείτε τα βίντεά σας οποτεδήποτε, οπουδήποτε",
+      "features": [
+        [
+          "Αναπαραγωγή πολυμέσων",
+          "Αναπαράγετε κάθε μορφή βίντεο από υπολογιστή ή cloud"
+        ],
+        [
+          "Βίντεο 360°",
+          "Δείτε βίντεο VR και 360° από κάθε γωνία"
+        ],
+        [
+          "Ισοσταθμιστής ήχου & εικόνας",
+          "Ρυθμίστε ήχο και εικόνα με προεπιλογές και χειριστήρια"
+        ],
+        [
+          "Εικόνα σε εικόνα",
+          "Συνεχίστε να βλέπετε σε αιωρούμενο παράθυρο με υπότιτλους"
+        ],
+        [
+          "Σελιδοδείκτες",
+          "Προσθέστε σελιδοδείκτη, αλλάξτε ταχύτητα και συνεχίστε"
+        ],
+        [
+          "Περιστροφή & κλιμάκωση",
+          "Περιστρέψτε και προσαρμόστε το βίντεο στην οθόνη σας"
+        ],
+        [
+          "Βιβλιοθήκη & λίστες",
+          "Οργανώστε ανά άλμπουμ, είδος ή διάρκεια"
+        ],
+        [
+          "Λειτουργία εκτός σύνδεσης",
+          "Κατεβάστε βίντεο και λίστες για offline προβολή"
+        ]
+      ],
+      "a11yTitle": "Μπάνερ εφαρμογής",
+      "a11yClose": "Κλείσιμο μπάνερ εφαρμογής",
+      "a11yIcon": "Εικονίδιο εφαρμογής",
+      "a11yShot": "Στιγμιότυπο εφαρμογής"
+    },
+    "es": {
+      "eyebrow": "Descarga nuestra app <span class=\"hl\">gratis</span>",
+      "appTitle": "Evervideo",
+      "hook": "Reproduce cualquier archivo de vídeo en tu iPhone",
+      "storeSmall": "Descárgala en el",
+      "free": "Gratis",
+      "trust": "Mira tus videos en cualquier momento y lugar",
+      "features": [
+        [
+          "Reproductor multimedia",
+          "Reproduce cualquier formato de vídeo desde tu equipo o la nube"
+        ],
+        [
+          "Vídeo 360°",
+          "Mira vídeos VR y 360° desde cualquier ángulo"
+        ],
+        [
+          "Ecualizador de audio y vídeo",
+          "Ajusta el sonido y la imagen con ajustes y controles"
+        ],
+        [
+          "Imagen sobre imagen",
+          "Sigue viendo en una ventana flotante con subtítulos"
+        ],
+        [
+          "Marcadores",
+          "Marca, cambia la velocidad y reanuda la reproducción"
+        ],
+        [
+          "Rotación y escala",
+          "Gira y ajusta el vídeo a tu pantalla"
+        ],
+        [
+          "Biblioteca y listas",
+          "Organiza por álbum, género o duración"
+        ],
+        [
+          "Modo sin conexión",
+          "Descarga vídeos y listas para verlos sin conexión"
+        ]
+      ],
+      "a11yTitle": "Banner de la app",
+      "a11yClose": "Cerrar banner de la app",
+      "a11yIcon": "Icono de la app",
+      "a11yShot": "Captura de la app"
+    },
+    "fi": {
+      "eyebrow": "Lataa <span class=\"hl\">ilmainen</span> sovelluksemme",
+      "appTitle": "Evervideo",
+      "hook": "Toista mikä tahansa videotiedosto iPhonessasi",
+      "storeSmall": "Lataa",
+      "free": "Ilmainen",
+      "trust": "Katso videoitasi milloin ja missä tahansa",
+      "features": [
+        [
+          "Multimediasoitin",
+          "Toista mikä tahansa videomuoto tietokoneelta tai pilvestä"
+        ],
+        [
+          "360°-video",
+          "Katso VR- ja 360°-videoita joka kulmasta"
+        ],
+        [
+          "Ääni- ja videotaajuuskorjain",
+          "Säädä ääntä ja kuvaa esiasetuksilla ja säätimillä"
+        ],
+        [
+          "Kuva kuvassa",
+          "Jatka katselua kelluvassa ikkunassa tekstityksin"
+        ],
+        [
+          "Kirjanmerkit",
+          "Lisää kirjanmerkki, muuta nopeutta ja jatka toistoa"
+        ],
+        [
+          "Kierto ja skaalaus",
+          "Kierrä ja skaalaa video näytöllesi sopivaksi"
+        ],
+        [
+          "Kirjasto ja soittolistat",
+          "Järjestä albumin, genren tai keston mukaan"
+        ],
+        [
+          "Offline-tila",
+          "Lataa videoita ja soittolistoja offline-katseluun"
+        ]
+      ],
+      "a11yTitle": "Sovelluksen banneri",
+      "a11yClose": "Sulje sovelluksen banneri",
+      "a11yIcon": "Sovelluksen kuvake",
+      "a11yShot": "Sovelluksen kuvakaappaus"
+    },
+    "fr": {
+      "eyebrow": "Téléchargez notre appli <span class=\"hl\">gratuite</span>",
+      "appTitle": "Evervideo",
+      "hook": "Lisez n'importe quel fichier vidéo sur votre iPhone",
+      "storeSmall": "Télécharger dans l’",
+      "free": "Gratuit",
+      "trust": "Regardez vos vidéos à tout moment, où que vous soyez",
+      "features": [
+        [
+          "Lecteur multimédia",
+          "Lisez tout format vidéo depuis votre ordinateur ou le cloud"
+        ],
+        [
+          "Vidéo 360°",
+          "Regardez des vidéos VR et 360° sous tous les angles"
+        ],
+        [
+          "Égaliseur audio et vidéo",
+          "Réglez le son et l'image avec préréglages et commandes"
+        ],
+        [
+          "Image dans l'image",
+          "Continuez de regarder dans une fenêtre flottante avec sous-titres"
+        ],
+        [
+          "Signets",
+          "Ajoutez un signet, changez la vitesse et reprenez la lecture"
+        ],
+        [
+          "Rotation et mise à l'échelle",
+          "Faites pivoter et ajustez la vidéo à votre écran"
+        ],
+        [
+          "Bibliothèque et playlists",
+          "Organisez par album, genre ou durée"
+        ],
+        [
+          "Mode hors ligne",
+          "Téléchargez vidéos et playlists pour un visionnage hors ligne"
+        ]
+      ],
+      "a11yTitle": "Bannière de l’app",
+      "a11yClose": "Fermer la bannière de l’app",
+      "a11yIcon": "Icône de l’app",
+      "a11yShot": "Capture d’écran de l’app"
+    },
+    "gu": {
+      "eyebrow": "અમારી <span class=\"hl\">મફત</span> એપ ડાઉનલોડ કરો",
+      "appTitle": "Evervideo",
+      "hook": "તમારા iPhone પર કોઈપણ વિડિયો ફાઇલ ચલાવો",
+      "storeSmall": "ડાઉનલોડ કરો",
+      "free": "મફત",
+      "trust": "તમારા વીડિયો ગમે ત્યારે, ગમે ત્યાં જુઓ",
+      "features": [
+        [
+          "મલ્ટિમીડિયા પ્લેયર",
+          "કમ્પ્યુટર કે ક્લાઉડમાંથી કોઈપણ વિડિયો ફોર્મેટ ચલાવો"
+        ],
+        [
+          "360° વિડિયો",
+          "દરેક ખૂણેથી VR અને 360° વિડિયો જુઓ"
+        ],
+        [
+          "ઑડિયો અને વિડિયો ઇક્વલાઇઝર",
+          "પ્રીસેટ અને નિયંત્રણોથી અવાજ અને ચિત્ર સમાયોજિત કરો"
+        ],
+        [
+          "પિક્ચર-ઇન-પિક્ચર",
+          "સબટાઇટલ સાથે તરતી વિન્ડોમાં જોવાનું ચાલુ રાખો"
+        ],
+        [
+          "બુકમાર્ક",
+          "બુકમાર્ક કરો, ઝડપ બદલો અને પ્લેબૅક ફરી શરૂ કરો"
+        ],
+        [
+          "ફેરવવું અને માપ બદલવું",
+          "સ્ક્રીનમાં બંધ બેસે તે માટે વિડિયો ફેરવો અને માપ બદલો"
+        ],
+        [
+          "લાઇબ્રેરી અને પ્લેલિસ્ટ",
+          "આલ્બમ, શૈલી કે અવધિ પ્રમાણે ગોઠવો"
+        ],
+        [
+          "ઑફલાઇન મોડ",
+          "ઑફલાઇન જોવા માટે વિડિયો અને પ્લેલિસ્ટ ડાઉનલોડ કરો"
+        ]
+      ],
+      "a11yTitle": "એપ બેનર",
+      "a11yClose": "એપ બેનર બંધ કરો",
+      "a11yIcon": "એપ આઇકન",
+      "a11yShot": "એપ સ્ક્રીનશોટ"
+    },
+    "he": {
+      "dir": "rtl",
+      "eyebrow": "הורידו את האפליקציה <span class=\"hl\">החינמית</span> שלנו",
+      "appTitle": "Evervideo",
+      "hook": "נגן כל קובץ וידאו ב-iPhone שלך",
+      "storeSmall": "הורידו מ־",
+      "free": "חינם",
+      "trust": "צפו בסרטונים שלכם בכל זמן ובכל מקום",
+      "features": [
+        [
+          "נגן מולטימדיה",
+          "נגן כל פורמט וידאו מהמחשב או מהענן"
+        ],
+        [
+          "וידאו 360°",
+          "צפה בסרטוני VR ו-360° מכל זווית"
+        ],
+        [
+          "אקולייזר שמע ווידאו",
+          "כוונן צליל ותמונה בעזרת הגדרות מוכנות ובקרות"
+        ],
+        [
+          "תמונה בתוך תמונה",
+          "המשך לצפות בחלון צף עם כתוביות"
+        ],
+        [
+          "סימניות",
+          "סמן סימנייה, שנה מהירות והמשך את ההשמעה"
+        ],
+        [
+          "סיבוב וקנה מידה",
+          "סובב והתאם את הווידאו למסך שלך"
+        ],
+        [
+          "ספרייה ורשימות השמעה",
+          "ארגן לפי אלבום, ז'אנר או משך"
+        ],
+        [
+          "מצב לא מקוון",
+          "הורד סרטונים ורשימות השמעה לצפייה במצב לא מקוון"
+        ]
+      ],
+      "a11yTitle": "באנר האפליקציה",
+      "a11yClose": "סגירת באנר האפליקציה",
+      "a11yIcon": "סמל האפליקציה",
+      "a11yShot": "צילום מסך של האפליקציה"
+    },
+    "hi": {
+      "eyebrow": "हमारा <span class=\"hl\">मुफ़्त</span> ऐप डाउनलोड करें",
+      "appTitle": "Evervideo",
+      "hook": "अपने iPhone पर कोई भी वीडियो फ़ाइल चलाएँ",
+      "storeSmall": "डाउनलोड करें",
+      "free": "मुफ़्त",
+      "trust": "अपने वीडियो कभी भी, कहीं भी देखें",
+      "features": [
+        [
+          "मल्टीमीडिया प्लेयर",
+          "कंप्यूटर या क्लाउड से कोई भी वीडियो फ़ॉर्मेट चलाएँ"
+        ],
+        [
+          "360° वीडियो",
+          "हर कोण से VR और 360° वीडियो देखें"
+        ],
+        [
+          "ऑडियो और वीडियो इक्वलाइज़र",
+          "प्रीसेट और नियंत्रणों से ध्वनि और चित्र समायोजित करें"
+        ],
+        [
+          "पिक्चर-इन-पिक्चर",
+          "सबटाइटल के साथ फ़्लोटिंग विंडो में देखते रहें"
+        ],
+        [
+          "बुकमार्क",
+          "बुकमार्क करें, गति बदलें और प्लेबैक फिर से शुरू करें"
+        ],
+        [
+          "घुमाव और स्केलिंग",
+          "स्क्रीन में फ़िट करने के लिए वीडियो घुमाएँ और आकार बदलें"
+        ],
+        [
+          "लाइब्रेरी और प्लेलिस्ट",
+          "एल्बम, शैली या अवधि के अनुसार व्यवस्थित करें"
+        ],
+        [
+          "ऑफ़लाइन मोड",
+          "ऑफ़लाइन देखने के लिए वीडियो और प्लेलिस्ट डाउनलोड करें"
+        ]
+      ],
+      "a11yTitle": "ऐप बैनर",
+      "a11yClose": "ऐप बैनर बंद करें",
+      "a11yIcon": "ऐप आइकन",
+      "a11yShot": "ऐप स्क्रीनशॉट"
+    },
+    "hr": {
+      "eyebrow": "Preuzmite našu <span class=\"hl\">besplatnu</span> aplikaciju",
+      "appTitle": "Evervideo",
+      "hook": "Reproducirajte bilo koju videodatoteku na iPhoneu",
+      "storeSmall": "Preuzmite na",
+      "free": "Besplatno",
+      "trust": "Gledajte svoje videozapise bilo kad i bilo gdje",
+      "features": [
+        [
+          "Multimedijski reproduktor",
+          "Reproducirajte svaki videoformat s računala ili oblaka"
+        ],
+        [
+          "Videozapis 360°",
+          "Gledajte VR i 360° videozapise iz svakog kuta"
+        ],
+        [
+          "Ekvilizator zvuka i slike",
+          "Ugodite zvuk i sliku pomoću predložaka i kontrola"
+        ],
+        [
+          "Slika u slici",
+          "Nastavite gledati u plutajućem prozoru s titlovima"
+        ],
+        [
+          "Oznake",
+          "Označite, promijenite brzinu i nastavite reprodukciju"
+        ],
+        [
+          "Rotacija i skaliranje",
+          "Rotirajte i prilagodite videozapis svom zaslonu"
+        ],
+        [
+          "Biblioteka i playliste",
+          "Organizirajte po albumu, žanru ili trajanju"
+        ],
+        [
+          "Izvanmrežni način",
+          "Preuzmite videozapise i playliste za gledanje bez interneta"
+        ]
+      ],
+      "a11yTitle": "Banner aplikacije",
+      "a11yClose": "Zatvori banner aplikacije",
+      "a11yIcon": "Ikona aplikacije",
+      "a11yShot": "Snimka zaslona aplikacije"
+    },
+    "hu": {
+      "eyebrow": "Töltsd le <span class=\"hl\">ingyenes</span> alkalmazásunkat",
+      "appTitle": "Evervideo",
+      "hook": "Játssz le bármilyen videofájlt az iPhone-odon",
+      "storeSmall": "Töltsd le innen:",
+      "free": "Ingyenes",
+      "trust": "Nézd meg a videóidat bármikor, bárhol",
+      "features": [
+        [
+          "Multimédia-lejátszó",
+          "Játssz le bármilyen videoformátumot a gépről vagy a felhőből"
+        ],
+        [
+          "360°-os videó",
+          "Nézz VR- és 360°-os videókat minden szögből"
+        ],
+        [
+          "Hang- és képkiegyenlítő",
+          "Hangold a hangot és a képet előbeállításokkal és vezérlőkkel"
+        ],
+        [
+          "Kép a képben",
+          "Nézd tovább lebegő ablakban, felirattal"
+        ],
+        [
+          "Könyvjelzők",
+          "Jelölj könyvjelzőt, módosíts sebességet és folytasd a lejátszást"
+        ],
+        [
+          "Forgatás és méretezés",
+          "Forgasd és méretezd a videót a képernyődhöz"
+        ],
+        [
+          "Könyvtár és lejátszási listák",
+          "Rendezd album, műfaj vagy hossz szerint"
+        ],
+        [
+          "Offline mód",
+          "Tölts le videókat és lejátszási listákat offline nézéshez"
+        ]
+      ],
+      "a11yTitle": "Alkalmazásbanner",
+      "a11yClose": "Alkalmazásbanner bezárása",
+      "a11yIcon": "Alkalmazásikon",
+      "a11yShot": "Alkalmazás képernyőkép"
+    },
+    "id": {
+      "eyebrow": "Unduh aplikasi <span class=\"hl\">gratis</span> kami",
+      "appTitle": "Evervideo",
+      "hook": "Putar file video apa pun di iPhone Anda",
+      "storeSmall": "Unduh di",
+      "free": "Gratis",
+      "trust": "Tonton video Anda kapan saja, di mana saja",
+      "features": [
+        [
+          "Pemutar multimedia",
+          "Putar format video apa pun dari komputer atau cloud"
+        ],
+        [
+          "Video 360°",
+          "Tonton video VR dan 360° dari setiap sudut"
+        ],
+        [
+          "Ekualiser audio & video",
+          "Setel suara dan gambar dengan preset dan kontrol"
+        ],
+        [
+          "Picture-in-Picture",
+          "Terus menonton di jendela mengambang dengan subtitle"
+        ],
+        [
+          "Markah",
+          "Tandai, ubah kecepatan, dan lanjutkan pemutaran"
+        ],
+        [
+          "Rotasi & penskalaan",
+          "Putar dan sesuaikan video dengan layar Anda"
+        ],
+        [
+          "Pustaka & daftar putar",
+          "Atur berdasarkan album, genre, atau durasi"
+        ],
+        [
+          "Mode offline",
+          "Unduh video dan daftar putar untuk ditonton offline"
+        ]
+      ],
+      "a11yTitle": "Banner aplikasi",
+      "a11yClose": "Tutup banner aplikasi",
+      "a11yIcon": "Ikon aplikasi",
+      "a11yShot": "Tangkapan layar aplikasi"
+    },
+    "it": {
+      "eyebrow": "Scarica la nostra app <span class=\"hl\">gratuita</span>",
+      "appTitle": "Evervideo",
+      "hook": "Riproduci qualsiasi file video sul tuo iPhone",
+      "storeSmall": "Scarica su",
+      "free": "Gratis",
+      "trust": "Guarda i tuoi video sempre e ovunque",
+      "features": [
+        [
+          "Lettore multimediale",
+          "Riproduci qualsiasi formato video dal computer o dal cloud"
+        ],
+        [
+          "Video 360°",
+          "Guarda video VR e 360° da ogni angolazione"
+        ],
+        [
+          "Equalizzatore audio e video",
+          "Regola suono e immagine con preset e controlli"
+        ],
+        [
+          "Picture-in-Picture",
+          "Continua a guardare in una finestra mobile con i sottotitoli"
+        ],
+        [
+          "Segnalibri",
+          "Aggiungi segnalibri, cambia velocità e riprendi la riproduzione"
+        ],
+        [
+          "Rotazione e scala",
+          "Ruota e ridimensiona il video per adattarlo allo schermo"
+        ],
+        [
+          "Libreria e playlist",
+          "Organizza per album, genere o durata"
+        ],
+        [
+          "Modalità offline",
+          "Scarica video e playlist per guardarli offline"
+        ]
+      ],
+      "a11yTitle": "Banner dell’app",
+      "a11yClose": "Chiudi il banner dell’app",
+      "a11yIcon": "Icona dell’app",
+      "a11yShot": "Screenshot dell’app"
+    },
+    "ja": {
+      "eyebrow": "<span class=\"hl\">無料</span>アプリをダウンロード",
+      "appTitle": "Evervideo",
+      "hook": "iPhoneであらゆる動画ファイルを再生",
+      "storeSmall": "ダウンロード：",
+      "free": "無料",
+      "trust": "いつでもどこでも動画を視聴",
+      "features": [
+        [
+          "マルチメディアプレーヤー",
+          "パソコンやクラウドのあらゆる動画形式を再生"
+        ],
+        [
+          "360°動画",
+          "VRや360°動画をあらゆる角度から視聴"
+        ],
+        [
+          "オーディオ・ビデオイコライザー",
+          "プリセットとコントロールで音と映像を調整"
+        ],
+        [
+          "ピクチャ・イン・ピクチャ",
+          "字幕付きのフローティングウィンドウで視聴を継続"
+        ],
+        [
+          "ブックマーク",
+          "ブックマーク、速度変更、再生の再開"
+        ],
+        [
+          "回転とスケーリング",
+          "画面に合わせて動画を回転・拡大縮小"
+        ],
+        [
+          "ライブラリとプレイリスト",
+          "アルバム、ジャンル、再生時間で整理"
+        ],
+        [
+          "オフラインモード",
+          "動画やプレイリストをダウンロードしてオフラインで視聴"
+        ]
+      ],
+      "a11yTitle": "アプリバナー",
+      "a11yClose": "アプリバナーを閉じる",
+      "a11yIcon": "アプリアイコン",
+      "a11yShot": "アプリのスクリーンショット"
+    },
+    "kn": {
+      "eyebrow": "ನಮ್ಮ <span class=\"hl\">ಉಚಿತ</span> ಆ್ಯಪ್ ಡೌನ್‌ಲೋಡ್ ಮಾಡಿ",
+      "appTitle": "Evervideo",
+      "hook": "ನಿಮ್ಮ iPhone ನಲ್ಲಿ ಯಾವುದೇ ವೀಡಿಯೊ ಫೈಲ್ ಪ್ಲೇ ಮಾಡಿ",
+      "storeSmall": "ಡೌನ್‌ಲೋಡ್ ಮಾಡಿ",
+      "free": "ಉಚಿತ",
+      "trust": "ನಿಮ್ಮ ವೀಡಿಯೊಗಳನ್ನು ಯಾವಾಗ ಬೇಕಾದರೂ, ಎಲ್ಲಿ ಬೇಕಾದರೂ ವೀಕ್ಷಿಸಿ",
+      "features": [
+        [
+          "ಮಲ್ಟಿಮೀಡಿಯಾ ಪ್ಲೇಯರ್",
+          "ಕಂಪ್ಯೂಟರ್ ಅಥವಾ ಕ್ಲೌಡ್‌ನಿಂದ ಯಾವುದೇ ವೀಡಿಯೊ ಫಾರ್ಮ್ಯಾಟ್ ಪ್ಲೇ ಮಾಡಿ"
+        ],
+        [
+          "360° ವೀಡಿಯೊ",
+          "ಪ್ರತಿ ಕೋನದಿಂದ VR ಮತ್ತು 360° ವೀಡಿಯೊ ವೀಕ್ಷಿಸಿ"
+        ],
+        [
+          "ಆಡಿಯೊ ಮತ್ತು ವೀಡಿಯೊ ಈಕ್ವಲೈಜರ್",
+          "ಪ್ರಿಸೆಟ್ ಮತ್ತು ನಿಯಂತ್ರಣಗಳೊಂದಿಗೆ ಧ್ವನಿ ಮತ್ತು ಚಿತ್ರ ಹೊಂದಿಸಿ"
+        ],
+        [
+          "ಪಿಕ್ಚರ್-ಇನ್-ಪಿಕ್ಚರ್",
+          "ಉಪಶೀರ್ಷಿಕೆಗಳೊಂದಿಗೆ ತೇಲುವ ವಿಂಡೋದಲ್ಲಿ ನೋಡುತ್ತಿರಿ"
+        ],
+        [
+          "ಬುಕ್‌ಮಾರ್ಕ್‌ಗಳು",
+          "ಬುಕ್‌ಮಾರ್ಕ್ ಮಾಡಿ, ವೇಗ ಬದಲಿಸಿ ಮತ್ತು ಪ್ಲೇಬ್ಯಾಕ್ ಮುಂದುವರಿಸಿ"
+        ],
+        [
+          "ತಿರುಗಿಸುವಿಕೆ ಮತ್ತು ಸ್ಕೇಲಿಂಗ್",
+          "ನಿಮ್ಮ ಪರದೆಗೆ ಹೊಂದುವಂತೆ ವೀಡಿಯೊ ತಿರುಗಿಸಿ ಮತ್ತು ಗಾತ್ರ ಬದಲಿಸಿ"
+        ],
+        [
+          "ಲೈಬ್ರರಿ ಮತ್ತು ಪ್ಲೇಲಿಸ್ಟ್‌ಗಳು",
+          "ಆಲ್ಬಂ, ಪ್ರಕಾರ ಅಥವಾ ಅವಧಿಯ ಪ್ರಕಾರ ಸಂಘಟಿಸಿ"
+        ],
+        [
+          "ಆಫ್‌ಲೈನ್ ಮೋಡ್",
+          "ಆಫ್‌ಲೈನ್ ವೀಕ್ಷಣೆಗಾಗಿ ವೀಡಿಯೊ ಮತ್ತು ಪ್ಲೇಲಿಸ್ಟ್ ಡೌನ್‌ಲೋಡ್ ಮಾಡಿ"
+        ]
+      ],
+      "a11yTitle": "ಆ್ಯಪ್ ಬ್ಯಾನರ್",
+      "a11yClose": "ಆ್ಯಪ್ ಬ್ಯಾನರ್ ಮುಚ್ಚಿ",
+      "a11yIcon": "ಆ್ಯಪ್ ಐಕಾನ್",
+      "a11yShot": "ಆ್ಯಪ್ ಸ್ಕ್ರೀನ್‌ಶಾಟ್"
+    },
+    "ko": {
+      "eyebrow": "<span class=\"hl\">무료</span> 앱을 다운로드하세요",
+      "appTitle": "Evervideo",
+      "hook": "iPhone에서 모든 동영상 파일 재생",
+      "storeSmall": "다운로드:",
+      "free": "무료",
+      "trust": "언제 어디서나 동영상을 감상하세요",
+      "features": [
+        [
+          "멀티미디어 플레이어",
+          "컴퓨터나 클라우드의 모든 동영상 형식 재생"
+        ],
+        [
+          "360° 동영상",
+          "VR과 360° 동영상을 모든 각도에서 시청"
+        ],
+        [
+          "오디오 및 비디오 이퀄라이저",
+          "프리셋과 컨트롤로 소리와 화면 조정"
+        ],
+        [
+          "픽처 인 픽처",
+          "자막과 함께 떠 있는 창에서 계속 시청"
+        ],
+        [
+          "북마크",
+          "북마크, 속도 변경, 재생 이어보기"
+        ],
+        [
+          "회전 및 크기 조정",
+          "화면에 맞게 동영상을 회전하고 크기 조정"
+        ],
+        [
+          "라이브러리 및 재생목록",
+          "앨범, 장르 또는 길이별로 정리"
+        ],
+        [
+          "오프라인 모드",
+          "동영상과 재생목록을 다운로드해 오프라인으로 시청"
+        ]
+      ],
+      "a11yTitle": "앱 배너",
+      "a11yClose": "앱 배너 닫기",
+      "a11yIcon": "앱 아이콘",
+      "a11yShot": "앱 스크린샷"
+    },
+    "ml": {
+      "eyebrow": "ഞങ്ങളുടെ <span class=\"hl\">സൗജന്യ</span> ആപ്പ് ഡൗൺലോഡ് ചെയ്യൂ",
+      "appTitle": "Evervideo",
+      "hook": "നിങ്ങളുടെ iPhone-ൽ ഏത് വീഡിയോ ഫയലും പ്ലേ ചെയ്യൂ",
+      "storeSmall": "ഡൗൺലോഡ് ചെയ്യൂ",
+      "free": "സൗജന്യം",
+      "trust": "നിങ്ങളുടെ വീഡിയോകൾ എപ്പോൾ വേണമെങ്കിലും, എവിടെ വേണമെങ്കിലും കാണൂ",
+      "features": [
+        [
+          "മൾട്ടിമീഡിയ പ്ലേയർ",
+          "കമ്പ്യൂട്ടറിൽ നിന്നോ ക്ലൗഡിൽ നിന്നോ ഏത് വീഡിയോ ഫോർമാറ്റും പ്ലേ ചെയ്യൂ"
+        ],
+        [
+          "360° വീഡിയോ",
+          "എല്ലാ കോണിൽ നിന്നും VR, 360° വീഡിയോകൾ കാണൂ"
+        ],
+        [
+          "ഓഡിയോ & വീഡിയോ ഇക്വലൈസർ",
+          "പ്രീസെറ്റുകളും നിയന്ത്രണങ്ങളും ഉപയോഗിച്ച് ശബ്ദവും ചിത്രവും ക്രമീകരിക്കൂ"
+        ],
+        [
+          "പിക്ചർ-ഇൻ-പിക്ചർ",
+          "സബ്ടൈറ്റിലുകളോടെ ഒഴുകുന്ന വിൻഡോയിൽ കാണൽ തുടരൂ"
+        ],
+        [
+          "ബുക്ക്‌മാർക്കുകൾ",
+          "ബുക്ക്‌മാർക്ക് ചെയ്യൂ, വേഗത മാറ്റൂ, പ്ലേബാക്ക് പുനരാരംഭിക്കൂ"
+        ],
+        [
+          "തിരിക്കലും വലുപ്പമാറ്റവും",
+          "സ്ക്രീനിന് അനുയോജ്യമായി വീഡിയോ തിരിക്കൂ, വലുപ്പം മാറ്റൂ"
+        ],
+        [
+          "ലൈബ്രറിയും പ്ലേലിസ്റ്റുകളും",
+          "ആൽബം, വിഭാഗം അല്ലെങ്കിൽ ദൈർഘ്യം അനുസരിച്ച് ക്രമീകരിക്കൂ"
+        ],
+        [
+          "ഓഫ്‌ലൈൻ മോഡ്",
+          "ഓഫ്‌ലൈനായി കാണാൻ വീഡിയോകളും പ്ലേലിസ്റ്റുകളും ഡൗൺലോഡ് ചെയ്യൂ"
+        ]
+      ],
+      "a11yTitle": "ആപ്പ് ബാനർ",
+      "a11yClose": "ആപ്പ് ബാനർ അടയ്ക്കുക",
+      "a11yIcon": "ആപ്പ് ഐക്കൺ",
+      "a11yShot": "ആപ്പ് സ്ക്രീൻഷോട്ട്"
+    },
+    "mr": {
+      "eyebrow": "आमचे <span class=\"hl\">मोफत</span> अ‍ॅप डाउनलोड करा",
+      "appTitle": "Evervideo",
+      "hook": "तुमच्या iPhone वर कोणतीही व्हिडिओ फाइल प्ले करा",
+      "storeSmall": "डाउनलोड करा",
+      "free": "मोफत",
+      "trust": "तुमचे व्हिडिओ कधीही, कुठेही पाहा",
+      "features": [
+        [
+          "मल्टिमीडिया प्लेयर",
+          "संगणक किंवा क्लाउडवरील कोणतेही व्हिडिओ फॉरमॅट प्ले करा"
+        ],
+        [
+          "360° व्हिडिओ",
+          "प्रत्येक कोनातून VR आणि 360° व्हिडिओ पाहा"
+        ],
+        [
+          "ऑडिओ आणि व्हिडिओ इक्वलायझर",
+          "प्रीसेट आणि नियंत्रणांसह आवाज आणि चित्र जुळवा"
+        ],
+        [
+          "पिक्चर-इन-पिक्चर",
+          "सबटायटलसह तरंगत्या विंडोमध्ये पाहणे सुरू ठेवा"
+        ],
+        [
+          "बुकमार्क",
+          "बुकमार्क करा, वेग बदला आणि प्लेबॅक पुन्हा सुरू करा"
+        ],
+        [
+          "फिरवणे आणि आकार बदलणे",
+          "स्क्रीनमध्ये बसण्यासाठी व्हिडिओ फिरवा आणि आकार बदला"
+        ],
+        [
+          "लायब्ररी आणि प्लेलिस्ट",
+          "अल्बम, शैली किंवा कालावधीनुसार व्यवस्थित करा"
+        ],
+        [
+          "ऑफलाइन मोड",
+          "ऑफलाइन पाहण्यासाठी व्हिडिओ आणि प्लेलिस्ट डाउनलोड करा"
+        ]
+      ],
+      "a11yTitle": "अ‍ॅप बॅनर",
+      "a11yClose": "अ‍ॅप बॅनर बंद करा",
+      "a11yIcon": "अ‍ॅप आयकॉन",
+      "a11yShot": "अ‍ॅप स्क्रीनशॉट"
+    },
+    "ms": {
+      "eyebrow": "Muat turun apl <span class=\"hl\">percuma</span> kami",
+      "appTitle": "Evervideo",
+      "hook": "Mainkan mana-mana fail video pada iPhone anda",
+      "storeSmall": "Muat turun di",
+      "free": "Percuma",
+      "trust": "Tonton video anda bila-bila masa, di mana-mana",
+      "features": [
+        [
+          "Pemain multimedia",
+          "Mainkan sebarang format video dari komputer atau awan"
+        ],
+        [
+          "Video 360°",
+          "Tonton video VR dan 360° dari setiap sudut"
+        ],
+        [
+          "Penyama audio & video",
+          "Laraskan bunyi dan gambar dengan pratetap dan kawalan"
+        ],
+        [
+          "Gambar-dalam-Gambar",
+          "Terus menonton dalam tetingkap terapung dengan sari kata"
+        ],
+        [
+          "Penanda buku",
+          "Tanda buku, tukar kelajuan dan sambung semula main balik"
+        ],
+        [
+          "Putaran & penskalaan",
+          "Putar dan skala video agar muat pada skrin anda"
+        ],
+        [
+          "Pustaka & senarai main",
+          "Susun mengikut album, genre atau tempoh"
+        ],
+        [
+          "Mod luar talian",
+          "Muat turun video dan senarai main untuk tontonan luar talian"
+        ]
+      ],
+      "a11yTitle": "Sepanduk apl",
+      "a11yClose": "Tutup sepanduk apl",
+      "a11yIcon": "Ikon apl",
+      "a11yShot": "Tangkapan skrin apl"
+    },
+    "nb": {
+      "eyebrow": "Last ned vår <span class=\"hl\">gratis</span> app",
+      "appTitle": "Evervideo",
+      "hook": "Spill av alle videofiler på iPhone",
+      "storeSmall": "Last ned på",
+      "free": "Gratis",
+      "trust": "Se videoene dine når som helst, hvor som helst",
+      "features": [
+        [
+          "Multimedieavspiller",
+          "Spill av alle videoformater fra datamaskinen eller skyen"
+        ],
+        [
+          "360°-video",
+          "Se VR- og 360°-videoer fra alle vinkler"
+        ],
+        [
+          "Lyd- og videoutjevner",
+          "Juster lyd og bilde med forhåndsinnstillinger og kontroller"
+        ],
+        [
+          "Bilde-i-bilde",
+          "Fortsett å se i et flytende vindu med undertekster"
+        ],
+        [
+          "Bokmerker",
+          "Bokmerk, endre hastighet og fortsett avspillingen"
+        ],
+        [
+          "Rotasjon og skalering",
+          "Roter og skaler videoen så den passer skjermen"
+        ],
+        [
+          "Bibliotek og spillelister",
+          "Organiser etter album, sjanger eller varighet"
+        ],
+        [
+          "Frakoblet modus",
+          "Last ned videoer og spillelister for å se frakoblet"
+        ]
+      ],
+      "a11yTitle": "App-banner",
+      "a11yClose": "Lukk app-banner",
+      "a11yIcon": "App-ikon",
+      "a11yShot": "App-skjermbilde"
+    },
+    "nl": {
+      "eyebrow": "Download onze <span class=\"hl\">gratis</span> app",
+      "appTitle": "Evervideo",
+      "hook": "Speel elk videobestand af op je iPhone",
+      "storeSmall": "Downloaden in de",
+      "free": "Gratis",
+      "trust": "Bekijk je video’s altijd en overal",
+      "features": [
+        [
+          "Multimediaspeler",
+          "Speel elk videoformaat af vanaf je computer of de cloud"
+        ],
+        [
+          "360°-video",
+          "Bekijk VR- en 360°-video's vanuit elke hoek"
+        ],
+        [
+          "Audio- en video-equalizer",
+          "Stem geluid en beeld af met presets en regelaars"
+        ],
+        [
+          "Beeld-in-beeld",
+          "Blijf kijken in een zwevend venster met ondertitels"
+        ],
+        [
+          "Bladwijzers",
+          "Voeg bladwijzers toe, wijzig snelheid en hervat het afspelen"
+        ],
+        [
+          "Draaien en schalen",
+          "Draai en schaal video passend voor je scherm"
+        ],
+        [
+          "Bibliotheek en afspeellijsten",
+          "Ordenen op album, genre of duur"
+        ],
+        [
+          "Offlinemodus",
+          "Download video's en afspeellijsten om offline te bekijken"
+        ]
+      ],
+      "a11yTitle": "App-banner",
+      "a11yClose": "App-banner sluiten",
+      "a11yIcon": "App-pictogram",
+      "a11yShot": "App-schermafbeelding"
+    },
+    "or": {
+      "eyebrow": "ଆମର <span class=\"hl\">ମାଗଣା</span> ଆପ୍ ଡାଉନଲୋଡ୍ କରନ୍ତୁ",
+      "appTitle": "Evervideo",
+      "hook": "ଆପଣଙ୍କ iPhone ରେ ଯେକୌଣସି ଭିଡିଓ ଫାଇଲ ଚଲାନ୍ତୁ",
+      "storeSmall": "ଡାଉନଲୋଡ୍ କରନ୍ତୁ",
+      "free": "ମାଗଣା",
+      "trust": "ଆପଣଙ୍କ ଭିଡିଓ ଯେକୌଣସି ସମୟରେ, ଯେକୌଣସି ସ୍ଥାନରେ ଦେଖନ୍ତୁ",
+      "features": [
+        [
+          "ମଲ୍ଟିମିଡିଆ ପ୍ଲେୟାର",
+          "କମ୍ପ୍ୟୁଟର କିମ୍ବା କ୍ଲାଉଡରୁ ଯେକୌଣସି ଭିଡିଓ ଫର୍ମାଟ ଚଲାନ୍ତୁ"
+        ],
+        [
+          "360° ଭିଡିଓ",
+          "ପ୍ରତ୍ୟେକ କୋଣରୁ VR ଓ 360° ଭିଡିଓ ଦେଖନ୍ତୁ"
+        ],
+        [
+          "ଅଡିଓ ଓ ଭିଡିଓ ଇକ୍ୱାଲାଇଜର",
+          "ପ୍ରିସେଟ ଓ ନିୟନ୍ତ୍ରଣ ସହିତ ଶବ୍ଦ ଓ ଚିତ୍ର ମେଳାନ୍ତୁ"
+        ],
+        [
+          "ପିକଚର-ଇନ-ପିକଚର",
+          "ସବଟାଇଟଲ ସହିତ ଭାସମାନ ୱିଣ୍ଡୋରେ ଦେଖିବା ଜାରି ରଖନ୍ତୁ"
+        ],
+        [
+          "ବୁକମାର୍କ",
+          "ବୁକମାର୍କ କରନ୍ତୁ, ଗତି ବଦଳାନ୍ତୁ ଓ ପ୍ଲେବ୍ୟାକ ପୁଣି ଆରମ୍ଭ କରନ୍ତୁ"
+        ],
+        [
+          "ଘୁରାଇବା ଓ ସ୍କେଲିଂ",
+          "ସ୍କ୍ରିନରେ ଫିଟ ହେବା ପାଇଁ ଭିଡିଓ ଘୁରାନ୍ତୁ ଓ ଆକାର ବଦଳାନ୍ତୁ"
+        ],
+        [
+          "ଲାଇବ୍ରେରୀ ଓ ପ୍ଲେଲିଷ୍ଟ",
+          "ଆଲବମ, ଧାରା କିମ୍ବା ଅବଧି ଅନୁଯାୟୀ ସଜାନ୍ତୁ"
+        ],
+        [
+          "ଅଫଲାଇନ ମୋଡ୍",
+          "ଅଫଲାଇନରେ ଦେଖିବା ପାଇଁ ଭିଡିଓ ଓ ପ୍ଲେଲିଷ୍ଟ ଡାଉନଲୋଡ କରନ୍ତୁ"
+        ]
+      ],
+      "a11yTitle": "ଆପ୍ ବ୍ୟାନର୍",
+      "a11yClose": "ଆପ୍ ବ୍ୟାନର୍ ବନ୍ଦ କରନ୍ତୁ",
+      "a11yIcon": "ଆପ୍ ଆଇକନ୍",
+      "a11yShot": "ଆପ୍ ସ୍କ୍ରିନ୍‌ସଟ୍"
+    },
+    "pa": {
+      "eyebrow": "ਸਾਡੀ <span class=\"hl\">ਮੁਫ਼ਤ</span> ਐਪ ਡਾਊਨਲੋਡ ਕਰੋ",
+      "appTitle": "Evervideo",
+      "hook": "ਆਪਣੇ iPhone 'ਤੇ ਕੋਈ ਵੀ ਵੀਡੀਓ ਫਾਈਲ ਚਲਾਓ",
+      "storeSmall": "ਡਾਊਨਲੋਡ ਕਰੋ",
+      "free": "ਮੁਫ਼ਤ",
+      "trust": "ਆਪਣੇ ਵੀਡੀਓ ਕਿਸੇ ਵੀ ਸਮੇਂ, ਕਿਤੇ ਵੀ ਦੇਖੋ",
+      "features": [
+        [
+          "ਮਲਟੀਮੀਡੀਆ ਪਲੇਅਰ",
+          "ਕੰਪਿਊਟਰ ਜਾਂ ਕਲਾਊਡ ਤੋਂ ਕੋਈ ਵੀ ਵੀਡੀਓ ਫਾਰਮੈਟ ਚਲਾਓ"
+        ],
+        [
+          "360° ਵੀਡੀਓ",
+          "ਹਰ ਕੋਣ ਤੋਂ VR ਅਤੇ 360° ਵੀਡੀਓ ਵੇਖੋ"
+        ],
+        [
+          "ਆਡੀਓ ਅਤੇ ਵੀਡੀਓ ਇਕੁਅਲਾਈਜ਼ਰ",
+          "ਪ੍ਰੀਸੈੱਟ ਅਤੇ ਕੰਟਰੋਲਾਂ ਨਾਲ ਆਵਾਜ਼ ਅਤੇ ਤਸਵੀਰ ਮਿਲਾਓ"
+        ],
+        [
+          "ਪਿਕਚਰ-ਇਨ-ਪਿਕਚਰ",
+          "ਸਬਟਾਈਟਲਾਂ ਨਾਲ ਤੈਰਦੀ ਵਿੰਡੋ ਵਿੱਚ ਵੇਖਦੇ ਰਹੋ"
+        ],
+        [
+          "ਬੁੱਕਮਾਰਕ",
+          "ਬੁੱਕਮਾਰਕ ਕਰੋ, ਗਤੀ ਬਦਲੋ ਅਤੇ ਪਲੇਬੈਕ ਮੁੜ ਸ਼ੁਰੂ ਕਰੋ"
+        ],
+        [
+          "ਘੁਮਾਉਣਾ ਅਤੇ ਸਕੇਲਿੰਗ",
+          "ਸਕ੍ਰੀਨ 'ਤੇ ਫਿੱਟ ਕਰਨ ਲਈ ਵੀਡੀਓ ਘੁਮਾਓ ਅਤੇ ਆਕਾਰ ਬਦਲੋ"
+        ],
+        [
+          "ਲਾਇਬ੍ਰੇਰੀ ਅਤੇ ਪਲੇਲਿਸਟ",
+          "ਐਲਬਮ, ਸ਼ੈਲੀ ਜਾਂ ਮਿਆਦ ਅਨੁਸਾਰ ਸੰਗਠਿਤ ਕਰੋ"
+        ],
+        [
+          "ਆਫਲਾਈਨ ਮੋਡ",
+          "ਆਫਲਾਈਨ ਵੇਖਣ ਲਈ ਵੀਡੀਓ ਅਤੇ ਪਲੇਲਿਸਟ ਡਾਊਨਲੋਡ ਕਰੋ"
+        ]
+      ],
+      "a11yTitle": "ਐਪ ਬੈਨਰ",
+      "a11yClose": "ਐਪ ਬੈਨਰ ਬੰਦ ਕਰੋ",
+      "a11yIcon": "ਐਪ ਆਈਕਨ",
+      "a11yShot": "ਐਪ ਸਕ੍ਰੀਨਸ਼ਾਟ"
+    },
+    "pl": {
+      "eyebrow": "Pobierz naszą <span class=\"hl\">darmową</span> aplikację",
+      "appTitle": "Evervideo",
+      "hook": "Odtwarzaj dowolny plik wideo na iPhonie",
+      "storeSmall": "Pobierz z",
+      "free": "Za darmo",
+      "trust": "Oglądaj swoje filmy zawsze i wszędzie",
+      "features": [
+        [
+          "Odtwarzacz multimedialny",
+          "Odtwarzaj dowolny format wideo z komputera lub chmury"
+        ],
+        [
+          "Wideo 360°",
+          "Oglądaj filmy VR i 360° z każdej strony"
+        ],
+        [
+          "Korektor dźwięku i obrazu",
+          "Dostrój dźwięk i obraz za pomocą presetów i regulacji"
+        ],
+        [
+          "Obraz w obrazie",
+          "Oglądaj dalej w pływającym oknie z napisami"
+        ],
+        [
+          "Zakładki",
+          "Dodawaj zakładki, zmieniaj prędkość i wznawiaj odtwarzanie"
+        ],
+        [
+          "Obrót i skalowanie",
+          "Obracaj i skaluj wideo, aby dopasować do ekranu"
+        ],
+        [
+          "Biblioteka i playlisty",
+          "Porządkuj według albumu, gatunku lub czasu"
+        ],
+        [
+          "Tryb offline",
+          "Pobieraj filmy i playlisty do oglądania offline"
+        ]
+      ],
+      "a11yTitle": "Baner aplikacji",
+      "a11yClose": "Zamknij baner aplikacji",
+      "a11yIcon": "Ikona aplikacji",
+      "a11yShot": "Zrzut ekranu aplikacji"
+    },
+    "pt": {
+      "eyebrow": "Baixe nosso app <span class=\"hl\">grátis</span>",
+      "appTitle": "Evervideo",
+      "hook": "Reproduza qualquer arquivo de vídeo no seu iPhone",
+      "storeSmall": "Baixe na",
+      "free": "Grátis",
+      "trust": "Assista aos seus vídeos a qualquer hora, em qualquer lugar",
+      "features": [
+        [
+          "Reprodutor multimídia",
+          "Reproduza qualquer formato de vídeo do computador ou da nuvem"
+        ],
+        [
+          "Vídeo 360°",
+          "Assista a vídeos VR e 360° de todos os ângulos"
+        ],
+        [
+          "Equalizador de áudio e vídeo",
+          "Ajuste som e imagem com predefinições e controles"
+        ],
+        [
+          "Picture-in-Picture",
+          "Continue assistindo em uma janela flutuante com legendas"
+        ],
+        [
+          "Marcadores",
+          "Marque, mude a velocidade e retome a reprodução"
+        ],
+        [
+          "Rotação e escala",
+          "Gire e ajuste o vídeo para caber na sua tela"
+        ],
+        [
+          "Biblioteca e playlists",
+          "Organize por álbum, gênero ou duração"
+        ],
+        [
+          "Modo offline",
+          "Baixe vídeos e playlists para assistir offline"
+        ]
+      ],
+      "a11yTitle": "Banner do app",
+      "a11yClose": "Fechar banner do app",
+      "a11yIcon": "Ícone do app",
+      "a11yShot": "Captura de tela do app"
+    },
+    "ro": {
+      "eyebrow": "Descarcă aplicația noastră <span class=\"hl\">gratuită</span>",
+      "appTitle": "Evervideo",
+      "hook": "Redă orice fișier video pe iPhone",
+      "storeSmall": "Descarcă din",
+      "free": "Gratuit",
+      "trust": "Vizionează-ți videoclipurile oricând, oriunde",
+      "features": [
+        [
+          "Player multimedia",
+          "Redă orice format video de pe computer sau din cloud"
+        ],
+        [
+          "Video 360°",
+          "Vizionează videoclipuri VR și 360° din orice unghi"
+        ],
+        [
+          "Egalizator audio și video",
+          "Reglează sunetul și imaginea cu presetări și comenzi"
+        ],
+        [
+          "Imagine în imagine",
+          "Continuă vizionarea într-o fereastră flotantă cu subtitrări"
+        ],
+        [
+          "Marcaje",
+          "Marchează, schimbă viteza și reia redarea"
+        ],
+        [
+          "Rotire și scalare",
+          "Rotește și scalează videoclipul pentru a se potrivi pe ecran"
+        ],
+        [
+          "Bibliotecă și playlisturi",
+          "Organizează după album, gen sau durată"
+        ],
+        [
+          "Mod offline",
+          "Descarcă videoclipuri și playlisturi pentru vizionare offline"
+        ]
+      ],
+      "a11yTitle": "Banner aplicație",
+      "a11yClose": "Închide bannerul aplicației",
+      "a11yIcon": "Pictogramă aplicație",
+      "a11yShot": "Captură de ecran aplicație"
+    },
+    "ru": {
+      "eyebrow": "Скачайте наше <span class=\"hl\">бесплатное</span> приложение",
+      "appTitle": "Evervideo",
+      "hook": "Воспроизводите любой видеофайл на iPhone",
+      "storeSmall": "Загрузите в",
+      "free": "Бесплатно",
+      "trust": "Смотрите свои видео в любое время и в любом месте",
+      "features": [
+        [
+          "Мультимедийный плеер",
+          "Воспроизводите любой видеоформат с компьютера или из облака"
+        ],
+        [
+          "Видео 360°",
+          "Смотрите VR- и 360°-видео с любого угла"
+        ],
+        [
+          "Эквалайзер звука и видео",
+          "Настраивайте звук и изображение с помощью пресетов и регуляторов"
+        ],
+        [
+          "Картинка в картинке",
+          "Продолжайте смотреть в плавающем окне с субтитрами"
+        ],
+        [
+          "Закладки",
+          "Добавляйте закладки, меняйте скорость и продолжайте воспроизведение"
+        ],
+        [
+          "Поворот и масштаб",
+          "Поворачивайте и масштабируйте видео под ваш экран"
+        ],
+        [
+          "Библиотека и плейлисты",
+          "Сортируйте по альбому, жанру или длительности"
+        ],
+        [
+          "Офлайн-режим",
+          "Скачивайте видео и плейлисты для просмотра офлайн"
+        ]
+      ],
+      "a11yTitle": "Баннер приложения",
+      "a11yClose": "Закрыть баннер приложения",
+      "a11yIcon": "Значок приложения",
+      "a11yShot": "Скриншот приложения"
+    },
+    "sk": {
+      "eyebrow": "Stiahnite si našu <span class=\"hl\">bezplatnú</span> aplikáciu",
+      "appTitle": "Evervideo",
+      "hook": "Prehrajte akýkoľvek video súbor na iPhone",
+      "storeSmall": "Stiahnuť z",
+      "free": "Zadarmo",
+      "trust": "Sledujte svoje videá kedykoľvek a kdekoľvek",
+      "features": [
+        [
+          "Multimediálny prehrávač",
+          "Prehrajte akýkoľvek formát videa z počítača alebo cloudu"
+        ],
+        [
+          "360° video",
+          "Pozerajte VR a 360° videá z každého uhla"
+        ],
+        [
+          "Ekvalizér zvuku a obrazu",
+          "Vylaďte zvuk a obraz pomocou predvolieb a ovládačov"
+        ],
+        [
+          "Obraz v obraze",
+          "Pozerajte ďalej v plávajúcom okne s titulkami"
+        ],
+        [
+          "Záložky",
+          "Pridajte záložku, zmeňte rýchlosť a pokračujte v prehrávaní"
+        ],
+        [
+          "Otočenie a mierka",
+          "Otočte a prispôsobte video svojej obrazovke"
+        ],
+        [
+          "Knižnica a playlisty",
+          "Usporiadajte podľa albumu, žánru alebo dĺžky"
+        ],
+        [
+          "Offline režim",
+          "Stiahnite videá a playlisty na sledovanie offline"
+        ]
+      ],
+      "a11yTitle": "Banner aplikácie",
+      "a11yClose": "Zavrieť banner aplikácie",
+      "a11yIcon": "Ikona aplikácie",
+      "a11yShot": "Snímka aplikácie"
+    },
+    "sl": {
+      "eyebrow": "Prenesite našo <span class=\"hl\">brezplačno</span> aplikacijo",
+      "appTitle": "Evervideo",
+      "hook": "Predvajajte katero koli videodatoteko na iPhonu",
+      "storeSmall": "Prenesite v",
+      "free": "Brezplačno",
+      "trust": "Glejte svoje videoposnetke kadar koli in kjer koli",
+      "features": [
+        [
+          "Predvajalnik večpredstavnosti",
+          "Predvajajte kateri koli videoformat iz računalnika ali oblaka"
+        ],
+        [
+          "Video 360°",
+          "Glejte videe VR in 360° iz vseh kotov"
+        ],
+        [
+          "Izenačevalnik zvoka in slike",
+          "Prilagodite zvok in sliko s prednastavitvami in kontrolami"
+        ],
+        [
+          "Slika v sliki",
+          "Nadaljujte gledanje v plavajočem oknu s podnapisi"
+        ],
+        [
+          "Zaznamki",
+          "Označite, spremenite hitrost in nadaljujte predvajanje"
+        ],
+        [
+          "Vrtenje in prilagajanje",
+          "Zavrtite in prilagodite video svojemu zaslonu"
+        ],
+        [
+          "Knjižnica in seznami predvajanja",
+          "Uredite po albumu, žanru ali trajanju"
+        ],
+        [
+          "Način brez povezave",
+          "Prenesite videe in sezname predvajanja za gledanje brez povezave"
+        ]
+      ],
+      "a11yTitle": "Pasica aplikacije",
+      "a11yClose": "Zapri pasico aplikacije",
+      "a11yIcon": "Ikona aplikacije",
+      "a11yShot": "Posnetek zaslona aplikacije"
+    },
+    "sv": {
+      "eyebrow": "Ladda ner vår <span class=\"hl\">gratis</span> app",
+      "appTitle": "Evervideo",
+      "hook": "Spela upp valfri videofil på din iPhone",
+      "storeSmall": "Ladda ner på",
+      "free": "Gratis",
+      "trust": "Se dina videor när och var du vill",
+      "features": [
+        [
+          "Multimediaspelare",
+          "Spela upp valfritt videoformat från datorn eller molnet"
+        ],
+        [
+          "360°-video",
+          "Titta på VR- och 360°-videor från alla vinklar"
+        ],
+        [
+          "Ljud- och videoequalizer",
+          "Finjustera ljud och bild med förinställningar och kontroller"
+        ],
+        [
+          "Bild-i-bild",
+          "Fortsätt titta i ett flytande fönster med undertexter"
+        ],
+        [
+          "Bokmärken",
+          "Bokmärk, ändra hastighet och återuppta uppspelningen"
+        ],
+        [
+          "Rotation och skalning",
+          "Rotera och skala videon så att den passar din skärm"
+        ],
+        [
+          "Bibliotek och spellistor",
+          "Ordna efter album, genre eller längd"
+        ],
+        [
+          "Offlineläge",
+          "Ladda ner videor och spellistor för att titta offline"
+        ]
+      ],
+      "a11yTitle": "Appbanner",
+      "a11yClose": "Stäng appbanner",
+      "a11yIcon": "Appikon",
+      "a11yShot": "App-skärmbild"
+    },
+    "ta": {
+      "eyebrow": "எங்கள் <span class=\"hl\">இலவச</span> ஆப்பைப் பதிவிறக்குங்கள்",
+      "appTitle": "Evervideo",
+      "hook": "உங்கள் iPhone-ல் எந்த வீடியோ கோப்பையும் இயக்குங்கள்",
+      "storeSmall": "பதிவிறக்குங்கள்",
+      "free": "இலவசம்",
+      "trust": "உங்கள் வீடியோக்களை எப்போது வேண்டுமானாலும், எங்கு வேண்டுமானாலும் பார்க்கவும்",
+      "features": [
+        [
+          "மல்டிமீடியா பிளேயர்",
+          "கணினி அல்லது கிளவுட்டிலிருந்து எந்த வீடியோ வடிவமைப்பையும் இயக்குங்கள்"
+        ],
+        [
+          "360° வீடியோ",
+          "ஒவ்வொரு கோணத்திலிருந்தும் VR மற்றும் 360° வீடியோக்களைப் பாருங்கள்"
+        ],
+        [
+          "ஆடியோ & வீடியோ ஈக்வலைசர்",
+          "முன்னமைவுகள் மற்றும் கட்டுப்பாடுகளுடன் ஒலி மற்றும் படத்தை சரிசெய்யுங்கள்"
+        ],
+        [
+          "பிக்சர்-இன்-பிக்சர்",
+          "வசன வரிகளுடன் மிதக்கும் சாளரத்தில் தொடர்ந்து பாருங்கள்"
+        ],
+        [
+          "புக்மார்க்குகள்",
+          "புக்மார்க் செய்யுங்கள், வேகத்தை மாற்றுங்கள், இயக்கத்தை மீண்டும் தொடங்குங்கள்"
+        ],
+        [
+          "சுழற்சி & அளவிடல்",
+          "திரைக்கு ஏற்ப வீடியோவைச் சுழற்றி அளவை மாற்றுங்கள்"
+        ],
+        [
+          "நூலகம் & பிளேலிஸ்ட்கள்",
+          "ஆல்பம், வகை அல்லது கால அளவின்படி ஒழுங்கமைக்கவும்"
+        ],
+        [
+          "ஆஃப்லைன் பயன்முறை",
+          "ஆஃப்லைனில் பார்க்க வீடியோக்களையும் பிளேலிஸ்ட்களையும் பதிவிறக்குங்கள்"
+        ]
+      ],
+      "a11yTitle": "ஆப் பேனர்",
+      "a11yClose": "ஆப் பேனரை மூடு",
+      "a11yIcon": "ஆப் ஐகான்",
+      "a11yShot": "ஆப் ஸ்கிரீன்ஷாட்"
+    },
+    "te": {
+      "eyebrow": "మా <span class=\"hl\">ఉచిత</span> యాప్‌ను డౌన్‌లోడ్ చేయండి",
+      "appTitle": "Evervideo",
+      "hook": "మీ iPhone లో ఏ వీడియో ఫైల్‌నైనా ప్లే చేయండి",
+      "storeSmall": "డౌన్‌లోడ్ చేయండి",
+      "free": "ఉచితం",
+      "trust": "మీ వీడియోలను ఎప్పుడైనా, ఎక్కడైనా చూడండి",
+      "features": [
+        [
+          "మల్టీమీడియా ప్లేయర్",
+          "కంప్యూటర్ లేదా క్లౌడ్ నుండి ఏ వీడియో ఫార్మాట్‌నైనా ప్లే చేయండి"
+        ],
+        [
+          "360° వీడియో",
+          "ప్రతి కోణం నుండి VR మరియు 360° వీడియోలను చూడండి"
+        ],
+        [
+          "ఆడియో & వీడియో ఈక్వలైజర్",
+          "ప్రీసెట్‌లు మరియు నియంత్రణలతో శబ్దం మరియు చిత్రాన్ని సర్దుబాటు చేయండి"
+        ],
+        [
+          "పిక్చర్-ఇన్-పిక్చర్",
+          "సబ్‌టైటిల్స్‌తో తేలియాడే విండోలో చూస్తూ ఉండండి"
+        ],
+        [
+          "బుక్‌మార్క్‌లు",
+          "బుక్‌మార్క్ చేయండి, వేగం మార్చండి మరియు ప్లేబ్యాక్ కొనసాగించండి"
+        ],
+        [
+          "తిప్పడం & స్కేలింగ్",
+          "మీ స్క్రీన్‌కు సరిపోయేలా వీడియోను తిప్పండి మరియు స్కేల్ చేయండి"
+        ],
+        [
+          "లైబ్రరీ & ప్లేలిస్ట్‌లు",
+          "ఆల్బమ్, శైలి లేదా వ్యవధి ప్రకారం వ్యవస్థీకరించండి"
+        ],
+        [
+          "ఆఫ్‌లైన్ మోడ్",
+          "ఆఫ్‌లైన్‌లో చూడటానికి వీడియోలు మరియు ప్లేలిస్ట్‌లను డౌన్‌లోడ్ చేయండి"
+        ]
+      ],
+      "a11yTitle": "యాప్ బ్యానర్",
+      "a11yClose": "యాప్ బ్యానర్ మూసివేయండి",
+      "a11yIcon": "యాప్ ఐకాన్",
+      "a11yShot": "యాప్ స్క్రీన్‌షాట్"
+    },
+    "th": {
+      "eyebrow": "ดาวน์โหลดแอป <span class=\"hl\">ฟรี</span> ของเรา",
+      "appTitle": "Evervideo",
+      "hook": "เล่นไฟล์วิดีโอใดก็ได้บน iPhone ของคุณ",
+      "storeSmall": "ดาวน์โหลดบน",
+      "free": "ฟรี",
+      "trust": "ดูวิดีโอของคุณได้ทุกที่ทุกเวลา",
+      "features": [
+        [
+          "เครื่องเล่นมัลติมีเดีย",
+          "เล่นวิดีโอทุกรูปแบบจากคอมพิวเตอร์หรือคลาวด์"
+        ],
+        [
+          "วิดีโอ 360°",
+          "ดูวิดีโอ VR และ 360° จากทุกมุมมอง"
+        ],
+        [
+          "อีควอไลเซอร์เสียงและภาพ",
+          "ปรับเสียงและภาพด้วยพรีเซ็ตและตัวควบคุม"
+        ],
+        [
+          "ภาพซ้อนภาพ",
+          "ดูต่อในหน้าต่างลอยพร้อมคำบรรยาย"
+        ],
+        [
+          "บุ๊กมาร์ก",
+          "บุ๊กมาร์ก เปลี่ยนความเร็ว และเล่นต่อ"
+        ],
+        [
+          "การหมุนและปรับขนาด",
+          "หมุนและปรับขนาดวิดีโอให้พอดีกับหน้าจอ"
+        ],
+        [
+          "คลังและเพลย์ลิสต์",
+          "จัดระเบียบตามอัลบั้ม แนว หรือความยาว"
+        ],
+        [
+          "โหมดออฟไลน์",
+          "ดาวน์โหลดวิดีโอและเพลย์ลิสต์เพื่อดูแบบออฟไลน์"
+        ]
+      ],
+      "a11yTitle": "แบนเนอร์แอป",
+      "a11yClose": "ปิดแบนเนอร์แอป",
+      "a11yIcon": "ไอคอนแอป",
+      "a11yShot": "ภาพหน้าจอแอป"
+    },
+    "tr": {
+      "eyebrow": "<span class=\"hl\">Ücretsiz</span> uygulamamızı indirin",
+      "appTitle": "Evervideo",
+      "hook": "iPhone'unuzda her türlü video dosyasını oynatın",
+      "storeSmall": "Şuradan indirin:",
+      "free": "Ücretsiz",
+      "trust": "Videolarını istediğin zaman, istediğin yerde izle",
+      "features": [
+        [
+          "Multimedya oynatıcı",
+          "Bilgisayarınızdan veya buluttan her video formatını oynatın"
+        ],
+        [
+          "360° video",
+          "VR ve 360° videoları her açıdan izleyin"
+        ],
+        [
+          "Ses ve video ekolayzırı",
+          "Ön ayarlar ve denetimlerle sesi ve görüntüyü ayarlayın"
+        ],
+        [
+          "Resim İçinde Resim",
+          "Altyazılı kayan pencerede izlemeye devam edin"
+        ],
+        [
+          "Yer imleri",
+          "Yer imi ekleyin, hızı değiştirin ve oynatmaya devam edin"
+        ],
+        [
+          "Döndürme ve ölçekleme",
+          "Videoyu ekranınıza sığacak şekilde döndürün ve ölçekleyin"
+        ],
+        [
+          "Kitaplık ve çalma listeleri",
+          "Albüm, tür veya süreye göre düzenleyin"
+        ],
+        [
+          "Çevrimdışı mod",
+          "Çevrimdışı izlemek için videoları ve çalma listelerini indirin"
+        ]
+      ],
+      "a11yTitle": "Uygulama afişi",
+      "a11yClose": "Uygulama afişini kapat",
+      "a11yIcon": "Uygulama simgesi",
+      "a11yShot": "Uygulama ekran görüntüsü"
+    },
+    "uk": {
+      "eyebrow": "Завантажте наш <span class=\"hl\">безкоштовний</span> застосунок",
+      "appTitle": "Evervideo",
+      "hook": "Відтворюйте будь-який відеофайл на iPhone",
+      "storeSmall": "Завантажте в",
+      "free": "Безкоштовно",
+      "trust": "Дивіться свої відео будь-коли й будь-де",
+      "features": [
+        [
+          "Мультимедійний плеєр",
+          "Відтворюйте будь-який відеоформат з комп'ютера чи хмари"
+        ],
+        [
+          "Відео 360°",
+          "Дивіться VR- і 360°-відео з будь-якого ракурсу"
+        ],
+        [
+          "Еквалайзер звуку й відео",
+          "Налаштовуйте звук і зображення за допомогою пресетів і регуляторів"
+        ],
+        [
+          "Картинка в картинці",
+          "Продовжуйте перегляд у плаваючому вікні із субтитрами"
+        ],
+        [
+          "Закладки",
+          "Додавайте закладки, змінюйте швидкість і продовжуйте відтворення"
+        ],
+        [
+          "Обертання й масштабування",
+          "Обертайте й масштабуйте відео під ваш екран"
+        ],
+        [
+          "Бібліотека й плейлисти",
+          "Упорядковуйте за альбомом, жанром або тривалістю"
+        ],
+        [
+          "Офлайн-режим",
+          "Завантажуйте відео та плейлисти для перегляду офлайн"
+        ]
+      ],
+      "a11yTitle": "Банер застосунку",
+      "a11yClose": "Закрити банер застосунку",
+      "a11yIcon": "Значок застосунку",
+      "a11yShot": "Знімок екрана застосунку"
+    },
+    "ur": {
+      "dir": "rtl",
+      "eyebrow": "ہماری <span class=\"hl\">مفت</span> ایپ ڈاؤن لوڈ کریں",
+      "appTitle": "Evervideo",
+      "hook": "اپنے iPhone پر کوئی بھی ویڈیو فائل چلائیں",
+      "storeSmall": "ڈاؤن لوڈ کریں",
+      "free": "مفت",
+      "trust": "اپنی ویڈیوز کسی بھی وقت، کہیں بھی دیکھیں",
+      "features": [
+        [
+          "ملٹی میڈیا پلیئر",
+          "کمپیوٹر یا کلاؤڈ سے کوئی بھی ویڈیو فارمیٹ چلائیں"
+        ],
+        [
+          "360° ویڈیو",
+          "ہر زاویے سے VR اور 360° ویڈیوز دیکھیں"
+        ],
+        [
+          "آڈیو اور ویڈیو ایکوالائزر",
+          "پری سیٹس اور کنٹرولز کے ساتھ آواز اور تصویر ایڈجسٹ کریں"
+        ],
+        [
+          "پکچر ان پکچر",
+          "سب ٹائٹلز کے ساتھ تیرتی ونڈو میں دیکھتے رہیں"
+        ],
+        [
+          "بک مارکس",
+          "بک مارک کریں، رفتار بدلیں اور پلے بیک دوبارہ شروع کریں"
+        ],
+        [
+          "گھمانا اور اسکیلنگ",
+          "اسکرین پر فٹ کرنے کے لیے ویڈیو گھمائیں اور سائز بدلیں"
+        ],
+        [
+          "لائبریری اور پلے لسٹیں",
+          "البم، صنف یا دورانیے کے مطابق ترتیب دیں"
+        ],
+        [
+          "آف لائن موڈ",
+          "آف لائن دیکھنے کے لیے ویڈیوز اور پلے لسٹیں ڈاؤن لوڈ کریں"
+        ]
+      ],
+      "a11yTitle": "ایپ بینر",
+      "a11yClose": "ایپ بینر بند کریں",
+      "a11yIcon": "ایپ آئیکن",
+      "a11yShot": "ایپ اسکرین شاٹ"
+    },
+    "vi": {
+      "eyebrow": "Tải ứng dụng <span class=\"hl\">miễn phí</span> của chúng tôi",
+      "appTitle": "Evervideo",
+      "hook": "Phát mọi tệp video trên iPhone của bạn",
+      "storeSmall": "Tải xuống trên",
+      "free": "Miễn phí",
+      "trust": "Xem video của bạn mọi lúc, mọi nơi",
+      "features": [
+        [
+          "Trình phát đa phương tiện",
+          "Phát mọi định dạng video từ máy tính hoặc đám mây"
+        ],
+        [
+          "Video 360°",
+          "Xem video VR và 360° từ mọi góc độ"
+        ],
+        [
+          "Bộ chỉnh âm thanh & hình ảnh",
+          "Tinh chỉnh âm thanh và hình ảnh với cài đặt sẵn và điều khiển"
+        ],
+        [
+          "Hình trong hình",
+          "Tiếp tục xem trong cửa sổ nổi kèm phụ đề"
+        ],
+        [
+          "Dấu trang",
+          "Đánh dấu, thay đổi tốc độ và tiếp tục phát"
+        ],
+        [
+          "Xoay & thu phóng",
+          "Xoay và thu phóng video cho vừa màn hình"
+        ],
+        [
+          "Thư viện & danh sách phát",
+          "Sắp xếp theo album, thể loại hoặc thời lượng"
+        ],
+        [
+          "Chế độ ngoại tuyến",
+          "Tải video và danh sách phát để xem ngoại tuyến"
+        ]
+      ],
+      "a11yTitle": "Biểu ngữ ứng dụng",
+      "a11yClose": "Đóng biểu ngữ ứng dụng",
+      "a11yIcon": "Biểu tượng ứng dụng",
+      "a11yShot": "Ảnh chụp màn hình ứng dụng"
+    },
+    "zh-Hans": {
+      "eyebrow": "下载我们的<span class=\"hl\">免费</span>应用",
+      "appTitle": "Evervideo",
+      "hook": "在 iPhone 上播放任意视频文件",
+      "storeSmall": "下载于",
+      "free": "免费",
+      "trust": "随时随地观看您的视频",
+      "features": [
+        [
+          "多媒体播放器",
+          "播放来自电脑或云端的任意视频格式"
+        ],
+        [
+          "360° 视频",
+          "从各个角度观看 VR 和 360° 视频"
+        ],
+        [
+          "音频和视频均衡器",
+          "通过预设和控件调节声音与画面"
+        ],
+        [
+          "画中画",
+          "在悬浮窗口中继续观看并显示字幕"
+        ],
+        [
+          "书签",
+          "添加书签、调整速度并继续播放"
+        ],
+        [
+          "旋转与缩放",
+          "旋转并缩放视频以适应屏幕"
+        ],
+        [
+          "资料库与播放列表",
+          "按专辑、类型或时长整理"
+        ],
+        [
+          "离线模式",
+          "下载视频和播放列表以便离线观看"
+        ]
+      ],
+      "a11yTitle": "应用横幅",
+      "a11yClose": "关闭应用横幅",
+      "a11yIcon": "应用图标",
+      "a11yShot": "应用截图"
+    },
+    "zh-Hant": {
+      "eyebrow": "下載我們的<span class=\"hl\">免費</span>應用程式",
+      "appTitle": "Evervideo",
+      "hook": "在 iPhone 上播放任何影片檔案",
+      "storeSmall": "下載於",
+      "free": "免費",
+      "trust": "隨時隨地觀看您的影片",
+      "features": [
+        [
+          "多媒體播放器",
+          "播放來自電腦或雲端的任何影片格式"
+        ],
+        [
+          "360° 影片",
+          "從各個角度觀看 VR 和 360° 影片"
+        ],
+        [
+          "音訊與影片等化器",
+          "透過預設和控制項調整聲音與畫面"
+        ],
+        [
+          "子母畫面",
+          "在浮動視窗中繼續觀看並顯示字幕"
+        ],
+        [
+          "書籤",
+          "加入書籤、調整速度並繼續播放"
+        ],
+        [
+          "旋轉與縮放",
+          "旋轉並縮放影片以符合螢幕"
+        ],
+        [
+          "資料庫與播放清單",
+          "依專輯、類型或時長整理"
+        ],
+        [
+          "離線模式",
+          "下載影片和播放清單以便離線觀看"
+        ]
+      ],
+      "a11yTitle": "應用程式橫幅",
+      "a11yClose": "關閉應用程式橫幅",
+      "a11yIcon": "應用程式圖示",
+      "a11yShot": "應用程式截圖"
+    }
+  }
+}

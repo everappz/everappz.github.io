@@ -1,0 +1,2052 @@
+{
+  "id": 8,
+  "version": 1,
+  "appId": "1097564256",
+  "scheme": "lsflap",
+  "bundleID": "com.leshko.flap",
+  "storeUrl": "https://apps.apple.com/app/apple-store/id1097564256?pt=95781850&ct=cross_app_sale&mt=8",
+  "clickUrl": "",
+  "closeUrl": "",
+  "defaultLang": "en",
+  "screens": [
+    "resources/screens/1.png",
+    "resources/screens/2.png",
+    "resources/screens/3.png",
+    "resources/screens/4.png",
+    "resources/screens/5.png",
+    "resources/screens/6.png",
+    "resources/screens/7.png",
+    "resources/screens/8.png",
+    "resources/screens/9.png",
+    "resources/screens/10.png"
+  ],
+  "languages": {
+    "en": {
+      "eyebrow": "Download our <span class=\"hl\">Free</span> App",
+      "appTitle": "Flacbox",
+      "hook": "Hi-res audio player for your iPhone",
+      "storeSmall": "Download on the",
+      "free": "Free",
+      "trust": "Listen to hi-res music without limits",
+      "features": [
+        [
+          "Hi-res audio formats",
+          "Play FLAC, ALAC, WAV, AIFF, DSD, APE and more"
+        ],
+        [
+          "Audio equalizer",
+          "Pro EQ, bass booster, preamp and pitch control"
+        ],
+        [
+          "Audio effects",
+          "Reverb, echo, chorus, flanger, distortion and more"
+        ],
+        [
+          "Studio-quality sound",
+          "Lossless decoding at high sample rates and bit depths"
+        ],
+        [
+          "Library & playlists",
+          "Group by album, artist, genre; build playlists"
+        ],
+        [
+          "Cloud streaming",
+          "Stream hi-res audio from the cloud, no extra space"
+        ],
+        [
+          "NAS & computer",
+          "Play and transfer files over Wi-Fi from a NAS or PC"
+        ],
+        [
+          "Offline mode",
+          "Download songs and playlists to listen offline"
+        ]
+      ],
+      "a11yTitle": "App banner",
+      "a11yClose": "Close app banner",
+      "a11yIcon": "App icon",
+      "a11yShot": "App screenshot"
+    },
+    "ar": {
+      "dir": "rtl",
+      "eyebrow": "حمّل تطبيقنا <span class=\"hl\">المجاني</span>",
+      "appTitle": "Flacbox",
+      "hook": "مشغل صوت عالي الدقة لجهاز iPhone",
+      "storeSmall": "حمّله من",
+      "free": "مجاني",
+      "trust": "استمع إلى الموسيقى عالية الدقة بلا حدود",
+      "features": [
+        [
+          "صيغ صوت عالية الدقة",
+          "شغّل FLAC وALAC وWAV وAIFF وDSD وAPE وأكثر"
+        ],
+        [
+          "معادل الصوت",
+          "EQ احترافي، معزز الجهير، مضخم تمهيدي وتحكم بالنغمة"
+        ],
+        [
+          "مؤثرات صوتية",
+          "صدى، ترجيع، كورس، فلانجر، تشويه وأكثر"
+        ],
+        [
+          "صوت بجودة الاستوديو",
+          "فك ترميز بلا فقدان بمعدلات عينات وأعماق بت عالية"
+        ],
+        [
+          "المكتبة وقوائم التشغيل",
+          "جمّع حسب الألبوم والفنان والنوع؛ أنشئ قوائم التشغيل"
+        ],
+        [
+          "البث السحابي",
+          "بث صوت عالي الدقة من السحابة دون مساحة إضافية"
+        ],
+        [
+          "NAS والكمبيوتر",
+          "شغّل وانقل الملفات عبر Wi-Fi من NAS أو PC"
+        ],
+        [
+          "الوضع دون اتصال",
+          "نزّل الأغاني وقوائم التشغيل للاستماع دون اتصال"
+        ]
+      ],
+      "a11yTitle": "لافتة التطبيق",
+      "a11yClose": "إغلاق لافتة التطبيق",
+      "a11yIcon": "أيقونة التطبيق",
+      "a11yShot": "لقطة شاشة التطبيق"
+    },
+    "bn": {
+      "eyebrow": "আমাদের <span class=\"hl\">ফ্রি</span> অ্যাপ ডাউনলোড করুন",
+      "appTitle": "Flacbox",
+      "hook": "আপনার iPhone-এর জন্য হাই-রেজ অডিও প্লেয়ার",
+      "storeSmall": "ডাউনলোড করুন",
+      "free": "ফ্রি",
+      "trust": "সীমাহীনভাবে হাই-রেজ সঙ্গীত শুনুন",
+      "features": [
+        [
+          "হাই-রেজ অডিও ফরম্যাট",
+          "FLAC, ALAC, WAV, AIFF, DSD, APE এবং আরও অনেক কিছু চালান"
+        ],
+        [
+          "অডিও ইকুয়ালাইজার",
+          "প্রো EQ, বেস বুস্টার, প্রিঅ্যাম্প ও পিচ নিয়ন্ত্রণ"
+        ],
+        [
+          "অডিও ইফেক্ট",
+          "রিভার্ব, ইকো, কোরাস, ফ্ল্যাঞ্জার, ডিস্টর্শন এবং আরও"
+        ],
+        [
+          "স্টুডিও-মানের শব্দ",
+          "উচ্চ স্যাম্পল রেট ও বিট ডেপথে লসলেস ডিকোডিং"
+        ],
+        [
+          "লাইব্রেরি ও প্লেলিস্ট",
+          "অ্যালবাম, শিল্পী, ঘরানা অনুসারে সাজান; প্লেলিস্ট তৈরি করুন"
+        ],
+        [
+          "ক্লাউড স্ট্রিমিং",
+          "অতিরিক্ত জায়গা ছাড়াই ক্লাউড থেকে হাই-রেজ অডিও স্ট্রিম করুন"
+        ],
+        [
+          "NAS ও কম্পিউটার",
+          "NAS বা PC থেকে Wi-Fi-এ ফাইল চালান ও স্থানান্তর করুন"
+        ],
+        [
+          "অফলাইন মোড",
+          "অফলাইনে শোনার জন্য গান ও প্লেলিস্ট ডাউনলোড করুন"
+        ]
+      ],
+      "a11yTitle": "অ্যাপ ব্যানার",
+      "a11yClose": "অ্যাপ ব্যানার বন্ধ করুন",
+      "a11yIcon": "অ্যাপ আইকন",
+      "a11yShot": "অ্যাপ স্ক্রিনশট"
+    },
+    "ca": {
+      "eyebrow": "Baixa la nostra app <span class=\"hl\">gratuïta</span>",
+      "appTitle": "Flacbox",
+      "hook": "Reproductor d'àudio d'alta resolució per al teu iPhone",
+      "storeSmall": "Baixa-la a l’",
+      "free": "Gratis",
+      "trust": "Escolta música d'alta resolució sense límits",
+      "features": [
+        [
+          "Formats d'àudio d'alta resolució",
+          "Reprodueix FLAC, ALAC, WAV, AIFF, DSD, APE i més"
+        ],
+        [
+          "Equalitzador d'àudio",
+          "EQ pro, potenciador de greus, preamplificador i control de to"
+        ],
+        [
+          "Efectes d'àudio",
+          "Reverberació, eco, cor, flanger, distorsió i més"
+        ],
+        [
+          "So de qualitat d'estudi",
+          "Descodificació sense pèrdues a alta freqüència i profunditat de bits"
+        ],
+        [
+          "Biblioteca i llistes",
+          "Agrupa per àlbum, artista, gènere; crea llistes de reproducció"
+        ],
+        [
+          "Reproducció al núvol",
+          "Reprodueix àudio d'alta resolució des del núvol, sense espai extra"
+        ],
+        [
+          "NAS i ordinador",
+          "Reprodueix i transfereix fitxers per Wi-Fi des d'un NAS o PC"
+        ],
+        [
+          "Mode fora de línia",
+          "Descarrega cançons i llistes per escoltar sense connexió"
+        ]
+      ],
+      "a11yTitle": "Bàner de l’app",
+      "a11yClose": "Tanca el bàner de l’app",
+      "a11yIcon": "Icona de l’app",
+      "a11yShot": "Captura de l’app"
+    },
+    "cs": {
+      "eyebrow": "Stáhněte si naši <span class=\"hl\">bezplatnou</span> aplikaci",
+      "appTitle": "Flacbox",
+      "hook": "Hi-res přehrávač zvuku pro váš iPhone",
+      "storeSmall": "Stáhnout na",
+      "free": "Zdarma",
+      "trust": "Poslouchejte hi-res hudbu bez omezení",
+      "features": [
+        [
+          "Hi-res audio formáty",
+          "Přehrávejte FLAC, ALAC, WAV, AIFF, DSD, APE a další"
+        ],
+        [
+          "Ekvalizér zvuku",
+          "Pro EQ, zesilovač basů, předzesilovač a řízení výšky tónu"
+        ],
+        [
+          "Zvukové efekty",
+          "Reverb, echo, chorus, flanger, zkreslení a další"
+        ],
+        [
+          "Zvuk ve studiové kvalitě",
+          "Bezeztrátové dekódování při vysokých vzorkovacích frekvencích a bitových hloubkách"
+        ],
+        [
+          "Knihovna a playlisty",
+          "Seskupujte podle alba, interpreta, žánru; tvořte playlisty"
+        ],
+        [
+          "Streamování z cloudu",
+          "Streamujte hi-res zvuk z cloudu bez místa navíc"
+        ],
+        [
+          "NAS a počítač",
+          "Přehrávejte a přenášejte soubory přes Wi-Fi z NAS nebo PC"
+        ],
+        [
+          "Offline režim",
+          "Stáhněte skladby a playlisty pro offline poslech"
+        ]
+      ],
+      "a11yTitle": "Banner aplikace",
+      "a11yClose": "Zavřít banner aplikace",
+      "a11yIcon": "Ikona aplikace",
+      "a11yShot": "Snímek aplikace"
+    },
+    "da": {
+      "eyebrow": "Download vores <span class=\"hl\">gratis</span> app",
+      "appTitle": "Flacbox",
+      "hook": "Hi-res-lydafspiller til din iPhone",
+      "storeSmall": "Hent i",
+      "free": "Gratis",
+      "trust": "Lyt til hi-res-musik uden grænser",
+      "features": [
+        [
+          "Hi-res-lydformater",
+          "Afspil FLAC, ALAC, WAV, AIFF, DSD, APE og mere"
+        ],
+        [
+          "Lydequalizer",
+          "Pro-EQ, basforstærker, forforstærker og tonehøjdekontrol"
+        ],
+        [
+          "Lydeffekter",
+          "Rumklang, ekko, kor, flanger, forvrængning og mere"
+        ],
+        [
+          "Lyd i studiekvalitet",
+          "Tabsfri afkodning ved høje samplingsrater og bitdybder"
+        ],
+        [
+          "Bibliotek og afspilningslister",
+          "Gruppér efter album, kunstner, genre; opret afspilningslister"
+        ],
+        [
+          "Cloud-streaming",
+          "Stream hi-res-lyd fra skyen uden ekstra plads"
+        ],
+        [
+          "NAS og computer",
+          "Afspil og overfør filer over Wi-Fi fra en NAS eller PC"
+        ],
+        [
+          "Offlinetilstand",
+          "Download sange og afspilningslister til offlinelytning"
+        ]
+      ],
+      "a11yTitle": "App-banner",
+      "a11yClose": "Luk app-banner",
+      "a11yIcon": "App-ikon",
+      "a11yShot": "App-skærmbillede"
+    },
+    "de": {
+      "eyebrow": "Lade unsere <span class=\"hl\">kostenlose</span> App",
+      "appTitle": "Flacbox",
+      "hook": "Hi-Res-Audioplayer für dein iPhone",
+      "storeSmall": "Laden im",
+      "free": "Gratis",
+      "trust": "Hi-Res-Musik ohne Grenzen hören",
+      "features": [
+        [
+          "Hi-Res-Audioformate",
+          "FLAC, ALAC, WAV, AIFF, DSD, APE und mehr abspielen"
+        ],
+        [
+          "Audio-Equalizer",
+          "Pro-EQ, Bassverstärker, Vorverstärker und Tonhöhenregelung"
+        ],
+        [
+          "Audioeffekte",
+          "Hall, Echo, Chorus, Flanger, Verzerrung und mehr"
+        ],
+        [
+          "Sound in Studioqualität",
+          "Verlustfreie Dekodierung bei hohen Abtastraten und Bittiefen"
+        ],
+        [
+          "Bibliothek & Playlists",
+          "Nach Album, Künstler, Genre gruppieren; Playlists erstellen"
+        ],
+        [
+          "Cloud-Streaming",
+          "Hi-Res-Audio aus der Cloud streamen, ohne extra Speicher"
+        ],
+        [
+          "NAS & Computer",
+          "Dateien per Wi-Fi von einem NAS oder PC abspielen und übertragen"
+        ],
+        [
+          "Offline-Modus",
+          "Songs und Playlists zum Offline-Hören herunterladen"
+        ]
+      ],
+      "a11yTitle": "App-Banner",
+      "a11yClose": "App-Banner schließen",
+      "a11yIcon": "App-Symbol",
+      "a11yShot": "App-Screenshot"
+    },
+    "el": {
+      "eyebrow": "Κατεβάστε τη <span class=\"hl\">δωρεάν</span> εφαρμογή μας",
+      "appTitle": "Flacbox",
+      "hook": "Πρόγραμμα αναπαραγωγής ήχου υψηλής ανάλυσης για το iPhone σας",
+      "storeSmall": "Κατεβάστε το από το",
+      "free": "Δωρεάν",
+      "trust": "Ακούστε μουσική υψηλής ανάλυσης χωρίς όρια",
+      "features": [
+        [
+          "Μορφές ήχου υψηλής ανάλυσης",
+          "Αναπαραγωγή FLAC, ALAC, WAV, AIFF, DSD, APE και άλλων"
+        ],
+        [
+          "Ισοσταθμιστής ήχου",
+          "Επαγγελματικό EQ, ενισχυτής μπάσων, προενισχυτής και έλεγχος τόνου"
+        ],
+        [
+          "Εφέ ήχου",
+          "Αντήχηση, ηχώ, χορωδία, flanger, παραμόρφωση και άλλα"
+        ],
+        [
+          "Ήχος ποιότητας στούντιο",
+          "Αποκωδικοποίηση χωρίς απώλειες σε υψηλούς ρυθμούς δειγματοληψίας και βάθη bit"
+        ],
+        [
+          "Βιβλιοθήκη & λίστες",
+          "Ομαδοποίηση κατά άλμπουμ, καλλιτέχνη, είδος· δημιουργία λιστών"
+        ],
+        [
+          "Ροή από το cloud",
+          "Ροή ήχου υψηλής ανάλυσης από το cloud, χωρίς επιπλέον χώρο"
+        ],
+        [
+          "NAS & υπολογιστής",
+          "Αναπαραγωγή και μεταφορά αρχείων μέσω Wi-Fi από NAS ή PC"
+        ],
+        [
+          "Λειτουργία εκτός σύνδεσης",
+          "Λήψη τραγουδιών και λιστών για ακρόαση εκτός σύνδεσης"
+        ]
+      ],
+      "a11yTitle": "Μπάνερ εφαρμογής",
+      "a11yClose": "Κλείσιμο μπάνερ εφαρμογής",
+      "a11yIcon": "Εικονίδιο εφαρμογής",
+      "a11yShot": "Στιγμιότυπο εφαρμογής"
+    },
+    "es": {
+      "eyebrow": "Descarga nuestra app <span class=\"hl\">gratis</span>",
+      "appTitle": "Flacbox",
+      "hook": "Reproductor de audio de alta resolución para tu iPhone",
+      "storeSmall": "Descárgala en el",
+      "free": "Gratis",
+      "trust": "Escucha música de alta resolución sin límites",
+      "features": [
+        [
+          "Formatos de audio de alta resolución",
+          "Reproduce FLAC, ALAC, WAV, AIFF, DSD, APE y más"
+        ],
+        [
+          "Ecualizador de audio",
+          "EQ pro, potenciador de graves, preamplificador y control de tono"
+        ],
+        [
+          "Efectos de audio",
+          "Reverberación, eco, coro, flanger, distorsión y más"
+        ],
+        [
+          "Sonido de calidad de estudio",
+          "Decodificación sin pérdidas a altas frecuencias de muestreo y profundidades de bits"
+        ],
+        [
+          "Biblioteca y listas",
+          "Agrupa por álbum, artista, género; crea listas de reproducción"
+        ],
+        [
+          "Streaming en la nube",
+          "Transmite audio de alta resolución desde la nube, sin espacio extra"
+        ],
+        [
+          "NAS y ordenador",
+          "Reproduce y transfiere archivos por Wi-Fi desde un NAS o PC"
+        ],
+        [
+          "Modo sin conexión",
+          "Descarga canciones y listas para escuchar sin conexión"
+        ]
+      ],
+      "a11yTitle": "Banner de la app",
+      "a11yClose": "Cerrar banner de la app",
+      "a11yIcon": "Icono de la app",
+      "a11yShot": "Captura de la app"
+    },
+    "fi": {
+      "eyebrow": "Lataa <span class=\"hl\">ilmainen</span> sovelluksemme",
+      "appTitle": "Flacbox",
+      "hook": "Hi-res-äänisoitin iPhonellesi",
+      "storeSmall": "Lataa",
+      "free": "Ilmainen",
+      "trust": "Kuuntele hi-res-musiikkia rajoituksetta",
+      "features": [
+        [
+          "Hi-res-äänimuodot",
+          "Toista FLAC, ALAC, WAV, AIFF, DSD, APE ja muita"
+        ],
+        [
+          "Äänen taajuuskorjain",
+          "Pro-EQ, bassotehostin, esivahvistin ja sävelkorkeuden säätö"
+        ],
+        [
+          "Äänitehosteet",
+          "Kaiku, viive, kuoro, flanger, säröytys ja muita"
+        ],
+        [
+          "Studiolaatuinen ääni",
+          "Häviötön purku korkeilla näytteenottotaajuuksilla ja bittisyvyyksillä"
+        ],
+        [
+          "Kirjasto ja soittolistat",
+          "Ryhmittele albumin, artistin ja genren mukaan; luo soittolistoja"
+        ],
+        [
+          "Pilvisuoratoisto",
+          "Suoratoista hi-res-ääntä pilvestä ilman lisätilaa"
+        ],
+        [
+          "NAS ja tietokone",
+          "Toista ja siirrä tiedostoja Wi-Fillä NAS-laitteesta tai PC:stä"
+        ],
+        [
+          "Offline-tila",
+          "Lataa kappaleita ja soittolistoja offline-kuuntelua varten"
+        ]
+      ],
+      "a11yTitle": "Sovelluksen banneri",
+      "a11yClose": "Sulje sovelluksen banneri",
+      "a11yIcon": "Sovelluksen kuvake",
+      "a11yShot": "Sovelluksen kuvakaappaus"
+    },
+    "fr": {
+      "eyebrow": "Téléchargez notre appli <span class=\"hl\">gratuite</span>",
+      "appTitle": "Flacbox",
+      "hook": "Lecteur audio haute résolution pour votre iPhone",
+      "storeSmall": "Télécharger dans l’",
+      "free": "Gratuit",
+      "trust": "Écoutez de la musique haute résolution sans limites",
+      "features": [
+        [
+          "Formats audio haute résolution",
+          "Lisez FLAC, ALAC, WAV, AIFF, DSD, APE et plus"
+        ],
+        [
+          "Égaliseur audio",
+          "EQ pro, amplificateur de basses, préampli et contrôle de la hauteur"
+        ],
+        [
+          "Effets audio",
+          "Réverbération, écho, chœur, flanger, distorsion et plus"
+        ],
+        [
+          "Son de qualité studio",
+          "Décodage sans perte à des fréquences d'échantillonnage et profondeurs de bits élevées"
+        ],
+        [
+          "Bibliothèque et playlists",
+          "Regroupez par album, artiste, genre ; créez des playlists"
+        ],
+        [
+          "Streaming cloud",
+          "Diffusez de l'audio haute résolution depuis le cloud, sans espace supplémentaire"
+        ],
+        [
+          "NAS et ordinateur",
+          "Lisez et transférez des fichiers en Wi-Fi depuis un NAS ou un PC"
+        ],
+        [
+          "Mode hors ligne",
+          "Téléchargez des titres et des playlists pour écouter hors ligne"
+        ]
+      ],
+      "a11yTitle": "Bannière de l’app",
+      "a11yClose": "Fermer la bannière de l’app",
+      "a11yIcon": "Icône de l’app",
+      "a11yShot": "Capture d’écran de l’app"
+    },
+    "gu": {
+      "eyebrow": "અમારી <span class=\"hl\">મફત</span> એપ ડાઉનલોડ કરો",
+      "appTitle": "Flacbox",
+      "hook": "તમારા iPhone માટે હાઈ-રેઝ ઑડિયો પ્લેયર",
+      "storeSmall": "ડાઉનલોડ કરો",
+      "free": "મફત",
+      "trust": "મર્યાદા વિના હાઈ-રેઝ સંગીત સાંભળો",
+      "features": [
+        [
+          "હાઈ-રેઝ ઑડિયો ફોર્મેટ",
+          "FLAC, ALAC, WAV, AIFF, DSD, APE અને વધુ ચલાવો"
+        ],
+        [
+          "ઑડિયો ઇક્વલાઇઝર",
+          "પ્રો EQ, બેસ બૂસ્ટર, પ્રીએમ્પ અને પિચ નિયંત્રણ"
+        ],
+        [
+          "ઑડિયો ઇફેક્ટ્સ",
+          "રિવર્બ, ઇકો, કોરસ, ફ્લેન્જર, ડિસ્ટોર્શન અને વધુ"
+        ],
+        [
+          "સ્ટુડિયો-ગુણવત્તાનો અવાજ",
+          "ઊંચા સેમ્પલ રેટ અને બિટ ડેપ્થ પર લોસલેસ ડિકોડિંગ"
+        ],
+        [
+          "લાઇબ્રેરી અને પ્લેલિસ્ટ",
+          "આલ્બમ, કલાકાર, શૈલી પ્રમાણે જૂથ કરો; પ્લેલિસ્ટ બનાવો"
+        ],
+        [
+          "ક્લાઉડ સ્ટ્રીમિંગ",
+          "વધારાની જગ્યા વિના ક્લાઉડમાંથી હાઈ-રેઝ ઑડિયો સ્ટ્રીમ કરો"
+        ],
+        [
+          "NAS અને કમ્પ્યુટર",
+          "NAS કે PC થી Wi-Fi પર ફાઇલો ચલાવો અને ટ્રાન્સફર કરો"
+        ],
+        [
+          "ઑફલાઇન મોડ",
+          "ઑફલાઇન સાંભળવા માટે ગીતો અને પ્લેલિસ્ટ ડાઉનલોડ કરો"
+        ]
+      ],
+      "a11yTitle": "એપ બેનર",
+      "a11yClose": "એપ બેનર બંધ કરો",
+      "a11yIcon": "એપ આઇકન",
+      "a11yShot": "એપ સ્ક્રીનશોટ"
+    },
+    "he": {
+      "dir": "rtl",
+      "eyebrow": "הורידו את האפליקציה <span class=\"hl\">החינמית</span> שלנו",
+      "appTitle": "Flacbox",
+      "hook": "נגן אודיו ברזולוציה גבוהה ל-iPhone שלך",
+      "storeSmall": "הורידו מ־",
+      "free": "חינם",
+      "trust": "האזינו למוזיקה ברזולוציה גבוהה ללא הגבלה",
+      "features": [
+        [
+          "פורמטי אודיו ברזולוציה גבוהה",
+          "נגנו FLAC, ALAC, WAV, AIFF, DSD, APE ועוד"
+        ],
+        [
+          "אקולייזר אודיו",
+          "EQ מקצועי, מגביר בס, מגבר מקדים ובקרת גובה צליל"
+        ],
+        [
+          "אפקטי אודיו",
+          "הדהוד, הד, מקהלה, פלנג'ר, עיוות ועוד"
+        ],
+        [
+          "צליל באיכות אולפן",
+          "פענוח ללא אובדן בקצבי דגימה ועומקי סיביות גבוהים"
+        ],
+        [
+          "ספרייה ורשימות השמעה",
+          "קבצו לפי אלבום, אמן, ז'אנר; בנו רשימות השמעה"
+        ],
+        [
+          "הזרמה מהענן",
+          "הזרימו אודיו ברזולוציה גבוהה מהענן, ללא מקום נוסף"
+        ],
+        [
+          "NAS ומחשב",
+          "נגנו והעבירו קבצים ב-Wi-Fi מ-NAS או PC"
+        ],
+        [
+          "מצב לא מקוון",
+          "הורידו שירים ורשימות השמעה להאזנה לא מקוונת"
+        ]
+      ],
+      "a11yTitle": "באנר האפליקציה",
+      "a11yClose": "סגירת באנר האפליקציה",
+      "a11yIcon": "סמל האפליקציה",
+      "a11yShot": "צילום מסך של האפליקציה"
+    },
+    "hi": {
+      "eyebrow": "हमारा <span class=\"hl\">मुफ़्त</span> ऐप डाउनलोड करें",
+      "appTitle": "Flacbox",
+      "hook": "आपके iPhone के लिए हाई-रेज़ ऑडियो प्लेयर",
+      "storeSmall": "डाउनलोड करें",
+      "free": "मुफ़्त",
+      "trust": "बिना किसी सीमा के हाई-रेज़ संगीत सुनें",
+      "features": [
+        [
+          "हाई-रेज़ ऑडियो फ़ॉर्मेट",
+          "FLAC, ALAC, WAV, AIFF, DSD, APE और बहुत कुछ चलाएँ"
+        ],
+        [
+          "ऑडियो इक्वलाइज़र",
+          "प्रो EQ, बेस बूस्टर, प्रीएम्प और पिच कंट्रोल"
+        ],
+        [
+          "ऑडियो इफ़ेक्ट",
+          "रिवर्ब, इको, कोरस, फ्लैंजर, डिस्टॉर्शन और अधिक"
+        ],
+        [
+          "स्टूडियो-गुणवत्ता वाली ध्वनि",
+          "उच्च सैंपल रेट और बिट डेप्थ पर लॉसलेस डिकोडिंग"
+        ],
+        [
+          "लाइब्रेरी और प्लेलिस्ट",
+          "एल्बम, कलाकार, शैली के अनुसार समूहित करें; प्लेलिस्ट बनाएँ"
+        ],
+        [
+          "क्लाउड स्ट्रीमिंग",
+          "बिना अतिरिक्त जगह के क्लाउड से हाई-रेज़ ऑडियो स्ट्रीम करें"
+        ],
+        [
+          "NAS और कंप्यूटर",
+          "NAS या PC से Wi-Fi पर फ़ाइलें चलाएँ और स्थानांतरित करें"
+        ],
+        [
+          "ऑफ़लाइन मोड",
+          "ऑफ़लाइन सुनने के लिए गाने और प्लेलिस्ट डाउनलोड करें"
+        ]
+      ],
+      "a11yTitle": "ऐप बैनर",
+      "a11yClose": "ऐप बैनर बंद करें",
+      "a11yIcon": "ऐप आइकन",
+      "a11yShot": "ऐप स्क्रीनशॉट"
+    },
+    "hr": {
+      "eyebrow": "Preuzmite našu <span class=\"hl\">besplatnu</span> aplikaciju",
+      "appTitle": "Flacbox",
+      "hook": "Hi-res audio reproduktor za vaš iPhone",
+      "storeSmall": "Preuzmite na",
+      "free": "Besplatno",
+      "trust": "Slušajte hi-res glazbu bez ograničenja",
+      "features": [
+        [
+          "Hi-res audio formati",
+          "Reproducirajte FLAC, ALAC, WAV, AIFF, DSD, APE i više"
+        ],
+        [
+          "Audio ekvilizator",
+          "Pro EQ, pojačalo basa, pretpojačalo i kontrola visine tona"
+        ],
+        [
+          "Audio efekti",
+          "Reverb, jeka, chorus, flanger, distorzija i više"
+        ],
+        [
+          "Zvuk studijske kvalitete",
+          "Dekodiranje bez gubitaka pri visokim frekvencijama uzorkovanja i dubinama bita"
+        ],
+        [
+          "Biblioteka i popisi",
+          "Grupirajte po albumu, izvođaču, žanru; izradite popise za reprodukciju"
+        ],
+        [
+          "Streaming iz oblaka",
+          "Strujite hi-res zvuk iz oblaka, bez dodatnog prostora"
+        ],
+        [
+          "NAS i računalo",
+          "Reproducirajte i prenosite datoteke putem Wi-Fija s NAS-a ili PC-ja"
+        ],
+        [
+          "Izvanmrežni način",
+          "Preuzmite pjesme i popise za izvanmrežno slušanje"
+        ]
+      ],
+      "a11yTitle": "Banner aplikacije",
+      "a11yClose": "Zatvori banner aplikacije",
+      "a11yIcon": "Ikona aplikacije",
+      "a11yShot": "Snimka zaslona aplikacije"
+    },
+    "hu": {
+      "eyebrow": "Töltsd le <span class=\"hl\">ingyenes</span> alkalmazásunkat",
+      "appTitle": "Flacbox",
+      "hook": "Hi-res hanglejátszó az iPhone-odhoz",
+      "storeSmall": "Töltsd le innen:",
+      "free": "Ingyenes",
+      "trust": "Hallgass hi-res zenét korlátok nélkül",
+      "features": [
+        [
+          "Hi-res hangformátumok",
+          "Játssz le FLAC, ALAC, WAV, AIFF, DSD, APE és más formátumokat"
+        ],
+        [
+          "Hangszínszabályzó",
+          "Profi EQ, mélyhang-erősítő, előerősítő és hangmagasság-vezérlés"
+        ],
+        [
+          "Hangeffektek",
+          "Zengetés, visszhang, kórus, flanger, torzítás és több"
+        ],
+        [
+          "Stúdióminőségű hang",
+          "Veszteségmentes dekódolás magas mintavételi frekvenciákon és bitmélységeken"
+        ],
+        [
+          "Könyvtár és lejátszási listák",
+          "Csoportosíts album, előadó, műfaj szerint; készíts listákat"
+        ],
+        [
+          "Felhőalapú streaming",
+          "Streamelj hi-res hangot a felhőből, extra hely nélkül"
+        ],
+        [
+          "NAS és számítógép",
+          "Fájlok lejátszása és átvitele Wi-Fin NAS-ról vagy PC-ről"
+        ],
+        [
+          "Offline mód",
+          "Tölts le dalokat és listákat offline hallgatáshoz"
+        ]
+      ],
+      "a11yTitle": "Alkalmazásbanner",
+      "a11yClose": "Alkalmazásbanner bezárása",
+      "a11yIcon": "Alkalmazásikon",
+      "a11yShot": "Alkalmazás képernyőkép"
+    },
+    "id": {
+      "eyebrow": "Unduh aplikasi <span class=\"hl\">gratis</span> kami",
+      "appTitle": "Flacbox",
+      "hook": "Pemutar audio hi-res untuk iPhone Anda",
+      "storeSmall": "Unduh di",
+      "free": "Gratis",
+      "trust": "Dengarkan musik hi-res tanpa batas",
+      "features": [
+        [
+          "Format audio hi-res",
+          "Putar FLAC, ALAC, WAV, AIFF, DSD, APE, dan lainnya"
+        ],
+        [
+          "Ekualizer audio",
+          "EQ pro, penguat bass, preamp, dan kontrol nada"
+        ],
+        [
+          "Efek audio",
+          "Reverb, gema, chorus, flanger, distorsi, dan lainnya"
+        ],
+        [
+          "Suara kualitas studio",
+          "Dekode lossless pada sample rate dan bit depth tinggi"
+        ],
+        [
+          "Pustaka & daftar putar",
+          "Kelompokkan menurut album, artis, genre; buat daftar putar"
+        ],
+        [
+          "Streaming cloud",
+          "Streaming audio hi-res dari cloud, tanpa ruang tambahan"
+        ],
+        [
+          "NAS & komputer",
+          "Putar dan transfer file lewat Wi-Fi dari NAS atau PC"
+        ],
+        [
+          "Mode offline",
+          "Unduh lagu dan daftar putar untuk didengarkan secara offline"
+        ]
+      ],
+      "a11yTitle": "Banner aplikasi",
+      "a11yClose": "Tutup banner aplikasi",
+      "a11yIcon": "Ikon aplikasi",
+      "a11yShot": "Tangkapan layar aplikasi"
+    },
+    "it": {
+      "eyebrow": "Scarica la nostra app <span class=\"hl\">gratuita</span>",
+      "appTitle": "Flacbox",
+      "hook": "Lettore audio ad alta risoluzione per il tuo iPhone",
+      "storeSmall": "Scarica su",
+      "free": "Gratis",
+      "trust": "Ascolta musica ad alta risoluzione senza limiti",
+      "features": [
+        [
+          "Formati audio ad alta risoluzione",
+          "Riproduci FLAC, ALAC, WAV, AIFF, DSD, APE e altro"
+        ],
+        [
+          "Equalizzatore audio",
+          "EQ pro, esaltatore di bassi, preamplificatore e controllo del tono"
+        ],
+        [
+          "Effetti audio",
+          "Riverbero, eco, coro, flanger, distorsione e altro"
+        ],
+        [
+          "Suono di qualità da studio",
+          "Decodifica lossless ad alte frequenze di campionamento e profondità di bit"
+        ],
+        [
+          "Libreria e playlist",
+          "Raggruppa per album, artista, genere; crea playlist"
+        ],
+        [
+          "Streaming dal cloud",
+          "Riproduci audio ad alta risoluzione dal cloud, senza spazio extra"
+        ],
+        [
+          "NAS e computer",
+          "Riproduci e trasferisci file via Wi-Fi da un NAS o PC"
+        ],
+        [
+          "Modalità offline",
+          "Scarica brani e playlist per ascoltarli offline"
+        ]
+      ],
+      "a11yTitle": "Banner dell’app",
+      "a11yClose": "Chiudi il banner dell’app",
+      "a11yIcon": "Icona dell’app",
+      "a11yShot": "Screenshot dell’app"
+    },
+    "ja": {
+      "eyebrow": "<span class=\"hl\">無料</span>アプリをダウンロード",
+      "appTitle": "Flacbox",
+      "hook": "iPhone向けのハイレゾオーディオプレーヤー",
+      "storeSmall": "ダウンロード：",
+      "free": "無料",
+      "trust": "ハイレゾ音楽を無制限に楽しもう",
+      "features": [
+        [
+          "ハイレゾ音声フォーマット",
+          "FLAC、ALAC、WAV、AIFF、DSD、APE などを再生"
+        ],
+        [
+          "オーディオイコライザー",
+          "プロ EQ、低音ブースター、プリアンプ、ピッチ調整"
+        ],
+        [
+          "オーディオエフェクト",
+          "リバーブ、エコー、コーラス、フランジャー、ディストーションなど"
+        ],
+        [
+          "スタジオ品質のサウンド",
+          "高いサンプルレートとビット深度でのロスレスデコード"
+        ],
+        [
+          "ライブラリとプレイリスト",
+          "アルバム、アーティスト、ジャンルで整理；プレイリストを作成"
+        ],
+        [
+          "クラウドストリーミング",
+          "追加の容量なしでクラウドからハイレゾ音声をストリーミング"
+        ],
+        [
+          "NAS とコンピューター",
+          "NAS や PC から Wi-Fi でファイルを再生・転送"
+        ],
+        [
+          "オフラインモード",
+          "曲やプレイリストをダウンロードしてオフラインで再生"
+        ]
+      ],
+      "a11yTitle": "アプリバナー",
+      "a11yClose": "アプリバナーを閉じる",
+      "a11yIcon": "アプリアイコン",
+      "a11yShot": "アプリのスクリーンショット"
+    },
+    "kn": {
+      "eyebrow": "ನಮ್ಮ <span class=\"hl\">ಉಚಿತ</span> ಆ್ಯಪ್ ಡೌನ್‌ಲೋಡ್ ಮಾಡಿ",
+      "appTitle": "Flacbox",
+      "hook": "ನಿಮ್ಮ iPhone ಗಾಗಿ ಹೈ-ರೆಸ್ ಆಡಿಯೊ ಪ್ಲೇಯರ್",
+      "storeSmall": "ಡೌನ್‌ಲೋಡ್ ಮಾಡಿ",
+      "free": "ಉಚಿತ",
+      "trust": "ಮಿತಿಯಿಲ್ಲದೆ ಹೈ-ರೆಸ್ ಸಂಗೀತ ಆಲಿಸಿ",
+      "features": [
+        [
+          "ಹೈ-ರೆಸ್ ಆಡಿಯೊ ಫಾರ್ಮ್ಯಾಟ್‌ಗಳು",
+          "FLAC, ALAC, WAV, AIFF, DSD, APE ಮತ್ತು ಇನ್ನಷ್ಟು ಪ್ಲೇ ಮಾಡಿ"
+        ],
+        [
+          "ಆಡಿಯೊ ಈಕ್ವಲೈಸರ್",
+          "ಪ್ರೊ EQ, ಬಾಸ್ ಬೂಸ್ಟರ್, ಪ್ರೀಆಂಪ್ ಮತ್ತು ಪಿಚ್ ನಿಯಂತ್ರಣ"
+        ],
+        [
+          "ಆಡಿಯೊ ಪರಿಣಾಮಗಳು",
+          "ರಿವರ್ಬ್, ಪ್ರತಿಧ್ವನಿ, ಕೋರಸ್, ಫ್ಲ್ಯಾಂಜರ್, ಡಿಸ್ಟಾರ್ಷನ್ ಮತ್ತು ಇನ್ನಷ್ಟು"
+        ],
+        [
+          "ಸ್ಟುಡಿಯೊ-ಗುಣಮಟ್ಟದ ಧ್ವನಿ",
+          "ಹೆಚ್ಚಿನ ಸ್ಯಾಂಪಲ್ ದರ ಮತ್ತು ಬಿಟ್ ಆಳದಲ್ಲಿ ಲಾಸ್‌ಲೆಸ್ ಡಿಕೋಡಿಂಗ್"
+        ],
+        [
+          "ಲೈಬ್ರರಿ ಮತ್ತು ಪ್ಲೇಲಿಸ್ಟ್‌ಗಳು",
+          "ಆಲ್ಬಮ್, ಕಲಾವಿದ, ಪ್ರಕಾರದ ಪ್ರಕಾರ ಗುಂಪು ಮಾಡಿ; ಪ್ಲೇಲಿಸ್ಟ್ ರಚಿಸಿ"
+        ],
+        [
+          "ಕ್ಲೌಡ್ ಸ್ಟ್ರೀಮಿಂಗ್",
+          "ಹೆಚ್ಚುವರಿ ಸ್ಥಳವಿಲ್ಲದೆ ಕ್ಲೌಡ್‌ನಿಂದ ಹೈ-ರೆಸ್ ಆಡಿಯೊ ಸ್ಟ್ರೀಮ್ ಮಾಡಿ"
+        ],
+        [
+          "NAS ಮತ್ತು ಕಂಪ್ಯೂಟರ್",
+          "NAS ಅಥವಾ PC ಯಿಂದ Wi-Fi ಮೂಲಕ ಫೈಲ್‌ಗಳನ್ನು ಪ್ಲೇ ಮಾಡಿ ಮತ್ತು ವರ್ಗಾಯಿಸಿ"
+        ],
+        [
+          "ಆಫ್‌ಲೈನ್ ಮೋಡ್",
+          "ಆಫ್‌ಲೈನ್ ಆಲಿಸಲು ಹಾಡುಗಳು ಮತ್ತು ಪ್ಲೇಲಿಸ್ಟ್‌ಗಳನ್ನು ಡೌನ್‌ಲೋಡ್ ಮಾಡಿ"
+        ]
+      ],
+      "a11yTitle": "ಆ್ಯಪ್ ಬ್ಯಾನರ್",
+      "a11yClose": "ಆ್ಯಪ್ ಬ್ಯಾನರ್ ಮುಚ್ಚಿ",
+      "a11yIcon": "ಆ್ಯಪ್ ಐಕಾನ್",
+      "a11yShot": "ಆ್ಯಪ್ ಸ್ಕ್ರೀನ್‌ಶಾಟ್"
+    },
+    "ko": {
+      "eyebrow": "<span class=\"hl\">무료</span> 앱을 다운로드하세요",
+      "appTitle": "Flacbox",
+      "hook": "iPhone를 위한 고해상도 오디오 플레이어",
+      "storeSmall": "다운로드:",
+      "free": "무료",
+      "trust": "제한 없이 고해상도 음악을 감상하세요",
+      "features": [
+        [
+          "고해상도 오디오 포맷",
+          "FLAC, ALAC, WAV, AIFF, DSD, APE 등 재생"
+        ],
+        [
+          "오디오 이퀄라이저",
+          "프로 EQ, 베이스 부스터, 프리앰프, 피치 조절"
+        ],
+        [
+          "오디오 이펙트",
+          "리버브, 에코, 코러스, 플랜저, 디스토션 등"
+        ],
+        [
+          "스튜디오 품질의 사운드",
+          "높은 샘플레이트와 비트 심도에서 무손실 디코딩"
+        ],
+        [
+          "라이브러리 및 재생목록",
+          "앨범, 아티스트, 장르별로 분류; 재생목록 만들기"
+        ],
+        [
+          "클라우드 스트리밍",
+          "추가 공간 없이 클라우드에서 고해상도 오디오 스트리밍"
+        ],
+        [
+          "NAS 및 컴퓨터",
+          "NAS나 PC에서 Wi-Fi로 파일 재생 및 전송"
+        ],
+        [
+          "오프라인 모드",
+          "노래와 재생목록을 다운로드해 오프라인으로 감상"
+        ]
+      ],
+      "a11yTitle": "앱 배너",
+      "a11yClose": "앱 배너 닫기",
+      "a11yIcon": "앱 아이콘",
+      "a11yShot": "앱 스크린샷"
+    },
+    "ml": {
+      "eyebrow": "ഞങ്ങളുടെ <span class=\"hl\">സൗജന്യ</span> ആപ്പ് ഡൗൺലോഡ് ചെയ്യൂ",
+      "appTitle": "Flacbox",
+      "hook": "നിങ്ങളുടെ iPhone-നായുള്ള ഹൈ-റെസ് ഓഡിയോ പ്ലേയർ",
+      "storeSmall": "ഡൗൺലോഡ് ചെയ്യൂ",
+      "free": "സൗജന്യം",
+      "trust": "പരിധിയില്ലാതെ ഹൈ-റെസ് സംഗീതം കേൾക്കൂ",
+      "features": [
+        [
+          "ഹൈ-റെസ് ഓഡിയോ ഫോർമാറ്റുകൾ",
+          "FLAC, ALAC, WAV, AIFF, DSD, APE എന്നിവയും അതിലധികവും പ്ലേ ചെയ്യൂ"
+        ],
+        [
+          "ഓഡിയോ ഇക്വലൈസർ",
+          "പ്രോ EQ, ബാസ് ബൂസ്റ്റർ, പ്രീആംപ്, പിച്ച് നിയന്ത്രണം"
+        ],
+        [
+          "ഓഡിയോ ഇഫക്റ്റുകൾ",
+          "റിവർബ്, എക്കോ, കോറസ്, ഫ്ലാഞ്ചർ, ഡിസ്റ്റോർഷൻ എന്നിവയും അതിലധികവും"
+        ],
+        [
+          "സ്റ്റുഡിയോ-നിലവാരമുള്ള ശബ്ദം",
+          "ഉയർന്ന സാമ്പിൾ റേറ്റുകളിലും ബിറ്റ് ഡെപ്തുകളിലും ലോസ്‌ലെസ് ഡീകോഡിംഗ്"
+        ],
+        [
+          "ലൈബ്രറിയും പ്ലേലിസ്റ്റുകളും",
+          "ആൽബം, കലാകാരൻ, വിഭാഗം അനുസരിച്ച് ഗ്രൂപ്പ് ചെയ്യൂ; പ്ലേലിസ്റ്റുകൾ ഉണ്ടാക്കൂ"
+        ],
+        [
+          "ക്ലൗഡ് സ്ട്രീമിംഗ്",
+          "അധിക സ്ഥലമില്ലാതെ ക്ലൗഡിൽ നിന്ന് ഹൈ-റെസ് ഓഡിയോ സ്ട്രീം ചെയ്യൂ"
+        ],
+        [
+          "NAS-ഉം കമ്പ്യൂട്ടറും",
+          "NAS അല്ലെങ്കിൽ PC-യിൽ നിന്ന് Wi-Fi വഴി ഫയലുകൾ പ്ലേ ചെയ്യുകയും കൈമാറുകയും ചെയ്യൂ"
+        ],
+        [
+          "ഓഫ്‌ലൈൻ മോഡ്",
+          "ഓഫ്‌ലൈനായി കേൾക്കാൻ പാട്ടുകളും പ്ലേലിസ്റ്റുകളും ഡൗൺലോഡ് ചെയ്യൂ"
+        ]
+      ],
+      "a11yTitle": "ആപ്പ് ബാനർ",
+      "a11yClose": "ആപ്പ് ബാനർ അടയ്ക്കുക",
+      "a11yIcon": "ആപ്പ് ഐക്കൺ",
+      "a11yShot": "ആപ്പ് സ്ക്രീൻഷോട്ട്"
+    },
+    "mr": {
+      "eyebrow": "आमचे <span class=\"hl\">मोफत</span> अ‍ॅप डाउनलोड करा",
+      "appTitle": "Flacbox",
+      "hook": "तुमच्या iPhone साठी हाय-रेझ ऑडिओ प्लेयर",
+      "storeSmall": "डाउनलोड करा",
+      "free": "मोफत",
+      "trust": "मर्यादेशिवाय हाय-रेझ संगीत ऐका",
+      "features": [
+        [
+          "हाय-रेझ ऑडिओ फॉरमॅट",
+          "FLAC, ALAC, WAV, AIFF, DSD, APE आणि अधिक प्ले करा"
+        ],
+        [
+          "ऑडिओ इक्वलायझर",
+          "प्रो EQ, बास बूस्टर, प्रीअँप आणि पिच नियंत्रण"
+        ],
+        [
+          "ऑडिओ इफेक्ट्स",
+          "रिव्हर्ब, इको, कोरस, फ्लॅंजर, डिस्टॉर्शन आणि अधिक"
+        ],
+        [
+          "स्टुडिओ-दर्जाचा आवाज",
+          "उच्च सॅम्पल रेट आणि बिट डेप्थवर लॉसलेस डिकोडिंग"
+        ],
+        [
+          "लायब्ररी आणि प्लेलिस्ट",
+          "अल्बम, कलाकार, शैलीनुसार गट करा; प्लेलिस्ट तयार करा"
+        ],
+        [
+          "क्लाउड स्ट्रीमिंग",
+          "अतिरिक्त जागेशिवाय क्लाउडवरून हाय-रेझ ऑडिओ स्ट्रीम करा"
+        ],
+        [
+          "NAS आणि संगणक",
+          "NAS किंवा PC वरून Wi-Fi वर फायली प्ले आणि ट्रान्सफर करा"
+        ],
+        [
+          "ऑफलाइन मोड",
+          "ऑफलाइन ऐकण्यासाठी गाणी आणि प्लेलिस्ट डाउनलोड करा"
+        ]
+      ],
+      "a11yTitle": "अ‍ॅप बॅनर",
+      "a11yClose": "अ‍ॅप बॅनर बंद करा",
+      "a11yIcon": "अ‍ॅप आयकॉन",
+      "a11yShot": "अ‍ॅप स्क्रीनशॉट"
+    },
+    "ms": {
+      "eyebrow": "Muat turun apl <span class=\"hl\">percuma</span> kami",
+      "appTitle": "Flacbox",
+      "hook": "Pemain audio hi-res untuk iPhone anda",
+      "storeSmall": "Muat turun di",
+      "free": "Percuma",
+      "trust": "Dengar muzik hi-res tanpa had",
+      "features": [
+        [
+          "Format audio hi-res",
+          "Mainkan FLAC, ALAC, WAV, AIFF, DSD, APE dan banyak lagi"
+        ],
+        [
+          "Penyama audio",
+          "EQ pro, penggalak bes, praamp dan kawalan pic"
+        ],
+        [
+          "Kesan audio",
+          "Reverb, gema, korus, flanger, herotan dan banyak lagi"
+        ],
+        [
+          "Bunyi berkualiti studio",
+          "Penyahkodan lossless pada kadar sampel dan kedalaman bit tinggi"
+        ],
+        [
+          "Pustaka & senarai main",
+          "Kumpulkan mengikut album, artis, genre; bina senarai main"
+        ],
+        [
+          "Penstriman awan",
+          "Strim audio hi-res dari awan, tanpa ruang tambahan"
+        ],
+        [
+          "NAS & komputer",
+          "Mainkan dan pindahkan fail melalui Wi-Fi dari NAS atau PC"
+        ],
+        [
+          "Mod luar talian",
+          "Muat turun lagu dan senarai main untuk didengar luar talian"
+        ]
+      ],
+      "a11yTitle": "Sepanduk apl",
+      "a11yClose": "Tutup sepanduk apl",
+      "a11yIcon": "Ikon apl",
+      "a11yShot": "Tangkapan skrin apl"
+    },
+    "nb": {
+      "eyebrow": "Last ned vår <span class=\"hl\">gratis</span> app",
+      "appTitle": "Flacbox",
+      "hook": "Hi-res lydavspiller for din iPhone",
+      "storeSmall": "Last ned på",
+      "free": "Gratis",
+      "trust": "Lytt til hi-res-musikk uten grenser",
+      "features": [
+        [
+          "Hi-res lydformater",
+          "Spill av FLAC, ALAC, WAV, AIFF, DSD, APE og mer"
+        ],
+        [
+          "Lydequalizer",
+          "Pro-EQ, bassforsterker, forforsterker og tonehøydekontroll"
+        ],
+        [
+          "Lydeffekter",
+          "Etterklang, ekko, kor, flanger, forvrengning og mer"
+        ],
+        [
+          "Lyd i studiokvalitet",
+          "Tapsfri dekoding ved høye samplingsrater og bitdybder"
+        ],
+        [
+          "Bibliotek og spillelister",
+          "Grupper etter album, artist, sjanger; lag spillelister"
+        ],
+        [
+          "Skystrømming",
+          "Strøm hi-res-lyd fra skyen, uten ekstra plass"
+        ],
+        [
+          "NAS og datamaskin",
+          "Spill av og overfør filer over Wi-Fi fra en NAS eller PC"
+        ],
+        [
+          "Frakoblet modus",
+          "Last ned sanger og spillelister for å lytte frakoblet"
+        ]
+      ],
+      "a11yTitle": "App-banner",
+      "a11yClose": "Lukk app-banner",
+      "a11yIcon": "App-ikon",
+      "a11yShot": "App-skjermbilde"
+    },
+    "nl": {
+      "eyebrow": "Download onze <span class=\"hl\">gratis</span> app",
+      "appTitle": "Flacbox",
+      "hook": "Hi-res audiospeler voor je iPhone",
+      "storeSmall": "Downloaden in de",
+      "free": "Gratis",
+      "trust": "Luister zonder limieten naar hi-res muziek",
+      "features": [
+        [
+          "Hi-res audioformaten",
+          "Speel FLAC, ALAC, WAV, AIFF, DSD, APE en meer"
+        ],
+        [
+          "Audio-equalizer",
+          "Pro-EQ, basversterker, voorversterker en toonhoogteregeling"
+        ],
+        [
+          "Audio-effecten",
+          "Reverb, echo, chorus, flanger, distortie en meer"
+        ],
+        [
+          "Geluid van studiokwaliteit",
+          "Lossless decodering bij hoge samplerates en bitdieptes"
+        ],
+        [
+          "Bibliotheek & afspeellijsten",
+          "Groepeer op album, artiest, genre; maak afspeellijsten"
+        ],
+        [
+          "Cloudstreaming",
+          "Stream hi-res audio vanuit de cloud, zonder extra ruimte"
+        ],
+        [
+          "NAS & computer",
+          "Speel en verstuur bestanden via Wi-Fi vanaf een NAS of PC"
+        ],
+        [
+          "Offlinemodus",
+          "Download nummers en afspeellijsten om offline te luisteren"
+        ]
+      ],
+      "a11yTitle": "App-banner",
+      "a11yClose": "App-banner sluiten",
+      "a11yIcon": "App-pictogram",
+      "a11yShot": "App-schermafbeelding"
+    },
+    "or": {
+      "eyebrow": "ଆମର <span class=\"hl\">ମାଗଣା</span> ଆପ୍ ଡାଉନଲୋଡ୍ କରନ୍ତୁ",
+      "appTitle": "Flacbox",
+      "hook": "ଆପଣଙ୍କ iPhone ପାଇଁ ହାଇ-ରେଜ୍ ଅଡିଓ ପ୍ଲେୟାର",
+      "storeSmall": "ଡାଉନଲୋଡ୍ କରନ୍ତୁ",
+      "free": "ମାଗଣା",
+      "trust": "ସୀମା ବିନା ହାଇ-ରେଜ୍ ସଙ୍ଗୀତ ଶୁଣନ୍ତୁ",
+      "features": [
+        [
+          "ହାଇ-ରେଜ୍ ଅଡିଓ ଫର୍ମାଟ୍",
+          "FLAC, ALAC, WAV, AIFF, DSD, APE ଏବଂ ଆହୁରି ଅଧିକ ଚଲାନ୍ତୁ"
+        ],
+        [
+          "ଅଡିଓ ଇକ୍ୱାଲାଇଜର",
+          "ପ୍ରୋ EQ, ବେସ୍ ବୁଷ୍ଟର, ପ୍ରିଆମ୍ପ ଏବଂ ପିଚ୍ ନିୟନ୍ତ୍ରଣ"
+        ],
+        [
+          "ଅଡିଓ ଇଫେକ୍ଟ",
+          "ରିଭର୍ବ, ଇକୋ, କୋରସ୍, ଫ୍ଲାଞ୍ଜର, ଡିଷ୍ଟୋର୍ସନ ଏବଂ ଆହୁରି"
+        ],
+        [
+          "ଷ୍ଟୁଡିଓ-ଗୁଣବତ୍ତା ଧ୍ୱନି",
+          "ଉଚ୍ଚ ସାମ୍ପଲ୍ ରେଟ୍ ଏବଂ ବିଟ୍ ଡେପ୍ଥରେ ଲସ୍‌ଲେସ୍ ଡିକୋଡିଂ"
+        ],
+        [
+          "ଲାଇବ୍ରେରୀ ଓ ପ୍ଲେଲିଷ୍ଟ",
+          "ଆଲବମ୍, କଳାକାର, ଶୈଳୀ ଅନୁସାରେ ଗୋଷ୍ଠୀ କରନ୍ତୁ; ପ୍ଲେଲିଷ୍ଟ ତିଆରି କରନ୍ତୁ"
+        ],
+        [
+          "କ୍ଲାଉଡ୍ ଷ୍ଟ୍ରିମିଂ",
+          "ଅତିରିକ୍ତ ସ୍ଥାନ ବିନା କ୍ଲାଉଡ୍‌ରୁ ହାଇ-ରେଜ୍ ଅଡିଓ ଷ୍ଟ୍ରିମ୍ କରନ୍ତୁ"
+        ],
+        [
+          "NAS ଓ କମ୍ପ୍ୟୁଟର",
+          "NAS କିମ୍ବା PC ରୁ Wi-Fi ମାଧ୍ୟମରେ ଫାଇଲ ଚଲାନ୍ତୁ ଓ ସ୍ଥାନାନ୍ତର କରନ୍ତୁ"
+        ],
+        [
+          "ଅଫଲାଇନ୍ ମୋଡ୍",
+          "ଅଫଲାଇନ୍ ଶୁଣିବା ପାଇଁ ଗୀତ ଓ ପ୍ଲେଲିଷ୍ଟ ଡାଉନଲୋଡ୍ କରନ୍ତୁ"
+        ]
+      ],
+      "a11yTitle": "ଆପ୍ ବ୍ୟାନର୍",
+      "a11yClose": "ଆପ୍ ବ୍ୟାନର୍ ବନ୍ଦ କରନ୍ତୁ",
+      "a11yIcon": "ଆପ୍ ଆଇକନ୍",
+      "a11yShot": "ଆପ୍ ସ୍କ୍ରିନ୍‌ସଟ୍"
+    },
+    "pa": {
+      "eyebrow": "ਸਾਡੀ <span class=\"hl\">ਮੁਫ਼ਤ</span> ਐਪ ਡਾਊਨਲੋਡ ਕਰੋ",
+      "appTitle": "Flacbox",
+      "hook": "ਤੁਹਾਡੇ iPhone ਲਈ ਹਾਈ-ਰੈਜ਼ ਆਡੀਓ ਪਲੇਅਰ",
+      "storeSmall": "ਡਾਊਨਲੋਡ ਕਰੋ",
+      "free": "ਮੁਫ਼ਤ",
+      "trust": "ਬਿਨਾਂ ਹੱਦਾਂ ਹਾਈ-ਰੈਜ਼ ਸੰਗੀਤ ਸੁਣੋ",
+      "features": [
+        [
+          "ਹਾਈ-ਰੈਜ਼ ਆਡੀਓ ਫਾਰਮੈਟ",
+          "FLAC, ALAC, WAV, AIFF, DSD, APE ਅਤੇ ਹੋਰ ਚਲਾਓ"
+        ],
+        [
+          "ਆਡੀਓ ਇਕੁਅਲਾਈਜ਼ਰ",
+          "ਪ੍ਰੋ EQ, ਬਾਸ ਬੂਸਟਰ, ਪ੍ਰੀਐਂਪ ਅਤੇ ਪਿੱਚ ਕੰਟਰੋਲ"
+        ],
+        [
+          "ਆਡੀਓ ਇਫੈਕਟ",
+          "ਰਿਵਰਬ, ਈਕੋ, ਕੋਰਸ, ਫਲੈਂਜਰ, ਡਿਸਟੋਰਸ਼ਨ ਅਤੇ ਹੋਰ"
+        ],
+        [
+          "ਸਟੂਡੀਓ-ਗੁਣਵੱਤਾ ਵਾਲੀ ਆਵਾਜ਼",
+          "ਉੱਚ ਸੈਂਪਲ ਰੇਟ ਅਤੇ ਬਿੱਟ ਡੈਪਥ 'ਤੇ ਲੌਸਲੈੱਸ ਡੀਕੋਡਿੰਗ"
+        ],
+        [
+          "ਲਾਇਬ੍ਰੇਰੀ ਅਤੇ ਪਲੇਲਿਸਟ",
+          "ਐਲਬਮ, ਕਲਾਕਾਰ, ਸ਼ੈਲੀ ਅਨੁਸਾਰ ਗਰੁੱਪ ਕਰੋ; ਪਲੇਲਿਸਟ ਬਣਾਓ"
+        ],
+        [
+          "ਕਲਾਊਡ ਸਟ੍ਰੀਮਿੰਗ",
+          "ਵਾਧੂ ਥਾਂ ਤੋਂ ਬਿਨਾਂ ਕਲਾਊਡ ਤੋਂ ਹਾਈ-ਰੈਜ਼ ਆਡੀਓ ਸਟ੍ਰੀਮ ਕਰੋ"
+        ],
+        [
+          "NAS ਅਤੇ ਕੰਪਿਊਟਰ",
+          "NAS ਜਾਂ PC ਤੋਂ Wi-Fi 'ਤੇ ਫਾਈਲਾਂ ਚਲਾਓ ਅਤੇ ਟ੍ਰਾਂਸਫਰ ਕਰੋ"
+        ],
+        [
+          "ਆਫਲਾਈਨ ਮੋਡ",
+          "ਆਫਲਾਈਨ ਸੁਣਨ ਲਈ ਗਾਣੇ ਅਤੇ ਪਲੇਲਿਸਟ ਡਾਊਨਲੋਡ ਕਰੋ"
+        ]
+      ],
+      "a11yTitle": "ਐਪ ਬੈਨਰ",
+      "a11yClose": "ਐਪ ਬੈਨਰ ਬੰਦ ਕਰੋ",
+      "a11yIcon": "ਐਪ ਆਈਕਨ",
+      "a11yShot": "ਐਪ ਸਕ੍ਰੀਨਸ਼ਾਟ"
+    },
+    "pl": {
+      "eyebrow": "Pobierz naszą <span class=\"hl\">darmową</span> aplikację",
+      "appTitle": "Flacbox",
+      "hook": "Odtwarzacz audio hi-res dla Twojego iPhone'a",
+      "storeSmall": "Pobierz z",
+      "free": "Za darmo",
+      "trust": "Słuchaj muzyki hi-res bez ograniczeń",
+      "features": [
+        [
+          "Formaty audio hi-res",
+          "Odtwarzaj FLAC, ALAC, WAV, AIFF, DSD, APE i więcej"
+        ],
+        [
+          "Korektor dźwięku",
+          "Pro EQ, wzmacniacz basów, przedwzmacniacz i kontrola wysokości tonu"
+        ],
+        [
+          "Efekty dźwiękowe",
+          "Pogłos, echo, chór, flanger, przester i więcej"
+        ],
+        [
+          "Dźwięk jakości studyjnej",
+          "Bezstratne dekodowanie przy wysokich częstotliwościach próbkowania i głębiach bitowych"
+        ],
+        [
+          "Biblioteka i playlisty",
+          "Grupuj według albumu, artysty, gatunku; twórz playlisty"
+        ],
+        [
+          "Streaming z chmury",
+          "Odtwarzaj audio hi-res z chmury, bez dodatkowego miejsca"
+        ],
+        [
+          "NAS i komputer",
+          "Odtwarzaj i przesyłaj pliki przez Wi-Fi z NAS lub PC"
+        ],
+        [
+          "Tryb offline",
+          "Pobieraj utwory i playlisty, by słuchać offline"
+        ]
+      ],
+      "a11yTitle": "Baner aplikacji",
+      "a11yClose": "Zamknij baner aplikacji",
+      "a11yIcon": "Ikona aplikacji",
+      "a11yShot": "Zrzut ekranu aplikacji"
+    },
+    "pt": {
+      "eyebrow": "Baixe nosso app <span class=\"hl\">grátis</span>",
+      "appTitle": "Flacbox",
+      "hook": "Reprodutor de áudio de alta resolução para o seu iPhone",
+      "storeSmall": "Baixe na",
+      "free": "Grátis",
+      "trust": "Ouça música de alta resolução sem limites",
+      "features": [
+        [
+          "Formatos de áudio de alta resolução",
+          "Reproduza FLAC, ALAC, WAV, AIFF, DSD, APE e mais"
+        ],
+        [
+          "Equalizador de áudio",
+          "EQ pro, reforço de graves, pré-amplificador e controle de tom"
+        ],
+        [
+          "Efeitos de áudio",
+          "Reverb, eco, coro, flanger, distorção e mais"
+        ],
+        [
+          "Som com qualidade de estúdio",
+          "Decodificação lossless em altas taxas de amostragem e profundidades de bits"
+        ],
+        [
+          "Biblioteca e playlists",
+          "Agrupe por álbum, artista, gênero; crie playlists"
+        ],
+        [
+          "Streaming na nuvem",
+          "Transmita áudio de alta resolução da nuvem, sem espaço extra"
+        ],
+        [
+          "NAS e computador",
+          "Reproduza e transfira arquivos por Wi-Fi de um NAS ou PC"
+        ],
+        [
+          "Modo offline",
+          "Baixe músicas e playlists para ouvir offline"
+        ]
+      ],
+      "a11yTitle": "Banner do app",
+      "a11yClose": "Fechar banner do app",
+      "a11yIcon": "Ícone do app",
+      "a11yShot": "Captura de tela do app"
+    },
+    "ro": {
+      "eyebrow": "Descarcă aplicația noastră <span class=\"hl\">gratuită</span>",
+      "appTitle": "Flacbox",
+      "hook": "Player audio de înaltă rezoluție pentru iPhone-ul tău",
+      "storeSmall": "Descarcă din",
+      "free": "Gratuit",
+      "trust": "Ascultă muzică de înaltă rezoluție fără limite",
+      "features": [
+        [
+          "Formate audio de înaltă rezoluție",
+          "Redă FLAC, ALAC, WAV, AIFF, DSD, APE și altele"
+        ],
+        [
+          "Egalizator audio",
+          "EQ pro, amplificator de başi, preamplificator și control al tonului"
+        ],
+        [
+          "Efecte audio",
+          "Reverb, ecou, cor, flanger, distorsiune și altele"
+        ],
+        [
+          "Sunet de calitate de studio",
+          "Decodare fără pierderi la rate de eșantionare și adâncimi de biți ridicate"
+        ],
+        [
+          "Bibliotecă și playlisturi",
+          "Grupează după album, artist, gen; creează playlisturi"
+        ],
+        [
+          "Streaming din cloud",
+          "Redă audio de înaltă rezoluție din cloud, fără spațiu suplimentar"
+        ],
+        [
+          "NAS și computer",
+          "Redă și transferă fișiere prin Wi-Fi de la un NAS sau PC"
+        ],
+        [
+          "Mod offline",
+          "Descarcă melodii și playlisturi pentru ascultare offline"
+        ]
+      ],
+      "a11yTitle": "Banner aplicație",
+      "a11yClose": "Închide bannerul aplicației",
+      "a11yIcon": "Pictogramă aplicație",
+      "a11yShot": "Captură de ecran aplicație"
+    },
+    "ru": {
+      "eyebrow": "Скачайте наше <span class=\"hl\">бесплатное</span> приложение",
+      "appTitle": "Flacbox",
+      "hook": "Hi-res аудиоплеер для вашего iPhone",
+      "storeSmall": "Загрузите в",
+      "free": "Бесплатно",
+      "trust": "Слушайте музыку в hi-res без ограничений",
+      "features": [
+        [
+          "Форматы аудио hi-res",
+          "Воспроизводите FLAC, ALAC, WAV, AIFF, DSD, APE и другие"
+        ],
+        [
+          "Аудиоэквалайзер",
+          "Профессиональный EQ, усилитель баса, предусилитель и контроль высоты тона"
+        ],
+        [
+          "Аудиоэффекты",
+          "Реверберация, эхо, хорус, флэнжер, дисторшн и другие"
+        ],
+        [
+          "Звук студийного качества",
+          "Декодирование без потерь на высоких частотах дискретизации и разрядностях"
+        ],
+        [
+          "Библиотека и плейлисты",
+          "Группируйте по альбому, исполнителю, жанру; создавайте плейлисты"
+        ],
+        [
+          "Потоковая передача из облака",
+          "Транслируйте аудио hi-res из облака без дополнительного места"
+        ],
+        [
+          "NAS и компьютер",
+          "Воспроизводите и передавайте файлы по Wi-Fi с NAS или PC"
+        ],
+        [
+          "Офлайн-режим",
+          "Скачивайте песни и плейлисты для прослушивания офлайн"
+        ]
+      ],
+      "a11yTitle": "Баннер приложения",
+      "a11yClose": "Закрыть баннер приложения",
+      "a11yIcon": "Значок приложения",
+      "a11yShot": "Скриншот приложения"
+    },
+    "sk": {
+      "eyebrow": "Stiahnite si našu <span class=\"hl\">bezplatnú</span> aplikáciu",
+      "appTitle": "Flacbox",
+      "hook": "Hi-res prehrávač zvuku pre váš iPhone",
+      "storeSmall": "Stiahnuť z",
+      "free": "Zadarmo",
+      "trust": "Počúvajte hi-res hudbu bez obmedzení",
+      "features": [
+        [
+          "Hi-res audio formáty",
+          "Prehrávajte FLAC, ALAC, WAV, AIFF, DSD, APE a ďalšie"
+        ],
+        [
+          "Ekvalizér zvuku",
+          "Pro EQ, zosilňovač basov, predzosilňovač a ovládanie výšky tónu"
+        ],
+        [
+          "Zvukové efekty",
+          "Reverb, echo, chorus, flanger, skreslenie a ďalšie"
+        ],
+        [
+          "Zvuk v štúdiovej kvalite",
+          "Bezstratové dekódovanie pri vysokých vzorkovacích frekvenciách a bitových hĺbkach"
+        ],
+        [
+          "Knižnica a playlisty",
+          "Zoskupujte podľa albumu, interpreta, žánru; vytvárajte playlisty"
+        ],
+        [
+          "Streamovanie z cloudu",
+          "Streamujte hi-res zvuk z cloudu bez miesta navyše"
+        ],
+        [
+          "NAS a počítač",
+          "Prehrávajte a prenášajte súbory cez Wi-Fi z NAS alebo PC"
+        ],
+        [
+          "Offline režim",
+          "Stiahnite si skladby a playlisty na offline počúvanie"
+        ]
+      ],
+      "a11yTitle": "Banner aplikácie",
+      "a11yClose": "Zavrieť banner aplikácie",
+      "a11yIcon": "Ikona aplikácie",
+      "a11yShot": "Snímka aplikácie"
+    },
+    "sl": {
+      "eyebrow": "Prenesite našo <span class=\"hl\">brezplačno</span> aplikacijo",
+      "appTitle": "Flacbox",
+      "hook": "Hi-res predvajalnik zvoka za vaš iPhone",
+      "storeSmall": "Prenesite v",
+      "free": "Brezplačno",
+      "trust": "Poslušajte hi-res glasbo brez omejitev",
+      "features": [
+        [
+          "Hi-res zvočni formati",
+          "Predvajajte FLAC, ALAC, WAV, AIFF, DSD, APE in več"
+        ],
+        [
+          "Zvočni izenačevalnik",
+          "Pro EQ, ojačevalnik basov, predojačevalnik in nadzor višine tona"
+        ],
+        [
+          "Zvočni učinki",
+          "Odmev, jeka, zbor, flanger, popačenje in več"
+        ],
+        [
+          "Zvok studijske kakovosti",
+          "Brezizgubno dekodiranje pri visokih frekvencah vzorčenja in bitnih globinah"
+        ],
+        [
+          "Knjižnica in seznami predvajanja",
+          "Združujte po albumu, izvajalcu, zvrsti; ustvarjajte sezname predvajanja"
+        ],
+        [
+          "Pretakanje iz oblaka",
+          "Pretakajte hi-res zvok iz oblaka, brez dodatnega prostora"
+        ],
+        [
+          "NAS in računalnik",
+          "Predvajajte in prenašajte datoteke prek Wi-Fija z NAS-a ali PC-ja"
+        ],
+        [
+          "Način brez povezave",
+          "Prenesite skladbe in sezname predvajanja za poslušanje brez povezave"
+        ]
+      ],
+      "a11yTitle": "Pasica aplikacije",
+      "a11yClose": "Zapri pasico aplikacije",
+      "a11yIcon": "Ikona aplikacije",
+      "a11yShot": "Posnetek zaslona aplikacije"
+    },
+    "sv": {
+      "eyebrow": "Ladda ner vår <span class=\"hl\">gratis</span> app",
+      "appTitle": "Flacbox",
+      "hook": "Hi-res-ljudspelare för din iPhone",
+      "storeSmall": "Ladda ner på",
+      "free": "Gratis",
+      "trust": "Lyssna på hi-res-musik utan gränser",
+      "features": [
+        [
+          "Hi-res-ljudformat",
+          "Spela FLAC, ALAC, WAV, AIFF, DSD, APE och mer"
+        ],
+        [
+          "Ljudequalizer",
+          "Pro-EQ, basförstärkare, förförstärkare och tonhöjdskontroll"
+        ],
+        [
+          "Ljudeffekter",
+          "Efterklang, eko, kör, flanger, distorsion och mer"
+        ],
+        [
+          "Ljud med studiokvalitet",
+          "Förlustfri avkodning vid höga samplingsfrekvenser och bitdjup"
+        ],
+        [
+          "Bibliotek och spellistor",
+          "Gruppera efter album, artist, genre; skapa spellistor"
+        ],
+        [
+          "Molnströmning",
+          "Strömma hi-res-ljud från molnet, utan extra utrymme"
+        ],
+        [
+          "NAS och dator",
+          "Spela och överför filer över Wi-Fi från en NAS eller PC"
+        ],
+        [
+          "Offlineläge",
+          "Ladda ner låtar och spellistor för att lyssna offline"
+        ]
+      ],
+      "a11yTitle": "Appbanner",
+      "a11yClose": "Stäng appbanner",
+      "a11yIcon": "Appikon",
+      "a11yShot": "App-skärmbild"
+    },
+    "ta": {
+      "eyebrow": "எங்கள் <span class=\"hl\">இலவச</span> ஆப்பைப் பதிவிறக்குங்கள்",
+      "appTitle": "Flacbox",
+      "hook": "உங்கள் iPhone-க்கான ஹை-ரெஸ் ஆடியோ பிளேயர்",
+      "storeSmall": "பதிவிறக்குங்கள்",
+      "free": "இலவசம்",
+      "trust": "வரம்பின்றி ஹை-ரெஸ் இசையைக் கேளுங்கள்",
+      "features": [
+        [
+          "ஹை-ரெஸ் ஆடியோ வடிவங்கள்",
+          "FLAC, ALAC, WAV, AIFF, DSD, APE மற்றும் பலவற்றை இயக்குங்கள்"
+        ],
+        [
+          "ஆடியோ ஈக்வலைசர்",
+          "ப்ரோ EQ, பாஸ் பூஸ்டர், ப்ரீஆம்ப் மற்றும் பிட்ச் கட்டுப்பாடு"
+        ],
+        [
+          "ஆடியோ எஃபெக்ட்ஸ்",
+          "ரிவர்ப், எதிரொலி, கோரஸ், ஃப்ளேஞ்சர், டிஸ்டார்ஷன் மற்றும் பல"
+        ],
+        [
+          "ஸ்டுடியோ-தரமான ஒலி",
+          "உயர் சாம்பிள் விகிதங்கள் மற்றும் பிட் ஆழங்களில் லாஸ்லெஸ் டிகோடிங்"
+        ],
+        [
+          "நூலகம் மற்றும் பிளேலிஸ்ட்கள்",
+          "ஆல்பம், கலைஞர், வகை வாரியாக குழுவாக்குங்கள்; பிளேலிஸ்ட்களை உருவாக்குங்கள்"
+        ],
+        [
+          "கிளவுட் ஸ்ட்ரீமிங்",
+          "கூடுதல் இடமின்றி கிளவுடிலிருந்து ஹை-ரெஸ் ஆடியோவை ஸ்ட்ரீம் செய்யுங்கள்"
+        ],
+        [
+          "NAS மற்றும் கணினி",
+          "NAS அல்லது PC-யிலிருந்து Wi-Fi வழியாக கோப்புகளை இயக்கி பரிமாற்றம் செய்யுங்கள்"
+        ],
+        [
+          "ஆஃப்லைன் பயன்முறை",
+          "ஆஃப்லைனில் கேட்க பாடல்கள் மற்றும் பிளேலிஸ்ட்களை பதிவிறக்கவும்"
+        ]
+      ],
+      "a11yTitle": "ஆப் பேனர்",
+      "a11yClose": "ஆப் பேனரை மூடு",
+      "a11yIcon": "ஆப் ஐகான்",
+      "a11yShot": "ஆப் ஸ்கிரீன்ஷாட்"
+    },
+    "te": {
+      "eyebrow": "మా <span class=\"hl\">ఉచిత</span> యాప్‌ను డౌన్‌లోడ్ చేయండి",
+      "appTitle": "Flacbox",
+      "hook": "మీ iPhone కోసం హై-రెజ్ ఆడియో ప్లేయర్",
+      "storeSmall": "డౌన్‌లోడ్ చేయండి",
+      "free": "ఉచితం",
+      "trust": "పరిమితులు లేకుండా హై-రెజ్ సంగీతం వినండి",
+      "features": [
+        [
+          "హై-రెజ్ ఆడియో ఫార్మాట్‌లు",
+          "FLAC, ALAC, WAV, AIFF, DSD, APE మరియు మరిన్ని ప్లే చేయండి"
+        ],
+        [
+          "ఆడియో ఈక్వలైజర్",
+          "ప్రో EQ, బాస్ బూస్టర్, ప్రీయాంప్ మరియు పిచ్ కంట్రోల్"
+        ],
+        [
+          "ఆడియో ఎఫెక్ట్‌లు",
+          "రివర్బ్, ఎకో, కోరస్, ఫ్లాంజర్, డిస్టార్షన్ మరియు మరిన్ని"
+        ],
+        [
+          "స్టూడియో-నాణ్యత ధ్వని",
+          "అధిక సాంపిల్ రేట్లు మరియు బిట్ డెప్త్‌లలో లాస్‌లెస్ డీకోడింగ్"
+        ],
+        [
+          "లైబ్రరీ & ప్లేలిస్ట్‌లు",
+          "ఆల్బమ్, కళాకారుడు, శైలి ప్రకారం గ్రూప్ చేయండి; ప్లేలిస్ట్‌లు రూపొందించండి"
+        ],
+        [
+          "క్లౌడ్ స్ట్రీమింగ్",
+          "అదనపు స్థలం లేకుండా క్లౌడ్ నుండి హై-రెజ్ ఆడియోను స్ట్రీమ్ చేయండి"
+        ],
+        [
+          "NAS & కంప్యూటర్",
+          "NAS లేదా PC నుండి Wi-Fi ద్వారా ఫైల్‌లను ప్లే చేసి బదిలీ చేయండి"
+        ],
+        [
+          "ఆఫ్‌లైన్ మోడ్",
+          "ఆఫ్‌లైన్‌లో వినడానికి పాటలు మరియు ప్లేలిస్ట్‌లను డౌన్‌లోడ్ చేయండి"
+        ]
+      ],
+      "a11yTitle": "యాప్ బ్యానర్",
+      "a11yClose": "యాప్ బ్యానర్ మూసివేయండి",
+      "a11yIcon": "యాప్ ఐకాన్",
+      "a11yShot": "యాప్ స్క్రీన్‌షాట్"
+    },
+    "th": {
+      "eyebrow": "ดาวน์โหลดแอป <span class=\"hl\">ฟรี</span> ของเรา",
+      "appTitle": "Flacbox",
+      "hook": "เครื่องเล่นเสียงความละเอียดสูงสำหรับ iPhone ของคุณ",
+      "storeSmall": "ดาวน์โหลดบน",
+      "free": "ฟรี",
+      "trust": "ฟังเพลงความละเอียดสูงได้ไม่จำกัด",
+      "features": [
+        [
+          "รูปแบบเสียงความละเอียดสูง",
+          "เล่น FLAC, ALAC, WAV, AIFF, DSD, APE และอื่นๆ"
+        ],
+        [
+          "อีควอไลเซอร์เสียง",
+          "EQ ระดับโปร, ตัวเพิ่มเบส, ปรีแอมป์ และควบคุมระดับเสียง"
+        ],
+        [
+          "เอฟเฟกต์เสียง",
+          "รีเวิร์บ, เอคโค, คอรัส, แฟลนเจอร์, ดิสตอร์ชัน และอื่นๆ"
+        ],
+        [
+          "เสียงคุณภาพระดับสตูดิโอ",
+          "ถอดรหัสแบบไม่สูญเสียที่อัตราสุ่มตัวอย่างและความลึกบิตสูง"
+        ],
+        [
+          "คลังและเพลย์ลิสต์",
+          "จัดกลุ่มตามอัลบั้ม ศิลปิน แนวเพลง; สร้างเพลย์ลิสต์"
+        ],
+        [
+          "สตรีมมิงจากคลาวด์",
+          "สตรีมเสียงความละเอียดสูงจากคลาวด์ โดยไม่ใช้พื้นที่เพิ่ม"
+        ],
+        [
+          "NAS และคอมพิวเตอร์",
+          "เล่นและถ่ายโอนไฟล์ผ่าน Wi-Fi จาก NAS หรือ PC"
+        ],
+        [
+          "โหมดออฟไลน์",
+          "ดาวน์โหลดเพลงและเพลย์ลิสต์เพื่อฟังแบบออฟไลน์"
+        ]
+      ],
+      "a11yTitle": "แบนเนอร์แอป",
+      "a11yClose": "ปิดแบนเนอร์แอป",
+      "a11yIcon": "ไอคอนแอป",
+      "a11yShot": "ภาพหน้าจอแอป"
+    },
+    "tr": {
+      "eyebrow": "<span class=\"hl\">Ücretsiz</span> uygulamamızı indirin",
+      "appTitle": "Flacbox",
+      "hook": "iPhone'unuz için hi-res ses çalar",
+      "storeSmall": "Şuradan indirin:",
+      "free": "Ücretsiz",
+      "trust": "Sınırsız hi-res müzik dinleyin",
+      "features": [
+        [
+          "Hi-res ses formatları",
+          "FLAC, ALAC, WAV, AIFF, DSD, APE ve daha fazlasını çalın"
+        ],
+        [
+          "Ses ekolayzırı",
+          "Pro EQ, bas yükseltici, ön yükseltici ve perde kontrolü"
+        ],
+        [
+          "Ses efektleri",
+          "Yankı, eko, koro, flanger, distorsiyon ve daha fazlası"
+        ],
+        [
+          "Stüdyo kalitesinde ses",
+          "Yüksek örnekleme hızlarında ve bit derinliklerinde kayıpsız çözümleme"
+        ],
+        [
+          "Kitaplık ve çalma listeleri",
+          "Albüm, sanatçı, türe göre gruplandırın; çalma listeleri oluşturun"
+        ],
+        [
+          "Bulut yayını",
+          "Ekstra alan olmadan buluttan hi-res ses yayınlayın"
+        ],
+        [
+          "NAS ve bilgisayar",
+          "NAS veya PC'den Wi-Fi üzerinden dosyaları çalın ve aktarın"
+        ],
+        [
+          "Çevrimdışı mod",
+          "Çevrimdışı dinlemek için şarkıları ve çalma listelerini indirin"
+        ]
+      ],
+      "a11yTitle": "Uygulama afişi",
+      "a11yClose": "Uygulama afişini kapat",
+      "a11yIcon": "Uygulama simgesi",
+      "a11yShot": "Uygulama ekran görüntüsü"
+    },
+    "uk": {
+      "eyebrow": "Завантажте наш <span class=\"hl\">безкоштовний</span> застосунок",
+      "appTitle": "Flacbox",
+      "hook": "Hi-res аудіоплеєр для вашого iPhone",
+      "storeSmall": "Завантажте в",
+      "free": "Безкоштовно",
+      "trust": "Слухайте музику hi-res без обмежень",
+      "features": [
+        [
+          "Формати аудіо hi-res",
+          "Відтворюйте FLAC, ALAC, WAV, AIFF, DSD, APE та інші"
+        ],
+        [
+          "Аудіоеквалайзер",
+          "Професійний EQ, підсилювач басів, попередній підсилювач і контроль висоти тону"
+        ],
+        [
+          "Аудіоефекти",
+          "Реверберація, відлуння, хорус, фленжер, дисторшн та інші"
+        ],
+        [
+          "Звук студійної якості",
+          "Декодування без втрат на високих частотах дискретизації та розрядностях"
+        ],
+        [
+          "Бібліотека та плейлисти",
+          "Групуйте за альбомом, виконавцем, жанром; створюйте плейлисти"
+        ],
+        [
+          "Потокове відтворення з хмари",
+          "Транслюйте аудіо hi-res із хмари без додаткового місця"
+        ],
+        [
+          "NAS і комп'ютер",
+          "Відтворюйте та передавайте файли через Wi-Fi з NAS або PC"
+        ],
+        [
+          "Офлайн-режим",
+          "Завантажуйте пісні та плейлисти для прослуховування офлайн"
+        ]
+      ],
+      "a11yTitle": "Банер застосунку",
+      "a11yClose": "Закрити банер застосунку",
+      "a11yIcon": "Значок застосунку",
+      "a11yShot": "Знімок екрана застосунку"
+    },
+    "ur": {
+      "dir": "rtl",
+      "eyebrow": "ہماری <span class=\"hl\">مفت</span> ایپ ڈاؤن لوڈ کریں",
+      "appTitle": "Flacbox",
+      "hook": "آپ کے iPhone کے لیے ہائی ریز آڈیو پلیئر",
+      "storeSmall": "ڈاؤن لوڈ کریں",
+      "free": "مفت",
+      "trust": "بغیر کسی حد کے ہائی ریز موسیقی سنیں",
+      "features": [
+        [
+          "ہائی ریز آڈیو فارمیٹس",
+          "FLAC، ALAC، WAV، AIFF، DSD، APE اور مزید چلائیں"
+        ],
+        [
+          "آڈیو ایکوالائزر",
+          "پرو EQ، بیس بوسٹر، پری ایمپ اور پچ کنٹرول"
+        ],
+        [
+          "آڈیو ایفیکٹس",
+          "ریورب، ایکو، کورس، فلینجر، ڈسٹورشن اور مزید"
+        ],
+        [
+          "اسٹوڈیو معیار کی آواز",
+          "اعلیٰ سیمپل ریٹ اور بٹ ڈیپتھ پر لاس لیس ڈی کوڈنگ"
+        ],
+        [
+          "لائبریری اور پلے لسٹس",
+          "البم، فنکار، صنف کے لحاظ سے گروپ کریں؛ پلے لسٹس بنائیں"
+        ],
+        [
+          "کلاؤڈ اسٹریمنگ",
+          "اضافی جگہ کے بغیر کلاؤڈ سے ہائی ریز آڈیو اسٹریم کریں"
+        ],
+        [
+          "NAS اور کمپیوٹر",
+          "NAS یا PC سے Wi-Fi پر فائلیں چلائیں اور منتقل کریں"
+        ],
+        [
+          "آف لائن موڈ",
+          "آف لائن سننے کے لیے گانے اور پلے لسٹس ڈاؤن لوڈ کریں"
+        ]
+      ],
+      "a11yTitle": "ایپ بینر",
+      "a11yClose": "ایپ بینر بند کریں",
+      "a11yIcon": "ایپ آئیکن",
+      "a11yShot": "ایپ اسکرین شاٹ"
+    },
+    "vi": {
+      "eyebrow": "Tải ứng dụng <span class=\"hl\">miễn phí</span> của chúng tôi",
+      "appTitle": "Flacbox",
+      "hook": "Trình phát âm thanh hi-res cho iPhone của bạn",
+      "storeSmall": "Tải xuống trên",
+      "free": "Miễn phí",
+      "trust": "Nghe nhạc hi-res không giới hạn",
+      "features": [
+        [
+          "Định dạng âm thanh hi-res",
+          "Phát FLAC, ALAC, WAV, AIFF, DSD, APE và nhiều hơn nữa"
+        ],
+        [
+          "Bộ chỉnh âm",
+          "EQ chuyên nghiệp, tăng cường bass, tiền khuếch đại và điều chỉnh cao độ"
+        ],
+        [
+          "Hiệu ứng âm thanh",
+          "Vang, tiếng vọng, hợp xướng, flanger, méo tiếng và nhiều hơn nữa"
+        ],
+        [
+          "Âm thanh chất lượng phòng thu",
+          "Giải mã lossless ở tốc độ lấy mẫu và độ sâu bit cao"
+        ],
+        [
+          "Thư viện & danh sách phát",
+          "Nhóm theo album, nghệ sĩ, thể loại; tạo danh sách phát"
+        ],
+        [
+          "Phát trực tuyến từ đám mây",
+          "Phát âm thanh hi-res từ đám mây, không tốn thêm dung lượng"
+        ],
+        [
+          "NAS & máy tính",
+          "Phát và truyền tệp qua Wi-Fi từ NAS hoặc PC"
+        ],
+        [
+          "Chế độ ngoại tuyến",
+          "Tải bài hát và danh sách phát để nghe ngoại tuyến"
+        ]
+      ],
+      "a11yTitle": "Biểu ngữ ứng dụng",
+      "a11yClose": "Đóng biểu ngữ ứng dụng",
+      "a11yIcon": "Biểu tượng ứng dụng",
+      "a11yShot": "Ảnh chụp màn hình ứng dụng"
+    },
+    "zh-Hans": {
+      "eyebrow": "下载我们的<span class=\"hl\">免费</span>应用",
+      "appTitle": "Flacbox",
+      "hook": "适用于 iPhone 的高解析度音频播放器",
+      "storeSmall": "下载于",
+      "free": "免费",
+      "trust": "无限畅听高解析度音乐",
+      "features": [
+        [
+          "高解析度音频格式",
+          "播放 FLAC、ALAC、WAV、AIFF、DSD、APE 等格式"
+        ],
+        [
+          "音频均衡器",
+          "专业 EQ、低音增强、前置放大和音调控制"
+        ],
+        [
+          "音频效果",
+          "混响、回声、合唱、镶边、失真等"
+        ],
+        [
+          "录音室级音质",
+          "在高采样率和位深下进行无损解码"
+        ],
+        [
+          "音乐库与播放列表",
+          "按专辑、艺术家、流派分组；创建播放列表"
+        ],
+        [
+          "云端串流",
+          "从云端串流高解析度音频，无需额外空间"
+        ],
+        [
+          "NAS 与电脑",
+          "通过 Wi-Fi 从 NAS 或 PC 播放和传输文件"
+        ],
+        [
+          "离线模式",
+          "下载歌曲和播放列表以便离线聆听"
+        ]
+      ],
+      "a11yTitle": "应用横幅",
+      "a11yClose": "关闭应用横幅",
+      "a11yIcon": "应用图标",
+      "a11yShot": "应用截图"
+    },
+    "zh-Hant": {
+      "eyebrow": "下載我們的<span class=\"hl\">免費</span>應用程式",
+      "appTitle": "Flacbox",
+      "hook": "適用於 iPhone 的高解析度音訊播放器",
+      "storeSmall": "下載於",
+      "free": "免費",
+      "trust": "無限暢聽高解析度音樂",
+      "features": [
+        [
+          "高解析度音訊格式",
+          "播放 FLAC、ALAC、WAV、AIFF、DSD、APE 等格式"
+        ],
+        [
+          "音訊等化器",
+          "專業 EQ、低音增強、前級放大和音調控制"
+        ],
+        [
+          "音訊效果",
+          "殘響、回音、合唱、鑲邊、失真等"
+        ],
+        [
+          "錄音室級音質",
+          "在高取樣率和位元深度下進行無損解碼"
+        ],
+        [
+          "音樂庫與播放清單",
+          "依專輯、演出者、類型分組；建立播放清單"
+        ],
+        [
+          "雲端串流",
+          "從雲端串流高解析度音訊，無需額外空間"
+        ],
+        [
+          "NAS 與電腦",
+          "透過 Wi-Fi 從 NAS 或 PC 播放和傳輸檔案"
+        ],
+        [
+          "離線模式",
+          "下載歌曲和播放清單以便離線聆聽"
+        ]
+      ],
+      "a11yTitle": "應用程式橫幅",
+      "a11yClose": "關閉應用程式橫幅",
+      "a11yIcon": "應用程式圖示",
+      "a11yShot": "應用程式截圖"
+    }
+  }
+}
