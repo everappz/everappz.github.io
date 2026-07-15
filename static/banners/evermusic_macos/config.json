@@ -5,8 +5,9 @@
   "scheme": "lsevermusicmac",
   "bundleID": "com.leshko.cloudplayer.mac",
   "storeUrl": "https://apps.apple.com/app/apple-store/id1564384601?pt=95781850&ct=cross_app_sale&mt=8",
-  "clickUrl": "",
-  "closeUrl": "",
+  "clickUrl": "action://click",
+  "closeUrl": "action://close",
+  "indexPath": "index.html",
   "defaultLang": "en",
   "screens": [
     "resources/screens/1.png",
