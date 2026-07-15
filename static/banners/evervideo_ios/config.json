@@ -5,8 +5,10 @@
   "scheme": "lsevervideo",
   "bundleID": "com.leshko.videoplayer",
   "storeUrl": "https://apps.apple.com/app/apple-store/id6602897336?pt=95781850&ct=cross_app_sale&mt=8",
+  "webSiteURL": "https://everappz.com/evervideo",
   "clickUrl": "action://click",
   "closeUrl": "action://close",
+  "imageUrl": "action://image",
   "indexPath": "index.html",
   "defaultLang": "en",
   "screens": [

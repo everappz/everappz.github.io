@@ -5,8 +5,10 @@
   "scheme": "lsflap",
   "bundleID": "com.leshko.flap",
   "storeUrl": "https://apps.apple.com/app/apple-store/id1097564256?pt=95781850&ct=cross_app_sale&mt=8",
+  "webSiteURL": "https://everappz.com/flacbox",
   "clickUrl": "action://click",
   "closeUrl": "action://close",
+  "imageUrl": "action://image",
   "indexPath": "index.html",
   "defaultLang": "en",
   "screens": [

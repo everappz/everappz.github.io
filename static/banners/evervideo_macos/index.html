@@ -244,6 +244,8 @@
       }
       .features { flex: 0 1 auto; min-width: 0; }
       .brandrow { display: flex; align-items: center; justify-content: center; gap: 14px; }
+      .app-icon-link { display: contents; cursor: pointer; }
+      a.skip, a.app-icon-link { text-decoration: none; }
       .brand-text { display: flex; flex-direction: column; gap: 4px; text-align: left; min-width: 0; }
       .app-icon {
         flex: 0 0 auto;
@@ -435,9 +437,9 @@
 
       <!-- Top bar -->
       <div class="topbar">
-        <button class="skip" type="button" onclick="dismissInterstitial()" aria-label="Close app banner">
+        <a class="skip" id="closeBtn" href="action://close" role="button" aria-label="Close app banner">
           <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M6 6l12 12M18 6L6 18" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" fill="none" /></svg>
-        </button>
+        </a>
       </div>
 
       <!-- Headline pinned near the top -->
@@ -447,7 +449,7 @@
         <!-- Centered brand header -->
         <div class="header">
           <div class="brandrow">
-            <img class="app-icon" src="resources/appicon.png" alt="App icon" />
+            <a class="app-icon-link" id="iconLink" href="action://image"><img class="app-icon" src="resources/appicon.png" alt="App icon" /></a>
             <div class="brand-text">
               <div class="title" data-i18n="appTitle">Evervideo</div>
               <div class="hook" data-i18n="hook">Play any video file on your Mac</div>
@@ -480,7 +482,7 @@
 
       <!-- Download on the App Store -->
       <div class="cta-group">
-      <a class="cta" id="cta" href="https://apps.apple.com/app/apple-store/id6743504109?pt=95781850&amp;ct=cross_app_sale&amp;mt=8" target="_blank" rel="noopener">
+      <a class="cta" id="cta" href="action://click">
         <div class="store-btn">
           <svg class="apple" viewBox="0 0 24 24" aria-hidden="true"><path d="M16.37 12.42c.02 2.36 2.07 3.15 2.1 3.16-.02.06-.33 1.13-1.09 2.23-.66.95-1.34 1.9-2.42 1.92-1.06.02-1.4-.63-2.61-.63-1.21 0-1.59.61-2.59.65-1.04.04-1.83-1.03-2.5-1.98-1.36-1.96-2.4-5.55-1-7.97.69-1.2 1.93-1.96 3.27-1.98 1.02-.02 1.99.69 2.61.69.62 0 1.79-.85 3.02-.73.52.02 1.97.21 2.9 1.58-.08.05-1.73 1.01-1.71 3.01M14.4 5.27c.55-.67.92-1.6.82-2.52-.79.03-1.75.53-2.32 1.19-.51.59-.96 1.53-.84 2.43.88.07 1.79-.45 2.34-1.1"/></svg>
           <div class="lines">
@@ -498,13 +500,9 @@
       /* ---- Localizations and the store link live in config.json, loaded at
              runtime. The English text baked into the markup above is the
              fallback if the config can't be fetched (e.g. opened as a file). ---- */
-      var closeUrl = null; // tracking endpoint pinged when the Close button is tapped
-      var clickUrl = null; // tracking endpoint pinged when the download CTA is tapped
       var a11yShotText = "App screenshot"; // localized alt for the first screenshot (shared with the slideshow builder)
 
       function applyConfig(cfg) {
-        closeUrl = (cfg && cfg.closeUrl) || null;
-        clickUrl = (cfg && cfg.clickUrl) || null;
         var langs = (cfg && cfg.languages) || {};
         var fallback = cfg && cfg.defaultLang && langs[cfg.defaultLang] ? cfg.defaultLang : "en";
 
@@ -533,12 +531,12 @@
 
         var t = langs[code];
 
-        // Store link applies regardless of language. Prefer an explicit
-        // storeUrl; otherwise build the App Store link from appId.
-        var url = (cfg && cfg.storeUrl) ||
-                  (cfg && cfg.appId ? "https://apps.apple.com/app/id" + cfg.appId : null);
-        var cta = document.getElementById("cta");
-        if (cta && url) cta.setAttribute("href", url);
+        // The download, close, and app-icon taps navigate to action:// URLs
+        // that the native app intercepts and handles internally.
+        (function (c) {
+          function setHref(id, u) { var el = document.getElementById(id); if (el && u) el.setAttribute("href", u); }
+          setHref("cta", c.clickUrl); setHref("closeBtn", c.closeUrl); setHref("iconLink", c.imageUrl);
+        })(cfg || {});
 
         if (!t) return; // no matching language block -> keep baked-in English
 
@@ -581,34 +579,6 @@
         .then(function (r) { return r.json(); })
         .then(function (cfg) { applyConfig(cfg); applyScreens(cfg); })
         .catch(function () { applyScreens(null); }); // config unavailable -> auto-detect screenshots
-
-      // Fire a tracking URL (fire-and-forget). sendBeacon survives the page
-      // being torn down / navigating away; an image pixel is the fallback.
-      function ping(url) {
-        if (!url) return;
-        try {
-          if (navigator.sendBeacon && navigator.sendBeacon(url)) return;
-        } catch (e) {}
-        try { new Image().src = url; } catch (e) {}
-      }
-
-      function dismissInterstitial() {
-        ping(closeUrl);
-        var el = document.querySelector(".interstitial");
-        if (el) el.style.display = "none";
-        try { window.parent && window.parent.postMessage("interstitial:close", "*"); } catch (e) {}
-      }
-
-      // Report the download tap. The link still opens the store normally;
-      // the beacon just fires alongside the navigation.
-      (function () {
-        var cta = document.getElementById("cta");
-        if (!cta) return;
-        cta.addEventListener("click", function () {
-          ping(clickUrl);
-          try { window.parent && window.parent.postMessage("interstitial:click", "*"); } catch (e) {}
-        });
-      })();
 
       // Cross-fading app screenshots. The paths come from config.json
       // ("screens": ["resources/screens/1.png", …]) so they can be changed
