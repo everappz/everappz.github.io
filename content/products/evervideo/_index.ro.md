@@ -144,35 +144,35 @@ Toate funcțiile
 
 {{< cards >}}
 
-{{< card title="Redați toate formatele video și audio" subtitle="Vizionați media fără a converti fișierele. Evervideo suportă toate formatele majore, inclusiv MKV, AVI, MP4, MOV, FLAC, MP3, AAC, OGG, WAV, WMV și multe altele." icon="film">}}
+{{< feature-card title="Redați toate formatele video și audio" subtitle="Vizionați media fără a converti fișierele. Evervideo suportă toate formatele majore, inclusiv MKV, AVI, MP4, MOV, FLAC, MP3, AAC, OGG, WAV, WMV și multe altele." icon="film">}}
 
-{{< card title="Mod offline" subtitle="Descărcați videoclipuri, albume și playlisturi pentru a le viziona fără conexiune la internet. Luați întreaga colecție video oriunde." icon="download">}}
+{{< feature-card title="Mod offline" subtitle="Descărcați videoclipuri, albume și playlisturi pentru a le viziona fără conexiune la internet. Luați întreaga colecție video oriunde." icon="download">}}
 
-{{< card title="Video la 360° și mod VR" subtitle="Vizionați videoclipuri la 360° și VR într-un mod distractiv și ușor. Mișcați telefonul pentru a privi în orice direcție sau puneți-l într-un set VR pentru a vă simți ca și cum ați fi în interiorul videoclipului." icon="video-camera">}}
+{{< feature-card title="Video la 360° și mod VR" subtitle="Vizionați videoclipuri la 360° și VR într-un mod distractiv și ușor. Mișcați telefonul pentru a privi în orice direcție sau puneți-l într-un set VR pentru a vă simți ca și cum ați fi în interiorul videoclipului." icon="video-camera">}}
 
-{{< card title="Picture-in-Picture" subtitle="Continuați vizionarea videoclipurilor într-o fereastră mică flotantă în timp ce folosiți alte aplicații. Controlați redarea și vedeți subtitrările în același timp – perfect pentru multitasking." icon="duplicate">}}
+{{< feature-card title="Picture-in-Picture" subtitle="Continuați vizionarea videoclipurilor într-o fereastră mică flotantă în timp ce folosiți alte aplicații. Controlați redarea și vedeți subtitrările în același timp – perfect pentru multitasking." icon="duplicate">}}
 
-{{< card title="Egalizator video și audio" subtitle="Personalizați modul în care arată și sună videoclipurile. Ajustați basul, tonalitatea, luminozitatea, gamma, saturația, contrastul și altele. Alegeți din peste 50 de presetări video și peste 20 de presetări audio sau creați-vă propriile presetări." icon="adjustments">}}
+{{< feature-card title="Egalizator video și audio" subtitle="Personalizați modul în care arată și sună videoclipurile. Ajustați basul, tonalitatea, luminozitatea, gamma, saturația, contrastul și altele. Alegeți din peste 50 de presetări video și peste 20 de presetări audio sau creați-vă propriile presetări." icon="adjustments">}}
 
-{{< card title="Subtitrări" subtitle="Vizualizați subtitrările încorporate, selectați numărul pistei de subtitrări și bucurați-vă de suport complet pentru subtitrări chiar și în modul Picture-in-Picture." icon="annotation" >}}
+{{< feature-card title="Subtitrări" subtitle="Vizualizați subtitrările încorporate, selectați numărul pistei de subtitrări și bucurați-vă de suport complet pentru subtitrări chiar și în modul Picture-in-Picture." icon="annotation" >}}
 
-{{< card title="Redare directă din cloud" subtitle="Vizionați videoclipuri direct din stocarea cloud fără a utiliza spațiul dispozitivului. Suportă iCloud Drive, Google Drive, Dropbox, OneDrive, MEGA, Synology Drive, pCloud și multe altele." icon="cloud">}}
+{{< feature-card title="Redare directă din cloud" subtitle="Vizionați videoclipuri direct din stocarea cloud fără a utiliza spațiul dispozitivului. Suportă iCloud Drive, Google Drive, Dropbox, OneDrive, MEGA, Synology Drive, pCloud și multe altele." icon="cloud">}}
 
-{{< card title="Conectare computer / NAS" subtitle="Conectați cu ușurință NAS-ul, Mac-ul sau PC-ul prin rețeaua de acasă folosind SMB, WebDAV sau DLNA. Accesul de la distanță este suportat pentru Synology Drive și WD MyCloud Home. Transferați fișiere media pe dispozitiv prin Wi-Fi sau iTunes File Sharing." icon="desktop-computer">}}
+{{< feature-card title="Conectare computer / NAS" subtitle="Conectați cu ușurință NAS-ul, Mac-ul sau PC-ul prin rețeaua de acasă folosind SMB, WebDAV sau DLNA. Accesul de la distanță este suportat pentru Synology Drive și WD MyCloud Home. Transferați fișiere media pe dispozitiv prin Wi-Fi sau iTunes File Sharing." icon="desktop-computer">}}
 
-{{< card title="Bibliotecă media" subtitle="Organizați după album, gen sau durată. Se sincronizează automat cu modificările din cloud. Creați, editați și exportați playlisturi M3U cu sortare personalizată." icon="library" >}}
+{{< feature-card title="Bibliotecă media" subtitle="Organizați după album, gen sau durată. Se sincronizează automat cu modificările din cloud. Creați, editați și exportați playlisturi M3U cu sortare personalizată." icon="library" >}}
 
-{{< card title="Marcaje și salvarea poziției de redare" subtitle="Salvați locul în orice videoclip cu marcaje și reluați redarea de unde ați rămas. Ajustați viteza de redare, marcați favoritele și sortați videoclipurile după cele mai redate pentru acces ușor." icon="book-open">}}
+{{< feature-card title="Marcaje și salvarea poziției de redare" subtitle="Salvați locul în orice videoclip cu marcaje și reluați redarea de unde ați rămas. Ajustați viteza de redare, marcați favoritele și sortați videoclipurile după cele mai redate pentru acces ușor." icon="book-open">}}
 
-{{< card title="AirPlay și Chromecast" subtitle="Redați videoclipuri pe un ecran mai mare prin transmitere către Apple TV, Chromecast sau orice afișaj extern compatibil." icon="device-mobile">}}
+{{< feature-card title="AirPlay și Chromecast" subtitle="Redați videoclipuri pe un ecran mai mare prin transmitere către Apple TV, Chromecast sau orice afișaj extern compatibil." icon="device-mobile">}}
 
-{{< card title="Import din Fișiere și Biblioteci" subtitle="Importați videoclipuri direct din aplicația Fișiere, Fotografii sau biblioteca iTunes. Accesați tot conținutul local și din cloud într-o bibliotecă media organizată." icon="database">}}
+{{< feature-card title="Import din Fișiere și Biblioteci" subtitle="Importați videoclipuri direct din aplicația Fișiere, Fotografii sau biblioteca iTunes. Accesați tot conținutul local și din cloud într-o bibliotecă media organizată." icon="database">}}
 
-{{< card title="Manager de fișiere" subtitle="Mutați, redenumiți, ștergeți și organizați fișierele direct în aplicație." icon="folder">}}
+{{< feature-card title="Manager de fișiere" subtitle="Mutați, redenumiți, ștergeți și organizați fișierele direct în aplicație." icon="folder">}}
 
-{{< card title="Personalizare" subtitle="Personalizați aplicația conform preferințelor dvs. Alegeți teme, afișați sau ascundeți funcții și ajustați interfața la nevoile dvs." icon="sun">}}
+{{< feature-card title="Personalizare" subtitle="Personalizați aplicația conform preferințelor dvs. Alegeți teme, afișați sau ascundeți funcții și ajustați interfața la nevoile dvs." icon="sun">}}
 
-{{< card title="Căutare inteligentă" subtitle="Găsiți rapid videoclipuri, albume sau playlisturi în biblioteca media folosind cuvinte cheie sau filtre." icon="search" >}}
+{{< feature-card title="Căutare inteligentă" subtitle="Găsiți rapid videoclipuri, albume sau playlisturi în biblioteca media folosind cuvinte cheie sau filtre." icon="search" >}}
 
 
 
@@ -192,7 +192,7 @@ Design intuitiv
 
 {{< cards cols="4">}}
 
-  {{< card 
+  {{< feature-card 
     image="/products/evervideo/screenshots/2880x1800/1.png" 
     title="Player video" 
     method="Fill"
@@ -201,7 +201,7 @@ Design intuitiv
     icon="play"
   >}}
 
-  {{< card 
+  {{< feature-card 
     image="/products/evervideo/screenshots/2880x1800/3.png" 
     title="Egalizator audio și video" 
     method="Fill"
@@ -210,7 +210,7 @@ Design intuitiv
     icon="adjustments"
   >}}
 
-  {{< card 
+  {{< feature-card 
     image="/products/evervideo/screenshots/2880x1800/6.png" 
     title="Manager de playlisturi" 
     method="Fill"
@@ -219,7 +219,7 @@ Design intuitiv
     icon="collection"
   >}}
 
-  {{< card 
+  {{< feature-card 
     image="/products/evervideo/screenshots/2880x1800/5.png" 
     title="Bibliotecă media" 
     method="Fill"
@@ -228,7 +228,7 @@ Design intuitiv
     icon="library"
   >}}
 
-  {{< card 
+  {{< feature-card 
     image="/products/evervideo/screenshots/2880x1800/7.png"  
     title="Stocare cloud" 
     method="Fill"
@@ -237,7 +237,7 @@ Design intuitiv
     icon="cloud"
   >}}
 
-  {{< card 
+  {{< feature-card 
     image="/products/evervideo/screenshots/2880x1800/9.png"  
     title="Manager de fișiere" 
     method="Fill"
@@ -656,17 +656,17 @@ Notă: Asigurați-vă că JavaScript este activat și că folosiți cea mai rece
 </div>
 
 {{< cards >}}
-  {{< card icon="location-marker" title="Navigare" subtitle="Învață cum să navighezi în Evervideo folosind bara de file pe iPhone sau meniul din stânga pe iPad și Mac, plus playerul video compact mereu vizibil pe ecran." link="/docs/guide/evervideo/evervideo-guide-navigation" >}}
+  {{< feature-card icon="location-marker" title="Navigare" subtitle="Învață cum să navighezi în Evervideo folosind bara de file pe iPhone sau meniul din stânga pe iPad și Mac, plus playerul video compact mereu vizibil pe ecran." link="/docs/guide/evervideo/evervideo-guide-navigation" >}}
 
-  {{< card icon="folder" title="Fișiere" subtitle="Conectează conturi cloud, partajări NAS, servere media (Plex, Jellyfin, Emby, Subsonic, Navidrome), fluxuri RTSP și fișiere locale într-o singură filă unificată." link="/docs/guide/evervideo/evervideo-guide-files" >}}
+  {{< feature-card icon="folder" title="Fișiere" subtitle="Conectează conturi cloud, partajări NAS, servere media (Plex, Jellyfin, Emby, Subsonic, Navidrome), fluxuri RTSP și fișiere locale într-o singură filă unificată." link="/docs/guide/evervideo/evervideo-guide-files" >}}
 
-  {{< card icon="library" title="Bibliotecă media" subtitle="Organizează și explorează videoclipurile și muzica după Albume, Genuri, Recente și Favorite — plus biblioteca Fotografii iOS și biblioteca Apple Music." link="/docs/guide/evervideo/evervideo-guide-video-library" >}}
+  {{< feature-card icon="library" title="Bibliotecă media" subtitle="Organizează și explorează videoclipurile și muzica după Albume, Genuri, Recente și Favorite — plus biblioteca Fotografii iOS și biblioteca Apple Music." link="/docs/guide/evervideo/evervideo-guide-video-library" >}}
 
-  {{< card icon="collection" title="Liste de redare" subtitle="Creează și aranjează liste de redare pentru videoclipuri, muzică, seriale sau cursuri și importă fișiere M3U / M3U8 / CUE." link="/docs/guide/evervideo/evervideo-guide-playlists" >}}
+  {{< feature-card icon="collection" title="Liste de redare" subtitle="Creează și aranjează liste de redare pentru videoclipuri, muzică, seriale sau cursuri și importă fișiere M3U / M3U8 / CUE." link="/docs/guide/evervideo/evervideo-guide-playlists" >}}
 
-  {{< card icon="play" title="Player media" subtitle="Controlează redarea, coada, Imagine în imagine, piesele audio și video, subtitrările primare și secundare și egalizatoarele audio și video." link="/docs/guide/evervideo/evervideo-guide-player" >}}
+  {{< feature-card icon="play" title="Player media" subtitle="Controlează redarea, coada, Imagine în imagine, piesele audio și video, subtitrările primare și secundare și egalizatoarele audio și video." link="/docs/guide/evervideo/evervideo-guide-player" >}}
 
-  {{< card icon="adjustments" title="Setări" subtitle="Personalizează aspectul, decodorul, egalizatoarele, subtitrările, widget-urile, limba, codul de acces, copia de siguranță și setările de performanță Evervideo." link="/docs/guide/evervideo/evervideo-guide-settings" >}}
+  {{< feature-card icon="adjustments" title="Setări" subtitle="Personalizează aspectul, decodorul, egalizatoarele, subtitrările, widget-urile, limba, codul de acces, copia de siguranță și setările de performanță Evervideo." link="/docs/guide/evervideo/evervideo-guide-settings" >}}
 
 {{< /cards >}}
 

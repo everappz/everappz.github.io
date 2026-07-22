@@ -127,29 +127,29 @@ Tüm Özellikler
 
 {{< cards >}}
 
-  {{< card title="Kayıpsız Ses Desteği" subtitle="FLAC, ALAC, WAV, APE, DFF, WV, AIFF ve birçok yüksek kaliteli formatı çalın." icon="music-note" >}}
-  {{< card title="Çevrimdışı Mod" subtitle="Albümleri, çalma listelerini ve parçaları çevrimdışı çalma için indirin." icon="download" >}}
-  {{< card title="Dosya Yönetimi" subtitle="Uygulama içinde dosyaları kolayca kopyalayın, taşıyın, yeniden adlandırın ve silin." icon="folder" >}}
+  {{< feature-card title="Kayıpsız Ses Desteği" subtitle="FLAC, ALAC, WAV, APE, DFF, WV, AIFF ve birçok yüksek kaliteli formatı çalın." icon="music-note" >}}
+  {{< feature-card title="Çevrimdışı Mod" subtitle="Albümleri, çalma listelerini ve parçaları çevrimdışı çalma için indirin." icon="download" >}}
+  {{< feature-card title="Dosya Yönetimi" subtitle="Uygulama içinde dosyaları kolayca kopyalayın, taşıyın, yeniden adlandırın ve silin." icon="folder" >}}
 
-  {{< card title="Özel Çalma Listeleri" subtitle="Çalma listeleri oluşturun, düzenleyin, sıralayın ve M3U dosyalarını içe/dışa aktarın." icon="collection" >}}
-  {{< card title="Medya Kütüphanesi" subtitle="Müzik ekleyin ve etiketleri kullanarak albüm, sanatçı ve türe göre düzenleyin." icon="library" >}}
-  {{< card title="Gelişmiş Arama" subtitle="Akıllı arama araçlarıyla şarkıları, sanatçıları veya albümleri hızla bulun." icon="search" >}}
+  {{< feature-card title="Özel Çalma Listeleri" subtitle="Çalma listeleri oluşturun, düzenleyin, sıralayın ve M3U dosyalarını içe/dışa aktarın." icon="collection" >}}
+  {{< feature-card title="Medya Kütüphanesi" subtitle="Müzik ekleyin ve etiketleri kullanarak albüm, sanatçı ve türe göre düzenleyin." icon="library" >}}
+  {{< feature-card title="Gelişmiş Arama" subtitle="Akıllı arama araçlarıyla şarkıları, sanatçıları veya albümleri hızla bulun." icon="search" >}}
 
-  {{< card title="Bulut Yayını" subtitle="Google Drive, Dropbox, OneDrive, iCloud, MEGA ve daha fazlasından yayın yapın." icon="cloud" >}}
-  {{< card title="NAS ve Bilgisayar Erişimi" subtitle="SMB, DLNA veya WebDAV ile bağlanın. iTunes veya Wi-Fi ile aktarın." icon="desktop-computer" >}}
-  {{< card title="USB Flash Kartlar" subtitle="iXpand gibi USB adaptörleri kullanarak SD kartlardan doğrudan müzik çalın." icon="inbox" >}}
+  {{< feature-card title="Bulut Yayını" subtitle="Google Drive, Dropbox, OneDrive, iCloud, MEGA ve daha fazlasından yayın yapın." icon="cloud" >}}
+  {{< feature-card title="NAS ve Bilgisayar Erişimi" subtitle="SMB, DLNA veya WebDAV ile bağlanın. iTunes veya Wi-Fi ile aktarın." icon="desktop-computer" >}}
+  {{< feature-card title="USB Flash Kartlar" subtitle="iXpand gibi USB adaptörleri kullanarak SD kartlardan doğrudan müzik çalın." icon="inbox" >}}
 
-  {{< card title="Çalma Kontrolleri" subtitle="Mükemmel ses kontrolü için çalma hızını ve pitch'i değiştirin." icon="fast-forward" >}}
-  {{< card title="Şarkı Sözleri ve Yorumlar" subtitle="Şarkı çalarken gömülü şarkı sözlerini ve yorumları görüntüleyin." icon="annotation" >}}
-  {{< card title="ID3 Etiket Düzenleyici" subtitle="Dahili araçla başlık, sanatçı veya albüm gibi meta verileri düzenleyin ve düzeltin." icon="pencil-alt" >}}
+  {{< feature-card title="Çalma Kontrolleri" subtitle="Mükemmel ses kontrolü için çalma hızını ve pitch'i değiştirin." icon="fast-forward" >}}
+  {{< feature-card title="Şarkı Sözleri ve Yorumlar" subtitle="Şarkı çalarken gömülü şarkı sözlerini ve yorumları görüntüleyin." icon="annotation" >}}
+  {{< feature-card title="ID3 Etiket Düzenleyici" subtitle="Dahili araçla başlık, sanatçı veya albüm gibi meta verileri düzenleyin ve düzeltin." icon="pencil-alt" >}}
 
-  {{< card title="Ekolayzır ve Güçlendirme" subtitle="Zengin ses için ön ayarları kullanın veya preamp gain ile manuel olarak ayarlayın." icon="adjustments" >}}
-  {{< card title="Apple CarPlay" subtitle="Müzik çalma için özel CarPlay arayüzüyle güvenle sürün." icon="truck" >}}
-  {{< card title="AirPlay ve Chromecast" subtitle="Apple TV ve Google Chromecast cihazlarına kablosuz olarak yayın yapın." icon="device-mobile" >}}
+  {{< feature-card title="Ekolayzır ve Güçlendirme" subtitle="Zengin ses için ön ayarları kullanın veya preamp gain ile manuel olarak ayarlayın." icon="adjustments" >}}
+  {{< feature-card title="Apple CarPlay" subtitle="Müzik çalma için özel CarPlay arayüzüyle güvenle sürün." icon="truck" >}}
+  {{< feature-card title="AirPlay ve Chromecast" subtitle="Apple TV ve Google Chromecast cihazlarına kablosuz olarak yayın yapın." icon="device-mobile" >}}
 
-  {{< card title="Last.fm Entegrasyonu" subtitle="Müzik istatistiklerini takip edin ve kişiselleştirilmiş şarkı önerileri alın." icon="chart-bar" >}}
-  {{< card title="Otomatik Senkronizasyon" subtitle="Müzik kütüphanenizi bulut ve yerel klasörlerle otomatik senkronize edin." icon="refresh" >}}
-  {{< card title="Sesli Kitap Desteği" subtitle="Yer imleri, uyku zamanlayıcı ve kaldığınız yerden devam etme ile sesli kitapları dinleyin." icon="book-open" >}}
+  {{< feature-card title="Last.fm Entegrasyonu" subtitle="Müzik istatistiklerini takip edin ve kişiselleştirilmiş şarkı önerileri alın." icon="chart-bar" >}}
+  {{< feature-card title="Otomatik Senkronizasyon" subtitle="Müzik kütüphanenizi bulut ve yerel klasörlerle otomatik senkronize edin." icon="refresh" >}}
+  {{< feature-card title="Sesli Kitap Desteği" subtitle="Yer imleri, uyku zamanlayıcı ve kaldığınız yerden devam etme ile sesli kitapları dinleyin." icon="book-open" >}}
 
 {{< /cards >}}
 
@@ -167,7 +167,7 @@ Sezgisel Tasarım
 
 {{< cards cols="4">}}
 
-  {{< card 
+  {{< feature-card 
     image="/products/flacbox/screenshots/2048x2732/1.png" 
     title="Ses Oynatıcı" 
     method="Fill"
@@ -176,7 +176,7 @@ Sezgisel Tasarım
     icon="play"
   >}}
 
-  {{< card 
+  {{< feature-card 
     image="/products/flacbox/screenshots/2048x2732/2.png"  
     title="Ses Ekolayzır" 
     method="Fill"
@@ -185,7 +185,7 @@ Sezgisel Tasarım
     icon="adjustments"
   >}}
 
-  {{< card 
+  {{< feature-card 
     image="/products/flacbox/screenshots/2048x2732/3.png"  
     title="Çalma Listesi Yöneticisi" 
     method="Fill"
@@ -194,7 +194,7 @@ Sezgisel Tasarım
     icon="collection"
   >}}
 
-  {{< card 
+  {{< feature-card 
     image="/products/flacbox/screenshots/2048x2732/5.png"  
     title="Medya Kütüphanesi" 
     method="Fill"
@@ -203,7 +203,7 @@ Sezgisel Tasarım
     icon="library"
   >}}
 
-  {{< card 
+  {{< feature-card 
     image="/products/flacbox/screenshots/2048x2732/7.png"  
     title="Bulut Depolama" 
     method="Fill"
@@ -212,7 +212,7 @@ Sezgisel Tasarım
     icon="cloud"
   >}}
 
-  {{< card 
+  {{< feature-card 
     image="/products/flacbox/screenshots/2048x2732/8.png"  
     title="iCloud Drive" 
     method="Fill"
@@ -835,19 +835,19 @@ CarPlay kullanmak için Siri'nin etkin olduğundan ve iPhone'unuzun USB veya kab
 
 {{< cards >}}
 
-{{< card icon="map" link="/docs/guide/flacbox/flacbox-guide-navigation" title="Gezinme" subtitle="iPhone'da Sekme Çubuğunu veya iPad ve Mac'te Sol Menüyü kullanın." >}}
+{{< feature-card icon="map" link="/docs/guide/flacbox/flacbox-guide-navigation" title="Gezinme" subtitle="iPhone'da Sekme Çubuğunu veya iPad ve Mac'te Sol Menüyü kullanın." >}}
 
-{{< card icon="cloud" link="/docs/guide/flacbox/flacbox-guide-connections" title="Bağlantılar" subtitle="Dropbox, Google Drive, iCloud veya NAS'ınızı bağlayın." >}}
+{{< feature-card icon="cloud" link="/docs/guide/flacbox/flacbox-guide-connections" title="Bağlantılar" subtitle="Dropbox, Google Drive, iCloud veya NAS'ınızı bağlayın." >}}
 
-{{< card icon="collection" link="/docs/guide/flacbox/flacbox-guide-music-library" title="Müzik Kütüphanesi" subtitle="Parçaları sanatçı, albüm veya türe göre yönetin ve arayın." >}}
+{{< feature-card icon="collection" link="/docs/guide/flacbox/flacbox-guide-music-library" title="Müzik Kütüphanesi" subtitle="Parçaları sanatçı, albüm veya türe göre yönetin ve arayın." >}}
 
-{{< card icon="music-note" link="/docs/guide/flacbox/flacbox-guide-playlists" title="Çalma Listeleri" subtitle="Her ruh hali veya durum için çalma listeleri oluşturun ve düzenleyin." >}}
+{{< feature-card icon="music-note" link="/docs/guide/flacbox/flacbox-guide-playlists" title="Çalma Listeleri" subtitle="Her ruh hali veya durum için çalma listeleri oluşturun ve düzenleyin." >}}
 
-{{< card icon="folder" link="/docs/guide/flacbox/flacbox-guide-local-files" title="Yerel Dosyalar" subtitle="Dahili dosya yöneticisiyle çevrimdışı müziği düzenleyin ve çalın." >}}
+{{< feature-card icon="folder" link="/docs/guide/flacbox/flacbox-guide-local-files" title="Yerel Dosyalar" subtitle="Dahili dosya yöneticisiyle çevrimdışı müziği düzenleyin ve çalın." >}}
 
-{{< card icon="play" link="/docs/guide/flacbox/flacbox-guide-player" title="Ses Oynatıcı" subtitle="Çalmayı kontrol edin, hızı ayarlayın, yer imleri belirleyin ve daha fazlası." >}}
+{{< feature-card icon="play" link="/docs/guide/flacbox/flacbox-guide-player" title="Ses Oynatıcı" subtitle="Çalmayı kontrol edin, hızı ayarlayın, yer imleri belirleyin ve daha fazlası." >}}
 
-{{< card icon="adjustments" link="/docs/guide/flacbox/flacbox-guide-settings" title="Ayarlar" subtitle="Ekolayzır, görünüm ve uygulama davranışını özelleştirin." >}}
+{{< feature-card icon="adjustments" link="/docs/guide/flacbox/flacbox-guide-settings" title="Ayarlar" subtitle="Ekolayzır, görünüm ve uygulama davranışını özelleştirin." >}}
 
 {{< /cards >}}
 

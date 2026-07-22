@@ -491,17 +491,17 @@ Dropbox, OneDrive, Box, MEGA, Yandex.Disk, MediaFire, pCloud, HiDrive<br><br>
 </div>
 
 {{< cards >}}
-  {{< card icon="location-marker" title="การนำทาง" subtitle="เรียนรู้วิธีนำทางในแอปของเราอย่างง่ายดายโดยใช้แถบแท็บ (สำหรับผู้ใช้ iPhone) หรือเมนูด้านซ้าย (สำหรับผู้ใช้ iPad และ Mac) เพื่อเข้าถึงและสำรวจฟีเจอร์ทั้งหมดของแอป" link="/docs/guide/evertag/evertag-guide-navigation" >}}
+  {{< feature-card icon="location-marker" title="การนำทาง" subtitle="เรียนรู้วิธีนำทางในแอปของเราอย่างง่ายดายโดยใช้แถบแท็บ (สำหรับผู้ใช้ iPhone) หรือเมนูด้านซ้าย (สำหรับผู้ใช้ iPad และ Mac) เพื่อเข้าถึงและสำรวจฟีเจอร์ทั้งหมดของแอป" link="/docs/guide/evertag/evertag-guide-navigation" >}}
 
-  {{< card icon="cloud" title="การเชื่อมต่อ" subtitle="เชื่อมต่อบัญชีคลาวด์ที่มีอยู่ทั้งหมดกับไฟล์เสียงอันมีค่าของคุณอย่างง่ายดาย คุณยังสามารถแก้ไขไฟล์ออนไลน์ได้อย่างง่ายดายโดยใช้ตัวจัดการไฟล์ในตัว" link="/docs/guide/evertag/evertag-guide-connections" >}}
+  {{< feature-card icon="cloud" title="การเชื่อมต่อ" subtitle="เชื่อมต่อบัญชีคลาวด์ที่มีอยู่ทั้งหมดกับไฟล์เสียงอันมีค่าของคุณอย่างง่ายดาย คุณยังสามารถแก้ไขไฟล์ออนไลน์ได้อย่างง่ายดายโดยใช้ตัวจัดการไฟล์ในตัว" link="/docs/guide/evertag/evertag-guide-connections" >}}
 
-  {{< card icon="folder" title="ไฟล์ในเครื่อง" subtitle="ดูและจัดระเบียบไฟล์ที่เก็บไว้ในโฟลเดอร์ Documents ของแอปหรือบนอุปกรณ์ของคุณ ใช้ตัวจัดการไฟล์ในตัวเพื่อแก้ไขและจัดการไฟล์เสียงอย่างง่ายดาย" link="/docs/guide/evertag/evertag-guide-local-files" >}}
+  {{< feature-card icon="folder" title="ไฟล์ในเครื่อง" subtitle="ดูและจัดระเบียบไฟล์ที่เก็บไว้ในโฟลเดอร์ Documents ของแอปหรือบนอุปกรณ์ของคุณ ใช้ตัวจัดการไฟล์ในตัวเพื่อแก้ไขและจัดการไฟล์เสียงอย่างง่ายดาย" link="/docs/guide/evertag/evertag-guide-local-files" >}}
 
-  {{< card icon="pencil-alt" title="โปรแกรมแก้ไขแท็ก" subtitle="เชี่ยวชาญศิลปะของการจัดการเมตาดาต้าไฟล์เสียง ค้นพบวิธีแก้ไขเมตาดาต้า เปลี่ยนปกอัลบั้ม และจัดการหลายไฟล์พร้อมกันอย่างราบรื่น" link="/docs/guide/evertag/evertag-guide-tag-editor" >}}
+  {{< feature-card icon="pencil-alt" title="โปรแกรมแก้ไขแท็ก" subtitle="เชี่ยวชาญศิลปะของการจัดการเมตาดาต้าไฟล์เสียง ค้นพบวิธีแก้ไขเมตาดาต้า เปลี่ยนปกอัลบั้ม และจัดการหลายไฟล์พร้อมกันอย่างราบรื่น" link="/docs/guide/evertag/evertag-guide-tag-editor" >}}
 
-  {{< card icon="code" title="การแม็พฟิลด์แท็ก" subtitle="สำรวจรายการฟิลด์แท็กเสียงทั้งหมดที่รองรับโดยแอป Evertag รวมถึงชื่อฟิลด์ภายในและการแม็พข้ามรูปแบบเมตาดาต้าหลัก" link="/docs/guide/evertag/evertag-tag-field-mappings" >}}
+  {{< feature-card icon="code" title="การแม็พฟิลด์แท็ก" subtitle="สำรวจรายการฟิลด์แท็กเสียงทั้งหมดที่รองรับโดยแอป Evertag รวมถึงชื่อฟิลด์ภายในและการแม็พข้ามรูปแบบเมตาดาต้าหลัก" link="/docs/guide/evertag/evertag-tag-field-mappings" >}}
 
-  {{< card icon="adjustments" title="การตั้งค่า" subtitle="ค้นพบวิธีปรับแต่งประสบการณ์แอปของคุณ ปรับประสิทธิภาพ จัดการการใช้ข้อมูล และปรับแต่งภาษาและอินเทอร์เฟซผู้ใช้ตามความชอบของคุณ" link="/docs/guide/evertag/evertag-guide-settings" >}}
+  {{< feature-card icon="adjustments" title="การตั้งค่า" subtitle="ค้นพบวิธีปรับแต่งประสบการณ์แอปของคุณ ปรับประสิทธิภาพ จัดการการใช้ข้อมูล และปรับแต่งภาษาและอินเทอร์เฟซผู้ใช้ตามความชอบของคุณ" link="/docs/guide/evertag/evertag-guide-settings" >}}
 
 {{< /cards >}}
 

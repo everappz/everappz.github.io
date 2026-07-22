@@ -148,7 +148,7 @@ Evermusic, İspanyol yazılım şirketi Everappz tarafından geliştirilen iPhon
 
 {{< cards cols="4">}}
 
-  {{< card 
+  {{< feature-card 
     icon="adjustments"
     image="/products/evermusic/screenshots/2048x2732/3.png" 
     title="Ses Ekolayzeri" 
@@ -157,7 +157,7 @@ Evermusic, İspanyol yazılım şirketi Everappz tarafından geliştirilen iPhon
     subtitle="iPod tarzı ses ekolayzeri, özelleştirilebilir ön ayarlar ve en iyi dinleme deneyimi için preamp kazancı ile sesinizi ince ayarlayın." 
   >}}
 
-  {{< card 
+  {{< feature-card 
     icon="annotation"
     image="/products/evermusic/screenshots/2048x2732/4.png"  
     title="Şarkı Sözü Görüntüleyici" 
@@ -166,7 +166,7 @@ Evermusic, İspanyol yazılım şirketi Everappz tarafından geliştirilen iPhon
     subtitle="Dinlerken gömülü şarkı sözlerini ve parça yorumlarını okuyun. Daha sürükleyici bir müzik deneyimi için senkronize şarkı sözlerinin keyfini çıkarın." 
   >}}
 
-  {{< card 
+  {{< feature-card 
     icon="collection"
     image="/products/evermusic/screenshots/2048x2732/5.png"  
     title="Çalma Listesi Yöneticisi" 
@@ -175,7 +175,7 @@ Evermusic, İspanyol yazılım şirketi Everappz tarafından geliştirilen iPhon
     subtitle="Özel çalma listeleri oluşturun ve düzenleyin, şarkıları yeniden sıralayın, M3U'ya dışa aktarın veya kolay paylaşım ve yedekleme için ZIP dosyaları olarak arşivleyin." 
   >}}
 
-  {{< card 
+  {{< feature-card 
     icon="cloud"
     image="/products/evermusic/screenshots/2048x2732/6.png"  
     title="Bulut Müzik Akışı" 
@@ -184,7 +184,7 @@ Evermusic, İspanyol yazılım şirketi Everappz tarafından geliştirilen iPhon
     subtitle="Müzik koleksiyonunuzu her zaman her yerde akış yapmak için Google Drive, Dropbox ve OneDrive gibi popüler bulut depolama platformlarını bağlayın." 
   >}}
 
-  {{< card 
+  {{< feature-card 
     icon="duplicate"
     image="/products/evermusic/screenshots/2048x2732/9.png"  
     title="Dosya Yöneticisi" 
@@ -193,7 +193,7 @@ Evermusic, İspanyol yazılım şirketi Everappz tarafından geliştirilen iPhon
     subtitle="Ses dosyalarınızı kolayca yönetin—parçaları yeniden adlandırın, klasörleri düzenleyin ve yerleşik araçları kullanarak cihazlar arasında müzik aktarın." 
   >}} 
 
-  {{< card 
+  {{< feature-card 
     icon="sun"
     image="/products/evermusic/screenshots/2048x2732/10.png"  
     title="Uygulama Özelleştirme" 
@@ -218,41 +218,41 @@ Evermusic, İspanyol yazılım şirketi Everappz tarafından geliştirilen iPhon
 
 {{< cards >}}
 
-  {{< card title="Ses Formatları" subtitle="Desteklenen: mp3, m4a, flac, wav, aac, mp4, m3u, m3u8, m4b, m4p, aiff, ogg, mp2, ac3, wma ve daha fazlası." icon="music-note" >}}
+  {{< feature-card title="Ses Formatları" subtitle="Desteklenen: mp3, m4a, flac, wav, aac, mp4, m3u, m3u8, m4b, m4p, aiff, ogg, mp2, ac3, wma ve daha fazlası." icon="music-note" >}}
 
-  {{< card title="Sesli Kitaplar" subtitle="Ses yer imleri, oynatma hızı kontrolü ve konum devam ettirme içerir." icon="book-open" width="50">}}
+  {{< feature-card title="Sesli Kitaplar" subtitle="Ses yer imleri, oynatma hızı kontrolü ve konum devam ettirme içerir." icon="book-open" width="50">}}
 
-  {{< card title="Otomatik Senkronizasyon" subtitle="Müzik kitaplığınızı sanatçı, albüm ve türe göre düzenleyerek bulut ile senkronize eder." icon="refresh" >}}
+  {{< feature-card title="Otomatik Senkronizasyon" subtitle="Müzik kitaplığınızı sanatçı, albüm ve türe göre düzenleyerek bulut ile senkronize eder." icon="refresh" >}}
 
-  {{< card title="Dosya Yöneticisi" subtitle="Kopyalama, taşıma, yeniden adlandırma ve silme gibi işlemlerle dosyaları yönetin." icon="folder" >}}
+  {{< feature-card title="Dosya Yöneticisi" subtitle="Kopyalama, taşıma, yeniden adlandırma ve silme gibi işlemlerle dosyaları yönetin." icon="folder" >}}
 
-  {{< card title="Bulut Hizmetleri" subtitle="iCloud, Google Drive, Dropbox, OneDrive, Box, MEGA, WD MyCloud Home, pCloud ve daha fazlasını destekler." icon="cloud" >}}
+  {{< feature-card title="Bulut Hizmetleri" subtitle="iCloud, Google Drive, Dropbox, OneDrive, Box, MEGA, WD MyCloud Home, pCloud ve daha fazlasını destekler." icon="cloud" >}}
 
-  {{< card title="Crossfade Oynatma" subtitle="Sonraki şarkı mevcut şarkı bitmeden başlar, kesintisiz geçişler sağlar." icon="switch-horizontal" >}}
+  {{< feature-card title="Crossfade Oynatma" subtitle="Sonraki şarkı mevcut şarkı bitmeden başlar, kesintisiz geçişler sağlar." icon="switch-horizontal" >}}
 
-  {{< card title="Boşluksuz Oynatma" subtitle="Şarkılar arasında duraklama yok — canlı, klasik veya konsept albümler için ideal." icon="volume-up" >}}
+  {{< feature-card title="Boşluksuz Oynatma" subtitle="Şarkılar arasında duraklama yok — canlı, klasik veya konsept albümler için ideal." icon="volume-up" >}}
 
-  {{< card title="Ses Ekolayzeri" subtitle="Ön ayarlar, manuel kontrol ve preamp kazancı ile özelleştirilebilir ekolayzir." icon="adjustments" >}}
+  {{< feature-card title="Ses Ekolayzeri" subtitle="Ön ayarlar, manuel kontrol ve preamp kazancı ile özelleştirilebilir ekolayzir." icon="adjustments" >}}
 
-  {{< card title="Gelişmiş Arama" subtitle="Favori albümlerinizi, sanatçılarınızı ve parçalarınızı hızlı ve kolay bulun." icon="search" >}}
+  {{< feature-card title="Gelişmiş Arama" subtitle="Favori albümlerinizi, sanatçılarınızı ve parçalarınızı hızlı ve kolay bulun." icon="search" >}}
 
-  {{< card title="Bilgisayar Erişimi" subtitle="SMB, WebDAV veya DLNA ile bağlanın. iTunes Dosya Paylaşımı ve Wi-Fi ile aktarın." icon="desktop-computer" >}}
+  {{< feature-card title="Bilgisayar Erişimi" subtitle="SMB, WebDAV veya DLNA ile bağlanın. iTunes Dosya Paylaşımı ve Wi-Fi ile aktarın." icon="desktop-computer" >}}
 
-  {{< card title="AirPlay ve Chromecast" subtitle="Apple TV ve Google Chromecast cihazlarına kablosuz olarak akış yapın." icon="device-mobile" >}}
+  {{< feature-card title="AirPlay ve Chromecast" subtitle="Apple TV ve Google Chromecast cihazlarına kablosuz olarak akış yapın." icon="device-mobile" >}}
 
-  {{< card title="Çalma Listeleri" subtitle="M3U çalma listelerini çevrimdışı modda oluşturun, düzenleyin, yeniden sıralayın ve dışa/içe aktarın." icon="collection" >}}
+  {{< feature-card title="Çalma Listeleri" subtitle="M3U çalma listelerini çevrimdışı modda oluşturun, düzenleyin, yeniden sıralayın ve dışa/içe aktarın." icon="collection" >}}
 
-  {{< card title="USB Flash Kartlar" subtitle="SanDisk iXpand gibi harici okuyucular kullanarak SD kartlardan doğrudan müzik çalın." icon="inbox" >}}
+  {{< feature-card title="USB Flash Kartlar" subtitle="SanDisk iXpand gibi harici okuyucular kullanarak SD kartlardan doğrudan müzik çalın." icon="inbox" >}}
 
-  {{< card title="Çevrimdışı Mod" subtitle="Albümleri ve çalma listelerini indirin veya çevrimdışı dinleme için son çalınan parçaları otomatik önbelleğe alın." icon="download" >}}
+  {{< feature-card title="Çevrimdışı Mod" subtitle="Albümleri ve çalma listelerini indirin veya çevrimdışı dinleme için son çalınan parçaları otomatik önbelleğe alın." icon="download" >}}
 
-  {{< card title="Apple CarPlay" subtitle="Müzik oynatma için özel CarPlay arayüzü ile güvenle sürün." icon="truck" >}}
+  {{< feature-card title="Apple CarPlay" subtitle="Müzik oynatma için özel CarPlay arayüzü ile güvenle sürün." icon="truck" >}}
 
-  {{< card title="ID3 Etiket Düzenleyici" subtitle="Yerleşik etiket düzenleyici ile bozuk veya eksik meta verileri düzenleyin." icon="pencil-alt" >}}
+  {{< feature-card title="ID3 Etiket Düzenleyici" subtitle="Yerleşik etiket düzenleyici ile bozuk veya eksik meta verileri düzenleyin." icon="pencil-alt" >}}
 
-  {{< card title="Şarkı Sözleri ve Yorumlar" subtitle="Müziğinizi dinlerken gömülü şarkı sözlerini ve yorumları görüntüleyin." icon="annotation" >}}
+  {{< feature-card title="Şarkı Sözleri ve Yorumlar" subtitle="Müziğinizi dinlerken gömülü şarkı sözlerini ve yorumları görüntüleyin." icon="annotation" >}}
 
-  {{< card title="Last.fm" subtitle="Kişiselleştirilmiş dinleme istatistikleri ve öneriler almak için Last.fm hesabınızı bağlayın." icon="chart-bar" >}}
+  {{< feature-card title="Last.fm" subtitle="Kişiselleştirilmiş dinleme istatistikleri ve öneriler almak için Last.fm hesabınızı bağlayın." icon="chart-bar" >}}
   
 {{< /cards >}}
 
@@ -704,19 +704,19 @@ Bu geniş desteklenen format ve dosya uzantısı yelpazesiyle müziğinizi terci
 </div>
 
 {{< cards >}}
-  {{< card icon="location-marker" title="Gezinme" subtitle="iPhone'da Sekme Çubuğu veya iPad ve Mac'te Sol Menü kullanarak Evermusic'te nasıl gezineceğinizi öğrenin." link="/docs/guide/evermusic/evermusic-guide-navigation" >}}
+  {{< feature-card icon="location-marker" title="Gezinme" subtitle="iPhone'da Sekme Çubuğu veya iPad ve Mac'te Sol Menü kullanarak Evermusic'te nasıl gezineceğinizi öğrenin." link="/docs/guide/evermusic/evermusic-guide-navigation" >}}
 
-  {{< card icon="cloud" title="Bağlantılar" subtitle="Bulut hesaplarınızı bağlayın ve yerleşik dosya yöneticisini kullanarak çevrimiçi dosyaları yönetin." link="/docs/guide/evermusic/evermusic-guide-connections" >}}
+  {{< feature-card icon="cloud" title="Bağlantılar" subtitle="Bulut hesaplarınızı bağlayın ve yerleşik dosya yöneticisini kullanarak çevrimiçi dosyaları yönetin." link="/docs/guide/evermusic/evermusic-guide-connections" >}}
 
-  {{< card icon="library" title="Müzik Kitaplığı" subtitle="Müzik Kitaplığı'nda parçalarınızı, albümlerinizi ve sanatçılarınızı düzenleyin ve keşfedin." link="/docs/guide/evermusic/evermusic-guide-music-library" >}}
+  {{< feature-card icon="library" title="Müzik Kitaplığı" subtitle="Müzik Kitaplığı'nda parçalarınızı, albümlerinizi ve sanatçılarınızı düzenleyin ve keşfedin." link="/docs/guide/evermusic/evermusic-guide-music-library" >}}
 
-  {{< card icon="collection" title="Çalma Listeleri" subtitle="Ruh halinize veya etkinliğinize uygun çalma listeleri oluşturun ve düzenleyin." link="/docs/guide/evermusic/evermusic-guide-playlists" >}}
+  {{< feature-card icon="collection" title="Çalma Listeleri" subtitle="Ruh halinize veya etkinliğinize uygun çalma listeleri oluşturun ve düzenleyin." link="/docs/guide/evermusic/evermusic-guide-playlists" >}}
 
-  {{< card icon="folder" title="Yerel Dosyalar" subtitle="Yerel Dosyalar bölümünden çevrimdışı müziğe erişin ve yönetin." link="/docs/guide/evermusic/evermusic-guide-local-files" >}}
+  {{< feature-card icon="folder" title="Yerel Dosyalar" subtitle="Yerel Dosyalar bölümünden çevrimdışı müziğe erişin ve yönetin." link="/docs/guide/evermusic/evermusic-guide-local-files" >}}
 
-  {{< card icon="play" title="Ses Çalar" subtitle="Oynatma, kuyruk ve ekolayzir ile uyku zamanlayıcısı gibi ses ayarlarını kontrol edin." link="/docs/guide/evermusic/evermusic-guide-player" >}}
+  {{< feature-card icon="play" title="Ses Çalar" subtitle="Oynatma, kuyruk ve ekolayzir ile uyku zamanlayıcısı gibi ses ayarlarını kontrol edin." link="/docs/guide/evermusic/evermusic-guide-player" >}}
 
-  {{< card icon="adjustments" title="Ayarlar" subtitle="Evermusic'in görünümünü, özelliklerini ve performans ayarlarını özelleştirin." link="/docs/guide/evermusic/evermusic-guide-settings" >}}
+  {{< feature-card icon="adjustments" title="Ayarlar" subtitle="Evermusic'in görünümünü, özelliklerini ve performans ayarlarını özelleştirin." link="/docs/guide/evermusic/evermusic-guide-settings" >}}
 
 {{< /cards >}}
 

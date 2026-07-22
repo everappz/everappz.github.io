@@ -148,7 +148,7 @@ Evermusic este un player de muzică offline gratuit pentru iPhone și Mac, dezvo
 
 {{< cards cols="4">}}
 
-  {{< card 
+  {{< feature-card 
     icon="adjustments"
     image="/products/evermusic/screenshots/2048x2732/3.png" 
     title="Egalizator audio" 
@@ -157,7 +157,7 @@ Evermusic este un player de muzică offline gratuit pentru iPhone și Mac, dezvo
     subtitle="Ajustează sunetul cu un egalizator audio în stil iPod, presetări personalizabile și câștig preamplificator pentru cea mai bună experiență de ascultare." 
   >}}
 
-  {{< card 
+  {{< feature-card 
     icon="annotation"
     image="/products/evermusic/screenshots/2048x2732/4.png"  
     title="Vizualizator de versuri" 
@@ -166,7 +166,7 @@ Evermusic este un player de muzică offline gratuit pentru iPhone și Mac, dezvo
     subtitle="Citește versurile încorporate și comentariile pieselor în timp ce asculți. Bucură-te de versuri sincronizate pentru o experiență muzicală mai captivantă." 
   >}}
 
-  {{< card 
+  {{< feature-card 
     icon="collection"
     image="/products/evermusic/screenshots/2048x2732/5.png"  
     title="Manager de playlist-uri" 
@@ -175,7 +175,7 @@ Evermusic este un player de muzică offline gratuit pentru iPhone și Mac, dezvo
     subtitle="Creează și organizează playlist-uri personalizate, reordonează melodiile, exportă în M3U sau arhivează ca fișiere ZIP pentru partajare ușoară sau backup." 
   >}}
 
-  {{< card 
+  {{< feature-card 
     icon="cloud"
     image="/products/evermusic/screenshots/2048x2732/6.png"  
     title="Streaming muzică din cloud" 
@@ -184,7 +184,7 @@ Evermusic este un player de muzică offline gratuit pentru iPhone și Mac, dezvo
     subtitle="Conectează platforme populare de stocare precum Google Drive, Dropbox și OneDrive pentru a transmite colecția ta muzicală oricând, oriunde." 
   >}}
 
-  {{< card 
+  {{< feature-card 
     icon="duplicate"
     image="/products/evermusic/screenshots/2048x2732/9.png"  
     title="Manager de fișiere" 
@@ -193,7 +193,7 @@ Evermusic este un player de muzică offline gratuit pentru iPhone și Mac, dezvo
     subtitle="Gestionează ușor fișierele audio — redenumește piese, organizează foldere și transferă muzică între dispozitive folosind instrumentele integrate." 
   >}} 
 
-  {{< card 
+  {{< feature-card 
     icon="sun"
     image="/products/evermusic/screenshots/2048x2732/10.png"  
     title="Personalizare aplicație" 
@@ -218,41 +218,41 @@ Evermusic este un player de muzică offline gratuit pentru iPhone și Mac, dezvo
 
 {{< cards >}}
 
-  {{< card title="Formate audio" subtitle="Suportă: mp3, m4a, flac, wav, aac, mp4, m3u, m3u8, m4b, m4p, aiff, ogg, mp2, ac3, wma și altele." icon="music-note" >}}
+  {{< feature-card title="Formate audio" subtitle="Suportă: mp3, m4a, flac, wav, aac, mp4, m3u, m3u8, m4b, m4p, aiff, ogg, mp2, ac3, wma și altele." icon="music-note" >}}
 
-  {{< card title="Cărți audio" subtitle="Include marcaje audio, controlul vitezei de redare și reluare de la poziția anterioară." icon="book-open" width="50">}}
+  {{< feature-card title="Cărți audio" subtitle="Include marcaje audio, controlul vitezei de redare și reluare de la poziția anterioară." icon="book-open" width="50">}}
 
-  {{< card title="Sincronizare automată" subtitle="Sincronizează biblioteca muzicală cu cloud-ul, organizată pe artist, album și gen." icon="refresh" >}}
+  {{< feature-card title="Sincronizare automată" subtitle="Sincronizează biblioteca muzicală cu cloud-ul, organizată pe artist, album și gen." icon="refresh" >}}
 
-  {{< card title="Manager de fișiere" subtitle="Gestionează fișierele cu operații precum copiere, mutare, redenumire și ștergere." icon="folder" >}}
+  {{< feature-card title="Manager de fișiere" subtitle="Gestionează fișierele cu operații precum copiere, mutare, redenumire și ștergere." icon="folder" >}}
 
-  {{< card title="Servicii cloud" subtitle="Suportă iCloud, Google Drive, Dropbox, OneDrive, Box, MEGA, WD MyCloud Home, pCloud și altele." icon="cloud" >}}
+  {{< feature-card title="Servicii cloud" subtitle="Suportă iCloud, Google Drive, Dropbox, OneDrive, Box, MEGA, WD MyCloud Home, pCloud și altele." icon="cloud" >}}
 
-  {{< card title="Redare cu crossfade" subtitle="Următoarea melodie începe înainte ca cea curentă să se termine, pentru tranziții fluide." icon="switch-horizontal" >}}
+  {{< feature-card title="Redare cu crossfade" subtitle="Următoarea melodie începe înainte ca cea curentă să se termine, pentru tranziții fluide." icon="switch-horizontal" >}}
 
-  {{< card title="Redare fără pauze" subtitle="Fără pauze între melodii — ideal pentru albume live, clasice sau concept." icon="volume-up" >}}
+  {{< feature-card title="Redare fără pauze" subtitle="Fără pauze între melodii — ideal pentru albume live, clasice sau concept." icon="volume-up" >}}
 
-  {{< card title="Egalizator audio" subtitle="Egalizator personalizabil cu presetări, control manual și câștig preamplificator." icon="adjustments" >}}
+  {{< feature-card title="Egalizator audio" subtitle="Egalizator personalizabil cu presetări, control manual și câștig preamplificator." icon="adjustments" >}}
 
-  {{< card title="Căutare avansată" subtitle="Găsește rapid și ușor albumele, artiștii și piesele preferate." icon="search" >}}
+  {{< feature-card title="Căutare avansată" subtitle="Găsește rapid și ușor albumele, artiștii și piesele preferate." icon="search" >}}
 
-  {{< card title="Acces de pe calculator" subtitle="Conectează-te prin SMB, WebDAV sau DLNA. Transferă prin iTunes File Sharing și Wi-Fi." icon="desktop-computer" >}}
+  {{< feature-card title="Acces de pe calculator" subtitle="Conectează-te prin SMB, WebDAV sau DLNA. Transferă prin iTunes File Sharing și Wi-Fi." icon="desktop-computer" >}}
 
-  {{< card title="AirPlay și Chromecast" subtitle="Transmite wireless către dispozitive Apple TV și Google Chromecast." icon="device-mobile" >}}
+  {{< feature-card title="AirPlay și Chromecast" subtitle="Transmite wireless către dispozitive Apple TV și Google Chromecast." icon="device-mobile" >}}
 
-  {{< card title="Playlist-uri" subtitle="Creează, editează, reordonează și exportă/importă playlist-uri M3U cu mod offline." icon="collection" >}}
+  {{< feature-card title="Playlist-uri" subtitle="Creează, editează, reordonează și exportă/importă playlist-uri M3U cu mod offline." icon="collection" >}}
 
-  {{< card title="Stick-uri USB" subtitle="Redă muzică direct de pe carduri SD folosind cititoare externe precum SanDisk iXpand." icon="inbox" >}}
+  {{< feature-card title="Stick-uri USB" subtitle="Redă muzică direct de pe carduri SD folosind cititoare externe precum SanDisk iXpand." icon="inbox" >}}
 
-  {{< card title="Mod offline" subtitle="Descarcă albume și playlist-uri sau memorează automat piesele redate recent pentru ascultare offline." icon="download" >}}
+  {{< feature-card title="Mod offline" subtitle="Descarcă albume și playlist-uri sau memorează automat piesele redate recent pentru ascultare offline." icon="download" >}}
 
-  {{< card title="Apple CarPlay" subtitle="Conducă în siguranță cu o interfață CarPlay dedicată pentru redarea muzicii." icon="truck" >}}
+  {{< feature-card title="Apple CarPlay" subtitle="Conducă în siguranță cu o interfață CarPlay dedicată pentru redarea muzicii." icon="truck" >}}
 
-  {{< card title="Editor de tag-uri ID3" subtitle="Editează metadatele corupte sau lipsă folosind editorul de tag-uri integrat." icon="pencil-alt" >}}
+  {{< feature-card title="Editor de tag-uri ID3" subtitle="Editează metadatele corupte sau lipsă folosind editorul de tag-uri integrat." icon="pencil-alt" >}}
 
-  {{< card title="Versuri și comentarii" subtitle="Vizualizează versurile încorporate și comentariile în timp ce asculți muzica." icon="annotation" >}}
+  {{< feature-card title="Versuri și comentarii" subtitle="Vizualizează versurile încorporate și comentariile în timp ce asculți muzica." icon="annotation" >}}
 
-  {{< card title="Last.fm" subtitle="Conectează contul tău Last.fm pentru statistici personalizate de ascultare și recomandări." icon="chart-bar" >}}
+  {{< feature-card title="Last.fm" subtitle="Conectează contul tău Last.fm pentru statistici personalizate de ascultare și recomandări." icon="chart-bar" >}}
   
 {{< /cards >}}
 
@@ -704,19 +704,19 @@ Cu această gamă largă de formate și extensii suportate, te poți bucura de m
 </div>
 
 {{< cards >}}
-  {{< card icon="location-marker" title="Navigare" subtitle="Învață cum să navighezi în Evermusic folosind bara de file pe iPhone sau meniul din stânga pe iPad și Mac." link="/docs/guide/evermusic/evermusic-guide-navigation" >}}
+  {{< feature-card icon="location-marker" title="Navigare" subtitle="Învață cum să navighezi în Evermusic folosind bara de file pe iPhone sau meniul din stânga pe iPad și Mac." link="/docs/guide/evermusic/evermusic-guide-navigation" >}}
 
-  {{< card icon="cloud" title="Conexiuni" subtitle="Conectează conturile cloud și gestionează fișierele online folosind managerul de fișiere integrat." link="/docs/guide/evermusic/evermusic-guide-connections" >}}
+  {{< feature-card icon="cloud" title="Conexiuni" subtitle="Conectează conturile cloud și gestionează fișierele online folosind managerul de fișiere integrat." link="/docs/guide/evermusic/evermusic-guide-connections" >}}
 
-  {{< card icon="library" title="Biblioteca muzicală" subtitle="Organizează și explorează piesele, albumele și artiștii în Biblioteca muzicală." link="/docs/guide/evermusic/evermusic-guide-music-library" >}}
+  {{< feature-card icon="library" title="Biblioteca muzicală" subtitle="Organizează și explorează piesele, albumele și artiștii în Biblioteca muzicală." link="/docs/guide/evermusic/evermusic-guide-music-library" >}}
 
-  {{< card icon="collection" title="Playlist-uri" subtitle="Creează și aranjează playlist-uri pentru a se potrivi cu starea ta de spirit sau ocazia." link="/docs/guide/evermusic/evermusic-guide-playlists" >}}
+  {{< feature-card icon="collection" title="Playlist-uri" subtitle="Creează și aranjează playlist-uri pentru a se potrivi cu starea ta de spirit sau ocazia." link="/docs/guide/evermusic/evermusic-guide-playlists" >}}
 
-  {{< card icon="folder" title="Fișiere locale" subtitle="Accesează și gestionează muzica offline prin secțiunea Fișiere locale." link="/docs/guide/evermusic/evermusic-guide-local-files" >}}
+  {{< feature-card icon="folder" title="Fișiere locale" subtitle="Accesează și gestionează muzica offline prin secțiunea Fișiere locale." link="/docs/guide/evermusic/evermusic-guide-local-files" >}}
 
-  {{< card icon="play" title="Player audio" subtitle="Controlează redarea, coada și setările audio precum egalizatorul și timerul de somn." link="/docs/guide/evermusic/evermusic-guide-player" >}}
+  {{< feature-card icon="play" title="Player audio" subtitle="Controlează redarea, coada și setările audio precum egalizatorul și timerul de somn." link="/docs/guide/evermusic/evermusic-guide-player" >}}
 
-  {{< card icon="adjustments" title="Setări" subtitle="Personalizează aspectul, funcțiile și setările de performanță ale Evermusic." link="/docs/guide/evermusic/evermusic-guide-settings" >}}
+  {{< feature-card icon="adjustments" title="Setări" subtitle="Personalizează aspectul, funcțiile și setările de performanță ale Evermusic." link="/docs/guide/evermusic/evermusic-guide-settings" >}}
 
 {{< /cards >}}
 

@@ -148,7 +148,7 @@ Evermusic es un reproductor de música sin conexión gratuito para iPhone y Mac 
 
 {{< cards cols="4">}}
 
-  {{< card 
+  {{< feature-card 
     icon="adjustments"
     image="/products/evermusic/screenshots/2048x2732/3.png" 
     title="Ecualizador de Audio" 
@@ -157,7 +157,7 @@ Evermusic es un reproductor de música sin conexión gratuito para iPhone y Mac 
     subtitle="Ajusta tu sonido con un ecualizador de audio estilo iPod, preajustes personalizables y ganancia de preamplificador para la mejor experiencia de escucha." 
   >}}
 
-  {{< card 
+  {{< feature-card 
     icon="annotation"
     image="/products/evermusic/screenshots/2048x2732/4.png"  
     title="Visor de Letras" 
@@ -166,7 +166,7 @@ Evermusic es un reproductor de música sin conexión gratuito para iPhone y Mac 
     subtitle="Lee letras integradas y comentarios de pistas mientras escuchas. Disfruta de letras sincronizadas para una experiencia musical más inmersiva." 
   >}}
 
-  {{< card 
+  {{< feature-card 
     icon="collection"
     image="/products/evermusic/screenshots/2048x2732/5.png"  
     title="Gestor de Listas de Reproducción" 
@@ -175,7 +175,7 @@ Evermusic es un reproductor de música sin conexión gratuito para iPhone y Mac 
     subtitle="Crea y organiza listas de reproducción personalizadas, reordena canciones, exporta a M3U o archívalas como archivos ZIP para compartir o respaldar fácilmente." 
   >}}
 
-  {{< card 
+  {{< feature-card 
     icon="cloud"
     image="/products/evermusic/screenshots/2048x2732/6.png"  
     title="Transmisión de Música en la Nube" 
@@ -184,7 +184,7 @@ Evermusic es un reproductor de música sin conexión gratuito para iPhone y Mac 
     subtitle="Vincula las principales plataformas de almacenamiento en la nube como Google Drive, Dropbox y OneDrive para transmitir tu colección musical en cualquier momento y lugar." 
   >}}
 
-  {{< card 
+  {{< feature-card 
     icon="duplicate"
     image="/products/evermusic/screenshots/2048x2732/9.png"  
     title="Gestor de Archivos" 
@@ -193,7 +193,7 @@ Evermusic es un reproductor de música sin conexión gratuito para iPhone y Mac 
     subtitle="Gestiona fácilmente tus archivos de audio: renombra pistas, organiza carpetas y transfiere música entre dispositivos usando herramientas integradas." 
   >}} 
 
-  {{< card 
+  {{< feature-card 
     icon="sun"
     image="/products/evermusic/screenshots/2048x2732/10.png"  
     title="Personalización de la App" 
@@ -218,41 +218,41 @@ Evermusic es un reproductor de música sin conexión gratuito para iPhone y Mac 
 
 {{< cards >}}
 
-  {{< card title="Formatos de Audio" subtitle="Soporta: mp3, m4a, flac, wav, aac, mp4, m3u, m3u8, m4b, m4p, aiff, ogg, mp2, ac3, wma y más." icon="music-note" >}}
+  {{< feature-card title="Formatos de Audio" subtitle="Soporta: mp3, m4a, flac, wav, aac, mp4, m3u, m3u8, m4b, m4p, aiff, ogg, mp2, ac3, wma y más." icon="music-note" >}}
 
-  {{< card title="Audiolibros" subtitle="Incluye marcadores de audio, control de velocidad de reproducción y reanudación de posición." icon="book-open" width="50">}}
+  {{< feature-card title="Audiolibros" subtitle="Incluye marcadores de audio, control de velocidad de reproducción y reanudación de posición." icon="book-open" width="50">}}
 
-  {{< card title="Sincronización Automática" subtitle="Sincroniza tu biblioteca musical con la nube, organizada por artista, álbum y género." icon="refresh" >}}
+  {{< feature-card title="Sincronización Automática" subtitle="Sincroniza tu biblioteca musical con la nube, organizada por artista, álbum y género." icon="refresh" >}}
 
-  {{< card title="Gestor de Archivos" subtitle="Gestiona archivos con operaciones como copiar, mover, renombrar y eliminar." icon="folder" >}}
+  {{< feature-card title="Gestor de Archivos" subtitle="Gestiona archivos con operaciones como copiar, mover, renombrar y eliminar." icon="folder" >}}
 
-  {{< card title="Servicios en la Nube" subtitle="Soporta iCloud, Google Drive, Dropbox, OneDrive, Box, MEGA, WD MyCloud Home, pCloud y más." icon="cloud" >}}
+  {{< feature-card title="Servicios en la Nube" subtitle="Soporta iCloud, Google Drive, Dropbox, OneDrive, Box, MEGA, WD MyCloud Home, pCloud y más." icon="cloud" >}}
 
-  {{< card title="Reproducción Crossfade" subtitle="La siguiente canción comienza antes de que termine la actual para transiciones fluidas." icon="switch-horizontal" >}}
+  {{< feature-card title="Reproducción Crossfade" subtitle="La siguiente canción comienza antes de que termine la actual para transiciones fluidas." icon="switch-horizontal" >}}
 
-  {{< card title="Reproducción Sin Pausas" subtitle="Sin pausas entre canciones — ideal para álbumes en vivo, clásicos o conceptuales." icon="volume-up" >}}
+  {{< feature-card title="Reproducción Sin Pausas" subtitle="Sin pausas entre canciones — ideal para álbumes en vivo, clásicos o conceptuales." icon="volume-up" >}}
 
-  {{< card title="Ecualizador de Audio" subtitle="Ecualizador personalizable con preajustes, control manual y ganancia de preamplificador." icon="adjustments" >}}
+  {{< feature-card title="Ecualizador de Audio" subtitle="Ecualizador personalizable con preajustes, control manual y ganancia de preamplificador." icon="adjustments" >}}
 
-  {{< card title="Búsqueda Avanzada" subtitle="Encuentra tus álbumes, artistas y pistas favoritas de forma rápida y sencilla." icon="search" >}}
+  {{< feature-card title="Búsqueda Avanzada" subtitle="Encuentra tus álbumes, artistas y pistas favoritas de forma rápida y sencilla." icon="search" >}}
 
-  {{< card title="Acceso al Computador" subtitle="Conéctate vía SMB, WebDAV o DLNA. Transfiere vía iTunes File Sharing y Wi-Fi." icon="desktop-computer" >}}
+  {{< feature-card title="Acceso al Computador" subtitle="Conéctate vía SMB, WebDAV o DLNA. Transfiere vía iTunes File Sharing y Wi-Fi." icon="desktop-computer" >}}
 
-  {{< card title="AirPlay & Chromecast" subtitle="Transmite a dispositivos Apple TV y Google Chromecast de forma inalámbrica." icon="device-mobile" >}}
+  {{< feature-card title="AirPlay & Chromecast" subtitle="Transmite a dispositivos Apple TV y Google Chromecast de forma inalámbrica." icon="device-mobile" >}}
 
-  {{< card title="Listas de Reproducción" subtitle="Crea, edita, reordena e importa/exporta listas de reproducción M3U con modo sin conexión." icon="collection" >}}
+  {{< feature-card title="Listas de Reproducción" subtitle="Crea, edita, reordena e importa/exporta listas de reproducción M3U con modo sin conexión." icon="collection" >}}
 
-  {{< card title="Tarjetas USB Flash" subtitle="Reproduce música directamente desde tarjetas SD usando lectores externos como SanDisk iXpand." icon="inbox" >}}
+  {{< feature-card title="Tarjetas USB Flash" subtitle="Reproduce música directamente desde tarjetas SD usando lectores externos como SanDisk iXpand." icon="inbox" >}}
 
-  {{< card title="Modo Sin Conexión" subtitle="Descarga álbumes y listas de reproducción o almacena en caché automáticamente las pistas reproducidas recientemente para escuchar sin conexión." icon="download" >}}
+  {{< feature-card title="Modo Sin Conexión" subtitle="Descarga álbumes y listas de reproducción o almacena en caché automáticamente las pistas reproducidas recientemente para escuchar sin conexión." icon="download" >}}
 
-  {{< card title="Apple CarPlay" subtitle="Conduce con seguridad con una interfaz CarPlay dedicada para reproducción de música." icon="truck" >}}
+  {{< feature-card title="Apple CarPlay" subtitle="Conduce con seguridad con una interfaz CarPlay dedicada para reproducción de música." icon="truck" >}}
 
-  {{< card title="Editor de Etiquetas ID3" subtitle="Edita metadatos corruptos o faltantes usando el editor de etiquetas integrado." icon="pencil-alt" >}}
+  {{< feature-card title="Editor de Etiquetas ID3" subtitle="Edita metadatos corruptos o faltantes usando el editor de etiquetas integrado." icon="pencil-alt" >}}
 
-  {{< card title="Letras y Comentarios" subtitle="Ve letras integradas y comentarios mientras escuchas tu música." icon="annotation" >}}
+  {{< feature-card title="Letras y Comentarios" subtitle="Ve letras integradas y comentarios mientras escuchas tu música." icon="annotation" >}}
 
-  {{< card title="Last.fm" subtitle="Conecta tu cuenta de Last.fm para obtener estadísticas de escucha personalizadas y recomendaciones." icon="chart-bar" >}}
+  {{< feature-card title="Last.fm" subtitle="Conecta tu cuenta de Last.fm para obtener estadísticas de escucha personalizadas y recomendaciones." icon="chart-bar" >}}
   
 {{< /cards >}}
 
@@ -704,19 +704,19 @@ Con esta amplia gama de formatos y extensiones de archivo soportados, puedes dis
 </div>
 
 {{< cards >}}
-  {{< card icon="location-marker" title="Navegación" subtitle="Aprende a navegar en Evermusic usando la Barra de Pestañas en iPhone o el Menú Izquierdo en iPad y Mac." link="/docs/guide/evermusic/evermusic-guide-navigation" >}}
+  {{< feature-card icon="location-marker" title="Navegación" subtitle="Aprende a navegar en Evermusic usando la Barra de Pestañas en iPhone o el Menú Izquierdo en iPad y Mac." link="/docs/guide/evermusic/evermusic-guide-navigation" >}}
 
-  {{< card icon="cloud" title="Conexiones" subtitle="Conecta tus cuentas en la nube y gestiona archivos en línea usando el gestor de archivos integrado." link="/docs/guide/evermusic/evermusic-guide-connections" >}}
+  {{< feature-card icon="cloud" title="Conexiones" subtitle="Conecta tus cuentas en la nube y gestiona archivos en línea usando el gestor de archivos integrado." link="/docs/guide/evermusic/evermusic-guide-connections" >}}
 
-  {{< card icon="library" title="Biblioteca Musical" subtitle="Organiza y explora tus pistas, álbumes y artistas en la Biblioteca Musical." link="/docs/guide/evermusic/evermusic-guide-music-library" >}}
+  {{< feature-card icon="library" title="Biblioteca Musical" subtitle="Organiza y explora tus pistas, álbumes y artistas en la Biblioteca Musical." link="/docs/guide/evermusic/evermusic-guide-music-library" >}}
 
-  {{< card icon="collection" title="Listas de Reproducción" subtitle="Crea y organiza listas de reproducción para que coincidan con tu estado de ánimo u ocasión." link="/docs/guide/evermusic/evermusic-guide-playlists" >}}
+  {{< feature-card icon="collection" title="Listas de Reproducción" subtitle="Crea y organiza listas de reproducción para que coincidan con tu estado de ánimo u ocasión." link="/docs/guide/evermusic/evermusic-guide-playlists" >}}
 
-  {{< card icon="folder" title="Archivos Locales" subtitle="Accede y gestiona música sin conexión a través de la sección de Archivos Locales." link="/docs/guide/evermusic/evermusic-guide-local-files" >}}
+  {{< feature-card icon="folder" title="Archivos Locales" subtitle="Accede y gestiona música sin conexión a través de la sección de Archivos Locales." link="/docs/guide/evermusic/evermusic-guide-local-files" >}}
 
-  {{< card icon="play" title="Reproductor de Audio" subtitle="Controla tu reproducción, cola y ajustes de audio como ecualizador y temporizador de sueño." link="/docs/guide/evermusic/evermusic-guide-player" >}}
+  {{< feature-card icon="play" title="Reproductor de Audio" subtitle="Controla tu reproducción, cola y ajustes de audio como ecualizador y temporizador de sueño." link="/docs/guide/evermusic/evermusic-guide-player" >}}
 
-  {{< card icon="adjustments" title="Ajustes" subtitle="Personaliza la apariencia, funciones y ajustes de rendimiento de Evermusic." link="/docs/guide/evermusic/evermusic-guide-settings" >}}
+  {{< feature-card icon="adjustments" title="Ajustes" subtitle="Personaliza la apariencia, funciones y ajustes de rendimiento de Evermusic." link="/docs/guide/evermusic/evermusic-guide-settings" >}}
 
 {{< /cards >}}
 

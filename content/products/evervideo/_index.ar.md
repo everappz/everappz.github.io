@@ -144,35 +144,35 @@ Evervideo
 
 {{< cards >}}
 
-{{< card title="تشغيل جميع صيغ الفيديو والصوت" subtitle="شاهد وسائطك دون تحويل الملفات. يدعم Evervideo جميع الصيغ الرئيسية بما في ذلك MKV وAVI وMP4 وMOV وFLAC وMP3 وAAC وOGG وWAV وWMV والمزيد." icon="film">}}
+{{< feature-card title="تشغيل جميع صيغ الفيديو والصوت" subtitle="شاهد وسائطك دون تحويل الملفات. يدعم Evervideo جميع الصيغ الرئيسية بما في ذلك MKV وAVI وMP4 وMOV وFLAC وMP3 وAAC وOGG وWAV وWMV والمزيد." icon="film">}}
 
-{{< card title="وضع بدون اتصال" subtitle="حمّل الفيديوهات والألبومات وقوائم التشغيل لمشاهدتها بدون اتصال بالإنترنت. خذ مجموعة الفيديو بالكامل معك في أي مكان." icon="download">}}
+{{< feature-card title="وضع بدون اتصال" subtitle="حمّل الفيديوهات والألبومات وقوائم التشغيل لمشاهدتها بدون اتصال بالإنترنت. خذ مجموعة الفيديو بالكامل معك في أي مكان." icon="download">}}
 
-{{< card title="فيديو 360 درجة ووضع الواقع الافتراضي" subtitle="شاهد فيديوهات 360 درجة والواقع الافتراضي بطريقة ممتعة وسهلة. حرّك هاتفك للنظر في أي اتجاه، أو ضعه في سماعة واقع افتراضي لتشعر كأنك داخل الفيديو." icon="video-camera">}}
+{{< feature-card title="فيديو 360 درجة ووضع الواقع الافتراضي" subtitle="شاهد فيديوهات 360 درجة والواقع الافتراضي بطريقة ممتعة وسهلة. حرّك هاتفك للنظر في أي اتجاه، أو ضعه في سماعة واقع افتراضي لتشعر كأنك داخل الفيديو." icon="video-camera">}}
 
-{{< card title="صورة داخل صورة" subtitle="واصل مشاهدة الفيديوهات في نافذة عائمة صغيرة أثناء استخدام تطبيقات أخرى. تحكم في التشغيل وشاهد الترجمات في نفس الوقت — مثالي لتعدد المهام." icon="duplicate">}}
+{{< feature-card title="صورة داخل صورة" subtitle="واصل مشاهدة الفيديوهات في نافذة عائمة صغيرة أثناء استخدام تطبيقات أخرى. تحكم في التشغيل وشاهد الترجمات في نفس الوقت — مثالي لتعدد المهام." icon="duplicate">}}
 
-{{< card title="معادل الفيديو والصوت" subtitle="خصّص مظهر وصوت فيديوهاتك. اضبط الجهير والنغمة والسطوع وجاما والتشبع والتباين والمزيد. اختر من أكثر من 50 إعداد فيديو مسبق وأكثر من 20 إعداد صوتي مسبق، أو أنشئ إعداداتك الخاصة." icon="adjustments">}}
+{{< feature-card title="معادل الفيديو والصوت" subtitle="خصّص مظهر وصوت فيديوهاتك. اضبط الجهير والنغمة والسطوع وجاما والتشبع والتباين والمزيد. اختر من أكثر من 50 إعداد فيديو مسبق وأكثر من 20 إعداد صوتي مسبق، أو أنشئ إعداداتك الخاصة." icon="adjustments">}}
 
-{{< card title="الترجمات" subtitle="اعرض الترجمات المضمّنة، واختر رقم مسار الترجمة، واستمتع بدعم كامل للترجمات حتى في وضع صورة داخل صورة." icon="annotation" >}}
+{{< feature-card title="الترجمات" subtitle="اعرض الترجمات المضمّنة، واختر رقم مسار الترجمة، واستمتع بدعم كامل للترجمات حتى في وضع صورة داخل صورة." icon="annotation" >}}
 
-{{< card title="التشغيل مباشرة من السحابة" subtitle="شاهد الفيديوهات مباشرة من التخزين السحابي دون استخدام مساحة الجهاز. يدعم iCloud Drive وGoogle Drive وDropbox وOneDrive وMEGA وSynology Drive وpCloud والمزيد." icon="cloud">}}
+{{< feature-card title="التشغيل مباشرة من السحابة" subtitle="شاهد الفيديوهات مباشرة من التخزين السحابي دون استخدام مساحة الجهاز. يدعم iCloud Drive وGoogle Drive وDropbox وOneDrive وMEGA وSynology Drive وpCloud والمزيد." icon="cloud">}}
 
-{{< card title="توصيل الكمبيوتر / NAS" subtitle="وصّل بسهولة جهاز NAS أو Mac أو الكمبيوتر عبر شبكتك المنزلية باستخدام SMB أو WebDAV أو DLNA. يُدعم الوصول عن بُعد لـ Synology Drive وWD MyCloud Home. انقل ملفات الوسائط إلى جهازك عبر Wi-Fi أو مشاركة ملفات iTunes." icon="desktop-computer">}}
+{{< feature-card title="توصيل الكمبيوتر / NAS" subtitle="وصّل بسهولة جهاز NAS أو Mac أو الكمبيوتر عبر شبكتك المنزلية باستخدام SMB أو WebDAV أو DLNA. يُدعم الوصول عن بُعد لـ Synology Drive وWD MyCloud Home. انقل ملفات الوسائط إلى جهازك عبر Wi-Fi أو مشاركة ملفات iTunes." icon="desktop-computer">}}
 
-{{< card title="مكتبة الوسائط" subtitle="نظّم حسب الألبوم أو النوع أو المدة. تتم المزامنة تلقائياً مع تغييرات السحابة. أنشئ وعدّل وصدّر قوائم تشغيل M3U مع ترتيب مخصص." icon="library" >}}
+{{< feature-card title="مكتبة الوسائط" subtitle="نظّم حسب الألبوم أو النوع أو المدة. تتم المزامنة تلقائياً مع تغييرات السحابة. أنشئ وعدّل وصدّر قوائم تشغيل M3U مع ترتيب مخصص." icon="library" >}}
 
-{{< card title="الإشارات المرجعية وحفظ موضع التشغيل" subtitle="احفظ مكانك في أي فيديو بالإشارات المرجعية واستأنف التشغيل من حيث توقفت. اضبط سرعة التشغيل، وضع علامة على المفضلة، ورتّب الفيديوهات حسب الأكثر تشغيلاً للوصول السهل." icon="book-open">}}
+{{< feature-card title="الإشارات المرجعية وحفظ موضع التشغيل" subtitle="احفظ مكانك في أي فيديو بالإشارات المرجعية واستأنف التشغيل من حيث توقفت. اضبط سرعة التشغيل، وضع علامة على المفضلة، ورتّب الفيديوهات حسب الأكثر تشغيلاً للوصول السهل." icon="book-open">}}
 
-{{< card title="AirPlay وChromecast" subtitle="شغّل الفيديوهات على شاشة أكبر عن طريق البث إلى Apple TV أو Chromecast أو أي شاشة خارجية متوافقة." icon="device-mobile">}}
+{{< feature-card title="AirPlay وChromecast" subtitle="شغّل الفيديوهات على شاشة أكبر عن طريق البث إلى Apple TV أو Chromecast أو أي شاشة خارجية متوافقة." icon="device-mobile">}}
 
-{{< card title="الاستيراد من الملفات والمكتبات" subtitle="استورد الفيديوهات مباشرة من تطبيق الملفات أو الصور أو مكتبة iTunes. الوصول إلى كل المحتوى المحلي والسحابي في مكتبة وسائط منظمة واحدة." icon="database">}}
+{{< feature-card title="الاستيراد من الملفات والمكتبات" subtitle="استورد الفيديوهات مباشرة من تطبيق الملفات أو الصور أو مكتبة iTunes. الوصول إلى كل المحتوى المحلي والسحابي في مكتبة وسائط منظمة واحدة." icon="database">}}
 
-{{< card title="مدير الملفات" subtitle="انقل وأعد تسمية واحذف ونظّم الملفات مباشرة داخل التطبيق." icon="folder">}}
+{{< feature-card title="مدير الملفات" subtitle="انقل وأعد تسمية واحذف ونظّم الملفات مباشرة داخل التطبيق." icon="folder">}}
 
-{{< card title="التخصيص" subtitle="خصّص التطبيق ليناسب تفضيلاتك. اختر السمات، وأظهر أو أخفِ الميزات، واضبط الواجهة حسب احتياجاتك." icon="sun">}}
+{{< feature-card title="التخصيص" subtitle="خصّص التطبيق ليناسب تفضيلاتك. اختر السمات، وأظهر أو أخفِ الميزات، واضبط الواجهة حسب احتياجاتك." icon="sun">}}
 
-{{< card title="البحث الذكي" subtitle="ابحث بسرعة عن الفيديوهات أو الألبومات أو قوائم التشغيل في مكتبة الوسائط باستخدام الكلمات المفتاحية أو المرشحات." icon="search" >}}
+{{< feature-card title="البحث الذكي" subtitle="ابحث بسرعة عن الفيديوهات أو الألبومات أو قوائم التشغيل في مكتبة الوسائط باستخدام الكلمات المفتاحية أو المرشحات." icon="search" >}}
 
 
 
@@ -192,7 +192,7 @@ Evervideo
 
 {{< cards cols="4">}}
 
-  {{< card 
+  {{< feature-card 
     image="/products/evervideo/screenshots/2880x1800/1.png" 
     title="مشغل الفيديو" 
     method="Fill"
@@ -201,7 +201,7 @@ Evervideo
     icon="play"
   >}}
 
-  {{< card 
+  {{< feature-card 
     image="/products/evervideo/screenshots/2880x1800/3.png" 
     title="معادل الصوت والفيديو" 
     method="Fill"
@@ -210,7 +210,7 @@ Evervideo
     icon="adjustments"
   >}}
 
-  {{< card 
+  {{< feature-card 
     image="/products/evervideo/screenshots/2880x1800/6.png" 
     title="مدير قوائم التشغيل" 
     method="Fill"
@@ -219,7 +219,7 @@ Evervideo
     icon="collection"
   >}}
 
-  {{< card 
+  {{< feature-card 
     image="/products/evervideo/screenshots/2880x1800/5.png" 
     title="مكتبة الوسائط" 
     method="Fill"
@@ -228,7 +228,7 @@ Evervideo
     icon="library"
   >}}
 
-  {{< card 
+  {{< feature-card 
     image="/products/evervideo/screenshots/2880x1800/7.png"  
     title="التخزين السحابي" 
     method="Fill"
@@ -237,7 +237,7 @@ Evervideo
     icon="cloud"
   >}}
 
-  {{< card 
+  {{< feature-card 
     image="/products/evervideo/screenshots/2880x1800/9.png"  
     title="مدير الملفات" 
     method="Fill"
@@ -656,17 +656,17 @@ Wi-Fi Drive هي تقنية شائعة تتيح لك نقل الملفات من 
 </div>
 
 {{< cards >}}
-  {{< card icon="location-marker" title="التنقل" subtitle="تعلّم كيفية التنقل في Evervideo باستخدام شريط علامات التبويب على iPhone أو القائمة اليسرى على iPad وMac، بالإضافة إلى المشغل المضغوط الدائم على الشاشة." link="/docs/guide/evervideo/evervideo-guide-navigation" >}}
+  {{< feature-card icon="location-marker" title="التنقل" subtitle="تعلّم كيفية التنقل في Evervideo باستخدام شريط علامات التبويب على iPhone أو القائمة اليسرى على iPad وMac، بالإضافة إلى المشغل المضغوط الدائم على الشاشة." link="/docs/guide/evervideo/evervideo-guide-navigation" >}}
 
-  {{< card icon="folder" title="الملفات" subtitle="اربط حسابات السحابة وأقراص NAS وخوادم الوسائط (Plex، Jellyfin، Emby، Subsonic، Navidrome) وتدفقات RTSP والملفات المحلية في علامة تبويب موحدة." link="/docs/guide/evervideo/evervideo-guide-files" >}}
+  {{< feature-card icon="folder" title="الملفات" subtitle="اربط حسابات السحابة وأقراص NAS وخوادم الوسائط (Plex، Jellyfin، Emby، Subsonic، Navidrome) وتدفقات RTSP والملفات المحلية في علامة تبويب موحدة." link="/docs/guide/evervideo/evervideo-guide-files" >}}
 
-  {{< card icon="library" title="مكتبة الوسائط" subtitle="نظّم واستكشف الفيديوهات والموسيقى حسب الألبومات والأنواع والمشاهدات الأخيرة والمفضلة، بالإضافة إلى مكتبة صور iOS ومكتبة Apple Music." link="/docs/guide/evervideo/evervideo-guide-video-library" >}}
+  {{< feature-card icon="library" title="مكتبة الوسائط" subtitle="نظّم واستكشف الفيديوهات والموسيقى حسب الألبومات والأنواع والمشاهدات الأخيرة والمفضلة، بالإضافة إلى مكتبة صور iOS ومكتبة Apple Music." link="/docs/guide/evervideo/evervideo-guide-video-library" >}}
 
-  {{< card icon="collection" title="قوائم التشغيل" subtitle="أنشئ ونظّم قوائم تشغيل للفيديوهات والموسيقى والمسلسلات أو الدورات، واستورد ملفات M3U / M3U8 / CUE." link="/docs/guide/evervideo/evervideo-guide-playlists" >}}
+  {{< feature-card icon="collection" title="قوائم التشغيل" subtitle="أنشئ ونظّم قوائم تشغيل للفيديوهات والموسيقى والمسلسلات أو الدورات، واستورد ملفات M3U / M3U8 / CUE." link="/docs/guide/evervideo/evervideo-guide-playlists" >}}
 
-  {{< card icon="play" title="مشغل الوسائط" subtitle="تحكم في التشغيل وقائمة الانتظار و«صورة داخل صورة» ومسارات الصوت والفيديو والترجمات الأساسية والثانوية ومعادلات الصوت والفيديو." link="/docs/guide/evervideo/evervideo-guide-player" >}}
+  {{< feature-card icon="play" title="مشغل الوسائط" subtitle="تحكم في التشغيل وقائمة الانتظار و«صورة داخل صورة» ومسارات الصوت والفيديو والترجمات الأساسية والثانوية ومعادلات الصوت والفيديو." link="/docs/guide/evervideo/evervideo-guide-player" >}}
 
-  {{< card icon="adjustments" title="الإعدادات" subtitle="خصّص مظهر Evervideo وفك التشفير والمعادلات والترجمات والأدوات واللغة ورمز المرور والنسخ الاحتياطي وإعدادات الأداء." link="/docs/guide/evervideo/evervideo-guide-settings" >}}
+  {{< feature-card icon="adjustments" title="الإعدادات" subtitle="خصّص مظهر Evervideo وفك التشفير والمعادلات والترجمات والأدوات واللغة ورمز المرور والنسخ الاحتياطي وإعدادات الأداء." link="/docs/guide/evervideo/evervideo-guide-settings" >}}
 
 {{< /cards >}}
 

@@ -491,17 +491,17 @@ Dropbox、OneDrive、Box、MEGA、Yandex.Disk、MediaFire、pCloud、HiDrive。<
 </div>
 
 {{< cards >}}
-  {{< card icon="location-marker" title="导航" subtitle="了解如何使用标签栏（iPhone用户）或左侧菜单（iPad和Mac用户）轻松导航我们的应用，以访问和探索应用的所有功能。" link="/docs/guide/evertag/evertag-guide-navigation" >}}
+  {{< feature-card icon="location-marker" title="导航" subtitle="了解如何使用标签栏（iPhone用户）或左侧菜单（iPad和Mac用户）轻松导航我们的应用，以访问和探索应用的所有功能。" link="/docs/guide/evertag/evertag-guide-navigation" >}}
 
-  {{< card icon="cloud" title="连接" subtitle="轻松将所有可用的云账户与您珍贵的音频文件连接。您甚至可以使用我们的内置文件管理器轻松编辑在线文件。" link="/docs/guide/evertag/evertag-guide-connections" >}}
+  {{< feature-card icon="cloud" title="连接" subtitle="轻松将所有可用的云账户与您珍贵的音频文件连接。您甚至可以使用我们的内置文件管理器轻松编辑在线文件。" link="/docs/guide/evertag/evertag-guide-connections" >}}
 
-  {{< card icon="folder" title="本地文件" subtitle="查看和整理存储在应用文档文件夹或设备上的文件。使用内置文件管理器轻松编辑和管理您的音频文件。" link="/docs/guide/evertag/evertag-guide-local-files" >}}
+  {{< feature-card icon="folder" title="本地文件" subtitle="查看和整理存储在应用文档文件夹或设备上的文件。使用内置文件管理器轻松编辑和管理您的音频文件。" link="/docs/guide/evertag/evertag-guide-local-files" >}}
 
-  {{< card icon="pencil-alt" title="标签编辑器" subtitle="掌握音频文件元数据操作的技巧。了解如何编辑元数据、更换专辑封面以及无缝管理多个文件。" link="/docs/guide/evertag/evertag-guide-tag-editor" >}}
+  {{< feature-card icon="pencil-alt" title="标签编辑器" subtitle="掌握音频文件元数据操作的技巧。了解如何编辑元数据、更换专辑封面以及无缝管理多个文件。" link="/docs/guide/evertag/evertag-guide-tag-editor" >}}
 
-  {{< card icon="code" title="标签字段映射" subtitle="浏览Evertag应用支持的音频标签字段完整列表，包括内部字段名称和跨主要元数据格式的映射。" link="/docs/guide/evertag/evertag-tag-field-mappings" >}}
+  {{< feature-card icon="code" title="标签字段映射" subtitle="浏览Evertag应用支持的音频标签字段完整列表，包括内部字段名称和跨主要元数据格式的映射。" link="/docs/guide/evertag/evertag-tag-field-mappings" >}}
 
-  {{< card icon="adjustments" title="设置" subtitle="了解如何自定义您的应用体验、微调性能、管理数据使用以及根据您的喜好调整语言和用户界面偏好。" link="/docs/guide/evertag/evertag-guide-settings" >}}
+  {{< feature-card icon="adjustments" title="设置" subtitle="了解如何自定义您的应用体验、微调性能、管理数据使用以及根据您的喜好调整语言和用户界面偏好。" link="/docs/guide/evertag/evertag-guide-settings" >}}
 
 {{< /cards >}}
 

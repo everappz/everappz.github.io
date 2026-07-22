@@ -127,29 +127,29 @@ Funcții Complete
 
 {{< cards >}}
 
-  {{< card title="Suport Audio Lossless" subtitle="Redați FLAC, ALAC, WAV, APE, DFF, WV, AIFF și multe alte formate de înaltă calitate." icon="music-note" >}}
-  {{< card title="Mod Offline" subtitle="Descărcați albume, playlisturi și piese pentru redare offline oricând." icon="download" >}}
-  {{< card title="Gestionare Fișiere" subtitle="Copiați, mutați, redenumiți și ștergeți fișiere ușor în aplicație." icon="folder" >}}
+  {{< feature-card title="Suport Audio Lossless" subtitle="Redați FLAC, ALAC, WAV, APE, DFF, WV, AIFF și multe alte formate de înaltă calitate." icon="music-note" >}}
+  {{< feature-card title="Mod Offline" subtitle="Descărcați albume, playlisturi și piese pentru redare offline oricând." icon="download" >}}
+  {{< feature-card title="Gestionare Fișiere" subtitle="Copiați, mutați, redenumiți și ștergeți fișiere ușor în aplicație." icon="folder" >}}
 
-  {{< card title="Playlisturi Personalizate" subtitle="Creați, editați, reordonați playlisturi și exportați sau importați fișiere M3U." icon="collection" >}}
-  {{< card title="Bibliotecă Media" subtitle="Adăugați muzică și organizați-o după album, artist și gen folosind taguri." icon="library" >}}
-  {{< card title="Căutare Avansată" subtitle="Găsiți rapid piese, artiști sau albume cu instrumente de căutare inteligente." icon="search" >}}
+  {{< feature-card title="Playlisturi Personalizate" subtitle="Creați, editați, reordonați playlisturi și exportați sau importați fișiere M3U." icon="collection" >}}
+  {{< feature-card title="Bibliotecă Media" subtitle="Adăugați muzică și organizați-o după album, artist și gen folosind taguri." icon="library" >}}
+  {{< feature-card title="Căutare Avansată" subtitle="Găsiți rapid piese, artiști sau albume cu instrumente de căutare inteligente." icon="search" >}}
 
-  {{< card title="Streaming Cloud" subtitle="Transmiteți de pe Google Drive, Dropbox, OneDrive, iCloud, MEGA și altele." icon="cloud" >}}
-  {{< card title="Acces NAS și Computer" subtitle="Conectați prin SMB, DLNA sau WebDAV. Transferați cu iTunes sau Wi-Fi." icon="desktop-computer" >}}
-  {{< card title="Carduri de Memorie USB" subtitle="Redați muzică direct de pe carduri SD folosind adaptoare USB precum iXpand." icon="inbox" >}}
+  {{< feature-card title="Streaming Cloud" subtitle="Transmiteți de pe Google Drive, Dropbox, OneDrive, iCloud, MEGA și altele." icon="cloud" >}}
+  {{< feature-card title="Acces NAS și Computer" subtitle="Conectați prin SMB, DLNA sau WebDAV. Transferați cu iTunes sau Wi-Fi." icon="desktop-computer" >}}
+  {{< feature-card title="Carduri de Memorie USB" subtitle="Redați muzică direct de pe carduri SD folosind adaptoare USB precum iXpand." icon="inbox" >}}
 
-  {{< card title="Controale de Redare" subtitle="Schimbați viteza și tonul redării pentru control audio perfect." icon="fast-forward" >}}
-  {{< card title="Versuri și Comentarii" subtitle="Vizualizați versuri și comentarii încorporate în timpul redării." icon="annotation" >}}
-  {{< card title="Editor Taguri ID3" subtitle="Editați și corectați metadate precum titlu, artist sau album cu instrumentul integrat." icon="pencil-alt" >}}
+  {{< feature-card title="Controale de Redare" subtitle="Schimbați viteza și tonul redării pentru control audio perfect." icon="fast-forward" >}}
+  {{< feature-card title="Versuri și Comentarii" subtitle="Vizualizați versuri și comentarii încorporate în timpul redării." icon="annotation" >}}
+  {{< feature-card title="Editor Taguri ID3" subtitle="Editați și corectați metadate precum titlu, artist sau album cu instrumentul integrat." icon="pencil-alt" >}}
 
-  {{< card title="Egalizator și Amplificare" subtitle="Folosiți presetări sau reglați manual cu câștig de preamplificator pentru sunet bogat." icon="adjustments" >}}
-  {{< card title="Apple CarPlay" subtitle="Conduceți în siguranță cu o interfață CarPlay dedicată pentru redarea muzicii." icon="truck" >}}
-  {{< card title="AirPlay și Chromecast" subtitle="Transmiteți wireless pe dispozitive Apple TV și Google Chromecast." icon="device-mobile" >}}
+  {{< feature-card title="Egalizator și Amplificare" subtitle="Folosiți presetări sau reglați manual cu câștig de preamplificator pentru sunet bogat." icon="adjustments" >}}
+  {{< feature-card title="Apple CarPlay" subtitle="Conduceți în siguranță cu o interfață CarPlay dedicată pentru redarea muzicii." icon="truck" >}}
+  {{< feature-card title="AirPlay și Chromecast" subtitle="Transmiteți wireless pe dispozitive Apple TV și Google Chromecast." icon="device-mobile" >}}
 
-  {{< card title="Integrare Last.fm" subtitle="Urmăriți statisticile muzicale și primiți recomandări personalizate de piese." icon="chart-bar" >}}
-  {{< card title="Sincronizare Automată" subtitle="Sincronizați automat biblioteca muzicală cu foldere cloud și locale." icon="refresh" >}}
-  {{< card title="Suport Cărți Audio" subtitle="Ascultați cărți audio cu marcaje, cronometru de somn și reluați redarea de unde ați oprit." icon="book-open" >}}
+  {{< feature-card title="Integrare Last.fm" subtitle="Urmăriți statisticile muzicale și primiți recomandări personalizate de piese." icon="chart-bar" >}}
+  {{< feature-card title="Sincronizare Automată" subtitle="Sincronizați automat biblioteca muzicală cu foldere cloud și locale." icon="refresh" >}}
+  {{< feature-card title="Suport Cărți Audio" subtitle="Ascultați cărți audio cu marcaje, cronometru de somn și reluați redarea de unde ați oprit." icon="book-open" >}}
 
 {{< /cards >}}
 
@@ -167,7 +167,7 @@ Design Intuitiv
 
 {{< cards cols="4">}}
 
-  {{< card 
+  {{< feature-card 
     image="/products/flacbox/screenshots/2048x2732/1.png" 
     title="Player Audio" 
     method="Fill"
@@ -176,7 +176,7 @@ Design Intuitiv
     icon="play"
   >}}
 
-  {{< card 
+  {{< feature-card 
     image="/products/flacbox/screenshots/2048x2732/2.png"  
     title="Egalizator Audio" 
     method="Fill"
@@ -185,7 +185,7 @@ Design Intuitiv
     icon="adjustments"
   >}}
 
-  {{< card 
+  {{< feature-card 
     image="/products/flacbox/screenshots/2048x2732/3.png"  
     title="Manager Playlisturi" 
     method="Fill"
@@ -194,7 +194,7 @@ Design Intuitiv
     icon="collection"
   >}}
 
-  {{< card 
+  {{< feature-card 
     image="/products/flacbox/screenshots/2048x2732/5.png"  
     title="Bibliotecă Media" 
     method="Fill"
@@ -203,7 +203,7 @@ Design Intuitiv
     icon="library"
   >}}
 
-  {{< card 
+  {{< feature-card 
     image="/products/flacbox/screenshots/2048x2732/7.png"  
     title="Stocare Cloud" 
     method="Fill"
@@ -212,7 +212,7 @@ Design Intuitiv
     icon="cloud"
   >}}
 
-  {{< card 
+  {{< feature-card 
     image="/products/flacbox/screenshots/2048x2732/8.png"  
     title="iCloud Drive" 
     method="Fill"
@@ -835,19 +835,19 @@ Pentru a folosi CarPlay, asigurați-vă că Siri este activat și iPhone-ul este
 
 {{< cards >}}
 
-{{< card icon="map" link="/docs/guide/flacbox/flacbox-guide-navigation" title="Navigare" subtitle="Folosiți bara de file pe iPhone sau meniul din stânga pe iPad și Mac." >}}
+{{< feature-card icon="map" link="/docs/guide/flacbox/flacbox-guide-navigation" title="Navigare" subtitle="Folosiți bara de file pe iPhone sau meniul din stânga pe iPad și Mac." >}}
 
-{{< card icon="cloud" link="/docs/guide/flacbox/flacbox-guide-connections" title="Conexiuni" subtitle="Conectați Dropbox, Google Drive, iCloud sau NAS-ul dvs." >}}
+{{< feature-card icon="cloud" link="/docs/guide/flacbox/flacbox-guide-connections" title="Conexiuni" subtitle="Conectați Dropbox, Google Drive, iCloud sau NAS-ul dvs." >}}
 
-{{< card icon="collection" link="/docs/guide/flacbox/flacbox-guide-music-library" title="Bibliotecă Muzicală" subtitle="Gestionați și căutați piese după artist, album sau gen." >}}
+{{< feature-card icon="collection" link="/docs/guide/flacbox/flacbox-guide-music-library" title="Bibliotecă Muzicală" subtitle="Gestionați și căutați piese după artist, album sau gen." >}}
 
-{{< card icon="music-note" link="/docs/guide/flacbox/flacbox-guide-playlists" title="Playlisturi" subtitle="Creați și organizați playlisturi pentru orice stare sau ocazie." >}}
+{{< feature-card icon="music-note" link="/docs/guide/flacbox/flacbox-guide-playlists" title="Playlisturi" subtitle="Creați și organizați playlisturi pentru orice stare sau ocazie." >}}
 
-{{< card icon="folder" link="/docs/guide/flacbox/flacbox-guide-local-files" title="Fișiere Locale" subtitle="Editați și redați muzică offline cu managerul de fișiere integrat." >}}
+{{< feature-card icon="folder" link="/docs/guide/flacbox/flacbox-guide-local-files" title="Fișiere Locale" subtitle="Editați și redați muzică offline cu managerul de fișiere integrat." >}}
 
-{{< card icon="play" link="/docs/guide/flacbox/flacbox-guide-player" title="Player Audio" subtitle="Controlați redarea, ajustați viteza, setați marcaje și altele." >}}
+{{< feature-card icon="play" link="/docs/guide/flacbox/flacbox-guide-player" title="Player Audio" subtitle="Controlați redarea, ajustați viteza, setați marcaje și altele." >}}
 
-{{< card icon="adjustments" link="/docs/guide/flacbox/flacbox-guide-settings" title="Setări" subtitle="Personalizați egalizatorul, aspectul și comportamentul aplicației." >}}
+{{< feature-card icon="adjustments" link="/docs/guide/flacbox/flacbox-guide-settings" title="Setări" subtitle="Personalizați egalizatorul, aspectul și comportamentul aplicației." >}}
 
 {{< /cards >}}
 

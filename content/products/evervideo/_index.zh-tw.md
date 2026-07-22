@@ -144,35 +144,35 @@ Evervideo
 
 {{< cards >}}
 
-{{< card title="播放所有影片和音訊格式" subtitle="無需轉換檔案即可觀看媒體。Evervideo 支援所有主要格式，包括 MKV、AVI、MP4、MOV、FLAC、MP3、AAC、OGG、WAV、WMV 等。" icon="film">}}
+{{< feature-card title="播放所有影片和音訊格式" subtitle="無需轉換檔案即可觀看媒體。Evervideo 支援所有主要格式，包括 MKV、AVI、MP4、MOV、FLAC、MP3、AAC、OGG、WAV、WMV 等。" icon="film">}}
 
-{{< card title="離線模式" subtitle="下載影片、專輯和播放清單以在無網路連線時觀看。隨身攜帶您的完整影片收藏。" icon="download">}}
+{{< feature-card title="離線模式" subtitle="下載影片、專輯和播放清單以在無網路連線時觀看。隨身攜帶您的完整影片收藏。" icon="download">}}
 
-{{< card title="360° 影片與 VR 模式" subtitle="以有趣且簡單的方式觀看 360° 和 VR 影片。移動手機即可環顧四周，或戴上 VR 頭戴裝置感受身歷其境。" icon="video-camera">}}
+{{< feature-card title="360° 影片與 VR 模式" subtitle="以有趣且簡單的方式觀看 360° 和 VR 影片。移動手機即可環顧四周，或戴上 VR 頭戴裝置感受身歷其境。" icon="video-camera">}}
 
-{{< card title="子母畫面" subtitle="在使用其他應用程式時繼續在小浮動視窗中觀看影片。同時控制播放和檢視字幕——非常適合多工處理。" icon="duplicate">}}
+{{< feature-card title="子母畫面" subtitle="在使用其他應用程式時繼續在小浮動視窗中觀看影片。同時控制播放和檢視字幕——非常適合多工處理。" icon="duplicate">}}
 
-{{< card title="影片與音訊等化器" subtitle="自訂影片的畫面和聲音效果。調整低音、音調、亮度、伽瑪、飽和度、對比度等。從 50+ 影片預設和 20+ 音訊預設中選擇，或建立您自己的。" icon="adjustments">}}
+{{< feature-card title="影片與音訊等化器" subtitle="自訂影片的畫面和聲音效果。調整低音、音調、亮度、伽瑪、飽和度、對比度等。從 50+ 影片預設和 20+ 音訊預設中選擇，或建立您自己的。" icon="adjustments">}}
 
-{{< card title="字幕" subtitle="檢視內嵌字幕，選擇字幕軌道編號，即使在子母畫面模式下也能享受完整的字幕支援。" icon="annotation" >}}
+{{< feature-card title="字幕" subtitle="檢視內嵌字幕，選擇字幕軌道編號，即使在子母畫面模式下也能享受完整的字幕支援。" icon="annotation" >}}
 
-{{< card title="直接從雲端播放" subtitle="直接從雲端儲存觀看影片而不佔用裝置空間。支援 iCloud Drive、Google Drive、Dropbox、OneDrive、MEGA、Synology Drive、pCloud 等。" icon="cloud">}}
+{{< feature-card title="直接從雲端播放" subtitle="直接從雲端儲存觀看影片而不佔用裝置空間。支援 iCloud Drive、Google Drive、Dropbox、OneDrive、MEGA、Synology Drive、pCloud 等。" icon="cloud">}}
 
-{{< card title="連接電腦 / NAS" subtitle="透過 SMB、WebDAV 或 DLNA 輕鬆連接您的 NAS、Mac 或 PC 到家庭網路。支援 Synology Drive 和 WD MyCloud Home 的遠端存取。透過 Wi-Fi 或 iTunes 檔案共享將媒體檔案傳輸到您的裝置。" icon="desktop-computer">}}
+{{< feature-card title="連接電腦 / NAS" subtitle="透過 SMB、WebDAV 或 DLNA 輕鬆連接您的 NAS、Mac 或 PC 到家庭網路。支援 Synology Drive 和 WD MyCloud Home 的遠端存取。透過 Wi-Fi 或 iTunes 檔案共享將媒體檔案傳輸到您的裝置。" icon="desktop-computer">}}
 
-{{< card title="媒體庫" subtitle="按專輯、類型或時長整理。自動與雲端變更同步。建立、編輯和匯出附自訂排序的 M3U 播放清單。" icon="library" >}}
+{{< feature-card title="媒體庫" subtitle="按專輯、類型或時長整理。自動與雲端變更同步。建立、編輯和匯出附自訂排序的 M3U 播放清單。" icon="library" >}}
 
-{{< card title="書籤與播放位置儲存" subtitle="使用書籤儲存任何影片中的位置，並從上次中斷處繼續播放。調整播放速度，標記收藏，按播放次數排序影片以便快速存取。" icon="book-open">}}
+{{< feature-card title="書籤與播放位置儲存" subtitle="使用書籤儲存任何影片中的位置，並從上次中斷處繼續播放。調整播放速度，標記收藏，按播放次數排序影片以便快速存取。" icon="book-open">}}
 
-{{< card title="AirPlay 與 Chromecast" subtitle="透過串流到 Apple TV、Chromecast 或任何相容的外部顯示器，在更大的螢幕上播放影片。" icon="device-mobile">}}
+{{< feature-card title="AirPlay 與 Chromecast" subtitle="透過串流到 Apple TV、Chromecast 或任何相容的外部顯示器，在更大的螢幕上播放影片。" icon="device-mobile">}}
 
-{{< card title="從 Files 與資料庫匯入" subtitle="直接從 Files 應用程式、Photos 或您的 iTunes 資料庫匯入影片。在一個有組織的媒體庫中存取您所有的本機和雲端內容。" icon="database">}}
+{{< feature-card title="從 Files 與資料庫匯入" subtitle="直接從 Files 應用程式、Photos 或您的 iTunes 資料庫匯入影片。在一個有組織的媒體庫中存取您所有的本機和雲端內容。" icon="database">}}
 
-{{< card title="檔案管理員" subtitle="直接在應用程式內移動、重新命名、刪除和整理檔案。" icon="folder">}}
+{{< feature-card title="檔案管理員" subtitle="直接在應用程式內移動、重新命名、刪除和整理檔案。" icon="folder">}}
 
-{{< card title="個人化" subtitle="根據您的偏好自訂應用程式。選擇佈景主題，顯示或隱藏功能，並根據需要調整介面。" icon="sun">}}
+{{< feature-card title="個人化" subtitle="根據您的偏好自訂應用程式。選擇佈景主題，顯示或隱藏功能，並根據需要調整介面。" icon="sun">}}
 
-{{< card title="智慧搜尋" subtitle="使用關鍵字或篩選器快速尋找媒體庫中的影片、專輯或播放清單。" icon="search" >}}
+{{< feature-card title="智慧搜尋" subtitle="使用關鍵字或篩選器快速尋找媒體庫中的影片、專輯或播放清單。" icon="search" >}}
 
 
 
@@ -192,7 +192,7 @@ Evervideo
 
 {{< cards cols="4">}}
 
-  {{< card 
+  {{< feature-card 
     image="/products/evervideo/screenshots/2880x1800/1.png" 
     title="影片播放器" 
     method="Fill"
@@ -201,7 +201,7 @@ Evervideo
     icon="play"
   >}}
 
-  {{< card 
+  {{< feature-card 
     image="/products/evervideo/screenshots/2880x1800/3.png" 
     title="音訊與影片等化器" 
     method="Fill"
@@ -210,7 +210,7 @@ Evervideo
     icon="adjustments"
   >}}
 
-  {{< card 
+  {{< feature-card 
     image="/products/evervideo/screenshots/2880x1800/6.png" 
     title="播放清單管理員" 
     method="Fill"
@@ -219,7 +219,7 @@ Evervideo
     icon="collection"
   >}}
 
-  {{< card 
+  {{< feature-card 
     image="/products/evervideo/screenshots/2880x1800/5.png" 
     title="媒體庫" 
     method="Fill"
@@ -228,7 +228,7 @@ Evervideo
     icon="library"
   >}}
 
-  {{< card 
+  {{< feature-card 
     image="/products/evervideo/screenshots/2880x1800/7.png"  
     title="雲端儲存" 
     method="Fill"
@@ -237,7 +237,7 @@ Evervideo
     icon="cloud"
   >}}
 
-  {{< card 
+  {{< feature-card 
     image="/products/evervideo/screenshots/2880x1800/9.png"  
     title="檔案管理員" 
     method="Fill"
@@ -656,17 +656,17 @@ iTunes 檔案共享是另一種技術，允許您使用 iTunes 和 Lightning 連
 </div>
 
 {{< cards >}}
-  {{< card icon="location-marker" title="導覽" subtitle="學習如何透過 iPhone 上的標籤列或 iPad 和 Mac 上的左側選單,以及螢幕上常駐的精巧影片播放器,在 Evervideo 中瀏覽。" link="/docs/guide/evervideo/evervideo-guide-navigation" >}}
+  {{< feature-card icon="location-marker" title="導覽" subtitle="學習如何透過 iPhone 上的標籤列或 iPad 和 Mac 上的左側選單,以及螢幕上常駐的精巧影片播放器,在 Evervideo 中瀏覽。" link="/docs/guide/evervideo/evervideo-guide-navigation" >}}
 
-  {{< card icon="folder" title="檔案" subtitle="在單一整合分頁中連接雲端帳戶、NAS 共用、媒體伺服器(Plex、Jellyfin、Emby、Subsonic、Navidrome)、RTSP 串流與本機檔案。" link="/docs/guide/evervideo/evervideo-guide-files" >}}
+  {{< feature-card icon="folder" title="檔案" subtitle="在單一整合分頁中連接雲端帳戶、NAS 共用、媒體伺服器(Plex、Jellyfin、Emby、Subsonic、Navidrome)、RTSP 串流與本機檔案。" link="/docs/guide/evervideo/evervideo-guide-files" >}}
 
-  {{< card icon="library" title="媒體庫" subtitle="依專輯、類型、最近播放和最愛整理並瀏覽你的影片和音樂,並同時支援 iOS 照片圖庫和 Apple Music 音樂庫。" link="/docs/guide/evervideo/evervideo-guide-video-library" >}}
+  {{< feature-card icon="library" title="媒體庫" subtitle="依專輯、類型、最近播放和最愛整理並瀏覽你的影片和音樂,並同時支援 iOS 照片圖庫和 Apple Music 音樂庫。" link="/docs/guide/evervideo/evervideo-guide-video-library" >}}
 
-  {{< card icon="collection" title="播放清單" subtitle="為影片、音樂、影集或課程建立並整理播放清單,並匯入 M3U / M3U8 / CUE 檔案。" link="/docs/guide/evervideo/evervideo-guide-playlists" >}}
+  {{< feature-card icon="collection" title="播放清單" subtitle="為影片、音樂、影集或課程建立並整理播放清單,並匯入 M3U / M3U8 / CUE 檔案。" link="/docs/guide/evervideo/evervideo-guide-playlists" >}}
 
-  {{< card icon="play" title="媒體播放器" subtitle="控制播放、佇列、子母畫面、音訊與影片軌、主要與次要字幕以及音訊 + 影片等化器。" link="/docs/guide/evervideo/evervideo-guide-player" >}}
+  {{< feature-card icon="play" title="媒體播放器" subtitle="控制播放、佇列、子母畫面、音訊與影片軌、主要與次要字幕以及音訊 + 影片等化器。" link="/docs/guide/evervideo/evervideo-guide-player" >}}
 
-  {{< card icon="adjustments" title="設定" subtitle="自訂 Evervideo 的外觀、解碼器、等化器、字幕、小工具、語言、密碼、備份與效能設定。" link="/docs/guide/evervideo/evervideo-guide-settings" >}}
+  {{< feature-card icon="adjustments" title="設定" subtitle="自訂 Evervideo 的外觀、解碼器、等化器、字幕、小工具、語言、密碼、備份與效能設定。" link="/docs/guide/evervideo/evervideo-guide-settings" >}}
 
 {{< /cards >}}
 

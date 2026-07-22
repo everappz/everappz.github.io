@@ -127,29 +127,29 @@ Ciri-ciri Lengkap
 
 {{< cards >}}
 
-  {{< card title="Sokongan Audio Lossless" subtitle="Main FLAC, ALAC, WAV, APE, DFF, WV, AIFF dan banyak format berkualiti tinggi lain." icon="music-note" >}}
-  {{< card title="Mod Luar Talian" subtitle="Muat turun album, senarai main dan trek untuk main balik luar talian pada bila-bila masa." icon="download" >}}
-  {{< card title="Pengurusan Fail" subtitle="Salin, alih, namakan semula dan padam fail dengan mudah dalam aplikasi." icon="folder" >}}
+  {{< feature-card title="Sokongan Audio Lossless" subtitle="Main FLAC, ALAC, WAV, APE, DFF, WV, AIFF dan banyak format berkualiti tinggi lain." icon="music-note" >}}
+  {{< feature-card title="Mod Luar Talian" subtitle="Muat turun album, senarai main dan trek untuk main balik luar talian pada bila-bila masa." icon="download" >}}
+  {{< feature-card title="Pengurusan Fail" subtitle="Salin, alih, namakan semula dan padam fail dengan mudah dalam aplikasi." icon="folder" >}}
 
-  {{< card title="Senarai Main Tersuai" subtitle="Cipta, sunting, susun semula senarai main dan eksport atau import fail M3U." icon="collection" >}}
-  {{< card title="Perpustakaan Media" subtitle="Tambah muzik dan susun mengikut album, artis dan genre menggunakan tag." icon="library" >}}
-  {{< card title="Carian Lanjutan" subtitle="Cari lagu, artis atau album dengan cepat menggunakan alat carian pintar." icon="search" >}}
+  {{< feature-card title="Senarai Main Tersuai" subtitle="Cipta, sunting, susun semula senarai main dan eksport atau import fail M3U." icon="collection" >}}
+  {{< feature-card title="Perpustakaan Media" subtitle="Tambah muzik dan susun mengikut album, artis dan genre menggunakan tag." icon="library" >}}
+  {{< feature-card title="Carian Lanjutan" subtitle="Cari lagu, artis atau album dengan cepat menggunakan alat carian pintar." icon="search" >}}
 
-  {{< card title="Penstriman Awan" subtitle="Strim dari Google Drive, Dropbox, OneDrive, iCloud, MEGA dan lagi." icon="cloud" >}}
-  {{< card title="Akses NAS & Komputer" subtitle="Sambung melalui SMB, DLNA atau WebDAV. Pindah dengan iTunes atau Wi-Fi." icon="desktop-computer" >}}
-  {{< card title="Kad Kilat USB" subtitle="Main muzik terus dari kad SD menggunakan penyesuai USB seperti iXpand." icon="inbox" >}}
+  {{< feature-card title="Penstriman Awan" subtitle="Strim dari Google Drive, Dropbox, OneDrive, iCloud, MEGA dan lagi." icon="cloud" >}}
+  {{< feature-card title="Akses NAS & Komputer" subtitle="Sambung melalui SMB, DLNA atau WebDAV. Pindah dengan iTunes atau Wi-Fi." icon="desktop-computer" >}}
+  {{< feature-card title="Kad Kilat USB" subtitle="Main muzik terus dari kad SD menggunakan penyesuai USB seperti iXpand." icon="inbox" >}}
 
-  {{< card title="Kawalan Main Balik" subtitle="Tukar kelajuan dan pic main balik untuk kawalan audio yang sempurna." icon="fast-forward" >}}
-  {{< card title="Lirik & Ulasan" subtitle="Lihat lirik dan ulasan terbenam semasa memainkan lagu." icon="annotation" >}}
-  {{< card title="Penyunting Tag ID3" subtitle="Sunting dan betulkan metadata seperti tajuk, artis atau album dengan alat terbina dalam." icon="pencil-alt" >}}
+  {{< feature-card title="Kawalan Main Balik" subtitle="Tukar kelajuan dan pic main balik untuk kawalan audio yang sempurna." icon="fast-forward" >}}
+  {{< feature-card title="Lirik & Ulasan" subtitle="Lihat lirik dan ulasan terbenam semasa memainkan lagu." icon="annotation" >}}
+  {{< feature-card title="Penyunting Tag ID3" subtitle="Sunting dan betulkan metadata seperti tajuk, artis atau album dengan alat terbina dalam." icon="pencil-alt" >}}
 
-  {{< card title="Penyama & Peningkatan" subtitle="Gunakan pratetap atau laras secara manual dengan gandaan praamplifier untuk bunyi yang kaya." icon="adjustments" >}}
-  {{< card title="Apple CarPlay" subtitle="Pandu dengan selamat dengan UI CarPlay khusus untuk main balik muzik." icon="truck" >}}
-  {{< card title="AirPlay & Chromecast" subtitle="Strim ke Apple TV dan peranti Google Chromecast secara wayarles." icon="device-mobile" >}}
+  {{< feature-card title="Penyama & Peningkatan" subtitle="Gunakan pratetap atau laras secara manual dengan gandaan praamplifier untuk bunyi yang kaya." icon="adjustments" >}}
+  {{< feature-card title="Apple CarPlay" subtitle="Pandu dengan selamat dengan UI CarPlay khusus untuk main balik muzik." icon="truck" >}}
+  {{< feature-card title="AirPlay & Chromecast" subtitle="Strim ke Apple TV dan peranti Google Chromecast secara wayarles." icon="device-mobile" >}}
 
-  {{< card title="Integrasi Last.fm" subtitle="Jejak statistik muzik dan dapatkan cadangan lagu yang diperibadikan." icon="chart-bar" >}}
-  {{< card title="Penyegerakan Automatik" subtitle="Segerak perpustakaan muzik anda secara automatik dengan folder awan dan tempatan." icon="refresh" >}}
-  {{< card title="Sokongan Buku Audio" subtitle="Dengar buku audio dengan penanda buku, pemasa tidur dan sambung main balik dari tempat anda berhenti." icon="book-open" >}}
+  {{< feature-card title="Integrasi Last.fm" subtitle="Jejak statistik muzik dan dapatkan cadangan lagu yang diperibadikan." icon="chart-bar" >}}
+  {{< feature-card title="Penyegerakan Automatik" subtitle="Segerak perpustakaan muzik anda secara automatik dengan folder awan dan tempatan." icon="refresh" >}}
+  {{< feature-card title="Sokongan Buku Audio" subtitle="Dengar buku audio dengan penanda buku, pemasa tidur dan sambung main balik dari tempat anda berhenti." icon="book-open" >}}
 
 {{< /cards >}}
 
@@ -167,7 +167,7 @@ Reka Bentuk Intuitif
 
 {{< cards cols="4">}}
 
-  {{< card 
+  {{< feature-card 
     image="/products/flacbox/screenshots/2048x2732/1.png" 
     title="Pemain Audio" 
     method="Fill"
@@ -176,7 +176,7 @@ Reka Bentuk Intuitif
     icon="play"
   >}}
 
-  {{< card 
+  {{< feature-card 
     image="/products/flacbox/screenshots/2048x2732/2.png"  
     title="Penyama Audio" 
     method="Fill"
@@ -185,7 +185,7 @@ Reka Bentuk Intuitif
     icon="adjustments"
   >}}
 
-  {{< card 
+  {{< feature-card 
     image="/products/flacbox/screenshots/2048x2732/3.png"  
     title="Pengurus Senarai Main" 
     method="Fill"
@@ -194,7 +194,7 @@ Reka Bentuk Intuitif
     icon="collection"
   >}}
 
-  {{< card 
+  {{< feature-card 
     image="/products/flacbox/screenshots/2048x2732/5.png"  
     title="Perpustakaan Media" 
     method="Fill"
@@ -203,7 +203,7 @@ Reka Bentuk Intuitif
     icon="library"
   >}}
 
-  {{< card 
+  {{< feature-card 
     image="/products/flacbox/screenshots/2048x2732/7.png"  
     title="Storan Awan" 
     method="Fill"
@@ -212,7 +212,7 @@ Reka Bentuk Intuitif
     icon="cloud"
   >}}
 
-  {{< card 
+  {{< feature-card 
     image="/products/flacbox/screenshots/2048x2732/8.png"  
     title="iCloud Drive" 
     method="Fill"
@@ -827,19 +827,19 @@ Untuk menggunakan CarPlay, pastikan Siri diaktifkan dan iPhone anda disambungkan
 
 {{< cards >}}
 
-{{< card icon="map" link="/docs/guide/flacbox/flacbox-guide-navigation" title="Navigasi" subtitle="Gunakan Bar Tab pada iPhone atau Menu Kiri pada iPad & Mac." >}}
+{{< feature-card icon="map" link="/docs/guide/flacbox/flacbox-guide-navigation" title="Navigasi" subtitle="Gunakan Bar Tab pada iPhone atau Menu Kiri pada iPad & Mac." >}}
 
-{{< card icon="cloud" link="/docs/guide/flacbox/flacbox-guide-connections" title="Sambungan" subtitle="Sambungkan Dropbox, Google Drive, iCloud atau NAS anda." >}}
+{{< feature-card icon="cloud" link="/docs/guide/flacbox/flacbox-guide-connections" title="Sambungan" subtitle="Sambungkan Dropbox, Google Drive, iCloud atau NAS anda." >}}
 
-{{< card icon="collection" link="/docs/guide/flacbox/flacbox-guide-music-library" title="Perpustakaan Muzik" subtitle="Urus dan cari trek mengikut artis, album atau genre." >}}
+{{< feature-card icon="collection" link="/docs/guide/flacbox/flacbox-guide-music-library" title="Perpustakaan Muzik" subtitle="Urus dan cari trek mengikut artis, album atau genre." >}}
 
-{{< card icon="music-note" link="/docs/guide/flacbox/flacbox-guide-playlists" title="Senarai Main" subtitle="Cipta dan susun senarai main untuk sebarang suasana atau acara." >}}
+{{< feature-card icon="music-note" link="/docs/guide/flacbox/flacbox-guide-playlists" title="Senarai Main" subtitle="Cipta dan susun senarai main untuk sebarang suasana atau acara." >}}
 
-{{< card icon="folder" link="/docs/guide/flacbox/flacbox-guide-local-files" title="Fail Tempatan" subtitle="Sunting dan mainkan muzik luar talian dengan pengurus fail terbina dalam." >}}
+{{< feature-card icon="folder" link="/docs/guide/flacbox/flacbox-guide-local-files" title="Fail Tempatan" subtitle="Sunting dan mainkan muzik luar talian dengan pengurus fail terbina dalam." >}}
 
-{{< card icon="play" link="/docs/guide/flacbox/flacbox-guide-player" title="Pemain Audio" subtitle="Kawal main balik, laras kelajuan, tetapkan penanda buku dan lagi." >}}
+{{< feature-card icon="play" link="/docs/guide/flacbox/flacbox-guide-player" title="Pemain Audio" subtitle="Kawal main balik, laras kelajuan, tetapkan penanda buku dan lagi." >}}
 
-{{< card icon="adjustments" link="/docs/guide/flacbox/flacbox-guide-settings" title="Tetapan" subtitle="Sesuaikan penyama, penampilan dan tingkah laku aplikasi." >}}
+{{< feature-card icon="adjustments" link="/docs/guide/flacbox/flacbox-guide-settings" title="Tetapan" subtitle="Sesuaikan penyama, penampilan dan tingkah laku aplikasi." >}}
 
 {{< /cards >}}
 

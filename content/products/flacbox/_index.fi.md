@@ -127,29 +127,29 @@ Kattavat ominaisuudet
 
 {{< cards >}}
 
-  {{< card title="Häviöttömän äänen tuki" subtitle="Toista FLAC-, ALAC-, WAV-, APE-, DFF-, WV-, AIFF-tiedostoja ja monia muita korkealaatuisia muotoja." icon="music-note" >}}
-  {{< card title="Offline-tila" subtitle="Lataa albumeita, soittolistoja ja kappaleita offline-toistoon milloin tahansa." icon="download" >}}
-  {{< card title="Tiedostonhallinta" subtitle="Kopioi, siirrä, nimeä uudelleen ja poista tiedostoja helposti sovelluksessa." icon="folder" >}}
+  {{< feature-card title="Häviöttömän äänen tuki" subtitle="Toista FLAC-, ALAC-, WAV-, APE-, DFF-, WV-, AIFF-tiedostoja ja monia muita korkealaatuisia muotoja." icon="music-note" >}}
+  {{< feature-card title="Offline-tila" subtitle="Lataa albumeita, soittolistoja ja kappaleita offline-toistoon milloin tahansa." icon="download" >}}
+  {{< feature-card title="Tiedostonhallinta" subtitle="Kopioi, siirrä, nimeä uudelleen ja poista tiedostoja helposti sovelluksessa." icon="folder" >}}
 
-  {{< card title="Mukautetut soittolistat" subtitle="Luo, muokkaa, järjestä soittolistoja ja vie tai tuo M3U-tiedostoja." icon="collection" >}}
-  {{< card title="Musiikkikirjasto" subtitle="Lisää musiikkia ja järjestä se albumin, artistin ja genren mukaan tageilla." icon="library" >}}
-  {{< card title="Edistynyt haku" subtitle="Löydä nopeasti kappaleita, artisteja tai albumeita älykkäillä hakutyökaluilla." icon="search" >}}
+  {{< feature-card title="Mukautetut soittolistat" subtitle="Luo, muokkaa, järjestä soittolistoja ja vie tai tuo M3U-tiedostoja." icon="collection" >}}
+  {{< feature-card title="Musiikkikirjasto" subtitle="Lisää musiikkia ja järjestä se albumin, artistin ja genren mukaan tageilla." icon="library" >}}
+  {{< feature-card title="Edistynyt haku" subtitle="Löydä nopeasti kappaleita, artisteja tai albumeita älykkäillä hakutyökaluilla." icon="search" >}}
 
-  {{< card title="Pilvisuoratoisto" subtitle="Suoratoista Google Drivesta, Dropboxista, OneDrivesta, iCloudista, MEGAsta ja muista." icon="cloud" >}}
-  {{< card title="NAS- ja tietokoneyhteys" subtitle="Yhdistä SMB:n, DLNA:n tai WebDAV:n kautta. Siirrä iTunesin tai Wi-Fi:n avulla." icon="desktop-computer" >}}
-  {{< card title="USB-muistikortit" subtitle="Toista musiikkia suoraan SD-korteilta USB-sovittimilla kuten iXpand." icon="inbox" >}}
+  {{< feature-card title="Pilvisuoratoisto" subtitle="Suoratoista Google Drivesta, Dropboxista, OneDrivesta, iCloudista, MEGAsta ja muista." icon="cloud" >}}
+  {{< feature-card title="NAS- ja tietokoneyhteys" subtitle="Yhdistä SMB:n, DLNA:n tai WebDAV:n kautta. Siirrä iTunesin tai Wi-Fi:n avulla." icon="desktop-computer" >}}
+  {{< feature-card title="USB-muistikortit" subtitle="Toista musiikkia suoraan SD-korteilta USB-sovittimilla kuten iXpand." icon="inbox" >}}
 
-  {{< card title="Toiston hallinta" subtitle="Muuta toistonopeutta ja sävelkorkeutta täydelliseen äänen hallintaan." icon="fast-forward" >}}
-  {{< card title="Sanoitukset ja kommentit" subtitle="Näytä upotettuja sanoituksia ja kommentteja kappaleiden toiston aikana." icon="annotation" >}}
-  {{< card title="ID3-tagieditori" subtitle="Muokkaa ja korjaa metatietoja kuten otsikkoa, artistia tai albumia sisäänrakennetulla työkalulla." icon="pencil-alt" >}}
+  {{< feature-card title="Toiston hallinta" subtitle="Muuta toistonopeutta ja sävelkorkeutta täydelliseen äänen hallintaan." icon="fast-forward" >}}
+  {{< feature-card title="Sanoitukset ja kommentit" subtitle="Näytä upotettuja sanoituksia ja kommentteja kappaleiden toiston aikana." icon="annotation" >}}
+  {{< feature-card title="ID3-tagieditori" subtitle="Muokkaa ja korjaa metatietoja kuten otsikkoa, artistia tai albumia sisäänrakennetulla työkalulla." icon="pencil-alt" >}}
 
-  {{< card title="Taajuuskorjain ja korostus" subtitle="Käytä esiasetuksia tai säädä manuaalisesti esivahvistimen vahvistuksella rikkaaseen ääneen." icon="adjustments" >}}
-  {{< card title="Apple CarPlay" subtitle="Aja turvallisesti omistetulla CarPlay-käyttöliittymällä musiikin toistoon." icon="truck" >}}
-  {{< card title="AirPlay ja Chromecast" subtitle="Suoratoista langattomasti Apple TV- ja Google Chromecast -laitteille." icon="device-mobile" >}}
+  {{< feature-card title="Taajuuskorjain ja korostus" subtitle="Käytä esiasetuksia tai säädä manuaalisesti esivahvistimen vahvistuksella rikkaaseen ääneen." icon="adjustments" >}}
+  {{< feature-card title="Apple CarPlay" subtitle="Aja turvallisesti omistetulla CarPlay-käyttöliittymällä musiikin toistoon." icon="truck" >}}
+  {{< feature-card title="AirPlay ja Chromecast" subtitle="Suoratoista langattomasti Apple TV- ja Google Chromecast -laitteille." icon="device-mobile" >}}
 
-  {{< card title="Last.fm-integraatio" subtitle="Seuraa musiikkitilastoja ja saa henkilökohtaisia kappalesuosituksia." icon="chart-bar" >}}
-  {{< card title="Automaattinen synkronointi" subtitle="Synkronoi musiikkikirjastosi automaattisesti pilvi- ja paikallisten kansioiden kanssa." icon="refresh" >}}
-  {{< card title="Äänikirjatuki" subtitle="Kuuntele äänikirjoja kirjanmerkeillä, uniajastimella ja jatka toistoa siitä mihin jäit." icon="book-open" >}}
+  {{< feature-card title="Last.fm-integraatio" subtitle="Seuraa musiikkitilastoja ja saa henkilökohtaisia kappalesuosituksia." icon="chart-bar" >}}
+  {{< feature-card title="Automaattinen synkronointi" subtitle="Synkronoi musiikkikirjastosi automaattisesti pilvi- ja paikallisten kansioiden kanssa." icon="refresh" >}}
+  {{< feature-card title="Äänikirjatuki" subtitle="Kuuntele äänikirjoja kirjanmerkeillä, uniajastimella ja jatka toistoa siitä mihin jäit." icon="book-open" >}}
 
 {{< /cards >}}
 
@@ -167,7 +167,7 @@ Intuitiivinen muotoilu
 
 {{< cards cols="4">}}
 
-  {{< card 
+  {{< feature-card 
     image="/products/flacbox/screenshots/2048x2732/1.png" 
     title="Äänisoitin" 
     method="Fill"
@@ -176,7 +176,7 @@ Intuitiivinen muotoilu
     icon="play"
   >}}
 
-  {{< card 
+  {{< feature-card 
     image="/products/flacbox/screenshots/2048x2732/2.png"  
     title="Äänitaajuuskorjain" 
     method="Fill"
@@ -185,7 +185,7 @@ Intuitiivinen muotoilu
     icon="adjustments"
   >}}
 
-  {{< card 
+  {{< feature-card 
     image="/products/flacbox/screenshots/2048x2732/3.png"  
     title="Soittolistojen hallinta" 
     method="Fill"
@@ -194,7 +194,7 @@ Intuitiivinen muotoilu
     icon="collection"
   >}}
 
-  {{< card 
+  {{< feature-card 
     image="/products/flacbox/screenshots/2048x2732/5.png"  
     title="Musiikkikirjasto" 
     method="Fill"
@@ -203,7 +203,7 @@ Intuitiivinen muotoilu
     icon="library"
   >}}
 
-  {{< card 
+  {{< feature-card 
     image="/products/flacbox/screenshots/2048x2732/7.png"  
     title="Pilvitallennustila" 
     method="Fill"
@@ -212,7 +212,7 @@ Intuitiivinen muotoilu
     icon="cloud"
   >}}
 
-  {{< card 
+  {{< feature-card 
     image="/products/flacbox/screenshots/2048x2732/8.png"  
     title="iCloud Drive" 
     method="Fill"
@@ -835,19 +835,19 @@ CarPlayn käyttämiseksi varmista, että Siri on käytössä ja iPhonesi on yhdi
 
 {{< cards >}}
 
-{{< card icon="map" link="/docs/guide/flacbox/flacbox-guide-navigation" title="Navigointi" subtitle="Käytä välilehtipalkkia iPhonessa tai vasenta valikkoa iPadissa ja Macissa." >}}
+{{< feature-card icon="map" link="/docs/guide/flacbox/flacbox-guide-navigation" title="Navigointi" subtitle="Käytä välilehtipalkkia iPhonessa tai vasenta valikkoa iPadissa ja Macissa." >}}
 
-{{< card icon="cloud" link="/docs/guide/flacbox/flacbox-guide-connections" title="Yhteydet" subtitle="Yhdistä Dropbox, Google Drive, iCloud tai NAS:si." >}}
+{{< feature-card icon="cloud" link="/docs/guide/flacbox/flacbox-guide-connections" title="Yhteydet" subtitle="Yhdistä Dropbox, Google Drive, iCloud tai NAS:si." >}}
 
-{{< card icon="collection" link="/docs/guide/flacbox/flacbox-guide-music-library" title="Musiikkikirjasto" subtitle="Hallitse ja etsi kappaleita artistin, albumin tai genren mukaan." >}}
+{{< feature-card icon="collection" link="/docs/guide/flacbox/flacbox-guide-music-library" title="Musiikkikirjasto" subtitle="Hallitse ja etsi kappaleita artistin, albumin tai genren mukaan." >}}
 
-{{< card icon="music-note" link="/docs/guide/flacbox/flacbox-guide-playlists" title="Soittolistat" subtitle="Luo ja järjestä soittolistoja mihin tahansa tunnelmaan tai tilaisuuteen." >}}
+{{< feature-card icon="music-note" link="/docs/guide/flacbox/flacbox-guide-playlists" title="Soittolistat" subtitle="Luo ja järjestä soittolistoja mihin tahansa tunnelmaan tai tilaisuuteen." >}}
 
-{{< card icon="folder" link="/docs/guide/flacbox/flacbox-guide-local-files" title="Paikalliset tiedostot" subtitle="Muokkaa ja toista offline-musiikkia sisäänrakennetulla tiedostonhallinnalla." >}}
+{{< feature-card icon="folder" link="/docs/guide/flacbox/flacbox-guide-local-files" title="Paikalliset tiedostot" subtitle="Muokkaa ja toista offline-musiikkia sisäänrakennetulla tiedostonhallinnalla." >}}
 
-{{< card icon="play" link="/docs/guide/flacbox/flacbox-guide-player" title="Äänisoitin" subtitle="Hallitse toistoa, säädä nopeutta, aseta kirjanmerkkejä ja muuta." >}}
+{{< feature-card icon="play" link="/docs/guide/flacbox/flacbox-guide-player" title="Äänisoitin" subtitle="Hallitse toistoa, säädä nopeutta, aseta kirjanmerkkejä ja muuta." >}}
 
-{{< card icon="adjustments" link="/docs/guide/flacbox/flacbox-guide-settings" title="Asetukset" subtitle="Mukauta taajuuskorjainta, ulkoasua ja sovelluksen toimintaa." >}}
+{{< feature-card icon="adjustments" link="/docs/guide/flacbox/flacbox-guide-settings" title="Asetukset" subtitle="Mukauta taajuuskorjainta, ulkoasua ja sovelluksen toimintaa." >}}
 
 {{< /cards >}}
 

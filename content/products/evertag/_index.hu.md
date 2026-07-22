@@ -491,17 +491,17 @@ Ez a mód különösen hasznos, ha ugyanazt az albumcímet, előadót, műfajt v
 </div>
 
 {{< cards >}}
-  {{< card icon="location-marker" title="Navigáció" subtitle="Ismerje meg, hogyan navigálhat könnyedén alkalmazásunkban a Tab Bar (iPhone felhasználók számára) vagy a Left Menu (iPad és Mac felhasználók számára) segítségével az alkalmazás összes funkciójának eléréséhez és felfedezéséhez." link="/docs/guide/evertag/evertag-guide-navigation" >}}
+  {{< feature-card icon="location-marker" title="Navigáció" subtitle="Ismerje meg, hogyan navigálhat könnyedén alkalmazásunkban a Tab Bar (iPhone felhasználók számára) vagy a Left Menu (iPad és Mac felhasználók számára) segítségével az alkalmazás összes funkciójának eléréséhez és felfedezéséhez." link="/docs/guide/evertag/evertag-guide-navigation" >}}
 
-  {{< card icon="cloud" title="Kapcsolatok" subtitle="Könnyedén összekapcsolhatja az összes elérhető felhőfiókját értékes audió fájljaival. Online fájljait is könnyedén szerkesztheti integrált fájlkezelőnk segítségével." link="/docs/guide/evertag/evertag-guide-connections" >}}
+  {{< feature-card icon="cloud" title="Kapcsolatok" subtitle="Könnyedén összekapcsolhatja az összes elérhető felhőfiókját értékes audió fájljaival. Online fájljait is könnyedén szerkesztheti integrált fájlkezelőnk segítségével." link="/docs/guide/evertag/evertag-guide-connections" >}}
 
-  {{< card icon="folder" title="Helyi fájlok" subtitle="Tekintse meg és rendezze az alkalmazás Documents mappájában vagy eszközén tárolt fájlokat. Használja a beépített fájlkezelőt audió fájljai egyszerű szerkesztéséhez és kezeléséhez." link="/docs/guide/evertag/evertag-guide-local-files" >}}
+  {{< feature-card icon="folder" title="Helyi fájlok" subtitle="Tekintse meg és rendezze az alkalmazás Documents mappájában vagy eszközén tárolt fájlokat. Használja a beépített fájlkezelőt audió fájljai egyszerű szerkesztéséhez és kezeléséhez." link="/docs/guide/evertag/evertag-guide-local-files" >}}
 
-  {{< card icon="pencil-alt" title="Címkeszerkesztő" subtitle="Sajátítsa el az audió fájlok metaadat-kezelésének művészetét. Tudja meg, hogyan szerkesztheti a metaadatokat, módosíthatja a borítóképeket és hogyan kezelheti egyszerre több fájlt zökkenőmentesen." link="/docs/guide/evertag/evertag-guide-tag-editor" >}}
+  {{< feature-card icon="pencil-alt" title="Címkeszerkesztő" subtitle="Sajátítsa el az audió fájlok metaadat-kezelésének művészetét. Tudja meg, hogyan szerkesztheti a metaadatokat, módosíthatja a borítóképeket és hogyan kezelheti egyszerre több fájlt zökkenőmentesen." link="/docs/guide/evertag/evertag-guide-tag-editor" >}}
 
-  {{< card icon="code" title="Címkemező-leképezések" subtitle="Fedezze fel az Evertag alkalmazás által támogatott audió címkemezők teljes listáját, beleértve a belső mezőneveket és a főbb metaadat-formátumok közötti leképezéseket." link="/docs/guide/evertag/evertag-tag-field-mappings" >}}
+  {{< feature-card icon="code" title="Címkemező-leképezések" subtitle="Fedezze fel az Evertag alkalmazás által támogatott audió címkemezők teljes listáját, beleértve a belső mezőneveket és a főbb metaadat-formátumok közötti leképezéseket." link="/docs/guide/evertag/evertag-tag-field-mappings" >}}
 
-  {{< card icon="adjustments" title="Beállítások" subtitle="Fedezze fel, hogyan szabhatja testre alkalmazás-élményét, finomhangolhatja a teljesítményt, kezelheti az adathasználatot, és hogyan igazíthatja a nyelvi és felhasználói felület beállításait ízlése szerint." link="/docs/guide/evertag/evertag-guide-settings" >}}
+  {{< feature-card icon="adjustments" title="Beállítások" subtitle="Fedezze fel, hogyan szabhatja testre alkalmazás-élményét, finomhangolhatja a teljesítményt, kezelheti az adathasználatot, és hogyan igazíthatja a nyelvi és felhasználói felület beállításait ízlése szerint." link="/docs/guide/evertag/evertag-guide-settings" >}}
 
 {{< /cards >}}
 

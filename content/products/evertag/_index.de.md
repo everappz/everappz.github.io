@@ -491,17 +491,17 @@ Dieser Modus ist besonders nützlich, wenn Sie denselben Albumnamen, Künstler, 
 </div>
 
 {{< cards >}}
-  {{< card icon="location-marker" title="Navigation" subtitle="Erfahren Sie, wie Sie mühelos in unserer App navigieren können — über die Tab-Leiste (für iPhone-Benutzer) oder das linke Menü (für iPad- und Mac-Benutzer), um alle Funktionen der App zu erkunden." link="/docs/guide/evertag/evertag-guide-navigation" >}}
+  {{< feature-card icon="location-marker" title="Navigation" subtitle="Erfahren Sie, wie Sie mühelos in unserer App navigieren können — über die Tab-Leiste (für iPhone-Benutzer) oder das linke Menü (für iPad- und Mac-Benutzer), um alle Funktionen der App zu erkunden." link="/docs/guide/evertag/evertag-guide-navigation" >}}
 
-  {{< card icon="cloud" title="Verbindungen" subtitle="Verbinden Sie mühelos alle Ihre verfügbaren Cloud-Konten mit Ihren wertvollen Audiodateien. Sie können sogar Ihre Online-Dateien bequem mit unserem integrierten Dateimanager bearbeiten." link="/docs/guide/evertag/evertag-guide-connections" >}}
+  {{< feature-card icon="cloud" title="Verbindungen" subtitle="Verbinden Sie mühelos alle Ihre verfügbaren Cloud-Konten mit Ihren wertvollen Audiodateien. Sie können sogar Ihre Online-Dateien bequem mit unserem integrierten Dateimanager bearbeiten." link="/docs/guide/evertag/evertag-guide-connections" >}}
 
-  {{< card icon="folder" title="Lokale Dateien" subtitle="Anzeigen und Organisieren von Dateien im Documents-Ordner der App oder auf Ihrem Gerät. Verwenden Sie den integrierten Dateimanager, um Ihre Audiodateien mühelos zu bearbeiten und zu verwalten." link="/docs/guide/evertag/evertag-guide-local-files" >}}
+  {{< feature-card icon="folder" title="Lokale Dateien" subtitle="Anzeigen und Organisieren von Dateien im Documents-Ordner der App oder auf Ihrem Gerät. Verwenden Sie den integrierten Dateimanager, um Ihre Audiodateien mühelos zu bearbeiten und zu verwalten." link="/docs/guide/evertag/evertag-guide-local-files" >}}
 
-  {{< card icon="pencil-alt" title="Tag-Editor" subtitle="Meistern Sie die Kunst der Audiodatei-Metadaten-Bearbeitung. Erfahren Sie, wie Sie Metadaten bearbeiten, Albumcover ändern und mehrere Dateien gleichzeitig nahtlos verwalten." link="/docs/guide/evertag/evertag-guide-tag-editor" >}}
+  {{< feature-card icon="pencil-alt" title="Tag-Editor" subtitle="Meistern Sie die Kunst der Audiodatei-Metadaten-Bearbeitung. Erfahren Sie, wie Sie Metadaten bearbeiten, Albumcover ändern und mehrere Dateien gleichzeitig nahtlos verwalten." link="/docs/guide/evertag/evertag-guide-tag-editor" >}}
 
-  {{< card icon="code" title="Tag-Feld-Zuordnungen" subtitle="Erkunden Sie die vollständige Liste der von der Evertag-App unterstützten Audio-Tag-Felder, einschließlich interner Feldnamen und Zuordnungen über wichtige Metadatenformate hinweg." link="/docs/guide/evertag/evertag-tag-field-mappings" >}}
+  {{< feature-card icon="code" title="Tag-Feld-Zuordnungen" subtitle="Erkunden Sie die vollständige Liste der von der Evertag-App unterstützten Audio-Tag-Felder, einschließlich interner Feldnamen und Zuordnungen über wichtige Metadatenformate hinweg." link="/docs/guide/evertag/evertag-tag-field-mappings" >}}
 
-  {{< card icon="adjustments" title="Einstellungen" subtitle="Entdecken Sie, wie Sie Ihr App-Erlebnis anpassen, die Leistung optimieren, die Datennutzung verwalten und Sprach- sowie Benutzeroberflächeneinstellungen nach Ihren Wünschen anpassen." link="/docs/guide/evertag/evertag-guide-settings" >}}
+  {{< feature-card icon="adjustments" title="Einstellungen" subtitle="Entdecken Sie, wie Sie Ihr App-Erlebnis anpassen, die Leistung optimieren, die Datennutzung verwalten und Sprach- sowie Benutzeroberflächeneinstellungen nach Ihren Wünschen anpassen." link="/docs/guide/evertag/evertag-guide-settings" >}}
 
 {{< /cards >}}
 

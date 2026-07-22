@@ -144,35 +144,35 @@ All Features
 
 {{< cards >}}
 
-{{< card title="Play All Video and Audio Formats" subtitle="Watch your media without converting files. Evervideo supports all major formats, including MKV, AVI, MP4, MOV, FLAC, MP3, AAC, OGG, WAV, WMV, and more." icon="film">}}
+{{< feature-card title="Play All Video and Audio Formats" subtitle="Watch your media without converting files. Evervideo supports all major formats, including MKV, AVI, MP4, MOV, FLAC, MP3, AAC, OGG, WAV, WMV, and more." icon="film">}}
 
-{{< card title="Offline Mode" subtitle="Download videos, albums, and playlists to watch without an internet connection. Take your entire video collection anywhere." icon="download">}}
+{{< feature-card title="Offline Mode" subtitle="Download videos, albums, and playlists to watch without an internet connection. Take your entire video collection anywhere." icon="download">}}
 
-{{< card title="360° Video & VR Mode" subtitle="Watch 360° and VR videos in a fun and easy way. Move your phone around to look in any direction, or put it into a VR headset to feel like you’re inside the video." icon="video-camera">}}
+{{< feature-card title="360° Video & VR Mode" subtitle="Watch 360° and VR videos in a fun and easy way. Move your phone around to look in any direction, or put it into a VR headset to feel like you’re inside the video." icon="video-camera">}}
 
-{{< card title="Picture-in-Picture" subtitle="Keep watching videos in a small floating window while using other apps. Control playback and see subtitles at the same time – perfect for multitasking." icon="duplicate">}}
+{{< feature-card title="Picture-in-Picture" subtitle="Keep watching videos in a small floating window while using other apps. Control playback and see subtitles at the same time – perfect for multitasking." icon="duplicate">}}
 
-{{< card title="Video & Audio Equalizer" subtitle="Customize the way your videos look and sound. Adjust bass, pitch, brightness, gamma, saturation, contrast, and more. Choose from 50+ video presets and 20+ audio presets, or create your own." icon="adjustments">}}
+{{< feature-card title="Video & Audio Equalizer" subtitle="Customize the way your videos look and sound. Adjust bass, pitch, brightness, gamma, saturation, contrast, and more. Choose from 50+ video presets and 20+ audio presets, or create your own." icon="adjustments">}}
 
-{{< card title="Subtitles" subtitle="View embedded subtitles, select subtitle track number, and enjoy full subtitle support even in Picture-in-Picture mode." icon="annotation" >}}
+{{< feature-card title="Subtitles" subtitle="View embedded subtitles, select subtitle track number, and enjoy full subtitle support even in Picture-in-Picture mode." icon="annotation" >}}
 
-{{< card title="Play Directly from Cloud" subtitle="Watch videos directly from your cloud storage without using device space. Supports iCloud Drive, Google Drive, Dropbox, OneDrive, MEGA, Synology Drive, pCloud, and more." icon="cloud">}}
+{{< feature-card title="Play Directly from Cloud" subtitle="Watch videos directly from your cloud storage without using device space. Supports iCloud Drive, Google Drive, Dropbox, OneDrive, MEGA, Synology Drive, pCloud, and more." icon="cloud">}}
 
-{{< card title="Connect Computer / NAS" subtitle="Easily connect your NAS, Mac, or PC over your home network using SMB, WebDAV, or DLNA. Remote access is supported for Synology Drive and WD MyCloud Home. Transfer media files to your device via Wi-Fi or iTunes File Sharing." icon="desktop-computer">}}
+{{< feature-card title="Connect Computer / NAS" subtitle="Easily connect your NAS, Mac, or PC over your home network using SMB, WebDAV, or DLNA. Remote access is supported for Synology Drive and WD MyCloud Home. Transfer media files to your device via Wi-Fi or iTunes File Sharing." icon="desktop-computer">}}
 
-{{< card title="Media Library" subtitle="Organize by album, genre, or duration. Automatically syncs with cloud changes. Create, edit, and export M3U playlists with custom sorting." icon="library" >}}
+{{< feature-card title="Media Library" subtitle="Organize by album, genre, or duration. Automatically syncs with cloud changes. Create, edit, and export M3U playlists with custom sorting." icon="library" >}}
 
-{{< card title="Bookmarks & Playback Position Saving" subtitle="Save your place in any video with bookmarks and resume playback from where you left off. Adjust playback speed, mark favorites, and sort videos by most played for easy access." icon="book-open">}}
+{{< feature-card title="Bookmarks & Playback Position Saving" subtitle="Save your place in any video with bookmarks and resume playback from where you left off. Adjust playback speed, mark favorites, and sort videos by most played for easy access." icon="book-open">}}
 
-{{< card title="AirPlay & Chromecast" subtitle="Play videos on a bigger screen by streaming to Apple TV, Chromecast, or any compatible external display." icon="device-mobile">}}
+{{< feature-card title="AirPlay & Chromecast" subtitle="Play videos on a bigger screen by streaming to Apple TV, Chromecast, or any compatible external display." icon="device-mobile">}}
 
-{{< card title="Import from Files & Libraries" subtitle="Import videos directly from the Files app, Photos, or your iTunes Library. Access all your local and cloud content in one organized media library." icon="database">}}
+{{< feature-card title="Import from Files & Libraries" subtitle="Import videos directly from the Files app, Photos, or your iTunes Library. Access all your local and cloud content in one organized media library." icon="database">}}
 
-{{< card title="File Manager" subtitle="Move, rename, delete, and organize files directly inside the app." icon="folder">}}
+{{< feature-card title="File Manager" subtitle="Move, rename, delete, and organize files directly inside the app." icon="folder">}}
 
-{{< card title="Personalization" subtitle="Customize the app to fit your preferences. Choose themes, show or hide features, and adjust the interface to your needs."  icon="sun">}}
+{{< feature-card title="Personalization" subtitle="Customize the app to fit your preferences. Choose themes, show or hide features, and adjust the interface to your needs."  icon="sun">}}
 
-{{< card title="Smart Search" subtitle="Quickly find videos, albums, or playlists in your media library using keywords or filters." icon="search" >}}
+{{< feature-card title="Smart Search" subtitle="Quickly find videos, albums, or playlists in your media library using keywords or filters." icon="search" >}}
 
 
 
@@ -192,7 +192,7 @@ Intuitive Design
 
 {{< cards cols="4">}}
 
-  {{< card 
+  {{< feature-card 
     image="/products/evervideo/screenshots/2880x1800/1.png" 
     title="Video Player" 
     method="Fill"
@@ -201,7 +201,7 @@ Intuitive Design
     icon="play"
   >}}
 
-  {{< card 
+  {{< feature-card 
     image="/products/evervideo/screenshots/2880x1800/3.png" 
     title="Audio & Video Equalizer" 
     method="Fill"
@@ -210,7 +210,7 @@ Intuitive Design
     icon="adjustments"
   >}}
 
-  {{< card 
+  {{< feature-card 
     image="/products/evervideo/screenshots/2880x1800/6.png" 
     title="Playlists Manager" 
     method="Fill"
@@ -219,7 +219,7 @@ Intuitive Design
     icon="collection"
   >}}
 
-  {{< card 
+  {{< feature-card 
     image="/products/evervideo/screenshots/2880x1800/5.png" 
     title="Media Library" 
     method="Fill"
@@ -228,7 +228,7 @@ Intuitive Design
     icon="library"
   >}}
 
-  {{< card 
+  {{< feature-card 
     image="/products/evervideo/screenshots/2880x1800/7.png"  
     title="Cloud Storage" 
     method="Fill"
@@ -237,7 +237,7 @@ Intuitive Design
     icon="cloud"
   >}}
 
-  {{< card 
+  {{< feature-card 
     image="/products/evervideo/screenshots/2880x1800/9.png"  
     title="File Manager" 
     method="Fill"
@@ -655,17 +655,17 @@ Note: Ensure JavaScript is enabled and you're using the latest browser version f
 </div>
 
 {{< cards >}}
-  {{< card icon="location-marker" title="Navigation" subtitle="Learn how to navigate Evervideo using the Tab Bar on iPhone or the Left Menu on iPad and Mac, plus the compact always-on-screen video player." link="/docs/guide/evervideo/evervideo-guide-navigation" >}}
+  {{< feature-card icon="location-marker" title="Navigation" subtitle="Learn how to navigate Evervideo using the Tab Bar on iPhone or the Left Menu on iPad and Mac, plus the compact always-on-screen video player." link="/docs/guide/evervideo/evervideo-guide-navigation" >}}
 
-  {{< card icon="folder" title="Files" subtitle="Connect cloud accounts, NAS shares, media servers (Plex, Jellyfin, Emby, Subsonic, Navidrome), RTSP streams, and local files in one unified tab." link="/docs/guide/evervideo/evervideo-guide-files" >}}
+  {{< feature-card icon="folder" title="Files" subtitle="Connect cloud accounts, NAS shares, media servers (Plex, Jellyfin, Emby, Subsonic, Navidrome), RTSP streams, and local files in one unified tab." link="/docs/guide/evervideo/evervideo-guide-files" >}}
 
-  {{< card icon="library" title="Media Library" subtitle="Organize and explore your videos and music by Albums, Genres, Recents, and Favorites - plus the iOS Photos library and Apple Music library." link="/docs/guide/evervideo/evervideo-guide-video-library" >}}
+  {{< feature-card icon="library" title="Media Library" subtitle="Organize and explore your videos and music by Albums, Genres, Recents, and Favorites - plus the iOS Photos library and Apple Music library." link="/docs/guide/evervideo/evervideo-guide-video-library" >}}
 
-  {{< card icon="collection" title="Playlists" subtitle="Create and arrange playlists for videos, music, series, or courses and import M3U / M3U8 / CUE files." link="/docs/guide/evervideo/evervideo-guide-playlists" >}}
+  {{< feature-card icon="collection" title="Playlists" subtitle="Create and arrange playlists for videos, music, series, or courses and import M3U / M3U8 / CUE files." link="/docs/guide/evervideo/evervideo-guide-playlists" >}}
 
-  {{< card icon="play" title="Media Player" subtitle="Control playback, queue, Picture-in-Picture, audio and video tracks, primary and secondary subtitles, and the audio + video equalizers." link="/docs/guide/evervideo/evervideo-guide-player" >}}
+  {{< feature-card icon="play" title="Media Player" subtitle="Control playback, queue, Picture-in-Picture, audio and video tracks, primary and secondary subtitles, and the audio + video equalizers." link="/docs/guide/evervideo/evervideo-guide-player" >}}
 
-  {{< card icon="adjustments" title="Settings" subtitle="Customize Evervideo’s look, decoder, equalizers, subtitles, widgets, language, passcode, backup, and performance settings." link="/docs/guide/evervideo/evervideo-guide-settings" >}}
+  {{< feature-card icon="adjustments" title="Settings" subtitle="Customize Evervideo’s look, decoder, equalizers, subtitles, widgets, language, passcode, backup, and performance settings." link="/docs/guide/evervideo/evervideo-guide-settings" >}}
 
 {{< /cards >}}
 

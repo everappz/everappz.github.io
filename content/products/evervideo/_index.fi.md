@@ -144,35 +144,35 @@ Kaikki ominaisuudet
 
 {{< cards >}}
 
-{{< card title="Toista kaikki video- ja äänimuodot" subtitle="Katso mediaasi ilman tiedostojen muuntamista. Evervideo tukee kaikkia päämuotoja, mukaan lukien MKV, AVI, MP4, MOV, FLAC, MP3, AAC, OGG, WAV, WMV ja muut." icon="film">}}
+{{< feature-card title="Toista kaikki video- ja äänimuodot" subtitle="Katso mediaasi ilman tiedostojen muuntamista. Evervideo tukee kaikkia päämuotoja, mukaan lukien MKV, AVI, MP4, MOV, FLAC, MP3, AAC, OGG, WAV, WMV ja muut." icon="film">}}
 
-{{< card title="Offline-tila" subtitle="Lataa videoita, albumeita ja soittolistoja katsottavaksi ilman internet-yhteyttä. Ota koko videokirjastosi mukaasi minne tahansa." icon="download">}}
+{{< feature-card title="Offline-tila" subtitle="Lataa videoita, albumeita ja soittolistoja katsottavaksi ilman internet-yhteyttä. Ota koko videokirjastosi mukaasi minne tahansa." icon="download">}}
 
-{{< card title="360° video ja VR-tila" subtitle="Katso 360° ja VR-videoita hauskalla ja helpolla tavalla. Liikuta puhelintasi katsoaksesi mihin tahansa suuntaan tai aseta se VR-laseihin tunteaksesi olevasi videon sisällä." icon="video-camera">}}
+{{< feature-card title="360° video ja VR-tila" subtitle="Katso 360° ja VR-videoita hauskalla ja helpolla tavalla. Liikuta puhelintasi katsoaksesi mihin tahansa suuntaan tai aseta se VR-laseihin tunteaksesi olevasi videon sisällä." icon="video-camera">}}
 
-{{< card title="Kuva kuvassa" subtitle="Jatka videoiden katselua pienessä kelluvassa ikkunassa käyttäessäsi muita sovelluksia. Hallitse toistoa ja näe tekstitykset samaan aikaan — täydellinen moniajoon." icon="duplicate">}}
+{{< feature-card title="Kuva kuvassa" subtitle="Jatka videoiden katselua pienessä kelluvassa ikkunassa käyttäessäsi muita sovelluksia. Hallitse toistoa ja näe tekstitykset samaan aikaan — täydellinen moniajoon." icon="duplicate">}}
 
-{{< card title="Video- ja äänitaajuuskorjain" subtitle="Mukauta videoidesi ulkoasua ja ääntä. Säädä bassoa, sävelkorkeutta, kirkkautta, gammaa, kylläisyyttä, kontrastia ja muuta. Valitse yli 50 videoesiasetuksesta ja yli 20 ääniesiasetuksesta tai luo omasi." icon="adjustments">}}
+{{< feature-card title="Video- ja äänitaajuuskorjain" subtitle="Mukauta videoidesi ulkoasua ja ääntä. Säädä bassoa, sävelkorkeutta, kirkkautta, gammaa, kylläisyyttä, kontrastia ja muuta. Valitse yli 50 videoesiasetuksesta ja yli 20 ääniesiasetuksesta tai luo omasi." icon="adjustments">}}
 
-{{< card title="Tekstitykset" subtitle="Näytä upotetut tekstitykset, valitse tekstitysraidan numero ja nauti täydestä tekstitystuesta myös Kuva kuvassa -tilassa." icon="annotation" >}}
+{{< feature-card title="Tekstitykset" subtitle="Näytä upotetut tekstitykset, valitse tekstitysraidan numero ja nauti täydestä tekstitystuesta myös Kuva kuvassa -tilassa." icon="annotation" >}}
 
-{{< card title="Toista suoraan pilvestä" subtitle="Katso videoita suoraan pilvitallennustilastasi käyttämättä laitteen tilaa. Tukee iCloud Drivea, Google Drivea, Dropboxia, OneDrivea, MEGAa, Synology Drivea, pCloudia ja muita." icon="cloud">}}
+{{< feature-card title="Toista suoraan pilvestä" subtitle="Katso videoita suoraan pilvitallennustilastasi käyttämättä laitteen tilaa. Tukee iCloud Drivea, Google Drivea, Dropboxia, OneDrivea, MEGAa, Synology Drivea, pCloudia ja muita." icon="cloud">}}
 
-{{< card title="Yhdistä tietokone / NAS" subtitle="Yhdistä helposti NAS, Mac tai PC kotiverkossasi käyttäen SMB:tä, WebDAV:ia tai DLNA:ta. Etäyhteys tuetaan Synology Drivelle ja WD MyCloud Homelle. Siirrä mediatiedostoja laitteeseesi Wi-Fin tai iTunes-tiedostonjaon kautta." icon="desktop-computer">}}
+{{< feature-card title="Yhdistä tietokone / NAS" subtitle="Yhdistä helposti NAS, Mac tai PC kotiverkossasi käyttäen SMB:tä, WebDAV:ia tai DLNA:ta. Etäyhteys tuetaan Synology Drivelle ja WD MyCloud Homelle. Siirrä mediatiedostoja laitteeseesi Wi-Fin tai iTunes-tiedostonjaon kautta." icon="desktop-computer">}}
 
-{{< card title="Mediakirjasto" subtitle="Järjestä albumin, genren tai keston mukaan. Synkronoi automaattisesti pilvimuutosten kanssa. Luo, muokkaa ja vie M3U-soittolistoja mukautetulla lajittelulla." icon="library" >}}
+{{< feature-card title="Mediakirjasto" subtitle="Järjestä albumin, genren tai keston mukaan. Synkronoi automaattisesti pilvimuutosten kanssa. Luo, muokkaa ja vie M3U-soittolistoja mukautetulla lajittelulla." icon="library" >}}
 
-{{< card title="Kirjanmerkit ja toiston sijainnin tallennus" subtitle="Tallenna paikkasi missä tahansa videossa kirjanmerkeillä ja jatka toistoa siitä, mihin jäit. Säädä toistonopeutta, merkitse suosikit ja lajittele videot eniten toistettujen mukaan helppoa pääsyä varten." icon="book-open">}}
+{{< feature-card title="Kirjanmerkit ja toiston sijainnin tallennus" subtitle="Tallenna paikkasi missä tahansa videossa kirjanmerkeillä ja jatka toistoa siitä, mihin jäit. Säädä toistonopeutta, merkitse suosikit ja lajittele videot eniten toistettujen mukaan helppoa pääsyä varten." icon="book-open">}}
 
-{{< card title="AirPlay ja Chromecast" subtitle="Toista videoita isommalla näytöllä suoratoistamalla Apple TV:hen, Chromecastiin tai mihin tahansa yhteensopivaan ulkoiseen näyttöön." icon="device-mobile">}}
+{{< feature-card title="AirPlay ja Chromecast" subtitle="Toista videoita isommalla näytöllä suoratoistamalla Apple TV:hen, Chromecastiin tai mihin tahansa yhteensopivaan ulkoiseen näyttöön." icon="device-mobile">}}
 
-{{< card title="Tuo tiedostoista ja kirjastoista" subtitle="Tuo videoita suoraan Tiedostot-sovelluksesta, Kuvista tai iTunes-kirjastostasi. Pääse kaikkeen paikalliseen ja pilvisisältöösi yhdessä järjestetyssä mediakirjastossa." icon="database">}}
+{{< feature-card title="Tuo tiedostoista ja kirjastoista" subtitle="Tuo videoita suoraan Tiedostot-sovelluksesta, Kuvista tai iTunes-kirjastostasi. Pääse kaikkeen paikalliseen ja pilvisisältöösi yhdessä järjestetyssä mediakirjastossa." icon="database">}}
 
-{{< card title="Tiedostonhallinta" subtitle="Siirrä, nimeä uudelleen, poista ja järjestä tiedostoja suoraan sovelluksessa." icon="folder">}}
+{{< feature-card title="Tiedostonhallinta" subtitle="Siirrä, nimeä uudelleen, poista ja järjestä tiedostoja suoraan sovelluksessa." icon="folder">}}
 
-{{< card title="Mukauttaminen" subtitle="Mukauta sovellus mieltymystesi mukaan. Valitse teemoja, näytä tai piilota ominaisuuksia ja säädä käyttöliittymää tarpeidesi mukaan." icon="sun">}}
+{{< feature-card title="Mukauttaminen" subtitle="Mukauta sovellus mieltymystesi mukaan. Valitse teemoja, näytä tai piilota ominaisuuksia ja säädä käyttöliittymää tarpeidesi mukaan." icon="sun">}}
 
-{{< card title="Älyhaku" subtitle="Löydä nopeasti videoita, albumeita tai soittolistoja mediakirjastostasi avainsanoilla tai suodattimilla." icon="search" >}}
+{{< feature-card title="Älyhaku" subtitle="Löydä nopeasti videoita, albumeita tai soittolistoja mediakirjastostasi avainsanoilla tai suodattimilla." icon="search" >}}
 
 
 
@@ -192,7 +192,7 @@ Intuitiivinen muotoilu
 
 {{< cards cols="4">}}
 
-  {{< card 
+  {{< feature-card 
     image="/products/evervideo/screenshots/2880x1800/1.png" 
     title="Videosoitin" 
     method="Fill"
@@ -201,7 +201,7 @@ Intuitiivinen muotoilu
     icon="play"
   >}}
 
-  {{< card 
+  {{< feature-card 
     image="/products/evervideo/screenshots/2880x1800/3.png" 
     title="Ääni- ja videotaajuuskorjain" 
     method="Fill"
@@ -210,7 +210,7 @@ Intuitiivinen muotoilu
     icon="adjustments"
   >}}
 
-  {{< card 
+  {{< feature-card 
     image="/products/evervideo/screenshots/2880x1800/6.png" 
     title="Soittolistojen hallinta" 
     method="Fill"
@@ -219,7 +219,7 @@ Intuitiivinen muotoilu
     icon="collection"
   >}}
 
-  {{< card 
+  {{< feature-card 
     image="/products/evervideo/screenshots/2880x1800/5.png" 
     title="Mediakirjasto" 
     method="Fill"
@@ -228,7 +228,7 @@ Intuitiivinen muotoilu
     icon="library"
   >}}
 
-  {{< card 
+  {{< feature-card 
     image="/products/evervideo/screenshots/2880x1800/7.png"  
     title="Pilvitallennustila" 
     method="Fill"
@@ -237,7 +237,7 @@ Intuitiivinen muotoilu
     icon="cloud"
   >}}
 
-  {{< card 
+  {{< feature-card 
     image="/products/evervideo/screenshots/2880x1800/9.png"  
     title="Tiedostonhallinta" 
     method="Fill"
@@ -656,17 +656,17 @@ Huomio: Varmista, että JavaScript on käytössä ja käytät uusinta selainvers
 </div>
 
 {{< cards >}}
-  {{< card icon="location-marker" title="Navigointi" subtitle="Opi navigoimaan Evervideossa iPhonen välilehtipalkin tai iPadin ja Macin vasemman valikon avulla – mukaan lukien kompakti aina näkyvä videosoitin." link="/docs/guide/evervideo/evervideo-guide-navigation" >}}
+  {{< feature-card icon="location-marker" title="Navigointi" subtitle="Opi navigoimaan Evervideossa iPhonen välilehtipalkin tai iPadin ja Macin vasemman valikon avulla – mukaan lukien kompakti aina näkyvä videosoitin." link="/docs/guide/evervideo/evervideo-guide-navigation" >}}
 
-  {{< card icon="folder" title="Tiedostot" subtitle="Liitä pilvitilit, NAS-jaot, mediapalvelimet (Plex, Jellyfin, Emby, Subsonic, Navidrome), RTSP-suoratoistot ja paikalliset tiedostot yhteen yhtenäiseen välilehteen." link="/docs/guide/evervideo/evervideo-guide-files" >}}
+  {{< feature-card icon="folder" title="Tiedostot" subtitle="Liitä pilvitilit, NAS-jaot, mediapalvelimet (Plex, Jellyfin, Emby, Subsonic, Navidrome), RTSP-suoratoistot ja paikalliset tiedostot yhteen yhtenäiseen välilehteen." link="/docs/guide/evervideo/evervideo-guide-files" >}}
 
-  {{< card icon="library" title="Mediakirjasto" subtitle="Järjestä ja selaa videoitasi ja musiikkiasi albumin, genren, viimeksi toistettujen ja suosikkien mukaan – mukana myös iOS:n Kuvat-kirjasto ja Apple Music -kirjasto." link="/docs/guide/evervideo/evervideo-guide-video-library" >}}
+  {{< feature-card icon="library" title="Mediakirjasto" subtitle="Järjestä ja selaa videoitasi ja musiikkiasi albumin, genren, viimeksi toistettujen ja suosikkien mukaan – mukana myös iOS:n Kuvat-kirjasto ja Apple Music -kirjasto." link="/docs/guide/evervideo/evervideo-guide-video-library" >}}
 
-  {{< card icon="collection" title="Soittolistat" subtitle="Luo ja järjestä soittolistat videoille, musiikille, sarjoille tai kursseille ja tuo M3U / M3U8 / CUE -tiedostoja." link="/docs/guide/evervideo/evervideo-guide-playlists" >}}
+  {{< feature-card icon="collection" title="Soittolistat" subtitle="Luo ja järjestä soittolistat videoille, musiikille, sarjoille tai kursseille ja tuo M3U / M3U8 / CUE -tiedostoja." link="/docs/guide/evervideo/evervideo-guide-playlists" >}}
 
-  {{< card icon="play" title="Mediasoitin" subtitle="Hallitse toistoa, jonoa, Kuva kuvassa -tilaa, ääni- ja videoraitoja, ensisijaisia ja toissijaisia tekstityksiä sekä äänen ja kuvan taajuuskorjaimia." link="/docs/guide/evervideo/evervideo-guide-player" >}}
+  {{< feature-card icon="play" title="Mediasoitin" subtitle="Hallitse toistoa, jonoa, Kuva kuvassa -tilaa, ääni- ja videoraitoja, ensisijaisia ja toissijaisia tekstityksiä sekä äänen ja kuvan taajuuskorjaimia." link="/docs/guide/evervideo/evervideo-guide-player" >}}
 
-  {{< card icon="adjustments" title="Asetukset" subtitle="Mukauta Evervideon ulkoasu, dekooderi, taajuuskorjaimet, tekstitykset, widgetit, kieli, pääsykoodi, varmuuskopiointi ja suorituskykyasetukset." link="/docs/guide/evervideo/evervideo-guide-settings" >}}
+  {{< feature-card icon="adjustments" title="Asetukset" subtitle="Mukauta Evervideon ulkoasu, dekooderi, taajuuskorjaimet, tekstitykset, widgetit, kieli, pääsykoodi, varmuuskopiointi ja suorituskykyasetukset." link="/docs/guide/evervideo/evervideo-guide-settings" >}}
 
 {{< /cards >}}
 

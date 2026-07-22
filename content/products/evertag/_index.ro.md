@@ -491,17 +491,17 @@ Acest mod este deosebit de util când trebuie să aplicați același nume de alb
 </div>
 
 {{< cards >}}
-  {{< card icon="location-marker" title="Navigare" subtitle="Aflați cum să navigați fără efort în aplicația noastră folosind Bara de File (pentru utilizatorii iPhone) sau Meniul din Stânga (pentru utilizatorii iPad și Mac) pentru a accesa și explora toate funcțiile aplicației." link="/docs/guide/evertag/evertag-guide-navigation" >}}
+  {{< feature-card icon="location-marker" title="Navigare" subtitle="Aflați cum să navigați fără efort în aplicația noastră folosind Bara de File (pentru utilizatorii iPhone) sau Meniul din Stânga (pentru utilizatorii iPad și Mac) pentru a accesa și explora toate funcțiile aplicației." link="/docs/guide/evertag/evertag-guide-navigation" >}}
 
-  {{< card icon="cloud" title="Conexiuni" subtitle="Conectați fără efort toate conturile cloud disponibile cu fișierele audio prețioase. Puteți chiar edita fișierele online fără efort folosind managerul de fișiere integrat." link="/docs/guide/evertag/evertag-guide-connections" >}}
+  {{< feature-card icon="cloud" title="Conexiuni" subtitle="Conectați fără efort toate conturile cloud disponibile cu fișierele audio prețioase. Puteți chiar edita fișierele online fără efort folosind managerul de fișiere integrat." link="/docs/guide/evertag/evertag-guide-connections" >}}
 
-  {{< card icon="folder" title="Fișiere Locale" subtitle="Vizualizați și organizați fișierele stocate în folderul Documents al aplicației sau pe dispozitiv. Utilizați managerul de fișiere integrat pentru a edita și gestiona fișierele audio cu ușurință." link="/docs/guide/evertag/evertag-guide-local-files" >}}
+  {{< feature-card icon="folder" title="Fișiere Locale" subtitle="Vizualizați și organizați fișierele stocate în folderul Documents al aplicației sau pe dispozitiv. Utilizați managerul de fișiere integrat pentru a edita și gestiona fișierele audio cu ușurință." link="/docs/guide/evertag/evertag-guide-local-files" >}}
 
-  {{< card icon="pencil-alt" title="Editor Taguri" subtitle="Stăpâniți arta manipulării metadatelor fișierelor audio. Aflați cum să editați metadatele, să transformați coperțile albumelor și să gestionați fără probleme mai multe fișiere simultan." link="/docs/guide/evertag/evertag-guide-tag-editor" >}}
+  {{< feature-card icon="pencil-alt" title="Editor Taguri" subtitle="Stăpâniți arta manipulării metadatelor fișierelor audio. Aflați cum să editați metadatele, să transformați coperțile albumelor și să gestionați fără probleme mai multe fișiere simultan." link="/docs/guide/evertag/evertag-guide-tag-editor" >}}
 
-  {{< card icon="code" title="Mapări Câmpuri Taguri" subtitle="Explorați lista completă a câmpurilor de taguri audio suportate de aplicația Evertag, inclusiv numele interne ale câmpurilor și mapările între formatele principale de metadate." link="/docs/guide/evertag/evertag-tag-field-mappings" >}}
+  {{< feature-card icon="code" title="Mapări Câmpuri Taguri" subtitle="Explorați lista completă a câmpurilor de taguri audio suportate de aplicația Evertag, inclusiv numele interne ale câmpurilor și mapările între formatele principale de metadate." link="/docs/guide/evertag/evertag-tag-field-mappings" >}}
 
-  {{< card icon="adjustments" title="Setări" subtitle="Descoperiți cum să personalizați experiența aplicației, să ajustați performanța, să gestionați utilizarea datelor și să adaptați preferințele de limbă și interfață utilizator după gustul dvs." link="/docs/guide/evertag/evertag-guide-settings" >}}
+  {{< feature-card icon="adjustments" title="Setări" subtitle="Descoperiți cum să personalizați experiența aplicației, să ajustați performanța, să gestionați utilizarea datelor și să adaptați preferințele de limbă și interfață utilizator după gustul dvs." link="/docs/guide/evertag/evertag-guide-settings" >}}
 
 {{< /cards >}}
 

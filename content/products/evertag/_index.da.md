@@ -491,17 +491,17 @@ Denne tilstand er særligt nyttig, når du har brug for at anvende det samme alb
 </div>
 
 {{< cards >}}
-  {{< card icon="location-marker" title="Navigation" subtitle="Lær, hvordan du nemt navigerer i vores app ved hjælp af fanebaren (for iPhone-brugere) eller venstremenuen (for iPad- og Mac-brugere) for at få adgang til og udforske alle appens funktioner." link="/docs/guide/evertag/evertag-guide-navigation" >}}
+  {{< feature-card icon="location-marker" title="Navigation" subtitle="Lær, hvordan du nemt navigerer i vores app ved hjælp af fanebaren (for iPhone-brugere) eller venstremenuen (for iPad- og Mac-brugere) for at få adgang til og udforske alle appens funktioner." link="/docs/guide/evertag/evertag-guide-navigation" >}}
 
-  {{< card icon="cloud" title="Forbindelser" subtitle="Tilslut nemt alle dine tilgængelige cloudkonti med dine værdifulde lydfiler. Du kan endda redigere dine onlinefiler nemt med vores integrerede filhåndtering." link="/docs/guide/evertag/evertag-guide-connections" >}}
+  {{< feature-card icon="cloud" title="Forbindelser" subtitle="Tilslut nemt alle dine tilgængelige cloudkonti med dine værdifulde lydfiler. Du kan endda redigere dine onlinefiler nemt med vores integrerede filhåndtering." link="/docs/guide/evertag/evertag-guide-connections" >}}
 
-  {{< card icon="folder" title="Lokale filer" subtitle="Se og organiser filer gemt i appens Documents-mappe eller på din enhed. Brug den indbyggede filhåndtering til at redigere og administrere dine lydfiler med lethed." link="/docs/guide/evertag/evertag-guide-local-files" >}}
+  {{< feature-card icon="folder" title="Lokale filer" subtitle="Se og organiser filer gemt i appens Documents-mappe eller på din enhed. Brug den indbyggede filhåndtering til at redigere og administrere dine lydfiler med lethed." link="/docs/guide/evertag/evertag-guide-local-files" >}}
 
-  {{< card icon="pencil-alt" title="Tageditor" subtitle="Mester kunsten at manipulere lydfilmetadata. Find ud af, hvordan du redigerer metadata, ændrer albumcovers og problemfrit administrerer flere filer samtidigt." link="/docs/guide/evertag/evertag-guide-tag-editor" >}}
+  {{< feature-card icon="pencil-alt" title="Tageditor" subtitle="Mester kunsten at manipulere lydfilmetadata. Find ud af, hvordan du redigerer metadata, ændrer albumcovers og problemfrit administrerer flere filer samtidigt." link="/docs/guide/evertag/evertag-guide-tag-editor" >}}
 
-  {{< card icon="code" title="Tagfelt-tilknytninger" subtitle="Udforsk den komplette liste over lydtagfelter understøttet af Evertag-appen, herunder interne feltnavne og tilknytninger på tværs af store metadataformater." link="/docs/guide/evertag/evertag-tag-field-mappings" >}}
+  {{< feature-card icon="code" title="Tagfelt-tilknytninger" subtitle="Udforsk den komplette liste over lydtagfelter understøttet af Evertag-appen, herunder interne feltnavne og tilknytninger på tværs af store metadataformater." link="/docs/guide/evertag/evertag-tag-field-mappings" >}}
 
-  {{< card icon="adjustments" title="Indstillinger" subtitle="Opdag, hvordan du tilpasser din appoplevelse, finjusterer ydeevne, administrerer dataforbrug og skræddersyr sprog- og brugergrænsefladepræferencer efter din smag." link="/docs/guide/evertag/evertag-guide-settings" >}}
+  {{< feature-card icon="adjustments" title="Indstillinger" subtitle="Opdag, hvordan du tilpasser din appoplevelse, finjusterer ydeevne, administrerer dataforbrug og skræddersyr sprog- og brugergrænsefladepræferencer efter din smag." link="/docs/guide/evertag/evertag-guide-settings" >}}
 
 {{< /cards >}}
 

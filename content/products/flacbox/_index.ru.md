@@ -127,29 +127,29 @@ Flacbox также воспроизводит MP3, AAC, OGG, APE, MOD, MKA и п
 
 {{< cards >}}
 
-  {{< card title="Поддержка аудио без потерь" subtitle="Воспроизводите FLAC, ALAC, WAV, APE, DFF, WV, AIFF и множество других высококачественных форматов." icon="music-note" >}}
-  {{< card title="Офлайн-режим" subtitle="Скачивайте альбомы, плейлисты и треки для офлайн-воспроизведения в любое время." icon="download" >}}
-  {{< card title="Управление файлами" subtitle="Легко копируйте, перемещайте, переименовывайте и удаляйте файлы внутри приложения." icon="folder" >}}
+  {{< feature-card title="Поддержка аудио без потерь" subtitle="Воспроизводите FLAC, ALAC, WAV, APE, DFF, WV, AIFF и множество других высококачественных форматов." icon="music-note" >}}
+  {{< feature-card title="Офлайн-режим" subtitle="Скачивайте альбомы, плейлисты и треки для офлайн-воспроизведения в любое время." icon="download" >}}
+  {{< feature-card title="Управление файлами" subtitle="Легко копируйте, перемещайте, переименовывайте и удаляйте файлы внутри приложения." icon="folder" >}}
 
-  {{< card title="Пользовательские плейлисты" subtitle="Создавайте, редактируйте, переупорядочивайте плейлисты и экспортируйте или импортируйте файлы M3U." icon="collection" >}}
-  {{< card title="Медиатека" subtitle="Добавляйте музыку и организуйте её по альбомам, исполнителям и жанрам с помощью тегов." icon="library" >}}
-  {{< card title="Расширенный поиск" subtitle="Быстро находите песни, исполнителей или альбомы с помощью умных инструментов поиска." icon="search" >}}
+  {{< feature-card title="Пользовательские плейлисты" subtitle="Создавайте, редактируйте, переупорядочивайте плейлисты и экспортируйте или импортируйте файлы M3U." icon="collection" >}}
+  {{< feature-card title="Медиатека" subtitle="Добавляйте музыку и организуйте её по альбомам, исполнителям и жанрам с помощью тегов." icon="library" >}}
+  {{< feature-card title="Расширенный поиск" subtitle="Быстро находите песни, исполнителей или альбомы с помощью умных инструментов поиска." icon="search" >}}
 
-  {{< card title="Облачная трансляция" subtitle="Транслируйте из Google Drive, Dropbox, OneDrive, iCloud, MEGA и других сервисов." icon="cloud" >}}
-  {{< card title="Доступ к NAS и компьютеру" subtitle="Подключайтесь через SMB, DLNA или WebDAV. Переносите через iTunes или Wi-Fi." icon="desktop-computer" >}}
-  {{< card title="USB-накопители" subtitle="Воспроизводите музыку прямо с SD-карт через USB-адаптеры, такие как iXpand." icon="inbox" >}}
+  {{< feature-card title="Облачная трансляция" subtitle="Транслируйте из Google Drive, Dropbox, OneDrive, iCloud, MEGA и других сервисов." icon="cloud" >}}
+  {{< feature-card title="Доступ к NAS и компьютеру" subtitle="Подключайтесь через SMB, DLNA или WebDAV. Переносите через iTunes или Wi-Fi." icon="desktop-computer" >}}
+  {{< feature-card title="USB-накопители" subtitle="Воспроизводите музыку прямо с SD-карт через USB-адаптеры, такие как iXpand." icon="inbox" >}}
 
-  {{< card title="Управление воспроизведением" subtitle="Меняйте скорость и тон воспроизведения для идеального контроля звука." icon="fast-forward" >}}
-  {{< card title="Тексты песен и комментарии" subtitle="Просматривайте встроенные тексты песен и комментарии при воспроизведении." icon="annotation" >}}
-  {{< card title="Редактор тегов ID3" subtitle="Редактируйте и исправляйте метаданные: название, исполнитель или альбом с помощью встроенного инструмента." icon="pencil-alt" >}}
+  {{< feature-card title="Управление воспроизведением" subtitle="Меняйте скорость и тон воспроизведения для идеального контроля звука." icon="fast-forward" >}}
+  {{< feature-card title="Тексты песен и комментарии" subtitle="Просматривайте встроенные тексты песен и комментарии при воспроизведении." icon="annotation" >}}
+  {{< feature-card title="Редактор тегов ID3" subtitle="Редактируйте и исправляйте метаданные: название, исполнитель или альбом с помощью встроенного инструмента." icon="pencil-alt" >}}
 
-  {{< card title="Эквалайзер и усиление" subtitle="Используйте пресеты или настраивайте вручную с усилением предусилителя для насыщенного звука." icon="adjustments" >}}
-  {{< card title="Apple CarPlay" subtitle="Безопасно управляйте музыкой с помощью специального интерфейса CarPlay." icon="truck" >}}
-  {{< card title="AirPlay и Chromecast" subtitle="Транслируйте на Apple TV и устройства Google Chromecast по беспроводной сети." icon="device-mobile" >}}
+  {{< feature-card title="Эквалайзер и усиление" subtitle="Используйте пресеты или настраивайте вручную с усилением предусилителя для насыщенного звука." icon="adjustments" >}}
+  {{< feature-card title="Apple CarPlay" subtitle="Безопасно управляйте музыкой с помощью специального интерфейса CarPlay." icon="truck" >}}
+  {{< feature-card title="AirPlay и Chromecast" subtitle="Транслируйте на Apple TV и устройства Google Chromecast по беспроводной сети." icon="device-mobile" >}}
 
-  {{< card title="Интеграция с Last.fm" subtitle="Отслеживайте музыкальную статистику и получайте персонализированные рекомендации." icon="chart-bar" >}}
-  {{< card title="Автоматическая синхронизация" subtitle="Автоматически синхронизируйте музыкальную библиотеку с облачными и локальными папками." icon="refresh" >}}
-  {{< card title="Поддержка аудиокниг" subtitle="Слушайте аудиокниги с закладками, таймером сна и возобновлением воспроизведения с того места, где остановились." icon="book-open" >}}
+  {{< feature-card title="Интеграция с Last.fm" subtitle="Отслеживайте музыкальную статистику и получайте персонализированные рекомендации." icon="chart-bar" >}}
+  {{< feature-card title="Автоматическая синхронизация" subtitle="Автоматически синхронизируйте музыкальную библиотеку с облачными и локальными папками." icon="refresh" >}}
+  {{< feature-card title="Поддержка аудиокниг" subtitle="Слушайте аудиокниги с закладками, таймером сна и возобновлением воспроизведения с того места, где остановились." icon="book-open" >}}
 
 {{< /cards >}}
 
@@ -167,7 +167,7 @@ Flacbox также воспроизводит MP3, AAC, OGG, APE, MOD, MKA и п
 
 {{< cards cols="4">}}
 
-  {{< card 
+  {{< feature-card 
     image="/products/flacbox/screenshots/2048x2732/1.png" 
     title="Аудиоплеер" 
     method="Fill"
@@ -176,7 +176,7 @@ Flacbox также воспроизводит MP3, AAC, OGG, APE, MOD, MKA и п
     icon="play"
   >}}
 
-  {{< card 
+  {{< feature-card 
     image="/products/flacbox/screenshots/2048x2732/2.png"  
     title="Аудио эквалайзер" 
     method="Fill"
@@ -185,7 +185,7 @@ Flacbox также воспроизводит MP3, AAC, OGG, APE, MOD, MKA и п
     icon="adjustments"
   >}}
 
-  {{< card 
+  {{< feature-card 
     image="/products/flacbox/screenshots/2048x2732/3.png"  
     title="Менеджер плейлистов" 
     method="Fill"
@@ -194,7 +194,7 @@ Flacbox также воспроизводит MP3, AAC, OGG, APE, MOD, MKA и п
     icon="collection"
   >}}
 
-  {{< card 
+  {{< feature-card 
     image="/products/flacbox/screenshots/2048x2732/5.png"  
     title="Медиатека" 
     method="Fill"
@@ -203,7 +203,7 @@ Flacbox также воспроизводит MP3, AAC, OGG, APE, MOD, MKA и п
     icon="library"
   >}}
 
-  {{< card 
+  {{< feature-card 
     image="/products/flacbox/screenshots/2048x2732/7.png"  
     title="Облачное хранилище" 
     method="Fill"
@@ -212,7 +212,7 @@ Flacbox также воспроизводит MP3, AAC, OGG, APE, MOD, MKA и п
     icon="cloud"
   >}}
 
-  {{< card 
+  {{< feature-card 
     image="/products/flacbox/screenshots/2048x2732/8.png"  
     title="iCloud Drive" 
     method="Fill"
@@ -827,19 +827,19 @@ Flacbox предоставляет полноценное решение для 
 
 {{< cards >}}
 
-{{< card icon="map" link="/docs/guide/flacbox/flacbox-guide-navigation" title="Навигация" subtitle="Используйте панель вкладок на iPhone или левое меню на iPad и Mac." >}}
+{{< feature-card icon="map" link="/docs/guide/flacbox/flacbox-guide-navigation" title="Навигация" subtitle="Используйте панель вкладок на iPhone или левое меню на iPad и Mac." >}}
 
-{{< card icon="cloud" link="/docs/guide/flacbox/flacbox-guide-connections" title="Подключения" subtitle="Подключите Dropbox, Google Drive, iCloud или ваш NAS." >}}
+{{< feature-card icon="cloud" link="/docs/guide/flacbox/flacbox-guide-connections" title="Подключения" subtitle="Подключите Dropbox, Google Drive, iCloud или ваш NAS." >}}
 
-{{< card icon="collection" link="/docs/guide/flacbox/flacbox-guide-music-library" title="Музыкальная библиотека" subtitle="Управляйте и ищите треки по исполнителю, альбому или жанру." >}}
+{{< feature-card icon="collection" link="/docs/guide/flacbox/flacbox-guide-music-library" title="Музыкальная библиотека" subtitle="Управляйте и ищите треки по исполнителю, альбому или жанру." >}}
 
-{{< card icon="music-note" link="/docs/guide/flacbox/flacbox-guide-playlists" title="Плейлисты" subtitle="Создавайте и организуйте плейлисты для любого настроения или случая." >}}
+{{< feature-card icon="music-note" link="/docs/guide/flacbox/flacbox-guide-playlists" title="Плейлисты" subtitle="Создавайте и организуйте плейлисты для любого настроения или случая." >}}
 
-{{< card icon="folder" link="/docs/guide/flacbox/flacbox-guide-local-files" title="Локальные файлы" subtitle="Редактируйте и воспроизводите офлайн-музыку с помощью встроенного файлового менеджера." >}}
+{{< feature-card icon="folder" link="/docs/guide/flacbox/flacbox-guide-local-files" title="Локальные файлы" subtitle="Редактируйте и воспроизводите офлайн-музыку с помощью встроенного файлового менеджера." >}}
 
-{{< card icon="play" link="/docs/guide/flacbox/flacbox-guide-player" title="Аудиоплеер" subtitle="Управляйте воспроизведением, настраивайте скорость, устанавливайте закладки и многое другое." >}}
+{{< feature-card icon="play" link="/docs/guide/flacbox/flacbox-guide-player" title="Аудиоплеер" subtitle="Управляйте воспроизведением, настраивайте скорость, устанавливайте закладки и многое другое." >}}
 
-{{< card icon="adjustments" link="/docs/guide/flacbox/flacbox-guide-settings" title="Настройки" subtitle="Настройте эквалайзер, оформление и поведение приложения." >}}
+{{< feature-card icon="adjustments" link="/docs/guide/flacbox/flacbox-guide-settings" title="Настройки" subtitle="Настройте эквалайзер, оформление и поведение приложения." >}}
 
 {{< /cards >}}
 

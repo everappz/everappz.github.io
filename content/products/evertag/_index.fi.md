@@ -367,17 +367,17 @@ Vieritä näytön alaosaan ja napauta «Muokkaa useita tiedostoja samanaikaisest
 </div>
 
 {{< cards >}}
-  {{< card icon="location-marker" title="Navigointi" subtitle="Opi navigoimaan sovelluksessamme vaivattomasti välilehtipalkin (iPhone) tai vasemman valikon (iPad ja Mac) avulla." link="/docs/guide/evertag/evertag-guide-navigation" >}}
+  {{< feature-card icon="location-marker" title="Navigointi" subtitle="Opi navigoimaan sovelluksessamme vaivattomasti välilehtipalkin (iPhone) tai vasemman valikon (iPad ja Mac) avulla." link="/docs/guide/evertag/evertag-guide-navigation" >}}
 
-  {{< card icon="cloud" title="Yhteydet" subtitle="Yhdistä helposti kaikki pilvitilit äänitiedostoihisi. Muokkaa online-tiedostoja integroidulla tiedostonhallinnalla." link="/docs/guide/evertag/evertag-guide-connections" >}}
+  {{< feature-card icon="cloud" title="Yhteydet" subtitle="Yhdistä helposti kaikki pilvitilit äänitiedostoihisi. Muokkaa online-tiedostoja integroidulla tiedostonhallinnalla." link="/docs/guide/evertag/evertag-guide-connections" >}}
 
-  {{< card icon="folder" title="Paikalliset tiedostot" subtitle="Tarkastele ja järjestä sovelluksen Documents-kansioon tai laitteellesi tallennettuja tiedostoja." link="/docs/guide/evertag/evertag-guide-local-files" >}}
+  {{< feature-card icon="folder" title="Paikalliset tiedostot" subtitle="Tarkastele ja järjestä sovelluksen Documents-kansioon tai laitteellesi tallennettuja tiedostoja." link="/docs/guide/evertag/evertag-guide-local-files" >}}
 
-  {{< card icon="pencil-alt" title="Tunniste-editori" subtitle="Hallitse äänitiedostojen metatietojen muokkaus. Opi muokkaamaan tunnisteita, vaihtamaan kansia ja hallitsemaan useita tiedostoja samanaikaisesti." link="/docs/guide/evertag/evertag-guide-tag-editor" >}}
+  {{< feature-card icon="pencil-alt" title="Tunniste-editori" subtitle="Hallitse äänitiedostojen metatietojen muokkaus. Opi muokkaamaan tunnisteita, vaihtamaan kansia ja hallitsemaan useita tiedostoja samanaikaisesti." link="/docs/guide/evertag/evertag-guide-tag-editor" >}}
 
-  {{< card icon="code" title="Tunnistekenttien vastaavuudet" subtitle="Tutustu Evertag-sovelluksen tukemien äänitunnistekenttien täydelliseen luetteloon." link="/docs/guide/evertag/evertag-tag-field-mappings" >}}
+  {{< feature-card icon="code" title="Tunnistekenttien vastaavuudet" subtitle="Tutustu Evertag-sovelluksen tukemien äänitunnistekenttien täydelliseen luetteloon." link="/docs/guide/evertag/evertag-tag-field-mappings" >}}
 
-  {{< card icon="adjustments" title="Asetukset" subtitle="Mukauta sovelluskokemustasi, hienosäädä suorituskykyä ja kieli- sekä käyttöliittymäasetuksia." link="/docs/guide/evertag/evertag-guide-settings" >}}
+  {{< feature-card icon="adjustments" title="Asetukset" subtitle="Mukauta sovelluskokemustasi, hienosäädä suorituskykyä ja kieli- sekä käyttöliittymäasetuksia." link="/docs/guide/evertag/evertag-guide-settings" >}}
 
 {{< /cards >}}
 

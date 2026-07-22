@@ -144,35 +144,35 @@ Semua Fitur
 
 {{< cards >}}
 
-{{< card title="Putar Semua Format Video dan Audio" subtitle="Tonton media Anda tanpa mengonversi file. Evervideo mendukung semua format utama, termasuk MKV, AVI, MP4, MOV, FLAC, MP3, AAC, OGG, WAV, WMV, dan lainnya." icon="film">}}
+{{< feature-card title="Putar Semua Format Video dan Audio" subtitle="Tonton media Anda tanpa mengonversi file. Evervideo mendukung semua format utama, termasuk MKV, AVI, MP4, MOV, FLAC, MP3, AAC, OGG, WAV, WMV, dan lainnya." icon="film">}}
 
-{{< card title="Mode Offline" subtitle="Unduh video, album, dan playlist untuk ditonton tanpa koneksi internet. Bawa seluruh koleksi video Anda ke mana saja." icon="download">}}
+{{< feature-card title="Mode Offline" subtitle="Unduh video, album, dan playlist untuk ditonton tanpa koneksi internet. Bawa seluruh koleksi video Anda ke mana saja." icon="download">}}
 
-{{< card title="Video 360° & Mode VR" subtitle="Tonton video 360° dan VR dengan cara yang menyenangkan dan mudah. Gerakkan ponsel Anda untuk melihat ke segala arah, atau masukkan ke headset VR untuk merasakan seolah Anda berada di dalam video." icon="video-camera">}}
+{{< feature-card title="Video 360° & Mode VR" subtitle="Tonton video 360° dan VR dengan cara yang menyenangkan dan mudah. Gerakkan ponsel Anda untuk melihat ke segala arah, atau masukkan ke headset VR untuk merasakan seolah Anda berada di dalam video." icon="video-camera">}}
 
-{{< card title="Picture-in-Picture" subtitle="Terus menonton video di jendela mengambang kecil saat menggunakan aplikasi lain. Kontrol pemutaran dan lihat subtitle secara bersamaan – sempurna untuk multitasking." icon="duplicate">}}
+{{< feature-card title="Picture-in-Picture" subtitle="Terus menonton video di jendela mengambang kecil saat menggunakan aplikasi lain. Kontrol pemutaran dan lihat subtitle secara bersamaan – sempurna untuk multitasking." icon="duplicate">}}
 
-{{< card title="Equalizer Video & Audio" subtitle="Sesuaikan tampilan dan suara video Anda. Atur bass, pitch, kecerahan, gamma, saturasi, kontras, dan lainnya. Pilih dari 50+ preset video dan 20+ preset audio, atau buat sendiri." icon="adjustments">}}
+{{< feature-card title="Equalizer Video & Audio" subtitle="Sesuaikan tampilan dan suara video Anda. Atur bass, pitch, kecerahan, gamma, saturasi, kontras, dan lainnya. Pilih dari 50+ preset video dan 20+ preset audio, atau buat sendiri." icon="adjustments">}}
 
-{{< card title="Subtitle" subtitle="Lihat subtitle tertanam, pilih nomor trek subtitle, dan nikmati dukungan subtitle penuh bahkan dalam mode Picture-in-Picture." icon="annotation" >}}
+{{< feature-card title="Subtitle" subtitle="Lihat subtitle tertanam, pilih nomor trek subtitle, dan nikmati dukungan subtitle penuh bahkan dalam mode Picture-in-Picture." icon="annotation" >}}
 
-{{< card title="Putar Langsung dari Cloud" subtitle="Tonton video langsung dari penyimpanan cloud Anda tanpa menggunakan ruang perangkat. Mendukung iCloud Drive, Google Drive, Dropbox, OneDrive, MEGA, Synology Drive, pCloud, dan lainnya." icon="cloud">}}
+{{< feature-card title="Putar Langsung dari Cloud" subtitle="Tonton video langsung dari penyimpanan cloud Anda tanpa menggunakan ruang perangkat. Mendukung iCloud Drive, Google Drive, Dropbox, OneDrive, MEGA, Synology Drive, pCloud, dan lainnya." icon="cloud">}}
 
-{{< card title="Hubungkan Komputer / NAS" subtitle="Hubungkan NAS, Mac, atau PC Anda dengan mudah melalui jaringan rumah menggunakan SMB, WebDAV, atau DLNA. Akses jarak jauh didukung untuk Synology Drive dan WD MyCloud Home. Transfer file media ke perangkat Anda melalui Wi-Fi atau iTunes File Sharing." icon="desktop-computer">}}
+{{< feature-card title="Hubungkan Komputer / NAS" subtitle="Hubungkan NAS, Mac, atau PC Anda dengan mudah melalui jaringan rumah menggunakan SMB, WebDAV, atau DLNA. Akses jarak jauh didukung untuk Synology Drive dan WD MyCloud Home. Transfer file media ke perangkat Anda melalui Wi-Fi atau iTunes File Sharing." icon="desktop-computer">}}
 
-{{< card title="Perpustakaan Media" subtitle="Atur berdasarkan album, genre, atau durasi. Sinkronisasi otomatis dengan perubahan cloud. Buat, edit, dan ekspor playlist M3U dengan pengurutan kustom." icon="library" >}}
+{{< feature-card title="Perpustakaan Media" subtitle="Atur berdasarkan album, genre, atau durasi. Sinkronisasi otomatis dengan perubahan cloud. Buat, edit, dan ekspor playlist M3U dengan pengurutan kustom." icon="library" >}}
 
-{{< card title="Bookmark & Penyimpanan Posisi Pemutaran" subtitle="Simpan posisi Anda di video mana pun dengan bookmark dan lanjutkan pemutaran dari tempat terakhir Anda berhenti. Sesuaikan kecepatan pemutaran, tandai favorit, dan urutkan video berdasarkan yang paling sering diputar untuk akses mudah." icon="book-open">}}
+{{< feature-card title="Bookmark & Penyimpanan Posisi Pemutaran" subtitle="Simpan posisi Anda di video mana pun dengan bookmark dan lanjutkan pemutaran dari tempat terakhir Anda berhenti. Sesuaikan kecepatan pemutaran, tandai favorit, dan urutkan video berdasarkan yang paling sering diputar untuk akses mudah." icon="book-open">}}
 
-{{< card title="AirPlay & Chromecast" subtitle="Putar video di layar lebih besar dengan streaming ke Apple TV, Chromecast, atau layar eksternal yang kompatibel." icon="device-mobile">}}
+{{< feature-card title="AirPlay & Chromecast" subtitle="Putar video di layar lebih besar dengan streaming ke Apple TV, Chromecast, atau layar eksternal yang kompatibel." icon="device-mobile">}}
 
-{{< card title="Impor dari Files & Perpustakaan" subtitle="Impor video langsung dari aplikasi Files, Photos, atau Perpustakaan iTunes Anda. Akses semua konten lokal dan cloud Anda dalam satu perpustakaan media yang terorganisir." icon="database">}}
+{{< feature-card title="Impor dari Files & Perpustakaan" subtitle="Impor video langsung dari aplikasi Files, Photos, atau Perpustakaan iTunes Anda. Akses semua konten lokal dan cloud Anda dalam satu perpustakaan media yang terorganisir." icon="database">}}
 
-{{< card title="Manajer File" subtitle="Pindahkan, ganti nama, hapus, dan atur file langsung di dalam aplikasi." icon="folder">}}
+{{< feature-card title="Manajer File" subtitle="Pindahkan, ganti nama, hapus, dan atur file langsung di dalam aplikasi." icon="folder">}}
 
-{{< card title="Personalisasi" subtitle="Sesuaikan aplikasi sesuai preferensi Anda. Pilih tema, tampilkan atau sembunyikan fitur, dan sesuaikan antarmuka sesuai kebutuhan Anda." icon="sun">}}
+{{< feature-card title="Personalisasi" subtitle="Sesuaikan aplikasi sesuai preferensi Anda. Pilih tema, tampilkan atau sembunyikan fitur, dan sesuaikan antarmuka sesuai kebutuhan Anda." icon="sun">}}
 
-{{< card title="Pencarian Cerdas" subtitle="Temukan video, album, atau playlist dengan cepat di perpustakaan media Anda menggunakan kata kunci atau filter." icon="search" >}}
+{{< feature-card title="Pencarian Cerdas" subtitle="Temukan video, album, atau playlist dengan cepat di perpustakaan media Anda menggunakan kata kunci atau filter." icon="search" >}}
 
 
 
@@ -192,7 +192,7 @@ Desain Intuitif
 
 {{< cards cols="4">}}
 
-  {{< card 
+  {{< feature-card 
     image="/products/evervideo/screenshots/2880x1800/1.png" 
     title="Pemutar Video" 
     method="Fill"
@@ -201,7 +201,7 @@ Desain Intuitif
     icon="play"
   >}}
 
-  {{< card 
+  {{< feature-card 
     image="/products/evervideo/screenshots/2880x1800/3.png" 
     title="Equalizer Audio & Video" 
     method="Fill"
@@ -210,7 +210,7 @@ Desain Intuitif
     icon="adjustments"
   >}}
 
-  {{< card 
+  {{< feature-card 
     image="/products/evervideo/screenshots/2880x1800/6.png" 
     title="Manajer Playlist" 
     method="Fill"
@@ -219,7 +219,7 @@ Desain Intuitif
     icon="collection"
   >}}
 
-  {{< card 
+  {{< feature-card 
     image="/products/evervideo/screenshots/2880x1800/5.png" 
     title="Perpustakaan Media" 
     method="Fill"
@@ -228,7 +228,7 @@ Desain Intuitif
     icon="library"
   >}}
 
-  {{< card 
+  {{< feature-card 
     image="/products/evervideo/screenshots/2880x1800/7.png"  
     title="Penyimpanan Cloud" 
     method="Fill"
@@ -237,7 +237,7 @@ Desain Intuitif
     icon="cloud"
   >}}
 
-  {{< card 
+  {{< feature-card 
     image="/products/evervideo/screenshots/2880x1800/9.png"  
     title="Manajer File" 
     method="Fill"
@@ -656,17 +656,17 @@ Catatan: Pastikan JavaScript diaktifkan dan Anda menggunakan versi browser terba
 </div>
 
 {{< cards >}}
-  {{< card icon="location-marker" title="Navigasi" subtitle="Pelajari cara menavigasi Evervideo menggunakan Bilah Tab di iPhone atau Menu Kiri di iPad dan Mac, plus pemutar video ringkas yang selalu terlihat di layar." link="/docs/guide/evervideo/evervideo-guide-navigation" >}}
+  {{< feature-card icon="location-marker" title="Navigasi" subtitle="Pelajari cara menavigasi Evervideo menggunakan Bilah Tab di iPhone atau Menu Kiri di iPad dan Mac, plus pemutar video ringkas yang selalu terlihat di layar." link="/docs/guide/evervideo/evervideo-guide-navigation" >}}
 
-  {{< card icon="folder" title="Berkas" subtitle="Hubungkan akun cloud, berbagi NAS, server media (Plex, Jellyfin, Emby, Subsonic, Navidrome), aliran RTSP, dan berkas lokal dalam satu tab terpadu." link="/docs/guide/evervideo/evervideo-guide-files" >}}
+  {{< feature-card icon="folder" title="Berkas" subtitle="Hubungkan akun cloud, berbagi NAS, server media (Plex, Jellyfin, Emby, Subsonic, Navidrome), aliran RTSP, dan berkas lokal dalam satu tab terpadu." link="/docs/guide/evervideo/evervideo-guide-files" >}}
 
-  {{< card icon="library" title="Pustaka Media" subtitle="Atur dan jelajahi video dan musik Anda berdasarkan Album, Genre, Terbaru, dan Favorit — termasuk pustaka Foto iOS dan pustaka Apple Music." link="/docs/guide/evervideo/evervideo-guide-video-library" >}}
+  {{< feature-card icon="library" title="Pustaka Media" subtitle="Atur dan jelajahi video dan musik Anda berdasarkan Album, Genre, Terbaru, dan Favorit — termasuk pustaka Foto iOS dan pustaka Apple Music." link="/docs/guide/evervideo/evervideo-guide-video-library" >}}
 
-  {{< card icon="collection" title="Daftar Putar" subtitle="Buat dan atur daftar putar untuk video, musik, serial, atau kursus, dan impor berkas M3U / M3U8 / CUE." link="/docs/guide/evervideo/evervideo-guide-playlists" >}}
+  {{< feature-card icon="collection" title="Daftar Putar" subtitle="Buat dan atur daftar putar untuk video, musik, serial, atau kursus, dan impor berkas M3U / M3U8 / CUE." link="/docs/guide/evervideo/evervideo-guide-playlists" >}}
 
-  {{< card icon="play" title="Pemutar Media" subtitle="Kendalikan pemutaran, antrean, Gambar dalam Gambar, trek audio dan video, subtitle utama dan sekunder, serta equalizer audio dan video." link="/docs/guide/evervideo/evervideo-guide-player" >}}
+  {{< feature-card icon="play" title="Pemutar Media" subtitle="Kendalikan pemutaran, antrean, Gambar dalam Gambar, trek audio dan video, subtitle utama dan sekunder, serta equalizer audio dan video." link="/docs/guide/evervideo/evervideo-guide-player" >}}
 
-  {{< card icon="adjustments" title="Pengaturan" subtitle="Sesuaikan tampilan, dekoder, equalizer, subtitle, widget, bahasa, kode sandi, pencadangan, dan pengaturan kinerja Evervideo." link="/docs/guide/evervideo/evervideo-guide-settings" >}}
+  {{< feature-card icon="adjustments" title="Pengaturan" subtitle="Sesuaikan tampilan, dekoder, equalizer, subtitle, widget, bahasa, kode sandi, pencadangan, dan pengaturan kinerja Evervideo." link="/docs/guide/evervideo/evervideo-guide-settings" >}}
 
 {{< /cards >}}
 

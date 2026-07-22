@@ -354,17 +354,17 @@ Dropbox, OneDrive, Box, MEGA, Yandex.Disk, MediaFire, pCloud, HiDrive. ניתן 
 </div>
 
 {{< cards >}}
-  {{< card icon="location-marker" title="ניווט" subtitle="למדו לנווט בקלות באפליקציה שלנו באמצעות סרגל הלשוניות (לאייפון) או התפריט השמאלי (לאייפד ומק)." link="/docs/guide/evertag/evertag-guide-navigation" >}}
+  {{< feature-card icon="location-marker" title="ניווט" subtitle="למדו לנווט בקלות באפליקציה שלנו באמצעות סרגל הלשוניות (לאייפון) או התפריט השמאלי (לאייפד ומק)." link="/docs/guide/evertag/evertag-guide-navigation" >}}
 
-  {{< card icon="cloud" title="חיבורים" subtitle="חברו בקלות את כל חשבונות הענן שלכם לקבצי האודיו שלכם. ערכו קבצים מקוונים עם מנהל הקבצים המובנה." link="/docs/guide/evertag/evertag-guide-connections" >}}
+  {{< feature-card icon="cloud" title="חיבורים" subtitle="חברו בקלות את כל חשבונות הענן שלכם לקבצי האודיו שלכם. ערכו קבצים מקוונים עם מנהל הקבצים המובנה." link="/docs/guide/evertag/evertag-guide-connections" >}}
 
-  {{< card icon="folder" title="קבצים מקומיים" subtitle="צפו וארגנו קבצים השמורים בתיקיית Documents של האפליקציה או במכשיר שלכם." link="/docs/guide/evertag/evertag-guide-local-files" >}}
+  {{< feature-card icon="folder" title="קבצים מקומיים" subtitle="צפו וארגנו קבצים השמורים בתיקיית Documents של האפליקציה או במכשיר שלכם." link="/docs/guide/evertag/evertag-guide-local-files" >}}
 
-  {{< card icon="pencil-alt" title="עורך תגיות" subtitle="שלטו באומנות עריכת מטא-נתוני קבצי אודיו. למדו לערוך מטא-נתונים, לשנות עטיפות ולנהל קבצים מרובים." link="/docs/guide/evertag/evertag-guide-tag-editor" >}}
+  {{< feature-card icon="pencil-alt" title="עורך תגיות" subtitle="שלטו באומנות עריכת מטא-נתוני קבצי אודיו. למדו לערוך מטא-נתונים, לשנות עטיפות ולנהל קבצים מרובים." link="/docs/guide/evertag/evertag-guide-tag-editor" >}}
 
-  {{< card icon="code" title="מיפוי שדות תגיות" subtitle="גלו את הרשימה המלאה של שדות תגיות אודיו הנתמכים על ידי Evertag." link="/docs/guide/evertag/evertag-tag-field-mappings" >}}
+  {{< feature-card icon="code" title="מיפוי שדות תגיות" subtitle="גלו את הרשימה המלאה של שדות תגיות אודיו הנתמכים על ידי Evertag." link="/docs/guide/evertag/evertag-tag-field-mappings" >}}
 
-  {{< card icon="adjustments" title="הגדרות" subtitle="גלו כיצד להתאים אישית את חוויית האפליקציה, הביצועים והעדפות השפה." link="/docs/guide/evertag/evertag-guide-settings" >}}
+  {{< feature-card icon="adjustments" title="הגדרות" subtitle="גלו כיצד להתאים אישית את חוויית האפליקציה, הביצועים והעדפות השפה." link="/docs/guide/evertag/evertag-guide-settings" >}}
 
 {{< /cards >}}
 

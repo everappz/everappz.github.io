@@ -127,29 +127,29 @@ Streaming από USB flash drives ή δικτυακή αποθήκευση (NAS)
 
 {{< cards >}}
 
-  {{< card title="Υποστήριξη ήχου χωρίς απώλειες" subtitle="Αναπαράγετε FLAC, ALAC, WAV, APE, DFF, WV, AIFF και πολλές άλλες μορφές υψηλής ποιότητας." icon="music-note" >}}
-  {{< card title="Λειτουργία offline" subtitle="Κατεβάστε άλμπουμ, λίστες αναπαραγωγής και κομμάτια για offline αναπαραγωγή ανά πάσα στιγμή." icon="download" >}}
-  {{< card title="Διαχείριση αρχείων" subtitle="Αντιγράψτε, μετακινήστε, μετονομάστε και διαγράψτε αρχεία εύκολα μέσα στην εφαρμογή." icon="folder" >}}
+  {{< feature-card title="Υποστήριξη ήχου χωρίς απώλειες" subtitle="Αναπαράγετε FLAC, ALAC, WAV, APE, DFF, WV, AIFF και πολλές άλλες μορφές υψηλής ποιότητας." icon="music-note" >}}
+  {{< feature-card title="Λειτουργία offline" subtitle="Κατεβάστε άλμπουμ, λίστες αναπαραγωγής και κομμάτια για offline αναπαραγωγή ανά πάσα στιγμή." icon="download" >}}
+  {{< feature-card title="Διαχείριση αρχείων" subtitle="Αντιγράψτε, μετακινήστε, μετονομάστε και διαγράψτε αρχεία εύκολα μέσα στην εφαρμογή." icon="folder" >}}
 
-  {{< card title="Προσαρμοσμένες λίστες αναπαραγωγής" subtitle="Δημιουργήστε, επεξεργαστείτε, αναδιατάξτε λίστες αναπαραγωγής και εξάγετε ή εισάγετε αρχεία M3U." icon="collection" >}}
-  {{< card title="Μουσική βιβλιοθήκη" subtitle="Προσθέστε μουσική και οργανώστε την ανά άλμπουμ, καλλιτέχνη και είδος χρησιμοποιώντας tags." icon="library" >}}
-  {{< card title="Προηγμένη αναζήτηση" subtitle="Βρείτε γρήγορα τραγούδια, καλλιτέχνες ή άλμπουμ με έξυπνα εργαλεία αναζήτησης." icon="search" >}}
+  {{< feature-card title="Προσαρμοσμένες λίστες αναπαραγωγής" subtitle="Δημιουργήστε, επεξεργαστείτε, αναδιατάξτε λίστες αναπαραγωγής και εξάγετε ή εισάγετε αρχεία M3U." icon="collection" >}}
+  {{< feature-card title="Μουσική βιβλιοθήκη" subtitle="Προσθέστε μουσική και οργανώστε την ανά άλμπουμ, καλλιτέχνη και είδος χρησιμοποιώντας tags." icon="library" >}}
+  {{< feature-card title="Προηγμένη αναζήτηση" subtitle="Βρείτε γρήγορα τραγούδια, καλλιτέχνες ή άλμπουμ με έξυπνα εργαλεία αναζήτησης." icon="search" >}}
 
-  {{< card title="Cloud streaming" subtitle="Streaming από Google Drive, Dropbox, OneDrive, iCloud, MEGA και άλλα." icon="cloud" >}}
-  {{< card title="Πρόσβαση σε NAS και υπολογιστή" subtitle="Συνδεθείτε μέσω SMB, DLNA ή WebDAV. Μεταφέρετε με iTunes ή Wi-Fi." icon="desktop-computer" >}}
-  {{< card title="Κάρτες USB flash" subtitle="Αναπαράγετε μουσική απευθείας από κάρτες SD χρησιμοποιώντας προσαρμογείς USB όπως iXpand." icon="inbox" >}}
+  {{< feature-card title="Cloud streaming" subtitle="Streaming από Google Drive, Dropbox, OneDrive, iCloud, MEGA και άλλα." icon="cloud" >}}
+  {{< feature-card title="Πρόσβαση σε NAS και υπολογιστή" subtitle="Συνδεθείτε μέσω SMB, DLNA ή WebDAV. Μεταφέρετε με iTunes ή Wi-Fi." icon="desktop-computer" >}}
+  {{< feature-card title="Κάρτες USB flash" subtitle="Αναπαράγετε μουσική απευθείας από κάρτες SD χρησιμοποιώντας προσαρμογείς USB όπως iXpand." icon="inbox" >}}
 
-  {{< card title="Έλεγχοι αναπαραγωγής" subtitle="Αλλάξτε ταχύτητα και τόνο αναπαραγωγής για τέλειο έλεγχο ήχου." icon="fast-forward" >}}
-  {{< card title="Στίχοι και σχόλια" subtitle="Δείτε ενσωματωμένους στίχους και σχόλια κατά την αναπαραγωγή τραγουδιών." icon="annotation" >}}
-  {{< card title="Επεξεργαστής ID3 Tags" subtitle="Επεξεργαστείτε και διορθώστε μεταδεδομένα όπως τίτλο, καλλιτέχνη ή άλμπουμ με το ενσωματωμένο εργαλείο." icon="pencil-alt" >}}
+  {{< feature-card title="Έλεγχοι αναπαραγωγής" subtitle="Αλλάξτε ταχύτητα και τόνο αναπαραγωγής για τέλειο έλεγχο ήχου." icon="fast-forward" >}}
+  {{< feature-card title="Στίχοι και σχόλια" subtitle="Δείτε ενσωματωμένους στίχους και σχόλια κατά την αναπαραγωγή τραγουδιών." icon="annotation" >}}
+  {{< feature-card title="Επεξεργαστής ID3 Tags" subtitle="Επεξεργαστείτε και διορθώστε μεταδεδομένα όπως τίτλο, καλλιτέχνη ή άλμπουμ με το ενσωματωμένο εργαλείο." icon="pencil-alt" >}}
 
-  {{< card title="Ισοσταθμιστής και ενίσχυση" subtitle="Χρησιμοποιήστε προεπιλογές ή ρυθμίστε χειροκίνητα με κέρδος προενισχυτή για πλούσιο ήχο." icon="adjustments" >}}
-  {{< card title="Apple CarPlay" subtitle="Οδηγήστε με ασφάλεια με αποκλειστική διεπαφή CarPlay για αναπαραγωγή μουσικής." icon="truck" >}}
-  {{< card title="AirPlay και Chromecast" subtitle="Μεταδώστε ασύρματα σε συσκευές Apple TV και Google Chromecast." icon="device-mobile" >}}
+  {{< feature-card title="Ισοσταθμιστής και ενίσχυση" subtitle="Χρησιμοποιήστε προεπιλογές ή ρυθμίστε χειροκίνητα με κέρδος προενισχυτή για πλούσιο ήχο." icon="adjustments" >}}
+  {{< feature-card title="Apple CarPlay" subtitle="Οδηγήστε με ασφάλεια με αποκλειστική διεπαφή CarPlay για αναπαραγωγή μουσικής." icon="truck" >}}
+  {{< feature-card title="AirPlay και Chromecast" subtitle="Μεταδώστε ασύρματα σε συσκευές Apple TV και Google Chromecast." icon="device-mobile" >}}
 
-  {{< card title="Ενσωμάτωση Last.fm" subtitle="Παρακολουθήστε στατιστικά μουσικής και λάβετε εξατομικευμένες προτάσεις τραγουδιών." icon="chart-bar" >}}
-  {{< card title="Αυτόματος συγχρονισμός" subtitle="Αυτόματος συγχρονισμός της μουσικής σας βιβλιοθήκης με φακέλους cloud και τοπικούς." icon="refresh" >}}
-  {{< card title="Υποστήριξη ηχοβιβλίων" subtitle="Ακούστε ηχοβιβλία με σελιδοδείκτες, χρονοδιακόπτη ύπνου και συνέχιση αναπαραγωγής από εκεί που σταματήσατε." icon="book-open" >}}
+  {{< feature-card title="Ενσωμάτωση Last.fm" subtitle="Παρακολουθήστε στατιστικά μουσικής και λάβετε εξατομικευμένες προτάσεις τραγουδιών." icon="chart-bar" >}}
+  {{< feature-card title="Αυτόματος συγχρονισμός" subtitle="Αυτόματος συγχρονισμός της μουσικής σας βιβλιοθήκης με φακέλους cloud και τοπικούς." icon="refresh" >}}
+  {{< feature-card title="Υποστήριξη ηχοβιβλίων" subtitle="Ακούστε ηχοβιβλία με σελιδοδείκτες, χρονοδιακόπτη ύπνου και συνέχιση αναπαραγωγής από εκεί που σταματήσατε." icon="book-open" >}}
 
 {{< /cards >}}
 
@@ -167,7 +167,7 @@ Streaming από USB flash drives ή δικτυακή αποθήκευση (NAS)
 
 {{< cards cols="4">}}
 
-  {{< card 
+  {{< feature-card 
     image="/products/flacbox/screenshots/2048x2732/1.png" 
     title="Audio Player" 
     method="Fill"
@@ -176,7 +176,7 @@ Streaming από USB flash drives ή δικτυακή αποθήκευση (NAS)
     icon="play"
   >}}
 
-  {{< card 
+  {{< feature-card 
     image="/products/flacbox/screenshots/2048x2732/2.png"  
     title="Ισοσταθμιστής ήχου" 
     method="Fill"
@@ -185,7 +185,7 @@ Streaming από USB flash drives ή δικτυακή αποθήκευση (NAS)
     icon="adjustments"
   >}}
 
-  {{< card 
+  {{< feature-card 
     image="/products/flacbox/screenshots/2048x2732/3.png"  
     title="Διαχείριση λιστών" 
     method="Fill"
@@ -194,7 +194,7 @@ Streaming από USB flash drives ή δικτυακή αποθήκευση (NAS)
     icon="collection"
   >}}
 
-  {{< card 
+  {{< feature-card 
     image="/products/flacbox/screenshots/2048x2732/5.png"  
     title="Μουσική βιβλιοθήκη" 
     method="Fill"
@@ -203,7 +203,7 @@ Streaming από USB flash drives ή δικτυακή αποθήκευση (NAS)
     icon="library"
   >}}
 
-  {{< card 
+  {{< feature-card 
     image="/products/flacbox/screenshots/2048x2732/7.png"  
     title="Cloud αποθήκευση" 
     method="Fill"
@@ -212,7 +212,7 @@ Streaming από USB flash drives ή δικτυακή αποθήκευση (NAS)
     icon="cloud"
   >}}
 
-  {{< card 
+  {{< feature-card 
     image="/products/flacbox/screenshots/2048x2732/8.png"  
     title="iCloud Drive" 
     method="Fill"
@@ -835,19 +835,19 @@ DLNA Μπορείτε επίσης να ρυθμίσετε έναν DLNA media s
 
 {{< cards >}}
 
-{{< card icon="map" link="/docs/guide/flacbox/flacbox-guide-navigation" title="Πλοήγηση" subtitle="Χρησιμοποιήστε τη γραμμή καρτελών στο iPhone ή το αριστερό μενού σε iPad και Mac." >}}
+{{< feature-card icon="map" link="/docs/guide/flacbox/flacbox-guide-navigation" title="Πλοήγηση" subtitle="Χρησιμοποιήστε τη γραμμή καρτελών στο iPhone ή το αριστερό μενού σε iPad και Mac." >}}
 
-{{< card icon="cloud" link="/docs/guide/flacbox/flacbox-guide-connections" title="Συνδέσεις" subtitle="Συνδέστε Dropbox, Google Drive, iCloud ή το NAS σας." >}}
+{{< feature-card icon="cloud" link="/docs/guide/flacbox/flacbox-guide-connections" title="Συνδέσεις" subtitle="Συνδέστε Dropbox, Google Drive, iCloud ή το NAS σας." >}}
 
-{{< card icon="collection" link="/docs/guide/flacbox/flacbox-guide-music-library" title="Μουσική βιβλιοθήκη" subtitle="Διαχειριστείτε και αναζητήστε κομμάτια κατά καλλιτέχνη, άλμπουμ ή είδος." >}}
+{{< feature-card icon="collection" link="/docs/guide/flacbox/flacbox-guide-music-library" title="Μουσική βιβλιοθήκη" subtitle="Διαχειριστείτε και αναζητήστε κομμάτια κατά καλλιτέχνη, άλμπουμ ή είδος." >}}
 
-{{< card icon="music-note" link="/docs/guide/flacbox/flacbox-guide-playlists" title="Λίστες αναπαραγωγής" subtitle="Δημιουργήστε και οργανώστε λίστες αναπαραγωγής για κάθε διάθεση ή περίσταση." >}}
+{{< feature-card icon="music-note" link="/docs/guide/flacbox/flacbox-guide-playlists" title="Λίστες αναπαραγωγής" subtitle="Δημιουργήστε και οργανώστε λίστες αναπαραγωγής για κάθε διάθεση ή περίσταση." >}}
 
-{{< card icon="folder" link="/docs/guide/flacbox/flacbox-guide-local-files" title="Τοπικά αρχεία" subtitle="Επεξεργαστείτε και αναπαράγετε offline μουσική με τον ενσωματωμένο διαχειριστή αρχείων." >}}
+{{< feature-card icon="folder" link="/docs/guide/flacbox/flacbox-guide-local-files" title="Τοπικά αρχεία" subtitle="Επεξεργαστείτε και αναπαράγετε offline μουσική με τον ενσωματωμένο διαχειριστή αρχείων." >}}
 
-{{< card icon="play" link="/docs/guide/flacbox/flacbox-guide-player" title="Audio Player" subtitle="Ελέγξτε την αναπαραγωγή, ρυθμίστε την ταχύτητα, ορίστε σελιδοδείκτες και άλλα." >}}
+{{< feature-card icon="play" link="/docs/guide/flacbox/flacbox-guide-player" title="Audio Player" subtitle="Ελέγξτε την αναπαραγωγή, ρυθμίστε την ταχύτητα, ορίστε σελιδοδείκτες και άλλα." >}}
 
-{{< card icon="adjustments" link="/docs/guide/flacbox/flacbox-guide-settings" title="Ρυθμίσεις" subtitle="Προσαρμόστε τον ισοσταθμιστή, την εμφάνιση και τη συμπεριφορά της εφαρμογής." >}}
+{{< feature-card icon="adjustments" link="/docs/guide/flacbox/flacbox-guide-settings" title="Ρυθμίσεις" subtitle="Προσαρμόστε τον ισοσταθμιστή, την εμφάνιση και τη συμπεριφορά της εφαρμογής." >}}
 
 {{< /cards >}}
 

@@ -148,7 +148,7 @@ Evermusic הוא נגן מוזיקה חינמי במצב לא מקוון ל-iPho
 
 {{< cards cols="4">}}
 
-  {{< card 
+  {{< feature-card 
     icon="adjustments"
     image="/products/evermusic/screenshots/2048x2732/3.png" 
     title="אקולייזר אודיו" 
@@ -157,7 +157,7 @@ Evermusic הוא נגן מוזיקה חינמי במצב לא מקוון ל-iPho
     subtitle="כוונן את הצליל שלך עם אקולייזר בסגנון iPod, פריסטים ניתנים להתאמה אישית וחיזוק קדם-מגבר לחוויית האזנה מיטבית." 
   >}}
 
-  {{< card 
+  {{< feature-card 
     icon="annotation"
     image="/products/evermusic/screenshots/2048x2732/4.png"  
     title="צפייה במילות שירים" 
@@ -166,7 +166,7 @@ Evermusic הוא נגן מוזיקה חינמי במצב לא מקוון ל-iPho
     subtitle="קרא מילות שירים מוטמעות והערות שירים בזמן האזנה. תיהנה ממילות שירים מסונכרנות לחוויה מוזיקלית עשירה יותר." 
   >}}
 
-  {{< card 
+  {{< feature-card 
     icon="collection"
     image="/products/evermusic/screenshots/2048x2732/5.png"  
     title="מנהל פלייליסטים" 
@@ -175,7 +175,7 @@ Evermusic הוא נגן מוזיקה חינמי במצב לא מקוון ל-iPho
     subtitle="צור וארגן פלייליסטים מותאמים אישית, סדר מחדש שירים, ייצא ל-M3U או ארכב כקבצי ZIP לשיתוף או גיבוי קל." 
   >}}
 
-  {{< card 
+  {{< feature-card 
     icon="cloud"
     image="/products/evermusic/screenshots/2048x2732/6.png"  
     title="הזרמת מוזיקה מהענן" 
@@ -184,7 +184,7 @@ Evermusic הוא נגן מוזיקה חינמי במצב לא מקוון ל-iPho
     subtitle="חבר פלטפורמות אחסון ענן מובילות כמו Google Drive, Dropbox ו-OneDrive להזרמת אוסף המוזיקה שלך בכל זמן ובכל מקום." 
   >}}
 
-  {{< card 
+  {{< feature-card 
     icon="duplicate"
     image="/products/evermusic/screenshots/2048x2732/9.png"  
     title="מנהל קבצים" 
@@ -193,7 +193,7 @@ Evermusic הוא נגן מוזיקה חינמי במצב לא מקוון ל-iPho
     subtitle="נהל בקלות את קבצי האודיו שלך — שנה שמות שירים, ארגן תיקיות והעבר מוזיקה בין מכשירים באמצעות כלים מובנים." 
   >}} 
 
-  {{< card 
+  {{< feature-card 
     icon="sun"
     image="/products/evermusic/screenshots/2048x2732/10.png"  
     title="התאמה אישית של האפליקציה" 
@@ -218,41 +218,41 @@ Evermusic הוא נגן מוזיקה חינמי במצב לא מקוון ל-iPho
 
 {{< cards >}}
 
-  {{< card title="פורמטי אודיו" subtitle="תומך ב: mp3, m4a, flac, wav, aac, mp4, m3u, m3u8, m4b, m4p, aiff, ogg, mp2, ac3, wma ועוד." icon="music-note" >}}
+  {{< feature-card title="פורמטי אודיו" subtitle="תומך ב: mp3, m4a, flac, wav, aac, mp4, m3u, m3u8, m4b, m4p, aiff, ogg, mp2, ac3, wma ועוד." icon="music-note" >}}
 
-  {{< card title="ספרי שמע" subtitle="כולל סימניות אודיו, בקרת מהירות נגינה וחזרה למיקום." icon="book-open" width="50">}}
+  {{< feature-card title="ספרי שמע" subtitle="כולל סימניות אודיו, בקרת מהירות נגינה וחזרה למיקום." icon="book-open" width="50">}}
 
-  {{< card title="סנכרון אוטומטי" subtitle="מסנכרן את ספריית המוזיקה שלך עם הענן, מאורגנת לפי אמן, אלבום וז'אנר." icon="refresh" >}}
+  {{< feature-card title="סנכרון אוטומטי" subtitle="מסנכרן את ספריית המוזיקה שלך עם הענן, מאורגנת לפי אמן, אלבום וז'אנר." icon="refresh" >}}
 
-  {{< card title="מנהל קבצים" subtitle="נהל קבצים עם פעולות כמו העתקה, העברה, שינוי שם ומחיקה." icon="folder" >}}
+  {{< feature-card title="מנהל קבצים" subtitle="נהל קבצים עם פעולות כמו העתקה, העברה, שינוי שם ומחיקה." icon="folder" >}}
 
-  {{< card title="שירותי ענן" subtitle="תומך ב-iCloud, Google Drive, Dropbox, OneDrive, Box, MEGA, WD MyCloud Home, pCloud ועוד." icon="cloud" >}}
+  {{< feature-card title="שירותי ענן" subtitle="תומך ב-iCloud, Google Drive, Dropbox, OneDrive, Box, MEGA, WD MyCloud Home, pCloud ועוד." icon="cloud" >}}
 
-  {{< card title="נגינת קרוספייד" subtitle="השיר הבא מתחיל לפני שהנוכחי מסתיים למעברים חלקים." icon="switch-horizontal" >}}
+  {{< feature-card title="נגינת קרוספייד" subtitle="השיר הבא מתחיל לפני שהנוכחי מסתיים למעברים חלקים." icon="switch-horizontal" >}}
 
-  {{< card title="נגינה ללא הפסקות" subtitle="ללא הפסקות בין שירים — אידיאלי לאלבומי לייב, קלאסיים או רעיוניים." icon="volume-up" >}}
+  {{< feature-card title="נגינה ללא הפסקות" subtitle="ללא הפסקות בין שירים — אידיאלי לאלבומי לייב, קלאסיים או רעיוניים." icon="volume-up" >}}
 
-  {{< card title="אקולייזר אודיו" subtitle="אקולייזר ניתן להתאמה אישית עם פריסטים, בקרה ידנית וחיזוק קדם-מגבר." icon="adjustments" >}}
+  {{< feature-card title="אקולייזר אודיו" subtitle="אקולייזר ניתן להתאמה אישית עם פריסטים, בקרה ידנית וחיזוק קדם-מגבר." icon="adjustments" >}}
 
-  {{< card title="חיפוש מתקדם" subtitle="מצא את האלבומים, האמנים והשירים המועדפים עליך במהירות ובקלות." icon="search" >}}
+  {{< feature-card title="חיפוש מתקדם" subtitle="מצא את האלבומים, האמנים והשירים המועדפים עליך במהירות ובקלות." icon="search" >}}
 
-  {{< card title="גישה למחשב" subtitle="התחבר דרך SMB, WebDAV או DLNA. העבר דרך iTunes File Sharing ו-Wi-Fi." icon="desktop-computer" >}}
+  {{< feature-card title="גישה למחשב" subtitle="התחבר דרך SMB, WebDAV או DLNA. העבר דרך iTunes File Sharing ו-Wi-Fi." icon="desktop-computer" >}}
 
-  {{< card title="AirPlay & Chromecast" subtitle="הזרם למכשירי Apple TV ו-Google Chromecast באופן אלחוטי." icon="device-mobile" >}}
+  {{< feature-card title="AirPlay & Chromecast" subtitle="הזרם למכשירי Apple TV ו-Google Chromecast באופן אלחוטי." icon="device-mobile" >}}
 
-  {{< card title="פלייליסטים" subtitle="צור, ערוך, סדר מחדש וייצא/ייבא פלייליסטים M3U עם מצב אופליין." icon="collection" >}}
+  {{< feature-card title="פלייליסטים" subtitle="צור, ערוך, סדר מחדש וייצא/ייבא פלייליסטים M3U עם מצב אופליין." icon="collection" >}}
 
-  {{< card title="כרטיסי USB Flash" subtitle="נגן מוזיקה ישירות מכרטיסי SD באמצעות קוראים חיצוניים כמו SanDisk iXpand." icon="inbox" >}}
+  {{< feature-card title="כרטיסי USB Flash" subtitle="נגן מוזיקה ישירות מכרטיסי SD באמצעות קוראים חיצוניים כמו SanDisk iXpand." icon="inbox" >}}
 
-  {{< card title="מצב אופליין" subtitle="הורד אלבומים ופלייליסטים או שמור אוטומטית במטמון שירים שהושמעו לאחרונה להאזנה אופליין." icon="download" >}}
+  {{< feature-card title="מצב אופליין" subtitle="הורד אלבומים ופלייליסטים או שמור אוטומטית במטמון שירים שהושמעו לאחרונה להאזנה אופליין." icon="download" >}}
 
-  {{< card title="Apple CarPlay" subtitle="נהג בבטחה עם ממשק CarPlay ייעודי לנגינת מוזיקה." icon="truck" >}}
+  {{< feature-card title="Apple CarPlay" subtitle="נהג בבטחה עם ממשק CarPlay ייעודי לנגינת מוזיקה." icon="truck" >}}
 
-  {{< card title="עורך תגיות ID3" subtitle="ערוך מטא-דאטה פגומה או חסרה באמצעות עורך התגיות המובנה." icon="pencil-alt" >}}
+  {{< feature-card title="עורך תגיות ID3" subtitle="ערוך מטא-דאטה פגומה או חסרה באמצעות עורך התגיות המובנה." icon="pencil-alt" >}}
 
-  {{< card title="מילות שירים והערות" subtitle="צפה במילות שירים והערות מוטמעות בזמן האזנה למוזיקה שלך." icon="annotation" >}}
+  {{< feature-card title="מילות שירים והערות" subtitle="צפה במילות שירים והערות מוטמעות בזמן האזנה למוזיקה שלך." icon="annotation" >}}
 
-  {{< card title="Last.fm" subtitle="חבר את חשבון Last.fm שלך לקבלת סטטיסטיקות האזנה מותאמות אישית והמלצות." icon="chart-bar" >}}
+  {{< feature-card title="Last.fm" subtitle="חבר את חשבון Last.fm שלך לקבלת סטטיסטיקות האזנה מותאמות אישית והמלצות." icon="chart-bar" >}}
   
 {{< /cards >}}
 
@@ -704,19 +704,19 @@ mpeg, aifc, 3gp, avi, aif, latm, 3gpp, m4a, loas, cdda, aac, m4p, m4b, ac3, pls,
 </div>
 
 {{< cards >}}
-  {{< card icon="location-marker" title="ניווט" subtitle="למד כיצד לנווט ב-Evermusic באמצעות סרגל הלשוניות באייפון או התפריט השמאלי באייפד ובמק." link="/docs/guide/evermusic/evermusic-guide-navigation" >}}
+  {{< feature-card icon="location-marker" title="ניווט" subtitle="למד כיצד לנווט ב-Evermusic באמצעות סרגל הלשוניות באייפון או התפריט השמאלי באייפד ובמק." link="/docs/guide/evermusic/evermusic-guide-navigation" >}}
 
-  {{< card icon="cloud" title="חיבורים" subtitle="חבר את חשבונות הענן שלך ונהל קבצים מקוונים באמצעות מנהל הקבצים המובנה." link="/docs/guide/evermusic/evermusic-guide-connections" >}}
+  {{< feature-card icon="cloud" title="חיבורים" subtitle="חבר את חשבונות הענן שלך ונהל קבצים מקוונים באמצעות מנהל הקבצים המובנה." link="/docs/guide/evermusic/evermusic-guide-connections" >}}
 
-  {{< card icon="library" title="ספריית מוזיקה" subtitle="ארגן וחקור את השירים, האלבומים והאמנים שלך בספריית המוזיקה." link="/docs/guide/evermusic/evermusic-guide-music-library" >}}
+  {{< feature-card icon="library" title="ספריית מוזיקה" subtitle="ארגן וחקור את השירים, האלבומים והאמנים שלך בספריית המוזיקה." link="/docs/guide/evermusic/evermusic-guide-music-library" >}}
 
-  {{< card icon="collection" title="פלייליסטים" subtitle="צור וארגן פלייליסטים שיתאימו למצב הרוח או לאירוע שלך." link="/docs/guide/evermusic/evermusic-guide-playlists" >}}
+  {{< feature-card icon="collection" title="פלייליסטים" subtitle="צור וארגן פלייליסטים שיתאימו למצב הרוח או לאירוע שלך." link="/docs/guide/evermusic/evermusic-guide-playlists" >}}
 
-  {{< card icon="folder" title="קבצים מקומיים" subtitle="גש ונהל מוזיקה אופליין דרך קטע הקבצים המקומיים." link="/docs/guide/evermusic/evermusic-guide-local-files" >}}
+  {{< feature-card icon="folder" title="קבצים מקומיים" subtitle="גש ונהל מוזיקה אופליין דרך קטע הקבצים המקומיים." link="/docs/guide/evermusic/evermusic-guide-local-files" >}}
 
-  {{< card icon="play" title="נגן אודיו" subtitle="שלוט בנגינה, בתור ובהגדרות האודיו כמו אקולייזר וטיימר שינה." link="/docs/guide/evermusic/evermusic-guide-player" >}}
+  {{< feature-card icon="play" title="נגן אודיו" subtitle="שלוט בנגינה, בתור ובהגדרות האודיו כמו אקולייזר וטיימר שינה." link="/docs/guide/evermusic/evermusic-guide-player" >}}
 
-  {{< card icon="adjustments" title="הגדרות" subtitle="התאם אישית את המראה, התכונות והגדרות הביצועים של Evermusic." link="/docs/guide/evermusic/evermusic-guide-settings" >}}
+  {{< feature-card icon="adjustments" title="הגדרות" subtitle="התאם אישית את המראה, התכונות והגדרות הביצועים של Evermusic." link="/docs/guide/evermusic/evermusic-guide-settings" >}}
 
 {{< /cards >}}
 

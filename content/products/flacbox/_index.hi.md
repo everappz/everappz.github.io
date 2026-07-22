@@ -127,29 +127,29 @@ USB फ्लैश ड्राइव या नेटवर्क स्टो
 
 {{< cards >}}
 
-  {{< card title="लॉसलेस ऑडियो सपोर्ट" subtitle="FLAC, ALAC, WAV, APE, DFF, WV, AIFF और कई अन्य उच्च-गुणवत्ता फ़ॉर्मेट चलाएं।" icon="music-note" >}}
-  {{< card title="ऑफ़लाइन मोड" subtitle="कभी भी ऑफ़लाइन सुनने के लिए एल्बम, प्लेलिस्ट और ट्रैक डाउनलोड करें।" icon="download" >}}
-  {{< card title="फ़ाइल प्रबंधन" subtitle="ऐप के भीतर आसानी से फ़ाइलें कॉपी, मूव, रीनेम और डिलीट करें।" icon="folder" >}}
+  {{< feature-card title="लॉसलेस ऑडियो सपोर्ट" subtitle="FLAC, ALAC, WAV, APE, DFF, WV, AIFF और कई अन्य उच्च-गुणवत्ता फ़ॉर्मेट चलाएं।" icon="music-note" >}}
+  {{< feature-card title="ऑफ़लाइन मोड" subtitle="कभी भी ऑफ़लाइन सुनने के लिए एल्बम, प्लेलिस्ट और ट्रैक डाउनलोड करें।" icon="download" >}}
+  {{< feature-card title="फ़ाइल प्रबंधन" subtitle="ऐप के भीतर आसानी से फ़ाइलें कॉपी, मूव, रीनेम और डिलीट करें।" icon="folder" >}}
 
-  {{< card title="कस्टम प्लेलिस्ट" subtitle="प्लेलिस्ट बनाएं, संपादित करें, पुनर्व्यवस्थित करें और M3U फ़ाइलें एक्सपोर्ट या इंपोर्ट करें।" icon="collection" >}}
-  {{< card title="मीडिया लाइब्रेरी" subtitle="म्यूज़िक जोड़ें और टैग्स का उपयोग करके एल्बम, आर्टिस्ट और जॉनर के अनुसार व्यवस्थित करें।" icon="library" >}}
-  {{< card title="उन्नत खोज" subtitle="स्मार्ट खोज टूल से गाने, आर्टिस्ट या एल्बम जल्दी खोजें।" icon="search" >}}
+  {{< feature-card title="कस्टम प्लेलिस्ट" subtitle="प्लेलिस्ट बनाएं, संपादित करें, पुनर्व्यवस्थित करें और M3U फ़ाइलें एक्सपोर्ट या इंपोर्ट करें।" icon="collection" >}}
+  {{< feature-card title="मीडिया लाइब्रेरी" subtitle="म्यूज़िक जोड़ें और टैग्स का उपयोग करके एल्बम, आर्टिस्ट और जॉनर के अनुसार व्यवस्थित करें।" icon="library" >}}
+  {{< feature-card title="उन्नत खोज" subtitle="स्मार्ट खोज टूल से गाने, आर्टिस्ट या एल्बम जल्दी खोजें।" icon="search" >}}
 
-  {{< card title="क्लाउड स्ट्रीमिंग" subtitle="Google Drive, Dropbox, OneDrive, iCloud, MEGA और अधिक से स्ट्रीम करें।" icon="cloud" >}}
-  {{< card title="NAS और कंप्यूटर एक्सेस" subtitle="SMB, DLNA या WebDAV से कनेक्ट करें। iTunes या Wi-Fi से ट्रांसफ़र करें।" icon="desktop-computer" >}}
-  {{< card title="USB फ्लैश कार्ड" subtitle="iXpand जैसे USB एडाप्टर का उपयोग करके SD कार्ड से सीधे म्यूज़िक चलाएं।" icon="inbox" >}}
+  {{< feature-card title="क्लाउड स्ट्रीमिंग" subtitle="Google Drive, Dropbox, OneDrive, iCloud, MEGA और अधिक से स्ट्रीम करें।" icon="cloud" >}}
+  {{< feature-card title="NAS और कंप्यूटर एक्सेस" subtitle="SMB, DLNA या WebDAV से कनेक्ट करें। iTunes या Wi-Fi से ट्रांसफ़र करें।" icon="desktop-computer" >}}
+  {{< feature-card title="USB फ्लैश कार्ड" subtitle="iXpand जैसे USB एडाप्टर का उपयोग करके SD कार्ड से सीधे म्यूज़िक चलाएं।" icon="inbox" >}}
 
-  {{< card title="प्लेबैक कंट्रोल" subtitle="सही ऑडियो कंट्रोल के लिए प्लेबैक स्पीड और पिच बदलें।" icon="fast-forward" >}}
-  {{< card title="लिरिक्स और टिप्पणियां" subtitle="गाने चलाते समय एम्बेडेड लिरिक्स और टिप्पणियां देखें।" icon="annotation" >}}
-  {{< card title="ID3 टैग एडिटर" subtitle="बिल्ट-इन टूल से टाइटल, आर्टिस्ट या एल्बम जैसे मेटाडेटा संपादित और ठीक करें।" icon="pencil-alt" >}}
+  {{< feature-card title="प्लेबैक कंट्रोल" subtitle="सही ऑडियो कंट्रोल के लिए प्लेबैक स्पीड और पिच बदलें।" icon="fast-forward" >}}
+  {{< feature-card title="लिरिक्स और टिप्पणियां" subtitle="गाने चलाते समय एम्बेडेड लिरिक्स और टिप्पणियां देखें।" icon="annotation" >}}
+  {{< feature-card title="ID3 टैग एडिटर" subtitle="बिल्ट-इन टूल से टाइटल, आर्टिस्ट या एल्बम जैसे मेटाडेटा संपादित और ठीक करें।" icon="pencil-alt" >}}
 
-  {{< card title="इक्वलाइज़र और बूस्ट" subtitle="समृद्ध ध्वनि के लिए प्रीसेट का उपयोग करें या प्रीएम्प गेन के साथ मैन्युअली एडजस्ट करें।" icon="adjustments" >}}
-  {{< card title="Apple CarPlay" subtitle="म्यूज़िक प्लेबैक के लिए समर्पित CarPlay UI के साथ सुरक्षित ड्राइव करें।" icon="truck" >}}
-  {{< card title="AirPlay और Chromecast" subtitle="Apple TV और Google Chromecast डिवाइस पर वायरलेस स्ट्रीम करें।" icon="device-mobile" >}}
+  {{< feature-card title="इक्वलाइज़र और बूस्ट" subtitle="समृद्ध ध्वनि के लिए प्रीसेट का उपयोग करें या प्रीएम्प गेन के साथ मैन्युअली एडजस्ट करें।" icon="adjustments" >}}
+  {{< feature-card title="Apple CarPlay" subtitle="म्यूज़िक प्लेबैक के लिए समर्पित CarPlay UI के साथ सुरक्षित ड्राइव करें।" icon="truck" >}}
+  {{< feature-card title="AirPlay और Chromecast" subtitle="Apple TV और Google Chromecast डिवाइस पर वायरलेस स्ट्रीम करें।" icon="device-mobile" >}}
 
-  {{< card title="Last.fm इंटीग्रेशन" subtitle="म्यूज़िक आंकड़े ट्रैक करें और व्यक्तिगत गाने की सिफारिशें प्राप्त करें।" icon="chart-bar" >}}
-  {{< card title="ऑटोमैटिक सिंक" subtitle="क्लाउड और लोकल फ़ोल्डर के साथ अपनी म्यूज़िक लाइब्रेरी ऑटो-सिंक करें।" icon="refresh" >}}
-  {{< card title="ऑडियोबुक सपोर्ट" subtitle="बुकमार्क, स्लीप टाइमर के साथ ऑडियोबुक सुनें और जहां रुके थे वहां से प्लेबैक फिर शुरू करें।" icon="book-open" >}}
+  {{< feature-card title="Last.fm इंटीग्रेशन" subtitle="म्यूज़िक आंकड़े ट्रैक करें और व्यक्तिगत गाने की सिफारिशें प्राप्त करें।" icon="chart-bar" >}}
+  {{< feature-card title="ऑटोमैटिक सिंक" subtitle="क्लाउड और लोकल फ़ोल्डर के साथ अपनी म्यूज़िक लाइब्रेरी ऑटो-सिंक करें।" icon="refresh" >}}
+  {{< feature-card title="ऑडियोबुक सपोर्ट" subtitle="बुकमार्क, स्लीप टाइमर के साथ ऑडियोबुक सुनें और जहां रुके थे वहां से प्लेबैक फिर शुरू करें।" icon="book-open" >}}
 
 {{< /cards >}}
 
@@ -167,7 +167,7 @@ USB फ्लैश ड्राइव या नेटवर्क स्टो
 
 {{< cards cols="4">}}
 
-  {{< card 
+  {{< feature-card 
     image="/products/flacbox/screenshots/2048x2732/1.png" 
     title="ऑडियो प्लेयर" 
     method="Fill"
@@ -176,7 +176,7 @@ USB फ्लैश ड्राइव या नेटवर्क स्टो
     icon="play"
   >}}
 
-  {{< card 
+  {{< feature-card 
     image="/products/flacbox/screenshots/2048x2732/2.png"  
     title="ऑडियो इक्वलाइज़र" 
     method="Fill"
@@ -185,7 +185,7 @@ USB फ्लैश ड्राइव या नेटवर्क स्टो
     icon="adjustments"
   >}}
 
-  {{< card 
+  {{< feature-card 
     image="/products/flacbox/screenshots/2048x2732/3.png"  
     title="प्लेलिस्ट मैनेजर" 
     method="Fill"
@@ -194,7 +194,7 @@ USB फ्लैश ड्राइव या नेटवर्क स्टो
     icon="collection"
   >}}
 
-  {{< card 
+  {{< feature-card 
     image="/products/flacbox/screenshots/2048x2732/5.png"  
     title="मीडिया लाइब्रेरी" 
     method="Fill"
@@ -203,7 +203,7 @@ USB फ्लैश ड्राइव या नेटवर्क स्टो
     icon="library"
   >}}
 
-  {{< card 
+  {{< feature-card 
     image="/products/flacbox/screenshots/2048x2732/7.png"  
     title="क्लाउड स्टोरेज" 
     method="Fill"
@@ -212,7 +212,7 @@ USB फ्लैश ड्राइव या नेटवर्क स्टो
     icon="cloud"
   >}}
 
-  {{< card 
+  {{< feature-card 
     image="/products/flacbox/screenshots/2048x2732/8.png"  
     title="iCloud Drive" 
     method="Fill"
@@ -835,19 +835,19 @@ CarPlay का उपयोग करने के लिए, सुनिश्
 
 {{< cards >}}
 
-{{< card icon="map" link="/docs/guide/flacbox/flacbox-guide-navigation" title="नेविगेशन" subtitle="iPhone पर टैब बार या iPad और Mac पर बाएं मेनू का उपयोग करें।" >}}
+{{< feature-card icon="map" link="/docs/guide/flacbox/flacbox-guide-navigation" title="नेविगेशन" subtitle="iPhone पर टैब बार या iPad और Mac पर बाएं मेनू का उपयोग करें।" >}}
 
-{{< card icon="cloud" link="/docs/guide/flacbox/flacbox-guide-connections" title="कनेक्शन" subtitle="Dropbox, Google Drive, iCloud या अपना NAS कनेक्ट करें।" >}}
+{{< feature-card icon="cloud" link="/docs/guide/flacbox/flacbox-guide-connections" title="कनेक्शन" subtitle="Dropbox, Google Drive, iCloud या अपना NAS कनेक्ट करें।" >}}
 
-{{< card icon="collection" link="/docs/guide/flacbox/flacbox-guide-music-library" title="म्यूज़िक लाइब्रेरी" subtitle="आर्टिस्ट, एल्बम या जॉनर के अनुसार ट्रैक प्रबंधित और खोजें।" >}}
+{{< feature-card icon="collection" link="/docs/guide/flacbox/flacbox-guide-music-library" title="म्यूज़िक लाइब्रेरी" subtitle="आर्टिस्ट, एल्बम या जॉनर के अनुसार ट्रैक प्रबंधित और खोजें।" >}}
 
-{{< card icon="music-note" link="/docs/guide/flacbox/flacbox-guide-playlists" title="प्लेलिस्ट" subtitle="किसी भी मूड या अवसर के लिए प्लेलिस्ट बनाएं और व्यवस्थित करें।" >}}
+{{< feature-card icon="music-note" link="/docs/guide/flacbox/flacbox-guide-playlists" title="प्लेलिस्ट" subtitle="किसी भी मूड या अवसर के लिए प्लेलिस्ट बनाएं और व्यवस्थित करें।" >}}
 
-{{< card icon="folder" link="/docs/guide/flacbox/flacbox-guide-local-files" title="लोकल फ़ाइलें" subtitle="बिल्ट-इन फ़ाइल मैनेजर के साथ ऑफ़लाइन म्यूज़िक संपादित और चलाएं।" >}}
+{{< feature-card icon="folder" link="/docs/guide/flacbox/flacbox-guide-local-files" title="लोकल फ़ाइलें" subtitle="बिल्ट-इन फ़ाइल मैनेजर के साथ ऑफ़लाइन म्यूज़िक संपादित और चलाएं।" >}}
 
-{{< card icon="play" link="/docs/guide/flacbox/flacbox-guide-player" title="ऑडियो प्लेयर" subtitle="प्लेबैक कंट्रोल करें, स्पीड एडजस्ट करें, बुकमार्क सेट करें और अधिक।" >}}
+{{< feature-card icon="play" link="/docs/guide/flacbox/flacbox-guide-player" title="ऑडियो प्लेयर" subtitle="प्लेबैक कंट्रोल करें, स्पीड एडजस्ट करें, बुकमार्क सेट करें और अधिक।" >}}
 
-{{< card icon="adjustments" link="/docs/guide/flacbox/flacbox-guide-settings" title="सेटिंग्स" subtitle="इक्वलाइज़र, अपीयरेंस और ऐप व्यवहार कस्टमाइज़ करें।" >}}
+{{< feature-card icon="adjustments" link="/docs/guide/flacbox/flacbox-guide-settings" title="सेटिंग्स" subtitle="इक्वलाइज़र, अपीयरेंस और ऐप व्यवहार कस्टमाइज़ करें।" >}}
 
 {{< /cards >}}
 

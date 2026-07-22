@@ -491,17 +491,17 @@ Evertag 설정의 메타데이터 업데이트 기본 설정 섹션에서 이러
 </div>
 
 {{< cards >}}
-  {{< card icon="location-marker" title="탐색" subtitle="탭 바(iPhone 사용자) 또는 왼쪽 메뉴(iPad 및 Mac 사용자)를 사용하여 앱의 모든 기능에 접근하고 탐색하는 방법을 알아보세요." link="/docs/guide/evertag/evertag-guide-navigation" >}}
+  {{< feature-card icon="location-marker" title="탐색" subtitle="탭 바(iPhone 사용자) 또는 왼쪽 메뉴(iPad 및 Mac 사용자)를 사용하여 앱의 모든 기능에 접근하고 탐색하는 방법을 알아보세요." link="/docs/guide/evertag/evertag-guide-navigation" >}}
 
-  {{< card icon="cloud" title="연결" subtitle="소중한 오디오 파일이 있는 모든 클라우드 계정을 손쉽게 연결하세요. 통합 파일 관리자를 사용하여 온라인 파일도 손쉽게 편집할 수 있습니다." link="/docs/guide/evertag/evertag-guide-connections" >}}
+  {{< feature-card icon="cloud" title="연결" subtitle="소중한 오디오 파일이 있는 모든 클라우드 계정을 손쉽게 연결하세요. 통합 파일 관리자를 사용하여 온라인 파일도 손쉽게 편집할 수 있습니다." link="/docs/guide/evertag/evertag-guide-connections" >}}
 
-  {{< card icon="folder" title="로컬 파일" subtitle="앱의 문서 폴더나 기기에 저장된 파일을 보고 정리하세요. 내장 파일 관리자를 사용하여 오디오 파일을 쉽게 편집하고 관리하세요." link="/docs/guide/evertag/evertag-guide-local-files" >}}
+  {{< feature-card icon="folder" title="로컬 파일" subtitle="앱의 문서 폴더나 기기에 저장된 파일을 보고 정리하세요. 내장 파일 관리자를 사용하여 오디오 파일을 쉽게 편집하고 관리하세요." link="/docs/guide/evertag/evertag-guide-local-files" >}}
 
-  {{< card icon="pencil-alt" title="태그 편집기" subtitle="오디오 파일 메타데이터 조작 기술을 마스터하세요. 메타데이터 편집, 앨범 커버 변환, 여러 파일 동시 관리 방법을 알아보세요." link="/docs/guide/evertag/evertag-guide-tag-editor" >}}
+  {{< feature-card icon="pencil-alt" title="태그 편집기" subtitle="오디오 파일 메타데이터 조작 기술을 마스터하세요. 메타데이터 편집, 앨범 커버 변환, 여러 파일 동시 관리 방법을 알아보세요." link="/docs/guide/evertag/evertag-guide-tag-editor" >}}
 
-  {{< card icon="code" title="태그 필드 매핑" subtitle="Evertag 앱에서 지원하는 오디오 태그 필드의 전체 목록을 탐색하세요. 내부 필드 이름과 주요 메타데이터 형식 간의 매핑을 포함합니다." link="/docs/guide/evertag/evertag-tag-field-mappings" >}}
+  {{< feature-card icon="code" title="태그 필드 매핑" subtitle="Evertag 앱에서 지원하는 오디오 태그 필드의 전체 목록을 탐색하세요. 내부 필드 이름과 주요 메타데이터 형식 간의 매핑을 포함합니다." link="/docs/guide/evertag/evertag-tag-field-mappings" >}}
 
-  {{< card icon="adjustments" title="설정" subtitle="앱 경험을 사용자 정의하고, 성능을 미세 조정하고, 데이터 사용량을 관리하고, 언어 및 사용자 인터페이스 기본 설정을 조정하는 방법을 알아보세요." link="/docs/guide/evertag/evertag-guide-settings" >}}
+  {{< feature-card icon="adjustments" title="설정" subtitle="앱 경험을 사용자 정의하고, 성능을 미세 조정하고, 데이터 사용량을 관리하고, 언어 및 사용자 인터페이스 기본 설정을 조정하는 방법을 알아보세요." link="/docs/guide/evertag/evertag-guide-settings" >}}
 
 {{< /cards >}}
 

@@ -491,17 +491,17 @@ Dropbox、OneDrive、Box、MEGA、Yandex.Disk、MediaFire、pCloud、HiDrive。<
 </div>
 
 {{< cards >}}
-  {{< card icon="location-marker" title="導覽" subtitle="了解如何使用標籤列（iPhone使用者）或左側選單（iPad和Mac使用者）輕鬆導覽我們的應用程式，以存取和探索應用程式的所有功能。" link="/docs/guide/evertag/evertag-guide-navigation" >}}
+  {{< feature-card icon="location-marker" title="導覽" subtitle="了解如何使用標籤列（iPhone使用者）或左側選單（iPad和Mac使用者）輕鬆導覽我們的應用程式，以存取和探索應用程式的所有功能。" link="/docs/guide/evertag/evertag-guide-navigation" >}}
 
-  {{< card icon="cloud" title="連線" subtitle="輕鬆將所有可用的雲端帳戶與您珍貴的音訊檔案連結。您甚至可以使用我們的內建檔案管理器輕鬆編輯線上檔案。" link="/docs/guide/evertag/evertag-guide-connections" >}}
+  {{< feature-card icon="cloud" title="連線" subtitle="輕鬆將所有可用的雲端帳戶與您珍貴的音訊檔案連結。您甚至可以使用我們的內建檔案管理器輕鬆編輯線上檔案。" link="/docs/guide/evertag/evertag-guide-connections" >}}
 
-  {{< card icon="folder" title="本機檔案" subtitle="檢視和整理儲存在應用程式文件資料夾或裝置上的檔案。使用內建檔案管理器輕鬆編輯和管理您的音訊檔案。" link="/docs/guide/evertag/evertag-guide-local-files" >}}
+  {{< feature-card icon="folder" title="本機檔案" subtitle="檢視和整理儲存在應用程式文件資料夾或裝置上的檔案。使用內建檔案管理器輕鬆編輯和管理您的音訊檔案。" link="/docs/guide/evertag/evertag-guide-local-files" >}}
 
-  {{< card icon="pencil-alt" title="標籤編輯器" subtitle="掌握音訊檔案中繼資料操作的技巧。了解如何編輯中繼資料、更換專輯封面以及無縫管理多個檔案。" link="/docs/guide/evertag/evertag-guide-tag-editor" >}}
+  {{< feature-card icon="pencil-alt" title="標籤編輯器" subtitle="掌握音訊檔案中繼資料操作的技巧。了解如何編輯中繼資料、更換專輯封面以及無縫管理多個檔案。" link="/docs/guide/evertag/evertag-guide-tag-editor" >}}
 
-  {{< card icon="code" title="標籤欄位對應" subtitle="瀏覽Evertag應用程式支援的音訊標籤欄位完整清單，包括內部欄位名稱和跨主要中繼資料格式的對應。" link="/docs/guide/evertag/evertag-tag-field-mappings" >}}
+  {{< feature-card icon="code" title="標籤欄位對應" subtitle="瀏覽Evertag應用程式支援的音訊標籤欄位完整清單，包括內部欄位名稱和跨主要中繼資料格式的對應。" link="/docs/guide/evertag/evertag-tag-field-mappings" >}}
 
-  {{< card icon="adjustments" title="設定" subtitle="了解如何自訂您的應用程式體驗、微調效能、管理資料使用以及根據您的喜好調整語言和使用者介面偏好。" link="/docs/guide/evertag/evertag-guide-settings" >}}
+  {{< feature-card icon="adjustments" title="設定" subtitle="了解如何自訂您的應用程式體驗、微調效能、管理資料使用以及根據您的喜好調整語言和使用者介面偏好。" link="/docs/guide/evertag/evertag-guide-settings" >}}
 
 {{< /cards >}}
 

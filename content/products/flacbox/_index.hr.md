@@ -127,29 +127,29 @@ Sveobuhvatne značajke
 
 {{< cards >}}
 
-  {{< card title="Podrška za bezgubitni audio" subtitle="Reproducirajte FLAC, ALAC, WAV, APE, DFF, WV, AIFF i mnoge druge visokokvalitetne formate." icon="music-note" >}}
-  {{< card title="Offline način" subtitle="Preuzmite albume, playliste i pjesme za offline reprodukciju u bilo koje vrijeme." icon="download" >}}
-  {{< card title="Upravljanje datotekama" subtitle="Jednostavno kopirajte, premještajte, preimenujte i brišite datoteke unutar aplikacije." icon="folder" >}}
+  {{< feature-card title="Podrška za bezgubitni audio" subtitle="Reproducirajte FLAC, ALAC, WAV, APE, DFF, WV, AIFF i mnoge druge visokokvalitetne formate." icon="music-note" >}}
+  {{< feature-card title="Offline način" subtitle="Preuzmite albume, playliste i pjesme za offline reprodukciju u bilo koje vrijeme." icon="download" >}}
+  {{< feature-card title="Upravljanje datotekama" subtitle="Jednostavno kopirajte, premještajte, preimenujte i brišite datoteke unutar aplikacije." icon="folder" >}}
 
-  {{< card title="Prilagođene playliste" subtitle="Stvarajte, uređujte, preuređujte playliste te izvozite ili uvozite M3U datoteke." icon="collection" >}}
-  {{< card title="Medijska biblioteka" subtitle="Dodajte glazbu i organizirajte je po albumu, izvođaču i žanru pomoću oznaka." icon="library" >}}
-  {{< card title="Napredno pretraživanje" subtitle="Brzo pronađite pjesme, izvođače ili albume pametnim alatima za pretraživanje." icon="search" >}}
+  {{< feature-card title="Prilagođene playliste" subtitle="Stvarajte, uređujte, preuređujte playliste te izvozite ili uvozite M3U datoteke." icon="collection" >}}
+  {{< feature-card title="Medijska biblioteka" subtitle="Dodajte glazbu i organizirajte je po albumu, izvođaču i žanru pomoću oznaka." icon="library" >}}
+  {{< feature-card title="Napredno pretraživanje" subtitle="Brzo pronađite pjesme, izvođače ili albume pametnim alatima za pretraživanje." icon="search" >}}
 
-  {{< card title="Streaming iz oblaka" subtitle="Streamajte s Google Drivea, Dropboxa, OneDrivea, iClouda, MEGA i više." icon="cloud" >}}
-  {{< card title="Pristup NAS-u i računalu" subtitle="Povežite se putem SMB, DLNA ili WebDAV. Prenosite s iTunesom ili Wi-Fi." icon="desktop-computer" >}}
-  {{< card title="USB flash kartice" subtitle="Reproducirajte glazbu izravno s SD kartica pomoću USB adaptera poput iXpand." icon="inbox" >}}
+  {{< feature-card title="Streaming iz oblaka" subtitle="Streamajte s Google Drivea, Dropboxa, OneDrivea, iClouda, MEGA i više." icon="cloud" >}}
+  {{< feature-card title="Pristup NAS-u i računalu" subtitle="Povežite se putem SMB, DLNA ili WebDAV. Prenosite s iTunesom ili Wi-Fi." icon="desktop-computer" >}}
+  {{< feature-card title="USB flash kartice" subtitle="Reproducirajte glazbu izravno s SD kartica pomoću USB adaptera poput iXpand." icon="inbox" >}}
 
-  {{< card title="Kontrole reprodukcije" subtitle="Promijenite brzinu i visinu tona reprodukcije za savršenu audio kontrolu." icon="fast-forward" >}}
-  {{< card title="Tekstovi i komentari" subtitle="Pregledajte ugrađene tekstove pjesama i komentare tijekom reprodukcije." icon="annotation" >}}
-  {{< card title="ID3 uređivač oznaka" subtitle="Uredite i popravite metapodatke poput naslova, izvođača ili albuma ugrađenim alatom." icon="pencil-alt" >}}
+  {{< feature-card title="Kontrole reprodukcije" subtitle="Promijenite brzinu i visinu tona reprodukcije za savršenu audio kontrolu." icon="fast-forward" >}}
+  {{< feature-card title="Tekstovi i komentari" subtitle="Pregledajte ugrađene tekstove pjesama i komentare tijekom reprodukcije." icon="annotation" >}}
+  {{< feature-card title="ID3 uređivač oznaka" subtitle="Uredite i popravite metapodatke poput naslova, izvođača ili albuma ugrađenim alatom." icon="pencil-alt" >}}
 
-  {{< card title="Ekvilajzer i pojačanje" subtitle="Koristite postavke ili ručno prilagodite s preamp pojačanjem za bogat zvuk." icon="adjustments" >}}
-  {{< card title="Apple CarPlay" subtitle="Vozite sigurno s posvećenim CarPlay sučeljem za reprodukciju glazbe." icon="truck" >}}
-  {{< card title="AirPlay i Chromecast" subtitle="Streamajte na Apple TV i Google Chromecast uređaje bežično." icon="device-mobile" >}}
+  {{< feature-card title="Ekvilajzer i pojačanje" subtitle="Koristite postavke ili ručno prilagodite s preamp pojačanjem za bogat zvuk." icon="adjustments" >}}
+  {{< feature-card title="Apple CarPlay" subtitle="Vozite sigurno s posvećenim CarPlay sučeljem za reprodukciju glazbe." icon="truck" >}}
+  {{< feature-card title="AirPlay i Chromecast" subtitle="Streamajte na Apple TV i Google Chromecast uređaje bežično." icon="device-mobile" >}}
 
-  {{< card title="Last.fm integracija" subtitle="Pratite statistiku glazbe i dobivajte personalizirane preporuke pjesama." icon="chart-bar" >}}
-  {{< card title="Automatska sinkronizacija" subtitle="Automatski sinkronizirajte glazbenu biblioteku s oblakom i lokalnim mapama." icon="refresh" >}}
-  {{< card title="Podrška za audioknjige" subtitle="Slušajte audioknjige s oznakama, timerom za spavanje i nastavkom reprodukcije od mjesta gdje ste stali." icon="book-open" >}}
+  {{< feature-card title="Last.fm integracija" subtitle="Pratite statistiku glazbe i dobivajte personalizirane preporuke pjesama." icon="chart-bar" >}}
+  {{< feature-card title="Automatska sinkronizacija" subtitle="Automatski sinkronizirajte glazbenu biblioteku s oblakom i lokalnim mapama." icon="refresh" >}}
+  {{< feature-card title="Podrška za audioknjige" subtitle="Slušajte audioknjige s oznakama, timerom za spavanje i nastavkom reprodukcije od mjesta gdje ste stali." icon="book-open" >}}
 
 {{< /cards >}}
 
@@ -167,7 +167,7 @@ Intuitivan dizajn
 
 {{< cards cols="4">}}
 
-  {{< card 
+  {{< feature-card 
     image="/products/flacbox/screenshots/2048x2732/1.png" 
     title="Audio player" 
     method="Fill"
@@ -176,7 +176,7 @@ Intuitivan dizajn
     icon="play"
   >}}
 
-  {{< card 
+  {{< feature-card 
     image="/products/flacbox/screenshots/2048x2732/2.png"  
     title="Audio ekvilajzer" 
     method="Fill"
@@ -185,7 +185,7 @@ Intuitivan dizajn
     icon="adjustments"
   >}}
 
-  {{< card 
+  {{< feature-card 
     image="/products/flacbox/screenshots/2048x2732/3.png"  
     title="Upravitelj playlista" 
     method="Fill"
@@ -194,7 +194,7 @@ Intuitivan dizajn
     icon="collection"
   >}}
 
-  {{< card 
+  {{< feature-card 
     image="/products/flacbox/screenshots/2048x2732/5.png"  
     title="Medijska biblioteka" 
     method="Fill"
@@ -203,7 +203,7 @@ Intuitivan dizajn
     icon="library"
   >}}
 
-  {{< card 
+  {{< feature-card 
     image="/products/flacbox/screenshots/2048x2732/7.png"  
     title="Pohrana u oblaku" 
     method="Fill"
@@ -212,7 +212,7 @@ Intuitivan dizajn
     icon="cloud"
   >}}
 
-  {{< card 
+  {{< feature-card 
     image="/products/flacbox/screenshots/2048x2732/8.png"  
     title="iCloud Drive" 
     method="Fill"
@@ -835,19 +835,19 @@ Za korištenje CarPlaya provjerite je li Siri omogućena i je li vaš iPhone spo
 
 {{< cards >}}
 
-{{< card icon="map" link="/docs/guide/flacbox/flacbox-guide-navigation" title="Navigacija" subtitle="Koristite traku kartica na iPhoneu ili lijevi izbornik na iPadu i Macu." >}}
+{{< feature-card icon="map" link="/docs/guide/flacbox/flacbox-guide-navigation" title="Navigacija" subtitle="Koristite traku kartica na iPhoneu ili lijevi izbornik na iPadu i Macu." >}}
 
-{{< card icon="cloud" link="/docs/guide/flacbox/flacbox-guide-connections" title="Veze" subtitle="Povežite Dropbox, Google Drive, iCloud ili svoj NAS." >}}
+{{< feature-card icon="cloud" link="/docs/guide/flacbox/flacbox-guide-connections" title="Veze" subtitle="Povežite Dropbox, Google Drive, iCloud ili svoj NAS." >}}
 
-{{< card icon="collection" link="/docs/guide/flacbox/flacbox-guide-music-library" title="Glazbena biblioteka" subtitle="Upravljajte i pretražujte pjesme po izvođaču, albumu ili žanru." >}}
+{{< feature-card icon="collection" link="/docs/guide/flacbox/flacbox-guide-music-library" title="Glazbena biblioteka" subtitle="Upravljajte i pretražujte pjesme po izvođaču, albumu ili žanru." >}}
 
-{{< card icon="music-note" link="/docs/guide/flacbox/flacbox-guide-playlists" title="Playliste" subtitle="Stvarajte i organizirajte playliste za svako raspoloženje ili priliku." >}}
+{{< feature-card icon="music-note" link="/docs/guide/flacbox/flacbox-guide-playlists" title="Playliste" subtitle="Stvarajte i organizirajte playliste za svako raspoloženje ili priliku." >}}
 
-{{< card icon="folder" link="/docs/guide/flacbox/flacbox-guide-local-files" title="Lokalne datoteke" subtitle="Uređujte i reproducirajte offline glazbu ugrađenim upraviteljem datoteka." >}}
+{{< feature-card icon="folder" link="/docs/guide/flacbox/flacbox-guide-local-files" title="Lokalne datoteke" subtitle="Uređujte i reproducirajte offline glazbu ugrađenim upraviteljem datoteka." >}}
 
-{{< card icon="play" link="/docs/guide/flacbox/flacbox-guide-player" title="Audio player" subtitle="Kontrolirajte reprodukciju, prilagodite brzinu, postavite oznake i više." >}}
+{{< feature-card icon="play" link="/docs/guide/flacbox/flacbox-guide-player" title="Audio player" subtitle="Kontrolirajte reprodukciju, prilagodite brzinu, postavite oznake i više." >}}
 
-{{< card icon="adjustments" link="/docs/guide/flacbox/flacbox-guide-settings" title="Postavke" subtitle="Prilagodite ekvilajzer, izgled i ponašanje aplikacije." >}}
+{{< feature-card icon="adjustments" link="/docs/guide/flacbox/flacbox-guide-settings" title="Postavke" subtitle="Prilagodite ekvilajzer, izgled i ponašanje aplikacije." >}}
 
 {{< /cards >}}
 

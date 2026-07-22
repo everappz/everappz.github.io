@@ -127,29 +127,29 @@ Recursos Completos
 
 {{< cards >}}
 
-  {{< card title="Suporte a Áudio Lossless" subtitle="Reproduza FLAC, ALAC, WAV, APE, DFF, WV, AIFF e muitos outros formatos de alta qualidade." icon="music-note" >}}
-  {{< card title="Modo Offline" subtitle="Baixe álbuns, playlists e faixas para reprodução offline a qualquer momento." icon="download" >}}
-  {{< card title="Gerenciamento de Arquivos" subtitle="Copie, mova, renomeie e exclua arquivos facilmente dentro do app." icon="folder" >}}
+  {{< feature-card title="Suporte a Áudio Lossless" subtitle="Reproduza FLAC, ALAC, WAV, APE, DFF, WV, AIFF e muitos outros formatos de alta qualidade." icon="music-note" >}}
+  {{< feature-card title="Modo Offline" subtitle="Baixe álbuns, playlists e faixas para reprodução offline a qualquer momento." icon="download" >}}
+  {{< feature-card title="Gerenciamento de Arquivos" subtitle="Copie, mova, renomeie e exclua arquivos facilmente dentro do app." icon="folder" >}}
 
-  {{< card title="Playlists Personalizadas" subtitle="Crie, edite, reordene playlists e exporte ou importe arquivos M3U." icon="collection" >}}
-  {{< card title="Biblioteca de Mídia" subtitle="Adicione música e organize por álbum, artista e gênero usando tags." icon="library" >}}
-  {{< card title="Busca Avançada" subtitle="Encontre rapidamente músicas, artistas ou álbuns com ferramentas de busca inteligentes." icon="search" >}}
+  {{< feature-card title="Playlists Personalizadas" subtitle="Crie, edite, reordene playlists e exporte ou importe arquivos M3U." icon="collection" >}}
+  {{< feature-card title="Biblioteca de Mídia" subtitle="Adicione música e organize por álbum, artista e gênero usando tags." icon="library" >}}
+  {{< feature-card title="Busca Avançada" subtitle="Encontre rapidamente músicas, artistas ou álbuns com ferramentas de busca inteligentes." icon="search" >}}
 
-  {{< card title="Streaming na Nuvem" subtitle="Transmita do Google Drive, Dropbox, OneDrive, iCloud, MEGA e mais." icon="cloud" >}}
-  {{< card title="Acesso a NAS e Computador" subtitle="Conecte via SMB, DLNA ou WebDAV. Transfira com iTunes ou Wi-Fi." icon="desktop-computer" >}}
-  {{< card title="Cartões de Memória USB" subtitle="Reproduza música diretamente de cartões SD usando adaptadores USB como iXpand." icon="inbox" >}}
+  {{< feature-card title="Streaming na Nuvem" subtitle="Transmita do Google Drive, Dropbox, OneDrive, iCloud, MEGA e mais." icon="cloud" >}}
+  {{< feature-card title="Acesso a NAS e Computador" subtitle="Conecte via SMB, DLNA ou WebDAV. Transfira com iTunes ou Wi-Fi." icon="desktop-computer" >}}
+  {{< feature-card title="Cartões de Memória USB" subtitle="Reproduza música diretamente de cartões SD usando adaptadores USB como iXpand." icon="inbox" >}}
 
-  {{< card title="Controles de Reprodução" subtitle="Altere a velocidade e o tom da reprodução para controle perfeito do áudio." icon="fast-forward" >}}
-  {{< card title="Letras e Comentários" subtitle="Visualize letras incorporadas e comentários durante a reprodução." icon="annotation" >}}
-  {{< card title="Editor de Tags ID3" subtitle="Edite e corrija metadados como título, artista ou álbum com a ferramenta integrada." icon="pencil-alt" >}}
+  {{< feature-card title="Controles de Reprodução" subtitle="Altere a velocidade e o tom da reprodução para controle perfeito do áudio." icon="fast-forward" >}}
+  {{< feature-card title="Letras e Comentários" subtitle="Visualize letras incorporadas e comentários durante a reprodução." icon="annotation" >}}
+  {{< feature-card title="Editor de Tags ID3" subtitle="Edite e corrija metadados como título, artista ou álbum com a ferramenta integrada." icon="pencil-alt" >}}
 
-  {{< card title="Equalizador e Reforço" subtitle="Use presets ou ajuste manualmente com ganho de pré-amplificador para som rico." icon="adjustments" >}}
-  {{< card title="Apple CarPlay" subtitle="Dirija com segurança com uma interface CarPlay dedicada para reprodução de música." icon="truck" >}}
-  {{< card title="AirPlay e Chromecast" subtitle="Transmita sem fio para dispositivos Apple TV e Google Chromecast." icon="device-mobile" >}}
+  {{< feature-card title="Equalizador e Reforço" subtitle="Use presets ou ajuste manualmente com ganho de pré-amplificador para som rico." icon="adjustments" >}}
+  {{< feature-card title="Apple CarPlay" subtitle="Dirija com segurança com uma interface CarPlay dedicada para reprodução de música." icon="truck" >}}
+  {{< feature-card title="AirPlay e Chromecast" subtitle="Transmita sem fio para dispositivos Apple TV e Google Chromecast." icon="device-mobile" >}}
 
-  {{< card title="Integração Last.fm" subtitle="Acompanhe estatísticas musicais e receba recomendações personalizadas de músicas." icon="chart-bar" >}}
-  {{< card title="Sincronização Automática" subtitle="Sincronize automaticamente sua biblioteca musical com pastas na nuvem e locais." icon="refresh" >}}
-  {{< card title="Suporte a Audiolivros" subtitle="Ouça audiolivros com marcadores, timer de sono e retome a reprodução de onde parou." icon="book-open" >}}
+  {{< feature-card title="Integração Last.fm" subtitle="Acompanhe estatísticas musicais e receba recomendações personalizadas de músicas." icon="chart-bar" >}}
+  {{< feature-card title="Sincronização Automática" subtitle="Sincronize automaticamente sua biblioteca musical com pastas na nuvem e locais." icon="refresh" >}}
+  {{< feature-card title="Suporte a Audiolivros" subtitle="Ouça audiolivros com marcadores, timer de sono e retome a reprodução de onde parou." icon="book-open" >}}
 
 {{< /cards >}}
 
@@ -167,7 +167,7 @@ Design Intuitivo
 
 {{< cards cols="4">}}
 
-  {{< card 
+  {{< feature-card 
     image="/products/flacbox/screenshots/2048x2732/1.png" 
     title="Reprodutor de Áudio" 
     method="Fill"
@@ -176,7 +176,7 @@ Design Intuitivo
     icon="play"
   >}}
 
-  {{< card 
+  {{< feature-card 
     image="/products/flacbox/screenshots/2048x2732/2.png"  
     title="Equalizador de Áudio" 
     method="Fill"
@@ -185,7 +185,7 @@ Design Intuitivo
     icon="adjustments"
   >}}
 
-  {{< card 
+  {{< feature-card 
     image="/products/flacbox/screenshots/2048x2732/3.png"  
     title="Gerenciador de Playlists" 
     method="Fill"
@@ -194,7 +194,7 @@ Design Intuitivo
     icon="collection"
   >}}
 
-  {{< card 
+  {{< feature-card 
     image="/products/flacbox/screenshots/2048x2732/5.png"  
     title="Biblioteca de Mídia" 
     method="Fill"
@@ -203,7 +203,7 @@ Design Intuitivo
     icon="library"
   >}}
 
-  {{< card 
+  {{< feature-card 
     image="/products/flacbox/screenshots/2048x2732/7.png"  
     title="Armazenamento na Nuvem" 
     method="Fill"
@@ -212,7 +212,7 @@ Design Intuitivo
     icon="cloud"
   >}}
 
-  {{< card 
+  {{< feature-card 
     image="/products/flacbox/screenshots/2048x2732/8.png"  
     title="iCloud Drive" 
     method="Fill"
@@ -835,19 +835,19 @@ Para usar o CarPlay, certifique-se de que a Siri está habilitada e seu iPhone e
 
 {{< cards >}}
 
-{{< card icon="map" link="/docs/guide/flacbox/flacbox-guide-navigation" title="Navegação" subtitle="Use a barra de abas no iPhone ou o menu lateral no iPad e Mac." >}}
+{{< feature-card icon="map" link="/docs/guide/flacbox/flacbox-guide-navigation" title="Navegação" subtitle="Use a barra de abas no iPhone ou o menu lateral no iPad e Mac." >}}
 
-{{< card icon="cloud" link="/docs/guide/flacbox/flacbox-guide-connections" title="Conexões" subtitle="Conecte Dropbox, Google Drive, iCloud ou seu NAS." >}}
+{{< feature-card icon="cloud" link="/docs/guide/flacbox/flacbox-guide-connections" title="Conexões" subtitle="Conecte Dropbox, Google Drive, iCloud ou seu NAS." >}}
 
-{{< card icon="collection" link="/docs/guide/flacbox/flacbox-guide-music-library" title="Biblioteca Musical" subtitle="Gerencie e busque faixas por artista, álbum ou gênero." >}}
+{{< feature-card icon="collection" link="/docs/guide/flacbox/flacbox-guide-music-library" title="Biblioteca Musical" subtitle="Gerencie e busque faixas por artista, álbum ou gênero." >}}
 
-{{< card icon="music-note" link="/docs/guide/flacbox/flacbox-guide-playlists" title="Playlists" subtitle="Crie e organize playlists para qualquer humor ou ocasião." >}}
+{{< feature-card icon="music-note" link="/docs/guide/flacbox/flacbox-guide-playlists" title="Playlists" subtitle="Crie e organize playlists para qualquer humor ou ocasião." >}}
 
-{{< card icon="folder" link="/docs/guide/flacbox/flacbox-guide-local-files" title="Arquivos Locais" subtitle="Edite e reproduza música offline com o gerenciador de arquivos integrado." >}}
+{{< feature-card icon="folder" link="/docs/guide/flacbox/flacbox-guide-local-files" title="Arquivos Locais" subtitle="Edite e reproduza música offline com o gerenciador de arquivos integrado." >}}
 
-{{< card icon="play" link="/docs/guide/flacbox/flacbox-guide-player" title="Reprodutor de Áudio" subtitle="Controle a reprodução, ajuste a velocidade, defina marcadores e mais." >}}
+{{< feature-card icon="play" link="/docs/guide/flacbox/flacbox-guide-player" title="Reprodutor de Áudio" subtitle="Controle a reprodução, ajuste a velocidade, defina marcadores e mais." >}}
 
-{{< card icon="adjustments" link="/docs/guide/flacbox/flacbox-guide-settings" title="Configurações" subtitle="Personalize equalizador, aparência e comportamento do app." >}}
+{{< feature-card icon="adjustments" link="/docs/guide/flacbox/flacbox-guide-settings" title="Configurações" subtitle="Personalize equalizador, aparência e comportamento do app." >}}
 
 {{< /cards >}}
 

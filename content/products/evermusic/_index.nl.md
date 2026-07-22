@@ -148,7 +148,7 @@ Evermusic is een gratis offline muziekspeler voor iPhone en Mac, ontwikkeld door
 
 {{< cards cols="4">}}
 
-  {{< card 
+  {{< feature-card 
     icon="adjustments"
     image="/products/evermusic/screenshots/2048x2732/3.png" 
     title="Audio-equalizer" 
@@ -157,7 +157,7 @@ Evermusic is een gratis offline muziekspeler voor iPhone en Mac, ontwikkeld door
     subtitle="Stem je geluid af met een iPod-stijl audio-equalizer, aanpasbare presets en preamp-versterking voor de beste luisterervaring." 
   >}}
 
-  {{< card 
+  {{< feature-card 
     icon="annotation"
     image="/products/evermusic/screenshots/2048x2732/4.png"  
     title="Songtekst weergave" 
@@ -166,7 +166,7 @@ Evermusic is een gratis offline muziekspeler voor iPhone en Mac, ontwikkeld door
     subtitle="Lees ingebedde songteksten en trackopmerkingen tijdens het luisteren. Geniet van gesynchroniseerde songteksten voor een meeslependere muziekervaring." 
   >}}
 
-  {{< card 
+  {{< feature-card 
     icon="collection"
     image="/products/evermusic/screenshots/2048x2732/5.png"  
     title="Afspeellijstbeheer" 
@@ -175,7 +175,7 @@ Evermusic is een gratis offline muziekspeler voor iPhone en Mac, ontwikkeld door
     subtitle="Maak en organiseer aangepaste afspeellijsten, herorden nummers, exporteer naar M3U of archiveer ze als ZIP-bestanden voor eenvoudig delen of back-up." 
   >}}
 
-  {{< card 
+  {{< feature-card 
     icon="cloud"
     image="/products/evermusic/screenshots/2048x2732/6.png"  
     title="Cloud muziek streaming" 
@@ -184,7 +184,7 @@ Evermusic is een gratis offline muziekspeler voor iPhone en Mac, ontwikkeld door
     subtitle="Koppel topcloudopslagplatforms zoals Google Drive, Dropbox en OneDrive om je muziekcollectie altijd en overal te streamen." 
   >}}
 
-  {{< card 
+  {{< feature-card 
     icon="duplicate"
     image="/products/evermusic/screenshots/2048x2732/9.png"  
     title="Bestandsbeheer" 
@@ -193,7 +193,7 @@ Evermusic is een gratis offline muziekspeler voor iPhone en Mac, ontwikkeld door
     subtitle="Beheer je audiobestanden eenvoudig—hernoem nummers, organiseer mappen en zet muziek over tussen apparaten met ingebouwde hulpmiddelen." 
   >}} 
 
-  {{< card 
+  {{< feature-card 
     icon="sun"
     image="/products/evermusic/screenshots/2048x2732/10.png"  
     title="App aanpassen" 
@@ -218,41 +218,41 @@ Evermusic is een gratis offline muziekspeler voor iPhone en Mac, ontwikkeld door
 
 {{< cards >}}
 
-  {{< card title="Audioformaten" subtitle="Ondersteunt: mp3, m4a, flac, wav, aac, mp4, m3u, m3u8, m4b, m4p, aiff, ogg, mp2, ac3, wma en meer." icon="music-note" >}}
+  {{< feature-card title="Audioformaten" subtitle="Ondersteunt: mp3, m4a, flac, wav, aac, mp4, m3u, m3u8, m4b, m4p, aiff, ogg, mp2, ac3, wma en meer." icon="music-note" >}}
 
-  {{< card title="Audioboeken" subtitle="Inclusief audio bladwijzers, afspeelsnelheidsregeling en hervattingspositie." icon="book-open" width="50">}}
+  {{< feature-card title="Audioboeken" subtitle="Inclusief audio bladwijzers, afspeelsnelheidsregeling en hervattingspositie." icon="book-open" width="50">}}
 
-  {{< card title="Automatische synchronisatie" subtitle="Synchroniseer je muziekbibliotheek met de cloud, georganiseerd op artiest, album en genre." icon="refresh" >}}
+  {{< feature-card title="Automatische synchronisatie" subtitle="Synchroniseer je muziekbibliotheek met de cloud, georganiseerd op artiest, album en genre." icon="refresh" >}}
 
-  {{< card title="Bestandsbeheer" subtitle="Beheer bestanden met bewerkingen zoals kopiëren, verplaatsen, hernoemen en verwijderen." icon="folder" >}}
+  {{< feature-card title="Bestandsbeheer" subtitle="Beheer bestanden met bewerkingen zoals kopiëren, verplaatsen, hernoemen en verwijderen." icon="folder" >}}
 
-  {{< card title="Cloudservices" subtitle="Ondersteunt iCloud, Google Drive, Dropbox, OneDrive, Box, MEGA, WD MyCloud Home, pCloud en meer." icon="cloud" >}}
+  {{< feature-card title="Cloudservices" subtitle="Ondersteunt iCloud, Google Drive, Dropbox, OneDrive, Box, MEGA, WD MyCloud Home, pCloud en meer." icon="cloud" >}}
 
-  {{< card title="Crossfade afspelen" subtitle="Het volgende nummer begint voordat het huidige eindigt voor naadloze overgangen." icon="switch-horizontal" >}}
+  {{< feature-card title="Crossfade afspelen" subtitle="Het volgende nummer begint voordat het huidige eindigt voor naadloze overgangen." icon="switch-horizontal" >}}
 
-  {{< card title="Naadloos afspelen" subtitle="Geen pauzes tussen nummers — ideaal voor live, klassieke of conceptalbums." icon="volume-up" >}}
+  {{< feature-card title="Naadloos afspelen" subtitle="Geen pauzes tussen nummers — ideaal voor live, klassieke of conceptalbums." icon="volume-up" >}}
 
-  {{< card title="Audio-equalizer" subtitle="Aanpasbare equalizer met presets, handmatige bediening en preamp-versterking." icon="adjustments" >}}
+  {{< feature-card title="Audio-equalizer" subtitle="Aanpasbare equalizer met presets, handmatige bediening en preamp-versterking." icon="adjustments" >}}
 
-  {{< card title="Geavanceerd zoeken" subtitle="Vind je favoriete albums, artiesten en nummers snel en eenvoudig." icon="search" >}}
+  {{< feature-card title="Geavanceerd zoeken" subtitle="Vind je favoriete albums, artiesten en nummers snel en eenvoudig." icon="search" >}}
 
-  {{< card title="Computertoegang" subtitle="Verbind via SMB, WebDAV of DLNA. Overzetten via iTunes-bestandsdeling en Wi-Fi." icon="desktop-computer" >}}
+  {{< feature-card title="Computertoegang" subtitle="Verbind via SMB, WebDAV of DLNA. Overzetten via iTunes-bestandsdeling en Wi-Fi." icon="desktop-computer" >}}
 
-  {{< card title="AirPlay & Chromecast" subtitle="Stream draadloos naar Apple TV- en Google Chromecast-apparaten." icon="device-mobile" >}}
+  {{< feature-card title="AirPlay & Chromecast" subtitle="Stream draadloos naar Apple TV- en Google Chromecast-apparaten." icon="device-mobile" >}}
 
-  {{< card title="Afspeellijsten" subtitle="Maak, bewerk, herorden en exporteer/importeer M3U afspeellijsten met offline modus." icon="collection" >}}
+  {{< feature-card title="Afspeellijsten" subtitle="Maak, bewerk, herorden en exporteer/importeer M3U afspeellijsten met offline modus." icon="collection" >}}
 
-  {{< card title="USB-flashkaarten" subtitle="Speel muziek rechtstreeks af van SD-kaarten met externe lezers zoals SanDisk iXpand." icon="inbox" >}}
+  {{< feature-card title="USB-flashkaarten" subtitle="Speel muziek rechtstreeks af van SD-kaarten met externe lezers zoals SanDisk iXpand." icon="inbox" >}}
 
-  {{< card title="Offline modus" subtitle="Download albums en afspeellijsten of cache recent afgespeelde nummers automatisch voor offline luisteren." icon="download" >}}
+  {{< feature-card title="Offline modus" subtitle="Download albums en afspeellijsten of cache recent afgespeelde nummers automatisch voor offline luisteren." icon="download" >}}
 
-  {{< card title="Apple CarPlay" subtitle="Rij veilig met een speciale CarPlay-interface voor muziek afspelen." icon="truck" >}}
+  {{< feature-card title="Apple CarPlay" subtitle="Rij veilig met een speciale CarPlay-interface voor muziek afspelen." icon="truck" >}}
 
-  {{< card title="ID3-tagseditor" subtitle="Bewerk beschadigde of ontbrekende metadata met de ingebouwde tagseditor." icon="pencil-alt" >}}
+  {{< feature-card title="ID3-tagseditor" subtitle="Bewerk beschadigde of ontbrekende metadata met de ingebouwde tagseditor." icon="pencil-alt" >}}
 
-  {{< card title="Songteksten en opmerkingen" subtitle="Bekijk ingebedde songteksten en opmerkingen tijdens het luisteren naar je muziek." icon="annotation" >}}
+  {{< feature-card title="Songteksten en opmerkingen" subtitle="Bekijk ingebedde songteksten en opmerkingen tijdens het luisteren naar je muziek." icon="annotation" >}}
 
-  {{< card title="Last.fm" subtitle="Verbind je Last.fm-account om gepersonaliseerde luisterstatistieken en aanbevelingen te krijgen." icon="chart-bar" >}}
+  {{< feature-card title="Last.fm" subtitle="Verbind je Last.fm-account om gepersonaliseerde luisterstatistieken en aanbevelingen te krijgen." icon="chart-bar" >}}
   
 {{< /cards >}}
 
@@ -704,19 +704,19 @@ Met dit brede scala aan ondersteunde formaten en bestandsextensies kun je geniet
 </div>
 
 {{< cards >}}
-  {{< card icon="location-marker" title="Navigatie" subtitle="Leer hoe je door Evermusic navigeert met de Tab Bar op iPhone of het linkermenu op iPad en Mac." link="/docs/guide/evermusic/evermusic-guide-navigation" >}}
+  {{< feature-card icon="location-marker" title="Navigatie" subtitle="Leer hoe je door Evermusic navigeert met de Tab Bar op iPhone of het linkermenu op iPad en Mac." link="/docs/guide/evermusic/evermusic-guide-navigation" >}}
 
-  {{< card icon="cloud" title="Verbindingen" subtitle="Verbind je cloudaccounts en beheer online bestanden met de ingebouwde bestandsbeheerder." link="/docs/guide/evermusic/evermusic-guide-connections" >}}
+  {{< feature-card icon="cloud" title="Verbindingen" subtitle="Verbind je cloudaccounts en beheer online bestanden met de ingebouwde bestandsbeheerder." link="/docs/guide/evermusic/evermusic-guide-connections" >}}
 
-  {{< card icon="library" title="Muziekbibliotheek" subtitle="Organiseer en verken je nummers, albums en artiesten in de Muziekbibliotheek." link="/docs/guide/evermusic/evermusic-guide-music-library" >}}
+  {{< feature-card icon="library" title="Muziekbibliotheek" subtitle="Organiseer en verken je nummers, albums en artiesten in de Muziekbibliotheek." link="/docs/guide/evermusic/evermusic-guide-music-library" >}}
 
-  {{< card icon="collection" title="Afspeellijsten" subtitle="Maak en rangschik afspeellijsten passend bij je stemming of gelegenheid." link="/docs/guide/evermusic/evermusic-guide-playlists" >}}
+  {{< feature-card icon="collection" title="Afspeellijsten" subtitle="Maak en rangschik afspeellijsten passend bij je stemming of gelegenheid." link="/docs/guide/evermusic/evermusic-guide-playlists" >}}
 
-  {{< card icon="folder" title="Lokale bestanden" subtitle="Krijg toegang tot en beheer offline muziek via het gedeelte Lokale bestanden." link="/docs/guide/evermusic/evermusic-guide-local-files" >}}
+  {{< feature-card icon="folder" title="Lokale bestanden" subtitle="Krijg toegang tot en beheer offline muziek via het gedeelte Lokale bestanden." link="/docs/guide/evermusic/evermusic-guide-local-files" >}}
 
-  {{< card icon="play" title="Audio Player" subtitle="Bedien afspelen, wachtrij en audio-instellingen zoals equalizer en slaaptimer." link="/docs/guide/evermusic/evermusic-guide-player" >}}
+  {{< feature-card icon="play" title="Audio Player" subtitle="Bedien afspelen, wachtrij en audio-instellingen zoals equalizer en slaaptimer." link="/docs/guide/evermusic/evermusic-guide-player" >}}
 
-  {{< card icon="adjustments" title="Instellingen" subtitle="Pas het uiterlijk, de functies en de prestatie-instellingen van Evermusic aan." link="/docs/guide/evermusic/evermusic-guide-settings" >}}
+  {{< feature-card icon="adjustments" title="Instellingen" subtitle="Pas het uiterlijk, de functies en de prestatie-instellingen van Evermusic aan." link="/docs/guide/evermusic/evermusic-guide-settings" >}}
 
 {{< /cards >}}
 

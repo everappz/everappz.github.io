@@ -148,7 +148,7 @@ Evermusic je bezplatný offline hudobný prehrávač pre iPhone a Mac vyvinutý 
 
 {{< cards cols="4">}}
 
-  {{< card 
+  {{< feature-card 
     icon="adjustments"
     image="/products/evermusic/screenshots/2048x2732/3.png" 
     title="Audio ekvalizér" 
@@ -157,7 +157,7 @@ Evermusic je bezplatný offline hudobný prehrávač pre iPhone a Mac vyvinutý 
     subtitle="Dolaďte zvuk pomocou audio ekvalizéra v štýle iPod, prispôsobiteľných predvolieb a zosilnenia predzosilňovača pre najlepší hudobný zážitok." 
   >}}
 
-  {{< card 
+  {{< feature-card 
     icon="annotation"
     image="/products/evermusic/screenshots/2048x2732/4.png"  
     title="Prehliadač textov" 
@@ -166,7 +166,7 @@ Evermusic je bezplatný offline hudobný prehrávač pre iPhone a Mac vyvinutý 
     subtitle="Čítajte vložené texty piesní a komentáre k skladbám počas počúvania. Užívajte si synchronizované texty pre hlbší hudobný zážitok." 
   >}}
 
-  {{< card 
+  {{< feature-card 
     icon="collection"
     image="/products/evermusic/screenshots/2048x2732/5.png"  
     title="Správca playlistov" 
@@ -175,7 +175,7 @@ Evermusic je bezplatný offline hudobný prehrávač pre iPhone a Mac vyvinutý 
     subtitle="Vytvárajte a organizujte vlastné playlisty, meniete poradie skladieb, exportujte do M3U alebo archivujte ako ZIP súbory na jednoduché zdieľanie alebo zálohovanie." 
   >}}
 
-  {{< card 
+  {{< feature-card 
     icon="cloud"
     image="/products/evermusic/screenshots/2048x2732/6.png"  
     title="Streamovanie hudby z cloudu" 
@@ -184,7 +184,7 @@ Evermusic je bezplatný offline hudobný prehrávač pre iPhone a Mac vyvinutý 
     subtitle="Pripojte populárne cloudové platformy ako Google Drive, Dropbox a OneDrive a streamujte svoju hudobnú zbierku kedykoľvek a kdekoľvek." 
   >}}
 
-  {{< card 
+  {{< feature-card 
     icon="duplicate"
     image="/products/evermusic/screenshots/2048x2732/9.png"  
     title="Správca súborov" 
@@ -193,7 +193,7 @@ Evermusic je bezplatný offline hudobný prehrávač pre iPhone a Mac vyvinutý 
     subtitle="Jednoducho spravujte audio súbory — premenúvajte skladby, organizujte priečinky a prenášajte hudbu medzi zariadeniami pomocou vstavaných nástrojov." 
   >}} 
 
-  {{< card 
+  {{< feature-card 
     icon="sun"
     image="/products/evermusic/screenshots/2048x2732/10.png"  
     title="Prispôsobenie aplikácie" 
@@ -218,41 +218,41 @@ Evermusic je bezplatný offline hudobný prehrávač pre iPhone a Mac vyvinutý 
 
 {{< cards >}}
 
-  {{< card title="Audio formáty" subtitle="Podporuje: mp3, m4a, flac, wav, aac, mp4, m3u, m3u8, m4b, m4p, aiff, ogg, mp2, ac3, wma a ďalšie." icon="music-note" >}}
+  {{< feature-card title="Audio formáty" subtitle="Podporuje: mp3, m4a, flac, wav, aac, mp4, m3u, m3u8, m4b, m4p, aiff, ogg, mp2, ac3, wma a ďalšie." icon="music-note" >}}
 
-  {{< card title="Audioknihy" subtitle="Zahŕňa audio záložky, ovládanie rýchlosti prehrávania a obnovenie pozície." icon="book-open" width="50">}}
+  {{< feature-card title="Audioknihy" subtitle="Zahŕňa audio záložky, ovládanie rýchlosti prehrávania a obnovenie pozície." icon="book-open" width="50">}}
 
-  {{< card title="Automatická synchronizácia" subtitle="Synchronizuje hudobnú knižnicu s cloudom, organizovanú podľa interpreta, albumu a žánru." icon="refresh" >}}
+  {{< feature-card title="Automatická synchronizácia" subtitle="Synchronizuje hudobnú knižnicu s cloudom, organizovanú podľa interpreta, albumu a žánru." icon="refresh" >}}
 
-  {{< card title="Správca súborov" subtitle="Spravujte súbory s operáciami ako kopírovanie, presúvanie, premenovanie a mazanie." icon="folder" >}}
+  {{< feature-card title="Správca súborov" subtitle="Spravujte súbory s operáciami ako kopírovanie, presúvanie, premenovanie a mazanie." icon="folder" >}}
 
-  {{< card title="Cloudové služby" subtitle="Podporuje iCloud, Google Drive, Dropbox, OneDrive, Box, MEGA, WD MyCloud Home, pCloud a ďalšie." icon="cloud" >}}
+  {{< feature-card title="Cloudové služby" subtitle="Podporuje iCloud, Google Drive, Dropbox, OneDrive, Box, MEGA, WD MyCloud Home, pCloud a ďalšie." icon="cloud" >}}
 
-  {{< card title="Prehrávanie s crossfade" subtitle="Ďalšia pieseň začne pred skončením aktuálnej pre plynulé prechody." icon="switch-horizontal" >}}
+  {{< feature-card title="Prehrávanie s crossfade" subtitle="Ďalšia pieseň začne pred skončením aktuálnej pre plynulé prechody." icon="switch-horizontal" >}}
 
-  {{< card title="Plynulé prehrávanie" subtitle="Žiadne prestávky medzi piesňami — ideálne pre živé, klasické alebo konceptuálne albumy." icon="volume-up" >}}
+  {{< feature-card title="Plynulé prehrávanie" subtitle="Žiadne prestávky medzi piesňami — ideálne pre živé, klasické alebo konceptuálne albumy." icon="volume-up" >}}
 
-  {{< card title="Audio ekvalizér" subtitle="Prispôsobiteľný ekvalizér s predvoľbami, manuálnym ovládaním a zosilnením predzosilňovača." icon="adjustments" >}}
+  {{< feature-card title="Audio ekvalizér" subtitle="Prispôsobiteľný ekvalizér s predvoľbami, manuálnym ovládaním a zosilnením predzosilňovača." icon="adjustments" >}}
 
-  {{< card title="Pokročilé vyhľadávanie" subtitle="Rýchlo a jednoducho nájdite obľúbené albumy, interpretov a skladby." icon="search" >}}
+  {{< feature-card title="Pokročilé vyhľadávanie" subtitle="Rýchlo a jednoducho nájdite obľúbené albumy, interpretov a skladby." icon="search" >}}
 
-  {{< card title="Prístup z počítača" subtitle="Pripojte sa cez SMB, WebDAV alebo DLNA. Prenášajte cez iTunes File Sharing a Wi-Fi." icon="desktop-computer" >}}
+  {{< feature-card title="Prístup z počítača" subtitle="Pripojte sa cez SMB, WebDAV alebo DLNA. Prenášajte cez iTunes File Sharing a Wi-Fi." icon="desktop-computer" >}}
 
-  {{< card title="AirPlay a Chromecast" subtitle="Bezdrôtovo streamujte na zariadenia Apple TV a Google Chromecast." icon="device-mobile" >}}
+  {{< feature-card title="AirPlay a Chromecast" subtitle="Bezdrôtovo streamujte na zariadenia Apple TV a Google Chromecast." icon="device-mobile" >}}
 
-  {{< card title="Playlisty" subtitle="Vytvárajte, upravujte, meňte poradie a exportujte/importujte playlisty M3U s offline režimom." icon="collection" >}}
+  {{< feature-card title="Playlisty" subtitle="Vytvárajte, upravujte, meňte poradie a exportujte/importujte playlisty M3U s offline režimom." icon="collection" >}}
 
-  {{< card title="USB flash disky" subtitle="Prehrávajte hudbu priamo z SD kariet pomocou externých čítačiek ako SanDisk iXpand." icon="inbox" >}}
+  {{< feature-card title="USB flash disky" subtitle="Prehrávajte hudbu priamo z SD kariet pomocou externých čítačiek ako SanDisk iXpand." icon="inbox" >}}
 
-  {{< card title="Offline režim" subtitle="Sťahujte albumy a playlisty alebo automaticky ukladajte do vyrovnávacej pamäte nedávno prehrávané skladby na offline počúvanie." icon="download" >}}
+  {{< feature-card title="Offline režim" subtitle="Sťahujte albumy a playlisty alebo automaticky ukladajte do vyrovnávacej pamäte nedávno prehrávané skladby na offline počúvanie." icon="download" >}}
 
-  {{< card title="Apple CarPlay" subtitle="Jazdite bezpečne s dedikovaným rozhraním CarPlay na prehrávanie hudby." icon="truck" >}}
+  {{< feature-card title="Apple CarPlay" subtitle="Jazdite bezpečne s dedikovaným rozhraním CarPlay na prehrávanie hudby." icon="truck" >}}
 
-  {{< card title="Editor ID3 tagov" subtitle="Upravte poškodené alebo chýbajúce metadáta pomocou vstavaného editora tagov." icon="pencil-alt" >}}
+  {{< feature-card title="Editor ID3 tagov" subtitle="Upravte poškodené alebo chýbajúce metadáta pomocou vstavaného editora tagov." icon="pencil-alt" >}}
 
-  {{< card title="Texty a komentáre" subtitle="Zobrazujte vložené texty piesní a komentáre počas počúvania hudby." icon="annotation" >}}
+  {{< feature-card title="Texty a komentáre" subtitle="Zobrazujte vložené texty piesní a komentáre počas počúvania hudby." icon="annotation" >}}
 
-  {{< card title="Last.fm" subtitle="Pripojte účet Last.fm a získajte personalizované štatistiky počúvania a odporúčania." icon="chart-bar" >}}
+  {{< feature-card title="Last.fm" subtitle="Pripojte účet Last.fm a získajte personalizované štatistiky počúvania a odporúčania." icon="chart-bar" >}}
   
 {{< /cards >}}
 
@@ -704,19 +704,19 @@ S touto širokou škálou podporovaných formátov a prípon si môžete vychutn
 </div>
 
 {{< cards >}}
-  {{< card icon="location-marker" title="Navigácia" subtitle="Naučte sa navigovať v Evermusic pomocou lišty kariet na iPhone alebo ľavého menu na iPad a Mac." link="/docs/guide/evermusic/evermusic-guide-navigation" >}}
+  {{< feature-card icon="location-marker" title="Navigácia" subtitle="Naučte sa navigovať v Evermusic pomocou lišty kariet na iPhone alebo ľavého menu na iPad a Mac." link="/docs/guide/evermusic/evermusic-guide-navigation" >}}
 
-  {{< card icon="cloud" title="Pripojenia" subtitle="Pripojte cloudové účty a spravujte online súbory pomocou vstavaného správcu súborov." link="/docs/guide/evermusic/evermusic-guide-connections" >}}
+  {{< feature-card icon="cloud" title="Pripojenia" subtitle="Pripojte cloudové účty a spravujte online súbory pomocou vstavaného správcu súborov." link="/docs/guide/evermusic/evermusic-guide-connections" >}}
 
-  {{< card icon="library" title="Hudobná knižnica" subtitle="Organizujte a objavujte skladby, albumy a interpretov v Hudobnej knižnici." link="/docs/guide/evermusic/evermusic-guide-music-library" >}}
+  {{< feature-card icon="library" title="Hudobná knižnica" subtitle="Organizujte a objavujte skladby, albumy a interpretov v Hudobnej knižnici." link="/docs/guide/evermusic/evermusic-guide-music-library" >}}
 
-  {{< card icon="collection" title="Playlisty" subtitle="Vytvárajte a usporiadajte playlisty podľa nálady alebo príležitosti." link="/docs/guide/evermusic/evermusic-guide-playlists" >}}
+  {{< feature-card icon="collection" title="Playlisty" subtitle="Vytvárajte a usporiadajte playlisty podľa nálady alebo príležitosti." link="/docs/guide/evermusic/evermusic-guide-playlists" >}}
 
-  {{< card icon="folder" title="Lokálne súbory" subtitle="Pristupujte k offline hudbe a spravujte ju prostredníctvom sekcie Lokálne súbory." link="/docs/guide/evermusic/evermusic-guide-local-files" >}}
+  {{< feature-card icon="folder" title="Lokálne súbory" subtitle="Pristupujte k offline hudbe a spravujte ju prostredníctvom sekcie Lokálne súbory." link="/docs/guide/evermusic/evermusic-guide-local-files" >}}
 
-  {{< card icon="play" title="Audio prehrávač" subtitle="Ovládajte prehrávanie, rad a nastavenia zvuku ako ekvalizér a časovač spánku." link="/docs/guide/evermusic/evermusic-guide-player" >}}
+  {{< feature-card icon="play" title="Audio prehrávač" subtitle="Ovládajte prehrávanie, rad a nastavenia zvuku ako ekvalizér a časovač spánku." link="/docs/guide/evermusic/evermusic-guide-player" >}}
 
-  {{< card icon="adjustments" title="Nastavenia" subtitle="Prispôsobte vzhľad, funkcie a nastavenia výkonu Evermusic." link="/docs/guide/evermusic/evermusic-guide-settings" >}}
+  {{< feature-card icon="adjustments" title="Nastavenia" subtitle="Prispôsobte vzhľad, funkcie a nastavenia výkonu Evermusic." link="/docs/guide/evermusic/evermusic-guide-settings" >}}
 
 {{< /cards >}}
 

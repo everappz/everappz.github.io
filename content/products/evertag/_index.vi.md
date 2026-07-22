@@ -491,17 +491,17 @@ Chế độ này đặc biệt hữu ích khi bạn cần áp dụng cùng tên 
 </div>
 
 {{< cards >}}
-  {{< card icon="location-marker" title="Điều hướng" subtitle="Tìm hiểu cách dễ dàng điều hướng ứng dụng bằng Thanh Tab (cho người dùng iPhone) hoặc Menu Bên trái (cho người dùng iPad và Mac) để truy cập và khám phá tất cả tính năng của ứng dụng." link="/docs/guide/evertag/evertag-guide-navigation" >}}
+  {{< feature-card icon="location-marker" title="Điều hướng" subtitle="Tìm hiểu cách dễ dàng điều hướng ứng dụng bằng Thanh Tab (cho người dùng iPhone) hoặc Menu Bên trái (cho người dùng iPad và Mac) để truy cập và khám phá tất cả tính năng của ứng dụng." link="/docs/guide/evertag/evertag-guide-navigation" >}}
 
-  {{< card icon="cloud" title="Kết nối" subtitle="Dễ dàng liên kết tất cả tài khoản đám mây có sẵn với các tệp âm thanh quý giá của bạn. Bạn thậm chí có thể chỉnh sửa các tệp trực tuyến dễ dàng bằng trình quản lý tệp tích hợp." link="/docs/guide/evertag/evertag-guide-connections" >}}
+  {{< feature-card icon="cloud" title="Kết nối" subtitle="Dễ dàng liên kết tất cả tài khoản đám mây có sẵn với các tệp âm thanh quý giá của bạn. Bạn thậm chí có thể chỉnh sửa các tệp trực tuyến dễ dàng bằng trình quản lý tệp tích hợp." link="/docs/guide/evertag/evertag-guide-connections" >}}
 
-  {{< card icon="folder" title="Tệp cục bộ" subtitle="Xem và tổ chức các tệp được lưu trong thư mục Tài liệu của ứng dụng hoặc trên thiết bị. Sử dụng trình quản lý tệp tích hợp để chỉnh sửa và quản lý các tệp âm thanh dễ dàng." link="/docs/guide/evertag/evertag-guide-local-files" >}}
+  {{< feature-card icon="folder" title="Tệp cục bộ" subtitle="Xem và tổ chức các tệp được lưu trong thư mục Tài liệu của ứng dụng hoặc trên thiết bị. Sử dụng trình quản lý tệp tích hợp để chỉnh sửa và quản lý các tệp âm thanh dễ dàng." link="/docs/guide/evertag/evertag-guide-local-files" >}}
 
-  {{< card icon="pencil-alt" title="Trình chỉnh sửa thẻ" subtitle="Nắm vững nghệ thuật chỉnh sửa siêu dữ liệu tệp âm thanh. Tìm hiểu cách chỉnh sửa siêu dữ liệu, thay đổi bìa album và quản lý nhiều tệp đồng thời một cách liền mạch." link="/docs/guide/evertag/evertag-guide-tag-editor" >}}
+  {{< feature-card icon="pencil-alt" title="Trình chỉnh sửa thẻ" subtitle="Nắm vững nghệ thuật chỉnh sửa siêu dữ liệu tệp âm thanh. Tìm hiểu cách chỉnh sửa siêu dữ liệu, thay đổi bìa album và quản lý nhiều tệp đồng thời một cách liền mạch." link="/docs/guide/evertag/evertag-guide-tag-editor" >}}
 
-  {{< card icon="code" title="Ánh xạ trường thẻ" subtitle="Khám phá danh sách đầy đủ các trường thẻ âm thanh được ứng dụng Evertag hỗ trợ, bao gồm tên trường nội bộ và ánh xạ giữa các định dạng siêu dữ liệu chính." link="/docs/guide/evertag/evertag-tag-field-mappings" >}}
+  {{< feature-card icon="code" title="Ánh xạ trường thẻ" subtitle="Khám phá danh sách đầy đủ các trường thẻ âm thanh được ứng dụng Evertag hỗ trợ, bao gồm tên trường nội bộ và ánh xạ giữa các định dạng siêu dữ liệu chính." link="/docs/guide/evertag/evertag-tag-field-mappings" >}}
 
-  {{< card icon="adjustments" title="Cài đặt" subtitle="Khám phá cách tùy chỉnh trải nghiệm ứng dụng, tinh chỉnh hiệu suất, quản lý sử dụng dữ liệu và điều chỉnh tùy chọn ngôn ngữ và giao diện người dùng theo ý thích." link="/docs/guide/evertag/evertag-guide-settings" >}}
+  {{< feature-card icon="adjustments" title="Cài đặt" subtitle="Khám phá cách tùy chỉnh trải nghiệm ứng dụng, tinh chỉnh hiệu suất, quản lý sử dụng dữ liệu và điều chỉnh tùy chọn ngôn ngữ và giao diện người dùng theo ý thích." link="/docs/guide/evertag/evertag-guide-settings" >}}
 
 {{< /cards >}}
 

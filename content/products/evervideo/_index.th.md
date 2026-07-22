@@ -144,35 +144,35 @@ Evervideo
 
 {{< cards >}}
 
-{{< card title="เล่นวิดีโอและเสียงทุกรูปแบบ" subtitle="ดูสื่อโดยไม่ต้องแปลงไฟล์ Evervideo รองรับรูปแบบหลักทั้งหมด รวมถึง MKV, AVI, MP4, MOV, FLAC, MP3, AAC, OGG, WAV, WMV และอื่นๆ อีกมากมาย" icon="film">}}
+{{< feature-card title="เล่นวิดีโอและเสียงทุกรูปแบบ" subtitle="ดูสื่อโดยไม่ต้องแปลงไฟล์ Evervideo รองรับรูปแบบหลักทั้งหมด รวมถึง MKV, AVI, MP4, MOV, FLAC, MP3, AAC, OGG, WAV, WMV และอื่นๆ อีกมากมาย" icon="film">}}
 
-{{< card title="โหมดออฟไลน์" subtitle="ดาวน์โหลดวิดีโอ อัลบั้ม และเพลย์ลิสต์เพื่อดูโดยไม่ต้องเชื่อมต่ออินเทอร์เน็ต พกคอลเลกชันวิดีโอทั้งหมดไปได้ทุกที่" icon="download">}}
+{{< feature-card title="โหมดออฟไลน์" subtitle="ดาวน์โหลดวิดีโอ อัลบั้ม และเพลย์ลิสต์เพื่อดูโดยไม่ต้องเชื่อมต่ออินเทอร์เน็ต พกคอลเลกชันวิดีโอทั้งหมดไปได้ทุกที่" icon="download">}}
 
-{{< card title="วิดีโอ 360° และโหมด VR" subtitle="ดูวิดีโอ 360° และ VR อย่างสนุกและง่ายดาย เคลื่อนโทรศัพท์เพื่อมองไปในทิศทางใดก็ได้ หรือใส่ลงในชุด VR เพื่อรู้สึกเหมือนอยู่ในวิดีโอ" icon="video-camera">}}
+{{< feature-card title="วิดีโอ 360° และโหมด VR" subtitle="ดูวิดีโอ 360° และ VR อย่างสนุกและง่ายดาย เคลื่อนโทรศัพท์เพื่อมองไปในทิศทางใดก็ได้ หรือใส่ลงในชุด VR เพื่อรู้สึกเหมือนอยู่ในวิดีโอ" icon="video-camera">}}
 
-{{< card title="ภาพซ้อนภาพ" subtitle="ดูวิดีโอต่อในหน้าต่างลอยเล็กๆ ขณะใช้แอปอื่น ควบคุมการเล่นและดูคำบรรยายพร้อมกัน – เหมาะสำหรับการทำงานหลายอย่างพร้อมกัน" icon="duplicate">}}
+{{< feature-card title="ภาพซ้อนภาพ" subtitle="ดูวิดีโอต่อในหน้าต่างลอยเล็กๆ ขณะใช้แอปอื่น ควบคุมการเล่นและดูคำบรรยายพร้อมกัน – เหมาะสำหรับการทำงานหลายอย่างพร้อมกัน" icon="duplicate">}}
 
-{{< card title="อีควอไลเซอร์วิดีโอและเสียง" subtitle="ปรับแต่งรูปลักษณ์และเสียงของวิดีโอ ปรับเบส ระดับเสียง ความสว่าง แกมมา ความอิ่มตัว คอนทราสต์ และอื่นๆ เลือกจากพรีเซ็ตวิดีโอมากกว่า 50 แบบ และพรีเซ็ตเสียงมากกว่า 20 แบบ หรือสร้างพรีเซ็ตของคุณเอง" icon="adjustments">}}
+{{< feature-card title="อีควอไลเซอร์วิดีโอและเสียง" subtitle="ปรับแต่งรูปลักษณ์และเสียงของวิดีโอ ปรับเบส ระดับเสียง ความสว่าง แกมมา ความอิ่มตัว คอนทราสต์ และอื่นๆ เลือกจากพรีเซ็ตวิดีโอมากกว่า 50 แบบ และพรีเซ็ตเสียงมากกว่า 20 แบบ หรือสร้างพรีเซ็ตของคุณเอง" icon="adjustments">}}
 
-{{< card title="คำบรรยาย" subtitle="ดูคำบรรยายที่ฝังอยู่ เลือกหมายเลขแทร็กคำบรรยาย และเพลิดเพลินกับการรองรับคำบรรยายอย่างเต็มรูปแบบแม้ในโหมดภาพซ้อนภาพ" icon="annotation" >}}
+{{< feature-card title="คำบรรยาย" subtitle="ดูคำบรรยายที่ฝังอยู่ เลือกหมายเลขแทร็กคำบรรยาย และเพลิดเพลินกับการรองรับคำบรรยายอย่างเต็มรูปแบบแม้ในโหมดภาพซ้อนภาพ" icon="annotation" >}}
 
-{{< card title="เล่นโดยตรงจากคลาวด์" subtitle="ดูวิดีโอโดยตรงจากที่เก็บข้อมูลคลาวด์โดยไม่ต้องใช้พื้นที่อุปกรณ์ รองรับ iCloud Drive, Google Drive, Dropbox, OneDrive, MEGA, Synology Drive, pCloud และอื่นๆ" icon="cloud">}}
+{{< feature-card title="เล่นโดยตรงจากคลาวด์" subtitle="ดูวิดีโอโดยตรงจากที่เก็บข้อมูลคลาวด์โดยไม่ต้องใช้พื้นที่อุปกรณ์ รองรับ iCloud Drive, Google Drive, Dropbox, OneDrive, MEGA, Synology Drive, pCloud และอื่นๆ" icon="cloud">}}
 
-{{< card title="เชื่อมต่อคอมพิวเตอร์ / NAS" subtitle="เชื่อมต่อ NAS, Mac หรือ PC ผ่านเครือข่ายในบ้านอย่างง่ายดายโดยใช้ SMB, WebDAV หรือ DLNA รองรับการเข้าถึงระยะไกลสำหรับ Synology Drive และ WD MyCloud Home ถ่ายโอนไฟล์สื่อไปยังอุปกรณ์ผ่าน Wi-Fi หรือ iTunes File Sharing" icon="desktop-computer">}}
+{{< feature-card title="เชื่อมต่อคอมพิวเตอร์ / NAS" subtitle="เชื่อมต่อ NAS, Mac หรือ PC ผ่านเครือข่ายในบ้านอย่างง่ายดายโดยใช้ SMB, WebDAV หรือ DLNA รองรับการเข้าถึงระยะไกลสำหรับ Synology Drive และ WD MyCloud Home ถ่ายโอนไฟล์สื่อไปยังอุปกรณ์ผ่าน Wi-Fi หรือ iTunes File Sharing" icon="desktop-computer">}}
 
-{{< card title="ไลบรารีสื่อ" subtitle="จัดระเบียบตามอัลบั้ม แนวเพลง หรือระยะเวลา ซิงค์อัตโนมัติกับการเปลี่ยนแปลงในคลาวด์ สร้าง แก้ไข และส่งออกเพลย์ลิสต์ M3U พร้อมการจัดเรียงแบบกำหนดเอง" icon="library" >}}
+{{< feature-card title="ไลบรารีสื่อ" subtitle="จัดระเบียบตามอัลบั้ม แนวเพลง หรือระยะเวลา ซิงค์อัตโนมัติกับการเปลี่ยนแปลงในคลาวด์ สร้าง แก้ไข และส่งออกเพลย์ลิสต์ M3U พร้อมการจัดเรียงแบบกำหนดเอง" icon="library" >}}
 
-{{< card title="บุ๊กมาร์กและบันทึกตำแหน่งการเล่น" subtitle="บันทึกตำแหน่งในวิดีโอใดก็ได้ด้วยบุ๊กมาร์กและเล่นต่อจากจุดที่คุณหยุดไว้ ปรับความเร็วการเล่น ทำเครื่องหมายรายการโปรด และจัดเรียงวิดีโอตามที่เล่นมากที่สุดเพื่อการเข้าถึงที่ง่าย" icon="book-open">}}
+{{< feature-card title="บุ๊กมาร์กและบันทึกตำแหน่งการเล่น" subtitle="บันทึกตำแหน่งในวิดีโอใดก็ได้ด้วยบุ๊กมาร์กและเล่นต่อจากจุดที่คุณหยุดไว้ ปรับความเร็วการเล่น ทำเครื่องหมายรายการโปรด และจัดเรียงวิดีโอตามที่เล่นมากที่สุดเพื่อการเข้าถึงที่ง่าย" icon="book-open">}}
 
-{{< card title="AirPlay และ Chromecast" subtitle="เล่นวิดีโอบนหน้าจอที่ใหญ่ขึ้นโดยสตรีมไปยัง Apple TV, Chromecast หรือจอแสดงผลภายนอกที่เข้ากันได้" icon="device-mobile">}}
+{{< feature-card title="AirPlay และ Chromecast" subtitle="เล่นวิดีโอบนหน้าจอที่ใหญ่ขึ้นโดยสตรีมไปยัง Apple TV, Chromecast หรือจอแสดงผลภายนอกที่เข้ากันได้" icon="device-mobile">}}
 
-{{< card title="นำเข้าจากไฟล์และไลบรารี" subtitle="นำเข้าวิดีโอโดยตรงจากแอป Files, Photos หรือไลบรารี iTunes ของคุณ เข้าถึงเนื้อหาทั้งหมดทั้งในเครื่องและคลาวด์ในไลบรารีสื่อที่จัดระเบียบเดียว" icon="database">}}
+{{< feature-card title="นำเข้าจากไฟล์และไลบรารี" subtitle="นำเข้าวิดีโอโดยตรงจากแอป Files, Photos หรือไลบรารี iTunes ของคุณ เข้าถึงเนื้อหาทั้งหมดทั้งในเครื่องและคลาวด์ในไลบรารีสื่อที่จัดระเบียบเดียว" icon="database">}}
 
-{{< card title="ตัวจัดการไฟล์" subtitle="ย้าย เปลี่ยนชื่อ ลบ และจัดระเบียบไฟล์โดยตรงภายในแอป" icon="folder">}}
+{{< feature-card title="ตัวจัดการไฟล์" subtitle="ย้าย เปลี่ยนชื่อ ลบ และจัดระเบียบไฟล์โดยตรงภายในแอป" icon="folder">}}
 
-{{< card title="การปรับแต่ง" subtitle="ปรับแต่งแอปให้เหมาะกับความชอบของคุณ เลือกธีม แสดงหรือซ่อนฟีเจอร์ และปรับอินเทอร์เฟซตามความต้องการ" icon="sun">}}
+{{< feature-card title="การปรับแต่ง" subtitle="ปรับแต่งแอปให้เหมาะกับความชอบของคุณ เลือกธีม แสดงหรือซ่อนฟีเจอร์ และปรับอินเทอร์เฟซตามความต้องการ" icon="sun">}}
 
-{{< card title="ค้นหาอัจฉริยะ" subtitle="ค้นหาวิดีโอ อัลบั้ม หรือเพลย์ลิสต์ในไลบรารีสื่อของคุณอย่างรวดเร็วโดยใช้คำสำคัญหรือตัวกรอง" icon="search" >}}
+{{< feature-card title="ค้นหาอัจฉริยะ" subtitle="ค้นหาวิดีโอ อัลบั้ม หรือเพลย์ลิสต์ในไลบรารีสื่อของคุณอย่างรวดเร็วโดยใช้คำสำคัญหรือตัวกรอง" icon="search" >}}
 
 
 
@@ -192,7 +192,7 @@ Evervideo
 
 {{< cards cols="4">}}
 
-  {{< card 
+  {{< feature-card 
     image="/products/evervideo/screenshots/2880x1800/1.png" 
     title="เครื่องเล่นวิดีโอ" 
     method="Fill"
@@ -201,7 +201,7 @@ Evervideo
     icon="play"
   >}}
 
-  {{< card 
+  {{< feature-card 
     image="/products/evervideo/screenshots/2880x1800/3.png" 
     title="อีควอไลเซอร์เสียงและวิดีโอ" 
     method="Fill"
@@ -210,7 +210,7 @@ Evervideo
     icon="adjustments"
   >}}
 
-  {{< card 
+  {{< feature-card 
     image="/products/evervideo/screenshots/2880x1800/6.png" 
     title="ตัวจัดการเพลย์ลิสต์" 
     method="Fill"
@@ -219,7 +219,7 @@ Evervideo
     icon="collection"
   >}}
 
-  {{< card 
+  {{< feature-card 
     image="/products/evervideo/screenshots/2880x1800/5.png" 
     title="ไลบรารีสื่อ" 
     method="Fill"
@@ -228,7 +228,7 @@ Evervideo
     icon="library"
   >}}
 
-  {{< card 
+  {{< feature-card 
     image="/products/evervideo/screenshots/2880x1800/7.png"  
     title="ที่เก็บข้อมูลคลาวด์" 
     method="Fill"
@@ -237,7 +237,7 @@ Evervideo
     icon="cloud"
   >}}
 
-  {{< card 
+  {{< feature-card 
     image="/products/evervideo/screenshots/2880x1800/9.png"  
     title="ตัวจัดการไฟล์" 
     method="Fill"
@@ -656,17 +656,17 @@ iTunes File Sharing เป็นอีกเทคโนโลยีหนึ่
 </div>
 
 {{< cards >}}
-  {{< card icon="location-marker" title="การนำทาง" subtitle="เรียนรู้วิธีนำทางใน Evervideo โดยใช้แถบแท็บบน iPhone หรือเมนูทางซ้ายบน iPad และ Mac พร้อมโปรแกรมเล่นวิดีโอแบบกะทัดรัดที่แสดงตลอดเวลา" link="/docs/guide/evervideo/evervideo-guide-navigation" >}}
+  {{< feature-card icon="location-marker" title="การนำทาง" subtitle="เรียนรู้วิธีนำทางใน Evervideo โดยใช้แถบแท็บบน iPhone หรือเมนูทางซ้ายบน iPad และ Mac พร้อมโปรแกรมเล่นวิดีโอแบบกะทัดรัดที่แสดงตลอดเวลา" link="/docs/guide/evervideo/evervideo-guide-navigation" >}}
 
-  {{< card icon="folder" title="ไฟล์" subtitle="เชื่อมต่อบัญชีคลาวด์ การแชร์ NAS เซิร์ฟเวอร์สื่อ (Plex, Jellyfin, Emby, Subsonic, Navidrome) สตรีม RTSP และไฟล์ในเครื่องในแท็บเดียวที่รวมเข้าด้วยกัน" link="/docs/guide/evervideo/evervideo-guide-files" >}}
+  {{< feature-card icon="folder" title="ไฟล์" subtitle="เชื่อมต่อบัญชีคลาวด์ การแชร์ NAS เซิร์ฟเวอร์สื่อ (Plex, Jellyfin, Emby, Subsonic, Navidrome) สตรีม RTSP และไฟล์ในเครื่องในแท็บเดียวที่รวมเข้าด้วยกัน" link="/docs/guide/evervideo/evervideo-guide-files" >}}
 
-  {{< card icon="library" title="คลังสื่อ" subtitle="จัดระเบียบและสำรวจวิดีโอและเพลงของคุณตามอัลบั้ม แนวเพลง รายการล่าสุด และรายการโปรด รวมถึงคลังภาพถ่ายของ iOS และคลัง Apple Music" link="/docs/guide/evervideo/evervideo-guide-video-library" >}}
+  {{< feature-card icon="library" title="คลังสื่อ" subtitle="จัดระเบียบและสำรวจวิดีโอและเพลงของคุณตามอัลบั้ม แนวเพลง รายการล่าสุด และรายการโปรด รวมถึงคลังภาพถ่ายของ iOS และคลัง Apple Music" link="/docs/guide/evervideo/evervideo-guide-video-library" >}}
 
-  {{< card icon="collection" title="รายการเล่น" subtitle="สร้างและจัดเรียงรายการเล่นสำหรับวิดีโอ เพลง ซีรีส์ หรือคอร์สเรียน และนำเข้าไฟล์ M3U / M3U8 / CUE" link="/docs/guide/evervideo/evervideo-guide-playlists" >}}
+  {{< feature-card icon="collection" title="รายการเล่น" subtitle="สร้างและจัดเรียงรายการเล่นสำหรับวิดีโอ เพลง ซีรีส์ หรือคอร์สเรียน และนำเข้าไฟล์ M3U / M3U8 / CUE" link="/docs/guide/evervideo/evervideo-guide-playlists" >}}
 
-  {{< card icon="play" title="เครื่องเล่นสื่อ" subtitle="ควบคุมการเล่น คิว ภาพในภาพ แทร็กเสียงและวิดีโอ คำบรรยายหลักและรอง และอีควอไลเซอร์เสียง + วิดีโอ" link="/docs/guide/evervideo/evervideo-guide-player" >}}
+  {{< feature-card icon="play" title="เครื่องเล่นสื่อ" subtitle="ควบคุมการเล่น คิว ภาพในภาพ แทร็กเสียงและวิดีโอ คำบรรยายหลักและรอง และอีควอไลเซอร์เสียง + วิดีโอ" link="/docs/guide/evervideo/evervideo-guide-player" >}}
 
-  {{< card icon="adjustments" title="การตั้งค่า" subtitle="ปรับแต่งรูปลักษณ์ ตัวถอดรหัส อีควอไลเซอร์ คำบรรยาย วิดเจ็ต ภาษา รหัสผ่าน การสำรองข้อมูล และการตั้งค่าประสิทธิภาพของ Evervideo" link="/docs/guide/evervideo/evervideo-guide-settings" >}}
+  {{< feature-card icon="adjustments" title="การตั้งค่า" subtitle="ปรับแต่งรูปลักษณ์ ตัวถอดรหัส อีควอไลเซอร์ คำบรรยาย วิดเจ็ต ภาษา รหัสผ่าน การสำรองข้อมูล และการตั้งค่าประสิทธิภาพของ Evervideo" link="/docs/guide/evervideo/evervideo-guide-settings" >}}
 
 {{< /cards >}}
 

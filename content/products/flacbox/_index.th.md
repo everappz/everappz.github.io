@@ -127,29 +127,29 @@ Flacbox ยังเล่น MP3, AAC, OGG, APE, MOD, MKA และคอนเ
 
 {{< cards >}}
 
-  {{< card title="รองรับเสียง Lossless" subtitle="เล่น FLAC, ALAC, WAV, APE, DFF, WV, AIFF และฟอร์แมตคุณภาพสูงอื่นๆ อีกมากมาย" icon="music-note" >}}
-  {{< card title="โหมดออฟไลน์" subtitle="ดาวน์โหลดอัลบั้ม เพลย์ลิสต์ และแทร็กเพื่อเล่นออฟไลน์ได้ทุกเวลา" icon="download" >}}
-  {{< card title="จัดการไฟล์" subtitle="คัดลอก ย้าย เปลี่ยนชื่อ และลบไฟล์ภายในแอปได้อย่างง่ายดาย" icon="folder" >}}
+  {{< feature-card title="รองรับเสียง Lossless" subtitle="เล่น FLAC, ALAC, WAV, APE, DFF, WV, AIFF และฟอร์แมตคุณภาพสูงอื่นๆ อีกมากมาย" icon="music-note" >}}
+  {{< feature-card title="โหมดออฟไลน์" subtitle="ดาวน์โหลดอัลบั้ม เพลย์ลิสต์ และแทร็กเพื่อเล่นออฟไลน์ได้ทุกเวลา" icon="download" >}}
+  {{< feature-card title="จัดการไฟล์" subtitle="คัดลอก ย้าย เปลี่ยนชื่อ และลบไฟล์ภายในแอปได้อย่างง่ายดาย" icon="folder" >}}
 
-  {{< card title="เพลย์ลิสต์กำหนดเอง" subtitle="สร้าง แก้ไข จัดเรียงเพลย์ลิสต์ และส่งออกหรือนำเข้าไฟล์ M3U" icon="collection" >}}
-  {{< card title="คลังสื่อ" subtitle="เพิ่มเพลงและจัดระเบียบตามอัลบั้ม ศิลปิน และแนวเพลงด้วยแท็ก" icon="library" >}}
-  {{< card title="ค้นหาขั้นสูง" subtitle="ค้นหาเพลง ศิลปิน หรืออัลบั้มอย่างรวดเร็วด้วยเครื่องมือค้นหาอัจฉริยะ" icon="search" >}}
+  {{< feature-card title="เพลย์ลิสต์กำหนดเอง" subtitle="สร้าง แก้ไข จัดเรียงเพลย์ลิสต์ และส่งออกหรือนำเข้าไฟล์ M3U" icon="collection" >}}
+  {{< feature-card title="คลังสื่อ" subtitle="เพิ่มเพลงและจัดระเบียบตามอัลบั้ม ศิลปิน และแนวเพลงด้วยแท็ก" icon="library" >}}
+  {{< feature-card title="ค้นหาขั้นสูง" subtitle="ค้นหาเพลง ศิลปิน หรืออัลบั้มอย่างรวดเร็วด้วยเครื่องมือค้นหาอัจฉริยะ" icon="search" >}}
 
-  {{< card title="สตรีมจากคลาวด์" subtitle="สตรีมจาก Google Drive, Dropbox, OneDrive, iCloud, MEGA และอื่นๆ" icon="cloud" >}}
-  {{< card title="เข้าถึง NAS และคอมพิวเตอร์" subtitle="เชื่อมต่อผ่าน SMB, DLNA หรือ WebDAV ถ่ายโอนด้วย iTunes หรือ Wi-Fi" icon="desktop-computer" >}}
-  {{< card title="แฟลชการ์ด USB" subtitle="เล่นเพลงโดยตรงจากการ์ด SD โดยใช้อะแดปเตอร์ USB เช่น iXpand" icon="inbox" >}}
+  {{< feature-card title="สตรีมจากคลาวด์" subtitle="สตรีมจาก Google Drive, Dropbox, OneDrive, iCloud, MEGA และอื่นๆ" icon="cloud" >}}
+  {{< feature-card title="เข้าถึง NAS และคอมพิวเตอร์" subtitle="เชื่อมต่อผ่าน SMB, DLNA หรือ WebDAV ถ่ายโอนด้วย iTunes หรือ Wi-Fi" icon="desktop-computer" >}}
+  {{< feature-card title="แฟลชการ์ด USB" subtitle="เล่นเพลงโดยตรงจากการ์ด SD โดยใช้อะแดปเตอร์ USB เช่น iXpand" icon="inbox" >}}
 
-  {{< card title="ควบคุมการเล่น" subtitle="เปลี่ยนความเร็วและระดับเสียงในการเล่นเพื่อการควบคุมเสียงที่สมบูรณ์แบบ" icon="fast-forward" >}}
-  {{< card title="เนื้อเพลงและคอมเมนต์" subtitle="ดูเนื้อเพลงและคอมเมนต์ที่ฝังอยู่ขณะเล่นเพลง" icon="annotation" >}}
-  {{< card title="แก้ไขแท็ก ID3" subtitle="แก้ไขและปรับปรุงเมตาดาต้าเช่น ชื่อเพลง ศิลปิน หรืออัลบั้มด้วยเครื่องมือในตัว" icon="pencil-alt" >}}
+  {{< feature-card title="ควบคุมการเล่น" subtitle="เปลี่ยนความเร็วและระดับเสียงในการเล่นเพื่อการควบคุมเสียงที่สมบูรณ์แบบ" icon="fast-forward" >}}
+  {{< feature-card title="เนื้อเพลงและคอมเมนต์" subtitle="ดูเนื้อเพลงและคอมเมนต์ที่ฝังอยู่ขณะเล่นเพลง" icon="annotation" >}}
+  {{< feature-card title="แก้ไขแท็ก ID3" subtitle="แก้ไขและปรับปรุงเมตาดาต้าเช่น ชื่อเพลง ศิลปิน หรืออัลบั้มด้วยเครื่องมือในตัว" icon="pencil-alt" >}}
 
-  {{< card title="อีควอไลเซอร์และบูสต์" subtitle="ใช้พรีเซ็ตหรือปรับด้วยตนเองพร้อม preamp gain เพื่อเสียงที่สมบูรณ์" icon="adjustments" >}}
-  {{< card title="Apple CarPlay" subtitle="ขับขี่อย่างปลอดภัยด้วย UI CarPlay ที่ออกแบบมาเพื่อเล่นเพลงโดยเฉพาะ" icon="truck" >}}
-  {{< card title="AirPlay และ Chromecast" subtitle="สตรีมไปยัง Apple TV และอุปกรณ์ Google Chromecast แบบไร้สาย" icon="device-mobile" >}}
+  {{< feature-card title="อีควอไลเซอร์และบูสต์" subtitle="ใช้พรีเซ็ตหรือปรับด้วยตนเองพร้อม preamp gain เพื่อเสียงที่สมบูรณ์" icon="adjustments" >}}
+  {{< feature-card title="Apple CarPlay" subtitle="ขับขี่อย่างปลอดภัยด้วย UI CarPlay ที่ออกแบบมาเพื่อเล่นเพลงโดยเฉพาะ" icon="truck" >}}
+  {{< feature-card title="AirPlay และ Chromecast" subtitle="สตรีมไปยัง Apple TV และอุปกรณ์ Google Chromecast แบบไร้สาย" icon="device-mobile" >}}
 
-  {{< card title="เชื่อมต่อ Last.fm" subtitle="ติดตามสถิติเพลงและรับคำแนะนำเพลงส่วนบุคคล" icon="chart-bar" >}}
-  {{< card title="ซิงค์อัตโนมัติ" subtitle="ซิงค์คลังเพลงอัตโนมัติกับโฟลเดอร์คลาวด์และโฟลเดอร์ในเครื่อง" icon="refresh" >}}
-  {{< card title="รองรับหนังสือเสียง" subtitle="ฟังหนังสือเสียงพร้อมบุ๊กมาร์ก ตั้งเวลาปิด และเล่นต่อจากจุดที่หยุดไว้" icon="book-open" >}}
+  {{< feature-card title="เชื่อมต่อ Last.fm" subtitle="ติดตามสถิติเพลงและรับคำแนะนำเพลงส่วนบุคคล" icon="chart-bar" >}}
+  {{< feature-card title="ซิงค์อัตโนมัติ" subtitle="ซิงค์คลังเพลงอัตโนมัติกับโฟลเดอร์คลาวด์และโฟลเดอร์ในเครื่อง" icon="refresh" >}}
+  {{< feature-card title="รองรับหนังสือเสียง" subtitle="ฟังหนังสือเสียงพร้อมบุ๊กมาร์ก ตั้งเวลาปิด และเล่นต่อจากจุดที่หยุดไว้" icon="book-open" >}}
 
 {{< /cards >}}
 
@@ -167,7 +167,7 @@ Flacbox ยังเล่น MP3, AAC, OGG, APE, MOD, MKA และคอนเ
 
 {{< cards cols="4">}}
 
-  {{< card 
+  {{< feature-card 
     image="/products/flacbox/screenshots/2048x2732/1.png" 
     title="เครื่องเล่นเสียง" 
     method="Fill"
@@ -176,7 +176,7 @@ Flacbox ยังเล่น MP3, AAC, OGG, APE, MOD, MKA และคอนเ
     icon="play"
   >}}
 
-  {{< card 
+  {{< feature-card 
     image="/products/flacbox/screenshots/2048x2732/2.png"  
     title="อีควอไลเซอร์เสียง" 
     method="Fill"
@@ -185,7 +185,7 @@ Flacbox ยังเล่น MP3, AAC, OGG, APE, MOD, MKA และคอนเ
     icon="adjustments"
   >}}
 
-  {{< card 
+  {{< feature-card 
     image="/products/flacbox/screenshots/2048x2732/3.png"  
     title="จัดการเพลย์ลิสต์" 
     method="Fill"
@@ -194,7 +194,7 @@ Flacbox ยังเล่น MP3, AAC, OGG, APE, MOD, MKA และคอนเ
     icon="collection"
   >}}
 
-  {{< card 
+  {{< feature-card 
     image="/products/flacbox/screenshots/2048x2732/5.png"  
     title="คลังสื่อ" 
     method="Fill"
@@ -203,7 +203,7 @@ Flacbox ยังเล่น MP3, AAC, OGG, APE, MOD, MKA และคอนเ
     icon="library"
   >}}
 
-  {{< card 
+  {{< feature-card 
     image="/products/flacbox/screenshots/2048x2732/7.png"  
     title="คลาวด์สตอเรจ" 
     method="Fill"
@@ -212,7 +212,7 @@ Flacbox ยังเล่น MP3, AAC, OGG, APE, MOD, MKA และคอนเ
     icon="cloud"
   >}}
 
-  {{< card 
+  {{< feature-card 
     image="/products/flacbox/screenshots/2048x2732/8.png"  
     title="iCloud Drive" 
     method="Fill"
@@ -835,19 +835,19 @@ Flacbox ให้โซลูชันครบครันสำหรับผ
 
 {{< cards >}}
 
-{{< card icon="map" link="/docs/guide/flacbox/flacbox-guide-navigation" title="การนำทาง" subtitle="ใช้แถบแท็บบน iPhone หรือเมนูด้านซ้ายบน iPad และ Mac" >}}
+{{< feature-card icon="map" link="/docs/guide/flacbox/flacbox-guide-navigation" title="การนำทาง" subtitle="ใช้แถบแท็บบน iPhone หรือเมนูด้านซ้ายบน iPad และ Mac" >}}
 
-{{< card icon="cloud" link="/docs/guide/flacbox/flacbox-guide-connections" title="การเชื่อมต่อ" subtitle="เชื่อมต่อ Dropbox, Google Drive, iCloud หรือ NAS ของคุณ" >}}
+{{< feature-card icon="cloud" link="/docs/guide/flacbox/flacbox-guide-connections" title="การเชื่อมต่อ" subtitle="เชื่อมต่อ Dropbox, Google Drive, iCloud หรือ NAS ของคุณ" >}}
 
-{{< card icon="collection" link="/docs/guide/flacbox/flacbox-guide-music-library" title="คลังเพลง" subtitle="จัดการและค้นหาแทร็กตามศิลปิน อัลบั้ม หรือแนวเพลง" >}}
+{{< feature-card icon="collection" link="/docs/guide/flacbox/flacbox-guide-music-library" title="คลังเพลง" subtitle="จัดการและค้นหาแทร็กตามศิลปิน อัลบั้ม หรือแนวเพลง" >}}
 
-{{< card icon="music-note" link="/docs/guide/flacbox/flacbox-guide-playlists" title="เพลย์ลิสต์" subtitle="สร้างและจัดระเบียบเพลย์ลิสต์สำหรับทุกอารมณ์และโอกาส" >}}
+{{< feature-card icon="music-note" link="/docs/guide/flacbox/flacbox-guide-playlists" title="เพลย์ลิสต์" subtitle="สร้างและจัดระเบียบเพลย์ลิสต์สำหรับทุกอารมณ์และโอกาส" >}}
 
-{{< card icon="folder" link="/docs/guide/flacbox/flacbox-guide-local-files" title="ไฟล์ในเครื่อง" subtitle="แก้ไขและเล่นเพลงออฟไลน์ด้วยตัวจัดการไฟล์ในตัว" >}}
+{{< feature-card icon="folder" link="/docs/guide/flacbox/flacbox-guide-local-files" title="ไฟล์ในเครื่อง" subtitle="แก้ไขและเล่นเพลงออฟไลน์ด้วยตัวจัดการไฟล์ในตัว" >}}
 
-{{< card icon="play" link="/docs/guide/flacbox/flacbox-guide-player" title="เครื่องเล่นเสียง" subtitle="ควบคุมการเล่น ปรับความเร็ว ตั้งบุ๊กมาร์ก และอื่นๆ" >}}
+{{< feature-card icon="play" link="/docs/guide/flacbox/flacbox-guide-player" title="เครื่องเล่นเสียง" subtitle="ควบคุมการเล่น ปรับความเร็ว ตั้งบุ๊กมาร์ก และอื่นๆ" >}}
 
-{{< card icon="adjustments" link="/docs/guide/flacbox/flacbox-guide-settings" title="การตั้งค่า" subtitle="ปรับแต่งอีควอไลเซอร์ ลักษณะที่ปรากฏ และพฤติกรรมของแอป" >}}
+{{< feature-card icon="adjustments" link="/docs/guide/flacbox/flacbox-guide-settings" title="การตั้งค่า" subtitle="ปรับแต่งอีควอไลเซอร์ ลักษณะที่ปรากฏ และพฤติกรรมของแอป" >}}
 
 {{< /cards >}}
 

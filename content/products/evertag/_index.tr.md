@@ -491,17 +491,17 @@ Bu mod, birden fazla ses dosyasına aynı albüm adını, sanatçıyı, türü v
 </div>
 
 {{< cards >}}
-  {{< card icon="location-marker" title="Gezinme" subtitle="Uygulamanın tüm özelliklerine erişmek ve keşfetmek için Sekme Çubuğunu (iPhone kullanıcıları için) veya Sol Menüyü (iPad ve Mac kullanıcıları için) kullanarak uygulamamızda zahmetsizce gezinmeyi öğrenin." link="/docs/guide/evertag/evertag-guide-navigation" >}}
+  {{< feature-card icon="location-marker" title="Gezinme" subtitle="Uygulamanın tüm özelliklerine erişmek ve keşfetmek için Sekme Çubuğunu (iPhone kullanıcıları için) veya Sol Menüyü (iPad ve Mac kullanıcıları için) kullanarak uygulamamızda zahmetsizce gezinmeyi öğrenin." link="/docs/guide/evertag/evertag-guide-navigation" >}}
 
-  {{< card icon="cloud" title="Bağlantılar" subtitle="Değerli ses dosyalarınızla tüm mevcut bulut hesaplarınızı zahmetsizce bağlayın. Entegre dosya yöneticimizi kullanarak çevrimiçi dosyalarınızı bile zahmetsizce düzenleyebilirsiniz." link="/docs/guide/evertag/evertag-guide-connections" >}}
+  {{< feature-card icon="cloud" title="Bağlantılar" subtitle="Değerli ses dosyalarınızla tüm mevcut bulut hesaplarınızı zahmetsizce bağlayın. Entegre dosya yöneticimizi kullanarak çevrimiçi dosyalarınızı bile zahmetsizce düzenleyebilirsiniz." link="/docs/guide/evertag/evertag-guide-connections" >}}
 
-  {{< card icon="folder" title="Yerel Dosyalar" subtitle="Uygulamanın Belgeler klasöründe veya cihazınızda depolanan dosyaları görüntüleyin ve düzenleyin. Ses dosyalarınızı kolaylıkla düzenlemek ve yönetmek için dahili dosya yöneticisini kullanın." link="/docs/guide/evertag/evertag-guide-local-files" >}}
+  {{< feature-card icon="folder" title="Yerel Dosyalar" subtitle="Uygulamanın Belgeler klasöründe veya cihazınızda depolanan dosyaları görüntüleyin ve düzenleyin. Ses dosyalarınızı kolaylıkla düzenlemek ve yönetmek için dahili dosya yöneticisini kullanın." link="/docs/guide/evertag/evertag-guide-local-files" >}}
 
-  {{< card icon="pencil-alt" title="Etiket Düzenleyici" subtitle="Ses dosyası meta veri düzenleme sanatında ustalaşın. Meta verileri nasıl düzenleyeceğinizi, albüm kapaklarını nasıl dönüştüreceğinizi ve birden fazla dosyayı aynı anda nasıl sorunsuz yöneteceğinizi öğrenin." link="/docs/guide/evertag/evertag-guide-tag-editor" >}}
+  {{< feature-card icon="pencil-alt" title="Etiket Düzenleyici" subtitle="Ses dosyası meta veri düzenleme sanatında ustalaşın. Meta verileri nasıl düzenleyeceğinizi, albüm kapaklarını nasıl dönüştüreceğinizi ve birden fazla dosyayı aynı anda nasıl sorunsuz yöneteceğinizi öğrenin." link="/docs/guide/evertag/evertag-guide-tag-editor" >}}
 
-  {{< card icon="code" title="Etiket Alanı Eşlemeleri" subtitle="Evertag uygulaması tarafından desteklenen ses etiket alanlarının tam listesini, dahili alan adlarını ve başlıca meta veri formatları arasındaki eşlemeleri keşfedin." link="/docs/guide/evertag/evertag-tag-field-mappings" >}}
+  {{< feature-card icon="code" title="Etiket Alanı Eşlemeleri" subtitle="Evertag uygulaması tarafından desteklenen ses etiket alanlarının tam listesini, dahili alan adlarını ve başlıca meta veri formatları arasındaki eşlemeleri keşfedin." link="/docs/guide/evertag/evertag-tag-field-mappings" >}}
 
-  {{< card icon="adjustments" title="Ayarlar" subtitle="Uygulama deneyiminizi nasıl özelleştireceğinizi, performansı nasıl ince ayar yapacağınızı, veri kullanımını nasıl yöneteceğinizi ve dil ile kullanıcı arayüzü tercihlerini nasıl beğeninize göre uyarlayacağınızı keşfedin." link="/docs/guide/evertag/evertag-guide-settings" >}}
+  {{< feature-card icon="adjustments" title="Ayarlar" subtitle="Uygulama deneyiminizi nasıl özelleştireceğinizi, performansı nasıl ince ayar yapacağınızı, veri kullanımını nasıl yöneteceğinizi ve dil ile kullanıcı arayüzü tercihlerini nasıl beğeninize göre uyarlayacağınızı keşfedin." link="/docs/guide/evertag/evertag-guide-settings" >}}
 
 {{< /cards >}}
 

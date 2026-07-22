@@ -148,7 +148,7 @@ screenshots:
 
 {{< cards cols="4">}}
 
-  {{< card 
+  {{< feature-card 
     icon="adjustments"
     image="/products/evermusic/screenshots/2048x2732/3.png" 
     title="Ισοσταθμιστής Ήχου" 
@@ -157,7 +157,7 @@ screenshots:
     subtitle="Ρυθμίστε τον ήχο σας με έναν ισοσταθμιστή ήχου τύπου iPod, προσαρμόσιμες προεπιλογές και ρύθμιση προενίσχυσης για την καλύτερη εμπειρία ακρόασης." 
   >}}
 
-  {{< card 
+  {{< feature-card 
     icon="annotation"
     image="/products/evermusic/screenshots/2048x2732/4.png"  
     title="Προβολή Στίχων" 
@@ -166,7 +166,7 @@ screenshots:
     subtitle="Διαβάστε ενσωματωμένους στίχους και σχόλια κομματιών κατά την ακρόαση. Απολαύστε συγχρονισμένους στίχους για μια πιο καθηλωτική μουσική εμπειρία." 
   >}}
 
-  {{< card 
+  {{< feature-card 
     icon="collection"
     image="/products/evermusic/screenshots/2048x2732/5.png"  
     title="Διαχείριση Λιστών Αναπαραγωγής" 
@@ -175,7 +175,7 @@ screenshots:
     subtitle="Δημιουργήστε και οργανώστε προσαρμοσμένες λίστες αναπαραγωγής, αναδιατάξτε τραγούδια, εξαγάγετε σε M3U ή αρχειοθετήστε ως αρχεία ZIP για εύκολη κοινοποίηση ή αντίγραφο ασφαλείας." 
   >}}
 
-  {{< card 
+  {{< feature-card 
     icon="cloud"
     image="/products/evermusic/screenshots/2048x2732/6.png"  
     title="Ροή Μουσικής από Cloud" 
@@ -184,7 +184,7 @@ screenshots:
     subtitle="Συνδέστε κορυφαίες πλατφόρμες αποθήκευσης cloud όπως Google Drive, Dropbox και OneDrive για ροή της μουσικής σας συλλογής οποτεδήποτε, οπουδήποτε." 
   >}}
 
-  {{< card 
+  {{< feature-card 
     icon="duplicate"
     image="/products/evermusic/screenshots/2048x2732/9.png"  
     title="Διαχείριση Αρχείων" 
@@ -193,7 +193,7 @@ screenshots:
     subtitle="Διαχειριστείτε εύκολα τα αρχεία ήχου σας — μετονομάστε κομμάτια, οργανώστε φακέλους και μεταφέρετε μουσική μεταξύ συσκευών χρησιμοποιώντας ενσωματωμένα εργαλεία." 
   >}} 
 
-  {{< card 
+  {{< feature-card 
     icon="sun"
     image="/products/evermusic/screenshots/2048x2732/10.png"  
     title="Προσαρμογή Εφαρμογής" 
@@ -218,41 +218,41 @@ screenshots:
 
 {{< cards >}}
 
-  {{< card title="Μορφές Ήχου" subtitle="Υποστηρίζει: mp3, m4a, flac, wav, aac, mp4, m3u, m3u8, m4b, m4p, aiff, ogg, mp2, ac3, wma και άλλα." icon="music-note" >}}
+  {{< feature-card title="Μορφές Ήχου" subtitle="Υποστηρίζει: mp3, m4a, flac, wav, aac, mp4, m3u, m3u8, m4b, m4p, aiff, ogg, mp2, ac3, wma και άλλα." icon="music-note" >}}
 
-  {{< card title="Ηχοβιβλία" subtitle="Περιλαμβάνει σελιδοδείκτες ήχου, έλεγχο ταχύτητας αναπαραγωγής και συνέχιση θέσης." icon="book-open" width="50">}}
+  {{< feature-card title="Ηχοβιβλία" subtitle="Περιλαμβάνει σελιδοδείκτες ήχου, έλεγχο ταχύτητας αναπαραγωγής και συνέχιση θέσης." icon="book-open" width="50">}}
 
-  {{< card title="Αυτόματος Συγχρονισμός" subtitle="Συγχρονίζει τη μουσική βιβλιοθήκη σας με το cloud, οργανωμένη ανά καλλιτέχνη, άλμπουμ και είδος." icon="refresh" >}}
+  {{< feature-card title="Αυτόματος Συγχρονισμός" subtitle="Συγχρονίζει τη μουσική βιβλιοθήκη σας με το cloud, οργανωμένη ανά καλλιτέχνη, άλμπουμ και είδος." icon="refresh" >}}
 
-  {{< card title="Διαχείριση Αρχείων" subtitle="Διαχειριστείτε αρχεία με λειτουργίες όπως αντιγραφή, μετακίνηση, μετονομασία και διαγραφή." icon="folder" >}}
+  {{< feature-card title="Διαχείριση Αρχείων" subtitle="Διαχειριστείτε αρχεία με λειτουργίες όπως αντιγραφή, μετακίνηση, μετονομασία και διαγραφή." icon="folder" >}}
 
-  {{< card title="Υπηρεσίες Cloud" subtitle="Υποστηρίζει iCloud, Google Drive, Dropbox, OneDrive, Box, MEGA, WD MyCloud Home, pCloud και άλλα." icon="cloud" >}}
+  {{< feature-card title="Υπηρεσίες Cloud" subtitle="Υποστηρίζει iCloud, Google Drive, Dropbox, OneDrive, Box, MEGA, WD MyCloud Home, pCloud και άλλα." icon="cloud" >}}
 
-  {{< card title="Αναπαραγωγή Crossfade" subtitle="Το επόμενο τραγούδι ξεκινά πριν τελειώσει το τρέχον για ομαλές μεταβάσεις." icon="switch-horizontal" >}}
+  {{< feature-card title="Αναπαραγωγή Crossfade" subtitle="Το επόμενο τραγούδι ξεκινά πριν τελειώσει το τρέχον για ομαλές μεταβάσεις." icon="switch-horizontal" >}}
 
-  {{< card title="Αναπαραγωγή Χωρίς Κενά" subtitle="Χωρίς παύσεις μεταξύ τραγουδιών — ιδανικό για ζωντανά, κλασικά ή concept άλμπουμ." icon="volume-up" >}}
+  {{< feature-card title="Αναπαραγωγή Χωρίς Κενά" subtitle="Χωρίς παύσεις μεταξύ τραγουδιών — ιδανικό για ζωντανά, κλασικά ή concept άλμπουμ." icon="volume-up" >}}
 
-  {{< card title="Ισοσταθμιστής Ήχου" subtitle="Προσαρμόσιμος ισοσταθμιστής με προεπιλογές, χειροκίνητο έλεγχο και ρύθμιση προενίσχυσης." icon="adjustments" >}}
+  {{< feature-card title="Ισοσταθμιστής Ήχου" subtitle="Προσαρμόσιμος ισοσταθμιστής με προεπιλογές, χειροκίνητο έλεγχο και ρύθμιση προενίσχυσης." icon="adjustments" >}}
 
-  {{< card title="Προηγμένη Αναζήτηση" subtitle="Βρείτε τα αγαπημένα σας άλμπουμ, καλλιτέχνες και κομμάτια γρήγορα και εύκολα." icon="search" >}}
+  {{< feature-card title="Προηγμένη Αναζήτηση" subtitle="Βρείτε τα αγαπημένα σας άλμπουμ, καλλιτέχνες και κομμάτια γρήγορα και εύκολα." icon="search" >}}
 
-  {{< card title="Πρόσβαση Υπολογιστή" subtitle="Σύνδεση μέσω SMB, WebDAV ή DLNA. Μεταφορά μέσω iTunes File Sharing και Wi-Fi." icon="desktop-computer" >}}
+  {{< feature-card title="Πρόσβαση Υπολογιστή" subtitle="Σύνδεση μέσω SMB, WebDAV ή DLNA. Μεταφορά μέσω iTunes File Sharing και Wi-Fi." icon="desktop-computer" >}}
 
-  {{< card title="AirPlay & Chromecast" subtitle="Ροή σε συσκευές Apple TV και Google Chromecast ασύρματα." icon="device-mobile" >}}
+  {{< feature-card title="AirPlay & Chromecast" subtitle="Ροή σε συσκευές Apple TV και Google Chromecast ασύρματα." icon="device-mobile" >}}
 
-  {{< card title="Λίστες Αναπαραγωγής" subtitle="Δημιουργία, επεξεργασία, αναδιάταξη και εξαγωγή/εισαγωγή λιστών αναπαραγωγής M3U με λειτουργία εκτός σύνδεσης." icon="collection" >}}
+  {{< feature-card title="Λίστες Αναπαραγωγής" subtitle="Δημιουργία, επεξεργασία, αναδιάταξη και εξαγωγή/εισαγωγή λιστών αναπαραγωγής M3U με λειτουργία εκτός σύνδεσης." icon="collection" >}}
 
-  {{< card title="Κάρτες USB Flash" subtitle="Αναπαραγωγή μουσικής απευθείας από κάρτες SD χρησιμοποιώντας εξωτερικούς αναγνώστες όπως SanDisk iXpand." icon="inbox" >}}
+  {{< feature-card title="Κάρτες USB Flash" subtitle="Αναπαραγωγή μουσικής απευθείας από κάρτες SD χρησιμοποιώντας εξωτερικούς αναγνώστες όπως SanDisk iXpand." icon="inbox" >}}
 
-  {{< card title="Λειτουργία Εκτός Σύνδεσης" subtitle="Λήψη άλμπουμ και λιστών αναπαραγωγής ή αυτόματη προσωρινή αποθήκευση πρόσφατα αναπαραγόμενων κομματιών για ακρόαση εκτός σύνδεσης." icon="download" >}}
+  {{< feature-card title="Λειτουργία Εκτός Σύνδεσης" subtitle="Λήψη άλμπουμ και λιστών αναπαραγωγής ή αυτόματη προσωρινή αποθήκευση πρόσφατα αναπαραγόμενων κομματιών για ακρόαση εκτός σύνδεσης." icon="download" >}}
 
-  {{< card title="Apple CarPlay" subtitle="Οδηγήστε με ασφάλεια με ειδική διεπαφή CarPlay για αναπαραγωγή μουσικής." icon="truck" >}}
+  {{< feature-card title="Apple CarPlay" subtitle="Οδηγήστε με ασφάλεια με ειδική διεπαφή CarPlay για αναπαραγωγή μουσικής." icon="truck" >}}
 
-  {{< card title="Επεξεργαστής Ετικετών ID3" subtitle="Επεξεργαστείτε κατεστραμμένα ή ελλιπή μεταδεδομένα χρησιμοποιώντας τον ενσωματωμένο επεξεργαστή ετικετών." icon="pencil-alt" >}}
+  {{< feature-card title="Επεξεργαστής Ετικετών ID3" subtitle="Επεξεργαστείτε κατεστραμμένα ή ελλιπή μεταδεδομένα χρησιμοποιώντας τον ενσωματωμένο επεξεργαστή ετικετών." icon="pencil-alt" >}}
 
-  {{< card title="Στίχοι και Σχόλια" subtitle="Προβολή ενσωματωμένων στίχων και σχολίων κατά την ακρόαση της μουσικής σας." icon="annotation" >}}
+  {{< feature-card title="Στίχοι και Σχόλια" subtitle="Προβολή ενσωματωμένων στίχων και σχολίων κατά την ακρόαση της μουσικής σας." icon="annotation" >}}
 
-  {{< card title="Last.fm" subtitle="Συνδέστε τον λογαριασμό σας Last.fm για εξατομικευμένα στατιστικά ακρόασης και προτάσεις." icon="chart-bar" >}}
+  {{< feature-card title="Last.fm" subtitle="Συνδέστε τον λογαριασμό σας Last.fm για εξατομικευμένα στατιστικά ακρόασης και προτάσεις." icon="chart-bar" >}}
   
 {{< /cards >}}
 
@@ -704,19 +704,19 @@ mpeg, aifc, 3gp, avi, aif, latm, 3gpp, m4a, loas, cdda, aac, m4p, m4b, ac3, pls,
 </div>
 
 {{< cards >}}
-  {{< card icon="location-marker" title="Πλοήγηση" subtitle="Μάθετε πώς να πλοηγείστε στο Evermusic χρησιμοποιώντας τη Γραμμή Καρτελών στο iPhone ή το Αριστερό Μενού στο iPad και Mac." link="/docs/guide/evermusic/evermusic-guide-navigation" >}}
+  {{< feature-card icon="location-marker" title="Πλοήγηση" subtitle="Μάθετε πώς να πλοηγείστε στο Evermusic χρησιμοποιώντας τη Γραμμή Καρτελών στο iPhone ή το Αριστερό Μενού στο iPad και Mac." link="/docs/guide/evermusic/evermusic-guide-navigation" >}}
 
-  {{< card icon="cloud" title="Συνδέσεις" subtitle="Συνδέστε τους λογαριασμούς cloud σας και διαχειριστείτε τα online αρχεία χρησιμοποιώντας τον ενσωματωμένο διαχειριστή αρχείων." link="/docs/guide/evermusic/evermusic-guide-connections" >}}
+  {{< feature-card icon="cloud" title="Συνδέσεις" subtitle="Συνδέστε τους λογαριασμούς cloud σας και διαχειριστείτε τα online αρχεία χρησιμοποιώντας τον ενσωματωμένο διαχειριστή αρχείων." link="/docs/guide/evermusic/evermusic-guide-connections" >}}
 
-  {{< card icon="library" title="Μουσική Βιβλιοθήκη" subtitle="Οργανώστε και εξερευνήστε τα κομμάτια, τα άλμπουμ και τους καλλιτέχνες σας στη Μουσική Βιβλιοθήκη." link="/docs/guide/evermusic/evermusic-guide-music-library" >}}
+  {{< feature-card icon="library" title="Μουσική Βιβλιοθήκη" subtitle="Οργανώστε και εξερευνήστε τα κομμάτια, τα άλμπουμ και τους καλλιτέχνες σας στη Μουσική Βιβλιοθήκη." link="/docs/guide/evermusic/evermusic-guide-music-library" >}}
 
-  {{< card icon="collection" title="Λίστες Αναπαραγωγής" subtitle="Δημιουργήστε και οργανώστε λίστες αναπαραγωγής ανάλογα με τη διάθεση ή την περίστασή σας." link="/docs/guide/evermusic/evermusic-guide-playlists" >}}
+  {{< feature-card icon="collection" title="Λίστες Αναπαραγωγής" subtitle="Δημιουργήστε και οργανώστε λίστες αναπαραγωγής ανάλογα με τη διάθεση ή την περίστασή σας." link="/docs/guide/evermusic/evermusic-guide-playlists" >}}
 
-  {{< card icon="folder" title="Τοπικά Αρχεία" subtitle="Αποκτήστε πρόσβαση και διαχειριστείτε τη μουσική εκτός σύνδεσης μέσω της ενότητας Τοπικά Αρχεία." link="/docs/guide/evermusic/evermusic-guide-local-files" >}}
+  {{< feature-card icon="folder" title="Τοπικά Αρχεία" subtitle="Αποκτήστε πρόσβαση και διαχειριστείτε τη μουσική εκτός σύνδεσης μέσω της ενότητας Τοπικά Αρχεία." link="/docs/guide/evermusic/evermusic-guide-local-files" >}}
 
-  {{< card icon="play" title="Αναπαραγωγή Ήχου" subtitle="Ελέγξτε την αναπαραγωγή, την ουρά και τις ρυθμίσεις ήχου όπως ισοσταθμιστής και χρονοδιακόπτης ύπνου." link="/docs/guide/evermusic/evermusic-guide-player" >}}
+  {{< feature-card icon="play" title="Αναπαραγωγή Ήχου" subtitle="Ελέγξτε την αναπαραγωγή, την ουρά και τις ρυθμίσεις ήχου όπως ισοσταθμιστής και χρονοδιακόπτης ύπνου." link="/docs/guide/evermusic/evermusic-guide-player" >}}
 
-  {{< card icon="adjustments" title="Ρυθμίσεις" subtitle="Προσαρμόστε την εμφάνιση, τα χαρακτηριστικά και τις ρυθμίσεις απόδοσης του Evermusic." link="/docs/guide/evermusic/evermusic-guide-settings" >}}
+  {{< feature-card icon="adjustments" title="Ρυθμίσεις" subtitle="Προσαρμόστε την εμφάνιση, τα χαρακτηριστικά και τις ρυθμίσεις απόδοσης του Evermusic." link="/docs/guide/evermusic/evermusic-guide-settings" >}}
 
 {{< /cards >}}
 

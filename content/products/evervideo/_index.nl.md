@@ -144,35 +144,35 @@ Alle Functies
 
 {{< cards >}}
 
-{{< card title="Speel Alle Video- en Audioformaten" subtitle="Bekijk je media zonder bestanden te converteren. Evervideo ondersteunt alle belangrijke formaten, waaronder MKV, AVI, MP4, MOV, FLAC, MP3, AAC, OGG, WAV, WMV en meer." icon="film">}}
+{{< feature-card title="Speel Alle Video- en Audioformaten" subtitle="Bekijk je media zonder bestanden te converteren. Evervideo ondersteunt alle belangrijke formaten, waaronder MKV, AVI, MP4, MOV, FLAC, MP3, AAC, OGG, WAV, WMV en meer." icon="film">}}
 
-{{< card title="Offlinemodus" subtitle="Download video's, albums en afspeellijsten om te bekijken zonder internetverbinding. Neem je hele videocollectie overal mee naartoe." icon="download">}}
+{{< feature-card title="Offlinemodus" subtitle="Download video's, albums en afspeellijsten om te bekijken zonder internetverbinding. Neem je hele videocollectie overal mee naartoe." icon="download">}}
 
-{{< card title="360° Video & VR-modus" subtitle="Bekijk 360°- en VR-video's op een leuke en gemakkelijke manier. Beweeg je telefoon om in elke richting te kijken, of plaats hem in een VR-headset om je in de video te wanen." icon="video-camera">}}
+{{< feature-card title="360° Video & VR-modus" subtitle="Bekijk 360°- en VR-video's op een leuke en gemakkelijke manier. Beweeg je telefoon om in elke richting te kijken, of plaats hem in een VR-headset om je in de video te wanen." icon="video-camera">}}
 
-{{< card title="Beeld-in-beeld" subtitle="Blijf video's kijken in een klein zwevend venster terwijl je andere apps gebruikt. Bedien het afspelen en bekijk ondertitels tegelijkertijd – perfect voor multitasking." icon="duplicate">}}
+{{< feature-card title="Beeld-in-beeld" subtitle="Blijf video's kijken in een klein zwevend venster terwijl je andere apps gebruikt. Bedien het afspelen en bekijk ondertitels tegelijkertijd – perfect voor multitasking." icon="duplicate">}}
 
-{{< card title="Video- & Audio-equalizer" subtitle="Pas aan hoe je video's eruitzien en klinken. Pas bas, toonhoogte, helderheid, gamma, verzadiging, contrast en meer aan. Kies uit 50+ videopresets en 20+ audiopresets, of maak je eigen." icon="adjustments">}}
+{{< feature-card title="Video- & Audio-equalizer" subtitle="Pas aan hoe je video's eruitzien en klinken. Pas bas, toonhoogte, helderheid, gamma, verzadiging, contrast en meer aan. Kies uit 50+ videopresets en 20+ audiopresets, of maak je eigen." icon="adjustments">}}
 
-{{< card title="Ondertitels" subtitle="Bekijk ingesloten ondertitels, selecteer het ondertitelspoor en geniet van volledige ondertitelondersteuning, zelfs in de Beeld-in-beeld-modus." icon="annotation" >}}
+{{< feature-card title="Ondertitels" subtitle="Bekijk ingesloten ondertitels, selecteer het ondertitelspoor en geniet van volledige ondertitelondersteuning, zelfs in de Beeld-in-beeld-modus." icon="annotation" >}}
 
-{{< card title="Direct Afspelen vanuit de Cloud" subtitle="Bekijk video's rechtstreeks vanuit je cloudopslag zonder apparaatruimte te gebruiken. Ondersteunt iCloud Drive, Google Drive, Dropbox, OneDrive, MEGA, Synology Drive, pCloud en meer." icon="cloud">}}
+{{< feature-card title="Direct Afspelen vanuit de Cloud" subtitle="Bekijk video's rechtstreeks vanuit je cloudopslag zonder apparaatruimte te gebruiken. Ondersteunt iCloud Drive, Google Drive, Dropbox, OneDrive, MEGA, Synology Drive, pCloud en meer." icon="cloud">}}
 
-{{< card title="Computer / NAS Verbinden" subtitle="Verbind eenvoudig je NAS, Mac of PC via je thuisnetwerk met SMB, WebDAV of DLNA. Externe toegang wordt ondersteund voor Synology Drive en WD MyCloud Home. Draag mediabestanden over naar je apparaat via Wi-Fi of iTunes Bestandsdeling." icon="desktop-computer">}}
+{{< feature-card title="Computer / NAS Verbinden" subtitle="Verbind eenvoudig je NAS, Mac of PC via je thuisnetwerk met SMB, WebDAV of DLNA. Externe toegang wordt ondersteund voor Synology Drive en WD MyCloud Home. Draag mediabestanden over naar je apparaat via Wi-Fi of iTunes Bestandsdeling." icon="desktop-computer">}}
 
-{{< card title="Mediabibliotheek" subtitle="Organiseer op album, genre of duur. Synchroniseert automatisch met cloudwijzigingen. Maak, bewerk en exporteer M3U-afspeellijsten met aangepaste sortering." icon="library" >}}
+{{< feature-card title="Mediabibliotheek" subtitle="Organiseer op album, genre of duur. Synchroniseert automatisch met cloudwijzigingen. Maak, bewerk en exporteer M3U-afspeellijsten met aangepaste sortering." icon="library" >}}
 
-{{< card title="Bladwijzers & Afspeelpositie Opslaan" subtitle="Sla je plek op in elke video met bladwijzers en hervat het afspelen waar je gebleven was. Pas de afspeelsnelheid aan, markeer favorieten en sorteer video's op meest afgespeeld voor gemakkelijke toegang." icon="book-open">}}
+{{< feature-card title="Bladwijzers & Afspeelpositie Opslaan" subtitle="Sla je plek op in elke video met bladwijzers en hervat het afspelen waar je gebleven was. Pas de afspeelsnelheid aan, markeer favorieten en sorteer video's op meest afgespeeld voor gemakkelijke toegang." icon="book-open">}}
 
-{{< card title="AirPlay & Chromecast" subtitle="Speel video's af op een groter scherm door te streamen naar Apple TV, Chromecast of een compatibel extern beeldscherm." icon="device-mobile">}}
+{{< feature-card title="AirPlay & Chromecast" subtitle="Speel video's af op een groter scherm door te streamen naar Apple TV, Chromecast of een compatibel extern beeldscherm." icon="device-mobile">}}
 
-{{< card title="Importeren vanuit Bestanden & Bibliotheken" subtitle="Importeer video's rechtstreeks vanuit de Bestanden-app, Foto's of je iTunes-bibliotheek. Krijg toegang tot al je lokale en cloudinhoud in één georganiseerde mediabibliotheek." icon="database">}}
+{{< feature-card title="Importeren vanuit Bestanden & Bibliotheken" subtitle="Importeer video's rechtstreeks vanuit de Bestanden-app, Foto's of je iTunes-bibliotheek. Krijg toegang tot al je lokale en cloudinhoud in één georganiseerde mediabibliotheek." icon="database">}}
 
-{{< card title="Bestandsbeheerder" subtitle="Verplaats, hernoem, verwijder en organiseer bestanden rechtstreeks in de app." icon="folder">}}
+{{< feature-card title="Bestandsbeheerder" subtitle="Verplaats, hernoem, verwijder en organiseer bestanden rechtstreeks in de app." icon="folder">}}
 
-{{< card title="Personalisatie" subtitle="Pas de app aan naar je voorkeuren. Kies thema's, toon of verberg functies en pas de interface aan naar je wensen." icon="sun">}}
+{{< feature-card title="Personalisatie" subtitle="Pas de app aan naar je voorkeuren. Kies thema's, toon of verberg functies en pas de interface aan naar je wensen." icon="sun">}}
 
-{{< card title="Slim Zoeken" subtitle="Vind snel video's, albums of afspeellijsten in je mediabibliotheek met trefwoorden of filters." icon="search" >}}
+{{< feature-card title="Slim Zoeken" subtitle="Vind snel video's, albums of afspeellijsten in je mediabibliotheek met trefwoorden of filters." icon="search" >}}
 
 
 
@@ -192,7 +192,7 @@ Intuïtief Ontwerp
 
 {{< cards cols="4">}}
 
-  {{< card 
+  {{< feature-card 
     image="/products/evervideo/screenshots/2880x1800/1.png" 
     title="Videospeler" 
     method="Fill"
@@ -201,7 +201,7 @@ Intuïtief Ontwerp
     icon="play"
   >}}
 
-  {{< card 
+  {{< feature-card 
     image="/products/evervideo/screenshots/2880x1800/3.png" 
     title="Audio- & Video-equalizer" 
     method="Fill"
@@ -210,7 +210,7 @@ Intuïtief Ontwerp
     icon="adjustments"
   >}}
 
-  {{< card 
+  {{< feature-card 
     image="/products/evervideo/screenshots/2880x1800/6.png" 
     title="Afspeellijstbeheerder" 
     method="Fill"
@@ -219,7 +219,7 @@ Intuïtief Ontwerp
     icon="collection"
   >}}
 
-  {{< card 
+  {{< feature-card 
     image="/products/evervideo/screenshots/2880x1800/5.png" 
     title="Mediabibliotheek" 
     method="Fill"
@@ -228,7 +228,7 @@ Intuïtief Ontwerp
     icon="library"
   >}}
 
-  {{< card 
+  {{< feature-card 
     image="/products/evervideo/screenshots/2880x1800/7.png"  
     title="Cloudopslag" 
     method="Fill"
@@ -237,7 +237,7 @@ Intuïtief Ontwerp
     icon="cloud"
   >}}
 
-  {{< card 
+  {{< feature-card 
     image="/products/evervideo/screenshots/2880x1800/9.png"  
     title="Bestandsbeheerder" 
     method="Fill"
@@ -656,17 +656,17 @@ Opmerking: Zorg ervoor dat JavaScript is ingeschakeld en dat je de nieuwste brow
 </div>
 
 {{< cards >}}
-  {{< card icon="location-marker" title="Navigatie" subtitle="Leer hoe je Evervideo navigeert met de tabbalk op iPhone of het linkermenu op iPad en Mac, plus de compacte altijd zichtbare videospeler." link="/docs/guide/evervideo/evervideo-guide-navigation" >}}
+  {{< feature-card icon="location-marker" title="Navigatie" subtitle="Leer hoe je Evervideo navigeert met de tabbalk op iPhone of het linkermenu op iPad en Mac, plus de compacte altijd zichtbare videospeler." link="/docs/guide/evervideo/evervideo-guide-navigation" >}}
 
-  {{< card icon="folder" title="Bestanden" subtitle="Verbind cloudaccounts, NAS-shares, mediaservers (Plex, Jellyfin, Emby, Subsonic, Navidrome), RTSP-streams en lokale bestanden in één gecombineerd tabblad." link="/docs/guide/evervideo/evervideo-guide-files" >}}
+  {{< feature-card icon="folder" title="Bestanden" subtitle="Verbind cloudaccounts, NAS-shares, mediaservers (Plex, Jellyfin, Emby, Subsonic, Navidrome), RTSP-streams en lokale bestanden in één gecombineerd tabblad." link="/docs/guide/evervideo/evervideo-guide-files" >}}
 
-  {{< card icon="library" title="Mediabibliotheek" subtitle="Beheer en verken je video's en muziek op Albums, Genres, Recent en Favorieten — plus de iOS Foto's-bibliotheek en de Apple Music-bibliotheek." link="/docs/guide/evervideo/evervideo-guide-video-library" >}}
+  {{< feature-card icon="library" title="Mediabibliotheek" subtitle="Beheer en verken je video's en muziek op Albums, Genres, Recent en Favorieten — plus de iOS Foto's-bibliotheek en de Apple Music-bibliotheek." link="/docs/guide/evervideo/evervideo-guide-video-library" >}}
 
-  {{< card icon="collection" title="Afspeellijsten" subtitle="Maak en orden afspeellijsten voor video's, muziek, series of cursussen en importeer M3U / M3U8 / CUE-bestanden." link="/docs/guide/evervideo/evervideo-guide-playlists" >}}
+  {{< feature-card icon="collection" title="Afspeellijsten" subtitle="Maak en orden afspeellijsten voor video's, muziek, series of cursussen en importeer M3U / M3U8 / CUE-bestanden." link="/docs/guide/evervideo/evervideo-guide-playlists" >}}
 
-  {{< card icon="play" title="Mediaspeler" subtitle="Bedien afspelen, wachtrij, Beeld-in-beeld, audio- en videosporen, primaire en secundaire ondertiteling en de audio- + video-equalizers." link="/docs/guide/evervideo/evervideo-guide-player" >}}
+  {{< feature-card icon="play" title="Mediaspeler" subtitle="Bedien afspelen, wachtrij, Beeld-in-beeld, audio- en videosporen, primaire en secundaire ondertiteling en de audio- + video-equalizers." link="/docs/guide/evervideo/evervideo-guide-player" >}}
 
-  {{< card icon="adjustments" title="Instellingen" subtitle="Pas het uiterlijk, de decoder, equalizers, ondertiteling, widgets, taal, toegangscode, back-up en prestatie-instellingen van Evervideo aan." link="/docs/guide/evervideo/evervideo-guide-settings" >}}
+  {{< feature-card icon="adjustments" title="Instellingen" subtitle="Pas het uiterlijk, de decoder, equalizers, ondertiteling, widgets, taal, toegangscode, back-up en prestatie-instellingen van Evervideo aan." link="/docs/guide/evervideo/evervideo-guide-settings" >}}
 
 {{< /cards >}}
 

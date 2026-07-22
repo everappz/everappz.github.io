@@ -491,17 +491,17 @@ Mode ini sangat berguna ketika Anda perlu menerapkan nama album, artis, genre, a
 </div>
 
 {{< cards >}}
-  {{< card icon="location-marker" title="Navigasi" subtitle="Pelajari cara menavigasi aplikasi kami dengan mudah menggunakan Tab Bar (untuk pengguna iPhone) atau Left Menu (untuk pengguna iPad dan Mac) untuk mengakses dan menjelajahi semua fitur aplikasi." link="/docs/guide/evertag/evertag-guide-navigation" >}}
+  {{< feature-card icon="location-marker" title="Navigasi" subtitle="Pelajari cara menavigasi aplikasi kami dengan mudah menggunakan Tab Bar (untuk pengguna iPhone) atau Left Menu (untuk pengguna iPad dan Mac) untuk mengakses dan menjelajahi semua fitur aplikasi." link="/docs/guide/evertag/evertag-guide-navigation" >}}
 
-  {{< card icon="cloud" title="Koneksi" subtitle="Hubungkan semua akun cloud yang tersedia dengan file audio berharga Anda dengan mudah. Anda bahkan dapat mengedit file online Anda dengan mudah menggunakan pengelola file terintegrasi kami." link="/docs/guide/evertag/evertag-guide-connections" >}}
+  {{< feature-card icon="cloud" title="Koneksi" subtitle="Hubungkan semua akun cloud yang tersedia dengan file audio berharga Anda dengan mudah. Anda bahkan dapat mengedit file online Anda dengan mudah menggunakan pengelola file terintegrasi kami." link="/docs/guide/evertag/evertag-guide-connections" >}}
 
-  {{< card icon="folder" title="File Lokal" subtitle="Lihat dan atur file yang disimpan di folder Documents aplikasi atau di perangkat Anda. Gunakan pengelola file bawaan untuk mengedit dan mengelola file audio Anda dengan mudah." link="/docs/guide/evertag/evertag-guide-local-files" >}}
+  {{< feature-card icon="folder" title="File Lokal" subtitle="Lihat dan atur file yang disimpan di folder Documents aplikasi atau di perangkat Anda. Gunakan pengelola file bawaan untuk mengedit dan mengelola file audio Anda dengan mudah." link="/docs/guide/evertag/evertag-guide-local-files" >}}
 
-  {{< card icon="pencil-alt" title="Editor Tag" subtitle="Kuasai seni manipulasi metadata file audio. Temukan cara mengedit metadata, mengubah sampul album, dan mengelola beberapa file secara bersamaan dengan mulus." link="/docs/guide/evertag/evertag-guide-tag-editor" >}}
+  {{< feature-card icon="pencil-alt" title="Editor Tag" subtitle="Kuasai seni manipulasi metadata file audio. Temukan cara mengedit metadata, mengubah sampul album, dan mengelola beberapa file secara bersamaan dengan mulus." link="/docs/guide/evertag/evertag-guide-tag-editor" >}}
 
-  {{< card icon="code" title="Pemetaan Field Tag" subtitle="Jelajahi daftar lengkap field tag audio yang didukung oleh aplikasi Evertag, termasuk nama field internal dan pemetaan lintas format metadata utama." link="/docs/guide/evertag/evertag-tag-field-mappings" >}}
+  {{< feature-card icon="code" title="Pemetaan Field Tag" subtitle="Jelajahi daftar lengkap field tag audio yang didukung oleh aplikasi Evertag, termasuk nama field internal dan pemetaan lintas format metadata utama." link="/docs/guide/evertag/evertag-tag-field-mappings" >}}
 
-  {{< card icon="adjustments" title="Pengaturan" subtitle="Temukan cara menyesuaikan pengalaman aplikasi Anda, mengoptimalkan performa, mengelola penggunaan data, dan menyesuaikan preferensi bahasa dan antarmuka pengguna sesuai keinginan Anda." link="/docs/guide/evertag/evertag-guide-settings" >}}
+  {{< feature-card icon="adjustments" title="Pengaturan" subtitle="Temukan cara menyesuaikan pengalaman aplikasi Anda, mengoptimalkan performa, mengelola penggunaan data, dan menyesuaikan preferensi bahasa dan antarmuka pengguna sesuai keinginan Anda." link="/docs/guide/evertag/evertag-guide-settings" >}}
 
 {{< /cards >}}
 

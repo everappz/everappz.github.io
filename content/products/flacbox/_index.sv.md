@@ -127,29 +127,29 @@ Kompletta funktioner
 
 {{< cards >}}
 
-  {{< card title="Förlustfritt ljudstöd" subtitle="Spela FLAC, ALAC, WAV, APE, DFF, WV, AIFF och många andra högkvalitativa format." icon="music-note" >}}
-  {{< card title="Offlineläge" subtitle="Ladda ner album, spellistor och spår för offlineuppspelning när som helst." icon="download" >}}
-  {{< card title="Filhantering" subtitle="Kopiera, flytta, byt namn och ta bort filer enkelt i appen." icon="folder" >}}
+  {{< feature-card title="Förlustfritt ljudstöd" subtitle="Spela FLAC, ALAC, WAV, APE, DFF, WV, AIFF och många andra högkvalitativa format." icon="music-note" >}}
+  {{< feature-card title="Offlineläge" subtitle="Ladda ner album, spellistor och spår för offlineuppspelning när som helst." icon="download" >}}
+  {{< feature-card title="Filhantering" subtitle="Kopiera, flytta, byt namn och ta bort filer enkelt i appen." icon="folder" >}}
 
-  {{< card title="Anpassade spellistor" subtitle="Skapa, redigera, ordna om spellistor och exportera eller importera M3U-filer." icon="collection" >}}
-  {{< card title="Mediabibliotek" subtitle="Lägg till musik och organisera efter album, artist och genre med taggar." icon="library" >}}
-  {{< card title="Avancerad sökning" subtitle="Hitta snabbt låtar, artister eller album med smarta sökverktyg." icon="search" >}}
+  {{< feature-card title="Anpassade spellistor" subtitle="Skapa, redigera, ordna om spellistor och exportera eller importera M3U-filer." icon="collection" >}}
+  {{< feature-card title="Mediabibliotek" subtitle="Lägg till musik och organisera efter album, artist och genre med taggar." icon="library" >}}
+  {{< feature-card title="Avancerad sökning" subtitle="Hitta snabbt låtar, artister eller album med smarta sökverktyg." icon="search" >}}
 
-  {{< card title="Molnstreaming" subtitle="Strömma från Google Drive, Dropbox, OneDrive, iCloud, MEGA och mer." icon="cloud" >}}
-  {{< card title="NAS- och datoråtkomst" subtitle="Anslut via SMB, DLNA eller WebDAV. Överför med iTunes eller Wi-Fi." icon="desktop-computer" >}}
-  {{< card title="USB-flashkort" subtitle="Spela musik direkt från SD-kort med USB-adaptrar som iXpand." icon="inbox" >}}
+  {{< feature-card title="Molnstreaming" subtitle="Strömma från Google Drive, Dropbox, OneDrive, iCloud, MEGA och mer." icon="cloud" >}}
+  {{< feature-card title="NAS- och datoråtkomst" subtitle="Anslut via SMB, DLNA eller WebDAV. Överför med iTunes eller Wi-Fi." icon="desktop-computer" >}}
+  {{< feature-card title="USB-flashkort" subtitle="Spela musik direkt från SD-kort med USB-adaptrar som iXpand." icon="inbox" >}}
 
-  {{< card title="Uppspelningskontroller" subtitle="Ändra uppspelningshastighet och tonhöjd för perfekt ljudkontroll." icon="fast-forward" >}}
-  {{< card title="Texter och kommentarer" subtitle="Visa inbäddade texter och kommentarer medan du spelar låtar." icon="annotation" >}}
-  {{< card title="ID3-taggredigerare" subtitle="Redigera och fixa metadata som titel, artist eller album med det inbyggda verktyget." icon="pencil-alt" >}}
+  {{< feature-card title="Uppspelningskontroller" subtitle="Ändra uppspelningshastighet och tonhöjd för perfekt ljudkontroll." icon="fast-forward" >}}
+  {{< feature-card title="Texter och kommentarer" subtitle="Visa inbäddade texter och kommentarer medan du spelar låtar." icon="annotation" >}}
+  {{< feature-card title="ID3-taggredigerare" subtitle="Redigera och fixa metadata som titel, artist eller album med det inbyggda verktyget." icon="pencil-alt" >}}
 
-  {{< card title="Equalizer och förstärkning" subtitle="Använd förinställningar eller justera manuellt med förförstärkarförstärkning för rikt ljud." icon="adjustments" >}}
-  {{< card title="Apple CarPlay" subtitle="Kör säkert med ett dedikerat CarPlay-gränssnitt för musikuppspelning." icon="truck" >}}
-  {{< card title="AirPlay och Chromecast" subtitle="Strömma till Apple TV och Google Chromecast-enheter trådlöst." icon="device-mobile" >}}
+  {{< feature-card title="Equalizer och förstärkning" subtitle="Använd förinställningar eller justera manuellt med förförstärkarförstärkning för rikt ljud." icon="adjustments" >}}
+  {{< feature-card title="Apple CarPlay" subtitle="Kör säkert med ett dedikerat CarPlay-gränssnitt för musikuppspelning." icon="truck" >}}
+  {{< feature-card title="AirPlay och Chromecast" subtitle="Strömma till Apple TV och Google Chromecast-enheter trådlöst." icon="device-mobile" >}}
 
-  {{< card title="Last.fm-integration" subtitle="Spåra musikstatistik och få personliga låtrekommendationer." icon="chart-bar" >}}
-  {{< card title="Automatisk synkronisering" subtitle="Synkronisera automatiskt ditt musikbibliotek med moln- och lokala mappar." icon="refresh" >}}
-  {{< card title="Ljudboksstöd" subtitle="Lyssna på ljudböcker med bokmärken, sömntimer och återuppta uppspelning där du slutade." icon="book-open" >}}
+  {{< feature-card title="Last.fm-integration" subtitle="Spåra musikstatistik och få personliga låtrekommendationer." icon="chart-bar" >}}
+  {{< feature-card title="Automatisk synkronisering" subtitle="Synkronisera automatiskt ditt musikbibliotek med moln- och lokala mappar." icon="refresh" >}}
+  {{< feature-card title="Ljudboksstöd" subtitle="Lyssna på ljudböcker med bokmärken, sömntimer och återuppta uppspelning där du slutade." icon="book-open" >}}
 
 {{< /cards >}}
 
@@ -167,12 +167,12 @@ Intuitiv design
 
 {{< cards cols="4">}}
 
-  {{< card image="/products/flacbox/screenshots/2048x2732/1.png" title="Ljudspelare" method="Fill" options="515x200 q90 webp" subtitle="Avancerad musikspelare med upprepning, slumpmässig, hastighetskontroll och tonhöjdsjustering." icon="play" >}}
-  {{< card image="/products/flacbox/screenshots/2048x2732/2.png" title="Ljud-equalizer" method="Fill" options="515x200 q90 webp" subtitle="Anpassad equalizer med förinställningar, basförstärkning och förförstärkare för bättre ljud." icon="adjustments" >}}
-  {{< card image="/products/flacbox/screenshots/2048x2732/3.png" title="Spellisthanterare" method="Fill" options="515x200 q90 webp" subtitle="Skapa spellistor, ändra låtordning, exportera till M3U eller ZIP för säkerhetskopiering." icon="collection" >}}
-  {{< card image="/products/flacbox/screenshots/2048x2732/5.png" title="Mediabibliotek" method="Fill" options="515x200 q90 webp" subtitle="Organisera låtar efter album, artist eller genre med ljudtaggar och metadata." icon="library" >}}
-  {{< card image="/products/flacbox/screenshots/2048x2732/7.png" title="Molnlagring" method="Fill" options="515x200 q90 webp" subtitle="Strömma musik från Google Drive, Dropbox, OneDrive och andra molntjänster." icon="cloud" >}}
-  {{< card image="/products/flacbox/screenshots/2048x2732/8.png" title="iCloud Drive" method="Fill" options="515x200 q90 webp" subtitle="Lagra förlustfri musik i iCloud och strömma direkt utan nedladdning." icon="wifi" >}}
+  {{< feature-card image="/products/flacbox/screenshots/2048x2732/1.png" title="Ljudspelare" method="Fill" options="515x200 q90 webp" subtitle="Avancerad musikspelare med upprepning, slumpmässig, hastighetskontroll och tonhöjdsjustering." icon="play" >}}
+  {{< feature-card image="/products/flacbox/screenshots/2048x2732/2.png" title="Ljud-equalizer" method="Fill" options="515x200 q90 webp" subtitle="Anpassad equalizer med förinställningar, basförstärkning och förförstärkare för bättre ljud." icon="adjustments" >}}
+  {{< feature-card image="/products/flacbox/screenshots/2048x2732/3.png" title="Spellisthanterare" method="Fill" options="515x200 q90 webp" subtitle="Skapa spellistor, ändra låtordning, exportera till M3U eller ZIP för säkerhetskopiering." icon="collection" >}}
+  {{< feature-card image="/products/flacbox/screenshots/2048x2732/5.png" title="Mediabibliotek" method="Fill" options="515x200 q90 webp" subtitle="Organisera låtar efter album, artist eller genre med ljudtaggar och metadata." icon="library" >}}
+  {{< feature-card image="/products/flacbox/screenshots/2048x2732/7.png" title="Molnlagring" method="Fill" options="515x200 q90 webp" subtitle="Strömma musik från Google Drive, Dropbox, OneDrive och andra molntjänster." icon="cloud" >}}
+  {{< feature-card image="/products/flacbox/screenshots/2048x2732/8.png" title="iCloud Drive" method="Fill" options="515x200 q90 webp" subtitle="Lagra förlustfri musik i iCloud och strömma direkt utan nedladdning." icon="wifi" >}}
 
 {{< /cards >}}
 
@@ -465,13 +465,13 @@ CarPlay-gränssnittet inkluderar dedikerade flikar för **Bibliotek**, **Anslutn
 
 {{< cards >}}
 
-{{< card icon="map" link="/docs/guide/flacbox/flacbox-guide-navigation" title="Navigering" subtitle="Använd flikfältet på iPhone eller vänstermenyn på iPad och Mac." >}}
-{{< card icon="cloud" link="/docs/guide/flacbox/flacbox-guide-connections" title="Anslutningar" subtitle="Anslut Dropbox, Google Drive, iCloud eller din NAS." >}}
-{{< card icon="collection" link="/docs/guide/flacbox/flacbox-guide-music-library" title="Musikbibliotek" subtitle="Hantera och sök spår efter artist, album eller genre." >}}
-{{< card icon="music-note" link="/docs/guide/flacbox/flacbox-guide-playlists" title="Spellistor" subtitle="Skapa och organisera spellistor för alla stämningar och tillfällen." >}}
-{{< card icon="folder" link="/docs/guide/flacbox/flacbox-guide-local-files" title="Lokala filer" subtitle="Redigera och spela offlinemusik med den inbyggda filhanteraren." >}}
-{{< card icon="play" link="/docs/guide/flacbox/flacbox-guide-player" title="Ljudspelare" subtitle="Styr uppspelning, justera hastighet, ställ in bokmärken och mer." >}}
-{{< card icon="adjustments" link="/docs/guide/flacbox/flacbox-guide-settings" title="Inställningar" subtitle="Anpassa equalizer, utseende och appens beteende." >}}
+{{< feature-card icon="map" link="/docs/guide/flacbox/flacbox-guide-navigation" title="Navigering" subtitle="Använd flikfältet på iPhone eller vänstermenyn på iPad och Mac." >}}
+{{< feature-card icon="cloud" link="/docs/guide/flacbox/flacbox-guide-connections" title="Anslutningar" subtitle="Anslut Dropbox, Google Drive, iCloud eller din NAS." >}}
+{{< feature-card icon="collection" link="/docs/guide/flacbox/flacbox-guide-music-library" title="Musikbibliotek" subtitle="Hantera och sök spår efter artist, album eller genre." >}}
+{{< feature-card icon="music-note" link="/docs/guide/flacbox/flacbox-guide-playlists" title="Spellistor" subtitle="Skapa och organisera spellistor för alla stämningar och tillfällen." >}}
+{{< feature-card icon="folder" link="/docs/guide/flacbox/flacbox-guide-local-files" title="Lokala filer" subtitle="Redigera och spela offlinemusik med den inbyggda filhanteraren." >}}
+{{< feature-card icon="play" link="/docs/guide/flacbox/flacbox-guide-player" title="Ljudspelare" subtitle="Styr uppspelning, justera hastighet, ställ in bokmärken och mer." >}}
+{{< feature-card icon="adjustments" link="/docs/guide/flacbox/flacbox-guide-settings" title="Inställningar" subtitle="Anpassa equalizer, utseende och appens beteende." >}}
 
 {{< /cards >}}
 

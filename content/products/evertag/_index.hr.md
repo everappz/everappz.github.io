@@ -491,17 +491,17 @@ Ovaj način je posebno koristan kada trebate primijeniti isti naziv albuma, izvo
 </div>
 
 {{< cards >}}
-  {{< card icon="location-marker" title="Navigacija" subtitle="Naučite kako se bez napora kretati našom aplikacijom koristeći Tab Bar (za korisnike iPhonea) ili Left Menu (za korisnike iPada i Maca) za pristup i istraživanje svih značajki aplikacije." link="/docs/guide/evertag/evertag-guide-navigation" >}}
+  {{< feature-card icon="location-marker" title="Navigacija" subtitle="Naučite kako se bez napora kretati našom aplikacijom koristeći Tab Bar (za korisnike iPhonea) ili Left Menu (za korisnike iPada i Maca) za pristup i istraživanje svih značajki aplikacije." link="/docs/guide/evertag/evertag-guide-navigation" >}}
 
-  {{< card icon="cloud" title="Veze" subtitle="Bez napora povežite sve svoje dostupne račune u oblaku s vašim dragocjenim audio datotekama. Možete čak i uređivati svoje online datoteke bez napora koristeći naš integrirani upravitelj datoteka." link="/docs/guide/evertag/evertag-guide-connections" >}}
+  {{< feature-card icon="cloud" title="Veze" subtitle="Bez napora povežite sve svoje dostupne račune u oblaku s vašim dragocjenim audio datotekama. Možete čak i uređivati svoje online datoteke bez napora koristeći naš integrirani upravitelj datoteka." link="/docs/guide/evertag/evertag-guide-connections" >}}
 
-  {{< card icon="folder" title="Lokalne datoteke" subtitle="Pregledajte i organizirajte datoteke pohranjene u mapi Documents aplikacije ili na vašem uređaju. Koristite ugrađeni upravitelj datoteka za uređivanje i upravljanje audio datotekama s lakoćom." link="/docs/guide/evertag/evertag-guide-local-files" >}}
+  {{< feature-card icon="folder" title="Lokalne datoteke" subtitle="Pregledajte i organizirajte datoteke pohranjene u mapi Documents aplikacije ili na vašem uređaju. Koristite ugrađeni upravitelj datoteka za uređivanje i upravljanje audio datotekama s lakoćom." link="/docs/guide/evertag/evertag-guide-local-files" >}}
 
-  {{< card icon="pencil-alt" title="Uređivač oznaka" subtitle="Ovladajte umijećem manipulacije metapodacima audio datoteka. Saznajte kako uređivati metapodatke, mijenjati omote albuma i besprijekorno upravljati višestrukim datotekama istovremeno." link="/docs/guide/evertag/evertag-guide-tag-editor" >}}
+  {{< feature-card icon="pencil-alt" title="Uređivač oznaka" subtitle="Ovladajte umijećem manipulacije metapodacima audio datoteka. Saznajte kako uređivati metapodatke, mijenjati omote albuma i besprijekorno upravljati višestrukim datotekama istovremeno." link="/docs/guide/evertag/evertag-guide-tag-editor" >}}
 
-  {{< card icon="code" title="Mapiranja polja oznaka" subtitle="Istražite potpuni popis polja audio oznaka koje podržava aplikacija Evertag, uključujući interna imena polja i mapiranja kroz glavne formate metapodataka." link="/docs/guide/evertag/evertag-tag-field-mappings" >}}
+  {{< feature-card icon="code" title="Mapiranja polja oznaka" subtitle="Istražite potpuni popis polja audio oznaka koje podržava aplikacija Evertag, uključujući interna imena polja i mapiranja kroz glavne formate metapodataka." link="/docs/guide/evertag/evertag-tag-field-mappings" >}}
 
-  {{< card icon="adjustments" title="Postavke" subtitle="Otkrijte kako prilagoditi iskustvo aplikacije, fino podesiti performanse, upravljati korištenjem podataka i prilagoditi postavke jezika i korisničkog sučelja po vlastitom ukusu." link="/docs/guide/evertag/evertag-guide-settings" >}}
+  {{< feature-card icon="adjustments" title="Postavke" subtitle="Otkrijte kako prilagoditi iskustvo aplikacije, fino podesiti performanse, upravljati korištenjem podataka i prilagoditi postavke jezika i korisničkog sučelja po vlastitom ukusu." link="/docs/guide/evertag/evertag-guide-settings" >}}
 
 {{< /cards >}}
 

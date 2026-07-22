@@ -491,17 +491,17 @@ Dropbox، OneDrive، Box، MEGA، Yandex.Disk، MediaFire، pCloud، HiDrive.<br
 </div>
 
 {{< cards >}}
-  {{< card icon="location-marker" title="التنقل" subtitle="تعلّم كيفية التنقل بسهولة في تطبيقنا باستخدام شريط التبويب (لمستخدمي iPhone) أو القائمة اليسرى (لمستخدمي iPad و Mac) للوصول إلى جميع ميزات التطبيق واستكشافها." link="/docs/guide/evertag/evertag-guide-navigation" >}}
+  {{< feature-card icon="location-marker" title="التنقل" subtitle="تعلّم كيفية التنقل بسهولة في تطبيقنا باستخدام شريط التبويب (لمستخدمي iPhone) أو القائمة اليسرى (لمستخدمي iPad و Mac) للوصول إلى جميع ميزات التطبيق واستكشافها." link="/docs/guide/evertag/evertag-guide-navigation" >}}
 
-  {{< card icon="cloud" title="الاتصالات" subtitle="اربط بسهولة جميع حساباتك السحابية المتاحة بملفاتك الصوتية القيّمة. يمكنك حتى تحرير ملفاتك عبر الإنترنت بسهولة باستخدام مدير الملفات المدمج." link="/docs/guide/evertag/evertag-guide-connections" >}}
+  {{< feature-card icon="cloud" title="الاتصالات" subtitle="اربط بسهولة جميع حساباتك السحابية المتاحة بملفاتك الصوتية القيّمة. يمكنك حتى تحرير ملفاتك عبر الإنترنت بسهولة باستخدام مدير الملفات المدمج." link="/docs/guide/evertag/evertag-guide-connections" >}}
 
-  {{< card icon="folder" title="الملفات المحلية" subtitle="عرض وتنظيم الملفات المخزنة في مجلد Documents الخاص بالتطبيق أو على جهازك. استخدم مدير الملفات المدمج لتحرير وإدارة ملفاتك الصوتية بسهولة." link="/docs/guide/evertag/evertag-guide-local-files" >}}
+  {{< feature-card icon="folder" title="الملفات المحلية" subtitle="عرض وتنظيم الملفات المخزنة في مجلد Documents الخاص بالتطبيق أو على جهازك. استخدم مدير الملفات المدمج لتحرير وإدارة ملفاتك الصوتية بسهولة." link="/docs/guide/evertag/evertag-guide-local-files" >}}
 
-  {{< card icon="pencil-alt" title="محرر العلامات" subtitle="أتقن فن التعامل مع البيانات الوصفية لملفات الصوت. اكتشف كيفية تحرير البيانات الوصفية وتغيير أغلفة الألبومات وإدارة ملفات متعددة بسلاسة في وقت واحد." link="/docs/guide/evertag/evertag-guide-tag-editor" >}}
+  {{< feature-card icon="pencil-alt" title="محرر العلامات" subtitle="أتقن فن التعامل مع البيانات الوصفية لملفات الصوت. اكتشف كيفية تحرير البيانات الوصفية وتغيير أغلفة الألبومات وإدارة ملفات متعددة بسلاسة في وقت واحد." link="/docs/guide/evertag/evertag-guide-tag-editor" >}}
 
-  {{< card icon="code" title="خرائط حقول العلامات" subtitle="استكشف القائمة الكاملة لحقول علامات الصوت المدعومة من تطبيق Evertag، بما في ذلك أسماء الحقول الداخلية والتعيينات عبر تنسيقات البيانات الوصفية الرئيسية." link="/docs/guide/evertag/evertag-tag-field-mappings" >}}
+  {{< feature-card icon="code" title="خرائط حقول العلامات" subtitle="استكشف القائمة الكاملة لحقول علامات الصوت المدعومة من تطبيق Evertag، بما في ذلك أسماء الحقول الداخلية والتعيينات عبر تنسيقات البيانات الوصفية الرئيسية." link="/docs/guide/evertag/evertag-tag-field-mappings" >}}
 
-  {{< card icon="adjustments" title="الإعدادات" subtitle="اكتشف كيفية تخصيص تجربة تطبيقك وضبط الأداء وإدارة استخدام البيانات وتخصيص تفضيلات اللغة وواجهة المستخدم حسب رغبتك." link="/docs/guide/evertag/evertag-guide-settings" >}}
+  {{< feature-card icon="adjustments" title="الإعدادات" subtitle="اكتشف كيفية تخصيص تجربة تطبيقك وضبط الأداء وإدارة استخدام البيانات وتخصيص تفضيلات اللغة وواجهة المستخدم حسب رغبتك." link="/docs/guide/evertag/evertag-guide-settings" >}}
 
 {{< /cards >}}
 

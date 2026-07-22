@@ -148,7 +148,7 @@ Az Evermusic egy ingyenes offline zenelejátszó iPhone-ra és Macre, amelyet az
 
 {{< cards cols="4">}}
 
-  {{< card 
+  {{< feature-card 
     icon="adjustments"
     image="/products/evermusic/screenshots/2048x2732/3.png" 
     title="Audio hangszínszabályzó" 
@@ -157,7 +157,7 @@ Az Evermusic egy ingyenes offline zenelejátszó iPhone-ra és Macre, amelyet az
     subtitle="Finomhangold a hangzást iPod-stílusú hangszínszabályzóval, testreszabható előbeállításokkal és előerősítő szabályzóval a legjobb hallgatási élményért." 
   >}}
 
-  {{< card 
+  {{< feature-card 
     icon="annotation"
     image="/products/evermusic/screenshots/2048x2732/4.png"  
     title="Dalszöveg megjelenítő" 
@@ -166,7 +166,7 @@ Az Evermusic egy ingyenes offline zenelejátszó iPhone-ra és Macre, amelyet az
     subtitle="Olvasd a beágyazott dalszövegeket és szám megjegyzéseket hallgatás közben. Élvezd a szinkronizált dalszövegeket a magával ragadóbb zenei élményért." 
   >}}
 
-  {{< card 
+  {{< feature-card 
     icon="collection"
     image="/products/evermusic/screenshots/2048x2732/5.png"  
     title="Lejátszási lista kezelő" 
@@ -175,7 +175,7 @@ Az Evermusic egy ingyenes offline zenelejátszó iPhone-ra és Macre, amelyet az
     subtitle="Hozz létre és rendezz egyéni lejátszási listákat, rendezd át a dalokat, exportáld M3U formátumba, vagy archiváld ZIP fájlként az egyszerű megosztáshoz vagy mentéshez." 
   >}}
 
-  {{< card 
+  {{< feature-card 
     icon="cloud"
     image="/products/evermusic/screenshots/2048x2732/6.png"  
     title="Felhő zenei streaming" 
@@ -184,7 +184,7 @@ Az Evermusic egy ingyenes offline zenelejátszó iPhone-ra és Macre, amelyet az
     subtitle="Kapcsold össze a legnépszerűbb felhő tárhelyeket, mint a Google Drive, Dropbox és OneDrive, hogy bármikor, bárhol streameld a zenegyűjteményedet." 
   >}}
 
-  {{< card 
+  {{< feature-card 
     icon="duplicate"
     image="/products/evermusic/screenshots/2048x2732/9.png"  
     title="Fájlkezelő" 
@@ -193,7 +193,7 @@ Az Evermusic egy ingyenes offline zenelejátszó iPhone-ra és Macre, amelyet az
     subtitle="Könnyedén kezeld az audiofájljaidat – nevezd át a számokat, rendezd a mappákat, és vidd át a zenét eszközök között a beépített eszközökkel." 
   >}} 
 
-  {{< card 
+  {{< feature-card 
     icon="sun"
     image="/products/evermusic/screenshots/2048x2732/10.png"  
     title="Alkalmazás testreszabás" 
@@ -218,41 +218,41 @@ Az Evermusic egy ingyenes offline zenelejátszó iPhone-ra és Macre, amelyet az
 
 {{< cards >}}
 
-  {{< card title="Audio formátumok" subtitle="Támogatott: mp3, m4a, flac, wav, aac, mp4, m3u, m3u8, m4b, m4p, aiff, ogg, mp2, ac3, wma és még több." icon="music-note" >}}
+  {{< feature-card title="Audio formátumok" subtitle="Támogatott: mp3, m4a, flac, wav, aac, mp4, m3u, m3u8, m4b, m4p, aiff, ogg, mp2, ac3, wma és még több." icon="music-note" >}}
 
-  {{< card title="Hangoskönyvek" subtitle="Audio könyvjelzők, lejátszási sebesség szabályozás és pozíció folytatás." icon="book-open" width="50">}}
+  {{< feature-card title="Hangoskönyvek" subtitle="Audio könyvjelzők, lejátszási sebesség szabályozás és pozíció folytatás." icon="book-open" width="50">}}
 
-  {{< card title="Automatikus szinkronizálás" subtitle="Szinkronizálja a zenei könyvtáradat a felhővel, előadó, album és műfaj szerint rendezve." icon="refresh" >}}
+  {{< feature-card title="Automatikus szinkronizálás" subtitle="Szinkronizálja a zenei könyvtáradat a felhővel, előadó, album és műfaj szerint rendezve." icon="refresh" >}}
 
-  {{< card title="Fájlkezelő" subtitle="Fájlok kezelése másolás, áthelyezés, átnevezés és törlés műveletekkel." icon="folder" >}}
+  {{< feature-card title="Fájlkezelő" subtitle="Fájlok kezelése másolás, áthelyezés, átnevezés és törlés műveletekkel." icon="folder" >}}
 
-  {{< card title="Felhőszolgáltatások" subtitle="Támogatja az iCloud, Google Drive, Dropbox, OneDrive, Box, MEGA, WD MyCloud Home, pCloud és még több szolgáltatást." icon="cloud" >}}
+  {{< feature-card title="Felhőszolgáltatások" subtitle="Támogatja az iCloud, Google Drive, Dropbox, OneDrive, Box, MEGA, WD MyCloud Home, pCloud és még több szolgáltatást." icon="cloud" >}}
 
-  {{< card title="Crossfade lejátszás" subtitle="A következő dal már az aktuális vége előtt elkezdődik a zökkenőmentes átmenetekért." icon="switch-horizontal" >}}
+  {{< feature-card title="Crossfade lejátszás" subtitle="A következő dal már az aktuális vége előtt elkezdődik a zökkenőmentes átmenetekért." icon="switch-horizontal" >}}
 
-  {{< card title="Szünetmentes lejátszás" subtitle="Nincs szünet a dalok között – ideális élő, klasszikus vagy konceptalbumokhoz." icon="volume-up" >}}
+  {{< feature-card title="Szünetmentes lejátszás" subtitle="Nincs szünet a dalok között – ideális élő, klasszikus vagy konceptalbumokhoz." icon="volume-up" >}}
 
-  {{< card title="Audio hangszínszabályzó" subtitle="Testreszabható hangszínszabályzó előbeállításokkal, kézi vezérléssel és előerősítő szabályzóval." icon="adjustments" >}}
+  {{< feature-card title="Audio hangszínszabályzó" subtitle="Testreszabható hangszínszabályzó előbeállításokkal, kézi vezérléssel és előerősítő szabályzóval." icon="adjustments" >}}
 
-  {{< card title="Speciális keresés" subtitle="Gyorsan és egyszerűen megtalálhatod kedvenc albumaidat, előadóidat és számaidat." icon="search" >}}
+  {{< feature-card title="Speciális keresés" subtitle="Gyorsan és egyszerűen megtalálhatod kedvenc albumaidat, előadóidat és számaidat." icon="search" >}}
 
-  {{< card title="Számítógép hozzáférés" subtitle="Csatlakozás SMB, WebDAV vagy DLNA protokollon keresztül. Átvitel iTunes fájlmegosztással és Wi-Fi-vel." icon="desktop-computer" >}}
+  {{< feature-card title="Számítógép hozzáférés" subtitle="Csatlakozás SMB, WebDAV vagy DLNA protokollon keresztül. Átvitel iTunes fájlmegosztással és Wi-Fi-vel." icon="desktop-computer" >}}
 
-  {{< card title="AirPlay és Chromecast" subtitle="Streaming Apple TV-re és Google Chromecast eszközökre vezeték nélkül." icon="device-mobile" >}}
+  {{< feature-card title="AirPlay és Chromecast" subtitle="Streaming Apple TV-re és Google Chromecast eszközökre vezeték nélkül." icon="device-mobile" >}}
 
-  {{< card title="Lejátszási listák" subtitle="Lejátszási listák létrehozása, szerkesztése, átrendezése, és M3U exportálás/importálás offline móddal." icon="collection" >}}
+  {{< feature-card title="Lejátszási listák" subtitle="Lejátszási listák létrehozása, szerkesztése, átrendezése, és M3U exportálás/importálás offline móddal." icon="collection" >}}
 
-  {{< card title="USB flash kártyák" subtitle="Zene lejátszása közvetlenül SD kártyákról külső olvasók, például SanDisk iXpand használatával." icon="inbox" >}}
+  {{< feature-card title="USB flash kártyák" subtitle="Zene lejátszása közvetlenül SD kártyákról külső olvasók, például SanDisk iXpand használatával." icon="inbox" >}}
 
-  {{< card title="Offline mód" subtitle="Albumok és lejátszási listák letöltése, vagy a nemrég lejátszott számok automatikus gyorsítótárazása offline hallgatáshoz." icon="download" >}}
+  {{< feature-card title="Offline mód" subtitle="Albumok és lejátszási listák letöltése, vagy a nemrég lejátszott számok automatikus gyorsítótárazása offline hallgatáshoz." icon="download" >}}
 
-  {{< card title="Apple CarPlay" subtitle="Biztonságos vezetés dedikált CarPlay felülettel a zenelejátszáshoz." icon="truck" >}}
+  {{< feature-card title="Apple CarPlay" subtitle="Biztonságos vezetés dedikált CarPlay felülettel a zenelejátszáshoz." icon="truck" >}}
 
-  {{< card title="ID3 címkeszerkesztő" subtitle="Sérült vagy hiányzó metaadatok szerkesztése a beépített címkeszerkesztővel." icon="pencil-alt" >}}
+  {{< feature-card title="ID3 címkeszerkesztő" subtitle="Sérült vagy hiányzó metaadatok szerkesztése a beépített címkeszerkesztővel." icon="pencil-alt" >}}
 
-  {{< card title="Dalszövegek és megjegyzések" subtitle="Beágyazott dalszövegek és megjegyzések megtekintése zenehallgatás közben." icon="annotation" >}}
+  {{< feature-card title="Dalszövegek és megjegyzések" subtitle="Beágyazott dalszövegek és megjegyzések megtekintése zenehallgatás közben." icon="annotation" >}}
 
-  {{< card title="Last.fm" subtitle="Csatlakoztasd Last.fm fiókodat személyre szabott hallgatási statisztikákért és ajánlásokért." icon="chart-bar" >}}
+  {{< feature-card title="Last.fm" subtitle="Csatlakoztasd Last.fm fiókodat személyre szabott hallgatási statisztikákért és ajánlásokért." icon="chart-bar" >}}
   
 {{< /cards >}}
 
@@ -704,19 +704,19 @@ Ezzel a támogatott formátumok és fájlkiterjesztések széles választékáva
 </div>
 
 {{< cards >}}
-  {{< card icon="location-marker" title="Navigáció" subtitle="Ismerd meg az Evermusic navigálását a fülsor használatával iPhone-on vagy a bal oldali menüvel iPaden és Macen." link="/docs/guide/evermusic/evermusic-guide-navigation" >}}
+  {{< feature-card icon="location-marker" title="Navigáció" subtitle="Ismerd meg az Evermusic navigálását a fülsor használatával iPhone-on vagy a bal oldali menüvel iPaden és Macen." link="/docs/guide/evermusic/evermusic-guide-navigation" >}}
 
-  {{< card icon="cloud" title="Kapcsolatok" subtitle="Csatlakoztasd felhő fiókjaidat és kezeld az online fájlokat a beépített fájlkezelővel." link="/docs/guide/evermusic/evermusic-guide-connections" >}}
+  {{< feature-card icon="cloud" title="Kapcsolatok" subtitle="Csatlakoztasd felhő fiókjaidat és kezeld az online fájlokat a beépített fájlkezelővel." link="/docs/guide/evermusic/evermusic-guide-connections" >}}
 
-  {{< card icon="library" title="Zenei könyvtár" subtitle="Rendezd és fedezd fel a számaidat, albumaidat és előadóidat a Zenei könyvtárban." link="/docs/guide/evermusic/evermusic-guide-music-library" >}}
+  {{< feature-card icon="library" title="Zenei könyvtár" subtitle="Rendezd és fedezd fel a számaidat, albumaidat és előadóidat a Zenei könyvtárban." link="/docs/guide/evermusic/evermusic-guide-music-library" >}}
 
-  {{< card icon="collection" title="Lejátszási listák" subtitle="Hozz létre és rendezz lejátszási listákat a hangulatodhoz vagy az alkalomhoz igazítva." link="/docs/guide/evermusic/evermusic-guide-playlists" >}}
+  {{< feature-card icon="collection" title="Lejátszási listák" subtitle="Hozz létre és rendezz lejátszási listákat a hangulatodhoz vagy az alkalomhoz igazítva." link="/docs/guide/evermusic/evermusic-guide-playlists" >}}
 
-  {{< card icon="folder" title="Helyi fájlok" subtitle="Érd el és kezeld az offline zenét a Helyi fájlok részen keresztül." link="/docs/guide/evermusic/evermusic-guide-local-files" >}}
+  {{< feature-card icon="folder" title="Helyi fájlok" subtitle="Érd el és kezeld az offline zenét a Helyi fájlok részen keresztül." link="/docs/guide/evermusic/evermusic-guide-local-files" >}}
 
-  {{< card icon="play" title="Audio lejátszó" subtitle="Vezéreld a lejátszást, a sort és az audio beállításokat, mint a hangszínszabályzó és az elalváskapcsoló." link="/docs/guide/evermusic/evermusic-guide-player" >}}
+  {{< feature-card icon="play" title="Audio lejátszó" subtitle="Vezéreld a lejátszást, a sort és az audio beállításokat, mint a hangszínszabályzó és az elalváskapcsoló." link="/docs/guide/evermusic/evermusic-guide-player" >}}
 
-  {{< card icon="adjustments" title="Beállítások" subtitle="Szabd testre az Evermusic megjelenését, funkcióit és teljesítménybeállításait." link="/docs/guide/evermusic/evermusic-guide-settings" >}}
+  {{< feature-card icon="adjustments" title="Beállítások" subtitle="Szabd testre az Evermusic megjelenését, funkcióit és teljesítménybeállításait." link="/docs/guide/evermusic/evermusic-guide-settings" >}}
 
 {{< /cards >}}
 

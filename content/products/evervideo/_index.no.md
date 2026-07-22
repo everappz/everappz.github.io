@@ -144,35 +144,35 @@ Alle funksjoner
 
 {{< cards >}}
 
-{{< card title="Spill alle video- og lydformater" subtitle="Se mediene dine uten å konvertere filer. Evervideo støtter alle hovedformater, inkludert MKV, AVI, MP4, MOV, FLAC, MP3, AAC, OGG, WAV, WMV og mer." icon="film">}}
+{{< feature-card title="Spill alle video- og lydformater" subtitle="Se mediene dine uten å konvertere filer. Evervideo støtter alle hovedformater, inkludert MKV, AVI, MP4, MOV, FLAC, MP3, AAC, OGG, WAV, WMV og mer." icon="film">}}
 
-{{< card title="Frakoblet modus" subtitle="Last ned videoer, album og spillelister for å se uten internettforbindelse. Ta med deg hele videosamlingen din overalt." icon="download">}}
+{{< feature-card title="Frakoblet modus" subtitle="Last ned videoer, album og spillelister for å se uten internettforbindelse. Ta med deg hele videosamlingen din overalt." icon="download">}}
 
-{{< card title="360°-video og VR-modus" subtitle="Se 360°- og VR-videoer på en morsom og enkel måte. Beveg telefonen rundt for å se i alle retninger, eller sett den i et VR-hodesett for å føle at du er inne i videoen." icon="video-camera">}}
+{{< feature-card title="360°-video og VR-modus" subtitle="Se 360°- og VR-videoer på en morsom og enkel måte. Beveg telefonen rundt for å se i alle retninger, eller sett den i et VR-hodesett for å føle at du er inne i videoen." icon="video-camera">}}
 
-{{< card title="Bilde-i-bilde" subtitle="Fortsett å se videoer i et lite flytende vindu mens du bruker andre apper. Kontroller avspillingen og se undertekster samtidig — perfekt for multitasking." icon="duplicate">}}
+{{< feature-card title="Bilde-i-bilde" subtitle="Fortsett å se videoer i et lite flytende vindu mens du bruker andre apper. Kontroller avspillingen og se undertekster samtidig — perfekt for multitasking." icon="duplicate">}}
 
-{{< card title="Video- og lydequalizer" subtitle="Tilpass hvordan videoene dine ser ut og høres ut. Juster bass, tonehøyde, lysstyrke, gamma, metning, kontrast og mer. Velg mellom 50+ videoforhåndsinnstillinger og 20+ lydforhåndsinnstillinger, eller lag dine egne." icon="adjustments">}}
+{{< feature-card title="Video- og lydequalizer" subtitle="Tilpass hvordan videoene dine ser ut og høres ut. Juster bass, tonehøyde, lysstyrke, gamma, metning, kontrast og mer. Velg mellom 50+ videoforhåndsinnstillinger og 20+ lydforhåndsinnstillinger, eller lag dine egne." icon="adjustments">}}
 
-{{< card title="Undertekster" subtitle="Vis innebygde undertekster, velg undertekstspornummer og nyt full undertekststøtte selv i Bilde-i-bilde-modus." icon="annotation" >}}
+{{< feature-card title="Undertekster" subtitle="Vis innebygde undertekster, velg undertekstspornummer og nyt full undertekststøtte selv i Bilde-i-bilde-modus." icon="annotation" >}}
 
-{{< card title="Spill direkte fra skyen" subtitle="Se videoer direkte fra skylagringen din uten å bruke enhetsplass. Støtter iCloud Drive, Google Drive, Dropbox, OneDrive, MEGA, Synology Drive, pCloud og mer." icon="cloud">}}
+{{< feature-card title="Spill direkte fra skyen" subtitle="Se videoer direkte fra skylagringen din uten å bruke enhetsplass. Støtter iCloud Drive, Google Drive, Dropbox, OneDrive, MEGA, Synology Drive, pCloud og mer." icon="cloud">}}
 
-{{< card title="Koble til datamaskin / NAS" subtitle="Koble enkelt til NAS, Mac eller PC over hjemmenettverket ditt med SMB, WebDAV eller DLNA. Fjerntilgang støttes for Synology Drive og WD MyCloud Home. Overfør mediefiler til enheten din via Wi-Fi eller iTunes fildeling." icon="desktop-computer">}}
+{{< feature-card title="Koble til datamaskin / NAS" subtitle="Koble enkelt til NAS, Mac eller PC over hjemmenettverket ditt med SMB, WebDAV eller DLNA. Fjerntilgang støttes for Synology Drive og WD MyCloud Home. Overfør mediefiler til enheten din via Wi-Fi eller iTunes fildeling." icon="desktop-computer">}}
 
-{{< card title="Mediebibliotek" subtitle="Organiser etter album, sjanger eller varighet. Synkroniseres automatisk med skyendringer. Opprett, rediger og eksporter M3U-spillelister med tilpasset sortering." icon="library" >}}
+{{< feature-card title="Mediebibliotek" subtitle="Organiser etter album, sjanger eller varighet. Synkroniseres automatisk med skyendringer. Opprett, rediger og eksporter M3U-spillelister med tilpasset sortering." icon="library" >}}
 
-{{< card title="Bokmerker og lagring av avspillingsposisjon" subtitle="Lagre plassen din i enhver video med bokmerker og gjenoppta avspillingen der du slapp. Juster avspillingshastighet, merk favoritter og sorter videoer etter mest spilt for enkel tilgang." icon="book-open">}}
+{{< feature-card title="Bokmerker og lagring av avspillingsposisjon" subtitle="Lagre plassen din i enhver video med bokmerker og gjenoppta avspillingen der du slapp. Juster avspillingshastighet, merk favoritter og sorter videoer etter mest spilt for enkel tilgang." icon="book-open">}}
 
-{{< card title="AirPlay og Chromecast" subtitle="Spill videoer på en større skjerm ved å strømme til Apple TV, Chromecast eller en annen kompatibel ekstern skjerm." icon="device-mobile">}}
+{{< feature-card title="AirPlay og Chromecast" subtitle="Spill videoer på en større skjerm ved å strømme til Apple TV, Chromecast eller en annen kompatibel ekstern skjerm." icon="device-mobile">}}
 
-{{< card title="Importer fra filer og biblioteker" subtitle="Importer videoer direkte fra Filer-appen, Bilder eller iTunes-biblioteket ditt. Få tilgang til alt lokalt og skybasert innhold i ett organisert mediebibliotek." icon="database">}}
+{{< feature-card title="Importer fra filer og biblioteker" subtitle="Importer videoer direkte fra Filer-appen, Bilder eller iTunes-biblioteket ditt. Få tilgang til alt lokalt og skybasert innhold i ett organisert mediebibliotek." icon="database">}}
 
-{{< card title="Filbehandler" subtitle="Flytt, gi nytt navn, slett og organiser filer direkte inne i appen." icon="folder">}}
+{{< feature-card title="Filbehandler" subtitle="Flytt, gi nytt navn, slett og organiser filer direkte inne i appen." icon="folder">}}
 
-{{< card title="Tilpasning" subtitle="Tilpass appen etter dine preferanser. Velg temaer, vis eller skjul funksjoner og juster grensesnittet etter dine behov." icon="sun">}}
+{{< feature-card title="Tilpasning" subtitle="Tilpass appen etter dine preferanser. Velg temaer, vis eller skjul funksjoner og juster grensesnittet etter dine behov." icon="sun">}}
 
-{{< card title="Smart søk" subtitle="Finn raskt videoer, album eller spillelister i mediebiblioteket ditt med nøkkelord eller filtre." icon="search" >}}
+{{< feature-card title="Smart søk" subtitle="Finn raskt videoer, album eller spillelister i mediebiblioteket ditt med nøkkelord eller filtre." icon="search" >}}
 
 
 
@@ -192,7 +192,7 @@ Intuitivt design
 
 {{< cards cols="4">}}
 
-  {{< card 
+  {{< feature-card 
     image="/products/evervideo/screenshots/2880x1800/1.png" 
     title="Videospiller" 
     method="Fill"
@@ -201,7 +201,7 @@ Intuitivt design
     icon="play"
   >}}
 
-  {{< card 
+  {{< feature-card 
     image="/products/evervideo/screenshots/2880x1800/3.png" 
     title="Lyd- og videoequalizer" 
     method="Fill"
@@ -210,7 +210,7 @@ Intuitivt design
     icon="adjustments"
   >}}
 
-  {{< card 
+  {{< feature-card 
     image="/products/evervideo/screenshots/2880x1800/6.png" 
     title="Spillelistebehandler" 
     method="Fill"
@@ -219,7 +219,7 @@ Intuitivt design
     icon="collection"
   >}}
 
-  {{< card 
+  {{< feature-card 
     image="/products/evervideo/screenshots/2880x1800/5.png" 
     title="Mediebibliotek" 
     method="Fill"
@@ -228,7 +228,7 @@ Intuitivt design
     icon="library"
   >}}
 
-  {{< card 
+  {{< feature-card 
     image="/products/evervideo/screenshots/2880x1800/7.png"  
     title="Skylagring" 
     method="Fill"
@@ -237,7 +237,7 @@ Intuitivt design
     icon="cloud"
   >}}
 
-  {{< card 
+  {{< feature-card 
     image="/products/evervideo/screenshots/2880x1800/9.png"  
     title="Filbehandler" 
     method="Fill"
@@ -656,17 +656,17 @@ Merk: Sørg for at JavaScript er aktivert og at du bruker den nyeste nettleserve
 </div>
 
 {{< cards >}}
-  {{< card icon="location-marker" title="Navigasjon" subtitle="Lær å navigere i Evervideo med fanelinjen på iPhone eller venstremenyen på iPad og Mac, sammen med den kompakte alltid synlige videospilleren." link="/docs/guide/evervideo/evervideo-guide-navigation" >}}
+  {{< feature-card icon="location-marker" title="Navigasjon" subtitle="Lær å navigere i Evervideo med fanelinjen på iPhone eller venstremenyen på iPad og Mac, sammen med den kompakte alltid synlige videospilleren." link="/docs/guide/evervideo/evervideo-guide-navigation" >}}
 
-  {{< card icon="folder" title="Filer" subtitle="Koble til skykontoer, NAS-delinger, medieservere (Plex, Jellyfin, Emby, Subsonic, Navidrome), RTSP-strømmer og lokale filer i én samlet fane." link="/docs/guide/evervideo/evervideo-guide-files" >}}
+  {{< feature-card icon="folder" title="Filer" subtitle="Koble til skykontoer, NAS-delinger, medieservere (Plex, Jellyfin, Emby, Subsonic, Navidrome), RTSP-strømmer og lokale filer i én samlet fane." link="/docs/guide/evervideo/evervideo-guide-files" >}}
 
-  {{< card icon="library" title="Mediebibliotek" subtitle="Organiser og utforsk videoer og musikk etter Album, Sjangre, Nylig spilte og Favoritter — pluss iOS Bilder-biblioteket og Apple Music-biblioteket." link="/docs/guide/evervideo/evervideo-guide-video-library" >}}
+  {{< feature-card icon="library" title="Mediebibliotek" subtitle="Organiser og utforsk videoer og musikk etter Album, Sjangre, Nylig spilte og Favoritter — pluss iOS Bilder-biblioteket og Apple Music-biblioteket." link="/docs/guide/evervideo/evervideo-guide-video-library" >}}
 
-  {{< card icon="collection" title="Spillelister" subtitle="Lag og organiser spillelister for videoer, musikk, serier eller kurs, og importer M3U / M3U8 / CUE-filer." link="/docs/guide/evervideo/evervideo-guide-playlists" >}}
+  {{< feature-card icon="collection" title="Spillelister" subtitle="Lag og organiser spillelister for videoer, musikk, serier eller kurs, og importer M3U / M3U8 / CUE-filer." link="/docs/guide/evervideo/evervideo-guide-playlists" >}}
 
-  {{< card icon="play" title="Mediaspiller" subtitle="Styr avspilling, kø, Bilde-i-bilde, lyd- og videospor, primære og sekundære undertekster og lyd- + videoequalizerne." link="/docs/guide/evervideo/evervideo-guide-player" >}}
+  {{< feature-card icon="play" title="Mediaspiller" subtitle="Styr avspilling, kø, Bilde-i-bilde, lyd- og videospor, primære og sekundære undertekster og lyd- + videoequalizerne." link="/docs/guide/evervideo/evervideo-guide-player" >}}
 
-  {{< card icon="adjustments" title="Innstillinger" subtitle="Tilpass utseende, dekoder, equalizere, undertekster, widgets, språk, tilgangskode, sikkerhetskopi og ytelsesinnstillinger i Evervideo." link="/docs/guide/evervideo/evervideo-guide-settings" >}}
+  {{< feature-card icon="adjustments" title="Innstillinger" subtitle="Tilpass utseende, dekoder, equalizere, undertekster, widgets, språk, tilgangskode, sikkerhetskopi og ytelsesinnstillinger i Evervideo." link="/docs/guide/evervideo/evervideo-guide-settings" >}}
 
 {{< /cards >}}
 

@@ -144,35 +144,35 @@ Evervideo
 
 {{< cards >}}
 
-{{< card title="Minden videó- és hangformátum lejátszása" subtitle="Nézze médiáit fájlok konvertálása nélkül. Az Evervideo támogatja az összes főbb formátumot, beleértve az MKV, AVI, MP4, MOV, FLAC, MP3, AAC, OGG, WAV, WMV és még sok mást." icon="film">}}
+{{< feature-card title="Minden videó- és hangformátum lejátszása" subtitle="Nézze médiáit fájlok konvertálása nélkül. Az Evervideo támogatja az összes főbb formátumot, beleértve az MKV, AVI, MP4, MOV, FLAC, MP3, AAC, OGG, WAV, WMV és még sok mást." icon="film">}}
 
-{{< card title="Offline mód" subtitle="Töltsön le videókat, albumokat és lejátszási listákat internetkapcsolat nélküli megtekintéshez. Vigye el teljes videógyűjteményét bárhová." icon="download">}}
+{{< feature-card title="Offline mód" subtitle="Töltsön le videókat, albumokat és lejátszási listákat internetkapcsolat nélküli megtekintéshez. Vigye el teljes videógyűjteményét bárhová." icon="download">}}
 
-{{< card title="360°-os videó és VR mód" subtitle="Nézzen 360°-os és VR videókat szórakoztató és egyszerű módon. Mozgassa telefonját bármely irányba, vagy tegye VR headsetbe, hogy úgy érezze, mintha a videóban lenne." icon="video-camera">}}
+{{< feature-card title="360°-os videó és VR mód" subtitle="Nézzen 360°-os és VR videókat szórakoztató és egyszerű módon. Mozgassa telefonját bármely irányba, vagy tegye VR headsetbe, hogy úgy érezze, mintha a videóban lenne." icon="video-camera">}}
 
-{{< card title="Kép a képben" subtitle="Folytassa a videónézést egy kis lebegő ablakban más alkalmazások használata közben. Vezérelje a lejátszást és nézze a feliratokat egyszerre – tökéletes multitaskinghoz." icon="duplicate">}}
+{{< feature-card title="Kép a képben" subtitle="Folytassa a videónézést egy kis lebegő ablakban más alkalmazások használata közben. Vezérelje a lejátszást és nézze a feliratokat egyszerre – tökéletes multitaskinghoz." icon="duplicate">}}
 
-{{< card title="Videó és audio hangszínszabályzó" subtitle="Szabja testre videói megjelenését és hangzását. Állítsa be a basszust, hangmagasságot, fényerőt, gammát, telítettséget, kontrasztot és egyebeket. Válasszon 50+ videó előbeállítás és 20+ audio előbeállítás közül, vagy hozza létre sajátját." icon="adjustments">}}
+{{< feature-card title="Videó és audio hangszínszabályzó" subtitle="Szabja testre videói megjelenését és hangzását. Állítsa be a basszust, hangmagasságot, fényerőt, gammát, telítettséget, kontrasztot és egyebeket. Válasszon 50+ videó előbeállítás és 20+ audio előbeállítás közül, vagy hozza létre sajátját." icon="adjustments">}}
 
-{{< card title="Feliratok" subtitle="Tekintse meg a beágyazott feliratokat, válassza ki a felirat sávszámot, és élvezze a teljes felirat támogatást még Kép a képben módban is." icon="annotation" >}}
+{{< feature-card title="Feliratok" subtitle="Tekintse meg a beágyazott feliratokat, válassza ki a felirat sávszámot, és élvezze a teljes felirat támogatást még Kép a képben módban is." icon="annotation" >}}
 
-{{< card title="Lejátszás közvetlenül a felhőből" subtitle="Nézzen videókat közvetlenül a felhőtárhelyéről az eszköz tárhelyének használata nélkül. Támogatja az iCloud Drive-ot, Google Drive-ot, Dropboxot, OneDrive-ot, MEGA-t, Synology Drive-ot, pCloudot és egyebeket." icon="cloud">}}
+{{< feature-card title="Lejátszás közvetlenül a felhőből" subtitle="Nézzen videókat közvetlenül a felhőtárhelyéről az eszköz tárhelyének használata nélkül. Támogatja az iCloud Drive-ot, Google Drive-ot, Dropboxot, OneDrive-ot, MEGA-t, Synology Drive-ot, pCloudot és egyebeket." icon="cloud">}}
 
-{{< card title="Számítógép / NAS csatlakoztatása" subtitle="Egyszerűen csatlakoztassa NAS-át, Mac-jét vagy PC-jét az otthoni hálózaton keresztül SMB, WebDAV vagy DLNA használatával. A távoli hozzáférés támogatott a Synology Drive és WD MyCloud Home számára. Vigyen át médiafájlokat eszközére Wi-Fi-n vagy iTunes fájlmegosztáson keresztül." icon="desktop-computer">}}
+{{< feature-card title="Számítógép / NAS csatlakoztatása" subtitle="Egyszerűen csatlakoztassa NAS-át, Mac-jét vagy PC-jét az otthoni hálózaton keresztül SMB, WebDAV vagy DLNA használatával. A távoli hozzáférés támogatott a Synology Drive és WD MyCloud Home számára. Vigyen át médiafájlokat eszközére Wi-Fi-n vagy iTunes fájlmegosztáson keresztül." icon="desktop-computer">}}
 
-{{< card title="Médiatár" subtitle="Rendezze albumok, műfajok vagy időtartam szerint. Automatikusan szinkronizálódik a felhőváltozásokkal. Hozzon létre, szerkesszen és exportáljon M3U lejátszási listákat egyéni rendezéssel." icon="library" >}}
+{{< feature-card title="Médiatár" subtitle="Rendezze albumok, műfajok vagy időtartam szerint. Automatikusan szinkronizálódik a felhőváltozásokkal. Hozzon létre, szerkesszen és exportáljon M3U lejátszási listákat egyéni rendezéssel." icon="library" >}}
 
-{{< card title="Könyvjelzők és lejátszási pozíció mentése" subtitle="Mentse el helyét bármely videóban könyvjelzőkkel, és folytassa a lejátszást onnan, ahol abbahagyta. Állítsa be a lejátszási sebességet, jelölje meg kedvenceit, és rendezze videóit a legtöbbször lejátszottak szerint a könnyű hozzáférés érdekében." icon="book-open">}}
+{{< feature-card title="Könyvjelzők és lejátszási pozíció mentése" subtitle="Mentse el helyét bármely videóban könyvjelzőkkel, és folytassa a lejátszást onnan, ahol abbahagyta. Állítsa be a lejátszási sebességet, jelölje meg kedvenceit, és rendezze videóit a legtöbbször lejátszottak szerint a könnyű hozzáférés érdekében." icon="book-open">}}
 
-{{< card title="AirPlay és Chromecast" subtitle="Játsszon le videókat nagyobb képernyőn Apple TV-re, Chromecastra vagy bármely kompatibilis külső kijelzőre streameléssel." icon="device-mobile">}}
+{{< feature-card title="AirPlay és Chromecast" subtitle="Játsszon le videókat nagyobb képernyőn Apple TV-re, Chromecastra vagy bármely kompatibilis külső kijelzőre streameléssel." icon="device-mobile">}}
 
-{{< card title="Importálás a Files-ból és könyvtárakból" subtitle="Importáljon videókat közvetlenül a Files alkalmazásból, Fotókból vagy iTunes könyvtárából. Férjen hozzá minden helyi és felhőtartalmához egy rendezett médiatárban." icon="database">}}
+{{< feature-card title="Importálás a Files-ból és könyvtárakból" subtitle="Importáljon videókat közvetlenül a Files alkalmazásból, Fotókból vagy iTunes könyvtárából. Férjen hozzá minden helyi és felhőtartalmához egy rendezett médiatárban." icon="database">}}
 
-{{< card title="Fájlkezelő" subtitle="Mozgasson, nevezzen át, töröljön és rendezzen fájlokat közvetlenül az alkalmazáson belül." icon="folder">}}
+{{< feature-card title="Fájlkezelő" subtitle="Mozgasson, nevezzen át, töröljön és rendezzen fájlokat közvetlenül az alkalmazáson belül." icon="folder">}}
 
-{{< card title="Személyre szabás" subtitle="Szabja testre az alkalmazást preferenciái szerint. Válasszon témákat, jelenítsen meg vagy rejtsen el funkciókat, és igazítsa a felületet igényeihez." icon="sun">}}
+{{< feature-card title="Személyre szabás" subtitle="Szabja testre az alkalmazást preferenciái szerint. Válasszon témákat, jelenítsen meg vagy rejtsen el funkciókat, és igazítsa a felületet igényeihez." icon="sun">}}
 
-{{< card title="Intelligens keresés" subtitle="Gyorsan találjon videókat, albumokat vagy lejátszási listákat médiatárában kulcsszavak vagy szűrők segítségével." icon="search" >}}
+{{< feature-card title="Intelligens keresés" subtitle="Gyorsan találjon videókat, albumokat vagy lejátszási listákat médiatárában kulcsszavak vagy szűrők segítségével." icon="search" >}}
 
 
 
@@ -192,7 +192,7 @@ Intuitív dizájn
 
 {{< cards cols="4">}}
 
-  {{< card 
+  {{< feature-card 
     image="/products/evervideo/screenshots/2880x1800/1.png" 
     title="Videólejátszó" 
     method="Fill"
@@ -201,7 +201,7 @@ Intuitív dizájn
     icon="play"
   >}}
 
-  {{< card 
+  {{< feature-card 
     image="/products/evervideo/screenshots/2880x1800/3.png" 
     title="Audio és videó hangszínszabályzó" 
     method="Fill"
@@ -210,7 +210,7 @@ Intuitív dizájn
     icon="adjustments"
   >}}
 
-  {{< card 
+  {{< feature-card 
     image="/products/evervideo/screenshots/2880x1800/6.png" 
     title="Lejátszási lista kezelő" 
     method="Fill"
@@ -219,7 +219,7 @@ Intuitív dizájn
     icon="collection"
   >}}
 
-  {{< card 
+  {{< feature-card 
     image="/products/evervideo/screenshots/2880x1800/5.png" 
     title="Médiatár" 
     method="Fill"
@@ -228,7 +228,7 @@ Intuitív dizájn
     icon="library"
   >}}
 
-  {{< card 
+  {{< feature-card 
     image="/products/evervideo/screenshots/2880x1800/7.png"  
     title="Felhőtárhely" 
     method="Fill"
@@ -237,7 +237,7 @@ Intuitív dizájn
     icon="cloud"
   >}}
 
-  {{< card 
+  {{< feature-card 
     image="/products/evervideo/screenshots/2880x1800/9.png"  
     title="Fájlkezelő" 
     method="Fill"
@@ -656,17 +656,17 @@ Megjegyzés: A legjobb teljesítmény érdekében győződjön meg róla, hogy a
 </div>
 
 {{< cards >}}
-  {{< card icon="location-marker" title="Navigáció" subtitle="Tanuld meg, hogyan navigálj az Evervideóban az iPhone fülsorával vagy az iPad és Mac bal oldali menüjével, valamint a kompakt, mindig látható videolejátszóval." link="/docs/guide/evervideo/evervideo-guide-navigation" >}}
+  {{< feature-card icon="location-marker" title="Navigáció" subtitle="Tanuld meg, hogyan navigálj az Evervideóban az iPhone fülsorával vagy az iPad és Mac bal oldali menüjével, valamint a kompakt, mindig látható videolejátszóval." link="/docs/guide/evervideo/evervideo-guide-navigation" >}}
 
-  {{< card icon="folder" title="Fájlok" subtitle="Csatlakoztass felhőfiókokat, NAS megosztásokat, médiakiszolgálókat (Plex, Jellyfin, Emby, Subsonic, Navidrome), RTSP-streameket és helyi fájlokat egyetlen egyesített fülön." link="/docs/guide/evervideo/evervideo-guide-files" >}}
+  {{< feature-card icon="folder" title="Fájlok" subtitle="Csatlakoztass felhőfiókokat, NAS megosztásokat, médiakiszolgálókat (Plex, Jellyfin, Emby, Subsonic, Navidrome), RTSP-streameket és helyi fájlokat egyetlen egyesített fülön." link="/docs/guide/evervideo/evervideo-guide-files" >}}
 
-  {{< card icon="library" title="Médiakönyvtár" subtitle="Rendezd és fedezd fel videóidat és zenédet albumok, műfajok, legutóbbiak és kedvencek szerint – beleértve az iOS Fotók könyvtárát és az Apple Music könyvtárát is." link="/docs/guide/evervideo/evervideo-guide-video-library" >}}
+  {{< feature-card icon="library" title="Médiakönyvtár" subtitle="Rendezd és fedezd fel videóidat és zenédet albumok, műfajok, legutóbbiak és kedvencek szerint – beleértve az iOS Fotók könyvtárát és az Apple Music könyvtárát is." link="/docs/guide/evervideo/evervideo-guide-video-library" >}}
 
-  {{< card icon="collection" title="Lejátszási listák" subtitle="Hozz létre és rendezz lejátszási listákat videókhoz, zenéhez, sorozatokhoz vagy kurzusokhoz, és importálj M3U / M3U8 / CUE fájlokat." link="/docs/guide/evervideo/evervideo-guide-playlists" >}}
+  {{< feature-card icon="collection" title="Lejátszási listák" subtitle="Hozz létre és rendezz lejátszási listákat videókhoz, zenéhez, sorozatokhoz vagy kurzusokhoz, és importálj M3U / M3U8 / CUE fájlokat." link="/docs/guide/evervideo/evervideo-guide-playlists" >}}
 
-  {{< card icon="play" title="Médialejátszó" subtitle="Vezéreld a lejátszást, a sort, a Kép a képben módot, az audio- és videosávokat, az elsődleges és másodlagos feliratokat, valamint az audio- és video-hangszínszabályzókat." link="/docs/guide/evervideo/evervideo-guide-player" >}}
+  {{< feature-card icon="play" title="Médialejátszó" subtitle="Vezéreld a lejátszást, a sort, a Kép a képben módot, az audio- és videosávokat, az elsődleges és másodlagos feliratokat, valamint az audio- és video-hangszínszabályzókat." link="/docs/guide/evervideo/evervideo-guide-player" >}}
 
-  {{< card icon="adjustments" title="Beállítások" subtitle="Szabd személyre az Evervideo megjelenését, dekódolóját, hangszínszabályzóit, feliratait, widgetjeit, nyelvét, jelszavát, biztonsági mentését és teljesítménybeállításait." link="/docs/guide/evervideo/evervideo-guide-settings" >}}
+  {{< feature-card icon="adjustments" title="Beállítások" subtitle="Szabd személyre az Evervideo megjelenését, dekódolóját, hangszínszabályzóit, feliratait, widgetjeit, nyelvét, jelszavát, biztonsági mentését és teljesítménybeállításait." link="/docs/guide/evervideo/evervideo-guide-settings" >}}
 
 {{< /cards >}}
 

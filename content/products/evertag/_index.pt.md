@@ -491,17 +491,17 @@ Este modo é especialmente útil quando precisa de aplicar o mesmo nome de álbu
 </div>
 
 {{< cards >}}
-  {{< card icon="location-marker" title="Navegação" subtitle="Aprenda a navegar sem esforço pela nossa app usando a Barra de Separadores (para utilizadores de iPhone) ou o Menu Esquerdo (para utilizadores de iPad e Mac) para aceder e explorar todas as funcionalidades da app." link="/docs/guide/evertag/evertag-guide-navigation" >}}
+  {{< feature-card icon="location-marker" title="Navegação" subtitle="Aprenda a navegar sem esforço pela nossa app usando a Barra de Separadores (para utilizadores de iPhone) ou o Menu Esquerdo (para utilizadores de iPad e Mac) para aceder e explorar todas as funcionalidades da app." link="/docs/guide/evertag/evertag-guide-navigation" >}}
 
-  {{< card icon="cloud" title="Ligações" subtitle="Ligue sem esforço todas as suas contas na nuvem disponíveis com os seus preciosos ficheiros de áudio. Pode até editar os seus ficheiros online facilmente usando o nosso gestor de ficheiros integrado." link="/docs/guide/evertag/evertag-guide-connections" >}}
+  {{< feature-card icon="cloud" title="Ligações" subtitle="Ligue sem esforço todas as suas contas na nuvem disponíveis com os seus preciosos ficheiros de áudio. Pode até editar os seus ficheiros online facilmente usando o nosso gestor de ficheiros integrado." link="/docs/guide/evertag/evertag-guide-connections" >}}
 
-  {{< card icon="folder" title="Ficheiros Locais" subtitle="Visualize e organize ficheiros armazenados na pasta Documentos da app ou no seu dispositivo. Use o gestor de ficheiros integrado para editar e gerir os seus ficheiros de áudio com facilidade." link="/docs/guide/evertag/evertag-guide-local-files" >}}
+  {{< feature-card icon="folder" title="Ficheiros Locais" subtitle="Visualize e organize ficheiros armazenados na pasta Documentos da app ou no seu dispositivo. Use o gestor de ficheiros integrado para editar e gerir os seus ficheiros de áudio com facilidade." link="/docs/guide/evertag/evertag-guide-local-files" >}}
 
-  {{< card icon="pencil-alt" title="Editor de Tags" subtitle="Domine a arte da manipulação de metadados de ficheiros de áudio. Descubra como editar metadados, transformar capas de álbum e gerir múltiplos ficheiros simultaneamente sem problemas." link="/docs/guide/evertag/evertag-guide-tag-editor" >}}
+  {{< feature-card icon="pencil-alt" title="Editor de Tags" subtitle="Domine a arte da manipulação de metadados de ficheiros de áudio. Descubra como editar metadados, transformar capas de álbum e gerir múltiplos ficheiros simultaneamente sem problemas." link="/docs/guide/evertag/evertag-guide-tag-editor" >}}
 
-  {{< card icon="code" title="Mapeamento de Campos de Tags" subtitle="Explore a lista completa de campos de tags de áudio suportados pela app Evertag, incluindo nomes de campos internos e mapeamentos entre os principais formatos de metadados." link="/docs/guide/evertag/evertag-tag-field-mappings" >}}
+  {{< feature-card icon="code" title="Mapeamento de Campos de Tags" subtitle="Explore a lista completa de campos de tags de áudio suportados pela app Evertag, incluindo nomes de campos internos e mapeamentos entre os principais formatos de metadados." link="/docs/guide/evertag/evertag-tag-field-mappings" >}}
 
-  {{< card icon="adjustments" title="Definições" subtitle="Descubra como personalizar a sua experiência com a app, ajustar o desempenho, gerir a utilização de dados e adaptar as preferências de idioma e interface do utilizador ao seu gosto." link="/docs/guide/evertag/evertag-guide-settings" >}}
+  {{< feature-card icon="adjustments" title="Definições" subtitle="Descubra como personalizar a sua experiência com a app, ajustar o desempenho, gerir a utilização de dados e adaptar as preferências de idioma e interface do utilizador ao seu gosto." link="/docs/guide/evertag/evertag-guide-settings" >}}
 
 {{< /cards >}}
 

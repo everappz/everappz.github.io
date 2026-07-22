@@ -491,17 +491,17 @@ Mod ini sangat berguna apabila anda perlu menerapkan nama album, artis, genre at
 </div>
 
 {{< cards >}}
-  {{< card icon="location-marker" title="Navigasi" subtitle="Pelajari cara menavigasi aplikasi kami dengan mudah menggunakan Bar Tab (untuk pengguna iPhone) atau Menu Kiri (untuk pengguna iPad dan Mac) untuk mengakses dan meneroka semua ciri aplikasi." link="/docs/guide/evertag/evertag-guide-navigation" >}}
+  {{< feature-card icon="location-marker" title="Navigasi" subtitle="Pelajari cara menavigasi aplikasi kami dengan mudah menggunakan Bar Tab (untuk pengguna iPhone) atau Menu Kiri (untuk pengguna iPad dan Mac) untuk mengakses dan meneroka semua ciri aplikasi." link="/docs/guide/evertag/evertag-guide-navigation" >}}
 
-  {{< card icon="cloud" title="Sambungan" subtitle="Sambungkan semua akaun awan anda yang tersedia dengan fail audio berharga anda dengan mudah. Anda juga boleh mengedit fail dalam talian anda dengan mudah menggunakan pengurus fail bersepadu kami." link="/docs/guide/evertag/evertag-guide-connections" >}}
+  {{< feature-card icon="cloud" title="Sambungan" subtitle="Sambungkan semua akaun awan anda yang tersedia dengan fail audio berharga anda dengan mudah. Anda juga boleh mengedit fail dalam talian anda dengan mudah menggunakan pengurus fail bersepadu kami." link="/docs/guide/evertag/evertag-guide-connections" >}}
 
-  {{< card icon="folder" title="Fail Setempat" subtitle="Lihat dan susun fail yang disimpan dalam folder Dokumen aplikasi atau pada peranti anda. Gunakan pengurus fail terbina dalam untuk mengedit dan mengurus fail audio anda dengan mudah." link="/docs/guide/evertag/evertag-guide-local-files" >}}
+  {{< feature-card icon="folder" title="Fail Setempat" subtitle="Lihat dan susun fail yang disimpan dalam folder Dokumen aplikasi atau pada peranti anda. Gunakan pengurus fail terbina dalam untuk mengedit dan mengurus fail audio anda dengan mudah." link="/docs/guide/evertag/evertag-guide-local-files" >}}
 
-  {{< card icon="pencil-alt" title="Editor Tag" subtitle="Kuasai seni manipulasi metadata fail audio. Ketahui cara mengedit metadata, mengubah kulit album dan mengurus berbilang fail secara serentak dengan lancar." link="/docs/guide/evertag/evertag-guide-tag-editor" >}}
+  {{< feature-card icon="pencil-alt" title="Editor Tag" subtitle="Kuasai seni manipulasi metadata fail audio. Ketahui cara mengedit metadata, mengubah kulit album dan mengurus berbilang fail secara serentak dengan lancar." link="/docs/guide/evertag/evertag-guide-tag-editor" >}}
 
-  {{< card icon="code" title="Pemetaan Medan Tag" subtitle="Terokai senarai lengkap medan tag audio yang disokong oleh aplikasi Evertag, termasuk nama medan dalaman dan pemetaan merentas format metadata utama." link="/docs/guide/evertag/evertag-tag-field-mappings" >}}
+  {{< feature-card icon="code" title="Pemetaan Medan Tag" subtitle="Terokai senarai lengkap medan tag audio yang disokong oleh aplikasi Evertag, termasuk nama medan dalaman dan pemetaan merentas format metadata utama." link="/docs/guide/evertag/evertag-tag-field-mappings" >}}
 
-  {{< card icon="adjustments" title="Tetapan" subtitle="Temui cara menyesuaikan pengalaman aplikasi anda, menala halus prestasi, mengurus penggunaan data dan menyesuaikan keutamaan bahasa dan antara muka pengguna mengikut kesesuaian anda." link="/docs/guide/evertag/evertag-guide-settings" >}}
+  {{< feature-card icon="adjustments" title="Tetapan" subtitle="Temui cara menyesuaikan pengalaman aplikasi anda, menala halus prestasi, mengurus penggunaan data dan menyesuaikan keutamaan bahasa dan antara muka pengguna mengikut kesesuaian anda." link="/docs/guide/evertag/evertag-guide-settings" >}}
 
 {{< /cards >}}
 

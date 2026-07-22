@@ -148,7 +148,7 @@ Evermusicは、スペインのソフトウェア企業であるEverappzが開発
 
 {{< cards cols="4">}}
 
-  {{< card 
+  {{< feature-card 
     icon="adjustments"
     image="/products/evermusic/screenshots/2048x2732/3.png" 
     title="オーディオイコライザー" 
@@ -157,7 +157,7 @@ Evermusicは、スペインのソフトウェア企業であるEverappzが開発
     subtitle="iPodスタイルのオーディオイコライザー、カスタマイズ可能なプリセット、プリアンプゲインで最高のリスニング体験のためにサウンドを微調整。" 
   >}}
 
-  {{< card 
+  {{< feature-card 
     icon="annotation"
     image="/products/evermusic/screenshots/2048x2732/4.png"  
     title="歌詞ビューア" 
@@ -166,7 +166,7 @@ Evermusicは、スペインのソフトウェア企業であるEverappzが開発
     subtitle="聴きながら埋め込み歌詞とトラックコメントを読むことができます。同期歌詞でより没入感のある音楽体験を楽しみましょう。" 
   >}}
 
-  {{< card 
+  {{< feature-card 
     icon="collection"
     image="/products/evermusic/screenshots/2048x2732/5.png"  
     title="プレイリストマネージャー" 
@@ -175,7 +175,7 @@ Evermusicは、スペインのソフトウェア企業であるEverappzが開発
     subtitle="カスタムプレイリストの作成と整理、曲の並べ替え、M3Uへのエクスポート、ZIPファイルとしてアーカイブして簡単に共有やバックアップが可能。" 
   >}}
 
-  {{< card 
+  {{< feature-card 
     icon="cloud"
     image="/products/evermusic/screenshots/2048x2732/6.png"  
     title="クラウド音楽ストリーミング" 
@@ -184,7 +184,7 @@ Evermusicは、スペインのソフトウェア企業であるEverappzが開発
     subtitle="Google Drive、Dropbox、OneDriveなどのトップクラウドストレージプラットフォームを連携して、いつでもどこでも音楽コレクションをストリーミング。" 
   >}}
 
-  {{< card 
+  {{< feature-card 
     icon="duplicate"
     image="/products/evermusic/screenshots/2048x2732/9.png"  
     title="ファイルマネージャー" 
@@ -193,7 +193,7 @@ Evermusicは、スペインのソフトウェア企業であるEverappzが開発
     subtitle="オーディオファイルを簡単に管理—トラック名の変更、フォルダの整理、内蔵ツールを使用したデバイス間の音楽転送。" 
   >}} 
 
-  {{< card 
+  {{< feature-card 
     icon="sun"
     image="/products/evermusic/screenshots/2048x2732/10.png"  
     title="アプリのカスタマイズ" 
@@ -218,41 +218,41 @@ Evermusicは、スペインのソフトウェア企業であるEverappzが開発
 
 {{< cards >}}
 
-  {{< card title="オーディオフォーマット" subtitle="対応形式：mp3、m4a、flac、wav、aac、mp4、m3u、m3u8、m4b、m4p、aiff、ogg、mp2、ac3、wmaなど。" icon="music-note" >}}
+  {{< feature-card title="オーディオフォーマット" subtitle="対応形式：mp3、m4a、flac、wav、aac、mp4、m3u、m3u8、m4b、m4p、aiff、ogg、mp2、ac3、wmaなど。" icon="music-note" >}}
 
-  {{< card title="オーディオブック" subtitle="オーディオブックマーク、再生速度コントロール、再開位置を搭載。" icon="book-open" width="50">}}
+  {{< feature-card title="オーディオブック" subtitle="オーディオブックマーク、再生速度コントロール、再開位置を搭載。" icon="book-open" width="50">}}
 
-  {{< card title="自動同期" subtitle="音楽ライブラリをクラウドと同期し、アーティスト、アルバム、ジャンルごとに整理。" icon="refresh" >}}
+  {{< feature-card title="自動同期" subtitle="音楽ライブラリをクラウドと同期し、アーティスト、アルバム、ジャンルごとに整理。" icon="refresh" >}}
 
-  {{< card title="ファイルマネージャー" subtitle="コピー、移動、名前変更、削除などの操作でファイルを管理。" icon="folder" >}}
+  {{< feature-card title="ファイルマネージャー" subtitle="コピー、移動、名前変更、削除などの操作でファイルを管理。" icon="folder" >}}
 
-  {{< card title="クラウドサービス" subtitle="iCloud、Google Drive、Dropbox、OneDrive、Box、MEGA、WD MyCloud Home、pCloudなどに対応。" icon="cloud" >}}
+  {{< feature-card title="クラウドサービス" subtitle="iCloud、Google Drive、Dropbox、OneDrive、Box、MEGA、WD MyCloud Home、pCloudなどに対応。" icon="cloud" >}}
 
-  {{< card title="クロスフェード再生" subtitle="現在の曲が終わる前に次の曲が始まり、シームレスな移行を実現。" icon="switch-horizontal" >}}
+  {{< feature-card title="クロスフェード再生" subtitle="現在の曲が終わる前に次の曲が始まり、シームレスな移行を実現。" icon="switch-horizontal" >}}
 
-  {{< card title="ギャップレス再生" subtitle="曲間にポーズなし — ライブ、クラシック、コンセプトアルバムに最適。" icon="volume-up" >}}
+  {{< feature-card title="ギャップレス再生" subtitle="曲間にポーズなし — ライブ、クラシック、コンセプトアルバムに最適。" icon="volume-up" >}}
 
-  {{< card title="オーディオイコライザー" subtitle="プリセット、手動コントロール、プリアンプゲイン付きのカスタマイズ可能なイコライザー。" icon="adjustments" >}}
+  {{< feature-card title="オーディオイコライザー" subtitle="プリセット、手動コントロール、プリアンプゲイン付きのカスタマイズ可能なイコライザー。" icon="adjustments" >}}
 
-  {{< card title="高度な検索" subtitle="お気に入りのアルバム、アーティスト、曲を素早く簡単に検索。" icon="search" >}}
+  {{< feature-card title="高度な検索" subtitle="お気に入りのアルバム、アーティスト、曲を素早く簡単に検索。" icon="search" >}}
 
-  {{< card title="コンピューターアクセス" subtitle="SMB、WebDAV、DLNAで接続。iTunesファイル共有とWi-Fiで転送。" icon="desktop-computer" >}}
+  {{< feature-card title="コンピューターアクセス" subtitle="SMB、WebDAV、DLNAで接続。iTunesファイル共有とWi-Fiで転送。" icon="desktop-computer" >}}
 
-  {{< card title="AirPlay & Chromecast" subtitle="Apple TVやGoogle Chromecastデバイスにワイヤレスでストリーミング。" icon="device-mobile" >}}
+  {{< feature-card title="AirPlay & Chromecast" subtitle="Apple TVやGoogle Chromecastデバイスにワイヤレスでストリーミング。" icon="device-mobile" >}}
 
-  {{< card title="プレイリスト" subtitle="プレイリストの作成、編集、並べ替え、M3Uのエクスポート/インポートをオフラインモードで。" icon="collection" >}}
+  {{< feature-card title="プレイリスト" subtitle="プレイリストの作成、編集、並べ替え、M3Uのエクスポート/インポートをオフラインモードで。" icon="collection" >}}
 
-  {{< card title="USBフラッシュカード" subtitle="SanDisk iXpandなどの外付けリーダーを使用してSDカードから直接音楽を再生。" icon="inbox" >}}
+  {{< feature-card title="USBフラッシュカード" subtitle="SanDisk iXpandなどの外付けリーダーを使用してSDカードから直接音楽を再生。" icon="inbox" >}}
 
-  {{< card title="オフラインモード" subtitle="アルバムやプレイリストをダウンロード、または最近再生した曲を自動キャッシュしてオフライン再生。" icon="download" >}}
+  {{< feature-card title="オフラインモード" subtitle="アルバムやプレイリストをダウンロード、または最近再生した曲を自動キャッシュしてオフライン再生。" icon="download" >}}
 
-  {{< card title="Apple CarPlay" subtitle="音楽再生専用のCarPlay UIで安全な運転を。" icon="truck" >}}
+  {{< feature-card title="Apple CarPlay" subtitle="音楽再生専用のCarPlay UIで安全な運転を。" icon="truck" >}}
 
-  {{< card title="ID3タグエディター" subtitle="内蔵タグエディターで破損したまたは欠落したメタデータを編集。" icon="pencil-alt" >}}
+  {{< feature-card title="ID3タグエディター" subtitle="内蔵タグエディターで破損したまたは欠落したメタデータを編集。" icon="pencil-alt" >}}
 
-  {{< card title="歌詞とコメント" subtitle="音楽を聴きながら埋め込み歌詞とコメントを表示。" icon="annotation" >}}
+  {{< feature-card title="歌詞とコメント" subtitle="音楽を聴きながら埋め込み歌詞とコメントを表示。" icon="annotation" >}}
 
-  {{< card title="Last.fm" subtitle="Last.fmアカウントを接続して、パーソナライズされたリスニング統計とレコメンデーションを取得。" icon="chart-bar" >}}
+  {{< feature-card title="Last.fm" subtitle="Last.fmアカウントを接続して、パーソナライズされたリスニング統計とレコメンデーションを取得。" icon="chart-bar" >}}
   
 {{< /cards >}}
 
@@ -704,19 +704,19 @@ mpeg, aifc, 3gp, avi, aif, latm, 3gpp, m4a, loas, cdda, aac, m4p, m4b, ac3, pls,
 </div>
 
 {{< cards >}}
-  {{< card icon="location-marker" title="ナビゲーション" subtitle="iPhoneのタブバーまたはiPad・Macの左メニューを使用したEvermusicのナビゲーション方法を学びましょう。" link="/docs/guide/evermusic/evermusic-guide-navigation" >}}
+  {{< feature-card icon="location-marker" title="ナビゲーション" subtitle="iPhoneのタブバーまたはiPad・Macの左メニューを使用したEvermusicのナビゲーション方法を学びましょう。" link="/docs/guide/evermusic/evermusic-guide-navigation" >}}
 
-  {{< card icon="cloud" title="接続" subtitle="クラウドアカウントを接続し、内蔵ファイルマネージャーを使用してオンラインファイルを管理します。" link="/docs/guide/evermusic/evermusic-guide-connections" >}}
+  {{< feature-card icon="cloud" title="接続" subtitle="クラウドアカウントを接続し、内蔵ファイルマネージャーを使用してオンラインファイルを管理します。" link="/docs/guide/evermusic/evermusic-guide-connections" >}}
 
-  {{< card icon="library" title="音楽ライブラリ" subtitle="音楽ライブラリでトラック、アルバム、アーティストを整理し、探索します。" link="/docs/guide/evermusic/evermusic-guide-music-library" >}}
+  {{< feature-card icon="library" title="音楽ライブラリ" subtitle="音楽ライブラリでトラック、アルバム、アーティストを整理し、探索します。" link="/docs/guide/evermusic/evermusic-guide-music-library" >}}
 
-  {{< card icon="collection" title="プレイリスト" subtitle="気分やシーンに合わせたプレイリストを作成・整理します。" link="/docs/guide/evermusic/evermusic-guide-playlists" >}}
+  {{< feature-card icon="collection" title="プレイリスト" subtitle="気分やシーンに合わせたプレイリストを作成・整理します。" link="/docs/guide/evermusic/evermusic-guide-playlists" >}}
 
-  {{< card icon="folder" title="ローカルファイル" subtitle="ローカルファイルセクションからオフライン音楽にアクセスし管理します。" link="/docs/guide/evermusic/evermusic-guide-local-files" >}}
+  {{< feature-card icon="folder" title="ローカルファイル" subtitle="ローカルファイルセクションからオフライン音楽にアクセスし管理します。" link="/docs/guide/evermusic/evermusic-guide-local-files" >}}
 
-  {{< card icon="play" title="オーディオプレーヤー" subtitle="再生、キュー、イコライザーやスリープタイマーなどのオーディオ設定をコントロール。" link="/docs/guide/evermusic/evermusic-guide-player" >}}
+  {{< feature-card icon="play" title="オーディオプレーヤー" subtitle="再生、キュー、イコライザーやスリープタイマーなどのオーディオ設定をコントロール。" link="/docs/guide/evermusic/evermusic-guide-player" >}}
 
-  {{< card icon="adjustments" title="設定" subtitle="Evermusicの外観、機能、パフォーマンス設定をカスタマイズ。" link="/docs/guide/evermusic/evermusic-guide-settings" >}}
+  {{< feature-card icon="adjustments" title="設定" subtitle="Evermusicの外観、機能、パフォーマンス設定をカスタマイズ。" link="/docs/guide/evermusic/evermusic-guide-settings" >}}
 
 {{< /cards >}}
 

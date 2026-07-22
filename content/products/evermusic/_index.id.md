@@ -148,7 +148,7 @@ Evermusic adalah pemutar musik offline gratis untuk iPhone dan Mac yang dikemban
 
 {{< cards cols="4">}}
 
-  {{< card 
+  {{< feature-card 
     icon="adjustments"
     image="/products/evermusic/screenshots/2048x2732/3.png" 
     title="Equalizer Audio" 
@@ -157,7 +157,7 @@ Evermusic adalah pemutar musik offline gratis untuk iPhone dan Mac yang dikemban
     subtitle="Sesuaikan suara Anda dengan equalizer audio bergaya iPod, preset yang dapat disesuaikan, dan gain preamp untuk pengalaman mendengarkan terbaik." 
   >}}
 
-  {{< card 
+  {{< feature-card 
     icon="annotation"
     image="/products/evermusic/screenshots/2048x2732/4.png"  
     title="Penampil Lirik" 
@@ -166,7 +166,7 @@ Evermusic adalah pemutar musik offline gratis untuk iPhone dan Mac yang dikemban
     subtitle="Baca lirik tertanam dan komentar lagu saat mendengarkan. Nikmati lirik tersinkronisasi untuk pengalaman musik yang lebih mendalam." 
   >}}
 
-  {{< card 
+  {{< feature-card 
     icon="collection"
     image="/products/evermusic/screenshots/2048x2732/5.png"  
     title="Manajer Playlist" 
@@ -175,7 +175,7 @@ Evermusic adalah pemutar musik offline gratis untuk iPhone dan Mac yang dikemban
     subtitle="Buat dan atur playlist kustom, urutkan ulang lagu, ekspor ke M3U, atau arsipkan sebagai file ZIP untuk berbagi atau cadangan yang mudah." 
   >}}
 
-  {{< card 
+  {{< feature-card 
     icon="cloud"
     image="/products/evermusic/screenshots/2048x2732/6.png"  
     title="Streaming Musik Cloud" 
@@ -184,7 +184,7 @@ Evermusic adalah pemutar musik offline gratis untuk iPhone dan Mac yang dikemban
     subtitle="Hubungkan platform penyimpanan cloud teratas seperti Google Drive, Dropbox, dan OneDrive untuk streaming koleksi musik Anda kapan saja, di mana saja." 
   >}}
 
-  {{< card 
+  {{< feature-card 
     icon="duplicate"
     image="/products/evermusic/screenshots/2048x2732/9.png"  
     title="Manajer File" 
@@ -193,7 +193,7 @@ Evermusic adalah pemutar musik offline gratis untuk iPhone dan Mac yang dikemban
     subtitle="Kelola file audio Anda dengan mudah—ganti nama lagu, atur folder, dan transfer musik antar perangkat menggunakan alat bawaan." 
   >}} 
 
-  {{< card 
+  {{< feature-card 
     icon="sun"
     image="/products/evermusic/screenshots/2048x2732/10.png"  
     title="Kustomisasi Aplikasi" 
@@ -218,41 +218,41 @@ Evermusic adalah pemutar musik offline gratis untuk iPhone dan Mac yang dikemban
 
 {{< cards >}}
 
-  {{< card title="Format Audio" subtitle="Mendukung: mp3, m4a, flac, wav, aac, mp4, m3u, m3u8, m4b, m4p, aiff, ogg, mp2, ac3, wma, dan lainnya." icon="music-note" >}}
+  {{< feature-card title="Format Audio" subtitle="Mendukung: mp3, m4a, flac, wav, aac, mp4, m3u, m3u8, m4b, m4p, aiff, ogg, mp2, ac3, wma, dan lainnya." icon="music-note" >}}
 
-  {{< card title="Buku Audio" subtitle="Termasuk penanda audio, kontrol kecepatan pemutaran, dan posisi lanjutan." icon="book-open" width="50">}}
+  {{< feature-card title="Buku Audio" subtitle="Termasuk penanda audio, kontrol kecepatan pemutaran, dan posisi lanjutan." icon="book-open" width="50">}}
 
-  {{< card title="Sinkronisasi Otomatis" subtitle="Sinkronkan perpustakaan musik Anda dengan cloud, diorganisir berdasarkan artis, album, dan genre." icon="refresh" >}}
+  {{< feature-card title="Sinkronisasi Otomatis" subtitle="Sinkronkan perpustakaan musik Anda dengan cloud, diorganisir berdasarkan artis, album, dan genre." icon="refresh" >}}
 
-  {{< card title="Manajer File" subtitle="Kelola file dengan operasi seperti salin, pindah, ganti nama, dan hapus." icon="folder" >}}
+  {{< feature-card title="Manajer File" subtitle="Kelola file dengan operasi seperti salin, pindah, ganti nama, dan hapus." icon="folder" >}}
 
-  {{< card title="Layanan Cloud" subtitle="Mendukung iCloud, Google Drive, Dropbox, OneDrive, Box, MEGA, WD MyCloud Home, pCloud, dan lainnya." icon="cloud" >}}
+  {{< feature-card title="Layanan Cloud" subtitle="Mendukung iCloud, Google Drive, Dropbox, OneDrive, Box, MEGA, WD MyCloud Home, pCloud, dan lainnya." icon="cloud" >}}
 
-  {{< card title="Pemutaran Crossfade" subtitle="Lagu berikutnya dimulai sebelum yang sedang diputar berakhir untuk transisi yang mulus." icon="switch-horizontal" >}}
+  {{< feature-card title="Pemutaran Crossfade" subtitle="Lagu berikutnya dimulai sebelum yang sedang diputar berakhir untuk transisi yang mulus." icon="switch-horizontal" >}}
 
-  {{< card title="Pemutaran Tanpa Jeda" subtitle="Tidak ada jeda antar lagu — ideal untuk album live, klasik, atau konsep." icon="volume-up" >}}
+  {{< feature-card title="Pemutaran Tanpa Jeda" subtitle="Tidak ada jeda antar lagu — ideal untuk album live, klasik, atau konsep." icon="volume-up" >}}
 
-  {{< card title="Equalizer Audio" subtitle="Equalizer yang dapat disesuaikan dengan preset, kontrol manual, dan gain preamp." icon="adjustments" >}}
+  {{< feature-card title="Equalizer Audio" subtitle="Equalizer yang dapat disesuaikan dengan preset, kontrol manual, dan gain preamp." icon="adjustments" >}}
 
-  {{< card title="Pencarian Lanjutan" subtitle="Temukan album, artis, dan lagu favorit Anda dengan cepat dan mudah." icon="search" >}}
+  {{< feature-card title="Pencarian Lanjutan" subtitle="Temukan album, artis, dan lagu favorit Anda dengan cepat dan mudah." icon="search" >}}
 
-  {{< card title="Akses Komputer" subtitle="Hubungkan melalui SMB, WebDAV, atau DLNA. Transfer melalui iTunes File Sharing dan Wi-Fi." icon="desktop-computer" >}}
+  {{< feature-card title="Akses Komputer" subtitle="Hubungkan melalui SMB, WebDAV, atau DLNA. Transfer melalui iTunes File Sharing dan Wi-Fi." icon="desktop-computer" >}}
 
-  {{< card title="AirPlay & Chromecast" subtitle="Streaming ke perangkat Apple TV dan Google Chromecast secara nirkabel." icon="device-mobile" >}}
+  {{< feature-card title="AirPlay & Chromecast" subtitle="Streaming ke perangkat Apple TV dan Google Chromecast secara nirkabel." icon="device-mobile" >}}
 
-  {{< card title="Playlist" subtitle="Buat, edit, urutkan ulang, dan ekspor/impor playlist M3U dengan mode offline." icon="collection" >}}
+  {{< feature-card title="Playlist" subtitle="Buat, edit, urutkan ulang, dan ekspor/impor playlist M3U dengan mode offline." icon="collection" >}}
 
-  {{< card title="Kartu Flash USB" subtitle="Putar musik langsung dari kartu SD menggunakan pembaca eksternal seperti SanDisk iXpand." icon="inbox" >}}
+  {{< feature-card title="Kartu Flash USB" subtitle="Putar musik langsung dari kartu SD menggunakan pembaca eksternal seperti SanDisk iXpand." icon="inbox" >}}
 
-  {{< card title="Mode Offline" subtitle="Unduh album dan playlist atau cache otomatis lagu yang baru diputar untuk mendengarkan offline." icon="download" >}}
+  {{< feature-card title="Mode Offline" subtitle="Unduh album dan playlist atau cache otomatis lagu yang baru diputar untuk mendengarkan offline." icon="download" >}}
 
-  {{< card title="Apple CarPlay" subtitle="Berkendara dengan aman menggunakan UI CarPlay khusus untuk pemutaran musik." icon="truck" >}}
+  {{< feature-card title="Apple CarPlay" subtitle="Berkendara dengan aman menggunakan UI CarPlay khusus untuk pemutaran musik." icon="truck" >}}
 
-  {{< card title="Editor Tag ID3" subtitle="Edit metadata yang rusak atau hilang menggunakan editor tag bawaan." icon="pencil-alt" >}}
+  {{< feature-card title="Editor Tag ID3" subtitle="Edit metadata yang rusak atau hilang menggunakan editor tag bawaan." icon="pencil-alt" >}}
 
-  {{< card title="Lirik dan Komentar" subtitle="Lihat lirik dan komentar tertanam saat mendengarkan musik Anda." icon="annotation" >}}
+  {{< feature-card title="Lirik dan Komentar" subtitle="Lihat lirik dan komentar tertanam saat mendengarkan musik Anda." icon="annotation" >}}
 
-  {{< card title="Last.fm" subtitle="Hubungkan akun Last.fm Anda untuk mendapatkan statistik mendengarkan dan rekomendasi personal." icon="chart-bar" >}}
+  {{< feature-card title="Last.fm" subtitle="Hubungkan akun Last.fm Anda untuk mendapatkan statistik mendengarkan dan rekomendasi personal." icon="chart-bar" >}}
   
 {{< /cards >}}
 
@@ -704,19 +704,19 @@ Dengan beragam format dan ekstensi file yang didukung, Anda dapat menikmati musi
 </div>
 
 {{< cards >}}
-  {{< card icon="location-marker" title="Navigasi" subtitle="Pelajari cara menavigasi Evermusic menggunakan Tab Bar di iPhone atau Menu Kiri di iPad dan Mac." link="/docs/guide/evermusic/evermusic-guide-navigation" >}}
+  {{< feature-card icon="location-marker" title="Navigasi" subtitle="Pelajari cara menavigasi Evermusic menggunakan Tab Bar di iPhone atau Menu Kiri di iPad dan Mac." link="/docs/guide/evermusic/evermusic-guide-navigation" >}}
 
-  {{< card icon="cloud" title="Koneksi" subtitle="Hubungkan akun cloud Anda dan kelola file online menggunakan manajer file bawaan." link="/docs/guide/evermusic/evermusic-guide-connections" >}}
+  {{< feature-card icon="cloud" title="Koneksi" subtitle="Hubungkan akun cloud Anda dan kelola file online menggunakan manajer file bawaan." link="/docs/guide/evermusic/evermusic-guide-connections" >}}
 
-  {{< card icon="library" title="Perpustakaan Musik" subtitle="Organisir dan jelajahi lagu, album, dan artis Anda di Perpustakaan Musik." link="/docs/guide/evermusic/evermusic-guide-music-library" >}}
+  {{< feature-card icon="library" title="Perpustakaan Musik" subtitle="Organisir dan jelajahi lagu, album, dan artis Anda di Perpustakaan Musik." link="/docs/guide/evermusic/evermusic-guide-music-library" >}}
 
-  {{< card icon="collection" title="Playlist" subtitle="Buat dan atur playlist sesuai suasana hati atau acara Anda." link="/docs/guide/evermusic/evermusic-guide-playlists" >}}
+  {{< feature-card icon="collection" title="Playlist" subtitle="Buat dan atur playlist sesuai suasana hati atau acara Anda." link="/docs/guide/evermusic/evermusic-guide-playlists" >}}
 
-  {{< card icon="folder" title="File Lokal" subtitle="Akses dan kelola musik offline melalui bagian File Lokal." link="/docs/guide/evermusic/evermusic-guide-local-files" >}}
+  {{< feature-card icon="folder" title="File Lokal" subtitle="Akses dan kelola musik offline melalui bagian File Lokal." link="/docs/guide/evermusic/evermusic-guide-local-files" >}}
 
-  {{< card icon="play" title="Pemutar Audio" subtitle="Kontrol pemutaran, antrian, dan pengaturan audio seperti equalizer dan timer tidur." link="/docs/guide/evermusic/evermusic-guide-player" >}}
+  {{< feature-card icon="play" title="Pemutar Audio" subtitle="Kontrol pemutaran, antrian, dan pengaturan audio seperti equalizer dan timer tidur." link="/docs/guide/evermusic/evermusic-guide-player" >}}
 
-  {{< card icon="adjustments" title="Pengaturan" subtitle="Sesuaikan tampilan, fitur, dan pengaturan performa Evermusic." link="/docs/guide/evermusic/evermusic-guide-settings" >}}
+  {{< feature-card icon="adjustments" title="Pengaturan" subtitle="Sesuaikan tampilan, fitur, dan pengaturan performa Evermusic." link="/docs/guide/evermusic/evermusic-guide-settings" >}}
 
 {{< /cards >}}
 

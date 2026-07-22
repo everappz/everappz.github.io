@@ -144,35 +144,35 @@ Evervideo
 
 {{< cards >}}
 
-{{< card title="播放所有视频和音频格式" subtitle="无需转换文件即可观看媒体。Evervideo 支持所有主要格式，包括 MKV、AVI、MP4、MOV、FLAC、MP3、AAC、OGG、WAV、WMV 等。" icon="film">}}
+{{< feature-card title="播放所有视频和音频格式" subtitle="无需转换文件即可观看媒体。Evervideo 支持所有主要格式，包括 MKV、AVI、MP4、MOV、FLAC、MP3、AAC、OGG、WAV、WMV 等。" icon="film">}}
 
-{{< card title="离线模式" subtitle="下载视频、专辑和播放列表以在无网络连接时观看。随身携带您的完整视频合集。" icon="download">}}
+{{< feature-card title="离线模式" subtitle="下载视频、专辑和播放列表以在无网络连接时观看。随身携带您的完整视频合集。" icon="download">}}
 
-{{< card title="360° 视频和 VR 模式" subtitle="以有趣且简单的方式观看 360° 和 VR 视频。移动手机即可环顾四周，或戴上 VR 头显感受身临其境。" icon="video-camera">}}
+{{< feature-card title="360° 视频和 VR 模式" subtitle="以有趣且简单的方式观看 360° 和 VR 视频。移动手机即可环顾四周，或戴上 VR 头显感受身临其境。" icon="video-camera">}}
 
-{{< card title="画中画" subtitle="在使用其他应用时继续在小浮动窗口中观看视频。同时控制播放和查看字幕——非常适合多任务处理。" icon="duplicate">}}
+{{< feature-card title="画中画" subtitle="在使用其他应用时继续在小浮动窗口中观看视频。同时控制播放和查看字幕——非常适合多任务处理。" icon="duplicate">}}
 
-{{< card title="视频和音频均衡器" subtitle="自定义视频的画面和声音效果。调整低音、音调、亮度、伽马、饱和度、对比度等。从 50+ 视频预设和 20+ 音频预设中选择，或创建您自己的。" icon="adjustments">}}
+{{< feature-card title="视频和音频均衡器" subtitle="自定义视频的画面和声音效果。调整低音、音调、亮度、伽马、饱和度、对比度等。从 50+ 视频预设和 20+ 音频预设中选择，或创建您自己的。" icon="adjustments">}}
 
-{{< card title="字幕" subtitle="查看内嵌字幕，选择字幕轨道编号，即使在画中画模式下也能享受完整的字幕支持。" icon="annotation" >}}
+{{< feature-card title="字幕" subtitle="查看内嵌字幕，选择字幕轨道编号，即使在画中画模式下也能享受完整的字幕支持。" icon="annotation" >}}
 
-{{< card title="直接从云端播放" subtitle="直接从云存储观看视频而不占用设备空间。支持 iCloud Drive、Google Drive、Dropbox、OneDrive、MEGA、Synology Drive、pCloud 等。" icon="cloud">}}
+{{< feature-card title="直接从云端播放" subtitle="直接从云存储观看视频而不占用设备空间。支持 iCloud Drive、Google Drive、Dropbox、OneDrive、MEGA、Synology Drive、pCloud 等。" icon="cloud">}}
 
-{{< card title="连接电脑 / NAS" subtitle="通过 SMB、WebDAV 或 DLNA 轻松连接您的 NAS、Mac 或 PC 到家庭网络。支持 Synology Drive 和 WD MyCloud Home 的远程访问。通过 Wi-Fi 或 iTunes 文件共享将媒体文件传输到您的设备。" icon="desktop-computer">}}
+{{< feature-card title="连接电脑 / NAS" subtitle="通过 SMB、WebDAV 或 DLNA 轻松连接您的 NAS、Mac 或 PC 到家庭网络。支持 Synology Drive 和 WD MyCloud Home 的远程访问。通过 Wi-Fi 或 iTunes 文件共享将媒体文件传输到您的设备。" icon="desktop-computer">}}
 
-{{< card title="媒体库" subtitle="按专辑、类型或时长整理。自动与云端变更同步。创建、编辑和导出带有自定义排序的 M3U 播放列表。" icon="library" >}}
+{{< feature-card title="媒体库" subtitle="按专辑、类型或时长整理。自动与云端变更同步。创建、编辑和导出带有自定义排序的 M3U 播放列表。" icon="library" >}}
 
-{{< card title="书签和播放位置保存" subtitle="使用书签保存任何视频中的位置，并从上次中断处继续播放。调整播放速度，标记收藏，按播放次数排序视频以便快速访问。" icon="book-open">}}
+{{< feature-card title="书签和播放位置保存" subtitle="使用书签保存任何视频中的位置，并从上次中断处继续播放。调整播放速度，标记收藏，按播放次数排序视频以便快速访问。" icon="book-open">}}
 
-{{< card title="AirPlay 和 Chromecast" subtitle="通过串流到 Apple TV、Chromecast 或任何兼容的外部显示器，在更大的屏幕上播放视频。" icon="device-mobile">}}
+{{< feature-card title="AirPlay 和 Chromecast" subtitle="通过串流到 Apple TV、Chromecast 或任何兼容的外部显示器，在更大的屏幕上播放视频。" icon="device-mobile">}}
 
-{{< card title="从 Files 和资料库导入" subtitle="直接从 Files 应用、Photos 或您的 iTunes 资料库导入视频。在一个有序的媒体库中访问您所有的本地和云端内容。" icon="database">}}
+{{< feature-card title="从 Files 和资料库导入" subtitle="直接从 Files 应用、Photos 或您的 iTunes 资料库导入视频。在一个有序的媒体库中访问您所有的本地和云端内容。" icon="database">}}
 
-{{< card title="文件管理器" subtitle="直接在应用内移动、重命名、删除和整理文件。" icon="folder">}}
+{{< feature-card title="文件管理器" subtitle="直接在应用内移动、重命名、删除和整理文件。" icon="folder">}}
 
-{{< card title="个性化" subtitle="根据您的偏好自定义应用。选择主题，显示或隐藏功能，并根据需要调整界面。" icon="sun">}}
+{{< feature-card title="个性化" subtitle="根据您的偏好自定义应用。选择主题，显示或隐藏功能，并根据需要调整界面。" icon="sun">}}
 
-{{< card title="智能搜索" subtitle="使用关键词或筛选器快速查找媒体库中的视频、专辑或播放列表。" icon="search" >}}
+{{< feature-card title="智能搜索" subtitle="使用关键词或筛选器快速查找媒体库中的视频、专辑或播放列表。" icon="search" >}}
 
 
 
@@ -192,7 +192,7 @@ Evervideo
 
 {{< cards cols="4">}}
 
-  {{< card 
+  {{< feature-card 
     image="/products/evervideo/screenshots/2880x1800/1.png" 
     title="视频播放器" 
     method="Fill"
@@ -201,7 +201,7 @@ Evervideo
     icon="play"
   >}}
 
-  {{< card 
+  {{< feature-card 
     image="/products/evervideo/screenshots/2880x1800/3.png" 
     title="音频和视频均衡器" 
     method="Fill"
@@ -210,7 +210,7 @@ Evervideo
     icon="adjustments"
   >}}
 
-  {{< card 
+  {{< feature-card 
     image="/products/evervideo/screenshots/2880x1800/6.png" 
     title="播放列表管理器" 
     method="Fill"
@@ -219,7 +219,7 @@ Evervideo
     icon="collection"
   >}}
 
-  {{< card 
+  {{< feature-card 
     image="/products/evervideo/screenshots/2880x1800/5.png" 
     title="媒体库" 
     method="Fill"
@@ -228,7 +228,7 @@ Evervideo
     icon="library"
   >}}
 
-  {{< card 
+  {{< feature-card 
     image="/products/evervideo/screenshots/2880x1800/7.png"  
     title="云存储" 
     method="Fill"
@@ -237,7 +237,7 @@ Evervideo
     icon="cloud"
   >}}
 
-  {{< card 
+  {{< feature-card 
     image="/products/evervideo/screenshots/2880x1800/9.png"  
     title="文件管理器" 
     method="Fill"
@@ -656,17 +656,17 @@ iTunes 文件共享是另一种技术，允许您使用 iTunes 和 Lightning 线
 </div>
 
 {{< cards >}}
-  {{< card icon="location-marker" title="导航" subtitle="学习如何使用 iPhone 上的标签栏或 iPad 和 Mac 上的左侧菜单,以及屏幕上始终显示的紧凑视频播放器,来浏览 Evervideo。" link="/docs/guide/evervideo/evervideo-guide-navigation" >}}
+  {{< feature-card icon="location-marker" title="导航" subtitle="学习如何使用 iPhone 上的标签栏或 iPad 和 Mac 上的左侧菜单,以及屏幕上始终显示的紧凑视频播放器,来浏览 Evervideo。" link="/docs/guide/evervideo/evervideo-guide-navigation" >}}
 
-  {{< card icon="folder" title="文件" subtitle="在一个统一的标签页中连接云账户、NAS 共享、媒体服务器(Plex、Jellyfin、Emby、Subsonic、Navidrome)、RTSP 流和本地文件。" link="/docs/guide/evervideo/evervideo-guide-files" >}}
+  {{< feature-card icon="folder" title="文件" subtitle="在一个统一的标签页中连接云账户、NAS 共享、媒体服务器(Plex、Jellyfin、Emby、Subsonic、Navidrome)、RTSP 流和本地文件。" link="/docs/guide/evervideo/evervideo-guide-files" >}}
 
-  {{< card icon="library" title="媒体库" subtitle="按专辑、流派、最近播放和收藏整理与浏览你的视频和音乐,同时支持 iOS 照片图库和 Apple Music 媒体库。" link="/docs/guide/evervideo/evervideo-guide-video-library" >}}
+  {{< feature-card icon="library" title="媒体库" subtitle="按专辑、流派、最近播放和收藏整理与浏览你的视频和音乐,同时支持 iOS 照片图库和 Apple Music 媒体库。" link="/docs/guide/evervideo/evervideo-guide-video-library" >}}
 
-  {{< card icon="collection" title="播放列表" subtitle="为视频、音乐、剧集或课程创建并整理播放列表,并导入 M3U / M3U8 / CUE 文件。" link="/docs/guide/evervideo/evervideo-guide-playlists" >}}
+  {{< feature-card icon="collection" title="播放列表" subtitle="为视频、音乐、剧集或课程创建并整理播放列表,并导入 M3U / M3U8 / CUE 文件。" link="/docs/guide/evervideo/evervideo-guide-playlists" >}}
 
-  {{< card icon="play" title="媒体播放器" subtitle="控制播放、队列、画中画、音频与视频轨道、主副字幕以及音频 + 视频均衡器。" link="/docs/guide/evervideo/evervideo-guide-player" >}}
+  {{< feature-card icon="play" title="媒体播放器" subtitle="控制播放、队列、画中画、音频与视频轨道、主副字幕以及音频 + 视频均衡器。" link="/docs/guide/evervideo/evervideo-guide-player" >}}
 
-  {{< card icon="adjustments" title="设置" subtitle="自定义 Evervideo 的外观、解码器、均衡器、字幕、小组件、语言、密码、备份和性能设置。" link="/docs/guide/evervideo/evervideo-guide-settings" >}}
+  {{< feature-card icon="adjustments" title="设置" subtitle="自定义 Evervideo 的外观、解码器、均衡器、字幕、小组件、语言、密码、备份和性能设置。" link="/docs/guide/evervideo/evervideo-guide-settings" >}}
 
 {{< /cards >}}
 

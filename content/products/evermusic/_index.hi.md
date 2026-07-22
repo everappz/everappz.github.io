@@ -148,7 +148,7 @@ Evermusic iPhone और Mac के लिए एक निःशुल्क ऑ
 
 {{< cards cols="4">}}
 
-  {{< card 
+  {{< feature-card 
     icon="adjustments"
     image="/products/evermusic/screenshots/2048x2732/3.png" 
     title="ऑडियो इक्वलाइज़र" 
@@ -157,7 +157,7 @@ Evermusic iPhone और Mac के लिए एक निःशुल्क ऑ
     subtitle="iPod-शैली ऑडियो इक्वलाइज़र, अनुकूलन योग्य प्रीसेट और सर्वोत्तम सुनने के अनुभव के लिए प्रीएम्प गेन के साथ अपनी ध्वनि को फाइन-ट्यून करें।" 
   >}}
 
-  {{< card 
+  {{< feature-card 
     icon="annotation"
     image="/products/evermusic/screenshots/2048x2732/4.png"  
     title="गीत दर्शक" 
@@ -166,7 +166,7 @@ Evermusic iPhone और Mac के लिए एक निःशुल्क ऑ
     subtitle="सुनते समय एम्बेडेड गीत और ट्रैक टिप्पणियां पढ़ें। अधिक इमर्सिव संगीत अनुभव के लिए सिंक्रनाइज़्ड गीतों का आनंद लें।" 
   >}}
 
-  {{< card 
+  {{< feature-card 
     icon="collection"
     image="/products/evermusic/screenshots/2048x2732/5.png"  
     title="प्लेलिस्ट मैनेजर" 
@@ -175,7 +175,7 @@ Evermusic iPhone और Mac के लिए एक निःशुल्क ऑ
     subtitle="कस्टम प्लेलिस्ट बनाएं और व्यवस्थित करें, गाने पुनर्व्यवस्थित करें, M3U में निर्यात करें, या आसान साझाकरण या बैकअप के लिए ZIP फ़ाइलों के रूप में संग्रहित करें।" 
   >}}
 
-  {{< card 
+  {{< feature-card 
     icon="cloud"
     image="/products/evermusic/screenshots/2048x2732/6.png"  
     title="क्लाउड म्यूजिक स्ट्रीमिंग" 
@@ -184,7 +184,7 @@ Evermusic iPhone और Mac के लिए एक निःशुल्क ऑ
     subtitle="कभी भी, कहीं भी अपने संगीत संग्रह को स्ट्रीम करने के लिए Google Drive, Dropbox और OneDrive जैसे शीर्ष क्लाउड स्टोरेज प्लेटफॉर्म से लिंक करें।" 
   >}}
 
-  {{< card 
+  {{< feature-card 
     icon="duplicate"
     image="/products/evermusic/screenshots/2048x2732/9.png"  
     title="फ़ाइल मैनेजर" 
@@ -193,7 +193,7 @@ Evermusic iPhone और Mac के लिए एक निःशुल्क ऑ
     subtitle="अपनी ऑडियो फ़ाइलों को आसानी से प्रबंधित करें — ट्रैक का नाम बदलें, फ़ोल्डर व्यवस्थित करें और बिल्ट-इन टूल का उपयोग करके उपकरणों के बीच संगीत ट्रांसफर करें।" 
   >}} 
 
-  {{< card 
+  {{< feature-card 
     icon="sun"
     image="/products/evermusic/screenshots/2048x2732/10.png"  
     title="ऐप अनुकूलन" 
@@ -218,41 +218,41 @@ Evermusic iPhone और Mac के लिए एक निःशुल्क ऑ
 
 {{< cards >}}
 
-  {{< card title="ऑडियो फॉर्मेट" subtitle="समर्थन: mp3, m4a, flac, wav, aac, mp4, m3u, m3u8, m4b, m4p, aiff, ogg, mp2, ac3, wma और अन्य।" icon="music-note" >}}
+  {{< feature-card title="ऑडियो फॉर्मेट" subtitle="समर्थन: mp3, m4a, flac, wav, aac, mp4, m3u, m3u8, m4b, m4p, aiff, ogg, mp2, ac3, wma और अन्य।" icon="music-note" >}}
 
-  {{< card title="ऑडियोबुक" subtitle="ऑडियो बुकमार्क, प्लेबैक स्पीड कंट्रोल और रिज्यूम पोजीशन शामिल है।" icon="book-open" width="50">}}
+  {{< feature-card title="ऑडियोबुक" subtitle="ऑडियो बुकमार्क, प्लेबैक स्पीड कंट्रोल और रिज्यूम पोजीशन शामिल है।" icon="book-open" width="50">}}
 
-  {{< card title="स्वचालित सिंक" subtitle="कलाकार, एल्बम और शैली के अनुसार व्यवस्थित, आपकी म्यूजिक लाइब्रेरी को क्लाउड के साथ सिंक करता है।" icon="refresh" >}}
+  {{< feature-card title="स्वचालित सिंक" subtitle="कलाकार, एल्बम और शैली के अनुसार व्यवस्थित, आपकी म्यूजिक लाइब्रेरी को क्लाउड के साथ सिंक करता है।" icon="refresh" >}}
 
-  {{< card title="फ़ाइल मैनेजर" subtitle="कॉपी, मूव, रीनेम और डिलीट जैसे ऑपरेशन के साथ फ़ाइलें प्रबंधित करें।" icon="folder" >}}
+  {{< feature-card title="फ़ाइल मैनेजर" subtitle="कॉपी, मूव, रीनेम और डिलीट जैसे ऑपरेशन के साथ फ़ाइलें प्रबंधित करें।" icon="folder" >}}
 
-  {{< card title="क्लाउड सेवाएं" subtitle="iCloud, Google Drive, Dropbox, OneDrive, Box, MEGA, WD MyCloud Home, pCloud और अन्य को सपोर्ट करता है।" icon="cloud" >}}
+  {{< feature-card title="क्लाउड सेवाएं" subtitle="iCloud, Google Drive, Dropbox, OneDrive, Box, MEGA, WD MyCloud Home, pCloud और अन्य को सपोर्ट करता है।" icon="cloud" >}}
 
-  {{< card title="क्रॉसफेड प्लेबैक" subtitle="निर्बाध संक्रमण के लिए अगला गाना मौजूदा गाने के समाप्त होने से पहले शुरू होता है।" icon="switch-horizontal" >}}
+  {{< feature-card title="क्रॉसफेड प्लेबैक" subtitle="निर्बाध संक्रमण के लिए अगला गाना मौजूदा गाने के समाप्त होने से पहले शुरू होता है।" icon="switch-horizontal" >}}
 
-  {{< card title="गैपलेस प्लेबैक" subtitle="गानों के बीच कोई रुकावट नहीं — लाइव, क्लासिकल या कॉन्सेप्ट एल्बम के लिए आदर्श।" icon="volume-up" >}}
+  {{< feature-card title="गैपलेस प्लेबैक" subtitle="गानों के बीच कोई रुकावट नहीं — लाइव, क्लासिकल या कॉन्सेप्ट एल्बम के लिए आदर्श।" icon="volume-up" >}}
 
-  {{< card title="ऑडियो इक्वलाइज़र" subtitle="प्रीसेट, मैनुअल कंट्रोल और प्रीएम्प गेन के साथ अनुकूलन योग्य इक्वलाइज़र।" icon="adjustments" >}}
+  {{< feature-card title="ऑडियो इक्वलाइज़र" subtitle="प्रीसेट, मैनुअल कंट्रोल और प्रीएम्प गेन के साथ अनुकूलन योग्य इक्वलाइज़र।" icon="adjustments" >}}
 
-  {{< card title="उन्नत खोज" subtitle="अपने पसंदीदा एल्बम, कलाकार और ट्रैक जल्दी और आसानी से खोजें।" icon="search" >}}
+  {{< feature-card title="उन्नत खोज" subtitle="अपने पसंदीदा एल्बम, कलाकार और ट्रैक जल्दी और आसानी से खोजें।" icon="search" >}}
 
-  {{< card title="कंप्यूटर एक्सेस" subtitle="SMB, WebDAV या DLNA के माध्यम से कनेक्ट करें। iTunes File Sharing और Wi-Fi के माध्यम से ट्रांसफर करें।" icon="desktop-computer" >}}
+  {{< feature-card title="कंप्यूटर एक्सेस" subtitle="SMB, WebDAV या DLNA के माध्यम से कनेक्ट करें। iTunes File Sharing और Wi-Fi के माध्यम से ट्रांसफर करें।" icon="desktop-computer" >}}
 
-  {{< card title="AirPlay & Chromecast" subtitle="Apple TV और Google Chromecast उपकरणों पर वायरलेस रूप से स्ट्रीम करें।" icon="device-mobile" >}}
+  {{< feature-card title="AirPlay & Chromecast" subtitle="Apple TV और Google Chromecast उपकरणों पर वायरलेस रूप से स्ट्रीम करें।" icon="device-mobile" >}}
 
-  {{< card title="प्लेलिस्ट" subtitle="ऑफलाइन मोड के साथ M3U प्लेलिस्ट बनाएं, संपादित करें, पुनर्व्यवस्थित करें और निर्यात/आयात करें।" icon="collection" >}}
+  {{< feature-card title="प्लेलिस्ट" subtitle="ऑफलाइन मोड के साथ M3U प्लेलिस्ट बनाएं, संपादित करें, पुनर्व्यवस्थित करें और निर्यात/आयात करें।" icon="collection" >}}
 
-  {{< card title="USB फ्लैश कार्ड" subtitle="SanDisk iXpand जैसे बाहरी रीडर का उपयोग करके SD कार्ड से सीधे संगीत चलाएं।" icon="inbox" >}}
+  {{< feature-card title="USB फ्लैश कार्ड" subtitle="SanDisk iXpand जैसे बाहरी रीडर का उपयोग करके SD कार्ड से सीधे संगीत चलाएं।" icon="inbox" >}}
 
-  {{< card title="ऑफलाइन मोड" subtitle="ऑफलाइन सुनने के लिए एल्बम और प्लेलिस्ट डाउनलोड करें या हाल ही में चलाए गए ट्रैक को ऑटो-कैश करें।" icon="download" >}}
+  {{< feature-card title="ऑफलाइन मोड" subtitle="ऑफलाइन सुनने के लिए एल्बम और प्लेलिस्ट डाउनलोड करें या हाल ही में चलाए गए ट्रैक को ऑटो-कैश करें।" icon="download" >}}
 
-  {{< card title="Apple CarPlay" subtitle="संगीत प्लेबैक के लिए समर्पित CarPlay UI के साथ सुरक्षित रूप से ड्राइव करें।" icon="truck" >}}
+  {{< feature-card title="Apple CarPlay" subtitle="संगीत प्लेबैक के लिए समर्पित CarPlay UI के साथ सुरक्षित रूप से ड्राइव करें।" icon="truck" >}}
 
-  {{< card title="ID3 टैग एडिटर" subtitle="बिल्ट-इन टैग एडिटर का उपयोग करके दूषित या गायब मेटाडेटा संपादित करें।" icon="pencil-alt" >}}
+  {{< feature-card title="ID3 टैग एडिटर" subtitle="बिल्ट-इन टैग एडिटर का उपयोग करके दूषित या गायब मेटाडेटा संपादित करें।" icon="pencil-alt" >}}
 
-  {{< card title="गीत और टिप्पणियां" subtitle="अपना संगीत सुनते समय एम्बेडेड गीत और टिप्पणियां देखें।" icon="annotation" >}}
+  {{< feature-card title="गीत और टिप्पणियां" subtitle="अपना संगीत सुनते समय एम्बेडेड गीत और टिप्पणियां देखें।" icon="annotation" >}}
 
-  {{< card title="Last.fm" subtitle="व्यक्तिगत सुनने के आंकड़े और अनुशंसाएं प्राप्त करने के लिए अपना Last.fm खाता कनेक्ट करें।" icon="chart-bar" >}}
+  {{< feature-card title="Last.fm" subtitle="व्यक्तिगत सुनने के आंकड़े और अनुशंसाएं प्राप्त करने के लिए अपना Last.fm खाता कनेक्ट करें।" icon="chart-bar" >}}
   
 {{< /cards >}}
 
@@ -695,19 +695,19 @@ mpeg, aifc, 3gp, avi, aif, latm, 3gpp, m4a, loas, cdda, aac, m4p, m4b, ac3, pls,
 </div>
 
 {{< cards >}}
-  {{< card icon="location-marker" title="नेविगेशन" subtitle="iPhone पर टैब बार या iPad और Mac पर बाएं मेनू का उपयोग करके Evermusic नेविगेट करना सीखें।" link="/docs/guide/evermusic/evermusic-guide-navigation" >}}
+  {{< feature-card icon="location-marker" title="नेविगेशन" subtitle="iPhone पर टैब बार या iPad और Mac पर बाएं मेनू का उपयोग करके Evermusic नेविगेट करना सीखें।" link="/docs/guide/evermusic/evermusic-guide-navigation" >}}
 
-  {{< card icon="cloud" title="कनेक्शन" subtitle="अपने क्लाउड खातों को कनेक्ट करें और बिल्ट-इन फ़ाइल मैनेजर का उपयोग करके ऑनलाइन फ़ाइलें प्रबंधित करें।" link="/docs/guide/evermusic/evermusic-guide-connections" >}}
+  {{< feature-card icon="cloud" title="कनेक्शन" subtitle="अपने क्लाउड खातों को कनेक्ट करें और बिल्ट-इन फ़ाइल मैनेजर का उपयोग करके ऑनलाइन फ़ाइलें प्रबंधित करें।" link="/docs/guide/evermusic/evermusic-guide-connections" >}}
 
-  {{< card icon="library" title="म्यूजिक लाइब्रेरी" subtitle="म्यूजिक लाइब्रेरी में अपने ट्रैक, एल्बम और कलाकारों को व्यवस्थित और खोजें।" link="/docs/guide/evermusic/evermusic-guide-music-library" >}}
+  {{< feature-card icon="library" title="म्यूजिक लाइब्रेरी" subtitle="म्यूजिक लाइब्रेरी में अपने ट्रैक, एल्बम और कलाकारों को व्यवस्थित और खोजें।" link="/docs/guide/evermusic/evermusic-guide-music-library" >}}
 
-  {{< card icon="collection" title="प्लेलिस्ट" subtitle="अपने मूड या अवसर से मेल खाने वाली प्लेलिस्ट बनाएं और व्यवस्थित करें।" link="/docs/guide/evermusic/evermusic-guide-playlists" >}}
+  {{< feature-card icon="collection" title="प्लेलिस्ट" subtitle="अपने मूड या अवसर से मेल खाने वाली प्लेलिस्ट बनाएं और व्यवस्थित करें।" link="/docs/guide/evermusic/evermusic-guide-playlists" >}}
 
-  {{< card icon="folder" title="स्थानीय फ़ाइलें" subtitle="स्थानीय फ़ाइलें अनुभाग के माध्यम से ऑफलाइन संगीत तक पहुंचें और प्रबंधित करें।" link="/docs/guide/evermusic/evermusic-guide-local-files" >}}
+  {{< feature-card icon="folder" title="स्थानीय फ़ाइलें" subtitle="स्थानीय फ़ाइलें अनुभाग के माध्यम से ऑफलाइन संगीत तक पहुंचें और प्रबंधित करें।" link="/docs/guide/evermusic/evermusic-guide-local-files" >}}
 
-  {{< card icon="play" title="ऑडियो प्लेयर" subtitle="इक्वलाइज़र और स्लीप टाइमर जैसी अपनी प्लेबैक, कतार और ऑडियो सेटिंग्स नियंत्रित करें।" link="/docs/guide/evermusic/evermusic-guide-player" >}}
+  {{< feature-card icon="play" title="ऑडियो प्लेयर" subtitle="इक्वलाइज़र और स्लीप टाइमर जैसी अपनी प्लेबैक, कतार और ऑडियो सेटिंग्स नियंत्रित करें।" link="/docs/guide/evermusic/evermusic-guide-player" >}}
 
-  {{< card icon="adjustments" title="सेटिंग्स" subtitle="Evermusic का रूप, सुविधाएं और प्रदर्शन सेटिंग्स अनुकूलित करें।" link="/docs/guide/evermusic/evermusic-guide-settings" >}}
+  {{< feature-card icon="adjustments" title="सेटिंग्स" subtitle="Evermusic का रूप, सुविधाएं और प्रदर्शन सेटिंग्स अनुकूलित करें।" link="/docs/guide/evermusic/evermusic-guide-settings" >}}
 
 {{< /cards >}}
 

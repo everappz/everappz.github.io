@@ -1,0 +1,62 @@
+{{- /*
+  feature-card: a duplicate of the Hextra `card` shortcode with identical
+  styling, EXCEPT the subtitle is not clamped to 3 lines. Use this in the
+  product "features" sections so full feature descriptions are always shown.
+
+  Accepts the same params as `card` (link, title, icon, subtitle, tag,
+  tagColor, image, alt, method, options, imageStyle).
+*/ -}}
+{{- $link := .Get "link" -}}
+{{- $title := .Get "title" -}}
+{{- $icon := .Get "icon" -}}
+{{- $subtitle := .Get "subtitle" -}}
+{{- $image := .Get "image" -}}
+{{- $alt := .Get "alt" | default $title -}}
+{{- $width := 0 -}}
+{{- $height := 0 -}}
+{{- $imageStyle := .Get "imageStyle" -}}
+{{- $tag := .Get "tag" -}}
+{{- $tagColor := .Get "tagColor" | default (.Get "tagType") | default "" -}}{{- /* Compatibility with previous parameter. */ -}}
+{{- $tagBorder := not (eq (.Get "tagBorder") false) | default true }}
+{{- $tagIcon := .Get "tagIcon" | default "" -}}
+
+{{/* Image processing options */}}
+{{- $method := .Get "method" | default "Resize" | humanize -}}
+{{- $options := .Get "options" | default "800x webp q80" -}}
+{{- $process := .Get "process" | default (printf "%s %s" $method $options) -}}
+
+{{- if and $image (not (urls.Parse $image).Scheme) -}}
+  {{- with or (.Page.Resources.Get $image) (resources.Get $image) -}}
+    {{/* .Process does not work on svgs */}}
+    {{- if (not (eq .MediaType.SubType "svg")) -}}
+      {{/* Retrieve the $image resource from local or global resources */}}
+      {{- $processed := .Process $process -}}
+      {{- $width = $processed.Width -}}
+      {{- $height = $processed.Height -}}
+      {{- $image = $processed.RelPermalink -}}
+    {{- end -}}
+  {{ else }}
+    {{/* Otherwise, use relative link of the image */}}
+    {{- if hasPrefix $image "/" -}}
+      {{- $image = relURL (strings.TrimPrefix "/" $image) -}}
+    {{- end -}}
+  {{- end -}}
+{{- end -}}
+
+{{- partial "shortcodes/feature-card" (dict
+  "page"        .Page
+  "link"        $link
+  "title"       $title
+  "icon"        $icon
+  "subtitle"    $subtitle
+  "image"       $image
+  "alt"         $alt
+  "width"       $width
+  "height"      $height
+  "imageStyle"  $imageStyle
+  "tag"         $tag
+  "tagType"     $tagColor
+  "tagBorder"   $tagBorder
+  "tagIcon"     $tagIcon
+  )
+-}}

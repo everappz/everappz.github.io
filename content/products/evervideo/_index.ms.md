@@ -144,35 +144,35 @@ Semua Ciri
 
 {{< cards >}}
 
-{{< card title="Main Semua Format Video dan Audio" subtitle="Tonton media anda tanpa menukar fail. Evervideo menyokong semua format utama, termasuk MKV, AVI, MP4, MOV, FLAC, MP3, AAC, OGG, WAV, WMV, dan banyak lagi." icon="film">}}
+{{< feature-card title="Main Semua Format Video dan Audio" subtitle="Tonton media anda tanpa menukar fail. Evervideo menyokong semua format utama, termasuk MKV, AVI, MP4, MOV, FLAC, MP3, AAC, OGG, WAV, WMV, dan banyak lagi." icon="film">}}
 
-{{< card title="Mod Luar Talian" subtitle="Muat turun video, album, dan senarai main untuk ditonton tanpa sambungan internet. Bawa seluruh koleksi video anda ke mana sahaja." icon="download">}}
+{{< feature-card title="Mod Luar Talian" subtitle="Muat turun video, album, dan senarai main untuk ditonton tanpa sambungan internet. Bawa seluruh koleksi video anda ke mana sahaja." icon="download">}}
 
-{{< card title="Video 360° & Mod VR" subtitle="Tonton video 360° dan VR dengan cara yang menyeronokkan dan mudah. Gerakkan telefon anda untuk melihat ke mana-mana arah, atau letakkan dalam set kepala VR untuk berasa seperti anda berada di dalam video." icon="video-camera">}}
+{{< feature-card title="Video 360° & Mod VR" subtitle="Tonton video 360° dan VR dengan cara yang menyeronokkan dan mudah. Gerakkan telefon anda untuk melihat ke mana-mana arah, atau letakkan dalam set kepala VR untuk berasa seperti anda berada di dalam video." icon="video-camera">}}
 
-{{< card title="Gambar-dalam-Gambar" subtitle="Teruskan menonton video dalam tetingkap terapung kecil sambil menggunakan aplikasi lain. Kawal main balik dan lihat sarikata pada masa yang sama – sempurna untuk pelbagai tugas." icon="duplicate">}}
+{{< feature-card title="Gambar-dalam-Gambar" subtitle="Teruskan menonton video dalam tetingkap terapung kecil sambil menggunakan aplikasi lain. Kawal main balik dan lihat sarikata pada masa yang sama – sempurna untuk pelbagai tugas." icon="duplicate">}}
 
-{{< card title="Penyama Video & Audio" subtitle="Sesuaikan cara video anda kelihatan dan berbunyi. Laraskan bes, pic, kecerahan, gamma, ketepuan, kontras, dan banyak lagi. Pilih dari 50+ pratetap video dan 20+ pratetap audio, atau cipta sendiri." icon="adjustments">}}
+{{< feature-card title="Penyama Video & Audio" subtitle="Sesuaikan cara video anda kelihatan dan berbunyi. Laraskan bes, pic, kecerahan, gamma, ketepuan, kontras, dan banyak lagi. Pilih dari 50+ pratetap video dan 20+ pratetap audio, atau cipta sendiri." icon="adjustments">}}
 
-{{< card title="Sarikata" subtitle="Lihat sarikata terbenam, pilih nombor trek sarikata, dan nikmati sokongan sarikata penuh walaupun dalam mod Gambar-dalam-Gambar." icon="annotation" >}}
+{{< feature-card title="Sarikata" subtitle="Lihat sarikata terbenam, pilih nombor trek sarikata, dan nikmati sokongan sarikata penuh walaupun dalam mod Gambar-dalam-Gambar." icon="annotation" >}}
 
-{{< card title="Main Terus dari Awan" subtitle="Tonton video terus dari storan awan anda tanpa menggunakan ruang peranti. Menyokong iCloud Drive, Google Drive, Dropbox, OneDrive, MEGA, Synology Drive, pCloud, dan banyak lagi." icon="cloud">}}
+{{< feature-card title="Main Terus dari Awan" subtitle="Tonton video terus dari storan awan anda tanpa menggunakan ruang peranti. Menyokong iCloud Drive, Google Drive, Dropbox, OneDrive, MEGA, Synology Drive, pCloud, dan banyak lagi." icon="cloud">}}
 
-{{< card title="Sambung Komputer / NAS" subtitle="Sambungkan NAS, Mac, atau PC anda dengan mudah melalui rangkaian rumah menggunakan SMB, WebDAV, atau DLNA. Akses jauh disokong untuk Synology Drive dan WD MyCloud Home. Pindahkan fail media ke peranti anda melalui Wi-Fi atau Perkongsian Fail iTunes." icon="desktop-computer">}}
+{{< feature-card title="Sambung Komputer / NAS" subtitle="Sambungkan NAS, Mac, atau PC anda dengan mudah melalui rangkaian rumah menggunakan SMB, WebDAV, atau DLNA. Akses jauh disokong untuk Synology Drive dan WD MyCloud Home. Pindahkan fail media ke peranti anda melalui Wi-Fi atau Perkongsian Fail iTunes." icon="desktop-computer">}}
 
-{{< card title="Perpustakaan Media" subtitle="Susun mengikut album, genre, atau tempoh. Disegerakkan secara automatik dengan perubahan awan. Cipta, edit, dan eksport senarai main M3U dengan pengisihan tersuai." icon="library" >}}
+{{< feature-card title="Perpustakaan Media" subtitle="Susun mengikut album, genre, atau tempoh. Disegerakkan secara automatik dengan perubahan awan. Cipta, edit, dan eksport senarai main M3U dengan pengisihan tersuai." icon="library" >}}
 
-{{< card title="Penanda Buku & Penyimpanan Kedudukan Main Balik" subtitle="Simpan tempat anda dalam mana-mana video dengan penanda buku dan sambung semula main balik dari tempat anda berhenti. Laraskan kelajuan main balik, tandakan kegemaran, dan isih video mengikut paling banyak dimainkan untuk akses mudah." icon="book-open">}}
+{{< feature-card title="Penanda Buku & Penyimpanan Kedudukan Main Balik" subtitle="Simpan tempat anda dalam mana-mana video dengan penanda buku dan sambung semula main balik dari tempat anda berhenti. Laraskan kelajuan main balik, tandakan kegemaran, dan isih video mengikut paling banyak dimainkan untuk akses mudah." icon="book-open">}}
 
-{{< card title="AirPlay & Chromecast" subtitle="Mainkan video pada skrin lebih besar dengan menstrim ke Apple TV, Chromecast, atau mana-mana paparan luaran yang serasi." icon="device-mobile">}}
+{{< feature-card title="AirPlay & Chromecast" subtitle="Mainkan video pada skrin lebih besar dengan menstrim ke Apple TV, Chromecast, atau mana-mana paparan luaran yang serasi." icon="device-mobile">}}
 
-{{< card title="Import dari Fail & Perpustakaan" subtitle="Import video terus dari aplikasi Fail, Foto, atau Perpustakaan iTunes anda. Akses semua kandungan tempatan dan awan anda dalam satu perpustakaan media yang tersusun." icon="database">}}
+{{< feature-card title="Import dari Fail & Perpustakaan" subtitle="Import video terus dari aplikasi Fail, Foto, atau Perpustakaan iTunes anda. Akses semua kandungan tempatan dan awan anda dalam satu perpustakaan media yang tersusun." icon="database">}}
 
-{{< card title="Pengurus Fail" subtitle="Alih, namakan semula, padam, dan susun fail terus di dalam aplikasi." icon="folder">}}
+{{< feature-card title="Pengurus Fail" subtitle="Alih, namakan semula, padam, dan susun fail terus di dalam aplikasi." icon="folder">}}
 
-{{< card title="Pemperibadian" subtitle="Sesuaikan aplikasi mengikut keutamaan anda. Pilih tema, tunjuk atau sembunyikan ciri, dan laraskan antara muka mengikut keperluan anda." icon="sun">}}
+{{< feature-card title="Pemperibadian" subtitle="Sesuaikan aplikasi mengikut keutamaan anda. Pilih tema, tunjuk atau sembunyikan ciri, dan laraskan antara muka mengikut keperluan anda." icon="sun">}}
 
-{{< card title="Carian Pintar" subtitle="Cari video, album, atau senarai main dengan cepat dalam perpustakaan media anda menggunakan kata kunci atau penapis." icon="search" >}}
+{{< feature-card title="Carian Pintar" subtitle="Cari video, album, atau senarai main dengan cepat dalam perpustakaan media anda menggunakan kata kunci atau penapis." icon="search" >}}
 
 
 
@@ -192,7 +192,7 @@ Reka Bentuk Intuitif
 
 {{< cards cols="4">}}
 
-  {{< card 
+  {{< feature-card 
     image="/products/evervideo/screenshots/2880x1800/1.png" 
     title="Pemain Video" 
     method="Fill"
@@ -201,7 +201,7 @@ Reka Bentuk Intuitif
     icon="play"
   >}}
 
-  {{< card 
+  {{< feature-card 
     image="/products/evervideo/screenshots/2880x1800/3.png" 
     title="Penyama Audio & Video" 
     method="Fill"
@@ -210,7 +210,7 @@ Reka Bentuk Intuitif
     icon="adjustments"
   >}}
 
-  {{< card 
+  {{< feature-card 
     image="/products/evervideo/screenshots/2880x1800/6.png" 
     title="Pengurus Senarai Main" 
     method="Fill"
@@ -219,7 +219,7 @@ Reka Bentuk Intuitif
     icon="collection"
   >}}
 
-  {{< card 
+  {{< feature-card 
     image="/products/evervideo/screenshots/2880x1800/5.png" 
     title="Perpustakaan Media" 
     method="Fill"
@@ -228,7 +228,7 @@ Reka Bentuk Intuitif
     icon="library"
   >}}
 
-  {{< card 
+  {{< feature-card 
     image="/products/evervideo/screenshots/2880x1800/7.png"  
     title="Storan Awan" 
     method="Fill"
@@ -237,7 +237,7 @@ Reka Bentuk Intuitif
     icon="cloud"
   >}}
 
-  {{< card 
+  {{< feature-card 
     image="/products/evervideo/screenshots/2880x1800/9.png"  
     title="Pengurus Fail" 
     method="Fill"
@@ -656,17 +656,17 @@ Nota: Pastikan JavaScript diaktifkan dan anda menggunakan versi pelayar terkini 
 </div>
 
 {{< cards >}}
-  {{< card icon="location-marker" title="Navigasi" subtitle="Pelajari cara menavigasi Evervideo menggunakan Bar Tab pada iPhone atau Menu Kiri pada iPad dan Mac, serta pemain video padat yang sentiasa kelihatan pada skrin." link="/docs/guide/evervideo/evervideo-guide-navigation" >}}
+  {{< feature-card icon="location-marker" title="Navigasi" subtitle="Pelajari cara menavigasi Evervideo menggunakan Bar Tab pada iPhone atau Menu Kiri pada iPad dan Mac, serta pemain video padat yang sentiasa kelihatan pada skrin." link="/docs/guide/evervideo/evervideo-guide-navigation" >}}
 
-  {{< card icon="folder" title="Fail" subtitle="Sambungkan akaun awan, perkongsian NAS, pelayan media (Plex, Jellyfin, Emby, Subsonic, Navidrome), strim RTSP dan fail tempatan dalam satu tab bersepadu." link="/docs/guide/evervideo/evervideo-guide-files" >}}
+  {{< feature-card icon="folder" title="Fail" subtitle="Sambungkan akaun awan, perkongsian NAS, pelayan media (Plex, Jellyfin, Emby, Subsonic, Navidrome), strim RTSP dan fail tempatan dalam satu tab bersepadu." link="/docs/guide/evervideo/evervideo-guide-files" >}}
 
-  {{< card icon="library" title="Pustaka Media" subtitle="Susun dan terokai video serta muzik anda mengikut Album, Genre, Terkini dan Kegemaran — termasuk pustaka Foto iOS dan pustaka Apple Music." link="/docs/guide/evervideo/evervideo-guide-video-library" >}}
+  {{< feature-card icon="library" title="Pustaka Media" subtitle="Susun dan terokai video serta muzik anda mengikut Album, Genre, Terkini dan Kegemaran — termasuk pustaka Foto iOS dan pustaka Apple Music." link="/docs/guide/evervideo/evervideo-guide-video-library" >}}
 
-  {{< card icon="collection" title="Senarai Main" subtitle="Cipta dan susun senarai main untuk video, muzik, siri atau kursus dan import fail M3U / M3U8 / CUE." link="/docs/guide/evervideo/evervideo-guide-playlists" >}}
+  {{< feature-card icon="collection" title="Senarai Main" subtitle="Cipta dan susun senarai main untuk video, muzik, siri atau kursus dan import fail M3U / M3U8 / CUE." link="/docs/guide/evervideo/evervideo-guide-playlists" >}}
 
-  {{< card icon="play" title="Pemain Media" subtitle="Kawal main balik, baris gilir, Gambar dalam Gambar, trek audio dan video, sari kata utama dan sekunder serta penyama audio dan video." link="/docs/guide/evervideo/evervideo-guide-player" >}}
+  {{< feature-card icon="play" title="Pemain Media" subtitle="Kawal main balik, baris gilir, Gambar dalam Gambar, trek audio dan video, sari kata utama dan sekunder serta penyama audio dan video." link="/docs/guide/evervideo/evervideo-guide-player" >}}
 
-  {{< card icon="adjustments" title="Tetapan" subtitle="Sesuaikan rupa, penyahkod, penyama, sari kata, widget, bahasa, kod laluan, sandaran dan tetapan prestasi Evervideo." link="/docs/guide/evervideo/evervideo-guide-settings" >}}
+  {{< feature-card icon="adjustments" title="Tetapan" subtitle="Sesuaikan rupa, penyahkod, penyama, sari kata, widget, bahasa, kod laluan, sandaran dan tetapan prestasi Evervideo." link="/docs/guide/evervideo/evervideo-guide-settings" >}}
 
 {{< /cards >}}
 

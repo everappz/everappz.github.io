@@ -127,29 +127,29 @@ Alles-in-één Functies
 
 {{< cards >}}
 
-  {{< card title="Lossless Audio Ondersteuning" subtitle="Speel FLAC, ALAC, WAV, APE, DFF, WV, AIFF en vele andere hoogwaardige formaten." icon="music-note" >}}
-  {{< card title="Offline Modus" subtitle="Download albums, afspeellijsten en tracks voor offline afspelen op elk moment." icon="download" >}}
-  {{< card title="Bestandsbeheer" subtitle="Kopieer, verplaats, hernoem en verwijder bestanden eenvoudig binnen de app." icon="folder" >}}
+  {{< feature-card title="Lossless Audio Ondersteuning" subtitle="Speel FLAC, ALAC, WAV, APE, DFF, WV, AIFF en vele andere hoogwaardige formaten." icon="music-note" >}}
+  {{< feature-card title="Offline Modus" subtitle="Download albums, afspeellijsten en tracks voor offline afspelen op elk moment." icon="download" >}}
+  {{< feature-card title="Bestandsbeheer" subtitle="Kopieer, verplaats, hernoem en verwijder bestanden eenvoudig binnen de app." icon="folder" >}}
 
-  {{< card title="Aangepaste Afspeellijsten" subtitle="Maak, bewerk en orden afspeellijsten, en exporteer of importeer M3U-bestanden." icon="collection" >}}
-  {{< card title="Mediabibliotheek" subtitle="Voeg muziek toe en organiseer op album, artiest en genre met tags." icon="library" >}}
-  {{< card title="Geavanceerd Zoeken" subtitle="Vind snel nummers, artiesten of albums met slimme zoektools." icon="search" >}}
+  {{< feature-card title="Aangepaste Afspeellijsten" subtitle="Maak, bewerk en orden afspeellijsten, en exporteer of importeer M3U-bestanden." icon="collection" >}}
+  {{< feature-card title="Mediabibliotheek" subtitle="Voeg muziek toe en organiseer op album, artiest en genre met tags." icon="library" >}}
+  {{< feature-card title="Geavanceerd Zoeken" subtitle="Vind snel nummers, artiesten of albums met slimme zoektools." icon="search" >}}
 
-  {{< card title="Cloud Streaming" subtitle="Stream vanaf Google Drive, Dropbox, OneDrive, iCloud, MEGA en meer." icon="cloud" >}}
-  {{< card title="NAS- en Computertoegang" subtitle="Verbind via SMB, DLNA of WebDAV. Zet over met iTunes of Wi-Fi." icon="desktop-computer" >}}
-  {{< card title="USB-geheugenkaarten" subtitle="Speel muziek rechtstreeks af van SD-kaarten met USB-adapters zoals iXpand." icon="inbox" >}}
+  {{< feature-card title="Cloud Streaming" subtitle="Stream vanaf Google Drive, Dropbox, OneDrive, iCloud, MEGA en meer." icon="cloud" >}}
+  {{< feature-card title="NAS- en Computertoegang" subtitle="Verbind via SMB, DLNA of WebDAV. Zet over met iTunes of Wi-Fi." icon="desktop-computer" >}}
+  {{< feature-card title="USB-geheugenkaarten" subtitle="Speel muziek rechtstreeks af van SD-kaarten met USB-adapters zoals iXpand." icon="inbox" >}}
 
-  {{< card title="Afspeelbediening" subtitle="Pas afspeelsnelheid en toonhoogte aan voor perfecte audiocontrole." icon="fast-forward" >}}
-  {{< card title="Songteksten en Opmerkingen" subtitle="Bekijk ingebedde songteksten en opmerkingen tijdens het afspelen." icon="annotation" >}}
-  {{< card title="ID3 Tag Editor" subtitle="Bewerk en corrigeer metadata zoals titel, artiest of album met de ingebouwde tool." icon="pencil-alt" >}}
+  {{< feature-card title="Afspeelbediening" subtitle="Pas afspeelsnelheid en toonhoogte aan voor perfecte audiocontrole." icon="fast-forward" >}}
+  {{< feature-card title="Songteksten en Opmerkingen" subtitle="Bekijk ingebedde songteksten en opmerkingen tijdens het afspelen." icon="annotation" >}}
+  {{< feature-card title="ID3 Tag Editor" subtitle="Bewerk en corrigeer metadata zoals titel, artiest of album met de ingebouwde tool." icon="pencil-alt" >}}
 
-  {{< card title="Equalizer en Versterking" subtitle="Gebruik presets of stel handmatig in met voorversterkerversterking voor rijk geluid." icon="adjustments" >}}
-  {{< card title="Apple CarPlay" subtitle="Rijd veilig met een speciale CarPlay-interface voor muziek afspelen." icon="truck" >}}
-  {{< card title="AirPlay en Chromecast" subtitle="Stream draadloos naar Apple TV- en Google Chromecast-apparaten." icon="device-mobile" >}}
+  {{< feature-card title="Equalizer en Versterking" subtitle="Gebruik presets of stel handmatig in met voorversterkerversterking voor rijk geluid." icon="adjustments" >}}
+  {{< feature-card title="Apple CarPlay" subtitle="Rijd veilig met een speciale CarPlay-interface voor muziek afspelen." icon="truck" >}}
+  {{< feature-card title="AirPlay en Chromecast" subtitle="Stream draadloos naar Apple TV- en Google Chromecast-apparaten." icon="device-mobile" >}}
 
-  {{< card title="Last.fm Integratie" subtitle="Volg muziekstatistieken en ontvang persoonlijke nummeraanbevelingen." icon="chart-bar" >}}
-  {{< card title="Automatische Synchronisatie" subtitle="Synchroniseer je muziekbibliotheek automatisch met cloud- en lokale mappen." icon="refresh" >}}
-  {{< card title="Luisterboek Ondersteuning" subtitle="Luister naar luisterboeken met bladwijzers, slaaptimer en hervat het afspelen waar je gestopt was." icon="book-open" >}}
+  {{< feature-card title="Last.fm Integratie" subtitle="Volg muziekstatistieken en ontvang persoonlijke nummeraanbevelingen." icon="chart-bar" >}}
+  {{< feature-card title="Automatische Synchronisatie" subtitle="Synchroniseer je muziekbibliotheek automatisch met cloud- en lokale mappen." icon="refresh" >}}
+  {{< feature-card title="Luisterboek Ondersteuning" subtitle="Luister naar luisterboeken met bladwijzers, slaaptimer en hervat het afspelen waar je gestopt was." icon="book-open" >}}
 
 {{< /cards >}}
 
@@ -167,7 +167,7 @@ Intuïtief Ontwerp
 
 {{< cards cols="4">}}
 
-  {{< card 
+  {{< feature-card 
     image="/products/flacbox/screenshots/2048x2732/1.png" 
     title="Audiospeler" 
     method="Fill"
@@ -176,7 +176,7 @@ Intuïtief Ontwerp
     icon="play"
   >}}
 
-  {{< card 
+  {{< feature-card 
     image="/products/flacbox/screenshots/2048x2732/2.png"  
     title="Audio Equalizer" 
     method="Fill"
@@ -185,7 +185,7 @@ Intuïtief Ontwerp
     icon="adjustments"
   >}}
 
-  {{< card 
+  {{< feature-card 
     image="/products/flacbox/screenshots/2048x2732/3.png"  
     title="Afspeellijstbeheer" 
     method="Fill"
@@ -194,7 +194,7 @@ Intuïtief Ontwerp
     icon="collection"
   >}}
 
-  {{< card 
+  {{< feature-card 
     image="/products/flacbox/screenshots/2048x2732/5.png"  
     title="Mediabibliotheek" 
     method="Fill"
@@ -203,7 +203,7 @@ Intuïtief Ontwerp
     icon="library"
   >}}
 
-  {{< card 
+  {{< feature-card 
     image="/products/flacbox/screenshots/2048x2732/7.png"  
     title="Cloudopslag" 
     method="Fill"
@@ -212,7 +212,7 @@ Intuïtief Ontwerp
     icon="cloud"
   >}}
 
-  {{< card 
+  {{< feature-card 
     image="/products/flacbox/screenshots/2048x2732/8.png"  
     title="iCloud Drive" 
     method="Fill"
@@ -835,19 +835,19 @@ Om CarPlay te gebruiken, zorg ervoor dat Siri is ingeschakeld en je iPhone is ve
 
 {{< cards >}}
 
-{{< card icon="map" link="/docs/guide/flacbox/flacbox-guide-navigation" title="Navigatie" subtitle="Gebruik de tabbalk op iPhone of het linkermenu op iPad en Mac." >}}
+{{< feature-card icon="map" link="/docs/guide/flacbox/flacbox-guide-navigation" title="Navigatie" subtitle="Gebruik de tabbalk op iPhone of het linkermenu op iPad en Mac." >}}
 
-{{< card icon="cloud" link="/docs/guide/flacbox/flacbox-guide-connections" title="Verbindingen" subtitle="Verbind Dropbox, Google Drive, iCloud of je NAS." >}}
+{{< feature-card icon="cloud" link="/docs/guide/flacbox/flacbox-guide-connections" title="Verbindingen" subtitle="Verbind Dropbox, Google Drive, iCloud of je NAS." >}}
 
-{{< card icon="collection" link="/docs/guide/flacbox/flacbox-guide-music-library" title="Muziekbibliotheek" subtitle="Beheer en zoek tracks op artiest, album of genre." >}}
+{{< feature-card icon="collection" link="/docs/guide/flacbox/flacbox-guide-music-library" title="Muziekbibliotheek" subtitle="Beheer en zoek tracks op artiest, album of genre." >}}
 
-{{< card icon="music-note" link="/docs/guide/flacbox/flacbox-guide-playlists" title="Afspeellijsten" subtitle="Maak en organiseer afspeellijsten voor elke stemming of gelegenheid." >}}
+{{< feature-card icon="music-note" link="/docs/guide/flacbox/flacbox-guide-playlists" title="Afspeellijsten" subtitle="Maak en organiseer afspeellijsten voor elke stemming of gelegenheid." >}}
 
-{{< card icon="folder" link="/docs/guide/flacbox/flacbox-guide-local-files" title="Lokale Bestanden" subtitle="Bewerk en speel offline muziek af met de ingebouwde bestandsbeheerder." >}}
+{{< feature-card icon="folder" link="/docs/guide/flacbox/flacbox-guide-local-files" title="Lokale Bestanden" subtitle="Bewerk en speel offline muziek af met de ingebouwde bestandsbeheerder." >}}
 
-{{< card icon="play" link="/docs/guide/flacbox/flacbox-guide-player" title="Audiospeler" subtitle="Bedien het afspelen, pas de snelheid aan, stel bladwijzers in en meer." >}}
+{{< feature-card icon="play" link="/docs/guide/flacbox/flacbox-guide-player" title="Audiospeler" subtitle="Bedien het afspelen, pas de snelheid aan, stel bladwijzers in en meer." >}}
 
-{{< card icon="adjustments" link="/docs/guide/flacbox/flacbox-guide-settings" title="Instellingen" subtitle="Pas equalizer, uiterlijk en app-gedrag aan." >}}
+{{< feature-card icon="adjustments" link="/docs/guide/flacbox/flacbox-guide-settings" title="Instellingen" subtitle="Pas equalizer, uiterlijk en app-gedrag aan." >}}
 
 {{< /cards >}}
 

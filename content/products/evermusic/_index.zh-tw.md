@@ -148,7 +148,7 @@ Evermusic 是一款適用於 iPhone 和 Mac 的免費離線音樂播放器，由
 
 {{< cards cols="4">}}
 
-  {{< card 
+  {{< feature-card 
     icon="adjustments"
     image="/products/evermusic/screenshots/2048x2732/3.png" 
     title="音訊等化器" 
@@ -157,7 +157,7 @@ Evermusic 是一款適用於 iPhone 和 Mac 的免費離線音樂播放器，由
     subtitle="使用 iPod 風格的音訊等化器、可自訂的預設和前置放大器增益，微調您的音質，獲得最佳聆聽體驗。" 
   >}}
 
-  {{< card 
+  {{< feature-card 
     icon="annotation"
     image="/products/evermusic/screenshots/2048x2732/4.png"  
     title="歌詞檢視器" 
@@ -166,7 +166,7 @@ Evermusic 是一款適用於 iPhone 和 Mac 的免費離線音樂播放器，由
     subtitle="在聆聽時閱讀嵌入的歌詞和曲目註解。享受同步歌詞，獲得更沉浸的音樂體驗。" 
   >}}
 
-  {{< card 
+  {{< feature-card 
     icon="collection"
     image="/products/evermusic/screenshots/2048x2732/5.png"  
     title="播放清單管理器" 
@@ -175,7 +175,7 @@ Evermusic 是一款適用於 iPhone 和 Mac 的免費離線音樂播放器，由
     subtitle="建立和整理自訂播放清單，重新排列歌曲，匯出為 M3U，或將其封存為 ZIP 檔案，方便分享或備份。" 
   >}}
 
-  {{< card 
+  {{< feature-card 
     icon="cloud"
     image="/products/evermusic/screenshots/2048x2732/6.png"  
     title="雲端音樂串流" 
@@ -184,7 +184,7 @@ Evermusic 是一款適用於 iPhone 和 Mac 的免費離線音樂播放器，由
     subtitle="連結 Google Drive、Dropbox 和 OneDrive 等頂級雲端儲存平台，隨時隨地串流您的音樂收藏。" 
   >}}
 
-  {{< card 
+  {{< feature-card 
     icon="duplicate"
     image="/products/evermusic/screenshots/2048x2732/9.png"  
     title="檔案管理器" 
@@ -193,7 +193,7 @@ Evermusic 是一款適用於 iPhone 和 Mac 的免費離線音樂播放器，由
     subtitle="輕鬆管理您的音訊檔案——重新命名曲目、整理資料夾，使用內建工具在裝置間傳輸音樂。" 
   >}} 
 
-  {{< card 
+  {{< feature-card 
     icon="sun"
     image="/products/evermusic/screenshots/2048x2732/10.png"  
     title="應用程式個人化" 
@@ -218,41 +218,41 @@ Evermusic 是一款適用於 iPhone 和 Mac 的免費離線音樂播放器，由
 
 {{< cards >}}
 
-  {{< card title="音訊格式" subtitle="支援：mp3、m4a、flac、wav、aac、mp4、m3u、m3u8、m4b、m4p、aiff、ogg、mp2、ac3、wma 等。" icon="music-note" >}}
+  {{< feature-card title="音訊格式" subtitle="支援：mp3、m4a、flac、wav、aac、mp4、m3u、m3u8、m4b、m4p、aiff、ogg、mp2、ac3、wma 等。" icon="music-note" >}}
 
-  {{< card title="有聲書" subtitle="包含音訊書籤、播放速度控制和恢復播放位置功能。" icon="book-open" width="50">}}
+  {{< feature-card title="有聲書" subtitle="包含音訊書籤、播放速度控制和恢復播放位置功能。" icon="book-open" width="50">}}
 
-  {{< card title="自動同步" subtitle="將您的音樂庫與雲端同步，按演出者、專輯和類型整理。" icon="refresh" >}}
+  {{< feature-card title="自動同步" subtitle="將您的音樂庫與雲端同步，按演出者、專輯和類型整理。" icon="refresh" >}}
 
-  {{< card title="檔案管理器" subtitle="透過複製、移動、重新命名和刪除等操作管理檔案。" icon="folder" >}}
+  {{< feature-card title="檔案管理器" subtitle="透過複製、移動、重新命名和刪除等操作管理檔案。" icon="folder" >}}
 
-  {{< card title="雲端服務" subtitle="支援 iCloud、Google Drive、Dropbox、OneDrive、Box、MEGA、WD MyCloud Home、pCloud 等。" icon="cloud" >}}
+  {{< feature-card title="雲端服務" subtitle="支援 iCloud、Google Drive、Dropbox、OneDrive、Box、MEGA、WD MyCloud Home、pCloud 等。" icon="cloud" >}}
 
-  {{< card title="淡入淡出播放" subtitle="下一首歌在目前歌曲結束前開始播放，實現無縫轉場。" icon="switch-horizontal" >}}
+  {{< feature-card title="淡入淡出播放" subtitle="下一首歌在目前歌曲結束前開始播放，實現無縫轉場。" icon="switch-horizontal" >}}
 
-  {{< card title="無縫播放" subtitle="歌曲之間無停頓——非常適合現場、古典或概念專輯。" icon="volume-up" >}}
+  {{< feature-card title="無縫播放" subtitle="歌曲之間無停頓——非常適合現場、古典或概念專輯。" icon="volume-up" >}}
 
-  {{< card title="音訊等化器" subtitle="可自訂的等化器，帶預設、手動控制和前置放大器增益。" icon="adjustments" >}}
+  {{< feature-card title="音訊等化器" subtitle="可自訂的等化器，帶預設、手動控制和前置放大器增益。" icon="adjustments" >}}
 
-  {{< card title="進階搜尋" subtitle="快速輕鬆地找到您喜愛的專輯、演出者和曲目。" icon="search" >}}
+  {{< feature-card title="進階搜尋" subtitle="快速輕鬆地找到您喜愛的專輯、演出者和曲目。" icon="search" >}}
 
-  {{< card title="電腦存取" subtitle="透過 SMB、WebDAV 或 DLNA 連線。透過 iTunes 檔案共享和 Wi-Fi 傳輸。" icon="desktop-computer" >}}
+  {{< feature-card title="電腦存取" subtitle="透過 SMB、WebDAV 或 DLNA 連線。透過 iTunes 檔案共享和 Wi-Fi 傳輸。" icon="desktop-computer" >}}
 
-  {{< card title="AirPlay 和 Chromecast" subtitle="無線串流到 Apple TV 和 Google Chromecast 裝置。" icon="device-mobile" >}}
+  {{< feature-card title="AirPlay 和 Chromecast" subtitle="無線串流到 Apple TV 和 Google Chromecast 裝置。" icon="device-mobile" >}}
 
-  {{< card title="播放清單" subtitle="建立、編輯、重新排列，以及匯出/匯入 M3U 播放清單，支援離線模式。" icon="collection" >}}
+  {{< feature-card title="播放清單" subtitle="建立、編輯、重新排列，以及匯出/匯入 M3U 播放清單，支援離線模式。" icon="collection" >}}
 
-  {{< card title="USB 快閃記憶卡" subtitle="使用 SanDisk iXpand 等外接讀卡機直接從 SD 卡播放音樂。" icon="inbox" >}}
+  {{< feature-card title="USB 快閃記憶卡" subtitle="使用 SanDisk iXpand 等外接讀卡機直接從 SD 卡播放音樂。" icon="inbox" >}}
 
-  {{< card title="離線模式" subtitle="下載專輯和播放清單，或自動快取最近播放的曲目以供離線聆聽。" icon="download" >}}
+  {{< feature-card title="離線模式" subtitle="下載專輯和播放清單，或自動快取最近播放的曲目以供離線聆聽。" icon="download" >}}
 
-  {{< card title="Apple CarPlay" subtitle="透過專用的 CarPlay 介面安全駕駛並播放音樂。" icon="truck" >}}
+  {{< feature-card title="Apple CarPlay" subtitle="透過專用的 CarPlay 介面安全駕駛並播放音樂。" icon="truck" >}}
 
-  {{< card title="ID3 標籤編輯器" subtitle="使用內建標籤編輯器編輯損壞或遺失的中繼資料。" icon="pencil-alt" >}}
+  {{< feature-card title="ID3 標籤編輯器" subtitle="使用內建標籤編輯器編輯損壞或遺失的中繼資料。" icon="pencil-alt" >}}
 
-  {{< card title="歌詞和註解" subtitle="在聽音樂時檢視嵌入的歌詞和註解。" icon="annotation" >}}
+  {{< feature-card title="歌詞和註解" subtitle="在聽音樂時檢視嵌入的歌詞和註解。" icon="annotation" >}}
 
-  {{< card title="Last.fm" subtitle="連結您的 Last.fm 帳戶，取得個人化的聆聽統計和推薦。" icon="chart-bar" >}}
+  {{< feature-card title="Last.fm" subtitle="連結您的 Last.fm 帳戶，取得個人化的聆聽統計和推薦。" icon="chart-bar" >}}
   
 {{< /cards >}}
 
@@ -704,19 +704,19 @@ mpeg, aifc, 3gp, avi, aif, latm, 3gpp, m4a, loas, cdda, aac, m4p, m4b, ac3, pls,
 </div>
 
 {{< cards >}}
-  {{< card icon="location-marker" title="導覽" subtitle="了解如何在 iPhone 上使用標籤列或在 iPad 和 Mac 上使用左側選單來導覽 Evermusic。" link="/docs/guide/evermusic/evermusic-guide-navigation" >}}
+  {{< feature-card icon="location-marker" title="導覽" subtitle="了解如何在 iPhone 上使用標籤列或在 iPad 和 Mac 上使用左側選單來導覽 Evermusic。" link="/docs/guide/evermusic/evermusic-guide-navigation" >}}
 
-  {{< card icon="cloud" title="連線" subtitle="連接您的雲端帳戶並使用內建檔案管理器管理線上檔案。" link="/docs/guide/evermusic/evermusic-guide-connections" >}}
+  {{< feature-card icon="cloud" title="連線" subtitle="連接您的雲端帳戶並使用內建檔案管理器管理線上檔案。" link="/docs/guide/evermusic/evermusic-guide-connections" >}}
 
-  {{< card icon="library" title="音樂庫" subtitle="在音樂庫中整理和瀏覽您的曲目、專輯和演出者。" link="/docs/guide/evermusic/evermusic-guide-music-library" >}}
+  {{< feature-card icon="library" title="音樂庫" subtitle="在音樂庫中整理和瀏覽您的曲目、專輯和演出者。" link="/docs/guide/evermusic/evermusic-guide-music-library" >}}
 
-  {{< card icon="collection" title="播放清單" subtitle="建立和安排播放清單以配合您的心情或場合。" link="/docs/guide/evermusic/evermusic-guide-playlists" >}}
+  {{< feature-card icon="collection" title="播放清單" subtitle="建立和安排播放清單以配合您的心情或場合。" link="/docs/guide/evermusic/evermusic-guide-playlists" >}}
 
-  {{< card icon="folder" title="本機檔案" subtitle="透過本機檔案部分存取和管理離線音樂。" link="/docs/guide/evermusic/evermusic-guide-local-files" >}}
+  {{< feature-card icon="folder" title="本機檔案" subtitle="透過本機檔案部分存取和管理離線音樂。" link="/docs/guide/evermusic/evermusic-guide-local-files" >}}
 
-  {{< card icon="play" title="音訊播放器" subtitle="控制您的播放、佇列和音訊設定，如等化器和睡眠計時器。" link="/docs/guide/evermusic/evermusic-guide-player" >}}
+  {{< feature-card icon="play" title="音訊播放器" subtitle="控制您的播放、佇列和音訊設定，如等化器和睡眠計時器。" link="/docs/guide/evermusic/evermusic-guide-player" >}}
 
-  {{< card icon="adjustments" title="設定" subtitle="自訂 Evermusic 的外觀、功能和效能設定。" link="/docs/guide/evermusic/evermusic-guide-settings" >}}
+  {{< feature-card icon="adjustments" title="設定" subtitle="自訂 Evermusic 的外觀、功能和效能設定。" link="/docs/guide/evermusic/evermusic-guide-settings" >}}
 
 {{< /cards >}}
 

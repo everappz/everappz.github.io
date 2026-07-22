@@ -491,17 +491,17 @@ Ten tryb jest szczególnie przydatny, gdy musisz zastosować tę samą nazwę al
 </div>
 
 {{< cards >}}
-  {{< card icon="location-marker" title="Nawigacja" subtitle="Dowiedz się, jak łatwo nawigować po naszej aplikacji za pomocą paska kart (dla użytkowników iPhone) lub menu bocznego (dla użytkowników iPad i Mac), aby uzyskać dostęp i odkryć wszystkie funkcje aplikacji." link="/docs/guide/evertag/evertag-guide-navigation" >}}
+  {{< feature-card icon="location-marker" title="Nawigacja" subtitle="Dowiedz się, jak łatwo nawigować po naszej aplikacji za pomocą paska kart (dla użytkowników iPhone) lub menu bocznego (dla użytkowników iPad i Mac), aby uzyskać dostęp i odkryć wszystkie funkcje aplikacji." link="/docs/guide/evertag/evertag-guide-navigation" >}}
 
-  {{< card icon="cloud" title="Połączenia" subtitle="Bez wysiłku połącz wszystkie dostępne konta chmurowe ze swoimi cennymi plikami audio. Możesz nawet łatwo edytować pliki online za pomocą naszego wbudowanego menedżera plików." link="/docs/guide/evertag/evertag-guide-connections" >}}
+  {{< feature-card icon="cloud" title="Połączenia" subtitle="Bez wysiłku połącz wszystkie dostępne konta chmurowe ze swoimi cennymi plikami audio. Możesz nawet łatwo edytować pliki online za pomocą naszego wbudowanego menedżera plików." link="/docs/guide/evertag/evertag-guide-connections" >}}
 
-  {{< card icon="folder" title="Pliki lokalne" subtitle="Przeglądaj i organizuj pliki przechowywane w folderze Dokumenty aplikacji lub na urządzeniu. Użyj wbudowanego menedżera plików, aby łatwo edytować i zarządzać plikami audio." link="/docs/guide/evertag/evertag-guide-local-files" >}}
+  {{< feature-card icon="folder" title="Pliki lokalne" subtitle="Przeglądaj i organizuj pliki przechowywane w folderze Dokumenty aplikacji lub na urządzeniu. Użyj wbudowanego menedżera plików, aby łatwo edytować i zarządzać plikami audio." link="/docs/guide/evertag/evertag-guide-local-files" >}}
 
-  {{< card icon="pencil-alt" title="Edytor tagów" subtitle="Opanuj sztukę manipulacji metadanymi plików audio. Dowiedz się, jak edytować metadane, zmieniać okładki albumów i bezproblemowo zarządzać wieloma plikami jednocześnie." link="/docs/guide/evertag/evertag-guide-tag-editor" >}}
+  {{< feature-card icon="pencil-alt" title="Edytor tagów" subtitle="Opanuj sztukę manipulacji metadanymi plików audio. Dowiedz się, jak edytować metadane, zmieniać okładki albumów i bezproblemowo zarządzać wieloma plikami jednocześnie." link="/docs/guide/evertag/evertag-guide-tag-editor" >}}
 
-  {{< card icon="code" title="Mapowania pól tagów" subtitle="Przeglądaj pełną listę pól tagów audio obsługiwanych przez aplikację Evertag, w tym wewnętrzne nazwy pól i mapowania między głównymi formatami metadanych." link="/docs/guide/evertag/evertag-tag-field-mappings" >}}
+  {{< feature-card icon="code" title="Mapowania pól tagów" subtitle="Przeglądaj pełną listę pól tagów audio obsługiwanych przez aplikację Evertag, w tym wewnętrzne nazwy pól i mapowania między głównymi formatami metadanych." link="/docs/guide/evertag/evertag-tag-field-mappings" >}}
 
-  {{< card icon="adjustments" title="Ustawienia" subtitle="Odkryj, jak dostosować swoje doświadczenie z aplikacją, dopracować wydajność, zarządzać wykorzystaniem danych i dopasować preferencje językowe i interfejsu użytkownika do swoich upodobań." link="/docs/guide/evertag/evertag-guide-settings" >}}
+  {{< feature-card icon="adjustments" title="Ustawienia" subtitle="Odkryj, jak dostosować swoje doświadczenie z aplikacją, dopracować wydajność, zarządzać wykorzystaniem danych i dopasować preferencje językowe i interfejsu użytkownika do swoich upodobań." link="/docs/guide/evertag/evertag-guide-settings" >}}
 
 {{< /cards >}}
 

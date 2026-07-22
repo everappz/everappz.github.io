@@ -144,35 +144,35 @@ Totes les funcions
 
 {{< cards >}}
 
-{{< card title="Reprodueix tots els formats de vídeo i àudio" subtitle="Mira els teus continguts multimèdia sense convertir arxius. Evervideo suporta tots els formats principals, incloent MKV, AVI, MP4, MOV, FLAC, MP3, AAC, OGG, WAV, WMV i més." icon="film">}}
+{{< feature-card title="Reprodueix tots els formats de vídeo i àudio" subtitle="Mira els teus continguts multimèdia sense convertir arxius. Evervideo suporta tots els formats principals, incloent MKV, AVI, MP4, MOV, FLAC, MP3, AAC, OGG, WAV, WMV i més." icon="film">}}
 
-{{< card title="Mode fora de línia" subtitle="Descarrega vídeos, àlbums i llistes de reproducció per veure'ls sense connexió a internet. Porta tota la teva col·lecció de vídeos a qualsevol lloc." icon="download">}}
+{{< feature-card title="Mode fora de línia" subtitle="Descarrega vídeos, àlbums i llistes de reproducció per veure'ls sense connexió a internet. Porta tota la teva col·lecció de vídeos a qualsevol lloc." icon="download">}}
 
-{{< card title="Vídeo 360° i mode VR" subtitle="Mira vídeos de 360° i VR d'una manera divertida i fàcil. Mou el telèfon per mirar en qualsevol direcció o posa'l en unes ulleres de VR per sentir-te dins del vídeo." icon="video-camera">}}
+{{< feature-card title="Vídeo 360° i mode VR" subtitle="Mira vídeos de 360° i VR d'una manera divertida i fàcil. Mou el telèfon per mirar en qualsevol direcció o posa'l en unes ulleres de VR per sentir-te dins del vídeo." icon="video-camera">}}
 
-{{< card title="Imatge en imatge" subtitle="Continua veient vídeos en una petita finestra flotant mentre utilitzes altres apps. Controla la reproducció i veu els subtítols al mateix temps — perfecte per a la multitasca." icon="duplicate">}}
+{{< feature-card title="Imatge en imatge" subtitle="Continua veient vídeos en una petita finestra flotant mentre utilitzes altres apps. Controla la reproducció i veu els subtítols al mateix temps — perfecte per a la multitasca." icon="duplicate">}}
 
-{{< card title="Equalitzador de vídeo i àudio" subtitle="Personalitza com es veuen i sonen els teus vídeos. Ajusta greus, to, brillantor, gamma, saturació, contrast i més. Tria entre més de 50 preajustaments de vídeo i més de 20 preajustaments d'àudio, o crea els teus propis." icon="adjustments">}}
+{{< feature-card title="Equalitzador de vídeo i àudio" subtitle="Personalitza com es veuen i sonen els teus vídeos. Ajusta greus, to, brillantor, gamma, saturació, contrast i més. Tria entre més de 50 preajustaments de vídeo i més de 20 preajustaments d'àudio, o crea els teus propis." icon="adjustments">}}
 
-{{< card title="Subtítols" subtitle="Visualitza subtítols incrustats, selecciona el número de pista de subtítols i gaudeix de suport complet de subtítols fins i tot en mode Imatge en imatge." icon="annotation" >}}
+{{< feature-card title="Subtítols" subtitle="Visualitza subtítols incrustats, selecciona el número de pista de subtítols i gaudeix de suport complet de subtítols fins i tot en mode Imatge en imatge." icon="annotation" >}}
 
-{{< card title="Reprodueix directament des del núvol" subtitle="Mira vídeos directament des del teu emmagatzematge al núvol sense utilitzar espai del dispositiu. Suporta iCloud Drive, Google Drive, Dropbox, OneDrive, MEGA, Synology Drive, pCloud i més." icon="cloud">}}
+{{< feature-card title="Reprodueix directament des del núvol" subtitle="Mira vídeos directament des del teu emmagatzematge al núvol sense utilitzar espai del dispositiu. Suporta iCloud Drive, Google Drive, Dropbox, OneDrive, MEGA, Synology Drive, pCloud i més." icon="cloud">}}
 
-{{< card title="Connecta ordinador / NAS" subtitle="Connecta fàcilment el teu NAS, Mac o PC a través de la teva xarxa domèstica utilitzant SMB, WebDAV o DLNA. L'accés remot és compatible amb Synology Drive i WD MyCloud Home. Transfereix arxius multimèdia al teu dispositiu via Wi-Fi o iTunes File Sharing." icon="desktop-computer">}}
+{{< feature-card title="Connecta ordinador / NAS" subtitle="Connecta fàcilment el teu NAS, Mac o PC a través de la teva xarxa domèstica utilitzant SMB, WebDAV o DLNA. L'accés remot és compatible amb Synology Drive i WD MyCloud Home. Transfereix arxius multimèdia al teu dispositiu via Wi-Fi o iTunes File Sharing." icon="desktop-computer">}}
 
-{{< card title="Biblioteca multimèdia" subtitle="Organitza per àlbum, gènere o durada. Es sincronitza automàticament amb els canvis al núvol. Crea, edita i exporta llistes de reproducció M3U amb ordenació personalitzada." icon="library" >}}
+{{< feature-card title="Biblioteca multimèdia" subtitle="Organitza per àlbum, gènere o durada. Es sincronitza automàticament amb els canvis al núvol. Crea, edita i exporta llistes de reproducció M3U amb ordenació personalitzada." icon="library" >}}
 
-{{< card title="Marcadors i desament de posició de reproducció" subtitle="Desa el teu lloc en qualsevol vídeo amb marcadors i reprèn la reproducció des d'on ho vas deixar. Ajusta la velocitat de reproducció, marca favorits i ordena els vídeos per més reproduïts per a un accés fàcil." icon="book-open">}}
+{{< feature-card title="Marcadors i desament de posició de reproducció" subtitle="Desa el teu lloc en qualsevol vídeo amb marcadors i reprèn la reproducció des d'on ho vas deixar. Ajusta la velocitat de reproducció, marca favorits i ordena els vídeos per més reproduïts per a un accés fàcil." icon="book-open">}}
 
-{{< card title="AirPlay i Chromecast" subtitle="Reprodueix vídeos en una pantalla més gran transmetent a Apple TV, Chromecast o qualsevol pantalla externa compatible." icon="device-mobile">}}
+{{< feature-card title="AirPlay i Chromecast" subtitle="Reprodueix vídeos en una pantalla més gran transmetent a Apple TV, Chromecast o qualsevol pantalla externa compatible." icon="device-mobile">}}
 
-{{< card title="Importa des d'arxius i biblioteques" subtitle="Importa vídeos directament des de l'app Arxius, Fotos o la teva biblioteca d'iTunes. Accedeix a tot el teu contingut local i al núvol en una biblioteca multimèdia organitzada." icon="database">}}
+{{< feature-card title="Importa des d'arxius i biblioteques" subtitle="Importa vídeos directament des de l'app Arxius, Fotos o la teva biblioteca d'iTunes. Accedeix a tot el teu contingut local i al núvol en una biblioteca multimèdia organitzada." icon="database">}}
 
-{{< card title="Gestor d'arxius" subtitle="Mou, canvia el nom, elimina i organitza arxius directament dins de l'app." icon="folder">}}
+{{< feature-card title="Gestor d'arxius" subtitle="Mou, canvia el nom, elimina i organitza arxius directament dins de l'app." icon="folder">}}
 
-{{< card title="Personalització" subtitle="Personalitza l'app segons les teves preferències. Tria temes, mostra o oculta funcions i ajusta la interfície a les teves necessitats." icon="sun">}}
+{{< feature-card title="Personalització" subtitle="Personalitza l'app segons les teves preferències. Tria temes, mostra o oculta funcions i ajusta la interfície a les teves necessitats." icon="sun">}}
 
-{{< card title="Cerca intel·ligent" subtitle="Troba ràpidament vídeos, àlbums o llistes de reproducció a la teva biblioteca multimèdia utilitzant paraules clau o filtres." icon="search" >}}
+{{< feature-card title="Cerca intel·ligent" subtitle="Troba ràpidament vídeos, àlbums o llistes de reproducció a la teva biblioteca multimèdia utilitzant paraules clau o filtres." icon="search" >}}
 
 
 
@@ -192,7 +192,7 @@ Disseny intuïtiu
 
 {{< cards cols="4">}}
 
-  {{< card 
+  {{< feature-card 
     image="/products/evervideo/screenshots/2880x1800/1.png" 
     title="Reproductor de vídeo" 
     method="Fill"
@@ -201,7 +201,7 @@ Disseny intuïtiu
     icon="play"
   >}}
 
-  {{< card 
+  {{< feature-card 
     image="/products/evervideo/screenshots/2880x1800/3.png" 
     title="Equalitzador d'àudio i vídeo" 
     method="Fill"
@@ -210,7 +210,7 @@ Disseny intuïtiu
     icon="adjustments"
   >}}
 
-  {{< card 
+  {{< feature-card 
     image="/products/evervideo/screenshots/2880x1800/6.png" 
     title="Gestor de llistes de reproducció" 
     method="Fill"
@@ -219,7 +219,7 @@ Disseny intuïtiu
     icon="collection"
   >}}
 
-  {{< card 
+  {{< feature-card 
     image="/products/evervideo/screenshots/2880x1800/5.png" 
     title="Biblioteca multimèdia" 
     method="Fill"
@@ -228,7 +228,7 @@ Disseny intuïtiu
     icon="library"
   >}}
 
-  {{< card 
+  {{< feature-card 
     image="/products/evervideo/screenshots/2880x1800/7.png"  
     title="Emmagatzematge al núvol" 
     method="Fill"
@@ -237,7 +237,7 @@ Disseny intuïtiu
     icon="cloud"
   >}}
 
-  {{< card 
+  {{< feature-card 
     image="/products/evervideo/screenshots/2880x1800/9.png"  
     title="Gestor d'arxius" 
     method="Fill"
@@ -656,17 +656,17 @@ Nota: Assegura't que JavaScript estigui habilitat i que estiguis utilitzant l'ú
 </div>
 
 {{< cards >}}
-  {{< card icon="location-marker" title="Navegació" subtitle="Aprèn a navegar per Evervideo amb la Barra de pestanyes a l'iPhone o el Menú esquerre a l'iPad i Mac, més el reproductor de vídeo compacte sempre visible a la pantalla." link="/docs/guide/evervideo/evervideo-guide-navigation" >}}
+  {{< feature-card icon="location-marker" title="Navegació" subtitle="Aprèn a navegar per Evervideo amb la Barra de pestanyes a l'iPhone o el Menú esquerre a l'iPad i Mac, més el reproductor de vídeo compacte sempre visible a la pantalla." link="/docs/guide/evervideo/evervideo-guide-navigation" >}}
 
-  {{< card icon="folder" title="Fitxers" subtitle="Connecta comptes al núvol, recursos NAS, servidors multimèdia (Plex, Jellyfin, Emby, Subsonic, Navidrome), fluxos RTSP i fitxers locals en una pestanya unificada." link="/docs/guide/evervideo/evervideo-guide-files" >}}
+  {{< feature-card icon="folder" title="Fitxers" subtitle="Connecta comptes al núvol, recursos NAS, servidors multimèdia (Plex, Jellyfin, Emby, Subsonic, Navidrome), fluxos RTSP i fitxers locals en una pestanya unificada." link="/docs/guide/evervideo/evervideo-guide-files" >}}
 
-  {{< card icon="library" title="Biblioteca multimèdia" subtitle="Organitza i explora els teus vídeos i música per Àlbums, Gèneres, Recents i Preferits, més la biblioteca de Fotos d'iOS i la biblioteca d'Apple Music." link="/docs/guide/evervideo/evervideo-guide-video-library" >}}
+  {{< feature-card icon="library" title="Biblioteca multimèdia" subtitle="Organitza i explora els teus vídeos i música per Àlbums, Gèneres, Recents i Preferits, més la biblioteca de Fotos d'iOS i la biblioteca d'Apple Music." link="/docs/guide/evervideo/evervideo-guide-video-library" >}}
 
-  {{< card icon="collection" title="Llistes de reproducció" subtitle="Crea i organitza llistes per a vídeos, música, sèries o cursos i importa fitxers M3U / M3U8 / CUE." link="/docs/guide/evervideo/evervideo-guide-playlists" >}}
+  {{< feature-card icon="collection" title="Llistes de reproducció" subtitle="Crea i organitza llistes per a vídeos, música, sèries o cursos i importa fitxers M3U / M3U8 / CUE." link="/docs/guide/evervideo/evervideo-guide-playlists" >}}
 
-  {{< card icon="play" title="Reproductor multimèdia" subtitle="Controla la reproducció, la cua, Picture-in-Picture, les pistes d'àudio i vídeo, els subtítols primaris i secundaris i els equalitzadors d'àudio i vídeo." link="/docs/guide/evervideo/evervideo-guide-player" >}}
+  {{< feature-card icon="play" title="Reproductor multimèdia" subtitle="Controla la reproducció, la cua, Picture-in-Picture, les pistes d'àudio i vídeo, els subtítols primaris i secundaris i els equalitzadors d'àudio i vídeo." link="/docs/guide/evervideo/evervideo-guide-player" >}}
 
-  {{< card icon="adjustments" title="Configuració" subtitle="Personalitza l'aspecte, el descodificador, els equalitzadors, els subtítols, els widgets, l'idioma, el codi d'accés, la còpia de seguretat i els ajustos de rendiment d'Evervideo." link="/docs/guide/evervideo/evervideo-guide-settings" >}}
+  {{< feature-card icon="adjustments" title="Configuració" subtitle="Personalitza l'aspecte, el descodificador, els equalitzadors, els subtítols, els widgets, l'idioma, el codi d'accés, la còpia de seguretat i els ajustos de rendiment d'Evervideo." link="/docs/guide/evervideo/evervideo-guide-settings" >}}
 
 {{< /cards >}}
 

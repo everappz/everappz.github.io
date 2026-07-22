@@ -94,24 +94,24 @@ Tính năng đầy đủ
 <div class="hx:w-full">
 
 {{< cards >}}
-  {{< card title="Hỗ trợ âm thanh Lossless" subtitle="Phát FLAC, ALAC, WAV, APE, DFF, WV, AIFF và nhiều định dạng chất lượng cao khác." icon="music-note" >}}
-  {{< card title="Chế độ ngoại tuyến" subtitle="Tải xuống album, danh sách phát và bài hát để nghe ngoại tuyến bất cứ lúc nào." icon="download" >}}
-  {{< card title="Quản lý tệp" subtitle="Dễ dàng sao chép, di chuyển, đổi tên và xóa tệp trong ứng dụng." icon="folder" >}}
-  {{< card title="Danh sách phát tùy chỉnh" subtitle="Tạo, chỉnh sửa, sắp xếp lại danh sách phát và xuất hoặc nhập tệp M3U." icon="collection" >}}
-  {{< card title="Thư viện phương tiện" subtitle="Thêm nhạc và sắp xếp theo album, nghệ sĩ và thể loại bằng tag." icon="library" >}}
-  {{< card title="Tìm kiếm nâng cao" subtitle="Nhanh chóng tìm bài hát, nghệ sĩ hoặc album với công cụ tìm kiếm thông minh." icon="search" >}}
-  {{< card title="Phát trực tuyến đám mây" subtitle="Phát từ Google Drive, Dropbox, OneDrive, iCloud, MEGA và nhiều hơn nữa." icon="cloud" >}}
-  {{< card title="Truy cập NAS và máy tính" subtitle="Kết nối qua SMB, DLNA hoặc WebDAV. Chuyển tệp với iTunes hoặc Wi-Fi." icon="desktop-computer" >}}
-  {{< card title="Thẻ USB Flash" subtitle="Phát nhạc trực tiếp từ thẻ SD bằng bộ chuyển đổi USB như iXpand." icon="inbox" >}}
-  {{< card title="Điều khiển phát lại" subtitle="Thay đổi tốc độ và cao độ phát lại để kiểm soát âm thanh hoàn hảo." icon="fast-forward" >}}
-  {{< card title="Lời bài hát và bình luận" subtitle="Xem lời bài hát và bình luận nhúng trong khi phát bài hát." icon="annotation" >}}
-  {{< card title="Trình chỉnh sửa tag ID3" subtitle="Chỉnh sửa và sửa metadata như tiêu đề, nghệ sĩ hoặc album với công cụ tích hợp." icon="pencil-alt" >}}
-  {{< card title="Bộ cân bằng và tăng cường" subtitle="Sử dụng cài đặt sẵn hoặc điều chỉnh thủ công với khuếch đại preamp cho âm thanh phong phú." icon="adjustments" >}}
-  {{< card title="Apple CarPlay" subtitle="Lái xe an toàn với giao diện CarPlay chuyên dụng cho phát nhạc." icon="truck" >}}
-  {{< card title="AirPlay và Chromecast" subtitle="Phát trực tuyến đến Apple TV và thiết bị Google Chromecast không dây." icon="device-mobile" >}}
-  {{< card title="Tích hợp Last.fm" subtitle="Theo dõi thống kê nhạc và nhận đề xuất bài hát được cá nhân hóa." icon="chart-bar" >}}
-  {{< card title="Đồng bộ tự động" subtitle="Tự động đồng bộ thư viện nhạc với thư mục đám mây và cục bộ." icon="refresh" >}}
-  {{< card title="Hỗ trợ sách nói" subtitle="Nghe sách nói với đánh dấu, hẹn giờ ngủ và tiếp tục phát từ nơi bạn đã dừng." icon="book-open" >}}
+  {{< feature-card title="Hỗ trợ âm thanh Lossless" subtitle="Phát FLAC, ALAC, WAV, APE, DFF, WV, AIFF và nhiều định dạng chất lượng cao khác." icon="music-note" >}}
+  {{< feature-card title="Chế độ ngoại tuyến" subtitle="Tải xuống album, danh sách phát và bài hát để nghe ngoại tuyến bất cứ lúc nào." icon="download" >}}
+  {{< feature-card title="Quản lý tệp" subtitle="Dễ dàng sao chép, di chuyển, đổi tên và xóa tệp trong ứng dụng." icon="folder" >}}
+  {{< feature-card title="Danh sách phát tùy chỉnh" subtitle="Tạo, chỉnh sửa, sắp xếp lại danh sách phát và xuất hoặc nhập tệp M3U." icon="collection" >}}
+  {{< feature-card title="Thư viện phương tiện" subtitle="Thêm nhạc và sắp xếp theo album, nghệ sĩ và thể loại bằng tag." icon="library" >}}
+  {{< feature-card title="Tìm kiếm nâng cao" subtitle="Nhanh chóng tìm bài hát, nghệ sĩ hoặc album với công cụ tìm kiếm thông minh." icon="search" >}}
+  {{< feature-card title="Phát trực tuyến đám mây" subtitle="Phát từ Google Drive, Dropbox, OneDrive, iCloud, MEGA và nhiều hơn nữa." icon="cloud" >}}
+  {{< feature-card title="Truy cập NAS và máy tính" subtitle="Kết nối qua SMB, DLNA hoặc WebDAV. Chuyển tệp với iTunes hoặc Wi-Fi." icon="desktop-computer" >}}
+  {{< feature-card title="Thẻ USB Flash" subtitle="Phát nhạc trực tiếp từ thẻ SD bằng bộ chuyển đổi USB như iXpand." icon="inbox" >}}
+  {{< feature-card title="Điều khiển phát lại" subtitle="Thay đổi tốc độ và cao độ phát lại để kiểm soát âm thanh hoàn hảo." icon="fast-forward" >}}
+  {{< feature-card title="Lời bài hát và bình luận" subtitle="Xem lời bài hát và bình luận nhúng trong khi phát bài hát." icon="annotation" >}}
+  {{< feature-card title="Trình chỉnh sửa tag ID3" subtitle="Chỉnh sửa và sửa metadata như tiêu đề, nghệ sĩ hoặc album với công cụ tích hợp." icon="pencil-alt" >}}
+  {{< feature-card title="Bộ cân bằng và tăng cường" subtitle="Sử dụng cài đặt sẵn hoặc điều chỉnh thủ công với khuếch đại preamp cho âm thanh phong phú." icon="adjustments" >}}
+  {{< feature-card title="Apple CarPlay" subtitle="Lái xe an toàn với giao diện CarPlay chuyên dụng cho phát nhạc." icon="truck" >}}
+  {{< feature-card title="AirPlay và Chromecast" subtitle="Phát trực tuyến đến Apple TV và thiết bị Google Chromecast không dây." icon="device-mobile" >}}
+  {{< feature-card title="Tích hợp Last.fm" subtitle="Theo dõi thống kê nhạc và nhận đề xuất bài hát được cá nhân hóa." icon="chart-bar" >}}
+  {{< feature-card title="Đồng bộ tự động" subtitle="Tự động đồng bộ thư viện nhạc với thư mục đám mây và cục bộ." icon="refresh" >}}
+  {{< feature-card title="Hỗ trợ sách nói" subtitle="Nghe sách nói với đánh dấu, hẹn giờ ngủ và tiếp tục phát từ nơi bạn đã dừng." icon="book-open" >}}
 {{< /cards >}}
 
 </div>
@@ -127,12 +127,12 @@ Thiết kế trực quan
 <div class="hx:w-full">
 
 {{< cards cols="4">}}
-  {{< card image="/products/flacbox/screenshots/2048x2732/1.png" title="Trình phát âm thanh" method="Fill" options="515x200 q90 webp" subtitle="Trình phát nhạc nâng cao với lặp lại, phát ngẫu nhiên, điều khiển tốc độ và điều chỉnh cao độ." icon="play" >}}
-  {{< card image="/products/flacbox/screenshots/2048x2732/2.png" title="Bộ cân bằng âm thanh" method="Fill" options="515x200 q90 webp" subtitle="Bộ cân bằng tùy chỉnh với cài đặt sẵn, tăng cường bass và preamp cho âm thanh tốt hơn." icon="adjustments" >}}
-  {{< card image="/products/flacbox/screenshots/2048x2732/3.png" title="Quản lý danh sách phát" method="Fill" options="515x200 q90 webp" subtitle="Tạo danh sách phát, thay đổi thứ tự bài hát, xuất sang M3U hoặc ZIP để sao lưu hoặc chia sẻ." icon="collection" >}}
-  {{< card image="/products/flacbox/screenshots/2048x2732/5.png" title="Thư viện phương tiện" method="Fill" options="515x200 q90 webp" subtitle="Sắp xếp bài hát theo album, nghệ sĩ hoặc thể loại bằng tag âm thanh và metadata." icon="library" >}}
-  {{< card image="/products/flacbox/screenshots/2048x2732/7.png" title="Bộ nhớ đám mây" method="Fill" options="515x200 q90 webp" subtitle="Phát trực tuyến nhạc từ Google Drive, Dropbox, OneDrive và các dịch vụ đám mây khác." icon="cloud" >}}
-  {{< card image="/products/flacbox/screenshots/2048x2732/8.png" title="iCloud Drive" method="Fill" options="515x200 q90 webp" subtitle="Lưu trữ nhạc lossless trên iCloud và phát trực tiếp mà không cần tải xuống." icon="wifi" >}}
+  {{< feature-card image="/products/flacbox/screenshots/2048x2732/1.png" title="Trình phát âm thanh" method="Fill" options="515x200 q90 webp" subtitle="Trình phát nhạc nâng cao với lặp lại, phát ngẫu nhiên, điều khiển tốc độ và điều chỉnh cao độ." icon="play" >}}
+  {{< feature-card image="/products/flacbox/screenshots/2048x2732/2.png" title="Bộ cân bằng âm thanh" method="Fill" options="515x200 q90 webp" subtitle="Bộ cân bằng tùy chỉnh với cài đặt sẵn, tăng cường bass và preamp cho âm thanh tốt hơn." icon="adjustments" >}}
+  {{< feature-card image="/products/flacbox/screenshots/2048x2732/3.png" title="Quản lý danh sách phát" method="Fill" options="515x200 q90 webp" subtitle="Tạo danh sách phát, thay đổi thứ tự bài hát, xuất sang M3U hoặc ZIP để sao lưu hoặc chia sẻ." icon="collection" >}}
+  {{< feature-card image="/products/flacbox/screenshots/2048x2732/5.png" title="Thư viện phương tiện" method="Fill" options="515x200 q90 webp" subtitle="Sắp xếp bài hát theo album, nghệ sĩ hoặc thể loại bằng tag âm thanh và metadata." icon="library" >}}
+  {{< feature-card image="/products/flacbox/screenshots/2048x2732/7.png" title="Bộ nhớ đám mây" method="Fill" options="515x200 q90 webp" subtitle="Phát trực tuyến nhạc từ Google Drive, Dropbox, OneDrive và các dịch vụ đám mây khác." icon="cloud" >}}
+  {{< feature-card image="/products/flacbox/screenshots/2048x2732/8.png" title="iCloud Drive" method="Fill" options="515x200 q90 webp" subtitle="Lưu trữ nhạc lossless trên iCloud và phát trực tiếp mà không cần tải xuống." icon="wifi" >}}
 {{< /cards >}}
 
 </div>
@@ -366,13 +366,13 @@ Có, **Flacbox hỗ trợ đầy đủ Apple CarPlay**. Bạn có thể duyệt 
 </div>
 
 {{< cards >}}
-{{< card icon="map" link="/docs/guide/flacbox/flacbox-guide-navigation" title="Điều hướng" subtitle="Sử dụng thanh tab trên iPhone hoặc menu bên trái trên iPad và Mac." >}}
-{{< card icon="cloud" link="/docs/guide/flacbox/flacbox-guide-connections" title="Kết nối" subtitle="Kết nối Dropbox, Google Drive, iCloud hoặc NAS của bạn." >}}
-{{< card icon="collection" link="/docs/guide/flacbox/flacbox-guide-music-library" title="Thư viện nhạc" subtitle="Quản lý và tìm kiếm bài hát theo nghệ sĩ, album hoặc thể loại." >}}
-{{< card icon="music-note" link="/docs/guide/flacbox/flacbox-guide-playlists" title="Danh sách phát" subtitle="Tạo và sắp xếp danh sách phát cho mọi tâm trạng hoặc dịp." >}}
-{{< card icon="folder" link="/docs/guide/flacbox/flacbox-guide-local-files" title="Tệp cục bộ" subtitle="Chỉnh sửa và phát nhạc ngoại tuyến với trình quản lý tệp tích hợp." >}}
-{{< card icon="play" link="/docs/guide/flacbox/flacbox-guide-player" title="Trình phát âm thanh" subtitle="Điều khiển phát lại, điều chỉnh tốc độ, đặt đánh dấu và nhiều hơn nữa." >}}
-{{< card icon="adjustments" link="/docs/guide/flacbox/flacbox-guide-settings" title="Cài đặt" subtitle="Tùy chỉnh bộ cân bằng, giao diện và hành vi ứng dụng." >}}
+{{< feature-card icon="map" link="/docs/guide/flacbox/flacbox-guide-navigation" title="Điều hướng" subtitle="Sử dụng thanh tab trên iPhone hoặc menu bên trái trên iPad và Mac." >}}
+{{< feature-card icon="cloud" link="/docs/guide/flacbox/flacbox-guide-connections" title="Kết nối" subtitle="Kết nối Dropbox, Google Drive, iCloud hoặc NAS của bạn." >}}
+{{< feature-card icon="collection" link="/docs/guide/flacbox/flacbox-guide-music-library" title="Thư viện nhạc" subtitle="Quản lý và tìm kiếm bài hát theo nghệ sĩ, album hoặc thể loại." >}}
+{{< feature-card icon="music-note" link="/docs/guide/flacbox/flacbox-guide-playlists" title="Danh sách phát" subtitle="Tạo và sắp xếp danh sách phát cho mọi tâm trạng hoặc dịp." >}}
+{{< feature-card icon="folder" link="/docs/guide/flacbox/flacbox-guide-local-files" title="Tệp cục bộ" subtitle="Chỉnh sửa và phát nhạc ngoại tuyến với trình quản lý tệp tích hợp." >}}
+{{< feature-card icon="play" link="/docs/guide/flacbox/flacbox-guide-player" title="Trình phát âm thanh" subtitle="Điều khiển phát lại, điều chỉnh tốc độ, đặt đánh dấu và nhiều hơn nữa." >}}
+{{< feature-card icon="adjustments" link="/docs/guide/flacbox/flacbox-guide-settings" title="Cài đặt" subtitle="Tùy chỉnh bộ cân bằng, giao diện và hành vi ứng dụng." >}}
 {{< /cards >}}
 
 </div>

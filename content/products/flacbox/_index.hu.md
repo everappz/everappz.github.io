@@ -127,29 +127,29 @@ Teljeskörű funkciók
 
 {{< cards >}}
 
-  {{< card title="Veszteségmentes audió támogatás" subtitle="Játssz le FLAC, ALAC, WAV, APE, DFF, WV, AIFF és sok más kiváló minőségű formátumot." icon="music-note" >}}
-  {{< card title="Offline mód" subtitle="Tölts le albumokat, lejátszási listákat és számokat offline lejátszáshoz bármikor." icon="download" >}}
-  {{< card title="Fájlkezelés" subtitle="Egyszerűen másolj, mozgass, nevezz át és törölj fájlokat az alkalmazáson belül." icon="folder" >}}
+  {{< feature-card title="Veszteségmentes audió támogatás" subtitle="Játssz le FLAC, ALAC, WAV, APE, DFF, WV, AIFF és sok más kiváló minőségű formátumot." icon="music-note" >}}
+  {{< feature-card title="Offline mód" subtitle="Tölts le albumokat, lejátszási listákat és számokat offline lejátszáshoz bármikor." icon="download" >}}
+  {{< feature-card title="Fájlkezelés" subtitle="Egyszerűen másolj, mozgass, nevezz át és törölj fájlokat az alkalmazáson belül." icon="folder" >}}
 
-  {{< card title="Egyéni lejátszási listák" subtitle="Hozz létre, szerkessz, rendezd át a lejátszási listákat, és exportálj vagy importálj M3U fájlokat." icon="collection" >}}
-  {{< card title="Médiakönyvtár" subtitle="Adj hozzá zenét és rendezd album, előadó és műfaj szerint címkék segítségével." icon="library" >}}
-  {{< card title="Fejlett keresés" subtitle="Gyorsan keress dalokat, előadókat vagy albumokat az intelligens keresőeszközökkel." icon="search" >}}
+  {{< feature-card title="Egyéni lejátszási listák" subtitle="Hozz létre, szerkessz, rendezd át a lejátszási listákat, és exportálj vagy importálj M3U fájlokat." icon="collection" >}}
+  {{< feature-card title="Médiakönyvtár" subtitle="Adj hozzá zenét és rendezd album, előadó és műfaj szerint címkék segítségével." icon="library" >}}
+  {{< feature-card title="Fejlett keresés" subtitle="Gyorsan keress dalokat, előadókat vagy albumokat az intelligens keresőeszközökkel." icon="search" >}}
 
-  {{< card title="Felhő streamelés" subtitle="Streamelj Google Drive-ról, Dropboxból, OneDrive-ról, iCloudból, MEGA-ról és más szolgáltatásokból." icon="cloud" >}}
-  {{< card title="NAS és számítógép elérés" subtitle="Csatlakozz SMB, DLNA vagy WebDAV segítségével. Vidd át iTunesszal vagy Wi-Fi-vel." icon="desktop-computer" >}}
-  {{< card title="USB flash kártyák" subtitle="Játssz le zenét közvetlenül SD kártyákról USB adapterekkel, mint az iXpand." icon="inbox" >}}
+  {{< feature-card title="Felhő streamelés" subtitle="Streamelj Google Drive-ról, Dropboxból, OneDrive-ról, iCloudból, MEGA-ról és más szolgáltatásokból." icon="cloud" >}}
+  {{< feature-card title="NAS és számítógép elérés" subtitle="Csatlakozz SMB, DLNA vagy WebDAV segítségével. Vidd át iTunesszal vagy Wi-Fi-vel." icon="desktop-computer" >}}
+  {{< feature-card title="USB flash kártyák" subtitle="Játssz le zenét közvetlenül SD kártyákról USB adapterekkel, mint az iXpand." icon="inbox" >}}
 
-  {{< card title="Lejátszásvezérlők" subtitle="Változtasd a lejátszási sebességet és hangmagasságot a tökéletes hangzásért." icon="fast-forward" >}}
-  {{< card title="Dalszövegek és megjegyzések" subtitle="Tekintsd meg a beágyazott dalszövegeket és megjegyzéseket lejátszás közben." icon="annotation" >}}
-  {{< card title="ID3 címkeszerkesztő" subtitle="Szerkeszd és javítsd a metaadatokat, mint a cím, előadó vagy album a beépített eszközzel." icon="pencil-alt" >}}
+  {{< feature-card title="Lejátszásvezérlők" subtitle="Változtasd a lejátszási sebességet és hangmagasságot a tökéletes hangzásért." icon="fast-forward" >}}
+  {{< feature-card title="Dalszövegek és megjegyzések" subtitle="Tekintsd meg a beágyazott dalszövegeket és megjegyzéseket lejátszás közben." icon="annotation" >}}
+  {{< feature-card title="ID3 címkeszerkesztő" subtitle="Szerkeszd és javítsd a metaadatokat, mint a cím, előadó vagy album a beépített eszközzel." icon="pencil-alt" >}}
 
-  {{< card title="Hangszínszabályzó és kiemelés" subtitle="Használj előbeállításokat vagy kézi beállítást előerősítő hangerővel a gazdag hangzásért." icon="adjustments" >}}
-  {{< card title="Apple CarPlay" subtitle="Vezess biztonságosan a dedikált CarPlay felülettel a zenelejátszáshoz." icon="truck" >}}
-  {{< card title="AirPlay és Chromecast" subtitle="Streamelj Apple TV-re és Google Chromecast eszközökre vezeték nélkül." icon="device-mobile" >}}
+  {{< feature-card title="Hangszínszabályzó és kiemelés" subtitle="Használj előbeállításokat vagy kézi beállítást előerősítő hangerővel a gazdag hangzásért." icon="adjustments" >}}
+  {{< feature-card title="Apple CarPlay" subtitle="Vezess biztonságosan a dedikált CarPlay felülettel a zenelejátszáshoz." icon="truck" >}}
+  {{< feature-card title="AirPlay és Chromecast" subtitle="Streamelj Apple TV-re és Google Chromecast eszközökre vezeték nélkül." icon="device-mobile" >}}
 
-  {{< card title="Last.fm integráció" subtitle="Kövesd zenei statisztikáidat és kapj személyre szabott dalajánlatokat." icon="chart-bar" >}}
-  {{< card title="Automatikus szinkronizálás" subtitle="Automatikusan szinkronizáld zenei könyvtáradat felhő és helyi mappákkal." icon="refresh" >}}
-  {{< card title="Hangoskönyv támogatás" subtitle="Hallgass hangoskönyveket könyvjelzőkkel, alvásidőzítővel és lejátszás folytatásával onnan, ahol abbahagytad." icon="book-open" >}}
+  {{< feature-card title="Last.fm integráció" subtitle="Kövesd zenei statisztikáidat és kapj személyre szabott dalajánlatokat." icon="chart-bar" >}}
+  {{< feature-card title="Automatikus szinkronizálás" subtitle="Automatikusan szinkronizáld zenei könyvtáradat felhő és helyi mappákkal." icon="refresh" >}}
+  {{< feature-card title="Hangoskönyv támogatás" subtitle="Hallgass hangoskönyveket könyvjelzőkkel, alvásidőzítővel és lejátszás folytatásával onnan, ahol abbahagytad." icon="book-open" >}}
 
 {{< /cards >}}
 
@@ -167,7 +167,7 @@ Intuitív dizájn
 
 {{< cards cols="4">}}
 
-  {{< card 
+  {{< feature-card 
     image="/products/flacbox/screenshots/2048x2732/1.png" 
     title="Audiolejátszó" 
     method="Fill"
@@ -176,7 +176,7 @@ Intuitív dizájn
     icon="play"
   >}}
 
-  {{< card 
+  {{< feature-card 
     image="/products/flacbox/screenshots/2048x2732/2.png"  
     title="Audio hangszínszabályzó" 
     method="Fill"
@@ -185,7 +185,7 @@ Intuitív dizájn
     icon="adjustments"
   >}}
 
-  {{< card 
+  {{< feature-card 
     image="/products/flacbox/screenshots/2048x2732/3.png"  
     title="Lejátszási lista kezelő" 
     method="Fill"
@@ -194,7 +194,7 @@ Intuitív dizájn
     icon="collection"
   >}}
 
-  {{< card 
+  {{< feature-card 
     image="/products/flacbox/screenshots/2048x2732/5.png"  
     title="Médiakönyvtár" 
     method="Fill"
@@ -203,7 +203,7 @@ Intuitív dizájn
     icon="library"
   >}}
 
-  {{< card 
+  {{< feature-card 
     image="/products/flacbox/screenshots/2048x2732/7.png"  
     title="Felhőtárhely" 
     method="Fill"
@@ -212,7 +212,7 @@ Intuitív dizájn
     icon="cloud"
   >}}
 
-  {{< card 
+  {{< feature-card 
     image="/products/flacbox/screenshots/2048x2732/8.png"  
     title="iCloud Drive" 
     method="Fill"
@@ -835,19 +835,19 @@ A CarPlay használatához győződj meg arról, hogy a Siri engedélyezve van é
 
 {{< cards >}}
 
-{{< card icon="map" link="/docs/guide/flacbox/flacbox-guide-navigation" title="Navigáció" subtitle="Használd a füles sávot iPhone-on vagy a bal oldali menüt iPaden és Macen." >}}
+{{< feature-card icon="map" link="/docs/guide/flacbox/flacbox-guide-navigation" title="Navigáció" subtitle="Használd a füles sávot iPhone-on vagy a bal oldali menüt iPaden és Macen." >}}
 
-{{< card icon="cloud" link="/docs/guide/flacbox/flacbox-guide-connections" title="Kapcsolatok" subtitle="Csatlakoztasd a Dropboxot, Google Drive-ot, iCloudot vagy a NAS-odat." >}}
+{{< feature-card icon="cloud" link="/docs/guide/flacbox/flacbox-guide-connections" title="Kapcsolatok" subtitle="Csatlakoztasd a Dropboxot, Google Drive-ot, iCloudot vagy a NAS-odat." >}}
 
-{{< card icon="collection" link="/docs/guide/flacbox/flacbox-guide-music-library" title="Zenei könyvtár" subtitle="Kezeld és keresd a számokat előadó, album vagy műfaj szerint." >}}
+{{< feature-card icon="collection" link="/docs/guide/flacbox/flacbox-guide-music-library" title="Zenei könyvtár" subtitle="Kezeld és keresd a számokat előadó, album vagy műfaj szerint." >}}
 
-{{< card icon="music-note" link="/docs/guide/flacbox/flacbox-guide-playlists" title="Lejátszási listák" subtitle="Hozz létre és rendezz lejátszási listákat bármely hangulathoz vagy alkalomhoz." >}}
+{{< feature-card icon="music-note" link="/docs/guide/flacbox/flacbox-guide-playlists" title="Lejátszási listák" subtitle="Hozz létre és rendezz lejátszási listákat bármely hangulathoz vagy alkalomhoz." >}}
 
-{{< card icon="folder" link="/docs/guide/flacbox/flacbox-guide-local-files" title="Helyi fájlok" subtitle="Szerkeszd és játszd le az offline zenét a beépített fájlkezelővel." >}}
+{{< feature-card icon="folder" link="/docs/guide/flacbox/flacbox-guide-local-files" title="Helyi fájlok" subtitle="Szerkeszd és játszd le az offline zenét a beépített fájlkezelővel." >}}
 
-{{< card icon="play" link="/docs/guide/flacbox/flacbox-guide-player" title="Audiolejátszó" subtitle="Vezéreld a lejátszást, állítsd a sebességet, adj könyvjelzőket és többet." >}}
+{{< feature-card icon="play" link="/docs/guide/flacbox/flacbox-guide-player" title="Audiolejátszó" subtitle="Vezéreld a lejátszást, állítsd a sebességet, adj könyvjelzőket és többet." >}}
 
-{{< card icon="adjustments" link="/docs/guide/flacbox/flacbox-guide-settings" title="Beállítások" subtitle="Szabd testre a hangszínszabályzót, megjelenést és az alkalmazás viselkedését." >}}
+{{< feature-card icon="adjustments" link="/docs/guide/flacbox/flacbox-guide-settings" title="Beállítások" subtitle="Szabd testre a hangszínszabályzót, megjelenést és az alkalmazás viselkedését." >}}
 
 {{< /cards >}}
 

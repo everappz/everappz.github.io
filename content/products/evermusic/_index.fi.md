@@ -148,7 +148,7 @@ Evermusic on ilmainen offline-musiikkisoitin iPhonelle ja Macille, jonka on kehi
 
 {{< cards cols="4">}}
 
-  {{< card 
+  {{< feature-card 
     icon="adjustments"
     image="/products/evermusic/screenshots/2048x2732/3.png" 
     title="Äänitaajuuskorjain" 
@@ -157,7 +157,7 @@ Evermusic on ilmainen offline-musiikkisoitin iPhonelle ja Macille, jonka on kehi
     subtitle="Hienosäädä ääntäsi iPod-tyylisellä taajuuskorjaimella, mukautettavilla esiasetuksilla ja esivahvistimen säädöllä parasta kuuntelukokemusta varten." 
   >}}
 
-  {{< card 
+  {{< feature-card 
     icon="annotation"
     image="/products/evermusic/screenshots/2048x2732/4.png"  
     title="Sanojen Katselu" 
@@ -166,7 +166,7 @@ Evermusic on ilmainen offline-musiikkisoitin iPhonelle ja Macille, jonka on kehi
     subtitle="Lue upotettuja sanoituksia ja kappaleiden kommentteja kuunnellessasi. Nauti synkronoiduista sanoituksista entistä mukaansatempaavampaa musiikkikokemusta varten." 
   >}}
 
-  {{< card 
+  {{< feature-card 
     icon="collection"
     image="/products/evermusic/screenshots/2048x2732/5.png"  
     title="Soittolistojen Hallinta" 
@@ -175,7 +175,7 @@ Evermusic on ilmainen offline-musiikkisoitin iPhonelle ja Macille, jonka on kehi
     subtitle="Luo ja järjestä mukautettuja soittolistoja, järjestä kappaleet uudelleen, vie M3U-muotoon tai arkistoi ZIP-tiedostoina helppoa jakamista tai varmuuskopiointia varten." 
   >}}
 
-  {{< card 
+  {{< feature-card 
     icon="cloud"
     image="/products/evermusic/screenshots/2048x2732/6.png"  
     title="Pilvimusiikin Suoratoisto" 
@@ -184,7 +184,7 @@ Evermusic on ilmainen offline-musiikkisoitin iPhonelle ja Macille, jonka on kehi
     subtitle="Yhdistä suositut pilvitallennusalustat kuten Google Drive, Dropbox ja OneDrive suoratoistaaksesi musiikkikokoelmaasi milloin ja missä tahansa." 
   >}}
 
-  {{< card 
+  {{< feature-card 
     icon="duplicate"
     image="/products/evermusic/screenshots/2048x2732/9.png"  
     title="Tiedostonhallinta" 
@@ -193,7 +193,7 @@ Evermusic on ilmainen offline-musiikkisoitin iPhonelle ja Macille, jonka on kehi
     subtitle="Hallitse äänitiedostojasi helposti — nimeä kappaleita uudelleen, järjestä kansioita ja siirrä musiikkia laitteiden välillä sisäänrakennetuilla työkaluilla." 
   >}} 
 
-  {{< card 
+  {{< feature-card 
     icon="sun"
     image="/products/evermusic/screenshots/2048x2732/10.png"  
     title="Sovelluksen Mukauttaminen" 
@@ -218,41 +218,41 @@ Evermusic on ilmainen offline-musiikkisoitin iPhonelle ja Macille, jonka on kehi
 
 {{< cards >}}
 
-  {{< card title="Äänimuodot" subtitle="Tukee: mp3, m4a, flac, wav, aac, mp4, m3u, m3u8, m4b, m4p, aiff, ogg, mp2, ac3, wma ja muita." icon="music-note" >}}
+  {{< feature-card title="Äänimuodot" subtitle="Tukee: mp3, m4a, flac, wav, aac, mp4, m3u, m3u8, m4b, m4p, aiff, ogg, mp2, ac3, wma ja muita." icon="music-note" >}}
 
-  {{< card title="Äänikirjat" subtitle="Sisältää äänikirjanmerkit, toistonopeuden säädön ja paikan jatkamisen." icon="book-open" width="50">}}
+  {{< feature-card title="Äänikirjat" subtitle="Sisältää äänikirjanmerkit, toistonopeuden säädön ja paikan jatkamisen." icon="book-open" width="50">}}
 
-  {{< card title="Automaattinen Synkronointi" subtitle="Synkronoi musiikkikirjastosi pilven kanssa, järjestettynä artistin, albumin ja genren mukaan." icon="refresh" >}}
+  {{< feature-card title="Automaattinen Synkronointi" subtitle="Synkronoi musiikkikirjastosi pilven kanssa, järjestettynä artistin, albumin ja genren mukaan." icon="refresh" >}}
 
-  {{< card title="Tiedostonhallinta" subtitle="Hallitse tiedostoja toiminnoilla kuten kopioi, siirrä, nimeä uudelleen ja poista." icon="folder" >}}
+  {{< feature-card title="Tiedostonhallinta" subtitle="Hallitse tiedostoja toiminnoilla kuten kopioi, siirrä, nimeä uudelleen ja poista." icon="folder" >}}
 
-  {{< card title="Pilvipalvelut" subtitle="Tukee iCloud, Google Drive, Dropbox, OneDrive, Box, MEGA, WD MyCloud Home, pCloud ja muita." icon="cloud" >}}
+  {{< feature-card title="Pilvipalvelut" subtitle="Tukee iCloud, Google Drive, Dropbox, OneDrive, Box, MEGA, WD MyCloud Home, pCloud ja muita." icon="cloud" >}}
 
-  {{< card title="Crossfade-toisto" subtitle="Seuraava kappale alkaa ennen nykyisen päättymistä saumattomia siirtymiä varten." icon="switch-horizontal" >}}
+  {{< feature-card title="Crossfade-toisto" subtitle="Seuraava kappale alkaa ennen nykyisen päättymistä saumattomia siirtymiä varten." icon="switch-horizontal" >}}
 
-  {{< card title="Tauoton Toisto" subtitle="Ei taukoja kappaleiden välillä — ihanteellinen live-, klassisille tai konseptialbumeille." icon="volume-up" >}}
+  {{< feature-card title="Tauoton Toisto" subtitle="Ei taukoja kappaleiden välillä — ihanteellinen live-, klassisille tai konseptialbumeille." icon="volume-up" >}}
 
-  {{< card title="Äänitaajuuskorjain" subtitle="Mukautettava taajuuskorjain esiasetuksilla, manuaalisella säädöllä ja esivahvistimen säädöllä." icon="adjustments" >}}
+  {{< feature-card title="Äänitaajuuskorjain" subtitle="Mukautettava taajuuskorjain esiasetuksilla, manuaalisella säädöllä ja esivahvistimen säädöllä." icon="adjustments" >}}
 
-  {{< card title="Edistynyt Haku" subtitle="Löydä suosikkialbumisi, artistisi ja kappaleesi nopeasti ja helposti." icon="search" >}}
+  {{< feature-card title="Edistynyt Haku" subtitle="Löydä suosikkialbumisi, artistisi ja kappaleesi nopeasti ja helposti." icon="search" >}}
 
-  {{< card title="Tietokoneyhteys" subtitle="Yhdistä SMB:n, WebDAV:n tai DLNA:n kautta. Siirrä iTunes File Sharingin ja Wi-Fi:n avulla." icon="desktop-computer" >}}
+  {{< feature-card title="Tietokoneyhteys" subtitle="Yhdistä SMB:n, WebDAV:n tai DLNA:n kautta. Siirrä iTunes File Sharingin ja Wi-Fi:n avulla." icon="desktop-computer" >}}
 
-  {{< card title="AirPlay & Chromecast" subtitle="Suoratoista Apple TV- ja Google Chromecast -laitteille langattomasti." icon="device-mobile" >}}
+  {{< feature-card title="AirPlay & Chromecast" subtitle="Suoratoista Apple TV- ja Google Chromecast -laitteille langattomasti." icon="device-mobile" >}}
 
-  {{< card title="Soittolistat" subtitle="Luo, muokkaa, järjestä uudelleen ja vie/tuo M3U-soittolistoja offline-tilassa." icon="collection" >}}
+  {{< feature-card title="Soittolistat" subtitle="Luo, muokkaa, järjestä uudelleen ja vie/tuo M3U-soittolistoja offline-tilassa." icon="collection" >}}
 
-  {{< card title="USB-muistikortit" subtitle="Toista musiikkia suoraan SD-korteilta ulkoisten lukijoiden kuten SanDisk iXpand avulla." icon="inbox" >}}
+  {{< feature-card title="USB-muistikortit" subtitle="Toista musiikkia suoraan SD-korteilta ulkoisten lukijoiden kuten SanDisk iXpand avulla." icon="inbox" >}}
 
-  {{< card title="Offline-tila" subtitle="Lataa albumeita ja soittolistoja tai välimuistita automaattisesti äskettäin toistetut kappaleet offline-kuuntelua varten." icon="download" >}}
+  {{< feature-card title="Offline-tila" subtitle="Lataa albumeita ja soittolistoja tai välimuistita automaattisesti äskettäin toistetut kappaleet offline-kuuntelua varten." icon="download" >}}
 
-  {{< card title="Apple CarPlay" subtitle="Aja turvallisesti omistetulla CarPlay-käyttöliittymällä musiikin toistoa varten." icon="truck" >}}
+  {{< feature-card title="Apple CarPlay" subtitle="Aja turvallisesti omistetulla CarPlay-käyttöliittymällä musiikin toistoa varten." icon="truck" >}}
 
-  {{< card title="ID3-tagien Editori" subtitle="Muokkaa vioittuneita tai puuttuvia metatietoja sisäänrakennetulla tagieditorilla." icon="pencil-alt" >}}
+  {{< feature-card title="ID3-tagien Editori" subtitle="Muokkaa vioittuneita tai puuttuvia metatietoja sisäänrakennetulla tagieditorilla." icon="pencil-alt" >}}
 
-  {{< card title="Sanat ja Kommentit" subtitle="Näytä upotettuja sanoituksia ja kommentteja kuunnellessasi musiikkiasi." icon="annotation" >}}
+  {{< feature-card title="Sanat ja Kommentit" subtitle="Näytä upotettuja sanoituksia ja kommentteja kuunnellessasi musiikkiasi." icon="annotation" >}}
 
-  {{< card title="Last.fm" subtitle="Yhdistä Last.fm-tilisi saadaksesi henkilökohtaisia kuuntelutilastoja ja suosituksia." icon="chart-bar" >}}
+  {{< feature-card title="Last.fm" subtitle="Yhdistä Last.fm-tilisi saadaksesi henkilökohtaisia kuuntelutilastoja ja suosituksia." icon="chart-bar" >}}
   
 {{< /cards >}}
 
@@ -704,19 +704,19 @@ Tällä laajalla valikoimalla tuettuja muotoja ja tiedostopäätteitä voit naut
 </div>
 
 {{< cards >}}
-  {{< card icon="location-marker" title="Navigointi" subtitle="Opi navigoimaan Evermusicissa käyttäen välilehtpalkkia iPhonessa tai vasenta valikkoa iPadissa ja Macissa." link="/docs/guide/evermusic/evermusic-guide-navigation" >}}
+  {{< feature-card icon="location-marker" title="Navigointi" subtitle="Opi navigoimaan Evermusicissa käyttäen välilehtpalkkia iPhonessa tai vasenta valikkoa iPadissa ja Macissa." link="/docs/guide/evermusic/evermusic-guide-navigation" >}}
 
-  {{< card icon="cloud" title="Yhteydet" subtitle="Yhdistä pilvitilisi ja hallitse online-tiedostoja sisäänrakennetun tiedostonhallinnan avulla." link="/docs/guide/evermusic/evermusic-guide-connections" >}}
+  {{< feature-card icon="cloud" title="Yhteydet" subtitle="Yhdistä pilvitilisi ja hallitse online-tiedostoja sisäänrakennetun tiedostonhallinnan avulla." link="/docs/guide/evermusic/evermusic-guide-connections" >}}
 
-  {{< card icon="library" title="Musiikkikirjasto" subtitle="Järjestä ja tutustu kappaleisiisi, albumeihisi ja artisteihisi musiikkikirjastossa." link="/docs/guide/evermusic/evermusic-guide-music-library" >}}
+  {{< feature-card icon="library" title="Musiikkikirjasto" subtitle="Järjestä ja tutustu kappaleisiisi, albumeihisi ja artisteihisi musiikkikirjastossa." link="/docs/guide/evermusic/evermusic-guide-music-library" >}}
 
-  {{< card icon="collection" title="Soittolistat" subtitle="Luo ja järjestä soittolistoja tunnelmaasi tai tilaisuuteesi sopiviksi." link="/docs/guide/evermusic/evermusic-guide-playlists" >}}
+  {{< feature-card icon="collection" title="Soittolistat" subtitle="Luo ja järjestä soittolistoja tunnelmaasi tai tilaisuuteesi sopiviksi." link="/docs/guide/evermusic/evermusic-guide-playlists" >}}
 
-  {{< card icon="folder" title="Paikalliset Tiedostot" subtitle="Käytä ja hallitse offline-musiikkia Paikalliset tiedostot -osion kautta." link="/docs/guide/evermusic/evermusic-guide-local-files" >}}
+  {{< feature-card icon="folder" title="Paikalliset Tiedostot" subtitle="Käytä ja hallitse offline-musiikkia Paikalliset tiedostot -osion kautta." link="/docs/guide/evermusic/evermusic-guide-local-files" >}}
 
-  {{< card icon="play" title="Äänisoitin" subtitle="Hallitse toistoa, jonoa ja ääniasetuksia kuten taajuuskorjainta ja uniajastinta." link="/docs/guide/evermusic/evermusic-guide-player" >}}
+  {{< feature-card icon="play" title="Äänisoitin" subtitle="Hallitse toistoa, jonoa ja ääniasetuksia kuten taajuuskorjainta ja uniajastinta." link="/docs/guide/evermusic/evermusic-guide-player" >}}
 
-  {{< card icon="adjustments" title="Asetukset" subtitle="Mukauta Evermusicin ulkoasua, ominaisuuksia ja suorituskykyasetuksia." link="/docs/guide/evermusic/evermusic-guide-settings" >}}
+  {{< feature-card icon="adjustments" title="Asetukset" subtitle="Mukauta Evermusicin ulkoasua, ominaisuuksia ja suorituskykyasetuksia." link="/docs/guide/evermusic/evermusic-guide-settings" >}}
 
 {{< /cards >}}
 

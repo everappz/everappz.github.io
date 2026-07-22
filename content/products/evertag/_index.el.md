@@ -402,17 +402,17 @@ Dropbox, OneDrive, Box, MEGA, Yandex.Disk, MediaFire, pCloud, HiDrive.<br><br>
 </div>
 
 {{< cards >}}
-  {{< card icon="location-marker" title="Πλοήγηση" subtitle="Μάθετε πώς να πλοηγείστε εύκολα στην εφαρμογή μας χρησιμοποιώντας τη γραμμή καρτελών (για χρήστες iPhone) ή το αριστερό μενού (για χρήστες iPad και Mac)." link="/docs/guide/evertag/evertag-guide-navigation" >}}
+  {{< feature-card icon="location-marker" title="Πλοήγηση" subtitle="Μάθετε πώς να πλοηγείστε εύκολα στην εφαρμογή μας χρησιμοποιώντας τη γραμμή καρτελών (για χρήστες iPhone) ή το αριστερό μενού (για χρήστες iPad και Mac)." link="/docs/guide/evertag/evertag-guide-navigation" >}}
 
-  {{< card icon="cloud" title="Συνδέσεις" subtitle="Συνδέστε εύκολα όλους τους λογαριασμούς cloud σας με τα αρχεία ήχου σας. Μπορείτε ακόμα να επεξεργαστείτε τα online αρχεία σας με τον ενσωματωμένο διαχειριστή αρχείων." link="/docs/guide/evertag/evertag-guide-connections" >}}
+  {{< feature-card icon="cloud" title="Συνδέσεις" subtitle="Συνδέστε εύκολα όλους τους λογαριασμούς cloud σας με τα αρχεία ήχου σας. Μπορείτε ακόμα να επεξεργαστείτε τα online αρχεία σας με τον ενσωματωμένο διαχειριστή αρχείων." link="/docs/guide/evertag/evertag-guide-connections" >}}
 
-  {{< card icon="folder" title="Τοπικά αρχεία" subtitle="Προβολή και οργάνωση αρχείων αποθηκευμένων στον φάκελο Documents ή στη συσκευή σας. Χρησιμοποιήστε τον ενσωματωμένο διαχειριστή αρχείων." link="/docs/guide/evertag/evertag-guide-local-files" >}}
+  {{< feature-card icon="folder" title="Τοπικά αρχεία" subtitle="Προβολή και οργάνωση αρχείων αποθηκευμένων στον φάκελο Documents ή στη συσκευή σας. Χρησιμοποιήστε τον ενσωματωμένο διαχειριστή αρχείων." link="/docs/guide/evertag/evertag-guide-local-files" >}}
 
-  {{< card icon="pencil-alt" title="Επεξεργαστής ετικετών" subtitle="Εξειδικευτείτε στη διαχείριση μεταδεδομένων αρχείων ήχου. Μάθετε πώς να επεξεργάζεστε μεταδεδομένα, να αλλάζετε εξώφυλλα και να διαχειρίζεστε πολλά αρχεία ταυτόχρονα." link="/docs/guide/evertag/evertag-guide-tag-editor" >}}
+  {{< feature-card icon="pencil-alt" title="Επεξεργαστής ετικετών" subtitle="Εξειδικευτείτε στη διαχείριση μεταδεδομένων αρχείων ήχου. Μάθετε πώς να επεξεργάζεστε μεταδεδομένα, να αλλάζετε εξώφυλλα και να διαχειρίζεστε πολλά αρχεία ταυτόχρονα." link="/docs/guide/evertag/evertag-guide-tag-editor" >}}
 
-  {{< card icon="code" title="Αντιστοιχίσεις πεδίων ετικετών" subtitle="Εξερευνήστε την πλήρη λίστα πεδίων ετικετών ήχου που υποστηρίζονται, συμπεριλαμβανομένων εσωτερικών ονομάτων πεδίων και αντιστοιχίσεων." link="/docs/guide/evertag/evertag-tag-field-mappings" >}}
+  {{< feature-card icon="code" title="Αντιστοιχίσεις πεδίων ετικετών" subtitle="Εξερευνήστε την πλήρη λίστα πεδίων ετικετών ήχου που υποστηρίζονται, συμπεριλαμβανομένων εσωτερικών ονομάτων πεδίων και αντιστοιχίσεων." link="/docs/guide/evertag/evertag-tag-field-mappings" >}}
 
-  {{< card icon="adjustments" title="Ρυθμίσεις" subtitle="Ανακαλύψτε πώς να προσαρμόσετε την εμπειρία σας, να ρυθμίσετε την απόδοση και τις γλωσσικές προτιμήσεις σας." link="/docs/guide/evertag/evertag-guide-settings" >}}
+  {{< feature-card icon="adjustments" title="Ρυθμίσεις" subtitle="Ανακαλύψτε πώς να προσαρμόσετε την εμπειρία σας, να ρυθμίσετε την απόδοση και τις γλωσσικές προτιμήσεις σας." link="/docs/guide/evertag/evertag-guide-settings" >}}
 
 {{< /cards >}}
 

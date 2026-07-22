@@ -148,7 +148,7 @@ Evermusic هو مشغل موسيقى مجاني بدون اتصال بالإنت
 
 {{< cards cols="4">}}
 
-  {{< card 
+  {{< feature-card 
     icon="adjustments"
     image="/products/evermusic/screenshots/2048x2732/3.png" 
     title="معادل صوتي" 
@@ -157,7 +157,7 @@ Evermusic هو مشغل موسيقى مجاني بدون اتصال بالإنت
     subtitle="اضبط صوتك بدقة مع معادل صوتي على طراز iPod وإعدادات مسبقة قابلة للتخصيص ومكبر مسبق للحصول على أفضل تجربة استماع." 
   >}}
 
-  {{< card 
+  {{< feature-card 
     icon="annotation"
     image="/products/evermusic/screenshots/2048x2732/4.png"  
     title="عارض كلمات الأغاني" 
@@ -166,7 +166,7 @@ Evermusic هو مشغل موسيقى مجاني بدون اتصال بالإنت
     subtitle="اقرأ كلمات الأغاني المضمنة وتعليقات المسارات أثناء الاستماع. استمتع بكلمات الأغاني المتزامنة لتجربة موسيقية أكثر غمراً." 
   >}}
 
-  {{< card 
+  {{< feature-card 
     icon="collection"
     image="/products/evermusic/screenshots/2048x2732/5.png"  
     title="مدير قوائم التشغيل" 
@@ -175,7 +175,7 @@ Evermusic هو مشغل موسيقى مجاني بدون اتصال بالإنت
     subtitle="أنشئ ونظّم قوائم تشغيل مخصصة، وأعد ترتيب الأغاني، وصدّر إلى M3U، أو أرشفها كملفات ZIP للمشاركة أو النسخ الاحتياطي بسهولة." 
   >}}
 
-  {{< card 
+  {{< feature-card 
     icon="cloud"
     image="/products/evermusic/screenshots/2048x2732/6.png"  
     title="بث الموسيقى السحابي" 
@@ -184,7 +184,7 @@ Evermusic هو مشغل موسيقى مجاني بدون اتصال بالإنت
     subtitle="اربط أفضل منصات التخزين السحابي مثل Google Drive وDropbox وOneDrive لبث مجموعتك الموسيقية في أي وقت وأي مكان." 
   >}}
 
-  {{< card 
+  {{< feature-card 
     icon="duplicate"
     image="/products/evermusic/screenshots/2048x2732/9.png"  
     title="مدير الملفات" 
@@ -193,7 +193,7 @@ Evermusic هو مشغل موسيقى مجاني بدون اتصال بالإنت
     subtitle="أدر ملفاتك الصوتية بسهولة — أعد تسمية المسارات، ونظّم المجلدات، وانقل الموسيقى بين الأجهزة باستخدام الأدوات المدمجة." 
   >}} 
 
-  {{< card 
+  {{< feature-card 
     icon="sun"
     image="/products/evermusic/screenshots/2048x2732/10.png"  
     title="تخصيص التطبيق" 
@@ -218,41 +218,41 @@ Evermusic هو مشغل موسيقى مجاني بدون اتصال بالإنت
 
 {{< cards >}}
 
-  {{< card title="صيغ الصوت" subtitle="يدعم: mp3، m4a، flac، wav، aac، mp4، m3u، m3u8، m4b، m4p، aiff، ogg، mp2، ac3، wma والمزيد." icon="music-note" >}}
+  {{< feature-card title="صيغ الصوت" subtitle="يدعم: mp3، m4a، flac، wav، aac، mp4، m3u، m3u8، m4b، m4p، aiff، ogg، mp2، ac3، wma والمزيد." icon="music-note" >}}
 
-  {{< card title="الكتب الصوتية" subtitle="يتضمن إشارات مرجعية صوتية والتحكم في سرعة التشغيل واستئناف الموضع." icon="book-open" width="50">}}
+  {{< feature-card title="الكتب الصوتية" subtitle="يتضمن إشارات مرجعية صوتية والتحكم في سرعة التشغيل واستئناف الموضع." icon="book-open" width="50">}}
 
-  {{< card title="مزامنة تلقائية" subtitle="يزامن مكتبتك الموسيقية مع السحابة، منظمة حسب الفنان والألبوم والنوع." icon="refresh" >}}
+  {{< feature-card title="مزامنة تلقائية" subtitle="يزامن مكتبتك الموسيقية مع السحابة، منظمة حسب الفنان والألبوم والنوع." icon="refresh" >}}
 
-  {{< card title="مدير الملفات" subtitle="أدر الملفات بعمليات مثل النسخ والنقل وإعادة التسمية والحذف." icon="folder" >}}
+  {{< feature-card title="مدير الملفات" subtitle="أدر الملفات بعمليات مثل النسخ والنقل وإعادة التسمية والحذف." icon="folder" >}}
 
-  {{< card title="خدمات السحابة" subtitle="يدعم iCloud وGoogle Drive وDropbox وOneDrive وBox وMEGA وWD MyCloud Home وpCloud والمزيد." icon="cloud" >}}
+  {{< feature-card title="خدمات السحابة" subtitle="يدعم iCloud وGoogle Drive وDropbox وOneDrive وBox وMEGA وWD MyCloud Home وpCloud والمزيد." icon="cloud" >}}
 
-  {{< card title="التشغيل المتقاطع" subtitle="تبدأ الأغنية التالية قبل انتهاء الحالية لانتقالات سلسة." icon="switch-horizontal" >}}
+  {{< feature-card title="التشغيل المتقاطع" subtitle="تبدأ الأغنية التالية قبل انتهاء الحالية لانتقالات سلسة." icon="switch-horizontal" >}}
 
-  {{< card title="التشغيل بدون فجوات" subtitle="لا توقف بين الأغاني — مثالي للألبومات الحية والكلاسيكية والمفاهيمية." icon="volume-up" >}}
+  {{< feature-card title="التشغيل بدون فجوات" subtitle="لا توقف بين الأغاني — مثالي للألبومات الحية والكلاسيكية والمفاهيمية." icon="volume-up" >}}
 
-  {{< card title="معادل صوتي" subtitle="معادل قابل للتخصيص مع إعدادات مسبقة وتحكم يدوي ومكبر مسبق." icon="adjustments" >}}
+  {{< feature-card title="معادل صوتي" subtitle="معادل قابل للتخصيص مع إعدادات مسبقة وتحكم يدوي ومكبر مسبق." icon="adjustments" >}}
 
-  {{< card title="بحث متقدم" subtitle="ابحث عن ألبوماتك وفنانيك ومساراتك المفضلة بسرعة وسهولة." icon="search" >}}
+  {{< feature-card title="بحث متقدم" subtitle="ابحث عن ألبوماتك وفنانيك ومساراتك المفضلة بسرعة وسهولة." icon="search" >}}
 
-  {{< card title="الوصول للكمبيوتر" subtitle="اتصل عبر SMB أو WebDAV أو DLNA. انقل عبر مشاركة ملفات iTunes وWi-Fi." icon="desktop-computer" >}}
+  {{< feature-card title="الوصول للكمبيوتر" subtitle="اتصل عبر SMB أو WebDAV أو DLNA. انقل عبر مشاركة ملفات iTunes وWi-Fi." icon="desktop-computer" >}}
 
-  {{< card title="AirPlay وChromecast" subtitle="بث إلى أجهزة Apple TV وGoogle Chromecast لاسلكياً." icon="device-mobile" >}}
+  {{< feature-card title="AirPlay وChromecast" subtitle="بث إلى أجهزة Apple TV وGoogle Chromecast لاسلكياً." icon="device-mobile" >}}
 
-  {{< card title="قوائم التشغيل" subtitle="أنشئ وعدّل وأعد ترتيب وصدّر/استورد قوائم تشغيل M3U مع وضع عدم الاتصال." icon="collection" >}}
+  {{< feature-card title="قوائم التشغيل" subtitle="أنشئ وعدّل وأعد ترتيب وصدّر/استورد قوائم تشغيل M3U مع وضع عدم الاتصال." icon="collection" >}}
 
-  {{< card title="بطاقات ذاكرة USB" subtitle="شغّل الموسيقى مباشرة من بطاقات SD باستخدام قارئات خارجية مثل SanDisk iXpand." icon="inbox" >}}
+  {{< feature-card title="بطاقات ذاكرة USB" subtitle="شغّل الموسيقى مباشرة من بطاقات SD باستخدام قارئات خارجية مثل SanDisk iXpand." icon="inbox" >}}
 
-  {{< card title="وضع عدم الاتصال" subtitle="حمّل الألبومات وقوائم التشغيل أو خزّن المسارات المشغلة مؤخراً تلقائياً للاستماع بدون إنترنت." icon="download" >}}
+  {{< feature-card title="وضع عدم الاتصال" subtitle="حمّل الألبومات وقوائم التشغيل أو خزّن المسارات المشغلة مؤخراً تلقائياً للاستماع بدون إنترنت." icon="download" >}}
 
-  {{< card title="Apple CarPlay" subtitle="قد بأمان مع واجهة CarPlay مخصصة لتشغيل الموسيقى." icon="truck" >}}
+  {{< feature-card title="Apple CarPlay" subtitle="قد بأمان مع واجهة CarPlay مخصصة لتشغيل الموسيقى." icon="truck" >}}
 
-  {{< card title="محرر علامات ID3" subtitle="عدّل البيانات الوصفية التالفة أو المفقودة باستخدام محرر العلامات المدمج." icon="pencil-alt" >}}
+  {{< feature-card title="محرر علامات ID3" subtitle="عدّل البيانات الوصفية التالفة أو المفقودة باستخدام محرر العلامات المدمج." icon="pencil-alt" >}}
 
-  {{< card title="كلمات الأغاني والتعليقات" subtitle="اعرض كلمات الأغاني والتعليقات المضمنة أثناء الاستماع إلى موسيقاك." icon="annotation" >}}
+  {{< feature-card title="كلمات الأغاني والتعليقات" subtitle="اعرض كلمات الأغاني والتعليقات المضمنة أثناء الاستماع إلى موسيقاك." icon="annotation" >}}
 
-  {{< card title="Last.fm" subtitle="اربط حسابك على Last.fm للحصول على إحصائيات استماع مخصصة وتوصيات." icon="chart-bar" >}}
+  {{< feature-card title="Last.fm" subtitle="اربط حسابك على Last.fm للحصول على إحصائيات استماع مخصصة وتوصيات." icon="chart-bar" >}}
   
 {{< /cards >}}
 
@@ -704,19 +704,19 @@ mpeg, aifc, 3gp, avi, aif, latm, 3gpp, m4a, loas, cdda, aac, m4p, m4b, ac3, pls,
 </div>
 
 {{< cards >}}
-  {{< card icon="location-marker" title="التنقل" subtitle="تعلم كيفية التنقل في Evermusic باستخدام شريط علامات التبويب على أيفون أو القائمة اليسرى على آيباد وماك." link="/docs/guide/evermusic/evermusic-guide-navigation" >}}
+  {{< feature-card icon="location-marker" title="التنقل" subtitle="تعلم كيفية التنقل في Evermusic باستخدام شريط علامات التبويب على أيفون أو القائمة اليسرى على آيباد وماك." link="/docs/guide/evermusic/evermusic-guide-navigation" >}}
 
-  {{< card icon="cloud" title="الاتصالات" subtitle="اربط حساباتك السحابية وأدر الملفات عبر الإنترنت باستخدام مدير الملفات المدمج." link="/docs/guide/evermusic/evermusic-guide-connections" >}}
+  {{< feature-card icon="cloud" title="الاتصالات" subtitle="اربط حساباتك السحابية وأدر الملفات عبر الإنترنت باستخدام مدير الملفات المدمج." link="/docs/guide/evermusic/evermusic-guide-connections" >}}
 
-  {{< card icon="library" title="مكتبة الموسيقى" subtitle="نظّم واستكشف مساراتك وألبوماتك وفنانيك في مكتبة الموسيقى." link="/docs/guide/evermusic/evermusic-guide-music-library" >}}
+  {{< feature-card icon="library" title="مكتبة الموسيقى" subtitle="نظّم واستكشف مساراتك وألبوماتك وفنانيك في مكتبة الموسيقى." link="/docs/guide/evermusic/evermusic-guide-music-library" >}}
 
-  {{< card icon="collection" title="قوائم التشغيل" subtitle="أنشئ ورتّب قوائم التشغيل لتناسب مزاجك أو مناسبتك." link="/docs/guide/evermusic/evermusic-guide-playlists" >}}
+  {{< feature-card icon="collection" title="قوائم التشغيل" subtitle="أنشئ ورتّب قوائم التشغيل لتناسب مزاجك أو مناسبتك." link="/docs/guide/evermusic/evermusic-guide-playlists" >}}
 
-  {{< card icon="folder" title="الملفات المحلية" subtitle="الوصول وإدارة الموسيقى بدون اتصال من خلال قسم الملفات المحلية." link="/docs/guide/evermusic/evermusic-guide-local-files" >}}
+  {{< feature-card icon="folder" title="الملفات المحلية" subtitle="الوصول وإدارة الموسيقى بدون اتصال من خلال قسم الملفات المحلية." link="/docs/guide/evermusic/evermusic-guide-local-files" >}}
 
-  {{< card icon="play" title="مشغل الصوت" subtitle="تحكم في التشغيل والطابور وإعدادات الصوت مثل المعادل ومؤقت النوم." link="/docs/guide/evermusic/evermusic-guide-player" >}}
+  {{< feature-card icon="play" title="مشغل الصوت" subtitle="تحكم في التشغيل والطابور وإعدادات الصوت مثل المعادل ومؤقت النوم." link="/docs/guide/evermusic/evermusic-guide-player" >}}
 
-  {{< card icon="adjustments" title="الإعدادات" subtitle="خصّص مظهر Evermusic وميزاته وإعدادات الأداء." link="/docs/guide/evermusic/evermusic-guide-settings" >}}
+  {{< feature-card icon="adjustments" title="الإعدادات" subtitle="خصّص مظهر Evermusic وميزاته وإعدادات الأداء." link="/docs/guide/evermusic/evermusic-guide-settings" >}}
 
 {{< /cards >}}
 

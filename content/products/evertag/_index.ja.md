@@ -491,17 +491,17 @@ Dropbox、OneDrive、Box、MEGA、Yandex.Disk、MediaFire、pCloud、HiDrive。<
 </div>
 
 {{< cards >}}
-  {{< card icon="location-marker" title="ナビゲーション" subtitle="Tab Bar（iPhoneユーザー向け）またはLeft Menu（iPadおよびMacユーザー向け）を使用して、アプリのすべての機能にアクセスし探索するための簡単なナビゲーション方法を学びましょう。" link="/docs/guide/evertag/evertag-guide-navigation" >}}
+  {{< feature-card icon="location-marker" title="ナビゲーション" subtitle="Tab Bar（iPhoneユーザー向け）またはLeft Menu（iPadおよびMacユーザー向け）を使用して、アプリのすべての機能にアクセスし探索するための簡単なナビゲーション方法を学びましょう。" link="/docs/guide/evertag/evertag-guide-navigation" >}}
 
-  {{< card icon="cloud" title="接続" subtitle="利用可能なすべてのクラウドアカウントと大切なオーディオファイルを簡単にリンクしましょう。統合されたファイルマネージャーを使用してオンラインファイルの編集も簡単に行えます。" link="/docs/guide/evertag/evertag-guide-connections" >}}
+  {{< feature-card icon="cloud" title="接続" subtitle="利用可能なすべてのクラウドアカウントと大切なオーディオファイルを簡単にリンクしましょう。統合されたファイルマネージャーを使用してオンラインファイルの編集も簡単に行えます。" link="/docs/guide/evertag/evertag-guide-connections" >}}
 
-  {{< card icon="folder" title="ローカルファイル" subtitle="アプリのDocumentsフォルダまたはデバイスに保存されているファイルを表示・整理します。内蔵ファイルマネージャーを使用して、オーディオファイルの編集と管理を簡単に行えます。" link="/docs/guide/evertag/evertag-guide-local-files" >}}
+  {{< feature-card icon="folder" title="ローカルファイル" subtitle="アプリのDocumentsフォルダまたはデバイスに保存されているファイルを表示・整理します。内蔵ファイルマネージャーを使用して、オーディオファイルの編集と管理を簡単に行えます。" link="/docs/guide/evertag/evertag-guide-local-files" >}}
 
-  {{< card icon="pencil-alt" title="タグエディタ" subtitle="オーディオファイルメタデータ操作の技術を習得しましょう。メタデータの編集方法、アルバムカバーの変更方法、複数ファイルの同時管理方法をシームレスに学べます。" link="/docs/guide/evertag/evertag-guide-tag-editor" >}}
+  {{< feature-card icon="pencil-alt" title="タグエディタ" subtitle="オーディオファイルメタデータ操作の技術を習得しましょう。メタデータの編集方法、アルバムカバーの変更方法、複数ファイルの同時管理方法をシームレスに学べます。" link="/docs/guide/evertag/evertag-guide-tag-editor" >}}
 
-  {{< card icon="code" title="タグフィールドマッピング" subtitle="Evertag アプリがサポートするオーディオタグフィールドの完全なリストを探索しましょう。内部フィールド名と主要メタデータフォーマット間のマッピングを含みます。" link="/docs/guide/evertag/evertag-tag-field-mappings" >}}
+  {{< feature-card icon="code" title="タグフィールドマッピング" subtitle="Evertag アプリがサポートするオーディオタグフィールドの完全なリストを探索しましょう。内部フィールド名と主要メタデータフォーマット間のマッピングを含みます。" link="/docs/guide/evertag/evertag-tag-field-mappings" >}}
 
-  {{< card icon="adjustments" title="設定" subtitle="アプリ体験のカスタマイズ方法、パフォーマンスの微調整、データ使用量の管理、言語やユーザーインターフェースの設定を好みに合わせて調整する方法を紹介します。" link="/docs/guide/evertag/evertag-guide-settings" >}}
+  {{< feature-card icon="adjustments" title="設定" subtitle="アプリ体験のカスタマイズ方法、パフォーマンスの微調整、データ使用量の管理、言語やユーザーインターフェースの設定を好みに合わせて調整する方法を紹介します。" link="/docs/guide/evertag/evertag-guide-settings" >}}
 
 {{< /cards >}}
 

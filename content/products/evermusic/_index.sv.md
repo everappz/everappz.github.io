@@ -148,7 +148,7 @@ Evermusic är en gratis offline-musikspelare för iPhone och Mac, utvecklad av E
 
 {{< cards cols="4">}}
 
-  {{< card 
+  {{< feature-card 
     icon="adjustments"
     image="/products/evermusic/screenshots/2048x2732/3.png" 
     title="Ljudequalizer" 
@@ -157,7 +157,7 @@ Evermusic är en gratis offline-musikspelare för iPhone och Mac, utvecklad av E
     subtitle="Finjustera ditt ljud med en iPod-liknande ljudequalizer, anpassningsbara förinställningar och förförstärkarförstärkning för bästa lyssningsupplevelse." 
   >}}
 
-  {{< card 
+  {{< feature-card 
     icon="annotation"
     image="/products/evermusic/screenshots/2048x2732/4.png"  
     title="Texttittare" 
@@ -166,7 +166,7 @@ Evermusic är en gratis offline-musikspelare för iPhone och Mac, utvecklad av E
     subtitle="Läs inbäddade låttexter och spårkommentarer medan du lyssnar. Njut av synkroniserade texter för en mer engagerande musikupplevelse." 
   >}}
 
-  {{< card 
+  {{< feature-card 
     icon="collection"
     image="/products/evermusic/screenshots/2048x2732/5.png"  
     title="Spellisthanterare" 
@@ -175,7 +175,7 @@ Evermusic är en gratis offline-musikspelare för iPhone och Mac, utvecklad av E
     subtitle="Skapa och organisera anpassade spellistor, ändra ordning på låtar, exportera till M3U eller arkivera som ZIP-filer för enkel delning eller säkerhetskopiering." 
   >}}
 
-  {{< card 
+  {{< feature-card 
     icon="cloud"
     image="/products/evermusic/screenshots/2048x2732/6.png"  
     title="Molnmusikströmning" 
@@ -184,7 +184,7 @@ Evermusic är en gratis offline-musikspelare för iPhone och Mac, utvecklad av E
     subtitle="Anslut populära molnlagringsplattformar som Google Drive, Dropbox och OneDrive för att strömma din musiksamling när som helst, var som helst." 
   >}}
 
-  {{< card 
+  {{< feature-card 
     icon="duplicate"
     image="/products/evermusic/screenshots/2048x2732/9.png"  
     title="Filhanterare" 
@@ -193,7 +193,7 @@ Evermusic är en gratis offline-musikspelare för iPhone och Mac, utvecklad av E
     subtitle="Hantera enkelt dina ljudfiler — byt namn på spår, organisera mappar och överför musik mellan enheter med inbyggda verktyg." 
   >}} 
 
-  {{< card 
+  {{< feature-card 
     icon="sun"
     image="/products/evermusic/screenshots/2048x2732/10.png"  
     title="Appanpassning" 
@@ -218,41 +218,41 @@ Evermusic är en gratis offline-musikspelare för iPhone och Mac, utvecklad av E
 
 {{< cards >}}
 
-  {{< card title="Ljudformat" subtitle="Stöder: mp3, m4a, flac, wav, aac, mp4, m3u, m3u8, m4b, m4p, aiff, ogg, mp2, ac3, wma och mer." icon="music-note" >}}
+  {{< feature-card title="Ljudformat" subtitle="Stöder: mp3, m4a, flac, wav, aac, mp4, m3u, m3u8, m4b, m4p, aiff, ogg, mp2, ac3, wma och mer." icon="music-note" >}}
 
-  {{< card title="Ljudböcker" subtitle="Inkluderar ljudbokmärken, uppspelningshastighetskontroll och återupptagning av position." icon="book-open" width="50">}}
+  {{< feature-card title="Ljudböcker" subtitle="Inkluderar ljudbokmärken, uppspelningshastighetskontroll och återupptagning av position." icon="book-open" width="50">}}
 
-  {{< card title="Automatisk synkronisering" subtitle="Synkroniserar ditt musikbibliotek med molnet, organiserat efter artist, album och genre." icon="refresh" >}}
+  {{< feature-card title="Automatisk synkronisering" subtitle="Synkroniserar ditt musikbibliotek med molnet, organiserat efter artist, album och genre." icon="refresh" >}}
 
-  {{< card title="Filhanterare" subtitle="Hantera filer med operationer som kopiera, flytta, byta namn och radera." icon="folder" >}}
+  {{< feature-card title="Filhanterare" subtitle="Hantera filer med operationer som kopiera, flytta, byta namn och radera." icon="folder" >}}
 
-  {{< card title="Molntjänster" subtitle="Stöder iCloud, Google Drive, Dropbox, OneDrive, Box, MEGA, WD MyCloud Home, pCloud och mer." icon="cloud" >}}
+  {{< feature-card title="Molntjänster" subtitle="Stöder iCloud, Google Drive, Dropbox, OneDrive, Box, MEGA, WD MyCloud Home, pCloud och mer." icon="cloud" >}}
 
-  {{< card title="Crossfade-uppspelning" subtitle="Nästa låt börjar innan den nuvarande slutar för sömlösa övergångar." icon="switch-horizontal" >}}
+  {{< feature-card title="Crossfade-uppspelning" subtitle="Nästa låt börjar innan den nuvarande slutar för sömlösa övergångar." icon="switch-horizontal" >}}
 
-  {{< card title="Sömlös uppspelning" subtitle="Inga pauser mellan låtar — perfekt för live-, klassiska eller konceptalbum." icon="volume-up" >}}
+  {{< feature-card title="Sömlös uppspelning" subtitle="Inga pauser mellan låtar — perfekt för live-, klassiska eller konceptalbum." icon="volume-up" >}}
 
-  {{< card title="Ljudequalizer" subtitle="Anpassningsbar equalizer med förinställningar, manuell kontroll och förförstärkarförstärkning." icon="adjustments" >}}
+  {{< feature-card title="Ljudequalizer" subtitle="Anpassningsbar equalizer med förinställningar, manuell kontroll och förförstärkarförstärkning." icon="adjustments" >}}
 
-  {{< card title="Avancerad sökning" subtitle="Hitta dina favoritalbum, artister och spår snabbt och enkelt." icon="search" >}}
+  {{< feature-card title="Avancerad sökning" subtitle="Hitta dina favoritalbum, artister och spår snabbt och enkelt." icon="search" >}}
 
-  {{< card title="Datoråtkomst" subtitle="Anslut via SMB, WebDAV eller DLNA. Överför via iTunes File Sharing och Wi-Fi." icon="desktop-computer" >}}
+  {{< feature-card title="Datoråtkomst" subtitle="Anslut via SMB, WebDAV eller DLNA. Överför via iTunes File Sharing och Wi-Fi." icon="desktop-computer" >}}
 
-  {{< card title="AirPlay och Chromecast" subtitle="Strömma trådlöst till Apple TV och Google Chromecast-enheter." icon="device-mobile" >}}
+  {{< feature-card title="AirPlay och Chromecast" subtitle="Strömma trådlöst till Apple TV och Google Chromecast-enheter." icon="device-mobile" >}}
 
-  {{< card title="Spellistor" subtitle="Skapa, redigera, ändra ordning och exportera/importera M3U-spellistor med offline-läge." icon="collection" >}}
+  {{< feature-card title="Spellistor" subtitle="Skapa, redigera, ändra ordning och exportera/importera M3U-spellistor med offline-läge." icon="collection" >}}
 
-  {{< card title="USB-minnen" subtitle="Spela musik direkt från SD-kort med externa läsare som SanDisk iXpand." icon="inbox" >}}
+  {{< feature-card title="USB-minnen" subtitle="Spela musik direkt från SD-kort med externa läsare som SanDisk iXpand." icon="inbox" >}}
 
-  {{< card title="Offline-läge" subtitle="Ladda ner album och spellistor eller auto-cacha nyligen spelade spår för offline-lyssning." icon="download" >}}
+  {{< feature-card title="Offline-läge" subtitle="Ladda ner album och spellistor eller auto-cacha nyligen spelade spår för offline-lyssning." icon="download" >}}
 
-  {{< card title="Apple CarPlay" subtitle="Kör säkert med ett dedikerat CarPlay-gränssnitt för musikuppspelning." icon="truck" >}}
+  {{< feature-card title="Apple CarPlay" subtitle="Kör säkert med ett dedikerat CarPlay-gränssnitt för musikuppspelning." icon="truck" >}}
 
-  {{< card title="ID3-taggredigerare" subtitle="Redigera korrupt eller saknad metadata med den inbyggda taggredigeraren." icon="pencil-alt" >}}
+  {{< feature-card title="ID3-taggredigerare" subtitle="Redigera korrupt eller saknad metadata med den inbyggda taggredigeraren." icon="pencil-alt" >}}
 
-  {{< card title="Texter och kommentarer" subtitle="Visa inbäddade låttexter och kommentarer medan du lyssnar på musik." icon="annotation" >}}
+  {{< feature-card title="Texter och kommentarer" subtitle="Visa inbäddade låttexter och kommentarer medan du lyssnar på musik." icon="annotation" >}}
 
-  {{< card title="Last.fm" subtitle="Anslut ditt Last.fm-konto för att få personlig lyssningsstatistik och rekommendationer." icon="chart-bar" >}}
+  {{< feature-card title="Last.fm" subtitle="Anslut ditt Last.fm-konto för att få personlig lyssningsstatistik och rekommendationer." icon="chart-bar" >}}
   
 {{< /cards >}}
 
@@ -704,19 +704,19 @@ Med detta breda utbud av format och filändelser kan du njuta av din musik i det
 </div>
 
 {{< cards >}}
-  {{< card icon="location-marker" title="Navigering" subtitle="Lär dig navigera i Evermusic med flikfältet på iPhone eller vänstermenyn på iPad och Mac." link="/docs/guide/evermusic/evermusic-guide-navigation" >}}
+  {{< feature-card icon="location-marker" title="Navigering" subtitle="Lär dig navigera i Evermusic med flikfältet på iPhone eller vänstermenyn på iPad och Mac." link="/docs/guide/evermusic/evermusic-guide-navigation" >}}
 
-  {{< card icon="cloud" title="Anslutningar" subtitle="Anslut dina molnkonton och hantera onlinefiler med den inbyggda filhanteraren." link="/docs/guide/evermusic/evermusic-guide-connections" >}}
+  {{< feature-card icon="cloud" title="Anslutningar" subtitle="Anslut dina molnkonton och hantera onlinefiler med den inbyggda filhanteraren." link="/docs/guide/evermusic/evermusic-guide-connections" >}}
 
-  {{< card icon="library" title="Musikbibliotek" subtitle="Organisera och utforska dina spår, album och artister i Musikbiblioteket." link="/docs/guide/evermusic/evermusic-guide-music-library" >}}
+  {{< feature-card icon="library" title="Musikbibliotek" subtitle="Organisera och utforska dina spår, album och artister i Musikbiblioteket." link="/docs/guide/evermusic/evermusic-guide-music-library" >}}
 
-  {{< card icon="collection" title="Spellistor" subtitle="Skapa och arrangera spellistor som passar ditt humör eller tillfälle." link="/docs/guide/evermusic/evermusic-guide-playlists" >}}
+  {{< feature-card icon="collection" title="Spellistor" subtitle="Skapa och arrangera spellistor som passar ditt humör eller tillfälle." link="/docs/guide/evermusic/evermusic-guide-playlists" >}}
 
-  {{< card icon="folder" title="Lokala filer" subtitle="Åtkomst och hantera offline-musik genom avsnittet Lokala filer." link="/docs/guide/evermusic/evermusic-guide-local-files" >}}
+  {{< feature-card icon="folder" title="Lokala filer" subtitle="Åtkomst och hantera offline-musik genom avsnittet Lokala filer." link="/docs/guide/evermusic/evermusic-guide-local-files" >}}
 
-  {{< card icon="play" title="Ljudspelare" subtitle="Styr uppspelning, kö och ljudinställningar som equalizer och sömntimer." link="/docs/guide/evermusic/evermusic-guide-player" >}}
+  {{< feature-card icon="play" title="Ljudspelare" subtitle="Styr uppspelning, kö och ljudinställningar som equalizer och sömntimer." link="/docs/guide/evermusic/evermusic-guide-player" >}}
 
-  {{< card icon="adjustments" title="Inställningar" subtitle="Anpassa Evermusics utseende, funktioner och prestandainställningar." link="/docs/guide/evermusic/evermusic-guide-settings" >}}
+  {{< feature-card icon="adjustments" title="Inställningar" subtitle="Anpassa Evermusics utseende, funktioner och prestandainställningar." link="/docs/guide/evermusic/evermusic-guide-settings" >}}
 
 {{< /cards >}}
 

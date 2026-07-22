@@ -144,35 +144,35 @@ Wszystkie funkcje
 
 {{< cards >}}
 
-{{< card title="Odtwarzaj wszystkie formaty wideo i audio" subtitle="Oglądaj media bez konwertowania plików. Evervideo obsługuje wszystkie główne formaty, w tym MKV, AVI, MP4, MOV, FLAC, MP3, AAC, OGG, WAV, WMV i wiele więcej." icon="film">}}
+{{< feature-card title="Odtwarzaj wszystkie formaty wideo i audio" subtitle="Oglądaj media bez konwertowania plików. Evervideo obsługuje wszystkie główne formaty, w tym MKV, AVI, MP4, MOV, FLAC, MP3, AAC, OGG, WAV, WMV i wiele więcej." icon="film">}}
 
-{{< card title="Tryb offline" subtitle="Pobieraj filmy, albumy i playlisty, aby oglądać bez połączenia z internetem. Zabierz całą kolekcję wideo w dowolne miejsce." icon="download">}}
+{{< feature-card title="Tryb offline" subtitle="Pobieraj filmy, albumy i playlisty, aby oglądać bez połączenia z internetem. Zabierz całą kolekcję wideo w dowolne miejsce." icon="download">}}
 
-{{< card title="Wideo 360° i tryb VR" subtitle="Oglądaj filmy 360° i VR w zabawny i łatwy sposób. Poruszaj telefonem, aby rozglądać się w każdym kierunku, lub włóż go do zestawu VR, aby poczuć się jak wewnątrz filmu." icon="video-camera">}}
+{{< feature-card title="Wideo 360° i tryb VR" subtitle="Oglądaj filmy 360° i VR w zabawny i łatwy sposób. Poruszaj telefonem, aby rozglądać się w każdym kierunku, lub włóż go do zestawu VR, aby poczuć się jak wewnątrz filmu." icon="video-camera">}}
 
-{{< card title="Obraz w obrazie" subtitle="Kontynuuj oglądanie filmów w małym pływającym oknie podczas korzystania z innych aplikacji. Kontroluj odtwarzanie i oglądaj napisy jednocześnie – idealne do wielozadaniowości." icon="duplicate">}}
+{{< feature-card title="Obraz w obrazie" subtitle="Kontynuuj oglądanie filmów w małym pływającym oknie podczas korzystania z innych aplikacji. Kontroluj odtwarzanie i oglądaj napisy jednocześnie – idealne do wielozadaniowości." icon="duplicate">}}
 
-{{< card title="Korektor wideo i audio" subtitle="Dostosuj wygląd i brzmienie swoich filmów. Reguluj basy, tonację, jasność, gammę, nasycenie, kontrast i wiele więcej. Wybierz z ponad 50 presetów wideo i ponad 20 presetów audio lub utwórz własne." icon="adjustments">}}
+{{< feature-card title="Korektor wideo i audio" subtitle="Dostosuj wygląd i brzmienie swoich filmów. Reguluj basy, tonację, jasność, gammę, nasycenie, kontrast i wiele więcej. Wybierz z ponad 50 presetów wideo i ponad 20 presetów audio lub utwórz własne." icon="adjustments">}}
 
-{{< card title="Napisy" subtitle="Przeglądaj wbudowane napisy, wybieraj numer ścieżki napisów i korzystaj z pełnej obsługi napisów nawet w trybie Obraz w obrazie." icon="annotation" >}}
+{{< feature-card title="Napisy" subtitle="Przeglądaj wbudowane napisy, wybieraj numer ścieżki napisów i korzystaj z pełnej obsługi napisów nawet w trybie Obraz w obrazie." icon="annotation" >}}
 
-{{< card title="Odtwarzaj bezpośrednio z chmury" subtitle="Oglądaj filmy bezpośrednio z chmury bez wykorzystywania przestrzeni na urządzeniu. Obsługuje iCloud Drive, Google Drive, Dropbox, OneDrive, MEGA, Synology Drive, pCloud i wiele więcej." icon="cloud">}}
+{{< feature-card title="Odtwarzaj bezpośrednio z chmury" subtitle="Oglądaj filmy bezpośrednio z chmury bez wykorzystywania przestrzeni na urządzeniu. Obsługuje iCloud Drive, Google Drive, Dropbox, OneDrive, MEGA, Synology Drive, pCloud i wiele więcej." icon="cloud">}}
 
-{{< card title="Połącz komputer / NAS" subtitle="Łatwo połącz NAS, Mac lub PC przez sieć domową za pomocą SMB, WebDAV lub DLNA. Dostęp zdalny jest obsługiwany dla Synology Drive i WD MyCloud Home. Przesyłaj pliki multimedialne na urządzenie przez Wi-Fi lub Udostępnianie plików iTunes." icon="desktop-computer">}}
+{{< feature-card title="Połącz komputer / NAS" subtitle="Łatwo połącz NAS, Mac lub PC przez sieć domową za pomocą SMB, WebDAV lub DLNA. Dostęp zdalny jest obsługiwany dla Synology Drive i WD MyCloud Home. Przesyłaj pliki multimedialne na urządzenie przez Wi-Fi lub Udostępnianie plików iTunes." icon="desktop-computer">}}
 
-{{< card title="Biblioteka mediów" subtitle="Organizuj według albumu, gatunku lub czasu trwania. Automatyczna synchronizacja ze zmianami w chmurze. Twórz, edytuj i eksportuj playlisty M3U z niestandardowym sortowaniem." icon="library" >}}
+{{< feature-card title="Biblioteka mediów" subtitle="Organizuj według albumu, gatunku lub czasu trwania. Automatyczna synchronizacja ze zmianami w chmurze. Twórz, edytuj i eksportuj playlisty M3U z niestandardowym sortowaniem." icon="library" >}}
 
-{{< card title="Zakładki i zapisywanie pozycji odtwarzania" subtitle="Zapisuj swoje miejsce w dowolnym filmie za pomocą zakładek i wznawiaj odtwarzanie od miejsca, w którym skończyłeś. Dostosowuj prędkość odtwarzania, oznaczaj ulubione i sortuj filmy według najczęściej odtwarzanych dla łatwego dostępu." icon="book-open">}}
+{{< feature-card title="Zakładki i zapisywanie pozycji odtwarzania" subtitle="Zapisuj swoje miejsce w dowolnym filmie za pomocą zakładek i wznawiaj odtwarzanie od miejsca, w którym skończyłeś. Dostosowuj prędkość odtwarzania, oznaczaj ulubione i sortuj filmy według najczęściej odtwarzanych dla łatwego dostępu." icon="book-open">}}
 
-{{< card title="AirPlay i Chromecast" subtitle="Odtwarzaj filmy na większym ekranie, przesyłając strumieniowo do Apple TV, Chromecast lub dowolnego kompatybilnego wyświetlacza zewnętrznego." icon="device-mobile">}}
+{{< feature-card title="AirPlay i Chromecast" subtitle="Odtwarzaj filmy na większym ekranie, przesyłając strumieniowo do Apple TV, Chromecast lub dowolnego kompatybilnego wyświetlacza zewnętrznego." icon="device-mobile">}}
 
-{{< card title="Importuj z Plików i Bibliotek" subtitle="Importuj filmy bezpośrednio z aplikacji Pliki, Zdjęcia lub biblioteki iTunes. Uzyskaj dostęp do całej zawartości lokalnej i w chmurze w jednej zorganizowanej bibliotece mediów." icon="database">}}
+{{< feature-card title="Importuj z Plików i Bibliotek" subtitle="Importuj filmy bezpośrednio z aplikacji Pliki, Zdjęcia lub biblioteki iTunes. Uzyskaj dostęp do całej zawartości lokalnej i w chmurze w jednej zorganizowanej bibliotece mediów." icon="database">}}
 
-{{< card title="Menedżer plików" subtitle="Przenoś, zmieniaj nazwy, usuwaj i organizuj pliki bezpośrednio w aplikacji." icon="folder">}}
+{{< feature-card title="Menedżer plików" subtitle="Przenoś, zmieniaj nazwy, usuwaj i organizuj pliki bezpośrednio w aplikacji." icon="folder">}}
 
-{{< card title="Personalizacja" subtitle="Dostosuj aplikację do swoich preferencji. Wybieraj motywy, pokazuj lub ukrywaj funkcje i dostosowuj interfejs do swoich potrzeb." icon="sun">}}
+{{< feature-card title="Personalizacja" subtitle="Dostosuj aplikację do swoich preferencji. Wybieraj motywy, pokazuj lub ukrywaj funkcje i dostosowuj interfejs do swoich potrzeb." icon="sun">}}
 
-{{< card title="Inteligentne wyszukiwanie" subtitle="Szybko znajdź filmy, albumy lub playlisty w bibliotece mediów za pomocą słów kluczowych lub filtrów." icon="search" >}}
+{{< feature-card title="Inteligentne wyszukiwanie" subtitle="Szybko znajdź filmy, albumy lub playlisty w bibliotece mediów za pomocą słów kluczowych lub filtrów." icon="search" >}}
 
 
 
@@ -192,7 +192,7 @@ Intuicyjny design
 
 {{< cards cols="4">}}
 
-  {{< card 
+  {{< feature-card 
     image="/products/evervideo/screenshots/2880x1800/1.png" 
     title="Odtwarzacz wideo" 
     method="Fill"
@@ -201,7 +201,7 @@ Intuicyjny design
     icon="play"
   >}}
 
-  {{< card 
+  {{< feature-card 
     image="/products/evervideo/screenshots/2880x1800/3.png" 
     title="Korektor audio i wideo" 
     method="Fill"
@@ -210,7 +210,7 @@ Intuicyjny design
     icon="adjustments"
   >}}
 
-  {{< card 
+  {{< feature-card 
     image="/products/evervideo/screenshots/2880x1800/6.png" 
     title="Menedżer playlist" 
     method="Fill"
@@ -219,7 +219,7 @@ Intuicyjny design
     icon="collection"
   >}}
 
-  {{< card 
+  {{< feature-card 
     image="/products/evervideo/screenshots/2880x1800/5.png" 
     title="Biblioteka mediów" 
     method="Fill"
@@ -228,7 +228,7 @@ Intuicyjny design
     icon="library"
   >}}
 
-  {{< card 
+  {{< feature-card 
     image="/products/evervideo/screenshots/2880x1800/7.png"  
     title="Chmura" 
     method="Fill"
@@ -237,7 +237,7 @@ Intuicyjny design
     icon="cloud"
   >}}
 
-  {{< card 
+  {{< feature-card 
     image="/products/evervideo/screenshots/2880x1800/9.png"  
     title="Menedżer plików" 
     method="Fill"
@@ -656,17 +656,17 @@ Uwaga: Upewnij się, że JavaScript jest włączony i używasz najnowszej wersji
 </div>
 
 {{< cards >}}
-  {{< card icon="location-marker" title="Nawigacja" subtitle="Naucz się poruszać po Evervideo za pomocą paska kart na iPhonie lub lewego menu na iPadzie i Macu, a także kompaktowego, zawsze widocznego odtwarzacza wideo." link="/docs/guide/evervideo/evervideo-guide-navigation" >}}
+  {{< feature-card icon="location-marker" title="Nawigacja" subtitle="Naucz się poruszać po Evervideo za pomocą paska kart na iPhonie lub lewego menu na iPadzie i Macu, a także kompaktowego, zawsze widocznego odtwarzacza wideo." link="/docs/guide/evervideo/evervideo-guide-navigation" >}}
 
-  {{< card icon="folder" title="Pliki" subtitle="Połącz konta w chmurze, udziały NAS, serwery multimedialne (Plex, Jellyfin, Emby, Subsonic, Navidrome), strumienie RTSP i pliki lokalne w jednej ujednoliconej karcie." link="/docs/guide/evervideo/evervideo-guide-files" >}}
+  {{< feature-card icon="folder" title="Pliki" subtitle="Połącz konta w chmurze, udziały NAS, serwery multimedialne (Plex, Jellyfin, Emby, Subsonic, Navidrome), strumienie RTSP i pliki lokalne w jednej ujednoliconej karcie." link="/docs/guide/evervideo/evervideo-guide-files" >}}
 
-  {{< card icon="library" title="Biblioteka multimediów" subtitle="Organizuj i przeglądaj wideo i muzykę według albumów, gatunków, ostatnio odtwarzanych i ulubionych — w tym bibliotekę Zdjęć iOS i bibliotekę Apple Music." link="/docs/guide/evervideo/evervideo-guide-video-library" >}}
+  {{< feature-card icon="library" title="Biblioteka multimediów" subtitle="Organizuj i przeglądaj wideo i muzykę według albumów, gatunków, ostatnio odtwarzanych i ulubionych — w tym bibliotekę Zdjęć iOS i bibliotekę Apple Music." link="/docs/guide/evervideo/evervideo-guide-video-library" >}}
 
-  {{< card icon="collection" title="Listy odtwarzania" subtitle="Twórz i organizuj listy odtwarzania dla wideo, muzyki, seriali lub kursów oraz importuj pliki M3U / M3U8 / CUE." link="/docs/guide/evervideo/evervideo-guide-playlists" >}}
+  {{< feature-card icon="collection" title="Listy odtwarzania" subtitle="Twórz i organizuj listy odtwarzania dla wideo, muzyki, seriali lub kursów oraz importuj pliki M3U / M3U8 / CUE." link="/docs/guide/evervideo/evervideo-guide-playlists" >}}
 
-  {{< card icon="play" title="Odtwarzacz multimediów" subtitle="Steruj odtwarzaniem, kolejką, obrazem w obrazie, ścieżkami audio i wideo, napisami głównymi i drugorzędnymi oraz korektorami audio i wideo." link="/docs/guide/evervideo/evervideo-guide-player" >}}
+  {{< feature-card icon="play" title="Odtwarzacz multimediów" subtitle="Steruj odtwarzaniem, kolejką, obrazem w obrazie, ścieżkami audio i wideo, napisami głównymi i drugorzędnymi oraz korektorami audio i wideo." link="/docs/guide/evervideo/evervideo-guide-player" >}}
 
-  {{< card icon="adjustments" title="Ustawienia" subtitle="Dostosuj wygląd, dekoder, korektory, napisy, widżety, język, kod dostępu, kopię zapasową i ustawienia wydajności Evervideo." link="/docs/guide/evervideo/evervideo-guide-settings" >}}
+  {{< feature-card icon="adjustments" title="Ustawienia" subtitle="Dostosuj wygląd, dekoder, korektory, napisy, widżety, język, kod dostępu, kopię zapasową i ustawienia wydajności Evervideo." link="/docs/guide/evervideo/evervideo-guide-settings" >}}
 
 {{< /cards >}}
 

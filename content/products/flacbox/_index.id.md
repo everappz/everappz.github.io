@@ -127,29 +127,29 @@ Fitur Lengkap
 
 {{< cards >}}
 
-  {{< card title="Dukungan Audio Lossless" subtitle="Putar FLAC, ALAC, WAV, APE, DFF, WV, AIFF, dan banyak format berkualitas tinggi lainnya." icon="music-note" >}}
-  {{< card title="Mode Offline" subtitle="Unduh album, playlist, dan lagu untuk pemutaran offline kapan saja." icon="download" >}}
-  {{< card title="Manajemen File" subtitle="Salin, pindahkan, ganti nama, dan hapus file dengan mudah di dalam aplikasi." icon="folder" >}}
+  {{< feature-card title="Dukungan Audio Lossless" subtitle="Putar FLAC, ALAC, WAV, APE, DFF, WV, AIFF, dan banyak format berkualitas tinggi lainnya." icon="music-note" >}}
+  {{< feature-card title="Mode Offline" subtitle="Unduh album, playlist, dan lagu untuk pemutaran offline kapan saja." icon="download" >}}
+  {{< feature-card title="Manajemen File" subtitle="Salin, pindahkan, ganti nama, dan hapus file dengan mudah di dalam aplikasi." icon="folder" >}}
 
-  {{< card title="Playlist Kustom" subtitle="Buat, edit, susun ulang playlist, dan ekspor atau impor file M3U." icon="collection" >}}
-  {{< card title="Pustaka Media" subtitle="Tambahkan musik dan atur berdasarkan album, artis, dan genre menggunakan tag." icon="library" >}}
-  {{< card title="Pencarian Lanjutan" subtitle="Temukan lagu, artis, atau album dengan cepat menggunakan alat pencarian pintar." icon="search" >}}
+  {{< feature-card title="Playlist Kustom" subtitle="Buat, edit, susun ulang playlist, dan ekspor atau impor file M3U." icon="collection" >}}
+  {{< feature-card title="Pustaka Media" subtitle="Tambahkan musik dan atur berdasarkan album, artis, dan genre menggunakan tag." icon="library" >}}
+  {{< feature-card title="Pencarian Lanjutan" subtitle="Temukan lagu, artis, atau album dengan cepat menggunakan alat pencarian pintar." icon="search" >}}
 
-  {{< card title="Streaming Cloud" subtitle="Streaming dari Google Drive, Dropbox, OneDrive, iCloud, MEGA, dan lainnya." icon="cloud" >}}
-  {{< card title="Akses NAS & Komputer" subtitle="Hubungkan melalui SMB, DLNA, atau WebDAV. Transfer dengan iTunes atau Wi-Fi." icon="desktop-computer" >}}
-  {{< card title="Kartu Flash USB" subtitle="Putar musik langsung dari kartu SD menggunakan adaptor USB seperti iXpand." icon="inbox" >}}
+  {{< feature-card title="Streaming Cloud" subtitle="Streaming dari Google Drive, Dropbox, OneDrive, iCloud, MEGA, dan lainnya." icon="cloud" >}}
+  {{< feature-card title="Akses NAS & Komputer" subtitle="Hubungkan melalui SMB, DLNA, atau WebDAV. Transfer dengan iTunes atau Wi-Fi." icon="desktop-computer" >}}
+  {{< feature-card title="Kartu Flash USB" subtitle="Putar musik langsung dari kartu SD menggunakan adaptor USB seperti iXpand." icon="inbox" >}}
 
-  {{< card title="Kontrol Pemutaran" subtitle="Ubah kecepatan pemutaran dan pitch untuk kontrol audio yang sempurna." icon="fast-forward" >}}
-  {{< card title="Lirik & Komentar" subtitle="Lihat lirik dan komentar yang tertanam saat memutar lagu." icon="annotation" >}}
-  {{< card title="Editor Tag ID3" subtitle="Edit dan perbaiki metadata seperti judul, artis, atau album dengan alat bawaan." icon="pencil-alt" >}}
+  {{< feature-card title="Kontrol Pemutaran" subtitle="Ubah kecepatan pemutaran dan pitch untuk kontrol audio yang sempurna." icon="fast-forward" >}}
+  {{< feature-card title="Lirik & Komentar" subtitle="Lihat lirik dan komentar yang tertanam saat memutar lagu." icon="annotation" >}}
+  {{< feature-card title="Editor Tag ID3" subtitle="Edit dan perbaiki metadata seperti judul, artis, atau album dengan alat bawaan." icon="pencil-alt" >}}
 
-  {{< card title="Equalizer & Boost" subtitle="Gunakan preset atau sesuaikan secara manual dengan gain preamp untuk suara yang kaya." icon="adjustments" >}}
-  {{< card title="Apple CarPlay" subtitle="Berkendara dengan aman menggunakan UI CarPlay khusus untuk pemutaran musik." icon="truck" >}}
-  {{< card title="AirPlay & Chromecast" subtitle="Streaming ke Apple TV dan perangkat Google Chromecast secara nirkabel." icon="device-mobile" >}}
+  {{< feature-card title="Equalizer & Boost" subtitle="Gunakan preset atau sesuaikan secara manual dengan gain preamp untuk suara yang kaya." icon="adjustments" >}}
+  {{< feature-card title="Apple CarPlay" subtitle="Berkendara dengan aman menggunakan UI CarPlay khusus untuk pemutaran musik." icon="truck" >}}
+  {{< feature-card title="AirPlay & Chromecast" subtitle="Streaming ke Apple TV dan perangkat Google Chromecast secara nirkabel." icon="device-mobile" >}}
 
-  {{< card title="Integrasi Last.fm" subtitle="Lacak statistik musik dan dapatkan rekomendasi lagu yang dipersonalisasi." icon="chart-bar" >}}
-  {{< card title="Sinkronisasi Otomatis" subtitle="Sinkronisasi otomatis pustaka musik Anda dengan folder cloud dan lokal." icon="refresh" >}}
-  {{< card title="Dukungan Buku Audio" subtitle="Dengarkan buku audio dengan penanda, timer tidur, dan lanjutkan pemutaran dari tempat Anda berhenti." icon="book-open" >}}
+  {{< feature-card title="Integrasi Last.fm" subtitle="Lacak statistik musik dan dapatkan rekomendasi lagu yang dipersonalisasi." icon="chart-bar" >}}
+  {{< feature-card title="Sinkronisasi Otomatis" subtitle="Sinkronisasi otomatis pustaka musik Anda dengan folder cloud dan lokal." icon="refresh" >}}
+  {{< feature-card title="Dukungan Buku Audio" subtitle="Dengarkan buku audio dengan penanda, timer tidur, dan lanjutkan pemutaran dari tempat Anda berhenti." icon="book-open" >}}
 
 {{< /cards >}}
 
@@ -167,7 +167,7 @@ Desain Intuitif
 
 {{< cards cols="4">}}
 
-  {{< card 
+  {{< feature-card 
     image="/products/flacbox/screenshots/2048x2732/1.png" 
     title="Pemutar Audio" 
     method="Fill"
@@ -176,7 +176,7 @@ Desain Intuitif
     icon="play"
   >}}
 
-  {{< card 
+  {{< feature-card 
     image="/products/flacbox/screenshots/2048x2732/2.png"  
     title="Equalizer Audio" 
     method="Fill"
@@ -185,7 +185,7 @@ Desain Intuitif
     icon="adjustments"
   >}}
 
-  {{< card 
+  {{< feature-card 
     image="/products/flacbox/screenshots/2048x2732/3.png"  
     title="Pengelola Playlist" 
     method="Fill"
@@ -194,7 +194,7 @@ Desain Intuitif
     icon="collection"
   >}}
 
-  {{< card 
+  {{< feature-card 
     image="/products/flacbox/screenshots/2048x2732/5.png"  
     title="Pustaka Media" 
     method="Fill"
@@ -203,7 +203,7 @@ Desain Intuitif
     icon="library"
   >}}
 
-  {{< card 
+  {{< feature-card 
     image="/products/flacbox/screenshots/2048x2732/7.png"  
     title="Penyimpanan Cloud" 
     method="Fill"
@@ -212,7 +212,7 @@ Desain Intuitif
     icon="cloud"
   >}}
 
-  {{< card 
+  {{< feature-card 
     image="/products/flacbox/screenshots/2048x2732/8.png"  
     title="iCloud Drive" 
     method="Fill"
@@ -835,19 +835,19 @@ Untuk menggunakan CarPlay, pastikan Siri diaktifkan dan iPhone Anda terhubung me
 
 {{< cards >}}
 
-{{< card icon="map" link="/docs/guide/flacbox/flacbox-guide-navigation" title="Navigasi" subtitle="Gunakan Tab Bar di iPhone atau Menu Kiri di iPad & Mac." >}}
+{{< feature-card icon="map" link="/docs/guide/flacbox/flacbox-guide-navigation" title="Navigasi" subtitle="Gunakan Tab Bar di iPhone atau Menu Kiri di iPad & Mac." >}}
 
-{{< card icon="cloud" link="/docs/guide/flacbox/flacbox-guide-connections" title="Koneksi" subtitle="Hubungkan Dropbox, Google Drive, iCloud, atau NAS Anda." >}}
+{{< feature-card icon="cloud" link="/docs/guide/flacbox/flacbox-guide-connections" title="Koneksi" subtitle="Hubungkan Dropbox, Google Drive, iCloud, atau NAS Anda." >}}
 
-{{< card icon="collection" link="/docs/guide/flacbox/flacbox-guide-music-library" title="Pustaka Musik" subtitle="Kelola dan cari trek berdasarkan artis, album, atau genre." >}}
+{{< feature-card icon="collection" link="/docs/guide/flacbox/flacbox-guide-music-library" title="Pustaka Musik" subtitle="Kelola dan cari trek berdasarkan artis, album, atau genre." >}}
 
-{{< card icon="music-note" link="/docs/guide/flacbox/flacbox-guide-playlists" title="Playlist" subtitle="Buat dan atur playlist untuk setiap suasana hati atau kesempatan." >}}
+{{< feature-card icon="music-note" link="/docs/guide/flacbox/flacbox-guide-playlists" title="Playlist" subtitle="Buat dan atur playlist untuk setiap suasana hati atau kesempatan." >}}
 
-{{< card icon="folder" link="/docs/guide/flacbox/flacbox-guide-local-files" title="File Lokal" subtitle="Edit dan putar musik offline dengan pengelola file bawaan." >}}
+{{< feature-card icon="folder" link="/docs/guide/flacbox/flacbox-guide-local-files" title="File Lokal" subtitle="Edit dan putar musik offline dengan pengelola file bawaan." >}}
 
-{{< card icon="play" link="/docs/guide/flacbox/flacbox-guide-player" title="Pemutar Audio" subtitle="Kontrol pemutaran, sesuaikan kecepatan, atur penanda, dan lainnya." >}}
+{{< feature-card icon="play" link="/docs/guide/flacbox/flacbox-guide-player" title="Pemutar Audio" subtitle="Kontrol pemutaran, sesuaikan kecepatan, atur penanda, dan lainnya." >}}
 
-{{< card icon="adjustments" link="/docs/guide/flacbox/flacbox-guide-settings" title="Pengaturan" subtitle="Sesuaikan equalizer, tampilan, dan perilaku aplikasi." >}}
+{{< feature-card icon="adjustments" link="/docs/guide/flacbox/flacbox-guide-settings" title="Pengaturan" subtitle="Sesuaikan equalizer, tampilan, dan perilaku aplikasi." >}}
 
 {{< /cards >}}
 

@@ -144,35 +144,35 @@ Všechny funkce
 
 {{< cards >}}
 
-{{< card title="Přehrajte všechny formáty videa a zvuku" subtitle="Sledujte svá média bez konverze souborů. Evervideo podporuje všechny hlavní formáty včetně MKV, AVI, MP4, MOV, FLAC, MP3, AAC, OGG, WAV, WMV a dalších." icon="film">}}
+{{< feature-card title="Přehrajte všechny formáty videa a zvuku" subtitle="Sledujte svá média bez konverze souborů. Evervideo podporuje všechny hlavní formáty včetně MKV, AVI, MP4, MOV, FLAC, MP3, AAC, OGG, WAV, WMV a dalších." icon="film">}}
 
-{{< card title="Offline režim" subtitle="Stahujte videa, alba a playlisty pro sledování bez internetového připojení. Vezměte si celou svou video sbírku kamkoli." icon="download">}}
+{{< feature-card title="Offline režim" subtitle="Stahujte videa, alba a playlisty pro sledování bez internetového připojení. Vezměte si celou svou video sbírku kamkoli." icon="download">}}
 
-{{< card title="360° video a VR režim" subtitle="Sledujte 360° a VR videa zábavným a snadným způsobem. Pohybujte telefonem a dívejte se do libovolného směru, nebo ho vložte do VR headsetu a cítíte se jako uvnitř videa." icon="video-camera">}}
+{{< feature-card title="360° video a VR režim" subtitle="Sledujte 360° a VR videa zábavným a snadným způsobem. Pohybujte telefonem a dívejte se do libovolného směru, nebo ho vložte do VR headsetu a cítíte se jako uvnitř videa." icon="video-camera">}}
 
-{{< card title="Obraz v obraze" subtitle="Pokračujte ve sledování videí v malém plovoucím okně při používání jiných aplikací. Ovládejte přehrávání a sledujte titulky současně — ideální pro multitasking." icon="duplicate">}}
+{{< feature-card title="Obraz v obraze" subtitle="Pokračujte ve sledování videí v malém plovoucím okně při používání jiných aplikací. Ovládejte přehrávání a sledujte titulky současně — ideální pro multitasking." icon="duplicate">}}
 
-{{< card title="Video a audio ekvalizér" subtitle="Přizpůsobte vzhled a zvuk svých videí. Upravte basy, výšku tónu, jas, gama, sytost, kontrast a další. Vyberte si z více než 50 video předvoleb a 20+ audio předvoleb, nebo si vytvořte vlastní." icon="adjustments">}}
+{{< feature-card title="Video a audio ekvalizér" subtitle="Přizpůsobte vzhled a zvuk svých videí. Upravte basy, výšku tónu, jas, gama, sytost, kontrast a další. Vyberte si z více než 50 video předvoleb a 20+ audio předvoleb, nebo si vytvořte vlastní." icon="adjustments">}}
 
-{{< card title="Titulky" subtitle="Zobrazujte vložené titulky, vyberte číslo stopy titulků a užívejte si plnou podporu titulků i v režimu Obraz v obraze." icon="annotation" >}}
+{{< feature-card title="Titulky" subtitle="Zobrazujte vložené titulky, vyberte číslo stopy titulků a užívejte si plnou podporu titulků i v režimu Obraz v obraze." icon="annotation" >}}
 
-{{< card title="Přehrávejte přímo z cloudu" subtitle="Sledujte videa přímo z cloudového úložiště bez využití místa na zařízení. Podporuje iCloud Drive, Google Drive, Dropbox, OneDrive, MEGA, Synology Drive, pCloud a další." icon="cloud">}}
+{{< feature-card title="Přehrávejte přímo z cloudu" subtitle="Sledujte videa přímo z cloudového úložiště bez využití místa na zařízení. Podporuje iCloud Drive, Google Drive, Dropbox, OneDrive, MEGA, Synology Drive, pCloud a další." icon="cloud">}}
 
-{{< card title="Připojit počítač / NAS" subtitle="Snadno připojte svůj NAS, Mac nebo PC přes domácí síť pomocí SMB, WebDAV nebo DLNA. Vzdálený přístup je podporován pro Synology Drive a WD MyCloud Home. Přenášejte mediální soubory do zařízení přes Wi-Fi nebo iTunes File Sharing." icon="desktop-computer">}}
+{{< feature-card title="Připojit počítač / NAS" subtitle="Snadno připojte svůj NAS, Mac nebo PC přes domácí síť pomocí SMB, WebDAV nebo DLNA. Vzdálený přístup je podporován pro Synology Drive a WD MyCloud Home. Přenášejte mediální soubory do zařízení přes Wi-Fi nebo iTunes File Sharing." icon="desktop-computer">}}
 
-{{< card title="Knihovna médií" subtitle="Organizujte podle alba, žánru nebo délky. Automaticky se synchronizuje se změnami v cloudu. Vytvářejte, upravujte a exportujte M3U playlisty s vlastním řazením." icon="library" >}}
+{{< feature-card title="Knihovna médií" subtitle="Organizujte podle alba, žánru nebo délky. Automaticky se synchronizuje se změnami v cloudu. Vytvářejte, upravujte a exportujte M3U playlisty s vlastním řazením." icon="library" >}}
 
-{{< card title="Záložky a ukládání pozice přehrávání" subtitle="Uložte si místo v libovolném videu pomocí záložek a pokračujte v přehrávání tam, kde jste skončili. Upravte rychlost přehrávání, označte oblíbené a řaďte videa podle nejpřehrávanějších pro snadný přístup." icon="book-open">}}
+{{< feature-card title="Záložky a ukládání pozice přehrávání" subtitle="Uložte si místo v libovolném videu pomocí záložek a pokračujte v přehrávání tam, kde jste skončili. Upravte rychlost přehrávání, označte oblíbené a řaďte videa podle nejpřehrávanějších pro snadný přístup." icon="book-open">}}
 
-{{< card title="AirPlay a Chromecast" subtitle="Přehrávejte videa na větší obrazovce streamováním do Apple TV, Chromecast nebo jakéhokoli kompatibilního externího displeje." icon="device-mobile">}}
+{{< feature-card title="AirPlay a Chromecast" subtitle="Přehrávejte videa na větší obrazovce streamováním do Apple TV, Chromecast nebo jakéhokoli kompatibilního externího displeje." icon="device-mobile">}}
 
-{{< card title="Import ze souborů a knihoven" subtitle="Importujte videa přímo z aplikace Soubory, Fotek nebo knihovny iTunes. Přistupujte ke všemu lokálnímu i cloudovému obsahu v jedné organizované knihovně médií." icon="database">}}
+{{< feature-card title="Import ze souborů a knihoven" subtitle="Importujte videa přímo z aplikace Soubory, Fotek nebo knihovny iTunes. Přistupujte ke všemu lokálnímu i cloudovému obsahu v jedné organizované knihovně médií." icon="database">}}
 
-{{< card title="Správce souborů" subtitle="Přesouvejte, přejmenovávejte, mazejte a organizujte soubory přímo v aplikaci." icon="folder">}}
+{{< feature-card title="Správce souborů" subtitle="Přesouvejte, přejmenovávejte, mazejte a organizujte soubory přímo v aplikaci." icon="folder">}}
 
-{{< card title="Personalizace" subtitle="Přizpůsobte si aplikaci podle svých preferencí. Vyberte si témata, zobrazte nebo skryjte funkce a upravte rozhraní podle svých potřeb." icon="sun">}}
+{{< feature-card title="Personalizace" subtitle="Přizpůsobte si aplikaci podle svých preferencí. Vyberte si témata, zobrazte nebo skryjte funkce a upravte rozhraní podle svých potřeb." icon="sun">}}
 
-{{< card title="Chytré vyhledávání" subtitle="Rychle najděte videa, alba nebo playlisty ve své knihovně médií pomocí klíčových slov nebo filtrů." icon="search" >}}
+{{< feature-card title="Chytré vyhledávání" subtitle="Rychle najděte videa, alba nebo playlisty ve své knihovně médií pomocí klíčových slov nebo filtrů." icon="search" >}}
 
 
 
@@ -192,7 +192,7 @@ Intuitivní design
 
 {{< cards cols="4">}}
 
-  {{< card 
+  {{< feature-card 
     image="/products/evervideo/screenshots/2880x1800/1.png" 
     title="Video přehrávač" 
     method="Fill"
@@ -201,7 +201,7 @@ Intuitivní design
     icon="play"
   >}}
 
-  {{< card 
+  {{< feature-card 
     image="/products/evervideo/screenshots/2880x1800/3.png" 
     title="Audio a video ekvalizér" 
     method="Fill"
@@ -210,7 +210,7 @@ Intuitivní design
     icon="adjustments"
   >}}
 
-  {{< card 
+  {{< feature-card 
     image="/products/evervideo/screenshots/2880x1800/6.png" 
     title="Správce playlistů" 
     method="Fill"
@@ -219,7 +219,7 @@ Intuitivní design
     icon="collection"
   >}}
 
-  {{< card 
+  {{< feature-card 
     image="/products/evervideo/screenshots/2880x1800/5.png" 
     title="Knihovna médií" 
     method="Fill"
@@ -228,7 +228,7 @@ Intuitivní design
     icon="library"
   >}}
 
-  {{< card 
+  {{< feature-card 
     image="/products/evervideo/screenshots/2880x1800/7.png"  
     title="Cloudové úložiště" 
     method="Fill"
@@ -237,7 +237,7 @@ Intuitivní design
     icon="cloud"
   >}}
 
-  {{< card 
+  {{< feature-card 
     image="/products/evervideo/screenshots/2880x1800/9.png"  
     title="Správce souborů" 
     method="Fill"
@@ -656,17 +656,17 @@ Poznámka: Ujistěte se, že je JavaScript povolen a používáte nejnovější 
 </div>
 
 {{< cards >}}
-  {{< card icon="location-marker" title="Navigace" subtitle="Naučte se ovládat Evervideo pomocí lišty karet na iPhonu nebo levého menu na iPadu a Macu, plus kompaktního přehrávače videa, který je vždy na obrazovce." link="/docs/guide/evervideo/evervideo-guide-navigation" >}}
+  {{< feature-card icon="location-marker" title="Navigace" subtitle="Naučte se ovládat Evervideo pomocí lišty karet na iPhonu nebo levého menu na iPadu a Macu, plus kompaktního přehrávače videa, který je vždy na obrazovce." link="/docs/guide/evervideo/evervideo-guide-navigation" >}}
 
-  {{< card icon="folder" title="Soubory" subtitle="Připojte cloudové účty, sdílené disky NAS, mediální servery (Plex, Jellyfin, Emby, Subsonic, Navidrome), RTSP streamy a lokální soubory v jedné sjednocené kartě." link="/docs/guide/evervideo/evervideo-guide-files" >}}
+  {{< feature-card icon="folder" title="Soubory" subtitle="Připojte cloudové účty, sdílené disky NAS, mediální servery (Plex, Jellyfin, Emby, Subsonic, Navidrome), RTSP streamy a lokální soubory v jedné sjednocené kartě." link="/docs/guide/evervideo/evervideo-guide-files" >}}
 
-  {{< card icon="library" title="Mediální knihovna" subtitle="Uspořádejte a procházejte svá videa a hudbu podle alb, žánrů, nedávno přehraných a oblíbených – plus knihovny Fotky v iOS a knihovny Apple Music." link="/docs/guide/evervideo/evervideo-guide-video-library" >}}
+  {{< feature-card icon="library" title="Mediální knihovna" subtitle="Uspořádejte a procházejte svá videa a hudbu podle alb, žánrů, nedávno přehraných a oblíbených – plus knihovny Fotky v iOS a knihovny Apple Music." link="/docs/guide/evervideo/evervideo-guide-video-library" >}}
 
-  {{< card icon="collection" title="Seznamy stop" subtitle="Vytvářejte a uspořádejte seznamy stop pro videa, hudbu, seriály nebo kurzy a importujte soubory M3U / M3U8 / CUE." link="/docs/guide/evervideo/evervideo-guide-playlists" >}}
+  {{< feature-card icon="collection" title="Seznamy stop" subtitle="Vytvářejte a uspořádejte seznamy stop pro videa, hudbu, seriály nebo kurzy a importujte soubory M3U / M3U8 / CUE." link="/docs/guide/evervideo/evervideo-guide-playlists" >}}
 
-  {{< card icon="play" title="Mediální přehrávač" subtitle="Ovládejte přehrávání, frontu, režim Obraz v obraze, audio a video stopy, primární a sekundární titulky a ekvalizéry zvuku i obrazu." link="/docs/guide/evervideo/evervideo-guide-player" >}}
+  {{< feature-card icon="play" title="Mediální přehrávač" subtitle="Ovládejte přehrávání, frontu, režim Obraz v obraze, audio a video stopy, primární a sekundární titulky a ekvalizéry zvuku i obrazu." link="/docs/guide/evervideo/evervideo-guide-player" >}}
 
-  {{< card icon="adjustments" title="Nastavení" subtitle="Přizpůsobte si vzhled, dekodér, ekvalizéry, titulky, widgety, jazyk, přístupový kód, zálohu a výkonnostní nastavení aplikace Evervideo." link="/docs/guide/evervideo/evervideo-guide-settings" >}}
+  {{< feature-card icon="adjustments" title="Nastavení" subtitle="Přizpůsobte si vzhled, dekodér, ekvalizéry, titulky, widgety, jazyk, přístupový kód, zálohu a výkonnostní nastavení aplikace Evervideo." link="/docs/guide/evervideo/evervideo-guide-settings" >}}
 
 {{< /cards >}}
 

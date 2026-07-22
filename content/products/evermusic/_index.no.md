@@ -148,7 +148,7 @@ Evermusic er en gratis offline musikkspiller for iPhone og Mac, utviklet av Ever
 
 {{< cards cols="4">}}
 
-  {{< card 
+  {{< feature-card 
     icon="adjustments"
     image="/products/evermusic/screenshots/2048x2732/3.png" 
     title="Lydequalizer" 
@@ -157,7 +157,7 @@ Evermusic er en gratis offline musikkspiller for iPhone og Mac, utviklet av Ever
     subtitle="Finjuster lyden din med en iPod-lignende lydequalizer, tilpassbare forhåndsinnstillinger og forforsterkerforsterkning for den beste lytteopplevelsen." 
   >}}
 
-  {{< card 
+  {{< feature-card 
     icon="annotation"
     image="/products/evermusic/screenshots/2048x2732/4.png"  
     title="Sangtekstvisning" 
@@ -166,7 +166,7 @@ Evermusic er en gratis offline musikkspiller for iPhone og Mac, utviklet av Ever
     subtitle="Les innebygde sangtekster og sporkommentarer mens du lytter. Nyt synkroniserte sangtekster for en mer engasjerende musikkopplevelse." 
   >}}
 
-  {{< card 
+  {{< feature-card 
     icon="collection"
     image="/products/evermusic/screenshots/2048x2732/5.png"  
     title="Spillelistebehandler" 
@@ -175,7 +175,7 @@ Evermusic er en gratis offline musikkspiller for iPhone og Mac, utviklet av Ever
     subtitle="Opprett og organiser egendefinerte spillelister, endre rekkefølge på sanger, eksporter til M3U, eller arkiver dem som ZIP-filer for enkel deling eller sikkerhetskopiering." 
   >}}
 
-  {{< card 
+  {{< feature-card 
     icon="cloud"
     image="/products/evermusic/screenshots/2048x2732/6.png"  
     title="Skymusikkstrømming" 
@@ -184,7 +184,7 @@ Evermusic er en gratis offline musikkspiller for iPhone og Mac, utviklet av Ever
     subtitle="Koble til de beste skylagringsplattformene som Google Drive, Dropbox og OneDrive for å strømme musikksamlingen din når som helst, hvor som helst." 
   >}}
 
-  {{< card 
+  {{< feature-card 
     icon="duplicate"
     image="/products/evermusic/screenshots/2048x2732/9.png"  
     title="Filbehandler" 
@@ -193,7 +193,7 @@ Evermusic er en gratis offline musikkspiller for iPhone og Mac, utviklet av Ever
     subtitle="Administrer lydfilene dine enkelt – gi nytt navn til spor, organiser mapper og overfør musikk mellom enheter ved hjelp av innebygde verktøy." 
   >}} 
 
-  {{< card 
+  {{< feature-card 
     icon="sun"
     image="/products/evermusic/screenshots/2048x2732/10.png"  
     title="Apptilpasning" 
@@ -218,41 +218,41 @@ Evermusic er en gratis offline musikkspiller for iPhone og Mac, utviklet av Ever
 
 {{< cards >}}
 
-  {{< card title="Lydformater" subtitle="Støtter: mp3, m4a, flac, wav, aac, mp4, m3u, m3u8, m4b, m4p, aiff, ogg, mp2, ac3, wma og mer." icon="music-note" >}}
+  {{< feature-card title="Lydformater" subtitle="Støtter: mp3, m4a, flac, wav, aac, mp4, m3u, m3u8, m4b, m4p, aiff, ogg, mp2, ac3, wma og mer." icon="music-note" >}}
 
-  {{< card title="Lydbøker" subtitle="Inkluderer lydbokmerker, avspillingshastighetskontroll og gjenopptakelsesposisjon." icon="book-open" width="50">}}
+  {{< feature-card title="Lydbøker" subtitle="Inkluderer lydbokmerker, avspillingshastighetskontroll og gjenopptakelsesposisjon." icon="book-open" width="50">}}
 
-  {{< card title="Automatisk synkronisering" subtitle="Synkroniserer musikkbiblioteket ditt med skyen, organisert etter artist, album og sjanger." icon="refresh" >}}
+  {{< feature-card title="Automatisk synkronisering" subtitle="Synkroniserer musikkbiblioteket ditt med skyen, organisert etter artist, album og sjanger." icon="refresh" >}}
 
-  {{< card title="Filbehandler" subtitle="Administrer filer med operasjoner som kopier, flytt, gi nytt navn og slett." icon="folder" >}}
+  {{< feature-card title="Filbehandler" subtitle="Administrer filer med operasjoner som kopier, flytt, gi nytt navn og slett." icon="folder" >}}
 
-  {{< card title="Skytjenester" subtitle="Støtter iCloud, Google Drive, Dropbox, OneDrive, Box, MEGA, WD MyCloud Home, pCloud og mer." icon="cloud" >}}
+  {{< feature-card title="Skytjenester" subtitle="Støtter iCloud, Google Drive, Dropbox, OneDrive, Box, MEGA, WD MyCloud Home, pCloud og mer." icon="cloud" >}}
 
-  {{< card title="Crossfade-avspilling" subtitle="Neste sang begynner før den nåværende slutter for sømløse overganger." icon="switch-horizontal" >}}
+  {{< feature-card title="Crossfade-avspilling" subtitle="Neste sang begynner før den nåværende slutter for sømløse overganger." icon="switch-horizontal" >}}
 
-  {{< card title="Sømløs avspilling" subtitle="Ingen pauser mellom sanger – ideelt for live, klassisk eller konseptalbum." icon="volume-up" >}}
+  {{< feature-card title="Sømløs avspilling" subtitle="Ingen pauser mellom sanger – ideelt for live, klassisk eller konseptalbum." icon="volume-up" >}}
 
-  {{< card title="Lydequalizer" subtitle="Tilpassbar equalizer med forhåndsinnstillinger, manuell kontroll og forforsterkerforsterkning." icon="adjustments" >}}
+  {{< feature-card title="Lydequalizer" subtitle="Tilpassbar equalizer med forhåndsinnstillinger, manuell kontroll og forforsterkerforsterkning." icon="adjustments" >}}
 
-  {{< card title="Avansert søk" subtitle="Finn favorittalbumene, artistene og sporene dine raskt og enkelt." icon="search" >}}
+  {{< feature-card title="Avansert søk" subtitle="Finn favorittalbumene, artistene og sporene dine raskt og enkelt." icon="search" >}}
 
-  {{< card title="Datatilgang" subtitle="Koble til via SMB, WebDAV eller DLNA. Overfør via iTunes fildeling og Wi-Fi." icon="desktop-computer" >}}
+  {{< feature-card title="Datatilgang" subtitle="Koble til via SMB, WebDAV eller DLNA. Overfør via iTunes fildeling og Wi-Fi." icon="desktop-computer" >}}
 
-  {{< card title="AirPlay og Chromecast" subtitle="Strøm til Apple TV og Google Chromecast-enheter trådløst." icon="device-mobile" >}}
+  {{< feature-card title="AirPlay og Chromecast" subtitle="Strøm til Apple TV og Google Chromecast-enheter trådløst." icon="device-mobile" >}}
 
-  {{< card title="Spillelister" subtitle="Opprett, rediger, endre rekkefølge og eksporter/importer M3U-spillelister med frakoblet modus." icon="collection" >}}
+  {{< feature-card title="Spillelister" subtitle="Opprett, rediger, endre rekkefølge og eksporter/importer M3U-spillelister med frakoblet modus." icon="collection" >}}
 
-  {{< card title="USB-minnekort" subtitle="Spill musikk direkte fra SD-kort ved hjelp av eksterne lesere som SanDisk iXpand." icon="inbox" >}}
+  {{< feature-card title="USB-minnekort" subtitle="Spill musikk direkte fra SD-kort ved hjelp av eksterne lesere som SanDisk iXpand." icon="inbox" >}}
 
-  {{< card title="Frakoblet modus" subtitle="Last ned album og spillelister eller hurtigbufr nylig spilte spor automatisk for frakoblet lytting." icon="download" >}}
+  {{< feature-card title="Frakoblet modus" subtitle="Last ned album og spillelister eller hurtigbufr nylig spilte spor automatisk for frakoblet lytting." icon="download" >}}
 
-  {{< card title="Apple CarPlay" subtitle="Kjør trygt med et dedikert CarPlay-grensesnitt for musikkavspilling." icon="truck" >}}
+  {{< feature-card title="Apple CarPlay" subtitle="Kjør trygt med et dedikert CarPlay-grensesnitt for musikkavspilling." icon="truck" >}}
 
-  {{< card title="ID3-tagredigering" subtitle="Rediger ødelagte eller manglende metadata med den innebygde tagredigereren." icon="pencil-alt" >}}
+  {{< feature-card title="ID3-tagredigering" subtitle="Rediger ødelagte eller manglende metadata med den innebygde tagredigereren." icon="pencil-alt" >}}
 
-  {{< card title="Sangtekster og kommentarer" subtitle="Se innebygde sangtekster og kommentarer mens du lytter til musikken din." icon="annotation" >}}
+  {{< feature-card title="Sangtekster og kommentarer" subtitle="Se innebygde sangtekster og kommentarer mens du lytter til musikken din." icon="annotation" >}}
 
-  {{< card title="Last.fm" subtitle="Koble til Last.fm-kontoen din for å få personlig lyttestatistikk og anbefalinger." icon="chart-bar" >}}
+  {{< feature-card title="Last.fm" subtitle="Koble til Last.fm-kontoen din for å få personlig lyttestatistikk og anbefalinger." icon="chart-bar" >}}
   
 {{< /cards >}}
 
@@ -704,19 +704,19 @@ Med dette brede utvalget av støttede formater og filendelser kan du nyte musikk
 </div>
 
 {{< cards >}}
-  {{< card icon="location-marker" title="Navigasjon" subtitle="Lær hvordan du navigerer i Evermusic ved hjelp av fanelinjen på iPhone eller venstremenyen på iPad og Mac." link="/docs/guide/evermusic/evermusic-guide-navigation" >}}
+  {{< feature-card icon="location-marker" title="Navigasjon" subtitle="Lær hvordan du navigerer i Evermusic ved hjelp av fanelinjen på iPhone eller venstremenyen på iPad og Mac." link="/docs/guide/evermusic/evermusic-guide-navigation" >}}
 
-  {{< card icon="cloud" title="Tilkoblinger" subtitle="Koble til skykontoene dine og administrer nettfiler ved hjelp av den innebygde filbehandleren." link="/docs/guide/evermusic/evermusic-guide-connections" >}}
+  {{< feature-card icon="cloud" title="Tilkoblinger" subtitle="Koble til skykontoene dine og administrer nettfiler ved hjelp av den innebygde filbehandleren." link="/docs/guide/evermusic/evermusic-guide-connections" >}}
 
-  {{< card icon="library" title="Musikkbibliotek" subtitle="Organiser og utforsk sporene, albumene og artistene dine i musikkbiblioteket." link="/docs/guide/evermusic/evermusic-guide-music-library" >}}
+  {{< feature-card icon="library" title="Musikkbibliotek" subtitle="Organiser og utforsk sporene, albumene og artistene dine i musikkbiblioteket." link="/docs/guide/evermusic/evermusic-guide-music-library" >}}
 
-  {{< card icon="collection" title="Spillelister" subtitle="Opprett og ordne spillelister som passer til humøret eller anledningen din." link="/docs/guide/evermusic/evermusic-guide-playlists" >}}
+  {{< feature-card icon="collection" title="Spillelister" subtitle="Opprett og ordne spillelister som passer til humøret eller anledningen din." link="/docs/guide/evermusic/evermusic-guide-playlists" >}}
 
-  {{< card icon="folder" title="Lokale filer" subtitle="Få tilgang til og administrer frakoblet musikk gjennom Lokale filer-seksjonen." link="/docs/guide/evermusic/evermusic-guide-local-files" >}}
+  {{< feature-card icon="folder" title="Lokale filer" subtitle="Få tilgang til og administrer frakoblet musikk gjennom Lokale filer-seksjonen." link="/docs/guide/evermusic/evermusic-guide-local-files" >}}
 
-  {{< card icon="play" title="Lydspiller" subtitle="Kontroller avspilling, kø og lydinnstillinger som equalizer og innsovningstimer." link="/docs/guide/evermusic/evermusic-guide-player" >}}
+  {{< feature-card icon="play" title="Lydspiller" subtitle="Kontroller avspilling, kø og lydinnstillinger som equalizer og innsovningstimer." link="/docs/guide/evermusic/evermusic-guide-player" >}}
 
-  {{< card icon="adjustments" title="Innstillinger" subtitle="Tilpass Evermusics utseende, funksjoner og ytelsesinnstillinger." link="/docs/guide/evermusic/evermusic-guide-settings" >}}
+  {{< feature-card icon="adjustments" title="Innstillinger" subtitle="Tilpass Evermusics utseende, funksjoner og ytelsesinnstillinger." link="/docs/guide/evermusic/evermusic-guide-settings" >}}
 
 {{< /cards >}}
 

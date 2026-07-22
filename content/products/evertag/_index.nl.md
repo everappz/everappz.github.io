@@ -491,17 +491,17 @@ Deze modus is bijzonder handig wanneer je dezelfde albumnaam, artiest, genre of 
 </div>
 
 {{< cards >}}
-  {{< card icon="location-marker" title="Navigatie" subtitle="Leer hoe je moeiteloos door onze app navigeert met de Tabbalk (voor iPhone-gebruikers) of het Linkermenu (voor iPad- en Mac-gebruikers) om alle functies van de app te openen en te verkennen." link="/docs/guide/evertag/evertag-guide-navigation" >}}
+  {{< feature-card icon="location-marker" title="Navigatie" subtitle="Leer hoe je moeiteloos door onze app navigeert met de Tabbalk (voor iPhone-gebruikers) of het Linkermenu (voor iPad- en Mac-gebruikers) om alle functies van de app te openen en te verkennen." link="/docs/guide/evertag/evertag-guide-navigation" >}}
 
-  {{< card icon="cloud" title="Verbindingen" subtitle="Verbind moeiteloos al je beschikbare cloudaccounts met je waardevolle audiobestanden. Je kunt zelfs je online bestanden moeiteloos bewerken met onze geïntegreerde bestandsbeheerder." link="/docs/guide/evertag/evertag-guide-connections" >}}
+  {{< feature-card icon="cloud" title="Verbindingen" subtitle="Verbind moeiteloos al je beschikbare cloudaccounts met je waardevolle audiobestanden. Je kunt zelfs je online bestanden moeiteloos bewerken met onze geïntegreerde bestandsbeheerder." link="/docs/guide/evertag/evertag-guide-connections" >}}
 
-  {{< card icon="folder" title="Lokale Bestanden" subtitle="Bekijk en organiseer bestanden die zijn opgeslagen in de Documenten-map van de app of op je apparaat. Gebruik de ingebouwde bestandsbeheerder om je audiobestanden eenvoudig te bewerken en beheren." link="/docs/guide/evertag/evertag-guide-local-files" >}}
+  {{< feature-card icon="folder" title="Lokale Bestanden" subtitle="Bekijk en organiseer bestanden die zijn opgeslagen in de Documenten-map van de app of op je apparaat. Gebruik de ingebouwde bestandsbeheerder om je audiobestanden eenvoudig te bewerken en beheren." link="/docs/guide/evertag/evertag-guide-local-files" >}}
 
-  {{< card icon="pencil-alt" title="Tag Editor" subtitle="Beheers de kunst van het bewerken van metadata van audiobestanden. Ontdek hoe je metadata bewerkt, albumhoezen wijzigt en naadloos meerdere bestanden tegelijkertijd beheert." link="/docs/guide/evertag/evertag-guide-tag-editor" >}}
+  {{< feature-card icon="pencil-alt" title="Tag Editor" subtitle="Beheers de kunst van het bewerken van metadata van audiobestanden. Ontdek hoe je metadata bewerkt, albumhoezen wijzigt en naadloos meerdere bestanden tegelijkertijd beheert." link="/docs/guide/evertag/evertag-guide-tag-editor" >}}
 
-  {{< card icon="code" title="Tag Veld Toewijzingen" subtitle="Verken de volledige lijst van audiotag velden die worden ondersteund door de Evertag app, inclusief interne veldnamen en toewijzingen over belangrijke metadata-formaten." link="/docs/guide/evertag/evertag-tag-field-mappings" >}}
+  {{< feature-card icon="code" title="Tag Veld Toewijzingen" subtitle="Verken de volledige lijst van audiotag velden die worden ondersteund door de Evertag app, inclusief interne veldnamen en toewijzingen over belangrijke metadata-formaten." link="/docs/guide/evertag/evertag-tag-field-mappings" >}}
 
-  {{< card icon="adjustments" title="Instellingen" subtitle="Ontdek hoe je je app-ervaring kunt aanpassen, prestaties kunt afstemmen, datagebruik kunt beheren en taal- en gebruikersinterfacevoorkeuren naar wens kunt instellen." link="/docs/guide/evertag/evertag-guide-settings" >}}
+  {{< feature-card icon="adjustments" title="Instellingen" subtitle="Ontdek hoe je je app-ervaring kunt aanpassen, prestaties kunt afstemmen, datagebruik kunt beheren en taal- en gebruikersinterfacevoorkeuren naar wens kunt instellen." link="/docs/guide/evertag/evertag-guide-settings" >}}
 
 {{< /cards >}}
 

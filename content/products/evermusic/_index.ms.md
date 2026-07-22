@@ -148,7 +148,7 @@ Evermusic ialah pemain muzik luar talian percuma untuk iPhone dan Mac yang diban
 
 {{< cards cols="4">}}
 
-  {{< card 
+  {{< feature-card 
     icon="adjustments"
     image="/products/evermusic/screenshots/2048x2732/3.png" 
     title="Penyama Audio" 
@@ -157,7 +157,7 @@ Evermusic ialah pemain muzik luar talian percuma untuk iPhone dan Mac yang diban
     subtitle="Laraskan bunyi anda dengan penyama audio gaya iPod, pratetap boleh suai, dan gandaan praamp untuk pengalaman mendengar terbaik." 
   >}}
 
-  {{< card 
+  {{< feature-card 
     icon="annotation"
     image="/products/evermusic/screenshots/2048x2732/4.png"  
     title="Pemapar Lirik" 
@@ -166,7 +166,7 @@ Evermusic ialah pemain muzik luar talian percuma untuk iPhone dan Mac yang diban
     subtitle="Baca lirik terbenam dan ulasan lagu semasa mendengar. Nikmati lirik tersegerak untuk pengalaman muzik yang lebih mendalam." 
   >}}
 
-  {{< card 
+  {{< feature-card 
     icon="collection"
     image="/products/evermusic/screenshots/2048x2732/5.png"  
     title="Pengurus Senarai Main" 
@@ -175,7 +175,7 @@ Evermusic ialah pemain muzik luar talian percuma untuk iPhone dan Mac yang diban
     subtitle="Cipta dan susun senarai main tersuai, susun semula lagu, eksport ke M3U, atau arkibkan sebagai fail ZIP untuk perkongsian atau sandaran mudah." 
   >}}
 
-  {{< card 
+  {{< feature-card 
     icon="cloud"
     image="/products/evermusic/screenshots/2048x2732/6.png"  
     title="Penstriman Muzik Awan" 
@@ -184,7 +184,7 @@ Evermusic ialah pemain muzik luar talian percuma untuk iPhone dan Mac yang diban
     subtitle="Sambungkan platform storan awan teratas seperti Google Drive, Dropbox, dan OneDrive untuk menstrim koleksi muzik anda pada bila-bila masa, di mana sahaja." 
   >}}
 
-  {{< card 
+  {{< feature-card 
     icon="duplicate"
     image="/products/evermusic/screenshots/2048x2732/9.png"  
     title="Pengurus Fail" 
@@ -193,7 +193,7 @@ Evermusic ialah pemain muzik luar talian percuma untuk iPhone dan Mac yang diban
     subtitle="Urus fail audio anda dengan mudah—namakan semula lagu, susun folder, dan pindahkan muzik antara peranti menggunakan alat terbina dalam." 
   >}} 
 
-  {{< card 
+  {{< feature-card 
     icon="sun"
     image="/products/evermusic/screenshots/2048x2732/10.png"  
     title="Penyesuaian Aplikasi" 
@@ -218,41 +218,41 @@ Evermusic ialah pemain muzik luar talian percuma untuk iPhone dan Mac yang diban
 
 {{< cards >}}
 
-  {{< card title="Format Audio" subtitle="Menyokong: mp3, m4a, flac, wav, aac, mp4, m3u, m3u8, m4b, m4p, aiff, ogg, mp2, ac3, wma, dan banyak lagi." icon="music-note" >}}
+  {{< feature-card title="Format Audio" subtitle="Menyokong: mp3, m4a, flac, wav, aac, mp4, m3u, m3u8, m4b, m4p, aiff, ogg, mp2, ac3, wma, dan banyak lagi." icon="music-note" >}}
 
-  {{< card title="Buku Audio" subtitle="Termasuk penanda buku audio, kawalan kelajuan main balik, dan kedudukan sambung." icon="book-open" width="50">}}
+  {{< feature-card title="Buku Audio" subtitle="Termasuk penanda buku audio, kawalan kelajuan main balik, dan kedudukan sambung." icon="book-open" width="50">}}
 
-  {{< card title="Penyegerakan Automatik" subtitle="Segerakkan perpustakaan muzik anda dengan awan, disusun mengikut artis, album, dan genre." icon="refresh" >}}
+  {{< feature-card title="Penyegerakan Automatik" subtitle="Segerakkan perpustakaan muzik anda dengan awan, disusun mengikut artis, album, dan genre." icon="refresh" >}}
 
-  {{< card title="Pengurus Fail" subtitle="Urus fail dengan operasi seperti salin, pindah, namakan semula, dan padam." icon="folder" >}}
+  {{< feature-card title="Pengurus Fail" subtitle="Urus fail dengan operasi seperti salin, pindah, namakan semula, dan padam." icon="folder" >}}
 
-  {{< card title="Perkhidmatan Awan" subtitle="Menyokong iCloud, Google Drive, Dropbox, OneDrive, Box, MEGA, WD MyCloud Home, pCloud, dan banyak lagi." icon="cloud" >}}
+  {{< feature-card title="Perkhidmatan Awan" subtitle="Menyokong iCloud, Google Drive, Dropbox, OneDrive, Box, MEGA, WD MyCloud Home, pCloud, dan banyak lagi." icon="cloud" >}}
 
-  {{< card title="Main Balik Crossfade" subtitle="Lagu seterusnya bermula sebelum lagu semasa tamat untuk peralihan lancar." icon="switch-horizontal" >}}
+  {{< feature-card title="Main Balik Crossfade" subtitle="Lagu seterusnya bermula sebelum lagu semasa tamat untuk peralihan lancar." icon="switch-horizontal" >}}
 
-  {{< card title="Main Balik Tanpa Jeda" subtitle="Tiada jeda antara lagu — sesuai untuk album langsung, klasik, atau konsep." icon="volume-up" >}}
+  {{< feature-card title="Main Balik Tanpa Jeda" subtitle="Tiada jeda antara lagu — sesuai untuk album langsung, klasik, atau konsep." icon="volume-up" >}}
 
-  {{< card title="Penyama Audio" subtitle="Penyama boleh suai dengan pratetap, kawalan manual, dan gandaan praamp." icon="adjustments" >}}
+  {{< feature-card title="Penyama Audio" subtitle="Penyama boleh suai dengan pratetap, kawalan manual, dan gandaan praamp." icon="adjustments" >}}
 
-  {{< card title="Carian Lanjutan" subtitle="Cari album, artis, dan lagu kegemaran anda dengan cepat dan mudah." icon="search" >}}
+  {{< feature-card title="Carian Lanjutan" subtitle="Cari album, artis, dan lagu kegemaran anda dengan cepat dan mudah." icon="search" >}}
 
-  {{< card title="Akses Komputer" subtitle="Sambung melalui SMB, WebDAV, atau DLNA. Pindah melalui iTunes File Sharing dan Wi-Fi." icon="desktop-computer" >}}
+  {{< feature-card title="Akses Komputer" subtitle="Sambung melalui SMB, WebDAV, atau DLNA. Pindah melalui iTunes File Sharing dan Wi-Fi." icon="desktop-computer" >}}
 
-  {{< card title="AirPlay & Chromecast" subtitle="Strim ke peranti Apple TV dan Google Chromecast secara wayarles." icon="device-mobile" >}}
+  {{< feature-card title="AirPlay & Chromecast" subtitle="Strim ke peranti Apple TV dan Google Chromecast secara wayarles." icon="device-mobile" >}}
 
-  {{< card title="Senarai Main" subtitle="Cipta, edit, susun semula, dan eksport/import senarai main M3U dengan mod luar talian." icon="collection" >}}
+  {{< feature-card title="Senarai Main" subtitle="Cipta, edit, susun semula, dan eksport/import senarai main M3U dengan mod luar talian." icon="collection" >}}
 
-  {{< card title="Kad Kilat USB" subtitle="Main muzik terus dari kad SD menggunakan pembaca luaran seperti SanDisk iXpand." icon="inbox" >}}
+  {{< feature-card title="Kad Kilat USB" subtitle="Main muzik terus dari kad SD menggunakan pembaca luaran seperti SanDisk iXpand." icon="inbox" >}}
 
-  {{< card title="Mod Luar Talian" subtitle="Muat turun album dan senarai main atau cache automatik lagu yang baru dimainkan untuk dengaran luar talian." icon="download" >}}
+  {{< feature-card title="Mod Luar Talian" subtitle="Muat turun album dan senarai main atau cache automatik lagu yang baru dimainkan untuk dengaran luar talian." icon="download" >}}
 
-  {{< card title="Apple CarPlay" subtitle="Pandu dengan selamat dengan UI CarPlay khusus untuk main balik muzik." icon="truck" >}}
+  {{< feature-card title="Apple CarPlay" subtitle="Pandu dengan selamat dengan UI CarPlay khusus untuk main balik muzik." icon="truck" >}}
 
-  {{< card title="Editor Tag ID3" subtitle="Edit metadata yang rosak atau hilang menggunakan editor tag terbina dalam." icon="pencil-alt" >}}
+  {{< feature-card title="Editor Tag ID3" subtitle="Edit metadata yang rosak atau hilang menggunakan editor tag terbina dalam." icon="pencil-alt" >}}
 
-  {{< card title="Lirik dan Ulasan" subtitle="Lihat lirik dan ulasan terbenam semasa mendengar muzik anda." icon="annotation" >}}
+  {{< feature-card title="Lirik dan Ulasan" subtitle="Lihat lirik dan ulasan terbenam semasa mendengar muzik anda." icon="annotation" >}}
 
-  {{< card title="Last.fm" subtitle="Sambungkan akaun Last.fm anda untuk mendapatkan statistik dengaran dan cadangan peribadi." icon="chart-bar" >}}
+  {{< feature-card title="Last.fm" subtitle="Sambungkan akaun Last.fm anda untuk mendapatkan statistik dengaran dan cadangan peribadi." icon="chart-bar" >}}
   
 {{< /cards >}}
 
@@ -704,19 +704,19 @@ Dengan pelbagai format dan sambungan fail yang disokong ini, anda boleh menikmat
 </div>
 
 {{< cards >}}
-  {{< card icon="location-marker" title="Navigasi" subtitle="Ketahui cara menavigasi Evermusic menggunakan Bar Tab pada iPhone atau Menu Kiri pada iPad dan Mac." link="/docs/guide/evermusic/evermusic-guide-navigation" >}}
+  {{< feature-card icon="location-marker" title="Navigasi" subtitle="Ketahui cara menavigasi Evermusic menggunakan Bar Tab pada iPhone atau Menu Kiri pada iPad dan Mac." link="/docs/guide/evermusic/evermusic-guide-navigation" >}}
 
-  {{< card icon="cloud" title="Sambungan" subtitle="Sambungkan akaun awan anda dan urus fail dalam talian menggunakan pengurus fail terbina dalam." link="/docs/guide/evermusic/evermusic-guide-connections" >}}
+  {{< feature-card icon="cloud" title="Sambungan" subtitle="Sambungkan akaun awan anda dan urus fail dalam talian menggunakan pengurus fail terbina dalam." link="/docs/guide/evermusic/evermusic-guide-connections" >}}
 
-  {{< card icon="library" title="Perpustakaan Muzik" subtitle="Susun dan terokai lagu, album, dan artis anda dalam Perpustakaan Muzik." link="/docs/guide/evermusic/evermusic-guide-music-library" >}}
+  {{< feature-card icon="library" title="Perpustakaan Muzik" subtitle="Susun dan terokai lagu, album, dan artis anda dalam Perpustakaan Muzik." link="/docs/guide/evermusic/evermusic-guide-music-library" >}}
 
-  {{< card icon="collection" title="Senarai Main" subtitle="Cipta dan susun senarai main mengikut mood atau majlis anda." link="/docs/guide/evermusic/evermusic-guide-playlists" >}}
+  {{< feature-card icon="collection" title="Senarai Main" subtitle="Cipta dan susun senarai main mengikut mood atau majlis anda." link="/docs/guide/evermusic/evermusic-guide-playlists" >}}
 
-  {{< card icon="folder" title="Fail Tempatan" subtitle="Akses dan urus muzik luar talian melalui bahagian Fail Tempatan." link="/docs/guide/evermusic/evermusic-guide-local-files" >}}
+  {{< feature-card icon="folder" title="Fail Tempatan" subtitle="Akses dan urus muzik luar talian melalui bahagian Fail Tempatan." link="/docs/guide/evermusic/evermusic-guide-local-files" >}}
 
-  {{< card icon="play" title="Pemain Audio" subtitle="Kawal main balik, baris gilir, dan tetapan audio seperti penyama dan pemasa tidur." link="/docs/guide/evermusic/evermusic-guide-player" >}}
+  {{< feature-card icon="play" title="Pemain Audio" subtitle="Kawal main balik, baris gilir, dan tetapan audio seperti penyama dan pemasa tidur." link="/docs/guide/evermusic/evermusic-guide-player" >}}
 
-  {{< card icon="adjustments" title="Tetapan" subtitle="Sesuaikan penampilan, ciri, dan tetapan prestasi Evermusic." link="/docs/guide/evermusic/evermusic-guide-settings" >}}
+  {{< feature-card icon="adjustments" title="Tetapan" subtitle="Sesuaikan penampilan, ciri, dan tetapan prestasi Evermusic." link="/docs/guide/evermusic/evermusic-guide-settings" >}}
 
 {{< /cards >}}
 

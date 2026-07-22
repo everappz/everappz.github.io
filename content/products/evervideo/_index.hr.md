@@ -144,35 +144,35 @@ Sve značajke
 
 {{< cards >}}
 
-{{< card title="Reproducirajte sve video i audio formate" subtitle="Gledajte medije bez konvertiranja datoteka. Evervideo podržava sve glavne formate, uključujući MKV, AVI, MP4, MOV, FLAC, MP3, AAC, OGG, WAV, WMV i više." icon="film">}}
+{{< feature-card title="Reproducirajte sve video i audio formate" subtitle="Gledajte medije bez konvertiranja datoteka. Evervideo podržava sve glavne formate, uključujući MKV, AVI, MP4, MOV, FLAC, MP3, AAC, OGG, WAV, WMV i više." icon="film">}}
 
-{{< card title="Offline način rada" subtitle="Preuzmite videozapise, albume i popise za reprodukciju za gledanje bez internetske veze. Ponesite cijelu svoju video kolekciju bilo kamo." icon="download">}}
+{{< feature-card title="Offline način rada" subtitle="Preuzmite videozapise, albume i popise za reprodukciju za gledanje bez internetske veze. Ponesite cijelu svoju video kolekciju bilo kamo." icon="download">}}
 
-{{< card title="360° video i VR način rada" subtitle="Gledajte 360° i VR videozapise na zabavan i jednostavan način. Pomaknite telefon da pogledate u bilo kojem smjeru ili ga stavite u VR headset da se osjećate kao da ste unutar videa." icon="video-camera">}}
+{{< feature-card title="360° video i VR način rada" subtitle="Gledajte 360° i VR videozapise na zabavan i jednostavan način. Pomaknite telefon da pogledate u bilo kojem smjeru ili ga stavite u VR headset da se osjećate kao da ste unutar videa." icon="video-camera">}}
 
-{{< card title="Picture-in-Picture" subtitle="Nastavite gledati videozapise u malom plutajućem prozoru dok koristite druge aplikacije. Kontrolirajte reprodukciju i gledajte titlove istovremeno – savršeno za multitasking." icon="duplicate">}}
+{{< feature-card title="Picture-in-Picture" subtitle="Nastavite gledati videozapise u malom plutajućem prozoru dok koristite druge aplikacije. Kontrolirajte reprodukciju i gledajte titlove istovremeno – savršeno za multitasking." icon="duplicate">}}
 
-{{< card title="Video i audio ekvalizator" subtitle="Prilagodite izgled i zvuk svojih videozapisa. Podesite bas, visinu tona, svjetlinu, gamu, zasićenost, kontrast i više. Birajte između 50+ video preseta i 20+ audio preseta ili kreirajte vlastite." icon="adjustments">}}
+{{< feature-card title="Video i audio ekvalizator" subtitle="Prilagodite izgled i zvuk svojih videozapisa. Podesite bas, visinu tona, svjetlinu, gamu, zasićenost, kontrast i više. Birajte između 50+ video preseta i 20+ audio preseta ili kreirajte vlastite." icon="adjustments">}}
 
-{{< card title="Titlovi" subtitle="Pregledajte ugrađene titlove, odaberite broj trake titlova i uživajte u punoj podršci za titlove čak i u Picture-in-Picture načinu rada." icon="annotation" >}}
+{{< feature-card title="Titlovi" subtitle="Pregledajte ugrađene titlove, odaberite broj trake titlova i uživajte u punoj podršci za titlove čak i u Picture-in-Picture načinu rada." icon="annotation" >}}
 
-{{< card title="Reproducirajte izravno iz oblaka" subtitle="Gledajte videozapise izravno iz cloud pohrane bez korištenja prostora na uređaju. Podržava iCloud Drive, Google Drive, Dropbox, OneDrive, MEGA, Synology Drive, pCloud i više." icon="cloud">}}
+{{< feature-card title="Reproducirajte izravno iz oblaka" subtitle="Gledajte videozapise izravno iz cloud pohrane bez korištenja prostora na uređaju. Podržava iCloud Drive, Google Drive, Dropbox, OneDrive, MEGA, Synology Drive, pCloud i više." icon="cloud">}}
 
-{{< card title="Povežite računalo / NAS" subtitle="Jednostavno povežite svoj NAS, Mac ili PC putem kućne mreže koristeći SMB, WebDAV ili DLNA. Udaljeni pristup podržan je za Synology Drive i WD MyCloud Home. Prenosite medijske datoteke na uređaj putem Wi-Fi-ja ili iTunes File Sharinga." icon="desktop-computer">}}
+{{< feature-card title="Povežite računalo / NAS" subtitle="Jednostavno povežite svoj NAS, Mac ili PC putem kućne mreže koristeći SMB, WebDAV ili DLNA. Udaljeni pristup podržan je za Synology Drive i WD MyCloud Home. Prenosite medijske datoteke na uređaj putem Wi-Fi-ja ili iTunes File Sharinga." icon="desktop-computer">}}
 
-{{< card title="Medijska knjižnica" subtitle="Organizirajte po albumu, žanru ili trajanju. Automatski se sinkronizira s promjenama u oblaku. Kreirajte, uređujte i izvozite M3U popise za reprodukciju s prilagođenim sortiranjem." icon="library" >}}
+{{< feature-card title="Medijska knjižnica" subtitle="Organizirajte po albumu, žanru ili trajanju. Automatski se sinkronizira s promjenama u oblaku. Kreirajte, uređujte i izvozite M3U popise za reprodukciju s prilagođenim sortiranjem." icon="library" >}}
 
-{{< card title="Oznake i spremanje pozicije reprodukcije" subtitle="Spremite svoje mjesto u bilo kojem videu s oznakama i nastavite reprodukciju od mjesta gdje ste stali. Prilagodite brzinu reprodukcije, označite favorite i sortirajte videozapise po najčešće reproduciranima za brzi pristup." icon="book-open">}}
+{{< feature-card title="Oznake i spremanje pozicije reprodukcije" subtitle="Spremite svoje mjesto u bilo kojem videu s oznakama i nastavite reprodukciju od mjesta gdje ste stali. Prilagodite brzinu reprodukcije, označite favorite i sortirajte videozapise po najčešće reproduciranima za brzi pristup." icon="book-open">}}
 
-{{< card title="AirPlay i Chromecast" subtitle="Reproducirajte videozapise na većem ekranu streamanjem na Apple TV, Chromecast ili bilo koji kompatibilni vanjski zaslon." icon="device-mobile">}}
+{{< feature-card title="AirPlay i Chromecast" subtitle="Reproducirajte videozapise na većem ekranu streamanjem na Apple TV, Chromecast ili bilo koji kompatibilni vanjski zaslon." icon="device-mobile">}}
 
-{{< card title="Uvoz iz Files i knjižnica" subtitle="Uvezite videozapise izravno iz aplikacije Files, Photos ili iTunes knjižnice. Pristupite svim lokalnim i cloud sadržajima u jednoj organiziranoj medijskoj knjižnici." icon="database">}}
+{{< feature-card title="Uvoz iz Files i knjižnica" subtitle="Uvezite videozapise izravno iz aplikacije Files, Photos ili iTunes knjižnice. Pristupite svim lokalnim i cloud sadržajima u jednoj organiziranoj medijskoj knjižnici." icon="database">}}
 
-{{< card title="Upravitelj datoteka" subtitle="Premještajte, preimenovajte, brišite i organizirajte datoteke izravno unutar aplikacije." icon="folder">}}
+{{< feature-card title="Upravitelj datoteka" subtitle="Premještajte, preimenovajte, brišite i organizirajte datoteke izravno unutar aplikacije." icon="folder">}}
 
-{{< card title="Personalizacija" subtitle="Prilagodite aplikaciju prema svojim preferencijama. Odaberite teme, prikažite ili sakrijte značajke i prilagodite sučelje svojim potrebama." icon="sun">}}
+{{< feature-card title="Personalizacija" subtitle="Prilagodite aplikaciju prema svojim preferencijama. Odaberite teme, prikažite ili sakrijte značajke i prilagodite sučelje svojim potrebama." icon="sun">}}
 
-{{< card title="Pametno pretraživanje" subtitle="Brzo pronađite videozapise, albume ili popise za reprodukciju u svojoj medijskoj knjižnici koristeći ključne riječi ili filtre." icon="search" >}}
+{{< feature-card title="Pametno pretraživanje" subtitle="Brzo pronađite videozapise, albume ili popise za reprodukciju u svojoj medijskoj knjižnici koristeći ključne riječi ili filtre." icon="search" >}}
 
 
 
@@ -192,7 +192,7 @@ Intuitivan dizajn
 
 {{< cards cols="4">}}
 
-  {{< card 
+  {{< feature-card 
     image="/products/evervideo/screenshots/2880x1800/1.png" 
     title="Video player" 
     method="Fill"
@@ -201,7 +201,7 @@ Intuitivan dizajn
     icon="play"
   >}}
 
-  {{< card 
+  {{< feature-card 
     image="/products/evervideo/screenshots/2880x1800/3.png" 
     title="Audio i video ekvalizator" 
     method="Fill"
@@ -210,7 +210,7 @@ Intuitivan dizajn
     icon="adjustments"
   >}}
 
-  {{< card 
+  {{< feature-card 
     image="/products/evervideo/screenshots/2880x1800/6.png" 
     title="Upravitelj popisa za reprodukciju" 
     method="Fill"
@@ -219,7 +219,7 @@ Intuitivan dizajn
     icon="collection"
   >}}
 
-  {{< card 
+  {{< feature-card 
     image="/products/evervideo/screenshots/2880x1800/5.png" 
     title="Medijska knjižnica" 
     method="Fill"
@@ -228,7 +228,7 @@ Intuitivan dizajn
     icon="library"
   >}}
 
-  {{< card 
+  {{< feature-card 
     image="/products/evervideo/screenshots/2880x1800/7.png"  
     title="Cloud pohrana" 
     method="Fill"
@@ -237,7 +237,7 @@ Intuitivan dizajn
     icon="cloud"
   >}}
 
-  {{< card 
+  {{< feature-card 
     image="/products/evervideo/screenshots/2880x1800/9.png"  
     title="Upravitelj datoteka" 
     method="Fill"
@@ -656,17 +656,17 @@ Napomena: Provjerite je li JavaScript omogućen i koristite li najnoviju verziju
 </div>
 
 {{< cards >}}
-  {{< card icon="location-marker" title="Navigacija" subtitle="Naučite kako se kretati kroz Evervideo pomoću trake kartica na iPhoneu ili lijevog izbornika na iPadu i Macu, uz kompaktni uvijek prisutni video player." link="/docs/guide/evervideo/evervideo-guide-navigation" >}}
+  {{< feature-card icon="location-marker" title="Navigacija" subtitle="Naučite kako se kretati kroz Evervideo pomoću trake kartica na iPhoneu ili lijevog izbornika na iPadu i Macu, uz kompaktni uvijek prisutni video player." link="/docs/guide/evervideo/evervideo-guide-navigation" >}}
 
-  {{< card icon="folder" title="Datoteke" subtitle="Povežite cloud račune, NAS dijeljene mape, medijske poslužitelje (Plex, Jellyfin, Emby, Subsonic, Navidrome), RTSP streamove i lokalne datoteke u jednoj objedinjenoj kartici." link="/docs/guide/evervideo/evervideo-guide-files" >}}
+  {{< feature-card icon="folder" title="Datoteke" subtitle="Povežite cloud račune, NAS dijeljene mape, medijske poslužitelje (Plex, Jellyfin, Emby, Subsonic, Navidrome), RTSP streamove i lokalne datoteke u jednoj objedinjenoj kartici." link="/docs/guide/evervideo/evervideo-guide-files" >}}
 
-  {{< card icon="library" title="Medijska biblioteka" subtitle="Organizirajte i istražujte svoje videozapise i glazbu prema albumima, žanrovima, nedavnima i favoritima – uz iOS biblioteku Fotografije i biblioteku Apple Musica." link="/docs/guide/evervideo/evervideo-guide-video-library" >}}
+  {{< feature-card icon="library" title="Medijska biblioteka" subtitle="Organizirajte i istražujte svoje videozapise i glazbu prema albumima, žanrovima, nedavnima i favoritima – uz iOS biblioteku Fotografije i biblioteku Apple Musica." link="/docs/guide/evervideo/evervideo-guide-video-library" >}}
 
-  {{< card icon="collection" title="Popisi za reprodukciju" subtitle="Stvarajte i uređujte popise za videozapise, glazbu, serije ili tečajeve te uvozite M3U / M3U8 / CUE datoteke." link="/docs/guide/evervideo/evervideo-guide-playlists" >}}
+  {{< feature-card icon="collection" title="Popisi za reprodukciju" subtitle="Stvarajte i uređujte popise za videozapise, glazbu, serije ili tečajeve te uvozite M3U / M3U8 / CUE datoteke." link="/docs/guide/evervideo/evervideo-guide-playlists" >}}
 
-  {{< card icon="play" title="Medijski player" subtitle="Upravljajte reprodukcijom, redom, načinom Slika u slici, audio i video zapisima, primarnim i sekundarnim titlovima te audio i video ekvilizatorima." link="/docs/guide/evervideo/evervideo-guide-player" >}}
+  {{< feature-card icon="play" title="Medijski player" subtitle="Upravljajte reprodukcijom, redom, načinom Slika u slici, audio i video zapisima, primarnim i sekundarnim titlovima te audio i video ekvilizatorima." link="/docs/guide/evervideo/evervideo-guide-player" >}}
 
-  {{< card icon="adjustments" title="Postavke" subtitle="Prilagodite izgled, dekoder, ekvilizatore, titlove, widgete, jezik, šifru, sigurnosnu kopiju i postavke performansi aplikacije Evervideo." link="/docs/guide/evervideo/evervideo-guide-settings" >}}
+  {{< feature-card icon="adjustments" title="Postavke" subtitle="Prilagodite izgled, dekoder, ekvilizatore, titlove, widgete, jezik, šifru, sigurnosnu kopiju i postavke performansi aplikacije Evervideo." link="/docs/guide/evervideo/evervideo-guide-settings" >}}
 
 {{< /cards >}}
 

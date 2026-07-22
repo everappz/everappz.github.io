@@ -127,29 +127,29 @@ Funcions completes
 
 {{< cards >}}
 
-  {{< card title="Àudio sense pèrdua" subtitle="Reprodueix FLAC, ALAC, WAV, APE, DFF, WV, AIFF i molts altres formats d'alta qualitat." icon="music-note" >}}
-  {{< card title="Mode fora de línia" subtitle="Descarrega àlbums, llistes de reproducció i pistes per escoltar fora de línia en qualsevol moment." icon="download" >}}
-  {{< card title="Gestió de fitxers" subtitle="Copia, mou, canvia el nom i elimina fitxers fàcilment dins de l'aplicació." icon="folder" >}}
+  {{< feature-card title="Àudio sense pèrdua" subtitle="Reprodueix FLAC, ALAC, WAV, APE, DFF, WV, AIFF i molts altres formats d'alta qualitat." icon="music-note" >}}
+  {{< feature-card title="Mode fora de línia" subtitle="Descarrega àlbums, llistes de reproducció i pistes per escoltar fora de línia en qualsevol moment." icon="download" >}}
+  {{< feature-card title="Gestió de fitxers" subtitle="Copia, mou, canvia el nom i elimina fitxers fàcilment dins de l'aplicació." icon="folder" >}}
 
-  {{< card title="Llistes personalitzades" subtitle="Crea, edita, reordena llistes de reproducció i exporta o importa fitxers M3U." icon="collection" >}}
-  {{< card title="Biblioteca multimèdia" subtitle="Afegeix música i organitza-la per àlbum, artista i gènere mitjançant etiquetes." icon="library" >}}
-  {{< card title="Cerca avançada" subtitle="Troba ràpidament cançons, artistes o àlbums amb eines de cerca intel·ligents." icon="search" >}}
+  {{< feature-card title="Llistes personalitzades" subtitle="Crea, edita, reordena llistes de reproducció i exporta o importa fitxers M3U." icon="collection" >}}
+  {{< feature-card title="Biblioteca multimèdia" subtitle="Afegeix música i organitza-la per àlbum, artista i gènere mitjançant etiquetes." icon="library" >}}
+  {{< feature-card title="Cerca avançada" subtitle="Troba ràpidament cançons, artistes o àlbums amb eines de cerca intel·ligents." icon="search" >}}
 
-  {{< card title="Transmissió al núvol" subtitle="Transmet des de Google Drive, Dropbox, OneDrive, iCloud, MEGA i més." icon="cloud" >}}
-  {{< card title="Accés a NAS i ordinador" subtitle="Connecta mitjançant SMB, DLNA o WebDAV. Transfereix amb iTunes o Wi-Fi." icon="desktop-computer" >}}
-  {{< card title="Memòries USB" subtitle="Reprodueix música directament des de targetes SD utilitzant adaptadors USB com iXpand." icon="inbox" >}}
+  {{< feature-card title="Transmissió al núvol" subtitle="Transmet des de Google Drive, Dropbox, OneDrive, iCloud, MEGA i més." icon="cloud" >}}
+  {{< feature-card title="Accés a NAS i ordinador" subtitle="Connecta mitjançant SMB, DLNA o WebDAV. Transfereix amb iTunes o Wi-Fi." icon="desktop-computer" >}}
+  {{< feature-card title="Memòries USB" subtitle="Reprodueix música directament des de targetes SD utilitzant adaptadors USB com iXpand." icon="inbox" >}}
 
-  {{< card title="Controls de reproducció" subtitle="Canvia la velocitat i el to de reproducció per a un control d'àudio perfecte." icon="fast-forward" >}}
-  {{< card title="Lletres i comentaris" subtitle="Visualitza les lletres i els comentaris incrustats mentre reprodueixes cançons." icon="annotation" >}}
-  {{< card title="Editor d'etiquetes ID3" subtitle="Edita i corregeix metadades com el títol, l'artista o l'àlbum amb l'eina integrada." icon="pencil-alt" >}}
+  {{< feature-card title="Controls de reproducció" subtitle="Canvia la velocitat i el to de reproducció per a un control d'àudio perfecte." icon="fast-forward" >}}
+  {{< feature-card title="Lletres i comentaris" subtitle="Visualitza les lletres i els comentaris incrustats mentre reprodueixes cançons." icon="annotation" >}}
+  {{< feature-card title="Editor d'etiquetes ID3" subtitle="Edita i corregeix metadades com el títol, l'artista o l'àlbum amb l'eina integrada." icon="pencil-alt" >}}
 
-  {{< card title="Equalitzador i reforç" subtitle="Utilitza preajustaments o ajusta manualment amb guany de preamplificador per a un so ric." icon="adjustments" >}}
-  {{< card title="Apple CarPlay" subtitle="Condueix amb seguretat amb una interfície CarPlay dedicada per a la reproducció de música." icon="truck" >}}
-  {{< card title="AirPlay i Chromecast" subtitle="Transmet a Apple TV i dispositius Google Chromecast de forma sense fils." icon="device-mobile" >}}
+  {{< feature-card title="Equalitzador i reforç" subtitle="Utilitza preajustaments o ajusta manualment amb guany de preamplificador per a un so ric." icon="adjustments" >}}
+  {{< feature-card title="Apple CarPlay" subtitle="Condueix amb seguretat amb una interfície CarPlay dedicada per a la reproducció de música." icon="truck" >}}
+  {{< feature-card title="AirPlay i Chromecast" subtitle="Transmet a Apple TV i dispositius Google Chromecast de forma sense fils." icon="device-mobile" >}}
 
-  {{< card title="Integració Last.fm" subtitle="Fes seguiment de les estadístiques de música i rep recomanacions personalitzades." icon="chart-bar" >}}
-  {{< card title="Sincronització automàtica" subtitle="Sincronitza automàticament la teva biblioteca musical amb carpetes al núvol i locals." icon="refresh" >}}
-  {{< card title="Suport per a audiollibres" subtitle="Escolta audiollibres amb marcadors, temporitzador de son i reprèn la reproducció des d'on t'has aturat." icon="book-open" >}}
+  {{< feature-card title="Integració Last.fm" subtitle="Fes seguiment de les estadístiques de música i rep recomanacions personalitzades." icon="chart-bar" >}}
+  {{< feature-card title="Sincronització automàtica" subtitle="Sincronitza automàticament la teva biblioteca musical amb carpetes al núvol i locals." icon="refresh" >}}
+  {{< feature-card title="Suport per a audiollibres" subtitle="Escolta audiollibres amb marcadors, temporitzador de son i reprèn la reproducció des d'on t'has aturat." icon="book-open" >}}
 
 {{< /cards >}}
 
@@ -167,7 +167,7 @@ Disseny intuïtiu
 
 {{< cards cols="4">}}
 
-  {{< card 
+  {{< feature-card 
     image="/products/flacbox/screenshots/2048x2732/1.png" 
     title="Reproductor d'àudio" 
     method="Fill"
@@ -176,7 +176,7 @@ Disseny intuïtiu
     icon="play"
   >}}
 
-  {{< card 
+  {{< feature-card 
     image="/products/flacbox/screenshots/2048x2732/2.png"  
     title="Equalitzador d'àudio" 
     method="Fill"
@@ -185,7 +185,7 @@ Disseny intuïtiu
     icon="adjustments"
   >}}
 
-  {{< card 
+  {{< feature-card 
     image="/products/flacbox/screenshots/2048x2732/3.png"  
     title="Gestor de llistes" 
     method="Fill"
@@ -194,7 +194,7 @@ Disseny intuïtiu
     icon="collection"
   >}}
 
-  {{< card 
+  {{< feature-card 
     image="/products/flacbox/screenshots/2048x2732/5.png"  
     title="Biblioteca multimèdia" 
     method="Fill"
@@ -203,7 +203,7 @@ Disseny intuïtiu
     icon="library"
   >}}
 
-  {{< card 
+  {{< feature-card 
     image="/products/flacbox/screenshots/2048x2732/7.png"  
     title="Emmagatzematge al núvol" 
     method="Fill"
@@ -212,7 +212,7 @@ Disseny intuïtiu
     icon="cloud"
   >}}
 
-  {{< card 
+  {{< feature-card 
     image="/products/flacbox/screenshots/2048x2732/8.png"  
     title="iCloud Drive" 
     method="Fill"
@@ -835,19 +835,19 @@ Per utilitzar CarPlay, assegura't que Siri estigui activat i que el teu iPhone e
 
 {{< cards >}}
 
-{{< card icon="map" link="/docs/guide/flacbox/flacbox-guide-navigation" title="Navegació" subtitle="Utilitza la barra de pestanyes a l'iPhone o el menú lateral a l'iPad i Mac." >}}
+{{< feature-card icon="map" link="/docs/guide/flacbox/flacbox-guide-navigation" title="Navegació" subtitle="Utilitza la barra de pestanyes a l'iPhone o el menú lateral a l'iPad i Mac." >}}
 
-{{< card icon="cloud" link="/docs/guide/flacbox/flacbox-guide-connections" title="Connexions" subtitle="Connecta Dropbox, Google Drive, iCloud o el teu NAS." >}}
+{{< feature-card icon="cloud" link="/docs/guide/flacbox/flacbox-guide-connections" title="Connexions" subtitle="Connecta Dropbox, Google Drive, iCloud o el teu NAS." >}}
 
-{{< card icon="collection" link="/docs/guide/flacbox/flacbox-guide-music-library" title="Biblioteca musical" subtitle="Gestiona i cerca pistes per artista, àlbum o gènere." >}}
+{{< feature-card icon="collection" link="/docs/guide/flacbox/flacbox-guide-music-library" title="Biblioteca musical" subtitle="Gestiona i cerca pistes per artista, àlbum o gènere." >}}
 
-{{< card icon="music-note" link="/docs/guide/flacbox/flacbox-guide-playlists" title="Llistes de reproducció" subtitle="Crea i organitza llistes de reproducció per a qualsevol estat d'ànim o ocasió." >}}
+{{< feature-card icon="music-note" link="/docs/guide/flacbox/flacbox-guide-playlists" title="Llistes de reproducció" subtitle="Crea i organitza llistes de reproducció per a qualsevol estat d'ànim o ocasió." >}}
 
-{{< card icon="folder" link="/docs/guide/flacbox/flacbox-guide-local-files" title="Fitxers locals" subtitle="Edita i reprodueix música fora de línia amb el gestor de fitxers integrat." >}}
+{{< feature-card icon="folder" link="/docs/guide/flacbox/flacbox-guide-local-files" title="Fitxers locals" subtitle="Edita i reprodueix música fora de línia amb el gestor de fitxers integrat." >}}
 
-{{< card icon="play" link="/docs/guide/flacbox/flacbox-guide-player" title="Reproductor d'àudio" subtitle="Controla la reproducció, ajusta la velocitat, estableix marcadors i més." >}}
+{{< feature-card icon="play" link="/docs/guide/flacbox/flacbox-guide-player" title="Reproductor d'àudio" subtitle="Controla la reproducció, ajusta la velocitat, estableix marcadors i més." >}}
 
-{{< card icon="adjustments" link="/docs/guide/flacbox/flacbox-guide-settings" title="Configuració" subtitle="Personalitza l'equalitzador, l'aparença i el comportament de l'aplicació." >}}
+{{< feature-card icon="adjustments" link="/docs/guide/flacbox/flacbox-guide-settings" title="Configuració" subtitle="Personalitza l'equalitzador, l'aparença i el comportament de l'aplicació." >}}
 
 {{< /cards >}}
 

@@ -92,31 +92,17 @@ Evermusic is a free offline music player for iPhone and Mac developed by Everapp
 {{< hextra/feature-grid >}}
 
   {{< hextra/feature-card
-    title="Save Space on Device"
-    subtitle="Got 100Gb of music collected by years but only 32Gb of storage on iPhone? Just move all your tracks to the cloud and free up such valuable space for photos, videos and apps."
-    icon="folder"
-    style="background: radial-gradient(ellipse at 50% 80%, rgba(59,130,246,0.15), hsla(0,0%,100%,0));"
-  >}}
-
-  {{< hextra/feature-card
-    title="Instant Access to Tracks"
-    subtitle="With support of the most popular cloud services Evermusic allows you to pick one or multiple services and stream your music from the cloud. No more iTunes synchronization, your audio files get uploaded to the cloud from PC or Mac just like other files."
-    icon="collection"
-    style="background: radial-gradient(ellipse at 50% 80%, rgba(192,38,211,0.15), hsla(0,0%,100%,0));"
+    title="Your Music in the Cloud"
+    subtitle="Create your own advanced music streaming service for free! Stream your favorite tracks directly from the cloud with smart buffering and seamless playback while saving device storage. Connect services like iCloud Drive, Google Drive, Dropbox, OneDrive, Box, MEGA, pCloud, Proton Drive, and many more."
+    icon="cloud"
+    style="background: radial-gradient(ellipse at 50% 80%, rgba(34,197,94,0.15), hsla(0,0%,100%,0));"
   >}}
 
   {{< hextra/feature-card
     title="Offline Mode"
-    subtitle="Offline mode allows you to download favourite albums, tracks, genres and playlists for offline playback and listen to music, when you aren’t connected to the Internet."
+    subtitle="Offline mode lets you download your favourite albums, tracks, artists, genres, and playlists for offline playback. Listen anywhere, whether on a flight, in the subway, or off the grid, even when you aren’t connected to the Internet, with no streaming and no data usage."
     icon="download"
     style="background: radial-gradient(ellipse at 50% 80%, rgba(234,88,12,0.15), hsla(0,0%,100%,0));"
-  >}}
-
-  {{< hextra/feature-card
-    title="Your Music in the Cloud"
-    subtitle="Create your own advanced music streaming service for free! Manage your massive music library, save device storage, and stream your favorite tracks directly from the cloud with smart buffering and seamless playback. Enjoy support for popular cloud services like iCloud, Google Drive, Dropbox, MEGA.nz, Box, OneDrive, and more."
-    icon="cloud"
-    style="background: radial-gradient(ellipse at 50% 80%, rgba(34,197,94,0.15), hsla(0,0%,100%,0));"
   >}}
 
   {{< hextra/feature-card
@@ -127,9 +113,23 @@ Evermusic is a free offline music player for iPhone and Mac developed by Everapp
   >}}
 
   {{< hextra/feature-card
-    title="Automatic Sync"
-    subtitle="Sync Manager automatically scans your cloud storage for audio files and updates your music library. The Metadata Loader organizes tracks by albums, artists, and genres using embedded audio tags."
-    icon="refresh"
+    title="Media Servers & NAS"
+    subtitle="Connect to your personal media libraries and home servers like Plex, Emby, Jellyfin, Subsonic, and Navidrome. Link your NAS such as Synology, QNAP, Nextcloud, and WD My Cloud Home over SMB, WebDAV, FTP, SFTP, NFS, or DLNA/UPnP, and access your entire music collection from anywhere."
+    icon="desktop-computer"
+    style="background: radial-gradient(ellipse at 50% 80%, rgba(59,130,246,0.15), hsla(0,0%,100%,0));"
+  >}}
+
+  {{< hextra/feature-card
+    title="Pro Audio Engine"
+    subtitle="Enjoy true gapless playback and smooth crossfade between tracks. Shape your sound with a 10-band equalizer, custom presets and preamp gain, adjustable playback speed and pitch, plus a full suite of studio effects like reverb, echo, chorus, flanger, bass boost, crossfeed, and volume normalization."
+    icon="adjustments"
+    style="background: radial-gradient(ellipse at 50% 80%, rgba(192,38,211,0.15), hsla(0,0%,100%,0));"
+  >}}
+
+  {{< hextra/feature-card
+    title="Lyrics, Widgets & CarPlay"
+    subtitle="Read embedded and synchronized LRC lyrics that scroll in time with the music, even on the lock screen, in home screen widgets, and on Apple CarPlay. Add Now Playing, Lyrics, Favorites, and Recently Played widgets to keep your music right at your fingertips, always in sync."
+    icon="annotation"
     style="background: radial-gradient(ellipse at 50% 80%, rgba(6,182,212,0.15), hsla(0,0%,100%,0));"
   >}}
 
@@ -149,7 +149,7 @@ Evermusic is a free offline music player for iPhone and Mac developed by Everapp
 
 {{< cards cols="4">}}
 
-  {{< card 
+  {{< feature-card 
     icon="adjustments"
     image="/products/evermusic/screenshots/2048x2732/3.png" 
     title="Audio Equalizer" 
@@ -158,7 +158,7 @@ Evermusic is a free offline music player for iPhone and Mac developed by Everapp
     subtitle="Fine-tune your sound with an iPod-style audio equalizer, customizable presets, and preamp gain for the best listening experience." 
   >}}
 
-  {{< card 
+  {{< feature-card 
     icon="annotation"
     image="/products/evermusic/screenshots/2048x2732/4.png"  
     title="Lyrics Viewer" 
@@ -167,7 +167,7 @@ Evermusic is a free offline music player for iPhone and Mac developed by Everapp
     subtitle="Read embedded lyrics and track comments while listening. Enjoy synchronized lyrics for a more immersive music experience." 
   >}}
 
-  {{< card 
+  {{< feature-card 
     icon="collection"
     image="/products/evermusic/screenshots/2048x2732/5.png"  
     title="Playlist Manager" 
@@ -176,7 +176,7 @@ Evermusic is a free offline music player for iPhone and Mac developed by Everapp
     subtitle="Create and organize custom playlists, reorder songs, export to M3U, or archive them as ZIP files for easy sharing or backup." 
   >}}
 
-  {{< card 
+  {{< feature-card 
     icon="cloud"
     image="/products/evermusic/screenshots/2048x2732/6.png"  
     title="Cloud Music Streaming" 
@@ -185,7 +185,7 @@ Evermusic is a free offline music player for iPhone and Mac developed by Everapp
     subtitle="Link top cloud storage platforms like Google Drive, Dropbox, and OneDrive to stream your music collection anytime, anywhere." 
   >}}
 
-  {{< card 
+  {{< feature-card 
     icon="duplicate"
     image="/products/evermusic/screenshots/2048x2732/9.png"  
     title="File Manager" 
@@ -194,7 +194,7 @@ Evermusic is a free offline music player for iPhone and Mac developed by Everapp
     subtitle="Easily manage your audio files—rename tracks, organize folders, and transfer music between devices using built-in tools." 
   >}} 
 
-  {{< card 
+  {{< feature-card 
     icon="sun"
     image="/products/evermusic/screenshots/2048x2732/10.png"  
     title="App Customization" 
@@ -219,41 +219,47 @@ Evermusic is a free offline music player for iPhone and Mac developed by Everapp
 
 {{< cards >}}
 
-  {{< card title="Audio Formats" subtitle="Supports: mp3, m4a, flac, wav, aac, mp4, m3u, m3u8, m4b, m4p, aiff, ogg, mp2, ac3, wma, and more." icon="music-note" >}}
+  {{< feature-card title="Play All Audio Formats" subtitle="Evermusic plays the most popular audio formats, including MP3, AAC, M4A, WAV, AIFF, ALAC, and M4B, so your whole music collection is ready to play on any device." icon="music-note" >}}
 
-  {{< card title="Audiobooks" subtitle="Includes audio bookmarks, playback speed control, and resume position." icon="book-open" width="50">}}
+  {{< feature-card title="Connect Your Cloud" subtitle="Build your own streaming service by moving your library to the cloud and freeing up iPhone space. Connect iCloud, Google Drive, Dropbox, OneDrive, MEGA, Internxt, and Proton Drive." icon="cloud" >}}
 
-  {{< card title="Automatic Sync" subtitle="Syncs your music library with the cloud, organized by artist, album, and genre." icon="refresh" >}}
+  {{< feature-card title="Connect Media Servers" subtitle="Connect your personal media servers straight to your library, including Plex, Subsonic, Navidrome, Jellyfin, and Emby, and stream everything you own from home with ease." icon="server" >}}
 
-  {{< card title="File Manager" subtitle="Manage files with operations like copy, move, rename, and delete." icon="folder" >}}
+  {{< feature-card title="Connect Your Computer or NAS" subtitle="Connect your computer or NAS over SMB, WebDAV, DLNA, FTP, SFTP, and NFS, with native APIs for QNAP, Synology, Nextcloud, and WD My Cloud Home, or transfer files over Wi-Fi." icon="desktop-computer" >}}
 
-  {{< card title="Cloud Services" subtitle="Supports iCloud, Google Drive, Dropbox, OneDrive, Box, MEGA, WD MyCloud Home, pCloud, and more." icon="cloud" >}}
+  {{< feature-card title="Offline Music" subtitle="Download your favorite songs, albums, and artists to enjoy them offline anytime. Enable the audio player cache to automatically save recently played tracks for offline listening." icon="download" >}}
 
-  {{< card title="Crossfade Playback" subtitle="Next song starts before the current one ends for seamless transitions." icon="switch-horizontal" >}}
+  {{< feature-card title="Audio Equalizer" subtitle="Shape your sound with the built-in equalizer, featuring ready-made presets for popular music genres plus manual controls to fine-tune and amplify every track exactly how you like." icon="adjustments" >}}
 
-  {{< card title="Gapless Playback" subtitle="No pauses between songs — ideal for live, classical, or concept albums." icon="volume-up" >}}
+  {{< feature-card title="Gapless Playback" subtitle="Enjoy smooth, uninterrupted playback with no pauses between songs, perfect for live recordings, conceptual albums, DJ mixes, and classical music from start to finish." icon="volume-up" >}}
 
-  {{< card title="Audio Equalizer" subtitle="Customizable equalizer with presets, manual control, and preamp gain." icon="adjustments" >}}
+  {{< feature-card title="Crossfade Playback" subtitle="Keep the music flowing with crossfade, where each new song gently begins before the current one ends for seamless, continuous playback without any silent gaps." icon="switch-horizontal" >}}
 
-  {{< card title="Advanced Search" subtitle="Find your favorite albums, artists, and tracks quickly and easily." icon="search" >}}
+  {{< feature-card title="Audio Effects" subtitle="Shape your sound with built-in audio effects. Turn on volume normalization to keep every track at the same loudness, and add reverb, delay, distortion, and spatial audio to taste." icon="chip" >}}
 
-  {{< card title="Computer Access" subtitle="Connect via SMB, WebDAV, or DLNA. Transfer via iTunes File Sharing and Wi-Fi." icon="desktop-computer" >}}
+  {{< feature-card title="Music Visualizer" subtitle="Watch full-screen animated visuals that react live to your music in real time. Choose from a large library of presets or let them cycle automatically as you listen." icon="sparkles" >}}
 
-  {{< card title="AirPlay & Chromecast" subtitle="Stream to Apple TV and Google Chromecast devices wirelessly." icon="device-mobile" >}}
+  {{< feature-card title="Lyrics and Comments" subtitle="View embedded timed lyrics and comments for your audio tracks as they play, and add the lyrics widget to your Home Screen for quick, at-a-glance access anytime." icon="annotation" >}}
 
-  {{< card title="Playlists" subtitle="Create, edit, reorder, and export/import M3U playlists with offline mode." icon="collection" >}}
+  {{< feature-card title="AirPlay & Chromecast" subtitle="Stream your music wirelessly to Apple TV, smart speakers, and other devices with built-in AirPlay and Google Chromecast support for effortless whole-home listening." icon="device-mobile" >}}
 
-  {{< card title="USB Flash Cards" subtitle="Play music directly from SD cards using external readers like SanDisk iXpand." icon="inbox" >}}
+  {{< feature-card title="Apple CarPlay" subtitle="Drive and listen safely with a dedicated Apple CarPlay interface that puts your music, playlists, and playback controls right on your car's dashboard display." icon="truck" >}}
 
-  {{< card title="Offline Mode" subtitle="Download albums and playlists or auto-cache recently played tracks for offline listening." icon="download" >}}
+  {{< feature-card title="Widgets" subtitle="Activate interactive Home Screen widgets for fast access to your playback queue, and continue right where you left off from the last saved position with a single tap." icon="view-grid" >}}
 
-  {{< card title="Apple CarPlay" subtitle="Drive safely with a dedicated CarPlay UI for music playback." icon="truck" >}}
+  {{< feature-card title="Audiobooks" subtitle="Turn the app into a full audiobook player with audio bookmarks, playback speed control, and saved media positions, plus read the text details stored in your files' metadata." icon="book-open" >}}
 
-  {{< card title="ID3 Tags Editor" subtitle="Edit corrupted or missing metadata using the built-in tags editor." icon="pencil-alt" >}}
+  {{< feature-card title="Automatic Synchronization" subtitle="Your music library syncs automatically between the cloud and your device, neatly grouping every song by artist, album, and genre so your collection always stays organized." icon="refresh" >}}
 
-  {{< card title="Lyrics and Comments" subtitle="View embedded lyrics and comments while listening to your music." icon="annotation" >}}
+  {{< feature-card title="Playlists Manager" subtitle="Create and manage playlists, reorder songs, and make any playlist available offline. Sort your tracks by name, size, song number, or album to keep everything in order." icon="collection" >}}
 
-  {{< card title="Last.fm" subtitle="Connect your Last.fm account to get personalized listening stats and recommendations." icon="chart-bar" >}}
+  {{< feature-card title="ID3 Tags Editor" subtitle="Fix corrupted or missing metadata with the built-in ID3 tags editor, updating titles, artists, albums, and more so your music library stays clean and well organized." icon="pencil-alt" >}}
+
+  {{< feature-card title="File Manager" subtitle="Organize your music with the integrated file manager, handling everyday operations like copy, move, rename, and delete to keep all of your audio files neatly in order." icon="folder" >}}
+
+  {{< feature-card title="Advanced Search" subtitle="Find anything in seconds with the smart search engine, quickly locating your favorite albums, artists, and songs anywhere across your entire music library." icon="search" >}}
+
+  {{< feature-card title="USB Flash Cards" subtitle="Connect external card readers like the SanDisk iXpand and listen to your music directly from an SD card or USB flash drive, with no extra syncing or downloads required." icon="inbox" >}}
   
 {{< /cards >}}
 
@@ -705,19 +711,19 @@ With this wide range of supported formats and file extensions, you can enjoy you
 </div>
 
 {{< cards >}}
-  {{< card icon="location-marker" title="Navigation" subtitle="Learn how to navigate Evermusic using the Tab Bar on iPhone or the Left Menu on iPad and Mac." link="/docs/guide/evermusic/evermusic-guide-navigation" >}}
+  {{< feature-card icon="location-marker" title="Navigation" subtitle="Learn how to navigate Evermusic using the Tab Bar on iPhone or the Left Menu on iPad and Mac." link="/docs/guide/evermusic/evermusic-guide-navigation" >}}
 
-  {{< card icon="cloud" title="Connections" subtitle="Connect your cloud accounts and manage online files using the built-in file manager." link="/docs/guide/evermusic/evermusic-guide-connections" >}}
+  {{< feature-card icon="cloud" title="Connections" subtitle="Connect your cloud accounts and manage online files using the built-in file manager." link="/docs/guide/evermusic/evermusic-guide-connections" >}}
 
-  {{< card icon="library" title="Music Library" subtitle="Organize and explore your tracks, albums, and artists in the Music Library." link="/docs/guide/evermusic/evermusic-guide-music-library" >}}
+  {{< feature-card icon="library" title="Music Library" subtitle="Organize and explore your tracks, albums, and artists in the Music Library." link="/docs/guide/evermusic/evermusic-guide-music-library" >}}
 
-  {{< card icon="collection" title="Playlists" subtitle="Create and arrange playlists to match your mood or occasion." link="/docs/guide/evermusic/evermusic-guide-playlists" >}}
+  {{< feature-card icon="collection" title="Playlists" subtitle="Create and arrange playlists to match your mood or occasion." link="/docs/guide/evermusic/evermusic-guide-playlists" >}}
 
-  {{< card icon="folder" title="Local Files" subtitle="Access and manage offline music through the Local Files section." link="/docs/guide/evermusic/evermusic-guide-local-files" >}}
+  {{< feature-card icon="folder" title="Local Files" subtitle="Access and manage offline music through the Local Files section." link="/docs/guide/evermusic/evermusic-guide-local-files" >}}
 
-  {{< card icon="play" title="Audio Player" subtitle="Control your playback, queue, and audio settings like equalizer and sleep timer." link="/docs/guide/evermusic/evermusic-guide-player" >}}
+  {{< feature-card icon="play" title="Audio Player" subtitle="Control your playback, queue, and audio settings like equalizer and sleep timer." link="/docs/guide/evermusic/evermusic-guide-player" >}}
 
-  {{< card icon="adjustments" title="Settings" subtitle="Customize Evermusic’s look, features, and performance settings." link="/docs/guide/evermusic/evermusic-guide-settings" >}}
+  {{< feature-card icon="adjustments" title="Settings" subtitle="Customize Evermusic’s look, features, and performance settings." link="/docs/guide/evermusic/evermusic-guide-settings" >}}
 
 {{< /cards >}}
 

@@ -148,7 +148,7 @@ Evermusic — це безкоштовний офлайн-музичний пле
 
 {{< cards cols="4">}}
 
-  {{< card 
+  {{< feature-card 
     icon="adjustments"
     image="/products/evermusic/screenshots/2048x2732/3.png" 
     title="Аудіо еквалайзер" 
@@ -157,7 +157,7 @@ Evermusic — це безкоштовний офлайн-музичний пле
     subtitle="Налаштуйте звук за допомогою аудіо еквалайзера у стилі iPod, налаштовуваних пресетів та підсилення попереднього підсилювача для найкращого прослуховування." 
   >}}
 
-  {{< card 
+  {{< feature-card 
     icon="annotation"
     image="/products/evermusic/screenshots/2048x2732/4.png"  
     title="Перегляд текстів пісень" 
@@ -166,7 +166,7 @@ Evermusic — це безкоштовний офлайн-музичний пле
     subtitle="Читайте вбудовані тексти пісень та коментарі до треків під час прослуховування. Насолоджуйтесь синхронізованими текстами для більш захоплюючого музичного досвіду." 
   >}}
 
-  {{< card 
+  {{< feature-card 
     icon="collection"
     image="/products/evermusic/screenshots/2048x2732/5.png"  
     title="Менеджер плейлистів" 
@@ -175,7 +175,7 @@ Evermusic — це безкоштовний офлайн-музичний пле
     subtitle="Створюйте та організовуйте власні плейлисти, змінюйте порядок пісень, експортуйте в M3U або архівуйте як ZIP файли для зручного обміну та резервного копіювання." 
   >}}
 
-  {{< card 
+  {{< feature-card 
     icon="cloud"
     image="/products/evermusic/screenshots/2048x2732/6.png"  
     title="Хмарне потокове відтворення" 
@@ -184,7 +184,7 @@ Evermusic — це безкоштовний офлайн-музичний пле
     subtitle="Підключіть провідні хмарні платформи зберігання, такі як Google Drive, Dropbox та OneDrive, щоб транслювати вашу музичну колекцію будь-коли та будь-де." 
   >}}
 
-  {{< card 
+  {{< feature-card 
     icon="duplicate"
     image="/products/evermusic/screenshots/2048x2732/9.png"  
     title="Файловий менеджер" 
@@ -193,7 +193,7 @@ Evermusic — це безкоштовний офлайн-музичний пле
     subtitle="Легко керуйте аудіофайлами — перейменовуйте треки, організовуйте папки та переносіть музику між пристроями за допомогою вбудованих інструментів." 
   >}} 
 
-  {{< card 
+  {{< feature-card 
     icon="sun"
     image="/products/evermusic/screenshots/2048x2732/10.png"  
     title="Налаштування додатку" 
@@ -218,41 +218,41 @@ Evermusic — це безкоштовний офлайн-музичний пле
 
 {{< cards >}}
 
-  {{< card title="Аудіо формати" subtitle="Підтримує: mp3, m4a, flac, wav, aac, mp4, m3u, m3u8, m4b, m4p, aiff, ogg, mp2, ac3, wma та інші." icon="music-note" >}}
+  {{< feature-card title="Аудіо формати" subtitle="Підтримує: mp3, m4a, flac, wav, aac, mp4, m3u, m3u8, m4b, m4p, aiff, ogg, mp2, ac3, wma та інші." icon="music-note" >}}
 
-  {{< card title="Аудіокниги" subtitle="Включає аудіо закладки, контроль швидкості відтворення та збереження позиції." icon="book-open" width="50">}}
+  {{< feature-card title="Аудіокниги" subtitle="Включає аудіо закладки, контроль швидкості відтворення та збереження позиції." icon="book-open" width="50">}}
 
-  {{< card title="Автоматична синхронізація" subtitle="Синхронізує музичну бібліотеку з хмарою, організовану за виконавцем, альбомом та жанром." icon="refresh" >}}
+  {{< feature-card title="Автоматична синхронізація" subtitle="Синхронізує музичну бібліотеку з хмарою, організовану за виконавцем, альбомом та жанром." icon="refresh" >}}
 
-  {{< card title="Файловий менеджер" subtitle="Керуйте файлами з операціями копіювання, переміщення, перейменування та видалення." icon="folder" >}}
+  {{< feature-card title="Файловий менеджер" subtitle="Керуйте файлами з операціями копіювання, переміщення, перейменування та видалення." icon="folder" >}}
 
-  {{< card title="Хмарні сервіси" subtitle="Підтримує iCloud, Google Drive, Dropbox, OneDrive, Box, MEGA, WD MyCloud Home, pCloud та інші." icon="cloud" >}}
+  {{< feature-card title="Хмарні сервіси" subtitle="Підтримує iCloud, Google Drive, Dropbox, OneDrive, Box, MEGA, WD MyCloud Home, pCloud та інші." icon="cloud" >}}
 
-  {{< card title="Відтворення з кросфейдом" subtitle="Наступна пісня починається до завершення поточної для плавних переходів." icon="switch-horizontal" >}}
+  {{< feature-card title="Відтворення з кросфейдом" subtitle="Наступна пісня починається до завершення поточної для плавних переходів." icon="switch-horizontal" >}}
 
-  {{< card title="Безперервне відтворення" subtitle="Без пауз між піснями — ідеально для живих, класичних або концептуальних альбомів." icon="volume-up" >}}
+  {{< feature-card title="Безперервне відтворення" subtitle="Без пауз між піснями — ідеально для живих, класичних або концептуальних альбомів." icon="volume-up" >}}
 
-  {{< card title="Аудіо еквалайзер" subtitle="Налаштовуваний еквалайзер з пресетами, ручним керуванням та підсиленням попереднього підсилювача." icon="adjustments" >}}
+  {{< feature-card title="Аудіо еквалайзер" subtitle="Налаштовуваний еквалайзер з пресетами, ручним керуванням та підсиленням попереднього підсилювача." icon="adjustments" >}}
 
-  {{< card title="Розширений пошук" subtitle="Швидко та легко знаходьте улюблені альбоми, виконавців та треки." icon="search" >}}
+  {{< feature-card title="Розширений пошук" subtitle="Швидко та легко знаходьте улюблені альбоми, виконавців та треки." icon="search" >}}
 
-  {{< card title="Доступ з комп'ютера" subtitle="Підключайтесь через SMB, WebDAV або DLNA. Переносіть через iTunes File Sharing та Wi-Fi." icon="desktop-computer" >}}
+  {{< feature-card title="Доступ з комп'ютера" subtitle="Підключайтесь через SMB, WebDAV або DLNA. Переносіть через iTunes File Sharing та Wi-Fi." icon="desktop-computer" >}}
 
-  {{< card title="AirPlay та Chromecast" subtitle="Транслюйте на Apple TV та пристрої Google Chromecast бездротово." icon="device-mobile" >}}
+  {{< feature-card title="AirPlay та Chromecast" subtitle="Транслюйте на Apple TV та пристрої Google Chromecast бездротово." icon="device-mobile" >}}
 
-  {{< card title="Плейлисти" subtitle="Створюйте, редагуйте, змінюйте порядок та експортуйте/імпортуйте плейлисти M3U з офлайн режимом." icon="collection" >}}
+  {{< feature-card title="Плейлисти" subtitle="Створюйте, редагуйте, змінюйте порядок та експортуйте/імпортуйте плейлисти M3U з офлайн режимом." icon="collection" >}}
 
-  {{< card title="USB флеш-карти" subtitle="Відтворюйте музику безпосередньо з SD карт за допомогою зовнішніх зчитувачів, таких як SanDisk iXpand." icon="inbox" >}}
+  {{< feature-card title="USB флеш-карти" subtitle="Відтворюйте музику безпосередньо з SD карт за допомогою зовнішніх зчитувачів, таких як SanDisk iXpand." icon="inbox" >}}
 
-  {{< card title="Офлайн режим" subtitle="Завантажуйте альбоми та плейлисти або автоматично кешуйте нещодавно відтворені треки для офлайн прослуховування." icon="download" >}}
+  {{< feature-card title="Офлайн режим" subtitle="Завантажуйте альбоми та плейлисти або автоматично кешуйте нещодавно відтворені треки для офлайн прослуховування." icon="download" >}}
 
-  {{< card title="Apple CarPlay" subtitle="Безпечно керуйте автомобілем зі спеціальним інтерфейсом CarPlay для відтворення музики." icon="truck" >}}
+  {{< feature-card title="Apple CarPlay" subtitle="Безпечно керуйте автомобілем зі спеціальним інтерфейсом CarPlay для відтворення музики." icon="truck" >}}
 
-  {{< card title="Редактор тегів ID3" subtitle="Редагуйте пошкоджені або відсутні метадані за допомогою вбудованого редактора тегів." icon="pencil-alt" >}}
+  {{< feature-card title="Редактор тегів ID3" subtitle="Редагуйте пошкоджені або відсутні метадані за допомогою вбудованого редактора тегів." icon="pencil-alt" >}}
 
-  {{< card title="Тексти пісень та коментарі" subtitle="Переглядайте вбудовані тексти пісень та коментарі під час прослуховування музики." icon="annotation" >}}
+  {{< feature-card title="Тексти пісень та коментарі" subtitle="Переглядайте вбудовані тексти пісень та коментарі під час прослуховування музики." icon="annotation" >}}
 
-  {{< card title="Last.fm" subtitle="Підключіть обліковий запис Last.fm для отримання персоналізованої статистики прослуховування та рекомендацій." icon="chart-bar" >}}
+  {{< feature-card title="Last.fm" subtitle="Підключіть обліковий запис Last.fm для отримання персоналізованої статистики прослуховування та рекомендацій." icon="chart-bar" >}}
   
 {{< /cards >}}
 
@@ -704,19 +704,19 @@ mpeg, aifc, 3gp, avi, aif, latm, 3gpp, m4a, loas, cdda, aac, m4p, m4b, ac3, pls,
 </div>
 
 {{< cards >}}
-  {{< card icon="location-marker" title="Навігація" subtitle="Дізнайтеся, як навігувати Evermusic за допомогою панелі вкладок на iPhone або лівого меню на iPad та Mac." link="/docs/guide/evermusic/evermusic-guide-navigation" >}}
+  {{< feature-card icon="location-marker" title="Навігація" subtitle="Дізнайтеся, як навігувати Evermusic за допомогою панелі вкладок на iPhone або лівого меню на iPad та Mac." link="/docs/guide/evermusic/evermusic-guide-navigation" >}}
 
-  {{< card icon="cloud" title="З'єднання" subtitle="Підключіть хмарні облікові записи та керуйте онлайн файлами за допомогою вбудованого файлового менеджера." link="/docs/guide/evermusic/evermusic-guide-connections" >}}
+  {{< feature-card icon="cloud" title="З'єднання" subtitle="Підключіть хмарні облікові записи та керуйте онлайн файлами за допомогою вбудованого файлового менеджера." link="/docs/guide/evermusic/evermusic-guide-connections" >}}
 
-  {{< card icon="library" title="Музична бібліотека" subtitle="Організовуйте та досліджуйте треки, альбоми та виконавців у музичній бібліотеці." link="/docs/guide/evermusic/evermusic-guide-music-library" >}}
+  {{< feature-card icon="library" title="Музична бібліотека" subtitle="Організовуйте та досліджуйте треки, альбоми та виконавців у музичній бібліотеці." link="/docs/guide/evermusic/evermusic-guide-music-library" >}}
 
-  {{< card icon="collection" title="Плейлисти" subtitle="Створюйте та упорядковуйте плейлисти під ваш настрій чи нагоду." link="/docs/guide/evermusic/evermusic-guide-playlists" >}}
+  {{< feature-card icon="collection" title="Плейлисти" subtitle="Створюйте та упорядковуйте плейлисти під ваш настрій чи нагоду." link="/docs/guide/evermusic/evermusic-guide-playlists" >}}
 
-  {{< card icon="folder" title="Локальні файли" subtitle="Отримуйте доступ та керуйте офлайн музикою через розділ Локальні файли." link="/docs/guide/evermusic/evermusic-guide-local-files" >}}
+  {{< feature-card icon="folder" title="Локальні файли" subtitle="Отримуйте доступ та керуйте офлайн музикою через розділ Локальні файли." link="/docs/guide/evermusic/evermusic-guide-local-files" >}}
 
-  {{< card icon="play" title="Аудіо плеєр" subtitle="Керуйте відтворенням, чергою та налаштуваннями звуку, такими як еквалайзер та таймер сну." link="/docs/guide/evermusic/evermusic-guide-player" >}}
+  {{< feature-card icon="play" title="Аудіо плеєр" subtitle="Керуйте відтворенням, чергою та налаштуваннями звуку, такими як еквалайзер та таймер сну." link="/docs/guide/evermusic/evermusic-guide-player" >}}
 
-  {{< card icon="adjustments" title="Налаштування" subtitle="Налаштуйте зовнішній вигляд, функції та параметри продуктивності Evermusic." link="/docs/guide/evermusic/evermusic-guide-settings" >}}
+  {{< feature-card icon="adjustments" title="Налаштування" subtitle="Налаштуйте зовнішній вигляд, функції та параметри продуктивності Evermusic." link="/docs/guide/evermusic/evermusic-guide-settings" >}}
 
 {{< /cards >}}
 

@@ -148,7 +148,7 @@ Evermusic là trình phát nhạc ngoại tuyến miễn phí dành cho iPhone v
 
 {{< cards cols="4">}}
 
-  {{< card 
+  {{< feature-card 
     icon="adjustments"
     image="/products/evermusic/screenshots/2048x2732/3.png" 
     title="Bộ cân bằng âm thanh" 
@@ -157,7 +157,7 @@ Evermusic là trình phát nhạc ngoại tuyến miễn phí dành cho iPhone v
     subtitle="Tinh chỉnh âm thanh với bộ cân bằng kiểu iPod, cài đặt sẵn tùy chỉnh và khuếch đại preamp để có trải nghiệm nghe tốt nhất." 
   >}}
 
-  {{< card 
+  {{< feature-card 
     icon="annotation"
     image="/products/evermusic/screenshots/2048x2732/4.png"  
     title="Trình xem lời bài hát" 
@@ -166,7 +166,7 @@ Evermusic là trình phát nhạc ngoại tuyến miễn phí dành cho iPhone v
     subtitle="Đọc lời bài hát nhúng và bình luận bài hát khi nghe. Thưởng thức lời bài hát đồng bộ cho trải nghiệm âm nhạc sống động hơn." 
   >}}
 
-  {{< card 
+  {{< feature-card 
     icon="collection"
     image="/products/evermusic/screenshots/2048x2732/5.png"  
     title="Trình quản lý danh sách phát" 
@@ -175,7 +175,7 @@ Evermusic là trình phát nhạc ngoại tuyến miễn phí dành cho iPhone v
     subtitle="Tạo và tổ chức danh sách phát tùy chỉnh, sắp xếp lại bài hát, xuất sang M3U hoặc lưu trữ dưới dạng tệp ZIP để chia sẻ hoặc sao lưu dễ dàng." 
   >}}
 
-  {{< card 
+  {{< feature-card 
     icon="cloud"
     image="/products/evermusic/screenshots/2048x2732/6.png"  
     title="Phát nhạc từ đám mây" 
@@ -184,7 +184,7 @@ Evermusic là trình phát nhạc ngoại tuyến miễn phí dành cho iPhone v
     subtitle="Kết nối các nền tảng lưu trữ đám mây hàng đầu như Google Drive, Dropbox và OneDrive để phát trực tuyến bộ sưu tập nhạc mọi lúc mọi nơi." 
   >}}
 
-  {{< card 
+  {{< feature-card 
     icon="duplicate"
     image="/products/evermusic/screenshots/2048x2732/9.png"  
     title="Trình quản lý tệp" 
@@ -193,7 +193,7 @@ Evermusic là trình phát nhạc ngoại tuyến miễn phí dành cho iPhone v
     subtitle="Quản lý tệp âm thanh dễ dàng — đổi tên bài hát, sắp xếp thư mục và chuyển nhạc giữa các thiết bị bằng công cụ tích hợp." 
   >}} 
 
-  {{< card 
+  {{< feature-card 
     icon="sun"
     image="/products/evermusic/screenshots/2048x2732/10.png"  
     title="Tùy chỉnh ứng dụng" 
@@ -218,41 +218,41 @@ Evermusic là trình phát nhạc ngoại tuyến miễn phí dành cho iPhone v
 
 {{< cards >}}
 
-  {{< card title="Định dạng âm thanh" subtitle="Hỗ trợ: mp3, m4a, flac, wav, aac, mp4, m3u, m3u8, m4b, m4p, aiff, ogg, mp2, ac3, wma và nhiều hơn." icon="music-note" >}}
+  {{< feature-card title="Định dạng âm thanh" subtitle="Hỗ trợ: mp3, m4a, flac, wav, aac, mp4, m3u, m3u8, m4b, m4p, aiff, ogg, mp2, ac3, wma và nhiều hơn." icon="music-note" >}}
 
-  {{< card title="Sách nói" subtitle="Bao gồm đánh dấu âm thanh, điều khiển tốc độ phát và tiếp tục vị trí." icon="book-open" width="50">}}
+  {{< feature-card title="Sách nói" subtitle="Bao gồm đánh dấu âm thanh, điều khiển tốc độ phát và tiếp tục vị trí." icon="book-open" width="50">}}
 
-  {{< card title="Đồng bộ tự động" subtitle="Đồng bộ thư viện nhạc với đám mây, sắp xếp theo nghệ sĩ, album và thể loại." icon="refresh" >}}
+  {{< feature-card title="Đồng bộ tự động" subtitle="Đồng bộ thư viện nhạc với đám mây, sắp xếp theo nghệ sĩ, album và thể loại." icon="refresh" >}}
 
-  {{< card title="Trình quản lý tệp" subtitle="Quản lý tệp với các thao tác sao chép, di chuyển, đổi tên và xóa." icon="folder" >}}
+  {{< feature-card title="Trình quản lý tệp" subtitle="Quản lý tệp với các thao tác sao chép, di chuyển, đổi tên và xóa." icon="folder" >}}
 
-  {{< card title="Dịch vụ đám mây" subtitle="Hỗ trợ iCloud, Google Drive, Dropbox, OneDrive, Box, MEGA, WD MyCloud Home, pCloud và nhiều hơn." icon="cloud" >}}
+  {{< feature-card title="Dịch vụ đám mây" subtitle="Hỗ trợ iCloud, Google Drive, Dropbox, OneDrive, Box, MEGA, WD MyCloud Home, pCloud và nhiều hơn." icon="cloud" >}}
 
-  {{< card title="Phát chuyển đổi mượt" subtitle="Bài hát tiếp theo bắt đầu trước khi bài hiện tại kết thúc để chuyển đổi mượt mà." icon="switch-horizontal" >}}
+  {{< feature-card title="Phát chuyển đổi mượt" subtitle="Bài hát tiếp theo bắt đầu trước khi bài hiện tại kết thúc để chuyển đổi mượt mà." icon="switch-horizontal" >}}
 
-  {{< card title="Phát liên tục" subtitle="Không có khoảng dừng giữa các bài hát — lý tưởng cho album trực tiếp, cổ điển hoặc concept." icon="volume-up" >}}
+  {{< feature-card title="Phát liên tục" subtitle="Không có khoảng dừng giữa các bài hát — lý tưởng cho album trực tiếp, cổ điển hoặc concept." icon="volume-up" >}}
 
-  {{< card title="Bộ cân bằng âm thanh" subtitle="Bộ cân bằng tùy chỉnh với cài đặt sẵn, điều khiển thủ công và khuếch đại preamp." icon="adjustments" >}}
+  {{< feature-card title="Bộ cân bằng âm thanh" subtitle="Bộ cân bằng tùy chỉnh với cài đặt sẵn, điều khiển thủ công và khuếch đại preamp." icon="adjustments" >}}
 
-  {{< card title="Tìm kiếm nâng cao" subtitle="Tìm album, nghệ sĩ và bài hát yêu thích nhanh chóng và dễ dàng." icon="search" >}}
+  {{< feature-card title="Tìm kiếm nâng cao" subtitle="Tìm album, nghệ sĩ và bài hát yêu thích nhanh chóng và dễ dàng." icon="search" >}}
 
-  {{< card title="Truy cập máy tính" subtitle="Kết nối qua SMB, WebDAV hoặc DLNA. Chuyển qua iTunes File Sharing và Wi-Fi." icon="desktop-computer" >}}
+  {{< feature-card title="Truy cập máy tính" subtitle="Kết nối qua SMB, WebDAV hoặc DLNA. Chuyển qua iTunes File Sharing và Wi-Fi." icon="desktop-computer" >}}
 
-  {{< card title="AirPlay & Chromecast" subtitle="Phát trực tuyến tới Apple TV và thiết bị Google Chromecast không dây." icon="device-mobile" >}}
+  {{< feature-card title="AirPlay & Chromecast" subtitle="Phát trực tuyến tới Apple TV và thiết bị Google Chromecast không dây." icon="device-mobile" >}}
 
-  {{< card title="Danh sách phát" subtitle="Tạo, chỉnh sửa, sắp xếp lại và xuất/nhập danh sách phát M3U với chế độ ngoại tuyến." icon="collection" >}}
+  {{< feature-card title="Danh sách phát" subtitle="Tạo, chỉnh sửa, sắp xếp lại và xuất/nhập danh sách phát M3U với chế độ ngoại tuyến." icon="collection" >}}
 
-  {{< card title="Thẻ nhớ USB" subtitle="Phát nhạc trực tiếp từ thẻ SD bằng đầu đọc ngoài như SanDisk iXpand." icon="inbox" >}}
+  {{< feature-card title="Thẻ nhớ USB" subtitle="Phát nhạc trực tiếp từ thẻ SD bằng đầu đọc ngoài như SanDisk iXpand." icon="inbox" >}}
 
-  {{< card title="Chế độ ngoại tuyến" subtitle="Tải xuống album và danh sách phát hoặc tự động lưu cache các bài hát phát gần đây để nghe ngoại tuyến." icon="download" >}}
+  {{< feature-card title="Chế độ ngoại tuyến" subtitle="Tải xuống album và danh sách phát hoặc tự động lưu cache các bài hát phát gần đây để nghe ngoại tuyến." icon="download" >}}
 
-  {{< card title="Apple CarPlay" subtitle="Lái xe an toàn với giao diện CarPlay chuyên dụng để phát nhạc." icon="truck" >}}
+  {{< feature-card title="Apple CarPlay" subtitle="Lái xe an toàn với giao diện CarPlay chuyên dụng để phát nhạc." icon="truck" >}}
 
-  {{< card title="Trình sửa thẻ ID3" subtitle="Chỉnh sửa siêu dữ liệu bị hỏng hoặc thiếu bằng trình sửa thẻ tích hợp." icon="pencil-alt" >}}
+  {{< feature-card title="Trình sửa thẻ ID3" subtitle="Chỉnh sửa siêu dữ liệu bị hỏng hoặc thiếu bằng trình sửa thẻ tích hợp." icon="pencil-alt" >}}
 
-  {{< card title="Lời bài hát và bình luận" subtitle="Xem lời bài hát và bình luận nhúng khi nghe nhạc." icon="annotation" >}}
+  {{< feature-card title="Lời bài hát và bình luận" subtitle="Xem lời bài hát và bình luận nhúng khi nghe nhạc." icon="annotation" >}}
 
-  {{< card title="Last.fm" subtitle="Kết nối tài khoản Last.fm để nhận thống kê nghe và đề xuất cá nhân hóa." icon="chart-bar" >}}
+  {{< feature-card title="Last.fm" subtitle="Kết nối tài khoản Last.fm để nhận thống kê nghe và đề xuất cá nhân hóa." icon="chart-bar" >}}
   
 {{< /cards >}}
 
@@ -704,19 +704,19 @@ Với nhiều định dạng và phần mở rộng tệp được hỗ trợ, b
 </div>
 
 {{< cards >}}
-  {{< card icon="location-marker" title="Điều hướng" subtitle="Tìm hiểu cách điều hướng Evermusic bằng Tab Bar trên iPhone hoặc Menu trái trên iPad và Mac." link="/docs/guide/evermusic/evermusic-guide-navigation" >}}
+  {{< feature-card icon="location-marker" title="Điều hướng" subtitle="Tìm hiểu cách điều hướng Evermusic bằng Tab Bar trên iPhone hoặc Menu trái trên iPad và Mac." link="/docs/guide/evermusic/evermusic-guide-navigation" >}}
 
-  {{< card icon="cloud" title="Kết nối" subtitle="Kết nối tài khoản đám mây và quản lý tệp trực tuyến bằng trình quản lý tệp tích hợp." link="/docs/guide/evermusic/evermusic-guide-connections" >}}
+  {{< feature-card icon="cloud" title="Kết nối" subtitle="Kết nối tài khoản đám mây và quản lý tệp trực tuyến bằng trình quản lý tệp tích hợp." link="/docs/guide/evermusic/evermusic-guide-connections" >}}
 
-  {{< card icon="library" title="Thư viện nhạc" subtitle="Tổ chức và khám phá bài hát, album và nghệ sĩ trong Thư viện nhạc." link="/docs/guide/evermusic/evermusic-guide-music-library" >}}
+  {{< feature-card icon="library" title="Thư viện nhạc" subtitle="Tổ chức và khám phá bài hát, album và nghệ sĩ trong Thư viện nhạc." link="/docs/guide/evermusic/evermusic-guide-music-library" >}}
 
-  {{< card icon="collection" title="Danh sách phát" subtitle="Tạo và sắp xếp danh sách phát phù hợp tâm trạng hoặc dịp." link="/docs/guide/evermusic/evermusic-guide-playlists" >}}
+  {{< feature-card icon="collection" title="Danh sách phát" subtitle="Tạo và sắp xếp danh sách phát phù hợp tâm trạng hoặc dịp." link="/docs/guide/evermusic/evermusic-guide-playlists" >}}
 
-  {{< card icon="folder" title="Tệp cục bộ" subtitle="Truy cập và quản lý nhạc ngoại tuyến qua phần Tệp cục bộ." link="/docs/guide/evermusic/evermusic-guide-local-files" >}}
+  {{< feature-card icon="folder" title="Tệp cục bộ" subtitle="Truy cập và quản lý nhạc ngoại tuyến qua phần Tệp cục bộ." link="/docs/guide/evermusic/evermusic-guide-local-files" >}}
 
-  {{< card icon="play" title="Trình phát âm thanh" subtitle="Điều khiển phát, hàng đợi và cài đặt âm thanh như bộ cân bằng và hẹn giờ tắt." link="/docs/guide/evermusic/evermusic-guide-player" >}}
+  {{< feature-card icon="play" title="Trình phát âm thanh" subtitle="Điều khiển phát, hàng đợi và cài đặt âm thanh như bộ cân bằng và hẹn giờ tắt." link="/docs/guide/evermusic/evermusic-guide-player" >}}
 
-  {{< card icon="adjustments" title="Cài đặt" subtitle="Tùy chỉnh giao diện, tính năng và cài đặt hiệu suất của Evermusic." link="/docs/guide/evermusic/evermusic-guide-settings" >}}
+  {{< feature-card icon="adjustments" title="Cài đặt" subtitle="Tùy chỉnh giao diện, tính năng và cài đặt hiệu suất của Evermusic." link="/docs/guide/evermusic/evermusic-guide-settings" >}}
 
 {{< /cards >}}
 

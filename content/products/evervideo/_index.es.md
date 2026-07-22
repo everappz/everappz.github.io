@@ -144,35 +144,35 @@ Todas las funciones
 
 {{< cards >}}
 
-{{< card title="Reproduce todos los formatos de vídeo y audio" subtitle="Ve tus contenidos multimedia sin convertir archivos. Evervideo es compatible con todos los formatos principales, incluyendo MKV, AVI, MP4, MOV, FLAC, MP3, AAC, OGG, WAV, WMV y más." icon="film">}}
+{{< feature-card title="Reproduce todos los formatos de vídeo y audio" subtitle="Ve tus contenidos multimedia sin convertir archivos. Evervideo es compatible con todos los formatos principales, incluyendo MKV, AVI, MP4, MOV, FLAC, MP3, AAC, OGG, WAV, WMV y más." icon="film">}}
 
-{{< card title="Modo sin conexión" subtitle="Descarga vídeos, álbumes y listas de reproducción para verlos sin conexión a internet. Lleva toda tu colección de vídeos a cualquier lugar." icon="download">}}
+{{< feature-card title="Modo sin conexión" subtitle="Descarga vídeos, álbumes y listas de reproducción para verlos sin conexión a internet. Lleva toda tu colección de vídeos a cualquier lugar." icon="download">}}
 
-{{< card title="Vídeo 360° y modo VR" subtitle="Ve vídeos de 360° y VR de una forma divertida y sencilla. Mueve tu teléfono para mirar en cualquier dirección, o ponlo en unas gafas de VR para sentirte dentro del vídeo." icon="video-camera">}}
+{{< feature-card title="Vídeo 360° y modo VR" subtitle="Ve vídeos de 360° y VR de una forma divertida y sencilla. Mueve tu teléfono para mirar en cualquier dirección, o ponlo en unas gafas de VR para sentirte dentro del vídeo." icon="video-camera">}}
 
-{{< card title="Imagen en imagen" subtitle="Sigue viendo vídeos en una pequeña ventana flotante mientras usas otras apps. Controla la reproducción y ve los subtítulos al mismo tiempo — perfecto para la multitarea." icon="duplicate">}}
+{{< feature-card title="Imagen en imagen" subtitle="Sigue viendo vídeos en una pequeña ventana flotante mientras usas otras apps. Controla la reproducción y ve los subtítulos al mismo tiempo — perfecto para la multitarea." icon="duplicate">}}
 
-{{< card title="Ecualizador de vídeo y audio" subtitle="Personaliza la apariencia y el sonido de tus vídeos. Ajusta graves, tono, brillo, gamma, saturación, contraste y más. Elige entre más de 50 preajustes de vídeo y más de 20 preajustes de audio, o crea los tuyos propios." icon="adjustments">}}
+{{< feature-card title="Ecualizador de vídeo y audio" subtitle="Personaliza la apariencia y el sonido de tus vídeos. Ajusta graves, tono, brillo, gamma, saturación, contraste y más. Elige entre más de 50 preajustes de vídeo y más de 20 preajustes de audio, o crea los tuyos propios." icon="adjustments">}}
 
-{{< card title="Subtítulos" subtitle="Visualiza subtítulos incrustados, selecciona el número de pista de subtítulos y disfruta de soporte completo de subtítulos incluso en modo Imagen en imagen." icon="annotation" >}}
+{{< feature-card title="Subtítulos" subtitle="Visualiza subtítulos incrustados, selecciona el número de pista de subtítulos y disfruta de soporte completo de subtítulos incluso en modo Imagen en imagen." icon="annotation" >}}
 
-{{< card title="Reproduce directamente desde la nube" subtitle="Ve vídeos directamente desde tu almacenamiento en la nube sin usar espacio del dispositivo. Compatible con iCloud Drive, Google Drive, Dropbox, OneDrive, MEGA, Synology Drive, pCloud y más." icon="cloud">}}
+{{< feature-card title="Reproduce directamente desde la nube" subtitle="Ve vídeos directamente desde tu almacenamiento en la nube sin usar espacio del dispositivo. Compatible con iCloud Drive, Google Drive, Dropbox, OneDrive, MEGA, Synology Drive, pCloud y más." icon="cloud">}}
 
-{{< card title="Conectar ordenador / NAS" subtitle="Conecta fácilmente tu NAS, Mac o PC a través de tu red doméstica usando SMB, WebDAV o DLNA. El acceso remoto es compatible con Synology Drive y WD MyCloud Home. Transfiere archivos multimedia a tu dispositivo vía Wi-Fi o Compartir archivos de iTunes." icon="desktop-computer">}}
+{{< feature-card title="Conectar ordenador / NAS" subtitle="Conecta fácilmente tu NAS, Mac o PC a través de tu red doméstica usando SMB, WebDAV o DLNA. El acceso remoto es compatible con Synology Drive y WD MyCloud Home. Transfiere archivos multimedia a tu dispositivo vía Wi-Fi o Compartir archivos de iTunes." icon="desktop-computer">}}
 
-{{< card title="Biblioteca multimedia" subtitle="Organiza por álbum, género o duración. Se sincroniza automáticamente con los cambios en la nube. Crea, edita y exporta listas de reproducción M3U con ordenación personalizada." icon="library" >}}
+{{< feature-card title="Biblioteca multimedia" subtitle="Organiza por álbum, género o duración. Se sincroniza automáticamente con los cambios en la nube. Crea, edita y exporta listas de reproducción M3U con ordenación personalizada." icon="library" >}}
 
-{{< card title="Marcadores y guardado de posición de reproducción" subtitle="Guarda tu posición en cualquier vídeo con marcadores y reanuda la reproducción donde lo dejaste. Ajusta la velocidad de reproducción, marca favoritos y ordena los vídeos por más reproducidos para un acceso fácil." icon="book-open">}}
+{{< feature-card title="Marcadores y guardado de posición de reproducción" subtitle="Guarda tu posición en cualquier vídeo con marcadores y reanuda la reproducción donde lo dejaste. Ajusta la velocidad de reproducción, marca favoritos y ordena los vídeos por más reproducidos para un acceso fácil." icon="book-open">}}
 
-{{< card title="AirPlay y Chromecast" subtitle="Reproduce vídeos en una pantalla más grande transmitiendo a Apple TV, Chromecast o cualquier pantalla externa compatible." icon="device-mobile">}}
+{{< feature-card title="AirPlay y Chromecast" subtitle="Reproduce vídeos en una pantalla más grande transmitiendo a Apple TV, Chromecast o cualquier pantalla externa compatible." icon="device-mobile">}}
 
-{{< card title="Importar desde archivos y bibliotecas" subtitle="Importa vídeos directamente desde la app Archivos, Fotos o tu biblioteca de iTunes. Accede a todo tu contenido local y en la nube en una biblioteca multimedia organizada." icon="database">}}
+{{< feature-card title="Importar desde archivos y bibliotecas" subtitle="Importa vídeos directamente desde la app Archivos, Fotos o tu biblioteca de iTunes. Accede a todo tu contenido local y en la nube en una biblioteca multimedia organizada." icon="database">}}
 
-{{< card title="Gestor de archivos" subtitle="Mueve, renombra, elimina y organiza archivos directamente dentro de la app." icon="folder">}}
+{{< feature-card title="Gestor de archivos" subtitle="Mueve, renombra, elimina y organiza archivos directamente dentro de la app." icon="folder">}}
 
-{{< card title="Personalización" subtitle="Personaliza la app según tus preferencias. Elige temas, muestra u oculta funciones y ajusta la interfaz a tus necesidades." icon="sun">}}
+{{< feature-card title="Personalización" subtitle="Personaliza la app según tus preferencias. Elige temas, muestra u oculta funciones y ajusta la interfaz a tus necesidades." icon="sun">}}
 
-{{< card title="Búsqueda inteligente" subtitle="Encuentra rápidamente vídeos, álbumes o listas de reproducción en tu biblioteca multimedia usando palabras clave o filtros." icon="search" >}}
+{{< feature-card title="Búsqueda inteligente" subtitle="Encuentra rápidamente vídeos, álbumes o listas de reproducción en tu biblioteca multimedia usando palabras clave o filtros." icon="search" >}}
 
 
 
@@ -192,7 +192,7 @@ Diseño intuitivo
 
 {{< cards cols="4">}}
 
-  {{< card 
+  {{< feature-card 
     image="/products/evervideo/screenshots/2880x1800/1.png" 
     title="Reproductor de vídeo" 
     method="Fill"
@@ -201,7 +201,7 @@ Diseño intuitivo
     icon="play"
   >}}
 
-  {{< card 
+  {{< feature-card 
     image="/products/evervideo/screenshots/2880x1800/3.png" 
     title="Ecualizador de audio y vídeo" 
     method="Fill"
@@ -210,7 +210,7 @@ Diseño intuitivo
     icon="adjustments"
   >}}
 
-  {{< card 
+  {{< feature-card 
     image="/products/evervideo/screenshots/2880x1800/6.png" 
     title="Gestor de listas de reproducción" 
     method="Fill"
@@ -219,7 +219,7 @@ Diseño intuitivo
     icon="collection"
   >}}
 
-  {{< card 
+  {{< feature-card 
     image="/products/evervideo/screenshots/2880x1800/5.png" 
     title="Biblioteca multimedia" 
     method="Fill"
@@ -228,7 +228,7 @@ Diseño intuitivo
     icon="library"
   >}}
 
-  {{< card 
+  {{< feature-card 
     image="/products/evervideo/screenshots/2880x1800/7.png"  
     title="Almacenamiento en la nube" 
     method="Fill"
@@ -237,7 +237,7 @@ Diseño intuitivo
     icon="cloud"
   >}}
 
-  {{< card 
+  {{< feature-card 
     image="/products/evervideo/screenshots/2880x1800/9.png"  
     title="Gestor de archivos" 
     method="Fill"
@@ -656,17 +656,17 @@ Nota: Asegúrate de que JavaScript esté habilitado y de que estés usando la ú
 </div>
 
 {{< cards >}}
-  {{< card icon="location-marker" title="Navegación" subtitle="Aprende a navegar por Evervideo con la Barra de pestañas en el iPhone o el Menú izquierdo en iPad y Mac, además del reproductor de vídeo compacto siempre visible." link="/docs/guide/evervideo/evervideo-guide-navigation" >}}
+  {{< feature-card icon="location-marker" title="Navegación" subtitle="Aprende a navegar por Evervideo con la Barra de pestañas en el iPhone o el Menú izquierdo en iPad y Mac, además del reproductor de vídeo compacto siempre visible." link="/docs/guide/evervideo/evervideo-guide-navigation" >}}
 
-  {{< card icon="folder" title="Archivos" subtitle="Conecta cuentas de la nube, recursos NAS, servidores multimedia (Plex, Jellyfin, Emby, Subsonic, Navidrome), transmisiones RTSP y archivos locales en una pestaña unificada." link="/docs/guide/evervideo/evervideo-guide-files" >}}
+  {{< feature-card icon="folder" title="Archivos" subtitle="Conecta cuentas de la nube, recursos NAS, servidores multimedia (Plex, Jellyfin, Emby, Subsonic, Navidrome), transmisiones RTSP y archivos locales en una pestaña unificada." link="/docs/guide/evervideo/evervideo-guide-files" >}}
 
-  {{< card icon="library" title="Biblioteca multimedia" subtitle="Organiza y explora tus vídeos y música por Álbumes, Géneros, Recientes y Favoritos, además de la biblioteca de Fotos de iOS y la biblioteca de Apple Music." link="/docs/guide/evervideo/evervideo-guide-video-library" >}}
+  {{< feature-card icon="library" title="Biblioteca multimedia" subtitle="Organiza y explora tus vídeos y música por Álbumes, Géneros, Recientes y Favoritos, además de la biblioteca de Fotos de iOS y la biblioteca de Apple Music." link="/docs/guide/evervideo/evervideo-guide-video-library" >}}
 
-  {{< card icon="collection" title="Listas de reproducción" subtitle="Crea y organiza listas para vídeos, música, series o cursos e importa archivos M3U / M3U8 / CUE." link="/docs/guide/evervideo/evervideo-guide-playlists" >}}
+  {{< feature-card icon="collection" title="Listas de reproducción" subtitle="Crea y organiza listas para vídeos, música, series o cursos e importa archivos M3U / M3U8 / CUE." link="/docs/guide/evervideo/evervideo-guide-playlists" >}}
 
-  {{< card icon="play" title="Reproductor multimedia" subtitle="Controla la reproducción, la cola, Imagen en imagen, las pistas de audio y vídeo, los subtítulos principales y secundarios y los ecualizadores de audio y vídeo." link="/docs/guide/evervideo/evervideo-guide-player" >}}
+  {{< feature-card icon="play" title="Reproductor multimedia" subtitle="Controla la reproducción, la cola, Imagen en imagen, las pistas de audio y vídeo, los subtítulos principales y secundarios y los ecualizadores de audio y vídeo." link="/docs/guide/evervideo/evervideo-guide-player" >}}
 
-  {{< card icon="adjustments" title="Ajustes" subtitle="Personaliza el aspecto, el decodificador, los ecualizadores, los subtítulos, los widgets, el idioma, el código de acceso, la copia de seguridad y los ajustes de rendimiento de Evervideo." link="/docs/guide/evervideo/evervideo-guide-settings" >}}
+  {{< feature-card icon="adjustments" title="Ajustes" subtitle="Personaliza el aspecto, el decodificador, los ecualizadores, los subtítulos, los widgets, el idioma, el código de acceso, la copia de seguridad y los ajustes de rendimiento de Evervideo." link="/docs/guide/evervideo/evervideo-guide-settings" >}}
 
 {{< /cards >}}
 

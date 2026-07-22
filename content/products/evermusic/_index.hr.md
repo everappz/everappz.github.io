@@ -148,7 +148,7 @@ Evermusic je besplatan offline glazbeni reproduktor za iPhone i Mac koji je razv
 
 {{< cards cols="4">}}
 
-  {{< card 
+  {{< feature-card 
     icon="adjustments"
     image="/products/evermusic/screenshots/2048x2732/3.png" 
     title="Audio Ekvilajzer" 
@@ -157,7 +157,7 @@ Evermusic je besplatan offline glazbeni reproduktor za iPhone i Mac koji je razv
     subtitle="Fino podesite zvuk s audio ekvilajzerom u iPod stilu, prilagodljivim postavkama i pojačanjem pretpojačala za najbolje iskustvo slušanja." 
   >}}
 
-  {{< card 
+  {{< feature-card 
     icon="annotation"
     image="/products/evermusic/screenshots/2048x2732/4.png"  
     title="Preglednik Tekstova" 
@@ -166,7 +166,7 @@ Evermusic je besplatan offline glazbeni reproduktor za iPhone i Mac koji je razv
     subtitle="Čitajte ugrađene tekstove i komentare pjesama tijekom slušanja. Uživajte u sinkroniziranim tekstovima za dublje glazbeno iskustvo." 
   >}}
 
-  {{< card 
+  {{< feature-card 
     icon="collection"
     image="/products/evermusic/screenshots/2048x2732/5.png"  
     title="Upravitelj Popisa za Reprodukciju" 
@@ -175,7 +175,7 @@ Evermusic je besplatan offline glazbeni reproduktor za iPhone i Mac koji je razv
     subtitle="Stvarajte i organizirajte prilagođene popise za reprodukciju, prerasporedite pjesme, izvezite u M3U ili arhivirajte kao ZIP datoteke za jednostavno dijeljenje ili sigurnosnu kopiju." 
   >}}
 
-  {{< card 
+  {{< feature-card 
     icon="cloud"
     image="/products/evermusic/screenshots/2048x2732/6.png"  
     title="Cloud Streaming Glazbe" 
@@ -184,7 +184,7 @@ Evermusic je besplatan offline glazbeni reproduktor za iPhone i Mac koji je razv
     subtitle="Povežite vodeće platforme za pohranu u oblaku poput Google Drivea, Dropboxa i OneDrivea za streaming vaše glazbene zbirke bilo kada i bilo gdje." 
   >}}
 
-  {{< card 
+  {{< feature-card 
     icon="duplicate"
     image="/products/evermusic/screenshots/2048x2732/9.png"  
     title="Upravitelj Datoteka" 
@@ -193,7 +193,7 @@ Evermusic je besplatan offline glazbeni reproduktor za iPhone i Mac koji je razv
     subtitle="Jednostavno upravljajte audio datotekama — preimenovajte pjesme, organizirajte mape i prenosite glazbu između uređaja koristeći ugrađene alate." 
   >}} 
 
-  {{< card 
+  {{< feature-card 
     icon="sun"
     image="/products/evermusic/screenshots/2048x2732/10.png"  
     title="Prilagodba Aplikacije" 
@@ -218,41 +218,41 @@ Evermusic je besplatan offline glazbeni reproduktor za iPhone i Mac koji je razv
 
 {{< cards >}}
 
-  {{< card title="Audio Formati" subtitle="Podržava: mp3, m4a, flac, wav, aac, mp4, m3u, m3u8, m4b, m4p, aiff, ogg, mp2, ac3, wma i više." icon="music-note" >}}
+  {{< feature-card title="Audio Formati" subtitle="Podržava: mp3, m4a, flac, wav, aac, mp4, m3u, m3u8, m4b, m4p, aiff, ogg, mp2, ac3, wma i više." icon="music-note" >}}
 
-  {{< card title="Audioknjige" subtitle="Uključuje audio oznake, kontrolu brzine reprodukcije i nastavak pozicije." icon="book-open" width="50">}}
+  {{< feature-card title="Audioknjige" subtitle="Uključuje audio oznake, kontrolu brzine reprodukcije i nastavak pozicije." icon="book-open" width="50">}}
 
-  {{< card title="Automatska Sinkronizacija" subtitle="Sinkronizira vašu glazbenu biblioteku s oblakom, organiziranu po izvođaču, albumu i žanru." icon="refresh" >}}
+  {{< feature-card title="Automatska Sinkronizacija" subtitle="Sinkronizira vašu glazbenu biblioteku s oblakom, organiziranu po izvođaču, albumu i žanru." icon="refresh" >}}
 
-  {{< card title="Upravitelj Datoteka" subtitle="Upravljajte datotekama s operacijama poput kopiranja, premještanja, preimenovanja i brisanja." icon="folder" >}}
+  {{< feature-card title="Upravitelj Datoteka" subtitle="Upravljajte datotekama s operacijama poput kopiranja, premještanja, preimenovanja i brisanja." icon="folder" >}}
 
-  {{< card title="Cloud Usluge" subtitle="Podržava iCloud, Google Drive, Dropbox, OneDrive, Box, MEGA, WD MyCloud Home, pCloud i više." icon="cloud" >}}
+  {{< feature-card title="Cloud Usluge" subtitle="Podržava iCloud, Google Drive, Dropbox, OneDrive, Box, MEGA, WD MyCloud Home, pCloud i više." icon="cloud" >}}
 
-  {{< card title="Crossfade Reprodukcija" subtitle="Sljedeća pjesma počinje prije nego što trenutna završi za besprijekorne prijelaze." icon="switch-horizontal" >}}
+  {{< feature-card title="Crossfade Reprodukcija" subtitle="Sljedeća pjesma počinje prije nego što trenutna završi za besprijekorne prijelaze." icon="switch-horizontal" >}}
 
-  {{< card title="Reprodukcija bez Pauza" subtitle="Bez pauza između pjesama — idealno za live, klasične ili konceptualne albume." icon="volume-up" >}}
+  {{< feature-card title="Reprodukcija bez Pauza" subtitle="Bez pauza između pjesama — idealno za live, klasične ili konceptualne albume." icon="volume-up" >}}
 
-  {{< card title="Audio Ekvilajzer" subtitle="Prilagodljivi ekvilajzer s postavkama, ručnom kontrolom i pojačanjem pretpojačala." icon="adjustments" >}}
+  {{< feature-card title="Audio Ekvilajzer" subtitle="Prilagodljivi ekvilajzer s postavkama, ručnom kontrolom i pojačanjem pretpojačala." icon="adjustments" >}}
 
-  {{< card title="Napredno Pretraživanje" subtitle="Pronađite svoje omiljene albume, izvođače i pjesme brzo i jednostavno." icon="search" >}}
+  {{< feature-card title="Napredno Pretraživanje" subtitle="Pronađite svoje omiljene albume, izvođače i pjesme brzo i jednostavno." icon="search" >}}
 
-  {{< card title="Pristup Računalu" subtitle="Povežite se putem SMB, WebDAV ili DLNA. Prenesite putem iTunes File Sharinga i Wi-Fi-ja." icon="desktop-computer" >}}
+  {{< feature-card title="Pristup Računalu" subtitle="Povežite se putem SMB, WebDAV ili DLNA. Prenesite putem iTunes File Sharinga i Wi-Fi-ja." icon="desktop-computer" >}}
 
-  {{< card title="AirPlay & Chromecast" subtitle="Streamajte na Apple TV i Google Chromecast uređaje bežično." icon="device-mobile" >}}
+  {{< feature-card title="AirPlay & Chromecast" subtitle="Streamajte na Apple TV i Google Chromecast uređaje bežično." icon="device-mobile" >}}
 
-  {{< card title="Popisi za Reprodukciju" subtitle="Stvarajte, uređujte, preraspoređujte i izvozite/uvozite M3U popise za reprodukciju s offline načinom." icon="collection" >}}
+  {{< feature-card title="Popisi za Reprodukciju" subtitle="Stvarajte, uređujte, preraspoređujte i izvozite/uvozite M3U popise za reprodukciju s offline načinom." icon="collection" >}}
 
-  {{< card title="USB Flash Kartice" subtitle="Reproducirajte glazbu izravno s SD kartica koristeći vanjske čitače poput SanDisk iXpand." icon="inbox" >}}
+  {{< feature-card title="USB Flash Kartice" subtitle="Reproducirajte glazbu izravno s SD kartica koristeći vanjske čitače poput SanDisk iXpand." icon="inbox" >}}
 
-  {{< card title="Offline Način" subtitle="Preuzmite albume i popise za reprodukciju ili automatski spremite nedavno reproducirane pjesme za offline slušanje." icon="download" >}}
+  {{< feature-card title="Offline Način" subtitle="Preuzmite albume i popise za reprodukciju ili automatski spremite nedavno reproducirane pjesme za offline slušanje." icon="download" >}}
 
-  {{< card title="Apple CarPlay" subtitle="Vozite sigurno s namjenskim CarPlay sučeljem za reprodukciju glazbe." icon="truck" >}}
+  {{< feature-card title="Apple CarPlay" subtitle="Vozite sigurno s namjenskim CarPlay sučeljem za reprodukciju glazbe." icon="truck" >}}
 
-  {{< card title="ID3 Uređivač Oznaka" subtitle="Uredite oštećene ili nedostajuće metapodatke koristeći ugrađeni uređivač oznaka." icon="pencil-alt" >}}
+  {{< feature-card title="ID3 Uređivač Oznaka" subtitle="Uredite oštećene ili nedostajuće metapodatke koristeći ugrađeni uređivač oznaka." icon="pencil-alt" >}}
 
-  {{< card title="Tekstovi i Komentari" subtitle="Pregledajte ugrađene tekstove i komentare dok slušate svoju glazbu." icon="annotation" >}}
+  {{< feature-card title="Tekstovi i Komentari" subtitle="Pregledajte ugrađene tekstove i komentare dok slušate svoju glazbu." icon="annotation" >}}
 
-  {{< card title="Last.fm" subtitle="Povežite svoj Last.fm račun za personalizirane statistike slušanja i preporuke." icon="chart-bar" >}}
+  {{< feature-card title="Last.fm" subtitle="Povežite svoj Last.fm račun za personalizirane statistike slušanja i preporuke." icon="chart-bar" >}}
   
 {{< /cards >}}
 
@@ -695,19 +695,19 @@ S ovim širokim rasponom podržanih formata i ekstenzija datoteka, možete uživ
 </div>
 
 {{< cards >}}
-  {{< card icon="location-marker" title="Navigacija" subtitle="Naučite navigirati Evermusicom koristeći traku kartica na iPhoneu ili lijevi izbornik na iPadu i Macu." link="/docs/guide/evermusic/evermusic-guide-navigation" >}}
+  {{< feature-card icon="location-marker" title="Navigacija" subtitle="Naučite navigirati Evermusicom koristeći traku kartica na iPhoneu ili lijevi izbornik na iPadu i Macu." link="/docs/guide/evermusic/evermusic-guide-navigation" >}}
 
-  {{< card icon="cloud" title="Veze" subtitle="Povežite svoje cloud račune i upravljajte online datotekama koristeći ugrađeni upravitelj datoteka." link="/docs/guide/evermusic/evermusic-guide-connections" >}}
+  {{< feature-card icon="cloud" title="Veze" subtitle="Povežite svoje cloud račune i upravljajte online datotekama koristeći ugrađeni upravitelj datoteka." link="/docs/guide/evermusic/evermusic-guide-connections" >}}
 
-  {{< card icon="library" title="Glazbena Biblioteka" subtitle="Organizirajte i istražujte svoje pjesme, albume i izvođače u Glazbenoj biblioteci." link="/docs/guide/evermusic/evermusic-guide-music-library" >}}
+  {{< feature-card icon="library" title="Glazbena Biblioteka" subtitle="Organizirajte i istražujte svoje pjesme, albume i izvođače u Glazbenoj biblioteci." link="/docs/guide/evermusic/evermusic-guide-music-library" >}}
 
-  {{< card icon="collection" title="Popisi za Reprodukciju" subtitle="Stvarajte i raspoređujte popise za reprodukciju prema raspoloženju ili prigodi." link="/docs/guide/evermusic/evermusic-guide-playlists" >}}
+  {{< feature-card icon="collection" title="Popisi za Reprodukciju" subtitle="Stvarajte i raspoređujte popise za reprodukciju prema raspoloženju ili prigodi." link="/docs/guide/evermusic/evermusic-guide-playlists" >}}
 
-  {{< card icon="folder" title="Lokalne Datoteke" subtitle="Pristupite i upravljajte offline glazbom kroz odjeljak Lokalne datoteke." link="/docs/guide/evermusic/evermusic-guide-local-files" >}}
+  {{< feature-card icon="folder" title="Lokalne Datoteke" subtitle="Pristupite i upravljajte offline glazbom kroz odjeljak Lokalne datoteke." link="/docs/guide/evermusic/evermusic-guide-local-files" >}}
 
-  {{< card icon="play" title="Audio Player" subtitle="Kontrolirajte reprodukciju, red čekanja i audio postavke poput ekvilajzera i mjerača vremena za spavanje." link="/docs/guide/evermusic/evermusic-guide-player" >}}
+  {{< feature-card icon="play" title="Audio Player" subtitle="Kontrolirajte reprodukciju, red čekanja i audio postavke poput ekvilajzera i mjerača vremena za spavanje." link="/docs/guide/evermusic/evermusic-guide-player" >}}
 
-  {{< card icon="adjustments" title="Postavke" subtitle="Prilagodite izgled, značajke i postavke performansi Evermusica." link="/docs/guide/evermusic/evermusic-guide-settings" >}}
+  {{< feature-card icon="adjustments" title="Postavke" subtitle="Prilagodite izgled, značajke i postavke performansi Evermusica." link="/docs/guide/evermusic/evermusic-guide-settings" >}}
 
 {{< /cards >}}
 

@@ -127,29 +127,29 @@ Flacbox גם מנגן MP3, AAC, OGG, APE, MOD, MKA ומכולות מתקדמות
 
 {{< cards >}}
 
-  {{< card title="תמיכה באודיו ללא אובדן" subtitle="נגן FLAC, ALAC, WAV, APE, DFF, WV, AIFF ופורמטים רבים נוספים באיכות גבוהה." icon="music-note" >}}
-  {{< card title="מצב אופליין" subtitle="הורד אלבומים, רשימות השמעה ורצועות לנגינה אופליין בכל עת." icon="download" >}}
-  {{< card title="ניהול קבצים" subtitle="העתק, העבר, שנה שם ומחק קבצים בקלות בתוך האפליקציה." icon="folder" >}}
+  {{< feature-card title="תמיכה באודיו ללא אובדן" subtitle="נגן FLAC, ALAC, WAV, APE, DFF, WV, AIFF ופורמטים רבים נוספים באיכות גבוהה." icon="music-note" >}}
+  {{< feature-card title="מצב אופליין" subtitle="הורד אלבומים, רשימות השמעה ורצועות לנגינה אופליין בכל עת." icon="download" >}}
+  {{< feature-card title="ניהול קבצים" subtitle="העתק, העבר, שנה שם ומחק קבצים בקלות בתוך האפליקציה." icon="folder" >}}
 
-  {{< card title="רשימות השמעה מותאמות אישית" subtitle="צור, ערוך, סדר מחדש רשימות השמעה, וייצא או ייבא קבצי M3U." icon="collection" >}}
-  {{< card title="ספריית מדיה" subtitle="הוסף מוזיקה וארגן אותה לפי אלבום, אמן וז'אנר באמצעות תגיות." icon="library" >}}
-  {{< card title="חיפוש מתקדם" subtitle="מצא במהירות שירים, אמנים או אלבומים עם כלי חיפוש חכמים." icon="search" >}}
+  {{< feature-card title="רשימות השמעה מותאמות אישית" subtitle="צור, ערוך, סדר מחדש רשימות השמעה, וייצא או ייבא קבצי M3U." icon="collection" >}}
+  {{< feature-card title="ספריית מדיה" subtitle="הוסף מוזיקה וארגן אותה לפי אלבום, אמן וז'אנר באמצעות תגיות." icon="library" >}}
+  {{< feature-card title="חיפוש מתקדם" subtitle="מצא במהירות שירים, אמנים או אלבומים עם כלי חיפוש חכמים." icon="search" >}}
 
-  {{< card title="הזרמה מהענן" subtitle="הזרם מ-Google Drive, Dropbox, OneDrive, iCloud, MEGA ועוד." icon="cloud" >}}
-  {{< card title="גישה ל-NAS ומחשב" subtitle="התחבר דרך SMB, DLNA או WebDAV. העבר עם iTunes או Wi-Fi." icon="desktop-computer" >}}
-  {{< card title="כרטיסי USB" subtitle="נגן מוזיקה ישירות מכרטיסי SD באמצעות מתאמי USB כמו iXpand." icon="inbox" >}}
+  {{< feature-card title="הזרמה מהענן" subtitle="הזרם מ-Google Drive, Dropbox, OneDrive, iCloud, MEGA ועוד." icon="cloud" >}}
+  {{< feature-card title="גישה ל-NAS ומחשב" subtitle="התחבר דרך SMB, DLNA או WebDAV. העבר עם iTunes או Wi-Fi." icon="desktop-computer" >}}
+  {{< feature-card title="כרטיסי USB" subtitle="נגן מוזיקה ישירות מכרטיסי SD באמצעות מתאמי USB כמו iXpand." icon="inbox" >}}
 
-  {{< card title="בקרות נגינה" subtitle="שנה מהירות וגובה צליל של הנגינה לשליטה מושלמת באודיו." icon="fast-forward" >}}
-  {{< card title="מילים והערות" subtitle="צפה במילי שירים והערות מוטבעים בזמן נגינת שירים." icon="annotation" >}}
-  {{< card title="עורך תגיות ID3" subtitle="ערוך ותקן מטא-נתונים כמו כותרת, אמן או אלבום עם הכלי המובנה." icon="pencil-alt" >}}
+  {{< feature-card title="בקרות נגינה" subtitle="שנה מהירות וגובה צליל של הנגינה לשליטה מושלמת באודיו." icon="fast-forward" >}}
+  {{< feature-card title="מילים והערות" subtitle="צפה במילי שירים והערות מוטבעים בזמן נגינת שירים." icon="annotation" >}}
+  {{< feature-card title="עורך תגיות ID3" subtitle="ערוך ותקן מטא-נתונים כמו כותרת, אמן או אלבום עם הכלי המובנה." icon="pencil-alt" >}}
 
-  {{< card title="אקולייזר וחיזוק" subtitle="השתמש בהגדרות מוכנות או התאם ידנית עם הגברת פרי-אמפ לצליל עשיר." icon="adjustments" >}}
-  {{< card title="Apple CarPlay" subtitle="נהג בבטחה עם ממשק CarPlay ייעודי לנגינת מוזיקה." icon="truck" >}}
-  {{< card title="AirPlay ו-Chromecast" subtitle="הזרם ל-Apple TV ולמכשירי Google Chromecast באופן אלחוטי." icon="device-mobile" >}}
+  {{< feature-card title="אקולייזר וחיזוק" subtitle="השתמש בהגדרות מוכנות או התאם ידנית עם הגברת פרי-אמפ לצליל עשיר." icon="adjustments" >}}
+  {{< feature-card title="Apple CarPlay" subtitle="נהג בבטחה עם ממשק CarPlay ייעודי לנגינת מוזיקה." icon="truck" >}}
+  {{< feature-card title="AirPlay ו-Chromecast" subtitle="הזרם ל-Apple TV ולמכשירי Google Chromecast באופן אלחוטי." icon="device-mobile" >}}
 
-  {{< card title="אינטגרציה עם Last.fm" subtitle="עקוב אחר סטטיסטיקות מוזיקה וקבל המלצות שירים מותאמות אישית." icon="chart-bar" >}}
-  {{< card title="סנכרון אוטומטי" subtitle="סנכרן אוטומטית את ספריית המוזיקה שלך עם תיקיות ענן ומקומיות." icon="refresh" >}}
-  {{< card title="תמיכה בספרי שמע" subtitle="האזן לספרי שמע עם סימניות, טיימר שינה והמשך נגינה מהמקום שבו עצרת." icon="book-open" >}}
+  {{< feature-card title="אינטגרציה עם Last.fm" subtitle="עקוב אחר סטטיסטיקות מוזיקה וקבל המלצות שירים מותאמות אישית." icon="chart-bar" >}}
+  {{< feature-card title="סנכרון אוטומטי" subtitle="סנכרן אוטומטית את ספריית המוזיקה שלך עם תיקיות ענן ומקומיות." icon="refresh" >}}
+  {{< feature-card title="תמיכה בספרי שמע" subtitle="האזן לספרי שמע עם סימניות, טיימר שינה והמשך נגינה מהמקום שבו עצרת." icon="book-open" >}}
 
 {{< /cards >}}
 
@@ -167,7 +167,7 @@ Flacbox גם מנגן MP3, AAC, OGG, APE, MOD, MKA ומכולות מתקדמות
 
 {{< cards cols="4">}}
 
-  {{< card 
+  {{< feature-card 
     image="/products/flacbox/screenshots/2048x2732/1.png" 
     title="נגן אודיו" 
     method="Fill"
@@ -176,7 +176,7 @@ Flacbox גם מנגן MP3, AAC, OGG, APE, MOD, MKA ומכולות מתקדמות
     icon="play"
   >}}
 
-  {{< card 
+  {{< feature-card 
     image="/products/flacbox/screenshots/2048x2732/2.png"  
     title="אקולייזר אודיו" 
     method="Fill"
@@ -185,7 +185,7 @@ Flacbox גם מנגן MP3, AAC, OGG, APE, MOD, MKA ומכולות מתקדמות
     icon="adjustments"
   >}}
 
-  {{< card 
+  {{< feature-card 
     image="/products/flacbox/screenshots/2048x2732/3.png"  
     title="מנהל רשימות השמעה" 
     method="Fill"
@@ -194,7 +194,7 @@ Flacbox גם מנגן MP3, AAC, OGG, APE, MOD, MKA ומכולות מתקדמות
     icon="collection"
   >}}
 
-  {{< card 
+  {{< feature-card 
     image="/products/flacbox/screenshots/2048x2732/5.png"  
     title="ספריית מדיה" 
     method="Fill"
@@ -203,7 +203,7 @@ Flacbox גם מנגן MP3, AAC, OGG, APE, MOD, MKA ומכולות מתקדמות
     icon="library"
   >}}
 
-  {{< card 
+  {{< feature-card 
     image="/products/flacbox/screenshots/2048x2732/7.png"  
     title="אחסון ענן" 
     method="Fill"
@@ -212,7 +212,7 @@ Flacbox גם מנגן MP3, AAC, OGG, APE, MOD, MKA ומכולות מתקדמות
     icon="cloud"
   >}}
 
-  {{< card 
+  {{< feature-card 
     image="/products/flacbox/screenshots/2048x2732/8.png"  
     title="iCloud Drive" 
     method="Fill"
@@ -835,19 +835,19 @@ Flacbox מספק פתרון מלא לחובבי ספרי שמע באייפון, 
 
 {{< cards >}}
 
-{{< card icon="map" link="/docs/guide/flacbox/flacbox-guide-navigation" title="ניווט" subtitle="השתמש בסרגל הכרטיסיות באייפון או בתפריט השמאלי באייפד ומק." >}}
+{{< feature-card icon="map" link="/docs/guide/flacbox/flacbox-guide-navigation" title="ניווט" subtitle="השתמש בסרגל הכרטיסיות באייפון או בתפריט השמאלי באייפד ומק." >}}
 
-{{< card icon="cloud" link="/docs/guide/flacbox/flacbox-guide-connections" title="חיבורים" subtitle="חבר Dropbox, Google Drive, iCloud או ה-NAS שלך." >}}
+{{< feature-card icon="cloud" link="/docs/guide/flacbox/flacbox-guide-connections" title="חיבורים" subtitle="חבר Dropbox, Google Drive, iCloud או ה-NAS שלך." >}}
 
-{{< card icon="collection" link="/docs/guide/flacbox/flacbox-guide-music-library" title="ספריית מוזיקה" subtitle="נהל וחפש רצועות לפי אמן, אלבום או ז'אנר." >}}
+{{< feature-card icon="collection" link="/docs/guide/flacbox/flacbox-guide-music-library" title="ספריית מוזיקה" subtitle="נהל וחפש רצועות לפי אמן, אלבום או ז'אנר." >}}
 
-{{< card icon="music-note" link="/docs/guide/flacbox/flacbox-guide-playlists" title="רשימות השמעה" subtitle="צור וארגן רשימות השמעה לכל מצב רוח או אירוע." >}}
+{{< feature-card icon="music-note" link="/docs/guide/flacbox/flacbox-guide-playlists" title="רשימות השמעה" subtitle="צור וארגן רשימות השמעה לכל מצב רוח או אירוע." >}}
 
-{{< card icon="folder" link="/docs/guide/flacbox/flacbox-guide-local-files" title="קבצים מקומיים" subtitle="ערוך ונגן מוזיקה אופליין עם מנהל הקבצים המובנה." >}}
+{{< feature-card icon="folder" link="/docs/guide/flacbox/flacbox-guide-local-files" title="קבצים מקומיים" subtitle="ערוך ונגן מוזיקה אופליין עם מנהל הקבצים המובנה." >}}
 
-{{< card icon="play" link="/docs/guide/flacbox/flacbox-guide-player" title="נגן אודיו" subtitle="שלוט בנגינה, כוונן מהירות, הגדר סימניות ועוד." >}}
+{{< feature-card icon="play" link="/docs/guide/flacbox/flacbox-guide-player" title="נגן אודיו" subtitle="שלוט בנגינה, כוונן מהירות, הגדר סימניות ועוד." >}}
 
-{{< card icon="adjustments" link="/docs/guide/flacbox/flacbox-guide-settings" title="הגדרות" subtitle="התאם אישית אקולייזר, מראה והתנהגות האפליקציה." >}}
+{{< feature-card icon="adjustments" link="/docs/guide/flacbox/flacbox-guide-settings" title="הגדרות" subtitle="התאם אישית אקולייזר, מראה והתנהגות האפליקציה." >}}
 
 {{< /cards >}}
 

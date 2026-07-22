@@ -491,17 +491,17 @@ Dropbox, OneDrive, Box, MEGA, Yandex.Disk, MediaFire, pCloud, HiDrive.<br><br>
 </div>
 
 {{< cards >}}
-  {{< card icon="location-marker" title="Навигация" subtitle="Узнайте, как легко перемещаться по приложению с помощью Панели Вкладок (для пользователей iPhone) или Левого Меню (для пользователей iPad и Mac) для доступа ко всем функциям приложения." link="/docs/guide/evertag/evertag-guide-navigation" >}}
+  {{< feature-card icon="location-marker" title="Навигация" subtitle="Узнайте, как легко перемещаться по приложению с помощью Панели Вкладок (для пользователей iPhone) или Левого Меню (для пользователей iPad и Mac) для доступа ко всем функциям приложения." link="/docs/guide/evertag/evertag-guide-navigation" >}}
 
-  {{< card icon="cloud" title="Подключения" subtitle="Легко подключайте все доступные облачные аккаунты с вашими аудио файлами. Вы также можете редактировать онлайн-файлы с помощью встроенного файлового менеджера." link="/docs/guide/evertag/evertag-guide-connections" >}}
+  {{< feature-card icon="cloud" title="Подключения" subtitle="Легко подключайте все доступные облачные аккаунты с вашими аудио файлами. Вы также можете редактировать онлайн-файлы с помощью встроенного файлового менеджера." link="/docs/guide/evertag/evertag-guide-connections" >}}
 
-  {{< card icon="folder" title="Локальные Файлы" subtitle="Просматривайте и организовывайте файлы, хранящиеся в папке Documents приложения или на устройстве. Используйте встроенный файловый менеджер для редактирования и управления аудио файлами." link="/docs/guide/evertag/evertag-guide-local-files" >}}
+  {{< feature-card icon="folder" title="Локальные Файлы" subtitle="Просматривайте и организовывайте файлы, хранящиеся в папке Documents приложения или на устройстве. Используйте встроенный файловый менеджер для редактирования и управления аудио файлами." link="/docs/guide/evertag/evertag-guide-local-files" >}}
 
-  {{< card icon="pencil-alt" title="Редактор Тегов" subtitle="Овладейте искусством работы с метаданными аудио файлов. Узнайте, как редактировать метаданные, изменять обложки альбомов и управлять несколькими файлами одновременно." link="/docs/guide/evertag/evertag-guide-tag-editor" >}}
+  {{< feature-card icon="pencil-alt" title="Редактор Тегов" subtitle="Овладейте искусством работы с метаданными аудио файлов. Узнайте, как редактировать метаданные, изменять обложки альбомов и управлять несколькими файлами одновременно." link="/docs/guide/evertag/evertag-guide-tag-editor" >}}
 
-  {{< card icon="code" title="Соответствия Полей Тегов" subtitle="Изучите полный список полей аудио тегов, поддерживаемых приложением Evertag, включая внутренние имена полей и соответствия между основными форматами метаданных." link="/docs/guide/evertag/evertag-tag-field-mappings" >}}
+  {{< feature-card icon="code" title="Соответствия Полей Тегов" subtitle="Изучите полный список полей аудио тегов, поддерживаемых приложением Evertag, включая внутренние имена полей и соответствия между основными форматами метаданных." link="/docs/guide/evertag/evertag-tag-field-mappings" >}}
 
-  {{< card icon="adjustments" title="Настройки" subtitle="Узнайте, как настроить приложение, оптимизировать производительность, управлять использованием данных и адаптировать языковые предпочтения и интерфейс по вашему вкусу." link="/docs/guide/evertag/evertag-guide-settings" >}}
+  {{< feature-card icon="adjustments" title="Настройки" subtitle="Узнайте, как настроить приложение, оптимизировать производительность, управлять использованием данных и адаптировать языковые предпочтения и интерфейс по вашему вкусу." link="/docs/guide/evertag/evertag-guide-settings" >}}
 
 {{< /cards >}}
 

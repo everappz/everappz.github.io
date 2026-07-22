@@ -148,7 +148,7 @@ Evermusic 是一款适用于 iPhone 和 Mac 的免费离线音乐播放器，由
 
 {{< cards cols="4">}}
 
-  {{< card 
+  {{< feature-card 
     icon="adjustments"
     image="/products/evermusic/screenshots/2048x2732/3.png" 
     title="音频均衡器" 
@@ -157,7 +157,7 @@ Evermusic 是一款适用于 iPhone 和 Mac 的免费离线音乐播放器，由
     subtitle="使用 iPod 风格的音频均衡器、可自定义的预设和前置放大器增益，微调您的音质，获得最佳聆听体验。" 
   >}}
 
-  {{< card 
+  {{< feature-card 
     icon="annotation"
     image="/products/evermusic/screenshots/2048x2732/4.png"  
     title="歌词查看器" 
@@ -166,7 +166,7 @@ Evermusic 是一款适用于 iPhone 和 Mac 的免费离线音乐播放器，由
     subtitle="在聆听时阅读嵌入的歌词和曲目注释。享受同步歌词，获得更沉浸的音乐体验。" 
   >}}
 
-  {{< card 
+  {{< feature-card 
     icon="collection"
     image="/products/evermusic/screenshots/2048x2732/5.png"  
     title="播放列表管理器" 
@@ -175,7 +175,7 @@ Evermusic 是一款适用于 iPhone 和 Mac 的免费离线音乐播放器，由
     subtitle="创建和整理自定义播放列表，重新排列歌曲，导出为 M3U，或将其存档为 ZIP 文件，方便分享或备份。" 
   >}}
 
-  {{< card 
+  {{< feature-card 
     icon="cloud"
     image="/products/evermusic/screenshots/2048x2732/6.png"  
     title="云端音乐串流" 
@@ -184,7 +184,7 @@ Evermusic 是一款适用于 iPhone 和 Mac 的免费离线音乐播放器，由
     subtitle="连接 Google Drive、Dropbox 和 OneDrive 等顶级云存储平台，随时随地串流您的音乐收藏。" 
   >}}
 
-  {{< card 
+  {{< feature-card 
     icon="duplicate"
     image="/products/evermusic/screenshots/2048x2732/9.png"  
     title="文件管理器" 
@@ -193,7 +193,7 @@ Evermusic 是一款适用于 iPhone 和 Mac 的免费离线音乐播放器，由
     subtitle="轻松管理您的音频文件——重命名曲目、整理文件夹，使用内置工具在设备间传输音乐。" 
   >}} 
 
-  {{< card 
+  {{< feature-card 
     icon="sun"
     image="/products/evermusic/screenshots/2048x2732/10.png"  
     title="应用个性化" 
@@ -218,41 +218,41 @@ Evermusic 是一款适用于 iPhone 和 Mac 的免费离线音乐播放器，由
 
 {{< cards >}}
 
-  {{< card title="音频格式" subtitle="支持：mp3、m4a、flac、wav、aac、mp4、m3u、m3u8、m4b、m4p、aiff、ogg、mp2、ac3、wma 等。" icon="music-note" >}}
+  {{< feature-card title="音频格式" subtitle="支持：mp3、m4a、flac、wav、aac、mp4、m3u、m3u8、m4b、m4p、aiff、ogg、mp2、ac3、wma 等。" icon="music-note" >}}
 
-  {{< card title="有声书" subtitle="包含音频书签、播放速度控制和恢复播放位置功能。" icon="book-open" width="50">}}
+  {{< feature-card title="有声书" subtitle="包含音频书签、播放速度控制和恢复播放位置功能。" icon="book-open" width="50">}}
 
-  {{< card title="自动同步" subtitle="将您的音乐库与云端同步，按艺术家、专辑和流派整理。" icon="refresh" >}}
+  {{< feature-card title="自动同步" subtitle="将您的音乐库与云端同步，按艺术家、专辑和流派整理。" icon="refresh" >}}
 
-  {{< card title="文件管理器" subtitle="通过复制、移动、重命名和删除等操作管理文件。" icon="folder" >}}
+  {{< feature-card title="文件管理器" subtitle="通过复制、移动、重命名和删除等操作管理文件。" icon="folder" >}}
 
-  {{< card title="云服务" subtitle="支持 iCloud、Google Drive、Dropbox、OneDrive、Box、MEGA、WD MyCloud Home、pCloud 等。" icon="cloud" >}}
+  {{< feature-card title="云服务" subtitle="支持 iCloud、Google Drive、Dropbox、OneDrive、Box、MEGA、WD MyCloud Home、pCloud 等。" icon="cloud" >}}
 
-  {{< card title="淡入淡出播放" subtitle="下一首歌在当前歌曲结束前开始播放，实现无缝过渡。" icon="switch-horizontal" >}}
+  {{< feature-card title="淡入淡出播放" subtitle="下一首歌在当前歌曲结束前开始播放，实现无缝过渡。" icon="switch-horizontal" >}}
 
-  {{< card title="无缝播放" subtitle="歌曲之间无停顿——非常适合现场、古典或概念专辑。" icon="volume-up" >}}
+  {{< feature-card title="无缝播放" subtitle="歌曲之间无停顿——非常适合现场、古典或概念专辑。" icon="volume-up" >}}
 
-  {{< card title="音频均衡器" subtitle="可自定义的均衡器，带预设、手动控制和前置放大器增益。" icon="adjustments" >}}
+  {{< feature-card title="音频均衡器" subtitle="可自定义的均衡器，带预设、手动控制和前置放大器增益。" icon="adjustments" >}}
 
-  {{< card title="高级搜索" subtitle="快速轻松地找到您喜爱的专辑、艺术家和曲目。" icon="search" >}}
+  {{< feature-card title="高级搜索" subtitle="快速轻松地找到您喜爱的专辑、艺术家和曲目。" icon="search" >}}
 
-  {{< card title="电脑访问" subtitle="通过 SMB、WebDAV 或 DLNA 连接。通过 iTunes 文件共享和 Wi-Fi 传输。" icon="desktop-computer" >}}
+  {{< feature-card title="电脑访问" subtitle="通过 SMB、WebDAV 或 DLNA 连接。通过 iTunes 文件共享和 Wi-Fi 传输。" icon="desktop-computer" >}}
 
-  {{< card title="AirPlay 和 Chromecast" subtitle="无线串流到 Apple TV 和 Google Chromecast 设备。" icon="device-mobile" >}}
+  {{< feature-card title="AirPlay 和 Chromecast" subtitle="无线串流到 Apple TV 和 Google Chromecast 设备。" icon="device-mobile" >}}
 
-  {{< card title="播放列表" subtitle="创建、编辑、重新排列，以及导出/导入 M3U 播放列表，支持离线模式。" icon="collection" >}}
+  {{< feature-card title="播放列表" subtitle="创建、编辑、重新排列，以及导出/导入 M3U 播放列表，支持离线模式。" icon="collection" >}}
 
-  {{< card title="USB 闪存卡" subtitle="使用 SanDisk iXpand 等外部读卡器直接从 SD 卡播放音乐。" icon="inbox" >}}
+  {{< feature-card title="USB 闪存卡" subtitle="使用 SanDisk iXpand 等外部读卡器直接从 SD 卡播放音乐。" icon="inbox" >}}
 
-  {{< card title="离线模式" subtitle="下载专辑和播放列表，或自动缓存最近播放的曲目以供离线收听。" icon="download" >}}
+  {{< feature-card title="离线模式" subtitle="下载专辑和播放列表，或自动缓存最近播放的曲目以供离线收听。" icon="download" >}}
 
-  {{< card title="Apple CarPlay" subtitle="通过专用的 CarPlay 界面安全驾驶并播放音乐。" icon="truck" >}}
+  {{< feature-card title="Apple CarPlay" subtitle="通过专用的 CarPlay 界面安全驾驶并播放音乐。" icon="truck" >}}
 
-  {{< card title="ID3 标签编辑器" subtitle="使用内置标签编辑器编辑损坏或缺失的元数据。" icon="pencil-alt" >}}
+  {{< feature-card title="ID3 标签编辑器" subtitle="使用内置标签编辑器编辑损坏或缺失的元数据。" icon="pencil-alt" >}}
 
-  {{< card title="歌词和注释" subtitle="在听音乐时查看嵌入的歌词和注释。" icon="annotation" >}}
+  {{< feature-card title="歌词和注释" subtitle="在听音乐时查看嵌入的歌词和注释。" icon="annotation" >}}
 
-  {{< card title="Last.fm" subtitle="连接您的 Last.fm 账户，获取个性化的收听统计和推荐。" icon="chart-bar" >}}
+  {{< feature-card title="Last.fm" subtitle="连接您的 Last.fm 账户，获取个性化的收听统计和推荐。" icon="chart-bar" >}}
   
 {{< /cards >}}
 
@@ -704,19 +704,19 @@ mpeg, aifc, 3gp, avi, aif, latm, 3gpp, m4a, loas, cdda, aac, m4p, m4b, ac3, pls,
 </div>
 
 {{< cards >}}
-  {{< card icon="location-marker" title="导航" subtitle="了解如何在 iPhone 上使用标签栏或在 iPad 和 Mac 上使用左侧菜单来导航 Evermusic。" link="/docs/guide/evermusic/evermusic-guide-navigation" >}}
+  {{< feature-card icon="location-marker" title="导航" subtitle="了解如何在 iPhone 上使用标签栏或在 iPad 和 Mac 上使用左侧菜单来导航 Evermusic。" link="/docs/guide/evermusic/evermusic-guide-navigation" >}}
 
-  {{< card icon="cloud" title="连接" subtitle="连接您的云账户并使用内置文件管理器管理在线文件。" link="/docs/guide/evermusic/evermusic-guide-connections" >}}
+  {{< feature-card icon="cloud" title="连接" subtitle="连接您的云账户并使用内置文件管理器管理在线文件。" link="/docs/guide/evermusic/evermusic-guide-connections" >}}
 
-  {{< card icon="library" title="音乐库" subtitle="在音乐库中整理和浏览您的曲目、专辑和艺术家。" link="/docs/guide/evermusic/evermusic-guide-music-library" >}}
+  {{< feature-card icon="library" title="音乐库" subtitle="在音乐库中整理和浏览您的曲目、专辑和艺术家。" link="/docs/guide/evermusic/evermusic-guide-music-library" >}}
 
-  {{< card icon="collection" title="播放列表" subtitle="创建和安排播放列表以匹配您的心情或场合。" link="/docs/guide/evermusic/evermusic-guide-playlists" >}}
+  {{< feature-card icon="collection" title="播放列表" subtitle="创建和安排播放列表以匹配您的心情或场合。" link="/docs/guide/evermusic/evermusic-guide-playlists" >}}
 
-  {{< card icon="folder" title="本地文件" subtitle="通过本地文件部分访问和管理离线音乐。" link="/docs/guide/evermusic/evermusic-guide-local-files" >}}
+  {{< feature-card icon="folder" title="本地文件" subtitle="通过本地文件部分访问和管理离线音乐。" link="/docs/guide/evermusic/evermusic-guide-local-files" >}}
 
-  {{< card icon="play" title="音频播放器" subtitle="控制您的播放、队列和音频设置，如均衡器和睡眠定时器。" link="/docs/guide/evermusic/evermusic-guide-player" >}}
+  {{< feature-card icon="play" title="音频播放器" subtitle="控制您的播放、队列和音频设置，如均衡器和睡眠定时器。" link="/docs/guide/evermusic/evermusic-guide-player" >}}
 
-  {{< card icon="adjustments" title="设置" subtitle="自定义 Evermusic 的外观、功能和性能设置。" link="/docs/guide/evermusic/evermusic-guide-settings" >}}
+  {{< feature-card icon="adjustments" title="设置" subtitle="自定义 Evermusic 的外观、功能和性能设置。" link="/docs/guide/evermusic/evermusic-guide-settings" >}}
 
 {{< /cards >}}
 

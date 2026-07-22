@@ -491,17 +491,17 @@ Detta läge är särskilt användbart när du behöver tillämpa samma albumnamn
 </div>
 
 {{< cards >}}
-  {{< card icon="location-marker" title="Navigering" subtitle="Lär dig hur du enkelt navigerar i vår app med Flikfältet (för iPhone-användare) eller Vänstermenyn (för iPad- och Mac-användare) för att komma åt och utforska alla appens funktioner." link="/docs/guide/evertag/evertag-guide-navigation" >}}
+  {{< feature-card icon="location-marker" title="Navigering" subtitle="Lär dig hur du enkelt navigerar i vår app med Flikfältet (för iPhone-användare) eller Vänstermenyn (för iPad- och Mac-användare) för att komma åt och utforska alla appens funktioner." link="/docs/guide/evertag/evertag-guide-navigation" >}}
 
-  {{< card icon="cloud" title="Anslutningar" subtitle="Anslut enkelt alla dina tillgängliga molnkonton med dina värdefulla ljudfiler. Du kan till och med redigera dina onlinefiler enkelt med den inbyggda filhanteraren." link="/docs/guide/evertag/evertag-guide-connections" >}}
+  {{< feature-card icon="cloud" title="Anslutningar" subtitle="Anslut enkelt alla dina tillgängliga molnkonton med dina värdefulla ljudfiler. Du kan till och med redigera dina onlinefiler enkelt med den inbyggda filhanteraren." link="/docs/guide/evertag/evertag-guide-connections" >}}
 
-  {{< card icon="folder" title="Lokala Filer" subtitle="Visa och organisera filer lagrade i appens Documents-mapp eller på din enhet. Använd den inbyggda filhanteraren för att redigera och hantera dina ljudfiler med lätthet." link="/docs/guide/evertag/evertag-guide-local-files" >}}
+  {{< feature-card icon="folder" title="Lokala Filer" subtitle="Visa och organisera filer lagrade i appens Documents-mapp eller på din enhet. Använd den inbyggda filhanteraren för att redigera och hantera dina ljudfiler med lätthet." link="/docs/guide/evertag/evertag-guide-local-files" >}}
 
-  {{< card icon="pencil-alt" title="Taggredigerare" subtitle="Bemästra konsten att manipulera ljudfilsmetadata. Lär dig hur du redigerar metadata, ändrar albumomslag och sömlöst hanterar flera filer samtidigt." link="/docs/guide/evertag/evertag-guide-tag-editor" >}}
+  {{< feature-card icon="pencil-alt" title="Taggredigerare" subtitle="Bemästra konsten att manipulera ljudfilsmetadata. Lär dig hur du redigerar metadata, ändrar albumomslag och sömlöst hanterar flera filer samtidigt." link="/docs/guide/evertag/evertag-guide-tag-editor" >}}
 
-  {{< card icon="code" title="Taggfältsmappningar" subtitle="Utforska den fullständiga listan över ljudtaggfält som stöds av Evertag-appen, inklusive interna fältnamn och mappningar mellan de viktigaste metadataformaten." link="/docs/guide/evertag/evertag-tag-field-mappings" >}}
+  {{< feature-card icon="code" title="Taggfältsmappningar" subtitle="Utforska den fullständiga listan över ljudtaggfält som stöds av Evertag-appen, inklusive interna fältnamn och mappningar mellan de viktigaste metadataformaten." link="/docs/guide/evertag/evertag-tag-field-mappings" >}}
 
-  {{< card icon="adjustments" title="Inställningar" subtitle="Upptäck hur du anpassar din appupplevelse, finjusterar prestanda, hanterar dataanvändning och skräddarsyr språk- och gränssnittsinställningar efter dina önskemål." link="/docs/guide/evertag/evertag-guide-settings" >}}
+  {{< feature-card icon="adjustments" title="Inställningar" subtitle="Upptäck hur du anpassar din appupplevelse, finjusterar prestanda, hanterar dataanvändning och skräddarsyr språk- och gränssnittsinställningar efter dina önskemål." link="/docs/guide/evertag/evertag-guide-settings" >}}
 
 {{< /cards >}}
 

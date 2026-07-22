@@ -491,17 +491,17 @@ Aquest mode és especialment útil quan necessites aplicar el mateix nom d'àlbu
 </div>
 
 {{< cards >}}
-  {{< card icon="location-marker" title="Navegació" subtitle="Aprèn a navegar sense esforç per la nostra app utilitzant la barra de pestanyes (per a usuaris d'iPhone) o el menú esquerre (per a usuaris d'iPad i Mac) per accedir i explorar totes les funcions de l'app." link="/docs/guide/evertag/evertag-guide-navigation" >}}
+  {{< feature-card icon="location-marker" title="Navegació" subtitle="Aprèn a navegar sense esforç per la nostra app utilitzant la barra de pestanyes (per a usuaris d'iPhone) o el menú esquerre (per a usuaris d'iPad i Mac) per accedir i explorar totes les funcions de l'app." link="/docs/guide/evertag/evertag-guide-navigation" >}}
 
-  {{< card icon="cloud" title="Connexions" subtitle="Vincula sense esforç tots els teus comptes al núvol disponibles amb els teus preciosos fitxers d'àudio. Fins i tot pots editar els teus fitxers en línia fàcilment amb el nostre gestor de fitxers integrat." link="/docs/guide/evertag/evertag-guide-connections" >}}
+  {{< feature-card icon="cloud" title="Connexions" subtitle="Vincula sense esforç tots els teus comptes al núvol disponibles amb els teus preciosos fitxers d'àudio. Fins i tot pots editar els teus fitxers en línia fàcilment amb el nostre gestor de fitxers integrat." link="/docs/guide/evertag/evertag-guide-connections" >}}
 
-  {{< card icon="folder" title="Fitxers locals" subtitle="Visualitza i organitza els fitxers emmagatzemats a la carpeta Documents de l'app o al teu dispositiu. Utilitza el gestor de fitxers integrat per editar i gestionar els teus fitxers d'àudio amb facilitat." link="/docs/guide/evertag/evertag-guide-local-files" >}}
+  {{< feature-card icon="folder" title="Fitxers locals" subtitle="Visualitza i organitza els fitxers emmagatzemats a la carpeta Documents de l'app o al teu dispositiu. Utilitza el gestor de fitxers integrat per editar i gestionar els teus fitxers d'àudio amb facilitat." link="/docs/guide/evertag/evertag-guide-local-files" >}}
 
-  {{< card icon="pencil-alt" title="Editor d'etiquetes" subtitle="Domina l'art de la manipulació de metadades de fitxers d'àudio. Descobreix com editar metadades, transformar portades d'àlbum i gestionar múltiples fitxers simultàniament sense problemes." link="/docs/guide/evertag/evertag-guide-tag-editor" >}}
+  {{< feature-card icon="pencil-alt" title="Editor d'etiquetes" subtitle="Domina l'art de la manipulació de metadades de fitxers d'àudio. Descobreix com editar metadades, transformar portades d'àlbum i gestionar múltiples fitxers simultàniament sense problemes." link="/docs/guide/evertag/evertag-guide-tag-editor" >}}
 
-  {{< card icon="code" title="Mapeig de camps d'etiquetes" subtitle="Explora la llista completa de camps d'etiquetes d'àudio compatibles amb l'app Evertag, incloent noms de camps interns i mapejos entre els principals formats de metadades." link="/docs/guide/evertag/evertag-tag-field-mappings" >}}
+  {{< feature-card icon="code" title="Mapeig de camps d'etiquetes" subtitle="Explora la llista completa de camps d'etiquetes d'àudio compatibles amb l'app Evertag, incloent noms de camps interns i mapejos entre els principals formats de metadades." link="/docs/guide/evertag/evertag-tag-field-mappings" >}}
 
-  {{< card icon="adjustments" title="Configuració" subtitle="Descobreix com personalitzar la teva experiència amb l'app, ajustar el rendiment, gestionar l'ús de dades i adaptar les preferències d'idioma i interfície d'usuari al teu gust." link="/docs/guide/evertag/evertag-guide-settings" >}}
+  {{< feature-card icon="adjustments" title="Configuració" subtitle="Descobreix com personalitzar la teva experiència amb l'app, ajustar el rendiment, gestionar l'ús de dades i adaptar les preferències d'idioma i interfície d'usuari al teu gust." link="/docs/guide/evertag/evertag-guide-settings" >}}
 
 {{< /cards >}}
 

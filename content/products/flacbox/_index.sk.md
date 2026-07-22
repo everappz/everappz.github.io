@@ -127,29 +127,29 @@ Kompletné funkcie
 
 {{< cards >}}
 
-  {{< card title="Podpora bezstratového audia" subtitle="Prehrávajte FLAC, ALAC, WAV, APE, DFF, WV, AIFF a mnoho ďalších vysokokvalitných formátov." icon="music-note" >}}
-  {{< card title="Offline režim" subtitle="Stiahnite albumy, playlisty a skladby pre offline prehrávanie kedykoľvek." icon="download" >}}
-  {{< card title="Správa súborov" subtitle="Jednoducho kopírujte, presúvajte, premenúvajte a mažte súbory v aplikácii." icon="folder" >}}
+  {{< feature-card title="Podpora bezstratového audia" subtitle="Prehrávajte FLAC, ALAC, WAV, APE, DFF, WV, AIFF a mnoho ďalších vysokokvalitných formátov." icon="music-note" >}}
+  {{< feature-card title="Offline režim" subtitle="Stiahnite albumy, playlisty a skladby pre offline prehrávanie kedykoľvek." icon="download" >}}
+  {{< feature-card title="Správa súborov" subtitle="Jednoducho kopírujte, presúvajte, premenúvajte a mažte súbory v aplikácii." icon="folder" >}}
 
-  {{< card title="Vlastné playlisty" subtitle="Vytvárajte, upravujte, preusporiadúvajte playlisty a exportujte alebo importujte súbory M3U." icon="collection" >}}
-  {{< card title="Mediálna knižnica" subtitle="Pridajte hudbu a organizujte ju podľa albumu, interpreta a žánru pomocou tagov." icon="library" >}}
-  {{< card title="Pokročilé vyhľadávanie" subtitle="Rýchlo nájdite piesne, interpretov alebo albumy s inteligentnými vyhľadávacími nástrojmi." icon="search" >}}
+  {{< feature-card title="Vlastné playlisty" subtitle="Vytvárajte, upravujte, preusporiadúvajte playlisty a exportujte alebo importujte súbory M3U." icon="collection" >}}
+  {{< feature-card title="Mediálna knižnica" subtitle="Pridajte hudbu a organizujte ju podľa albumu, interpreta a žánru pomocou tagov." icon="library" >}}
+  {{< feature-card title="Pokročilé vyhľadávanie" subtitle="Rýchlo nájdite piesne, interpretov alebo albumy s inteligentnými vyhľadávacími nástrojmi." icon="search" >}}
 
-  {{< card title="Cloudové streamovanie" subtitle="Streamujte z Google Drive, Dropbox, OneDrive, iCloud, MEGA a ďalších." icon="cloud" >}}
-  {{< card title="Prístup k NAS a počítaču" subtitle="Pripojte sa cez SMB, DLNA alebo WebDAV. Prenášajte cez iTunes alebo Wi-Fi." icon="desktop-computer" >}}
-  {{< card title="USB flash karty" subtitle="Prehrávajte hudbu priamo z SD kariet pomocou USB adaptérov ako iXpand." icon="inbox" >}}
+  {{< feature-card title="Cloudové streamovanie" subtitle="Streamujte z Google Drive, Dropbox, OneDrive, iCloud, MEGA a ďalších." icon="cloud" >}}
+  {{< feature-card title="Prístup k NAS a počítaču" subtitle="Pripojte sa cez SMB, DLNA alebo WebDAV. Prenášajte cez iTunes alebo Wi-Fi." icon="desktop-computer" >}}
+  {{< feature-card title="USB flash karty" subtitle="Prehrávajte hudbu priamo z SD kariet pomocou USB adaptérov ako iXpand." icon="inbox" >}}
 
-  {{< card title="Ovládanie prehrávania" subtitle="Meňte rýchlosť a výšku prehrávania pre dokonalé ovládanie zvuku." icon="fast-forward" >}}
-  {{< card title="Texty piesní a komentáre" subtitle="Zobrazujte vstavané texty piesní a komentáre počas prehrávania." icon="annotation" >}}
-  {{< card title="Editor tagov ID3" subtitle="Upravujte a opravujte metadáta ako názov, interpreta alebo album vstavaným nástrojom." icon="pencil-alt" >}}
+  {{< feature-card title="Ovládanie prehrávania" subtitle="Meňte rýchlosť a výšku prehrávania pre dokonalé ovládanie zvuku." icon="fast-forward" >}}
+  {{< feature-card title="Texty piesní a komentáre" subtitle="Zobrazujte vstavané texty piesní a komentáre počas prehrávania." icon="annotation" >}}
+  {{< feature-card title="Editor tagov ID3" subtitle="Upravujte a opravujte metadáta ako názov, interpreta alebo album vstavaným nástrojom." icon="pencil-alt" >}}
 
-  {{< card title="Ekvalizér a zosilnenie" subtitle="Použite predvoľby alebo manuálne nastavte so zosilnením predzosilňovača pre bohatý zvuk." icon="adjustments" >}}
-  {{< card title="Apple CarPlay" subtitle="Jazdite bezpečne s vyhradeným rozhraním CarPlay pre prehrávanie hudby." icon="truck" >}}
-  {{< card title="AirPlay a Chromecast" subtitle="Streamujte na Apple TV a zariadenia Google Chromecast bezdrôtovo." icon="device-mobile" >}}
+  {{< feature-card title="Ekvalizér a zosilnenie" subtitle="Použite predvoľby alebo manuálne nastavte so zosilnením predzosilňovača pre bohatý zvuk." icon="adjustments" >}}
+  {{< feature-card title="Apple CarPlay" subtitle="Jazdite bezpečne s vyhradeným rozhraním CarPlay pre prehrávanie hudby." icon="truck" >}}
+  {{< feature-card title="AirPlay a Chromecast" subtitle="Streamujte na Apple TV a zariadenia Google Chromecast bezdrôtovo." icon="device-mobile" >}}
 
-  {{< card title="Integrácia Last.fm" subtitle="Sledujte hudobné štatistiky a získavajte personalizované odporúčania piesní." icon="chart-bar" >}}
-  {{< card title="Automatická synchronizácia" subtitle="Automaticky synchronizujte hudobnú knižnicu s cloudovými a lokálnymi priečinkami." icon="refresh" >}}
-  {{< card title="Podpora audiokníh" subtitle="Počúvajte audioknihy so záložkami, časovačom spánku a obnovením prehrávania od miesta, kde ste prestali." icon="book-open" >}}
+  {{< feature-card title="Integrácia Last.fm" subtitle="Sledujte hudobné štatistiky a získavajte personalizované odporúčania piesní." icon="chart-bar" >}}
+  {{< feature-card title="Automatická synchronizácia" subtitle="Automaticky synchronizujte hudobnú knižnicu s cloudovými a lokálnymi priečinkami." icon="refresh" >}}
+  {{< feature-card title="Podpora audiokníh" subtitle="Počúvajte audioknihy so záložkami, časovačom spánku a obnovením prehrávania od miesta, kde ste prestali." icon="book-open" >}}
 
 {{< /cards >}}
 
@@ -167,17 +167,17 @@ Intuitívny dizajn
 
 {{< cards cols="4">}}
 
-  {{< card image="/products/flacbox/screenshots/2048x2732/1.png" title="Audio prehrávač" method="Fill" options="515x200 q90 webp" subtitle="Pokročilý hudobný prehrávač s opakovaním, náhodným prehrávaním, ovládaním rýchlosti a výšky." icon="play" >}}
+  {{< feature-card image="/products/flacbox/screenshots/2048x2732/1.png" title="Audio prehrávač" method="Fill" options="515x200 q90 webp" subtitle="Pokročilý hudobný prehrávač s opakovaním, náhodným prehrávaním, ovládaním rýchlosti a výšky." icon="play" >}}
 
-  {{< card image="/products/flacbox/screenshots/2048x2732/2.png" title="Audio ekvalizér" method="Fill" options="515x200 q90 webp" subtitle="Vlastný ekvalizér s predvoľbami, zosilnením basov a predzosilňovačom pre lepší zvuk." icon="adjustments" >}}
+  {{< feature-card image="/products/flacbox/screenshots/2048x2732/2.png" title="Audio ekvalizér" method="Fill" options="515x200 q90 webp" subtitle="Vlastný ekvalizér s predvoľbami, zosilnením basov a predzosilňovačom pre lepší zvuk." icon="adjustments" >}}
 
-  {{< card image="/products/flacbox/screenshots/2048x2732/3.png" title="Správca playlistov" method="Fill" options="515x200 q90 webp" subtitle="Vytvárajte playlisty, meňte poradie piesní, exportujte do M3U alebo ZIP na zálohovanie." icon="collection" >}}
+  {{< feature-card image="/products/flacbox/screenshots/2048x2732/3.png" title="Správca playlistov" method="Fill" options="515x200 q90 webp" subtitle="Vytvárajte playlisty, meňte poradie piesní, exportujte do M3U alebo ZIP na zálohovanie." icon="collection" >}}
 
-  {{< card image="/products/flacbox/screenshots/2048x2732/5.png" title="Mediálna knižnica" method="Fill" options="515x200 q90 webp" subtitle="Organizujte piesne podľa albumu, interpreta alebo žánru pomocou audio tagov a metadát." icon="library" >}}
+  {{< feature-card image="/products/flacbox/screenshots/2048x2732/5.png" title="Mediálna knižnica" method="Fill" options="515x200 q90 webp" subtitle="Organizujte piesne podľa albumu, interpreta alebo žánru pomocou audio tagov a metadát." icon="library" >}}
 
-  {{< card image="/products/flacbox/screenshots/2048x2732/7.png" title="Cloudové úložisko" method="Fill" options="515x200 q90 webp" subtitle="Streamujte hudbu z Google Drive, Dropbox, OneDrive a ďalších cloudových služieb." icon="cloud" >}}
+  {{< feature-card image="/products/flacbox/screenshots/2048x2732/7.png" title="Cloudové úložisko" method="Fill" options="515x200 q90 webp" subtitle="Streamujte hudbu z Google Drive, Dropbox, OneDrive a ďalších cloudových služieb." icon="cloud" >}}
 
-  {{< card image="/products/flacbox/screenshots/2048x2732/8.png" title="iCloud Drive" method="Fill" options="515x200 q90 webp" subtitle="Ukladajte bezstratovú hudbu v iCloud a streamujte priamo bez sťahovania." icon="wifi" >}}
+  {{< feature-card image="/products/flacbox/screenshots/2048x2732/8.png" title="iCloud Drive" method="Fill" options="515x200 q90 webp" subtitle="Ukladajte bezstratovú hudbu v iCloud a streamujte priamo bez sťahovania." icon="wifi" >}}
 
 {{< /cards >}}
 
@@ -692,19 +692,19 @@ Na použitie CarPlay sa uistite, že je Siri povolená a váš iPhone je pripoje
 
 {{< cards >}}
 
-{{< card icon="map" link="/docs/guide/flacbox/flacbox-guide-navigation" title="Navigácia" subtitle="Použite panel kariet na iPhone alebo ľavé menu na iPad a Mac." >}}
+{{< feature-card icon="map" link="/docs/guide/flacbox/flacbox-guide-navigation" title="Navigácia" subtitle="Použite panel kariet na iPhone alebo ľavé menu na iPad a Mac." >}}
 
-{{< card icon="cloud" link="/docs/guide/flacbox/flacbox-guide-connections" title="Pripojenia" subtitle="Pripojte Dropbox, Google Drive, iCloud alebo váš NAS." >}}
+{{< feature-card icon="cloud" link="/docs/guide/flacbox/flacbox-guide-connections" title="Pripojenia" subtitle="Pripojte Dropbox, Google Drive, iCloud alebo váš NAS." >}}
 
-{{< card icon="collection" link="/docs/guide/flacbox/flacbox-guide-music-library" title="Hudobná knižnica" subtitle="Spravujte a vyhľadávajte stopy podľa interpreta, albumu alebo žánru." >}}
+{{< feature-card icon="collection" link="/docs/guide/flacbox/flacbox-guide-music-library" title="Hudobná knižnica" subtitle="Spravujte a vyhľadávajte stopy podľa interpreta, albumu alebo žánru." >}}
 
-{{< card icon="music-note" link="/docs/guide/flacbox/flacbox-guide-playlists" title="Playlisty" subtitle="Vytvárajte a organizujte playlisty pre akúkoľvek náladu alebo príležitosť." >}}
+{{< feature-card icon="music-note" link="/docs/guide/flacbox/flacbox-guide-playlists" title="Playlisty" subtitle="Vytvárajte a organizujte playlisty pre akúkoľvek náladu alebo príležitosť." >}}
 
-{{< card icon="folder" link="/docs/guide/flacbox/flacbox-guide-local-files" title="Lokálne súbory" subtitle="Upravujte a prehrávajte offline hudbu vstavaným správcom súborov." >}}
+{{< feature-card icon="folder" link="/docs/guide/flacbox/flacbox-guide-local-files" title="Lokálne súbory" subtitle="Upravujte a prehrávajte offline hudbu vstavaným správcom súborov." >}}
 
-{{< card icon="play" link="/docs/guide/flacbox/flacbox-guide-player" title="Audio prehrávač" subtitle="Ovládajte prehrávanie, nastavte rýchlosť, záložky a viac." >}}
+{{< feature-card icon="play" link="/docs/guide/flacbox/flacbox-guide-player" title="Audio prehrávač" subtitle="Ovládajte prehrávanie, nastavte rýchlosť, záložky a viac." >}}
 
-{{< card icon="adjustments" link="/docs/guide/flacbox/flacbox-guide-settings" title="Nastavenia" subtitle="Prispôsobte ekvalizér, vzhľad a správanie aplikácie." >}}
+{{< feature-card icon="adjustments" link="/docs/guide/flacbox/flacbox-guide-settings" title="Nastavenia" subtitle="Prispôsobte ekvalizér, vzhľad a správanie aplikácie." >}}
 
 {{< /cards >}}
 

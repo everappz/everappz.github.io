@@ -144,35 +144,35 @@ Alle Funktionen
 
 {{< cards >}}
 
-{{< card title="Alle Video- und Audioformate abspielen" subtitle="Sehen Sie Ihre Medien ohne Dateikonvertierung. Evervideo unterstützt alle gängigen Formate, einschließlich MKV, AVI, MP4, MOV, FLAC, MP3, AAC, OGG, WAV, WMV und mehr." icon="film">}}
+{{< feature-card title="Alle Video- und Audioformate abspielen" subtitle="Sehen Sie Ihre Medien ohne Dateikonvertierung. Evervideo unterstützt alle gängigen Formate, einschließlich MKV, AVI, MP4, MOV, FLAC, MP3, AAC, OGG, WAV, WMV und mehr." icon="film">}}
 
-{{< card title="Offline-Modus" subtitle="Laden Sie Videos, Alben und Wiedergabelisten herunter, um sie ohne Internetverbindung anzusehen. Nehmen Sie Ihre gesamte Videosammlung überallhin mit." icon="download">}}
+{{< feature-card title="Offline-Modus" subtitle="Laden Sie Videos, Alben und Wiedergabelisten herunter, um sie ohne Internetverbindung anzusehen. Nehmen Sie Ihre gesamte Videosammlung überallhin mit." icon="download">}}
 
-{{< card title="360°-Video & VR-Modus" subtitle="Schauen Sie 360°- und VR-Videos auf unterhaltsame und einfache Weise. Bewegen Sie Ihr Telefon, um in jede Richtung zu blicken, oder setzen Sie es in ein VR-Headset, um sich wie im Video zu fühlen." icon="video-camera">}}
+{{< feature-card title="360°-Video & VR-Modus" subtitle="Schauen Sie 360°- und VR-Videos auf unterhaltsame und einfache Weise. Bewegen Sie Ihr Telefon, um in jede Richtung zu blicken, oder setzen Sie es in ein VR-Headset, um sich wie im Video zu fühlen." icon="video-camera">}}
 
-{{< card title="Bild-in-Bild" subtitle="Schauen Sie weiter Videos in einem kleinen schwebenden Fenster, während Sie andere Apps verwenden. Steuern Sie die Wiedergabe und sehen Sie Untertitel gleichzeitig — perfekt zum Multitasking." icon="duplicate">}}
+{{< feature-card title="Bild-in-Bild" subtitle="Schauen Sie weiter Videos in einem kleinen schwebenden Fenster, während Sie andere Apps verwenden. Steuern Sie die Wiedergabe und sehen Sie Untertitel gleichzeitig — perfekt zum Multitasking." icon="duplicate">}}
 
-{{< card title="Video- & Audio-Equalizer" subtitle="Passen Sie das Aussehen und den Klang Ihrer Videos an. Stellen Sie Bass, Tonhöhe, Helligkeit, Gamma, Sättigung, Kontrast und mehr ein. Wählen Sie aus über 50 Video-Voreinstellungen und über 20 Audio-Voreinstellungen, oder erstellen Sie Ihre eigenen." icon="adjustments">}}
+{{< feature-card title="Video- & Audio-Equalizer" subtitle="Passen Sie das Aussehen und den Klang Ihrer Videos an. Stellen Sie Bass, Tonhöhe, Helligkeit, Gamma, Sättigung, Kontrast und mehr ein. Wählen Sie aus über 50 Video-Voreinstellungen und über 20 Audio-Voreinstellungen, oder erstellen Sie Ihre eigenen." icon="adjustments">}}
 
-{{< card title="Untertitel" subtitle="Zeigen Sie eingebettete Untertitel an, wählen Sie die Untertitelspur und genießen Sie volle Untertitelunterstützung auch im Bild-in-Bild-Modus." icon="annotation" >}}
+{{< feature-card title="Untertitel" subtitle="Zeigen Sie eingebettete Untertitel an, wählen Sie die Untertitelspur und genießen Sie volle Untertitelunterstützung auch im Bild-in-Bild-Modus." icon="annotation" >}}
 
-{{< card title="Direkt aus der Cloud abspielen" subtitle="Sehen Sie Videos direkt aus Ihrem Cloud-Speicher, ohne Gerätespeicher zu verwenden. Unterstützt iCloud Drive, Google Drive, Dropbox, OneDrive, MEGA, Synology Drive, pCloud und mehr." icon="cloud">}}
+{{< feature-card title="Direkt aus der Cloud abspielen" subtitle="Sehen Sie Videos direkt aus Ihrem Cloud-Speicher, ohne Gerätespeicher zu verwenden. Unterstützt iCloud Drive, Google Drive, Dropbox, OneDrive, MEGA, Synology Drive, pCloud und mehr." icon="cloud">}}
 
-{{< card title="Computer / NAS verbinden" subtitle="Verbinden Sie einfach Ihr NAS, Ihren Mac oder PC über Ihr Heimnetzwerk mit SMB, WebDAV oder DLNA. Fernzugriff wird für Synology Drive und WD MyCloud Home unterstützt. Übertragen Sie Mediendateien auf Ihr Gerät über Wi-Fi oder iTunes-Dateifreigabe." icon="desktop-computer">}}
+{{< feature-card title="Computer / NAS verbinden" subtitle="Verbinden Sie einfach Ihr NAS, Ihren Mac oder PC über Ihr Heimnetzwerk mit SMB, WebDAV oder DLNA. Fernzugriff wird für Synology Drive und WD MyCloud Home unterstützt. Übertragen Sie Mediendateien auf Ihr Gerät über Wi-Fi oder iTunes-Dateifreigabe." icon="desktop-computer">}}
 
-{{< card title="Medienbibliothek" subtitle="Organisieren Sie nach Album, Genre oder Dauer. Synchronisiert sich automatisch mit Cloud-Änderungen. Erstellen, bearbeiten und exportieren Sie M3U-Wiedergabelisten mit benutzerdefinierter Sortierung." icon="library" >}}
+{{< feature-card title="Medienbibliothek" subtitle="Organisieren Sie nach Album, Genre oder Dauer. Synchronisiert sich automatisch mit Cloud-Änderungen. Erstellen, bearbeiten und exportieren Sie M3U-Wiedergabelisten mit benutzerdefinierter Sortierung." icon="library" >}}
 
-{{< card title="Lesezeichen & Wiedergabeposition speichern" subtitle="Speichern Sie Ihre Stelle in jedem Video mit Lesezeichen und setzen Sie die Wiedergabe dort fort, wo Sie aufgehört haben. Passen Sie die Wiedergabegeschwindigkeit an, markieren Sie Favoriten und sortieren Sie Videos nach den meistgespielten für einfachen Zugriff." icon="book-open">}}
+{{< feature-card title="Lesezeichen & Wiedergabeposition speichern" subtitle="Speichern Sie Ihre Stelle in jedem Video mit Lesezeichen und setzen Sie die Wiedergabe dort fort, wo Sie aufgehört haben. Passen Sie die Wiedergabegeschwindigkeit an, markieren Sie Favoriten und sortieren Sie Videos nach den meistgespielten für einfachen Zugriff." icon="book-open">}}
 
-{{< card title="AirPlay & Chromecast" subtitle="Spielen Sie Videos auf einem größeren Bildschirm ab, indem Sie zu Apple TV, Chromecast oder einem kompatiblen externen Display streamen." icon="device-mobile">}}
+{{< feature-card title="AirPlay & Chromecast" subtitle="Spielen Sie Videos auf einem größeren Bildschirm ab, indem Sie zu Apple TV, Chromecast oder einem kompatiblen externen Display streamen." icon="device-mobile">}}
 
-{{< card title="Import aus Dateien & Bibliotheken" subtitle="Importieren Sie Videos direkt aus der Dateien-App, Fotos oder Ihrer iTunes-Mediathek. Greifen Sie auf alle lokalen und Cloud-Inhalte in einer organisierten Medienbibliothek zu." icon="database">}}
+{{< feature-card title="Import aus Dateien & Bibliotheken" subtitle="Importieren Sie Videos direkt aus der Dateien-App, Fotos oder Ihrer iTunes-Mediathek. Greifen Sie auf alle lokalen und Cloud-Inhalte in einer organisierten Medienbibliothek zu." icon="database">}}
 
-{{< card title="Dateimanager" subtitle="Verschieben, umbenennen, löschen und organisieren Sie Dateien direkt in der App." icon="folder">}}
+{{< feature-card title="Dateimanager" subtitle="Verschieben, umbenennen, löschen und organisieren Sie Dateien direkt in der App." icon="folder">}}
 
-{{< card title="Personalisierung" subtitle="Passen Sie die App an Ihre Vorlieben an. Wählen Sie Designs, zeigen oder verbergen Sie Funktionen und passen Sie die Oberfläche an Ihre Bedürfnisse an." icon="sun">}}
+{{< feature-card title="Personalisierung" subtitle="Passen Sie die App an Ihre Vorlieben an. Wählen Sie Designs, zeigen oder verbergen Sie Funktionen und passen Sie die Oberfläche an Ihre Bedürfnisse an." icon="sun">}}
 
-{{< card title="Intelligente Suche" subtitle="Finden Sie schnell Videos, Alben oder Wiedergabelisten in Ihrer Medienbibliothek mit Stichwörtern oder Filtern." icon="search" >}}
+{{< feature-card title="Intelligente Suche" subtitle="Finden Sie schnell Videos, Alben oder Wiedergabelisten in Ihrer Medienbibliothek mit Stichwörtern oder Filtern." icon="search" >}}
 
 
 
@@ -192,7 +192,7 @@ Intuitives Design
 
 {{< cards cols="4">}}
 
-  {{< card 
+  {{< feature-card 
     image="/products/evervideo/screenshots/2880x1800/1.png" 
     title="Videoplayer" 
     method="Fill"
@@ -201,7 +201,7 @@ Intuitives Design
     icon="play"
   >}}
 
-  {{< card 
+  {{< feature-card 
     image="/products/evervideo/screenshots/2880x1800/3.png" 
     title="Audio- & Video-Equalizer" 
     method="Fill"
@@ -210,7 +210,7 @@ Intuitives Design
     icon="adjustments"
   >}}
 
-  {{< card 
+  {{< feature-card 
     image="/products/evervideo/screenshots/2880x1800/6.png" 
     title="Wiedergabelisten-Manager" 
     method="Fill"
@@ -219,7 +219,7 @@ Intuitives Design
     icon="collection"
   >}}
 
-  {{< card 
+  {{< feature-card 
     image="/products/evervideo/screenshots/2880x1800/5.png" 
     title="Medienbibliothek" 
     method="Fill"
@@ -228,7 +228,7 @@ Intuitives Design
     icon="library"
   >}}
 
-  {{< card 
+  {{< feature-card 
     image="/products/evervideo/screenshots/2880x1800/7.png"  
     title="Cloud-Speicher" 
     method="Fill"
@@ -237,7 +237,7 @@ Intuitives Design
     icon="cloud"
   >}}
 
-  {{< card 
+  {{< feature-card 
     image="/products/evervideo/screenshots/2880x1800/9.png"  
     title="Dateimanager" 
     method="Fill"
@@ -656,17 +656,17 @@ Hinweis: Stellen Sie sicher, dass JavaScript aktiviert ist und Sie die neueste B
 </div>
 
 {{< cards >}}
-  {{< card icon="location-marker" title="Navigation" subtitle="Lerne, wie du Evervideo mit der Tab-Leiste auf dem iPhone oder dem linken Menü auf iPad und Mac steuerst – inklusive des kompakten, immer sichtbaren Videoplayers." link="/docs/guide/evervideo/evervideo-guide-navigation" >}}
+  {{< feature-card icon="location-marker" title="Navigation" subtitle="Lerne, wie du Evervideo mit der Tab-Leiste auf dem iPhone oder dem linken Menü auf iPad und Mac steuerst – inklusive des kompakten, immer sichtbaren Videoplayers." link="/docs/guide/evervideo/evervideo-guide-navigation" >}}
 
-  {{< card icon="folder" title="Dateien" subtitle="Verbinde Cloud-Konten, NAS-Freigaben, Medienserver (Plex, Jellyfin, Emby, Subsonic, Navidrome), RTSP-Streams und lokale Dateien in einem einheitlichen Tab." link="/docs/guide/evervideo/evervideo-guide-files" >}}
+  {{< feature-card icon="folder" title="Dateien" subtitle="Verbinde Cloud-Konten, NAS-Freigaben, Medienserver (Plex, Jellyfin, Emby, Subsonic, Navidrome), RTSP-Streams und lokale Dateien in einem einheitlichen Tab." link="/docs/guide/evervideo/evervideo-guide-files" >}}
 
-  {{< card icon="library" title="Mediathek" subtitle="Organisiere und entdecke deine Videos und Musik nach Alben, Genres, Zuletzt gespielt und Favoriten – plus die iOS-Fotomediathek und die Apple-Music-Mediathek." link="/docs/guide/evervideo/evervideo-guide-video-library" >}}
+  {{< feature-card icon="library" title="Mediathek" subtitle="Organisiere und entdecke deine Videos und Musik nach Alben, Genres, Zuletzt gespielt und Favoriten – plus die iOS-Fotomediathek und die Apple-Music-Mediathek." link="/docs/guide/evervideo/evervideo-guide-video-library" >}}
 
-  {{< card icon="collection" title="Wiedergabelisten" subtitle="Erstelle und ordne Wiedergabelisten für Videos, Musik, Serien oder Kurse und importiere M3U-, M3U8- oder CUE-Dateien." link="/docs/guide/evervideo/evervideo-guide-playlists" >}}
+  {{< feature-card icon="collection" title="Wiedergabelisten" subtitle="Erstelle und ordne Wiedergabelisten für Videos, Musik, Serien oder Kurse und importiere M3U-, M3U8- oder CUE-Dateien." link="/docs/guide/evervideo/evervideo-guide-playlists" >}}
 
-  {{< card icon="play" title="Medienplayer" subtitle="Steuere Wiedergabe, Warteschlange, Bild-in-Bild, Audio- und Videospuren, primäre und sekundäre Untertitel sowie die Audio- und Video-Equalizer." link="/docs/guide/evervideo/evervideo-guide-player" >}}
+  {{< feature-card icon="play" title="Medienplayer" subtitle="Steuere Wiedergabe, Warteschlange, Bild-in-Bild, Audio- und Videospuren, primäre und sekundäre Untertitel sowie die Audio- und Video-Equalizer." link="/docs/guide/evervideo/evervideo-guide-player" >}}
 
-  {{< card icon="adjustments" title="Einstellungen" subtitle="Passe Aussehen, Decoder, Equalizer, Untertitel, Widgets, Sprache, Code-Sperre, Backup und Leistungseinstellungen von Evervideo an." link="/docs/guide/evervideo/evervideo-guide-settings" >}}
+  {{< feature-card icon="adjustments" title="Einstellungen" subtitle="Passe Aussehen, Decoder, Equalizer, Untertitel, Widgets, Sprache, Code-Sperre, Backup und Leistungseinstellungen von Evervideo an." link="/docs/guide/evervideo/evervideo-guide-settings" >}}
 
 {{< /cards >}}
 

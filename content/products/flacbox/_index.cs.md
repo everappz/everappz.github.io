@@ -127,29 +127,29 @@ Kompletní funkce
 
 {{< cards >}}
 
-  {{< card title="Podpora bezeztrátového audia" subtitle="Přehrávejte FLAC, ALAC, WAV, APE, DFF, WV, AIFF a mnoho dalších vysoce kvalitních formátů." icon="music-note" >}}
-  {{< card title="Offline režim" subtitle="Stáhněte alba, playlisty a skladby pro offline přehrávání kdykoli." icon="download" >}}
-  {{< card title="Správa souborů" subtitle="Snadno kopírujte, přesouvejte, přejmenovávejte a mazejte soubory v aplikaci." icon="folder" >}}
+  {{< feature-card title="Podpora bezeztrátového audia" subtitle="Přehrávejte FLAC, ALAC, WAV, APE, DFF, WV, AIFF a mnoho dalších vysoce kvalitních formátů." icon="music-note" >}}
+  {{< feature-card title="Offline režim" subtitle="Stáhněte alba, playlisty a skladby pro offline přehrávání kdykoli." icon="download" >}}
+  {{< feature-card title="Správa souborů" subtitle="Snadno kopírujte, přesouvejte, přejmenovávejte a mazejte soubory v aplikaci." icon="folder" >}}
 
-  {{< card title="Vlastní playlisty" subtitle="Vytvářejte, upravujte, přeuspořádávejte playlisty a exportujte nebo importujte soubory M3U." icon="collection" >}}
-  {{< card title="Hudební knihovna" subtitle="Přidejte hudbu a organizujte ji podle alba, interpreta a žánru pomocí tagů." icon="library" >}}
-  {{< card title="Pokročilé vyhledávání" subtitle="Rychle najděte písně, interprety nebo alba pomocí chytrých vyhledávacích nástrojů." icon="search" >}}
+  {{< feature-card title="Vlastní playlisty" subtitle="Vytvářejte, upravujte, přeuspořádávejte playlisty a exportujte nebo importujte soubory M3U." icon="collection" >}}
+  {{< feature-card title="Hudební knihovna" subtitle="Přidejte hudbu a organizujte ji podle alba, interpreta a žánru pomocí tagů." icon="library" >}}
+  {{< feature-card title="Pokročilé vyhledávání" subtitle="Rychle najděte písně, interprety nebo alba pomocí chytrých vyhledávacích nástrojů." icon="search" >}}
 
-  {{< card title="Cloudové streamování" subtitle="Streamujte z Google Drive, Dropbox, OneDrive, iCloud, MEGA a dalších." icon="cloud" >}}
-  {{< card title="Přístup k NAS a počítači" subtitle="Připojte se přes SMB, DLNA nebo WebDAV. Přenášejte pomocí iTunes nebo Wi-Fi." icon="desktop-computer" >}}
-  {{< card title="USB flash karty" subtitle="Přehrávejte hudbu přímo z SD karet pomocí USB adaptérů jako iXpand." icon="inbox" >}}
+  {{< feature-card title="Cloudové streamování" subtitle="Streamujte z Google Drive, Dropbox, OneDrive, iCloud, MEGA a dalších." icon="cloud" >}}
+  {{< feature-card title="Přístup k NAS a počítači" subtitle="Připojte se přes SMB, DLNA nebo WebDAV. Přenášejte pomocí iTunes nebo Wi-Fi." icon="desktop-computer" >}}
+  {{< feature-card title="USB flash karty" subtitle="Přehrávejte hudbu přímo z SD karet pomocí USB adaptérů jako iXpand." icon="inbox" >}}
 
-  {{< card title="Ovládání přehrávání" subtitle="Měňte rychlost a výšku přehrávání pro dokonalou kontrolu zvuku." icon="fast-forward" >}}
-  {{< card title="Texty a komentáře" subtitle="Zobrazujte vložené texty písní a komentáře při přehrávání." icon="annotation" >}}
-  {{< card title="Editor ID3 tagů" subtitle="Upravujte a opravujte metadata jako název, interpret nebo album vestavěným nástrojem." icon="pencil-alt" >}}
+  {{< feature-card title="Ovládání přehrávání" subtitle="Měňte rychlost a výšku přehrávání pro dokonalou kontrolu zvuku." icon="fast-forward" >}}
+  {{< feature-card title="Texty a komentáře" subtitle="Zobrazujte vložené texty písní a komentáře při přehrávání." icon="annotation" >}}
+  {{< feature-card title="Editor ID3 tagů" subtitle="Upravujte a opravujte metadata jako název, interpret nebo album vestavěným nástrojem." icon="pencil-alt" >}}
 
-  {{< card title="Ekvalizér a zesílení" subtitle="Používejte presety nebo ručně nastavujte s předzesílením pro bohatý zvuk." icon="adjustments" >}}
-  {{< card title="Apple CarPlay" subtitle="Jezděte bezpečně s vyhrazeným rozhraním CarPlay pro přehrávání hudby." icon="truck" >}}
-  {{< card title="AirPlay a Chromecast" subtitle="Streamujte na Apple TV a Google Chromecast zařízení bezdrátově." icon="device-mobile" >}}
+  {{< feature-card title="Ekvalizér a zesílení" subtitle="Používejte presety nebo ručně nastavujte s předzesílením pro bohatý zvuk." icon="adjustments" >}}
+  {{< feature-card title="Apple CarPlay" subtitle="Jezděte bezpečně s vyhrazeným rozhraním CarPlay pro přehrávání hudby." icon="truck" >}}
+  {{< feature-card title="AirPlay a Chromecast" subtitle="Streamujte na Apple TV a Google Chromecast zařízení bezdrátově." icon="device-mobile" >}}
 
-  {{< card title="Integrace Last.fm" subtitle="Sledujte hudební statistiky a získávejte personalizovaná doporučení písní." icon="chart-bar" >}}
-  {{< card title="Automatická synchronizace" subtitle="Automaticky synchronizujte hudební knihovnu s cloudovými a lokálními složkami." icon="refresh" >}}
-  {{< card title="Podpora audioknih" subtitle="Poslouchejte audioknihy se záložkami, časovačem spánku a obnovením přehrávání od místa, kde jste přestali." icon="book-open" >}}
+  {{< feature-card title="Integrace Last.fm" subtitle="Sledujte hudební statistiky a získávejte personalizovaná doporučení písní." icon="chart-bar" >}}
+  {{< feature-card title="Automatická synchronizace" subtitle="Automaticky synchronizujte hudební knihovnu s cloudovými a lokálními složkami." icon="refresh" >}}
+  {{< feature-card title="Podpora audioknih" subtitle="Poslouchejte audioknihy se záložkami, časovačem spánku a obnovením přehrávání od místa, kde jste přestali." icon="book-open" >}}
 
 {{< /cards >}}
 
@@ -167,7 +167,7 @@ Intuitivní design
 
 {{< cards cols="4">}}
 
-  {{< card 
+  {{< feature-card 
     image="/products/flacbox/screenshots/2048x2732/1.png" 
     title="Audio přehrávač" 
     method="Fill"
@@ -176,7 +176,7 @@ Intuitivní design
     icon="play"
   >}}
 
-  {{< card 
+  {{< feature-card 
     image="/products/flacbox/screenshots/2048x2732/2.png"  
     title="Audio ekvalizér" 
     method="Fill"
@@ -185,7 +185,7 @@ Intuitivní design
     icon="adjustments"
   >}}
 
-  {{< card 
+  {{< feature-card 
     image="/products/flacbox/screenshots/2048x2732/3.png"  
     title="Správce playlistů" 
     method="Fill"
@@ -194,7 +194,7 @@ Intuitivní design
     icon="collection"
   >}}
 
-  {{< card 
+  {{< feature-card 
     image="/products/flacbox/screenshots/2048x2732/5.png"  
     title="Hudební knihovna" 
     method="Fill"
@@ -203,7 +203,7 @@ Intuitivní design
     icon="library"
   >}}
 
-  {{< card 
+  {{< feature-card 
     image="/products/flacbox/screenshots/2048x2732/7.png"  
     title="Cloudové úložiště" 
     method="Fill"
@@ -212,7 +212,7 @@ Intuitivní design
     icon="cloud"
   >}}
 
-  {{< card 
+  {{< feature-card 
     image="/products/flacbox/screenshots/2048x2732/8.png"  
     title="iCloud Drive" 
     method="Fill"
@@ -835,19 +835,19 @@ Pro použití CarPlay se ujistěte, že je Siri povolena a váš iPhone je přip
 
 {{< cards >}}
 
-{{< card icon="map" link="/docs/guide/flacbox/flacbox-guide-navigation" title="Navigace" subtitle="Použijte lištu záložek na iPhone nebo levé menu na iPad a Mac." >}}
+{{< feature-card icon="map" link="/docs/guide/flacbox/flacbox-guide-navigation" title="Navigace" subtitle="Použijte lištu záložek na iPhone nebo levé menu na iPad a Mac." >}}
 
-{{< card icon="cloud" link="/docs/guide/flacbox/flacbox-guide-connections" title="Připojení" subtitle="Připojte Dropbox, Google Drive, iCloud nebo váš NAS." >}}
+{{< feature-card icon="cloud" link="/docs/guide/flacbox/flacbox-guide-connections" title="Připojení" subtitle="Připojte Dropbox, Google Drive, iCloud nebo váš NAS." >}}
 
-{{< card icon="collection" link="/docs/guide/flacbox/flacbox-guide-music-library" title="Hudební knihovna" subtitle="Spravujte a vyhledávejte stopy podle interpreta, alba nebo žánru." >}}
+{{< feature-card icon="collection" link="/docs/guide/flacbox/flacbox-guide-music-library" title="Hudební knihovna" subtitle="Spravujte a vyhledávejte stopy podle interpreta, alba nebo žánru." >}}
 
-{{< card icon="music-note" link="/docs/guide/flacbox/flacbox-guide-playlists" title="Playlisty" subtitle="Vytvářejte a organizujte playlisty pro jakoukoli náladu nebo příležitost." >}}
+{{< feature-card icon="music-note" link="/docs/guide/flacbox/flacbox-guide-playlists" title="Playlisty" subtitle="Vytvářejte a organizujte playlisty pro jakoukoli náladu nebo příležitost." >}}
 
-{{< card icon="folder" link="/docs/guide/flacbox/flacbox-guide-local-files" title="Lokální soubory" subtitle="Upravujte a přehrávejte offline hudbu pomocí vestavěného správce souborů." >}}
+{{< feature-card icon="folder" link="/docs/guide/flacbox/flacbox-guide-local-files" title="Lokální soubory" subtitle="Upravujte a přehrávejte offline hudbu pomocí vestavěného správce souborů." >}}
 
-{{< card icon="play" link="/docs/guide/flacbox/flacbox-guide-player" title="Audio přehrávač" subtitle="Ovládejte přehrávání, nastavte rychlost, vytvořte záložky a další." >}}
+{{< feature-card icon="play" link="/docs/guide/flacbox/flacbox-guide-player" title="Audio přehrávač" subtitle="Ovládejte přehrávání, nastavte rychlost, vytvořte záložky a další." >}}
 
-{{< card icon="adjustments" link="/docs/guide/flacbox/flacbox-guide-settings" title="Nastavení" subtitle="Přizpůsobte ekvalizér, vzhled a chování aplikace." >}}
+{{< feature-card icon="adjustments" link="/docs/guide/flacbox/flacbox-guide-settings" title="Nastavení" subtitle="Přizpůsobte ekvalizér, vzhled a chování aplikace." >}}
 
 {{< /cards >}}
 

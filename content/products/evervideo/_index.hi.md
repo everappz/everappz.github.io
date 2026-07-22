@@ -144,35 +144,35 @@ Evervideo
 
 {{< cards >}}
 
-{{< card title="सभी वीडियो और ऑडियो फॉर्मेट चलाएं" subtitle="फ़ाइलों को कन्वर्ट किए बिना अपना मीडिया देखें। Evervideo MKV, AVI, MP4, MOV, FLAC, MP3, AAC, OGG, WAV, WMV और अन्य सहित सभी प्रमुख फॉर्मेट सपोर्ट करता है।" icon="film">}}
+{{< feature-card title="सभी वीडियो और ऑडियो फॉर्मेट चलाएं" subtitle="फ़ाइलों को कन्वर्ट किए बिना अपना मीडिया देखें। Evervideo MKV, AVI, MP4, MOV, FLAC, MP3, AAC, OGG, WAV, WMV और अन्य सहित सभी प्रमुख फॉर्मेट सपोर्ट करता है।" icon="film">}}
 
-{{< card title="ऑफलाइन मोड" subtitle="इंटरनेट कनेक्शन के बिना देखने के लिए वीडियो, एल्बम और प्लेलिस्ट डाउनलोड करें। अपना पूरा वीडियो कलेक्शन कहीं भी ले जाएं।" icon="download">}}
+{{< feature-card title="ऑफलाइन मोड" subtitle="इंटरनेट कनेक्शन के बिना देखने के लिए वीडियो, एल्बम और प्लेलिस्ट डाउनलोड करें। अपना पूरा वीडियो कलेक्शन कहीं भी ले जाएं।" icon="download">}}
 
-{{< card title="360° वीडियो और VR मोड" subtitle="360° और VR वीडियो को मज़ेदार और आसान तरीके से देखें। किसी भी दिशा में देखने के लिए अपना फोन घुमाएं, या VR हेडसेट में लगाकर ऐसा महसूस करें जैसे आप वीडियो के अंदर हैं।" icon="video-camera">}}
+{{< feature-card title="360° वीडियो और VR मोड" subtitle="360° और VR वीडियो को मज़ेदार और आसान तरीके से देखें। किसी भी दिशा में देखने के लिए अपना फोन घुमाएं, या VR हेडसेट में लगाकर ऐसा महसूस करें जैसे आप वीडियो के अंदर हैं।" icon="video-camera">}}
 
-{{< card title="पिक्चर-इन-पिक्चर" subtitle="अन्य ऐप्स का उपयोग करते हुए एक छोटी फ्लोटिंग विंडो में वीडियो देखते रहें। प्लेबैक कंट्रोल करें और एक साथ सबटाइटल देखें – मल्टीटास्किंग के लिए परफेक्ट।" icon="duplicate">}}
+{{< feature-card title="पिक्चर-इन-पिक्चर" subtitle="अन्य ऐप्स का उपयोग करते हुए एक छोटी फ्लोटिंग विंडो में वीडियो देखते रहें। प्लेबैक कंट्रोल करें और एक साथ सबटाइटल देखें – मल्टीटास्किंग के लिए परफेक्ट।" icon="duplicate">}}
 
-{{< card title="वीडियो और ऑडियो इक्वलाइज़र" subtitle="अपने वीडियो की दिखावट और ध्वनि को कस्टमाइज़ करें। बास, पिच, ब्राइटनेस, गामा, सैचुरेशन, कंट्रास्ट और अन्य एडजस्ट करें। 50+ वीडियो प्रीसेट और 20+ ऑडियो प्रीसेट में से चुनें, या अपना खुद का बनाएं।" icon="adjustments">}}
+{{< feature-card title="वीडियो और ऑडियो इक्वलाइज़र" subtitle="अपने वीडियो की दिखावट और ध्वनि को कस्टमाइज़ करें। बास, पिच, ब्राइटनेस, गामा, सैचुरेशन, कंट्रास्ट और अन्य एडजस्ट करें। 50+ वीडियो प्रीसेट और 20+ ऑडियो प्रीसेट में से चुनें, या अपना खुद का बनाएं।" icon="adjustments">}}
 
-{{< card title="सबटाइटल" subtitle="एम्बेडेड सबटाइटल देखें, सबटाइटल ट्रैक नंबर चुनें, और पिक्चर-इन-पिक्चर मोड में भी पूर्ण सबटाइटल सपोर्ट का आनंद लें।" icon="annotation" >}}
+{{< feature-card title="सबटाइटल" subtitle="एम्बेडेड सबटाइटल देखें, सबटाइटल ट्रैक नंबर चुनें, और पिक्चर-इन-पिक्चर मोड में भी पूर्ण सबटाइटल सपोर्ट का आनंद लें।" icon="annotation" >}}
 
-{{< card title="क्लाउड से सीधे चलाएं" subtitle="डिवाइस स्पेस का उपयोग किए बिना सीधे अपने क्लाउड स्टोरेज से वीडियो देखें। iCloud Drive, Google Drive, Dropbox, OneDrive, MEGA, Synology Drive, pCloud और अन्य सपोर्ट करता है।" icon="cloud">}}
+{{< feature-card title="क्लाउड से सीधे चलाएं" subtitle="डिवाइस स्पेस का उपयोग किए बिना सीधे अपने क्लाउड स्टोरेज से वीडियो देखें। iCloud Drive, Google Drive, Dropbox, OneDrive, MEGA, Synology Drive, pCloud और अन्य सपोर्ट करता है।" icon="cloud">}}
 
-{{< card title="कंप्यूटर / NAS कनेक्ट करें" subtitle="SMB, WebDAV, या DLNA का उपयोग करके अपने होम नेटवर्क पर आसानी से अपना NAS, Mac, या PC कनेक्ट करें। Synology Drive और WD MyCloud Home के लिए रिमोट एक्सेस सपोर्टेड है। Wi-Fi या iTunes File Sharing के माध्यम से अपने डिवाइस पर मीडिया फ़ाइलें ट्रांसफर करें।" icon="desktop-computer">}}
+{{< feature-card title="कंप्यूटर / NAS कनेक्ट करें" subtitle="SMB, WebDAV, या DLNA का उपयोग करके अपने होम नेटवर्क पर आसानी से अपना NAS, Mac, या PC कनेक्ट करें। Synology Drive और WD MyCloud Home के लिए रिमोट एक्सेस सपोर्टेड है। Wi-Fi या iTunes File Sharing के माध्यम से अपने डिवाइस पर मीडिया फ़ाइलें ट्रांसफर करें।" icon="desktop-computer">}}
 
-{{< card title="मीडिया लाइब्रेरी" subtitle="एल्बम, शैली, या अवधि के अनुसार व्यवस्थित करें। क्लाउड परिवर्तनों के साथ स्वचालित रूप से सिंक होती है। कस्टम सॉर्टिंग के साथ M3U प्लेलिस्ट बनाएं, संपादित करें और एक्सपोर्ट करें।" icon="library" >}}
+{{< feature-card title="मीडिया लाइब्रेरी" subtitle="एल्बम, शैली, या अवधि के अनुसार व्यवस्थित करें। क्लाउड परिवर्तनों के साथ स्वचालित रूप से सिंक होती है। कस्टम सॉर्टिंग के साथ M3U प्लेलिस्ट बनाएं, संपादित करें और एक्सपोर्ट करें।" icon="library" >}}
 
-{{< card title="बुकमार्क और प्लेबैक पोज़िशन सेविंग" subtitle="बुकमार्क के साथ किसी भी वीडियो में अपनी जगह सेव करें और जहां छोड़ा था वहां से प्लेबैक फिर से शुरू करें। प्लेबैक स्पीड एडजस्ट करें, फेवरिट मार्क करें, और आसान एक्सेस के लिए सबसे ज़्यादा चलाए गए वीडियो के अनुसार सॉर्ट करें।" icon="book-open">}}
+{{< feature-card title="बुकमार्क और प्लेबैक पोज़िशन सेविंग" subtitle="बुकमार्क के साथ किसी भी वीडियो में अपनी जगह सेव करें और जहां छोड़ा था वहां से प्लेबैक फिर से शुरू करें। प्लेबैक स्पीड एडजस्ट करें, फेवरिट मार्क करें, और आसान एक्सेस के लिए सबसे ज़्यादा चलाए गए वीडियो के अनुसार सॉर्ट करें।" icon="book-open">}}
 
-{{< card title="AirPlay और Chromecast" subtitle="Apple TV, Chromecast, या किसी भी कम्पैटिबल एक्सटर्नल डिस्प्ले पर स्ट्रीम करके बड़ी स्क्रीन पर वीडियो चलाएं।" icon="device-mobile">}}
+{{< feature-card title="AirPlay और Chromecast" subtitle="Apple TV, Chromecast, या किसी भी कम्पैटिबल एक्सटर्नल डिस्प्ले पर स्ट्रीम करके बड़ी स्क्रीन पर वीडियो चलाएं।" icon="device-mobile">}}
 
-{{< card title="Files और Libraries से इम्पोर्ट" subtitle="Files ऐप, Photos, या अपनी iTunes Library से सीधे वीडियो इम्पोर्ट करें। एक व्यवस्थित मीडिया लाइब्रेरी में अपनी सभी लोकल और क्लाउड कंटेंट एक्सेस करें।" icon="database">}}
+{{< feature-card title="Files और Libraries से इम्पोर्ट" subtitle="Files ऐप, Photos, या अपनी iTunes Library से सीधे वीडियो इम्पोर्ट करें। एक व्यवस्थित मीडिया लाइब्रेरी में अपनी सभी लोकल और क्लाउड कंटेंट एक्सेस करें।" icon="database">}}
 
-{{< card title="फ़ाइल मैनेजर" subtitle="ऐप के अंदर सीधे फ़ाइलें मूव, रीनेम, डिलीट और व्यवस्थित करें।" icon="folder">}}
+{{< feature-card title="फ़ाइल मैनेजर" subtitle="ऐप के अंदर सीधे फ़ाइलें मूव, रीनेम, डिलीट और व्यवस्थित करें।" icon="folder">}}
 
-{{< card title="पर्सनलाइज़ेशन" subtitle="ऐप को अपनी पसंद के अनुसार कस्टमाइज़ करें। थीम चुनें, फीचर्स दिखाएं या छुपाएं, और इंटरफ़ेस को अपनी ज़रूरतों के अनुसार एडजस्ट करें।" icon="sun">}}
+{{< feature-card title="पर्सनलाइज़ेशन" subtitle="ऐप को अपनी पसंद के अनुसार कस्टमाइज़ करें। थीम चुनें, फीचर्स दिखाएं या छुपाएं, और इंटरफ़ेस को अपनी ज़रूरतों के अनुसार एडजस्ट करें।" icon="sun">}}
 
-{{< card title="स्मार्ट सर्च" subtitle="कीवर्ड या फ़िल्टर का उपयोग करके अपनी मीडिया लाइब्रेरी में जल्दी से वीडियो, एल्बम, या प्लेलिस्ट खोजें।" icon="search" >}}
+{{< feature-card title="स्मार्ट सर्च" subtitle="कीवर्ड या फ़िल्टर का उपयोग करके अपनी मीडिया लाइब्रेरी में जल्दी से वीडियो, एल्बम, या प्लेलिस्ट खोजें।" icon="search" >}}
 
 
 
@@ -192,7 +192,7 @@ Evervideo
 
 {{< cards cols="4">}}
 
-  {{< card 
+  {{< feature-card 
     image="/products/evervideo/screenshots/2880x1800/1.png" 
     title="वीडियो प्लेयर" 
     method="Fill"
@@ -201,7 +201,7 @@ Evervideo
     icon="play"
   >}}
 
-  {{< card 
+  {{< feature-card 
     image="/products/evervideo/screenshots/2880x1800/3.png" 
     title="ऑडियो और वीडियो इक्वलाइज़र" 
     method="Fill"
@@ -210,7 +210,7 @@ Evervideo
     icon="adjustments"
   >}}
 
-  {{< card 
+  {{< feature-card 
     image="/products/evervideo/screenshots/2880x1800/6.png" 
     title="प्लेलिस्ट मैनेजर" 
     method="Fill"
@@ -219,7 +219,7 @@ Evervideo
     icon="collection"
   >}}
 
-  {{< card 
+  {{< feature-card 
     image="/products/evervideo/screenshots/2880x1800/5.png" 
     title="मीडिया लाइब्रेरी" 
     method="Fill"
@@ -228,7 +228,7 @@ Evervideo
     icon="library"
   >}}
 
-  {{< card 
+  {{< feature-card 
     image="/products/evervideo/screenshots/2880x1800/7.png"  
     title="क्लाउड स्टोरेज" 
     method="Fill"
@@ -237,7 +237,7 @@ Evervideo
     icon="cloud"
   >}}
 
-  {{< card 
+  {{< feature-card 
     image="/products/evervideo/screenshots/2880x1800/9.png"  
     title="फ़ाइल मैनेजर" 
     method="Fill"
@@ -656,17 +656,17 @@ iTunes File Sharing एक और तकनीक है जो आपको iTu
 </div>
 
 {{< cards >}}
-  {{< card icon="location-marker" title="नेविगेशन" subtitle="iPhone पर टैब बार या iPad और Mac पर बाएँ मेनू, साथ ही कॉम्पैक्ट हमेशा-स्क्रीन पर रहने वाले वीडियो प्लेयर का उपयोग करके Evervideo में नेविगेट करना सीखें।" link="/docs/guide/evervideo/evervideo-guide-navigation" >}}
+  {{< feature-card icon="location-marker" title="नेविगेशन" subtitle="iPhone पर टैब बार या iPad और Mac पर बाएँ मेनू, साथ ही कॉम्पैक्ट हमेशा-स्क्रीन पर रहने वाले वीडियो प्लेयर का उपयोग करके Evervideo में नेविगेट करना सीखें।" link="/docs/guide/evervideo/evervideo-guide-navigation" >}}
 
-  {{< card icon="folder" title="फ़ाइलें" subtitle="क्लाउड खाते, NAS शेयर, मीडिया सर्वर (Plex, Jellyfin, Emby, Subsonic, Navidrome), RTSP स्ट्रीम और स्थानीय फ़ाइलों को एक एकीकृत टैब में कनेक्ट करें।" link="/docs/guide/evervideo/evervideo-guide-files" >}}
+  {{< feature-card icon="folder" title="फ़ाइलें" subtitle="क्लाउड खाते, NAS शेयर, मीडिया सर्वर (Plex, Jellyfin, Emby, Subsonic, Navidrome), RTSP स्ट्रीम और स्थानीय फ़ाइलों को एक एकीकृत टैब में कनेक्ट करें।" link="/docs/guide/evervideo/evervideo-guide-files" >}}
 
-  {{< card icon="library" title="मीडिया लाइब्रेरी" subtitle="अपने वीडियो और संगीत को एल्बम, शैली, हाल के और पसंदीदा द्वारा व्यवस्थित और एक्सप्लोर करें — साथ ही iOS Photos लाइब्रेरी और Apple Music लाइब्रेरी।" link="/docs/guide/evervideo/evervideo-guide-video-library" >}}
+  {{< feature-card icon="library" title="मीडिया लाइब्रेरी" subtitle="अपने वीडियो और संगीत को एल्बम, शैली, हाल के और पसंदीदा द्वारा व्यवस्थित और एक्सप्लोर करें — साथ ही iOS Photos लाइब्रेरी और Apple Music लाइब्रेरी।" link="/docs/guide/evervideo/evervideo-guide-video-library" >}}
 
-  {{< card icon="collection" title="प्लेलिस्ट" subtitle="वीडियो, संगीत, सीरीज़ या पाठ्यक्रमों के लिए प्लेलिस्ट बनाएँ और व्यवस्थित करें और M3U / M3U8 / CUE फ़ाइलें आयात करें।" link="/docs/guide/evervideo/evervideo-guide-playlists" >}}
+  {{< feature-card icon="collection" title="प्लेलिस्ट" subtitle="वीडियो, संगीत, सीरीज़ या पाठ्यक्रमों के लिए प्लेलिस्ट बनाएँ और व्यवस्थित करें और M3U / M3U8 / CUE फ़ाइलें आयात करें।" link="/docs/guide/evervideo/evervideo-guide-playlists" >}}
 
-  {{< card icon="play" title="मीडिया प्लेयर" subtitle="प्लेबैक, क्यू, Picture-in-Picture, ऑडियो और वीडियो ट्रैक, प्राथमिक और द्वितीयक सबटाइटल और ऑडियो + वीडियो इक्वलाइज़र को नियंत्रित करें।" link="/docs/guide/evervideo/evervideo-guide-player" >}}
+  {{< feature-card icon="play" title="मीडिया प्लेयर" subtitle="प्लेबैक, क्यू, Picture-in-Picture, ऑडियो और वीडियो ट्रैक, प्राथमिक और द्वितीयक सबटाइटल और ऑडियो + वीडियो इक्वलाइज़र को नियंत्रित करें।" link="/docs/guide/evervideo/evervideo-guide-player" >}}
 
-  {{< card icon="adjustments" title="सेटिंग्स" subtitle="Evervideo के लुक, डिकोडर, इक्वलाइज़र, सबटाइटल, विजेट, भाषा, पासकोड, बैकअप और प्रदर्शन सेटिंग्स को कस्टमाइज़ करें।" link="/docs/guide/evervideo/evervideo-guide-settings" >}}
+  {{< feature-card icon="adjustments" title="सेटिंग्स" subtitle="Evervideo के लुक, डिकोडर, इक्वलाइज़र, सबटाइटल, विजेट, भाषा, पासकोड, बैकअप और प्रदर्शन सेटिंग्स को कस्टमाइज़ करें।" link="/docs/guide/evervideo/evervideo-guide-settings" >}}
 
 {{< /cards >}}
 
