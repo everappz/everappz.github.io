@@ -308,5 +308,35 @@
     "content": "Very fast and latest version stability",
     "date": "2017-09-19T04:43:15-07:00",
     "version": "1.8"
+  },
+  {
+    "country": "pl",
+    "id": "14143651054",
+    "author": "20Patefon",
+    "rating": 3,
+    "title": "No support for HLS streams.",
+    "content": "When I try to add an HLS stream, the app shows that the stream is playing but there's no sound. Some radio stations, such as Radio ESKA, broadcast using HLS technology. The streams end in playlist.m3u8. Please correct this. I'm using the free version of the app.",
+    "date": "2026-06-04T10:02:30-07:00",
+    "version": "7.5"
+  },
+  {
+    "country": "pl",
+    "id": "14107853729",
+    "author": "belmondo115",
+    "rating": 5,
+    "title": "Tak trzymać 👍",
+    "content": "Awaria, następnie szybkie usunięcie problemu i apka śmiga aż miło 👍👍👍",
+    "date": "2026-05-26T05:00:33-07:00",
+    "version": "7.5"
+  },
+  {
+    "country": "pl",
+    "id": "13989501188",
+    "author": "shcnek",
+    "rating": 1,
+    "title": "Everytime stop playing music after four songs",
+    "content": "App worked fine to time. Now app play four songs and then stop. Reset playlist everytime. And man….stupid annoying ads!!!!!!!!!!!!!!!!!!!!!!!! iPhone for $1000 dollars and what? You have still pay for everything. For android you have everything for free.  Apple and all developers choose Microsoft directions.",
+    "date": "2026-04-23T12:03:16-07:00",
+    "version": "7.3"
   }
 ]

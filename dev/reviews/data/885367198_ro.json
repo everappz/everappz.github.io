@@ -138,5 +138,15 @@
     "content": "I use it to stream my music from Onedrive.\nThe good thing is that you don't have to download the files from cloud, or will stream them directly, therefore space on your device is used just for caching.\nI would like to see in the library the possibility to sort the music by year. It's useful when you have a big collection from different periods.",
     "date": "2019-09-20T10:11:45-07:00",
     "version": "3.7"
+  },
+  {
+    "country": "ro",
+    "id": "14134709258",
+    "author": "Mr Horatiu",
+    "rating": 3,
+    "title": "Latest version is letting me down",
+    "content": "Shuffle folder doesn’t work, when coming to the app from background or backgrounding it, it crashes",
+    "date": "2026-06-02T03:46:31-07:00",
+    "version": "8.6"
   }
 ]

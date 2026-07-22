@@ -528,5 +528,25 @@
     "content": "Unfortunately doesn’t keep the position for played offline files after the app is closed",
     "date": "2019-05-19T20:33:33.000Z",
     "version": null
+  },
+  {
+    "country": "ua",
+    "id": "14182480948",
+    "author": "RomRomRomeo",
+    "rating": 5,
+    "title": "Wonderful",
+    "content": "Many thanks for the chrome cast protocol!!! 💪🏻👍🏻👏🏻",
+    "date": "2026-06-14T10:05:08-07:00",
+    "version": "7.5"
+  },
+  {
+    "country": "ua",
+    "id": "14123021463",
+    "author": "NGC33010",
+    "rating": 1,
+    "title": "Переїзд кнопок знизу вгору",
+    "content": "На ios 18.7.9 кнопки 4 штуки у режимі плеєра знаходяться на приблизно 1800 пікселів угорі (кнопки: гучності, еквалайзера, згортання режиму плеєра і перемикання між режимом плеєра і плейлистом). Вони не реагують на натискання в портретній орієнтації, в альбомній все на своїх місцях.",
+    "date": "2026-05-30T04:37:05-07:00",
+    "version": "7.5"
   }
 ]

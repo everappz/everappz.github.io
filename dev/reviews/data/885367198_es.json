@@ -528,5 +528,35 @@
     "content": "La app no deja descargar música ni hacer nada.Malisima",
     "date": "2020-07-10T09:03:16.000Z",
     "version": null
+  },
+  {
+    "country": "es",
+    "id": "14220284172",
+    "author": "falomain",
+    "rating": 5,
+    "title": "Potente y flexible",
+    "content": "Me permite centralizar toda mi música sin perder agilidad en la selección",
+    "date": "2026-06-24T04:44:38-07:00",
+    "version": "8.6"
+  },
+  {
+    "country": "es",
+    "id": "14144544268",
+    "author": "Laura Vázquez R",
+    "rating": 1,
+    "title": "A PEOR",
+    "content": "Funcionaba genial hasta hace un mes",
+    "date": "2026-06-04T15:15:23-07:00",
+    "version": "8.6"
+  },
+  {
+    "country": "es",
+    "id": "14109727923",
+    "author": "Patrivk97",
+    "rating": 1,
+    "title": "Me va fatal el widget",
+    "content": "Estoy teniendo problemas con el Widget, cuando quiero cambiar de canción no me deja pasarla y se queda con el símbolo de pausa o directamente se pone en negro y no hay canción siguiente, pero en la zona de las notificaciones sí que me deja cambiar de canción sin problema. A ver si voy a estar pagando un reproductor que iba bien y ahora me va fatal, arreglen eso.",
+    "date": "2026-05-26T15:29:11-07:00",
+    "version": "8.6"
   }
 ]

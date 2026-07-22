@@ -198,5 +198,25 @@
     "content": "Cool app, but add support for Last.fm scrobbling, please!",
     "date": "2017-05-31T11:34:23-07:00",
     "version": "1.7"
+  },
+  {
+    "country": "by",
+    "id": "14091812998",
+    "author": "Dimitry Shell",
+    "rating": 4,
+    "title": "Version 7.4",
+    "content": "Update version 7.4 and not working flacbox \niPhone X iOS 15.5",
+    "date": "2026-05-21T22:36:56-07:00",
+    "version": "7.4"
+  },
+  {
+    "country": "by",
+    "id": "14090028874",
+    "author": "Сталик Мамедов",
+    "rating": 1,
+    "title": "Не запускается",
+    "content": "Приложение после последнего обновления не запускается",
+    "date": "2026-05-21T10:20:32-07:00",
+    "version": "7.4"
   }
 ]

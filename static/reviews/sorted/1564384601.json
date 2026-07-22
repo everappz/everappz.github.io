@@ -1,5 +1,35 @@
 [
   {
+    "country": "us",
+    "id": "14242755345",
+    "author": "MusicBeeMisser",
+    "rating": 2,
+    "title": "Useless for cloud libraries if coming from MusicBee",
+    "content": "Moving from Windows to Mac and trying to find a cloud player for my MusicBee-managed library. Evermusic does not know how to separate multiple genres in “Genre” tag by semi-colon. No community forum and no documentation indicating how to separate multiple genres. Tried every delimiter I could think of (slash, double slash, null character) and still does not work. Tested out with a 21 song cloud Music Library, and the app froze every time I tried “Reload metadata” to see if that helped with multi-tag separation. Seems fully featured and looks nice, but if you have a music library  whose metadata you edited in MusicBee, look elsewhere.",
+    "date": "2026-06-29T15:59:38-07:00",
+    "version": "8.6"
+  },
+  {
+    "country": "au",
+    "id": "14138424322",
+    "author": "natieklopper",
+    "rating": 2,
+    "title": "Very Frustrating that…",
+    "content": "… I have to pay twice for an app that replies to no support and is very buggy. There is so many great ideas (I use the iOS App), but there is TOO many bugs when there is too many “connection” types that do NOT work so well and testing obviously doesn’t happen around these features at all. \n\nVery disappointing",
+    "date": "2026-06-03T02:30:07-07:00",
+    "version": "8.6"
+  },
+  {
+    "country": "fr",
+    "id": "14105033051",
+    "author": "Fab-Sau",
+    "rating": 2,
+    "title": "Lecture simple : dossier dans le Mac",
+    "content": "Impossible de charger la totalité des morceaux pour une lecture aléatoire. L’applie tronque systématiquement le chargement. Pourtant, les fichiers sont accessibles. Avec Media player de Microsoft je n’avais pas ce problème",
+    "date": "2026-05-25T09:49:32-07:00",
+    "version": "8.6"
+  },
+  {
     "country": "fr",
     "id": "14055419625",
     "author": "Jean-Mimimi",
@@ -28,6 +58,16 @@
     "content": "Who knows, as the utility refuses to allow me to connect to a NAS. I click on the add connection, and it immediately takes me to a webpage with absolutely NO help.  All the other utilities like this one, connect with absolutely no problem. Except this one……",
     "date": "2026-05-09T00:59:26.000Z",
     "version": null
+  },
+  {
+    "country": "us",
+    "id": "14042987849",
+    "author": "badprogger",
+    "rating": 5,
+    "title": "Best Evermusic update so far",
+    "content": "I downloaded the latest Evermusic update and honestly Im impressed. The new interface feels much faster and cleaner, especially with large music libraries. What really surprised me was the number of new cloud and server connections added in a single update. I was able to connect my Jellyfin server and Proton Drive without any issues, and streaming from my NAS over SFTP works great. The synced lyrics widget is also such a cool idea.This update makes the app feel much more modern and polished overall. Definitely one of the best offline and cloud music players on Mac right now.",
+    "date": "2026-05-08T14:51:40-07:00",
+    "version": "8.6"
   },
   {
     "country": "gb",

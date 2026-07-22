@@ -598,5 +598,75 @@
     "content": "每次播放完以后，下次再打开希望继续接着之前的播放，但就是不行，需要重新选歌才能播放，希望能解决这个问题。谢谢！",
     "date": "2023-08-09T11:43:19.000Z",
     "version": null
+  },
+  {
+    "country": "cn",
+    "id": "14249904507",
+    "author": "艾简若",
+    "rating": 4,
+    "title": "希望能播放cue格式文件",
+    "content": "如题",
+    "date": "2026-07-01T08:18:54-07:00",
+    "version": "8.6"
+  },
+  {
+    "country": "cn",
+    "id": "14248033609",
+    "author": "行至心归处",
+    "rating": 4,
+    "title": "刚用",
+    "content": "音色还不错，广告不知怎么半天不退出。",
+    "date": "2026-06-30T21:50:45-07:00",
+    "version": "8.6"
+  },
+  {
+    "country": "cn",
+    "id": "14178439143",
+    "author": "Lyxwcxzgc",
+    "rating": 2,
+    "title": "官方套餐购买说明里面没有标明mac平台不通用",
+    "content": "This is a one-time purchase. You will pay only once and get the Premium version for all devices connected to the same iTunes account. Family Sharing is supported. 购买了终生授权 ios没问题 mac不行 需要再次购买  苹果也不给退钱",
+    "date": "2026-06-13T09:21:26-07:00",
+    "version": "8.6"
+  },
+  {
+    "country": "cn",
+    "id": "14047092270",
+    "author": "ou la",
+    "rating": 4,
+    "title": "啥时候添加115云存储",
+    "content": "啥时候添加115云存储",
+    "date": "2026-05-09T17:39:41-07:00",
+    "version": "8.6"
+  },
+  {
+    "country": "cn",
+    "id": "13990123507",
+    "author": "买醉卡LAok",
+    "rating": 1,
+    "title": "比抢钱厉害",
+    "content": "这么一个破播放器，一年88，买断398，真的笑了。",
+    "date": "2026-04-23T16:32:42-07:00",
+    "version": "8.5"
+  },
+  {
+    "country": "cn",
+    "id": "10128656764",
+    "author": "hdkeb22223",
+    "rating": 5,
+    "title": "有bug待修复",
+    "content": "通过“本地文件-文稿-新建文件夹”导入新建文件夹中的音乐到播放列表后，播放列表播放的实际音乐和标题对应不上。标题显示正在播放A歌曲，其实放的是B歌曲。每次都是乱的，希望能尽快修复🙏",
+    "date": "2023-07-11T15:07:02.000Z",
+    "version": null
+  },
+  {
+    "country": "cn",
+    "id": "6654823839",
+    "author": "hy19930951",
+    "rating": 5,
+    "title": "赞👍🏻",
+    "content": "这是我用过的支持功能最多的单机版音乐播放器了。也不能说是单机，对iCloud和其他云盘的支持也很棒\n如果有小组件和快捷指令组件就更棒了",
+    "date": "2020-11-17T09:55:10.000Z",
+    "version": null
   }
 ]

@@ -238,5 +238,25 @@
     "content": "I got this app so that I can play media off of a Plex server using DLNA. This works surprising well, and it's the only app of its kind that seems to allow what I want. It generally does this well, and it might go the distance with me.\n\nIt features a fully flexible sleep timer, fine-grained control of media/metadata synchronization, AirPlay/Bluetooth, fine-grained queue support, and a number of other little features I really wanted.\n\nThere are several rough spots, however, so I'm not giving this a perfect rating. Listing below:\n\nWhat is the difference between this and Evermusic? I literally cannot tell.\n\nLibraries/files/metadata cannot be stored nor synced in iCloud Drive, despite being a native macOS/iOS app.\n\nDLNA synchronization is painfully slow. It is also deeply confusing because Plex exposes its library several times over in different ways in DLNA, along with its *preferences*?? How weird.\n\nHaving online music, offline music, and external files in different places in the app is really confusing. It would seem preferable to expose, instead, simply a library, whose underlying files could be located locally, externally, or online.\n\nReminders of how to use the app interface are intrusive and cannot be disabled.\n\nSettings are laid out in an odd way. \"User interface\" stuff probably belongs grouped in with the settings for that part of the interface it actually affects. \n\nDeeply frustrating that there are very poor options for sorting and viewing. By default, for example, genres are presented as a *list of songs*. Under artists, you can choose to view songs or albums, which is inconsistent with genre (which does not give you this choice). The only way to see, say, artists or albums together under a genre is to sort by one or the other to group those songs together. There's no concept of sorting by multiple things (like artist then year).\n\nPlay queues can be edited, but certain nice things are missing, like the ability to clear everything in the queue *after* the song you're playing. There is also no easy, one-click way to play a single track without playing all the others (best way available is to choose \"Play Next\" and then start playback, a two-step process).\n\nAirplay works, but it gets easily confused about how to set the volume for an Airplay device.\n\nI'll be watching to see how this app develops in the future. Thanks!",
     "date": "2022-06-03T20:20:02-07:00",
     "version": "4.1"
+  },
+  {
+    "country": "us",
+    "id": "14054689528",
+    "author": "HaoleHenry",
+    "rating": 1,
+    "title": "Run!! It’s unstable, No Customer support, exploiting ads.",
+    "content": "In the free version with adds was terrible, unstable and even worse soft porn adds, and adds you should never see. I had one telling me my phone was infected and click here to fix.\nSent multiple emails for support and never heard a word not even and automatic reply. Just junk.\nI’m moving to Pentagon and for streaming root.\nI would give this app a negative 5 if I could.",
+    "date": "2026-05-11T19:06:41-07:00",
+    "version": "7.3"
+  },
+  {
+    "country": "us",
+    "id": "14043451718",
+    "author": "Cybersco",
+    "rating": 2,
+    "title": "At least it connects",
+    "content": "This utility does connect to my NAS, however the ability to sort by artist or album is horribly configured. I really wish I could recommend it, but from my experience, I just can’t.",
+    "date": "2026-05-08T18:07:26-07:00",
+    "version": "7.3"
   }
 ]

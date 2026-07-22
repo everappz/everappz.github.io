@@ -518,5 +518,25 @@
     "content": "Excelente para audio filos, No dependes de streaming (como Spotify), Control total de tu música, Compatible con almacenamiento en red (NAS)",
     "date": "2026-04-17T13:17:52.000Z",
     "version": null
+  },
+  {
+    "country": "mx",
+    "id": "14286349493",
+    "author": "Laom100",
+    "rating": 1,
+    "title": "Not good",
+    "content": "The app damages some files and the shuffle is not accurate. It always shows exactly the same tracks. Got the premium version, not worthy. Save your money",
+    "date": "2026-07-10T07:33:52-07:00",
+    "version": "7.5"
+  },
+  {
+    "country": "mx",
+    "id": "14096208518",
+    "author": "Avergoon",
+    "rating": 5,
+    "title": "Muy muy recomendable",
+    "content": "Excelente para escuchar música guardada en el teléfono, buena fidelidad y esta última mejora es buenísima, pague el año completo y fue una gran decisión.",
+    "date": "2026-05-23T03:17:10-07:00",
+    "version": "7.5"
   }
 ]

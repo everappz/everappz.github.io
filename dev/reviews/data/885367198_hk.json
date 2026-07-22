@@ -378,5 +378,15 @@
     "content": "Good free apps",
     "date": "2016-06-16T04:25:16-07:00",
     "version": "2.5"
+  },
+  {
+    "country": "hk",
+    "id": "14277530583",
+    "author": "KungKimYeung",
+    "rating": 5,
+    "title": "版本8.7的問題",
+    "content": "均衡器自定後，儲存時會當機，請有關方面修復！謝謝！",
+    "date": "2026-07-08T03:49:05-07:00",
+    "version": "8.7"
   }
 ]

@@ -38,5 +38,15 @@
     "content": "Deceivers—how can they claim it plays FLAC when it actually relies on the phone’s default player and doesn’t support bit-perfect audio? What’s the point of this player?",
     "date": "2026-04-24T09:00:49.000Z",
     "version": null
+  },
+  {
+    "country": "iq",
+    "id": "14088024432",
+    "author": "Non-1235",
+    "rating": 1,
+    "title": "What",
+    "content": "I’ve been waiting for 3 months for you to add the bit-perfect feature, and I’ve been waiting for the update after you promised official support for it. Why hasn’t it been supported yet? How is this a FLAC music player that doesn’t even support this feature?",
+    "date": "2026-05-20T21:14:37-07:00",
+    "version": "7.4"
   }
 ]

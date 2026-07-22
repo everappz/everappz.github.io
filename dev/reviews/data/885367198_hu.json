@@ -198,5 +198,15 @@
     "content": "Works perfectly. No limitations in free version. Grest app!",
     "date": "2015-03-19T12:11:31-07:00",
     "version": "1.6"
+  },
+  {
+    "country": "hu",
+    "id": "14224541579",
+    "author": "Vati:)",
+    "rating": 3,
+    "title": "M3U import fails",
+    "content": "Add new playlist from this iPhone. From local it won’t do anything. From imported to this app it only added the first song to the playlist from the M3U file.",
+    "date": "2026-06-25T06:07:23-07:00",
+    "version": "8.6"
   }
 ]

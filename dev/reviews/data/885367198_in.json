@@ -508,5 +508,35 @@
     "content": "Please dont stop the development of this app. The app is really good. Just need to work a lil bit on the bottom bar of volume coz when we adjust that the volume doesnt get slow or loud. We need to use the physical buttons of the phone. That bar is not working.",
     "date": "2019-01-15T12:28:29.000Z",
     "version": null
+  },
+  {
+    "country": "in",
+    "id": "14250220707",
+    "author": "Satyam51217",
+    "rating": 5,
+    "title": "Thanks",
+    "content": "Thanks for 10 playlist free feature",
+    "date": "2026-07-01T09:45:34-07:00",
+    "version": "8.6"
+  },
+  {
+    "country": "in",
+    "id": "14235686608",
+    "author": "aks.y",
+    "rating": 5,
+    "title": "Highly recommended",
+    "content": "After too many years i got a music application in AppStore that provides fully customisable audio. I can feel like High quality lossless dolby audio with equalizer, excellent haptic feedback, overall flawless smooth performance of app UI and it includes offline mode. That’s amazing. \n\nThousand times thumbs up (👍🏻) to the app developer. 🫡",
+    "date": "2026-06-27T23:15:18-07:00",
+    "version": "8.6"
+  },
+  {
+    "country": "in",
+    "id": "14106926695",
+    "author": "ultrastar987",
+    "rating": 2,
+    "title": "bug with cross play on airplay",
+    "content": "bug with cross play on airplay devices in previous version the cross play would work when i switch to coreaudio while connected to airplay device",
+    "date": "2026-05-25T22:04:01-07:00",
+    "version": "8.6"
   }
 ]

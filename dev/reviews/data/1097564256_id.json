@@ -398,5 +398,15 @@
     "content": "Hello, this is good app.\nBut it is not showing the album artwork correctly.\nAlso when we delete songs at music library (i chose delete from music library - NOT incl files), the files are also gone.\nPls fix it.",
     "date": "2016-05-30T06:13:31-07:00",
     "version": "1.1"
+  },
+  {
+    "country": "id",
+    "id": "14231124630",
+    "author": "Anggun Bakhtiar",
+    "rating": 5,
+    "title": "Appreciate",
+    "content": "Untuk sekelas pemutar musik,menurut saya ini sudah cukup bagus,instrument dan efek cukup jelas.",
+    "date": "2026-06-26T20:09:12-07:00",
+    "version": "7.5"
   }
 ]

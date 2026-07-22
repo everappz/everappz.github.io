@@ -508,5 +508,15 @@
     "content": "We need an option to play a track once, then stop. No continuous play. At that point, we need to be able to go back to the beginning or jump to the next track in the current playlist (but not start to play automatically)",
     "date": "2026-05-01T09:46:01.000Z",
     "version": null
+  },
+  {
+    "country": "nl",
+    "id": "14101772958",
+    "author": "Ed/Bru",
+    "rating": 1,
+    "title": "Moeilijk",
+    "content": "Zeer ingewikkeld voor ouderen. Geen handleiding te vinden",
+    "date": "2026-05-24T12:38:11-07:00",
+    "version": "8.6"
   }
 ]

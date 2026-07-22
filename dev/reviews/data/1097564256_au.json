@@ -378,5 +378,45 @@
     "content": "This app is probably the best one the I've used so far",
     "date": "2016-11-02T08:33:12-07:00",
     "version": "1.5"
+  },
+  {
+    "country": "au",
+    "id": "14207331282",
+    "author": "TheOriginalRustyShackleford",
+    "rating": 3,
+    "title": "Good but not perfect",
+    "content": "This is a must have, due to lack of other app options,if you use only your only mp3 music files instead of apples coercive paid music. However the app needs work due to bugs like freezing and resetting when using ‘select’ songs when adding to the play next or later queue, and also songs showing up for ages in recent even after recent songs have been deleted. Overall a good app, particularly in regards to the excellent loudness increase when using the equaliser but it still needs work before I’ll increase my review to four stars.",
+    "date": "2026-06-20T18:39:18-07:00",
+    "version": "7.5"
+  },
+  {
+    "country": "au",
+    "id": "14161620544",
+    "author": "Wilfuc",
+    "rating": 5,
+    "title": "Спасибо",
+    "content": "Очень нравится приложение.  Удобно, поддерживает любой формат . Благодарю",
+    "date": "2026-06-09T03:06:50-07:00",
+    "version": "7.5"
+  },
+  {
+    "country": "au",
+    "id": "14129143463",
+    "author": "Zane sherif",
+    "rating": 4,
+    "title": "Could be great",
+    "content": "Could be a great app. Just has a few inconsistencies and bugs. Won’t import some DSD albums and way too hard to import from a hard drive or drag drop when connected to Mac. Often imports tracks in duplicate or triplicate.",
+    "date": "2026-05-31T16:41:06-07:00",
+    "version": "7.5"
+  },
+  {
+    "country": "au",
+    "id": "14099950890",
+    "author": "Carlitosway1989",
+    "rating": 5,
+    "title": "Loyal to this app",
+    "content": "Man i have use this app for the last 7 years, and is so good for the nostalgic people that still downloading mp3s or own a big library, you could still use it with itunes (old ver) big big thanks to the developers, always in my heart",
+    "date": "2026-05-24T02:30:25-07:00",
+    "version": "7.5"
   }
 ]

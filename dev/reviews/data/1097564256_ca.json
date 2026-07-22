@@ -508,5 +508,25 @@
     "content": "Simply spin up a samba server, and you can browse/download/stream your music. All of this directly from your phone, without needing to tinker with ifuse libmobiledevice etc.\n\nThe interface is very polished - browse by genre, artist, song etc. And supporting flac to boot?! \n\nThank you so much for writing this fantastic software, it is a staple on every iOS device I own.",
     "date": "2018-09-07T19:58:21.000Z",
     "version": null
+  },
+  {
+    "country": "ca",
+    "id": "14266909815",
+    "author": "A fan player",
+    "rating": 2,
+    "title": "Unnecessary paywall",
+    "content": "Making playlists offline locked behind paywall, which makes no sense at all considering that I already have the songs downloaded.",
+    "date": "2026-07-05T10:57:08-07:00",
+    "version": "7.5"
+  },
+  {
+    "country": "ca",
+    "id": "14252289200",
+    "author": "findfloyd",
+    "rating": 1,
+    "title": "Doesn’t play next song",
+    "content": "Doesn’t automatically play next song",
+    "date": "2026-07-01T21:46:53-07:00",
+    "version": "7.5"
   }
 ]

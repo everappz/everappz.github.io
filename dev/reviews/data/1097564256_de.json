@@ -578,5 +578,75 @@
     "content": "Eigentlich ist die App super, um Musik vom heimischen NAS zu streamen. Aber mich stört sehr, dass es keine Möglichkeit gibt, unter Genres die einzelnen Alben als Grid anzeigen zu lassen. Dann gibts nur eine unübersichtliche Listenansicht. Oder ich lasse die Alben anzeigen, dann ist Rock, Klassik, Soundtracks etc. wild durcheinander. Nachdem ich meine Klassik und meine Rock-Sammlung streng getrennt haben möchte, kann ich dadurch FlacBox momentan nicht gebrauchen. Schade, denn ansonsten ist die App fantastisch! Also: Albenansicht unter Genres implementieren, dann gibts gerne den fünften Stern!",
     "date": "2022-05-05T07:39:43.000Z",
     "version": null
+  },
+  {
+    "country": "de",
+    "id": "14261327581",
+    "author": "Grisu0900",
+    "rating": 3,
+    "title": "Abspielqualität überragend, aber App stürzt sehr häufig ab",
+    "content": "Die Abspielqualität von Flac-Dateien ist überragend. Die App lässt sich gut den persönlichen Hörgewohnheiten anpassen. Auch die Bedienung ist super, Wiedergabelisten lassen sich bequem bearbeiten.\n\nAber App stürzt sehr häufig ab! Viel zu häufig! Auch nach den letzten Updates ist das nur marginal besser geworden. Eine Neuinstallation bringt auch keine Besserung.\n\nAufgrund der Abstürze kann ich nur drei Sterbe vergeben, das ist schon sehr großzügig.",
+    "date": "2026-07-04T02:08:03-07:00",
+    "version": "7.5"
+  },
+  {
+    "country": "de",
+    "id": "14229076720",
+    "author": "Abdulups",
+    "rating": 5,
+    "title": "UI hart, Funktion top",
+    "content": "Inhaltlich bietet der Player alles, was man für das Abspielen von applefremdem Inhalt benötigt. Flacs kann ich jetzt direkt abspielen ohne doppelte Ablage als Alac. Man kann seine iCloud-Mediathek gut verlinken und bei Bedarf Playlisten herunterladen. Über Bande kann man auf dem Mac auch die selbe Playlist mit dem iPhone teilen, vielleicht meine ich aber auch die gleiche. Nach Änderungen muss man nämlich die Wiedergabeliste überschreiben und auf dem anderen Gerät überschreiben.\n\nUnd da wären wir bei dem harten UI. Es gibt unzählige verschachtelte Ordner und Rubriken, weil eben alles mögliche geht. Wenn man sich aber etwas mit dem Programm beschäftigt und weiß, welche Knöpfe man meiden muss, damit nicht versehentlich eigene Flacs auf der Cloud gelöscht werden, funktioniert alles gut. Der Player läuft stabil. Es sieht nicht wie 2003 aus. Aber eben auch nicht ganz wie 2026. \n\nSehr gute App ! Lob an die Entwicklung",
+    "date": "2026-06-26T08:24:13-07:00",
+    "version": "7.5"
+  },
+  {
+    "country": "de",
+    "id": "14089830291",
+    "author": "ex und hopp",
+    "rating": 1,
+    "title": "Update startet Flacbox nicht mehr",
+    "content": "Die Uhr läuft und läuft und verabschiedet sich nach einer Weile.\nBitte schnellstens eine Korrektur",
+    "date": "2026-05-21T09:15:04-07:00",
+    "version": "7.4"
+  },
+  {
+    "country": "de",
+    "id": "14089795087",
+    "author": "Andi_Soulbeez",
+    "rating": 5,
+    "title": "Neustes Carplay Update",
+    "content": "Ihr seid die Besten.  😊 Es tut so gut, dass ihr euren Nutzern zuhört und dann auch noch so zeitnah umsetzt…. Danke eurem gesamten Team 🫡",
+    "date": "2026-05-21T09:03:44-07:00",
+    "version": "7.4"
+  },
+  {
+    "country": "de",
+    "id": "14005612353",
+    "author": "Michael Ritter",
+    "rating": 3,
+    "title": "Geniale App aber Bildfehler",
+    "content": "Die App ist spitze! Spielt meine Musik auch von meinem Server ab. Nur macht die App Bildfehler bei CarPlay. Auch wenn ich das Handy (17pro) per Kabel nutze kommen Grafikfehler. Schade, da ich es so nicht nutzen kann.",
+    "date": "2026-04-28T05:21:51-07:00",
+    "version": "7.3"
+  },
+  {
+    "country": "de",
+    "id": "13973040783",
+    "author": "SeeBell99",
+    "rating": 1,
+    "title": "Crazy iap price/broken search randomplay",
+    "content": "Randomplay is only playing from my first few folders and only mostly songs starting with a b or c. Search is not listing all songs with that name eventhough they exist. 80€ for lifetime are you insane?",
+    "date": "2026-04-18T18:35:24-07:00",
+    "version": "7.3"
+  },
+  {
+    "country": "de",
+    "id": "13970721033",
+    "author": "MisterJoes2204",
+    "rating": 3,
+    "title": "Brauchbar, aber…",
+    "content": "Mir fehlen für die vollen 5* zwei wichtige Features. Zum einen GAPLESS PLAYBACK, was übrigens evermusic vom selben Entwickler (!?!) kann und die Möglichkeit die Tags für ein komplettes Album in einem Rutsch zu bearbeiten OHNE zusätzliche App (Evertag). Ich sehe irgendwie nicht ein mir noch eine App vom Entwickler zu laden und ein zusätzliches Abo abzuschließen zu müssen.",
+    "date": "2026-04-18T04:41:27-07:00",
+    "version": "7.3"
   }
 ]

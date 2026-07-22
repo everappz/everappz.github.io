@@ -388,5 +388,35 @@
     "content": "Świetny odtwarzacz, bez wahania kupiłem wersje Pro. Troche słabo działa wyszukiwanie okładek i tworzenie playlist (chyba nie można do raz utworzonej dodać kolejnych utworów). Przydałoby się też wsparcie dla FLAC i co ważniejsze - protokołu AFP, by można było zdalnie streamować muzykę z dysku Time Capsule / AirPort Extreme.",
     "date": "2014-08-06T10:58:48-07:00",
     "version": "1.1"
+  },
+  {
+    "country": "pl",
+    "id": "14294131251",
+    "author": "Łukasz100",
+    "rating": 5,
+    "title": "Champions",
+    "content": "The Champions League among music apps",
+    "date": "2026-07-12T06:30:15-07:00",
+    "version": "8.7"
+  },
+  {
+    "country": "pl",
+    "id": "14284289002",
+    "author": "20Patefon",
+    "rating": 2,
+    "title": "Odtwarzanie strumieni radiowych w formacie HLS.",
+    "content": "Aplikacja nie obsługuje odtwarzania strumieni radiowych w formacie HLS. Niektóre stacje radiowe nadają w tym formacie, ale w aplikacji nie mogę ich słuchać. Proszę uprzejmie o poprawę tego błędu, wówczas dam 5 gwiazdek.",
+    "date": "2026-07-09T18:49:15-07:00",
+    "version": "8.7"
+  },
+  {
+    "country": "pl",
+    "id": "14147888210",
+    "author": "Mateuszzzzzzzzz",
+    "rating": 3,
+    "title": "I pay and still get the ads",
+    "content": "I pay for the premium version and I still get the ads. Deleting and installing it again helps but only temporarily.",
+    "date": "2026-06-05T12:07:50-07:00",
+    "version": "8.6"
   }
 ]

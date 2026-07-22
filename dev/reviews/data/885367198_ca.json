@@ -598,5 +598,25 @@
     "content": "Overstimulating UI",
     "date": "2026-04-25T11:03:45.000Z",
     "version": null
+  },
+  {
+    "country": "ca",
+    "id": "14251070705",
+    "author": "nikunj3011",
+    "rating": 5,
+    "title": "New search by everything",
+    "content": "Can you add new feature which searches by artists name, song name, tags but in single search rather than different for each",
+    "date": "2026-07-01T14:14:45-07:00",
+    "version": "8.6"
+  },
+  {
+    "country": "ca",
+    "id": "14175625194",
+    "author": "Été kot",
+    "rating": 5,
+    "title": "Love it",
+    "content": "Everyday use it",
+    "date": "2026-06-12T15:51:49-07:00",
+    "version": "8.6"
   }
 ]

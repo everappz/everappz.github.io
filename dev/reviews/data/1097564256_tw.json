@@ -418,5 +418,15 @@
     "content": "Good,Support smb is what i need,but... no chinese ui",
     "date": "2016-11-02T09:07:57-07:00",
     "version": "1.5"
+  },
+  {
+    "country": "tw",
+    "id": "14039003912",
+    "author": "Shaung688",
+    "rating": 5,
+    "title": "音樂很多不能播放",
+    "content": "音檔很多不能播放了請修正，都放在import之前可以現在不行了",
+    "date": "2026-05-07T12:01:19-07:00",
+    "version": "7.3"
   }
 ]

@@ -218,5 +218,15 @@
     "content": "Still, there are two minor problems.\n1. when click the next song, sometimes it cannot load the next song until restart the app\n2.  the \"play all\" button in music library tab always play the first song in the list instead of playing a random one",
     "date": "2017-02-05T06:08:58-07:00",
     "version": "1.6"
+  },
+  {
+    "country": "hk",
+    "id": "14318050979",
+    "author": "stopusing wechat",
+    "rating": 3,
+    "title": "Issue autoplau",
+    "content": "Hi it stopped auto play, after one song l have to press play to listen the other. Didn't had this issue before. Also nice setting would be fade in fade out custom time",
+    "date": "2026-07-18T05:02:48-07:00",
+    "version": "7.5"
   }
 ]

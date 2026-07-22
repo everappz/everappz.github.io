@@ -578,5 +578,345 @@
     "content": "I love their other app, Flacbox, but it has a lot of bugs that seem to not have ever been fixed. such as I could never get it stream FLAC'S from my NAS. This one does, so I feel like I'm essentially paying for the same app, twice. I don't know why they couldn't have just fixed FLACBOX, instead of getting us to pay again for what is essentially the same app.\n\nOnly bug I can see in this one is that when you load an folder to play (not in a Playlist) it seems to play the songs in alphabetical order instead of by track number, which is frustrating. It also needs the ability to view your online music by folder, as now it just does it by artist or album or song, which can be frustrating when you have your collection organized a certain way and know how to get to what you want, quickly.\n\nGood program, but not happy about essentially paying for it twice.",
     "date": "2020-01-11T15:08:12.000Z",
     "version": null
+  },
+  {
+    "country": "us",
+    "id": "14325526651",
+    "author": "JBlader1",
+    "rating": 5,
+    "title": "Best music player I’ve been using but,",
+    "content": "I really like this music player and been using it for a while, but the thing is, is that ever since the latest update, the app been having issues like the slider/scrubbing and playback not working when I leave the app when compared to before the update, I was able to resume my playback as it was from my latest listen but now it just restarts the whole song to the beginning. Also I skip/scrub through the audio and it doesn’t play on where I leave it on, compared to before were it would work perfectly fine. One thing I noticed as well is a little popping noise (sometimes loud) every time your scrubbing thru your music when it didn’t used to do that.  Overall I really hope yall fix this but I still give this app a great rating, thank you",
+    "date": "2026-07-20T01:38:49-07:00",
+    "version": "8.7"
+  },
+  {
+    "country": "us",
+    "id": "14323000253",
+    "author": "_Faezehr",
+    "rating": 2,
+    "title": "Excellent App, But It Needs Better Library Management",
+    "content": "I’ve been using Evermusic with a large offline library (around 2,000 MP3 files), and overall I really like the app and its interface. However, I’ve encountered several issues that make managing a large music collection difficult.\n\n1. Newly added music is not detected automatically. When I add new audio files to the Evermusic folder, they do not appear in the library until I manually import or refresh them. The app should automatically detect newly added files.\n2. Search indexing is inconsistent. Some songs cannot be found even though they exist in the library. If I open a song in the tag editor and simply save it again, it immediately becomes searchable. This suggests the search index is not updated correctly.\n3. Search should work across all metadata fields. Currently, searching is inconsistent and does not reliably search all tags (Title, Artist, Album, Album Artist, etc.). It should search every metadata field as well as filenames.\n4. Please add a “Rebuild Library / Reindex Library” option. This would allow users to refresh the entire library without editing thousands of files one by one.\n5. Importing or replacing files changes their order. The original file order is lost after importing or replacing tracks. Please provide an option to preserve the original order or allow manual sorting.\n6. Batch tag editing needs more powerful tools. It would be very helpful to copy filenames into the Title tag, copy values between tag fields, and perform bulk metadata operations.\n7. Deleting files from within the app often fails. When I try to delete a song from Evermusic and remove it from the device at the same time, I frequently receive an error. This should work reliably without requiring users to delete files manually from the Files app.\n\nEvermusic has one of the best interfaces for offline music on iOS, but these issues make it difficult to manage large offline libraries. Fixing them would make Evermusic the best offline music player on the App Store.\n\nThanks for your hard work!",
+    "date": "2026-07-19T09:29:25-07:00",
+    "version": "8.7"
+  },
+  {
+    "country": "us",
+    "id": "14309131571",
+    "author": "kayle3456",
+    "rating": 5,
+    "title": "Best one I had!",
+    "content": "The customization on this app is great!",
+    "date": "2026-07-15T23:53:56-07:00",
+    "version": "8.7"
+  },
+  {
+    "country": "us",
+    "id": "14291884454",
+    "author": "andgate",
+    "rating": 1,
+    "title": "Ads On Paid Version",
+    "content": "It used to be a good app, but ever since they added ads to the paid version, I’m looking for a new music player. The ads are horribly invasive. They take over your entire screen for like five seconds while they play a video over your music.",
+    "date": "2026-07-11T15:58:18-07:00",
+    "version": "8.7"
+  },
+  {
+    "country": "us",
+    "id": "14274620658",
+    "author": "HYPEBEAST666",
+    "rating": 5,
+    "title": "Amazing",
+    "content": "App has all my needs, it’s so good I bought the lifetime pass",
+    "date": "2026-07-07T09:19:38-07:00",
+    "version": "8.7"
+  },
+  {
+    "country": "us",
+    "id": "14270457410",
+    "author": "NessUSE9999",
+    "rating": 5,
+    "title": "Evermusic is the Best",
+    "content": "This app is fantastic. If you’re looking to stream your own music there’s no better app. Easy to use, feature packed and very affordable. You can’t go wrong.",
+    "date": "2026-07-06T08:43:39-07:00",
+    "version": "8.7"
+  },
+  {
+    "country": "us",
+    "id": "14269058681",
+    "author": "Snoayze",
+    "rating": 5,
+    "title": "BEST music app evaaa",
+    "content": "No seriously I’ve been using it since 2025 and never had any major issues. It has so many features (with more being added!). Makes listening to music on the go as simple as can be. Words can’t even describe how much I love this app. Best music app out there!",
+    "date": "2026-07-06T00:49:03-07:00",
+    "version": "8.7"
+  },
+  {
+    "country": "us",
+    "id": "14267616438",
+    "author": "cheche0622",
+    "rating": 5,
+    "title": "Perfect but",
+    "content": "I like the aoo alot I never  seen and app this great with the offline especially for me with the crossfade Im\nObsessed with it\n\nOne feature I would like to see added is beat-synced cross,\nIt would be amazing  if the app could could automatically match the BPM of two songs during crossfade \n\nI would feel complete \n\n\nThanks for the app is perfect free and offline\nLike it",
+    "date": "2026-07-05T14:59:09-07:00",
+    "version": "8.7"
+  },
+  {
+    "country": "us",
+    "id": "14267062123",
+    "author": "februaryzombeez",
+    "rating": 5,
+    "title": "amazing app",
+    "content": "I love it, very easy to use",
+    "date": "2026-07-05T11:45:53-07:00",
+    "version": "8.7"
+  },
+  {
+    "country": "us",
+    "id": "14266089915",
+    "author": "brenjaminbarker",
+    "rating": 5,
+    "title": "Constantly improving",
+    "content": "The app has gone through many changes from the several years I’ve used it.  They are constantly improving and always providing major updates to make things better.",
+    "date": "2026-07-05T06:56:54-07:00",
+    "version": "8.7"
+  },
+  {
+    "country": "us",
+    "id": "14264659958",
+    "author": "JohnARobles",
+    "rating": 5,
+    "title": "Audio Effect is amazing!!",
+    "content": "The addition of Audio Effect has completely elevated my music experience within the app exponentially! I usually don’t write reviews, but this update is worth writing about and the 5 stars.",
+    "date": "2026-07-04T21:58:28-07:00",
+    "version": "8.7"
+  },
+  {
+    "country": "us",
+    "id": "14215932471",
+    "author": "acd36093",
+    "rating": 5,
+    "title": "Amazing App!",
+    "content": "i’m a niche music freak and streaming platforms really push me away with either an overabundance of ads or a lot of the songs i like simply not being available.\n\nthis app solves both of my problems AND i get to sort my music on my phone everywhere just like i do on my desktop at home!\n\namazing stuff! the team’s constantly updating the app to fix bugs and i rarely have any issues.\n\nhighly recommend!\n\na constant ask i have regarding this app is the randomness algorithm within playlists. i do very much wish that it was truly random, i keep getting the same songs on shuffle every single time and it’s pretty annoying",
+    "date": "2026-06-23T01:37:49-07:00",
+    "version": "8.6"
+  },
+  {
+    "country": "us",
+    "id": "14168277529",
+    "author": "tao4all",
+    "rating": 5,
+    "title": "Perfect",
+    "content": "I don’t leave reviews but after frustratingly fumbling with VLC player I found this app by accident and it’s everything I need. Did I mention it’s simple to add a file to the app? It’s great if you need to listen to MP3’s this app is perfect",
+    "date": "2026-06-10T19:13:48-07:00",
+    "version": "8.6"
+  },
+  {
+    "country": "us",
+    "id": "14145999064",
+    "author": "我酷兔兔通知",
+    "rating": 1,
+    "title": "体验很好，就是广告太多了，希望可以出付费模式，避开广告营收模式",
+    "content": "体验很好，就是广告太多了，希望可以出付费模式，避开广告营收模式，因为这样很影响用户体验。",
+    "date": "2026-06-05T01:55:31-07:00",
+    "version": "8.6"
+  },
+  {
+    "country": "us",
+    "id": "14144634673",
+    "author": "Sajjad Golrangi",
+    "rating": 5,
+    "title": "Best",
+    "content": "Best music player ever",
+    "date": "2026-06-04T15:51:52-07:00",
+    "version": "8.6"
+  },
+  {
+    "country": "us",
+    "id": "14143326622",
+    "author": "Jank0192837465",
+    "rating": 3,
+    "title": "No thanks",
+    "content": "Hindered by ads.  Also, I won’t pay to subscribe to listen to my own owned music, that’s just crazy.  Otherwise it’s a nice player.",
+    "date": "2026-06-04T08:23:33-07:00",
+    "version": "8.6"
+  },
+  {
+    "country": "us",
+    "id": "14140902897",
+    "author": "Teniente herrada",
+    "rating": 1,
+    "title": "No sirve",
+    "content": "No sirve",
+    "date": "2026-06-03T16:30:37-07:00",
+    "version": "8.6"
+  },
+  {
+    "country": "us",
+    "id": "14140552900",
+    "author": "Thisusernamistaken?",
+    "rating": 1,
+    "title": "Disappointed by greed",
+    "content": "I use this app everyday, not only for music but for podcast mp3 files. It now seems to be forcing me to update the app by not allowing me to play any files until i do. The update will implement ads that were not there prior (there were no ads on free) and impose a limit on downloads (there was no limit, to my knowledge) among other changes. Absolutely abhorrent. I thought I finally found a good mp3 player but it looks like greed got another one. I will be deleting the app and not updating. Congrats you just lost a user and gained someone who will spread negative word of mouth marketing for your app",
+    "date": "2026-06-03T14:11:33-07:00",
+    "version": "8.6"
+  },
+  {
+    "country": "us",
+    "id": "14120668728",
+    "author": "mlf_91",
+    "rating": 2,
+    "title": "Négatif",
+    "content": "Depuis la dernière maj le widget ne fonctionne plus normalement donc 2 étoiles",
+    "date": "2026-05-29T12:44:54-07:00",
+    "version": "8.6"
+  },
+  {
+    "country": "us",
+    "id": "14120245830",
+    "author": "KHoy93",
+    "rating": 2,
+    "title": "cool but ui ix complex",
+    "content": "not very intuitive like musicolet when bringing in music from db but its cool and theres no intrusive ads. i do wish cover art was square without round corners or at least an option in settings\n\nok this app is too frustrating to figure out. i couldnt figure out how to display cover art while listening then it showed up randomly not i cant see it again its either comments and whatever or the playlist. ill just find something else",
+    "date": "2026-05-29T10:22:26-07:00",
+    "version": "8.6"
+  },
+  {
+    "country": "us",
+    "id": "14112965726",
+    "author": "AverageDude123",
+    "rating": 5,
+    "title": "cool music player :P",
+    "content": "This is a really great music player! I can upload music from a buncha different cloud storages and the built in tag editor works well when I gotta add smth to a song (Like the album name). And I can add lyrics to the songz! Will keep usin this app",
+    "date": "2026-05-27T12:24:00-07:00",
+    "version": "8.6"
+  },
+  {
+    "country": "us",
+    "id": "14104865461",
+    "author": "austinonethousand",
+    "rating": 5,
+    "title": "Best Music App on IPhone",
+    "content": "Has the best features I’ve found in an app like this. Has numerous options for connecting to cloud storage, and is the only app I found that actually lets you thoroughly search and filter your library.",
+    "date": "2026-05-25T08:58:08-07:00",
+    "version": "8.6"
+  },
+  {
+    "country": "us",
+    "id": "14102767102",
+    "author": "Shawn’s iPhone",
+    "rating": 5,
+    "title": "very useful",
+    "content": "like it",
+    "date": "2026-05-24T19:14:57-07:00",
+    "version": "8.6"
+  },
+  {
+    "country": "us",
+    "id": "14090516557",
+    "author": "Nate Kooken",
+    "rating": 5,
+    "title": "Everything about Offline: Browser & Music",
+    "content": "Now every time that I try to go on the Offline: Browser & Music than it’s unavailable to install that’s which I would be real disappointed about so that’s why especially I would like it if it no longer unavailable to install that’s and thank you so much 😤😡",
+    "date": "2026-05-21T13:15:28-07:00",
+    "version": "8.6"
+  },
+  {
+    "country": "us",
+    "id": "14081947987",
+    "author": "Infinityx2021x",
+    "rating": 5,
+    "title": "Finally!",
+    "content": "Finally found one that works!",
+    "date": "2026-05-19T06:05:33-07:00",
+    "version": "8.6"
+  },
+  {
+    "country": "us",
+    "id": "14071636109",
+    "author": "Sacto music man",
+    "rating": 4,
+    "title": "It looses your files!!!",
+    "content": "I’ve used this for years and always have to re load my files it always looses songs. Horrible user interface. DONT WASTE YOUR TIME!!!!",
+    "date": "2026-05-16T09:45:24-07:00",
+    "version": "8.6"
+  },
+  {
+    "country": "us",
+    "id": "14070698854",
+    "author": "Arlo the Apatosaur",
+    "rating": 5,
+    "title": "I like this app",
+    "content": "This app does what I want it to do. I have lots of music in my cloud drive and this allows me to play that music easily. I use it as much as just about any app I have. I usually don’t write reviews but this is an app that I highly recommend.",
+    "date": "2026-05-16T05:03:04-07:00",
+    "version": "8.6"
+  },
+  {
+    "country": "us",
+    "id": "14069291652",
+    "author": "MrBenitez",
+    "rating": 5,
+    "title": "Best for offline listening!!!",
+    "content": "I use this app to keep my old mp3 music organized by folder just like old school mp3 players. Great for offline situations, poor service areas, planes, foreign countries etc",
+    "date": "2026-05-15T19:03:33-07:00",
+    "version": "8.6"
+  },
+  {
+    "country": "us",
+    "id": "14054659202",
+    "author": "someoneonappstoreoritunesrn",
+    "rating": 4,
+    "title": "Almost perfect",
+    "content": "I’d continue using this but unfortunately it doesn’t track play counts, if it was updated to track it then I’d use it.",
+    "date": "2026-05-11T18:53:51-07:00",
+    "version": "8.6"
+  },
+  {
+    "country": "us",
+    "id": "14045383632",
+    "author": "Steph CN",
+    "rating": 5,
+    "title": "Thank you!!!",
+    "content": "Finally plex and jellyfin support.",
+    "date": "2026-05-09T07:28:30-07:00",
+    "version": "8.6"
+  },
+  {
+    "country": "us",
+    "id": "14044094195",
+    "author": "TheBetter13",
+    "rating": 5,
+    "title": "Best music app for casual music listeners",
+    "content": "I barely ever write reviews ever, but this app is just perfect for me and has all the features i need. This app has lots of mp3/song editing tools and has lots of personalization features. I know it mentions this on the app info page but it still surprised me when i saw it. If you’re a fan of “MusicBee”—the windows app— then this app is definitely within your ballpark aswell. Be cautious of the ads and stuff, if you care about that. I think it’s a fair tradeoff for the awesome, free, experience.",
+    "date": "2026-05-08T23:03:05-07:00",
+    "version": "8.6"
+  },
+  {
+    "country": "us",
+    "id": "14038816475",
+    "author": "MCRedemptionz",
+    "rating": 2,
+    "title": "Please fix mega connection",
+    "content": "Please better the connection to mega",
+    "date": "2026-05-07T10:52:13-07:00",
+    "version": "8.5"
+  },
+  {
+    "country": "us",
+    "id": "14038422384",
+    "author": "Allrooj",
+    "rating": 5,
+    "title": "Reliable Quality Performance",
+    "content": "Will continue with this app!",
+    "date": "2026-05-07T08:35:36-07:00",
+    "version": "8.5"
+  },
+  {
+    "country": "us",
+    "id": "13771289531",
+    "author": "Xani Stebert",
+    "rating": 5,
+    "title": "OMG AMAZING",
+    "content": "BACKGROUND AUDIO FOR FREE OMG W APP",
+    "date": "2026-02-20T15:37:25-07:00",
+    "version": "8.5"
   }
 ]
