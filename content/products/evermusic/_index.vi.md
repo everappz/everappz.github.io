@@ -91,44 +91,44 @@ Evermusic là trình phát nhạc ngoại tuyến miễn phí dành cho iPhone v
 {{< hextra/feature-grid >}}
 
   {{< hextra/feature-card
-    title="Tiết kiệm dung lượng thiết bị"
-    subtitle="Có 100GB nhạc tích lũy qua nhiều năm nhưng chỉ có 32GB bộ nhớ trên iPhone? Chỉ cần chuyển tất cả bài hát lên đám mây và giải phóng dung lượng quý giá cho ảnh, video và ứng dụng."
-    icon="folder"
-    style="background: radial-gradient(ellipse at 50% 80%, rgba(59,130,246,0.15), hsla(0,0%,100%,0));"
-  >}}
-
-  {{< hextra/feature-card
-    title="Truy cập bài hát ngay lập tức"
-    subtitle="Với hỗ trợ các dịch vụ đám mây phổ biến nhất, Evermusic cho phép bạn chọn một hoặc nhiều dịch vụ và phát trực tuyến nhạc từ đám mây. Không cần đồng bộ iTunes nữa, các tệp âm thanh được tải lên đám mây từ PC hoặc Mac giống như các tệp khác."
-    icon="collection"
-    style="background: radial-gradient(ellipse at 50% 80%, rgba(192,38,211,0.15), hsla(0,0%,100%,0));"
-  >}}
-
-  {{< hextra/feature-card
-    title="Chế độ ngoại tuyến"
-    subtitle="Chế độ ngoại tuyến cho phép bạn tải xuống các album, bài hát, thể loại và danh sách phát yêu thích để phát ngoại tuyến và nghe nhạc khi không có kết nối Internet."
-    icon="download"
-    style="background: radial-gradient(ellipse at 50% 80%, rgba(234,88,12,0.15), hsla(0,0%,100%,0));"
-  >}}
-
-  {{< hextra/feature-card
     title="Nhạc của bạn trên đám mây"
-    subtitle="Tạo dịch vụ phát nhạc trực tuyến nâng cao của riêng bạn miễn phí! Quản lý thư viện nhạc khổng lồ, tiết kiệm bộ nhớ thiết bị và phát trực tuyến các bài hát yêu thích từ đám mây với bộ đệm thông minh và phát mượt mà. Hỗ trợ các dịch vụ đám mây phổ biến như iCloud, Google Drive, Dropbox, MEGA.nz, Box, OneDrive và nhiều hơn nữa."
+    subtitle="Tạo dịch vụ phát nhạc trực tuyến nâng cao của riêng bạn miễn phí! Phát trực tuyến các bài hát yêu thích trực tiếp từ đám mây với bộ đệm thông minh và phát mượt mà, đồng thời tiết kiệm bộ nhớ thiết bị. Kết nối các dịch vụ như iCloud Drive, Google Drive, Dropbox, OneDrive, Box, MEGA, pCloud, Proton Drive và nhiều hơn nữa."
     icon="cloud"
     style="background: radial-gradient(ellipse at 50% 80%, rgba(34,197,94,0.15), hsla(0,0%,100%,0));"
   >}}
 
   {{< hextra/feature-card
+    title="Chế độ ngoại tuyến"
+    subtitle="Chế độ ngoại tuyến cho phép bạn tải xuống các album, bài hát, nghệ sĩ, thể loại và danh sách phát yêu thích để phát ngoại tuyến. Nghe ở mọi nơi, dù trên máy bay, trong tàu điện ngầm hay ngoài vùng phủ sóng, ngay cả khi không có kết nối Internet, không cần phát trực tuyến và không tốn dữ liệu."
+    icon="download"
+    style="background: radial-gradient(ellipse at 50% 80%, rgba(234,88,12,0.15), hsla(0,0%,100%,0));"
+  >}}
+
+  {{< hextra/feature-card
     title="Chuyển tệp dễ dàng"
-    subtitle="Kết nối Mac hoặc PC và phát trực tuyến nhạc từ máy tính tại nhà. Chuyển tệp âm thanh liền mạch giữa máy tính và thiết bị iOS qua Wi-Fi Drive hoặc iTunes File Sharing. Bạn cũng có thể kết nối NAS hoặc USB và truy cập thư viện từ bất cứ đâu."
+    subtitle="Kết nối Mac hoặc PC và phát trực tuyến nhạc trực tiếp từ máy tính tại nhà. Chuyển tệp âm thanh liền mạch giữa máy tính và thiết bị iOS qua Wi-Fi Drive hoặc iTunes File Sharing. Bạn cũng có thể kết nối NAS hoặc ổ USB và truy cập thư viện từ bất cứ đâu."
     icon="duplicate"
     style="background: radial-gradient(ellipse at 50% 80%, rgba(251,191,36,0.15), hsla(0,0%,100%,0));"
   >}}
 
   {{< hextra/feature-card
-    title="Đồng bộ tự động"
-    subtitle="Trình quản lý đồng bộ tự động quét bộ nhớ đám mây để tìm tệp âm thanh và cập nhật thư viện nhạc. Trình tải siêu dữ liệu tổ chức bài hát theo album, nghệ sĩ và thể loại bằng thẻ âm thanh nhúng."
-    icon="refresh"
+    title="Máy chủ media và NAS"
+    subtitle="Kết nối với các thư viện media cá nhân và máy chủ tại nhà như Plex, Emby, Jellyfin, Subsonic và Navidrome. Liên kết NAS như Synology, QNAP, Nextcloud và WD My Cloud Home qua SMB, WebDAV, FTP, SFTP, NFS hoặc DLNA/UPnP, và truy cập toàn bộ bộ sưu tập nhạc của bạn từ bất cứ đâu."
+    icon="desktop-computer"
+    style="background: radial-gradient(ellipse at 50% 80%, rgba(59,130,246,0.15), hsla(0,0%,100%,0));"
+  >}}
+
+  {{< hextra/feature-card
+    title="Công cụ âm thanh chuyên nghiệp"
+    subtitle="Tận hưởng phát liên tục không ngắt quãng thực sự và chuyển đổi mượt mà giữa các bài hát. Định hình âm thanh với bộ cân bằng 10 dải, cài đặt sẵn tùy chỉnh và khuếch đại preamp, tốc độ phát và cao độ có thể điều chỉnh, cùng bộ hiệu ứng phòng thu đầy đủ như reverb, echo, chorus, flanger, tăng cường bass, crossfeed và chuẩn hóa âm lượng."
+    icon="adjustments"
+    style="background: radial-gradient(ellipse at 50% 80%, rgba(192,38,211,0.15), hsla(0,0%,100%,0));"
+  >}}
+
+  {{< hextra/feature-card
+    title="Lời bài hát, tiện ích và CarPlay"
+    subtitle="Đọc lời bài hát LRC nhúng và đồng bộ cuộn theo nhịp nhạc, ngay cả trên màn hình khóa, trong tiện ích màn hình chính và trên Apple CarPlay. Thêm các tiện ích Đang phát, Lời bài hát, Yêu thích và Phát gần đây để nhạc luôn trong tầm tay, luôn được đồng bộ."
+    icon="annotation"
     style="background: radial-gradient(ellipse at 50% 80%, rgba(6,182,212,0.15), hsla(0,0%,100%,0));"
   >}}
 
@@ -218,41 +218,47 @@ Evermusic là trình phát nhạc ngoại tuyến miễn phí dành cho iPhone v
 
 {{< cards >}}
 
-  {{< feature-card title="Định dạng âm thanh" subtitle="Hỗ trợ: mp3, m4a, flac, wav, aac, mp4, m3u, m3u8, m4b, m4p, aiff, ogg, mp2, ac3, wma và nhiều hơn." icon="music-note" >}}
+  {{< feature-card title="Phát mọi định dạng âm thanh" subtitle="Evermusic phát các định dạng âm thanh phổ biến nhất, bao gồm MP3, AAC, M4A, WAV, AIFF, ALAC và M4B, để toàn bộ bộ sưu tập nhạc của bạn sẵn sàng phát trên mọi thiết bị." icon="music-note" >}}
 
-  {{< feature-card title="Sách nói" subtitle="Bao gồm đánh dấu âm thanh, điều khiển tốc độ phát và tiếp tục vị trí." icon="book-open" width="50">}}
+  {{< feature-card title="Kết nối đám mây của bạn" subtitle="Tạo dịch vụ phát trực tuyến của riêng bạn bằng cách chuyển thư viện lên đám mây và giải phóng dung lượng iPhone. Kết nối iCloud, Google Drive, Dropbox, OneDrive, MEGA, Internxt và Proton Drive." icon="cloud" >}}
 
-  {{< feature-card title="Đồng bộ tự động" subtitle="Đồng bộ thư viện nhạc với đám mây, sắp xếp theo nghệ sĩ, album và thể loại." icon="refresh" >}}
+  {{< feature-card title="Kết nối máy chủ media" subtitle="Kết nối các máy chủ media cá nhân trực tiếp với thư viện của bạn, bao gồm Plex, Subsonic, Navidrome, Jellyfin và Emby, và phát trực tuyến mọi thứ bạn sở hữu từ nhà một cách dễ dàng." icon="server" >}}
 
-  {{< feature-card title="Trình quản lý tệp" subtitle="Quản lý tệp với các thao tác sao chép, di chuyển, đổi tên và xóa." icon="folder" >}}
+  {{< feature-card title="Kết nối máy tính hoặc NAS" subtitle="Kết nối máy tính hoặc NAS qua SMB, WebDAV, DLNA, FTP, SFTP và NFS, với API gốc cho QNAP, Synology, Nextcloud và WD My Cloud Home, hoặc chuyển tệp qua Wi-Fi." icon="desktop-computer" >}}
 
-  {{< feature-card title="Dịch vụ đám mây" subtitle="Hỗ trợ iCloud, Google Drive, Dropbox, OneDrive, Box, MEGA, WD MyCloud Home, pCloud và nhiều hơn." icon="cloud" >}}
+  {{< feature-card title="Nhạc ngoại tuyến" subtitle="Tải xuống các bài hát, album và nghệ sĩ yêu thích để thưởng thức ngoại tuyến bất cứ lúc nào. Bật bộ đệm trình phát âm thanh để tự động lưu các bài hát phát gần đây cho việc nghe ngoại tuyến." icon="download" >}}
 
-  {{< feature-card title="Phát chuyển đổi mượt" subtitle="Bài hát tiếp theo bắt đầu trước khi bài hiện tại kết thúc để chuyển đổi mượt mà." icon="switch-horizontal" >}}
+  {{< feature-card title="Bộ cân bằng âm thanh" subtitle="Định hình âm thanh với bộ cân bằng tích hợp, có sẵn cài đặt sẵn cho các thể loại nhạc phổ biến cùng điều khiển thủ công để tinh chỉnh và khuếch đại mỗi bài hát đúng theo ý bạn." icon="adjustments" >}}
 
-  {{< feature-card title="Phát liên tục" subtitle="Không có khoảng dừng giữa các bài hát — lý tưởng cho album trực tiếp, cổ điển hoặc concept." icon="volume-up" >}}
+  {{< feature-card title="Phát liên tục" subtitle="Tận hưởng phát mượt mà, không ngắt quãng mà không có khoảng dừng giữa các bài hát, hoàn hảo cho các bản thu trực tiếp, album concept, bản phối DJ và nhạc cổ điển từ đầu đến cuối." icon="volume-up" >}}
 
-  {{< feature-card title="Bộ cân bằng âm thanh" subtitle="Bộ cân bằng tùy chỉnh với cài đặt sẵn, điều khiển thủ công và khuếch đại preamp." icon="adjustments" >}}
+  {{< feature-card title="Phát chuyển đổi mượt" subtitle="Giữ dòng nhạc trôi chảy với chuyển đổi mượt, khi mỗi bài hát mới nhẹ nhàng bắt đầu trước khi bài hiện tại kết thúc để phát liền mạch, liên tục mà không có khoảng lặng nào." icon="switch-horizontal" >}}
 
-  {{< feature-card title="Tìm kiếm nâng cao" subtitle="Tìm album, nghệ sĩ và bài hát yêu thích nhanh chóng và dễ dàng." icon="search" >}}
+  {{< feature-card title="Hiệu ứng âm thanh" subtitle="Định hình âm thanh với các hiệu ứng âm thanh tích hợp. Bật chuẩn hóa âm lượng để giữ mọi bài hát ở cùng độ lớn, và thêm reverb, delay, distortion và âm thanh không gian theo ý thích." icon="chip" >}}
 
-  {{< feature-card title="Truy cập máy tính" subtitle="Kết nối qua SMB, WebDAV hoặc DLNA. Chuyển qua iTunes File Sharing và Wi-Fi." icon="desktop-computer" >}}
+  {{< feature-card title="Trình trực quan hóa nhạc" subtitle="Xem các hình ảnh động toàn màn hình phản ứng trực tiếp với nhạc của bạn theo thời gian thực. Chọn từ thư viện cài đặt sẵn lớn hoặc để chúng tự động luân phiên khi bạn nghe." icon="sparkles" >}}
 
-  {{< feature-card title="AirPlay & Chromecast" subtitle="Phát trực tuyến tới Apple TV và thiết bị Google Chromecast không dây." icon="device-mobile" >}}
+  {{< feature-card title="Lời bài hát và bình luận" subtitle="Xem lời bài hát nhúng theo thời gian và bình luận cho các bản nhạc khi chúng phát, và thêm tiện ích lời bài hát vào Màn hình chính để truy cập nhanh, xem thoáng qua bất cứ lúc nào." icon="annotation" >}}
 
-  {{< feature-card title="Danh sách phát" subtitle="Tạo, chỉnh sửa, sắp xếp lại và xuất/nhập danh sách phát M3U với chế độ ngoại tuyến." icon="collection" >}}
+  {{< feature-card title="AirPlay & Chromecast" subtitle="Phát trực tuyến nhạc của bạn không dây tới Apple TV, loa thông minh và các thiết bị khác với hỗ trợ AirPlay và Google Chromecast tích hợp để nghe khắp nhà dễ dàng." icon="device-mobile" >}}
 
-  {{< feature-card title="Thẻ nhớ USB" subtitle="Phát nhạc trực tiếp từ thẻ SD bằng đầu đọc ngoài như SanDisk iXpand." icon="inbox" >}}
+  {{< feature-card title="Apple CarPlay" subtitle="Lái xe và nghe an toàn với giao diện Apple CarPlay chuyên dụng đưa nhạc, danh sách phát và điều khiển phát ngay lên màn hình bảng điều khiển xe của bạn." icon="truck" >}}
 
-  {{< feature-card title="Chế độ ngoại tuyến" subtitle="Tải xuống album và danh sách phát hoặc tự động lưu cache các bài hát phát gần đây để nghe ngoại tuyến." icon="download" >}}
+  {{< feature-card title="Tiện ích" subtitle="Kích hoạt các tiện ích tương tác trên Màn hình chính để truy cập nhanh hàng đợi phát của bạn, và tiếp tục ngay từ nơi bạn đã dừng ở vị trí lưu lần cuối chỉ với một lần chạm." icon="view-grid" >}}
 
-  {{< feature-card title="Apple CarPlay" subtitle="Lái xe an toàn với giao diện CarPlay chuyên dụng để phát nhạc." icon="truck" >}}
+  {{< feature-card title="Sách nói" subtitle="Biến ứng dụng thành trình phát sách nói đầy đủ với đánh dấu âm thanh, điều khiển tốc độ phát và vị trí media đã lưu, cùng đọc chi tiết văn bản được lưu trong siêu dữ liệu tệp của bạn." icon="book-open" >}}
 
-  {{< feature-card title="Trình sửa thẻ ID3" subtitle="Chỉnh sửa siêu dữ liệu bị hỏng hoặc thiếu bằng trình sửa thẻ tích hợp." icon="pencil-alt" >}}
+  {{< feature-card title="Đồng bộ tự động" subtitle="Thư viện nhạc của bạn tự động đồng bộ giữa đám mây và thiết bị, nhóm gọn gàng mọi bài hát theo nghệ sĩ, album và thể loại để bộ sưu tập của bạn luôn được sắp xếp." icon="refresh" >}}
 
-  {{< feature-card title="Lời bài hát và bình luận" subtitle="Xem lời bài hát và bình luận nhúng khi nghe nhạc." icon="annotation" >}}
+  {{< feature-card title="Trình quản lý danh sách phát" subtitle="Tạo và quản lý danh sách phát, sắp xếp lại bài hát, và làm cho bất kỳ danh sách phát nào khả dụng ngoại tuyến. Sắp xếp bài hát theo tên, kích thước, số bài hát hoặc album để giữ mọi thứ ngăn nắp." icon="collection" >}}
 
-  {{< feature-card title="Last.fm" subtitle="Kết nối tài khoản Last.fm để nhận thống kê nghe và đề xuất cá nhân hóa." icon="chart-bar" >}}
+  {{< feature-card title="Trình sửa thẻ ID3" subtitle="Sửa siêu dữ liệu bị hỏng hoặc thiếu bằng trình sửa thẻ ID3 tích hợp, cập nhật tiêu đề, nghệ sĩ, album và nhiều hơn để thư viện nhạc của bạn luôn sạch sẽ và được tổ chức tốt." icon="pencil-alt" >}}
+
+  {{< feature-card title="Trình quản lý tệp" subtitle="Tổ chức nhạc của bạn với trình quản lý tệp tích hợp, xử lý các thao tác hằng ngày như sao chép, di chuyển, đổi tên và xóa để giữ tất cả tệp âm thanh của bạn ngăn nắp." icon="folder" >}}
+
+  {{< feature-card title="Tìm kiếm nâng cao" subtitle="Tìm mọi thứ trong vài giây với công cụ tìm kiếm thông minh, nhanh chóng định vị các album, nghệ sĩ và bài hát yêu thích của bạn ở bất kỳ đâu trong toàn bộ thư viện nhạc." icon="search" >}}
+
+  {{< feature-card title="Thẻ nhớ USB" subtitle="Kết nối các đầu đọc thẻ ngoài như SanDisk iXpand và nghe nhạc trực tiếp từ thẻ SD hoặc ổ USB, không cần đồng bộ hay tải xuống thêm." icon="inbox" >}}
   
 {{< /cards >}}
 

@@ -91,44 +91,44 @@ Evermusic on ilmainen offline-musiikkisoitin iPhonelle ja Macille, jonka on kehi
 {{< hextra/feature-grid >}}
 
   {{< hextra/feature-card
-    title="Säästä Tilaa Laitteella"
-    subtitle="Onko sinulla 100Gt musiikkia kerättynä vuosien varrella, mutta vain 32Gt tallennustilaa iPhonessa? Siirrä kaikki kappaleet pilveen ja vapauta arvokasta tilaa valokuville, videoille ja sovelluksille."
-    icon="folder"
-    style="background: radial-gradient(ellipse at 50% 80%, rgba(59,130,246,0.15), hsla(0,0%,100%,0));"
-  >}}
-
-  {{< hextra/feature-card
-    title="Välitön Pääsy Kappaleisiin"
-    subtitle="Suosituimpien pilvipalveluiden tuella Evermusic antaa sinun valita yhden tai useamman palvelun ja suoratoistaa musiikkiasi pilvestä. Ei enää iTunes-synkronointia, äänitiedostosi ladataan pilveen PC:ltä tai Macilta kuten muutkin tiedostot."
-    icon="collection"
-    style="background: radial-gradient(ellipse at 50% 80%, rgba(192,38,211,0.15), hsla(0,0%,100%,0));"
-  >}}
-
-  {{< hextra/feature-card
-    title="Offline-tila"
-    subtitle="Offline-tila mahdollistaa suosikkialbumien, kappaleiden, genrejen ja soittolistojen lataamisen offline-toistoa varten ja musiikin kuuntelun ilman Internet-yhteyttä."
-    icon="download"
-    style="background: radial-gradient(ellipse at 50% 80%, rgba(234,88,12,0.15), hsla(0,0%,100%,0));"
-  >}}
-
-  {{< hextra/feature-card
-    title="Musiikkisi Pilvessä"
-    subtitle="Luo oma edistynyt musiikin suoratoistopalvelu ilmaiseksi! Hallitse laajaa musiikkikirjastoasi, säästä laitteen tallennustilaa ja suoratoista suosikkikappaleitasi suoraan pilvestä älykkäällä puskuroinnilla ja saumattomalla toistolla. Nauti suosittujen pilvipalveluiden tuesta kuten iCloud, Google Drive, Dropbox, MEGA.nz, Box, OneDrive ja muut."
+    title="Musiikkisi pilvessä"
+    subtitle="Luo oma edistynyt musiikin suoratoistopalvelu ilmaiseksi! Suoratoista suosikkikappaleitasi suoraan pilvestä älykkäällä puskuroinnilla ja saumattomalla toistolla samalla säästäen laitteen tallennustilaa. Yhdistä palveluita kuten iCloud Drive, Google Drive, Dropbox, OneDrive, Box, MEGA, pCloud, Proton Drive ja monia muita."
     icon="cloud"
     style="background: radial-gradient(ellipse at 50% 80%, rgba(34,197,94,0.15), hsla(0,0%,100%,0));"
   >}}
 
   {{< hextra/feature-card
-    title="Siirrä Tiedostoja Helposti"
+    title="Offline-tila"
+    subtitle="Offline-tila antaa sinun ladata suosikkialbumeitasi, kappaleitasi, artistejasi, genrejäsi ja soittolistojasi offline-toistoa varten. Kuuntele missä tahansa, olitpa lennolla, metrossa tai verkon ulottumattomissa, jopa ilman Internet-yhteyttä, ilman suoratoistoa ja ilman datankäyttöä."
+    icon="download"
+    style="background: radial-gradient(ellipse at 50% 80%, rgba(234,88,12,0.15), hsla(0,0%,100%,0));"
+  >}}
+
+  {{< hextra/feature-card
+    title="Siirrä tiedostoja helposti"
     subtitle="Yhdistä Mac tai PC ja suoratoista musiikkia suoraan kotitietokoneeltasi. Siirrä äänitiedostoja saumattomasti tietokoneen ja iOS-laitteen välillä Wi-Fi Driven tai iTunes File Sharingin avulla. Voit myös liittää NAS:in tai USB-muistitikun ja käyttää kirjastoasi mistä tahansa."
     icon="duplicate"
     style="background: radial-gradient(ellipse at 50% 80%, rgba(251,191,36,0.15), hsla(0,0%,100%,0));"
   >}}
 
   {{< hextra/feature-card
-    title="Automaattinen Synkronointi"
-    subtitle="Synkronointihallinta skannaa automaattisesti pilvitallennuksesi äänitiedostojen varalta ja päivittää musiikkikirjastosi. Metatietojen lataaja järjestää kappaleet albumien, artistien ja genrejen mukaan upotettujen äänitagien avulla."
-    icon="refresh"
+    title="Mediapalvelimet ja NAS"
+    subtitle="Yhdistä henkilökohtaisiin mediakirjastoihisi ja kotipalvelimiin kuten Plex, Emby, Jellyfin, Subsonic ja Navidrome. Liitä NAS-laitteesi kuten Synology, QNAP, Nextcloud ja WD My Cloud Home protokollilla SMB, WebDAV, FTP, SFTP, NFS tai DLNA/UPnP ja käytä koko musiikkikokoelmaasi mistä tahansa."
+    icon="desktop-computer"
+    style="background: radial-gradient(ellipse at 50% 80%, rgba(59,130,246,0.15), hsla(0,0%,100%,0));"
+  >}}
+
+  {{< hextra/feature-card
+    title="Ammattitason ääni"
+    subtitle="Nauti aidosti tauottomasta toistosta ja pehmeästä crossfadesta kappaleiden välillä. Muotoile ääntäsi 10-kaistaisella taajuuskorjaimella, mukautetuilla esiasetuksilla ja esivahvistuksella, säädettävällä toistonopeudella ja sävelkorkeudella sekä täydellä valikoimalla studiotehosteita kuten kaiku, echo, chorus, flanger, bassotehostus, crossfeed ja äänenvoimakkuuden normalisointi."
+    icon="adjustments"
+    style="background: radial-gradient(ellipse at 50% 80%, rgba(192,38,211,0.15), hsla(0,0%,100%,0));"
+  >}}
+
+  {{< hextra/feature-card
+    title="Sanat, widgetit ja CarPlay"
+    subtitle="Lue upotettuja ja synkronoituja LRC-sanoituksia, jotka vierivät musiikin tahtiin, jopa lukitusnäytöllä, aloitusnäytön widgeteissä ja Apple CarPlayssä. Lisää Nyt toistetaan-, Sanat-, Suosikit- ja Äskettäin toistetut -widgetit pitääksesi musiikkisi aina sormenpäidesi ulottuvilla ja synkronoituna."
+    icon="annotation"
     style="background: radial-gradient(ellipse at 50% 80%, rgba(6,182,212,0.15), hsla(0,0%,100%,0));"
   >}}
 
@@ -218,41 +218,47 @@ Evermusic on ilmainen offline-musiikkisoitin iPhonelle ja Macille, jonka on kehi
 
 {{< cards >}}
 
-  {{< feature-card title="Äänimuodot" subtitle="Tukee: mp3, m4a, flac, wav, aac, mp4, m3u, m3u8, m4b, m4p, aiff, ogg, mp2, ac3, wma ja muita." icon="music-note" >}}
+  {{< feature-card title="Toista kaikkia äänimuotoja" subtitle="Evermusic toistaa suosituimmat äänimuodot, mukaan lukien MP3, AAC, M4A, WAV, AIFF, ALAC ja M4B, joten koko musiikkikokoelmasi on valmis toistettavaksi millä tahansa laitteella." icon="music-note" >}}
 
-  {{< feature-card title="Äänikirjat" subtitle="Sisältää äänikirjanmerkit, toistonopeuden säädön ja paikan jatkamisen." icon="book-open" width="50">}}
+  {{< feature-card title="Yhdistä pilvesi" subtitle="Rakenna oma suoratoistopalvelusi siirtämällä kirjastosi pilveen ja vapauttamalla tilaa iPhonesta. Yhdistä iCloud, Google Drive, Dropbox, OneDrive, MEGA, Internxt ja Proton Drive." icon="cloud" >}}
 
-  {{< feature-card title="Automaattinen Synkronointi" subtitle="Synkronoi musiikkikirjastosi pilven kanssa, järjestettynä artistin, albumin ja genren mukaan." icon="refresh" >}}
+  {{< feature-card title="Yhdistä mediapalvelimet" subtitle="Yhdistä henkilökohtaiset mediapalvelimesi suoraan kirjastoosi, mukaan lukien Plex, Subsonic, Navidrome, Jellyfin ja Emby, ja suoratoista helposti kaikki mitä omistat kotoa käsin." icon="server" >}}
 
-  {{< feature-card title="Tiedostonhallinta" subtitle="Hallitse tiedostoja toiminnoilla kuten kopioi, siirrä, nimeä uudelleen ja poista." icon="folder" >}}
+  {{< feature-card title="Yhdistä tietokoneesi tai NAS" subtitle="Yhdistä tietokoneesi tai NAS protokollilla SMB, WebDAV, DLNA, FTP, SFTP ja NFS natiivien rajapintojen kera QNAP-, Synology-, Nextcloud- ja WD My Cloud Home -laitteille, tai siirrä tiedostoja Wi-Fin kautta." icon="desktop-computer" >}}
 
-  {{< feature-card title="Pilvipalvelut" subtitle="Tukee iCloud, Google Drive, Dropbox, OneDrive, Box, MEGA, WD MyCloud Home, pCloud ja muita." icon="cloud" >}}
+  {{< feature-card title="Offline-musiikki" subtitle="Lataa suosikkikappaleesi, -albumisi ja -artistisi nauttiaksesi niistä offline-tilassa milloin tahansa. Ota äänisoittimen välimuisti käyttöön tallentaaksesi automaattisesti äskettäin toistetut kappaleet offline-kuuntelua varten." icon="download" >}}
 
-  {{< feature-card title="Crossfade-toisto" subtitle="Seuraava kappale alkaa ennen nykyisen päättymistä saumattomia siirtymiä varten." icon="switch-horizontal" >}}
+  {{< feature-card title="Äänitaajuuskorjain" subtitle="Muotoile ääntäsi sisäänrakennetulla taajuuskorjaimella, jossa on valmiit esiasetukset suosituille musiikkigenreille sekä manuaaliset säätimet jokaisen kappaleen hienosäätöön ja vahvistamiseen juuri haluamallasi tavalla." icon="adjustments" >}}
 
-  {{< feature-card title="Tauoton Toisto" subtitle="Ei taukoja kappaleiden välillä — ihanteellinen live-, klassisille tai konseptialbumeille." icon="volume-up" >}}
+  {{< feature-card title="Tauoton toisto" subtitle="Nauti pehmeästä, keskeytymättömästä toistosta ilman taukoja kappaleiden välillä, täydellistä live-tallenteille, konseptialbumeille, DJ-mikseille ja klassiselle musiikille alusta loppuun." icon="volume-up" >}}
 
-  {{< feature-card title="Äänitaajuuskorjain" subtitle="Mukautettava taajuuskorjain esiasetuksilla, manuaalisella säädöllä ja esivahvistimen säädöllä." icon="adjustments" >}}
+  {{< feature-card title="Crossfade-toisto" subtitle="Pidä musiikki soljumassa crossfadella, jossa jokainen uusi kappale alkaa hellästi ennen kuin nykyinen päättyy saumatonta, jatkuvaa toistoa varten ilman hiljaisia taukoja." icon="switch-horizontal" >}}
 
-  {{< feature-card title="Edistynyt Haku" subtitle="Löydä suosikkialbumisi, artistisi ja kappaleesi nopeasti ja helposti." icon="search" >}}
+  {{< feature-card title="Äänitehosteet" subtitle="Muotoile ääntäsi sisäänrakennetuilla äänitehosteilla. Ota äänenvoimakkuuden normalisointi käyttöön pitääksesi jokaisen kappaleen samalla äänenvoimakkuudella, ja lisää kaikua, viivettä, säröä ja tilaääntä maun mukaan." icon="chip" >}}
 
-  {{< feature-card title="Tietokoneyhteys" subtitle="Yhdistä SMB:n, WebDAV:n tai DLNA:n kautta. Siirrä iTunes File Sharingin ja Wi-Fi:n avulla." icon="desktop-computer" >}}
+  {{< feature-card title="Musiikkivisualisointi" subtitle="Katso koko näytön animoituja visuaaleja, jotka reagoivat musiikkiisi reaaliajassa. Valitse laajasta esiasetuskirjastosta tai anna niiden vaihtua automaattisesti kuunnellessasi." icon="sparkles" >}}
 
-  {{< feature-card title="AirPlay & Chromecast" subtitle="Suoratoista Apple TV- ja Google Chromecast -laitteille langattomasti." icon="device-mobile" >}}
+  {{< feature-card title="Sanat ja kommentit" subtitle="Näytä upotettuja ajoitettuja sanoituksia ja kommentteja äänikappaleillesi niiden toistuessa, ja lisää sanoitus-widget aloitusnäytöllesi nopeaa ja vaivatonta pääsyä varten milloin tahansa." icon="annotation" >}}
 
-  {{< feature-card title="Soittolistat" subtitle="Luo, muokkaa, järjestä uudelleen ja vie/tuo M3U-soittolistoja offline-tilassa." icon="collection" >}}
+  {{< feature-card title="AirPlay ja Chromecast" subtitle="Suoratoista musiikkiasi langattomasti Apple TV:hen, älykaiuttimiin ja muihin laitteisiin sisäänrakennetulla AirPlay- ja Google Chromecast -tuella vaivatonta kotikuuntelua varten." icon="device-mobile" >}}
 
-  {{< feature-card title="USB-muistikortit" subtitle="Toista musiikkia suoraan SD-korteilta ulkoisten lukijoiden kuten SanDisk iXpand avulla." icon="inbox" >}}
+  {{< feature-card title="Apple CarPlay" subtitle="Aja ja kuuntele turvallisesti omistetulla Apple CarPlay -käyttöliittymällä, joka tuo musiikkisi, soittolistasi ja toistonhallintasi suoraan autosi kojelaudan näytölle." icon="truck" >}}
 
-  {{< feature-card title="Offline-tila" subtitle="Lataa albumeita ja soittolistoja tai välimuistita automaattisesti äskettäin toistetut kappaleet offline-kuuntelua varten." icon="download" >}}
+  {{< feature-card title="Widgetit" subtitle="Aktivoi vuorovaikutteiset aloitusnäytön widgetit nopeaa pääsyä toistojonoosi varten ja jatka juuri siitä mihin jäit viimeksi tallennetusta kohdasta yhdellä napautuksella." icon="view-grid" >}}
 
-  {{< feature-card title="Apple CarPlay" subtitle="Aja turvallisesti omistetulla CarPlay-käyttöliittymällä musiikin toistoa varten." icon="truck" >}}
+  {{< feature-card title="Äänikirjat" subtitle="Muuta sovellus täydeksi äänikirjasoittimeksi äänikirjanmerkeillä, toistonopeuden säädöllä ja tallennetuilla mediakohdilla, sekä lue tiedostojesi metatietoihin tallennetut tekstitiedot." icon="book-open" >}}
 
-  {{< feature-card title="ID3-tagien Editori" subtitle="Muokkaa vioittuneita tai puuttuvia metatietoja sisäänrakennetulla tagieditorilla." icon="pencil-alt" >}}
+  {{< feature-card title="Automaattinen synkronointi" subtitle="Musiikkikirjastosi synkronoituu automaattisesti pilven ja laitteesi välillä ryhmitellen jokaisen kappaleen siististi artistin, albumin ja genren mukaan, joten kokoelmasi pysyy aina järjestyksessä." icon="refresh" >}}
 
-  {{< feature-card title="Sanat ja Kommentit" subtitle="Näytä upotettuja sanoituksia ja kommentteja kuunnellessasi musiikkiasi." icon="annotation" >}}
+  {{< feature-card title="Soittolistojen hallinta" subtitle="Luo ja hallitse soittolistoja, järjestä kappaleet uudelleen ja tee mistä tahansa soittolistasta offline-käytettävän. Lajittele kappaleesi nimen, koon, kappalenumeron tai albumin mukaan pitääksesi kaiken järjestyksessä." icon="collection" >}}
 
-  {{< feature-card title="Last.fm" subtitle="Yhdistä Last.fm-tilisi saadaksesi henkilökohtaisia kuuntelutilastoja ja suosituksia." icon="chart-bar" >}}
+  {{< feature-card title="ID3-tagien editori" subtitle="Korjaa vioittuneet tai puuttuvat metatiedot sisäänrakennetulla ID3-tagieditorilla päivittäen nimet, artistit, albumit ja muut, jotta musiikkikirjastosi pysyy siistinä ja hyvin järjestettynä." icon="pencil-alt" >}}
+
+  {{< feature-card title="Tiedostonhallinta" subtitle="Järjestä musiikkisi integroidulla tiedostonhallinnalla, joka hoitaa arkiset toiminnot kuten kopioi, siirrä, nimeä uudelleen ja poista pitääksesi kaikki äänitiedostosi siististi järjestyksessä." icon="folder" >}}
+
+  {{< feature-card title="Edistynyt haku" subtitle="Löydä mitä tahansa sekunneissa älykkäällä hakukoneella, joka paikantaa nopeasti suosikkialbumisi, -artistisi ja -kappaleesi mistä tahansa koko musiikkikirjastostasi." icon="search" >}}
+
+  {{< feature-card title="USB-muistikortit" subtitle="Yhdistä ulkoisia kortinlukijoita kuten SanDisk iXpand ja kuuntele musiikkiasi suoraan SD-kortilta tai USB-muistitikulta ilman ylimääräistä synkronointia tai latauksia." icon="inbox" >}}
   
 {{< /cards >}}
 

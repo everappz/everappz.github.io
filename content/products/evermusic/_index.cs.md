@@ -91,44 +91,44 @@ Evermusic je bezplatný offline hudební přehrávač pro iPhone a Mac vyvinutý
 {{< hextra/feature-grid >}}
 
   {{< hextra/feature-card
-    title="Ušetřete místo na zařízení"
-    subtitle="Máte 100 GB hudby nasbírané za roky, ale jen 32 GB úložiště na iPhone? Jednoduše přesuňte všechny své skladby do cloudu a uvolněte cenné místo pro fotky, videa a aplikace."
-    icon="folder"
-    style="background: radial-gradient(ellipse at 50% 80%, rgba(59,130,246,0.15), hsla(0,0%,100%,0));"
-  >}}
-
-  {{< hextra/feature-card
-    title="Okamžitý přístup ke skladbám"
-    subtitle="Díky podpoře nejpopulárnějších cloudových služeb vám Evermusic umožňuje vybrat si jednu nebo více služeb a streamovat hudbu z cloudu. Žádná synchronizace přes iTunes, vaše audio soubory se nahrají do cloudu z PC nebo Mac stejně jako ostatní soubory."
-    icon="collection"
-    style="background: radial-gradient(ellipse at 50% 80%, rgba(192,38,211,0.15), hsla(0,0%,100%,0));"
-  >}}
-
-  {{< hextra/feature-card
-    title="Offline režim"
-    subtitle="Offline režim vám umožňuje stáhnout oblíbená alba, skladby, žánry a playlisty pro offline přehrávání a poslouchat hudbu, když nejste připojeni k internetu."
-    icon="download"
-    style="background: radial-gradient(ellipse at 50% 80%, rgba(234,88,12,0.15), hsla(0,0%,100%,0));"
-  >}}
-
-  {{< hextra/feature-card
     title="Vaše hudba v cloudu"
-    subtitle="Vytvořte si vlastní pokročilou hudební streamovací službu zdarma! Spravujte svou rozsáhlou hudební knihovnu, šetřete úložiště zařízení a streamujte oblíbené skladby přímo z cloudu s chytrým ukládáním do mezipaměti a plynulým přehráváním. Užijte si podporu populárních cloudových služeb jako iCloud, Google Drive, Dropbox, MEGA.nz, Box, OneDrive a další."
+    subtitle="Vytvořte si vlastní pokročilou hudební streamovací službu zdarma! Streamujte své oblíbené skladby přímo z cloudu s chytrým ukládáním do mezipaměti a plynulým přehráváním a zároveň šetřete úložiště zařízení. Připojte služby jako iCloud Drive, Google Drive, Dropbox, OneDrive, Box, MEGA, pCloud, Proton Drive a mnoho dalších."
     icon="cloud"
     style="background: radial-gradient(ellipse at 50% 80%, rgba(34,197,94,0.15), hsla(0,0%,100%,0));"
   >}}
 
   {{< hextra/feature-card
+    title="Offline režim"
+    subtitle="Offline režim vám umožňuje stáhnout oblíbená alba, skladby, interprety, žánry a playlisty pro offline přehrávání. Poslouchejte kdekoli, ať už v letadle, v metru nebo mimo dosah sítě, i když nejste připojeni k internetu, bez streamování a bez spotřeby dat."
+    icon="download"
+    style="background: radial-gradient(ellipse at 50% 80%, rgba(234,88,12,0.15), hsla(0,0%,100%,0));"
+  >}}
+
+  {{< hextra/feature-card
     title="Snadný přenos souborů"
-    subtitle="Připojte svůj Mac nebo PC a streamujte hudbu přímo z domácího počítače. Bezproblémově přenášejte audio soubory mezi počítačem a iOS zařízením pomocí Wi-Fi Drive nebo sdílení souborů iTunes. Můžete také připojit NAS nebo USB flash disk a přistupovat ke své knihovně odkudkoli."
+    subtitle="Připojte svůj Mac nebo PC a streamujte hudbu přímo z domácího počítače. Bezproblémově přenášejte audio soubory mezi počítačem a iOS zařízením pomocí Wi-Fi Drive nebo iTunes File Sharing. Můžete také připojit svůj NAS nebo USB flash disk a přistupovat ke své knihovně odkudkoli."
     icon="duplicate"
     style="background: radial-gradient(ellipse at 50% 80%, rgba(251,191,36,0.15), hsla(0,0%,100%,0));"
   >}}
 
   {{< hextra/feature-card
-    title="Automatická synchronizace"
-    subtitle="Správce synchronizace automaticky prohledává vaše cloudové úložiště a hledá audio soubory a aktualizuje vaši hudební knihovnu. Zavaděč metadat organizuje skladby podle alb, interpretů a žánrů pomocí vložených audio tagů."
-    icon="refresh"
+    title="Mediální servery a NAS"
+    subtitle="Připojte se ke svým osobním mediálním knihovnám a domácím serverům jako Plex, Emby, Jellyfin, Subsonic a Navidrome. Propojte svůj NAS jako Synology, QNAP, Nextcloud a WD My Cloud Home přes SMB, WebDAV, FTP, SFTP, NFS nebo DLNA/UPnP a přistupujte k celé své hudební sbírce odkudkoli."
+    icon="desktop-computer"
+    style="background: radial-gradient(ellipse at 50% 80%, rgba(59,130,246,0.15), hsla(0,0%,100%,0));"
+  >}}
+
+  {{< hextra/feature-card
+    title="Profesionální zvukový engine"
+    subtitle="Užijte si skutečně bezmezerové přehrávání a plynulé prolínání mezi skladbami. Vytvarujte svůj zvuk pomocí 10pásmového ekvalizéru, vlastních předvoleb a zesílení předzesilovače, nastavitelné rychlosti a výšky přehrávání a celé řady studiových efektů jako reverb, echo, chorus, flanger, bass boost, crossfeed a normalizace hlasitosti."
+    icon="adjustments"
+    style="background: radial-gradient(ellipse at 50% 80%, rgba(192,38,211,0.15), hsla(0,0%,100%,0));"
+  >}}
+
+  {{< hextra/feature-card
+    title="Texty, widgety a CarPlay"
+    subtitle="Čtěte vložené a synchronizované LRC texty, které se posouvají v rytmu hudby, i na uzamčené obrazovce, ve widgetech domovské obrazovky a na Apple CarPlay. Přidejte widgety Právě hraje, Texty, Oblíbené a Naposledy přehrané, abyste měli svou hudbu vždy po ruce a v dokonalé synchronizaci."
+    icon="annotation"
     style="background: radial-gradient(ellipse at 50% 80%, rgba(6,182,212,0.15), hsla(0,0%,100%,0));"
   >}}
 
@@ -218,41 +218,47 @@ Evermusic je bezplatný offline hudební přehrávač pro iPhone a Mac vyvinutý
 
 {{< cards >}}
 
-  {{< feature-card title="Audio formáty" subtitle="Podporuje: mp3, m4a, flac, wav, aac, mp4, m3u, m3u8, m4b, m4p, aiff, ogg, mp2, ac3, wma a další." icon="music-note" >}}
+  {{< feature-card title="Přehrávání všech audio formátů" subtitle="Evermusic přehrává nejpopulárnější audio formáty, včetně MP3, AAC, M4A, WAV, AIFF, ALAC a M4B, takže celá vaše hudební sbírka je připravena k přehrávání na jakémkoli zařízení." icon="music-note" >}}
 
-  {{< feature-card title="Audioknihy" subtitle="Zahrnuje audio záložky, ovládání rychlosti přehrávání a obnovení pozice." icon="book-open" width="50">}}
+  {{< feature-card title="Připojte svůj cloud" subtitle="Vytvořte si vlastní streamovací službu přesunutím své knihovny do cloudu a uvolněním místa na iPhonu. Připojte iCloud, Google Drive, Dropbox, OneDrive, MEGA, Internxt a Proton Drive." icon="cloud" >}}
 
-  {{< feature-card title="Automatická synchronizace" subtitle="Synchronizuje vaši hudební knihovnu s cloudem, organizovanou podle interpreta, alba a žánru." icon="refresh" >}}
+  {{< feature-card title="Připojte mediální servery" subtitle="Připojte své osobní mediální servery přímo ke své knihovně, včetně Plex, Subsonic, Navidrome, Jellyfin a Emby, a snadno streamujte vše, co vlastníte, z domova." icon="server" >}}
 
-  {{< feature-card title="Správce souborů" subtitle="Spravujte soubory s operacemi jako kopírování, přesun, přejmenování a mazání." icon="folder" >}}
+  {{< feature-card title="Připojte počítač nebo NAS" subtitle="Připojte svůj počítač nebo NAS přes SMB, WebDAV, DLNA, FTP, SFTP a NFS, s nativními API pro QNAP, Synology, Nextcloud a WD My Cloud Home, nebo přenášejte soubory přes Wi-Fi." icon="desktop-computer" >}}
 
-  {{< feature-card title="Cloudové služby" subtitle="Podporuje iCloud, Google Drive, Dropbox, OneDrive, Box, MEGA, WD MyCloud Home, pCloud a další." icon="cloud" >}}
+  {{< feature-card title="Offline hudba" subtitle="Stáhněte si oblíbené písně, alba a interprety, abyste si je mohli kdykoli užít offline. Zapněte mezipaměť audio přehrávače pro automatické ukládání nedávno přehrávaných skladeb pro offline poslech." icon="download" >}}
 
-  {{< feature-card title="Crossfade přehrávání" subtitle="Další píseň začne před koncem aktuální pro plynulé přechody." icon="switch-horizontal" >}}
+  {{< feature-card title="Audio ekvalizér" subtitle="Vytvarujte svůj zvuk pomocí vestavěného ekvalizéru s hotovými předvolbami pro oblíbené hudební žánry a manuálním ovládáním pro doladění a zesílení každé skladby přesně podle vašich představ." icon="adjustments" >}}
 
-  {{< feature-card title="Plynulé přehrávání" subtitle="Žádné pauzy mezi písněmi — ideální pro živá, klasická nebo konceptuální alba." icon="volume-up" >}}
+  {{< feature-card title="Bezmezerové přehrávání" subtitle="Užijte si plynulé, nepřerušované přehrávání bez pauz mezi písněmi, ideální pro živé nahrávky, konceptuální alba, DJ mixy a klasickou hudbu od začátku do konce." icon="volume-up" >}}
 
-  {{< feature-card title="Audio ekvalizér" subtitle="Přizpůsobitelný ekvalizér s předvolbami, manuálním ovládáním a předzesilovačem." icon="adjustments" >}}
+  {{< feature-card title="Prolínání skladeb" subtitle="Udržte hudbu v pohybu díky prolínání, kdy každá nová píseň jemně začíná ještě před koncem aktuální pro plynulé, nepřetržité přehrávání bez tichých mezer." icon="switch-horizontal" >}}
 
-  {{< feature-card title="Pokročilé vyhledávání" subtitle="Rychle a snadno najděte svá oblíbená alba, interprety a skladby." icon="search" >}}
+  {{< feature-card title="Audio efekty" subtitle="Vytvarujte svůj zvuk pomocí vestavěných audio efektů. Zapněte normalizaci hlasitosti, aby všechny skladby měly stejnou hlasitost, a přidejte podle chuti reverb, delay, distortion a prostorový zvuk." icon="chip" >}}
 
-  {{< feature-card title="Přístup k počítači" subtitle="Připojte se přes SMB, WebDAV nebo DLNA. Přenášejte přes iTunes File Sharing a Wi-Fi." icon="desktop-computer" >}}
+  {{< feature-card title="Hudební vizualizér" subtitle="Sledujte animované vizualizace na celou obrazovku, které reagují na vaši hudbu v reálném čase. Vyberte si z rozsáhlé knihovny předvoleb nebo je nechte automaticky střídat během poslechu." icon="sparkles" >}}
 
-  {{< feature-card title="AirPlay a Chromecast" subtitle="Streamujte na zařízení Apple TV a Google Chromecast bezdrátově." icon="device-mobile" >}}
+  {{< feature-card title="Texty a komentáře" subtitle="Zobrazujte vložené časované texty a komentáře ke svým skladbám během přehrávání a přidejte si widget textů na domovskou obrazovku pro rychlý přehled kdykoli." icon="annotation" >}}
 
-  {{< feature-card title="Playlisty" subtitle="Vytvářejte, upravujte, měňte pořadí a exportujte/importujte M3U playlisty s offline režimem." icon="collection" >}}
+  {{< feature-card title="AirPlay a Chromecast" subtitle="Streamujte svou hudbu bezdrátově na Apple TV, chytré reproduktory a další zařízení díky vestavěné podpoře AirPlay a Google Chromecast pro pohodlný poslech v celé domácnosti." icon="device-mobile" >}}
 
-  {{< feature-card title="USB flash karty" subtitle="Přehrávejte hudbu přímo z SD karet pomocí externích čteček jako SanDisk iXpand." icon="inbox" >}}
+  {{< feature-card title="Apple CarPlay" subtitle="Řiďte a poslouchejte bezpečně díky dedikovanému rozhraní Apple CarPlay, které umístí vaši hudbu, playlisty a ovládání přehrávání přímo na displej palubní desky vašeho auta." icon="truck" >}}
 
-  {{< feature-card title="Offline režim" subtitle="Stahujte alba a playlisty nebo automaticky ukládejte nedávno přehrávané skladby pro offline poslech." icon="download" >}}
+  {{< feature-card title="Widgety" subtitle="Aktivujte interaktivní widgety domovské obrazovky pro rychlý přístup k frontě přehrávání a pokračujte přesně tam, kde jste skončili, z naposledy uložené pozice jediným klepnutím." icon="view-grid" >}}
 
-  {{< feature-card title="Apple CarPlay" subtitle="Jezděte bezpečně s dedikovaným CarPlay rozhraním pro přehrávání hudby." icon="truck" >}}
+  {{< feature-card title="Audioknihy" subtitle="Proměňte aplikaci v plnohodnotný přehrávač audioknih s audio záložkami, ovládáním rychlosti přehrávání a uloženými pozicemi médií a čtěte textové detaily uložené v metadatech vašich souborů." icon="book-open" >}}
 
-  {{< feature-card title="Editor ID3 tagů" subtitle="Upravujte poškozená nebo chybějící metadata pomocí vestavěného editoru tagů." icon="pencil-alt" >}}
+  {{< feature-card title="Automatická synchronizace" subtitle="Vaše hudební knihovna se automaticky synchronizuje mezi cloudem a zařízením a přehledně seskupuje každou píseň podle interpreta, alba a žánru, aby vaše sbírka zůstala vždy uspořádaná." icon="refresh" >}}
 
-  {{< feature-card title="Texty a komentáře" subtitle="Zobrazujte vložené texty písní a komentáře při poslechu hudby." icon="annotation" >}}
+  {{< feature-card title="Správce playlistů" subtitle="Vytvářejte a spravujte playlisty, měňte pořadí písní a zpřístupněte jakýkoli playlist offline. Řaďte své skladby podle názvu, velikosti, čísla písně nebo alba, abyste měli vše v pořádku." icon="collection" >}}
 
-  {{< feature-card title="Last.fm" subtitle="Připojte svůj účet Last.fm pro personalizované statistiky poslechu a doporučení." icon="chart-bar" >}}
+  {{< feature-card title="Editor ID3 tagů" subtitle="Opravte poškozená nebo chybějící metadata pomocí vestavěného editoru ID3 tagů a aktualizujte názvy, interprety, alba a další, aby vaše hudební knihovna zůstala čistá a dobře uspořádaná." icon="pencil-alt" >}}
+
+  {{< feature-card title="Správce souborů" subtitle="Organizujte svou hudbu pomocí integrovaného správce souborů, který zvládá běžné operace jako kopírování, přesun, přejmenování a mazání, aby byly všechny vaše audio soubory v pořádku." icon="folder" >}}
+
+  {{< feature-card title="Pokročilé vyhledávání" subtitle="Najděte cokoli během několika sekund díky chytrému vyhledávači, který rychle vyhledá vaše oblíbená alba, interprety a písně kdekoli v celé vaší hudební knihovně." icon="search" >}}
+
+  {{< feature-card title="USB flash karty" subtitle="Připojte externí čtečky karet jako SanDisk iXpand a poslouchejte svou hudbu přímo z SD karty nebo USB flash disku, bez nutnosti dalšího synchronizování nebo stahování." icon="inbox" >}}
   
 {{< /cards >}}
 

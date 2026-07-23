@@ -91,44 +91,44 @@ Evermusic is een gratis offline muziekspeler voor iPhone en Mac, ontwikkeld door
 {{< hextra/feature-grid >}}
 
   {{< hextra/feature-card
-    title="Bespaar ruimte op je apparaat"
-    subtitle="Heb je 100GB aan muziek verzameld door de jaren heen maar slechts 32GB opslag op je iPhone? Verplaats al je nummers naar de cloud en maak waardevolle ruimte vrij voor foto's, video's en apps."
-    icon="folder"
-    style="background: radial-gradient(ellipse at 50% 80%, rgba(59,130,246,0.15), hsla(0,0%,100%,0));"
-  >}}
-
-  {{< hextra/feature-card
-    title="Directe toegang tot nummers"
-    subtitle="Met ondersteuning van de populairste cloudservices kun je met Evermusic een of meerdere services kiezen en je muziek streamen vanuit de cloud. Geen iTunes-synchronisatie meer nodig, je audiobestanden worden net als andere bestanden naar de cloud geüpload vanaf pc of Mac."
-    icon="collection"
-    style="background: radial-gradient(ellipse at 50% 80%, rgba(192,38,211,0.15), hsla(0,0%,100%,0));"
-  >}}
-
-  {{< hextra/feature-card
-    title="Offline modus"
-    subtitle="De offline modus stelt je in staat om favoriete albums, nummers, genres en afspeellijsten te downloaden voor offline afspelen en naar muziek te luisteren wanneer je niet verbonden bent met internet."
-    icon="download"
-    style="background: radial-gradient(ellipse at 50% 80%, rgba(234,88,12,0.15), hsla(0,0%,100%,0));"
-  >}}
-
-  {{< hextra/feature-card
     title="Je muziek in de cloud"
-    subtitle="Maak je eigen geavanceerde muziekstreamingdienst gratis! Beheer je enorme muziekbibliotheek, bespaar apparaatopslag en stream je favoriete nummers rechtstreeks vanuit de cloud met slimme buffering en naadloos afspelen. Geniet van ondersteuning voor populaire cloudservices zoals iCloud, Google Drive, Dropbox, MEGA.nz, Box, OneDrive en meer."
+    subtitle="Maak gratis je eigen geavanceerde muziekstreamingdienst! Stream je favoriete nummers rechtstreeks vanuit de cloud met slimme buffering en naadloos afspelen terwijl je apparaatopslag bespaart. Verbind diensten zoals iCloud Drive, Google Drive, Dropbox, OneDrive, Box, MEGA, pCloud, Proton Drive en nog veel meer."
     icon="cloud"
     style="background: radial-gradient(ellipse at 50% 80%, rgba(34,197,94,0.15), hsla(0,0%,100%,0));"
   >}}
 
   {{< hextra/feature-card
+    title="Offline modus"
+    subtitle="Met de offline modus kun je je favoriete albums, nummers, artiesten, genres en afspeellijsten downloaden voor offline afspelen. Luister overal, of je nu in het vliegtuig zit, in de metro of buiten bereik bent, zelfs zonder internetverbinding, zonder te streamen en zonder dataverbruik."
+    icon="download"
+    style="background: radial-gradient(ellipse at 50% 80%, rgba(234,88,12,0.15), hsla(0,0%,100%,0));"
+  >}}
+
+  {{< hextra/feature-card
     title="Bestanden eenvoudig overzetten"
-    subtitle="Verbind je Mac of pc en stream muziek rechtstreeks vanaf je thuiscomputer. Zet audiobestanden naadloos over tussen je computer en iOS-apparaat met Wi-Fi Drive of iTunes-bestandsdeling. Je kunt ook je NAS of een USB-flashdrive aansluiten en overal toegang krijgen tot je bibliotheek."
+    subtitle="Verbind je Mac of pc en stream muziek rechtstreeks vanaf je thuiscomputer. Zet audiobestanden naadloos over tussen je computer en iOS-apparaat met Wi-Fi Drive of iTunes File Sharing. Je kunt ook je NAS of een USB-flashdrive koppelen en overal toegang krijgen tot je bibliotheek."
     icon="duplicate"
     style="background: radial-gradient(ellipse at 50% 80%, rgba(251,191,36,0.15), hsla(0,0%,100%,0));"
   >}}
 
   {{< hextra/feature-card
-    title="Automatische synchronisatie"
-    subtitle="De Sync Manager scant automatisch je cloudopslag op audiobestanden en werkt je muziekbibliotheek bij. De Metadata Loader organiseert nummers op album, artiest en genre met behulp van ingebedde audiotags."
-    icon="refresh"
+    title="Mediaservers & NAS"
+    subtitle="Maak verbinding met je persoonlijke mediabibliotheken en thuisservers zoals Plex, Emby, Jellyfin, Subsonic en Navidrome. Koppel je NAS zoals Synology, QNAP, Nextcloud en WD My Cloud Home via SMB, WebDAV, FTP, SFTP, NFS of DLNA/UPnP, en krijg overal toegang tot je volledige muziekcollectie."
+    icon="desktop-computer"
+    style="background: radial-gradient(ellipse at 50% 80%, rgba(59,130,246,0.15), hsla(0,0%,100%,0));"
+  >}}
+
+  {{< hextra/feature-card
+    title="Pro-audio-engine"
+    subtitle="Geniet van echt naadloos afspelen en soepele crossfade tussen nummers. Vorm je geluid met een 10-bands equalizer, aangepaste presets en preamp-versterking, aanpasbare afspeelsnelheid en toonhoogte, plus een volledig pakket studio-effecten zoals reverb, echo, chorus, flanger, bass boost, crossfeed en volumenormalisatie."
+    icon="adjustments"
+    style="background: radial-gradient(ellipse at 50% 80%, rgba(192,38,211,0.15), hsla(0,0%,100%,0));"
+  >}}
+
+  {{< hextra/feature-card
+    title="Songteksten, widgets & CarPlay"
+    subtitle="Lees ingebedde en gesynchroniseerde LRC-songteksten die meelopen met de muziek, zelfs op het vergrendelscherm, in widgets op het beginscherm en op Apple CarPlay. Voeg widgets voor Nu afgespeeld, Songteksten, Favorieten en Recent afgespeeld toe om je muziek altijd binnen handbereik en in sync te houden."
+    icon="annotation"
     style="background: radial-gradient(ellipse at 50% 80%, rgba(6,182,212,0.15), hsla(0,0%,100%,0));"
   >}}
 
@@ -218,41 +218,47 @@ Evermusic is een gratis offline muziekspeler voor iPhone en Mac, ontwikkeld door
 
 {{< cards >}}
 
-  {{< feature-card title="Audioformaten" subtitle="Ondersteunt: mp3, m4a, flac, wav, aac, mp4, m3u, m3u8, m4b, m4p, aiff, ogg, mp2, ac3, wma en meer." icon="music-note" >}}
+  {{< feature-card title="Alle audioformaten afspelen" subtitle="Evermusic speelt de populairste audioformaten af, waaronder MP3, AAC, M4A, WAV, AIFF, ALAC en M4B, zodat je hele muziekcollectie klaar is om op elk apparaat af te spelen." icon="music-note" >}}
 
-  {{< feature-card title="Audioboeken" subtitle="Inclusief audio bladwijzers, afspeelsnelheidsregeling en hervattingspositie." icon="book-open" width="50">}}
+  {{< feature-card title="Verbind je cloud" subtitle="Bouw je eigen streamingdienst door je bibliotheek naar de cloud te verplaatsen en ruimte op je iPhone vrij te maken. Verbind iCloud, Google Drive, Dropbox, OneDrive, MEGA, Internxt en Proton Drive." icon="cloud" >}}
 
-  {{< feature-card title="Automatische synchronisatie" subtitle="Synchroniseer je muziekbibliotheek met de cloud, georganiseerd op artiest, album en genre." icon="refresh" >}}
+  {{< feature-card title="Verbind mediaservers" subtitle="Verbind je persoonlijke mediaservers rechtstreeks met je bibliotheek, waaronder Plex, Subsonic, Navidrome, Jellyfin en Emby, en stream met gemak alles wat je bezit vanuit huis." icon="server" >}}
 
-  {{< feature-card title="Bestandsbeheer" subtitle="Beheer bestanden met bewerkingen zoals kopiëren, verplaatsen, hernoemen en verwijderen." icon="folder" >}}
+  {{< feature-card title="Verbind je computer of NAS" subtitle="Verbind je computer of NAS via SMB, WebDAV, DLNA, FTP, SFTP en NFS, met native API's voor QNAP, Synology, Nextcloud en WD My Cloud Home, of zet bestanden over via Wi-Fi." icon="desktop-computer" >}}
 
-  {{< feature-card title="Cloudservices" subtitle="Ondersteunt iCloud, Google Drive, Dropbox, OneDrive, Box, MEGA, WD MyCloud Home, pCloud en meer." icon="cloud" >}}
+  {{< feature-card title="Offline muziek" subtitle="Download je favoriete nummers, albums en artiesten om er op elk moment offline van te genieten. Schakel de cache van de audiospeler in om recent afgespeelde nummers automatisch op te slaan voor offline luisteren." icon="download" >}}
 
-  {{< feature-card title="Crossfade afspelen" subtitle="Het volgende nummer begint voordat het huidige eindigt voor naadloze overgangen." icon="switch-horizontal" >}}
+  {{< feature-card title="Audio-equalizer" subtitle="Vorm je geluid met de ingebouwde equalizer, met kant-en-klare presets voor populaire muziekgenres plus handmatige bediening om elk nummer precies naar wens te verfijnen en te versterken." icon="adjustments" >}}
 
-  {{< feature-card title="Naadloos afspelen" subtitle="Geen pauzes tussen nummers — ideaal voor live, klassieke of conceptalbums." icon="volume-up" >}}
+  {{< feature-card title="Naadloos afspelen" subtitle="Geniet van soepel, ononderbroken afspelen zonder pauzes tussen nummers, perfect voor live-opnames, conceptalbums, dj-mixes en klassieke muziek van begin tot eind." icon="volume-up" >}}
 
-  {{< feature-card title="Audio-equalizer" subtitle="Aanpasbare equalizer met presets, handmatige bediening en preamp-versterking." icon="adjustments" >}}
+  {{< feature-card title="Crossfade afspelen" subtitle="Houd de muziek stromend met crossfade, waarbij elk nieuw nummer zacht begint voordat het huidige eindigt voor naadloos, continu afspelen zonder stille onderbrekingen." icon="switch-horizontal" >}}
 
-  {{< feature-card title="Geavanceerd zoeken" subtitle="Vind je favoriete albums, artiesten en nummers snel en eenvoudig." icon="search" >}}
+  {{< feature-card title="Audio-effecten" subtitle="Vorm je geluid met ingebouwde audio-effecten. Schakel volumenormalisatie in om elk nummer op dezelfde luidheid te houden, en voeg naar smaak reverb, delay, distortion en ruimtelijke audio toe." icon="chip" >}}
 
-  {{< feature-card title="Computertoegang" subtitle="Verbind via SMB, WebDAV of DLNA. Overzetten via iTunes-bestandsdeling en Wi-Fi." icon="desktop-computer" >}}
+  {{< feature-card title="Muziekvisualizer" subtitle="Bekijk schermvullende geanimeerde beelden die live in realtime op je muziek reageren. Kies uit een grote bibliotheek van presets of laat ze automatisch wisselen terwijl je luistert." icon="sparkles" >}}
 
-  {{< feature-card title="AirPlay & Chromecast" subtitle="Stream draadloos naar Apple TV- en Google Chromecast-apparaten." icon="device-mobile" >}}
+  {{< feature-card title="Songteksten en opmerkingen" subtitle="Bekijk ingebedde getimede songteksten en opmerkingen bij je audiotracks terwijl ze worden afgespeeld, en voeg de songteksten-widget toe aan je beginscherm voor snelle toegang in één oogopslag." icon="annotation" >}}
 
-  {{< feature-card title="Afspeellijsten" subtitle="Maak, bewerk, herorden en exporteer/importeer M3U afspeellijsten met offline modus." icon="collection" >}}
+  {{< feature-card title="AirPlay & Chromecast" subtitle="Stream je muziek draadloos naar Apple TV, slimme speakers en andere apparaten met ingebouwde ondersteuning voor AirPlay en Google Chromecast voor moeiteloos luisteren in het hele huis." icon="device-mobile" >}}
 
-  {{< feature-card title="USB-flashkaarten" subtitle="Speel muziek rechtstreeks af van SD-kaarten met externe lezers zoals SanDisk iXpand." icon="inbox" >}}
+  {{< feature-card title="Apple CarPlay" subtitle="Rij en luister veilig met een speciale Apple CarPlay-interface die je muziek, afspeellijsten en afspeelbediening rechtstreeks op het dashboardscherm van je auto plaatst." icon="truck" >}}
 
-  {{< feature-card title="Offline modus" subtitle="Download albums en afspeellijsten of cache recent afgespeelde nummers automatisch voor offline luisteren." icon="download" >}}
+  {{< feature-card title="Widgets" subtitle="Activeer interactieve widgets op het beginscherm voor snelle toegang tot je afspeelwachtrij, en ga met één tik verder waar je gebleven was vanaf de laatst opgeslagen positie." icon="view-grid" >}}
 
-  {{< feature-card title="Apple CarPlay" subtitle="Rij veilig met een speciale CarPlay-interface voor muziek afspelen." icon="truck" >}}
+  {{< feature-card title="Audioboeken" subtitle="Verander de app in een volwaardige audioboekspeler met audio bladwijzers, afspeelsnelheidsregeling en opgeslagen mediaposities, plus het lezen van de tekstdetails die in de metadata van je bestanden zijn opgeslagen." icon="book-open" >}}
 
-  {{< feature-card title="ID3-tagseditor" subtitle="Bewerk beschadigde of ontbrekende metadata met de ingebouwde tagseditor." icon="pencil-alt" >}}
+  {{< feature-card title="Automatische synchronisatie" subtitle="Je muziekbibliotheek synchroniseert automatisch tussen de cloud en je apparaat, waarbij elk nummer netjes op artiest, album en genre wordt gegroepeerd zodat je collectie altijd georganiseerd blijft." icon="refresh" >}}
 
-  {{< feature-card title="Songteksten en opmerkingen" subtitle="Bekijk ingebedde songteksten en opmerkingen tijdens het luisteren naar je muziek." icon="annotation" >}}
+  {{< feature-card title="Afspeellijstbeheer" subtitle="Maak en beheer afspeellijsten, herorden nummers en maak elke afspeellijst offline beschikbaar. Sorteer je nummers op naam, grootte, nummer of album om alles op orde te houden." icon="collection" >}}
 
-  {{< feature-card title="Last.fm" subtitle="Verbind je Last.fm-account om gepersonaliseerde luisterstatistieken en aanbevelingen te krijgen." icon="chart-bar" >}}
+  {{< feature-card title="ID3-tagseditor" subtitle="Herstel beschadigde of ontbrekende metadata met de ingebouwde ID3-tagseditor door titels, artiesten, albums en meer bij te werken zodat je muziekbibliotheek schoon en goed georganiseerd blijft." icon="pencil-alt" >}}
+
+  {{< feature-card title="Bestandsbeheer" subtitle="Organiseer je muziek met de geïntegreerde bestandsbeheerder, die dagelijkse bewerkingen zoals kopiëren, verplaatsen, hernoemen en verwijderen afhandelt om al je audiobestanden netjes op orde te houden." icon="folder" >}}
+
+  {{< feature-card title="Geavanceerd zoeken" subtitle="Vind alles in enkele seconden met de slimme zoekmachine, die snel je favoriete albums, artiesten en nummers overal in je hele muziekbibliotheek lokaliseert." icon="search" >}}
+
+  {{< feature-card title="USB-flashkaarten" subtitle="Verbind externe kaartlezers zoals de SanDisk iXpand en luister rechtstreeks vanaf een SD-kaart of USB-flashdrive naar je muziek, zonder extra synchronisatie of downloads." icon="inbox" >}}
   
 {{< /cards >}}
 

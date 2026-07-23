@@ -91,44 +91,44 @@ Evermusic, İspanyol yazılım şirketi Everappz tarafından geliştirilen iPhon
 {{< hextra/feature-grid >}}
 
   {{< hextra/feature-card
-    title="Cihazda Yer Kazanın"
-    subtitle="Yıllar içinde biriktirdiğiniz 100GB müziğiniz var ama iPhone'unuzda sadece 32GB depolama mı var? Tüm parçalarınızı buluta taşıyın ve fotoğraflar, videolar ve uygulamalar için değerli alanı serbest bırakın."
-    icon="folder"
-    style="background: radial-gradient(ellipse at 50% 80%, rgba(59,130,246,0.15), hsla(0,0%,100%,0));"
-  >}}
-
-  {{< hextra/feature-card
-    title="Parçalara Anında Erişim"
-    subtitle="En popüler bulut hizmetleri desteğiyle Evermusic, bir veya birden fazla hizmet seçmenize ve müziğinizi buluttan akış yapmanıza olanak tanır. Artık iTunes senkronizasyonuna gerek yok, ses dosyalarınız diğer dosyalar gibi PC veya Mac'ten buluta yüklenir."
-    icon="collection"
-    style="background: radial-gradient(ellipse at 50% 80%, rgba(192,38,211,0.15), hsla(0,0%,100%,0));"
-  >}}
-
-  {{< hextra/feature-card
-    title="Çevrimdışı Mod"
-    subtitle="Çevrimdışı mod, favori albümlerinizi, parçalarınızı, türlerinizi ve çalma listelerinizi çevrimdışı oynatma için indirmenize ve internete bağlı olmadığınızda müzik dinlemenize olanak tanır."
-    icon="download"
-    style="background: radial-gradient(ellipse at 50% 80%, rgba(234,88,12,0.15), hsla(0,0%,100%,0));"
-  >}}
-
-  {{< hextra/feature-card
     title="Müziğiniz Bulutta"
-    subtitle="Kendi gelişmiş müzik akış hizmetinizi ücretsiz oluşturun! Devasa müzik kitaplığınızı yönetin, cihaz depolamasını koruyun ve akıllı önbellekleme ile kesintisiz oynatma ile favori parçalarınızı doğrudan buluttan akış yapın. iCloud, Google Drive, Dropbox, MEGA.nz, Box, OneDrive ve daha fazlası gibi popüler bulut hizmetleri desteğinin keyfini çıkarın."
+    subtitle="Kendi gelişmiş müzik akış hizmetinizi ücretsiz oluşturun! Favori parçalarınızı akıllı önbellekleme ve kesintisiz oynatma ile doğrudan buluttan akış yapın, cihaz depolamasından da tasarruf edin. iCloud Drive, Google Drive, Dropbox, OneDrive, Box, MEGA, pCloud, Proton Drive ve daha birçok hizmeti bağlayın."
     icon="cloud"
     style="background: radial-gradient(ellipse at 50% 80%, rgba(34,197,94,0.15), hsla(0,0%,100%,0));"
   >}}
 
   {{< hextra/feature-card
+    title="Çevrimdışı Mod"
+    subtitle="Çevrimdışı mod, favori albümlerinizi, parçalarınızı, sanatçılarınızı, türlerinizi ve çalma listelerinizi çevrimdışı oynatma için indirmenize olanak tanır. İster uçakta, ister metroda, ister şebekeden uzakta olun, internete bağlı olmasanız bile akış ve veri kullanımı olmadan her yerde dinleyin."
+    icon="download"
+    style="background: radial-gradient(ellipse at 50% 80%, rgba(234,88,12,0.15), hsla(0,0%,100%,0));"
+  >}}
+
+  {{< hextra/feature-card
     title="Dosyaları Kolayca Aktarın"
-    subtitle="Mac veya PC'nizi bağlayın ve müziği doğrudan ev bilgisayarınızdan akış yapın. Wi-Fi Drive veya iTunes Dosya Paylaşımı kullanarak bilgisayarınız ile iOS cihazınız arasında ses dosyalarını sorunsuz aktarın. Ayrıca NAS'ınızı veya USB flash sürücünüzü bağlayabilir ve kitaplığınıza her yerden erişebilirsiniz."
+    subtitle="Mac veya PC'nizi bağlayın ve müziği doğrudan ev bilgisayarınızdan akış yapın. Wi-Fi Drive veya iTunes Dosya Paylaşımı kullanarak bilgisayarınız ile iOS cihazınız arasında ses dosyalarını sorunsuz aktarın. Ayrıca NAS'ınızı veya bir USB flash sürücünüzü bağlayabilir ve kitaplığınıza her yerden erişebilirsiniz."
     icon="duplicate"
     style="background: radial-gradient(ellipse at 50% 80%, rgba(251,191,36,0.15), hsla(0,0%,100%,0));"
   >}}
 
   {{< hextra/feature-card
-    title="Otomatik Senkronizasyon"
-    subtitle="Senkronizasyon Yöneticisi, bulut depolamanızı ses dosyaları için otomatik olarak tarar ve müzik kitaplığınızı günceller. Meta Veri Yükleyici, gömülü ses etiketlerini kullanarak parçaları albümlere, sanatçılara ve türlere göre düzenler."
-    icon="refresh"
+    title="Medya Sunucuları ve NAS"
+    subtitle="Plex, Emby, Jellyfin, Subsonic ve Navidrome gibi kişisel medya kitaplıklarınıza ve ev sunucularınıza bağlanın. Synology, QNAP, Nextcloud ve WD My Cloud Home gibi NAS cihazlarınızı SMB, WebDAV, FTP, SFTP, NFS veya DLNA/UPnP üzerinden bağlayın ve tüm müzik koleksiyonunuza her yerden erişin."
+    icon="desktop-computer"
+    style="background: radial-gradient(ellipse at 50% 80%, rgba(59,130,246,0.15), hsla(0,0%,100%,0));"
+  >}}
+
+  {{< hextra/feature-card
+    title="Profesyonel Ses Motoru"
+    subtitle="Parçalar arasında gerçek boşluksuz oynatma ve akıcı crossfade geçişlerinin keyfini çıkarın. Sesinizi 10 bantlı ekolayzer, özel ön ayarlar ve preamp kazancı, ayarlanabilir oynatma hızı ve perde ile şekillendirin; ayrıca reverb, echo, chorus, flanger, bas güçlendirme, crossfeed ve ses seviyesi normalleştirme gibi eksiksiz bir stüdyo efektleri paketinden yararlanın."
+    icon="adjustments"
+    style="background: radial-gradient(ellipse at 50% 80%, rgba(192,38,211,0.15), hsla(0,0%,100%,0));"
+  >}}
+
+  {{< hextra/feature-card
+    title="Şarkı Sözleri, Widget'lar ve CarPlay"
+    subtitle="Müzikle birlikte zamanında kayan gömülü ve senkronize LRC şarkı sözlerini kilit ekranında, ana ekran widget'larında ve Apple CarPlay'de bile okuyun. Müziğinizi her zaman parmaklarınızın ucunda ve senkronize tutmak için Şimdi Çalınıyor, Şarkı Sözleri, Favoriler ve Son Çalınanlar widget'larını ekleyin."
+    icon="annotation"
     style="background: radial-gradient(ellipse at 50% 80%, rgba(6,182,212,0.15), hsla(0,0%,100%,0));"
   >}}
 
@@ -218,41 +218,47 @@ Evermusic, İspanyol yazılım şirketi Everappz tarafından geliştirilen iPhon
 
 {{< cards >}}
 
-  {{< feature-card title="Ses Formatları" subtitle="Desteklenen: mp3, m4a, flac, wav, aac, mp4, m3u, m3u8, m4b, m4p, aiff, ogg, mp2, ac3, wma ve daha fazlası." icon="music-note" >}}
+  {{< feature-card title="Tüm Ses Formatlarını Çalın" subtitle="Evermusic, MP3, AAC, M4A, WAV, AIFF, ALAC ve M4B dahil en popüler ses formatlarını çalar, böylece tüm müzik koleksiyonunuz her cihazda çalmaya hazırdır." icon="music-note" >}}
 
-  {{< feature-card title="Sesli Kitaplar" subtitle="Ses yer imleri, oynatma hızı kontrolü ve konum devam ettirme içerir." icon="book-open" width="50">}}
+  {{< feature-card title="Bulutunuzu Bağlayın" subtitle="Kitaplığınızı buluta taşıyarak ve iPhone alanını serbest bırakarak kendi akış hizmetinizi oluşturun. iCloud, Google Drive, Dropbox, OneDrive, MEGA, Internxt ve Proton Drive'ı bağlayın." icon="cloud" >}}
 
-  {{< feature-card title="Otomatik Senkronizasyon" subtitle="Müzik kitaplığınızı sanatçı, albüm ve türe göre düzenleyerek bulut ile senkronize eder." icon="refresh" >}}
+  {{< feature-card title="Medya Sunucularını Bağlayın" subtitle="Plex, Subsonic, Navidrome, Jellyfin ve Emby dahil kişisel medya sunucularınızı doğrudan kitaplığınıza bağlayın ve sahip olduğunuz her şeyi evden kolayca akış yapın." icon="server" >}}
 
-  {{< feature-card title="Dosya Yöneticisi" subtitle="Kopyalama, taşıma, yeniden adlandırma ve silme gibi işlemlerle dosyaları yönetin." icon="folder" >}}
+  {{< feature-card title="Bilgisayarınızı veya NAS'ınızı Bağlayın" subtitle="Bilgisayarınızı veya NAS'ınızı SMB, WebDAV, DLNA, FTP, SFTP ve NFS üzerinden, QNAP, Synology, Nextcloud ve WD My Cloud Home için yerel API'lerle bağlayın veya dosyaları Wi-Fi üzerinden aktarın." icon="desktop-computer" >}}
 
-  {{< feature-card title="Bulut Hizmetleri" subtitle="iCloud, Google Drive, Dropbox, OneDrive, Box, MEGA, WD MyCloud Home, pCloud ve daha fazlasını destekler." icon="cloud" >}}
+  {{< feature-card title="Çevrimdışı Müzik" subtitle="Favori şarkılarınızı, albümlerinizi ve sanatçılarınızı indirerek istediğiniz zaman çevrimdışı dinleyin. Son çalınan parçaları çevrimdışı dinleme için otomatik olarak kaydetmek üzere ses çalar önbelleğini etkinleştirin." icon="download" >}}
 
-  {{< feature-card title="Crossfade Oynatma" subtitle="Sonraki şarkı mevcut şarkı bitmeden başlar, kesintisiz geçişler sağlar." icon="switch-horizontal" >}}
+  {{< feature-card title="Ses Ekolayzeri" subtitle="Popüler müzik türleri için hazır ön ayarların yanı sıra her parçayı tam istediğiniz gibi ince ayarlamak ve güçlendirmek için manuel kontroller sunan yerleşik ekolayzer ile sesinizi şekillendirin." icon="adjustments" >}}
 
-  {{< feature-card title="Boşluksuz Oynatma" subtitle="Şarkılar arasında duraklama yok — canlı, klasik veya konsept albümler için ideal." icon="volume-up" >}}
+  {{< feature-card title="Boşluksuz Oynatma" subtitle="Şarkılar arasında hiç duraklama olmadan akıcı, kesintisiz oynatmanın keyfini çıkarın; canlı kayıtlar, konsept albümler, DJ mikleri ve klasik müzik için baştan sona idealdir." icon="volume-up" >}}
 
-  {{< feature-card title="Ses Ekolayzeri" subtitle="Ön ayarlar, manuel kontrol ve preamp kazancı ile özelleştirilebilir ekolayzir." icon="adjustments" >}}
+  {{< feature-card title="Crossfade Oynatma" subtitle="Crossfade ile müziği akışta tutun; her yeni şarkı, mevcut şarkı bitmeden yumuşakça başlar ve hiç sessiz boşluk olmadan sorunsuz, kesintisiz oynatma sağlar." icon="switch-horizontal" >}}
 
-  {{< feature-card title="Gelişmiş Arama" subtitle="Favori albümlerinizi, sanatçılarınızı ve parçalarınızı hızlı ve kolay bulun." icon="search" >}}
+  {{< feature-card title="Ses Efektleri" subtitle="Sesinizi yerleşik ses efektleriyle şekillendirin. Her parçayı aynı ses seviyesinde tutmak için ses seviyesi normalleştirmeyi açın ve zevkinize göre reverb, delay, distortion ve mekansal ses ekleyin." icon="chip" >}}
 
-  {{< feature-card title="Bilgisayar Erişimi" subtitle="SMB, WebDAV veya DLNA ile bağlanın. iTunes Dosya Paylaşımı ve Wi-Fi ile aktarın." icon="desktop-computer" >}}
+  {{< feature-card title="Müzik Görselleştirici" subtitle="Müziğinize gerçek zamanlı olarak canlı tepki veren tam ekran animasyonlu görselleri izleyin. Geniş bir ön ayar kitaplığından seçim yapın veya dinlerken otomatik olarak dönmelerine izin verin." icon="sparkles" >}}
 
-  {{< feature-card title="AirPlay ve Chromecast" subtitle="Apple TV ve Google Chromecast cihazlarına kablosuz olarak akış yapın." icon="device-mobile" >}}
+  {{< feature-card title="Şarkı Sözleri ve Yorumlar" subtitle="Ses parçalarınızın gömülü zamanlı şarkı sözlerini ve yorumlarını çalarken görüntüleyin ve hızlı, tek bakışta erişim için şarkı sözü widget'ını Ana Ekranınıza ekleyin." icon="annotation" >}}
 
-  {{< feature-card title="Çalma Listeleri" subtitle="M3U çalma listelerini çevrimdışı modda oluşturun, düzenleyin, yeniden sıralayın ve dışa/içe aktarın." icon="collection" >}}
+  {{< feature-card title="AirPlay ve Chromecast" subtitle="Zahmetsiz ev genelinde dinleme için yerleşik AirPlay ve Google Chromecast desteğiyle müziğinizi Apple TV'ye, akıllı hoparlörlere ve diğer cihazlara kablosuz olarak akış yapın." icon="device-mobile" >}}
 
-  {{< feature-card title="USB Flash Kartlar" subtitle="SanDisk iXpand gibi harici okuyucular kullanarak SD kartlardan doğrudan müzik çalın." icon="inbox" >}}
+  {{< feature-card title="Apple CarPlay" subtitle="Müziğinizi, çalma listelerinizi ve oynatma kontrollerinizi doğrudan aracınızın gösterge paneli ekranına getiren özel bir Apple CarPlay arayüzü ile güvenle sürün ve dinleyin." icon="truck" >}}
 
-  {{< feature-card title="Çevrimdışı Mod" subtitle="Albümleri ve çalma listelerini indirin veya çevrimdışı dinleme için son çalınan parçaları otomatik önbelleğe alın." icon="download" >}}
+  {{< feature-card title="Widget'lar" subtitle="Oynatma kuyruğunuza hızlı erişim için etkileşimli Ana Ekran widget'larını etkinleştirin ve tek dokunuşla son kaydedilen konumdan kaldığınız yerden devam edin." icon="view-grid" >}}
 
-  {{< feature-card title="Apple CarPlay" subtitle="Müzik oynatma için özel CarPlay arayüzü ile güvenle sürün." icon="truck" >}}
+  {{< feature-card title="Sesli Kitaplar" subtitle="Uygulamayı ses yer imleri, oynatma hızı kontrolü ve kaydedilen medya konumlarıyla tam bir sesli kitap çalarına dönüştürün; ayrıca dosyalarınızın meta verilerinde saklanan metin ayrıntılarını okuyun." icon="book-open" >}}
 
-  {{< feature-card title="ID3 Etiket Düzenleyici" subtitle="Yerleşik etiket düzenleyici ile bozuk veya eksik meta verileri düzenleyin." icon="pencil-alt" >}}
+  {{< feature-card title="Otomatik Senkronizasyon" subtitle="Müzik kitaplığınız bulut ile cihazınız arasında otomatik olarak senkronize olur ve her şarkıyı sanatçı, albüm ve türe göre düzenli bir şekilde gruplayarak koleksiyonunuzu her zaman düzenli tutar." icon="refresh" >}}
 
-  {{< feature-card title="Şarkı Sözleri ve Yorumlar" subtitle="Müziğinizi dinlerken gömülü şarkı sözlerini ve yorumları görüntüleyin." icon="annotation" >}}
+  {{< feature-card title="Çalma Listesi Yöneticisi" subtitle="Çalma listeleri oluşturun ve yönetin, şarkıları yeniden sıralayın ve herhangi bir çalma listesini çevrimdışı kullanılabilir yapın. Her şeyi düzenli tutmak için parçalarınızı ada, boyuta, şarkı numarasına veya albüme göre sıralayın." icon="collection" >}}
 
-  {{< feature-card title="Last.fm" subtitle="Kişiselleştirilmiş dinleme istatistikleri ve öneriler almak için Last.fm hesabınızı bağlayın." icon="chart-bar" >}}
+  {{< feature-card title="ID3 Etiket Düzenleyici" subtitle="Yerleşik ID3 etiket düzenleyici ile bozuk veya eksik meta verileri düzeltin; başlıkları, sanatçıları, albümleri ve daha fazlasını güncelleyerek müzik kitaplığınızı temiz ve düzenli tutun." icon="pencil-alt" >}}
+
+  {{< feature-card title="Dosya Yöneticisi" subtitle="Müziğinizi entegre dosya yöneticisiyle düzenleyin; tüm ses dosyalarınızı düzenli tutmak için kopyalama, taşıma, yeniden adlandırma ve silme gibi günlük işlemleri gerçekleştirin." icon="folder" >}}
+
+  {{< feature-card title="Gelişmiş Arama" subtitle="Akıllı arama motoruyla saniyeler içinde her şeyi bulun; favori albümlerinizi, sanatçılarınızı ve şarkılarınızı tüm müzik kitaplığınızın her yerinde hızlıca bulun." icon="search" >}}
+
+  {{< feature-card title="USB Flash Kartlar" subtitle="SanDisk iXpand gibi harici kart okuyucuları bağlayın ve müziğinizi doğrudan bir SD karttan veya USB flash sürücüden, ekstra senkronizasyon veya indirme gerekmeden dinleyin." icon="inbox" >}}
   
 {{< /cards >}}
 

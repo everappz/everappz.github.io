@@ -91,44 +91,44 @@ Evermusic 是一款适用于 iPhone 和 Mac 的免费离线音乐播放器，由
 {{< hextra/feature-grid >}}
 
   {{< hextra/feature-card
-    title="节省设备空间"
-    subtitle="多年来收藏了 100Gb 的音乐，但 iPhone 只有 32Gb 的存储空间？只需将所有曲目移至云端，为照片、视频和应用释放宝贵空间。"
-    icon="folder"
-    style="background: radial-gradient(ellipse at 50% 80%, rgba(59,130,246,0.15), hsla(0,0%,100%,0));"
-  >}}
-
-  {{< hextra/feature-card
-    title="即时访问曲目"
-    subtitle="Evermusic 支持最受欢迎的云服务，让您选择一个或多个服务并从云端串流音乐。无需 iTunes 同步，您的音频文件就像其他文件一样从 PC 或 Mac 上传到云端。"
-    icon="collection"
-    style="background: radial-gradient(ellipse at 50% 80%, rgba(192,38,211,0.15), hsla(0,0%,100%,0));"
-  >}}
-
-  {{< hextra/feature-card
-    title="离线模式"
-    subtitle="离线模式允许您下载喜爱的专辑、曲目、流派和播放列表以供离线播放，让您在没有网络连接时也能听音乐。"
-    icon="download"
-    style="background: radial-gradient(ellipse at 50% 80%, rgba(234,88,12,0.15), hsla(0,0%,100%,0));"
-  >}}
-
-  {{< hextra/feature-card
     title="您的云端音乐"
-    subtitle="免费创建您自己的高级音乐串流服务！管理您庞大的音乐库，节省设备存储空间，通过智能缓冲和无缝播放直接从云端串流您喜爱的曲目。支持 iCloud、Google Drive、Dropbox、MEGA.nz、Box、OneDrive 等热门云服务。"
+    subtitle="免费创建您自己的高级音乐串流服务！通过智能缓冲和无缝播放直接从云端串流您喜爱的曲目，同时节省设备存储空间。连接 iCloud Drive、Google Drive、Dropbox、OneDrive、Box、MEGA、pCloud、Proton Drive 等众多服务。"
     icon="cloud"
     style="background: radial-gradient(ellipse at 50% 80%, rgba(34,197,94,0.15), hsla(0,0%,100%,0));"
   >}}
 
   {{< hextra/feature-card
+    title="离线模式"
+    subtitle="离线模式让您下载喜爱的专辑、曲目、艺术家、流派和播放列表以供离线播放。无论在飞机上、地铁里还是没有网络的地方，即使未连接互联网，也能随时随地聆听，无需串流，不耗流量。"
+    icon="download"
+    style="background: radial-gradient(ellipse at 50% 80%, rgba(234,88,12,0.15), hsla(0,0%,100%,0));"
+  >}}
+
+  {{< hextra/feature-card
     title="轻松传输文件"
-    subtitle="连接您的 Mac 或 PC，直接从家用电脑串流音乐。使用 Wi-Fi Drive 或 iTunes 文件共享在电脑和 iOS 设备之间无缝传输音频文件。您还可以连接 NAS 或 USB 闪存驱动器，从任何地方访问您的音乐库。"
+    subtitle="连接您的 Mac 或 PC，直接从家用电脑串流音乐。使用 Wi-Fi Drive 或 iTunes File Sharing 在电脑和 iOS 设备之间无缝传输音频文件。您还可以连接 NAS 或 USB 闪存驱动器，随时随地访问您的音乐库。"
     icon="duplicate"
     style="background: radial-gradient(ellipse at 50% 80%, rgba(251,191,36,0.15), hsla(0,0%,100%,0));"
   >}}
 
   {{< hextra/feature-card
-    title="自动同步"
-    subtitle="同步管理器会自动扫描您的云存储中的音频文件并更新您的音乐库。元数据加载器使用嵌入的音频标签按专辑、艺术家和流派整理曲目。"
-    icon="refresh"
+    title="媒体服务器与 NAS"
+    subtitle="连接到您的个人媒体库和家庭服务器，如 Plex、Emby、Jellyfin、Subsonic 和 Navidrome。通过 SMB、WebDAV、FTP、SFTP、NFS 或 DLNA/UPnP 连接 Synology、QNAP、Nextcloud 和 WD My Cloud Home 等 NAS，随时随地访问您的整个音乐收藏。"
+    icon="desktop-computer"
+    style="background: radial-gradient(ellipse at 50% 80%, rgba(59,130,246,0.15), hsla(0,0%,100%,0));"
+  >}}
+
+  {{< hextra/feature-card
+    title="专业音频引擎"
+    subtitle="享受真正的无缝播放和曲目间流畅的交叉淡入淡出。使用 10 段均衡器、自定义预设和前置放大器增益塑造音质，调节播放速度和音调，还有全套录音室效果，如混响、回声、合唱、镶边、低音增强、交叉馈送和音量标准化。"
+    icon="adjustments"
+    style="background: radial-gradient(ellipse at 50% 80%, rgba(192,38,211,0.15), hsla(0,0%,100%,0));"
+  >}}
+
+  {{< hextra/feature-card
+    title="歌词、小组件与 CarPlay"
+    subtitle="阅读嵌入式和同步的 LRC 歌词，歌词随音乐实时滚动，甚至可在锁定屏幕、主屏幕小组件和 Apple CarPlay 上显示。添加正在播放、歌词、收藏和最近播放小组件，让您的音乐触手可及，始终保持同步。"
+    icon="annotation"
     style="background: radial-gradient(ellipse at 50% 80%, rgba(6,182,212,0.15), hsla(0,0%,100%,0));"
   >}}
 
@@ -218,41 +218,47 @@ Evermusic 是一款适用于 iPhone 和 Mac 的免费离线音乐播放器，由
 
 {{< cards >}}
 
-  {{< feature-card title="音频格式" subtitle="支持：mp3、m4a、flac、wav、aac、mp4、m3u、m3u8、m4b、m4p、aiff、ogg、mp2、ac3、wma 等。" icon="music-note" >}}
+  {{< feature-card title="播放所有音频格式" subtitle="Evermusic 可播放最受欢迎的音频格式，包括 MP3、AAC、M4A、WAV、AIFF、ALAC 和 M4B，让您的整个音乐收藏可在任何设备上播放。" icon="music-note" >}}
 
-  {{< feature-card title="有声书" subtitle="包含音频书签、播放速度控制和恢复播放位置功能。" icon="book-open" width="50">}}
+  {{< feature-card title="连接您的云端" subtitle="将您的音乐库迁移到云端，释放 iPhone 空间，打造您自己的串流服务。连接 iCloud、Google Drive、Dropbox、OneDrive、MEGA、Internxt 和 Proton Drive。" icon="cloud" >}}
 
-  {{< feature-card title="自动同步" subtitle="将您的音乐库与云端同步，按艺术家、专辑和流派整理。" icon="refresh" >}}
+  {{< feature-card title="连接媒体服务器" subtitle="将您的个人媒体服务器直接连接到音乐库，包括 Plex、Subsonic、Navidrome、Jellyfin 和 Emby，轻松从家中串流您拥有的一切。" icon="server" >}}
 
-  {{< feature-card title="文件管理器" subtitle="通过复制、移动、重命名和删除等操作管理文件。" icon="folder" >}}
+  {{< feature-card title="连接您的电脑或 NAS" subtitle="通过 SMB、WebDAV、DLNA、FTP、SFTP 和 NFS 连接您的电脑或 NAS，借助 QNAP、Synology、Nextcloud 和 WD My Cloud Home 的原生 API，或通过 Wi-Fi 传输文件。" icon="desktop-computer" >}}
 
-  {{< feature-card title="云服务" subtitle="支持 iCloud、Google Drive、Dropbox、OneDrive、Box、MEGA、WD MyCloud Home、pCloud 等。" icon="cloud" >}}
+  {{< feature-card title="离线音乐" subtitle="下载您喜爱的歌曲、专辑和艺术家，随时随地离线享受。启用音频播放器缓存，自动保存最近播放的曲目以供离线收听。" icon="download" >}}
 
-  {{< feature-card title="淡入淡出播放" subtitle="下一首歌在当前歌曲结束前开始播放，实现无缝过渡。" icon="switch-horizontal" >}}
+  {{< feature-card title="音频均衡器" subtitle="使用内置均衡器塑造音质，配备针对热门音乐流派的现成预设以及手动控制，可完全按您的喜好微调和放大每一首曲目。" icon="adjustments" >}}
 
-  {{< feature-card title="无缝播放" subtitle="歌曲之间无停顿——非常适合现场、古典或概念专辑。" icon="volume-up" >}}
+  {{< feature-card title="无缝播放" subtitle="享受流畅、不间断的播放，歌曲之间没有停顿，非常适合从头到尾完整聆听现场录音、概念专辑、DJ 混音和古典音乐。" icon="volume-up" >}}
 
-  {{< feature-card title="音频均衡器" subtitle="可自定义的均衡器，带预设、手动控制和前置放大器增益。" icon="adjustments" >}}
+  {{< feature-card title="交叉淡入淡出播放" subtitle="通过交叉淡入淡出让音乐持续流动，每首新歌在当前歌曲结束前轻柔地开始，实现无缝连续播放，没有任何静音间隙。" icon="switch-horizontal" >}}
 
-  {{< feature-card title="高级搜索" subtitle="快速轻松地找到您喜爱的专辑、艺术家和曲目。" icon="search" >}}
+  {{< feature-card title="音频效果" subtitle="使用内置音频效果塑造音质。开启音量标准化，让每一首曲目保持相同的响度，并按喜好添加混响、延迟、失真和空间音频。" icon="chip" >}}
 
-  {{< feature-card title="电脑访问" subtitle="通过 SMB、WebDAV 或 DLNA 连接。通过 iTunes 文件共享和 Wi-Fi 传输。" icon="desktop-computer" >}}
+  {{< feature-card title="音乐可视化" subtitle="观看全屏动画视觉效果，实时随您的音乐律动。从丰富的预设库中选择，或让它们在您聆听时自动循环切换。" icon="sparkles" >}}
 
-  {{< feature-card title="AirPlay 和 Chromecast" subtitle="无线串流到 Apple TV 和 Google Chromecast 设备。" icon="device-mobile" >}}
+  {{< feature-card title="歌词和注释" subtitle="在音频曲目播放时查看嵌入的定时歌词和注释，并将歌词小组件添加到主屏幕，随时一目了然地快速访问。" icon="annotation" >}}
 
-  {{< feature-card title="播放列表" subtitle="创建、编辑、重新排列，以及导出/导入 M3U 播放列表，支持离线模式。" icon="collection" >}}
+  {{< feature-card title="AirPlay 和 Chromecast" subtitle="借助内置的 AirPlay 和 Google Chromecast 支持，将您的音乐无线串流到 Apple TV、智能音箱和其他设备，轻松实现全屋聆听。" icon="device-mobile" >}}
 
-  {{< feature-card title="USB 闪存卡" subtitle="使用 SanDisk iXpand 等外部读卡器直接从 SD 卡播放音乐。" icon="inbox" >}}
+  {{< feature-card title="Apple CarPlay" subtitle="通过专用的 Apple CarPlay 界面安全驾驶并聆听，将您的音乐、播放列表和播放控制直接呈现在汽车仪表盘显示屏上。" icon="truck" >}}
 
-  {{< feature-card title="离线模式" subtitle="下载专辑和播放列表，或自动缓存最近播放的曲目以供离线收听。" icon="download" >}}
+  {{< feature-card title="小组件" subtitle="启用交互式主屏幕小组件，快速访问您的播放队列，只需轻点一下即可从上次保存的位置继续播放。" icon="view-grid" >}}
 
-  {{< feature-card title="Apple CarPlay" subtitle="通过专用的 CarPlay 界面安全驾驶并播放音乐。" icon="truck" >}}
+  {{< feature-card title="有声书" subtitle="借助音频书签、播放速度控制和已保存的媒体位置，将应用变为完整的有声书播放器，还可阅读文件元数据中存储的文本详情。" icon="book-open" >}}
 
-  {{< feature-card title="ID3 标签编辑器" subtitle="使用内置标签编辑器编辑损坏或缺失的元数据。" icon="pencil-alt" >}}
+  {{< feature-card title="自动同步" subtitle="您的音乐库在云端和设备之间自动同步，将每一首歌曲按艺术家、专辑和流派整齐分组，让您的收藏始终井井有条。" icon="refresh" >}}
 
-  {{< feature-card title="歌词和注释" subtitle="在听音乐时查看嵌入的歌词和注释。" icon="annotation" >}}
+  {{< feature-card title="播放列表管理器" subtitle="创建和管理播放列表，重新排列歌曲，并让任意播放列表可离线使用。按名称、大小、歌曲编号或专辑对曲目排序，让一切井然有序。" icon="collection" >}}
 
-  {{< feature-card title="Last.fm" subtitle="连接您的 Last.fm 账户，获取个性化的收听统计和推荐。" icon="chart-bar" >}}
+  {{< feature-card title="ID3 标签编辑器" subtitle="使用内置 ID3 标签编辑器修复损坏或缺失的元数据，更新标题、艺术家、专辑等信息，让您的音乐库保持整洁有序。" icon="pencil-alt" >}}
+
+  {{< feature-card title="文件管理器" subtitle="使用集成的文件管理器整理您的音乐，处理复制、移动、重命名和删除等日常操作，让所有音频文件井井有条。" icon="folder" >}}
+
+  {{< feature-card title="高级搜索" subtitle="借助智能搜索引擎在几秒内找到任何内容，在您的整个音乐库中快速定位您喜爱的专辑、艺术家和歌曲。" icon="search" >}}
+
+  {{< feature-card title="USB 闪存卡" subtitle="连接 SanDisk iXpand 等外部读卡器，直接从 SD 卡或 USB 闪存驱动器聆听音乐，无需额外同步或下载。" icon="inbox" >}}
   
 {{< /cards >}}
 

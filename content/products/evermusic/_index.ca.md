@@ -91,31 +91,17 @@ Evermusic és un reproductor de música gratuït sense connexió per a iPhone i 
 {{< hextra/feature-grid >}}
 
   {{< hextra/feature-card
-    title="Estalvia espai al dispositiu"
-    subtitle="Tens 100 GB de música recopilada durant anys però només 32 GB d'emmagatzematge a l'iPhone? Simplement mou totes les teves pistes al núvol i allibera espai valuós per a fotos, vídeos i aplicacions."
-    icon="folder"
-    style="background: radial-gradient(ellipse at 50% 80%, rgba(59,130,246,0.15), hsla(0,0%,100%,0));"
-  >}}
-
-  {{< hextra/feature-card
-    title="Accés instantani a les pistes"
-    subtitle="Amb suport dels serveis al núvol més populars, Evermusic et permet triar un o diversos serveis i transmetre la teva música des del núvol. Sense més sincronització d'iTunes, els teus fitxers d'àudio es pugen al núvol des del PC o Mac com qualsevol altre fitxer."
-    icon="collection"
-    style="background: radial-gradient(ellipse at 50% 80%, rgba(192,38,211,0.15), hsla(0,0%,100%,0));"
+    title="La teva música al núvol"
+    subtitle="Crea el teu propi servei avançat de streaming de música de franc! Transmet les teves pistes preferides directament des del núvol amb memòria cau intel·ligent i reproducció fluida mentre estalvies espai al dispositiu. Connecta serveis com iCloud Drive, Google Drive, Dropbox, OneDrive, Box, MEGA, pCloud, Proton Drive i molts més."
+    icon="cloud"
+    style="background: radial-gradient(ellipse at 50% 80%, rgba(34,197,94,0.15), hsla(0,0%,100%,0));"
   >}}
 
   {{< hextra/feature-card
     title="Mode sense connexió"
-    subtitle="El mode sense connexió et permet descarregar àlbums, pistes, gèneres i llistes de reproducció preferits per a la reproducció sense connexió i escoltar música quan no estàs connectat a Internet."
+    subtitle="El mode sense connexió et permet descarregar els teus àlbums, pistes, artistes, gèneres i llistes de reproducció preferits per reproduir-los sense connexió. Escolta a tot arreu, tant en un vol com al metro o en llocs remots, fins i tot quan no tens connexió a Internet, sense streaming ni consum de dades."
     icon="download"
     style="background: radial-gradient(ellipse at 50% 80%, rgba(234,88,12,0.15), hsla(0,0%,100%,0));"
-  >}}
-
-  {{< hextra/feature-card
-    title="La teva música al núvol"
-    subtitle="Crea el teu propi servei avançat de streaming de música gratis! Gestiona la teva enorme biblioteca musical, estalvia emmagatzematge del dispositiu i transmet les teves pistes preferides directament des del núvol amb memòria cau intel·ligent i reproducció sense interrupcions. Gaudeix del suport per a serveis al núvol populars com iCloud, Google Drive, Dropbox, MEGA.nz, Box, OneDrive i més."
-    icon="cloud"
-    style="background: radial-gradient(ellipse at 50% 80%, rgba(34,197,94,0.15), hsla(0,0%,100%,0));"
   >}}
 
   {{< hextra/feature-card
@@ -126,9 +112,23 @@ Evermusic és un reproductor de música gratuït sense connexió per a iPhone i 
   >}}
 
   {{< hextra/feature-card
-    title="Sincronització automàtica"
-    subtitle="El gestor de sincronització escaneja automàticament el teu emmagatzematge al núvol cercant fitxers d'àudio i actualitza la teva biblioteca musical. El carregador de metadades organitza les pistes per àlbums, artistes i gèneres utilitzant les etiquetes d'àudio integrades."
-    icon="refresh"
+    title="Servidors multimèdia i NAS"
+    subtitle="Connecta't a les teves biblioteques multimèdia personals i servidors domèstics com Plex, Emby, Jellyfin, Subsonic i Navidrome. Connecta el teu NAS com Synology, QNAP, Nextcloud i WD My Cloud Home mitjançant SMB, WebDAV, FTP, SFTP, NFS o DLNA/UPnP, i accedeix a tota la teva col·lecció de música des de qualsevol lloc."
+    icon="desktop-computer"
+    style="background: radial-gradient(ellipse at 50% 80%, rgba(59,130,246,0.15), hsla(0,0%,100%,0));"
+  >}}
+
+  {{< hextra/feature-card
+    title="Motor d'àudio professional"
+    subtitle="Gaudeix d'una reproducció realment sense pauses i un crossfade suau entre pistes. Modela el teu so amb un equalitzador de 10 bandes, presets personalitzats i guany de preamplificador, velocitat i to de reproducció ajustables, a més d'un conjunt complet d'efectes d'estudi com reverberació, eco, chorus, flanger, realçament de greus, crossfeed i normalització de volum."
+    icon="adjustments"
+    style="background: radial-gradient(ellipse at 50% 80%, rgba(192,38,211,0.15), hsla(0,0%,100%,0));"
+  >}}
+
+  {{< hextra/feature-card
+    title="Lletres, ginys i CarPlay"
+    subtitle="Llegeix lletres integrades i lletres sincronitzades LRC que es desplacen al ritme de la música, fins i tot a la pantalla de bloqueig, als ginys de la pantalla d'inici i a Apple CarPlay. Afegeix ginys de En reproducció, Lletres, Favorits i Reproduïts recentment per tenir la teva música sempre a l'abast i sincronitzada."
+    icon="annotation"
     style="background: radial-gradient(ellipse at 50% 80%, rgba(6,182,212,0.15), hsla(0,0%,100%,0));"
   >}}
 
@@ -218,41 +218,47 @@ Evermusic és un reproductor de música gratuït sense connexió per a iPhone i 
 
 {{< cards >}}
 
-  {{< feature-card title="Formats d'àudio" subtitle="Suporta: mp3, m4a, flac, wav, aac, mp4, m3u, m3u8, m4b, m4p, aiff, ogg, mp2, ac3, wma i més." icon="music-note" >}}
+  {{< feature-card title="Reprodueix tots els formats d'àudio" subtitle="Evermusic reprodueix els formats d'àudio més populars, com MP3, AAC, M4A, WAV, AIFF, ALAC i M4B, perquè tota la teva col·lecció musical estigui a punt per reproduir-se en qualsevol dispositiu." icon="music-note" >}}
 
-  {{< feature-card title="Audiollibres" subtitle="Inclou marcadors d'àudio, control de velocitat de reproducció i represa de posició." icon="book-open" width="50">}}
+  {{< feature-card title="Connecta el teu núvol" subtitle="Crea el teu propi servei de streaming movent la teva biblioteca al núvol i alliberant espai a l'iPhone. Connecta iCloud, Google Drive, Dropbox, OneDrive, MEGA, Internxt i Proton Drive." icon="cloud" >}}
 
-  {{< feature-card title="Sincronització automàtica" subtitle="Sincronitza la teva biblioteca musical amb el núvol, organitzada per artista, àlbum i gènere." icon="refresh" >}}
+  {{< feature-card title="Connecta servidors multimèdia" subtitle="Connecta els teus servidors multimèdia personals directament a la teva biblioteca, com Plex, Subsonic, Navidrome, Jellyfin i Emby, i transmet des de casa tot el que tens amb facilitat." icon="server" >}}
 
-  {{< feature-card title="Gestor de fitxers" subtitle="Gestiona fitxers amb operacions com copiar, moure, reanomenar i eliminar." icon="folder" >}}
+  {{< feature-card title="Connecta el teu ordinador o NAS" subtitle="Connecta el teu ordinador o NAS mitjançant SMB, WebDAV, DLNA, FTP, SFTP i NFS, amb API natives per a QNAP, Synology, Nextcloud i WD My Cloud Home, o transfereix fitxers per Wi-Fi." icon="desktop-computer" >}}
 
-  {{< feature-card title="Serveis al núvol" subtitle="Suporta iCloud, Google Drive, Dropbox, OneDrive, Box, MEGA, WD MyCloud Home, pCloud i més." icon="cloud" >}}
+  {{< feature-card title="Música sense connexió" subtitle="Descarrega les teves cançons, àlbums i artistes preferits per gaudir-los sense connexió en qualsevol moment. Activa la memòria cau del reproductor d'àudio per desar automàticament les pistes reproduïdes recentment i escoltar-les sense connexió." icon="download" >}}
 
-  {{< feature-card title="Reproducció amb crossfade" subtitle="La cançó següent comença abans que acabi l'actual per a transicions sense interrupcions." icon="switch-horizontal" >}}
+  {{< feature-card title="Equalitzador d'àudio" subtitle="Modela el teu so amb l'equalitzador integrat, amb presets a punt per als gèneres musicals més populars i controls manuals per ajustar i amplificar cada pista exactament com t'agrada." icon="adjustments" >}}
 
-  {{< feature-card title="Reproducció sense pauses" subtitle="Sense pauses entre cançons — ideal per a àlbums en directe, clàssics o conceptuals." icon="volume-up" >}}
+  {{< feature-card title="Reproducció sense pauses" subtitle="Gaudeix d'una reproducció fluida i ininterrompuda, sense pauses entre cançons, perfecta per a enregistraments en directe, àlbums conceptuals, sessions de DJ i música clàssica de principi a fi." icon="volume-up" >}}
 
-  {{< feature-card title="Equalitzador d'àudio" subtitle="Equalitzador personalitzable amb presets, control manual i guany de preamplificador." icon="adjustments" >}}
+  {{< feature-card title="Reproducció amb crossfade" subtitle="Mantén la música en flux amb el crossfade, on cada cançó nova comença suaument abans que acabi l'actual per a una reproducció contínua i sense pauses silencioses." icon="switch-horizontal" >}}
 
-  {{< feature-card title="Cerca avançada" subtitle="Troba els teus àlbums, artistes i pistes preferits ràpidament i fàcilment." icon="search" >}}
+  {{< feature-card title="Efectes d'àudio" subtitle="Modela el teu so amb efectes d'àudio integrats. Activa la normalització de volum per mantenir totes les pistes al mateix nivell de volum, i afegeix reverberació, retard, distorsió i àudio espacial al teu gust." icon="chip" >}}
 
-  {{< feature-card title="Accés a l'ordinador" subtitle="Connecta via SMB, WebDAV o DLNA. Transfereix via iTunes File Sharing i Wi-Fi." icon="desktop-computer" >}}
+  {{< feature-card title="Visualitzador de música" subtitle="Contempla visuals animats a pantalla completa que reaccionen en directe a la teva música en temps real. Tria entre una gran biblioteca de presets o deixa'ls canviar automàticament mentre escoltes." icon="sparkles" >}}
 
-  {{< feature-card title="AirPlay i Chromecast" subtitle="Transmet a dispositius Apple TV i Google Chromecast sense fils." icon="device-mobile" >}}
+  {{< feature-card title="Lletres i comentaris" subtitle="Visualitza les lletres i els comentaris temporitzats integrats de les teves pistes d'àudio mentre es reprodueixen, i afegeix el giny de lletres a la pantalla d'inici per accedir-hi ràpidament d'un cop d'ull." icon="annotation" >}}
 
-  {{< feature-card title="Llistes de reproducció" subtitle="Crea, edita, reordena i exporta/importa llistes de reproducció M3U amb mode sense connexió." icon="collection" >}}
+  {{< feature-card title="AirPlay i Chromecast" subtitle="Transmet la teva música sense fils a Apple TV, altaveus intel·ligents i altres dispositius amb el suport integrat d'AirPlay i Google Chromecast per a una escolta a tota la casa sense esforç." icon="device-mobile" >}}
 
-  {{< feature-card title="Targetes de memòria USB" subtitle="Reprodueix música directament des de targetes SD amb lectors externs com SanDisk iXpand." icon="inbox" >}}
+  {{< feature-card title="Apple CarPlay" subtitle="Condueix i escolta amb seguretat amb una interfície dedicada d'Apple CarPlay que posa la teva música, llistes de reproducció i controls de reproducció a la pantalla del tauler del cotxe." icon="truck" >}}
 
-  {{< feature-card title="Mode sense connexió" subtitle="Descarrega àlbums i llistes de reproducció o emmagatzema automàticament les pistes reproduïdes recentment per escoltar sense connexió." icon="download" >}}
+  {{< feature-card title="Ginys" subtitle="Activa ginys interactius a la pantalla d'inici per accedir ràpidament a la teva cua de reproducció, i continua just on ho vas deixar des de l'última posició desada amb un sol toc." icon="view-grid" >}}
 
-  {{< feature-card title="Apple CarPlay" subtitle="Condueix amb seguretat amb una interfície CarPlay dedicada per a la reproducció de música." icon="truck" >}}
+  {{< feature-card title="Audiollibres" subtitle="Converteix l'aplicació en un reproductor d'audiollibres complet amb marcadors d'àudio, control de velocitat de reproducció i posicions multimèdia desades, a més de llegir els detalls de text emmagatzemats a les metadades dels teus fitxers." icon="book-open" >}}
 
-  {{< feature-card title="Editor d'etiquetes ID3" subtitle="Edita metadades danyades o que falten amb l'editor d'etiquetes integrat." icon="pencil-alt" >}}
+  {{< feature-card title="Sincronització automàtica" subtitle="La teva biblioteca musical se sincronitza automàticament entre el núvol i el teu dispositiu, agrupant ordenadament cada cançó per artista, àlbum i gènere perquè la teva col·lecció sempre estigui organitzada." icon="refresh" >}}
 
-  {{< feature-card title="Lletres i comentaris" subtitle="Visualitza les lletres i comentaris integrats mentre escoltes la teva música." icon="annotation" >}}
+  {{< feature-card title="Gestor de llistes de reproducció" subtitle="Crea i gestiona llistes de reproducció, reordena cançons i fes que qualsevol llista de reproducció estigui disponible sense connexió. Ordena les teves pistes per nom, mida, número de cançó o àlbum per mantenir-ho tot en ordre." icon="collection" >}}
 
-  {{< feature-card title="Last.fm" subtitle="Connecta el teu compte de Last.fm per obtenir estadístiques d'escolta personalitzades i recomanacions." icon="chart-bar" >}}
+  {{< feature-card title="Editor d'etiquetes ID3" subtitle="Corregeix les metadades danyades o que falten amb l'editor d'etiquetes ID3 integrat, actualitzant títols, artistes, àlbums i molt més perquè la teva biblioteca musical es mantingui neta i ben organitzada." icon="pencil-alt" >}}
+
+  {{< feature-card title="Gestor de fitxers" subtitle="Organitza la teva música amb el gestor de fitxers integrat, que s'encarrega de les operacions quotidianes com copiar, moure, reanomenar i eliminar per mantenir tots els teus fitxers d'àudio ben ordenats." icon="folder" >}}
+
+  {{< feature-card title="Cerca avançada" subtitle="Troba qualsevol cosa en segons amb el motor de cerca intel·ligent, localitzant ràpidament els teus àlbums, artistes i cançons preferits a tota la teva biblioteca musical." icon="search" >}}
+
+  {{< feature-card title="Targetes de memòria USB" subtitle="Connecta lectors de targetes externs com el SanDisk iXpand i escolta la teva música directament des d'una targeta SD o una memòria USB, sense cap sincronització ni descàrrega addicional." icon="inbox" >}}
   
 {{< /cards >}}
 

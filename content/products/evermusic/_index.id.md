@@ -91,31 +91,17 @@ Evermusic adalah pemutar musik offline gratis untuk iPhone dan Mac yang dikemban
 {{< hextra/feature-grid >}}
 
   {{< hextra/feature-card
-    title="Hemat Ruang di Perangkat"
-    subtitle="Punya 100GB musik yang dikumpulkan bertahun-tahun tapi hanya 32GB penyimpanan di iPhone? Cukup pindahkan semua lagu ke cloud dan bebaskan ruang berharga untuk foto, video, dan aplikasi."
-    icon="folder"
-    style="background: radial-gradient(ellipse at 50% 80%, rgba(59,130,246,0.15), hsla(0,0%,100%,0));"
-  >}}
-
-  {{< hextra/feature-card
-    title="Akses Instan ke Lagu"
-    subtitle="Dengan dukungan layanan cloud paling populer, Evermusic memungkinkan Anda memilih satu atau beberapa layanan dan streaming musik dari cloud. Tidak perlu lagi sinkronisasi iTunes, file audio Anda diunggah ke cloud dari PC atau Mac seperti file lainnya."
-    icon="collection"
-    style="background: radial-gradient(ellipse at 50% 80%, rgba(192,38,211,0.15), hsla(0,0%,100%,0));"
+    title="Musik Anda di Cloud"
+    subtitle="Buat layanan streaming musik canggih Anda sendiri secara gratis! Streaming lagu favorit langsung dari cloud dengan buffering cerdas dan pemutaran mulus sekaligus menghemat penyimpanan perangkat. Hubungkan layanan seperti iCloud Drive, Google Drive, Dropbox, OneDrive, Box, MEGA, pCloud, Proton Drive, dan banyak lagi."
+    icon="cloud"
+    style="background: radial-gradient(ellipse at 50% 80%, rgba(34,197,94,0.15), hsla(0,0%,100%,0));"
   >}}
 
   {{< hextra/feature-card
     title="Mode Offline"
-    subtitle="Mode offline memungkinkan Anda mengunduh album, lagu, genre, dan playlist favorit untuk pemutaran offline dan mendengarkan musik saat tidak terhubung ke Internet."
+    subtitle="Mode offline memungkinkan Anda mengunduh album, lagu, artis, genre, dan playlist favorit untuk pemutaran offline. Dengarkan di mana saja, baik saat penerbangan, di kereta bawah tanah, atau di luar jangkauan, bahkan ketika tidak terhubung ke Internet, tanpa streaming dan tanpa penggunaan data."
     icon="download"
     style="background: radial-gradient(ellipse at 50% 80%, rgba(234,88,12,0.15), hsla(0,0%,100%,0));"
-  >}}
-
-  {{< hextra/feature-card
-    title="Musik Anda di Cloud"
-    subtitle="Buat layanan streaming musik canggih Anda sendiri secara gratis! Kelola perpustakaan musik besar Anda, hemat penyimpanan perangkat, dan streaming lagu favorit langsung dari cloud dengan buffering cerdas dan pemutaran mulus. Nikmati dukungan untuk layanan cloud populer seperti iCloud, Google Drive, Dropbox, MEGA.nz, Box, OneDrive, dan lainnya."
-    icon="cloud"
-    style="background: radial-gradient(ellipse at 50% 80%, rgba(34,197,94,0.15), hsla(0,0%,100%,0));"
   >}}
 
   {{< hextra/feature-card
@@ -126,9 +112,23 @@ Evermusic adalah pemutar musik offline gratis untuk iPhone dan Mac yang dikemban
   >}}
 
   {{< hextra/feature-card
-    title="Sinkronisasi Otomatis"
-    subtitle="Sync Manager secara otomatis memindai penyimpanan cloud Anda untuk file audio dan memperbarui perpustakaan musik. Metadata Loader mengorganisir lagu berdasarkan album, artis, dan genre menggunakan tag audio tertanam."
-    icon="refresh"
+    title="Server Media & NAS"
+    subtitle="Terhubung ke perpustakaan media pribadi dan server rumah Anda seperti Plex, Emby, Jellyfin, Subsonic, dan Navidrome. Hubungkan NAS Anda seperti Synology, QNAP, Nextcloud, dan WD My Cloud Home melalui SMB, WebDAV, FTP, SFTP, NFS, atau DLNA/UPnP, dan akses seluruh koleksi musik Anda dari mana saja."
+    icon="desktop-computer"
+    style="background: radial-gradient(ellipse at 50% 80%, rgba(59,130,246,0.15), hsla(0,0%,100%,0));"
+  >}}
+
+  {{< hextra/feature-card
+    title="Mesin Audio Pro"
+    subtitle="Nikmati pemutaran tanpa jeda yang sesungguhnya dan crossfade halus antar lagu. Bentuk suara Anda dengan equalizer 10-band, preset kustom dan gain preamp, kecepatan pemutaran dan pitch yang dapat disesuaikan, plus rangkaian lengkap efek studio seperti reverb, echo, chorus, flanger, bass boost, crossfeed, dan normalisasi volume."
+    icon="adjustments"
+    style="background: radial-gradient(ellipse at 50% 80%, rgba(192,38,211,0.15), hsla(0,0%,100%,0));"
+  >}}
+
+  {{< hextra/feature-card
+    title="Lirik, Widget & CarPlay"
+    subtitle="Baca lirik LRC tertanam dan tersinkronisasi yang bergulir seiring irama musik, bahkan di layar kunci, di widget layar utama, dan di Apple CarPlay. Tambahkan widget Sedang Diputar, Lirik, Favorit, dan Baru Diputar agar musik Anda selalu dalam jangkauan, selalu tersinkron."
+    icon="annotation"
     style="background: radial-gradient(ellipse at 50% 80%, rgba(6,182,212,0.15), hsla(0,0%,100%,0));"
   >}}
 
@@ -218,41 +218,47 @@ Evermusic adalah pemutar musik offline gratis untuk iPhone dan Mac yang dikemban
 
 {{< cards >}}
 
-  {{< feature-card title="Format Audio" subtitle="Mendukung: mp3, m4a, flac, wav, aac, mp4, m3u, m3u8, m4b, m4p, aiff, ogg, mp2, ac3, wma, dan lainnya." icon="music-note" >}}
+  {{< feature-card title="Putar Semua Format Audio" subtitle="Evermusic memutar format audio paling populer, termasuk MP3, AAC, M4A, WAV, AIFF, ALAC, dan M4B, sehingga seluruh koleksi musik Anda siap diputar di perangkat mana pun." icon="music-note" >}}
 
-  {{< feature-card title="Buku Audio" subtitle="Termasuk penanda audio, kontrol kecepatan pemutaran, dan posisi lanjutan." icon="book-open" width="50">}}
+  {{< feature-card title="Hubungkan Cloud Anda" subtitle="Bangun layanan streaming Anda sendiri dengan memindahkan perpustakaan ke cloud dan membebaskan ruang iPhone. Hubungkan iCloud, Google Drive, Dropbox, OneDrive, MEGA, Internxt, dan Proton Drive." icon="cloud" >}}
 
-  {{< feature-card title="Sinkronisasi Otomatis" subtitle="Sinkronkan perpustakaan musik Anda dengan cloud, diorganisir berdasarkan artis, album, dan genre." icon="refresh" >}}
+  {{< feature-card title="Hubungkan Server Media" subtitle="Hubungkan server media pribadi Anda langsung ke perpustakaan, termasuk Plex, Subsonic, Navidrome, Jellyfin, dan Emby, dan streaming semua yang Anda miliki dari rumah dengan mudah." icon="server" >}}
 
-  {{< feature-card title="Manajer File" subtitle="Kelola file dengan operasi seperti salin, pindah, ganti nama, dan hapus." icon="folder" >}}
+  {{< feature-card title="Hubungkan Komputer atau NAS Anda" subtitle="Hubungkan komputer atau NAS Anda melalui SMB, WebDAV, DLNA, FTP, SFTP, dan NFS, dengan API asli untuk QNAP, Synology, Nextcloud, dan WD My Cloud Home, atau transfer file melalui Wi-Fi." icon="desktop-computer" >}}
 
-  {{< feature-card title="Layanan Cloud" subtitle="Mendukung iCloud, Google Drive, Dropbox, OneDrive, Box, MEGA, WD MyCloud Home, pCloud, dan lainnya." icon="cloud" >}}
+  {{< feature-card title="Musik Offline" subtitle="Unduh lagu, album, dan artis favorit Anda untuk dinikmati secara offline kapan saja. Aktifkan cache pemutar audio untuk menyimpan lagu yang baru diputar secara otomatis agar bisa didengarkan offline." icon="download" >}}
 
-  {{< feature-card title="Pemutaran Crossfade" subtitle="Lagu berikutnya dimulai sebelum yang sedang diputar berakhir untuk transisi yang mulus." icon="switch-horizontal" >}}
+  {{< feature-card title="Equalizer Audio" subtitle="Bentuk suara Anda dengan equalizer bawaan, dilengkapi preset siap pakai untuk genre musik populer plus kontrol manual untuk menyempurnakan dan memperkuat setiap lagu persis seperti yang Anda inginkan." icon="adjustments" >}}
 
-  {{< feature-card title="Pemutaran Tanpa Jeda" subtitle="Tidak ada jeda antar lagu — ideal untuk album live, klasik, atau konsep." icon="volume-up" >}}
+  {{< feature-card title="Pemutaran Tanpa Jeda" subtitle="Nikmati pemutaran yang mulus dan tanpa gangguan tanpa jeda antar lagu, sempurna untuk rekaman live, album konseptual, DJ mix, dan musik klasik dari awal hingga akhir." icon="volume-up" >}}
 
-  {{< feature-card title="Equalizer Audio" subtitle="Equalizer yang dapat disesuaikan dengan preset, kontrol manual, dan gain preamp." icon="adjustments" >}}
+  {{< feature-card title="Pemutaran Crossfade" subtitle="Jaga musik tetap mengalir dengan crossfade, di mana setiap lagu baru dimulai perlahan sebelum lagu yang sedang diputar berakhir untuk pemutaran yang mulus dan berkelanjutan tanpa jeda hening." icon="switch-horizontal" >}}
 
-  {{< feature-card title="Pencarian Lanjutan" subtitle="Temukan album, artis, dan lagu favorit Anda dengan cepat dan mudah." icon="search" >}}
+  {{< feature-card title="Efek Audio" subtitle="Bentuk suara Anda dengan efek audio bawaan. Aktifkan normalisasi volume agar setiap lagu berada pada tingkat kekerasan yang sama, dan tambahkan reverb, delay, distortion, dan spatial audio sesuai selera." icon="chip" >}}
 
-  {{< feature-card title="Akses Komputer" subtitle="Hubungkan melalui SMB, WebDAV, atau DLNA. Transfer melalui iTunes File Sharing dan Wi-Fi." icon="desktop-computer" >}}
+  {{< feature-card title="Visualizer Musik" subtitle="Saksikan visual animasi layar penuh yang bereaksi secara langsung terhadap musik Anda secara real time. Pilih dari pustaka preset yang luas atau biarkan berputar otomatis saat Anda mendengarkan." icon="sparkles" >}}
 
-  {{< feature-card title="AirPlay & Chromecast" subtitle="Streaming ke perangkat Apple TV dan Google Chromecast secara nirkabel." icon="device-mobile" >}}
+  {{< feature-card title="Lirik dan Komentar" subtitle="Lihat lirik dan komentar berwaktu tertanam untuk lagu audio Anda saat diputar, dan tambahkan widget lirik ke Layar Utama untuk akses cepat sekilas kapan saja." icon="annotation" >}}
 
-  {{< feature-card title="Playlist" subtitle="Buat, edit, urutkan ulang, dan ekspor/impor playlist M3U dengan mode offline." icon="collection" >}}
+  {{< feature-card title="AirPlay & Chromecast" subtitle="Streaming musik Anda secara nirkabel ke Apple TV, speaker pintar, dan perangkat lainnya dengan dukungan AirPlay dan Google Chromecast bawaan untuk mendengarkan di seluruh rumah tanpa repot." icon="device-mobile" >}}
 
-  {{< feature-card title="Kartu Flash USB" subtitle="Putar musik langsung dari kartu SD menggunakan pembaca eksternal seperti SanDisk iXpand." icon="inbox" >}}
+  {{< feature-card title="Apple CarPlay" subtitle="Berkendara dan mendengarkan dengan aman melalui antarmuka Apple CarPlay khusus yang menempatkan musik, playlist, dan kontrol pemutaran Anda langsung di layar dasbor mobil." icon="truck" >}}
 
-  {{< feature-card title="Mode Offline" subtitle="Unduh album dan playlist atau cache otomatis lagu yang baru diputar untuk mendengarkan offline." icon="download" >}}
+  {{< feature-card title="Widget" subtitle="Aktifkan widget interaktif di Layar Utama untuk akses cepat ke antrian pemutaran Anda, dan lanjutkan tepat dari tempat Anda berhenti dari posisi terakhir yang tersimpan dengan sekali ketuk." icon="view-grid" >}}
 
-  {{< feature-card title="Apple CarPlay" subtitle="Berkendara dengan aman menggunakan UI CarPlay khusus untuk pemutaran musik." icon="truck" >}}
+  {{< feature-card title="Buku Audio" subtitle="Ubah aplikasi menjadi pemutar buku audio lengkap dengan penanda audio, kontrol kecepatan pemutaran, dan posisi media tersimpan, plus baca detail teks yang tersimpan di metadata file Anda." icon="book-open" >}}
 
-  {{< feature-card title="Editor Tag ID3" subtitle="Edit metadata yang rusak atau hilang menggunakan editor tag bawaan." icon="pencil-alt" >}}
+  {{< feature-card title="Sinkronisasi Otomatis" subtitle="Perpustakaan musik Anda tersinkron otomatis antara cloud dan perangkat Anda, mengelompokkan setiap lagu dengan rapi berdasarkan artis, album, dan genre sehingga koleksi Anda selalu tertata." icon="refresh" >}}
 
-  {{< feature-card title="Lirik dan Komentar" subtitle="Lihat lirik dan komentar tertanam saat mendengarkan musik Anda." icon="annotation" >}}
+  {{< feature-card title="Manajer Playlist" subtitle="Buat dan kelola playlist, urutkan ulang lagu, dan buat playlist mana pun tersedia offline. Urutkan lagu berdasarkan nama, ukuran, nomor lagu, atau album agar semuanya tetap teratur." icon="collection" >}}
 
-  {{< feature-card title="Last.fm" subtitle="Hubungkan akun Last.fm Anda untuk mendapatkan statistik mendengarkan dan rekomendasi personal." icon="chart-bar" >}}
+  {{< feature-card title="Editor Tag ID3" subtitle="Perbaiki metadata yang rusak atau hilang dengan editor tag ID3 bawaan, memperbarui judul, artis, album, dan lainnya agar perpustakaan musik Anda tetap bersih dan tertata rapi." icon="pencil-alt" >}}
+
+  {{< feature-card title="Manajer File" subtitle="Atur musik Anda dengan manajer file terintegrasi, menangani operasi sehari-hari seperti salin, pindah, ganti nama, dan hapus agar semua file audio Anda tetap tertata rapi." icon="folder" >}}
+
+  {{< feature-card title="Pencarian Lanjutan" subtitle="Temukan apa pun dalam hitungan detik dengan mesin pencarian cerdas, menemukan album, artis, dan lagu favorit Anda dengan cepat di seluruh perpustakaan musik Anda." icon="search" >}}
+
+  {{< feature-card title="Kartu Flash USB" subtitle="Hubungkan pembaca kartu eksternal seperti SanDisk iXpand dan dengarkan musik Anda langsung dari kartu SD atau flash drive USB, tanpa sinkronisasi atau unduhan tambahan." icon="inbox" >}}
   
 {{< /cards >}}
 

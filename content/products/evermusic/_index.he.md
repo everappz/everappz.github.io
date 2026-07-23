@@ -91,44 +91,44 @@ Evermusic הוא נגן מוזיקה חינמי במצב לא מקוון ל-iPho
 {{< hextra/feature-grid >}}
 
   {{< hextra/feature-card
-    title="חסוך מקום במכשיר"
-    subtitle="יש לך 100GB של מוזיקה שנאספה לאורך שנים אבל רק 32GB של אחסון באייפון? פשוט העבר את כל השירים לענן ושחרר מקום יקר לתמונות, סרטונים ואפליקציות."
-    icon="folder"
-    style="background: radial-gradient(ellipse at 50% 80%, rgba(59,130,246,0.15), hsla(0,0%,100%,0));"
-  >}}
-
-  {{< hextra/feature-card
-    title="גישה מיידית לשירים"
-    subtitle="עם תמיכה בשירותי הענן הפופולריים ביותר, Evermusic מאפשר לך לבחור שירות אחד או יותר ולהזרים את המוזיקה שלך מהענן. אין יותר סנכרון iTunes, קבצי האודיו שלך מועלים לענן מ-PC או Mac כמו כל קובץ אחר."
-    icon="collection"
-    style="background: radial-gradient(ellipse at 50% 80%, rgba(192,38,211,0.15), hsla(0,0%,100%,0));"
-  >}}
-
-  {{< hextra/feature-card
-    title="מצב אופליין"
-    subtitle="מצב אופליין מאפשר לך להוריד אלבומים, שירים, ז'אנרים ופלייליסטים מועדפים לנגינה אופליין ולהאזין למוזיקה כשאינך מחובר לאינטרנט."
-    icon="download"
-    style="background: radial-gradient(ellipse at 50% 80%, rgba(234,88,12,0.15), hsla(0,0%,100%,0));"
-  >}}
-
-  {{< hextra/feature-card
     title="המוזיקה שלך בענן"
-    subtitle="צור שירות הזרמת מוזיקה מתקדם משלך בחינם! נהל את ספריית המוזיקה הגדולה שלך, חסוך באחסון המכשיר והזרם את השירים המועדפים עליך ישירות מהענן עם אגירה חכמה ונגינה חלקה. תיהנה מתמיכה בשירותי ענן פופולריים כמו iCloud, Google Drive, Dropbox, MEGA.nz, Box, OneDrive ועוד."
+    subtitle="צור לעצמך שירות הזרמת מוזיקה מתקדם בחינם! הזרם את הרצועות המועדפות עליך ישירות מהענן עם אגירה חכמה ונגינה חלקה, תוך חיסכון באחסון המכשיר. חבר שירותים כמו iCloud Drive, Google Drive, Dropbox, OneDrive, Box, MEGA, pCloud, Proton Drive ועוד רבים."
     icon="cloud"
     style="background: radial-gradient(ellipse at 50% 80%, rgba(34,197,94,0.15), hsla(0,0%,100%,0));"
   >}}
 
   {{< hextra/feature-card
+    title="מצב אופליין"
+    subtitle="מצב אופליין מאפשר לך להוריד את האלבומים, הרצועות, האמנים, הז'אנרים והפלייליסטים המועדפים עליך לנגינה אופליין. האזן בכל מקום, בין אם בטיסה, ברכבת התחתית או הרחק מכיסוי רשת, גם כשאינך מחובר לאינטרנט, ללא הזרמה וללא צריכת נתונים."
+    icon="download"
+    style="background: radial-gradient(ellipse at 50% 80%, rgba(234,88,12,0.15), hsla(0,0%,100%,0));"
+  >}}
+
+  {{< hextra/feature-card
     title="העבר קבצים בקלות"
-    subtitle="חבר את ה-Mac או PC שלך והזרם מוזיקה ישירות מהמחשב הביתי שלך. העבר קבצי אודיו בצורה חלקה בין המחשב למכשיר ה-iOS באמצעות Wi-Fi Drive או iTunes File Sharing. ניתן גם לחבר NAS או כונן USB ולגשת לספרייה שלך מכל מקום."
+    subtitle="חבר את ה-Mac או ה-PC שלך והזרם מוזיקה ישירות מהמחשב הביתי שלך. העבר קבצי אודיו בצורה חלקה בין המחשב למכשיר ה-iOS באמצעות Wi-Fi Drive או iTunes File Sharing. ניתן גם לחבר NAS או כונן USB ולגשת לספרייה שלך מכל מקום."
     icon="duplicate"
     style="background: radial-gradient(ellipse at 50% 80%, rgba(251,191,36,0.15), hsla(0,0%,100%,0));"
   >}}
 
   {{< hextra/feature-card
-    title="סנכרון אוטומטי"
-    subtitle="מנהל הסנכרון סורק אוטומטית את אחסון הענן שלך לאיתור קבצי אודיו ומעדכן את ספריית המוזיקה שלך. טוען המטא-דאטה מארגן שירים לפי אלבומים, אמנים וז'אנרים באמצעות תגיות אודיו מוטמעות."
-    icon="refresh"
+    title="שרתי מדיה ו-NAS"
+    subtitle="התחבר לספריות המדיה האישיות ולשרתים הביתיים שלך כמו Plex, Emby, Jellyfin, Subsonic ו-Navidrome. חבר את ה-NAS שלך כגון Synology, QNAP, Nextcloud ו-WD My Cloud Home דרך SMB, WebDAV, FTP, SFTP, NFS או DLNA/UPnP, וגש לכל אוסף המוזיקה שלך מכל מקום."
+    icon="desktop-computer"
+    style="background: radial-gradient(ellipse at 50% 80%, rgba(59,130,246,0.15), hsla(0,0%,100%,0));"
+  >}}
+
+  {{< hextra/feature-card
+    title="מנוע אודיו מקצועי"
+    subtitle="תיהנה מנגינה אמיתית ללא הפסקות וממעבר קרוספייד חלק בין רצועות. עצב את הצליל שלך עם אקולייזר של 10 פסים, פריסטים מותאמים אישית וחיזוק קדם-מגבר, מהירות נגינה וגובה צליל הניתנים להתאמה, וכן מערך מלא של אפקטי אולפן כמו הדהוד, הד, מקהלה, פלנג'ר, הגברת באסים, קרוספיד ונרמול עוצמת קול."
+    icon="adjustments"
+    style="background: radial-gradient(ellipse at 50% 80%, rgba(192,38,211,0.15), hsla(0,0%,100%,0));"
+  >}}
+
+  {{< hextra/feature-card
+    title="מילות שירים, ווידג'טים ו-CarPlay"
+    subtitle="קרא מילות שירים מוטמעות ומסונכרנות בפורמט LRC שנגללות בזמן אמת עם המוזיקה, גם במסך הנעילה, בווידג'טים של מסך הבית וב-Apple CarPlay. הוסף ווידג'טים של מתנגן כעת, מילות שירים, מועדפים ונוגנו לאחרונה כדי לשמור על המוזיקה שלך בהישג יד, תמיד מסונכרנת."
+    icon="annotation"
     style="background: radial-gradient(ellipse at 50% 80%, rgba(6,182,212,0.15), hsla(0,0%,100%,0));"
   >}}
 
@@ -218,41 +218,47 @@ Evermusic הוא נגן מוזיקה חינמי במצב לא מקוון ל-iPho
 
 {{< cards >}}
 
-  {{< feature-card title="פורמטי אודיו" subtitle="תומך ב: mp3, m4a, flac, wav, aac, mp4, m3u, m3u8, m4b, m4p, aiff, ogg, mp2, ac3, wma ועוד." icon="music-note" >}}
+  {{< feature-card title="נגן את כל פורמטי האודיו" subtitle="Evermusic מנגן את פורמטי האודיו הפופולריים ביותר, כולל MP3, AAC, M4A, WAV, AIFF, ALAC ו-M4B, כך שכל אוסף המוזיקה שלך מוכן לנגינה בכל מכשיר." icon="music-note" >}}
 
-  {{< feature-card title="ספרי שמע" subtitle="כולל סימניות אודיו, בקרת מהירות נגינה וחזרה למיקום." icon="book-open" width="50">}}
+  {{< feature-card title="חבר את הענן שלך" subtitle="בנה שירות הזרמה משלך על ידי העברת הספרייה שלך לענן ושחרור מקום באייפון. חבר את iCloud, Google Drive, Dropbox, OneDrive, MEGA, Internxt ו-Proton Drive." icon="cloud" >}}
 
-  {{< feature-card title="סנכרון אוטומטי" subtitle="מסנכרן את ספריית המוזיקה שלך עם הענן, מאורגנת לפי אמן, אלבום וז'אנר." icon="refresh" >}}
+  {{< feature-card title="חבר שרתי מדיה" subtitle="חבר את שרתי המדיה האישיים שלך ישירות לספרייה, כולל Plex, Subsonic, Navidrome, Jellyfin ו-Emby, והזרם בקלות את כל מה ששייך לך מהבית." icon="server" >}}
 
-  {{< feature-card title="מנהל קבצים" subtitle="נהל קבצים עם פעולות כמו העתקה, העברה, שינוי שם ומחיקה." icon="folder" >}}
+  {{< feature-card title="חבר את המחשב או ה-NAS שלך" subtitle="חבר את המחשב או ה-NAS שלך דרך SMB, WebDAV, DLNA, FTP, SFTP ו-NFS, עם ממשקי API מקוריים ל-QNAP, Synology, Nextcloud ו-WD My Cloud Home, או העבר קבצים דרך Wi-Fi." icon="desktop-computer" >}}
 
-  {{< feature-card title="שירותי ענן" subtitle="תומך ב-iCloud, Google Drive, Dropbox, OneDrive, Box, MEGA, WD MyCloud Home, pCloud ועוד." icon="cloud" >}}
+  {{< feature-card title="מוזיקה אופליין" subtitle="הורד את השירים, האלבומים והאמנים המועדפים עליך כדי ליהנות מהם אופליין בכל עת. הפעל את מטמון נגן האודיו כדי לשמור אוטומטית רצועות שנוגנו לאחרונה להאזנה אופליין." icon="download" >}}
 
-  {{< feature-card title="נגינת קרוספייד" subtitle="השיר הבא מתחיל לפני שהנוכחי מסתיים למעברים חלקים." icon="switch-horizontal" >}}
+  {{< feature-card title="אקולייזר אודיו" subtitle="עצב את הצליל שלך עם האקולייזר המובנה, הכולל פריסטים מוכנים לז'אנרים מוזיקליים פופולריים וכן בקרות ידניות לכוונון והגברה של כל רצועה בדיוק כפי שאתה אוהב." icon="adjustments" >}}
 
-  {{< feature-card title="נגינה ללא הפסקות" subtitle="ללא הפסקות בין שירים — אידיאלי לאלבומי לייב, קלאסיים או רעיוניים." icon="volume-up" >}}
+  {{< feature-card title="נגינה ללא הפסקות" subtitle="תיהנה מנגינה חלקה ורציפה ללא הפסקות בין שירים, מושלמת להקלטות לייב, אלבומים רעיוניים, מיקסים של DJ ומוזיקה קלאסית מההתחלה ועד הסוף." icon="volume-up" >}}
 
-  {{< feature-card title="אקולייזר אודיו" subtitle="אקולייזר ניתן להתאמה אישית עם פריסטים, בקרה ידנית וחיזוק קדם-מגבר." icon="adjustments" >}}
+  {{< feature-card title="נגינת קרוספייד" subtitle="שמור על זרימת המוזיקה עם קרוספייד, שבו כל שיר חדש מתחיל בעדינות לפני שהנוכחי מסתיים לנגינה חלקה ורציפה ללא הפסקות שקטות." icon="switch-horizontal" >}}
 
-  {{< feature-card title="חיפוש מתקדם" subtitle="מצא את האלבומים, האמנים והשירים המועדפים עליך במהירות ובקלות." icon="search" >}}
+  {{< feature-card title="אפקטי אודיו" subtitle="עצב את הצליל שלך עם אפקטי אודיו מובנים. הפעל נרמול עוצמת קול כדי לשמור על כל רצועה באותה עוצמה, והוסף הדהוד, השהיה, עיוות ואודיו מרחבי לפי טעמך." icon="chip" >}}
 
-  {{< feature-card title="גישה למחשב" subtitle="התחבר דרך SMB, WebDAV או DLNA. העבר דרך iTunes File Sharing ו-Wi-Fi." icon="desktop-computer" >}}
+  {{< feature-card title="ויזואלייזר מוזיקה" subtitle="צפה בוויזואליזציות מונפשות במסך מלא שמגיבות למוזיקה שלך בזמן אמת. בחר מספריית פריסטים גדולה או תן להם להתחלף אוטומטית בזמן ההאזנה." icon="sparkles" >}}
 
-  {{< feature-card title="AirPlay & Chromecast" subtitle="הזרם למכשירי Apple TV ו-Google Chromecast באופן אלחוטי." icon="device-mobile" >}}
+  {{< feature-card title="מילות שירים והערות" subtitle="צפה במילות שירים מתוזמנות ובהערות מוטמעות עבור רצועות האודיו שלך בזמן הנגינה, והוסף את ווידג'ט מילות השירים למסך הבית לגישה מהירה במבט חטוף בכל עת." icon="annotation" >}}
 
-  {{< feature-card title="פלייליסטים" subtitle="צור, ערוך, סדר מחדש וייצא/ייבא פלייליסטים M3U עם מצב אופליין." icon="collection" >}}
+  {{< feature-card title="AirPlay ו-Chromecast" subtitle="הזרם את המוזיקה שלך באופן אלחוטי ל-Apple TV, לרמקולים חכמים ולמכשירים אחרים עם תמיכה מובנית ב-AirPlay וב-Google Chromecast להאזנה נטולת מאמץ בכל הבית." icon="device-mobile" >}}
 
-  {{< feature-card title="כרטיסי USB Flash" subtitle="נגן מוזיקה ישירות מכרטיסי SD באמצעות קוראים חיצוניים כמו SanDisk iXpand." icon="inbox" >}}
+  {{< feature-card title="Apple CarPlay" subtitle="נהג והאזן בבטחה עם ממשק Apple CarPlay ייעודי שמציב את המוזיקה, הפלייליסטים ובקרות הנגינה שלך ישירות על מסך הדשבורד של הרכב." icon="truck" >}}
 
-  {{< feature-card title="מצב אופליין" subtitle="הורד אלבומים ופלייליסטים או שמור אוטומטית במטמון שירים שהושמעו לאחרונה להאזנה אופליין." icon="download" >}}
+  {{< feature-card title="ווידג'טים" subtitle="הפעל ווידג'טים אינטראקטיביים במסך הבית לגישה מהירה לתור הנגינה שלך, והמשך בדיוק מהמקום שבו הפסקת מהמיקום השמור האחרון בהקשה אחת." icon="view-grid" >}}
 
-  {{< feature-card title="Apple CarPlay" subtitle="נהג בבטחה עם ממשק CarPlay ייעודי לנגינת מוזיקה." icon="truck" >}}
+  {{< feature-card title="ספרי שמע" subtitle="הפוך את האפליקציה לנגן ספרי שמע מלא עם סימניות אודיו, בקרת מהירות נגינה ומיקומי מדיה שמורים, וכן קרא את פרטי הטקסט המאוחסנים במטא-דאטה של הקבצים שלך." icon="book-open" >}}
 
-  {{< feature-card title="עורך תגיות ID3" subtitle="ערוך מטא-דאטה פגומה או חסרה באמצעות עורך התגיות המובנה." icon="pencil-alt" >}}
+  {{< feature-card title="סנכרון אוטומטי" subtitle="ספריית המוזיקה שלך מסתנכרנת אוטומטית בין הענן למכשיר שלך, ומקבצת בצורה מסודרת כל שיר לפי אמן, אלבום וז'אנר כך שהאוסף שלך תמיד נשאר מאורגן." icon="refresh" >}}
 
-  {{< feature-card title="מילות שירים והערות" subtitle="צפה במילות שירים והערות מוטמעות בזמן האזנה למוזיקה שלך." icon="annotation" >}}
+  {{< feature-card title="מנהל פלייליסטים" subtitle="צור ונהל פלייליסטים, סדר מחדש שירים והפוך כל פלייליסט לזמין אופליין. מיין את הרצועות שלך לפי שם, גודל, מספר שיר או אלבום כדי לשמור על הכל מסודר." icon="collection" >}}
 
-  {{< feature-card title="Last.fm" subtitle="חבר את חשבון Last.fm שלך לקבלת סטטיסטיקות האזנה מותאמות אישית והמלצות." icon="chart-bar" >}}
+  {{< feature-card title="עורך תגיות ID3" subtitle="תקן מטא-דאטה פגומה או חסרה עם עורך תגיות ה-ID3 המובנה, ועדכן כותרות, אמנים, אלבומים ועוד כדי שספריית המוזיקה שלך תישאר נקייה ומאורגנת היטב." icon="pencil-alt" >}}
+
+  {{< feature-card title="מנהל קבצים" subtitle="ארגן את המוזיקה שלך עם מנהל הקבצים המשולב, המטפל בפעולות יומיומיות כמו העתקה, העברה, שינוי שם ומחיקה כדי לשמור על כל קבצי האודיו שלך מסודרים היטב." icon="folder" >}}
+
+  {{< feature-card title="חיפוש מתקדם" subtitle="מצא כל דבר תוך שניות עם מנוע החיפוש החכם, ואתר במהירות את האלבומים, האמנים והשירים המועדפים עליך בכל מקום ברחבי ספריית המוזיקה שלך." icon="search" >}}
+
+  {{< feature-card title="כרטיסי USB Flash" subtitle="חבר קוראי כרטיסים חיצוניים כמו SanDisk iXpand והאזן למוזיקה שלך ישירות מכרטיס SD או מכונן USB, ללא צורך בסנכרון או הורדות נוספות." icon="inbox" >}}
   
 {{< /cards >}}
 

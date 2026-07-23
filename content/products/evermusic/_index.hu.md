@@ -91,44 +91,44 @@ Az Evermusic egy ingyenes offline zenelejátszó iPhone-ra és Macre, amelyet az
 {{< hextra/feature-grid >}}
 
   {{< hextra/feature-card
-    title="Helytakarékosság az eszközön"
-    subtitle="100 GB zenéd van évek óta gyűjtve, de csak 32 GB tárhely van az iPhone-on? Helyezd át az összes számot a felhőbe, és szabadítsd fel az értékes helyet fotóknak, videóknak és alkalmazásoknak."
-    icon="folder"
-    style="background: radial-gradient(ellipse at 50% 80%, rgba(59,130,246,0.15), hsla(0,0%,100%,0));"
-  >}}
-
-  {{< hextra/feature-card
-    title="Azonnali hozzáférés a számokhoz"
-    subtitle="A legnépszerűbb felhőszolgáltatások támogatásával az Evermusic lehetővé teszi, hogy egy vagy több szolgáltatást válassz, és streamed a zenédet a felhőből. Nincs több iTunes szinkronizálás, az audiofájljaid ugyanúgy feltölthetők a felhőbe PC-ről vagy Mac-ről, mint bármely más fájl."
-    icon="collection"
-    style="background: radial-gradient(ellipse at 50% 80%, rgba(192,38,211,0.15), hsla(0,0%,100%,0));"
-  >}}
-
-  {{< hextra/feature-card
-    title="Offline mód"
-    subtitle="Az offline mód lehetővé teszi, hogy letöltsd kedvenc albumaidat, számaidat, műfajaidat és lejátszási listáidat offline lejátszásra, és zenét hallgass, amikor nincs internetkapcsolatod."
-    icon="download"
-    style="background: radial-gradient(ellipse at 50% 80%, rgba(234,88,12,0.15), hsla(0,0%,100%,0));"
-  >}}
-
-  {{< hextra/feature-card
     title="A zenéd a felhőben"
-    subtitle="Hozd létre saját fejlett zenei streaming szolgáltatásodat ingyen! Kezeld hatalmas zenei könyvtáradat, takarítsd meg az eszköz tárhelyét, és streameld kedvenc számaidat közvetlenül a felhőből intelligens puffereléssel és zökkenőmentes lejátszással. Élvezd a népszerű felhőszolgáltatások támogatását, mint az iCloud, Google Drive, Dropbox, MEGA.nz, Box, OneDrive és még sok más."
+    subtitle="Hozd létre saját fejlett zenei streaming szolgáltatásodat ingyen! Streameld kedvenc számaidat közvetlenül a felhőből intelligens puffereléssel és zökkenőmentes lejátszással, miközben megtakarítod az eszköz tárhelyét. Csatlakoztass olyan szolgáltatásokat, mint az iCloud Drive, Google Drive, Dropbox, OneDrive, Box, MEGA, pCloud, Proton Drive és még sok más."
     icon="cloud"
     style="background: radial-gradient(ellipse at 50% 80%, rgba(34,197,94,0.15), hsla(0,0%,100%,0));"
   >}}
 
   {{< hextra/feature-card
+    title="Offline mód"
+    subtitle="Az offline mód lehetővé teszi, hogy letöltsd kedvenc albumaidat, számaidat, előadóidat, műfajaidat és lejátszási listáidat offline lejátszásra. Hallgasd bárhol, akár repülőn, a metrón vagy a hálózaton kívül, még akkor is, amikor nincs internetkapcsolatod, streaming és adatforgalom nélkül."
+    icon="download"
+    style="background: radial-gradient(ellipse at 50% 80%, rgba(234,88,12,0.15), hsla(0,0%,100%,0));"
+  >}}
+
+  {{< hextra/feature-card
     title="Egyszerű fájlátvitel"
-    subtitle="Csatlakoztasd a Mac-edet vagy PC-det, és streameld a zenét közvetlenül az otthoni számítógépedről. Vidd át az audiofájlokat zökkenőmentesen a számítógéped és iOS eszközöd között Wi-Fi Drive vagy iTunes fájlmegosztás segítségével. NAS-t vagy USB flash meghajtót is csatlakoztathatsz, és bárhonnan hozzáférhetsz a könyvtáradhoz."
+    subtitle="Csatlakoztasd a Mac-edet vagy PC-det, és streameld a zenét közvetlenül az otthoni számítógépedről. Vidd át az audiofájlokat zökkenőmentesen a számítógéped és iOS eszközöd között Wi-Fi Drive vagy iTunes File Sharing segítségével. NAS-t vagy USB flash meghajtót is csatlakoztathatsz, és bárhonnan hozzáférhetsz a könyvtáradhoz."
     icon="duplicate"
     style="background: radial-gradient(ellipse at 50% 80%, rgba(251,191,36,0.15), hsla(0,0%,100%,0));"
   >}}
 
   {{< hextra/feature-card
-    title="Automatikus szinkronizálás"
-    subtitle="A Szinkronizálás-kezelő automatikusan átvizsgálja a felhő tárhelyedet audiofájlok után, és frissíti a zenei könyvtáradat. A Metaadat-betöltő a számokat albumok, előadók és műfajok szerint rendezi a beágyazott audio címkék alapján."
-    icon="refresh"
+    title="Médiakiszolgálók és NAS"
+    subtitle="Csatlakozz személyes médiakönyvtáraidhoz és otthoni kiszolgálóidhoz, mint a Plex, Emby, Jellyfin, Subsonic és Navidrome. Kapcsold össze NAS-odat, például a Synology, QNAP, Nextcloud és WD My Cloud Home eszközöket SMB, WebDAV, FTP, SFTP, NFS vagy DLNA/UPnP protokollon keresztül, és férj hozzá a teljes zenegyűjteményedhez bárhonnan."
+    icon="desktop-computer"
+    style="background: radial-gradient(ellipse at 50% 80%, rgba(59,130,246,0.15), hsla(0,0%,100%,0));"
+  >}}
+
+  {{< hextra/feature-card
+    title="Professzionális audiomotor"
+    subtitle="Élvezd az igazán szünetmentes lejátszást és a sima crossfade átmenetet a számok között. Formáld a hangzást 10 sávos hangszínszabályzóval, egyéni előbeállításokkal és előerősítéssel, állítható lejátszási sebességgel és hangmagassággal, valamint stúdióeffektek teljes választékával, mint a reverb, echo, chorus, flanger, mélyhang-kiemelés, crossfeed és hangerő-normalizálás."
+    icon="adjustments"
+    style="background: radial-gradient(ellipse at 50% 80%, rgba(192,38,211,0.15), hsla(0,0%,100%,0));"
+  >}}
+
+  {{< hextra/feature-card
+    title="Dalszövegek, widgetek és CarPlay"
+    subtitle="Olvasd a beágyazott és szinkronizált LRC dalszövegeket, amelyek a zenével együtt görögnek, akár a zárolt képernyőn, a kezdőképernyő widgetjeiben és az Apple CarPlay felületén is. Adj hozzá Most játszott, Dalszövegek, Kedvencek és Nemrég játszott widgeteket, hogy a zenéd mindig kéznél és szinkronban legyen."
+    icon="annotation"
     style="background: radial-gradient(ellipse at 50% 80%, rgba(6,182,212,0.15), hsla(0,0%,100%,0));"
   >}}
 
@@ -218,41 +218,47 @@ Az Evermusic egy ingyenes offline zenelejátszó iPhone-ra és Macre, amelyet az
 
 {{< cards >}}
 
-  {{< feature-card title="Audio formátumok" subtitle="Támogatott: mp3, m4a, flac, wav, aac, mp4, m3u, m3u8, m4b, m4p, aiff, ogg, mp2, ac3, wma és még több." icon="music-note" >}}
+  {{< feature-card title="Minden audioformátum lejátszása" subtitle="Az Evermusic lejátssza a legnépszerűbb audioformátumokat, köztük az MP3, AAC, M4A, WAV, AIFF, ALAC és M4B formátumokat, így a teljes zenegyűjteményed készen áll a lejátszásra bármely eszközön." icon="music-note" >}}
 
-  {{< feature-card title="Hangoskönyvek" subtitle="Audio könyvjelzők, lejátszási sebesség szabályozás és pozíció folytatás." icon="book-open" width="50">}}
+  {{< feature-card title="Csatlakoztasd a felhődet" subtitle="Építsd meg saját streaming szolgáltatásodat azzal, hogy a könyvtáradat a felhőbe helyezed és felszabadítod az iPhone tárhelyét. Csatlakoztasd az iCloud, Google Drive, Dropbox, OneDrive, MEGA, Internxt és Proton Drive szolgáltatásokat." icon="cloud" >}}
 
-  {{< feature-card title="Automatikus szinkronizálás" subtitle="Szinkronizálja a zenei könyvtáradat a felhővel, előadó, album és műfaj szerint rendezve." icon="refresh" >}}
+  {{< feature-card title="Csatlakoztasd a médiakiszolgálóidat" subtitle="Csatlakoztasd személyes médiakiszolgálóidat közvetlenül a könyvtáradhoz, köztük a Plex, Subsonic, Navidrome, Jellyfin és Emby szolgáltatásokat, és streameld könnyedén mindent, amivel otthon rendelkezel." icon="server" >}}
 
-  {{< feature-card title="Fájlkezelő" subtitle="Fájlok kezelése másolás, áthelyezés, átnevezés és törlés műveletekkel." icon="folder" >}}
+  {{< feature-card title="Csatlakoztasd a számítógéped vagy NAS-od" subtitle="Csatlakoztasd a számítógéped vagy NAS-od SMB, WebDAV, DLNA, FTP, SFTP és NFS protokollon keresztül, natív API-kkal a QNAP, Synology, Nextcloud és WD My Cloud Home eszközökhöz, vagy vidd át a fájlokat Wi-Fi-n." icon="desktop-computer" >}}
 
-  {{< feature-card title="Felhőszolgáltatások" subtitle="Támogatja az iCloud, Google Drive, Dropbox, OneDrive, Box, MEGA, WD MyCloud Home, pCloud és még több szolgáltatást." icon="cloud" >}}
+  {{< feature-card title="Offline zene" subtitle="Töltsd le kedvenc dalaidat, albumaidat és előadóidat, hogy bármikor offline élvezhesd őket. Engedélyezd az audiolejátszó gyorsítótárát, hogy automatikusan mentse a nemrég lejátszott számokat offline hallgatáshoz." icon="download" >}}
 
-  {{< feature-card title="Crossfade lejátszás" subtitle="A következő dal már az aktuális vége előtt elkezdődik a zökkenőmentes átmenetekért." icon="switch-horizontal" >}}
+  {{< feature-card title="Audio hangszínszabályzó" subtitle="Formáld a hangzást a beépített hangszínszabályzóval, amely kész előbeállításokat kínál a népszerű zenei műfajokhoz, valamint kézi vezérlőket minden szám pontosan olyan finomhangolásához és felerősítéséhez, ahogy szereted." icon="adjustments" >}}
 
-  {{< feature-card title="Szünetmentes lejátszás" subtitle="Nincs szünet a dalok között – ideális élő, klasszikus vagy konceptalbumokhoz." icon="volume-up" >}}
+  {{< feature-card title="Szünetmentes lejátszás" subtitle="Élvezd a sima, megszakítás nélküli lejátszást a dalok közötti szünetek nélkül, ami tökéletes élő felvételekhez, konceptalbumokhoz, DJ mixekhez és klasszikus zenéhez az elejétől a végéig." icon="volume-up" >}}
 
-  {{< feature-card title="Audio hangszínszabályzó" subtitle="Testreszabható hangszínszabályzó előbeállításokkal, kézi vezérléssel és előerősítő szabályzóval." icon="adjustments" >}}
+  {{< feature-card title="Crossfade lejátszás" subtitle="Tartsd folyamatosan a zenét a crossfade-del, ahol minden új dal finoman elkezdődik, mielőtt az aktuális véget ér, a zökkenőmentes, folyamatos lejátszásért, néma szünetek nélkül." icon="switch-horizontal" >}}
 
-  {{< feature-card title="Speciális keresés" subtitle="Gyorsan és egyszerűen megtalálhatod kedvenc albumaidat, előadóidat és számaidat." icon="search" >}}
+  {{< feature-card title="Audioeffektek" subtitle="Formáld a hangzást a beépített audioeffektekkel. Kapcsold be a hangerő-normalizálást, hogy minden szám azonos hangerőn szóljon, és ízlés szerint adj hozzá reverb, delay, distortion és térbeli hangzás effekteket." icon="chip" >}}
 
-  {{< feature-card title="Számítógép hozzáférés" subtitle="Csatlakozás SMB, WebDAV vagy DLNA protokollon keresztül. Átvitel iTunes fájlmegosztással és Wi-Fi-vel." icon="desktop-computer" >}}
+  {{< feature-card title="Zenevizualizáció" subtitle="Nézd a teljes képernyős animált vizuális elemeket, amelyek valós időben reagálnak a zenédre. Válassz a nagy előbeállítás-könyvtárból, vagy hagyd, hogy automatikusan váltakozzanak hallgatás közben." icon="sparkles" >}}
 
-  {{< feature-card title="AirPlay és Chromecast" subtitle="Streaming Apple TV-re és Google Chromecast eszközökre vezeték nélkül." icon="device-mobile" >}}
+  {{< feature-card title="Dalszövegek és megjegyzések" subtitle="Tekintsd meg a beágyazott, időzített dalszövegeket és megjegyzéseket az audiószámaidhoz lejátszás közben, és add hozzá a dalszöveg widgetet a kezdőképernyődhöz a gyors, egy pillantással történő eléréshez bármikor." icon="annotation" >}}
 
-  {{< feature-card title="Lejátszási listák" subtitle="Lejátszási listák létrehozása, szerkesztése, átrendezése, és M3U exportálás/importálás offline móddal." icon="collection" >}}
+  {{< feature-card title="AirPlay és Chromecast" subtitle="Streameld a zenédet vezeték nélkül az Apple TV-re, okoshangszórókra és más eszközökre a beépített AirPlay és Google Chromecast támogatással a könnyed, egész otthonra kiterjedő hallgatásért." icon="device-mobile" >}}
 
-  {{< feature-card title="USB flash kártyák" subtitle="Zene lejátszása közvetlenül SD kártyákról külső olvasók, például SanDisk iXpand használatával." icon="inbox" >}}
+  {{< feature-card title="Apple CarPlay" subtitle="Vezess és hallgass biztonságosan egy dedikált Apple CarPlay felülettel, amely a zenédet, lejátszási listáidat és lejátszásvezérlőidet közvetlenül az autód műszerfali kijelzőjére helyezi." icon="truck" >}}
 
-  {{< feature-card title="Offline mód" subtitle="Albumok és lejátszási listák letöltése, vagy a nemrég lejátszott számok automatikus gyorsítótárazása offline hallgatáshoz." icon="download" >}}
+  {{< feature-card title="Widgetek" subtitle="Aktiváld az interaktív kezdőképernyő widgeteket a lejátszási sorod gyors eléréséhez, és folytasd pontosan onnan, ahol abbahagytad, az utolsó mentett pozíciótól egyetlen érintéssel." icon="view-grid" >}}
 
-  {{< feature-card title="Apple CarPlay" subtitle="Biztonságos vezetés dedikált CarPlay felülettel a zenelejátszáshoz." icon="truck" >}}
+  {{< feature-card title="Hangoskönyvek" subtitle="Alakítsd az alkalmazást teljes értékű hangoskönyv-lejátszóvá audio könyvjelzőkkel, lejátszási sebesség szabályozással és mentett médiapozíciókkal, valamint olvasd a fájljaid metaadataiban tárolt szöveges részleteket." icon="book-open" >}}
 
-  {{< feature-card title="ID3 címkeszerkesztő" subtitle="Sérült vagy hiányzó metaadatok szerkesztése a beépített címkeszerkesztővel." icon="pencil-alt" >}}
+  {{< feature-card title="Automatikus szinkronizálás" subtitle="A zenei könyvtárad automatikusan szinkronizálódik a felhő és az eszközöd között, minden dalt szépen előadó, album és műfaj szerint csoportosítva, így a gyűjteményed mindig rendezett marad." icon="refresh" >}}
 
-  {{< feature-card title="Dalszövegek és megjegyzések" subtitle="Beágyazott dalszövegek és megjegyzések megtekintése zenehallgatás közben." icon="annotation" >}}
+  {{< feature-card title="Lejátszásilista-kezelő" subtitle="Hozz létre és kezelj lejátszási listákat, rendezd át a dalokat, és tedd bármelyik lejátszási listát offline elérhetővé. Rendezd a számaidat név, méret, dalszám vagy album szerint, hogy minden a helyén legyen." icon="collection" >}}
 
-  {{< feature-card title="Last.fm" subtitle="Csatlakoztasd Last.fm fiókodat személyre szabott hallgatási statisztikákért és ajánlásokért." icon="chart-bar" >}}
+  {{< feature-card title="ID3 címkeszerkesztő" subtitle="Javítsd a sérült vagy hiányzó metaadatokat a beépített ID3 címkeszerkesztővel, frissítve a címeket, előadókat, albumokat és még sok mást, hogy a zenei könyvtárad tiszta és jól rendezett maradjon." icon="pencil-alt" >}}
+
+  {{< feature-card title="Fájlkezelő" subtitle="Rendezd a zenédet az integrált fájlkezelővel, amely olyan hétköznapi műveleteket kezel, mint a másolás, áthelyezés, átnevezés és törlés, hogy minden audiofájlod szépen rendben legyen." icon="folder" >}}
+
+  {{< feature-card title="Speciális keresés" subtitle="Találj meg bármit másodpercek alatt az intelligens keresőmotorral, gyorsan megtalálva kedvenc albumaidat, előadóidat és dalaidat bárhol a teljes zenei könyvtáradban." icon="search" >}}
+
+  {{< feature-card title="USB flash kártyák" subtitle="Csatlakoztass külső kártyaolvasókat, mint a SanDisk iXpand, és hallgasd a zenédet közvetlenül SD kártyáról vagy USB flash meghajtóról, extra szinkronizálás vagy letöltés nélkül." icon="inbox" >}}
   
 {{< /cards >}}
 

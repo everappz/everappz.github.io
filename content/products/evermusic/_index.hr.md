@@ -91,44 +91,44 @@ Evermusic je besplatan offline glazbeni reproduktor za iPhone i Mac koji je razv
 {{< hextra/feature-grid >}}
 
   {{< hextra/feature-card
-    title="Uštedite Prostor na Uređaju"
-    subtitle="Imate 100GB glazbe sakupljene godinama, ali samo 32GB pohrane na iPhoneu? Jednostavno premjestite sve svoje pjesme u oblak i oslobodite dragocjeni prostor za fotografije, videozapise i aplikacije."
-    icon="folder"
-    style="background: radial-gradient(ellipse at 50% 80%, rgba(59,130,246,0.15), hsla(0,0%,100%,0));"
-  >}}
-
-  {{< hextra/feature-card
-    title="Trenutni Pristup Pjesmama"
-    subtitle="Uz podršku najpopularnijih cloud usluga, Evermusic vam omogućuje odabir jedne ili više usluga i streaming glazbe iz oblaka. Nema više iTunes sinkronizacije, vaše audio datoteke se prenose u oblak s PC-a ili Maca kao i ostale datoteke."
-    icon="collection"
-    style="background: radial-gradient(ellipse at 50% 80%, rgba(192,38,211,0.15), hsla(0,0%,100%,0));"
-  >}}
-
-  {{< hextra/feature-card
-    title="Offline Način"
-    subtitle="Offline način vam omogućuje preuzimanje omiljenih albuma, pjesama, žanrova i popisa za reprodukciju za offline reprodukciju i slušanje glazbe kada niste povezani na Internet."
-    icon="download"
-    style="background: radial-gradient(ellipse at 50% 80%, rgba(234,88,12,0.15), hsla(0,0%,100%,0));"
-  >}}
-
-  {{< hextra/feature-card
     title="Vaša Glazba u Oblaku"
-    subtitle="Stvorite vlastitu naprednu uslugu za streaming glazbe besplatno! Upravljajte svojom velikom glazbenom bibliotekom, uštedite prostor na uređaju i streamajte omiljene pjesme izravno iz oblaka s pametnim spremnikom i besprijekornom reprodukcijom. Uživajte u podršci za popularne cloud usluge poput iCloud, Google Drive, Dropbox, MEGA.nz, Box, OneDrive i više."
+    subtitle="Stvorite vlastitu naprednu uslugu za streaming glazbe besplatno! Streamajte omiljene pjesme izravno iz oblaka uz pametno spremanje u međuspremnik i besprijekornu reprodukciju, štedeći pritom prostor na uređaju. Povežite usluge poput iCloud Drive, Google Drive, Dropbox, OneDrive, Box, MEGA, pCloud, Proton Drive i mnoge druge."
     icon="cloud"
     style="background: radial-gradient(ellipse at 50% 80%, rgba(34,197,94,0.15), hsla(0,0%,100%,0));"
   >}}
 
   {{< hextra/feature-card
+    title="Offline Način"
+    subtitle="Offline način vam omogućuje preuzimanje omiljenih albuma, pjesama, izvođača, žanrova i popisa za reprodukciju za offline reprodukciju. Slušajte bilo gdje, bilo u avionu, u podzemnoj željeznici ili izvan dosega mreže, čak i kada niste povezani na Internet, bez streaminga i bez potrošnje podataka."
+    icon="download"
+    style="background: radial-gradient(ellipse at 50% 80%, rgba(234,88,12,0.15), hsla(0,0%,100%,0));"
+  >}}
+
+  {{< hextra/feature-card
     title="Jednostavan Prijenos Datoteka"
-    subtitle="Povežite svoj Mac ili PC i streamajte glazbu izravno s kućnog računala. Besprijekorno prenosite audio datoteke između računala i iOS uređaja koristeći Wi-Fi Drive ili iTunes File Sharing. Također možete povezati svoj NAS ili USB pogon i pristupiti biblioteci s bilo kojeg mjesta."
+    subtitle="Povežite svoj Mac ili PC i streamajte glazbu izravno s kućnog računala. Besprijekorno prenosite audio datoteke između računala i iOS uređaja koristeći Wi-Fi Drive ili iTunes File Sharing. Također možete povezati svoj NAS ili USB pogon i pristupiti svojoj biblioteci s bilo kojeg mjesta."
     icon="duplicate"
     style="background: radial-gradient(ellipse at 50% 80%, rgba(251,191,36,0.15), hsla(0,0%,100%,0));"
   >}}
 
   {{< hextra/feature-card
-    title="Automatska Sinkronizacija"
-    subtitle="Upravitelj sinkronizacije automatski skenira vašu pohranu u oblaku za audio datoteke i ažurira vašu glazbenu biblioteku. Učitavač metapodataka organizira pjesme po albumima, izvođačima i žanrovima koristeći ugrađene audio oznake."
-    icon="refresh"
+    title="Media Serveri i NAS"
+    subtitle="Povežite se sa svojim osobnim medijskim bibliotekama i kućnim serverima poput Plex, Emby, Jellyfin, Subsonic i Navidrome. Povežite svoj NAS poput Synology, QNAP, Nextcloud i WD My Cloud Home putem SMB, WebDAV, FTP, SFTP, NFS ili DLNA/UPnP i pristupite cijeloj svojoj glazbenoj zbirci s bilo kojeg mjesta."
+    icon="desktop-computer"
+    style="background: radial-gradient(ellipse at 50% 80%, rgba(59,130,246,0.15), hsla(0,0%,100%,0));"
+  >}}
+
+  {{< hextra/feature-card
+    title="Profesionalni Audio Engine"
+    subtitle="Uživajte u istinskoj reprodukciji bez pauza i glatkom crossfadeu između pjesama. Oblikujte svoj zvuk s 10-pojasnim ekvilajzerom, prilagođenim postavkama i pojačanjem pretpojačala, podesivom brzinom i visinom reprodukcije te punim setom studijskih efekata poput reverba, eha, chorusa, flangera, bass boosta, crossfeeda i normalizacije glasnoće."
+    icon="adjustments"
+    style="background: radial-gradient(ellipse at 50% 80%, rgba(192,38,211,0.15), hsla(0,0%,100%,0));"
+  >}}
+
+  {{< hextra/feature-card
+    title="Tekstovi, Widgeti i CarPlay"
+    subtitle="Čitajte ugrađene i sinkronizirane LRC tekstove koji se pomiču u ritmu glazbe, čak i na zaključanom zaslonu, u widgetima na početnom zaslonu i na Apple CarPlay. Dodajte widgete Sada svira, Tekstovi, Favoriti i Nedavno reproducirano kako bi vam glazba uvijek bila nadohvat ruke i uvijek sinkronizirana."
+    icon="annotation"
     style="background: radial-gradient(ellipse at 50% 80%, rgba(6,182,212,0.15), hsla(0,0%,100%,0));"
   >}}
 
@@ -218,41 +218,47 @@ Evermusic je besplatan offline glazbeni reproduktor za iPhone i Mac koji je razv
 
 {{< cards >}}
 
-  {{< feature-card title="Audio Formati" subtitle="Podržava: mp3, m4a, flac, wav, aac, mp4, m3u, m3u8, m4b, m4p, aiff, ogg, mp2, ac3, wma i više." icon="music-note" >}}
+  {{< feature-card title="Reprodukcija Svih Audio Formata" subtitle="Evermusic reproducira najpopularnije audio formate, uključujući MP3, AAC, M4A, WAV, AIFF, ALAC i M4B, tako da je cijela vaša glazbena zbirka spremna za reprodukciju na svakom uređaju." icon="music-note" >}}
 
-  {{< feature-card title="Audioknjige" subtitle="Uključuje audio oznake, kontrolu brzine reprodukcije i nastavak pozicije." icon="book-open" width="50">}}
+  {{< feature-card title="Povežite Svoj Cloud" subtitle="Izgradite vlastitu uslugu za streaming premještanjem svoje biblioteke u oblak i oslobađanjem prostora na iPhoneu. Povežite iCloud, Google Drive, Dropbox, OneDrive, MEGA, Internxt i Proton Drive." icon="cloud" >}}
 
-  {{< feature-card title="Automatska Sinkronizacija" subtitle="Sinkronizira vašu glazbenu biblioteku s oblakom, organiziranu po izvođaču, albumu i žanru." icon="refresh" >}}
+  {{< feature-card title="Povežite Media Servere" subtitle="Povežite svoje osobne media servere izravno sa svojom bibliotekom, uključujući Plex, Subsonic, Navidrome, Jellyfin i Emby, i streamajte sve što posjedujete iz udobnosti doma s lakoćom." icon="server" >}}
 
-  {{< feature-card title="Upravitelj Datoteka" subtitle="Upravljajte datotekama s operacijama poput kopiranja, premještanja, preimenovanja i brisanja." icon="folder" >}}
+  {{< feature-card title="Povežite Računalo ili NAS" subtitle="Povežite svoje računalo ili NAS putem SMB, WebDAV, DLNA, FTP, SFTP i NFS, uz native API-je za QNAP, Synology, Nextcloud i WD My Cloud Home, ili prenesite datoteke putem Wi-Fi-ja." icon="desktop-computer" >}}
 
-  {{< feature-card title="Cloud Usluge" subtitle="Podržava iCloud, Google Drive, Dropbox, OneDrive, Box, MEGA, WD MyCloud Home, pCloud i više." icon="cloud" >}}
+  {{< feature-card title="Offline Glazba" subtitle="Preuzmite omiljene pjesme, albume i izvođače kako biste u njima uživali offline bilo kada. Omogućite predmemoriju audio playera za automatsko spremanje nedavno reproduciranih pjesama za offline slušanje." icon="download" >}}
 
-  {{< feature-card title="Crossfade Reprodukcija" subtitle="Sljedeća pjesma počinje prije nego što trenutna završi za besprijekorne prijelaze." icon="switch-horizontal" >}}
+  {{< feature-card title="Audio Ekvilajzer" subtitle="Oblikujte svoj zvuk pomoću ugrađenog ekvilajzera s gotovim postavkama za popularne glazbene žanrove te ručnim kontrolama za fino podešavanje i pojačavanje svake pjesme točno onako kako želite." icon="adjustments" >}}
 
-  {{< feature-card title="Reprodukcija bez Pauza" subtitle="Bez pauza između pjesama — idealno za live, klasične ili konceptualne albume." icon="volume-up" >}}
+  {{< feature-card title="Reprodukcija bez Pauza" subtitle="Uživajte u glatkoj, neprekinutoj reprodukciji bez pauza između pjesama, savršenoj za snimke uživo, konceptualne albume, DJ mikseve i klasičnu glazbu od početka do kraja." icon="volume-up" >}}
 
-  {{< feature-card title="Audio Ekvilajzer" subtitle="Prilagodljivi ekvilajzer s postavkama, ručnom kontrolom i pojačanjem pretpojačala." icon="adjustments" >}}
+  {{< feature-card title="Crossfade Reprodukcija" subtitle="Neka glazba neprekidno teče uz crossfade, gdje svaka nova pjesma nježno započinje prije nego što trenutna završi, za besprijekornu, neprekinutu reprodukciju bez tihih pauza." icon="switch-horizontal" >}}
 
-  {{< feature-card title="Napredno Pretraživanje" subtitle="Pronađite svoje omiljene albume, izvođače i pjesme brzo i jednostavno." icon="search" >}}
+  {{< feature-card title="Audio Efekti" subtitle="Oblikujte svoj zvuk pomoću ugrađenih audio efekata. Uključite normalizaciju glasnoće kako bi svaka pjesma bila jednake glasnoće te po želji dodajte reverb, delay, distorziju i prostorni zvuk." icon="chip" >}}
 
-  {{< feature-card title="Pristup Računalu" subtitle="Povežite se putem SMB, WebDAV ili DLNA. Prenesite putem iTunes File Sharinga i Wi-Fi-ja." icon="desktop-computer" >}}
+  {{< feature-card title="Glazbeni Vizualizator" subtitle="Gledajte animirane vizuale preko cijelog zaslona koji reagiraju uživo na vašu glazbu u stvarnom vremenu. Odaberite iz velike knjižnice postavki ili ih pustite da se automatski izmjenjuju dok slušate." icon="sparkles" >}}
 
-  {{< feature-card title="AirPlay & Chromecast" subtitle="Streamajte na Apple TV i Google Chromecast uređaje bežično." icon="device-mobile" >}}
+  {{< feature-card title="Tekstovi i Komentari" subtitle="Pregledajte ugrađene vremenski sinkronizirane tekstove i komentare za svoje audio pjesme dok se reproduciraju te dodajte widget s tekstovima na početni zaslon za brz pristup na prvi pogled u bilo kojem trenutku." icon="annotation" >}}
 
-  {{< feature-card title="Popisi za Reprodukciju" subtitle="Stvarajte, uređujte, preraspoređujte i izvozite/uvozite M3U popise za reprodukciju s offline načinom." icon="collection" >}}
+  {{< feature-card title="AirPlay i Chromecast" subtitle="Streamajte svoju glazbu bežično na Apple TV, pametne zvučnike i druge uređaje uz ugrađenu podršku za AirPlay i Google Chromecast za bezbrižno slušanje u cijelom domu." icon="device-mobile" >}}
 
-  {{< feature-card title="USB Flash Kartice" subtitle="Reproducirajte glazbu izravno s SD kartica koristeći vanjske čitače poput SanDisk iXpand." icon="inbox" >}}
+  {{< feature-card title="Apple CarPlay" subtitle="Vozite i slušajte sigurno uz namjensko Apple CarPlay sučelje koje stavlja vašu glazbu, popise za reprodukciju i kontrole reprodukcije izravno na zaslon nadzorne ploče vašeg automobila." icon="truck" >}}
 
-  {{< feature-card title="Offline Način" subtitle="Preuzmite albume i popise za reprodukciju ili automatski spremite nedavno reproducirane pjesme za offline slušanje." icon="download" >}}
+  {{< feature-card title="Widgeti" subtitle="Aktivirajte interaktivne widgete na početnom zaslonu za brz pristup redu čekanja reprodukcije i nastavite točno tamo gdje ste stali od zadnje spremljene pozicije jednim dodirom." icon="view-grid" >}}
 
-  {{< feature-card title="Apple CarPlay" subtitle="Vozite sigurno s namjenskim CarPlay sučeljem za reprodukciju glazbe." icon="truck" >}}
+  {{< feature-card title="Audioknjige" subtitle="Pretvorite aplikaciju u potpuni player audioknjiga uz audio oznake, kontrolu brzine reprodukcije i spremljene pozicije medija te čitajte tekstualne detalje pohranjene u metapodacima vaših datoteka." icon="book-open" >}}
 
-  {{< feature-card title="ID3 Uređivač Oznaka" subtitle="Uredite oštećene ili nedostajuće metapodatke koristeći ugrađeni uređivač oznaka." icon="pencil-alt" >}}
+  {{< feature-card title="Automatska Sinkronizacija" subtitle="Vaša glazbena biblioteka automatski se sinkronizira između oblaka i uređaja, uredno grupirajući svaku pjesmu po izvođaču, albumu i žanru tako da vaša zbirka uvijek ostaje organizirana." icon="refresh" >}}
 
-  {{< feature-card title="Tekstovi i Komentari" subtitle="Pregledajte ugrađene tekstove i komentare dok slušate svoju glazbu." icon="annotation" >}}
+  {{< feature-card title="Upravitelj Popisa za Reprodukciju" subtitle="Stvarajte i upravljajte popisima za reprodukciju, preraspoređujte pjesme i učinite bilo koji popis dostupnim offline. Sortirajte pjesme po nazivu, veličini, broju pjesme ili albumu kako bi sve bilo u redu." icon="collection" >}}
 
-  {{< feature-card title="Last.fm" subtitle="Povežite svoj Last.fm račun za personalizirane statistike slušanja i preporuke." icon="chart-bar" >}}
+  {{< feature-card title="ID3 Uređivač Oznaka" subtitle="Popravite oštećene ili nedostajuće metapodatke pomoću ugrađenog ID3 uređivača oznaka, ažurirajući naslove, izvođače, albume i više kako bi vaša glazbena biblioteka ostala uredna i dobro organizirana." icon="pencil-alt" >}}
+
+  {{< feature-card title="Upravitelj Datoteka" subtitle="Organizirajte svoju glazbu pomoću integriranog upravitelja datoteka koji obavlja svakodnevne operacije poput kopiranja, premještanja, preimenovanja i brisanja kako bi sve vaše audio datoteke bile uredno posložene." icon="folder" >}}
+
+  {{< feature-card title="Napredno Pretraživanje" subtitle="Pronađite bilo što u nekoliko sekundi pomoću pametnog pretraživača koji brzo locira vaše omiljene albume, izvođače i pjesme bilo gdje u cijeloj vašoj glazbenoj biblioteci." icon="search" >}}
+
+  {{< feature-card title="USB Flash Kartice" subtitle="Povežite vanjske čitače kartica poput SanDisk iXpand i slušajte svoju glazbu izravno s SD kartice ili USB pogona, bez dodatne sinkronizacije ili preuzimanja." icon="inbox" >}}
   
 {{< /cards >}}
 

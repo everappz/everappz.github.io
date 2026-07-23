@@ -91,44 +91,44 @@ Evermusic er en gratis offline musikafspiller til iPhone og Mac, udviklet af Eve
 {{< hextra/feature-grid >}}
 
   {{< hextra/feature-card
-    title="Spar plads på enheden"
-    subtitle="Har du 100 GB musik samlet gennem årene, men kun 32 GB lagerplads på iPhone? Bare flyt alle dine numre til skyen og frigør værdifuld plads til fotos, videoer og apps."
-    icon="folder"
-    style="background: radial-gradient(ellipse at 50% 80%, rgba(59,130,246,0.15), hsla(0,0%,100%,0));"
-  >}}
-
-  {{< hextra/feature-card
-    title="Øjeblikkelig adgang til numre"
-    subtitle="Med understøttelse af de mest populære cloudtjenester lader Evermusic dig vælge en eller flere tjenester og streame din musik fra skyen. Ingen mere iTunes-synkronisering, dine lydfiler uploades til skyen fra PC eller Mac ligesom andre filer."
-    icon="collection"
-    style="background: radial-gradient(ellipse at 50% 80%, rgba(192,38,211,0.15), hsla(0,0%,100%,0));"
-  >}}
-
-  {{< hextra/feature-card
-    title="Offline tilstand"
-    subtitle="Offline tilstand lader dig downloade favoritalum, numre, genrer og playlister til offline afspilning og lytte til musik, når du ikke er forbundet til internettet."
-    icon="download"
-    style="background: radial-gradient(ellipse at 50% 80%, rgba(234,88,12,0.15), hsla(0,0%,100%,0));"
-  >}}
-
-  {{< hextra/feature-card
     title="Din musik i skyen"
-    subtitle="Opret din egen avancerede musikstreamingtjeneste gratis! Administrer dit massive musikbibliotek, spar enhedslagring og stream favoritnumre direkte fra skyen med smart buffering og pauseløs afspilning. Nyd understøttelse af populære cloudtjenester som iCloud, Google Drive, Dropbox, MEGA.nz, Box, OneDrive og mere."
+    subtitle="Opret din egen avancerede musikstreamingtjeneste gratis! Stream dine yndlingsnumre direkte fra skyen med smart buffering og problemfri afspilning, mens du sparer plads på enheden. Tilslut tjenester som iCloud Drive, Google Drive, Dropbox, OneDrive, Box, MEGA, pCloud, Proton Drive og mange flere."
     icon="cloud"
     style="background: radial-gradient(ellipse at 50% 80%, rgba(34,197,94,0.15), hsla(0,0%,100%,0));"
   >}}
 
   {{< hextra/feature-card
+    title="Offline tilstand"
+    subtitle="Offline tilstand lader dig downloade dine yndlingsalbum, numre, kunstnere, genrer og playlister til offline afspilning. Lyt hvor som helst, uanset om du er på et fly, i metroen eller uden dækning, selv når du ikke er forbundet til internettet, uden streaming og uden dataforbrug."
+    icon="download"
+    style="background: radial-gradient(ellipse at 50% 80%, rgba(234,88,12,0.15), hsla(0,0%,100%,0));"
+  >}}
+
+  {{< hextra/feature-card
     title="Overfør filer nemt"
-    subtitle="Tilslut din Mac eller PC og stream musik direkte fra din hjemmecomputer. Overfør lydfiler problemfrit mellem computeren og din iOS-enhed ved hjælp af Wi-Fi Drive eller iTunes fildeling. Du kan også tilslutte din NAS eller et USB-flashdrev og få adgang til dit bibliotek fra hvor som helst."
+    subtitle="Tilslut din Mac eller PC og stream musik direkte fra din hjemmecomputer. Overfør lydfiler problemfrit mellem computeren og din iOS-enhed ved hjælp af Wi-Fi Drive eller iTunes File Sharing. Du kan også tilslutte din NAS eller et USB-flashdrev og få adgang til dit bibliotek fra hvor som helst."
     icon="duplicate"
     style="background: radial-gradient(ellipse at 50% 80%, rgba(251,191,36,0.15), hsla(0,0%,100%,0));"
   >}}
 
   {{< hextra/feature-card
-    title="Automatisk synkronisering"
-    subtitle="Synkroniseringsadministratoren scanner automatisk dit cloudlager for lydfiler og opdaterer dit musikbibliotek. Metadataindlæseren organiserer numre efter album, kunstnere og genrer ved hjælp af indlejrede lydtags."
-    icon="refresh"
+    title="Medieservere og NAS"
+    subtitle="Tilslut til dine personlige mediebiblioteker og hjemmeservere som Plex, Emby, Jellyfin, Subsonic og Navidrome. Tilslut din NAS såsom Synology, QNAP, Nextcloud og WD My Cloud Home via SMB, WebDAV, FTP, SFTP, NFS eller DLNA/UPnP, og få adgang til hele din musiksamling fra hvor som helst."
+    icon="desktop-computer"
+    style="background: radial-gradient(ellipse at 50% 80%, rgba(59,130,246,0.15), hsla(0,0%,100%,0));"
+  >}}
+
+  {{< hextra/feature-card
+    title="Professionel lydmotor"
+    subtitle="Nyd ægte pauseløs afspilning og glidende crossfade mellem numre. Form din lyd med en 10-bånds equalizer, tilpassede forudindstillinger og forforstærkerforstærkning, justerbar afspilningshastighed og tonehøjde, plus en komplet pakke af studieeffekter som rumklang, ekko, kor, flanger, basforstærkning, crossfeed og lydstyrkenormalisering."
+    icon="adjustments"
+    style="background: radial-gradient(ellipse at 50% 80%, rgba(192,38,211,0.15), hsla(0,0%,100%,0));"
+  >}}
+
+  {{< hextra/feature-card
+    title="Sangtekster, widgets og CarPlay"
+    subtitle="Læs indlejrede og synkroniserede LRC-sangtekster, der ruller i takt med musikken, selv på låseskærmen, i widgets på hjemmeskærmen og på Apple CarPlay. Tilføj widgets for Afspilles nu, Sangtekster, Favoritter og Senest afspillet, så din musik altid er lige ved hånden og altid synkroniseret."
+    icon="annotation"
     style="background: radial-gradient(ellipse at 50% 80%, rgba(6,182,212,0.15), hsla(0,0%,100%,0));"
   >}}
 
@@ -218,41 +218,47 @@ Evermusic er en gratis offline musikafspiller til iPhone og Mac, udviklet af Eve
 
 {{< cards >}}
 
-  {{< feature-card title="Lydformater" subtitle="Understøtter: mp3, m4a, flac, wav, aac, mp4, m3u, m3u8, m4b, m4p, aiff, ogg, mp2, ac3, wma og mere." icon="music-note" >}}
+  {{< feature-card title="Afspil alle lydformater" subtitle="Evermusic afspiller de mest populære lydformater, herunder MP3, AAC, M4A, WAV, AIFF, ALAC og M4B, så hele din musiksamling er klar til afspilning på enhver enhed." icon="music-note" >}}
 
-  {{< feature-card title="Lydbøger" subtitle="Inkluderer lydbogmærker, afspilningshastighedskontrol og genoptagelsesposition." icon="book-open" width="50">}}
+  {{< feature-card title="Tilslut din sky" subtitle="Byg din egen streamingtjeneste ved at flytte dit bibliotek til skyen og frigøre plads på iPhone. Tilslut iCloud, Google Drive, Dropbox, OneDrive, MEGA, Internxt og Proton Drive." icon="cloud" >}}
 
-  {{< feature-card title="Automatisk synkronisering" subtitle="Synkroniserer dit musikbibliotek med skyen, organiseret efter kunstner, album og genre." icon="refresh" >}}
+  {{< feature-card title="Tilslut medieservere" subtitle="Tilslut dine personlige medieservere direkte til dit bibliotek, herunder Plex, Subsonic, Navidrome, Jellyfin og Emby, og stream alt hvad du ejer hjemmefra med lethed." icon="server" >}}
 
-  {{< feature-card title="Filadministrator" subtitle="Administrer filer med operationer som kopiér, flyt, omdøb og slet." icon="folder" >}}
+  {{< feature-card title="Tilslut din computer eller NAS" subtitle="Tilslut din computer eller NAS via SMB, WebDAV, DLNA, FTP, SFTP og NFS, med native API'er til QNAP, Synology, Nextcloud og WD My Cloud Home, eller overfør filer via Wi-Fi." icon="desktop-computer" >}}
 
-  {{< feature-card title="Cloudtjenester" subtitle="Understøtter iCloud, Google Drive, Dropbox, OneDrive, Box, MEGA, WD MyCloud Home, pCloud og mere." icon="cloud" >}}
+  {{< feature-card title="Offline musik" subtitle="Download dine yndlingssange, album og kunstnere for at nyde dem offline når som helst. Aktivér lydafspillerens cache for automatisk at gemme senest afspillede numre til offline lytning." icon="download" >}}
 
-  {{< feature-card title="Crossfade-afspilning" subtitle="Næste sang begynder før den nuværende slutter for problemfri overgange." icon="switch-horizontal" >}}
+  {{< feature-card title="Lydequalizer" subtitle="Form din lyd med den indbyggede equalizer, der byder på færdige forudindstillinger til populære musikgenrer plus manuelle kontroller til at finjustere og forstærke hvert nummer præcis som du vil have det." icon="adjustments" >}}
 
-  {{< feature-card title="Pauseløs afspilning" subtitle="Ingen pauser mellem sange – ideelt til live, klassiske eller konceptalbum." icon="volume-up" >}}
+  {{< feature-card title="Pauseløs afspilning" subtitle="Nyd glidende, uafbrudt afspilning uden pauser mellem sange, perfekt til live-optagelser, konceptalbum, DJ-mix og klassisk musik fra start til slut." icon="volume-up" >}}
 
-  {{< feature-card title="Lydequalizer" subtitle="Tilpasselig equalizer med forudindstillinger, manuel kontrol og forforstærkerforstærkning." icon="adjustments" >}}
+  {{< feature-card title="Crossfade-afspilning" subtitle="Hold musikken i gang med crossfade, hvor hver ny sang blidt begynder, før den nuværende slutter, for problemfri, kontinuerlig afspilning uden stille pauser." icon="switch-horizontal" >}}
 
-  {{< feature-card title="Avanceret søgning" subtitle="Find dine favoritalum, kunstnere og numre hurtigt og nemt." icon="search" >}}
+  {{< feature-card title="Lydeffekter" subtitle="Form din lyd med indbyggede lydeffekter. Aktivér lydstyrkenormalisering for at holde hvert nummer på samme lydstyrke, og tilføj rumklang, forsinkelse, forvrængning og rumlig lyd efter smag." icon="chip" >}}
 
-  {{< feature-card title="Computeradgang" subtitle="Tilslut via SMB, WebDAV eller DLNA. Overfør via iTunes fildeling og Wi-Fi." icon="desktop-computer" >}}
+  {{< feature-card title="Musikvisualizer" subtitle="Se animerede visuals i fuld skærm, der reagerer live på din musik i realtid. Vælg fra et stort bibliotek af forudindstillinger, eller lad dem skifte automatisk, mens du lytter." icon="sparkles" >}}
 
-  {{< feature-card title="AirPlay og Chromecast" subtitle="Stream til Apple TV og Google Chromecast-enheder trådløst." icon="device-mobile" >}}
+  {{< feature-card title="Sangtekster og kommentarer" subtitle="Se indlejrede tidsbestemte sangtekster og kommentarer til dine numre, mens de afspilles, og tilføj sangtekst-widgeten til din hjemmeskærm for hurtig adgang med et enkelt blik når som helst." icon="annotation" >}}
 
-  {{< feature-card title="Playlister" subtitle="Opret, rediger, omarranger og eksportér/importér M3U-playlister med offline tilstand." icon="collection" >}}
+  {{< feature-card title="AirPlay og Chromecast" subtitle="Stream din musik trådløst til Apple TV, smarte højttalere og andre enheder med indbygget understøttelse af AirPlay og Google Chromecast for ubesværet lytning i hele hjemmet." icon="device-mobile" >}}
 
-  {{< feature-card title="USB-flashkort" subtitle="Afspil musik direkte fra SD-kort ved hjælp af eksterne læsere som SanDisk iXpand." icon="inbox" >}}
+  {{< feature-card title="Apple CarPlay" subtitle="Kør og lyt sikkert med en dedikeret Apple CarPlay-grænseflade, der placerer din musik, dine playlister og afspilningskontroller direkte på bilens instrumentbrætsskærm." icon="truck" >}}
 
-  {{< feature-card title="Offline tilstand" subtitle="Download album og playlister eller auto-cache nyligt afspillede numre til offline lytning." icon="download" >}}
+  {{< feature-card title="Widgets" subtitle="Aktivér interaktive widgets på hjemmeskærmen for hurtig adgang til din afspilningskø, og fortsæt lige der hvor du slap fra den sidst gemte position med et enkelt tryk." icon="view-grid" >}}
 
-  {{< feature-card title="Apple CarPlay" subtitle="Kør sikkert med en dedikeret CarPlay-grænseflade til musikafspilning." icon="truck" >}}
+  {{< feature-card title="Lydbøger" subtitle="Forvandl appen til en komplet lydbogsafspiller med lydbogmærker, afspilningshastighedskontrol og gemte mediepositioner, plus læs de tekstdetaljer, der er gemt i dine filers metadata." icon="book-open" >}}
 
-  {{< feature-card title="ID3-tagredigering" subtitle="Rediger beskadigede eller manglende metadata med den indbyggede tagredigering." icon="pencil-alt" >}}
+  {{< feature-card title="Automatisk synkronisering" subtitle="Dit musikbibliotek synkroniseres automatisk mellem skyen og din enhed, og grupperer pænt hver sang efter kunstner, album og genre, så din samling altid forbliver organiseret." icon="refresh" >}}
 
-  {{< feature-card title="Sangtekster og kommentarer" subtitle="Se indlejrede sangtekster og kommentarer mens du lytter til din musik." icon="annotation" >}}
+  {{< feature-card title="Playlisteadministrator" subtitle="Opret og administrer playlister, omarranger sange, og gør enhver playliste tilgængelig offline. Sortér dine numre efter navn, størrelse, sangnummer eller album for at holde styr på det hele." icon="collection" >}}
 
-  {{< feature-card title="Last.fm" subtitle="Tilslut din Last.fm-konto for at få personlige lyttestatistikker og anbefalinger." icon="chart-bar" >}}
+  {{< feature-card title="ID3-tagredigering" subtitle="Ret beskadigede eller manglende metadata med den indbyggede ID3-tagredigering, og opdater titler, kunstnere, album og mere, så dit musikbibliotek forbliver rent og velorganiseret." icon="pencil-alt" >}}
+
+  {{< feature-card title="Filadministrator" subtitle="Organiser din musik med den integrerede filadministrator, der håndterer daglige operationer som kopiér, flyt, omdøb og slet for at holde alle dine lydfiler pænt i orden." icon="folder" >}}
+
+  {{< feature-card title="Avanceret søgning" subtitle="Find alt på få sekunder med den smarte søgemaskine, der hurtigt lokaliserer dine yndlingsalbum, kunstnere og sange hvor som helst på tværs af hele dit musikbibliotek." icon="search" >}}
+
+  {{< feature-card title="USB-flashkort" subtitle="Tilslut eksterne kortlæsere som SanDisk iXpand og lyt til din musik direkte fra et SD-kort eller USB-flashdrev, uden ekstra synkronisering eller downloads påkrævet." icon="inbox" >}}
   
 {{< /cards >}}
 

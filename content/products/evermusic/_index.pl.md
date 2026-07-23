@@ -91,31 +91,17 @@ Evermusic to darmowy odtwarzacz muzyki offline na iPhone'a i Maca, opracowany pr
 {{< hextra/feature-grid >}}
 
   {{< hextra/feature-card
-    title="Oszczędzaj miejsce na urządzeniu"
-    subtitle="Masz 100 GB muzyki zebranej przez lata, ale tylko 32 GB pamięci na iPhone? Przenieś wszystkie utwory do chmury i zwolnij cenną przestrzeń na zdjęcia, filmy i aplikacje."
-    icon="folder"
-    style="background: radial-gradient(ellipse at 50% 80%, rgba(59,130,246,0.15), hsla(0,0%,100%,0));"
-  >}}
-
-  {{< hextra/feature-card
-    title="Natychmiastowy dostęp do utworów"
-    subtitle="Dzięki obsłudze najpopularniejszych usług chmurowych Evermusic pozwala wybrać jedną lub wiele usług i strumieniować muzykę z chmury. Koniec z synchronizacją iTunes — pliki audio są przesyłane do chmury z PC lub Mac tak jak inne pliki."
-    icon="collection"
-    style="background: radial-gradient(ellipse at 50% 80%, rgba(192,38,211,0.15), hsla(0,0%,100%,0));"
+    title="Twoja muzyka w chmurze"
+    subtitle="Stwórz własny zaawansowany serwis strumieniowania muzyki za darmo! Strumieniuj ulubione utwory bezpośrednio z chmury dzięki inteligentnemu buforowaniu i płynnemu odtwarzaniu, oszczędzając pamięć urządzenia. Podłącz usługi takie jak iCloud Drive, Google Drive, Dropbox, OneDrive, Box, MEGA, pCloud, Proton Drive i wiele innych."
+    icon="cloud"
+    style="background: radial-gradient(ellipse at 50% 80%, rgba(34,197,94,0.15), hsla(0,0%,100%,0));"
   >}}
 
   {{< hextra/feature-card
     title="Tryb offline"
-    subtitle="Tryb offline pozwala pobierać ulubione albumy, utwory, gatunki i playlisty do odtwarzania offline i słuchać muzyki, gdy nie masz połączenia z internetem."
+    subtitle="Tryb offline pozwala pobierać ulubione albumy, utwory, artystów, gatunki i playlisty do odtwarzania offline. Słuchaj muzyki wszędzie — w samolocie, w metrze czy poza zasięgiem sieci — nawet bez połączenia z internetem, bez strumieniowania i bez zużycia danych."
     icon="download"
     style="background: radial-gradient(ellipse at 50% 80%, rgba(234,88,12,0.15), hsla(0,0%,100%,0));"
-  >}}
-
-  {{< hextra/feature-card
-    title="Twoja muzyka w chmurze"
-    subtitle="Stwórz własny zaawansowany serwis strumieniowania muzyki za darmo! Zarządzaj ogromną biblioteką muzyczną, oszczędzaj pamięć urządzenia i strumieniuj ulubione utwory bezpośrednio z chmury z inteligentnym buforowaniem i płynnym odtwarzaniem. Korzystaj z popularnych usług chmurowych, takich jak iCloud, Google Drive, Dropbox, MEGA.nz, Box, OneDrive i więcej."
-    icon="cloud"
-    style="background: radial-gradient(ellipse at 50% 80%, rgba(34,197,94,0.15), hsla(0,0%,100%,0));"
   >}}
 
   {{< hextra/feature-card
@@ -126,9 +112,23 @@ Evermusic to darmowy odtwarzacz muzyki offline na iPhone'a i Maca, opracowany pr
   >}}
 
   {{< hextra/feature-card
-    title="Automatyczna synchronizacja"
-    subtitle="Menedżer synchronizacji automatycznie skanuje pamięć w chmurze w poszukiwaniu plików audio i aktualizuje bibliotekę muzyczną. Loader metadanych organizuje utwory według albumów, artystów i gatunków, korzystając z osadzonych tagów audio."
-    icon="refresh"
+    title="Serwery multimedialne i NAS"
+    subtitle="Połącz się ze swoimi osobistymi bibliotekami multimediów i serwerami domowymi, takimi jak Plex, Emby, Jellyfin, Subsonic i Navidrome. Podłącz NAS, taki jak Synology, QNAP, Nextcloud i WD My Cloud Home, przez SMB, WebDAV, FTP, SFTP, NFS lub DLNA/UPnP i uzyskaj dostęp do całej kolekcji muzycznej z dowolnego miejsca."
+    icon="desktop-computer"
+    style="background: radial-gradient(ellipse at 50% 80%, rgba(59,130,246,0.15), hsla(0,0%,100%,0));"
+  >}}
+
+  {{< hextra/feature-card
+    title="Profesjonalny silnik audio"
+    subtitle="Ciesz się prawdziwym odtwarzaniem bezprzerwowym i płynnym crossfade między utworami. Kształtuj brzmienie za pomocą 10-pasmowego korektora, własnych presetów i wzmocnienia preamp, regulowanej prędkości odtwarzania i wysokości dźwięku oraz pełnego zestawu studyjnych efektów, takich jak pogłos, echo, chorus, flanger, wzmocnienie basów, crossfeed i normalizacja głośności."
+    icon="adjustments"
+    style="background: radial-gradient(ellipse at 50% 80%, rgba(192,38,211,0.15), hsla(0,0%,100%,0));"
+  >}}
+
+  {{< hextra/feature-card
+    title="Teksty, widżety i CarPlay"
+    subtitle="Czytaj osadzone i zsynchronizowane teksty LRC, które przewijają się w rytm muzyki — nawet na ekranie blokady, w widżetach ekranu głównego i w Apple CarPlay. Dodaj widżety Teraz odtwarzane, Teksty, Ulubione i Ostatnio odtwarzane, aby zawsze mieć muzykę na wyciągnięcie ręki, zawsze zsynchronizowaną."
+    icon="annotation"
     style="background: radial-gradient(ellipse at 50% 80%, rgba(6,182,212,0.15), hsla(0,0%,100%,0));"
   >}}
 
@@ -218,41 +218,47 @@ Evermusic to darmowy odtwarzacz muzyki offline na iPhone'a i Maca, opracowany pr
 
 {{< cards >}}
 
-  {{< feature-card title="Formaty audio" subtitle="Obsługuje: mp3, m4a, flac, wav, aac, mp4, m3u, m3u8, m4b, m4p, aiff, ogg, mp2, ac3, wma i więcej." icon="music-note" >}}
+  {{< feature-card title="Odtwarzaj wszystkie formaty audio" subtitle="Evermusic odtwarza najpopularniejsze formaty audio, w tym MP3, AAC, M4A, WAV, AIFF, ALAC i M4B, dzięki czemu cała kolekcja muzyczna jest gotowa do odtwarzania na dowolnym urządzeniu." icon="music-note" >}}
 
-  {{< feature-card title="Audiobooki" subtitle="Zawiera zakładki audio, kontrolę prędkości odtwarzania i zapamiętywanie pozycji." icon="book-open" width="50">}}
+  {{< feature-card title="Podłącz chmurę" subtitle="Stwórz własny serwis strumieniowania, przenosząc bibliotekę do chmury i zwalniając miejsce na iPhone. Podłącz iCloud, Google Drive, Dropbox, OneDrive, MEGA, Internxt i Proton Drive." icon="cloud" >}}
 
-  {{< feature-card title="Automatyczna synchronizacja" subtitle="Synchronizuje bibliotekę muzyczną z chmurą, organizując według artysty, albumu i gatunku." icon="refresh" >}}
+  {{< feature-card title="Podłącz serwery multimedialne" subtitle="Podłącz osobiste serwery multimedialne bezpośrednio do biblioteki, w tym Plex, Subsonic, Navidrome, Jellyfin i Emby, i z łatwością strumieniuj wszystko, co masz, prosto z domu." icon="server" >}}
 
-  {{< feature-card title="Menedżer plików" subtitle="Zarządzaj plikami za pomocą operacji kopiowania, przenoszenia, zmiany nazwy i usuwania." icon="folder" >}}
+  {{< feature-card title="Podłącz komputer lub NAS" subtitle="Podłącz komputer lub NAS przez SMB, WebDAV, DLNA, FTP, SFTP i NFS, z natywnymi API dla QNAP, Synology, Nextcloud i WD My Cloud Home, lub przesyłaj pliki przez Wi-Fi." icon="desktop-computer" >}}
 
-  {{< feature-card title="Usługi chmurowe" subtitle="Obsługuje iCloud, Google Drive, Dropbox, OneDrive, Box, MEGA, WD MyCloud Home, pCloud i więcej." icon="cloud" >}}
+  {{< feature-card title="Muzyka offline" subtitle="Pobieraj ulubione utwory, albumy i artystów, aby cieszyć się nimi offline w dowolnym momencie. Włącz pamięć podręczną odtwarzacza audio, aby automatycznie zapisywać ostatnio odtwarzane utwory do słuchania offline." icon="download" >}}
 
-  {{< feature-card title="Odtwarzanie z crossfade" subtitle="Następny utwór zaczyna się, zanim bieżący się skończy, zapewniając płynne przejścia." icon="switch-horizontal" >}}
+  {{< feature-card title="Korektor dźwięku" subtitle="Kształtuj brzmienie za pomocą wbudowanego korektora z gotowymi presetami dla popularnych gatunków muzycznych oraz ręcznymi ustawieniami pozwalającymi precyzyjnie dostroić i wzmocnić każdy utwór dokładnie tak, jak lubisz." icon="adjustments" >}}
 
-  {{< feature-card title="Odtwarzanie bezprzerwowe" subtitle="Brak przerw między utworami — idealne dla albumów koncertowych, klasycznych lub koncepcyjnych." icon="volume-up" >}}
+  {{< feature-card title="Odtwarzanie bezprzerwowe" subtitle="Ciesz się płynnym, nieprzerwanym odtwarzaniem bez pauz między utworami — idealnym dla nagrań koncertowych, albumów koncepcyjnych, miksów DJ-skich i muzyki klasycznej od początku do końca." icon="volume-up" >}}
 
-  {{< feature-card title="Korektor dźwięku" subtitle="Konfigurowalny korektor z presetami, ręcznym sterowaniem i wzmocnieniem preamp." icon="adjustments" >}}
+  {{< feature-card title="Odtwarzanie z crossfade" subtitle="Zachowaj ciągłość muzyki dzięki crossfade, w którym każdy nowy utwór delikatnie zaczyna się, zanim bieżący się skończy, zapewniając płynne, ciągłe odtwarzanie bez cichych przerw." icon="switch-horizontal" >}}
 
-  {{< feature-card title="Zaawansowane wyszukiwanie" subtitle="Szybko i łatwo znajdź ulubione albumy, artystów i utwory." icon="search" >}}
+  {{< feature-card title="Efekty audio" subtitle="Kształtuj brzmienie za pomocą wbudowanych efektów audio. Włącz normalizację głośności, aby utrzymać jednakowy poziom głośności każdego utworu, i dodaj do smaku pogłos, delay, distortion oraz dźwięk przestrzenny." icon="chip" >}}
 
-  {{< feature-card title="Dostęp z komputera" subtitle="Połącz się przez SMB, WebDAV lub DLNA. Przesyłaj pliki przez iTunes File Sharing i Wi-Fi." icon="desktop-computer" >}}
+  {{< feature-card title="Wizualizacja muzyki" subtitle="Oglądaj pełnoekranowe animowane wizualizacje reagujące na żywo na Twoją muzykę w czasie rzeczywistym. Wybierz z dużej biblioteki presetów lub pozwól im zmieniać się automatycznie podczas słuchania." icon="sparkles" >}}
 
-  {{< feature-card title="AirPlay i Chromecast" subtitle="Strumieniuj bezprzewodowo do urządzeń Apple TV i Google Chromecast." icon="device-mobile" >}}
+  {{< feature-card title="Teksty i komentarze" subtitle="Wyświetlaj osadzone teksty z czasem oraz komentarze do utworów audio podczas ich odtwarzania i dodaj widżet tekstów na ekranie głównym, aby mieć do nich szybki dostęp w dowolnym momencie." icon="annotation" >}}
 
-  {{< feature-card title="Playlisty" subtitle="Twórz, edytuj, zmieniaj kolejność oraz eksportuj/importuj playlisty M3U z trybem offline." icon="collection" >}}
+  {{< feature-card title="AirPlay i Chromecast" subtitle="Strumieniuj muzykę bezprzewodowo do Apple TV, inteligentnych głośników i innych urządzeń dzięki wbudowanej obsłudze AirPlay i Google Chromecast dla wygodnego słuchania w całym domu." icon="device-mobile" >}}
 
-  {{< feature-card title="Pamięci flash USB" subtitle="Odtwarzaj muzykę bezpośrednio z kart SD za pomocą zewnętrznych czytników, takich jak SanDisk iXpand." icon="inbox" >}}
+  {{< feature-card title="Apple CarPlay" subtitle="Jedź i słuchaj bezpiecznie dzięki dedykowanemu interfejsowi Apple CarPlay, który umieszcza Twoją muzykę, playlisty i elementy sterowania odtwarzaniem na wyświetlaczu deski rozdzielczej samochodu." icon="truck" >}}
 
-  {{< feature-card title="Tryb offline" subtitle="Pobieraj albumy i playlisty lub automatycznie buforuj ostatnio odtwarzane utwory do słuchania offline." icon="download" >}}
+  {{< feature-card title="Widżety" subtitle="Aktywuj interaktywne widżety ekranu głównego, aby uzyskać szybki dostęp do kolejki odtwarzania, i wznów odtwarzanie dokładnie tam, gdzie skończyłeś, od ostatniej zapisanej pozycji jednym dotknięciem." icon="view-grid" >}}
 
-  {{< feature-card title="Apple CarPlay" subtitle="Jedź bezpiecznie z dedykowanym interfejsem CarPlay do odtwarzania muzyki." icon="truck" >}}
+  {{< feature-card title="Audiobooki" subtitle="Zamień aplikację w pełnoprawny odtwarzacz audiobooków z zakładkami audio, kontrolą prędkości odtwarzania i zapamiętywaniem pozycji mediów oraz czytaj szczegóły tekstowe zapisane w metadanych plików." icon="book-open" >}}
 
-  {{< feature-card title="Edytor tagów ID3" subtitle="Edytuj uszkodzone lub brakujące metadane za pomocą wbudowanego edytora tagów." icon="pencil-alt" >}}
+  {{< feature-card title="Automatyczna synchronizacja" subtitle="Twoja biblioteka muzyczna synchronizuje się automatycznie między chmurą a urządzeniem, starannie grupując każdy utwór według artysty, albumu i gatunku, aby kolekcja zawsze pozostawała uporządkowana." icon="refresh" >}}
 
-  {{< feature-card title="Teksty i komentarze" subtitle="Przeglądaj osadzone teksty piosenek i komentarze podczas słuchania muzyki." icon="annotation" >}}
+  {{< feature-card title="Menedżer playlist" subtitle="Twórz playlisty i zarządzaj nimi, zmieniaj kolejność utworów i udostępniaj dowolną playlistę offline. Sortuj utwory według nazwy, rozmiaru, numeru utworu lub albumu, aby zachować porządek." icon="collection" >}}
 
-  {{< feature-card title="Last.fm" subtitle="Połącz konto Last.fm, aby uzyskać spersonalizowane statystyki słuchania i rekomendacje." icon="chart-bar" >}}
+  {{< feature-card title="Edytor tagów ID3" subtitle="Napraw uszkodzone lub brakujące metadane za pomocą wbudowanego edytora tagów ID3, aktualizując tytuły, artystów, albumy i inne, aby biblioteka muzyczna pozostawała czysta i dobrze zorganizowana." icon="pencil-alt" >}}
+
+  {{< feature-card title="Menedżer plików" subtitle="Organizuj muzykę za pomocą zintegrowanego menedżera plików, obsługującego codzienne operacje, takie jak kopiowanie, przenoszenie, zmiana nazwy i usuwanie, aby wszystkie pliki audio były starannie uporządkowane." icon="folder" >}}
+
+  {{< feature-card title="Zaawansowane wyszukiwanie" subtitle="Znajdź wszystko w kilka sekund dzięki inteligentnej wyszukiwarce, szybko lokalizując ulubione albumy, artystów i utwory w całej bibliotece muzycznej." icon="search" >}}
+
+  {{< feature-card title="Pamięci flash USB" subtitle="Podłącz zewnętrzne czytniki kart, takie jak SanDisk iXpand, i słuchaj muzyki bezpośrednio z karty SD lub pamięci USB, bez dodatkowej synchronizacji czy pobierania." icon="inbox" >}}
   
 {{< /cards >}}
 

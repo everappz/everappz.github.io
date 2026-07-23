@@ -91,44 +91,44 @@ Evermusicは、スペインのソフトウェア企業であるEverappzが開発
 {{< hextra/feature-grid >}}
 
   {{< hextra/feature-card
-    title="デバイスの容量を節約"
-    subtitle="何年もかけて集めた100GBの音楽があるのにiPhoneのストレージは32GBだけ？すべての曲をクラウドに移動して、写真、動画、アプリのための貴重なスペースを解放しましょう。"
-    icon="folder"
-    style="background: radial-gradient(ellipse at 50% 80%, rgba(59,130,246,0.15), hsla(0,0%,100%,0));"
-  >}}
-
-  {{< hextra/feature-card
-    title="曲への即時アクセス"
-    subtitle="最も人気のあるクラウドサービスのサポートにより、Evermusicでは1つまたは複数のサービスを選択してクラウドから音楽をストリーミングできます。もうiTunesの同期は不要です。オーディオファイルはPCやMacから他のファイルと同じようにクラウドにアップロードできます。"
-    icon="collection"
-    style="background: radial-gradient(ellipse at 50% 80%, rgba(192,38,211,0.15), hsla(0,0%,100%,0));"
-  >}}
-
-  {{< hextra/feature-card
-    title="オフラインモード"
-    subtitle="オフラインモードでは、お気に入りのアルバム、曲、ジャンル、プレイリストをダウンロードしてオフライン再生し、インターネットに接続していないときでも音楽を楽しめます。"
-    icon="download"
-    style="background: radial-gradient(ellipse at 50% 80%, rgba(234,88,12,0.15), hsla(0,0%,100%,0));"
-  >}}
-
-  {{< hextra/feature-card
     title="クラウドにあなたの音楽を"
-    subtitle="自分だけの高度な音楽ストリーミングサービスを無料で作成しましょう！大規模な音楽ライブラリを管理し、デバイスのストレージを節約し、スマートバッファリングとシームレスな再生でクラウドから直接お気に入りの曲をストリーミング。iCloud、Google Drive、Dropbox、MEGA.nz、Box、OneDriveなどの人気クラウドサービスをサポートしています。"
+    subtitle="自分だけの高度な音楽ストリーミングサービスを無料で作りましょう！スマートバッファリングとシームレスな再生でお気に入りの曲をクラウドから直接ストリーミングし、デバイスのストレージを節約できます。iCloud Drive、Google Drive、Dropbox、OneDrive、Box、MEGA、pCloud、Proton Driveなど、さまざまなサービスに接続できます。"
     icon="cloud"
     style="background: radial-gradient(ellipse at 50% 80%, rgba(34,197,94,0.15), hsla(0,0%,100%,0));"
   >}}
 
   {{< hextra/feature-card
+    title="オフラインモード"
+    subtitle="オフラインモードでは、お気に入りのアルバム、曲、アーティスト、ジャンル、プレイリストをダウンロードしてオフライン再生できます。飛行機の中でも、地下鉄でも、圏外でも、インターネットに接続していないときでも、ストリーミングなし、データ通信なしでどこでも音楽を楽しめます。"
+    icon="download"
+    style="background: radial-gradient(ellipse at 50% 80%, rgba(234,88,12,0.15), hsla(0,0%,100%,0));"
+  >}}
+
+  {{< hextra/feature-card
     title="簡単ファイル転送"
-    subtitle="MacまたはPCを接続して、自宅のコンピューターから直接音楽をストリーミング。Wi-Fi DriveまたはiTunesファイル共有を使用して、コンピューターとiOSデバイス間でオーディオファイルをシームレスに転送。NASやUSBフラッシュドライブを接続して、どこからでもライブラリにアクセスすることもできます。"
+    subtitle="MacまたはPCを接続して、自宅のコンピューターから直接音楽をストリーミング。Wi-Fi DriveまたはiTunesファイル共有を使用して、コンピューターとiOSデバイス間でオーディオファイルをシームレスに転送できます。NASやUSBフラッシュドライブを接続すれば、どこからでもライブラリにアクセスできます。"
     icon="duplicate"
     style="background: radial-gradient(ellipse at 50% 80%, rgba(251,191,36,0.15), hsla(0,0%,100%,0));"
   >}}
 
   {{< hextra/feature-card
-    title="自動同期"
-    subtitle="同期マネージャーがクラウドストレージのオーディオファイルを自動的にスキャンし、音楽ライブラリを更新します。メタデータローダーは埋め込みオーディオタグを使用して、アルバム、アーティスト、ジャンルごとに曲を整理します。"
-    icon="refresh"
+    title="メディアサーバー & NAS"
+    subtitle="Plex、Emby、Jellyfin、Subsonic、Navidromeなどの個人メディアライブラリやホームサーバーに接続できます。Synology、QNAP、Nextcloud、WD My Cloud HomeなどのNASをSMB、WebDAV、FTP、SFTP、NFS、DLNA/UPnPで接続し、すべての音楽コレクションにどこからでもアクセスできます。"
+    icon="desktop-computer"
+    style="background: radial-gradient(ellipse at 50% 80%, rgba(59,130,246,0.15), hsla(0,0%,100%,0));"
+  >}}
+
+  {{< hextra/feature-card
+    title="プロオーディオエンジン"
+    subtitle="真のギャップレス再生と、トラック間のなめらかなクロスフェードをお楽しみください。10バンドイコライザー、カスタムプリセット、プリアンプゲインでサウンドを調整でき、再生速度とピッチの調整に加え、リバーブ、エコー、コーラス、フランジャー、バスブースト、クロスフィード、音量正規化など充実したスタジオエフェクトも利用できます。"
+    icon="adjustments"
+    style="background: radial-gradient(ellipse at 50% 80%, rgba(192,38,211,0.15), hsla(0,0%,100%,0));"
+  >}}
+
+  {{< hextra/feature-card
+    title="歌詞、ウィジェット & CarPlay"
+    subtitle="埋め込み歌詞や音楽に合わせてスクロールする同期LRC歌詞を、ロック画面、ホーム画面ウィジェット、Apple CarPlayでも表示できます。再生中、歌詞、お気に入り、最近再生した曲のウィジェットを追加すれば、常に同期された音楽をすぐに手元で楽しめます。"
+    icon="annotation"
     style="background: radial-gradient(ellipse at 50% 80%, rgba(6,182,212,0.15), hsla(0,0%,100%,0));"
   >}}
 
@@ -218,41 +218,47 @@ Evermusicは、スペインのソフトウェア企業であるEverappzが開発
 
 {{< cards >}}
 
-  {{< feature-card title="オーディオフォーマット" subtitle="対応形式：mp3、m4a、flac、wav、aac、mp4、m3u、m3u8、m4b、m4p、aiff、ogg、mp2、ac3、wmaなど。" icon="music-note" >}}
+  {{< feature-card title="すべてのオーディオフォーマットを再生" subtitle="Evermusicは、MP3、AAC、M4A、WAV、AIFF、ALAC、M4Bなど最も人気のあるオーディオフォーマットを再生できるので、音楽コレクション全体をどのデバイスでもすぐに楽しめます。" icon="music-note" >}}
 
-  {{< feature-card title="オーディオブック" subtitle="オーディオブックマーク、再生速度コントロール、再開位置を搭載。" icon="book-open" width="50">}}
+  {{< feature-card title="クラウドに接続" subtitle="ライブラリをクラウドに移してiPhoneの空き容量を確保し、自分だけのストリーミングサービスを構築しましょう。iCloud、Google Drive、Dropbox、OneDrive、MEGA、Internxt、Proton Driveに接続できます。" icon="cloud" >}}
 
-  {{< feature-card title="自動同期" subtitle="音楽ライブラリをクラウドと同期し、アーティスト、アルバム、ジャンルごとに整理。" icon="refresh" >}}
+  {{< feature-card title="メディアサーバーに接続" subtitle="Plex、Subsonic、Navidrome、Jellyfin、Embyなどの個人メディアサーバーをライブラリに直接接続し、所有するすべての音楽を自宅から手軽にストリーミングできます。" icon="server" >}}
 
-  {{< feature-card title="ファイルマネージャー" subtitle="コピー、移動、名前変更、削除などの操作でファイルを管理。" icon="folder" >}}
+  {{< feature-card title="コンピューターまたはNASに接続" subtitle="コンピューターやNASをSMB、WebDAV、DLNA、FTP、SFTP、NFSで接続。QNAP、Synology、Nextcloud、WD My Cloud Home向けのネイティブAPIに対応し、Wi-Fiでのファイル転送も可能です。" icon="desktop-computer" >}}
 
-  {{< feature-card title="クラウドサービス" subtitle="iCloud、Google Drive、Dropbox、OneDrive、Box、MEGA、WD MyCloud Home、pCloudなどに対応。" icon="cloud" >}}
+  {{< feature-card title="オフライン音楽" subtitle="お気に入りの曲、アルバム、アーティストをダウンロードして、いつでもオフラインで楽しめます。オーディオプレーヤーのキャッシュを有効にすれば、最近再生したトラックを自動保存してオフライン再生できます。" icon="download" >}}
 
-  {{< feature-card title="クロスフェード再生" subtitle="現在の曲が終わる前に次の曲が始まり、シームレスな移行を実現。" icon="switch-horizontal" >}}
+  {{< feature-card title="オーディオイコライザー" subtitle="内蔵イコライザーでサウンドを調整。人気の音楽ジャンル向けの既製プリセットに加え、手動コントロールで一曲ごとに思いどおりに微調整・増幅できます。" icon="adjustments" >}}
 
-  {{< feature-card title="ギャップレス再生" subtitle="曲間にポーズなし — ライブ、クラシック、コンセプトアルバムに最適。" icon="volume-up" >}}
+  {{< feature-card title="ギャップレス再生" subtitle="曲間にポーズのないなめらかで途切れのない再生をお楽しみください。ライブ録音、コンセプトアルバム、DJミックス、クラシック音楽を最初から最後まで通して聴くのに最適です。" icon="volume-up" >}}
 
-  {{< feature-card title="オーディオイコライザー" subtitle="プリセット、手動コントロール、プリアンプゲイン付きのカスタマイズ可能なイコライザー。" icon="adjustments" >}}
+  {{< feature-card title="クロスフェード再生" subtitle="クロスフェードで音楽を途切れさせません。現在の曲が終わる前に次の曲がやさしく始まり、無音の隙間なくシームレスで連続した再生を実現します。" icon="switch-horizontal" >}}
 
-  {{< feature-card title="高度な検索" subtitle="お気に入りのアルバム、アーティスト、曲を素早く簡単に検索。" icon="search" >}}
+  {{< feature-card title="オーディオエフェクト" subtitle="内蔵のオーディオエフェクトでサウンドを調整。音量正規化をオンにしてすべてのトラックを同じ音量に保ち、お好みでリバーブ、ディレイ、ディストーション、空間オーディオを加えられます。" icon="chip" >}}
 
-  {{< feature-card title="コンピューターアクセス" subtitle="SMB、WebDAV、DLNAで接続。iTunesファイル共有とWi-Fiで転送。" icon="desktop-computer" >}}
+  {{< feature-card title="ミュージックビジュアライザー" subtitle="音楽にリアルタイムで反応するフルスクリーンのアニメーションビジュアルをお楽しみください。豊富なプリセットライブラリから選ぶことも、聴きながら自動で切り替えることもできます。" icon="sparkles" >}}
 
-  {{< feature-card title="AirPlay & Chromecast" subtitle="Apple TVやGoogle Chromecastデバイスにワイヤレスでストリーミング。" icon="device-mobile" >}}
+  {{< feature-card title="歌詞とコメント" subtitle="再生中のオーディオトラックの埋め込みタイムド歌詞とコメントを表示。歌詞ウィジェットをホーム画面に追加すれば、いつでもさっと確認できます。" icon="annotation" >}}
 
-  {{< feature-card title="プレイリスト" subtitle="プレイリストの作成、編集、並べ替え、M3Uのエクスポート/インポートをオフラインモードで。" icon="collection" >}}
+  {{< feature-card title="AirPlay & Chromecast" subtitle="内蔵のAirPlayとGoogle Chromecastサポートで、Apple TV、スマートスピーカー、その他のデバイスに音楽をワイヤレスでストリーミングし、家じゅうで手軽に楽しめます。" icon="device-mobile" >}}
 
-  {{< feature-card title="USBフラッシュカード" subtitle="SanDisk iXpandなどの外付けリーダーを使用してSDカードから直接音楽を再生。" icon="inbox" >}}
+  {{< feature-card title="Apple CarPlay" subtitle="専用のApple CarPlayインターフェースで、音楽、プレイリスト、再生コントロールを車のダッシュボードディスプレイに表示し、安全に運転しながら聴けます。" icon="truck" >}}
 
-  {{< feature-card title="オフラインモード" subtitle="アルバムやプレイリストをダウンロード、または最近再生した曲を自動キャッシュしてオフライン再生。" icon="download" >}}
+  {{< feature-card title="ウィジェット" subtitle="インタラクティブなホーム画面ウィジェットを有効にすれば再生キューにすばやくアクセスでき、最後に保存された位置からワンタップで続きを再生できます。" icon="view-grid" >}}
 
-  {{< feature-card title="Apple CarPlay" subtitle="音楽再生専用のCarPlay UIで安全な運転を。" icon="truck" >}}
+  {{< feature-card title="オーディオブック" subtitle="オーディオブックマーク、再生速度コントロール、保存されたメディア位置で、アプリを本格的なオーディオブックプレーヤーに変身させます。ファイルのメタデータに保存されたテキスト情報も読めます。" icon="book-open" >}}
 
-  {{< feature-card title="ID3タグエディター" subtitle="内蔵タグエディターで破損したまたは欠落したメタデータを編集。" icon="pencil-alt" >}}
+  {{< feature-card title="自動同期" subtitle="音楽ライブラリがクラウドとデバイス間で自動的に同期され、すべての曲をアーティスト、アルバム、ジャンルごとにきれいに分類するので、コレクションは常に整理された状態に保たれます。" icon="refresh" >}}
 
-  {{< feature-card title="歌詞とコメント" subtitle="音楽を聴きながら埋め込み歌詞とコメントを表示。" icon="annotation" >}}
+  {{< feature-card title="プレイリストマネージャー" subtitle="プレイリストを作成・管理し、曲を並べ替え、どのプレイリストもオフラインで利用できます。トラックを名前、サイズ、曲番号、アルバムで並べ替えて、すべてを整理整頓できます。" icon="collection" >}}
 
-  {{< feature-card title="Last.fm" subtitle="Last.fmアカウントを接続して、パーソナライズされたリスニング統計とレコメンデーションを取得。" icon="chart-bar" >}}
+  {{< feature-card title="ID3タグエディター" subtitle="内蔵のID3タグエディターで破損または欠落したメタデータを修正し、タイトル、アーティスト、アルバムなどを更新して、音楽ライブラリをきれいに整理された状態に保てます。" icon="pencil-alt" >}}
+
+  {{< feature-card title="ファイルマネージャー" subtitle="統合ファイルマネージャーで音楽を整理。コピー、移動、名前変更、削除といった日常的な操作に対応し、すべてのオーディオファイルをきちんと整えておけます。" icon="folder" >}}
+
+  {{< feature-card title="高度な検索" subtitle="スマート検索エンジンで、あらゆるものを数秒で見つけられます。音楽ライブラリ全体から、お気に入りのアルバム、アーティスト、曲をすばやく探し出せます。" icon="search" >}}
+
+  {{< feature-card title="USBフラッシュカード" subtitle="SanDisk iXpandのような外付けカードリーダーを接続すれば、SDカードやUSBフラッシュドライブから直接音楽を再生でき、追加の同期やダウンロードは不要です。" icon="inbox" >}}
   
 {{< /cards >}}
 

@@ -91,44 +91,44 @@ Evermusic ialah pemain muzik luar talian percuma untuk iPhone dan Mac yang diban
 {{< hextra/feature-grid >}}
 
   {{< hextra/feature-card
-    title="Jimat Ruang pada Peranti"
-    subtitle="Ada 100GB muzik yang dikumpul selama bertahun-tahun tetapi hanya 32GB storan pada iPhone? Pindahkan semua lagu ke awan dan bebaskan ruang berharga untuk foto, video dan aplikasi."
-    icon="folder"
-    style="background: radial-gradient(ellipse at 50% 80%, rgba(59,130,246,0.15), hsla(0,0%,100%,0));"
-  >}}
-
-  {{< hextra/feature-card
-    title="Akses Segera ke Lagu"
-    subtitle="Dengan sokongan perkhidmatan awan paling popular, Evermusic membolehkan anda memilih satu atau beberapa perkhidmatan dan menstrim muzik anda dari awan. Tiada lagi penyegerakan iTunes, fail audio anda dimuat naik ke awan dari PC atau Mac seperti fail lain."
-    icon="collection"
-    style="background: radial-gradient(ellipse at 50% 80%, rgba(192,38,211,0.15), hsla(0,0%,100%,0));"
-  >}}
-
-  {{< hextra/feature-card
-    title="Mod Luar Talian"
-    subtitle="Mod luar talian membolehkan anda memuat turun album, lagu, genre dan senarai main kegemaran untuk main balik luar talian dan mendengar muzik apabila anda tidak disambungkan ke Internet."
-    icon="download"
-    style="background: radial-gradient(ellipse at 50% 80%, rgba(234,88,12,0.15), hsla(0,0%,100%,0));"
-  >}}
-
-  {{< hextra/feature-card
     title="Muzik Anda di Awan"
-    subtitle="Cipta perkhidmatan penstriman muzik canggih anda sendiri secara percuma! Urus perpustakaan muzik besar anda, jimat storan peranti, dan strim lagu kegemaran terus dari awan dengan penimbal pintar dan main balik lancar. Nikmati sokongan untuk perkhidmatan awan popular seperti iCloud, Google Drive, Dropbox, MEGA.nz, Box, OneDrive, dan banyak lagi."
+    subtitle="Cipta perkhidmatan penstriman muzik canggih anda sendiri secara percuma! Strim trek kegemaran terus dari awan dengan penimbal pintar dan main balik lancar sambil menjimatkan storan peranti. Sambungkan perkhidmatan seperti iCloud Drive, Google Drive, Dropbox, OneDrive, Box, MEGA, pCloud, Proton Drive, dan banyak lagi."
     icon="cloud"
     style="background: radial-gradient(ellipse at 50% 80%, rgba(34,197,94,0.15), hsla(0,0%,100%,0));"
   >}}
 
   {{< hextra/feature-card
+    title="Mod Luar Talian"
+    subtitle="Mod luar talian membolehkan anda memuat turun album, trek, artis, genre, dan senarai main kegemaran untuk main balik luar talian. Dengar di mana sahaja, sama ada dalam penerbangan, di kereta api bawah tanah, atau di kawasan tanpa liputan, walaupun anda tidak disambungkan ke Internet, tanpa penstriman dan tanpa penggunaan data."
+    icon="download"
+    style="background: radial-gradient(ellipse at 50% 80%, rgba(234,88,12,0.15), hsla(0,0%,100%,0));"
+  >}}
+
+  {{< hextra/feature-card
     title="Pindah Fail dengan Mudah"
-    subtitle="Sambungkan Mac atau PC anda dan strim muzik terus dari komputer rumah. Pindahkan fail audio dengan lancar antara komputer dan peranti iOS menggunakan Wi-Fi Drive atau iTunes File Sharing. Anda juga boleh menyambungkan NAS atau pemacu kilat USB dan mengakses perpustakaan dari mana sahaja."
+    subtitle="Sambungkan Mac atau PC anda dan strim muzik terus dari komputer rumah. Pindahkan fail audio dengan lancar antara komputer dan peranti iOS anda menggunakan Wi-Fi Drive atau iTunes File Sharing. Anda juga boleh menghubungkan NAS atau pemacu kilat USB dan mengakses perpustakaan anda dari mana sahaja."
     icon="duplicate"
     style="background: radial-gradient(ellipse at 50% 80%, rgba(251,191,36,0.15), hsla(0,0%,100%,0));"
   >}}
 
   {{< hextra/feature-card
-    title="Penyegerakan Automatik"
-    subtitle="Pengurus Segerak secara automatik mengimbas storan awan anda untuk fail audio dan mengemas kini perpustakaan muzik anda. Pemuat Metadata mengatur lagu mengikut album, artis, dan genre menggunakan tag audio terbenam."
-    icon="refresh"
+    title="Pelayan Media & NAS"
+    subtitle="Sambung ke perpustakaan media peribadi dan pelayan rumah anda seperti Plex, Emby, Jellyfin, Subsonic, dan Navidrome. Hubungkan NAS anda seperti Synology, QNAP, Nextcloud, dan WD My Cloud Home melalui SMB, WebDAV, FTP, SFTP, NFS, atau DLNA/UPnP, dan akses seluruh koleksi muzik anda dari mana sahaja."
+    icon="desktop-computer"
+    style="background: radial-gradient(ellipse at 50% 80%, rgba(59,130,246,0.15), hsla(0,0%,100%,0));"
+  >}}
+
+  {{< hextra/feature-card
+    title="Enjin Audio Pro"
+    subtitle="Nikmati main balik tanpa jeda yang sebenar dan crossfade lancar antara trek. Bentuk bunyi anda dengan penyama 10-jalur, pratetap tersuai dan gandaan praamp, kelajuan main balik dan pic boleh laras, serta rangkaian penuh kesan studio seperti gema, echo, chorus, flanger, bass boost, crossfeed, dan penormalan kelantangan."
+    icon="adjustments"
+    style="background: radial-gradient(ellipse at 50% 80%, rgba(192,38,211,0.15), hsla(0,0%,100%,0));"
+  >}}
+
+  {{< hextra/feature-card
+    title="Lirik, Widget & CarPlay"
+    subtitle="Baca lirik LRC terbenam dan tersegerak yang menatal seiring dengan muzik, walaupun pada skrin kunci, dalam widget skrin utama, dan pada Apple CarPlay. Tambah widget Kini Dimainkan, Lirik, Kegemaran, dan Baru Dimainkan untuk memastikan muzik anda sentiasa di hujung jari, sentiasa tersegerak."
+    icon="annotation"
     style="background: radial-gradient(ellipse at 50% 80%, rgba(6,182,212,0.15), hsla(0,0%,100%,0));"
   >}}
 
@@ -218,41 +218,47 @@ Evermusic ialah pemain muzik luar talian percuma untuk iPhone dan Mac yang diban
 
 {{< cards >}}
 
-  {{< feature-card title="Format Audio" subtitle="Menyokong: mp3, m4a, flac, wav, aac, mp4, m3u, m3u8, m4b, m4p, aiff, ogg, mp2, ac3, wma, dan banyak lagi." icon="music-note" >}}
+  {{< feature-card title="Main Semua Format Audio" subtitle="Evermusic memainkan format audio paling popular, termasuk MP3, AAC, M4A, WAV, AIFF, ALAC, dan M4B, supaya seluruh koleksi muzik anda sedia dimainkan pada mana-mana peranti." icon="music-note" >}}
 
-  {{< feature-card title="Buku Audio" subtitle="Termasuk penanda buku audio, kawalan kelajuan main balik, dan kedudukan sambung." icon="book-open" width="50">}}
+  {{< feature-card title="Sambungkan Awan Anda" subtitle="Bina perkhidmatan penstriman anda sendiri dengan memindahkan perpustakaan ke awan dan membebaskan ruang iPhone. Sambungkan iCloud, Google Drive, Dropbox, OneDrive, MEGA, Internxt, dan Proton Drive." icon="cloud" >}}
 
-  {{< feature-card title="Penyegerakan Automatik" subtitle="Segerakkan perpustakaan muzik anda dengan awan, disusun mengikut artis, album, dan genre." icon="refresh" >}}
+  {{< feature-card title="Sambungkan Pelayan Media" subtitle="Sambungkan pelayan media peribadi anda terus ke perpustakaan, termasuk Plex, Subsonic, Navidrome, Jellyfin, dan Emby, dan strim semua yang anda miliki dari rumah dengan mudah." icon="server" >}}
 
-  {{< feature-card title="Pengurus Fail" subtitle="Urus fail dengan operasi seperti salin, pindah, namakan semula, dan padam." icon="folder" >}}
+  {{< feature-card title="Sambungkan Komputer atau NAS Anda" subtitle="Sambungkan komputer atau NAS anda melalui SMB, WebDAV, DLNA, FTP, SFTP, dan NFS, dengan API asli untuk QNAP, Synology, Nextcloud, dan WD My Cloud Home, atau pindahkan fail melalui Wi-Fi." icon="desktop-computer" >}}
 
-  {{< feature-card title="Perkhidmatan Awan" subtitle="Menyokong iCloud, Google Drive, Dropbox, OneDrive, Box, MEGA, WD MyCloud Home, pCloud, dan banyak lagi." icon="cloud" >}}
+  {{< feature-card title="Muzik Luar Talian" subtitle="Muat turun lagu, album, dan artis kegemaran anda untuk dinikmati secara luar talian pada bila-bila masa. Dayakan cache pemain audio untuk menyimpan trek yang baru dimainkan secara automatik bagi dengaran luar talian." icon="download" >}}
 
-  {{< feature-card title="Main Balik Crossfade" subtitle="Lagu seterusnya bermula sebelum lagu semasa tamat untuk peralihan lancar." icon="switch-horizontal" >}}
+  {{< feature-card title="Penyama Audio" subtitle="Bentuk bunyi anda dengan penyama terbina dalam, menampilkan pratetap sedia guna untuk genre muzik popular serta kawalan manual untuk memperhalus dan menguatkan setiap trek tepat seperti yang anda mahu." icon="adjustments" >}}
 
-  {{< feature-card title="Main Balik Tanpa Jeda" subtitle="Tiada jeda antara lagu — sesuai untuk album langsung, klasik, atau konsep." icon="volume-up" >}}
+  {{< feature-card title="Main Balik Tanpa Jeda" subtitle="Nikmati main balik yang lancar dan tanpa gangguan tanpa jeda antara lagu, sesuai untuk rakaman langsung, album konsep, campuran DJ, dan muzik klasik dari mula hingga akhir." icon="volume-up" >}}
 
-  {{< feature-card title="Penyama Audio" subtitle="Penyama boleh suai dengan pratetap, kawalan manual, dan gandaan praamp." icon="adjustments" >}}
+  {{< feature-card title="Main Balik Crossfade" subtitle="Kekalkan muzik mengalir dengan crossfade, di mana setiap lagu baharu bermula perlahan-lahan sebelum lagu semasa tamat untuk main balik lancar dan berterusan tanpa sebarang jeda senyap." icon="switch-horizontal" >}}
 
-  {{< feature-card title="Carian Lanjutan" subtitle="Cari album, artis, dan lagu kegemaran anda dengan cepat dan mudah." icon="search" >}}
+  {{< feature-card title="Kesan Audio" subtitle="Bentuk bunyi anda dengan kesan audio terbina dalam. Hidupkan penormalan kelantangan untuk mengekalkan setiap trek pada kelantangan yang sama, dan tambah gema, delay, distortion, dan audio ruang mengikut citarasa." icon="chip" >}}
 
-  {{< feature-card title="Akses Komputer" subtitle="Sambung melalui SMB, WebDAV, atau DLNA. Pindah melalui iTunes File Sharing dan Wi-Fi." icon="desktop-computer" >}}
+  {{< feature-card title="Pemvisual Muzik" subtitle="Saksikan visual animasi skrin penuh yang bertindak balas secara langsung terhadap muzik anda dalam masa nyata. Pilih daripada pustaka pratetap yang besar atau biarkan ia berkitar secara automatik semasa anda mendengar." icon="sparkles" >}}
 
-  {{< feature-card title="AirPlay & Chromecast" subtitle="Strim ke peranti Apple TV dan Google Chromecast secara wayarles." icon="device-mobile" >}}
+  {{< feature-card title="Lirik dan Ulasan" subtitle="Lihat lirik dan ulasan bermasa terbenam untuk trek audio anda semasa ia dimainkan, dan tambah widget lirik ke Skrin Utama anda untuk akses pantas sepintas lalu pada bila-bila masa." icon="annotation" >}}
 
-  {{< feature-card title="Senarai Main" subtitle="Cipta, edit, susun semula, dan eksport/import senarai main M3U dengan mod luar talian." icon="collection" >}}
+  {{< feature-card title="AirPlay & Chromecast" subtitle="Strim muzik anda secara wayarles ke Apple TV, pembesar suara pintar, dan peranti lain dengan sokongan AirPlay dan Google Chromecast terbina dalam untuk dengaran seluruh rumah tanpa usaha." icon="device-mobile" >}}
 
-  {{< feature-card title="Kad Kilat USB" subtitle="Main muzik terus dari kad SD menggunakan pembaca luaran seperti SanDisk iXpand." icon="inbox" >}}
+  {{< feature-card title="Apple CarPlay" subtitle="Pandu dan dengar dengan selamat menggunakan antara muka Apple CarPlay khusus yang meletakkan muzik, senarai main, dan kawalan main balik anda terus pada paparan papan pemuka kereta anda." icon="truck" >}}
 
-  {{< feature-card title="Mod Luar Talian" subtitle="Muat turun album dan senarai main atau cache automatik lagu yang baru dimainkan untuk dengaran luar talian." icon="download" >}}
+  {{< feature-card title="Widget" subtitle="Aktifkan widget Skrin Utama interaktif untuk akses pantas ke baris gilir main balik anda, dan sambung terus dari tempat anda berhenti pada kedudukan tersimpan terakhir dengan satu ketikan." icon="view-grid" >}}
 
-  {{< feature-card title="Apple CarPlay" subtitle="Pandu dengan selamat dengan UI CarPlay khusus untuk main balik muzik." icon="truck" >}}
+  {{< feature-card title="Buku Audio" subtitle="Jadikan aplikasi ini pemain buku audio yang lengkap dengan penanda buku audio, kawalan kelajuan main balik, dan kedudukan media tersimpan, serta baca butiran teks yang disimpan dalam metadata fail anda." icon="book-open" >}}
 
-  {{< feature-card title="Editor Tag ID3" subtitle="Edit metadata yang rosak atau hilang menggunakan editor tag terbina dalam." icon="pencil-alt" >}}
+  {{< feature-card title="Penyegerakan Automatik" subtitle="Perpustakaan muzik anda disegerakkan secara automatik antara awan dan peranti anda, mengumpulkan setiap lagu dengan kemas mengikut artis, album, dan genre supaya koleksi anda sentiasa tersusun." icon="refresh" >}}
 
-  {{< feature-card title="Lirik dan Ulasan" subtitle="Lihat lirik dan ulasan terbenam semasa mendengar muzik anda." icon="annotation" >}}
+  {{< feature-card title="Pengurus Senarai Main" subtitle="Cipta dan urus senarai main, susun semula lagu, dan jadikan mana-mana senarai main tersedia secara luar talian. Isih trek anda mengikut nama, saiz, nombor lagu, atau album untuk memastikan semuanya teratur." icon="collection" >}}
 
-  {{< feature-card title="Last.fm" subtitle="Sambungkan akaun Last.fm anda untuk mendapatkan statistik dengaran dan cadangan peribadi." icon="chart-bar" >}}
+  {{< feature-card title="Editor Tag ID3" subtitle="Betulkan metadata yang rosak atau hilang dengan editor tag ID3 terbina dalam, mengemas kini tajuk, artis, album, dan banyak lagi supaya perpustakaan muzik anda kekal bersih dan tersusun rapi." icon="pencil-alt" >}}
+
+  {{< feature-card title="Pengurus Fail" subtitle="Susun muzik anda dengan pengurus fail bersepadu, mengendalikan operasi harian seperti salin, pindah, namakan semula, dan padam untuk memastikan semua fail audio anda kemas dan teratur." icon="folder" >}}
+
+  {{< feature-card title="Carian Lanjutan" subtitle="Cari apa sahaja dalam beberapa saat dengan enjin carian pintar, mencari album, artis, dan lagu kegemaran anda dengan pantas di mana-mana merentasi seluruh perpustakaan muzik anda." icon="search" >}}
+
+  {{< feature-card title="Kad Kilat USB" subtitle="Sambungkan pembaca kad luaran seperti SanDisk iXpand dan dengar muzik anda terus dari kad SD atau pemacu kilat USB, tanpa penyegerakan atau muat turun tambahan diperlukan." icon="inbox" >}}
   
 {{< /cards >}}
 

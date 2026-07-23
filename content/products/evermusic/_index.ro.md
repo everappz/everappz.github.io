@@ -91,31 +91,17 @@ Evermusic este un player de muzică offline gratuit pentru iPhone și Mac, dezvo
 {{< hextra/feature-grid >}}
 
   {{< hextra/feature-card
-    title="Economisește spațiu pe dispozitiv"
-    subtitle="Ai 100 GB de muzică acumulată de-a lungul anilor, dar doar 32 GB de stocare pe iPhone? Mută toate piesele în cloud și eliberează spațiu prețios pentru fotografii, videoclipuri și aplicații."
-    icon="folder"
-    style="background: radial-gradient(ellipse at 50% 80%, rgba(59,130,246,0.15), hsla(0,0%,100%,0));"
-  >}}
-
-  {{< hextra/feature-card
-    title="Acces instant la piese"
-    subtitle="Cu suport pentru cele mai populare servicii cloud, Evermusic îți permite să alegi unul sau mai multe servicii și să transmiți muzica din cloud. Fără sincronizare iTunes — fișierele audio sunt încărcate în cloud de pe PC sau Mac ca orice alt fișier."
-    icon="collection"
-    style="background: radial-gradient(ellipse at 50% 80%, rgba(192,38,211,0.15), hsla(0,0%,100%,0));"
+    title="Muzica ta în cloud"
+    subtitle="Creează-ți propriul serviciu avansat de streaming muzical gratuit! Transmite piesele preferate direct din cloud cu buffering inteligent și redare fluidă, economisind în același timp spațiul de stocare al dispozitivului. Conectează servicii precum iCloud Drive, Google Drive, Dropbox, OneDrive, Box, MEGA, pCloud, Proton Drive și multe altele."
+    icon="cloud"
+    style="background: radial-gradient(ellipse at 50% 80%, rgba(34,197,94,0.15), hsla(0,0%,100%,0));"
   >}}
 
   {{< hextra/feature-card
     title="Mod offline"
-    subtitle="Modul offline îți permite să descarci albumele, piesele, genurile și playlist-urile preferate pentru redare offline și să asculți muzică când nu ești conectat la Internet."
+    subtitle="Modul offline îți permite să descarci albumele, piesele, artiștii, genurile și playlist-urile preferate pentru redare offline. Ascultă oriunde, fie într-un zbor, la metrou sau departe de rețea, chiar și atunci când nu ești conectat la Internet, fără streaming și fără consum de date."
     icon="download"
     style="background: radial-gradient(ellipse at 50% 80%, rgba(234,88,12,0.15), hsla(0,0%,100%,0));"
-  >}}
-
-  {{< hextra/feature-card
-    title="Muzica ta în cloud"
-    subtitle="Creează-ți propriul serviciu avansat de streaming muzical gratuit! Gestionează biblioteca ta muzicală vastă, economisește spațiul de stocare și transmite piesele preferate direct din cloud cu buffering inteligent și redare fără întreruperi. Bucură-te de suport pentru servicii populare precum iCloud, Google Drive, Dropbox, MEGA.nz, Box, OneDrive și altele."
-    icon="cloud"
-    style="background: radial-gradient(ellipse at 50% 80%, rgba(34,197,94,0.15), hsla(0,0%,100%,0));"
   >}}
 
   {{< hextra/feature-card
@@ -126,9 +112,23 @@ Evermusic este un player de muzică offline gratuit pentru iPhone și Mac, dezvo
   >}}
 
   {{< hextra/feature-card
-    title="Sincronizare automată"
-    subtitle="Managerul de sincronizare scanează automat stocarea cloud pentru fișiere audio și actualizează biblioteca muzicală. Încărcătorul de metadate organizează piesele pe albume, artiști și genuri folosind tag-urile audio încorporate."
-    icon="refresh"
+    title="Servere media și NAS"
+    subtitle="Conectează-te la bibliotecile media personale și serverele de acasă precum Plex, Emby, Jellyfin, Subsonic și Navidrome. Conectează NAS-ul tău precum Synology, QNAP, Nextcloud și WD My Cloud Home prin SMB, WebDAV, FTP, SFTP, NFS sau DLNA/UPnP și accesează întreaga colecție muzicală de oriunde."
+    icon="desktop-computer"
+    style="background: radial-gradient(ellipse at 50% 80%, rgba(59,130,246,0.15), hsla(0,0%,100%,0));"
+  >}}
+
+  {{< hextra/feature-card
+    title="Motor audio profesional"
+    subtitle="Bucură-te de redare cu adevărat fără pauze și crossfade fluid între piese. Modelează-ți sunetul cu un egalizator cu 10 benzi, presetări personalizate și câștig preamplificator, viteză și tonalitate de redare reglabile, plus o suită completă de efecte de studio precum reverb, echo, chorus, flanger, bass boost, crossfeed și normalizarea volumului."
+    icon="adjustments"
+    style="background: radial-gradient(ellipse at 50% 80%, rgba(192,38,211,0.15), hsla(0,0%,100%,0));"
+  >}}
+
+  {{< hextra/feature-card
+    title="Versuri, widget-uri și CarPlay"
+    subtitle="Citește versuri LRC încorporate și sincronizate care se derulează în ritmul muzicii, chiar și pe ecranul de blocare, în widget-urile de pe ecranul principal și pe Apple CarPlay. Adaugă widget-uri Se redă acum, Versuri, Favorite și Redate recent pentru a-ți ține muzica mereu la îndemână, mereu sincronizată."
+    icon="annotation"
     style="background: radial-gradient(ellipse at 50% 80%, rgba(6,182,212,0.15), hsla(0,0%,100%,0));"
   >}}
 
@@ -218,41 +218,47 @@ Evermusic este un player de muzică offline gratuit pentru iPhone și Mac, dezvo
 
 {{< cards >}}
 
-  {{< feature-card title="Formate audio" subtitle="Suportă: mp3, m4a, flac, wav, aac, mp4, m3u, m3u8, m4b, m4p, aiff, ogg, mp2, ac3, wma și altele." icon="music-note" >}}
+  {{< feature-card title="Redă toate formatele audio" subtitle="Evermusic redă cele mai populare formate audio, inclusiv MP3, AAC, M4A, WAV, AIFF, ALAC și M4B, astfel încât întreaga ta colecție muzicală este gata de redat pe orice dispozitiv." icon="music-note" >}}
 
-  {{< feature-card title="Cărți audio" subtitle="Include marcaje audio, controlul vitezei de redare și reluare de la poziția anterioară." icon="book-open" width="50">}}
+  {{< feature-card title="Conectează cloud-ul tău" subtitle="Creează-ți propriul serviciu de streaming mutând biblioteca în cloud și eliberând spațiu pe iPhone. Conectează iCloud, Google Drive, Dropbox, OneDrive, MEGA, Internxt și Proton Drive." icon="cloud" >}}
 
-  {{< feature-card title="Sincronizare automată" subtitle="Sincronizează biblioteca muzicală cu cloud-ul, organizată pe artist, album și gen." icon="refresh" >}}
+  {{< feature-card title="Conectează servere media" subtitle="Conectează serverele media personale direct la biblioteca ta, inclusiv Plex, Subsonic, Navidrome, Jellyfin și Emby, și transmite cu ușurință tot ce deții de acasă." icon="server" >}}
 
-  {{< feature-card title="Manager de fișiere" subtitle="Gestionează fișierele cu operații precum copiere, mutare, redenumire și ștergere." icon="folder" >}}
+  {{< feature-card title="Conectează calculatorul sau NAS-ul" subtitle="Conectează calculatorul sau NAS-ul prin SMB, WebDAV, DLNA, FTP, SFTP și NFS, cu API-uri native pentru QNAP, Synology, Nextcloud și WD My Cloud Home, sau transferă fișiere prin Wi-Fi." icon="desktop-computer" >}}
 
-  {{< feature-card title="Servicii cloud" subtitle="Suportă iCloud, Google Drive, Dropbox, OneDrive, Box, MEGA, WD MyCloud Home, pCloud și altele." icon="cloud" >}}
+  {{< feature-card title="Muzică offline" subtitle="Descarcă melodiile, albumele și artiștii preferați pentru a te bucura de ei offline oricând. Activează memoria cache a playerului audio pentru a salva automat piesele redate recent pentru ascultare offline." icon="download" >}}
 
-  {{< feature-card title="Redare cu crossfade" subtitle="Următoarea melodie începe înainte ca cea curentă să se termine, pentru tranziții fluide." icon="switch-horizontal" >}}
+  {{< feature-card title="Egalizator audio" subtitle="Modelează-ți sunetul cu egalizatorul integrat, care oferă presetări gata făcute pentru genurile muzicale populare, plus controale manuale pentru a regla și amplifica fiecare piesă exact cum îți place." icon="adjustments" >}}
 
-  {{< feature-card title="Redare fără pauze" subtitle="Fără pauze între melodii — ideal pentru albume live, clasice sau concept." icon="volume-up" >}}
+  {{< feature-card title="Redare fără pauze" subtitle="Bucură-te de o redare fluidă și neîntreruptă, fără pauze între melodii, perfectă pentru înregistrări live, albume conceptuale, mixuri DJ și muzică clasică de la început până la sfârșit." icon="volume-up" >}}
 
-  {{< feature-card title="Egalizator audio" subtitle="Egalizator personalizabil cu presetări, control manual și câștig preamplificator." icon="adjustments" >}}
+  {{< feature-card title="Redare cu crossfade" subtitle="Menține muzica în mișcare cu crossfade, unde fiecare melodie nouă începe lin înainte ca cea curentă să se termine, pentru o redare continuă și fără pauze de tăcere." icon="switch-horizontal" >}}
 
-  {{< feature-card title="Căutare avansată" subtitle="Găsește rapid și ușor albumele, artiștii și piesele preferate." icon="search" >}}
+  {{< feature-card title="Efecte audio" subtitle="Modelează-ți sunetul cu efecte audio integrate. Activează normalizarea volumului pentru a păstra fiecare piesă la aceeași intensitate și adaugă reverb, delay, distorsiune și audio spațial după gust." icon="chip" >}}
 
-  {{< feature-card title="Acces de pe calculator" subtitle="Conectează-te prin SMB, WebDAV sau DLNA. Transferă prin iTunes File Sharing și Wi-Fi." icon="desktop-computer" >}}
+  {{< feature-card title="Vizualizator muzical" subtitle="Urmărește elemente vizuale animate pe tot ecranul care reacționează live la muzica ta în timp real. Alege dintr-o bibliotecă vastă de presetări sau lasă-le să se schimbe automat pe măsură ce asculți." icon="sparkles" >}}
 
-  {{< feature-card title="AirPlay și Chromecast" subtitle="Transmite wireless către dispozitive Apple TV și Google Chromecast." icon="device-mobile" >}}
+  {{< feature-card title="Versuri și comentarii" subtitle="Vizualizează versuri și comentarii sincronizate încorporate pentru piesele tale audio pe măsură ce se redau și adaugă widget-ul de versuri pe ecranul principal pentru acces rapid oricând." icon="annotation" >}}
 
-  {{< feature-card title="Playlist-uri" subtitle="Creează, editează, reordonează și exportă/importă playlist-uri M3U cu mod offline." icon="collection" >}}
+  {{< feature-card title="AirPlay și Chromecast" subtitle="Transmite muzica wireless către Apple TV, boxe inteligente și alte dispozitive cu suport integrat pentru AirPlay și Google Chromecast, pentru o ascultare fără efort în toată casa." icon="device-mobile" >}}
 
-  {{< feature-card title="Stick-uri USB" subtitle="Redă muzică direct de pe carduri SD folosind cititoare externe precum SanDisk iXpand." icon="inbox" >}}
+  {{< feature-card title="Apple CarPlay" subtitle="Condu și ascultă în siguranță cu o interfață Apple CarPlay dedicată care îți pune muzica, playlist-urile și controalele de redare direct pe ecranul de bord al mașinii." icon="truck" >}}
 
-  {{< feature-card title="Mod offline" subtitle="Descarcă albume și playlist-uri sau memorează automat piesele redate recent pentru ascultare offline." icon="download" >}}
+  {{< feature-card title="Widget-uri" subtitle="Activează widget-uri interactive pe ecranul principal pentru acces rapid la coada de redare și continuă exact de unde ai rămas, de la ultima poziție salvată, cu o singură atingere." icon="view-grid" >}}
 
-  {{< feature-card title="Apple CarPlay" subtitle="Conducă în siguranță cu o interfață CarPlay dedicată pentru redarea muzicii." icon="truck" >}}
+  {{< feature-card title="Cărți audio" subtitle="Transformă aplicația într-un player complet de cărți audio cu marcaje audio, control al vitezei de redare și poziții media salvate, plus citește detaliile text stocate în metadatele fișierelor tale." icon="book-open" >}}
 
-  {{< feature-card title="Editor de tag-uri ID3" subtitle="Editează metadatele corupte sau lipsă folosind editorul de tag-uri integrat." icon="pencil-alt" >}}
+  {{< feature-card title="Sincronizare automată" subtitle="Biblioteca ta muzicală se sincronizează automat între cloud și dispozitiv, grupând ordonat fiecare melodie pe artist, album și gen, astfel încât colecția ta rămâne mereu organizată." icon="refresh" >}}
 
-  {{< feature-card title="Versuri și comentarii" subtitle="Vizualizează versurile încorporate și comentariile în timp ce asculți muzica." icon="annotation" >}}
+  {{< feature-card title="Manager de playlist-uri" subtitle="Creează și gestionează playlist-uri, reordonează melodiile și fă orice playlist disponibil offline. Sortează piesele după nume, dimensiune, număr de melodie sau album pentru a păstra totul în ordine." icon="collection" >}}
 
-  {{< feature-card title="Last.fm" subtitle="Conectează contul tău Last.fm pentru statistici personalizate de ascultare și recomandări." icon="chart-bar" >}}
+  {{< feature-card title="Editor de tag-uri ID3" subtitle="Repară metadatele corupte sau lipsă cu editorul de tag-uri ID3 integrat, actualizând titluri, artiști, albume și altele, astfel încât biblioteca ta muzicală rămâne curată și bine organizată." icon="pencil-alt" >}}
+
+  {{< feature-card title="Manager de fișiere" subtitle="Organizează-ți muzica cu managerul de fișiere integrat, care gestionează operațiuni zilnice precum copiere, mutare, redenumire și ștergere, pentru a păstra toate fișierele audio ordonate." icon="folder" >}}
+
+  {{< feature-card title="Căutare avansată" subtitle="Găsește orice în câteva secunde cu motorul de căutare inteligent, localizând rapid albumele, artiștii și melodiile preferate oriunde în întreaga ta bibliotecă muzicală." icon="search" >}}
+
+  {{< feature-card title="Carduri flash USB" subtitle="Conectează cititoare de carduri externe precum SanDisk iXpand și ascultă muzica direct de pe un card SD sau un stick USB, fără sincronizare sau descărcări suplimentare." icon="inbox" >}}
   
 {{< /cards >}}
 
