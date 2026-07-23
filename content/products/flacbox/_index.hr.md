@@ -127,29 +127,41 @@ Sveobuhvatne značajke
 
 {{< cards >}}
 
-  {{< feature-card title="Podrška za bezgubitni audio" subtitle="Reproducirajte FLAC, ALAC, WAV, APE, DFF, WV, AIFF i mnoge druge visokokvalitetne formate." icon="music-note" >}}
-  {{< feature-card title="Offline način" subtitle="Preuzmite albume, playliste i pjesme za offline reprodukciju u bilo koje vrijeme." icon="download" >}}
-  {{< feature-card title="Upravljanje datotekama" subtitle="Jednostavno kopirajte, premještajte, preimenujte i brišite datoteke unutar aplikacije." icon="folder" >}}
+  {{< feature-card title="Kvaliteta zvuka" subtitle="Uživajte u vjernom zvuku visoke kvalitete s frekvencijama uzorkovanja od 8 kHz do 384 kHz, zadanim ili miješanim izlaznim načinima te podrškom za 1 do 7 audio kanala." icon="volume-up" >}}
+  {{< feature-card title="Bezgubitni i Hi-Res audio" subtitle="Reproducirajte bezgubitne i hi-res formate poput FLAC, ALAC, WAV, AIFF, APE, WV i DSF (DSD), uz MP3, AAC, OGG i OPUS, pri frekvencijama uzorkovanja do 384 kHz." icon="music-note" >}}
+  {{< feature-card title="Tracker i MOD glazba" subtitle="Nativno reproducirajte klasičnu tracker i module glazbu, uključujući formate MOD, XM, IT i S3M iz chiptune i demoscene svijeta koje većina playera ne može otvoriti." icon="table" >}}
 
-  {{< feature-card title="Prilagođene playliste" subtitle="Stvarajte, uređujte, preuređujte playliste te izvozite ili uvozite M3U datoteke." icon="collection" >}}
-  {{< feature-card title="Medijska biblioteka" subtitle="Dodajte glazbu i organizirajte je po albumu, izvođaču i žanru pomoću oznaka." icon="library" >}}
-  {{< feature-card title="Napredno pretraživanje" subtitle="Brzo pronađite pjesme, izvođače ili albume pametnim alatima za pretraživanje." icon="search" >}}
+  {{< feature-card title="Audio pogoni" subtitle="Odaberite između tri pogona za reprodukciju: standardni sistemski pogon, svestrani FFmpeg pogon i profesionalni BASS™ pogon koji otključava efekte, DSP i vizualizacije." icon="switch-horizontal" >}}
+  {{< feature-card title="Audio efekti" subtitle="Oblikujte svoj zvuk u stvarnom vremenu uz reverb, delay, echo, chorus, flanger, phaser, auto-wah, distortion, kompresor i prirodni crossfeed za slušalice." icon="lightning-bolt" >}}
+  {{< feature-card title="DSP lanac" subtitle="Izgradite vlastiti lanac obrade signala u stvarnom vremenu od profesionalnih filtara i EQ pojaseva, saturacije i bit crushera te kreativnih procesora poput tremola i stereo širine." icon="chip" >}}
 
-  {{< feature-card title="Streaming iz oblaka" subtitle="Streamajte s Google Drivea, Dropboxa, OneDrivea, iClouda, MEGA i više." icon="cloud" >}}
-  {{< feature-card title="Pristup NAS-u i računalu" subtitle="Povežite se putem SMB, DLNA ili WebDAV. Prenosite s iTunesom ili Wi-Fi." icon="desktop-computer" >}}
-  {{< feature-card title="USB flash kartice" subtitle="Reproducirajte glazbu izravno s SD kartica pomoću USB adaptera poput iXpand." icon="inbox" >}}
+  {{< feature-card title="Audio ekvilajzer" subtitle="Fino podesite svoj zvuk višepojasnim ekvilajzerom, gotovim žanrovskim postavkama, ručnom kontrolom i preamp pojačanjem za pojačavanje tihih pjesama bez izobličenja." icon="adjustments" >}}
+  {{< feature-card title="Glazbeni vizualizator" subtitle="Gledajte animirane vizualizacije preko cijelog zaslona koje reagiraju uživo na vašu glazbu, birajući iz velike biblioteke postavki ili puštajući ih da se izmjenjuju automatski." icon="sparkles" >}}
+  {{< feature-card title="Kontrole reprodukcije" subtitle="Prilagodite brzinu reprodukcije bez promjene visine tona, spremite i vratite red čekanja i poziciju te koristite timer za spavanje, nasumični odabir, ponavljanje i pozadinsku reprodukciju." icon="play" >}}
 
-  {{< feature-card title="Kontrole reprodukcije" subtitle="Promijenite brzinu i visinu tona reprodukcije za savršenu audio kontrolu." icon="fast-forward" >}}
-  {{< feature-card title="Tekstovi i komentari" subtitle="Pregledajte ugrađene tekstove pjesama i komentare tijekom reprodukcije." icon="annotation" >}}
-  {{< feature-card title="ID3 uređivač oznaka" subtitle="Uredite i popravite metapodatke poput naslova, izvođača ili albuma ugrađenim alatom." icon="pencil-alt" >}}
+  {{< feature-card title="Streaming iz oblaka" subtitle="Streamajte izravno s iCloud Drive, Google Drive, Dropbox, OneDrive, Box, MEGA i pCloud, uz oblake usmjerene na privatnost poput Internxt i Proton Drive." icon="cloud" >}}
+  {{< feature-card title="Medijski poslužitelji" subtitle="Povežite svoje osobne medijske poslužitelje, uključujući Plex, Subsonic, Navidrome, Jellyfin i Emby, za otvaranje i streamanje cijele glazbene biblioteke." icon="server" >}}
+  {{< feature-card title="Računalo i NAS" subtitle="Povežite računalo ili NAS putem SMB, WebDAV, DLNA, FTP, SFTP ili NFS, uz nativnu podršku za QNAP, Synology, Nextcloud i WD My Cloud Home." icon="desktop-computer" >}}
 
-  {{< feature-card title="Ekvilajzer i pojačanje" subtitle="Koristite postavke ili ručno prilagodite s preamp pojačanjem za bogat zvuk." icon="adjustments" >}}
-  {{< feature-card title="Apple CarPlay" subtitle="Vozite sigurno s posvećenim CarPlay sučeljem za reprodukciju glazbe." icon="truck" >}}
-  {{< feature-card title="AirPlay i Chromecast" subtitle="Streamajte na Apple TV i Google Chromecast uređaje bežično." icon="device-mobile" >}}
+  {{< feature-card title="USB flash kartice" subtitle="Reproducirajte glazbu izravno sa SD kartica i USB flash pogona pomoću vanjskih čitača poput SanDisk iXpand, bez potrebe za uvozom ili sinkronizacijom." icon="inbox" >}}
+  {{< feature-card title="AirPlay i Chromecast" subtitle="Šaljite svoju glazbu bežično na Apple TV, HomePod, pametne zvučnike i više uz ugrađenu podršku za AirPlay, AirPlay 2 i Google Chromecast." icon="device-mobile" >}}
+  {{< feature-card title="Apple CarPlay" subtitle="Vozite i slušajte sigurno uz jednostavan, posvećen Apple CarPlay zaslon za odabir i kontrolu glazbe iz oblaka, lokalnih i offline izvora." icon="map" >}}
 
-  {{< feature-card title="Last.fm integracija" subtitle="Pratite statistiku glazbe i dobivajte personalizirane preporuke pjesama." icon="chart-bar" >}}
-  {{< feature-card title="Automatska sinkronizacija" subtitle="Automatski sinkronizirajte glazbenu biblioteku s oblakom i lokalnim mapama." icon="refresh" >}}
-  {{< feature-card title="Podrška za audioknjige" subtitle="Slušajte audioknjige s oznakama, timerom za spavanje i nastavkom reprodukcije od mjesta gdje ste stali." icon="book-open" >}}
+  {{< feature-card title="Offline slušanje" subtitle="Preuzmite pjesme, albume i cijele izvođače za slušanje bez interneta ili uključite audio predmemoriju za automatsko spremanje nedavno reproduciranih pjesama." icon="download" >}}
+  {{< feature-card title="Automatska sinkronizacija" subtitle="Automatski održavajte biblioteku sinkroniziranom između pohrane u oblaku i lokalnih mapa, tako da se novo dodane datoteke pojavljuju bez ikakvog ručnog rada." icon="refresh" >}}
+  {{< feature-card title="Medijska biblioteka" subtitle="Dodajte svoju glazbu i organizirajte je automatski po albumu, izvođaču, izvođaču albuma, žanru i skladatelju pomoću oznaka ugrađenih u vaše datoteke." icon="library" >}}
+
+  {{< feature-card title="Prilagođene playliste" subtitle="Stvarajte, uređujte i preuređujte vlastite playliste, učinite ih dostupnima offline te ih uvozite ili izvozite u formatima M3U, M3U8 i CUE." icon="collection" >}}
+  {{< feature-card title="Upravitelj datoteka" subtitle="Upravljajte svojom glazbom pomoću ugrađenog upravitelja datoteka, obavljajući svakodnevne radnje poput kopiranja, premještanja, preimenovanja i brisanja kako biste datoteke održali urednima." icon="folder" >}}
+  {{< feature-card title="ID3 uređivač oznaka" subtitle="Popravite netočne ili nedostajuće metapodatke pomoću ugrađenog ID3 uređivača oznaka, ažurirajući naslov, izvođača, album, žanr i više u samo nekoliko dodira." icon="pencil-alt" >}}
+
+  {{< feature-card title="Napredno pretraživanje" subtitle="Brzo pronađite bilo koju pjesmu, izvođača ili album u cijeloj svojoj kolekciji uz pametno, brzo pretraživanje osmišljeno za vrlo velike glazbene biblioteke." icon="search" >}}
+  {{< feature-card title="Brzi pristup" subtitle="Vratite se izravno na ono što je važno uz Nedavno reproducirano, Favorite i Knjižne oznake, držeći svoje omiljene pjesme uvijek na samo jedan dodir." icon="clock" >}}
+  {{< feature-card title="Tekstovi i komentari" subtitle="Pregledajte vremenski usklađene tekstove i bilješke o pjesmi unutar svake pjesme dok svira te dodajte widget Tekstovi na početni zaslon za brzi pristup na prvi pogled." icon="annotation" >}}
+
+  {{< feature-card title="Widgeti" subtitle="Dodajte widgete na početni zaslon koji prikazuju red čekanja za reprodukciju i omogućuju vam da nastavite točno tamo gdje ste zadnji put stali." icon="view-grid" >}}
+  {{< feature-card title="Podrška za audioknjige" subtitle="Slušajte audioknjige uz knjižne oznake, timer za spavanje, podesivu brzinu i nastavak reprodukcije koji se nastavlja točno tamo gdje ste zadnji put stali." icon="book-open" >}}
+  {{< feature-card title="Last.fm integracija" subtitle="Povežite svoj Last.fm račun za scrobbling pjesama, praćenje statistike slušanja i dobivanje personaliziranih glazbenih preporuka tijekom vremena." icon="chart-bar" >}}
 
 {{< /cards >}}
 

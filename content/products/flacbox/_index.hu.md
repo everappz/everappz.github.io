@@ -127,29 +127,41 @@ Teljeskörű funkciók
 
 {{< cards >}}
 
-  {{< feature-card title="Veszteségmentes audió támogatás" subtitle="Játssz le FLAC, ALAC, WAV, APE, DFF, WV, AIFF és sok más kiváló minőségű formátumot." icon="music-note" >}}
-  {{< feature-card title="Offline mód" subtitle="Tölts le albumokat, lejátszási listákat és számokat offline lejátszáshoz bármikor." icon="download" >}}
-  {{< feature-card title="Fájlkezelés" subtitle="Egyszerűen másolj, mozgass, nevezz át és törölj fájlokat az alkalmazáson belül." icon="folder" >}}
+  {{< feature-card title="Hangminőség" subtitle="Élvezd a nagy pontosságú kimenetet 8 kHz-től 384 kHz-ig terjedő mintavételi sebességekkel, alapértelmezett vagy kevert kimeneti módokkal, valamint 1 és 7 közötti hangcsatorna támogatásával." icon="volume-up" >}}
+  {{< feature-card title="Veszteségmentes és Hi-Res audió" subtitle="Játssz le veszteségmentes és hi-res formátumokat, mint FLAC, ALAC, WAV, AIFF, APE, WV és DSF (DSD), valamint MP3, AAC, OGG és OPUS, akár 384 kHz-es mintavételi sebességgel." icon="music-note" >}}
+  {{< feature-card title="Tracker és MOD zene" subtitle="Játssz le klasszikus tracker- és modulzenét natívan, beleértve a MOD, XM, IT és S3M formátumokat a chiptune és demoscene világából, amelyeket a legtöbb lejátszó nem tud megnyitni." icon="table" >}}
 
-  {{< feature-card title="Egyéni lejátszási listák" subtitle="Hozz létre, szerkessz, rendezd át a lejátszási listákat, és exportálj vagy importálj M3U fájlokat." icon="collection" >}}
-  {{< feature-card title="Médiakönyvtár" subtitle="Adj hozzá zenét és rendezd album, előadó és műfaj szerint címkék segítségével." icon="library" >}}
-  {{< feature-card title="Fejlett keresés" subtitle="Gyorsan keress dalokat, előadókat vagy albumokat az intelligens keresőeszközökkel." icon="search" >}}
+  {{< feature-card title="Audiomotorok" subtitle="Válassz a három lejátszási motor közül: a szabványos rendszermotor, a sokoldalú FFmpeg motor és a professzionális BASS™ motor, amely effekteket, DSP-t és vizuális elemeket old fel." icon="switch-horizontal" >}}
+  {{< feature-card title="Audioeffektek" subtitle="Formáld a hangzást valós időben zengetéssel, késleltetéssel, visszhanggal, chorusszal, flangerrel, phaserrel, auto-wah-val, torzítással, kompresszorral és természetes fejhallgató-crossfeeddel." icon="lightning-bolt" >}}
+  {{< feature-card title="DSP lánc" subtitle="Építsd fel saját valós idejű jelláncodat professzionális szűrőkből és EQ-sávokból, szaturációból és bit crusherből, valamint kreatív processzorokból, mint a tremoló és a sztereó szélesség." icon="chip" >}}
 
-  {{< feature-card title="Felhő streamelés" subtitle="Streamelj Google Drive-ról, Dropboxból, OneDrive-ról, iCloudból, MEGA-ról és más szolgáltatásokból." icon="cloud" >}}
-  {{< feature-card title="NAS és számítógép elérés" subtitle="Csatlakozz SMB, DLNA vagy WebDAV segítségével. Vidd át iTunesszal vagy Wi-Fi-vel." icon="desktop-computer" >}}
-  {{< feature-card title="USB flash kártyák" subtitle="Játssz le zenét közvetlenül SD kártyákról USB adapterekkel, mint az iXpand." icon="inbox" >}}
+  {{< feature-card title="Audio hangszínszabályzó" subtitle="Finomhangold a hangzást többsávos hangszínszabályzóval, kész műfaji előbeállításokkal, kézi vezérléssel és előerősítő erősítéssel a halk számok kiemeléséhez torzítás nélkül." icon="adjustments" >}}
+  {{< feature-card title="Zenei vizualizáció" subtitle="Nézz teljes képernyős animált vizuális elemeket, amelyek élőben reagálnak a zenédre; válassz a nagy előbeállítás-gyűjteményből, vagy hagyd őket automatikusan váltakozni." icon="sparkles" >}}
+  {{< feature-card title="Lejátszásvezérlők" subtitle="Állítsd a lejátszási sebességet a hangmagasság megváltoztatása nélkül, mentsd és állítsd vissza a sort és a pozíciót, használj alvásidőzítőt, keverést, ismétlést és háttérben lejátszást." icon="play" >}}
 
-  {{< feature-card title="Lejátszásvezérlők" subtitle="Változtasd a lejátszási sebességet és hangmagasságot a tökéletes hangzásért." icon="fast-forward" >}}
-  {{< feature-card title="Dalszövegek és megjegyzések" subtitle="Tekintsd meg a beágyazott dalszövegeket és megjegyzéseket lejátszás közben." icon="annotation" >}}
-  {{< feature-card title="ID3 címkeszerkesztő" subtitle="Szerkeszd és javítsd a metaadatokat, mint a cím, előadó vagy album a beépített eszközzel." icon="pencil-alt" >}}
+  {{< feature-card title="Felhő streamelés" subtitle="Streamelj közvetlenül iCloud Drive-ról, Google Drive-ról, Dropboxból, OneDrive-ról, Boxból, MEGA-ról és pCloudról, valamint adatvédelemre fókuszáló felhőkről, mint az Internxt és a Proton Drive." icon="cloud" >}}
+  {{< feature-card title="Médiakiszolgálók" subtitle="Csatlakoztasd személyes médiakiszolgálóidat, köztük a Plexet, Subsonicot, Navidrome-ot, Jellyfint és Embyt, hogy megnyisd és streameld teljes zenei könyvtáradat." icon="server" >}}
+  {{< feature-card title="Számítógép és NAS" subtitle="Csatlakozz számítógéphez vagy NAS-hoz SMB, WebDAV, DLNA, FTP, SFTP vagy NFS protokollon, natív támogatással a QNAP, Synology, Nextcloud és WD My Cloud Home eszközökhöz." icon="desktop-computer" >}}
 
-  {{< feature-card title="Hangszínszabályzó és kiemelés" subtitle="Használj előbeállításokat vagy kézi beállítást előerősítő hangerővel a gazdag hangzásért." icon="adjustments" >}}
-  {{< feature-card title="Apple CarPlay" subtitle="Vezess biztonságosan a dedikált CarPlay felülettel a zenelejátszáshoz." icon="truck" >}}
-  {{< feature-card title="AirPlay és Chromecast" subtitle="Streamelj Apple TV-re és Google Chromecast eszközökre vezeték nélkül." icon="device-mobile" >}}
+  {{< feature-card title="USB flash kártyák" subtitle="Játssz le zenét közvetlenül SD kártyákról és USB flash meghajtókról külső olvasókkal, mint a SanDisk iXpand, importálás vagy szinkronizálás nélkül." icon="inbox" >}}
+  {{< feature-card title="AirPlay és Chromecast" subtitle="Küldd zenédet vezeték nélkül Apple TV-re, HomePodra, okos hangszórókra és másokra a beépített AirPlay, AirPlay 2 és Google Chromecast támogatással." icon="device-mobile" >}}
+  {{< feature-card title="Apple CarPlay" subtitle="Vezess és hallgass zenét biztonságosan egy egyszerű, dedikált Apple CarPlay képernyővel, amellyel felhős, helyi és offline forrásokból választhatsz és vezérelheted a zenét." icon="map" >}}
 
-  {{< feature-card title="Last.fm integráció" subtitle="Kövesd zenei statisztikáidat és kapj személyre szabott dalajánlatokat." icon="chart-bar" >}}
-  {{< feature-card title="Automatikus szinkronizálás" subtitle="Automatikusan szinkronizáld zenei könyvtáradat felhő és helyi mappákkal." icon="refresh" >}}
-  {{< feature-card title="Hangoskönyv támogatás" subtitle="Hallgass hangoskönyveket könyvjelzőkkel, alvásidőzítővel és lejátszás folytatásával onnan, ahol abbahagytad." icon="book-open" >}}
+  {{< feature-card title="Offline hallgatás" subtitle="Tölts le dalokat, albumokat és teljes előadókat internet nélküli hallgatáshoz, vagy kapcsold be az audio gyorsítótárat a legutóbb lejátszott számok automatikus mentéséhez." icon="download" >}}
+  {{< feature-card title="Automatikus szinkronizálás" subtitle="Tartsd könyvtáradat automatikusan szinkronban a felhőtárhely és a helyi mappák között, így az újonnan hozzáadott fájlok kézi munka nélkül megjelennek." icon="refresh" >}}
+  {{< feature-card title="Médiakönyvtár" subtitle="Add hozzá zenédet és rendezd automatikusan album, előadó, albumelőadó, műfaj és zeneszerző szerint a fájljaidba ágyazott címkék alapján." icon="library" >}}
+
+  {{< feature-card title="Egyéni lejátszási listák" subtitle="Hozz létre, szerkessz és rendezz át saját lejátszási listákat, tedd őket offline elérhetővé, és importáld vagy exportáld őket M3U, M3U8 és CUE formátumban." icon="collection" >}}
+  {{< feature-card title="Fájlkezelő" subtitle="Kezeld zenédet a beépített fájlkezelővel, amely olyan mindennapi műveleteket végez, mint a másolás, áthelyezés, átnevezés és törlés, hogy rendben tartsd a fájljaidat." icon="folder" >}}
+  {{< feature-card title="ID3 címkeszerkesztő" subtitle="Javítsd a hibás vagy hiányzó metaadatokat a beépített ID3 címkeszerkesztővel, néhány koppintással frissítve a címet, előadót, albumot, műfajt és többet." icon="pencil-alt" >}}
+
+  {{< feature-card title="Fejlett keresés" subtitle="Gyorsan találj meg bármely dalt, előadót vagy albumot a teljes gyűjteményedben egy okos, gyors kereséssel, amelyet nagyon nagy zenei könyvtárakhoz terveztek." icon="search" >}}
+  {{< feature-card title="Gyors hozzáférés" subtitle="Ugorj vissza egyenesen ahhoz, ami számít, a Legutóbbiak, Kedvencek és Könyvjelzők segítségével, hogy kedvenc számaid mindig egyetlen koppintásra legyenek." icon="clock" >}}
+  {{< feature-card title="Dalszövegek és megjegyzések" subtitle="Tekintsd meg az időzített dalszövegeket és dalmegjegyzéseket minden számon belül lejátszás közben, és add hozzá a Dalszöveg widgetet a kezdőképernyődhöz a gyors áttekintésért." icon="annotation" >}}
+
+  {{< feature-card title="Widgetek" subtitle="Adj hozzá kezdőképernyős widgeteket, amelyek megmutatják a lejátszási sorodat, és lehetővé teszik, hogy egyből visszatérj, pontosan onnan folytatva, ahol abbahagytad." icon="view-grid" >}}
+  {{< feature-card title="Hangoskönyv támogatás" subtitle="Hallgass hangoskönyveket könyvjelzőkkel, alvásidőzítővel, állítható sebességgel és lejátszás folytatásával, amely pontosan onnan folytatja, ahol legutóbb abbahagytad." icon="book-open" >}}
+  {{< feature-card title="Last.fm integráció" subtitle="Csatlakoztasd Last.fm fiókodat számok scrobbleléséhez, kövesd hallgatási statisztikáidat, és kapj személyre szabott zenei ajánlásokat idővel." icon="chart-bar" >}}
 
 {{< /cards >}}
 

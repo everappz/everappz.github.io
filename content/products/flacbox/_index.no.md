@@ -127,29 +127,41 @@ Komplett funksjonsoversikt
 
 {{< cards >}}
 
-  {{< feature-card title="Tapsfri lydstøtte" subtitle="Spill FLAC, ALAC, WAV, APE, DFF, WV, AIFF og mange andre høykvalitetsformater." icon="music-note" >}}
-  {{< feature-card title="Frakoblet modus" subtitle="Last ned album, spillelister og spor for frakoblet avspilling når som helst." icon="download" >}}
-  {{< feature-card title="Filbehandling" subtitle="Kopier, flytt, gi nytt navn og slett filer enkelt i appen." icon="folder" >}}
+  {{< feature-card title="Lydkvalitet" subtitle="Nyt lyd med høy troverdighet med samplingsrater fra 8 kHz til 384 kHz, standard eller blandede utgangsmoduser, og støtte for 1 til 7 lydkanaler." icon="volume-up" >}}
+  {{< feature-card title="Tapsfri og hi-res lyd" subtitle="Spill tapsfrie og hi-res formater som FLAC, ALAC, WAV, AIFF, APE, WV og DSF (DSD), pluss MP3, AAC, OGG og OPUS, med samplingsrater opp til 384 kHz." icon="music-note" >}}
+  {{< feature-card title="Tracker- og MOD-musikk" subtitle="Spill klassisk tracker- og modulmusikk naturlig, inkludert MOD-, XM-, IT- og S3M-formater fra chiptune- og demoscene-miljøet som de fleste spillere ikke kan åpne." icon="table" >}}
 
-  {{< feature-card title="Egendefinerte spillelister" subtitle="Opprett, rediger, endre rekkefølge på spillelister, og eksporter eller importer M3U-filer." icon="collection" >}}
-  {{< feature-card title="Mediebibliotek" subtitle="Legg til musikk og organiser den etter album, artist og sjanger ved hjelp av tagger." icon="library" >}}
-  {{< feature-card title="Avansert søk" subtitle="Finn sanger, artister eller album raskt med smarte søkeverktøy." icon="search" >}}
+  {{< feature-card title="Lydmotorer" subtitle="Velg mellom tre avspillingsmotorer: standard systemmotor, en allsidig FFmpeg-motor, og den profesjonelle BASS™-motoren som låser opp effekter, DSP og visualiseringer." icon="switch-horizontal" >}}
+  {{< feature-card title="Lydeffekter" subtitle="Form lyden i sanntid med romklang, delay, ekko, chorus, flanger, phaser, auto-wah, forvrengning, en kompressor og naturlig crossfeed for hodetelefoner." icon="lightning-bolt" >}}
+  {{< feature-card title="DSP-kjede" subtitle="Bygg din egen signalkjede i sanntid av profesjonelle filtre og EQ-bånd, metning og en bit-crusher, pluss kreative prosessorer som tremolo og stereobredde." icon="chip" >}}
 
-  {{< feature-card title="Skystrømming" subtitle="Strøm fra Google Drive, Dropbox, OneDrive, iCloud, MEGA og mer." icon="cloud" >}}
-  {{< feature-card title="NAS- og datatilgang" subtitle="Koble til via SMB, DLNA eller WebDAV. Overfør med iTunes eller Wi-Fi." icon="desktop-computer" >}}
-  {{< feature-card title="USB-minnekort" subtitle="Spill musikk direkte fra SD-kort ved hjelp av USB-adaptere som iXpand." icon="inbox" >}}
+  {{< feature-card title="Lyd-equalizer" subtitle="Finjuster lyden med en flerbånds-equalizer, ferdiglagde sjangerforhåndsinnstillinger, manuell kontroll og forforsterkerforsterkning for å løfte stille spor uten forvrengning." icon="adjustments" >}}
+  {{< feature-card title="Musikkvisualisering" subtitle="Se animerte fullskjermsvisualiseringer som reagerer live på musikken din, velg fra et stort bibliotek av forhåndsinnstillinger eller la dem veksle automatisk." icon="sparkles" >}}
+  {{< feature-card title="Avspillingskontroller" subtitle="Juster avspillingshastigheten uten å endre tonehøyden, lagre og gjenopprett køen og posisjonen din, og bruk søvntimer, tilfeldig avspilling, gjentakelse og bakgrunnsavspilling." icon="play" >}}
 
-  {{< feature-card title="Avspillingskontroller" subtitle="Endre avspillingshastighet og tonehøyde for perfekt lydkontroll." icon="fast-forward" >}}
-  {{< feature-card title="Sangtekster og kommentarer" subtitle="Vis innebygde sangtekster og kommentarer mens du spiller sanger." icon="annotation" >}}
-  {{< feature-card title="ID3-taggredigerer" subtitle="Rediger og fiks metadata som tittel, artist eller album med det innebygde verktøyet." icon="pencil-alt" >}}
+  {{< feature-card title="Skystrømming" subtitle="Strøm direkte fra iCloud Drive, Google Drive, Dropbox, OneDrive, Box, MEGA og pCloud, pluss personvernvennlige skyer som Internxt og Proton Drive." icon="cloud" >}}
+  {{< feature-card title="Medieservere" subtitle="Koble til dine personlige medieservere, inkludert Plex, Subsonic, Navidrome, Jellyfin og Emby, for å åpne og strømme hele musikkbiblioteket ditt." icon="server" >}}
+  {{< feature-card title="Datamaskin og NAS" subtitle="Koble til en datamaskin eller NAS over SMB, WebDAV, DLNA, FTP, SFTP eller NFS, med naturlig støtte for QNAP, Synology, Nextcloud og WD My Cloud Home." icon="desktop-computer" >}}
 
-  {{< feature-card title="Equalizer og forsterkning" subtitle="Bruk forhåndsinnstillinger eller juster manuelt med forforsterkerforsterkning for rik lyd." icon="adjustments" >}}
-  {{< feature-card title="Apple CarPlay" subtitle="Kjør trygt med et dedikert CarPlay-grensesnitt for musikkavspilling." icon="truck" >}}
-  {{< feature-card title="AirPlay og Chromecast" subtitle="Strøm til Apple TV og Google Chromecast-enheter trådløst." icon="device-mobile" >}}
+  {{< feature-card title="USB-minnekort" subtitle="Spill musikk rett fra SD-kort og USB-minnepinner ved hjelp av eksterne lesere som SanDisk iXpand, uten behov for import eller synkronisering." icon="inbox" >}}
+  {{< feature-card title="AirPlay og Chromecast" subtitle="Send musikken din trådløst til Apple TV, HomePod, smarthøyttalere og mer med innebygd støtte for AirPlay, AirPlay 2 og Google Chromecast." icon="device-mobile" >}}
+  {{< feature-card title="Apple CarPlay" subtitle="Kjør og lytt trygt med en enkel, dedikert Apple CarPlay-skjerm for å velge og styre musikk fra sky-, lokale og frakoblede kilder." icon="map" >}}
 
-  {{< feature-card title="Last.fm-integrasjon" subtitle="Spor musikkstatistikk og få personlige sanganbefalinger." icon="chart-bar" >}}
-  {{< feature-card title="Automatisk synkronisering" subtitle="Automatisk synkronisering av musikkbiblioteket med sky- og lokale mapper." icon="refresh" >}}
-  {{< feature-card title="Lydbokstøtte" subtitle="Lytt til lydbøker med bokmerker, søvntimer og gjenoppta avspilling der du stoppet." icon="book-open" >}}
+  {{< feature-card title="Frakoblet lytting" subtitle="Last ned sanger, album og hele artister for å lytte uten internett, eller slå på lydbufferen for å lagre nylig spilte spor automatisk." icon="download" >}}
+  {{< feature-card title="Automatisk synkronisering" subtitle="Hold biblioteket ditt synkronisert automatisk mellom skylagringen og lokale mapper, slik at nylig lagt til filer dukker opp uten noe manuelt arbeid." icon="refresh" >}}
+  {{< feature-card title="Mediebibliotek" subtitle="Legg til musikken din og organiser den automatisk etter album, artist, albumartist, sjanger og komponist ved hjelp av taggene i filene dine." icon="library" >}}
+
+  {{< feature-card title="Egendefinerte spillelister" subtitle="Opprett, rediger og endre rekkefølge på dine egne spillelister, gjør dem tilgjengelige frakoblet, og importer eller eksporter dem i M3U-, M3U8- og CUE-format." icon="collection" >}}
+  {{< feature-card title="Filbehandler" subtitle="Administrer musikken din med den innebygde filbehandleren, som håndterer dagligdagse operasjoner som kopiere, flytte, gi nytt navn og slette for å holde orden på filene." icon="folder" >}}
+  {{< feature-card title="ID3-taggredigerer" subtitle="Fiks feil eller manglende metadata med den innebygde ID3-taggredigereren, og oppdater tittel, artist, album, sjanger og mer med bare noen få trykk." icon="pencil-alt" >}}
+
+  {{< feature-card title="Avansert søk" subtitle="Finn raskt en hvilken som helst sang, artist eller album på tvers av hele samlingen din med et smart, raskt søk laget for svært store musikkbiblioteker." icon="search" >}}
+  {{< feature-card title="Rask tilgang" subtitle="Hopp rett tilbake til det som betyr noe med Nylig spilte, Favoritter og Bokmerker, som holder favorittsporene dine bare ett trykk unna." icon="clock" >}}
+  {{< feature-card title="Sangtekster og kommentarer" subtitle="Vis tidsbestemte sangtekster og sangnotater inne i hvert spor mens det spilles, og legg til Sangtekster-widgeten på Hjemskjermen for rask oversikt." icon="annotation" >}}
+
+  {{< feature-card title="Widgeter" subtitle="Legg til Hjemskjerm-widgeter som viser avspillingskøen din og lar deg hoppe rett tilbake, og fortsette nøyaktig der du slapp sist." icon="view-grid" >}}
+  {{< feature-card title="Lydbokstøtte" subtitle="Lytt til lydbøker med bokmerker, søvntimer, justerbar hastighet og gjenoppta avspilling som starter rett der du sist stoppet." icon="book-open" >}}
+  {{< feature-card title="Last.fm-integrasjon" subtitle="Koble til Last.fm-kontoen din for å scrobble spor, følge lyttestatistikken din og få personlige musikkanbefalinger over tid." icon="chart-bar" >}}
 
 {{< /cards >}}
 

@@ -127,29 +127,41 @@ Umfassende Funktionen
 
 {{< cards >}}
 
-  {{< feature-card title="Verlustfreie Audio-Unterstützung" subtitle="Spielen Sie FLAC, ALAC, WAV, APE, DFF, WV, AIFF und viele andere hochwertige Formate." icon="music-note" >}}
-  {{< feature-card title="Offline-Modus" subtitle="Laden Sie Alben, Playlists und Titel für die Offline-Wiedergabe jederzeit herunter." icon="download" >}}
-  {{< feature-card title="Dateiverwaltung" subtitle="Kopieren, verschieben, umbenennen und löschen Sie Dateien einfach in der App." icon="folder" >}}
+  {{< feature-card title="Audioqualität" subtitle="Genießen Sie High-Fidelity-Ausgabe mit Abtastraten von 8 kHz bis 384 kHz, Standard- oder Mix-Ausgabemodi und Unterstützung für 1 to 7 audio channels." icon="volume-up" >}}
+  {{< feature-card title="Verlustfreies & Hi-Res Audio" subtitle="Spielen Sie verlustfreie und Hi-Res-Formate wie FLAC, ALAC, WAV, AIFF, APE, WV und DSF (DSD) sowie MP3, AAC, OGG und OPUS mit Abtastraten bis zu 384 kHz." icon="music-note" >}}
+  {{< feature-card title="Tracker- & MOD-Musik" subtitle="Spielen Sie klassische Tracker- und Modul-Musik nativ ab, darunter MOD, XM, IT und S3M aus der Chiptune- und Demoszene, die die meisten Player nicht öffnen können." icon="table" >}}
 
-  {{< feature-card title="Benutzerdefinierte Playlists" subtitle="Erstellen, bearbeiten, sortieren Sie Playlists und exportieren oder importieren Sie M3U-Dateien." icon="collection" >}}
-  {{< feature-card title="Medienbibliothek" subtitle="Fügen Sie Musik hinzu und organisieren Sie sie nach Album, Künstler und Genre mit Tags." icon="library" >}}
-  {{< feature-card title="Erweiterte Suche" subtitle="Finden Sie schnell Songs, Künstler oder Alben mit intelligenten Suchwerkzeugen." icon="search" >}}
+  {{< feature-card title="Audio-Engines" subtitle="Wählen Sie aus drei Wiedergabe-Engines: der Standard-Systemengine, einer vielseitigen FFmpeg-Engine und der professionellen BASS™-Engine, die Effekte, DSP und Visualisierungen freischaltet." icon="switch-horizontal" >}}
+  {{< feature-card title="Audioeffekte" subtitle="Formen Sie Ihren Klang in Echtzeit mit Hall, Delay, Echo, Chorus, Flanger, Phaser, Auto-Wah, Verzerrung, einem Kompressor und natürlichem Kopfhörer-Crossfeed." icon="lightning-bolt" >}}
+  {{< feature-card title="DSP-Kette" subtitle="Bauen Sie Ihre eigene Echtzeit-Signalkette aus professionellen Filtern und EQ-Bändern, Sättigung und einem Bit Crusher sowie kreativen Prozessoren wie Tremolo und Stereobreite." icon="chip" >}}
 
-  {{< feature-card title="Cloud-Streaming" subtitle="Streamen Sie von Google Drive, Dropbox, OneDrive, iCloud, MEGA und mehr." icon="cloud" >}}
-  {{< feature-card title="NAS- & Computer-Zugriff" subtitle="Verbinden Sie sich über SMB, DLNA oder WebDAV. Übertragen Sie mit iTunes oder Wi-Fi." icon="desktop-computer" >}}
-  {{< feature-card title="USB-Speicherkarten" subtitle="Spielen Sie Musik direkt von SD-Karten mit USB-Adaptern wie iXpand." icon="inbox" >}}
+  {{< feature-card title="Audio-Equalizer" subtitle="Feinabstimmung Ihres Klangs mit einem Multiband-Equalizer, fertigen Genre-Voreinstellungen, manueller Steuerung und Vorverstärkung, um leise Titel ohne Clipping anzuheben." icon="adjustments" >}}
+  {{< feature-card title="Musik-Visualizer" subtitle="Sehen Sie animierte Vollbild-Visualisierungen, die live auf Ihre Musik reagieren – wählen Sie aus einer großen Voreinstellungsbibliothek oder lassen Sie sie automatisch wechseln." icon="sparkles" >}}
+  {{< feature-card title="Wiedergabesteuerung" subtitle="Passen Sie die Wiedergabegeschwindigkeit ohne Tonhöhenänderung an, speichern und stellen Sie Warteschlange und Position wieder her und nutzen Sie Schlaftimer, Zufallswiedergabe, Wiederholung und Hintergrundwiedergabe." icon="play" >}}
 
-  {{< feature-card title="Wiedergabesteuerung" subtitle="Ändern Sie Wiedergabegeschwindigkeit und Tonhöhe für perfekte Audiokontrolle." icon="fast-forward" >}}
-  {{< feature-card title="Texte & Kommentare" subtitle="Zeigen Sie eingebettete Texte und Kommentare beim Abspielen von Songs an." icon="annotation" >}}
-  {{< feature-card title="ID3-Tag-Editor" subtitle="Bearbeiten und korrigieren Sie Metadaten wie Titel, Künstler oder Album mit dem integrierten Tool." icon="pencil-alt" >}}
+  {{< feature-card title="Cloud-Streaming" subtitle="Streamen Sie direkt von iCloud Drive, Google Drive, Dropbox, OneDrive, Box, MEGA und pCloud sowie datenschutzorientierten Clouds wie Internxt und Proton Drive." icon="cloud" >}}
+  {{< feature-card title="Medienserver" subtitle="Verbinden Sie Ihre persönlichen Medienserver, darunter Plex, Subsonic, Navidrome, Jellyfin und Emby, um Ihre gesamte Musikbibliothek zu öffnen und zu streamen." icon="server" >}}
+  {{< feature-card title="Computer & NAS" subtitle="Verbinden Sie einen Computer oder ein NAS über SMB, WebDAV, DLNA, FTP, SFTP oder NFS, mit nativer Unterstützung für QNAP, Synology, Nextcloud und WD My Cloud Home." icon="desktop-computer" >}}
 
-  {{< feature-card title="Equalizer & Verstärkung" subtitle="Verwenden Sie Voreinstellungen oder passen Sie manuell mit Vorverstärkung für satten Klang an." icon="adjustments" >}}
-  {{< feature-card title="Apple CarPlay" subtitle="Fahren Sie sicher mit einer dedizierten CarPlay-Oberfläche für die Musikwiedergabe." icon="truck" >}}
-  {{< feature-card title="AirPlay & Chromecast" subtitle="Streamen Sie drahtlos zu Apple TV und Google Chromecast-Geräten." icon="device-mobile" >}}
+  {{< feature-card title="USB-Speicherkarten" subtitle="Spielen Sie Musik direkt von SD-Karten und USB-Sticks über externe Lesegeräte wie den SanDisk iXpand ab – ohne Importieren oder Synchronisieren." icon="inbox" >}}
+  {{< feature-card title="AirPlay & Chromecast" subtitle="Senden Sie Ihre Musik drahtlos an Apple TV, HomePod, smarte Lautsprecher und mehr mit integrierter Unterstützung für AirPlay, AirPlay 2 und Google Chromecast." icon="device-mobile" >}}
+  {{< feature-card title="Apple CarPlay" subtitle="Fahren und hören Sie sicher mit einer einfachen, dedizierten Apple CarPlay-Oberfläche zum Auswählen und Steuern von Musik aus Cloud-, lokalen und Offline-Quellen." icon="map" >}}
 
-  {{< feature-card title="Last.fm-Integration" subtitle="Verfolgen Sie Musikstatistiken und erhalten Sie personalisierte Song-Empfehlungen." icon="chart-bar" >}}
-  {{< feature-card title="Automatische Synchronisierung" subtitle="Synchronisieren Sie Ihre Musikbibliothek automatisch mit Cloud- und lokalen Ordnern." icon="refresh" >}}
-  {{< feature-card title="Hörbuch-Unterstützung" subtitle="Hören Sie Hörbücher mit Lesezeichen, Schlaftimer und setzen Sie die Wiedergabe dort fort, wo Sie aufgehört haben." icon="book-open" >}}
+  {{< feature-card title="Offline hören" subtitle="Laden Sie Songs, Alben und ganze Künstler herunter, um ohne Internet zu hören, oder aktivieren Sie den Audio-Cache, um zuletzt gespielte Titel automatisch zu speichern." icon="download" >}}
+  {{< feature-card title="Automatische Synchronisierung" subtitle="Halten Sie Ihre Bibliothek automatisch zwischen Ihrem Cloud-Speicher und lokalen Ordnern synchron, sodass neu hinzugefügte Dateien ohne manuellen Aufwand erscheinen." icon="refresh" >}}
+  {{< feature-card title="Medienbibliothek" subtitle="Fügen Sie Ihre Musik hinzu und organisieren Sie sie automatisch nach Album, Künstler, Album-Künstler, Genre und Komponist anhand der in Ihren Dateien eingebetteten Tags." icon="library" >}}
+
+  {{< feature-card title="Benutzerdefinierte Playlists" subtitle="Erstellen, bearbeiten und sortieren Sie Ihre eigenen Playlists, machen Sie sie offline verfügbar und importieren oder exportieren Sie sie in den Formaten M3U, M3U8 und CUE." icon="collection" >}}
+  {{< feature-card title="Dateimanager" subtitle="Verwalten Sie Ihre Musik mit dem integrierten Dateimanager und erledigen Sie alltägliche Vorgänge wie Kopieren, Verschieben, Umbenennen und Löschen, um Ordnung zu halten." icon="folder" >}}
+  {{< feature-card title="ID3-Tag-Editor" subtitle="Korrigieren Sie falsche oder fehlende Metadaten mit dem integrierten ID3-Tag-Editor und aktualisieren Sie Titel, Künstler, Album, Genre und mehr mit wenigen Fingertipps." icon="pencil-alt" >}}
+
+  {{< feature-card title="Erweiterte Suche" subtitle="Finden Sie schnell jeden Song, Künstler oder jedes Album in Ihrer gesamten Sammlung mit einer intelligenten, schnellen Suche für sehr große Musikbibliotheken." icon="search" >}}
+  {{< feature-card title="Schnellzugriff" subtitle="Springen Sie mit Recently Played, Favorites und Bookmarks direkt zurück zu dem, was zählt, sodass Ihre Lieblingstitel immer nur einen Fingertipp entfernt sind." icon="clock" >}}
+  {{< feature-card title="Texte & Kommentare" subtitle="Zeigen Sie zeitgesteuerte Texte und Songnotizen in jedem Titel während der Wiedergabe an und fügen Sie das Lyrics-Widget zu Ihrem Home Screen für schnellen Überblick hinzu." icon="annotation" >}}
+
+  {{< feature-card title="Widgets" subtitle="Fügen Sie Home Screen-Widgets hinzu, die Ihre Wiedergabe-Warteschlange anzeigen und Sie genau dort weitermachen lassen, wo Sie zuletzt aufgehört haben." icon="view-grid" >}}
+  {{< feature-card title="Hörbuch-Unterstützung" subtitle="Hören Sie Hörbücher mit Lesezeichen, Schlaftimer, einstellbarer Geschwindigkeit und Wiedergabefortsetzung, die genau dort ansetzt, wo Sie zuletzt gestoppt haben." icon="book-open" >}}
+  {{< feature-card title="Last.fm-Integration" subtitle="Verbinden Sie Ihr Last.fm-Konto, um Titel zu scrobbeln, Ihre Hörstatistiken zu verfolgen und mit der Zeit personalisierte Musikempfehlungen zu erhalten." icon="chart-bar" >}}
 
 {{< /cards >}}
 

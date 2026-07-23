@@ -127,29 +127,41 @@ Funcții Complete
 
 {{< cards >}}
 
-  {{< feature-card title="Suport Audio Lossless" subtitle="Redați FLAC, ALAC, WAV, APE, DFF, WV, AIFF și multe alte formate de înaltă calitate." icon="music-note" >}}
-  {{< feature-card title="Mod Offline" subtitle="Descărcați albume, playlisturi și piese pentru redare offline oricând." icon="download" >}}
-  {{< feature-card title="Gestionare Fișiere" subtitle="Copiați, mutați, redenumiți și ștergeți fișiere ușor în aplicație." icon="folder" >}}
+  {{< feature-card title="Calitate Audio" subtitle="Bucurați-vă de o ieșire de înaltă fidelitate cu rate de eșantionare de la 8 kHz la 384 kHz, moduri de ieșire implicite sau mixte și suport pentru 1 până la 7 canale audio." icon="volume-up" >}}
+  {{< feature-card title="Audio Lossless și Hi-Res" subtitle="Redați formate lossless și hi-res precum FLAC, ALAC, WAV, AIFF, APE, WV și DSF (DSD), plus MP3, AAC, OGG și OPUS, la rate de eșantionare de până la 384 kHz." icon="music-note" >}}
+  {{< feature-card title="Muzică Tracker și MOD" subtitle="Redați nativ muzică clasică tracker și module, inclusiv formatele MOD, XM, IT și S3M din scena chiptune și demoscene, pe care majoritatea playerelor nu le pot deschide." icon="table" >}}
 
-  {{< feature-card title="Playlisturi Personalizate" subtitle="Creați, editați, reordonați playlisturi și exportați sau importați fișiere M3U." icon="collection" >}}
-  {{< feature-card title="Bibliotecă Media" subtitle="Adăugați muzică și organizați-o după album, artist și gen folosind taguri." icon="library" >}}
-  {{< feature-card title="Căutare Avansată" subtitle="Găsiți rapid piese, artiști sau albume cu instrumente de căutare inteligente." icon="search" >}}
+  {{< feature-card title="Motoare Audio" subtitle="Alegeți dintre trei motoare de redare: motorul standard de sistem, un motor FFmpeg versatil și motorul profesional BASS™ care deblochează efecte, DSP și vizualizări." icon="switch-horizontal" >}}
+  {{< feature-card title="Efecte Audio" subtitle="Modelați-vă sunetul în timp real cu reverb, delay, echo, chorus, flanger, phaser, auto-wah, distorsiune, un compresor și crossfeed natural pentru căști." icon="lightning-bolt" >}}
+  {{< feature-card title="Lanț DSP" subtitle="Construiți-vă propriul lanț de semnal în timp real din filtre profesionale și benzi de egalizare, saturație și un bit crusher, plus procesoare creative precum tremolo și lățime stereo." icon="chip" >}}
 
-  {{< feature-card title="Streaming Cloud" subtitle="Transmiteți de pe Google Drive, Dropbox, OneDrive, iCloud, MEGA și altele." icon="cloud" >}}
-  {{< feature-card title="Acces NAS și Computer" subtitle="Conectați prin SMB, DLNA sau WebDAV. Transferați cu iTunes sau Wi-Fi." icon="desktop-computer" >}}
-  {{< feature-card title="Carduri de Memorie USB" subtitle="Redați muzică direct de pe carduri SD folosind adaptoare USB precum iXpand." icon="inbox" >}}
+  {{< feature-card title="Egalizator Audio" subtitle="Reglați-vă fin sunetul cu un egalizator cu benzi multiple, presetări gata făcute pe genuri, control manual și câștig de preamplificare pentru a amplifica piesele slabe fără clipping." icon="adjustments" >}}
+  {{< feature-card title="Vizualizator Muzical" subtitle="Urmăriți vizualuri animate pe tot ecranul care reacționează live la muzica dvs., alegând dintr-o bibliotecă mare de presetări sau lăsându-le să se schimbe automat." icon="sparkles" >}}
+  {{< feature-card title="Controale de Redare" subtitle="Ajustați viteza de redare fără a schimba tonul, salvați și restaurați coada și poziția, folosiți un cronometru de somn, redare aleatorie, repetare și redare în fundal." icon="play" >}}
 
-  {{< feature-card title="Controale de Redare" subtitle="Schimbați viteza și tonul redării pentru control audio perfect." icon="fast-forward" >}}
-  {{< feature-card title="Versuri și Comentarii" subtitle="Vizualizați versuri și comentarii încorporate în timpul redării." icon="annotation" >}}
-  {{< feature-card title="Editor Taguri ID3" subtitle="Editați și corectați metadate precum titlu, artist sau album cu instrumentul integrat." icon="pencil-alt" >}}
+  {{< feature-card title="Streaming Cloud" subtitle="Transmiteți direct de pe iCloud Drive, Google Drive, Dropbox, OneDrive, Box, MEGA și pCloud, plus cloud-uri axate pe confidențialitate precum Internxt și Proton Drive." icon="cloud" >}}
+  {{< feature-card title="Servere Media" subtitle="Conectați-vă serverele media personale, inclusiv Plex, Subsonic, Navidrome, Jellyfin și Emby, pentru a deschide și transmite întreaga bibliotecă muzicală." icon="server" >}}
+  {{< feature-card title="Computer și NAS" subtitle="Conectați un computer sau NAS prin SMB, WebDAV, DLNA, FTP, SFTP sau NFS, cu suport nativ pentru QNAP, Synology, Nextcloud și WD My Cloud Home." icon="desktop-computer" >}}
 
-  {{< feature-card title="Egalizator și Amplificare" subtitle="Folosiți presetări sau reglați manual cu câștig de preamplificator pentru sunet bogat." icon="adjustments" >}}
-  {{< feature-card title="Apple CarPlay" subtitle="Conduceți în siguranță cu o interfață CarPlay dedicată pentru redarea muzicii." icon="truck" >}}
-  {{< feature-card title="AirPlay și Chromecast" subtitle="Transmiteți wireless pe dispozitive Apple TV și Google Chromecast." icon="device-mobile" >}}
+  {{< feature-card title="Carduri Flash USB" subtitle="Redați muzică direct de pe carduri SD și unități flash USB folosind cititoare externe precum SanDisk iXpand, fără import sau sincronizare necesare." icon="inbox" >}}
+  {{< feature-card title="AirPlay și Chromecast" subtitle="Trimiteți muzica wireless către Apple TV, HomePod, boxe inteligente și altele cu suport integrat AirPlay, AirPlay 2 și Google Chromecast." icon="device-mobile" >}}
+  {{< feature-card title="Apple CarPlay" subtitle="Conduceți și ascultați în siguranță cu un ecran Apple CarPlay simplu și dedicat pentru alegerea și controlul muzicii din surse cloud, locale și offline." icon="map" >}}
 
-  {{< feature-card title="Integrare Last.fm" subtitle="Urmăriți statisticile muzicale și primiți recomandări personalizate de piese." icon="chart-bar" >}}
-  {{< feature-card title="Sincronizare Automată" subtitle="Sincronizați automat biblioteca muzicală cu foldere cloud și locale." icon="refresh" >}}
-  {{< feature-card title="Suport Cărți Audio" subtitle="Ascultați cărți audio cu marcaje, cronometru de somn și reluați redarea de unde ați oprit." icon="book-open" >}}
+  {{< feature-card title="Ascultare Offline" subtitle="Descărcați melodii, albume și artiști întregi pentru a asculta fără internet sau activați cache-ul audio pentru a salva automat piesele redate recent." icon="download" >}}
+  {{< feature-card title="Sincronizare Automată" subtitle="Mențineți-vă biblioteca sincronizată automat între stocarea cloud și folderele locale, astfel încât fișierele nou adăugate apar fără nicio muncă manuală." icon="refresh" >}}
+  {{< feature-card title="Bibliotecă Media" subtitle="Adăugați-vă muzica și organizați-o automat după album, artist, artist album, gen și compozitor folosind tagurile încorporate în fișiere." icon="library" >}}
+
+  {{< feature-card title="Playlisturi Personalizate" subtitle="Creați, editați și reordonați-vă propriile playlisturi, faceți-le disponibile offline și importați-le sau exportați-le în formatele M3U, M3U8 și CUE." icon="collection" >}}
+  {{< feature-card title="Manager de Fișiere" subtitle="Gestionați-vă muzica cu managerul de fișiere integrat, efectuând operațiuni zilnice precum copiere, mutare, redenumire și ștergere pentru a menține fișierele ordonate." icon="folder" >}}
+  {{< feature-card title="Editor Taguri ID3" subtitle="Corectați metadatele greșite sau lipsă cu editorul de taguri ID3 integrat, actualizând titlul, artistul, albumul, genul și altele din câteva atingeri." icon="pencil-alt" >}}
+
+  {{< feature-card title="Căutare Avansată" subtitle="Găsiți rapid orice melodie, artist sau album din întreaga colecție cu o căutare inteligentă și rapidă, construită pentru biblioteci muzicale foarte mari." icon="search" >}}
+  {{< feature-card title="Acces Rapid" subtitle="Reveniți direct la ce contează cu Redate Recent, Favorite și Marcaje, păstrând piesele preferate mereu la o singură atingere distanță." icon="clock" >}}
+  {{< feature-card title="Versuri și Comentarii" subtitle="Vizualizați versuri sincronizate și note ale melodiilor în fiecare piesă în timp ce se redă și adăugați widgetul Versuri pe ecranul principal pentru acces rapid dintr-o privire." icon="annotation" >}}
+
+  {{< feature-card title="Widgeturi" subtitle="Adăugați widgeturi pe ecranul principal care afișează coada de redare și vă permit să reveniți imediat, continuând exact de unde ați rămas ultima dată." icon="view-grid" >}}
+  {{< feature-card title="Suport Cărți Audio" subtitle="Ascultați cărți audio cu marcaje, un cronometru de somn, viteză ajustabilă și reluarea redării care continuă exact de unde ați oprit ultima dată." icon="book-open" >}}
+  {{< feature-card title="Integrare Last.fm" subtitle="Conectați-vă contul Last.fm pentru a face scrobbling la piese, a urmări statisticile de ascultare și a primi recomandări muzicale personalizate în timp." icon="chart-bar" >}}
 
 {{< /cards >}}
 

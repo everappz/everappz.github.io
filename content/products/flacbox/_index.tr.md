@@ -127,29 +127,41 @@ Tüm Özellikler
 
 {{< cards >}}
 
-  {{< feature-card title="Kayıpsız Ses Desteği" subtitle="FLAC, ALAC, WAV, APE, DFF, WV, AIFF ve birçok yüksek kaliteli formatı çalın." icon="music-note" >}}
-  {{< feature-card title="Çevrimdışı Mod" subtitle="Albümleri, çalma listelerini ve parçaları çevrimdışı çalma için indirin." icon="download" >}}
-  {{< feature-card title="Dosya Yönetimi" subtitle="Uygulama içinde dosyaları kolayca kopyalayın, taşıyın, yeniden adlandırın ve silin." icon="folder" >}}
+  {{< feature-card title="Ses Kalitesi" subtitle="8 kHz'ten 384 kHz'e kadar örnekleme hızları, varsayılan veya karışık çıkış modları ve 1 ila 7 ses kanalı desteğiyle yüksek sadakatli çıkışın keyfini çıkarın." icon="volume-up" >}}
+  {{< feature-card title="Kayıpsız ve Hi-Res Ses" subtitle="FLAC, ALAC, WAV, AIFF, APE, WV ve DSF (DSD) gibi kayıpsız ve hi-res formatların yanı sıra MP3, AAC, OGG ve OPUS dosyalarını 384 kHz'e kadar örnekleme hızlarında çalın." icon="music-note" >}}
+  {{< feature-card title="Tracker ve MOD Müziği" subtitle="Çoğu oynatıcının açamadığı, chiptune ve demoscene dünyasından MOD, XM, IT ve S3M formatları dahil klasik tracker ve modül müziğini doğal olarak çalın." icon="table" >}}
 
-  {{< feature-card title="Özel Çalma Listeleri" subtitle="Çalma listeleri oluşturun, düzenleyin, sıralayın ve M3U dosyalarını içe/dışa aktarın." icon="collection" >}}
-  {{< feature-card title="Medya Kütüphanesi" subtitle="Müzik ekleyin ve etiketleri kullanarak albüm, sanatçı ve türe göre düzenleyin." icon="library" >}}
-  {{< feature-card title="Gelişmiş Arama" subtitle="Akıllı arama araçlarıyla şarkıları, sanatçıları veya albümleri hızla bulun." icon="search" >}}
+  {{< feature-card title="Ses Motorları" subtitle="Üç çalma motorundan birini seçin: standart sistem motoru, çok yönlü FFmpeg motoru ve efektlerin, DSP ve görsellerin kilidini açan profesyonel BASS™ motoru." icon="switch-horizontal" >}}
+  {{< feature-card title="Ses Efektleri" subtitle="Reverb, delay, echo, chorus, flanger, phaser, auto-wah, distortion, bir kompresör ve doğal kulaklık crossfeed ile sesinizi gerçek zamanlı şekillendirin." icon="lightning-bolt" >}}
+  {{< feature-card title="DSP Zinciri" subtitle="Profesyonel filtreler ve EQ bantları, saturation ve bir bit crusher ile tremolo ve stereo genişlik gibi yaratıcı işlemcilerden kendi gerçek zamanlı sinyal zincirinizi oluşturun." icon="chip" >}}
 
-  {{< feature-card title="Bulut Yayını" subtitle="Google Drive, Dropbox, OneDrive, iCloud, MEGA ve daha fazlasından yayın yapın." icon="cloud" >}}
-  {{< feature-card title="NAS ve Bilgisayar Erişimi" subtitle="SMB, DLNA veya WebDAV ile bağlanın. iTunes veya Wi-Fi ile aktarın." icon="desktop-computer" >}}
-  {{< feature-card title="USB Flash Kartlar" subtitle="iXpand gibi USB adaptörleri kullanarak SD kartlardan doğrudan müzik çalın." icon="inbox" >}}
+  {{< feature-card title="Ses Ekolayzırı" subtitle="Çok bantlı bir ekolayzır, hazır tür ön ayarları, manuel kontrol ve sessiz parçaları kırpmadan yükselten preamp gain ile sesinizi ince ayarlayın." icon="adjustments" >}}
+  {{< feature-card title="Müzik Görselleştirici" subtitle="Müziğinize canlı tepki veren tam ekran animasyonlu görselleri izleyin; geniş bir ön ayar kütüphanesinden seçin veya otomatik olarak dönmelerine izin verin." icon="sparkles" >}}
+  {{< feature-card title="Çalma Kontrolleri" subtitle="Perdeyi değiştirmeden çalma hızını ayarlayın, kuyruğunuzu ve konumunuzu kaydedip geri yükleyin, uyku zamanlayıcı, karıştırma, tekrar ve arka planda çalma kullanın." icon="play" >}}
 
-  {{< feature-card title="Çalma Kontrolleri" subtitle="Mükemmel ses kontrolü için çalma hızını ve pitch'i değiştirin." icon="fast-forward" >}}
-  {{< feature-card title="Şarkı Sözleri ve Yorumlar" subtitle="Şarkı çalarken gömülü şarkı sözlerini ve yorumları görüntüleyin." icon="annotation" >}}
-  {{< feature-card title="ID3 Etiket Düzenleyici" subtitle="Dahili araçla başlık, sanatçı veya albüm gibi meta verileri düzenleyin ve düzeltin." icon="pencil-alt" >}}
+  {{< feature-card title="Bulut Yayını" subtitle="iCloud Drive, Google Drive, Dropbox, OneDrive, Box, MEGA ve pCloud'un yanı sıra Internxt ve Proton Drive gibi gizlilik odaklı bulutlardan doğrudan yayın yapın." icon="cloud" >}}
+  {{< feature-card title="Medya Sunucuları" subtitle="Plex, Subsonic, Navidrome, Jellyfin ve Emby dahil kişisel medya sunucularınızı bağlayarak tüm müzik kütüphanenizi açın ve yayınlayın." icon="server" >}}
+  {{< feature-card title="Bilgisayar ve NAS" subtitle="Bir bilgisayarı veya NAS'ı SMB, WebDAV, DLNA, FTP, SFTP veya NFS üzerinden bağlayın; QNAP, Synology, Nextcloud ve WD My Cloud Home için doğal destekle." icon="desktop-computer" >}}
 
-  {{< feature-card title="Ekolayzır ve Güçlendirme" subtitle="Zengin ses için ön ayarları kullanın veya preamp gain ile manuel olarak ayarlayın." icon="adjustments" >}}
-  {{< feature-card title="Apple CarPlay" subtitle="Müzik çalma için özel CarPlay arayüzüyle güvenle sürün." icon="truck" >}}
-  {{< feature-card title="AirPlay ve Chromecast" subtitle="Apple TV ve Google Chromecast cihazlarına kablosuz olarak yayın yapın." icon="device-mobile" >}}
+  {{< feature-card title="USB Flash Kartlar" subtitle="SanDisk iXpand gibi harici okuyucular kullanarak SD kartlardan ve USB flash sürücülerden doğrudan müzik çalın; içe aktarma veya senkronizasyon gerektirmeden." icon="inbox" >}}
+  {{< feature-card title="AirPlay ve Chromecast" subtitle="Dahili AirPlay, AirPlay 2 ve Google Chromecast desteğiyle müziğinizi Apple TV, HomePod, akıllı hoparlörler ve daha fazlasına kablosuz gönderin." icon="device-mobile" >}}
+  {{< feature-card title="Apple CarPlay" subtitle="Bulut, yerel ve çevrimdışı kaynaklardan müzik seçip kontrol etmek için basit, özel bir Apple CarPlay ekranıyla güvenle sürün ve dinleyin." icon="map" >}}
 
-  {{< feature-card title="Last.fm Entegrasyonu" subtitle="Müzik istatistiklerini takip edin ve kişiselleştirilmiş şarkı önerileri alın." icon="chart-bar" >}}
-  {{< feature-card title="Otomatik Senkronizasyon" subtitle="Müzik kütüphanenizi bulut ve yerel klasörlerle otomatik senkronize edin." icon="refresh" >}}
-  {{< feature-card title="Sesli Kitap Desteği" subtitle="Yer imleri, uyku zamanlayıcı ve kaldığınız yerden devam etme ile sesli kitapları dinleyin." icon="book-open" >}}
+  {{< feature-card title="Çevrimdışı Dinleme" subtitle="Şarkıları, albümleri ve tüm sanatçıları internet olmadan dinlemek için indirin veya ses önbelleğini açarak son çalınan parçaları otomatik olarak kaydedin." icon="download" >}}
+  {{< feature-card title="Otomatik Senkronizasyon" subtitle="Kütüphanenizi bulut depolamanız ve yerel klasörleriniz arasında otomatik olarak senkronize tutun; böylece yeni eklenen dosyalar hiçbir manuel işlem olmadan görünür." icon="refresh" >}}
+  {{< feature-card title="Medya Kütüphanesi" subtitle="Müziğinizi ekleyin ve dosyalarınıza gömülü etiketleri kullanarak albüm, sanatçı, albüm sanatçısı, tür ve besteciye göre otomatik olarak düzenleyin." icon="library" >}}
+
+  {{< feature-card title="Özel Çalma Listeleri" subtitle="Kendi çalma listelerinizi oluşturun, düzenleyin ve yeniden sıralayın, çevrimdışı kullanılabilir yapın ve M3U, M3U8 ve CUE formatlarında içe veya dışa aktarın." icon="collection" >}}
+  {{< feature-card title="Dosya Yöneticisi" subtitle="Dahili dosya yöneticisiyle müziğinizi yönetin; kopyalama, taşıma, yeniden adlandırma ve silme gibi günlük işlemleri yaparak dosyaları düzenli tutun." icon="folder" >}}
+  {{< feature-card title="ID3 Etiket Düzenleyici" subtitle="Dahili ID3 etiket düzenleyiciyle yanlış veya eksik meta verileri düzeltin; başlık, sanatçı, albüm, tür ve daha fazlasını yalnızca birkaç dokunuşla güncelleyin." icon="pencil-alt" >}}
+
+  {{< feature-card title="Gelişmiş Arama" subtitle="Çok büyük müzik kütüphaneleri için tasarlanmış akıllı ve hızlı bir aramayla tüm koleksiyonunuzdaki herhangi bir şarkıyı, sanatçıyı veya albümü anında bulun." icon="search" >}}
+  {{< feature-card title="Hızlı Erişim" subtitle="Son Çalınanlar, Favoriler ve Yer İmleri ile önemli olana hemen dönün; sık dinlediğiniz parçaları her zaman tek dokunuş uzağınızda tutun." icon="clock" >}}
+  {{< feature-card title="Şarkı Sözleri ve Yorumlar" subtitle="Her parça çalarken zamanlanmış şarkı sözlerini ve şarkı notlarını görüntüleyin ve hızlı bir bakış için Şarkı Sözleri widget'ını Ana Ekranınıza ekleyin." icon="annotation" >}}
+
+  {{< feature-card title="Widget'lar" subtitle="Çalma kuyruğunuzu gösteren ve tam kaldığınız yerden devam etmenizi sağlayan Ana Ekran widget'ları ekleyin." icon="view-grid" >}}
+  {{< feature-card title="Sesli Kitap Desteği" subtitle="Yer imleri, uyku zamanlayıcı, ayarlanabilir hız ve tam kaldığınız yerden devam eden çalma ile sesli kitapları dinleyin." icon="book-open" >}}
+  {{< feature-card title="Last.fm Entegrasyonu" subtitle="Parçaları scrobble etmek, dinleme istatistiklerinizi takip etmek ve zamanla kişiselleştirilmiş müzik önerileri almak için Last.fm hesabınızı bağlayın." icon="chart-bar" >}}
 
 {{< /cards >}}
 

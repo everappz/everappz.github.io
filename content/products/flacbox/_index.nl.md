@@ -127,29 +127,41 @@ Alles-in-één Functies
 
 {{< cards >}}
 
-  {{< feature-card title="Lossless Audio Ondersteuning" subtitle="Speel FLAC, ALAC, WAV, APE, DFF, WV, AIFF en vele andere hoogwaardige formaten." icon="music-note" >}}
-  {{< feature-card title="Offline Modus" subtitle="Download albums, afspeellijsten en tracks voor offline afspelen op elk moment." icon="download" >}}
-  {{< feature-card title="Bestandsbeheer" subtitle="Kopieer, verplaats, hernoem en verwijder bestanden eenvoudig binnen de app." icon="folder" >}}
+  {{< feature-card title="Audiokwaliteit" subtitle="Geniet van high-fidelity uitvoer met sample rates van 8 kHz tot 384 kHz, standaard of gemengde uitvoermodi, en ondersteuning voor 1 tot 7 audiokanalen." icon="volume-up" >}}
+  {{< feature-card title="Lossless en Hi-Res Audio" subtitle="Speel lossless en hi-res formaten zoals FLAC, ALAC, WAV, AIFF, APE, WV en DSF (DSD) af, plus MP3, AAC, OGG en OPUS, met sample rates tot 384 kHz." icon="music-note" >}}
+  {{< feature-card title="Tracker- en MOD-muziek" subtitle="Speel klassieke tracker- en modulemuziek native af, waaronder MOD, XM, IT en S3M formaten uit de chiptune- en demoscene die de meeste spelers niet kunnen openen." icon="table" >}}
 
-  {{< feature-card title="Aangepaste Afspeellijsten" subtitle="Maak, bewerk en orden afspeellijsten, en exporteer of importeer M3U-bestanden." icon="collection" >}}
-  {{< feature-card title="Mediabibliotheek" subtitle="Voeg muziek toe en organiseer op album, artiest en genre met tags." icon="library" >}}
-  {{< feature-card title="Geavanceerd Zoeken" subtitle="Vind snel nummers, artiesten of albums met slimme zoektools." icon="search" >}}
+  {{< feature-card title="Audio-engines" subtitle="Kies uit drie afspeel-engines: de standaard systeem-engine, een veelzijdige FFmpeg-engine en de professionele BASS™-engine die effecten, DSP en visuals ontgrendelt." icon="switch-horizontal" >}}
+  {{< feature-card title="Audio-effecten" subtitle="Vorm je geluid in realtime met reverb, delay, echo, chorus, flanger, phaser, auto-wah, distortion, een compressor en natuurlijke koptelefoon-crossfeed." icon="lightning-bolt" >}}
+  {{< feature-card title="DSP-keten" subtitle="Bouw je eigen realtime signaalketen op uit professionele filters en EQ-banden, saturatie en een bit crusher, plus creatieve processors zoals tremolo en stereobreedte." icon="chip" >}}
 
-  {{< feature-card title="Cloud Streaming" subtitle="Stream vanaf Google Drive, Dropbox, OneDrive, iCloud, MEGA en meer." icon="cloud" >}}
-  {{< feature-card title="NAS- en Computertoegang" subtitle="Verbind via SMB, DLNA of WebDAV. Zet over met iTunes of Wi-Fi." icon="desktop-computer" >}}
-  {{< feature-card title="USB-geheugenkaarten" subtitle="Speel muziek rechtstreeks af van SD-kaarten met USB-adapters zoals iXpand." icon="inbox" >}}
+  {{< feature-card title="Audio-equalizer" subtitle="Verfijn je geluid met een multi-band equalizer, kant-en-klare genrepresets, handmatige bediening en voorversterking om stille tracks te versterken zonder vervorming." icon="adjustments" >}}
+  {{< feature-card title="Muziekvisualizer" subtitle="Bekijk schermvullende geanimeerde visuals die live reageren op je muziek, kies uit een grote bibliotheek met presets of laat ze automatisch wisselen." icon="sparkles" >}}
+  {{< feature-card title="Afspeelbediening" subtitle="Pas de afspeelsnelheid aan zonder de toonhoogte te wijzigen, sla je wachtrij en positie op en herstel ze, en gebruik een slaaptimer, shuffle, herhalen en afspelen op de achtergrond." icon="play" >}}
 
-  {{< feature-card title="Afspeelbediening" subtitle="Pas afspeelsnelheid en toonhoogte aan voor perfecte audiocontrole." icon="fast-forward" >}}
-  {{< feature-card title="Songteksten en Opmerkingen" subtitle="Bekijk ingebedde songteksten en opmerkingen tijdens het afspelen." icon="annotation" >}}
-  {{< feature-card title="ID3 Tag Editor" subtitle="Bewerk en corrigeer metadata zoals titel, artiest of album met de ingebouwde tool." icon="pencil-alt" >}}
+  {{< feature-card title="Cloud Streaming" subtitle="Stream rechtstreeks vanaf iCloud Drive, Google Drive, Dropbox, OneDrive, Box, MEGA en pCloud, plus privacygerichte clouds zoals Internxt en Proton Drive." icon="cloud" >}}
+  {{< feature-card title="Mediaservers" subtitle="Verbind je persoonlijke mediaservers, waaronder Plex, Subsonic, Navidrome, Jellyfin en Emby, om je hele muziekbibliotheek te openen en te streamen." icon="server" >}}
+  {{< feature-card title="Computer en NAS" subtitle="Verbind een computer of NAS via SMB, WebDAV, DLNA, FTP, SFTP of NFS, met native ondersteuning voor QNAP, Synology, Nextcloud en WD My Cloud Home." icon="desktop-computer" >}}
 
-  {{< feature-card title="Equalizer en Versterking" subtitle="Gebruik presets of stel handmatig in met voorversterkerversterking voor rijk geluid." icon="adjustments" >}}
-  {{< feature-card title="Apple CarPlay" subtitle="Rijd veilig met een speciale CarPlay-interface voor muziek afspelen." icon="truck" >}}
-  {{< feature-card title="AirPlay en Chromecast" subtitle="Stream draadloos naar Apple TV- en Google Chromecast-apparaten." icon="device-mobile" >}}
+  {{< feature-card title="USB-geheugenkaarten" subtitle="Speel muziek rechtstreeks af van SD-kaarten en USB-sticks met externe lezers zoals de SanDisk iXpand, zonder importeren of synchroniseren." icon="inbox" >}}
+  {{< feature-card title="AirPlay en Chromecast" subtitle="Stuur je muziek draadloos naar Apple TV, HomePod, slimme speakers en meer met ingebouwde ondersteuning voor AirPlay, AirPlay 2 en Google Chromecast." icon="device-mobile" >}}
+  {{< feature-card title="Apple CarPlay" subtitle="Rijd en luister veilig met een eenvoudig, speciaal Apple CarPlay-scherm om muziek uit cloud-, lokale en offline bronnen te kiezen en te bedienen." icon="map" >}}
 
-  {{< feature-card title="Last.fm Integratie" subtitle="Volg muziekstatistieken en ontvang persoonlijke nummeraanbevelingen." icon="chart-bar" >}}
-  {{< feature-card title="Automatische Synchronisatie" subtitle="Synchroniseer je muziekbibliotheek automatisch met cloud- en lokale mappen." icon="refresh" >}}
-  {{< feature-card title="Luisterboek Ondersteuning" subtitle="Luister naar luisterboeken met bladwijzers, slaaptimer en hervat het afspelen waar je gestopt was." icon="book-open" >}}
+  {{< feature-card title="Offline Luisteren" subtitle="Download nummers, albums en volledige artiesten om zonder internet te luisteren, of schakel de audiocache in om recent afgespeelde tracks automatisch te bewaren." icon="download" >}}
+  {{< feature-card title="Automatische Synchronisatie" subtitle="Houd je bibliotheek automatisch gesynchroniseerd tussen je cloudopslag en lokale mappen, zodat nieuw toegevoegde bestanden verschijnen zonder handmatig werk." icon="refresh" >}}
+  {{< feature-card title="Mediabibliotheek" subtitle="Voeg je muziek toe en organiseer die automatisch op album, artiest, albumartiest, genre en componist met de tags die in je bestanden zijn ingebed." icon="library" >}}
+
+  {{< feature-card title="Aangepaste Afspeellijsten" subtitle="Maak, bewerk en herschik je eigen afspeellijsten, maak ze offline beschikbaar en importeer of exporteer ze in M3U-, M3U8- en CUE-formaten." icon="collection" >}}
+  {{< feature-card title="Bestandsbeheer" subtitle="Beheer je muziek met de ingebouwde bestandsbeheerder en voer dagelijkse handelingen uit zoals kopiëren, verplaatsen, hernoemen en verwijderen om je bestanden op orde te houden." icon="folder" >}}
+  {{< feature-card title="ID3 Tag Editor" subtitle="Herstel onjuiste of ontbrekende metadata met de ingebouwde ID3 tag-editor en werk de titel, artiest, album, genre en meer bij met slechts een paar tikken." icon="pencil-alt" >}}
+
+  {{< feature-card title="Geavanceerd Zoeken" subtitle="Vind snel elk nummer, elke artiest of elk album in je hele collectie met een slimme, snelle zoekfunctie gebouwd voor zeer grote muziekbibliotheken." icon="search" >}}
+  {{< feature-card title="Snelle Toegang" subtitle="Spring meteen terug naar wat belangrijk is met Recent Afgespeeld, Favorieten en Bladwijzers, zodat je favoriete tracks altijd met één tik binnen handbereik zijn." icon="clock" >}}
+  {{< feature-card title="Songteksten en Opmerkingen" subtitle="Bekijk getimede songteksten en songnotities in elke track tijdens het afspelen, en voeg de widget Songteksten toe aan je Beginscherm voor snelle toegang in één oogopslag." icon="annotation" >}}
+
+  {{< feature-card title="Widgets" subtitle="Voeg widgets voor het Beginscherm toe die je afspeelwachtrij tonen en je meteen laten verdergaan, precies vanaf waar je gebleven was." icon="view-grid" >}}
+  {{< feature-card title="Luisterboek Ondersteuning" subtitle="Luister naar luisterboeken met bladwijzers, een slaaptimer, instelbare snelheid en hervat afspelen dat verdergaat precies waar je gestopt was." icon="book-open" >}}
+  {{< feature-card title="Last.fm Integratie" subtitle="Verbind je Last.fm-account om tracks te scrobbelen, je luisterstatistieken te volgen en na verloop van tijd persoonlijke muziekaanbevelingen te ontvangen." icon="chart-bar" >}}
 
 {{< /cards >}}
 

@@ -127,29 +127,41 @@ Flacbox ยังเล่น MP3, AAC, OGG, APE, MOD, MKA และคอนเ
 
 {{< cards >}}
 
-  {{< feature-card title="รองรับเสียง Lossless" subtitle="เล่น FLAC, ALAC, WAV, APE, DFF, WV, AIFF และฟอร์แมตคุณภาพสูงอื่นๆ อีกมากมาย" icon="music-note" >}}
-  {{< feature-card title="โหมดออฟไลน์" subtitle="ดาวน์โหลดอัลบั้ม เพลย์ลิสต์ และแทร็กเพื่อเล่นออฟไลน์ได้ทุกเวลา" icon="download" >}}
-  {{< feature-card title="จัดการไฟล์" subtitle="คัดลอก ย้าย เปลี่ยนชื่อ และลบไฟล์ภายในแอปได้อย่างง่ายดาย" icon="folder" >}}
+  {{< feature-card title="คุณภาพเสียง" subtitle="เพลิดเพลินกับเสียงคุณภาพสูงด้วยอัตราสุ่มตัวอย่างตั้งแต่ 8 kHz ถึง 384 kHz โหมดเอาต์พุตแบบค่าเริ่มต้นหรือแบบผสม และรองรับช่องสัญญาณเสียง 1 ถึง 7 ช่อง" icon="volume-up" >}}
+  {{< feature-card title="เสียง Lossless และ Hi-Res" subtitle="เล่นฟอร์แมต lossless และ hi-res เช่น FLAC, ALAC, WAV, AIFF, APE, WV และ DSF (DSD) รวมถึง MP3, AAC, OGG และ OPUS ที่อัตราสุ่มตัวอย่างสูงถึง 384 kHz" icon="music-note" >}}
+  {{< feature-card title="เพลง Tracker และ MOD" subtitle="เล่นเพลง tracker และ module แบบคลาสสิกได้โดยตรง รวมถึงฟอร์แมต MOD, XM, IT และ S3M จากวงการ chiptune และ demoscene ที่เครื่องเล่นส่วนใหญ่เปิดไม่ได้" icon="table" >}}
 
-  {{< feature-card title="เพลย์ลิสต์กำหนดเอง" subtitle="สร้าง แก้ไข จัดเรียงเพลย์ลิสต์ และส่งออกหรือนำเข้าไฟล์ M3U" icon="collection" >}}
-  {{< feature-card title="คลังสื่อ" subtitle="เพิ่มเพลงและจัดระเบียบตามอัลบั้ม ศิลปิน และแนวเพลงด้วยแท็ก" icon="library" >}}
-  {{< feature-card title="ค้นหาขั้นสูง" subtitle="ค้นหาเพลง ศิลปิน หรืออัลบั้มอย่างรวดเร็วด้วยเครื่องมือค้นหาอัจฉริยะ" icon="search" >}}
+  {{< feature-card title="เอนจินเสียง" subtitle="เลือกจากเอนจินการเล่นสามแบบ ได้แก่ เอนจินระบบมาตรฐาน เอนจิน FFmpeg ที่ยืดหยุ่น และเอนจิน BASS™ ระดับมืออาชีพที่ปลดล็อกเอฟเฟกต์ DSP และภาพวิชวล" icon="switch-horizontal" >}}
+  {{< feature-card title="เอฟเฟกต์เสียง" subtitle="ปรับแต่งเสียงของคุณแบบเรียลไทม์ด้วย reverb, delay, echo, chorus, flanger, phaser, auto-wah, distortion, compressor และ headphone crossfeed ที่เป็นธรรมชาติ" icon="lightning-bolt" >}}
+  {{< feature-card title="เชน DSP" subtitle="สร้างเชนสัญญาณเรียลไทม์ของคุณเองจากฟิลเตอร์และแบนด์ EQ ระดับมืออาชีพ saturation และ bit crusher พร้อมโปรเซสเซอร์สร้างสรรค์อย่าง tremolo และ stereo width" icon="chip" >}}
 
-  {{< feature-card title="สตรีมจากคลาวด์" subtitle="สตรีมจาก Google Drive, Dropbox, OneDrive, iCloud, MEGA และอื่นๆ" icon="cloud" >}}
-  {{< feature-card title="เข้าถึง NAS และคอมพิวเตอร์" subtitle="เชื่อมต่อผ่าน SMB, DLNA หรือ WebDAV ถ่ายโอนด้วย iTunes หรือ Wi-Fi" icon="desktop-computer" >}}
-  {{< feature-card title="แฟลชการ์ด USB" subtitle="เล่นเพลงโดยตรงจากการ์ด SD โดยใช้อะแดปเตอร์ USB เช่น iXpand" icon="inbox" >}}
+  {{< feature-card title="อีควอไลเซอร์เสียง" subtitle="ปรับจูนเสียงของคุณด้วยอีควอไลเซอร์หลายแบนด์ พรีเซ็ตตามแนวเพลงสำเร็จรูป การปรับด้วยตนเอง และ preamp gain เพื่อเพิ่มความดังให้แทร็กเบาโดยไม่เกิดการตัดสัญญาณ" icon="adjustments" >}}
+  {{< feature-card title="วิชวลไลเซอร์เพลง" subtitle="ชมภาพเคลื่อนไหวเต็มจอที่ตอบสนองต่อเพลงของคุณแบบสด เลือกจากคลังพรีเซ็ตขนาดใหญ่หรือให้เปลี่ยนสลับโดยอัตโนมัติ" icon="sparkles" >}}
+  {{< feature-card title="ควบคุมการเล่น" subtitle="ปรับความเร็วการเล่นโดยไม่เปลี่ยนระดับเสียง บันทึกและกู้คืนคิวและตำแหน่งของคุณ พร้อมตัวตั้งเวลานอน สุ่ม เล่นซ้ำ และเล่นในพื้นหลัง" icon="play" >}}
 
-  {{< feature-card title="ควบคุมการเล่น" subtitle="เปลี่ยนความเร็วและระดับเสียงในการเล่นเพื่อการควบคุมเสียงที่สมบูรณ์แบบ" icon="fast-forward" >}}
-  {{< feature-card title="เนื้อเพลงและคอมเมนต์" subtitle="ดูเนื้อเพลงและคอมเมนต์ที่ฝังอยู่ขณะเล่นเพลง" icon="annotation" >}}
-  {{< feature-card title="แก้ไขแท็ก ID3" subtitle="แก้ไขและปรับปรุงเมตาดาต้าเช่น ชื่อเพลง ศิลปิน หรืออัลบั้มด้วยเครื่องมือในตัว" icon="pencil-alt" >}}
+  {{< feature-card title="สตรีมจากคลาวด์" subtitle="สตรีมโดยตรงจาก iCloud Drive, Google Drive, Dropbox, OneDrive, Box, MEGA และ pCloud รวมถึงคลาวด์ที่เน้นความเป็นส่วนตัวอย่าง Internxt และ Proton Drive" icon="cloud" >}}
+  {{< feature-card title="มีเดียเซิร์ฟเวอร์" subtitle="เชื่อมต่อมีเดียเซิร์ฟเวอร์ส่วนตัวของคุณ รวมถึง Plex, Subsonic, Navidrome, Jellyfin และ Emby เพื่อเปิดและสตรีมคลังเพลงทั้งหมดของคุณ" icon="server" >}}
+  {{< feature-card title="คอมพิวเตอร์และ NAS" subtitle="เชื่อมต่อคอมพิวเตอร์หรือ NAS ผ่าน SMB, WebDAV, DLNA, FTP, SFTP หรือ NFS พร้อมรองรับ QNAP, Synology, Nextcloud และ WD My Cloud Home โดยตรง" icon="desktop-computer" >}}
 
-  {{< feature-card title="อีควอไลเซอร์และบูสต์" subtitle="ใช้พรีเซ็ตหรือปรับด้วยตนเองพร้อม preamp gain เพื่อเสียงที่สมบูรณ์" icon="adjustments" >}}
-  {{< feature-card title="Apple CarPlay" subtitle="ขับขี่อย่างปลอดภัยด้วย UI CarPlay ที่ออกแบบมาเพื่อเล่นเพลงโดยเฉพาะ" icon="truck" >}}
-  {{< feature-card title="AirPlay และ Chromecast" subtitle="สตรีมไปยัง Apple TV และอุปกรณ์ Google Chromecast แบบไร้สาย" icon="device-mobile" >}}
+  {{< feature-card title="แฟลชการ์ด USB" subtitle="เล่นเพลงโดยตรงจากการ์ด SD และแฟลชไดรฟ์ USB โดยใช้เครื่องอ่านภายนอกเช่น SanDisk iXpand โดยไม่ต้องนำเข้าหรือซิงค์" icon="inbox" >}}
+  {{< feature-card title="AirPlay และ Chromecast" subtitle="ส่งเพลงของคุณแบบไร้สายไปยัง Apple TV, HomePod, ลำโพงอัจฉริยะ และอื่นๆ ด้วยการรองรับ AirPlay, AirPlay 2 และ Google Chromecast ในตัว" icon="device-mobile" >}}
+  {{< feature-card title="Apple CarPlay" subtitle="ขับขี่และฟังเพลงอย่างปลอดภัยด้วยหน้าจอ Apple CarPlay ที่เรียบง่ายและออกแบบมาเฉพาะสำหรับเลือกและควบคุมเพลงจากแหล่งคลาวด์ ในเครื่อง และออฟไลน์" icon="map" >}}
 
-  {{< feature-card title="เชื่อมต่อ Last.fm" subtitle="ติดตามสถิติเพลงและรับคำแนะนำเพลงส่วนบุคคล" icon="chart-bar" >}}
-  {{< feature-card title="ซิงค์อัตโนมัติ" subtitle="ซิงค์คลังเพลงอัตโนมัติกับโฟลเดอร์คลาวด์และโฟลเดอร์ในเครื่อง" icon="refresh" >}}
-  {{< feature-card title="รองรับหนังสือเสียง" subtitle="ฟังหนังสือเสียงพร้อมบุ๊กมาร์ก ตั้งเวลาปิด และเล่นต่อจากจุดที่หยุดไว้" icon="book-open" >}}
+  {{< feature-card title="ฟังแบบออฟไลน์" subtitle="ดาวน์โหลดเพลง อัลบั้ม และศิลปินทั้งหมดเพื่อฟังโดยไม่ต้องใช้อินเทอร์เน็ต หรือเปิดใช้แคชเสียงเพื่อบันทึกแทร็กที่เล่นล่าสุดโดยอัตโนมัติ" icon="download" >}}
+  {{< feature-card title="ซิงค์อัตโนมัติ" subtitle="ซิงค์คลังเพลงของคุณโดยอัตโนมัติระหว่างคลาวด์สตอเรจและโฟลเดอร์ในเครื่อง เพื่อให้ไฟล์ที่เพิ่มใหม่ปรากฏขึ้นโดยไม่ต้องทำด้วยตนเอง" icon="refresh" >}}
+  {{< feature-card title="คลังสื่อ" subtitle="เพิ่มเพลงของคุณและจัดระเบียบโดยอัตโนมัติตามอัลบั้ม ศิลปิน ศิลปินอัลบั้ม แนวเพลง และผู้แต่ง โดยใช้แท็กที่ฝังอยู่ในไฟล์ของคุณ" icon="library" >}}
+
+  {{< feature-card title="เพลย์ลิสต์กำหนดเอง" subtitle="สร้าง แก้ไข และจัดเรียงเพลย์ลิสต์ของคุณเอง ทำให้ใช้งานออฟไลน์ได้ และนำเข้าหรือส่งออกในฟอร์แมต M3U, M3U8 และ CUE" icon="collection" >}}
+  {{< feature-card title="ตัวจัดการไฟล์" subtitle="จัดการเพลงของคุณด้วยตัวจัดการไฟล์ในตัว รองรับการดำเนินการประจำวันอย่างคัดลอก ย้าย เปลี่ยนชื่อ และลบ เพื่อให้ไฟล์เป็นระเบียบ" icon="folder" >}}
+  {{< feature-card title="ตัวแก้ไขแท็ก ID3" subtitle="แก้ไขเมตาดาต้าที่ผิดหรือขาดหายด้วยตัวแก้ไขแท็ก ID3 ในตัว อัปเดตชื่อเพลง ศิลปิน อัลบั้ม แนวเพลง และอื่นๆ ในไม่กี่แตะ" icon="pencil-alt" >}}
+
+  {{< feature-card title="ค้นหาขั้นสูง" subtitle="ค้นหาเพลง ศิลปิน หรืออัลบั้มใดๆ ทั่วทั้งคอลเลกชันของคุณได้อย่างรวดเร็วด้วยการค้นหาอัจฉริยะที่สร้างมาสำหรับคลังเพลงขนาดใหญ่มาก" icon="search" >}}
+  {{< feature-card title="เข้าถึงด่วน" subtitle="กลับไปยังสิ่งที่สำคัญได้ทันทีด้วยเล่นล่าสุด รายการโปรด และบุ๊กมาร์ก ทำให้แทร็กโปรดของคุณอยู่ห่างเพียงแตะเดียวเสมอ" icon="clock" >}}
+  {{< feature-card title="เนื้อเพลงและคอมเมนต์" subtitle="ดูเนื้อเพลงแบบจับเวลาและบันทึกของเพลงในแต่ละแทร็กขณะเล่น และเพิ่มวิดเจ็ตเนื้อเพลงลงในหน้าจอโฮมเพื่อการเข้าถึงแบบรวดเร็วเพียงชำเลืองมอง" icon="annotation" >}}
+
+  {{< feature-card title="วิดเจ็ต" subtitle="เพิ่มวิดเจ็ตหน้าจอโฮมที่แสดงคิวการเล่นของคุณและให้คุณกลับเข้าไปได้ทันที เล่นต่อจากจุดที่คุณหยุดไว้ล่าสุดพอดี" icon="view-grid" >}}
+  {{< feature-card title="รองรับหนังสือเสียง" subtitle="ฟังหนังสือเสียงพร้อมบุ๊กมาร์ก ตัวตั้งเวลานอน ปรับความเร็วได้ และเล่นต่อที่หยิบขึ้นมาจากจุดที่คุณหยุดไว้ล่าสุดพอดี" icon="book-open" >}}
+  {{< feature-card title="เชื่อมต่อ Last.fm" subtitle="เชื่อมต่อบัญชี Last.fm ของคุณเพื่อ scrobble แทร็ก ติดตามสถิติการฟังของคุณ และรับคำแนะนำเพลงส่วนบุคคลเมื่อเวลาผ่านไป" icon="chart-bar" >}}
 
 {{< /cards >}}
 

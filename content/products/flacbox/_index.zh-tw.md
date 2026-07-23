@@ -94,24 +94,41 @@ Flacbox
 <div class="hx:w-full">
 
 {{< cards >}}
-  {{< feature-card title="無損音訊支援" subtitle="播放FLAC、ALAC、WAV、APE、DFF、WV、AIFF及更多高品質格式。" icon="music-note" >}}
-  {{< feature-card title="離線模式" subtitle="下載專輯、播放清單和曲目，隨時離線播放。" icon="download" >}}
-  {{< feature-card title="檔案管理" subtitle="在應用程式內輕鬆複製、移動、重新命名和刪除檔案。" icon="folder" >}}
-  {{< feature-card title="自訂播放清單" subtitle="建立、編輯、重新排序播放清單，匯出或匯入M3U檔案。" icon="collection" >}}
-  {{< feature-card title="媒體資料庫" subtitle="新增音樂並使用標籤按專輯、藝術家和曲風整理。" icon="library" >}}
-  {{< feature-card title="進階搜尋" subtitle="使用智慧搜尋工具快速尋找歌曲、藝術家或專輯。" icon="search" >}}
-  {{< feature-card title="雲端串流" subtitle="從Google Drive、Dropbox、OneDrive、iCloud、MEGA等串流。" icon="cloud" >}}
-  {{< feature-card title="NAS和電腦存取" subtitle="透過SMB、DLNA或WebDAV連線。使用iTunes或Wi-Fi傳輸。" icon="desktop-computer" >}}
-  {{< feature-card title="USB隨身碟" subtitle="使用iXpand等USB轉接器直接從SD卡播放音樂。" icon="inbox" >}}
-  {{< feature-card title="播放控制" subtitle="變更播放速度和音高，實現完美的音訊控制。" icon="fast-forward" >}}
-  {{< feature-card title="歌詞和評論" subtitle="在播放歌曲時檢視嵌入的歌詞和評論。" icon="annotation" >}}
-  {{< feature-card title="ID3標籤編輯器" subtitle="使用內建工具編輯和修正標題、藝術家或專輯等中繼資料。" icon="pencil-alt" >}}
-  {{< feature-card title="等化器和增強" subtitle="使用預設或手動調節前級放大器增益，獲得豐富聲音。" icon="adjustments" >}}
-  {{< feature-card title="Apple CarPlay" subtitle="透過專用CarPlay介面安全駕駛時播放音樂。" icon="truck" >}}
-  {{< feature-card title="AirPlay和Chromecast" subtitle="無線串流到Apple TV和Google Chromecast裝置。" icon="device-mobile" >}}
-  {{< feature-card title="Last.fm整合" subtitle="追蹤音樂統計資料並獲取個人化歌曲推薦。" icon="chart-bar" >}}
-  {{< feature-card title="自動同步" subtitle="自動將音樂資料庫與雲端和本機資料夾同步。" icon="refresh" >}}
-  {{< feature-card title="有聲書支援" subtitle="使用書籤、睡眠計時器收聽有聲書，並從上次停止的位置繼續播放。" icon="book-open" >}}
+  {{< feature-card title="音訊品質" subtitle="享受高保真輸出，取樣率從 8 kHz 到 384 kHz，提供預設或混合輸出模式，並支援 1 到 7 個音訊聲道。" icon="volume-up" >}}
+  {{< feature-card title="無損與高解析度音訊" subtitle="播放 FLAC、ALAC、WAV、AIFF、APE、WV 和 DSF (DSD) 等無損與高解析度格式，以及 MP3、AAC、OGG 和 OPUS，取樣率最高可達 384 kHz。" icon="music-note" >}}
+  {{< feature-card title="Tracker 與 MOD 音樂" subtitle="原生播放經典的 tracker 和 module 音樂，包括來自 chiptune 和 demoscene 場景的 MOD、XM、IT 和 S3M 格式，這些是大多數播放器無法開啟的。" icon="table" >}}
+
+  {{< feature-card title="音訊引擎" subtitle="從三種播放引擎中選擇：標準系統引擎、多功能的 FFmpeg 引擎，以及可解鎖效果、DSP 和視覺效果的專業 BASS™ 引擎。" icon="switch-horizontal" >}}
+  {{< feature-card title="音訊效果" subtitle="使用殘響、延遲、回聲、合唱、鑲邊、相位、自動哇音、失真、壓縮器和自然的耳機串音效果，即時塑造您的聲音。" icon="lightning-bolt" >}}
+  {{< feature-card title="DSP 訊號鏈" subtitle="使用專業濾波器和 EQ 頻段、飽和度與位元壓碎器，加上顫音和立體聲寬度等創意處理器，打造您自己的即時訊號鏈。" icon="chip" >}}
+
+  {{< feature-card title="音訊等化器" subtitle="使用多頻段等化器、現成的曲風預設、手動控制和前級增益微調聲音，在不破音的情況下提升音量較小的曲目。" icon="adjustments" >}}
+  {{< feature-card title="音樂視覺化" subtitle="觀看隨音樂即時反應的全螢幕動態視覺效果，從龐大的預設庫中選擇，或讓其自動循環播放。" icon="sparkles" >}}
+  {{< feature-card title="播放控制" subtitle="在不改變音高的情況下調整播放速度，儲存並還原您的佇列和播放位置，並使用睡眠計時器、隨機播放、重複播放和背景播放。" icon="play" >}}
+
+  {{< feature-card title="雲端串流" subtitle="直接從 iCloud Drive、Google Drive、Dropbox、OneDrive、Box、MEGA 和 pCloud 串流，還有 Internxt 和 Proton Drive 等注重隱私的雲端服務。" icon="cloud" >}}
+  {{< feature-card title="媒體伺服器" subtitle="連接您的個人媒體伺服器，包括 Plex、Subsonic、Navidrome、Jellyfin 和 Emby，開啟並串流您的整個音樂資料庫。" icon="server" >}}
+  {{< feature-card title="電腦與 NAS" subtitle="透過 SMB、WebDAV、DLNA、FTP、SFTP 或 NFS 連接電腦或 NAS，原生支援 QNAP、Synology、Nextcloud 和 WD My Cloud Home。" icon="desktop-computer" >}}
+
+  {{< feature-card title="USB 隨身碟" subtitle="使用 SanDisk iXpand 等外接讀卡機直接從 SD 卡和 USB 隨身碟播放音樂，無需匯入或同步。" icon="inbox" >}}
+  {{< feature-card title="AirPlay 與 Chromecast" subtitle="透過內建的 AirPlay、AirPlay 2 和 Google Chromecast 支援，將音樂無線傳送到 Apple TV、HomePod、智慧喇叭等裝置。" icon="device-mobile" >}}
+  {{< feature-card title="Apple CarPlay" subtitle="透過簡潔專用的 Apple CarPlay 畫面安全駕駛並聆聽，可從雲端、本機和離線來源選擇及控制音樂。" icon="map" >}}
+
+  {{< feature-card title="離線聆聽" subtitle="下載歌曲、專輯和完整藝術家內容以離線聆聽，或開啟音訊快取以自動儲存最近播放的曲目。" icon="download" >}}
+  {{< feature-card title="自動同步" subtitle="在雲端儲存與本機資料夾之間自動保持資料庫同步，讓新增的檔案無需任何手動操作即可顯示。" icon="refresh" >}}
+  {{< feature-card title="媒體資料庫" subtitle="使用檔案中嵌入的標籤，新增音樂並依專輯、藝術家、專輯藝術家、曲風和作曲家自動整理。" icon="library" >}}
+
+  {{< feature-card title="自訂播放清單" subtitle="建立、編輯和重新排序您自己的播放清單，使其可離線使用，並以 M3U、M3U8 和 CUE 格式匯入或匯出。" icon="collection" >}}
+  {{< feature-card title="檔案管理器" subtitle="使用內建檔案管理器管理您的音樂，處理複製、移動、重新命名和刪除等日常操作，讓檔案井然有序。" icon="folder" >}}
+  {{< feature-card title="ID3 標籤編輯器" subtitle="使用內建 ID3 標籤編輯器修正錯誤或缺失的中繼資料，只需輕點幾下即可更新標題、藝術家、專輯、曲風等。" icon="pencil-alt" >}}
+
+  {{< feature-card title="進階搜尋" subtitle="透過為超大型音樂資料庫打造的智慧快速搜尋，在整個收藏中快速尋找任何歌曲、藝術家或專輯。" icon="search" >}}
+  {{< feature-card title="快速存取" subtitle="透過最近播放、我的最愛和書籤直接回到重要內容，讓您常用的曲目始終觸手可及。" icon="clock" >}}
+  {{< feature-card title="歌詞與評論" subtitle="在每首曲目播放時檢視同步歌詞和歌曲註記，並將歌詞小工具加入主畫面以便快速一目了然地存取。" icon="annotation" >}}
+
+  {{< feature-card title="小工具" subtitle="加入顯示播放佇列的主畫面小工具，讓您直接回到並從上次停下的地方繼續播放。" icon="view-grid" >}}
+  {{< feature-card title="有聲書支援" subtitle="使用書籤、睡眠計時器、可調整的速度和從上次停止處接續的續播功能聆聽有聲書。" icon="book-open" >}}
+  {{< feature-card title="Last.fm 整合" subtitle="連接您的 Last.fm 帳戶以記錄曲目、追蹤聆聽統計資料，並隨時間獲得個人化的音樂推薦。" icon="chart-bar" >}}
 {{< /cards >}}
 
 </div>

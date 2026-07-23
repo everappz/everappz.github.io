@@ -127,29 +127,41 @@ Kattavat ominaisuudet
 
 {{< cards >}}
 
-  {{< feature-card title="Häviöttömän äänen tuki" subtitle="Toista FLAC-, ALAC-, WAV-, APE-, DFF-, WV-, AIFF-tiedostoja ja monia muita korkealaatuisia muotoja." icon="music-note" >}}
-  {{< feature-card title="Offline-tila" subtitle="Lataa albumeita, soittolistoja ja kappaleita offline-toistoon milloin tahansa." icon="download" >}}
-  {{< feature-card title="Tiedostonhallinta" subtitle="Kopioi, siirrä, nimeä uudelleen ja poista tiedostoja helposti sovelluksessa." icon="folder" >}}
+  {{< feature-card title="Äänenlaatu" subtitle="Nauti korkealaatuisesta äänestä näytteenottotaajuuksilla 8 kHz–384 kHz, oletus- tai sekoitetulla lähtötilalla sekä 1–7 äänikanavan tuella." icon="volume-up" >}}
+  {{< feature-card title="Häviötön ja Hi-Res-ääni" subtitle="Toista häviöttömiä ja hi-res-muotoja kuten FLAC, ALAC, WAV, AIFF, APE, WV ja DSF (DSD), sekä MP3, AAC, OGG ja OPUS näytteenottotaajuuksilla jopa 384 kHz." icon="music-note" >}}
+  {{< feature-card title="Tracker- ja MOD-musiikki" subtitle="Toista klassista tracker- ja moduulimusiikkia natiivisti, mukaan lukien chiptune- ja demoscene-piirien MOD-, XM-, IT- ja S3M-muodot, joita useimmat soittimet eivät avaa." icon="table" >}}
 
-  {{< feature-card title="Mukautetut soittolistat" subtitle="Luo, muokkaa, järjestä soittolistoja ja vie tai tuo M3U-tiedostoja." icon="collection" >}}
-  {{< feature-card title="Musiikkikirjasto" subtitle="Lisää musiikkia ja järjestä se albumin, artistin ja genren mukaan tageilla." icon="library" >}}
-  {{< feature-card title="Edistynyt haku" subtitle="Löydä nopeasti kappaleita, artisteja tai albumeita älykkäillä hakutyökaluilla." icon="search" >}}
+  {{< feature-card title="Äänimoottorit" subtitle="Valitse kolmesta toistomoottorista: vakiona toimiva järjestelmämoottori, monipuolinen FFmpeg-moottori ja ammattitason BASS™-moottori, joka avaa efektit, DSP:n ja visuaalit." icon="switch-horizontal" >}}
+  {{< feature-card title="Äänitehosteet" subtitle="Muokkaa ääntäsi reaaliajassa kaiulla, viiveellä, echolla, choruksella, flangerilla, phaserilla, auto-wah'lla, säröllä, kompressorilla ja luonnollisella kuulokkeiden crossfeedillä." icon="lightning-bolt" >}}
+  {{< feature-card title="DSP-ketju" subtitle="Rakenna oma reaaliaikainen signaaliketjusi ammattitason suodattimista ja EQ-kaistoista, saturaatiosta ja bittimurskaimesta sekä luovista prosessoreista kuten tremolo ja stereoleveys." icon="chip" >}}
 
-  {{< feature-card title="Pilvisuoratoisto" subtitle="Suoratoista Google Drivesta, Dropboxista, OneDrivesta, iCloudista, MEGAsta ja muista." icon="cloud" >}}
-  {{< feature-card title="NAS- ja tietokoneyhteys" subtitle="Yhdistä SMB:n, DLNA:n tai WebDAV:n kautta. Siirrä iTunesin tai Wi-Fi:n avulla." icon="desktop-computer" >}}
-  {{< feature-card title="USB-muistikortit" subtitle="Toista musiikkia suoraan SD-korteilta USB-sovittimilla kuten iXpand." icon="inbox" >}}
+  {{< feature-card title="Äänitaajuuskorjain" subtitle="Hienosäädä ääntäsi monikaistaisella taajuuskorjaimella, valmiilla genre-esiasetuksilla, manuaalisella hallinnalla ja esivahvistimella hiljaisten kappaleiden korostamiseen ilman säröä." icon="adjustments" >}}
+  {{< feature-card title="Musiikkivisualisointi" subtitle="Katso koko näytön animoituja visuaaleja, jotka reagoivat musiikkiisi reaaliajassa. Valitse laajasta esiasetuskirjastosta tai anna niiden vaihtua automaattisesti." icon="sparkles" >}}
+  {{< feature-card title="Toiston hallinta" subtitle="Säädä toistonopeutta muuttamatta sävelkorkeutta, tallenna ja palauta jono ja toistokohta sekä käytä uniajastinta, sekoitusta, toistoa ja taustatoistoa." icon="play" >}}
 
-  {{< feature-card title="Toiston hallinta" subtitle="Muuta toistonopeutta ja sävelkorkeutta täydelliseen äänen hallintaan." icon="fast-forward" >}}
-  {{< feature-card title="Sanoitukset ja kommentit" subtitle="Näytä upotettuja sanoituksia ja kommentteja kappaleiden toiston aikana." icon="annotation" >}}
-  {{< feature-card title="ID3-tagieditori" subtitle="Muokkaa ja korjaa metatietoja kuten otsikkoa, artistia tai albumia sisäänrakennetulla työkalulla." icon="pencil-alt" >}}
+  {{< feature-card title="Pilvisuoratoisto" subtitle="Suoratoista suoraan palveluista iCloud Drive, Google Drive, Dropbox, OneDrive, Box, MEGA ja pCloud sekä yksityisyyteen keskittyvistä pilvistä kuten Internxt ja Proton Drive." icon="cloud" >}}
+  {{< feature-card title="Mediapalvelimet" subtitle="Yhdistä henkilökohtaiset mediapalvelimesi, mukaan lukien Plex, Subsonic, Navidrome, Jellyfin ja Emby, avataksesi ja suoratoistaaksesi koko musiikkikirjastosi." icon="server" >}}
+  {{< feature-card title="Tietokone ja NAS" subtitle="Yhdistä tietokone tai NAS SMB-, WebDAV-, DLNA-, FTP-, SFTP- tai NFS-yhteydellä, natiivilla tuella laitteille QNAP, Synology, Nextcloud ja WD My Cloud Home." icon="desktop-computer" >}}
 
-  {{< feature-card title="Taajuuskorjain ja korostus" subtitle="Käytä esiasetuksia tai säädä manuaalisesti esivahvistimen vahvistuksella rikkaaseen ääneen." icon="adjustments" >}}
-  {{< feature-card title="Apple CarPlay" subtitle="Aja turvallisesti omistetulla CarPlay-käyttöliittymällä musiikin toistoon." icon="truck" >}}
-  {{< feature-card title="AirPlay ja Chromecast" subtitle="Suoratoista langattomasti Apple TV- ja Google Chromecast -laitteille." icon="device-mobile" >}}
+  {{< feature-card title="USB-muistikortit" subtitle="Toista musiikkia suoraan SD-korteilta ja USB-muistitikuilta ulkoisilla lukijoilla kuten SanDisk iXpand, ilman tuontia tai synkronointia." icon="inbox" >}}
+  {{< feature-card title="AirPlay ja Chromecast" subtitle="Lähetä musiikkisi langattomasti laitteille kuten Apple TV, HomePod ja älykaiuttimet sisäänrakennetulla AirPlay-, AirPlay 2- ja Google Chromecast -tuella." icon="device-mobile" >}}
+  {{< feature-card title="Apple CarPlay" subtitle="Aja ja kuuntele turvallisesti yksinkertaisella, omistetulla Apple CarPlay -näytöllä, jolla valitset ja hallitset musiikkia pilvestä sekä paikallisista ja offline-lähteistä." icon="map" >}}
 
-  {{< feature-card title="Last.fm-integraatio" subtitle="Seuraa musiikkitilastoja ja saa henkilökohtaisia kappalesuosituksia." icon="chart-bar" >}}
-  {{< feature-card title="Automaattinen synkronointi" subtitle="Synkronoi musiikkikirjastosi automaattisesti pilvi- ja paikallisten kansioiden kanssa." icon="refresh" >}}
-  {{< feature-card title="Äänikirjatuki" subtitle="Kuuntele äänikirjoja kirjanmerkeillä, uniajastimella ja jatka toistoa siitä mihin jäit." icon="book-open" >}}
+  {{< feature-card title="Offline-kuuntelu" subtitle="Lataa kappaleita, albumeita ja kokonaisia artisteja kuunneltavaksi ilman internetiä, tai ota äänivälimuisti käyttöön tallentaaksesi viimeksi soitetut kappaleet automaattisesti." icon="download" >}}
+  {{< feature-card title="Automaattinen synkronointi" subtitle="Pidä kirjastosi synkronoituna automaattisesti pilvitallennustilan ja paikallisten kansioiden välillä, jolloin uudet tiedostot ilmestyvät ilman manuaalista työtä." icon="refresh" >}}
+  {{< feature-card title="Mediakirjasto" subtitle="Lisää musiikkisi ja järjestä se automaattisesti albumin, artistin, albumin artistin, genren ja säveltäjän mukaan tiedostoihisi upotetuilla tageilla." icon="library" >}}
+
+  {{< feature-card title="Mukautetut soittolistat" subtitle="Luo, muokkaa ja järjestä uudelleen omia soittolistojasi, tee niistä offline-käytettäviä sekä tuo tai vie ne M3U-, M3U8- ja CUE-muodoissa." icon="collection" >}}
+  {{< feature-card title="Tiedostonhallinta" subtitle="Hallitse musiikkiasi sisäänrakennetulla tiedostonhallinnalla, joka hoitaa arkiset toiminnot kuten kopioinnin, siirron, uudelleennimeämisen ja poiston pitääkseen tiedostot järjestyksessä." icon="folder" >}}
+  {{< feature-card title="ID3-tagieditori" subtitle="Korjaa virheelliset tai puuttuvat metatiedot sisäänrakennetulla ID3-tagieditorilla ja päivitä otsikko, artisti, albumi, genre ja muuta muutamalla napautuksella." icon="pencil-alt" >}}
+
+  {{< feature-card title="Edistynyt haku" subtitle="Löydä nopeasti mikä tahansa kappale, artisti tai albumi koko kokoelmastasi älykkäällä ja nopealla haulla, joka on suunniteltu erittäin suurille musiikkikirjastoille." icon="search" >}}
+  {{< feature-card title="Pikakäyttö" subtitle="Palaa suoraan tärkeimpään toimintojen Viimeksi soitetut, Suosikit ja Kirjanmerkit avulla, jolloin vakiokappaleesi ovat aina vain yhden napautuksen päässä." icon="clock" >}}
+  {{< feature-card title="Sanoitukset ja kommentit" subtitle="Katso ajastettuja sanoituksia ja kappalemuistiinpanoja jokaisen kappaleen sisällä sen soidessa, ja lisää Sanoitukset-widget aloitusnäytöllesi nopeaa vilkaisua varten." icon="annotation" >}}
+
+  {{< feature-card title="Widgetit" subtitle="Lisää aloitusnäytön widgetejä, jotka näyttävät toistojonosi ja antavat sinun palata suoraan takaisin jatkaen täsmälleen siitä, mihin viimeksi jäit." icon="view-grid" >}}
+  {{< feature-card title="Äänikirjatuki" subtitle="Kuuntele äänikirjoja kirjanmerkeillä, uniajastimella, säädettävällä nopeudella ja toiston jatkamisella, joka jatkuu tarkalleen siitä, mihin viimeksi pysähdyit." icon="book-open" >}}
+  {{< feature-card title="Last.fm-integraatio" subtitle="Yhdistä Last.fm-tilisi scrobblataksesi kappaleita, seurataksesi kuuntelutilastojasi ja saadaksesi ajan myötä henkilökohtaisia musiikkisuosituksia." icon="chart-bar" >}}
 
 {{< /cards >}}
 

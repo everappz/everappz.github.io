@@ -127,29 +127,41 @@ Fitur Lengkap
 
 {{< cards >}}
 
-  {{< feature-card title="Dukungan Audio Lossless" subtitle="Putar FLAC, ALAC, WAV, APE, DFF, WV, AIFF, dan banyak format berkualitas tinggi lainnya." icon="music-note" >}}
-  {{< feature-card title="Mode Offline" subtitle="Unduh album, playlist, dan lagu untuk pemutaran offline kapan saja." icon="download" >}}
-  {{< feature-card title="Manajemen File" subtitle="Salin, pindahkan, ganti nama, dan hapus file dengan mudah di dalam aplikasi." icon="folder" >}}
+  {{< feature-card title="Kualitas Audio" subtitle="Nikmati keluaran fidelitas tinggi dengan sample rate dari 8 kHz hingga 384 kHz, mode keluaran default atau campuran, serta dukungan untuk 1 hingga 7 kanal audio." icon="volume-up" >}}
+  {{< feature-card title="Audio Lossless & Hi-Res" subtitle="Putar format lossless dan hi-res seperti FLAC, ALAC, WAV, AIFF, APE, WV, dan DSF (DSD), ditambah MP3, AAC, OGG, dan OPUS, pada sample rate hingga 384 kHz." icon="music-note" >}}
+  {{< feature-card title="Musik Tracker & MOD" subtitle="Putar musik tracker dan modul klasik secara native, termasuk format MOD, XM, IT, dan S3M dari dunia chiptune dan demoscene yang tak bisa dibuka kebanyakan pemutar." icon="table" >}}
 
-  {{< feature-card title="Playlist Kustom" subtitle="Buat, edit, susun ulang playlist, dan ekspor atau impor file M3U." icon="collection" >}}
-  {{< feature-card title="Pustaka Media" subtitle="Tambahkan musik dan atur berdasarkan album, artis, dan genre menggunakan tag." icon="library" >}}
-  {{< feature-card title="Pencarian Lanjutan" subtitle="Temukan lagu, artis, atau album dengan cepat menggunakan alat pencarian pintar." icon="search" >}}
+  {{< feature-card title="Mesin Audio" subtitle="Pilih dari tiga mesin pemutaran: mesin sistem standar, mesin FFmpeg yang serbaguna, dan mesin BASS™ profesional yang membuka efek, DSP, dan visual." icon="switch-horizontal" >}}
+  {{< feature-card title="Efek Audio" subtitle="Bentuk suara Anda secara real-time dengan reverb, delay, echo, chorus, flanger, phaser, auto-wah, distorsi, kompresor, dan crossfeed headphone yang alami." icon="lightning-bolt" >}}
+  {{< feature-card title="Rantai DSP" subtitle="Bangun rantai sinyal real-time Anda sendiri dari filter profesional dan band EQ, saturasi dan bit crusher, ditambah prosesor kreatif seperti tremolo dan lebar stereo." icon="chip" >}}
 
-  {{< feature-card title="Streaming Cloud" subtitle="Streaming dari Google Drive, Dropbox, OneDrive, iCloud, MEGA, dan lainnya." icon="cloud" >}}
-  {{< feature-card title="Akses NAS & Komputer" subtitle="Hubungkan melalui SMB, DLNA, atau WebDAV. Transfer dengan iTunes atau Wi-Fi." icon="desktop-computer" >}}
-  {{< feature-card title="Kartu Flash USB" subtitle="Putar musik langsung dari kartu SD menggunakan adaptor USB seperti iXpand." icon="inbox" >}}
+  {{< feature-card title="Equalizer Audio" subtitle="Sempurnakan suara Anda dengan equalizer multi-band, preset genre siap pakai, kontrol manual, dan gain preamp untuk mengangkat lagu pelan tanpa clipping." icon="adjustments" >}}
+  {{< feature-card title="Visualizer Musik" subtitle="Saksikan visual animasi layar penuh yang bereaksi langsung terhadap musik Anda, memilih dari pustaka preset yang luas atau membiarkannya berputar otomatis." icon="sparkles" >}}
+  {{< feature-card title="Kontrol Pemutaran" subtitle="Sesuaikan kecepatan pemutaran tanpa mengubah pitch, simpan dan pulihkan antrean serta posisi Anda, dan gunakan timer tidur, acak, ulang, serta putar di latar belakang." icon="play" >}}
 
-  {{< feature-card title="Kontrol Pemutaran" subtitle="Ubah kecepatan pemutaran dan pitch untuk kontrol audio yang sempurna." icon="fast-forward" >}}
-  {{< feature-card title="Lirik & Komentar" subtitle="Lihat lirik dan komentar yang tertanam saat memutar lagu." icon="annotation" >}}
-  {{< feature-card title="Editor Tag ID3" subtitle="Edit dan perbaiki metadata seperti judul, artis, atau album dengan alat bawaan." icon="pencil-alt" >}}
+  {{< feature-card title="Streaming Cloud" subtitle="Streaming langsung dari iCloud Drive, Google Drive, Dropbox, OneDrive, Box, MEGA, dan pCloud, ditambah cloud yang mengutamakan privasi seperti Internxt dan Proton Drive." icon="cloud" >}}
+  {{< feature-card title="Server Media" subtitle="Hubungkan server media pribadi Anda, termasuk Plex, Subsonic, Navidrome, Jellyfin, dan Emby, untuk membuka dan streaming seluruh pustaka musik Anda." icon="server" >}}
+  {{< feature-card title="Komputer & NAS" subtitle="Hubungkan komputer atau NAS melalui SMB, WebDAV, DLNA, FTP, SFTP, atau NFS, dengan dukungan native untuk QNAP, Synology, Nextcloud, dan WD My Cloud Home." icon="desktop-computer" >}}
 
-  {{< feature-card title="Equalizer & Boost" subtitle="Gunakan preset atau sesuaikan secara manual dengan gain preamp untuk suara yang kaya." icon="adjustments" >}}
-  {{< feature-card title="Apple CarPlay" subtitle="Berkendara dengan aman menggunakan UI CarPlay khusus untuk pemutaran musik." icon="truck" >}}
-  {{< feature-card title="AirPlay & Chromecast" subtitle="Streaming ke Apple TV dan perangkat Google Chromecast secara nirkabel." icon="device-mobile" >}}
+  {{< feature-card title="Kartu Flash USB" subtitle="Putar musik langsung dari kartu SD dan USB flash drive menggunakan pembaca eksternal seperti SanDisk iXpand, tanpa perlu mengimpor atau menyinkronkan." icon="inbox" >}}
+  {{< feature-card title="AirPlay & Chromecast" subtitle="Kirim musik Anda secara nirkabel ke Apple TV, HomePod, speaker pintar, dan lainnya dengan dukungan AirPlay, AirPlay 2, dan Google Chromecast bawaan." icon="device-mobile" >}}
+  {{< feature-card title="Apple CarPlay" subtitle="Berkendara dan mendengarkan dengan aman lewat layar Apple CarPlay khusus yang sederhana untuk memilih dan mengontrol musik dari sumber cloud, lokal, dan offline." icon="map" >}}
 
-  {{< feature-card title="Integrasi Last.fm" subtitle="Lacak statistik musik dan dapatkan rekomendasi lagu yang dipersonalisasi." icon="chart-bar" >}}
-  {{< feature-card title="Sinkronisasi Otomatis" subtitle="Sinkronisasi otomatis pustaka musik Anda dengan folder cloud dan lokal." icon="refresh" >}}
-  {{< feature-card title="Dukungan Buku Audio" subtitle="Dengarkan buku audio dengan penanda, timer tidur, dan lanjutkan pemutaran dari tempat Anda berhenti." icon="book-open" >}}
+  {{< feature-card title="Mendengarkan Offline" subtitle="Unduh lagu, album, dan seluruh artis untuk didengarkan tanpa internet, atau aktifkan cache audio untuk menyimpan lagu yang baru diputar secara otomatis." icon="download" >}}
+  {{< feature-card title="Sinkronisasi Otomatis" subtitle="Jaga pustaka Anda tetap sinkron secara otomatis antara penyimpanan cloud dan folder lokal, sehingga file yang baru ditambahkan muncul tanpa kerja manual." icon="refresh" >}}
+  {{< feature-card title="Pustaka Media" subtitle="Tambahkan musik Anda dan atur secara otomatis berdasarkan album, artis, artis album, genre, dan komposer menggunakan tag yang tertanam dalam file Anda." icon="library" >}}
+
+  {{< feature-card title="Playlist Kustom" subtitle="Buat, edit, dan susun ulang playlist Anda sendiri, jadikan tersedia offline, serta impor atau ekspor dalam format M3U, M3U8, dan CUE." icon="collection" >}}
+  {{< feature-card title="Pengelola File" subtitle="Kelola musik Anda dengan pengelola file bawaan, menangani operasi sehari-hari seperti salin, pindahkan, ganti nama, dan hapus agar file tetap teratur." icon="folder" >}}
+  {{< feature-card title="Editor Tag ID3" subtitle="Perbaiki metadata yang salah atau hilang dengan editor tag ID3 bawaan, memperbarui judul, artis, album, genre, dan lainnya hanya dalam beberapa ketukan." icon="pencil-alt" >}}
+
+  {{< feature-card title="Pencarian Lanjutan" subtitle="Temukan lagu, artis, atau album apa pun di seluruh koleksi Anda dengan pencarian pintar dan cepat yang dirancang untuk pustaka musik yang sangat besar." icon="search" >}}
+  {{< feature-card title="Akses Cepat" subtitle="Langsung kembali ke yang penting dengan Terbaru Diputar, Favorit, dan Penanda, menjaga lagu andalan Anda selalu satu ketukan saja." icon="clock" >}}
+  {{< feature-card title="Lirik & Komentar" subtitle="Lihat lirik berjangka waktu dan catatan lagu di dalam setiap trek saat diputar, serta tambahkan widget Lirik ke Layar Utama untuk akses sekilas yang cepat." icon="annotation" >}}
+
+  {{< feature-card title="Widget" subtitle="Tambahkan widget Layar Utama yang menampilkan antrean pemutaran Anda dan memungkinkan Anda langsung melanjutkan tepat dari tempat terakhir Anda berhenti." icon="view-grid" >}}
+  {{< feature-card title="Dukungan Buku Audio" subtitle="Dengarkan buku audio dengan penanda, timer tidur, kecepatan yang dapat disesuaikan, dan lanjutkan pemutaran yang melanjutkan tepat dari tempat terakhir Anda berhenti." icon="book-open" >}}
+  {{< feature-card title="Integrasi Last.fm" subtitle="Hubungkan akun Last.fm Anda untuk scrobble lagu, memantau statistik pendengaran Anda, dan mendapatkan rekomendasi musik yang dipersonalisasi seiring waktu." icon="chart-bar" >}}
 
 {{< /cards >}}
 

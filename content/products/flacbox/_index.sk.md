@@ -127,29 +127,41 @@ Kompletné funkcie
 
 {{< cards >}}
 
-  {{< feature-card title="Podpora bezstratového audia" subtitle="Prehrávajte FLAC, ALAC, WAV, APE, DFF, WV, AIFF a mnoho ďalších vysokokvalitných formátov." icon="music-note" >}}
-  {{< feature-card title="Offline režim" subtitle="Stiahnite albumy, playlisty a skladby pre offline prehrávanie kedykoľvek." icon="download" >}}
-  {{< feature-card title="Správa súborov" subtitle="Jednoducho kopírujte, presúvajte, premenúvajte a mažte súbory v aplikácii." icon="folder" >}}
+  {{< feature-card title="Kvalita zvuku" subtitle="Vychutnajte si vernú reprodukciu so vzorkovacími frekvenciami od 8 kHz do 384 kHz, predvoleným alebo zmiešaným výstupným režimom a podporou 1 až 7 audio kanálov." icon="volume-up" >}}
+  {{< feature-card title="Bezstratové a Hi-Res audio" subtitle="Prehrávajte bezstratové a hi-res formáty ako FLAC, ALAC, WAV, AIFF, APE, WV a DSF (DSD), plus MP3, AAC, OGG a OPUS pri vzorkovacích frekvenciách až do 384 kHz." icon="music-note" >}}
+  {{< feature-card title="Tracker a MOD hudba" subtitle="Natívne prehrávajte klasickú tracker a modulovú hudbu vrátane formátov MOD, XM, IT a S3M z chiptune a demoscéne, ktoré väčšina prehrávačov nedokáže otvoriť." icon="table" >}}
 
-  {{< feature-card title="Vlastné playlisty" subtitle="Vytvárajte, upravujte, preusporiadúvajte playlisty a exportujte alebo importujte súbory M3U." icon="collection" >}}
-  {{< feature-card title="Mediálna knižnica" subtitle="Pridajte hudbu a organizujte ju podľa albumu, interpreta a žánru pomocou tagov." icon="library" >}}
-  {{< feature-card title="Pokročilé vyhľadávanie" subtitle="Rýchlo nájdite piesne, interpretov alebo albumy s inteligentnými vyhľadávacími nástrojmi." icon="search" >}}
+  {{< feature-card title="Audio enginy" subtitle="Vyberte si z troch prehrávacích enginov: štandardný systémový engine, univerzálny FFmpeg engine a profesionálny BASS™ engine, ktorý odomyká efekty, DSP a vizuály." icon="switch-horizontal" >}}
+  {{< feature-card title="Audio efekty" subtitle="Tvarujte svoj zvuk v reálnom čase pomocou reverbu, delay, echa, chorusu, flangeru, phaseru, auto-wah, skreslenia, kompresora a prirodzeného crossfeedu pre slúchadlá." icon="lightning-bolt" >}}
+  {{< feature-card title="DSP reťazec" subtitle="Zostavte si vlastný reťazec spracovania v reálnom čase z profesionálnych filtrov a EQ pásiem, saturácie a bit crushera, plus kreatívnych procesorov ako tremolo a stereo šírka." icon="chip" >}}
 
-  {{< feature-card title="Cloudové streamovanie" subtitle="Streamujte z Google Drive, Dropbox, OneDrive, iCloud, MEGA a ďalších." icon="cloud" >}}
-  {{< feature-card title="Prístup k NAS a počítaču" subtitle="Pripojte sa cez SMB, DLNA alebo WebDAV. Prenášajte cez iTunes alebo Wi-Fi." icon="desktop-computer" >}}
-  {{< feature-card title="USB flash karty" subtitle="Prehrávajte hudbu priamo z SD kariet pomocou USB adaptérov ako iXpand." icon="inbox" >}}
+  {{< feature-card title="Audio ekvalizér" subtitle="Vylaďte svoj zvuk viacpásmovým ekvalizérom, hotovými žánrovými predvoľbami, manuálnym ovládaním a ziskom predzosilňovača na zosilnenie tichých skladieb bez orezania." icon="adjustments" >}}
+  {{< feature-card title="Hudobný vizualizér" subtitle="Sledujte celoobrazovkové animované vizuály, ktoré naživo reagujú na vašu hudbu, s výberom z veľkej knižnice predvolieb alebo ich automatickým striedaním." icon="sparkles" >}}
+  {{< feature-card title="Ovládanie prehrávania" subtitle="Meňte rýchlosť prehrávania bez zmeny výšky tónu, ukladajte a obnovujte frontu a pozíciu a používajte časovač spánku, náhodné prehrávanie, opakovanie a prehrávanie na pozadí." icon="play" >}}
 
-  {{< feature-card title="Ovládanie prehrávania" subtitle="Meňte rýchlosť a výšku prehrávania pre dokonalé ovládanie zvuku." icon="fast-forward" >}}
-  {{< feature-card title="Texty piesní a komentáre" subtitle="Zobrazujte vstavané texty piesní a komentáre počas prehrávania." icon="annotation" >}}
-  {{< feature-card title="Editor tagov ID3" subtitle="Upravujte a opravujte metadáta ako názov, interpreta alebo album vstavaným nástrojom." icon="pencil-alt" >}}
+  {{< feature-card title="Cloudové streamovanie" subtitle="Streamujte priamo z iCloud Drive, Google Drive, Dropbox, OneDrive, Box, MEGA a pCloud, plus zo súkromie chrániacich cloudov ako Internxt a Proton Drive." icon="cloud" >}}
+  {{< feature-card title="Mediálne servery" subtitle="Pripojte svoje osobné mediálne servery vrátane Plex, Subsonic, Navidrome, Jellyfin a Emby a otvorte a streamujte celú svoju hudobnú knižnicu." icon="server" >}}
+  {{< feature-card title="Počítač a NAS" subtitle="Pripojte počítač alebo NAS cez SMB, WebDAV, DLNA, FTP, SFTP alebo NFS s natívnou podporou pre QNAP, Synology, Nextcloud a WD My Cloud Home." icon="desktop-computer" >}}
 
-  {{< feature-card title="Ekvalizér a zosilnenie" subtitle="Použite predvoľby alebo manuálne nastavte so zosilnením predzosilňovača pre bohatý zvuk." icon="adjustments" >}}
-  {{< feature-card title="Apple CarPlay" subtitle="Jazdite bezpečne s vyhradeným rozhraním CarPlay pre prehrávanie hudby." icon="truck" >}}
-  {{< feature-card title="AirPlay a Chromecast" subtitle="Streamujte na Apple TV a zariadenia Google Chromecast bezdrôtovo." icon="device-mobile" >}}
+  {{< feature-card title="USB flash karty" subtitle="Prehrávajte hudbu priamo z SD kariet a USB flash diskov pomocou externých čítačiek ako SanDisk iXpand, bez potreby importovania alebo synchronizácie." icon="inbox" >}}
+  {{< feature-card title="AirPlay a Chromecast" subtitle="Posielajte svoju hudbu bezdrôtovo na Apple TV, HomePod, inteligentné reproduktory a ďalšie zariadenia so vstavanou podporou AirPlay, AirPlay 2 a Google Chromecast." icon="device-mobile" >}}
+  {{< feature-card title="Apple CarPlay" subtitle="Šoférujte a počúvajte bezpečne s jednoduchou, vyhradenou obrazovkou Apple CarPlay na výber a ovládanie hudby z cloudových, lokálnych a offline zdrojov." icon="map" >}}
 
-  {{< feature-card title="Integrácia Last.fm" subtitle="Sledujte hudobné štatistiky a získavajte personalizované odporúčania piesní." icon="chart-bar" >}}
-  {{< feature-card title="Automatická synchronizácia" subtitle="Automaticky synchronizujte hudobnú knižnicu s cloudovými a lokálnymi priečinkami." icon="refresh" >}}
-  {{< feature-card title="Podpora audiokníh" subtitle="Počúvajte audioknihy so záložkami, časovačom spánku a obnovením prehrávania od miesta, kde ste prestali." icon="book-open" >}}
+  {{< feature-card title="Offline počúvanie" subtitle="Stiahnite si piesne, albumy a celých interpretov na počúvanie bez internetu alebo zapnite audio cache na automatické ukladanie nedávno prehraných skladieb." icon="download" >}}
+  {{< feature-card title="Automatická synchronizácia" subtitle="Udržujte svoju knižnicu automaticky synchronizovanú medzi cloudovým úložiskom a lokálnymi priečinkami, aby sa novo pridané súbory zobrazovali bez akejkoľvek manuálnej práce." icon="refresh" >}}
+  {{< feature-card title="Mediálna knižnica" subtitle="Pridajte svoju hudbu a organizujte ju automaticky podľa albumu, interpreta, interpreta albumu, žánru a skladateľa pomocou tagov vložených vo vašich súboroch." icon="library" >}}
+
+  {{< feature-card title="Vlastné playlisty" subtitle="Vytvárajte, upravujte a preusporiadúvajte vlastné playlisty, sprístupnite ich offline a importujte alebo exportujte ich vo formátoch M3U, M3U8 a CUE." icon="collection" >}}
+  {{< feature-card title="Správca súborov" subtitle="Spravujte svoju hudbu vstavaným správcom súborov, ktorý zvláda každodenné operácie ako kopírovanie, presúvanie, premenovanie a mazanie na udržanie poriadku v súboroch." icon="folder" >}}
+  {{< feature-card title="Editor ID3 tagov" subtitle="Opravte nesprávne alebo chýbajúce metadáta vstavaným editorom ID3 tagov, ktorý aktualizuje názov, interpreta, album, žáner a ďalšie údaje niekoľkými klepnutiami." icon="pencil-alt" >}}
+
+  {{< feature-card title="Pokročilé vyhľadávanie" subtitle="Rýchlo nájdite akúkoľvek pieseň, interpreta alebo album v celej svojej zbierke s inteligentným, rýchlym vyhľadávaním navrhnutým pre veľmi rozsiahle hudobné knižnice." icon="search" >}}
+  {{< feature-card title="Rýchly prístup" subtitle="Vráťte sa priamo k tomu, na čom záleží, so sekciami Nedávno prehrané, Obľúbené a Záložky, vďaka čomu sú vaše obľúbené skladby vždy na jedno klepnutie." icon="clock" >}}
+  {{< feature-card title="Texty piesní a komentáre" subtitle="Zobrazujte časované texty piesní a poznámky ku skladbe počas prehrávania a pridajte si widget Texty piesní na domovskú obrazovku pre rýchly prehľad." icon="annotation" >}}
+
+  {{< feature-card title="Widgety" subtitle="Pridajte si na domovskú obrazovku widgety, ktoré zobrazujú vašu frontu prehrávania a umožňujú vám vrátiť sa a pokračovať presne tam, kde ste naposledy skončili." icon="view-grid" >}}
+  {{< feature-card title="Podpora audiokníh" subtitle="Počúvajte audioknihy so záložkami, časovačom spánku, nastaviteľnou rýchlosťou a obnovením prehrávania, ktoré nadviaže presne tam, kde ste naposledy prestali." icon="book-open" >}}
+  {{< feature-card title="Integrácia Last.fm" subtitle="Pripojte svoj účet Last.fm na scrobblovanie skladieb, sledovanie štatistík počúvania a získavanie personalizovaných hudobných odporúčaní v priebehu času." icon="chart-bar" >}}
 
 {{< /cards >}}
 

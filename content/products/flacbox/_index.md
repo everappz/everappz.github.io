@@ -128,29 +128,41 @@ All-Inclusive Features
 
 {{< cards >}}
 
-  {{< feature-card title="Lossless Audio Support" subtitle="Play FLAC, ALAC, WAV, APE, DFF, WV, AIFF, and many other high-quality formats." icon="music-note" >}}
-  {{< feature-card title="Offline Mode" subtitle="Download albums, playlists, and tracks for offline playback anytime." icon="download" >}}
-  {{< feature-card title="File Management" subtitle="Easily copy, move, rename, and delete files within the app." icon="folder" >}}
+  {{< feature-card title="Audio Quality" subtitle="Enjoy high-fidelity output with sample rates from 8 kHz to 384 kHz, default or mixed output modes, and support for 1 to 7 audio channels." icon="volume-up" >}}
+  {{< feature-card title="Lossless & Hi-Res Audio" subtitle="Play lossless and hi-res formats like FLAC, ALAC, WAV, AIFF, APE, WV, and DSF (DSD), plus MP3, AAC, OGG, and OPUS, at sample rates up to 384 kHz." icon="music-note" >}}
+  {{< feature-card title="Tracker & MOD Music" subtitle="Play classic tracker and module music natively, including MOD, XM, IT, and S3M formats from the chiptune and demoscene scene that most players cannot open." icon="table" >}}
 
-  {{< feature-card title="Custom Playlists" subtitle="Create, edit, reorder playlists, and export or import M3U files." icon="collection" >}}
-  {{< feature-card title="Media Library" subtitle="Add music and organize it by album, artist, and genre using tags." icon="library" >}}
-  {{< feature-card title="Advanced Search" subtitle="Quickly find songs, artists, or albums with smart search tools." icon="search" >}}
+  {{< feature-card title="Audio Engines" subtitle="Choose from three playback engines: the standard system engine, a versatile FFmpeg engine, and the professional BASS™ engine that unlocks effects, DSP, and visuals." icon="switch-horizontal" >}}
+  {{< feature-card title="Audio Effects" subtitle="Shape your sound in real time with reverb, delay, echo, chorus, flanger, phaser, auto-wah, distortion, a compressor, and natural headphone crossfeed." icon="lightning-bolt" >}}
+  {{< feature-card title="DSP Chain" subtitle="Build your own real-time signal chain from professional filters and EQ bands, saturation and a bit crusher, plus creative processors like tremolo and stereo width." icon="chip" >}}
 
-  {{< feature-card title="Cloud Streaming" subtitle="Stream from Google Drive, Dropbox, OneDrive, iCloud, MEGA, and more." icon="cloud" >}}
-  {{< feature-card title="NAS & Computer Access" subtitle="Connect via SMB, DLNA, or WebDAV. Transfer with iTunes or Wi-Fi." icon="desktop-computer" >}}
-  {{< feature-card title="USB Flash Cards" subtitle="Play music directly from SD cards using USB adapters like iXpand." icon="inbox" >}}
+  {{< feature-card title="Audio Equalizer" subtitle="Fine-tune your sound with a multi-band equalizer, ready-made genre presets, manual control, and preamp gain to boost quiet tracks without clipping." icon="adjustments" >}}
+  {{< feature-card title="Music Visualizer" subtitle="Watch full-screen animated visuals that react live to your music, choosing from a large library of presets or letting them cycle automatically." icon="sparkles" >}}
+  {{< feature-card title="Playback Controls" subtitle="Adjust playback speed without changing pitch, save and restore your queue and position, and use a sleep timer, shuffle, repeat, and background play." icon="play" >}}
 
-  {{< feature-card title="Playback Controls" subtitle="Change playback speed and pitch for perfect audio control." icon="fast-forward" >}}
-  {{< feature-card title="Lyrics & Comments" subtitle="View embedded lyrics and comments while playing songs." icon="annotation" >}}
-  {{< feature-card title="ID3 Tag Editor" subtitle="Edit and fix metadata like title, artist, or album with the built-in tool." icon="pencil-alt" >}}
+  {{< feature-card title="Cloud Streaming" subtitle="Stream directly from iCloud Drive, Google Drive, Dropbox, OneDrive, Box, MEGA, and pCloud, plus privacy-focused clouds like Internxt and Proton Drive." icon="cloud" >}}
+  {{< feature-card title="Media Servers" subtitle="Connect your personal media servers, including Plex, Subsonic, Navidrome, Jellyfin, and Emby, to open and stream your entire music library." icon="server" >}}
+  {{< feature-card title="Computer & NAS" subtitle="Connect a computer or NAS over SMB, WebDAV, DLNA, FTP, SFTP, or NFS, with native support for QNAP, Synology, Nextcloud, and WD My Cloud Home." icon="desktop-computer" >}}
 
-  {{< feature-card title="Equalizer & Boost" subtitle="Use presets or adjust manually with preamp gain for rich sound." icon="adjustments" >}}
-  {{< feature-card title="Apple CarPlay" subtitle="Drive safely with a dedicated CarPlay UI for music playback." icon="truck" >}}
-  {{< feature-card title="AirPlay & Chromecast" subtitle="Stream to Apple TV and Google Chromecast devices wirelessly." icon="device-mobile" >}}
+  {{< feature-card title="USB Flash Cards" subtitle="Play music straight from SD cards and USB flash drives using external readers like the SanDisk iXpand, with no importing or syncing required." icon="inbox" >}}
+  {{< feature-card title="AirPlay & Chromecast" subtitle="Send your music wirelessly to Apple TV, HomePod, smart speakers, and more with built-in AirPlay, AirPlay 2, and Google Chromecast support." icon="device-mobile" >}}
+  {{< feature-card title="Apple CarPlay" subtitle="Drive and listen safely with a simple, dedicated Apple CarPlay screen for choosing and controlling music from cloud, local, and offline sources." icon="map" >}}
 
-  {{< feature-card title="Last.fm Integration" subtitle="Track music stats and get personalized song recommendations." icon="chart-bar" >}}
-  {{< feature-card title="Automatic Sync" subtitle="Auto-sync your music library with cloud and local folders." icon="refresh" >}}
-  {{< feature-card title="Audiobook Support" subtitle="Listen to audiobooks with bookmarks, sleep timer, and resume playback from where you stopped." icon="book-open" >}}
+  {{< feature-card title="Offline Listening" subtitle="Download songs, albums, and full artists to listen without internet, or turn on the audio cache to save recently played tracks automatically." icon="download" >}}
+  {{< feature-card title="Automatic Sync" subtitle="Keep your library in sync automatically between your cloud storage and local folders, so newly added files show up without any manual work." icon="refresh" >}}
+  {{< feature-card title="Media Library" subtitle="Add your music and organize it automatically by album, artist, album artist, genre, and composer using the tags embedded in your files." icon="library" >}}
+
+  {{< feature-card title="Custom Playlists" subtitle="Create, edit, and reorder your own playlists, make them available offline, and import or export them in M3U, M3U8, and CUE formats." icon="collection" >}}
+  {{< feature-card title="File Manager" subtitle="Manage your music with the built-in file manager, handling everyday operations like copy, move, rename, and delete to keep files in order." icon="folder" >}}
+  {{< feature-card title="ID3 Tag Editor" subtitle="Fix incorrect or missing metadata with the built-in ID3 tag editor, updating the title, artist, album, genre, and more in just a few taps." icon="pencil-alt" >}}
+
+  {{< feature-card title="Advanced Search" subtitle="Quickly find any song, artist, or album across your whole collection with a smart, fast search built for very large music libraries." icon="search" >}}
+  {{< feature-card title="Quick Access" subtitle="Jump straight back to what matters with Recently Played, Favorites, and Bookmarks, keeping your go-to tracks always just one tap away." icon="clock" >}}
+  {{< feature-card title="Lyrics & Comments" subtitle="View timed lyrics and song notes inside each track as it plays, and add the Lyrics widget to your Home Screen for quick, at-a-glance access." icon="annotation" >}}
+
+  {{< feature-card title="Widgets" subtitle="Add Home Screen widgets that show your playback queue and let you jump right back in, continuing from exactly where you last left off." icon="view-grid" >}}
+  {{< feature-card title="Audiobook Support" subtitle="Listen to audiobooks with bookmarks, a sleep timer, adjustable speed, and resume playback that picks up right where you last stopped." icon="book-open" >}}
+  {{< feature-card title="Last.fm Integration" subtitle="Connect your Last.fm account to scrobble tracks, follow your listening stats, and get personalized music recommendations over time." icon="chart-bar" >}}
 
 {{< /cards >}}
 

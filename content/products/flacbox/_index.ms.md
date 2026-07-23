@@ -127,29 +127,41 @@ Ciri-ciri Lengkap
 
 {{< cards >}}
 
-  {{< feature-card title="Sokongan Audio Lossless" subtitle="Main FLAC, ALAC, WAV, APE, DFF, WV, AIFF dan banyak format berkualiti tinggi lain." icon="music-note" >}}
-  {{< feature-card title="Mod Luar Talian" subtitle="Muat turun album, senarai main dan trek untuk main balik luar talian pada bila-bila masa." icon="download" >}}
-  {{< feature-card title="Pengurusan Fail" subtitle="Salin, alih, namakan semula dan padam fail dengan mudah dalam aplikasi." icon="folder" >}}
+  {{< feature-card title="Kualiti Audio" subtitle="Nikmati output kesetiaan tinggi dengan kadar sampel dari 8 kHz hingga 384 kHz, mod output lalai atau campuran, dan sokongan untuk 1 hingga 7 saluran audio." icon="volume-up" >}}
+  {{< feature-card title="Audio Lossless & Hi-Res" subtitle="Main format lossless dan hi-res seperti FLAC, ALAC, WAV, AIFF, APE, WV dan DSF (DSD), serta MP3, AAC, OGG dan OPUS, pada kadar sampel sehingga 384 kHz." icon="music-note" >}}
+  {{< feature-card title="Muzik Tracker & MOD" subtitle="Main muzik tracker dan modul klasik secara natif, termasuk format MOD, XM, IT dan S3M dari dunia chiptune dan demoscene yang tidak dapat dibuka oleh kebanyakan pemain." icon="table" >}}
 
-  {{< feature-card title="Senarai Main Tersuai" subtitle="Cipta, sunting, susun semula senarai main dan eksport atau import fail M3U." icon="collection" >}}
-  {{< feature-card title="Perpustakaan Media" subtitle="Tambah muzik dan susun mengikut album, artis dan genre menggunakan tag." icon="library" >}}
-  {{< feature-card title="Carian Lanjutan" subtitle="Cari lagu, artis atau album dengan cepat menggunakan alat carian pintar." icon="search" >}}
+  {{< feature-card title="Enjin Audio" subtitle="Pilih daripada tiga enjin main balik: enjin sistem standard, enjin FFmpeg yang serba boleh, dan enjin BASS™ profesional yang membuka kesan, DSP dan visual." icon="switch-horizontal" >}}
+  {{< feature-card title="Kesan Audio" subtitle="Bentuk bunyi anda secara masa nyata dengan reverb, delay, echo, chorus, flanger, phaser, auto-wah, distortion, compressor dan crossfeed fon kepala yang semula jadi." icon="lightning-bolt" >}}
+  {{< feature-card title="Rantaian DSP" subtitle="Bina rantaian isyarat masa nyata anda sendiri daripada penapis profesional dan jalur EQ, saturation dan bit crusher, serta pemproses kreatif seperti tremolo dan lebar stereo." icon="chip" >}}
 
-  {{< feature-card title="Penstriman Awan" subtitle="Strim dari Google Drive, Dropbox, OneDrive, iCloud, MEGA dan lagi." icon="cloud" >}}
-  {{< feature-card title="Akses NAS & Komputer" subtitle="Sambung melalui SMB, DLNA atau WebDAV. Pindah dengan iTunes atau Wi-Fi." icon="desktop-computer" >}}
-  {{< feature-card title="Kad Kilat USB" subtitle="Main muzik terus dari kad SD menggunakan penyesuai USB seperti iXpand." icon="inbox" >}}
+  {{< feature-card title="Penyama Audio" subtitle="Perhalusi bunyi anda dengan penyama berbilang jalur, pratetap genre siap sedia, kawalan manual, dan gandaan praamplifier untuk mengukuhkan trek perlahan tanpa keratan." icon="adjustments" >}}
+  {{< feature-card title="Pengvisual Muzik" subtitle="Saksikan visual animasi skrin penuh yang bertindak balas secara langsung terhadap muzik anda, memilih daripada perpustakaan pratetap yang besar atau membiarkannya berkitar automatik." icon="sparkles" >}}
+  {{< feature-card title="Kawalan Main Balik" subtitle="Laras kelajuan main balik tanpa menukar pic, simpan dan pulihkan baris gilir dan kedudukan anda, dan gunakan pemasa tidur, rawak, ulang serta main latar belakang." icon="play" >}}
 
-  {{< feature-card title="Kawalan Main Balik" subtitle="Tukar kelajuan dan pic main balik untuk kawalan audio yang sempurna." icon="fast-forward" >}}
-  {{< feature-card title="Lirik & Ulasan" subtitle="Lihat lirik dan ulasan terbenam semasa memainkan lagu." icon="annotation" >}}
-  {{< feature-card title="Penyunting Tag ID3" subtitle="Sunting dan betulkan metadata seperti tajuk, artis atau album dengan alat terbina dalam." icon="pencil-alt" >}}
+  {{< feature-card title="Penstriman Awan" subtitle="Strim terus dari iCloud Drive, Google Drive, Dropbox, OneDrive, Box, MEGA dan pCloud, serta awan fokus privasi seperti Internxt dan Proton Drive." icon="cloud" >}}
+  {{< feature-card title="Pelayan Media" subtitle="Sambungkan pelayan media peribadi anda, termasuk Plex, Subsonic, Navidrome, Jellyfin dan Emby, untuk membuka dan menstrim seluruh perpustakaan muzik anda." icon="server" >}}
+  {{< feature-card title="Komputer & NAS" subtitle="Sambungkan komputer atau NAS melalui SMB, WebDAV, DLNA, FTP, SFTP atau NFS, dengan sokongan natif untuk QNAP, Synology, Nextcloud dan WD My Cloud Home." icon="desktop-computer" >}}
 
-  {{< feature-card title="Penyama & Peningkatan" subtitle="Gunakan pratetap atau laras secara manual dengan gandaan praamplifier untuk bunyi yang kaya." icon="adjustments" >}}
-  {{< feature-card title="Apple CarPlay" subtitle="Pandu dengan selamat dengan UI CarPlay khusus untuk main balik muzik." icon="truck" >}}
-  {{< feature-card title="AirPlay & Chromecast" subtitle="Strim ke Apple TV dan peranti Google Chromecast secara wayarles." icon="device-mobile" >}}
+  {{< feature-card title="Kad Kilat USB" subtitle="Main muzik terus dari kad SD dan pemacu kilat USB menggunakan pembaca luaran seperti SanDisk iXpand, tanpa perlu mengimport atau menyegerak." icon="inbox" >}}
+  {{< feature-card title="AirPlay & Chromecast" subtitle="Hantar muzik anda secara wayarles ke Apple TV, HomePod, pembesar suara pintar dan lagi dengan sokongan AirPlay, AirPlay 2 dan Google Chromecast terbina dalam." icon="device-mobile" >}}
+  {{< feature-card title="Apple CarPlay" subtitle="Pandu dan dengar dengan selamat menggunakan skrin Apple CarPlay yang ringkas dan khusus untuk memilih dan mengawal muzik dari sumber awan, tempatan dan luar talian." icon="map" >}}
 
-  {{< feature-card title="Integrasi Last.fm" subtitle="Jejak statistik muzik dan dapatkan cadangan lagu yang diperibadikan." icon="chart-bar" >}}
-  {{< feature-card title="Penyegerakan Automatik" subtitle="Segerak perpustakaan muzik anda secara automatik dengan folder awan dan tempatan." icon="refresh" >}}
-  {{< feature-card title="Sokongan Buku Audio" subtitle="Dengar buku audio dengan penanda buku, pemasa tidur dan sambung main balik dari tempat anda berhenti." icon="book-open" >}}
+  {{< feature-card title="Mendengar Luar Talian" subtitle="Muat turun lagu, album dan keseluruhan artis untuk didengar tanpa internet, atau hidupkan cache audio untuk menyimpan trek yang baru dimainkan secara automatik." icon="download" >}}
+  {{< feature-card title="Penyegerakan Automatik" subtitle="Kekalkan perpustakaan anda segerak secara automatik antara storan awan dan folder tempatan, supaya fail yang baru ditambah muncul tanpa sebarang kerja manual." icon="refresh" >}}
+  {{< feature-card title="Perpustakaan Media" subtitle="Tambah muzik anda dan susun secara automatik mengikut album, artis, artis album, genre dan komposer menggunakan tag yang terbenam dalam fail anda." icon="library" >}}
+
+  {{< feature-card title="Senarai Main Tersuai" subtitle="Cipta, sunting dan susun semula senarai main anda sendiri, jadikannya tersedia luar talian, dan import atau eksport dalam format M3U, M3U8 dan CUE." icon="collection" >}}
+  {{< feature-card title="Pengurus Fail" subtitle="Urus muzik anda dengan pengurus fail terbina dalam, mengendalikan operasi harian seperti salin, alih, namakan semula dan padam untuk memastikan fail teratur." icon="folder" >}}
+  {{< feature-card title="Penyunting Tag ID3" subtitle="Betulkan metadata yang salah atau hilang dengan penyunting tag ID3 terbina dalam, mengemas kini tajuk, artis, album, genre dan lagi dalam beberapa ketikan sahaja." icon="pencil-alt" >}}
+
+  {{< feature-card title="Carian Lanjutan" subtitle="Cari mana-mana lagu, artis atau album dengan cepat merentasi seluruh koleksi anda dengan carian pintar dan pantas yang dibina untuk perpustakaan muzik yang sangat besar." icon="search" >}}
+  {{< feature-card title="Akses Pantas" subtitle="Kembali terus kepada perkara penting dengan Baru Dimainkan, Kegemaran dan Penanda Buku, memastikan trek pilihan anda sentiasa hanya satu ketikan sahaja." icon="clock" >}}
+  {{< feature-card title="Lirik & Ulasan" subtitle="Lihat lirik berjadual dan nota lagu dalam setiap trek semasa ia dimainkan, dan tambah widget Lirik ke Skrin Utama anda untuk akses pantas sepintas lalu." icon="annotation" >}}
+
+  {{< feature-card title="Widget" subtitle="Tambah widget Skrin Utama yang menunjukkan baris gilir main balik anda dan membolehkan anda kembali terus, menyambung dari tempat terakhir anda berhenti." icon="view-grid" >}}
+  {{< feature-card title="Sokongan Buku Audio" subtitle="Dengar buku audio dengan penanda buku, pemasa tidur, kelajuan boleh laras dan sambung main balik yang menyambung tepat dari tempat terakhir anda berhenti." icon="book-open" >}}
+  {{< feature-card title="Integrasi Last.fm" subtitle="Sambungkan akaun Last.fm anda untuk scrobble trek, ikuti statistik pendengaran anda dan dapatkan cadangan muzik yang diperibadikan dari masa ke masa." icon="chart-bar" >}}
 
 {{< /cards >}}
 

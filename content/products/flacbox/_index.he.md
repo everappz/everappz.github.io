@@ -127,29 +127,41 @@ Flacbox גם מנגן MP3, AAC, OGG, APE, MOD, MKA ומכולות מתקדמות
 
 {{< cards >}}
 
-  {{< feature-card title="תמיכה באודיו ללא אובדן" subtitle="נגן FLAC, ALAC, WAV, APE, DFF, WV, AIFF ופורמטים רבים נוספים באיכות גבוהה." icon="music-note" >}}
-  {{< feature-card title="מצב אופליין" subtitle="הורד אלבומים, רשימות השמעה ורצועות לנגינה אופליין בכל עת." icon="download" >}}
-  {{< feature-card title="ניהול קבצים" subtitle="העתק, העבר, שנה שם ומחק קבצים בקלות בתוך האפליקציה." icon="folder" >}}
+  {{< feature-card title="איכות אודיו" subtitle="תיהנה מפלט בנאמנות גבוהה עם קצבי דגימה מ-8 kHz עד 384 kHz, מצבי פלט ברירת מחדל או מעורב, ותמיכה ב-1 עד 7 ערוצי אודיו." icon="volume-up" >}}
+  {{< feature-card title="אודיו ללא אובדן וברזולוציה גבוהה" subtitle="נגן פורמטים ללא אובדן וברזולוציה גבוהה כמו FLAC, ALAC, WAV, AIFF, APE, WV ו-DSF (DSD), וגם MP3, AAC, OGG ו-OPUS, בקצבי דגימה עד 384 kHz." icon="music-note" >}}
+  {{< feature-card title="מוזיקת Tracker ו-MOD" subtitle="נגן באופן מקורי מוזיקת tracker ומודולים קלאסית, כולל הפורמטים MOD, XM, IT ו-S3M מעולם ה-chiptune וה-demoscene שרוב הנגנים אינם יכולים לפתוח." icon="table" >}}
 
-  {{< feature-card title="רשימות השמעה מותאמות אישית" subtitle="צור, ערוך, סדר מחדש רשימות השמעה, וייצא או ייבא קבצי M3U." icon="collection" >}}
-  {{< feature-card title="ספריית מדיה" subtitle="הוסף מוזיקה וארגן אותה לפי אלבום, אמן וז'אנר באמצעות תגיות." icon="library" >}}
-  {{< feature-card title="חיפוש מתקדם" subtitle="מצא במהירות שירים, אמנים או אלבומים עם כלי חיפוש חכמים." icon="search" >}}
+  {{< feature-card title="מנועי אודיו" subtitle="בחר מבין שלושה מנועי נגינה: מנוע המערכת הסטנדרטי, מנוע FFmpeg רב-תכליתי ומנוע BASS™ המקצועי שפותח אפקטים, DSP וויזואליזציות." icon="switch-horizontal" >}}
+  {{< feature-card title="אפקטי אודיו" subtitle="עצב את הצליל שלך בזמן אמת עם reverb, delay, echo, chorus, flanger, phaser, auto-wah, distortion, קומפרסור ו-crossfeed טבעי לאוזניות." icon="lightning-bolt" >}}
+  {{< feature-card title="שרשרת DSP" subtitle="בנה שרשרת עיבוד אות משלך בזמן אמת מפילטרים מקצועיים ופסי EQ, רוויה ו-bit crusher, לצד מעבדים יצירתיים כמו tremolo ורוחב סטריאו." icon="chip" >}}
 
-  {{< feature-card title="הזרמה מהענן" subtitle="הזרם מ-Google Drive, Dropbox, OneDrive, iCloud, MEGA ועוד." icon="cloud" >}}
-  {{< feature-card title="גישה ל-NAS ומחשב" subtitle="התחבר דרך SMB, DLNA או WebDAV. העבר עם iTunes או Wi-Fi." icon="desktop-computer" >}}
-  {{< feature-card title="כרטיסי USB" subtitle="נגן מוזיקה ישירות מכרטיסי SD באמצעות מתאמי USB כמו iXpand." icon="inbox" >}}
+  {{< feature-card title="אקולייזר אודיו" subtitle="כוונן את הצליל שלך עם אקולייזר רב-פסים, הגדרות מוכנות לפי ז'אנר, שליטה ידנית והגברת פרי-אמפ להעצמת רצועות שקטות ללא עיוות." icon="adjustments" >}}
+  {{< feature-card title="ויזואליזציית מוזיקה" subtitle="צפה בוויזואליזציות מונפשות במסך מלא שמגיבות למוזיקה שלך בזמן אמת, בחר מתוך ספרייה גדולה של הגדרות מוכנות או תן להן להתחלף אוטומטית." icon="sparkles" >}}
+  {{< feature-card title="בקרות נגינה" subtitle="שנה את מהירות הנגינה מבלי לשנות את גובה הצליל, שמור ושחזר את התור והמיקום שלך, והשתמש בטיימר שינה, ערבוב, חזרה ונגינה ברקע." icon="play" >}}
 
-  {{< feature-card title="בקרות נגינה" subtitle="שנה מהירות וגובה צליל של הנגינה לשליטה מושלמת באודיו." icon="fast-forward" >}}
-  {{< feature-card title="מילים והערות" subtitle="צפה במילי שירים והערות מוטבעים בזמן נגינת שירים." icon="annotation" >}}
-  {{< feature-card title="עורך תגיות ID3" subtitle="ערוך ותקן מטא-נתונים כמו כותרת, אמן או אלבום עם הכלי המובנה." icon="pencil-alt" >}}
+  {{< feature-card title="הזרמה מהענן" subtitle="הזרם ישירות מ-iCloud Drive, Google Drive, Dropbox, OneDrive, Box, MEGA ו-pCloud, וגם מעננים ממוקדי פרטיות כמו Internxt ו-Proton Drive." icon="cloud" >}}
+  {{< feature-card title="שרתי מדיה" subtitle="חבר את שרתי המדיה האישיים שלך, כולל Plex, Subsonic, Navidrome, Jellyfin ו-Emby, כדי לפתוח ולהזרים את כל ספריית המוזיקה שלך." icon="server" >}}
+  {{< feature-card title="מחשב ו-NAS" subtitle="חבר מחשב או NAS דרך SMB, WebDAV, DLNA, FTP, SFTP או NFS, עם תמיכה מקורית ב-QNAP, Synology, Nextcloud ו-WD My Cloud Home." icon="desktop-computer" >}}
 
-  {{< feature-card title="אקולייזר וחיזוק" subtitle="השתמש בהגדרות מוכנות או התאם ידנית עם הגברת פרי-אמפ לצליל עשיר." icon="adjustments" >}}
-  {{< feature-card title="Apple CarPlay" subtitle="נהג בבטחה עם ממשק CarPlay ייעודי לנגינת מוזיקה." icon="truck" >}}
-  {{< feature-card title="AirPlay ו-Chromecast" subtitle="הזרם ל-Apple TV ולמכשירי Google Chromecast באופן אלחוטי." icon="device-mobile" >}}
+  {{< feature-card title="כרטיסי USB" subtitle="נגן מוזיקה ישירות מכרטיסי SD ומכונני USB באמצעות קוראים חיצוניים כמו SanDisk iXpand, ללא צורך בייבוא או סנכרון." icon="inbox" >}}
+  {{< feature-card title="AirPlay ו-Chromecast" subtitle="שלח את המוזיקה שלך באופן אלחוטי ל-Apple TV, HomePod, רמקולים חכמים ועוד עם תמיכה מובנית ב-AirPlay, AirPlay 2 ו-Google Chromecast." icon="device-mobile" >}}
+  {{< feature-card title="Apple CarPlay" subtitle="נהג והאזן בבטחה עם מסך Apple CarPlay ייעודי ופשוט לבחירת מוזיקה ושליטה בה ממקורות ענן, מקומיים ואופליין." icon="map" >}}
 
-  {{< feature-card title="אינטגרציה עם Last.fm" subtitle="עקוב אחר סטטיסטיקות מוזיקה וקבל המלצות שירים מותאמות אישית." icon="chart-bar" >}}
-  {{< feature-card title="סנכרון אוטומטי" subtitle="סנכרן אוטומטית את ספריית המוזיקה שלך עם תיקיות ענן ומקומיות." icon="refresh" >}}
-  {{< feature-card title="תמיכה בספרי שמע" subtitle="האזן לספרי שמע עם סימניות, טיימר שינה והמשך נגינה מהמקום שבו עצרת." icon="book-open" >}}
+  {{< feature-card title="האזנה אופליין" subtitle="הורד שירים, אלבומים ואמנים שלמים כדי להאזין ללא אינטרנט, או הפעל את מטמון האודיו כדי לשמור אוטומטית רצועות שהושמעו לאחרונה." icon="download" >}}
+  {{< feature-card title="סנכרון אוטומטי" subtitle="שמור על ספרייתך מסונכרנת אוטומטית בין אחסון הענן לתיקיות המקומיות שלך, כך שקבצים חדשים שנוספו מופיעים ללא כל עבודה ידנית." icon="refresh" >}}
+  {{< feature-card title="ספריית מדיה" subtitle="הוסף את המוזיקה שלך וארגן אותה אוטומטית לפי אלבום, אמן, אמן האלבום, ז'אנר ומלחין באמצעות התגיות המוטבעות בקבצים שלך." icon="library" >}}
+
+  {{< feature-card title="רשימות השמעה מותאמות אישית" subtitle="צור, ערוך וסדר מחדש רשימות השמעה משלך, הפוך אותן לזמינות אופליין, וייבא או ייצא אותן בפורמטים M3U, M3U8 ו-CUE." icon="collection" >}}
+  {{< feature-card title="מנהל קבצים" subtitle="נהל את המוזיקה שלך עם מנהל הקבצים המובנה, שמטפל בפעולות יומיומיות כמו העתקה, העברה, שינוי שם ומחיקה כדי לשמור על סדר בקבצים." icon="folder" >}}
+  {{< feature-card title="עורך תגיות ID3" subtitle="תקן מטא-נתונים שגויים או חסרים עם עורך תגיות ה-ID3 המובנה, ועדכן את הכותרת, האמן, האלבום, הז'אנר ועוד בכמה הקשות בלבד." icon="pencil-alt" >}}
+
+  {{< feature-card title="חיפוש מתקדם" subtitle="מצא במהירות כל שיר, אמן או אלבום בכל האוסף שלך עם חיפוש חכם ומהיר שנבנה לספריות מוזיקה גדולות במיוחד." icon="search" >}}
+  {{< feature-card title="גישה מהירה" subtitle="חזור מיד למה שחשוב עם הושמע לאחרונה, מועדפים וסימניות, כך שהרצועות המועדפות עליך תמיד במרחק הקשה אחת." icon="clock" >}}
+  {{< feature-card title="מילים והערות" subtitle="צפה במילות שיר מתוזמנות ובהערות בתוך כל רצועה בזמן שהיא מתנגנת, והוסף את יישומון המילים למסך הבית לגישה מהירה במבט חטוף." icon="annotation" >}}
+
+  {{< feature-card title="יישומונים" subtitle="הוסף יישומוני מסך בית שמציגים את תור הנגינה שלך ומאפשרים לך לחזור אליו מיד, ולהמשיך בדיוק מהמקום שבו הפסקת." icon="view-grid" >}}
+  {{< feature-card title="תמיכה בספרי שמע" subtitle="האזן לספרי שמע עם סימניות, טיימר שינה, מהירות מתכווננת והמשך נגינה שממשיך בדיוק מהמקום שבו עצרת לאחרונה." icon="book-open" >}}
+  {{< feature-card title="אינטגרציה עם Last.fm" subtitle="חבר את חשבון ה-Last.fm שלך כדי לבצע scrobbling לרצועות, לעקוב אחר סטטיסטיקות ההאזנה שלך ולקבל המלצות מוזיקה מותאמות אישית לאורך זמן." icon="chart-bar" >}}
 
 {{< /cards >}}
 

@@ -127,29 +127,41 @@ Recursos Completos
 
 {{< cards >}}
 
-  {{< feature-card title="Suporte a Áudio Lossless" subtitle="Reproduza FLAC, ALAC, WAV, APE, DFF, WV, AIFF e muitos outros formatos de alta qualidade." icon="music-note" >}}
-  {{< feature-card title="Modo Offline" subtitle="Baixe álbuns, playlists e faixas para reprodução offline a qualquer momento." icon="download" >}}
-  {{< feature-card title="Gerenciamento de Arquivos" subtitle="Copie, mova, renomeie e exclua arquivos facilmente dentro do app." icon="folder" >}}
+  {{< feature-card title="Qualidade de Áudio" subtitle="Aproveite saída de alta fidelidade com taxas de amostragem de 8 kHz a 384 kHz, modos de saída padrão ou mistos e suporte para 1 a 7 canais de áudio." icon="volume-up" >}}
+  {{< feature-card title="Áudio Lossless e Hi-Res" subtitle="Reproduza formatos lossless e hi-res como FLAC, ALAC, WAV, AIFF, APE, WV e DSF (DSD), além de MP3, AAC, OGG e OPUS, com taxas de amostragem de até 384 kHz." icon="music-note" >}}
+  {{< feature-card title="Música Tracker e MOD" subtitle="Reproduza música clássica de tracker e módulo nativamente, incluindo formatos MOD, XM, IT e S3M das cenas chiptune e demoscene que a maioria dos reprodutores não consegue abrir." icon="table" >}}
 
-  {{< feature-card title="Playlists Personalizadas" subtitle="Crie, edite, reordene playlists e exporte ou importe arquivos M3U." icon="collection" >}}
-  {{< feature-card title="Biblioteca de Mídia" subtitle="Adicione música e organize por álbum, artista e gênero usando tags." icon="library" >}}
-  {{< feature-card title="Busca Avançada" subtitle="Encontre rapidamente músicas, artistas ou álbuns com ferramentas de busca inteligentes." icon="search" >}}
+  {{< feature-card title="Motores de Áudio" subtitle="Escolha entre três motores de reprodução: o motor padrão do sistema, um versátil motor FFmpeg e o profissional motor BASS™ que libera efeitos, DSP e visuais." icon="switch-horizontal" >}}
+  {{< feature-card title="Efeitos de Áudio" subtitle="Molde seu som em tempo real com reverb, delay, echo, chorus, flanger, phaser, auto-wah, distorção, um compressor e crossfeed natural para fones de ouvido." icon="lightning-bolt" >}}
+  {{< feature-card title="Cadeia DSP" subtitle="Monte sua própria cadeia de sinal em tempo real com filtros profissionais e bandas de EQ, saturação e um bit crusher, além de processadores criativos como tremolo e largura estéreo." icon="chip" >}}
 
-  {{< feature-card title="Streaming na Nuvem" subtitle="Transmita do Google Drive, Dropbox, OneDrive, iCloud, MEGA e mais." icon="cloud" >}}
-  {{< feature-card title="Acesso a NAS e Computador" subtitle="Conecte via SMB, DLNA ou WebDAV. Transfira com iTunes ou Wi-Fi." icon="desktop-computer" >}}
-  {{< feature-card title="Cartões de Memória USB" subtitle="Reproduza música diretamente de cartões SD usando adaptadores USB como iXpand." icon="inbox" >}}
+  {{< feature-card title="Equalizador de Áudio" subtitle="Ajuste finamente seu som com um equalizador multibanda, presets prontos por gênero, controle manual e ganho de pré-amplificação para reforçar faixas silenciosas sem distorção." icon="adjustments" >}}
+  {{< feature-card title="Visualizador de Música" subtitle="Assista a visuais animados em tela cheia que reagem ao vivo à sua música, escolhendo em uma ampla biblioteca de presets ou deixando-os alternar automaticamente." icon="sparkles" >}}
+  {{< feature-card title="Controles de Reprodução" subtitle="Ajuste a velocidade de reprodução sem alterar o tom, salve e restaure sua fila e posição, e use timer de sono, aleatório, repetição e reprodução em segundo plano." icon="play" >}}
 
-  {{< feature-card title="Controles de Reprodução" subtitle="Altere a velocidade e o tom da reprodução para controle perfeito do áudio." icon="fast-forward" >}}
-  {{< feature-card title="Letras e Comentários" subtitle="Visualize letras incorporadas e comentários durante a reprodução." icon="annotation" >}}
-  {{< feature-card title="Editor de Tags ID3" subtitle="Edite e corrija metadados como título, artista ou álbum com a ferramenta integrada." icon="pencil-alt" >}}
+  {{< feature-card title="Streaming na Nuvem" subtitle="Transmita diretamente do iCloud Drive, Google Drive, Dropbox, OneDrive, Box, MEGA e pCloud, além de nuvens focadas em privacidade como Internxt e Proton Drive." icon="cloud" >}}
+  {{< feature-card title="Servidores de Mídia" subtitle="Conecte seus servidores de mídia pessoais, incluindo Plex, Subsonic, Navidrome, Jellyfin e Emby, para abrir e transmitir toda a sua biblioteca musical." icon="server" >}}
+  {{< feature-card title="Computador e NAS" subtitle="Conecte um computador ou NAS via SMB, WebDAV, DLNA, FTP, SFTP ou NFS, com suporte nativo para QNAP, Synology, Nextcloud e WD My Cloud Home." icon="desktop-computer" >}}
 
-  {{< feature-card title="Equalizador e Reforço" subtitle="Use presets ou ajuste manualmente com ganho de pré-amplificador para som rico." icon="adjustments" >}}
-  {{< feature-card title="Apple CarPlay" subtitle="Dirija com segurança com uma interface CarPlay dedicada para reprodução de música." icon="truck" >}}
-  {{< feature-card title="AirPlay e Chromecast" subtitle="Transmita sem fio para dispositivos Apple TV e Google Chromecast." icon="device-mobile" >}}
+  {{< feature-card title="Cartões Flash USB" subtitle="Reproduza música diretamente de cartões SD e pen drives USB usando leitores externos como o SanDisk iXpand, sem necessidade de importar ou sincronizar." icon="inbox" >}}
+  {{< feature-card title="AirPlay e Chromecast" subtitle="Envie sua música sem fio para Apple TV, HomePod, alto-falantes inteligentes e mais com suporte integrado a AirPlay, AirPlay 2 e Google Chromecast." icon="device-mobile" >}}
+  {{< feature-card title="Apple CarPlay" subtitle="Dirija e ouça com segurança com uma tela dedicada e simples do Apple CarPlay para escolher e controlar música de fontes na nuvem, locais e offline." icon="map" >}}
 
-  {{< feature-card title="Integração Last.fm" subtitle="Acompanhe estatísticas musicais e receba recomendações personalizadas de músicas." icon="chart-bar" >}}
-  {{< feature-card title="Sincronização Automática" subtitle="Sincronize automaticamente sua biblioteca musical com pastas na nuvem e locais." icon="refresh" >}}
-  {{< feature-card title="Suporte a Audiolivros" subtitle="Ouça audiolivros com marcadores, timer de sono e retome a reprodução de onde parou." icon="book-open" >}}
+  {{< feature-card title="Audição Offline" subtitle="Baixe músicas, álbuns e artistas completos para ouvir sem internet, ou ative o cache de áudio para salvar automaticamente as faixas reproduzidas recentemente." icon="download" >}}
+  {{< feature-card title="Sincronização Automática" subtitle="Mantenha sua biblioteca sincronizada automaticamente entre seu armazenamento na nuvem e pastas locais, para que arquivos recém-adicionados apareçam sem trabalho manual." icon="refresh" >}}
+  {{< feature-card title="Biblioteca de Mídia" subtitle="Adicione sua música e organize-a automaticamente por álbum, artista, artista do álbum, gênero e compositor usando as tags incorporadas nos seus arquivos." icon="library" >}}
+
+  {{< feature-card title="Playlists Personalizadas" subtitle="Crie, edite e reordene suas próprias playlists, torne-as disponíveis offline e importe ou exporte nos formatos M3U, M3U8 e CUE." icon="collection" >}}
+  {{< feature-card title="Gerenciador de Arquivos" subtitle="Gerencie sua música com o gerenciador de arquivos integrado, realizando operações cotidianas como copiar, mover, renomear e excluir para manter os arquivos em ordem." icon="folder" >}}
+  {{< feature-card title="Editor de Tags ID3" subtitle="Corrija metadados incorretos ou ausentes com o editor de tags ID3 integrado, atualizando título, artista, álbum, gênero e mais em apenas alguns toques." icon="pencil-alt" >}}
+
+  {{< feature-card title="Busca Avançada" subtitle="Encontre rapidamente qualquer música, artista ou álbum em toda a sua coleção com uma busca inteligente e rápida, feita para bibliotecas musicais muito grandes." icon="search" >}}
+  {{< feature-card title="Acesso Rápido" subtitle="Volte direto ao que importa com Tocadas Recentemente, Favoritos e Marcadores, mantendo suas faixas preferidas sempre a um toque de distância." icon="clock" >}}
+  {{< feature-card title="Letras e Comentários" subtitle="Veja letras sincronizadas e notas das músicas dentro de cada faixa enquanto ela toca, e adicione o widget de Letras à sua Tela de Início para acesso rápido." icon="annotation" >}}
+
+  {{< feature-card title="Widgets" subtitle="Adicione widgets à Tela de Início que mostram sua fila de reprodução e permitem retomar na hora, continuando exatamente de onde você parou." icon="view-grid" >}}
+  {{< feature-card title="Suporte a Audiolivros" subtitle="Ouça audiolivros com marcadores, timer de sono, velocidade ajustável e retomada de reprodução que recomeça exatamente de onde você parou." icon="book-open" >}}
+  {{< feature-card title="Integração Last.fm" subtitle="Conecte sua conta Last.fm para fazer scrobble de faixas, acompanhar suas estatísticas de audição e receber recomendações musicais personalizadas ao longo do tempo." icon="chart-bar" >}}
 
 {{< /cards >}}
 

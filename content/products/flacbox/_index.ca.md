@@ -127,29 +127,41 @@ Funcions completes
 
 {{< cards >}}
 
-  {{< feature-card title="Àudio sense pèrdua" subtitle="Reprodueix FLAC, ALAC, WAV, APE, DFF, WV, AIFF i molts altres formats d'alta qualitat." icon="music-note" >}}
-  {{< feature-card title="Mode fora de línia" subtitle="Descarrega àlbums, llistes de reproducció i pistes per escoltar fora de línia en qualsevol moment." icon="download" >}}
-  {{< feature-card title="Gestió de fitxers" subtitle="Copia, mou, canvia el nom i elimina fitxers fàcilment dins de l'aplicació." icon="folder" >}}
+  {{< feature-card title="Qualitat d'àudio" subtitle="Gaudeix d'una sortida d'alta fidelitat amb freqüències de mostreig de 8 kHz a 384 kHz, modes de sortida predeterminat o mixt, i compatibilitat amb 1 a 7 canals d'àudio." icon="volume-up" >}}
+  {{< feature-card title="Àudio sense pèrdua i d'alta resolució" subtitle="Reprodueix formats sense pèrdua i d'alta resolució com FLAC, ALAC, WAV, AIFF, APE, WV i DSF (DSD), a més de MP3, AAC, OGG i OPUS, amb freqüències de mostreig de fins a 384 kHz." icon="music-note" >}}
+  {{< feature-card title="Música tracker i MOD" subtitle="Reprodueix de forma nativa música clàssica de tracker i mòdul, incloent els formats MOD, XM, IT i S3M de l'escena chiptune i demoscene que la majoria de reproductors no poden obrir." icon="table" >}}
 
-  {{< feature-card title="Llistes personalitzades" subtitle="Crea, edita, reordena llistes de reproducció i exporta o importa fitxers M3U." icon="collection" >}}
-  {{< feature-card title="Biblioteca multimèdia" subtitle="Afegeix música i organitza-la per àlbum, artista i gènere mitjançant etiquetes." icon="library" >}}
-  {{< feature-card title="Cerca avançada" subtitle="Troba ràpidament cançons, artistes o àlbums amb eines de cerca intel·ligents." icon="search" >}}
+  {{< feature-card title="Motors d'àudio" subtitle="Tria entre tres motors de reproducció: el motor de sistema estàndard, un versàtil motor FFmpeg i el motor professional BASS™ que desbloqueja efectes, DSP i visualitzacions." icon="switch-horizontal" >}}
+  {{< feature-card title="Efectes d'àudio" subtitle="Dona forma al teu so en temps real amb reverberació, delay, eco, chorus, flanger, phaser, auto-wah, distorsió, un compressor i un crossfeed natural per a auriculars." icon="lightning-bolt" >}}
+  {{< feature-card title="Cadena DSP" subtitle="Munta la teva pròpia cadena de senyal en temps real amb filtres professionals i bandes d'EQ, saturació i un bit crusher, a més de processadors creatius com el tremolo i l'amplada estèreo." icon="chip" >}}
 
-  {{< feature-card title="Transmissió al núvol" subtitle="Transmet des de Google Drive, Dropbox, OneDrive, iCloud, MEGA i més." icon="cloud" >}}
-  {{< feature-card title="Accés a NAS i ordinador" subtitle="Connecta mitjançant SMB, DLNA o WebDAV. Transfereix amb iTunes o Wi-Fi." icon="desktop-computer" >}}
-  {{< feature-card title="Memòries USB" subtitle="Reprodueix música directament des de targetes SD utilitzant adaptadors USB com iXpand." icon="inbox" >}}
+  {{< feature-card title="Equalitzador d'àudio" subtitle="Ajusta el teu so amb un equalitzador multibanda, preajustaments per gènere ja fets, control manual i guany de preamplificador per reforçar pistes fluixes sense saturació." icon="adjustments" >}}
+  {{< feature-card title="Visualitzador de música" subtitle="Contempla visualitzacions animades a pantalla completa que reaccionen en directe a la teva música, tries entre una gran biblioteca de preajustaments o deixes que es vagin succeint automàticament." icon="sparkles" >}}
+  {{< feature-card title="Controls de reproducció" subtitle="Ajusta la velocitat de reproducció sense alterar el to, desa i restaura la cua i la posició, i utilitza un temporitzador de son, la reproducció aleatòria, la repetició i la reproducció en segon pla." icon="play" >}}
 
-  {{< feature-card title="Controls de reproducció" subtitle="Canvia la velocitat i el to de reproducció per a un control d'àudio perfecte." icon="fast-forward" >}}
-  {{< feature-card title="Lletres i comentaris" subtitle="Visualitza les lletres i els comentaris incrustats mentre reprodueixes cançons." icon="annotation" >}}
-  {{< feature-card title="Editor d'etiquetes ID3" subtitle="Edita i corregeix metadades com el títol, l'artista o l'àlbum amb l'eina integrada." icon="pencil-alt" >}}
+  {{< feature-card title="Transmissió al núvol" subtitle="Transmet directament des d'iCloud Drive, Google Drive, Dropbox, OneDrive, Box, MEGA i pCloud, a més de núvols centrats en la privadesa com Internxt i Proton Drive." icon="cloud" >}}
+  {{< feature-card title="Servidors multimèdia" subtitle="Connecta els teus servidors multimèdia personals, incloent Plex, Subsonic, Navidrome, Jellyfin i Emby, per obrir i transmetre tota la teva biblioteca musical." icon="server" >}}
+  {{< feature-card title="Ordinador i NAS" subtitle="Connecta un ordinador o NAS mitjançant SMB, WebDAV, DLNA, FTP, SFTP o NFS, amb compatibilitat nativa amb QNAP, Synology, Nextcloud i WD My Cloud Home." icon="desktop-computer" >}}
 
-  {{< feature-card title="Equalitzador i reforç" subtitle="Utilitza preajustaments o ajusta manualment amb guany de preamplificador per a un so ric." icon="adjustments" >}}
-  {{< feature-card title="Apple CarPlay" subtitle="Condueix amb seguretat amb una interfície CarPlay dedicada per a la reproducció de música." icon="truck" >}}
-  {{< feature-card title="AirPlay i Chromecast" subtitle="Transmet a Apple TV i dispositius Google Chromecast de forma sense fils." icon="device-mobile" >}}
+  {{< feature-card title="Targetes flash USB" subtitle="Reprodueix música directament des de targetes SD i memòries flash USB utilitzant lectors externs com el SanDisk iXpand, sense necessitat d'importar ni sincronitzar." icon="inbox" >}}
+  {{< feature-card title="AirPlay i Chromecast" subtitle="Envia la teva música sense fils a Apple TV, HomePod, altaveus intel·ligents i més amb compatibilitat integrada amb AirPlay, AirPlay 2 i Google Chromecast." icon="device-mobile" >}}
+  {{< feature-card title="Apple CarPlay" subtitle="Condueix i escolta amb seguretat amb una pantalla Apple CarPlay senzilla i dedicada per triar i controlar la música des de fonts al núvol, locals i fora de línia." icon="map" >}}
 
-  {{< feature-card title="Integració Last.fm" subtitle="Fes seguiment de les estadístiques de música i rep recomanacions personalitzades." icon="chart-bar" >}}
-  {{< feature-card title="Sincronització automàtica" subtitle="Sincronitza automàticament la teva biblioteca musical amb carpetes al núvol i locals." icon="refresh" >}}
-  {{< feature-card title="Suport per a audiollibres" subtitle="Escolta audiollibres amb marcadors, temporitzador de son i reprèn la reproducció des d'on t'has aturat." icon="book-open" >}}
+  {{< feature-card title="Escolta fora de línia" subtitle="Descarrega cançons, àlbums i artistes complets per escoltar-los sense internet, o activa la memòria cau d'àudio per desar automàticament les pistes reproduïdes recentment." icon="download" >}}
+  {{< feature-card title="Sincronització automàtica" subtitle="Mantén la teva biblioteca sincronitzada automàticament entre l'emmagatzematge al núvol i les carpetes locals, de manera que els fitxers afegits nous apareixen sense cap feina manual." icon="refresh" >}}
+  {{< feature-card title="Biblioteca multimèdia" subtitle="Afegeix la teva música i organitza-la automàticament per àlbum, artista, artista de l'àlbum, gènere i compositor utilitzant les etiquetes incrustades als teus fitxers." icon="library" >}}
+
+  {{< feature-card title="Llistes personalitzades" subtitle="Crea, edita i reordena les teves pròpies llistes de reproducció, fes-les disponibles fora de línia i importa-les o exporta-les en formats M3U, M3U8 i CUE." icon="collection" >}}
+  {{< feature-card title="Gestor de fitxers" subtitle="Gestiona la teva música amb el gestor de fitxers integrat, que fa operacions quotidianes com copiar, moure, canviar el nom i eliminar per mantenir els fitxers en ordre." icon="folder" >}}
+  {{< feature-card title="Editor d'etiquetes ID3" subtitle="Corregeix metadades incorrectes o absents amb l'editor d'etiquetes ID3 integrat, actualitzant el títol, l'artista, l'àlbum, el gènere i més en només uns quants tocs." icon="pencil-alt" >}}
+
+  {{< feature-card title="Cerca avançada" subtitle="Troba ràpidament qualsevol cançó, artista o àlbum de tota la teva col·lecció amb una cerca intel·ligent i ràpida pensada per a biblioteques musicals molt grans." icon="search" >}}
+  {{< feature-card title="Accés ràpid" subtitle="Torna directament al que importa amb Reproduïdes recentment, Favorits i Marcadors, mantenint les teves pistes preferides sempre a un sol toc." icon="clock" >}}
+  {{< feature-card title="Lletres i comentaris" subtitle="Visualitza lletres sincronitzades i notes de la cançó dins de cada pista mentre es reprodueix, i afegeix el giny de lletres a la pantalla d'inici per a un accés ràpid d'un cop d'ull." icon="annotation" >}}
+
+  {{< feature-card title="Ginys" subtitle="Afegeix ginys a la pantalla d'inici que mostren la teva cua de reproducció i et permeten reprendre-la, continuant exactament des d'on ho vas deixar." icon="view-grid" >}}
+  {{< feature-card title="Compatibilitat amb audiollibres" subtitle="Escolta audiollibres amb marcadors, un temporitzador de son, velocitat ajustable i reproducció represa que continua just on ho vas deixar." icon="book-open" >}}
+  {{< feature-card title="Integració amb Last.fm" subtitle="Connecta el teu compte de Last.fm per fer scrobbling de pistes, seguir les teves estadístiques d'escolta i rebre recomanacions musicals personalitzades amb el temps." icon="chart-bar" >}}
 
 {{< /cards >}}
 

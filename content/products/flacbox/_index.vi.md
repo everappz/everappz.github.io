@@ -94,24 +94,43 @@ Tính năng đầy đủ
 <div class="hx:w-full">
 
 {{< cards >}}
-  {{< feature-card title="Hỗ trợ âm thanh Lossless" subtitle="Phát FLAC, ALAC, WAV, APE, DFF, WV, AIFF và nhiều định dạng chất lượng cao khác." icon="music-note" >}}
-  {{< feature-card title="Chế độ ngoại tuyến" subtitle="Tải xuống album, danh sách phát và bài hát để nghe ngoại tuyến bất cứ lúc nào." icon="download" >}}
-  {{< feature-card title="Quản lý tệp" subtitle="Dễ dàng sao chép, di chuyển, đổi tên và xóa tệp trong ứng dụng." icon="folder" >}}
-  {{< feature-card title="Danh sách phát tùy chỉnh" subtitle="Tạo, chỉnh sửa, sắp xếp lại danh sách phát và xuất hoặc nhập tệp M3U." icon="collection" >}}
-  {{< feature-card title="Thư viện phương tiện" subtitle="Thêm nhạc và sắp xếp theo album, nghệ sĩ và thể loại bằng tag." icon="library" >}}
-  {{< feature-card title="Tìm kiếm nâng cao" subtitle="Nhanh chóng tìm bài hát, nghệ sĩ hoặc album với công cụ tìm kiếm thông minh." icon="search" >}}
-  {{< feature-card title="Phát trực tuyến đám mây" subtitle="Phát từ Google Drive, Dropbox, OneDrive, iCloud, MEGA và nhiều hơn nữa." icon="cloud" >}}
-  {{< feature-card title="Truy cập NAS và máy tính" subtitle="Kết nối qua SMB, DLNA hoặc WebDAV. Chuyển tệp với iTunes hoặc Wi-Fi." icon="desktop-computer" >}}
-  {{< feature-card title="Thẻ USB Flash" subtitle="Phát nhạc trực tiếp từ thẻ SD bằng bộ chuyển đổi USB như iXpand." icon="inbox" >}}
-  {{< feature-card title="Điều khiển phát lại" subtitle="Thay đổi tốc độ và cao độ phát lại để kiểm soát âm thanh hoàn hảo." icon="fast-forward" >}}
-  {{< feature-card title="Lời bài hát và bình luận" subtitle="Xem lời bài hát và bình luận nhúng trong khi phát bài hát." icon="annotation" >}}
-  {{< feature-card title="Trình chỉnh sửa tag ID3" subtitle="Chỉnh sửa và sửa metadata như tiêu đề, nghệ sĩ hoặc album với công cụ tích hợp." icon="pencil-alt" >}}
-  {{< feature-card title="Bộ cân bằng và tăng cường" subtitle="Sử dụng cài đặt sẵn hoặc điều chỉnh thủ công với khuếch đại preamp cho âm thanh phong phú." icon="adjustments" >}}
-  {{< feature-card title="Apple CarPlay" subtitle="Lái xe an toàn với giao diện CarPlay chuyên dụng cho phát nhạc." icon="truck" >}}
-  {{< feature-card title="AirPlay và Chromecast" subtitle="Phát trực tuyến đến Apple TV và thiết bị Google Chromecast không dây." icon="device-mobile" >}}
-  {{< feature-card title="Tích hợp Last.fm" subtitle="Theo dõi thống kê nhạc và nhận đề xuất bài hát được cá nhân hóa." icon="chart-bar" >}}
-  {{< feature-card title="Đồng bộ tự động" subtitle="Tự động đồng bộ thư viện nhạc với thư mục đám mây và cục bộ." icon="refresh" >}}
-  {{< feature-card title="Hỗ trợ sách nói" subtitle="Nghe sách nói với đánh dấu, hẹn giờ ngủ và tiếp tục phát từ nơi bạn đã dừng." icon="book-open" >}}
+
+  {{< feature-card title="Chất lượng âm thanh" subtitle="Thưởng thức đầu ra trung thực cao với tần số lấy mẫu từ 8 kHz đến 384 kHz, chế độ đầu ra mặc định hoặc hỗn hợp, và hỗ trợ từ 1 đến 7 kênh âm thanh." icon="volume-up" >}}
+  {{< feature-card title="Âm thanh Lossless và Hi-Res" subtitle="Phát các định dạng lossless và hi-res như FLAC, ALAC, WAV, AIFF, APE, WV và DSF (DSD), cùng với MP3, AAC, OGG và OPUS, ở tần số lấy mẫu lên đến 384 kHz." icon="music-note" >}}
+  {{< feature-card title="Nhạc Tracker và MOD" subtitle="Phát nhạc tracker và module cổ điển một cách gốc, bao gồm các định dạng MOD, XM, IT và S3M từ giới chiptune và demoscene mà hầu hết trình phát không thể mở." icon="table" >}}
+
+  {{< feature-card title="Các engine âm thanh" subtitle="Chọn từ ba engine phát lại: engine hệ thống tiêu chuẩn, engine FFmpeg linh hoạt, và engine BASS™ chuyên nghiệp mở khóa hiệu ứng, DSP và hình ảnh động." icon="switch-horizontal" >}}
+  {{< feature-card title="Hiệu ứng âm thanh" subtitle="Định hình âm thanh của bạn theo thời gian thực với reverb, delay, echo, chorus, flanger, phaser, auto-wah, distortion, một bộ nén và crossfeed tai nghe tự nhiên." icon="lightning-bolt" >}}
+  {{< feature-card title="Chuỗi DSP" subtitle="Xây dựng chuỗi xử lý tín hiệu thời gian thực của riêng bạn từ các bộ lọc và dải EQ chuyên nghiệp, bão hòa và bit crusher, cùng các bộ xử lý sáng tạo như tremolo và độ rộng stereo." icon="chip" >}}
+
+  {{< feature-card title="Bộ cân bằng âm thanh" subtitle="Tinh chỉnh âm thanh với bộ cân bằng đa dải, các cài đặt sẵn theo thể loại có sẵn, điều khiển thủ công và khuếch đại preamp để tăng âm lượng các bản nhạc êm mà không gây méo tiếng." icon="adjustments" >}}
+  {{< feature-card title="Trình hiển thị nhạc" subtitle="Xem hình ảnh động toàn màn hình phản ứng trực tiếp theo nhạc của bạn, chọn từ thư viện lớn các cài đặt sẵn hoặc để chúng tự động luân chuyển." icon="sparkles" >}}
+  {{< feature-card title="Điều khiển phát lại" subtitle="Điều chỉnh tốc độ phát lại mà không thay đổi cao độ, lưu và khôi phục hàng đợi cùng vị trí của bạn, và sử dụng hẹn giờ ngủ, phát ngẫu nhiên, lặp lại và phát nền." icon="play" >}}
+
+  {{< feature-card title="Phát trực tuyến đám mây" subtitle="Phát trực tiếp từ iCloud Drive, Google Drive, Dropbox, OneDrive, Box, MEGA và pCloud, cùng các đám mây chú trọng quyền riêng tư như Internxt và Proton Drive." icon="cloud" >}}
+  {{< feature-card title="Máy chủ phương tiện" subtitle="Kết nối các máy chủ phương tiện cá nhân của bạn, bao gồm Plex, Subsonic, Navidrome, Jellyfin và Emby, để mở và phát trực tuyến toàn bộ thư viện nhạc." icon="server" >}}
+  {{< feature-card title="Máy tính và NAS" subtitle="Kết nối máy tính hoặc NAS qua SMB, WebDAV, DLNA, FTP, SFTP hoặc NFS, với hỗ trợ gốc cho QNAP, Synology, Nextcloud và WD My Cloud Home." icon="desktop-computer" >}}
+
+  {{< feature-card title="Thẻ USB Flash" subtitle="Phát nhạc trực tiếp từ thẻ SD và ổ USB flash bằng các đầu đọc ngoài như SanDisk iXpand, không cần nhập hay đồng bộ." icon="inbox" >}}
+  {{< feature-card title="AirPlay và Chromecast" subtitle="Gửi nhạc của bạn không dây đến Apple TV, HomePod, loa thông minh và nhiều hơn nữa với hỗ trợ tích hợp AirPlay, AirPlay 2 và Google Chromecast." icon="device-mobile" >}}
+  {{< feature-card title="Apple CarPlay" subtitle="Lái xe và nghe nhạc an toàn với màn hình Apple CarPlay chuyên dụng đơn giản để chọn và điều khiển nhạc từ nguồn đám mây, cục bộ và ngoại tuyến." icon="map" >}}
+
+  {{< feature-card title="Nghe ngoại tuyến" subtitle="Tải xuống bài hát, album và toàn bộ nghệ sĩ để nghe mà không cần internet, hoặc bật bộ nhớ đệm âm thanh để tự động lưu các bản nhạc phát gần đây." icon="download" >}}
+  {{< feature-card title="Đồng bộ tự động" subtitle="Giữ thư viện của bạn tự động đồng bộ giữa bộ nhớ đám mây và thư mục cục bộ, để các tệp mới thêm vào xuất hiện mà không cần thao tác thủ công." icon="refresh" >}}
+  {{< feature-card title="Thư viện phương tiện" subtitle="Thêm nhạc và tự động sắp xếp theo album, nghệ sĩ, nghệ sĩ album, thể loại và nhà soạn nhạc bằng các tag nhúng trong tệp của bạn." icon="library" >}}
+
+  {{< feature-card title="Danh sách phát tùy chỉnh" subtitle="Tạo, chỉnh sửa và sắp xếp lại danh sách phát của riêng bạn, làm cho chúng khả dụng ngoại tuyến, và nhập hoặc xuất chúng ở định dạng M3U, M3U8 và CUE." icon="collection" >}}
+  {{< feature-card title="Trình quản lý tệp" subtitle="Quản lý nhạc của bạn với trình quản lý tệp tích hợp, xử lý các thao tác hàng ngày như sao chép, di chuyển, đổi tên và xóa để giữ tệp gọn gàng." icon="folder" >}}
+  {{< feature-card title="Trình chỉnh sửa tag ID3" subtitle="Sửa metadata sai hoặc thiếu với trình chỉnh sửa tag ID3 tích hợp, cập nhật tiêu đề, nghệ sĩ, album, thể loại và nhiều hơn nữa chỉ trong vài lần chạm." icon="pencil-alt" >}}
+
+  {{< feature-card title="Tìm kiếm nâng cao" subtitle="Nhanh chóng tìm bất kỳ bài hát, nghệ sĩ hoặc album nào trong toàn bộ bộ sưu tập của bạn với công cụ tìm kiếm thông minh, nhanh được xây dựng cho các thư viện nhạc rất lớn." icon="search" >}}
+  {{< feature-card title="Truy cập nhanh" subtitle="Quay lại ngay những gì quan trọng với Phát gần đây, Yêu thích và Đánh dấu, giữ các bản nhạc ưa thích luôn chỉ cách một lần chạm." icon="clock" >}}
+  {{< feature-card title="Lời bài hát và bình luận" subtitle="Xem lời bài hát theo thời gian và ghi chú bài hát bên trong mỗi bản nhạc khi phát, và thêm widget Lời bài hát vào Màn hình chính để truy cập nhanh, thoáng qua." icon="annotation" >}}
+
+  {{< feature-card title="Widget" subtitle="Thêm widget Màn hình chính hiển thị hàng đợi phát lại của bạn và cho phép bạn quay lại ngay, tiếp tục chính xác từ nơi bạn đã dừng lại lần cuối." icon="view-grid" >}}
+  {{< feature-card title="Hỗ trợ sách nói" subtitle="Nghe sách nói với đánh dấu, hẹn giờ ngủ, tốc độ điều chỉnh được và tiếp tục phát lại đúng nơi bạn đã dừng lại lần cuối." icon="book-open" >}}
+  {{< feature-card title="Tích hợp Last.fm" subtitle="Kết nối tài khoản Last.fm của bạn để scrobble bài hát, theo dõi thống kê nghe và nhận đề xuất nhạc được cá nhân hóa theo thời gian." icon="chart-bar" >}}
+
 {{< /cards >}}
 
 </div>

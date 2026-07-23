@@ -127,29 +127,41 @@ Funciones completas
 
 {{< cards >}}
 
-  {{< feature-card title="Soporte de audio sin pérdida" subtitle="Reproduce FLAC, ALAC, WAV, APE, DFF, WV, AIFF y muchos otros formatos de alta calidad." icon="music-note" >}}
-  {{< feature-card title="Modo sin conexión" subtitle="Descarga álbumes, listas de reproducción y pistas para reproducción sin conexión en cualquier momento." icon="download" >}}
-  {{< feature-card title="Gestión de archivos" subtitle="Copia, mueve, renombra y elimina archivos fácilmente dentro de la app." icon="folder" >}}
+  {{< feature-card title="Calidad de audio" subtitle="Disfruta de salida de alta fidelidad con frecuencias de muestreo desde 8 kHz hasta 384 kHz, modos de salida predeterminado o mixto, y soporte para 1 to 7 audio channels." icon="volume-up" >}}
+  {{< feature-card title="Audio sin pérdida y Hi-Res" subtitle="Reproduce formatos sin pérdida y de alta resolución como FLAC, ALAC, WAV, AIFF, APE, WV y DSF (DSD), además de MP3, AAC, OGG y OPUS, con frecuencias de muestreo de hasta 384 kHz." icon="music-note" >}}
+  {{< feature-card title="Música tracker y MOD" subtitle="Reproduce música clásica de tracker y módulo de forma nativa, incluyendo formatos MOD, XM, IT y S3M de la escena chiptune y demoscene que la mayoría de los reproductores no pueden abrir." icon="table" >}}
 
-  {{< feature-card title="Listas de reproducción personalizadas" subtitle="Crea, edita, reordena listas de reproducción y exporta o importa archivos M3U." icon="collection" >}}
-  {{< feature-card title="Biblioteca multimedia" subtitle="Agrega música y organízala por álbum, artista y género usando etiquetas." icon="library" >}}
-  {{< feature-card title="Búsqueda avanzada" subtitle="Encuentra rápidamente canciones, artistas o álbumes con herramientas de búsqueda inteligentes." icon="search" >}}
+  {{< feature-card title="Motores de audio" subtitle="Elige entre tres motores de reproducción: el motor estándar del sistema, un versátil motor FFmpeg y el motor profesional BASS™ que desbloquea efectos, DSP y visuales." icon="switch-horizontal" >}}
+  {{< feature-card title="Efectos de audio" subtitle="Da forma a tu sonido en tiempo real con reverb, delay, echo, chorus, flanger, phaser, auto-wah, distorsión, un compresor y crossfeed natural para auriculares." icon="lightning-bolt" >}}
+  {{< feature-card title="Cadena de DSP" subtitle="Construye tu propia cadena de señal en tiempo real con filtros profesionales y bandas de ecualización, saturación y un bit crusher, además de procesadores creativos como tremolo y amplitud estéreo." icon="chip" >}}
 
-  {{< feature-card title="Transmisión en la nube" subtitle="Transmite desde Google Drive, Dropbox, OneDrive, iCloud, MEGA y más." icon="cloud" >}}
-  {{< feature-card title="Acceso a NAS y computadora" subtitle="Conéctate vía SMB, DLNA o WebDAV. Transfiere con iTunes o Wi-Fi." icon="desktop-computer" >}}
-  {{< feature-card title="Tarjetas flash USB" subtitle="Reproduce música directamente desde tarjetas SD usando adaptadores USB como iXpand." icon="inbox" >}}
+  {{< feature-card title="Ecualizador de audio" subtitle="Ajusta tu sonido con un ecualizador multibanda, preajustes de género listos para usar, control manual y ganancia de preamplificación para realzar pistas silenciosas sin distorsión." icon="adjustments" >}}
+  {{< feature-card title="Visualizador de música" subtitle="Observa visuales animados a pantalla completa que reaccionan en vivo a tu música, eligiendo entre una amplia biblioteca de preajustes o dejando que se alternen automáticamente." icon="sparkles" >}}
+  {{< feature-card title="Controles de reproducción" subtitle="Ajusta la velocidad de reproducción sin cambiar el tono, guarda y restaura tu cola y posición, y usa temporizador de apagado, aleatorio, repetición y reproducción en segundo plano." icon="play" >}}
 
-  {{< feature-card title="Controles de reproducción" subtitle="Cambia la velocidad y el tono de reproducción para un control de audio perfecto." icon="fast-forward" >}}
-  {{< feature-card title="Letras y comentarios" subtitle="Visualiza letras y comentarios incrustados mientras reproduces canciones." icon="annotation" >}}
-  {{< feature-card title="Editor de etiquetas ID3" subtitle="Edita y corrige metadatos como título, artista o álbum con la herramienta integrada." icon="pencil-alt" >}}
+  {{< feature-card title="Transmisión en la nube" subtitle="Transmite directamente desde iCloud Drive, Google Drive, Dropbox, OneDrive, Box, MEGA y pCloud, además de nubes centradas en la privacidad como Internxt y Proton Drive." icon="cloud" >}}
+  {{< feature-card title="Servidores multimedia" subtitle="Conecta tus servidores multimedia personales, incluyendo Plex, Subsonic, Navidrome, Jellyfin y Emby, para abrir y transmitir toda tu biblioteca musical." icon="server" >}}
+  {{< feature-card title="Computadora y NAS" subtitle="Conecta una computadora o NAS mediante SMB, WebDAV, DLNA, FTP, SFTP o NFS, con soporte nativo para QNAP, Synology, Nextcloud y WD My Cloud Home." icon="desktop-computer" >}}
 
-  {{< feature-card title="Ecualizador y refuerzo" subtitle="Usa preajustes o ajusta manualmente con ganancia de preamplificador para un sonido rico." icon="adjustments" >}}
-  {{< feature-card title="Apple CarPlay" subtitle="Conduce de forma segura con una interfaz CarPlay dedicada para la reproducción de música." icon="truck" >}}
-  {{< feature-card title="AirPlay y Chromecast" subtitle="Transmite a Apple TV y dispositivos Google Chromecast de forma inalámbrica." icon="device-mobile" >}}
+  {{< feature-card title="Tarjetas flash USB" subtitle="Reproduce música directamente desde tarjetas SD y unidades flash USB usando lectores externos como el SanDisk iXpand, sin necesidad de importar ni sincronizar." icon="inbox" >}}
+  {{< feature-card title="AirPlay y Chromecast" subtitle="Envía tu música de forma inalámbrica a Apple TV, HomePod, altavoces inteligentes y más con soporte integrado para AirPlay, AirPlay 2 y Google Chromecast." icon="device-mobile" >}}
+  {{< feature-card title="Apple CarPlay" subtitle="Conduce y escucha con seguridad con una pantalla de Apple CarPlay sencilla y dedicada para elegir y controlar música de fuentes en la nube, locales y sin conexión." icon="map" >}}
 
-  {{< feature-card title="Integración Last.fm" subtitle="Rastrea estadísticas musicales y obtén recomendaciones de canciones personalizadas." icon="chart-bar" >}}
-  {{< feature-card title="Sincronización automática" subtitle="Sincroniza automáticamente tu biblioteca musical con carpetas en la nube y locales." icon="refresh" >}}
-  {{< feature-card title="Soporte de audiolibros" subtitle="Escucha audiolibros con marcadores, temporizador de sueño y reanuda la reproducción desde donde te quedaste." icon="book-open" >}}
+  {{< feature-card title="Escucha sin conexión" subtitle="Descarga canciones, álbumes y artistas completos para escuchar sin internet, o activa la caché de audio para guardar automáticamente las pistas reproducidas recientemente." icon="download" >}}
+  {{< feature-card title="Sincronización automática" subtitle="Mantén tu biblioteca sincronizada automáticamente entre tu almacenamiento en la nube y tus carpetas locales, para que los archivos recién agregados aparezcan sin ningún trabajo manual." icon="refresh" >}}
+  {{< feature-card title="Biblioteca multimedia" subtitle="Agrega tu música y organízala automáticamente por álbum, artista, artista del álbum, género y compositor usando las etiquetas incrustadas en tus archivos." icon="library" >}}
+
+  {{< feature-card title="Listas de reproducción personalizadas" subtitle="Crea, edita y reordena tus propias listas de reproducción, hazlas disponibles sin conexión e impórtalas o expórtalas en formatos M3U, M3U8 y CUE." icon="collection" >}}
+  {{< feature-card title="Gestor de archivos" subtitle="Gestiona tu música con el gestor de archivos integrado, realizando operaciones cotidianas como copiar, mover, renombrar y eliminar para mantener tus archivos en orden." icon="folder" >}}
+  {{< feature-card title="Editor de etiquetas ID3" subtitle="Corrige metadatos incorrectos o faltantes con el editor de etiquetas ID3 integrado, actualizando el título, artista, álbum, género y más en unos pocos toques." icon="pencil-alt" >}}
+
+  {{< feature-card title="Búsqueda avanzada" subtitle="Encuentra rápidamente cualquier canción, artista o álbum en toda tu colección con una búsqueda inteligente y veloz creada para bibliotecas musicales muy grandes." icon="search" >}}
+  {{< feature-card title="Acceso rápido" subtitle="Vuelve directamente a lo que importa con Reproducido recientemente, Favoritos y Marcadores, manteniendo tus pistas preferidas siempre a un solo toque." icon="clock" >}}
+  {{< feature-card title="Letras y comentarios" subtitle="Consulta letras sincronizadas y notas de las canciones dentro de cada pista mientras se reproduce, y añade el widget de Letras a tu pantalla de inicio para acceso rápido de un vistazo." icon="annotation" >}}
+
+  {{< feature-card title="Widgets" subtitle="Añade widgets a la pantalla de inicio que muestran tu cola de reproducción y te permiten retomarla al instante, continuando exactamente desde donde la dejaste." icon="view-grid" >}}
+  {{< feature-card title="Soporte de audiolibros" subtitle="Escucha audiolibros con marcadores, temporizador de apagado, velocidad ajustable y reanudación de reproducción que retoma justo donde lo dejaste." icon="book-open" >}}
+  {{< feature-card title="Integración Last.fm" subtitle="Conecta tu cuenta de Last.fm para hacer scrobbling de pistas, seguir tus estadísticas de escucha y obtener recomendaciones musicales personalizadas con el tiempo." icon="chart-bar" >}}
 
 {{< /cards >}}
 
