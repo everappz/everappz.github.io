@@ -1,136 +1,169 @@
 ---
-title: "Koja je razlika između Evermusicaa i Flacboxa"
-date: 2020-02-02
-updated: 2024-12-08
-description: "Usporedite Evermusic i Flacbox — dva moćna glazbena playera za iOS i MacOS. Istražite razlike u podršci formata, kvaliteti zvuka, kontroli izlaza i naprednim značajkama kako biste pronašli ono što vam najbolje odgovara."
-keywords: ["Evermusic vs Flacbox", "usporedba audio playera", "iOS glazbene aplikacije", "FLAC player", "AVPlayer vs FFmpeg", "lossless audio", "Evermusic", "Flacbox", "značajke glazbenog playera", "postavke kvalitete zvuka"]
-tags: ["evermusic", "flacbox", "audio", "lossless", "crossfade", "razlika", "bolji", "izbor", "ffmpeg"]
-readingTime: 3
+title: "Koja je razlika između Evermusica i Flacboxa"
+date: 2026-07-23
+description: "Evermusic naspram Flacboxa u 2026.: detaljna usporedba dvaju glazbenih playera za iPhone, iPad i Mac tvrtke Everappz. Evermusic je svakodnevni player širokog raspona formata s pravom besprekidnom reprodukcijom, crossfadeom i prostornim zvukom, pokretan Appleovim AVPlayerom i Core Audiom. Flacbox je audiofilski specijalist za hi-res zvuk s profesionalnim BASS pogonom, FFmpeg dekodiranjem, DSP lancem od 14 filtara, jedanaest efekata u stvarnom vremenu i reprodukcijom tracker/MOD glazbe. Usporedite formate, pogone, efekte, izlaz i veze."
+keywords: ["Evermusic naspram Flacboxa", "Evermusic naspram Flacboxa 2026", "razlika između Evermusica i Flacboxa", "usporedba audio playera iPhone", "usporedba iOS glazbenih playera", "FLAC player iPhone", "DSD player iOS", "APE player iOS", "WavPack player", "hi-res audio player", "lossless glazbeni player", "BASS audio pogon", "FFmpeg glazbeni player iOS", "DSP lanac glazbeni player", "audio efekti u stvarnom vremenu iOS", "besprekidna reprodukcija iPhone", "crossfade glazbeni player", "prostorni zvuk glazbeni player", "tracker MOD player iOS", "EBU R128 normalizacija", "Core Audio player", "Evermusic", "Flacbox", "glazbeni player u oblaku", "koji glazbeni player odabrati"]
+tags: ["evermusic", "flacbox", "audio", "lossless", "hi-res", "bass pogon", "ffmpeg", "core audio", "dsp", "audio efekti", "besprekidna reprodukcija", "crossfade", "dsd", "ape", "wavpack", "tracker", "mod", "usporedba", "razlika", "izbor"]
+readingTime: 6
 ---
 
+Evermusic i Flacbox dva su napredna glazbena playera tvrtke Everappz za iPhone, iPad i Mac. Izgrađeni su na istim temeljima, pa se povezuju s istim uslugama u oblaku, medijskim poslužiteljima i NAS diskovima te dijele isto sučelje, biblioteku i kontrole reprodukcije. Razlika je u audio pogonu i značajkama izgrađenima na njemu. **Evermusic** je svakodnevni player širokog raspona formata, pokretan Appleovim AVPlayerom i Core Audiom te podešen za neprimjetno slušanje s pravom besprekidnom reprodukcijom, crossfadeom, prostornim zvukom i uvozom Apple Music biblioteke. **Flacbox** je hi-res glazbeni player koji povrh sistemskog playera dodaje profesionalni BASS™ audio pogon i izravno FFmpeg dekodiranje, čime otključava prilagođeni DSP lanac od 14 filtara, veći skup efekata u stvarnom vremenu, reprodukciju MOD glazbe te najširu podršku za visoku razlučivost i lossless formate, uključujući DSD.
 
-Evermusic i Flacbox dvije su napredne aplikacije glazbenog playera za iOS i MacOS. Dok su obje izgrađene za upravljanje i uživanje u glazbenoj biblioteci, svaka nudi različite značajke prilagođene specifičnim potrebama. Evermusic je poznat po široj podršci formata i prilagodbi, dok Flacbox ističe reprodukciju audio visoke razlučivosti i precizne kontrole.
-
-Evo usporedbe njihovih ključnih značajki i mogućnosti.
+**Kratak odgovor:** odaberite **Evermusic** ako želite najglađe svestrano slušanje, neprimjetne besprekidne i crossfade prijelaze te pristup svojoj Apple Music biblioteci. Odaberite **Flacbox** ako ste audiofil koji želi duboko oblikovanje zvuka (skup efekata i DSP lanac), odabirni profesionalni audio pogon te maksimalnu pokrivenost hi-res i lossless formata, uključujući DSD, APE i WavPack.
 
 {{< cards >}}
-  {{< card link="https://apps.apple.com/us/app/evermusic-cloud-music-player/id885367198" title="Preuzmi Evermusic" icon="download" tag="Besplatno" >}}
-  {{< card link="https://apps.apple.com/us/app/flacbox-hi-res-music-player/id1097564256" title="Preuzmi Flacbox" icon="download" tag="Besplatno" >}}
+  {{< card link="https://apps.apple.com/us/app/evermusic-cloud-music-player/id885367198" title="Preuzmite Evermusic" icon="download" tag="Besplatno" >}}
+  {{< card link="https://apps.apple.com/us/app/flacbox-hi-res-music-player/id1097564256" title="Preuzmite Flacbox" icon="download" tag="Besplatno" >}}
 {{< /cards >}}
 
 ## Tablica usporedbe značajki
 
 | Značajka | Evermusic | Flacbox |
-|----------|-----------|---------|
-| **Podržani audio formati** | Opsežna podrška (MP3, AAC, WAV, M4A, itd.) | Usredotočen na visoku razlučivost/lossless (FLAC, ALAC, DSD, APE, itd.) |
-| **Audio kodeci** | Sistemski kodeci (AVPlayer + CoreAudio) | Sistemski + FFMPEG za širu podršku kodeka |
-| **Uzorkovana stopa izlaza** | Prati zadanu vrijednost sustava | 44,1kHz, 48kHz, 64kHz, 88,2kHz, 96kHz |
-| **Izlazni kanali** | Stereo | Mono, Stereo, 5.1, ITU BS.775-1, SDDS i više |
-| **Ispravak visine tona** | Nije dostupno | Da (Raspon: -1000 do +1000) |
-| **Načini audio izlaza** | Zadano, Mješovito | Zadano, Mješovito |
-| **Kontrola brzine reprodukcije** | 0,25× – 3,0× | 0,25× – 3,0× |
-| **Ekvilajzer** | 10-pojasni EQ s unaprijed postavljenim vrijednostima | 10-pojasni EQ s unaprijed postavljenim vrijednostima |
-| **Prostorni audio** | Da | Ne |
-| **Algoritmi visine tona** | Vremenska domena, spektralni, varispeed | Nije podržano |
-| **Crossfade reprodukcija** | Da (1–30 sek) | Ne |
-| **Gapless reprodukcija** | Da | Ne |
+|--------|-----------|---------|
+| **Najbolje za** | Svakodnevno slušanje velikih, mješovitih biblioteka u oblaku, uz Apple Music | Audiofilsku hi-res i lossless reprodukciju s dubokom kontrolom zvuka |
+| **Pogoni za reprodukciju** | AVPlayer, Core Audio (Core Audio pokreće efekte). | AVPlayer, FFmpeg, BASS™ |
+| **Podržani formati** | MP3, AAC, M4A, M4B, ALAC, FLAC, Ogg Vorbis, WAV, AIFF, AC-3, CAF, MP4, AMR i drugi | Sve što reproducira Evermusic, uz DSD (DSF/DFF), APE, WavPack (WV), TTA, OPUS, WMA, Musepack (MPC) i sve FFmpeg-dekodirajuće formate (50+) |
+| **Tracker / MOD glazba** | Ne | Da: MOD, XM, IT, S3M, MTM, UMX, MO3 |
+| **Prava besprekidna reprodukcija** | Da | Ne |
+| **Crossfade reprodukcija** | Da, podesivo od 1 do 30 sekundi | Ne |
+| **Prostorni zvuk** | Da | Ne |
+| **Visina tona i tempo** | Time-pitch algoritmi (vremenska domena, spektralni, varispeed) | Neovisna visina tona i tempo putem BASS pogona |
+| **Audio efekti u stvarnom vremenu** | Reverb, Delay, Distortion, Compressor, Crossfeed, Normalizacija glasnoće | Reverb (Freeverb), Multi-tap echo, Chorus, Flanger, Phaser, Auto-Wah, Distortion, Compressor, Stereo rotation, Crossfeed, Normalizacija glasnoće |
+| **DSP lanac** | Nema | 14 filtara koje je moguće preslagivati: Gain, Low-pass, High-pass, Band-pass, Notch, Peaking, Low-shelf, High-shelf, Soft-clip saturacija, Bit crusher, Tremolo, Delay, Ring modulator, Stereo width |
+| **Glazbeni vizualizator** | Da | Da |
+| **Normalizacija glasnoće (EBU R128)** | Da | Da |
+| **10-pojasni ekvalizator + uvoz/izvoz presetova** | Da | Da |
+| **Izlazna frekvencija uzorkovanja, kanali, mješoviti način** | Da | Da, uz postavku željenog trajanja IO buffera |
+| **Kontrola brzine reprodukcije** | Da | Da |
+| **Pohrana u oblaku** | iCloud Drive, Google Drive, Dropbox, OneDrive, Box, MEGA, pCloud, Internxt, Proton Drive, Yandex Disk, MediaFire, Cloud Mail.ru, HiDrive, OpenDrive, Put.io, MyDrive, InfiniCLOUD, WD My Cloud Home, Baidu Cloud i drugi | iCloud Drive, Google Drive, Dropbox, OneDrive, Box, MEGA, pCloud, Internxt, Proton Drive, Yandex Disk, MediaFire, Cloud Mail.ru, HiDrive, OpenDrive, Put.io, MyDrive, InfiniCLOUD, WD My Cloud Home, Baidu Cloud i drugi |
+| **Medijski poslužitelji** | Plex, Subsonic, Navidrome, Jellyfin, Emby | Plex, Subsonic, Navidrome, Jellyfin, Emby |
+| **Računalo i NAS** | SMB, WebDAV, DLNA, FTP, SFTP, NFS; izvorno QNAP, Synology Drive, Nextcloud, WD My Cloud Home | SMB, WebDAV, DLNA, FTP, SFTP, NFS; izvorno QNAP, Synology Drive, Nextcloud, WD My Cloud Home |
+| **USB, lokalno i Wi-Fi** | SD kartice i USB pogoni (SanDisk iXpand), iTunes File Sharing, Wi-Fi prijenos | SD kartice i USB pogoni (SanDisk iXpand), iTunes File Sharing, Wi-Fi prijenos |
+| **Uvoz Apple Music / iTunes biblioteke** | Da | Ne |
+| **CarPlay, AirPlay, Chromecast, widgeti, tekstovi pjesama, Last.fm, uređivač oznaka** | Da | Da |
+
+## Pogoni za reprodukciju
+
+**Evermusic** reproducira vašu glazbu u cijelosti putem Appleovog izvornog audio stoga: AVPlayer za reprodukciju i Core Audio za obradu u stvarnom vremenu. Core Audio pokreće njegove efekte, ekvalizator, besprekidne prijelaze i prostorni zvuk. Ne koristi dekodere trećih strana.
+
+**Flacbox** zadržava Appleov sistemski player i dodaje još dva pogona za audiofile: FFmpeg za izravno dekodiranje širokog raspona formata te odabirni profesionalni BASS™ audio pogon. Kada se prebacite na BASS pogon, otključavate potpuni audiofilski alat, uključujući skup efekata u stvarnom vremenu, DSP lanac od 14 filtara, kvalitetno preuzorkovanje, neovisnu visinu tona i tempo te reprodukciju tracker/MOD glazbe. Mogućnost odabira između tri pogona dostupna je isključivo u Flacboxu.
 
 ## Podržani formati datoteka
 
-**Evermusic:**
-Evermusic podržava širok raspon audio formata, uključujući mp3, aac, m4a, wav i mnoge druge. Pruža opsežnu kompatibilnost sa sveobuhvatnim popisom formata, što ga čini svestranim za korisnike s raznolikim glazbenim zbirkama. Cijeli popis podržanih formata: mpeg, aifc, 3gp, avi, aif, latm, 3gpp, m4a, loas, cdda, aac, m4p, m4b, ac3, pls, mp4v, m3u, m4r, aiff, xhe, mp1, snd, mp2, wav, qt, wave, m3u8, m4v, mp3, 3g2, caf, mp4, flac, au, w64, ec3, adts, amr, vtt, mpa, aa.
+**Evermusic** reproducira formate koje dekodiraju Appleov AVPlayer i Core Audio, što pokriva veliku većinu svakodnevnih biblioteka: MP3, AAC, M4A, M4B, ALAC, FLAC, Ogg Vorbis, WAV, AIFF, AC-3, CAF, MP4, AMR i druge. Podrška za FLAC i Ogg Vorbis dodana je u nedavnim ažuriranjima.
 
-**Flacbox:**
-Flacbox se primarno usredotočuje na podršku datoteka FLAC (Free Lossless Audio Codec) ali uključuje i druge lossless formate poput dsd, ape i alac. Namijenjen je audiofillima koji preferiraju visokokvalitetne audio formate. Cijeli popis podržanih formata: 3g2, 3gp, 3gp2, 3gpp, 8svx, aa, aac, aax, ac3, act, adt, adts, aif, aifc, aiff, alac, amr, amv, ape, asf, au, avi, awb, caf, cavs, cdda, cue, dct, dff, drc, dsf, dss, dvf, dvr-ms, ec3, f4a, f4b, f4p, f4v, flac, flv, gif, gifv, gsm, gxf, h261, h263, h264, ifv, iklax, ivf, ivs, l16, latm, loas, m2t, m2ts, m2v, m3u, m3u8, m4a, m4b, m4p, m4r, m4v, mka, mkv, mmf, mng, mod, mogg, mov, mp1, mp2, mp3, mp4, mp4v, mpa, mpc, mpe, mpeg, mpg, mpv, msv, mts, mxf, nsf, nsv, nut, oga, ogg, ogv, opus, pcm, pls, qt, ra, raw, rm, rmvb, roq, rv, sln, snd, svi, tod, tta, vob, voc, vox, vtt, w64, wav, wave, webm, wma, wmv, wv, xhe, xmv, y4m, yuv.
+**Flacbox** dekodira sve što može i Evermusic, a zatim ide znatno dalje putem FFmpega i BASS™ pogona. Povrh uobičajenih formata izravno cilja DSD (DSF i DFF), APE, WavPack (WV), TTA, OPUS, WMA i Musepack (MPC), uz FLAC i ALAC, za ukupno više od 50 podržanih ekstenzija. Pravi je izbor za zbirke visoke razlučivosti i lossless zbirke te je jedini od dvaju playera koji reproducira tracker i module glazbu (MOD, XM, IT, S3M, MTM, UMX, MO3).
 
-## Audio kodeci
+## Prava besprekidna reprodukcija
 
-**Evermusic:**
-Koristi ugrađeni audio kodek sustava za reprodukciju: AVPlayer i CoreAudio.
+**Evermusic** nudi pravu besprekidnu reprodukciju: bez pauze, klika ili trzaja između pjesama. Pogon istovremeno drži dvije pjesme aktivnima, unaprijed spremajući i dekodirajući sljedeću pjesmu dok se trenutačna reproducira, a zatim prelazi između audio uzoraka na neprekinutom kružnom bufferu. To je idealno za koncertne albume, DJ miksove i koncept albume.
 
-**Flacbox:**
-Koristi i ugrađeni audio kodek sustava i FFMPEG, multimedijalni okvir poznat po opsežnoj podršci kodeka. To poboljšava njegovu sposobnost učinkovitog rukovanja različitim audio kodecima.
-
-## Uzorkovana stopa audio izlaza
-
-**Evermusic:**
-Prati zadanu uzorkovanu stopu sustava za audio izlaz.
-
-**Flacbox:**
-Nudi raspon uzorkovanih stopa, uključujući 44,1 kHz, 48 kHz, 64 kHz, 88,2 kHz i 96 kHz, što korisnicima omogućuje odabir željene izlazne kvalitete za prilagođeno iskustvo slušanja.
-
-## Broj audio izlaznih kanala
-
-**Evermusic:**
-Podržava stereo audio izlaz, pružajući standardno iskustvo slušanja pogodno za većinu korisnika.
-
-**Flacbox:**
-Nudi višestruke konfiguracije kanala, uključujući Mono, Stereo, Centar/Lijevo/Desno, Centar/Lijevo/Desno/Surround, ITU BS.775-1, 5.1 Surround i SDDS. Ovo je namijenjeno korisnicima s različitim audio postavkama, uključujući surround zvučne sustave.
-
-## Ispravak visine tona
-
-**Evermusic:**
-Ne uključuje funkcionalnost ispravka visine tona.
-
-**Flacbox:**
-Sadrži ispravak visine tona s rasponom od -1000 do +1000, što korisnicima omogućuje prilagodbu visine tona prema njihovim preferencijama i potrebama.
-
-## Načini audio izlaza
-
-**Evermusic:**
-Pruža zadane i mješovite načine audio izlaza za fleksibilne opcije reprodukcije.
-
-**Flacbox:**
-Nudi zadane i mješovite načine audio izlaza, povećavajući korisničku kontrolu nad konfiguracijama audio izlaza.
-
-## Brzina reprodukcije
-
-**Evermusic:**
-Podržava prilagodbe brzine reprodukcije u rasponu od 0,25× do 3,0×, što korisnicima omogućuje kontrolu tempa reprodukcije glazbe.
-
-**Flacbox:**
-Također dopušta prilagodbe brzine reprodukcije od 0,25× do 3,0×, pružajući slične opcije kontrole brzine za korisnike.
-
-## Audio ekvilajzer
-
-**Evermusic:**
-Uključuje 10-pojasni audio ekvilajzer s unaprijed postavljenim vrijednostima, omogućujući korisnicima prilagodbu audio izlaza za različite glazbene žanrove i preferencije.
-
-**Flacbox:**
-Opremljen je 10-pojasnim audio ekvilajzerom s unaprijed postavljenim vrijednostima, nudeći preciznu kontrolu nad audio postavkama za audiofille koji traže što bolju moguću kvalitetu zvuka.
-
-## Postavke prostornog zvuka
-
-**Evermusic:**
-Podržava postavke prostornog zvuka, poboljšavajući iskustvo slušanja u poniranju, posebno kada se koristi kompatibilna audio oprema.
-
-**Flacbox:**
-Ne nudi postavke prostornog zvuka, ali se ističe u pružanju visokokvalitetnog lossless zvuka.
-
-## Algoritam visine tona
-
-**Evermusic:**
-Koristi različite algoritme visine tona, uključujući vremensku domenu, spektralnu i varispeed, za napredno audio procesiranje.
-
-**Flacbox:**
-Ne podržava specifične algoritme visine tona, ali nudi ispravak visine tona.
+**Flacbox** ne nudi besprekidnu reprodukciju. Ako su vam neprimjetni prijelazi iz pjesme u pjesmu najvažniji, Evermusic je bolji izbor.
 
 ## Crossfade reprodukcija
 
-**Evermusic:**
-Podržava crossfade reprodukciju s podesivim trajanjima od 1 do 30 sekundi, što omogućuje besprijekorne prijelaze između pjesama.
+**Evermusic** podržava crossfade s podesivim trajanjem od 1 do 30 sekundi, tako da se jedna pjesma glatko stapa u sljedeću.
 
-**Flacbox:**
-Ne podržava crossfade reprodukciju.
+**Flacbox** ne podržava crossfade.
 
-## Gapless reprodukcija
+## Audio efekti u stvarnom vremenu
 
-**Evermusic:**
-Pruža gapless reprodukciju kako bi osigurao da se pjesme reproduciraju bez ikakvih prekida ili tišine između.
+Obje aplikacije obrađuju efekte u stvarnom vremenu na svemu što reproducirate, uključujući tokove iz oblaka i internetski radio, bez ponovnog kodiranja.
 
-**Flacbox:**
-Ne pruža funkcionalnost gapless reprodukcije.
+**Evermusic** dolazi sa 6 efekata izgrađenih na Core Audiju: Reverb, Delay, Distortion, Compressor, Crossfeed i Normalizacija glasnoće.
 
-## Što odabrati?
+**Flacbox** dolazi s 11 efekata, od kojih većina radi na njegovom BASS™ pogonu s dubokom kontrolom parametara po efektu: Reverb (Freeverb), Multi-tap echo, Chorus, Flanger, Phaser, Auto-Wah, Distortion, Compressor, Stereo rotation, Crossfeed i Normalizacija glasnoće. Ako volite oblikovati svoj zvuk, Flacbox ima veći i sposobniji skup efekata.
 
-Zaključno, vaš izbor između Evermusicaa i Flacboxa ovisi o specifičnom sastavu glazbene biblioteke i preferencijama. Ako imate raznovrsnu glazbenu kolekciju koja uključuje popularne audio formate i zahtijeva crossfade i prostorne audio značajke, Evermusic je prikladan izbor. S druge strane, ako preferirate lossless audio formate, napredne postavke audio izlaza i ispravak visine tona, Flacbox je preporučena opcija za audiofille i korisnike koji traže preciznu kontrolu nad reprodukcijom glazbe.
+## DSP lanac
+
+**Flacbox** uključuje DSP lanac po vlastitoj mjeri od 14 filtara u stvarnom vremenu koje možete dodavati, uklanjati i preslagivati: Gain, Low-pass, High-pass, Band-pass, Notch, Peaking, Low-shelf, High-shelf, Soft-clip saturacija, Bit crusher, Tremolo, Delay, Ring modulator i Stereo width. Upotrijebite ga za korekciju prostorije, ublažavanje oštre snimke ili oblikovanje potpuno prilagođenog tona.
+
+**Evermusic** ne uključuje DSP lanac. Ovo je značajka namijenjena audiofilima, dostupna isključivo u Flacboxu.
+
+## Glazbeni vizualizator
+
+Obje aplikacije uključuju glazbeni vizualizator u stvarnom vremenu preko cijelog zaslona koji uživo reagira na vaš zvuk, s velikom bibliotekom presetova koje možete odabrati ili pustiti da se izmjenjuju. Radi na iPhoneu, iPadu i Macu.
+
+## Normalizacija glasnoće
+
+I **Evermusic** i **Flacbox** uključuju normalizaciju glasnoće temeljenu na glasnoći prema standardu EBU R128 (ITU-R BS.1770). Za razliku od ReplayGaina, ne treba joj oznake i ne mijenja vaše datoteke, pa održava pjesme na dosljednoj glasnoći čak i kod tokova iz oblaka i internetskog radija.
+
+## Visina tona, tempo i prostorni zvuk
+
+**Evermusic** nudi prostorni zvuk i napredne time-pitch algoritme (vremenska domena, spektralni i varispeed) za kvalitetnu obradu tempa i visine tona na Core Audiju.
+
+**Flacbox** nudi neovisnu kontrolu visine tona i tempa putem svojeg BASS™ pogona, omogućujući vam da promijenite brzinu bez promjene tona ili ton bez promjene brzine. Ne uključuje prostorni zvuk. Obje aplikacije omogućuju podešavanje brzine reprodukcije.
+
+## Kontrola izlaza
+
+Obje aplikacije omogućuju odabir prilagođene izlazne frekvencije uzorkovanja, konfiguraciju izlaznih kanala te odabir zadanog ili mješovitog izlaznog načina. Flacbox dodaje postavku željenog trajanja IO buffera za finiju kontrolu niske latencije, u skladu sa svojim audiofilskim usmjerenjem. Obje uključuju 10-pojasni grafički ekvalizator s presetovima, pojačanjem predpojačala te uvozom i izvozom presetova.
+
+## Veze (jednake u obje aplikacije)
+
+Budući da Evermusic i Flacbox dijele isti sloj za povezivanje, ove veze rade identično u obje:
+
+- **Pohrana u oblaku:** iCloud Drive, Google Drive, Dropbox, OneDrive, Box, MEGA, pCloud, Internxt, Proton Drive, Yandex Disk, MediaFire, Cloud Mail.ru, HiDrive, OpenDrive, Put.io, MyDrive, InfiniCLOUD, WD My Cloud Home, Baidu Cloud i drugi.
+- **Medijski poslužitelji:** Plex, Subsonic, Navidrome, Jellyfin i Emby.
+- **Računalo i NAS:** SMB, WebDAV, DLNA, FTP, SFTP i NFS, uz izvornu podršku za QNAP, Synology Drive, Nextcloud i WD My Cloud Home.
+- **USB, lokalno i Wi-Fi:** SD kartice i USB flash pogoni putem čitača poput SanDisk iXpand, iTunes File Sharing te bežični Wi-Fi prijenos.
+- **Prijenos i automobili:** Apple CarPlay, AirPlay i Google Chromecast.
+- **Biblioteka i alati:** widgeti na početnom zaslonu, ugrađeni i vremenski usklađeni tekstovi pjesama, ugrađeni ID3 uređivač oznaka, Last.fm scrobbling, izvanmrežna preuzimanja i potpuni upravitelj datoteka.
+
+Jedina razlika u vezama: Evermusic može uvesti i reproducirati vašu Apple Music / iTunes biblioteku, dok se Flacbox usredotočuje isključivo na vaše vlastite datoteke iz oblaka, mreže i lokalnih izvora.
+
+## Što biste trebali odabrati?
+
+**Odaberite Evermusic ako:**
+
+- Želite najglađe svakodnevno slušanje s pravom besprekidnom reprodukcijom i crossfadeom.
+- Koristite prostorni zvuk.
+- Želite uz datoteke iz oblaka uključiti i svoju Apple Music / iTunes biblioteku.
+- Imate veliku, mješovitu zbirku i želite brz player bez muke.
+
+**Odaberite Flacbox ako:**
+
+- Ste audiofil s hi-res i lossless bibliotekom (FLAC, DSD, APE, ALAC, WavPack).
+- Želite odabirni profesionalni BASS™ pogon ili FFmpeg pogon.
+- Želite skup od 11 efekata i DSP lanac od 14 filtara za duboko oblikovanje zvuka.
+- Želite reproducirati tracker/MOD glazbu ili trebate finiju kontrolu izlaza s niskom latencijom.
+
+Mnogi slušatelji koriste obje: Evermusic za svakodnevnu, neprimjetnu reprodukciju i pristup Apple Music biblioteci te Flacbox za kritičko slušanje visoke razlučivosti s potpunom kontrolom zvuka.
+Obje su besplatne za preuzimanje uz opcionalne Premium nadogradnje i obje se povezuju s računima u oblaku koje već posjedujete.
+
+## Često postavljana pitanja
+
+{{% details title="Koja je glavna razlika između Evermusica i Flacboxa?" closed="true" %}}
+Dijele istu platformu i veze, no audio strana se razlikuje. Evermusic radi na Appleovom AVPlayeru i Core Audiju te je svakodnevni player širokog raspona formata, s pravom besprekidnom reprodukcijom, crossfadeom, prostornim zvukom i uvozom Apple Music biblioteke. Flacbox dodaje profesionalni BASS™ audio pogon i FFmpeg dekodiranje, koji donose DSP lanac od 14 filtara, više efekata u stvarnom vremenu, reprodukciju tracker/MOD glazbe te najširu podršku za hi-res i lossless formate, uključujući DSD, APE i WavPack.
+{{% /details %}}
+
+{{% details title="Je li bolji Evermusic ili Flacbox?" closed="true" %}}
+Nijedan nije strogo bolji; podešeni su za različite slušatelje. Evermusic je bolji za glatko, svakodnevno slušanje i za ljude koji koriste i svoju Apple Music biblioteku, zahvaljujući besprekidnoj reprodukciji, crossfadeu i prostornom zvuku. Flacbox je bolji za audiofile koji žele duboko oblikovanje zvuka, odabirni profesionalni audio pogon te maksimalnu pokrivenost hi-res i lossless formata.
+{{% /details %}}
+
+{{% details title="Koristi li Evermusic FFmpeg?" closed="true" %}}
+Ne. Evermusic reproducira u cijelosti putem Appleovog izvornog audio stoga, AVPlayera i Core Audija, pri čemu Core Audio obavlja njegove efekte i obradu. FFmpeg dekodiranje značajka je Flacboxa, uz Flacboxov odabirni BASS pogon.
+{{% /details %}}
+
+{{% details title="Ima li Flacbox besprekidnu ili crossfade reprodukciju?" closed="true" %}}
+Ne. Prava besprekidna reprodukcija i crossfade (1 do 30 sekundi) značajke su Evermusica. Flacbox se umjesto toga usredotočuje na reprodukciju visoke razlučivosti, profesionalni BASS pogon, skup efekata i DSP lanac.
+{{% /details %}}
+
+{{% details title="Koja je aplikacija bolja za FLAC, DSD i APE?" closed="true" %}}
+Flacbox. Obje aplikacije reproduciraju FLAC, no Flacbox je specijalist za visoku razlučivost i lossless, s izvornom podrškom za FLAC, ALAC, DSD (DSF/DFF), APE, WavPack (WV), TTA, OPUS i druge putem FFmpega i svojeg BASS™ pogona. Također nudi finiju kontrolu izlaza za kritičko slušanje.
+{{% /details %}}
+
+{{% details title="Koja aplikacija ima više audio efekata i DSP lanac?" closed="true" %}}
+Flacbox. Evermusic ima 6 efekata (Reverb, Delay, Distortion, Compressor, Crossfeed i Normalizacija glasnoće). Flacbox ima 11 efekata (dodaje Chorus, Flanger, Phaser, Auto-Wah, Stereo rotation i Multi-tap echo) te DSP lanac po vlastitoj mjeri od 14 filtara. DSP lanac ekskluzivan je za Flacbox.
+{{% /details %}}
+
+{{% details title="Podržavaju li obje aplikacije iste usluge u oblaku, medijske poslužitelje i CarPlay?" closed="true" %}}
+Da. Evermusic i Flacbox povezuju se s istom pohranom u oblaku (iCloud Drive, Google Drive, Dropbox, OneDrive, MEGA, pCloud, Internxt, Proton Drive i drugi), istim medijskim poslužiteljima (Plex, Subsonic, Navidrome, Jellyfin, Emby) te istim protokolima za računalo i NAS (SMB, WebDAV, FTP, SFTP, NFS, DLNA), uz izvornu podršku za QNAP, Synology, Nextcloud i WD My Cloud Home. Obje također podržavaju Apple CarPlay, AirPlay i Google Chromecast.
+{{% /details %}}
+
+{{% details title="Može li Evermusic reproducirati moju Apple Music ili iTunes biblioteku?" closed="true" %}}
+Da. Evermusic može uvesti i reproducirati glazbu iz vaše Apple Music / iTunes biblioteke uz izvore iz oblaka i mreže. Flacbox je namijenjen vašim vlastitim datotekama iz oblaka, NAS-a i lokalne pohrane te ne uvozi Apple Music biblioteku.
+{{% /details %}}
+
+{{% details title="Mogu li koristiti Evermusic i Flacbox zajedno?" closed="true" %}}
+Da, i mnogi to čine. Uobičajena postavka je Evermusic za svakodnevnu, neprimjetnu reprodukciju i pristup Apple Music biblioteci te Flacbox za kritičko slušanje visoke razlučivosti s BASS pogonom, efektima i DSP lancem. Obje čitaju iz istih izvora u oblaku i na NAS-u, pa je vaša biblioteka dostupna u obje aplikacije. Obje su besplatne za preuzimanje uz opcionalne Premium nadogradnje unutar aplikacije.
+{{% /details %}}

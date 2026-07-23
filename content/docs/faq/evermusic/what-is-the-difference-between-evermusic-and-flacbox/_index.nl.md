@@ -1,136 +1,169 @@
 ---
 title: "Wat is het verschil tussen Evermusic en Flacbox"
-date: 2020-02-02
-updated: 2024-12-08
-description: "Vergelijk Evermusic en Flacbox — twee krachtige iOS- en MacOS-muziekspelers. Ontdek de verschillen in formaatondersteuning, audiokwaliteit, uitvoerbeheer en geavanceerde functies om de beste keuze voor uw behoeften te vinden."
-keywords: ["Evermusic vs Flacbox", "audiospeler vergelijking", "iOS muziek apps", "FLAC-speler", "AVPlayer vs FFmpeg", "lossless audio", "Evermusic", "Flacbox", "muziekspeler functies", "audiokwaliteitsinstellingen"]
-tags: ["evermusic", "flacbox", "audio", "lossless", "crossfade", "verschil", "beter", "keuze", "ffmpeg"]
-readingTime: 3
+date: 2026-07-23
+description: "Evermusic vs Flacbox in 2026: een gedetailleerde vergelijking van twee muziekspelers voor iPhone, iPad en Mac van Everappz. Evermusic is de veelzijdige, alledaagse speler met echte gapless-weergave, crossfade en ruimtelijke audio, aangedreven door Apple AVPlayer en Core Audio. Flacbox is de audiofiele hi-res specialist met een professionele BASS-engine, FFmpeg-decodering, een DSP-keten met 14 filters, elf realtime-effecten en tracker/MOD-weergave. Vergelijk formaten, engines, effecten, uitvoer en verbindingen."
+keywords: ["Evermusic vs Flacbox", "Evermusic vs Flacbox 2026", "verschil tussen Evermusic en Flacbox", "vergelijking audiospeler iPhone", "vergelijking iOS-muziekspeler", "FLAC-speler iPhone", "DSD-speler iOS", "APE-speler iOS", "WavPack-speler", "hi-res audiospeler", "lossless muziekspeler", "BASS-audio-engine", "FFmpeg-muziekspeler iOS", "DSP-keten muziekspeler", "realtime audio-effecten iOS", "gapless-weergave iPhone", "crossfade-muziekspeler", "ruimtelijke audio muziekspeler", "tracker MOD-speler iOS", "EBU R128-normalisatie", "Core Audio-speler", "Evermusic", "Flacbox", "cloudmuziekspeler", "welke muziekspeler moet ik kiezen"]
+tags: ["evermusic", "flacbox", "audio", "lossless", "hi-res", "bass engine", "ffmpeg", "core audio", "dsp", "audio-effecten", "gapless", "crossfade", "dsd", "ape", "wavpack", "tracker", "mod", "vergelijking", "verschil", "keuze"]
+readingTime: 6
 ---
 
+Evermusic en Flacbox zijn twee geavanceerde muziekspelers van Everappz voor iPhone, iPad en Mac. Ze zijn gebouwd op hetzelfde fundament, dus ze maken verbinding met dezelfde cloudservices, mediaservers en NAS-schijven, en ze delen dezelfde interface, bibliotheek en afspeelbediening. Het verschil zit in de audio-engine en de functies die daarop zijn gebouwd. **Evermusic** is de veelzijdige, alledaagse speler, aangedreven door Apple's AVPlayer en Core Audio en afgestemd op naadloos luisteren met echte gapless-weergave, crossfade, ruimtelijke audio en import van je Apple Music-bibliotheek. **Flacbox** is de hi-res muziekspeler, die een professionele BASS™-audio-engine en directe FFmpeg-decodering toevoegt bovenop de systeemspeler, wat een aangepaste DSP-keten met 14 filters, een grotere realtime-effectenrack, MOD-weergave en de breedste ondersteuning voor high-resolution- en lossless-formaten ontsluit, inclusief DSD.
 
-Evermusic en Flacbox zijn twee geavanceerde muziekspeler-apps voor iOS en MacOS. Hoewel beide zijn gebouwd om u te helpen uw muziekbibliotheek te beheren en van te genieten, biedt elk andere functies die zijn afgestemd op specifieke behoeften. Evermusic staat bekend om zijn brede formaatondersteuning en aanpassingsmogelijkheden, terwijl Flacbox uitblinkt in het afspelen van hoge-resolutie audio en nauwkeurige besturing.
-
-Hier is een zij-aan-zij vergelijking van hun kernfuncties en mogelijkheden.
+**Kort antwoord:** kies **Evermusic** als je de soepelste allround luisterervaring wilt, naadloze gapless- en crossfade-overgangen, en toegang tot je Apple Music-bibliotheek. Kies **Flacbox** als je een audiofiel bent die diepgaande geluidsvormgeving wil (een effectenrack en een DSP-keten), een selecteerbare professionele audio-engine, en maximale dekking van hi-res- en lossless-formaten, inclusief DSD, APE en WavPack.
 
 {{< cards >}}
-  {{< card link="https://apps.apple.com/us/app/evermusic-cloud-music-player/id885367198" title="Evermusic downloaden" icon="download" tag="Gratis" >}}
-  {{< card link="https://apps.apple.com/us/app/flacbox-hi-res-music-player/id1097564256" title="Flacbox downloaden" icon="download" tag="Gratis" >}}
+  {{< card link="https://apps.apple.com/us/app/evermusic-cloud-music-player/id885367198" title="Download Evermusic" icon="download" tag="Gratis" >}}
+  {{< card link="https://apps.apple.com/us/app/flacbox-hi-res-music-player/id1097564256" title="Download Flacbox" icon="download" tag="Gratis" >}}
 {{< /cards >}}
 
 ## Functievergelijkingstabel
 
 | Functie | Evermusic | Flacbox |
 |--------|-----------|---------|
-| **Ondersteunde audioformaten** | Uitgebreide ondersteuning (MP3, AAC, WAV, M4A, etc.) | Gericht op hi-res/lossless (FLAC, ALAC, DSD, APE, etc.) |
-| **Audiocodecs** | Systeemcodecs (AVPlayer + CoreAudio) | Systeem + FFMPEG voor bredere codecondersteuning |
-| **Uitvoer-samplesnelheid** | Volgt systeemstandaard | 44,1 kHz, 48 kHz, 64 kHz, 88,2 kHz, 96 kHz |
-| **Uitvoerkanalen** | Stereo | Mono, Stereo, 5.1, ITU BS.775-1, SDDS en meer |
-| **Toonhoogtecorrectie** | Niet beschikbaar | Ja (Bereik: -1000 tot +1000) |
-| **Audio-uitvoermodi** | Standaard, Gemengd | Standaard, Gemengd |
-| **Afspeelsnelheidsregeling** | 0,25× – 3,0× | 0,25× – 3,0× |
-| **Equalizer** | 10-band EQ met voorinstellingen | 10-band EQ met voorinstellingen |
+| **Het best voor** | Dagelijks luisteren in grote, gemengde cloudbibliotheken, plus Apple Music | Audiofiele hi-res- en lossless-weergave met diepgaande geluidsbediening |
+| **Afspeel-engines** | AVPlayer, Core Audio (Core Audio drijft de effecten aan). | AVPlayer, FFmpeg, BASS™ |
+| **Ondersteunde formaten** | MP3, AAC, M4A, M4B, ALAC, FLAC, Ogg Vorbis, WAV, AIFF, AC-3, CAF, MP4, AMR, en meer | Alles wat Evermusic afspeelt, plus DSD (DSF/DFF), APE, WavPack (WV), TTA, OPUS, WMA, Musepack (MPC) en alle door FFmpeg decodeerbare formaten (50+) |
+| **Tracker- / MOD-muziek** | Nee | Ja: MOD, XM, IT, S3M, MTM, UMX, MO3 |
+| **Echte gapless-weergave** | Ja | Nee |
+| **Crossfade-weergave** | Ja, instelbaar van 1 tot 30 seconden | Nee |
 | **Ruimtelijke audio** | Ja | Nee |
-| **Toonhoogtealgoritmen** | Tijddomein, spectraal, varispeed | Niet ondersteund |
-| **Crossfade afspelen** | Ja (1–30 sec) | Nee |
-| **Gapless afspelen** | Ja | Nee |
+| **Toonhoogte & tempo** | Time-pitch-algoritmen (tijddomein, spectraal, varispeed) | Onafhankelijke toonhoogte en tempo via de BASS-engine |
+| **Realtime audio-effecten** | Reverb, Delay, Distortion, Compressor, Crossfeed, Volumenormalisatie | Reverb (Freeverb), Multi-tap-echo, Chorus, Flanger, Phaser, Auto-Wah, Distortion, Compressor, Stereo-rotatie, Crossfeed, Volumenormalisatie |
+| **DSP-keten** | Geen | 14 herschikbare filters: Gain, Low-pass, High-pass, Band-pass, Notch, Peaking, Low-shelf, High-shelf, Soft-clip-saturatie, Bit crusher, Tremolo, Delay, Ringmodulator, Stereobreedte |
+| **Muziekvisualizer** | Ja | Ja |
+| **Volumenormalisatie (EBU R128)** | Ja | Ja |
+| **10-bands equalizer + import/export van presets** | Ja | Ja |
+| **Uitvoer-samplerate, kanalen, gemengde modus** | Ja | Ja, plus een voorkeursinstelling voor de IO buffer-duur |
+| **Afspeelsnelheidsbediening** | Ja | Ja |
+| **Cloudopslag** | iCloud Drive, Google Drive, Dropbox, OneDrive, Box, MEGA, pCloud, Internxt, Proton Drive, Yandex Disk, MediaFire, Cloud Mail.ru, HiDrive, OpenDrive, Put.io, MyDrive, InfiniCLOUD, WD My Cloud Home, Baidu Cloud, en meer | iCloud Drive, Google Drive, Dropbox, OneDrive, Box, MEGA, pCloud, Internxt, Proton Drive, Yandex Disk, MediaFire, Cloud Mail.ru, HiDrive, OpenDrive, Put.io, MyDrive, InfiniCLOUD, WD My Cloud Home, Baidu Cloud, en meer |
+| **Mediaservers** | Plex, Subsonic, Navidrome, Jellyfin, Emby | Plex, Subsonic, Navidrome, Jellyfin, Emby |
+| **Computer & NAS** | SMB, WebDAV, DLNA, FTP, SFTP, NFS; native QNAP, Synology Drive, Nextcloud, WD My Cloud Home | SMB, WebDAV, DLNA, FTP, SFTP, NFS; native QNAP, Synology Drive, Nextcloud, WD My Cloud Home |
+| **USB, lokaal & Wi-Fi** | SD-kaarten en USB-schijven (SanDisk iXpand), iTunes File Sharing, Wi-Fi-overdracht | SD-kaarten en USB-schijven (SanDisk iXpand), iTunes File Sharing, Wi-Fi-overdracht |
+| **Import van Apple Music- / iTunes-bibliotheek** | Ja | Nee |
+| **CarPlay, AirPlay, Chromecast, Widgets, Songteksten, Last.fm, Tag-editor** | Ja | Ja |
 
-## Ondersteunde bestandsindelingen
+## Afspeel-engines
 
-**Evermusic:**  
-Evermusic ondersteunt een breed scala aan audioformaten, waaronder mp3, aac, m4a, wav en nog veel meer. Het biedt uitgebreide compatibiliteit met een uitgebreide lijst met formaten, waardoor het veelzijdig is voor gebruikers met diverse muziekcollecties. De volledige lijst met ondersteunde formaten: mpeg, aifc, 3gp, avi, aif, latm, 3gpp, m4a, loas, cdda, aac, m4p, m4b, ac3, pls, mp4v, m3u, m4r, aiff, xhe, mp1, snd, mp2, wav, qt, wave, m3u8, m4v, mp3, 3g2, caf, mp4, flac, au, w64, ec3, adts, amr, vtt, mpa, aa.
+**Evermusic** speelt je muziek volledig af via Apple's native audiostack: AVPlayer voor weergave en Core Audio voor realtime-verwerking. Core Audio drijft de effecten, equalizer, gapless-overgang en ruimtelijke audio aan. Het gebruikt geen decoders van derden.
 
-**Flacbox:**  
-Flacbox richt zich primair op FLAC-bestandsondersteuning (Free Lossless Audio Codec) maar omvat ook andere lossless-formaten zoals dsd, ape en alac. Het is gericht op audiofiele gebruikers die de voorkeur geven aan audioformaten van hoge kwaliteit. De volledige lijst met ondersteunde formaten: 3g2, 3gp, 3gp2, 3gpp, 8svx, aa, aac, aax, ac3, act, adt, adts, aif, aifc, aiff, alac, amr, amv, ape, asf, au, avi, awb, caf, cavs, cdda, cue, dct, dff, drc, dsf, dss, dvf, dvr-ms, ec3, f4a, f4b, f4p, f4v, flac, flv, gif, gifv, gsm, gxf, h261, h263, h264, ifv, iklax, ivf, ivs, l16, latm, loas, m2t, m2ts, m2v, m3u, m3u8, m4a, m4b, m4p, m4r, m4v, mka, mkv, mmf, mng, mod, mogg, mov, mp1, mp2, mp3, mp4, mp4v, mpa, mpc, mpe, mpeg, mpg, mpv, msv, mts, mxf, nsf, nsv, nut, oga, ogg, ogv, opus, pcm, pls, qt, ra, raw, rm, rmvb, roq, rv, sln, snd, svi, tod, tta, vob, voc, vox, vtt, w64, wav, wave, webm, wma, wmv, wv, xhe, xmv, y4m, yuv.
+**Flacbox** behoudt de Apple-systeemspeler en voegt voor audiofielen twee extra engines toe: FFmpeg voor directe, breedformaat-decodering, en een selecteerbare professionele BASS™-audio-engine. Wanneer je overschakelt naar de BASS-engine, ontgrendel je de volledige audiofiele toolkit, inclusief de realtime-effectenrack, de DSP-keten met 14 filters, hoogwaardige resampling, onafhankelijke toonhoogte en tempo, en tracker/MOD-weergave. De keuze uit drie engines is een functie die alleen Flacbox biedt.
 
-## Audiocodecs
+## Ondersteunde bestandsformaten
 
-**Evermusic:**  
-Maakt gebruik van de ingebouwde audiocodec van het systeem voor afspelen: AVPlayer en CoreAudio.
+**Evermusic** speelt de formaten af die door Apple's AVPlayer en Core Audio kunnen worden gedecodeerd, wat de overgrote meerderheid van alledaagse bibliotheken dekt: MP3, AAC, M4A, M4B, ALAC, FLAC, Ogg Vorbis, WAV, AIFF, AC-3, CAF, MP4, AMR, en meer. Ondersteuning voor FLAC en Ogg Vorbis is in recente updates toegevoegd.
 
-**Flacbox:**  
-Maakt gebruik van zowel de ingebouwde audiocodec van het systeem als FFMPEG, een multimediaframework dat bekend staat om zijn uitgebreide codecondersteuning. Dit vergroot het vermogen om verschillende audiocodecs effectief te verwerken.
+**Flacbox** decodeert alles wat Evermusic kan, en gaat vervolgens veel verder via FFmpeg en de BASS™-engine. Bovenop de gangbare formaten richt het zich native op DSD (DSF en DFF), APE, WavPack (WV), TTA, OPUS, WMA en Musepack (MPC), naast FLAC en ALAC, voor in totaal meer dan 50 ondersteunde extensies. Het is de juiste keuze voor high-resolution- en lossless-collecties, en het is de enige van de twee die tracker- en modulemuziek afspeelt (MOD, XM, IT, S3M, MTM, UMX, MO3).
 
-## Audio-uitvoer-samplesnelheid
+## Echte gapless-weergave
 
-**Evermusic:**  
-Volgt de standaard samplesnelheid van het systeem voor audio-uitvoer.
+**Evermusic** biedt echte gapless-weergave: geen pauze, klik of tik tussen tracks. De engine houdt twee tracks tegelijk actief, buffert en decodeert het volgende nummer alvast terwijl het huidige speelt, en schakelt vervolgens over tussen audiosamples op een doorlopende ringbuffer. Dit is ideaal voor live-albums, DJ-mixen en conceptalbums.
 
-**Flacbox:**  
-Biedt een reeks samplesnelheden, waaronder 44,1 kHz, 48 kHz, 64 kHz, 88,2 kHz en 96 kHz, waarmee gebruikers hun favoriete uitvoerkwaliteit kunnen kiezen voor een gepersonaliseerde luisterervaring.
+**Flacbox** biedt geen gapless-weergave. Als naadloze overgangen van track naar track voor jou het belangrijkst zijn, is Evermusic de betere keuze.
 
-## Aantal audio-uitvoerkanalen
+## Crossfade-weergave
 
-**Evermusic:**  
-Ondersteunt stereo-audio-uitvoer voor een standaard luisterervaring die geschikt is voor de meeste gebruikers.
+**Evermusic** ondersteunt crossfade met een instelbare duur van 1 tot 30 seconden, zodat de ene track soepel overloopt in de volgende.
 
-**Flacbox:**  
-Biedt meerdere kanaalconfiguraties, waaronder Mono, Stereo, Midden/Links/Rechts, Midden/Links/Rechts/Surround, ITU BS.775-1, 5.1 Surround en SDDS. Dit is geschikt voor gebruikers met diverse audio-opstellingen, inclusief surroundgeluidssystemen.
+**Flacbox** ondersteunt geen crossfade.
 
-## Toonhoogtecorrectie
+## Realtime audio-effecten
 
-**Evermusic:**  
-Bevat geen toonhoogtecorrectiefunctionaliteit.
+Beide apps verwerken effecten in realtime op alles wat je afspeelt, inclusief cloudstreams en internetradio, zonder hercodering.
 
-**Flacbox:**  
-Beschikt over toonhoogtecorrectie met een bereik van -1000 tot +1000, waarmee gebruikers de toonhoogte kunnen aanpassen aan hun voorkeuren en behoeften.
+**Evermusic** levert 6 effecten, gebouwd op Core Audio: Reverb, Delay, Distortion, Compressor, Crossfeed en Volumenormalisatie.
 
-## Audio-uitvoermodi
+**Flacbox** levert 11 effecten, waarvan de meeste draaien op de BASS™-engine met diepgaande parameterbediening per effect: Reverb (Freeverb), een Multi-tap-echo, Chorus, Flanger, Phaser, Auto-Wah, Distortion, Compressor, Stereo-rotatie, Crossfeed en Volumenormalisatie. Als je graag je geluid boetseert, heeft Flacbox de grotere en meer capabele effectenrack.
 
-**Evermusic:**  
-Biedt standaard en gemengde audio-uitvoermodi voor flexibele afspeelkeuzes.
+## DSP-keten
 
-**Flacbox:**  
-Biedt standaard en gemengde audio-uitvoermodi voor verbeterde gebruikersbeheer van audio-uitvoerconfiguraties.
+**Flacbox** bevat een zelf samen te stellen DSP-keten van 14 realtime-filters die je kunt toevoegen, verwijderen en herschikken: Gain, Low-pass, High-pass, Band-pass, Notch, Peaking, Low-shelf, High-shelf, Soft-clip-saturatie, Bit crusher, Tremolo, Delay, Ringmodulator en Stereobreedte. Gebruik het om een ruimte te corrigeren, een harde opname te temmen, of een volledig aangepaste klank te ontwerpen.
 
-## Afspeelsnelheid
+**Evermusic** bevat geen DSP-keten. Dit is een functie die alleen Flacbox biedt en die op audiofielen is gericht.
 
-**Evermusic:**  
-Ondersteunt afspeelsnelheidsaanpassingen van 0,25× tot 3,0×, zodat gebruikers het tempo van hun muziekafspelen kunnen regelen.
+## Muziekvisualizer
 
-**Flacbox:**  
-Staat ook afspeelsnelheidsaanpassingen toe van 0,25× tot 3,0×, met vergelijkbare snelheidsregelopties voor gebruikers.
+Beide apps bevatten een realtime, schermvullende muziekvisualizer die live reageert op je audio, met een grote bibliotheek presets waaruit je kunt kiezen of die je kunt laten doorlopen. Het draait op iPhone, iPad en Mac.
 
-## Audio-equalizer
+## Volumenormalisatie
 
-**Evermusic:**  
-Bevat een 10-band audio-equalizer met voorinstellingen, zodat gebruikers hun audio-uitvoer kunnen aanpassen voor verschillende muziekgenres en voorkeuren.
+Zowel **Evermusic** als **Flacbox** bevatten loudness-gebaseerde volumenormalisatie volgens de EBU R128-standaard (ITU-R BS.1770). In tegenstelling tot ReplayGain heeft het geen tags nodig en wijzigt het je bestanden niet, dus het houdt tracks op een consistent volume, zelfs bij cloudstreams en internetradio.
 
-**Flacbox:**  
-Beschikt over een 10-band audio-equalizer met voorinstellingen voor nauwkeurige controle over audio-instellingen voor audiofiele gebruikers die de best mogelijke geluidskwaliteit zoeken.
+## Toonhoogte, tempo en ruimtelijke audio
 
-## Ruimtelijke audio-instellingen
+**Evermusic** biedt ruimtelijke audio en geavanceerde time-pitch-algoritmen (tijddomein, spectraal en varispeed) voor hoogwaardige tempo- en toonhoogteverwerking op Core Audio.
 
-**Evermusic:**  
-Ondersteunt ruimtelijke audio-instellingen voor een verbeterde meeslepende luisterervaring, vooral bij gebruik van compatibele audioapparatuur.
+**Flacbox** biedt onafhankelijke toonhoogte- en tempobediening via de BASS™-engine, waarmee je de snelheid kunt wijzigen zonder de toonhoogte te veranderen, of de toonhoogte zonder de snelheid te veranderen. Het bevat geen ruimtelijke audio. Beide apps laten je de afspeelsnelheid aanpassen.
 
-**Flacbox:**  
-Biedt geen ruimtelijke audio-instellingen maar blinkt uit in het leveren van lossless audio van hoge kwaliteit.
+## Uitvoerbediening
 
-## Audiotoonhoogtealgoritme
+Beide apps laten je een aangepaste uitvoer-samplerate kiezen, uitvoerkanalen configureren, en de standaard- of gemengde uitvoermodus selecteren. Flacbox voegt een voorkeursinstelling voor de IO buffer-duur toe voor fijnere low-latency-bediening, in lijn met zijn audiofiele focus. Beide bevatten een grafische 10-bands equalizer met presets, preamp-gain en import en export van presets.
 
-**Evermusic:**  
-Maakt gebruik van verschillende audiotoonhoogtealgoritmen, waaronder tijddomein, spectraal en varispeed, voor geavanceerde audioverwerking.
+## Verbindingen (hetzelfde in beide apps)
 
-**Flacbox:**  
-Ondersteunt geen specifieke audiotoonhoogtealgoritmen maar biedt wel toonhoogtecorrectie.
+Omdat Evermusic en Flacbox dezelfde verbindingslaag delen, werken deze identiek in beide:
 
-## Crossfade afspelen
+- **Cloudopslag:** iCloud Drive, Google Drive, Dropbox, OneDrive, Box, MEGA, pCloud, Internxt, Proton Drive, Yandex Disk, MediaFire, Cloud Mail.ru, HiDrive, OpenDrive, Put.io, MyDrive, InfiniCLOUD, WD My Cloud Home, Baidu Cloud, en meer.
+- **Mediaservers:** Plex, Subsonic, Navidrome, Jellyfin en Emby.
+- **Computer en NAS:** SMB, WebDAV, DLNA, FTP, SFTP en NFS, met native ondersteuning voor QNAP, Synology Drive, Nextcloud en WD My Cloud Home.
+- **USB, lokaal en Wi-Fi:** SD-kaarten en USB-sticks via readers zoals de SanDisk iXpand, iTunes File Sharing, en draadloze Wi-Fi-overdracht.
+- **Casting en auto's:** Apple CarPlay, AirPlay en Google Chromecast.
+- **Bibliotheek en hulpmiddelen:** Home Screen-widgets, ingebedde en getimede songteksten, een ingebouwde ID3-tag-editor, Last.fm-scrobbling, offline downloads, en een volledige bestandsbeheerder.
 
-**Evermusic:**  
-Ondersteunt crossfade afspelen met instelbare duur van 1 tot 30 seconden voor naadloze overgangen tussen nummers.
+Het ene verschil in verbindingen: Evermusic kan je Apple Music- / iTunes-bibliotheek importeren en afspelen, terwijl Flacbox zich alleen richt op je eigen bestanden uit cloud-, netwerk- en lokale bronnen.
 
-**Flacbox:**  
-Ondersteunt geen crossfade afspelen.
+## Wat moet je kiezen?
 
-## Gapless afspelen
+**Kies Evermusic als je:**
 
-**Evermusic:**  
-Biedt gapless afspelen zodat nummers worden afgespeeld zonder onderbrekingen of stilte ertussen.
+- De soepelste alledaagse luisterervaring wilt met echte gapless-weergave en crossfade.
+- Ruimtelijke audio gebruikt.
+- Je Apple Music- / iTunes-bibliotheek naast cloudbestanden wilt binnenhalen.
+- Een grote, gemengde collectie hebt en een snelle, moeiteloze speler wilt.
 
-**Flacbox:**  
-Biedt geen gapless afspeelfunctionaliteit.
+**Kies Flacbox als je:**
 
-## Wat te kiezen?
+- Een audiofiel bent met een hi-res- en lossless-bibliotheek (FLAC, DSD, APE, ALAC, WavPack).
+- Een selecteerbare professionele BASS™-engine of FFmpeg-engine wilt.
+- Een effectenrack met 11 effecten en een DSP-keten met 14 filters wilt voor diepgaande geluidsvormgeving.
+- Tracker/MOD-muziek wilt afspelen, of fijnere low-latency-uitvoerbediening nodig hebt.
 
-Concluderend hangt uw keuze tussen Evermusic en Flacbox af van de specifieke samenstelling van uw muziekbibliotheek en uw voorkeuren. Als u een diverse muziekcollectie hebt met populaire audioformaten en crossfade- en ruimtelijke audiofuncties nodig hebt, is Evermusic een geschikte keuze. Aan de andere kant, als u prioriteit geeft aan lossless audioformaten, geavanceerde audio-uitvoerinstellingen en toonhoogtecorrectie, is Flacbox de aanbevolen optie voor audiofiele gebruikers die nauwkeurige controle over hun muziekafspelen zoeken.
+Veel luisteraars gebruiken beide: Evermusic voor dagelijkse, naadloze weergave en toegang tot de Apple Music-bibliotheek, en Flacbox voor kritisch, high-resolution luisteren met volledige geluidsbediening.
+Beide zijn gratis te downloaden met optionele Premium-upgrades, en beide maken verbinding met de cloudaccounts die je al bezit.
+
+## Veelgestelde vragen
+
+{{% details title="Wat is het belangrijkste verschil tussen Evermusic en Flacbox?" closed="true" %}}
+Ze delen hetzelfde platform en dezelfde verbindingen, maar de audiokant verschilt. Evermusic draait op Apple's AVPlayer en Core Audio en is de veelzijdige, alledaagse speler, met echte gapless-weergave, crossfade, ruimtelijke audio en import van de Apple Music-bibliotheek. Flacbox voegt een professionele BASS™-audio-engine en FFmpeg-decodering toe, wat een DSP-keten met 14 filters, meer realtime-effecten, tracker/MOD-weergave en de breedste ondersteuning voor hi-res- en lossless-formaten met zich meebrengt, inclusief DSD, APE en WavPack.
+{{% /details %}}
+
+{{% details title="Is Evermusic of Flacbox beter?" closed="true" %}}
+Geen van beide is strikt beter; ze zijn afgestemd op verschillende luisteraars. Evermusic is beter voor soepel, alledaags luisteren en voor mensen die ook hun Apple Music-bibliotheek gebruiken, dankzij gapless-weergave, crossfade en ruimtelijke audio. Flacbox is beter voor audiofielen die diepgaande geluidsvormgeving willen, een selecteerbare professionele audio-engine, en maximale dekking van hi-res- en lossless-formaten.
+{{% /details %}}
+
+{{% details title="Gebruikt Evermusic FFmpeg?" closed="true" %}}
+Nee. Evermusic speelt volledig af via Apple's native audiostack, AVPlayer en Core Audio, waarbij Core Audio de effecten en verwerking afhandelt. FFmpeg-decodering is een Flacbox-functie, naast Flacbox's selecteerbare BASS-engine.
+{{% /details %}}
+
+{{% details title="Heeft Flacbox gapless- of crossfade-weergave?" closed="true" %}}
+Nee. Echte gapless-weergave en crossfade (1 tot 30 seconden) zijn Evermusic-functies. Flacbox richt zich in plaats daarvan op high-resolution-weergave, een professionele BASS-engine, een effectenrack en een DSP-keten.
+{{% /details %}}
+
+{{% details title="Welke app is beter voor FLAC, DSD en APE?" closed="true" %}}
+Flacbox. Beide apps spelen FLAC af, maar Flacbox is de specialist in high-resolution en lossless, met native ondersteuning voor FLAC, ALAC, DSD (DSF/DFF), APE, WavPack (WV), TTA, OPUS en meer via FFmpeg en zijn BASS™-engine. Het biedt ook fijnere uitvoerbediening voor kritisch luisteren.
+{{% /details %}}
+
+{{% details title="Welke app heeft meer audio-effecten en een DSP-keten?" closed="true" %}}
+Flacbox. Evermusic heeft 6 effecten (Reverb, Delay, Distortion, Compressor, Crossfeed en Volumenormalisatie). Flacbox heeft 11 effecten (met daarbij Chorus, Flanger, Phaser, Auto-Wah, Stereo-rotatie en een Multi-tap-echo) plus een zelf samen te stellen DSP-keten met 14 filters. De DSP-keten is exclusief voor Flacbox.
+{{% /details %}}
+
+{{% details title="Ondersteunen beide apps dezelfde cloudservices, mediaservers en CarPlay?" closed="true" %}}
+Ja. Evermusic en Flacbox maken verbinding met dezelfde cloudopslag (iCloud Drive, Google Drive, Dropbox, OneDrive, MEGA, pCloud, Internxt, Proton Drive en meer), dezelfde mediaservers (Plex, Subsonic, Navidrome, Jellyfin, Emby), en dezelfde computer- en NAS-protocollen (SMB, WebDAV, FTP, SFTP, NFS, DLNA), met native ondersteuning voor QNAP, Synology, Nextcloud en WD My Cloud Home. Beide ondersteunen ook Apple CarPlay, AirPlay en Google Chromecast.
+{{% /details %}}
+
+{{% details title="Kan Evermusic mijn Apple Music- of iTunes-bibliotheek afspelen?" closed="true" %}}
+Ja. Evermusic kan muziek uit je Apple Music- / iTunes-bibliotheek importeren en afspelen, naast cloud- en netwerkbronnen. Flacbox is ontworpen voor je eigen bestanden uit cloud-, NAS- en lokale opslag, en importeert de Apple Music-bibliotheek niet.
+{{% /details %}}
+
+{{% details title="Kan ik Evermusic en Flacbox samen gebruiken?" closed="true" %}}
+Ja, en veel mensen doen dat. Een gangbare opzet is Evermusic voor dagelijkse, naadloze weergave en toegang tot de Apple Music-bibliotheek, en Flacbox voor kritisch, high-resolution luisteren met de BASS-engine, effecten en DSP-keten. Beide lezen uit dezelfde cloud- en NAS-bronnen, dus je bibliotheek is in beide apps beschikbaar. Beide zijn gratis te downloaden met optionele Premium in-app-upgrades.
+{{% /details %}}

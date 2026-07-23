@@ -1,136 +1,169 @@
 ---
 title: "מה ההבדל בין Evermusic ל-Flacbox"
-date: 2020-02-02
-updated: 2024-12-08
-description: "השווה בין Evermusic ו-Flacbox — שני נגני מוזיקה עוצמתיים ל-iOS ו-MacOS. חקור את ההבדלים בתמיכת פורמטים, איכות אודיו, שליטת פלט ותכונות מתקדמות כדי למצוא את המתאים ביותר לצרכיך."
-keywords: ["Evermusic vs Flacbox", "השוואת נגן אודיו", "אפליקציות מוזיקה iOS", "נגן FLAC", "AVPlayer vs FFmpeg", "אודיו lossless", "Evermusic", "Flacbox", "תכונות נגן מוזיקה", "הגדרות איכות אודיו"]
-tags: ["evermusic", "flacbox", "אודיו", "lossless", "crossfade", "הבדל", "טוב יותר", "בחירה", "ffmpeg"]
-readingTime: 3
+date: 2026-07-23
+description: "Evermusic מול Flacbox ב-2026: השוואה מפורטת בין שני נגני המוזיקה ל-iPhone, iPad ו-Mac מבית Everappz. Evermusic הוא הנגן היומיומי רחב הפורמטים עם ניגון רציף אמיתי ללא הפסקות, מעבר מדורג (crossfade) ואודיו מרחבי, המופעל על ידי Apple AVPlayer ו-Core Audio. Flacbox הוא המומחה לאודיו ברזולוציה גבוהה לאודיופילים, עם מנוע BASS מקצועי, פענוח FFmpeg, שרשרת DSP בת 14 מסננים, אחד עשר אפקטים בזמן אמת וניגון tracker/MOD. השוו פורמטים, מנועים, אפקטים, פלט וחיבורים."
+keywords: ["Evermusic מול Flacbox", "Evermusic מול Flacbox 2026", "ההבדל בין Evermusic ל-Flacbox", "השוואת נגני אודיו iPhone", "השוואת נגני מוזיקה iOS", "נגן FLAC iPhone", "נגן DSD iOS", "נגן APE iOS", "נגן WavPack", "נגן אודיו ברזולוציה גבוהה", "נגן מוזיקה נטול אובדן", "מנוע אודיו BASS", "נגן מוזיקה FFmpeg iOS", "שרשרת DSP בנגן מוזיקה", "אפקטים אודיו בזמן אמת iOS", "ניגון רציף ללא הפסקות iPhone", "נגן מוזיקה crossfade", "נגן מוזיקה אודיו מרחבי", "נגן tracker MOD iOS", "נרמול EBU R128", "נגן Core Audio", "Evermusic", "Flacbox", "נגן מוזיקה מהענן", "באיזה נגן מוזיקה כדאי לבחור"]
+tags: ["evermusic", "flacbox", "אודיו", "נטול אובדן", "רזולוציה גבוהה", "מנוע bass", "ffmpeg", "core audio", "dsp", "אפקטים אודיו", "ניגון רציף", "crossfade", "dsd", "ape", "wavpack", "tracker", "mod", "השוואה", "הבדל", "בחירה"]
+readingTime: 6
 ---
 
+Evermusic ו-Flacbox הם שני נגני מוזיקה מתקדמים מבית Everappz ל-iPhone, iPad ו-Mac. הם בנויים על אותו בסיס, ולכן הם מתחברים לאותם שירותי ענן, שרתי מדיה וכונני NAS, וחולקים את אותו ממשק, ספרייה ובקרות ניגון. ההבדל טמון במנוע האודיו ובתכונות הבנויות מעליו. **Evermusic** הוא הנגן היומיומי רחב הפורמטים, המופעל על ידי AVPlayer ו-Core Audio של Apple ומכוונן להאזנה חלקה עם ניגון רציף אמיתי ללא הפסקות, מעבר מדורג (crossfade), אודיו מרחבי וייבוא ספריית Apple Music. **Flacbox** הוא נגן המוזיקה ברזולוציה גבוהה, המוסיף מעל נגן המערכת מנוע אודיו BASS™ מקצועי ופענוח FFmpeg ישיר, שפותחים שרשרת DSP מותאמת בת 14 מסננים, מדף אפקטים גדול יותר בזמן אמת, ניגון MOD ותמיכה רחבה ביותר בפורמטים ברזולוציה גבוהה ונטולי אובדן, כולל DSD.
 
-Evermusic ו-Flacbox הן שתי אפליקציות נגן מוזיקה מתקדמות ל-iOS ו-MacOS. בעוד ששתיהן נבנו כדי לעזור לך לנהל וליהנות מספריית המוזיקה שלך, כל אחת מציעה תכונות שונות המותאמות לצרכים ספציפיים. Evermusic ידועה בתמיכה הרחבה בפורמטים ובהתאמה האישית שלה, בעוד ש-Flacbox מצטיינת בהשמעת אודיו ברזולוציה גבוהה ובבקרות מדויקות.
-
-הנה השוואה צד לצד של תכונותיהן ויכולותיהן העיקריות.
+**תשובה קצרה:** בחרו ב-**Evermusic** אם אתם רוצים את ההאזנה הכוללת החלקה ביותר, מעברים רציפים חלקים ומעבר מדורג, וגישה לספריית Apple Music שלכם. בחרו ב-**Flacbox** אם אתם אודיופילים הרוצים עיצוב צליל מעמיק (מדף אפקטים ושרשרת DSP), מנוע אודיו מקצועי הניתן לבחירה, וכיסוי מרבי של פורמטים ברזולוציה גבוהה ונטולי אובדן, כולל DSD, APE ו-WavPack.
 
 {{< cards >}}
-  {{< card link="https://apps.apple.com/us/app/evermusic-cloud-music-player/id885367198" title="הורד את Evermusic" icon="download" tag="חינמי" >}}
-  {{< card link="https://apps.apple.com/us/app/flacbox-hi-res-music-player/id1097564256" title="הורד את Flacbox" icon="download" tag="חינמי" >}}
+  {{< card link="https://apps.apple.com/us/app/evermusic-cloud-music-player/id885367198" title="הורדת Evermusic" icon="download" tag="חינם" >}}
+  {{< card link="https://apps.apple.com/us/app/flacbox-hi-res-music-player/id1097564256" title="הורדת Flacbox" icon="download" tag="חינם" >}}
 {{< /cards >}}
 
 ## טבלת השוואת תכונות
 
-| תכונה | Evermusic | Flacbox |
-|-------|-----------|---------|
-| **פורמטי אודיו נתמכים** | תמיכה נרחבת (MP3, AAC, WAV, M4A, וכו') | מתמקד בהשמעה ברזולוציה גבוהה/lossless (FLAC, ALAC, DSD, APE, וכו') |
-| **קודקי אודיו** | קודקים של המערכת (AVPlayer + CoreAudio) | מערכת + FFMPEG לתמיכה רחבה יותר בקודקים |
-| **קצב דגימת פלט** | עוקב אחר ברירת המחדל של המערכת | 44.1kHz, 48kHz, 64kHz, 88.2kHz, 96kHz |
-| **ערוצי פלט** | סטריאו | מונו, סטריאו, 5.1, ITU BS.775-1, SDDS ועוד |
-| **תיקון גובה צליל** | לא זמין | כן (טווח: -1000 עד +1000) |
-| **מצבי פלט אודיו** | ברירת מחדל, מעורב | ברירת מחדל, מעורב |
-| **שליטה במהירות השמעה** | 0.25× – 3.0× | 0.25× – 3.0× |
-| **אקולייזר** | אקולייזר 10 בנדים עם הגדרות מוגדרות מראש | אקולייזר 10 בנדים עם הגדרות מוגדרות מראש |
+| Feature | Evermusic | Flacbox |
+|--------|-----------|---------|
+| **מתאים במיוחד ל** | האזנה יומיומית בספריות ענן גדולות ומעורבות, בתוספת Apple Music | ניגון אודיופילי ברזולוציה גבוהה ונטול אובדן עם שליטת צליל מעמיקה |
+| **מנועי ניגון** | AVPlayer, Core Audio (Core Audio מפעיל את האפקטים). | AVPlayer, FFmpeg, BASS™ |
+| **פורמטים נתמכים** | MP3, AAC, M4A, M4B, ALAC, FLAC, Ogg Vorbis, WAV, AIFF, AC-3, CAF, MP4, AMR ועוד | כל מה ש-Evermusic מנגן, בתוספת DSD (DSF/DFF), APE, WavPack (WV), TTA, OPUS, WMA, Musepack (MPC) וכל הפורמטים הניתנים לפענוח ב-FFmpeg (50+) |
+| **מוזיקת Tracker / MOD** | לא | כן: MOD, XM, IT, S3M, MTM, UMX, MO3 |
+| **ניגון רציף אמיתי ללא הפסקות** | כן | לא |
+| **מעבר מדורג (crossfade)** | כן, ניתן להתאמה מ-1 עד 30 שניות | לא |
 | **אודיו מרחבי** | כן | לא |
-| **אלגוריתמי גובה צליל** | תחום זמן, ספקטרלי, varispeed | לא נתמך |
-| **השמעת crossfade** | כן (1–30 שניות) | לא |
-| **השמעה רציפה** | כן | לא |
+| **גובה צליל וקצב** | אלגוריתמי time-pitch (מבוססי זמן, ספקטרליים, varispeed) | גובה צליל וקצב עצמאיים באמצעות מנוע BASS |
+| **אפקטים אודיו בזמן אמת** | Reverb, Delay, Distortion, Compressor, Crossfeed, נרמול עוצמה | Reverb (Freeverb), Multi-tap echo, Chorus, Flanger, Phaser, Auto-Wah, Distortion, Compressor, Stereo rotation, Crossfeed, נרמול עוצמה |
+| **שרשרת DSP** | אין | 14 מסננים הניתנים לסידור מחדש: Gain, Low-pass, High-pass, Band-pass, Notch, Peaking, Low-shelf, High-shelf, Soft-clip saturation, Bit crusher, Tremolo, Delay, Ring modulator, Stereo width |
+| **ויזואלייזר מוזיקה** | כן | כן |
+| **נרמול עוצמה (EBU R128)** | כן | כן |
+| **אקולייזר 10 פסים + ייבוא/ייצוא הגדרות מוכנות** | כן | כן |
+| **קצב דגימת פלט, ערוצים, מצב מעורב** | כן | כן, בתוספת הגדרת משך IO buffer מועדף |
+| **בקרת מהירות ניגון** | כן | כן |
+| **אחסון בענן** | iCloud Drive, Google Drive, Dropbox, OneDrive, Box, MEGA, pCloud, Internxt, Proton Drive, Yandex Disk, MediaFire, Cloud Mail.ru, HiDrive, OpenDrive, Put.io, MyDrive, InfiniCLOUD, WD My Cloud Home, Baidu Cloud ועוד | iCloud Drive, Google Drive, Dropbox, OneDrive, Box, MEGA, pCloud, Internxt, Proton Drive, Yandex Disk, MediaFire, Cloud Mail.ru, HiDrive, OpenDrive, Put.io, MyDrive, InfiniCLOUD, WD My Cloud Home, Baidu Cloud ועוד |
+| **שרתי מדיה** | Plex, Subsonic, Navidrome, Jellyfin, Emby | Plex, Subsonic, Navidrome, Jellyfin, Emby |
+| **מחשב ו-NAS** | SMB, WebDAV, DLNA, FTP, SFTP, NFS; תמיכה מובנית ב-QNAP, Synology Drive, Nextcloud, WD My Cloud Home | SMB, WebDAV, DLNA, FTP, SFTP, NFS; תמיכה מובנית ב-QNAP, Synology Drive, Nextcloud, WD My Cloud Home |
+| **USB, מקומי ו-Wi-Fi** | כרטיסי SD וכונני USB (SanDisk iXpand), שיתוף קבצים ב-iTunes, העברה ב-Wi-Fi | כרטיסי SD וכונני USB (SanDisk iXpand), שיתוף קבצים ב-iTunes, העברה ב-Wi-Fi |
+| **ייבוא ספריית Apple Music / iTunes** | כן | לא |
+| **CarPlay, AirPlay, Chromecast, וידג'טים, מילות שיר, Last.fm, עורך תגים** | כן | כן |
 
-## פורמטי קבצים נתמכים
+## מנועי ניגון
 
-**Evermusic:**
-Evermusic תומך במגוון רחב של פורמטי אודיו, כולל mp3, aac, m4a, wav ועוד רבים. הוא מספק תאימות נרחבת עם רשימה מקיפה של פורמטים, ומאפשר גמישות למשתמשים עם אוספי מוזיקה מגוונים. הרשימה המלאה של פורמטים נתמכים: mpeg, aifc, 3gp, avi, aif, latm, 3gpp, m4a, loas, cdda, aac, m4p, m4b, ac3, pls, mp4v, m3u, m4r, aiff, xhe, mp1, snd, mp2, wav, qt, wave, m3u8, m4v, mp3, 3g2, caf, mp4, flac, au, w64, ec3, adts, amr, vtt, mpa, aa.
+**Evermusic** מנגן את המוזיקה שלכם כולה דרך מחסנית האודיו המקורית של Apple: AVPlayer לניגון ו-Core Audio לעיבוד בזמן אמת. Core Audio הוא המנוע שמפעיל את האפקטים, האקולייזר, המעבר הרציף והאודיו המרחבי. הוא אינו משתמש בשום מפענח צד שלישי.
 
-**Flacbox:**
-Flacbox מתמקד בעיקר בתמיכה בקבצי FLAC (Free Lossless Audio Codec) אך כולל גם פורמטי lossless אחרים כמו dsd, ape ו-alac. הוא מתאים לאודיופילים המעדיפים פורמטי אודיו באיכות גבוהה. הרשימה המלאה של פורמטים נתמכים: 3g2, 3gp, 3gp2, 3gpp, 8svx, aa, aac, aax, ac3, act, adt, adts, aif, aifc, aiff, alac, amr, amv, ape, asf, au, avi, awb, caf, cavs, cdda, cue, dct, dff, drc, dsf, dss, dvf, dvr-ms, ec3, f4a, f4b, f4p, f4v, flac, flv, gif, gifv, gsm, gxf, h261, h263, h264, ifv, iklax, ivf, ivs, l16, latm, loas, m2t, m2ts, m2v, m3u, m3u8, m4a, m4b, m4p, m4r, m4v, mka, mkv, mmf, mng, mod, mogg, mov, mp1, mp2, mp3, mp4, mp4v, mpa, mpc, mpe, mpeg, mpg, mpv, msv, mts, mxf, nsf, nsv, nut, oga, ogg, ogv, opus, pcm, pls, qt, ra, raw, rm, rmvb, roq, rv, sln, snd, svi, tod, tta, vob, voc, vox, vtt, w64, wav, wave, webm, wma, wmv, wv, xhe, xmv, y4m, yuv.
+**Flacbox** שומר על נגן המערכת של Apple ומוסיף שני מנועים נוספים לאודיופילים: FFmpeg לפענוח ישיר ורחב פורמטים, ומנוע אודיו BASS™ מקצועי הניתן לבחירה. כאשר עוברים למנוע BASS נפתחת ערכת הכלים המלאה לאודיופילים, כולל מדף האפקטים בזמן אמת, שרשרת DSP בת 14 מסננים, המרת קצב דגימה באיכות גבוהה, גובה צליל וקצב עצמאיים וניגון tracker/MOD. שלושה מנועים לבחירה הם יכולת ייחודית ל-Flacbox בלבד.
 
-## קודקי אודיו
+## פורמטים נתמכים
 
-**Evermusic:**
-משתמש בקודק האודיו המובנה של המערכת להשמעה: AVPlayer ו-CoreAudio.
+**Evermusic** מנגן את הפורמטים הניתנים לפענוח על ידי AVPlayer ו-Core Audio של Apple, המכסים את הרוב המכריע של הספריות היומיומיות: MP3, AAC, M4A, M4B, ALAC, FLAC, Ogg Vorbis, WAV, AIFF, AC-3, CAF, MP4, AMR ועוד. התמיכה ב-FLAC וב-Ogg Vorbis נוספה בעדכונים האחרונים.
 
-**Flacbox:**
-משתמש גם בקודק האודיו המובנה של המערכת וגם ב-FFMPEG, מסגרת מולטימדיה המוכרת בתמיכה הנרחבת שלה בקודקים. זה מגביר את יכולתו לטפל ביעילות בקודקי אודיו שונים.
+**Flacbox** מפענח את כל מה ש-Evermusic מסוגל, ואז מרחיב הרבה מעבר לכך באמצעות FFmpeg ומנוע BASS™. מעבר לפורמטים הנפוצים הוא מכוון באופן מובנה ל-DSD (DSF ו-DFF), APE, WavPack (WV), TTA, OPUS, WMA ו-Musepack (MPC), לצד FLAC ו-ALAC, לסך של יותר מ-50 סיומות נתמכות. זו הבחירה הנכונה לאוספים ברזולוציה גבוהה ונטולי אובדן, והוא היחיד מבין השניים שמנגן מוזיקת tracker ומודולים (MOD, XM, IT, S3M, MTM, UMX, MO3).
 
-## קצב דגימת פלט אודיו
+## ניגון רציף אמיתי ללא הפסקות
 
-**Evermusic:**
-עוקב אחר קצב הדגימה הברירת מחדל של המערכת לפלט אודיו.
+**Evermusic** מספק ניגון רציף אמיתי ללא הפסקות: ללא השהיה, נקישה או תקתוק בין רצועות. המנוע שומר שתי רצועות פעילות בו-זמנית, מבצע חיץ ופענוח מקדים של השיר הבא בזמן שהנוכחי מתנגן, ואז מבצע מעבר בין דגימות האודיו על גבי ring buffer רציף. זה אידיאלי לאלבומי הופעה חיה, מיקסים של DJ ואלבומי קונספט.
 
-**Flacbox:**
-מציע מגוון קצבי דגימה, כולל 44.1 kHz, 48 kHz, 64 kHz, 88.2 kHz ו-96 kHz, ומאפשר למשתמשים לבחור את איכות הפלט המועדפת עליהם לחוויית האזנה מותאמת אישית.
+**Flacbox** אינו מציע ניגון רציף ללא הפסקות. אם מעברים חלקים מרצועה לרצועה חשובים לכם ביותר, Evermusic הוא ההתאמה הטובה יותר.
 
-## מספר ערוצי פלט אודיו
+## מעבר מדורג (Crossfade)
 
-**Evermusic:**
-תומך בפלט אודיו סטריאו, המספק חוויית האזנה סטנדרטית המתאימה לרוב המשתמשים.
+**Evermusic** תומך במעבר מדורג עם משך הניתן להתאמה מ-1 עד 30 שניות, כך שרצועה אחת מתמזגת בחלקות אל הבאה.
 
-**Flacbox:**
-מציע תצורות ערוצים מרובות, כולל מונו, סטריאו, מרכז/שמאל/ימין, מרכז/שמאל/ימין/Surround, ITU BS.775-1, 5.1 Surround ו-SDDS. זה מתאים למשתמשים עם מגדרי אודיו שונים, כולל מערכות סראונד.
+**Flacbox** אינו תומך במעבר מדורג.
 
-## תיקון גובה צליל
+## אפקטים אודיו בזמן אמת
 
-**Evermusic:**
-אינו כולל פונקציונליות תיקון גובה צליל.
+שני היישומים מעבדים אפקטים בזמן אמת על כל מה שאתם מנגנים, כולל שידורי ענן ורדיו אינטרנטי, ללא קידוד מחדש.
 
-**Flacbox:**
-כולל תיקון גובה צליל עם טווח מ-1000- עד +1000, ומאפשר למשתמשים לכוונן את גובה הצליל בהתאם להעדפותיהם וצרכיהם.
+**Evermusic** כולל 6 אפקטים, הבנויים על Core Audio: Reverb, Delay, Distortion, Compressor, Crossfeed ונרמול עוצמה.
 
-## מצבי פלט אודיו
+**Flacbox** כולל 11 אפקטים, רובם פועלים על מנוע BASS™ שלו עם שליטה מעמיקה בפרמטרים לכל אפקט: Reverb (Freeverb), Multi-tap echo, Chorus, Flanger, Phaser, Auto-Wah, Distortion, Compressor, Stereo rotation, Crossfeed ונרמול עוצמה. אם אתם אוהבים לפסל את הצליל שלכם, ל-Flacbox יש את מדף האפקטים הגדול והמסוגל יותר.
 
-**Evermusic:**
-מספק מצבי פלט אודיו ברירת מחדל ומעורב לאפשרויות השמעה גמישות.
+## שרשרת DSP
 
-**Flacbox:**
-מציע מצבי פלט אודיו ברירת מחדל ומעורב, ומשפר את שליטת המשתמש על תצורות פלט האודיו.
+**Flacbox** כולל שרשרת DSP לבנייה עצמית של 14 מסננים בזמן אמת שאותם ניתן להוסיף, להסיר ולסדר מחדש: Gain, Low-pass, High-pass, Band-pass, Notch, Peaking, Low-shelf, High-shelf, Soft-clip saturation, Bit crusher, Tremolo, Delay, Ring modulator ו-Stereo width. השתמשו בה כדי לתקן אקוסטיקה של חדר, לרסן הקלטה צורמת או לעצב גוון מותאם לחלוטין.
 
-## מהירות השמעה
+**Evermusic** אינו כולל שרשרת DSP. זוהי תכונה ייחודית ל-Flacbox, המכוונת לאודיופילים.
 
-**Evermusic:**
-תומך בכיוון מהירות השמעה בטווח מ-0.25× עד 3.0×, ומאפשר למשתמשים לשלוט בקצב ההשמעה המוסיקלית שלהם.
+## ויזואלייזר מוזיקה
 
-**Flacbox:**
-מאפשר גם כיוון מהירות השמעה מ-0.25× עד 3.0×, ומספק אפשרויות שליטת מהירות דומות למשתמשים.
+שני היישומים כוללים ויזואלייזר מוזיקה במסך מלא ובזמן אמת המגיב בשידור חי לאודיו שלכם, עם ספרייה גדולה של הגדרות מוכנות שאותן ניתן לבחור או לתת להתחלף אוטומטית. הוא פועל ב-iPhone, iPad ו-Mac.
 
-## אקולייזר אודיו
+## נרמול עוצמה
 
-**Evermusic:**
-כולל אקולייזר אודיו 10 בנדים עם הגדרות מוגדרות מראש, ומאפשר למשתמשים להתאים אישית את פלט האודיו שלהם לסגנונות מוסיקה שונים והעדפות.
+הן **Evermusic** והן **Flacbox** כוללים נרמול עוצמה מבוסס עוצמת קול באמצעות תקן EBU R128 (ITU-R BS.1770). בשונה מ-ReplayGain, הוא אינו זקוק לתגים ואינו משנה את הקבצים שלכם, כך שהוא שומר על רצועות בעוצמה עקבית גם בשידורי ענן וברדיו אינטרנטי.
 
-**Flacbox:**
-מצויד באקולייזר אודיו 10 בנדים עם הגדרות מוגדרות מראש, ומציע שליטה מדויקת על הגדרות האודיו לאודיופילים המחפשים את איכות הצליל הטובה ביותר.
+## גובה צליל, קצב ואודיו מרחבי
 
-## הגדרות אודיו מרחבי
+**Evermusic** מציע אודיו מרחבי ואלגוריתמי time-pitch מתקדמים (מבוססי זמן, ספקטרליים ו-varispeed) לעיבוד קצב וגובה צליל באיכות גבוהה על גבי Core Audio.
 
-**Evermusic:**
-תומך בהגדרות אודיו מרחבי, ומשפר את חוויית ההאזנה האימרסיבית, במיוחד בעת שימוש בציוד אודיו תואם.
+**Flacbox** מציע שליטה עצמאית בגובה צליל ובקצב באמצעות מנוע BASS™ שלו, ומאפשר לכם לשנות מהירות מבלי לשנות את הסולם, או את הסולם מבלי לשנות מהירות. הוא אינו כולל אודיו מרחבי. שני היישומים מאפשרים לכם להתאים את מהירות הניגון.
 
-**Flacbox:**
-אינו מציע הגדרות אודיו מרחבי אך מצטיין במתן אודיו lossless באיכות גבוהה.
+## בקרת פלט
 
-## אלגוריתם גובה צליל אודיו
+שני היישומים מאפשרים לכם לבחור קצב דגימת פלט מותאם, להגדיר ערוצי פלט ולבחור מצבי פלט ברירת מחדל או מעורבים. Flacbox מוסיף הגדרת משך IO buffer מועדף לשליטה עדינה יותר בזמן השהיה נמוך, בהתאם למיקוד האודיופילי שלו. שניהם כוללים אקולייזר גרפי בן 10 פסים עם הגדרות מוכנות, הגברת preamp וייבוא וייצוא של הגדרות מוכנות.
 
-**Evermusic:**
-משתמש באלגוריתמי גובה צליל אודיו שונים, כולל תחום זמן, ספקטרלי ו-varispeed, לעיבוד אודיו מתקדם.
+## חיבורים (זהים בשני היישומים)
 
-**Flacbox:**
-אינו תומך באלגוריתמי גובה צליל אודיו ספציפיים אך מציע תיקון גובה צליל.
+מכיוון ש-Evermusic ו-Flacbox חולקים את אותה שכבת חיבור, אלה פועלים באופן זהה בשניהם:
 
-## השמעת crossfade
+- **אחסון בענן:** iCloud Drive, Google Drive, Dropbox, OneDrive, Box, MEGA, pCloud, Internxt, Proton Drive, Yandex Disk, MediaFire, Cloud Mail.ru, HiDrive, OpenDrive, Put.io, MyDrive, InfiniCLOUD, WD My Cloud Home, Baidu Cloud ועוד.
+- **שרתי מדיה:** Plex, Subsonic, Navidrome, Jellyfin ו-Emby.
+- **מחשב ו-NAS:** SMB, WebDAV, DLNA, FTP, SFTP ו-NFS, עם תמיכה מובנית ב-QNAP, Synology Drive, Nextcloud ו-WD My Cloud Home.
+- **USB, מקומי ו-Wi-Fi:** כרטיסי SD וכונני USB דרך קוראים כמו SanDisk iXpand, שיתוף קבצים ב-iTunes והעברה אלחוטית ב-Wi-Fi.
+- **הזרמה ורכבים:** Apple CarPlay, AirPlay ו-Google Chromecast.
+- **ספרייה וכלים:** וידג'טים למסך הבית, מילות שיר מוטמעות ומתוזמנות, עורך תגי ID3 מובנה, סקרובלינג ב-Last.fm, הורדות לצפייה לא מקוונת ומנהל קבצים מלא.
 
-**Evermusic:**
-תומך בהשמעת crossfade עם משכים מתכווננים מ-1 עד 30 שניות, ומאפשר מעברים חלקים בין רצועות.
+הבדל החיבור היחיד: Evermusic יכול לייבא ולנגן את ספריית Apple Music / iTunes שלכם, בעוד ש-Flacbox מתמקד אך ורק בקבצים שלכם ממקורות ענן, רשת ומקומיים.
 
-**Flacbox:**
-אינו תומך בהשמעת crossfade.
+## במה כדאי לכם לבחור?
 
-## השמעה רציפה
+**בחרו ב-Evermusic אם אתם:**
 
-**Evermusic:**
-מספק השמעה רציפה כדי להבטיח שהשירים מושמעים ללא הפרעות או שקט ביניהם.
+- רוצים את ההאזנה היומיומית החלקה ביותר עם ניגון רציף אמיתי ללא הפסקות ומעבר מדורג.
+- משתמשים באודיו מרחבי.
+- רוצים לשלב את ספריית Apple Music / iTunes שלכם לצד קבצי ענן.
+- בעלי אוסף גדול ומעורב ורוצים נגן מהיר וללא טרחה.
 
-**Flacbox:**
-אינו מספק פונקציונליות השמעה רציפה.
+**בחרו ב-Flacbox אם אתם:**
 
-## מה לבחור?
+- אודיופילים עם ספרייה ברזולוציה גבוהה ונטולת אובדן (FLAC, DSD, APE, ALAC, WavPack).
+- רוצים מנוע BASS™ מקצועי או מנוע FFmpeg הניתנים לבחירה.
+- רוצים מדף בן 11 אפקטים ושרשרת DSP בת 14 מסננים לעיצוב צליל מעמיק.
+- רוצים לנגן מוזיקת tracker/MOD, או זקוקים לשליטת פלט עדינה יותר בזמן השהיה נמוך.
 
-לסיכום, הבחירה שלך בין Evermusic ל-Flacbox תלויה בהרכב ספריית המוזיקה הספציפית שלך ובהעדפותיך. אם יש לך אוסף מוזיקה מגוון הכולל פורמטי אודיו פופולריים ודורש תכונות crossfade ואודיו מרחבי, Evermusic הוא בחירה מתאימה. מצד שני, אם אתה מעדיף פורמטי אודיו lossless, הגדרות פלט אודיו מתקדמות ותיקון גובה צליל, Flacbox הוא האפשרות המומלצת לאודיופילים ולמשתמשים המחפשים שליטה מדויקת על השמעת המוזיקה שלהם.
+מאזינים רבים משתמשים בשניהם: Evermusic לניגון יומיומי ורציף ולגישה לספריית Apple Music, ו-Flacbox להאזנה קריטית ברזולוציה גבוהה עם שליטת צליל מלאה.
+שניהם חינמיים להורדה עם שדרוגי Premium אופציונליים, ושניהם מתחברים לחשבונות הענן שכבר יש ברשותכם.
+
+## שאלות נפוצות
+
+{{% details title="מה ההבדל העיקרי בין Evermusic ל-Flacbox?" closed="true" %}}
+הם חולקים את אותה פלטפורמה ואותם חיבורים, אך צד האודיו שונה. Evermusic פועל על AVPlayer ו-Core Audio של Apple והוא הנגן היומיומי רחב הפורמטים, עם ניגון רציף אמיתי ללא הפסקות, מעבר מדורג, אודיו מרחבי וייבוא ספריית Apple Music. Flacbox מוסיף מנוע אודיו BASS™ מקצועי ופענוח FFmpeg, שמביאים שרשרת DSP בת 14 מסננים, יותר אפקטים בזמן אמת, ניגון tracker/MOD ותמיכה רחבה ביותר בפורמטים ברזולוציה גבוהה ונטולי אובדן, כולל DSD, APE ו-WavPack.
+{{% /details %}}
+
+{{% details title="מה טוב יותר, Evermusic או Flacbox?" closed="true" %}}
+אף אחד מהם אינו טוב יותר באופן מוחלט; הם מכווננים למאזינים שונים. Evermusic טוב יותר להאזנה חלקה ויומיומית ולאנשים שמשתמשים גם בספריית Apple Music שלהם, בזכות ניגון רציף ללא הפסקות, מעבר מדורג ואודיו מרחבי. Flacbox טוב יותר לאודיופילים הרוצים עיצוב צליל מעמיק, מנוע אודיו מקצועי הניתן לבחירה, וכיסוי מרבי של פורמטים ברזולוציה גבוהה ונטולי אובדן.
+{{% /details %}}
+
+{{% details title="האם Evermusic משתמש ב-FFmpeg?" closed="true" %}}
+לא. Evermusic מנגן כולו דרך מחסנית האודיו המקורית של Apple, AVPlayer ו-Core Audio, כאשר Core Audio מטפל באפקטים ובעיבוד שלו. פענוח FFmpeg הוא תכונה של Flacbox, לצד מנוע BASS הניתן לבחירה של Flacbox.
+{{% /details %}}
+
+{{% details title="האם ל-Flacbox יש ניגון רציף ללא הפסקות או מעבר מדורג?" closed="true" %}}
+לא. ניגון רציף אמיתי ללא הפסקות ומעבר מדורג (1 עד 30 שניות) הם תכונות של Evermusic. Flacbox מתמקד במקום זאת בניגון ברזולוציה גבוהה, מנוע BASS מקצועי, מדף אפקטים ושרשרת DSP.
+{{% /details %}}
+
+{{% details title="איזה יישום טוב יותר ל-FLAC, DSD ו-APE?" closed="true" %}}
+Flacbox. שני היישומים מנגנים FLAC, אך Flacbox הוא המומחה לרזולוציה גבוהה ולאודיו נטול אובדן, עם תמיכה מובנית ב-FLAC, ALAC, DSD (DSF/DFF), APE, WavPack (WV), TTA, OPUS ועוד באמצעות FFmpeg ומנוע BASS™ שלו. הוא גם מציע שליטת פלט עדינה יותר להאזנה קריטית.
+{{% /details %}}
+
+{{% details title="לאיזה יישום יש יותר אפקטים אודיו ושרשרת DSP?" closed="true" %}}
+Flacbox. ל-Evermusic יש 6 אפקטים (Reverb, Delay, Distortion, Compressor, Crossfeed ונרמול עוצמה). ל-Flacbox יש 11 אפקטים (בתוספת Chorus, Flanger, Phaser, Auto-Wah, Stereo rotation ו-Multi-tap echo) בתוספת שרשרת DSP לבנייה עצמית בת 14 מסננים. שרשרת ה-DSP בלעדית ל-Flacbox.
+{{% /details %}}
+
+{{% details title="האם שני היישומים תומכים באותם שירותי ענן, שרתי מדיה ו-CarPlay?" closed="true" %}}
+כן. Evermusic ו-Flacbox מתחברים לאותו אחסון בענן (iCloud Drive, Google Drive, Dropbox, OneDrive, MEGA, pCloud, Internxt, Proton Drive ועוד), לאותם שרתי מדיה (Plex, Subsonic, Navidrome, Jellyfin, Emby), ולאותם פרוטוקולי מחשב ו-NAS (SMB, WebDAV, FTP, SFTP, NFS, DLNA), עם תמיכה מובנית ב-QNAP, Synology, Nextcloud ו-WD My Cloud Home. שניהם תומכים גם ב-Apple CarPlay, AirPlay ו-Google Chromecast.
+{{% /details %}}
+
+{{% details title="האם Evermusic יכול לנגן את ספריית Apple Music או iTunes שלי?" closed="true" %}}
+כן. Evermusic יכול לייבא ולנגן מוזיקה מספריית Apple Music / iTunes שלכם בנוסף למקורות ענן ורשת. Flacbox מיועד לקבצים שלכם ממקורות ענן, NAS ואחסון מקומי, ואינו מייבא את ספריית Apple Music.
+{{% /details %}}
+
+{{% details title="האם אפשר להשתמש ב-Evermusic וב-Flacbox יחד?" closed="true" %}}
+כן, ואנשים רבים עושים זאת. הגדרה נפוצה היא Evermusic לניגון יומיומי ורציף ולגישה לספריית Apple Music, ו-Flacbox להאזנה קריטית ברזולוציה גבוהה עם מנוע BASS, אפקטים ושרשרת DSP. שניהם קוראים מאותם מקורות ענן ו-NAS, כך שהספרייה שלכם זמינה בכל אחד מהיישומים. שניהם חינמיים להורדה עם שדרוגי Premium אופציונליים בתוך היישום.
+{{% /details %}}

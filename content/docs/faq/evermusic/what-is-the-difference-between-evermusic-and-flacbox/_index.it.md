@@ -1,136 +1,169 @@
 ---
 title: "Qual è la differenza tra Evermusic e Flacbox"
-date: 2020-02-02
-updated: 2024-12-08
-description: "Confronta Evermusic e Flacbox — due potenti lettori musicali per iOS e MacOS. Esplora le differenze nel supporto dei formati, qualità audio, controllo dell'output e funzionalità avanzate per trovare quello più adatto alle tue esigenze."
-keywords: ["Evermusic vs Flacbox", "confronto lettori audio", "app musicali iOS", "lettore FLAC", "AVPlayer vs FFmpeg", "audio lossless", "Evermusic", "Flacbox", "funzionalità lettore musicale", "impostazioni qualità audio"]
-tags: ["evermusic", "flacbox", "audio", "lossless", "crossfade", "differenza", "migliore", "scelta", "ffmpeg"]
-readingTime: 3
+date: 2026-07-23
+description: "Evermusic vs Flacbox nel 2026: un confronto dettagliato tra due lettori musicali per iPhone, iPad e Mac di Everappz. Evermusic è il lettore quotidiano dall'ampio supporto di formati, con vera riproduzione gapless, dissolvenza incrociata e audio spaziale, basato su Apple AVPlayer e Core Audio. Flacbox è lo specialista audiophile per l'alta risoluzione, con un motore professionale BASS, decodifica FFmpeg, una catena DSP a 14 filtri, undici effetti in tempo reale e riproduzione tracker/MOD. Confronta formati, motori, effetti, uscita e connessioni."
+keywords: ["Evermusic vs Flacbox", "Evermusic vs Flacbox 2026", "differenza tra Evermusic e Flacbox", "confronto lettori audio iPhone", "confronto lettori musicali iOS", "lettore FLAC iPhone", "lettore DSD iOS", "lettore APE iOS", "lettore WavPack", "lettore audio hi-res", "lettore musicale lossless", "motore audio BASS", "lettore musicale FFmpeg iOS", "catena DSP lettore musicale", "effetti audio in tempo reale iOS", "riproduzione gapless iPhone", "lettore musicale dissolvenza incrociata", "lettore musicale audio spaziale", "lettore tracker MOD iOS", "normalizzazione EBU R128", "lettore Core Audio", "Evermusic", "Flacbox", "lettore musicale cloud", "quale lettore musicale scegliere"]
+tags: ["evermusic", "flacbox", "audio", "lossless", "hi-res", "motore bass", "ffmpeg", "core audio", "dsp", "effetti audio", "gapless", "dissolvenza incrociata", "dsd", "ape", "wavpack", "tracker", "mod", "confronto", "differenza", "scelta"]
+readingTime: 6
 ---
 
+Evermusic e Flacbox sono due lettori musicali avanzati di Everappz per iPhone, iPad e Mac. Sono costruiti sulle stesse fondamenta, quindi si connettono agli stessi servizi cloud, media server e unità NAS, e condividono la stessa interfaccia, libreria e controlli di riproduzione. La differenza sta nel motore audio e nelle funzioni costruite su di esso. **Evermusic** è il lettore quotidiano dall'ampio supporto di formati, basato su AVPlayer e Core Audio di Apple e ottimizzato per un ascolto senza interruzioni con vera riproduzione gapless, dissolvenza incrociata, audio spaziale e importazione della libreria Apple Music. **Flacbox** è il lettore musicale hi-res, che aggiunge un motore audio professionale BASS™ e la decodifica diretta FFmpeg sopra il lettore di sistema, sbloccando una catena DSP personalizzata a 14 filtri, un rack di effetti in tempo reale più ampio, la riproduzione MOD e il più esteso supporto di formati ad alta risoluzione e lossless, incluso il DSD.
 
-Evermusic e Flacbox sono due applicazioni lettore musicale avanzate per iOS e MacOS. Sebbene entrambe siano costruite per aiutarti a gestire e godere della tua libreria musicale, ognuna offre funzionalità diverse adattate a esigenze specifiche — Evermusic è nota per il suo ampio supporto dei formati e la personalizzazione, mentre Flacbox si distingue per la riproduzione audio ad alta risoluzione e i controlli di precisione.
-
-Ecco un confronto affiancato delle loro funzionalità e capacità principali.
+**Risposta breve:** scegli **Evermusic** se desideri l'ascolto complessivo più fluido, transizioni gapless e in dissolvenza incrociata senza interruzioni e l'accesso alla tua libreria Apple Music. Scegli **Flacbox** se sei un audiophile che vuole una modellazione profonda del suono (un rack di effetti e una catena DSP), un motore audio professionale selezionabile e la massima copertura di formati hi-res e lossless, inclusi DSD, APE e WavPack.
 
 {{< cards >}}
-  {{< card link="https://apps.apple.com/us/app/evermusic-cloud-music-player/id885367198" title="Scarica Evermusic" icon="download" tag="Gratuito" >}}
-  {{< card link="https://apps.apple.com/us/app/flacbox-hi-res-music-player/id1097564256" title="Scarica Flacbox" icon="download" tag="Gratuito" >}}
+  {{< card link="https://apps.apple.com/us/app/evermusic-cloud-music-player/id885367198" title="Scarica Evermusic" icon="download" tag="Gratis" >}}
+  {{< card link="https://apps.apple.com/us/app/flacbox-hi-res-music-player/id1097564256" title="Scarica Flacbox" icon="download" tag="Gratis" >}}
 {{< /cards >}}
 
-## Tabella di confronto delle funzionalità
+## Tabella di confronto delle funzioni
 
-| Funzionalità | Evermusic | Flacbox |
+| Funzione | Evermusic | Flacbox |
 |--------|-----------|---------|
-| **Formati Audio Supportati** | Supporto esteso (MP3, AAC, WAV, M4A, ecc.) | Focalizzato su hi-res/lossless (FLAC, ALAC, DSD, APE, ecc.) |
-| **Codec Audio** | Codec di sistema (AVPlayer + CoreAudio) | Sistema + FFMPEG per un supporto codec più ampio |
-| **Frequenza di Campionamento Output** | Segue l'impostazione predefinita del sistema | 44,1 kHz, 48 kHz, 64 kHz, 88,2 kHz, 96 kHz |
-| **Canali Output** | Stereo | Mono, Stereo, 5.1, ITU BS.775-1, SDDS e altro |
-| **Correzione Pitch** | Non disponibile | Sì (Intervallo: da -1000 a +1000) |
-| **Modalità Output Audio** | Predefinita, Mista | Predefinita, Mista |
-| **Controllo Velocità di Riproduzione** | 0,25× – 3,0× | 0,25× – 3,0× |
-| **Equalizzatore** | EQ a 10 bande con preset | EQ a 10 bande con preset |
-| **Spatial Audio** | Sì | No |
-| **Algoritmi Pitch** | Dominio temporale, spettrale, varispeed | Non supportato |
-| **Riproduzione Crossfade** | Sì (1–30 sec) | No |
-| **Riproduzione Gapless** | Sì | No |
+| **Ideale per** | Ascolto quotidiano su librerie cloud grandi e miste, oltre ad Apple Music | Riproduzione audiophile hi-res e lossless con controllo approfondito del suono |
+| **Motori di riproduzione** | AVPlayer, Core Audio (Core Audio alimenta gli effetti). | AVPlayer, FFmpeg, BASS™ |
+| **Formati supportati** | MP3, AAC, M4A, M4B, ALAC, FLAC, Ogg Vorbis, WAV, AIFF, AC-3, CAF, MP4, AMR e altri | Tutto ciò che riproduce Evermusic, più DSD (DSF/DFF), APE, WavPack (WV), TTA, OPUS, WMA, Musepack (MPC) e tutti i formati decodificabili da FFmpeg (oltre 50) |
+| **Musica tracker / MOD** | No | Sì: MOD, XM, IT, S3M, MTM, UMX, MO3 |
+| **Vera riproduzione gapless** | Sì | No |
+| **Riproduzione con dissolvenza incrociata** | Sì, regolabile da 1 a 30 secondi | No |
+| **Audio spaziale** | Sì | No |
+| **Tonalità e tempo** | Algoritmi time-pitch (dominio del tempo, spettrale, varispeed) | Tonalità e tempo indipendenti tramite il motore BASS |
+| **Effetti audio in tempo reale** | Riverbero, Delay, Distorsione, Compressore, Crossfeed, Normalizzazione del volume | Riverbero (Freeverb), Eco multi-tap, Chorus, Flanger, Phaser, Auto-Wah, Distorsione, Compressore, Rotazione stereo, Crossfeed, Normalizzazione del volume |
+| **Catena DSP** | Nessuna | 14 filtri riordinabili: Gain, Passa-basso, Passa-alto, Passa-banda, Notch, Peaking, Low-shelf, High-shelf, Saturazione soft-clip, Bit crusher, Tremolo, Delay, Ring modulator, Ampiezza stereo |
+| **Visualizzatore musicale** | Sì | Sì |
+| **Normalizzazione del volume (EBU R128)** | Sì | Sì |
+| **Equalizzatore a 10 bande + import/export dei preset** | Sì | Sì |
+| **Frequenza di campionamento in uscita, canali, modalità mista** | Sì | Sì, più un'impostazione della durata preferita del buffer IO |
+| **Controllo della velocità di riproduzione** | Sì | Sì |
+| **Archiviazione cloud** | iCloud Drive, Google Drive, Dropbox, OneDrive, Box, MEGA, pCloud, Internxt, Proton Drive, Yandex Disk, MediaFire, Cloud Mail.ru, HiDrive, OpenDrive, Put.io, MyDrive, InfiniCLOUD, WD My Cloud Home, Baidu Cloud e altri | iCloud Drive, Google Drive, Dropbox, OneDrive, Box, MEGA, pCloud, Internxt, Proton Drive, Yandex Disk, MediaFire, Cloud Mail.ru, HiDrive, OpenDrive, Put.io, MyDrive, InfiniCLOUD, WD My Cloud Home, Baidu Cloud e altri |
+| **Media server** | Plex, Subsonic, Navidrome, Jellyfin, Emby | Plex, Subsonic, Navidrome, Jellyfin, Emby |
+| **Computer e NAS** | SMB, WebDAV, DLNA, FTP, SFTP, NFS; supporto nativo per QNAP, Synology Drive, Nextcloud, WD My Cloud Home | SMB, WebDAV, DLNA, FTP, SFTP, NFS; supporto nativo per QNAP, Synology Drive, Nextcloud, WD My Cloud Home |
+| **USB, locale e Wi-Fi** | Schede SD e unità USB (SanDisk iXpand), Condivisione file iTunes, trasferimento Wi-Fi | Schede SD e unità USB (SanDisk iXpand), Condivisione file iTunes, trasferimento Wi-Fi |
+| **Importazione libreria Apple Music / iTunes** | Sì | No |
+| **CarPlay, AirPlay, Chromecast, Widget, Testi, Last.fm, Editor tag** | Sì | Sì |
+
+## Motori di riproduzione
+
+**Evermusic** riproduce la tua musica interamente tramite lo stack audio nativo di Apple: AVPlayer per la riproduzione e Core Audio per l'elaborazione in tempo reale. Core Audio è ciò che alimenta i suoi effetti, l'equalizzatore, il passaggio gapless e l'audio spaziale. Non utilizza decoder di terze parti.
+
+**Flacbox** mantiene il lettore di sistema di Apple e aggiunge altri due motori per gli audiophile: FFmpeg per la decodifica diretta e ad ampio supporto di formati, e un motore audio professionale BASS™ selezionabile. Quando passi al motore BASS sblocchi l'intero kit di strumenti audiophile, incluso il rack di effetti in tempo reale, la catena DSP a 14 filtri, il ricampionamento di alta qualità, la tonalità e il tempo indipendenti e la riproduzione tracker/MOD. Avere tre motori tra cui scegliere è una funzione esclusiva di Flacbox.
 
 ## Formati di file supportati
 
-**Evermusic:**  
-Evermusic supporta un'ampia gamma di formati audio, tra cui mp3, aac, m4a, wav e molti altri. Fornisce un'ampia compatibilità con un elenco completo di formati, rendendolo versatile per utenti con raccolte musicali diversificate. L'elenco completo dei formati supportati: mpeg, aifc, 3gp, avi, aif, latm, 3gpp, m4a, loas, cdda, aac, m4p, m4b, ac3, pls, mp4v, m3u, m4r, aiff, xhe, mp1, snd, mp2, wav, qt, wave, m3u8, m4v, mp3, 3g2, caf, mp4, flac, au, w64, ec3, adts, amr, vtt, mpa, aa.
+**Evermusic** riproduce i formati decodificabili da AVPlayer e Core Audio di Apple, che coprono la stragrande maggioranza delle librerie quotidiane: MP3, AAC, M4A, M4B, ALAC, FLAC, Ogg Vorbis, WAV, AIFF, AC-3, CAF, MP4, AMR e altri. Il supporto per FLAC e Ogg Vorbis è stato aggiunto negli aggiornamenti recenti.
 
-**Flacbox:**  
-Flacbox si concentra principalmente sul supporto dei file FLAC (Free Lossless Audio Codec) ma include anche altri formati lossless come dsd, ape e alac. Si rivolge agli audiofili che preferiscono formati audio di alta qualità. L'elenco completo dei formati supportati: 3g2, 3gp, 3gp2, 3gpp, 8svx, aa, aac, aax, ac3, act, adt, adts, aif, aifc, aiff, alac, amr, amv, ape, asf, au, avi, awb, caf, cavs, cdda, cue, dct, dff, drc, dsf, dss, dvf, dvr-ms, ec3, f4a, f4b, f4p, f4v, flac, flv, gif, gifv, gsm, gxf, h261, h263, h264, ifv, iklax, ivf, ivs, l16, latm, loas, m2t, m2ts, m2v, m3u, m3u8, m4a, m4b, m4p, m4r, m4v, mka, mkv, mmf, mng, mod, mogg, mov, mp1, mp2, mp3, mp4, mp4v, mpa, mpc, mpe, mpeg, mpg, mpv, msv, mts, mxf, nsf, nsv, nut, oga, ogg, ogv, opus, pcm, pls, qt, ra, raw, rm, rmvb, roq, rv, sln, snd, svi, tod, tta, vob, voc, vox, vtt, w64, wav, wave, webm, wma, wmv, wv, xhe, xmv, y4m, yuv.
+**Flacbox** decodifica tutto ciò che riproduce Evermusic, e poi si estende molto oltre grazie a FFmpeg e al motore BASS™. Oltre ai formati comuni, gestisce nativamente DSD (DSF e DFF), APE, WavPack (WV), TTA, OPUS, WMA e Musepack (MPC), insieme a FLAC e ALAC, per un totale di oltre 50 estensioni supportate. È la scelta giusta per le raccolte ad alta risoluzione e lossless, ed è l'unico dei due a riprodurre musica tracker e module (MOD, XM, IT, S3M, MTM, UMX, MO3).
 
-## Codec Audio
+## Vera riproduzione gapless
 
-**Evermusic:**  
-Utilizza il codec audio integrato del sistema per la riproduzione: AVPlayer e CoreAudio.
+**Evermusic** offre una vera riproduzione gapless: nessuna pausa, clic o scatto tra i brani. Il motore mantiene due brani attivi contemporaneamente, pre-bufferizzando e decodificando il brano successivo mentre quello corrente è in riproduzione, per poi effettuare il passaggio tra i campioni audio su un ring buffer continuo. È ideale per album dal vivo, mix da DJ e concept album.
 
-**Flacbox:**  
-Impiega sia il codec audio integrato del sistema che FFMPEG, un framework multimediale noto per il suo ampio supporto codec. Questo migliora la sua capacità di gestire vari codec audio in modo efficace.
+**Flacbox** non offre la riproduzione gapless. Se le transizioni senza interruzioni tra un brano e l'altro sono la cosa più importante per te, Evermusic è la scelta migliore.
 
-## Frequenza di campionamento dell'output audio
+## Riproduzione con dissolvenza incrociata
 
-**Evermusic:**  
-Segue la frequenza di campionamento predefinita del sistema per l'output audio.
+**Evermusic** supporta la dissolvenza incrociata con una durata regolabile da 1 a 30 secondi, così un brano si fonde dolcemente nel successivo.
 
-**Flacbox:**  
-Offre una gamma di frequenze di campionamento, tra cui 44,1 kHz, 48 kHz, 64 kHz, 88,2 kHz e 96 kHz, consentendo agli utenti di scegliere la qualità di output preferita per un'esperienza di ascolto personalizzata.
+**Flacbox** non supporta la dissolvenza incrociata.
 
-## Numero di canali dell'output audio
+## Effetti audio in tempo reale
 
-**Evermusic:**  
-Supporta l'output audio stereo, offrendo un'esperienza di ascolto standard adatta alla maggior parte degli utenti.
+Entrambe le app elaborano gli effetti in tempo reale su qualsiasi cosa riproduci, inclusi gli stream cloud e le radio internet, senza ricodifica.
 
-**Flacbox:**  
-Offre diverse configurazioni di canali, tra cui Mono, Stereo, Centro/Sinistra/Destra, Centro/Sinistra/Destra/Surround, ITU BS.775-1, 5.1 Surround e SDDS. Questo si rivolge agli utenti con diverse configurazioni audio, inclusi i sistemi surround.
+**Evermusic** include 6 effetti, basati su Core Audio: Riverbero, Delay, Distorsione, Compressore, Crossfeed e Normalizzazione del volume.
 
-## Correzione Pitch
+**Flacbox** include 11 effetti, la maggior parte dei quali gira sul suo motore BASS™ con un controllo approfondito dei parametri per ogni effetto: Riverbero (Freeverb), un Eco multi-tap, Chorus, Flanger, Phaser, Auto-Wah, Distorsione, Compressore, Rotazione stereo, Crossfeed e Normalizzazione del volume. Se ti piace scolpire il tuo suono, Flacbox ha il rack di effetti più ampio e più capace.
 
-**Evermusic:**  
-Non include la funzionalità di correzione pitch.
+## Catena DSP
 
-**Flacbox:**  
-Dispone della correzione pitch con un intervallo da -1000 a +1000, consentendo agli utenti di regolare il pitch in base alle proprie preferenze ed esigenze.
+**Flacbox** include una catena DSP personalizzabile di 14 filtri in tempo reale che puoi aggiungere, rimuovere e riordinare: Gain, Passa-basso, Passa-alto, Passa-banda, Notch, Peaking, Low-shelf, High-shelf, Saturazione soft-clip, Bit crusher, Tremolo, Delay, Ring modulator e Ampiezza stereo. Usala per correggere l'acustica di una stanza, addolcire una registrazione aspra o progettare un timbro completamente personalizzato.
 
-## Modalità di output audio
+**Evermusic** non include una catena DSP. Questa è una funzione esclusiva di Flacbox, pensata per gli audiophile.
 
-**Evermusic:**  
-Fornisce modalità di output audio predefinite e miste per opzioni di riproduzione flessibili.
+## Visualizzatore musicale
 
-**Flacbox:**  
-Offre modalità di output audio predefinite e miste, migliorando il controllo dell'utente sulle configurazioni di output audio.
+Entrambe le app includono un visualizzatore musicale a schermo intero e in tempo reale che reagisce dal vivo al tuo audio, con un'ampia libreria di preset tra cui scegliere o da lasciar scorrere. Funziona su iPhone, iPad e Mac.
 
-## Velocità di riproduzione
+## Normalizzazione del volume
 
-**Evermusic:**  
-Supporta regolazioni della velocità di riproduzione che vanno da 0,25× a 3,0×, consentendo agli utenti di controllare il tempo della riproduzione musicale.
+Sia **Evermusic** che **Flacbox** includono la normalizzazione del volume basata sul loudness utilizzando lo standard EBU R128 (ITU-R BS.1770). A differenza di ReplayGain, non richiede tag e non modifica i tuoi file, quindi mantiene i brani a un volume costante anche sugli stream cloud e sulle radio internet.
 
-**Flacbox:**  
-Consente anche regolazioni della velocità di riproduzione da 0,25× a 3,0×, fornendo opzioni di controllo della velocità simili per gli utenti.
+## Tonalità, tempo e audio spaziale
 
-## Equalizzatore Audio
+**Evermusic** offre l'audio spaziale e algoritmi time-pitch avanzati (dominio del tempo, spettrale e varispeed) per un'elaborazione di alta qualità di tempo e tonalità su Core Audio.
 
-**Evermusic:**  
-Include un equalizzatore audio a 10 bande con preset, consentendo agli utenti di personalizzare il loro output audio per adattarsi a diversi generi musicali e preferenze.
+**Flacbox** offre il controllo indipendente di tonalità e tempo tramite il suo motore BASS™, permettendoti di cambiare la velocità senza cambiare la tonalità, o la tonalità senza cambiare la velocità. Non include l'audio spaziale. Entrambe le app ti consentono di regolare la velocità di riproduzione.
 
-**Flacbox:**  
-Dispone di un equalizzatore audio a 10 bande con preset, offrendo un controllo preciso delle impostazioni audio per gli audiofili che cercano la migliore qualità del suono possibile.
+## Controllo dell'uscita
 
-## Impostazioni Spatial Audio
+Entrambe le app ti permettono di scegliere una frequenza di campionamento in uscita personalizzata, configurare i canali di uscita e selezionare la modalità di uscita predefinita o mista. Flacbox aggiunge un'impostazione della durata preferita del buffer IO per un controllo più fine della bassa latenza, in linea con la sua vocazione audiophile. Entrambe includono un equalizzatore grafico a 10 bande con preset, guadagno di preamplificazione e import ed export dei preset.
 
-**Evermusic:**  
-Supporta le impostazioni di spatial audio, migliorando l'esperienza di ascolto immersiva, soprattutto quando si utilizza attrezzatura audio compatibile.
+## Connessioni (identiche in entrambe le app)
 
-**Flacbox:**  
-Non offre impostazioni di spatial audio ma eccelle nella riproduzione di audio lossless di alta qualità.
+Poiché Evermusic e Flacbox condividono lo stesso livello di connessione, queste funzionano in modo identico in entrambe:
 
-## Algoritmo Pitch Audio
+- **Archiviazione cloud:** iCloud Drive, Google Drive, Dropbox, OneDrive, Box, MEGA, pCloud, Internxt, Proton Drive, Yandex Disk, MediaFire, Cloud Mail.ru, HiDrive, OpenDrive, Put.io, MyDrive, InfiniCLOUD, WD My Cloud Home, Baidu Cloud e altri.
+- **Media server:** Plex, Subsonic, Navidrome, Jellyfin ed Emby.
+- **Computer e NAS:** SMB, WebDAV, DLNA, FTP, SFTP e NFS, con supporto nativo per QNAP, Synology Drive, Nextcloud e WD My Cloud Home.
+- **USB, locale e Wi-Fi:** schede SD e chiavette USB tramite lettori come il SanDisk iXpand, Condivisione file iTunes e trasferimento wireless Wi-Fi.
+- **Casting e automobili:** Apple CarPlay, AirPlay e Google Chromecast.
+- **Libreria e strumenti:** widget nella schermata Home, testi incorporati e sincronizzati, un editor di tag ID3 integrato, scrobbling Last.fm, download offline e un file manager completo.
 
-**Evermusic:**  
-Utilizza vari algoritmi di pitch audio, tra cui dominio temporale, spettrale e varispeed, per l'elaborazione audio avanzata.
+L'unica differenza di connessione: Evermusic può importare e riprodurre la tua libreria Apple Music / iTunes, mentre Flacbox si concentra solo sui tuoi file da sorgenti cloud, di rete e locali.
 
-**Flacbox:**  
-Non supporta algoritmi di pitch audio specifici ma offre la correzione pitch.
+## Cosa dovresti scegliere?
 
-## Riproduzione Crossfade
+**Scegli Evermusic se:**
 
-**Evermusic:**  
-Supporta la riproduzione crossfade con durate regolabili che vanno da 1 a 30 secondi, consentendo transizioni fluide tra i brani.
+- Vuoi l'ascolto quotidiano più fluido con vera riproduzione gapless e dissolvenza incrociata.
+- Usi l'audio spaziale.
+- Vuoi integrare la tua libreria Apple Music / iTunes insieme ai file cloud.
+- Hai una raccolta grande e mista e vuoi un lettore veloce e senza complicazioni.
 
-**Flacbox:**  
-Non supporta la riproduzione crossfade.
+**Scegli Flacbox se:**
 
-## Riproduzione Gapless
+- Sei un audiophile con una libreria hi-res e lossless (FLAC, DSD, APE, ALAC, WavPack).
+- Vuoi un motore professionale BASS™ o FFmpeg selezionabile.
+- Vuoi un rack di 11 effetti e una catena DSP a 14 filtri per una modellazione profonda del suono.
+- Vuoi riprodurre musica tracker/MOD, o hai bisogno di un controllo più fine dell'uscita a bassa latenza.
 
-**Evermusic:**  
-Fornisce la riproduzione gapless per garantire che le canzoni vengano riprodotte senza interruzioni o silenzi in mezzo.
+Molti ascoltatori usano entrambe: Evermusic per la riproduzione quotidiana e senza interruzioni e per l'accesso alla libreria Apple Music, e Flacbox per l'ascolto critico ad alta risoluzione con il pieno controllo del suono.
+Entrambe sono gratuite da scaricare con upgrade Premium opzionali, ed entrambe si connettono agli account cloud che già possiedi.
 
-**Flacbox:**  
-Non fornisce funzionalità di riproduzione gapless.
+## Domande frequenti
 
-## Cosa scegliere?
+{{% details title="Qual è la differenza principale tra Evermusic e Flacbox?" closed="true" %}}
+Condividono la stessa piattaforma e le stesse connessioni, ma il lato audio è diverso. Evermusic gira su AVPlayer e Core Audio di Apple ed è il lettore quotidiano dall'ampio supporto di formati, con vera riproduzione gapless, dissolvenza incrociata, audio spaziale e importazione della libreria Apple Music. Flacbox aggiunge un motore audio professionale BASS™ e la decodifica FFmpeg, che portano una catena DSP a 14 filtri, più effetti in tempo reale, la riproduzione tracker/MOD e il più esteso supporto di formati hi-res e lossless, inclusi DSD, APE e WavPack.
+{{% /details %}}
 
-In conclusione, la tua scelta tra Evermusic e Flacbox dipende dalla composizione specifica della tua libreria musicale e dalle tue preferenze. Se hai una raccolta musicale diversificata che include formati audio popolari e richiede funzionalità di crossfade e spatial audio, Evermusic è una scelta adatta. D'altra parte, se dai priorità ai formati audio lossless, alle impostazioni avanzate dell'output audio e alla correzione pitch, Flacbox è l'opzione consigliata per gli audiofili e gli utenti che cercano un controllo preciso sulla riproduzione musicale.
+{{% details title="È meglio Evermusic o Flacbox?" closed="true" %}}
+Nessuno dei due è oggettivamente migliore; sono ottimizzati per ascoltatori diversi. Evermusic è migliore per un ascolto fluido e quotidiano e per chi usa anche la propria libreria Apple Music, grazie alla riproduzione gapless, alla dissolvenza incrociata e all'audio spaziale. Flacbox è migliore per gli audiophile che vogliono una modellazione profonda del suono, un motore audio professionale selezionabile e la massima copertura di formati hi-res e lossless.
+{{% /details %}}
+
+{{% details title="Evermusic usa FFmpeg?" closed="true" %}}
+No. Evermusic riproduce interamente tramite lo stack audio nativo di Apple, AVPlayer e Core Audio, con Core Audio che gestisce i suoi effetti e l'elaborazione. La decodifica FFmpeg è una funzione di Flacbox, insieme al motore BASS selezionabile di Flacbox.
+{{% /details %}}
+
+{{% details title="Flacbox ha la riproduzione gapless o la dissolvenza incrociata?" closed="true" %}}
+No. La vera riproduzione gapless e la dissolvenza incrociata (da 1 a 30 secondi) sono funzioni di Evermusic. Flacbox si concentra invece sulla riproduzione ad alta risoluzione, su un motore professionale BASS, su un rack di effetti e su una catena DSP.
+{{% /details %}}
+
+{{% details title="Quale app è migliore per FLAC, DSD e APE?" closed="true" %}}
+Flacbox. Entrambe le app riproducono FLAC, ma Flacbox è lo specialista dell'alta risoluzione e del lossless, con supporto nativo per FLAC, ALAC, DSD (DSF/DFF), APE, WavPack (WV), TTA, OPUS e altro tramite FFmpeg e il suo motore BASS™. Offre inoltre un controllo dell'uscita più fine per l'ascolto critico.
+{{% /details %}}
+
+{{% details title="Quale app ha più effetti audio e una catena DSP?" closed="true" %}}
+Flacbox. Evermusic ha 6 effetti (Riverbero, Delay, Distorsione, Compressore, Crossfeed e Normalizzazione del volume). Flacbox ha 11 effetti (aggiungendo Chorus, Flanger, Phaser, Auto-Wah, Rotazione stereo e un Eco multi-tap) più una catena DSP personalizzabile a 14 filtri. La catena DSP è esclusiva di Flacbox.
+{{% /details %}}
+
+{{% details title="Entrambe le app supportano gli stessi servizi cloud, media server e CarPlay?" closed="true" %}}
+Sì. Evermusic e Flacbox si connettono alla stessa archiviazione cloud (iCloud Drive, Google Drive, Dropbox, OneDrive, MEGA, pCloud, Internxt, Proton Drive e altri), agli stessi media server (Plex, Subsonic, Navidrome, Jellyfin, Emby) e agli stessi protocolli per computer e NAS (SMB, WebDAV, FTP, SFTP, NFS, DLNA), con supporto nativo per QNAP, Synology, Nextcloud e WD My Cloud Home. Entrambe supportano inoltre Apple CarPlay, AirPlay e Google Chromecast.
+{{% /details %}}
+
+{{% details title="Evermusic può riprodurre la mia libreria Apple Music o iTunes?" closed="true" %}}
+Sì. Evermusic può importare e riprodurre musica dalla tua libreria Apple Music / iTunes oltre alle sorgenti cloud e di rete. Flacbox è progettato per i tuoi file da cloud, NAS e archiviazione locale, e non importa la libreria Apple Music.
+{{% /details %}}
+
+{{% details title="Posso usare Evermusic e Flacbox insieme?" closed="true" %}}
+Sì, e molte persone lo fanno. Una configurazione comune è Evermusic per la riproduzione quotidiana e senza interruzioni e per l'accesso alla libreria Apple Music, e Flacbox per l'ascolto critico ad alta risoluzione con il motore BASS, gli effetti e la catena DSP. Entrambe leggono dalle stesse sorgenti cloud e NAS, quindi la tua libreria è disponibile in entrambe le app. Entrambe sono gratuite da scaricare con upgrade Premium opzionali in-app.
+{{% /details %}}

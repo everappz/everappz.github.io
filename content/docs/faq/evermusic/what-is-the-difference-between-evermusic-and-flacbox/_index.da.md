@@ -1,136 +1,169 @@
 ---
 title: "Hvad er forskellen mellem Evermusic og Flacbox"
-date: 2020-02-02
-updated: 2024-12-08
-description: "Sammenlign Evermusic og Flacbox — to kraftfulde musikafspillere til iOS og MacOS. Udforsk forskellene i formatsupport, lydkvalitet, outputstyring og avancerede funktioner for at finde den, der passer bedst til dine behov."
-keywords: ["Evermusic vs Flacbox", "sammenligning af lydafspillere", "iOS musikapps", "FLAC-afspiller", "AVPlayer vs FFmpeg", "tabsfrit lyd", "Evermusic", "Flacbox", "musikafspillerfunktioner", "lydkvalitetsindstillinger"]
-tags: ["evermusic", "flacbox", "lyd", "tabsfrit", "crossfade", "forskel", "bedre", "valg", "ffmpeg"]
-readingTime: 3
+date: 2026-07-23
+description: "Evermusic vs Flacbox i 2026: en detaljeret sammenligning af to musikafspillere til iPhone, iPad og Mac fra Everappz. Evermusic er den brede hverdagsafspiller med bred formatunderstøttelse og ægte pausefri afspilning, crossfade og spatial audio, drevet af Apple AVPlayer og Core Audio. Flacbox er den audiofile hi-res-specialist med en professionel BASS-motor, FFmpeg-afkodning, en DSP-kæde med 14 filtre, elleve realtidseffekter og tracker/MOD-afspilning. Sammenlign formater, motorer, effekter, output og forbindelser."
+keywords: ["Evermusic vs Flacbox", "Evermusic vs Flacbox 2026", "forskel mellem Evermusic og Flacbox", "sammenligning af lydafspillere iPhone", "sammenligning af iOS-musikafspillere", "FLAC-afspiller iPhone", "DSD-afspiller iOS", "APE-afspiller iOS", "WavPack-afspiller", "hi-res-lydafspiller", "tabsfri musikafspiller", "BASS-lydmotor", "FFmpeg-musikafspiller iOS", "DSP-kæde musikafspiller", "realtidslydeffekter iOS", "pausefri afspilning iPhone", "crossfade-musikafspiller", "spatial audio-musikafspiller", "tracker MOD-afspiller iOS", "EBU R128-normalisering", "Core Audio-afspiller", "Evermusic", "Flacbox", "cloud-musikafspiller", "hvilken musikafspiller skal jeg vælge"]
+tags: ["evermusic", "flacbox", "lyd", "tabsfri", "hi-res", "bass-motor", "ffmpeg", "core audio", "dsp", "lydeffekter", "pausefri", "crossfade", "dsd", "ape", "wavpack", "tracker", "mod", "sammenligning", "forskel", "valg"]
+readingTime: 6
 ---
 
+Evermusic og Flacbox er to avancerede musikafspillere fra Everappz til iPhone, iPad og Mac. De er bygget på samme fundament, så de forbinder til de samme cloud-tjenester, medieservere og NAS-drev, og de deler samme brugerflade, bibliotek og afspilningsstyring. Forskellen er lydmotoren og de funktioner, der er bygget ovenpå den. **Evermusic** er den brede hverdagsafspiller, drevet af Apples AVPlayer og Core Audio og optimeret til problemfri lytning med ægte pausefri afspilning, crossfade, spatial audio og import af Apple Music-bibliotek. **Flacbox** er hi-res-musikafspilleren, som oven på systemafspilleren tilføjer en professionel BASS™-lydmotor og direkte FFmpeg-afkodning, hvilket låser op for en tilpasset DSP-kæde med 14 filtre, et større realtidseffektrack, MOD-afspilning og den bredeste understøttelse af højopløselige og tabsfrie formater, herunder DSD.
 
-Evermusic og Flacbox er to avancerede musikafspiller-apps til iOS og MacOS. Selvom begge er bygget til at hjælpe dig med at administrere og nyde dit musikbibliotek, tilbyder hver app forskellige funktioner skræddersyet til specifikke behov. Evermusic er kendt for sit brede formatsupport og tilpasning, mens Flacbox skiller sig ud med højtopløselig lydafspilning og præcisionsstyring.
-
-Her er en sammenligning af deres kernefunktioner og muligheder.
+**Kort svar:** vælg **Evermusic**, hvis du vil have den mest jævne allround-lytning, problemfrie pausefri- og crossfade-overgange og adgang til dit Apple Music-bibliotek. Vælg **Flacbox**, hvis du er audiofil og ønsker dyb lydformning (et effektrack og en DSP-kæde), en valgbar professionel lydmotor og maksimal dækning af hi-res- og tabsfrie formater, herunder DSD, APE og WavPack.
 
 {{< cards >}}
-  {{< card link="https://apps.apple.com/us/app/evermusic-cloud-music-player/id885367198" title="Download Evermusic" icon="download" tag="Gratis" >}}
-  {{< card link="https://apps.apple.com/us/app/flacbox-hi-res-music-player/id1097564256" title="Download Flacbox" icon="download" tag="Gratis" >}}
+  {{< card link="https://apps.apple.com/us/app/evermusic-cloud-music-player/id885367198" title="Hent Evermusic" icon="download" tag="Gratis" >}}
+  {{< card link="https://apps.apple.com/us/app/flacbox-hi-res-music-player/id1097564256" title="Hent Flacbox" icon="download" tag="Gratis" >}}
 {{< /cards >}}
 
-## Tabel med funktionssammenligning
+## Funktionssammenligningstabel
 
 | Funktion | Evermusic | Flacbox |
 |--------|-----------|---------|
-| **Understøttede lydformater** | Omfattende support (MP3, AAC, WAV, M4A osv.) | Fokuseret på høj opløsning/tabsfrit (FLAC, ALAC, DSD, APE osv.) |
-| **Lydkodekar** | Systemkodekar (AVPlayer + CoreAudio) | System + FFMPEG for bredere kodek-support |
-| **Output-samplingsfrekvens** | Følger systemstandard | 44,1 kHz, 48 kHz, 64 kHz, 88,2 kHz, 96 kHz |
-| **Output-kanaler** | Stereo | Mono, Stereo, 5.1, ITU BS.775-1, SDDS og mere |
-| **Tonekorrektion** | Ikke tilgængelig | Ja (interval: -1000 til +1000) |
-| **Lydoutput-tilstande** | Standard, Blandet | Standard, Blandet |
-| **Styring af afspilningshastighed** | 0,25× – 3,0× | 0,25× – 3,0× |
-| **Equalizer** | 10-bands EQ med forudindstillinger | 10-bands EQ med forudindstillinger |
-| **Rumlig lyd** | Ja | Nej |
-| **Tone-algoritmer** | Tidsdomæne, spektral, varispeed | Ikke understøttet |
-| **Crossfade-afspilning** | Ja (1–30 sek.) | Nej |
-| **Gapless-afspilning** | Ja | Nej |
+| **Bedst til** | Hverdagslytning på tværs af store, blandede cloud-biblioteker, samt Apple Music | Audiofil hi-res- og tabsfri afspilning med dyb lydkontrol |
+| **Afspilningsmotorer** | AVPlayer, Core Audio (Core Audio driver effekterne). | AVPlayer, FFmpeg, BASS™ |
+| **Understøttede formater** | MP3, AAC, M4A, M4B, ALAC, FLAC, Ogg Vorbis, WAV, AIFF, AC-3, CAF, MP4, AMR og flere | Alt det, Evermusic afspiller, samt DSD (DSF/DFF), APE, WavPack (WV), TTA, OPUS, WMA, Musepack (MPC) og alle FFmpeg-afkodelige formater (50+) |
+| **Tracker-/MOD-musik** | Nej | Ja: MOD, XM, IT, S3M, MTM, UMX, MO3 |
+| **Ægte pausefri afspilning** | Ja | Nej |
+| **Crossfade-afspilning** | Ja, justerbar fra 1 til 30 sekunder | Nej |
+| **Spatial audio** | Ja | Nej |
+| **Toneleje og tempo** | Time-pitch-algoritmer (tidsdomæne, spektral, varispeed) | Uafhængigt toneleje og tempo via BASS-motoren |
+| **Realtidslydeffekter** | Rumklang, Delay, Forvrængning, Kompressor, Crossfeed, Lydstyrkenormalisering | Rumklang (Freeverb), Multi-tap-ekko, Chorus, Flanger, Phaser, Auto-Wah, Forvrængning, Kompressor, Stereorotation, Crossfeed, Lydstyrkenormalisering |
+| **DSP-kæde** | Ingen | 14 filtre, der kan omarrangeres: Gain, Low-pass, High-pass, Band-pass, Notch, Peaking, Low-shelf, High-shelf, Soft-clip-mætning, Bit crusher, Tremolo, Delay, Ringmodulator, Stereobredde |
+| **Musikvisualisering** | Ja | Ja |
+| **Lydstyrkenormalisering (EBU R128)** | Ja | Ja |
+| **10-bånds equalizer + import/eksport af presets** | Ja | Ja |
+| **Output-samplingsfrekvens, kanaler, blandet tilstand** | Ja | Ja, samt en indstilling for foretrukken IO buffer-varighed |
+| **Kontrol af afspilningshastighed** | Ja | Ja |
+| **Cloud-lagring** | iCloud Drive, Google Drive, Dropbox, OneDrive, Box, MEGA, pCloud, Internxt, Proton Drive, Yandex Disk, MediaFire, Cloud Mail.ru, HiDrive, OpenDrive, Put.io, MyDrive, InfiniCLOUD, WD My Cloud Home, Baidu Cloud og flere | iCloud Drive, Google Drive, Dropbox, OneDrive, Box, MEGA, pCloud, Internxt, Proton Drive, Yandex Disk, MediaFire, Cloud Mail.ru, HiDrive, OpenDrive, Put.io, MyDrive, InfiniCLOUD, WD My Cloud Home, Baidu Cloud og flere |
+| **Medieservere** | Plex, Subsonic, Navidrome, Jellyfin, Emby | Plex, Subsonic, Navidrome, Jellyfin, Emby |
+| **Computer og NAS** | SMB, WebDAV, DLNA, FTP, SFTP, NFS; native QNAP, Synology Drive, Nextcloud, WD My Cloud Home | SMB, WebDAV, DLNA, FTP, SFTP, NFS; native QNAP, Synology Drive, Nextcloud, WD My Cloud Home |
+| **USB, lokalt og Wi-Fi** | SD-kort og USB-drev (SanDisk iXpand), iTunes-fildeling, Wi-Fi-overførsel | SD-kort og USB-drev (SanDisk iXpand), iTunes-fildeling, Wi-Fi-overførsel |
+| **Import af Apple Music-/iTunes-bibliotek** | Ja | Nej |
+| **CarPlay, AirPlay, Chromecast, widgets, sangtekster, Last.fm, tag-editor** | Ja | Ja |
+
+## Afspilningsmotorer
+
+**Evermusic** afspiller din musik udelukkende gennem Apples native lydstak: AVPlayer til afspilning og Core Audio til realtidsbehandling. Core Audio er det, der driver dens effekter, equalizer, pausefri overgang og spatial audio. Den bruger ingen tredjeparts-afkodere.
+
+**Flacbox** beholder Apples systemafspiller og tilføjer to yderligere motorer til audiofile: FFmpeg til direkte afkodning med bred formatunderstøttelse og en valgbar professionel BASS™-lydmotor. Når du skifter til BASS-motoren, låser du op for hele det audiofile værktøjssæt, herunder realtidseffektracket, DSP-kæden med 14 filtre, resampling af høj kvalitet, uafhængigt toneleje og tempo samt tracker-/MOD-afspilning. At have tre motorer at vælge imellem er en funktion, der kun findes i Flacbox.
 
 ## Understøttede filformater
 
-**Evermusic:**
-Evermusic understøtter en bred vifte af lydformater, herunder mp3, aac, m4a, wav og mange andre. Det giver omfattende kompatibilitet med en komplet liste over formater, hvilket gør det alsidigt for brugere med forskelligartede musiksamlinger. Den fulde liste over understøttede formater: mpeg, aifc, 3gp, avi, aif, latm, 3gpp, m4a, loas, cdda, aac, m4p, m4b, ac3, pls, mp4v, m3u, m4r, aiff, xhe, mp1, snd, mp2, wav, qt, wave, m3u8, m4v, mp3, 3g2, caf, mp4, flac, au, w64, ec3, adts, amr, vtt, mpa, aa.
+**Evermusic** afspiller de formater, der kan afkodes af Apples AVPlayer og Core Audio, hvilket dækker langt størstedelen af hverdagsbiblioteker: MP3, AAC, M4A, M4B, ALAC, FLAC, Ogg Vorbis, WAV, AIFF, AC-3, CAF, MP4, AMR og flere. Understøttelse af FLAC og Ogg Vorbis blev tilføjet i nyere opdateringer.
 
-**Flacbox:**
-Flacbox fokuserer primært på FLAC-filsupport (Free Lossless Audio Codec), men inkluderer også andre tabsfrie formater som dsd, ape og alac. Det henvender sig til audiofiler, der foretrækker lydformater af høj kvalitet. Den fulde liste over understøttede formater: 3g2, 3gp, 3gp2, 3gpp, 8svx, aa, aac, aax, ac3, act, adt, adts, aif, aifc, aiff, alac, amr, amv, ape, asf, au, avi, awb, caf, cavs, cdda, cue, dct, dff, drc, dsf, dss, dvf, dvr-ms, ec3, f4a, f4b, f4p, f4v, flac, flv, gif, gifv, gsm, gxf, h261, h263, h264, ifv, iklax, ivf, ivs, l16, latm, loas, m2t, m2ts, m2v, m3u, m3u8, m4a, m4b, m4p, m4r, m4v, mka, mkv, mmf, mng, mod, mogg, mov, mp1, mp2, mp3, mp4, mp4v, mpa, mpc, mpe, mpeg, mpg, mpv, msv, mts, mxf, nsf, nsv, nut, oga, ogg, ogv, opus, pcm, pls, qt, ra, raw, rm, rmvb, roq, rv, sln, snd, svi, tod, tta, vob, voc, vox, vtt, w64, wav, wave, webm, wma, wmv, wv, xhe, xmv, y4m, yuv.
+**Flacbox** afkoder alt det, Evermusic kan, og udvider derefter meget videre via FFmpeg og BASS™-motoren. Oven på de gængse formater understøtter den nativt DSD (DSF og DFF), APE, WavPack (WV), TTA, OPUS, WMA og Musepack (MPC), ved siden af FLAC og ALAC, til i alt over 50 understøttede filtypeendelser. Den er det rette valg til højopløselige og tabsfrie samlinger, og den er den eneste af de to, der afspiller tracker- og modulmusik (MOD, XM, IT, S3M, MTM, UMX, MO3).
 
-## Lydkodekar
+## Ægte pausefri afspilning
 
-**Evermusic:**
-Anvender systemets indbyggede lydkodek til afspilning: AVPlayer og CoreAudio.
+**Evermusic** leverer ægte pausefri afspilning: ingen pause, klik eller tik mellem numre. Motoren holder to numre aktive på én gang, forbufferer og afkoder det næste nummer, mens det aktuelle spiller, og overgår derefter mellem lydsamples på en kontinuerlig ringbuffer. Dette er ideelt til livealbum, DJ-mix og konceptalbum.
 
-**Flacbox:**
-Benytter både systemets indbyggede lydkodek og FFMPEG, et multimedie-framework kendt for sin omfattende kodek-support. Dette forbedrer dets evne til effektivt at håndtere forskellige lydkodekar.
-
-## Lydoutput-samplingsfrekvens
-
-**Evermusic:**
-Følger systemets standardsamplingsfrekvens for lydoutput.
-
-**Flacbox:**
-Tilbyder en række samplingsfrekvenser, herunder 44,1 kHz, 48 kHz, 64 kHz, 88,2 kHz og 96 kHz, hvilket giver brugerne mulighed for at vælge den foretrukne outputkvalitet for en tilpasset lytteoplevelse.
-
-## Antal lydoutput-kanaler
-
-**Evermusic:**
-Understøtter stereo-lydoutput, som giver en standardlytteoplevelse, der er velegnet til de fleste brugere.
-
-**Flacbox:**
-Tilbyder flere kanalkonfigurationer, herunder Mono, Stereo, Center/Venstre/Højre, Center/Venstre/Højre/Surround, ITU BS.775-1, 5.1 Surround og SDDS. Dette imødekommer brugere med forskellige lydopsætninger, herunder surround sound-systemer.
-
-## Tonekorrektion
-
-**Evermusic:**
-Inkluderer ikke tonekorrektionsfunktionalitet.
-
-**Flacbox:**
-Har tonekorrektion med et interval fra -1000 til +1000, hvilket giver brugerne mulighed for at justere tonen i henhold til deres præferencer og behov.
-
-## Lydoutput-tilstande
-
-**Evermusic:**
-Giver standard og blandet lydoutput-tilstande for fleksible afspilningsmuligheder.
-
-**Flacbox:**
-Tilbyder standard og blandet lydoutput-tilstande, hvilket forbedrer brugerens kontrol over lydoutput-konfigurationer.
-
-## Afspilningshastighed
-
-**Evermusic:**
-Understøtter justeringer af afspilningshastighed fra 0,25× til 3,0×, hvilket giver brugerne mulighed for at styre tempoet i deres musikafspilning.
-
-**Flacbox:**
-Tillader også justeringer af afspilningshastighed fra 0,25× til 3,0× og giver lignende hastighedsstyringsfunktioner for brugere.
-
-## Lyd-equalizer
-
-**Evermusic:**
-Inkluderer en 10-bands lyd-equalizer med forudindstillinger, der giver brugerne mulighed for at tilpasse lydoutputtet til forskellige musikgenrer og præferencer.
-
-**Flacbox:**
-Udstyrer en 10-bands lyd-equalizer med forudindstillinger og tilbyder finindstillet kontrol over lydindstillinger for audiofiler, der søger den bedst mulige lydkvalitet.
-
-## Rumlig lyd-indstillinger
-
-**Evermusic:**
-Understøtter rumlige lyd-indstillinger, hvilket forbedrer den fordybende lytteoplevelse, især når du bruger kompatibelt lydudstyr.
-
-**Flacbox:**
-Tilbyder ikke rumlige lyd-indstillinger, men udmærker sig ved at levere tabsfrit lyd af høj kvalitet.
-
-## Lydtone-algoritme
-
-**Evermusic:**
-Anvender forskellige lydtone-algoritmer, herunder tidsdomæne, spektral og varispeed, til avanceret lydbehandling.
-
-**Flacbox:**
-Understøtter ikke specifikke lydtone-algoritmer, men tilbyder tonekorrektion.
+**Flacbox** tilbyder ikke pausefri afspilning. Hvis problemfrie overgange fra nummer til nummer betyder mest for dig, er Evermusic det bedre valg.
 
 ## Crossfade-afspilning
 
-**Evermusic:**
-Understøtter crossfade-afspilning med justerbare varigheder fra 1 til 30 sekunder, hvilket muliggør problemfri overgange mellem numre.
+**Evermusic** understøtter crossfade med en justerbar varighed fra 1 til 30 sekunder, så ét nummer glider jævnt over i det næste.
 
-**Flacbox:**
-Understøtter ikke crossfade-afspilning.
+**Flacbox** understøtter ikke crossfade.
 
-## Gapless-afspilning
+## Realtidslydeffekter
 
-**Evermusic:**
-Giver gapless-afspilning for at sikre, at sange afspilles uden afbrydelser eller stilhed imellem dem.
+Begge apps behandler effekter i realtid på alt, du afspiller, herunder cloud-streams og internetradio, uden genindkodning.
 
-**Flacbox:**
-Giver ikke gapless-afspilningsfunktionalitet.
+**Evermusic** leveres med 6 effekter, bygget på Core Audio: Rumklang, Delay, Forvrængning, Kompressor, Crossfeed og Lydstyrkenormalisering.
 
-## Hvad skal man vælge?
+**Flacbox** leveres med 11 effekter, hvoraf de fleste kører på dens BASS™-motor med dyb parameterkontrol pr. effekt: Rumklang (Freeverb), et Multi-tap-ekko, Chorus, Flanger, Phaser, Auto-Wah, Forvrængning, Kompressor, Stereorotation, Crossfeed og Lydstyrkenormalisering. Hvis du kan lide at forme din lyd, har Flacbox det større og mere kapable effektrack.
 
-Sammenfattende afhænger dit valg mellem Evermusic og Flacbox af din specifikke musikbibliotekssammensætning og præferencer. Hvis du har en forskelligartet musiksamling, der inkluderer populære lydformater og kræver crossfade- og rumlige lyd-funktioner, er Evermusic et passende valg. På den anden side, hvis du prioriterer tabsfrie lydformater, avancerede lydoutput-indstillinger og tonekorrektion, er Flacbox den anbefalede mulighed for audiofiler og brugere, der søger præcis kontrol over deres musikafspilning.
+## DSP-kæde
+
+**Flacbox** indeholder en byg-selv-DSP-kæde med 14 realtidsfiltre, som du kan tilføje, fjerne og omarrangere: Gain, Low-pass, High-pass, Band-pass, Notch, Peaking, Low-shelf, High-shelf, Soft-clip-mætning, Bit crusher, Tremolo, Delay, Ringmodulator og Stereobredde. Brug den til at korrigere et rum, tæmme en skarp optagelse eller designe en helt tilpasset tone.
+
+**Evermusic** indeholder ikke en DSP-kæde. Dette er en funktion, der kun findes i Flacbox og er rettet mod audiofile.
+
+## Musikvisualisering
+
+Begge apps indeholder en realtids-musikvisualisering i fuld skærm, der reagerer live på din lyd, med et stort bibliotek af presets, du kan vælge imellem eller lade skifte automatisk. Den kører på iPhone, iPad og Mac.
+
+## Lydstyrkenormalisering
+
+Både **Evermusic** og **Flacbox** indeholder lydstyrkenormalisering baseret på loudness ved brug af standarden EBU R128 (ITU-R BS.1770). I modsætning til ReplayGain kræver den ingen tags og ændrer ikke dine filer, så den holder numre på en ensartet lydstyrke, selv ved cloud-streams og internetradio.
+
+## Toneleje, tempo og spatial audio
+
+**Evermusic** tilbyder spatial audio og avancerede time-pitch-algoritmer (tidsdomæne, spektral og varispeed) til tempo- og tonelejebehandling af høj kvalitet på Core Audio.
+
+**Flacbox** tilbyder uafhængig kontrol af toneleje og tempo gennem dens BASS™-motor, så du kan ændre hastighed uden at ændre toneart eller ændre toneart uden at ændre hastighed. Den indeholder ikke spatial audio. Begge apps lader dig justere afspilningshastigheden.
+
+## Outputkontrol
+
+Begge apps lader dig vælge en tilpasset output-samplingsfrekvens, konfigurere outputkanaler og vælge standard- eller blandede outputtilstande. Flacbox tilføjer en indstilling for foretrukken IO buffer-varighed til finere kontrol med lav latenstid, i tråd med dens audiofile fokus. Begge indeholder en 10-bånds grafisk equalizer med presets, preamp-gain og import og eksport af presets.
+
+## Forbindelser (de samme i begge apps)
+
+Fordi Evermusic og Flacbox deler samme forbindelseslag, fungerer disse identisk i begge:
+
+- **Cloud-lagring:** iCloud Drive, Google Drive, Dropbox, OneDrive, Box, MEGA, pCloud, Internxt, Proton Drive, Yandex Disk, MediaFire, Cloud Mail.ru, HiDrive, OpenDrive, Put.io, MyDrive, InfiniCLOUD, WD My Cloud Home, Baidu Cloud og flere.
+- **Medieservere:** Plex, Subsonic, Navidrome, Jellyfin og Emby.
+- **Computer og NAS:** SMB, WebDAV, DLNA, FTP, SFTP og NFS, med native understøttelse af QNAP, Synology Drive, Nextcloud og WD My Cloud Home.
+- **USB, lokalt og Wi-Fi:** SD-kort og USB-flashdrev via læsere som SanDisk iXpand, iTunes-fildeling og trådløs Wi-Fi-overførsel.
+- **Casting og biler:** Apple CarPlay, AirPlay og Google Chromecast.
+- **Bibliotek og værktøjer:** widgets til startskærmen, indlejrede og tidsstyrede sangtekster, en indbygget ID3-tag-editor, Last.fm-scrobbling, offline-downloads og en komplet filhåndtering.
+
+Den ene forbindelsesforskel: Evermusic kan importere og afspille dit Apple Music-/iTunes-bibliotek, mens Flacbox udelukkende fokuserer på dine egne filer fra cloud-, netværks- og lokale kilder.
+
+## Hvad skal du vælge?
+
+**Vælg Evermusic, hvis du:**
+
+- Vil have den mest jævne hverdagslytning med ægte pausefri afspilning og crossfade.
+- Bruger spatial audio.
+- Vil bringe dit Apple Music-/iTunes-bibliotek ind ved siden af cloud-filer.
+- Har en stor, blandet samling og ønsker en hurtig, ubesværet afspiller.
+
+**Vælg Flacbox, hvis du:**
+
+- Er audiofil med et hi-res- og tabsfrit bibliotek (FLAC, DSD, APE, ALAC, WavPack).
+- Vil have en valgbar professionel BASS™-motor eller FFmpeg-motor.
+- Vil have et effektrack med 11 effekter og en DSP-kæde med 14 filtre til dyb lydformning.
+- Vil afspille tracker-/MOD-musik eller har brug for finere outputkontrol med lav latenstid.
+
+Mange lyttere bruger begge: Evermusic til daglig, problemfri afspilning og adgang til Apple Music-biblioteket, og Flacbox til kritisk lytning i høj opløsning med fuld lydkontrol.
+Begge er gratis at hente med valgfri Premium-opgraderinger, og begge forbinder til de cloud-konti, du allerede har.
+
+## Ofte stillede spørgsmål
+
+{{% details title="Hvad er den vigtigste forskel mellem Evermusic og Flacbox?" closed="true" %}}
+De deler samme platform og forbindelser, men lydsiden er forskellig. Evermusic kører på Apples AVPlayer og Core Audio og er den brede hverdagsafspiller med ægte pausefri afspilning, crossfade, spatial audio og import af Apple Music-bibliotek. Flacbox tilføjer en professionel BASS™-lydmotor og FFmpeg-afkodning, som bringer en DSP-kæde med 14 filtre, flere realtidseffekter, tracker-/MOD-afspilning og den bredeste understøttelse af hi-res- og tabsfrie formater, herunder DSD, APE og WavPack.
+{{% /details %}}
+
+{{% details title="Er Evermusic eller Flacbox bedst?" closed="true" %}}
+Ingen af dem er strengt taget bedre; de er optimeret til forskellige lyttere. Evermusic er bedre til jævn hverdagslytning og til folk, der også bruger deres Apple Music-bibliotek, takket være pausefri afspilning, crossfade og spatial audio. Flacbox er bedre til audiofile, der vil have dyb lydformning, en valgbar professionel lydmotor og maksimal dækning af hi-res- og tabsfrie formater.
+{{% /details %}}
+
+{{% details title="Bruger Evermusic FFmpeg?" closed="true" %}}
+Nej. Evermusic afspiller udelukkende gennem Apples native lydstak, AVPlayer og Core Audio, hvor Core Audio håndterer dens effekter og behandling. FFmpeg-afkodning er en Flacbox-funktion, ved siden af Flacbox' valgbare BASS-motor.
+{{% /details %}}
+
+{{% details title="Har Flacbox pausefri afspilning eller crossfade?" closed="true" %}}
+Nej. Ægte pausefri afspilning og crossfade (1 til 30 sekunder) er Evermusic-funktioner. Flacbox fokuserer i stedet på afspilning i høj opløsning, en professionel BASS-motor, et effektrack og en DSP-kæde.
+{{% /details %}}
+
+{{% details title="Hvilken app er bedst til FLAC, DSD og APE?" closed="true" %}}
+Flacbox. Begge apps afspiller FLAC, men Flacbox er specialisten i høj opløsning og tabsfri lyd, med native understøttelse af FLAC, ALAC, DSD (DSF/DFF), APE, WavPack (WV), TTA, OPUS og flere gennem FFmpeg og dens BASS™-motor. Den tilbyder også finere outputkontrol til kritisk lytning.
+{{% /details %}}
+
+{{% details title="Hvilken app har flere lydeffekter og en DSP-kæde?" closed="true" %}}
+Flacbox. Evermusic har 6 effekter (Rumklang, Delay, Forvrængning, Kompressor, Crossfeed og Lydstyrkenormalisering). Flacbox har 11 effekter (med tilføjelse af Chorus, Flanger, Phaser, Auto-Wah, Stereorotation og et Multi-tap-ekko) plus en byg-selv-DSP-kæde med 14 filtre. DSP-kæden er eksklusiv for Flacbox.
+{{% /details %}}
+
+{{% details title="Understøtter begge apps de samme cloud-tjenester, medieservere og CarPlay?" closed="true" %}}
+Ja. Evermusic og Flacbox forbinder til den samme cloud-lagring (iCloud Drive, Google Drive, Dropbox, OneDrive, MEGA, pCloud, Internxt, Proton Drive og flere), de samme medieservere (Plex, Subsonic, Navidrome, Jellyfin, Emby) og de samme computer- og NAS-protokoller (SMB, WebDAV, FTP, SFTP, NFS, DLNA), med native understøttelse af QNAP, Synology, Nextcloud og WD My Cloud Home. Begge understøtter også Apple CarPlay, AirPlay og Google Chromecast.
+{{% /details %}}
+
+{{% details title="Kan Evermusic afspille mit Apple Music- eller iTunes-bibliotek?" closed="true" %}}
+Ja. Evermusic kan importere og afspille musik fra dit Apple Music-/iTunes-bibliotek ud over cloud- og netværkskilder. Flacbox er designet til dine egne filer fra cloud, NAS og lokal lagring og importerer ikke Apple Music-biblioteket.
+{{% /details %}}
+
+{{% details title="Kan jeg bruge både Evermusic og Flacbox sammen?" closed="true" %}}
+Ja, og det gør mange. En almindelig opsætning er Evermusic til daglig, problemfri afspilning og adgang til Apple Music-biblioteket, og Flacbox til kritisk lytning i høj opløsning med BASS-motoren, effekterne og DSP-kæden. Begge læser fra de samme cloud- og NAS-kilder, så dit bibliotek er tilgængeligt i begge apps. Begge er gratis at hente med valgfrie Premium-opgraderinger i appen.
+{{% /details %}}
