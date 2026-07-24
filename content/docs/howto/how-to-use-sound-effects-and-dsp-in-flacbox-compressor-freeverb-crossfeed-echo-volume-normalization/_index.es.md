@@ -9,6 +9,8 @@ readingTime: 30
 
 {{< author-byline >}}
 
+{{< full-width-tables >}}
+
 **Respuesta corta:** En Flacbox eliges un **Motor de reproducción** en **Ajustes > Reproductor de audio**: **Standard** (el motor del sistema de Apple), **Universal** (el motor FFmpeg) o **Sound FX** (el **motor BASS™**). El motor que elijas decide qué formatos de archivo se reproducen, así que la elección importa. El motor **Sound FX** reproduce formatos adicionales que la mayoría de las apps de iPhone omiten (FLAC, DSD, WavPack, APE, Musepack, TrueAudio, Opus y la vieja **música MOD y de tracker** como MOD, XM, IT y S3M), y es el único motor que activa las herramientas de sonido: un **ecualizador de 10 bandas**, **Normalización de volumen**, **Compressor**, **Freeverb**, **Auto Wah**, **Phaser**, **Flanger**, **Echo**, **Chorus**, **Distortion**, **Rotate**, **Crossfeed** y una **cadena de DSP** que construyes tú mismo. Así que, para usar los efectos de esta guía, primero configura tu Motor de reproducción en **Sound FX**. Cada herramienta tiene **preajustes** ya preparados. Ábrelos en **Ajustes > Reproductor de audio** (Efectos de audio, Ecualizador de audio, Procesamiento de señal), o toca el botón **⋯ (Más)** en el reproductor y elige **Efectos de audio**. Nada de lo que hagas aquí cambia nunca tus archivos.
 
 > Las explicaciones de los controles deslizantes y los preajustes que aparecen abajo son las mismas descripciones breves que Flacbox te muestra dentro de la app, combinadas con un poco de contexto adicional para que tengas el panorama completo antes de tocar.

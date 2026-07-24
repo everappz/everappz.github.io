@@ -9,6 +9,8 @@ readingTime: 30
 
 {{< author-byline >}}
 
+{{< full-width-tables >}}
+
 **Lyhyt vastaus:** Flacboxissa valitset yhden **toistomoottorin** kohdasta **Asetukset > Äänisoitin**: **Standard** (Applen järjestelmämoottori), **Universal** (FFmpeg-moottori) tai **Sound FX** (**BASS™-moottori**). Valitsemasi moottori määrää, mitkä tiedostomuodot toistuvat, joten valinnalla on väliä. **Sound FX** -moottori toistaa lisäformaatteja, jotka useimmat iPhone-sovellukset ohittavat (FLAC, DSD, WavPack, APE, Musepack, TrueAudio, Opus sekä vanha **MOD- ja trackermusiikki** kuten MOD, XM, IT ja S3M), ja se on ainoa moottori, joka käyttää äänityökaluja: **10-kaistainen taajuuskorjain**, **äänenvoimakkuuden normalisointi**, **kompressori**, **Freeverb**, **Auto Wah**, **Phaser**, **Flanger**, **kaiku**, **Chorus**, **säröytys**, **kierto**, **ristisyöttö** ja itse rakennettava **DSP-ketju**. Jotta voisit siis käyttää tämän oppaan tehosteita, aseta toistomoottoriksi ensin **Sound FX**. Jokaisella työkalulla on valmiit **esiasetukset**. Avaa ne kohdasta **Asetukset > Äänisoitin** (Äänitehosteet, Äänen taajuuskorjain, Signaalinkäsittely), tai napauta soittimen **⋯ (Lisää)** -painiketta ja valitse **Äänitehosteet**. Mikään täällä tekemäsi ei koskaan muuta tiedostojasi.
 
 > Alla olevat liukusäätimien ja esiasetusten selitykset ovat samat lyhyet kuvaukset, jotka Flacbox näyttää sinulle sovelluksen sisällä, täydennettynä pienellä lisätaustalla, jotta saat kokonaiskuvan ennen napautusta.

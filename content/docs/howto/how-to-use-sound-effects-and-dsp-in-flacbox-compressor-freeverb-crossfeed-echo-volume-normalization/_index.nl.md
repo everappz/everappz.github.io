@@ -9,6 +9,8 @@ readingTime: 30
 
 {{< author-byline >}}
 
+{{< full-width-tables >}}
+
 **Kort antwoord:** In Flacbox kies je één **Afspeelengine** in **Instellingen > Audiospeler**: **Standard** (de systeemengine van Apple), **Universal** (de FFmpeg-engine), of **Sound FX** (de **BASS™-engine**). De engine die je kiest bepaalt welke bestandsformaten worden afgespeeld, dus de keuze doet ertoe. De **Sound FX**-engine speelt extra formaten af die de meeste iPhone-apps overslaan (FLAC, DSD, WavPack, APE, Musepack, TrueAudio, Opus, en oude **MOD- en trackermuziek** zoals MOD, XM, IT en S3M), en het is de enige engine die de geluidstools aandrijft: een **10-bands equalizer**, **Volumenormalisatie**, **Compressor**, **Freeverb**, **Auto Wah**, **Phaser**, **Flanger**, **Echo**, **Chorus**, **Distortion**, **Rotate**, **Crossfeed**, en een zelf te bouwen **DSP-keten**. Om de effecten uit deze gids te gebruiken, zet je je Afspeelengine dus eerst op **Sound FX**. Elke tool heeft kant-en-klare **presets**. Open ze in **Instellingen > Audiospeler** (Audio-effecten, Audio-equalizer, Signaalverwerking), of tik op de **⋯ (Meer)**-knop in de speler en kies **Audio-effecten**. Niets wat je hier doet verandert ooit je bestanden.
 
 > De uitleg over de schuifregelaars en presets hieronder bevat dezelfde korte beschrijvingen die Flacbox je in de app toont, aangevuld met wat extra achtergrond zodat je het volledige beeld hebt voordat je tikt.

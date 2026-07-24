@@ -9,6 +9,8 @@ readingTime: 30
 
 {{< author-byline >}}
 
+{{< full-width-tables >}}
+
 **Krátka odpoveď:** Vo Flacboxe si zvolíte jeden **Prehrávací engine** v **Nastavenia > Audio prehrávač**: **Standard** (systémový engine od Apple), **Universal** (engine FFmpeg) alebo **Sound FX** (**engine BASS™**). Engine, ktorý zvolíte, rozhoduje o tom, ktoré formáty súborov sa prehrajú, takže na tejto voľbe záleží. Engine **Sound FX** prehráva ďalšie formáty, ktoré väčšina iPhone aplikácií vynecháva (FLAC, DSD, WavPack, APE, Musepack, TrueAudio, Opus a staré **MOD a tracker hudbu** ako MOD, XM, IT a S3M) a je jediným enginom, ktorý poháňa zvukové nástroje: **10-pásmový ekvalizér**, **Volume Normalization**, **Compressor**, **Freeverb**, **Auto Wah**, **Phaser**, **Flanger**, **Echo**, **Chorus**, **Distortion**, **Rotate**, **Crossfeed** a vlastný **DSP reťazec**. Ak teda chcete používať efekty z tohto sprievodcu, najprv nastavte svoj Prehrávací engine na **Sound FX**. Každý nástroj má hotové **presety**. Otvorte ich v **Nastavenia > Audio prehrávač** (Zvukové efekty, Zvukový ekvalizér, Spracovanie signálu) alebo ťuknite na tlačidlo **⋯ (Viac)** na prehrávači a zvoľte **Zvukové efekty**. Nič z toho, čo tu urobíte, nikdy nezmení vaše súbory.
 
 > Vysvetlenia posuvníkov a presetov nižšie sú tie isté krátke popisy, ktoré vám Flacbox zobrazuje v aplikácii, obohatené o trochu ďalšieho kontextu, aby ste mali úplný obraz skôr, než ťuknete.

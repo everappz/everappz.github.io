@@ -9,6 +9,8 @@ readingTime: 30
 
 {{< author-byline >}}
 
+{{< full-width-tables >}}
+
 **Kısa cevap:** Flacbox'ta **Ayarlar > Ses çalar** içinde bir **Oynatma motoru** seçersiniz: **Standard** (Apple'ın sistem motoru), **Universal** (FFmpeg motoru) veya **Sound FX** (**BASS™ motoru**). Seçtiğiniz motor hangi dosya formatlarının çalacağına karar verir, bu yüzden seçim önemlidir. **Sound FX** motoru, çoğu iPhone uygulamasının atladığı ek formatları çalar (FLAC, DSD, WavPack, APE, Musepack, TrueAudio, Opus ve MOD, XM, IT ve S3M gibi eski **MOD ve tracker müziği**) ve ses araçlarını çalıştıran tek motordur: **10 bantlı ekolayzer**, **Ses Normalizasyonu**, **Compressor**, **Freeverb**, **Auto Wah**, **Phaser**, **Flanger**, **Echo**, **Chorus**, **Distortion**, **Rotate**, **Crossfeed** ve kendi kendinize kurduğunuz bir **DSP zinciri**. Yani bu rehberdeki efektleri kullanmak için önce Oynatma motorunuzu **Sound FX** olarak ayarlayın. Her aracın hazır **ön ayarları** vardır. Bunları **Ayarlar > Ses çalar** içinde açın (Ses efektleri, Ses ekolayzeri, Sinyal işleme) veya çalarda **⋯ (Daha fazla eylem)** düğmesine dokunup **Ses efektleri**'ni seçin. Burada yaptığınız hiçbir şey dosyalarınızı asla değiştirmez.
 
 > Aşağıdaki sürgü ve ön ayar açıklamaları, Flacbox'ın uygulama içinde size gösterdiği kısa açıklamaların aynısıdır ve dokunmadan önce tam bir resim elde etmeniz için biraz ek arka plan bilgisiyle harmanlanmıştır.

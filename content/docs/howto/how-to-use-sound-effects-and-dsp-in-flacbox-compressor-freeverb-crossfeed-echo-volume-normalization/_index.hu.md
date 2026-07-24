@@ -9,6 +9,8 @@ readingTime: 30
 
 {{< author-byline >}}
 
+{{< full-width-tables >}}
+
 **Rövid válasz:** A Flacboxban egyetlen **Lejátszási motort** választasz a **Beállítások > Audiolejátszó** menüben: **Standard** (az Apple rendszermotorja), **Universal** (az FFmpeg motor) vagy **Sound FX** (a **BASS™ motor**). A választott motor dönti el, mely fájlformátumok játszhatók le, ezért a döntés számít. A **Sound FX** motor olyan extra formátumokat játszik le, amelyeket a legtöbb iPhone-alkalmazás kihagy (FLAC, DSD, WavPack, APE, Musepack, TrueAudio, Opus, és régi **MOD és tracker zenét**, mint a MOD, XM, IT és S3M), és ez az egyetlen motor, amely a hangeszközöket működteti: egy **10 sávos hangszínszabályzót**, **hangerő-normalizálást**, **kompresszort**, **Freeverbet**, **Auto Wah-t**, **Phasert**, **Flangert**, **visszhangot**, **Chorust**, **torzítást**, **Rotate-et**, **Crossfeedet** és egy saját összeállítású **DSP-láncot**. Tehát ahhoz, hogy ebben az útmutatóban szereplő effekteket használd, először állítsd a Lejátszási motort **Sound FX**-re. Minden eszköznek vannak kész **presetjei**. Nyisd meg őket a **Beállítások > Audiolejátszó** menüben (Hangeffektek, Hangszínszabályzó, Jelfeldolgozás), vagy koppints a lejátszón a **⋯ (Több)** gombra, és válaszd a **Hangeffektek** lehetőséget. Semmi, amit itt teszel, sosem változtatja meg a fájljaidat.
 
 > Az alábbi csúszka- és preset-magyarázatok ugyanazok a rövid leírások, amelyeket a Flacbox az alkalmazáson belül mutat, kiegészítve egy kis háttérrel, hogy koppintás előtt teljes képet kapj.

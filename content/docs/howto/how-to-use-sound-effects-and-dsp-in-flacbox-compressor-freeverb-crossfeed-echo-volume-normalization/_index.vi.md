@@ -9,6 +9,8 @@ readingTime: 30
 
 {{< author-byline >}}
 
+{{< full-width-tables >}}
+
 **Câu trả lời ngắn gọn:** Trong Flacbox bạn chọn một **Công cụ phát** trong **Cài đặt > Trình phát âm thanh**: **Standard** (công cụ hệ thống của Apple), **Universal** (công cụ FFmpeg), hoặc **Sound FX** (**công cụ BASS™**). Công cụ bạn chọn quyết định định dạng tệp nào phát được, nên lựa chọn này rất quan trọng. Công cụ **Sound FX** phát thêm những định dạng mà hầu hết ứng dụng iPhone bỏ qua (FLAC, DSD, WavPack, APE, Musepack, TrueAudio, Opus, và nhạc **MOD và tracker** cũ như MOD, XM, IT và S3M), và đây là công cụ duy nhất cung cấp các công cụ âm thanh: **bộ chỉnh âm 10 dải**, **Chuẩn hóa âm lượng**, **Compressor**, **Freeverb**, **Auto Wah**, **Phaser**, **Flanger**, **Echo**, **Chorus**, **Distortion**, **Rotate**, **Crossfeed**, và một **chuỗi DSP** tự dựng. Vậy nên để dùng các hiệu ứng trong hướng dẫn này, hãy đặt Công cụ phát của bạn thành **Sound FX** trước. Mỗi công cụ đều có sẵn các **cài đặt sẵn**. Mở chúng trong **Cài đặt > Trình phát âm thanh** (Hiệu ứng âm thanh, Bộ chỉnh âm, Xử lý tín hiệu), hoặc chạm nút **⋯ (Thêm)** trên trình phát và chọn **Hiệu ứng âm thanh**. Không có thao tác nào ở đây làm thay đổi tệp của bạn.
 
 > Phần giải thích thanh trượt và cài đặt sẵn dưới đây chính là những mô tả ngắn mà Flacbox hiển thị cho bạn trong ứng dụng, kết hợp thêm một chút bối cảnh để bạn có bức tranh đầy đủ trước khi chạm.

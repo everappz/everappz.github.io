@@ -9,6 +9,8 @@ readingTime: 30
 
 {{< author-byline >}}
 
+{{< full-width-tables >}}
+
 **Krótka odpowiedź:** W Flacbox wybierasz jeden **Silnik odtwarzania** w **Ustawienia > Odtwarzacz audio**: **Standard** (systemowy silnik Apple), **Universal** (silnik FFmpeg) lub **Sound FX** (**silnik BASS™**). Wybrany silnik decyduje, które formaty plików się odtwarzają, więc wybór ma znaczenie. Silnik **Sound FX** odtwarza dodatkowe formaty, które większość aplikacji na iPhone pomija (FLAC, DSD, WavPack, APE, Musepack, TrueAudio, Opus oraz starą **muzykę MOD i trackerową** jak MOD, XM, IT i S3M) i jest jedynym silnikiem, który zasila narzędzia dźwiękowe: **10-pasmowy korektor**, **Normalizację głośności**, **Kompresor**, **Freeverb**, **Auto Wah**, **Phaser**, **Flanger**, **Echo**, **Chorus**, **Distortion**, **Rotate**, **Crossfeed** oraz własny **łańcuch DSP**. Aby więc korzystać z efektów w tym przewodniku, najpierw ustaw silnik odtwarzania na **Sound FX**. Każde narzędzie ma gotowe **presety**. Otwórz je w **Ustawienia > Odtwarzacz audio** (Efekty audio, Korektor audio, Przetwarzanie sygnału) lub dotknij przycisku **⋯ (Więcej)** na odtwarzaczu i wybierz **Efekty audio**. Nic, co tu robisz, nigdy nie zmienia Twoich plików.
 
 > Wyjaśnienia suwaków i presetów poniżej to te same krótkie opisy, które Flacbox pokazuje Ci wewnątrz aplikacji, wzbogacone o odrobinę dodatkowego tła, abyś miał pełny obraz, zanim dotkniesz.

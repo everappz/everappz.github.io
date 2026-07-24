@@ -9,6 +9,8 @@ readingTime: 30
 
 {{< author-byline >}}
 
+{{< full-width-tables >}}
+
 **Kratki odgovor:** U Flacboxu odaberete jedan **Motor reprodukcije** u **Postavke > Audio player**: **Standard** (Appleov sustavski motor), **Universal** (FFmpeg motor) ili **Sound FX** (**BASS™ motor**). Motor koji odaberete određuje koji se formati datoteka reproduciraju, pa je izbor bitan. **Sound FX** motor reproducira dodatne formate koje većina iPhone aplikacija preskače (FLAC, DSD, WavPack, APE, Musepack, TrueAudio, Opus i staru **MOD i tracker glazbu** poput MOD, XM, IT i S3M), i to je jedini motor koji pokreće zvučne alate: **10-pojasni ekvalizator**, **Normalizaciju glasnoće**, **Kompresor**, **Freeverb**, **Auto Wah**, **Phaser**, **Flanger**, **Echo**, **Chorus**, **Distorziju**, **Rotate**, **Crossfeed** i izgradite-svoj **DSP lanac**. Dakle, da biste koristili efekte u ovom vodiču, prvo postavite Motor reprodukcije na **Sound FX**. Svaki alat ima gotove **presete**. Otvorite ih u **Postavke > Audio player** (Audio efekti, Audio ekvalizator, Obrada signala) ili dodirnite gumb **⋯ (Više)** na reproduktoru i odaberite **Audio efekti**. Ništa što ovdje učinite nikada ne mijenja vaše datoteke.
 
 > Objašnjenja klizača i preseta u nastavku iste su kratke opise koje vam Flacbox prikazuje unutar aplikacije, uz malo dodatne pozadine kako biste dobili potpunu sliku prije nego što dodirnete.

@@ -9,6 +9,8 @@ readingTime: 30
 
 {{< author-byline >}}
 
+{{< full-width-tables >}}
+
 **Răspuns scurt:** În Flacbox alegeți un singur **Motor de redare** în **Setări > Player audio**: **Standard** (motorul de sistem Apple), **Universal** (motorul FFmpeg) sau **Sound FX** (**motorul BASS™**). Motorul pe care îl alegeți decide ce formate de fișiere se redau, așa că alegerea contează. Motorul **Sound FX** redă formate suplimentare pe care majoritatea aplicațiilor iPhone le omit (FLAC, DSD, WavPack, APE, Musepack, TrueAudio, Opus și vechea **muzică MOD și tracker** precum MOD, XM, IT și S3M) și este singurul motor care pune în funcțiune instrumentele de sunet: un **egalizator cu 10 benzi**, **Normalizarea volumului**, **Compressor**, **Freeverb**, **Auto Wah**, **Phaser**, **Flanger**, **Echo**, **Chorus**, **Distortion**, **Rotate**, **Crossfeed** și un **lanț DSP** pe care îl construiți singur. Așadar, pentru a folosi efectele din acest ghid, setați mai întâi Motorul de redare pe **Sound FX**. Fiecare instrument are **presetări** gata făcute. Deschideți-le în **Setări > Player audio** (Efecte audio, Egalizator audio, Procesare semnal) sau atingeți butonul **⋯ (Mai multe)** din player și alegeți **Efecte audio**. Nimic din ce faceți aici nu vă modifică vreodată fișierele.
 
 > Explicațiile pentru cursoare și presetări de mai jos sunt aceleași descrieri scurte pe care Flacbox vi le afișează în aplicație, îmbinate cu puțin context suplimentar, astfel încât să aveți imaginea completă înainte de a atinge.

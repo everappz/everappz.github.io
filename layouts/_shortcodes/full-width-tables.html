@@ -1,0 +1,7 @@
+{{- /*
+  full-width-tables: makes every markdown table on the current page render at the
+  same (full container) width. Scoped to the page it is used on. Usage: {{< full-width-tables >}}
+*/ -}}
+<style>
+main table, article table, .hextra-content table { display: table; width: 100%; table-layout: auto; }
+</style>

@@ -9,6 +9,8 @@ readingTime: 30
 
 {{< author-byline >}}
 
+{{< full-width-tables >}}
+
 **簡短回答：** 在 Flacbox 中，你要在 **設定 > 音訊播放器** 裡選擇一個 **播放引擎**：**Standard**（Apple 的系統引擎）、**Universal**（FFmpeg 引擎）或 **Sound FX**（**BASS™ 引擎**）。你選的引擎決定了哪些檔案格式能播放，所以這個選擇很重要。**Sound FX** 引擎能播放多數 iPhone 應用程式跳過的額外格式（FLAC、DSD、WavPack、APE、Musepack、TrueAudio、Opus，以及像 MOD、XM、IT、S3M 這類老式的 **MOD 與 tracker 音樂**），而且它是唯一能驅動這些聲音工具的引擎：**10 段等化器**、**音量正規化**、**壓縮器**、**Freeverb**、**Auto Wah**、**Phaser**、**Flanger**、**回音**、**Chorus**、**失真**、**Rotate**、**Crossfeed**，以及自訂的 **DSP 鏈**。所以要使用本指南中的效果，請先把你的播放引擎設成 **Sound FX**。每個工具都有現成的 **預設**。你可以在 **設定 > 音訊播放器**（音效、音訊等化器、訊號處理）中開啟它們，或在播放器上點按 **⋯（更多操作）** 按鈕並選擇 **音效**。你在這裡所做的任何操作都不會改變你的檔案。
 
 > 下方對滑桿和預設的說明，與 Flacbox 在應用程式內顯示給你的簡短說明相同，並加入了一點額外背景資訊，讓你在點按之前先掌握全貌。

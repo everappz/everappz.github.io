@@ -9,6 +9,8 @@ readingTime: 30
 
 {{< author-byline >}}
 
+{{< full-width-tables >}}
+
 **Jawapan ringkas:** Dalam Flacbox anda memilih satu **Enjin main balik** dalam **Tetapan > Pemain audio**: **Standard** (enjin sistem Apple), **Universal** (enjin FFmpeg), atau **Sound FX** (**enjin BASS™**). Enjin yang anda pilih menentukan format fail yang dimainkan, jadi pilihan itu penting. Enjin **Sound FX** memainkan format tambahan yang kebanyakan aplikasi iPhone langkau (FLAC, DSD, WavPack, APE, Musepack, TrueAudio, Opus, dan muzik **MOD dan tracker** lama seperti MOD, XM, IT, dan S3M), dan ia adalah satu-satunya enjin yang menggerakkan alat bunyi: **penyama 10 jalur**, **Penormalan Kelantangan**, **Compressor**, **Freeverb**, **Auto Wah**, **Phaser**, **Flanger**, **Echo**, **Chorus**, **Distortion**, **Rotate**, **Crossfeed**, dan **rantaian DSP** yang boleh anda bina sendiri. Jadi untuk menggunakan kesan dalam panduan ini, tetapkan Enjin main balik anda kepada **Sound FX** dahulu. Setiap alat mempunyai **pratetap** siap sedia. Buka ia dalam **Tetapan > Pemain audio** (Kesan audio, Penyama audio, Pemprosesan isyarat), atau ketik butang **⋯ (Lebih banyak tindakan)** pada pemain dan pilih **Kesan audio**. Tiada apa yang anda lakukan di sini akan mengubah fail anda.
 
 > Penjelasan gelangsar dan pratetap di bawah adalah huraian ringkas yang sama seperti yang ditunjukkan Flacbox di dalam aplikasi, digabungkan dengan sedikit latar belakang tambahan supaya anda mendapat gambaran penuh sebelum anda mengetik.

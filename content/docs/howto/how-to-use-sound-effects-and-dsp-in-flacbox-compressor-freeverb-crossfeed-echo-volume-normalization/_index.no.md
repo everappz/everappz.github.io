@@ -9,6 +9,8 @@ readingTime: 30
 
 {{< author-byline >}}
 
+{{< full-width-tables >}}
+
 **Kort svar:** I Flacbox velger du én **Avspillingsmotor** i **Innstillinger > Lydspiller**: **Standard** (Apples systemmotor), **Universal** (FFmpeg-motoren) eller **Sound FX** (**BASS™-motoren**). Motoren du velger avgjør hvilke filformater som spilles, så valget betyr noe. **Sound FX**-motoren spiller ekstra formater som de fleste iPhone-apper hopper over (FLAC, DSD, WavPack, APE, Musepack, TrueAudio, Opus og gammel **MOD- og tracker-musikk** som MOD, XM, IT og S3M), og den er den eneste motoren som driver lydverktøyene: en **10-bånds equalizer**, **volumnormalisering**, **Compressor**, **Freeverb**, **Auto Wah**, **Phaser**, **Flanger**, **Echo**, **Chorus**, **Distortion**, **Rotate**, **Crossfeed** og en lag-din-egen **DSP-kjede**. Så for å bruke effektene i denne guiden må du først sette avspillingsmotoren til **Sound FX**. Hvert verktøy har ferdiglagde **forhåndsinnstillinger**. Åpne dem i **Innstillinger > Lydspiller** (Lydeffekter, Lydequalizer, Signalbehandling), eller trykk på **⋯ (Flere handlinger)**-knappen på spilleren og velg **Lydeffekter**. Ingenting du gjør her endrer noen gang filene dine.
 
 > Forklaringene på skyvekontroller og forhåndsinnstillinger nedenfor er de samme korte beskrivelsene som Flacbox viser deg inne i appen, blandet med litt ekstra bakgrunn slik at du får hele bildet før du trykker.
