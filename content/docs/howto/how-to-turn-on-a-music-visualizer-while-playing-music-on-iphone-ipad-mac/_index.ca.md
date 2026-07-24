@@ -1,5 +1,5 @@
 ---
-title: "Com activar un visualitzador de música mentre reprodueixes música a l'iPhone, l'iPad i el Mac (Evermusic i Flacbox)"
+title: "Com activar un visualitzador de música mentre reprodueixes música a l'iPhone, l'iPad i el Mac"
 date: 2026-07-24
 description: "Una guia completa per utilitzar un visualitzador de música mentre reprodueixes música a l'iPhone, l'iPad i el Mac. Aprèn com activar-lo a Evermusic i Flacbox, com els visuals Milkdrop (projectM) en temps real reaccionen a la teva música, els controls a la pantalla, com canviar de preajust o utilitzar el mode Automàtic, i com funciona a iOS i macOS amb OpenGL i 500 preajustos."
 keywords: ["visualitzador de música iPhone", "visualitzador de música iPad", "visualitzador de música Mac", "visualitzador mentre reprodueixes música", "com activar el visualitzador de música", "activar visualitzador iPhone", "visualitzador Evermusic", "visualitzador Flacbox", "Milkdrop iOS", "projectM iOS", "preajustos Milkdrop", "aplicació visualitzadora d'àudio", "500 preajustos de visualitzador", "visualitzador de música OpenGL", "alternativa al visualitzador d'iTunes", "visuals de música psicodèlics iPhone", "visualitzador d'espectre iOS", "visualitzador de música a pantalla completa"]
@@ -9,7 +9,7 @@ readingTime: 9
 
 {{< author-byline >}}
 
-**Resposta ràpida:** Evermusic i Flacbox tenen tots dos un **visualitzador de música** a pantalla completa que pinta visuals mòbils i acolorits al ritme de la teva música. Obre'l des del reproductor **En reproducció** (**⋯ Més accions > Visualització**) o des de **Configuració > Visualització**, després tria un preajust o **Automàtic** i toca **Iniciar visualització**. A la pantalla del visualitzador, toca una vegada per mostrar o amagar els controls i utilitza les fletxes **Anterior** i **Següent** per canviar l'aspecte. Utilitza el conegut motor **Milkdrop (projectM)** amb **500 preajustos**, renderitza amb **OpenGL** i funciona a l'**iPhone, l'iPad i el Mac**. Els passos són els mateixos a totes dues aplicacions. Els passos complets són a sota.
+**Resposta ràpida:** [Evermusic](/products/evermusic) i [Flacbox](/products/flacbox) tenen tots dos un **visualitzador de música** a pantalla completa que pinta visuals mòbils i acolorits al ritme de la teva música. Obre'l des del reproductor **En reproducció** (**⋯ Més accions > Visualització**) o des de **Configuració > Visualització**, després tria un preajust o **Automàtic** i toca **Iniciar visualització**. A la pantalla del visualitzador, toca una vegada per mostrar o amagar els controls i utilitza les fletxes **Anterior** i **Següent** per canviar l'aspecte. Utilitza el conegut motor **Milkdrop (projectM)** amb **500 preajustos**, renderitza amb **OpenGL** i funciona a l'**iPhone, l'iPad i el Mac**. Els passos són els mateixos a totes dues aplicacions. Els passos complets són a sota.
 
 {{< cards cols="1">}}
 {{< card title="" subtitle="Visualitzador de música: preajust Starfield Sectors" image="/docs/howto/how-to-turn-on-a-music-visualizer-while-playing-music-on-iphone-ipad-mac/music-visualizer-starfield-sectors-preset.webp" imageStyle="border-radius: clamp(14px, 2vw, 28px);" >}}

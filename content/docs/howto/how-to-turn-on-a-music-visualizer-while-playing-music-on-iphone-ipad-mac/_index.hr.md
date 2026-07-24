@@ -1,5 +1,5 @@
 ---
-title: "Kako uključiti glazbeni vizualizator dok reproducirate glazbu na iPhoneu, iPadu i Macu (Evermusic i Flacbox)"
+title: "Kako uključiti glazbeni vizualizator dok reproducirate glazbu na iPhoneu, iPadu i Macu"
 date: 2026-07-24
 description: "Potpuni vodič za korištenje glazbenog vizualizatora dok reproducirate glazbu na iPhoneu, iPadu i Macu. Naučite kako ga uključiti u Evermusicu i Flacboxu, kako Milkdrop (projectM) vizuali u stvarnom vremenu reagiraju na vašu glazbu, kontrole na zaslonu, kako promijeniti presete ili koristiti Auto način rada te kako radi na iOS-u i macOS-u s OpenGL i 500 preseta."
 keywords: ["glazbeni vizualizator iPhone", "glazbeni vizualizator iPad", "glazbeni vizualizator Mac", "vizualizator dok reproducirate glazbu", "kako uključiti glazbeni vizualizator", "aktiviranje vizualizatora iPhone", "Evermusic vizualizator", "Flacbox vizualizator", "Milkdrop iOS", "projectM iOS", "Milkdrop preseti", "aplikacija audio vizualizatora", "500 preseta vizualizatora", "OpenGL glazbeni vizualizator", "iTunes vizualizator alternativa", "trippy glazbeni vizuali iPhone", "spektralni vizualizator iOS", "vizualizator glazbe preko cijelog zaslona"]
@@ -9,7 +9,7 @@ readingTime: 9
 
 {{< author-byline >}}
 
-**Kratki odgovor:** Evermusic i Flacbox oba imaju **glazbeni vizualizator** preko cijelog zaslona koji slika pokretne, šarene vizuale u ritmu vaše glazbe. Otvorite ga iz **Now Playing** reproduktora (**⋯ Više > Vizualizacija**) ili iz **Postavke > Vizualizacija**, zatim odaberite preset ili **Auto** i dodirnite **Pokreni vizualizaciju**. Na zaslonu vizualizatora, dodirnite jednom da prikažete ili sakrijete kontrole i koristite strelice **Prethodni** i **Sljedeći** za promjenu izgleda. Koristi dobro poznati **Milkdrop (projectM)** motor s **500 preseta**, prikazuje s **OpenGL** i radi na **iPhoneu, iPadu i Macu**. Koraci su isti u obje aplikacije. Potpuni koraci su u nastavku.
+**Kratki odgovor:** [Evermusic](/products/evermusic) i [Flacbox](/products/flacbox) oba imaju **glazbeni vizualizator** preko cijelog zaslona koji slika pokretne, šarene vizuale u ritmu vaše glazbe. Otvorite ga iz **Now Playing** reproduktora (**⋯ Više > Vizualizacija**) ili iz **Postavke > Vizualizacija**, zatim odaberite preset ili **Auto** i dodirnite **Pokreni vizualizaciju**. Na zaslonu vizualizatora, dodirnite jednom da prikažete ili sakrijete kontrole i koristite strelice **Prethodni** i **Sljedeći** za promjenu izgleda. Koristi dobro poznati **Milkdrop (projectM)** motor s **500 preseta**, prikazuje s **OpenGL** i radi na **iPhoneu, iPadu i Macu**. Koraci su isti u obje aplikacije. Potpuni koraci su u nastavku.
 
 {{< cards cols="1">}}
 {{< card title="" subtitle="Glazbeni vizualizator: preset Starfield Sectors" image="/docs/howto/how-to-turn-on-a-music-visualizer-while-playing-music-on-iphone-ipad-mac/music-visualizer-starfield-sectors-preset.webp" imageStyle="border-radius: clamp(14px, 2vw, 28px);" >}}

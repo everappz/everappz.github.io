@@ -1,5 +1,5 @@
 ---
-title: "iPhone, iPad ve Mac'te Müzik Çalarken Müzik Görselleştiricisi Nasıl Açılır (Evermusic ve Flacbox)"
+title: "iPhone, iPad ve Mac'te Müzik Çalarken Müzik Görselleştiricisi Nasıl Açılır"
 date: 2026-07-24
 description: "iPhone, iPad ve Mac'te müzik çalarken müzik görselleştiricisi kullanmak için eksiksiz bir rehber. Evermusic ve Flacbox'ta nasıl açılacağını, gerçek zamanlı Milkdrop (projectM) görsellerinin müziğinize nasıl tepki verdiğini, ekran üstü denetimleri, ön ayarları nasıl değiştireceğinizi veya Auto modunu nasıl kullanacağınızı ve OpenGL ile 500 ön ayarla iOS ve macOS'ta nasıl çalıştığını öğrenin."
 keywords: ["müzik görselleştiricisi iPhone", "müzik görselleştiricisi iPad", "müzik görselleştiricisi Mac", "müzik çalarken görselleştirici", "müzik görselleştiricisi nasıl açılır", "görselleştiriciyi etkinleştir iPhone", "Evermusic görselleştirici", "Flacbox görselleştirici", "Milkdrop iOS", "projectM iOS", "Milkdrop ön ayarları", "ses görselleştirici uygulaması", "500 görselleştirici ön ayarı", "OpenGL müzik görselleştiricisi", "iTunes görselleştirici alternatifi", "trippy müzik görselleri iPhone", "spektrum görselleştiricisi iOS", "tam ekran müzik görselleştiricisi"]
@@ -9,7 +9,7 @@ readingTime: 9
 
 {{< author-byline >}}
 
-**Kısa cevap:** Evermusic ve Flacbox'ın her ikisinde de müziğinizle uyumlu olarak hareket eden, renkli görseller çizen tam ekran bir **müzik görselleştiricisi** vardır. Onu **Şimdi Çalınıyor** çalarından (**⋯ Daha fazla eylem > Görselleştirme**) veya **Ayarlar > Görselleştirme**'den açın, ardından bir ön ayar veya **Auto** seçin ve **Görselleştirmeyi başlat**'a dokunun. Görselleştirici ekranında, denetimleri göstermek veya gizlemek için bir kez dokunun ve görünümü değiştirmek için **Önceki** ve **Sonraki** oklarını kullanın. İyi bilinen **Milkdrop (projectM)** motorunu **500 ön ayarla** kullanır, **OpenGL** ile işler ve **iPhone, iPad ve Mac**'te çalışır. Adımlar her iki uygulamada da aynıdır. Tüm adımlar aşağıdadır.
+**Kısa cevap:** [Evermusic](/products/evermusic) ve [Flacbox](/products/flacbox)'ın her ikisinde de müziğinizle uyumlu olarak hareket eden, renkli görseller çizen tam ekran bir **müzik görselleştiricisi** vardır. Onu **Şimdi Çalınıyor** çalarından (**⋯ Daha fazla eylem > Görselleştirme**) veya **Ayarlar > Görselleştirme**'den açın, ardından bir ön ayar veya **Auto** seçin ve **Görselleştirmeyi başlat**'a dokunun. Görselleştirici ekranında, denetimleri göstermek veya gizlemek için bir kez dokunun ve görünümü değiştirmek için **Önceki** ve **Sonraki** oklarını kullanın. İyi bilinen **Milkdrop (projectM)** motorunu **500 ön ayarla** kullanır, **OpenGL** ile işler ve **iPhone, iPad ve Mac**'te çalışır. Adımlar her iki uygulamada da aynıdır. Tüm adımlar aşağıdadır.
 
 {{< cards cols="1">}}
 {{< card title="" subtitle="Müzik görselleştiricisi: Starfield Sectors ön ayarı" image="/docs/howto/how-to-turn-on-a-music-visualizer-while-playing-music-on-iphone-ipad-mac/music-visualizer-starfield-sectors-preset.webp" imageStyle="border-radius: clamp(14px, 2vw, 28px);" >}}

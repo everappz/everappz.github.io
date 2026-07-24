@@ -1,5 +1,5 @@
 ---
-title: "Så använder du ljudeffekter och DSP i Flacbox: Kompressor, Freeverb, Crossfeed, Eko, Volymnormalisering och mer (varje förinställning och inställning förklarad)"
+title: "Så använder du ljudeffekter och DSP i Flacbox: Kompressor, Freeverb, Crossfeed, Eko, Volymnormalisering och mer"
 date: 2026-07-24
 description: "Den kompletta guiden till Flacbox-ljud på iPhone, iPad och Mac. Lär dig hur BASS-motorn fungerar, vilka extra format den spelar (inklusive MOD- och trackermusik och DSD), och exakt vad varje effekt, varje reglage och varje förinställning gör med ditt ljud, plus 10-bands equalizern och den anpassade DSP-kedjan."
 keywords: ["Flacbox ljudeffekter", "Flacbox förinställningar förklarade", "Flacbox BASS-motor", "BASS ljudbibliotek iOS", "MOD-musikspelare iPhone", "trackermusikspelare iOS", "spela MOD XM IT S3M iPhone", "DSD-spelare iOS", "FLAC-spelare iPhone", "förlustfri musikspelare iOS", "Flacbox equalizer förinställningar", "10-bands equalizer iPhone", "volymnormalisering iPhone", "EBU R128 iOS", "loudness-normalisering musikspelare", "crossfeed hörlurar iOS", "bs2b crossfeed", "kompressor förinställningar musikspelare", "freeverb reverb iOS", "eko delay musikspelare", "DSP-kedja musikspelare", "basförstärkning iPhone", "hur man lägger till effekter på musik Flacbox", "bästa equalizer-inställningar iPhone"]

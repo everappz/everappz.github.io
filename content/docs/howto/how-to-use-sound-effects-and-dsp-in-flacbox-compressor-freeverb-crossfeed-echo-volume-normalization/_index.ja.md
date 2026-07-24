@@ -1,5 +1,5 @@
 ---
-title: "FlacboxでサウンドエフェクトとDSPを使う方法: Compressor、Freeverb、Crossfeed、Echo、音量ノーマライゼーションほか（すべてのプリセットと設定を解説）"
+title: "FlacboxでサウンドエフェクトとDSPを使う方法: Compressor、Freeverb、Crossfeed、Echo、音量ノーマライゼーションほか"
 date: 2026-07-24
 description: "iPhone、iPad、MacでのFlacboxオーディオの完全ガイド。BASSエンジンの仕組み、再生できる追加フォーマット（MODやトラッカーミュージック、DSDを含む）、そしてすべてのエフェクト、すべてのスライダー、すべてのプリセットがサウンドに何をするのかを正確に学べます。さらに10バンドイコライザーとカスタムDSPチェーンも解説します。"
 keywords: ["Flacbox オーディオエフェクト", "Flacbox プリセット解説", "Flacbox BASSエンジン", "BASS オーディオライブラリ iOS", "MOD ミュージックプレーヤー iPhone", "トラッカーミュージックプレーヤー iOS", "MOD XM IT S3M 再生 iPhone", "DSD プレーヤー iOS", "FLAC プレーヤー iPhone", "ロスレスミュージックプレーヤー iOS", "Flacbox イコライザープリセット", "10バンドイコライザー iPhone", "音量ノーマライゼーション iPhone", "EBU R128 iOS", "ラウドネスノーマライゼーション ミュージックプレーヤー", "クロスフィード ヘッドフォン iOS", "bs2b クロスフィード", "コンプレッサープリセット ミュージックプレーヤー", "freeverb リバーブ iOS", "エコー ディレイ ミュージックプレーヤー", "DSPチェーン ミュージックプレーヤー", "バスブースト iPhone", "Flacbox で音楽にエフェクトを追加する方法", "iPhone 最適なイコライザー設定"]

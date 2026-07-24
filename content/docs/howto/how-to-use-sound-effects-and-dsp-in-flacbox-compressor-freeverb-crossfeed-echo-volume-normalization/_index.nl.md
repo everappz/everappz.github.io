@@ -1,5 +1,5 @@
 ---
-title: "Geluidseffecten en DSP gebruiken in Flacbox: Compressor, Freeverb, Crossfeed, Echo, Volumenormalisatie en meer (elke preset en instelling uitgelegd)"
+title: "Geluidseffecten en DSP gebruiken in Flacbox: Compressor, Freeverb, Crossfeed, Echo, Volumenormalisatie en meer"
 date: 2026-07-24
 description: "De complete gids voor Flacbox-audio op iPhone, iPad en Mac. Ontdek hoe de BASS-engine werkt, welke extra formaten hij afspeelt (waaronder MOD- en trackermuziek en DSD), en precies wat elk effect, elke schuifregelaar en elke preset met je geluid doet, plus de 10-bands equalizer en de aangepaste DSP-keten."
 keywords: ["Flacbox audio-effecten", "Flacbox presets uitgelegd", "Flacbox BASS-engine", "BASS audiobibliotheek iOS", "MOD-muziekspeler iPhone", "trackermuziekspeler iOS", "MOD XM IT S3M afspelen iPhone", "DSD-speler iOS", "FLAC-speler iPhone", "lossless muziekspeler iOS", "Flacbox equalizer presets", "10-bands equalizer iPhone", "volumenormalisatie iPhone", "EBU R128 iOS", "loudness-normalisatie muziekspeler", "crossfeed koptelefoon iOS", "bs2b crossfeed", "compressor presets muziekspeler", "freeverb reverb iOS", "echo delay muziekspeler", "DSP-keten muziekspeler", "bass boost iPhone", "effecten toevoegen aan muziek Flacbox", "beste equalizer-instellingen iPhone"]

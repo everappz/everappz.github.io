@@ -1,5 +1,5 @@
 ---
-title: "Kako omogućiti i koristiti reprodukciju bez pauza (gapless) u Evermusicu (i zašto je to pravi gapless)"
+title: "Kako omogućiti i koristiti reprodukciju bez pauza (gapless) u Evermusicu"
 date: 2026-07-05
 description: "Uključite pravu reprodukciju bez pauza (gapless) u Evermusicu za iPhone, iPad i Mac. Naučite kako je omogućiti u Postavkama, kako je koristiti s albumima i playlistama, kako funkcionira ispod haube te zašto je to prava reprodukcija bez pauza točna do razine uzorka, a ne prijelaz s pretapanjem (crossfade)."
 keywords: ["reprodukcija bez pauza iPhone", "kako omogućiti gapless reprodukciju Evermusic", "prava reprodukcija bez pauza iOS", "gapless glazbeni player iPhone", "gapless naspram crossfade", "bez pauze između pjesama iPhone", "gapless FLAC player iOS", "reprodukcija live albuma iPhone", "koncept album gapless", "DJ mix gapless iOS", "Evermusic gapless", "besprijekoran prijelaz između pjesama glazbeni player"]

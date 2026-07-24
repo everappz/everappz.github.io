@@ -1,5 +1,5 @@
 ---
-title: "Hogyan kapcsold be a zenei vizualizálót zenehallgatás közben iPhone-on, iPaden és Macen (Evermusic és Flacbox)"
+title: "Hogyan kapcsold be a zenei vizualizálót zenehallgatás közben iPhone-on, iPaden és Macen"
 date: 2026-07-24
 description: "Teljes útmutató a zenei vizualizáló használatához, miközben zenét hallgatsz iPhone-on, iPaden és Macen. Ismerd meg, hogyan kapcsold be az Evermusicban és a Flacboxban, hogyan reagál a valós idejű Milkdrop (projectM) látvány a zenédre, a képernyőn megjelenő vezérlőket, hogyan válts presetet vagy használd az Auto módot, és hogyan fut iOS-en és macOS-en OpenGL-lel és 500 presettel."
 keywords: ["zenei vizualizáló iPhone", "zenei vizualizáló iPad", "zenei vizualizáló Mac", "vizualizáló zenehallgatás közben", "hogyan kapcsold be a zenei vizualizálót", "vizualizáló aktiválása iPhone", "Evermusic vizualizáló", "Flacbox vizualizáló", "Milkdrop iOS", "projectM iOS", "Milkdrop presetek", "hangvizualizáló alkalmazás", "500 vizualizáló preset", "OpenGL zenei vizualizáló", "iTunes vizualizáló alternatíva", "trippy zenei látvány iPhone", "spektrum vizualizáló iOS", "teljes képernyős zenei vizualizáló"]
@@ -9,7 +9,7 @@ readingTime: 9
 
 {{< author-byline >}}
 
-**Rövid válasz:** Az Evermusic és a Flacbox is rendelkezik egy teljes képernyős **zenei vizualizálóval**, amely mozgó, színes látványt fest a zenéddel egy ütemben. Nyisd meg az **Épp játszott** lejátszóból (**⋯ Több > Vizualizáció**) vagy a **Beállítások > Vizualizáció** menüből, majd válassz egy presetet vagy az **Auto** módot, és koppints a **Vizualizáció indítása** gombra. A vizualizáló képernyőn koppints egyszer a vezérlők megjelenítéséhez vagy elrejtéséhez, és használd a **Előző** és **Következő** nyilakat a látvány váltásához. A jól ismert **Milkdrop (projectM)** motort használja **500 presettel**, **OpenGL**-lel renderel, és **iPhone-on, iPaden és Macen** működik. A lépések mindkét alkalmazásban azonosak. A teljes lépések alább.
+**Rövid válasz:** Az [Evermusic](/products/evermusic) és a [Flacbox](/products/flacbox) is rendelkezik egy teljes képernyős **zenei vizualizálóval**, amely mozgó, színes látványt fest a zenéddel egy ütemben. Nyisd meg az **Épp játszott** lejátszóból (**⋯ Több > Vizualizáció**) vagy a **Beállítások > Vizualizáció** menüből, majd válassz egy presetet vagy az **Auto** módot, és koppints a **Vizualizáció indítása** gombra. A vizualizáló képernyőn koppints egyszer a vezérlők megjelenítéséhez vagy elrejtéséhez, és használd a **Előző** és **Következő** nyilakat a látvány váltásához. A jól ismert **Milkdrop (projectM)** motort használja **500 presettel**, **OpenGL**-lel renderel, és **iPhone-on, iPaden és Macen** működik. A lépések mindkét alkalmazásban azonosak. A teljes lépések alább.
 
 {{< cards cols="1">}}
 {{< card title="" subtitle="Zenei vizualizáló: Starfield Sectors preset" image="/docs/howto/how-to-turn-on-a-music-visualizer-while-playing-music-on-iphone-ipad-mac/music-visualizer-starfield-sectors-preset.webp" imageStyle="border-radius: clamp(14px, 2vw, 28px);" >}}

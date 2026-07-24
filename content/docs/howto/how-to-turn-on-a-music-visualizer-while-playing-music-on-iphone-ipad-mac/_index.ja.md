@@ -1,5 +1,5 @@
 ---
-title: "iPhone、iPad、Macで音楽を再生しながらミュージックビジュアライザーをオンにする方法（EvermusicとFlacbox）"
+title: "iPhone、iPad、Macで音楽を再生しながらミュージックビジュアライザーをオンにする方法"
 date: 2026-07-24
 description: "iPhone、iPad、Macで音楽を再生しながらミュージックビジュアライザーを使うための完全ガイド。EvermusicとFlacboxでのオンにする方法、リアルタイムのMilkdrop（projectM）ビジュアルが音楽にどう反応するか、画面上のコントロール、プリセットの変更方法やAutoモードの使い方、OpenGLと500種類のプリセットでiOSとmacOSでどう動作するかを解説します。"
 keywords: ["ミュージックビジュアライザー iPhone", "ミュージックビジュアライザー iPad", "ミュージックビジュアライザー Mac", "音楽再生中のビジュアライザー", "ミュージックビジュアライザーのオンにする方法", "ビジュアライザーを有効にする iPhone", "Evermusic ビジュアライザー", "Flacbox ビジュアライザー", "Milkdrop iOS", "projectM iOS", "Milkdrop プリセット", "オーディオビジュアライザーアプリ", "500種類のビジュアライザープリセット", "OpenGL ミュージックビジュアライザー", "iTunes ビジュアライザーの代替", "トリッピーな音楽ビジュアル iPhone", "スペクトラムビジュアライザー iOS", "フルスクリーンミュージックビジュアライザー"]
@@ -9,7 +9,7 @@ readingTime: 9
 
 {{< author-byline >}}
 
-**簡単な答え:** EvermusicとFlacboxはどちらも、音楽に合わせて動く色鮮やかなビジュアルを描くフルスクリーンの**ミュージックビジュアライザー**を備えています。**再生中**プレーヤー（**⋯（その他） > ビジュアライゼーション**）または**設定 > ビジュアライゼーション**から開き、プリセットまたは**Auto**を選んで**ビジュアライゼーションを開始**をタップします。ビジュアライザー画面では、一度タップするとコントロールが表示または非表示になり、**戻る**と**次へ**の矢印で見た目を変えられます。よく知られた**Milkdrop（projectM）**エンジンを使い、**500種類のプリセット**を備え、**OpenGL**で描画し、**iPhone、iPad、Mac**で動作します。手順は両方のアプリで同じです。詳しい手順は以下のとおりです。
+**簡単な答え:** [Evermusic](/products/evermusic)と[Flacbox](/products/flacbox)はどちらも、音楽に合わせて動く色鮮やかなビジュアルを描くフルスクリーンの**ミュージックビジュアライザー**を備えています。**再生中**プレーヤー（**⋯（その他） > ビジュアライゼーション**）または**設定 > ビジュアライゼーション**から開き、プリセットまたは**Auto**を選んで**ビジュアライゼーションを開始**をタップします。ビジュアライザー画面では、一度タップするとコントロールが表示または非表示になり、**戻る**と**次へ**の矢印で見た目を変えられます。よく知られた**Milkdrop（projectM）**エンジンを使い、**500種類のプリセット**を備え、**OpenGL**で描画し、**iPhone、iPad、Mac**で動作します。手順は両方のアプリで同じです。詳しい手順は以下のとおりです。
 
 {{< cards cols="1">}}
 {{< card title="" subtitle="ミュージックビジュアライザー: Starfield Sectorsプリセット" image="/docs/howto/how-to-turn-on-a-music-visualizer-while-playing-music-on-iphone-ipad-mac/music-visualizer-starfield-sectors-preset.webp" imageStyle="border-radius: clamp(14px, 2vw, 28px);" >}}

@@ -1,5 +1,5 @@
 ---
-title: "Comment activer et utiliser la lecture sans blanc (gapless) dans Evermusic (et pourquoi c'est un vrai gapless)"
+title: "Comment activer et utiliser la lecture sans blanc (gapless) dans Evermusic"
 date: 2026-07-05
 description: "Activez la vraie lecture sans blanc (gapless) dans Evermusic pour iPhone, iPad et Mac. Découvrez comment l'activer dans les Réglages, comment l'utiliser avec les albums et les listes de lecture, comment elle fonctionne en coulisses et pourquoi il s'agit d'une véritable lecture gapless précise à l'échantillon près, et non d'un fondu enchaîné."
 keywords: ["lecture sans blanc iPhone", "comment activer la lecture gapless Evermusic", "vraie lecture sans blanc iOS", "lecteur de musique gapless iPhone", "lecture gapless contre fondu enchaîné", "aucun blanc entre les morceaux iPhone", "lecteur FLAC gapless iOS", "lecture d'album live iPhone", "album concept gapless", "mix DJ gapless iOS", "Evermusic gapless", "transition fluide entre morceaux lecteur de musique"]

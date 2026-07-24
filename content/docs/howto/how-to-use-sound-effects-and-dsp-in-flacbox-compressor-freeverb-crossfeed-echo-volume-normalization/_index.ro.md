@@ -1,5 +1,5 @@
 ---
-title: "Cum să folosiți efectele de sunet și DSP în Flacbox: Compressor, Freeverb, Crossfeed, Echo, normalizarea volumului și altele (fiecare presetare și setare explicată)"
+title: "Cum să folosiți efectele de sunet și DSP în Flacbox: Compressor, Freeverb, Crossfeed, Echo, normalizarea volumului și altele"
 date: 2026-07-24
 description: "Ghidul complet pentru audio Flacbox pe iPhone, iPad și Mac. Aflați cum funcționează motorul BASS, ce formate suplimentare redă (inclusiv MOD și muzica de tip tracker și DSD) și exact ce face fiecare efect, fiecare cursor și fiecare presetare asupra sunetului dumneavoastră, plus egalizatorul cu 10 benzi și lanțul DSP personalizat."
 keywords: ["efecte audio Flacbox", "presetări Flacbox explicate", "motor BASS Flacbox", "bibliotecă audio BASS iOS", "player muzică MOD iPhone", "player muzică tracker iOS", "redare MOD XM IT S3M iPhone", "player DSD iOS", "player FLAC iPhone", "player muzică lossless iOS", "presetări egalizator Flacbox", "egalizator cu 10 benzi iPhone", "normalizare volum iPhone", "EBU R128 iOS", "normalizare intensitate sonoră player muzică", "crossfeed căști iOS", "crossfeed bs2b", "presetări compressor player muzică", "reverb freeverb iOS", "echo delay player muzică", "lanț DSP player muzică", "amplificare bas iPhone", "cum să adăugați efecte la muzică Flacbox", "cele mai bune setări egalizator iPhone"]

@@ -1,5 +1,5 @@
 ---
-title: "Flacbox에서 음향 효과와 DSP 사용법: 컴프레서, Freeverb, 크로스피드, 에코, 볼륨 정규화 등 (모든 프리셋과 설정 완벽 해설)"
+title: "Flacbox에서 음향 효과와 DSP 사용법: 컴프레서, Freeverb, 크로스피드, 에코, 볼륨 정규화 등"
 date: 2026-07-24
 description: "iPhone, iPad, Mac에서의 Flacbox 오디오 완벽 가이드. BASS 엔진이 어떻게 작동하는지, 어떤 추가 형식을 재생하는지(MOD 및 트래커 음악과 DSD 포함), 그리고 모든 효과, 모든 슬라이더, 모든 프리셋이 사운드에 정확히 어떤 변화를 주는지, 여기에 10밴드 이퀄라이저와 사용자 지정 DSP 체인까지 배워보세요."
 keywords: ["Flacbox 오디오 효과", "Flacbox 프리셋 해설", "Flacbox BASS 엔진", "BASS 오디오 라이브러리 iOS", "MOD 음악 플레이어 iPhone", "트래커 음악 플레이어 iOS", "iPhone에서 MOD XM IT S3M 재생", "DSD 플레이어 iOS", "FLAC 플레이어 iPhone", "무손실 음악 플레이어 iOS", "Flacbox 이퀄라이저 프리셋", "10밴드 이퀄라이저 iPhone", "볼륨 정규화 iPhone", "EBU R128 iOS", "라우드니스 정규화 음악 플레이어", "크로스피드 헤드폰 iOS", "bs2b 크로스피드", "컴프레서 프리셋 음악 플레이어", "freeverb 리버브 iOS", "에코 딜레이 음악 플레이어", "DSP 체인 음악 플레이어", "베이스 부스트 iPhone", "Flacbox 음악에 효과 추가 방법", "iPhone 최고의 이퀄라이저 설정"]

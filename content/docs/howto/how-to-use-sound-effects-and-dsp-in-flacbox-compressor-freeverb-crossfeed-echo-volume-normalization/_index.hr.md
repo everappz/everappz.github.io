@@ -1,5 +1,5 @@
 ---
-title: "Kako koristiti zvučne efekte i DSP u Flacboxu: kompresor, Freeverb, crossfeed, echo, normalizacija glasnoće i više (svaki preset i postavka objašnjeni)"
+title: "Kako koristiti zvučne efekte i DSP u Flacboxu: kompresor, Freeverb, crossfeed, echo, normalizacija glasnoće i više"
 date: 2026-07-24
 description: "Potpuni vodič za Flacbox zvuk na iPhoneu, iPadu i Macu. Naučite kako radi BASS motor, koje dodatne formate reproducira (uključujući MOD i tracker glazbu te DSD) i točno što svaki efekt, svaki klizač i svaki preset čini vašem zvuku, uz 10-pojasni ekvalizator i prilagođeni DSP lanac."
 keywords: ["Flacbox zvučni efekti", "Flacbox preseti objašnjeni", "Flacbox BASS motor", "BASS audio biblioteka iOS", "MOD glazbeni reproduktor iPhone", "tracker glazbeni reproduktor iOS", "reprodukcija MOD XM IT S3M iPhone", "DSD reproduktor iOS", "FLAC reproduktor iPhone", "lossless glazbeni reproduktor iOS", "Flacbox preseti ekvalizatora", "10-pojasni ekvalizator iPhone", "normalizacija glasnoće iPhone", "EBU R128 iOS", "normalizacija glasnoće glazbeni reproduktor", "crossfeed slušalice iOS", "bs2b crossfeed", "preseti kompresora glazbeni reproduktor", "freeverb reverb iOS", "echo delay glazbeni reproduktor", "DSP lanac glazbeni reproduktor", "pojačanje basa iPhone", "kako dodati efekte glazbi Flacbox", "najbolje postavke ekvalizatora iPhone"]

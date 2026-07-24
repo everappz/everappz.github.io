@@ -1,5 +1,5 @@
 ---
-title: "วิธีใช้เอฟเฟกต์เสียงและ DSP ใน Flacbox: Compressor, Freeverb, Crossfeed, Echo, Volume Normalization และอื่นๆ (อธิบายทุกพรีเซ็ตและทุกการตั้งค่า)"
+title: "วิธีใช้เอฟเฟกต์เสียงและ DSP ใน Flacbox: Compressor, Freeverb, Crossfeed, Echo, Volume Normalization และอื่นๆ"
 date: 2026-07-24
 description: "คู่มือฉบับสมบูรณ์สำหรับเสียงของ Flacbox บน iPhone, iPad และ Mac เรียนรู้ว่าเอนจิน BASS ทำงานอย่างไร รองรับฟอร์แมตพิเศษใดบ้าง (รวมถึงเพลง MOD และ tracker และ DSD) และทุกเอฟเฟกต์ ทุกสไลเดอร์ และทุกพรีเซ็ตทำอะไรกับเสียงของคุณ พร้อมด้วยอีควอไลเซอร์ 10 แบนด์และเชน DSP แบบกำหนดเอง"
 keywords: ["เอฟเฟกต์เสียง Flacbox", "อธิบายพรีเซ็ต Flacbox", "เอนจิน BASS Flacbox", "ไลบรารีเสียง BASS iOS", "เครื่องเล่นเพลง MOD iPhone", "เครื่องเล่นเพลง tracker iOS", "เล่น MOD XM IT S3M iPhone", "เครื่องเล่น DSD iOS", "เครื่องเล่น FLAC iPhone", "เครื่องเล่นเพลงไร้การสูญเสีย iOS", "พรีเซ็ตอีควอไลเซอร์ Flacbox", "อีควอไลเซอร์ 10 แบนด์ iPhone", "ปรับระดับเสียงให้เท่ากัน iPhone", "EBU R128 iOS", "ปรับความดังให้สม่ำเสมอเครื่องเล่นเพลง", "crossfeed หูฟัง iOS", "bs2b crossfeed", "พรีเซ็ต compressor เครื่องเล่นเพลง", "freeverb reverb iOS", "echo delay เครื่องเล่นเพลง", "เชน DSP เครื่องเล่นเพลง", "เพิ่มเสียงเบส iPhone", "วิธีเพิ่มเอฟเฟกต์ให้เพลง Flacbox", "การตั้งค่าอีควอไลเซอร์ที่ดีที่สุด iPhone"]

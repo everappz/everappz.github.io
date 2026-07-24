@@ -1,5 +1,5 @@
 ---
-title: "iPhone, iPad, Mac에서 음악 재생 중 음악 비주얼라이저 켜는 법 (Evermusic 및 Flacbox)"
+title: "iPhone, iPad, Mac에서 음악 재생 중 음악 비주얼라이저 켜는 법"
 date: 2026-07-24
 description: "iPhone, iPad, Mac에서 음악을 재생하는 동안 음악 비주얼라이저를 사용하는 완벽 가이드. Evermusic과 Flacbox에서 켜는 법, 실시간 Milkdrop (projectM) 비주얼이 음악에 어떻게 반응하는지, 화면 컨트롤, 프리셋 변경 또는 Auto 모드 사용법, 그리고 OpenGL과 500개 프리셋으로 iOS 및 macOS에서 어떻게 실행되는지 배워보세요."
 keywords: ["음악 비주얼라이저 iPhone", "음악 비주얼라이저 iPad", "음악 비주얼라이저 Mac", "음악 재생 중 비주얼라이저", "음악 비주얼라이저 켜는 법", "비주얼라이저 활성화 iPhone", "Evermusic 비주얼라이저", "Flacbox 비주얼라이저", "Milkdrop iOS", "projectM iOS", "Milkdrop 프리셋", "오디오 비주얼라이저 앱", "500개 비주얼라이저 프리셋", "OpenGL 음악 비주얼라이저", "iTunes 비주얼라이저 대안", "몽환적 음악 비주얼 iPhone", "스펙트럼 비주얼라이저 iOS", "전체 화면 음악 비주얼라이저"]
@@ -9,7 +9,7 @@ readingTime: 9
 
 {{< author-byline >}}
 
-**간단한 답변:** Evermusic과 Flacbox는 둘 다 음악에 맞춰 움직이는 다채로운 비주얼을 그리는 전체 화면 **음악 비주얼라이저**를 갖추고 있습니다. **Now Playing** 플레이어(**⋯ 추가 작업 > 비주얼라이제이션**)에서 또는 **설정 > 비주얼라이제이션**에서 열고, 프리셋이나 **Auto**를 선택한 다음 **비주얼라이제이션 시작**을 누르세요. 비주얼라이저 화면에서 한 번 탭하면 컨트롤을 표시하거나 숨기며, **이전**과 **다음** 화살표로 모습을 바꿉니다. 잘 알려진 **Milkdrop (projectM)** 엔진을 **500개 프리셋**과 함께 사용하고, **OpenGL**로 렌더링하며, **iPhone, iPad, Mac**에서 작동합니다. 두 앱에서 단계가 동일합니다. 전체 단계는 아래에 있습니다.
+**간단한 답변:** [Evermusic](/products/evermusic)과 [Flacbox](/products/flacbox)는 둘 다 음악에 맞춰 움직이는 다채로운 비주얼을 그리는 전체 화면 **음악 비주얼라이저**를 갖추고 있습니다. **Now Playing** 플레이어(**⋯ 추가 작업 > 비주얼라이제이션**)에서 또는 **설정 > 비주얼라이제이션**에서 열고, 프리셋이나 **Auto**를 선택한 다음 **비주얼라이제이션 시작**을 누르세요. 비주얼라이저 화면에서 한 번 탭하면 컨트롤을 표시하거나 숨기며, **이전**과 **다음** 화살표로 모습을 바꿉니다. 잘 알려진 **Milkdrop (projectM)** 엔진을 **500개 프리셋**과 함께 사용하고, **OpenGL**로 렌더링하며, **iPhone, iPad, Mac**에서 작동합니다. 두 앱에서 단계가 동일합니다. 전체 단계는 아래에 있습니다.
 
 {{< cards cols="1">}}
 {{< card title="" subtitle="음악 비주얼라이저: Starfield Sectors 프리셋" image="/docs/howto/how-to-turn-on-a-music-visualizer-while-playing-music-on-iphone-ipad-mac/music-visualizer-starfield-sectors-preset.webp" imageStyle="border-radius: clamp(14px, 2vw, 28px);" >}}

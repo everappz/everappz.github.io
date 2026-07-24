@@ -1,5 +1,5 @@
 ---
-title: "So aktivieren Sie einen Musik-Visualizer beim Abspielen von Musik auf iPhone, iPad und Mac (Evermusic und Flacbox)"
+title: "So aktivieren Sie einen Musik-Visualizer beim Abspielen von Musik auf iPhone, iPad und Mac"
 date: 2026-07-24
 description: "Eine vollständige Anleitung zur Nutzung eines Musik-Visualizers beim Abspielen von Musik auf iPhone, iPad und Mac. Erfahren Sie, wie Sie ihn in Evermusic und Flacbox aktivieren, wie die Echtzeit-Milkdrop-Visuals (projectM) auf Ihre Musik reagieren, welche Bildschirmsteuerungen es gibt, wie Sie Presets wechseln oder den Auto-Modus nutzen und wie er unter iOS und macOS mit OpenGL und 500 Presets läuft."
 keywords: ["Musik-Visualizer iPhone", "Musik-Visualizer iPad", "Musik-Visualizer Mac", "Visualizer beim Musikabspielen", "wie aktiviert man den Musik-Visualizer", "Visualizer aktivieren iPhone", "Evermusic Visualizer", "Flacbox Visualizer", "Milkdrop iOS", "projectM iOS", "Milkdrop Presets", "Audio-Visualizer App", "500 Visualizer Presets", "OpenGL Musik-Visualizer", "iTunes Visualizer Alternative", "psychedelische Musik-Visuals iPhone", "Spektrum-Visualizer iOS", "Vollbild-Musik-Visualizer"]
@@ -9,7 +9,7 @@ readingTime: 9
 
 {{< author-byline >}}
 
-**Kurze Antwort:** Evermusic und Flacbox haben beide einen Vollbild-**Musik-Visualizer**, der bewegte, farbenfrohe Visuals im Takt Ihrer Musik zeichnet. Öffnen Sie ihn über den Player **Aktuelle Wiedergabe** (**⋯ Mehr > Visualisierung**) oder über **Einstellungen > Visualisierung**, wählen Sie dann ein Preset oder **Auto** und tippen Sie auf **Visualisierung starten**. Tippen Sie auf dem Visualizer-Bildschirm einmal, um die Steuerung ein- oder auszublenden, und nutzen Sie die Pfeile **Zurück** und **Weiter**, um das Aussehen zu ändern. Er nutzt die bekannte **Milkdrop-Engine (projectM)** mit **500 Presets**, rendert mit **OpenGL** und funktioniert auf **iPhone, iPad und Mac**. Die Schritte sind in beiden Apps gleich. Die vollständigen Schritte finden Sie unten.
+**Kurze Antwort:** [Evermusic](/products/evermusic) und [Flacbox](/products/flacbox) haben beide einen Vollbild-**Musik-Visualizer**, der bewegte, farbenfrohe Visuals im Takt Ihrer Musik zeichnet. Öffnen Sie ihn über den Player **Aktuelle Wiedergabe** (**⋯ Mehr > Visualisierung**) oder über **Einstellungen > Visualisierung**, wählen Sie dann ein Preset oder **Auto** und tippen Sie auf **Visualisierung starten**. Tippen Sie auf dem Visualizer-Bildschirm einmal, um die Steuerung ein- oder auszublenden, und nutzen Sie die Pfeile **Zurück** und **Weiter**, um das Aussehen zu ändern. Er nutzt die bekannte **Milkdrop-Engine (projectM)** mit **500 Presets**, rendert mit **OpenGL** und funktioniert auf **iPhone, iPad und Mac**. Die Schritte sind in beiden Apps gleich. Die vollständigen Schritte finden Sie unten.
 
 {{< cards cols="1">}}
 {{< card title="" subtitle="Musik-Visualizer: Preset Starfield Sectors" image="/docs/howto/how-to-turn-on-a-music-visualizer-while-playing-music-on-iphone-ipad-mac/music-visualizer-starfield-sectors-preset.webp" imageStyle="border-radius: clamp(14px, 2vw, 28px);" >}}

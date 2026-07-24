@@ -1,5 +1,5 @@
 ---
-title: "Cách bật Trình trực quan hóa nhạc khi phát nhạc trên iPhone, iPad và Mac (Evermusic và Flacbox)"
+title: "Cách bật Trình trực quan hóa nhạc khi phát nhạc trên iPhone, iPad và Mac"
 date: 2026-07-24
 description: "Hướng dẫn đầy đủ về việc sử dụng trình trực quan hóa nhạc khi bạn phát nhạc trên iPhone, iPad và Mac. Tìm hiểu cách bật nó trong Evermusic và Flacbox, cách các hình ảnh Milkdrop (projectM) thời gian thực phản ứng với nhạc của bạn, các điều khiển trên màn hình, cách thay đổi cài đặt sẵn hoặc dùng chế độ Auto, và cách nó chạy trên iOS và macOS với OpenGL cùng 500 cài đặt sẵn."
 keywords: ["trình trực quan hóa nhạc iPhone", "trình trực quan hóa nhạc iPad", "trình trực quan hóa nhạc Mac", "trình trực quan hóa khi phát nhạc", "cách bật trình trực quan hóa nhạc", "kích hoạt trình trực quan hóa iPhone", "trình trực quan hóa Evermusic", "trình trực quan hóa Flacbox", "Milkdrop iOS", "projectM iOS", "cài đặt sẵn Milkdrop", "ứng dụng trực quan hóa âm thanh", "500 cài đặt sẵn trực quan hóa", "trình trực quan hóa nhạc OpenGL", "thay thế trình trực quan hóa iTunes", "hình ảnh nhạc ảo giác iPhone", "trình trực quan hóa phổ iOS", "trình trực quan hóa nhạc toàn màn hình"]
@@ -9,7 +9,7 @@ readingTime: 9
 
 {{< author-byline >}}
 
-**Câu trả lời ngắn gọn:** Cả Evermusic và Flacbox đều có một **trình trực quan hóa nhạc** toàn màn hình vẽ các hình ảnh chuyển động, đầy màu sắc theo nhịp nhạc của bạn. Mở nó từ trình phát **Now Playing** (**⋯ Thêm > Trực quan hóa**) hoặc từ **Cài đặt > Trực quan hóa**, rồi chọn một cài đặt sẵn hoặc **Auto** và chạm **Bắt đầu trực quan hóa**. Trên màn hình trình trực quan hóa, chạm một lần để hiện hoặc ẩn các điều khiển và dùng các mũi tên **Trước** và **Tiếp** để đổi giao diện. Nó dùng công cụ **Milkdrop (projectM)** nổi tiếng với **500 cài đặt sẵn**, kết xuất bằng **OpenGL**, và hoạt động trên **iPhone, iPad và Mac**. Các bước giống nhau trong cả hai ứng dụng. Các bước đầy đủ ở dưới đây.
+**Câu trả lời ngắn gọn:** Cả [Evermusic](/products/evermusic) và [Flacbox](/products/flacbox) đều có một **trình trực quan hóa nhạc** toàn màn hình vẽ các hình ảnh chuyển động, đầy màu sắc theo nhịp nhạc của bạn. Mở nó từ trình phát **Now Playing** (**⋯ Thêm > Trực quan hóa**) hoặc từ **Cài đặt > Trực quan hóa**, rồi chọn một cài đặt sẵn hoặc **Auto** và chạm **Bắt đầu trực quan hóa**. Trên màn hình trình trực quan hóa, chạm một lần để hiện hoặc ẩn các điều khiển và dùng các mũi tên **Trước** và **Tiếp** để đổi giao diện. Nó dùng công cụ **Milkdrop (projectM)** nổi tiếng với **500 cài đặt sẵn**, kết xuất bằng **OpenGL**, và hoạt động trên **iPhone, iPad và Mac**. Các bước giống nhau trong cả hai ứng dụng. Các bước đầy đủ ở dưới đây.
 
 {{< cards cols="1">}}
 {{< card title="" subtitle="Trình trực quan hóa nhạc: cài đặt sẵn Starfield Sectors" image="/docs/howto/how-to-turn-on-a-music-visualizer-while-playing-music-on-iphone-ipad-mac/music-visualizer-starfield-sectors-preset.webp" imageStyle="border-radius: clamp(14px, 2vw, 28px);" >}}

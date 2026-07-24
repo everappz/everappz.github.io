@@ -1,5 +1,5 @@
 ---
-title: "如何在 iPhone、iPad 和 Mac 上播放音乐时开启音乐可视化效果（Evermusic 和 Flacbox）"
+title: "如何在 iPhone、iPad 和 Mac 上播放音乐时开启音乐可视化效果"
 date: 2026-07-24
 description: "在 iPhone、iPad 和 Mac 上播放音乐时使用音乐可视化效果的完整指南。了解如何在 Evermusic 和 Flacbox 中开启它，实时的 Milkdrop（projectM）画面如何随音乐律动，屏幕上的控件，如何切换预设或使用自动模式，以及它如何借助 OpenGL 和 500 个预设在 iOS 与 macOS 上运行。"
 keywords: ["iPhone 音乐可视化", "iPad 音乐可视化", "Mac 音乐可视化", "播放音乐时的可视化效果", "如何开启音乐可视化", "在 iPhone 上启用可视化", "Evermusic 可视化", "Flacbox 可视化", "iOS 上的 Milkdrop", "iOS 上的 projectM", "Milkdrop 预设", "音频可视化应用", "500 个可视化预设", "OpenGL 音乐可视化", "iTunes 可视化替代方案", "iPhone 迷幻音乐画面", "iOS 频谱可视化", "全屏音乐可视化"]
@@ -9,7 +9,7 @@ readingTime: 9
 
 {{< author-byline >}}
 
-**简短回答：** Evermusic 和 Flacbox 都内置一个全屏**音乐可视化**功能，随着你的音乐绘制出律动的彩色画面。从**正在播放**播放器（**⋯ 更多 > 可视化**）打开它，或从**设置 > 可视化**打开，然后选择一个预设或**自动**，并点按**开始可视化**。在可视化画面上，轻点一次可显示或隐藏控件，使用**上一个**和**下一个**箭头来切换画面。它采用著名的 **Milkdrop（projectM）**引擎，带有 **500 个预设**，通过 **OpenGL** 渲染，并可在 **iPhone、iPad 和 Mac** 上运行。两个应用中的操作步骤完全相同。完整步骤见下文。
+**简短回答：** [Evermusic](/products/evermusic) 和 [Flacbox](/products/flacbox) 都内置一个全屏**音乐可视化**功能，随着你的音乐绘制出律动的彩色画面。从**正在播放**播放器（**⋯ 更多 > 可视化**）打开它，或从**设置 > 可视化**打开，然后选择一个预设或**自动**，并点按**开始可视化**。在可视化画面上，轻点一次可显示或隐藏控件，使用**上一个**和**下一个**箭头来切换画面。它采用著名的 **Milkdrop（projectM）**引擎，带有 **500 个预设**，通过 **OpenGL** 渲染，并可在 **iPhone、iPad 和 Mac** 上运行。两个应用中的操作步骤完全相同。完整步骤见下文。
 
 {{< cards cols="1">}}
 {{< card title="" subtitle="音乐可视化：Starfield Sectors 预设" image="/docs/howto/how-to-turn-on-a-music-visualizer-while-playing-music-on-iphone-ipad-mac/music-visualizer-starfield-sectors-preset.webp" imageStyle="border-radius: clamp(14px, 2vw, 28px);" >}}

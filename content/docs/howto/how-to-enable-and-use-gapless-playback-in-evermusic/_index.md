@@ -1,5 +1,5 @@
 ---
-title: "How to Enable and Use Gapless Playback in Evermusic (and Why It's Real Gapless)"
+title: "How to Enable and Use Gapless Playback in Evermusic"
 date: 2026-07-05
 description: "Turn on true gapless playback in Evermusic for iPhone, iPad, and Mac. Learn how to enable it in Settings, how to use it with albums and playlists, how it works under the hood, and why it is real sample-accurate gapless playback, not crossfade."
 keywords: ["gapless playback iPhone", "how to enable gapless playback Evermusic", "true gapless playback iOS", "gapless music player iPhone", "gapless playback vs crossfade", "no gap between songs iPhone", "gapless FLAC player iOS", "live album playback iPhone", "concept album gapless", "DJ mix gapless iOS", "Evermusic gapless", "seamless track transition music player"]

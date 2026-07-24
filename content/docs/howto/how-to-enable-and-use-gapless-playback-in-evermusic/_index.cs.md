@@ -1,5 +1,5 @@
 ---
-title: "Jak zapnout a používat přehrávání bez mezer v Evermusic (a proč jde o skutečné přehrávání bez mezer)"
+title: "Jak zapnout a používat přehrávání bez mezer v Evermusic"
 date: 2026-07-05
 description: "Zapněte skutečné přehrávání bez mezer v Evermusic pro iPhone, iPad a Mac. Zjistěte, jak ho zapnout v Nastavení, jak ho používat u alb a playlistů, jak funguje pod kapotou a proč jde o skutečné přehrávání bez mezer přesné na úrovni vzorku, nikoli o prolínání."
 keywords: ["přehrávání bez mezer iPhone", "jak zapnout přehrávání bez mezer Evermusic", "skutečné přehrávání bez mezer iOS", "hudební přehrávač bez mezer iPhone", "přehrávání bez mezer vs prolínání", "žádná mezera mezi skladbami iPhone", "přehrávač FLAC bez mezer iOS", "přehrávání živých alb iPhone", "koncepční album bez mezer", "DJ mix bez mezer iOS", "Evermusic bez mezer", "plynulý přechod mezi skladbami hudební přehrávač"]

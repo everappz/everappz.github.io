@@ -1,5 +1,5 @@
 ---
-title: "如何在 Flacbox 中使用音效和 DSP：压缩器、Freeverb、交叉馈送、回声、音量标准化等（详解每个预设和设置）"
+title: "如何在 Flacbox 中使用音效和 DSP：压缩器、Freeverb、交叉馈送、回声、音量标准化等"
 date: 2026-07-24
 description: "在 iPhone、iPad 和 Mac 上使用 Flacbox 音频的完整指南。了解 BASS 引擎如何工作，它能播放哪些额外格式（包括 MOD 和 tracker 音乐以及 DSD），以及每个效果、每个滑块和每个预设对你声音的确切作用，还有 10 段均衡器和自定义 DSP 链。"
 keywords: ["Flacbox 音效", "Flacbox 预设详解", "Flacbox BASS 引擎", "iOS BASS 音频库", "iPhone MOD 音乐播放器", "iOS tracker 音乐播放器", "iPhone 播放 MOD XM IT S3M", "iOS DSD 播放器", "iPhone FLAC 播放器", "iOS 无损音乐播放器", "Flacbox 均衡器预设", "iPhone 10 段均衡器", "iPhone 音量标准化", "iOS EBU R128", "音乐播放器响度标准化", "iOS 耳机交叉馈送", "bs2b 交叉馈送", "音乐播放器压缩器预设", "iOS freeverb 混响", "音乐播放器回声延迟", "音乐播放器 DSP 链", "iPhone 低音增强", "如何在 Flacbox 中为音乐添加效果", "iPhone 最佳均衡器设置"]

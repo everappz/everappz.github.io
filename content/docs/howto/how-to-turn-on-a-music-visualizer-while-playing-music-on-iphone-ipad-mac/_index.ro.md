@@ -1,5 +1,5 @@
 ---
-title: "Cum să activați un vizualizator muzical în timp ce redați muzică pe iPhone, iPad și Mac (Evermusic și Flacbox)"
+title: "Cum să activați un vizualizator muzical în timp ce redați muzică pe iPhone, iPad și Mac"
 date: 2026-07-24
 description: "Un ghid complet pentru folosirea unui vizualizator muzical în timp ce redați muzică pe iPhone, iPad și Mac. Aflați cum să îl activați în Evermusic și Flacbox, cum reacționează la muzica dumneavoastră vizualurile Milkdrop (projectM) în timp real, controalele de pe ecran, cum să schimbați presetările sau să folosiți modul Auto și cum rulează pe iOS și macOS cu OpenGL și 500 de presetări."
 keywords: ["vizualizator muzical iPhone", "vizualizator muzical iPad", "vizualizator muzical Mac", "vizualizator în timp ce redați muzică", "cum să activați vizualizatorul muzical", "activare vizualizator iPhone", "vizualizator Evermusic", "vizualizator Flacbox", "Milkdrop iOS", "projectM iOS", "presetări Milkdrop", "aplicație vizualizator audio", "500 de presetări vizualizator", "vizualizator muzical OpenGL", "alternativă vizualizator iTunes", "vizualuri muzicale psihedelice iPhone", "vizualizator de spectru iOS", "vizualizator muzical pe tot ecranul"]
@@ -9,7 +9,7 @@ readingTime: 9
 
 {{< author-byline >}}
 
-**Răspuns scurt:** Evermusic și Flacbox au ambele un **vizualizator muzical** pe tot ecranul care pictează vizualuri în mișcare, colorate, în ritmul muzicii dumneavoastră. Deschideți-l din playerul **Now Playing** (**⋯ Mai multe > Vizualizare**) sau din **Setări > Vizualizare**, apoi alegeți o presetare sau **Auto** și atingeți **Pornire vizualizare**. Pe ecranul vizualizatorului, atingeți o dată pentru a afișa sau ascunde controalele și folosiți săgețile **Anterior** și **Următor** pentru a schimba aspectul. Folosește binecunoscutul motor **Milkdrop (projectM)** cu **500 de presetări**, randează cu **OpenGL** și funcționează pe **iPhone, iPad și Mac**. Pașii sunt aceiași în ambele aplicații. Pașii compleți sunt mai jos.
+**Răspuns scurt:** [Evermusic](/products/evermusic) și [Flacbox](/products/flacbox) au ambele un **vizualizator muzical** pe tot ecranul care pictează vizualuri în mișcare, colorate, în ritmul muzicii dumneavoastră. Deschideți-l din playerul **Now Playing** (**⋯ Mai multe > Vizualizare**) sau din **Setări > Vizualizare**, apoi alegeți o presetare sau **Auto** și atingeți **Pornire vizualizare**. Pe ecranul vizualizatorului, atingeți o dată pentru a afișa sau ascunde controalele și folosiți săgețile **Anterior** și **Următor** pentru a schimba aspectul. Folosește binecunoscutul motor **Milkdrop (projectM)** cu **500 de presetări**, randează cu **OpenGL** și funcționează pe **iPhone, iPad și Mac**. Pașii sunt aceiași în ambele aplicații. Pașii compleți sunt mai jos.
 
 {{< cards cols="1">}}
 {{< card title="" subtitle="Vizualizator muzical: presetarea Starfield Sectors" image="/docs/howto/how-to-turn-on-a-music-visualizer-while-playing-music-on-iphone-ipad-mac/music-visualizer-starfield-sectors-preset.webp" imageStyle="border-radius: clamp(14px, 2vw, 28px);" >}}

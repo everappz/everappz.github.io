@@ -1,5 +1,5 @@
 ---
-title: "Jak používat zvukové efekty a DSP ve Flacboxu: Compressor, Freeverb, Crossfeed, Echo, normalizace hlasitosti a další (každý preset a nastavení vysvětleny)"
+title: "Jak používat zvukové efekty a DSP ve Flacboxu: Compressor, Freeverb, Crossfeed, Echo, normalizace hlasitosti a další"
 date: 2026-07-24
 description: "Kompletní průvodce zvukem ve Flacboxu na iPhonu, iPadu a Macu. Zjistěte, jak funguje engine BASS, které další formáty přehrává (včetně hudby MOD a tracker music a DSD) a co přesně dělá s vaším zvukem každý efekt, každý posuvník a každý preset, plus 10pásmový ekvalizér a vlastní DSP řetězec."
 keywords: ["Flacbox zvukové efekty", "Flacbox presety vysvětleny", "Flacbox engine BASS", "audio knihovna BASS iOS", "přehrávač MOD hudby iPhone", "přehrávač tracker music iOS", "přehrát MOD XM IT S3M iPhone", "DSD přehrávač iOS", "FLAC přehrávač iPhone", "bezztrátový hudební přehrávač iOS", "Flacbox presety ekvalizéru", "10pásmový ekvalizér iPhone", "normalizace hlasitosti iPhone", "EBU R128 iOS", "normalizace hlasitosti hudební přehrávač", "crossfeed sluchátka iOS", "bs2b crossfeed", "presety kompresoru hudební přehrávač", "freeverb reverb iOS", "echo delay hudební přehrávač", "DSP řetězec hudební přehrávač", "zesílení basů iPhone", "jak přidat efekty do hudby Flacbox", "nejlepší nastavení ekvalizéru iPhone"]

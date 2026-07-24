@@ -1,5 +1,5 @@
 ---
-title: "Come attivare un visualizzatore musicale mentre riproduci musica su iPhone, iPad e Mac (Evermusic e Flacbox)"
+title: "Come attivare un visualizzatore musicale mentre riproduci musica su iPhone, iPad e Mac"
 date: 2026-07-24
 description: "Una guida completa all'uso di un visualizzatore musicale mentre riproduci musica su iPhone, iPad e Mac. Scopri come attivarlo in Evermusic e Flacbox, come le grafiche Milkdrop (projectM) in tempo reale reagiscono alla tua musica, i controlli su schermo, come cambiare preset o usare la modalità Auto e come funziona su iOS e macOS con OpenGL e 500 preset."
 keywords: ["visualizzatore musicale iPhone", "visualizzatore musicale iPad", "visualizzatore musicale Mac", "visualizzatore mentre riproduci musica", "come attivare il visualizzatore musicale", "attivare visualizzatore iPhone", "visualizzatore Evermusic", "visualizzatore Flacbox", "Milkdrop iOS", "projectM iOS", "preset Milkdrop", "app visualizzatore audio", "500 preset visualizzatore", "visualizzatore musicale OpenGL", "alternativa visualizzatore iTunes", "grafiche musicali psichedeliche iPhone", "visualizzatore spettro iOS", "visualizzatore musicale a schermo intero"]
@@ -9,7 +9,7 @@ readingTime: 9
 
 {{< author-byline >}}
 
-**Risposta breve:** Evermusic e Flacbox hanno entrambi un **visualizzatore musicale** a schermo intero che dipinge grafiche in movimento e colorate a tempo con la tua musica. Aprilo dal lettore **Now Playing** (**⋯ Altre azioni > Visualizzazione**) oppure da **Impostazioni > Visualizzazione**, poi scegli un preset o **Auto** e tocca **Avvia visualizzazione**. Sulla schermata del visualizzatore, tocca una volta per mostrare o nascondere i controlli e usa le frecce **Precedente** e **Successivo** per cambiare l'aspetto. Usa il ben noto motore **Milkdrop (projectM)** con **500 preset**, renderizza con **OpenGL** e funziona su **iPhone, iPad e Mac**. I passaggi sono gli stessi in entrambe le app. I passaggi completi sono qui sotto.
+**Risposta breve:** [Evermusic](/products/evermusic) e [Flacbox](/products/flacbox) hanno entrambi un **visualizzatore musicale** a schermo intero che dipinge grafiche in movimento e colorate a tempo con la tua musica. Aprilo dal lettore **Now Playing** (**⋯ Altre azioni > Visualizzazione**) oppure da **Impostazioni > Visualizzazione**, poi scegli un preset o **Auto** e tocca **Avvia visualizzazione**. Sulla schermata del visualizzatore, tocca una volta per mostrare o nascondere i controlli e usa le frecce **Precedente** e **Successivo** per cambiare l'aspetto. Usa il ben noto motore **Milkdrop (projectM)** con **500 preset**, renderizza con **OpenGL** e funziona su **iPhone, iPad e Mac**. I passaggi sono gli stessi in entrambe le app. I passaggi completi sono qui sotto.
 
 {{< cards cols="1">}}
 {{< card title="" subtitle="Visualizzatore musicale: preset Starfield Sectors" image="/docs/howto/how-to-turn-on-a-music-visualizer-while-playing-music-on-iphone-ipad-mac/music-visualizer-starfield-sectors-preset.webp" imageStyle="border-radius: clamp(14px, 2vw, 28px);" >}}

@@ -1,5 +1,5 @@
 ---
-title: "如何在 Flacbox 中使用音效與 DSP：壓縮器、Freeverb、Crossfeed、回音、音量正規化等（每個預設與設定完整解說）"
+title: "如何在 Flacbox 中使用音效與 DSP：壓縮器、Freeverb、Crossfeed、回音、音量正規化等"
 date: 2026-07-24
 description: "在 iPhone、iPad 與 Mac 上使用 Flacbox 音訊的完整指南。了解 BASS 引擎的運作方式、它能播放哪些額外格式（包括 MOD 與 tracker 音樂以及 DSD），以及每個效果、每個滑桿和每個預設對聲音的確切作用，另外還有 10 段等化器與自訂 DSP 鏈。"
 keywords: ["Flacbox 音效", "Flacbox 預設解說", "Flacbox BASS 引擎", "BASS 音訊庫 iOS", "MOD 音樂播放器 iPhone", "tracker 音樂播放器 iOS", "在 iPhone 播放 MOD XM IT S3M", "DSD 播放器 iOS", "FLAC 播放器 iPhone", "無損音樂播放器 iOS", "Flacbox 等化器預設", "10 段等化器 iPhone", "音量正規化 iPhone", "EBU R128 iOS", "音量正規化音樂播放器", "耳機 crossfeed iOS", "bs2b crossfeed", "壓縮器預設音樂播放器", "freeverb 殘響 iOS", "回音延遲音樂播放器", "DSP 鏈音樂播放器", "低音增強 iPhone", "如何在 Flacbox 為音樂加入效果", "iPhone 最佳等化器設定"]

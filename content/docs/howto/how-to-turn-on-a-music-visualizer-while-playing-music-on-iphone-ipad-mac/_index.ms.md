@@ -1,5 +1,5 @@
 ---
-title: "Cara Menghidupkan Penggambar Muzik Semasa Memainkan Muzik pada iPhone, iPad, dan Mac (Evermusic dan Flacbox)"
+title: "Cara Menghidupkan Penggambar Muzik Semasa Memainkan Muzik pada iPhone, iPad, dan Mac"
 date: 2026-07-24
 description: "Panduan lengkap untuk menggunakan penggambar muzik semasa anda memainkan muzik pada iPhone, iPad, dan Mac. Ketahui cara menghidupkannya dalam Evermusic dan Flacbox, cara visual Milkdrop (projectM) masa nyata bertindak balas terhadap muzik anda, kawalan pada skrin, cara menukar pratetap atau menggunakan mod Auto, dan cara ia berjalan pada iOS dan macOS dengan OpenGL dan 500 pratetap."
 keywords: ["penggambar muzik iPhone", "penggambar muzik iPad", "penggambar muzik Mac", "penggambar semasa memainkan muzik", "cara menghidupkan penggambar muzik", "aktifkan penggambar iPhone", "penggambar Evermusic", "penggambar Flacbox", "Milkdrop iOS", "projectM iOS", "pratetap Milkdrop", "aplikasi penggambar audio", "500 pratetap penggambar", "penggambar muzik OpenGL", "alternatif penggambar iTunes", "visual muzik menawan iPhone", "penggambar spektrum iOS", "penggambar muzik skrin penuh"]
@@ -9,7 +9,7 @@ readingTime: 9
 
 {{< author-byline >}}
 
-**Jawapan ringkas:** Evermusic dan Flacbox kedua-duanya mempunyai **penggambar muzik** skrin penuh yang melukis visual yang bergerak dan berwarna-warni seiring dengan muzik anda. Buka ia dari pemain **Now Playing** (**⋯ Lebih banyak tindakan > Visualisasi**) atau dari **Tetapan > Visualisasi**, kemudian pilih pratetap atau **Auto** dan ketik **Mulakan visualisasi**. Pada skrin penggambar, ketik sekali untuk menunjukkan atau menyembunyikan kawalan dan gunakan anak panah **Sebelumnya** dan **Seterusnya** untuk menukar rupa. Ia menggunakan enjin **Milkdrop (projectM)** yang terkenal dengan **500 pratetap**, memaparkan dengan **OpenGL**, dan berfungsi pada **iPhone, iPad, dan Mac**. Langkahnya adalah sama dalam kedua-dua aplikasi. Langkah penuh di bawah.
+**Jawapan ringkas:** [Evermusic](/products/evermusic) dan [Flacbox](/products/flacbox) kedua-duanya mempunyai **penggambar muzik** skrin penuh yang melukis visual yang bergerak dan berwarna-warni seiring dengan muzik anda. Buka ia dari pemain **Now Playing** (**⋯ Lebih banyak tindakan > Visualisasi**) atau dari **Tetapan > Visualisasi**, kemudian pilih pratetap atau **Auto** dan ketik **Mulakan visualisasi**. Pada skrin penggambar, ketik sekali untuk menunjukkan atau menyembunyikan kawalan dan gunakan anak panah **Sebelumnya** dan **Seterusnya** untuk menukar rupa. Ia menggunakan enjin **Milkdrop (projectM)** yang terkenal dengan **500 pratetap**, memaparkan dengan **OpenGL**, dan berfungsi pada **iPhone, iPad, dan Mac**. Langkahnya adalah sama dalam kedua-dua aplikasi. Langkah penuh di bawah.
 
 {{< cards cols="1">}}
 {{< card title="" subtitle="Penggambar muzik: pratetap Starfield Sectors" image="/docs/howto/how-to-turn-on-a-music-visualizer-while-playing-music-on-iphone-ipad-mac/music-visualizer-starfield-sectors-preset.webp" imageStyle="border-radius: clamp(14px, 2vw, 28px);" >}}

@@ -1,5 +1,5 @@
 ---
-title: "Slik slår du på en musikkvisualiserer mens du spiller musikk på iPhone, iPad og Mac (Evermusic og Flacbox)"
+title: "Slik slår du på en musikkvisualiserer mens du spiller musikk på iPhone, iPad og Mac"
 date: 2026-07-24
 description: "En komplett guide til å bruke en musikkvisualiserer mens du spiller musikk på iPhone, iPad og Mac. Lær hvordan du slår den på i Evermusic og Flacbox, hvordan de sanntids Milkdrop (projectM)-visualene reagerer på musikken din, kontrollene på skjermen, hvordan du endrer forhåndsinnstillinger eller bruker Auto-modus, og hvordan den kjører på iOS og macOS med OpenGL og 500 forhåndsinnstillinger."
 keywords: ["musikkvisualiserer iPhone", "musikkvisualiserer iPad", "musikkvisualiserer Mac", "visualiserer mens musikk spilles", "slik slår du på musikkvisualiserer", "aktiver visualiserer iPhone", "Evermusic visualiserer", "Flacbox visualiserer", "Milkdrop iOS", "projectM iOS", "Milkdrop forhåndsinnstillinger", "lydvisualiserer-app", "500 visualiserer forhåndsinnstillinger", "OpenGL musikkvisualiserer", "iTunes visualiserer alternativ", "trippy musikkvisualer iPhone", "spektervisualiserer iOS", "fullskjerm musikkvisualiserer"]
@@ -9,7 +9,7 @@ readingTime: 9
 
 {{< author-byline >}}
 
-**Kort svar:** Evermusic og Flacbox har begge en fullskjerms **musikkvisualiserer** som maler bevegelige, fargerike visualer i takt med musikken din. Åpne den fra **Nå spilles**-spilleren (**⋯ Flere handlinger > Visualisering**) eller fra **Innstillinger > Visualisering**, velg deretter en forhåndsinnstilling eller **Auto** og trykk **Start visualisering**. På visualisererskjermen trykker du én gang for å vise eller skjule kontrollene, og bruker **Forrige**- og **Neste**-pilene for å endre utseendet. Den bruker den velkjente **Milkdrop (projectM)**-motoren med **500 forhåndsinnstillinger**, gjengir med **OpenGL** og fungerer på **iPhone, iPad og Mac**. Trinnene er de samme i begge apper. Fulle trinn er nedenfor.
+**Kort svar:** [Evermusic](/products/evermusic) og [Flacbox](/products/flacbox) har begge en fullskjerms **musikkvisualiserer** som maler bevegelige, fargerike visualer i takt med musikken din. Åpne den fra **Nå spilles**-spilleren (**⋯ Flere handlinger > Visualisering**) eller fra **Innstillinger > Visualisering**, velg deretter en forhåndsinnstilling eller **Auto** og trykk **Start visualisering**. På visualisererskjermen trykker du én gang for å vise eller skjule kontrollene, og bruker **Forrige**- og **Neste**-pilene for å endre utseendet. Den bruker den velkjente **Milkdrop (projectM)**-motoren med **500 forhåndsinnstillinger**, gjengir med **OpenGL** og fungerer på **iPhone, iPad og Mac**. Trinnene er de samme i begge apper. Fulle trinn er nedenfor.
 
 {{< cards cols="1">}}
 {{< card title="" subtitle="Musikkvisualiserer: Starfield Sectors-forhåndsinnstilling" image="/docs/howto/how-to-turn-on-a-music-visualizer-while-playing-music-on-iphone-ipad-mac/music-visualizer-starfield-sectors-preset.webp" imageStyle="border-radius: clamp(14px, 2vw, 28px);" >}}

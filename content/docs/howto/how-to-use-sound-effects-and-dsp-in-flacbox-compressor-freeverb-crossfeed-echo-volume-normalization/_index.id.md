@@ -1,5 +1,5 @@
 ---
-title: "Cara Menggunakan Efek Suara dan DSP di Flacbox: Compressor, Freeverb, Crossfeed, Echo, Normalisasi Volume, dan lainnya (Setiap Preset dan Pengaturan Dijelaskan)"
+title: "Cara Menggunakan Efek Suara dan DSP di Flacbox: Compressor, Freeverb, Crossfeed, Echo, Normalisasi Volume, dan lainnya"
 date: 2026-07-24
 description: "Panduan lengkap audio Flacbox di iPhone, iPad, dan Mac. Pelajari cara kerja engine BASS, format tambahan apa saja yang bisa diputar (termasuk musik MOD dan tracker serta DSD), dan apa persisnya yang dilakukan setiap efek, setiap slider, dan setiap preset terhadap suara Anda, ditambah equalizer 10 band dan rantai DSP kustom."
 keywords: ["efek audio Flacbox", "preset Flacbox dijelaskan", "engine BASS Flacbox", "pustaka audio BASS iOS", "pemutar musik MOD iPhone", "pemutar musik tracker iOS", "putar MOD XM IT S3M iPhone", "pemutar DSD iOS", "pemutar FLAC iPhone", "pemutar musik lossless iOS", "preset equalizer Flacbox", "equalizer 10 band iPhone", "normalisasi volume iPhone", "EBU R128 iOS", "normalisasi kenyaringan pemutar musik", "crossfeed headphone iOS", "bs2b crossfeed", "preset compressor pemutar musik", "reverb freeverb iOS", "echo delay pemutar musik", "rantai DSP pemutar musik", "bass boost iPhone", "cara menambahkan efek ke musik Flacbox", "pengaturan equalizer terbaik iPhone"]

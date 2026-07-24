@@ -1,5 +1,5 @@
 ---
-title: "Jak włączyć wizualizator muzyki podczas odtwarzania muzyki na iPhone, iPad i Mac (Evermusic i Flacbox)"
+title: "Jak włączyć wizualizator muzyki podczas odtwarzania muzyki na iPhone, iPad i Mac"
 date: 2026-07-24
 description: "Kompletny przewodnik po korzystaniu z wizualizatora muzyki podczas odtwarzania muzyki na iPhone, iPad i Mac. Dowiedz się, jak włączyć go w Evermusic i Flacbox, jak wizualizacje Milkdrop (projectM) w czasie rzeczywistym reagują na Twoją muzykę, jak działają elementy sterujące na ekranie, jak zmieniać presety lub korzystać z trybu Auto oraz jak działa on na iOS i macOS z OpenGL i 500 presetami."
 keywords: ["wizualizator muzyki iPhone", "wizualizator muzyki iPad", "wizualizator muzyki Mac", "wizualizator podczas odtwarzania muzyki", "jak włączyć wizualizator muzyki", "aktywować wizualizator iPhone", "wizualizator Evermusic", "wizualizator Flacbox", "Milkdrop iOS", "projectM iOS", "presety Milkdrop", "aplikacja wizualizator audio", "500 presetów wizualizatora", "wizualizator muzyki OpenGL", "alternatywa wizualizatora iTunes", "odjazdowe wizualizacje muzyki iPhone", "wizualizator widma iOS", "pełnoekranowy wizualizator muzyki"]
@@ -9,7 +9,7 @@ readingTime: 9
 
 {{< author-byline >}}
 
-**Krótka odpowiedź:** Evermusic i Flacbox mają pełnoekranowy **wizualizator muzyki**, który maluje ruchome, kolorowe wizualizacje w rytm Twojej muzyki. Otwórz go z ekranu odtwarzacza **Teraz odtwarzane** (**⋯ Więcej > Wizualizacja**) lub z **Ustawienia > Wizualizacja**, a następnie wybierz preset lub **Auto** i dotknij **Rozpocznij wizualizację**. Na ekranie wizualizatora dotknij raz, aby pokazać lub ukryć elementy sterujące, i użyj strzałek **Poprzedni** i **Następny**, aby zmienić wygląd. Korzysta on ze znanego silnika **Milkdrop (projectM)** z **500 presetami**, renderuje z użyciem **OpenGL** i działa na **iPhone, iPad i Mac**. Kroki są takie same w obu aplikacjach. Pełne kroki znajdziesz poniżej.
+**Krótka odpowiedź:** [Evermusic](/products/evermusic) i [Flacbox](/products/flacbox) mają pełnoekranowy **wizualizator muzyki**, który maluje ruchome, kolorowe wizualizacje w rytm Twojej muzyki. Otwórz go z ekranu odtwarzacza **Teraz odtwarzane** (**⋯ Więcej > Wizualizacja**) lub z **Ustawienia > Wizualizacja**, a następnie wybierz preset lub **Auto** i dotknij **Rozpocznij wizualizację**. Na ekranie wizualizatora dotknij raz, aby pokazać lub ukryć elementy sterujące, i użyj strzałek **Poprzedni** i **Następny**, aby zmienić wygląd. Korzysta on ze znanego silnika **Milkdrop (projectM)** z **500 presetami**, renderuje z użyciem **OpenGL** i działa na **iPhone, iPad i Mac**. Kroki są takie same w obu aplikacjach. Pełne kroki znajdziesz poniżej.
 
 {{< cards cols="1">}}
 {{< card title="" subtitle="Wizualizator muzyki: preset Starfield Sectors" image="/docs/howto/how-to-turn-on-a-music-visualizer-while-playing-music-on-iphone-ipad-mac/music-visualizer-starfield-sectors-preset.webp" imageStyle="border-radius: clamp(14px, 2vw, 28px);" >}}

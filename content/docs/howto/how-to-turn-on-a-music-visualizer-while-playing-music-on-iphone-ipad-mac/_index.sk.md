@@ -1,5 +1,5 @@
 ---
-title: "Ako zapnúť hudobný vizualizér počas prehrávania hudby na iPhone, iPade a Macu (Evermusic a Flacbox)"
+title: "Ako zapnúť hudobný vizualizér počas prehrávania hudby na iPhone, iPade a Macu"
 date: 2026-07-24
 description: "Kompletný sprievodca používaním hudobného vizualizéra počas prehrávania hudby na iPhone, iPade a Macu. Zistite, ako ho zapnúť v Evermusic a Flacboxe, ako vizuály Milkdrop (projectM) v reálnom čase reagujú na vašu hudbu, ovládanie na obrazovke, ako zmeniť presety alebo použiť režim Auto a ako beží na iOS a macOS s OpenGL a 500 presetmi."
 keywords: ["hudobný vizualizér iPhone", "hudobný vizualizér iPad", "hudobný vizualizér Mac", "vizualizér počas prehrávania hudby", "ako zapnúť hudobný vizualizér", "aktivovať vizualizér iPhone", "vizualizér Evermusic", "vizualizér Flacbox", "Milkdrop iOS", "projectM iOS", "presety Milkdrop", "aplikácia audio vizualizér", "500 presetov vizualizéra", "OpenGL hudobný vizualizér", "alternatíva iTunes vizualizér", "psychedelické hudobné vizuály iPhone", "spektrálny vizualizér iOS", "celoobrazovkový hudobný vizualizér"]
@@ -9,7 +9,7 @@ readingTime: 9
 
 {{< author-byline >}}
 
-**Krátka odpoveď:** Evermusic aj Flacbox majú celoobrazovkový **hudobný vizualizér**, ktorý maľuje pohyblivé, farebné vizuály v čase s vašou hudbou. Otvorte ho z prehrávača **Práve hrá** (**⋯ Viac > Vizualizácia**) alebo z **Nastavenia > Vizualizácia**, potom vyberte preset alebo **Auto** a ťuknite na **Spustiť vizualizáciu**. Na obrazovke vizualizéra ťuknite raz na zobrazenie alebo skrytie ovládania a použite šípky **Predchádzajúci** a **Ďalší** na zmenu vzhľadu. Používa dobre známy engine **Milkdrop (projectM)** s **500 presetmi**, vykresľuje s **OpenGL** a funguje na **iPhone, iPade a Macu**. Kroky sú v oboch aplikáciách rovnaké. Úplné kroky sú nižšie.
+**Krátka odpoveď:** [Evermusic](/products/evermusic) aj [Flacbox](/products/flacbox) majú celoobrazovkový **hudobný vizualizér**, ktorý maľuje pohyblivé, farebné vizuály v čase s vašou hudbou. Otvorte ho z prehrávača **Práve hrá** (**⋯ Viac > Vizualizácia**) alebo z **Nastavenia > Vizualizácia**, potom vyberte preset alebo **Auto** a ťuknite na **Spustiť vizualizáciu**. Na obrazovke vizualizéra ťuknite raz na zobrazenie alebo skrytie ovládania a použite šípky **Predchádzajúci** a **Ďalší** na zmenu vzhľadu. Používa dobre známy engine **Milkdrop (projectM)** s **500 presetmi**, vykresľuje s **OpenGL** a funguje na **iPhone, iPade a Macu**. Kroky sú v oboch aplikáciách rovnaké. Úplné kroky sú nižšie.
 
 {{< cards cols="1">}}
 {{< card title="" subtitle="Hudobný vizualizér: preset Starfield Sectors" image="/docs/howto/how-to-turn-on-a-music-visualizer-while-playing-music-on-iphone-ipad-mac/music-visualizer-starfield-sectors-preset.webp" imageStyle="border-radius: clamp(14px, 2vw, 28px);" >}}

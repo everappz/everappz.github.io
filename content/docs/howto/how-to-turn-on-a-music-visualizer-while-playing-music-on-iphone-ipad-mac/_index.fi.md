@@ -1,5 +1,5 @@
 ---
-title: "Kuinka ottaa musiikkivisualisointi käyttöön musiikkia soitettaessa iPhonella, iPadilla ja Macilla (Evermusic ja Flacbox)"
+title: "Kuinka ottaa musiikkivisualisointi käyttöön musiikkia soitettaessa iPhonella, iPadilla ja Macilla"
 date: 2026-07-24
 description: "Täydellinen opas musiikkivisualisoinnin käyttöön musiikkia soitettaessa iPhonella, iPadilla ja Macilla. Opi, kuinka ottaa se käyttöön Evermusicissa ja Flacboxissa, kuinka reaaliaikaiset Milkdrop (projectM) -visuaalit reagoivat musiikkiisi, näytön säätimet, kuinka vaihtaa esiasetuksia tai käyttää Auto-tilaa ja kuinka se toimii iOS:llä ja macOS:llä OpenGL:n ja 500 esiasetuksen kanssa."
 keywords: ["musiikkivisualisointi iPhone", "musiikkivisualisointi iPad", "musiikkivisualisointi Mac", "visualisointi musiikkia soitettaessa", "kuinka ottaa musiikkivisualisointi käyttöön", "aktivoi visualisointi iPhone", "Evermusic visualisointi", "Flacbox visualisointi", "Milkdrop iOS", "projectM iOS", "Milkdrop esiasetukset", "äänivisualisointisovellus", "500 visualisointiesiasetusta", "OpenGL musiikkivisualisointi", "iTunes-visualisoinnin vaihtoehto", "trippailevat musiikkivisuaalit iPhone", "spektrivisualisointi iOS", "koko näytön musiikkivisualisointi"]
@@ -9,7 +9,7 @@ readingTime: 9
 
 {{< author-byline >}}
 
-**Lyhyt vastaus:** Evermusicissa ja Flacboxissa on molemmissa koko näytön **musiikkivisualisointi**, joka maalaa liikkuvia, värikkäitä visuaaleja musiikkisi tahdissa. Avaa se **Nyt soi** -soittimesta (**⋯ Lisää > Visualisointi**) tai kohdasta **Asetukset > Visualisointi**, valitse sitten esiasetus tai **Auto** ja napauta **Aloita visualisointi**. Visualisointinäytöllä napauta kerran näyttääksesi tai piilottaaksesi säätimet ja käytä **Edellinen**- ja **Seuraava**-nuolia ulkoasun vaihtamiseen. Se käyttää tunnettua **Milkdrop (projectM)** -moottoria **500 esiasetuksella**, renderöi **OpenGL**:llä ja toimii **iPhonella, iPadilla ja Macilla**. Vaiheet ovat samat molemmissa sovelluksissa. Täydet ohjeet ovat alla.
+**Lyhyt vastaus:** [Evermusic](/products/evermusic)issa ja [Flacbox](/products/flacbox)issa on molemmissa koko näytön **musiikkivisualisointi**, joka maalaa liikkuvia, värikkäitä visuaaleja musiikkisi tahdissa. Avaa se **Nyt soi** -soittimesta (**⋯ Lisää > Visualisointi**) tai kohdasta **Asetukset > Visualisointi**, valitse sitten esiasetus tai **Auto** ja napauta **Aloita visualisointi**. Visualisointinäytöllä napauta kerran näyttääksesi tai piilottaaksesi säätimet ja käytä **Edellinen**- ja **Seuraava**-nuolia ulkoasun vaihtamiseen. Se käyttää tunnettua **Milkdrop (projectM)** -moottoria **500 esiasetuksella**, renderöi **OpenGL**:llä ja toimii **iPhonella, iPadilla ja Macilla**. Vaiheet ovat samat molemmissa sovelluksissa. Täydet ohjeet ovat alla.
 
 {{< cards cols="1">}}
 {{< card title="" subtitle="Musiikkivisualisointi: Starfield Sectors -esiasetus" image="/docs/howto/how-to-turn-on-a-music-visualizer-while-playing-music-on-iphone-ipad-mac/music-visualizer-starfield-sectors-preset.webp" imageStyle="border-radius: clamp(14px, 2vw, 28px);" >}}
