@@ -1,7 +1,7 @@
 ---
 title: "How to Use Sound Effects and DSP in Flacbox: Compressor, Freeverb, Crossfeed, Echo, Volume Normalization, and more (Every Preset and Setting Explained)"
 date: 2026-07-24
-description: "The complete, plain-English guide to Flacbox audio on iPhone, iPad, and Mac. Learn how the BASS engine works, which extra formats it plays (including MOD and tracker music and DSD), and exactly what every effect, every slider, and every preset does to your sound, plus the 10-band equalizer and the custom DSP chain."
+description: "The complete guide to Flacbox audio on iPhone, iPad, and Mac. Learn how the BASS engine works, which extra formats it plays (including MOD and tracker music and DSD), and exactly what every effect, every slider, and every preset does to your sound, plus the 10-band equalizer and the custom DSP chain."
 keywords: ["Flacbox audio effects", "Flacbox presets explained", "Flacbox BASS engine", "BASS audio library iOS", "MOD music player iPhone", "tracker music player iOS", "play MOD XM IT S3M iPhone", "DSD player iOS", "FLAC player iPhone", "lossless music player iOS", "Flacbox equalizer presets", "10 band equalizer iPhone", "volume normalization iPhone", "EBU R128 iOS", "loudness normalization music player", "crossfeed headphones iOS", "bs2b crossfeed", "compressor presets music player", "freeverb reverb iOS", "echo delay music player", "DSP chain music player", "bass boost iPhone", "how to add effects to music Flacbox", "best equalizer settings iPhone"]
 tags: ["Flacbox", "Audio Effects", "How To", "BASS", "Equalizer", "Bass Boost", "Compressor", "Freeverb", "Crossfeed", "Echo", "Volume Normalization", "EBU R128", "MOD Music", "Tracker Music", "DSD", "FLAC", "DSP", "Headphones", "Presets"]
 readingTime: 30
