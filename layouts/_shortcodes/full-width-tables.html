@@ -1,7 +1,13 @@
 {{- /*
   full-width-tables: makes every markdown table on the current page render at the
-  same (full container) width. Scoped to the page it is used on. Usage: {{< full-width-tables >}}
+  same (full container) width, instead of shrinking to its content. Scoped to the
+  page it is used on. Usage: {{< full-width-tables >}}
+
+  The selector must out-specify the Hextra theme rule
+  ".content :where(table)..." (specificity 0,1,0), which sets display:block and
+  makes tables shrink to content width. ".content table" is 0,1,1 and wins.
+  Code line-number tables (.lntable) are excluded so code blocks are unaffected.
 */ -}}
 <style>
-main table, article table, .hextra-content table { display: table; width: 100%; table-layout: auto; }
+.content table:not(.lntable) { display: table; width: 100%; table-layout: auto; }
 </style>
