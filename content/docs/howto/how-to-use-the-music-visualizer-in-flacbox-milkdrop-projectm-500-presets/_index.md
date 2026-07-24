@@ -11,7 +11,7 @@ aliases:
 
 {{< author-byline >}}
 
-**Short answer:** Flacbox has a full-screen **music visualizer** that paints moving, colorful visuals in time with whatever you are playing. To turn it on, open the **Now Playing** player, tap the **⋯ (More)** button, and choose **Visualization** (you can also open it from **Settings > Visualization**). Pick a preset from the list, or choose **Auto** to shuffle through them, then tap **Start visualization**. On the visualizer screen, **tap once** to show or hide the controls, and use the **Previous** and **Next** arrows to change the look. The visualizer uses the well-known **Milkdrop (projectM)** engine with **500 presets**, renders with **OpenGL**, and works on **iPhone, iPad, and Mac**.
+**Short answer:** Flacbox has a full-screen **music visualizer** that paints moving, colorful visuals in time with your music. Open it from the **Now Playing** player (**⋯ More > Visualization**) or from **Settings > Visualization**, then pick a preset or **Auto** and tap **Start visualization**. On the visualizer screen, tap once to show or hide the controls and use the **Previous** and **Next** arrows to change the look. It uses the well-known **Milkdrop (projectM)** engine with **500 presets**, renders with **OpenGL**, and works on **iPhone, iPad, and Mac**. Full steps are below.
 
 {{< cards cols="1">}}
 {{< card title="" subtitle="Flacbox visualizer: Starfield Sectors preset" image="/docs/howto/how-to-use-the-music-visualizer-in-flacbox-milkdrop-projectm-500-presets/flacbox-music-visualizer-starfield-sectors-preset.webp" imageStyle="border-radius: clamp(14px, 2vw, 28px);" >}}
