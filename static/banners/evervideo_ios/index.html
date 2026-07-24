@@ -7,6 +7,12 @@
       content="width=device-width, initial-scale=1, viewport-fit=cover, maximum-scale=1, user-scalable=no"
     />
     <title>Evervideo — Play Any Video File</title>
+    <script>
+      // Hold the CSS entrance animation until every image and font has loaded,
+      // so the banner never animates in over half-loaded artwork. Added here,
+      // before the body renders, so nothing ever flashes un-paused.
+      document.documentElement.classList.add("ls-preload");
+    </script>
     <style>
       /* ---- App brand font (DM Sans, variable) ---- */
       @font-face {
@@ -402,6 +408,19 @@
       .feature:nth-child(8) { animation-delay: 1.31s; }
       .cta { animation: rise 0.55s cubic-bezier(0.16, 1, 0.3, 1) both 1.34s; }
       .trust { animation: rise 0.5s ease both 1.62s; }
+      /* Hold every entrance animation at its first frame until the page is
+         fully loaded (see the ls-preload script) so the sequence plays with all
+         artwork already on screen instead of over half-loaded images. */
+      html.ls-preload .skip,
+      html.ls-preload .eyebrow,
+      html.ls-preload .shot,
+      html.ls-preload .brandrow,
+      html.ls-preload .app-icon,
+      html.ls-preload .hook,
+      html.ls-preload .rating,
+      html.ls-preload .feature,
+      html.ls-preload .cta,
+      html.ls-preload .trust { animation-play-state: paused !important; }
 
       @media (prefers-reduced-motion: reduce) {
         * { animation-duration: 0.001s !important; animation-iteration-count: 1 !important; }
@@ -515,6 +534,42 @@
       /* ---- Localizations and the store link live in config.json, loaded at
              runtime. The English text baked into the markup above is the
              fallback if the config can't be fetched (e.g. opened as a file). ---- */
+      // ---- Reveal gating ------------------------------------------------
+      // The page loads with <html class="ls-preload">, which pauses every
+      // entrance animation (see CSS). We drop the class - starting the
+      // animation - only once fonts and all images (app icon + screenshots)
+      // have loaded, so the whole sequence plays with the artwork on screen.
+      var lsRevealed = false;
+      function lsReveal() {
+        if (lsRevealed) return;
+        lsRevealed = true;
+        document.documentElement.classList.remove("ls-preload");
+      }
+      function lsWhenImagesSettled(done) {
+        var imgs = Array.prototype.slice.call(document.images || []);
+        var pending = imgs.filter(function (im) { return !im.complete; });
+        var remaining = pending.length;
+        if (remaining === 0) { done(); return; }
+        pending.forEach(function (im) {
+          function fin() {
+            im.removeEventListener("load", fin);
+            im.removeEventListener("error", fin);
+            if (--remaining <= 0) done();
+          }
+          im.addEventListener("load", fin);
+          im.addEventListener("error", fin);
+        });
+      }
+      var lsRevealArmed = false;
+      function lsRevealWhenLoaded() {
+        if (lsRevealArmed) return;
+        lsRevealArmed = true;
+        var fonts = (document.fonts && document.fonts.ready) ? document.fonts.ready : Promise.resolve();
+        fonts.then(function () { lsWhenImagesSettled(lsReveal); });
+      }
+      // Safety net: never leave the banner hidden if a resource stalls.
+      setTimeout(lsReveal, 5000);
+
       var a11yShotText = "App screenshot"; // localized alt for the first screenshot (shared with the slideshow builder)
 
       function applyConfig(cfg) {
@@ -603,6 +658,7 @@
       var slideEls = [];
 
       function startCrossfade() {
+        lsRevealWhenLoaded(); // slides are built - reveal once every image is in
         if (slideEls.length < 2) return; // 0 or 1 screenshot: nothing to cross-fade
         var i = 0;
         setInterval(function () {
