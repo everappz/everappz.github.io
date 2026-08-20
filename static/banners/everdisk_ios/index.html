@@ -409,7 +409,7 @@
       }
 
       /* Close button reveals last, after every other element has animated in */
-      .skip { animation: rise 0.5s ease both 2.2s; }
+      .skip { animation: rise 0.4s ease both 0.2s; }
       .eyebrow { animation: rise 0.5s ease both 0.25s; }
       @keyframes sparkle {
         0%, 100% { transform: scale(1) rotate(0); opacity: 0.85; }
@@ -433,7 +433,6 @@
       /* Hold every entrance animation at its first frame until the page is
          fully loaded (see the ls-preload script) so the sequence plays with all
          artwork already on screen instead of over half-loaded images. */
-      html.ls-preload .skip,
       html.ls-preload .eyebrow,
       html.ls-preload .shot,
       html.ls-preload .brandrow,
