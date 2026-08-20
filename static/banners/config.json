@@ -99,6 +99,17 @@
       "priority": "normal",
       "configPath": "flacbox_macos/config.json",
       "indexPath": "flacbox_macos/index.html"
+    },
+    {
+      "id": 10,
+      "name": "everdisk_ios",
+      "platform": "ios",
+      "scheme": "lseverdisk",
+      "bundleID": "com.leshko.airdrive",
+      "version": 1,
+      "priority": "normal",
+      "configPath": "everdisk_ios/config.json",
+      "indexPath": "everdisk_ios/index.html"
     }
   ]
 }
