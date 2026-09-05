@@ -320,6 +320,11 @@ menu:
       pageRef: /products/evertag
       parent: products
       weight: 4
+    - identifier: everdisk
+      name: Everdisk
+      pageRef: /products/everdisk
+      parent: products
+      weight: 5
     - identifier: blog
       name: Blog
       pageRef: /blog

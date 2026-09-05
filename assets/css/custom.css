@@ -19,14 +19,12 @@
 .hero-headline-icon {
     width: 60px;
     height: 60px;
-    border-radius: 10px;
 }
 
 @media (max-width: 639px) {
     .hero-headline-icon {
         width: 60px;
         height: 60px;
-        border-radius: 10px;
     }
     .hero-headline {
         font-size: 3rem;

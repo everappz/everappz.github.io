@@ -36,7 +36,7 @@ FAQ 페이지는 클라우드 스토리지 연결, 음악 및 비디오 파일 �
   image="/images/app_icons/webp/Evervideo_Icon-App-1024x1024.webp"
   method="Resize"
   options="200x q80 webp"
-  imageStyle="width: 72px; height: auto; margin-left: 1rem; margin-top: 1rem; border-radius: 12px; align-self: start; flex-shrink: 0;" 
+  imageStyle="width: 72px; height: auto; margin-left: 1rem; margin-top: 1rem; align-self: start; flex-shrink: 0;" 
 >}}
 
 {{< card 
@@ -46,7 +46,7 @@ FAQ 페이지는 클라우드 스토리지 연결, 음악 및 비디오 파일 �
   image="/images/app_icons/webp/Evermusic_Icon-App-1024x1024.webp"
   method="Resize"
   options="200x q80 webp"
-  imageStyle="width: 72px; height: auto; margin-left: 1rem; margin-top: 1rem; border-radius: 12px; align-self: start; flex-shrink: 0;"  
+  imageStyle="width: 72px; height: auto; margin-left: 1rem; margin-top: 1rem; align-self: start; flex-shrink: 0;"  
 >}}
 
 {{< card 
@@ -56,7 +56,7 @@ FAQ 페이지는 클라우드 스토리지 연결, 음악 및 비디오 파일 �
   image="/images/app_icons/webp/Flacbox_Icon-App-1024x1024.webp"
   method="Resize"
   options="200x q80 webp"
-  imageStyle="width: 72px; height: auto; margin-left: 1rem; margin-top: 1rem; border-radius: 12px; align-self: start; flex-shrink: 0;"  
+  imageStyle="width: 72px; height: auto; margin-left: 1rem; margin-top: 1rem; align-self: start; flex-shrink: 0;"  
 >}}
 
 {{< card 
@@ -66,7 +66,7 @@ FAQ 페이지는 클라우드 스토리지 연결, 음악 및 비디오 파일 �
   image="/images/app_icons/webp/Evertag_Icon-App-1024x1024.webp"
   method="Resize"
   options="200x q80 webp"
-  imageStyle="width: 72px; height: auto; margin-left: 1rem; margin-top: 1rem; border-radius: 12px; align-self: start; flex-shrink: 0;" 
+  imageStyle="width: 72px; height: auto; margin-left: 1rem; margin-top: 1rem; align-self: start; flex-shrink: 0;" 
 >}}
 
 {{< /cards >}}

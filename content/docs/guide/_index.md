@@ -36,7 +36,7 @@ Pick an app below to get started.
   image="/images/app_icons/webp/Evervideo_Icon-App-1024x1024.webp"
   method="Resize"
   options="200x q80 webp"
-  imageStyle="width: 72px; height: auto; margin-left: 1rem; margin-top: 1rem; border-radius: 12px; align-self: start; flex-shrink: 0;"  
+  imageStyle="width: 72px; height: auto; margin-left: 1rem; margin-top: 1rem; align-self: start; flex-shrink: 0;"  
 >}}
 
 {{< card 
@@ -46,7 +46,7 @@ Pick an app below to get started.
   image="/images/app_icons/webp/Evermusic_Icon-App-1024x1024.webp"
   method="Resize"
   options="200x q80 webp"
-  imageStyle="width: 72px; height: auto; margin-left: 1rem; margin-top: 1rem; border-radius: 12px; align-self: start; flex-shrink: 0;"  
+  imageStyle="width: 72px; height: auto; margin-left: 1rem; margin-top: 1rem; align-self: start; flex-shrink: 0;"  
 >}}
 
 {{< card 
@@ -56,7 +56,7 @@ Pick an app below to get started.
   image="/images/app_icons/webp/Flacbox_Icon-App-1024x1024.webp"
   method="Resize"
   options="200x q80 webp"
-  imageStyle="width: 72px; height: auto; margin-left: 1rem; margin-top: 1rem; border-radius: 12px; align-self: start; flex-shrink: 0;"  
+  imageStyle="width: 72px; height: auto; margin-left: 1rem; margin-top: 1rem; align-self: start; flex-shrink: 0;"  
 >}}
 
 {{< card 
@@ -66,7 +66,17 @@ Pick an app below to get started.
   image="/images/app_icons/webp/Evertag_Icon-App-1024x1024.webp"
   method="Resize"
   options="200x q80 webp"
-  imageStyle="width: 72px; height: auto; margin-left: 1rem; margin-top: 1rem; border-radius: 12px; align-self: start; flex-shrink: 0;" 
+  imageStyle="width: 72px; height: auto; margin-left: 1rem; margin-top: 1rem; align-self: start; flex-shrink: 0;" 
+>}}
+
+{{< card 
+  link="/docs/guide/everdisk"
+  title="Everdisk" 
+  subtitle="Turn your iPhone or iPad into a wireless drive. Share files, photos, videos and music with any device over DLNA, HTTP, WebDAV and FTP, connect to other servers, and manage everything on your device." 
+  image="/images/app_icons/webp/Everdisk_Icon-App-1024x1024.webp"
+  method="Resize"
+  options="200x q80 webp"
+  imageStyle="width: 72px; height: auto; margin-left: 1rem; margin-top: 1rem; align-self: start; flex-shrink: 0;" 
 >}}
 
 {{< /cards >}}
