@@ -1,6 +1,6 @@
 ---
 title: "Files & Documents"
-date: 2025-09-03
+date: 2026-09-06
 description: "Use the Documents tab in Everdisk as a full file manager: browse in list or grid, create folders, rename, move, copy, upload and delete, zip and unzip files, connect external folders from your device, scan paper documents to PDF, use the built-in PDF tools (compress, OCR, password, permissions, metadata, flatten), and view file info."
 keywords: [
   "Everdisk file manager", "Documents tab", "create folder iPhone", "rename move copy files",

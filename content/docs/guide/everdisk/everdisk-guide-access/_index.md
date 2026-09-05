@@ -1,6 +1,6 @@
 ---
 title: "Access & Privacy"
-date: 2025-09-03
+date: 2026-09-06
 description: "Keep your Everdisk sharing safe: protect access with a login and password, control whether connected devices can upload, rename and delete with Files Editing, block unknown devices, choose trash vs. permanent delete, and understand why everything stays on your local network."
 keywords: [
   "Everdisk password protection", "files editing toggle", "block device",

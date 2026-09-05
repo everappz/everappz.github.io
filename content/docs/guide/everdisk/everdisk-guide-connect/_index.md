@@ -1,6 +1,6 @@
 ---
 title: "Connect Your Devices"
-date: 2025-09-03
+date: 2026-09-06
 description: "Step-by-step instructions for connecting to your Everdisk wireless drive: watch on a smart TV over DLNA, open your files in any web browser, mount your device as a network drive in Finder, Windows or Linux over WebDAV, connect file apps over FTP, and transfer over a USB cable to a Mac with no Wi-Fi."
 keywords: [
   "connect to Everdisk", "stream to TV DLNA", "open files in browser",

@@ -1,6 +1,6 @@
 ---
 title: "Sharing"
-date: 2025-09-03
+date: 2026-09-06
 description: "Learn how sharing works in Everdisk: tap Start to turn your iPhone or iPad into a wireless drive, choose what to share (files, folders, photos and music), run the four servers (DLNA, HTTP, WebDAV, FTP), read the connection addresses, see who is connected, and keep sharing running over Wi-Fi or a USB cable."
 keywords: [
   "Everdisk sharing", "wireless drive iPhone", "start sharing", "share files iPhone",

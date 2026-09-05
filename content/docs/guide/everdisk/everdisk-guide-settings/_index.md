@@ -1,6 +1,6 @@
 ---
 title: "Settings"
-date: 2025-09-03
+date: 2026-09-06
 description: "A complete tour of Everdisk settings: device profile (name and avatar), the four connection servers, access controls, photo and video quality, custom ports, DLNA thumbnails, network and transfer options, file manager options, and Premium."
 keywords: [
   "Everdisk settings", "device name avatar", "connection servers", "photo video quality",

@@ -1,5 +1,5 @@
 ---
-date: '2025-09-03T17:00:00+00:00'
+date: '2026-09-06T17:00:00+00:00'
 title: 'Everdisk - Turn Your iPhone and iPad into a Wireless Drive'
 layout: hextra-home
 description: "Turn your iPhone or iPad into a wireless drive. Share files, photos, videos and music with any device on your network over DLNA, HTTP, WebDAV and FTP - no accounts, no cloud, no extra app."

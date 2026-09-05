@@ -1,6 +1,6 @@
 ---
 title: "Photos, Music & Video"
-date: 2025-09-03
+date: 2026-09-06
 description: "Share your whole photo and music library over the network with Everdisk, and play media on your device: the audio mini player with a queue, shuffle and repeat, full-screen video with AirPlay and picture-in-picture, the photo gallery, and how original vs. compatible quality settings affect speed."
 keywords: [
   "share photos over network", "share music library iPhone", "listen to music Everdisk",
