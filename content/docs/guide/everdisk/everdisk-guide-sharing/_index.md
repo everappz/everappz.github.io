@@ -20,7 +20,7 @@ The **Sharing** tab is the heart of Everdisk. It is where you turn your iPhone o
 
 In the middle of the Sharing screen is a large round button.
 
-- Tap **Start** to bring all of your enabled servers online at once. The button shows **Starting…**, then **Stop** once sharing is live.
+- Tap **Start** to bring all of your enabled servers online at once. The button shows **Starting...**, then **Stop** once sharing is live.
 - Tap **Stop** to take everything offline again. Connected devices are disconnected.
 
 While sharing is running, your chosen files, photos and music are available to any device on the same network that connects using one of the four methods below.
@@ -54,16 +54,16 @@ If you try to start with nothing selected, Everdisk shows a **Nothing to Share**
 
 Everdisk shares the same content four ways at once. Each one is designed for a different kind of device, and each can be turned on or off in **Settings → Sharing → Connections**. By default all four are on.
 
-- **TV & Media Center (DLNA)** — for smart TVs and media players. They discover your device by itself and show your photos, videos and music, with preview thumbnails.
-- **Browser (HTTP)** — for any phone, tablet or computer. The other person opens a link in a web browser to browse and download your files. Nothing to install.
-- **Computer (WebDAV)** — for a Mac, Windows PC or Linux machine. Your device appears as a normal network drive so you can drag files in both directions.
-- **Other Apps & Devices (FTP)** — for file apps and power users that speak FTP.
+- **TV & Media Center (DLNA)** - for smart TVs and media players. They discover your device by itself and show your photos, videos and music, with preview thumbnails.
+- **Browser (HTTP)** - for any phone, tablet or computer. The other person opens a link in a web browser to browse and download your files. Nothing to install.
+- **Computer (WebDAV)** - for a Mac, Windows PC or Linux machine. Your device appears as a normal network drive so you can drag files in both directions.
+- **Other Apps & Devices (FTP)** - for file apps and power users that speak FTP.
 
 For step-by-step connection instructions for each type, see [Connect Your Devices](/docs/guide/everdisk/everdisk-guide-connect).
 
 ## How to Connect and connection addresses
 
-After you tap Start, the **How to Connect** section shows a card for each active server with the exact **address** to type on the other device. Each address is easy to copy — tap it to copy, use the **Share** button to send it, or tap the **info (ⓘ)** button for detailed, per-protocol instructions.
+After you tap Start, the **How to Connect** section shows a card for each active server with the exact **address** to type on the other device. Each address is easy to copy - tap it to copy, use the **Share** button to send it, or tap the **info (ⓘ)** button for detailed, per-protocol instructions.
 
 - The DLNA card shows a device-description address that ends in `/device-desc.xml` for players that ask for one.
 - When your device is plugged into a Mac with a cable, an extra address appears with a **Cable Connection** badge that uses your device's `.local` name.
@@ -82,8 +82,8 @@ Every device has a friendly name (like "Speedy-Hare") and a colored avatar. This
 
 Sharing can run in two situations:
 
-- **Over Wi-Fi** — your device and the other devices are on the same Wi-Fi network.
-- **Over a USB cable** — your device is plugged into a **Mac** with a cable, even when there is no Wi-Fi at all. This is faster than Wi-Fi and keeps working on a plane, in a hotel, or on a locked network.
+- **Over Wi-Fi** - your device and the other devices are on the same Wi-Fi network.
+- **Over a USB cable** - your device is plugged into a **Mac** with a cable, even when there is no Wi-Fi at all. This is faster than Wi-Fi and keeps working on a plane, in a hotel, or on a locked network.
 
 If neither Wi-Fi nor a cable is available, the **Start** button is disabled and a **No Wi-Fi Connection** note appears. If the connection drops while sharing, Everdisk stops sharing automatically and lets you know. Tap the info button on any of these notes for a full explanation.
 
@@ -101,6 +101,6 @@ You can turn on **Notify before disconnecting** (in Settings → Sharing) so Eve
 
 ## Next steps
 
-- [Connect Your Devices](/docs/guide/everdisk/everdisk-guide-connect) — connect a TV, computer, browser, phone, or USB cable.
-- [Access & Privacy](/docs/guide/everdisk/everdisk-guide-access) — add a password and control editing.
-- [Settings](/docs/guide/everdisk/everdisk-guide-settings) — turn servers on or off and tune quality.
+- [Connect Your Devices](/docs/guide/everdisk/everdisk-guide-connect) - connect a TV, computer, browser, phone, or USB cable.
+- [Access & Privacy](/docs/guide/everdisk/everdisk-guide-access) - add a password and control editing.
+- [Settings](/docs/guide/everdisk/everdisk-guide-settings) - turn servers on or off and tune quality.

@@ -11,10 +11,10 @@ appStoreUrl: "https://apps.apple.com/app/apple-store/id6751851132?pt=95781850&ct
 appStoreId: "6751851132"
 features: "Wireless drive over Wi-Fi and USB, Four servers at once (DLNA, HTTP, WebDAV, FTP), Stream to smart TVs over DLNA, Open in any web browser, Mount as a network drive in Finder/Windows/Linux, Connect to DLNA/WebDAV/FTP/SFTP servers, Built-in file manager with zip/unzip, Scan documents to PDF, Mark up and sign PDFs and photos, PDF tools (compress, OCR text recognition, password protection, permissions, metadata, flatten), Photo gallery and media player, Share full photo and music library, Password protection and device blocking"
 screenshots:
-  - "https://everappz.com/products/everdisk/screenshots/1290x2796/1.png"
-  - "https://everappz.com/products/everdisk/screenshots/1290x2796/2.png"
-  - "https://everappz.com/products/everdisk/screenshots/1290x2796/3.png"
-  - "https://everappz.com/products/everdisk/screenshots/1290x2796/9.png"
+  - "https://everappz.com/products/everdisk/screenshots/browser_access.png"
+  - "https://everappz.com/products/everdisk/screenshots/connect_to_servers.png"
+  - "https://everappz.com/products/everdisk/screenshots/file_manager.png"
+  - "https://everappz.com/products/everdisk/screenshots/photo_gallery.png"
 ---
 
 {{% sr-only %}}
@@ -26,7 +26,7 @@ Everdisk is a wireless drive app for iPhone and iPad developed by Everappz. It t
 {{< force-dark >}}
 
 {{< hextra/hero-container
-  image="/products/everdisk/heroimage/hero_1200.png"
+  image="/products/everdisk/heroimage/hero.webp"
   imageWidth="600"
   imageCard="true"
 >}}
@@ -142,55 +142,55 @@ Turn your iPhone or iPad into a wireless drive&nbsp;<br class="hx:sm:block hx:hi
 
   {{< feature-card 
     icon="globe-alt"
-    image="/products/everdisk/screenshots/1290x2796/2.png" 
+    image="/products/everdisk/screenshots/browser_access.png" 
     title="Browser Access" 
     method="Fill"
-    options="515x200 q90 webp Center"
+    options="1030x400 q82 webp Center"
     subtitle="Share a link and let anyone browse, preview and download your files from any web browser. Nothing to install on the other end." 
   >}}
 
   {{< feature-card 
     icon="server"
-    image="/products/everdisk/screenshots/1290x2796/3.png"  
+    image="/products/everdisk/screenshots/connect_to_servers.png"  
     title="Connect to Servers" 
     method="Fill"
-    options="515x200 q90 webp Center"
+    options="1030x400 q82 webp Center"
     subtitle="Discover and connect to DLNA, WebDAV, FTP and SFTP servers on your network to browse, stream and download their files." 
   >}}
 
   {{< feature-card 
     icon="folder"
-    image="/products/everdisk/screenshots/1290x2796/4.png"  
+    image="/products/everdisk/screenshots/file_manager.png"  
     title="File Manager" 
     method="Fill"
-    options="515x200 q90 webp Center"
+    options="1030x400 q82 webp Center"
     subtitle="Manage everything on your device: browse in list or grid, create folders, rename, move, copy, zip and unzip, and delete." 
   >}}
 
   {{< feature-card 
     icon="play"
-    image="/products/everdisk/screenshots/1290x2796/5.png"  
+    image="/products/everdisk/screenshots/play_in_the_app.png"  
     title="Play In the App" 
     method="Fill"
-    options="515x200 q90 webp Center"
+    options="1030x400 q82 webp Center"
     subtitle="Listen to your local tracks or stream from connected devices, with a mini player queue and full-screen video playback." 
   >}}
 
   {{< feature-card 
     icon="music-note"
-    image="/products/everdisk/screenshots/1290x2796/8.png"  
+    image="/products/everdisk/screenshots/share_your_library.png"  
     title="Share Your Library" 
     method="Fill"
-    options="515x200 q90 webp Center"
+    options="1030x400 q82 webp Center"
     subtitle="Turn on your full photo and music library and every album and track becomes available over the network in original quality." 
   >}} 
 
   {{< feature-card 
     icon="photograph"
-    image="/products/everdisk/screenshots/1290x2796/9.png"  
+    image="/products/everdisk/screenshots/photo_gallery.png"  
     title="Photo Gallery" 
     method="Fill"
-    options="515x200 q90 webp Center"
+    options="1030x400 q82 webp Center"
     subtitle="Real preview thumbnails on TVs and in the browser, plus a full-screen photo gallery with swipe and zoom - not plain icons." 
   >}}
 
@@ -285,17 +285,16 @@ Turn your iPhone or iPad into a wireless drive&nbsp;<br class="hx:sm:block hx:hi
     title="Free"
     class="pricing-card pricing-free"
     subtitle=`<span class='pricing-details'>• Turn your device into a wireless drive<br />
-• Share files, photos, videos and music<br />
 • Four servers at once: DLNA, HTTP, WebDAV, FTP<br />
-• Stream to smart TVs over DLNA<br />
-• Open your files in any web browser<br />
-• Mount as a network drive over WebDAV<br />
-• Transfer over USB cable<br />
+• Stream to smart TVs, browsers and computers<br />
+• Mount as a network drive and transfer over USB<br />
+• Share your whole photo and music library<br />
 • Connect to DLNA, WebDAV, FTP and SFTP servers<br />
-• Built-in file manager, zip and unzip<br />
-• Scan documents to PDF<br />
+• File manager with zip and unzip<br />
+• Scan documents to PDF and full PDF tools<br />
+• Mark up and sign PDFs and photos<br />
 • Password protection and device blocking<br />
-• Contains ads</span><br /><br />
+• Up to 5 shared folders and 10 saved connections</span><br /><br />
 <span class='hx:block hx:mt-2 hx:text-center'>
   <span class='pricing-btn hx:inline-block hx:rounded-full hx:border hx:border-gray-200 hx:dark:border-neutral-800 hx:px-3 hx:py-1 hx:transition-all hx:duration-200'>
     <strong>Free</strong>
@@ -306,16 +305,14 @@ Turn your iPhone or iPad into a wireless drive&nbsp;<br class="hx:sm:block hx:hi
   {{< hextra/feature-card
     title="Premium Lifetime"
     class="pricing-card pricing-lifetime"
-    subtitle=`<span class='pricing-details'>• Everything in Free, unlocked<br />
-• Ad-free experience<br />
-• Unlimited sharing and connections<br />
-• Full photo and music library sharing<br />
-• Edit and annotate PDFs<br />
-• Full personalization<br />
-• One-time purchase, no subscription<br />
-• Family Sharing supported<br />
-• Shared between iPhone, iPad and Mac<br />
-• All future updates included</span><br /><br />
+    subtitle=`<span class='pricing-details'>• Everything in Free<br />
+• Unlimited shared folders (more than 5)<br />
+• Unlimited saved connections (more than 10)<br />
+• Photo & video conversion to a compatible format or smaller size<br />
+• Custom HTTP, WebDAV and FTP ports<br />
+• Auto-start sharing when you open the app<br />
+• Device customization: name, avatar icon, gradient or photo<br />
+• One-time purchase - charged once, never renews</span><br /><br />
 <span class='hx:block hx:mt-2 hx:text-center'>
   <span class='pricing-btn hx:inline-block hx:rounded-full hx:border hx:border-gray-200 hx:dark:border-neutral-800 hx:px-3 hx:py-1 hx:transition-all hx:duration-200'>
     <strong>$9.99</strong>/lifetime
@@ -331,7 +328,7 @@ Turn your iPhone or iPad into a wireless drive&nbsp;<br class="hx:sm:block hx:hi
 
 <div class="hx:w-full hx:mx-auto hx:flex hx:flex-col hx:items-center">
   {{< hextra/info-paragraph border="true" >}}
-   <strong>Family Sharing</strong>: The Premium Lifetime purchase supports Family Sharing, so you can share Premium access with your family.<br><strong>Universal Access</strong>: The Premium Lifetime purchase is shared between iPhone, iPad and Mac using iCloud synchronization.<br><strong>Pricing</strong>: Prices are shown in US dollars for the United States. Final pricing may vary based on your region.  
+   <strong>Pricing</strong>: Prices are shown in US dollars for the United States. Final pricing may vary based on your region.  
   {{< /hextra/info-paragraph >}}
 </div>
 
@@ -366,7 +363,7 @@ Everdisk also connects the other way, to DLNA, WebDAV, FTP and SFTP servers on y
 {{% details title="Is Everdisk free?" closed="true" %}}
 Yes. Everdisk is a free download and you can turn your device into a wireless drive, share your files four ways, connect to other servers, and use the built-in file manager at no cost.<br><br>
 
-There is an optional one-time <strong>Premium Lifetime</strong> purchase that removes ads, unlocks the full experience, and is a single payment with no subscription. Family Sharing is supported, and the purchase is shared between iPhone, iPad and Mac using iCloud. Prices may vary depending on your country or region.
+There is an optional one-time <strong>Premium Lifetime</strong> purchase - a single payment with no subscription - that unlocks unlimited shared folders and saved connections, photo &amp; video conversion, custom ports, auto-start sharing, and device customization. It is tied to your Apple ID, so you can use Restore Purchases to unlock it on your other devices. Prices may vary depending on your country or region.
 {{% /details %}}
 
 {{% details title="How do I connect from my computer?" closed="true" %}}
@@ -427,6 +424,26 @@ You can protect access with a login and password so connected devices must enter
 Everdisk includes a full file manager for everything on your device.<br><br>
 
 You can browse in list or grid, create folders, rename, move, copy, zip and unzip, and delete. You can also connect folders from anywhere on your device and work with them right in the app, then share them over the network alongside everything else.
+{{% /details %}}
+
+{{% details title="Can I play music inside the app?" closed="true" %}}
+Yes. Tap any audio file and it plays in the mini player that stays at the bottom of the screen while you keep browsing.<br><br>
+
+The mini player has a full queue with shuffle and repeat (off, all, or one), and lock screen and media-key controls that show the real title, artist and album. Tap or swipe up to open the full player, and swipe down to shrink it while the audio keeps playing. Tapping one track in a folder plays the whole folder as a queue.<br><br>
+
+Audio plays from your local files, connected folders, your Music library, and servers you connect to on the Devices tab.
+{{% /details %}}
+
+{{% details title="Can I watch videos in the app?" closed="true" %}}
+Yes. Tap a video to play it full screen. Everdisk uses the built-in system video player, so you get the familiar controls, including AirPlay, Picture in Picture, and playback speed.<br><br>
+
+Videos play from your local files and connected folders, or stream straight from a device you connect to on the Devices tab, so you do not have to download the whole file first.
+{{% /details %}}
+
+{{% details title="How do I view my photos?" closed="true" %}}
+Open the Documents tab and switch to Photos mode to browse your photos and videos. Tap a photo to open it full screen, where you can zoom, swipe between photos, and share.<br><br>
+
+Your photos also show real preview thumbnails on a TV over DLNA and in a web browser, where they open in a full-screen gallery with swipe, pinch-to-zoom, and a slideshow. Photos and videos that have location data show a map with a pin on their Info screen.
 {{% /details %}}
 
 </div>

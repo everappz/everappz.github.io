@@ -16,7 +16,7 @@ aliases:
 
 Once you tap **Start** on the [Sharing](/docs/guide/everdisk/everdisk-guide-sharing) screen, other devices can connect to your files four different ways. Pick the method that matches the device you want to use. In every case, the exact **address** you need is shown in the **How to Connect** section of the Sharing screen.
 
-> Both devices must be on the **same Wi-Fi network** — or, for a Mac, connected with a **USB cable** (see the last section).
+> Both devices must be on the **same Wi-Fi network** - or, for a Mac, connected with a **USB cable** (see the last section).
 
 ## Watch on a TV (DLNA)
 
@@ -35,7 +35,7 @@ Notes:
 
 ## Open in a web browser (HTTP)
 
-Use this to hand files to anyone with a web browser — no app to install.
+Use this to hand files to anyone with a web browser - no app to install.
 
 1. In **Settings → Sharing → Connections**, make sure **Browser** is on.
 2. Tap **Start**.
@@ -50,7 +50,7 @@ In the browser the other person can:
 - Open a photo to a full-screen **gallery** with swipe, pinch-to-zoom and a slideshow.
 - Play music in a built-in **player** with a queue, shuffle and repeat.
 - **Download** any file, or download a whole folder (or several selected items) as a single **Archive.zip**.
-- **Upload** files back to your device — only if you turned on **Files Editing** (see [Access & Privacy](/docs/guide/everdisk/everdisk-guide-access)).
+- **Upload** files back to your device - only if you turned on **Files Editing** (see [Access & Privacy](/docs/guide/everdisk/everdisk-guide-access)).
 
 ## Use it as a network drive (WebDAV)
 
@@ -95,7 +95,7 @@ Use this when there is no Wi-Fi, or when you want the fastest and most private t
 2. If asked on the device, tap **Trust This Computer**.
 3. In Everdisk, tap **Start**. A **Fast Connection Available** note appears and the Sharing screen shows an extra address with a **Cable Connection** badge that ends in `.local`.
 4. On the Mac, open Finder → **Go → Connect to Server** (**⌘K**) and enter that `.local` address (it works for both the Browser and Computer connections).
-5. Your device opens over the cable — faster than Wi-Fi, and the data never touches the router or the internet.
+5. Your device opens over the cable - faster than Wi-Fi, and the data never touches the router or the internet.
 
 Notes:
 
@@ -105,6 +105,6 @@ Notes:
 
 ## Next steps
 
-- [Access & Privacy](/docs/guide/everdisk/everdisk-guide-access) — add a password, allow uploads, block a device.
-- [Photos, Music & Video](/docs/guide/everdisk/everdisk-guide-media) — share your whole library and set quality.
-- [Connect to Servers](/docs/guide/everdisk/everdisk-guide-devices) — reach other devices from Everdisk.
+- [Access & Privacy](/docs/guide/everdisk/everdisk-guide-access) - add a password, allow uploads, block a device.
+- [Photos, Music & Video](/docs/guide/everdisk/everdisk-guide-media) - share your whole library and set quality.
+- [Connect to Servers](/docs/guide/everdisk/everdisk-guide-devices) - reach other devices from Everdisk.

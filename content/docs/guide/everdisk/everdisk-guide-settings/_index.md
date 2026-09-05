@@ -14,7 +14,7 @@ aliases:
 ---
 
 
-The **Settings** tab groups everything into three main areas — **Sharing**, **Network** and **File Manager** — plus Premium, feedback and legal links. This page explains every setting and its default.
+The **Settings** tab groups everything into three main areas - **Sharing**, **Network** and **File Manager** - plus Premium, feedback and legal links. This page explains every setting and its default.
 
 ## Premium
 
@@ -24,21 +24,21 @@ At the top of Settings you see your Premium status, or an **Unlock all features*
 
 ### General
 
-- **Start device sharing automatically** — start sharing as soon as you open the app. *(Premium.)*
-- **Share Documents Folder** — share the app's own Documents folder. On by default.
-- **Notify before disconnecting** — remind you to reopen the app before the system suspends it in the background. Off by default; asks for notification permission the first time.
+- **Start device sharing automatically** - start sharing as soon as you open the app. *(Premium.)*
+- **Share Documents Folder** - share the app's own Documents folder. On by default.
+- **Notify before disconnecting** - remind you to reopen the app before the system suspends it in the background. Off by default; asks for notification permission the first time.
 
 ### Device Profile
 
-- **Device Name** — the name other devices see for you on the network. Tap to edit. *(Premium.)*
-- **Device Avatar** — the icon and background color for your device. You can pick an icon, a background gradient, or **choose an avatar from Photos**. *(Premium.)*
-- **Regenerate Name & Avatar** and **Regenerate Avatar** — get a new random name and/or avatar. *(Free.)*
+- **Device Name** - the name other devices see for you on the network. Tap to edit. *(Premium.)*
+- **Device Avatar** - the icon and background color for your device. You can pick an icon, a background gradient, or **choose an avatar from Photos**. *(Premium.)*
+- **Regenerate Name & Avatar** and **Regenerate Avatar** - get a new random name and/or avatar. *(Free.)*
 
 ### Access
 
-- **Login** and **Password** — require a sign-in for the Browser, Computer and Other Apps connections.
-- **Files Editing** — let connected devices upload, rename and delete. On by default.
-- **Blocked Devices** — manage the devices you have blocked.
+- **Login** and **Password** - require a sign-in for the Browser, Computer and Other Apps connections.
+- **Files Editing** - let connected devices upload, rename and delete. On by default.
+- **Blocked Devices** - manage the devices you have blocked.
 
 See [Access & Privacy](/docs/guide/everdisk/everdisk-guide-access) for details.
 
@@ -53,15 +53,15 @@ Turn each server on or off. All four are on by default, and each has an info (�
 
 ### Photos
 
-- **Format** — Original or Most Compatible (JPEG).
-- **Quality** — Original, High, Medium or Low.
+- **Format** - Original or Most Compatible (JPEG).
+- **Quality** - Original, High, Medium or Low.
 
 Anything other than Original converts photos as they are shared, which is slower. Conversion is a Premium feature.
 
 ### Videos
 
-- **Format** — Original or Most Compatible (H.264 MP4).
-- **Quality** — Original, High, Medium or Low.
+- **Format** - Original or Most Compatible (H.264 MP4).
+- **Quality** - Original, High, Medium or Low.
 
 Same idea as Photos: Original is fastest, and conversion is Premium. Lower the quality if an older TV can't play a video.
 
@@ -71,21 +71,21 @@ Same idea as Photos: Original is fastest, and conversion is Premium. Lower the q
 
 ### DLNA Thumbnails
 
-- **Show Thumbnails** — publish preview images for TVs. On by default (free).
+- **Show Thumbnails** - publish preview images for TVs. On by default (free).
 - Choose which sizes to publish: **Small (160px)**, **Medium (640px)**, **Large (1024px)**, **Extra Large (4096px)**.
 
 ## Network settings
 
-- **File Transfers** — use **Wi-Fi** only, or **Wi-Fi & Cellular Data**, for downloads and uploads. Default Wi-Fi.
-- **Parallel Transfer Limit** — how many transfers run at once. Default 5.
-- **Background Transfers** — keep transfers going while you use other screens. On by default.
-- **Thumbnails for Files** — whether to fetch thumbnails for files on other devices over Wi-Fi only or also cellular. Default Wi-Fi.
+- **File Transfers** - use **Wi-Fi** only, or **Wi-Fi & Cellular Data**, for downloads and uploads. Default Wi-Fi.
+- **Parallel Transfer Limit** - how many transfers run at once. Default 5.
+- **Background Transfers** - keep transfers going while you use other screens. On by default.
+- **Thumbnails for Files** - whether to fetch thumbnails for files on other devices over Wi-Fi only or also cellular. Default Wi-Fi.
 
 ## File Manager settings
 
-- **Permanently Delete Files** — delete immediately with no trash. Off by default. See [Access & Privacy](/docs/guide/everdisk/everdisk-guide-access).
-- **Reset All Notice Messages** — bring back the tip banners you have closed.
-- **Thumbnail Cache** — see how much space cached thumbnails use, and **Clear Thumbnail Cache**.
+- **Permanently Delete Files** - delete immediately with no trash. Off by default. See [Access & Privacy](/docs/guide/everdisk/everdisk-guide-access).
+- **Reset All Notice Messages** - bring back the tip banners you have closed.
+- **Thumbnail Cache** - see how much space cached thumbnails use, and **Clear Thumbnail Cache**.
 
 ## Feedback and legal
 
@@ -93,19 +93,19 @@ At the bottom you can **Rate this App**, **Send Feedback**, **Get More Apps**, a
 
 ## Premium Lifetime
 
-Everdisk is free to use. A single **Premium Lifetime** purchase — a one-time payment, not a subscription — unlocks:
+Everdisk is free to use. A single **Premium Lifetime** purchase - a one-time payment, not a subscription - unlocks:
 
-- **Unlimited Folders** — share more than 5 folders.
-- **Unlimited Connections** — save more than 10 servers on the Devices tab.
-- **Photo & Video Conversion** — share in any quality other than Original.
-- **Custom Ports** — set your own HTTP, WebDAV and FTP ports.
-- **Auto-Start Sharing** — start sharing automatically when you open the app.
-- **Device Customization** — a custom device name, avatar icon, background gradient, or photo avatar.
+- **Unlimited Folders** - share more than 5 folders.
+- **Unlimited Connections** - save more than 10 servers on the Devices tab.
+- **Photo & Video Conversion** - share in any quality other than Original.
+- **Custom Ports** - set your own HTTP, WebDAV and FTP ports.
+- **Auto-Start Sharing** - start sharing automatically when you open the app.
+- **Device Customization** - a custom device name, avatar icon, background gradient, or photo avatar.
 
-Premium supports **Family Sharing** and is shared between your iPhone, iPad and Mac through iCloud. Use **Restore Purchases** if you already bought it.
+Premium is tied to your Apple ID. Use **Restore Purchases** to unlock it on your other devices signed in with the same Apple ID.
 
 ## Next steps
 
-- [Sharing](/docs/guide/everdisk/everdisk-guide-sharing) — the Sharing screen in detail.
-- [Access & Privacy](/docs/guide/everdisk/everdisk-guide-access) — passwords, editing and blocking.
-- [FAQ](/docs/faq/everdisk) — quick answers to common questions.
+- [Sharing](/docs/guide/everdisk/everdisk-guide-sharing) - the Sharing screen in detail.
+- [Access & Privacy](/docs/guide/everdisk/everdisk-guide-access) - passwords, editing and blocking.
+- [FAQ](/docs/faq/everdisk) - quick answers to common questions.

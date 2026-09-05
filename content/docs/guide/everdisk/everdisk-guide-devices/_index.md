@@ -14,14 +14,14 @@ aliases:
 ---
 
 
-Everdisk is not only a wireless drive — it is also a client for the other devices on your network. The **Devices** tab lets you connect **to** DLNA, WebDAV, FTP and SFTP servers, including NAS drives and media servers, then browse, stream and download their files.
+Everdisk is not only a wireless drive - it is also a client for the other devices on your network. The **Devices** tab lets you connect to **DLNA**, **WebDAV**, **FTP** and **SFTP** servers, including NAS drives and media servers, then browse, stream and download their files.
 
 ## The Devices screen
 
 The Devices tab has two parts:
 
-- **Connections** — the servers you have already saved.
-- **Available Devices** — servers Everdisk finds automatically on your local network.
+- **Connections** - the servers you have already saved.
+- **Available Devices** - servers Everdisk finds automatically on your local network.
 
 To connect to something Everdisk already found, just tap it in **Available Devices**. To add a server by hand, tap the **plus (+)** button or **New Connection**.
 
@@ -29,20 +29,20 @@ To connect to something Everdisk already found, just tap it in **Available Devic
 
 Tap **New Connection** and choose the type of server you want to reach:
 
-- **DLNA / UPnP** — best for media servers. Stream video, music and photos from media libraries, network storage drives and DLNA-enabled TVs and computers. DLNA is **read-only**: you can browse, stream and download, but you can't upload or change files.
-- **WebDAV** — connect to file servers, network storage drives, and **cloud drives that support WebDAV**. Read and write when the server allows it.
-- **FTP** — common on routers, network storage drives and web hosting. The default port is 21 (990 for secure FTPS); you can set a custom port in the address, for example `ftp://host:2121`. Leave the login and password empty for anonymous access.
-- **SFTP** — connect securely over SSH. The default port is 22; use a custom port in the address if needed, for example `sftp://host:2222`.
+- **DLNA / UPnP** - best for media servers. Stream video, music and photos from media libraries, network storage drives and DLNA-enabled TVs and computers. DLNA is read-only: you can browse, stream and download, but you can't upload or change files.
+- **WebDAV** - connect to file servers, network storage drives, and cloud drives that support WebDAV. Read and write when the server allows it.
+- **FTP** - common on routers, network storage drives and web hosting. The default port is 21 (990 for secure FTPS); you can set a custom port in the address, for example `ftp://host:2121`. Leave the login and password empty for anonymous access.
+- **SFTP** - connect securely over SSH. The default port is 22; use a custom port in the address if needed, for example `sftp://host:2222`.
 
-> Everdisk connects only to these local-network and directly-addressed protocols. It does **not** sign in to cloud accounts like iCloud Drive, Google Drive or Dropbox. A cloud drive is reachable only if that service offers a **WebDAV** address you can type in.
+> Everdisk connects only to these local-network and directly-addressed protocols. It does not sign in to cloud accounts like Google Drive or Dropbox. A cloud drive is reachable only if that service offers a **WebDAV** address you can type in.
 
 ## Enter the address and sign in
 
 On the connection editor, fill in:
 
-- **Title** — a friendly name for the connection.
-- **URL / address** — the server address (examples are shown for each type).
-- **Login** and **Password** — leave both empty if the server allows anonymous access.
+- **Title** - a friendly name for the connection.
+- **URL / address** - the server address (examples are shown for each type).
+- **Login** and **Password** - leave both empty if the server allows anonymous access.
 
 For WebDAV you can allow invalid certificates if your server uses a self-signed one. If a secure server's identity can't be verified, Everdisk asks you to confirm before trusting it.
 
@@ -59,7 +59,7 @@ Once connected, tap the server to open it:
 
 ## Change files on a server
 
-On servers that allow writing — **WebDAV, FTP and SFTP** — you can also manage files:
+On servers that allow writing - **WebDAV, FTP and SFTP** - you can also manage files:
 
 - **New Folder**
 - **Upload Files** from your device
@@ -73,6 +73,6 @@ Downloads and uploads run in the background and show up in **File Transfers**, w
 
 ## Next steps
 
-- [Files & Documents](/docs/guide/everdisk/everdisk-guide-files) — manage everything you download.
-- [Photos, Music & Video](/docs/guide/everdisk/everdisk-guide-media) — play what you stream.
-- [Settings](/docs/guide/everdisk/everdisk-guide-settings) — connection limits and transfer options.
+- [Files & Documents](/docs/guide/everdisk/everdisk-guide-files) - manage everything you download.
+- [Photos, Music & Video](/docs/guide/everdisk/everdisk-guide-media) - play what you stream.
+- [Settings](/docs/guide/everdisk/everdisk-guide-settings) - connection limits and transfer options.

@@ -18,13 +18,13 @@ Everdisk plays your media on the device and shares your whole photo and music li
 
 ## Share your whole photo and music library
 
-On the [Sharing](/docs/guide/everdisk/everdisk-guide-sharing) screen, under **What to Share**, you can turn on **Allow access to all Photos Library** and **Allow access to all Music Library**. Once sharing starts, every album and track becomes available over all four servers — on a TV, in a browser, on a network drive, or in a file app. You can also hand-pick only certain photos, videos or tracks with **Add Photos** and **Add Tracks**.
+On the [Sharing](/docs/guide/everdisk/everdisk-guide-sharing) screen, under **What to Share**, you can turn on **Allow access to all Photos Library** and **Allow access to all Music Library**. Once sharing starts, every album and track becomes available over all four servers - on a TV, in a browser, on a network drive, or in a file app. You can also hand-pick only certain photos, videos or tracks with **Add Photos** and **Add Tracks**.
 
 Protected (DRM) songs and tracks stored only in the cloud can't be shared.
 
 ## Play audio in the mini player
 
-When you tap an audio file — from your Documents, a connected folder, your Music library, or a server on the Devices tab — it plays in the **mini player** that stays at the bottom of the screen as you move around the app.
+When you tap an audio file - from your Documents, a connected folder, your Music library, or a server on the Devices tab - it plays in the **mini player** that stays at the bottom of the screen as you move around the app.
 
 - The bar shows artwork, the title and subtitle, and **play/pause** and **next** controls.
 - Tap or swipe up on the bar to expand to the **full player**; swipe down to shrink it again while audio keeps playing.
@@ -48,7 +48,7 @@ Photos and videos that have location data show a **map with a pin** on their Inf
 
 ## Send media to a TV
 
-To show media on a TV, use the **TV & Media Center (DLNA)** server: start sharing, then pick your device on the TV and browse. The TV pulls the media from your device — see [Connect Your Devices](/docs/guide/everdisk/everdisk-guide-connect). (Everdisk does not use Chromecast; AirPlay is available from the full-screen video player.)
+To show media on a TV, use the **TV & Media Center (DLNA)** server: start sharing, then pick your device on the TV and browse. The TV pulls the media from your device - see [Connect Your Devices](/docs/guide/everdisk/everdisk-guide-connect). (Everdisk does not use Chromecast; AirPlay is available from the full-screen video player.)
 
 ## Original vs. compatible quality
 
@@ -59,15 +59,15 @@ When you share photos and videos, Everdisk can send them exactly as they are, or
 
 Keep in mind:
 
-- **Original is the fastest** — the file is sent as-is with no conversion.
+- **Original is the fastest** - the file is sent as-is with no conversion.
 - Any other setting **converts on the fly**, which is slower and uses more battery, especially over WebDAV and FTP.
 - Try Original first; only switch to Most Compatible if a specific TV or browser can't open a file.
-- **Music** is always shared in its original form — there are no music quality settings.
+- **Music** is always shared in its original form - there are no music quality settings.
 
 Photo and video conversion is a Premium feature; Original quality is always available for free.
 
 ## Next steps
 
-- [Files & Documents](/docs/guide/everdisk/everdisk-guide-files) — manage the files behind your media.
-- [Settings](/docs/guide/everdisk/everdisk-guide-settings) — photo and video format and quality options.
-- [Connect Your Devices](/docs/guide/everdisk/everdisk-guide-connect) — show media on a TV, browser or computer.
+- [Files & Documents](/docs/guide/everdisk/everdisk-guide-files) - manage the files behind your media.
+- [Settings](/docs/guide/everdisk/everdisk-guide-settings) - photo and video format and quality options.
+- [Connect Your Devices](/docs/guide/everdisk/everdisk-guide-connect) - show media on a TV, browser or computer.

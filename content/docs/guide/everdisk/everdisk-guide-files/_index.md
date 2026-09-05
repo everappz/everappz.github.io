@@ -17,13 +17,13 @@ aliases:
 
 The **Documents** tab is a full file manager for everything on your device. It is where downloads land, where you organize what you share, and where you zip files, scan documents and connect folders from elsewhere on your device.
 
-At the top of the Documents tab is a switcher with three modes — **Documents**, **Photos** and **Music**. This page covers the **Documents** mode (your files and folders). Photos and Music are covered in [Photos, Music & Video](/docs/guide/everdisk/everdisk-guide-media).
+At the top of the Documents tab is a switcher with three modes - **Documents**, **Photos** and **Music**. This page covers the **Documents** mode (your files and folders). Photos and Music are covered in [Photos, Music & Video](/docs/guide/everdisk/everdisk-guide-media).
 
 ## Browse your files
 
 - Switch between **list** and **grid** (icons) view.
 - **Sort** by name, date or size.
-- Every file shows a **thumbnail** where possible — photos, video frames, PDF first pages, music artwork and text previews.
+- Every file shows a **thumbnail** where possible - photos, video frames, PDF first pages, music artwork and text previews.
 
 The Documents folder is shared by default when you turn on sharing, so anything you keep here is easy to hand to other devices.
 
@@ -31,18 +31,18 @@ The Documents folder is shared by default when you turn on sharing, so anything 
 
 Open the more-actions (•••) menu at the top of a folder, or the menu next to a single file, to work with your files:
 
-- **New Folder** — create a folder to organize your files.
-- **Rename** — change a file or folder name.
-- **Move** — relocate items to another folder.
-- **Copy** — duplicate items into another folder.
-- **Upload** — send items to a device you are connected to on the Devices tab.
-- **Open In** — hand a file to another app through the system share sheet.
-- **Delete** — remove items. By default deleted items go to a recoverable trash; you can turn on immediate deletion in Settings (see [Access & Privacy](/docs/guide/everdisk/everdisk-guide-access)).
-- **Info** — open the file info screen (see below).
+- **New Folder** - create a folder to organize your files.
+- **Rename** - change a file or folder name.
+- **Move** - relocate items to another folder.
+- **Copy** - duplicate items into another folder.
+- **Upload** - send items to a device you are connected to on the Devices tab.
+- **Open In** - hand a file to another app through the system share sheet.
+- **Delete** - remove items. By default deleted items go to a recoverable trash; you can turn on immediate deletion in Settings (see [Access & Privacy](/docs/guide/everdisk/everdisk-guide-access)).
+- **Info** - open the file info screen (see below).
 
 ## Zip and unzip (archive and unarchive)
 
-Everdisk has archiving built in — no extra app needed.
+Everdisk has archiving built in - no extra app needed.
 
 - **Create a zip:** select one item, or several items, then choose **Archive**. A single item is zipped on its own; several items are bundled into one **Archive.zip**.
 - **Unzip:** tap a **.zip** or **.rar** file and Everdisk extracts it into the current folder.
@@ -57,7 +57,7 @@ You can work with folders that live elsewhere on your device, not just the app's
 2. Pick a folder anywhere on your device.
 3. It appears at the top of the Documents tab with a **Connected** label.
 
-Connected folders are read-write and can be shared over the network like any other folder. To remove one, open its **Info** and choose **Disconnect** — this only unlinks it; the folder and its files stay on your device.
+Connected folders are read-write and can be shared over the network like any other folder. To remove one, open its **Info** and choose **Disconnect** - this only unlinks it; the folder and its files stay on your device.
 
 ## Scan documents to PDF
 
@@ -71,22 +71,22 @@ Scanning needs a device with a real camera. You can then share the PDF over the 
 
 ## PDF tools
 
-Everdisk includes a built-in **PDF Tools** suite for working with PDF files. Open any PDF's more-actions (•••) menu — or its **Info** screen — in the Documents tab and tap **PDF Tools**. The screen shows the PDF's thumbnail and page count, and groups the tools into three areas. If the PDF is password-protected, Everdisk asks for its password first. PDF Tools are free.
+Everdisk includes a built-in **PDF Tools** suite for working with PDF files. Open any PDF's more-actions (•••) menu - or its **Info** screen - in the Documents tab and tap **PDF Tools**. The screen shows the PDF's thumbnail and page count, and groups the tools into three areas. If the PDF is password-protected, Everdisk asks for its password first. PDF Tools are free.
 
 **Optimize**
 
-- **Compress** — make the PDF smaller. Everdisk shows the current size and an estimated result size for each option. **Standard** keeps the text selectable and only re-compresses images; **High**, **Medium**, **Small** and **Smallest** re-render the pages as images at a lower resolution (best for scans and photos, but the text is no longer selectable).
-- **Text Recognition (OCR)** — recognize the text in the PDF. Choose **Searchable PDF** to add a hidden text layer so the document can be searched and its text selected (the pages look identical), or **Text File (.txt)** to save just the recognized text next to the PDF.
-- **Flatten** — burn annotations and form-field entries into the page so they can no longer be edited. This also finalizes signatures, highlights and stamps.
+- **Compress** - make the PDF smaller. Everdisk shows the current size and an estimated result size for each option. **Standard** keeps the text selectable and only re-compresses images; **High**, **Medium**, **Small** and **Smallest** re-render the pages as images at a lower resolution (best for scans and photos, but the text is no longer selectable).
+- **Text Recognition (OCR)** - recognize the text in the PDF. Choose **Searchable PDF** to add a hidden text layer so the document can be searched and its text selected (the pages look identical), or **Text File (.txt)** to save just the recognized text next to the PDF.
+- **Flatten** - burn annotations and form-field entries into the page so they can no longer be edited. This also finalizes signatures, highlights and stamps.
 
 **Security**
 
-- **Password** — set, change or remove the password required to open the PDF. Removing or changing it requires the current password.
-- **Permissions** — review what the PDF allows, such as copying, printing, commenting and form entry. This is a read-only view; use the Password tool to protect the file.
+- **Password** - set, change or remove the password required to open the PDF. Removing or changing it requires the current password.
+- **Permissions** - review what the PDF allows, such as copying, printing, commenting and form entry. This is a read-only view; use the Password tool to protect the file.
 
 **Metadata**
 
-- **Edit Metadata** — change or clear the PDF's title, author, subject, creator, producer and keywords, or remove all metadata at once. Creation and modification dates are shown for reference.
+- **Edit Metadata** - change or clear the PDF's title, author, subject, creator, producer and keywords, or remove all metadata at once. Creation and modification dates are shown for reference.
 
 ## Mark up and sign PDFs and photos
 
@@ -108,6 +108,6 @@ The **Info** screen for any file shows:
 
 ## Next steps
 
-- [Sharing](/docs/guide/everdisk/everdisk-guide-sharing) — share these files with other devices.
-- [Photos, Music & Video](/docs/guide/everdisk/everdisk-guide-media) — the Photos and Music modes and playback.
-- [Settings](/docs/guide/everdisk/everdisk-guide-settings) — trash vs. permanent delete, thumbnail cache.
+- [Sharing](/docs/guide/everdisk/everdisk-guide-sharing) - share these files with other devices.
+- [Photos, Music & Video](/docs/guide/everdisk/everdisk-guide-media) - the Photos and Music modes and playback.
+- [Settings](/docs/guide/everdisk/everdisk-guide-settings) - trash vs. permanent delete, thumbnail cache.

@@ -1,7 +1,7 @@
 ---
 title: "Everdisk"
 date: 2025-09-03
-description: "Everdisk User Guide — turn your iPhone or iPad into a wireless drive. Learn how to share files, photos, videos and music with any device on your network over DLNA, HTTP, WebDAV and FTP, connect to DLNA/WebDAV/FTP/SFTP servers, use the file manager, zip and unzip files, scan documents to PDF, and keep everything private on your local network."
+description: "Everdisk User Guide - turn your iPhone or iPad into a wireless drive. Learn how to share files, photos, videos and music with any device on your network over DLNA, HTTP, WebDAV and FTP, connect to DLNA/WebDAV/FTP/SFTP servers, use the file manager, zip and unzip files, scan documents to PDF, and keep everything private on your local network."
 keywords: [
   "Everdisk", "Everdisk guide", "Everdisk user guide", "wireless drive iPhone",
   "share files iPhone", "share photos over network", "stream to TV DLNA",
@@ -17,18 +17,18 @@ aliases:
 ---
 
 
-Everdisk turns your iPhone or iPad into a **wireless drive** and a hub that connects to your other devices too. You share the files, photos, videos and music you choose, and anything on your local network can reach them — a smart TV, a Mac or PC, a web browser, or another phone. There are no accounts, no cloud, and nothing extra to install on the other side. You just tap **Start** and you are ready.
+Everdisk turns your iPhone or iPad into a **wireless drive** and a hub that connects to your other devices too. You share the files, photos, videos and music you choose, and anything on your local network can reach them - a smart TV, a Mac or PC, a web browser, or another phone. There are no accounts, no cloud, and nothing extra to install on the other side. You just tap **Start** and you are ready.
 
 The app runs **four servers at the same time**, so every device connects the way it likes:
 
-- **TV & Media Center (DLNA)** — smart TVs and media players find your photos, videos and music by themselves.
-- **Browser (HTTP)** — anyone opens a link in a web browser to view and download your files.
-- **Computer (WebDAV)** — your device appears as a normal network drive in Finder, Windows or Linux.
-- **Other Apps & Devices (FTP)** — file apps and power tools connect over FTP.
+- **TV & Media Center (DLNA)** - smart TVs and media players find your photos, videos and music by themselves.
+- **Browser (HTTP)** - anyone opens a link in a web browser to view and download your files.
+- **Computer (WebDAV)** - your device appears as a normal network drive in Finder, Windows or Linux.
+- **Other Apps & Devices (FTP)** - file apps and power tools connect over FTP.
 
-Everdisk also works the other way around: it connects **to** DLNA, WebDAV, FTP and SFTP servers on your network so you can browse, stream and download their files. On top of that it includes a full **file manager**, a built-in **media player**, a **photo gallery**, **document scanning to PDF**, and **zip / unzip**. Everything stays on your local network and never touches the internet.
+Everdisk also works the other way around: it connects to **DLNA**, **WebDAV**, **FTP** and **SFTP** servers on your network so you can browse, stream and download their files. On top of that it includes a full file manager, a built-in media player, a photo gallery, document scanning to PDF, and zip / unzip. Everything stays on your local network and never touches the internet.
 
-Everdisk is a free download with an optional one-time **Premium Lifetime** purchase that removes the free limits and unlocks the extra features.
+Everdisk is a free download with an optional one-time Premium Lifetime purchase that removes the free limits and unlocks the extra features.
 
 ### Getting Started with Everdisk
 

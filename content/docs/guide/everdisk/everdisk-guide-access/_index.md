@@ -32,7 +32,7 @@ Leave both fields empty for open access. Your password is stored securely in the
 
 The **Files Editing** toggle controls whether connected devices can only look at your files, or also change them.
 
-- **On** (the default): connected devices can **upload, rename and delete** your shared files — so your device works like a real two-way network drive.
+- **On** (the default): connected devices can **upload, rename and delete** your shared files - so your device works like a real two-way network drive.
 - **Off**: your shared files are **read-only**. Others can view and download, but can't add or change anything.
 
 Turning it on shows a short warning because it lets other people modify your files. It carries an **Important** badge while it is on.
@@ -48,19 +48,19 @@ Blocked devices are listed in **Settings → Sharing → Access → Blocked Devi
 
 ## Trash vs. permanent delete
 
-When a file is deleted — by you in the file manager, or by a connected device — it normally goes to a recoverable **trash** so you can get it back.
+When a file is deleted - by you in the file manager, or by a connected device - it normally goes to a recoverable **trash** so you can get it back.
 
-If you prefer files to be removed immediately with no recovery, turn on **Permanently Delete Files** in **Settings → File Manager → Deleting Files**. This is off by default. It affects the on-device file manager and deletes made over the network; it does not change how the system Photos library or Music library handle deletion.
+If you prefer files to be removed immediately with no recovery, turn on **Permanently Delete Files** in **Settings → File Manager → Deleting Files**. This is off by default. **It affects the on-device file manager** and **deletes made over the network**; it does not change how the system Photos library or Music library handle deletion.
 
 ## Everything stays local
 
-Everdisk shares only over your **local network** — nothing is uploaded to the internet and there is no cloud account in the middle. A few things worth knowing:
+Everdisk shares only over your **local network** - nothing is uploaded to the internet and there is no cloud account in the middle. A few things worth knowing:
 
 - Everdisk needs the iOS **Local Network** permission so nearby devices can find it. If that permission is off, a note explains how to turn it back on in the iOS Settings app.
 - For the most privacy, share only while you are on a **home or private Wi-Fi** network you trust, and be careful on public Wi-Fi. A login and password helps, but it is not a substitute for a trusted network.
-- The **most private option of all is a USB cable to a Mac** — the data goes straight over the cable and never touches the router or the internet. See [Connect Your Devices](/docs/guide/everdisk/everdisk-guide-connect).
+- The **most private option of all is a USB cable to a Mac** - the data goes straight over the cable and never touches the router or the internet. See [Connect Your Devices](/docs/guide/everdisk/everdisk-guide-connect).
 
 ## Next steps
 
-- [Sharing](/docs/guide/everdisk/everdisk-guide-sharing) — choose what to share and start sharing.
-- [Settings](/docs/guide/everdisk/everdisk-guide-settings) — all Access and File Manager settings in one place.
+- [Sharing](/docs/guide/everdisk/everdisk-guide-sharing) - choose what to share and start sharing.
+- [Settings](/docs/guide/everdisk/everdisk-guide-settings) - all Access and File Manager settings in one place.
