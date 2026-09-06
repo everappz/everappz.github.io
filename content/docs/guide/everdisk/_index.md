@@ -1,6 +1,6 @@
 ---
 title: "Everdisk"
-date: 2026-09-06
+date: 2026-08-20
 description: "Everdisk User Guide - turn your iPhone or iPad into a wireless drive. Learn how to share files, photos, videos and music with any device on your network over DLNA, HTTP, WebDAV and FTP, connect to DLNA/WebDAV/FTP/SFTP servers, use the file manager, zip and unzip files, scan documents to PDF, and keep everything private on your local network."
 keywords: [
   "Everdisk", "Everdisk guide", "Everdisk user guide", "wireless drive iPhone",

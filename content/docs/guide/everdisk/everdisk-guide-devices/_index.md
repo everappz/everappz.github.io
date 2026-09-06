@@ -1,6 +1,6 @@
 ---
 title: "Connect to Servers"
-date: 2026-09-06
+date: 2026-08-20
 description: "Use the Devices tab in Everdisk to connect to other servers on your network. Add and browse DLNA, WebDAV, FTP and SFTP servers and NAS drives, stream audio and video, download files, and create, upload, rename, move or delete on servers that allow it."
 keywords: [
   "Everdisk Devices tab", "connect to NAS", "DLNA client iPhone", "WebDAV client iPhone",

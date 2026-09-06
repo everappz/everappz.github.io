@@ -1,5 +1,5 @@
 ---
-date: '2026-09-06T17:00:00+00:00'
+date: '2026-08-20T12:00:00+00:00'
 title: 'Everdisk'
 description: "Everdisk FAQ: turn your iPhone or iPad into a wireless drive and share files, photos, videos and music with any device on your network over DLNA, HTTP, WebDAV and FTP. Answers about connecting from a TV, web browser, Mac, Windows and Linux, USB cable transfer with no Wi-Fi, connecting to NAS and WebDAV/FTP/SFTP servers, the file manager, zip and unzip, scanning documents to PDF, passwords and device blocking, privacy, and the one-time Premium Lifetime purchase."
 keywords: [
