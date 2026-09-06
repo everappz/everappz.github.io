@@ -25,7 +25,7 @@ Evervideo הוא נגן וידאו HD חינמי ל-iPhone ו-Mac, שפותח ע
 {{< force-dark >}}
 
 {{< hextra/hero-container
-  image="/products/evervideo/heroimage/hero_1600.webp"
+  image="/products/evervideo/heroimage/hero_1600.png"
   imageWidth="800"
   imageCard="true"
 >}}

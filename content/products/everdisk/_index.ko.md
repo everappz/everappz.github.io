@@ -24,9 +24,8 @@ Everdisk는 Everappz가 개발한 iPhone과 iPad용 무선 드라이브 앱입�
 {{< force-dark >}}
 
 {{< hextra/hero-container
-  image="/products/everdisk/heroimage/hero.webp"
-  imageWidth="600"
-  imageHeight="450"
+  image="/products/everdisk/heroimage/hero_1600.png"
+  imageWidth="800"
   imageCard="true"
 >}}
 

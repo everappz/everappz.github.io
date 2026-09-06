@@ -24,7 +24,7 @@ Flacbox to odtwarzacz audio hi-res na iPhone'a i Maca, opracowany przez Everappz
 {{< force-dark >}}
 
 {{< hextra/hero-container
-  image="/products/flacbox/heroimage/hero_1600.webp"
+  image="/products/flacbox/heroimage/hero_1600.png"
   imageWidth="800"
   imageCard="true"
 >}}

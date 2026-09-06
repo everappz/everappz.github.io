@@ -24,9 +24,8 @@ Everdisk este o aplicație de disc wireless pentru iPhone și iPad dezvoltată d
 {{< force-dark >}}
 
 {{< hextra/hero-container
-  image="/products/everdisk/heroimage/hero.webp"
-  imageWidth="600"
-  imageHeight="450"
+  image="/products/everdisk/heroimage/hero_1600.png"
+  imageWidth="800"
   imageCard="true"
 >}}
 

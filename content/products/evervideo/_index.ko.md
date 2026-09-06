@@ -25,7 +25,7 @@ Evervideo는 스페인 소프트웨어 회사인 Everappz가 개발한 iPhone �
 {{< force-dark >}}
 
 {{< hextra/hero-container
-  image="/products/evervideo/heroimage/hero_1600.webp"
+  image="/products/evervideo/heroimage/hero_1600.png"
   imageWidth="800"
   imageCard="true"
 >}}

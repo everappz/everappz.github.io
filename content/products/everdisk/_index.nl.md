@@ -24,9 +24,8 @@ Everdisk is een app voor een draadloze schijf voor iPhone en iPad, ontwikkeld do
 {{< force-dark >}}
 
 {{< hextra/hero-container
-  image="/products/everdisk/heroimage/hero.webp"
-  imageWidth="600"
-  imageHeight="450"
+  image="/products/everdisk/heroimage/hero_1600.png"
+  imageWidth="800"
   imageCard="true"
 >}}
 

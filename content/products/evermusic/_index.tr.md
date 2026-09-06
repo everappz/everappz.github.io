@@ -25,7 +25,7 @@ Evermusic, İspanyol yazılım şirketi Everappz tarafından geliştirilen iPhon
 {{< force-dark >}}
 
 {{< hextra/hero-container
-  image="/products/evermusic/heroimage/hero_1200.webp"
+  image="/products/evermusic/heroimage/hero_1200.png"
   imageWidth="600"
   imageCard="true"
 >}}

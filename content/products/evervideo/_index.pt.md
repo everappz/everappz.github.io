@@ -25,7 +25,7 @@ O Evervideo é um reprodutor de vídeo HD gratuito para iPhone e Mac desenvolvid
 {{< force-dark >}}
 
 {{< hextra/hero-container
-  image="/products/evervideo/heroimage/hero_1600.webp"
+  image="/products/evervideo/heroimage/hero_1600.png"
   imageWidth="800"
   imageCard="true"
 >}}

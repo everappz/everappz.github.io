@@ -25,7 +25,7 @@ Evervideo is een gratis HD-videospeler voor iPhone en Mac, ontwikkeld door Evera
 {{< force-dark >}}
 
 {{< hextra/hero-container
-  image="/products/evervideo/heroimage/hero_1600.webp"
+  image="/products/evervideo/heroimage/hero_1600.png"
   imageWidth="800"
   imageCard="true"
 >}}

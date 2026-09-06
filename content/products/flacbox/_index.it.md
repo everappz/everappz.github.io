@@ -24,7 +24,7 @@ Flacbox è un lettore audio ad alta risoluzione per iPhone e Mac sviluppato da E
 {{< force-dark >}}
 
 {{< hextra/hero-container
-  image="/products/flacbox/heroimage/hero_1600.webp"
+  image="/products/flacbox/heroimage/hero_1600.png"
   imageWidth="800"
   imageCard="true"
 >}}

@@ -24,9 +24,8 @@ Everdisk 是 Everappz 開發的 iPhone 和 iPad 無線隨身碟 App。它把你�
 {{< force-dark >}}
 
 {{< hextra/hero-container
-  image="/products/everdisk/heroimage/hero.webp"
-  imageWidth="600"
-  imageHeight="450"
+  image="/products/everdisk/heroimage/hero_1600.png"
+  imageWidth="800"
   imageCard="true"
 >}}
 

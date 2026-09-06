@@ -25,7 +25,7 @@ Evervideo è un lettore video HD gratuito per iPhone e Mac sviluppato da Everapp
 {{< force-dark >}}
 
 {{< hextra/hero-container
-  image="/products/evervideo/heroimage/hero_1600.webp"
+  image="/products/evervideo/heroimage/hero_1600.png"
   imageWidth="800"
   imageCard="true"
 >}}

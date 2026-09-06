@@ -24,7 +24,7 @@ Flacbox 是一款适用于 iPhone 和 Mac 的高解析度音频播放器，由�
 {{< force-dark >}}
 
 {{< hextra/hero-container
-  image="/products/flacbox/heroimage/hero_1600.webp"
+  image="/products/flacbox/heroimage/hero_1600.png"
   imageWidth="800"
   imageCard="true"
 >}}

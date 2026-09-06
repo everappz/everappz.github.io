@@ -25,7 +25,7 @@ Evervideo ialah pemain video HD percuma untuk iPhone dan Mac yang dibangunkan ol
 {{< force-dark >}}
 
 {{< hextra/hero-container
-  image="/products/evervideo/heroimage/hero_1600.webp"
+  image="/products/evervideo/heroimage/hero_1600.png"
   imageWidth="800"
   imageCard="true"
 >}}

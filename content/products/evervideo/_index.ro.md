@@ -25,7 +25,7 @@ Evervideo este un player video HD gratuit pentru iPhone și Mac, dezvoltat de Ev
 {{< force-dark >}}
 
 {{< hextra/hero-container
-  image="/products/evervideo/heroimage/hero_1600.webp"
+  image="/products/evervideo/heroimage/hero_1600.png"
   imageWidth="800"
   imageCard="true"
 >}}

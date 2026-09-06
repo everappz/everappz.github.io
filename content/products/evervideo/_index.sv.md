@@ -25,7 +25,7 @@ Evervideo är en gratis HD-videospelare för iPhone och Mac, utvecklad av Everap
 {{< force-dark >}}
 
 {{< hextra/hero-container
-  image="/products/evervideo/heroimage/hero_1600.webp"
+  image="/products/evervideo/heroimage/hero_1600.png"
   imageWidth="800"
   imageCard="true"
 >}}

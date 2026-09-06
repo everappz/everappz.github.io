@@ -25,7 +25,7 @@ Evervideo je bezplatný HD video prehrávač pre iPhone a Mac vyvinutý spoločn
 {{< force-dark >}}
 
 {{< hextra/hero-container
-  image="/products/evervideo/heroimage/hero_1600.webp"
+  image="/products/evervideo/heroimage/hero_1600.png"
   imageWidth="800"
   imageCard="true"
 >}}

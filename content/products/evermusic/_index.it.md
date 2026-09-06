@@ -25,7 +25,7 @@ Evermusic è un lettore musicale offline gratuito per iPhone e Mac sviluppato da
 {{< force-dark >}}
 
 {{< hextra/hero-container
-  image="/products/evermusic/heroimage/hero_1200.webp"
+  image="/products/evermusic/heroimage/hero_1200.png"
   imageWidth="600"
   imageCard="true"
 >}}

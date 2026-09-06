@@ -25,7 +25,7 @@ Evervideo — це безкоштовний HD-відеоплеєр для iPhon
 {{< force-dark >}}
 
 {{< hextra/hero-container
-  image="/products/evervideo/heroimage/hero_1600.webp"
+  image="/products/evervideo/heroimage/hero_1600.png"
   imageWidth="800"
   imageCard="true"
 >}}

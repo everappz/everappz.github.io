@@ -25,7 +25,7 @@ Az Evervideo egy ingyenes HD videólejátszó iPhone-ra és Macre, amelyet az Ev
 {{< force-dark >}}
 
 {{< hextra/hero-container
-  image="/products/evervideo/heroimage/hero_1600.webp"
+  image="/products/evervideo/heroimage/hero_1600.png"
   imageWidth="800"
   imageCard="true"
 >}}

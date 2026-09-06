@@ -25,7 +25,7 @@ Evermusic iPhone और Mac के लिए एक निःशुल्क ऑ
 {{< force-dark >}}
 
 {{< hextra/hero-container
-  image="/products/evermusic/heroimage/hero_1200.webp"
+  image="/products/evermusic/heroimage/hero_1200.png"
   imageWidth="600"
   imageCard="true"
 >}}

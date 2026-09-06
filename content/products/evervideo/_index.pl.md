@@ -25,7 +25,7 @@ Evervideo to darmowy odtwarzacz wideo HD na iPhone'a i Maca, opracowany przez Ev
 {{< force-dark >}}
 
 {{< hextra/hero-container
-  image="/products/evervideo/heroimage/hero_1600.webp"
+  image="/products/evervideo/heroimage/hero_1600.png"
   imageWidth="800"
   imageCard="true"
 >}}

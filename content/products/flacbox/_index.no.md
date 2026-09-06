@@ -24,7 +24,7 @@ Flacbox er en hi-res lydspiller for iPhone og Mac, utviklet av Everappz, et span
 {{< force-dark >}}
 
 {{< hextra/hero-container
-  image="/products/flacbox/heroimage/hero_1600.webp"
+  image="/products/flacbox/heroimage/hero_1600.png"
   imageWidth="800"
   imageCard="true"
 >}}

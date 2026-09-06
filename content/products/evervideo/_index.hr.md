@@ -25,7 +25,7 @@ Evervideo je besplatan HD video reproduktor za iPhone i Mac koji je razvila tvrt
 {{< force-dark >}}
 
 {{< hextra/hero-container
-  image="/products/evervideo/heroimage/hero_1600.webp"
+  image="/products/evervideo/heroimage/hero_1600.png"
   imageWidth="800"
   imageCard="true"
 >}}

@@ -24,7 +24,7 @@ Flacbox هو مشغل صوت عالي الدقة لأجهزة iPhone وMac، ط�
 {{< force-dark >}}
 
 {{< hextra/hero-container
-  image="/products/flacbox/heroimage/hero_1600.webp"
+  image="/products/flacbox/heroimage/hero_1600.png"
   imageWidth="800"
   imageCard="true"
 >}}

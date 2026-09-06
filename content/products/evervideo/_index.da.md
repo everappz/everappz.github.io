@@ -25,7 +25,7 @@ Evervideo er en gratis HD-videoafspiller til iPhone og Mac, udviklet af Everappz
 {{< force-dark >}}
 
 {{< hextra/hero-container
-  image="/products/evervideo/heroimage/hero_1600.webp"
+  image="/products/evervideo/heroimage/hero_1600.png"
   imageWidth="800"
   imageCard="true"
 >}}

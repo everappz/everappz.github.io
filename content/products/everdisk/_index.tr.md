@@ -24,9 +24,8 @@ Everdisk, Everappz tarafından geliştirilen, iPhone ve iPad için bir kablosuz 
 {{< force-dark >}}
 
 {{< hextra/hero-container
-  image="/products/everdisk/heroimage/hero.webp"
-  imageWidth="600"
-  imageHeight="450"
+  image="/products/everdisk/heroimage/hero_1600.png"
+  imageWidth="800"
   imageCard="true"
 >}}
 

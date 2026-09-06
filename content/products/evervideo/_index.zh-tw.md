@@ -25,7 +25,7 @@ Evervideo 是一款適用於 iPhone 和 Mac 的免費高畫質影片播放器，
 {{< force-dark >}}
 
 {{< hextra/hero-container
-  image="/products/evervideo/heroimage/hero_1600.webp"
+  image="/products/evervideo/heroimage/hero_1600.png"
   imageWidth="800"
   imageCard="true"
 >}}

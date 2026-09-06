@@ -108,7 +108,7 @@ This applies to:
 
 For product pages with `heroimage/` and `screenshots/` subdirectories:
 - Move: `content/products/evermusic/heroimage/` → `static/products/evermusic/heroimage/`
-- English & all translations use: `image="/products/evermusic/heroimage/hero_1600.webp"`
+- English & all translations use: `image="/products/evermusic/heroimage/hero_1200.png"`
 
 ## Character Encoding Rules
 

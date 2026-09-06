@@ -24,7 +24,7 @@ O Flacbox é um reprodutor de áudio de alta resolução para iPhone e Mac desen
 {{< force-dark >}}
 
 {{< hextra/hero-container
-  image="/products/flacbox/heroimage/hero_1600.webp"
+  image="/products/flacbox/heroimage/hero_1600.png"
   imageWidth="800"
   imageCard="true"
 >}}

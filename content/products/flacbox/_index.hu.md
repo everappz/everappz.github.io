@@ -24,7 +24,7 @@ A Flacbox egy hi-res audiolejátszó iPhone-ra és Macre, amelyet az Everappz, e
 {{< force-dark >}}
 
 {{< hextra/hero-container
-  image="/products/flacbox/heroimage/hero_1600.webp"
+  image="/products/flacbox/heroimage/hero_1600.png"
   imageWidth="800"
   imageCard="true"
 >}}
