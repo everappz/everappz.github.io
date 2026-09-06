@@ -2,7 +2,7 @@
 date: '2026-08-20T12:00:00+00:00'
 title: 'Everdisk - Turn Your iPhone and iPad into a Wireless Drive'
 layout: hextra-home
-description: "Turn your iPhone or iPad into a wireless drive. Share files, photos, videos and music with any device on your network over DLNA, HTTP, WebDAV and FTP - no accounts, no cloud, no extra app."
+description: "Turn your iPhone or iPad into a wireless drive and share files, photos, videos and music with any device over DLNA, HTTP, WebDAV and FTP. No cloud needed."
 keywords: ["Everdisk", "wireless drive iPhone", "share files iPhone", "WebDAV server iOS", "DLNA server iPhone", "FTP server iOS", "stream to TV from iPhone", "network drive iPhone", "USB file transfer iPhone", "file manager iOS", "scan documents to PDF", "share photos over network"]
 tags: ["Everdisk", "wireless drive", "file sharing", "DLNA", "WebDAV", "FTP", "SFTP", "network drive", "iPhone apps", "iPad apps", "Mac apps", "file manager", "media server"]
 aliases:
