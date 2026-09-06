@@ -1,13 +1,13 @@
 ---
 date: '2026-08-20T12:00:00+00:00'
-title: 'Everdisk - Verwandeln Sie Ihr iPhone und iPad in ein drahtloses Laufwerk'
+title: 'Everdisk - Verwandle dein iPhone und iPad in ein drahtloses Laufwerk'
 layout: hextra-home
-description: "Verwandeln Sie Ihr iPhone oder iPad in ein drahtloses Laufwerk und teilen Sie Dateien, Fotos, Videos und Musik mit jedem Gerät über DLNA, HTTP, WebDAV und FTP. Keine Cloud nötig."
-keywords: ["Everdisk", "drahtloses Laufwerk iPhone", "Dateien teilen iPhone", "WebDAV-Server iOS", "DLNA-Server iPhone", "FTP-Server iOS", "auf TV streamen vom iPhone", "Netzlaufwerk iPhone", "USB-Dateiübertragung iPhone", "Dateimanager iOS", "Dokumente als PDF scannen", "Fotos über Netzwerk teilen"]
-tags: ["Everdisk", "drahtloses Laufwerk", "Dateifreigabe", "DLNA", "WebDAV", "FTP", "SFTP", "Netzlaufwerk", "iPhone-Apps", "iPad-Apps", "Mac-Apps", "Dateimanager", "Medienserver"]
+description: "Verwandle dein iPhone oder iPad in ein drahtloses Laufwerk und teile Dateien, Fotos, Videos und Musik mit jedem Gerat uber DLNA, HTTP, WebDAV und FTP. Ganz ohne Cloud."
+keywords: ["Everdisk", "drahtloses Laufwerk iPhone", "Dateien teilen iPhone", "WebDAV Server iOS", "DLNA Server iPhone", "FTP Server iOS", "vom iPhone auf den TV streamen", "Netzlaufwerk iPhone", "USB Dateiubertragung iPhone", "Dateimanager iOS", "Dokumente als PDF scannen", "Fotos im Netzwerk teilen"]
+tags: ["Everdisk", "drahtloses Laufwerk", "Dateien teilen", "DLNA", "WebDAV", "FTP", "SFTP", "Netzlaufwerk", "iPhone Apps", "iPad Apps", "Mac Apps", "Dateimanager", "Medienserver"]
 appStoreUrl: "https://apps.apple.com/app/apple-store/id6751851132?pt=95781850&ct=everappzcom&mt=8"
 appStoreId: "6751851132"
-features: "Drahtloses Laufwerk über Wi-Fi und USB, Vier Server gleichzeitig (DLNA, HTTP, WebDAV, FTP), Streamen auf Smart-TVs über DLNA, Öffnen in jedem Webbrowser, Als Netzlaufwerk in Finder/Windows/Linux einbinden, Verbinden mit DLNA/WebDAV/FTP/SFTP-Servern, Integrierter Dateimanager mit Packen/Entpacken, Dokumente als PDF scannen, PDFs und Fotos markieren und signieren, PDF-Werkzeuge (komprimieren, OCR-Texterkennung, Passwortschutz, Berechtigungen, Metadaten, reduzieren), Fotogalerie und Medienplayer, Vollständige Foto- und Musikbibliothek teilen, Passwortschutz und Geräteblockierung"
+features: "Drahtloses Laufwerk uber Wi-Fi und USB, Vier Server gleichzeitig (DLNA, HTTP, WebDAV, FTP), Auf Smart-TVs streamen uber DLNA, In jedem Webbrowser offnen, Als Netzlaufwerk im Finder/Windows/Linux einbinden, Mit DLNA/WebDAV/FTP/SFTP-Servern verbinden, Integrierter Dateimanager mit Zip/Entpacken, Dokumente als PDF scannen, PDFs und Fotos markieren und signieren, PDF-Tools (komprimieren, OCR-Texterkennung, Passwortschutz, Berechtigungen, Metadaten, reduzieren), Fotogalerie und Medienplayer, Komplette Foto- und Musikbibliothek teilen, Passwortschutz und Gerate-Sperre"
 screenshots:
   - "https://everappz.com/products/everdisk/screenshots/browser_access.png"
   - "https://everappz.com/products/everdisk/screenshots/connect_to_servers.png"
@@ -16,7 +16,7 @@ screenshots:
 ---
 
 {{% sr-only %}}
-Everdisk ist eine App für ein drahtloses Laufwerk für iPhone und iPad, entwickelt von Everappz. Sie verwandelt Ihr Gerät in einen Knotenpunkt, der Dateien, Fotos, Videos und Musik mit allem in Ihrem lokalen Netzwerk teilt - ohne Konten, ohne Cloud und ohne zusätzliche App, die auf der anderen Seite installiert werden muss. Die App betreibt vier Server gleichzeitig - DLNA für Smart-TVs und Medienplayer, HTTP für jeden Webbrowser, WebDAV für Finder, Windows und Linux sowie FTP für Datei-Apps und Power-User - sodass sich jedes Gerät so verbindet, wie es möchte. Sie können Fotos, Videos und Musik direkt über DLNA mit Vorschaubildern auf Smart-TVs streamen, einen einfachen Link teilen, der sich in jedem Browser öffnet, um Ihre Dateien zu durchsuchen und herunterzuladen, oder Ihr Gerät als Netzlaufwerk einbinden und Dateien in beide Richtungen ziehen. Wenn kein Wi-Fi vorhanden ist, können Sie sich mit einem USB-Kabel mit einem Mac verbinden und Dateien schneller als über Wi-Fi übertragen, sogar im Flugzeug oder in einem gesperrten Netzwerk. Everdisk verbindet sich außerdem mit DLNA-, WebDAV-, FTP- und SFTP-Servern in Ihrem Netzwerk, um deren Dateien zu durchsuchen, zu streamen und herunterzuladen. Ein integrierter Dateimanager ermöglicht das Durchsuchen als Liste oder Raster, das Erstellen von Ordnern, das Umbenennen, Verschieben, Kopieren, Packen und Entpacken sowie das Löschen. Sie können Papierdokumente zu sauberen PDFs scannen, ein PDF oder Foto öffnen und es mit dem integrierten Editor markieren - zeichnen, hervorheben, Text und eine Signatur hinzufügen, wobei die Änderungen zurück in die Datei gespeichert werden - und ein vollständiges Set an PDF-Werkzeugen nutzen, um Dateien zu komprimieren, Text (OCR) in ein durchsuchbares PDF zu erkennen, ein Öffnungspasswort hinzuzufügen oder zu entfernen, Berechtigungen zu überprüfen, Dokumentmetadaten zu bearbeiten sowie Anmerkungen und Formularfelder zu reduzieren. Sie können außerdem Audio in einem Mini-Player abspielen und Videos im Vollbild ansehen sowie Ihre gesamte Foto- und Musikbibliothek über das Netzwerk in Originalqualität oder in einem kompatibleren Format teilen. Alles bleibt in Ihrem lokalen Netzwerk und berührt niemals das Internet, und Sie können den Zugriff mit einem Login und Passwort schützen und jedes Gerät mit einem Tippen blockieren. Everdisk ist ein kostenloser Download im App Store mit einem optionalen einmaligen Premium-Lifetime-Kauf.
+Everdisk ist eine App fur ein drahtloses Laufwerk fur iPhone und iPad, entwickelt von Everappz. Sie macht dein Gerat zu einer Zentrale, die Dateien, Fotos, Videos und Musik mit allem in deinem lokalen Netzwerk teilt - ganz ohne Konten, ohne Cloud und ohne dass du auf der anderen Seite eine zusatzliche App installieren musst. Die App betreibt vier Server gleichzeitig - DLNA fur Smart-TVs und Medienplayer, HTTP fur jeden Webbrowser, WebDAV fur Finder, Windows und Linux und FTP fur Datei-Apps und Profis - damit sich jedes Gerat so verbindet, wie es mag. Du kannst Fotos, Videos und Musik direkt uber DLNA auf Smart-TVs streamen, mit Vorschau-Miniaturbildern, einen einfachen Link teilen, der sich in jedem Browser offnet, um deine Dateien zu durchsuchen und herunterzuladen, oder dein Gerat als Netzlaufwerk einbinden und Dateien in beide Richtungen ziehen. Wenn kein Wi-Fi da ist, verbindest du dich per USB-Kabel mit einem Mac und verschiebst Dateien schneller als uber Wi-Fi - sogar im Flugzeug oder in einem gesperrten Netzwerk. Everdisk verbindet sich auch mit DLNA-, WebDAV-, FTP- und SFTP-Servern in deinem Netzwerk, um deren Dateien zu durchsuchen, zu streamen und herunterzuladen. Ein integrierter Dateimanager lasst dich in Listen- oder Rasteransicht durchsuchen, Ordner erstellen, umbenennen, verschieben, kopieren, zippen und entpacken sowie loschen. Du kannst Papierdokumente in saubere PDFs scannen, ein PDF oder Foto offnen und mit dem integrierten Editor bearbeiten - zeichnen, hervorheben, Text und eine Signatur hinzufugen, wobei Anderungen direkt in der Datei gespeichert werden - und ein komplettes Set an PDF-Tools nutzen, um Dateien zu komprimieren, Text zu erkennen (OCR) und in ein durchsuchbares PDF umzuwandeln, ein Offnungspasswort hinzuzufugen oder zu entfernen, Berechtigungen zu prufen, Dokument-Metadaten zu bearbeiten und Anmerkungen sowie Formularfelder zu reduzieren. Du kannst Audio in einem Mini-Player abspielen und Videos im Vollbild ansehen und deine komplette Foto- und Musikbibliothek in Originalqualitat oder einem kompatibleren Format uber das Netzwerk teilen. Alles bleibt in deinem lokalen Netzwerk und beruhrt nie das Internet, und du kannst den Zugriff mit einem Login und Passwort schutzen und jedes Gerat mit einem Tipp sperren. Everdisk ist ein kostenloser Download im App Store mit einem optionalen einmaligen Premium-Lifetime-Kauf.
 {{% /sr-only %}}
 
 <!-- <body class="hx:bg-transparent" style="background: radial-gradient(ellipse at 50% 80%, rgba(59,130,246,0.05), hsla(0,0%,100%,0));"> -->
@@ -51,21 +51,21 @@ Everdisk ist eine App für ein drahtloses Laufwerk für iPhone und iPad, entwick
 
 <div class="hx:mb-6">
 {{< hextra/hero-centered-subtitle >}}
-Verwandeln Sie Ihr iPhone oder iPad in ein drahtloses Laufwerk&nbsp;<br class="hx:sm:block hx:hidden" />das Dateien mit <strong>jedem Gerät in Ihrem Netzwerk</strong> teilt
+Verwandle dein iPhone oder iPad in ein drahtloses Laufwerk,&nbsp;<br class="hx:sm:block hx:hidden" />das Dateien mit <strong>jedem Gerat in deinem Netzwerk</strong> teilt
 {{< /hextra/hero-centered-subtitle >}}
 </div>
 
 <div class="hx:mb-6">
 {{< hextra/hero-paragraph >}}
-• Tippen Sie auf Start und teilen Sie auf vier Arten gleichzeitig: DLNA, HTTP, WebDAV und FTP  
-• Streamen Sie Fotos, Videos und Musik direkt über DLNA auf Smart-TVs  
-• Binden Sie Ihr Gerät als Netzlaufwerk in Finder, Windows oder Linux ein  
-• Kein Wi-Fi? Übertragen Sie Dateien über ein USB-Kabel, schneller als drahtlos  
+• Tippe auf Start und teile auf vier Wegen zugleich: DLNA, HTTP, WebDAV und FTP  
+• Streame Fotos, Videos und Musik direkt uber DLNA auf Smart-TVs  
+• Binde dein Gerat als Netzlaufwerk im Finder, unter Windows oder Linux ein  
+• Kein Wi-Fi? Verschiebe Dateien uber ein USB-Kabel, schneller als drahtlos  
 {{< /hextra/hero-paragraph >}}
 </div>
 
 {{< hextra/hero-button 
-  text="Im App Store herunterladen"
+  text="Download on the App Store"
   link="https://apps.apple.com/app/apple-store/id6751851132?pt=95781850&ct=everappzcom&mt=8"
   icon="device-mobile" 
   style="margin-top:1rem;margin-right:1rem;"
@@ -82,43 +82,43 @@ Verwandeln Sie Ihr iPhone oder iPad in ein drahtloses Laufwerk&nbsp;<br class="h
 {{< hextra/feature-grid >}}
 
   {{< hextra/feature-card
-    title="Ihr Gerät wird zum Laufwerk"
-    subtitle="Tippen Sie auf Start und Ihr iPhone oder iPad wird zu einem drahtlosen Laufwerk. Everdisk betreibt vier Server gleichzeitig - DLNA, HTTP, WebDAV und FTP - sodass Smart-TVs, Computer, Webbrowser und Datei-Apps sich jeweils so verbinden, wie sie möchten. Keine Konten, keine Cloud und nichts Zusätzliches, das auf der anderen Seite installiert werden muss."
+    title="Dein Gerat wird zum Laufwerk"
+    subtitle="Tippe auf Start und dein iPhone oder iPad wird zum drahtlosen Laufwerk. Everdisk betreibt vier Server gleichzeitig - DLNA, HTTP, WebDAV und FTP - damit sich Smart-TVs, Computer, Webbrowser und Datei-Apps jeweils so verbinden, wie sie mogen. Keine Konten, keine Cloud und nichts Zusatzliches auf der anderen Seite zu installieren."
     icon="server"
     style="background: radial-gradient(ellipse at 50% 80%, rgba(34,197,94,0.15), hsla(0,0%,100%,0));"
   >}}
 
   {{< hextra/feature-card
-    title="Auf Ihrem TV ansehen"
-    subtitle="Streamen Sie Fotos, Videos und Musik direkt über DLNA auf Smart-TVs und Medienplayer. Ihre Bibliothek erscheint von selbst auf dem TV, mit Vorschaubildern, sodass Sie sie ohne Kabel oder zusätzliche Apps auf dem großen Bildschirm genießen können."
+    title="Schau auf deinem TV"
+    subtitle="Streame Fotos, Videos und Musik direkt uber DLNA auf Smart-TVs und Medienplayer. Deine Bibliothek erscheint von selbst auf dem TV, mit Vorschau-Miniaturbildern, sodass du sie auf dem grossen Bildschirm geniessen kannst - ohne Kabel und ohne zusatzliche Apps."
     icon="desktop-computer"
     style="background: radial-gradient(ellipse at 50% 80%, rgba(234,88,12,0.15), hsla(0,0%,100%,0));"
   >}}
 
   {{< hextra/feature-card
-    title="In jedem Webbrowser öffnen"
-    subtitle="Teilen Sie einen einfachen Link und die andere Person öffnet ihn einfach in einem Browser. Sie kann Ihre Dateien in einem übersichtlichen Raster oder als Liste durchsuchen, Fotos in einer Vollbildgalerie ansehen, Musik im integrierten Player abspielen und alles herunterladen - ohne dass etwas installiert werden muss."
+    title="In jedem Webbrowser offnen"
+    subtitle="Teile einen einfachen Link und die andere Person offnet ihn einfach im Browser. Sie kann deine Dateien in einem aufgeraumten Raster oder als Liste durchsuchen, Fotos in einer Vollbildgalerie ansehen, Musik im integrierten Player abspielen und alles herunterladen - ganz ohne Installation auf ihrer Seite."
     icon="globe-alt"
     style="background: radial-gradient(ellipse at 50% 80%, rgba(251,191,36,0.15), hsla(0,0%,100%,0));"
   >}}
 
   {{< hextra/feature-card
-    title="Als Netzlaufwerk verwenden"
-    subtitle="Verbinden Sie sich vom Finder auf einem Mac, von Windows oder von Linux über WebDAV, und Ihr Gerät erscheint wie eine normale Netzwerkfestplatte. Ziehen Sie Dateien in beide Richtungen per Drag-and-drop: Kopieren Sie Dateien von Ihrem Computer auf Ihr Gerät oder holen Sie sie zurück."
+    title="Als Netzlaufwerk nutzen"
+    subtitle="Verbinde dich aus dem Finder auf dem Mac, unter Windows oder unter Linux uber WebDAV und dein Gerat erscheint wie eine normale Netzwerkfestplatte. Ziehe Dateien in beide Richtungen: kopiere Dateien vom Computer auf dein Gerat oder hole sie zuruck."
     icon="folder"
     style="background: radial-gradient(ellipse at 50% 80%, rgba(59,130,246,0.15), hsla(0,0%,100%,0));"
   >}}
 
   {{< hextra/feature-card
-    title="Kein Wi-Fi? Nutzen Sie das Kabel"
-    subtitle="Verbinden Sie Ihr Gerät mit demselben USB-Kabel mit einem Mac, das Sie zum Laden verwenden. Dateien werden direkt durch das Kabel übertragen, schneller als über Wi-Fi, und es funktioniert weiterhin im Flugzeug, im Hotel oder in jedem gesperrten Netzwerk, in dem Wi-Fi blockiert ist."
+    title="Kein Wi-Fi? Nimm das Kabel"
+    subtitle="Verbinde dein Gerat mit demselben USB-Kabel mit einem Mac, mit dem du es auch ladst. Dateien wandern direkt durch das Kabel, schneller als uber Wi-Fi, und es funktioniert weiter im Flugzeug, im Hotel oder in jedem gesperrten Netzwerk, in dem Wi-Fi blockiert ist."
     icon="lightning-bolt"
     style="background: radial-gradient(ellipse at 50% 80%, rgba(192,38,211,0.15), hsla(0,0%,100%,0));"
   >}}
 
   {{< hextra/feature-card
-    title="Mit anderen Geräten verbinden"
-    subtitle="Finden und verbinden Sie sich mit DLNA-, WebDAV-, FTP- und SFTP-Servern in Ihrem Netzwerk. Durchsuchen Sie deren Ordner, streamen Sie Audio und Video, laden Sie Dateien herunter und erstellen Sie Ordner, laden Sie hoch, benennen Sie um, verschieben oder löschen Sie, wenn der Server es erlaubt."
+    title="Mit anderen Geraten verbinden"
+    subtitle="Finde und verbinde dich mit DLNA-, WebDAV-, FTP- und SFTP-Servern in deinem Netzwerk. Durchsuche ihre Ordner, streame Audio und Video, lade Dateien herunter und erstelle Ordner, lade hoch, benenne um, verschiebe oder losche, wenn der Server es erlaubt."
     icon="cloud-download"
     style="background: radial-gradient(ellipse at 50% 80%, rgba(6,182,212,0.15), hsla(0,0%,100%,0));"
   >}}
@@ -130,7 +130,7 @@ Verwandeln Sie Ihr iPhone oder iPad in ein drahtloses Laufwerk&nbsp;<br class="h
 <div class="hx:mt-6"></div>
 
 {{< hextra/section-headline >}}
-  Klares & einfaches Design
+  Klares & schlichtes Design
 {{< /hextra/section-headline >}}
 
 <div class="hx:mt-6"></div>
@@ -145,7 +145,7 @@ Verwandeln Sie Ihr iPhone oder iPad in ein drahtloses Laufwerk&nbsp;<br class="h
     title="Browser-Zugriff" 
     method="Fill"
     options="1030x400 q82 webp Center"
-    subtitle="Teilen Sie einen Link und lassen Sie jeden Ihre Dateien in jedem Webbrowser durchsuchen, in der Vorschau ansehen und herunterladen. Nichts muss auf der anderen Seite installiert werden." 
+    subtitle="Teile einen Link und lass jeden deine Dateien in jedem Webbrowser durchsuchen, ansehen und herunterladen. Nichts auf der anderen Seite zu installieren." 
   >}}
 
   {{< feature-card 
@@ -154,7 +154,7 @@ Verwandeln Sie Ihr iPhone oder iPad in ein drahtloses Laufwerk&nbsp;<br class="h
     title="Mit Servern verbinden" 
     method="Fill"
     options="1030x400 q82 webp Center"
-    subtitle="Entdecken und verbinden Sie sich mit DLNA-, WebDAV-, FTP- und SFTP-Servern in Ihrem Netzwerk, um deren Dateien zu durchsuchen, zu streamen und herunterzuladen." 
+    subtitle="Entdecke DLNA-, WebDAV-, FTP- und SFTP-Server in deinem Netzwerk und verbinde dich, um ihre Dateien zu durchsuchen, zu streamen und herunterzuladen." 
   >}}
 
   {{< feature-card 
@@ -163,7 +163,7 @@ Verwandeln Sie Ihr iPhone oder iPad in ein drahtloses Laufwerk&nbsp;<br class="h
     title="Dateimanager" 
     method="Fill"
     options="1030x400 q82 webp Center"
-    subtitle="Verwalten Sie alles auf Ihrem Gerät: durchsuchen als Liste oder Raster, Ordner erstellen, umbenennen, verschieben, kopieren, packen und entpacken sowie löschen." 
+    subtitle="Verwalte alles auf deinem Gerat: durchsuche in Listen- oder Rasteransicht, erstelle Ordner, benenne um, verschiebe, kopiere, zippe und entpacke sowie losche." 
   >}}
 
   {{< feature-card 
@@ -172,16 +172,16 @@ Verwandeln Sie Ihr iPhone oder iPad in ein drahtloses Laufwerk&nbsp;<br class="h
     title="In der App abspielen" 
     method="Fill"
     options="1030x400 q82 webp Center"
-    subtitle="Hören Sie Ihre lokalen Titel oder streamen Sie von verbundenen Geräten, mit einer Mini-Player-Warteschlange und Vollbild-Videowiedergabe." 
+    subtitle="Hore deine lokalen Titel oder streame von verbundenen Geraten, mit einer Mini-Player-Warteschlange und Videowiedergabe im Vollbild." 
   >}}
 
   {{< feature-card 
     icon="music-note"
     image="/products/everdisk/screenshots/share_your_library.png"  
-    title="Ihre Bibliothek teilen" 
+    title="Deine Bibliothek teilen" 
     method="Fill"
     options="1030x400 q82 webp Center"
-    subtitle="Aktivieren Sie Ihre vollständige Foto- und Musikbibliothek und jedes Album und jeder Titel wird über das Netzwerk in Originalqualität verfügbar." 
+    subtitle="Schalte deine komplette Foto- und Musikbibliothek frei und jedes Album und jeder Titel wird uber das Netzwerk in Originalqualitat verfugbar." 
   >}} 
 
   {{< feature-card 
@@ -190,7 +190,7 @@ Verwandeln Sie Ihr iPhone oder iPad in ein drahtloses Laufwerk&nbsp;<br class="h
     title="Fotogalerie" 
     method="Fill"
     options="1030x400 q82 webp Center"
-    subtitle="Echte Vorschaubilder auf TVs und im Browser, plus eine Vollbild-Fotogalerie mit Wischen und Zoom - keine schlichten Symbole." 
+    subtitle="Echte Vorschau-Miniaturbilder auf TVs und im Browser, plus eine Vollbild-Fotogalerie mit Wischen und Zoom - keine schlichten Symbole." 
   >}}
 
 {{< /cards >}}
@@ -200,7 +200,7 @@ Verwandeln Sie Ihr iPhone oder iPad in ein drahtloses Laufwerk&nbsp;<br class="h
 <div class="hx:mt-6"></div>
 
 {{< hextra/section-headline >}}
-  Vollständiger Funktionsumfang
+  Alle Funktionen im Uberblick
 {{< /hextra/section-headline >}}
 
 <div class="hx:mt-6"></div>
@@ -209,47 +209,47 @@ Verwandeln Sie Ihr iPhone oder iPad in ein drahtloses Laufwerk&nbsp;<br class="h
 
 {{< cards >}}
 
-  {{< feature-card title="Vier Server gleichzeitig" subtitle="Tippen Sie auf Start und teilen Sie Ihre Dateien auf vier Arten gleichzeitig: DLNA für TVs und Medienplayer, HTTP für jeden Webbrowser, WebDAV für Finder, Windows und Linux sowie FTP für Datei-Apps und Power-User." icon="wifi" >}}
+  {{< feature-card title="Vier Server gleichzeitig" subtitle="Tippe auf Start und teile deine Dateien auf vier Wegen zugleich: DLNA fur TVs und Medienplayer, HTTP fur jeden Webbrowser, WebDAV fur Finder, Windows und Linux und FTP fur Datei-Apps und Profis." icon="wifi" >}}
 
-  {{< feature-card title="Auf Smart-TVs streamen" subtitle="Senden Sie Fotos, Videos und Musik direkt über DLNA auf Smart-TVs und Medienplayer. Ihre Bibliothek erscheint von selbst auf dem TV, mit Vorschaubildern, bereit für den großen Bildschirm." icon="desktop-computer" >}}
+  {{< feature-card title="Auf Smart-TVs streamen" subtitle="Sende Fotos, Videos und Musik direkt uber DLNA auf Smart-TVs und Medienplayer. Deine Bibliothek erscheint von selbst auf dem TV, mit Vorschau-Miniaturbildern, bereit fur den grossen Bildschirm." icon="desktop-computer" >}}
 
-  {{< feature-card title="Freigabe über Webbrowser" subtitle="Teilen Sie einen Link und die andere Seite öffnet ihn einfach in einem Browser, um Ihre Dateien als Raster oder Liste zu durchsuchen, Fotos im Vollbild anzusehen, Musik abzuspielen und alles herunterzuladen - keine Installation nötig." icon="globe-alt" >}}
+  {{< feature-card title="Teilen per Webbrowser" subtitle="Teile einen Link und die andere Seite offnet ihn einfach im Browser, um deine Dateien im Raster oder als Liste zu durchsuchen, Fotos im Vollbild anzusehen, Musik abzuspielen und alles herunterzuladen - ohne Installation." icon="globe-alt" >}}
 
-  {{< feature-card title="WebDAV-Netzlaufwerk" subtitle="Verbinden Sie sich vom Finder auf einem Mac, von Windows oder von Linux über WebDAV und Ihr Gerät erscheint wie eine normale Netzwerkfestplatte. Ziehen Sie Dateien per Drag-and-drop in beide Richtungen." icon="folder" >}}
+  {{< feature-card title="WebDAV-Netzlaufwerk" subtitle="Verbinde dich aus dem Finder auf dem Mac, unter Windows oder unter Linux uber WebDAV und dein Gerat erscheint wie eine normale Netzwerkfestplatte. Ziehe Dateien in beide Richtungen." icon="folder" >}}
 
-  {{< feature-card title="Übertragung über USB" subtitle="Schließen Sie es mit Ihrem Ladekabel an einen Mac an und übertragen Sie Dateien direkt durch das Kabel, schneller als über Wi-Fi. Es funktioniert weiterhin im Flugzeug, im Hotel oder in jedem gesperrten Netzwerk." icon="lightning-bolt" >}}
+  {{< feature-card title="Ubertragung uber USB" subtitle="Stecke dich mit deinem Ladekabel an einen Mac und verschiebe Dateien direkt durch das Kabel, schneller als uber Wi-Fi. Es funktioniert weiter im Flugzeug, im Hotel oder in jedem gesperrten Netzwerk." icon="lightning-bolt" >}}
 
-  {{< feature-card title="Mit DLNA, WebDAV, FTP & SFTP verbinden" subtitle="Finden und verbinden Sie sich mit Servern in Ihrem Netzwerk, durchsuchen Sie deren Ordner, streamen Sie Audio und Video, laden Sie Dateien herunter und erstellen, laden hoch, benennen um, verschieben oder löschen Sie, wenn es erlaubt ist." icon="server" >}}
+  {{< feature-card title="Mit DLNA, WebDAV, FTP & SFTP verbinden" subtitle="Finde Server in deinem Netzwerk und verbinde dich, durchsuche ihre Ordner, streame Audio und Video, lade Dateien herunter und erstelle, lade hoch, benenne um, verschiebe oder losche, wenn erlaubt." icon="server" >}}
 
-  {{< feature-card title="Integrierter Dateimanager" subtitle="Ein vollständiger Dateimanager für alles auf Ihrem Gerät. Durchsuchen Sie als Liste oder Raster, erstellen Sie Ordner, benennen Sie um, verschieben, kopieren und löschen Sie und verbinden Sie Ordner von überall auf Ihrem Gerät." icon="view-grid" >}}
+  {{< feature-card title="Integrierter Dateimanager" subtitle="Ein vollstandiger Dateimanager fur alles auf deinem Gerat. Durchsuche in Listen- oder Rasteransicht, erstelle Ordner, benenne um, verschiebe, kopiere und losche und binde Ordner von uberall auf deinem Gerat ein." icon="view-grid" >}}
 
-  {{< feature-card title="Packen & Entpacken" subtitle="Komprimieren Sie Dateien und Ordner zu einem einzigen Archiv zum Teilen oder Speichern und entpacken Sie erhaltene Archive direkt auf Ihrem Gerät ohne zusätzliche Werkzeuge." icon="document-duplicate" >}}
+  {{< feature-card title="Zippen & Entpacken" subtitle="Komprimiere Dateien und Ordner in ein einziges Archiv zum Teilen oder Speichern und entpacke erhaltene Archive direkt auf deinem Gerat, ganz ohne zusatzliche Tools." icon="document-duplicate" >}}
 
-  {{< feature-card title="Dokumente als PDF scannen" subtitle="Scannen Sie Papierdokumente mit Ihrer Kamera. Everdisk findet die Ränder automatisch, richtet jede Seite gerade aus und speichert sie als sauberes PDF, bereit zum Teilen oder Speichern." icon="document-text" >}}
+  {{< feature-card title="Dokumente als PDF scannen" subtitle="Scanne Papierdokumente mit deiner Kamera. Everdisk erkennt die Kanten automatisch, richtet jede Seite gerade und speichert sie als sauberes PDF, bereit zum Teilen oder Speichern." icon="document-text" >}}
 
-  {{< feature-card title="PDFs markieren & signieren" subtitle="Öffnen Sie ein PDF oder Foto und markieren Sie es direkt in der App: zeichnen, hervorheben, Text und Formen hinzufügen und mit dem Finger signieren. Ihre Änderungen werden direkt in die Datei zurückgespeichert." icon="pencil-alt" >}}
+  {{< feature-card title="PDFs markieren & signieren" subtitle="Offne ein PDF oder Foto und bearbeite es direkt in der App: zeichne, hebe hervor, fuge Text und Formen hinzu und signiere mit dem Finger. Deine Anderungen werden direkt in der Datei gespeichert." icon="pencil-alt" >}}
 
-  {{< feature-card title="PDF-Werkzeuge" subtitle="Ein vollständiges PDF-Toolkit direkt integriert: Dateien komprimieren, Text (OCR) in ein durchsuchbares PDF erkennen, ein Öffnungspasswort festlegen oder entfernen, Berechtigungen überprüfen, Dokumentmetadaten bearbeiten sowie Anmerkungen und Formularfelder reduzieren." icon="document-report" >}}
+  {{< feature-card title="PDF-Tools" subtitle="Ein komplettes PDF-Toolkit direkt integriert: komprimiere Dateien, erkenne Text (OCR) und wandle ihn in ein durchsuchbares PDF um, setze oder entferne ein Offnungspasswort, prufe Berechtigungen, bearbeite Dokument-Metadaten und reduziere Anmerkungen sowie Formularfelder." icon="document-report" >}}
 
-  {{< feature-card title="Fotogalerie" subtitle="Echte Vorschaubilder auf TVs und im Browser, plus eine Vollbild-Fotogalerie mit Wischen und Zoom, sodass Sie immer das Bild und nicht ein schlichtes Symbol sehen." icon="photograph" >}}
+  {{< feature-card title="Fotogalerie" subtitle="Echte Vorschau-Miniaturbilder auf TVs und im Browser, plus eine Vollbild-Fotogalerie mit Wischen und Zoom, damit du immer das Bild siehst und nicht ein schlichtes Symbol." icon="photograph" >}}
 
-  {{< feature-card title="Audio-Mini-Player" subtitle="Genießen Sie Audio in einem Mini-Player mit Warteschlange, Zufallswiedergabe, Wiederholung und Sperrbildschirm-Steuerung. Ihre Fotos- und Musikbibliotheken werden direkt hier in der App abgespielt." icon="music-note" >}}
+  {{< feature-card title="Audio-Mini-Player" subtitle="Geniesse Audio in einem Mini-Player mit Warteschlange, Zufallswiedergabe, Wiederholung und Sperrbildschirm-Steuerung. Deine Fotos- und Musikbibliothek spielt direkt hier in der App." icon="music-note" >}}
 
-  {{< feature-card title="Vollbild-Video" subtitle="Sehen Sie Ihre Videos im Vollbild, abgespielt von lokalen Dateien oder direkt gestreamt von einem verbundenen Gerät, mit einfachen, vertrauten Wiedergabesteuerungen." icon="film" >}}
+  {{< feature-card title="Video im Vollbild" subtitle="Schau deine Videos im Vollbild an, abgespielt von lokalen Dateien oder direkt von einem verbundenen Gerat gestreamt, mit einfachen, vertrauten Wiedergabesteuerungen." icon="film" >}}
 
-  {{< feature-card title="Ihre gesamte Bibliothek teilen" subtitle="Aktivieren Sie Ihre vollständige Foto- und Musikbibliothek und jedes Album und jeder Titel wird über das Netzwerk in Originalqualität verfügbar oder für die Kompatibilität konvertiert." icon="share" >}}
+  {{< feature-card title="Deine komplette Bibliothek teilen" subtitle="Schalte deine komplette Foto- und Musikbibliothek frei und jedes Album und jeder Titel wird uber das Netzwerk in Originalqualitat verfugbar oder fur Kompatibilitat konvertiert." icon="share" >}}
 
-  {{< feature-card title="Dateien zurücksenden" subtitle="Es funktioniert in beide Richtungen. Laden Sie Fotos und Dokumente von jedem Computer direkt auf Ihr Gerät hoch und fügen Sie auch ganze Ordner hinzu, alles über dieselbe Verbindung." icon="upload" >}}
+  {{< feature-card title="Dateien zurucksenden" subtitle="Es funktioniert in beide Richtungen. Lade Fotos und Dokumente von jedem Computer direkt auf dein Gerat und fuge auch ganze Ordner hinzu, alles uber dieselbe Verbindung." icon="upload" >}}
 
-  {{< feature-card title="Passwortschutz" subtitle="Schützen Sie Ihre freigegebenen Inhalte vor unbefugtem Zugriff mit einem Login und Passwort, sodass verbundene Geräte dieselben Angaben eingeben müssen, bevor sie Ihre Dateien sehen können." icon="lock-closed" >}}
+  {{< feature-card title="Passwortschutz" subtitle="Schutze deine geteilten Inhalte vor unbefugtem Zugriff mit einem Login und Passwort, sodass verbundene Gerate dieselben Angaben eingeben mussen, bevor sie deine Dateien sehen konnen." icon="lock-closed" >}}
 
-  {{< feature-card title="Jedes Gerät blockieren" subtitle="Behalten Sie die Kontrolle darüber, wer sich verbindet. Blockieren Sie jedes Gerät in Ihrem Netzwerk mit einem einzigen Tippen, sodass es die von Ihnen geteilten Inhalte nicht mehr erreichen kann." icon="shield-check" >}}
+  {{< feature-card title="Jedes Gerat sperren" subtitle="Behalte die Kontrolle daruber, wer sich verbindet. Sperre jedes Gerat in deinem Netzwerk mit einem einzigen Tipp, sodass es die geteilten Inhalte nicht mehr erreichen kann." icon="shield-check" >}}
 
-  {{< feature-card title="Privat & nur lokal" subtitle="Alles bleibt in Ihrem lokalen Netzwerk und berührt niemals das Internet. Ihre Dateien verlassen niemals Ihr Zuhause, und es gibt keine Konten und keine Cloud dazwischen." icon="eye" >}}
+  {{< feature-card title="Privat & nur lokal" subtitle="Alles bleibt in deinem lokalen Netzwerk und beruhrt nie das Internet. Deine Dateien verlassen nie dein Zuhause, und es gibt keine Konten und keine Cloud dazwischen." icon="eye" >}}
 
-  {{< feature-card title="Original oder konvertiert" subtitle="Behalten Sie Ihre Fotos und Videos in Originalqualität oder konvertieren Sie sie in ein kompatibleres Format, wenn ein TV, Browser oder ein anderes Gerät es benötigt." icon="switch-horizontal" >}}
+  {{< feature-card title="Original oder konvertiert" subtitle="Behalte deine Fotos und Videos in Originalqualitat oder konvertiere sie in ein kompatibleres Format, wenn ein TV, Browser oder anderes Gerat es benotigt." icon="switch-horizontal" >}}
 
-  {{< feature-card title="Externe Ordner verbinden" subtitle="Verbinden Sie Ordner von überall auf Ihrem Gerät und arbeiten Sie direkt in der App mit ihnen, dann teilen Sie sie über das Netzwerk zusammen mit allem anderen." icon="collection" >}}
+  {{< feature-card title="Externe Ordner einbinden" subtitle="Binde Ordner von uberall auf deinem Gerat ein und arbeite direkt in der App mit ihnen, dann teile sie zusammen mit allem anderen uber das Netzwerk." icon="collection" >}}
 
 {{< /cards >}}
 
@@ -272,7 +272,7 @@ Verwandeln Sie Ihr iPhone oder iPad in ein drahtloses Laufwerk&nbsp;<br class="h
 -->
 
 {{< hextra/section-headline >}}
-  Preispläne
+  Preise
 {{< /hextra/section-headline >}}
 
 <div class="hx:mt-6"></div>
@@ -283,16 +283,16 @@ Verwandeln Sie Ihr iPhone oder iPad in ein drahtloses Laufwerk&nbsp;<br class="h
   {{< hextra/feature-card
     title="Kostenlos"
     class="pricing-card pricing-free"
-    subtitle=`<span class='pricing-details'>• Verwandeln Sie Ihr Gerät in ein drahtloses Laufwerk<br />
+    subtitle=`<span class='pricing-details'>• Verwandle dein Gerat in ein drahtloses Laufwerk<br />
 • Vier Server gleichzeitig: DLNA, HTTP, WebDAV, FTP<br />
-• Streamen auf Smart-TVs, Browser und Computer<br />
-• Als Netzlaufwerk einbinden und über USB übertragen<br />
-• Ihre gesamte Foto- und Musikbibliothek teilen<br />
-• Mit DLNA-, WebDAV-, FTP- und SFTP-Servern verbinden<br />
-• Dateimanager mit Packen und Entpacken<br />
-• Dokumente als PDF scannen und vollständige PDF-Werkzeuge<br />
+• Streame auf Smart-TVs, Browser und Computer<br />
+• Als Netzlaufwerk einbinden und uber USB ubertragen<br />
+• Teile deine komplette Foto- und Musikbibliothek<br />
+• Verbinde dich mit DLNA-, WebDAV-, FTP- und SFTP-Servern<br />
+• Dateimanager mit Zippen und Entpacken<br />
+• Dokumente als PDF scannen und komplette PDF-Tools<br />
 • PDFs und Fotos markieren und signieren<br />
-• Passwortschutz und Geräteblockierung<br />
+• Passwortschutz und Gerate-Sperre<br />
 • Bis zu 5 geteilte Ordner und 10 gespeicherte Verbindungen</span><br /><br />
 <span class='hx:block hx:mt-2 hx:text-center'>
   <span class='pricing-btn hx:inline-block hx:rounded-full hx:border hx:border-gray-200 hx:dark:border-neutral-800 hx:px-3 hx:py-1 hx:transition-all hx:duration-200'>
@@ -307,14 +307,14 @@ Verwandeln Sie Ihr iPhone oder iPad in ein drahtloses Laufwerk&nbsp;<br class="h
     subtitle=`<span class='pricing-details'>• Alles aus Kostenlos<br />
 • Unbegrenzte geteilte Ordner (mehr als 5)<br />
 • Unbegrenzte gespeicherte Verbindungen (mehr als 10)<br />
-• Foto- & Videokonvertierung in ein kompatibles Format oder eine kleinere Größe<br />
-• Benutzerdefinierte HTTP-, WebDAV- und FTP-Ports<br />
-• Automatischer Start der Freigabe beim Öffnen der App<br />
-• Geräteanpassung: Name, Avatar-Symbol, Farbverlauf oder Foto<br />
-• Einmaliger Kauf - einmal berechnet, verlängert sich nie</span><br /><br />
+• Foto- & Videokonvertierung in ein kompatibles Format oder eine kleinere Grosse<br />
+• Individuelle HTTP-, WebDAV- und FTP-Ports<br />
+• Teilen automatisch starten, wenn du die App offnest<br />
+• Gerate-Anpassung: Name, Avatar-Symbol, Farbverlauf oder Foto<br />
+• Einmaliger Kauf - einmal berechnet, verlangert sich nie</span><br /><br />
 <span class='hx:block hx:mt-2 hx:text-center'>
   <span class='pricing-btn hx:inline-block hx:rounded-full hx:border hx:border-gray-200 hx:dark:border-neutral-800 hx:px-3 hx:py-1 hx:transition-all hx:duration-200'>
-    <strong>$9.99</strong>/lifetime
+    <strong>$9.99</strong>/einmalig
   </span>
 </span>`
   >}}
@@ -327,122 +327,122 @@ Verwandeln Sie Ihr iPhone oder iPad in ein drahtloses Laufwerk&nbsp;<br class="h
 
 <div class="hx:w-full hx:mx-auto hx:flex hx:flex-col hx:items-center">
   {{< hextra/info-paragraph border="true" >}}
-   <strong>Preise</strong>: Die Preise werden in US-Dollar für die Vereinigten Staaten angezeigt. Der endgültige Preis kann je nach Region variieren.  
+   <strong>Preise</strong>: Die Preise werden in US-Dollar fur die USA angezeigt. Der endgultige Preis kann je nach Region abweichen.  
   {{< /hextra/info-paragraph >}}
 </div>
 
 <div class="hx:mt-6"></div>
 
 {{< hextra/section-headline >}}
-  Häufig gestellte Fragen
+  Haufig gestellte Fragen
 {{< /hextra/section-headline >}}
 
 <div class="hx:mt-6"></div>
 
 <div class="hx:w-full">
 {{% details title="Was ist Everdisk?" closed="true" %}}
-Everdisk verwandelt Ihr iPhone oder iPad in ein drahtloses Laufwerk und einen Knotenpunkt, der sich auch mit Ihren anderen Geräten verbindet.<br>
-Sie können Ihre Dateien, Fotos, Videos und Musik mit allem in Ihrem Netzwerk teilen, von anderen Servern durchsuchen und streamen und alles direkt auf Ihrem Gerät verwalten.<br>
-Es gibt keine Konten, keine Cloud und keine zusätzliche App, die auf der anderen Seite installiert werden muss - Sie tippen einfach auf Start und sind bereit.<br><br>
+Everdisk verwandelt dein iPhone oder iPad in ein drahtloses Laufwerk und in eine Zentrale, die sich auch mit deinen anderen Geraten verbindet.<br>
+Du kannst deine Dateien, Fotos, Videos und Musik mit allem in deinem Netzwerk teilen, andere Server durchsuchen und von ihnen streamen und alles direkt auf deinem Gerat verwalten.<br>
+Es gibt keine Konten, keine Cloud und keine zusatzliche App auf der anderen Seite - du tippst einfach auf Start und bist bereit.<br><br>
 
-Die App betreibt vier Server gleichzeitig, sodass sich jedes Gerät so verbindet, wie es möchte: Smart-TVs über DLNA, Computer und Webbrowser über HTTP, Finder, Windows und Linux über WebDAV sowie Datei-Apps über FTP.
+Die App betreibt vier Server gleichzeitig, damit sich jedes Gerat so verbindet, wie es mag: Smart-TVs uber DLNA, Computer und Webbrowser uber HTTP, Finder, Windows und Linux uber WebDAV und Datei-Apps uber FTP.
 {{% /details %}}
 
 {{% details title="Wie funktioniert Everdisk?" closed="true" %}}
-Wenn Sie auf Start tippen, beginnt Everdisk, die von Ihnen ausgewählten Inhalte zu teilen, und betreibt vier Server gleichzeitig, sodass sich verschiedene Geräte auf die von ihnen bevorzugte Weise verbinden können.<br><br>
+Wenn du auf Start tippst, beginnt Everdisk, die von dir ausgewahlten Inhalte zu teilen, und betreibt vier Server gleichzeitig, damit sich verschiedene Gerate so verbinden konnen, wie sie mogen.<br><br>
 
-- <strong>DLNA</strong> lässt Smart-TVs und Medienplayer Ihre Fotos, Videos und Musik automatisch finden und mit Vorschaubildern anzeigen.<br>
-- <strong>HTTP</strong> gibt jedem einen einfachen Link, den er in einem Webbrowser öffnen kann, um Ihre Dateien zu durchsuchen, in der Vorschau anzusehen und herunterzuladen, ohne dass etwas installiert werden muss.<br>
-- <strong>WebDAV</strong> lässt Ihr Gerät als normales Netzlaufwerk in Finder, Windows oder Linux erscheinen, sodass Sie Dateien in beide Richtungen ziehen können.<br>
-- <strong>FTP</strong> funktioniert mit Datei-Apps und Power-Usern.<br><br>
+- <strong>DLNA</strong> lasst Smart-TVs und Medienplayer deine Fotos, Videos und Musik automatisch finden und mit Vorschau-Miniaturbildern anzeigen.<br>
+- <strong>HTTP</strong> gibt jedem einen einfachen Link, den er im Webbrowser offnen kann, um deine Dateien zu durchsuchen, anzusehen und herunterzuladen - ganz ohne Installation.<br>
+- <strong>WebDAV</strong> lasst dein Gerat als normales Netzlaufwerk im Finder, unter Windows oder Linux erscheinen, sodass du Dateien in beide Richtungen ziehen kannst.<br>
+- <strong>FTP</strong> funktioniert mit Datei-Apps und fur Profis.<br><br>
 
-Everdisk verbindet sich auch in die andere Richtung, mit DLNA-, WebDAV-, FTP- und SFTP-Servern in Ihrem Netzwerk, sodass Sie deren Ordner durchsuchen, Audio und Video streamen und Dateien herunterladen oder verwalten können, wenn der Server es erlaubt. Alles bleibt in Ihrem lokalen Netzwerk und berührt niemals das Internet.
+Everdisk verbindet sich auch in die andere Richtung, mit DLNA-, WebDAV-, FTP- und SFTP-Servern in deinem Netzwerk, sodass du ihre Ordner durchsuchen, Audio und Video streamen und Dateien herunterladen oder verwalten kannst, wenn der Server es erlaubt. Alles bleibt in deinem lokalen Netzwerk und beruhrt nie das Internet.
 {{% /details %}}
 
 {{% details title="Ist Everdisk kostenlos?" closed="true" %}}
-Ja. Everdisk ist ein kostenloser Download und Sie können Ihr Gerät in ein drahtloses Laufwerk verwandeln, Ihre Dateien auf vier Arten teilen, sich mit anderen Servern verbinden und den integrierten Dateimanager kostenlos nutzen.<br><br>
+Ja. Everdisk ist ein kostenloser Download und du kannst dein Gerat in ein drahtloses Laufwerk verwandeln, deine Dateien auf vier Wegen teilen, dich mit anderen Servern verbinden und den integrierten Dateimanager nutzen - alles kostenlos.<br><br>
 
-Es gibt einen optionalen einmaligen <strong>Premium-Lifetime</strong>-Kauf - eine einzelne Zahlung ohne Abonnement - der unbegrenzte geteilte Ordner und gespeicherte Verbindungen, Foto- &amp; Videokonvertierung, benutzerdefinierte Ports, automatischen Start der Freigabe und Geräteanpassung freischaltet. Er ist an Ihre Apple ID gebunden, sodass Sie mit Käufe wiederherstellen ihn auf Ihren anderen Geräten freischalten können. Die Preise können je nach Land oder Region variieren.
+Es gibt einen optionalen einmaligen <strong>Premium-Lifetime</strong>-Kauf - eine einmalige Zahlung ohne Abo - der unbegrenzte geteilte Ordner und gespeicherte Verbindungen, Foto- &amp; Videokonvertierung, individuelle Ports, automatisches Starten des Teilens und Gerate-Anpassung freischaltet. Er ist an deine Apple ID gebunden, sodass du mit Kaufe wiederherstellen ihn auf deinen anderen Geraten freischalten kannst. Die Preise konnen je nach Land oder Region abweichen.
 {{% /details %}}
 
 {{% details title="Wie verbinde ich mich von meinem Computer aus?" closed="true" %}}
-Everdisk lässt Ihr Gerät über WebDAV als normales Netzlaufwerk erscheinen.<br><br>
+Everdisk lasst dein Gerat uber WebDAV als normales Netzlaufwerk erscheinen.<br><br>
 
-- Auf einem <strong>Mac</strong> öffnen Sie den Finder, wählen <em>Gehe zu → Mit Server verbinden</em> und geben die in der App angezeigte WebDAV-Adresse ein.<br>
-- Unter <strong>Windows</strong> verbinden Sie ein Netzlaufwerk mit derselben WebDAV-Adresse.<br>
-- Unter <strong>Linux</strong> verbinden Sie sich mit der WebDAV-Adresse über Ihren Dateimanager.<br><br>
+- Auf einem <strong>Mac</strong> offne den Finder, wahle <em>Gehe zu → Mit Server verbinden</em> und gib die im App angezeigte WebDAV-Adresse ein.<br>
+- Unter <strong>Windows</strong> verbinde ein Netzlaufwerk mit derselben WebDAV-Adresse.<br>
+- Unter <strong>Linux</strong> verbinde dich mit der WebDAV-Adresse aus deinem Dateimanager.<br><br>
 
-Sobald die Verbindung hergestellt ist, können Sie in beide Richtungen per Drag-and-drop arbeiten: Kopieren Sie Dateien von Ihrem Computer auf Ihr Gerät oder holen Sie sie zurück. Sie können auch den HTTP-Link in jedem Webbrowser öffnen, wenn Sie kein Laufwerk einbinden möchten.
+Sobald du verbunden bist, kannst du in beide Richtungen ziehen: kopiere Dateien vom Computer auf dein Gerat oder hole sie zuruck. Du kannst auch den HTTP-Link in jedem Webbrowser offnen, wenn du kein Laufwerk einbinden mochtest.
 {{% /details %}}
 
 {{% details title="Wie streame ich auf meinen TV?" closed="true" %}}
-Stellen Sie sicher, dass sich Ihr TV oder Medienplayer und Ihr Gerät im selben Wi-Fi-Netzwerk befinden, und tippen Sie dann in Everdisk auf Start, wobei Ihre Fotos, Videos oder Musik geteilt werden.<br><br>
+Stelle sicher, dass dein TV oder Medienplayer und dein Gerat im selben Wi-Fi-Netzwerk sind, und tippe dann in Everdisk auf Start, wobei deine Fotos, Videos oder Musik geteilt sind.<br><br>
 
-Ihr Gerät erscheint von selbst in der Liste der Medienserver auf dem TV, komplett mit Vorschaubildern. Öffnen Sie es auf dem TV und genießen Sie Ihre Bibliothek auf dem großen Bildschirm - keine Kabel und keine zusätzlichen Apps erforderlich.
+Dein Gerat erscheint von selbst in der Liste der Medienserver auf dem TV, komplett mit Vorschau-Miniaturbildern. Offne es auf dem TV und geniesse deine Bibliothek auf dem grossen Bildschirm - keine Kabel und keine zusatzlichen Apps notig.
 {{% /details %}}
 
-{{% details title="Wie öffne ich meine Dateien in einem Webbrowser?" closed="true" %}}
-Tippen Sie auf Start und Everdisk gibt Ihnen eine einfache Webadresse für den HTTP-Server.<br><br>
+{{% details title="Wie offne ich meine Dateien in einem Webbrowser?" closed="true" %}}
+Tippe auf Start und Everdisk gibt dir eine einfache Webadresse fur den HTTP-Server.<br><br>
 
-Teilen Sie diesen Link mit jedem im selben Netzwerk. Er öffnet ihn in einem beliebigen Webbrowser, um Ihre Dateien in einem übersichtlichen Raster oder als Liste zu durchsuchen, Fotos in einer Vollbildgalerie anzusehen, Musik im integrierten Player abzuspielen und alles herunterzuladen. Es muss nichts auf seiner Seite installiert werden, was es zur schnellsten Möglichkeit macht, Dateien an ein anderes Telefon oder einen anderen Computer zu übergeben.
+Teile diesen Link mit jedem im selben Netzwerk. Er offnet ihn in jedem Webbrowser, um deine Dateien in einem aufgeraumten Raster oder als Liste zu durchsuchen, Fotos in einer Vollbildgalerie anzusehen, Musik im integrierten Player abzuspielen und alles herunterzuladen. Es muss nichts auf seiner Seite installiert werden, was es zum schnellsten Weg macht, Dateien an ein anderes Handy oder einen Computer zu ubergeben.
 {{% /details %}}
 
 {{% details title="Funktioniert Everdisk ohne Wi-Fi?" closed="true" %}}
-Ja. Verbinden Sie Ihr Gerät mit demselben USB-Kabel mit einem Mac, das Sie zum Laden verwenden, und Dateien werden direkt durch das Kabel übertragen, schneller als über Wi-Fi.<br><br>
+Ja. Verbinde dein Gerat mit demselben USB-Kabel mit einem Mac, mit dem du es auch ladst, und Dateien wandern direkt durch das Kabel, schneller als uber Wi-Fi.<br><br>
 
-Da es nicht von einem drahtlosen Netzwerk abhängt, funktioniert dies weiterhin im Flugzeug, im Hotel oder in jedem gesperrten oder öffentlichen Netzwerk, in dem die Wi-Fi-Freigabe blockiert ist.
+Da es nicht von einem drahtlosen Netzwerk abhangt, funktioniert das weiter im Flugzeug, im Hotel oder in jedem gesperrten oder offentlichen Netzwerk, in dem das Teilen uber Wi-Fi blockiert ist.
 {{% /details %}}
 
 {{% details title="Womit kann ich mich mit Everdisk verbinden?" closed="true" %}}
-Everdisk ist auch ein Client für andere Geräte in Ihrem Netzwerk. Sie können <strong>DLNA</strong>-, <strong>WebDAV</strong>-, <strong>FTP</strong>- und <strong>SFTP</strong>-Server finden und sich mit ihnen verbinden, einschließlich NAS-Geräte und Medienserver.<br><br>
+Everdisk ist auch ein Client fur andere Gerate in deinem Netzwerk. Du kannst <strong>DLNA</strong>-, <strong>WebDAV</strong>-, <strong>FTP</strong>- und <strong>SFTP</strong>-Server finden und dich mit ihnen verbinden, darunter NAS-Gerate und Medienserver.<br><br>
 
-Sobald die Verbindung hergestellt ist, können Sie deren Ordner durchsuchen, Audio und Video streamen, Dateien herunterladen und Ordner erstellen, hochladen, umbenennen, verschieben oder löschen, wenn der Server es erlaubt.
+Sobald du verbunden bist, kannst du ihre Ordner durchsuchen, Audio und Video streamen, Dateien herunterladen und Ordner erstellen, hochladen, umbenennen, verschieben oder loschen, wenn der Server es erlaubt.
 {{% /details %}}
 
 {{% details title="Kann ich Dokumente scannen und mit PDFs arbeiten?" closed="true" %}}
-Ja. Everdisk kann Papierdokumente mit Ihrer Kamera scannen - es findet die Ränder automatisch, richtet jede Seite gerade aus und speichert sie als sauberes mehrseitiges PDF direkt auf Ihrem Gerät.<br><br>
+Ja. Everdisk kann Papierdokumente mit deiner Kamera scannen - es erkennt die Kanten automatisch, richtet jede Seite gerade und speichert sie als sauberes mehrseitiges PDF direkt auf deinem Gerat.<br><br>
 
-Sie können auch ein PDF (oder Foto) öffnen und es direkt im integrierten Viewer <strong>markieren</strong> - zeichnen, hervorheben, Text und Formen hinzufügen und mit dem Finger eine Signatur hinzufügen - und Ihre Änderungen werden zurück in die Datei gespeichert.<br><br>
+Du kannst auch ein PDF (oder Foto) offnen und es direkt im integrierten Viewer <strong>bearbeiten</strong> - zeichnen, hervorheben, Text und Formen hinzufugen und mit dem Finger signieren - und deine Anderungen werden in der Datei gespeichert.<br><br>
 
-Darüber hinaus enthält Everdisk ein vollständiges Set an <strong>PDF-Werkzeugen</strong>, die über das <strong>•••</strong>-Menü eines PDFs im Dateibrowser geöffnet werden:<br>
-• <strong>Komprimieren</strong> - verkleinert ein PDF, mit einer geschätzten Größe, die vor dem Speichern angezeigt wird.<br>
-• <strong>Texterkennung (OCR)</strong> - verwandelt einen Scan in ein durchsuchbares PDF oder exportiert den Text in eine .txt-Datei.<br>
-• <strong>Passwort</strong> - legt das zum Öffnen des PDFs benötigte Passwort fest, ändert oder entfernt es.<br>
-• <strong>Berechtigungen</strong> - überprüft, was das PDF erlaubt (Drucken, Kopieren und mehr).<br>
-• <strong>Metadaten bearbeiten</strong> - ändert oder löscht den Titel, Autor, Schlüsselwörter und andere Dokumentinformationen.<br>
-• <strong>Reduzieren</strong> - brennt Anmerkungen und Formulareinträge in die Seite ein, sodass sie nicht mehr geändert werden können.
+Daruber hinaus bietet Everdisk ein komplettes Set an <strong>PDF-Tools</strong>, die du uber das <strong>•••</strong>-Menu eines PDFs im Dateibrowser offnest:<br>
+• <strong>Komprimieren</strong> - verkleinere ein PDF, mit einer geschatzten Grosse, bevor du speicherst.<br>
+• <strong>Texterkennung (OCR)</strong> - wandle einen Scan in ein durchsuchbares PDF um oder exportiere den Text in eine .txt-Datei.<br>
+• <strong>Passwort</strong> - setze, andere oder entferne das Passwort, das zum Offnen des PDFs benotigt wird.<br>
+• <strong>Berechtigungen</strong> - prufe, was das PDF erlaubt (Drucken, Kopieren und mehr).<br>
+• <strong>Metadaten bearbeiten</strong> - andere oder losche Titel, Autor, Schlagworter und andere Dokumentinformationen.<br>
+• <strong>Reduzieren</strong> - brenne Anmerkungen und Formulareintrage in die Seite, sodass sie nicht mehr geandert werden konnen.
 {{% /details %}}
 
 {{% details title="Ist Everdisk privat und sicher?" closed="true" %}}
-Alles bleibt in Ihrem lokalen Netzwerk und berührt niemals das Internet, sodass Ihre Dateien niemals Ihr Zuhause verlassen. Es gibt keine Konten und keine Cloud dazwischen.<br><br>
+Alles bleibt in deinem lokalen Netzwerk und beruhrt nie das Internet, sodass deine Dateien nie dein Zuhause verlassen. Es gibt keine Konten und keine Cloud dazwischen.<br><br>
 
-Sie können den Zugriff mit einem Login und Passwort schützen, sodass verbundene Geräte dieselben Angaben eingeben müssen, bevor sie Ihre Dateien sehen können, und Sie können jedes Gerät in Ihrem Netzwerk mit einem einzigen Tippen blockieren. Für die beste Privatsphäre aktivieren Sie die Freigabe nur, während Sie mit einem Wi-Fi-Netzwerk verbunden sind, das Sie kennen und dem Sie vertrauen.
+Du kannst den Zugriff mit einem Login und Passwort schutzen, sodass verbundene Gerate dieselben Angaben eingeben mussen, bevor sie deine Dateien sehen konnen, und du kannst jedes Gerat in deinem Netzwerk mit einem einzigen Tipp sperren. Fur den besten Datenschutz aktiviere das Teilen nur, wahrend du mit einem Wi-Fi-Netzwerk verbunden bist, das du kennst und dem du vertraust.
 {{% /details %}}
 
-{{% details title="Was kann ich mit dem Dateimanager tun?" closed="true" %}}
-Everdisk enthält einen vollständigen Dateimanager für alles auf Ihrem Gerät.<br><br>
+{{% details title="Was kann ich mit dem Dateimanager machen?" closed="true" %}}
+Everdisk bietet einen vollstandigen Dateimanager fur alles auf deinem Gerat.<br><br>
 
-Sie können als Liste oder Raster durchsuchen, Ordner erstellen, umbenennen, verschieben, kopieren, packen und entpacken sowie löschen. Sie können auch Ordner von überall auf Ihrem Gerät verbinden und direkt in der App mit ihnen arbeiten, dann über das Netzwerk zusammen mit allem anderen teilen.
+Du kannst in Listen- oder Rasteransicht durchsuchen, Ordner erstellen, umbenennen, verschieben, kopieren, zippen und entpacken sowie loschen. Du kannst auch Ordner von uberall auf deinem Gerat einbinden und direkt in der App mit ihnen arbeiten, dann teile sie zusammen mit allem anderen uber das Netzwerk.
 {{% /details %}}
 
 {{% details title="Kann ich Musik in der App abspielen?" closed="true" %}}
-Ja. Tippen Sie auf eine beliebige Audiodatei und sie wird im Mini-Player abgespielt, der unten am Bildschirm bleibt, während Sie weiter durchsuchen.<br><br>
+Ja. Tippe auf eine beliebige Audiodatei und sie spielt im Mini-Player, der unten am Bildschirm bleibt, wahrend du weiter durchsuchst.<br><br>
 
-Der Mini-Player hat eine vollständige Warteschlange mit Zufallswiedergabe und Wiederholung (aus, alle oder einer) sowie Sperrbildschirm- und Medientasten-Steuerung, die den echten Titel, Interpreten und das Album anzeigt. Tippen oder wischen Sie nach oben, um den vollständigen Player zu öffnen, und wischen Sie nach unten, um ihn zu verkleinern, während das Audio weiterspielt. Wenn Sie einen Titel in einem Ordner antippen, wird der gesamte Ordner als Warteschlange abgespielt.<br><br>
+Der Mini-Player hat eine komplette Warteschlange mit Zufallswiedergabe und Wiederholung (aus, alle oder einer) sowie Sperrbildschirm- und Medientasten-Steuerungen, die den echten Titel, Interpreten und das Album anzeigen. Tippe oder wische nach oben, um den vollen Player zu offnen, und wische nach unten, um ihn zu verkleinern, wahrend das Audio weiterspielt. Wenn du einen Titel in einem Ordner antippst, wird der ganze Ordner als Warteschlange abgespielt.<br><br>
 
-Audio wird von Ihren lokalen Dateien, verbundenen Ordnern, Ihrer Musikbibliothek und Servern abgespielt, mit denen Sie sich im Tab Geräte verbinden.
+Audio spielt von deinen lokalen Dateien, verbundenen Ordnern, deiner Musikbibliothek und Servern, mit denen du dich im Tab Verfügbare Geräte verbindest.
 {{% /details %}}
 
-{{% details title="Kann ich Videos in der App ansehen?" closed="true" %}}
-Ja. Tippen Sie auf ein Video, um es im Vollbild abzuspielen. Everdisk verwendet den integrierten System-Videoplayer, sodass Sie die vertrauten Steuerungen erhalten, einschließlich AirPlay, Picture in Picture und Wiedergabegeschwindigkeit.<br><br>
+{{% details title="Kann ich in der App Videos ansehen?" closed="true" %}}
+Ja. Tippe auf ein Video, um es im Vollbild abzuspielen. Everdisk nutzt den integrierten System-Videoplayer, sodass du die vertrauten Steuerungen bekommst, darunter AirPlay, Picture in Picture und Wiedergabegeschwindigkeit.<br><br>
 
-Videos werden von Ihren lokalen Dateien und verbundenen Ordnern abgespielt oder direkt von einem Gerät gestreamt, mit dem Sie sich im Tab Geräte verbinden, sodass Sie nicht zuerst die gesamte Datei herunterladen müssen.
+Videos spielen von deinen lokalen Dateien und verbundenen Ordnern oder werden direkt von einem Gerat gestreamt, mit dem du dich im Tab Verfügbare Geräte verbindest, sodass du nicht erst die ganze Datei herunterladen musst.
 {{% /details %}}
 
 {{% details title="Wie sehe ich meine Fotos an?" closed="true" %}}
-Öffnen Sie den Tab Dokumente und wechseln Sie in den Fotos-Modus, um Ihre Fotos und Videos zu durchsuchen. Tippen Sie auf ein Foto, um es im Vollbild zu öffnen, wo Sie zoomen, zwischen Fotos wischen und teilen können.<br><br>
+Offne den Tab Dokumente und wechsle in den Fotos-Modus, um deine Fotos und Videos zu durchsuchen. Tippe auf ein Foto, um es im Vollbild zu offnen, wo du zoomen, zwischen Fotos wischen und teilen kannst.<br><br>
 
-Ihre Fotos zeigen außerdem echte Vorschaubilder auf einem TV über DLNA und in einem Webbrowser, wo sie sich in einer Vollbildgalerie mit Wischen, Zoomen durch Zusammenziehen und einer Diashow öffnen. Fotos und Videos mit Standortdaten zeigen eine Karte mit einer Markierung auf ihrem Info-Bildschirm.
+Deine Fotos zeigen auch echte Vorschau-Miniaturbilder auf einem TV uber DLNA und in einem Webbrowser, wo sie sich in einer Vollbildgalerie mit Wischen, Pinch-to-Zoom und einer Diashow offnen. Fotos und Videos mit Standortdaten zeigen auf ihrem Info-Bildschirm eine Karte mit einer Markierung.
 {{% /details %}}
 
 </div>
@@ -459,26 +459,26 @@ Ihre Fotos zeigen außerdem echte Vorschaubilder auf einem TV über DLNA und in 
 
 <div class="hx:w-full hx:mx-auto hx:flex hx:flex-col hx:items-center hx:text-center">
   {{< hextra/info-paragraph border="false" >}}
-  Dieser Leitfaden hilft Ihnen, das Beste aus Everdisk auf Ihrem iPhone und iPad herauszuholen. Erfahren Sie, wie Sie Ihr Gerät in ein drahtloses Laufwerk verwandeln, einen TV, Computer oder Browser verbinden, Ihre eigenen Server erreichen, Ihre Dateien verwalten und abspielen und alles in Ihrem lokalen Netzwerk privat halten.
+  Dieses Handbuch hilft dir, das Beste aus Everdisk auf deinem iPhone und iPad herauszuholen. Lerne, wie du dein Gerat in ein drahtloses Laufwerk verwandelst, einen TV, Computer oder Browser verbindest, deine eigenen Server erreichst, deine Dateien verwaltest und abspielst und alles in deinem lokalen Netzwerk privat haltst.
   {{< /hextra/info-paragraph >}}
 </div>
 
 {{< cards >}}
-  {{< feature-card icon="play" title="Freigeben" subtitle="Tippen Sie auf Start, wählen Sie, was Sie teilen möchten, und betreiben Sie alle vier Server gleichzeitig." link="/docs/guide/everdisk/everdisk-guide-sharing" >}}
+  {{< feature-card icon="play" title="Teilen" subtitle="Tippe auf Start, wahle aus, was du teilen willst, und betreibe alle vier Server gleichzeitig." link="/docs/guide/everdisk/everdisk-guide-sharing" >}}
 
-  {{< feature-card icon="desktop-computer" title="Ihre Geräte verbinden" subtitle="Wie ein TV, ein Mac oder PC, ein Browser, ein anderes Telefon oder ein USB-Kabel sich mit Ihren Dateien verbindet." link="/docs/guide/everdisk/everdisk-guide-connect" >}}
+  {{< feature-card icon="desktop-computer" title="Deine Gerate verbinden" subtitle="Wie sich ein TV, ein Mac oder PC, ein Browser, ein anderes Handy oder ein USB-Kabel mit deinen Dateien verbindet." link="/docs/guide/everdisk/everdisk-guide-connect" >}}
 
-  {{< feature-card icon="server" title="Mit Servern verbinden" subtitle="Erreichen Sie DLNA-, WebDAV-, FTP- und SFTP-Server und NAS-Laufwerke, um zu durchsuchen, zu streamen und herunterzuladen." link="/docs/guide/everdisk/everdisk-guide-devices" >}}
+  {{< feature-card icon="server" title="Mit Servern verbinden" subtitle="Erreiche DLNA-, WebDAV-, FTP- und SFTP-Server und NAS-Laufwerke, um zu durchsuchen, zu streamen und herunterzuladen." link="/docs/guide/everdisk/everdisk-guide-devices" >}}
 
-  {{< feature-card icon="folder" title="Dateien & Dokumente" subtitle="Durchsuchen, organisieren, packen und entpacken, externe Ordner verbinden und Dokumente als PDF scannen." link="/docs/guide/everdisk/everdisk-guide-files" >}}
+  {{< feature-card icon="folder" title="Dateien & Dokumente" subtitle="Durchsuchen, organisieren, zippen und entpacken, externe Ordner einbinden und Dokumente als PDF scannen." link="/docs/guide/everdisk/everdisk-guide-files" >}}
 
-  {{< feature-card icon="music-note" title="Fotos, Musik & Video" subtitle="Teilen Sie Ihre gesamte Bibliothek, spielen Sie Audio im Mini-Player ab und sehen Sie Video im Vollbild." link="/docs/guide/everdisk/everdisk-guide-media" >}}
+  {{< feature-card icon="music-note" title="Fotos, Musik & Video" subtitle="Teile deine komplette Bibliothek, spiele Audio im Mini-Player ab und schau Video im Vollbild." link="/docs/guide/everdisk/everdisk-guide-media" >}}
 
-  {{< feature-card icon="lock-closed" title="Zugriff & Privatsphäre" subtitle="Fügen Sie ein Passwort hinzu, steuern Sie die Bearbeitung, blockieren Sie Geräte und halten Sie alles in Ihrem Netzwerk." link="/docs/guide/everdisk/everdisk-guide-access" >}}
+  {{< feature-card icon="lock-closed" title="Zugriff & Datenschutz" subtitle="Fuge ein Passwort hinzu, steuere das Bearbeiten, sperre Gerate und halte alles in deinem Netzwerk." link="/docs/guide/everdisk/everdisk-guide-access" >}}
 
-  {{< feature-card icon="adjustments" title="Einstellungen" subtitle="Jede Einstellung erklärt, vom Geräteprofil und den Ports bis zu Qualität und Übertragungen." link="/docs/guide/everdisk/everdisk-guide-settings" >}}
+  {{< feature-card icon="adjustments" title="Einstellungen" subtitle="Jede Einstellung erklart, vom Gerateprofil und den Ports bis zu Qualitat und Ubertragungen." link="/docs/guide/everdisk/everdisk-guide-settings" >}}
 
-  {{< feature-card icon="question-mark-circle" title="FAQ" subtitle="Schnelle Antworten auf häufige Fragen und Szenarien aus der Praxis." link="/docs/faq/everdisk" >}}
+  {{< feature-card icon="question-mark-circle" title="FAQ" subtitle="Schnelle Antworten auf haufige Fragen und Szenarien aus der Praxis." link="/docs/faq/everdisk" >}}
 
 {{< /cards >}}
 

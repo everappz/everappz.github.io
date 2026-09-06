@@ -1,13 +1,13 @@
 ---
 date: '2026-08-20T12:00:00+00:00'
-title: 'Everdisk - 讓您的 iPhone 和 iPad 變身無線硬碟'
+title: 'Everdisk - 把你的 iPhone 和 iPad 變成無線隨身碟'
 layout: hextra-home
-description: "讓您的 iPhone 或 iPad 變身無線硬碟，透過 DLNA、HTTP、WebDAV 和 FTP 與任何設備分享檔案、照片、影片和音樂。無需雲端。"
-keywords: ["Everdisk", "iPhone 無線硬碟", "iPhone 分享檔案", "iOS WebDAV 伺服器", "iPhone DLNA 伺服器", "iOS FTP 伺服器", "從 iPhone 串流到電視", "iPhone 網路磁碟機", "iPhone USB 檔案傳輸", "iOS 檔案管理器", "掃描文件成 PDF", "透過網路分享照片"]
-tags: ["Everdisk", "無線硬碟", "檔案分享", "DLNA", "WebDAV", "FTP", "SFTP", "網路磁碟機", "iPhone 應用程式", "iPad 應用程式", "Mac 應用程式", "檔案管理器", "媒體伺服器"]
+description: "把你的 iPhone 或 iPad 變成無線隨身碟，透過 DLNA、HTTP、WebDAV 和 FTP 和任何裝置分享檔案、相片、影片和音樂。不需要雲端。"
+keywords: ["Everdisk", "iPhone 無線隨身碟", "iPhone 分享檔案", "iOS WebDAV 伺服器", "iPhone DLNA 伺服器", "iOS FTP 伺服器", "從 iPhone 串流到電視", "iPhone 網路磁碟", "iPhone USB 檔案傳輸", "iOS 檔案管理", "掃描文件成 PDF", "透過網路分享相片"]
+tags: ["Everdisk", "無線隨身碟", "檔案分享", "DLNA", "WebDAV", "FTP", "SFTP", "網路磁碟", "iPhone 應用程式", "iPad 應用程式", "Mac 應用程式", "檔案管理", "媒體伺服器"]
 appStoreUrl: "https://apps.apple.com/app/apple-store/id6751851132?pt=95781850&ct=everappzcom&mt=8"
 appStoreId: "6751851132"
-features: "透過 Wi-Fi 和 USB 使用的無線硬碟, 同時運行四個伺服器（DLNA、HTTP、WebDAV、FTP）, 透過 DLNA 串流到智慧電視, 在任何網頁瀏覽器中開啟, 在 Finder/Windows/Linux 中掛載為網路磁碟機, 連接到 DLNA/WebDAV/FTP/SFTP 伺服器, 內建具備壓縮/解壓縮功能的檔案管理器, 掃描文件成 PDF, 為 PDF 和照片標註與簽名, PDF 工具（壓縮、OCR 文字辨識、密碼保護、權限、中繼資料、平面化）, 照片圖庫和媒體播放器, 分享完整的照片和音樂資料庫, 密碼保護和設備封鎖"
+features: "透過 Wi-Fi 和 USB 的無線隨身碟, 同時開四種伺服器 (DLNA、HTTP、WebDAV、FTP), 透過 DLNA 串流到智慧電視, 在任何瀏覽器開啟, 在 Finder/Windows/Linux 掛載成網路磁碟, 連接 DLNA/WebDAV/FTP/SFTP 伺服器, 內建檔案管理，可壓縮與解壓縮, 掃描文件成 PDF, 為 PDF 和相片加註與簽名, PDF 工具 (壓縮、OCR 文字辨識、密碼保護、權限、中繼資料、扁平化), 相片圖庫與媒體播放器, 分享完整相片與音樂庫, 密碼保護與封鎖裝置"
 screenshots:
   - "https://everappz.com/products/everdisk/screenshots/browser_access.png"
   - "https://everappz.com/products/everdisk/screenshots/connect_to_servers.png"
@@ -16,7 +16,7 @@ screenshots:
 ---
 
 {{% sr-only %}}
-Everdisk 是由 Everappz 開發的 iPhone 和 iPad 無線硬碟應用程式。它將您的設備變成一個中樞，與本地網路上的任何設備分享檔案、照片、影片和音樂，無需帳戶、無需雲端，也無需在另一端安裝額外的應用程式。此應用程式同時運行四個伺服器 - DLNA 供智慧電視和媒體播放器使用、HTTP 供任何網頁瀏覽器使用、WebDAV 供 Finder、Windows 和 Linux 使用，以及 FTP 供檔案應用程式和進階使用者使用 - 因此每個設備都能以自己偏好的方式連接。您可以透過 DLNA 將照片、影片和音樂直接串流到智慧電視，並帶有預覽縮圖；分享一個能在任何瀏覽器中開啟的簡單連結來瀏覽和下載您的檔案；或將您的設備掛載為網路磁碟機並雙向拖曳檔案。當沒有 Wi-Fi 時，您可以用 USB 線連接 Mac，以比 Wi-Fi 更快的速度移動檔案，即使在飛機上或封閉網路中也能使用。Everdisk 也能連接到您網路上的 DLNA、WebDAV、FTP 和 SFTP 伺服器，以瀏覽、串流和下載它們的檔案。內建的檔案管理器讓您以列表或格狀瀏覽、建立資料夾、重新命名、移動、複製、壓縮和解壓縮，以及刪除。您可以將紙本文件掃描成乾淨的 PDF，開啟 PDF 或照片並用內建編輯器進行標註 - 繪圖、螢光標記、加入文字和簽名，變更會儲存回檔案 - 並使用一整套 PDF 工具來壓縮檔案、將文字辨識（OCR）成可搜尋的 PDF、新增或移除開啟密碼、檢視權限、編輯文件中繼資料，以及平面化註解和表單欄位。您也可以在迷你播放器中播放音訊並全螢幕觀看影片，並以原始品質或更相容的格式透過網路分享您的整個照片和音樂資料庫。一切都保留在您的本地網路上，永遠不會接觸網際網路，您可以用登入帳號和密碼保護存取，並一鍵封鎖任何設備。Everdisk 在 App Store 上可免費下載，並提供選購的一次性 Premium 終身購買。
+Everdisk 是 Everappz 開發的 iPhone 和 iPad 無線隨身碟 App。它把你的裝置變成一個中樞，和區域網路上的任何裝置分享檔案、相片、影片和音樂，不需要帳號、不需要雲端，對方也不必額外安裝任何 App。這個 App 同時執行四種伺服器 - 給智慧電視和媒體播放器的 DLNA、給任何瀏覽器的 HTTP、給 Finder、Windows 和 Linux 的 WebDAV，以及給檔案 App 和進階使用者的 FTP - 讓每台裝置都能用自己習慣的方式連上。你可以透過 DLNA 把相片、影片和音樂直接串流到智慧電視，還會附上預覽縮圖；分享一個簡單的連結，在任何瀏覽器打開就能瀏覽和下載你的檔案；或是把裝置掛載成網路磁碟，雙向拖放檔案。沒有 Wi-Fi 時，你可以用 USB 傳輸線連接 Mac，傳檔比 Wi-Fi 更快，即使在飛機上或在受限的網路裡也沒問題。Everdisk 也能連上你網路裡的 DLNA、WebDAV、FTP 和 SFTP 伺服器，瀏覽、串流和下載它們的檔案。內建的檔案管理可以用清單或格狀瀏覽，建立資料夾、重新命名、移動、複製、壓縮、解壓縮和刪除。你可以把紙本文件掃描成乾淨的 PDF，打開 PDF 或相片用內建編輯器加註 - 繪圖、螢光標記、加文字和簽名，變更會存回原檔 - 還能用一整套 PDF 工具來壓縮檔案、辨識文字 (OCR) 成可搜尋的 PDF、加上或移除開啟密碼、檢視權限、編輯文件中繼資料，以及扁平化註解和表單欄位。你也可以在迷你播放器裡播放音訊、全螢幕觀看影片，並把整個相片和音樂庫以原始品質或更相容的格式分享到網路上。所有內容都留在你的區域網路裡，永遠不會接觸網際網路，你還可以用帳號和密碼保護存取權限，一鍵封鎖任何裝置。Everdisk 在 App Store 免費下載，並提供選購的一次性 Premium 終身版。
 {{% /sr-only %}}
 
 <!-- <body class="hx:bg-transparent" style="background: radial-gradient(ellipse at 50% 80%, rgba(59,130,246,0.05), hsla(0,0%,100%,0));"> -->
@@ -35,7 +35,7 @@ Everdisk 是由 Everappz 開發的 iPhone 和 iPad 無線硬碟應用程式。�
 <div class="hx:mt-4 hx:mr-4">
 {{< hextra/hero-badge link="https://apps.apple.com/app/apple-store/id6751851132?pt=95781850&ct=everappzcom&mt=8" >}}
   <div class="hx:w-2 hx:h-2 hx:rounded-full hx:bg-primary-400"></div>
-  <span>App Store 全新登場</span>
+  <span>App Store 新上架</span>
     {{< icon name="arrow-circle-right" attributes="height=14" >}}
 {{< /hextra/hero-badge >}}
 </div>
@@ -51,16 +51,16 @@ Everdisk 是由 Everappz 開發的 iPhone 和 iPad 無線硬碟應用程式。�
 
 <div class="hx:mb-6">
 {{< hextra/hero-centered-subtitle >}}
-讓您的 iPhone 或 iPad 變身無線硬碟&nbsp;<br class="hx:sm:block hx:hidden" />與<strong>您網路上的任何設備</strong>分享檔案
+把你的 iPhone 或 iPad 變成無線隨身碟，&nbsp;<br class="hx:sm:block hx:hidden" />和<strong>網路上的任何裝置</strong>分享檔案
 {{< /hextra/hero-centered-subtitle >}}
 </div>
 
 <div class="hx:mb-6">
 {{< hextra/hero-paragraph >}}
-• 輕觸「開始」即可四種方式同時分享：DLNA、HTTP、WebDAV 和 FTP  
-• 透過 DLNA 將照片、影片和音樂直接串流到智慧電視  
-• 在 Finder、Windows 或 Linux 中將您的設備掛載為網路磁碟機  
-• 沒有 Wi-Fi？透過 USB 線移動檔案，比無線更快  
+• 點一下開始，四種方式同時分享：DLNA、HTTP、WebDAV 和 FTP  
+• 透過 DLNA 把相片、影片和音樂直接串流到智慧電視  
+• 在 Finder、Windows 或 Linux 把裝置掛載成網路磁碟  
+• 沒有 Wi-Fi？用 USB 傳輸線傳檔，比無線更快  
 {{< /hextra/hero-paragraph >}}
 </div>
 
@@ -82,43 +82,43 @@ Everdisk 是由 Everappz 開發的 iPhone 和 iPad 無線硬碟應用程式。�
 {{< hextra/feature-grid >}}
 
   {{< hextra/feature-card
-    title="您的設備變身硬碟"
-    subtitle="輕觸「開始」，您的 iPhone 或 iPad 就變成無線硬碟。Everdisk 同時運行四個伺服器 - DLNA、HTTP、WebDAV 和 FTP - 讓智慧電視、電腦、網頁瀏覽器和檔案應用程式各自以偏好的方式連接。無需帳戶、無需雲端，也無需在另一端安裝任何額外程式。"
+    title="你的裝置變成隨身碟"
+    subtitle="點一下開始，你的 iPhone 或 iPad 就變成無線隨身碟。Everdisk 同時執行四種伺服器 - DLNA、HTTP、WebDAV 和 FTP - 讓智慧電視、電腦、瀏覽器和檔案 App 各自用習慣的方式連上。不需要帳號、不需要雲端，對方也不必額外安裝任何東西。"
     icon="server"
     style="background: radial-gradient(ellipse at 50% 80%, rgba(34,197,94,0.15), hsla(0,0%,100%,0));"
   >}}
 
   {{< hextra/feature-card
-    title="在您的電視上觀看"
-    subtitle="透過 DLNA 將照片、影片和音樂直接串流到智慧電視和媒體播放器。您的資料庫會自動出現在電視上，並帶有預覽縮圖，讓您無需任何線材或額外應用程式即可在大螢幕上盡情享受。"
+    title="在電視上觀看"
+    subtitle="透過 DLNA 把相片、影片和音樂直接串流到智慧電視和媒體播放器。你的內容庫會自動出現在電視上，還有預覽縮圖，讓你不用任何線材或額外 App 就能在大螢幕上盡情享受。"
     icon="desktop-computer"
     style="background: radial-gradient(ellipse at 50% 80%, rgba(234,88,12,0.15), hsla(0,0%,100%,0));"
   >}}
 
   {{< hextra/feature-card
-    title="在任何網頁瀏覽器中開啟"
-    subtitle="分享一個簡單的連結，對方只需在瀏覽器中開啟即可。他們可以在乾淨的格狀或列表中瀏覽您的檔案、在全螢幕圖庫中檢視照片、在內建播放器中播放音樂，並下載任何內容 - 他們端無需安裝任何東西。"
+    title="在任何瀏覽器開啟"
+    subtitle="分享一個簡單的連結，對方只要在瀏覽器打開就好。他們可以用乾淨的格狀或清單瀏覽你的檔案、在全螢幕圖庫裡看相片、用內建播放器聽音樂，並下載任何東西 - 完全不必安裝任何程式。"
     icon="globe-alt"
     style="background: radial-gradient(ellipse at 50% 80%, rgba(251,191,36,0.15), hsla(0,0%,100%,0));"
   >}}
 
   {{< hextra/feature-card
-    title="作為網路磁碟機使用"
-    subtitle="從 Mac 上的 Finder、從 Windows 或從 Linux 透過 WebDAV 連接，您的設備就會像一般網路磁碟一樣出現。雙向拖放：將檔案從電腦複製到您的設備，或將它們取回。"
+    title="當成網路磁碟使用"
+    subtitle="從 Mac 的 Finder、Windows 或 Linux 透過 WebDAV 連上，你的裝置就會像一般網路磁碟一樣出現。雙向拖放：把電腦上的檔案複製到裝置，或是再拉回來。"
     icon="folder"
     style="background: radial-gradient(ellipse at 50% 80%, rgba(59,130,246,0.15), hsla(0,0%,100%,0));"
   >}}
 
   {{< hextra/feature-card
-    title="沒有 Wi-Fi？用線連接"
-    subtitle="用您平常充電用的同一條 USB 線將設備連接到 Mac。檔案直接透過線材傳輸，比 Wi-Fi 更快，即使在飛機上、飯店裡或任何封鎖 Wi-Fi 的封閉網路中也能持續運作。"
+    title="沒有 Wi-Fi？用傳輸線"
+    subtitle="用你平常充電的那條 USB 傳輸線把裝置接上 Mac。檔案直接透過傳輸線傳送，比 Wi-Fi 更快，在飛機上、飯店裡，或任何封鎖 Wi-Fi 的受限網路都能持續運作。"
     icon="lightning-bolt"
     style="background: radial-gradient(ellipse at 50% 80%, rgba(192,38,211,0.15), hsla(0,0%,100%,0));"
   >}}
 
   {{< hextra/feature-card
-    title="連接到其他設備"
-    subtitle="尋找並連接到您網路上的 DLNA、WebDAV、FTP 和 SFTP 伺服器。瀏覽它們的資料夾、串流音訊和影片、下載檔案，並在伺服器允許時建立資料夾、上傳、重新命名、移動或刪除。"
+    title="連接其他裝置"
+    subtitle="尋找並連接你網路上的 DLNA、WebDAV、FTP 和 SFTP 伺服器。瀏覽它們的資料夾、串流音訊和影片、下載檔案，在伺服器允許時還能建立資料夾、上傳、重新命名、移動或刪除。"
     icon="cloud-download"
     style="background: radial-gradient(ellipse at 50% 80%, rgba(6,182,212,0.15), hsla(0,0%,100%,0));"
   >}}
@@ -130,7 +130,7 @@ Everdisk 是由 Everappz 開發的 iPhone 和 iPad 無線硬碟應用程式。�
 <div class="hx:mt-6"></div>
 
 {{< hextra/section-headline >}}
-  簡潔優雅的設計
+  簡潔俐落的設計
 {{< /hextra/section-headline >}}
 
 <div class="hx:mt-6"></div>
@@ -145,52 +145,52 @@ Everdisk 是由 Everappz 開發的 iPhone 和 iPad 無線硬碟應用程式。�
     title="瀏覽器存取" 
     method="Fill"
     options="1030x400 q82 webp Center"
-    subtitle="分享一個連結，讓任何人從任何網頁瀏覽器瀏覽、預覽和下載您的檔案。另一端無需安裝任何東西。" 
+    subtitle="分享一個連結，讓任何人在任何瀏覽器瀏覽、預覽和下載你的檔案。對方完全不必安裝任何東西。" 
   >}}
 
   {{< feature-card 
     icon="server"
     image="/products/everdisk/screenshots/connect_to_servers.png"  
-    title="連接到伺服器" 
+    title="連接伺服器" 
     method="Fill"
     options="1030x400 q82 webp Center"
-    subtitle="探索並連接到您網路上的 DLNA、WebDAV、FTP 和 SFTP 伺服器，以瀏覽、串流和下載它們的檔案。" 
+    subtitle="探索並連接你網路上的 DLNA、WebDAV、FTP 和 SFTP 伺服器，瀏覽、串流和下載它們的檔案。" 
   >}}
 
   {{< feature-card 
     icon="folder"
     image="/products/everdisk/screenshots/file_manager.png"  
-    title="檔案管理器" 
+    title="檔案管理" 
     method="Fill"
     options="1030x400 q82 webp Center"
-    subtitle="管理設備上的一切：以列表或格狀瀏覽、建立資料夾、重新命名、移動、複製、壓縮和解壓縮，以及刪除。" 
+    subtitle="管理裝置上的一切：用清單或格狀瀏覽，建立資料夾、重新命名、移動、複製、壓縮、解壓縮和刪除。" 
   >}}
 
   {{< feature-card 
     icon="play"
     image="/products/everdisk/screenshots/play_in_the_app.png"  
-    title="在應用程式內播放" 
+    title="在 App 內播放" 
     method="Fill"
     options="1030x400 q82 webp Center"
-    subtitle="聆聽您的本地曲目或從連接的設備串流，具備迷你播放器佇列和全螢幕影片播放。" 
+    subtitle="聽你本機的曲目，或從連接的裝置串流，還有迷你播放器佇列和全螢幕影片播放。" 
   >}}
 
   {{< feature-card 
     icon="music-note"
     image="/products/everdisk/screenshots/share_your_library.png"  
-    title="分享您的資料庫" 
+    title="分享你的內容庫" 
     method="Fill"
     options="1030x400 q82 webp Center"
-    subtitle="開啟您完整的照片和音樂資料庫，每張專輯和每首曲目都會以原始品質透過網路提供。" 
+    subtitle="開啟完整的相片和音樂庫，每張專輯和每首曲目都能以原始品質透過網路取得。" 
   >}} 
 
   {{< feature-card 
     icon="photograph"
     image="/products/everdisk/screenshots/photo_gallery.png"  
-    title="照片圖庫" 
+    title="相片圖庫" 
     method="Fill"
     options="1030x400 q82 webp Center"
-    subtitle="在電視和瀏覽器中呈現真實的預覽縮圖，加上支援滑動和縮放的全螢幕照片圖庫 - 而非單調的圖示。" 
+    subtitle="在電視和瀏覽器上都有真實的預覽縮圖，還有可滑動、可縮放的全螢幕相片圖庫 - 不是單調的圖示。" 
   >}}
 
 {{< /cards >}}
@@ -200,7 +200,7 @@ Everdisk 是由 Everappz 開發的 iPhone 和 iPad 無線硬碟應用程式。�
 <div class="hx:mt-6"></div>
 
 {{< hextra/section-headline >}}
-  完整功能集
+  完整功能一覽
 {{< /hextra/section-headline >}}
 
 <div class="hx:mt-6"></div>
@@ -209,47 +209,47 @@ Everdisk 是由 Everappz 開發的 iPhone 和 iPad 無線硬碟應用程式。�
 
 {{< cards >}}
 
-  {{< feature-card title="同時四個伺服器" subtitle="輕觸「開始」即可四種方式同時分享您的檔案：DLNA 供電視和媒體播放器使用、HTTP 供任何網頁瀏覽器使用、WebDAV 供 Finder、Windows 和 Linux 使用，以及 FTP 供檔案應用程式和進階使用者使用。" icon="wifi" >}}
+  {{< feature-card title="同時開四種伺服器" subtitle="點一下開始，四種方式同時分享你的檔案：給電視和媒體播放器的 DLNA、給任何瀏覽器的 HTTP、給 Finder、Windows 和 Linux 的 WebDAV，以及給檔案 App 和進階使用者的 FTP。" icon="wifi" >}}
 
-  {{< feature-card title="串流到智慧電視" subtitle="透過 DLNA 將照片、影片和音樂直接傳送到智慧電視和媒體播放器。您的資料庫會自動出現在電視上，並帶有預覽縮圖，為大螢幕做好準備。" icon="desktop-computer" >}}
+  {{< feature-card title="串流到智慧電視" subtitle="透過 DLNA 把相片、影片和音樂直接送到智慧電視和媒體播放器。你的內容庫會自動出現在電視上，還有預覽縮圖，隨時準備好上大螢幕。" icon="desktop-computer" >}}
 
-  {{< feature-card title="網頁瀏覽器分享" subtitle="分享一個連結，對方只需在瀏覽器中開啟即可以格狀或列表瀏覽您的檔案、全螢幕檢視照片、播放音樂，並下載任何內容 - 無需安裝。" icon="globe-alt" >}}
+  {{< feature-card title="瀏覽器分享" subtitle="分享一個連結，對方只要在瀏覽器打開，就能用格狀或清單瀏覽你的檔案、全螢幕看相片、聽音樂，並下載任何東西 - 完全不必安裝。" icon="globe-alt" >}}
 
-  {{< feature-card title="WebDAV 網路磁碟機" subtitle="從 Mac 上的 Finder、從 Windows 或從 Linux 透過 WebDAV 連接，您的設備就會像一般網路磁碟一樣顯示。雙向拖放檔案。" icon="folder" >}}
+  {{< feature-card title="WebDAV 網路磁碟" subtitle="從 Mac 的 Finder、Windows 或 Linux 透過 WebDAV 連上，你的裝置就會像一般網路磁碟一樣出現。檔案可以雙向拖放。" icon="folder" >}}
 
-  {{< feature-card title="透過 USB 傳輸" subtitle="用您的充電線插入 Mac，檔案直接透過線材移動，比 Wi-Fi 更快。即使在飛機上、飯店裡或任何封閉網路中也能持續運作。" icon="lightning-bolt" >}}
+  {{< feature-card title="透過 USB 傳輸" subtitle="用充電線接上 Mac，檔案直接透過傳輸線傳送，比 Wi-Fi 更快。在飛機上、飯店裡，或任何受限網路都能持續運作。" icon="lightning-bolt" >}}
 
-  {{< feature-card title="連接到 DLNA、WebDAV、FTP 和 SFTP" subtitle="尋找並連接到您網路上的伺服器、瀏覽它們的資料夾、串流音訊和影片、下載檔案，並在允許時建立、上傳、重新命名、移動或刪除。" icon="server" >}}
+  {{< feature-card title="連接 DLNA、WebDAV、FTP 和 SFTP" subtitle="尋找並連接你網路上的伺服器，瀏覽它們的資料夾、串流音訊和影片、下載檔案，在允許時還能建立、上傳、重新命名、移動或刪除。" icon="server" >}}
 
-  {{< feature-card title="內建檔案管理器" subtitle="一款管理設備上一切內容的完整檔案管理器。以列表或格狀瀏覽、建立資料夾、重新命名、移動、複製和刪除，並從設備上任何位置連接資料夾。" icon="view-grid" >}}
+  {{< feature-card title="內建檔案管理" subtitle="完整管理裝置上的一切。用清單或格狀瀏覽，建立資料夾、重新命名、移動、複製和刪除，還能連接裝置上任何位置的資料夾。" icon="view-grid" >}}
 
-  {{< feature-card title="壓縮與解壓縮" subtitle="將檔案和資料夾壓縮成單一封存檔以分享或儲存，並直接在您的設備上解壓縮收到的封存檔，無需任何額外工具。" icon="document-duplicate" >}}
+  {{< feature-card title="壓縮與解壓縮" subtitle="把檔案和資料夾壓縮成單一封存檔以便分享或儲存，收到的封存檔也能直接在裝置上解壓縮，不需要任何額外工具。" icon="document-duplicate" >}}
 
-  {{< feature-card title="掃描文件成 PDF" subtitle="用您的相機掃描紙本文件。Everdisk 會自動找到邊緣、拉正每一頁，並將它們儲存為乾淨的 PDF，隨時可分享或儲存。" icon="document-text" >}}
+  {{< feature-card title="掃描文件成 PDF" subtitle="用相機掃描紙本文件。Everdisk 會自動找到邊緣、把每一頁拉正，並存成乾淨的 PDF，隨時可分享或儲存。" icon="document-text" >}}
 
-  {{< feature-card title="標註與簽名 PDF" subtitle="開啟 PDF 或照片並直接在應用程式內標註：繪圖、螢光標記、加入文字和形狀，並用手指簽名。您的變更會直接儲存回檔案。" icon="pencil-alt" >}}
+  {{< feature-card title="為 PDF 加註與簽名" subtitle="打開 PDF 或相片，直接在 App 裡加註：繪圖、螢光標記、加文字和圖形，並用手指簽名。變更會直接存回原檔。" icon="pencil-alt" >}}
 
-  {{< feature-card title="PDF 工具" subtitle="一套完整的 PDF 工具直接內建：壓縮檔案、將文字辨識（OCR）成可搜尋的 PDF、設定或移除開啟密碼、檢視權限、編輯文件中繼資料，以及平面化註解和表單欄位。" icon="document-report" >}}
+  {{< feature-card title="PDF 工具" subtitle="內建一整套 PDF 工具：壓縮檔案、辨識文字 (OCR) 成可搜尋的 PDF、設定或移除開啟密碼、檢視權限、編輯文件中繼資料，以及扁平化註解和表單欄位。" icon="document-report" >}}
 
-  {{< feature-card title="照片圖庫" subtitle="在電視和瀏覽器中呈現真實的預覽縮圖，加上支援滑動和縮放的全螢幕照片圖庫，讓您始終看到圖片而非單調的圖示。" icon="photograph" >}}
+  {{< feature-card title="相片圖庫" subtitle="在電視和瀏覽器上都有真實的預覽縮圖，還有可滑動、可縮放的全螢幕相片圖庫，讓你永遠看到圖片本身，而不是單調的圖示。" icon="photograph" >}}
 
-  {{< feature-card title="音訊迷你播放器" subtitle="在具備佇列、隨機播放、重複播放和鎖定螢幕控制的迷你播放器中享受音訊。您的照片和音樂資料庫就在應用程式中直接播放。" icon="music-note" >}}
+  {{< feature-card title="音訊迷你播放器" subtitle="在迷你播放器裡享受音訊，附有佇列、隨機、重複和鎖定畫面控制。你的相片和音樂庫都能直接在 App 裡播放。" icon="music-note" >}}
 
-  {{< feature-card title="全螢幕影片" subtitle="全螢幕觀看您的影片，從本地檔案播放或直接從連接的設備串流，並帶有簡單、熟悉的播放控制。" icon="film" >}}
+  {{< feature-card title="全螢幕影片" subtitle="全螢幕觀看你的影片，可從本機檔案播放，或直接從連接的裝置串流，操作簡單又熟悉。" icon="film" >}}
 
-  {{< feature-card title="分享您的整個資料庫" subtitle="開啟您完整的照片和音樂資料庫，每張專輯和每首曲目都會以原始品質透過網路提供，或轉換以達到相容性。" icon="share" >}}
+  {{< feature-card title="分享你的完整內容庫" subtitle="開啟完整的相片和音樂庫，每張專輯和每首曲目都能以原始品質透過網路取得，或轉換成相容的格式。" icon="share" >}}
 
-  {{< feature-card title="回傳檔案" subtitle="它是雙向運作的。從任何電腦將照片和文件直接上傳到您的設備，也可以加入整個資料夾，全部透過同一個連線。" icon="upload" >}}
+  {{< feature-card title="把檔案傳回來" subtitle="雙向都行得通。從任何電腦把相片和文件直接上傳到你的裝置，也能整個資料夾一起加入，全都透過同一個連線完成。" icon="upload" >}}
 
-  {{< feature-card title="密碼保護" subtitle="用登入帳號和密碼保護您分享的內容免於未經授權的存取，讓連接的設備必須輸入相同的資訊才能看到您的檔案。" icon="lock-closed" >}}
+  {{< feature-card title="密碼保護" subtitle="用帳號和密碼保護你分享的內容不被未經授權存取，連接的裝置必須輸入相同的資訊才能看到你的檔案。" icon="lock-closed" >}}
 
-  {{< feature-card title="封鎖任何設備" subtitle="掌控誰能連接。一鍵封鎖您網路上的任何設備，讓它再也無法存取您正在分享的內容。" icon="shield-check" >}}
+  {{< feature-card title="封鎖任何裝置" subtitle="掌控誰能連上。一鍵封鎖你網路上的任何裝置，讓它再也無法存取你正在分享的內容。" icon="shield-check" >}}
 
-  {{< feature-card title="私密且僅限本地" subtitle="一切都保留在您的本地網路上，永遠不會接觸網際網路。您的檔案永遠不會離開家門，中間沒有帳戶也沒有雲端。" icon="eye" >}}
+  {{< feature-card title="私密且僅限本機" subtitle="所有內容都留在你的區域網路裡，永遠不會接觸網際網路。你的檔案不會離開家門，中間沒有帳號、也沒有雲端。" icon="eye" >}}
 
-  {{< feature-card title="原始或轉換" subtitle="將您的照片和影片保留為原始品質，或在電視、瀏覽器或其他設備需要時將它們轉換為更相容的格式。" icon="switch-horizontal" >}}
+  {{< feature-card title="原始或轉換格式" subtitle="讓相片和影片維持原始品質，或在電視、瀏覽器或其他裝置需要時，轉換成更相容的格式。" icon="switch-horizontal" >}}
 
-  {{< feature-card title="連接外部資料夾" subtitle="從您設備上的任何位置連接資料夾並直接在應用程式中使用它們，然後與其他所有內容一起透過網路分享。" icon="collection" >}}
+  {{< feature-card title="連接外部資料夾" subtitle="連接裝置上任何位置的資料夾，直接在 App 裡處理，再和其他內容一起分享到網路上。" icon="collection" >}}
 
 {{< /cards >}}
 
@@ -272,7 +272,7 @@ Everdisk 是由 Everappz 開發的 iPhone 和 iPad 無線硬碟應用程式。�
 -->
 
 {{< hextra/section-headline >}}
-  定價方案
+  價格方案
 {{< /hextra/section-headline >}}
 
 <div class="hx:mt-6"></div>
@@ -283,17 +283,17 @@ Everdisk 是由 Everappz 開發的 iPhone 和 iPad 無線硬碟應用程式。�
   {{< hextra/feature-card
     title="免費"
     class="pricing-card pricing-free"
-    subtitle=`<span class='pricing-details'>• 將您的設備變成無線硬碟<br />
-• 同時四個伺服器：DLNA、HTTP、WebDAV、FTP<br />
+    subtitle=`<span class='pricing-details'>• 把你的裝置變成無線隨身碟<br />
+• 同時開四種伺服器：DLNA、HTTP、WebDAV、FTP<br />
 • 串流到智慧電視、瀏覽器和電腦<br />
-• 掛載為網路磁碟機並透過 USB 傳輸<br />
-• 分享您的整個照片和音樂資料庫<br />
-• 連接到 DLNA、WebDAV、FTP 和 SFTP 伺服器<br />
-• 具備壓縮和解壓縮功能的檔案管理器<br />
-• 掃描文件成 PDF 和完整的 PDF 工具<br />
-• 標註與簽名 PDF 和照片<br />
-• 密碼保護和設備封鎖<br />
-• 最多 5 個分享資料夾和 10 個已儲存的連線</span><br /><br />
+• 掛載成網路磁碟並透過 USB 傳輸<br />
+• 分享你的完整相片和音樂庫<br />
+• 連接 DLNA、WebDAV、FTP 和 SFTP 伺服器<br />
+• 可壓縮與解壓縮的檔案管理<br />
+• 掃描文件成 PDF 與完整 PDF 工具<br />
+• 為 PDF 和相片加註與簽名<br />
+• 密碼保護與封鎖裝置<br />
+• 最多 5 個共享資料夾和 10 個已儲存連線</span><br /><br />
 <span class='hx:block hx:mt-2 hx:text-center'>
   <span class='pricing-btn hx:inline-block hx:rounded-full hx:border hx:border-gray-200 hx:dark:border-neutral-800 hx:px-3 hx:py-1 hx:transition-all hx:duration-200'>
     <strong>免費</strong>
@@ -302,16 +302,16 @@ Everdisk 是由 Everappz 開發的 iPhone 和 iPad 無線硬碟應用程式。�
   >}}
 
   {{< hextra/feature-card
-    title="Premium 終身"
+    title="Premium 終身版"
     class="pricing-card pricing-lifetime"
-    subtitle=`<span class='pricing-details'>• 包含免費版的所有功能<br />
-• 無限分享資料夾（超過 5 個）<br />
-• 無限已儲存的連線（超過 10 個）<br />
-• 照片與影片轉換為相容格式或更小尺寸<br />
+    subtitle=`<span class='pricing-details'>• 免費版的所有功能<br />
+• 無限共享資料夾 (超過 5 個)<br />
+• 無限已儲存連線 (超過 10 個)<br />
+• 把相片和影片轉換成相容格式或更小尺寸<br />
 • 自訂 HTTP、WebDAV 和 FTP 連接埠<br />
-• 開啟應用程式時自動開始分享<br />
-• 設備自訂：名稱、頭像圖示、漸層或照片<br />
-• 一次性購買 - 只收費一次，永不續訂</span><br /><br />
+• 打開 App 時自動開始分享<br />
+• 裝置個人化：名稱、頭像圖示、漸層或相片<br />
+• 一次性購買 - 只付一次，永不續訂</span><br /><br />
 <span class='hx:block hx:mt-2 hx:text-center'>
   <span class='pricing-btn hx:inline-block hx:rounded-full hx:border hx:border-gray-200 hx:dark:border-neutral-800 hx:px-3 hx:py-1 hx:transition-all hx:duration-200'>
     <strong>$9.99</strong>/終身
@@ -327,7 +327,7 @@ Everdisk 是由 Everappz 開發的 iPhone 和 iPad 無線硬碟應用程式。�
 
 <div class="hx:w-full hx:mx-auto hx:flex hx:flex-col hx:items-center">
   {{< hextra/info-paragraph border="true" >}}
-   <strong>定價</strong>：價格以美國的美元顯示。最終價格可能因您的地區而異。  
+   <strong>價格</strong>：此處價格以美國的美元顯示。最終價格可能因你所在地區而有所不同。  
   {{< /hextra/info-paragraph >}}
 </div>
 
@@ -341,108 +341,108 @@ Everdisk 是由 Everappz 開發的 iPhone 和 iPad 無線硬碟應用程式。�
 
 <div class="hx:w-full">
 {{% details title="什麼是 Everdisk？" closed="true" %}}
-Everdisk 將您的 iPhone 或 iPad 變成無線硬碟，也是一個連接您其他設備的中樞。<br>
-您可以與您網路上的任何設備分享您的檔案、照片、影片和音樂，從其他伺服器瀏覽和串流，並直接在您的設備上管理一切。<br>
-無需帳戶、無需雲端，也無需在另一端安裝額外的應用程式 - 您只需輕觸「開始」就準備就緒。<br><br>
+Everdisk 把你的 iPhone 或 iPad 變成無線隨身碟，同時也是一個連接你其他裝置的中樞。<br>
+你可以和網路上的任何裝置分享檔案、相片、影片和音樂，瀏覽並串流其他伺服器的內容，還能直接在裝置上管理一切。<br>
+不需要帳號、不需要雲端，對方也不必額外安裝任何 App - 只要點一下開始就準備好了。<br><br>
 
-此應用程式同時運行四個伺服器，因此每個設備都能以偏好的方式連接：智慧電視透過 DLNA、電腦和網頁瀏覽器透過 HTTP、Finder、Windows 和 Linux 透過 WebDAV，以及檔案應用程式透過 FTP。
+這個 App 同時執行四種伺服器，讓每台裝置都能用自己習慣的方式連上：智慧電視用 DLNA、電腦和瀏覽器用 HTTP、Finder、Windows 和 Linux 用 WebDAV，檔案 App 則用 FTP。
 {{% /details %}}
 
 {{% details title="Everdisk 如何運作？" closed="true" %}}
-當您輕觸「開始」，Everdisk 便開始分享您選擇的內容，並同時運行四個伺服器，讓不同設備能以偏好的方式連接。<br><br>
+當你點一下開始，Everdisk 就會開始分享你選取的內容，並同時執行四種伺服器，讓不同裝置用各自偏好的方式連上。<br><br>
 
-- <strong>DLNA</strong> 讓智慧電視和媒體播放器自動找到您的照片、影片和音樂，並用預覽縮圖顯示它們。<br>
-- <strong>HTTP</strong> 給任何人一個簡單的連結，他們可以在網頁瀏覽器中開啟以瀏覽、預覽和下載您的檔案，無需安裝任何東西。<br>
-- <strong>WebDAV</strong> 讓您的設備在 Finder、Windows 或 Linux 中顯示為一般網路磁碟機，讓您可以雙向拖曳檔案。<br>
-- <strong>FTP</strong> 適用於檔案應用程式和進階使用者。<br><br>
+- <strong>DLNA</strong> 讓智慧電視和媒體播放器自動找到你的相片、影片和音樂，並以預覽縮圖顯示。<br>
+- <strong>HTTP</strong> 提供任何人一個簡單的連結，在瀏覽器打開就能瀏覽、預覽和下載你的檔案，完全不必安裝。<br>
+- <strong>WebDAV</strong> 讓你的裝置在 Finder、Windows 或 Linux 裡像一般網路磁碟一樣出現，你可以雙向拖放檔案。<br>
+- <strong>FTP</strong> 適用於檔案 App 和進階使用者。<br><br>
 
-Everdisk 也能反向連接，連到您網路上的 DLNA、WebDAV、FTP 和 SFTP 伺服器，讓您可以瀏覽它們的資料夾、串流音訊和影片，並在伺服器允許時下載或管理檔案。一切都保留在您的本地網路上，永遠不會接觸網際網路。
+Everdisk 也能反過來連接你網路上的 DLNA、WebDAV、FTP 和 SFTP 伺服器，讓你瀏覽它們的資料夾、串流音訊和影片，並在伺服器允許時下載或管理檔案。所有內容都留在你的區域網路裡，永遠不會接觸網際網路。
 {{% /details %}}
 
 {{% details title="Everdisk 是免費的嗎？" closed="true" %}}
-是的。Everdisk 可免費下載，您可以免費將您的設備變成無線硬碟、四種方式分享您的檔案、連接到其他伺服器，並使用內建的檔案管理器。<br><br>
+是的。Everdisk 免費下載，你可以免費把裝置變成無線隨身碟、用四種方式分享檔案、連接其他伺服器，並使用內建檔案管理。<br><br>
 
-另有選購的一次性 <strong>Premium 終身</strong> 購買 - 單次付款、無訂閱 - 可解鎖無限分享資料夾和已儲存的連線、照片 &amp; 影片轉換、自訂連接埠、自動開始分享，以及設備自訂。它綁定於您的 Apple ID，因此您可以使用「回復購買項目」在您的其他設備上解鎖。價格可能因您的國家或地區而異。
+另有選購的一次性 <strong>Premium 終身版</strong> - 單次付款、沒有訂閱 - 可解鎖無限共享資料夾和已儲存連線、相片與影片轉換、自訂連接埠、自動開始分享，以及裝置個人化。它綁定你的 Apple ID，所以你可以用「恢復購買項目」在你其他的裝置上解鎖。價格可能因你所在的國家或地區而有所不同。
 {{% /details %}}
 
-{{% details title="我要如何從我的電腦連接？" closed="true" %}}
-Everdisk 透過 WebDAV 讓您的設備顯示為一般網路磁碟機。<br><br>
+{{% details title="我要怎麼從電腦連上？" closed="true" %}}
+Everdisk 會透過 WebDAV 讓你的裝置像一般網路磁碟一樣出現。<br><br>
 
-- 在 <strong>Mac</strong> 上，開啟 Finder，選擇 <em>前往 → 連接伺服器</em>，並輸入應用程式中顯示的 WebDAV 位址。<br>
-- 在 <strong>Windows</strong> 上，用相同的 WebDAV 位址對應網路磁碟機。<br>
-- 在 <strong>Linux</strong> 上，從您的檔案管理器連接到 WebDAV 位址。<br><br>
+- 在 <strong>Mac</strong> 上，打開 Finder，選擇 <em>前往 → 連接伺服器</em>，然後輸入 App 裡顯示的 WebDAV 位址。<br>
+- 在 <strong>Windows</strong> 上，用同一個 WebDAV 位址對應一個網路磁碟。<br>
+- 在 <strong>Linux</strong> 上，從你的檔案管理程式連接該 WebDAV 位址。<br><br>
 
-連接後，您可以雙向拖放：將檔案從電腦複製到您的設備，或將它們取回。如果您不想掛載磁碟機，也可以在任何網頁瀏覽器中開啟 HTTP 連結。
+連上之後，你就能雙向拖放：把電腦上的檔案複製到裝置，或是再拉回來。如果你不想掛載磁碟，也可以在任何瀏覽器打開 HTTP 連結。
 {{% /details %}}
 
-{{% details title="我要如何串流到我的電視？" closed="true" %}}
-確認您的電視或媒體播放器與您的設備位於同一個 Wi-Fi 網路，然後在 Everdisk 中輕觸「開始」並分享您的照片、影片或音樂。<br><br>
+{{% details title="我要怎麼串流到電視？" closed="true" %}}
+確認你的電視或媒體播放器和你的裝置在同一個 Wi-Fi 網路，然後在 Everdisk 裡點一下開始並分享你的相片、影片或音樂。<br><br>
 
-您的設備會自動出現在電視上的媒體伺服器清單中，並帶有預覽縮圖。在電視上開啟它，即可在大螢幕上享受您的資料庫 - 無需線材，也無需額外應用程式。
+你的裝置會自動出現在電視的媒體伺服器清單裡，還附有預覽縮圖。在電視上打開它，就能在大螢幕上享受你的內容庫 - 不需要任何線材，也不需要額外 App。
 {{% /details %}}
 
-{{% details title="我要如何在網頁瀏覽器中開啟我的檔案？" closed="true" %}}
-輕觸「開始」，Everdisk 會給您一個 HTTP 伺服器的簡單網址。<br><br>
+{{% details title="我要怎麼在瀏覽器開啟我的檔案？" closed="true" %}}
+點一下開始，Everdisk 就會給你一個簡單的 HTTP 伺服器網址。<br><br>
 
-與同一網路上的任何人分享該連結。他們在任何網頁瀏覽器中開啟它，即可以乾淨的格狀或列表瀏覽您的檔案、在全螢幕圖庫中檢視照片、在內建播放器中播放音樂，並下載任何內容。他們端無需安裝任何東西，這使它成為將檔案交給另一支手機或電腦最快的方式。
+把那個連結分享給同一個網路上的任何人。他們在任何瀏覽器打開，就能用乾淨的格狀或清單瀏覽你的檔案、在全螢幕圖庫裡看相片、用內建播放器聽音樂，並下載任何東西。對方完全不必安裝任何程式，這是把檔案交給另一支手機或電腦最快的方式。
 {{% /details %}}
 
-{{% details title="Everdisk 沒有 Wi-Fi 也能運作嗎？" closed="true" %}}
-是的。用您平常充電用的同一條 USB 線將您的設備連接到 Mac，檔案便直接透過線材移動，比 Wi-Fi 更快。<br><br>
+{{% details title="Everdisk 沒有 Wi-Fi 也能用嗎？" closed="true" %}}
+可以。用你平常充電的那條 USB 傳輸線把裝置接上 Mac，檔案就會直接透過傳輸線傳送，比 Wi-Fi 更快。<br><br>
 
-由於它不依賴無線網路，即使在飛機上、飯店裡或任何封鎖 Wi-Fi 分享的封閉或公共網路中也能持續運作。
+因為它不依賴無線網路，所以在飛機上、飯店裡，或任何封鎖 Wi-Fi 分享的受限或公共網路都能持續運作。
 {{% /details %}}
 
-{{% details title="我可以用 Everdisk 連接到什麼？" closed="true" %}}
-Everdisk 也是您網路上其他設備的用戶端。您可以尋找並連接到 <strong>DLNA</strong>、<strong>WebDAV</strong>、<strong>FTP</strong> 和 <strong>SFTP</strong> 伺服器，包括 NAS 設備和媒體伺服器。<br><br>
+{{% details title="Everdisk 可以連接什麼？" closed="true" %}}
+Everdisk 也是你網路上其他裝置的用戶端。你可以尋找並連接 <strong>DLNA</strong>、<strong>WebDAV</strong>、<strong>FTP</strong> 和 <strong>SFTP</strong> 伺服器，包括 NAS 裝置和媒體伺服器。<br><br>
 
-連接後，您可以瀏覽它們的資料夾、串流音訊和影片、下載檔案，並在伺服器允許時建立資料夾、上傳、重新命名、移動或刪除。
+連上之後，你就能瀏覽它們的資料夾、串流音訊和影片、下載檔案，並在伺服器允許時建立資料夾、上傳、重新命名、移動或刪除。
 {{% /details %}}
 
 {{% details title="我可以掃描文件並處理 PDF 嗎？" closed="true" %}}
-可以。Everdisk 可以用您的相機掃描紙本文件 - 它會自動找到邊緣、拉正每一頁，並直接在您的設備上將它們儲存為乾淨的多頁 PDF。<br><br>
+可以。Everdisk 能用相機掃描紙本文件 - 它會自動找到邊緣、把每一頁拉正，並直接在裝置上存成乾淨的多頁 PDF。<br><br>
 
-您也可以開啟 PDF（或照片）並直接在內建檢視器中<strong>標註</strong> - 繪圖、螢光標記、加入文字和形狀，並用手指加入簽名 - 您的變更會儲存回檔案。<br><br>
+你也可以打開 PDF (或相片)，直接在內建檢視器裡<strong>加註</strong> - 繪圖、螢光標記、加文字和圖形，並用手指加上簽名 - 你的變更會存回原檔。<br><br>
 
-除此之外，Everdisk 還包含一整套<strong>PDF 工具</strong>，可從檔案瀏覽器中 PDF 的 <strong>•••</strong> 選單開啟：<br>
-• <strong>壓縮</strong> - 縮小 PDF，並在您儲存前顯示預估大小。<br>
-• <strong>文字辨識（OCR）</strong> - 將掃描件轉成可搜尋的 PDF，或將文字匯出為 .txt 檔案。<br>
+除此之外，Everdisk 還內建一整套 <strong>PDF 工具</strong>，可從檔案瀏覽器裡 PDF 的 <strong>•••</strong> 選單開啟：<br>
+• <strong>壓縮</strong> - 縮小 PDF，儲存前會先顯示預估大小。<br>
+• <strong>文字辨識 (OCR)</strong> - 把掃描檔變成可搜尋的 PDF，或把文字匯出成 .txt 檔。<br>
 • <strong>密碼</strong> - 設定、變更或移除開啟 PDF 所需的密碼。<br>
-• <strong>權限</strong> - 檢視 PDF 允許的操作（列印、複製等）。<br>
+• <strong>權限</strong> - 檢視 PDF 允許哪些操作 (列印、複製等)。<br>
 • <strong>編輯中繼資料</strong> - 變更或清除標題、作者、關鍵字和其他文件資訊。<br>
-• <strong>平面化</strong> - 將註解和表單項目烙印到頁面上，使它們無法被更改。
+• <strong>扁平化</strong> - 把註解和表單內容烙印到頁面上，讓它們無法再被更改。
 {{% /details %}}
 
-{{% details title="Everdisk 私密且安全嗎？" closed="true" %}}
-一切都保留在您的本地網路上，永遠不會接觸網際網路，因此您的檔案永遠不會離開家門。中間沒有帳戶也沒有雲端。<br><br>
+{{% details title="Everdisk 私密又安全嗎？" closed="true" %}}
+所有內容都留在你的區域網路裡，永遠不會接觸網際網路，所以你的檔案不會離開家門。中間沒有帳號、也沒有雲端。<br><br>
 
-您可以用登入帳號和密碼保護存取，讓連接的設備必須輸入相同的資訊才能看到您的檔案，並且您可以一鍵封鎖您網路上的任何設備。為了獲得最佳隱私，請僅在您連接到已知且信任的 Wi-Fi 網路時開啟分享。
+你可以用帳號和密碼保護存取權限，連接的裝置必須輸入相同的資訊才能看到你的檔案，而且你可以一鍵封鎖你網路上的任何裝置。為了獲得最佳隱私，請只在連上你認識且信任的 Wi-Fi 網路時才開啟分享。
 {{% /details %}}
 
-{{% details title="我可以用檔案管理器做什麼？" closed="true" %}}
-Everdisk 包含一款管理設備上一切內容的完整檔案管理器。<br><br>
+{{% details title="檔案管理可以做什麼？" closed="true" %}}
+Everdisk 內建完整的檔案管理，涵蓋你裝置上的一切。<br><br>
 
-您可以以列表或格狀瀏覽、建立資料夾、重新命名、移動、複製、壓縮和解壓縮，以及刪除。您也可以從您設備上任何位置連接資料夾並直接在應用程式中使用它們，然後與其他所有內容一起透過網路分享。
+你可以用清單或格狀瀏覽，建立資料夾、重新命名、移動、複製、壓縮、解壓縮和刪除。你也能連接裝置上任何位置的資料夾，直接在 App 裡處理，再和其他內容一起分享到網路上。
 {{% /details %}}
 
-{{% details title="我可以在應用程式內播放音樂嗎？" closed="true" %}}
-可以。輕觸任何音訊檔案，它便會在螢幕底部保持顯示的迷你播放器中播放，同時您可以繼續瀏覽。<br><br>
+{{% details title="我可以在 App 裡播放音樂嗎？" closed="true" %}}
+可以。點一下任何音訊檔，它就會在迷你播放器裡播放，播放器會停在畫面底部，讓你可以繼續瀏覽。<br><br>
 
-迷你播放器具備完整的佇列，含隨機播放和重複播放（關閉、全部或單首），以及顯示真實標題、演出者和專輯的鎖定螢幕和媒體鍵控制。輕觸或向上滑動以開啟完整播放器，向下滑動可在音訊繼續播放時縮小它。輕觸資料夾中的一首曲目會將整個資料夾作為佇列播放。<br><br>
+迷你播放器有完整的佇列，附隨機和重複 (關閉、全部或單曲)，還有鎖定畫面和媒體鍵控制，會顯示真實的標題、演出者和專輯。點一下或往上滑就能打開完整播放器，往下滑則可縮小它，而音訊會繼續播放。點一下資料夾裡的某一首，就會把整個資料夾當成佇列播放。<br><br>
 
-音訊可從您的本地檔案、連接的資料夾、您的音樂資料庫，以及您在「設備」分頁上連接的伺服器播放。
+音訊可以從你的本機檔案、連接的資料夾、你的音樂庫，以及你在「可用設備」分頁連接的伺服器播放。
 {{% /details %}}
 
-{{% details title="我可以在應用程式內觀看影片嗎？" closed="true" %}}
-可以。輕觸影片以全螢幕播放它。Everdisk 使用內建的系統影片播放器，因此您會獲得熟悉的控制，包括 AirPlay、Picture in Picture 和播放速度。<br><br>
+{{% details title="我可以在 App 裡看影片嗎？" closed="true" %}}
+可以。點一下影片就能全螢幕播放。Everdisk 使用內建的系統影片播放器，所以你會有熟悉的控制項，包括 AirPlay、Picture in Picture 和播放速度。<br><br>
 
-影片可從您的本地檔案和連接的資料夾播放，或直接從您在「設備」分頁上連接的設備串流，因此您不必先下載整個檔案。
+影片可以從你的本機檔案和連接的資料夾播放，或直接從你在「可用設備」分頁連接的裝置串流，這樣你就不用先下載整個檔案。
 {{% /details %}}
 
-{{% details title="我要如何檢視我的照片？" closed="true" %}}
-開啟「文件」分頁並切換到照片模式以瀏覽您的照片和影片。輕觸照片以全螢幕開啟它，您可以在其中縮放、在照片之間滑動，以及分享。<br><br>
+{{% details title="我要怎麼檢視我的相片？" closed="true" %}}
+打開「文件」分頁並切換到相片模式，就能瀏覽你的相片和影片。點一下相片就能全螢幕打開，你可以縮放、在相片之間滑動，並分享。<br><br>
 
-您的照片也會透過 DLNA 在電視上和在網頁瀏覽器中呈現真實的預覽縮圖，並在其中以支援滑動、雙指縮放和幻燈片的全螢幕圖庫開啟。含有位置資料的照片和影片會在其資訊畫面上顯示帶有圖釘的地圖。
+你的相片在透過 DLNA 連接的電視和瀏覽器上也會顯示真實的預覽縮圖，在瀏覽器裡會以全螢幕圖庫開啟，支援滑動、雙指縮放和幻燈片播放。含有位置資料的相片和影片，會在它們的資訊畫面上顯示一張帶有圖釘的地圖。
 {{% /details %}}
 
 </div>
@@ -459,26 +459,26 @@ Everdisk 包含一款管理設備上一切內容的完整檔案管理器。<br><
 
 <div class="hx:w-full hx:mx-auto hx:flex hx:flex-col hx:items-center hx:text-center">
   {{< hextra/info-paragraph border="false" >}}
-  本指南將幫助您充分發揮 Everdisk 在您的 iPhone 和 iPad 上的效用。學習如何將您的設備變成無線硬碟、連接電視、電腦或瀏覽器、存取您自己的伺服器、管理和播放您的檔案，以及讓一切在您的本地網路上保持私密。
+  這份指南會幫你把 iPhone 和 iPad 上的 Everdisk 發揮到極致。學會如何把裝置變成無線隨身碟、連接電視、電腦或瀏覽器、連上你自己的伺服器、管理和播放你的檔案，並讓一切都私密地留在你的區域網路裡。
   {{< /hextra/info-paragraph >}}
 </div>
 
 {{< cards >}}
-  {{< feature-card icon="play" title="分享" subtitle="輕觸「開始」、選擇要分享的內容，並同時運行全部四個伺服器。" link="/docs/guide/everdisk/everdisk-guide-sharing" >}}
+  {{< feature-card icon="play" title="分享" subtitle="點一下開始，選擇要分享什麼，並同時執行四種伺服器。" link="/docs/guide/everdisk/everdisk-guide-sharing" >}}
 
-  {{< feature-card icon="desktop-computer" title="連接您的設備" subtitle="電視、Mac 或 PC、瀏覽器、另一支手機或 USB 線如何連接到您的檔案。" link="/docs/guide/everdisk/everdisk-guide-connect" >}}
+  {{< feature-card icon="desktop-computer" title="連接你的裝置" subtitle="電視、Mac 或 PC、瀏覽器、另一支手機，或 USB 傳輸線如何連上你的檔案。" link="/docs/guide/everdisk/everdisk-guide-connect" >}}
 
-  {{< feature-card icon="server" title="連接到伺服器" subtitle="存取 DLNA、WebDAV、FTP 和 SFTP 伺服器及 NAS 磁碟以瀏覽、串流和下載。" link="/docs/guide/everdisk/everdisk-guide-devices" >}}
+  {{< feature-card icon="server" title="連接伺服器" subtitle="連上 DLNA、WebDAV、FTP 和 SFTP 伺服器與 NAS 磁碟，瀏覽、串流和下載。" link="/docs/guide/everdisk/everdisk-guide-devices" >}}
 
   {{< feature-card icon="folder" title="檔案與文件" subtitle="瀏覽、整理、壓縮和解壓縮、連接外部資料夾，並掃描文件成 PDF。" link="/docs/guide/everdisk/everdisk-guide-files" >}}
 
-  {{< feature-card icon="music-note" title="照片、音樂與影片" subtitle="分享您的整個資料庫、在迷你播放器中播放音訊，並全螢幕觀看影片。" link="/docs/guide/everdisk/everdisk-guide-media" >}}
+  {{< feature-card icon="music-note" title="相片、音樂與影片" subtitle="分享你的完整內容庫、在迷你播放器裡播放音訊，並全螢幕觀看影片。" link="/docs/guide/everdisk/everdisk-guide-media" >}}
 
-  {{< feature-card icon="lock-closed" title="存取與隱私" subtitle="加入密碼、控制編輯、封鎖設備，並讓一切保留在您的網路上。" link="/docs/guide/everdisk/everdisk-guide-access" >}}
+  {{< feature-card icon="lock-closed" title="存取與隱私" subtitle="加上密碼、控制編輯、封鎖裝置，並讓一切都留在你的網路裡。" link="/docs/guide/everdisk/everdisk-guide-access" >}}
 
-  {{< feature-card icon="adjustments" title="設定" subtitle="每一項設定的說明，從設備設定檔和連接埠到品質和傳輸。" link="/docs/guide/everdisk/everdisk-guide-settings" >}}
+  {{< feature-card icon="adjustments" title="設定" subtitle="每一項設定都有說明，從裝置設定檔和連接埠到品質和傳輸。" link="/docs/guide/everdisk/everdisk-guide-settings" >}}
 
-  {{< feature-card icon="question-mark-circle" title="FAQ" subtitle="常見問題和實際情境的快速解答。" link="/docs/faq/everdisk" >}}
+  {{< feature-card icon="question-mark-circle" title="常見問題" subtitle="常見問題和實際情境的快速解答。" link="/docs/faq/everdisk" >}}
 
 {{< /cards >}}
 

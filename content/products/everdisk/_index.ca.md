@@ -2,12 +2,12 @@
 date: '2026-08-20T12:00:00+00:00'
 title: 'Everdisk - Converteix el teu iPhone i iPad en una unitat sense fils'
 layout: hextra-home
-description: "Converteix el teu iPhone o iPad en una unitat sense fils i comparteix fitxers, fotos, vídeos i música amb qualsevol dispositiu mitjançant DLNA, HTTP, WebDAV i FTP. Sense necessitat de núvol."
-keywords: ["Everdisk", "unitat sense fils iPhone", "compartir fitxers iPhone", "servidor WebDAV iOS", "servidor DLNA iPhone", "servidor FTP iOS", "transmetre a la TV des de l'iPhone", "unitat de xarxa iPhone", "transferència de fitxers USB iPhone", "gestor de fitxers iOS", "escanejar documents a PDF", "compartir fotos per la xarxa"]
-tags: ["Everdisk", "unitat sense fils", "compartir fitxers", "DLNA", "WebDAV", "FTP", "SFTP", "unitat de xarxa", "aplicacions iPhone", "aplicacions iPad", "aplicacions Mac", "gestor de fitxers", "servidor multimèdia"]
+description: "Converteix el teu iPhone o iPad en una unitat sense fils i comparteix arxius, fotos, vídeos i música amb qualsevol dispositiu per DLNA, HTTP, WebDAV i FTP. Sense núvol."
+keywords: ["Everdisk", "unitat sense fils iPhone", "compartir arxius iPhone", "servidor WebDAV iOS", "servidor DLNA iPhone", "servidor FTP iOS", "reproduir al televisor des de l'iPhone", "unitat de xarxa iPhone", "transferència d'arxius USB iPhone", "gestor d'arxius iOS", "escanejar documents a PDF", "compartir fotos per la xarxa"]
+tags: ["Everdisk", "unitat sense fils", "compartir arxius", "DLNA", "WebDAV", "FTP", "SFTP", "unitat de xarxa", "apps iPhone", "apps iPad", "apps Mac", "gestor d'arxius", "servidor multimèdia"]
 appStoreUrl: "https://apps.apple.com/app/apple-store/id6751851132?pt=95781850&ct=everappzcom&mt=8"
 appStoreId: "6751851132"
-features: "Unitat sense fils per Wi-Fi i USB, Quatre servidors alhora (DLNA, HTTP, WebDAV, FTP), Transmet a smart TVs per DLNA, Obre en qualsevol navegador web, Munta com a unitat de xarxa a Finder/Windows/Linux, Connecta a servidors DLNA/WebDAV/FTP/SFTP, Gestor de fitxers integrat amb zip/unzip, Escaneja documents a PDF, Anota i signa PDF i fotos, Eines PDF (comprimir, reconeixement de text OCR, protecció amb contrasenya, permisos, metadades, aplanar), Galeria de fotos i reproductor multimèdia, Comparteix tota la biblioteca de fotos i música, Protecció amb contrasenya i bloqueig de dispositius"
+features: "Unitat sense fils per Wi-Fi i USB, Quatre servidors alhora (DLNA, HTTP, WebDAV, FTP), Reprodueix als televisors intel·ligents per DLNA, Obre a qualsevol navegador web, Munta com a unitat de xarxa al Finder/Windows/Linux, Connecta't a servidors DLNA/WebDAV/FTP/SFTP, Gestor d'arxius integrat amb comprimir/descomprimir, Escaneja documents a PDF, Anota i signa PDF i fotos, Eines PDF (comprimeix, reconeixement de text OCR, protecció amb contrasenya, permisos, metadades, aplanat), Galeria de fotos i reproductor multimèdia, Comparteix tota la biblioteca de fotos i música, Protecció amb contrasenya i bloqueig de dispositius"
 screenshots:
   - "https://everappz.com/products/everdisk/screenshots/browser_access.png"
   - "https://everappz.com/products/everdisk/screenshots/connect_to_servers.png"
@@ -16,7 +16,7 @@ screenshots:
 ---
 
 {{% sr-only %}}
-Everdisk és una aplicació d'unitat sense fils per a iPhone i iPad desenvolupada per Everappz. Converteix el teu dispositiu en un centre que comparteix fitxers, fotos, vídeos i música amb qualsevol cosa de la teva xarxa local, sense comptes, sense núvol i sense cap aplicació addicional per instal·lar a l'altra banda. L'aplicació executa quatre servidors alhora - DLNA per a smart TVs i reproductors multimèdia, HTTP per a qualsevol navegador web, WebDAV per a Finder, Windows i Linux, i FTP per a aplicacions de fitxers i usuaris avançats - de manera que cada dispositiu es connecta com prefereix. Pots transmetre fotos, vídeos i música directament a smart TVs per DLNA amb miniatures de vista prèvia, compartir un enllaç senzill que s'obre en qualsevol navegador per explorar i baixar els teus fitxers, o muntar el teu dispositiu com a unitat de xarxa i arrossegar fitxers en ambdues direccions. Quan no hi ha Wi-Fi pots connectar-te a un Mac amb un cable USB i moure fitxers més ràpid que per Wi-Fi, fins i tot en un avió o una xarxa bloquejada. Everdisk també es connecta a servidors DLNA, WebDAV, FTP i SFTP de la teva xarxa per explorar, transmetre i baixar els seus fitxers. Un gestor de fitxers integrat et permet explorar en llista o quadrícula, crear carpetes, canviar el nom, moure, copiar, comprimir i descomprimir, i eliminar. Pots escanejar documents en paper a PDF nets, obrir un PDF o una foto i anotar-lo amb l'editor integrat - dibuixar, ressaltar, afegir text i una signatura, amb els canvis desats de nou al fitxer - i utilitzar un conjunt complet d'eines PDF per comprimir fitxers, reconèixer text (OCR) en un PDF que es pot cercar, afegir o treure una contrasenya d'obertura, revisar permisos, editar metadades del document, i aplanar anotacions i camps de formulari. També pots reproduir àudio en un mini reproductor i veure vídeos a pantalla completa, i compartir tota la teva biblioteca de fotos i música per la xarxa en qualitat original o en un format més compatible. Tot es queda a la teva xarxa local i mai toca internet, i pots protegir l'accés amb un usuari i contrasenya i bloquejar qualsevol dispositiu amb un sol toc. Everdisk és una baixada gratuïta a l'App Store amb una compra única opcional de Premium Lifetime.
+Everdisk és una app d'unitat sense fils per a iPhone i iPad creada per Everappz. Converteix el teu dispositiu en un centre que comparteix arxius, fotos, vídeos i música amb qualsevol cosa de la teva xarxa local, sense comptes, sense núvol i sense cap app extra per instal·lar a l'altre costat. L'app fa funcionar quatre servidors alhora - DLNA per a televisors intel·ligents i reproductors multimèdia, HTTP per a qualsevol navegador web, WebDAV per al Finder, Windows i Linux, i FTP per a apps d'arxius i usuaris avançats - de manera que cada dispositiu es connecta com més li convé. Pots reproduir fotos, vídeos i música directament als televisors intel·ligents per DLNA amb miniatures de previsualització, compartir un enllaç senzill que s'obre a qualsevol navegador per veure i baixar els teus arxius, o muntar el teu dispositiu com a unitat de xarxa i arrossegar arxius en totes dues direccions. Quan no hi ha Wi-Fi pots connectar-te a un Mac amb un cable USB i moure arxius més ràpid que per Wi-Fi, fins i tot en un avió o en una xarxa bloquejada. Everdisk també es connecta a servidors DLNA, WebDAV, FTP i SFTP de la teva xarxa per explorar, reproduir i baixar els seus arxius. Un gestor d'arxius integrat et permet explorar en llista o graella, crear carpetes, canviar de nom, moure, copiar, comprimir i descomprimir, i eliminar. Pots escanejar documents en paper i convertir-los en PDF nets, obrir un PDF o una foto i anotar-la amb l'editor integrat - dibuixa, ressalta, afegeix text i una signatura, amb els canvis desats de nou a l'arxiu - i fer servir un conjunt complet d'eines PDF per comprimir arxius, reconèixer text (OCR) i crear un PDF cercable, afegir o treure una contrasenya d'obertura, revisar permisos, editar les metadades del document i aplanar anotacions i camps de formulari. També pots reproduir àudio en un mini reproductor i veure vídeos a pantalla completa, i compartir tota la teva biblioteca de fotos i música per la xarxa amb qualitat original o en un format més compatible. Tot es queda a la teva xarxa local i mai no toca internet, i pots protegir l'accés amb un usuari i contrasenya i bloquejar qualsevol dispositiu amb un sol toc. Everdisk es baixa gratis a l'App Store amb una compra opcional única Premium de per vida.
 {{% /sr-only %}}
 
 <!-- <body class="hx:bg-transparent" style="background: radial-gradient(ellipse at 50% 80%, rgba(59,130,246,0.05), hsla(0,0%,100%,0));"> -->
@@ -51,21 +51,21 @@ Everdisk és una aplicació d'unitat sense fils per a iPhone i iPad desenvolupad
 
 <div class="hx:mb-6">
 {{< hextra/hero-centered-subtitle >}}
-Converteix el teu iPhone o iPad en una unitat sense fils&nbsp;<br class="hx:sm:block hx:hidden" />que comparteix fitxers amb <strong>qualsevol dispositiu de la teva xarxa</strong>
+Converteix el teu iPhone o iPad en una unitat sense fils&nbsp;<br class="hx:sm:block hx:hidden" />que comparteix arxius amb <strong>qualsevol dispositiu de la teva xarxa</strong>
 {{< /hextra/hero-centered-subtitle >}}
 </div>
 
 <div class="hx:mb-6">
 {{< hextra/hero-paragraph >}}
-• Toca Comença i comparteix de quatre maneres alhora: DLNA, HTTP, WebDAV i FTP  
-• Transmet fotos, vídeos i música directament a smart TVs per DLNA  
-• Munta el teu dispositiu com a unitat de xarxa a Finder, Windows o Linux  
-• Sense Wi-Fi? Mou fitxers per un cable USB, més ràpid que sense fils  
+• Toca Iniciar i comparteix de quatre maneres alhora: DLNA, HTTP, WebDAV i FTP  
+• Reprodueix fotos, vídeos i música directament als televisors intel·ligents per DLNA  
+• Munta el teu dispositiu com a unitat de xarxa al Finder, Windows o Linux  
+• Sense Wi-Fi? Mou arxius per un cable USB, més ràpid que sense fils  
 {{< /hextra/hero-paragraph >}}
 </div>
 
 {{< hextra/hero-button 
-  text="Baixa a l'App Store"
+  text="Download on the App Store"
   link="https://apps.apple.com/app/apple-store/id6751851132?pt=95781850&ct=everappzcom&mt=8"
   icon="device-mobile" 
   style="margin-top:1rem;margin-right:1rem;"
@@ -83,42 +83,42 @@ Converteix el teu iPhone o iPad en una unitat sense fils&nbsp;<br class="hx:sm:b
 
   {{< hextra/feature-card
     title="El teu dispositiu es converteix en una unitat"
-    subtitle="Toca Comença i el teu iPhone o iPad es converteix en una unitat sense fils. Everdisk executa quatre servidors alhora - DLNA, HTTP, WebDAV i FTP - de manera que smart TVs, ordinadors, navegadors web i aplicacions de fitxers es connecten cadascun com prefereix. Sense comptes, sense núvol, i sense res addicional per instal·lar a l'altra banda."
+    subtitle="Toca Iniciar i el teu iPhone o iPad es converteix en una unitat sense fils. Everdisk fa funcionar quatre servidors alhora - DLNA, HTTP, WebDAV i FTP - de manera que televisors intel·ligents, ordinadors, navegadors web i apps d'arxius es connecten com més els convé. Sense comptes, sense núvol i sense res extra per instal·lar a l'altre costat."
     icon="server"
     style="background: radial-gradient(ellipse at 50% 80%, rgba(34,197,94,0.15), hsla(0,0%,100%,0));"
   >}}
 
   {{< hextra/feature-card
-    title="Mira-ho a la teva TV"
-    subtitle="Transmet fotos, vídeos i música directament a smart TVs i reproductors multimèdia per DLNA. La teva biblioteca apareix sola a la TV, amb miniatures de vista prèvia, així que pots gaudir-ne a la gran pantalla sense cables ni aplicacions addicionals."
+    title="Mira-ho al teu televisor"
+    subtitle="Reprodueix fotos, vídeos i música directament als televisors intel·ligents i reproductors multimèdia per DLNA. La teva biblioteca apareix sola al televisor, amb miniatures de previsualització, perquè la gaudeixis a la gran pantalla sense cables ni apps extres."
     icon="desktop-computer"
     style="background: radial-gradient(ellipse at 50% 80%, rgba(234,88,12,0.15), hsla(0,0%,100%,0));"
   >}}
 
   {{< hextra/feature-card
-    title="Obre en qualsevol navegador web"
-    subtitle="Comparteix un enllaç senzill i l'altra persona només l'obre en un navegador. Pot explorar els teus fitxers en una quadrícula o llista neta, veure fotos en una galeria a pantalla completa, reproduir música al reproductor integrat, i baixar qualsevol cosa - sense res per instal·lar a la seva banda."
+    title="Obre-ho a qualsevol navegador web"
+    subtitle="Comparteix un enllaç senzill i l'altra persona només l'ha d'obrir al navegador. Pot explorar els teus arxius en una graella o llista neta, veure fotos en una galeria a pantalla completa, escoltar música al reproductor integrat i baixar qualsevol cosa, sense haver d'instal·lar res."
     icon="globe-alt"
     style="background: radial-gradient(ellipse at 50% 80%, rgba(251,191,36,0.15), hsla(0,0%,100%,0));"
   >}}
 
   {{< hextra/feature-card
-    title="Utilitza'l com a unitat de xarxa"
-    subtitle="Connecta't des de Finder en un Mac, des de Windows o des de Linux per WebDAV, i el teu dispositiu apareix com un disc de xarxa normal. Arrossega i deixa anar en ambdues direccions: copia fitxers de l'ordinador al dispositiu, o recupera'ls."
+    title="Fes-lo servir com a unitat de xarxa"
+    subtitle="Connecta't des del Finder en un Mac, des de Windows o des de Linux per WebDAV, i el teu dispositiu apareix com un disc de xarxa normal. Arrossega i deixa anar en totes dues direccions: copia arxius de l'ordinador al dispositiu, o recupera'ls."
     icon="folder"
     style="background: radial-gradient(ellipse at 50% 80%, rgba(59,130,246,0.15), hsla(0,0%,100%,0));"
   >}}
 
   {{< hextra/feature-card
     title="Sense Wi-Fi? Fes servir el cable"
-    subtitle="Connecta el teu dispositiu a un Mac amb el mateix cable USB que utilitzes per carregar-lo. Els fitxers es mouen directament pel cable, més ràpid que per Wi-Fi, i continua funcionant en un avió, en un hotel, o en qualsevol xarxa bloquejada on el Wi-Fi estigui restringit."
+    subtitle="Connecta el teu dispositiu a un Mac amb el mateix cable USB que fas servir per carregar-lo. Els arxius es mouen directament pel cable, més ràpid que per Wi-Fi, i continua funcionant en un avió, en un hotel o en qualsevol xarxa bloquejada on el Wi-Fi estigui restringit."
     icon="lightning-bolt"
     style="background: radial-gradient(ellipse at 50% 80%, rgba(192,38,211,0.15), hsla(0,0%,100%,0));"
   >}}
 
   {{< hextra/feature-card
     title="Connecta't a altres dispositius"
-    subtitle="Troba i connecta't a servidors DLNA, WebDAV, FTP i SFTP de la teva xarxa. Explora les seves carpetes, transmet àudio i vídeo, baixa fitxers, i crea carpetes, puja, canvia el nom, mou o elimina quan el servidor ho permet."
+    subtitle="Troba i connecta't a servidors DLNA, WebDAV, FTP i SFTP de la teva xarxa. Explora les seves carpetes, reprodueix àudio i vídeo, baixa arxius, i crea carpetes, puja, canvia de nom, mou o elimina quan el servidor ho permeti."
     icon="cloud-download"
     style="background: radial-gradient(ellipse at 50% 80%, rgba(6,182,212,0.15), hsla(0,0%,100%,0));"
   >}}
@@ -142,37 +142,37 @@ Converteix el teu iPhone o iPad en una unitat sense fils&nbsp;<br class="hx:sm:b
   {{< feature-card 
     icon="globe-alt"
     image="/products/everdisk/screenshots/browser_access.png" 
-    title="Accés per navegador" 
+    title="Accés des del navegador" 
     method="Fill"
     options="1030x400 q82 webp Center"
-    subtitle="Comparteix un enllaç i deixa que qualsevol explori, previsualitzi i baixi els teus fitxers des de qualsevol navegador web. Res per instal·lar a l'altra banda." 
+    subtitle="Comparteix un enllaç i deixa que qualsevol explori, previsualitzi i baixi els teus arxius des de qualsevol navegador web. Res a instal·lar a l'altre costat." 
   >}}
 
   {{< feature-card 
     icon="server"
     image="/products/everdisk/screenshots/connect_to_servers.png"  
-    title="Connecta a servidors" 
+    title="Connecta't a servidors" 
     method="Fill"
     options="1030x400 q82 webp Center"
-    subtitle="Descobreix i connecta't a servidors DLNA, WebDAV, FTP i SFTP de la teva xarxa per explorar, transmetre i baixar els seus fitxers." 
+    subtitle="Descobreix i connecta't a servidors DLNA, WebDAV, FTP i SFTP de la teva xarxa per explorar, reproduir i baixar els seus arxius." 
   >}}
 
   {{< feature-card 
     icon="folder"
     image="/products/everdisk/screenshots/file_manager.png"  
-    title="Gestor de fitxers" 
+    title="Gestor d'arxius" 
     method="Fill"
     options="1030x400 q82 webp Center"
-    subtitle="Gestiona-ho tot al teu dispositiu: explora en llista o quadrícula, crea carpetes, canvia el nom, mou, copia, comprimeix i descomprimeix, i elimina." 
+    subtitle="Gestiona-ho tot al teu dispositiu: explora en llista o graella, crea carpetes, canvia de nom, mou, copia, comprimeix i descomprimeix, i elimina." 
   >}}
 
   {{< feature-card 
     icon="play"
     image="/products/everdisk/screenshots/play_in_the_app.png"  
-    title="Reprodueix a l'aplicació" 
+    title="Reprodueix dins de l'app" 
     method="Fill"
     options="1030x400 q82 webp Center"
-    subtitle="Escolta les teves pistes locals o transmet des de dispositius connectats, amb una cua al mini reproductor i reproducció de vídeo a pantalla completa." 
+    subtitle="Escolta les teves cançons locals o reprodueix des de dispositius connectats, amb una cua al mini reproductor i reproducció de vídeo a pantalla completa." 
   >}}
 
   {{< feature-card 
@@ -181,7 +181,7 @@ Converteix el teu iPhone o iPad en una unitat sense fils&nbsp;<br class="hx:sm:b
     title="Comparteix la teva biblioteca" 
     method="Fill"
     options="1030x400 q82 webp Center"
-    subtitle="Activa tota la teva biblioteca de fotos i música i cada àlbum i pista queda disponible per la xarxa en qualitat original." 
+    subtitle="Activa tota la teva biblioteca de fotos i música i cada àlbum i cada cançó queda disponible per la xarxa amb qualitat original." 
   >}} 
 
   {{< feature-card 
@@ -190,7 +190,7 @@ Converteix el teu iPhone o iPad en una unitat sense fils&nbsp;<br class="hx:sm:b
     title="Galeria de fotos" 
     method="Fill"
     options="1030x400 q82 webp Center"
-    subtitle="Miniatures de vista prèvia reals a les TVs i al navegador, a més d'una galeria de fotos a pantalla completa amb lliscament i zoom - no simples icones." 
+    subtitle="Miniatures de previsualització reals als televisors i al navegador, i una galeria de fotos a pantalla completa amb lliscament i zoom - no simples icones." 
   >}}
 
 {{< /cards >}}
@@ -209,47 +209,47 @@ Converteix el teu iPhone o iPad en una unitat sense fils&nbsp;<br class="hx:sm:b
 
 {{< cards >}}
 
-  {{< feature-card title="Quatre servidors alhora" subtitle="Toca Comença i comparteix els teus fitxers de quatre maneres al mateix temps: DLNA per a TVs i reproductors multimèdia, HTTP per a qualsevol navegador web, WebDAV per a Finder, Windows i Linux, i FTP per a aplicacions de fitxers i usuaris avançats." icon="wifi" >}}
+  {{< feature-card title="Quatre servidors alhora" subtitle="Toca Iniciar i comparteix els teus arxius de quatre maneres al mateix temps: DLNA per a televisors i reproductors multimèdia, HTTP per a qualsevol navegador web, WebDAV per al Finder, Windows i Linux, i FTP per a apps d'arxius i usuaris avançats." icon="wifi" >}}
 
-  {{< feature-card title="Transmet a smart TVs" subtitle="Envia fotos, vídeos i música directament a smart TVs i reproductors multimèdia per DLNA. La teva biblioteca apareix sola a la TV, amb miniatures de vista prèvia, a punt per a la gran pantalla." icon="desktop-computer" >}}
+  {{< feature-card title="Reprodueix als televisors intel·ligents" subtitle="Envia fotos, vídeos i música directament als televisors intel·ligents i reproductors multimèdia per DLNA. La teva biblioteca apareix sola al televisor, amb miniatures de previsualització, a punt per a la gran pantalla." icon="desktop-computer" >}}
 
-  {{< feature-card title="Compartició per navegador web" subtitle="Comparteix un enllaç i l'altra banda només l'obre en un navegador per explorar els teus fitxers en quadrícula o llista, veure fotos a pantalla completa, reproduir música, i baixar qualsevol cosa - sense cap instal·lació." icon="globe-alt" >}}
+  {{< feature-card title="Compartir pel navegador web" subtitle="Comparteix un enllaç i l'altre costat només l'obre al navegador per explorar els teus arxius en graella o llista, veure fotos a pantalla completa, escoltar música i baixar qualsevol cosa, sense cap instal·lació." icon="globe-alt" >}}
 
-  {{< feature-card title="Unitat de xarxa WebDAV" subtitle="Connecta't des de Finder en un Mac, des de Windows o des de Linux per WebDAV i el teu dispositiu apareix com un disc de xarxa normal. Arrossega i deixa anar fitxers en ambdues direccions." icon="folder" >}}
+  {{< feature-card title="Unitat de xarxa WebDAV" subtitle="Connecta't des del Finder en un Mac, des de Windows o des de Linux per WebDAV i el teu dispositiu apareix com un disc de xarxa normal. Arrossega i deixa anar arxius en totes dues direccions." icon="folder" >}}
 
-  {{< feature-card title="Transferència per USB" subtitle="Connecta't a un Mac amb el teu cable de càrrega i mou fitxers directament pel cable, més ràpid que per Wi-Fi. Continua funcionant en un avió, en un hotel, o en qualsevol xarxa bloquejada." icon="lightning-bolt" >}}
+  {{< feature-card title="Transfereix per USB" subtitle="Connecta't a un Mac amb el cable de càrrega i mou arxius directament pel cable, més ràpid que per Wi-Fi. Continua funcionant en un avió, en un hotel o en qualsevol xarxa bloquejada." icon="lightning-bolt" >}}
 
-  {{< feature-card title="Connecta't a DLNA, WebDAV, FTP i SFTP" subtitle="Troba i connecta't a servidors de la teva xarxa, explora les seves carpetes, transmet àudio i vídeo, baixa fitxers, i crea, puja, canvia el nom, mou o elimina quan es permet." icon="server" >}}
+  {{< feature-card title="Connecta't a DLNA, WebDAV, FTP i SFTP" subtitle="Troba i connecta't a servidors de la teva xarxa, explora les seves carpetes, reprodueix àudio i vídeo, baixa arxius, i crea, puja, canvia de nom, mou o elimina quan es permeti." icon="server" >}}
 
-  {{< feature-card title="Gestor de fitxers integrat" subtitle="Un gestor de fitxers complet per a tot el teu dispositiu. Explora en llista o quadrícula, crea carpetes, canvia el nom, mou, copia, i elimina, i connecta carpetes de qualsevol lloc del dispositiu." icon="view-grid" >}}
+  {{< feature-card title="Gestor d'arxius integrat" subtitle="Un gestor d'arxius complet per a tot el que hi ha al teu dispositiu. Explora en llista o graella, crea carpetes, canvia de nom, mou, copia i elimina, i connecta carpetes de qualsevol lloc del teu dispositiu." icon="view-grid" >}}
 
-  {{< feature-card title="Comprimeix i descomprimeix" subtitle="Comprimeix fitxers i carpetes en un sol arxiu per compartir o emmagatzemar, i descomprimeix arxius que reps directament al teu dispositiu sense cap eina addicional." icon="document-duplicate" >}}
+  {{< feature-card title="Comprimir i descomprimir" subtitle="Comprimeix arxius i carpetes en un sol arxiu per compartir o desar, i descomprimeix els arxius que reps directament al teu dispositiu sense cap eina extra." icon="document-duplicate" >}}
 
-  {{< feature-card title="Escaneja documents a PDF" subtitle="Escaneja documents en paper amb la càmera. Everdisk troba les vores automàticament, endreça cada pàgina, i les desa com un PDF net, a punt per compartir o emmagatzemar." icon="document-text" >}}
+  {{< feature-card title="Escaneja documents a PDF" subtitle="Escaneja documents en paper amb la càmera. Everdisk troba les vores automàticament, endreça cada pàgina i les desa com un PDF net, a punt per compartir o desar." icon="document-text" >}}
 
-  {{< feature-card title="Anota i signa PDF" subtitle="Obre un PDF o una foto i anota'l directament a l'aplicació: dibuixa, ressalta, afegeix text i formes, i signa amb el dit. Els teus canvis es desen directament de nou al fitxer." icon="pencil-alt" >}}
+  {{< feature-card title="Anota i signa PDF" subtitle="Obre un PDF o una foto i anota'ls directament a l'app: dibuixa, ressalta, afegeix text i formes, i signa amb el dit. Els teus canvis es desen directament a l'arxiu." icon="pencil-alt" >}}
 
-  {{< feature-card title="Eines PDF" subtitle="Un conjunt complet d'eines PDF integrat: comprimeix fitxers, reconeix text (OCR) en un PDF que es pot cercar, estableix o treu una contrasenya d'obertura, revisa permisos, edita metadades del document, i aplana anotacions i camps de formulari." icon="document-report" >}}
+  {{< feature-card title="Eines PDF" subtitle="Un conjunt complet d'eines PDF integrat: comprimeix arxius, reconeix text (OCR) i crea un PDF cercable, posa o treu una contrasenya d'obertura, revisa permisos, edita les metadades del document i aplana anotacions i camps de formulari." icon="document-report" >}}
 
-  {{< feature-card title="Galeria de fotos" subtitle="Miniatures de vista prèvia reals a les TVs i al navegador, a més d'una galeria de fotos a pantalla completa amb lliscament i zoom, així sempre veus la imatge i no una simple icona." icon="photograph" >}}
+  {{< feature-card title="Galeria de fotos" subtitle="Miniatures de previsualització reals als televisors i al navegador, i una galeria de fotos a pantalla completa amb lliscament i zoom, perquè sempre vegis la imatge i no una simple icona." icon="photograph" >}}
 
-  {{< feature-card title="Mini reproductor d'àudio" subtitle="Gaudeix de l'àudio en un mini reproductor amb cua, ordre aleatori, repetició i controls a la pantalla de bloqueig. Les teves biblioteques de Fotos i Música es reprodueixen aquí mateix a l'aplicació." icon="music-note" >}}
+  {{< feature-card title="Mini reproductor d'àudio" subtitle="Gaudeix de l'àudio en un mini reproductor amb cua, reproducció aleatòria, repetició i controls a la pantalla de bloqueig. Les teves biblioteques de Fotos i Música es reprodueixen aquí mateix, a l'app." icon="music-note" >}}
 
-  {{< feature-card title="Vídeo a pantalla completa" subtitle="Mira els teus vídeos a pantalla completa, reproduïts des de fitxers locals o transmesos directament des d'un dispositiu connectat, amb controls de reproducció senzills i familiars." icon="film" >}}
+  {{< feature-card title="Vídeo a pantalla completa" subtitle="Mira els teus vídeos a pantalla completa, reproduïts des d'arxius locals o transmesos directament des d'un dispositiu connectat, amb controls de reproducció senzills i familiars." icon="film" >}}
 
-  {{< feature-card title="Comparteix tota la teva biblioteca" subtitle="Activa tota la teva biblioteca de fotos i música i cada àlbum i pista queda disponible per la xarxa en qualitat original, o convertit per compatibilitat." icon="share" >}}
+  {{< feature-card title="Comparteix tota la biblioteca" subtitle="Activa tota la teva biblioteca de fotos i música i cada àlbum i cada cançó queda disponible per la xarxa amb qualitat original, o convertit per compatibilitat." icon="share" >}}
 
-  {{< feature-card title="Torna a enviar fitxers" subtitle="Funciona en ambdós sentits. Puja fotos i documents des de qualsevol ordinador directament al teu dispositiu, i afegeix també carpetes senceres, tot per la mateixa connexió." icon="upload" >}}
+  {{< feature-card title="Envia arxius de tornada" subtitle="Funciona en totes dues direccions. Puja fotos i documents des de qualsevol ordinador directament al teu dispositiu, i afegeix també carpetes senceres, tot per la mateixa connexió." icon="upload" >}}
 
-  {{< feature-card title="Protecció amb contrasenya" subtitle="Protegeix el teu contingut compartit d'accessos no autoritzats amb un usuari i contrasenya, així els dispositius connectats han d'introduir les mateixes dades abans de poder veure els teus fitxers." icon="lock-closed" >}}
+  {{< feature-card title="Protecció amb contrasenya" subtitle="Protegeix el teu contingut compartit d'accessos no autoritzats amb un usuari i contrasenya, de manera que els dispositius connectats hagin d'introduir les mateixes dades abans de poder veure els teus arxius." icon="lock-closed" >}}
 
   {{< feature-card title="Bloqueja qualsevol dispositiu" subtitle="Mantén el control de qui es connecta. Bloqueja qualsevol dispositiu de la teva xarxa amb un sol toc perquè ja no pugui accedir al contingut que estàs compartint." icon="shield-check" >}}
 
-  {{< feature-card title="Privat i només local" subtitle="Tot es queda a la teva xarxa local i mai toca internet. Els teus fitxers mai surten de casa, i no hi ha comptes ni núvol pel mig." icon="eye" >}}
+  {{< feature-card title="Privat i només local" subtitle="Tot es queda a la teva xarxa local i mai no toca internet. Els teus arxius no surten mai de casa, i no hi ha comptes ni núvol pel mig." icon="eye" >}}
 
-  {{< feature-card title="Original o convertit" subtitle="Mantén les teves fotos i vídeos en qualitat original, o converteix-los a un format més compatible quan una TV, un navegador o un altre dispositiu ho necessiti." icon="switch-horizontal" >}}
+  {{< feature-card title="Original o convertit" subtitle="Conserva les teves fotos i vídeos amb qualitat original, o converteix-los a un format més compatible quan un televisor, navegador o altre dispositiu ho necessiti." icon="switch-horizontal" >}}
 
-  {{< feature-card title="Connecta carpetes externes" subtitle="Connecta carpetes de qualsevol lloc del teu dispositiu i treballa amb elles directament a l'aplicació, i després comparteix-les per la xarxa juntament amb la resta." icon="collection" >}}
+  {{< feature-card title="Connecta carpetes externes" subtitle="Connecta carpetes de qualsevol lloc del teu dispositiu i treballa-hi directament a l'app, i després comparteix-les per la xarxa juntament amb tota la resta." icon="collection" >}}
 
 {{< /cards >}}
 
@@ -281,37 +281,37 @@ Converteix el teu iPhone o iPad en una unitat sense fils&nbsp;<br class="hx:sm:b
 {{< hextra/feature-grid cols="2">}}
 
   {{< hextra/feature-card
-    title="Gratuït"
+    title="Gratis"
     class="pricing-card pricing-free"
     subtitle=`<span class='pricing-details'>• Converteix el teu dispositiu en una unitat sense fils<br />
 • Quatre servidors alhora: DLNA, HTTP, WebDAV, FTP<br />
-• Transmet a smart TVs, navegadors i ordinadors<br />
+• Reprodueix a televisors intel·ligents, navegadors i ordinadors<br />
 • Munta com a unitat de xarxa i transfereix per USB<br />
 • Comparteix tota la teva biblioteca de fotos i música<br />
 • Connecta't a servidors DLNA, WebDAV, FTP i SFTP<br />
-• Gestor de fitxers amb zip i unzip<br />
+• Gestor d'arxius amb comprimir i descomprimir<br />
 • Escaneja documents a PDF i eines PDF completes<br />
 • Anota i signa PDF i fotos<br />
 • Protecció amb contrasenya i bloqueig de dispositius<br />
 • Fins a 5 carpetes compartides i 10 connexions desades</span><br /><br />
 <span class='hx:block hx:mt-2 hx:text-center'>
   <span class='pricing-btn hx:inline-block hx:rounded-full hx:border hx:border-gray-200 hx:dark:border-neutral-800 hx:px-3 hx:py-1 hx:transition-all hx:duration-200'>
-    <strong>Gratuït</strong>
+    <strong>Gratis</strong>
   </span>
 </span>`
   >}}
 
   {{< hextra/feature-card
-    title="Premium Lifetime"
+    title="Premium de per vida"
     class="pricing-card pricing-lifetime"
-    subtitle=`<span class='pricing-details'>• Tot el que inclou Gratuït<br />
+    subtitle=`<span class='pricing-details'>• Tot el que inclou la versió gratis<br />
 • Carpetes compartides il·limitades (més de 5)<br />
 • Connexions desades il·limitades (més de 10)<br />
-• Conversió de fotos i vídeos a un format compatible o mida més petita<br />
+• Conversió de fotos i vídeos a un format compatible o de mida més petita<br />
 • Ports HTTP, WebDAV i FTP personalitzats<br />
-• Inici automàtic de la compartició en obrir l'aplicació<br />
+• Inici automàtic de la compartició en obrir l'app<br />
 • Personalització del dispositiu: nom, icona d'avatar, degradat o foto<br />
-• Compra única - es cobra un cop, mai es renova</span><br /><br />
+• Compra única - es cobra un sol cop, mai no es renova</span><br /><br />
 <span class='hx:block hx:mt-2 hx:text-center'>
   <span class='pricing-btn hx:inline-block hx:rounded-full hx:border hx:border-gray-200 hx:dark:border-neutral-800 hx:px-3 hx:py-1 hx:transition-all hx:duration-200'>
     <strong>$9.99</strong>/de per vida
@@ -341,108 +341,108 @@ Converteix el teu iPhone o iPad en una unitat sense fils&nbsp;<br class="hx:sm:b
 
 <div class="hx:w-full">
 {{% details title="Què és Everdisk?" closed="true" %}}
-Everdisk converteix el teu iPhone o iPad en una unitat sense fils i un centre que també es connecta als teus altres dispositius.<br>
-Pots compartir els teus fitxers, fotos, vídeos i música amb qualsevol cosa de la teva xarxa, explorar i transmetre des d'altres servidors, i gestionar-ho tot directament al teu dispositiu.<br>
-No hi ha comptes, ni núvol, ni cap aplicació addicional per instal·lar a l'altra banda - només toques Comença i ja estàs a punt.<br><br>
+Everdisk converteix el teu iPhone o iPad en una unitat sense fils i en un centre que també es connecta als teus altres dispositius.<br>
+Pots compartir els teus arxius, fotos, vídeos i música amb qualsevol cosa de la teva xarxa, explorar i reproduir des d'altres servidors, i gestionar-ho tot directament al teu dispositiu.<br>
+No hi ha comptes, ni núvol, ni cap app extra per instal·lar a l'altre costat - només toques Iniciar i ja estàs a punt.<br><br>
 
-L'aplicació executa quatre servidors alhora, de manera que cada dispositiu es connecta com prefereix: smart TVs per DLNA, ordinadors i navegadors web per HTTP, Finder, Windows i Linux per WebDAV, i aplicacions de fitxers per FTP.
+L'app fa funcionar quatre servidors al mateix temps, de manera que cada dispositiu es connecta com més li convé: televisors intel·ligents per DLNA, ordinadors i navegadors web per HTTP, Finder, Windows i Linux per WebDAV, i apps d'arxius per FTP.
 {{% /details %}}
 
 {{% details title="Com funciona Everdisk?" closed="true" %}}
-Quan toques Comença, Everdisk comença a compartir el contingut que has seleccionat i executa quatre servidors alhora perquè diferents dispositius es puguin connectar de la manera que prefereixen.<br><br>
+Quan toques Iniciar, Everdisk comença a compartir el contingut que has seleccionat i fa funcionar quatre servidors alhora perquè diferents dispositius es puguin connectar de la manera que prefereixin.<br><br>
 
-- <strong>DLNA</strong> permet que les smart TVs i els reproductors multimèdia trobin les teves fotos, vídeos i música automàticament i les mostrin amb miniatures de vista prèvia.<br>
-- <strong>HTTP</strong> dóna a qualsevol un enllaç senzill que pot obrir en un navegador web per explorar, previsualitzar i baixar els teus fitxers, sense res per instal·lar.<br>
-- <strong>WebDAV</strong> fa que el teu dispositiu aparegui com una unitat de xarxa normal a Finder, Windows o Linux perquè puguis arrossegar fitxers en ambdues direccions.<br>
-- <strong>FTP</strong> funciona amb aplicacions de fitxers i usuaris avançats.<br><br>
+- <strong>DLNA</strong> permet que els televisors intel·ligents i reproductors multimèdia trobin les teves fotos, vídeos i música automàticament i les mostrin amb miniatures de previsualització.<br>
+- <strong>HTTP</strong> dona a qualsevol un enllaç senzill que pot obrir al navegador web per explorar, previsualitzar i baixar els teus arxius, sense instal·lar res.<br>
+- <strong>WebDAV</strong> fa que el teu dispositiu aparegui com una unitat de xarxa normal al Finder, Windows o Linux perquè puguis arrossegar arxius en totes dues direccions.<br>
+- <strong>FTP</strong> funciona amb apps d'arxius i usuaris avançats.<br><br>
 
-Everdisk també es connecta a l'inrevés, a servidors DLNA, WebDAV, FTP i SFTP de la teva xarxa, així pots explorar les seves carpetes, transmetre àudio i vídeo, i baixar o gestionar fitxers quan el servidor ho permet. Tot es queda a la teva xarxa local i mai toca internet.
+Everdisk també es connecta en sentit contrari, a servidors DLNA, WebDAV, FTP i SFTP de la teva xarxa, perquè puguis explorar les seves carpetes, reproduir àudio i vídeo, i baixar o gestionar arxius quan el servidor ho permeti. Tot es queda a la teva xarxa local i mai no toca internet.
 {{% /details %}}
 
-{{% details title="Everdisk és gratuït?" closed="true" %}}
-Sí. Everdisk és una baixada gratuïta i pots convertir el teu dispositiu en una unitat sense fils, compartir els teus fitxers de quatre maneres, connectar-te a altres servidors, i utilitzar el gestor de fitxers integrat sense cap cost.<br><br>
+{{% details title="Everdisk és gratis?" closed="true" %}}
+Sí. Everdisk es baixa gratis i pots convertir el teu dispositiu en una unitat sense fils, compartir els teus arxius de quatre maneres, connectar-te a altres servidors i fer servir el gestor d'arxius integrat sense cap cost.<br><br>
 
-Hi ha una compra única opcional de <strong>Premium Lifetime</strong> - un sol pagament sense subscripció - que desbloqueja carpetes compartides i connexions desades il·limitades, conversió de fotos i vídeo, ports personalitzats, inici automàtic de la compartició, i personalització del dispositiu. Està vinculada al teu Apple ID, així que pots utilitzar Restaura les compres per desbloquejar-la als teus altres dispositius. Els preus poden variar segons el teu país o regió.
+Hi ha una compra opcional única <strong>Premium de per vida</strong> - un sol pagament sense subscripció - que desbloqueja carpetes compartides i connexions desades il·limitades, la conversió de fotos i vídeos, ports personalitzats, l'inici automàtic de la compartició i la personalització del dispositiu. Està vinculada al teu Apple ID, de manera que pots fer servir Restaurar compres per desbloquejar-la als teus altres dispositius. Els preus poden variar segons el teu país o regió.
 {{% /details %}}
 
-{{% details title="Com em connecto des del meu ordinador?" closed="true" %}}
+{{% details title="Com em connecto des de l'ordinador?" closed="true" %}}
 Everdisk fa que el teu dispositiu aparegui com una unitat de xarxa normal per WebDAV.<br><br>
 
-- En un <strong>Mac</strong>, obre Finder, tria <em>Anar → Connecta al servidor</em>, i introdueix l'adreça WebDAV que es mostra a l'aplicació.<br>
-- A <strong>Windows</strong>, assigna una unitat de xarxa fent servir la mateixa adreça WebDAV.<br>
-- A <strong>Linux</strong>, connecta't a l'adreça WebDAV des del teu gestor de fitxers.<br><br>
+- En un <strong>Mac</strong>, obre el Finder, tria <em>Anar → Connectar al servidor</em>, i introdueix l'adreça WebDAV que es mostra a l'app.<br>
+- A <strong>Windows</strong>, assigna una unitat de xarxa amb la mateixa adreça WebDAV.<br>
+- A <strong>Linux</strong>, connecta't a l'adreça WebDAV des del teu gestor d'arxius.<br><br>
 
-Un cop connectat, pots arrossegar i deixar anar en ambdues direccions: copia fitxers de l'ordinador al dispositiu, o recupera'ls. També pots obrir l'enllaç HTTP en qualsevol navegador web si prefereixes no muntar una unitat.
+Un cop connectat, pots arrossegar i deixar anar en totes dues direccions: copia arxius de l'ordinador al teu dispositiu, o recupera'ls. També pots obrir l'enllaç HTTP a qualsevol navegador web si prefereixes no muntar una unitat.
 {{% /details %}}
 
-{{% details title="Com transmeto a la meva TV?" closed="true" %}}
-Assegura't que la teva TV o reproductor multimèdia i el teu dispositiu estiguin a la mateixa xarxa Wi-Fi, després toca Comença a Everdisk amb les teves fotos, vídeos o música compartits.<br><br>
+{{% details title="Com reprodueixo al meu televisor?" closed="true" %}}
+Assegura't que el televisor o reproductor multimèdia i el teu dispositiu són a la mateixa xarxa Wi-Fi, i després toca Iniciar a Everdisk amb les teves fotos, vídeos o música compartides.<br><br>
 
-El teu dispositiu apareixerà sol a la llista de servidors multimèdia de la TV, amb miniatures de vista prèvia. Obre'l a la TV i gaudeix de la teva biblioteca a la gran pantalla - sense cables ni aplicacions addicionals.
+El teu dispositiu apareixerà sol a la llista de servidors multimèdia del televisor, amb miniatures de previsualització. Obre'l al televisor i gaudeix de la teva biblioteca a la gran pantalla - sense cables ni apps extres.
 {{% /details %}}
 
-{{% details title="Com obro els meus fitxers en un navegador web?" closed="true" %}}
-Toca Comença i Everdisk et dóna una adreça web senzilla per al servidor HTTP.<br><br>
+{{% details title="Com obro els meus arxius en un navegador web?" closed="true" %}}
+Toca Iniciar i Everdisk et dona una adreça web senzilla per al servidor HTTP.<br><br>
 
-Comparteix aquest enllaç amb qualsevol de la mateixa xarxa. L'obren en qualsevol navegador web per explorar els teus fitxers en una quadrícula o llista neta, veure fotos en una galeria a pantalla completa, reproduir música al reproductor integrat, i baixar qualsevol cosa. No hi ha res per instal·lar a la seva banda, cosa que ho converteix en la manera més ràpida de passar fitxers a un altre telèfon o ordinador.
+Comparteix aquest enllaç amb qualsevol persona de la mateixa xarxa. L'obre a qualsevol navegador web per explorar els teus arxius en una graella o llista neta, veure fotos en una galeria a pantalla completa, escoltar música al reproductor integrat i baixar qualsevol cosa. No cal instal·lar res a l'altre costat, cosa que ho converteix en la manera més ràpida de passar arxius a un altre telèfon o ordinador.
 {{% /details %}}
 
 {{% details title="Everdisk funciona sense Wi-Fi?" closed="true" %}}
-Sí. Connecta el teu dispositiu a un Mac amb el mateix cable USB que utilitzes per carregar-lo, i els fitxers es mouen directament pel cable, més ràpid que per Wi-Fi.<br><br>
+Sí. Connecta el teu dispositiu a un Mac amb el mateix cable USB que fas servir per carregar-lo, i els arxius es mouen directament pel cable, més ràpid que per Wi-Fi.<br><br>
 
-Com que no depèn d'una xarxa sense fils, això continua funcionant en un avió, en un hotel, o en qualsevol xarxa bloquejada o pública on la compartició per Wi-Fi estigui restringida.
+Com que no depèn d'una xarxa sense fils, això continua funcionant en un avió, en un hotel o en qualsevol xarxa bloquejada o pública on la compartició per Wi-Fi estigui restringida.
 {{% /details %}}
 
 {{% details title="A què em puc connectar amb Everdisk?" closed="true" %}}
-Everdisk també és un client per a altres dispositius de la teva xarxa. Pots trobar i connectar-te a servidors <strong>DLNA</strong>, <strong>WebDAV</strong>, <strong>FTP</strong> i <strong>SFTP</strong>, incloent-hi dispositius NAS i servidors multimèdia.<br><br>
+Everdisk també és un client per a altres dispositius de la teva xarxa. Pots trobar i connectar-te a servidors <strong>DLNA</strong>, <strong>WebDAV</strong>, <strong>FTP</strong> i <strong>SFTP</strong>, inclosos dispositius NAS i servidors multimèdia.<br><br>
 
-Un cop connectat, pots explorar les seves carpetes, transmetre àudio i vídeo, baixar fitxers, i crear carpetes, pujar, canviar el nom, moure o eliminar quan el servidor ho permet.
+Un cop connectat, pots explorar les seves carpetes, reproduir àudio i vídeo, baixar arxius, i crear carpetes, pujar, canviar de nom, moure o eliminar quan el servidor ho permeti.
 {{% /details %}}
 
 {{% details title="Puc escanejar documents i treballar amb PDF?" closed="true" %}}
-Sí. Everdisk pot escanejar documents en paper amb la teva càmera - troba les vores automàticament, endreça cada pàgina, i les desa com un PDF net de diverses pàgines directament al teu dispositiu.<br><br>
+Sí. Everdisk pot escanejar documents en paper amb la càmera - troba les vores automàticament, endreça cada pàgina i les desa com un PDF net de diverses pàgines directament al teu dispositiu.<br><br>
 
-També pots obrir un PDF (o una foto) i <strong>anotar-lo</strong> directament al visor integrat - dibuixar, ressaltar, afegir text i formes, i afegir una signatura amb el dit - i els teus canvis es desen de nou al fitxer.<br><br>
+També pots obrir un PDF (o una foto) i <strong>anotar-lo</strong> directament al visor integrat - dibuixa, ressalta, afegeix text i formes, i afegeix una signatura amb el dit - i els teus canvis es desen de nou a l'arxiu.<br><br>
 
-A més, Everdisk inclou un conjunt complet d'<strong>eines PDF</strong>, obert des del menú <strong>•••</strong> d'un PDF al navegador de Fitxers:<br>
-• <strong>Comprimir</strong> - redueix un PDF, amb una mida estimada mostrada abans de desar.<br>
-• <strong>Reconeixement de text (OCR)</strong> - converteix un escaneig en un PDF que es pot cercar, o exporta el text a un fitxer .txt.<br>
-• <strong>Contrasenya</strong> - estableix, canvia o treu la contrasenya necessària per obrir el PDF.<br>
-• <strong>Permisos</strong> - revisa el que permet el PDF (impressió, còpia, i més).<br>
+A més, Everdisk inclou un conjunt complet d'<strong>eines PDF</strong>, que s'obren des del menú <strong>•••</strong> d'un PDF al navegador d'arxius:<br>
+• <strong>Comprimir</strong> - redueix un PDF, amb una mida estimada abans de desar.<br>
+• <strong>Reconeixement de text (OCR)</strong> - converteix un escaneig en un PDF cercable, o exporta el text a un arxiu .txt.<br>
+• <strong>Contrasenya</strong> - posa, canvia o treu la contrasenya necessària per obrir el PDF.<br>
+• <strong>Permisos</strong> - revisa què permet el PDF (imprimir, copiar i més).<br>
 • <strong>Editar metadades</strong> - canvia o esborra el títol, l'autor, les paraules clau i altra informació del document.<br>
-• <strong>Aplanar</strong> - fixa les anotacions i les entrades de formulari a la pàgina perquè no es puguin canviar.
+• <strong>Aplanar</strong> - fixa les anotacions i les entrades de formulari a la pàgina perquè no es puguin modificar.
 {{% /details %}}
 
 {{% details title="Everdisk és privat i segur?" closed="true" %}}
-Tot es queda a la teva xarxa local i mai toca internet, així que els teus fitxers mai surten de casa. No hi ha comptes ni núvol pel mig.<br><br>
+Tot es queda a la teva xarxa local i mai no toca internet, de manera que els teus arxius no surten mai de casa. No hi ha comptes ni núvol pel mig.<br><br>
 
-Pots protegir l'accés amb un usuari i contrasenya perquè els dispositius connectats hagin d'introduir les mateixes dades abans de poder veure els teus fitxers, i pots bloquejar qualsevol dispositiu de la teva xarxa amb un sol toc. Per a la millor privadesa, activa la compartició només mentre estiguis connectat a una xarxa Wi-Fi que coneguis i en què confiïs.
+Pots protegir l'accés amb un usuari i contrasenya perquè els dispositius connectats hagin d'introduir les mateixes dades abans de poder veure els teus arxius, i pots bloquejar qualsevol dispositiu de la teva xarxa amb un sol toc. Per a la màxima privadesa, activa la compartició només mentre estiguis connectat a una xarxa Wi-Fi que coneguis i en què confiïs.
 {{% /details %}}
 
-{{% details title="Què puc fer amb el gestor de fitxers?" closed="true" %}}
-Everdisk inclou un gestor de fitxers complet per a tot el teu dispositiu.<br><br>
+{{% details title="Què puc fer amb el gestor d'arxius?" closed="true" %}}
+Everdisk inclou un gestor d'arxius complet per a tot el que hi ha al teu dispositiu.<br><br>
 
-Pots explorar en llista o quadrícula, crear carpetes, canviar el nom, moure, copiar, comprimir i descomprimir, i eliminar. També pots connectar carpetes de qualsevol lloc del teu dispositiu i treballar amb elles directament a l'aplicació, i després compartir-les per la xarxa juntament amb la resta.
+Pots explorar en llista o graella, crear carpetes, canviar de nom, moure, copiar, comprimir i descomprimir, i eliminar. També pots connectar carpetes de qualsevol lloc del teu dispositiu i treballar-hi directament a l'app, i després compartir-les per la xarxa juntament amb tota la resta.
 {{% /details %}}
 
-{{% details title="Puc reproduir música dins de l'aplicació?" closed="true" %}}
-Sí. Toca qualsevol fitxer d'àudio i es reprodueix al mini reproductor que es queda a la part inferior de la pantalla mentre continues explorant.<br><br>
+{{% details title="Puc reproduir música dins de l'app?" closed="true" %}}
+Sí. Toca qualsevol arxiu d'àudio i es reproduirà al mini reproductor que es queda a la part inferior de la pantalla mentre continues explorant.<br><br>
 
-El mini reproductor té una cua completa amb ordre aleatori i repetició (desactivada, tot, o una), i controls a la pantalla de bloqueig i amb tecles multimèdia que mostren el títol, l'artista i l'àlbum reals. Toca o llisca cap amunt per obrir el reproductor complet, i llisca cap avall per reduir-lo mentre l'àudio continua sonant. En tocar una pista d'una carpeta es reprodueix tota la carpeta com a cua.<br><br>
+El mini reproductor té una cua completa amb reproducció aleatòria i repetició (desactivada, tot o una), i controls a la pantalla de bloqueig i de tecles multimèdia que mostren el títol, l'artista i l'àlbum reals. Toca o llisca amunt per obrir el reproductor complet, i llisca avall per reduir-lo mentre l'àudio continua sonant. Si toques una cançó d'una carpeta, es reprodueix tota la carpeta com una cua.<br><br>
 
-L'àudio es reprodueix des dels teus fitxers locals, carpetes connectades, la teva biblioteca de Música, i els servidors als quals et connectes a la pestanya Dispositius.
+L'àudio es reprodueix des dels teus arxius locals, carpetes connectades, la teva biblioteca de Música i els servidors als quals et connectes a la pestanya Dispositius.
 {{% /details %}}
 
-{{% details title="Puc veure vídeos a l'aplicació?" closed="true" %}}
-Sí. Toca un vídeo per reproduir-lo a pantalla completa. Everdisk utilitza el reproductor de vídeo integrat del sistema, així obtens els controls familiars, incloent-hi AirPlay, Picture in Picture, i velocitat de reproducció.<br><br>
+{{% details title="Puc veure vídeos a l'app?" closed="true" %}}
+Sí. Toca un vídeo per reproduir-lo a pantalla completa. Everdisk fa servir el reproductor de vídeo integrat del sistema, així que tens els controls habituals, inclosos AirPlay, Picture in Picture i la velocitat de reproducció.<br><br>
 
-Els vídeos es reprodueixen des dels teus fitxers locals i carpetes connectades, o es transmeten directament des d'un dispositiu al qual et connectes a la pestanya Dispositius, així que no has de baixar tot el fitxer primer.
+Els vídeos es reprodueixen des dels teus arxius locals i carpetes connectades, o es transmeten directament des d'un dispositiu al qual et connectes a la pestanya Dispositius, de manera que no cal baixar tot l'arxiu abans.
 {{% /details %}}
 
 {{% details title="Com veig les meves fotos?" closed="true" %}}
-Obre la pestanya Documents i canvia al mode Fotos per explorar les teves fotos i vídeos. Toca una foto per obrir-la a pantalla completa, on pots fer zoom, lliscar entre fotos, i compartir.<br><br>
+Obre la pestanya Documents i canvia al mode Fotos per explorar les teves fotos i vídeos. Toca una foto per obrir-la a pantalla completa, on pots fer zoom, lliscar entre fotos i compartir.<br><br>
 
-Les teves fotos també mostren miniatures de vista prèvia reals en una TV per DLNA i en un navegador web, on s'obren en una galeria a pantalla completa amb lliscament, pessic per fer zoom, i una presentació de diapositives. Les fotos i vídeos que tenen dades d'ubicació mostren un mapa amb un marcador a la seva pantalla d'Informació.
+Les teves fotos també mostren miniatures de previsualització reals en un televisor per DLNA i en un navegador web, on s'obren en una galeria a pantalla completa amb lliscament, zoom amb els dits i presentació de diapositives. Les fotos i vídeos que tenen dades d'ubicació mostren un mapa amb un marcador a la seva pantalla d'informació.
 {{% /details %}}
 
 </div>
@@ -459,26 +459,26 @@ Les teves fotos també mostren miniatures de vista prèvia reals en una TV per D
 
 <div class="hx:w-full hx:mx-auto hx:flex hx:flex-col hx:items-center hx:text-center">
   {{< hextra/info-paragraph border="false" >}}
-  Aquesta guia t'ajudarà a treure el màxim profit d'Everdisk al teu iPhone i iPad. Aprèn com convertir el teu dispositiu en una unitat sense fils, connectar una TV, un ordinador o un navegador, arribar als teus propis servidors, gestionar i reproduir els teus fitxers, i mantenir-ho tot privat a la teva xarxa local.
+  Aquesta guia t'ajudarà a treure el màxim partit d'Everdisk al teu iPhone i iPad. Aprèn a convertir el teu dispositiu en una unitat sense fils, connectar un televisor, un ordinador o un navegador, arribar als teus propis servidors, gestionar i reproduir els teus arxius, i mantenir-ho tot privat a la teva xarxa local.
   {{< /hextra/info-paragraph >}}
 </div>
 
 {{< cards >}}
-  {{< feature-card icon="play" title="Compartició" subtitle="Toca Comença, tria què compartir, i executa els quatre servidors alhora." link="/docs/guide/everdisk/everdisk-guide-sharing" >}}
+  {{< feature-card icon="play" title="Compartir" subtitle="Toca Iniciar, tria què vols compartir i fes funcionar els quatre servidors alhora." link="/docs/guide/everdisk/everdisk-guide-sharing" >}}
 
-  {{< feature-card icon="desktop-computer" title="Connecta els teus dispositius" subtitle="Com es connecta als teus fitxers una TV, un Mac o PC, un navegador, un altre telèfon, o un cable USB." link="/docs/guide/everdisk/everdisk-guide-connect" >}}
+  {{< feature-card icon="desktop-computer" title="Connecta els teus dispositius" subtitle="Com es connecten als teus arxius un televisor, un Mac o PC, un navegador, un altre telèfon o un cable USB." link="/docs/guide/everdisk/everdisk-guide-connect" >}}
 
-  {{< feature-card icon="server" title="Connecta a servidors" subtitle="Arriba a servidors DLNA, WebDAV, FTP i SFTP i unitats NAS per explorar, transmetre i baixar." link="/docs/guide/everdisk/everdisk-guide-devices" >}}
+  {{< feature-card icon="server" title="Connecta't a servidors" subtitle="Arriba a servidors DLNA, WebDAV, FTP i SFTP i unitats NAS per explorar, reproduir i baixar." link="/docs/guide/everdisk/everdisk-guide-devices" >}}
 
-  {{< feature-card icon="folder" title="Fitxers i documents" subtitle="Explora, organitza, comprimeix i descomprimeix, connecta carpetes externes, i escaneja documents a PDF." link="/docs/guide/everdisk/everdisk-guide-files" >}}
+  {{< feature-card icon="folder" title="Arxius i documents" subtitle="Explora, organitza, comprimeix i descomprimeix, connecta carpetes externes i escaneja documents a PDF." link="/docs/guide/everdisk/everdisk-guide-files" >}}
 
-  {{< feature-card icon="music-note" title="Fotos, música i vídeo" subtitle="Comparteix tota la teva biblioteca, reprodueix àudio al mini reproductor, i mira vídeo a pantalla completa." link="/docs/guide/everdisk/everdisk-guide-media" >}}
+  {{< feature-card icon="music-note" title="Fotos, música i vídeo" subtitle="Comparteix tota la teva biblioteca, reprodueix àudio al mini reproductor i mira vídeo a pantalla completa." link="/docs/guide/everdisk/everdisk-guide-media" >}}
 
-  {{< feature-card icon="lock-closed" title="Accés i privadesa" subtitle="Afegeix una contrasenya, controla l'edició, bloqueja dispositius, i mantén-ho tot a la teva xarxa." link="/docs/guide/everdisk/everdisk-guide-access" >}}
+  {{< feature-card icon="lock-closed" title="Accés i privadesa" subtitle="Afegeix una contrasenya, controla l'edició, bloqueja dispositius i mantén-ho tot a la teva xarxa." link="/docs/guide/everdisk/everdisk-guide-access" >}}
 
-  {{< feature-card icon="adjustments" title="Configuració" subtitle="Cada configuració explicada, des del perfil del dispositiu i els ports fins a la qualitat i les transferències." link="/docs/guide/everdisk/everdisk-guide-settings" >}}
+  {{< feature-card icon="adjustments" title="Configuració" subtitle="Cada opció explicada, des del perfil del dispositiu i els ports fins a la qualitat i les transferències." link="/docs/guide/everdisk/everdisk-guide-settings" >}}
 
-  {{< feature-card icon="question-mark-circle" title="Preguntes freqüents" subtitle="Respostes ràpides a preguntes habituals i escenaris del món real." link="/docs/faq/everdisk" >}}
+  {{< feature-card icon="question-mark-circle" title="Preguntes freqüents" subtitle="Respostes ràpides a preguntes habituals i situacions reals." link="/docs/faq/everdisk" >}}
 
 {{< /cards >}}
 

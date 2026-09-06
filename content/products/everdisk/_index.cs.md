@@ -1,13 +1,13 @@
 ---
 date: '2026-08-20T12:00:00+00:00'
-title: 'Everdisk - Proměňte svůj iPhone a iPad v bezdrátový disk'
+title: 'Everdisk - Proměňte iPhone a iPad v bezdrátový disk'
 layout: hextra-home
-description: "Proměňte svůj iPhone nebo iPad v bezdrátový disk a sdílejte soubory, fotky, videa a hudbu s jakýmkoli zařízením přes DLNA, HTTP, WebDAV a FTP. Bez cloudu."
-keywords: ["Everdisk", "bezdrátový disk iPhone", "sdílení souborů iPhone", "WebDAV server iOS", "DLNA server iPhone", "FTP server iOS", "streamování do TV z iPhone", "síťový disk iPhone", "přenos souborů USB iPhone", "správce souborů iOS", "skenování dokumentů do PDF", "sdílení fotek přes síť"]
+description: "Proměňte svůj iPhone nebo iPad v bezdrátový disk a sdílejte soubory, fotky, videa a hudbu s jakýmkoli zařízením přes DLNA, HTTP, WebDAV a FTP. Žádný cloud není potřeba."
+keywords: ["Everdisk", "bezdrátový disk iPhone", "sdílení souborů iPhone", "WebDAV server iOS", "DLNA server iPhone", "FTP server iOS", "streamování do TV z iPhonu", "síťový disk iPhone", "přenos souborů přes USB iPhone", "správce souborů iOS", "skenování dokumentů do PDF", "sdílení fotek po síti"]
 tags: ["Everdisk", "bezdrátový disk", "sdílení souborů", "DLNA", "WebDAV", "FTP", "SFTP", "síťový disk", "aplikace pro iPhone", "aplikace pro iPad", "aplikace pro Mac", "správce souborů", "mediální server"]
 appStoreUrl: "https://apps.apple.com/app/apple-store/id6751851132?pt=95781850&ct=everappzcom&mt=8"
 appStoreId: "6751851132"
-features: "Bezdrátový disk přes Wi-Fi a USB, Čtyři servery najednou (DLNA, HTTP, WebDAV, FTP), Streamování do chytrých TV přes DLNA, Otevření v jakémkoli webovém prohlížeči, Připojení jako síťový disk ve Finderu/Windows/Linux, Připojení k serverům DLNA/WebDAV/FTP/SFTP, Vestavěný správce souborů se zip/unzip, Skenování dokumentů do PDF, Značkování a podepisování PDF a fotek, Nástroje PDF (komprese, OCR rozpoznávání textu, ochrana heslem, oprávnění, metadata, sloučení), Fotogalerie a přehrávač médií, Sdílení celé knihovny fotek a hudby, Ochrana heslem a blokování zařízení"
+features: "Bezdrátový disk přes Wi-Fi a USB, Čtyři servery najednou (DLNA, HTTP, WebDAV, FTP), Streamování do chytrých TV přes DLNA, Otevření v jakémkoli webovém prohlížeči, Připojení jako síťový disk ve Finderu, Windows a Linuxu, Připojení k serverům DLNA/WebDAV/FTP/SFTP, Vestavěný správce souborů se zabalením a rozbalením zip, Skenování dokumentů do PDF, Označování a podpis PDF a fotek, Nástroje pro PDF (komprese, rozpoznávání textu OCR, ochrana heslem, oprávnění, metadata, sloučení vrstev), Fotogalerie a přehrávač médií, Sdílení celé knihovny fotek a hudby, Ochrana heslem a blokování zařízení"
 screenshots:
   - "https://everappz.com/products/everdisk/screenshots/browser_access.png"
   - "https://everappz.com/products/everdisk/screenshots/connect_to_servers.png"
@@ -16,7 +16,7 @@ screenshots:
 ---
 
 {{% sr-only %}}
-Everdisk je aplikace bezdrátového disku pro iPhone a iPad vyvinutá společností Everappz. Promění vaše zařízení v centrum, které sdílí soubory, fotky, videa a hudbu s čímkoli ve vaší místní síti, bez účtů, bez cloudu a bez nutnosti instalovat na druhé straně jakoukoli další aplikaci. Aplikace spouští čtyři servery současně - DLNA pro chytré TV a mediální přehrávače, HTTP pro jakýkoli webový prohlížeč, WebDAV pro Finder, Windows a Linux a FTP pro souborové aplikace a pokročilé uživatele - takže se každé zařízení připojí tak, jak mu vyhovuje. Můžete streamovat fotky, videa a hudbu přímo do chytrých TV přes DLNA s náhledovými miniaturami, sdílet jednoduchý odkaz, který se otevře v jakémkoli prohlížeči k procházení a stahování vašich souborů, nebo připojit své zařízení jako síťový disk a přetahovat soubory oběma směry. Když není Wi-Fi, můžete se připojit k Macu USB kabelem a přesouvat soubory rychleji než přes Wi-Fi, i v letadle nebo v uzamčené síti. Everdisk se také připojuje k serverům DLNA, WebDAV, FTP a SFTP ve vaší síti k procházení, streamování a stahování jejich souborů. Vestavěný správce souborů umožňuje procházet v seznamu nebo mřížce, vytvářet složky, přejmenovávat, přesouvat, kopírovat, komprimovat a rozbalovat a mazat. Můžete skenovat papírové dokumenty do čistých PDF, otevřít PDF nebo fotku a značkovat je vestavěným editorem - kreslit, zvýrazňovat, přidávat text a podpis, se změnami uloženými zpět do souboru - a použít kompletní sadu nástrojů PDF ke kompresi souborů, rozpoznání textu (OCR) do prohledávatelného PDF, přidání nebo odebrání hesla pro otevření, kontrole oprávnění, úpravě metadat dokumentu a sloučení anotací a formulářových polí. Můžete také přehrávat zvuk v mini přehrávači a sledovat videa na celou obrazovku a sdílet celou svou knihovnu fotek a hudby přes síť v původní kvalitě nebo v kompatibilnějším formátu. Vše zůstává ve vaší místní síti a nikdy se nedotkne internetu a přístup můžete chránit přihlašovacím jménem a heslem a jedním klepnutím zablokovat jakékoli zařízení. Everdisk je ke stažení zdarma na App Store s volitelným jednorázovým nákupem Premium Lifetime.
+Everdisk je aplikace bezdrátového disku pro iPhone a iPad od společnosti Everappz. Promění vaše zařízení v centrum, které sdílí soubory, fotky, videa a hudbu s čímkoli ve vaší místní síti, a to bez účtů, bez cloudu a bez nutnosti instalovat na druhé straně další aplikaci. Aplikace provozuje čtyři servery najednou - DLNA pro chytré TV a přehrávače médií, HTTP pro jakýkoli webový prohlížeč, WebDAV pro Finder, Windows a Linux a FTP pro souborové aplikace a pokročilé uživatele - takže se každé zařízení připojí tak, jak mu to vyhovuje. Fotky, videa a hudbu můžete streamovat přímo do chytrých TV přes DLNA s náhledovými miniaturami, sdílet jednoduchý odkaz, který se otevře v libovolném prohlížeči a umožní procházet a stahovat vaše soubory, nebo připojit své zařízení jako síťový disk a přetahovat soubory oběma směry. Když není Wi-Fi, můžete se připojit k Macu USB kabelem a přenášet soubory rychleji než přes Wi-Fi, třeba i v letadle nebo v zamčené síti. Everdisk se také připojuje k serverům DLNA, WebDAV, FTP a SFTP ve vaší síti, abyste mohli procházet, streamovat a stahovat jejich soubory. Vestavěný správce souborů umožňuje procházet v seznamu nebo mřížce, vytvářet složky, přejmenovávat, přesouvat, kopírovat, zabalit a rozbalit zip a mazat. Papírové dokumenty můžete naskenovat do úhledných PDF, otevřít PDF nebo fotku a označit je vestavěným editorem - kreslit, zvýrazňovat, přidávat text a podpis, přičemž se změny uloží zpět do souboru - a využít kompletní sadu nástrojů pro PDF ke komprimaci souborů, rozpoznání textu (OCR) do prohledávatelného PDF, přidání nebo odebrání hesla pro otevření, kontrole oprávnění, úpravě metadat dokumentu a sloučení anotací a polí formuláře. Zvuk můžete přehrávat v mini přehrávači a videa sledovat na celou obrazovku a celou svou knihovnu fotek a hudby sdílet po síti v původní kvalitě nebo v kompatibilnějším formátu. Vše zůstává ve vaší místní síti a nikdy se nedostane na internet, přístup můžete chránit přihlašovacím jménem a heslem a jakékoli zařízení zablokovat jediným klepnutím. Everdisk si stáhnete zdarma z App Store s volitelným jednorázovým nákupem Premium Lifetime.
 {{% /sr-only %}}
 
 <!-- <body class="hx:bg-transparent" style="background: radial-gradient(ellipse at 50% 80%, rgba(59,130,246,0.05), hsla(0,0%,100%,0));"> -->
@@ -35,7 +35,7 @@ Everdisk je aplikace bezdrátového disku pro iPhone a iPad vyvinutá společnos
 <div class="hx:mt-4 hx:mr-4">
 {{< hextra/hero-badge link="https://apps.apple.com/app/apple-store/id6751851132?pt=95781850&ct=everappzcom&mt=8" >}}
   <div class="hx:w-2 hx:h-2 hx:rounded-full hx:bg-primary-400"></div>
-  <span>Novinka na App Store</span>
+  <span>Novinka v App Store</span>
     {{< icon name="arrow-circle-right" attributes="height=14" >}}
 {{< /hextra/hero-badge >}}
 </div>
@@ -57,15 +57,15 @@ Proměňte svůj iPhone nebo iPad v bezdrátový disk&nbsp;<br class="hx:sm:bloc
 
 <div class="hx:mb-6">
 {{< hextra/hero-paragraph >}}
-• Klepněte na Start a sdílejte čtyřmi způsoby najednou: DLNA, HTTP, WebDAV a FTP  
+• Klepněte na Spustit a sdílejte čtyřmi způsoby najednou: DLNA, HTTP, WebDAV a FTP  
 • Streamujte fotky, videa a hudbu přímo do chytrých TV přes DLNA  
-• Připojte své zařízení jako síťový disk ve Finderu, Windows nebo Linux  
-• Není Wi-Fi? Přesouvejte soubory přes USB kabel, rychleji než bezdrátově  
+• Připojte své zařízení jako síťový disk ve Finderu, Windows nebo Linuxu  
+• Bez Wi-Fi? Přenášejte soubory přes USB kabel, rychleji než bezdrátově  
 {{< /hextra/hero-paragraph >}}
 </div>
 
 {{< hextra/hero-button 
-  text="Stáhnout na App Store"
+  text="Download on the App Store"
   link="https://apps.apple.com/app/apple-store/id6751851132?pt=95781850&ct=everappzcom&mt=8"
   icon="device-mobile" 
   style="margin-top:1rem;margin-right:1rem;"
@@ -82,43 +82,43 @@ Proměňte svůj iPhone nebo iPad v bezdrátový disk&nbsp;<br class="hx:sm:bloc
 {{< hextra/feature-grid >}}
 
   {{< hextra/feature-card
-    title="Vaše zařízení se stane diskem"
-    subtitle="Klepněte na Start a váš iPhone nebo iPad se promění v bezdrátový disk. Everdisk spouští čtyři servery současně - DLNA, HTTP, WebDAV a FTP - takže se chytré TV, počítače, webové prohlížeče a souborové aplikace připojí každý tak, jak mu vyhovuje. Bez účtů, bez cloudu a bez nutnosti cokoli dalšího instalovat na druhé straně."
+    title="Z vašeho zařízení je disk"
+    subtitle="Klepněte na Spustit a váš iPhone nebo iPad se promění v bezdrátový disk. Everdisk provozuje čtyři servery najednou - DLNA, HTTP, WebDAV a FTP - takže se chytré TV, počítače, webové prohlížeče i souborové aplikace připojí tak, jak jim to vyhovuje. Žádné účty, žádný cloud a na druhé straně není potřeba nic instalovat."
     icon="server"
     style="background: radial-gradient(ellipse at 50% 80%, rgba(34,197,94,0.15), hsla(0,0%,100%,0));"
   >}}
 
   {{< hextra/feature-card
     title="Sledujte na své TV"
-    subtitle="Streamujte fotky, videa a hudbu přímo do chytrých TV a mediálních přehrávačů přes DLNA. Vaše knihovna se na TV objeví sama, s náhledovými miniaturami, takže si ji můžete užít na velké obrazovce bez jakýchkoli kabelů nebo dalších aplikací."
+    subtitle="Streamujte fotky, videa a hudbu přímo do chytrých TV a přehrávačů médií přes DLNA. Vaše knihovna se na TV objeví sama, s náhledovými miniaturami, takže si ji vychutnáte na velké obrazovce bez kabelů a dalších aplikací."
     icon="desktop-computer"
     style="background: radial-gradient(ellipse at 50% 80%, rgba(234,88,12,0.15), hsla(0,0%,100%,0));"
   >}}
 
   {{< hextra/feature-card
-    title="Otevřete v jakémkoli webovém prohlížeči"
-    subtitle="Sdílejte jednoduchý odkaz a druhá osoba jej jen otevře v prohlížeči. Může procházet vaše soubory v přehledné mřížce nebo seznamu, prohlížet fotky v galerii na celou obrazovku, přehrávat hudbu ve vestavěném přehrávači a cokoli stáhnout - bez nutnosti cokoli instalovat."
+    title="Otevřete v jakémkoli prohlížeči"
+    subtitle="Sdílejte jednoduchý odkaz a druhá strana ho jen otevře v prohlížeči. Může procházet vaše soubory v přehledné mřížce nebo seznamu, prohlížet fotky v galerii na celou obrazovku, přehrávat hudbu ve vestavěném přehrávači a cokoli stáhnout - bez jakékoli instalace."
     icon="globe-alt"
     style="background: radial-gradient(ellipse at 50% 80%, rgba(251,191,36,0.15), hsla(0,0%,100%,0));"
   >}}
 
   {{< hextra/feature-card
-    title="Použijte jej jako síťový disk"
-    subtitle="Připojte se z Finderu na Macu, z Windows nebo z Linuxu přes WebDAV a vaše zařízení se objeví jako běžný síťový disk. Přetahujte oběma směry: kopírujte soubory z počítače do zařízení nebo je stahujte zpět."
+    title="Používejte jako síťový disk"
+    subtitle="Připojte se z Finderu na Macu, z Windows nebo z Linuxu přes WebDAV a vaše zařízení se zobrazí jako běžný síťový disk. Přetahujte soubory oběma směry: kopírujte je z počítače do zařízení nebo je zase stáhněte zpět."
     icon="folder"
     style="background: radial-gradient(ellipse at 50% 80%, rgba(59,130,246,0.15), hsla(0,0%,100%,0));"
   >}}
 
   {{< hextra/feature-card
-    title="Není Wi-Fi? Použijte kabel"
-    subtitle="Připojte své zařízení k Macu stejným USB kabelem, kterým jej nabíjíte. Soubory se přesouvají přímo přes kabel, rychleji než přes Wi-Fi, a funguje to i v letadle, v hotelu nebo v jakékoli uzamčené síti, kde je Wi-Fi blokována."
+    title="Bez Wi-Fi? Použijte kabel"
+    subtitle="Připojte své zařízení k Macu stejným USB kabelem, kterým ho nabíjíte. Soubory jdou přímo přes kabel, rychleji než přes Wi-Fi, a funguje to i v letadle, v hotelu nebo v jakékoli zamčené síti, kde je Wi-Fi blokovaná."
     icon="lightning-bolt"
     style="background: radial-gradient(ellipse at 50% 80%, rgba(192,38,211,0.15), hsla(0,0%,100%,0));"
   >}}
 
   {{< hextra/feature-card
-    title="Připojte se k jiným zařízením"
-    subtitle="Najděte a připojte se k serverům DLNA, WebDAV, FTP a SFTP ve vaší síti. Procházejte jejich složky, streamujte zvuk a video, stahujte soubory a vytvářejte složky, nahrávejte, přejmenovávejte, přesouvejte nebo mažte, když to server umožňuje."
+    title="Připojte se k dalším zařízením"
+    subtitle="Najděte a připojte se k serverům DLNA, WebDAV, FTP a SFTP ve vaší síti. Procházejte jejich složky, streamujte zvuk i video, stahujte soubory a vytvářejte složky, nahrávejte, přejmenovávejte, přesouvejte nebo mažte, pokud to server umožňuje."
     icon="cloud-download"
     style="background: radial-gradient(ellipse at 50% 80%, rgba(6,182,212,0.15), hsla(0,0%,100%,0));"
   >}}
@@ -145,7 +145,7 @@ Proměňte svůj iPhone nebo iPad v bezdrátový disk&nbsp;<br class="hx:sm:bloc
     title="Přístup přes prohlížeč" 
     method="Fill"
     options="1030x400 q82 webp Center"
-    subtitle="Sdílejte odkaz a nechte kohokoli procházet, prohlížet a stahovat vaše soubory z jakéhokoli webového prohlížeče. Na druhé straně není nutné nic instalovat." 
+    subtitle="Sdílejte odkaz a nechte kohokoli procházet, prohlížet a stahovat vaše soubory z libovolného webového prohlížeče. Na druhé straně není potřeba nic instalovat." 
   >}}
 
   {{< feature-card 
@@ -154,7 +154,7 @@ Proměňte svůj iPhone nebo iPad v bezdrátový disk&nbsp;<br class="hx:sm:bloc
     title="Připojení k serverům" 
     method="Fill"
     options="1030x400 q82 webp Center"
-    subtitle="Objevte a připojte se k serverům DLNA, WebDAV, FTP a SFTP ve vaší síti k procházení, streamování a stahování jejich souborů." 
+    subtitle="Objevujte a připojujte se k serverům DLNA, WebDAV, FTP a SFTP ve vaší síti a procházejte, streamujte a stahujte jejich soubory." 
   >}}
 
   {{< feature-card 
@@ -163,7 +163,7 @@ Proměňte svůj iPhone nebo iPad v bezdrátový disk&nbsp;<br class="hx:sm:bloc
     title="Správce souborů" 
     method="Fill"
     options="1030x400 q82 webp Center"
-    subtitle="Spravujte vše ve svém zařízení: procházejte v seznamu nebo mřížce, vytvářejte složky, přejmenovávejte, přesouvejte, kopírujte, komprimujte a rozbalujte a mažte." 
+    subtitle="Spravujte vše ve svém zařízení: procházejte v seznamu nebo mřížce, vytvářejte složky, přejmenovávejte, přesouvejte, kopírujte, balte a rozbalujte zip a mažte." 
   >}}
 
   {{< feature-card 
@@ -172,7 +172,7 @@ Proměňte svůj iPhone nebo iPad v bezdrátový disk&nbsp;<br class="hx:sm:bloc
     title="Přehrávání v aplikaci" 
     method="Fill"
     options="1030x400 q82 webp Center"
-    subtitle="Poslouchejte své místní skladby nebo streamujte z připojených zařízení, s frontou mini přehrávače a přehráváním videa na celou obrazovku." 
+    subtitle="Poslouchejte své místní skladby nebo streamujte z připojených zařízení, s frontou v mini přehrávači a přehráváním videa na celou obrazovku." 
   >}}
 
   {{< feature-card 
@@ -181,7 +181,7 @@ Proměňte svůj iPhone nebo iPad v bezdrátový disk&nbsp;<br class="hx:sm:bloc
     title="Sdílejte svou knihovnu" 
     method="Fill"
     options="1030x400 q82 webp Center"
-    subtitle="Zapněte celou svou knihovnu fotek a hudby a každé album i skladba budou dostupné přes síť v původní kvalitě." 
+    subtitle="Zapněte celou svou knihovnu fotek a hudby a každé album i skladba se zpřístupní po síti v původní kvalitě." 
   >}} 
 
   {{< feature-card 
@@ -190,7 +190,7 @@ Proměňte svůj iPhone nebo iPad v bezdrátový disk&nbsp;<br class="hx:sm:bloc
     title="Fotogalerie" 
     method="Fill"
     options="1030x400 q82 webp Center"
-    subtitle="Skutečné náhledové miniatury na TV i v prohlížeči, plus fotogalerie na celou obrazovku s posouváním a přiblížením - žádné prosté ikony." 
+    subtitle="Skutečné náhledové miniatury na TV i v prohlížeči a k tomu fotogalerie na celou obrazovku s přejížděním a přiblížením - žádné obyčejné ikony." 
   >}}
 
 {{< /cards >}}
@@ -209,47 +209,47 @@ Proměňte svůj iPhone nebo iPad v bezdrátový disk&nbsp;<br class="hx:sm:bloc
 
 {{< cards >}}
 
-  {{< feature-card title="Čtyři servery najednou" subtitle="Klepněte na Start a sdílejte své soubory čtyřmi způsoby současně: DLNA pro TV a mediální přehrávače, HTTP pro jakýkoli webový prohlížeč, WebDAV pro Finder, Windows a Linux a FTP pro souborové aplikace a pokročilé uživatele." icon="wifi" >}}
+  {{< feature-card title="Čtyři servery najednou" subtitle="Klepněte na Spustit a sdílejte své soubory čtyřmi způsoby zároveň: DLNA pro TV a přehrávače médií, HTTP pro jakýkoli webový prohlížeč, WebDAV pro Finder, Windows a Linux a FTP pro souborové aplikace a pokročilé uživatele." icon="wifi" >}}
 
-  {{< feature-card title="Streamování do chytrých TV" subtitle="Posílejte fotky, videa a hudbu přímo do chytrých TV a mediálních přehrávačů přes DLNA. Vaše knihovna se na TV objeví sama, s náhledovými miniaturami, připravená pro velkou obrazovku." icon="desktop-computer" >}}
+  {{< feature-card title="Streamování do chytrých TV" subtitle="Posílejte fotky, videa a hudbu přímo do chytrých TV a přehrávačů médií přes DLNA. Vaše knihovna se na TV objeví sama, s náhledovými miniaturami, připravená pro velkou obrazovku." icon="desktop-computer" >}}
 
-  {{< feature-card title="Sdílení přes webový prohlížeč" subtitle="Sdílejte odkaz a druhá strana jej jen otevře v prohlížeči k procházení vašich souborů v mřížce nebo seznamu, prohlížení fotek na celou obrazovku, přehrávání hudby a stahování čehokoli - bez nutnosti instalace." icon="globe-alt" >}}
+  {{< feature-card title="Sdílení přes webový prohlížeč" subtitle="Sdílejte odkaz a druhá strana ho jen otevře v prohlížeči, aby procházela vaše soubory v mřížce nebo seznamu, prohlížela fotky na celou obrazovku, přehrávala hudbu a cokoli stáhla - bez instalace." icon="globe-alt" >}}
 
-  {{< feature-card title="Síťový disk WebDAV" subtitle="Připojte se z Finderu na Macu, z Windows nebo z Linuxu přes WebDAV a vaše zařízení se objeví jako běžný síťový disk. Přetahujte soubory oběma směry." icon="folder" >}}
+  {{< feature-card title="Síťový disk přes WebDAV" subtitle="Připojte se z Finderu na Macu, z Windows nebo z Linuxu přes WebDAV a vaše zařízení se zobrazí jako běžný síťový disk. Přetahujte soubory oběma směry." icon="folder" >}}
 
-  {{< feature-card title="Přenos přes USB" subtitle="Zapojte do Macu svůj nabíjecí kabel a přesouvejte soubory přímo přes kabel, rychleji než přes Wi-Fi. Funguje to i v letadle, v hotelu nebo v jakékoli uzamčené síti." icon="lightning-bolt" >}}
+  {{< feature-card title="Přenos přes USB" subtitle="Zapojte do Macu svůj nabíjecí kabel a přenášejte soubory přímo přes kabel, rychleji než přes Wi-Fi. Funguje to i v letadle, v hotelu nebo v jakékoli zamčené síti." icon="lightning-bolt" >}}
 
-  {{< feature-card title="Připojení k DLNA, WebDAV, FTP a SFTP" subtitle="Najděte a připojte se k serverům ve vaší síti, procházejte jejich složky, streamujte zvuk a video, stahujte soubory a vytvářejte, nahrávejte, přejmenovávejte, přesouvejte nebo mažte, když je to povoleno." icon="server" >}}
+  {{< feature-card title="Připojení k DLNA, WebDAV, FTP a SFTP" subtitle="Najděte a připojte se k serverům ve vaší síti, procházejte jejich složky, streamujte zvuk i video, stahujte soubory a vytvářejte, nahrávejte, přejmenovávejte, přesouvejte nebo mažte, když je to povoleno." icon="server" >}}
 
-  {{< feature-card title="Vestavěný správce souborů" subtitle="Kompletní správce souborů pro vše ve vašem zařízení. Procházejte v seznamu nebo mřížce, vytvářejte složky, přejmenovávejte, přesouvejte, kopírujte a mažte a připojujte složky odkudkoli z vašeho zařízení." icon="view-grid" >}}
+  {{< feature-card title="Vestavěný správce souborů" subtitle="Kompletní správce souborů pro vše ve vašem zařízení. Procházejte v seznamu nebo mřížce, vytvářejte složky, přejmenovávejte, přesouvejte, kopírujte a mažte a připojujte složky odkudkoli ze zařízení." icon="view-grid" >}}
 
-  {{< feature-card title="Komprese a rozbalení" subtitle="Komprimujte soubory a složky do jednoho archivu ke sdílení nebo uložení a rozbalujte archivy, které obdržíte, přímo ve svém zařízení bez jakýchkoli dalších nástrojů." icon="document-duplicate" >}}
+  {{< feature-card title="Zabalení a rozbalení zip" subtitle="Komprimujte soubory a složky do jednoho archivu pro sdílení nebo uložení a rozbalujte přijaté archivy přímo ve svém zařízení bez dalších nástrojů." icon="document-duplicate" >}}
 
-  {{< feature-card title="Skenování dokumentů do PDF" subtitle="Skenujte papírové dokumenty svým fotoaparátem. Everdisk automaticky najde okraje, narovná každou stránku a uloží je jako čisté PDF, připravené ke sdílení nebo uložení." icon="document-text" >}}
+  {{< feature-card title="Skenování dokumentů do PDF" subtitle="Skenujte papírové dokumenty fotoaparátem. Everdisk sám najde okraje, srovná každou stránku a uloží je jako úhledné PDF, připravené ke sdílení nebo uložení." icon="document-text" >}}
 
-  {{< feature-card title="Značkování a podepisování PDF" subtitle="Otevřete PDF nebo fotku a značkujte je přímo v aplikaci: kreslete, zvýrazňujte, přidávejte text a tvary a podepisujte prstem. Vaše změny se uloží přímo zpět do souboru." icon="pencil-alt" >}}
+  {{< feature-card title="Označování a podpis PDF" subtitle="Otevřete PDF nebo fotku a označte ji přímo v aplikaci: kreslete, zvýrazňujte, přidávejte text a tvary a podepisujte se prstem. Vaše změny se uloží rovnou zpět do souboru." icon="pencil-alt" >}}
 
-  {{< feature-card title="Nástroje PDF" subtitle="Kompletní sada nástrojů PDF přímo v aplikaci: komprimujte soubory, rozpoznávejte text (OCR) do prohledávatelného PDF, nastavte nebo odeberte heslo pro otevření, zkontrolujte oprávnění, upravte metadata dokumentu a slučte anotace a formulářová pole." icon="document-report" >}}
+  {{< feature-card title="Nástroje pro PDF" subtitle="Kompletní sada nástrojů pro PDF přímo v aplikaci: komprimujte soubory, rozpoznávejte text (OCR) do prohledávatelného PDF, nastavte nebo odeberte heslo pro otevření, kontrolujte oprávnění, upravujte metadata dokumentu a slučujte anotace a pole formuláře." icon="document-report" >}}
 
-  {{< feature-card title="Fotogalerie" subtitle="Skutečné náhledové miniatury na TV i v prohlížeči, plus fotogalerie na celou obrazovku s posouváním a přiblížením, takže vždy vidíte obrázek, a ne prostou ikonu." icon="photograph" >}}
+  {{< feature-card title="Fotogalerie" subtitle="Skutečné náhledové miniatury na TV i v prohlížeči a k tomu fotogalerie na celou obrazovku s přejížděním a přiblížením, takže vždy vidíte snímek, a ne obyčejnou ikonu." icon="photograph" >}}
 
-  {{< feature-card title="Audio mini přehrávač" subtitle="Užijte si zvuk v mini přehrávači s frontou, náhodným přehráváním, opakováním a ovládáním na uzamčené obrazovce. Vaše knihovny Fotek a Hudby se přehrávají přímo zde v aplikaci." icon="music-note" >}}
+  {{< feature-card title="Audio mini přehrávač" subtitle="Vychutnejte si zvuk v mini přehrávači s frontou, náhodným přehráváním, opakováním a ovládáním na uzamčené obrazovce. Vaše knihovny Fotky a Hudba se přehrávají přímo tady v aplikaci." icon="music-note" >}}
 
-  {{< feature-card title="Video na celou obrazovku" subtitle="Sledujte svá videa na celou obrazovku, přehrávaná z místních souborů nebo streamovaná přímo z připojeného zařízení, s jednoduchým a známým ovládáním přehrávání." icon="film" >}}
+  {{< feature-card title="Video na celou obrazovku" subtitle="Sledujte svá videa na celou obrazovku, přehraná z místních souborů nebo streamovaná přímo z připojeného zařízení, s jednoduchým a známým ovládáním přehrávání." icon="film" >}}
 
-  {{< feature-card title="Sdílejte celou svou knihovnu" subtitle="Zapněte celou svou knihovnu fotek a hudby a každé album i skladba budou dostupné přes síť v původní kvalitě nebo převedené pro kompatibilitu." icon="share" >}}
+  {{< feature-card title="Sdílejte celou svou knihovnu" subtitle="Zapněte celou svou knihovnu fotek a hudby a každé album i skladba se zpřístupní po síti v původní kvalitě, nebo převedené pro kompatibilitu." icon="share" >}}
 
-  {{< feature-card title="Posílání souborů zpět" subtitle="Funguje to oběma směry. Nahrávejte fotky a dokumenty z jakéhokoli počítače přímo do svého zařízení a přidávejte i celé složky, vše přes stejné připojení." icon="upload" >}}
+  {{< feature-card title="Posílejte soubory zpět" subtitle="Funguje to oběma směry. Nahrávejte fotky a dokumenty z libovolného počítače přímo do svého zařízení a přidávejte i celé složky, vše přes stejné připojení." icon="upload" >}}
 
   {{< feature-card title="Ochrana heslem" subtitle="Chraňte svůj sdílený obsah před neoprávněným přístupem přihlašovacím jménem a heslem, takže připojená zařízení musí zadat stejné údaje, než uvidí vaše soubory." icon="lock-closed" >}}
 
-  {{< feature-card title="Zablokujte jakékoli zařízení" subtitle="Udržte si kontrolu nad tím, kdo se připojuje. Zablokujte jakékoli zařízení ve vaší síti jediným klepnutím, takže se již nedostane k obsahu, který sdílíte." icon="shield-check" >}}
+  {{< feature-card title="Zablokujte jakékoli zařízení" subtitle="Mějte pod kontrolou, kdo se připojuje. Zablokujte jakékoli zařízení ve své síti jediným klepnutím, aby se už nedostalo k obsahu, který sdílíte." icon="shield-check" >}}
 
-  {{< feature-card title="Soukromé a pouze místní" subtitle="Vše zůstává ve vaší místní síti a nikdy se nedotkne internetu. Vaše soubory nikdy neopustí domov a uprostřed nejsou žádné účty ani cloud." icon="eye" >}}
+  {{< feature-card title="Soukromé a jen lokálně" subtitle="Vše zůstává ve vaší místní síti a nikdy se nedostane na internet. Vaše soubory nikdy neopustí domov a mezi nimi není žádný účet ani cloud." icon="eye" >}}
 
-  {{< feature-card title="Původní nebo převedené" subtitle="Ponechte své fotky a videa v původní kvalitě nebo je převeďte do kompatibilnějšího formátu, když to TV, prohlížeč nebo jiné zařízení potřebuje." icon="switch-horizontal" >}}
+  {{< feature-card title="Původní nebo převedené" subtitle="Ponechte si fotky a videa v původní kvalitě, nebo je převeďte do kompatibilnějšího formátu, když to TV, prohlížeč nebo jiné zařízení potřebuje." icon="switch-horizontal" >}}
 
-  {{< feature-card title="Připojení externích složek" subtitle="Připojte složky odkudkoli z vašeho zařízení a pracujte s nimi přímo v aplikaci, poté je sdílejte přes síť spolu se vším ostatním." icon="collection" >}}
+  {{< feature-card title="Připojte externí složky" subtitle="Připojte složky odkudkoli ze svého zařízení a pracujte s nimi přímo v aplikaci, pak je sdílejte po síti spolu se vším ostatním." icon="collection" >}}
 
 {{< /cards >}}
 
@@ -285,13 +285,13 @@ Proměňte svůj iPhone nebo iPad v bezdrátový disk&nbsp;<br class="hx:sm:bloc
     class="pricing-card pricing-free"
     subtitle=`<span class='pricing-details'>• Proměňte své zařízení v bezdrátový disk<br />
 • Čtyři servery najednou: DLNA, HTTP, WebDAV, FTP<br />
-• Streamování do chytrých TV, prohlížečů a počítačů<br />
-• Připojení jako síťový disk a přenos přes USB<br />
+• Streamujte do chytrých TV, prohlížečů a počítačů<br />
+• Připojte jako síťový disk a přenášejte přes USB<br />
 • Sdílejte celou svou knihovnu fotek a hudby<br />
-• Připojení k serverům DLNA, WebDAV, FTP a SFTP<br />
-• Správce souborů se zip a unzip<br />
-• Skenování dokumentů do PDF a kompletní nástroje PDF<br />
-• Značkování a podepisování PDF a fotek<br />
+• Připojte se k serverům DLNA, WebDAV, FTP a SFTP<br />
+• Správce souborů se zabalením a rozbalením zip<br />
+• Skenování dokumentů do PDF a kompletní nástroje pro PDF<br />
+• Označujte a podepisujte PDF a fotky<br />
 • Ochrana heslem a blokování zařízení<br />
 • Až 5 sdílených složek a 10 uložených připojení</span><br /><br />
 <span class='hx:block hx:mt-2 hx:text-center'>
@@ -304,17 +304,17 @@ Proměňte svůj iPhone nebo iPad v bezdrátový disk&nbsp;<br class="hx:sm:bloc
   {{< hextra/feature-card
     title="Premium Lifetime"
     class="pricing-card pricing-lifetime"
-    subtitle=`<span class='pricing-details'>• Vše ze Zdarma<br />
+    subtitle=`<span class='pricing-details'>• Vše z verze Zdarma<br />
 • Neomezené sdílené složky (více než 5)<br />
 • Neomezená uložená připojení (více než 10)<br />
 • Převod fotek a videí do kompatibilního formátu nebo menší velikosti<br />
 • Vlastní porty HTTP, WebDAV a FTP<br />
 • Automatické spuštění sdílení při otevření aplikace<br />
-• Přizpůsobení zařízení: název, ikona avataru, přechod nebo fotka<br />
-• Jednorázový nákup - účtováno jednou, nikdy se neobnovuje</span><br /><br />
+• Přizpůsobení zařízení: název, ikona avatara, přechod nebo fotka<br />
+• Jednorázový nákup - zaplatíte jednou, nikdy se neobnovuje</span><br /><br />
 <span class='hx:block hx:mt-2 hx:text-center'>
   <span class='pricing-btn hx:inline-block hx:rounded-full hx:border hx:border-gray-200 hx:dark:border-neutral-800 hx:px-3 hx:py-1 hx:transition-all hx:duration-200'>
-    <strong>$9.99</strong>/doživotně
+    <strong>$9.99</strong>/trvale
   </span>
 </span>`
   >}}
@@ -341,108 +341,108 @@ Proměňte svůj iPhone nebo iPad v bezdrátový disk&nbsp;<br class="hx:sm:bloc
 
 <div class="hx:w-full">
 {{% details title="Co je Everdisk?" closed="true" %}}
-Everdisk promění váš iPhone nebo iPad v bezdrátový disk a centrum, které se připojuje i k vašim dalším zařízením.<br>
+Everdisk promění váš iPhone nebo iPad v bezdrátový disk a v centrum, které se připojí i k vašim ostatním zařízením.<br>
 Můžete sdílet své soubory, fotky, videa a hudbu s čímkoli ve vaší síti, procházet a streamovat z jiných serverů a spravovat vše přímo ve svém zařízení.<br>
-Nejsou žádné účty, žádný cloud a žádná další aplikace k instalaci na druhé straně - stačí klepnout na Start a jste připraveni.<br><br>
+Žádné účty, žádný cloud a na druhé straně není potřeba instalovat žádnou další aplikaci - stačí klepnout na Spustit a jste připraveni.<br><br>
 
-Aplikace spouští čtyři servery současně, takže se každé zařízení připojí tak, jak mu vyhovuje: chytré TV přes DLNA, počítače a webové prohlížeče přes HTTP, Finder, Windows a Linux přes WebDAV a souborové aplikace přes FTP.
+Aplikace provozuje čtyři servery najednou, takže se každé zařízení připojí tak, jak mu to vyhovuje: chytré TV přes DLNA, počítače a webové prohlížeče přes HTTP, Finder, Windows a Linux přes WebDAV a souborové aplikace přes FTP.
 {{% /details %}}
 
 {{% details title="Jak Everdisk funguje?" closed="true" %}}
-Když klepnete na Start, Everdisk začne sdílet obsah, který jste vybrali, a spustí čtyři servery najednou, aby se různá zařízení mohla připojit tak, jak jim vyhovuje.<br><br>
+Když klepnete na Spustit, Everdisk začne sdílet vybraný obsah a provozuje čtyři servery najednou, aby se různá zařízení mohla připojit tak, jak jim to vyhovuje.<br><br>
 
-- <strong>DLNA</strong> umožňuje chytrým TV a mediálním přehrávačům automaticky najít vaše fotky, videa a hudbu a zobrazit je s náhledovými miniaturami.<br>
-- <strong>HTTP</strong> dává komukoli jednoduchý odkaz, který může otevřít ve webovém prohlížeči k procházení, prohlížení a stahování vašich souborů, bez nutnosti cokoli instalovat.<br>
-- <strong>WebDAV</strong> zajistí, že se vaše zařízení objeví jako běžný síťový disk ve Finderu, Windows nebo Linux, takže můžete přetahovat soubory oběma směry.<br>
-- <strong>FTP</strong> funguje se souborovými aplikacemi a pokročilými uživateli.<br><br>
+- <strong>DLNA</strong> umožňuje chytrým TV a přehrávačům médií automaticky najít vaše fotky, videa a hudbu a zobrazit je s náhledovými miniaturami.<br>
+- <strong>HTTP</strong> dá komukoli jednoduchý odkaz, který otevře ve webovém prohlížeči a může procházet, prohlížet a stahovat vaše soubory, bez jakékoli instalace.<br>
+- <strong>WebDAV</strong> zobrazí vaše zařízení jako běžný síťový disk ve Finderu, Windows nebo Linuxu, takže můžete přetahovat soubory oběma směry.<br>
+- <strong>FTP</strong> funguje se souborovými aplikacemi a pro pokročilé uživatele.<br><br>
 
-Everdisk se také připojuje opačným směrem, k serverům DLNA, WebDAV, FTP a SFTP ve vaší síti, takže můžete procházet jejich složky, streamovat zvuk a video a stahovat nebo spravovat soubory, když to server umožňuje. Vše zůstává ve vaší místní síti a nikdy se nedotkne internetu.
+Everdisk se připojuje i opačným směrem, k serverům DLNA, WebDAV, FTP a SFTP ve vaší síti, takže můžete procházet jejich složky, streamovat zvuk i video a stahovat nebo spravovat soubory, když to server umožňuje. Vše zůstává ve vaší místní síti a nikdy se nedostane na internet.
 {{% /details %}}
 
 {{% details title="Je Everdisk zdarma?" closed="true" %}}
-Ano. Everdisk je ke stažení zdarma a můžete proměnit své zařízení v bezdrátový disk, sdílet své soubory čtyřmi způsoby, připojit se k jiným serverům a používat vestavěný správce souborů bez jakýchkoli nákladů.<br><br>
+Ano. Everdisk si stáhnete zdarma a bez jakýchkoli nákladů můžete proměnit své zařízení v bezdrátový disk, sdílet soubory čtyřmi způsoby, připojit se k jiným serverům a používat vestavěný správce souborů.<br><br>
 
-Existuje volitelný jednorázový nákup <strong>Premium Lifetime</strong> - jedna platba bez předplatného - který odemyká neomezené sdílené složky a uložená připojení, převod fotek a videí, vlastní porty, automatické spuštění sdílení a přizpůsobení zařízení. Je vázán na vaše Apple ID, takže můžete použít Obnovit nákupy k odemčení na vašich dalších zařízeních. Ceny se mohou lišit podle vaší země nebo regionu.
+K dispozici je volitelný jednorázový nákup <strong>Premium Lifetime</strong> - jediná platba bez předplatného - který odemkne neomezený počet sdílených složek a uložených připojení, převod fotek a videí, vlastní porty, automatické spuštění sdílení a přizpůsobení zařízení. Je vázán na vaše Apple ID, takže pomocí funkce Obnovit nákupy jej odemknete i na svých dalších zařízeních. Ceny se mohou lišit podle vaší země nebo regionu.
 {{% /details %}}
 
 {{% details title="Jak se připojím ze svého počítače?" closed="true" %}}
-Everdisk zajistí, že se vaše zařízení objeví jako běžný síťový disk přes WebDAV.<br><br>
+Everdisk zobrazí vaše zařízení jako běžný síťový disk přes WebDAV.<br><br>
 
 - Na <strong>Macu</strong> otevřete Finder, zvolte <em>Otevřít → Připojit k serveru</em> a zadejte adresu WebDAV zobrazenou v aplikaci.<br>
-- Ve <strong>Windows</strong> mapujte síťový disk pomocí stejné adresy WebDAV.<br>
-- V <strong>Linuxu</strong> se připojte k adrese WebDAV ze svého správce souborů.<br><br>
+- Ve <strong>Windows</strong> namapujte síťový disk pomocí stejné adresy WebDAV.<br>
+- V <strong>Linuxu</strong> se ze svého správce souborů připojte k adrese WebDAV.<br><br>
 
-Po připojení můžete přetahovat oběma směry: kopírovat soubory z počítače do zařízení nebo je stahovat zpět. Můžete také otevřít odkaz HTTP v jakémkoli webovém prohlížeči, pokud raději nechcete připojovat disk.
+Jakmile jste připojeni, můžete přetahovat oběma směry: kopírovat soubory z počítače do zařízení nebo je zase stáhnout zpět. Pokud nechcete disk připojovat, můžete také otevřít odkaz HTTP v libovolném webovém prohlížeči.
 {{% /details %}}
 
-{{% details title="Jak streamuji do své TV?" closed="true" %}}
-Ujistěte se, že vaše TV nebo mediální přehrávač a vaše zařízení jsou ve stejné Wi-Fi síti, poté klepněte na Start v Everdisku se sdílenými fotkami, videi nebo hudbou.<br><br>
+{{% details title="Jak streamuji na svou TV?" closed="true" %}}
+Ujistěte se, že vaše TV nebo přehrávač médií a vaše zařízení jsou ve stejné síti Wi-Fi, a pak klepněte v Everdisku na Spustit se sdílenými fotkami, videi nebo hudbou.<br><br>
 
-Vaše zařízení se v seznamu mediálních serverů na TV objeví samo, i s náhledovými miniaturami. Otevřete jej na TV a užijte si svou knihovnu na velké obrazovce - bez kabelů a bez dalších aplikací.
+Vaše zařízení se v seznamu mediálních serverů na TV objeví samo, včetně náhledových miniatur. Otevřete ho na TV a vychutnejte si svou knihovnu na velké obrazovce - žádné kabely ani další aplikace nejsou potřeba.
 {{% /details %}}
 
 {{% details title="Jak otevřu své soubory ve webovém prohlížeči?" closed="true" %}}
-Klepněte na Start a Everdisk vám dá jednoduchou webovou adresu pro server HTTP.<br><br>
+Klepněte na Spustit a Everdisk vám dá jednoduchou webovou adresu pro server HTTP.<br><br>
 
-Sdílejte tento odkaz s kýmkoli ve stejné síti. Otevře jej v jakémkoli webovém prohlížeči k procházení vašich souborů v přehledné mřížce nebo seznamu, prohlížení fotek v galerii na celou obrazovku, přehrávání hudby ve vestavěném přehrávači a stahování čehokoli. Na jejich straně není nutné nic instalovat, což je nejrychlejší způsob, jak předat soubory jinému telefonu nebo počítači.
+Sdílejte tento odkaz s kýmkoli ve stejné síti. Otevře ho v libovolném webovém prohlížeči a může procházet vaše soubory v přehledné mřížce nebo seznamu, prohlížet fotky v galerii na celou obrazovku, přehrávat hudbu ve vestavěném přehrávači a cokoli stáhnout. Na jeho straně není potřeba nic instalovat, což je nejrychlejší způsob, jak předat soubory jinému telefonu nebo počítači.
 {{% /details %}}
 
 {{% details title="Funguje Everdisk bez Wi-Fi?" closed="true" %}}
-Ano. Připojte své zařízení k Macu stejným USB kabelem, kterým jej nabíjíte, a soubory se přesouvají přímo přes kabel, rychleji než přes Wi-Fi.<br><br>
+Ano. Připojte své zařízení k Macu stejným USB kabelem, kterým ho nabíjíte, a soubory jdou přímo přes kabel, rychleji než přes Wi-Fi.<br><br>
 
-Protože nezávisí na bezdrátové síti, funguje to i v letadle, v hotelu nebo v jakékoli uzamčené či veřejné síti, kde je sdílení přes Wi-Fi blokováno.
+Protože není závislý na bezdrátové síti, funguje to i v letadle, v hotelu nebo v jakékoli zamčené či veřejné síti, kde je sdílení přes Wi-Fi blokované.
 {{% /details %}}
 
 {{% details title="K čemu se mohu s Everdiskem připojit?" closed="true" %}}
-Everdisk je také klient pro jiná zařízení ve vaší síti. Můžete najít a připojit se k serverům <strong>DLNA</strong>, <strong>WebDAV</strong>, <strong>FTP</strong> a <strong>SFTP</strong>, včetně zařízení NAS a mediálních serverů.<br><br>
+Everdisk je také klientem pro ostatní zařízení ve vaší síti. Můžete najít a připojit se k serverům <strong>DLNA</strong>, <strong>WebDAV</strong>, <strong>FTP</strong> a <strong>SFTP</strong>, včetně zařízení NAS a mediálních serverů.<br><br>
 
-Po připojení můžete procházet jejich složky, streamovat zvuk a video, stahovat soubory a vytvářet složky, nahrávat, přejmenovávat, přesouvat nebo mazat, když to server umožňuje.
+Jakmile jste připojeni, můžete procházet jejich složky, streamovat zvuk i video, stahovat soubory a vytvářet složky, nahrávat, přejmenovávat, přesouvat nebo mazat, když to server umožňuje.
 {{% /details %}}
 
-{{% details title="Mohu skenovat dokumenty a pracovat s PDF?" closed="true" %}}
-Ano. Everdisk může skenovat papírové dokumenty svým fotoaparátem - automaticky najde okraje, narovná každou stránku a uloží je jako čisté vícestránkové PDF přímo ve vašem zařízení.<br><br>
+{{% details title="Můžu skenovat dokumenty a pracovat s PDF?" closed="true" %}}
+Ano. Everdisk umí skenovat papírové dokumenty fotoaparátem - sám najde okraje, srovná každou stránku a uloží je jako úhledné vícestránkové PDF přímo ve vašem zařízení.<br><br>
 
-Můžete také otevřít PDF (nebo fotku) a <strong>značkovat je</strong> přímo ve vestavěném prohlížeči - kreslit, zvýrazňovat, přidávat text a tvary a přidat podpis prstem - a vaše změny se uloží zpět do souboru.<br><br>
+Můžete také otevřít PDF (nebo fotku) a <strong>označit je</strong> přímo ve vestavěném prohlížeči - kreslit, zvýrazňovat, přidávat text a tvary a přidat podpis prstem - a vaše změny se uloží zpět do souboru.<br><br>
 
-Kromě toho Everdisk obsahuje kompletní sadu <strong>nástrojů PDF</strong>, otevíranou z nabídky <strong>•••</strong> u PDF v prohlížeči Souborů:<br>
-• <strong>Komprese</strong> - zmenšete PDF, s odhadovanou velikostí zobrazenou před uložením.<br>
-• <strong>Rozpoznávání textu (OCR)</strong> - proměňte sken v prohledávatelné PDF nebo exportujte text do souboru .txt.<br>
-• <strong>Heslo</strong> - nastavte, změňte nebo odeberte heslo potřebné k otevření PDF.<br>
-• <strong>Oprávnění</strong> - zkontrolujte, co PDF povoluje (tisk, kopírování a další).<br>
-• <strong>Úprava metadat</strong> - změňte nebo vymažte název, autora, klíčová slova a další informace o dokumentu.<br>
-• <strong>Sloučení</strong> - zapište anotace a formulářové položky do stránky, aby je nebylo možné změnit.
+Kromě toho Everdisk obsahuje kompletní sadu <strong>nástrojů pro PDF</strong>, které otevřete z nabídky <strong>•••</strong> u PDF v prohlížeči Soubory:<br>
+• <strong>Komprese</strong> - zmenší PDF, s odhadovanou velikostí zobrazenou před uložením.<br>
+• <strong>Rozpoznávání textu (OCR)</strong> - promění sken v prohledávatelné PDF, nebo exportuje text do souboru .txt.<br>
+• <strong>Heslo</strong> - nastaví, změní nebo odebere heslo potřebné k otevření PDF.<br>
+• <strong>Oprávnění</strong> - zkontroluje, co PDF povoluje (tisk, kopírování a další).<br>
+• <strong>Upravit metadata</strong> - změní nebo vymaže název, autora, klíčová slova a další informace o dokumentu.<br>
+• <strong>Sloučit vrstvy</strong> - zapíše anotace a záznamy formuláře přímo do stránky, aby už nešly změnit.
 {{% /details %}}
 
 {{% details title="Je Everdisk soukromý a bezpečný?" closed="true" %}}
-Vše zůstává ve vaší místní síti a nikdy se nedotkne internetu, takže vaše soubory nikdy neopustí domov. Nejsou žádné účty ani cloud uprostřed.<br><br>
+Vše zůstává ve vaší místní síti a nikdy se nedostane na internet, takže vaše soubory nikdy neopustí domov. Není zde žádný účet ani cloud mezi nimi.<br><br>
 
-Přístup můžete chránit přihlašovacím jménem a heslem, takže připojená zařízení musí zadat stejné údaje, než uvidí vaše soubory, a jediným klepnutím můžete zablokovat jakékoli zařízení ve vaší síti. Pro nejlepší soukromí zapínejte sdílení jen tehdy, když jste připojeni k Wi-Fi síti, kterou znáte a které důvěřujete.
+Přístup můžete chránit přihlašovacím jménem a heslem, takže připojená zařízení musí zadat stejné údaje, než uvidí vaše soubory, a jakékoli zařízení ve své síti můžete zablokovat jediným klepnutím. Pro co nejlepší soukromí zapínejte sdílení jen tehdy, když jste připojeni k síti Wi-Fi, kterou znáte a které důvěřujete.
 {{% /details %}}
 
-{{% details title="Co mohu dělat se správcem souborů?" closed="true" %}}
+{{% details title="Co všechno umím se správcem souborů?" closed="true" %}}
 Everdisk obsahuje kompletní správce souborů pro vše ve vašem zařízení.<br><br>
 
-Můžete procházet v seznamu nebo mřížce, vytvářet složky, přejmenovávat, přesouvat, kopírovat, komprimovat a rozbalovat a mazat. Můžete také připojit složky odkudkoli z vašeho zařízení a pracovat s nimi přímo v aplikaci, poté je sdílet přes síť spolu se vším ostatním.
+Můžete procházet v seznamu nebo mřížce, vytvářet složky, přejmenovávat, přesouvat, kopírovat, balit a rozbalovat zip a mazat. Můžete také připojit složky odkudkoli ze svého zařízení, pracovat s nimi přímo v aplikaci a pak je sdílet po síti spolu se vším ostatním.
 {{% /details %}}
 
-{{% details title="Mohu přehrávat hudbu uvnitř aplikace?" closed="true" %}}
-Ano. Klepněte na jakýkoli audio soubor a přehraje se v mini přehrávači, který zůstává ve spodní části obrazovky, zatímco pokračujete v procházení.<br><br>
+{{% details title="Můžu přehrávat hudbu přímo v aplikaci?" closed="true" %}}
+Ano. Klepněte na jakýkoli zvukový soubor a přehraje se v mini přehrávači, který zůstane u spodního okraje obrazovky, zatímco dál procházíte.<br><br>
 
-Mini přehrávač má kompletní frontu s náhodným přehráváním a opakováním (vypnuto, vše nebo jedna) a ovládáním na uzamčené obrazovce a mediálními klávesami, které zobrazují skutečný název, interpreta a album. Klepnutím nebo přejetím nahoru otevřete plný přehrávač a přejetím dolů jej zmenšíte, zatímco zvuk pokračuje v přehrávání. Klepnutí na jednu skladbu ve složce přehraje celou složku jako frontu.<br><br>
+Mini přehrávač má úplnou frontu s náhodným přehráváním a opakováním (vypnuto, vše, nebo jedna) a ovládání na uzamčené obrazovce a přes multimediální klávesy, které zobrazuje skutečný název, interpreta a album. Klepnutím nebo přejetím nahoru otevřete celý přehrávač a přejetím dolů ho zmenšíte, přičemž zvuk hraje dál. Klepnutím na jednu skladbu ve složce se jako fronta přehraje celá složka.<br><br>
 
-Zvuk se přehrává z vašich místních souborů, připojených složek, vaší knihovny Hudby a serverů, ke kterým se připojíte na kartě Zařízení.
+Zvuk se přehrává z vašich místních souborů, připojených složek, vaší knihovny Hudba a serverů, ke kterým se připojíte na kartě Zařízení.
 {{% /details %}}
 
-{{% details title="Mohu sledovat videa v aplikaci?" closed="true" %}}
-Ano. Klepněte na video a přehrajte je na celou obrazovku. Everdisk používá vestavěný systémový přehrávač videa, takže máte známé ovládání, včetně AirPlay, Picture in Picture a rychlosti přehrávání.<br><br>
+{{% details title="Můžu v aplikaci sledovat videa?" closed="true" %}}
+Ano. Klepněte na video a přehraje se na celou obrazovku. Everdisk používá vestavěný systémový přehrávač videa, takže máte k dispozici známé ovládání včetně AirPlay, Picture in Picture a rychlosti přehrávání.<br><br>
 
-Videa se přehrávají z vašich místních souborů a připojených složek nebo se streamují přímo ze zařízení, ke kterému se připojíte na kartě Zařízení, takže nemusíte nejprve stahovat celý soubor.
+Videa se přehrávají z vašich místních souborů a připojených složek, nebo se streamují přímo ze zařízení, ke kterému se připojíte na kartě Zařízení, takže nemusíte nejprve stahovat celý soubor.
 {{% /details %}}
 
-{{% details title="Jak zobrazím své fotky?" closed="true" %}}
-Otevřete kartu Dokumenty a přepněte do režimu Fotky k procházení vašich fotek a videí. Klepnutím na fotku ji otevřete na celou obrazovku, kde můžete přibližovat, přejíždět mezi fotkami a sdílet.<br><br>
+{{% details title="Jak si prohlédnu své fotky?" closed="true" %}}
+Otevřete kartu Dokumenty a přepněte do režimu Fotky, abyste mohli procházet své fotky a videa. Klepnutím na fotku ji otevřete na celou obrazovku, kde můžete přibližovat, přejíždět mezi fotkami a sdílet.<br><br>
 
-Vaše fotky také zobrazují skutečné náhledové miniatury na TV přes DLNA a ve webovém prohlížeči, kde se otevírají v galerii na celou obrazovku s přejížděním, přiblížením sevřením prstů a prezentací. Fotky a videa, které mají údaje o poloze, zobrazují na obrazovce Informace mapu s připínáčkem.
+Vaše fotky se navíc zobrazují se skutečnými náhledovými miniaturami na TV přes DLNA a ve webovém prohlížeči, kde se otevřou v galerii na celou obrazovku s přejížděním, přiblížením sevřením prstů a prezentací. Fotky a videa s údaji o poloze zobrazují na obrazovce Informace mapu se špendlíkem.
 {{% /details %}}
 
 </div>
@@ -459,26 +459,26 @@ Vaše fotky také zobrazují skutečné náhledové miniatury na TV přes DLNA a
 
 <div class="hx:w-full hx:mx-auto hx:flex hx:flex-col hx:items-center hx:text-center">
   {{< hextra/info-paragraph border="false" >}}
-  Tato příručka vám pomůže vytěžit z Everdisku na vašem iPhonu a iPadu maximum. Naučte se, jak proměnit své zařízení v bezdrátový disk, připojit TV, počítač nebo prohlížeč, dosáhnout na vlastní servery, spravovat a přehrávat své soubory a udržet vše soukromé ve vaší místní síti.
+  Tato příručka vám pomůže vytěžit z Everdisku na iPhonu a iPadu co nejvíce. Naučte se proměnit své zařízení v bezdrátový disk, připojit TV, počítač nebo prohlížeč, dosáhnout na vlastní servery, spravovat a přehrávat své soubory a udržet vše soukromé ve vaší místní síti.
   {{< /hextra/info-paragraph >}}
 </div>
 
 {{< cards >}}
-  {{< feature-card icon="play" title="Sdílení" subtitle="Klepněte na Start, vyberte, co sdílet, a spusťte všechny čtyři servery najednou." link="/docs/guide/everdisk/everdisk-guide-sharing" >}}
+  {{< feature-card icon="play" title="Sdílení" subtitle="Klepněte na Spustit, vyberte, co sdílet, a spusťte všechny čtyři servery najednou." link="/docs/guide/everdisk/everdisk-guide-sharing" >}}
 
-  {{< feature-card icon="desktop-computer" title="Připojte svá zařízení" subtitle="Jak se TV, Mac nebo PC, prohlížeč, jiný telefon nebo USB kabel připojí k vašim souborům." link="/docs/guide/everdisk/everdisk-guide-connect" >}}
+  {{< feature-card icon="desktop-computer" title="Připojte svá zařízení" subtitle="Jak se k vašim souborům připojí TV, Mac nebo PC, prohlížeč, jiný telefon nebo USB kabel." link="/docs/guide/everdisk/everdisk-guide-connect" >}}
 
-  {{< feature-card icon="server" title="Připojení k serverům" subtitle="Dosáhněte na servery DLNA, WebDAV, FTP a SFTP a disky NAS k procházení, streamování a stahování." link="/docs/guide/everdisk/everdisk-guide-devices" >}}
+  {{< feature-card icon="server" title="Připojení k serverům" subtitle="Dosáhněte na servery DLNA, WebDAV, FTP a SFTP a disky NAS a procházejte, streamujte a stahujte." link="/docs/guide/everdisk/everdisk-guide-devices" >}}
 
-  {{< feature-card icon="folder" title="Soubory a dokumenty" subtitle="Procházejte, organizujte, komprimujte a rozbalujte, připojujte externí složky a skenujte dokumenty do PDF." link="/docs/guide/everdisk/everdisk-guide-files" >}}
+  {{< feature-card icon="folder" title="Soubory a dokumenty" subtitle="Procházejte, uspořádejte, balte a rozbalujte zip, připojujte externí složky a skenujte dokumenty do PDF." link="/docs/guide/everdisk/everdisk-guide-files" >}}
 
   {{< feature-card icon="music-note" title="Fotky, hudba a video" subtitle="Sdílejte celou svou knihovnu, přehrávejte zvuk v mini přehrávači a sledujte video na celou obrazovku." link="/docs/guide/everdisk/everdisk-guide-media" >}}
 
-  {{< feature-card icon="lock-closed" title="Přístup a soukromí" subtitle="Přidejte heslo, řiďte úpravy, blokujte zařízení a udržte vše ve vaší síti." link="/docs/guide/everdisk/everdisk-guide-access" >}}
+  {{< feature-card icon="lock-closed" title="Přístup a soukromí" subtitle="Přidejte heslo, řiďte úpravy, blokujte zařízení a udržte vše ve své síti." link="/docs/guide/everdisk/everdisk-guide-access" >}}
 
-  {{< feature-card icon="adjustments" title="Nastavení" subtitle="Každé nastavení vysvětleno, od profilu zařízení a portů po kvalitu a přenosy." link="/docs/guide/everdisk/everdisk-guide-settings" >}}
+  {{< feature-card icon="adjustments" title="Nastavení" subtitle="Každé nastavení vysvětlené, od profilu zařízení a portů po kvalitu a přenosy." link="/docs/guide/everdisk/everdisk-guide-settings" >}}
 
-  {{< feature-card icon="question-mark-circle" title="FAQ" subtitle="Rychlé odpovědi na běžné otázky a reálné scénáře." link="/docs/faq/everdisk" >}}
+  {{< feature-card icon="question-mark-circle" title="FAQ" subtitle="Rychlé odpovědi na časté otázky a scénáře z reálného života." link="/docs/faq/everdisk" >}}
 
 {{< /cards >}}
 
