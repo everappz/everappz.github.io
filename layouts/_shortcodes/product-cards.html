@@ -15,6 +15,13 @@
 
 {{- $products := slice
   (dict
+    "link"     "/products/everdisk"
+    "title"    "Everdisk"
+    "tag"      (i18n "productEverdiskTag")
+    "subtitle" (i18n "productEverdiskSubtitle")
+    "image"    "/images/app_icons/webp/Everdisk_Icon-App-1024x1024.webp"
+  )
+  (dict
     "link"     "/products/evervideo"
     "title"    "Evervideo"
     "tag"      (i18n "productEvervideoTag")
@@ -41,16 +48,13 @@
     "subtitle" (i18n "productEvertagSubtitle")
     "image"    "/images/app_icons/webp/Evertag_Icon-App-1024x1024.webp"
   )
-  (dict
-    "link"     "/products/everdisk"
-    "title"    "Everdisk"
-    "tag"      (i18n "productEverdiskTag")
-    "subtitle" (i18n "productEverdiskSubtitle")
-    "image"    "/images/app_icons/webp/Everdisk_Icon-App-1024x1024.webp"
-  )
 -}}
 
+{{- if $.Page.IsHome -}}
+<div class="product-cards-home hx:mt-4 not-prose">
+{{- else -}}
 <div class="hextra-cards hx:mt-4 hx:gap-4 hx:grid not-prose" style="--hextra-cards-grid-cols: {{ $cols }};">
+{{- end -}}
   {{- range $product := $products -}}
     {{- $img := $product.image -}}
     {{- $width := 0 -}}

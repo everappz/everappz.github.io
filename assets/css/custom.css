@@ -21,6 +21,26 @@
     height: 60px;
 }
 
+/* Home-page product cards: centered rows that wrap 3+2 -> 2+2+1 -> 1 (never 4+1, never 5 in a row).
+   Percentage flex-basis forces an exact number per row; justify-content centers every row,
+   including the last partial one. Caps at 3 per row. */
+.product-cards-home {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 1rem;
+}
+.product-cards-home > * {
+    flex: 0 0 100%;          /* phones: 1 per row */
+    max-width: 100%;
+}
+@media (min-width: 640px) {
+    .product-cards-home > * { flex-basis: calc((100% - 1rem) / 2); }   /* 2 per row -> 2+2+1 */
+}
+@media (min-width: 1024px) {
+    .product-cards-home > * { flex-basis: calc((100% - 2rem) / 3); }   /* 3 per row -> 3+2, capped */
+}
+
 @media (max-width: 639px) {
     .hero-headline-icon {
         width: 60px;
