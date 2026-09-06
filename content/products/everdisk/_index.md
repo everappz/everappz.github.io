@@ -28,6 +28,7 @@ Everdisk is a wireless drive app for iPhone and iPad developed by Everappz. It t
 {{< hextra/hero-container
   image="/products/everdisk/heroimage/hero.webp"
   imageWidth="600"
+  imageHeight="450"
   imageCard="true"
 >}}
 

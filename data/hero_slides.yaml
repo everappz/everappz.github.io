@@ -25,3 +25,10 @@
   productPageUrl: "/products/evertag/"
   imageDesktop: "products/evertag/heroimage/hero_desktop.jpg"
   imageMobile: "products/evertag/heroimage/hero_mobile.jpg"
+
+- icon: "/images/app_icons/webp/Everdisk_Icon-App-1024x1024.webp"
+  title: "Everdisk"
+  appStoreUrl: "https://apps.apple.com/app/apple-store/id6751851132?pt=95781850&ct=everappzcom&mt=8"
+  productPageUrl: "/products/everdisk/"
+  imageDesktop: "products/everdisk/heroimage/hero_desktop.jpg"
+  imageMobile: "products/everdisk/heroimage/hero_mobile.jpg"
