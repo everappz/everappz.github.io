@@ -24,16 +24,18 @@
 {{- $method := .Get "method" | default "Resize" | humanize -}}
 {{- $options := .Get "options" | default "800x webp q80" -}}
 {{- $process := .Get "process" | default (printf "%s %s" $method $options) -}}
+{{- $sizes := .Get "sizes" | default "(max-width: 768px) 100vw, 515px" -}}
+{{- $imageResource := false -}}
+{{- $specs := slice -}}
 
 {{- if and $image (not (urls.Parse $image).Scheme) -}}
   {{- with or (.Page.Resources.Get $image) (resources.Get $image) -}}
     {{/* .Process does not work on svgs */}}
     {{- if (not (eq .MediaType.SubType "svg")) -}}
-      {{/* Retrieve the $image resource from local or global resources */}}
-      {{- $processed := .Process $process -}}
-      {{- $width = $processed.Width -}}
-      {{- $height = $processed.Height -}}
-      {{- $image = $processed.RelPermalink -}}
+      {{/* Keep the resource; responsive-image builds the variants. */}}
+      {{- $imageResource = . -}}
+    {{- else -}}
+      {{- $image = .RelPermalink -}}
     {{- end -}}
   {{ else }}
     {{/* Otherwise, use relative link of the image */}}
@@ -43,6 +45,36 @@
   {{- end -}}
 {{- end -}}
 
+{{- if $imageResource -}}
+  {{/* Build 1x + 2x crop variants that preserve the requested aspect ratio, for Retina. */}}
+  {{- $sw := $imageResource.Width -}}
+  {{- $sh := $imageResource.Height -}}
+  {{- $q := "80" -}}
+  {{- with (findRE `q[0-9]+` $options 1) -}}{{- $q = replace (index . 0) "q" "" -}}{{- end -}}
+  {{- $anchor := "" -}}
+  {{- range (slice "Center" "Smart" "TopLeft" "TopRight" "BottomLeft" "BottomRight" "Top" "Bottom" "Left" "Right") -}}
+    {{- if and (not $anchor) (in $options .) -}}{{- $anchor = . -}}{{- end -}}
+  {{- end -}}
+  {{- $geo := index (findRE `[0-9]+x[0-9]+` $options 1) 0 -}}
+  {{- if $geo -}}
+    {{- $parts := split $geo "x" -}}
+    {{- $bw := int (index $parts 0) -}}
+    {{- $bh := int (index $parts 1) -}}
+    {{- $aspect := div (float $bh) (float $bw) -}}
+    {{- range (slice 515 1030) -}}
+      {{- $w := . -}}
+      {{- $h := int (math.Round (mul (float $w) $aspect)) -}}
+      {{- if and (le $w $sw) (le $h $sh) -}}
+        {{- $spec := printf "%s %dx%d" $method $w $h -}}
+        {{- with $anchor -}}{{- $spec = printf "%s %s" $spec . -}}{{- end -}}
+        {{- $spec = printf "%s q%s webp" $spec $q -}}
+        {{- $specs = $specs | append $spec -}}
+      {{- end -}}
+    {{- end -}}
+  {{- end -}}
+  {{- if not $specs -}}{{- $specs = slice $process -}}{{- end -}}
+{{- end -}}
+
 {{- partial "shortcodes/feature-card" (dict
   "page"        .Page
   "link"        $link
@@ -50,6 +82,9 @@
   "icon"        $icon
   "subtitle"    $subtitle
   "image"       $image
+  "imageResource" $imageResource
+  "specs"       $specs
+  "sizes"       $sizes
   "alt"         $alt
   "width"       $width
   "height"      $height

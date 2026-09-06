@@ -19,13 +19,11 @@
 
 {{- $css := printf "--hextra-feature-grid-cols: %v; %s" $cols $style -}}
 {{- $href := cond (hasPrefix $imageLink "/") ($imageLink | relURL) $imageLink -}}
+{{- $imgResource := false -}}
 {{- if and $image (not (urls.Parse $image).Scheme) -}}
   {{- $imgPath := strings.TrimPrefix "/" $image -}}
   {{- with resources.Get $imgPath -}}
-    {{- $processed := .Process "Resize 800x webp q80" -}}
-    {{- $imageWidth = $processed.Width -}}
-    {{- $imageHeight = $processed.Height -}}
-    {{- $image = $processed.RelPermalink -}}
+    {{- $imgResource = . -}}
   {{- else -}}
     {{- if hasPrefix $image "/" -}}
       {{- $image = relURL (strings.TrimPrefix "/" $image) -}}
@@ -97,8 +95,32 @@
     <a {{ with $imageLink }}href="{{ $href }}" {{ with $imageLinkExternal }} target="_blank" rel="noreferrer" {{ end
       }}{{ end }} {{ with $imageStyle }}style="{{ . | safeCSS }}" {{ end }}
       class="{{ $imageClass }} {{ if $imageCard }}hextra-feature-card not-prose hx:block hx:relative hx:p-6 hx:overflow-hidden hx:rounded-3xl hx:border hx:border-gray-200 hx:hover:border-gray-300 hx:dark:border-neutral-800 hx:dark:hover:border-neutral-700 hx:before:pointer-events-none hx:before:absolute hx:before:inset-0 hx:before:bg-glass-gradient{{ end }}">
-      <img src="{{ $image }}" width="{{ $imageWidth }}" height="{{ $imageHeight }}" {{ with $imageTitle
-        }}alt="{{ $imageTitle }}" {{ end }} />
+      {{- if $imgResource -}}
+        {{- $specs := slice -}}
+        {{- if not (eq $imgResource.MediaType.SubType "svg") -}}
+          {{- $cands := slice 480 800 1200 1600 -}}
+          {{- if lt $imgResource.Width 1600 -}}{{- $cands = $cands | append $imgResource.Width -}}{{- end -}}
+          {{- $seen := slice -}}
+          {{- range (sort $cands) -}}
+            {{- if and (le . $imgResource.Width) (not (in $seen .)) -}}
+              {{- $seen = $seen | append . -}}
+              {{- $specs = $specs | append (printf "Resize %dx q80 webp" .) -}}
+            {{- end -}}
+          {{- end -}}
+          {{- if not $specs -}}{{- $specs = slice (printf "Resize %dx q80 webp" $imgResource.Width) -}}{{- end -}}
+        {{- end -}}
+        {{- partial "responsive-image.html" (dict
+          "image" $imgResource
+          "specs" $specs
+          "sizes" "(max-width: 768px) 100vw, 600px"
+          "fallback" 800
+          "alt" $imageTitle
+          "loading" "eager"
+        ) -}}
+      {{- else -}}
+        <img src="{{ $image }}" width="{{ $imageWidth }}" height="{{ $imageHeight }}" {{ with $imageTitle
+          }}alt="{{ $imageTitle }}" {{ end }} />
+      {{- end -}}
     </a>
   </div>
 

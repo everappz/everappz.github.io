@@ -1,0 +1,50 @@
+{{- /*
+  responsive-image.html - universal responsive <img> with a multi-resolution webp srcset.
+
+  Emits one <img> with a `srcset` (width descriptors) + `sizes`, so the browser
+  downloads the right resolution for the screen size AND device pixel ratio
+  (Retina gets a 2x asset instead of upscaling an 800px one).
+
+  Params (dict):
+    image     (Resource, required)  source image resource (resources.Get / .Page.Resources.Get).
+    specs     (slice of strings)    one Hugo image Process spec per intrinsic width, ascending,
+                                     e.g. "Resize 800x q80 webp" or "Fill 1030x400 Center q82 webp".
+                                     Callers MUST keep each spec <= the source dimensions
+                                     (Hugo upscales otherwise). At least one spec required.
+    sizes     (string)              the <img> sizes attribute. Default "100vw".
+    fallback  (int)                 preferred width for the plain `src` fallback. Default 800.
+    alt, class, style, title (strings)
+    loading   (string)             default "lazy" (use "eager" for above-the-fold heroes).
+    decoding  (string)             default "async".
+
+  SVG sources are emitted untouched (no processing, no srcset).
+*/ -}}
+{{- $img := .image -}}
+{{- $specs := .specs -}}
+{{- $sizes := .sizes | default "100vw" -}}
+{{- $fallback := .fallback | default 800 -}}
+{{- $alt := .alt | default "" -}}
+{{- $class := .class -}}
+{{- $style := .style -}}
+{{- $title := .title -}}
+{{- $loading := .loading | default "lazy" -}}
+{{- $decoding := .decoding | default "async" -}}
+{{- if $img -}}
+  {{- if eq $img.MediaType.SubType "svg" -}}
+    <img src="{{ $img.RelPermalink }}" alt="{{ $alt }}"{{ with $class }} class="{{ . }}"{{ end }}{{ with $style }} style="{{ . | safeCSS }}"{{ end }}{{ with $title }} title="{{ . }}"{{ end }} loading="{{ $loading }}" decoding="{{ $decoding }}" />
+  {{- else if $specs -}}
+    {{- $variants := slice -}}
+    {{- range $specs -}}
+      {{- $variants = $variants | append ($img.Process .) -}}
+    {{- end -}}
+    {{- $srcset := slice -}}
+    {{- $largest := index $variants 0 -}}
+    {{- $fb := index $variants 0 -}}
+    {{- range $variants -}}
+      {{- $srcset = $srcset | append (printf "%s %dw" .RelPermalink .Width) -}}
+      {{- if gt .Width $largest.Width -}}{{- $largest = . -}}{{- end -}}
+      {{- if and (le .Width $fallback) (gt .Width $fb.Width) -}}{{- $fb = . -}}{{- end -}}
+    {{- end -}}
+    <img src="{{ $fb.RelPermalink }}" srcset="{{ delimit $srcset ", " }}" sizes="{{ $sizes }}" width="{{ $largest.Width }}" height="{{ $largest.Height }}" alt="{{ $alt }}"{{ with $class }} class="{{ . }}"{{ end }}{{ with $style }} style="{{ . | safeCSS }}"{{ end }}{{ with $title }} title="{{ . }}"{{ end }} loading="{{ $loading }}" decoding="{{ $decoding }}" />
+  {{- end -}}
+{{- end -}}
