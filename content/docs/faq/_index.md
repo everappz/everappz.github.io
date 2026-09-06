@@ -69,6 +69,16 @@ Explore the FAQ for your app below to get started, or browse common questions an
   imageStyle="width: 72px; height: auto; margin-left: 1rem; margin-top: 1rem; align-self: start; flex-shrink: 0;" 
 >}}
 
+{{< card 
+  link="/docs/faq/everdisk"
+  title="Everdisk" 
+  subtitle="Turn your iPhone or iPad into a wireless drive. Share files, photos, videos and music with any device over DLNA, HTTP, WebDAV and FTP, connect to other servers, and manage everything on your device." 
+  image="/images/app_icons/webp/Everdisk_Icon-App-1024x1024.webp"
+  method="Resize"
+  options="200x q80 webp"
+  imageStyle="width: 72px; height: auto; margin-left: 1rem; margin-top: 1rem; align-self: start; flex-shrink: 0;" 
+>}}
+
 {{< /cards >}}
 
 ## Common Issues and Answers
