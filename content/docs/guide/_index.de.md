@@ -21,41 +21,41 @@ Wählen Sie unten eine App aus, um zu beginnen.
 
 {{< cards cols="2">}}
 
-{{< card 
+{{< app-card 
   link="/docs/guide/evervideo" 
   title="Evervideo" 
   subtitle="Spielen Sie 360°-Videos ab, schauen Sie mit Untertiteln, verwenden Sie einen Video-Equalizer, organisieren Sie Ihre Medien mit Wiedergabelisten, laden Sie Videos für die Offline-Nutzung herunter und streamen Sie aus iCloud."
-  image="/images/app_icons/webp/Evervideo_Icon-App-1024x1024.webp"
+  image="/images/app_icons/png/Evervideo_Icon-App-1024x1024.png"
   method="Resize"
   options="200x q80 webp"
   imageStyle="width: 72px; height: auto; margin-left: 1rem; margin-top: 1rem; align-self: start; flex-shrink: 0;"  
 >}}
 
-{{< card 
+{{< app-card 
   link="/docs/guide/evermusic"
   title="Evermusic" 
   subtitle="Cloud-Musikplayer mit Offline-Modus, Audio-Equalizer, Crossfade, lückenloser Wiedergabe, Wiedergabelisten, Musikbibliothek und Dateimanager." 
-  image="/images/app_icons/webp/Evermusic_Icon-App-1024x1024.webp"
+  image="/images/app_icons/png/Evermusic_Icon-App-1024x1024.png"
   method="Resize"
   options="200x q80 webp"
   imageStyle="width: 72px; height: auto; margin-left: 1rem; margin-top: 1rem; align-self: start; flex-shrink: 0;"  
 >}}
 
-{{< card 
+{{< app-card 
   link="/docs/guide/flacbox"
   title="Flacbox" 
   subtitle="Hi-Res Audio-Player für iPhone und Mac. Hören Sie Ihre Musik in verlustfreien Audioformaten: flac, alac, ape, wv, dsd und mehr. Aktivieren Sie erweiterte Audio-Ausgabe-Einstellungen." 
-  image="/images/app_icons/webp/Flacbox_Icon-App-1024x1024.webp"
+  image="/images/app_icons/png/Flacbox_Icon-App-1024x1024.png"
   method="Resize"
   options="200x q80 webp"
   imageStyle="width: 72px; height: auto; margin-left: 1rem; margin-top: 1rem; align-self: start; flex-shrink: 0;"  
 >}}
 
-{{< card 
+{{< app-card 
   link="/docs/guide/evertag"
   title="Evertag" 
   subtitle="Musik-Tag-Editor mit automatischer Korrektur und Batch-Modus. Fehlende Metadaten finden, Album-Cover bearbeiten. ID3 / FLAC / APE bearbeiten. Mehr als 120 Tags werden unterstützt." 
-  image="/images/app_icons/webp/Evertag_Icon-App-1024x1024.webp"
+  image="/images/app_icons/png/Evertag_Icon-App-1024x1024.png"
   method="Resize"
   options="200x q80 webp"
   imageStyle="width: 72px; height: auto; margin-left: 1rem; margin-top: 1rem; align-self: start; flex-shrink: 0;" 

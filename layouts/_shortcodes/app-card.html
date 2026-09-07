@@ -1,0 +1,51 @@
+{{- /*
+  app-card: a card whose image is an app icon, rendered responsively (1x + 2x
+  webp srcset at q80) from the high-resolution PNG source. Drop-in replacement
+  for the Hextra `card` shortcode when the image is an app icon, so Retina/HiDPI
+  screens no longer download the full 1024px icon.
+
+  Accepts the same params as `card` (link, title, subtitle, icon, image, alt,
+  imageStyle, tag, tagColor/tagType, tagBorder, tagIcon). The `method`/`options`
+  params are ignored — variants are always q80 webp at 1x/2x of `size`.
+
+  @param {int} size  CSS display width of the icon in px. Default 72.
+
+  @example {{< app-card link="/docs/guide/evermusic" title="Evermusic"
+              subtitle="..." image="/images/app_icons/png/Evermusic_Icon-App-1024x1024.png" >}}
+*/ -}}
+{{- $image := .Get "image" -}}
+{{- $size := int (.Get "size" | default 72) -}}
+{{- $imageResource := false -}}
+{{- $specs := slice -}}
+{{- with $image -}}
+  {{- $stem := replaceRE `\.[^.]+$` "" (path.Base .) -}}
+  {{- $pngPath := printf "images/app_icons/png/%s.png" $stem -}}
+  {{- with resources.Get $pngPath -}}
+    {{- $imageResource = . -}}
+  {{- end -}}
+{{- end -}}
+{{- if $imageResource -}}
+  {{- $specs = slice
+      (printf "Resize %dx q80 webp" $size)
+      (printf "Resize %dx q80 webp" (mul $size 2)) -}}
+{{- end -}}
+
+{{- partial "shortcodes/card" (dict
+    "page"          .Page
+    "link"          (.Get "link")
+    "title"         (.Get "title")
+    "icon"          (.Get "icon")
+    "subtitle"      (.Get "subtitle")
+    "image"         $image
+    "imageResource" $imageResource
+    "specs"         $specs
+    "sizes"         (printf "%dpx" $size)
+    "fallback"      $size
+    "fallbackFormat" "png"
+    "alt"           (.Get "alt" | default (.Get "title"))
+    "imageStyle"    (.Get "imageStyle")
+    "tag"           (.Get "tag")
+    "tagType"       (.Get "tagColor" | default (.Get "tagType") | default "")
+    "tagBorder"     (not (eq (.Get "tagBorder") false) | default true)
+    "tagIcon"       (.Get "tagIcon" | default "")
+  ) -}}

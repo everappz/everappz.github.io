@@ -10,7 +10,11 @@
 {{- /* Larger icons on the home page only; other pages (e.g. /products) keep 80px. */ -}}
 {{- $iconPx := cond $.Page.IsHome 100 80 -}}
 {{- $imageStyle := printf "width: %dpx; height: auto;" $iconPx -}}
-{{- $process := "Resize 200x q80 webp" -}}
+{{- /* 1x + 2x webp variants at q80 so Retina/HiDPI screens don't upscale. */ -}}
+{{- $specs := slice
+    (printf "Resize %dx q80 webp" $iconPx)
+    (printf "Resize %dx q80 webp" (mul $iconPx 2)) -}}
+{{- $sizes := printf "%dpx" $iconPx -}}
 {{- $buttonTitle := i18n "readMore" -}}
 
 {{- $products := slice
@@ -57,32 +61,31 @@
 {{- end -}}
   {{- range $product := $products -}}
     {{- $img := $product.image -}}
-    {{- $width := 0 -}}
-    {{- $height := 0 -}}
-    {{- with resources.Get $img -}}
-      {{- if not (eq .MediaType.SubType "svg") -}}
-        {{- $processed := .Process $process -}}
-        {{- $width = $processed.Width -}}
-        {{- $height = $processed.Height -}}
-        {{- $img = $processed.RelPermalink -}}
-      {{- end -}}
+    {{- $imageResource := false -}}
+    {{- /* Resolve the high-res PNG source (assets/images/app_icons/png) for responsive variants. */ -}}
+    {{- $stem := replaceRE `\.[^.]+$` "" (path.Base $img) -}}
+    {{- with resources.Get (printf "images/app_icons/png/%s.png" $stem) -}}
+      {{- $imageResource = . -}}
     {{- else -}}
       {{- if hasPrefix $img "/" -}}
         {{- $img = relURL (strings.TrimPrefix "/" $img) -}}
       {{- end -}}
     {{- end -}}
     {{- partial "shortcodes/product-card" (dict
-      "page"        $.Page
-      "link"        $product.link
-      "title"       $product.title
-      "subtitle"    $product.subtitle
-      "tag"         $product.tag
-      "image"       $img
-      "alt"         $product.title
-      "width"       $width
-      "height"      $height
-      "imageStyle"  $imageStyle
-      "buttonTitle" $buttonTitle
+      "page"          $.Page
+      "link"          $product.link
+      "title"         $product.title
+      "subtitle"      $product.subtitle
+      "tag"           $product.tag
+      "image"         $img
+      "imageResource" $imageResource
+      "specs"         $specs
+      "sizes"         $sizes
+      "fallback"      $iconPx
+      "fallbackFormat" "png"
+      "alt"           $product.title
+      "imageStyle"    $imageStyle
+      "buttonTitle"   $buttonTitle
     ) -}}
   {{- end -}}
 </div>

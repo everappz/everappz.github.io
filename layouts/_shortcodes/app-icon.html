@@ -1,0 +1,22 @@
+{{- /*
+  app-icon: renders a responsive app-icon <img> (1x + 2x webp srcset) from the
+  high-resolution PNG source. Thin content-facing wrapper around the
+  partials/app-icon.html helper.
+
+  @param {string} src   Icon path/basename (webp or png). Required.
+  @param {int}    size  CSS display width in px. Default 60.
+  @param {string} alt   Alt text.
+  @param {string} class Class attribute.
+  @param {string} style Inline style.
+  @param {string} loading  loading attribute. Default "lazy".
+
+  @example {{< app-icon src="/images/app_icons/png/Flacbox_Icon-App-1024x1024.png" alt="Flacbox Icon" class="hero-headline-icon" size="60" >}}
+*/ -}}
+{{- partial "app-icon.html" (dict
+    "src"     (.Get "src")
+    "size"    (.Get "size" | default 60)
+    "alt"     (.Get "alt")
+    "class"   (.Get "class")
+    "style"   (.Get "style")
+    "loading" (.Get "loading")
+  ) -}}

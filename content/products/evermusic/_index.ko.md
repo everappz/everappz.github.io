@@ -42,7 +42,7 @@ Evermusic는 스페인 소프트웨어 회사인 Everappz가 개발한 iPhone �
 
 <div class="hx:mt-6 hx:mb-6">
 <div class="hx:flex hx:gap-4 hx:items-center">
-  <img src="/images/app_icons/webp/Evermusic_Icon-App-1024x1024.webp" alt="Evermusic Icon" loading="lazy" class="hero-headline-icon" />
+  {{< app-icon src="/images/app_icons/png/Evermusic_Icon-App-1024x1024.png" alt="Evermusic Icon" class="hero-headline-icon" size="80" >}}
   {{< hextra/hero-headline >}}
   Evermusic
   {{< /hextra/hero-headline >}}

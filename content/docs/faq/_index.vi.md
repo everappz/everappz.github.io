@@ -29,41 +29,41 @@ Khám phá FAQ cho ứng dụng của bạn bên dưới để bắt đầu, ho�
 
 {{< cards cols="2">}}
 
-{{< card 
+{{< app-card 
   link="/docs/faq/evervideo" 
   title="Evervideo" 
   subtitle="Phát video 360°, phát trực tuyến từ iCloud, xem với phụ đề, áp dụng bộ chỉnh âm video, sắp xếp nội dung bằng danh sách phát và tải video xuống để xem ngoại tuyến."
-  image="/images/app_icons/webp/Evervideo_Icon-App-1024x1024.webp"
+  image="/images/app_icons/png/Evervideo_Icon-App-1024x1024.png"
   method="Resize"
   options="200x q80 webp"
   imageStyle="width: 72px; height: auto; margin-left: 1rem; margin-top: 1rem; align-self: start; flex-shrink: 0;" 
 >}}
 
-{{< card 
+{{< app-card 
   link="/docs/faq/evermusic"
   title="Evermusic" 
   subtitle="Trình phát nhạc đám mây với chế độ ngoại tuyến, bộ chỉnh âm, crossfade, phát lại liên tục không gián đoạn, quản lý danh sách phát, thư viện nhạc đầy đủ và trình quản lý tệp tích hợp."
-  image="/images/app_icons/webp/Evermusic_Icon-App-1024x1024.webp"
+  image="/images/app_icons/png/Evermusic_Icon-App-1024x1024.png"
   method="Resize"
   options="200x q80 webp"
   imageStyle="width: 72px; height: auto; margin-left: 1rem; margin-top: 1rem; align-self: start; flex-shrink: 0;"  
 >}}
 
-{{< card 
+{{< app-card 
   link="/docs/faq/flacbox"
   title="Flacbox" 
   subtitle="Trình phát âm thanh độ phân giải cao cho iPhone và Mac. Nghe các định dạng không mất dữ liệu như FLAC, ALAC, APE và DSD. Tinh chỉnh đầu ra với cài đặt âm thanh nâng cao."
-  image="/images/app_icons/webp/Flacbox_Icon-App-1024x1024.webp"
+  image="/images/app_icons/png/Flacbox_Icon-App-1024x1024.png"
   method="Resize"
   options="200x q80 webp"
   imageStyle="width: 72px; height: auto; margin-left: 1rem; margin-top: 1rem; align-self: start; flex-shrink: 0;"  
 >}}
 
-{{< card 
+{{< app-card 
   link="/docs/faq/evertag"
   title="Evertag" 
   subtitle="Trình chỉnh sửa thẻ nhạc thông minh với chỉnh sửa hàng loạt. Sửa siêu dữ liệu bị thiếu, bìa album và nhiều hơn nữa. Chỉnh sửa thẻ ID3, FLAC, APE — hỗ trợ hơn 120 trường." 
-  image="/images/app_icons/webp/Evertag_Icon-App-1024x1024.webp"
+  image="/images/app_icons/png/Evertag_Icon-App-1024x1024.png"
   method="Resize"
   options="200x q80 webp"
   imageStyle="width: 72px; height: auto; margin-left: 1rem; margin-top: 1rem; align-self: start; flex-shrink: 0;" 

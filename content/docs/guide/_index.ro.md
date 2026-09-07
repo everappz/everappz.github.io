@@ -29,41 +29,41 @@ Alege o aplicație mai jos pentru a începe.
 
 {{< cards cols="2">}}
 
-{{< card 
+{{< app-card 
   link="/docs/guide/evervideo" 
   title="Evervideo" 
   subtitle="Redă videoclipuri 360°, urmărește cu subtitrări, folosește un egalizator video, organizează-ți media cu liste de redare, descarcă videoclipuri pentru utilizare offline și fă streaming din iCloud."
-  image="/images/app_icons/webp/Evervideo_Icon-App-1024x1024.webp"
+  image="/images/app_icons/png/Evervideo_Icon-App-1024x1024.png"
   method="Resize"
   options="200x q80 webp"
   imageStyle="width: 72px; height: auto; margin-left: 1rem; margin-top: 1rem; align-self: start; flex-shrink: 0;"  
 >}}
 
-{{< card 
+{{< app-card 
   link="/docs/guide/evermusic"
   title="Evermusic" 
   subtitle="Player muzică cloud cu mod offline, egalizator audio, crossfade, redare fără pauze, liste de redare, bibliotecă muzicală, manager de fișiere." 
-  image="/images/app_icons/webp/Evermusic_Icon-App-1024x1024.webp"
+  image="/images/app_icons/png/Evermusic_Icon-App-1024x1024.png"
   method="Resize"
   options="200x q80 webp"
   imageStyle="width: 72px; height: auto; margin-left: 1rem; margin-top: 1rem; align-self: start; flex-shrink: 0;"  
 >}}
 
-{{< card 
+{{< app-card 
   link="/docs/guide/flacbox"
   title="Flacbox" 
   subtitle="Player audio Hi-Res pentru iPhone și Mac. Ascultă muzica în formate audio fără pierderi: flac, alac, ape, wv, dsd și altele. Activează setări avansate de ieșire audio." 
-  image="/images/app_icons/webp/Flacbox_Icon-App-1024x1024.webp"
+  image="/images/app_icons/png/Flacbox_Icon-App-1024x1024.png"
   method="Resize"
   options="200x q80 webp"
   imageStyle="width: 72px; height: auto; margin-left: 1rem; margin-top: 1rem; align-self: start; flex-shrink: 0;"  
 >}}
 
-{{< card 
+{{< app-card 
   link="/docs/guide/evertag"
   title="Evertag" 
   subtitle="Editor etichete muzicale cu corecție automată și mod lot. Găsește metadate lipsă, editează coperte de album. Editează ID3 / FLAC / APE. Peste 120 de etichete acceptate." 
-  image="/images/app_icons/webp/Evertag_Icon-App-1024x1024.webp"
+  image="/images/app_icons/png/Evertag_Icon-App-1024x1024.png"
   method="Resize"
   options="200x q80 webp"
   imageStyle="width: 72px; height: auto; margin-left: 1rem; margin-top: 1rem; align-self: start; flex-shrink: 0;" 

@@ -29,41 +29,41 @@ tags: [
 
 {{< cards cols="2">}}
 
-{{< card 
+{{< app-card 
   link="/docs/guide/evervideo" 
   title="Evervideo" 
   subtitle="เล่นวิดีโอ 360° ดูพร้อมคำบรรยาย ใช้อีควอไลเซอร์วิดีโอ จัดระเบียบสื่อของคุณด้วยเพลย์ลิสต์ ดาวน์โหลดวิดีโอเพื่อใช้ออฟไลน์ และสตรีมจาก iCloud"
-  image="/images/app_icons/webp/Evervideo_Icon-App-1024x1024.webp"
+  image="/images/app_icons/png/Evervideo_Icon-App-1024x1024.png"
   method="Resize"
   options="200x q80 webp"
   imageStyle="width: 72px; height: auto; margin-left: 1rem; margin-top: 1rem; align-self: start; flex-shrink: 0;"  
 >}}
 
-{{< card 
+{{< app-card 
   link="/docs/guide/evermusic"
   title="Evermusic" 
   subtitle="เครื่องเล่นเพลงคลาวด์พร้อมโหมดออฟไลน์ อีควอไลเซอร์เสียง ครอสเฟด การเล่นต่อเนื่องไม่มีช่องว่าง เพลย์ลิสต์ คลังเพลง ตัวจัดการไฟล์" 
-  image="/images/app_icons/webp/Evermusic_Icon-App-1024x1024.webp"
+  image="/images/app_icons/png/Evermusic_Icon-App-1024x1024.png"
   method="Resize"
   options="200x q80 webp"
   imageStyle="width: 72px; height: auto; margin-left: 1rem; margin-top: 1rem; align-self: start; flex-shrink: 0;"  
 >}}
 
-{{< card 
+{{< app-card 
   link="/docs/guide/flacbox"
   title="Flacbox" 
   subtitle="เครื่องเล่นเสียง Hi-Res สำหรับ iPhone และ Mac ฟังเพลงในรูปแบบเสียงไม่สูญเสียคุณภาพ: flac, alac, ape, wv, dsd และอื่นๆ เปิดใช้งานการตั้งค่าเอาต์พุตเสียงขั้นสูง" 
-  image="/images/app_icons/webp/Flacbox_Icon-App-1024x1024.webp"
+  image="/images/app_icons/png/Flacbox_Icon-App-1024x1024.png"
   method="Resize"
   options="200x q80 webp"
   imageStyle="width: 72px; height: auto; margin-left: 1rem; margin-top: 1rem; align-self: start; flex-shrink: 0;"  
 >}}
 
-{{< card 
+{{< app-card 
   link="/docs/guide/evertag"
   title="Evertag" 
   subtitle="โปรแกรมแก้ไขแท็กเพลงพร้อมการแก้ไขอัตโนมัติและโหมดกลุ่ม ค้นหาเมตาดาต้าที่หายไป แก้ไขปกอัลบั้ม แก้ไข ID3 / FLAC / APE รองรับมากกว่า 120 แท็ก" 
-  image="/images/app_icons/webp/Evertag_Icon-App-1024x1024.webp"
+  image="/images/app_icons/png/Evertag_Icon-App-1024x1024.png"
   method="Resize"
   options="200x q80 webp"
   imageStyle="width: 72px; height: auto; margin-left: 1rem; margin-top: 1rem; align-self: start; flex-shrink: 0;" 

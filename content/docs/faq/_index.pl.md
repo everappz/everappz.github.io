@@ -29,41 +29,41 @@ Przeglądaj FAQ dla swojej aplikacji poniżej, aby zacząć, lub przejrzyj typow
 
 {{< cards cols="2">}}
 
-{{< card 
+{{< app-card 
   link="/docs/faq/evervideo" 
   title="Evervideo" 
   subtitle="Odtwarzaj filmy 360°, streamuj z iCloud, oglądaj z napisami, używaj equalizera wideo, organizuj zawartość za pomocą list odtwarzania i pobieraj filmy do oglądania offline."
-  image="/images/app_icons/webp/Evervideo_Icon-App-1024x1024.webp"
+  image="/images/app_icons/png/Evervideo_Icon-App-1024x1024.png"
   method="Resize"
   options="200x q80 webp"
   imageStyle="width: 72px; height: auto; margin-left: 1rem; margin-top: 1rem; align-self: start; flex-shrink: 0;" 
 >}}
 
-{{< card 
+{{< app-card 
   link="/docs/faq/evermusic"
   title="Evermusic" 
   subtitle="Odtwarzacz muzyki w chmurze z trybem offline, equalizerem audio, crossfade, bezszwowym odtwarzaniem, zarządzaniem listami odtwarzania, pełną biblioteką muzyczną i wbudowanym menedżerem plików."
-  image="/images/app_icons/webp/Evermusic_Icon-App-1024x1024.webp"
+  image="/images/app_icons/png/Evermusic_Icon-App-1024x1024.png"
   method="Resize"
   options="200x q80 webp"
   imageStyle="width: 72px; height: auto; margin-left: 1rem; margin-top: 1rem; align-self: start; flex-shrink: 0;"  
 >}}
 
-{{< card 
+{{< app-card 
   link="/docs/faq/flacbox"
   title="Flacbox" 
   subtitle="Odtwarzacz audio wysokiej rozdzielczości dla iPhone i Mac. Słuchaj bezstratnych formatów takich jak FLAC, ALAC, APE i DSD. Doprecyzuj wyjście za pomocą zaawansowanych ustawień audio."
-  image="/images/app_icons/webp/Flacbox_Icon-App-1024x1024.webp"
+  image="/images/app_icons/png/Flacbox_Icon-App-1024x1024.png"
   method="Resize"
   options="200x q80 webp"
   imageStyle="width: 72px; height: auto; margin-left: 1rem; margin-top: 1rem; align-self: start; flex-shrink: 0;"  
 >}}
 
-{{< card 
+{{< app-card 
   link="/docs/faq/evertag"
   title="Evertag" 
   subtitle="Inteligentny edytor tagów muzycznych z edycją wsadową. Napraw brakujące metadane, okładki albumów i więcej. Edytuj tagi ID3, FLAC, APE — obsługiwanych ponad 120 pól." 
-  image="/images/app_icons/webp/Evertag_Icon-App-1024x1024.webp"
+  image="/images/app_icons/png/Evertag_Icon-App-1024x1024.png"
   method="Resize"
   options="200x q80 webp"
   imageStyle="width: 72px; height: auto; margin-left: 1rem; margin-top: 1rem; align-self: start; flex-shrink: 0;" 

@@ -29,41 +29,41 @@ Explora les preguntes freqüents de la teva aplicació a continuació per comen�
 
 {{< cards cols="2">}}
 
-{{< card 
+{{< app-card 
   link="/docs/faq/evervideo" 
   title="Evervideo" 
   subtitle="Reprodueix vídeos a 360°, transmet des d'iCloud, mira amb subtítols, aplica un equalitzador de vídeo, organitza el contingut amb llistes de reproducció i descarrega vídeos per veure'ls sense connexió."
-  image="/images/app_icons/webp/Evervideo_Icon-App-1024x1024.webp"
+  image="/images/app_icons/png/Evervideo_Icon-App-1024x1024.png"
   method="Resize"
   options="200x q80 webp"
   imageStyle="width: 72px; height: auto; margin-left: 1rem; margin-top: 1rem; align-self: start; flex-shrink: 0;" 
 >}}
 
-{{< card 
+{{< app-card 
   link="/docs/faq/evermusic"
   title="Evermusic" 
   subtitle="Reproductor de música al núvol amb mode sense connexió, equalitzador d'àudio, crossfade, reproducció sense pauses, gestió de llistes de reproducció, biblioteca de música completa i gestor d'arxius integrat."
-  image="/images/app_icons/webp/Evermusic_Icon-App-1024x1024.webp"
+  image="/images/app_icons/png/Evermusic_Icon-App-1024x1024.png"
   method="Resize"
   options="200x q80 webp"
   imageStyle="width: 72px; height: auto; margin-left: 1rem; margin-top: 1rem; align-self: start; flex-shrink: 0;"  
 >}}
 
-{{< card 
+{{< app-card 
   link="/docs/faq/flacbox"
   title="Flacbox" 
   subtitle="Reproductor d'àudio d'alta resolució per a iPhone i Mac. Escolta formats sense pèrdua com FLAC, ALAC, APE i DSD. Ajusta la sortida amb configuració d'àudio avançada."
-  image="/images/app_icons/webp/Flacbox_Icon-App-1024x1024.webp"
+  image="/images/app_icons/png/Flacbox_Icon-App-1024x1024.png"
   method="Resize"
   options="200x q80 webp"
   imageStyle="width: 72px; height: auto; margin-left: 1rem; margin-top: 1rem; align-self: start; flex-shrink: 0;"  
 >}}
 
-{{< card 
+{{< app-card 
   link="/docs/faq/evertag"
   title="Evertag" 
   subtitle="Editor intel·ligent d'etiquetes musicals amb edició per lots. Corregeix metadades que falten, portades d'àlbums i més. Edita etiquetes ID3, FLAC, APE — més de 120 camps compatibles." 
-  image="/images/app_icons/webp/Evertag_Icon-App-1024x1024.webp"
+  image="/images/app_icons/png/Evertag_Icon-App-1024x1024.png"
   method="Resize"
   options="200x q80 webp"
   imageStyle="width: 72px; height: auto; margin-left: 1rem; margin-top: 1rem; align-self: start; flex-shrink: 0;" 

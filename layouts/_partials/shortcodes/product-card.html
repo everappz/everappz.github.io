@@ -3,6 +3,11 @@
 {{- $icon := .icon -}}
 {{- $subtitle := .subtitle -}}
 {{- $image := .image -}}
+{{- $imageResource := .imageResource -}}
+{{- $specs := .specs -}}
+{{- $sizes := .sizes | default "100vw" -}}
+{{- $fallback := .fallback | default 800 -}}
+{{- $fallbackFormat := .fallbackFormat -}}
 {{- $alt := .alt | default $title -}}
 {{- $width := .width -}}
 {{- $height := .height -}}
@@ -14,8 +19,9 @@
 {{- $buttonTitle := .buttonTitle -}}
 {{- $buttonLink := .buttonLink -}}
 
+{{- $hasImage := or $imageResource $image -}}
 {{ $linkClass := "hx:hover:border-gray-300 hx:bg-transparent hx:shadow-xs hx:dark:border-neutral-800 hx:hover:bg-slate-50 hx:hover:shadow-md hx:dark:hover:border-neutral-700" }}
-{{- with $image -}}
+{{- if $hasImage -}}
   {{ $linkClass = "hx:hover:border-gray-300 hx:bg-gray-100 hx:shadow-sm hx:dark:border-neutral-700 hx:dark:text-gray-50 hx:hover:shadow-lg hx:dark:hover:border-neutral-500" }}
 {{- end -}}
 
@@ -47,19 +53,34 @@
     {{ with $external }}target="_blank" rel="noreferrer"{{ end -}}
   {{- end -}}
 >
-  {{- with $image -}}
+  {{- if $imageResource -}}
     <div class="hx:flex hx:justify-center hx:px-4" style="padding-top: 3rem;">
-      <img
-        alt="{{ $alt }}"
-        class="product-card-image"
-        loading="lazy"
-        decoding="async"
-        src="{{ $image | safeURL }}"
-        {{ with $width }}width="{{ . }}"{{ end }}
-        {{ with $height }}height="{{ . }}"{{ end }}
-        {{ with $imageStyle }}style="{{ . | safeCSS }}"{{ end }}
-      />
+      {{- partial "responsive-image.html" (dict
+        "image" $imageResource
+        "specs" $specs
+        "sizes" $sizes
+        "fallback" $fallback
+        "fallbackFormat" $fallbackFormat
+        "alt" $alt
+        "class" "product-card-image"
+        "style" $imageStyle
+      ) -}}
     </div>
+  {{- else -}}
+    {{- with $image -}}
+      <div class="hx:flex hx:justify-center hx:px-4" style="padding-top: 3rem;">
+        <img
+          alt="{{ $alt }}"
+          class="product-card-image"
+          loading="lazy"
+          decoding="async"
+          src="{{ $image | safeURL }}"
+          {{ with $width }}width="{{ . }}"{{ end }}
+          {{ with $height }}height="{{ . }}"{{ end }}
+          {{ with $imageStyle }}style="{{ . | safeCSS }}"{{ end }}
+        />
+      </div>
+    {{- end -}}
   {{- end -}}
 
   {{- $padding := "hx:p-4" -}}

@@ -41,7 +41,7 @@ Everdisk 是 Everappz 为 iPhone 和 iPad 打造的无线硬盘应用。它把�
 
 <div class="hx:mt-6 hx:mb-6">
 <div class="hx:flex hx:gap-4 hx:items-center">
-  <img src="/images/app_icons/webp/Everdisk_Icon-App-1024x1024.webp" alt="Everdisk Icon" loading="lazy" class="hero-headline-icon" />
+  {{< app-icon src="/images/app_icons/png/Everdisk_Icon-App-1024x1024.png" alt="Everdisk Icon" class="hero-headline-icon" size="80" >}}
   {{< hextra/hero-headline >}}
   Everdisk
   {{< /hextra/hero-headline >}}

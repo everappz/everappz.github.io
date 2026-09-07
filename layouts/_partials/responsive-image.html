@@ -13,6 +13,11 @@
                                      (Hugo upscales otherwise). At least one spec required.
     sizes     (string)              the <img> sizes attribute. Default "100vw".
     fallback  (int)                 preferred width for the plain `src` fallback. Default 800.
+    fallbackFormat (string)         if set (e.g. "png" / "jpg"), wrap the output in a <picture>
+                                     with a webp <source> and an <img> fallback rendered in this
+                                     widely-supported format — so browsers without webp support
+                                     (and any without srcset) still get a correct image. The
+                                     <picture> uses display:contents so it never alters layout.
     alt, class, style, title (strings)
     loading   (string)             default "lazy" (use "eager" for above-the-fold heroes).
     decoding  (string)             default "async".
@@ -23,6 +28,7 @@
 {{- $specs := .specs -}}
 {{- $sizes := .sizes | default "100vw" -}}
 {{- $fallback := .fallback | default 800 -}}
+{{- $fallbackFormat := .fallbackFormat -}}
 {{- $alt := .alt | default "" -}}
 {{- $class := .class -}}
 {{- $style := .style -}}
@@ -33,6 +39,7 @@
   {{- if eq $img.MediaType.SubType "svg" -}}
     <img src="{{ $img.RelPermalink }}" alt="{{ $alt }}"{{ with $class }} class="{{ . }}"{{ end }}{{ with $style }} style="{{ . | safeCSS }}"{{ end }}{{ with $title }} title="{{ . }}"{{ end }} loading="{{ $loading }}" decoding="{{ $decoding }}" />
   {{- else if $specs -}}
+    {{- /* Primary (usually webp) variants. */ -}}
     {{- $variants := slice -}}
     {{- range $specs -}}
       {{- $variants = $variants | append ($img.Process .) -}}
@@ -45,6 +52,31 @@
       {{- if gt .Width $largest.Width -}}{{- $largest = . -}}{{- end -}}
       {{- if and (le .Width $fallback) (gt .Width $fb.Width) -}}{{- $fb = . -}}{{- end -}}
     {{- end -}}
-    <img src="{{ $fb.RelPermalink }}" srcset="{{ delimit $srcset ", " }}" sizes="{{ $sizes }}" width="{{ $largest.Width }}" height="{{ $largest.Height }}" alt="{{ $alt }}"{{ with $class }} class="{{ . }}"{{ end }}{{ with $style }} style="{{ . | safeCSS }}"{{ end }}{{ with $title }} title="{{ . }}"{{ end }} loading="{{ $loading }}" decoding="{{ $decoding }}" />
+    {{- if $fallbackFormat -}}
+      {{- /* Universal fallback: same widths in a broadly-supported raster format (png/jpg),
+             derived from $specs by stripping the quality token and swapping the format. */ -}}
+      {{- $fbSpecs := slice -}}
+      {{- range $specs -}}
+        {{- $s := replaceRE `\s*q\d+` "" . -}}
+        {{- $s = replaceRE `\s*(webp|jpe?g|png|gif|tiff|bmp)` "" $s -}}
+        {{- $fbSpecs = $fbSpecs | append (printf "%s %s" (trim $s " ") $fallbackFormat) -}}
+      {{- end -}}
+      {{- $fbVariants := slice -}}
+      {{- range $fbSpecs -}}
+        {{- $fbVariants = $fbVariants | append ($img.Process .) -}}
+      {{- end -}}
+      {{- $fbSrcset := slice -}}
+      {{- $fbLargest := index $fbVariants 0 -}}
+      {{- $fbSrc := index $fbVariants 0 -}}
+      {{- range $fbVariants -}}
+        {{- $fbSrcset = $fbSrcset | append (printf "%s %dw" .RelPermalink .Width) -}}
+        {{- if gt .Width $fbLargest.Width -}}{{- $fbLargest = . -}}{{- end -}}
+        {{- if and (le .Width $fallback) (gt .Width $fbSrc.Width) -}}{{- $fbSrc = . -}}{{- end -}}
+      {{- end -}}
+      {{- $type := printf "%s/%s" $largest.MediaType.MainType $largest.MediaType.SubType -}}
+      <picture style="display:contents"><source type="{{ $type }}" srcset="{{ delimit $srcset ", " }}" sizes="{{ $sizes }}" /><img src="{{ $fbSrc.RelPermalink }}" srcset="{{ delimit $fbSrcset ", " }}" sizes="{{ $sizes }}" width="{{ $fbLargest.Width }}" height="{{ $fbLargest.Height }}" alt="{{ $alt }}"{{ with $class }} class="{{ . }}"{{ end }}{{ with $style }} style="{{ . | safeCSS }}"{{ end }}{{ with $title }} title="{{ . }}"{{ end }} loading="{{ $loading }}" decoding="{{ $decoding }}" /></picture>
+    {{- else -}}
+      <img src="{{ $fb.RelPermalink }}" srcset="{{ delimit $srcset ", " }}" sizes="{{ $sizes }}" width="{{ $largest.Width }}" height="{{ $largest.Height }}" alt="{{ $alt }}"{{ with $class }} class="{{ . }}"{{ end }}{{ with $style }} style="{{ . | safeCSS }}"{{ end }}{{ with $title }} title="{{ . }}"{{ end }} loading="{{ $loading }}" decoding="{{ $decoding }}" />
+    {{- end -}}
   {{- end -}}
 {{- end -}}

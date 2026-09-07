@@ -21,41 +21,41 @@ tags: ["οδηγός χρήστη", "εκπαιδευτικό εφαρμογής
 
 {{< cards cols="2">}}
 
-{{< card 
+{{< app-card 
   link="/docs/guide/evervideo" 
   title="Evervideo" 
   subtitle="Αναπαράγετε βίντεο 360°, παρακολουθήστε με υπότιτλους, χρησιμοποιήστε ισοσταθμιστή βίντεο, οργανώστε τα πολυμέσα σας με λίστες αναπαραγωγής, κατεβάστε βίντεο για offline χρήση και κάντε streaming από iCloud."
-  image="/images/app_icons/webp/Evervideo_Icon-App-1024x1024.webp"
+  image="/images/app_icons/png/Evervideo_Icon-App-1024x1024.png"
   method="Resize"
   options="200x q80 webp"
   imageStyle="width: 72px; height: auto; margin-left: 1rem; margin-top: 1rem; align-self: start; flex-shrink: 0;"  
 >}}
 
-{{< card 
+{{< app-card 
   link="/docs/guide/evermusic"
   title="Evermusic" 
   subtitle="Cloud player μουσικής με offline λειτουργία, ισοσταθμιστή ήχου, crossfade, αδιάλειπτη αναπαραγωγή, λίστες αναπαραγωγής, βιβλιοθήκη μουσικής και διαχειριστή αρχείων." 
-  image="/images/app_icons/webp/Evermusic_Icon-App-1024x1024.webp"
+  image="/images/app_icons/png/Evermusic_Icon-App-1024x1024.png"
   method="Resize"
   options="200x q80 webp"
   imageStyle="width: 72px; height: auto; margin-left: 1rem; margin-top: 1rem; align-self: start; flex-shrink: 0;"  
 >}}
 
-{{< card 
+{{< app-card 
   link="/docs/guide/flacbox"
   title="Flacbox" 
   subtitle="Hi-Res player ήχου για iPhone και Mac. Ακούστε μουσική σε μορφές χωρίς απώλειες: flac, alac, ape, wv, dsd και άλλα. Ενεργοποιήστε προηγμένες ρυθμίσεις εξόδου ήχου." 
-  image="/images/app_icons/webp/Flacbox_Icon-App-1024x1024.webp"
+  image="/images/app_icons/png/Flacbox_Icon-App-1024x1024.png"
   method="Resize"
   options="200x q80 webp"
   imageStyle="width: 72px; height: auto; margin-left: 1rem; margin-top: 1rem; align-self: start; flex-shrink: 0;"  
 >}}
 
-{{< card 
+{{< app-card 
   link="/docs/guide/evertag"
   title="Evertag" 
   subtitle="Επεξεργαστής ετικετών μουσικής με αυτόματη διόρθωση και λειτουργία δέσμης. Βρείτε ελλείποντα μεταδεδομένα, επεξεργαστείτε εξώφυλλα άλμπουμ. Επεξεργαστείτε ID3 / FLAC / APE. Υποστηρίζονται περισσότερες από 120 ετικέτες." 
-  image="/images/app_icons/webp/Evertag_Icon-App-1024x1024.webp"
+  image="/images/app_icons/png/Evertag_Icon-App-1024x1024.png"
   method="Resize"
   options="200x q80 webp"
   imageStyle="width: 72px; height: auto; margin-left: 1rem; margin-top: 1rem; align-self: start; flex-shrink: 0;" 

@@ -21,41 +21,41 @@ tags: ["מדריך משתמש", "מדריך אפליקציה", "evermusic", "fla
 
 {{< cards cols="2">}}
 
-{{< card 
+{{< app-card 
   link="/docs/guide/evervideo" 
   title="Evervideo" 
   subtitle="הפעל סרטוני 360°, צפה עם כתוביות, השתמש באקולייזר וידאו, ארגן את המדיה שלך עם רשימות השמעה, הורד סרטונים לשימוש ללא חיבור ובצע סטרימינג מ-iCloud."
-  image="/images/app_icons/webp/Evervideo_Icon-App-1024x1024.webp"
+  image="/images/app_icons/png/Evervideo_Icon-App-1024x1024.png"
   method="Resize"
   options="200x q80 webp"
   imageStyle="width: 72px; height: auto; margin-left: 1rem; margin-top: 1rem; align-self: start; flex-shrink: 0;"  
 >}}
 
-{{< card 
+{{< app-card 
   link="/docs/guide/evermusic"
   title="Evermusic" 
   subtitle="נגן מוזיקה בענן עם מצב לא מקוון, אקולייזר שמע, crossfade, הפעלה רציפה, רשימות השמעה, ספריית מוזיקה ומנהל קבצים." 
-  image="/images/app_icons/webp/Evermusic_Icon-App-1024x1024.webp"
+  image="/images/app_icons/png/Evermusic_Icon-App-1024x1024.png"
   method="Resize"
   options="200x q80 webp"
   imageStyle="width: 72px; height: auto; margin-left: 1rem; margin-top: 1rem; align-self: start; flex-shrink: 0;"  
 >}}
 
-{{< card 
+{{< app-card 
   link="/docs/guide/flacbox"
   title="Flacbox" 
   subtitle="נגן שמע Hi-Res לאיפון ו-Mac. הקשב למוזיקה שלך בפורמטים ללא אובדן: flac, alac, ape, wv, dsd ועוד. הפעל הגדרות פלט שמע מתקדמות." 
-  image="/images/app_icons/webp/Flacbox_Icon-App-1024x1024.webp"
+  image="/images/app_icons/png/Flacbox_Icon-App-1024x1024.png"
   method="Resize"
   options="200x q80 webp"
   imageStyle="width: 72px; height: auto; margin-left: 1rem; margin-top: 1rem; align-self: start; flex-shrink: 0;"  
 >}}
 
-{{< card 
+{{< app-card 
   link="/docs/guide/evertag"
   title="Evertag" 
   subtitle="עורך תגי מוזיקה עם תיקון אוטומטי ומצב אצווה. מצא מטא-נתונים חסרים, ערוך עטיפות אלבומים. ערוך ID3 / FLAC / APE. תומך ביותר מ-120 תגים." 
-  image="/images/app_icons/webp/Evertag_Icon-App-1024x1024.webp"
+  image="/images/app_icons/png/Evertag_Icon-App-1024x1024.png"
   method="Resize"
   options="200x q80 webp"
   imageStyle="width: 72px; height: auto; margin-left: 1rem; margin-top: 1rem; align-self: start; flex-shrink: 0;" 

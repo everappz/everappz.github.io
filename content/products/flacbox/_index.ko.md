@@ -39,7 +39,7 @@ Flacbox는 스페인 소프트웨어 회사인 Everappz가 개발한 iPhone 및 
 
 <div class="hx:mt-6 hx:mb-6">
 <div class="hx:flex hx:gap-4 hx:items-center">
-<img src="/images/app_icons/webp/Flacbox_Icon-App-1024x1024.webp" alt="Flacbox Icon" loading="lazy" class="hero-headline-icon" />
+{{< app-icon src="/images/app_icons/png/Flacbox_Icon-App-1024x1024.png" alt="Flacbox Icon" class="hero-headline-icon" size="80" >}}
 {{< hextra/hero-headline >}}
 Flacbox
 {{< /hextra/hero-headline >}}

@@ -3,6 +3,11 @@
 {{- $icon := .icon -}}
 {{- $subtitle := .subtitle -}}
 {{- $image := .image -}}
+{{- $imageResource := .imageResource -}}
+{{- $specs := .specs -}}
+{{- $sizes := .sizes | default "100vw" -}}
+{{- $fallback := .fallback | default 800 -}}
+{{- $fallbackFormat := .fallbackFormat -}}
 {{- $alt := .alt | default $title -}}
 {{- $width := .width -}}
 {{- $height := .height -}}
@@ -12,8 +17,9 @@
 {{- $tagBorder := not (eq .tagBorder false) | default true }}
 {{- $tagIcon := .tagIcon -}}
 
+{{- $hasImage := or $imageResource $image -}}
 {{ $linkClass := "hx:hover:border-gray-300 hx:bg-transparent hx:shadow-xs hx:dark:border-neutral-800 hx:hover:bg-slate-50 hx:hover:shadow-md hx:dark:hover:border-neutral-700 hx:dark:hover:bg-neutral-900" }}
-{{- with $image -}}
+{{- if $hasImage -}}
   {{ $linkClass = "hx:hover:border-gray-300 hx:bg-gray-100 hx:shadow-sm hx:dark:border-neutral-700 hx:dark:bg-neutral-800 hx:dark:text-gray-50 hx:hover:shadow-lg hx:dark:hover:border-neutral-500 hx:dark:hover:bg-neutral-700" }}
 {{- end -}}
 
@@ -35,17 +41,30 @@
     {{ with $external }}target="_blank" rel="noreferrer"{{ end -}}
   {{- end -}}
 >
-  {{- with $image -}}
-    <img
-      alt="{{ $alt }}"
-      class="hextra-card-image"
-      loading="lazy"
-      decoding="async"
-      src="{{ $image | safeURL }}"
-      {{ with $width }}width="{{ . }}"{{ end }}
-      {{ with $height }}height="{{ . }}"{{ end }}
-      {{ with $imageStyle }}style="{{ . | safeCSS }}"{{ end }}
-    />
+  {{- if $imageResource -}}
+    {{- partial "responsive-image.html" (dict
+      "image" $imageResource
+      "specs" $specs
+      "sizes" $sizes
+      "fallback" $fallback
+      "fallbackFormat" $fallbackFormat
+      "alt" $alt
+      "class" "hextra-card-image"
+      "style" $imageStyle
+    ) -}}
+  {{- else -}}
+    {{- with $image -}}
+      <img
+        alt="{{ $alt }}"
+        class="hextra-card-image"
+        loading="lazy"
+        decoding="async"
+        src="{{ $image | safeURL }}"
+        {{ with $width }}width="{{ . }}"{{ end }}
+        {{ with $height }}height="{{ . }}"{{ end }}
+        {{ with $imageStyle }}style="{{ . | safeCSS }}"{{ end }}
+      />
+    {{- end -}}
   {{- end -}}
 
   {{- $padding := "hx:p-4" -}}

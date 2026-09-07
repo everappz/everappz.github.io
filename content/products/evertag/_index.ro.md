@@ -30,7 +30,7 @@ Evertag este un editor de taguri muzicale pentru iPhone și Mac, dezvoltat de Ev
 
 <div class="hx:mt-6 hx:mb-6">
 <div class="hx:flex hx:gap-4 hx:items-center">
-  <img src="/images/app_icons/webp/Evertag_Icon-App-1024x1024.webp" alt="Evertag Icon" loading="lazy" class="hero-headline-icon" />
+  {{< app-icon src="/images/app_icons/png/Evertag_Icon-App-1024x1024.png" alt="Evertag Icon" class="hero-headline-icon" size="80" >}}
   {{< hextra/hero-headline >}}
   Evertag
   {{< /hextra/hero-headline >}}

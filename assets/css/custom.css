@@ -17,8 +17,8 @@
 }
 
 .hero-headline-icon {
-    width: 60px;
-    height: 60px;
+    width: 80px;
+    height: 80px;
 }
 
 /* Home-page product cards: centered rows that wrap 3+2 -> 2+2+1 -> 1 (never 4+1, never 5 in a row).
@@ -43,8 +43,8 @@
 
 @media (max-width: 639px) {
     .hero-headline-icon {
-        width: 60px;
-        height: 60px;
+        width: 80px;
+        height: 80px;
     }
     .hero-headline {
         font-size: 3rem;

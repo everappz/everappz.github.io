@@ -29,41 +29,41 @@ Prohlédněte si níže FAQ pro svou aplikaci a začněte, nebo procházejte bě
 
 {{< cards cols="2">}}
 
-{{< card 
+{{< app-card 
   link="/docs/faq/evervideo" 
   title="Evervideo" 
   subtitle="Přehrávejte 360° videa, streamujte z iCloudu, sledujte s titulky, aplikujte video ekvalizér, organizujte obsah pomocí seznamů přehrávání a stahujte videa pro offline sledování."
-  image="/images/app_icons/webp/Evervideo_Icon-App-1024x1024.webp"
+  image="/images/app_icons/png/Evervideo_Icon-App-1024x1024.png"
   method="Resize"
   options="200x q80 webp"
   imageStyle="width: 72px; height: auto; margin-left: 1rem; margin-top: 1rem; align-self: start; flex-shrink: 0;" 
 >}}
 
-{{< card 
+{{< app-card 
   link="/docs/faq/evermusic"
   title="Evermusic" 
   subtitle="Cloudový přehrávač hudby s offline režimem, audio ekvalizérem, crossfade, plynulým přehráváním, správou seznamů přehrávání, kompletní hudební knihovnou a vestavěným správcem souborů."
-  image="/images/app_icons/webp/Evermusic_Icon-App-1024x1024.webp"
+  image="/images/app_icons/png/Evermusic_Icon-App-1024x1024.png"
   method="Resize"
   options="200x q80 webp"
   imageStyle="width: 72px; height: auto; margin-left: 1rem; margin-top: 1rem; align-self: start; flex-shrink: 0;"  
 >}}
 
-{{< card 
+{{< app-card 
   link="/docs/faq/flacbox"
   title="Flacbox" 
   subtitle="Přehrávač zvuku ve vysokém rozlišení pro iPhone a Mac. Poslouchejte bezztrátové formáty jako FLAC, ALAC, APE a DSD. Dolaďte výstup pomocí pokročilých nastavení zvuku."
-  image="/images/app_icons/webp/Flacbox_Icon-App-1024x1024.webp"
+  image="/images/app_icons/png/Flacbox_Icon-App-1024x1024.png"
   method="Resize"
   options="200x q80 webp"
   imageStyle="width: 72px; height: auto; margin-left: 1rem; margin-top: 1rem; align-self: start; flex-shrink: 0;"  
 >}}
 
-{{< card 
+{{< app-card 
   link="/docs/faq/evertag"
   title="Evertag" 
   subtitle="Chytrý editor hudebních tagů s dávkovou úpravou. Opravte chybějící metadata, obaly alb a další. Upravujte tagy ID3, FLAC, APE — podporováno více než 120 polí." 
-  image="/images/app_icons/webp/Evertag_Icon-App-1024x1024.webp"
+  image="/images/app_icons/png/Evertag_Icon-App-1024x1024.png"
   method="Resize"
   options="200x q80 webp"
   imageStyle="width: 72px; height: auto; margin-left: 1rem; margin-top: 1rem; align-self: start; flex-shrink: 0;" 

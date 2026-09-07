@@ -1,0 +1,48 @@
+{{- /*
+  app-icon.html - responsive app-icon <img> with a 1x + 2x webp srcset.
+
+  App icons are small, fixed-size square images shown at ~60-100 CSS px. This
+  partial resolves the high-resolution PNG source from assets/images/app_icons/png,
+  generates a 1x and a 2x webp variant at q80, and emits an <img> with `srcset`
+  + `sizes` so Retina/HiDPI screens download the 2x asset instead of upscaling.
+
+  Params (dict):
+    src    (string, required)  any icon path/basename (webp or png). The PNG
+                               source is derived from its basename, so callers
+                               may keep passing the historical /webp/ path.
+    size   (int)               intended CSS display width in px. Default 80.
+    alt, class, style, title, loading (strings)  passed through.
+
+  Falls back to the original src untouched if no PNG source is found.
+*/ -}}
+{{- $src := .src -}}
+{{- $size := int (.size | default 80) -}}
+{{- $alt := .alt | default "" -}}
+{{- $class := .class -}}
+{{- $style := .style -}}
+{{- $title := .title -}}
+{{- $loading := .loading | default "lazy" -}}
+{{- if $src -}}
+  {{- $stem := replaceRE `\.[^.]+$` "" (path.Base $src) -}}
+  {{- $pngPath := printf "images/app_icons/png/%s.png" $stem -}}
+  {{- with resources.Get $pngPath -}}
+    {{- $specs := slice
+        (printf "Resize %dx q80 webp" $size)
+        (printf "Resize %dx q80 webp" (mul $size 2)) -}}
+    {{- partial "responsive-image.html" (dict
+        "image"    .
+        "specs"    $specs
+        "sizes"    (printf "%dpx" $size)
+        "fallback" $size
+        "fallbackFormat" "png"
+        "alt"      $alt
+        "class"    $class
+        "style"    $style
+        "title"    $title
+        "loading"  $loading
+      ) -}}
+  {{- else -}}
+    {{- /* No PNG source: emit the original untouched. */ -}}
+    <img src="{{ $src | relURL }}" alt="{{ $alt }}"{{ with $class }} class="{{ . }}"{{ end }}{{ with $style }} style="{{ . | safeCSS }}"{{ end }}{{ with $title }} title="{{ . }}"{{ end }} loading="{{ $loading }}" decoding="async" />
+  {{- end -}}
+{{- end -}}

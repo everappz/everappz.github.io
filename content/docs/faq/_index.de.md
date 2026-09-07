@@ -29,41 +29,41 @@ Erkunden Sie die FAQ für Ihre App unten, um loszulegen, oder durchsuchen Sie h�
 
 {{< cards cols="2">}}
 
-{{< card 
+{{< app-card 
   link="/docs/faq/evervideo" 
   title="Evervideo" 
   subtitle="Spielen Sie 360°-Videos ab, streamen Sie aus iCloud, schauen Sie mit Untertiteln, wenden Sie einen Video-Equalizer an, organisieren Sie Inhalte mit Wiedergabelisten und laden Sie Videos für die Offline-Ansicht herunter."
-  image="/images/app_icons/webp/Evervideo_Icon-App-1024x1024.webp"
+  image="/images/app_icons/png/Evervideo_Icon-App-1024x1024.png"
   method="Resize"
   options="200x q80 webp"
   imageStyle="width: 72px; height: auto; margin-left: 1rem; margin-top: 1rem; align-self: start; flex-shrink: 0;" 
 >}}
 
-{{< card 
+{{< app-card 
   link="/docs/faq/evermusic"
   title="Evermusic" 
   subtitle="Cloud-Musikplayer mit Offline-Modus, Audio-Equalizer, Crossfade, lückenloser Wiedergabe, Wiedergabelisten-Verwaltung, vollständiger Musikbibliothek und integriertem Dateimanager."
-  image="/images/app_icons/webp/Evermusic_Icon-App-1024x1024.webp"
+  image="/images/app_icons/png/Evermusic_Icon-App-1024x1024.png"
   method="Resize"
   options="200x q80 webp"
   imageStyle="width: 72px; height: auto; margin-left: 1rem; margin-top: 1rem; align-self: start; flex-shrink: 0;"  
 >}}
 
-{{< card 
+{{< app-card 
   link="/docs/faq/flacbox"
   title="Flacbox" 
   subtitle="Hochauflösender Audio-Player für iPhone und Mac. Hören Sie verlustfreie Formate wie FLAC, ALAC, APE und DSD. Feinabstimmung der Ausgabe mit erweiterten Audio-Einstellungen."
-  image="/images/app_icons/webp/Flacbox_Icon-App-1024x1024.webp"
+  image="/images/app_icons/png/Flacbox_Icon-App-1024x1024.png"
   method="Resize"
   options="200x q80 webp"
   imageStyle="width: 72px; height: auto; margin-left: 1rem; margin-top: 1rem; align-self: start; flex-shrink: 0;"  
 >}}
 
-{{< card 
+{{< app-card 
   link="/docs/faq/evertag"
   title="Evertag" 
   subtitle="Intelligenter Musik-Tag-Editor mit Stapelbearbeitung. Fehlende Metadaten, Album-Cover und mehr korrigieren. ID3-, FLAC-, APE-Tags bearbeiten — über 120 Felder unterstützt." 
-  image="/images/app_icons/webp/Evertag_Icon-App-1024x1024.webp"
+  image="/images/app_icons/png/Evertag_Icon-App-1024x1024.png"
   method="Resize"
   options="200x q80 webp"
   imageStyle="width: 72px; height: auto; margin-left: 1rem; margin-top: 1rem; align-self: start; flex-shrink: 0;" 
