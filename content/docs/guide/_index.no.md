@@ -27,46 +27,4 @@ Velg en app nedenfor for å komme i gang.
 
 ## Velg ditt produkt
 
-{{< cards cols="2">}}
-
-{{< app-card 
-  link="/docs/guide/evervideo" 
-  title="Evervideo" 
-  subtitle="Spill av 360°-videoer, se med undertekster, bruk en videoequalizer, organiser mediene dine med spillelister, last ned videoer for offline bruk og stream fra iCloud."
-  image="/images/app_icons/png/Evervideo_Icon-App-1024x1024.png"
-  method="Resize"
-  options="200x q80 webp"
-  imageStyle="width: 72px; height: auto; margin-left: 1rem; margin-top: 1rem; align-self: start; flex-shrink: 0;"  
->}}
-
-{{< app-card 
-  link="/docs/guide/evermusic"
-  title="Evermusic" 
-  subtitle="Skymusikkspiller med frakoblet modus, lydequalizer, crossfade, gapless avspilling, spillelister, musikkbibliotek, filbehandler." 
-  image="/images/app_icons/png/Evermusic_Icon-App-1024x1024.png"
-  method="Resize"
-  options="200x q80 webp"
-  imageStyle="width: 72px; height: auto; margin-left: 1rem; margin-top: 1rem; align-self: start; flex-shrink: 0;"  
->}}
-
-{{< app-card 
-  link="/docs/guide/flacbox"
-  title="Flacbox" 
-  subtitle="Hi-res lydspiller for iPhone og Mac. Lytt til musikken din i lossless lydformater: flac, alac, ape, wv, dsd og mer. Aktiver avanserte lydutgangsinnstillinger." 
-  image="/images/app_icons/png/Flacbox_Icon-App-1024x1024.png"
-  method="Resize"
-  options="200x q80 webp"
-  imageStyle="width: 72px; height: auto; margin-left: 1rem; margin-top: 1rem; align-self: start; flex-shrink: 0;"  
->}}
-
-{{< app-card 
-  link="/docs/guide/evertag"
-  title="Evertag" 
-  subtitle="Musikktaggeditor med automatisk korreksjon og batchmodus. Finn manglende metadata, rediger albumomslag. Rediger ID3 / FLAC / APE. Mer enn 120 tagger støttes." 
-  image="/images/app_icons/png/Evertag_Icon-App-1024x1024.png"
-  method="Resize"
-  options="200x q80 webp"
-  imageStyle="width: 72px; height: auto; margin-left: 1rem; margin-top: 1rem; align-self: start; flex-shrink: 0;" 
->}}
-
-{{< /cards >}}
+{{< product-doc-cards section="guide" >}}

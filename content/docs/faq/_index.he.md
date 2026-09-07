@@ -27,49 +27,7 @@ tags: [
 
 ## בחר את האפליקציה שלך
 
-{{< cards cols="2">}}
-
-{{< app-card 
-  link="/docs/faq/evervideo" 
-  title="Evervideo" 
-  subtitle="הפעל סרטוני 360°, הזרם מ-iCloud, צפה עם כתוביות, החל אקולייזר וידאו, ארגן תוכן עם רשימות השמעה והורד סרטונים לצפייה לא מקוונת."
-  image="/images/app_icons/png/Evervideo_Icon-App-1024x1024.png"
-  method="Resize"
-  options="200x q80 webp"
-  imageStyle="width: 72px; height: auto; margin-left: 1rem; margin-top: 1rem; align-self: start; flex-shrink: 0;" 
->}}
-
-{{< app-card 
-  link="/docs/faq/evermusic"
-  title="Evermusic" 
-  subtitle="נגן מוזיקה בענן עם מצב לא מקוון, אקולייזר שמע, crossfade, השמעה ללא רווחים, ניהול רשימות השמעה, ספריית מוזיקה מלאה ומנהל קבצים מובנה."
-  image="/images/app_icons/png/Evermusic_Icon-App-1024x1024.png"
-  method="Resize"
-  options="200x q80 webp"
-  imageStyle="width: 72px; height: auto; margin-left: 1rem; margin-top: 1rem; align-self: start; flex-shrink: 0;"  
->}}
-
-{{< app-card 
-  link="/docs/faq/flacbox"
-  title="Flacbox" 
-  subtitle="נגן שמע ברזולוציה גבוהה ל-iPhone ול-Mac. האזן לפורמטים ללא אובדן כגון FLAC, ALAC, APE ו-DSD. כוון פלט עם הגדרות שמע מתקדמות."
-  image="/images/app_icons/png/Flacbox_Icon-App-1024x1024.png"
-  method="Resize"
-  options="200x q80 webp"
-  imageStyle="width: 72px; height: auto; margin-left: 1rem; margin-top: 1rem; align-self: start; flex-shrink: 0;"  
->}}
-
-{{< app-card 
-  link="/docs/faq/evertag"
-  title="Evertag" 
-  subtitle="עורך תגי מוזיקה חכם עם עריכה אצווה. תקן מטא-נתונים חסרים, עטיפות אלבומים ועוד. ערוך תגי ID3, FLAC, APE — נתמכים יותר מ-120 שדות." 
-  image="/images/app_icons/png/Evertag_Icon-App-1024x1024.png"
-  method="Resize"
-  options="200x q80 webp"
-  imageStyle="width: 72px; height: auto; margin-left: 1rem; margin-top: 1rem; align-self: start; flex-shrink: 0;" 
->}}
-
-{{< /cards >}}
+{{< product-doc-cards section="faq" >}}
 
 ## בעיות נפוצות ותשובות
 

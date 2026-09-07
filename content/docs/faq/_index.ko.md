@@ -27,49 +27,7 @@ FAQ 페이지는 클라우드 스토리지 연결, 음악 및 비디오 파일 �
 
 ## 앱 선택
 
-{{< cards cols="2">}}
-
-{{< app-card 
-  link="/docs/faq/evervideo" 
-  title="Evervideo" 
-  subtitle="360° 동영상 재생, iCloud에서 스트리밍, 자막으로 시청, 비디오 이퀄라이저 적용, 재생목록으로 콘텐츠 구성, 오프라인 시청을 위한 동영상 다운로드."
-  image="/images/app_icons/png/Evervideo_Icon-App-1024x1024.png"
-  method="Resize"
-  options="200x q80 webp"
-  imageStyle="width: 72px; height: auto; margin-left: 1rem; margin-top: 1rem; align-self: start; flex-shrink: 0;" 
->}}
-
-{{< app-card 
-  link="/docs/faq/evermusic"
-  title="Evermusic" 
-  subtitle="오프라인 모드, 오디오 이퀄라이저, 크로스페이드, 갭리스 재생, 재생목록 관리, 전체 음악 라이브러리 및 내장 파일 관리자를 갖춘 클라우드 음악 플레이어."
-  image="/images/app_icons/png/Evermusic_Icon-App-1024x1024.png"
-  method="Resize"
-  options="200x q80 webp"
-  imageStyle="width: 72px; height: auto; margin-left: 1rem; margin-top: 1rem; align-self: start; flex-shrink: 0;"  
->}}
-
-{{< app-card 
-  link="/docs/faq/flacbox"
-  title="Flacbox" 
-  subtitle="iPhone 및 Mac용 고해상도 오디오 플레이어. FLAC, ALAC, APE, DSD와 같은 무손실 형식으로 음악을 들어보세요. 고급 오디오 설정으로 출력을 세밀하게 조정하세요."
-  image="/images/app_icons/png/Flacbox_Icon-App-1024x1024.png"
-  method="Resize"
-  options="200x q80 webp"
-  imageStyle="width: 72px; height: auto; margin-left: 1rem; margin-top: 1rem; align-self: start; flex-shrink: 0;"  
->}}
-
-{{< app-card 
-  link="/docs/faq/evertag"
-  title="Evertag" 
-  subtitle="일괄 편집 기능이 있는 스마트 음악 태그 편집기. 누락된 메타데이터, 앨범 커버 등을 수정하세요. ID3, FLAC, APE 태그 편집 — 120개 이상의 필드 지원." 
-  image="/images/app_icons/png/Evertag_Icon-App-1024x1024.png"
-  method="Resize"
-  options="200x q80 webp"
-  imageStyle="width: 72px; height: auto; margin-left: 1rem; margin-top: 1rem; align-self: start; flex-shrink: 0;" 
->}}
-
-{{< /cards >}}
+{{< product-doc-cards section="faq" >}}
 
 ## 일반적인 문제 및 답변
 

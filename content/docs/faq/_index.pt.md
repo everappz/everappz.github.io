@@ -27,49 +27,7 @@ Explore o FAQ do seu aplicativo abaixo para começar, ou navegue pelas perguntas
 
 ## Escolha seu aplicativo
 
-{{< cards cols="2">}}
-
-{{< app-card 
-  link="/docs/faq/evervideo" 
-  title="Evervideo" 
-  subtitle="Reproduza vídeos 360°, faça streaming do iCloud, assista com legendas, aplique um equalizador de vídeo, organize o conteúdo com listas de reprodução e baixe vídeos para visualização offline."
-  image="/images/app_icons/png/Evervideo_Icon-App-1024x1024.png"
-  method="Resize"
-  options="200x q80 webp"
-  imageStyle="width: 72px; height: auto; margin-left: 1rem; margin-top: 1rem; align-self: start; flex-shrink: 0;" 
->}}
-
-{{< app-card 
-  link="/docs/faq/evermusic"
-  title="Evermusic" 
-  subtitle="Reprodutor de música em nuvem com modo offline, equalizador de áudio, crossfade, reprodução sem interrupção, gerenciamento de listas de reprodução, biblioteca musical completa e gerenciador de arquivos integrado."
-  image="/images/app_icons/png/Evermusic_Icon-App-1024x1024.png"
-  method="Resize"
-  options="200x q80 webp"
-  imageStyle="width: 72px; height: auto; margin-left: 1rem; margin-top: 1rem; align-self: start; flex-shrink: 0;"  
->}}
-
-{{< app-card 
-  link="/docs/faq/flacbox"
-  title="Flacbox" 
-  subtitle="Reprodutor de áudio de alta resolução para iPhone e Mac. Ouça formatos sem perdas como FLAC, ALAC, APE e DSD. Ajuste a saída com configurações de áudio avançadas."
-  image="/images/app_icons/png/Flacbox_Icon-App-1024x1024.png"
-  method="Resize"
-  options="200x q80 webp"
-  imageStyle="width: 72px; height: auto; margin-left: 1rem; margin-top: 1rem; align-self: start; flex-shrink: 0;"  
->}}
-
-{{< app-card 
-  link="/docs/faq/evertag"
-  title="Evertag" 
-  subtitle="Editor inteligente de tags de música com edição em lote. Corrija metadados ausentes, capas de álbuns e mais. Edite tags ID3, FLAC, APE — mais de 120 campos suportados." 
-  image="/images/app_icons/png/Evertag_Icon-App-1024x1024.png"
-  method="Resize"
-  options="200x q80 webp"
-  imageStyle="width: 72px; height: auto; margin-left: 1rem; margin-top: 1rem; align-self: start; flex-shrink: 0;" 
->}}
-
-{{< /cards >}}
+{{< product-doc-cards section="faq" >}}
 
 ## Problemas comuns e respostas
 

@@ -27,46 +27,4 @@ Chọn ứng dụng bên dưới để bắt đầu.
 
 ## Chọn sản phẩm của bạn
 
-{{< cards cols="2">}}
-
-{{< app-card 
-  link="/docs/guide/evervideo" 
-  title="Evervideo" 
-  subtitle="Phát video 360°, xem với phụ đề, sử dụng bộ chỉnh âm video, sắp xếp phương tiện bằng danh sách phát, tải video xuống để dùng ngoại tuyến và phát trực tuyến từ iCloud."
-  image="/images/app_icons/png/Evervideo_Icon-App-1024x1024.png"
-  method="Resize"
-  options="200x q80 webp"
-  imageStyle="width: 72px; height: auto; margin-left: 1rem; margin-top: 1rem; align-self: start; flex-shrink: 0;"  
->}}
-
-{{< app-card 
-  link="/docs/guide/evermusic"
-  title="Evermusic" 
-  subtitle="Trình phát nhạc đám mây với chế độ ngoại tuyến, bộ chỉnh âm, crossfade, phát lại liên tục, danh sách phát, thư viện nhạc, trình quản lý tệp." 
-  image="/images/app_icons/png/Evermusic_Icon-App-1024x1024.png"
-  method="Resize"
-  options="200x q80 webp"
-  imageStyle="width: 72px; height: auto; margin-left: 1rem; margin-top: 1rem; align-self: start; flex-shrink: 0;"  
->}}
-
-{{< app-card 
-  link="/docs/guide/flacbox"
-  title="Flacbox" 
-  subtitle="Trình phát âm thanh Hi-Res cho iPhone và Mac. Nghe nhạc ở định dạng âm thanh không mất dữ liệu: flac, alac, ape, wv, dsd và nhiều hơn nữa. Bật cài đặt đầu ra âm thanh nâng cao." 
-  image="/images/app_icons/png/Flacbox_Icon-App-1024x1024.png"
-  method="Resize"
-  options="200x q80 webp"
-  imageStyle="width: 72px; height: auto; margin-left: 1rem; margin-top: 1rem; align-self: start; flex-shrink: 0;"  
->}}
-
-{{< app-card 
-  link="/docs/guide/evertag"
-  title="Evertag" 
-  subtitle="Trình chỉnh sửa thẻ nhạc với tính năng tự động sửa và chế độ hàng loạt. Tìm siêu dữ liệu bị thiếu, chỉnh sửa bìa album. Chỉnh sửa ID3 / FLAC / APE. Hỗ trợ hơn 120 thẻ." 
-  image="/images/app_icons/png/Evertag_Icon-App-1024x1024.png"
-  method="Resize"
-  options="200x q80 webp"
-  imageStyle="width: 72px; height: auto; margin-left: 1rem; margin-top: 1rem; align-self: start; flex-shrink: 0;" 
->}}
-
-{{< /cards >}}
+{{< product-doc-cards section="guide" >}}

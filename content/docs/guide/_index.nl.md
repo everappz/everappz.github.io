@@ -27,46 +27,4 @@ Kies hieronder een app om te beginnen.
 
 ## Kies uw product
 
-{{< cards cols="2">}}
-
-{{< app-card 
-  link="/docs/guide/evervideo" 
-  title="Evervideo" 
-  subtitle="Speel 360°-video's af, kijk met ondertitels, gebruik een video-equalizer, organiseer uw media met afspeellijsten, download video's voor offline gebruik en stream vanuit iCloud."
-  image="/images/app_icons/png/Evervideo_Icon-App-1024x1024.png"
-  method="Resize"
-  options="200x q80 webp"
-  imageStyle="width: 72px; height: auto; margin-left: 1rem; margin-top: 1rem; align-self: start; flex-shrink: 0;"  
->}}
-
-{{< app-card 
-  link="/docs/guide/evermusic"
-  title="Evermusic" 
-  subtitle="Cloudmuziekspeler met offline modus, audio-equalizer, crossfade, gapless afspelen, afspeellijsten, muziekbibliotheek, bestandsbeheerder." 
-  image="/images/app_icons/png/Evermusic_Icon-App-1024x1024.png"
-  method="Resize"
-  options="200x q80 webp"
-  imageStyle="width: 72px; height: auto; margin-left: 1rem; margin-top: 1rem; align-self: start; flex-shrink: 0;"  
->}}
-
-{{< app-card 
-  link="/docs/guide/flacbox"
-  title="Flacbox" 
-  subtitle="Hi-res audiospeler voor iPhone en Mac. Luister naar uw muziek in lossless audioformaten: flac, alac, ape, wv, dsd en meer. Schakel geavanceerde audio-uitvoerinstellingen in." 
-  image="/images/app_icons/png/Flacbox_Icon-App-1024x1024.png"
-  method="Resize"
-  options="200x q80 webp"
-  imageStyle="width: 72px; height: auto; margin-left: 1rem; margin-top: 1rem; align-self: start; flex-shrink: 0;"  
->}}
-
-{{< app-card 
-  link="/docs/guide/evertag"
-  title="Evertag" 
-  subtitle="Muziektageditor met automatische correctie en batchmodus. Vind ontbrekende metadata, bewerk albumhoezen. Bewerk ID3 / FLAC / APE. Meer dan 120 tags ondersteund." 
-  image="/images/app_icons/png/Evertag_Icon-App-1024x1024.png"
-  method="Resize"
-  options="200x q80 webp"
-  imageStyle="width: 72px; height: auto; margin-left: 1rem; margin-top: 1rem; align-self: start; flex-shrink: 0;" 
->}}
-
-{{< /cards >}}
+{{< product-doc-cards section="guide" >}}

@@ -27,49 +27,7 @@ tags: [
 
 ## अपना ऐप चुनें
 
-{{< cards cols="2">}}
-
-{{< app-card 
-  link="/docs/faq/evervideo" 
-  title="Evervideo" 
-  subtitle="360° वीडियो चलाएं, iCloud से स्ट्रीम करें, सबटाइटल के साथ देखें, वीडियो इक्वलाइज़र लागू करें, प्लेलिस्ट से सामग्री व्यवस्थित करें और ऑफलाइन देखने के लिए वीडियो डाउनलोड करें।"
-  image="/images/app_icons/png/Evervideo_Icon-App-1024x1024.png"
-  method="Resize"
-  options="200x q80 webp"
-  imageStyle="width: 72px; height: auto; margin-left: 1rem; margin-top: 1rem; align-self: start; flex-shrink: 0;" 
->}}
-
-{{< app-card 
-  link="/docs/faq/evermusic"
-  title="Evermusic" 
-  subtitle="ऑफलाइन मोड, ऑडियो इक्वलाइज़र, क्रॉसफेड, गैपलेस प्लेबैक, प्लेलिस्ट प्रबंधन, पूर्ण म्यूजिक लाइब्रेरी और बिल्ट-इन फ़ाइल मैनेजर के साथ क्लाउड म्यूजिक प्लेयर।"
-  image="/images/app_icons/png/Evermusic_Icon-App-1024x1024.png"
-  method="Resize"
-  options="200x q80 webp"
-  imageStyle="width: 72px; height: auto; margin-left: 1rem; margin-top: 1rem; align-self: start; flex-shrink: 0;"  
->}}
-
-{{< app-card 
-  link="/docs/faq/flacbox"
-  title="Flacbox" 
-  subtitle="iPhone और Mac के लिए उच्च-रिज़ॉल्यूशन ऑडियो प्लेयर। FLAC, ALAC, APE और DSD जैसे लॉसलेस फॉर्मेट सुनें। उन्नत ऑडियो सेटिंग्स के साथ आउटपुट फाइन-ट्यून करें।"
-  image="/images/app_icons/png/Flacbox_Icon-App-1024x1024.png"
-  method="Resize"
-  options="200x q80 webp"
-  imageStyle="width: 72px; height: auto; margin-left: 1rem; margin-top: 1rem; align-self: start; flex-shrink: 0;"  
->}}
-
-{{< app-card 
-  link="/docs/faq/evertag"
-  title="Evertag" 
-  subtitle="बैच एडिटिंग के साथ स्मार्ट म्यूजिक टैग एडिटर। गुम मेटाडेटा, एल्बम कवर और अधिक ठीक करें। ID3, FLAC, APE टैग संपादित करें — 120 से अधिक फ़ील्ड समर्थित।" 
-  image="/images/app_icons/png/Evertag_Icon-App-1024x1024.png"
-  method="Resize"
-  options="200x q80 webp"
-  imageStyle="width: 72px; height: auto; margin-left: 1rem; margin-top: 1rem; align-self: start; flex-shrink: 0;" 
->}}
-
-{{< /cards >}}
+{{< product-doc-cards section="faq" >}}
 
 ## सामान्य समस्याएं और उत्तर
 

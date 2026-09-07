@@ -19,46 +19,4 @@ iPhone、iPad、または Mac で Everappz アプリを設定して使う方法�
 
 ## 製品を選んでください
 
-{{< cards cols="2">}}
-
-{{< app-card 
-  link="/docs/guide/evervideo" 
-  title="Evervideo" 
-  subtitle="360°動画を再生し、字幕付きで視聴し、ビデオイコライザーを使用し、プレイリストでメディアを整理し、動画をオフライン用にダウンロードし、iCloud からストリーミングできます。"
-  image="/images/app_icons/png/Evervideo_Icon-App-1024x1024.png"
-  method="Resize"
-  options="200x q80 webp"
-  imageStyle="width: 72px; height: auto; margin-left: 1rem; margin-top: 1rem; align-self: start; flex-shrink: 0;"  
->}}
-
-{{< app-card 
-  link="/docs/guide/evermusic"
-  title="Evermusic" 
-  subtitle="オフラインモード、オーディオイコライザー、クロスフェード、ギャップレス再生、プレイリスト、音楽ライブラリ、ファイルマネージャーを備えたクラウド音楽プレーヤー。" 
-  image="/images/app_icons/png/Evermusic_Icon-App-1024x1024.png"
-  method="Resize"
-  options="200x q80 webp"
-  imageStyle="width: 72px; height: auto; margin-left: 1rem; margin-top: 1rem; align-self: start; flex-shrink: 0;"  
->}}
-
-{{< app-card 
-  link="/docs/guide/flacbox"
-  title="Flacbox" 
-  subtitle="iPhone と Mac 向け Hi-Res オーディオプレーヤー。ロスレスオーディオ形式で音楽を聴きましょう：flac、alac、ape、wv、dsd など。高度なオーディオ出力設定を有効にできます。" 
-  image="/images/app_icons/png/Flacbox_Icon-App-1024x1024.png"
-  method="Resize"
-  options="200x q80 webp"
-  imageStyle="width: 72px; height: auto; margin-left: 1rem; margin-top: 1rem; align-self: start; flex-shrink: 0;"  
->}}
-
-{{< app-card 
-  link="/docs/guide/evertag"
-  title="Evertag" 
-  subtitle="自動修正とバッチモードを備えた音楽タグエディタ。不足しているメタデータを見つけ、アルバムカバーを編集。ID3 / FLAC / APE を編集。120 以上のタグに対応。" 
-  image="/images/app_icons/png/Evertag_Icon-App-1024x1024.png"
-  method="Resize"
-  options="200x q80 webp"
-  imageStyle="width: 72px; height: auto; margin-left: 1rem; margin-top: 1rem; align-self: start; flex-shrink: 0;" 
->}}
-
-{{< /cards >}}
+{{< product-doc-cards section="guide" >}}

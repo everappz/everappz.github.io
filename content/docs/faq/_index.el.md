@@ -27,49 +27,7 @@ tags: [
 
 ## Επιλέξτε την εφαρμογή σας
 
-{{< cards cols="2">}}
-
-{{< app-card 
-  link="/docs/faq/evervideo" 
-  title="Evervideo" 
-  subtitle="Αναπαράγετε βίντεο 360°, κάντε streaming από iCloud, παρακολουθήστε με υπότιτλους, εφαρμόστε ισοσταθμιστή βίντεο, οργανώστε περιεχόμενο με λίστες αναπαραγωγής και κατεβάστε βίντεο για offline προβολή."
-  image="/images/app_icons/png/Evervideo_Icon-App-1024x1024.png"
-  method="Resize"
-  options="200x q80 webp"
-  imageStyle="width: 72px; height: auto; margin-left: 1rem; margin-top: 1rem; align-self: start; flex-shrink: 0;" 
->}}
-
-{{< app-card 
-  link="/docs/faq/evermusic"
-  title="Evermusic" 
-  subtitle="Cloud player μουσικής με offline λειτουργία, ισοσταθμιστή ήχου, crossfade, αδιάλειπτη αναπαραγωγή, διαχείριση λιστών αναπαραγωγής, πλήρη βιβλιοθήκη μουσικής και ενσωματωμένο διαχειριστή αρχείων."
-  image="/images/app_icons/png/Evermusic_Icon-App-1024x1024.png"
-  method="Resize"
-  options="200x q80 webp"
-  imageStyle="width: 72px; height: auto; margin-left: 1rem; margin-top: 1rem; align-self: start; flex-shrink: 0;"  
->}}
-
-{{< app-card 
-  link="/docs/faq/flacbox"
-  title="Flacbox" 
-  subtitle="Player ήχου υψηλής ανάλυσης για iPhone και Mac. Ακούστε μορφές χωρίς απώλειες όπως FLAC, ALAC, APE και DSD. Ρυθμίστε την έξοδο με προηγμένες ρυθμίσεις ήχου."
-  image="/images/app_icons/png/Flacbox_Icon-App-1024x1024.png"
-  method="Resize"
-  options="200x q80 webp"
-  imageStyle="width: 72px; height: auto; margin-left: 1rem; margin-top: 1rem; align-self: start; flex-shrink: 0;"  
->}}
-
-{{< app-card 
-  link="/docs/faq/evertag"
-  title="Evertag" 
-  subtitle="Έξυπνος επεξεργαστής ετικετών μουσικής με μαζική επεξεργασία. Διορθώστε ελλείποντα μεταδεδομένα, εξώφυλλα άλμπουμ και άλλα. Επεξεργαστείτε ετικέτες ID3, FLAC, APE — πάνω από 120 πεδία υποστηρίζονται." 
-  image="/images/app_icons/png/Evertag_Icon-App-1024x1024.png"
-  method="Resize"
-  options="200x q80 webp"
-  imageStyle="width: 72px; height: auto; margin-left: 1rem; margin-top: 1rem; align-self: start; flex-shrink: 0;" 
->}}
-
-{{< /cards >}}
+{{< product-doc-cards section="faq" >}}
 
 ## Συνήθη προβλήματα και απαντήσεις
 

@@ -19,46 +19,4 @@ tags: ["دليل المستخدم", "شرح التطبيق", "evermusic", "flacb
 
 ## اختر منتجك
 
-{{< cards cols="2">}}
-
-{{< app-card 
-  link="/docs/guide/evervideo" 
-  title="Evervideo" 
-  subtitle="شغّل مقاطع الفيديو بزاوية 360 درجة، وشاهد مع ترجمة، واستخدم معادل الفيديو، ونظّم وسائطك بقوائم التشغيل، وحمّل مقاطع الفيديو للتشغيل بدون اتصال، وبث المحتوى من iCloud."
-  image="/images/app_icons/png/Evervideo_Icon-App-1024x1024.png"
-  method="Resize"
-  options="200x q80 webp"
-  imageStyle="width: 72px; height: auto; margin-left: 1rem; margin-top: 1rem; align-self: start; flex-shrink: 0;"  
->}}
-
-{{< app-card 
-  link="/docs/guide/evermusic"
-  title="Evermusic" 
-  subtitle="مشغل موسيقى سحابي مع وضع عدم الاتصال، ومعادل صوتي، وتلاشي متقاطع، وتشغيل بدون فجوات، وقوائم تشغيل، ومكتبة موسيقى، ومدير ملفات." 
-  image="/images/app_icons/png/Evermusic_Icon-App-1024x1024.png"
-  method="Resize"
-  options="200x q80 webp"
-  imageStyle="width: 72px; height: auto; margin-left: 1rem; margin-top: 1rem; align-self: start; flex-shrink: 0;"  
->}}
-
-{{< app-card 
-  link="/docs/guide/flacbox"
-  title="Flacbox" 
-  subtitle="مشغل صوت عالي الدقة لـ iPhone وMac. استمع إلى موسيقاك بتنسيقات صوت بدون خسارة: flac وalac وape وwv وdsd والمزيد. قم بتمكين إعدادات الصوت الخرج المتقدمة." 
-  image="/images/app_icons/png/Flacbox_Icon-App-1024x1024.png"
-  method="Resize"
-  options="200x q80 webp"
-  imageStyle="width: 72px; height: auto; margin-left: 1rem; margin-top: 1rem; align-self: start; flex-shrink: 0;"  
->}}
-
-{{< app-card 
-  link="/docs/guide/evertag"
-  title="Evertag" 
-  subtitle="محرر علامات موسيقية مع التصحيح التلقائي ووضع الدُفعات. ابحث عن البيانات الوصفية المفقودة، وعدّل أغلفة الألبومات. عدّل ID3 وFLAC وAPE. يدعم أكثر من 120 علامة." 
-  image="/images/app_icons/png/Evertag_Icon-App-1024x1024.png"
-  method="Resize"
-  options="200x q80 webp"
-  imageStyle="width: 72px; height: auto; margin-left: 1rem; margin-top: 1rem; align-self: start; flex-shrink: 0;" 
->}}
-
-{{< /cards >}}
+{{< product-doc-cards section="guide" >}}

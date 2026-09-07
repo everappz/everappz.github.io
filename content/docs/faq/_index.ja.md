@@ -27,49 +27,7 @@ FAQ ページでは、クラウドストレージの接続、音楽やビデオ�
 
 ## アプリを選択してください
 
-{{< cards cols="2">}}
-
-{{< app-card 
-  link="/docs/faq/evervideo" 
-  title="Evervideo" 
-  subtitle="360° ビデオを再生し、iCloud からストリーミングし、字幕付きで視聴し、ビデオイコライザーを適用し、プレイリストでコンテンツを整理し、オフライン視聴のためにビデオをダウンロードできます。"
-  image="/images/app_icons/png/Evervideo_Icon-App-1024x1024.png"
-  method="Resize"
-  options="200x q80 webp"
-  imageStyle="width: 72px; height: auto; margin-left: 1rem; margin-top: 1rem; align-self: start; flex-shrink: 0;" 
->}}
-
-{{< app-card 
-  link="/docs/faq/evermusic"
-  title="Evermusic" 
-  subtitle="オフラインモード、オーディオイコライザー、クロスフェード、ギャップレス再生、プレイリスト管理、完全な音楽ライブラリ、組み込みファイルマネージャーを備えたクラウド音楽プレーヤー。"
-  image="/images/app_icons/png/Evermusic_Icon-App-1024x1024.png"
-  method="Resize"
-  options="200x q80 webp"
-  imageStyle="width: 72px; height: auto; margin-left: 1rem; margin-top: 1rem; align-self: start; flex-shrink: 0;"  
->}}
-
-{{< app-card 
-  link="/docs/faq/flacbox"
-  title="Flacbox" 
-  subtitle="iPhone と Mac 向けの高解像度オーディオプレーヤー。FLAC、ALAC、APE、DSD などのロスレス形式を再生できます。高度なオーディオ設定で出力を細かく調整できます。"
-  image="/images/app_icons/png/Flacbox_Icon-App-1024x1024.png"
-  method="Resize"
-  options="200x q80 webp"
-  imageStyle="width: 72px; height: auto; margin-left: 1rem; margin-top: 1rem; align-self: start; flex-shrink: 0;"  
->}}
-
-{{< app-card 
-  link="/docs/faq/evertag"
-  title="Evertag" 
-  subtitle="一括編集機能付きのスマートな音楽タグエディタ。欠落したメタデータ、アルバムカバーなどを修正できます。ID3、FLAC、APE タグを編集 — 120 以上のフィールドに対応。" 
-  image="/images/app_icons/png/Evertag_Icon-App-1024x1024.png"
-  method="Resize"
-  options="200x q80 webp"
-  imageStyle="width: 72px; height: auto; margin-left: 1rem; margin-top: 1rem; align-self: start; flex-shrink: 0;" 
->}}
-
-{{< /cards >}}
+{{< product-doc-cards section="faq" >}}
 
 ## よくある問題と回答
 

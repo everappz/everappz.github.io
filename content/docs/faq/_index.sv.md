@@ -27,49 +27,7 @@ Utforska FAQ:n för din app nedan för att komma igång, eller bläddra igenom v
 
 ## Välj din app
 
-{{< cards cols="2">}}
-
-{{< app-card 
-  link="/docs/faq/evervideo" 
-  title="Evervideo" 
-  subtitle="Spela upp 360°-videor, streama från iCloud, titta med undertexter, använd en videoequalizer, organisera innehåll med spellistor och ladda ner videor för offlinevisning."
-  image="/images/app_icons/png/Evervideo_Icon-App-1024x1024.png"
-  method="Resize"
-  options="200x q80 webp"
-  imageStyle="width: 72px; height: auto; margin-left: 1rem; margin-top: 1rem; align-self: start; flex-shrink: 0;" 
->}}
-
-{{< app-card 
-  link="/docs/faq/evermusic"
-  title="Evermusic" 
-  subtitle="Molnmusikspelarе med offlineläge, ljudequalizer, crossfade, gapless uppspelning, spellisthantering, fullt musikbibliotek och inbyggd filhanterare."
-  image="/images/app_icons/png/Evermusic_Icon-App-1024x1024.png"
-  method="Resize"
-  options="200x q80 webp"
-  imageStyle="width: 72px; height: auto; margin-left: 1rem; margin-top: 1rem; align-self: start; flex-shrink: 0;"  
->}}
-
-{{< app-card 
-  link="/docs/faq/flacbox"
-  title="Flacbox" 
-  subtitle="Hi-res-ljudspelare för iPhone och Mac. Lyssna på förlustfria format som FLAC, ALAC, APE och DSD. Finjustera utdata med avancerade ljudinställningar."
-  image="/images/app_icons/png/Flacbox_Icon-App-1024x1024.png"
-  method="Resize"
-  options="200x q80 webp"
-  imageStyle="width: 72px; height: auto; margin-left: 1rem; margin-top: 1rem; align-self: start; flex-shrink: 0;"  
->}}
-
-{{< app-card 
-  link="/docs/faq/evertag"
-  title="Evertag" 
-  subtitle="Smart musiktaggeditor med batchredigering. Fixa saknad metadata, albumomslag och mer. Redigera ID3-, FLAC- och APE-taggar — över 120 fält stöds." 
-  image="/images/app_icons/png/Evertag_Icon-App-1024x1024.png"
-  method="Resize"
-  options="200x q80 webp"
-  imageStyle="width: 72px; height: auto; margin-left: 1rem; margin-top: 1rem; align-self: start; flex-shrink: 0;" 
->}}
-
-{{< /cards >}}
+{{< product-doc-cards section="faq" >}}
 
 ## Vanliga problem och svar
 

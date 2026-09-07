@@ -27,46 +27,4 @@ Wybierz aplikację poniżej, aby zacząć.
 
 ## Wybierz swój produkt
 
-{{< cards cols="2">}}
-
-{{< app-card 
-  link="/docs/guide/evervideo" 
-  title="Evervideo" 
-  subtitle="Odtwarzaj filmy 360°, oglądaj z napisami, używaj equalizera wideo, organizuj multimedia za pomocą list odtwarzania, pobieraj filmy do użytku offline i streamuj z iCloud."
-  image="/images/app_icons/png/Evervideo_Icon-App-1024x1024.png"
-  method="Resize"
-  options="200x q80 webp"
-  imageStyle="width: 72px; height: auto; margin-left: 1rem; margin-top: 1rem; align-self: start; flex-shrink: 0;"  
->}}
-
-{{< app-card 
-  link="/docs/guide/evermusic"
-  title="Evermusic" 
-  subtitle="Odtwarzacz muzyki w chmurze z trybem offline, equalizerem audio, crossfade, bezszwowym odtwarzaniem, listami odtwarzania, biblioteką muzyczną, menedżerem plików." 
-  image="/images/app_icons/png/Evermusic_Icon-App-1024x1024.png"
-  method="Resize"
-  options="200x q80 webp"
-  imageStyle="width: 72px; height: auto; margin-left: 1rem; margin-top: 1rem; align-self: start; flex-shrink: 0;"  
->}}
-
-{{< app-card 
-  link="/docs/guide/flacbox"
-  title="Flacbox" 
-  subtitle="Odtwarzacz audio Hi-Res dla iPhone i Mac. Słuchaj muzyki w bezstratnych formatach audio: flac, alac, ape, wv, dsd i innych. Włącz zaawansowane ustawienia wyjścia audio." 
-  image="/images/app_icons/png/Flacbox_Icon-App-1024x1024.png"
-  method="Resize"
-  options="200x q80 webp"
-  imageStyle="width: 72px; height: auto; margin-left: 1rem; margin-top: 1rem; align-self: start; flex-shrink: 0;"  
->}}
-
-{{< app-card 
-  link="/docs/guide/evertag"
-  title="Evertag" 
-  subtitle="Edytor tagów muzycznych z automatyczną korektą i trybem wsadowym. Znajdź brakujące metadane, edytuj okładki albumów. Edytuj ID3 / FLAC / APE. Obsługiwanych ponad 120 tagów." 
-  image="/images/app_icons/png/Evertag_Icon-App-1024x1024.png"
-  method="Resize"
-  options="200x q80 webp"
-  imageStyle="width: 72px; height: auto; margin-left: 1rem; margin-top: 1rem; align-self: start; flex-shrink: 0;" 
->}}
-
-{{< /cards >}}
+{{< product-doc-cards section="guide" >}}

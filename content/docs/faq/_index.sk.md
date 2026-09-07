@@ -27,49 +27,7 @@ Preskúmajte FAQ pre vašu aplikáciu nižšie, aby ste mohli začať, alebo si 
 
 ## Vyberte svoju aplikáciu
 
-{{< cards cols="2">}}
-
-{{< app-card 
-  link="/docs/faq/evervideo" 
-  title="Evervideo" 
-  subtitle="Prehrávajte 360° videá, streamujte z iCloud, sledujte s titulkami, používajte video ekvalizér, organizujte obsah so zoznamami skladieb a sťahujte videá na offline sledovanie."
-  image="/images/app_icons/png/Evervideo_Icon-App-1024x1024.png"
-  method="Resize"
-  options="200x q80 webp"
-  imageStyle="width: 72px; height: auto; margin-left: 1rem; margin-top: 1rem; align-self: start; flex-shrink: 0;" 
->}}
-
-{{< app-card 
-  link="/docs/faq/evermusic"
-  title="Evermusic" 
-  subtitle="Cloudový hudobný prehrávač s offline režimom, audio ekvalizérom, crossfade, bezšvíkovým prehrávaním, správou zoznamov skladieb, plnou hudobnou knižnicou a vstavaným správcom súborov."
-  image="/images/app_icons/png/Evermusic_Icon-App-1024x1024.png"
-  method="Resize"
-  options="200x q80 webp"
-  imageStyle="width: 72px; height: auto; margin-left: 1rem; margin-top: 1rem; align-self: start; flex-shrink: 0;"  
->}}
-
-{{< app-card 
-  link="/docs/faq/flacbox"
-  title="Flacbox" 
-  subtitle="Hi-res audio prehrávač pre iPhone a Mac. Počúvajte hudbu v bezstratových formátoch ako FLAC, ALAC, APE a DSD. Jemne dolaďte výstup pomocou pokročilých nastavení zvuku."
-  image="/images/app_icons/png/Flacbox_Icon-App-1024x1024.png"
-  method="Resize"
-  options="200x q80 webp"
-  imageStyle="width: 72px; height: auto; margin-left: 1rem; margin-top: 1rem; align-self: start; flex-shrink: 0;"  
->}}
-
-{{< app-card 
-  link="/docs/faq/evertag"
-  title="Evertag" 
-  subtitle="Inteligentný editor hudobných tagov s dávkovým úpravám. Opravte chýbajúce metadáta, obaly albumov a ďalšie. Upravujte tagy ID3, FLAC, APE — podporovaných viac ako 120 polí." 
-  image="/images/app_icons/png/Evertag_Icon-App-1024x1024.png"
-  method="Resize"
-  options="200x q80 webp"
-  imageStyle="width: 72px; height: auto; margin-left: 1rem; margin-top: 1rem; align-self: start; flex-shrink: 0;" 
->}}
-
-{{< /cards >}}
+{{< product-doc-cards section="faq" >}}
 
 ## Bežné problémy a odpovede
 

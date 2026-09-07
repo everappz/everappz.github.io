@@ -1,0 +1,51 @@
+{{- /*
+  product-doc-cards: renders the full grid of product cards used on the docs
+  Guide and FAQ landing pages. Titles, links, icons, and layout are fixed here;
+  only the subtitle varies per product and per locale, so it is pulled from the
+  shared i18n tables via the key  product<Product>Subtitle
+  (e.g. productEvervideoSubtitle) — the SAME keys the homepage product cards
+  use, so the main page, Guide, and FAQ always show identical subtitles.
+
+  App icons are rendered responsively (1x/2x webp + PNG fallback) at 72px.
+
+  @param {string} section  "guide" or "faq". Builds links (/docs/<section>/<slug>). Required.
+  @param {int}    cols     Grid columns. Default 2.
+
+  @example {{< product-doc-cards section="guide" >}}
+*/ -}}
+{{- $page := .Page -}}
+{{- $section := .Get "section" -}}
+{{- $cols := .Get "cols" | default 2 -}}
+{{- $size := 72 -}}
+{{- $imageStyle := "width: 72px; height: auto; margin-left: 1rem; margin-top: 1rem; align-self: start; flex-shrink: 0;" -}}
+{{- $specs := slice
+    (printf "Resize %dx q80 webp" $size)
+    (printf "Resize %dx q80 webp" (mul $size 2)) -}}
+{{- $products := slice
+    (dict "slug" "evervideo" "title" "Evervideo" "icon" "Evervideo_Icon-App-1024x1024")
+    (dict "slug" "evermusic" "title" "Evermusic" "icon" "Evermusic_Icon-App-1024x1024")
+    (dict "slug" "flacbox"   "title" "Flacbox"   "icon" "Flacbox_Icon-App-1024x1024")
+    (dict "slug" "evertag"   "title" "Evertag"   "icon" "Evertag_Icon-App-1024x1024")
+    (dict "slug" "everdisk"  "title" "Everdisk"  "icon" "Everdisk_Icon-App-1024x1024")
+-}}
+<div class="hextra-cards hx:mt-4 hx:gap-4 hx:grid not-prose" style="--hextra-cards-grid-cols: {{ $cols }};">
+{{- range $products -}}
+  {{- $subtitle := i18n (printf "product%sSubtitle" .title) -}}
+  {{- $imagePath := printf "/images/app_icons/png/%s.png" .icon -}}
+  {{- $imageResource := resources.Get (printf "images/app_icons/png/%s.png" .icon) -}}
+  {{- partial "shortcodes/card" (dict
+      "page"          $page
+      "link"          (printf "/docs/%s/%s" $section .slug)
+      "title"         .title
+      "subtitle"      $subtitle
+      "image"         $imagePath
+      "imageResource" $imageResource
+      "specs"         $specs
+      "sizes"         (printf "%dpx" $size)
+      "fallback"      $size
+      "fallbackFormat" "png"
+      "alt"           .title
+      "imageStyle"    $imageStyle
+    ) -}}
+{{- end -}}
+</div>

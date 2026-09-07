@@ -27,49 +27,7 @@ Explorez la FAQ de votre application ci-dessous pour commencer, ou parcourez les
 
 ## Choisissez votre application
 
-{{< cards cols="2">}}
-
-{{< app-card 
-  link="/docs/faq/evervideo" 
-  title="Evervideo" 
-  subtitle="Lisez des vidéos à 360°, diffusez depuis iCloud, regardez avec des sous-titres, appliquez un égaliseur vidéo, organisez le contenu avec des listes de lecture et téléchargez des vidéos pour les regarder hors ligne."
-  image="/images/app_icons/png/Evervideo_Icon-App-1024x1024.png"
-  method="Resize"
-  options="200x q80 webp"
-  imageStyle="width: 72px; height: auto; margin-left: 1rem; margin-top: 1rem; align-self: start; flex-shrink: 0;" 
->}}
-
-{{< app-card 
-  link="/docs/faq/evermusic"
-  title="Evermusic" 
-  subtitle="Lecteur de musique cloud avec mode hors ligne, égaliseur audio, crossfade, lecture sans coupure, gestion des listes de lecture, bibliothèque musicale complète et gestionnaire de fichiers intégré."
-  image="/images/app_icons/png/Evermusic_Icon-App-1024x1024.png"
-  method="Resize"
-  options="200x q80 webp"
-  imageStyle="width: 72px; height: auto; margin-left: 1rem; margin-top: 1rem; align-self: start; flex-shrink: 0;"  
->}}
-
-{{< app-card 
-  link="/docs/faq/flacbox"
-  title="Flacbox" 
-  subtitle="Lecteur audio haute résolution pour iPhone et Mac. Écoutez des formats sans perte comme FLAC, ALAC, APE et DSD. Affinez la sortie avec des paramètres audio avancés."
-  image="/images/app_icons/png/Flacbox_Icon-App-1024x1024.png"
-  method="Resize"
-  options="200x q80 webp"
-  imageStyle="width: 72px; height: auto; margin-left: 1rem; margin-top: 1rem; align-self: start; flex-shrink: 0;"  
->}}
-
-{{< app-card 
-  link="/docs/faq/evertag"
-  title="Evertag" 
-  subtitle="Éditeur intelligent de tags musicaux avec édition par lots. Corrigez les métadonnées manquantes, les pochettes d'albums et plus encore. Éditez les tags ID3, FLAC, APE — plus de 120 champs pris en charge." 
-  image="/images/app_icons/png/Evertag_Icon-App-1024x1024.png"
-  method="Resize"
-  options="200x q80 webp"
-  imageStyle="width: 72px; height: auto; margin-left: 1rem; margin-top: 1rem; align-self: start; flex-shrink: 0;" 
->}}
-
-{{< /cards >}}
+{{< product-doc-cards section="faq" >}}
 
 ## Problèmes courants et réponses
 

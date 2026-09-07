@@ -19,46 +19,4 @@ Válasszon egy alkalmazást alább a kezdéshez.
 
 ## Válassza ki termékét
 
-{{< cards cols="2">}}
-
-{{< app-card 
-  link="/docs/guide/evervideo" 
-  title="Evervideo" 
-  subtitle="Játsszon le 360°-os videókat, nézzen feliratokkal, használjon videó hangszínszabályozót, rendezze médiáját lejátszási listákkal, töltse le a videókat offline használatra, és streamelje az iCloudból."
-  image="/images/app_icons/png/Evervideo_Icon-App-1024x1024.png"
-  method="Resize"
-  options="200x q80 webp"
-  imageStyle="width: 72px; height: auto; margin-left: 1rem; margin-top: 1rem; align-self: start; flex-shrink: 0;"  
->}}
-
-{{< app-card 
-  link="/docs/guide/evermusic"
-  title="Evermusic" 
-  subtitle="Felhő-zeneszlejátszó offline móddal, hang-hangszínszabályozóval, crossfade-del, zökkenőmentes lejátszással, lejátszási listákkal, zenei könyvtárral és fájlkezelővel." 
-  image="/images/app_icons/png/Evermusic_Icon-App-1024x1024.png"
-  method="Resize"
-  options="200x q80 webp"
-  imageStyle="width: 72px; height: auto; margin-left: 1rem; margin-top: 1rem; align-self: start; flex-shrink: 0;"  
->}}
-
-{{< app-card 
-  link="/docs/guide/flacbox"
-  title="Flacbox" 
-  subtitle="Hi-Res audiolejátszó iPhone-ra és Macre. Hallgassa zenéjét veszteségmentes hangformátumokban: flac, alac, ape, wv, dsd és más. Engedélyezze a speciális hangkimeneti beállításokat." 
-  image="/images/app_icons/png/Flacbox_Icon-App-1024x1024.png"
-  method="Resize"
-  options="200x q80 webp"
-  imageStyle="width: 72px; height: auto; margin-left: 1rem; margin-top: 1rem; align-self: start; flex-shrink: 0;"  
->}}
-
-{{< app-card 
-  link="/docs/guide/evertag"
-  title="Evertag" 
-  subtitle="Zenecímke-szerkesztő automatikus javítással és kötegelt móddal. Találja meg a hiányzó metaadatokat, szerkessze az album borítókat. Szerkeszsze az ID3 / FLAC / APE formátumokat. Több mint 120 tag támogatott." 
-  image="/images/app_icons/png/Evertag_Icon-App-1024x1024.png"
-  method="Resize"
-  options="200x q80 webp"
-  imageStyle="width: 72px; height: auto; margin-left: 1rem; margin-top: 1rem; align-self: start; flex-shrink: 0;" 
->}}
-
-{{< /cards >}}
+{{< product-doc-cards section="guide" >}}

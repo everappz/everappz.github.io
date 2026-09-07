@@ -27,49 +27,7 @@ Istražite FAQ za svoju aplikaciju u nastavku kako biste započeli, ili pregleda
 
 ## Odaberite svoju aplikaciju
 
-{{< cards cols="2">}}
-
-{{< app-card 
-  link="/docs/faq/evervideo" 
-  title="Evervideo" 
-  subtitle="Reproducirajte 360° videozapise, streamajte s iClouda, gledajte s titlovima, primijenite video ekvilajzer, organizirajte sadržaj popisima za reprodukciju i preuzmite videozapise za gledanje bez interneta."
-  image="/images/app_icons/png/Evervideo_Icon-App-1024x1024.png"
-  method="Resize"
-  options="200x q80 webp"
-  imageStyle="width: 72px; height: auto; margin-left: 1rem; margin-top: 1rem; align-self: start; flex-shrink: 0;" 
->}}
-
-{{< app-card 
-  link="/docs/faq/evermusic"
-  title="Evermusic" 
-  subtitle="Cloud glazbeni player s offline načinom, audio ekvilajzerom, crossfadeom, reprodukcijom bez praznina, upravljanjem popisima za reprodukciju, kompletnom glazbenom knjižnicom i ugrađenim upraviteljem datoteka."
-  image="/images/app_icons/png/Evermusic_Icon-App-1024x1024.png"
-  method="Resize"
-  options="200x q80 webp"
-  imageStyle="width: 72px; height: auto; margin-left: 1rem; margin-top: 1rem; align-self: start; flex-shrink: 0;"  
->}}
-
-{{< app-card 
-  link="/docs/faq/flacbox"
-  title="Flacbox" 
-  subtitle="Audio player visoke razlučivosti za iPhone i Mac. Slušajte lossless formate poput FLAC, ALAC, APE i DSD. Precizno podesite izlaz s naprednim audio postavkama."
-  image="/images/app_icons/png/Flacbox_Icon-App-1024x1024.png"
-  method="Resize"
-  options="200x q80 webp"
-  imageStyle="width: 72px; height: auto; margin-left: 1rem; margin-top: 1rem; align-self: start; flex-shrink: 0;"  
->}}
-
-{{< app-card 
-  link="/docs/faq/evertag"
-  title="Evertag" 
-  subtitle="Pametni uređivač glazbenih oznaka s grupnim uređivanjem. Ispravite nedostajuće metapodatke, omote albuma i više. Uredite ID3, FLAC, APE oznake — podržano više od 120 polja." 
-  image="/images/app_icons/png/Evertag_Icon-App-1024x1024.png"
-  method="Resize"
-  options="200x q80 webp"
-  imageStyle="width: 72px; height: auto; margin-left: 1rem; margin-top: 1rem; align-self: start; flex-shrink: 0;" 
->}}
-
-{{< /cards >}}
+{{< product-doc-cards section="faq" >}}
 
 ## Uobičajeni problemi i odgovori
 

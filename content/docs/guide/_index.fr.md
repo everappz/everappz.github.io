@@ -19,46 +19,4 @@ Choisissez une application ci-dessous pour commencer.
 
 ## Choisissez votre produit
 
-{{< cards cols="2">}}
-
-{{< app-card 
-  link="/docs/guide/evervideo" 
-  title="Evervideo" 
-  subtitle="Lisez des vidéos à 360°, regardez avec des sous-titres, utilisez un égaliseur vidéo, organisez vos médias avec des listes de lecture, téléchargez des vidéos pour une utilisation hors ligne et diffusez depuis iCloud."
-  image="/images/app_icons/png/Evervideo_Icon-App-1024x1024.png"
-  method="Resize"
-  options="200x q80 webp"
-  imageStyle="width: 72px; height: auto; margin-left: 1rem; margin-top: 1rem; align-self: start; flex-shrink: 0;"  
->}}
-
-{{< app-card 
-  link="/docs/guide/evermusic"
-  title="Evermusic" 
-  subtitle="Lecteur de musique cloud avec mode hors ligne, égaliseur audio, crossfade, lecture sans coupure, listes de lecture, bibliothèque musicale et gestionnaire de fichiers." 
-  image="/images/app_icons/png/Evermusic_Icon-App-1024x1024.png"
-  method="Resize"
-  options="200x q80 webp"
-  imageStyle="width: 72px; height: auto; margin-left: 1rem; margin-top: 1rem; align-self: start; flex-shrink: 0;"  
->}}
-
-{{< app-card 
-  link="/docs/guide/flacbox"
-  title="Flacbox" 
-  subtitle="Lecteur audio haute résolution pour iPhone et Mac. Écoutez votre musique dans des formats audio sans perte : flac, alac, ape, wv, dsd et plus. Activez les paramètres de sortie audio avancés." 
-  image="/images/app_icons/png/Flacbox_Icon-App-1024x1024.png"
-  method="Resize"
-  options="200x q80 webp"
-  imageStyle="width: 72px; height: auto; margin-left: 1rem; margin-top: 1rem; align-self: start; flex-shrink: 0;"  
->}}
-
-{{< app-card 
-  link="/docs/guide/evertag"
-  title="Evertag" 
-  subtitle="Éditeur de tags musicaux avec correction automatique et mode par lots. Trouvez les métadonnées manquantes, modifiez les pochettes d'albums. Éditez ID3 / FLAC / APE. Plus de 120 tags pris en charge." 
-  image="/images/app_icons/png/Evertag_Icon-App-1024x1024.png"
-  method="Resize"
-  options="200x q80 webp"
-  imageStyle="width: 72px; height: auto; margin-left: 1rem; margin-top: 1rem; align-self: start; flex-shrink: 0;" 
->}}
-
-{{< /cards >}}
+{{< product-doc-cards section="guide" >}}

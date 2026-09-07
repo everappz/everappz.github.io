@@ -27,49 +27,7 @@ Verken de FAQ voor uw app hieronder om aan de slag te gaan, of blader door veelg
 
 ## Kies uw app
 
-{{< cards cols="2">}}
-
-{{< app-card 
-  link="/docs/faq/evervideo" 
-  title="Evervideo" 
-  subtitle="Speel 360°-video's af, stream vanuit iCloud, kijk met ondertitels, gebruik een video-equalizer, organiseer inhoud met afspeellijsten en download video's voor offline weergave."
-  image="/images/app_icons/png/Evervideo_Icon-App-1024x1024.png"
-  method="Resize"
-  options="200x q80 webp"
-  imageStyle="width: 72px; height: auto; margin-left: 1rem; margin-top: 1rem; align-self: start; flex-shrink: 0;" 
->}}
-
-{{< app-card 
-  link="/docs/faq/evermusic"
-  title="Evermusic" 
-  subtitle="Cloudmuziekspeler met offline modus, audio-equalizer, crossfade, gapless afspelen, afspeellijstbeheer, volledige muziekbibliotheek en ingebouwde bestandsbeheerder."
-  image="/images/app_icons/png/Evermusic_Icon-App-1024x1024.png"
-  method="Resize"
-  options="200x q80 webp"
-  imageStyle="width: 72px; height: auto; margin-left: 1rem; margin-top: 1rem; align-self: start; flex-shrink: 0;"  
->}}
-
-{{< app-card 
-  link="/docs/faq/flacbox"
-  title="Flacbox" 
-  subtitle="Hi-res audiospeler voor iPhone en Mac. Luister naar lossless formaten zoals FLAC, ALAC, APE en DSD. Verfijn de uitvoer met geavanceerde audio-instellingen."
-  image="/images/app_icons/png/Flacbox_Icon-App-1024x1024.png"
-  method="Resize"
-  options="200x q80 webp"
-  imageStyle="width: 72px; height: auto; margin-left: 1rem; margin-top: 1rem; align-self: start; flex-shrink: 0;"  
->}}
-
-{{< app-card 
-  link="/docs/faq/evertag"
-  title="Evertag" 
-  subtitle="Slimme muziektageditor met batchbewerking. Herstel ontbrekende metadata, albumhoezen en meer. Bewerk ID3-, FLAC- en APE-tags — meer dan 120 velden ondersteund." 
-  image="/images/app_icons/png/Evertag_Icon-App-1024x1024.png"
-  method="Resize"
-  options="200x q80 webp"
-  imageStyle="width: 72px; height: auto; margin-left: 1rem; margin-top: 1rem; align-self: start; flex-shrink: 0;" 
->}}
-
-{{< /cards >}}
+{{< product-doc-cards section="faq" >}}
 
 ## Veelvoorkomende problemen en antwoorden
 

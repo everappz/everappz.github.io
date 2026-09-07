@@ -27,46 +27,4 @@ Pilih aplikasi di bawah untuk bermula.
 
 ## Pilih Produk Anda
 
-{{< cards cols="2">}}
-
-{{< app-card 
-  link="/docs/guide/evervideo" 
-  title="Evervideo" 
-  subtitle="Main video 360°, tonton dengan sari kata, gunakan equalizer video, susun media anda dengan senarai main, muat turun video untuk kegunaan luar talian, dan strim dari iCloud."
-  image="/images/app_icons/png/Evervideo_Icon-App-1024x1024.png"
-  method="Resize"
-  options="200x q80 webp"
-  imageStyle="width: 72px; height: auto; margin-left: 1rem; margin-top: 1rem; align-self: start; flex-shrink: 0;"  
->}}
-
-{{< app-card 
-  link="/docs/guide/evermusic"
-  title="Evermusic" 
-  subtitle="Pemain muzik awan dengan mod luar talian, equalizer audio, crossfade, main balik tanpa jurang, senarai main, pustaka muzik, pengurus fail." 
-  image="/images/app_icons/png/Evermusic_Icon-App-1024x1024.png"
-  method="Resize"
-  options="200x q80 webp"
-  imageStyle="width: 72px; height: auto; margin-left: 1rem; margin-top: 1rem; align-self: start; flex-shrink: 0;"  
->}}
-
-{{< app-card 
-  link="/docs/guide/flacbox"
-  title="Flacbox" 
-  subtitle="Pemain audio Hi-Res untuk iPhone dan Mac. Dengar muzik anda dalam format audio lossless: flac, alac, ape, wv, dsd dan lain-lain. Aktifkan tetapan output audio lanjutan." 
-  image="/images/app_icons/png/Flacbox_Icon-App-1024x1024.png"
-  method="Resize"
-  options="200x q80 webp"
-  imageStyle="width: 72px; height: auto; margin-left: 1rem; margin-top: 1rem; align-self: start; flex-shrink: 0;"  
->}}
-
-{{< app-card 
-  link="/docs/guide/evertag"
-  title="Evertag" 
-  subtitle="Editor tag muzik dengan pembetulan automatik dan mod kelompok. Cari metadata yang hilang, edit sampul album. Edit ID3 / FLAC / APE. Lebih daripada 120 tag disokong." 
-  image="/images/app_icons/png/Evertag_Icon-App-1024x1024.png"
-  method="Resize"
-  options="200x q80 webp"
-  imageStyle="width: 72px; height: auto; margin-left: 1rem; margin-top: 1rem; align-self: start; flex-shrink: 0;" 
->}}
-
-{{< /cards >}}
+{{< product-doc-cards section="guide" >}}

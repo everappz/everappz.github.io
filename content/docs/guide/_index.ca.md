@@ -19,46 +19,4 @@ Tria una aplicació a continuació per començar.
 
 ## Tria el teu producte
 
-{{< cards cols="2">}}
-
-{{< app-card 
-  link="/docs/guide/evervideo" 
-  title="Evervideo" 
-  subtitle="Reprodueix vídeos en 360°, mira amb subtítols, utilitza un equalitzador de vídeo, organitza el contingut amb llistes de reproducció, descarrega vídeos per a ús sense connexió i transmet des d'iCloud."
-  image="/images/app_icons/png/Evervideo_Icon-App-1024x1024.png"
-  method="Resize"
-  options="200x q80 webp"
-  imageStyle="width: 72px; height: auto; margin-left: 1rem; margin-top: 1rem; align-self: start; flex-shrink: 0;"  
->}}
-
-{{< app-card 
-  link="/docs/guide/evermusic"
-  title="Evermusic" 
-  subtitle="Reproductor de música al núvol amb mode sense connexió, equalitzador d'àudio, crossfade, reproducció sense pauses, llistes de reproducció, biblioteca de música i gestor d'arxius." 
-  image="/images/app_icons/png/Evermusic_Icon-App-1024x1024.png"
-  method="Resize"
-  options="200x q80 webp"
-  imageStyle="width: 72px; height: auto; margin-left: 1rem; margin-top: 1rem; align-self: start; flex-shrink: 0;"  
->}}
-
-{{< app-card 
-  link="/docs/guide/flacbox"
-  title="Flacbox" 
-  subtitle="Reproductor d'àudio d'alta resolució per a iPhone i Mac. Escolta la teva música en formats sense pèrdua: flac, alac, ape, wv, dsd i més. Activa configuració avançada de sortida d'àudio." 
-  image="/images/app_icons/png/Flacbox_Icon-App-1024x1024.png"
-  method="Resize"
-  options="200x q80 webp"
-  imageStyle="width: 72px; height: auto; margin-left: 1rem; margin-top: 1rem; align-self: start; flex-shrink: 0;"  
->}}
-
-{{< app-card 
-  link="/docs/guide/evertag"
-  title="Evertag" 
-  subtitle="Editor d'etiquetes musicals amb correcció automàtica i mode per lots. Troba metadades que falten, edita les portades dels àlbums. Edita ID3 / FLAC / APE. Més de 120 etiquetes compatibles." 
-  image="/images/app_icons/png/Evertag_Icon-App-1024x1024.png"
-  method="Resize"
-  options="200x q80 webp"
-  imageStyle="width: 72px; height: auto; margin-left: 1rem; margin-top: 1rem; align-self: start; flex-shrink: 0;" 
->}}
-
-{{< /cards >}}
+{{< product-doc-cards section="guide" >}}

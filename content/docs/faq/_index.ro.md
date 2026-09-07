@@ -27,49 +27,7 @@ Explorează întrebările frecvente pentru aplicația ta de mai jos pentru a în
 
 ## Alege aplicația ta
 
-{{< cards cols="2">}}
-
-{{< app-card 
-  link="/docs/faq/evervideo" 
-  title="Evervideo" 
-  subtitle="Redă videoclipuri 360°, fă streaming din iCloud, urmărește cu subtitrări, aplică un egalizator video, organizează conținutul cu liste de redare și descarcă videoclipuri pentru vizionare offline."
-  image="/images/app_icons/png/Evervideo_Icon-App-1024x1024.png"
-  method="Resize"
-  options="200x q80 webp"
-  imageStyle="width: 72px; height: auto; margin-left: 1rem; margin-top: 1rem; align-self: start; flex-shrink: 0;" 
->}}
-
-{{< app-card 
-  link="/docs/faq/evermusic"
-  title="Evermusic" 
-  subtitle="Player de muzică în cloud cu mod offline, egalizator audio, crossfade, redare fără pauze, gestionarea listelor de redare, bibliotecă muzicală completă și manager de fișiere integrat."
-  image="/images/app_icons/png/Evermusic_Icon-App-1024x1024.png"
-  method="Resize"
-  options="200x q80 webp"
-  imageStyle="width: 72px; height: auto; margin-left: 1rem; margin-top: 1rem; align-self: start; flex-shrink: 0;"  
->}}
-
-{{< app-card 
-  link="/docs/faq/flacbox"
-  title="Flacbox" 
-  subtitle="Player audio de înaltă rezoluție pentru iPhone și Mac. Ascultă formate fără pierderi precum FLAC, ALAC, APE și DSD. Reglează fin ieșirea cu setări audio avansate."
-  image="/images/app_icons/png/Flacbox_Icon-App-1024x1024.png"
-  method="Resize"
-  options="200x q80 webp"
-  imageStyle="width: 72px; height: auto; margin-left: 1rem; margin-top: 1rem; align-self: start; flex-shrink: 0;"  
->}}
-
-{{< app-card 
-  link="/docs/faq/evertag"
-  title="Evertag" 
-  subtitle="Editor inteligent de etichete muzicale cu editare în lot. Corectează metadate lipsă, coperte de album și altele. Editează etichete ID3, FLAC, APE — peste 120 de câmpuri acceptate." 
-  image="/images/app_icons/png/Evertag_Icon-App-1024x1024.png"
-  method="Resize"
-  options="200x q80 webp"
-  imageStyle="width: 72px; height: auto; margin-left: 1rem; margin-top: 1rem; align-self: start; flex-shrink: 0;" 
->}}
-
-{{< /cards >}}
+{{< product-doc-cards section="faq" >}}
 
 ## Probleme comune și răspunsuri
 
