@@ -1,7 +1,7 @@
 ---
 date: '2025-06-12T17:00:00+00:00'
 title: 'Hakkımızda'
-description: 'Everappz S.L., ses ve video için iOS ve macOS uygulamaları geliştiren bir İspanyol yazılım şirketidir. Evermusic (11M indirme), Flacbox, EverTag, EverVideo ve Soundy''nin yapımcıları — dünya genelinde 14 milyondan fazla indirme.'
+description: 'Everappz S.L., iOS ve macOS için ses, video ve müzik meta verisi uygulamaları geliştiren İspanya merkezli bir yazılım şirketidir. Evermusic (11 milyon indirme), Flacbox, EverTag ve EverVideo’nun geliştiricisi olan şirketin uygulamaları dünya genelinde 14 milyondan fazla kez indirilmiştir.'
 ---
 
 {{< lottie src="/images/juicy-json/juicy-girl-and-guy-preparing-start-up-rocket-to-launch-with-ideas.json" width="65%" >}}

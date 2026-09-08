@@ -1,7 +1,7 @@
 ---
 date: '2025-06-12T17:00:00+00:00'
 title: 'Tietoa meistä'
-description: 'Everappz S.L. on espanjalainen ohjelmistoyritys, joka kehittää iOS- ja macOS-sovelluksia ääntä ja videota varten. Evermusic (11 milj. latausta), Flacbox, EverTag, EverVideo ja Soundy — yli 14 miljoonaa latausta maailmanlaajuisesti.'
+description: 'Everappz S.L. on espanjalainen ohjelmistoyritys, joka kehittää iOS- ja macOS-sovelluksia ääntä ja videota varten. Evermusic (11 milj. latausta), Flacbox, EverTag, EverVideo — yli 14 miljoonaa latausta maailmanlaajuisesti.'
 ---
 
 {{< lottie src="/images/juicy-json/juicy-girl-and-guy-preparing-start-up-rocket-to-launch-with-ideas.json" width="65%" >}}

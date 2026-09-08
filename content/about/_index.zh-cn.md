@@ -1,7 +1,7 @@
 ---
 date: '2025-06-12T17:00:00+00:00'
 title: '关于我们'
-description: 'Everappz S.L. 是一家西班牙软件公司，专注于开发 iOS 和 macOS 音视频应用。旗下产品 Evermusic（1100万次下载）、Flacbox、EverTag、EverVideo 和 Soundy 在全球累计下载量超过 1400 万次。'
+description: 'Everappz S.L. 是一家西班牙软件公司，专注于开发 iOS 和 macOS 音视频应用。旗下产品 Evermusic（1100万次下载）、Flacbox、EverTag、EverVideo 在全球累计下载量超过 1400 万次。'
 ---
 
 {{< lottie src="/images/juicy-json/juicy-girl-and-guy-preparing-start-up-rocket-to-launch-with-ideas.json" width="65%" >}}

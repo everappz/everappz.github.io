@@ -1,7 +1,7 @@
 ---
 date: '2025-06-12T17:00:00+00:00'
 title: 'Om oss'
-description: 'Everappz S.L. är ett spanskt programvaruföretag som utvecklar iOS- och macOS-appar för ljud och video. Skaparna av Evermusic (11M nedladdningar), Flacbox, EverTag, EverVideo och Soundy — över 14 miljoner nedladdningar världen över.'
+description: 'Everappz S.L. är ett spanskt programvaruföretag som utvecklar iOS- och macOS-appar för ljud och video. Skaparna av Evermusic (11M nedladdningar), Flacbox, EverTag, EverVideo — över 14 miljoner nedladdningar världen över.'
 ---
 
 {{< lottie src="/images/juicy-json/juicy-girl-and-guy-preparing-start-up-rocket-to-launch-with-ideas.json" width="65%" >}}

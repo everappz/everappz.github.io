@@ -1,9 +1,0 @@
----
-title: "Redirecting to Soundy"
-layout: redirect
-redirect_url: https://getsoundy.app
-sitemap_exclude: true
-hidden: true
-sidebar:
-  exclude: true
----

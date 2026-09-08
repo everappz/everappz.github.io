@@ -19,7 +19,6 @@ Optimize the following blog post for:
 
 - **Evermusic & Flacbox:** Free to download with core features (equalizer, cloud streaming, playback, offline mode). Free version has limits: 3 cloud services, 10 playlists, 1 offline folder, 750 songs in queue, contains ads. Premium (monthly/yearly/lifetime) removes all limits. The equalizer is FREE, NOT a premium feature.
 - **Evertag:** Free with limits (1 cloud service, 10 favorites, 20 auto tag searches/day). Premium removes limits.
-- **Soundy:** Free SoundCloud player for iPhone with equalizer, bookmarks, speed control, and Chromecast support.
 - **Never claim** features are "completely free" or "at no cost" without qualification. Always mention free version limits exist. Never claim the equalizer, lyrics, or audio bookmarks are premium-only features — they are free.
 
 ## Instructions
@@ -104,8 +103,6 @@ Provide the following:
 - how-to-view-embedded-lyrics-comments-lrc-file-for-music-on-your-iphone-or-mac
 - play-music-from-dropbox-on-your-iphone-when-you-are-offline
 - play-offline-music-in-evermusic-flacbox-download-sync-from-cloud-to-local-files
-- soundy-equalizer-for-soundcloud-on-the-app-store
-- soundy-stream-your-music-from-soundcloud-to-chromecast
 - step-by-step-guide-importing-your-icloud-library-into-evermusic-and-flacbox
 - stream-your-music-from-mac-or-pc-to-iphone-using-smb
 - transfer-your-files-from-the-computer-to-iphone-using-smb-protocol

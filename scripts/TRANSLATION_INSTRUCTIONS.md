@@ -58,7 +58,7 @@ By subscribing, you agree to our [Privacy Policy](/legal/privacy-policy) and acc
 - ALL `<style>...</style>` and `<script>...</script>` blocks
 - Shortcode names: `hextra/feature-card`, `hextra/hero-badge`, `hextra/section-headline`, `card`, `cards`, `lottie`, `force-dark`, `appstore-reviews`, `social-cards`, etc.
 - Shortcode parameter NAMES: `title=`, `subtitle=`, `icon=`, `style=`, `link=`, `image=`, `method=`, `options=`, `imageStyle=`, `lottie=`, `lottieWidth=`, `apps=`, `stars=`, `cols=`, `border=`
-- Product names: EVERAPPZ, Evervideo, Evermusic, Flacbox, Evertag, Soundy
+- Product names: EVERAPPZ, Evervideo, Evermusic, Flacbox, Evertag, Everdisk
 - CSS classes (anything with `hx:`, `hextra-`, etc.)
 - HTML structure: `<div>`, `<span>`, `<br>`, `<a>` tags and their attributes
 - HTML entities in layout: `&nbsp;`, `<br class="hx:sm:block hx:hidden" />`

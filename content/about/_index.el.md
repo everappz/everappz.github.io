@@ -1,7 +1,7 @@
 ---
 date: '2025-06-12T17:00:00+00:00'
 title: 'Σχετικά'
-description: 'Η Everappz S.L. είναι μια ισπανική εταιρεία λογισμικού που αναπτύσσει εφαρμογές iOS και macOS για ήχο και βίντεο. Δημιουργοί του Evermusic (11 εκατ. λήψεις), Flacbox, EverTag, EverVideo και Soundy — πάνω από 14 εκατομμύρια λήψεις παγκοσμίως.'
+description: 'Η Everappz S.L. είναι μια ισπανική εταιρεία λογισμικού που αναπτύσσει εφαρμογές iOS και macOS για ήχο και βίντεο. Δημιουργοί του Evermusic (11 εκατ. λήψεις), Flacbox, EverTag, EverVideo — πάνω από 14 εκατομμύρια λήψεις παγκοσμίως.'
 ---
 
 {{< lottie src="/images/juicy-json/juicy-girl-and-guy-preparing-start-up-rocket-to-launch-with-ideas.json" width="65%" >}}
