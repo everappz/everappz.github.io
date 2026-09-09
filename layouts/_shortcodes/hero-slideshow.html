@@ -48,6 +48,17 @@
 .hextra-slide-readmore-text{display:inline}
 .hextra-slide-readmore-arrow{display:none}
 @media(max-width:639px){.hextra-slide-readmore-text{display:none}.hextra-slide-readmore-arrow{display:inline}.hextra-slide-overlay{padding:3rem 1.25rem 1.25rem!important}.hextra-slide-icon{width:40px!important;height:40px!important}.hextra-slide-title{font-size:1.25rem!important}.hextra-slide-applink{gap:0.6rem!important}}
+.hextra-slide-controls{display:flex;align-items:center;justify-content:center;gap:1.75rem;padding-top:1.5rem}
+.hextra-slide-dots{display:flex;align-items:center;justify-content:center;gap:0.5rem}
+.hextra-dot{width:8px;height:8px;border-radius:50%;border:none;cursor:pointer;padding:0;transition:background 0.3s,transform 0.3s;background:rgba(0,0,0,0.3)}
+.hextra-dot.active{background:rgba(0,0,0,0.8);transform:scale(1.25)}
+.dark .hextra-dot{background:rgba(255,255,255,0.35)}
+.dark .hextra-dot.active{background:rgba(255,255,255,0.9)}
+.hextra-slide-nav{display:flex;align-items:center;justify-content:center;width:36px;height:36px;border:none;border-radius:50%;cursor:pointer;padding:0;color:#000;background:rgba(0,0,0,0.06);opacity:0.7;transition:opacity 0.2s,background 0.2s,transform 0.2s}
+.hextra-slide-nav:hover{opacity:1;background:rgba(0,0,0,0.12)}
+.hextra-slide-nav:active{transform:scale(0.9)}
+.dark .hextra-slide-nav{color:#fff;background:rgba(255,255,255,0.12)}
+.dark .hextra-slide-nav:hover{background:rgba(255,255,255,0.22)}
 </style>
 <div id="{{ $slideshowID }}" class="hextra-hero-slideshow">
   <div class="hextra-slideshow-container hextra-feature-card not-prose hx:block hx:relative hx:overflow-hidden hx:rounded-3xl hx:border hx:border-gray-200 hx:hover:border-gray-300 hx:dark:border-neutral-800 hx:dark:hover:border-neutral-700 hx:before:pointer-events-none hx:before:absolute hx:before:inset-0 hx:before:bg-glass-gradient">
@@ -82,10 +93,14 @@
   </div>
 
   {{- if gt (len $slides) 1 }}
-  <div style="display:flex;justify-content:center;gap:0.5rem;padding-top:1.5rem;">
-    {{- range $i, $slide := $slides }}
-    <button class="hextra-dot" data-index="{{ $i }}" aria-label="Slide {{ add $i 1 }}" style="width:8px;height:8px;border-radius:50%;border:none;cursor:pointer;padding:0;transition:background 0.3s,transform 0.3s;background:{{ if eq $i 0 }}rgba(255,255,255,0.9){{ else }}rgba(255,255,255,0.35){{ end }};{{ if eq $i 0 }}transform:scale(1.25);{{ end }}"></button>
-    {{- end }}
+  <div class="hextra-slide-controls">
+    <button type="button" class="hextra-slide-nav hextra-slide-nav-prev" aria-label="{{ T "previousSlide" | default "Previous slide" }}"><svg width="20" height="20" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M15.41 7.41 14 6l-6 6 6 6 1.41-1.41L10.83 12z"/></svg></button>
+    <div class="hextra-slide-dots">
+      {{- range $i, $slide := $slides }}
+      <button class="hextra-dot{{ if eq $i 0 }} active{{ end }}" data-index="{{ $i }}" aria-label="Slide {{ add $i 1 }}"></button>
+      {{- end }}
+    </div>
+    <button type="button" class="hextra-slide-nav hextra-slide-nav-next" aria-label="{{ T "nextSlide" | default "Next slide" }}"><svg width="20" height="20" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M8.59 16.59 10 18l6-6-6-6-1.41 1.41L13.17 12z"/></svg></button>
   </div>
   {{- end }}
 </div>
@@ -103,24 +118,20 @@
   if (current !== 0) {
     slides[0].style.opacity = "0";
     slides[0].style.zIndex = "1";
-    dots[0].style.background = "rgba(255,255,255,0.35)";
-    dots[0].style.transform = "scale(1)";
+    dots[0].classList.remove("active");
     slides[current].style.opacity = "1";
     slides[current].style.zIndex = "2";
-    dots[current].style.background = "rgba(255,255,255,0.9)";
-    dots[current].style.transform = "scale(1.25)";
+    dots[current].classList.add("active");
   }
 
   function show(idx) {
     slides[current].style.opacity = "0";
     slides[current].style.zIndex = "1";
-    dots[current].style.background = "rgba(255,255,255,0.35)";
-    dots[current].style.transform = "scale(1)";
+    dots[current].classList.remove("active");
     current = idx;
     slides[current].style.opacity = "1";
     slides[current].style.zIndex = "2";
-    dots[current].style.background = "rgba(255,255,255,0.9)";
-    dots[current].style.transform = "scale(1.25)";
+    dots[current].classList.add("active");
     try { localStorage.setItem("hero_slide", current); } catch(e) {}
   }
 
@@ -130,6 +141,21 @@
       resetTimer();
     });
   });
+
+  var prevBtn = el.querySelector(".hextra-slide-nav-prev");
+  var nextBtn = el.querySelector(".hextra-slide-nav-next");
+  if (prevBtn) {
+    prevBtn.addEventListener("click", function() {
+      show((current - 1 + total) % total);
+      resetTimer();
+    });
+  }
+  if (nextBtn) {
+    nextBtn.addEventListener("click", function() {
+      show((current + 1) % total);
+      resetTimer();
+    });
+  }
 
   var timer;
   function resetTimer() {

@@ -102,3 +102,6 @@ productFlacboxSubtitle: "iPhone ve Mac için Hi-Res ses oynatıcı. Müziğinizi
 productEvertagSubtitle: "Otomatik düzeltme ve toplu iş modu ile müzik etiket düzenleyici. Eksik meta verileri bulun, albüm kapaklarını düzenleyin. ID3 / FLAC / APE düzenleyin. 120'den fazla etiket desteklenir."
 productEverdiskTag: "Yeni"
 productEverdiskSubtitle: "iPhone veya iPad'inizi kablosuz bir sürücüye dönüştürün. DLNA, HTTP, WebDAV ve FTP üzerinden dosyaları, fotoğrafları, videoları ve müziği herhangi bir cihazla paylaşın. TV'lere yayın yapın, ağ sürücüsü olarak bağlayın ve diğer sunuculara bağlanın."
+
+previousSlide: "Önceki slayt"
+nextSlide: "Sonraki slayt"

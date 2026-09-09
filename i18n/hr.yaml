@@ -102,3 +102,6 @@ productFlacboxSubtitle: "Hi-Res audio reproduktor za iPhone i Mac. Slušajte svo
 productEvertagSubtitle: "Uređivač glazbenih oznaka s automatskim ispravljanjem i skupnim načinom rada. Pronađite nedostajuće metapodatke, uredite omote albuma. Uredite ID3 / FLAC / APE. Podržano više od 120 oznaka."
 productEverdiskTag: "Novo"
 productEverdiskSubtitle: "Pretvorite svoj iPhone ili iPad u bežični pogon. Dijelite datoteke, fotografije, videozapise i glazbu s bilo kojim uređajem putem DLNA, HTTP, WebDAV i FTP. Emitirajte na televizore, povežite ga kao mrežni pogon i spajajte se na druge poslužitelje."
+
+previousSlide: "Prethodni slajd"
+nextSlide: "Sljedeći slajd"

@@ -100,3 +100,6 @@ productFlacboxSubtitle: "iPhone・Mac向けハイレゾオーディオプレー�
 productEvertagSubtitle: "自動修正とバッチモードを備えた音楽タグエディター。不足しているメタデータの検索、アルバムカバーの編集。ID3 / FLAC / APEの編集。120以上のタグに対応。"
 productEverdiskTag: "新着"
 productEverdiskSubtitle: "iPhone や iPad をワイヤレスドライブに変えましょう。DLNA、HTTP、WebDAV、FTP を使って、ファイル、写真、動画、音楽をあらゆるデバイスと共有できます。テレビにストリーミングしたり、ネットワークドライブとしてマウントしたり、他のサーバーに接続したりできます。"
+
+previousSlide: "前のスライド"
+nextSlide: "次のスライド"

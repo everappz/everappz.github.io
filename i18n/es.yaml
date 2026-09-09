@@ -100,3 +100,6 @@ productFlacboxSubtitle: "Reproductor de audio Hi-Res para iPhone y Mac. Escucha 
 productEvertagSubtitle: "Editor de etiquetas musicales con corrección automática y modo por lotes. Encuentra metadatos faltantes, edita portadas de álbumes. Edita ID3 / FLAC / APE. Más de 120 etiquetas soportadas."
 productEverdiskTag: "Nuevo"
 productEverdiskSubtitle: "Convierte tu iPhone o iPad en una unidad inalámbrica. Comparte archivos, fotos, vídeos y música con cualquier dispositivo mediante DLNA, HTTP, WebDAV y FTP. Transmite a televisores, móntalo como unidad de red y conéctate a otros servidores."
+
+previousSlide: "Diapositiva anterior"
+nextSlide: "Diapositiva siguiente"

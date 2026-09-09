@@ -102,3 +102,6 @@ productFlacboxSubtitle: "Reproductor d'àudio d'alta resolució per a iPhone i M
 productEvertagSubtitle: "Editor d'etiquetes musicals amb correcció automàtica i mode per lots. Troba metadades que falten, edita portades d'àlbums. Edita ID3 / FLAC / APE. Més de 120 etiquetes compatibles."
 productEverdiskTag: "Nou"
 productEverdiskSubtitle: "Converteix el teu iPhone o iPad en una unitat sense fil. Comparteix fitxers, fotos, vídeos i música amb qualsevol dispositiu mitjançant DLNA, HTTP, WebDAV i FTP. Transmet a televisors, munta'l com a unitat de xarxa i connecta't a altres servidors."
+
+previousSlide: "Diapositiva anterior"
+nextSlide: "Diapositiva següent"

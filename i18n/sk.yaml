@@ -102,3 +102,6 @@ productFlacboxSubtitle: "Hi-Res audio prehrávač pre iPhone a Mac. Počúvajte 
 productEvertagSubtitle: "Editor hudobných tagov s automatickou korekciou a dávkovým režimom. Nájdite chýbajúce metadáta, upravte obaly albumov. Upravte ID3 / FLAC / APE. Podpora viac ako 120 tagov."
 productEverdiskTag: "Novinka"
 productEverdiskSubtitle: "Premeňte svoj iPhone alebo iPad na bezdrôtový disk. Zdieľajte súbory, fotky, videá a hudbu s ľubovoľným zariadením cez DLNA, HTTP, WebDAV a FTP. Vysielajte do televízorov, pripojte ho ako sieťový disk a pripájajte sa k ďalším serverom."
+
+previousSlide: "Predchádzajúca snímka"
+nextSlide: "Ďalšia snímka"
