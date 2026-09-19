@@ -105,7 +105,7 @@ Turn your iPhone or iPad into a wireless drive&nbsp;<br class="hx:sm:block hx:hi
 
   {{< hextra/feature-card
     title="Use It as a Network Drive"
-    subtitle="Connect from Finder on a Mac, from Windows or from Linux over WebDAV, and your device appears like a normal network disk. Drag and drop in both directions: copy files from your computer to your device, or pull them back. You can also mount it over SMB, the one connection you can encrypt, protecting every transfer with SMB3 (AES) once you set a login and password."
+    subtitle="Connect from Finder on a Mac, from Windows or from Linux over WebDAV, and your device appears like a normal network disk. Drag and drop files in both directions, or mount it over SMB instead, with SMB3 (AES) encryption."
     icon="folder"
     style="background: radial-gradient(ellipse at 50% 80%, rgba(59,130,246,0.15), hsla(0,0%,100%,0));"
   >}}
