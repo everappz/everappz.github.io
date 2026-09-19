@@ -105,16 +105,9 @@ Turn your iPhone or iPad into a wireless drive&nbsp;<br class="hx:sm:block hx:hi
 
   {{< hextra/feature-card
     title="Use It as a Network Drive"
-    subtitle="Connect from Finder on a Mac, from Windows or from Linux over WebDAV, and your device appears like a normal network disk. Drag and drop in both directions: copy files from your computer to your device, or pull them back."
+    subtitle="Connect from Finder on a Mac, from Windows or from Linux over WebDAV, and your device appears like a normal network disk. Drag and drop in both directions: copy files from your computer to your device, or pull them back. You can also mount it over SMB, the one connection you can encrypt, protecting every transfer with SMB3 (AES) once you set a login and password."
     icon="folder"
     style="background: radial-gradient(ellipse at 50% 80%, rgba(59,130,246,0.15), hsla(0,0%,100%,0));"
-  >}}
-
-  {{< hextra/feature-card
-    title="Encrypted SMB Sharing"
-    subtitle="Connect over SMB, a network drive for Mac, Windows and Linux - on a Mac it shows up on its own in the Finder sidebar. It is the only connection you can encrypt: turn on SMB3 encryption (AES) with a login and password so nobody else on the network can read your files."
-    icon="lock-closed"
-    style="background: radial-gradient(ellipse at 50% 80%, rgba(99,102,241,0.15), hsla(0,0%,100%,0));"
   >}}
 
   {{< hextra/feature-card
@@ -260,6 +253,10 @@ Turn your iPhone or iPad into a wireless drive&nbsp;<br class="hx:sm:block hx:hi
   {{< feature-card title="Original or Converted" subtitle="Keep your photos and videos in original quality, or convert them to a more compatible format when a TV, browser or other device needs it." icon="switch-horizontal" >}}
 
   {{< feature-card title="Connect External Folders" subtitle="Connect folders from anywhere on your device and work with them right in the app, then share them over the network alongside everything else." icon="collection" >}}
+
+  {{< feature-card title="Background Transfers" subtitle="Downloads and uploads keep running while you move around the app. Open the File Transfers panel to watch progress and pause, resume, retry or cancel any task." icon="download" >}}
+
+  {{< feature-card title="Safe Delete with Trash" subtitle="Deleted files go to a recoverable trash, so you can bring them back if you change your mind. Want files gone for good instead? Turn on Permanently Delete Files in Settings." icon="trash" >}}
 
 {{< /cards >}}
 
