@@ -1,7 +1,7 @@
 ---
 title: "Settings"
 date: 2026-08-20
-description: "A complete tour of Everdisk settings: device profile (name and avatar), the four connection servers, access controls, photo and video quality, custom ports, DLNA thumbnails, network and transfer options, file manager options, and Premium."
+description: "A complete tour of Everdisk settings: device profile (name and avatar), the five connection servers, access controls, SMB encryption (SMB3/AES), photo and video quality, custom ports, DLNA thumbnails, network and transfer options, file manager options, and Premium."
 keywords: [
   "Everdisk settings", "device name avatar", "connection servers", "photo video quality",
   "custom ports HTTP WebDAV FTP", "DLNA thumbnails", "parallel transfers",
@@ -44,11 +44,12 @@ See [Access & Privacy](/docs/guide/everdisk/everdisk-guide-access) for details.
 
 ### Connections
 
-Turn each server on or off. All four are on by default, and each has an info (ⓘ) button with connection instructions:
+Turn each server on or off. All five are on by default, and each has an info (ⓘ) button with connection instructions:
 
 - **TV & Media Center** (DLNA)
 - **Browser** (HTTP)
 - **Computer** (WebDAV)
+- **Computer (Advanced)** (SMB) - a network drive for Mac, Windows and Linux; on a Mac it appears on its own in the Finder sidebar. The only connection that can be encrypted.
 - **Other Apps & Devices** (FTP)
 
 ### Photos
@@ -67,7 +68,11 @@ Same idea as Photos: Original is fastest, and conversion is Premium. Lower the q
 
 ### Advanced
 
-- **HTTP Port** (default 80), **WebDAV Port** (default 8080), **FTP Port** (default 2121). DLNA chooses its port automatically. *(Changing ports is Premium; free users can see the values.)*
+- **HTTP Port** (default 80), **WebDAV Port** (default 8080), **SMB Port** (default 4455), **FTP Port** (default 2121). DLNA chooses its port automatically. *(Changing ports is Premium; free users can see the values.)*
+
+### SMB Encryption
+
+- **Require SMB Encryption** - encrypt every SMB transfer with **SMB3 encryption (AES)** so no one else on the network can read your files. Off by default. It needs a **login and password** set above (encrypted connections can't be anonymous) and a client that supports SMB3, such as the Finder on a modern Mac or Windows 10 and later. Changes take effect the next time you start sharing. *(Premium.)*
 
 ### DLNA Thumbnails
 
@@ -98,7 +103,8 @@ Everdisk is free to use. A single **Premium Lifetime** purchase - a one-time pay
 - **Unlimited Folders** - share more than 5 folders.
 - **Unlimited Connections** - save more than 10 servers on the Devices tab.
 - **Photo & Video Conversion** - share in any quality other than Original.
-- **Custom Ports** - set your own HTTP, WebDAV and FTP ports.
+- **SMB Encryption** - protect SMB transfers with SMB3 encryption (AES).
+- **Custom Ports** - set your own HTTP, WebDAV, SMB and FTP ports.
 - **Auto-Start Sharing** - start sharing automatically when you open the app.
 - **Device Customization** - a custom device name, avatar icon, background gradient, or photo avatar.
 

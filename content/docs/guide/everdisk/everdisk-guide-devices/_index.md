@@ -1,11 +1,11 @@
 ---
 title: "Connect to Servers"
 date: 2026-08-20
-description: "Use the Devices tab in Everdisk to connect to other servers on your network. Add and browse DLNA, WebDAV, FTP and SFTP servers and NAS drives, stream audio and video, download files, and create, upload, rename, move or delete on servers that allow it."
+description: "Use the Devices tab in Everdisk to connect to other servers on your network. Add and browse DLNA, WebDAV, FTP, SFTP and SMB servers and NAS drives, stream audio and video, download files, and create, upload, rename, move or delete on servers that allow it."
 keywords: [
   "Everdisk Devices tab", "connect to NAS", "DLNA client iPhone", "WebDAV client iPhone",
-  "FTP client iPhone", "SFTP client iPhone", "browse network server", "stream from NAS",
-  "download from server", "connect cloud WebDAV"
+  "FTP client iPhone", "SFTP client iPhone", "SMB client iPhone", "connect to SMB share",
+  "browse network server", "stream from NAS", "download from server", "connect cloud WebDAV"
 ]
 tags: ["everdisk", "guide", "devices", "connections"]
 readingTime: 9
@@ -14,7 +14,7 @@ aliases:
 ---
 
 
-Everdisk is not only a wireless drive - it is also a client for the other devices on your network. The **Devices** tab lets you connect to **DLNA**, **WebDAV**, **FTP** and **SFTP** servers, including NAS drives and media servers, then browse, stream and download their files.
+Everdisk is not only a wireless drive - it is also a client for the other devices on your network. The **Devices** tab lets you connect to **DLNA**, **WebDAV**, **FTP**, **SFTP** and **SMB** servers, including Macs, Windows PCs, Linux machines, NAS drives and media servers, then browse, stream and download their files.
 
 ## The Devices screen
 
@@ -33,6 +33,7 @@ Tap **New Connection** and choose the type of server you want to reach:
 - **WebDAV** - connect to file servers, network storage drives, and cloud drives that support WebDAV. Read and write when the server allows it.
 - **FTP** - common on routers, network storage drives and web hosting. The default port is 21 (990 for secure FTPS); you can set a custom port in the address, for example `ftp://host:2121`. Leave the login and password empty for anonymous access.
 - **SFTP** - connect securely over SSH. The default port is 22; use a custom port in the address if needed, for example `sftp://host:2222`.
+- **SMB** - connect to Macs, Windows PCs, Linux servers and network storage (NAS) that share folders over **SMB / CIFS**. Enter an address like `smb://server-address/share-name/` (examples: `smb://local-server-name/share-name/folder-path`, `smb://192.168.1.105/share-name/folder-path`, `smb://remote-server.com`). SMB adds two optional fields: a **Workgroup** name, and a **Protocol Version** you can leave on **Automatic** or force to **SMB1** or **SMB2**. If files or folders with special characters won't open, try switching the version to **SMB1**.
 
 > Everdisk connects only to these local-network and directly-addressed protocols. It does not sign in to cloud accounts like Google Drive or Dropbox. A cloud drive is reachable only if that service offers a **WebDAV** address you can type in.
 
@@ -59,7 +60,7 @@ Once connected, tap the server to open it:
 
 ## Change files on a server
 
-On servers that allow writing - **WebDAV, FTP and SFTP** - you can also manage files:
+On servers that allow writing - **WebDAV, FTP, SFTP and SMB** - you can also manage files:
 
 - **New Folder**
 - **Upload Files** from your device

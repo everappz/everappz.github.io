@@ -1,7 +1,7 @@
 ---
 title: "Sharing"
 date: 2026-08-20
-description: "Learn how sharing works in Everdisk: tap Start to turn your iPhone or iPad into a wireless drive, choose what to share (files, folders, photos and music), run the four servers (DLNA, HTTP, WebDAV, FTP), read the connection addresses, see who is connected, and keep sharing running over Wi-Fi or a USB cable."
+description: "Learn how sharing works in Everdisk: tap Start to turn your iPhone or iPad into a wireless drive, choose what to share (files, folders, photos and music), run the five servers (DLNA, HTTP, WebDAV, SMB, FTP), encrypt the SMB connection with SMB3 (AES), read the connection addresses, see who is connected, and keep sharing running over Wi-Fi or a USB cable."
 keywords: [
   "Everdisk sharing", "wireless drive iPhone", "start sharing", "share files iPhone",
   "share photos over network", "DLNA HTTP WebDAV FTP", "what to share",
@@ -23,7 +23,7 @@ In the middle of the Sharing screen is a large round button.
 - Tap **Start** to bring all of your enabled servers online at once. The button shows **Starting...**, then **Stop** once sharing is live.
 - Tap **Stop** to take everything offline again. Connected devices are disconnected.
 
-While sharing is running, your chosen files, photos and music are available to any device on the same network that connects using one of the four methods below.
+While sharing is running, your chosen files, photos and music are available to any device on the same network that connects using one of the five methods below.
 
 > Sharing runs only while the app is open. See **Keep the app open** near the end of this page for why, and how to keep large transfers going.
 
@@ -50,13 +50,14 @@ Before you start, tap the **What to Share** header to open three groups. You can
 
 If you try to start with nothing selected, Everdisk shows a **Nothing to Share** note. If you change what is shared while sharing is running, **Stop and Start again** to apply the change.
 
-## The four servers
+## The five servers
 
-Everdisk shares the same content four ways at once. Each one is designed for a different kind of device, and each can be turned on or off in **Settings → Sharing → Connections**. By default all four are on.
+Everdisk shares the same content five ways at once. Each one is designed for a different kind of device, and each can be turned on or off in **Settings → Sharing → Connections**. By default all five are on.
 
 - **TV & Media Center (DLNA)** - for smart TVs and media players. They discover your device by itself and show your photos, videos and music, with preview thumbnails.
 - **Browser (HTTP)** - for any phone, tablet or computer. The other person opens a link in a web browser to browse and download your files. Nothing to install.
 - **Computer (WebDAV)** - for a Mac, Windows PC or Linux machine. Your device appears as a normal network drive so you can drag files in both directions.
+- **Computer (Advanced) (SMB)** - a network drive for Mac, Windows and Linux. On a Mac it appears on its own in the Finder sidebar; on Windows, open it in File Explorer with an `smb://` address. It is the only connection you can **encrypt**, with SMB3 encryption (AES).
 - **Other Apps & Devices (FTP)** - for file apps and power users that speak FTP.
 
 For step-by-step connection instructions for each type, see [Connect Your Devices](/docs/guide/everdisk/everdisk-guide-connect).

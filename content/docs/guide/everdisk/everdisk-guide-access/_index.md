@@ -1,9 +1,9 @@
 ---
 title: "Access & Privacy"
 date: 2026-08-20
-description: "Keep your Everdisk sharing safe: protect access with a login and password, control whether connected devices can upload, rename and delete with Files Editing, block unknown devices, choose trash vs. permanent delete, and understand why everything stays on your local network."
+description: "Keep your Everdisk sharing safe: protect access with a login and password, encrypt the SMB connection with SMB3 (AES), control whether connected devices can upload, rename and delete with Files Editing, block unknown devices, choose trash vs. permanent delete, and understand why everything stays on your local network."
 keywords: [
-  "Everdisk password protection", "files editing toggle", "block device",
+  "Everdisk password protection", "SMB encryption", "SMB3 AES encryption", "files editing toggle", "block device",
   "blocked devices", "permanently delete files", "local network only",
   "private file sharing", "DLNA no password", "network safety"
 ]
@@ -22,11 +22,23 @@ By default, anyone on the same network who has your address can open your shared
 
 1. Go to **Settings → Sharing → Access**.
 2. Enter a **Login** and a **Password**.
-3. Now the **Browser (HTTP)**, **Computer (WebDAV)** and **Other Apps & Devices (FTP)** connections all ask for those details before they show your files.
+3. Now the **Browser (HTTP)**, **Computer (WebDAV)**, **Computer (Advanced) (SMB)** and **Other Apps & Devices (FTP)** connections all ask for those details before they show your files.
 
 Leave both fields empty for open access. Your password is stored securely in the device Keychain.
 
 > **DLNA is always open.** The TV & Media Center (DLNA) connection can't be password protected, so once it is on, any device on the same Wi-Fi can browse your shared media. Turn it off if you only want protected connections, and only share on networks you trust.
+
+## Encrypt the SMB connection (SMB3 / AES)
+
+A login and password control **who** can connect, but the data itself still travels in the clear on most connections. **SMB is the only connection Everdisk can encrypt**, which scrambles every transfer so no one else on the same network can read it.
+
+To turn it on:
+
+1. Set a **Login** and **Password** as above - encrypted connections can't be anonymous.
+2. Go to **Settings → Sharing** and turn on **Require SMB Encryption**.
+3. **Stop and Start** sharing again so the change takes effect.
+
+Every SMB transfer is then protected with **SMB3 encryption (AES)**. The connecting device must support SMB3 - the Finder on a modern Mac, or **Windows 10 and later**. This is a great choice on Wi-Fi you don't fully trust. SMB Encryption is a Premium feature.
 
 ## Allow or block editing (Files Editing)
 

@@ -18,7 +18,7 @@ Everdisk plays your media on the device and shares your whole photo and music li
 
 ## Share your whole photo and music library
 
-On the [Sharing](/docs/guide/everdisk/everdisk-guide-sharing) screen, under **What to Share**, you can turn on **Allow access to all Photos Library** and **Allow access to all Music Library**. Once sharing starts, every album and track becomes available over all four servers - on a TV, in a browser, on a network drive, or in a file app. You can also hand-pick only certain photos, videos or tracks with **Add Photos** and **Add Tracks**.
+On the [Sharing](/docs/guide/everdisk/everdisk-guide-sharing) screen, under **What to Share**, you can turn on **Allow access to all Photos Library** and **Allow access to all Music Library**. Once sharing starts, every album and track becomes available over all five servers - on a TV, in a browser, on a network drive (WebDAV or SMB), or in a file app. You can also hand-pick only certain photos, videos or tracks with **Add Photos** and **Add Tracks**.
 
 Protected (DRM) songs and tracks stored only in the cloud can't be shared.
 
@@ -60,7 +60,7 @@ When you share photos and videos, Everdisk can send them exactly as they are, or
 Keep in mind:
 
 - **Original is the fastest** - the file is sent as-is with no conversion.
-- Any other setting **converts on the fly**, which is slower and uses more battery, especially over WebDAV and FTP.
+- Any other setting **converts on the fly**, which is slower and uses more battery, especially over WebDAV, SMB and FTP.
 - Try Original first; only switch to Most Compatible if a specific TV or browser can't open a file.
 - **Music** is always shared in its original form - there are no music quality settings.
 

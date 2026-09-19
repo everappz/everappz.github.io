@@ -1,7 +1,7 @@
 ---
 title: "Connect Your Devices"
 date: 2026-08-20
-description: "Step-by-step instructions for connecting to your Everdisk wireless drive: watch on a smart TV over DLNA, open your files in any web browser, mount your device as a network drive in Finder, Windows or Linux over WebDAV, connect file apps over FTP, and transfer over a USB cable to a Mac with no Wi-Fi."
+description: "Step-by-step instructions for connecting to your Everdisk wireless drive: watch on a smart TV over DLNA, open your files in any web browser, mount your device as a network drive in Finder, Windows or Linux over WebDAV or SMB (with optional SMB3/AES encryption), connect file apps over FTP, and transfer over a USB cable to a Mac with no Wi-Fi."
 keywords: [
   "connect to Everdisk", "stream to TV DLNA", "open files in browser",
   "mount network drive Finder", "WebDAV Windows Linux", "FTP file app",
@@ -14,7 +14,7 @@ aliases:
 ---
 
 
-Once you tap **Start** on the [Sharing](/docs/guide/everdisk/everdisk-guide-sharing) screen, other devices can connect to your files four different ways. Pick the method that matches the device you want to use. In every case, the exact **address** you need is shown in the **How to Connect** section of the Sharing screen.
+Once you tap **Start** on the [Sharing](/docs/guide/everdisk/everdisk-guide-sharing) screen, other devices can connect to your files five different ways. Pick the method that matches the device you want to use. In every case, the exact **address** you need is shown in the **How to Connect** section of the Sharing screen.
 
 > Both devices must be on the **same Wi-Fi network** - or, for a Mac, connected with a **USB cable** (see the last section).
 
@@ -77,6 +77,29 @@ Use this to make your device appear as a normal disk on a Mac, Windows PC or Lin
 2. Enter the WebDAV address shown in Everdisk.
 
 Whether the connection is read-only or two-way depends on the **Files Editing** setting. With it on, you can copy files onto your device and rename or delete them; with it off, the drive is read-only.
+
+## Connect over SMB (encrypted network drive)
+
+SMB is a network drive for Mac, Windows and Linux, built on the file sharing already in those systems, so your device shows up as a normal network drive - and it is the only connection you can encrypt.
+
+1. In **Settings → Sharing → Connections**, make sure **Computer (Advanced)** (the SMB connection) is on.
+2. Tap **Start** and note the **SMB** address, which looks like `smb://192.168.1.20:4455/Share`.
+3. Connect from your computer:
+   - **Mac:** your device appears on its own in the **Finder sidebar** under **Locations** (Network) - just click it and sign in. To connect by hand instead, choose **Go → Connect to Server** (**⌘K**) and enter the address.
+   - **Windows:** open **File Explorer**, right-click **This PC** and choose **Map network drive**, then enter `\\<address>\Share` using the host and share name from the Sharing screen (or type the `smb://` address in the address bar).
+   - **Linux:** in your file manager choose **Connect to Server** and enter the address.
+4. Enter the login and password if you set one, otherwise connect as a guest.
+5. The share is named **Share**. With **Files Editing** on you can copy files both ways; with it off it is read-only.
+
+**Turn on encryption (recommended on untrusted Wi-Fi)**
+
+SMB is the only Everdisk connection that can be encrypted. To protect every transfer with **SMB3 encryption (AES)**:
+
+1. In **Settings → Sharing → Access**, set a **Login** and **Password** - encrypted connections can't be anonymous.
+2. In **Settings → Sharing**, turn on **Require SMB Encryption**.
+3. **Stop and Start** sharing again so the change takes effect.
+
+Your client must support SMB3 - the Finder on a modern Mac, or **Windows 10 and later**. SMB Encryption is a Premium feature.
 
 ## Connect a file app (FTP)
 

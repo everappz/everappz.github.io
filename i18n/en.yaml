@@ -109,7 +109,7 @@ productFlacboxTag: "1 Million Downloads"
 productFlacboxSubtitle: "Hi-Res audio player for iPhone and Mac. Listen to your music in lossless audio formats: flac, alac, ape, wv, dsd and more. Enable advanced audio output settings."
 productEvertagSubtitle: "Music tags editor with automatic correction and batch mode. Find missing metadata, edit album covers. Edit ID3 / FLAC/ APE. More than 120 tags supported."
 productEverdiskTag: "New"
-productEverdiskSubtitle: "Turn your iPhone or iPad into a wireless drive. Share files, photos, videos and music with any device over DLNA, HTTP, WebDAV and FTP. Stream to TVs, mount as a network drive, and connect to other servers."
+productEverdiskSubtitle: "Turn your iPhone or iPad into a wireless drive. Share files, photos, videos and music with any device over DLNA, HTTP, WebDAV, SMB and FTP. Stream to TVs, mount as a network drive with optional SMB encryption, and connect to other servers."
 
 previousSlide: "Previous slide"
 nextSlide: "Next slide"
