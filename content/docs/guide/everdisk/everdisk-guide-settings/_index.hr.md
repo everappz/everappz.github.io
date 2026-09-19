@@ -1,7 +1,7 @@
 ---
 title: "Postavke"
 date: 2026-08-20
-description: "Potpuni pregled Everdisk postavki: profil uređaja (naziv i avatar), četiri poslužitelja za povezivanje, kontrole pristupa, kvaliteta fotografija i videa, prilagođeni portovi, DLNA sličice, opcije mreže i prijenosa, opcije upravitelja datoteka i Premium."
+description: "Potpuni pregled Everdisk postavki: profil uređaja (naziv i avatar), pet poslužitelja za povezivanje, kontrole pristupa, SMB šifriranje (SMB3/AES), kvaliteta fotografija i videa, prilagođeni portovi, DLNA sličice, opcije mreže i prijenosa, opcije upravitelja datoteka i Premium."
 keywords: ["Everdisk postavke", "naziv i avatar uređaja", "poslužitelji za povezivanje", "kvaliteta fotografija i videa", "prilagođeni portovi HTTP WebDAV FTP", "DLNA sličice", "usporedni prijenosi", "trajno brisanje datoteka", "predmemorija sličica", "Everdisk Premium"]
 tags: ["everdisk", "vodič", "postavke"]
 readingTime: 12
@@ -38,11 +38,12 @@ Za pojedinosti pogledajte [Pristup i privatnost](/docs/guide/everdisk/everdisk-g
 
 ### Povezivanja
 
-Uključite ili isključite svaki poslužitelj. Sva četiri su uključena prema zadanim postavkama, a svaki ima gumb info (ⓘ) s uputama za povezivanje:
+Uključite ili isključite svaki poslužitelj. Svih pet je uključeno prema zadanim postavkama, a svaki ima gumb info (ⓘ) s uputama za povezivanje:
 
 - **TV i medijski centar** (DLNA)
 - **Preglednik** (HTTP)
 - **Računalo** (WebDAV)
+- **Računalo (napredno)** (SMB) - mrežni disk za Mac, Windows i Linux; na Macu se sam pojavljuje u bočnoj traci Findera. Jedina veza koju se može šifrirati.
 - **Ostale aplikacije i uređaji** (FTP)
 
 ### Fotografije
@@ -61,7 +62,11 @@ Ista ideja kao kod Fotografija: Izvorna je najbrža, a pretvorba je Premium. Sma
 
 ### Napredno
 
-- **HTTP port** (zadano 80), **WebDAV port** (zadano 8080), **FTP port** (zadano 2121). DLNA svoj port bira automatski. *(Mijenjanje portova je Premium; besplatni korisnici mogu vidjeti vrijednosti.)*
+- **HTTP port** (zadano 80), **WebDAV port** (zadano 8080), **SMB priključak** (zadano 4455), **FTP port** (zadano 2121). DLNA svoj port bira automatski. *(Mijenjanje portova je Premium; besplatni korisnici mogu vidjeti vrijednosti.)*
+
+### SMB šifriranje
+
+- **Zahtijevaj SMB šifriranje** - šifrirajte svaki SMB prijenos **SMB3 šifriranjem (AES)** tako da nitko drugi na mreži ne može čitati vaše datoteke. Isključeno prema zadanim postavkama. Zahtijeva postavljene **prijavu i lozinku** iznad (šifrirane veze ne mogu biti anonimne) i klijent koji podržava SMB3, poput Findera na modernom Macu ili Windowsa 10 i novijeg. Promjene stupaju na snagu pri sljedećem pokretanju dijeljenja. *(Premium.)*
 
 ### DLNA sličice
 
@@ -92,7 +97,8 @@ Everdisk je besplatan za korištenje. Jedinstvena kupnja **Premium Lifetime** - 
 - **Neograničeno mapa** - dijelite više od 5 mapa.
 - **Neograničeno veza** - spremite više od 10 poslužitelja na kartici Uređaji.
 - **Pretvorbu fotografija i videa** - dijelite u bilo kojoj kvaliteti osim Izvorne.
-- **Prilagođene portove** - postavite vlastite HTTP, WebDAV i FTP portove.
+- **SMB šifriranje** - zaštitite SMB prijenose SMB3 šifriranjem (AES).
+- **Prilagođene portove** - postavite vlastite HTTP, WebDAV, SMB i FTP portove.
 - **Automatsko pokretanje dijeljenja** - pokrenite dijeljenje automatski kad otvorite aplikaciju.
 - **Prilagodbu uređaja** - prilagođeni naziv uređaja, ikona avatara, gradijent pozadine ili avatar s fotografijom.
 

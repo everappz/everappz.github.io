@@ -1,7 +1,7 @@
 ---
 title: "Sdílení"
 date: 2026-08-20
-description: "Zjistěte, jak funguje sdílení v Everdisku: klepnutím na Spustit proměníte svůj iPhone nebo iPad v bezdrátový disk, vyberete, co chcete sdílet (soubory, složky, fotky a hudbu), spustíte čtyři servery (DLNA, HTTP, WebDAV, FTP), přečtete si adresy pro připojení, uvidíte, kdo je připojen, a udržíte sdílení běžící přes Wi-Fi nebo kabel USB."
+description: "Zjistěte, jak funguje sdílení v Everdisku: klepnutím na Spustit proměníte svůj iPhone nebo iPad v bezdrátový disk, vyberete, co chcete sdílet (soubory, složky, fotky a hudbu), spustíte pět serverů (DLNA, HTTP, WebDAV, SMB, FTP), šifrujete připojení SMB pomocí SMB3 (AES), přečtete si adresy pro připojení, uvidíte, kdo je připojen, a udržíte sdílení běžící přes Wi-Fi nebo kabel USB."
 keywords: ["sdílení Everdisk", "bezdrátový disk iPhone", "spuštění sdílení", "sdílení souborů iPhone", "sdílení fotek po síti", "DLNA HTTP WebDAV FTP", "co sdílet", "jak se připojit", "nechat aplikaci otevřenou", "sdílení přes Wi-Fi nebo kabel USB"]
 tags: ["everdisk", "guide", "sharing"]
 readingTime: 9
@@ -17,7 +17,7 @@ Uprostřed obrazovky Sdílení je velké kulaté tlačítko.
 - Klepnutím na **Spustit** uvedete všechny povolené servery najednou do provozu. Tlačítko ukáže **Spouštění...** a jakmile sdílení běží, změní se na **Zastavit**.
 - Klepnutím na **Zastavit** vše zase vypnete. Připojená zařízení se odpojí.
 
-Dokud sdílení běží, jsou vámi vybrané soubory, fotky a hudba dostupné každému zařízení ve stejné síti, které se připojí jedním ze čtyř způsobů uvedených níže.
+Dokud sdílení běží, jsou vámi vybrané soubory, fotky a hudba dostupné každému zařízení ve stejné síti, které se připojí jedním z pěti způsobů uvedených níže.
 
 > Sdílení běží pouze tehdy, když je aplikace otevřená. Podívejte se na **Nechte aplikaci otevřenou** ke konci této stránky, kde se dozvíte proč a jak udržet velké přenosy v chodu.
 
@@ -44,13 +44,14 @@ Než začnete, klepněte na záhlaví **Co sdílet** a otevřete tři skupiny. S
 
 Pokud se pokusíte spustit sdílení bez jakéhokoli výběru, Everdisk zobrazí poznámku **Není co sdílet**. Pokud změníte, co se sdílí, zatímco sdílení běží, **zastavte a spusťte je znovu**, aby se změna projevila.
 
-## Čtyři servery
+## Pět serverů
 
-Everdisk sdílí stejný obsah čtyřmi způsoby najednou. Každý z nich je určen pro jiný druh zařízení a každý lze zapnout nebo vypnout v **Nastavení → Sdílení → Připojení**. Ve výchozím nastavení jsou zapnuté všechny čtyři.
+Everdisk sdílí stejný obsah pěti způsoby najednou. Každý z nich je určen pro jiný druh zařízení a každý lze zapnout nebo vypnout v **Nastavení → Sdílení → Připojení**. Ve výchozím nastavení je zapnuté všech pět.
 
 - **TV a mediální centrum (DLNA)** - pro chytré televize a mediální přehrávače. Vaše zařízení si samy najdou a zobrazí vaše fotky, videa a hudbu s náhledovými miniaturami.
 - **Prohlížeč (HTTP)** - pro jakýkoli telefon, tablet nebo počítač. Druhá osoba otevře odkaz ve webovém prohlížeči a vaše soubory prochází i stahuje. Nic se neinstaluje.
 - **Počítač (WebDAV)** - pro Mac, PC s Windows nebo počítač s Linuxem. Vaše zařízení se zobrazí jako běžný síťový disk, takže můžete soubory přetahovat oběma směry.
+- **Počítač (pokročilé) (SMB)** - síťový disk pro Mac, Windows a Linux. Na Macu se objeví sám v postranním panelu Finderu; ve Windows jej otevřete v Průzkumníku souborů adresou `smb://`. Je to jediné připojení, které můžete **šifrovat**, pomocí šifrování SMB3 (AES).
 - **Ostatní aplikace a zařízení (FTP)** - pro souborové aplikace a pokročilé uživatele, kteří umí FTP.
 
 Podrobné pokyny k připojení jednotlivých typů krok za krokem najdete v [Připojte svá zařízení](/docs/guide/everdisk/everdisk-guide-connect).

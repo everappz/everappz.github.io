@@ -1,9 +1,9 @@
 ---
 date: '2026-08-20T12:00:00+00:00'
 title: 'Everdisk'
-description: "Everdisk GYIK: alakítsa iPhone vagy iPad készülékét vezeték nélküli meghajtóvá, és ossza meg a fájlokat, fényképeket, videókat és zenét a hálózat bármely eszközével DLNA, HTTP, WebDAV és FTP protokollon keresztül. Válaszok a TV-ről, webböngészőből, Mac, Windows és Linux rendszerről történő csatlakozásról, USB-kábeles átvitelről Wi-Fi nélkül, NAS-hoz és WebDAV/FTP/SFTP kiszolgálókhoz való csatlakozásról, a fájlkezelőről, a tömörítésről és kicsomagolásról, a dokumentumok PDF-be szkenneléséről, a jelszavakról és az eszközök blokkolásáról, az adatvédelemről, valamint az egyszeri Premium Lifetime vásárlásról."
-keywords: ["Everdisk GYIK", "vezeték nélküli meghajtó iPhone", "fájlok megosztása iPhone", "fényképek megosztása hálózaton", "streamelés TV-re DLNA", "fájlok megnyitása böngészőben", "WebDAV hálózati meghajtó iPhone", "FTP kiszolgáló iPhone", "SFTP kliens iPhone", "USB fájlátvitel Mac Wi-Fi nélkül", "csatlakozás NAS-hoz iPhone", "fájlkezelő iOS", "tömörítés kicsomagolás iPhone", "dokumentumok szkennelése PDF-be", "megosztás jelszavas védelme", "eszköz blokkolása", "helyi hálózati fájlmegosztás", "Everdisk Premium", "Everdisk élettartam"]
-tags: ["everdisk", "gyik", "vezeték nélküli meghajtó", "fájlmegosztás", "DLNA", "WebDAV", "FTP", "SFTP", "hálózati meghajtó"]
+description: "Everdisk GYIK: alakítsa iPhone vagy iPad készülékét vezeték nélküli meghajtóvá, és ossza meg a fájlokat, fényképeket, videókat és zenét a hálózat bármely eszközével DLNA, HTTP, WebDAV, SMB és FTP protokollon keresztül. Válaszok a TV-ről, webböngészőből, Mac, Windows és Linux rendszerről történő csatlakozásról, az SMB hálózati meghajtóról SMB3-titkosítással (AES), USB-kábeles átvitelről Wi-Fi nélkül, NAS-hoz és WebDAV/FTP/SFTP/SMB kiszolgálókhoz való csatlakozásról, a fájlkezelőről, a tömörítésről és kicsomagolásról, a dokumentumok PDF-be szkenneléséről, a jelszavakról és az eszközök blokkolásáról, az adatvédelemről, valamint az egyszeri Premium Lifetime vásárlásról."
+keywords: ["Everdisk GYIK", "vezeték nélküli meghajtó iPhone", "fájlok megosztása iPhone", "fényképek megosztása hálózaton", "streamelés TV-re DLNA", "fájlok megnyitása böngészőben", "WebDAV hálózati meghajtó iPhone", "SMB kiszolgáló iPhone", "SMB-titkosítás iPhone", "SMB3 AES titkosítás", "FTP kiszolgáló iPhone", "SFTP kliens iPhone", "USB fájlátvitel Mac Wi-Fi nélkül", "csatlakozás NAS-hoz iPhone", "SMB kliens iPhone", "csatlakozás SMB megosztáshoz", "fájlkezelő iOS", "tömörítés kicsomagolás iPhone", "dokumentumok szkennelése PDF-be", "megosztás jelszavas védelme", "eszköz blokkolása", "helyi hálózati fájlmegosztás", "Everdisk Premium", "Everdisk élettartam"]
+tags: ["everdisk", "gyik", "vezeték nélküli meghajtó", "fájlmegosztás", "DLNA", "WebDAV", "SMB", "FTP", "SFTP", "hálózati meghajtó"]
 ---
 
 
@@ -16,15 +16,16 @@ Az Everdisk vezeték nélküli meghajtóvá alakítja iPhone vagy iPad készül�
 {{% details title="Mi az az Everdisk?" closed="true" %}}
 Az Everdisk egy **vezeték nélküli meghajtó** alkalmazás iPhone és iPad készülékekhez. Készülékét olyan központtá alakítja, amely megosztja a kiválasztott fájlokat, fényképeket, videókat és zenét a helyi hálózat bármely eszközével, és más kiszolgálókhoz is csatlakozik, így azok fájljait is böngészheti és streamelheti.<br><br>
 
-Egyszerre négy kiszolgálót futtat - **DLNA** a TV-khez, **HTTP** a webböngészőkhöz, **WebDAV** a Finder/Windows/Linux rendszerekhez és **FTP** a fájlalkalmazásokhoz -, így minden eszköz úgy csatlakozik, ahogyan szereti. Nincsenek fiókok és nincs felhő: koppintson a **Start** gombra, és készen is áll. Emellett tartalmaz egy fájlkezelőt, egy médialejátszót, egy fényképgalériát, dokumentumszkennelést PDF-be, valamint tömörítést és kicsomagolást.
+Egyszerre öt kiszolgálót futtat - **DLNA** a TV-khez, **HTTP** a webböngészőkhöz, **WebDAV** a Finder/Windows/Linux rendszerekhez, **SMB** egy hálózati meghajtóhoz Macen, Windowson és Linuxon, opcionális titkosítással, és **FTP** a fájlalkalmazásokhoz -, így minden eszköz úgy csatlakozik, ahogyan szereti. Nincsenek fiókok és nincs felhő: koppintson a **Start** gombra, és készen is áll. Emellett tartalmaz egy fájlkezelőt, egy médialejátszót, egy fényképgalériát, dokumentumszkennelést PDF-be, valamint tömörítést és kicsomagolást.
 {{% /details %}}
 
 {{% details title="Hogyan működik az Everdisk?" closed="true" %}}
-Amikor a **Start** gombra koppint, az Everdisk kiszolgálóvá alakítja készülékét a helyi hálózaton, és megosztja a kiválasztott tartalmat. Egyszerre négy különböző csatlakozási módszer fut, így a különböző eszközök az általuk preferált módon csatlakozhatnak:<br><br>
+Amikor a **Start** gombra koppint, az Everdisk kiszolgálóvá alakítja készülékét a helyi hálózaton, és megosztja a kiválasztott tartalmat. Egyszerre öt különböző csatlakozási módszer fut, így a különböző eszközök az általuk preferált módon csatlakozhatnak:<br><br>
 
 - **DLNA** - az okos TV-k és médialejátszók automatikusan megtalálják készülékét, és a médiát bélyegképekkel jelenítik meg.<br>
 - **HTTP** - bárki megnyithat egy linket a webböngészőben, hogy böngésszen és letöltse a fájljait.<br>
 - **WebDAV** - készüléke normál hálózati meghajtóként jelenik meg a Finder, Windows vagy Linux rendszerben.<br>
+- **SMB** - hálózati meghajtó Machez, Windowshoz és Linuxhoz, ezekben a rendszerekben már meglévő fájlmegosztásra építve; Macen magától megjelenik a Finder oldalsávjában. Ez az egyetlen kapcsolat, amelyet titkosíthat (SMB3-titkosítás, AES).<br>
 - **FTP** - a fájlalkalmazások és haladó eszközök FTP-n keresztül csatlakoznak.<br><br>
 
 Minden a helyi Wi-Fi-n (vagy egy Machez csatlakoztatott USB-kábelen) keresztül történik, és soha nem érinti az internetet.
@@ -99,6 +100,29 @@ Használja a **Számítógép (WebDAV)** címet.<br><br>
 Ha beállított, adja meg a bejelentkezést és a jelszót.
 {{% /details %}}
 
+{{% details title="Hogyan csatlakozhatok SMB-n keresztül?" closed="true" %}}
+1. A **Beállítások → Megosztás → Kapcsolatok** menüben győződjön meg arról, hogy a **Számítógép (speciális)** (az SMB kapcsolat) be van kapcsolva, majd nyomja meg a **Start** gombot.<br>
+2. Másolja ki a Megosztás képernyőn megjelenő **SMB** címet - ez így néz ki: `smb://192.168.1.20:4455/Share`.<br>
+3. Csatlakozzon a számítógépéről:<br>
+&nbsp;&nbsp;- **Mac:** készüléke magától megjelenik a **Finder oldalsávjában** a **Helyek** (Hálózat) alatt - egyszerűen kattintson rá. Ha inkább kézzel szeretne csatlakozni, válassza a **Ugrás → Csatlakozás kiszolgálóhoz** (**⌘K**) lehetőséget, és adja meg a címet.<br>
+&nbsp;&nbsp;- **Windows:** a Fájlkezelőben kattintson jobb gombbal a **Ez a gép** elemre, és válassza a **Hálózati meghajtó csatlakoztatása** lehetőséget, majd adja meg a `\\<address>\Share` értéket, vagy írja be az `smb://` címet a címsorba.<br>
+&nbsp;&nbsp;- **Linux:** a fájlkezelőben válassza a **Csatlakozás kiszolgálóhoz** lehetőséget, és adja meg a címet.<br>
+4. Ha beállított, adja meg a bejelentkezését és jelszavát; egyébként csatlakozzon vendégként.<br><br>
+
+A megosztás neve **Share**. A **Fájlok szerkesztése** bekapcsolásával mindkét irányba másolhat fájlokat; kikapcsolva a meghajtó csak olvasható.
+{{% /details %}}
+
+{{% details title="Titkosíthatom az SMB kapcsolatomat?" closed="true" %}}
+Igen - és az SMB az **egyetlen** kapcsolat, amelyet az Everdisk titkosítani tud. A **Beállítások → Megosztás** menüben kapcsolja be az **SMB-titkosítás megkövetelése** lehetőséget, hogy minden SMB-átvitelt **SMB3-titkosítással (AES)** védjen, így senki más az azonos hálózaton nem tudja elolvasni a fájljait. Ez remek választás olyan Wi-Fi-n, amelyben nem bízik meg teljesen.<br><br>
+
+Néhány követelmény:<br>
+- Először be kell állítania egy **bejelentkezést és jelszót** - a titkosított kapcsolatok nem lehetnek névtelenek.<br>
+- A kliensnek támogatnia kell az **SMB3**-at - a Finder egy modern Macen, vagy a **Windows 10 és újabb**.<br>
+- A módosítások a megosztás következő elindításakor lépnek életbe.<br><br>
+
+Az SMB-titkosítás az egyszeri **Premium Lifetime** vásárlás része.
+{{% /details %}}
+
 {{% details title="Működik az Everdisk Wi-Fi nélkül?" closed="true" %}}
 Igen, egy **Mac** és egy kábel segítségével. Csatlakoztassa iPhone vagy iPad készülékét a Machez, koppintson a **Megbízom** gombra, ha a rendszer kéri, majd nyomja meg a **Start** gombot. A Megosztás képernyőn megjelenik egy **Kábeles kapcsolat** cím, amely `.local` végződésű; csatlakozzon hozzá a Finderből (**⌘K**). Ez Wi-Fi nélkül is működik - remek a repülőn, egy szállodában vagy egy zárt hálózaton -, és gyorsabb és privátabb, mint a Wi-Fi.
 {{% /details %}}
@@ -115,19 +139,20 @@ Az iPhone vagy iPad készüléke a kiszolgáló, és az iOS nem engedi, hogy az 
 Az **USB-kábel a Machez** gyorsabb és megbízhatóbb, mint a Wi-Fi, mert az adatok közvetlenül a kábelen keresztül haladnak. Ez a legprivátabb lehetőség is, mivel semmi sem halad át a routeren vagy az interneten. Használja nagy fénykép- és videóátvitelekhez.
 {{% /details %}}
 
-{{% details title="Mi a különbség a négy kiszolgáló (DLNA, HTTP, WebDAV, FTP) között?" closed="true" %}}
+{{% details title="Mi a különbség az öt kiszolgáló (DLNA, HTTP, WebDAV, SMB, FTP) között?" closed="true" %}}
 Mindegyik ugyanazt a tartalmat osztja meg, de különböző eszközökhöz illik:<br><br>
 
 - **TV és médiaközpont (DLNA)** - az okos TV-khez és médialejátszókhoz.<br>
 - **Böngésző (HTTP)** - bármely webböngészőhöz, telepítés nélkül.<br>
 - **Számítógép (WebDAV)** - hálózati meghajtóvá teszi készülékét a Finder/Windows/Linux rendszerben.<br>
+- **Számítógép (speciális)** (SMB) - hálózati meghajtó Machez, Windowshoz és Linuxhoz; Macen magától megjelenik a Finder oldalsávjában, vagy kézzel csatlakozhat egy `smb://` címmel. Ez az egyetlen kapcsolat, amelyet titkosíthat (SMB3, AES).<br>
 - **Egyéb alkalmazások és eszközök (FTP)** - fájlalkalmazásokhoz és haladó eszközökhöz.<br><br>
 
 Bármelyiket be- vagy kikapcsolhatja a **Beállítások → Megosztás → Kapcsolatok** menüben.
 {{% /details %}}
 
 {{% details title="Hogyan védhetem jelszóval a fájljaimat?" closed="true" %}}
-Menjen a **Beállítások → Megosztás → Hozzáférés** menübe, és állítson be egy **Bejelentkezést** és egy **Jelszót**. A Böngésző, a Számítógép és az Egyéb alkalmazások kapcsolatok ezután ezeket az adatokat fogják kérni. Hagyja mindkettőt üresen a nyílt hozzáféréshez.<br><br>
+Menjen a **Beállítások → Megosztás → Hozzáférés** menübe, és állítson be egy **Bejelentkezést** és egy **Jelszót**. A Böngésző, a Számítógép, a Számítógép (speciális) és az Egyéb alkalmazások kapcsolatok ezután ezeket az adatokat fogják kérni. Hagyja mindkettőt üresen a nyílt hozzáféréshez.<br><br>
 
 Megjegyzés: a **DLNA** (TV) kapcsolat nem védhető jelszóval, ezért mindenki számára nyitva áll ugyanazon a Wi-Fi-n, amíg be van kapcsolva. Kapcsolja ki, ha csak védett kapcsolatokat szeretne.
 {{% /details %}}
@@ -149,15 +174,15 @@ Igen. Az Everdisk csak a **helyi hálózaton** oszt meg - semmi sem kerül az in
 {{% /details %}}
 
 {{% details title="Csatlakozhat az Everdisk a NAS-omhoz vagy más kiszolgálókhoz?" closed="true" %}}
-Igen. Az **Eszközök** lap a hálózat más kiszolgálóihoz csatlakozik. Koppintson az **Új kapcsolat** elemre, és válassza a **DLNA / UPnP**, **WebDAV**, **FTP** vagy **SFTP** lehetőséget, adja meg a címet és bármely bejelentkezést, és böngészhet, streamelhet és letölthet. WebDAV, FTP és SFTP kiszolgálókon mappákat is létrehozhat, feltölthet, átnevezhet, áthelyezhet és törölhet. A DLNA kiszolgálók csak olvashatók.
+Igen. Az **Eszközök** lap a hálózat más kiszolgálóihoz csatlakozik. Koppintson az **Új kapcsolat** elemre, és válassza a **DLNA / UPnP**, **WebDAV**, **FTP**, **SFTP** vagy **SMB** lehetőséget (Macekhez, Windows PC-khez, Linux gépekhez és NAS-meghajtókhoz, amelyek SMB / CIFS protokollon osztanak meg mappákat), adja meg a címet és bármely bejelentkezést, és böngészhet, streamelhet és letölthet. WebDAV, FTP, SFTP és SMB kiszolgálókon mappákat is létrehozhat, feltölthet, átnevezhet, áthelyezhet és törölhet. A DLNA kiszolgálók csak olvashatók.
 {{% /details %}}
 
 {{% details title="Csatlakozhatok felhőtárhelyhez, például a Google Drive-hoz vagy a Dropboxhoz?" closed="true" %}}
-Az Everdisk nem jelentkezik be felhőfiókokba, például az iCloud Drive, Google Drive, Dropbox vagy OneDrive szolgáltatásokba. Csak **helyi hálózati és közvetlenül címzett** kiszolgálókhoz csatlakozik (DLNA, WebDAV, FTP, SFTP). Egy felhőszolgáltatás csak akkor érhető el, ha kínál egy **WebDAV** címet, amelyet beírhat egy új WebDAV kapcsolatba.
+Az Everdisk nem jelentkezik be felhőfiókokba, például az iCloud Drive, Google Drive, Dropbox vagy OneDrive szolgáltatásokba. Csak **helyi hálózati és közvetlenül címzett** kiszolgálókhoz csatlakozik (DLNA, WebDAV, FTP, SFTP, SMB). Egy felhőszolgáltatás csak akkor érhető el, ha kínál egy **WebDAV** címet, amelyet beírhat egy új WebDAV kapcsolatba.
 {{% /details %}}
 
 {{% details title="Mire szolgál az Eszközök lap?" closed="true" %}}
-Ez az Everdisk kliens oldala: a **Kapcsolatok** listázza az elmentett kiszolgálókat, az **Elérhető eszközök** pedig a hálózaton automatikusan talált kiszolgálókat. Koppintson egyikre, hogy böngésszen, streameljen vagy letöltse a fájljait, vagy koppintson az **Új kapcsolat** elemre, hogy kézzel adjon hozzá egy DLNA, WebDAV, FTP vagy SFTP kiszolgálót.
+Ez az Everdisk kliens oldala: a **Kapcsolatok** listázza az elmentett kiszolgálókat, az **Elérhető eszközök** pedig a hálózaton automatikusan talált kiszolgálókat. Koppintson egyikre, hogy böngésszen, streameljen vagy letöltse a fájljait, vagy koppintson az **Új kapcsolat** elemre, hogy kézzel adjon hozzá egy DLNA, WebDAV, FTP, SFTP vagy SMB kiszolgálót.
 {{% /details %}}
 
 {{% details title="Hogyan tölthetek le fájlokat egy kiszolgálóról a készülékemre?" closed="true" %}}
@@ -249,13 +274,13 @@ Az Everdisk automatikusan barátságos nevet és avatart ad a készülékének, 
 {{% /details %}}
 
 {{% details title="Megváltoztathatom a kapcsolati portokat?" closed="true" %}}
-Az alapértelmezett értékek: **HTTP 80**, **WebDAV 8080** és **FTP 2121** (a DLNA automatikusan választja ki a portját). Ingyenesen megtekintheti őket, az **egyéni portok** beállítása pedig Premium funkció (**Speciális** a Beállítások → Megosztás menüben).
+Az alapértelmezett értékek: **HTTP 80**, **WebDAV 8080**, **SMB 4455** és **FTP 2121** (a DLNA automatikusan választja ki a portját). Ingyenesen megtekintheti őket, az **egyéni portok** beállítása pedig Premium funkció (**Speciális** a Beállítások → Megosztás menüben).
 {{% /details %}}
 
 {{% details title="Ingyenes az Everdisk, és mit ad hozzá a Premium?" closed="true" %}}
-Az Everdisk **ingyenesen** letölthető. Futtathatja mind a négy kiszolgálót, jelszóval védheti a hozzáférést, megoszthatja a teljes Fényképek és Zene könyvtárát, használhatja a fájlkezelőt, szkennelhet PDF-be, és csatlakozhat más kiszolgálókhoz. Az ingyenes verzió legfeljebb **5 mappát** oszt meg, és legfeljebb **10 kiszolgálókapcsolatot** ment el.<br><br>
+Az Everdisk **ingyenesen** letölthető. Futtathatja mind az öt kiszolgálót, jelszóval védheti a hozzáférést, megoszthatja a teljes Fényképek és Zene könyvtárát, használhatja a fájlkezelőt, szkennelhet PDF-be, és csatlakozhat más kiszolgálókhoz. Az ingyenes verzió legfeljebb **5 mappát** oszt meg, és legfeljebb **10 kiszolgálókapcsolatot** ment el.<br><br>
 
-Egy egyszeri **Premium Lifetime** vásárlás (nem előfizetés) a következőket adja hozzá: **Korlátlan mappák**, **Korlátlan kapcsolatok**, **Fénykép- és videókonverzió** (az Eredetitől eltérő minőség), **Egyéni portok**, **Automatikus megosztás indítása** és **Eszköz-testreszabás**.
+Egy egyszeri **Premium Lifetime** vásárlás (nem előfizetés) a következőket adja hozzá: **Korlátlan mappák**, **Korlátlan kapcsolatok**, **Fénykép- és videókonverzió** (az Eredetitől eltérő minőség), **SMB-titkosítás** (SMB3/AES), **Egyéni portok**, **Automatikus megosztás indítása** és **Eszköz-testreszabás**.
 {{% /details %}}
 
 {{% details title="A Premium előfizetés? Működik a többi eszközömön?" closed="true" %}}

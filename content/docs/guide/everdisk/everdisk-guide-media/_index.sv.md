@@ -12,7 +12,7 @@ Everdisk spelar upp dina media på enheten och delar hela ditt foto- och musikbi
 
 ## Dela hela ditt foto- och musikbibliotek
 
-På [Delning](/docs/guide/everdisk/everdisk-guide-sharing)-skärmen, under **Vad du vill dela**, kan du slå på **Tillåt åtkomst till hela fotobiblioteket** och **Tillåt åtkomst till hela musikbiblioteket**. När delningen väl startar blir varje album och spår tillgängligt över alla fyra servrar - på en TV, i en webbläsare, på en nätverksdisk eller i en filapp. Du kan även handplocka bara vissa foton, videor eller spår med **Lägg till foton** och **Lägg till spår**.
+På [Delning](/docs/guide/everdisk/everdisk-guide-sharing)-skärmen, under **Vad du vill dela**, kan du slå på **Tillåt åtkomst till hela fotobiblioteket** och **Tillåt åtkomst till hela musikbiblioteket**. När delningen väl startar blir varje album och spår tillgängligt över alla fem servrar - på en TV, i en webbläsare, på en nätverksdisk (WebDAV eller SMB) eller i en filapp. Du kan även handplocka bara vissa foton, videor eller spår med **Lägg till foton** och **Lägg till spår**.
 
 Skyddade (DRM) låtar och spår som lagras endast i molnet kan inte delas.
 
@@ -54,7 +54,7 @@ När du delar foton och videor kan Everdisk skicka dem exakt som de är, eller k
 Tänk på att:
 
 - **Original är snabbast** - filen skickas som den är utan konvertering.
-- Vilken annan inställning som helst **konverterar i farten**, vilket är långsammare och drar mer batteri, särskilt över WebDAV och FTP.
+- Vilken annan inställning som helst **konverterar i farten**, vilket är långsammare och drar mer batteri, särskilt över WebDAV, SMB och FTP.
 - Prova Original först; byt bara till Mest kompatibel om en viss TV eller webbläsare inte kan öppna en fil.
 - **Musik** delas alltid i sin ursprungliga form - det finns inga kvalitetsinställningar för musik.
 

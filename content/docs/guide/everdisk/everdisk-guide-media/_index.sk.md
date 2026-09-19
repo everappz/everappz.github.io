@@ -12,7 +12,7 @@ Everdisk prehráva vaše médiá na zariadení a zdieľa celú vašu knižnicu f
 
 ## Zdieľanie celej knižnice fotografií a hudby
 
-Na obrazovke [Zdieľanie](/docs/guide/everdisk/everdisk-guide-sharing) v časti **Čo zdieľať** môžete zapnúť **Allow access to all Photos Library** a **Allow access to all Music Library**. Po spustení zdieľania sa každý album a každá skladba stane dostupnou cez všetky štyri servery - na TV, v prehliadači, na sieťovom disku alebo v súborovej aplikácii. Pomocou **Add Photos** a **Add Tracks** môžete tiež ručne vybrať len určité fotografie, videá či skladby.
+Na obrazovke [Zdieľanie](/docs/guide/everdisk/everdisk-guide-sharing) v časti **Čo zdieľať** môžete zapnúť **Povoliť prístup k celej knižnici fotiek** a **Povoliť prístup k celej hudobnej knižnici**. Po spustení zdieľania sa každý album a každá skladba stane dostupnou cez všetkých päť serverov - na TV, v prehliadači, na sieťovom disku (WebDAV alebo SMB) alebo v súborovej aplikácii. Pomocou **Pridať fotky** a **Pridať skladby** môžete tiež ručne vybrať len určité fotografie, videá či skladby.
 
 Chránené (DRM) skladby a skladby uložené len v cloude sa zdieľať nedajú.
 
@@ -22,7 +22,7 @@ Keď ťuknete na zvukový súbor - z vašich Dokumentov, pripojeného priečinka
 
 - Panel zobrazuje obal, názov a podtitul a ovládacie prvky **prehrať/pozastaviť** a **ďalej**.
 - Ťuknutím alebo potiahnutím panela nahor ho rozbalíte na **plný prehrávač**; potiahnutím nadol ho opäť zmenšíte, pričom zvuk hrá ďalej.
-- **Ťuknutím a podržaním** panela otvoríte **frontu**, kde vidíte všetky skladby, môžete zapnúť **Shuffle**, nastaviť **Repeat** (vypnuté, všetko alebo jednu) alebo dať **Stop**.
+- **Ťuknutím a podržaním** panela otvoríte **frontu**, kde vidíte všetky skladby, môžete zapnúť **Náhodne**, nastaviť **Opakovať** (vypnuté, všetko alebo jednu) alebo dať **Stop**.
 - Prehrávanie sa zobrazuje aj na **zamknutej obrazovke** a s ovládacími tlačidlami médií, kde vidno skutočný názov, interpreta a album.
 
 Ťuknutie na jeden zvukový súbor v priečinku prehrá zvuk celého priečinka ako frontu.
@@ -42,11 +42,11 @@ Fotografie a videá, ktoré majú údaje o polohe, zobrazujú na svojej obrazovk
 
 ## Odoslanie médií na TV
 
-Ak chcete médiá zobraziť na TV, použite server **TV a mediálne centrum (DLNA)**: spustite zdieľanie a potom na TV vyberte svoje zariadenie a prehliadajte. TV si médiá stiahne z vášho zariadenia - pozri [Pripojenie vašich zariadení](/docs/guide/everdisk/everdisk-guide-connect). (Everdisk nepoužíva Chromecast; AirPlay je dostupné z celoobrazovkového video prehrávača.)
+Ak chcete médiá zobraziť na TV, použite server **Televízor a mediálne centrum (DLNA)**: spustite zdieľanie a potom na TV vyberte svoje zariadenie a prehliadajte. TV si médiá stiahne z vášho zariadenia - pozri [Pripojenie vašich zariadení](/docs/guide/everdisk/everdisk-guide-connect). (Everdisk nepoužíva Chromecast; AirPlay je dostupné z celoobrazovkového video prehrávača.)
 
 ## Pôvodná verzus kompatibilná kvalita
 
-Keď zdieľate fotografie a videá, Everdisk ich môže odoslať presne tak, ako sú, alebo ich skonvertovať, aby ich staršie TV a prehliadače dokázali otvoriť. Toto nastavíte v **Nastaveniach → Sharing**:
+Keď zdieľate fotografie a videá, Everdisk ich môže odoslať presne tak, ako sú, alebo ich skonvertovať, aby ich staršie TV a prehliadače dokázali otvoriť. Toto nastavíte v **Nastaveniach → Zdieľanie**:
 
 - **Fotografie → Formát** (Pôvodný alebo Najkompatibilnejší / JPEG) a **Kvalita** (Pôvodná, Vysoká, Stredná, Nízka).
 - **Videá → Formát** (Pôvodný alebo Najkompatibilnejší / H.264 MP4) a **Kvalita**.
@@ -54,7 +54,7 @@ Keď zdieľate fotografie a videá, Everdisk ich môže odoslať presne tak, ako
 Majte na pamäti:
 
 - **Pôvodný je najrýchlejší** - súbor sa odošle tak, ako je, bez konverzie.
-- Akékoľvek iné nastavenie **konvertuje za chodu**, čo je pomalšie a spotrebuje viac batérie, najmä cez WebDAV a FTP.
+- Akékoľvek iné nastavenie **konvertuje za chodu**, čo je pomalšie a spotrebuje viac batérie, najmä cez WebDAV, SMB a FTP.
 - Najprv skúste Pôvodný; na Najkompatibilnejší prejdite len vtedy, ak konkrétna TV alebo prehliadač nedokáže súbor otvoriť.
 - **Hudba** sa vždy zdieľa v pôvodnej podobe - pre hudbu neexistujú nastavenia kvality.
 

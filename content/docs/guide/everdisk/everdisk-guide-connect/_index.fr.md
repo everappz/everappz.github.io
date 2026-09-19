@@ -1,14 +1,14 @@
 ---
 title: "Connecter vos appareils"
 date: 2026-08-20
-description: "Instructions etape par etape pour vous connecter a votre disque sans fil Everdisk : regardez sur un smart TV via DLNA, ouvrez vos fichiers dans n'importe quel navigateur web, montez votre appareil comme lecteur reseau dans le Finder, sous Windows ou Linux via WebDAV, connectez des applications de fichiers en FTP, et transferez par cable USB vers un Mac sans Wi-Fi."
+description: "Instructions etape par etape pour vous connecter a votre disque sans fil Everdisk : regardez sur un smart TV via DLNA, ouvrez vos fichiers dans n'importe quel navigateur web, montez votre appareil comme lecteur reseau dans le Finder, sous Windows ou Linux via WebDAV ou SMB (avec chiffrement SMB3/AES en option), connectez des applications de fichiers en FTP, et transferez par cable USB vers un Mac sans Wi-Fi."
 keywords: ["se connecter a Everdisk", "diffuser vers la TV DLNA", "ouvrir des fichiers dans le navigateur", "monter un lecteur reseau Finder", "WebDAV Windows Linux", "application de fichiers FTP", "transfert par cable USB Mac", "connecter iPhone a un ordinateur", "lecteur reseau iPhone"]
 tags: ["everdisk", "guide", "connect"]
 readingTime: 11
 ---
 
 
-Une fois que vous avez appuye sur **Demarrer** sur l'ecran [Partage](/docs/guide/everdisk/everdisk-guide-sharing), les autres appareils peuvent se connecter a vos fichiers de quatre facons differentes. Choisissez la methode qui correspond a l'appareil que vous voulez utiliser. Dans tous les cas, l'**adresse** exacte dont vous avez besoin est affichee dans la section **Comment se connecter** de l'ecran Partage.
+Une fois que vous avez appuye sur **Demarrer** sur l'ecran [Partage](/docs/guide/everdisk/everdisk-guide-sharing), les autres appareils peuvent se connecter a vos fichiers de cinq facons differentes. Choisissez la methode qui correspond a l'appareil que vous voulez utiliser. Dans tous les cas, l'**adresse** exacte dont vous avez besoin est affichee dans la section **Comment se connecter** de l'ecran Partage.
 
 > Les deux appareils doivent etre sur le **meme reseau Wi-Fi** - ou, pour un Mac, relies par un **cable USB** (voir la derniere section).
 
@@ -71,6 +71,29 @@ Utilisez cette methode pour que votre appareil apparaisse comme un disque classi
 2. Saisissez l'adresse WebDAV affichee dans Everdisk.
 
 Le fait que la connexion soit en lecture seule ou bidirectionnelle depend du reglage **Modification des fichiers**. Lorsqu'il est active, vous pouvez copier des fichiers sur votre appareil et les renommer ou les supprimer ; lorsqu'il est desactive, le lecteur est en lecture seule.
+
+## Se connecter via SMB (lecteur reseau chiffre)
+
+SMB est un lecteur reseau pour Mac, Windows et Linux, bati sur le partage de fichiers deja present dans ces systemes : votre appareil apparait donc comme un lecteur reseau ordinaire - et c'est la seule connexion que vous pouvez chiffrer.
+
+1. Dans **Paramètres → Partage → Connexions**, assurez-vous que **Ordinateur (avance)** (la connexion SMB) est active.
+2. Appuyez sur **Demarrer** et notez l'adresse **SMB**, qui ressemble a `smb://192.168.1.20:4455/Share`.
+3. Connectez-vous depuis votre ordinateur :
+   - **Mac :** votre appareil apparait tout seul dans la **barre laterale du Finder** sous **Emplacements** (Reseau) - il suffit de cliquer dessus et de se connecter. Pour vous connecter manuellement, choisissez **Aller → Se connecter au serveur** (**⌘K**) et saisissez l'adresse.
+   - **Windows :** ouvrez l'**Explorateur de fichiers**, faites un clic droit sur **Ce PC** et choisissez **Connecter un lecteur reseau**, puis saisissez `\\<address>\Share` en utilisant l'hote et le nom de partage indiques sur l'ecran Partage (ou tapez l'adresse `smb://` dans la barre d'adresse).
+   - **Linux :** dans votre gestionnaire de fichiers, choisissez **Se connecter au serveur** et saisissez l'adresse.
+4. Saisissez l'identifiant et le mot de passe si vous en avez defini un, sinon connectez-vous en tant qu'invite.
+5. Le partage est nomme **Share**. Avec la **Modification des fichiers** activee, vous pouvez copier des fichiers dans les deux sens ; desactivee, il est en lecture seule.
+
+**Activer le chiffrement (recommande sur un Wi-Fi non fiable)**
+
+SMB est la seule connexion Everdisk qui peut etre chiffree. Pour proteger chaque transfert avec le **chiffrement SMB3 (AES)** :
+
+1. Dans **Paramètres → Partage → Acces**, definissez un **Identifiant** et un **Mot de passe** - les connexions chiffrees ne peuvent pas etre anonymes.
+2. Dans **Paramètres → Partage**, activez **Exiger le chiffrement SMB**.
+3. **Arretez et redemarrez** le partage pour que la modification prenne effet.
+
+Votre client doit prendre en charge SMB3 - le Finder sur un Mac recent, ou **Windows 10 et versions ulterieures**. Le chiffrement SMB est une fonction Premium.
 
 ## Connecter une application de fichiers (FTP)
 

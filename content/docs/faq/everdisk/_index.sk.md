@@ -1,16 +1,17 @@
 ---
 date: '2026-08-20T12:00:00+00:00'
 title: 'Everdisk'
-description: "Časté otázky o Everdisku: premeňte svoj iPhone alebo iPad na bezdrôtový disk a zdieľajte súbory, fotky, videá a hudbu s akýmkoľvek zariadením vo vašej sieti cez DLNA, HTTP, WebDAV a FTP. Odpovede o pripojení z TV, webového prehliadača, Macu, Windowsu a Linuxu, prenose cez USB kábel bez Wi-Fi, pripojení k NAS a serverom WebDAV/FTP/SFTP, správcovi súborov, zbalení a rozbalení, skenovaní dokumentov do PDF, heslách a blokovaní zariadení, súkromí a jednorazovom nákupe Premium Lifetime."
+description: "Časté otázky o Everdisku: premeňte svoj iPhone alebo iPad na bezdrôtový disk a zdieľajte súbory, fotky, videá a hudbu s akýmkoľvek zariadením vo vašej sieti cez DLNA, HTTP, WebDAV, SMB a FTP. Odpovede o pripojení z TV, webového prehliadača, Macu, Windowsu a Linuxu, sieťovom disku SMB so šifrovaním SMB3 (AES), prenose cez USB kábel bez Wi-Fi, pripojení k NAS a serverom WebDAV/FTP/SFTP/SMB, správcovi súborov, zbalení a rozbalení, skenovaní dokumentov do PDF, heslách a blokovaní zariadení, súkromí a jednorazovom nákupe Premium Lifetime."
 keywords: [
   "Everdisk časté otázky", "bezdrôtový disk iPhone", "zdieľanie súborov iPhone", "zdieľanie fotiek cez sieť",
   "streamovanie do TV DLNA", "otvorenie súborov v prehliadači", "WebDAV sieťový disk iPhone",
+  "SMB server iPhone", "SMB šifrovanie iPhone", "SMB3 AES šifrovanie",
   "FTP server iPhone", "SFTP klient iPhone", "prenos súborov cez USB Mac bez Wi-Fi",
-  "pripojenie k NAS iPhone", "správca súborov iOS", "zbalenie rozbalenie iPhone",
+  "pripojenie k NAS iPhone", "SMB klient iPhone", "pripojenie k SMB zdieľaniu", "správca súborov iOS", "zbalenie rozbalenie iPhone",
   "skenovanie dokumentov do PDF", "ochrana zdieľania heslom", "blokovanie zariadenia",
   "zdieľanie súborov v lokálnej sieti", "Everdisk Premium", "Everdisk lifetime"
 ]
-tags: ["everdisk", "faq", "bezdrôtový disk", "zdieľanie súborov", "DLNA", "WebDAV", "FTP", "SFTP", "sieťový disk"]
+tags: ["everdisk", "faq", "bezdrôtový disk", "zdieľanie súborov", "DLNA", "WebDAV", "SMB", "FTP", "SFTP", "sieťový disk"]
 ---
 
 
@@ -23,15 +24,16 @@ Everdisk premení váš iPhone alebo iPad na bezdrôtový disk, ktorý zdieľa s
 {{% details title="Čo je Everdisk?" closed="true" %}}
 Everdisk je aplikácia **bezdrôtového disku** pre iPhone a iPad. Premení vaše zariadenie na centrálu, ktorá zdieľa súbory, fotky, videá a hudbu, ktoré si vyberiete, s čímkoľvek vo vašej lokálnej sieti, a pripája sa aj k iným serverom, takže môžete prezerať a streamovať ich súbory.<br><br>
 
-Beží štyri servery naraz - **DLNA** pre TV, **HTTP** pre webové prehliadače, **WebDAV** pre Finder/Windows/Linux a **FTP** pre súborové aplikácie - takže každé zariadenie sa pripojí spôsobom, ktorý mu vyhovuje. Nie sú tu žiadne účty a žiadny cloud: ťuknete na **Štart** a ste pripravení. Obsahuje tiež správcu súborov, prehrávač médií, fotogalériu, skenovanie dokumentov do PDF a zbalenie/rozbalenie.
+Beží päť serverov naraz - **DLNA** pre TV, **HTTP** pre webové prehliadače, **WebDAV** pre Finder/Windows/Linux, **SMB** pre sieťový disk na Macu, Windowse a Linuxe s voliteľným šifrovaním a **FTP** pre súborové aplikácie - takže každé zariadenie sa pripojí spôsobom, ktorý mu vyhovuje. Nie sú tu žiadne účty a žiadny cloud: ťuknete na **Štart** a ste pripravení. Obsahuje tiež správcu súborov, prehrávač médií, fotogalériu, skenovanie dokumentov do PDF a zbalenie/rozbalenie.
 {{% /details %}}
 
 {{% details title="Ako Everdisk funguje?" closed="true" %}}
-Keď ťuknete na **Štart**, Everdisk premení vaše zariadenie na server vo vašej lokálnej sieti a začne zdieľať vami vybraný obsah. Štyri rôzne spôsoby pripojenia bežia naraz, takže rôzne zariadenia sa môžu pripojiť spôsobom, ktorý preferujú:<br><br>
+Keď ťuknete na **Štart**, Everdisk premení vaše zariadenie na server vo vašej lokálnej sieti a začne zdieľať vami vybraný obsah. Päť rôznych spôsobov pripojenia beží naraz, takže rôzne zariadenia sa môžu pripojiť spôsobom, ktorý preferujú:<br><br>
 
 - **DLNA** - smart TV a mediálne prehrávače nájdu vaše zariadenie automaticky a zobrazia vaše médiá s miniatúrami.<br>
 - **HTTP** - ktokoľvek otvorí odkaz vo webovom prehliadači na prezeranie a sťahovanie vašich súborov.<br>
 - **WebDAV** - vaše zariadenie sa objaví ako bežný sieťový disk vo Finderi, Windowse alebo Linuxe.<br>
+- **SMB** - sieťový disk pre Mac, Windows a Linux, postavený na zdieľaní súborov, ktoré už tieto systémy majú; na Macu sa zobrazí samostatne v bočnom paneli Finderu. Je to jediné pripojenie, ktoré môžete zašifrovať (šifrovanie SMB3, AES).<br>
 - **FTP** - súborové aplikácie a pokročilé nástroje sa pripoja cez FTP.<br><br>
 
 Všetko prebieha cez vašu lokálnu Wi-Fi (alebo USB kábel k Macu) a nikdy sa nedostane na internet.
@@ -64,7 +66,7 @@ Tip: pre najrýchlejší prenos ponechajte **Formát** fotiek na **Originál**.
 {{% /details %}}
 
 {{% details title="Ako sledujem svoje videá alebo fotky na TV?" closed="true" %}}
-1. V **Nastavenia → Zdieľanie → Pripojenia** sa uistite, že je zapnuté **TV a Media Center (DLNA)**.<br>
+1. V **Nastavenia → Zdieľanie → Pripojenia** sa uistite, že je zapnuté **Televízor a mediálne centrum (DLNA)**.<br>
 2. Ťuknite na **Štart**.<br>
 3. Na TV otvorte jej zabudovaný prehrávač médií alebo aplikáciu mediálneho servera a vyberte svoje zariadenie podľa názvu zo zoznamu mediálnych serverov.<br>
 4. Prezerajte a prehrávajte. Náhľadové miniatúry sa zobrazia automaticky.<br><br>
@@ -106,6 +108,29 @@ Použite adresu **Počítač (WebDAV)**.<br><br>
 Zadajte prihlásenie a heslo, ak ste ich nastavili.
 {{% /details %}}
 
+{{% details title="Ako sa pripojím cez SMB?" closed="true" %}}
+1. V **Nastavenia → Zdieľanie → Pripojenia** sa uistite, že je zapnuté **Počítač (pokročilé)** (pripojenie SMB), a potom **Štart**.<br>
+2. Skopírujte adresu **SMB** zobrazenú na obrazovke Zdieľanie - vyzerá ako `smb://192.168.1.20:4455/Share`.<br>
+3. Pripojte sa zo svojho počítača:<br>
+&nbsp;&nbsp;- **Mac:** vaše zariadenie sa objaví samostatne v **bočnom paneli Finderu** v časti **Locations** (Sieť) - stačí naň kliknúť. Ak sa chcete pripojiť ručne, zvoľte **Prejsť → Pripojiť sa k serveru** (**⌘K**) a zadajte adresu.<br>
+&nbsp;&nbsp;- **Windows:** v Prieskumníkovi súborov kliknite pravým tlačidlom na **Tento počítač** a zvoľte **Namapovať sieťový disk**, potom zadajte `\\<address>\Share`, alebo zadajte adresu `smb://` do adresného riadka.<br>
+&nbsp;&nbsp;- **Linux:** vo svojom správcovi súborov zvoľte **Pripojiť sa k serveru** a zadajte adresu.<br>
+4. Zadajte svoje prihlásenie a heslo, ak ste ich nastavili; inak sa pripojte ako hosť.<br><br>
+
+Zdieľanie sa volá **Share**. So zapnutou **Úpravou súborov** môžete kopírovať súbory oboma smermi; s vypnutou je disk len na čítanie.
+{{% /details %}}
+
+{{% details title="Môžem zašifrovať svoje pripojenie SMB?" closed="true" %}}
+Áno - a SMB je **jediné** pripojenie, ktoré Everdisk dokáže zašifrovať. V **Nastavenia → Zdieľanie** zapnite **Vyžadovať šifrovanie SMB**, aby ste každý prenos SMB chránili **šifrovaním SMB3 (AES)**, takže nikto iný v tej istej sieti nemôže čítať vaše súbory. Je to skvelá voľba na Wi-Fi, ktorej úplne nedôverujete.<br><br>
+
+Niekoľko požiadaviek:<br>
+- Najprv musíte nastaviť **prihlásenie a heslo** - šifrované pripojenia nemôžu byť anonymné.<br>
+- Klient musí podporovať **SMB3** - Finder na modernom Macu alebo **Windows 10 a novší**.<br>
+- Zmeny sa prejavia pri ďalšom spustení zdieľania.<br><br>
+
+Šifrovanie SMB je súčasťou jednorazového nákupu **Premium Lifetime**.
+{{% /details %}}
+
 {{% details title="Funguje Everdisk bez Wi-Fi?" closed="true" %}}
 Áno, s **Macom** a káblom. Pripojte svoj iPhone alebo iPad k Macu, ťuknite na **Dôverovať**, ak sa opýta, a ťuknite na **Štart**. Na obrazovke Zdieľanie sa objaví adresa **Káblové pripojenie** končiaca na `.local`; pripojte sa k nej z Finderu (**⌘K**). Toto funguje úplne bez Wi-Fi - ideálne v lietadle, v hoteli alebo v zamknutej sieti - a je rýchlejšie a súkromnejšie ako Wi-Fi.
 {{% /details %}}
@@ -122,19 +147,20 @@ Váš iPhone alebo iPad je server a iOS nedovoľuje aplikáciám udržiavať sie
 **USB kábel k Macu** je rýchlejší a spoľahlivejší ako Wi-Fi, pretože dáta idú priamo cez kábel. Je to tiež najsúkromnejšia možnosť, keďže nič neprechádza cez váš router ani cez internet. Použite ho na veľké prenosy fotiek a videí.
 {{% /details %}}
 
-{{% details title="Aký je rozdiel medzi štyrmi servermi (DLNA, HTTP, WebDAV, FTP)?" closed="true" %}}
+{{% details title="Aký je rozdiel medzi piatimi servermi (DLNA, HTTP, WebDAV, SMB, FTP)?" closed="true" %}}
 Všetky zdieľajú rovnaký obsah, ale hodia sa pre rôzne zariadenia:<br><br>
 
-- **TV a Media Center (DLNA)** - pre smart TV a mediálne prehrávače.<br>
+- **Televízor a mediálne centrum (DLNA)** - pre smart TV a mediálne prehrávače.<br>
 - **Prehliadač (HTTP)** - pre akýkoľvek webový prehliadač, bez inštalácie.<br>
 - **Počítač (WebDAV)** - premení vaše zariadenie na sieťový disk vo Finderi/Windowse/Linuxe.<br>
-- **Iné aplikácie a zariadenia (FTP)** - pre súborové aplikácie a pokročilé nástroje.<br><br>
+- **Počítač (pokročilé)** (SMB) - sieťový disk pre Mac, Windows a Linux; na Macu sa zobrazí samostatne v bočnom paneli Finderu, alebo sa pripojíte ručne adresou `smb://`. Je to jediné pripojenie, ktoré môžete zašifrovať (SMB3, AES).<br>
+- **Ostatné aplikácie a zariadenia (FTP)** - pre súborové aplikácie a pokročilé nástroje.<br><br>
 
 Ktorýkoľvek z nich môžete zapnúť alebo vypnúť v **Nastavenia → Zdieľanie → Pripojenia**.
 {{% /details %}}
 
 {{% details title="Ako ochránim svoje súbory heslom?" closed="true" %}}
-Prejdite do **Nastavenia → Zdieľanie → Prístup** a nastavte **Prihlásenie** a **Heslo**. Pripojenia Prehliadač, Počítač a Iné aplikácie potom vyžiadajú tieto údaje. Ponechajte obe polia prázdne pre otvorený prístup.<br><br>
+Prejdite do **Nastavenia → Zdieľanie → Prístup** a nastavte **Prihlásenie** a **Heslo**. Pripojenia Prehliadač, Počítač, Počítač (pokročilé) a Iné aplikácie potom vyžiadajú tieto údaje. Ponechajte obe polia prázdne pre otvorený prístup.<br><br>
 
 Poznámka: pripojenie **DLNA** (TV) sa nedá chrániť heslom, takže je počas svojej aktivity otvorené pre kohokoľvek v tej istej Wi-Fi. Ak chcete len chránené pripojenia, vypnite ho.
 {{% /details %}}
@@ -156,15 +182,15 @@ Nie predvolene. Vymazané súbory idú do obnoviteľného koša, takže ich mô�
 {{% /details %}}
 
 {{% details title="Môže sa Everdisk pripojiť k môjmu NAS alebo iným serverom?" closed="true" %}}
-Áno. Karta **Zariadenia** sa pripája **k** iným serverom vo vašej sieti. Ťuknite na **Nové pripojenie** a zvoľte **DLNA / UPnP**, **WebDAV**, **FTP** alebo **SFTP**, zadajte adresu a prípadné prihlásenie a môžete prezerať, streamovať a sťahovať. Na serveroch WebDAV, FTP a SFTP môžete tiež vytvárať priečinky, nahrávať, premenúvať, presúvať a mazať. DLNA servery sú len na čítanie.
+Áno. Karta **Zariadenia** sa pripája **k** iným serverom vo vašej sieti. Ťuknite na **Nové pripojenie** a zvoľte **DLNA / UPnP**, **WebDAV**, **FTP**, **SFTP** alebo **SMB** (pre Macy, Windows PC, Linux počítače a NAS disky, ktoré zdieľajú priečinky cez SMB / CIFS), zadajte adresu a prípadné prihlásenie a môžete prezerať, streamovať a sťahovať. Na serveroch WebDAV, FTP, SFTP a SMB môžete tiež vytvárať priečinky, nahrávať, premenúvať, presúvať a mazať. DLNA servery sú len na čítanie.
 {{% /details %}}
 
 {{% details title="Môžem sa pripojiť k cloudovému úložisku ako Google Drive alebo Dropbox?" closed="true" %}}
-Everdisk sa neprihlasuje do cloudových účtov ako iCloud Drive, Google Drive, Dropbox alebo OneDrive. Pripája sa len k serverom v **lokálnej sieti a priamo adresovaným** serverom (DLNA, WebDAV, FTP, SFTP). Cloudová služba je dostupná len vtedy, ak ponúka adresu **WebDAV**, ktorú môžete zadať do nového WebDAV pripojenia.
+Everdisk sa neprihlasuje do cloudových účtov ako iCloud Drive, Google Drive, Dropbox alebo OneDrive. Pripája sa len k serverom v **lokálnej sieti a priamo adresovaným** serverom (DLNA, WebDAV, FTP, SFTP, SMB). Cloudová služba je dostupná len vtedy, ak ponúka adresu **WebDAV**, ktorú môžete zadať do nového WebDAV pripojenia.
 {{% /details %}}
 
 {{% details title="Na čo slúži karta Zariadenia?" closed="true" %}}
-Je to klientská strana Everdisku: **Pripojenia** uvádzajú servery, ktoré ste uložili, a **Dostupné zariadenia** uvádzajú servery nájdené automaticky vo vašej sieti. Ťuknite na jeden a prezerajte, streamujte alebo sťahujte jeho súbory, alebo ťuknite na **Nové pripojenie** a pridajte server DLNA, WebDAV, FTP alebo SFTP ručne.
+Je to klientská strana Everdisku: **Pripojenia** uvádzajú servery, ktoré ste uložili, a **Dostupné zariadenia** uvádzajú servery nájdené automaticky vo vašej sieti. Ťuknite na jeden a prezerajte, streamujte alebo sťahujte jeho súbory, alebo ťuknite na **Nové pripojenie** a pridajte server DLNA, WebDAV, FTP, SFTP alebo SMB ručne.
 {{% /details %}}
 
 {{% details title="Ako stiahnem súbory zo servera do svojho zariadenia?" closed="true" %}}
@@ -172,7 +198,7 @@ Otvorte server na karte **Zariadenia**, prejdite na to, čo chcete, a zvoľte **
 {{% /details %}}
 
 {{% details title="Má Everdisk správcu súborov?" closed="true" %}}
-Áno. Karta **Dokumenty** je plnohodnotný správca súborov. Môžete prezerať v zozname alebo mriežke, vytvárať priečinky, premenúvať, presúvať, kopírovať, nahrávať a mazať a otvoriť obrazovku **Info** pre akýkoľvek súbor. Sťahovania pristanú tu a priečinok Dokumenty je zdieľaný predvolene.
+Áno. Karta **Dokumenty** je plnohodnotný správca súborov. Môžete prezerať v zozname alebo mriežke, vytvárať priečinky, premenúvať, presúvať, kopírovať, nahrávať a mazať a otvoriť obrazovku **Informácie** pre akýkoľvek súbor. Sťahovania pristanú tu a priečinok Dokumenty je zdieľaný predvolene.
 {{% /details %}}
 
 {{% details title="Ako zbalím (archivujem) súbory?" closed="true" %}}
@@ -256,13 +282,13 @@ Everdisk dá vášmu zariadeniu priateľský názov a avatar automaticky a môž
 {{% /details %}}
 
 {{% details title="Môžem zmeniť porty pripojenia?" closed="true" %}}
-Predvolené hodnoty sú **HTTP 80**, **WebDAV 8080** a **FTP 2121** (DLNA si vyberá port automaticky). Môžete si ich pozrieť zadarmo a nastavenie **vlastných portov** je Premium funkcia (**Pokročilé** v Nastavenia → Zdieľanie).
+Predvolené hodnoty sú **HTTP 80**, **WebDAV 8080**, **SMB 4455** a **FTP 2121** (DLNA si vyberá port automaticky). Môžete si ich pozrieť zadarmo a nastavenie **vlastných portov** je Premium funkcia (**Pokročilé** v Nastavenia → Zdieľanie).
 {{% /details %}}
 
 {{% details title="Je Everdisk zadarmo a čo pridáva Premium?" closed="true" %}}
-Everdisk je stiahnutie **zadarmo**. Môžete spustiť všetky štyri servery, chrániť prístup heslom, zdieľať celú knižnicu Fotky a Hudba, používať správcu súborov, skenovať do PDF a pripájať sa k iným serverom. Verzia zadarmo zdieľa až **5 priečinkov** a ukladá až **10 serverových pripojení**.<br><br>
+Everdisk je stiahnutie **zadarmo**. Môžete spustiť všetkých päť serverov, chrániť prístup heslom, zdieľať celú knižnicu Fotky a Hudba, používať správcu súborov, skenovať do PDF a pripájať sa k iným serverom. Verzia zadarmo zdieľa až **5 priečinkov** a ukladá až **10 serverových pripojení**.<br><br>
 
-Jednorazový nákup **Premium Lifetime** (nie predplatné) pridáva: **Neobmedzené priečinky**, **Neobmedzené pripojenia**, **Prevod fotiek a videí** (iná kvalita ako Originál), **Vlastné porty**, **Automatické spustenie zdieľania** a **Prispôsobenie zariadenia**.
+Jednorazový nákup **Premium Lifetime** (nie predplatné) pridáva: **Neobmedzené priečinky**, **Neobmedzené pripojenia**, **Prevod fotiek a videí** (iná kvalita ako Originál), **Šifrovanie SMB** (SMB3/AES), **Vlastné porty**, **Automatické spustenie zdieľania** a **Prispôsobenie zariadenia**.
 {{% /details %}}
 
 {{% details title="Je Premium predplatné? Funguje na mojich ostatných zariadeniach?" closed="true" %}}

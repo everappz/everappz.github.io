@@ -1,14 +1,14 @@
 ---
 title: "Conectarse a servidores"
 date: 2026-08-20
-description: "Usa la pestana Dispositivos de Everdisk para conectarte a otros servidores de tu red. Anade y explora servidores DLNA, WebDAV, FTP y SFTP y unidades NAS, reproduce audio y video, descarga archivos y crea, sube, renombra, mueve o elimina en los servidores que lo permitan."
-keywords: ["pestana Dispositivos de Everdisk", "conectar a NAS", "cliente DLNA iPhone", "cliente WebDAV iPhone", "cliente FTP iPhone", "cliente SFTP iPhone", "explorar servidor de red", "reproducir desde NAS", "descargar desde servidor", "conectar nube WebDAV"]
+description: "Usa la pestana Dispositivos de Everdisk para conectarte a otros servidores de tu red. Anade y explora servidores DLNA, WebDAV, FTP, SFTP y SMB y unidades NAS, reproduce audio y video, descarga archivos y crea, sube, renombra, mueve o elimina en los servidores que lo permitan."
+keywords: ["pestana Dispositivos de Everdisk", "conectar a NAS", "cliente DLNA iPhone", "cliente WebDAV iPhone", "cliente FTP iPhone", "cliente SFTP iPhone", "cliente SMB iPhone", "conectar a recurso compartido SMB", "explorar servidor de red", "reproducir desde NAS", "descargar desde servidor", "conectar nube WebDAV"]
 tags: ["everdisk", "guia", "dispositivos", "conexiones"]
 readingTime: 9
 ---
 
 
-Everdisk no es solo una unidad inalambrica: tambien es un cliente para los demas dispositivos de tu red. La pestana **Dispositivos** te permite conectarte a servidores **DLNA**, **WebDAV**, **FTP** y **SFTP**, incluidas unidades NAS y servidores multimedia, para luego explorar, reproducir y descargar sus archivos.
+Everdisk no es solo una unidad inalambrica: tambien es un cliente para los demas dispositivos de tu red. La pestana **Dispositivos** te permite conectarte a servidores **DLNA**, **WebDAV**, **FTP**, **SFTP** y **SMB**, incluidos Mac, PC con Windows, maquinas Linux, unidades NAS y servidores multimedia, para luego explorar, reproducir y descargar sus archivos.
 
 ## La pantalla de Dispositivos
 
@@ -27,6 +27,7 @@ Toca **Nueva conexion** y elige el tipo de servidor al que quieres acceder:
 - **WebDAV**: conectate a servidores de archivos, unidades de almacenamiento en red y unidades en la nube compatibles con WebDAV. Lectura y escritura cuando el servidor lo permite.
 - **FTP**: habitual en routers, unidades de almacenamiento en red y alojamiento web. El puerto predeterminado es el 21 (990 para FTPS seguro); puedes indicar un puerto personalizado en la direccion, por ejemplo `ftp://host:2121`. Deja el usuario y la contrasena vacios para el acceso anonimo.
 - **SFTP**: conectate de forma segura por SSH. El puerto predeterminado es el 22; usa un puerto personalizado en la direccion si hace falta, por ejemplo `sftp://host:2222`.
+- **SMB**: conectate a Mac, PC con Windows, servidores Linux y almacenamiento en red (NAS) que comparten carpetas por **SMB / CIFS**. Introduce una direccion como `smb://server-address/share-name/` (ejemplos: `smb://local-server-name/share-name/folder-path`, `smb://192.168.1.105/share-name/folder-path`, `smb://remote-server.com`). SMB anade dos campos opcionales: un nombre de **Grupo de trabajo** y una **Version del protocolo** que puedes dejar en **Automatica** o forzar a **SMB1** o **SMB2**. Si los archivos o las carpetas con caracteres especiales no se abren, prueba a cambiar la version a **SMB1**.
 
 > Everdisk se conecta solo a estos protocolos de red local y de direccion directa. No inicia sesion en cuentas en la nube como Google Drive o Dropbox. Una unidad en la nube solo es accesible si ese servicio ofrece una direccion **WebDAV** que puedas escribir.
 
@@ -53,7 +54,7 @@ Una vez conectado, toca el servidor para abrirlo:
 
 ## Cambiar archivos en un servidor
 
-En los servidores que permiten la escritura (**WebDAV, FTP y SFTP**) tambien puedes gestionar archivos:
+En los servidores que permiten la escritura (**WebDAV, FTP, SFTP y SMB**) tambien puedes gestionar archivos:
 
 - **Nueva carpeta**
 - **Subir archivos** desde tu dispositivo

@@ -1,8 +1,8 @@
 ---
 title: "Acesso e Privacidade"
 date: 2026-08-20
-description: "Mantenha a sua partilha do Everdisk segura: proteja o acesso com um início de sessão e palavra-passe, controle se os dispositivos ligados podem carregar, mudar o nome e eliminar com a Edição de Ficheiros, bloqueie dispositivos desconhecidos, escolha entre lixo e eliminação permanente e perceba porque é que tudo permanece na sua rede local."
-keywords: ["protecao por palavra-passe Everdisk", "interruptor edicao de ficheiros", "bloquear dispositivo", "dispositivos bloqueados", "eliminar ficheiros permanentemente", "apenas rede local", "partilha de ficheiros privada", "DLNA sem palavra-passe", "seguranca de rede"]
+description: "Mantenha a sua partilha do Everdisk segura: proteja o acesso com um início de sessão e palavra-passe, criptografe a ligação SMB com SMB3 (AES), controle se os dispositivos ligados podem carregar, mudar o nome e eliminar com a Edição de Ficheiros, bloqueie dispositivos desconhecidos, escolha entre lixo e eliminação permanente e perceba porque é que tudo permanece na sua rede local."
+keywords: ["protecao por palavra-passe Everdisk", "criptografia SMB", "criptografia SMB3 AES", "interruptor edicao de ficheiros", "bloquear dispositivo", "dispositivos bloqueados", "eliminar ficheiros permanentemente", "apenas rede local", "partilha de ficheiros privada", "DLNA sem palavra-passe", "seguranca de rede"]
 tags: ["everdisk", "guia", "acesso", "privacidade", "seguranca"]
 readingTime: 8
 ---
@@ -16,11 +16,23 @@ Por predefinição, qualquer pessoa na mesma rede que tenha o seu endereço pode
 
 1. Vá a **Definições → Partilha → Acesso**.
 2. Introduza um **Início de sessão** e uma **Palavra-passe**.
-3. Agora as ligações **Navegador (HTTP)**, **Computador (WebDAV)** e **Outras Aplicações e Dispositivos (FTP)** pedem todas esses dados antes de mostrarem os seus ficheiros.
+3. Agora as ligações **Navegador (HTTP)**, **Computador (WebDAV)**, **Computador (avançado) (SMB)** e **Outras Aplicações e Dispositivos (FTP)** pedem todas esses dados antes de mostrarem os seus ficheiros.
 
 Deixe ambos os campos vazios para acesso aberto. A sua palavra-passe é guardada em segurança no Keychain do dispositivo.
 
 > **O DLNA está sempre aberto.** A ligação TV e Centro Multimédia (DLNA) não pode ser protegida por palavra-passe, por isso, assim que estiver ativada, qualquer dispositivo na mesma rede Wi-Fi pode explorar a sua multimédia partilhada. Desative-a se só quiser ligações protegidas, e partilhe apenas em redes de confiança.
+
+## Criptografar a ligação SMB (SMB3 / AES)
+
+Um início de sessão e palavra-passe controlam **quem** se pode ligar, mas os próprios dados continuam a viajar sem cifragem na maioria das ligações. **O SMB é a única ligação que o Everdisk pode criptografar**, o que baralha cada transferência para que mais ninguém na mesma rede a consiga ler.
+
+Para a ativar:
+
+1. Defina um **Início de sessão** e uma **Palavra-passe** como acima - as ligações criptografadas não podem ser anónimas.
+2. Vá a **Definições → Partilha** e ative **Exigir criptografia SMB**.
+3. **Pare e inicie** a partilha novamente para que a alteração entre em vigor.
+
+Cada transferência SMB fica então protegida com **criptografia SMB3 (AES)**. O dispositivo que se liga tem de suportar SMB3 - o Finder num Mac moderno, ou o **Windows 10 e posterior**. É uma ótima escolha em Wi-Fi em que não confia totalmente. A criptografia SMB é uma funcionalidade Premium.
 
 ## Permitir ou bloquear a edição (Edição de Ficheiros)
 

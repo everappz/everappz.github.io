@@ -1,16 +1,17 @@
 ---
 date: '2026-08-20T12:00:00+00:00'
 title: 'Everdisk'
-description: "Everdisk česta pitanja: pretvorite iPhone ili iPad u bežični disk i dijelite datoteke, fotografije, videozapise i glazbu s bilo kojim uređajem na vašoj mreži putem DLNA, HTTP, WebDAV i FTP. Odgovori o povezivanju s TV-a, web preglednika, Maca, Windowsa i Linuxa, prijenosu putem USB kabela bez Wi-Fi, povezivanju na NAS i WebDAV/FTP/SFTP poslužitelje, upravitelju datoteka, zip i unzip, skeniranju dokumenata u PDF, lozinkama i blokiranju uređaja, privatnosti te jednokratnoj kupnji Premium Lifetime."
+description: "Everdisk česta pitanja: pretvorite iPhone ili iPad u bežični disk i dijelite datoteke, fotografije, videozapise i glazbu s bilo kojim uređajem na vašoj mreži putem DLNA, HTTP, WebDAV, SMB i FTP. Odgovori o povezivanju s TV-a, web preglednika, Maca, Windowsa i Linuxa, SMB mrežnom disku sa SMB3 šifriranjem (AES), prijenosu putem USB kabela bez Wi-Fi, povezivanju na NAS i WebDAV/FTP/SFTP/SMB poslužitelje, upravitelju datoteka, zip i unzip, skeniranju dokumenata u PDF, lozinkama i blokiranju uređaja, privatnosti te jednokratnoj kupnji Premium Lifetime."
 keywords: [
   "Everdisk česta pitanja", "bežični disk iPhone", "dijeljenje datoteka iPhone", "dijeljenje fotografija putem mreže",
   "strujanje na TV DLNA", "otvaranje datoteka u pregledniku", "WebDAV mrežni disk iPhone",
+  "SMB poslužitelj iPhone", "SMB šifriranje iPhone", "SMB3 AES šifriranje",
   "FTP poslužitelj iPhone", "SFTP klijent iPhone", "USB prijenos datoteka Mac bez Wi-Fi",
-  "povezivanje na NAS iPhone", "upravitelj datoteka iOS", "zip unzip iPhone",
+  "povezivanje na NAS iPhone", "SMB klijent iPhone", "povezivanje na SMB dijeljenje", "upravitelj datoteka iOS", "zip unzip iPhone",
   "skeniranje dokumenata u PDF", "zaštita dijeljenja lozinkom", "blokiranje uređaja",
   "dijeljenje datoteka na lokalnoj mreži", "Everdisk Premium", "Everdisk doživotno"
 ]
-tags: ["everdisk", "cesta pitanja", "bežični disk", "dijeljenje datoteka", "DLNA", "WebDAV", "FTP", "SFTP", "mrežni disk"]
+tags: ["everdisk", "cesta pitanja", "bežični disk", "dijeljenje datoteka", "DLNA", "WebDAV", "SMB", "FTP", "SFTP", "mrežni disk"]
 ---
 
 
@@ -23,15 +24,16 @@ Everdisk pretvara vaš iPhone ili iPad u bežični disk koji dijeli datoteke, fo
 {{% details title="Što je Everdisk?" closed="true" %}}
 Everdisk je aplikacija za **bežični disk** za iPhone i iPad. Pretvara vaš uređaj u središte koje dijeli datoteke, fotografije, videozapise i glazbu koje odaberete sa svime na vašoj lokalnoj mreži, a povezuje se i s drugim poslužiteljima pa možete pregledavati i strujati njihove datoteke.<br><br>
 
-Istovremeno pokreće četiri poslužitelja - **DLNA** za TV-e, **HTTP** za web preglednike, **WebDAV** za Finder/Windows/Linux te **FTP** za aplikacije za datoteke - pa se svaki uređaj povezuje na način koji mu odgovara. Nema računa i nema oblaka: dodirnete **Start** i spremni ste. Uključuje i upravitelj datoteka, medijski reproduktor, galeriju fotografija, skeniranje dokumenata u PDF te zip/unzip.
+Istovremeno pokreće pet poslužitelja - **DLNA** za TV-e, **HTTP** za web preglednike, **WebDAV** za Finder/Windows/Linux, **SMB** za mrežni disk na Macu, Windowsu i Linuxu uz neobvezno šifriranje te **FTP** za aplikacije za datoteke - pa se svaki uređaj povezuje na način koji mu odgovara. Nema računa i nema oblaka: dodirnete **Start** i spremni ste. Uključuje i upravitelj datoteka, medijski reproduktor, galeriju fotografija, skeniranje dokumenata u PDF te zip/unzip.
 {{% /details %}}
 
 {{% details title="Kako Everdisk radi?" closed="true" %}}
-Kada dodirnete **Start**, Everdisk pretvara vaš uređaj u poslužitelj na vašoj lokalnoj mreži i dijeli sadržaj koji ste odabrali. Četiri različita načina povezivanja rade istovremeno kako bi se različiti uređaji mogli povezati na način koji im odgovara:<br><br>
+Kada dodirnete **Start**, Everdisk pretvara vaš uređaj u poslužitelj na vašoj lokalnoj mreži i dijeli sadržaj koji ste odabrali. Pet različitih načina povezivanja radi istovremeno kako bi se različiti uređaji mogli povezati na način koji im odgovara:<br><br>
 
 - **DLNA** - pametni TV-i i medijski reproduktori automatski pronalaze vaš uređaj i prikazuju vaše medije sa sličicama.<br>
 - **HTTP** - svatko otvara poveznicu u web pregledniku za pregledavanje i preuzimanje vaših datoteka.<br>
 - **WebDAV** - vaš se uređaj pojavljuje kao običan mrežni disk u Finderu, Windowsu ili Linuxu.<br>
+- **SMB** - mrežni disk za Mac, Windows i Linux, izgrađen na dijeljenju datoteka koje već postoji u tim sustavima; na Macu se sam pojavljuje u bočnoj traci Findera. To je jedina veza koju možete šifrirati (SMB3 šifriranje, AES).<br>
 - **FTP** - aplikacije za datoteke i napredni alati povezuju se putem FTP.<br><br>
 
 Sve se odvija putem vaše lokalne Wi-Fi mreže (ili USB kabela do Maca) i nikada ne dodiruje internet.
@@ -106,6 +108,29 @@ Koristite adresu **Računalo (WebDAV)**.<br><br>
 Unesite prijavu i lozinku ako ste ih postavili.
 {{% /details %}}
 
+{{% details title="Kako da se povežem putem SMB-a?" closed="true" %}}
+1. U **Postavke → Dijeljenje → Povezivanja** provjerite je li **Računalo (napredno)** (SMB veza) uključeno, a zatim dodirnite **Start**.<br>
+2. Kopirajte adresu **SMB** prikazanu na zaslonu Dijeljenje - izgleda ovako `smb://192.168.1.20:4455/Share`.<br>
+3. Povežite se sa svog računala:<br>
+&nbsp;&nbsp;- **Mac:** vaš se uređaj sam pojavljuje u **bočnoj traci Findera** pod **Lokacije** (Mreža) - samo ga kliknite. Za ručno povezivanje odaberite **Idi → Poveži se s poslužiteljem** (**⌘K**) i unesite adresu.<br>
+&nbsp;&nbsp;- **Windows:** u File Exploreru desnom tipkom kliknite **Ovo računalo** i odaberite **Mapiraj mrežni disk**, a zatim unesite `\\<address>\Share` ili upišite `smb://` adresu u adresnu traku.<br>
+&nbsp;&nbsp;- **Linux:** u svom upravitelju datoteka odaberite **Poveži se s poslužiteljem** i unesite adresu.<br>
+4. Unesite svoju prijavu i lozinku ako ste ih postavili; u suprotnom se povežite kao gost.<br><br>
+
+Dijeljenje se zove **Share**. Uz uključeno **Uređivanje datoteka** možete kopirati datoteke u oba smjera; uz isključeno disk je samo za čitanje.
+{{% /details %}}
+
+{{% details title="Mogu li šifrirati svoju SMB vezu?" closed="true" %}}
+Da - i SMB je **jedina** veza koju Everdisk može šifrirati. U **Postavke → Dijeljenje** uključite **Zahtijevaj SMB šifriranje** kako biste svaki SMB prijenos zaštitili **SMB3 šifriranjem (AES)**, tako da nitko drugi na istoj mreži ne može čitati vaše datoteke. Ovo je odličan izbor na Wi-Fi mreži kojoj ne vjerujete potpuno.<br><br>
+
+Nekoliko zahtjeva:<br>
+- Prvo morate postaviti **prijavu i lozinku** - šifrirane veze ne mogu biti anonimne.<br>
+- Klijent mora podržavati **SMB3** - Finder na modernom Macu ili **Windows 10 i noviji**.<br>
+- Promjene stupaju na snagu pri sljedećem pokretanju dijeljenja.<br><br>
+
+SMB šifriranje dio je jednokratne kupnje **Premium Lifetime**.
+{{% /details %}}
+
 {{% details title="Radi li Everdisk bez Wi-Fi?" closed="true" %}}
 Da, uz **Mac** i kabel. Spojite iPhone ili iPad na Mac, dodirnite **Vjeruj** ako se to zatraži i dodirnite **Start**. Na zaslonu Dijeljenje pojavljuje se adresa **Kabelska veza** koja završava na `.local`; povežite se s njom iz Findera (**⌘K**). Ovo radi potpuno bez Wi-Fi - odlično u avionu, u hotelu ili na zaključanoj mreži - i brže je i privatnije od Wi-Fi.
 {{% /details %}}
@@ -122,19 +147,20 @@ Vaš iPhone ili iPad je poslužitelj, a iOS ne dopušta aplikacijama da drže mr
 **USB kabel do Maca** brži je i pouzdaniji od Wi-Fi jer podaci idu izravno kroz kabel. To je i najprivatnija opcija jer ništa ne prolazi kroz vaš usmjerivač ni internet. Koristite ga za velike prijenose fotografija i videozapisa.
 {{% /details %}}
 
-{{% details title="Koja je razlika između četiri poslužitelja (DLNA, HTTP, WebDAV, FTP)?" closed="true" %}}
+{{% details title="Koja je razlika između pet poslužitelja (DLNA, HTTP, WebDAV, SMB, FTP)?" closed="true" %}}
 Svi dijele isti sadržaj, ali odgovaraju različitim uređajima:<br><br>
 
 - **TV i medijski centar (DLNA)** - za pametne TV-e i medijske reproduktore.<br>
 - **Preglednik (HTTP)** - za bilo koji web preglednik, bez potrebe za instalacijom.<br>
 - **Računalo (WebDAV)** - čini vaš uređaj mrežnim diskom u Finderu/Windowsu/Linuxu.<br>
+- **Računalo (napredno)** (SMB) - mrežni disk za Mac, Windows i Linux; na Macu se sam pojavljuje u bočnoj traci Findera ili se povežite ručno pomoću `smb://` adrese. To je jedina veza koju možete šifrirati (SMB3, AES).<br>
 - **Druge aplikacije i uređaji (FTP)** - za aplikacije za datoteke i napredne alate.<br><br>
 
 Bilo koji od njih možete uključiti ili isključiti u **Postavke → Dijeljenje → Povezivanja**.
 {{% /details %}}
 
 {{% details title="Kako da zaštitim svoje datoteke lozinkom?" closed="true" %}}
-Idite u **Postavke → Dijeljenje → Pristup** i postavite **Prijavu** i **Lozinku**. Veze Preglednik, Računalo i Druge aplikacije tada će tražiti te podatke. Ostavite oboje prazno za otvoren pristup.<br><br>
+Idite u **Postavke → Dijeljenje → Pristup** i postavite **Prijavu** i **Lozinku**. Veze Preglednik, Računalo, Računalo (napredno) i Druge aplikacije tada će tražiti te podatke. Ostavite oboje prazno za otvoren pristup.<br><br>
 
 Napomena: veza **DLNA** (TV) ne može se zaštititi lozinkom, pa je otvorena svakome na istoj Wi-Fi mreži dok je uključena. Isključite je ako želite samo zaštićene veze.
 {{% /details %}}
@@ -156,15 +182,15 @@ Da. Everdisk dijeli samo putem vaše **lokalne mreže** - ništa ne ide na inter
 {{% /details %}}
 
 {{% details title="Može li se Everdisk povezati s mojim NAS-om ili drugim poslužiteljima?" closed="true" %}}
-Da. Kartica **Uređaji** povezuje se **s** drugim poslužiteljima na vašoj mreži. Dodirnite **Nova veza** i odaberite **DLNA / UPnP**, **WebDAV**, **FTP** ili **SFTP**, unesite adresu i eventualnu prijavu i možete pregledavati, strujati i preuzimati. Na WebDAV, FTP i SFTP poslužiteljima možete i stvarati mape, prenositi, preimenovati, premještati i brisati. DLNA poslužitelji su samo za čitanje.
+Da. Kartica **Uređaji** povezuje se **s** drugim poslužiteljima na vašoj mreži. Dodirnite **Nova veza** i odaberite **DLNA / UPnP**, **WebDAV**, **FTP**, **SFTP** ili **SMB** (za Macove, PC-e s Windowsima, Linux strojeve i NAS diskove koji dijele mape putem SMB / CIFS), unesite adresu i eventualnu prijavu i možete pregledavati, strujati i preuzimati. Na WebDAV, FTP, SFTP i SMB poslužiteljima možete i stvarati mape, prenositi, preimenovati, premještati i brisati. DLNA poslužitelji su samo za čitanje.
 {{% /details %}}
 
 {{% details title="Mogu li se povezati s pohranom u oblaku poput Google Drivea ili Dropboxa?" closed="true" %}}
-Everdisk se ne prijavljuje na račune u oblaku kao što su iCloud Drive, Google Drive, Dropbox ili OneDrive. Povezuje se samo s poslužiteljima na **lokalnoj mreži i onima s izravnom adresom** (DLNA, WebDAV, FTP, SFTP). Usluga u oblaku dostupna je samo ako nudi **WebDAV** adresu koju možete upisati u novu WebDAV vezu.
+Everdisk se ne prijavljuje na račune u oblaku kao što su iCloud Drive, Google Drive, Dropbox ili OneDrive. Povezuje se samo s poslužiteljima na **lokalnoj mreži i onima s izravnom adresom** (DLNA, WebDAV, FTP, SFTP, SMB). Usluga u oblaku dostupna je samo ako nudi **WebDAV** adresu koju možete upisati u novu WebDAV vezu.
 {{% /details %}}
 
 {{% details title="Čemu služi kartica Uređaji?" closed="true" %}}
-To je klijentska strana Everdiska: **Povezivanja** navode poslužitelje koje ste spremili, a **Dostupni uređaji** navode poslužitelje pronađene automatski na vašoj mreži. Dodirnite jedan za pregledavanje, strujanje ili preuzimanje njegovih datoteka ili dodirnite **Nova veza** da ručno dodate DLNA, WebDAV, FTP ili SFTP poslužitelj.
+To je klijentska strana Everdiska: **Povezivanja** navode poslužitelje koje ste spremili, a **Dostupni uređaji** navode poslužitelje pronađene automatski na vašoj mreži. Dodirnite jedan za pregledavanje, strujanje ili preuzimanje njegovih datoteka ili dodirnite **Nova veza** da ručno dodate DLNA, WebDAV, FTP, SFTP ili SMB poslužitelj.
 {{% /details %}}
 
 {{% details title="Kako da preuzmem datoteke s poslužitelja na svoj uređaj?" closed="true" %}}
@@ -256,13 +282,13 @@ Everdisk automatski daje vašem uređaju prijateljski naziv i avatar, a možete 
 {{% /details %}}
 
 {{% details title="Mogu li promijeniti portove za povezivanje?" closed="true" %}}
-Zadano je **HTTP 80**, **WebDAV 8080** i **FTP 2121** (DLNA sam bira svoj port). Možete ih pregledati besplatno, a postavljanje **prilagođenih portova** je Premium značajka (**Napredno** u Postavke → Dijeljenje).
+Zadano je **HTTP 80**, **WebDAV 8080**, **SMB 4455** i **FTP 2121** (DLNA sam bira svoj port). Možete ih pregledati besplatno, a postavljanje **prilagođenih portova** je Premium značajka (**Napredno** u Postavke → Dijeljenje).
 {{% /details %}}
 
 {{% details title="Je li Everdisk besplatan i što donosi Premium?" closed="true" %}}
-Everdisk je **besplatan** za preuzimanje. Možete pokrenuti sva četiri poslužitelja, zaštititi pristup lozinkom, dijeliti cijelu biblioteku fotografija i glazbe, koristiti upravitelj datoteka, skenirati u PDF te se povezivati s drugim poslužiteljima. Besplatna verzija dijeli do **5 mapa** i sprema do **10 poslužiteljskih veza**.<br><br>
+Everdisk je **besplatan** za preuzimanje. Možete pokrenuti svih pet poslužitelja, zaštititi pristup lozinkom, dijeliti cijelu biblioteku fotografija i glazbe, koristiti upravitelj datoteka, skenirati u PDF te se povezivati s drugim poslužiteljima. Besplatna verzija dijeli do **5 mapa** i sprema do **10 poslužiteljskih veza**.<br><br>
 
-Jednokratna kupnja **Premium Lifetime** (ne pretplata) dodaje: **Neograničeno mapa**, **Neograničeno veza**, **Pretvorbu fotografija i videa** (kvaliteta osim Izvorne), **Prilagođene portove**, **Automatsko pokretanje dijeljenja** i **Prilagodbu uređaja**.
+Jednokratna kupnja **Premium Lifetime** (ne pretplata) dodaje: **Neograničeno mapa**, **Neograničeno veza**, **Pretvorbu fotografija i videa** (kvaliteta osim Izvorne), **SMB šifriranje** (SMB3/AES), **Prilagođene portove**, **Automatsko pokretanje dijeljenja** i **Prilagodbu uređaja**.
 {{% /details %}}
 
 {{% details title="Je li Premium pretplata? Radi li na mojim drugim uređajima?" closed="true" %}}

@@ -1,8 +1,8 @@
 ---
 title: "Truy cập & Quyền riêng tư"
 date: 2026-08-20
-description: "Giữ cho việc chia sẻ Everdisk của bạn an toàn: bảo vệ truy cập bằng tên đăng nhập và mật khẩu, kiểm soát việc các thiết bị đã kết nối có thể tải lên, đổi tên và xóa hay không với Chỉnh sửa tệp, chặn các thiết bị lạ, chọn thùng rác so với xóa vĩnh viễn, và hiểu vì sao mọi thứ đều nằm trong mạng nội bộ của bạn."
-keywords: ["bảo vệ bằng mật khẩu Everdisk", "công tắc chỉnh sửa tệp", "chặn thiết bị", "thiết bị bị chặn", "xóa tệp vĩnh viễn", "chỉ mạng nội bộ", "chia sẻ tệp riêng tư", "DLNA không mật khẩu", "an toàn mạng"]
+description: "Giữ cho việc chia sẻ Everdisk của bạn an toàn: bảo vệ truy cập bằng tên đăng nhập và mật khẩu, mã hóa kết nối SMB bằng SMB3 (AES), kiểm soát việc các thiết bị đã kết nối có thể tải lên, đổi tên và xóa hay không với Chỉnh sửa tệp, chặn các thiết bị lạ, chọn thùng rác so với xóa vĩnh viễn, và hiểu vì sao mọi thứ đều nằm trong mạng nội bộ của bạn."
+keywords: ["bảo vệ bằng mật khẩu Everdisk", "mã hóa SMB", "mã hóa SMB3 AES", "công tắc chỉnh sửa tệp", "chặn thiết bị", "thiết bị bị chặn", "xóa tệp vĩnh viễn", "chỉ mạng nội bộ", "chia sẻ tệp riêng tư", "DLNA không mật khẩu", "an toàn mạng"]
 tags: ["everdisk", "guide", "access", "privacy", "security"]
 readingTime: 8
 ---
@@ -16,11 +16,23 @@ Theo mặc định, bất kỳ ai trong cùng mạng và có địa chỉ của 
 
 1. Vào **Cài đặt → Chia sẻ → Truy cập**.
 2. Nhập một **Tên đăng nhập** và một **Mật khẩu**.
-3. Giờ đây các kết nối **Trình duyệt (HTTP)**, **Máy tính (WebDAV)** và **Ứng dụng & Thiết bị khác (FTP)** đều sẽ hỏi những thông tin đó trước khi hiển thị tệp của bạn.
+3. Giờ đây các kết nối **Trình duyệt (HTTP)**, **Máy tính (WebDAV)**, **Máy tính (Nâng cao) (SMB)** và **Ứng dụng & Thiết bị khác (FTP)** đều sẽ hỏi những thông tin đó trước khi hiển thị tệp của bạn.
 
 Để trống cả hai ô nếu muốn truy cập mở. Mật khẩu của bạn được lưu an toàn trong Keychain của thiết bị.
 
 > **DLNA luôn mở.** Kết nối TV & Trung tâm giải trí (DLNA) không thể được bảo vệ bằng mật khẩu, nên khi đã bật, bất kỳ thiết bị nào trong cùng mạng Wi-Fi đều có thể duyệt media bạn chia sẻ. Hãy tắt nó nếu bạn chỉ muốn các kết nối được bảo vệ, và chỉ chia sẻ trên những mạng bạn tin cậy.
+
+## Mã hóa kết nối SMB (SMB3 / AES)
+
+Tên đăng nhập và mật khẩu kiểm soát **ai** có thể kết nối, nhưng dữ liệu tự nó vẫn truyền dưới dạng không mã hóa trên hầu hết các kết nối. **SMB là kết nối duy nhất Everdisk có thể mã hóa**, nó xáo trộn mọi lần truyền để không ai khác trong cùng mạng đọc được.
+
+Để bật nó:
+
+1. Đặt **Tên đăng nhập** và **Mật khẩu** như ở trên - kết nối có mã hóa không thể ẩn danh.
+2. Vào **Cài đặt → Chia sẻ** và bật **Yêu cầu mã hóa SMB**.
+3. **Dừng rồi Bắt đầu** chia sẻ lại để thay đổi có hiệu lực.
+
+Mọi lần truyền SMB khi đó được bảo vệ bằng **mã hóa SMB3 (AES)**. Thiết bị kết nối phải hỗ trợ SMB3 - Finder trên một chiếc Mac hiện đại, hoặc **Windows 10 trở lên**. Đây là lựa chọn tuyệt vời trên Wi-Fi bạn chưa hoàn toàn tin tưởng. Mã hóa SMB là một tính năng Premium.
 
 ## Cho phép hoặc chặn chỉnh sửa (Chỉnh sửa tệp)
 

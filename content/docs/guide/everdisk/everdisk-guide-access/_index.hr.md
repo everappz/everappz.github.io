@@ -1,8 +1,8 @@
 ---
 title: "Pristup i privatnost"
 date: 2026-08-20
-description: "Zadržite dijeljenje u Everdisku sigurnim: zaštitite pristup prijavom i lozinkom, upravljajte time mogu li povezani uređaji prenositi, preimenovati i brisati pomoću Uređivanja datoteka, blokirajte nepoznate uređaje, odaberite smeće ili trajno brisanje i shvatite zašto sve ostaje na vašoj lokalnoj mreži."
-keywords: ["Everdisk zaštita lozinkom", "prekidač za uređivanje datoteka", "blokiranje uređaja", "blokirani uređaji", "trajno brisanje datoteka", "samo lokalna mreža", "privatno dijeljenje datoteka", "DLNA bez lozinke", "sigurnost mreže"]
+description: "Zadržite dijeljenje u Everdisku sigurnim: zaštitite pristup prijavom i lozinkom, šifrirajte SMB vezu pomoću SMB3 (AES), upravljajte time mogu li povezani uređaji prenositi, preimenovati i brisati pomoću Uređivanja datoteka, blokirajte nepoznate uređaje, odaberite smeće ili trajno brisanje i shvatite zašto sve ostaje na vašoj lokalnoj mreži."
+keywords: ["Everdisk zaštita lozinkom", "SMB šifriranje", "SMB3 AES šifriranje", "prekidač za uređivanje datoteka", "blokiranje uređaja", "blokirani uređaji", "trajno brisanje datoteka", "samo lokalna mreža", "privatno dijeljenje datoteka", "DLNA bez lozinke", "sigurnost mreže"]
 tags: ["everdisk", "vodič", "pristup", "privatnost", "sigurnost"]
 readingTime: 8
 ---
@@ -16,11 +16,23 @@ Prema zadanim postavkama svatko na istoj mreži tko ima vašu adresu može otvor
 
 1. Idite na **Postavke → Dijeljenje → Pristup**.
 2. Unesite **Prijavu** i **Lozinku**.
-3. Sada veze **Preglednik (HTTP)**, **Računalo (WebDAV)** i **Ostale aplikacije i uređaji (FTP)** sve traže te podatke prije nego što prikažu vaše datoteke.
+3. Sada veze **Preglednik (HTTP)**, **Računalo (WebDAV)**, **Računalo (napredno) (SMB)** i **Ostale aplikacije i uređaji (FTP)** sve traže te podatke prije nego što prikažu vaše datoteke.
 
 Ostavite oba polja prazna za otvoreni pristup. Vaša se lozinka sigurno pohranjuje u Keychain uređaja.
 
 > **DLNA je uvijek otvoren.** Veza TV i medijski centar (DLNA) ne može se zaštititi lozinkom, pa svaki uređaj na istoj Wi-Fi mreži može pregledavati vaše dijeljene medije čim je uključena. Isključite je ako želite samo zaštićene veze i dijelite samo na mrežama kojima vjerujete.
+
+## Šifriranje SMB veze (SMB3 / AES)
+
+Prijava i lozinka kontroliraju **tko** se može povezati, ali sami podaci na većini veza i dalje putuju u čistom obliku. **SMB je jedina veza koju Everdisk može šifrirati**, čime se svaki prijenos kodira tako da ga nitko drugi na istoj mreži ne može pročitati.
+
+Da biste to uključili:
+
+1. Postavite **Prijavu** i **Lozinku** kao gore - šifrirane veze ne mogu biti anonimne.
+2. Idite na **Postavke → Dijeljenje** i uključite **Zahtijevaj SMB šifriranje**.
+3. **Zaustavite i ponovno pokrenite** dijeljenje kako bi promjena stupila na snagu.
+
+Svaki SMB prijenos tada je zaštićen **SMB3 šifriranjem (AES)**. Uređaj koji se povezuje mora podržavati SMB3 - Finder na modernom Macu ili **Windows 10 i noviji**. Ovo je odličan izbor na Wi-Fi mreži kojoj ne vjerujete potpuno. SMB šifriranje je Premium značajka.
 
 ## Dopustite ili blokirajte uređivanje (Uređivanje datoteka)
 

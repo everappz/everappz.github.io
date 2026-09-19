@@ -1,14 +1,14 @@
 ---
 title: "Povezivanje s poslužiteljima"
 date: 2026-08-20
-description: "Upotrijebite karticu Uređaji u Everdisku za povezivanje s drugim poslužiteljima na svojoj mreži. Dodajte i pregledavajte DLNA, WebDAV, FTP i SFTP poslužitelje te NAS diskove, strujite zvuk i video, preuzimajte datoteke te stvarajte, prenosite, preimenujte, premještajte ili brišite na poslužiteljima koji to dopuštaju."
-keywords: ["Everdisk kartica Uređaji", "povezivanje s NAS", "DLNA klijent iPhone", "WebDAV klijent iPhone", "FTP klijent iPhone", "SFTP klijent iPhone", "pregledavanje mrežnog poslužitelja", "strujanje s NAS", "preuzimanje s poslužitelja", "povezivanje oblak WebDAV"]
+description: "Upotrijebite karticu Uređaji u Everdisku za povezivanje s drugim poslužiteljima na svojoj mreži. Dodajte i pregledavajte DLNA, WebDAV, FTP, SFTP i SMB poslužitelje te NAS diskove, strujite zvuk i video, preuzimajte datoteke te stvarajte, prenosite, preimenujte, premještajte ili brišite na poslužiteljima koji to dopuštaju."
+keywords: ["Everdisk kartica Uređaji", "povezivanje s NAS", "DLNA klijent iPhone", "WebDAV klijent iPhone", "FTP klijent iPhone", "SFTP klijent iPhone", "SMB klijent iPhone", "povezivanje na SMB dijeljenje", "pregledavanje mrežnog poslužitelja", "strujanje s NAS", "preuzimanje s poslužitelja", "povezivanje oblak WebDAV"]
 tags: ["everdisk", "vodič", "uređaji", "povezivanja"]
 readingTime: 9
 ---
 
 
-Everdisk nije samo bežični disk - ujedno je i klijent za druge uređaje na vašoj mreži. Kartica **Uređaji** omogućuje vam povezivanje s **DLNA**, **WebDAV**, **FTP** i **SFTP** poslužiteljima, uključujući NAS diskove i medijske poslužitelje, a zatim pregledavanje, strujanje i preuzimanje njihovih datoteka.
+Everdisk nije samo bežični disk - ujedno je i klijent za druge uređaje na vašoj mreži. Kartica **Uređaji** omogućuje vam povezivanje s **DLNA**, **WebDAV**, **FTP**, **SFTP** i **SMB** poslužiteljima, uključujući Macove, PC-e s Windowsima, Linux strojeve, NAS diskove i medijske poslužitelje, a zatim pregledavanje, strujanje i preuzimanje njihovih datoteka.
 
 ## Zaslon Uređaji
 
@@ -27,6 +27,7 @@ Dodirnite **Nova veza** i odaberite vrstu poslužitelja koji želite dosegnuti:
 - **WebDAV** - povežite se s poslužiteljima datoteka, mrežnim diskovima i diskovima u oblaku koji podržavaju WebDAV. Čitanje i pisanje kad poslužitelj to dopušta.
 - **FTP** - uobičajeno na usmjerivačima, mrežnim diskovima i web hostingu. Zadani port je 21 (990 za sigurni FTPS); možete postaviti prilagođeni port u adresi, na primjer `ftp://host:2121`. Ostavite prijavu i lozinku prazne za anonimni pristup.
 - **SFTP** - povežite se sigurno putem SSH-a. Zadani port je 22; upotrijebite prilagođeni port u adresi ako je potrebno, na primjer `sftp://host:2222`.
+- **SMB** - povežite se s Macovima, PC-ima s Windowsima, Linux poslužiteljima i mrežnim spremištima (NAS) koja dijele mape putem **SMB / CIFS**. Unesite adresu poput `smb://server-address/share-name/` (primjeri: `smb://local-server-name/share-name/folder-path`, `smb://192.168.1.105/share-name/folder-path`, `smb://remote-server.com`). SMB dodaje dva neobvezna polja: naziv **Radne grupe** i **Verziju protokola** koju možete ostaviti na **Automatski** ili prisiliti na **SMB1** ili **SMB2**. Ako se datoteke ili mape s posebnim znakovima ne otvaraju, pokušajte prebaciti verziju na **SMB1**.
 
 > Everdisk se povezuje samo s tim protokolima na lokalnoj mreži i onima s izravnom adresom. Ne prijavljuje se u račune u oblaku poput Google Drivea ili Dropboxa. Disk u oblaku dostupan je samo ako ta usluga nudi **WebDAV** adresu koju možete upisati.
 
@@ -53,7 +54,7 @@ Kad se povežete, dodirnite poslužitelj da biste ga otvorili:
 
 ## Mijenjanje datoteka na poslužitelju
 
-Na poslužiteljima koji dopuštaju pisanje - **WebDAV, FTP i SFTP** - možete i upravljati datotekama:
+Na poslužiteljima koji dopuštaju pisanje - **WebDAV, FTP, SFTP i SMB** - možete i upravljati datotekama:
 
 - **Nova mapa**
 - **Prijenos datoteka** s vašeg uređaja

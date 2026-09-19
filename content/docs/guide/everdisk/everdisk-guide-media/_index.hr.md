@@ -12,7 +12,7 @@ Everdisk reproducira vaše medije na uređaju i dijeli cijelu biblioteku fotogra
 
 ## Podijelite cijelu biblioteku fotografija i glazbe
 
-Na zaslonu [Dijeljenje](/docs/guide/everdisk/everdisk-guide-sharing), pod **Što dijeliti**, možete uključiti **Dopusti pristup cijeloj biblioteci fotografija** i **Dopusti pristup cijeloj glazbenoj biblioteci**. Kad dijeljenje započne, svaki album i pjesma postaju dostupni preko sva četiri poslužitelja - na TV-u, u pregledniku, na mrežnom disku ili u aplikaciji za datoteke. Pomoću **Dodaj fotografije** i **Dodaj pjesme** možete i ručno odabrati samo određene fotografije, videozapise ili pjesme.
+Na zaslonu [Dijeljenje](/docs/guide/everdisk/everdisk-guide-sharing), pod **Što dijeliti**, možete uključiti **Dopusti pristup cijeloj biblioteci fotografija** i **Dopusti pristup cijeloj glazbenoj biblioteci**. Kad dijeljenje započne, svaki album i pjesma postaju dostupni preko svih pet poslužitelja - na TV-u, u pregledniku, na mrežnom disku (WebDAV ili SMB) ili u aplikaciji za datoteke. Pomoću **Dodaj fotografije** i **Dodaj pjesme** možete i ručno odabrati samo određene fotografije, videozapise ili pjesme.
 
 Zaštićene (DRM) pjesme i pjesme pohranjene samo u oblaku ne mogu se dijeliti.
 
@@ -54,7 +54,7 @@ Kad dijelite fotografije i videozapise, Everdisk ih može poslati točno onakvim
 Imajte na umu:
 
 - **Izvorna je najbrža** - datoteka se šalje takva kakva jest, bez pretvorbe.
-- Svaka druga postavka **pretvara u hodu**, što je sporije i troši više baterije, osobito preko WebDAV-a i FTP-a.
+- Svaka druga postavka **pretvara u hodu**, što je sporije i troši više baterije, osobito preko WebDAV-a, SMB-a i FTP-a.
 - Prvo isprobajte Izvornu; prebacite se na Najkompatibilniju samo ako određeni TV ili preglednik ne može otvoriti datoteku.
 - **Glazba** se uvijek dijeli u svom izvornom obliku - nema postavki kvalitete glazbe.
 

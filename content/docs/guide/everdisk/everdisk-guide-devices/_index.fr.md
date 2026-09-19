@@ -1,14 +1,14 @@
 ---
 title: "Se connecter a des serveurs"
 date: 2026-08-20
-description: "Utilisez l'onglet Appareils d'Everdisk pour vous connecter a d'autres serveurs de votre reseau. Ajoutez et parcourez des serveurs DLNA, WebDAV, FTP et SFTP et des NAS, diffusez de l'audio et de la video, telechargez des fichiers, et creez, televersez, renommez, deplacez ou supprimez sur les serveurs qui l'autorisent."
-keywords: ["onglet Appareils Everdisk", "se connecter a un NAS", "client DLNA iPhone", "client WebDAV iPhone", "client FTP iPhone", "client SFTP iPhone", "parcourir un serveur reseau", "diffuser depuis un NAS", "telecharger depuis un serveur", "connexion cloud WebDAV"]
+description: "Utilisez l'onglet Appareils d'Everdisk pour vous connecter a d'autres serveurs de votre reseau. Ajoutez et parcourez des serveurs DLNA, WebDAV, FTP, SFTP et SMB et des NAS, diffusez de l'audio et de la video, telechargez des fichiers, et creez, televersez, renommez, deplacez ou supprimez sur les serveurs qui l'autorisent."
+keywords: ["onglet Appareils Everdisk", "se connecter a un NAS", "client DLNA iPhone", "client WebDAV iPhone", "client FTP iPhone", "client SFTP iPhone", "client SMB iPhone", "se connecter a un partage SMB", "parcourir un serveur reseau", "diffuser depuis un NAS", "telecharger depuis un serveur", "connexion cloud WebDAV"]
 tags: ["everdisk", "guide", "devices", "connections"]
 readingTime: 9
 ---
 
 
-Everdisk n'est pas seulement un disque sans fil - c'est aussi un client pour les autres appareils de votre reseau. L'onglet **Appareils** vous permet de vous connecter a des serveurs **DLNA**, **WebDAV**, **FTP** et **SFTP**, y compris des NAS et des serveurs multimedias, puis de parcourir, diffuser et telecharger leurs fichiers.
+Everdisk n'est pas seulement un disque sans fil - c'est aussi un client pour les autres appareils de votre reseau. L'onglet **Appareils** vous permet de vous connecter a des serveurs **DLNA**, **WebDAV**, **FTP**, **SFTP** et **SMB**, y compris des Mac, PC Windows, machines Linux, NAS et serveurs multimedias, puis de parcourir, diffuser et telecharger leurs fichiers.
 
 ## L'ecran Appareils
 
@@ -27,6 +27,7 @@ Appuyez sur **Nouvelle connexion** et choisissez le type de serveur que vous vou
 - **WebDAV** - connectez-vous a des serveurs de fichiers, des unites de stockage reseau et des lecteurs cloud qui prennent en charge WebDAV. Lecture et ecriture lorsque le serveur l'autorise.
 - **FTP** - courant sur les routeurs, les unites de stockage reseau et l'hebergement web. Le port par defaut est 21 (990 pour le FTPS securise) ; vous pouvez definir un port personnalise dans l'adresse, par exemple `ftp://host:2121`. Laissez l'identifiant et le mot de passe vides pour un acces anonyme.
 - **SFTP** - connectez-vous de maniere securisee via SSH. Le port par defaut est 22 ; utilisez un port personnalise dans l'adresse si besoin, par exemple `sftp://host:2222`.
+- **SMB** - connectez-vous a des Mac, PC Windows, serveurs Linux et unites de stockage reseau (NAS) qui partagent des dossiers via **SMB / CIFS**. Saisissez une adresse du type `smb://server-address/share-name/` (exemples : `smb://local-server-name/share-name/folder-path`, `smb://192.168.1.105/share-name/folder-path`, `smb://remote-server.com`). SMB ajoute deux champs facultatifs : un nom de **Groupe de travail**, et une **Version du protocole** que vous pouvez laisser sur **Automatique** ou forcer sur **SMB1** ou **SMB2**. Si des fichiers ou dossiers comportant des caracteres speciaux refusent de s'ouvrir, essayez de basculer la version sur **SMB1**.
 
 > Everdisk se connecte uniquement a ces protocoles reseau local et directement adressables. Il ne se connecte pas a des comptes cloud comme Google Drive ou Dropbox. Un lecteur cloud n'est accessible que si ce service propose une adresse **WebDAV** que vous pouvez saisir.
 
@@ -53,7 +54,7 @@ Une fois connecte, appuyez sur le serveur pour l'ouvrir :
 
 ## Modifier des fichiers sur un serveur
 
-Sur les serveurs qui autorisent l'ecriture - **WebDAV, FTP et SFTP** - vous pouvez aussi gerer les fichiers :
+Sur les serveurs qui autorisent l'ecriture - **WebDAV, FTP, SFTP et SMB** - vous pouvez aussi gerer les fichiers :
 
 - **Nouveau dossier**
 - **Televerser des fichiers** depuis votre appareil

@@ -1,7 +1,7 @@
 ---
 title: "Dijeljenje"
 date: 2026-08-20
-description: "Naučite kako funkcionira dijeljenje u Everdisku: dodirnite Start da biste iPhone ili iPad pretvorili u bežični disk, odaberite što dijelite (datoteke, mape, fotografije i glazbu), pokrenite četiri poslužitelja (DLNA, HTTP, WebDAV, FTP), pročitajte adrese za povezivanje, provjerite tko je povezan i zadržite dijeljenje aktivnim putem Wi-Fi mreže ili USB kabela."
+description: "Naučite kako funkcionira dijeljenje u Everdisku: dodirnite Start da biste iPhone ili iPad pretvorili u bežični disk, odaberite što dijelite (datoteke, mape, fotografije i glazbu), pokrenite pet poslužitelja (DLNA, HTTP, WebDAV, SMB, FTP), šifrirajte SMB vezu pomoću SMB3 (AES), pročitajte adrese za povezivanje, provjerite tko je povezan i zadržite dijeljenje aktivnim putem Wi-Fi mreže ili USB kabela."
 keywords: ["Everdisk dijeljenje", "bežični disk iPhone", "pokretanje dijeljenja", "dijeljenje datoteka iPhone", "dijeljenje fotografija preko mreže", "DLNA HTTP WebDAV FTP", "što dijeliti", "kako se povezati", "zadržati aplikaciju otvorenom", "dijeljenje preko Wi-Fi ili USB kabela"]
 tags: ["everdisk", "vodič", "dijeljenje"]
 readingTime: 9
@@ -17,7 +17,7 @@ U sredini zaslona Dijeljenje nalazi se veliki okrugli gumb.
 - Dodirnite **Start** da biste sve omogućene poslužitelje istovremeno prebacili u rad. Gumb prikazuje **Pokretanje...**, a zatim **Stop** kad dijeljenje postane aktivno.
 - Dodirnite **Stop** da biste sve ponovno isključili. Povezani uređaji se odspajaju.
 
-Dok je dijeljenje aktivno, odabrane datoteke, fotografije i glazba dostupne su svakom uređaju na istoj mreži koji se poveže jednim od četiri načina navedena u nastavku.
+Dok je dijeljenje aktivno, odabrane datoteke, fotografije i glazba dostupne su svakom uređaju na istoj mreži koji se poveže jednim od pet načina navedenih u nastavku.
 
 > Dijeljenje radi samo dok je aplikacija otvorena. Pogledajte **Zadržite aplikaciju otvorenom** pri kraju ove stranice da biste saznali zašto je tako i kako održati velike prijenose u tijeku.
 
@@ -44,13 +44,14 @@ Prije nego što započnete, dodirnite zaglavlje **Što dijeliti** kako biste otv
 
 Ako pokušate započeti bez ijedne odabrane stavke, Everdisk prikazuje napomenu **Nema ničega za dijeljenje**. Ako promijenite što se dijeli dok je dijeljenje aktivno, **zaustavite ga i ponovno pokrenite** kako biste primijenili promjenu.
 
-## Četiri poslužitelja
+## Pet poslužitelja
 
-Everdisk dijeli isti sadržaj na četiri načina istovremeno. Svaki je osmišljen za drugu vrstu uređaja i svaki se može uključiti ili isključiti u **Postavke → Dijeljenje → Povezivanja**. Prema zadanim postavkama sva su četiri uključena.
+Everdisk dijeli isti sadržaj na pet načina istovremeno. Svaki je osmišljen za drugu vrstu uređaja i svaki se može uključiti ili isključiti u **Postavke → Dijeljenje → Povezivanja**. Prema zadanim postavkama svih je pet uključeno.
 
 - **TV i medijski centar (DLNA)** - za pametne televizore i medijske uređaje. Oni sami otkrivaju vaš uređaj i prikazuju vaše fotografije, videozapise i glazbu, s pregledom u obliku sličica.
 - **Preglednik (HTTP)** - za bilo koji telefon, tablet ili računalo. Druga osoba otvori poveznicu u web pregledniku kako bi pregledala i preuzela vaše datoteke. Ništa se ne instalira.
 - **Računalo (WebDAV)** - za Mac, Windows PC ili Linux računalo. Vaš se uređaj pojavljuje kao običan mrežni disk pa možete povlačiti datoteke u oba smjera.
+- **Računalo (napredno) (SMB)** - mrežni disk za Mac, Windows i Linux. Na Macu se sam pojavljuje u bočnoj traci Findera; na Windowsu ga otvorite u File Exploreru pomoću `smb://` adrese. To je jedina veza koju možete **šifrirati**, uz SMB3 šifriranje (AES).
 - **Ostale aplikacije i uređaji (FTP)** - za aplikacije za datoteke i napredne korisnike koji koriste FTP.
 
 Upute za povezivanje korak po korak za svaku vrstu potražite u [Povežite svoje uređaje](/docs/guide/everdisk/everdisk-guide-connect).

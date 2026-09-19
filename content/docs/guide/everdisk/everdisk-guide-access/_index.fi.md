@@ -1,8 +1,8 @@
 ---
 title: "Kaytto ja yksityisyys"
 date: 2026-08-20
-description: "Pida Everdisk-jakamisesi turvallisena: suojaa paasy kayttajatunnuksella ja salasanalla, hallitse voivatko yhdistetyt laitteet lahettaa, nimeta uudelleen ja poistaa Tiedostojen muokkaus -asetuksella, esta tuntemattomat laitteet, valitse roskakori vai pysyva poisto ja ymmarra, miksi kaikki pysyy paikallisverkossasi."
-keywords: ["Everdisk salasanasuojaus", "tiedostojen muokkaus kytkin", "esta laite", "estetyt laitteet", "poista tiedostot pysyvasti", "vain paikallisverkko", "yksityinen tiedostojen jako", "DLNA ei salasanaa", "verkon turvallisuus"]
+description: "Pida Everdisk-jakamisesi turvallisena: suojaa paasy kayttajatunnuksella ja salasanalla, salaa SMB-yhteys SMB3-salauksella (AES), hallitse voivatko yhdistetyt laitteet lahettaa, nimeta uudelleen ja poistaa Tiedostojen muokkaus -asetuksella, esta tuntemattomat laitteet, valitse roskakori vai pysyva poisto ja ymmarra, miksi kaikki pysyy paikallisverkossasi."
+keywords: ["Everdisk salasanasuojaus", "SMB-salaus", "SMB3 AES -salaus", "tiedostojen muokkaus kytkin", "esta laite", "estetyt laitteet", "poista tiedostot pysyvasti", "vain paikallisverkko", "yksityinen tiedostojen jako", "DLNA ei salasanaa", "verkon turvallisuus"]
 tags: ["everdisk", "guide", "access", "privacy", "security"]
 readingTime: 8
 ---
@@ -16,11 +16,23 @@ Oletuksena kuka tahansa samassa verkossa oleva, jolla on osoitteesi, voi avata j
 
 1. Siirry kohtaan **Asetukset -> Jakaminen -> Kaytto**.
 2. Syota **Kayttajatunnus** ja **Salasana**.
-3. Nyt **Selain (HTTP)**-, **Tietokone (WebDAV)**- ja **Muut sovellukset ja laitteet (FTP)** -yhteydet kysyvat nama tiedot ennen kuin ne nayttavat tiedostosi.
+3. Nyt **Selain (HTTP)**-, **Tietokone (WebDAV)**-, **Tietokone (lisaasetukset) (SMB)**- ja **Muut sovellukset ja laitteet (FTP)** -yhteydet kysyvat nama tiedot ennen kuin ne nayttavat tiedostosi.
 
 Jata molemmat kentat tyhjiksi avointa paasya varten. Salasanasi tallennetaan turvallisesti laitteen Keychainiin.
 
 > **DLNA on aina avoin.** TV ja mediakeskus (DLNA) -yhteytta ei voi suojata salasanalla, joten kun se on paalla, mika tahansa samassa Wi-Fi-verkossa oleva laite voi selata jaettua mediaasi. Kytke se pois paalta, jos haluat vain suojattuja yhteyksia, ja jaa vain verkoissa, joihin luotat.
+
+## Salaa SMB-yhteys (SMB3 / AES)
+
+Kayttajatunnus ja salasana maaraavat, **kuka** voi yhdistya, mutta itse data kulkee useimmilla yhteyksilla yha salaamattomana. **SMB on ainoa yhteys, jonka Everdisk voi salata**, mika sekoittaa jokaisen siirron niin, ettei kukaan muu samassa verkossa voi lukea sita.
+
+Nain otat sen kayttoon:
+
+1. Aseta **Kayttajatunnus** ja **Salasana** kuten yllakin - salatut yhteydet eivat voi olla nimettomia.
+2. Siirry kohtaan **Asetukset -> Jakaminen** ja ota kayttoon **Vaadi SMB-salaus**.
+3. **Lopeta ja aloita** jakaminen uudelleen, jotta muutos tulee voimaan.
+
+Jokainen SMB-siirto on taman jalkeen suojattu **SMB3-salauksella (AES)**. Yhdistavan laitteen on tuettava SMB3:a - Finderin nykyaikaisella Macilla tai **Windows 10:n tai uudemman**. Tama on erinomainen valinta Wi-Fissa, johon et taysin luota. SMB-salaus on Premium-ominaisuus.
 
 ## Salli tai esta muokkaus (Tiedostojen muokkaus)
 

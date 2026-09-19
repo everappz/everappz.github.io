@@ -1,7 +1,7 @@
 ---
 title: "Cài đặt"
 date: 2026-08-20
-description: "Tìm hiểu đầy đủ về cài đặt của Everdisk: hồ sơ thiết bị (tên và ảnh đại diện), bốn máy chủ kết nối, các quyền kiểm soát truy cập, chất lượng ảnh và video, cổng tùy chỉnh, hình thu nhỏ DLNA, các tùy chọn mạng và truyền tệp, các tùy chọn trình quản lý tệp, và Premium."
+description: "Tìm hiểu đầy đủ về cài đặt của Everdisk: hồ sơ thiết bị (tên và ảnh đại diện), năm máy chủ kết nối, các quyền kiểm soát truy cập, mã hóa SMB (SMB3/AES), chất lượng ảnh và video, cổng tùy chỉnh, hình thu nhỏ DLNA, các tùy chọn mạng và truyền tệp, các tùy chọn trình quản lý tệp, và Premium."
 keywords: ["cài đặt Everdisk", "tên và ảnh đại diện thiết bị", "máy chủ kết nối", "chất lượng ảnh video", "cổng tùy chỉnh HTTP WebDAV FTP", "hình thu nhỏ DLNA", "truyền tệp song song", "xóa tệp vĩnh viễn", "bộ nhớ đệm hình thu nhỏ", "Everdisk Premium"]
 tags: ["everdisk", "guide", "settings"]
 readingTime: 12
@@ -38,11 +38,12 @@ Xem [Truy cập & Quyền riêng tư](/docs/guide/everdisk/everdisk-guide-access
 
 ### Kết nối
 
-Bật hoặc tắt từng máy chủ. Cả bốn đều bật theo mặc định, và mỗi cái đều có một nút thông tin (ⓘ) kèm hướng dẫn kết nối:
+Bật hoặc tắt từng máy chủ. Cả năm đều bật theo mặc định, và mỗi cái đều có một nút thông tin (ⓘ) kèm hướng dẫn kết nối:
 
 - **TV & Trung tâm giải trí** (DLNA)
 - **Trình duyệt** (HTTP)
 - **Máy tính** (WebDAV)
+- **Máy tính (Nâng cao)** (SMB) - một ổ đĩa mạng cho Mac, Windows và Linux; trên Mac nó tự hiện lên trong thanh bên Finder. Kết nối duy nhất có thể mã hóa.
 - **Ứng dụng & Thiết bị khác** (FTP)
 
 ### Ảnh
@@ -61,7 +62,11 @@ Bất cứ giá trị nào khác Gốc đều sẽ chuyển đổi ảnh khi ch�
 
 ### Nâng cao
 
-- **Cổng HTTP** (mặc định 80), **Cổng WebDAV** (mặc định 8080), **Cổng FTP** (mặc định 2121). DLNA tự chọn cổng của nó. *(Việc thay đổi cổng là Premium; người dùng miễn phí có thể xem các giá trị.)*
+- **Cổng HTTP** (mặc định 80), **Cổng WebDAV** (mặc định 8080), **Cổng SMB** (mặc định 4455), **Cổng FTP** (mặc định 2121). DLNA tự chọn cổng của nó. *(Việc thay đổi cổng là Premium; người dùng miễn phí có thể xem các giá trị.)*
+
+### Mã hóa SMB
+
+- **Yêu cầu mã hóa SMB** - mã hóa mọi lần truyền SMB bằng **mã hóa SMB3 (AES)** để không ai khác trong mạng đọc được tệp của bạn. Tắt theo mặc định. Nó cần một **tên đăng nhập và mật khẩu** đã đặt ở trên (kết nối có mã hóa không thể ẩn danh) và một máy khách hỗ trợ SMB3, chẳng hạn Finder trên một chiếc Mac hiện đại hoặc Windows 10 trở lên. Các thay đổi có hiệu lực vào lần bắt đầu chia sẻ tiếp theo. *(Premium.)*
 
 ### Hình thu nhỏ DLNA
 
@@ -92,7 +97,8 @@ Everdisk miễn phí để dùng. Một lần mua **Premium Lifetime** duy nhấ
 - **Thư mục không giới hạn** - chia sẻ hơn 5 thư mục.
 - **Kết nối không giới hạn** - lưu hơn 10 máy chủ trong tab Thiết bị.
 - **Chuyển đổi ảnh & video** - chia sẻ ở bất kỳ chất lượng nào khác Gốc.
-- **Cổng tùy chỉnh** - đặt cổng HTTP, WebDAV và FTP của riêng bạn.
+- **Mã hóa SMB** - bảo vệ các lần truyền SMB bằng mã hóa SMB3 (AES).
+- **Cổng tùy chỉnh** - đặt cổng HTTP, WebDAV, SMB và FTP của riêng bạn.
 - **Tự động bắt đầu chia sẻ** - bắt đầu chia sẻ tự động khi bạn mở ứng dụng.
 - **Tùy chỉnh thiết bị** - một tên thiết bị, biểu tượng ảnh đại diện, nền chuyển sắc, hay ảnh đại diện tùy chỉnh.
 

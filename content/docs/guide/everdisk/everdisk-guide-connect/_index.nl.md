@@ -1,14 +1,14 @@
 ---
 title: "Je apparaten verbinden"
 date: 2026-08-20
-description: "Stapsgewijze instructies om verbinding te maken met je draadloze Everdisk-schijf: kijken op een smart-tv via DLNA, je bestanden openen in elke webbrowser, je apparaat als netwerkschijf koppelen in Finder, Windows of Linux via WebDAV, bestands-apps verbinden via FTP en overdragen via een USB-kabel naar een Mac zonder Wi-Fi."
+description: "Stapsgewijze instructies om verbinding te maken met je draadloze Everdisk-schijf: kijken op een smart-tv via DLNA, je bestanden openen in elke webbrowser, je apparaat als netwerkschijf koppelen in Finder, Windows of Linux via WebDAV of SMB (met optionele SMB3/AES-versleuteling), bestands-apps verbinden via FTP en overdragen via een USB-kabel naar een Mac zonder Wi-Fi."
 keywords: ["verbinden met Everdisk", "streamen naar tv DLNA", "bestanden openen in browser", "netwerkschijf koppelen Finder", "WebDAV Windows Linux", "FTP bestands-app", "USB-kabeloverdracht Mac", "iPhone met computer verbinden", "netwerkschijf iPhone"]
 tags: ["everdisk", "handleiding", "verbinden"]
 readingTime: 11
 ---
 
 
-Zodra je op **Start** tikt op het [Delen](/docs/guide/everdisk/everdisk-guide-sharing)-scherm, kunnen andere apparaten op vier verschillende manieren verbinding maken met je bestanden. Kies de methode die past bij het apparaat dat je wilt gebruiken. In elk geval wordt het exacte **adres** dat je nodig hebt getoond in het onderdeel **Hoe verbinden** van het Delen-scherm.
+Zodra je op **Start** tikt op het [Delen](/docs/guide/everdisk/everdisk-guide-sharing)-scherm, kunnen andere apparaten op vijf verschillende manieren verbinding maken met je bestanden. Kies de methode die past bij het apparaat dat je wilt gebruiken. In elk geval wordt het exacte **adres** dat je nodig hebt getoond in het onderdeel **Hoe verbinden** van het Delen-scherm.
 
 > Beide apparaten moeten op **hetzelfde Wi-Fi-netwerk** zitten - of, voor een Mac, verbonden zijn met een **USB-kabel** (zie het laatste onderdeel).
 
@@ -71,6 +71,29 @@ Gebruik dit om je apparaat als een gewone schijf op een Mac, Windows-pc of Linux
 2. Voer het WebDAV-adres in dat in Everdisk wordt getoond.
 
 Of de verbinding alleen-lezen of tweerichtings is, hangt af van de instelling **Bestanden bewerken**. Staat die aan, dan kun je bestanden naar je apparaat kopiëren en ze hernoemen of verwijderen; staat die uit, dan is de schijf alleen-lezen.
+
+## Verbinden via SMB (versleutelde netwerkschijf)
+
+SMB is een netwerkschijf voor Mac, Windows en Linux, gebouwd op het bestanden delen dat al in die systemen zit, zodat je apparaat als een gewone netwerkschijf verschijnt - en het is de enige verbinding die je kunt versleutelen.
+
+1. Zorg er in **Instellingen → Delen → Verbindingen** voor dat **Computer (geavanceerd)** (de SMB-verbinding) aan staat.
+2. Tik op **Start** en noteer het **SMB**-adres, dat eruitziet als `smb://192.168.1.20:4455/Share`.
+3. Verbind vanaf je computer:
+   - **Mac:** je apparaat verschijnt vanzelf in de **Finder-navigatiekolom** onder **Locaties** (Netwerk) - klik er gewoon op en meld je aan. Om handmatig te verbinden, kies je **Ga → Verbind met server** (**⌘K**) en voer je het adres in.
+   - **Windows:** open **Verkenner**, klik met de rechtermuisknop op **Deze pc** en kies **Netwerkverbinding maken**, voer dan `\\<address>\Share` in met de host en sharenaam van het Delen-scherm (of typ het `smb://`-adres in de adresbalk).
+   - **Linux:** kies in je bestandsbeheer **Verbind met server** en voer het adres in.
+4. Voer de login en het wachtwoord in als je die hebt ingesteld, anders verbind je als gast.
+5. De share heet **Share**. Met **Bestanden bewerken** aan kun je bestanden beide kanten op kopiëren; met de instelling uit is de schijf alleen-lezen.
+
+**Versleuteling aanzetten (aanbevolen op onvertrouwde Wi-Fi)**
+
+SMB is de enige Everdisk-verbinding die versleuteld kan worden. Om elke overdracht te beschermen met **SMB3-versleuteling (AES)**:
+
+1. Stel in **Instellingen → Delen → Toegang** een **Login** en **Wachtwoord** in - versleutelde verbindingen kunnen niet anoniem zijn.
+2. Zet in **Instellingen → Delen** de optie **SMB-versleuteling vereisen** aan.
+3. **Stop en Start** het delen opnieuw zodat de wijziging van kracht wordt.
+
+Je client moet SMB3 ondersteunen - de Finder op een moderne Mac, of **Windows 10 en later**. SMB-versleuteling is een Premium-functie.
 
 ## Een bestands-app verbinden (FTP)
 

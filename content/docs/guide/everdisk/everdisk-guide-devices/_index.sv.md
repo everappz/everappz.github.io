@@ -1,14 +1,14 @@
 ---
 title: "Anslut till servrar"
 date: 2026-08-20
-description: "Använd fliken Enheter i Everdisk för att ansluta till andra servrar i ditt nätverk. Lägg till och bläddra bland DLNA-, WebDAV-, FTP- och SFTP-servrar och NAS-diskar, streama ljud och video, ladda ner filer och skapa, ladda upp, byt namn, flytta eller ta bort på servrar som tillåter det."
-keywords: ["Everdisk fliken Enheter", "ansluta till NAS", "DLNA-klient iPhone", "WebDAV-klient iPhone", "FTP-klient iPhone", "SFTP-klient iPhone", "bläddra nätverksserver", "streama från NAS", "ladda ner från server", "ansluta moln WebDAV"]
+description: "Använd fliken Enheter i Everdisk för att ansluta till andra servrar i ditt nätverk. Lägg till och bläddra bland DLNA-, WebDAV-, FTP-, SFTP- och SMB-servrar och NAS-diskar, streama ljud och video, ladda ner filer och skapa, ladda upp, byt namn, flytta eller ta bort på servrar som tillåter det."
+keywords: ["Everdisk fliken Enheter", "ansluta till NAS", "DLNA-klient iPhone", "WebDAV-klient iPhone", "FTP-klient iPhone", "SFTP-klient iPhone", "SMB-klient iPhone", "ansluta till SMB-resurs", "bläddra nätverksserver", "streama från NAS", "ladda ner från server", "ansluta moln WebDAV"]
 tags: ["everdisk", "guide", "devices", "connections"]
 readingTime: 9
 ---
 
 
-Everdisk är inte bara en trådlös disk - det är också en klient för de andra enheterna i ditt nätverk. Fliken **Enheter** låter dig ansluta till **DLNA**-, **WebDAV**-, **FTP**- och **SFTP**-servrar, inklusive NAS-diskar och mediaservrar, för att sedan bläddra, streama och ladda ner deras filer.
+Everdisk är inte bara en trådlös disk - det är också en klient för de andra enheterna i ditt nätverk. Fliken **Enheter** låter dig ansluta till **DLNA**-, **WebDAV**-, **FTP**-, **SFTP**- och **SMB**-servrar, inklusive Mac-datorer, Windows-PC, Linux-maskiner, NAS-diskar och mediaservrar, för att sedan bläddra, streama och ladda ner deras filer.
 
 ## Enheter-skärmen
 
@@ -27,6 +27,7 @@ Tryck på **Ny anslutning** och välj den typ av server du vill nå:
 - **WebDAV** - anslut till filservrar, nätverkslagringsenheter och molndiskar som stöder WebDAV. Läs och skriv när servern tillåter det.
 - **FTP** - vanligt på routrar, nätverkslagringsenheter och webbhotell. Standardporten är 21 (990 för säker FTPS); du kan ange en anpassad port i adressen, till exempel `ftp://host:2121`. Lämna inloggning och lösenord tomma för anonym åtkomst.
 - **SFTP** - anslut säkert via SSH. Standardporten är 22; använd en anpassad port i adressen vid behov, till exempel `sftp://host:2222`.
+- **SMB** - anslut till Mac-datorer, Windows-PC, Linux-servrar och nätverkslagring (NAS) som delar mappar via **SMB / CIFS**. Ange en adress som `smb://server-address/share-name/` (exempel: `smb://local-server-name/share-name/folder-path`, `smb://192.168.1.105/share-name/folder-path`, `smb://remote-server.com`). SMB lägger till två valfria fält: ett **Arbetsgrupp**-namn och en **Protokollversion** som du kan lämna på **Automatisk** eller tvinga till **SMB1** eller **SMB2**. Om filer eller mappar med specialtecken inte går att öppna, prova att byta version till **SMB1**.
 
 > Everdisk ansluter endast till dessa protokoll för lokala nätverk och direkt adresserade anslutningar. Appen loggar inte in på molnkonton som Google Drive eller Dropbox. En molndisk går bara att nå om den tjänsten erbjuder en **WebDAV**-adress du kan skriva in.
 
@@ -53,7 +54,7 @@ När du är ansluten, tryck på servern för att öppna den:
 
 ## Ändra filer på en server
 
-På servrar som tillåter skrivning - **WebDAV, FTP och SFTP** - kan du även hantera filer:
+På servrar som tillåter skrivning - **WebDAV, FTP, SFTP och SMB** - kan du även hantera filer:
 
 - **Ny mapp**
 - **Ladda upp filer** från din enhet

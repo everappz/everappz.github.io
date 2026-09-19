@@ -1,16 +1,17 @@
 ---
 date: '2026-08-20T12:00:00+00:00'
 title: 'Everdisk'
-description: "Întrebări frecvente Everdisk: transformă-ți iPhone-ul sau iPad-ul într-un disc wireless și partajează fișiere, fotografii, videoclipuri și muzică cu orice dispozitiv din rețeaua ta prin DLNA, HTTP, WebDAV și FTP. Răspunsuri despre conectarea de pe un televizor, browser web, Mac, Windows și Linux, transfer prin cablu USB fără Wi-Fi, conectarea la NAS și la servere WebDAV/FTP/SFTP, managerul de fișiere, arhivare și dezarhivare, scanarea documentelor în PDF, parole și blocarea dispozitivelor, confidențialitate și achiziția unică Premium Lifetime."
+description: "Întrebări frecvente Everdisk: transformă-ți iPhone-ul sau iPad-ul într-un disc wireless și partajează fișiere, fotografii, videoclipuri și muzică cu orice dispozitiv din rețeaua ta prin DLNA, HTTP, WebDAV, SMB și FTP. Răspunsuri despre conectarea de pe un televizor, browser web, Mac, Windows și Linux, discul de rețea SMB cu criptare SMB3 (AES), transfer prin cablu USB fără Wi-Fi, conectarea la NAS și la servere WebDAV/FTP/SFTP/SMB, managerul de fișiere, arhivare și dezarhivare, scanarea documentelor în PDF, parole și blocarea dispozitivelor, confidențialitate și achiziția unică Premium Lifetime."
 keywords: [
   "Everdisk FAQ", "disc wireless iPhone", "partajare fisiere iPhone", "partajare fotografii in retea",
   "streaming pe TV DLNA", "deschidere fisiere in browser", "disc de retea WebDAV iPhone",
+  "server SMB iPhone", "criptare SMB iPhone", "criptare SMB3 AES",
   "server FTP iPhone", "client SFTP iPhone", "transfer fisiere USB Mac fara Wi-Fi",
-  "conectare la NAS iPhone", "manager de fisiere iOS", "arhivare dezarhivare iPhone",
+  "conectare la NAS iPhone", "client SMB iPhone", "conectare la partajare SMB", "manager de fisiere iOS", "arhivare dezarhivare iPhone",
   "scanare documente in PDF", "protectie partajare cu parola", "blocare dispozitiv",
   "partajare fisiere in retea locala", "Everdisk Premium", "Everdisk pe viata"
 ]
-tags: ["everdisk", "faq", "disc wireless", "partajare fisiere", "DLNA", "WebDAV", "FTP", "SFTP", "disc de retea"]
+tags: ["everdisk", "faq", "disc wireless", "partajare fisiere", "DLNA", "WebDAV", "SMB", "FTP", "SFTP", "disc de retea"]
 ---
 
 
@@ -23,15 +24,16 @@ Everdisk îți transformă iPhone-ul sau iPad-ul într-un disc wireless care par
 {{% details title="Ce este Everdisk?" closed="true" %}}
 Everdisk este o aplicație de **disc wireless** pentru iPhone și iPad. Îți transformă dispozitivul într-un centru care partajează fișierele, fotografiile, videoclipurile și muzica pe care le alegi cu orice se află în rețeaua ta locală și se conectează totodată la alte servere, ca să le poți răsfoi și transmite fișierele.<br><br>
 
-Rulează patru servere deodată - **DLNA** pentru televizoare, **HTTP** pentru browsere web, **WebDAV** pentru Finder/Windows/Linux și **FTP** pentru aplicații de fișiere - astfel încât fiecare dispozitiv se conectează cum îi place. Nu există conturi și nici cloud: apeși **Start** și ești gata. Include și un manager de fișiere, un player media, o galerie foto, scanarea documentelor în PDF și arhivare/dezarhivare.
+Rulează cinci servere deodată - **DLNA** pentru televizoare, **HTTP** pentru browsere web, **WebDAV** pentru Finder/Windows/Linux, **SMB** pentru un disc de rețea pe Mac, Windows și Linux cu criptare opțională, și **FTP** pentru aplicații de fișiere - astfel încât fiecare dispozitiv se conectează cum îi place. Nu există conturi și nici cloud: apeși **Start** și ești gata. Include și un manager de fișiere, un player media, o galerie foto, scanarea documentelor în PDF și arhivare/dezarhivare.
 {{% /details %}}
 
 {{% details title="Cum funcționează Everdisk?" closed="true" %}}
-Când apeși **Start**, Everdisk îți transformă dispozitivul într-un server din rețeaua ta locală și partajează conținutul selectat. Patru metode diferite de conectare rulează în același timp, ca diferite dispozitive să se poată conecta așa cum preferă:<br><br>
+Când apeși **Start**, Everdisk îți transformă dispozitivul într-un server din rețeaua ta locală și partajează conținutul selectat. Cinci metode diferite de conectare rulează în același timp, ca diferite dispozitive să se poată conecta așa cum preferă:<br><br>
 
 - **DLNA** - televizoarele smart și playerele media îți găsesc automat dispozitivul și îți afișează media cu miniaturi.<br>
 - **HTTP** - oricine deschide un link într-un browser web pentru a-ți răsfoi și descărca fișierele.<br>
 - **WebDAV** - dispozitivul tău apare ca un disc de rețea obișnuit în Finder, Windows sau Linux.<br>
+- **SMB** - un disc de rețea pentru Mac, Windows și Linux, construit pe partajarea de fișiere deja existentă în aceste sisteme; pe un Mac apare de la sine în bara laterală Finder. Este singura conexiune pe care o poți cripta (criptare SMB3, AES).<br>
 - **FTP** - aplicațiile de fișiere și instrumentele avansate se conectează prin FTP.<br><br>
 
 Totul se petrece prin rețeaua ta Wi-Fi locală (sau printr-un cablu USB către un Mac) și nu atinge niciodată internetul.
@@ -106,6 +108,29 @@ Folosește adresa **Computer (WebDAV)**.<br><br>
 Introdu utilizatorul și parola, dacă ai setat una.
 {{% /details %}}
 
+{{% details title="Cum mă conectez prin SMB?" closed="true" %}}
+1. În **Setări → Partajare → Conexiuni**, asigură-te că **Computer (avansat)** (conexiunea SMB) este activată, apoi apasă **Start**.<br>
+2. Copiază adresa **SMB** afișată pe ecranul Partajare - arată ca `smb://192.168.1.20:4455/Share`.<br>
+3. Conectează-te de pe computer:<br>
+&nbsp;&nbsp;- **Mac:** dispozitivul tău apare de la sine în **bara laterală Finder** la **Locations** (Network) - doar dă clic pe el. Pentru a te conecta manual, alege **Go → Connect to Server** (**⌘K**) și introdu adresa.<br>
+&nbsp;&nbsp;- **Windows:** în File Explorer, clic dreapta pe **This PC** și alege **Map network drive**, apoi introdu `\\<address>\Share` sau tastează adresa `smb://` în bara de adrese.<br>
+&nbsp;&nbsp;- **Linux:** în managerul tău de fișiere alege **Connect to Server** și introdu adresa.<br>
+4. Introdu utilizatorul și parola, dacă ai setat una; altfel conectează-te ca invitat.<br><br>
+
+Partajarea se numește **Share**. Cu **Editarea fișierelor** activată poți copia fișiere în ambele sensuri; cu ea dezactivată, discul este doar pentru citire.
+{{% /details %}}
+
+{{% details title="Îmi pot cripta conexiunea SMB?" closed="true" %}}
+Da - și SMB este **singura** conexiune pe care Everdisk o poate cripta. În **Setări → Partajare**, activează **Solicită criptare SMB** pentru a proteja fiecare transfer SMB cu **criptare SMB3 (AES)**, astfel încât nimeni altcineva din aceeași rețea să nu-ți poată citi fișierele. Este o alegere excelentă pe un Wi-Fi în care nu ai deplină încredere.<br><br>
+
+Câteva cerințe:<br>
+- Trebuie mai întâi să setezi un **utilizator și o parolă** - conexiunile criptate nu pot fi anonime.<br>
+- Clientul trebuie să accepte **SMB3** - Finder-ul de pe un Mac modern sau **Windows 10 și versiunile ulterioare**.<br>
+- Modificările intră în vigoare data următoare când pornești partajarea.<br><br>
+
+Criptarea SMB face parte din achiziția unică **Premium Lifetime**.
+{{% /details %}}
+
 {{% details title="Everdisk funcționează fără Wi-Fi?" closed="true" %}}
 Da, cu un **Mac** și un cablu. Conectează-ți iPhone-ul sau iPad-ul la Mac, apasă **Trust** dacă ți se cere și apasă **Start**. O adresă **Conexiune prin cablu** care se termină în `.local` apare pe ecranul Partajare; conectează-te la ea din Finder (**⌘K**). Aceasta funcționează complet fără Wi-Fi - excelent într-un avion, la hotel sau într-o rețea blocată - și este mai rapidă și mai privată decât Wi-Fi-ul.
 {{% /details %}}
@@ -122,19 +147,20 @@ iPhone-ul sau iPad-ul tău este serverul, iar iOS nu permite aplicațiilor să �
 **Cablul USB către un Mac** este mai rapid și mai fiabil decât Wi-Fi-ul, pentru că datele trec direct prin cablu. Este totodată cea mai privată opțiune, fiindcă nimic nu trece prin routerul tău sau prin internet. Folosește-l pentru transferuri mari de fotografii și videoclipuri.
 {{% /details %}}
 
-{{% details title="Care este diferența dintre cele patru servere (DLNA, HTTP, WebDAV, FTP)?" closed="true" %}}
+{{% details title="Care este diferența dintre cele cinci servere (DLNA, HTTP, WebDAV, SMB, FTP)?" closed="true" %}}
 Toate partajează același conținut, dar se potrivesc unor dispozitive diferite:<br><br>
 
 - **TV și centru media (DLNA)** - pentru televizoare smart și playere media.<br>
 - **Browser (HTTP)** - pentru orice browser web, fără instalare.<br>
 - **Computer (WebDAV)** - face din dispozitivul tău un disc de rețea în Finder/Windows/Linux.<br>
+- **Computer (avansat)** (SMB) - un disc de rețea pentru Mac, Windows și Linux; pe un Mac apare de la sine în bara laterală Finder sau te conectezi manual cu o adresă `smb://`. Este singura conexiune pe care o poți cripta (SMB3, AES).<br>
 - **Alte aplicații și dispozitive (FTP)** - pentru aplicații de fișiere și instrumente avansate.<br><br>
 
 Poți activa sau dezactiva oricare dintre ele în **Setări → Partajare → Conexiuni**.
 {{% /details %}}
 
 {{% details title="Cum îmi protejez fișierele cu parolă?" closed="true" %}}
-Mergi la **Setări → Partajare → Acces** și setează un **Utilizator** și o **Parolă**. Conexiunile Browser, Computer și Alte aplicații vor cere apoi aceste date. Lasă ambele goale pentru acces liber.<br><br>
+Mergi la **Setări → Partajare → Acces** și setează un **Utilizator** și o **Parolă**. Conexiunile Browser, Computer, Computer (avansat) și Alte aplicații vor cere apoi aceste date. Lasă ambele goale pentru acces liber.<br><br>
 
 Notă: conexiunea **DLNA** (TV) nu poate fi protejată cu parolă, așa că este deschisă oricui se află pe aceeași rețea Wi-Fi cât timp este activă. Dezactiveaz-o dacă vrei doar conexiuni protejate.
 {{% /details %}}
@@ -156,15 +182,15 @@ Da. Everdisk partajează doar prin **rețeaua ta locală** - nimic nu ajunge pe 
 {{% /details %}}
 
 {{% details title="Poate Everdisk să se conecteze la NAS-ul meu sau la alte servere?" closed="true" %}}
-Da. Fila **Dispozitive** se conectează **la** alte servere din rețeaua ta. Apasă **Conexiune nouă** și alege **DLNA / UPnP**, **WebDAV**, **FTP** sau **SFTP**, introdu adresa și eventualul utilizator și poți răsfoi, transmite și descărca. Pe serverele WebDAV, FTP și SFTP poți totodată crea foldere, încărca, redenumi, muta și șterge. Serverele DLNA sunt doar pentru citire.
+Da. Fila **Dispozitive** se conectează **la** alte servere din rețeaua ta. Apasă **Conexiune nouă** și alege **DLNA / UPnP**, **WebDAV**, **FTP**, **SFTP** sau **SMB** (pentru Mac-uri, PC-uri cu Windows, mașini Linux și discuri NAS care partajează foldere prin SMB / CIFS), introdu adresa și eventualul utilizator și poți răsfoi, transmite și descărca. Pe serverele WebDAV, FTP, SFTP și SMB poți totodată crea foldere, încărca, redenumi, muta și șterge. Serverele DLNA sunt doar pentru citire.
 {{% /details %}}
 
 {{% details title="Mă pot conecta la stocare în cloud precum Google Drive sau Dropbox?" closed="true" %}}
-Everdisk nu se autentifică în conturi cloud precum iCloud Drive, Google Drive, Dropbox sau OneDrive. Se conectează doar la servere **din rețeaua locală și adresate direct** (DLNA, WebDAV, FTP, SFTP). Un serviciu cloud este accesibil doar dacă oferă o adresă **WebDAV** pe care o poți tasta într-o conexiune WebDAV nouă.
+Everdisk nu se autentifică în conturi cloud precum iCloud Drive, Google Drive, Dropbox sau OneDrive. Se conectează doar la servere **din rețeaua locală și adresate direct** (DLNA, WebDAV, FTP, SFTP, SMB). Un serviciu cloud este accesibil doar dacă oferă o adresă **WebDAV** pe care o poți tasta într-o conexiune WebDAV nouă.
 {{% /details %}}
 
 {{% details title="La ce folosește fila Dispozitive?" closed="true" %}}
-Este partea de client a Everdisk: **Conexiuni** listează serverele pe care le-ai salvat, iar **Dispozitive disponibile** listează serverele găsite automat în rețeaua ta. Apasă pe unul pentru a-i răsfoi, transmite sau descărca fișierele sau apasă **Conexiune nouă** pentru a adăuga manual un server DLNA, WebDAV, FTP sau SFTP.
+Este partea de client a Everdisk: **Conexiuni** listează serverele pe care le-ai salvat, iar **Dispozitive disponibile** listează serverele găsite automat în rețeaua ta. Apasă pe unul pentru a-i răsfoi, transmite sau descărca fișierele sau apasă **Conexiune nouă** pentru a adăuga manual un server DLNA, WebDAV, FTP, SFTP sau SMB.
 {{% /details %}}
 
 {{% details title="Cum descarc fișiere de pe un server pe dispozitivul meu?" closed="true" %}}
@@ -256,13 +282,13 @@ Everdisk îi dă dispozitivului tău un nume și un avatar prietenoase în mod a
 {{% /details %}}
 
 {{% details title="Pot schimba porturile de conexiune?" closed="true" %}}
-Valorile implicite sunt **HTTP 80**, **WebDAV 8080** și **FTP 2121** (DLNA își alege portul automat). Le poți vedea gratuit, iar setarea de **porturi personalizate** este o funcție Premium (**Avansat** în Setări → Partajare).
+Valorile implicite sunt **HTTP 80**, **WebDAV 8080**, **SMB 4455** și **FTP 2121** (DLNA își alege portul automat). Le poți vedea gratuit, iar setarea de **porturi personalizate** este o funcție Premium (**Avansat** în Setări → Partajare).
 {{% /details %}}
 
 {{% details title="Everdisk este gratuit și ce adaugă Premium?" closed="true" %}}
-Everdisk se descarcă **gratuit**. Poți rula toate cele patru servere, proteja accesul cu o parolă, partaja întreaga ta bibliotecă Fotografii și Muzică, folosi managerul de fișiere, scana în PDF și te poți conecta la alte servere. Versiunea gratuită partajează până la **5 foldere** și salvează până la **10 conexiuni** la servere.<br><br>
+Everdisk se descarcă **gratuit**. Poți rula toate cele cinci servere, proteja accesul cu o parolă, partaja întreaga ta bibliotecă Fotografii și Muzică, folosi managerul de fișiere, scana în PDF și te poți conecta la alte servere. Versiunea gratuită partajează până la **5 foldere** și salvează până la **10 conexiuni** la servere.<br><br>
 
-O achiziție unică **Premium Lifetime** (nu un abonament) adaugă: **Foldere nelimitate**, **Conexiuni nelimitate**, **Conversia fotografiilor și videoclipurilor** (o calitate alta decât Original), **Porturi personalizate**, **Pornire automată a partajării** și **Personalizarea dispozitivului**.
+O achiziție unică **Premium Lifetime** (nu un abonament) adaugă: **Foldere nelimitate**, **Conexiuni nelimitate**, **Conversia fotografiilor și videoclipurilor** (o calitate alta decât Original), **Criptare SMB** (SMB3/AES), **Porturi personalizate**, **Pornire automată a partajării** și **Personalizarea dispozitivului**.
 {{% /details %}}
 
 {{% details title="Premium este un abonament? Funcționează pe celelalte dispozitive ale mele?" closed="true" %}}

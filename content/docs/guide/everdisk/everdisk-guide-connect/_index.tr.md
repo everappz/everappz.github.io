@@ -1,14 +1,14 @@
 ---
 title: "Cihazlarınızı Bağlayın"
 date: 2026-08-20
-description: "Everdisk kablosuz sürücünüze bağlanmak için adım adım talimatlar: akıllı bir TV'de DLNA üzerinden izleyin, dosyalarınızı herhangi bir web tarayıcısında açın, cihazınızı Finder, Windows veya Linux'ta WebDAV üzerinden bir ağ sürücüsü olarak bağlayın, dosya uygulamalarını FTP üzerinden bağlayın ve Wi-Fi olmadan bir Mac'e USB kablosu üzerinden aktarım yapın."
+description: "Everdisk kablosuz sürücünüze bağlanmak için adım adım talimatlar: akıllı bir TV'de DLNA üzerinden izleyin, dosyalarınızı herhangi bir web tarayıcısında açın, cihazınızı Finder, Windows veya Linux'ta WebDAV ya da SMB üzerinden (isteğe bağlı SMB3/AES şifrelemesiyle) bir ağ sürücüsü olarak bağlayın, dosya uygulamalarını FTP üzerinden bağlayın ve Wi-Fi olmadan bir Mac'e USB kablosu üzerinden aktarım yapın."
 keywords: ["Everdisk'e bağlan", "DLNA ile TV'ye aktarma", "dosyaları tarayıcıda aç", "Finder ağ sürücüsü bağla", "WebDAV Windows Linux", "FTP dosya uygulaması", "USB kabloyla Mac aktarımı", "iPhone'u bilgisayara bağla", "iPhone ağ sürücüsü"]
 tags: ["everdisk", "guide", "connect"]
 readingTime: 11
 ---
 
 
-[Paylaşım](/docs/guide/everdisk/everdisk-guide-sharing) ekranında **Başlat**'a dokunduğunuzda, diğer cihazlar dosyalarınıza dört farklı yolla bağlanabilir. Kullanmak istediğiniz cihaza uyan yöntemi seçin. Her durumda ihtiyacınız olan tam **adres**, Paylaşım ekranının **Nasıl Bağlanılır** bölümünde gösterilir.
+[Paylaşım](/docs/guide/everdisk/everdisk-guide-sharing) ekranında **Başlat**'a dokunduğunuzda, diğer cihazlar dosyalarınıza beş farklı yolla bağlanabilir. Kullanmak istediğiniz cihaza uyan yöntemi seçin. Her durumda ihtiyacınız olan tam **adres**, Paylaşım ekranının **Nasıl Bağlanılır** bölümünde gösterilir.
 
 > Her iki cihaz da **aynı Wi-Fi ağında** olmalıdır - ya da bir Mac için bir **USB kablosuyla** bağlı olmalıdır (son bölüme bakın).
 
@@ -71,6 +71,29 @@ Bunu, cihazınızı bir Mac, Windows PC veya Linux makinede sıradan bir disk gi
 2. Everdisk'te gösterilen WebDAV adresini girin.
 
 Bağlantının salt okunur mu yoksa çift yönlü mü olacağı **Dosya Düzenleme** ayarına bağlıdır. Açıkken cihazınıza dosya kopyalayabilir, yeniden adlandırabilir ya da silebilirsiniz; kapalıyken sürücü salt okunurdur.
+
+## SMB üzerinden bağlanın (şifreli ağ sürücüsü)
+
+SMB, Mac, Windows ve Linux için, bu sistemlerde zaten bulunan dosya paylaşımı üzerine kurulu bir ağ sürücüsüdür; böylece cihazınız normal bir ağ sürücüsü olarak görünür - ve şifreleyebileceğiniz tek bağlantıdır.
+
+1. **Ayarlar → Paylaşım → Bağlantılar**'da **Bilgisayar (Gelişmiş)** (SMB bağlantısı)'nın açık olduğundan emin olun.
+2. **Başlat**'a dokunun ve `smb://192.168.1.20:4455/Share` gibi görünen **SMB** adresini not edin.
+3. Bilgisayarınızdan bağlanın:
+   - **Mac:** cihazınız **Konumlar** (Ağ) altında **Finder kenar çubuğunda** kendiliğinden görünür - sadece tıklayın ve oturum açın. Bunun yerine elle bağlanmak için **Git → Sunucuya Bağlan** (**⌘K**)'yi seçin ve adresi girin.
+   - **Windows:** **Dosya Gezgini**'ni açın, **Bu Bilgisayar**'a sağ tıklayın ve **Ağ sürücüsü eşle**'yi seçin, ardından Paylaşım ekranındaki ana bilgisayar ve paylaşım adını kullanarak `\\<address>\Share` girin (veya `smb://` adresini adres çubuğuna yazın).
+   - **Linux:** dosya yöneticinizde **Sunucuya Bağlan**'ı seçin ve adresi girin.
+4. Bir tane belirlediyseniz giriş ve parolayı girin, aksi halde konuk olarak bağlanın.
+5. Paylaşım **Share** olarak adlandırılır. **Dosya Düzenleme** açıkken dosyaları iki yönde kopyalayabilirsiniz; kapalıyken salt okunurdur.
+
+**Şifrelemeyi açın (güvenilmeyen Wi-Fi'de önerilir)**
+
+SMB, şifrelenebilen tek Everdisk bağlantısıdır. Her aktarımı **SMB3 şifrelemesiyle (AES)** korumak için:
+
+1. **Ayarlar → Paylaşım → Erişim**'de bir **Giriş** ve **Parola** ayarlayın - şifreli bağlantılar anonim olamaz.
+2. **Ayarlar → Paylaşım**'da **SMB şifrelemesi iste**'yi açın.
+3. Değişikliğin etkili olması için paylaşımı **Durdurup yeniden Başlatın**.
+
+İstemciniz SMB3'ü desteklemelidir - modern bir Mac'teki Finder ya da **Windows 10 ve sonrası**. SMB şifrelemesi bir Premium özelliğidir.
 
 ## Bir dosya uygulaması bağlayın (FTP)
 

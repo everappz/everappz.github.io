@@ -2,12 +2,12 @@
 date: '2026-08-20T12:00:00+00:00'
 title: 'Everdisk - Maak van je iPhone en iPad een draadloze schijf'
 layout: hextra-home
-description: "Maak van je iPhone of iPad een draadloze schijf en deel bestanden, foto's, video's en muziek met elk apparaat via DLNA, HTTP, WebDAV en FTP. Geen cloud nodig."
-keywords: ["Everdisk", "draadloze schijf iPhone", "bestanden delen iPhone", "WebDAV-server iOS", "DLNA-server iPhone", "FTP-server iOS", "streamen naar tv vanaf iPhone", "netwerkschijf iPhone", "USB-bestandsoverdracht iPhone", "bestandsbeheer iOS", "documenten scannen naar PDF", "foto's delen via netwerk"]
-tags: ["Everdisk", "draadloze schijf", "bestanden delen", "DLNA", "WebDAV", "FTP", "SFTP", "netwerkschijf", "iPhone-apps", "iPad-apps", "Mac-apps", "bestandsbeheer", "mediaserver"]
+description: "Maak van je iPhone of iPad een draadloze schijf en deel bestanden, foto's, video's en muziek met elk apparaat via DLNA, HTTP, WebDAV, SMB en FTP. Aankoppelen als netwerkschijf met optionele SMB-versleuteling. Geen cloud nodig."
+keywords: ["Everdisk", "draadloze schijf iPhone", "bestanden delen iPhone", "WebDAV-server iOS", "SMB-server iPhone", "SMB-versleuteling iOS", "DLNA-server iPhone", "FTP-server iOS", "streamen naar tv vanaf iPhone", "netwerkschijf iPhone", "USB-bestandsoverdracht iPhone", "bestandsbeheer iOS", "documenten scannen naar PDF", "foto's delen via netwerk"]
+tags: ["Everdisk", "draadloze schijf", "bestanden delen", "DLNA", "WebDAV", "SMB", "FTP", "SFTP", "netwerkschijf", "iPhone-apps", "iPad-apps", "Mac-apps", "bestandsbeheer", "mediaserver"]
 appStoreUrl: "https://apps.apple.com/app/apple-store/id6751851132?pt=95781850&ct=everappzcom&mt=8"
 appStoreId: "6751851132"
-features: "Draadloze schijf via Wi-Fi en USB, Vier servers tegelijk (DLNA, HTTP, WebDAV, FTP), Streamen naar smart-tv's via DLNA, Openen in elke webbrowser, Aankoppelen als netwerkschijf in Finder/Windows/Linux, Verbinden met DLNA/WebDAV/FTP/SFTP-servers, Ingebouwd bestandsbeheer met inpakken en uitpakken, Documenten scannen naar PDF, PDF's en foto's van aantekeningen voorzien en ondertekenen, PDF-tools (comprimeren, OCR-tekstherkenning, wachtwoordbeveiliging, machtigingen, metadata, samenvoegen), Fotogalerij en mediaspeler, Volledige foto- en muziekbibliotheek delen, Wachtwoordbeveiliging en apparaten blokkeren"
+features: "Draadloze schijf via Wi-Fi en USB, Vijf servers tegelijk (DLNA, HTTP, WebDAV, SMB, FTP), Streamen naar smart-tv's via DLNA, Openen in elke webbrowser, Aankoppelen als netwerkschijf in Finder/Windows/Linux, SMB-netwerkschijf met optionele SMB3-versleuteling (AES), Verbinden met DLNA/WebDAV/FTP/SFTP/SMB-servers, Ingebouwd bestandsbeheer met inpakken en uitpakken, Documenten scannen naar PDF, PDF's en foto's van aantekeningen voorzien en ondertekenen, PDF-tools (comprimeren, OCR-tekstherkenning, wachtwoordbeveiliging, machtigingen, metadata, samenvoegen), Fotogalerij en mediaspeler, Volledige foto- en muziekbibliotheek delen, Wachtwoordbeveiliging en apparaten blokkeren"
 screenshots:
   - "https://everappz.com/products/everdisk/screenshots/browser_access.png"
   - "https://everappz.com/products/everdisk/screenshots/connect_to_servers.png"
@@ -16,7 +16,7 @@ screenshots:
 ---
 
 {{% sr-only %}}
-Everdisk is een app voor een draadloze schijf voor iPhone en iPad, ontwikkeld door Everappz. Hij verandert je apparaat in een hub die bestanden, foto's, video's en muziek deelt met alles op je lokale netwerk, zonder accounts, zonder cloud en zonder extra app aan de andere kant. De app draait vier servers tegelijk - DLNA voor smart-tv's en mediaspelers, HTTP voor elke webbrowser, WebDAV voor Finder, Windows en Linux, en FTP voor bestands-apps en gevorderde gebruikers - zodat elk apparaat verbindt zoals het zelf wil. Je kunt foto's, video's en muziek rechtstreeks naar smart-tv's streamen via DLNA met voorbeeldminiaturen, een eenvoudige link delen die in elke browser opent om je bestanden te bekijken en te downloaden, of je apparaat aankoppelen als netwerkschijf en bestanden in beide richtingen slepen. Als er geen Wi-Fi is, kun je met een USB-kabel verbinden met een Mac en bestanden sneller verplaatsen dan via Wi-Fi, zelfs in een vliegtuig of op een afgeschermd netwerk. Everdisk verbindt ook met DLNA-, WebDAV-, FTP- en SFTP-servers op je netwerk om hun bestanden te bekijken, te streamen en te downloaden. Met het ingebouwde bestandsbeheer blader je in lijst- of rasterweergave, maak je mappen aan, hernoem, verplaats, kopieer, pak in en uit, en verwijder je. Je kunt papieren documenten scannen naar strakke PDF's, een PDF of foto openen en er met de ingebouwde editor aantekeningen op maken - tekenen, markeren, tekst en een handtekening toevoegen, waarbij wijzigingen worden opgeslagen in het bestand - en een volledige set PDF-tools gebruiken om bestanden te comprimeren, tekst te herkennen (OCR) in een doorzoekbare PDF, een openingswachtwoord toe te voegen of te verwijderen, machtigingen te bekijken, documentmetadata te bewerken en aantekeningen en formuliervelden samen te voegen. Je kunt ook audio in een miniplayer afspelen en video's schermvullend bekijken, en je hele foto- en muziekbibliotheek via het netwerk delen in originele kwaliteit of in een beter compatibel formaat. Alles blijft op je lokale netwerk en raakt nooit het internet, en je kunt de toegang beschermen met een login en wachtwoord en elk apparaat met een tik blokkeren. Everdisk is gratis te downloaden in de App Store met een optionele eenmalige Premium Lifetime-aankoop.
+Everdisk is een app voor een draadloze schijf voor iPhone en iPad, ontwikkeld door Everappz. Hij verandert je apparaat in een hub die bestanden, foto's, video's en muziek deelt met alles op je lokale netwerk, zonder accounts, zonder cloud en zonder extra app aan de andere kant. De app draait vijf servers tegelijk - DLNA voor smart-tv's en mediaspelers, HTTP voor elke webbrowser, WebDAV voor Finder, Windows en Linux, SMB voor een netwerkschijf op Mac, Windows en Linux (met optionele SMB3-versleuteling), en FTP voor bestands-apps en gevorderde gebruikers - zodat elk apparaat verbindt zoals het zelf wil. Je kunt foto's, video's en muziek rechtstreeks naar smart-tv's streamen via DLNA met voorbeeldminiaturen, een eenvoudige link delen die in elke browser opent om je bestanden te bekijken en te downloaden, of je apparaat aankoppelen als netwerkschijf en bestanden in beide richtingen slepen. Je kunt hem ook aankoppelen via SMB, een netwerkschijf voor Mac, Windows en Linux die op een Mac vanzelf in de Finder-navigatiekolom verschijnt, en SMB3-versleuteling (AES) aanzetten zodat niemand anders op hetzelfde netwerk je overdrachten kan lezen. Als er geen Wi-Fi is, kun je met een USB-kabel verbinden met een Mac en bestanden sneller verplaatsen dan via Wi-Fi, zelfs in een vliegtuig of op een afgeschermd netwerk. Everdisk verbindt ook met DLNA-, WebDAV-, FTP-, SFTP- en SMB-servers op je netwerk - waaronder Macs, Windows-pc's, Linux-machines en NAS-schijven - om hun bestanden te bekijken, te streamen en te downloaden. Met het ingebouwde bestandsbeheer blader je in lijst- of rasterweergave, maak je mappen aan, hernoem, verplaats, kopieer, pak in en uit, en verwijder je. Je kunt papieren documenten scannen naar strakke PDF's, een PDF of foto openen en er met de ingebouwde editor aantekeningen op maken - tekenen, markeren, tekst en een handtekening toevoegen, waarbij wijzigingen worden opgeslagen in het bestand - en een volledige set PDF-tools gebruiken om bestanden te comprimeren, tekst te herkennen (OCR) in een doorzoekbare PDF, een openingswachtwoord toe te voegen of te verwijderen, machtigingen te bekijken, documentmetadata te bewerken en aantekeningen en formuliervelden samen te voegen. Je kunt ook audio in een miniplayer afspelen en video's schermvullend bekijken, en je hele foto- en muziekbibliotheek via het netwerk delen in originele kwaliteit of in een beter compatibel formaat. Alles blijft op je lokale netwerk en raakt nooit het internet, en je kunt de toegang beschermen met een login en wachtwoord en elk apparaat met een tik blokkeren. Everdisk is gratis te downloaden in de App Store met een optionele eenmalige Premium Lifetime-aankoop.
 {{% /sr-only %}}
 
 <!-- <body class="hx:bg-transparent" style="background: radial-gradient(ellipse at 50% 80%, rgba(59,130,246,0.05), hsla(0,0%,100%,0));"> -->
@@ -56,9 +56,9 @@ Maak van je iPhone of iPad een draadloze schijf&nbsp;<br class="hx:sm:block hx:h
 
 <div class="hx:mb-6">
 {{< hextra/hero-paragraph >}}
-• Tik op Start en deel op vier manieren tegelijk: DLNA, HTTP, WebDAV en FTP  
+• Tik op Start en deel op vijf manieren tegelijk: DLNA, HTTP, WebDAV, SMB en FTP  
 • Stream foto's, video's en muziek rechtstreeks naar smart-tv's via DLNA  
-• Koppel je apparaat aan als netwerkschijf in Finder, Windows of Linux  
+• Koppel je apparaat aan als netwerkschijf in Finder, Windows of Linux - met optionele SMB-versleuteling  
 • Geen Wi-Fi? Verplaats bestanden via een USB-kabel, sneller dan draadloos  
 {{< /hextra/hero-paragraph >}}
 </div>
@@ -82,7 +82,7 @@ Maak van je iPhone of iPad een draadloze schijf&nbsp;<br class="hx:sm:block hx:h
 
   {{< hextra/feature-card
     title="Je apparaat wordt een schijf"
-    subtitle="Tik op Start en je iPhone of iPad verandert in een draadloze schijf. Everdisk draait vier servers tegelijk - DLNA, HTTP, WebDAV en FTP - zodat smart-tv's, computers, webbrowsers en bestands-apps elk verbinden zoals ze zelf willen. Geen accounts, geen cloud en niets extra's om aan de andere kant te installeren."
+    subtitle="Tik op Start en je iPhone of iPad verandert in een draadloze schijf. Everdisk draait vijf servers tegelijk - DLNA, HTTP, WebDAV, SMB en FTP - zodat smart-tv's, computers, webbrowsers en bestands-apps elk verbinden zoals ze zelf willen. Geen accounts, geen cloud en niets extra's om aan de andere kant te installeren."
     icon="server"
     style="background: radial-gradient(ellipse at 50% 80%, rgba(34,197,94,0.15), hsla(0,0%,100%,0));"
   >}}
@@ -109,6 +109,13 @@ Maak van je iPhone of iPad een draadloze schijf&nbsp;<br class="hx:sm:block hx:h
   >}}
 
   {{< hextra/feature-card
+    title="Versleuteld delen via SMB"
+    subtitle="Verbind via SMB, een netwerkschijf voor Mac, Windows en Linux - op een Mac verschijnt hij vanzelf in de Finder-navigatiekolom. Het is de enige verbinding die je kunt versleutelen: zet SMB3-versleuteling (AES) aan met een login en wachtwoord zodat niemand anders op het netwerk je bestanden kan lezen."
+    icon="lock-closed"
+    style="background: radial-gradient(ellipse at 50% 80%, rgba(99,102,241,0.15), hsla(0,0%,100%,0));"
+  >}}
+
+  {{< hextra/feature-card
     title="Geen Wi-Fi? Pak de kabel"
     subtitle="Verbind je apparaat met een Mac via dezelfde USB-kabel waarmee je oplaadt. Bestanden gaan rechtstreeks over de kabel, sneller dan Wi-Fi, en het blijft werken in een vliegtuig, in een hotel of op elk afgeschermd netwerk waar Wi-Fi geblokkeerd is."
     icon="lightning-bolt"
@@ -117,7 +124,7 @@ Maak van je iPhone of iPad een draadloze schijf&nbsp;<br class="hx:sm:block hx:h
 
   {{< hextra/feature-card
     title="Verbind met andere apparaten"
-    subtitle="Vind en verbind met DLNA-, WebDAV-, FTP- en SFTP-servers op je netwerk. Blader door hun mappen, stream audio en video, download bestanden, en maak mappen aan, upload, hernoem, verplaats of verwijder wanneer de server dat toestaat."
+    subtitle="Vind en verbind met DLNA-, WebDAV-, FTP-, SFTP- en SMB-servers op je netwerk - Macs, Windows-pc's, Linux-machines en NAS-schijven. Blader door hun mappen, stream audio en video, download bestanden, en maak mappen aan, upload, hernoem, verplaats of verwijder wanneer de server dat toestaat."
     icon="cloud-download"
     style="background: radial-gradient(ellipse at 50% 80%, rgba(6,182,212,0.15), hsla(0,0%,100%,0));"
   >}}
@@ -153,7 +160,7 @@ Maak van je iPhone of iPad een draadloze schijf&nbsp;<br class="hx:sm:block hx:h
     title="Verbinden met servers" 
     method="Fill"
     options="1030x400 q82 webp Center"
-    subtitle="Ontdek DLNA-, WebDAV-, FTP- en SFTP-servers op je netwerk en verbind ermee om hun bestanden te bekijken, te streamen en te downloaden." 
+    subtitle="Ontdek DLNA-, WebDAV-, FTP-, SFTP- en SMB-servers op je netwerk en verbind ermee om hun bestanden te bekijken, te streamen en te downloaden." 
   >}}
 
   {{< feature-card 
@@ -208,7 +215,7 @@ Maak van je iPhone of iPad een draadloze schijf&nbsp;<br class="hx:sm:block hx:h
 
 {{< cards >}}
 
-  {{< feature-card title="Vier servers tegelijk" subtitle="Tik op Start en deel je bestanden op vier manieren tegelijk: DLNA voor tv's en mediaspelers, HTTP voor elke webbrowser, WebDAV voor Finder, Windows en Linux, en FTP voor bestands-apps en gevorderde gebruikers." icon="wifi" >}}
+  {{< feature-card title="Vijf servers tegelijk" subtitle="Tik op Start en deel je bestanden op vijf manieren tegelijk: DLNA voor tv's en mediaspelers, HTTP voor elke webbrowser, WebDAV voor Finder, Windows en Linux, SMB voor een netwerkschijf op Mac, Windows en Linux, en FTP voor bestands-apps en gevorderde gebruikers." icon="wifi" >}}
 
   {{< feature-card title="Streamen naar smart-tv's" subtitle="Stuur foto's, video's en muziek rechtstreeks naar smart-tv's en mediaspelers via DLNA. Je bibliotheek verschijnt vanzelf op de tv, met voorbeeldminiaturen, klaar voor het grote scherm." icon="desktop-computer" >}}
 
@@ -216,9 +223,11 @@ Maak van je iPhone of iPad een draadloze schijf&nbsp;<br class="hx:sm:block hx:h
 
   {{< feature-card title="WebDAV-netwerkschijf" subtitle="Verbind vanuit Finder op een Mac, vanuit Windows of vanuit Linux via WebDAV en je apparaat verschijnt als een gewone netwerkschijf. Sleep bestanden in beide richtingen." icon="folder" >}}
 
+  {{< feature-card title="Versleutelde SMB-schijf" subtitle="Koppel je apparaat aan via SMB, een netwerkschijf voor Mac, Windows en Linux - op een Mac verschijnt hij vanzelf in de Finder-navigatiekolom. Het is de enige verbinding die kan worden versleuteld: zet SMB3-versleuteling (AES) aan met een login en wachtwoord om elke overdracht privé te houden." icon="lock-closed" >}}
+
   {{< feature-card title="Overdracht via USB" subtitle="Sluit je aan op een Mac met je oplaadkabel en verplaats bestanden rechtstreeks over de kabel, sneller dan Wi-Fi. Het blijft werken in een vliegtuig, in een hotel of op elk afgeschermd netwerk." icon="lightning-bolt" >}}
 
-  {{< feature-card title="Verbinden met DLNA, WebDAV, FTP &amp; SFTP" subtitle="Vind servers op je netwerk en verbind ermee, blader door hun mappen, stream audio en video, download bestanden, en maak aan, upload, hernoem, verplaats of verwijder wanneer dat is toegestaan." icon="server" >}}
+  {{< feature-card title="Verbinden met DLNA, WebDAV, FTP, SFTP &amp; SMB" subtitle="Vind servers en NAS-schijven op je netwerk en verbind ermee, blader door hun mappen, stream audio en video, download bestanden, en maak aan, upload, hernoem, verplaats of verwijder wanneer dat is toegestaan." icon="server" >}}
 
   {{< feature-card title="Ingebouwd bestandsbeheer" subtitle="Volledig bestandsbeheer voor alles op je apparaat. Blader in lijst- of rasterweergave, maak mappen aan, hernoem, verplaats, kopieer en verwijder, en koppel mappen vanaf elke plek op je apparaat." icon="view-grid" >}}
 
@@ -283,11 +292,11 @@ Maak van je iPhone of iPad een draadloze schijf&nbsp;<br class="hx:sm:block hx:h
     title="Gratis"
     class="pricing-card pricing-free"
     subtitle=`<span class='pricing-details'>• Maak van je apparaat een draadloze schijf<br />
-• Vier servers tegelijk: DLNA, HTTP, WebDAV, FTP<br />
+• Vijf servers tegelijk: DLNA, HTTP, WebDAV, SMB, FTP<br />
 • Streamen naar smart-tv's, browsers en computers<br />
 • Aankoppelen als netwerkschijf en overdracht via USB<br />
 • Deel je hele foto- en muziekbibliotheek<br />
-• Verbinden met DLNA-, WebDAV-, FTP- en SFTP-servers<br />
+• Verbinden met DLNA-, WebDAV-, FTP-, SFTP- en SMB-servers<br />
 • Bestandsbeheer met inpakken en uitpakken<br />
 • Documenten scannen naar PDF en volledige PDF-tools<br />
 • PDF's en foto's van aantekeningen voorzien en ondertekenen<br />
@@ -307,7 +316,8 @@ Maak van je iPhone of iPad een draadloze schijf&nbsp;<br class="hx:sm:block hx:h
 • Onbeperkt gedeelde mappen (meer dan 5)<br />
 • Onbeperkt opgeslagen verbindingen (meer dan 10)<br />
 • Foto- &amp; videoconversie naar een compatibel formaat of kleiner formaat<br />
-• Aangepaste HTTP-, WebDAV- en FTP-poorten<br />
+• SMB3-versleuteling (AES) voor privé en veilig delen<br />
+• Aangepaste HTTP-, WebDAV-, SMB- en FTP-poorten<br />
 • Delen automatisch starten wanneer je de app opent<br />
 • Apparaataanpassing: naam, avataricoon, kleurverloop of foto<br />
 • Eenmalige aankoop - één keer betalen, verlengt nooit</span><br /><br />
@@ -344,24 +354,25 @@ Everdisk verandert je iPhone of iPad in een draadloze schijf en een hub die ook 
 Je kunt je bestanden, foto's, video's en muziek delen met alles op je netwerk, bladeren en streamen vanaf andere servers, en alles meteen op je apparaat beheren.<br>
 Er zijn geen accounts, geen cloud en geen extra app om aan de andere kant te installeren - je tikt gewoon op Start en je bent klaar.<br><br>
 
-De app draait vier servers tegelijk, zodat elk apparaat verbindt zoals het zelf wil: smart-tv's via DLNA, computers en webbrowsers via HTTP, Finder, Windows en Linux via WebDAV, en bestands-apps via FTP.
+De app draait vijf servers tegelijk, zodat elk apparaat verbindt zoals het zelf wil: smart-tv's via DLNA, computers en webbrowsers via HTTP, Finder, Windows en Linux via WebDAV, een netwerkschijf via SMB (met optionele versleuteling), en bestands-apps via FTP.
 {{% /details %}}
 
 {{% details title="Hoe werkt Everdisk?" closed="true" %}}
-Als je op Start tikt, begint Everdisk de inhoud te delen die je hebt gekozen en draait het vier servers tegelijk zodat verschillende apparaten kunnen verbinden op de manier die ze verkiezen.<br><br>
+Als je op Start tikt, begint Everdisk de inhoud te delen die je hebt gekozen en draait het vijf servers tegelijk zodat verschillende apparaten kunnen verbinden op de manier die ze verkiezen.<br><br>
 
 - <strong>DLNA</strong> laat smart-tv's en mediaspelers je foto's, video's en muziek automatisch vinden en tonen met voorbeeldminiaturen.<br>
 - <strong>HTTP</strong> geeft iedereen een eenvoudige link die ze in een webbrowser kunnen openen om je bestanden te bekijken, vooraf te bekijken en te downloaden, zonder iets te installeren.<br>
 - <strong>WebDAV</strong> laat je apparaat als een gewone netwerkschijf verschijnen in Finder, Windows of Linux zodat je bestanden in beide richtingen kunt slepen.<br>
+- <strong>SMB</strong> maakt van je apparaat een netwerkschijf op Mac, Windows en Linux - op een Mac verschijnt hij vanzelf in de Finder-navigatiekolom - en het is de enige verbinding die je kunt versleutelen met SMB3-versleuteling (AES).<br>
 - <strong>FTP</strong> werkt met bestands-apps en gevorderde gebruikers.<br><br>
 
-Everdisk verbindt ook de andere kant op, met DLNA-, WebDAV-, FTP- en SFTP-servers op je netwerk, zodat je door hun mappen kunt bladeren, audio en video kunt streamen, en bestanden kunt downloaden of beheren wanneer de server dat toestaat. Alles blijft op je lokale netwerk en raakt nooit het internet.
+Everdisk verbindt ook de andere kant op, met DLNA-, WebDAV-, FTP-, SFTP- en SMB-servers op je netwerk - waaronder Macs, Windows-pc's, Linux-machines en NAS-schijven - zodat je door hun mappen kunt bladeren, audio en video kunt streamen, en bestanden kunt downloaden of beheren wanneer de server dat toestaat. Alles blijft op je lokale netwerk en raakt nooit het internet.
 {{% /details %}}
 
 {{% details title="Is Everdisk gratis?" closed="true" %}}
-Ja. Everdisk is gratis te downloaden en je kunt je apparaat in een draadloze schijf veranderen, je bestanden op vier manieren delen, met andere servers verbinden en het ingebouwde bestandsbeheer gebruiken zonder kosten.<br><br>
+Ja. Everdisk is gratis te downloaden en je kunt je apparaat in een draadloze schijf veranderen, je bestanden op vijf manieren delen, met andere servers verbinden en het ingebouwde bestandsbeheer gebruiken zonder kosten.<br><br>
 
-Er is een optionele eenmalige <strong>Premium Lifetime</strong>-aankoop - een enkele betaling zonder abonnement - die onbeperkt gedeelde mappen en opgeslagen verbindingen ontgrendelt, plus foto- &amp; videoconversie, aangepaste poorten, delen automatisch starten en apparaataanpassing. Hij is gekoppeld aan je Apple ID, dus je kunt Aankopen herstellen gebruiken om hem op je andere apparaten te ontgrendelen. Prijzen kunnen per land of regio verschillen.
+Er is een optionele eenmalige <strong>Premium Lifetime</strong>-aankoop - een enkele betaling zonder abonnement - die onbeperkt gedeelde mappen en opgeslagen verbindingen ontgrendelt, plus foto- &amp; videoconversie, SMB3-versleuteling (AES), aangepaste poorten, delen automatisch starten en apparaataanpassing. Hij is gekoppeld aan je Apple ID, dus je kunt Aankopen herstellen gebruiken om hem op je andere apparaten te ontgrendelen. Prijzen kunnen per land of regio verschillen.
 {{% /details %}}
 
 {{% details title="Hoe verbind ik vanaf mijn computer?" closed="true" %}}
@@ -372,6 +383,12 @@ Everdisk laat je apparaat als een gewone netwerkschijf verschijnen via WebDAV.<b
 - Op <strong>Linux</strong> verbind je met het WebDAV-adres vanuit je bestandsbeheer.<br><br>
 
 Zodra je verbonden bent, kun je in beide richtingen slepen: kopieer bestanden van je computer naar je apparaat, of haal ze weer terug. Je kunt ook de HTTP-link in elke webbrowser openen als je liever geen schijf aankoppelt.
+{{% /details %}}
+
+{{% details title="Kan ik SMB gebruiken en de verbinding versleutelen?" closed="true" %}}
+Ja. Naast WebDAV deelt Everdisk via <strong>SMB</strong> - een netwerkschijf voor Mac, Windows en Linux (in de app getoond als de verbinding <strong>Computer (geavanceerd)</strong>). Op een Mac verschijnt hij vanzelf in de Finder-navigatiekolom onder Locaties; op Windows open je hem in Verkenner met het <code>smb://</code>-adres dat in de app wordt getoond.<br><br>
+
+SMB is ook de enige verbinding die je kunt <strong>versleutelen</strong>. Stel een login en wachtwoord in en zet daarna <strong>SMB-versleuteling vereisen</strong> aan in Instellingen om elke overdracht te beschermen met <strong>SMB3-versleuteling (AES)</strong>, zodat niemand anders op hetzelfde netwerk je bestanden kan lezen. Versleutelde verbindingen kunnen niet anoniem zijn, dus een login en wachtwoord zijn vereist, en je hebt een client nodig die SMB3 ondersteunt - de Finder op een moderne Mac, of Windows 10 en later.
 {{% /details %}}
 
 {{% details title="Hoe stream ik naar mijn tv?" closed="true" %}}
@@ -393,7 +410,7 @@ Omdat het niet afhankelijk is van een draadloos netwerk, blijft dit werken in ee
 {{% /details %}}
 
 {{% details title="Waarmee kan ik verbinden met Everdisk?" closed="true" %}}
-Everdisk is ook een client voor andere apparaten op je netwerk. Je kunt <strong>DLNA</strong>-, <strong>WebDAV</strong>-, <strong>FTP</strong>- en <strong>SFTP</strong>-servers vinden en ermee verbinden, waaronder NAS-apparaten en mediaservers.<br><br>
+Everdisk is ook een client voor andere apparaten op je netwerk. Je kunt <strong>DLNA</strong>-, <strong>WebDAV</strong>-, <strong>FTP</strong>-, <strong>SFTP</strong>- en <strong>SMB</strong>-servers vinden en ermee verbinden, waaronder Macs, Windows-pc's, Linux-machines, NAS-apparaten en mediaservers.<br><br>
 
 Zodra je verbonden bent, kun je door hun mappen bladeren, audio en video streamen, bestanden downloaden, en mappen aanmaken, uploaden, hernoemen, verplaatsen of verwijderen wanneer de server dat toestaat.
 {{% /details %}}
@@ -463,11 +480,11 @@ Je foto's tonen ook echte voorbeeldminiaturen op een tv via DLNA en in een webbr
 </div>
 
 {{< cards >}}
-  {{< feature-card icon="play" title="Delen" subtitle="Tik op Start, kies wat je deelt, en draai alle vier de servers tegelijk." link="/docs/guide/everdisk/everdisk-guide-sharing" >}}
+  {{< feature-card icon="play" title="Delen" subtitle="Tik op Start, kies wat je deelt, en draai alle vijf de servers tegelijk." link="/docs/guide/everdisk/everdisk-guide-sharing" >}}
 
   {{< feature-card icon="desktop-computer" title="Je apparaten verbinden" subtitle="Hoe een tv, een Mac of pc, een browser, een andere telefoon of een USB-kabel met je bestanden verbindt." link="/docs/guide/everdisk/everdisk-guide-connect" >}}
 
-  {{< feature-card icon="server" title="Verbinden met servers" subtitle="Bereik DLNA-, WebDAV-, FTP- en SFTP-servers en NAS-schijven om te bladeren, te streamen en te downloaden." link="/docs/guide/everdisk/everdisk-guide-devices" >}}
+  {{< feature-card icon="server" title="Verbinden met servers" subtitle="Bereik DLNA-, WebDAV-, FTP-, SFTP- en SMB-servers en NAS-schijven om te bladeren, te streamen en te downloaden." link="/docs/guide/everdisk/everdisk-guide-devices" >}}
 
   {{< feature-card icon="folder" title="Bestanden &amp; documenten" subtitle="Bladeren, ordenen, inpakken en uitpakken, externe mappen koppelen, en documenten scannen naar PDF." link="/docs/guide/everdisk/everdisk-guide-files" >}}
 

@@ -1,7 +1,7 @@
 ---
 title: "Ustawienia"
 date: 2026-08-20
-description: "Kompletny przegląd ustawień Everdisk: profil urządzenia (nazwa i awatar), cztery serwery połączeń, kontrola dostępu, jakość zdjęć i wideo, własne porty, miniatury DLNA, opcje sieci i transferów, opcje menedżera plików oraz Premium."
+description: "Kompletny przegląd ustawień Everdisk: profil urządzenia (nazwa i awatar), pięć serwerów połączeń, kontrola dostępu, szyfrowanie SMB (SMB3/AES), jakość zdjęć i wideo, własne porty, miniatury DLNA, opcje sieci i transferów, opcje menedżera plików oraz Premium."
 keywords: ["ustawienia Everdisk", "nazwa awatar urządzenia", "serwery połączeń", "jakość zdjęć wideo", "własne porty HTTP WebDAV FTP", "miniatury DLNA", "równoległe transfery", "trwałe usuwanie plików", "pamięć podręczna miniatur", "Everdisk Premium"]
 tags: ["everdisk", "guide", "settings"]
 readingTime: 12
@@ -38,11 +38,12 @@ Szczegóły znajdziesz w [Dostęp i prywatność](/docs/guide/everdisk/everdisk-
 
 ### Połączenia
 
-Włącz lub wyłącz każdy serwer. Wszystkie cztery są domyślnie włączone, a każdy ma przycisk informacji (ⓘ) z instrukcjami połączenia:
+Włącz lub wyłącz każdy serwer. Wszystkie pięć jest domyślnie włączone, a każdy ma przycisk informacji (ⓘ) z instrukcjami połączenia:
 
 - **TV i centrum multimedialne** (DLNA)
 - **Przeglądarka** (HTTP)
 - **Komputer** (WebDAV)
+- **Komputer (zaawansowane)** (SMB) - dysk sieciowy dla Maca, Windows i Linux; na Macu pojawia się sam na pasku bocznym Findera. Jedyne połączenie, które można zaszyfrować.
 - **Inne aplikacje i urządzenia** (FTP)
 
 ### Zdjęcia
@@ -61,7 +62,11 @@ Ta sama zasada co przy Zdjęciach: Oryginalny jest najszybszy, a konwersja to Pr
 
 ### Zaawansowane
 
-- **Port HTTP** (domyślnie 80), **Port WebDAV** (domyślnie 8080), **Port FTP** (domyślnie 2121). DLNA wybiera swój port automatycznie. *(Zmiana portów to Premium; darmowi użytkownicy mogą zobaczyć wartości.)*
+- **Port HTTP** (domyślnie 80), **Port WebDAV** (domyślnie 8080), **Port SMB** (domyślnie 4455), **Port FTP** (domyślnie 2121). DLNA wybiera swój port automatycznie. *(Zmiana portów to Premium; darmowi użytkownicy mogą zobaczyć wartości.)*
+
+### Szyfrowanie SMB
+
+- **Wymagaj szyfrowania SMB** - szyfruj każdy transfer SMB **szyfrowaniem SMB3 (AES)**, aby nikt inny w sieci nie mógł odczytać Twoich plików. Domyślnie wyłączone. Wymaga ustawionego powyżej **loginu i hasła** (szyfrowane połączenia nie mogą być anonimowe) oraz klienta obsługującego SMB3, takiego jak Finder na nowoczesnym Macu albo Windows 10 i nowszy. Zmiany zaczynają obowiązywać przy następnym rozpoczęciu udostępniania. *(Premium.)*
 
 ### Miniatury DLNA
 
@@ -92,7 +97,8 @@ Everdisk jest darmowy. Pojedynczy zakup **Premium Lifetime** - jednorazowa płat
 - **Nieograniczone foldery** - udostępniaj więcej niż 5 folderów.
 - **Nieograniczone połączenia** - zapisz więcej niż 10 serwerów na karcie Urządzenia.
 - **Konwersja zdjęć i wideo** - udostępniaj w dowolnej jakości innej niż Oryginalna.
-- **Własne porty** - ustaw własne porty HTTP, WebDAV i FTP.
+- **Szyfrowanie SMB** - chroń transfery SMB szyfrowaniem SMB3 (AES).
+- **Własne porty** - ustaw własne porty HTTP, WebDAV, SMB i FTP.
 - **Automatyczne rozpoczynanie udostępniania** - rozpoczynaj udostępnianie automatycznie po otwarciu aplikacji.
 - **Personalizacja urządzenia** - własna nazwa urządzenia, ikona awatara, gradient tła lub awatar ze zdjęcia.
 

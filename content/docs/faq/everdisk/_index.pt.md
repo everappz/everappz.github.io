@@ -1,16 +1,17 @@
 ---
 date: '2026-08-20T12:00:00+00:00'
 title: 'Everdisk'
-description: "FAQ do Everdisk: transforme o seu iPhone ou iPad numa drive sem fios e partilhe ficheiros, fotografias, videos e musica com qualquer dispositivo na sua rede atraves de DLNA, HTTP, WebDAV e FTP. Respostas sobre como ligar a partir de uma TV, navegador web, Mac, Windows e Linux, transferencia por cabo USB sem Wi-Fi, ligar a NAS e a servidores WebDAV/FTP/SFTP, o gestor de ficheiros, zip e unzip, digitalizar documentos para PDF, palavras-passe e bloqueio de dispositivos, privacidade, e a compra unica Premium Vitalicio."
+description: "FAQ do Everdisk: transforme o seu iPhone ou iPad numa drive sem fios e partilhe ficheiros, fotografias, videos e musica com qualquer dispositivo na sua rede atraves de DLNA, HTTP, WebDAV, SMB e FTP. Respostas sobre como ligar a partir de uma TV, navegador web, Mac, Windows e Linux, a drive de rede SMB com criptografia SMB3 (AES), transferencia por cabo USB sem Wi-Fi, ligar a NAS e a servidores WebDAV/FTP/SFTP/SMB, o gestor de ficheiros, zip e unzip, digitalizar documentos para PDF, palavras-passe e bloqueio de dispositivos, privacidade, e a compra unica Premium Vitalicio."
 keywords: [
   "FAQ Everdisk", "drive sem fios iPhone", "partilhar ficheiros iPhone", "partilhar fotografias na rede",
   "transmitir para TV DLNA", "abrir ficheiros no navegador", "drive de rede WebDAV iPhone",
+  "servidor SMB iPhone", "criptografia SMB iPhone", "criptografia SMB3 AES",
   "servidor FTP iPhone", "cliente SFTP iPhone", "transferencia de ficheiros USB Mac sem Wi-Fi",
-  "ligar a NAS iPhone", "gestor de ficheiros iOS", "zip unzip iPhone",
+  "ligar a NAS iPhone", "cliente SMB iPhone", "ligar a partilha SMB", "gestor de ficheiros iOS", "zip unzip iPhone",
   "digitalizar documentos para PDF", "proteger partilha com palavra-passe", "bloquear dispositivo",
   "partilha de ficheiros na rede local", "Everdisk Premium", "Everdisk vitalicio"
 ]
-tags: ["everdisk", "faq", "drive sem fios", "partilha de ficheiros", "DLNA", "WebDAV", "FTP", "SFTP", "drive de rede"]
+tags: ["everdisk", "faq", "drive sem fios", "partilha de ficheiros", "DLNA", "WebDAV", "SMB", "FTP", "SFTP", "drive de rede"]
 ---
 
 
@@ -23,15 +24,16 @@ O Everdisk transforma o seu iPhone ou iPad numa drive sem fios que partilha fich
 {{% details title="O que e o Everdisk?" closed="true" %}}
 O Everdisk e uma aplicacao de **drive sem fios** para iPhone e iPad. Transforma o seu dispositivo num centro que partilha os ficheiros, fotografias, videos e musica que escolher com tudo o que esteja na sua rede local, e tambem se liga a outros servidores para que possa explorar e transmitir os ficheiros deles.<br><br>
 
-Executa quatro servidores ao mesmo tempo - **DLNA** para TVs, **HTTP** para navegadores web, **WebDAV** para Finder/Windows/Linux, e **FTP** para aplicacoes de ficheiros - por isso cada dispositivo liga-se da forma que prefere. Nao ha contas nem nuvem: basta tocar em **Iniciar** e esta pronto. Inclui ainda um gestor de ficheiros, um leitor de media, uma galeria de fotografias, digitalizacao de documentos para PDF, e zip/unzip.
+Executa cinco servidores ao mesmo tempo - **DLNA** para TVs, **HTTP** para navegadores web, **WebDAV** para Finder/Windows/Linux, **SMB** para uma drive de rede em Mac, Windows e Linux com criptografia opcional, e **FTP** para aplicacoes de ficheiros - por isso cada dispositivo liga-se da forma que prefere. Nao ha contas nem nuvem: basta tocar em **Iniciar** e esta pronto. Inclui ainda um gestor de ficheiros, um leitor de media, uma galeria de fotografias, digitalizacao de documentos para PDF, e zip/unzip.
 {{% /details %}}
 
 {{% details title="Como funciona o Everdisk?" closed="true" %}}
-Quando toca em **Iniciar**, o Everdisk transforma o seu dispositivo num servidor na sua rede local e partilha o conteudo que selecionou. Quatro metodos de ligacao diferentes funcionam ao mesmo tempo, para que diferentes dispositivos se possam ligar da forma que preferem:<br><br>
+Quando toca em **Iniciar**, o Everdisk transforma o seu dispositivo num servidor na sua rede local e partilha o conteudo que selecionou. Cinco metodos de ligacao diferentes funcionam ao mesmo tempo, para que diferentes dispositivos se possam ligar da forma que preferem:<br><br>
 
 - **DLNA** - smart TVs e leitores de media encontram o seu dispositivo automaticamente e mostram os seus conteudos com miniaturas.<br>
 - **HTTP** - qualquer pessoa abre uma ligacao num navegador web para explorar e transferir os seus ficheiros.<br>
 - **WebDAV** - o seu dispositivo aparece como uma drive de rede normal no Finder, Windows ou Linux.<br>
+- **SMB** - uma drive de rede para Mac, Windows e Linux, assente na partilha de ficheiros ja existente nesses sistemas; num Mac aparece sozinha na barra lateral do Finder. E a unica ligacao que pode criptografar (criptografia SMB3, AES).<br>
 - **FTP** - aplicacoes de ficheiros e ferramentas avancadas ligam-se por FTP.<br><br>
 
 Tudo acontece na sua rede Wi-Fi local (ou por cabo USB para um Mac) e nunca toca na internet.
@@ -106,6 +108,29 @@ Use o endereco **Computador (WebDAV)**.<br><br>
 Introduza o login e a palavra-passe se definiu algum.
 {{% /details %}}
 
+{{% details title="Como me ligo por SMB?" closed="true" %}}
+1. Em **Definicoes → Partilha → Ligacoes**, certifique-se de que **Computador (avançado)** (a ligacao SMB) esta ativado, depois **Iniciar**.<br>
+2. Copie o endereco **SMB** mostrado no ecra de Partilha - tem o aspeto `smb://192.168.1.20:4455/Share`.<br>
+3. Ligue-se a partir do seu computador:<br>
+&nbsp;&nbsp;- **Mac:** o seu dispositivo aparece sozinho na **barra lateral do Finder** em **Localizacoes** (Rede) - basta clicar nele. Para se ligar manualmente, escolha **Ir → Ligar ao Servidor** (**⌘K**) e introduza o endereco.<br>
+&nbsp;&nbsp;- **Windows:** no File Explorer, clique com o botao direito em **Este PC** e escolha **Mapear unidade de rede**, depois introduza `\\<address>\Share`, ou escreva o endereco `smb://` na barra de enderecos.<br>
+&nbsp;&nbsp;- **Linux:** no seu gestor de ficheiros escolha **Ligar ao Servidor** e introduza o endereco.<br>
+4. Introduza o seu login e palavra-passe se definiu algum; caso contrario, ligue-se como convidado.<br><br>
+
+A partilha chama-se **Share**. Com a **Edicao de Ficheiros** ativada pode copiar ficheiros nos dois sentidos; com ela desativada a drive fica apenas de leitura.
+{{% /details %}}
+
+{{% details title="Posso criptografar a minha ligacao SMB?" closed="true" %}}
+Sim - e o SMB e a **unica** ligacao que o Everdisk pode criptografar. Em **Definicoes → Partilha**, ative **Exigir criptografia SMB** para proteger cada transferencia SMB com **criptografia SMB3 (AES)**, para que mais ninguem na mesma rede consiga ler os seus ficheiros. E uma otima escolha em Wi-Fi em que nao confia totalmente.<br><br>
+
+Alguns requisitos:<br>
+- Tem primeiro de definir um **login e palavra-passe** - as ligacoes criptografadas nao podem ser anonimas.<br>
+- O cliente tem de suportar **SMB3** - o Finder num Mac moderno, ou o **Windows 10 e posterior**.<br>
+- As alteracoes entram em vigor da proxima vez que iniciar a partilha.<br><br>
+
+A criptografia SMB faz parte da compra unica **Premium Vitalicio**.
+{{% /details %}}
+
 {{% details title="O Everdisk funciona sem Wi-Fi?" closed="true" %}}
 Sim, com um **Mac** e um cabo. Ligue o seu iPhone ou iPad ao Mac, toque em **Confiar** se lhe for pedido, e toque em **Iniciar**. Um endereco de **Ligacao por Cabo** terminado em `.local` aparece no ecra de Partilha; ligue-se a ele a partir do Finder (**⌘K**). Isto funciona sem qualquer Wi-Fi - otimo num aviao, num hotel ou numa rede bloqueada - e e mais rapido e mais privado do que o Wi-Fi.
 {{% /details %}}
@@ -122,19 +147,20 @@ O seu iPhone ou iPad e o servidor, e o iOS nao permite que as aplicacoes mantenh
 O **cabo USB para um Mac** e mais rapido e mais fiavel do que o Wi-Fi, porque os dados passam diretamente pelo cabo. E tambem a opcao mais privada, ja que nada passa pelo seu router ou pela internet. Use-o para grandes transferencias de fotografias e videos.
 {{% /details %}}
 
-{{% details title="Qual e a diferenca entre os quatro servidores (DLNA, HTTP, WebDAV, FTP)?" closed="true" %}}
+{{% details title="Qual e a diferenca entre os cinco servidores (DLNA, HTTP, WebDAV, SMB, FTP)?" closed="true" %}}
 Todos partilham o mesmo conteudo mas adequam-se a dispositivos diferentes:<br><br>
 
 - **TV e Media Center (DLNA)** - para smart TVs e leitores de media.<br>
 - **Navegador (HTTP)** - para qualquer navegador web, sem instalacoes.<br>
 - **Computador (WebDAV)** - torna o seu dispositivo uma drive de rede no Finder/Windows/Linux.<br>
+- **Computador (avançado)** (SMB) - uma drive de rede para Mac, Windows e Linux; num Mac aparece sozinha na barra lateral do Finder, ou ligue-se manualmente com um endereco `smb://`. E a unica ligacao que pode criptografar (SMB3, AES).<br>
 - **Outras Aplicacoes e Dispositivos (FTP)** - para aplicacoes de ficheiros e ferramentas avancadas.<br><br>
 
 Pode ativar ou desativar qualquer um deles em **Definicoes → Partilha → Ligacoes**.
 {{% /details %}}
 
 {{% details title="Como protejo os meus ficheiros com palavra-passe?" closed="true" %}}
-Va a **Definicoes → Partilha → Acesso** e defina um **Login** e uma **Palavra-passe**. As ligacoes do Navegador, Computador e Outras Aplicacoes pedirao entao esses dados. Deixe ambos vazios para acesso livre.<br><br>
+Va a **Definicoes → Partilha → Acesso** e defina um **Login** e uma **Palavra-passe**. As ligacoes do Navegador, Computador, Computador (avançado) e Outras Aplicacoes pedirao entao esses dados. Deixe ambos vazios para acesso livre.<br><br>
 
 Nota: a ligacao **DLNA** (TV) nao pode ser protegida por palavra-passe, por isso fica aberta a qualquer pessoa no mesmo Wi-Fi enquanto estiver ativada. Desative-a se quiser apenas ligacoes protegidas.
 {{% /details %}}
@@ -156,15 +182,15 @@ Sim. O Everdisk partilha apenas na sua **rede local** - nada vai para a internet
 {{% /details %}}
 
 {{% details title="O Everdisk pode ligar-se ao meu NAS ou a outros servidores?" closed="true" %}}
-Sim. O separador **Dispositivos** liga-se **a** outros servidores na sua rede. Toque em **Nova Ligacao** e escolha **DLNA / UPnP**, **WebDAV**, **FTP** ou **SFTP**, introduza o endereco e qualquer login, e pode explorar, transmitir e transferir. Em servidores WebDAV, FTP e SFTP tambem pode criar pastas, enviar, mudar o nome, mover e eliminar. Os servidores DLNA sao apenas de leitura.
+Sim. O separador **Dispositivos** liga-se **a** outros servidores na sua rede. Toque em **Nova Ligacao** e escolha **DLNA / UPnP**, **WebDAV**, **FTP**, **SFTP** ou **SMB** (para Macs, PCs com Windows, maquinas Linux e drives NAS que partilham pastas por SMB / CIFS), introduza o endereco e qualquer login, e pode explorar, transmitir e transferir. Em servidores WebDAV, FTP, SFTP e SMB tambem pode criar pastas, enviar, mudar o nome, mover e eliminar. Os servidores DLNA sao apenas de leitura.
 {{% /details %}}
 
 {{% details title="Posso ligar-me a armazenamento na nuvem como o Google Drive ou o Dropbox?" closed="true" %}}
-O Everdisk nao inicia sessao em contas na nuvem como o iCloud Drive, Google Drive, Dropbox ou OneDrive. Liga-se apenas a servidores de **rede local e de enderecamento direto** (DLNA, WebDAV, FTP, SFTP). Um servico na nuvem so e alcancavel se oferecer um endereco **WebDAV** que possa escrever numa nova ligacao WebDAV.
+O Everdisk nao inicia sessao em contas na nuvem como o iCloud Drive, Google Drive, Dropbox ou OneDrive. Liga-se apenas a servidores de **rede local e de enderecamento direto** (DLNA, WebDAV, FTP, SFTP, SMB). Um servico na nuvem so e alcancavel se oferecer um endereco **WebDAV** que possa escrever numa nova ligacao WebDAV.
 {{% /details %}}
 
 {{% details title="Para que serve o separador Dispositivos?" closed="true" %}}
-E o lado cliente do Everdisk: **Ligacoes** lista os servidores que guardou, e **Dispositivos Disponiveis** lista os servidores encontrados automaticamente na sua rede. Toque num deles para explorar, transmitir ou transferir os seus ficheiros, ou toque em **Nova Ligacao** para adicionar manualmente um servidor DLNA, WebDAV, FTP ou SFTP.
+E o lado cliente do Everdisk: **Ligacoes** lista os servidores que guardou, e **Dispositivos Disponiveis** lista os servidores encontrados automaticamente na sua rede. Toque num deles para explorar, transmitir ou transferir os seus ficheiros, ou toque em **Nova Ligacao** para adicionar manualmente um servidor DLNA, WebDAV, FTP, SFTP ou SMB.
 {{% /details %}}
 
 {{% details title="Como transfiro ficheiros de um servidor para o meu dispositivo?" closed="true" %}}
@@ -256,13 +282,13 @@ O Everdisk atribui ao seu dispositivo um nome e avatar amigaveis automaticamente
 {{% /details %}}
 
 {{% details title="Posso alterar as portas de ligacao?" closed="true" %}}
-As predefinicoes sao **HTTP 80**, **WebDAV 8080** e **FTP 2121** (o DLNA escolhe a sua porta automaticamente). Pode ve-las gratuitamente, e definir **portas personalizadas** e uma funcionalidade Premium (**Avancado** em Definicoes → Partilha).
+As predefinicoes sao **HTTP 80**, **WebDAV 8080**, **SMB 4455** e **FTP 2121** (o DLNA escolhe a sua porta automaticamente). Pode ve-las gratuitamente, e definir **portas personalizadas** e uma funcionalidade Premium (**Avancado** em Definicoes → Partilha).
 {{% /details %}}
 
 {{% details title="O Everdisk e gratuito e o que acrescenta o Premium?" closed="true" %}}
-O Everdisk e uma transferencia **gratuita**. Pode executar os quatro servidores, proteger o acesso com uma palavra-passe, partilhar toda a sua biblioteca de Fotografias e Musica, usar o gestor de ficheiros, digitalizar para PDF, e ligar-se a outros servidores. A versao gratuita partilha ate **5 pastas** e guarda ate **10 ligacoes de servidor**.<br><br>
+O Everdisk e uma transferencia **gratuita**. Pode executar os cinco servidores, proteger o acesso com uma palavra-passe, partilhar toda a sua biblioteca de Fotografias e Musica, usar o gestor de ficheiros, digitalizar para PDF, e ligar-se a outros servidores. A versao gratuita partilha ate **5 pastas** e guarda ate **10 ligacoes de servidor**.<br><br>
 
-Uma compra unica **Premium Vitalicio** (nao uma subscricao) acrescenta: **Pastas Ilimitadas**, **Ligacoes Ilimitadas**, **Conversao de Fotografias e Video** (qualidade diferente de Original), **Portas Personalizadas**, **Inicio Automatico da Partilha**, e **Personalizacao do Dispositivo**.
+Uma compra unica **Premium Vitalicio** (nao uma subscricao) acrescenta: **Pastas Ilimitadas**, **Ligacoes Ilimitadas**, **Conversao de Fotografias e Video** (qualidade diferente de Original), **Criptografia SMB** (SMB3/AES), **Portas Personalizadas**, **Inicio Automatico da Partilha**, e **Personalizacao do Dispositivo**.
 {{% /details %}}
 
 {{% details title="O Premium e uma subscricao? Funciona nos meus outros dispositivos?" closed="true" %}}

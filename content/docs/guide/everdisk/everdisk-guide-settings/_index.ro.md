@@ -1,7 +1,7 @@
 ---
 title: "Setări"
 date: 2026-08-20
-description: "Un tur complet al setărilor Everdisk: profilul dispozitivului (nume și avatar), cele patru servere de conexiune, controale de acces, calitatea fotografiilor și videoclipurilor, porturi personalizate, miniaturi DLNA, opțiuni de rețea și transfer, opțiuni ale managerului de fișiere și Premium."
+description: "Un tur complet al setărilor Everdisk: profilul dispozitivului (nume și avatar), cele cinci servere de conexiune, controale de acces, criptarea SMB (SMB3/AES), calitatea fotografiilor și videoclipurilor, porturi personalizate, miniaturi DLNA, opțiuni de rețea și transfer, opțiuni ale managerului de fișiere și Premium."
 keywords: ["setări Everdisk", "nume avatar dispozitiv", "servere de conexiune", "calitate foto video", "porturi personalizate HTTP WebDAV FTP", "miniaturi DLNA", "transferuri paralele", "ștergere permanentă fișiere", "cache miniaturi", "Everdisk Premium"]
 tags: ["everdisk", "ghid", "setări"]
 readingTime: 12
@@ -38,11 +38,12 @@ Vezi [Acces și confidențialitate](/docs/guide/everdisk/everdisk-guide-access) 
 
 ### Conexiuni
 
-Activează sau dezactivează fiecare server. Toate cele patru sunt activate în mod implicit, iar fiecare are un buton info (ⓘ) cu instrucțiuni de conectare:
+Activează sau dezactivează fiecare server. Toate cele cinci sunt activate în mod implicit, iar fiecare are un buton info (ⓘ) cu instrucțiuni de conectare:
 
 - **TV și Media Center** (DLNA)
 - **Browser** (HTTP)
 - **Computer** (WebDAV)
+- **Computer (avansat)** (SMB) - un disc de rețea pentru Mac, Windows și Linux; pe un Mac apare de la sine în bara laterală Finder. Singura conexiune care poate fi criptată.
 - **Alte aplicații și dispozitive** (FTP)
 
 ### Fotografii
@@ -61,7 +62,11 @@ Aceeași idee ca la Fotografii: Originalul este cel mai rapid, iar conversia est
 
 ### Avansat
 
-- **Port HTTP** (implicit 80), **Port WebDAV** (implicit 8080), **Port FTP** (implicit 2121). DLNA își alege portul automat. *(Schimbarea porturilor este Premium; utilizatorii versiunii gratuite pot vedea valorile.)*
+- **Port HTTP** (implicit 80), **Port WebDAV** (implicit 8080), **Port SMB** (implicit 4455), **Port FTP** (implicit 2121). DLNA își alege portul automat. *(Schimbarea porturilor este Premium; utilizatorii versiunii gratuite pot vedea valorile.)*
+
+### Criptare SMB
+
+- **Solicită criptare SMB** - criptează fiecare transfer SMB cu **criptare SMB3 (AES)**, astfel încât nimeni altcineva din rețea să nu-ți poată citi fișierele. Dezactivat în mod implicit. Are nevoie de un **utilizator și o parolă** setate mai sus (conexiunile criptate nu pot fi anonime) și de un client care acceptă SMB3, precum Finder-ul de pe un Mac modern sau Windows 10 și versiunile ulterioare. Modificările intră în vigoare data următoare când pornești partajarea. *(Premium.)*
 
 ### Miniaturi DLNA
 
@@ -92,7 +97,8 @@ Everdisk se folosește gratuit. O singură achiziție **Premium Lifetime** - o p
 - **Foldere nelimitate** - partajează mai mult de 5 foldere.
 - **Conexiuni nelimitate** - salvează mai mult de 10 servere în fila Dispozitive.
 - **Conversie foto și video** - partajează în orice calitate diferită de Original.
-- **Porturi personalizate** - setează-ți propriile porturi HTTP, WebDAV și FTP.
+- **Criptare SMB** - protejează transferurile SMB cu criptare SMB3 (AES).
+- **Porturi personalizate** - setează-ți propriile porturi HTTP, WebDAV, SMB și FTP.
 - **Pornire automată a partajării** - pornește partajarea automat când deschizi aplicația.
 - **Personalizarea dispozitivului** - un nume de dispozitiv, o pictogramă de avatar, un gradient de fundal sau un avatar din fotografii personalizate.
 

@@ -1,16 +1,17 @@
 ---
 date: '2026-08-20T12:00:00+00:00'
 title: 'Everdisk'
-description: "Câu hỏi thường gặp về Everdisk: biến iPhone hoặc iPad thành ổ đĩa không dây và chia sẻ tập tin, ảnh, video, nhạc với mọi thiết bị trong mạng qua DLNA, HTTP, WebDAV và FTP. Giải đáp về cách kết nối từ TV, trình duyệt web, Mac, Windows và Linux, truyền qua cáp USB khi không có Wi-Fi, kết nối tới NAS và máy chủ WebDAV/FTP/SFTP, trình quản lý tập tin, nén và giải nén, quét tài liệu thành PDF, mật khẩu và chặn thiết bị, quyền riêng tư, cùng gói mua Premium Lifetime một lần."
+description: "Câu hỏi thường gặp về Everdisk: biến iPhone hoặc iPad thành ổ đĩa không dây và chia sẻ tập tin, ảnh, video, nhạc với mọi thiết bị trong mạng qua DLNA, HTTP, WebDAV, SMB và FTP. Giải đáp về cách kết nối từ TV, trình duyệt web, Mac, Windows và Linux, ổ đĩa mạng SMB với mã hóa SMB3 (AES), truyền qua cáp USB khi không có Wi-Fi, kết nối tới NAS và máy chủ WebDAV/FTP/SFTP/SMB, trình quản lý tập tin, nén và giải nén, quét tài liệu thành PDF, mật khẩu và chặn thiết bị, quyền riêng tư, cùng gói mua Premium Lifetime một lần."
 keywords: [
   "Everdisk FAQ", "ổ đĩa không dây iPhone", "chia sẻ tập tin iPhone", "chia sẻ ảnh qua mạng",
   "phát lên TV DLNA", "mở tập tin trong trình duyệt", "ổ đĩa mạng WebDAV iPhone",
+  "máy chủ SMB iPhone", "mã hóa SMB iPhone", "mã hóa SMB3 AES",
   "máy chủ FTP iPhone", "máy khách SFTP iPhone", "truyền tập tin USB Mac không Wi-Fi",
-  "kết nối tới NAS iPhone", "trình quản lý tập tin iOS", "nén giải nén iPhone",
+  "kết nối tới NAS iPhone", "máy khách SMB iPhone", "kết nối tới thư mục chia sẻ SMB", "trình quản lý tập tin iOS", "nén giải nén iPhone",
   "quét tài liệu thành PDF", "bảo vệ chia sẻ bằng mật khẩu", "chặn thiết bị",
   "chia sẻ tập tin mạng nội bộ", "Everdisk Premium", "Everdisk trọn đời"
 ]
-tags: ["everdisk", "faq", "ổ đĩa không dây", "chia sẻ tập tin", "DLNA", "WebDAV", "FTP", "SFTP", "ổ đĩa mạng"]
+tags: ["everdisk", "faq", "ổ đĩa không dây", "chia sẻ tập tin", "DLNA", "WebDAV", "SMB", "FTP", "SFTP", "ổ đĩa mạng"]
 ---
 
 
@@ -23,15 +24,16 @@ Everdisk biến iPhone hoặc iPad của bạn thành một ổ đĩa không dâ
 {{% details title="Everdisk là gì?" closed="true" %}}
 Everdisk là một ứng dụng **ổ đĩa không dây** cho iPhone và iPad. Nó biến thiết bị của bạn thành một trung tâm chia sẻ tập tin, ảnh, video và nhạc bạn chọn với mọi thứ trong mạng nội bộ, đồng thời kết nối tới các máy chủ khác để bạn duyệt và phát tập tin của chúng.<br><br>
 
-Nó chạy bốn máy chủ cùng lúc - **DLNA** cho TV, **HTTP** cho trình duyệt web, **WebDAV** cho Finder/Windows/Linux, và **FTP** cho ứng dụng quản lý tập tin - nên thiết bị nào cũng kết nối theo cách nó thích. Không tài khoản và không đám mây: bạn chạm **Bắt đầu** là đã sẵn sàng. Nó còn có trình quản lý tập tin, trình phát media, thư viện ảnh, quét tài liệu thành PDF, cùng nén/giải nén.
+Nó chạy năm máy chủ cùng lúc - **DLNA** cho TV, **HTTP** cho trình duyệt web, **WebDAV** cho Finder/Windows/Linux, **SMB** cho một ổ đĩa mạng trên Mac, Windows và Linux với mã hóa tùy chọn, và **FTP** cho ứng dụng quản lý tập tin - nên thiết bị nào cũng kết nối theo cách nó thích. Không tài khoản và không đám mây: bạn chạm **Bắt đầu** là đã sẵn sàng. Nó còn có trình quản lý tập tin, trình phát media, thư viện ảnh, quét tài liệu thành PDF, cùng nén/giải nén.
 {{% /details %}}
 
 {{% details title="Everdisk hoạt động như thế nào?" closed="true" %}}
-Khi bạn chạm **Bắt đầu**, Everdisk biến thiết bị thành một máy chủ trong mạng nội bộ và chia sẻ nội dung bạn đã chọn. Bốn phương thức kết nối khác nhau chạy cùng lúc để các thiết bị khác nhau kết nối theo cách chúng thích:<br><br>
+Khi bạn chạm **Bắt đầu**, Everdisk biến thiết bị thành một máy chủ trong mạng nội bộ và chia sẻ nội dung bạn đã chọn. Năm phương thức kết nối khác nhau chạy cùng lúc để các thiết bị khác nhau kết nối theo cách chúng thích:<br><br>
 
 - **DLNA** - smart TV và trình phát media tự tìm thấy thiết bị của bạn và hiển thị media kèm hình thu nhỏ.<br>
 - **HTTP** - bất kỳ ai cũng mở được một liên kết trong trình duyệt web để duyệt và tải tập tin của bạn.<br>
 - **WebDAV** - thiết bị của bạn hiện ra như một ổ đĩa mạng bình thường trong Finder, Windows hay Linux.<br>
+- **SMB** - một ổ đĩa mạng cho Mac, Windows và Linux, dựa trên tính năng chia sẻ tập tin sẵn có trong các hệ thống đó; trên Mac nó tự hiện lên trong thanh bên Finder. Đây là kết nối duy nhất bạn có thể mã hóa (mã hóa SMB3, AES).<br>
 - **FTP** - ứng dụng quản lý tập tin và công cụ chuyên sâu kết nối qua FTP.<br><br>
 
 Mọi thứ diễn ra qua Wi-Fi nội bộ của bạn (hoặc cáp USB tới Mac) và không bao giờ chạm tới internet.
@@ -106,6 +108,29 @@ Dùng địa chỉ **Máy tính (WebDAV)**.<br><br>
 Nhập đăng nhập và mật khẩu nếu bạn đã đặt.
 {{% /details %}}
 
+{{% details title="Làm sao để kết nối qua SMB?" closed="true" %}}
+1. Trong **Cài đặt → Chia sẻ → Kết nối**, hãy chắc chắn **Máy tính (Nâng cao)** (kết nối SMB) đang bật, rồi **Bắt đầu**.<br>
+2. Sao chép địa chỉ **SMB** hiển thị trên màn hình Chia sẻ - nó trông giống `smb://192.168.1.20:4455/Share`.<br>
+3. Kết nối từ máy tính của bạn:<br>
+&nbsp;&nbsp;- **Mac:** thiết bị của bạn tự hiện lên trong **thanh bên Finder** dưới mục **Vị trí** (Mạng) - chỉ cần bấm vào nó. Để kết nối bằng tay, chọn **Đi tới → Kết nối tới Máy chủ** (**⌘K**) và nhập địa chỉ.<br>
+&nbsp;&nbsp;- **Windows:** trong File Explorer, chuột phải vào **This PC** và chọn **Ánh xạ ổ đĩa mạng**, rồi nhập `\\<address>\Share`, hoặc gõ địa chỉ `smb://` vào thanh địa chỉ.<br>
+&nbsp;&nbsp;- **Linux:** trong trình quản lý tập tin chọn **Kết nối tới Máy chủ** và nhập địa chỉ.<br>
+4. Nhập đăng nhập và mật khẩu nếu bạn đã đặt, nếu không thì kết nối với tư cách khách.<br><br>
+
+Thư mục chia sẻ được đặt tên là **Share**. Khi bật **Chỉnh sửa tập tin**, bạn có thể sao chép tập tin theo cả hai chiều; khi tắt, ổ đĩa ở chế độ chỉ đọc.
+{{% /details %}}
+
+{{% details title="Tôi có thể mã hóa kết nối SMB không?" closed="true" %}}
+Có - và SMB là kết nối **duy nhất** Everdisk có thể mã hóa. Trong **Cài đặt → Chia sẻ**, bật **Yêu cầu mã hóa SMB** để bảo vệ mọi lần truyền SMB bằng **mã hóa SMB3 (AES)**, để không ai khác trong cùng mạng đọc được tập tin của bạn. Đây là lựa chọn tuyệt vời trên Wi-Fi bạn chưa hoàn toàn tin tưởng.<br><br>
+
+Một vài yêu cầu:<br>
+- Bạn phải đặt **đăng nhập và mật khẩu** trước - kết nối có mã hóa không thể ẩn danh.<br>
+- Máy khách phải hỗ trợ **SMB3** - Finder trên một chiếc Mac hiện đại, hoặc **Windows 10 trở lên**.<br>
+- Các thay đổi có hiệu lực vào lần bắt đầu chia sẻ tiếp theo.<br><br>
+
+Mã hóa SMB là một phần của gói mua **Premium Lifetime** một lần.
+{{% /details %}}
+
 {{% details title="Everdisk có hoạt động khi không có Wi-Fi không?" closed="true" %}}
 Có, với một chiếc **Mac** và một sợi cáp. Cắm iPhone hoặc iPad vào Mac, chạm **Tin cậy** nếu được hỏi, rồi chạm **Bắt đầu**. Một địa chỉ **Kết nối qua cáp** kết thúc bằng `.local` sẽ xuất hiện trên màn hình Chia sẻ; kết nối tới nó từ Finder (**⌘K**). Cách này hoạt động khi hoàn toàn không có Wi-Fi - tuyệt vời trên máy bay, trong khách sạn hay trên mạng bị khóa - và nó nhanh hơn cùng riêng tư hơn Wi-Fi.
 {{% /details %}}
@@ -122,19 +147,20 @@ iPhone hoặc iPad của bạn chính là máy chủ, và iOS không cho phép �
 **Cáp USB tới Mac** nhanh hơn và đáng tin cậy hơn Wi-Fi, bởi dữ liệu đi thẳng qua cáp. Nó cũng là lựa chọn riêng tư nhất, vì không có gì đi qua router hay internet. Hãy dùng nó cho các lần truyền ảnh và video lớn.
 {{% /details %}}
 
-{{% details title="Bốn máy chủ (DLNA, HTTP, WebDAV, FTP) khác nhau chỗ nào?" closed="true" %}}
+{{% details title="Năm máy chủ (DLNA, HTTP, WebDAV, SMB, FTP) khác nhau chỗ nào?" closed="true" %}}
 Tất cả đều chia sẻ cùng nội dung nhưng phù hợp với các thiết bị khác nhau:<br><br>
 
 - **TV & Trung tâm Media (DLNA)** - cho smart TV và trình phát media.<br>
 - **Trình duyệt (HTTP)** - cho mọi trình duyệt web, không cần cài đặt.<br>
 - **Máy tính (WebDAV)** - biến thiết bị của bạn thành ổ đĩa mạng trong Finder/Windows/Linux.<br>
+- **Máy tính (Nâng cao)** (SMB) - một ổ đĩa mạng cho Mac, Windows và Linux; trên Mac nó tự hiện lên trong thanh bên Finder, hoặc kết nối bằng tay với địa chỉ `smb://`. Đây là kết nối duy nhất bạn có thể mã hóa (SMB3, AES).<br>
 - **Ứng dụng & Thiết bị khác (FTP)** - cho ứng dụng quản lý tập tin và công cụ chuyên sâu.<br><br>
 
 Bạn có thể bật hoặc tắt bất kỳ cái nào trong **Cài đặt → Chia sẻ → Kết nối**.
 {{% /details %}}
 
 {{% details title="Làm sao để bảo vệ tập tin bằng mật khẩu?" closed="true" %}}
-Vào **Cài đặt → Chia sẻ → Truy cập** và đặt **Đăng nhập** cùng **Mật khẩu**. Các kết nối Trình duyệt, Máy tính và Ứng dụng khác sau đó sẽ hỏi thông tin đó. Để trống cả hai nếu muốn truy cập mở.<br><br>
+Vào **Cài đặt → Chia sẻ → Truy cập** và đặt **Đăng nhập** cùng **Mật khẩu**. Các kết nối Trình duyệt, Máy tính, Máy tính (Nâng cao) và Ứng dụng khác sau đó sẽ hỏi thông tin đó. Để trống cả hai nếu muốn truy cập mở.<br><br>
 
 Lưu ý: kết nối **DLNA** (TV) không thể bảo vệ bằng mật khẩu, nên nó mở cho bất kỳ ai trong cùng Wi-Fi khi đang bật. Hãy tắt nó nếu bạn chỉ muốn các kết nối được bảo vệ.
 {{% /details %}}
@@ -156,15 +182,15 @@ Có. Everdisk chỉ chia sẻ qua **mạng nội bộ** của bạn - không có
 {{% /details %}}
 
 {{% details title="Everdisk có kết nối được tới NAS hay các máy chủ khác của tôi không?" closed="true" %}}
-Có. Thẻ **Thiết bị** kết nối **tới** các máy chủ khác trong mạng của bạn. Chạm **Kết nối mới** và chọn **DLNA / UPnP**, **WebDAV**, **FTP** hoặc **SFTP**, nhập địa chỉ cùng đăng nhập nếu có, và bạn có thể duyệt, phát và tải. Trên máy chủ WebDAV, FTP và SFTP bạn còn có thể tạo thư mục, tải lên, đổi tên, di chuyển và xóa. Máy chủ DLNA chỉ đọc.
+Có. Thẻ **Thiết bị** kết nối **tới** các máy chủ khác trong mạng của bạn. Chạm **Kết nối mới** và chọn **DLNA / UPnP**, **WebDAV**, **FTP**, **SFTP** hoặc **SMB** (cho Mac, PC chạy Windows, máy Linux và ổ đĩa NAS chia sẻ thư mục qua SMB / CIFS), nhập địa chỉ cùng đăng nhập nếu có, và bạn có thể duyệt, phát và tải. Trên máy chủ WebDAV, FTP, SFTP và SMB bạn còn có thể tạo thư mục, tải lên, đổi tên, di chuyển và xóa. Máy chủ DLNA chỉ đọc.
 {{% /details %}}
 
 {{% details title="Tôi có thể kết nối tới lưu trữ đám mây như Google Drive hay Dropbox không?" closed="true" %}}
-Everdisk không đăng nhập vào các tài khoản đám mây như iCloud Drive, Google Drive, Dropbox hay OneDrive. Nó chỉ kết nối tới các máy chủ **trong mạng nội bộ và được định địa chỉ trực tiếp** (DLNA, WebDAV, FTP, SFTP). Một dịch vụ đám mây chỉ chạm tới được nếu nó cung cấp một địa chỉ **WebDAV** để bạn gõ vào một kết nối WebDAV mới.
+Everdisk không đăng nhập vào các tài khoản đám mây như iCloud Drive, Google Drive, Dropbox hay OneDrive. Nó chỉ kết nối tới các máy chủ **trong mạng nội bộ và được định địa chỉ trực tiếp** (DLNA, WebDAV, FTP, SFTP, SMB). Một dịch vụ đám mây chỉ chạm tới được nếu nó cung cấp một địa chỉ **WebDAV** để bạn gõ vào một kết nối WebDAV mới.
 {{% /details %}}
 
 {{% details title="Thẻ Thiết bị dùng để làm gì?" closed="true" %}}
-Đó là phía máy khách của Everdisk: **Kết nối** liệt kê các máy chủ bạn đã lưu, còn **Thiết bị có sẵn** liệt kê các máy chủ được tìm thấy tự động trong mạng của bạn. Chạm một cái để duyệt, phát hoặc tải tập tin của nó, hoặc chạm **Kết nối mới** để thêm một máy chủ DLNA, WebDAV, FTP hay SFTP bằng tay.
+Đó là phía máy khách của Everdisk: **Kết nối** liệt kê các máy chủ bạn đã lưu, còn **Thiết bị có sẵn** liệt kê các máy chủ được tìm thấy tự động trong mạng của bạn. Chạm một cái để duyệt, phát hoặc tải tập tin của nó, hoặc chạm **Kết nối mới** để thêm một máy chủ DLNA, WebDAV, FTP, SFTP hay SMB bằng tay.
 {{% /details %}}
 
 {{% details title="Làm sao để tải tập tin từ một máy chủ về thiết bị của tôi?" closed="true" %}}
@@ -256,13 +282,13 @@ Everdisk tự đặt cho thiết bị của bạn một tên và ảnh đại di
 {{% /details %}}
 
 {{% details title="Tôi có thể đổi các cổng kết nối không?" closed="true" %}}
-Mặc định là **HTTP 80**, **WebDAV 8080** và **FTP 2121** (DLNA tự chọn cổng của nó). Bạn có thể xem chúng miễn phí, còn đặt **cổng tùy chỉnh** là một tính năng Premium (**Nâng cao** trong Cài đặt → Chia sẻ).
+Mặc định là **HTTP 80**, **WebDAV 8080**, **SMB 4455** và **FTP 2121** (DLNA tự chọn cổng của nó). Bạn có thể xem chúng miễn phí, còn đặt **cổng tùy chỉnh** là một tính năng Premium (**Nâng cao** trong Cài đặt → Chia sẻ).
 {{% /details %}}
 
 {{% details title="Everdisk có miễn phí không, và Premium thêm những gì?" closed="true" %}}
-Everdisk tải **miễn phí**. Bạn có thể chạy cả bốn máy chủ, bảo vệ quyền truy cập bằng mật khẩu, chia sẻ toàn bộ thư viện Ảnh và Nhạc, dùng trình quản lý tập tin, quét thành PDF, và kết nối tới các máy chủ khác. Bản miễn phí chia sẻ tối đa **5 thư mục** và lưu tối đa **10 kết nối máy chủ**.<br><br>
+Everdisk tải **miễn phí**. Bạn có thể chạy cả năm máy chủ, bảo vệ quyền truy cập bằng mật khẩu, chia sẻ toàn bộ thư viện Ảnh và Nhạc, dùng trình quản lý tập tin, quét thành PDF, và kết nối tới các máy chủ khác. Bản miễn phí chia sẻ tối đa **5 thư mục** và lưu tối đa **10 kết nối máy chủ**.<br><br>
 
-Một lần mua **Premium Lifetime** duy nhất (không phải đăng ký định kỳ) thêm: **Thư mục không giới hạn**, **Kết nối không giới hạn**, **Chuyển đổi ảnh & video** (chất lượng khác Gốc), **Cổng tùy chỉnh**, **Tự động bắt đầu chia sẻ**, và **Tùy chỉnh thiết bị**.
+Một lần mua **Premium Lifetime** duy nhất (không phải đăng ký định kỳ) thêm: **Thư mục không giới hạn**, **Kết nối không giới hạn**, **Chuyển đổi ảnh & video** (chất lượng khác Gốc), **Mã hóa SMB** (SMB3/AES), **Cổng tùy chỉnh**, **Tự động bắt đầu chia sẻ**, và **Tùy chỉnh thiết bị**.
 {{% /details %}}
 
 {{% details title="Premium có phải đăng ký định kỳ không? Nó có hoạt động trên các thiết bị khác của tôi không?" closed="true" %}}

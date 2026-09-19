@@ -1,7 +1,7 @@
 ---
 title: "Ayarlar"
 date: 2026-08-20
-description: "Everdisk ayarlarının eksiksiz bir turu: cihaz profili (ad ve avatar), dört bağlantı sunucusu, erişim denetimleri, fotoğraf ve video kalitesi, özel portlar, DLNA küçük resimleri, ağ ve aktarım seçenekleri, dosya yöneticisi seçenekleri ve Premium."
+description: "Everdisk ayarlarının eksiksiz bir turu: cihaz profili (ad ve avatar), beş bağlantı sunucusu, erişim denetimleri, SMB şifrelemesi (SMB3/AES), fotoğraf ve video kalitesi, özel portlar, DLNA küçük resimleri, ağ ve aktarım seçenekleri, dosya yöneticisi seçenekleri ve Premium."
 keywords: ["Everdisk ayarları", "cihaz adı avatar", "bağlantı sunucuları", "fotoğraf video kalitesi", "özel portlar HTTP WebDAV FTP", "DLNA küçük resimleri", "paralel aktarımlar", "dosyaları kalıcı olarak sil", "küçük resim önbelleği", "Everdisk Premium"]
 tags: ["everdisk", "guide", "settings"]
 readingTime: 12
@@ -38,11 +38,12 @@ Ayrıntılar için bkz. [Erişim ve Gizlilik](/docs/guide/everdisk/everdisk-guid
 
 ### Bağlantılar
 
-Her sunucuyu açın ya da kapatın. Dördü de varsayılan olarak açıktır ve her birinin bağlantı talimatlarını içeren bir bilgi (ⓘ) düğmesi vardır:
+Her sunucuyu açın ya da kapatın. Beşi de varsayılan olarak açıktır ve her birinin bağlantı talimatlarını içeren bir bilgi (ⓘ) düğmesi vardır:
 
 - **TV ve Medya Merkezi** (DLNA)
 - **Tarayıcı** (HTTP)
 - **Bilgisayar** (WebDAV)
+- **Bilgisayar (Gelişmiş)** (SMB) - Mac, Windows ve Linux için bir ağ sürücüsü; bir Mac'te Finder kenar çubuğunda kendiliğinden görünür. Şifrelenebilen tek bağlantı.
 - **Diğer Uygulamalar ve Cihazlar** (FTP)
 
 ### Fotoğraflar
@@ -61,7 +62,11 @@ Fotoğraflarla aynı fikir: en hızlısı Orijinaldir ve dönüştürme Premium'
 
 ### Gelişmiş
 
-- **HTTP Portu** (varsayılan 80), **WebDAV Portu** (varsayılan 8080), **FTP Portu** (varsayılan 2121). DLNA portunu otomatik olarak seçer. *(Portları değiştirmek Premium'dur; ücretsiz kullanıcılar değerleri görebilir.)*
+- **HTTP Portu** (varsayılan 80), **WebDAV Portu** (varsayılan 8080), **SMB Portu** (varsayılan 4455), **FTP Portu** (varsayılan 2121). DLNA portunu otomatik olarak seçer. *(Portları değiştirmek Premium'dur; ücretsiz kullanıcılar değerleri görebilir.)*
+
+### SMB Şifrelemesi
+
+- **SMB şifrelemesi iste** - her SMB aktarımını **SMB3 şifrelemesiyle (AES)** şifreleyin; böylece ağdaki başka hiç kimse dosyalarınızı okuyamaz. Varsayılan olarak kapalı. Yukarıda ayarlanmış bir **giriş ve parola** (şifreli bağlantılar anonim olamaz) ve SMB3'ü destekleyen bir istemci gerektirir; örneğin modern bir Mac'teki Finder ya da Windows 10 ve sonrası. Değişiklikler bir sonraki paylaşım başlatmanızda etkili olur. *(Premium.)*
 
 ### DLNA Küçük Resimleri
 
@@ -92,7 +97,8 @@ Everdisk ücretsiz kullanılır. Tek bir **Premium Lifetime** satın alımı - b
 - **Sınırsız Klasör** - 5'ten fazla klasör paylaşın.
 - **Sınırsız Bağlantı** - Cihazlar sekmesinde 10'dan fazla sunucu kaydedin.
 - **Fotoğraf ve Video Dönüştürme** - Orijinal dışında herhangi bir kalitede paylaşın.
-- **Özel Portlar** - kendi HTTP, WebDAV ve FTP portlarınızı belirleyin.
+- **SMB Şifrelemesi** - SMB aktarımlarını SMB3 şifrelemesiyle (AES) koruyun.
+- **Özel Portlar** - kendi HTTP, WebDAV, SMB ve FTP portlarınızı belirleyin.
 - **Otomatik Paylaşımı Başlatma** - uygulamayı açtığınızda paylaşımı otomatik olarak başlatın.
 - **Cihaz Özelleştirme** - özel bir cihaz adı, avatar simgesi, arka plan geçişi ya da fotoğraf avatarı.
 

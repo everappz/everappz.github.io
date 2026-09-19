@@ -1,7 +1,7 @@
 ---
 title: "Compartir"
 date: 2026-08-20
-description: "Aprèn com funciona la compartició a Everdisk: prem Iniciar per convertir el teu iPhone o iPad en una unitat sense fil, tria què compartir (arxius, carpetes, fotos i música), fes funcionar els quatre servidors (DLNA, HTTP, WebDAV, FTP), consulta les adreces de connexió, mira qui està connectat i mantén la compartició activa per Wi-Fi o per cable USB."
+description: "Aprèn com funciona la compartició a Everdisk: prem Iniciar per convertir el teu iPhone o iPad en una unitat sense fil, tria què compartir (arxius, carpetes, fotos i música), fes funcionar els cinc servidors (DLNA, HTTP, WebDAV, SMB, FTP), xifra la connexió SMB amb SMB3 (AES), consulta les adreces de connexió, mira qui està connectat i mantén la compartició activa per Wi-Fi o per cable USB."
 keywords: ["compartir Everdisk", "unitat sense fil iPhone", "iniciar compartició", "compartir arxius iPhone", "compartir fotos per xarxa", "DLNA HTTP WebDAV FTP", "què compartir", "com connectar", "mantenir l'app oberta", "compartir per Wi-Fi o cable USB"]
 tags: ["everdisk", "guia", "compartir"]
 readingTime: 9
@@ -17,7 +17,7 @@ Al centre de la pantalla de Compartir hi ha un botó rodó gran.
 - Prem **Iniciar** per posar en línia tots els servidors que tinguis activats alhora. El botó mostra **Iniciant...** i després **Aturar** un cop la compartició és activa.
 - Prem **Aturar** per tornar-ho a posar tot fora de línia. Els dispositius connectats es desconnecten.
 
-Mentre la compartició està en marxa, els arxius, fotos i música que has triat estan disponibles per a qualsevol dispositiu de la mateixa xarxa que es connecti amb un dels quatre mètodes de sota.
+Mentre la compartició està en marxa, els arxius, fotos i música que has triat estan disponibles per a qualsevol dispositiu de la mateixa xarxa que es connecti amb un dels cinc mètodes de sota.
 
 > La compartició només funciona mentre l'app està oberta. Consulta **Mantén l'app oberta** al final d'aquesta pàgina per saber-ne el motiu i com mantenir en marxa les transferències grans.
 
@@ -44,13 +44,14 @@ Abans de començar, prem la capçalera **Què compartir** per obrir tres grups. 
 
 Si intentes iniciar sense res seleccionat, Everdisk mostra un avís de **Res per compartir**. Si canvies què es comparteix mentre la compartició està en marxa, **atura-la i torna a iniciar-la** per aplicar el canvi.
 
-## Els quatre servidors
+## Els cinc servidors
 
-Everdisk comparteix el mateix contingut de quatre maneres alhora. Cadascuna està pensada per a un tipus de dispositiu diferent i cadascuna es pot activar o desactivar a **Configuració → Compartir → Connexions**. Per defecte les quatre estan activades.
+Everdisk comparteix el mateix contingut de cinc maneres alhora. Cadascuna està pensada per a un tipus de dispositiu diferent i cadascuna es pot activar o desactivar a **Configuració → Compartir → Connexions**. Per defecte les cinc estan activades.
 
 - **TV i Centre multimèdia (DLNA)**: per a televisors i reproductors intel·ligents. Descobreixen el teu dispositiu ells sols i mostren les teves fotos, vídeos i música, amb miniatures de previsualització.
 - **Navegador (HTTP)**: per a qualsevol telèfon, tauleta o ordinador. L'altra persona obre un enllaç al navegador per explorar i descarregar els teus arxius. No cal instal·lar res.
 - **Ordinador (WebDAV)**: per a un Mac, un PC amb Windows o una màquina Linux. El teu dispositiu apareix com una unitat de xarxa normal, de manera que pots arrossegar arxius en totes dues direccions.
+- **Ordinador (avançat) (SMB)**: una unitat de xarxa per a Mac, Windows i Linux. En un Mac apareix per si sola a la barra lateral del Finder; a Windows, obre-la a l'Explorador d'arxius amb una adreça `smb://`. És l'única connexió que pots **xifrar**, amb xifratge SMB3 (AES).
 - **Altres apps i dispositius (FTP)**: per a apps d'arxius i usuaris avançats que utilitzen FTP.
 
 Per veure instruccions de connexió pas a pas per a cada tipus, consulta [Connecta els teus dispositius](/docs/guide/everdisk/everdisk-guide-connect).

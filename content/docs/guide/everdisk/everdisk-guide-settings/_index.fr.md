@@ -1,7 +1,7 @@
 ---
 title: "Paramètres"
 date: 2026-08-20
-description: "Un tour complet des paramètres d'Everdisk : profil de l'appareil (nom et avatar), les quatre serveurs de connexion, les controles d'acces, la qualite photo et video, les ports personnalises, les miniatures DLNA, les options de reseau et de transfert, les options du gestionnaire de fichiers, et Premium."
+description: "Un tour complet des paramètres d'Everdisk : profil de l'appareil (nom et avatar), les cinq serveurs de connexion, les controles d'acces, le chiffrement SMB (SMB3/AES), la qualite photo et video, les ports personnalises, les miniatures DLNA, les options de reseau et de transfert, les options du gestionnaire de fichiers, et Premium."
 keywords: ["paramètres Everdisk", "nom avatar de l'appareil", "serveurs de connexion", "qualite photo video", "ports personnalises HTTP WebDAV FTP", "miniatures DLNA", "transferts parallèles", "supprimer definitivement des fichiers", "cache des miniatures", "Everdisk Premium"]
 tags: ["everdisk", "guide", "settings"]
 readingTime: 12
@@ -38,11 +38,12 @@ Voir [Acces et confidentialite](/docs/guide/everdisk/everdisk-guide-access) pour
 
 ### Connexions
 
-Activez ou desactivez chaque serveur. Les quatre sont actives par defaut, et chacun dispose d'un bouton infos (ⓘ) avec des instructions de connexion :
+Activez ou desactivez chaque serveur. Les cinq sont actives par defaut, et chacun dispose d'un bouton infos (ⓘ) avec des instructions de connexion :
 
 - **TV et centre multimedia** (DLNA)
 - **Navigateur** (HTTP)
 - **Ordinateur** (WebDAV)
+- **Ordinateur (avance)** (SMB) - un lecteur reseau pour Mac, Windows et Linux ; sur un Mac il apparait tout seul dans la barre laterale du Finder. La seule connexion qui peut etre chiffree.
 - **Autres applications et appareils** (FTP)
 
 ### Photos
@@ -61,7 +62,11 @@ Meme principe que pour les Photos : Original est le plus rapide, et la conversio
 
 ### Avancé
 
-- **Port HTTP** (par defaut 80), **Port WebDAV** (par defaut 8080), **Port FTP** (par defaut 2121). Le DLNA choisit son port automatiquement. *(La modification des ports est Premium ; les utilisateurs gratuits peuvent voir les valeurs.)*
+- **Port HTTP** (par defaut 80), **Port WebDAV** (par defaut 8080), **Port SMB** (par defaut 4455), **Port FTP** (par defaut 2121). Le DLNA choisit son port automatiquement. *(La modification des ports est Premium ; les utilisateurs gratuits peuvent voir les valeurs.)*
+
+### Chiffrement SMB
+
+- **Exiger le chiffrement SMB** - chiffre chaque transfert SMB avec le **chiffrement SMB3 (AES)** pour que personne d'autre sur le reseau ne puisse lire vos fichiers. Desactive par defaut. Cela necessite un **identifiant et un mot de passe** definis ci-dessus (les connexions chiffrees ne peuvent pas etre anonymes) et un client qui prend en charge SMB3, comme le Finder sur un Mac recent ou Windows 10 et versions ulterieures. Les modifications prennent effet au prochain demarrage du partage. *(Premium.)*
 
 ### Miniatures DLNA
 
@@ -92,7 +97,8 @@ Everdisk est gratuit. Un unique achat **Premium a vie** - un paiement unique, pa
 - **Dossiers illimites** - partagez plus de 5 dossiers.
 - **Connexions illimitees** - enregistrez plus de 10 serveurs dans l'onglet Appareils.
 - **Conversion photo et video** - partagez dans n'importe quelle qualite autre qu'Original.
-- **Ports personnalises** - definissez vos propres ports HTTP, WebDAV et FTP.
+- **Chiffrement SMB** - protegez les transferts SMB avec le chiffrement SMB3 (AES).
+- **Ports personnalises** - definissez vos propres ports HTTP, WebDAV, SMB et FTP.
 - **Demarrage automatique du partage** - lancez le partage automatiquement a l'ouverture de l'application.
 - **Personnalisation de l'appareil** - un nom d'appareil, une icone d'avatar, un degrade de fond ou un avatar photo personnalises.
 

@@ -1,7 +1,7 @@
 ---
 title: "Deling"
 date: 2026-08-20
-description: "Lær hvordan deling fungerer i Everdisk: trykk Start for å gjøre din iPhone eller iPad om til en trådløs disk, velg hva du vil dele (filer, mapper, bilder og musikk), kjør de fire serverne (DLNA, HTTP, WebDAV, FTP), les tilkoblingsadressene, se hvem som er tilkoblet, og hold delingen i gang over Wi-Fi eller en USB-kabel."
+description: "Lær hvordan deling fungerer i Everdisk: trykk Start for å gjøre din iPhone eller iPad om til en trådløs disk, velg hva du vil dele (filer, mapper, bilder og musikk), kjør de fem serverne (DLNA, HTTP, WebDAV, SMB, FTP), krypter SMB-tilkoblingen med SMB3 (AES), les tilkoblingsadressene, se hvem som er tilkoblet, og hold delingen i gang over Wi-Fi eller en USB-kabel."
 keywords: ["Everdisk deling", "trådløs disk iPhone", "start deling", "dele filer iPhone", "dele bilder over nettverk", "DLNA HTTP WebDAV FTP", "hva du skal dele", "hvordan koble til", "hold appen åpen", "deling over Wi-Fi eller USB"]
 tags: ["everdisk", "veiledning", "deling"]
 readingTime: 9
@@ -17,7 +17,7 @@ Midt på Deling-skjermen finner du en stor, rund knapp.
 - Trykk **Start** for å sette alle de aktiverte serverne dine på nett samtidig. Knappen viser **Starter...**, og deretter **Stopp** når delingen er i gang.
 - Trykk **Stopp** for å ta alt av nett igjen. Tilkoblede enheter blir koblet fra.
 
-Mens deling er i gang, er de valgte filene, bildene og musikken din tilgjengelig for enhver enhet på samme nettverk som kobler til med en av de fire metodene nedenfor.
+Mens deling er i gang, er de valgte filene, bildene og musikken din tilgjengelig for enhver enhet på samme nettverk som kobler til med en av de fem metodene nedenfor.
 
 > Deling kjører bare mens appen er åpen. Se **Hold appen åpen** nær slutten av denne siden for hvorfor, og hvordan du holder store overføringer i gang.
 
@@ -44,13 +44,14 @@ Før du starter, trykk på overskriften **Hva som skal deles** for å åpne tre 
 
 Hvis du prøver å starte uten å ha valgt noe, viser Everdisk et varsel om at det er **Ingenting å dele**. Hvis du endrer hva som deles mens delingen er i gang, trykk **Stopp og start på nytt** for å ta i bruk endringen.
 
-## De fire serverne
+## De fem serverne
 
-Everdisk deler det samme innholdet på fire måter samtidig. Hver av dem er laget for en bestemt type enhet, og hver kan slås av eller på i **Innstillinger → Deling → Tilkoblinger**. Som standard er alle fire på.
+Everdisk deler det samme innholdet på fem måter samtidig. Hver av dem er laget for en bestemt type enhet, og hver kan slås av eller på i **Innstillinger → Deling → Tilkoblinger**. Som standard er alle fem på.
 
 - **TV og mediesenter (DLNA)** - for smart-TV-er og mediespillere. De oppdager enheten din helt av seg selv og viser bildene, videoene og musikken din, med forhåndsvisningsminiatyrer.
 - **Nettleser (HTTP)** - for enhver telefon, nettbrett eller datamaskin. Den andre personen åpner en lenke i en nettleser for å bla i og laste ned filene dine. Ingenting å installere.
 - **Datamaskin (WebDAV)** - for en Mac, Windows-PC eller Linux-maskin. Enheten din dukker opp som en vanlig nettverksdisk, slik at du kan dra filer begge veier.
+- **Datamaskin (avansert) (SMB)** - en nettverksdisk for Mac, Windows og Linux. På en Mac dukker den opp helt av seg selv i Finder-sidefeltet; på Windows åpner du den i Filutforsker med en `smb://`-adresse. Det er den eneste tilkoblingen du kan **kryptere**, med SMB3-kryptering (AES).
 - **Andre apper og enheter (FTP)** - for filapper og avanserte brukere som snakker FTP.
 
 For trinnvise tilkoblingsinstruksjoner for hver type, se [Koble til enhetene dine](/docs/guide/everdisk/everdisk-guide-connect).

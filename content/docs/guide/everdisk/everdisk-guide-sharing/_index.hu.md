@@ -1,7 +1,7 @@
 ---
 title: "Megosztás"
 date: 2026-08-20
-description: "Ismerd meg, hogyan működik a megosztás az Everdiskben: érintsd meg a Start gombot, hogy vezeték nélküli meghajtóvá alakítsd az iPhone-odat vagy iPad-edet, válaszd ki, mit osztasz meg (fájlokat, mappákat, fotókat és zenét), futtasd a négy kiszolgálót (DLNA, HTTP, WebDAV, FTP), olvasd le a csatlakozási címeket, nézd meg, ki csatlakozott, és tartsd folyamatosan a megosztást Wi-Fi-n vagy USB-kábelen keresztül."
+description: "Ismerd meg, hogyan működik a megosztás az Everdiskben: érintsd meg a Start gombot, hogy vezeték nélküli meghajtóvá alakítsd az iPhone-odat vagy iPad-edet, válaszd ki, mit osztasz meg (fájlokat, mappákat, fotókat és zenét), futtasd az öt kiszolgálót (DLNA, HTTP, WebDAV, SMB, FTP), titkosítsd az SMB kapcsolatot SMB3-mal (AES), olvasd le a csatlakozási címeket, nézd meg, ki csatlakozott, és tartsd folyamatosan a megosztást Wi-Fi-n vagy USB-kábelen keresztül."
 keywords: ["Everdisk megosztás", "vezeték nélküli meghajtó iPhone", "megosztás indítása", "fájlok megosztása iPhone", "fotók megosztása hálózaton", "DLNA HTTP WebDAV FTP", "mit osszak meg", "hogyan csatlakozzak", "tartsd nyitva az alkalmazást", "megosztás Wi-Fi-n vagy USB-kábelen"]
 tags: ["everdisk", "guide", "sharing"]
 readingTime: 9
@@ -17,7 +17,7 @@ A Megosztás képernyő közepén egy nagy, kerek gomb található.
 - Érintsd meg a **Start** gombot, hogy az összes engedélyezett kiszolgálót egyszerre online állapotba hozd. A gombon előbb a **Indítás...**, majd a megosztás elindulása után a **Stop** felirat jelenik meg.
 - Érintsd meg a **Stop** gombot, hogy mindent újra offline állapotba hozz. A csatlakozott eszközök kapcsolata megszakad.
 
-Amíg a megosztás fut, az általad kiválasztott fájlok, fotók és zenék elérhetők az azonos hálózaton lévő bármely eszközről, amely az alábbi négy módszer valamelyikével csatlakozik.
+Amíg a megosztás fut, az általad kiválasztott fájlok, fotók és zenék elérhetők az azonos hálózaton lévő bármely eszközről, amely az alábbi öt módszer valamelyikével csatlakozik.
 
 > A megosztás csak addig működik, amíg az alkalmazás nyitva van. Nézd meg az **Tartsd nyitva az alkalmazást** részt a lap vége felé, hogy megtudd, miért van így, és hogyan tarthatod folyamatban a nagy adatátviteleket.
 
@@ -44,13 +44,14 @@ Mielőtt elindítanád, érintsd meg a **Mit osztasz meg** fejlécet, hogy megny
 
 Ha úgy próbálod elindítani, hogy semmit sem választottál ki, az Everdisk egy **Nincs mit megosztani** üzenetet jelenít meg. Ha megosztás közben módosítod, mit osztasz meg, **állítsd le, majd indítsd újra** a megosztást a változtatás érvényesítéséhez.
 
-## A négy kiszolgáló
+## Az öt kiszolgáló
 
-Az Everdisk ugyanazt a tartalmat egyszerre négyféleképpen osztja meg. Mindegyik más-más típusú eszközhöz készült, és mindegyik ki- vagy bekapcsolható a **Beállítások → Megosztás → Kapcsolatok** menüben. Alapértelmezés szerint mind a négy be van kapcsolva.
+Az Everdisk ugyanazt a tartalmat egyszerre ötféleképpen osztja meg. Mindegyik más-más típusú eszközhöz készült, és mindegyik ki- vagy bekapcsolható a **Beállítások → Megosztás → Kapcsolatok** menüben. Alapértelmezés szerint mind az öt be van kapcsolva.
 
 - **TV és médiaközpont (DLNA)** - okostévékhez és médialejátszókhoz. Ezek maguktól felfedezik az eszközödet, és megjelenítik a fotóidat, videóidat és zenéidet, előnézeti bélyegképekkel.
 - **Böngésző (HTTP)** - bármilyen telefonhoz, tablethez vagy számítógéphez. A másik fél egy webböngészőben megnyit egy hivatkozást, hogy böngéssze és letöltse a fájljaidat. Semmit sem kell telepíteni.
 - **Számítógép (WebDAV)** - egy Machez, Windows PC-hez vagy Linux géphez. Az eszközöd megszokott hálózati meghajtóként jelenik meg, így mindkét irányban áthúzhatod a fájlokat.
+- **Számítógép (speciális) (SMB)** - hálózati meghajtó Machez, Windowshoz és Linuxhoz. Macen magától megjelenik a Finder oldalsávjában; Windowson a Fájlkezelőben nyisd meg egy `smb://` címmel. Ez az egyetlen kapcsolat, amelyet **titkosíthatsz**, SMB3-titkosítással (AES).
 - **Más alkalmazások és eszközök (FTP)** - azoknak a fájlalkalmazásoknak és haladó felhasználóknak, akik FTP-t használnak.
 
 Az egyes típusokhoz tartozó lépésről lépésre haladó csatlakozási útmutatóért lásd az [Eszközeid csatlakoztatása](/docs/guide/everdisk/everdisk-guide-connect) oldalt.

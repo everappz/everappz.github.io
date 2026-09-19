@@ -1,7 +1,7 @@
 ---
 title: "Partage"
 date: 2026-08-20
-description: "Decouvrez comment fonctionne le partage dans Everdisk : appuyez sur Demarrer pour transformer votre iPhone ou iPad en disque sans fil, choisissez ce que vous partagez (fichiers, dossiers, photos et musique), lancez les quatre serveurs (DLNA, HTTP, WebDAV, FTP), lisez les adresses de connexion, voyez qui est connecte, et gardez le partage actif via Wi-Fi ou cable USB."
+description: "Decouvrez comment fonctionne le partage dans Everdisk : appuyez sur Demarrer pour transformer votre iPhone ou iPad en disque sans fil, choisissez ce que vous partagez (fichiers, dossiers, photos et musique), lancez les cinq serveurs (DLNA, HTTP, WebDAV, SMB, FTP), chiffrez la connexion SMB avec SMB3 (AES), lisez les adresses de connexion, voyez qui est connecte, et gardez le partage actif via Wi-Fi ou cable USB."
 keywords: ["partage Everdisk", "disque sans fil iPhone", "demarrer le partage", "partager des fichiers iPhone", "partager des photos sur le reseau", "DLNA HTTP WebDAV FTP", "quoi partager", "comment se connecter", "garder l'application ouverte", "partage Wi-Fi ou cable USB"]
 tags: ["everdisk", "guide", "sharing"]
 readingTime: 9
@@ -17,7 +17,7 @@ Au centre de l'ecran Partage se trouve un grand bouton rond.
 - Appuyez sur **Demarrer** pour mettre en ligne tous vos serveurs actives d'un seul coup. Le bouton affiche **Demarrage...**, puis **Arreter** une fois le partage actif.
 - Appuyez sur **Arreter** pour tout remettre hors ligne. Les appareils connectes sont deconnectes.
 
-Tant que le partage est actif, les fichiers, photos et musiques que vous avez choisis sont accessibles a tout appareil du meme reseau qui se connecte via l'une des quatre methodes ci-dessous.
+Tant que le partage est actif, les fichiers, photos et musiques que vous avez choisis sont accessibles a tout appareil du meme reseau qui se connecte via l'une des cinq methodes ci-dessous.
 
 > Le partage ne fonctionne que lorsque l'application est ouverte. Voir **Gardez l'application ouverte** vers la fin de cette page pour comprendre pourquoi, et comment maintenir les gros transferts en cours.
 
@@ -44,13 +44,14 @@ Avant de demarrer, appuyez sur l'en-tete **Quoi partager** pour ouvrir trois gro
 
 Si vous essayez de demarrer sans rien avoir selectionne, Everdisk affiche une note **Rien a partager**. Si vous modifiez ce qui est partage pendant que le partage est actif, **arretez puis redemarrez** pour appliquer le changement.
 
-## Les quatre serveurs
+## Les cinq serveurs
 
-Everdisk partage le meme contenu de quatre facons a la fois. Chacune est concue pour un type d'appareil different, et chacune peut etre activee ou desactivee dans **Paramètres → Partage → Connexions**. Par defaut, les quatre sont actives.
+Everdisk partage le meme contenu de cinq facons a la fois. Chacune est concue pour un type d'appareil different, et chacune peut etre activee ou desactivee dans **Paramètres → Partage → Connexions**. Par defaut, les cinq sont actives.
 
 - **TV et centre multimedia (DLNA)** - pour les smart TV et lecteurs multimedias. Ils detectent votre appareil tout seuls et affichent vos photos, videos et musiques, avec des miniatures d'apercu.
 - **Navigateur (HTTP)** - pour n'importe quel telephone, tablette ou ordinateur. L'autre personne ouvre un lien dans un navigateur web pour parcourir et telecharger vos fichiers. Rien a installer.
 - **Ordinateur (WebDAV)** - pour un Mac, un PC Windows ou une machine Linux. Votre appareil apparait comme un lecteur reseau classique, ce qui vous permet de glisser des fichiers dans les deux sens.
+- **Ordinateur (avance) (SMB)** - un lecteur reseau pour Mac, Windows et Linux. Sur un Mac il apparait tout seul dans la barre laterale du Finder ; sous Windows, ouvrez-le dans l'Explorateur de fichiers avec une adresse `smb://`. C'est la seule connexion que vous pouvez **chiffrer**, avec le chiffrement SMB3 (AES).
 - **Autres applications et appareils (FTP)** - pour les applications de fichiers et les utilisateurs avances qui parlent FTP.
 
 Pour les instructions de connexion detaillees, etape par etape, pour chaque type, consultez [Connecter vos appareils](/docs/guide/everdisk/everdisk-guide-connect).

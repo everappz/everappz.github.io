@@ -1,7 +1,7 @@
 ---
 title: "Tetapan"
 date: 2026-08-20
-description: "Lawatan lengkap tetapan Everdisk: profil peranti (nama dan avatar), empat pelayan sambungan, kawalan akses, kualiti foto dan video, port tersuai, lakaran kenit DLNA, pilihan rangkaian dan pemindahan, pilihan pengurus fail, dan Premium."
+description: "Lawatan lengkap tetapan Everdisk: profil peranti (nama dan avatar), lima pelayan sambungan, kawalan akses, penyulitan SMB (SMB3/AES), kualiti foto dan video, port tersuai, lakaran kenit DLNA, pilihan rangkaian dan pemindahan, pilihan pengurus fail, dan Premium."
 keywords: ["tetapan Everdisk", "nama avatar peranti", "pelayan sambungan", "kualiti foto video", "port tersuai HTTP WebDAV FTP", "lakaran kenit DLNA", "pemindahan selari", "padam fail secara kekal", "cache lakaran kenit", "Everdisk Premium"]
 tags: ["everdisk", "panduan", "tetapan"]
 readingTime: 12
@@ -38,11 +38,12 @@ Lihat [Akses & Privasi](/docs/guide/everdisk/everdisk-guide-access) untuk butira
 
 ### Sambungan
 
-Hidupkan atau matikan setiap pelayan. Keempat-empatnya dihidupkan secara lalai, dan setiap satunya mempunyai butang maklumat (ⓘ) dengan arahan sambungan:
+Hidupkan atau matikan setiap pelayan. Kelima-limanya dihidupkan secara lalai, dan setiap satunya mempunyai butang maklumat (ⓘ) dengan arahan sambungan:
 
 - **TV & Pusat Media** (DLNA)
 - **Pelayar** (HTTP)
 - **Komputer** (WebDAV)
+- **Komputer (Lanjutan)** (SMB) - pemacu rangkaian untuk Mac, Windows dan Linux; pada Mac ia muncul dengan sendirinya dalam bar sisi Finder. Satu-satunya sambungan yang boleh disulitkan.
 - **Aplikasi & Peranti Lain** (FTP)
 
 ### Foto
@@ -61,7 +62,11 @@ Idea yang sama seperti Foto: Asal adalah paling pantas, dan penukaran ialah Prem
 
 ### Lanjutan
 
-- **Port HTTP** (lalai 80), **Port WebDAV** (lalai 8080), **Port FTP** (lalai 2121). DLNA memilih portnya secara automatik. *(Menukar port ialah Premium; pengguna percuma boleh melihat nilainya.)*
+- **Port HTTP** (lalai 80), **Port WebDAV** (lalai 8080), **Port SMB** (lalai 4455), **Port FTP** (lalai 2121). DLNA memilih portnya secara automatik. *(Menukar port ialah Premium; pengguna percuma boleh melihat nilainya.)*
+
+### Penyulitan SMB
+
+- **Wajibkan penyulitan SMB** - sulitkan setiap pemindahan SMB dengan **penyulitan SMB3 (AES)** supaya tiada sesiapa lain pada rangkaian boleh membaca fail anda. Dimatikan secara lalai. Ia memerlukan **log masuk dan kata laluan** yang ditetapkan di atas (sambungan yang disulitkan tidak boleh tanpa nama) dan klien yang menyokong SMB3, seperti Finder pada Mac moden atau Windows 10 dan lebih baharu. Perubahan berkuat kuasa pada kali seterusnya anda mula berkongsi. *(Premium.)*
 
 ### Lakaran Kenit DLNA
 
@@ -92,7 +97,8 @@ Everdisk percuma untuk digunakan. Satu pembelian **Premium Seumur Hidup** - baya
 - **Folder Tanpa Had** - kongsi lebih daripada 5 folder.
 - **Sambungan Tanpa Had** - simpan lebih daripada 10 pelayan pada tab Peranti.
 - **Penukaran Foto & Video** - kongsi dalam apa-apa kualiti selain Asal.
-- **Port Tersuai** - tetapkan port HTTP, WebDAV dan FTP anda sendiri.
+- **Penyulitan SMB** - lindungi pemindahan SMB dengan penyulitan SMB3 (AES).
+- **Port Tersuai** - tetapkan port HTTP, WebDAV, SMB dan FTP anda sendiri.
 - **Auto-Mula Perkongsian** - mula berkongsi secara automatik apabila anda membuka aplikasi.
 - **Penyesuaian Peranti** - nama peranti tersuai, ikon avatar, kecerunan latar, atau avatar foto.
 

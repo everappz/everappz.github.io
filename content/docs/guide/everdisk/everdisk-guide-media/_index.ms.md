@@ -12,7 +12,7 @@ Everdisk memainkan media anda pada peranti dan mengongsi seluruh pustaka foto da
 
 ## Kongsi seluruh pustaka foto dan muzik anda
 
-Pada skrin [Perkongsian](/docs/guide/everdisk/everdisk-guide-sharing), di bawah **Apa yang Hendak Dikongsi**, anda boleh menghidupkan **Benarkan akses kepada seluruh Pustaka Foto** dan **Benarkan akses kepada seluruh Pustaka Muzik**. Sebaik sahaja perkongsian bermula, setiap album dan lagu menjadi tersedia menerusi keempat-empat pelayan - pada TV, dalam pelayar, pada pemacu rangkaian, atau dalam aplikasi fail. Anda juga boleh memilih sendiri hanya foto, video atau lagu tertentu dengan **Tambah Foto** dan **Tambah Lagu**.
+Pada skrin [Perkongsian](/docs/guide/everdisk/everdisk-guide-sharing), di bawah **Apa yang Hendak Dikongsi**, anda boleh menghidupkan **Benarkan akses kepada seluruh Pustaka Foto** dan **Benarkan akses kepada seluruh Pustaka Muzik**. Sebaik sahaja perkongsian bermula, setiap album dan lagu menjadi tersedia menerusi kelima-lima pelayan - pada TV, dalam pelayar, pada pemacu rangkaian (WebDAV atau SMB), atau dalam aplikasi fail. Anda juga boleh memilih sendiri hanya foto, video atau lagu tertentu dengan **Tambah Foto** dan **Tambah Lagu**.
 
 Lagu yang dilindungi (DRM) dan lagu yang disimpan hanya dalam awan tidak boleh dikongsi.
 
@@ -54,7 +54,7 @@ Apabila anda mengongsi foto dan video, Everdisk boleh menghantarnya tepat sepert
 Perlu diingat:
 
 - **Asal adalah paling pantas** - fail dihantar sebagaimana adanya tanpa sebarang penukaran.
-- Sebarang tetapan lain akan **menukar secara langsung**, yang lebih perlahan dan menggunakan lebih banyak bateri, terutamanya menerusi WebDAV dan FTP.
+- Sebarang tetapan lain akan **menukar secara langsung**, yang lebih perlahan dan menggunakan lebih banyak bateri, terutamanya menerusi WebDAV, SMB dan FTP.
 - Cuba Asal dahulu; hanya beralih ke Paling Serasi jika sesuatu TV atau pelayar tertentu tidak dapat membuka fail.
 - **Muzik** sentiasa dikongsi dalam bentuk asalnya - tiada tetapan kualiti muzik.
 

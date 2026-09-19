@@ -1,8 +1,8 @@
 ---
 title: "Hozzáférés és adatvédelem"
 date: 2026-08-20
-description: "Tartsd biztonságban az Everdisk megosztásodat: védd a hozzáférést bejelentkezéssel és jelszóval, szabályozd a Fájlszerkesztéssel, hogy a csatlakozott eszközök feltölthetnek, átnevezhetnek és törölhetnek-e, blokkold az ismeretlen eszközöket, válassz a kuka és a végleges törlés között, és értsd meg, miért marad minden a helyi hálózatodon."
-keywords: ["Everdisk jelszavas védelem", "fájlszerkesztés kapcsoló", "eszköz blokkolása", "blokkolt eszközök", "fájlok végleges törlése", "csak helyi hálózat", "bizalmas fájlmegosztás", "DLNA jelszó nélkül", "hálózati biztonság"]
+description: "Tartsd biztonságban az Everdisk megosztásodat: védd a hozzáférést bejelentkezéssel és jelszóval, titkosítsd az SMB kapcsolatot SMB3-mal (AES), szabályozd a Fájlszerkesztéssel, hogy a csatlakozott eszközök feltölthetnek, átnevezhetnek és törölhetnek-e, blokkold az ismeretlen eszközöket, válassz a kuka és a végleges törlés között, és értsd meg, miért marad minden a helyi hálózatodon."
+keywords: ["Everdisk jelszavas védelem", "SMB-titkosítás", "SMB3 AES titkosítás", "fájlszerkesztés kapcsoló", "eszköz blokkolása", "blokkolt eszközök", "fájlok végleges törlése", "csak helyi hálózat", "bizalmas fájlmegosztás", "DLNA jelszó nélkül", "hálózati biztonság"]
 tags: ["everdisk", "guide", "access", "privacy", "security"]
 readingTime: 8
 ---
@@ -16,11 +16,23 @@ Alapértelmezés szerint az azonos hálózaton lévő bárki, akinek megvan a c�
 
 1. Menj a **Beállítások → Megosztás → Hozzáférés** menübe.
 2. Adj meg egy **Bejelentkezési nevet** és egy **Jelszót**.
-3. Ezután a **Böngésző (HTTP)**, a **Számítógép (WebDAV)** és a **Más alkalmazások és eszközök (FTP)** kapcsolatok mind bekérik ezeket az adatokat, mielőtt megjelenítenék a fájljaidat.
+3. Ezután a **Böngésző (HTTP)**, a **Számítógép (WebDAV)**, a **Számítógép (speciális) (SMB)** és a **Más alkalmazások és eszközök (FTP)** kapcsolatok mind bekérik ezeket az adatokat, mielőtt megjelenítenék a fájljaidat.
 
 Hagyd mindkét mezőt üresen a nyitott hozzáféréshez. A jelszavad biztonságosan tárolódik az eszköz Kulcskarikájában.
 
 > **A DLNA mindig nyitva van.** A TV és médiaközpont (DLNA) kapcsolat nem védhető jelszóval, így ha egyszer be van kapcsolva, az azonos Wi-Fi-n lévő bármely eszköz böngészheti a megosztott médiádat. Kapcsold ki, ha csak védett kapcsolatokat szeretnél, és csak olyan hálózatokon ossz meg, amelyekben megbízol.
+
+## Titkosítsd az SMB kapcsolatot (SMB3 / AES)
+
+A bejelentkezési név és a jelszó azt szabályozza, hogy **ki** csatlakozhat, de maga az adat a legtöbb kapcsolaton továbbra is nyílt szövegként utazik. **Az SMB az egyetlen kapcsolat, amelyet az Everdisk titkosítani tud**, ami minden átvitelt összekever, így senki más az azonos hálózaton nem tudja elolvasni.
+
+A bekapcsolásához:
+
+1. Állíts be egy **Bejelentkezési nevet** és **Jelszót** a fentiek szerint - a titkosított kapcsolatok nem lehetnek névtelenek.
+2. Menj a **Beállítások → Megosztás** menübe, és kapcsold be az **SMB-titkosítás megkövetelése** lehetőséget.
+3. **Állítsd le, majd indítsd újra** a megosztást, hogy a változtatás életbe lépjen.
+
+Ezután minden SMB-átvitelt **SMB3-titkosítás (AES)** véd. A csatlakozó eszköznek támogatnia kell az SMB3-at - a Finder egy modern Macen, vagy a **Windows 10 és újabb**. Ez remek választás olyan Wi-Fi-n, amelyben nem bízol meg teljesen. Az SMB-titkosítás Premium funkció.
 
 ## Engedélyezd vagy tiltsd a szerkesztést (Fájlszerkesztés)
 

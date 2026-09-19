@@ -12,7 +12,7 @@ Everdisk lit vos medias sur l'appareil et partage toute votre photothèque et vo
 
 ## Partager toute votre photothèque et votre bibliothèque musicale
 
-Sur l'ecran [Partage](/docs/guide/everdisk/everdisk-guide-sharing), sous **Quoi partager**, vous pouvez activer **Autoriser l'acces a toute la photothèque** et **Autoriser l'acces a toute la bibliothèque musicale**. Une fois le partage lance, chaque album et chaque morceau devient disponible sur les quatre serveurs - sur une TV, dans un navigateur, sur un lecteur reseau ou dans une application de fichiers. Vous pouvez aussi selectionner uniquement certaines photos, videos ou morceaux avec **Ajouter des photos** et **Ajouter des morceaux**.
+Sur l'ecran [Partage](/docs/guide/everdisk/everdisk-guide-sharing), sous **Quoi partager**, vous pouvez activer **Autoriser l'acces a toute la photothèque** et **Autoriser l'acces a toute la bibliothèque musicale**. Une fois le partage lance, chaque album et chaque morceau devient disponible sur les cinq serveurs - sur une TV, dans un navigateur, sur un lecteur reseau (WebDAV ou SMB) ou dans une application de fichiers. Vous pouvez aussi selectionner uniquement certaines photos, videos ou morceaux avec **Ajouter des photos** et **Ajouter des morceaux**.
 
 Les morceaux proteges (DRM) et les titres stockes uniquement dans le cloud ne peuvent pas etre partages.
 
@@ -54,7 +54,7 @@ Lorsque vous partagez des photos et des videos, Everdisk peut les envoyer exacte
 A garder a l'esprit :
 
 - **Original est le plus rapide** - le fichier est envoye tel quel, sans conversion.
-- Tout autre reglage **convertit a la volee**, ce qui est plus lent et consomme plus de batterie, surtout via WebDAV et FTP.
+- Tout autre reglage **convertit a la volee**, ce qui est plus lent et consomme plus de batterie, surtout via WebDAV, SMB et FTP.
 - Essayez d'abord Original ; ne passez a Le plus compatible que si une TV ou un navigateur precis ne parvient pas a ouvrir un fichier.
 - La **musique** est toujours partagee sous sa forme originale - il n'y a pas de reglages de qualite musicale.
 

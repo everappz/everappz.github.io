@@ -1,14 +1,14 @@
 ---
 title: "Ligar os Seus Dispositivos"
 date: 2026-08-20
-description: "Instruções passo a passo para se ligar à sua unidade sem fios Everdisk: veja numa smart TV por DLNA, abra os seus ficheiros em qualquer navegador de Internet, monte o seu dispositivo como uma unidade de rede no Finder, no Windows ou no Linux por WebDAV, ligue aplicações de ficheiros por FTP e transfira por cabo USB para um Mac sem Wi-Fi."
+description: "Instruções passo a passo para se ligar à sua unidade sem fios Everdisk: veja numa smart TV por DLNA, abra os seus ficheiros em qualquer navegador de Internet, monte o seu dispositivo como uma unidade de rede no Finder, no Windows ou no Linux por WebDAV ou SMB (com criptografia SMB3/AES opcional), ligue aplicações de ficheiros por FTP e transfira por cabo USB para um Mac sem Wi-Fi."
 keywords: ["ligar ao Everdisk", "transmitir para TV DLNA", "abrir ficheiros no navegador", "montar unidade de rede Finder", "WebDAV Windows Linux", "aplicacao de ficheiros FTP", "transferencia por cabo USB Mac", "ligar iPhone ao computador", "unidade de rede iPhone"]
 tags: ["everdisk", "guia", "ligar"]
 readingTime: 11
 ---
 
 
-Assim que tocar em **Iniciar** no ecrã de [Partilha](/docs/guide/everdisk/everdisk-guide-sharing), os outros dispositivos podem ligar-se aos seus ficheiros de quatro formas diferentes. Escolha o método que corresponde ao dispositivo que quer usar. Em todos os casos, o **endereço** exato de que precisa é mostrado na secção **Como Ligar** do ecrã de Partilha.
+Assim que tocar em **Iniciar** no ecrã de [Partilha](/docs/guide/everdisk/everdisk-guide-sharing), os outros dispositivos podem ligar-se aos seus ficheiros de cinco formas diferentes. Escolha o método que corresponde ao dispositivo que quer usar. Em todos os casos, o **endereço** exato de que precisa é mostrado na secção **Como Ligar** do ecrã de Partilha.
 
 > Ambos os dispositivos têm de estar na **mesma rede Wi-Fi** - ou, no caso de um Mac, ligados por um **cabo USB** (consulte a última secção).
 
@@ -71,6 +71,29 @@ Use isto para fazer o seu dispositivo aparecer como um disco normal num Mac, PC 
 2. Introduza o endereço WebDAV mostrado no Everdisk.
 
 Se a ligação é só de leitura ou nos dois sentidos depende da definição **Edição de Ficheiros**. Com ela ativada, pode copiar ficheiros para o seu dispositivo e mudar-lhes o nome ou eliminá-los; com ela desativada, a unidade é só de leitura.
+
+## Ligar por SMB (unidade de rede criptografada)
+
+O SMB é uma unidade de rede para Mac, Windows e Linux, assente na partilha de ficheiros já existente nesses sistemas, por isso o seu dispositivo aparece como uma unidade de rede normal - e é a única ligação que pode criptografar.
+
+1. Em **Definições → Partilha → Ligações**, certifique-se de que **Computador (avançado)** (a ligação SMB) está ativado.
+2. Toque em **Iniciar** e anote o endereço **SMB**, que tem o aspeto `smb://192.168.1.20:4455/Share`.
+3. Ligue-se a partir do seu computador:
+   - **Mac:** o seu dispositivo aparece sozinho na **barra lateral do Finder** em **Localizações** (Rede) - basta clicar nele e iniciar sessão. Para se ligar manualmente, escolha **Ir → Ligar ao Servidor** (**⌘K**) e introduza o endereço.
+   - **Windows:** abra o **Explorador de Ficheiros**, clique com o botão direito em **Este PC** e escolha **Mapear unidade de rede**, depois introduza `\\<address>\Share` usando o anfitrião e o nome da partilha mostrados no ecrã de Partilha (ou escreva o endereço `smb://` na barra de endereços).
+   - **Linux:** no seu gestor de ficheiros escolha **Ligar ao Servidor** e introduza o endereço.
+4. Introduza o início de sessão e a palavra-passe, se tiver definido algum; caso contrário, ligue-se como convidado.
+5. A partilha chama-se **Share**. Com a **Edição de Ficheiros** ativada pode copiar ficheiros nos dois sentidos; com ela desativada é só de leitura.
+
+**Ativar a criptografia (recomendado em Wi-Fi não fiável)**
+
+O SMB é a única ligação do Everdisk que pode ser criptografada. Para proteger cada transferência com **criptografia SMB3 (AES)**:
+
+1. Em **Definições → Partilha → Acesso**, defina um **Login** e uma **Palavra-passe** - as ligações criptografadas não podem ser anónimas.
+2. Em **Definições → Partilha**, ative **Exigir criptografia SMB**.
+3. **Pare e inicie** a partilha novamente para que a alteração entre em vigor.
+
+O seu cliente tem de suportar SMB3 - o Finder num Mac moderno, ou o **Windows 10 e posterior**. A criptografia SMB é uma funcionalidade Premium.
 
 ## Ligar uma aplicação de ficheiros (FTP)
 

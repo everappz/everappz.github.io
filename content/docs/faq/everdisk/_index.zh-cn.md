@@ -1,16 +1,17 @@
 ---
 date: '2026-08-20T12:00:00+00:00'
 title: 'Everdisk'
-description: "Everdisk 常见问题：把 iPhone 或 iPad 变成无线硬盘，通过 DLNA、HTTP、WebDAV 和 FTP 与网络上的任何设备共享文件、照片、视频和音乐。解答如何从电视、浏览器、Mac、Windows 和 Linux 连接，无 Wi-Fi 时用 USB 线传输，连接 NAS 及 WebDAV/FTP/SFTP 服务器，文件管理器，压缩解压，扫描文档转 PDF，密码与设备拦截，隐私，以及一次性的 Premium Lifetime 购买。"
+description: "Everdisk 常见问题：把 iPhone 或 iPad 变成无线硬盘，通过 DLNA、HTTP、WebDAV、SMB 和 FTP 与网络上的任何设备共享文件、照片、视频和音乐。解答如何从电视、浏览器、Mac、Windows 和 Linux 连接，带 SMB3 加密（AES）的 SMB 网络硬盘，无 Wi-Fi 时用 USB 线传输，连接 NAS 及 WebDAV/FTP/SFTP/SMB 服务器，文件管理器，压缩解压，扫描文档转 PDF，密码与设备拦截，隐私，以及一次性的 Premium Lifetime 购买。"
 keywords: [
   "Everdisk 常见问题", "iPhone 无线硬盘", "iPhone 文件共享", "网络共享照片",
   "DLNA 投屏到电视", "浏览器打开文件", "iPhone WebDAV 网络硬盘",
+  "iPhone SMB 服务器", "iPhone SMB 加密", "SMB3 AES 加密",
   "iPhone FTP 服务器", "iPhone SFTP 客户端", "无 Wi-Fi USB 传文件到 Mac",
-  "iPhone 连接 NAS", "iOS 文件管理器", "iPhone 压缩解压",
+  "iPhone 连接 NAS", "iPhone SMB 客户端", "连接 SMB 共享", "iOS 文件管理器", "iPhone 压缩解压",
   "扫描文档转 PDF", "密码保护共享", "拦截设备",
   "本地网络文件共享", "Everdisk Premium", "Everdisk 永久版"
 ]
-tags: ["everdisk", "faq", "无线硬盘", "文件共享", "DLNA", "WebDAV", "FTP", "SFTP", "网络硬盘"]
+tags: ["everdisk", "faq", "无线硬盘", "文件共享", "DLNA", "WebDAV", "SMB", "FTP", "SFTP", "网络硬盘"]
 ---
 
 
@@ -23,15 +24,16 @@ Everdisk 把你的 iPhone 或 iPad 变成一块无线硬盘，与本地网络上
 {{% details title="Everdisk 是什么？" closed="true" %}}
 Everdisk 是一款面向 iPhone 和 iPad 的**无线硬盘**应用。它把你的设备变成一个中枢，与本地网络上的任何设备共享你所选的文件、照片、视频和音乐，还能连接到其他服务器，让你浏览和播放它们的文件。<br><br>
 
-它同时运行四种服务器 - **DLNA** 适用于电视，**HTTP** 适用于浏览器，**WebDAV** 适用于 Finder/Windows/Linux，**FTP** 适用于文件类应用 - 让每台设备都用自己喜欢的方式连接。无需账户、无需云端：只需点击**开始**，即刻就绪。它还包含文件管理器、媒体播放器、照片库、扫描文档转 PDF，以及压缩解压。
+它同时运行五种服务器 - **DLNA** 适用于电视，**HTTP** 适用于浏览器，**WebDAV** 适用于 Finder/Windows/Linux，**SMB** 用作 Mac、Windows 和 Linux 上的网络硬盘，可选加密，**FTP** 适用于文件类应用 - 让每台设备都用自己喜欢的方式连接。无需账户、无需云端：只需点击**开始**，即刻就绪。它还包含文件管理器、媒体播放器、照片库、扫描文档转 PDF，以及压缩解压。
 {{% /details %}}
 
 {{% details title="Everdisk 如何工作？" closed="true" %}}
-当你点击**开始**，Everdisk 会把你的设备变成本地网络上的一台服务器，并共享你所选的内容。四种不同的连接方式同时运行，让不同设备用各自偏好的方式连接：<br><br>
+当你点击**开始**，Everdisk 会把你的设备变成本地网络上的一台服务器，并共享你所选的内容。五种不同的连接方式同时运行，让不同设备用各自偏好的方式连接：<br><br>
 
 - **DLNA** - 智能电视和媒体播放器会自动找到你的设备，并带缩略图显示你的媒体。<br>
 - **HTTP** - 任何人在浏览器中打开链接就能浏览和下载你的文件。<br>
 - **WebDAV** - 你的设备在 Finder、Windows 或 Linux 中显示为普通网络硬盘。<br>
+- **SMB** - 用作 Mac、Windows 和 Linux 的网络硬盘，基于这些系统已有的文件共享功能；在 Mac 上它会自行出现在 Finder 边栏中。它是唯一可以加密的连接 (SMB3 加密，AES)。<br>
 - **FTP** - 文件类应用和高级工具通过 FTP 连接。<br><br>
 
 一切都通过你的本地 Wi-Fi (或连接 Mac 的 USB 线) 进行，绝不接触互联网。
@@ -106,6 +108,29 @@ Everdisk 是一款面向 iPhone 和 iPad 的**无线硬盘**应用。它把你�
 如果你设置了登录名和密码，请一并输入。
 {{% /details %}}
 
+{{% details title="如何通过 SMB 连接？" closed="true" %}}
+1. 在**设置 → 共享 → 连接**中，确保**电脑（高级）** (即 SMB 连接) 已开启，然后点击**开始**。<br>
+2. 复制共享界面上显示的 **SMB** 地址 - 它看起来像 `smb://192.168.1.20:4455/Share`。<br>
+3. 从你的电脑连接：<br>
+&nbsp;&nbsp;- **Mac：**你的设备会在**位置** (网络) 下自行出现在 **Finder 边栏**中 - 直接点击它即可。若想手动连接，请选择**前往 → 连接服务器** (**⌘K**) 并输入该地址。<br>
+&nbsp;&nbsp;- **Windows：**在文件资源管理器中，右键点击**此电脑**并选择**映射网络驱动器**，然后输入 `\\<address>\Share`，或在地址栏中输入 `smb://` 地址。<br>
+&nbsp;&nbsp;- **Linux：**在你的文件管理器中选择**连接服务器**并输入该地址。<br>
+4. 如果你设置了登录名和密码，请输入；否则以访客身份连接。<br><br>
+
+共享名为 **Share**。开启**文件编辑**后，你可以双向复制文件；关闭后，该硬盘为只读。
+{{% /details %}}
+
+{{% details title="我能加密我的 SMB 连接吗？" closed="true" %}}
+能 - 而且 SMB 是 Everdisk **唯一**可以加密的连接。在**设置 → 共享**中，开启**要求 SMB 加密**，用 **SMB3 加密 (AES)** 保护每一次 SMB 传输，这样同一网络上的其他人就无法读取你的文件。在你不完全信任的 Wi-Fi 上，这是个很好的选择。<br><br>
+
+有几项要求：<br>
+- 你必须先设置**登录名和密码** - 加密连接不能匿名。<br>
+- 客户端必须支持 **SMB3** - 现代 Mac 上的 Finder，或 **Windows 10 及更高版本**。<br>
+- 更改会在下次开始共享时生效。<br><br>
+
+SMB 加密属于一次性的 **Premium Lifetime** 购买。
+{{% /details %}}
+
 {{% details title="Everdisk 没有 Wi-Fi 也能用吗？" closed="true" %}}
 能，需要一台 **Mac** 和一根数据线。把你的 iPhone 或 iPad 插到 Mac 上，如有提示请点击**信任**，然后点击**开始**。共享界面上会出现一个以 `.local` 结尾的**数据线连接**地址；从 Finder 连接它 (**⌘K**)。这在完全没有 Wi-Fi 的情况下也能用 - 在飞机上、酒店里或受限网络中都很棒 - 而且比 Wi-Fi 更快、更私密。
 {{% /details %}}
@@ -122,19 +147,20 @@ Everdisk 是一款面向 iPhone 和 iPad 的**无线硬盘**应用。它把你�
 连接 Mac 的 **USB 数据线**比 Wi-Fi 更快也更可靠，因为数据直接走数据线。它也是最私密的选择，因为没有任何内容经过你的路由器或互联网。大量照片和视频传输时请用它。
 {{% /details %}}
 
-{{% details title="四种服务器 (DLNA、HTTP、WebDAV、FTP) 有什么区别？" closed="true" %}}
+{{% details title="五种服务器 (DLNA、HTTP、WebDAV、SMB、FTP) 有什么区别？" closed="true" %}}
 它们共享的都是相同内容，但适合不同设备：<br><br>
 
 - **电视和媒体中心 (DLNA)** - 适用于智能电视和媒体播放器。<br>
 - **浏览器 (HTTP)** - 适用于任意浏览器，无需安装。<br>
 - **电脑 (WebDAV)** - 让你的设备在 Finder/Windows/Linux 中成为网络硬盘。<br>
+- **电脑（高级）** (SMB) - 用作 Mac、Windows 和 Linux 的网络硬盘；在 Mac 上它会自行出现在 Finder 边栏中，也可用 `smb://` 地址手动连接。它是唯一可以加密的连接 (SMB3，AES)。<br>
 - **其他应用和设备 (FTP)** - 适用于文件类应用和高级工具。<br><br>
 
 你可以在**设置 → 共享 → 连接**中打开或关闭其中任意一项。
 {{% /details %}}
 
 {{% details title="如何给我的文件设置密码保护？" closed="true" %}}
-进入**设置 → 共享 → 访问**，设置**登录名**和**密码**。之后浏览器、电脑和其他应用连接都会要求输入这些信息。两项都留空则为开放访问。<br><br>
+进入**设置 → 共享 → 访问**，设置**登录名**和**密码**。之后浏览器、电脑、电脑（高级）和其他应用连接都会要求输入这些信息。两项都留空则为开放访问。<br><br>
 
 注意：**DLNA** (电视) 连接无法设置密码保护，所以只要它开着，同一 Wi-Fi 上的任何人都能访问。如果你只想要受保护的连接，请把它关闭。
 {{% /details %}}
@@ -156,15 +182,15 @@ Everdisk 是一款面向 iPhone 和 iPad 的**无线硬盘**应用。它把你�
 {{% /details %}}
 
 {{% details title="Everdisk 能连接到我的 NAS 或其他服务器吗？" closed="true" %}}
-能。**设备**标签页用于连接**到**你网络上的其他服务器。点击**新建连接**并选择 **DLNA / UPnP**、**WebDAV**、**FTP** 或 **SFTP**，输入地址和登录信息，就能浏览、播放和下载。在 WebDAV、FTP 和 SFTP 服务器上，你还能新建文件夹、上传、重命名、移动和删除。DLNA 服务器为只读。
+能。**设备**标签页用于连接**到**你网络上的其他服务器。点击**新建连接**并选择 **DLNA / UPnP**、**WebDAV**、**FTP**、**SFTP** 或 **SMB** (适用于通过 SMB / CIFS 共享文件夹的 Mac、Windows PC、Linux 机器和 NAS 硬盘)，输入地址和登录信息，就能浏览、播放和下载。在 WebDAV、FTP、SFTP 和 SMB 服务器上，你还能新建文件夹、上传、重命名、移动和删除。DLNA 服务器为只读。
 {{% /details %}}
 
 {{% details title="我能连接到 Google Drive 或 Dropbox 这类云存储吗？" closed="true" %}}
-Everdisk 不会登录 iCloud Drive、Google Drive、Dropbox 或 OneDrive 等云账户。它只连接到**本地网络及可直接寻址**的服务器 (DLNA、WebDAV、FTP、SFTP)。只有当某个云服务提供了可填入新 WebDAV 连接的 **WebDAV** 地址时，才能访问它。
+Everdisk 不会登录 iCloud Drive、Google Drive、Dropbox 或 OneDrive 等云账户。它只连接到**本地网络及可直接寻址**的服务器 (DLNA、WebDAV、FTP、SFTP、SMB)。只有当某个云服务提供了可填入新 WebDAV 连接的 **WebDAV** 地址时，才能访问它。
 {{% /details %}}
 
 {{% details title="设备标签页是做什么的？" closed="true" %}}
-它是 Everdisk 的客户端一侧：**连接**列出你保存的服务器，**可用设备**列出在你网络上自动发现的服务器。点击其中一个即可浏览、播放或下载它的文件，或点击**新建连接**手动添加一个 DLNA、WebDAV、FTP 或 SFTP 服务器。
+它是 Everdisk 的客户端一侧：**连接**列出你保存的服务器，**可用设备**列出在你网络上自动发现的服务器。点击其中一个即可浏览、播放或下载它的文件，或点击**新建连接**手动添加一个 DLNA、WebDAV、FTP、SFTP 或 SMB 服务器。
 {{% /details %}}
 
 {{% details title="如何把服务器上的文件下载到我的设备？" closed="true" %}}
@@ -256,13 +282,13 @@ Everdisk 会自动给你的设备一个友好的名称和头像，你可以免�
 {{% /details %}}
 
 {{% details title="我能更改连接端口吗？" closed="true" %}}
-默认端口为 **HTTP 80**、**WebDAV 8080** 和 **FTP 2121** (DLNA 会自动选择端口)。你可以免费查看它们，而设置**自定义端口**是 Premium 功能 (设置 → 共享中的**高级**)。
+默认端口为 **HTTP 80**、**WebDAV 8080**、**SMB 4455** 和 **FTP 2121** (DLNA 会自动选择端口)。你可以免费查看它们，而设置**自定义端口**是 Premium 功能 (设置 → 共享中的**高级**)。
 {{% /details %}}
 
 {{% details title="Everdisk 免费吗，Premium 增加了什么？" closed="true" %}}
-Everdisk 可**免费**下载。你可以运行全部四种服务器、用密码保护访问、共享你的整个照片和音乐库、使用文件管理器、扫描转 PDF，并连接到其他服务器。免费版最多共享 **5 个文件夹**，最多保存 **10 个服务器连接**。<br><br>
+Everdisk 可**免费**下载。你可以运行全部五种服务器、用密码保护访问、共享你的整个照片和音乐库、使用文件管理器、扫描转 PDF，并连接到其他服务器。免费版最多共享 **5 个文件夹**，最多保存 **10 个服务器连接**。<br><br>
 
-一次性的 **Premium Lifetime** 购买 (非订阅) 增加了：**无限文件夹**、**无限连接**、**照片和视频转换** (原始以外的画质)、**自定义端口**、**自动开始共享**和**设备自定义**。
+一次性的 **Premium Lifetime** 购买 (非订阅) 增加了：**无限文件夹**、**无限连接**、**照片和视频转换** (原始以外的画质)、**SMB 加密** (SMB3/AES)、**自定义端口**、**自动开始共享**和**设备自定义**。
 {{% /details %}}
 
 {{% details title="Premium 是订阅吗？它能在我的其他设备上使用吗？" closed="true" %}}

@@ -1,8 +1,8 @@
 ---
 title: "Accés i privadesa"
 date: 2026-08-20
-description: "Mantén segura la teva compartició d'Everdisk: protegeix l'accés amb un inici de sessió i una contrasenya, controla si els dispositius connectats poden pujar, canviar el nom i eliminar amb l'Edició d'arxius, bloqueja dispositius desconeguts, tria entre paperera i eliminació permanent i entén per què tot es queda a la teva xarxa local."
-keywords: ["protecció amb contrasenya Everdisk", "commutador edició d'arxius", "bloquejar dispositiu", "dispositius bloquejats", "eliminar arxius permanentment", "només xarxa local", "compartició d'arxius privada", "DLNA sense contrasenya", "seguretat de xarxa"]
+description: "Mantén segura la teva compartició d'Everdisk: protegeix l'accés amb un inici de sessió i una contrasenya, xifra la connexió SMB amb SMB3 (AES), controla si els dispositius connectats poden pujar, canviar el nom i eliminar amb l'Edició d'arxius, bloqueja dispositius desconeguts, tria entre paperera i eliminació permanent i entén per què tot es queda a la teva xarxa local."
+keywords: ["protecció amb contrasenya Everdisk", "xifratge SMB", "xifratge SMB3 AES", "commutador edició d'arxius", "bloquejar dispositiu", "dispositius bloquejats", "eliminar arxius permanentment", "només xarxa local", "compartició d'arxius privada", "DLNA sense contrasenya", "seguretat de xarxa"]
 tags: ["everdisk", "guia", "acces", "privadesa", "seguretat"]
 readingTime: 8
 ---
@@ -16,11 +16,23 @@ Per defecte, qualsevol persona de la mateixa xarxa que tingui la teva adreça po
 
 1. Ves a **Configuració → Compartir → Accés**.
 2. Introdueix un **Inici de sessió** i una **Contrasenya**.
-3. Ara les connexions del **Navegador (HTTP)**, l'**Ordinador (WebDAV)** i les **Altres apps i dispositius (FTP)** demanen totes aquestes dades abans de mostrar els teus arxius.
+3. Ara les connexions del **Navegador (HTTP)**, l'**Ordinador (WebDAV)**, l'**Ordinador (avançat) (SMB)** i les **Altres apps i dispositius (FTP)** demanen totes aquestes dades abans de mostrar els teus arxius.
 
 Deixa tots dos camps buits per a l'accés obert. La teva contrasenya es desa de manera segura al Keychain del dispositiu.
 
 > **El DLNA sempre és obert.** La connexió TV i Centre multimèdia (DLNA) no es pot protegir amb contrasenya, així que un cop està activada, qualsevol dispositiu de la mateixa Wi-Fi pot explorar el teu contingut multimèdia compartit. Desactiva-la si només vols connexions protegides, i comparteix només en xarxes en les quals confiïs.
+
+## Xifra la connexió SMB (SMB3 / AES)
+
+Un inici de sessió i una contrasenya controlen **qui** es pot connectar, però les dades en si encara viatgen sense xifrar a la majoria de connexions. **SMB és l'única connexió que Everdisk pot xifrar**, cosa que codifica cada transferència perquè ningú més de la mateixa xarxa no la pugui llegir.
+
+Per activar-ho:
+
+1. Defineix un **Inici de sessió** i una **Contrasenya** com més amunt - les connexions xifrades no poden ser anònimes.
+2. Ves a **Configuració → Compartir** i activa **Requereix xifratge SMB**.
+3. **Atura i Inicia** la compartició de nou perquè el canvi tingui efecte.
+
+Cada transferència SMB queda llavors protegida amb **xifratge SMB3 (AES)**. El dispositiu que es connecta ha de ser compatible amb SMB3 - el Finder d'un Mac modern, o **Windows 10 i posteriors**. És una opció excel·lent en un Wi-Fi en què no confiïs del tot. El Xifratge SMB és una funció Premium.
 
 ## Permet o bloqueja l'edició (Edició d'arxius)
 

@@ -1,14 +1,14 @@
 ---
 title: "Kết nối các thiết bị của bạn"
 date: 2026-08-20
-description: "Hướng dẫn từng bước để kết nối tới ổ đĩa không dây Everdisk của bạn: xem trên TV thông minh qua DLNA, mở tệp của bạn trong mọi trình duyệt web, gắn thiết bị của bạn như một ổ đĩa mạng trong Finder, Windows hay Linux qua WebDAV, kết nối các ứng dụng quản lý tệp qua FTP, và truyền tệp qua cáp USB tới máy Mac ngay cả khi không có Wi-Fi."
+description: "Hướng dẫn từng bước để kết nối tới ổ đĩa không dây Everdisk của bạn: xem trên TV thông minh qua DLNA, mở tệp của bạn trong mọi trình duyệt web, gắn thiết bị của bạn như một ổ đĩa mạng trong Finder, Windows hay Linux qua WebDAV hoặc SMB (với mã hóa SMB3/AES tùy chọn), kết nối các ứng dụng quản lý tệp qua FTP, và truyền tệp qua cáp USB tới máy Mac ngay cả khi không có Wi-Fi."
 keywords: ["kết nối tới Everdisk", "phát lên TV DLNA", "mở tệp trong trình duyệt", "gắn ổ đĩa mạng Finder", "WebDAV Windows Linux", "ứng dụng tệp FTP", "truyền tệp qua cáp USB Mac", "kết nối iPhone với máy tính", "ổ đĩa mạng iPhone"]
 tags: ["everdisk", "guide", "connect"]
 readingTime: 11
 ---
 
 
-Sau khi bạn chạm **Bắt đầu** trên màn hình [Chia sẻ](/docs/guide/everdisk/everdisk-guide-sharing), những thiết bị khác có thể kết nối tới tệp của bạn theo bốn cách khác nhau. Hãy chọn phương thức phù hợp với thiết bị bạn muốn dùng. Trong mọi trường hợp, **địa chỉ** chính xác mà bạn cần đều được hiển thị trong phần **Cách kết nối** của màn hình Chia sẻ.
+Sau khi bạn chạm **Bắt đầu** trên màn hình [Chia sẻ](/docs/guide/everdisk/everdisk-guide-sharing), những thiết bị khác có thể kết nối tới tệp của bạn theo năm cách khác nhau. Hãy chọn phương thức phù hợp với thiết bị bạn muốn dùng. Trong mọi trường hợp, **địa chỉ** chính xác mà bạn cần đều được hiển thị trong phần **Cách kết nối** của màn hình Chia sẻ.
 
 > Cả hai thiết bị phải nằm trên **cùng một mạng Wi-Fi** - hoặc, đối với máy Mac, được kết nối bằng **cáp USB** (xem phần cuối).
 
@@ -71,6 +71,29 @@ Dùng cách này để làm cho thiết bị của bạn hiện ra như một �
 2. Nhập địa chỉ WebDAV hiển thị trong Everdisk.
 
 Kết nối chỉ đọc hay hai chiều tùy thuộc vào cài đặt **Chỉnh sửa tệp**. Khi bật, bạn có thể sao chép tệp vào thiết bị và đổi tên hoặc xóa chúng; khi tắt, ổ đĩa ở chế độ chỉ đọc.
+
+## Kết nối qua SMB (ổ đĩa mạng có mã hóa)
+
+SMB là một ổ đĩa mạng cho Mac, Windows và Linux, dựa trên tính năng chia sẻ tệp sẵn có trong các hệ thống đó, nên thiết bị của bạn hiện ra như một ổ đĩa mạng thông thường - và đây là kết nối duy nhất bạn có thể mã hóa.
+
+1. Trong **Cài đặt → Chia sẻ → Kết nối**, đảm bảo **Máy tính (Nâng cao)** (kết nối SMB) đang bật.
+2. Chạm **Bắt đầu** và ghi lại địa chỉ **SMB**, trông giống `smb://192.168.1.20:4455/Share`.
+3. Kết nối từ máy tính của bạn:
+   - **Mac:** thiết bị của bạn tự hiện lên trong **thanh bên Finder** dưới mục **Vị trí** (Mạng) - chỉ cần bấm vào nó rồi đăng nhập. Để kết nối bằng tay, chọn **Đi → Kết nối tới máy chủ** (**⌘K**) và nhập địa chỉ.
+   - **Windows:** mở **File Explorer**, nhấp chuột phải vào **This PC** và chọn **Ánh xạ ổ đĩa mạng**, rồi nhập `\\<address>\Share` dùng tên máy chủ và tên thư mục chia sẻ từ màn hình Chia sẻ (hoặc gõ địa chỉ `smb://` vào thanh địa chỉ).
+   - **Linux:** trong trình quản lý tệp chọn **Kết nối tới máy chủ** và nhập địa chỉ.
+4. Nhập tên đăng nhập và mật khẩu nếu bạn đã đặt, nếu không thì kết nối với tư cách khách.
+5. Thư mục chia sẻ được đặt tên là **Share**. Khi bật **Chỉnh sửa tệp**, bạn có thể sao chép tệp theo cả hai chiều; khi tắt, nó ở chế độ chỉ đọc.
+
+**Bật mã hóa (khuyến nghị trên Wi-Fi không tin cậy)**
+
+SMB là kết nối Everdisk duy nhất có thể mã hóa. Để bảo vệ mọi lần truyền bằng **mã hóa SMB3 (AES)**:
+
+1. Trong **Cài đặt → Chia sẻ → Truy cập**, đặt **Tên đăng nhập** và **Mật khẩu** - kết nối có mã hóa không thể ẩn danh.
+2. Trong **Cài đặt → Chia sẻ**, bật **Yêu cầu mã hóa SMB**.
+3. **Dừng rồi Bắt đầu** chia sẻ lại để thay đổi có hiệu lực.
+
+Máy khách của bạn phải hỗ trợ SMB3 - Finder trên một chiếc Mac hiện đại, hoặc **Windows 10 trở lên**. Mã hóa SMB là một tính năng Premium.
 
 ## Kết nối một ứng dụng quản lý tệp (FTP)
 

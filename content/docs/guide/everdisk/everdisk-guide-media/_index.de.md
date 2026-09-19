@@ -12,7 +12,7 @@ Everdisk spielt deine Medien auf dem Gerat ab und teilt deine gesamte Foto- und 
 
 ## Teile deine gesamte Foto- und Musikbibliothek
 
-Auf dem [Teilen](/docs/guide/everdisk/everdisk-guide-sharing)-Bildschirm kannst du unter **Was geteilt wird** die Optionen **Zugriff auf gesamte Fotomediathek erlauben** und **Zugriff auf gesamte Musikmediathek erlauben** aktivieren. Sobald das Teilen startet, wird jedes Album und jeder Titel uber alle vier Server verfugbar - auf einem TV, in einem Browser, auf einem Netzlaufwerk oder in einer Datei-App. Du kannst mit **Fotos hinzufugen** und **Titel hinzufugen** auch gezielt nur bestimmte Fotos, Videos oder Titel auswahlen.
+Auf dem [Teilen](/docs/guide/everdisk/everdisk-guide-sharing)-Bildschirm kannst du unter **Was geteilt wird** die Optionen **Zugriff auf gesamte Fotomediathek erlauben** und **Zugriff auf gesamte Musikmediathek erlauben** aktivieren. Sobald das Teilen startet, wird jedes Album und jeder Titel uber alle funf Server verfugbar - auf einem TV, in einem Browser, auf einem Netzlaufwerk (WebDAV oder SMB) oder in einer Datei-App. Du kannst mit **Fotos hinzufugen** und **Titel hinzufugen** auch gezielt nur bestimmte Fotos, Videos oder Titel auswahlen.
 
 Geschutzte (DRM) Songs und Titel, die nur in der Cloud liegen, konnen nicht geteilt werden.
 
@@ -54,7 +54,7 @@ Wenn du Fotos und Videos teilst, kann Everdisk sie genau so senden, wie sie sind
 Denke daran:
 
 - **Original ist am schnellsten** - die Datei wird unverandert gesendet, ohne Umwandlung.
-- Jede andere Einstellung **wandelt in Echtzeit um**, was langsamer ist und mehr Akku verbraucht, besonders uber WebDAV und FTP.
+- Jede andere Einstellung **wandelt in Echtzeit um**, was langsamer ist und mehr Akku verbraucht, besonders uber WebDAV, SMB und FTP.
 - Probiere zuerst Original; wechsle nur dann zu Am kompatibelsten, wenn ein bestimmter TV oder Browser eine Datei nicht offnen kann.
 - **Musik** wird immer in ihrer Originalform geteilt - es gibt keine Einstellungen fur die Musikqualitat.
 

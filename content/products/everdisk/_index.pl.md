@@ -2,12 +2,12 @@
 date: '2026-08-20T12:00:00+00:00'
 title: 'Everdisk - zamień iPhone i iPad w bezprzewodowy dysk'
 layout: hextra-home
-description: "Zamień iPhone lub iPad w bezprzewodowy dysk i udostępniaj pliki, zdjęcia, filmy oraz muzykę dowolnemu urządzeniu przez DLNA, HTTP, WebDAV i FTP. Bez chmury."
-keywords: ["Everdisk", "bezprzewodowy dysk iPhone", "udostepnianie plikow iPhone", "serwer WebDAV iOS", "serwer DLNA iPhone", "serwer FTP iOS", "strumieniowanie na TV z iPhone", "dysk sieciowy iPhone", "przesylanie plikow USB iPhone", "menedzer plikow iOS", "skanowanie dokumentow do PDF", "udostepnianie zdjec w sieci"]
-tags: ["Everdisk", "bezprzewodowy dysk", "udostepnianie plikow", "DLNA", "WebDAV", "FTP", "SFTP", "dysk sieciowy", "aplikacje iPhone", "aplikacje iPad", "aplikacje Mac", "menedzer plikow", "serwer multimediow"]
+description: "Zamień iPhone lub iPad w bezprzewodowy dysk i udostępniaj pliki, zdjęcia, filmy oraz muzykę dowolnemu urządzeniu przez DLNA, HTTP, WebDAV, SMB i FTP. Podłączaj jako dysk sieciowy z opcjonalnym szyfrowaniem SMB. Bez chmury."
+keywords: ["Everdisk", "bezprzewodowy dysk iPhone", "udostepnianie plikow iPhone", "serwer WebDAV iOS", "serwer SMB iPhone", "szyfrowanie SMB iOS", "serwer DLNA iPhone", "serwer FTP iOS", "strumieniowanie na TV z iPhone", "dysk sieciowy iPhone", "przesylanie plikow USB iPhone", "menedzer plikow iOS", "skanowanie dokumentow do PDF", "udostepnianie zdjec w sieci"]
+tags: ["Everdisk", "bezprzewodowy dysk", "udostepnianie plikow", "DLNA", "WebDAV", "SMB", "FTP", "SFTP", "dysk sieciowy", "aplikacje iPhone", "aplikacje iPad", "aplikacje Mac", "menedzer plikow", "serwer multimediow"]
 appStoreUrl: "https://apps.apple.com/app/apple-store/id6751851132?pt=95781850&ct=everappzcom&mt=8"
 appStoreId: "6751851132"
-features: "Bezprzewodowy dysk przez Wi-Fi i USB, Cztery serwery naraz (DLNA, HTTP, WebDAV, FTP), Strumieniowanie na smart TV przez DLNA, Otwieranie w dowolnej przegladarce, Podlaczanie jako dysk sieciowy w Finder/Windows/Linux, Laczenie z serwerami DLNA/WebDAV/FTP/SFTP, Wbudowany menedzer plikow z pakowaniem i rozpakowywaniem, Skanowanie dokumentow do PDF, Adnotacje i podpisywanie plikow PDF oraz zdjec, Narzedzia PDF (kompresja, rozpoznawanie tekstu OCR, ochrona haslem, uprawnienia, metadane, splaszczanie), Galeria zdjec i odtwarzacz multimediow, Udostepnianie calej biblioteki zdjec i muzyki, Ochrona haslem i blokowanie urzadzen"
+features: "Bezprzewodowy dysk przez Wi-Fi i USB, Piec serwerow naraz (DLNA, HTTP, WebDAV, SMB, FTP), Strumieniowanie na smart TV przez DLNA, Otwieranie w dowolnej przegladarce, Podlaczanie jako dysk sieciowy w Finder/Windows/Linux, Dysk sieciowy SMB z opcjonalnym szyfrowaniem SMB3 (AES), Laczenie z serwerami DLNA/WebDAV/FTP/SFTP/SMB, Wbudowany menedzer plikow z pakowaniem i rozpakowywaniem, Skanowanie dokumentow do PDF, Adnotacje i podpisywanie plikow PDF oraz zdjec, Narzedzia PDF (kompresja, rozpoznawanie tekstu OCR, ochrona haslem, uprawnienia, metadane, splaszczanie), Galeria zdjec i odtwarzacz multimediow, Udostepnianie calej biblioteki zdjec i muzyki, Ochrona haslem i blokowanie urzadzen"
 screenshots:
   - "https://everappz.com/products/everdisk/screenshots/browser_access.png"
   - "https://everappz.com/products/everdisk/screenshots/connect_to_servers.png"
@@ -16,7 +16,7 @@ screenshots:
 ---
 
 {{% sr-only %}}
-Everdisk to aplikacja bezprzewodowego dysku dla iPhone i iPad stworzona przez Everappz. Zamienia Twoje urzadzenie w centrum, ktore udostepnia pliki, zdjecia, filmy i muzyke wszystkiemu w sieci lokalnej - bez kont, bez chmury i bez dodatkowej aplikacji do zainstalowania po drugiej stronie. Aplikacja uruchamia cztery serwery jednoczesnie - DLNA dla smart TV i odtwarzaczy multimediow, HTTP dla dowolnej przegladarki, WebDAV dla Finder, Windows i Linux oraz FTP dla aplikacji plikowych i zaawansowanych uzytkownikow - dzieki czemu kazde urzadzenie laczy sie tak, jak lubi. Mozesz strumieniowac zdjecia, filmy i muzyke prosto na smart TV przez DLNA z miniaturami podgladu, udostepnic prosty link, ktory otwiera sie w dowolnej przegladarce, aby przegladac i pobierac pliki, albo podlaczyc urzadzenie jako dysk sieciowy i przenosic pliki w obie strony. Gdy nie ma Wi-Fi, mozesz polaczyc sie z Makiem kablem USB i przenosic pliki szybciej niz przez Wi-Fi, nawet w samolocie czy w zablokowanej sieci. Everdisk laczy sie takze z serwerami DLNA, WebDAV, FTP i SFTP w Twojej sieci, aby przegladac, strumieniowac i pobierac ich pliki. Wbudowany menedzer plikow pozwala przegladac w widoku listy lub siatki, tworzyc foldery, zmieniac nazwy, przenosic, kopiowac, pakowac i rozpakowywac oraz usuwac. Mozesz skanowac papierowe dokumenty do czystych plikow PDF, otworzyc plik PDF lub zdjecie i dodac adnotacje we wbudowanym edytorze - rysowac, zakreslac, dodawac tekst i podpis, a zmiany zapisuja sie z powrotem do pliku - oraz korzystac z pelnego zestawu narzedzi PDF, aby kompresowac pliki, rozpoznawac tekst (OCR) do przeszukiwalnego pliku PDF, dodawac lub usuwac haslo otwarcia, sprawdzac uprawnienia, edytowac metadane dokumentu i splaszczac adnotacje oraz pola formularzy. Mozesz takze odtwarzac dzwiek w mini odtwarzaczu i ogladac filmy na pelnym ekranie oraz udostepniac cala biblioteke zdjec i muzyki w sieci w oryginalnej jakosci lub w bardziej zgodnym formacie. Wszystko pozostaje w Twojej sieci lokalnej i nigdy nie trafia do internetu, a dostep mozesz chronic loginem i haslem oraz zablokowac dowolne urzadzenie jednym dotknieciem. Everdisk mozna pobrac bezplatnie z App Store, z opcjonalnym jednorazowym zakupem Premium Lifetime.
+Everdisk to aplikacja bezprzewodowego dysku dla iPhone i iPad stworzona przez Everappz. Zamienia Twoje urzadzenie w centrum, ktore udostepnia pliki, zdjecia, filmy i muzyke wszystkiemu w sieci lokalnej - bez kont, bez chmury i bez dodatkowej aplikacji do zainstalowania po drugiej stronie. Aplikacja uruchamia piec serwerow jednoczesnie - DLNA dla smart TV i odtwarzaczy multimediow, HTTP dla dowolnej przegladarki, WebDAV dla Finder, Windows i Linux, SMB dla dysku sieciowego na Macu, Windows i Linux (z opcjonalnym szyfrowaniem SMB3) oraz FTP dla aplikacji plikowych i zaawansowanych uzytkownikow - dzieki czemu kazde urzadzenie laczy sie tak, jak lubi. Mozesz strumieniowac zdjecia, filmy i muzyke prosto na smart TV przez DLNA z miniaturami podgladu, udostepnic prosty link, ktory otwiera sie w dowolnej przegladarce, aby przegladac i pobierac pliki, albo podlaczyc urzadzenie jako dysk sieciowy i przenosic pliki w obie strony. Mozesz je takze podlaczyc przez SMB, dysk sieciowy dla Maca, Windows i Linux, ktory na Macu pojawia sie sam na pasku bocznym Findera, i wlaczyc szyfrowanie SMB3 (AES), aby nikt inny w tej samej sieci nie mogl odczytac Twoich transferow. Gdy nie ma Wi-Fi, mozesz polaczyc sie z Makiem kablem USB i przenosic pliki szybciej niz przez Wi-Fi, nawet w samolocie czy w zablokowanej sieci. Everdisk laczy sie takze z serwerami DLNA, WebDAV, FTP, SFTP i SMB w Twojej sieci - w tym z Makami, komputerami z Windows, maszynami z Linux i dyskami NAS - aby przegladac, strumieniowac i pobierac ich pliki. Wbudowany menedzer plikow pozwala przegladac w widoku listy lub siatki, tworzyc foldery, zmieniac nazwy, przenosic, kopiowac, pakowac i rozpakowywac oraz usuwac. Mozesz skanowac papierowe dokumenty do czystych plikow PDF, otworzyc plik PDF lub zdjecie i dodac adnotacje we wbudowanym edytorze - rysowac, zakreslac, dodawac tekst i podpis, a zmiany zapisuja sie z powrotem do pliku - oraz korzystac z pelnego zestawu narzedzi PDF, aby kompresowac pliki, rozpoznawac tekst (OCR) do przeszukiwalnego pliku PDF, dodawac lub usuwac haslo otwarcia, sprawdzac uprawnienia, edytowac metadane dokumentu i splaszczac adnotacje oraz pola formularzy. Mozesz takze odtwarzac dzwiek w mini odtwarzaczu i ogladac filmy na pelnym ekranie oraz udostepniac cala biblioteke zdjec i muzyki w sieci w oryginalnej jakosci lub w bardziej zgodnym formacie. Wszystko pozostaje w Twojej sieci lokalnej i nigdy nie trafia do internetu, a dostep mozesz chronic loginem i haslem oraz zablokowac dowolne urzadzenie jednym dotknieciem. Everdisk mozna pobrac bezplatnie z App Store, z opcjonalnym jednorazowym zakupem Premium Lifetime.
 {{% /sr-only %}}
 
 <!-- <body class="hx:bg-transparent" style="background: radial-gradient(ellipse at 50% 80%, rgba(59,130,246,0.05), hsla(0,0%,100%,0));"> -->
@@ -56,9 +56,9 @@ Zamień iPhone lub iPad w bezprzewodowy dysk&nbsp;<br class="hx:sm:block hx:hidd
 
 <div class="hx:mb-6">
 {{< hextra/hero-paragraph >}}
-• Dotknij Start i udostępniaj na cztery sposoby naraz: DLNA, HTTP, WebDAV i FTP  
+• Dotknij Start i udostępniaj na pięć sposobów naraz: DLNA, HTTP, WebDAV, SMB i FTP  
 • Strumieniuj zdjęcia, filmy i muzykę prosto na smart TV przez DLNA  
-• Podłącz urządzenie jako dysk sieciowy w Finder, Windows lub Linux  
+• Podłącz urządzenie jako dysk sieciowy w Finder, Windows lub Linux - z opcjonalnym szyfrowaniem SMB  
 • Brak Wi-Fi? Przenoś pliki kablem USB, szybciej niż bezprzewodowo  
 {{< /hextra/hero-paragraph >}}
 </div>
@@ -82,7 +82,7 @@ Zamień iPhone lub iPad w bezprzewodowy dysk&nbsp;<br class="hx:sm:block hx:hidd
 
   {{< hextra/feature-card
     title="Twoje urządzenie staje się dyskiem"
-    subtitle="Dotknij Start, a Twój iPhone lub iPad zamieni się w bezprzewodowy dysk. Everdisk uruchamia cztery serwery jednocześnie - DLNA, HTTP, WebDAV i FTP - dzięki czemu smart TV, komputery, przeglądarki i aplikacje plikowe łączą się każde na swój sposób. Bez kont, bez chmury i bez niczego dodatkowego do zainstalowania po drugiej stronie."
+    subtitle="Dotknij Start, a Twój iPhone lub iPad zamieni się w bezprzewodowy dysk. Everdisk uruchamia pięć serwerów jednocześnie - DLNA, HTTP, WebDAV, SMB i FTP - dzięki czemu smart TV, komputery, przeglądarki i aplikacje plikowe łączą się każde na swój sposób. Bez kont, bez chmury i bez niczego dodatkowego do zainstalowania po drugiej stronie."
     icon="server"
     style="background: radial-gradient(ellipse at 50% 80%, rgba(34,197,94,0.15), hsla(0,0%,100%,0));"
   >}}
@@ -109,6 +109,13 @@ Zamień iPhone lub iPad w bezprzewodowy dysk&nbsp;<br class="hx:sm:block hx:hidd
   >}}
 
   {{< hextra/feature-card
+    title="Szyfrowane udostępnianie SMB"
+    subtitle="Podłącz się przez SMB, dysk sieciowy dla Maca, Windows i Linux - na Macu pojawia się sam na pasku bocznym Findera. To jedyne połączenie, które możesz zaszyfrować: włącz szyfrowanie SMB3 (AES) z loginem i hasłem, aby nikt inny w sieci nie mógł odczytać Twoich plików."
+    icon="lock-closed"
+    style="background: radial-gradient(ellipse at 50% 80%, rgba(99,102,241,0.15), hsla(0,0%,100%,0));"
+  >}}
+
+  {{< hextra/feature-card
     title="Brak Wi-Fi? Użyj kabla"
     subtitle="Podłącz urządzenie do Maca tym samym kablem USB, którym je ładujesz. Pliki przechodzą prosto przez kabel, szybciej niż przez Wi-Fi, i działa to nawet w samolocie, w hotelu czy w każdej zablokowanej sieci, gdzie Wi-Fi jest niedostępne."
     icon="lightning-bolt"
@@ -117,7 +124,7 @@ Zamień iPhone lub iPad w bezprzewodowy dysk&nbsp;<br class="hx:sm:block hx:hidd
 
   {{< hextra/feature-card
     title="Łącz się z innymi urządzeniami"
-    subtitle="Znajduj i łącz się z serwerami DLNA, WebDAV, FTP i SFTP w Twojej sieci. Przeglądaj ich foldery, strumieniuj dźwięk i wideo, pobieraj pliki oraz twórz foldery, przesyłaj, zmieniaj nazwy, przenoś i usuwaj, gdy serwer na to pozwala."
+    subtitle="Znajduj i łącz się z serwerami DLNA, WebDAV, FTP, SFTP i SMB w Twojej sieci - z Makami, komputerami z Windows, maszynami z Linux i dyskami NAS. Przeglądaj ich foldery, strumieniuj dźwięk i wideo, pobieraj pliki oraz twórz foldery, przesyłaj, zmieniaj nazwy, przenoś i usuwaj, gdy serwer na to pozwala."
     icon="cloud-download"
     style="background: radial-gradient(ellipse at 50% 80%, rgba(6,182,212,0.15), hsla(0,0%,100%,0));"
   >}}
@@ -153,7 +160,7 @@ Zamień iPhone lub iPad w bezprzewodowy dysk&nbsp;<br class="hx:sm:block hx:hidd
     title="Łącz się z serwerami" 
     method="Fill"
     options="1030x400 q82 webp Center"
-    subtitle="Wykrywaj i łącz się z serwerami DLNA, WebDAV, FTP i SFTP w Twojej sieci, aby przeglądać, strumieniować i pobierać ich pliki." 
+    subtitle="Wykrywaj i łącz się z serwerami DLNA, WebDAV, FTP, SFTP i SMB w Twojej sieci, aby przeglądać, strumieniować i pobierać ich pliki." 
   >}}
 
   {{< feature-card 
@@ -208,7 +215,7 @@ Zamień iPhone lub iPad w bezprzewodowy dysk&nbsp;<br class="hx:sm:block hx:hidd
 
 {{< cards >}}
 
-  {{< feature-card title="Cztery serwery naraz" subtitle="Dotknij Start i udostępniaj pliki na cztery sposoby jednocześnie: DLNA dla telewizorów i odtwarzaczy multimediów, HTTP dla dowolnej przeglądarki, WebDAV dla Finder, Windows i Linux oraz FTP dla aplikacji plikowych i zaawansowanych użytkowników." icon="wifi" >}}
+  {{< feature-card title="Pięć serwerów naraz" subtitle="Dotknij Start i udostępniaj pliki na pięć sposobów jednocześnie: DLNA dla telewizorów i odtwarzaczy multimediów, HTTP dla dowolnej przeglądarki, WebDAV dla Finder, Windows i Linux, SMB dla dysku sieciowego na Macu, Windows i Linux oraz FTP dla aplikacji plikowych i zaawansowanych użytkowników." icon="wifi" >}}
 
   {{< feature-card title="Strumieniuj na smart TV" subtitle="Wysyłaj zdjęcia, filmy i muzykę prosto na smart TV i odtwarzacze multimediów przez DLNA. Twoja biblioteka pojawia się na telewizorze sama, z miniaturami podglądu, gotowa na duży ekran." icon="desktop-computer" >}}
 
@@ -216,9 +223,11 @@ Zamień iPhone lub iPad w bezprzewodowy dysk&nbsp;<br class="hx:sm:block hx:hidd
 
   {{< feature-card title="Dysk sieciowy WebDAV" subtitle="Połącz się z Finder na Macu, z Windows lub z Linux przez WebDAV, a Twoje urządzenie pojawi się jak zwykły dysk sieciowy. Przeciągaj i upuszczaj pliki w obie strony." icon="folder" >}}
 
+  {{< feature-card title="Szyfrowany dysk SMB" subtitle="Podłącz urządzenie przez SMB, dysk sieciowy dla Maca, Windows i Linux - na Macu pojawia się sam na pasku bocznym Findera. To jedyne połączenie, które można zaszyfrować: włącz szyfrowanie SMB3 (AES) z loginem i hasłem, aby każdy transfer pozostał prywatny." icon="lock-closed" >}}
+
   {{< feature-card title="Przesyłanie przez USB" subtitle="Podłącz do Maca kablem do ładowania i przenoś pliki prosto przez kabel, szybciej niż przez Wi-Fi. Działa nawet w samolocie, w hotelu czy w każdej zablokowanej sieci." icon="lightning-bolt" >}}
 
-  {{< feature-card title="Łącz się z DLNA, WebDAV, FTP i SFTP" subtitle="Znajduj i łącz się z serwerami w swojej sieci, przeglądaj ich foldery, strumieniuj dźwięk i wideo, pobieraj pliki oraz twórz, przesyłaj, zmieniaj nazwy, przenoś i usuwaj, gdy jest to dozwolone." icon="server" >}}
+  {{< feature-card title="Łącz się z DLNA, WebDAV, FTP, SFTP i SMB" subtitle="Znajduj i łącz się z serwerami oraz dyskami NAS w swojej sieci, przeglądaj ich foldery, strumieniuj dźwięk i wideo, pobieraj pliki oraz twórz, przesyłaj, zmieniaj nazwy, przenoś i usuwaj, gdy jest to dozwolone." icon="server" >}}
 
   {{< feature-card title="Wbudowany menedżer plików" subtitle="Pełny menedżer plików dla wszystkiego na Twoim urządzeniu. Przeglądaj w liście lub siatce, twórz foldery, zmieniaj nazwy, przenoś, kopiuj i usuwaj oraz podłączaj foldery z dowolnego miejsca na urządzeniu." icon="view-grid" >}}
 
@@ -283,11 +292,11 @@ Zamień iPhone lub iPad w bezprzewodowy dysk&nbsp;<br class="hx:sm:block hx:hidd
     title="Bezpłatnie"
     class="pricing-card pricing-free"
     subtitle=`<span class='pricing-details'>• Zamień urządzenie w bezprzewodowy dysk<br />
-• Cztery serwery naraz: DLNA, HTTP, WebDAV, FTP<br />
+• Pięć serwerów naraz: DLNA, HTTP, WebDAV, SMB, FTP<br />
 • Strumieniuj na smart TV, do przeglądarek i komputerów<br />
 • Podłączaj jako dysk sieciowy i przesyłaj przez USB<br />
 • Udostępniaj całą bibliotekę zdjęć i muzyki<br />
-• Łącz się z serwerami DLNA, WebDAV, FTP i SFTP<br />
+• Łącz się z serwerami DLNA, WebDAV, FTP, SFTP i SMB<br />
 • Menedżer plików z pakowaniem i rozpakowywaniem<br />
 • Skanowanie dokumentów do PDF i pełne narzędzia PDF<br />
 • Adnotacje i podpisywanie plików PDF oraz zdjęć<br />
@@ -307,7 +316,8 @@ Zamień iPhone lub iPad w bezprzewodowy dysk&nbsp;<br class="hx:sm:block hx:hidd
 • Nieograniczona liczba udostępnianych folderów (ponad 5)<br />
 • Nieograniczona liczba zapisanych połączeń (ponad 10)<br />
 • Konwersja zdjęć i wideo do zgodnego formatu lub mniejszego rozmiaru<br />
-• Własne porty HTTP, WebDAV i FTP<br />
+• Szyfrowanie SMB3 (AES) dla prywatnego i bezpiecznego udostępniania<br />
+• Własne porty HTTP, WebDAV, SMB i FTP<br />
 • Automatyczne rozpoczęcie udostępniania po otwarciu aplikacji<br />
 • Personalizacja urządzenia: nazwa, ikona awatara, gradient lub zdjęcie<br />
 • Zakup jednorazowy - opłata raz, bez odnawiania</span><br /><br />
@@ -344,24 +354,25 @@ Everdisk zamienia Twój iPhone lub iPad w bezprzewodowy dysk oraz centrum, któr
 Możesz udostępniać pliki, zdjęcia, filmy i muzykę wszystkiemu w swojej sieci, przeglądać i strumieniować z innych serwerów oraz zarządzać wszystkim prosto na urządzeniu.<br>
 Nie ma kont, nie ma chmury i nie ma dodatkowej aplikacji do zainstalowania po drugiej stronie - po prostu dotykasz Start i jesteś gotowy.<br><br>
 
-Aplikacja uruchamia cztery serwery jednocześnie, dzięki czemu każde urządzenie łączy się tak, jak lubi: smart TV przez DLNA, komputery i przeglądarki przez HTTP, Finder, Windows i Linux przez WebDAV oraz aplikacje plikowe przez FTP.
+Aplikacja uruchamia pięć serwerów jednocześnie, dzięki czemu każde urządzenie łączy się tak, jak lubi: smart TV przez DLNA, komputery i przeglądarki przez HTTP, Finder, Windows i Linux przez WebDAV, dysk sieciowy przez SMB (z opcjonalnym szyfrowaniem) oraz aplikacje plikowe przez FTP.
 {{% /details %}}
 
 {{% details title="Jak działa Everdisk?" closed="true" %}}
-Gdy dotkniesz Start, Everdisk rozpoczyna udostępnianie wybranej zawartości i uruchamia cztery serwery naraz, aby różne urządzenia mogły łączyć się w sposób, jaki im odpowiada.<br><br>
+Gdy dotkniesz Start, Everdisk rozpoczyna udostępnianie wybranej zawartości i uruchamia pięć serwerów naraz, aby różne urządzenia mogły łączyć się w sposób, jaki im odpowiada.<br><br>
 
 - <strong>DLNA</strong> pozwala smart TV i odtwarzaczom multimediów automatycznie znaleźć Twoje zdjęcia, filmy i muzykę oraz pokazać je z miniaturami podglądu.<br>
 - <strong>HTTP</strong> daje każdemu prosty link, który może otworzyć w przeglądarce, aby przeglądać, podglądać i pobierać Twoje pliki, bez niczego do zainstalowania.<br>
 - <strong>WebDAV</strong> sprawia, że Twoje urządzenie pojawia się jako zwykły dysk sieciowy w Finder, Windows lub Linux, więc możesz przeciągać pliki w obie strony.<br>
+- <strong>SMB</strong> zamienia Twoje urządzenie w dysk sieciowy na Macu, Windows i Linux - na Macu pojawia się sam na pasku bocznym Findera - i jest to jedyne połączenie, które możesz zaszyfrować szyfrowaniem SMB3 (AES).<br>
 - <strong>FTP</strong> działa z aplikacjami plikowymi i zaawansowanymi użytkownikami.<br><br>
 
-Everdisk łączy się także w drugą stronę, z serwerami DLNA, WebDAV, FTP i SFTP w Twojej sieci, dzięki czemu możesz przeglądać ich foldery, strumieniować dźwięk i wideo oraz pobierać lub zarządzać plikami, gdy serwer na to pozwala. Wszystko pozostaje w Twojej sieci lokalnej i nigdy nie trafia do internetu.
+Everdisk łączy się także w drugą stronę, z serwerami DLNA, WebDAV, FTP, SFTP i SMB w Twojej sieci - w tym z Makami, komputerami z Windows, maszynami z Linux i dyskami NAS - dzięki czemu możesz przeglądać ich foldery, strumieniować dźwięk i wideo oraz pobierać lub zarządzać plikami, gdy serwer na to pozwala. Wszystko pozostaje w Twojej sieci lokalnej i nigdy nie trafia do internetu.
 {{% /details %}}
 
 {{% details title="Czy Everdisk jest bezpłatny?" closed="true" %}}
-Tak. Everdisk można pobrać bezpłatnie i możesz zamienić urządzenie w bezprzewodowy dysk, udostępniać pliki na cztery sposoby, łączyć się z innymi serwerami oraz korzystać z wbudowanego menedżera plików bez żadnych kosztów.<br><br>
+Tak. Everdisk można pobrać bezpłatnie i możesz zamienić urządzenie w bezprzewodowy dysk, udostępniać pliki na pięć sposobów, łączyć się z innymi serwerami oraz korzystać z wbudowanego menedżera plików bez żadnych kosztów.<br><br>
 
-Dostępny jest opcjonalny jednorazowy zakup <strong>Premium Lifetime</strong> - jedna płatność bez subskrypcji - który odblokowuje nieograniczoną liczbę udostępnianych folderów i zapisanych połączeń, konwersję zdjęć i wideo, własne porty, automatyczne rozpoczęcie udostępniania oraz personalizację urządzenia. Jest powiązany z Twoim Apple ID, więc możesz użyć opcji Przywróć zakupy, aby odblokować go na innych urządzeniach. Ceny mogą się różnić w zależności od kraju lub regionu.
+Dostępny jest opcjonalny jednorazowy zakup <strong>Premium Lifetime</strong> - jedna płatność bez subskrypcji - który odblokowuje nieograniczoną liczbę udostępnianych folderów i zapisanych połączeń, konwersję zdjęć i wideo, szyfrowanie SMB3 (AES), własne porty, automatyczne rozpoczęcie udostępniania oraz personalizację urządzenia. Jest powiązany z Twoim Apple ID, więc możesz użyć opcji Przywróć zakupy, aby odblokować go na innych urządzeniach. Ceny mogą się różnić w zależności od kraju lub regionu.
 {{% /details %}}
 
 {{% details title="Jak połączyć się z komputera?" closed="true" %}}
@@ -372,6 +383,12 @@ Everdisk sprawia, że Twoje urządzenie pojawia się jako zwykły dysk sieciowy 
 - W <strong>Linux</strong> połącz się z adresem WebDAV ze swojego menedżera plików.<br><br>
 
 Po połączeniu możesz przeciągać i upuszczać w obie strony: kopiuj pliki z komputera na urządzenie albo pobieraj je z powrotem. Możesz też otworzyć link HTTP w dowolnej przeglądarce, jeśli wolisz nie podłączać dysku.
+{{% /details %}}
+
+{{% details title="Czy mogę używać SMB i zaszyfrować połączenie?" closed="true" %}}
+Tak. Obok WebDAV Everdisk udostępnia przez <strong>SMB</strong> - dysk sieciowy dla Maca, Windows i Linux (pokazywany w aplikacji jako połączenie <strong>Komputer (zaawansowane)</strong>). Na Macu pojawia się sam na pasku bocznym Findera w sekcji Lokalizacje; w Windows otwórz go w Eksploratorze plików, używając adresu <code>smb://</code> pokazanego w aplikacji.<br><br>
+
+SMB to także jedyne połączenie, które możesz <strong>zaszyfrować</strong>. Ustaw login i hasło, a następnie włącz <strong>Wymagaj szyfrowania SMB</strong> w Ustawieniach, aby chronić każdy transfer <strong>szyfrowaniem SMB3 (AES)</strong>, dzięki czemu nikt inny w tej samej sieci nie odczyta Twoich plików. Szyfrowane połączenia nie mogą być anonimowe, więc login i hasło są wymagane, a potrzebujesz klienta obsługującego SMB3 - Findera na nowoczesnym Macu albo Windows 10 i nowszego.
 {{% /details %}}
 
 {{% details title="Jak strumieniować na telewizor?" closed="true" %}}
@@ -393,7 +410,7 @@ Ponieważ nie zależy to od sieci bezprzewodowej, działa nawet w samolocie, w h
 {{% /details %}}
 
 {{% details title="Z czym mogę się połączyć za pomocą Everdisk?" closed="true" %}}
-Everdisk jest także klientem dla innych urządzeń w Twojej sieci. Możesz znajdować i łączyć się z serwerami <strong>DLNA</strong>, <strong>WebDAV</strong>, <strong>FTP</strong> i <strong>SFTP</strong>, w tym z urządzeniami NAS i serwerami multimediów.<br><br>
+Everdisk jest także klientem dla innych urządzeń w Twojej sieci. Możesz znajdować i łączyć się z serwerami <strong>DLNA</strong>, <strong>WebDAV</strong>, <strong>FTP</strong>, <strong>SFTP</strong> i <strong>SMB</strong>, w tym z Makami, komputerami z Windows, maszynami z Linux, urządzeniami NAS i serwerami multimediów.<br><br>
 
 Po połączeniu możesz przeglądać ich foldery, strumieniować dźwięk i wideo, pobierać pliki oraz tworzyć foldery, przesyłać, zmieniać nazwy, przenosić i usuwać, gdy serwer na to pozwala.
 {{% /details %}}
@@ -463,11 +480,11 @@ Twoje zdjęcia pokazują też prawdziwe miniatury podglądu na telewizorze przez
 </div>
 
 {{< cards >}}
-  {{< feature-card icon="play" title="Udostępnianie" subtitle="Dotknij Start, wybierz, co udostępnić, i uruchom wszystkie cztery serwery naraz." link="/docs/guide/everdisk/everdisk-guide-sharing" >}}
+  {{< feature-card icon="play" title="Udostępnianie" subtitle="Dotknij Start, wybierz, co udostępnić, i uruchom wszystkie pięć serwerów naraz." link="/docs/guide/everdisk/everdisk-guide-sharing" >}}
 
   {{< feature-card icon="desktop-computer" title="Podłącz swoje urządzenia" subtitle="Jak telewizor, Mac lub PC, przeglądarka, inny telefon albo kabel USB łączą się z Twoimi plikami." link="/docs/guide/everdisk/everdisk-guide-connect" >}}
 
-  {{< feature-card icon="server" title="Łącz się z serwerami" subtitle="Dotrzyj do serwerów DLNA, WebDAV, FTP i SFTP oraz dysków NAS, aby przeglądać, strumieniować i pobierać." link="/docs/guide/everdisk/everdisk-guide-devices" >}}
+  {{< feature-card icon="server" title="Łącz się z serwerami" subtitle="Dotrzyj do serwerów DLNA, WebDAV, FTP, SFTP i SMB oraz dysków NAS, aby przeglądać, strumieniować i pobierać." link="/docs/guide/everdisk/everdisk-guide-devices" >}}
 
   {{< feature-card icon="folder" title="Pliki i dokumenty" subtitle="Przeglądaj, organizuj, pakuj i rozpakowuj, podłączaj zewnętrzne foldery i skanuj dokumenty do PDF." link="/docs/guide/everdisk/everdisk-guide-files" >}}
 

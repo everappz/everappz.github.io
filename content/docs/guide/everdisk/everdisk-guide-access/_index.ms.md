@@ -1,8 +1,8 @@
 ---
 title: "Akses & Privasi"
 date: 2026-08-20
-description: "Pastikan perkongsian Everdisk anda selamat: lindungi akses dengan log masuk dan kata laluan, kawal sama ada peranti yang bersambung boleh memuat naik, menamakan semula dan memadam dengan Penyuntingan Fail, sekat peranti yang tidak dikenali, pilih tong sampah lawan padam kekal, dan fahami sebab semuanya kekal pada rangkaian tempatan anda."
-keywords: ["perlindungan kata laluan Everdisk", "togol penyuntingan fail", "sekat peranti", "peranti disekat", "padam fail secara kekal", "rangkaian tempatan sahaja", "perkongsian fail peribadi", "DLNA tiada kata laluan", "keselamatan rangkaian"]
+description: "Pastikan perkongsian Everdisk anda selamat: lindungi akses dengan log masuk dan kata laluan, sulitkan sambungan SMB dengan SMB3 (AES), kawal sama ada peranti yang bersambung boleh memuat naik, menamakan semula dan memadam dengan Penyuntingan Fail, sekat peranti yang tidak dikenali, pilih tong sampah lawan padam kekal, dan fahami sebab semuanya kekal pada rangkaian tempatan anda."
+keywords: ["perlindungan kata laluan Everdisk", "penyulitan SMB", "penyulitan SMB3 AES", "togol penyuntingan fail", "sekat peranti", "peranti disekat", "padam fail secara kekal", "rangkaian tempatan sahaja", "perkongsian fail peribadi", "DLNA tiada kata laluan", "keselamatan rangkaian"]
 tags: ["everdisk", "panduan", "akses", "privasi", "keselamatan"]
 readingTime: 8
 ---
@@ -16,11 +16,23 @@ Secara lalai, sesiapa sahaja pada rangkaian yang sama yang mempunyai alamat anda
 
 1. Pergi ke **Tetapan -> Perkongsian -> Akses**.
 2. Masukkan **Log Masuk** dan **Kata Laluan**.
-3. Kini sambungan **Pelayar (HTTP)**, **Komputer (WebDAV)** dan **Aplikasi & Peranti Lain (FTP)** kesemuanya akan meminta butiran itu sebelum memaparkan fail anda.
+3. Kini sambungan **Pelayar (HTTP)**, **Komputer (WebDAV)**, **Komputer (Lanjutan) (SMB)** dan **Aplikasi & Peranti Lain (FTP)** kesemuanya akan meminta butiran itu sebelum memaparkan fail anda.
 
 Biarkan kedua-dua medan kosong untuk akses terbuka. Kata laluan anda disimpan dengan selamat dalam Keychain peranti.
 
 > **DLNA sentiasa terbuka.** Sambungan TV & Pusat Media (DLNA) tidak boleh dilindungi kata laluan, jadi sebaik sahaja ia dihidupkan, mana-mana peranti pada Wi-Fi yang sama boleh melayari media kongsian anda. Matikan ia jika anda hanya mahukan sambungan yang dilindungi, dan hanya berkongsi pada rangkaian yang anda percayai.
+
+## Sulitkan sambungan SMB (SMB3 / AES)
+
+Log masuk dan kata laluan mengawal **siapa** yang boleh menyambung, tetapi data itu sendiri masih bergerak secara terbuka pada kebanyakan sambungan. **SMB ialah satu-satunya sambungan yang boleh disulitkan oleh Everdisk**, yang mengacak setiap pemindahan supaya tiada sesiapa lain pada rangkaian yang sama boleh membacanya.
+
+Untuk menghidupkannya:
+
+1. Tetapkan **Log Masuk** dan **Kata Laluan** seperti di atas - sambungan yang disulitkan tidak boleh tanpa nama.
+2. Pergi ke **Tetapan -> Perkongsian** dan hidupkan **Wajibkan penyulitan SMB**.
+3. **Berhenti dan Mula** berkongsi semula supaya perubahan itu berkuat kuasa.
+
+Setiap pemindahan SMB kemudian dilindungi dengan **penyulitan SMB3 (AES)**. Peranti yang menyambung mesti menyokong SMB3 - Finder pada Mac moden, atau **Windows 10 dan lebih baharu**. Ini pilihan yang bagus pada Wi-Fi yang anda tidak percayai sepenuhnya. Penyulitan SMB ialah ciri Premium.
 
 ## Benarkan atau sekat penyuntingan (Penyuntingan Fail)
 

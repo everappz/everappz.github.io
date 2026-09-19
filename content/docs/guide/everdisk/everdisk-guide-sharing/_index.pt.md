@@ -1,7 +1,7 @@
 ---
 title: "Partilha"
 date: 2026-08-20
-description: "Saiba como funciona a partilha no Everdisk: toque em Iniciar para transformar o seu iPhone ou iPad numa unidade sem fios, escolha o que partilhar (ficheiros, pastas, fotografias e música), execute os quatro servidores (DLNA, HTTP, WebDAV, FTP), consulte os endereços de ligação, veja quem está ligado e mantenha a partilha ativa por Wi-Fi ou por um cabo USB."
+description: "Saiba como funciona a partilha no Everdisk: toque em Iniciar para transformar o seu iPhone ou iPad numa unidade sem fios, escolha o que partilhar (ficheiros, pastas, fotografias e música), execute os cinco servidores (DLNA, HTTP, WebDAV, SMB, FTP), criptografe a ligação SMB com SMB3 (AES), consulte os endereços de ligação, veja quem está ligado e mantenha a partilha ativa por Wi-Fi ou por um cabo USB."
 keywords: ["partilha Everdisk", "unidade sem fios iPhone", "iniciar partilha", "partilhar ficheiros iPhone", "partilhar fotografias pela rede", "DLNA HTTP WebDAV FTP", "o que partilhar", "como ligar", "manter a aplicacao aberta", "partilha por Wi-Fi ou cabo USB"]
 tags: ["everdisk", "guia", "partilha"]
 readingTime: 9
@@ -17,7 +17,7 @@ No centro do ecrã de Partilha há um grande botão redondo.
 - Toque em **Iniciar** para colocar todos os servidores ativados online de uma só vez. O botão mostra **A iniciar...** e depois **Parar** assim que a partilha estiver ativa.
 - Toque em **Parar** para voltar a colocar tudo offline. Os dispositivos ligados são desligados.
 
-Enquanto a partilha estiver a decorrer, os ficheiros, fotografias e música que escolheu ficam disponíveis para qualquer dispositivo da mesma rede que se ligue por um dos quatro métodos indicados abaixo.
+Enquanto a partilha estiver a decorrer, os ficheiros, fotografias e música que escolheu ficam disponíveis para qualquer dispositivo da mesma rede que se ligue por um dos cinco métodos indicados abaixo.
 
 > A partilha só funciona enquanto a aplicação estiver aberta. Consulte **Manter a aplicação aberta**, perto do final desta página, para perceber porquê e como manter as transferências grandes a decorrer.
 
@@ -44,13 +44,14 @@ Antes de começar, toque no cabeçalho **O que partilhar** para abrir três grup
 
 Se tentar iniciar sem nada selecionado, o Everdisk mostra uma nota **Nada para Partilhar**. Se alterar o que está partilhado com a partilha em curso, **pare e inicie novamente** para aplicar a mudança.
 
-## Os quatro servidores
+## Os cinco servidores
 
-O Everdisk partilha o mesmo conteúdo de quatro formas ao mesmo tempo. Cada uma foi pensada para um tipo diferente de dispositivo, e cada uma pode ser ativada ou desativada em **Definições → Partilha → Ligações**. Por predefinição, todas as quatro estão ativadas.
+O Everdisk partilha o mesmo conteúdo de cinco formas ao mesmo tempo. Cada uma foi pensada para um tipo diferente de dispositivo, e cada uma pode ser ativada ou desativada em **Definições → Partilha → Ligações**. Por predefinição, todas as cinco estão ativadas.
 
 - **TV e Centro Multimédia (DLNA)** - para smart TVs e leitores multimédia. Descobrem o seu dispositivo por si próprios e mostram as suas fotografias, vídeos e música, com miniaturas de pré-visualização.
 - **Navegador (HTTP)** - para qualquer telemóvel, tablet ou computador. A outra pessoa abre uma ligação num navegador de Internet para explorar e transferir os seus ficheiros. Nada para instalar.
 - **Computador (WebDAV)** - para um Mac, PC com Windows ou máquina Linux. O seu dispositivo aparece como uma unidade de rede normal para que possa arrastar ficheiros em ambos os sentidos.
+- **Computador (avançado) (SMB)** - uma unidade de rede para Mac, Windows e Linux. Num Mac aparece sozinha na barra lateral do Finder; no Windows, abra-a no Explorador de Ficheiros com um endereço `smb://`. É a única ligação que pode **criptografar**, com criptografia SMB3 (AES).
 - **Outras Aplicações e Dispositivos (FTP)** - para aplicações de ficheiros e utilizadores avançados que usam FTP.
 
 Para instruções de ligação passo a passo de cada tipo, consulte [Ligar os Seus Dispositivos](/docs/guide/everdisk/everdisk-guide-connect).

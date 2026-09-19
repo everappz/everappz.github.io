@@ -1,14 +1,14 @@
 ---
 title: "Deine Gerate verbinden"
 date: 2026-08-20
-description: "Schritt-fur-Schritt-Anleitungen, um dich mit deinem drahtlosen Everdisk-Laufwerk zu verbinden: auf einem Smart-TV uber DLNA schauen, deine Dateien in jedem Webbrowser offnen, dein Gerat als Netzlaufwerk im Finder, unter Windows oder Linux uber WebDAV einbinden, Datei-Apps uber FTP verbinden und ohne Wi-Fi uber ein USB-Kabel zu einem Mac ubertragen."
+description: "Schritt-fur-Schritt-Anleitungen, um dich mit deinem drahtlosen Everdisk-Laufwerk zu verbinden: auf einem Smart-TV uber DLNA schauen, deine Dateien in jedem Webbrowser offnen, dein Gerat als Netzlaufwerk im Finder, unter Windows oder Linux uber WebDAV oder SMB (mit optionaler SMB3/AES-Verschlusselung) einbinden, Datei-Apps uber FTP verbinden und ohne Wi-Fi uber ein USB-Kabel zu einem Mac ubertragen."
 keywords: ["mit Everdisk verbinden", "auf TV streamen DLNA", "Dateien im Browser offnen", "Netzlaufwerk im Finder einbinden", "WebDAV Windows Linux", "FTP Datei-App", "USB-Kabel Ubertragung Mac", "iPhone mit Computer verbinden", "Netzlaufwerk iPhone"]
 tags: ["everdisk", "guide", "connect"]
 readingTime: 11
 ---
 
 
-Sobald du auf dem [Teilen](/docs/guide/everdisk/everdisk-guide-sharing)-Bildschirm auf **Start** tippst, konnen sich andere Gerate auf vier verschiedene Arten mit deinen Dateien verbinden. Wahle die Methode, die zu dem Gerat passt, das du verwenden mochtest. In jedem Fall wird die genaue **Adresse**, die du brauchst, im Abschnitt **Wie verbinden** des Teilen-Bildschirms angezeigt.
+Sobald du auf dem [Teilen](/docs/guide/everdisk/everdisk-guide-sharing)-Bildschirm auf **Start** tippst, konnen sich andere Gerate auf funf verschiedene Arten mit deinen Dateien verbinden. Wahle die Methode, die zu dem Gerat passt, das du verwenden mochtest. In jedem Fall wird die genaue **Adresse**, die du brauchst, im Abschnitt **Wie verbinden** des Teilen-Bildschirms angezeigt.
 
 > Beide Gerate mussen sich im **selben Wi-Fi-Netzwerk** befinden - oder bei einem Mac uber ein **USB-Kabel** verbunden sein (siehe letzter Abschnitt).
 
@@ -71,6 +71,29 @@ Nutze dies, damit dein Gerat als ganz normales Laufwerk auf einem Mac, Windows-P
 2. Gib die in Everdisk angezeigte WebDAV-Adresse ein.
 
 Ob die Verbindung schreibgeschutzt oder in beide Richtungen moglich ist, hangt von der Einstellung **Dateibearbeitung** ab. Ist sie aktiviert, kannst du Dateien auf dein Gerat kopieren sowie umbenennen oder loschen; ist sie deaktiviert, ist das Laufwerk schreibgeschutzt.
+
+## Uber SMB verbinden (verschlusseltes Netzlaufwerk)
+
+SMB ist ein Netzlaufwerk fur Mac, Windows und Linux, das auf der bereits in diesen Systemen vorhandenen Dateifreigabe aufbaut, sodass dein Gerat als ganz normales Netzlaufwerk erscheint - und es ist die einzige Verbindung, die du verschlusseln kannst.
+
+1. Stelle unter **Einstellungen > Teilen > Verbindungen** sicher, dass **Computer (Erweitert)** (die SMB-Verbindung) aktiviert ist.
+2. Tippe auf **Start** und notiere die **SMB**-Adresse, die so aussieht: `smb://192.168.1.20:4455/Share`.
+3. Verbinde dich von deinem Computer aus:
+   - **Mac:** dein Gerat erscheint von selbst in der **Finder-Seitenleiste** unter **Orte** (Netzwerk) - klicke es einfach an und melde dich an. Um dich stattdessen von Hand zu verbinden, wahle **Gehe zu > Mit Server verbinden** (**⌘K**) und gib die Adresse ein.
+   - **Windows:** offne den **Datei-Explorer**, klicke mit der rechten Maustaste auf **Dieser PC** und wahle **Netzlaufwerk verbinden**, gib dann `\\<address>\Share` mit dem Host und dem Freigabenamen vom Teilen-Bildschirm ein (oder tippe die `smb://`-Adresse in die Adressleiste).
+   - **Linux:** wahle in deinem Dateimanager **Mit Server verbinden** und gib die Adresse ein.
+4. Gib Login und Passwort ein, falls du eines festgelegt hast, andernfalls verbinde dich als Gast.
+5. Die Freigabe heisst **Share**. Mit aktivierter **Dateibearbeitung** kannst du Dateien in beide Richtungen kopieren; ist sie deaktiviert, ist sie schreibgeschutzt.
+
+**Verschlusselung aktivieren (empfohlen in nicht vertrauenswurdigem Wi-Fi)**
+
+SMB ist die einzige Everdisk-Verbindung, die verschlusselt werden kann. Um jede Ubertragung mit **SMB3-Verschlusselung (AES)** zu schutzen:
+
+1. Lege unter **Einstellungen > Teilen > Zugriff** einen **Login** und ein **Passwort** fest - verschlusselte Verbindungen konnen nicht anonym sein.
+2. Aktiviere unter **Einstellungen > Teilen** die Option **SMB-Verschlüsselung anfordern**.
+3. **Stoppe und starte** das Teilen erneut, damit die Anderung wirksam wird.
+
+Dein Client muss SMB3 unterstutzen - der Finder auf einem modernen Mac oder **Windows 10 und neuer**. SMB-Verschlusselung ist eine Premium-Funktion.
 
 ## Eine Datei-App verbinden (FTP)
 

@@ -1,14 +1,14 @@
 ---
 title: "Yhdista laitteesi"
 date: 2026-08-20
-description: "Vaiheittaiset ohjeet Everdisk-langattomaan asemaan yhdistamiseen: katso alytelevisiosta DLNAn kautta, avaa tiedostosi missa tahansa verkkoselaimessa, liita laitteesi verkkoasemaksi Finderissa, Windowsissa tai Linuxissa WebDAVin kautta, yhdista tiedostosovelluksia FTP:n kautta ja siirra USB-kaapelilla Maciin ilman Wi-Fia."
+description: "Vaiheittaiset ohjeet Everdisk-langattomaan asemaan yhdistamiseen: katso alytelevisiosta DLNAn kautta, avaa tiedostosi missa tahansa verkkoselaimessa, liita laitteesi verkkoasemaksi Finderissa, Windowsissa tai Linuxissa WebDAVin tai SMB:n kautta (valinnaisella SMB3/AES-salauksella), yhdista tiedostosovelluksia FTP:n kautta ja siirra USB-kaapelilla Maciin ilman Wi-Fia."
 keywords: ["yhdista Everdiskiin", "suoratoisto TV DLNA", "avaa tiedostot selaimessa", "liita verkkoasema Finder", "WebDAV Windows Linux", "FTP tiedostosovellus", "USB-kaapeli siirto Mac", "yhdista iPhone tietokoneeseen", "verkkoasema iPhone"]
 tags: ["everdisk", "guide", "connect"]
 readingTime: 11
 ---
 
 
-Kun napautat **Aloita** [Jakaminen](/docs/guide/everdisk/everdisk-guide-sharing)-naytolla, muut laitteet voivat yhdistya tiedostoihisi neljalla eri tavalla. Valitse tapa, joka sopii laitteelle, jota haluat kayttaa. Kaikissa tapauksissa tarvitsemasi tarkka **osoite** nakyy Jakaminen-nayton **Miten yhdistetaan** -osiossa.
+Kun napautat **Aloita** [Jakaminen](/docs/guide/everdisk/everdisk-guide-sharing)-naytolla, muut laitteet voivat yhdistya tiedostoihisi viidella eri tavalla. Valitse tapa, joka sopii laitteelle, jota haluat kayttaa. Kaikissa tapauksissa tarvitsemasi tarkka **osoite** nakyy Jakaminen-nayton **Miten yhdistetaan** -osiossa.
 
 > Molempien laitteiden on oltava **samassa Wi-Fi-verkossa** - tai Macin tapauksessa yhdistettyna **USB-kaapelilla** (katso viimeinen osio).
 
@@ -71,6 +71,29 @@ Kayta tata saadaksesi laitteesi nakymaan tavallisena levyna Macilla, Windows-PC:
 2. Syota Everdiskissa nakyva WebDAV-osoite.
 
 Se, onko yhteys vain luku vai kaksisuuntainen, riippuu **Tiedostojen muokkaus** -asetuksesta. Kun se on paalla, voit kopioida tiedostoja laitteellesi seka nimetauudelleen tai poistaa niita; kun se on pois paalta, asema on vain luku.
+
+## Yhdista SMB:n kautta (salattu verkkoasema)
+
+SMB on verkkoasema Macille, Windowsille ja Linuxille, joka rakentuu naissa jarjestelmissa jo olevan tiedostojen jakamisen varaan, joten laitteesi nakyy tavallisena verkkoasemana - ja se on ainoa yhteys, jonka voit salata.
+
+1. Varmista kohdassa **Asetukset -> Jakaminen -> Yhteydet**, etta **Tietokone (lisaasetukset)** (SMB-yhteys) on paalla.
+2. Napauta **Aloita** ja merkitse muistiin **SMB**-osoite, joka nayttaa tallaiselta: `smb://192.168.1.20:4455/Share`.
+3. Yhdista tietokoneeltasi:
+   - **Mac:** laitteesi ilmestyy omana kohteenaan **Finderin sivupalkkiin** kohtaan **Sijainnit** (Verkko) - napsauta vain sita ja kirjaudu sisaan. Yhdistaaksesi kasin valitse **Siirry -> Yhdista palvelimeen** (**⌘K**) ja syota osoite.
+   - **Windows:** avaa **Resurssienhallinta**, napsauta hiiren oikealla **Tama tietokone** ja valitse **Lisaa verkkoasema**, syota sitten `\\<address>\Share` kayttaen Jakaminen-naytolta saatavaa isantaa ja jaon nimea (tai kirjoita `smb://`-osoite osoitepalkkiin).
+   - **Linux:** valitse tiedostonhallinnassasi **Yhdista palvelimeen** ja syota osoite.
+4. Syota kayttajatunnus ja salasana, jos asetit sellaisen, tai yhdista vieraana.
+5. Jaon nimi on **Share**. Kun **Tiedostojen muokkaus** on paalla, voit kopioida tiedostoja molempiin suuntiin; kun se on pois paalta, se on vain luku.
+
+**Ota salaus kayttoon (suositeltavaa Wi-Fissa, johon et luota)**
+
+SMB on ainoa Everdisk-yhteys, jonka voi salata. Suojataksesi jokaisen siirron **SMB3-salauksella (AES)**:
+
+1. Aseta kohdassa **Asetukset -> Jakaminen -> Kaytto** **Kayttajatunnus** ja **Salasana** - salatut yhteydet eivat voi olla nimettomia.
+2. Ota kohdassa **Asetukset -> Jakaminen** kayttoon **Vaadi SMB-salaus**.
+3. **Lopeta ja aloita** jakaminen uudelleen, jotta muutos tulee voimaan.
+
+Asiakkaasi on tuettava SMB3:a - Finderin nykyaikaisella Macilla tai **Windows 10:n tai uudemman**. SMB-salaus on Premium-ominaisuus.
 
 ## Yhdista tiedostosovellus (FTP)
 

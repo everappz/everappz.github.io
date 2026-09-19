@@ -24,20 +24,20 @@ Priečinok Dokumenty sa pri zapnutí zdieľania zdieľa štandardne, takže čok
 
 Otvorte ponuku ďalších akcií (•••) v hornej časti priečinka alebo ponuku vedľa jednotlivého súboru a pracujte so svojimi súbormi:
 
-- **New Folder** - vytvorte priečinok na organizáciu súborov.
-- **Rename** - zmeňte názov súboru alebo priečinka.
-- **Move** - premiestnite položky do iného priečinka.
-- **Copy** - skopírujte položky do iného priečinka.
-- **Upload** - odošlite položky do zariadenia, ku ktorému ste pripojení na karte Zariadenia.
-- **Open In** - odovzdajte súbor inej aplikácii cez systémový hárok zdieľania.
-- **Delete** - odstráňte položky. Štandardne odstránené položky idú do obnoviteľného koša; okamžité mazanie môžete zapnúť v Nastaveniach (pozri [Prístup a súkromie](/docs/guide/everdisk/everdisk-guide-access)).
-- **Info** - otvorte obrazovku s informáciami o súbore (pozri nižšie).
+- **Nový priečinok** - vytvorte priečinok na organizáciu súborov.
+- **Premenovať** - zmeňte názov súboru alebo priečinka.
+- **Presunúť** - premiestnite položky do iného priečinka.
+- **Kopírovať** - skopírujte položky do iného priečinka.
+- **Nahrať** - odošlite položky do zariadenia, ku ktorému ste pripojení na karte Zariadenia.
+- **Otvoriť v** - odovzdajte súbor inej aplikácii cez systémový hárok zdieľania.
+- **Odstrániť** - odstráňte položky. Štandardne odstránené položky idú do obnoviteľného koša; okamžité mazanie môžete zapnúť v Nastaveniach (pozri [Prístup a súkromie](/docs/guide/everdisk/everdisk-guide-access)).
+- **Informácie** - otvorte obrazovku s informáciami o súbore (pozri nižšie).
 
 ## Komprimovanie a rozbaľovanie (archivovanie a rozbaľovanie)
 
 Everdisk má archivovanie vstavané - netreba žiadnu ďalšiu aplikáciu.
 
-- **Vytvorenie zipu:** vyberte jednu alebo viacero položiek a potom zvoľte **Archive**. Jednotlivá položka sa zabalí samostatne; viacero položiek sa zlúči do jedného **Archive.zip**.
+- **Vytvorenie zipu:** vyberte jednu alebo viacero položiek a potom zvoľte **Archív**. Jednotlivá položka sa zabalí samostatne; viacero položiek sa zlúči do jedného **Archive.zip**.
 - **Rozbalenie:** ťuknite na súbor **.zip** alebo **.rar** a Everdisk ho rozbalí do aktuálneho priečinka.
 
 Komprimovanie a rozbaľovanie zobrazujú indikátor priebehu, ktorý môžete zrušiť. Keď je nový priečinok alebo archív pripravený, Everdisk sa k nemu posunie a nakrátko ho zvýrazní.
@@ -46,58 +46,58 @@ Komprimovanie a rozbaľovanie zobrazujú indikátor priebehu, ktorý môžete zr
 
 Môžete pracovať aj s priečinkami, ktoré sa nachádzajú inde na vašom zariadení, nielen s vlastným priečinkom Dokumenty aplikácie.
 
-1. V priečinku Dokumenty otvorte ponuku ••• a zvoľte **Connect Folder**.
+1. V priečinku Dokumenty otvorte ponuku ••• a zvoľte **Pripojiť priečinok**.
 2. Vyberte priečinok kdekoľvek na svojom zariadení.
-3. Objaví sa v hornej časti karty Dokumenty s označením **Connected**.
+3. Objaví sa v hornej časti karty Dokumenty s označením **Pripojené**.
 
-Pripojené priečinky umožňujú čítanie i zápis a dajú sa zdieľať cez sieť ako každý iný priečinok. Ak chcete niektorý odstrániť, otvorte jeho **Info** a zvoľte **Disconnect** - týmto sa iba zruší prepojenie; priečinok a jeho súbory zostanú na vašom zariadení.
+Pripojené priečinky umožňujú čítanie i zápis a dajú sa zdieľať cez sieť ako každý iný priečinok. Ak chcete niektorý odstrániť, otvorte jeho **Informácie** a zvoľte **Odpojiť** - týmto sa iba zruší prepojenie; priečinok a jeho súbory zostanú na vašom zariadení.
 
 ## Skenovanie dokumentov do PDF
 
 Everdisk dokáže premeniť papierové dokumenty na prehľadné súbory PDF pomocou fotoaparátu.
 
-1. Na karte Dokumenty otvorte ponuku ••• a zvoľte **Scan Documents**.
+1. Na karte Dokumenty otvorte ponuku ••• a zvoľte **Skenovať dokumenty**.
 2. Namierte fotoaparát na stranu. Everdisk automaticky nájde okraje, stranu narovná a umožní vám nasnímať ďalšie strany.
 3. Keď skončíte, všetky strany sa uložia spolu ako jeden **viacstranový PDF** v aktuálnom priečinku.
 
-Skenovanie vyžaduje zariadenie so skutočným fotoaparátom. PDF potom môžete zdieľať cez sieť alebo ho poslať inej aplikácii cez **Open In**.
+Skenovanie vyžaduje zariadenie so skutočným fotoaparátom. PDF potom môžete zdieľať cez sieť alebo ho poslať inej aplikácii cez **Otvoriť v**.
 
 ## Nástroje PDF
 
-Everdisk obsahuje vstavaný balík **PDF Tools** na prácu so súbormi PDF. Otvorte ponuku ďalších akcií (•••) ktoréhokoľvek PDF - alebo jeho obrazovku **Info** - na karte Dokumenty a ťuknite na **PDF Tools**. Obrazovka zobrazuje náhľad PDF a počet strán a zoskupuje nástroje do troch oblastí. Ak je PDF chránené heslom, Everdisk si najprv vyžiada jeho heslo. Nástroje PDF sú zadarmo.
+Everdisk obsahuje vstavaný balík **Nástroje PDF** na prácu so súbormi PDF. Otvorte ponuku ďalších akcií (•••) ktoréhokoľvek PDF - alebo jeho obrazovku **Informácie** - na karte Dokumenty a ťuknite na **Nástroje PDF**. Obrazovka zobrazuje náhľad PDF a počet strán a zoskupuje nástroje do troch oblastí. Ak je PDF chránené heslom, Everdisk si najprv vyžiada jeho heslo. Nástroje PDF sú zadarmo.
 
 **Optimalizácia**
 
-- **Compress** - zmenšite PDF. Everdisk pre každú možnosť zobrazuje aktuálnu veľkosť a odhadovanú výslednú veľkosť. **Standard** zachová text vybrateľný a znova komprimuje len obrázky; **High**, **Medium**, **Small** a **Smallest** znova vykreslia strany ako obrázky v nižšom rozlíšení (najvhodnejšie pre skeny a fotografie, ale text už nebude vybrateľný).
-- **Text Recognition (OCR)** - rozpoznajte text v PDF. Zvoľte **Searchable PDF**, aby sa pridala skrytá textová vrstva a v dokumente sa dalo vyhľadávať a text vyberať (strany vyzerajú rovnako), alebo **Text File (.txt)**, aby sa vedľa PDF uložil len rozpoznaný text.
-- **Flatten** - natrvalo vpáľte anotácie a údaje z polí formulára do strany, aby sa už nedali upravovať. Týmto sa tiež finalizujú podpisy, zvýraznenia a pečiatky.
+- **Komprimovať** - zmenšite PDF. Everdisk pre každú možnosť zobrazuje aktuálnu veľkosť a odhadovanú výslednú veľkosť. **Štandardná** zachová text vybrateľný a znova komprimuje len obrázky; **Vysoká**, **Stredná**, **Malá** a **Najmenšia** znova vykreslia strany ako obrázky v nižšom rozlíšení (najvhodnejšie pre skeny a fotografie, ale text už nebude vybrateľný).
+- **Rozpoznávanie textu (OCR)** - rozpoznajte text v PDF. Zvoľte **Prehľadávateľné PDF**, aby sa pridala skrytá textová vrstva a v dokumente sa dalo vyhľadávať a text vyberať (strany vyzerajú rovnako), alebo **Textový súbor (.txt)**, aby sa vedľa PDF uložil len rozpoznaný text.
+- **Zlúčiť** - natrvalo vpáľte anotácie a údaje z polí formulára do strany, aby sa už nedali upravovať. Týmto sa tiež finalizujú podpisy, zvýraznenia a pečiatky.
 
 **Zabezpečenie**
 
-- **Password** - nastavte, zmeňte alebo odstráňte heslo potrebné na otvorenie PDF. Odstránenie alebo zmena vyžaduje aktuálne heslo.
-- **Permissions** - prezrite si, čo PDF umožňuje, napríklad kopírovanie, tlač, komentovanie a vypĺňanie formulárov. Toto je len zobrazenie na čítanie; na ochranu súboru použite nástroj Password.
+- **Heslo** - nastavte, zmeňte alebo odstráňte heslo potrebné na otvorenie PDF. Odstránenie alebo zmena vyžaduje aktuálne heslo.
+- **Povolenia** - prezrite si, čo PDF umožňuje, napríklad kopírovanie, tlač, komentovanie a vypĺňanie formulárov. Toto je len zobrazenie na čítanie; na ochranu súboru použite nástroj Heslo.
 
 **Metadáta**
 
-- **Edit Metadata** - zmeňte alebo vymažte názov, autora, predmet, tvorcu, producenta a kľúčové slová PDF, prípadne odstráňte všetky metadáta naraz. Dátumy vytvorenia a úpravy sú zobrazené pre informáciu.
+- **Upraviť metadáta** - zmeňte alebo vymažte názov, autora, predmet, tvorcu, producenta a kľúčové slová PDF, prípadne odstráňte všetky metadáta naraz. Dátumy vytvorenia a úpravy sú zobrazené pre informáciu.
 
 ## Anotovanie a podpisovanie PDF a fotografií
 
-Ak chcete anotovať PDF (alebo fotografiu), stačí naň **ťuknúť** na karte Dokumenty, otvoriť ho vo vstavanom prehliadači a potom otvoriť nástroje **Markup**. Prstom môžete **kresliť, zvýrazňovať, pridávať text a tvary a pridať podpis** a vaše zmeny sa uložia späť do súboru. Ak neskôr chcete tieto značky uzamknúť, aby sa nedali upravovať, spustite na súbore **PDF Tools → Flatten**.
+Ak chcete anotovať PDF (alebo fotografiu), stačí naň **ťuknúť** na karte Dokumenty, otvoriť ho vo vstavanom prehliadači a potom otvoriť nástroje **Anotácie**. Prstom môžete **kresliť, zvýrazňovať, pridávať text a tvary a pridať podpis** a vaše zmeny sa uložia späť do súboru. Ak neskôr chcete tieto značky uzamknúť, aby sa nedali upravovať, spustite na súbore **Nástroje PDF → Zlúčiť**.
 
 ## Výber viacerých položiek naraz
 
-Zapnite **režim výberu** (Vybrať) a pracujte s viacerými položkami naraz. Vedľa každej položky sa objavia zaškrtávacie políčka a panel v dolnej časti ponúka **Move**, **Copy**, **Upload**, **Archive**, **Open In** a **Delete** pre všetko, čo ste vybrali. Pomocou **Select All** alebo **Deselect All** si prácu urýchlite.
+Zapnite **režim výberu** (Vybrať) a pracujte s viacerými položkami naraz. Vedľa každej položky sa objavia zaškrtávacie políčka a panel v dolnej časti ponúka **Presunúť**, **Kopírovať**, **Nahrať**, **Archív**, **Otvoriť v** a **Odstrániť** pre všetko, čo ste vybrali. Pomocou **Vybrať všetko** alebo **Zrušiť výber všetkého** si prácu urýchlite.
 
 ## Informácie o súbore
 
-Obrazovka **Info** ktoréhokoľvek súboru zobrazuje:
+Obrazovka **Informácie** ktoréhokoľvek súboru zobrazuje:
 
 - náhľad,
 - úplné **umiestnenie** (cestu) na vašom zariadení,
 - veľkosť, dátumy vytvorenia a úpravy a podrobné mediálne atribúty,
-- pri fotografiách a videách s údajmi o polohe **mapu so značkou** a tlačidlo **Open in Maps**,
-- tlačidlo **Share**.
+- pri fotografiách a videách s údajmi o polohe **mapu so značkou** a tlačidlo **Otvoriť v Mapách**,
+- tlačidlo **Zdieľať**.
 
 ## Ďalšie kroky
 

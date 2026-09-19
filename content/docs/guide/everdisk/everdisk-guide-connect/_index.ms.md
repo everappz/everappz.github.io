@@ -1,14 +1,14 @@
 ---
 title: "Sambung Peranti Anda"
 date: 2026-08-20
-description: "Arahan langkah demi langkah untuk menyambung ke pemacu tanpa wayar Everdisk anda: tonton pada TV pintar menerusi DLNA, buka fail anda dalam mana-mana pelayar web, lekapkan peranti anda sebagai pemacu rangkaian dalam Finder, Windows atau Linux menerusi WebDAV, sambung aplikasi fail menerusi FTP, dan pindahkan menerusi kabel USB ke Mac tanpa Wi-Fi."
+description: "Arahan langkah demi langkah untuk menyambung ke pemacu tanpa wayar Everdisk anda: tonton pada TV pintar menerusi DLNA, buka fail anda dalam mana-mana pelayar web, lekapkan peranti anda sebagai pemacu rangkaian dalam Finder, Windows atau Linux menerusi WebDAV atau SMB (dengan penyulitan SMB3/AES pilihan), sambung aplikasi fail menerusi FTP, dan pindahkan menerusi kabel USB ke Mac tanpa Wi-Fi."
 keywords: ["sambung ke Everdisk", "strim ke TV DLNA", "buka fail dalam pelayar", "lekap pemacu rangkaian Finder", "WebDAV Windows Linux", "aplikasi fail FTP", "pemindahan kabel USB Mac", "sambung iPhone ke komputer", "pemacu rangkaian iPhone"]
 tags: ["everdisk", "panduan", "sambung"]
 readingTime: 11
 ---
 
 
-Sebaik sahaja anda ketik **Mula** pada skrin [Perkongsian](/docs/guide/everdisk/everdisk-guide-sharing), peranti lain boleh menyambung ke fail anda dalam empat cara yang berbeza. Pilih kaedah yang sepadan dengan peranti yang ingin anda gunakan. Dalam setiap keadaan, **alamat** tepat yang anda perlukan dipaparkan dalam bahagian **Cara Menyambung** pada skrin Perkongsian.
+Sebaik sahaja anda ketik **Mula** pada skrin [Perkongsian](/docs/guide/everdisk/everdisk-guide-sharing), peranti lain boleh menyambung ke fail anda dalam lima cara yang berbeza. Pilih kaedah yang sepadan dengan peranti yang ingin anda gunakan. Dalam setiap keadaan, **alamat** tepat yang anda perlukan dipaparkan dalam bahagian **Cara Menyambung** pada skrin Perkongsian.
 
 > Kedua-dua peranti mesti berada pada **rangkaian Wi-Fi yang sama** - atau, untuk Mac, disambung dengan **kabel USB** (lihat bahagian terakhir).
 
@@ -71,6 +71,29 @@ Gunakan cara ini untuk menjadikan peranti anda muncul sebagai cakera biasa pada 
 2. Masukkan alamat WebDAV yang dipaparkan dalam Everdisk.
 
 Sama ada sambungan itu baca sahaja atau dua hala bergantung pada tetapan **Penyuntingan Fail**. Apabila ia dihidupkan, anda boleh menyalin fail ke peranti anda serta menamakan semula atau memadamnya; apabila ia dimatikan, pemacu itu adalah baca sahaja.
+
+## Sambung menerusi SMB (pemacu rangkaian tersulit)
+
+SMB ialah pemacu rangkaian untuk Mac, Windows dan Linux, dibina atas perkongsian fail yang sedia ada dalam sistem tersebut, jadi peranti anda muncul sebagai pemacu rangkaian biasa - dan ia satu-satunya sambungan yang boleh anda sulitkan.
+
+1. Dalam **Tetapan -> Perkongsian -> Sambungan**, pastikan **Komputer (Lanjutan)** (sambungan SMB) dihidupkan.
+2. Ketik **Mula** dan catatkan alamat **SMB**, yang kelihatan seperti `smb://192.168.1.20:4455/Share`.
+3. Sambung dari komputer anda:
+   - **Mac:** peranti anda muncul dengan sendirinya dalam **bar sisi Finder** di bawah **Locations** (Network) - klik sahaja padanya dan log masuk. Untuk menyambung secara manual, pilih **Go -> Connect to Server** (**⌘K**) dan masukkan alamat itu.
+   - **Windows:** buka **File Explorer**, klik kanan **This PC** dan pilih **Map network drive**, kemudian masukkan `\\<address>\Share` menggunakan hos dan nama kongsi daripada skrin Perkongsian (atau taip alamat `smb://` dalam bar alamat).
+   - **Linux:** dalam pengurus fail anda pilih **Connect to Server** dan masukkan alamat itu.
+4. Masukkan log masuk dan kata laluan jika anda menetapkannya, jika tidak sambung sebagai tetamu.
+5. Kongsi itu dinamakan **Share**. Dengan **Penyuntingan Fail** dihidupkan anda boleh menyalin fail ke dua-dua arah; dengan ia dimatikan ia baca sahaja.
+
+**Hidupkan penyulitan (disyorkan pada Wi-Fi yang tidak dipercayai)**
+
+SMB ialah satu-satunya sambungan Everdisk yang boleh disulitkan. Untuk melindungi setiap pemindahan dengan **penyulitan SMB3 (AES)**:
+
+1. Dalam **Tetapan -> Perkongsian -> Akses**, tetapkan **Log Masuk** dan **Kata Laluan** - sambungan yang disulitkan tidak boleh tanpa nama.
+2. Dalam **Tetapan -> Perkongsian**, hidupkan **Wajibkan penyulitan SMB**.
+3. **Berhenti dan Mula** berkongsi semula supaya perubahan itu berkuat kuasa.
+
+Klien anda mesti menyokong SMB3 - Finder pada Mac moden, atau **Windows 10 dan lebih baharu**. Penyulitan SMB ialah ciri Premium.
 
 ## Sambung aplikasi fail (FTP)
 

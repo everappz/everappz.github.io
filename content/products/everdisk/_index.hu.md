@@ -2,12 +2,12 @@
 date: '2026-08-20T12:00:00+00:00'
 title: 'Everdisk - Alakítsd iPhone-odat és iPad-edet vezeték nélküli meghajtóvá'
 layout: hextra-home
-description: "Alakítsd iPhone-odat vagy iPad-edet vezeték nélküli meghajtóvá, és oszd meg a fájlokat, fényképeket, videókat és zenét bármilyen eszközzel DLNA, HTTP, WebDAV és FTP protokollon keresztül. Nincs szükség felhőre."
-keywords: ["Everdisk", "vezeték nélküli meghajtó iPhone", "fájlok megosztása iPhone", "WebDAV szerver iOS", "DLNA szerver iPhone", "FTP szerver iOS", "streamelés TV-re iPhone-ról", "hálózati meghajtó iPhone", "USB fájlátvitel iPhone", "fájlkezelő iOS", "dokumentumok szkennelése PDF-be", "fényképek megosztása hálózaton"]
-tags: ["Everdisk", "vezeték nélküli meghajtó", "fájlmegosztás", "DLNA", "WebDAV", "FTP", "SFTP", "hálózati meghajtó", "iPhone alkalmazások", "iPad alkalmazások", "Mac alkalmazások", "fájlkezelő", "médiaszerver"]
+description: "Alakítsd iPhone-odat vagy iPad-edet vezeték nélküli meghajtóvá, és oszd meg a fájlokat, fényképeket, videókat és zenét bármilyen eszközzel DLNA, HTTP, WebDAV, SMB és FTP protokollon keresztül. Csatlakoztasd hálózati meghajtóként opcionális SMB-titkosítással. Nincs szükség felhőre."
+keywords: ["Everdisk", "vezeték nélküli meghajtó iPhone", "fájlok megosztása iPhone", "WebDAV szerver iOS", "SMB szerver iPhone", "SMB-titkosítás iOS", "DLNA szerver iPhone", "FTP szerver iOS", "streamelés TV-re iPhone-ról", "hálózati meghajtó iPhone", "USB fájlátvitel iPhone", "fájlkezelő iOS", "dokumentumok szkennelése PDF-be", "fényképek megosztása hálózaton"]
+tags: ["Everdisk", "vezeték nélküli meghajtó", "fájlmegosztás", "DLNA", "WebDAV", "SMB", "FTP", "SFTP", "hálózati meghajtó", "iPhone alkalmazások", "iPad alkalmazások", "Mac alkalmazások", "fájlkezelő", "médiaszerver"]
 appStoreUrl: "https://apps.apple.com/app/apple-store/id6751851132?pt=95781850&ct=everappzcom&mt=8"
 appStoreId: "6751851132"
-features: "Vezeték nélküli meghajtó Wi-Fi és USB felett, Négy szerver egyszerre (DLNA, HTTP, WebDAV, FTP), Streamelés smart TV-kre DLNA felett, Megnyitás bármelyik böngészőben, Csatlakoztatás hálózati meghajtóként Finderben/Windowsban/Linuxon, Csatlakozás DLNA/WebDAV/FTP/SFTP szerverekhez, Beépített fájlkezelő zip/kicsomagolás funkcióval, Dokumentumok szkennelése PDF-be, PDF-ek és fényképek jelölése és aláírása, PDF eszközök (tömörítés, OCR szövegfelismerés, jelszavas védelem, engedélyek, metaadatok, laposítás), Fényképgaléria és médialejátszó, A teljes fénykép- és zenetár megosztása, Jelszavas védelem és eszközök letiltása"
+features: "Vezeték nélküli meghajtó Wi-Fi és USB felett, Öt szerver egyszerre (DLNA, HTTP, WebDAV, SMB, FTP), Streamelés smart TV-kre DLNA felett, Megnyitás bármelyik böngészőben, Csatlakoztatás hálózati meghajtóként Finderben/Windowsban/Linuxon, SMB hálózati meghajtó opcionális SMB3-titkosítással (AES), Csatlakozás DLNA/WebDAV/FTP/SFTP/SMB szerverekhez, Beépített fájlkezelő zip/kicsomagolás funkcióval, Dokumentumok szkennelése PDF-be, PDF-ek és fényképek jelölése és aláírása, PDF eszközök (tömörítés, OCR szövegfelismerés, jelszavas védelem, engedélyek, metaadatok, laposítás), Fényképgaléria és médialejátszó, A teljes fénykép- és zenetár megosztása, Jelszavas védelem és eszközök letiltása"
 screenshots:
   - "https://everappz.com/products/everdisk/screenshots/browser_access.png"
   - "https://everappz.com/products/everdisk/screenshots/connect_to_servers.png"
@@ -16,7 +16,7 @@ screenshots:
 ---
 
 {{% sr-only %}}
-Az Everdisk egy vezeték nélküli meghajtó alkalmazás iPhone-ra és iPad-re, amelyet az Everappz fejlesztett. A készülékedet olyan központtá alakítja, amely megosztja a fájlokat, fényképeket, videókat és zenét bármivel a helyi hálózatodon, fiókok, felhő és a másik oldalon telepítendő további alkalmazás nélkül. Az alkalmazás négy szervert futtat egyszerre - DLNA a smart TV-khez és médialejátszókhoz, HTTP bármelyik böngészőhöz, WebDAV a Finderhez, Windowshoz és Linuxhoz, és FTP a fájlalkalmazásokhoz és a haladó felhasználókhoz -, így minden eszköz úgy csatlakozik, ahogy szereti. Streamelhetsz fényképeket, videókat és zenét közvetlenül smart TV-kre DLNA felett előnézeti bélyegképekkel, megoszthatsz egy egyszerű linket, amely bármelyik böngészőben megnyílik a fájljaid böngészéséhez és letöltéséhez, vagy csatlakoztathatod a készülékedet hálózati meghajtóként és mindkét irányba húzhatsz fájlokat. Ha nincs Wi-Fi, USB kábellel csatlakozhatsz Machez, és a Wi-Fi-nél gyorsabban mozgathatsz fájlokat, akár repülőn vagy lezárt hálózaton is. Az Everdisk emellett csatlakozik a hálózatodon lévő DLNA, WebDAV, FTP és SFTP szerverekhez is, hogy böngészd, streameld és letöltsd a fájljaikat. A beépített fájlkezelővel böngészhetsz listában vagy rácsban, létrehozhatsz mappákat, átnevezhetsz, áthelyezhetsz, másolhatsz, becsomagolhatsz és kicsomagolhatsz, valamint törölhetsz. Papíralapú dokumentumokat szkennelhetsz tiszta PDF-ekké, megnyithatsz egy PDF-et vagy fényképet és megjelölheted a beépített szerkesztővel - rajzolhatsz, kiemelhetsz, szöveget és aláírást adhatsz hozzá, a módosításokat pedig a rendszer visszamenti a fájlba -, és egy teljes PDF eszközkészletet használhatsz a fájlok tömörítéséhez, a szöveg felismeréséhez (OCR) kereshető PDF-be, egy nyitási jelszó hozzáadásához vagy eltávolításához, az engedélyek áttekintéséhez, a dokumentum metaadatainak szerkesztéséhez, valamint a jegyzetek és űrlapmezők laposításához. Lejátszhatsz hangot egy mini lejátszóban és nézhetsz videókat teljes képernyőn, valamint megoszthatod a teljes fénykép- és zenetáradat a hálózaton eredeti minőségben vagy kompatibilisebb formátumban. Minden a helyi hálózatodon marad és soha nem érinti az internetet, az elérést pedig bejelentkezéssel és jelszóval védheted, és egyetlen érintéssel bármely eszközt letilthatsz. Az Everdisk ingyenesen letölthető az App Store-ból, opcionális egyszeri Premium Lifetime vásárlással.
+Az Everdisk egy vezeték nélküli meghajtó alkalmazás iPhone-ra és iPad-re, amelyet az Everappz fejlesztett. A készülékedet olyan központtá alakítja, amely megosztja a fájlokat, fényképeket, videókat és zenét bármivel a helyi hálózatodon, fiókok, felhő és a másik oldalon telepítendő további alkalmazás nélkül. Az alkalmazás öt szervert futtat egyszerre - DLNA a smart TV-khez és médialejátszókhoz, HTTP bármelyik böngészőhöz, WebDAV a Finderhez, Windowshoz és Linuxhoz, SMB egy hálózati meghajtóhoz Macen, Windowson és Linuxon (opcionális SMB3-titkosítással), és FTP a fájlalkalmazásokhoz és a haladó felhasználókhoz -, így minden eszköz úgy csatlakozik, ahogy szereti. Streamelhetsz fényképeket, videókat és zenét közvetlenül smart TV-kre DLNA felett előnézeti bélyegképekkel, megoszthatsz egy egyszerű linket, amely bármelyik böngészőben megnyílik a fájljaid böngészéséhez és letöltéséhez, vagy csatlakoztathatod a készülékedet hálózati meghajtóként és mindkét irányba húzhatsz fájlokat. SMB felett is csatlakoztathatod, ami egy hálózati meghajtó Machez, Windowshoz és Linuxhoz, amely Macen magától megjelenik a Finder oldalsávjában, és bekapcsolhatod az SMB3-titkosítást (AES), így senki más az azonos hálózaton nem tudja elolvasni az átviteleidet. Ha nincs Wi-Fi, USB kábellel csatlakozhatsz Machez, és a Wi-Fi-nél gyorsabban mozgathatsz fájlokat, akár repülőn vagy lezárt hálózaton is. Az Everdisk emellett csatlakozik a hálózatodon lévő DLNA, WebDAV, FTP, SFTP és SMB szerverekhez is - beleértve a Maceket, Windows PC-ket, Linux gépeket és NAS-meghajtókat -, hogy böngészd, streameld és letöltsd a fájljaikat. A beépített fájlkezelővel böngészhetsz listában vagy rácsban, létrehozhatsz mappákat, átnevezhetsz, áthelyezhetsz, másolhatsz, becsomagolhatsz és kicsomagolhatsz, valamint törölhetsz. Papíralapú dokumentumokat szkennelhetsz tiszta PDF-ekké, megnyithatsz egy PDF-et vagy fényképet és megjelölheted a beépített szerkesztővel - rajzolhatsz, kiemelhetsz, szöveget és aláírást adhatsz hozzá, a módosításokat pedig a rendszer visszamenti a fájlba -, és egy teljes PDF eszközkészletet használhatsz a fájlok tömörítéséhez, a szöveg felismeréséhez (OCR) kereshető PDF-be, egy nyitási jelszó hozzáadásához vagy eltávolításához, az engedélyek áttekintéséhez, a dokumentum metaadatainak szerkesztéséhez, valamint a jegyzetek és űrlapmezők laposításához. Lejátszhatsz hangot egy mini lejátszóban és nézhetsz videókat teljes képernyőn, valamint megoszthatod a teljes fénykép- és zenetáradat a hálózaton eredeti minőségben vagy kompatibilisebb formátumban. Minden a helyi hálózatodon marad és soha nem érinti az internetet, az elérést pedig bejelentkezéssel és jelszóval védheted, és egyetlen érintéssel bármely eszközt letilthatsz. Az Everdisk ingyenesen letölthető az App Store-ból, opcionális egyszeri Premium Lifetime vásárlással.
 {{% /sr-only %}}
 
 <!-- <body class="hx:bg-transparent" style="background: radial-gradient(ellipse at 50% 80%, rgba(59,130,246,0.05), hsla(0,0%,100%,0));"> -->
@@ -56,9 +56,9 @@ Alakítsd iPhone-odat vagy iPad-edet vezeték nélküli meghajtóvá&nbsp;<br cl
 
 <div class="hx:mb-6">
 {{< hextra/hero-paragraph >}}
-• Érintsd meg a Start gombot és ossz meg négyféleképpen egyszerre: DLNA, HTTP, WebDAV és FTP  
+• Érintsd meg a Start gombot és ossz meg ötféleképpen egyszerre: DLNA, HTTP, WebDAV, SMB és FTP  
 • Streamelj fényképeket, videókat és zenét közvetlenül smart TV-kre DLNA felett  
-• Csatlakoztasd a készülékedet hálózati meghajtóként Finderben, Windowsban vagy Linuxon  
+• Csatlakoztasd a készülékedet hálózati meghajtóként Finderben, Windowsban vagy Linuxon - opcionális SMB-titkosítással  
 • Nincs Wi-Fi? Mozgass fájlokat USB kábelen keresztül, gyorsabban mint vezeték nélkül  
 {{< /hextra/hero-paragraph >}}
 </div>
@@ -82,7 +82,7 @@ Alakítsd iPhone-odat vagy iPad-edet vezeték nélküli meghajtóvá&nbsp;<br cl
 
   {{< hextra/feature-card
     title="A készüléked meghajtóvá válik"
-    subtitle="Érintsd meg a Start gombot és az iPhone-od vagy iPad-ed vezeték nélküli meghajtóvá alakul. Az Everdisk négy szervert futtat egyszerre - DLNA, HTTP, WebDAV és FTP -, így a smart TV-k, a számítógépek, a böngészők és a fájlalkalmazások mindegyike úgy csatlakozik, ahogy szereti. Nincsenek fiókok, nincs felhő, és nincs semmi telepítendő a másik oldalon."
+    subtitle="Érintsd meg a Start gombot és az iPhone-od vagy iPad-ed vezeték nélküli meghajtóvá alakul. Az Everdisk öt szervert futtat egyszerre - DLNA, HTTP, WebDAV, SMB és FTP -, így a smart TV-k, a számítógépek, a böngészők és a fájlalkalmazások mindegyike úgy csatlakozik, ahogy szereti. Nincsenek fiókok, nincs felhő, és nincs semmi telepítendő a másik oldalon."
     icon="server"
     style="background: radial-gradient(ellipse at 50% 80%, rgba(34,197,94,0.15), hsla(0,0%,100%,0));"
   >}}
@@ -109,6 +109,13 @@ Alakítsd iPhone-odat vagy iPad-edet vezeték nélküli meghajtóvá&nbsp;<br cl
   >}}
 
   {{< hextra/feature-card
+    title="Titkosított SMB megosztás"
+    subtitle="Csatlakozz SMB-n keresztül, ami egy hálózati meghajtó Machez, Windowshoz és Linuxhoz - Macen magától megjelenik a Finder oldalsávjában. Ez az egyetlen kapcsolat, amelyet titkosíthatsz: kapcsold be az SMB3-titkosítást (AES) egy bejelentkezési névvel és jelszóval, így senki más a hálózaton nem tudja elolvasni a fájljaidat."
+    icon="lock-closed"
+    style="background: radial-gradient(ellipse at 50% 80%, rgba(99,102,241,0.15), hsla(0,0%,100%,0));"
+  >}}
+
+  {{< hextra/feature-card
     title="Nincs Wi-Fi? Használd a kábelt"
     subtitle="Csatlakoztasd a készülékedet egy Machez ugyanazzal az USB kábellel, amellyel töltöd. A fájlok egyenesen a kábelen keresztül mozognak, gyorsabban mint a Wi-Fi, és tovább működik repülőn, szállodában, vagy bármely lezárt hálózaton, ahol a Wi-Fi le van tiltva."
     icon="lightning-bolt"
@@ -117,7 +124,7 @@ Alakítsd iPhone-odat vagy iPad-edet vezeték nélküli meghajtóvá&nbsp;<br cl
 
   {{< hextra/feature-card
     title="Csatlakozás más eszközökhöz"
-    subtitle="Keresd meg és csatlakozz a hálózatodon lévő DLNA, WebDAV, FTP és SFTP szerverekhez. Böngészd a mappáikat, streamelj hangot és videót, tölts le fájlokat, és hozz létre mappákat, tölts fel, nevezz át, helyezz át vagy törölj, amikor a szerver engedi."
+    subtitle="Keresd meg és csatlakozz a hálózatodon lévő DLNA, WebDAV, FTP, SFTP és SMB szerverekhez - Macekhez, Windows PC-khez, Linux gépekhez és NAS-meghajtókhoz. Böngészd a mappáikat, streamelj hangot és videót, tölts le fájlokat, és hozz létre mappákat, tölts fel, nevezz át, helyezz át vagy törölj, amikor a szerver engedi."
     icon="cloud-download"
     style="background: radial-gradient(ellipse at 50% 80%, rgba(6,182,212,0.15), hsla(0,0%,100%,0));"
   >}}
@@ -153,7 +160,7 @@ Alakítsd iPhone-odat vagy iPad-edet vezeték nélküli meghajtóvá&nbsp;<br cl
     title="Csatlakozás szerverekhez" 
     method="Fill"
     options="1030x400 q82 webp Center"
-    subtitle="Fedezd fel és csatlakozz a hálózatodon lévő DLNA, WebDAV, FTP és SFTP szerverekhez, hogy böngészd, streameld és letöltsd a fájljaikat." 
+    subtitle="Fedezd fel és csatlakozz a hálózatodon lévő DLNA, WebDAV, FTP, SFTP és SMB szerverekhez, hogy böngészd, streameld és letöltsd a fájljaikat." 
   >}}
 
   {{< feature-card 
@@ -208,7 +215,7 @@ Alakítsd iPhone-odat vagy iPad-edet vezeték nélküli meghajtóvá&nbsp;<br cl
 
 {{< cards >}}
 
-  {{< feature-card title="Négy szerver egyszerre" subtitle="Érintsd meg a Start gombot és ossz meg a fájljaidat négyféleképpen egyszerre: DLNA a TV-khez és médialejátszókhoz, HTTP bármelyik böngészőhöz, WebDAV a Finderhez, Windowshoz és Linuxhoz, és FTP a fájlalkalmazásokhoz és haladó felhasználókhoz." icon="wifi" >}}
+  {{< feature-card title="Öt szerver egyszerre" subtitle="Érintsd meg a Start gombot és ossz meg a fájljaidat ötféleképpen egyszerre: DLNA a TV-khez és médialejátszókhoz, HTTP bármelyik böngészőhöz, WebDAV a Finderhez, Windowshoz és Linuxhoz, SMB egy hálózati meghajtóhoz Macen, Windowson és Linuxon, és FTP a fájlalkalmazásokhoz és haladó felhasználókhoz." icon="wifi" >}}
 
   {{< feature-card title="Streamelés smart TV-kre" subtitle="Küldj fényképeket, videókat és zenét közvetlenül smart TV-kre és médialejátszókra DLNA felett. A tárad magától megjelenik a TV-n előnézeti bélyegképekkel, készen a nagy képernyőre." icon="desktop-computer" >}}
 
@@ -216,9 +223,11 @@ Alakítsd iPhone-odat vagy iPad-edet vezeték nélküli meghajtóvá&nbsp;<br cl
 
   {{< feature-card title="WebDAV hálózati meghajtó" subtitle="Csatlakozz a Mac Finderéből, Windowsból vagy Linuxról WebDAV felett és a készüléked egy normál hálózati lemezként jelenik meg. Fogd és vidd a fájlokat mindkét irányba." icon="folder" >}}
 
+  {{< feature-card title="Titkosított SMB meghajtó" subtitle="Csatlakoztasd a készülékedet SMB felett, ami egy hálózati meghajtó Machez, Windowshoz és Linuxhoz - Macen magától megjelenik a Finder oldalsávjában. Ez az egyetlen kapcsolat, amely titkosítható: kapcsold be az SMB3-titkosítást (AES) egy bejelentkezési névvel és jelszóval, hogy minden átvitel privát maradjon." icon="lock-closed" >}}
+
   {{< feature-card title="Átvitel USB-n keresztül" subtitle="Csatlakoztasd egy Machez a töltőkábeleddel és mozgass fájlokat egyenesen a kábelen keresztül, gyorsabban mint a Wi-Fi. Tovább működik repülőn, szállodában, vagy bármely lezárt hálózaton." icon="lightning-bolt" >}}
 
-  {{< feature-card title="Csatlakozás DLNA, WebDAV, FTP és SFTP szerverekhez" subtitle="Keresd meg és csatlakozz a hálózatodon lévő szerverekhez, böngészd a mappáikat, streamelj hangot és videót, tölts le fájlokat, és hozz létre, tölts fel, nevezz át, helyezz át vagy törölj, amikor engedélyezett." icon="server" >}}
+  {{< feature-card title="Csatlakozás DLNA, WebDAV, FTP, SFTP és SMB szerverekhez" subtitle="Keresd meg és csatlakozz a hálózatodon lévő szerverekhez és NAS-meghajtókhoz, böngészd a mappáikat, streamelj hangot és videót, tölts le fájlokat, és hozz létre, tölts fel, nevezz át, helyezz át vagy törölj, amikor engedélyezett." icon="server" >}}
 
   {{< feature-card title="Beépített fájlkezelő" subtitle="Egy teljes fájlkezelő mindenhez a készülékeden. Böngéssz listában vagy rácsban, hozz létre mappákat, nevezz át, helyezz át, másolj és törölj, és csatlakoztass mappákat a készüléked bármely részéről." icon="view-grid" >}}
 
@@ -283,11 +292,11 @@ Alakítsd iPhone-odat vagy iPad-edet vezeték nélküli meghajtóvá&nbsp;<br cl
     title="Ingyenes"
     class="pricing-card pricing-free"
     subtitle=`<span class='pricing-details'>• Alakítsd a készülékedet vezeték nélküli meghajtóvá<br />
-• Négy szerver egyszerre: DLNA, HTTP, WebDAV, FTP<br />
+• Öt szerver egyszerre: DLNA, HTTP, WebDAV, SMB, FTP<br />
 • Streamelés smart TV-kre, böngészőkre és számítógépekre<br />
 • Csatlakoztatás hálózati meghajtóként és átvitel USB felett<br />
 • A teljes fénykép- és zenetárad megosztása<br />
-• Csatlakozás DLNA, WebDAV, FTP és SFTP szerverekhez<br />
+• Csatlakozás DLNA, WebDAV, FTP, SFTP és SMB szerverekhez<br />
 • Fájlkezelő becsomagolással és kicsomagolással<br />
 • Dokumentumok szkennelése PDF-be és teljes PDF eszközök<br />
 • PDF-ek és fényképek jelölése és aláírása<br />
@@ -307,7 +316,8 @@ Alakítsd iPhone-odat vagy iPad-edet vezeték nélküli meghajtóvá&nbsp;<br cl
 • Korlátlan megosztott mappa (több mint 5)<br />
 • Korlátlan mentett kapcsolat (több mint 10)<br />
 • Fénykép- és videóátalakítás kompatibilis formátumba vagy kisebb méretbe<br />
-• Egyéni HTTP, WebDAV és FTP portok<br />
+• SMB3-titkosítás (AES) a privát, biztonságos megosztásért<br />
+• Egyéni HTTP, WebDAV, SMB és FTP portok<br />
 • Automatikus megosztásindítás az alkalmazás megnyitásakor<br />
 • Eszköz testreszabása: név, avatar ikon, színátmenet vagy fénykép<br />
 • Egyszeri vásárlás - egyszer terhelve, soha nem újul meg</span><br /><br />
@@ -344,24 +354,25 @@ Az Everdisk vezeték nélküli meghajtóvá és egy központtá alakítja az iPh
 Megoszthatod a fájljaidat, fényképeidet, videóidat és zenédet bármivel a hálózatodon, böngészhetsz és streamelhetsz más szerverekről, és mindent kezelhetsz közvetlenül a készülékeden.<br>
 Nincsenek fiókok, nincs felhő, és nincs semmi telepítendő a másik oldalon - csak érintsd meg a Start gombot és készen állsz.<br><br>
 
-Az alkalmazás négy szervert futtat egyszerre, így minden eszköz úgy csatlakozik, ahogy szereti: smart TV-k DLNA felett, számítógépek és böngészők HTTP felett, Finder, Windows és Linux WebDAV felett, és fájlalkalmazások FTP felett.
+Az alkalmazás öt szervert futtat egyszerre, így minden eszköz úgy csatlakozik, ahogy szereti: smart TV-k DLNA felett, számítógépek és böngészők HTTP felett, Finder, Windows és Linux WebDAV felett, egy hálózati meghajtó SMB felett (opcionális titkosítással), és fájlalkalmazások FTP felett.
 {{% /details %}}
 
 {{% details title="Hogyan működik az Everdisk?" closed="true" %}}
-Amikor megérinted a Start gombot, az Everdisk elkezdi megosztani a kiválasztott tartalmat és négy szervert futtat egyszerre, hogy a különböző eszközök úgy csatlakozhassanak, ahogy szeretik.<br><br>
+Amikor megérinted a Start gombot, az Everdisk elkezdi megosztani a kiválasztott tartalmat és öt szervert futtat egyszerre, hogy a különböző eszközök úgy csatlakozhassanak, ahogy szeretik.<br><br>
 
 - A <strong>DLNA</strong> lehetővé teszi, hogy a smart TV-k és médialejátszók automatikusan megtalálják a fényképeidet, videóidat és zenédet, és előnézeti bélyegképekkel megjelenítsék őket.<br>
 - A <strong>HTTP</strong> mindenkinek ad egy egyszerű linket, amelyet megnyithat egy böngészőben a fájljaid böngészéséhez, előnézetéhez és letöltéséhez, telepítés nélkül.<br>
 - A <strong>WebDAV</strong> a készülékedet egy normál hálózati meghajtóként jeleníti meg Finderben, Windowsban vagy Linuxon, így mindkét irányba húzhatsz fájlokat.<br>
+- Az <strong>SMB</strong> a készülékedet hálózati meghajtóvá teszi Macen, Windowson és Linuxon - Macen magától megjelenik a Finder oldalsávjában -, és ez az egyetlen kapcsolat, amelyet SMB3-titkosítással (AES) titkosíthatsz.<br>
 - Az <strong>FTP</strong> a fájlalkalmazásokkal és a haladó felhasználókkal működik.<br><br>
 
-Az Everdisk a másik irányba is csatlakozik, a hálózatodon lévő DLNA, WebDAV, FTP és SFTP szerverekhez, így böngészheted a mappáikat, streamelhetsz hangot és videót, és letölthetsz vagy kezelhetsz fájlokat, amikor a szerver engedi. Minden a helyi hálózatodon marad és soha nem érinti az internetet.
+Az Everdisk a másik irányba is csatlakozik, a hálózatodon lévő DLNA, WebDAV, FTP, SFTP és SMB szerverekhez - beleértve a Maceket, Windows PC-ket, Linux gépeket és NAS-meghajtókat -, így böngészheted a mappáikat, streamelhetsz hangot és videót, és letölthetsz vagy kezelhetsz fájlokat, amikor a szerver engedi. Minden a helyi hálózatodon marad és soha nem érinti az internetet.
 {{% /details %}}
 
 {{% details title="Ingyenes az Everdisk?" closed="true" %}}
-Igen. Az Everdisk ingyenesen letölthető, és a készülékedet vezeték nélküli meghajtóvá alakíthatod, megoszthatod a fájljaidat négyféleképpen, csatlakozhatsz más szerverekhez, és használhatod a beépített fájlkezelőt ingyen.<br><br>
+Igen. Az Everdisk ingyenesen letölthető, és a készülékedet vezeték nélküli meghajtóvá alakíthatod, megoszthatod a fájljaidat ötféleképpen, csatlakozhatsz más szerverekhez, és használhatod a beépített fájlkezelőt ingyen.<br><br>
 
-Van egy opcionális egyszeri <strong>Premium Lifetime</strong> vásárlás - egyetlen fizetés előfizetés nélkül -, amely feloldja a korlátlan megosztott mappákat és mentett kapcsolatokat, a fénykép- &amp; videóátalakítást, az egyéni portokat, az automatikus megosztásindítást, és az eszköz testreszabását. Az Apple ID-dhez van kötve, így a Vásárlások visszaállítása funkcióval feloldhatod a többi eszközödön. Az árak az országodtól vagy régiódtól függően eltérhetnek.
+Van egy opcionális egyszeri <strong>Premium Lifetime</strong> vásárlás - egyetlen fizetés előfizetés nélkül -, amely feloldja a korlátlan megosztott mappákat és mentett kapcsolatokat, a fénykép- &amp; videóátalakítást, az SMB3-titkosítást (AES), az egyéni portokat, az automatikus megosztásindítást, és az eszköz testreszabását. Az Apple ID-dhez van kötve, így a Vásárlások visszaállítása funkcióval feloldhatod a többi eszközödön. Az árak az országodtól vagy régiódtól függően eltérhetnek.
 {{% /details %}}
 
 {{% details title="Hogyan csatlakozom a számítógépemről?" closed="true" %}}
@@ -372,6 +383,12 @@ Az Everdisk a készülékedet egy normál hálózati meghajtóként jeleníti me
 - <strong>Linuxon</strong> csatlakozz a WebDAV címhez a fájlkezelődből.<br><br>
 
 Miután csatlakoztál, mindkét irányba fogd és vihetsz: másolj fájlokat a számítógépedről a készülékedre, vagy hozd őket vissza. Megnyithatod a HTTP linket is bármelyik böngészőben, ha inkább nem szeretnél meghajtót csatlakoztatni.
+{{% /details %}}
+
+{{% details title="Használhatom az SMB-t és titkosíthatom a kapcsolatot?" closed="true" %}}
+Igen. A WebDAV mellett az Everdisk <strong>SMB</strong> felett is megoszt - ez egy hálózati meghajtó Machez, Windowshoz és Linuxhoz (az alkalmazásban a <strong>Számítógép (speciális)</strong> kapcsolatként jelenik meg). Macen magától megjelenik a Finder oldalsávjában a Helyek alatt; Windowson nyisd meg a Fájlkezelőben az alkalmazásban látható <code>smb://</code> címmel.<br><br>
+
+Az SMB az egyetlen kapcsolat is, amelyet <strong>titkosíthatsz</strong>. Állíts be egy bejelentkezési nevet és jelszót, majd kapcsold be az <strong>SMB-titkosítás megkövetelése</strong> lehetőséget a Beállításokban, hogy minden átvitelt <strong>SMB3-titkosítással (AES)</strong> védj, így senki más az azonos hálózaton nem tudja elolvasni a fájljaidat. A titkosított kapcsolatok nem lehetnek névtelenek, ezért bejelentkezési név és jelszó szükséges, és egy olyan kliens, amely támogatja az SMB3-at - a Finder egy modern Macen, vagy a Windows 10 és újabb.
 {{% /details %}}
 
 {{% details title="Hogyan streamelek a TV-mre?" closed="true" %}}
@@ -393,7 +410,7 @@ Mivel nem függ egy vezeték nélküli hálózattól, ez tovább működik repü
 {{% /details %}}
 
 {{% details title="Mihez csatlakozhatok az Everdiskkel?" closed="true" %}}
-Az Everdisk kliens is a hálózatodon lévő más eszközökhöz. Megkeresheted és csatlakozhatsz <strong>DLNA</strong>, <strong>WebDAV</strong>, <strong>FTP</strong> és <strong>SFTP</strong> szerverekhez, beleértve a NAS eszközöket és médiaszervereket.<br><br>
+Az Everdisk kliens is a hálózatodon lévő más eszközökhöz. Megkeresheted és csatlakozhatsz <strong>DLNA</strong>, <strong>WebDAV</strong>, <strong>FTP</strong>, <strong>SFTP</strong> és <strong>SMB</strong> szerverekhez, beleértve a Maceket, Windows PC-ket, Linux gépeket, NAS eszközöket és médiaszervereket.<br><br>
 
 Miután csatlakoztál, böngészheted a mappáikat, streamelhetsz hangot és videót, letölthetsz fájlokat, és létrehozhatsz mappákat, feltölthetsz, átnevezhetsz, áthelyezhetsz vagy törölhetsz, amikor a szerver engedi.
 {{% /details %}}
@@ -463,11 +480,11 @@ A fényképeid valódi előnézeti bélyegképeket is mutatnak egy TV-n DLNA fel
 </div>
 
 {{< cards >}}
-  {{< feature-card icon="play" title="Megosztás" subtitle="Érintsd meg a Start gombot, válaszd ki, mit szeretnél megosztani, és futtasd mind a négy szervert egyszerre." link="/docs/guide/everdisk/everdisk-guide-sharing" >}}
+  {{< feature-card icon="play" title="Megosztás" subtitle="Érintsd meg a Start gombot, válaszd ki, mit szeretnél megosztani, és futtasd mind az öt szervert egyszerre." link="/docs/guide/everdisk/everdisk-guide-sharing" >}}
 
   {{< feature-card icon="desktop-computer" title="Csatlakoztasd az eszközeidet" subtitle="Hogyan csatlakozik egy TV, egy Mac vagy PC, egy böngésző, egy másik telefon vagy egy USB kábel a fájljaidhoz." link="/docs/guide/everdisk/everdisk-guide-connect" >}}
 
-  {{< feature-card icon="server" title="Csatlakozás szerverekhez" subtitle="Érd el a DLNA, WebDAV, FTP és SFTP szervereket és NAS meghajtókat a böngészéshez, streameléshez és letöltéshez." link="/docs/guide/everdisk/everdisk-guide-devices" >}}
+  {{< feature-card icon="server" title="Csatlakozás szerverekhez" subtitle="Érd el a DLNA, WebDAV, FTP, SFTP és SMB szervereket és NAS meghajtókat a böngészéshez, streameléshez és letöltéshez." link="/docs/guide/everdisk/everdisk-guide-devices" >}}
 
   {{< feature-card icon="folder" title="Fájlok és dokumentumok" subtitle="Böngéssz, rendszerezz, csomagolj be és ki, csatlakoztass külső mappákat, és szkennelj dokumentumokat PDF-be." link="/docs/guide/everdisk/everdisk-guide-files" >}}
 

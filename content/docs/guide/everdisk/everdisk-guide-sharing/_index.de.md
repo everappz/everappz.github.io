@@ -1,7 +1,7 @@
 ---
 title: "Teilen"
 date: 2026-08-20
-description: "Erfahre, wie das Teilen in Everdisk funktioniert: Tippe auf Start, um dein iPhone oder iPad in ein drahtloses Laufwerk zu verwandeln, wahle aus, was du teilst (Dateien, Ordner, Fotos und Musik), betreibe die vier Server (DLNA, HTTP, WebDAV, FTP), lies die Verbindungsadressen ab, sieh, wer verbunden ist, und halte das Teilen uber Wi-Fi oder ein USB-Kabel am Laufen."
+description: "Erfahre, wie das Teilen in Everdisk funktioniert: Tippe auf Start, um dein iPhone oder iPad in ein drahtloses Laufwerk zu verwandeln, wahle aus, was du teilst (Dateien, Ordner, Fotos und Musik), betreibe die funf Server (DLNA, HTTP, WebDAV, SMB, FTP), verschlussele die SMB-Verbindung mit SMB3 (AES), lies die Verbindungsadressen ab, sieh, wer verbunden ist, und halte das Teilen uber Wi-Fi oder ein USB-Kabel am Laufen."
 keywords: ["Everdisk Teilen", "drahtloses Laufwerk iPhone", "Teilen starten", "Dateien teilen iPhone", "Fotos uber Netzwerk teilen", "DLNA HTTP WebDAV FTP", "was teilen", "wie verbinden", "App geoffnet lassen", "Teilen uber Wi-Fi oder USB-Kabel"]
 tags: ["everdisk", "guide", "sharing"]
 readingTime: 9
@@ -17,7 +17,7 @@ In der Mitte des Teilen-Bildschirms befindet sich eine grosse runde Schaltflache
 - Tippe auf **Start**, um alle aktivierten Server auf einmal online zu bringen. Die Schaltflache zeigt zuerst **Wird gestartet...** und dann **Stopp**, sobald das Teilen aktiv ist.
 - Tippe auf **Stopp**, um alles wieder offline zu nehmen. Verbundene Gerate werden getrennt.
 
-Wahrend das Teilen lauft, sind deine ausgewahlten Dateien, Fotos und Musik fur jedes Gerat im selben Netzwerk verfugbar, das sich uber eine der vier Methoden unten verbindet.
+Wahrend das Teilen lauft, sind deine ausgewahlten Dateien, Fotos und Musik fur jedes Gerat im selben Netzwerk verfugbar, das sich uber eine der funf Methoden unten verbindet.
 
 > Das Teilen lauft nur, solange die App geoffnet ist. Weiter unten auf dieser Seite unter **Halte die App geoffnet** erfahrst du, warum das so ist und wie du grosse Ubertragungen am Laufen haltst.
 
@@ -44,13 +44,14 @@ Bevor du startest, tippe auf die Uberschrift **Was geteilt wird**, um drei Grupp
 
 Wenn du zu starten versuchst, ohne etwas ausgewahlt zu haben, zeigt Everdisk den Hinweis **Nichts zum Teilen** an. Wenn du anderst, was geteilt wird, wahrend das Teilen lauft, **stoppe und starte erneut**, damit die Anderung wirksam wird.
 
-## Die vier Server
+## Die funf Server
 
-Everdisk teilt denselben Inhalt gleichzeitig auf vier Arten. Jede ist fur einen anderen Geratetyp gedacht, und jede lasst sich unter **Einstellungen > Teilen > Verbindungen** ein- oder ausschalten. Standardmassig sind alle vier aktiv.
+Everdisk teilt denselben Inhalt gleichzeitig auf funf Arten. Jede ist fur einen anderen Geratetyp gedacht, und jede lasst sich unter **Einstellungen > Teilen > Verbindungen** ein- oder ausschalten. Standardmassig sind alle funf aktiv.
 
 - **TV & Media Center (DLNA)** - fur Smart-TVs und Media-Player. Sie finden dein Gerat von selbst und zeigen deine Fotos, Videos und Musik mit Vorschaubildern an.
 - **Browser (HTTP)** - fur jedes Telefon, Tablet oder jeden Computer. Die andere Person offnet einen Link im Webbrowser, um deine Dateien zu durchsuchen und herunterzuladen. Nichts zu installieren.
 - **Computer (WebDAV)** - fur einen Mac, Windows-PC oder Linux-Rechner. Dein Gerat erscheint als ganz normales Netzlaufwerk, sodass du Dateien in beide Richtungen ziehen kannst.
+- **Computer (Erweitert) (SMB)** - ein Netzlaufwerk fur Mac, Windows und Linux. Auf einem Mac erscheint es von selbst in der Finder-Seitenleiste; unter Windows offnest du es im Datei-Explorer mit einer `smb://`-Adresse. Es ist die einzige Verbindung, die du **verschlusseln** kannst, mit SMB3-Verschlusselung (AES).
 - **Andere Apps & Gerate (FTP)** - fur Datei-Apps und erfahrene Nutzer, die FTP beherrschen.
 
 Schritt-fur-Schritt-Anleitungen zum Verbinden fur jeden Typ findest du unter [Deine Gerate verbinden](/docs/guide/everdisk/everdisk-guide-connect).

@@ -12,7 +12,7 @@ Everdisk memutar media Anda di perangkat dan membagikan seluruh pustaka foto dan
 
 ## Membagikan seluruh pustaka foto dan musik Anda
 
-Di layar [Berbagi](/docs/guide/everdisk/everdisk-guide-sharing), di bawah **Apa yang Dibagikan**, Anda bisa mengaktifkan **Izinkan akses ke seluruh Pustaka Foto** dan **Izinkan akses ke seluruh Pustaka Musik**. Begitu berbagi dimulai, setiap album dan lagu menjadi tersedia di keempat server - di TV, di peramban, di network drive, atau di aplikasi file. Anda juga bisa memilih sendiri hanya foto, video, atau lagu tertentu dengan **Tambah Foto** dan **Tambah Lagu**.
+Di layar [Berbagi](/docs/guide/everdisk/everdisk-guide-sharing), di bawah **Apa yang Dibagikan**, Anda bisa mengaktifkan **Izinkan akses ke seluruh Pustaka Foto** dan **Izinkan akses ke seluruh Pustaka Musik**. Begitu berbagi dimulai, setiap album dan lagu menjadi tersedia di kelima server - di TV, di peramban, di network drive (WebDAV atau SMB), atau di aplikasi file. Anda juga bisa memilih sendiri hanya foto, video, atau lagu tertentu dengan **Tambah Foto** dan **Tambah Lagu**.
 
 Lagu terproteksi (DRM) dan lagu yang tersimpan hanya di cloud tidak bisa dibagikan.
 
@@ -54,7 +54,7 @@ Saat Anda membagikan foto dan video, Everdisk bisa mengirimnya persis seperti as
 Perlu diingat:
 
 - **Asli adalah yang tercepat** - file dikirim apa adanya tanpa konversi.
-- Pengaturan lain apa pun **mengonversi secara langsung**, yang lebih lambat dan lebih boros baterai, terutama lewat WebDAV dan FTP.
+- Pengaturan lain apa pun **mengonversi secara langsung**, yang lebih lambat dan lebih boros baterai, terutama lewat WebDAV, SMB, dan FTP.
 - Coba Asli lebih dulu; beralihlah ke Paling Kompatibel hanya jika TV atau peramban tertentu tidak bisa membuka file.
 - **Musik** selalu dibagikan dalam bentuk aslinya - tidak ada pengaturan kualitas musik.
 

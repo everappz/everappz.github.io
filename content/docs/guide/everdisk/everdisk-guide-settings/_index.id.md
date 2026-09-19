@@ -1,7 +1,7 @@
 ---
 title: "Pengaturan"
 date: 2026-08-20
-description: "Panduan lengkap pengaturan Everdisk: profil perangkat (nama dan avatar), keempat server koneksi, kontrol akses, kualitas foto dan video, port khusus, thumbnail DLNA, opsi jaringan dan transfer, opsi pengelola file, dan Premium."
+description: "Panduan lengkap pengaturan Everdisk: profil perangkat (nama dan avatar), kelima server koneksi, kontrol akses, enkripsi SMB (SMB3/AES), kualitas foto dan video, port khusus, thumbnail DLNA, opsi jaringan dan transfer, opsi pengelola file, dan Premium."
 keywords: ["pengaturan Everdisk", "nama avatar perangkat", "server koneksi", "kualitas foto video", "port khusus HTTP WebDAV FTP", "thumbnail DLNA", "transfer paralel", "hapus file permanen", "cache thumbnail", "Everdisk Premium"]
 tags: ["everdisk", "panduan", "pengaturan"]
 readingTime: 12
@@ -30,7 +30,7 @@ Di bagian atas Pengaturan Anda melihat status Premium Anda, atau tombol **Buka s
 
 ### Akses
 
-- **Login** dan **Kata Sandi** - wajibkan masuk untuk koneksi Peramban, Komputer, dan Aplikasi Lain.
+- **Info Masuk** dan **Kata Sandi** - wajibkan masuk untuk koneksi Peramban, Komputer, dan Aplikasi Lain.
 - **Pengeditan File** - izinkan perangkat yang terhubung mengunggah, mengganti nama, dan menghapus. Aktif secara default.
 - **Perangkat yang Diblokir** - kelola perangkat yang telah Anda blokir.
 
@@ -38,11 +38,12 @@ Lihat [Akses & Privasi](/docs/guide/everdisk/everdisk-guide-access) untuk detail
 
 ### Koneksi
 
-Nyalakan atau matikan tiap server. Keempatnya aktif secara default, dan masing-masing punya tombol info (ⓘ) dengan petunjuk koneksi:
+Nyalakan atau matikan tiap server. Kelimanya aktif secara default, dan masing-masing punya tombol info (ⓘ) dengan petunjuk koneksi:
 
 - **TV & Pusat Media** (DLNA)
 - **Peramban** (HTTP)
 - **Komputer** (WebDAV)
+- **Komputer (Lanjutan)** (SMB) - network drive untuk Mac, Windows, dan Linux; di Mac muncul dengan sendirinya di bilah samping Finder. Satu-satunya koneksi yang bisa dienkripsi.
 - **Aplikasi & Perangkat Lain** (FTP)
 
 ### Foto
@@ -61,7 +62,11 @@ Idenya sama seperti Foto: Asli paling cepat, dan konversi bersifat Premium. Turu
 
 ### Lanjutan
 
-- **Port HTTP** (default 80), **Port WebDAV** (default 8080), **Port FTP** (default 2121). DLNA memilih port-nya secara otomatis. *(Mengubah port bersifat Premium; pengguna gratis bisa melihat nilainya.)*
+- **Port HTTP** (default 80), **Port WebDAV** (default 8080), **Port SMB** (default 4455), **Port FTP** (default 2121). DLNA memilih port-nya secara otomatis. *(Mengubah port bersifat Premium; pengguna gratis bisa melihat nilainya.)*
+
+### Enkripsi SMB
+
+- **Wajibkan enkripsi SMB** - enkripsi setiap transfer SMB dengan **enkripsi SMB3 (AES)** sehingga tidak ada orang lain di jaringan yang bisa membaca file Anda. Nonaktif secara default. Ini memerlukan **login dan kata sandi** yang diatur di atas (koneksi terenkripsi tidak bisa anonim) dan klien yang mendukung SMB3, seperti Finder di Mac modern atau Windows 10 dan yang lebih baru. Perubahan berlaku saat Anda mulai berbagi berikutnya. *(Premium.)*
 
 ### Thumbnail DLNA
 
@@ -92,7 +97,8 @@ Everdisk gratis digunakan. Satu pembelian **Premium Seumur Hidup** - pembayaran 
 - **Folder Tanpa Batas** - bagikan lebih dari 5 folder.
 - **Koneksi Tanpa Batas** - simpan lebih dari 10 server di tab Perangkat.
 - **Konversi Foto & Video** - bagikan dalam kualitas apa pun selain Asli.
-- **Port Khusus** - atur sendiri port HTTP, WebDAV, dan FTP Anda.
+- **Enkripsi SMB** - lindungi transfer SMB dengan enkripsi SMB3 (AES).
+- **Port Khusus** - atur sendiri port HTTP, WebDAV, SMB, dan FTP Anda.
 - **Berbagi Otomatis** - mulai berbagi otomatis saat Anda membuka aplikasi.
 - **Kustomisasi Perangkat** - nama perangkat khusus, ikon avatar, gradien latar, atau avatar foto.
 

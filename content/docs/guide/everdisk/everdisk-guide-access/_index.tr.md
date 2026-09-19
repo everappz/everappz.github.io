@@ -1,8 +1,8 @@
 ---
 title: "Erişim ve Gizlilik"
 date: 2026-08-20
-description: "Everdisk paylaşımınızı güvende tutun: erişimi bir giriş ve parolayla koruyun, Dosya Düzenleme ile bağlı cihazların yükleyip yeniden adlandırıp silebilmesini denetleyin, bilinmeyen cihazları engelleyin, çöp kutusu ile kalıcı silme arasında seçim yapın ve her şeyin neden yerel ağınızda kaldığını anlayın."
-keywords: ["Everdisk parola koruması", "dosya düzenleme anahtarı", "cihazı engelle", "engellenen cihazlar", "dosyaları kalıcı olarak sil", "yalnızca yerel ağ", "özel dosya paylaşımı", "DLNA parolasız", "ağ güvenliği"]
+description: "Everdisk paylaşımınızı güvende tutun: erişimi bir giriş ve parolayla koruyun, SMB bağlantısını SMB3 (AES) ile şifreleyin, Dosya Düzenleme ile bağlı cihazların yükleyip yeniden adlandırıp silebilmesini denetleyin, bilinmeyen cihazları engelleyin, çöp kutusu ile kalıcı silme arasında seçim yapın ve her şeyin neden yerel ağınızda kaldığını anlayın."
+keywords: ["Everdisk parola koruması", "SMB şifrelemesi", "SMB3 AES şifrelemesi", "dosya düzenleme anahtarı", "cihazı engelle", "engellenen cihazlar", "dosyaları kalıcı olarak sil", "yalnızca yerel ağ", "özel dosya paylaşımı", "DLNA parolasız", "ağ güvenliği"]
 tags: ["everdisk", "guide", "access", "privacy", "security"]
 readingTime: 8
 ---
@@ -16,11 +16,23 @@ Varsayılan olarak, aynı ağda olup adresinize sahip olan herkes paylaşılan d
 
 1. **Ayarlar → Paylaşım → Erişim**'e gidin.
 2. Bir **Giriş** ve bir **Parola** girin.
-3. Artık **Tarayıcı (HTTP)**, **Bilgisayar (WebDAV)** ve **Diğer Uygulamalar ve Cihazlar (FTP)** bağlantılarının tümü, dosyalarınızı göstermeden önce bu bilgileri sorar.
+3. Artık **Tarayıcı (HTTP)**, **Bilgisayar (WebDAV)**, **Bilgisayar (Gelişmiş) (SMB)** ve **Diğer Uygulamalar ve Cihazlar (FTP)** bağlantılarının tümü, dosyalarınızı göstermeden önce bu bilgileri sorar.
 
 Açık erişim için her iki alanı da boş bırakın. Parolanız cihazın Keychain'inde güvenle saklanır.
 
 > **DLNA her zaman açıktır.** TV ve Medya Merkezi (DLNA) bağlantısı parola ile korunamaz; bu nedenle açık olduğunda, aynı Wi-Fi'daki her cihaz paylaşılan medyanıza göz atabilir. Yalnızca korumalı bağlantılar istiyorsanız onu kapatın ve yalnızca güvendiğiniz ağlarda paylaşın.
+
+## SMB bağlantısını şifreleyin (SMB3 / AES)
+
+Bir giriş ve parola **kimin** bağlanabileceğini denetler, ancak çoğu bağlantıda verinin kendisi hâlâ açık olarak aktarılır. **SMB, Everdisk'in şifreleyebileceği tek bağlantıdır** ve her aktarımı karıştırır; böylece aynı ağdaki başka hiç kimse onu okuyamaz.
+
+Açmak için:
+
+1. Yukarıdaki gibi bir **Giriş** ve **Parola** ayarlayın - şifreli bağlantılar anonim olamaz.
+2. **Ayarlar → Paylaşım**'a gidin ve **SMB şifrelemesi iste**'yi açın.
+3. Değişikliğin etkili olması için paylaşımı **Durdurup yeniden Başlatın**.
+
+Her SMB aktarımı ardından **SMB3 şifrelemesiyle (AES)** korunur. Bağlanan cihaz SMB3'ü desteklemelidir - modern bir Mac'teki Finder ya da **Windows 10 ve sonrası**. Bu, tam olarak güvenmediğiniz bir Wi-Fi'de harika bir seçimdir. SMB şifrelemesi bir Premium özelliğidir.
 
 ## Düzenlemeye izin verin ya da engelleyin (Dosya Düzenleme)
 

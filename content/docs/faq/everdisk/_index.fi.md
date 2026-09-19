@@ -1,16 +1,17 @@
 ---
 date: '2026-08-20T12:00:00+00:00'
 title: 'Everdisk'
-description: "Everdisk UKK: muuta iPhone tai iPad langattomaksi levyksi ja jaa tiedostot, kuvat, videot ja musiikki mille tahansa verkkosi laitteelle DLNA-, HTTP-, WebDAV- ja FTP-yhteydellä. Vastauksia yhdistämisestä televisiosta, selaimesta, Macilta, Windowsista ja Linuxista, USB-kaapelisiirrosta ilman Wi-Fiä, yhdistämisestä NAS- ja WebDAV/FTP/SFTP-palvelimiin, tiedostonhallinnasta, pakkauksesta ja purkamisesta, asiakirjojen skannaamisesta PDF-muotoon, salasanoista ja laitteiden estosta, yksityisyydestä sekä kertaostoksena hankittavasta Premium Lifetime -hankinnasta."
+description: "Everdisk UKK: muuta iPhone tai iPad langattomaksi levyksi ja jaa tiedostot, kuvat, videot ja musiikki mille tahansa verkkosi laitteelle DLNA-, HTTP-, WebDAV-, SMB- ja FTP-yhteydellä. Vastauksia yhdistämisestä televisiosta, selaimesta, Macilta, Windowsista ja Linuxista, SMB-verkkolevystä SMB3-salauksella (AES), USB-kaapelisiirrosta ilman Wi-Fiä, yhdistämisestä NAS- ja WebDAV/FTP/SFTP/SMB-palvelimiin, tiedostonhallinnasta, pakkauksesta ja purkamisesta, asiakirjojen skannaamisesta PDF-muotoon, salasanoista ja laitteiden estosta, yksityisyydestä sekä kertaostoksena hankittavasta Premium Lifetime -hankinnasta."
 keywords: [
   "Everdisk UKK", "langaton levy iPhone", "jaa tiedostoja iPhone", "jaa kuvia verkossa",
   "suoratoisto televisioon DLNA", "avaa tiedostot selaimessa", "WebDAV-verkkolevy iPhone",
+  "SMB-palvelin iPhone", "SMB-salaus iPhone", "SMB3 AES -salaus",
   "FTP-palvelin iPhone", "SFTP-asiakas iPhone", "USB-tiedostonsiirto Mac ilman Wi-Fiä",
-  "yhdistä NAS iPhone", "tiedostonhallinta iOS", "pakkaa ja pura iPhone",
+  "yhdistä NAS iPhone", "SMB-asiakas iPhone", "yhdistä SMB-jakoon", "tiedostonhallinta iOS", "pakkaa ja pura iPhone",
   "skannaa asiakirjat PDF-muotoon", "salasanasuojattu jakaminen", "estä laite",
   "paikallisverkon tiedostojen jakaminen", "Everdisk Premium", "Everdisk elinikäinen"
 ]
-tags: ["everdisk", "ukk", "langaton levy", "tiedostojen jakaminen", "DLNA", "WebDAV", "FTP", "SFTP", "verkkolevy"]
+tags: ["everdisk", "ukk", "langaton levy", "tiedostojen jakaminen", "DLNA", "WebDAV", "SMB", "FTP", "SFTP", "verkkolevy"]
 ---
 
 
@@ -23,15 +24,16 @@ Everdisk muuttaa iPhonen tai iPadin langattomaksi levyksi, joka jakaa tiedostot,
 {{% details title="Mikä Everdisk on?" closed="true" %}}
 Everdisk on **langaton levysovellus** iPhonelle ja iPadille. Se muuttaa laitteesi keskukseksi, joka jakaa valitsemasi tiedostot, kuvat, videot ja musiikin kaiken paikallisverkossasi olevan kanssa, ja se yhdistää myös muihin palvelimiin, joten voit selata ja suoratoistaa niiden tiedostoja.<br><br>
 
-Se pyörittää neljää palvelinta kerralla - **DLNA** televisioille, **HTTP** selaimille, **WebDAV** Finderille/Windowsille/Linuxille ja **FTP** tiedostosovelluksille - joten jokainen laite yhdistää haluamallaan tavalla. Ei tilejä eikä pilveä: napautat **Aloita** ja olet valmis. Mukana on myös tiedostonhallinta, mediasoitin, kuvagalleria, asiakirjojen skannaus PDF-muotoon sekä pakkaus ja purku.
+Se pyörittää viittä palvelinta kerralla - **DLNA** televisioille, **HTTP** selaimille, **WebDAV** Finderille/Windowsille/Linuxille, **SMB** verkkolevynä Macille, Windowsille ja Linuxille valinnaisella salauksella ja **FTP** tiedostosovelluksille - joten jokainen laite yhdistää haluamallaan tavalla. Ei tilejä eikä pilveä: napautat **Aloita** ja olet valmis. Mukana on myös tiedostonhallinta, mediasoitin, kuvagalleria, asiakirjojen skannaus PDF-muotoon sekä pakkaus ja purku.
 {{% /details %}}
 
 {{% details title="Miten Everdisk toimii?" closed="true" %}}
-Kun napautat **Aloita**, Everdisk muuttaa laitteesi paikallisverkon palvelimeksi ja jakaa valitsemasi sisällön. Neljä eri yhteystapaa toimii samaan aikaan, jotta eri laitteet voivat yhdistää haluamallaan tavalla:<br><br>
+Kun napautat **Aloita**, Everdisk muuttaa laitteesi paikallisverkon palvelimeksi ja jakaa valitsemasi sisällön. Viisi eri yhteystapaa toimii samaan aikaan, jotta eri laitteet voivat yhdistää haluamallaan tavalla:<br><br>
 
 - **DLNA** - älytelevisiot ja mediasoittimet löytävät laitteesi automaattisesti ja näyttävät mediasi esikatselukuvineen.<br>
 - **HTTP** - kuka tahansa avaa linkin selaimessa selatakseen ja ladatakseen tiedostojasi.<br>
 - **WebDAV** - laitteesi näkyy tavallisena verkkolevynä Finderissa, Windowsissa tai Linuxissa.<br>
+- **SMB** - verkkolevy Macille, Windowsille ja Linuxille, joka rakentuu näissä järjestelmissä jo olevan tiedostojen jakamisen varaan; Macilla se näkyy omana kohteenaan Finderin sivupalkissa. Se on ainoa yhteys, jonka voit salata (SMB3-salaus, AES).<br>
 - **FTP** - tiedostosovellukset ja tehotyökalut yhdistävät FTPn kautta.<br><br>
 
 Kaikki tapahtuu paikallisen Wi-Fisi kautta (tai USB-kaapelilla Maciin) eikä koskaan kosketa internetiä.
@@ -106,6 +108,29 @@ Käytä **Tietokone (WebDAV)** -osoitetta.<br><br>
 Syötä käyttäjätunnus ja salasana, jos asetit sellaiset.
 {{% /details %}}
 
+{{% details title="Miten yhdistän SMB:n kautta?" closed="true" %}}
+1. Varmista kohdassa **Asetukset → Jakaminen → Yhteydet**, että **Tietokone (lisäasetukset)** (SMB-yhteys) on käytössä, ja napauta sitten **Aloita**.<br>
+2. Kopioi Jakaminen-näytöllä näkyvä **SMB**-osoite - se näyttää tältä: `smb://192.168.1.20:4455/Share`.<br>
+3. Yhdistä tietokoneeltasi:<br>
+&nbsp;&nbsp;- **Mac:** laitteesi näkyy omana kohteenaan **Finderin sivupalkissa** kohdassa **Sijainnit** (Verkko) - napsauta vain sitä. Yhdistääksesi käsin valitse **Siirry → Yhdistä palvelimeen** (**⌘K**) ja syötä osoite.<br>
+&nbsp;&nbsp;- **Windows:** napsauta Resurssienhallinnassa hiiren oikealla **Tämä tietokone** ja valitse **Lisää verkkolevy**, syötä sitten `\\<address>\Share`, tai kirjoita `smb://`-osoite osoitepalkkiin.<br>
+&nbsp;&nbsp;- **Linux:** valitse tiedostonhallinnassasi **Yhdistä palvelimeen** ja syötä osoite.<br>
+4. Syötä käyttäjätunnuksesi ja salasanasi, jos asetit sellaiset, muutoin yhdistä vieraana.<br><br>
+
+Jaon nimi on **Share**. Kun **Tiedostojen muokkaus** on käytössä, voit kopioida tiedostoja molempiin suuntiin; kun se on pois päältä, levy on vain luku -tilassa.
+{{% /details %}}
+
+{{% details title="Voinko salata SMB-yhteyteni?" closed="true" %}}
+Kyllä - ja SMB on **ainoa** yhteys, jonka Everdisk voi salata. Ota kohdassa **Asetukset → Jakaminen** käyttöön **Vaadi SMB-salaus** suojataksesi jokaisen SMB-siirron **SMB3-salauksella (AES)**, jottei kukaan muu samassa verkossa voi lukea tiedostojasi. Tämä on erinomainen valinta Wi-Fissä, johon et täysin luota.<br><br>
+
+Muutama vaatimus:<br>
+- Sinun on ensin asetettava **käyttäjätunnus ja salasana** - salatut yhteydet eivät voi olla nimettömiä.<br>
+- Asiakkaan on tuettava **SMB3:a** - Finderin nykyaikaisella Macilla tai **Windows 10:n tai uudemman**.<br>
+- Muutokset tulevat voimaan, kun seuraavan kerran aloitat jakamisen.<br><br>
+
+SMB-salaus on osa kertaostoksena hankittavaa **Premium Lifetime** -hankintaa.
+{{% /details %}}
+
 {{% details title="Toimiiko Everdisk ilman Wi-Fiä?" closed="true" %}}
 Kyllä, **Macin** ja kaapelin kanssa. Kytke iPhone tai iPad Maciin, napauta **Luota** jos kysytään, ja napauta **Aloita**. Jakaminen-näytölle ilmestyy **Kaapeliyhteys**-osoite, joka päättyy `.local`-tunnukseen; yhdistä siihen Finderista (**⌘K**). Tämä toimii täysin ilman Wi-Fiä - loistavaa lentokoneessa, hotellissa tai suljetussa verkossa - ja se on Wi-Fiä nopeampi ja yksityisempi.
 {{% /details %}}
@@ -122,19 +147,20 @@ iPhone tai iPad on palvelin, eikä iOS anna sovellusten pitää verkkopalvelinta
 **USB-kaapeli Maciin** on Wi-Fiä nopeampi ja luotettavampi, koska data kulkee suoraan kaapelia pitkin. Se on myös yksityisin vaihtoehto, sillä mikään ei kulje reitittimesi tai internetin kautta. Käytä sitä isoihin kuva- ja videosiirtoihin.
 {{% /details %}}
 
-{{% details title="Mikä on neljän palvelimen (DLNA, HTTP, WebDAV, FTP) ero?" closed="true" %}}
+{{% details title="Mikä on viiden palvelimen (DLNA, HTTP, WebDAV, SMB, FTP) ero?" closed="true" %}}
 Ne kaikki jakavat saman sisällön mutta sopivat eri laitteille:<br><br>
 
 - **TV ja mediakeskus (DLNA)** - älytelevisioille ja mediasoittimille.<br>
 - **Selain (HTTP)** - mille tahansa selaimelle, ilman asennuksia.<br>
 - **Tietokone (WebDAV)** - tekee laitteestasi verkkolevyn Finderissa/Windowsissa/Linuxissa.<br>
+- **Tietokone (lisäasetukset)** (SMB) - verkkolevy Macille, Windowsille ja Linuxille; Macilla se näkyy omana kohteenaan Finderin sivupalkissa, tai yhdistä käsin `smb://`-osoitteella. Se on ainoa yhteys, jonka voit salata (SMB3, AES).<br>
 - **Muut sovellukset ja laitteet (FTP)** - tiedostosovelluksille ja tehotyökaluille.<br><br>
 
 Voit kytkeä minkä tahansa niistä päälle tai pois kohdassa **Asetukset → Jakaminen → Yhteydet**.
 {{% /details %}}
 
 {{% details title="Miten salasanasuojaan tiedostoni?" closed="true" %}}
-Mene kohtaan **Asetukset → Jakaminen → Käyttöoikeus** ja aseta **Käyttäjätunnus** ja **Salasana**. Selain-, Tietokone- ja Muut sovellukset -yhteydet kysyvät tämän jälkeen näitä tietoja. Jätä molemmat tyhjiksi avointa käyttöä varten.<br><br>
+Mene kohtaan **Asetukset → Jakaminen → Käyttöoikeus** ja aseta **Käyttäjätunnus** ja **Salasana**. Selain-, Tietokone-, Tietokone (lisäasetukset)- ja Muut sovellukset -yhteydet kysyvät tämän jälkeen näitä tietoja. Jätä molemmat tyhjiksi avointa käyttöä varten.<br><br>
 
 Huomaa: **DLNA**-yhteyttä (TV) ei voi salasanasuojata, joten se on avoin kaikille samassa Wi-Fissä sen ollessa käytössä. Kytke se pois päältä, jos haluat vain suojattuja yhteyksiä.
 {{% /details %}}
@@ -156,15 +182,15 @@ Kyllä. Everdisk jakaa vain **paikallisverkkosi** kautta - mikään ei mene inte
 {{% /details %}}
 
 {{% details title="Voiko Everdisk yhdistää NAS-laitteeseeni tai muihin palvelimiin?" closed="true" %}}
-Kyllä. **Laitteet**-välilehti yhdistää **muihin** verkkosi palvelimiin. Napauta **Uusi yhteys** ja valitse **DLNA / UPnP**, **WebDAV**, **FTP** tai **SFTP**, syötä osoite ja mahdollinen kirjautuminen, ja voit selata, suoratoistaa ja ladata. WebDAV-, FTP- ja SFTP-palvelimilla voit myös luoda kansioita, lähettää, nimetä uudelleen, siirtää ja poistaa. DLNA-palvelimet ovat vain luku -tilassa.
+Kyllä. **Laitteet**-välilehti yhdistää **muihin** verkkosi palvelimiin. Napauta **Uusi yhteys** ja valitse **DLNA / UPnP**, **WebDAV**, **FTP**, **SFTP** tai **SMB** (Maceille, Windows-tietokoneille, Linux-koneille ja NAS-levyille, jotka jakavat kansioita SMB / CIFS -protokollalla), syötä osoite ja mahdollinen kirjautuminen, ja voit selata, suoratoistaa ja ladata. WebDAV-, FTP-, SFTP- ja SMB-palvelimilla voit myös luoda kansioita, lähettää, nimetä uudelleen, siirtää ja poistaa. DLNA-palvelimet ovat vain luku -tilassa.
 {{% /details %}}
 
 {{% details title="Voinko yhdistää pilvitallennukseen kuten Google Driveen tai Dropboxiin?" closed="true" %}}
-Everdisk ei kirjaudu pilvitileille kuten iCloud Drive, Google Drive, Dropbox tai OneDrive. Se yhdistää vain **paikallisverkon ja suoraan osoitettuihin** palvelimiin (DLNA, WebDAV, FTP, SFTP). Pilvipalvelu on tavoitettavissa vain, jos se tarjoaa **WebDAV**-osoitteen, jonka voit kirjoittaa uuteen WebDAV-yhteyteen.
+Everdisk ei kirjaudu pilvitileille kuten iCloud Drive, Google Drive, Dropbox tai OneDrive. Se yhdistää vain **paikallisverkon ja suoraan osoitettuihin** palvelimiin (DLNA, WebDAV, FTP, SFTP, SMB). Pilvipalvelu on tavoitettavissa vain, jos se tarjoaa **WebDAV**-osoitteen, jonka voit kirjoittaa uuteen WebDAV-yhteyteen.
 {{% /details %}}
 
 {{% details title="Mihin Laitteet-välilehti on tarkoitettu?" closed="true" %}}
-Se on Everdiskin asiakaspuoli: **Yhteydet** listaa tallentamasi palvelimet ja **Saatavilla olevat laitteet** listaa verkostasi automaattisesti löytyneet palvelimet. Napauta yhtä selataksesi, suoratoistaaksesi tai ladataksesi sen tiedostoja, tai napauta **Uusi yhteys** lisätäksesi DLNA-, WebDAV-, FTP- tai SFTP-palvelimen käsin.
+Se on Everdiskin asiakaspuoli: **Yhteydet** listaa tallentamasi palvelimet ja **Saatavilla olevat laitteet** listaa verkostasi automaattisesti löytyneet palvelimet. Napauta yhtä selataksesi, suoratoistaaksesi tai ladataksesi sen tiedostoja, tai napauta **Uusi yhteys** lisätäksesi DLNA-, WebDAV-, FTP-, SFTP- tai SMB-palvelimen käsin.
 {{% /details %}}
 
 {{% details title="Miten lataan tiedostoja palvelimelta laitteelleni?" closed="true" %}}
@@ -256,13 +282,13 @@ Everdisk antaa laitteellesi ystävällisen nimen ja avatarin automaattisesti, ja
 {{% /details %}}
 
 {{% details title="Voinko muuttaa yhteysportteja?" closed="true" %}}
-Oletukset ovat **HTTP 80**, **WebDAV 8080** ja **FTP 2121** (DLNA valitsee porttinsa automaattisesti). Voit tarkastella niitä maksutta, ja **mukautettujen porttien** asettaminen on Premium-ominaisuus (**Lisäasetukset** kohdassa Asetukset → Jakaminen).
+Oletukset ovat **HTTP 80**, **WebDAV 8080**, **SMB 4455** ja **FTP 2121** (DLNA valitsee porttinsa automaattisesti). Voit tarkastella niitä maksutta, ja **mukautettujen porttien** asettaminen on Premium-ominaisuus (**Lisäasetukset** kohdassa Asetukset → Jakaminen).
 {{% /details %}}
 
 {{% details title="Onko Everdisk ilmainen, ja mitä Premium tuo lisää?" closed="true" %}}
-Everdisk on **ilmainen** ladata. Voit pyörittää kaikkia neljää palvelinta, suojata käytön salasanalla, jakaa koko kuva- ja musiikkikirjastosi, käyttää tiedostonhallintaa, skannata PDF-muotoon ja yhdistää muihin palvelimiin. Ilmaisversio jakaa enintään **5 kansiota** ja tallentaa enintään **10 palvelinyhteyttä**.<br><br>
+Everdisk on **ilmainen** ladata. Voit pyörittää kaikkia viittä palvelinta, suojata käytön salasanalla, jakaa koko kuva- ja musiikkikirjastosi, käyttää tiedostonhallintaa, skannata PDF-muotoon ja yhdistää muihin palvelimiin. Ilmaisversio jakaa enintään **5 kansiota** ja tallentaa enintään **10 palvelinyhteyttä**.<br><br>
 
-Kertaostoksena hankittava **Premium Lifetime** (ei tilaus) lisää: **Rajattomat kansiot**, **Rajattomat yhteydet**, **Kuvien ja videoiden muunnos** (muu laatu kuin Alkuperäinen), **Mukautetut portit**, **Jakamisen automaattinen aloitus** ja **Laitteen mukauttaminen**.
+Kertaostoksena hankittava **Premium Lifetime** (ei tilaus) lisää: **Rajattomat kansiot**, **Rajattomat yhteydet**, **Kuvien ja videoiden muunnos** (muu laatu kuin Alkuperäinen), **SMB-salaus** (SMB3/AES), **Mukautetut portit**, **Jakamisen automaattinen aloitus** ja **Laitteen mukauttaminen**.
 {{% /details %}}
 
 {{% details title="Onko Premium tilaus? Toimiiko se muissa laitteissani?" closed="true" %}}

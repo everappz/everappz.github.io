@@ -1,14 +1,14 @@
 ---
 title: "서버에 연결하기"
 date: 2026-08-20
-description: "Everdisk의 기기 탭을 사용해 네트워크에 있는 다른 서버에 연결하세요. DLNA, WebDAV, FTP, SFTP 서버와 NAS 드라이브를 추가하고 탐색하며, 오디오와 동영상을 스트리밍하고, 파일을 내려받고, 허용된 서버에서는 만들기, 업로드, 이름 변경, 이동, 삭제까지 할 수 있습니다."
-keywords: ["Everdisk 기기 탭", "NAS 연결", "iPhone DLNA 클라이언트", "iPhone WebDAV 클라이언트", "iPhone FTP 클라이언트", "iPhone SFTP 클라이언트", "네트워크 서버 탐색", "NAS 스트리밍", "서버에서 다운로드", "클라우드 WebDAV 연결"]
+description: "Everdisk의 기기 탭을 사용해 네트워크에 있는 다른 서버에 연결하세요. DLNA, WebDAV, FTP, SFTP, SMB 서버와 NAS 드라이브를 추가하고 탐색하며, 오디오와 동영상을 스트리밍하고, 파일을 내려받고, 허용된 서버에서는 만들기, 업로드, 이름 변경, 이동, 삭제까지 할 수 있습니다."
+keywords: ["Everdisk 기기 탭", "NAS 연결", "iPhone DLNA 클라이언트", "iPhone WebDAV 클라이언트", "iPhone FTP 클라이언트", "iPhone SFTP 클라이언트", "iPhone SMB 클라이언트", "SMB 공유에 연결", "네트워크 서버 탐색", "NAS 스트리밍", "서버에서 다운로드", "클라우드 WebDAV 연결"]
 tags: ["everdisk", "guide", "devices", "connections"]
 readingTime: 9
 ---
 
 
-Everdisk는 무선 드라이브일 뿐만 아니라, 네트워크에 있는 다른 기기의 클라이언트이기도 합니다. **기기** 탭에서 NAS 드라이브와 미디어 서버를 포함한 **DLNA**, **WebDAV**, **FTP**, **SFTP** 서버에 연결한 뒤, 그 안의 파일을 탐색하고 스트리밍하고 내려받을 수 있습니다.
+Everdisk는 무선 드라이브일 뿐만 아니라, 네트워크에 있는 다른 기기의 클라이언트이기도 합니다. **기기** 탭에서 Mac, Windows PC, Linux 컴퓨터, NAS 드라이브와 미디어 서버를 포함한 **DLNA**, **WebDAV**, **FTP**, **SFTP**, **SMB** 서버에 연결한 뒤, 그 안의 파일을 탐색하고 스트리밍하고 내려받을 수 있습니다.
 
 ## 기기 화면
 
@@ -27,6 +27,7 @@ Everdisk가 이미 찾은 것에 연결하려면 **사용 가능한 장치**에�
 - **WebDAV** - WebDAV를 지원하는 파일 서버, 네트워크 저장 장치, 클라우드 드라이브에 연결하세요. 서버가 허용하면 읽기와 쓰기가 가능합니다.
 - **FTP** - 공유기, 네트워크 저장 장치, 웹 호스팅에서 흔히 쓰입니다. 기본 포트는 21(보안 FTPS는 990)이며, 주소에 사용자 지정 포트를 설정할 수 있습니다(예: `ftp://host:2121`). 익명 접근을 하려면 로그인과 비밀번호를 비워 두세요.
 - **SFTP** - SSH를 통해 안전하게 연결하세요. 기본 포트는 22이며, 필요하면 주소에 사용자 지정 포트를 사용하세요(예: `sftp://host:2222`).
+- **SMB** - **SMB / CIFS**로 폴더를 공유하는 Mac, Windows PC, Linux 서버, 네트워크 저장 장치(NAS)에 연결하세요. `smb://server-address/share-name/`과 같은 주소를 입력하세요(예: `smb://local-server-name/share-name/folder-path`, `smb://192.168.1.105/share-name/folder-path`, `smb://remote-server.com`). SMB에는 두 가지 선택 항목이 추가됩니다: **작업 그룹** 이름과, **자동**으로 두거나 **SMB1** 또는 **SMB2**로 강제할 수 있는 **프로토콜 버전**입니다. 특수 문자가 있는 파일이나 폴더가 열리지 않으면 버전을 **SMB1**로 바꿔 보세요.
 
 > Everdisk는 이러한 로컬 네트워크 및 직접 주소 지정 프로토콜에만 연결합니다. Google Drive나 Dropbox 같은 클라우드 계정에는 로그인하지 않습니다. 클라우드 드라이브는 해당 서비스가 입력할 수 있는 **WebDAV** 주소를 제공하는 경우에만 접근할 수 있습니다.
 
@@ -53,7 +54,7 @@ WebDAV의 경우, 서버가 자체 서명 인증서를 사용한다면 유효하
 
 ## 서버의 파일 변경하기
 
-쓰기를 허용하는 서버 - **WebDAV, FTP, SFTP** - 에서는 파일을 관리할 수도 있습니다:
+쓰기를 허용하는 서버 - **WebDAV, FTP, SFTP, SMB** - 에서는 파일을 관리할 수도 있습니다:
 
 - **새 폴더**
 - 여러분의 기기에서 **파일 업로드**

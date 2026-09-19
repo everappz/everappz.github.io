@@ -1,7 +1,7 @@
 ---
 title: "Definições"
 date: 2026-08-20
-description: "Uma visita completa às definições do Everdisk: perfil do dispositivo (nome e avatar), os quatro servidores de ligação, controlos de acesso, qualidade de fotografias e vídeos, portas personalizadas, miniaturas DLNA, opções de rede e transferência, opções do gestor de ficheiros e Premium."
+description: "Uma visita completa às definições do Everdisk: perfil do dispositivo (nome e avatar), os cinco servidores de ligação, controlos de acesso, criptografia SMB (SMB3/AES), qualidade de fotografias e vídeos, portas personalizadas, miniaturas DLNA, opções de rede e transferência, opções do gestor de ficheiros e Premium."
 keywords: ["definicoes Everdisk", "nome avatar do dispositivo", "servidores de ligacao", "qualidade de fotografias e videos", "portas personalizadas HTTP WebDAV FTP", "miniaturas DLNA", "transferencias em paralelo", "eliminar ficheiros permanentemente", "cache de miniaturas", "Everdisk Premium"]
 tags: ["everdisk", "guia", "definicoes"]
 readingTime: 12
@@ -38,11 +38,12 @@ Consulte [Acesso e Privacidade](/docs/guide/everdisk/everdisk-guide-access) para
 
 ### Ligações
 
-Ative ou desative cada servidor. Todos os quatro estão ativados por predefinição, e cada um tem um botão de info (ⓘ) com instruções de ligação:
+Ative ou desative cada servidor. Todos os cinco estão ativados por predefinição, e cada um tem um botão de info (ⓘ) com instruções de ligação:
 
 - **TV e Centro Multimédia** (DLNA)
 - **Navegador** (HTTP)
 - **Computador** (WebDAV)
+- **Computador (avançado)** (SMB) - uma unidade de rede para Mac, Windows e Linux; num Mac aparece sozinha na barra lateral do Finder. A única ligação que pode ser criptografada.
 - **Outras Aplicações e Dispositivos** (FTP)
 
 ### Fotografias
@@ -61,7 +62,11 @@ A mesma ideia das Fotografias: o Original é o mais rápido e a conversão é Pr
 
 ### Avançado
 
-- **Porta HTTP** (predefinição 80), **Porta WebDAV** (predefinição 8080), **Porta FTP** (predefinição 2121). O DLNA escolhe a sua porta automaticamente. *(Alterar as portas é Premium; os utilizadores gratuitos podem ver os valores.)*
+- **Porta HTTP** (predefinição 80), **Porta WebDAV** (predefinição 8080), **Porta SMB** (predefinição 4455), **Porta FTP** (predefinição 2121). O DLNA escolhe a sua porta automaticamente. *(Alterar as portas é Premium; os utilizadores gratuitos podem ver os valores.)*
+
+### Criptografia SMB
+
+- **Exigir criptografia SMB** - cifra cada transferência SMB com **criptografia SMB3 (AES)** para que mais ninguém na rede consiga ler os seus ficheiros. Desativado por predefinição. Requer um **início de sessão e palavra-passe** definidos acima (as ligações criptografadas não podem ser anónimas) e um cliente que suporte SMB3, como o Finder num Mac moderno ou o Windows 10 e posterior. As alterações entram em vigor da próxima vez que iniciar a partilha. *(Premium.)*
 
 ### Miniaturas DLNA
 
@@ -92,7 +97,8 @@ O Everdisk é gratuito. Uma única compra **Premium Vitalícia** - um pagamento 
 - **Pastas Ilimitadas** - partilhe mais de 5 pastas.
 - **Ligações Ilimitadas** - guarde mais de 10 servidores no separador Dispositivos.
 - **Conversão de Fotografias e Vídeos** - partilhe em qualquer qualidade que não seja a Original.
-- **Portas Personalizadas** - defina as suas próprias portas HTTP, WebDAV e FTP.
+- **Criptografia SMB** - proteja as transferências SMB com criptografia SMB3 (AES).
+- **Portas Personalizadas** - defina as suas próprias portas HTTP, WebDAV, SMB e FTP.
 - **Iniciar Partilha Automaticamente** - inicie a partilha automaticamente ao abrir a aplicação.
 - **Personalização do Dispositivo** - um nome de dispositivo, ícone de avatar, gradiente de fundo ou avatar de fotografia personalizados.
 

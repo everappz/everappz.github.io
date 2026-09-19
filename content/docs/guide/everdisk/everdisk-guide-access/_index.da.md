@@ -1,8 +1,8 @@
 ---
 title: "Adgang og privatliv"
 date: 2026-08-20
-description: "Hold din deling i Everdisk sikker: beskyt adgangen med login og adgangskode, styr om forbundne enheder kan uploade, omdøbe og slette med Redigering af filer, bloker ukendte enheder, vælg papirkurv vs. permanent sletning, og forstå hvorfor alt bliver på dit lokale netværk."
-keywords: ["Everdisk adgangskodebeskyttelse", "redigering af filer kontakt", "bloker enhed", "blokerede enheder", "slet filer permanent", "kun lokalt netværk", "privat fildeling", "DLNA ingen adgangskode", "netværkssikkerhed"]
+description: "Hold din deling i Everdisk sikker: beskyt adgangen med login og adgangskode, kryptér SMB-forbindelsen med SMB3 (AES), styr om forbundne enheder kan uploade, omdøbe og slette med Redigering af filer, bloker ukendte enheder, vælg papirkurv vs. permanent sletning, og forstå hvorfor alt bliver på dit lokale netværk."
+keywords: ["Everdisk adgangskodebeskyttelse", "SMB-kryptering", "SMB3 AES-kryptering", "redigering af filer kontakt", "bloker enhed", "blokerede enheder", "slet filer permanent", "kun lokalt netværk", "privat fildeling", "DLNA ingen adgangskode", "netværkssikkerhed"]
 tags: ["everdisk", "vejledning", "adgang", "privatliv", "sikkerhed"]
 readingTime: 8
 ---
@@ -16,11 +16,23 @@ Som standard kan alle på det samme netværk, der har din adresse, åbne dine de
 
 1. Gå til **Indstillinger → Deling → Adgang**.
 2. Indtast et **Login** og en **Adgangskode**.
-3. Nu beder forbindelserne **Browser (HTTP)**, **Computer (WebDAV)** og **Andre apps og enheder (FTP)** alle om de oplysninger, før de viser dine filer.
+3. Nu beder forbindelserne **Browser (HTTP)**, **Computer (WebDAV)**, **Computer (avanceret) (SMB)** og **Andre apps og enheder (FTP)** alle om de oplysninger, før de viser dine filer.
 
 Lad begge felter stå tomme for åben adgang. Din adgangskode gemmes sikkert i enhedens Keychain.
 
 > **DLNA er altid åben.** Forbindelsen TV og Media Center (DLNA) kan ikke beskyttes med adgangskode, så når den er slået til, kan enhver enhed på det samme Wi-Fi gennemse dine delte medier. Slå den fra, hvis du kun vil have beskyttede forbindelser, og del kun på netværk, du stoler på.
+
+## Kryptér SMB-forbindelsen (SMB3 / AES)
+
+Et login og en adgangskode styrer, **hvem** der kan forbinde, men selve dataene sendes stadig i klartekst på de fleste forbindelser. **SMB er den eneste forbindelse, Everdisk kan kryptere**, hvilket krypterer hver overførsel, så ingen andre på det samme netværk kan læse den.
+
+Sådan slår du det til:
+
+1. Sæt et **Login** og en **Adgangskode** som ovenfor - krypterede forbindelser kan ikke være anonyme.
+2. Gå til **Indstillinger → Deling** og slå **Kræv SMB-kryptering** til.
+3. **Stop og Start** deling igen, så ændringen træder i kraft.
+
+Hver SMB-overførsel er derefter beskyttet med **SMB3-kryptering (AES)**. Den forbindende enhed skal understøtte SMB3 - Finder på en moderne Mac eller **Windows 10 og nyere**. Det er et godt valg på Wi-Fi, du ikke helt har tillid til. SMB-kryptering er en Premium-funktion.
 
 ## Tillad eller bloker redigering (Redigering af filer)
 

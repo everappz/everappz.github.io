@@ -1,14 +1,14 @@
 ---
 title: "Připojte svá zařízení"
 date: 2026-08-20
-description: "Pokyny krok za krokem, jak se připojit k bezdrátovému disku Everdisk: sledujte na chytré televizi přes DLNA, otevřete své soubory v jakémkoli webovém prohlížeči, připojte zařízení jako síťový disk ve Finderu, ve Windows nebo v Linuxu přes WebDAV, propojte souborové aplikace přes FTP a přenášejte přes kabel USB do Macu bez Wi-Fi."
+description: "Pokyny krok za krokem, jak se připojit k bezdrátovému disku Everdisk: sledujte na chytré televizi přes DLNA, otevřete své soubory v jakémkoli webovém prohlížeči, připojte zařízení jako síťový disk ve Finderu, ve Windows nebo v Linuxu přes WebDAV nebo SMB (s volitelným šifrováním SMB3/AES), propojte souborové aplikace přes FTP a přenášejte přes kabel USB do Macu bez Wi-Fi."
 keywords: ["připojení k Everdisku", "streamování do TV DLNA", "otevření souborů v prohlížeči", "připojení síťového disku Finder", "WebDAV Windows Linux", "souborová aplikace FTP", "přenos přes kabel USB Mac", "připojení iPhonu k počítači", "síťový disk iPhone"]
 tags: ["everdisk", "guide", "connect"]
 readingTime: 11
 ---
 
 
-Jakmile na obrazovce [Sdílení](/docs/guide/everdisk/everdisk-guide-sharing) klepnete na **Spustit**, mohou se ostatní zařízení k vašim souborům připojit čtyřmi různými způsoby. Vyberte metodu, která odpovídá zařízení, jež chcete použít. V každém případě je přesná **adresa**, kterou potřebujete, zobrazena v sekci **Jak se připojit** na obrazovce Sdílení.
+Jakmile na obrazovce [Sdílení](/docs/guide/everdisk/everdisk-guide-sharing) klepnete na **Spustit**, mohou se ostatní zařízení k vašim souborům připojit pěti různými způsoby. Vyberte metodu, která odpovídá zařízení, jež chcete použít. V každém případě je přesná **adresa**, kterou potřebujete, zobrazena v sekci **Jak se připojit** na obrazovce Sdílení.
 
 > Obě zařízení musí být ve **stejné síti Wi-Fi** - nebo, v případě Macu, propojená **kabelem USB** (viz poslední sekce).
 
@@ -71,6 +71,29 @@ Použijte tuto možnost, aby se vaše zařízení zobrazilo jako běžný disk n
 2. Zadejte adresu WebDAV zobrazenou v Everdisku.
 
 Zda je připojení jen ke čtení, nebo obousměrné, závisí na nastavení **Úpravy souborů**. Při zapnutém nastavení můžete soubory do zařízení kopírovat a přejmenovávat či mazat je; při vypnutém je disk pouze ke čtení.
+
+## Připojení přes SMB (šifrovaný síťový disk)
+
+SMB je síťový disk pro Mac, Windows a Linux, postavený na sdílení souborů, které tyto systémy už mají, takže se vaše zařízení zobrazí jako běžný síťový disk - a je to jediné připojení, které můžete šifrovat.
+
+1. V **Nastavení → Sdílení → Připojení** se ujistěte, že je **Počítač (pokročilé)** (připojení SMB) zapnuté.
+2. Klepněte na **Spustit** a poznamenejte si adresu **SMB**, která vypadá jako `smb://192.168.1.20:4455/Share`.
+3. Připojte se ze svého počítače:
+   - **Mac:** vaše zařízení se objeví samo v **postranním panelu Finderu** v části **Umístění** (Síť) - stačí na něj kliknout a přihlásit se. Pokud se chcete připojit ručně, zvolte **Otevřít → Připojit k serveru** (**⌘K**) a zadejte adresu.
+   - **Windows:** otevřete **Průzkumník souborů**, klikněte pravým tlačítkem na **Tento počítač** a zvolte **Připojit síťovou jednotku**, pak zadejte `\\<address>\Share` s použitím hostitele a názvu sdílené složky z obrazovky Sdílení (nebo zadejte adresu `smb://` do adresního řádku).
+   - **Linux:** ve svém správci souborů zvolte **Připojit k serveru** a zadejte adresu.
+4. Zadejte přihlašovací jméno a heslo, pokud jste je nastavili, jinak se připojte jako host.
+5. Sdílená složka se jmenuje **Share**. Se zapnutými **Úpravami souborů** můžete kopírovat soubory oběma směry; s vypnutými je disk jen pro čtení.
+
+**Zapnutí šifrování (doporučeno na nedůvěryhodné Wi-Fi)**
+
+SMB je jediné připojení Everdisku, které lze šifrovat. Chcete-li chránit každý přenos **šifrováním SMB3 (AES)**:
+
+1. V **Nastavení → Sdílení → Přístup** nastavte **Přihlašovací jméno** a **Heslo** - šifrovaná připojení nemohou být anonymní.
+2. V **Nastavení → Sdílení** zapněte **Vyžadovat šifrování SMB**.
+3. **Zastavte a znovu spusťte** sdílení, aby se změna projevila.
+
+Váš klient musí podporovat SMB3 - Finder na moderním Macu nebo **Windows 10 a novější**. Šifrování SMB je Premium funkce.
 
 ## Připojení souborové aplikace (FTP)
 

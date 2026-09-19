@@ -1,7 +1,7 @@
 ---
 title: "Einstellungen"
 date: 2026-08-20
-description: "Ein vollstandiger Rundgang durch die Everdisk-Einstellungen: Gerateprofil (Name und Avatar), die vier Verbindungsserver, Zugriffskontrollen, Foto- und Videoqualitat, eigene Ports, DLNA-Vorschaubilder, Netzwerk- und Ubertragungsoptionen, Dateimanager-Optionen und Premium."
+description: "Ein vollstandiger Rundgang durch die Everdisk-Einstellungen: Gerateprofil (Name und Avatar), die funf Verbindungsserver, Zugriffskontrollen, SMB-Verschlusselung (SMB3/AES), Foto- und Videoqualitat, eigene Ports, DLNA-Vorschaubilder, Netzwerk- und Ubertragungsoptionen, Dateimanager-Optionen und Premium."
 keywords: ["Everdisk Einstellungen", "Geratename Avatar", "Verbindungsserver", "Foto- Videoqualitat", "eigene Ports HTTP WebDAV FTP", "DLNA-Vorschaubilder", "parallele Ubertragungen", "Dateien endgultig loschen", "Vorschaubild-Cache", "Everdisk Premium"]
 tags: ["everdisk", "guide", "settings"]
 readingTime: 12
@@ -38,11 +38,12 @@ Details findest du unter [Zugriff & Privatsphare](/docs/guide/everdisk/everdisk-
 
 ### Verbindungen
 
-Schalte jeden Server ein oder aus. Alle vier sind standardmassig aktiviert, und jeder hat eine Info-Schaltflache (ⓘ) mit Verbindungsanleitungen:
+Schalte jeden Server ein oder aus. Alle funf sind standardmassig aktiviert, und jeder hat eine Info-Schaltflache (ⓘ) mit Verbindungsanleitungen:
 
 - **TV & Media Center** (DLNA)
 - **Browser** (HTTP)
 - **Computer** (WebDAV)
+- **Computer (Erweitert)** (SMB) - ein Netzlaufwerk fur Mac, Windows und Linux; auf einem Mac erscheint es von selbst in der Finder-Seitenleiste. Die einzige Verbindung, die verschlusselt werden kann.
 - **Andere Apps & Gerate** (FTP)
 
 ### Fotos
@@ -61,7 +62,11 @@ Dasselbe Prinzip wie bei Fotos: Original ist am schnellsten, und die Umwandlung 
 
 ### Erweitert
 
-- **HTTP-Port** (Standard 80), **WebDAV-Port** (Standard 8080), **FTP-Port** (Standard 2121). DLNA wahlt seinen Port automatisch. *(Das Andern von Ports ist Premium; kostenlose Nutzer konnen die Werte sehen.)*
+- **HTTP-Port** (Standard 80), **WebDAV-Port** (Standard 8080), **SMB-Port** (Standard 4455), **FTP-Port** (Standard 2121). DLNA wahlt seinen Port automatisch. *(Das Andern von Ports ist Premium; kostenlose Nutzer konnen die Werte sehen.)*
+
+### SMB-Verschlüsselung
+
+- **SMB-Verschlüsselung anfordern** - verschlussele jede SMB-Ubertragung mit **SMB3-Verschlusselung (AES)**, sodass niemand sonst im Netzwerk deine Dateien lesen kann. Standardmassig deaktiviert. Es benotigt einen oben festgelegten **Login und ein Passwort** (verschlusselte Verbindungen konnen nicht anonym sein) und einen Client, der SMB3 unterstutzt, etwa der Finder auf einem modernen Mac oder Windows 10 und neuer. Anderungen werden beim nachsten Start des Teilens wirksam. *(Premium.)*
 
 ### DLNA-Vorschaubilder
 
@@ -92,7 +97,8 @@ Everdisk ist kostenlos nutzbar. Ein einzelner **Premium-Lifetime**-Kauf - eine e
 - **Unbegrenzte Ordner** - teile mehr als 5 Ordner.
 - **Unbegrenzte Verbindungen** - speichere mehr als 10 Server im Tab Gerate.
 - **Foto- & Videoumwandlung** - teile in jeder Qualitat ausser Original.
-- **Eigene Ports** - lege deine eigenen HTTP-, WebDAV- und FTP-Ports fest.
+- **SMB-Verschlüsselung** - schutze SMB-Ubertragungen mit SMB3-Verschlusselung (AES).
+- **Eigene Ports** - lege deine eigenen HTTP-, WebDAV-, SMB- und FTP-Ports fest.
 - **Automatisches Starten des Teilens** - starte das Teilen automatisch, wenn du die App offnest.
 - **Geratanpassung** - ein eigener Geratename, ein Avatar-Symbol, ein Hintergrundverlauf oder ein Foto-Avatar.
 

@@ -1,7 +1,7 @@
 ---
 title: "Everdisk"
 date: 2026-08-20
-description: "Everdisk Kullanım Kılavuzu - iPhone veya iPad'inizi kablosuz bir sürücüye dönüştürün. Dosyalarınızı, fotoğraflarınızı, videolarınızı ve müziklerinizi ağınızdaki her cihazla DLNA, HTTP, WebDAV ve FTP üzerinden nasıl paylaşacağınızı, DLNA/WebDAV/FTP/SFTP sunucularına nasıl bağlanacağınızı, dosya yöneticisini nasıl kullanacağınızı, dosyaları nasıl sıkıştırıp açacağınızı, belgeleri PDF'e nasıl tarayacağınızı ve her şeyi yerel ağınızda nasıl özel tutacağınızı öğrenin."
+description: "Everdisk Kullanım Kılavuzu - iPhone veya iPad'inizi kablosuz bir sürücüye dönüştürün. Dosyalarınızı, fotoğraflarınızı, videolarınızı ve müziklerinizi ağınızdaki her cihazla DLNA, HTTP, WebDAV, SMB ve FTP üzerinden nasıl paylaşacağınızı, SMB bağlantısını SMB3 (AES) ile nasıl şifreleyeceğinizi, DLNA/WebDAV/FTP/SFTP/SMB sunucularına nasıl bağlanacağınızı, dosya yöneticisini nasıl kullanacağınızı, dosyaları nasıl sıkıştırıp açacağınızı, belgeleri PDF'e nasıl tarayacağınızı ve her şeyi yerel ağınızda nasıl özel tutacağınızı öğrenin."
 keywords: ["Everdisk", "Everdisk kılavuzu", "Everdisk kullanım kılavuzu", "iPhone kablosuz sürücü", "iPhone dosya paylaşma", "ağ üzerinden fotoğraf paylaşma", "DLNA ile TV'ye aktarma", "iPhone WebDAV sunucu", "iPhone FTP sunucu", "iPhone ağ sürücüsü", "iPhone USB dosya aktarımı", "iOS dosya yöneticisi", "iPhone sıkıştır aç", "belgeleri PDF'e tara", "NAS bağlantısı", "iPhone SFTP istemci"]
 tags: ["everdisk", "guide"]
 readingTime: 4
@@ -10,14 +10,15 @@ readingTime: 4
 
 Everdisk, iPhone veya iPad'inizi bir **kablosuz sürücüye** ve diğer cihazlarınıza da bağlanan bir merkeze dönüştürür. Seçtiğiniz dosyaları, fotoğrafları, videoları ve müzikleri paylaşırsınız; yerel ağınızdaki her şey bunlara erişebilir - akıllı bir TV, bir Mac ya da PC, bir web tarayıcısı veya başka bir telefon. Hesap yok, bulut yok, karşı tarafa kurulacak ekstra bir şey yok. Sadece **Başlat**'a dokunmanız yeterli, hazırsınız.
 
-Uygulama **dört sunucuyu aynı anda** çalıştırır; böylece her cihaz sevdiği yöntemle bağlanır:
+Uygulama **beş sunucuyu aynı anda** çalıştırır; böylece her cihaz sevdiği yöntemle bağlanır:
 
 - **TV ve Medya Merkezi (DLNA)** - akıllı TV'ler ve medya oynatıcıları fotoğraflarınızı, videolarınızı ve müziklerinizi kendileri bulur.
 - **Tarayıcı (HTTP)** - herkes bir web tarayıcısında bir bağlantı açarak dosyalarınızı görüntüler ve indirir.
 - **Bilgisayar (WebDAV)** - cihazınız Finder, Windows veya Linux'ta sıradan bir ağ sürücüsü gibi görünür.
+- **Bilgisayar (Gelişmiş) (SMB)** - Mac, Windows ve Linux için, bu sistemlerde zaten bulunan dosya paylaşımı üzerine kurulu bir ağ sürücüsü; bir Mac'te Finder kenar çubuğunda kendiliğinden görünür. SMB3 şifrelemesiyle (AES) şifreleyebileceğiniz tek bağlantıdır.
 - **Diğer Uygulamalar ve Cihazlar (FTP)** - dosya uygulamaları ve güçlü araçlar FTP üzerinden bağlanır.
 
-Everdisk tersi yönde de çalışır: ağınızdaki **DLNA**, **WebDAV**, **FTP** ve **SFTP** sunucularına bağlanır; böylece onların dosyalarına göz atabilir, akışını yapabilir ve indirebilirsiniz. Bunun yanında eksiksiz bir dosya yöneticisi, yerleşik bir medya oynatıcı, bir fotoğraf galerisi, belgeleri PDF'e tarama ve sıkıştırma / açma özellikleri içerir. Her şey yerel ağınızda kalır ve asla internete dokunmaz.
+Everdisk tersi yönde de çalışır: ağınızdaki **DLNA**, **WebDAV**, **FTP**, **SFTP** ve **SMB** sunucularına - Mac'ler, Windows PC'ler, Linux makineleri ve NAS sürücüleri dahil - bağlanır; böylece onların dosyalarına göz atabilir, akışını yapabilir ve indirebilirsiniz. Bunun yanında eksiksiz bir dosya yöneticisi, yerleşik bir medya oynatıcı, bir fotoğraf galerisi, belgeleri PDF'e tarama ve sıkıştırma / açma özellikleri içerir. Her şey yerel ağınızda kalır ve asla internete dokunmaz.
 
 Everdisk ücretsiz indirilir; isteğe bağlı, tek seferlik bir Premium Lifetime satın alımı ücretsiz sınırları kaldırır ve ek özellikleri açar.
 
@@ -27,11 +28,11 @@ Bu kılavuz, uygulamanın her bölümünü adım adım açıklar. Paylaşımın 
 
 
 {{< cards >}}
-  {{< card icon="play" title="Paylaşım" subtitle="Başlat'a dokunun, ne paylaşacağınızı seçin ve dört sunucuyu aynı anda çalıştırın. Paylaşım ekranını baştan sona öğrenin." link="/docs/guide/everdisk/everdisk-guide-sharing" >}}
+  {{< card icon="play" title="Paylaşım" subtitle="Başlat'a dokunun, ne paylaşacağınızı seçin ve beş sunucuyu aynı anda çalıştırın. Paylaşım ekranını baştan sona öğrenin." link="/docs/guide/everdisk/everdisk-guide-sharing" >}}
 
   {{< card icon="desktop-computer" title="Cihazlarınızı Bağlayın" subtitle="Bir TV, bir Mac ya da PC, bir web tarayıcısı, başka bir telefon ya da bir USB kablosu paylaşılan dosyalarınıza nasıl bağlanır." link="/docs/guide/everdisk/everdisk-guide-connect" >}}
 
-  {{< card icon="server" title="Sunuculara Bağlanın" subtitle="Ağınızdaki diğer DLNA, WebDAV, FTP ve SFTP sunucularına ve NAS sürücülerine ulaşın; göz atın, akış yapın ve indirin." link="/docs/guide/everdisk/everdisk-guide-devices" >}}
+  {{< card icon="server" title="Sunuculara Bağlanın" subtitle="Ağınızdaki diğer DLNA, WebDAV, FTP, SFTP ve SMB sunucularına ve NAS sürücülerine ulaşın; göz atın, akış yapın ve indirin." link="/docs/guide/everdisk/everdisk-guide-devices" >}}
 
   {{< card icon="folder" title="Dosyalar ve Belgeler" subtitle="Göz atın, klasör oluşturun, yeniden adlandırın, taşıyın, kopyalayın ve silin, sıkıştırın ve açın, harici klasörler bağlayın ve PDF'e tarayın." link="/docs/guide/everdisk/everdisk-guide-files" >}}
 

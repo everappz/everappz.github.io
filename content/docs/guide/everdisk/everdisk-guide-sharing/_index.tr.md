@@ -1,7 +1,7 @@
 ---
 title: "Paylaşım"
 date: 2026-08-20
-description: "Everdisk'te paylaşımın nasıl çalıştığını öğrenin: iPhone veya iPad'inizi kablosuz sürücüye dönüştürmek için Başlat'a dokunun, ne paylaşacağınızı seçin (dosyalar, klasörler, fotoğraflar ve müzik), dört sunucuyu (DLNA, HTTP, WebDAV, FTP) çalıştırın, bağlantı adreslerini okuyun, kimin bağlı olduğunu görün ve paylaşımı Wi-Fi veya bir USB kablosu üzerinden çalışır durumda tutun."
+description: "Everdisk'te paylaşımın nasıl çalıştığını öğrenin: iPhone veya iPad'inizi kablosuz sürücüye dönüştürmek için Başlat'a dokunun, ne paylaşacağınızı seçin (dosyalar, klasörler, fotoğraflar ve müzik), beş sunucuyu (DLNA, HTTP, WebDAV, SMB, FTP) çalıştırın, SMB bağlantısını SMB3 (AES) ile şifreleyin, bağlantı adreslerini okuyun, kimin bağlı olduğunu görün ve paylaşımı Wi-Fi veya bir USB kablosu üzerinden çalışır durumda tutun."
 keywords: ["Everdisk paylaşım", "iPhone kablosuz sürücü", "paylaşımı başlat", "iPhone dosya paylaşma", "ağ üzerinden fotoğraf paylaşma", "DLNA HTTP WebDAV FTP", "ne paylaşılır", "nasıl bağlanılır", "uygulamayı açık tut", "Wi-Fi veya USB kablosuyla paylaşım"]
 tags: ["everdisk", "guide", "sharing"]
 readingTime: 9
@@ -17,7 +17,7 @@ Paylaşım ekranının ortasında büyük, yuvarlak bir düğme bulunur.
 - Etkin sunucularınızın tümünü aynı anda çevrimiçi getirmek için **Başlat**'a dokunun. Düğme önce **Başlatılıyor...**, paylaşım etkin olduğunda ise **Durdur** gösterir.
 - Her şeyi yeniden çevrimdışına almak için **Durdur**'a dokunun. Bağlı cihazların bağlantısı kesilir.
 
-Paylaşım çalışırken seçtiğiniz dosyalar, fotoğraflar ve müzik, aşağıdaki dört yöntemden birini kullanarak bağlanan, aynı ağdaki herhangi bir cihaz için erişilebilir olur.
+Paylaşım çalışırken seçtiğiniz dosyalar, fotoğraflar ve müzik, aşağıdaki beş yöntemden birini kullanarak bağlanan, aynı ağdaki herhangi bir cihaz için erişilebilir olur.
 
 > Paylaşım yalnızca uygulama açıkken çalışır. Nedenini ve büyük aktarımları nasıl sürdüreceğinizi öğrenmek için bu sayfanın sonuna yakın **Uygulamayı açık tutun** bölümüne bakın.
 
@@ -44,13 +44,14 @@ Başlamadan önce, üç grubu açmak için **Ne Paylaşılır** başlığına do
 
 Hiçbir şey seçmeden başlatmayı denerseniz, Everdisk bir **Paylaşılacak Bir Şey Yok** notu gösterir. Paylaşım çalışırken paylaşılanları değiştirirseniz, değişikliği uygulamak için **Durdurup yeniden Başlatın**.
 
-## Dört sunucu
+## Beş sunucu
 
-Everdisk aynı içeriği aynı anda dört farklı yolla paylaşır. Her biri farklı türde bir cihaz için tasarlanmıştır ve her biri **Ayarlar → Paylaşım → Bağlantılar** üzerinden açılıp kapatılabilir. Varsayılan olarak dördü de açıktır.
+Everdisk aynı içeriği aynı anda beş farklı yolla paylaşır. Her biri farklı türde bir cihaz için tasarlanmıştır ve her biri **Ayarlar → Paylaşım → Bağlantılar** üzerinden açılıp kapatılabilir. Varsayılan olarak beşi de açıktır.
 
 - **TV ve Medya Merkezi (DLNA)** - akıllı TV'ler ve medya oynatıcıları için. Cihazınızı kendileri keşfeder ve fotoğraflarınızı, videolarınızı ve müziklerinizi önizleme küçük resimleriyle gösterir.
 - **Tarayıcı (HTTP)** - herhangi bir telefon, tablet veya bilgisayar için. Karşı taraf, dosyalarınıza göz atmak ve indirmek için bir web tarayıcısında bir bağlantı açar. Kurulacak bir şey yok.
 - **Bilgisayar (WebDAV)** - bir Mac, Windows PC veya Linux makine için. Cihazınız sıradan bir ağ sürücüsü gibi görünür; böylece dosyaları her iki yönde de sürükleyebilirsiniz.
+- **Bilgisayar (Gelişmiş) (SMB)** - Mac, Windows ve Linux için bir ağ sürücüsü. Bir Mac'te Finder kenar çubuğunda kendiliğinden görünür; Windows'ta bir `smb://` adresiyle Dosya Gezgini'nde açın. **Şifreleyebileceğiniz** tek bağlantıdır, SMB3 şifrelemesiyle (AES).
 - **Diğer Uygulamalar ve Cihazlar (FTP)** - FTP konuşan dosya uygulamaları ve ileri düzey kullanıcılar için.
 
 Her tür için adım adım bağlantı talimatları için bkz. [Cihazlarınızı Bağlayın](/docs/guide/everdisk/everdisk-guide-connect).

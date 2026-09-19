@@ -1,14 +1,14 @@
 ---
 title: "Collega i tuoi dispositivi"
 date: 2026-08-20
-description: "Istruzioni passo dopo passo per collegarti alla tua unità wireless Everdisk: guarda i contenuti su una smart TV tramite DLNA, apri i tuoi file in qualsiasi browser web, monta il tuo dispositivo come unità di rete in Finder, Windows o Linux tramite WebDAV, collega app per file tramite FTP e trasferisci tramite cavo USB verso un Mac senza Wi-Fi."
+description: "Istruzioni passo dopo passo per collegarti alla tua unità wireless Everdisk: guarda i contenuti su una smart TV tramite DLNA, apri i tuoi file in qualsiasi browser web, monta il tuo dispositivo come unità di rete in Finder, Windows o Linux tramite WebDAV o SMB (con cifratura SMB3/AES opzionale), collega app per file tramite FTP e trasferisci tramite cavo USB verso un Mac senza Wi-Fi."
 keywords: ["collegarsi a Everdisk", "streaming su TV DLNA", "aprire file nel browser", "montare unità di rete Finder", "WebDAV Windows Linux", "app per file FTP", "trasferimento via cavo USB Mac", "collegare iPhone al computer", "unità di rete iPhone"]
 tags: ["everdisk", "guida", "collegamento"]
 readingTime: 11
 ---
 
 
-Una volta che tocchi **Avvia** nella schermata [Condivisione](/docs/guide/everdisk/everdisk-guide-sharing), gli altri dispositivi possono collegarsi ai tuoi file in quattro modi diversi. Scegli il metodo adatto al dispositivo che vuoi usare. In ogni caso, l'**indirizzo** esatto che ti serve è mostrato nella sezione **Come collegarsi** della schermata Condivisione.
+Una volta che tocchi **Avvia** nella schermata [Condivisione](/docs/guide/everdisk/everdisk-guide-sharing), gli altri dispositivi possono collegarsi ai tuoi file in cinque modi diversi. Scegli il metodo adatto al dispositivo che vuoi usare. In ogni caso, l'**indirizzo** esatto che ti serve è mostrato nella sezione **Come collegarsi** della schermata Condivisione.
 
 > Entrambi i dispositivi devono essere sulla **stessa rete Wi-Fi**, oppure, per un Mac, collegati con un **cavo USB** (vedi l'ultima sezione).
 
@@ -71,6 +71,29 @@ Usa questo metodo per far apparire il tuo dispositivo come un normale disco su u
 2. Inserisci l'indirizzo WebDAV mostrato in Everdisk.
 
 Se la connessione è di sola lettura o bidirezionale dipende dall'impostazione **Modifica file**. Con essa attiva, puoi copiare i file sul tuo dispositivo e rinominarli o eliminarli; con essa disattivata, l'unità è di sola lettura.
+
+## Collegarsi tramite SMB (unità di rete cifrata)
+
+SMB è un'unità di rete per Mac, Windows e Linux, basata sulla condivisione file già presente in quei sistemi, così il tuo dispositivo appare come una normale unità di rete - ed è l'unica connessione che puoi cifrare.
+
+1. In **Impostazioni → Condivisione → Connessioni**, assicurati che **Computer (avanzate)** (la connessione SMB) sia attivo.
+2. Tocca **Avvia** e prendi nota dell'indirizzo **SMB**, che assomiglia a `smb://192.168.1.20:4455/Share`.
+3. Connettiti dal tuo computer:
+   - **Mac:** il tuo dispositivo compare da solo nella **barra laterale del Finder** sotto **Posizioni** (Rete) - basta fare clic e accedere. Per connetterti manualmente, scegli **Vai → Connessione al server** (**⌘K**) e inserisci l'indirizzo.
+   - **Windows:** apri **Esplora file**, fai clic con il tasto destro su **Questo PC** e scegli **Aggiungi percorso di rete**, poi inserisci `\\<address>\Share` usando l'host e il nome della condivisione dalla schermata Condivisione (oppure digita l'indirizzo `smb://` nella barra degli indirizzi).
+   - **Linux:** nel tuo gestore file scegli **Connessione al server** e inserisci l'indirizzo.
+4. Inserisci il login e la password se ne hai impostati, altrimenti connettiti come ospite.
+5. La condivisione si chiama **Share**. Con **Modifica file** attiva puoi copiare i file in entrambe le direzioni; con essa disattivata è di sola lettura.
+
+**Attivare la cifratura (consigliata su Wi-Fi non affidabili)**
+
+SMB è l'unica connessione di Everdisk che può essere cifrata. Per proteggere ogni trasferimento con la **cifratura SMB3 (AES)**:
+
+1. In **Impostazioni → Condivisione → Accesso**, imposta un **Login** e una **Password**: le connessioni cifrate non possono essere anonime.
+2. In **Impostazioni → Condivisione**, attiva **Richiedi cifratura SMB**.
+3. **Interrompi e riavvia** la condivisione così la modifica ha effetto.
+
+Il tuo client deve supportare SMB3: il Finder su un Mac moderno, o **Windows 10 e versioni successive**. La Cifratura SMB è una funzione Premium.
 
 ## Collegare un'app per file (FTP)
 

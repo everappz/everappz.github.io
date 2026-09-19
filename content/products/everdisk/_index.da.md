@@ -2,12 +2,12 @@
 date: '2026-08-20T12:00:00+00:00'
 title: 'Everdisk - Gør din iPhone og iPad til et trådløst drev'
 layout: hextra-home
-description: "Gør din iPhone eller iPad til et trådløst drev og del filer, billeder, videoer og musik med enhver enhed via DLNA, HTTP, WebDAV og FTP. Ingen sky nødvendig."
-keywords: ["Everdisk", "trådløst drev iPhone", "del filer iPhone", "WebDAV-server iOS", "DLNA-server iPhone", "FTP-server iOS", "stream til TV fra iPhone", "netværksdrev iPhone", "USB-filoverførsel iPhone", "filhåndtering iOS", "scan dokumenter til PDF", "del billeder over netværk"]
-tags: ["Everdisk", "trådløst drev", "fildeling", "DLNA", "WebDAV", "FTP", "SFTP", "netværksdrev", "iPhone-apps", "iPad-apps", "Mac-apps", "filhåndtering", "medieserver"]
+description: "Gør din iPhone eller iPad til et trådløst drev og del filer, billeder, videoer og musik med enhver enhed via DLNA, HTTP, WebDAV, SMB og FTP. Tilslut som netværksdrev med valgfri SMB-kryptering. Ingen sky nødvendig."
+keywords: ["Everdisk", "trådløst drev iPhone", "del filer iPhone", "WebDAV-server iOS", "SMB-server iPhone", "SMB-kryptering iOS", "DLNA-server iPhone", "FTP-server iOS", "stream til TV fra iPhone", "netværksdrev iPhone", "USB-filoverførsel iPhone", "filhåndtering iOS", "scan dokumenter til PDF", "del billeder over netværk"]
+tags: ["Everdisk", "trådløst drev", "fildeling", "DLNA", "WebDAV", "SMB", "FTP", "SFTP", "netværksdrev", "iPhone-apps", "iPad-apps", "Mac-apps", "filhåndtering", "medieserver"]
 appStoreUrl: "https://apps.apple.com/app/apple-store/id6751851132?pt=95781850&ct=everappzcom&mt=8"
 appStoreId: "6751851132"
-features: "Trådløst drev over Wi-Fi og USB, Fire servere på én gang (DLNA, HTTP, WebDAV, FTP), Stream til smart-TV over DLNA, Åbn i enhver webbrowser, Tilslut som netværksdrev i Finder/Windows/Linux, Forbind til DLNA/WebDAV/FTP/SFTP-servere, Indbygget filhåndtering med zip/udpakning, Scan dokumenter til PDF, Marker og signer PDF'er og billeder, PDF-værktøjer (komprimering, OCR-tekstgenkendelse, adgangskodebeskyttelse, tilladelser, metadata, fladgøring), Billedgalleri og medieafspiller, Del hele dit billed- og musikbibliotek, Adgangskodebeskyttelse og blokering af enheder"
+features: "Trådløst drev over Wi-Fi og USB, Fem servere på én gang (DLNA, HTTP, WebDAV, SMB, FTP), Stream til smart-TV over DLNA, Åbn i enhver webbrowser, Tilslut som netværksdrev i Finder/Windows/Linux, SMB-netværksdrev med valgfri SMB3-kryptering (AES), Forbind til DLNA/WebDAV/FTP/SFTP/SMB-servere, Indbygget filhåndtering med zip/udpakning, Scan dokumenter til PDF, Marker og signer PDF'er og billeder, PDF-værktøjer (komprimering, OCR-tekstgenkendelse, adgangskodebeskyttelse, tilladelser, metadata, fladgøring), Billedgalleri og medieafspiller, Del hele dit billed- og musikbibliotek, Adgangskodebeskyttelse og blokering af enheder"
 screenshots:
   - "https://everappz.com/products/everdisk/screenshots/browser_access.png"
   - "https://everappz.com/products/everdisk/screenshots/connect_to_servers.png"
@@ -16,7 +16,7 @@ screenshots:
 ---
 
 {{% sr-only %}}
-Everdisk er en app til trådløst drev til iPhone og iPad, udviklet af Everappz. Den gør din enhed til et knudepunkt, der deler filer, billeder, videoer og musik med alt på dit lokale netværk, uden konti, uden sky og uden en ekstra app, der skal installeres i den anden ende. Appen kører fire servere samtidig - DLNA til smart-TV og medieafspillere, HTTP til enhver webbrowser, WebDAV til Finder, Windows og Linux, og FTP til fil-apps og avancerede brugere - så hver enhed forbinder på sin foretrukne måde. Du kan streame billeder, videoer og musik direkte til smart-TV over DLNA med forhåndsvisningsminiaturer, dele et enkelt link, der åbnes i enhver browser til at gennemse og downloade dine filer, eller tilslutte din enhed som et netværksdrev og trække filer i begge retninger. Når der ikke er Wi-Fi, kan du forbinde til en Mac med et USB-kabel og flytte filer hurtigere end over Wi-Fi, selv i et fly eller på et låst netværk. Everdisk forbinder også til DLNA-, WebDAV-, FTP- og SFTP-servere på dit netværk, så du kan gennemse, streame og downloade deres filer. En indbygget filhåndtering lader dig gennemse i liste eller gitter, oprette mapper, omdøbe, flytte, kopiere, zippe og udpakke samt slette. Du kan scanne papirdokumenter til rene PDF'er, åbne en PDF eller et billede og markere det med den indbyggede editor - tegne, fremhæve, tilføje tekst og en signatur, med ændringer gemt tilbage i filen - og bruge et komplet sæt PDF-værktøjer til at komprimere filer, genkende tekst (OCR) til en søgbar PDF, tilføje eller fjerne en åbningsadgangskode, gennemgå tilladelser, redigere dokumentmetadata og fladgøre annoteringer og formularfelter. Du kan også afspille lyd i en miniafspiller og se videoer i fuld skærm samt dele hele dit billed- og musikbibliotek over netværket i original kvalitet eller et mere kompatibelt format. Alt bliver på dit lokale netværk og rører aldrig internettet, og du kan beskytte adgangen med et login og en adgangskode og blokere enhver enhed med et enkelt tryk. Everdisk er en gratis download i App Store med et valgfrit engangskøb af Premium Lifetime.
+Everdisk er en app til trådløst drev til iPhone og iPad, udviklet af Everappz. Den gør din enhed til et knudepunkt, der deler filer, billeder, videoer og musik med alt på dit lokale netværk, uden konti, uden sky og uden en ekstra app, der skal installeres i den anden ende. Appen kører fem servere samtidig - DLNA til smart-TV og medieafspillere, HTTP til enhver webbrowser, WebDAV til Finder, Windows og Linux, SMB til et netværksdrev på Mac, Windows og Linux (med valgfri SMB3-kryptering), og FTP til fil-apps og avancerede brugere - så hver enhed forbinder på sin foretrukne måde. Du kan streame billeder, videoer og musik direkte til smart-TV over DLNA med forhåndsvisningsminiaturer, dele et enkelt link, der åbnes i enhver browser til at gennemse og downloade dine filer, eller tilslutte din enhed som et netværksdrev og trække filer i begge retninger. Du kan også tilslutte det over SMB, et netværksdrev til Mac, Windows og Linux, der dukker op af sig selv i Finder-sidebjælken på en Mac, og slå SMB3-kryptering (AES) til, så ingen andre på det samme netværk kan læse dine overførsler. Når der ikke er Wi-Fi, kan du forbinde til en Mac med et USB-kabel og flytte filer hurtigere end over Wi-Fi, selv i et fly eller på et låst netværk. Everdisk forbinder også til DLNA-, WebDAV-, FTP-, SFTP- og SMB-servere på dit netværk - herunder Mac-computere, Windows-pc'er, Linux-maskiner og NAS-drev - så du kan gennemse, streame og downloade deres filer. En indbygget filhåndtering lader dig gennemse i liste eller gitter, oprette mapper, omdøbe, flytte, kopiere, zippe og udpakke samt slette. Du kan scanne papirdokumenter til rene PDF'er, åbne en PDF eller et billede og markere det med den indbyggede editor - tegne, fremhæve, tilføje tekst og en signatur, med ændringer gemt tilbage i filen - og bruge et komplet sæt PDF-værktøjer til at komprimere filer, genkende tekst (OCR) til en søgbar PDF, tilføje eller fjerne en åbningsadgangskode, gennemgå tilladelser, redigere dokumentmetadata og fladgøre annoteringer og formularfelter. Du kan også afspille lyd i en miniafspiller og se videoer i fuld skærm samt dele hele dit billed- og musikbibliotek over netværket i original kvalitet eller et mere kompatibelt format. Alt bliver på dit lokale netværk og rører aldrig internettet, og du kan beskytte adgangen med et login og en adgangskode og blokere enhver enhed med et enkelt tryk. Everdisk er en gratis download i App Store med et valgfrit engangskøb af Premium Lifetime.
 {{% /sr-only %}}
 
 <!-- <body class="hx:bg-transparent" style="background: radial-gradient(ellipse at 50% 80%, rgba(59,130,246,0.05), hsla(0,0%,100%,0));"> -->
@@ -56,9 +56,9 @@ Gør din iPhone eller iPad til et trådløst drev&nbsp;<br class="hx:sm:block hx
 
 <div class="hx:mb-6">
 {{< hextra/hero-paragraph >}}
-• Tryk på Start og del på fire måder på én gang: DLNA, HTTP, WebDAV og FTP  
+• Tryk på Start og del på fem måder på én gang: DLNA, HTTP, WebDAV, SMB og FTP  
 • Stream billeder, videoer og musik direkte til smart-TV over DLNA  
-• Tilslut din enhed som et netværksdrev i Finder, Windows eller Linux  
+• Tilslut din enhed som et netværksdrev i Finder, Windows eller Linux - med valgfri SMB-kryptering  
 • Ingen Wi-Fi? Flyt filer over et USB-kabel, hurtigere end trådløst  
 {{< /hextra/hero-paragraph >}}
 </div>
@@ -82,7 +82,7 @@ Gør din iPhone eller iPad til et trådløst drev&nbsp;<br class="hx:sm:block hx
 
   {{< hextra/feature-card
     title="Din enhed bliver et drev"
-    subtitle="Tryk på Start, og din iPhone eller iPad bliver til et trådløst drev. Everdisk kører fire servere samtidig - DLNA, HTTP, WebDAV og FTP - så smart-TV, computere, webbrowsere og fil-apps hver især forbinder på deres foretrukne måde. Ingen konti, ingen sky og intet ekstra at installere i den anden ende."
+    subtitle="Tryk på Start, og din iPhone eller iPad bliver til et trådløst drev. Everdisk kører fem servere samtidig - DLNA, HTTP, WebDAV, SMB og FTP - så smart-TV, computere, webbrowsere og fil-apps hver især forbinder på deres foretrukne måde. Ingen konti, ingen sky og intet ekstra at installere i den anden ende."
     icon="server"
     style="background: radial-gradient(ellipse at 50% 80%, rgba(34,197,94,0.15), hsla(0,0%,100%,0));"
   >}}
@@ -109,6 +109,13 @@ Gør din iPhone eller iPad til et trådløst drev&nbsp;<br class="hx:sm:block hx
   >}}
 
   {{< hextra/feature-card
+    title="Krypteret SMB-deling"
+    subtitle="Tilslut over SMB, et netværksdrev til Mac, Windows og Linux - på en Mac dukker det op af sig selv i Finder-sidebjælken. Det er den eneste forbindelse, du kan kryptere: slå SMB3-kryptering (AES) til med et login og en adgangskode, så ingen andre på netværket kan læse dine filer."
+    icon="lock-closed"
+    style="background: radial-gradient(ellipse at 50% 80%, rgba(99,102,241,0.15), hsla(0,0%,100%,0));"
+  >}}
+
+  {{< hextra/feature-card
     title="Ingen Wi-Fi? Brug kablet"
     subtitle="Forbind din enhed til en Mac med det samme USB-kabel, du oplader den med. Filerne går direkte gennem kablet, hurtigere end Wi-Fi, og det virker fortsat i et fly, på et hotel eller på ethvert låst netværk, hvor Wi-Fi er blokeret."
     icon="lightning-bolt"
@@ -117,7 +124,7 @@ Gør din iPhone eller iPad til et trådløst drev&nbsp;<br class="hx:sm:block hx
 
   {{< hextra/feature-card
     title="Forbind til andre enheder"
-    subtitle="Find og forbind til DLNA-, WebDAV-, FTP- og SFTP-servere på dit netværk. Gennemse deres mapper, stream lyd og video, download filer og opret mapper, upload, omdøb, flyt eller slet, når serveren tillader det."
+    subtitle="Find og forbind til DLNA-, WebDAV-, FTP-, SFTP- og SMB-servere på dit netværk - Mac-computere, Windows-pc'er, Linux-maskiner og NAS-drev. Gennemse deres mapper, stream lyd og video, download filer og opret mapper, upload, omdøb, flyt eller slet, når serveren tillader det."
     icon="cloud-download"
     style="background: radial-gradient(ellipse at 50% 80%, rgba(6,182,212,0.15), hsla(0,0%,100%,0));"
   >}}
@@ -153,7 +160,7 @@ Gør din iPhone eller iPad til et trådløst drev&nbsp;<br class="hx:sm:block hx
     title="Forbind til servere" 
     method="Fill"
     options="1030x400 q82 webp Center"
-    subtitle="Find og forbind til DLNA-, WebDAV-, FTP- og SFTP-servere på dit netværk for at gennemse, streame og downloade deres filer." 
+    subtitle="Find og forbind til DLNA-, WebDAV-, FTP-, SFTP- og SMB-servere på dit netværk for at gennemse, streame og downloade deres filer." 
   >}}
 
   {{< feature-card 
@@ -208,7 +215,7 @@ Gør din iPhone eller iPad til et trådløst drev&nbsp;<br class="hx:sm:block hx
 
 {{< cards >}}
 
-  {{< feature-card title="Fire servere på én gang" subtitle="Tryk på Start og del dine filer på fire måder samtidig: DLNA til TV og medieafspillere, HTTP til enhver webbrowser, WebDAV til Finder, Windows og Linux, og FTP til fil-apps og avancerede brugere." icon="wifi" >}}
+  {{< feature-card title="Fem servere på én gang" subtitle="Tryk på Start og del dine filer på fem måder samtidig: DLNA til TV og medieafspillere, HTTP til enhver webbrowser, WebDAV til Finder, Windows og Linux, SMB til et netværksdrev på Mac, Windows og Linux, og FTP til fil-apps og avancerede brugere." icon="wifi" >}}
 
   {{< feature-card title="Stream til smart-TV" subtitle="Send billeder, videoer og musik direkte til smart-TV og medieafspillere over DLNA. Dit bibliotek dukker op på TV'et af sig selv, med forhåndsvisningsminiaturer, klar til den store skærm." icon="desktop-computer" >}}
 
@@ -216,9 +223,11 @@ Gør din iPhone eller iPad til et trådløst drev&nbsp;<br class="hx:sm:block hx
 
   {{< feature-card title="WebDAV-netværksdrev" subtitle="Forbind fra Finder på en Mac, fra Windows eller fra Linux over WebDAV, og din enhed vises som en helt almindelig netværksdisk. Træk og slip filer i begge retninger." icon="folder" >}}
 
+  {{< feature-card title="Krypteret SMB-drev" subtitle="Tilslut din enhed over SMB, et netværksdrev til Mac, Windows og Linux - på en Mac dukker det op af sig selv i Finder-sidebjælken. Det er den eneste forbindelse, der kan krypteres: slå SMB3-kryptering (AES) til med et login og en adgangskode for at holde hver overførsel privat." icon="lock-closed" >}}
+
   {{< feature-card title="Overfør over USB" subtitle="Slut til en Mac med dit opladerkabel og flyt filer direkte gennem kablet, hurtigere end Wi-Fi. Det virker fortsat i et fly, på et hotel eller på ethvert låst netværk." icon="lightning-bolt" >}}
 
-  {{< feature-card title="Forbind til DLNA, WebDAV, FTP &amp; SFTP" subtitle="Find og forbind til servere på dit netværk, gennemse deres mapper, stream lyd og video, download filer og opret, upload, omdøb, flyt eller slet, når det er tilladt." icon="server" >}}
+  {{< feature-card title="Forbind til DLNA, WebDAV, FTP, SFTP &amp; SMB" subtitle="Find og forbind til servere og NAS-drev på dit netværk, gennemse deres mapper, stream lyd og video, download filer og opret, upload, omdøb, flyt eller slet, når det er tilladt." icon="server" >}}
 
   {{< feature-card title="Indbygget filhåndtering" subtitle="En komplet filhåndtering til alt på din enhed. Gennemse i liste eller gitter, opret mapper, omdøb, flyt, kopier og slet, og tilknyt mapper fra alle steder på din enhed." icon="view-grid" >}}
 
@@ -283,11 +292,11 @@ Gør din iPhone eller iPad til et trådløst drev&nbsp;<br class="hx:sm:block hx
     title="Gratis"
     class="pricing-card pricing-free"
     subtitle=`<span class='pricing-details'>• Gør din enhed til et trådløst drev<br />
-• Fire servere på én gang: DLNA, HTTP, WebDAV, FTP<br />
+• Fem servere på én gang: DLNA, HTTP, WebDAV, SMB, FTP<br />
 • Stream til smart-TV, browsere og computere<br />
 • Tilslut som netværksdrev og overfør over USB<br />
 • Del hele dit billed- og musikbibliotek<br />
-• Forbind til DLNA-, WebDAV-, FTP- og SFTP-servere<br />
+• Forbind til DLNA-, WebDAV-, FTP-, SFTP- og SMB-servere<br />
 • Filhåndtering med zip og udpakning<br />
 • Scan dokumenter til PDF og komplette PDF-værktøjer<br />
 • Marker og signer PDF'er og billeder<br />
@@ -307,7 +316,8 @@ Gør din iPhone eller iPad til et trådløst drev&nbsp;<br class="hx:sm:block hx
 • Ubegrænset antal delte mapper (mere end 5)<br />
 • Ubegrænset antal gemte forbindelser (mere end 10)<br />
 • Billed- og videokonvertering til et kompatibelt format eller mindre størrelse<br />
-• Brugerdefinerede HTTP-, WebDAV- og FTP-porte<br />
+• SMB3-kryptering (AES) til privat, sikker deling<br />
+• Brugerdefinerede HTTP-, WebDAV-, SMB- og FTP-porte<br />
 • Automatisk start af deling, når du åbner appen<br />
 • Tilpasning af enhed: navn, avatarikon, gradient eller billede<br />
 • Engangskøb - betales én gang, fornyes aldrig</span><br /><br />
@@ -344,24 +354,25 @@ Everdisk gør din iPhone eller iPad til et trådløst drev og et knudepunkt, der
 Du kan dele dine filer, billeder, videoer og musik med alt på dit netværk, gennemse og streame fra andre servere og administrere alt direkte på din enhed.<br>
 Der er ingen konti, ingen sky og ingen ekstra app, der skal installeres i den anden ende - du trykker bare på Start, og så er du klar.<br><br>
 
-Appen kører fire servere samtidig, så hver enhed forbinder på sin foretrukne måde: smart-TV over DLNA, computere og webbrowsere over HTTP, Finder, Windows og Linux over WebDAV, og fil-apps over FTP.
+Appen kører fem servere samtidig, så hver enhed forbinder på sin foretrukne måde: smart-TV over DLNA, computere og webbrowsere over HTTP, Finder, Windows og Linux over WebDAV, et netværksdrev over SMB (med valgfri kryptering), og fil-apps over FTP.
 {{% /details %}}
 
 {{% details title="Hvordan fungerer Everdisk?" closed="true" %}}
-Når du trykker på Start, begynder Everdisk at dele det indhold, du har valgt, og kører fire servere på én gang, så forskellige enheder kan forbinde på deres foretrukne måde.<br><br>
+Når du trykker på Start, begynder Everdisk at dele det indhold, du har valgt, og kører fem servere på én gang, så forskellige enheder kan forbinde på deres foretrukne måde.<br><br>
 
 - <strong>DLNA</strong> lader smart-TV og medieafspillere finde dine billeder, videoer og musik automatisk og vise dem med forhåndsvisningsminiaturer.<br>
 - <strong>HTTP</strong> giver hvem som helst et enkelt link, de kan åbne i en webbrowser for at gennemse, forhåndsvise og downloade dine filer, uden noget at installere.<br>
 - <strong>WebDAV</strong> får din enhed til at vises som et helt almindeligt netværksdrev i Finder, Windows eller Linux, så du kan trække filer i begge retninger.<br>
+- <strong>SMB</strong> gør din enhed til et netværksdrev på Mac, Windows og Linux - på en Mac dukker det op af sig selv i Finder-sidebjælken - og det er den eneste forbindelse, du kan kryptere med SMB3-kryptering (AES).<br>
 - <strong>FTP</strong> virker med fil-apps og avancerede brugere.<br><br>
 
-Everdisk forbinder også den anden vej, til DLNA-, WebDAV-, FTP- og SFTP-servere på dit netværk, så du kan gennemse deres mapper, streame lyd og video og downloade eller administrere filer, når serveren tillader det. Alt bliver på dit lokale netværk og rører aldrig internettet.
+Everdisk forbinder også den anden vej, til DLNA-, WebDAV-, FTP-, SFTP- og SMB-servere på dit netværk - herunder Mac-computere, Windows-pc'er, Linux-maskiner og NAS-drev - så du kan gennemse deres mapper, streame lyd og video og downloade eller administrere filer, når serveren tillader det. Alt bliver på dit lokale netværk og rører aldrig internettet.
 {{% /details %}}
 
 {{% details title="Er Everdisk gratis?" closed="true" %}}
-Ja. Everdisk er en gratis download, og du kan gøre din enhed til et trådløst drev, dele dine filer på fire måder, forbinde til andre servere og bruge den indbyggede filhåndtering uden omkostninger.<br><br>
+Ja. Everdisk er en gratis download, og du kan gøre din enhed til et trådløst drev, dele dine filer på fem måder, forbinde til andre servere og bruge den indbyggede filhåndtering uden omkostninger.<br><br>
 
-Der er et valgfrit engangskøb af <strong>Premium Lifetime</strong> - en enkelt betaling uden abonnement - der låser op for ubegrænsede delte mapper og gemte forbindelser, billed- &amp; videokonvertering, brugerdefinerede porte, automatisk start af deling og tilpasning af enhed. Det er knyttet til dit Apple ID, så du kan bruge Gendan køb til at låse op for det på dine andre enheder. Priserne kan variere afhængigt af dit land eller din region.
+Der er et valgfrit engangskøb af <strong>Premium Lifetime</strong> - en enkelt betaling uden abonnement - der låser op for ubegrænsede delte mapper og gemte forbindelser, billed- &amp; videokonvertering, SMB3-kryptering (AES), brugerdefinerede porte, automatisk start af deling og tilpasning af enhed. Det er knyttet til dit Apple ID, så du kan bruge Gendan køb til at låse op for det på dine andre enheder. Priserne kan variere afhængigt af dit land eller din region.
 {{% /details %}}
 
 {{% details title="Hvordan forbinder jeg fra min computer?" closed="true" %}}
@@ -372,6 +383,12 @@ Everdisk får din enhed til at vises som et helt almindeligt netværksdrev over 
 - På <strong>Linux</strong> forbinder du til WebDAV-adressen fra din filhåndtering.<br><br>
 
 Når du er forbundet, kan du trække og slippe i begge retninger: kopier filer fra din computer til din enhed, eller hent dem tilbage. Du kan også åbne HTTP-linket i enhver webbrowser, hvis du hellere vil undgå at tilslutte et drev.
+{{% /details %}}
+
+{{% details title="Kan jeg bruge SMB og kryptere forbindelsen?" closed="true" %}}
+Ja. Ved siden af WebDAV deler Everdisk over <strong>SMB</strong> - et netværksdrev til Mac, Windows og Linux (vist i appen som forbindelsen <strong>Computer (avanceret)</strong>). På en Mac dukker det op af sig selv i Finder-sidebjælken under Placeringer; på Windows åbner du det i Stifinder med den <code>smb://</code>-adresse, der vises i appen.<br><br>
+
+SMB er også den eneste forbindelse, du kan <strong>kryptere</strong>. Sæt et login og en adgangskode, og slå derefter <strong>Kræv SMB-kryptering</strong> til i Indstillinger for at beskytte hver overførsel med <strong>SMB3-kryptering (AES)</strong>, så ingen andre på det samme netværk kan læse dine filer. Krypterede forbindelser kan ikke være anonyme, så et login og en adgangskode er påkrævet, og du skal bruge en klient, der understøtter SMB3 - Finder på en moderne Mac eller Windows 10 og nyere.
 {{% /details %}}
 
 {{% details title="Hvordan streamer jeg til mit TV?" closed="true" %}}
@@ -393,7 +410,7 @@ Fordi det ikke afhænger af et trådløst netværk, virker det fortsat i et fly,
 {{% /details %}}
 
 {{% details title="Hvad kan jeg forbinde til med Everdisk?" closed="true" %}}
-Everdisk er også en klient for andre enheder på dit netværk. Du kan finde og forbinde til <strong>DLNA</strong>-, <strong>WebDAV</strong>-, <strong>FTP</strong>- og <strong>SFTP</strong>-servere, herunder NAS-enheder og medieservere.<br><br>
+Everdisk er også en klient for andre enheder på dit netværk. Du kan finde og forbinde til <strong>DLNA</strong>-, <strong>WebDAV</strong>-, <strong>FTP</strong>-, <strong>SFTP</strong>- og <strong>SMB</strong>-servere, herunder Mac-computere, Windows-pc'er, Linux-maskiner, NAS-enheder og medieservere.<br><br>
 
 Når du er forbundet, kan du gennemse deres mapper, streame lyd og video, downloade filer og oprette mapper, uploade, omdøbe, flytte eller slette, når serveren tillader det.
 {{% /details %}}
@@ -463,11 +480,11 @@ Dine billeder viser også rigtige forhåndsvisningsminiaturer på et TV over DLN
 </div>
 
 {{< cards >}}
-  {{< feature-card icon="play" title="Deling" subtitle="Tryk på Start, vælg hvad der skal deles, og kør alle fire servere på én gang." link="/docs/guide/everdisk/everdisk-guide-sharing" >}}
+  {{< feature-card icon="play" title="Deling" subtitle="Tryk på Start, vælg hvad der skal deles, og kør alle fem servere på én gang." link="/docs/guide/everdisk/everdisk-guide-sharing" >}}
 
   {{< feature-card icon="desktop-computer" title="Forbind dine enheder" subtitle="Hvordan et TV, en Mac eller PC, en browser, en anden telefon eller et USB-kabel forbinder til dine filer." link="/docs/guide/everdisk/everdisk-guide-connect" >}}
 
-  {{< feature-card icon="server" title="Forbind til servere" subtitle="Nå DLNA-, WebDAV-, FTP- og SFTP-servere samt NAS-drev for at gennemse, streame og downloade." link="/docs/guide/everdisk/everdisk-guide-devices" >}}
+  {{< feature-card icon="server" title="Forbind til servere" subtitle="Nå DLNA-, WebDAV-, FTP-, SFTP- og SMB-servere samt NAS-drev for at gennemse, streame og downloade." link="/docs/guide/everdisk/everdisk-guide-devices" >}}
 
   {{< feature-card icon="folder" title="Filer &amp; dokumenter" subtitle="Gennemse, organiser, zip og udpak, tilknyt eksterne mapper og scan dokumenter til PDF." link="/docs/guide/everdisk/everdisk-guide-files" >}}
 

@@ -1,16 +1,17 @@
 ---
 date: '2026-08-20T12:00:00+00:00'
 title: 'Everdisk'
-description: "Everdisk FAQ: zamień iPhone lub iPad w bezprzewodowy dysk i udostępniaj pliki, zdjęcia, filmy oraz muzykę dowolnemu urządzeniu w swojej sieci przez DLNA, HTTP, WebDAV i FTP. Odpowiedzi na pytania o łączenie z telewizora, przeglądarki, Maca, Windows i Linux, przesyłanie kablem USB bez Wi-Fi, łączenie z NAS i serwerami WebDAV/FTP/SFTP, menedżer plików, pakowanie i rozpakowywanie, skanowanie dokumentów do PDF, hasła i blokowanie urządzeń, prywatność oraz jednorazowy zakup Premium Lifetime."
+description: "Everdisk FAQ: zamień iPhone lub iPad w bezprzewodowy dysk i udostępniaj pliki, zdjęcia, filmy oraz muzykę dowolnemu urządzeniu w swojej sieci przez DLNA, HTTP, WebDAV, SMB i FTP. Odpowiedzi na pytania o łączenie z telewizora, przeglądarki, Maca, Windows i Linux, dysk sieciowy SMB z szyfrowaniem SMB3 (AES), przesyłanie kablem USB bez Wi-Fi, łączenie z NAS i serwerami WebDAV/FTP/SFTP/SMB, menedżer plików, pakowanie i rozpakowywanie, skanowanie dokumentów do PDF, hasła i blokowanie urządzeń, prywatność oraz jednorazowy zakup Premium Lifetime."
 keywords: [
   "Everdisk FAQ", "bezprzewodowy dysk iPhone", "udostepnianie plikow iPhone", "udostepnianie zdjec w sieci",
   "strumieniowanie na TV DLNA", "otwieranie plikow w przegladarce", "dysk sieciowy WebDAV iPhone",
+  "serwer SMB iPhone", "szyfrowanie SMB iPhone", "szyfrowanie SMB3 AES",
   "serwer FTP iPhone", "klient SFTP iPhone", "przesylanie plikow USB Mac bez Wi-Fi",
-  "laczenie z NAS iPhone", "menedzer plikow iOS", "pakowanie rozpakowywanie iPhone",
+  "laczenie z NAS iPhone", "klient SMB iPhone", "laczenie z udzialem SMB", "menedzer plikow iOS", "pakowanie rozpakowywanie iPhone",
   "skanowanie dokumentow do PDF", "ochrona haslem udostepniania", "blokowanie urzadzenia",
   "udostepnianie plikow w sieci lokalnej", "Everdisk Premium", "Everdisk lifetime"
 ]
-tags: ["everdisk", "faq", "bezprzewodowy dysk", "udostepnianie plikow", "DLNA", "WebDAV", "FTP", "SFTP", "dysk sieciowy"]
+tags: ["everdisk", "faq", "bezprzewodowy dysk", "udostepnianie plikow", "DLNA", "WebDAV", "SMB", "FTP", "SFTP", "dysk sieciowy"]
 ---
 
 
@@ -23,15 +24,16 @@ Everdisk zamienia Twój iPhone lub iPad w bezprzewodowy dysk, który udostępnia
 {{% details title="Czym jest Everdisk?" closed="true" %}}
 Everdisk to aplikacja **bezprzewodowego dysku** dla iPhone i iPad. Zamienia Twoje urządzenie w centrum, które udostępnia wybrane pliki, zdjęcia, filmy i muzykę wszystkiemu w Twojej sieci lokalnej, a także łączy się z innymi serwerami, dzięki czemu możesz przeglądać i strumieniować ich pliki.<br><br>
 
-Uruchamia cztery serwery naraz - **DLNA** dla telewizorów, **HTTP** dla przeglądarek, **WebDAV** dla Finder/Windows/Linux oraz **FTP** dla aplikacji plikowych - dzięki czemu każde urządzenie łączy się tak, jak lubi. Nie ma kont ani chmury: dotykasz **Start** i jesteś gotowy. Zawiera też menedżer plików, odtwarzacz multimediów, galerię zdjęć, skanowanie dokumentów do PDF oraz pakowanie i rozpakowywanie.
+Uruchamia pięć serwerów naraz - **DLNA** dla telewizorów, **HTTP** dla przeglądarek, **WebDAV** dla Finder/Windows/Linux, **SMB** dla dysku sieciowego na Macu, Windows i Linux z opcjonalnym szyfrowaniem oraz **FTP** dla aplikacji plikowych - dzięki czemu każde urządzenie łączy się tak, jak lubi. Nie ma kont ani chmury: dotykasz **Start** i jesteś gotowy. Zawiera też menedżer plików, odtwarzacz multimediów, galerię zdjęć, skanowanie dokumentów do PDF oraz pakowanie i rozpakowywanie.
 {{% /details %}}
 
 {{% details title="Jak działa Everdisk?" closed="true" %}}
-Gdy dotkniesz **Start**, Everdisk zamienia Twoje urządzenie w serwer w sieci lokalnej i udostępnia wybraną zawartość. Cztery różne metody połączenia działają w tym samym czasie, aby różne urządzenia mogły łączyć się w sposób, jaki im odpowiada:<br><br>
+Gdy dotkniesz **Start**, Everdisk zamienia Twoje urządzenie w serwer w sieci lokalnej i udostępnia wybraną zawartość. Pięć różnych metod połączenia działa w tym samym czasie, aby różne urządzenia mogły łączyć się w sposób, jaki im odpowiada:<br><br>
 
 - **DLNA** - smart TV i odtwarzacze multimediów automatycznie znajdują Twoje urządzenie i pokazują multimedia z miniaturami.<br>
 - **HTTP** - każdy otwiera link w przeglądarce, aby przeglądać i pobierać Twoje pliki.<br>
 - **WebDAV** - Twoje urządzenie pojawia się jako zwykły dysk sieciowy w Finder, Windows lub Linux.<br>
+- **SMB** - dysk sieciowy dla Maca, Windows i Linux, oparty na udostępnianiu plików już obecnym w tych systemach; na Macu pojawia się sam na pasku bocznym Findera. To jedyne połączenie, które możesz zaszyfrować (szyfrowanie SMB3, AES).<br>
 - **FTP** - aplikacje plikowe i zaawansowane narzędzia łączą się przez FTP.<br><br>
 
 Wszystko odbywa się przez Twoją lokalną sieć Wi-Fi (lub kablem USB do Maca) i nigdy nie trafia do internetu.
@@ -106,6 +108,29 @@ Użyj adresu **Komputer (WebDAV)**.<br><br>
 Wpisz login i hasło, jeśli je ustawiłeś.
 {{% /details %}}
 
+{{% details title="Jak połączyć się przez SMB?" closed="true" %}}
+1. W **Ustawienia → Udostępnianie → Połączenia** upewnij się, że **Komputer (zaawansowane)** (połączenie SMB) jest włączone, a następnie **Start**.<br>
+2. Skopiuj adres **SMB** pokazany na ekranie Udostępnianie - wygląda jak `smb://192.168.1.20:4455/Share`.<br>
+3. Połącz się z komputera:<br>
+&nbsp;&nbsp;- **Mac:** Twoje urządzenie pojawia się samo na **pasku bocznym Findera** w sekcji **Lokalizacje** (Sieć) - wystarczy je kliknąć. Aby połączyć się ręcznie, wybierz **Idź → Połącz z serwerem** (**⌘K**) i wpisz adres.<br>
+&nbsp;&nbsp;- **Windows:** w Eksploratorze plików kliknij prawym przyciskiem **Ten komputer** i wybierz **Mapuj dysk sieciowy**, a następnie wpisz `\\<address>\Share` albo wpisz adres `smb://` na pasku adresu.<br>
+&nbsp;&nbsp;- **Linux:** w swoim menedżerze plików wybierz **Połącz z serwerem** i wpisz adres.<br>
+4. Wpisz swój login i hasło, jeśli je ustawiłeś; w przeciwnym razie połącz się jako gość.<br><br>
+
+Udział nazywa się **Share**. Z włączoną **Edycją plików** możesz kopiować pliki w obie strony; z wyłączoną dysk jest tylko do odczytu.
+{{% /details %}}
+
+{{% details title="Czy mogę zaszyfrować połączenie SMB?" closed="true" %}}
+Tak - a SMB to **jedyne** połączenie, które Everdisk potrafi zaszyfrować. W **Ustawienia → Udostępnianie** włącz **Wymagaj szyfrowania SMB**, aby chronić każdy transfer SMB **szyfrowaniem SMB3 (AES)**, dzięki czemu nikt inny w tej samej sieci nie odczyta Twoich plików. To świetny wybór w sieci Wi-Fi, której nie w pełni ufasz.<br><br>
+
+Kilka wymagań:<br>
+- Najpierw musisz ustawić **login i hasło** - szyfrowane połączenia nie mogą być anonimowe.<br>
+- Klient musi obsługiwać **SMB3** - Finder na nowoczesnym Macu albo **Windows 10 i nowszy**.<br>
+- Zmiany zaczynają obowiązywać przy następnym rozpoczęciu udostępniania.<br><br>
+
+Szyfrowanie SMB jest częścią jednorazowego zakupu **Premium Lifetime**.
+{{% /details %}}
+
 {{% details title="Czy Everdisk działa bez Wi-Fi?" closed="true" %}}
 Tak, z **Makiem** i kablem. Podłącz iPhone lub iPad do Maca, dotknij **Zaufaj**, jeśli pojawi się pytanie, i dotknij **Start**. Na ekranie Udostępnianie pojawi się adres **Połączenie kablowe** zakończony na `.local`; połącz się z nim z Finder (**⌘K**). Działa to całkowicie bez Wi-Fi - świetne w samolocie, w hotelu lub w zablokowanej sieci - i jest szybsze oraz bardziej prywatne niż Wi-Fi.
 {{% /details %}}
@@ -122,19 +147,20 @@ Twój iPhone lub iPad jest serwerem, a iOS nie pozwala aplikacjom utrzymywać dz
 **Kabel USB do Maca** jest szybszy i bardziej niezawodny niż Wi-Fi, ponieważ dane idą prosto przez kabel. To także najbardziej prywatna opcja, bo nic nie przechodzi przez router ani internet. Używaj go do przesyłania dużych zbiorów zdjęć i filmów.
 {{% /details %}}
 
-{{% details title="Jaka jest różnica między czterema serwerami (DLNA, HTTP, WebDAV, FTP)?" closed="true" %}}
+{{% details title="Jaka jest różnica między pięcioma serwerami (DLNA, HTTP, WebDAV, SMB, FTP)?" closed="true" %}}
 Wszystkie udostępniają tę samą zawartość, ale pasują do różnych urządzeń:<br><br>
 
 - **TV i Centrum multimediów (DLNA)** - dla smart TV i odtwarzaczy multimediów.<br>
 - **Przeglądarka (HTTP)** - dla dowolnej przeglądarki, bez instalacji.<br>
 - **Komputer (WebDAV)** - zamienia Twoje urządzenie w dysk sieciowy w Finder/Windows/Linux.<br>
+- **Komputer (zaawansowane)** (SMB) - dysk sieciowy dla Maca, Windows i Linux; na Macu pojawia się sam na pasku bocznym Findera albo połącz się ręcznie adresem `smb://`. To jedyne połączenie, które możesz zaszyfrować (SMB3, AES).<br>
 - **Inne aplikacje i urządzenia (FTP)** - dla aplikacji plikowych i zaawansowanych narzędzi.<br><br>
 
 Każdy z nich możesz włączyć lub wyłączyć w **Ustawienia → Udostępnianie → Połączenia**.
 {{% /details %}}
 
 {{% details title="Jak chronić moje pliki hasłem?" closed="true" %}}
-Przejdź do **Ustawienia → Udostępnianie → Dostęp** i ustaw **Login** oraz **Hasło**. Połączenia Przeglądarka, Komputer i Inne aplikacje będą wtedy pytać o te dane. Pozostaw oba puste, aby dostęp był otwarty.<br><br>
+Przejdź do **Ustawienia → Udostępnianie → Dostęp** i ustaw **Login** oraz **Hasło**. Połączenia Przeglądarka, Komputer, Komputer (zaawansowane) i Inne aplikacje będą wtedy pytać o te dane. Pozostaw oba puste, aby dostęp był otwarty.<br><br>
 
 Uwaga: połączenia **DLNA** (TV) nie da się chronić hasłem, więc gdy jest włączone, jest otwarte dla każdego w tej samej sieci Wi-Fi. Wyłącz je, jeśli chcesz mieć tylko chronione połączenia.
 {{% /details %}}
@@ -156,15 +182,15 @@ Tak. Everdisk udostępnia wyłącznie przez Twoją **sieć lokalną** - nic nie 
 {{% /details %}}
 
 {{% details title="Czy Everdisk może połączyć się z moim NAS lub innymi serwerami?" closed="true" %}}
-Tak. Karta **Urządzenia** łączy się **z** innymi serwerami w Twojej sieci. Dotknij **Nowe połączenie** i wybierz **DLNA / UPnP**, **WebDAV**, **FTP** lub **SFTP**, wpisz adres i ewentualny login, a będziesz mógł przeglądać, strumieniować i pobierać. Na serwerach WebDAV, FTP i SFTP możesz też tworzyć foldery, przesyłać, zmieniać nazwy, przenosić i usuwać. Serwery DLNA są tylko do odczytu.
+Tak. Karta **Urządzenia** łączy się **z** innymi serwerami w Twojej sieci. Dotknij **Nowe połączenie** i wybierz **DLNA / UPnP**, **WebDAV**, **FTP**, **SFTP** lub **SMB** (dla Maców, komputerów z Windows, maszyn z Linux i dysków NAS, które udostępniają foldery przez SMB / CIFS), wpisz adres i ewentualny login, a będziesz mógł przeglądać, strumieniować i pobierać. Na serwerach WebDAV, FTP, SFTP i SMB możesz też tworzyć foldery, przesyłać, zmieniać nazwy, przenosić i usuwać. Serwery DLNA są tylko do odczytu.
 {{% /details %}}
 
 {{% details title="Czy mogę połączyć się z chmurą, taką jak Google Drive lub Dropbox?" closed="true" %}}
-Everdisk nie loguje się do kont w chmurze, takich jak iCloud Drive, Google Drive, Dropbox czy OneDrive. Łączy się wyłącznie z serwerami **w sieci lokalnej i adresowanymi bezpośrednio** (DLNA, WebDAV, FTP, SFTP). Usługa chmurowa jest osiągalna tylko wtedy, gdy oferuje adres **WebDAV**, który możesz wpisać w nowym połączeniu WebDAV.
+Everdisk nie loguje się do kont w chmurze, takich jak iCloud Drive, Google Drive, Dropbox czy OneDrive. Łączy się wyłącznie z serwerami **w sieci lokalnej i adresowanymi bezpośrednio** (DLNA, WebDAV, FTP, SFTP, SMB). Usługa chmurowa jest osiągalna tylko wtedy, gdy oferuje adres **WebDAV**, który możesz wpisać w nowym połączeniu WebDAV.
 {{% /details %}}
 
 {{% details title="Do czego służy karta Urządzenia?" closed="true" %}}
-To strona kliencka Everdisk: **Połączenia** wymienia zapisane przez Ciebie serwery, a **Dostępne urządzenia** wymienia serwery znalezione automatycznie w Twojej sieci. Dotknij jednego, aby przeglądać, strumieniować lub pobierać jego pliki, albo dotknij **Nowe połączenie**, aby ręcznie dodać serwer DLNA, WebDAV, FTP lub SFTP.
+To strona kliencka Everdisk: **Połączenia** wymienia zapisane przez Ciebie serwery, a **Dostępne urządzenia** wymienia serwery znalezione automatycznie w Twojej sieci. Dotknij jednego, aby przeglądać, strumieniować lub pobierać jego pliki, albo dotknij **Nowe połączenie**, aby ręcznie dodać serwer DLNA, WebDAV, FTP, SFTP lub SMB.
 {{% /details %}}
 
 {{% details title="Jak pobrać pliki z serwera na moje urządzenie?" closed="true" %}}
@@ -256,13 +282,13 @@ Everdisk automatycznie nadaje Twojemu urządzeniu przyjazną nazwę i awatar, kt
 {{% /details %}}
 
 {{% details title="Czy mogę zmienić porty połączeń?" closed="true" %}}
-Domyślne to **HTTP 80**, **WebDAV 8080** i **FTP 2121** (DLNA wybiera swój port automatycznie). Możesz je zobaczyć bezpłatnie, a ustawienie **własnych portów** jest funkcją Premium (**Zaawansowane** w Ustawienia → Udostępnianie).
+Domyślne to **HTTP 80**, **WebDAV 8080**, **SMB 4455** i **FTP 2121** (DLNA wybiera swój port automatycznie). Możesz je zobaczyć bezpłatnie, a ustawienie **własnych portów** jest funkcją Premium (**Zaawansowane** w Ustawienia → Udostępnianie).
 {{% /details %}}
 
 {{% details title="Czy Everdisk jest bezpłatny i co dodaje Premium?" closed="true" %}}
-Everdisk można pobrać **bezpłatnie**. Możesz uruchamiać wszystkie cztery serwery, chronić dostęp hasłem, udostępniać całą bibliotekę Zdjęć i Muzyki, korzystać z menedżera plików, skanować do PDF oraz łączyć się z innymi serwerami. Wersja bezpłatna udostępnia do **5 folderów** i zapisuje do **10 połączeń z serwerami**.<br><br>
+Everdisk można pobrać **bezpłatnie**. Możesz uruchamiać wszystkie pięć serwerów, chronić dostęp hasłem, udostępniać całą bibliotekę Zdjęć i Muzyki, korzystać z menedżera plików, skanować do PDF oraz łączyć się z innymi serwerami. Wersja bezpłatna udostępnia do **5 folderów** i zapisuje do **10 połączeń z serwerami**.<br><br>
 
-Jednorazowy zakup **Premium Lifetime** (nie subskrypcja) dodaje: **Nieograniczoną liczbę folderów**, **Nieograniczoną liczbę połączeń**, **Konwersję zdjęć i wideo** (jakość inną niż Oryginał), **Własne porty**, **Automatyczne rozpoczęcie udostępniania** oraz **Personalizację urządzenia**.
+Jednorazowy zakup **Premium Lifetime** (nie subskrypcja) dodaje: **Nieograniczoną liczbę folderów**, **Nieograniczoną liczbę połączeń**, **Konwersję zdjęć i wideo** (jakość inną niż Oryginał), **Szyfrowanie SMB** (SMB3/AES), **Własne porty**, **Automatyczne rozpoczęcie udostępniania** oraz **Personalizację urządzenia**.
 {{% /details %}}
 
 {{% details title="Czy Premium to subskrypcja? Czy działa na moich innych urządzeniach?" closed="true" %}}

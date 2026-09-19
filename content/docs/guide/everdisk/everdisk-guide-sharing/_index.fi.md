@@ -1,7 +1,7 @@
 ---
 title: "Jakaminen"
 date: 2026-08-20
-description: "Opi, miten jakaminen toimii Everdiskissa: napauta Aloita ja muuta iPhone tai iPad langattomaksi asemaksi, valitse mita jaat (tiedostot, kansiot, kuvat ja musiikki), pyorita neljaa palvelinta (DLNA, HTTP, WebDAV, FTP), lue yhteysosoitteet, nae kuka on yhdistettyna ja pida jakaminen kaynnissa Wi-Fin tai USB-kaapelin kautta."
+description: "Opi, miten jakaminen toimii Everdiskissa: napauta Aloita ja muuta iPhone tai iPad langattomaksi asemaksi, valitse mita jaat (tiedostot, kansiot, kuvat ja musiikki), pyorita viitta palvelinta (DLNA, HTTP, WebDAV, SMB, FTP), salaa SMB-yhteys SMB3-salauksella (AES), lue yhteysosoitteet, nae kuka on yhdistettyna ja pida jakaminen kaynnissa Wi-Fin tai USB-kaapelin kautta."
 keywords: ["Everdisk jakaminen", "langaton asema iPhone", "aloita jakaminen", "jaa tiedostoja iPhone", "jaa kuvia verkossa", "DLNA HTTP WebDAV FTP", "mita jaetaan", "miten yhdistetaan", "pida sovellus auki", "Wi-Fi tai USB-kaapeli jakaminen"]
 tags: ["everdisk", "guide", "sharing"]
 readingTime: 9
@@ -17,7 +17,7 @@ Jakaminen-nayton keskella on suuri pyorea painike.
 - Napauta **Aloita**, niin kaikki kaytossa olevat palvelimesi tulevat verkkoon yhta aikaa. Painikkeessa lukee **Kaynnistetaan...** ja sen jalkeen **Lopeta**, kun jakaminen on kaynnissa.
 - Napauta **Lopeta**, niin kaikki poistuu jalleen verkosta. Yhdistetyt laitteet katkaistaan.
 
-Jakamisen ollessa kaynnissa valitsemasi tiedostot, kuvat ja musiikki ovat kaikkien samassa verkossa olevien laitteiden kaytettavissa, kun ne yhdistyvat jollakin alla olevista neljasta tavasta.
+Jakamisen ollessa kaynnissa valitsemasi tiedostot, kuvat ja musiikki ovat kaikkien samassa verkossa olevien laitteiden kaytettavissa, kun ne yhdistyvat jollakin alla olevista viidesta tavasta.
 
 > Jakaminen toimii vain sovelluksen ollessa auki. Katso **Pida sovellus auki** taman sivun lopusta selitys sille, miksi nain on ja miten pidat suuret siirrot kaynnissa.
 
@@ -44,13 +44,14 @@ Ennen aloittamista napauta **Mita jaetaan** -otsikkoa avataksesi kolme ryhmaa. V
 
 Jos yritat aloittaa ilman mitaan valittua, Everdisk nayttaa **Ei mitaan jaettavaa** -huomautuksen. Jos muutat jaettavaa jakamisen ollessa kaynnissa, **lopeta ja aloita uudelleen** ottaaksesi muutoksen kayttoon.
 
-## Neljä palvelinta
+## Viisi palvelinta
 
-Everdisk jakaa saman sisallon neljalla tavalla yhta aikaa. Jokainen niista on suunniteltu erilaiselle laitteelle, ja jokaisen voi kytkea paalle tai pois kohdassa **Asetukset -> Jakaminen -> Yhteydet**. Oletuksena kaikki nelja ovat paalla.
+Everdisk jakaa saman sisallon viidella tavalla yhta aikaa. Jokainen niista on suunniteltu erilaiselle laitteelle, ja jokaisen voi kytkea paalle tai pois kohdassa **Asetukset -> Jakaminen -> Yhteydet**. Oletuksena kaikki viisi ovat paalla.
 
 - **TV ja mediakeskus (DLNA)** - alytelevisioille ja mediasoittimille. Ne loytavat laitteesi itse ja nayttavat kuvasi, videosi ja musiikkisi esikatselukuvien kera.
 - **Selain (HTTP)** - mille tahansa puhelimelle, tabletille tai tietokoneelle. Toinen henkilo avaa linkin verkkoselaimessa selatakseen ja ladatakseen tiedostojasi. Mitaan ei tarvitse asentaa.
 - **Tietokone (WebDAV)** - Macille, Windows-PC:lle tai Linux-koneelle. Laitteesi nakyy tavallisena verkkoasemana, joten voit vetaa tiedostoja molempiin suuntiin.
+- **Tietokone (lisaasetukset) (SMB)** - verkkoasema Macille, Windowsille ja Linuxille. Macilla se nakyy omana kohteenaan Finderin sivupalkissa; Windowsissa avaat sen Resurssienhallinnassa `smb://`-osoitteella. Se on ainoa yhteys, jonka voit **salata**, SMB3-salauksella (AES).
 - **Muut sovellukset ja laitteet (FTP)** - tiedostosovelluksille ja tehokayttajille, jotka puhuvat FTP:ta.
 
 Vaiheittaiset yhteysohjeet jokaiselle tyypille loydat sivulta [Yhdista laitteesi](/docs/guide/everdisk/everdisk-guide-connect).

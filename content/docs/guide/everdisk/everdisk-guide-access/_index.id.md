@@ -1,8 +1,8 @@
 ---
 title: "Akses & Privasi"
 date: 2026-08-20
-description: "Jaga keamanan berbagi Everdisk Anda: lindungi akses dengan login dan kata sandi, atur apakah perangkat yang terhubung boleh mengunggah, mengganti nama, dan menghapus dengan Pengeditan File, blokir perangkat asing, pilih tempat sampah vs. hapus permanen, dan pahami mengapa semuanya tetap berada di jaringan lokal Anda."
-keywords: ["proteksi kata sandi Everdisk", "sakelar pengeditan file", "blokir perangkat", "perangkat yang diblokir", "hapus file permanen", "hanya jaringan lokal", "berbagi file privat", "DLNA tanpa kata sandi", "keamanan jaringan"]
+description: "Jaga keamanan berbagi Everdisk Anda: lindungi akses dengan login dan kata sandi, enkripsi koneksi SMB dengan SMB3 (AES), atur apakah perangkat yang terhubung boleh mengunggah, mengganti nama, dan menghapus dengan Pengeditan File, blokir perangkat asing, pilih tempat sampah vs. hapus permanen, dan pahami mengapa semuanya tetap berada di jaringan lokal Anda."
+keywords: ["proteksi kata sandi Everdisk", "Enkripsi SMB", "enkripsi SMB3 AES", "sakelar pengeditan file", "blokir perangkat", "perangkat yang diblokir", "hapus file permanen", "hanya jaringan lokal", "berbagi file privat", "DLNA tanpa kata sandi", "keamanan jaringan"]
 tags: ["everdisk", "panduan", "akses", "privasi", "keamanan"]
 readingTime: 8
 ---
@@ -15,12 +15,24 @@ Everdisk menyimpan file Anda di jaringan Anda sendiri dan memberi Anda kontrol s
 Secara default, siapa pun di jaringan yang sama yang memiliki alamat Anda bisa membuka file yang Anda bagikan. Untuk mewajibkan masuk:
 
 1. Buka **Pengaturan → Berbagi → Akses**.
-2. Masukkan **Login** dan **Kata Sandi**.
-3. Kini koneksi **Peramban (HTTP)**, **Komputer (WebDAV)**, dan **Aplikasi & Perangkat Lain (FTP)** semuanya meminta detail tersebut sebelum menampilkan file Anda.
+2. Masukkan **Info Masuk** dan **Kata Sandi**.
+3. Kini koneksi **Peramban (HTTP)**, **Komputer (WebDAV)**, **Komputer (Lanjutan) (SMB)**, dan **Aplikasi & Perangkat Lain (FTP)** semuanya meminta detail tersebut sebelum menampilkan file Anda.
 
 Biarkan kedua kolom kosong untuk akses terbuka. Kata sandi Anda disimpan dengan aman di Keychain perangkat.
 
 > **DLNA selalu terbuka.** Koneksi TV & Pusat Media (DLNA) tidak bisa dilindungi kata sandi, jadi begitu aktif, perangkat mana pun di Wi-Fi yang sama bisa menelusuri media yang Anda bagikan. Matikan jika Anda hanya menginginkan koneksi yang terlindungi, dan hanya berbagi di jaringan yang Anda percayai.
+
+## Mengenkripsi koneksi SMB (SMB3 / AES)
+
+Login dan kata sandi mengatur **siapa** yang bisa terhubung, tetapi datanya sendiri masih melintas tanpa enkripsi di sebagian besar koneksi. **SMB adalah satu-satunya koneksi yang bisa dienkripsi Everdisk**, yang mengacak setiap transfer sehingga tidak ada orang lain di jaringan yang sama yang bisa membacanya.
+
+Untuk mengaktifkannya:
+
+1. Atur **Info Masuk** dan **Kata Sandi** seperti di atas - koneksi terenkripsi tidak bisa anonim.
+2. Buka **Pengaturan → Berbagi** dan aktifkan **Wajibkan enkripsi SMB**.
+3. **Hentikan lalu Mulai** berbagi lagi agar perubahannya berlaku.
+
+Setiap transfer SMB kemudian dilindungi dengan **enkripsi SMB3 (AES)**. Perangkat yang terhubung harus mendukung SMB3 - Finder di Mac modern, atau **Windows 10 dan yang lebih baru**. Ini pilihan yang bagus di Wi-Fi yang tidak sepenuhnya Anda percayai. Enkripsi SMB adalah fitur Premium.
 
 ## Mengizinkan atau memblokir pengeditan (Pengeditan File)
 

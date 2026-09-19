@@ -12,7 +12,7 @@ Everdisk přehrává vaše média na zařízení a sdílí celou vaši knihovnu 
 
 ## Sdílejte celou svou knihovnu fotek a hudby
 
-Na obrazovce [Sdílení](/docs/guide/everdisk/everdisk-guide-sharing) můžete v části **Co sdílet** zapnout **Povolit přístup k celé knihovně Fotek** a **Povolit přístup k celé hudební knihovně**. Jakmile sdílení začne, stane se každé album a skladba dostupným přes všechny čtyři servery - na televizi, v prohlížeči, na síťovém disku nebo v souborové aplikaci. Pomocí **Přidat fotky** a **Přidat skladby** můžete také ručně vybrat jen určité fotky, videa nebo skladby.
+Na obrazovce [Sdílení](/docs/guide/everdisk/everdisk-guide-sharing) můžete v části **Co sdílet** zapnout **Povolit přístup k celé knihovně Fotek** a **Povolit přístup k celé hudební knihovně**. Jakmile sdílení začne, stane se každé album a skladba dostupným přes všech pět serverů - na televizi, v prohlížeči, na síťovém disku (WebDAV nebo SMB) nebo v souborové aplikaci. Pomocí **Přidat fotky** a **Přidat skladby** můžete také ručně vybrat jen určité fotky, videa nebo skladby.
 
 Chráněné (DRM) písně a skladby uložené pouze v cloudu sdílet nelze.
 
@@ -54,7 +54,7 @@ Když sdílíte fotky a videa, může je Everdisk odeslat přesně tak, jak jsou
 Mějte na paměti:
 
 - **Původní je nejrychlejší** - soubor se odešle tak, jak je, bez převodu.
-- Jakékoli jiné nastavení **převádí za běhu**, což je pomalejší a spotřebuje více baterie, zejména přes WebDAV a FTP.
+- Jakékoli jiné nastavení **převádí za běhu**, což je pomalejší a spotřebuje více baterie, zejména přes WebDAV, SMB a FTP.
 - Zkuste nejprve Původní; na Nejkompatibilnější přepněte jen tehdy, když konkrétní televize nebo prohlížeč soubor neotevře.
 - **Hudba** se vždy sdílí ve své původní podobě - žádná nastavení kvality hudby nejsou.
 

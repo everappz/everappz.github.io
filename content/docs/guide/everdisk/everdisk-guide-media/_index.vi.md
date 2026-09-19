@@ -12,7 +12,7 @@ Everdisk phát media trên thiết bị và chia sẻ toàn bộ thư viện ả
 
 ## Chia sẻ toàn bộ thư viện ảnh và nhạc của bạn
 
-Trên màn hình [Chia sẻ](/docs/guide/everdisk/everdisk-guide-sharing), trong phần **Nội dung chia sẻ**, bạn có thể bật **Cho phép truy cập toàn bộ Thư viện ảnh** và **Cho phép truy cập toàn bộ Thư viện nhạc**. Khi việc chia sẻ bắt đầu, mọi album và bản nhạc sẽ có sẵn qua cả bốn máy chủ - trên TV, trong trình duyệt, trên ổ đĩa mạng, hoặc trong ứng dụng quản lý tệp. Bạn cũng có thể tự chọn riêng một số ảnh, video hay bản nhạc nhất định với **Thêm ảnh** và **Thêm bản nhạc**.
+Trên màn hình [Chia sẻ](/docs/guide/everdisk/everdisk-guide-sharing), trong phần **Nội dung chia sẻ**, bạn có thể bật **Cho phép truy cập toàn bộ Thư viện ảnh** và **Cho phép truy cập toàn bộ Thư viện nhạc**. Khi việc chia sẻ bắt đầu, mọi album và bản nhạc sẽ có sẵn qua cả năm máy chủ - trên TV, trong trình duyệt, trên ổ đĩa mạng (WebDAV hoặc SMB), hoặc trong ứng dụng quản lý tệp. Bạn cũng có thể tự chọn riêng một số ảnh, video hay bản nhạc nhất định với **Thêm ảnh** và **Thêm bản nhạc**.
 
 Những bài hát được bảo vệ (DRM) và những bản nhạc chỉ lưu trên đám mây thì không thể chia sẻ.
 
@@ -54,7 +54,7 @@ Khi bạn chia sẻ ảnh và video, Everdisk có thể gửi chúng đúng như
 Cần nhớ:
 
 - **Gốc là nhanh nhất** - tệp được gửi nguyên trạng mà không chuyển đổi gì.
-- Bất kỳ cài đặt nào khác đều **chuyển đổi trực tiếp**, chậm hơn và tốn pin hơn, đặc biệt là qua WebDAV và FTP.
+- Bất kỳ cài đặt nào khác đều **chuyển đổi trực tiếp**, chậm hơn và tốn pin hơn, đặc biệt là qua WebDAV, SMB và FTP.
 - Hãy thử Gốc trước; chỉ chuyển sang Tương thích nhất nếu một chiếc TV hay trình duyệt cụ thể không mở được một tệp.
 - **Nhạc** luôn được chia sẻ ở dạng nguyên bản - không có cài đặt chất lượng nhạc.
 

@@ -1,14 +1,14 @@
 ---
 title: "Podłącz swoje urządzenia"
 date: 2026-08-20
-description: "Instrukcje krok po kroku dotyczące łączenia się z bezprzewodowym dyskiem Everdisk: oglądaj na smart TV przez DLNA, otwieraj pliki w dowolnej przeglądarce, montuj urządzenie jako dysk sieciowy w Finderze, systemie Windows lub Linux przez WebDAV, łącz aplikacje do plików przez FTP i przesyłaj przez kabel USB do Maca bez Wi-Fi."
+description: "Instrukcje krok po kroku dotyczące łączenia się z bezprzewodowym dyskiem Everdisk: oglądaj na smart TV przez DLNA, otwieraj pliki w dowolnej przeglądarce, montuj urządzenie jako dysk sieciowy w Finderze, systemie Windows lub Linux przez WebDAV lub SMB (z opcjonalnym szyfrowaniem SMB3/AES), łącz aplikacje do plików przez FTP i przesyłaj przez kabel USB do Maca bez Wi-Fi."
 keywords: ["połączenie z Everdisk", "streaming na telewizor DLNA", "otwieranie plików w przeglądarce", "montowanie dysku sieciowego Finder", "WebDAV Windows Linux", "aplikacja do plików FTP", "przesyłanie kablem USB Mac", "podłączenie iPhone do komputera", "dysk sieciowy iPhone"]
 tags: ["everdisk", "guide", "connect"]
 readingTime: 11
 ---
 
 
-Gdy dotkniesz **Start** na ekranie [Udostępnianie](/docs/guide/everdisk/everdisk-guide-sharing), inne urządzenia mogą połączyć się z Twoimi plikami na cztery różne sposoby. Wybierz metodę pasującą do urządzenia, którego chcesz użyć. W każdym przypadku dokładny **adres**, którego potrzebujesz, jest widoczny w sekcji **Jak się połączyć** na ekranie Udostępniania.
+Gdy dotkniesz **Start** na ekranie [Udostępnianie](/docs/guide/everdisk/everdisk-guide-sharing), inne urządzenia mogą połączyć się z Twoimi plikami na pięć różnych sposobów. Wybierz metodę pasującą do urządzenia, którego chcesz użyć. W każdym przypadku dokładny **adres**, którego potrzebujesz, jest widoczny w sekcji **Jak się połączyć** na ekranie Udostępniania.
 
 > Oba urządzenia muszą być w **tej samej sieci Wi-Fi** - albo, w przypadku Maca, połączone **kablem USB** (zobacz ostatnią sekcję).
 
@@ -71,6 +71,29 @@ Użyj tej metody, aby Twoje urządzenie pojawiło się jako zwykły dysk na Macu
 2. Wprowadź adres WebDAV wyświetlany w Everdisk.
 
 To, czy połączenie jest tylko do odczytu, czy dwukierunkowe, zależy od ustawienia **Edycja plików**. Gdy jest włączone, możesz kopiować pliki na urządzenie oraz zmieniać ich nazwy i je usuwać; gdy jest wyłączone, dysk jest tylko do odczytu.
+
+## Połączenie przez SMB (szyfrowany dysk sieciowy)
+
+SMB to dysk sieciowy dla Maca, Windows i Linux, oparty na udostępnianiu plików już obecnym w tych systemach, więc Twoje urządzenie pojawia się jako zwykły dysk sieciowy - i jest to jedyne połączenie, które możesz zaszyfrować.
+
+1. W **Ustawienia → Udostępnianie → Połączenia** upewnij się, że **Komputer (zaawansowane)** (połączenie SMB) jest włączone.
+2. Dotknij **Start** i zapisz adres **SMB**, który wygląda jak `smb://192.168.1.20:4455/Share`.
+3. Połącz się z komputera:
+   - **Mac:** Twoje urządzenie pojawia się samo na **pasku bocznym Findera** w sekcji **Lokalizacje** (Sieć) - wystarczy je kliknąć i zalogować się. Aby połączyć się ręcznie, wybierz **Idź → Połącz z serwerem** (**⌘K**) i wpisz adres.
+   - **Windows:** otwórz **Eksplorator plików**, kliknij prawym przyciskiem myszy **Ten komputer** i wybierz **Mapuj dysk sieciowy**, a następnie wpisz `\\<address>\Share`, używając hosta i nazwy udziału z ekranu Udostępniania (albo wpisz adres `smb://` na pasku adresu).
+   - **Linux:** w swoim menedżerze plików wybierz **Połącz z serwerem** i wpisz adres.
+4. Wprowadź login i hasło, jeśli je ustawiłeś, w przeciwnym razie połącz się jako gość.
+5. Udział nazywa się **Share**. Z włączoną **Edycją plików** możesz kopiować pliki w obie strony; z wyłączoną jest tylko do odczytu.
+
+**Włącz szyfrowanie (zalecane w niezaufanej sieci Wi-Fi)**
+
+SMB to jedyne połączenie Everdisk, które można zaszyfrować. Aby chronić każdy transfer **szyfrowaniem SMB3 (AES)**:
+
+1. W **Ustawienia → Udostępnianie → Dostęp** ustaw **Login** i **Hasło** - szyfrowane połączenia nie mogą być anonimowe.
+2. W **Ustawienia → Udostępnianie** włącz **Wymagaj szyfrowania SMB**.
+3. **Zatrzymaj i ponownie rozpocznij** udostępnianie, aby zmiana zaczęła obowiązywać.
+
+Twój klient musi obsługiwać SMB3 - Finder na nowoczesnym Macu albo **Windows 10 i nowszy**. Szyfrowanie SMB to funkcja Premium.
 
 ## Łączenie aplikacji do plików (FTP)
 

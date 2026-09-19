@@ -1,14 +1,14 @@
 ---
 title: "Povežite svoje uređaje"
 date: 2026-08-20
-description: "Upute korak po korak za povezivanje s vašim Everdisk bežičnim diskom: gledajte na pametnom TV-u putem DLNA, otvorite datoteke u bilo kojem web pregledniku, priključite uređaj kao mrežni disk u Finderu, Windowsu ili Linuxu putem WebDAV-a, povežite aplikacije za datoteke putem FTP-a i prenosite putem USB kabela na Mac bez Wi-Fi mreže."
+description: "Upute korak po korak za povezivanje s vašim Everdisk bežičnim diskom: gledajte na pametnom TV-u putem DLNA, otvorite datoteke u bilo kojem web pregledniku, priključite uređaj kao mrežni disk u Finderu, Windowsu ili Linuxu putem WebDAV-a ili SMB-a (uz neobvezno SMB3/AES šifriranje), povežite aplikacije za datoteke putem FTP-a i prenosite putem USB kabela na Mac bez Wi-Fi mreže."
 keywords: ["povezivanje s Everdiskom", "strujanje na TV DLNA", "otvaranje datoteka u pregledniku", "priključivanje mrežnog diska Finder", "WebDAV Windows Linux", "FTP aplikacija za datoteke", "prijenos USB kabelom Mac", "povezivanje iPhonea s računalom", "mrežni disk iPhone"]
 tags: ["everdisk", "vodič", "povezivanje"]
 readingTime: 11
 ---
 
 
-Kad dodirnete **Start** na zaslonu [Dijeljenje](/docs/guide/everdisk/everdisk-guide-sharing), drugi se uređaji mogu povezati s vašim datotekama na četiri različita načina. Odaberite način koji odgovara uređaju koji želite koristiti. U svakom slučaju, točna **adresa** koja vam je potrebna prikazana je u odjeljku **Kako se povezati** na zaslonu Dijeljenje.
+Kad dodirnete **Start** na zaslonu [Dijeljenje](/docs/guide/everdisk/everdisk-guide-sharing), drugi se uređaji mogu povezati s vašim datotekama na pet različitih načina. Odaberite način koji odgovara uređaju koji želite koristiti. U svakom slučaju, točna **adresa** koja vam je potrebna prikazana je u odjeljku **Kako se povezati** na zaslonu Dijeljenje.
 
 > Oba uređaja moraju biti na **istoj Wi-Fi mreži** - ili, za Mac, povezana **USB kabelom** (pogledajte posljednji odjeljak).
 
@@ -71,6 +71,29 @@ Ovo koristite da bi se vaš uređaj pojavio kao običan disk na Macu, Windows PC
 2. Unesite WebDAV adresu prikazanu u Everdisku.
 
 Hoće li veza biti samo za čitanje ili dvosmjerna, ovisi o postavci **Uređivanje datoteka**. Kad je uključena, možete kopirati datoteke na svoj uređaj te ih preimenovati ili izbrisati; kad je isključena, disk je samo za čitanje.
+
+## Povezivanje putem SMB-a (šifrirani mrežni disk)
+
+SMB je mrežni disk za Mac, Windows i Linux, izgrađen na dijeljenju datoteka koje već postoji u tim sustavima, pa se vaš uređaj pojavljuje kao običan mrežni disk - i to je jedina veza koju možete šifrirati.
+
+1. U **Postavke → Dijeljenje → Povezivanja** provjerite je li **Računalo (napredno)** (SMB veza) uključeno.
+2. Dodirnite **Start** i zabilježite adresu za **SMB**, koja izgleda ovako `smb://192.168.1.20:4455/Share`.
+3. Povežite se sa svog računala:
+   - **Mac:** vaš se uređaj sam pojavljuje u **bočnoj traci Findera** pod **Lokacije** (Mreža) - samo ga kliknite i prijavite se. Za ručno povezivanje odaberite **Idi → Poveži se s poslužiteljem** (**⌘K**) i unesite adresu.
+   - **Windows:** otvorite **File Explorer**, desnom tipkom miša kliknite **Ovo računalo** i odaberite **Mapiraj mrežni disk**, a zatim unesite `\\<address>\Share` koristeći naziv računala i naziv dijeljenja sa zaslona Dijeljenje (ili upišite `smb://` adresu u adresnu traku).
+   - **Linux:** u svom upravitelju datoteka odaberite **Poveži se s poslužiteljem** i unesite adresu.
+4. Unesite prijavu i lozinku ako ste ih postavili, u suprotnom se povežite kao gost.
+5. Dijeljenje se zove **Share**. Uz uključeno **Uređivanje datoteka** možete kopirati datoteke u oba smjera; uz isključeno je samo za čitanje.
+
+**Uključivanje šifriranja (preporučeno na Wi-Fi mreži kojoj ne vjerujete)**
+
+SMB je jedina Everdisk veza koju se može šifrirati. Da biste svaki prijenos zaštitili **SMB3 šifriranjem (AES)**:
+
+1. U **Postavke → Dijeljenje → Pristup** postavite **Prijavu** i **Lozinku** - šifrirane veze ne mogu biti anonimne.
+2. U **Postavke → Dijeljenje** uključite **Zahtijevaj SMB šifriranje**.
+3. **Zaustavite i ponovno pokrenite** dijeljenje kako bi promjena stupila na snagu.
+
+Vaš klijent mora podržavati SMB3 - Finder na modernom Macu ili **Windows 10 i noviji**. SMB šifriranje je Premium značajka.
 
 ## Povezivanje aplikacije za datoteke (FTP)
 

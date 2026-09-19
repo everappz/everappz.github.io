@@ -12,7 +12,7 @@ Az Everdisk lejátssza a médiádat az eszközön, és megosztja a teljes fotó-
 
 ## Oszd meg a teljes fotó- és zenegyűjteményedet
 
-A [Megosztás](/docs/guide/everdisk/everdisk-guide-sharing) képernyőn, a **Mit osztasz meg** alatt bekapcsolhatod a **Hozzáférés engedélyezése a teljes Fotók könyvtárhoz** és a **Hozzáférés engedélyezése a teljes Zene könyvtárhoz** lehetőségeket. Amint a megosztás elindul, minden album és szám elérhetővé válik mind a négy kiszolgálón - egy TV-n, egy böngészőben, egy hálózati meghajtón vagy egy fájlalkalmazásban. A **Fotók hozzáadása** és a **Számok hozzáadása** funkciókkal egyesével is kiválaszthatsz csak bizonyos fotókat, videókat vagy számokat.
+A [Megosztás](/docs/guide/everdisk/everdisk-guide-sharing) képernyőn, a **Mit osztasz meg** alatt bekapcsolhatod a **Hozzáférés engedélyezése a teljes Fotók könyvtárhoz** és a **Hozzáférés engedélyezése a teljes Zene könyvtárhoz** lehetőségeket. Amint a megosztás elindul, minden album és szám elérhetővé válik mind az öt kiszolgálón - egy TV-n, egy böngészőben, egy hálózati meghajtón (WebDAV vagy SMB) vagy egy fájlalkalmazásban. A **Fotók hozzáadása** és a **Számok hozzáadása** funkciókkal egyesével is kiválaszthatsz csak bizonyos fotókat, videókat vagy számokat.
 
 A védett (DRM) dalokat és a csak a felhőben tárolt számokat nem lehet megosztani.
 
@@ -54,7 +54,7 @@ Amikor fotókat és videókat osztasz meg, az Everdisk pontosan úgy küldheti e
 Ne feledd:
 
 - **Az Eredeti a leggyorsabb** - a fájl átalakítás nélkül, úgy kerül elküldésre, ahogy van.
-- Bármely más beállítás **menet közben alakít át**, ami lassabb, és több akkumulátort használ, különösen WebDAV-on és FTP-n keresztül.
+- Bármely más beállítás **menet közben alakít át**, ami lassabb, és több akkumulátort használ, különösen WebDAV-on, SMB-n és FTP-n keresztül.
 - Először próbáld az Eredetit; csak akkor válts a Legkompatibilisebbre, ha egy adott TV vagy böngésző nem tud megnyitni egy fájlt.
 - **A zene mindig eredeti formájában kerül megosztásra** - nincsenek zenei minőségi beállítások.
 

@@ -1,14 +1,14 @@
 ---
 title: "Koble til enhetene dine"
 date: 2026-08-20
-description: "Trinnvise instruksjoner for å koble til den trådløse Everdisk-disken din: se på en smart-TV over DLNA, åpne filene dine i en hvilken som helst nettleser, koble enheten din opp som en nettverksdisk i Finder, Windows eller Linux over WebDAV, koble til filapper over FTP, og overfør over en USB-kabel til en Mac helt uten Wi-Fi."
+description: "Trinnvise instruksjoner for å koble til den trådløse Everdisk-disken din: se på en smart-TV over DLNA, åpne filene dine i en hvilken som helst nettleser, koble enheten din opp som en nettverksdisk i Finder, Windows eller Linux over WebDAV eller SMB (med valgfri SMB3/AES-kryptering), koble til filapper over FTP, og overfør over en USB-kabel til en Mac helt uten Wi-Fi."
 keywords: ["koble til Everdisk", "streame til TV DLNA", "åpne filer i nettleser", "koble til nettverksdisk Finder", "WebDAV Windows Linux", "FTP-filapp", "USB-kabeloverføring Mac", "koble iPhone til datamaskin", "nettverksdisk iPhone"]
 tags: ["everdisk", "veiledning", "koble til"]
 readingTime: 11
 ---
 
 
-Så snart du trykker **Start** på [Deling](/docs/guide/everdisk/everdisk-guide-sharing)-skjermen, kan andre enheter koble til filene dine på fire forskjellige måter. Velg metoden som passer enheten du vil bruke. I alle tilfeller vises den nøyaktige **adressen** du trenger i seksjonen **Slik kobler du til** på Deling-skjermen.
+Så snart du trykker **Start** på [Deling](/docs/guide/everdisk/everdisk-guide-sharing)-skjermen, kan andre enheter koble til filene dine på fem forskjellige måter. Velg metoden som passer enheten du vil bruke. I alle tilfeller vises den nøyaktige **adressen** du trenger i seksjonen **Slik kobler du til** på Deling-skjermen.
 
 > Begge enhetene må være på **samme Wi-Fi-nettverk** - eller, for en Mac, koblet til med en **USB-kabel** (se den siste seksjonen).
 
@@ -71,6 +71,29 @@ Bruk dette for å få enheten din til å dukke opp som en vanlig disk på en Mac
 2. Skriv inn WebDAV-adressen som vises i Everdisk.
 
 Om tilkoblingen er skrivebeskyttet eller toveis avhenger av innstillingen **Filredigering**. Med den på kan du kopiere filer over til enheten din og gi dem nytt navn eller slette dem; med den av er disken skrivebeskyttet.
+
+## Koble til over SMB (kryptert nettverksdisk)
+
+SMB er en nettverksdisk for Mac, Windows og Linux, bygget på fildelingen som allerede finnes i disse systemene, så enheten din dukker opp som en helt vanlig nettverksdisk - og det er den eneste tilkoblingen du kan kryptere.
+
+1. I **Innstillinger → Deling → Tilkoblinger**, sørg for at **Datamaskin (avansert)** (SMB-tilkoblingen) er på.
+2. Trykk **Start** og noter **SMB**-adressen, som ser ut som `smb://192.168.1.20:4455/Share`.
+3. Koble til fra datamaskinen din:
+   - **Mac:** enheten din dukker opp helt av seg selv i **Finder-sidefeltet** under **Steder** (Nettverk) - bare klikk på den og logg inn. For å koble til manuelt i stedet, velg **Gå → Koble til tjener** (**⌘K**) og skriv inn adressen.
+   - **Windows:** åpne **Filutforsker**, høyreklikk på **Denne PC-en** og velg **Tilordne nettverksstasjon**, og skriv så inn `\\<address>\Share` med verten og delingsnavnet fra Deling-skjermen (eller skriv `smb://`-adressen i adressefeltet).
+   - **Linux:** i filbehandleren velger du **Koble til tjener** og skriver inn adressen.
+4. Skriv inn brukernavnet og passordet hvis du har angitt noe, ellers kobler du til som gjest.
+5. Den delte mappen heter **Share**. Med **Filredigering** på kan du kopiere filer begge veier; med den av er den skrivebeskyttet.
+
+**Slå på kryptering (anbefalt på Wi-Fi du ikke stoler på)**
+
+SMB er den eneste Everdisk-tilkoblingen som kan krypteres. For å beskytte hver overføring med **SMB3-kryptering (AES)**:
+
+1. I **Innstillinger → Deling → Tilgang**, sett opp et **Brukernavn** og **Passord** - krypterte tilkoblinger kan ikke være anonyme.
+2. I **Innstillinger → Deling**, slå på **Krev SMB-kryptering**.
+3. **Stopp og Start** deling på nytt slik at endringen trer i kraft.
+
+Klienten din må støtte SMB3 - Finder på en moderne Mac, eller **Windows 10 og nyere**. SMB-kryptering er en Premium-funksjon.
 
 ## Koble til en filapp (FTP)
 

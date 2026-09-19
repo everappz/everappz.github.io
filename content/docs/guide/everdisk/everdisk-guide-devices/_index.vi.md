@@ -1,14 +1,14 @@
 ---
 title: "Kết nối tới máy chủ"
 date: 2026-08-20
-description: "Dùng tab Thiết bị trong Everdisk để kết nối tới các máy chủ khác trong mạng của bạn. Thêm và duyệt các máy chủ DLNA, WebDAV, FTP và SFTP cũng như ổ NAS, phát âm thanh và video, tải tệp, và tạo, tải lên, đổi tên, di chuyển hay xóa trên những máy chủ cho phép."
-keywords: ["tab Thiết bị Everdisk", "kết nối tới NAS", "ứng dụng DLNA iPhone", "ứng dụng WebDAV iPhone", "ứng dụng FTP iPhone", "ứng dụng SFTP iPhone", "duyệt máy chủ mạng", "phát từ NAS", "tải từ máy chủ", "kết nối đám mây WebDAV"]
+description: "Dùng tab Thiết bị trong Everdisk để kết nối tới các máy chủ khác trong mạng của bạn. Thêm và duyệt các máy chủ DLNA, WebDAV, FTP, SFTP và SMB cũng như ổ NAS, phát âm thanh và video, tải tệp, và tạo, tải lên, đổi tên, di chuyển hay xóa trên những máy chủ cho phép."
+keywords: ["tab Thiết bị Everdisk", "kết nối tới NAS", "ứng dụng DLNA iPhone", "ứng dụng WebDAV iPhone", "ứng dụng FTP iPhone", "ứng dụng SFTP iPhone", "máy khách SMB iPhone", "kết nối tới thư mục chia sẻ SMB", "duyệt máy chủ mạng", "phát từ NAS", "tải từ máy chủ", "kết nối đám mây WebDAV"]
 tags: ["everdisk", "guide", "devices", "connections"]
 readingTime: 9
 ---
 
 
-Everdisk không chỉ là một ổ đĩa không dây - nó còn là một ứng dụng khách cho các thiết bị khác trong mạng của bạn. Tab **Thiết bị** cho phép bạn kết nối tới các máy chủ **DLNA**, **WebDAV**, **FTP** và **SFTP**, bao gồm ổ NAS và máy chủ media, rồi duyệt, phát và tải tệp của chúng.
+Everdisk không chỉ là một ổ đĩa không dây - nó còn là một ứng dụng khách cho các thiết bị khác trong mạng của bạn. Tab **Thiết bị** cho phép bạn kết nối tới các máy chủ **DLNA**, **WebDAV**, **FTP**, **SFTP** và **SMB**, bao gồm Mac, PC chạy Windows, máy Linux, ổ NAS và máy chủ media, rồi duyệt, phát và tải tệp của chúng.
 
 ## Màn hình Thiết bị
 
@@ -27,6 +27,7 @@ Chạm **Kết nối mới** và chọn loại máy chủ bạn muốn truy cậ
 - **WebDAV** - kết nối tới các máy chủ tệp, ổ lưu trữ mạng và ổ đám mây hỗ trợ WebDAV. Đọc và ghi khi máy chủ cho phép.
 - **FTP** - phổ biến trên bộ định tuyến, ổ lưu trữ mạng và dịch vụ lưu trữ web. Cổng mặc định là 21 (990 cho FTPS bảo mật); bạn có thể đặt một cổng tùy chỉnh trong địa chỉ, ví dụ `ftp://host:2121`. Để trống tên đăng nhập và mật khẩu để truy cập ẩn danh.
 - **SFTP** - kết nối bảo mật qua SSH. Cổng mặc định là 22; dùng một cổng tùy chỉnh trong địa chỉ nếu cần, ví dụ `sftp://host:2222`.
+- **SMB** - kết nối tới Mac, PC chạy Windows, máy chủ Linux và bộ lưu trữ mạng (NAS) chia sẻ thư mục qua **SMB / CIFS**. Nhập một địa chỉ như `smb://server-address/share-name/` (ví dụ: `smb://local-server-name/share-name/folder-path`, `smb://192.168.1.105/share-name/folder-path`, `smb://remote-server.com`). SMB thêm hai trường tùy chọn: một tên **Nhóm làm việc**, và một **Phiên bản giao thức** mà bạn có thể để ở **Tự động** hoặc buộc thành **SMB1** hay **SMB2**. Nếu các tệp hoặc thư mục có ký tự đặc biệt không mở được, hãy thử chuyển phiên bản sang **SMB1**.
 
 > Everdisk chỉ kết nối tới những giao thức trong mạng nội bộ và được định địa chỉ trực tiếp này. Nó không đăng nhập vào các tài khoản đám mây như Google Drive hay Dropbox. Một ổ đám mây chỉ truy cập được nếu dịch vụ đó cung cấp một địa chỉ **WebDAV** để bạn nhập vào.
 
@@ -53,7 +54,7 @@ Sau khi kết nối, chạm vào máy chủ để mở nó:
 
 ## Thay đổi tệp trên máy chủ
 
-Trên những máy chủ cho phép ghi - **WebDAV, FTP và SFTP** - bạn cũng có thể quản lý tệp:
+Trên những máy chủ cho phép ghi - **WebDAV, FTP, SFTP và SMB** - bạn cũng có thể quản lý tệp:
 
 - **Thư mục mới**
 - **Tải tệp lên** từ thiết bị của bạn

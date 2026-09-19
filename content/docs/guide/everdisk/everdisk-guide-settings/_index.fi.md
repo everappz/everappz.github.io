@@ -1,7 +1,7 @@
 ---
 title: "Asetukset"
 date: 2026-08-20
-description: "Taydellinen katsaus Everdiskin asetuksiin: laiteprofiili (nimi ja avatar), neljä yhteyspalvelinta, kayton hallinta, kuvien ja videoiden laatu, mukautetut portit, DLNA-esikatselukuvat, verkko- ja siirtovaihtoehdot, tiedostonhallinnan vaihtoehdot ja Premium."
+description: "Taydellinen katsaus Everdiskin asetuksiin: laiteprofiili (nimi ja avatar), viisi yhteyspalvelinta, kayton hallinta, SMB-salaus (SMB3/AES), kuvien ja videoiden laatu, mukautetut portit, DLNA-esikatselukuvat, verkko- ja siirtovaihtoehdot, tiedostonhallinnan vaihtoehdot ja Premium."
 keywords: ["Everdisk asetukset", "laitteen nimi avatar", "yhteyspalvelimet", "kuvan videon laatu", "mukautetut portit HTTP WebDAV FTP", "DLNA esikatselukuvat", "rinnakkaiset siirrot", "poista tiedostot pysyvasti", "esikatselukuvien valimuisti", "Everdisk Premium"]
 tags: ["everdisk", "guide", "settings"]
 readingTime: 12
@@ -38,11 +38,12 @@ Katso lisatietoja sivulta [Kaytto ja yksityisyys](/docs/guide/everdisk/everdisk-
 
 ### Yhteydet
 
-Kytke jokainen palvelin paalle tai pois. Kaikki nelja ovat oletuksena paalla, ja jokaisella on tiedot (ⓘ) -painike yhteysohjeineen:
+Kytke jokainen palvelin paalle tai pois. Kaikki viisi ovat oletuksena paalla, ja jokaisella on tiedot (ⓘ) -painike yhteysohjeineen:
 
 - **TV ja mediakeskus** (DLNA)
 - **Selain** (HTTP)
 - **Tietokone** (WebDAV)
+- **Tietokone (lisaasetukset)** (SMB) - verkkoasema Macille, Windowsille ja Linuxille; Macilla se nakyy omana kohteenaan Finderin sivupalkissa. Ainoa yhteys, jonka voi salata.
 - **Muut sovellukset ja laitteet** (FTP)
 
 ### Kuvat
@@ -61,7 +62,11 @@ Sama idea kuin Kuvissa: Alkuperainen on nopein, ja muuntaminen on Premium. Laske
 
 ### Lisaasetukset
 
-- **HTTP-portti** (oletus 80), **WebDAV-portti** (oletus 8080), **FTP-portti** (oletus 2121). DLNA valitsee porttinsa automaattisesti. *(Porttien vaihtaminen on Premium; ilmaiskayttajat voivat nahda arvot.)*
+- **HTTP-portti** (oletus 80), **WebDAV-portti** (oletus 8080), **SMB-portti** (oletus 4455), **FTP-portti** (oletus 2121). DLNA valitsee porttinsa automaattisesti. *(Porttien vaihtaminen on Premium; ilmaiskayttajat voivat nahda arvot.)*
+
+### SMB-salaus
+
+- **Vaadi SMB-salaus** - salaa jokainen SMB-siirto **SMB3-salauksella (AES)** niin, ettei kukaan muu verkossa voi lukea tiedostojasi. Oletuksena pois paalta. Se vaatii ylla asetetun **kayttajatunnuksen ja salasanan** (salatut yhteydet eivat voi olla nimettomia) seka asiakkaan, joka tukee SMB3:a, kuten Finderin nykyaikaisella Macilla tai Windows 10:n tai uudemman. Muutokset tulevat voimaan, kun seuraavan kerran aloitat jakamisen. *(Premium.)*
 
 ### DLNA-esikatselukuvat
 
@@ -92,7 +97,8 @@ Everdisk on ilmainen kayttaa. Yksi **Premium Lifetime** -hankinta - kertamaksu, 
 - **Rajattomasti kansioita** - jaa yli 5 kansiota.
 - **Rajattomasti yhteyksia** - tallenna yli 10 palvelinta Laitteet-valilehdelle.
 - **Kuvan ja videon muuntaminen** - jaa missa tahansa muussa laadussa kuin Alkuperainen.
-- **Mukautetut portit** - aseta omat HTTP-, WebDAV- ja FTP-porttisi.
+- **SMB-salaus** - suojaa SMB-siirrot SMB3-salauksella (AES).
+- **Mukautetut portit** - aseta omat HTTP-, WebDAV-, SMB- ja FTP-porttisi.
 - **Automaattinen jakamisen aloitus** - aloita jakaminen automaattisesti, kun avaat sovelluksen.
 - **Laitteen mukauttaminen** - mukautettu laitteen nimi, avatar-kuvake, taustagradientti tai valokuva-avatar.
 

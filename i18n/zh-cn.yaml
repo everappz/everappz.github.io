@@ -99,7 +99,7 @@ productFlacboxTag: "100 万次下载"
 productFlacboxSubtitle: "适用于 iPhone 和 Mac 的 Hi-Res 音频播放器。以无损音频格式收听音乐：flac、alac、ape、wv、dsd 等。启用高级音频输出设置。"
 productEvertagSubtitle: "音乐标签编辑器，支持自动更正和批量模式。查找缺失的元数据，编辑专辑封面。编辑 ID3 / FLAC / APE。支持超过 120 种标签。"
 productEverdiskTag: "新品"
-productEverdiskSubtitle: "把你的 iPhone 或 iPad 变成无线硬盘。通过 DLNA、HTTP、WebDAV 和 FTP 与任何设备共享文件、照片、视频和音乐。可投放到电视、挂载为网络驱动器，并连接到其他服务器。"
+productEverdiskSubtitle: "把你的 iPhone 或 iPad 变成无线硬盘。通过 DLNA、HTTP、WebDAV、SMB 和 FTP 与任何设备共享文件、照片、视频和音乐。可投放到电视、挂载为网络驱动器并可选 SMB 加密，并连接到其他服务器。"
 
 previousSlide: "上一张幻灯片"
 nextSlide: "下一张幻灯片"

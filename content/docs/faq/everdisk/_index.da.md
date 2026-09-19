@@ -1,16 +1,17 @@
 ---
 date: '2026-08-20T12:00:00+00:00'
 title: 'Everdisk'
-description: "Everdisk FAQ: gør din iPhone eller iPad til et trådløst drev og del filer, billeder, videoer og musik med enhver enhed på dit netværk via DLNA, HTTP, WebDAV og FTP. Svar om at forbinde fra et TV, en webbrowser, Mac, Windows og Linux, USB-kabeloverførsel uden Wi-Fi, forbindelse til NAS og WebDAV/FTP/SFTP-servere, filhåndteringen, zip og udpakning, scanning af dokumenter til PDF, adgangskoder og blokering af enheder, privatliv og engangskøbet af Premium Lifetime."
+description: "Everdisk FAQ: gør din iPhone eller iPad til et trådløst drev og del filer, billeder, videoer og musik med enhver enhed på dit netværk via DLNA, HTTP, WebDAV, SMB og FTP. Svar om at forbinde fra et TV, en webbrowser, Mac, Windows og Linux, SMB-netværksdrevet med SMB3-kryptering (AES), USB-kabeloverførsel uden Wi-Fi, forbindelse til NAS og WebDAV/FTP/SFTP/SMB-servere, filhåndteringen, zip og udpakning, scanning af dokumenter til PDF, adgangskoder og blokering af enheder, privatliv og engangskøbet af Premium Lifetime."
 keywords: [
   "Everdisk FAQ", "trådløst drev iPhone", "del filer iPhone", "del billeder over netværk",
   "stream til TV DLNA", "åbn filer i browser", "WebDAV-netværksdrev iPhone",
+  "SMB-server iPhone", "SMB-kryptering iPhone", "SMB3 AES-kryptering",
   "FTP-server iPhone", "SFTP-klient iPhone", "USB-filoverførsel Mac uden Wi-Fi",
-  "forbind til NAS iPhone", "filhåndtering iOS", "zip udpak iPhone",
+  "forbind til NAS iPhone", "SMB-klient iPhone", "forbind til SMB-share", "filhåndtering iOS", "zip udpak iPhone",
   "scan dokumenter til PDF", "adgangskodebeskyt deling", "blokér enhed",
   "fildeling på lokalt netværk", "Everdisk Premium", "Everdisk lifetime"
 ]
-tags: ["everdisk", "faq", "trådløst drev", "fildeling", "DLNA", "WebDAV", "FTP", "SFTP", "netværksdrev"]
+tags: ["everdisk", "faq", "trådløst drev", "fildeling", "DLNA", "WebDAV", "SMB", "FTP", "SFTP", "netværksdrev"]
 ---
 
 
@@ -23,15 +24,16 @@ Everdisk gør din iPhone eller iPad til et trådløst drev, der deler filer, bil
 {{% details title="Hvad er Everdisk?" closed="true" %}}
 Everdisk er en app til **trådløst drev** til iPhone og iPad. Den gør din enhed til et knudepunkt, der deler de filer, billeder, videoer og musik, du vælger, med alt på dit lokale netværk, og den forbinder også til andre servere, så du kan gennemse og streame deres filer.<br><br>
 
-Den kører fire servere på én gang - **DLNA** til TV, **HTTP** til webbrowsere, **WebDAV** til Finder/Windows/Linux og **FTP** til fil-apps - så hver enhed forbinder på sin foretrukne måde. Der er ingen konti og ingen sky: du trykker på **Start**, og så er du klar. Den inkluderer også en filhåndtering, en medieafspiller, et billedgalleri, dokumentscanning til PDF samt zip/udpakning.
+Den kører fem servere på én gang - **DLNA** til TV, **HTTP** til webbrowsere, **WebDAV** til Finder/Windows/Linux, **SMB** til et netværksdrev på Mac, Windows og Linux med valgfri kryptering, og **FTP** til fil-apps - så hver enhed forbinder på sin foretrukne måde. Der er ingen konti og ingen sky: du trykker på **Start**, og så er du klar. Den inkluderer også en filhåndtering, en medieafspiller, et billedgalleri, dokumentscanning til PDF samt zip/udpakning.
 {{% /details %}}
 
 {{% details title="Hvordan fungerer Everdisk?" closed="true" %}}
-Når du trykker på **Start**, gør Everdisk din enhed til en server på dit lokale netværk og deler det indhold, du har valgt. Fire forskellige forbindelsesmetoder kører samtidig, så forskellige enheder kan forbinde på deres foretrukne måde:<br><br>
+Når du trykker på **Start**, gør Everdisk din enhed til en server på dit lokale netværk og deler det indhold, du har valgt. Fem forskellige forbindelsesmetoder kører samtidig, så forskellige enheder kan forbinde på deres foretrukne måde:<br><br>
 
 - **DLNA** - smart-TV og medieafspillere finder din enhed automatisk og viser dine medier med miniaturer.<br>
 - **HTTP** - hvem som helst åbner et link i en webbrowser for at gennemse og downloade dine filer.<br>
 - **WebDAV** - din enhed vises som et helt almindeligt netværksdrev i Finder, Windows eller Linux.<br>
+- **SMB** - et netværksdrev til Mac, Windows og Linux, bygget på den fildeling, der allerede findes i disse systemer; på en Mac dukker det op af sig selv i Finder-sidebjælken. Det er den eneste forbindelse, du kan kryptere (SMB3-kryptering, AES).<br>
 - **FTP** - fil-apps og avancerede værktøjer forbinder over FTP.<br><br>
 
 Alt sker over dit lokale Wi-Fi (eller et USB-kabel til en Mac) og rører aldrig internettet.
@@ -106,6 +108,29 @@ Brug **Computer (WebDAV)**-adressen.<br><br>
 Indtast login og adgangskode, hvis du har sat en.
 {{% /details %}}
 
+{{% details title="Hvordan forbinder jeg over SMB?" closed="true" %}}
+1. Under **Indstillinger → Deling → Forbindelser** skal du sikre dig, at **Computer (avanceret)** (SMB-forbindelsen) er slået til, og derefter trykke på **Start**.<br>
+2. Kopier den **SMB**-adresse, der vises på Deling-skærmen - den ser sådan ud: `smb://192.168.1.20:4455/Share`.<br>
+3. Forbind fra din computer:<br>
+&nbsp;&nbsp;- **Mac:** din enhed dukker op af sig selv i **Finder-sidebjælken** under **Placeringer** (Netværk) - klik blot på den. For at forbinde manuelt i stedet vælger du **Gå → Opret forbindelse til server** (**⌘K**) og indtaster adressen.<br>
+&nbsp;&nbsp;- **Windows:** i Stifinder højreklikker du på **Denne pc** og vælger **Tilslut netværksdrev**, og derefter indtaster du `\\<address>\Share`, eller skriver `smb://`-adressen i adresselinjen.<br>
+&nbsp;&nbsp;- **Linux:** vælg **Opret forbindelse til server** i din filhåndtering og indtast adressen.<br>
+4. Indtast dit login og din adgangskode, hvis du har sat en; ellers forbind som gæst.<br><br>
+
+Sharet hedder **Share**. Med **Filredigering** slået til kan du kopiere filer begge veje; med den slået fra er drevet skrivebeskyttet.
+{{% /details %}}
+
+{{% details title="Kan jeg kryptere min SMB-forbindelse?" closed="true" %}}
+Ja - og SMB er den **eneste** forbindelse, Everdisk kan kryptere. Under **Indstillinger → Deling** slår du **Kræv SMB-kryptering** til for at beskytte hver SMB-overførsel med **SMB3-kryptering (AES)**, så ingen andre på det samme netværk kan læse dine filer. Det er et godt valg på Wi-Fi, du ikke helt har tillid til.<br><br>
+
+Et par krav:<br>
+- Du skal først sætte et **login og en adgangskode** - krypterede forbindelser kan ikke være anonyme.<br>
+- Klienten skal understøtte **SMB3** - Finder på en moderne Mac eller **Windows 10 og nyere**.<br>
+- Ændringer træder i kraft, næste gang du starter deling.<br><br>
+
+SMB-kryptering er en del af engangskøbet af **Premium Lifetime**.
+{{% /details %}}
+
 {{% details title="Virker Everdisk uden Wi-Fi?" closed="true" %}}
 Ja, med en **Mac** og et kabel. Slut din iPhone eller iPad til Mac'en, tryk på **Stol på**, hvis du bliver spurgt, og tryk på **Start**. En **Kabelforbindelse**-adresse, der ender på `.local`, vises på Deling-skærmen; forbind til den fra Finder (**⌘K**). Dette virker helt uden Wi-Fi - fantastisk i et fly, på et hotel eller på et låst netværk - og det er hurtigere og mere privat end Wi-Fi.
 {{% /details %}}
@@ -122,19 +147,20 @@ Din iPhone eller iPad er serveren, og iOS lader ikke apps holde en netværksserv
 **USB-kablet til en Mac** er hurtigere og mere pålideligt end Wi-Fi, fordi dataene går direkte gennem kablet. Det er også den mest private mulighed, da intet passerer gennem din router eller internettet. Brug det til store billed- og videooverførsler.
 {{% /details %}}
 
-{{% details title="Hvad er forskellen på de fire servere (DLNA, HTTP, WebDAV, FTP)?" closed="true" %}}
+{{% details title="Hvad er forskellen på de fem servere (DLNA, HTTP, WebDAV, SMB, FTP)?" closed="true" %}}
 De deler alle det samme indhold, men passer til forskellige enheder:<br><br>
 
 - **TV &amp; Media Center (DLNA)** - til smart-TV og medieafspillere.<br>
 - **Browser (HTTP)** - til enhver webbrowser, ingen installation nødvendig.<br>
 - **Computer (WebDAV)** - gør din enhed til et netværksdrev i Finder/Windows/Linux.<br>
+- **Computer (avanceret)** (SMB) - et netværksdrev til Mac, Windows og Linux; på en Mac dukker det op af sig selv i Finder-sidebjælken, eller forbind manuelt med en `smb://`-adresse. Det er den eneste forbindelse, du kan kryptere (SMB3, AES).<br>
 - **Andre apps &amp; enheder (FTP)** - til fil-apps og avancerede værktøjer.<br><br>
 
 Du kan slå enhver af dem til eller fra under **Indstillinger → Deling → Forbindelser**.
 {{% /details %}}
 
 {{% details title="Hvordan adgangskodebeskytter jeg mine filer?" closed="true" %}}
-Gå til **Indstillinger → Deling → Adgang** og sæt et **Login** og en **Adgangskode**. Browser-, Computer- og Andre apps-forbindelserne vil derefter bede om de oplysninger. Lad begge være tomme for åben adgang.<br><br>
+Gå til **Indstillinger → Deling → Adgang** og sæt et **Login** og en **Adgangskode**. Browser-, Computer-, Computer (avanceret)- og Andre apps-forbindelserne vil derefter bede om de oplysninger. Lad begge være tomme for åben adgang.<br><br>
 
 Bemærk: **DLNA** (TV)-forbindelsen kan ikke adgangskodebeskyttes, så den er åben for alle på det samme Wi-Fi, mens den er slået til. Slå den fra, hvis du kun ønsker beskyttede forbindelser.
 {{% /details %}}
@@ -156,15 +182,15 @@ Ja. Everdisk deler kun over dit **lokale netværk** - intet går til internettet
 {{% /details %}}
 
 {{% details title="Kan Everdisk forbinde til min NAS eller andre servere?" closed="true" %}}
-Ja. Fanen **Enheder** forbinder **til** andre servere på dit netværk. Tryk på **Ny forbindelse** og vælg **DLNA / UPnP**, **WebDAV**, **FTP** eller **SFTP**, indtast adressen og et eventuelt login, og du kan gennemse, streame og downloade. På WebDAV-, FTP- og SFTP-servere kan du også oprette mapper, uploade, omdøbe, flytte og slette. DLNA-servere er skrivebeskyttede.
+Ja. Fanen **Enheder** forbinder **til** andre servere på dit netværk. Tryk på **Ny forbindelse** og vælg **DLNA / UPnP**, **WebDAV**, **FTP**, **SFTP** eller **SMB** (til Mac-computere, Windows-pc'er, Linux-maskiner og NAS-drev, der deler mapper over SMB / CIFS), indtast adressen og et eventuelt login, og du kan gennemse, streame og downloade. På WebDAV-, FTP-, SFTP- og SMB-servere kan du også oprette mapper, uploade, omdøbe, flytte og slette. DLNA-servere er skrivebeskyttede.
 {{% /details %}}
 
 {{% details title="Kan jeg forbinde til skylagring som Google Drive eller Dropbox?" closed="true" %}}
-Everdisk logger ikke ind på skykonti som iCloud Drive, Google Drive, Dropbox eller OneDrive. Den forbinder kun til servere på det **lokale netværk og direkte adresserede** servere (DLNA, WebDAV, FTP, SFTP). En skytjeneste kan kun nås, hvis den tilbyder en **WebDAV**-adresse, du kan indtaste i en ny WebDAV-forbindelse.
+Everdisk logger ikke ind på skykonti som iCloud Drive, Google Drive, Dropbox eller OneDrive. Den forbinder kun til servere på det **lokale netværk og direkte adresserede** servere (DLNA, WebDAV, FTP, SFTP, SMB). En skytjeneste kan kun nås, hvis den tilbyder en **WebDAV**-adresse, du kan indtaste i en ny WebDAV-forbindelse.
 {{% /details %}}
 
 {{% details title="Hvad er fanen Enheder til?" closed="true" %}}
-Det er klientsiden af Everdisk: **Forbindelser** viser de servere, du har gemt, og **Tilgængelige enheder** viser servere, der er fundet automatisk på dit netværk. Tryk på en for at gennemse, streame eller downloade dens filer, eller tryk på **Ny forbindelse** for at tilføje en DLNA-, WebDAV-, FTP- eller SFTP-server manuelt.
+Det er klientsiden af Everdisk: **Forbindelser** viser de servere, du har gemt, og **Tilgængelige enheder** viser servere, der er fundet automatisk på dit netværk. Tryk på en for at gennemse, streame eller downloade dens filer, eller tryk på **Ny forbindelse** for at tilføje en DLNA-, WebDAV-, FTP-, SFTP- eller SMB-server manuelt.
 {{% /details %}}
 
 {{% details title="Hvordan downloader jeg filer fra en server til min enhed?" closed="true" %}}
@@ -256,13 +282,13 @@ Everdisk giver din enhed et venligt navn og en avatar automatisk, og du kan **Re
 {{% /details %}}
 
 {{% details title="Kan jeg ændre forbindelsesportene?" closed="true" %}}
-Standarderne er **HTTP 80**, **WebDAV 8080** og **FTP 2121** (DLNA vælger sin port automatisk). Du kan se dem gratis, og at sætte **brugerdefinerede porte** er en Premium-funktion (**Avanceret** under Indstillinger → Deling).
+Standarderne er **HTTP 80**, **WebDAV 8080**, **SMB 4455** og **FTP 2121** (DLNA vælger sin port automatisk). Du kan se dem gratis, og at sætte **brugerdefinerede porte** er en Premium-funktion (**Avanceret** under Indstillinger → Deling).
 {{% /details %}}
 
 {{% details title="Er Everdisk gratis, og hvad tilføjer Premium?" closed="true" %}}
-Everdisk er en **gratis** download. Du kan køre alle fire servere, beskytte adgangen med en adgangskode, dele hele dit Billeder- og Musik-bibliotek, bruge filhåndteringen, scanne til PDF og forbinde til andre servere. Gratis-versionen deler op til **5 mapper** og gemmer op til **10 serverforbindelser**.<br><br>
+Everdisk er en **gratis** download. Du kan køre alle fem servere, beskytte adgangen med en adgangskode, dele hele dit Billeder- og Musik-bibliotek, bruge filhåndteringen, scanne til PDF og forbinde til andre servere. Gratis-versionen deler op til **5 mapper** og gemmer op til **10 serverforbindelser**.<br><br>
 
-Et engangskøb af **Premium Lifetime** (ikke et abonnement) tilføjer: **Ubegrænsede mapper**, **Ubegrænsede forbindelser**, **Billed- &amp; videokonvertering** (anden kvalitet end Original), **Brugerdefinerede porte**, **Automatisk start af deling** og **Tilpasning af enhed**.
+Et engangskøb af **Premium Lifetime** (ikke et abonnement) tilføjer: **Ubegrænsede mapper**, **Ubegrænsede forbindelser**, **Billed- &amp; videokonvertering** (anden kvalitet end Original), **SMB-kryptering** (SMB3/AES), **Brugerdefinerede porte**, **Automatisk start af deling** og **Tilpasning af enhed**.
 {{% /details %}}
 
 {{% details title="Er Premium et abonnement? Virker det på mine andre enheder?" closed="true" %}}

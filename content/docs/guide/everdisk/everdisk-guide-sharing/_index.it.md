@@ -1,7 +1,7 @@
 ---
 title: "Condivisione"
 date: 2026-08-20
-description: "Scopri come funziona la condivisione in Everdisk: tocca Avvia per trasformare il tuo iPhone o iPad in un'unità wireless, scegli cosa condividere (file, cartelle, foto e musica), esegui i quattro server (DLNA, HTTP, WebDAV, FTP), leggi gli indirizzi di connessione, controlla chi è collegato e mantieni la condivisione attiva tramite Wi-Fi o un cavo USB."
+description: "Scopri come funziona la condivisione in Everdisk: tocca Avvia per trasformare il tuo iPhone o iPad in un'unità wireless, scegli cosa condividere (file, cartelle, foto e musica), esegui i cinque server (DLNA, HTTP, WebDAV, SMB, FTP), cifra la connessione SMB con SMB3 (AES), leggi gli indirizzi di connessione, controlla chi è collegato e mantieni la condivisione attiva tramite Wi-Fi o un cavo USB."
 keywords: ["condivisione Everdisk", "unità wireless iPhone", "avviare la condivisione", "condividere file iPhone", "condividere foto in rete", "DLNA HTTP WebDAV FTP", "cosa condividere", "come collegarsi", "tenere l'app aperta", "condivisione via Wi-Fi o cavo USB"]
 tags: ["everdisk", "guida", "condivisione"]
 readingTime: 9
@@ -17,7 +17,7 @@ Al centro della schermata Condivisione c'è un grande pulsante rotondo.
 - Tocca **Avvia** per mettere online tutti i server abilitati in una sola volta. Il pulsante mostra **Avvio in corso...**, poi **Interrompi** quando la condivisione è attiva.
 - Tocca **Interrompi** per rimettere tutto offline. I dispositivi collegati vengono disconnessi.
 
-Mentre la condivisione è attiva, i file, le foto e la musica che hai scelto sono disponibili per qualsiasi dispositivo della stessa rete che si colleghi usando uno dei quattro metodi qui sotto.
+Mentre la condivisione è attiva, i file, le foto e la musica che hai scelto sono disponibili per qualsiasi dispositivo della stessa rete che si colleghi usando uno dei cinque metodi qui sotto.
 
 > La condivisione funziona solo mentre l'app è aperta. Vedi **Tieni l'app aperta** verso la fine di questa pagina per capire il motivo e come mantenere attivi i trasferimenti di grandi dimensioni.
 
@@ -44,13 +44,14 @@ Prima di avviare, tocca l'intestazione **Cosa condividere** per aprire tre grupp
 
 Se provi ad avviare senza aver selezionato nulla, Everdisk mostra un avviso **Niente da condividere**. Se modifichi ciò che è condiviso mentre la condivisione è attiva, **interrompi e riavvia** per applicare la modifica.
 
-## I quattro server
+## I cinque server
 
-Everdisk condivide gli stessi contenuti in quattro modi contemporaneamente. Ognuno è pensato per un tipo di dispositivo diverso e ognuno può essere attivato o disattivato in **Impostazioni → Condivisione → Connessioni**. Per impostazione predefinita tutti e quattro sono attivi.
+Everdisk condivide gli stessi contenuti in cinque modi contemporaneamente. Ognuno è pensato per un tipo di dispositivo diverso e ognuno può essere attivato o disattivato in **Impostazioni → Condivisione → Connessioni**. Per impostazione predefinita tutti e cinque sono attivi.
 
 - **TV e Media Center (DLNA)**: per smart TV e lettori multimediali. Rilevano da soli il tuo dispositivo e mostrano le tue foto, i video e la musica, con miniature di anteprima.
 - **Browser (HTTP)**: per qualsiasi telefono, tablet o computer. L'altra persona apre un link in un browser web per sfogliare e scaricare i tuoi file. Niente da installare.
 - **Computer (WebDAV)**: per un Mac, un PC Windows o una macchina Linux. Il tuo dispositivo appare come una normale unità di rete, così puoi trascinare i file in entrambe le direzioni.
+- **Computer (avanzate) (SMB)**: un'unità di rete per Mac, Windows e Linux. Su un Mac compare da sola nella barra laterale del Finder; su Windows, aprila in Esplora file con un indirizzo `smb://`. È l'unica connessione che puoi **cifrare**, con la cifratura SMB3 (AES).
 - **Altre app e dispositivi (FTP)**: per app per file e utenti esperti che parlano FTP.
 
 Per le istruzioni di connessione passo dopo passo per ogni tipo, vedi [Collega i tuoi dispositivi](/docs/guide/everdisk/everdisk-guide-connect).

@@ -1,16 +1,17 @@
 ---
 date: '2026-08-20T12:00:00+00:00'
 title: 'Everdisk'
-description: "FAQ Everdisk : transformez votre iPhone ou iPad en disque sans fil et partagez fichiers, photos, vidéos et musique avec tous les appareils de votre réseau via DLNA, HTTP, WebDAV et FTP. Réponses sur la connexion depuis une TV, un navigateur web, un Mac, Windows et Linux, le transfert par câble USB sans Wi-Fi, la connexion aux NAS et aux serveurs WebDAV/FTP/SFTP, le gestionnaire de fichiers, la compression et décompression, la numérisation de documents en PDF, les mots de passe et le blocage d'appareils, la confidentialité et l'achat unique Premium à vie."
+description: "FAQ Everdisk : transformez votre iPhone ou iPad en disque sans fil et partagez fichiers, photos, vidéos et musique avec tous les appareils de votre réseau via DLNA, HTTP, WebDAV, SMB et FTP. Réponses sur la connexion depuis une TV, un navigateur web, un Mac, Windows et Linux, le lecteur réseau SMB avec chiffrement SMB3 (AES), le transfert par câble USB sans Wi-Fi, la connexion aux NAS et aux serveurs WebDAV/FTP/SFTP/SMB, le gestionnaire de fichiers, la compression et décompression, la numérisation de documents en PDF, les mots de passe et le blocage d'appareils, la confidentialité et l'achat unique Premium à vie."
 keywords: [
   "FAQ Everdisk", "disque sans fil iPhone", "partager des fichiers iPhone", "partager des photos sur le réseau",
   "diffuser vers la TV DLNA", "ouvrir des fichiers dans le navigateur", "lecteur réseau WebDAV iPhone",
+  "serveur SMB iPhone", "chiffrement SMB iPhone", "chiffrement SMB3 AES",
   "serveur FTP iPhone", "client SFTP iPhone", "transfert de fichiers USB Mac sans Wi-Fi",
-  "se connecter à un NAS iPhone", "gestionnaire de fichiers iOS", "compresser décompresser iPhone",
+  "se connecter à un NAS iPhone", "client SMB iPhone", "se connecter à un partage SMB", "gestionnaire de fichiers iOS", "compresser décompresser iPhone",
   "numériser des documents en PDF", "protéger le partage par mot de passe", "bloquer un appareil",
   "partage de fichiers réseau local", "Everdisk Premium", "Everdisk à vie"
 ]
-tags: ["everdisk", "faq", "disque sans fil", "partage de fichiers", "DLNA", "WebDAV", "FTP", "SFTP", "lecteur réseau"]
+tags: ["everdisk", "faq", "disque sans fil", "partage de fichiers", "DLNA", "WebDAV", "SMB", "FTP", "SFTP", "lecteur réseau"]
 ---
 
 
@@ -23,15 +24,16 @@ Everdisk transforme votre iPhone ou iPad en disque sans fil qui partage fichiers
 {{% details title="Qu'est-ce qu'Everdisk ?" closed="true" %}}
 Everdisk est une application de **disque sans fil** pour iPhone et iPad. Elle transforme votre appareil en un centre qui partage les fichiers, photos, vidéos et musique de votre choix avec tout ce qui se trouve sur votre réseau local, et elle se connecte aussi à d'autres serveurs pour parcourir et diffuser leurs fichiers.<br><br>
 
-Elle fait tourner quatre serveurs à la fois - **DLNA** pour les TV, **HTTP** pour les navigateurs web, **WebDAV** pour Finder/Windows/Linux, et **FTP** pour les applications de fichiers - afin que chaque appareil se connecte à sa manière. Il n'y a ni compte ni cloud : vous appuyez sur **Démarrer** et tout est prêt. Elle comprend aussi un gestionnaire de fichiers, un lecteur multimédia, une galerie photo, la numérisation de documents en PDF et la compression/décompression.
+Elle fait tourner cinq serveurs à la fois - **DLNA** pour les TV, **HTTP** pour les navigateurs web, **WebDAV** pour Finder/Windows/Linux, **SMB** pour un lecteur réseau sur Mac, Windows et Linux avec chiffrement en option, et **FTP** pour les applications de fichiers - afin que chaque appareil se connecte à sa manière. Il n'y a ni compte ni cloud : vous appuyez sur **Démarrer** et tout est prêt. Elle comprend aussi un gestionnaire de fichiers, un lecteur multimédia, une galerie photo, la numérisation de documents en PDF et la compression/décompression.
 {{% /details %}}
 
 {{% details title="Comment fonctionne Everdisk ?" closed="true" %}}
-Quand vous appuyez sur **Démarrer**, Everdisk transforme votre appareil en serveur sur votre réseau local et partage le contenu que vous avez sélectionné. Quatre méthodes de connexion tournent en même temps pour que différents appareils se connectent comme ils le préfèrent :<br><br>
+Quand vous appuyez sur **Démarrer**, Everdisk transforme votre appareil en serveur sur votre réseau local et partage le contenu que vous avez sélectionné. Cinq méthodes de connexion tournent en même temps pour que différents appareils se connectent comme ils le préfèrent :<br><br>
 
 - **DLNA** - les smart TV et lecteurs multimédias trouvent votre appareil automatiquement et affichent vos médias avec des vignettes.<br>
 - **HTTP** - quiconque ouvre un lien dans un navigateur web pour parcourir et télécharger vos fichiers.<br>
 - **WebDAV** - votre appareil apparaît comme un lecteur réseau ordinaire dans Finder, Windows ou Linux.<br>
+- **SMB** - un lecteur réseau pour Mac, Windows et Linux, bâti sur le partage de fichiers déjà présent dans ces systèmes ; sur un Mac il apparaît tout seul dans la barre latérale du Finder. C'est la seule connexion que vous pouvez chiffrer (chiffrement SMB3, AES).<br>
 - **FTP** - les applications de fichiers et outils avancés se connectent via FTP.<br><br>
 
 Tout se passe sur votre Wi-Fi local (ou via un câble USB vers un Mac) et ne touche jamais Internet.
@@ -106,6 +108,29 @@ Utilisez l'adresse **Ordinateur (WebDAV)**.<br><br>
 Saisissez l'identifiant et le mot de passe si vous en avez défini.
 {{% /details %}}
 
+{{% details title="Comment me connecter via SMB ?" closed="true" %}}
+1. Dans **Réglages → Partage → Connexions**, assurez-vous que **Ordinateur (avancé)** (la connexion SMB) est activé, puis appuyez sur **Démarrer**.<br>
+2. Copiez l'adresse **SMB** affichée sur l'écran Partage - elle ressemble à `smb://192.168.1.20:4455/Share`.<br>
+3. Connectez-vous depuis votre ordinateur :<br>
+&nbsp;&nbsp;- **Mac :** votre appareil apparaît tout seul dans la **barre latérale du Finder** sous **Emplacements** (Réseau) - il suffit de cliquer dessus. Pour vous connecter manuellement, choisissez **Aller → Se connecter au serveur** (**⌘K**) et saisissez l'adresse.<br>
+&nbsp;&nbsp;- **Windows :** dans l'Explorateur de fichiers, faites un clic droit sur **Ce PC** et choisissez **Connecter un lecteur réseau**, puis saisissez `\\<address>\Share`, ou tapez l'adresse `smb://` dans la barre d'adresse.<br>
+&nbsp;&nbsp;- **Linux :** dans votre gestionnaire de fichiers, choisissez **Se connecter au serveur** et saisissez l'adresse.<br>
+4. Saisissez votre identifiant et votre mot de passe si vous en avez défini, sinon connectez-vous en invité.<br><br>
+
+Le partage est nommé **Share**. Avec la **Modification des fichiers** activée, vous pouvez copier des fichiers dans les deux sens ; désactivée, le lecteur est en lecture seule.
+{{% /details %}}
+
+{{% details title="Puis-je chiffrer ma connexion SMB ?" closed="true" %}}
+Oui - et SMB est la **seule** connexion qu'Everdisk peut chiffrer. Dans **Réglages → Partage**, activez **Exiger le chiffrement SMB** pour protéger chaque transfert SMB avec le **chiffrement SMB3 (AES)**, afin que personne d'autre sur le même réseau ne puisse lire vos fichiers. C'est un excellent choix sur un Wi-Fi auquel vous ne faites pas totalement confiance.<br><br>
+
+Quelques conditions :<br>
+- Vous devez d'abord définir un **identifiant et un mot de passe** - les connexions chiffrées ne peuvent pas être anonymes.<br>
+- Le client doit prendre en charge **SMB3** - le Finder sur un Mac récent, ou **Windows 10 et versions ultérieures**.<br>
+- Les modifications prennent effet au prochain démarrage du partage.<br><br>
+
+Le chiffrement SMB fait partie de l'achat unique **Premium à vie**.
+{{% /details %}}
+
 {{% details title="Everdisk fonctionne-t-il sans Wi-Fi ?" closed="true" %}}
 Oui, avec un **Mac** et un câble. Branchez votre iPhone ou iPad sur le Mac, appuyez sur **Se fier** si on vous le demande, et appuyez sur **Démarrer**. Une adresse **Connexion par câble** se terminant par `.local` apparaît sur l'écran Partage ; connectez-vous-y depuis Finder (**⌘K**). Ça fonctionne sans aucun Wi-Fi - idéal dans un avion, à l'hôtel ou sur un réseau verrouillé - et c'est plus rapide et plus privé que le Wi-Fi.
 {{% /details %}}
@@ -122,19 +147,20 @@ Votre iPhone ou iPad est le serveur, et iOS ne permet pas aux applications de ga
 Le **câble USB vers un Mac** est plus rapide et plus fiable que le Wi-Fi, car les données passent directement par le câble. C'est aussi l'option la plus privée, puisque rien ne transite par votre routeur ni par Internet. Utilisez-le pour les gros transferts de photos et de vidéos.
 {{% /details %}}
 
-{{% details title="Quelle est la différence entre les quatre serveurs (DLNA, HTTP, WebDAV, FTP) ?" closed="true" %}}
+{{% details title="Quelle est la différence entre les cinq serveurs (DLNA, HTTP, WebDAV, SMB, FTP) ?" closed="true" %}}
 Ils partagent tous le même contenu mais conviennent à des appareils différents :<br><br>
 
 - **TV et centre multimédia (DLNA)** - pour les smart TV et lecteurs multimédias.<br>
 - **Navigateur (HTTP)** - pour n'importe quel navigateur web, sans rien à installer.<br>
 - **Ordinateur (WebDAV)** - fait de votre appareil un lecteur réseau dans Finder/Windows/Linux.<br>
+- **Ordinateur (avancé)** (SMB) - un lecteur réseau pour Mac, Windows et Linux ; sur un Mac il apparaît tout seul dans la barre latérale du Finder, ou connectez-vous manuellement avec une adresse `smb://`. C'est la seule connexion que vous pouvez chiffrer (SMB3, AES).<br>
 - **Autres apps et appareils (FTP)** - pour les applications de fichiers et outils avancés.<br><br>
 
 Vous pouvez activer ou désactiver chacun d'eux dans **Paramètres → Partage → Connexions**.
 {{% /details %}}
 
 {{% details title="Comment protéger mes fichiers par mot de passe ?" closed="true" %}}
-Allez dans **Paramètres → Partage → Accès** et définissez un **Identifiant** et un **Mot de passe**. Les connexions Navigateur, Ordinateur et Autres apps demanderont alors ces informations. Laissez les deux vides pour un accès libre.<br><br>
+Allez dans **Paramètres → Partage → Accès** et définissez un **Identifiant** et un **Mot de passe**. Les connexions Navigateur, Ordinateur, Ordinateur (avancé) et Autres apps demanderont alors ces informations. Laissez les deux vides pour un accès libre.<br><br>
 
 Remarque : la connexion **DLNA** (TV) ne peut pas être protégée par mot de passe, elle est donc ouverte à quiconque est sur le même Wi-Fi tant qu'elle est activée. Désactivez-la si vous ne voulez que des connexions protégées.
 {{% /details %}}
@@ -156,15 +182,15 @@ Oui. Everdisk ne partage que sur votre **réseau local** - rien ne va sur Intern
 {{% /details %}}
 
 {{% details title="Everdisk peut-il se connecter à mon NAS ou à d'autres serveurs ?" closed="true" %}}
-Oui. L'onglet **Appareils** se connecte **à** d'autres serveurs de votre réseau. Appuyez sur **Nouvelle connexion** et choisissez **DLNA / UPnP**, **WebDAV**, **FTP** ou **SFTP**, saisissez l'adresse et un éventuel identifiant, et vous pouvez parcourir, diffuser et télécharger. Sur les serveurs WebDAV, FTP et SFTP, vous pouvez aussi créer des dossiers, envoyer, renommer, déplacer et supprimer. Les serveurs DLNA sont en lecture seule.
+Oui. L'onglet **Appareils** se connecte **à** d'autres serveurs de votre réseau. Appuyez sur **Nouvelle connexion** et choisissez **DLNA / UPnP**, **WebDAV**, **FTP**, **SFTP** ou **SMB** (pour les Mac, PC Windows, machines Linux et NAS qui partagent des dossiers via SMB / CIFS), saisissez l'adresse et un éventuel identifiant, et vous pouvez parcourir, diffuser et télécharger. Sur les serveurs WebDAV, FTP, SFTP et SMB, vous pouvez aussi créer des dossiers, envoyer, renommer, déplacer et supprimer. Les serveurs DLNA sont en lecture seule.
 {{% /details %}}
 
 {{% details title="Puis-je me connecter à un stockage cloud comme Google Drive ou Dropbox ?" closed="true" %}}
-Everdisk ne se connecte pas aux comptes cloud tels qu'iCloud Drive, Google Drive, Dropbox ou OneDrive. Il se connecte uniquement aux serveurs **du réseau local et directement adressés** (DLNA, WebDAV, FTP, SFTP). Un service cloud n'est accessible que s'il propose une adresse **WebDAV** que vous pouvez saisir dans une nouvelle connexion WebDAV.
+Everdisk ne se connecte pas aux comptes cloud tels qu'iCloud Drive, Google Drive, Dropbox ou OneDrive. Il se connecte uniquement aux serveurs **du réseau local et directement adressés** (DLNA, WebDAV, FTP, SFTP, SMB). Un service cloud n'est accessible que s'il propose une adresse **WebDAV** que vous pouvez saisir dans une nouvelle connexion WebDAV.
 {{% /details %}}
 
 {{% details title="À quoi sert l'onglet Appareils ?" closed="true" %}}
-C'est le côté client d'Everdisk : **Connexions** liste les serveurs que vous avez enregistrés, et **Appareils disponibles** liste les serveurs trouvés automatiquement sur votre réseau. Touchez-en un pour parcourir, diffuser ou télécharger ses fichiers, ou appuyez sur **Nouvelle connexion** pour ajouter manuellement un serveur DLNA, WebDAV, FTP ou SFTP.
+C'est le côté client d'Everdisk : **Connexions** liste les serveurs que vous avez enregistrés, et **Appareils disponibles** liste les serveurs trouvés automatiquement sur votre réseau. Touchez-en un pour parcourir, diffuser ou télécharger ses fichiers, ou appuyez sur **Nouvelle connexion** pour ajouter manuellement un serveur DLNA, WebDAV, FTP, SFTP ou SMB.
 {{% /details %}}
 
 {{% details title="Comment télécharger des fichiers d'un serveur vers mon appareil ?" closed="true" %}}
@@ -256,13 +282,13 @@ Everdisk attribue automatiquement à votre appareil un nom et un avatar sympathi
 {{% /details %}}
 
 {{% details title="Puis-je changer les ports de connexion ?" closed="true" %}}
-Les valeurs par défaut sont **HTTP 80**, **WebDAV 8080** et **FTP 2121** (le DLNA choisit son port automatiquement). Vous pouvez les consulter gratuitement, et définir des **ports personnalisés** est une fonction Premium (**Avancé** dans Paramètres → Partage).
+Les valeurs par défaut sont **HTTP 80**, **WebDAV 8080**, **SMB 4455** et **FTP 2121** (le DLNA choisit son port automatiquement). Vous pouvez les consulter gratuitement, et définir des **ports personnalisés** est une fonction Premium (**Avancé** dans Paramètres → Partage).
 {{% /details %}}
 
 {{% details title="Everdisk est-il gratuit, et qu'apporte Premium ?" closed="true" %}}
-Everdisk est un téléchargement **gratuit**. Vous pouvez faire tourner les quatre serveurs, protéger l'accès par mot de passe, partager toute votre photothèque et musicothèque, utiliser le gestionnaire de fichiers, numériser en PDF et vous connecter à d'autres serveurs. La version gratuite partage jusqu'à **5 dossiers** et enregistre jusqu'à **10 connexions** de serveur.<br><br>
+Everdisk est un téléchargement **gratuit**. Vous pouvez faire tourner les cinq serveurs, protéger l'accès par mot de passe, partager toute votre photothèque et musicothèque, utiliser le gestionnaire de fichiers, numériser en PDF et vous connecter à d'autres serveurs. La version gratuite partage jusqu'à **5 dossiers** et enregistre jusqu'à **10 connexions** de serveur.<br><br>
 
-Un achat unique **Premium à vie** (pas un abonnement) ajoute : **Dossiers illimités**, **Connexions illimitées**, **Conversion photo et vidéo** (une qualité autre qu'Original), **Ports personnalisés**, **Démarrage automatique du partage** et **Personnalisation de l'appareil**.
+Un achat unique **Premium à vie** (pas un abonnement) ajoute : **Dossiers illimités**, **Connexions illimitées**, **Conversion photo et vidéo** (une qualité autre qu'Original), **Chiffrement SMB** (SMB3/AES), **Ports personnalisés**, **Démarrage automatique du partage** et **Personnalisation de l'appareil**.
 {{% /details %}}
 
 {{% details title="Premium est-il un abonnement ? Fonctionne-t-il sur mes autres appareils ?" closed="true" %}}

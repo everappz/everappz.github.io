@@ -1,14 +1,14 @@
 ---
 title: "Koble til servere"
 date: 2026-08-20
-description: "Bruk Enheter-fanen i Everdisk for å koble til andre servere på nettverket ditt. Legg til og bla i DLNA-, WebDAV-, FTP- og SFTP-servere og NAS-disker, stream lyd og video, last ned filer, og opprett, last opp, gi nytt navn, flytt eller slett på servere som tillater det."
-keywords: ["Everdisk Enheter-fane", "koble til NAS", "DLNA-klient iPhone", "WebDAV-klient iPhone", "FTP-klient iPhone", "SFTP-klient iPhone", "bla i nettverksserver", "streame fra NAS", "laste ned fra server", "koble til sky WebDAV"]
+description: "Bruk Enheter-fanen i Everdisk for å koble til andre servere på nettverket ditt. Legg til og bla i DLNA-, WebDAV-, FTP-, SFTP- og SMB-servere og NAS-disker, stream lyd og video, last ned filer, og opprett, last opp, gi nytt navn, flytt eller slett på servere som tillater det."
+keywords: ["Everdisk Enheter-fane", "koble til NAS", "DLNA-klient iPhone", "WebDAV-klient iPhone", "FTP-klient iPhone", "SFTP-klient iPhone", "SMB-klient iPhone", "koble til SMB-delt mappe", "bla i nettverksserver", "streame fra NAS", "laste ned fra server", "koble til sky WebDAV"]
 tags: ["everdisk", "veiledning", "enheter", "tilkoblinger"]
 readingTime: 9
 ---
 
 
-Everdisk er ikke bare en trådløs disk - den er også en klient for de andre enhetene på nettverket ditt. **Enheter**-fanen lar deg koble til **DLNA**-, **WebDAV**-, **FTP**- og **SFTP**-servere, inkludert NAS-disker og medieservere, for deretter å bla i, streame og laste ned filene deres.
+Everdisk er ikke bare en trådløs disk - den er også en klient for de andre enhetene på nettverket ditt. **Enheter**-fanen lar deg koble til **DLNA**-, **WebDAV**-, **FTP**-, **SFTP**- og **SMB**-servere, inkludert Mac-er, Windows-PC-er, Linux-maskiner, NAS-disker og medieservere, for deretter å bla i, streame og laste ned filene deres.
 
 ## Enheter-skjermen
 
@@ -27,6 +27,7 @@ Trykk **Ny tilkobling** og velg typen server du vil nå:
 - **WebDAV** - koble til filservere, nettverkslagringsdisker og skydisker som støtter WebDAV. Les og skriv når serveren tillater det.
 - **FTP** - vanlig på rutere, nettverkslagringsdisker og webhotell. Standardporten er 21 (990 for sikker FTPS); du kan angi en egendefinert port i adressen, for eksempel `ftp://host:2121`. La brukernavnet og passordet stå tomme for anonym tilgang.
 - **SFTP** - koble til sikkert over SSH. Standardporten er 22; bruk en egendefinert port i adressen om nødvendig, for eksempel `sftp://host:2222`.
+- **SMB** - koble til Mac-er, Windows-PC-er, Linux-servere og nettverkslagring (NAS) som deler mapper over **SMB / CIFS**. Skriv inn en adresse som `smb://server-address/share-name/` (eksempler: `smb://local-server-name/share-name/folder-path`, `smb://192.168.1.105/share-name/folder-path`, `smb://remote-server.com`). SMB legger til to valgfrie felt: et **Arbeidsgruppe**-navn og en **Protokollversjon** du kan la stå på **Automatisk** eller tvinge til **SMB1** eller **SMB2**. Hvis filer eller mapper med spesialtegn ikke vil åpnes, prøv å bytte versjonen til **SMB1**.
 
 > Everdisk kobler bare til disse protokollene på lokalnettet og direkte adresserte protokollene. Den logger ikke inn på skykontoer som Google Drive eller Dropbox. En skydisk er kun tilgjengelig hvis den tjenesten tilbyr en **WebDAV**-adresse du kan skrive inn.
 
@@ -53,7 +54,7 @@ Når du er tilkoblet, trykker du på serveren for å åpne den:
 
 ## Endre filer på en server
 
-På servere som tillater skriving - **WebDAV, FTP og SFTP** - kan du også administrere filer:
+På servere som tillater skriving - **WebDAV, FTP, SFTP og SMB** - kan du også administrere filer:
 
 - **Ny mappe**
 - **Last opp filer** fra enheten din

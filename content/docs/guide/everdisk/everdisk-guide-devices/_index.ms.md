@@ -1,14 +1,14 @@
 ---
 title: "Sambung ke Pelayan"
 date: 2026-08-20
-description: "Gunakan tab Peranti dalam Everdisk untuk menyambung ke pelayan lain pada rangkaian anda. Tambah dan layari pelayan DLNA, WebDAV, FTP dan SFTP serta pemacu NAS, strim audio dan video, muat turun fail, serta cipta, muat naik, namakan semula, alih atau padam pada pelayan yang membenarkannya."
-keywords: ["tab Peranti Everdisk", "sambung ke NAS", "klien DLNA iPhone", "klien WebDAV iPhone", "klien FTP iPhone", "klien SFTP iPhone", "layari pelayan rangkaian", "strim dari NAS", "muat turun dari pelayan", "sambung awan WebDAV"]
+description: "Gunakan tab Peranti dalam Everdisk untuk menyambung ke pelayan lain pada rangkaian anda. Tambah dan layari pelayan DLNA, WebDAV, FTP, SFTP dan SMB serta pemacu NAS, strim audio dan video, muat turun fail, serta cipta, muat naik, namakan semula, alih atau padam pada pelayan yang membenarkannya."
+keywords: ["tab Peranti Everdisk", "sambung ke NAS", "klien DLNA iPhone", "klien WebDAV iPhone", "klien FTP iPhone", "klien SFTP iPhone", "klien SMB iPhone", "sambung ke kongsi SMB", "layari pelayan rangkaian", "strim dari NAS", "muat turun dari pelayan", "sambung awan WebDAV"]
 tags: ["everdisk", "panduan", "peranti", "sambungan"]
 readingTime: 9
 ---
 
 
-Everdisk bukan sekadar pemacu tanpa wayar - ia juga merupakan klien untuk peranti lain pada rangkaian anda. Tab **Peranti** membolehkan anda menyambung ke pelayan **DLNA**, **WebDAV**, **FTP** dan **SFTP**, termasuk pemacu NAS dan pelayan media, lalu melayari, menstrim dan memuat turun fail mereka.
+Everdisk bukan sekadar pemacu tanpa wayar - ia juga merupakan klien untuk peranti lain pada rangkaian anda. Tab **Peranti** membolehkan anda menyambung ke pelayan **DLNA**, **WebDAV**, **FTP**, **SFTP** dan **SMB**, termasuk Mac, PC Windows, mesin Linux, pemacu NAS dan pelayan media, lalu melayari, menstrim dan memuat turun fail mereka.
 
 ## Skrin Peranti
 
@@ -27,6 +27,7 @@ Ketik **Sambungan Baharu** dan pilih jenis pelayan yang ingin anda capai:
 - **WebDAV** - sambung ke pelayan fail, pemacu storan rangkaian, dan pemacu awan yang menyokong WebDAV. Baca dan tulis apabila pelayan membenarkannya.
 - **FTP** - lazim pada penghala, pemacu storan rangkaian dan pengehosan web. Port lalai ialah 21 (990 untuk FTPS selamat); anda boleh menetapkan port tersuai dalam alamat, contohnya `ftp://host:2121`. Biarkan log masuk dan kata laluan kosong untuk akses tanpa nama.
 - **SFTP** - sambung secara selamat menerusi SSH. Port lalai ialah 22; guna port tersuai dalam alamat jika perlu, contohnya `sftp://host:2222`.
+- **SMB** - sambung ke Mac, PC Windows, pelayan Linux dan storan rangkaian (NAS) yang berkongsi folder melalui **SMB / CIFS**. Masukkan alamat seperti `smb://server-address/share-name/` (contoh: `smb://local-server-name/share-name/folder-path`, `smb://192.168.1.105/share-name/folder-path`, `smb://remote-server.com`). SMB menambah dua medan pilihan: nama **Kumpulan kerja**, dan **Versi protokol** yang boleh anda biarkan pada **Automatik** atau paksa kepada **SMB1** atau **SMB2**. Jika fail atau folder dengan aksara khas tidak mahu dibuka, cuba tukar versi kepada **SMB1**.
 
 > Everdisk hanya menyambung ke protokol rangkaian tempatan dan yang dialamatkan secara langsung ini. Ia tidak log masuk ke akaun awan seperti Google Drive atau Dropbox. Sesuatu pemacu awan hanya boleh dicapai jika perkhidmatan itu menawarkan alamat **WebDAV** yang boleh anda taip masuk.
 
@@ -53,7 +54,7 @@ Sebaik sahaja bersambung, ketik pelayan itu untuk membukanya:
 
 ## Ubah fail pada pelayan
 
-Pada pelayan yang membenarkan penulisan - **WebDAV, FTP dan SFTP** - anda juga boleh mengurus fail:
+Pada pelayan yang membenarkan penulisan - **WebDAV, FTP, SFTP dan SMB** - anda juga boleh mengurus fail:
 
 - **Folder Baharu**
 - **Muat Naik Fail** daripada peranti anda

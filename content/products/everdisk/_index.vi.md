@@ -2,12 +2,12 @@
 date: '2026-08-20T12:00:00+00:00'
 title: 'Everdisk - Biến iPhone và iPad thành ổ đĩa không dây'
 layout: hextra-home
-description: "Biến iPhone hoặc iPad thành ổ đĩa không dây và chia sẻ tập tin, ảnh, video, nhạc với mọi thiết bị qua DLNA, HTTP, WebDAV và FTP. Không cần đám mây."
-keywords: ["Everdisk", "ổ đĩa không dây iPhone", "chia sẻ tập tin iPhone", "máy chủ WebDAV iOS", "máy chủ DLNA iPhone", "máy chủ FTP iOS", "phát lên TV từ iPhone", "ổ đĩa mạng iPhone", "truyền tập tin USB iPhone", "trình quản lý tập tin iOS", "quét tài liệu thành PDF", "chia sẻ ảnh qua mạng"]
-tags: ["Everdisk", "ổ đĩa không dây", "chia sẻ tập tin", "DLNA", "WebDAV", "FTP", "SFTP", "ổ đĩa mạng", "ứng dụng iPhone", "ứng dụng iPad", "ứng dụng Mac", "trình quản lý tập tin", "máy chủ media"]
+description: "Biến iPhone hoặc iPad thành ổ đĩa không dây và chia sẻ tập tin, ảnh, video, nhạc với mọi thiết bị qua DLNA, HTTP, WebDAV, SMB và FTP. Gắn như ổ đĩa mạng với mã hóa SMB tùy chọn. Không cần đám mây."
+keywords: ["Everdisk", "ổ đĩa không dây iPhone", "chia sẻ tập tin iPhone", "máy chủ WebDAV iOS", "máy chủ SMB iPhone", "mã hóa SMB iOS", "máy chủ DLNA iPhone", "máy chủ FTP iOS", "phát lên TV từ iPhone", "ổ đĩa mạng iPhone", "truyền tập tin USB iPhone", "trình quản lý tập tin iOS", "quét tài liệu thành PDF", "chia sẻ ảnh qua mạng"]
+tags: ["Everdisk", "ổ đĩa không dây", "chia sẻ tập tin", "DLNA", "WebDAV", "SMB", "FTP", "SFTP", "ổ đĩa mạng", "ứng dụng iPhone", "ứng dụng iPad", "ứng dụng Mac", "trình quản lý tập tin", "máy chủ media"]
 appStoreUrl: "https://apps.apple.com/app/apple-store/id6751851132?pt=95781850&ct=everappzcom&mt=8"
 appStoreId: "6751851132"
-features: "Ổ đĩa không dây qua Wi-Fi và USB, Bốn máy chủ cùng lúc (DLNA, HTTP, WebDAV, FTP), Phát lên smart TV qua DLNA, Mở trên mọi trình duyệt web, Gắn như ổ đĩa mạng trong Finder/Windows/Linux, Kết nối tới máy chủ DLNA/WebDAV/FTP/SFTP, Trình quản lý tập tin tích hợp có nén/giải nén, Quét tài liệu thành PDF, Đánh dấu và ký PDF cùng ảnh, Công cụ PDF (nén, nhận dạng chữ OCR, đặt mật khẩu bảo vệ, quyền hạn, siêu dữ liệu, làm phẳng), Thư viện ảnh và trình phát media, Chia sẻ toàn bộ thư viện ảnh và nhạc, Bảo vệ bằng mật khẩu và chặn thiết bị"
+features: "Ổ đĩa không dây qua Wi-Fi và USB, Năm máy chủ cùng lúc (DLNA, HTTP, WebDAV, SMB, FTP), Phát lên smart TV qua DLNA, Mở trên mọi trình duyệt web, Gắn như ổ đĩa mạng trong Finder/Windows/Linux, Ổ đĩa mạng SMB với mã hóa SMB3 (AES) tùy chọn, Kết nối tới máy chủ DLNA/WebDAV/FTP/SFTP/SMB, Trình quản lý tập tin tích hợp có nén/giải nén, Quét tài liệu thành PDF, Đánh dấu và ký PDF cùng ảnh, Công cụ PDF (nén, nhận dạng chữ OCR, đặt mật khẩu bảo vệ, quyền hạn, siêu dữ liệu, làm phẳng), Thư viện ảnh và trình phát media, Chia sẻ toàn bộ thư viện ảnh và nhạc, Bảo vệ bằng mật khẩu và chặn thiết bị"
 screenshots:
   - "https://everappz.com/products/everdisk/screenshots/browser_access.png"
   - "https://everappz.com/products/everdisk/screenshots/connect_to_servers.png"
@@ -16,7 +16,7 @@ screenshots:
 ---
 
 {{% sr-only %}}
-Everdisk là ứng dụng ổ đĩa không dây cho iPhone và iPad do Everappz phát triển. Nó biến thiết bị của bạn thành một trung tâm chia sẻ tập tin, ảnh, video và nhạc với mọi thứ trong mạng nội bộ, không cần tài khoản, không cần đám mây và không phải cài thêm ứng dụng nào ở phía bên kia. Ứng dụng chạy bốn máy chủ cùng một lúc - DLNA cho smart TV và trình phát media, HTTP cho mọi trình duyệt web, WebDAV cho Finder, Windows và Linux, và FTP cho ứng dụng quản lý tập tin cùng người dùng chuyên sâu - nên thiết bị nào cũng kết nối theo cách nó thích. Bạn có thể phát ảnh, video và nhạc thẳng lên smart TV qua DLNA kèm hình thu nhỏ xem trước, chia sẻ một liên kết đơn giản mở được trên mọi trình duyệt để duyệt và tải tập tin, hoặc gắn thiết bị như một ổ đĩa mạng rồi kéo thả tập tin theo cả hai chiều. Khi không có Wi-Fi, bạn có thể kết nối với Mac bằng cáp USB và di chuyển tập tin nhanh hơn cả Wi-Fi, kể cả trên máy bay hay trong mạng bị khóa. Everdisk còn kết nối tới các máy chủ DLNA, WebDAV, FTP và SFTP trong mạng để duyệt, phát và tải tập tin của chúng. Trình quản lý tập tin tích hợp cho phép bạn duyệt theo dạng danh sách hoặc lưới, tạo thư mục, đổi tên, di chuyển, sao chép, nén và giải nén, cùng xóa. Bạn có thể quét tài liệu giấy thành PDF sạch sẽ, mở một tập tin PDF hoặc ảnh rồi đánh dấu bằng trình chỉnh sửa tích hợp - vẽ, tô sáng, thêm chữ và chữ ký, mọi thay đổi được lưu ngược lại vào tập tin - và dùng bộ công cụ PDF đầy đủ để nén tập tin, nhận dạng chữ (OCR) thành PDF tìm kiếm được, thêm hoặc xóa mật khẩu mở, xem quyền hạn, chỉnh sửa siêu dữ liệu tài liệu, cùng làm phẳng chú thích và trường biểu mẫu. Bạn cũng có thể nghe nhạc trên trình phát mini và xem video toàn màn hình, đồng thời chia sẻ toàn bộ thư viện ảnh và nhạc qua mạng ở chất lượng gốc hoặc định dạng tương thích hơn. Mọi thứ đều nằm trong mạng nội bộ và không bao giờ chạm tới internet, và bạn có thể bảo vệ quyền truy cập bằng đăng nhập và mật khẩu, đồng thời chặn bất kỳ thiết bị nào chỉ với một chạm. Everdisk tải miễn phí trên App Store kèm tùy chọn mua Premium Lifetime một lần duy nhất.
+Everdisk là ứng dụng ổ đĩa không dây cho iPhone và iPad do Everappz phát triển. Nó biến thiết bị của bạn thành một trung tâm chia sẻ tập tin, ảnh, video và nhạc với mọi thứ trong mạng nội bộ, không cần tài khoản, không cần đám mây và không phải cài thêm ứng dụng nào ở phía bên kia. Ứng dụng chạy năm máy chủ cùng một lúc - DLNA cho smart TV và trình phát media, HTTP cho mọi trình duyệt web, WebDAV cho Finder, Windows và Linux, SMB cho một ổ đĩa mạng trên Mac, Windows và Linux (với mã hóa SMB3 tùy chọn), và FTP cho ứng dụng quản lý tập tin cùng người dùng chuyên sâu - nên thiết bị nào cũng kết nối theo cách nó thích. Bạn có thể phát ảnh, video và nhạc thẳng lên smart TV qua DLNA kèm hình thu nhỏ xem trước, chia sẻ một liên kết đơn giản mở được trên mọi trình duyệt để duyệt và tải tập tin, hoặc gắn thiết bị như một ổ đĩa mạng rồi kéo thả tập tin theo cả hai chiều. Bạn cũng có thể gắn nó qua SMB, một ổ đĩa mạng cho Mac, Windows và Linux, tự hiện lên trong thanh bên Finder trên Mac, và bật mã hóa SMB3 (AES) để không ai khác trong cùng mạng đọc được nội dung bạn truyền. Khi không có Wi-Fi, bạn có thể kết nối với Mac bằng cáp USB và di chuyển tập tin nhanh hơn cả Wi-Fi, kể cả trên máy bay hay trong mạng bị khóa. Everdisk còn kết nối tới các máy chủ DLNA, WebDAV, FTP, SFTP và SMB trong mạng - bao gồm Mac, PC chạy Windows, máy Linux và ổ đĩa NAS - để duyệt, phát và tải tập tin của chúng. Trình quản lý tập tin tích hợp cho phép bạn duyệt theo dạng danh sách hoặc lưới, tạo thư mục, đổi tên, di chuyển, sao chép, nén và giải nén, cùng xóa. Bạn có thể quét tài liệu giấy thành PDF sạch sẽ, mở một tập tin PDF hoặc ảnh rồi đánh dấu bằng trình chỉnh sửa tích hợp - vẽ, tô sáng, thêm chữ và chữ ký, mọi thay đổi được lưu ngược lại vào tập tin - và dùng bộ công cụ PDF đầy đủ để nén tập tin, nhận dạng chữ (OCR) thành PDF tìm kiếm được, thêm hoặc xóa mật khẩu mở, xem quyền hạn, chỉnh sửa siêu dữ liệu tài liệu, cùng làm phẳng chú thích và trường biểu mẫu. Bạn cũng có thể nghe nhạc trên trình phát mini và xem video toàn màn hình, đồng thời chia sẻ toàn bộ thư viện ảnh và nhạc qua mạng ở chất lượng gốc hoặc định dạng tương thích hơn. Mọi thứ đều nằm trong mạng nội bộ và không bao giờ chạm tới internet, và bạn có thể bảo vệ quyền truy cập bằng đăng nhập và mật khẩu, đồng thời chặn bất kỳ thiết bị nào chỉ với một chạm. Everdisk tải miễn phí trên App Store kèm tùy chọn mua Premium Lifetime một lần duy nhất.
 {{% /sr-only %}}
 
 <!-- <body class="hx:bg-transparent" style="background: radial-gradient(ellipse at 50% 80%, rgba(59,130,246,0.05), hsla(0,0%,100%,0));"> -->
@@ -56,9 +56,9 @@ Biến iPhone hoặc iPad thành ổ đĩa không dây&nbsp;<br class="hx:sm:blo
 
 <div class="hx:mb-6">
 {{< hextra/hero-paragraph >}}
-• Chạm Bắt đầu và chia sẻ bốn cách cùng lúc: DLNA, HTTP, WebDAV và FTP  
+• Chạm Bắt đầu và chia sẻ năm cách cùng lúc: DLNA, HTTP, WebDAV, SMB và FTP  
 • Phát ảnh, video và nhạc thẳng lên smart TV qua DLNA  
-• Gắn thiết bị như ổ đĩa mạng trong Finder, Windows hoặc Linux  
+• Gắn thiết bị như ổ đĩa mạng trong Finder, Windows hoặc Linux - với mã hóa SMB tùy chọn  
 • Không có Wi-Fi? Di chuyển tập tin qua cáp USB, nhanh hơn không dây  
 {{< /hextra/hero-paragraph >}}
 </div>
@@ -82,7 +82,7 @@ Biến iPhone hoặc iPad thành ổ đĩa không dây&nbsp;<br class="hx:sm:blo
 
   {{< hextra/feature-card
     title="Thiết bị của bạn trở thành ổ đĩa"
-    subtitle="Chạm Bắt đầu và iPhone hoặc iPad của bạn biến thành ổ đĩa không dây. Everdisk chạy bốn máy chủ cùng lúc - DLNA, HTTP, WebDAV và FTP - để smart TV, máy tính, trình duyệt web và ứng dụng quản lý tập tin đều kết nối theo cách chúng thích. Không tài khoản, không đám mây và chẳng phải cài gì thêm ở phía bên kia."
+    subtitle="Chạm Bắt đầu và iPhone hoặc iPad của bạn biến thành ổ đĩa không dây. Everdisk chạy năm máy chủ cùng lúc - DLNA, HTTP, WebDAV, SMB và FTP - để smart TV, máy tính, trình duyệt web và ứng dụng quản lý tập tin đều kết nối theo cách chúng thích. Không tài khoản, không đám mây và chẳng phải cài gì thêm ở phía bên kia."
     icon="server"
     style="background: radial-gradient(ellipse at 50% 80%, rgba(34,197,94,0.15), hsla(0,0%,100%,0));"
   >}}
@@ -109,6 +109,13 @@ Biến iPhone hoặc iPad thành ổ đĩa không dây&nbsp;<br class="hx:sm:blo
   >}}
 
   {{< hextra/feature-card
+    title="Chia sẻ SMB có mã hóa"
+    subtitle="Kết nối qua SMB, một ổ đĩa mạng cho Mac, Windows và Linux - trên Mac nó tự hiện lên trong thanh bên Finder. Đây là kết nối duy nhất bạn có thể mã hóa: bật mã hóa SMB3 (AES) cùng tên đăng nhập và mật khẩu để không ai khác trong mạng đọc được tập tin của bạn."
+    icon="lock-closed"
+    style="background: radial-gradient(ellipse at 50% 80%, rgba(99,102,241,0.15), hsla(0,0%,100%,0));"
+  >}}
+
+  {{< hextra/feature-card
     title="Không có Wi-Fi? Dùng cáp"
     subtitle="Kết nối thiết bị với Mac bằng chính sợi cáp USB bạn dùng để sạc. Tập tin đi thẳng qua cáp, nhanh hơn Wi-Fi, và vẫn hoạt động trên máy bay, trong khách sạn hay bất kỳ mạng bị khóa nào chặn Wi-Fi."
     icon="lightning-bolt"
@@ -117,7 +124,7 @@ Biến iPhone hoặc iPad thành ổ đĩa không dây&nbsp;<br class="hx:sm:blo
 
   {{< hextra/feature-card
     title="Kết nối tới thiết bị khác"
-    subtitle="Tìm và kết nối tới máy chủ DLNA, WebDAV, FTP và SFTP trong mạng của bạn. Duyệt thư mục của chúng, phát nhạc và video, tải tập tin, cùng tạo thư mục, tải lên, đổi tên, di chuyển hay xóa khi máy chủ cho phép."
+    subtitle="Tìm và kết nối tới máy chủ DLNA, WebDAV, FTP, SFTP và SMB trong mạng của bạn - Mac, PC chạy Windows, máy Linux và ổ đĩa NAS. Duyệt thư mục của chúng, phát nhạc và video, tải tập tin, cùng tạo thư mục, tải lên, đổi tên, di chuyển hay xóa khi máy chủ cho phép."
     icon="cloud-download"
     style="background: radial-gradient(ellipse at 50% 80%, rgba(6,182,212,0.15), hsla(0,0%,100%,0));"
   >}}
@@ -153,7 +160,7 @@ Biến iPhone hoặc iPad thành ổ đĩa không dây&nbsp;<br class="hx:sm:blo
     title="Kết nối tới máy chủ" 
     method="Fill"
     options="1030x400 q82 webp Center"
-    subtitle="Khám phá và kết nối tới máy chủ DLNA, WebDAV, FTP và SFTP trong mạng để duyệt, phát và tải tập tin của chúng." 
+    subtitle="Khám phá và kết nối tới máy chủ DLNA, WebDAV, FTP, SFTP và SMB trong mạng để duyệt, phát và tải tập tin của chúng." 
   >}}
 
   {{< feature-card 
@@ -208,7 +215,7 @@ Biến iPhone hoặc iPad thành ổ đĩa không dây&nbsp;<br class="hx:sm:blo
 
 {{< cards >}}
 
-  {{< feature-card title="Bốn máy chủ cùng lúc" subtitle="Chạm Bắt đầu và chia sẻ tập tin bốn cách cùng lúc: DLNA cho TV và trình phát media, HTTP cho mọi trình duyệt web, WebDAV cho Finder, Windows và Linux, cùng FTP cho ứng dụng quản lý tập tin và người dùng chuyên sâu." icon="wifi" >}}
+  {{< feature-card title="Năm máy chủ cùng lúc" subtitle="Chạm Bắt đầu và chia sẻ tập tin năm cách cùng lúc: DLNA cho TV và trình phát media, HTTP cho mọi trình duyệt web, WebDAV cho Finder, Windows và Linux, SMB cho một ổ đĩa mạng trên Mac, Windows và Linux, cùng FTP cho ứng dụng quản lý tập tin và người dùng chuyên sâu." icon="wifi" >}}
 
   {{< feature-card title="Phát lên smart TV" subtitle="Gửi ảnh, video và nhạc thẳng lên smart TV cùng trình phát media qua DLNA. Thư viện của bạn tự hiện lên TV kèm hình thu nhỏ xem trước, sẵn sàng cho màn hình lớn." icon="desktop-computer" >}}
 
@@ -216,9 +223,11 @@ Biến iPhone hoặc iPad thành ổ đĩa không dây&nbsp;<br class="hx:sm:blo
 
   {{< feature-card title="Ổ đĩa mạng WebDAV" subtitle="Kết nối từ Finder trên Mac, từ Windows hay từ Linux qua WebDAV và thiết bị của bạn hiện ra như một ổ đĩa mạng bình thường. Kéo thả tập tin theo cả hai chiều." icon="folder" >}}
 
+  {{< feature-card title="Ổ đĩa SMB có mã hóa" subtitle="Gắn thiết bị của bạn qua SMB, một ổ đĩa mạng cho Mac, Windows và Linux - trên Mac nó tự hiện lên trong thanh bên Finder. Đây là kết nối duy nhất có thể mã hóa: bật mã hóa SMB3 (AES) cùng tên đăng nhập và mật khẩu để giữ riêng tư mọi lần truyền." icon="lock-closed" >}}
+
   {{< feature-card title="Truyền qua USB" subtitle="Cắm vào Mac bằng cáp sạc và di chuyển tập tin thẳng qua cáp, nhanh hơn Wi-Fi. Vẫn hoạt động trên máy bay, trong khách sạn hay bất kỳ mạng bị khóa nào." icon="lightning-bolt" >}}
 
-  {{< feature-card title="Kết nối tới DLNA, WebDAV, FTP & SFTP" subtitle="Tìm và kết nối tới máy chủ trong mạng, duyệt thư mục của chúng, phát nhạc và video, tải tập tin, cùng tạo, tải lên, đổi tên, di chuyển hay xóa khi được phép." icon="server" >}}
+  {{< feature-card title="Kết nối tới DLNA, WebDAV, FTP, SFTP & SMB" subtitle="Tìm và kết nối tới máy chủ cùng ổ đĩa NAS trong mạng, duyệt thư mục của chúng, phát nhạc và video, tải tập tin, cùng tạo, tải lên, đổi tên, di chuyển hay xóa khi được phép." icon="server" >}}
 
   {{< feature-card title="Trình quản lý tập tin tích hợp" subtitle="Một trình quản lý tập tin đầy đủ cho mọi thứ trên thiết bị. Duyệt theo danh sách hoặc lưới, tạo thư mục, đổi tên, di chuyển, sao chép và xóa, cùng kết nối thư mục từ bất cứ đâu trên thiết bị." icon="view-grid" >}}
 
@@ -283,11 +292,11 @@ Biến iPhone hoặc iPad thành ổ đĩa không dây&nbsp;<br class="hx:sm:blo
     title="Miễn phí"
     class="pricing-card pricing-free"
     subtitle=`<span class='pricing-details'>• Biến thiết bị của bạn thành ổ đĩa không dây<br />
-• Bốn máy chủ cùng lúc: DLNA, HTTP, WebDAV, FTP<br />
+• Năm máy chủ cùng lúc: DLNA, HTTP, WebDAV, SMB, FTP<br />
 • Phát lên smart TV, trình duyệt và máy tính<br />
 • Gắn như ổ đĩa mạng và truyền qua USB<br />
 • Chia sẻ toàn bộ thư viện ảnh và nhạc<br />
-• Kết nối tới máy chủ DLNA, WebDAV, FTP và SFTP<br />
+• Kết nối tới máy chủ DLNA, WebDAV, FTP, SFTP và SMB<br />
 • Trình quản lý tập tin có nén và giải nén<br />
 • Quét tài liệu thành PDF và bộ công cụ PDF đầy đủ<br />
 • Đánh dấu và ký PDF cùng ảnh<br />
@@ -307,7 +316,8 @@ Biến iPhone hoặc iPad thành ổ đĩa không dây&nbsp;<br class="hx:sm:blo
 • Thư mục chia sẻ không giới hạn (hơn 5)<br />
 • Kết nối đã lưu không giới hạn (hơn 10)<br />
 • Chuyển đổi ảnh & video sang định dạng tương thích hoặc dung lượng nhỏ hơn<br />
-• Cổng HTTP, WebDAV và FTP tùy chỉnh<br />
+• Mã hóa SMB3 (AES) để chia sẻ riêng tư, an toàn<br />
+• Cổng HTTP, WebDAV, SMB và FTP tùy chỉnh<br />
 • Tự động bắt đầu chia sẻ khi mở ứng dụng<br />
 • Tùy chỉnh thiết bị: tên, ảnh đại diện, dải màu hoặc ảnh<br />
 • Mua một lần - tính phí một lần, không bao giờ gia hạn</span><br /><br />
@@ -344,24 +354,25 @@ Everdisk biến iPhone hoặc iPad của bạn thành một ổ đĩa không dâ
 Bạn có thể chia sẻ tập tin, ảnh, video và nhạc với mọi thứ trong mạng, duyệt và phát từ các máy chủ khác, cùng quản lý mọi thứ ngay trên thiết bị.<br>
 Không tài khoản, không đám mây và không phải cài thêm ứng dụng nào ở phía bên kia - bạn chỉ cần chạm Bắt đầu là đã sẵn sàng.<br><br>
 
-Ứng dụng chạy bốn máy chủ cùng một lúc, để thiết bị nào cũng kết nối theo cách nó thích: smart TV qua DLNA, máy tính và trình duyệt web qua HTTP, Finder, Windows và Linux qua WebDAV, cùng ứng dụng quản lý tập tin qua FTP.
+Ứng dụng chạy năm máy chủ cùng một lúc, để thiết bị nào cũng kết nối theo cách nó thích: smart TV qua DLNA, máy tính và trình duyệt web qua HTTP, Finder, Windows và Linux qua WebDAV, một ổ đĩa mạng qua SMB (với mã hóa tùy chọn), cùng ứng dụng quản lý tập tin qua FTP.
 {{% /details %}}
 
 {{% details title="Everdisk hoạt động như thế nào?" closed="true" %}}
-Khi bạn chạm Bắt đầu, Everdisk khởi động việc chia sẻ nội dung bạn đã chọn và chạy bốn máy chủ cùng lúc để các thiết bị khác nhau kết nối theo cách chúng thích.<br><br>
+Khi bạn chạm Bắt đầu, Everdisk khởi động việc chia sẻ nội dung bạn đã chọn và chạy năm máy chủ cùng lúc để các thiết bị khác nhau kết nối theo cách chúng thích.<br><br>
 
 - <strong>DLNA</strong> cho phép smart TV và trình phát media tự tìm thấy ảnh, video và nhạc của bạn rồi hiển thị kèm hình thu nhỏ xem trước.<br>
 - <strong>HTTP</strong> mang lại cho bất kỳ ai một liên kết đơn giản có thể mở trong trình duyệt web để duyệt, xem trước và tải tập tin của bạn, không cần cài gì cả.<br>
 - <strong>WebDAV</strong> khiến thiết bị của bạn hiện ra như một ổ đĩa mạng bình thường trong Finder, Windows hay Linux để bạn kéo tập tin theo cả hai chiều.<br>
+- <strong>SMB</strong> biến thiết bị của bạn thành một ổ đĩa mạng trên Mac, Windows và Linux - trên Mac nó tự hiện lên trong thanh bên Finder - và đây là kết nối duy nhất bạn có thể mã hóa bằng mã hóa SMB3 (AES).<br>
 - <strong>FTP</strong> hoạt động với ứng dụng quản lý tập tin và người dùng chuyên sâu.<br><br>
 
-Everdisk còn kết nối theo chiều ngược lại, tới các máy chủ DLNA, WebDAV, FTP và SFTP trong mạng của bạn, để bạn duyệt thư mục của chúng, phát nhạc và video, cùng tải hoặc quản lý tập tin khi máy chủ cho phép. Mọi thứ nằm trong mạng nội bộ và không bao giờ chạm tới internet.
+Everdisk còn kết nối theo chiều ngược lại, tới các máy chủ DLNA, WebDAV, FTP, SFTP và SMB trong mạng của bạn - bao gồm Mac, PC chạy Windows, máy Linux và ổ đĩa NAS - để bạn duyệt thư mục của chúng, phát nhạc và video, cùng tải hoặc quản lý tập tin khi máy chủ cho phép. Mọi thứ nằm trong mạng nội bộ và không bao giờ chạm tới internet.
 {{% /details %}}
 
 {{% details title="Everdisk có miễn phí không?" closed="true" %}}
-Có. Everdisk tải miễn phí và bạn có thể biến thiết bị thành ổ đĩa không dây, chia sẻ tập tin bốn cách, kết nối tới các máy chủ khác và dùng trình quản lý tập tin tích hợp mà không tốn chi phí nào.<br><br>
+Có. Everdisk tải miễn phí và bạn có thể biến thiết bị thành ổ đĩa không dây, chia sẻ tập tin năm cách, kết nối tới các máy chủ khác và dùng trình quản lý tập tin tích hợp mà không tốn chi phí nào.<br><br>
 
-Có một tùy chọn mua <strong>Premium Lifetime</strong> một lần duy nhất - một khoản thanh toán duy nhất, không đăng ký định kỳ - mở khóa thư mục chia sẻ và kết nối đã lưu không giới hạn, chuyển đổi ảnh &amp; video, cổng tùy chỉnh, tự động bắt đầu chia sẻ, cùng tùy chỉnh thiết bị. Nó gắn với Apple ID của bạn, nên bạn có thể dùng Khôi phục Giao dịch để mở khóa trên các thiết bị khác. Giá có thể thay đổi tùy theo quốc gia hoặc khu vực của bạn.
+Có một tùy chọn mua <strong>Premium Lifetime</strong> một lần duy nhất - một khoản thanh toán duy nhất, không đăng ký định kỳ - mở khóa thư mục chia sẻ và kết nối đã lưu không giới hạn, chuyển đổi ảnh &amp; video, mã hóa SMB3 (AES), cổng tùy chỉnh, tự động bắt đầu chia sẻ, cùng tùy chỉnh thiết bị. Nó gắn với Apple ID của bạn, nên bạn có thể dùng Khôi phục Giao dịch để mở khóa trên các thiết bị khác. Giá có thể thay đổi tùy theo quốc gia hoặc khu vực của bạn.
 {{% /details %}}
 
 {{% details title="Làm sao để kết nối từ máy tính của tôi?" closed="true" %}}
@@ -372,6 +383,12 @@ Everdisk khiến thiết bị của bạn hiện ra như một ổ đĩa mạng 
 - Trên <strong>Linux</strong>, kết nối tới địa chỉ WebDAV từ trình quản lý tập tin của bạn.<br><br>
 
 Sau khi kết nối, bạn có thể kéo thả theo cả hai chiều: sao chép tập tin từ máy tính sang thiết bị, hoặc lấy chúng về lại. Bạn cũng có thể mở liên kết HTTP trong bất kỳ trình duyệt web nào nếu không muốn gắn ổ đĩa.
+{{% /details %}}
+
+{{% details title="Tôi có thể dùng SMB và mã hóa kết nối không?" closed="true" %}}
+Có. Bên cạnh WebDAV, Everdisk chia sẻ qua <strong>SMB</strong> - một ổ đĩa mạng cho Mac, Windows và Linux (hiển thị trong ứng dụng là kết nối <strong>Máy tính (Nâng cao)</strong>). Trên Mac nó tự hiện lên trong thanh bên Finder dưới mục Vị trí; trên Windows, mở nó trong File Explorer bằng địa chỉ <code>smb://</code> hiển thị trong ứng dụng.<br><br>
+
+SMB cũng là kết nối duy nhất bạn có thể <strong>mã hóa</strong>. Đặt tên đăng nhập và mật khẩu, rồi bật <strong>Yêu cầu mã hóa SMB</strong> trong Cài đặt để bảo vệ mọi lần truyền bằng <strong>mã hóa SMB3 (AES)</strong>, để không ai khác trong cùng mạng đọc được tập tin của bạn. Kết nối có mã hóa không thể ẩn danh, nên cần tên đăng nhập và mật khẩu, và bạn cần một máy khách hỗ trợ SMB3 - Finder trên một chiếc Mac hiện đại, hoặc Windows 10 trở lên.
 {{% /details %}}
 
 {{% details title="Làm sao để phát lên TV của tôi?" closed="true" %}}
@@ -393,7 +410,7 @@ Vì không phụ thuộc vào mạng không dây, cách này vẫn hoạt độn
 {{% /details %}}
 
 {{% details title="Tôi có thể kết nối tới những gì với Everdisk?" closed="true" %}}
-Everdisk cũng là một máy khách cho các thiết bị khác trong mạng của bạn. Bạn có thể tìm và kết nối tới máy chủ <strong>DLNA</strong>, <strong>WebDAV</strong>, <strong>FTP</strong> và <strong>SFTP</strong>, bao gồm cả thiết bị NAS và máy chủ media.<br><br>
+Everdisk cũng là một máy khách cho các thiết bị khác trong mạng của bạn. Bạn có thể tìm và kết nối tới máy chủ <strong>DLNA</strong>, <strong>WebDAV</strong>, <strong>FTP</strong>, <strong>SFTP</strong> và <strong>SMB</strong>, bao gồm Mac, PC chạy Windows, máy Linux, thiết bị NAS và máy chủ media.<br><br>
 
 Sau khi kết nối, bạn có thể duyệt thư mục của chúng, phát nhạc và video, tải tập tin, cùng tạo thư mục, tải lên, đổi tên, di chuyển hay xóa khi máy chủ cho phép.
 {{% /details %}}
@@ -463,11 +480,11 @@ Mở thẻ Tài liệu và chuyển sang chế độ Ảnh để duyệt ảnh v
 </div>
 
 {{< cards >}}
-  {{< feature-card icon="play" title="Chia sẻ" subtitle="Chạm Bắt đầu, chọn thứ cần chia sẻ và chạy cả bốn máy chủ cùng lúc." link="/docs/guide/everdisk/everdisk-guide-sharing" >}}
+  {{< feature-card icon="play" title="Chia sẻ" subtitle="Chạm Bắt đầu, chọn thứ cần chia sẻ và chạy cả năm máy chủ cùng lúc." link="/docs/guide/everdisk/everdisk-guide-sharing" >}}
 
   {{< feature-card icon="desktop-computer" title="Kết nối thiết bị của bạn" subtitle="Cách một chiếc TV, Mac hay PC, trình duyệt, điện thoại khác hoặc cáp USB kết nối tới tập tin của bạn." link="/docs/guide/everdisk/everdisk-guide-connect" >}}
 
-  {{< feature-card icon="server" title="Kết nối tới máy chủ" subtitle="Chạm tới máy chủ DLNA, WebDAV, FTP và SFTP cùng ổ đĩa NAS để duyệt, phát và tải." link="/docs/guide/everdisk/everdisk-guide-devices" >}}
+  {{< feature-card icon="server" title="Kết nối tới máy chủ" subtitle="Chạm tới máy chủ DLNA, WebDAV, FTP, SFTP và SMB cùng ổ đĩa NAS để duyệt, phát và tải." link="/docs/guide/everdisk/everdisk-guide-devices" >}}
 
   {{< feature-card icon="folder" title="Tập tin & tài liệu" subtitle="Duyệt, sắp xếp, nén và giải nén, kết nối thư mục bên ngoài, cùng quét tài liệu thành PDF." link="/docs/guide/everdisk/everdisk-guide-files" >}}
 

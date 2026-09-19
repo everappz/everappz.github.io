@@ -1,7 +1,7 @@
 ---
 title: "Nastavení"
 date: 2026-08-20
-description: "Kompletní průvodce nastavením Everdisku: profil zařízení (název a avatar), čtyři serverová připojení, ovládání přístupu, kvalita fotek a videa, vlastní porty, miniatury DLNA, síťové a přenosové možnosti, možnosti správce souborů a Premium."
+description: "Kompletní průvodce nastavením Everdisku: profil zařízení (název a avatar), pět serverových připojení, ovládání přístupu, šifrování SMB (SMB3/AES), kvalita fotek a videa, vlastní porty, miniatury DLNA, síťové a přenosové možnosti, možnosti správce souborů a Premium."
 keywords: ["nastavení Everdisk", "název zařízení avatar", "serverová připojení", "kvalita fotek videa", "vlastní porty HTTP WebDAV FTP", "miniatury DLNA", "paralelní přenosy", "trvalé mazání souborů", "mezipaměť miniatur", "Everdisk Premium"]
 tags: ["everdisk", "guide", "settings"]
 readingTime: 12
@@ -38,11 +38,12 @@ Podrobnosti viz [Přístup a soukromí](/docs/guide/everdisk/everdisk-guide-acce
 
 ### Připojení
 
-Zapněte nebo vypněte každý server. Všechny čtyři jsou ve výchozím nastavení zapnuté a každý má tlačítko info (ⓘ) s pokyny k připojení:
+Zapněte nebo vypněte každý server. Všech pět je ve výchozím nastavení zapnuté a každý má tlačítko info (ⓘ) s pokyny k připojení:
 
 - **TV a mediální centrum** (DLNA)
 - **Prohlížeč** (HTTP)
 - **Počítač** (WebDAV)
+- **Počítač (pokročilé)** (SMB) - síťový disk pro Mac, Windows a Linux; na Macu se objeví sám v postranním panelu Finderu. Jediné připojení, které lze šifrovat.
 - **Ostatní aplikace a zařízení** (FTP)
 
 ### Fotky
@@ -61,7 +62,11 @@ Stejný princip jako u Fotek: Původní je nejrychlejší a převod je Premium. 
 
 ### Pokročilé
 
-- **Port HTTP** (výchozí 80), **Port WebDAV** (výchozí 8080), **Port FTP** (výchozí 2121). DLNA volí svůj port automaticky. *(Změna portů je Premium; uživatelé zdarma vidí hodnoty.)*
+- **Port HTTP** (výchozí 80), **Port WebDAV** (výchozí 8080), **Port SMB** (výchozí 4455), **Port FTP** (výchozí 2121). DLNA volí svůj port automaticky. *(Změna portů je Premium; uživatelé zdarma vidí hodnoty.)*
+
+### Šifrování SMB
+
+- **Vyžadovat šifrování SMB** - šifrujte každý přenos SMB pomocí **šifrování SMB3 (AES)**, aby nikdo jiný v síti nemohl číst vaše soubory. Ve výchozím nastavení vypnuto. Vyžaduje **přihlašovací jméno a heslo** nastavené výše (šifrovaná připojení nemohou být anonymní) a klienta, který podporuje SMB3, například Finder na moderním Macu nebo Windows 10 a novější. Změny se projeví při příštím spuštění sdílení. *(Premium.)*
 
 ### Miniatury DLNA
 
@@ -92,7 +97,8 @@ Everdisk lze používat zdarma. Jediný nákup **Premium Lifetime** - jednorázo
 - **Neomezené složky** - sdílejte více než 5 složek.
 - **Neomezená připojení** - uložte více než 10 serverů na kartě Zařízení.
 - **Převod fotek a videa** - sdílejte v jakékoli kvalitě jiné než Původní.
-- **Vlastní porty** - nastavte si vlastní porty HTTP, WebDAV a FTP.
+- **Šifrování SMB** - chraňte přenosy SMB šifrováním SMB3 (AES).
+- **Vlastní porty** - nastavte si vlastní porty HTTP, WebDAV, SMB a FTP.
 - **Automatické spuštění sdílení** - spusťte sdílení automaticky při otevření aplikace.
 - **Přizpůsobení zařízení** - vlastní název zařízení, ikonu avataru, gradient pozadí nebo fotoavatar.
 

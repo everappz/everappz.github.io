@@ -2,12 +2,12 @@
 date: '2026-08-20T12:00:00+00:00'
 title: 'Everdisk - Proměňte iPhone a iPad v bezdrátový disk'
 layout: hextra-home
-description: "Proměňte svůj iPhone nebo iPad v bezdrátový disk a sdílejte soubory, fotky, videa a hudbu s jakýmkoli zařízením přes DLNA, HTTP, WebDAV a FTP. Žádný cloud není potřeba."
-keywords: ["Everdisk", "bezdrátový disk iPhone", "sdílení souborů iPhone", "WebDAV server iOS", "DLNA server iPhone", "FTP server iOS", "streamování do TV z iPhonu", "síťový disk iPhone", "přenos souborů přes USB iPhone", "správce souborů iOS", "skenování dokumentů do PDF", "sdílení fotek po síti"]
-tags: ["Everdisk", "bezdrátový disk", "sdílení souborů", "DLNA", "WebDAV", "FTP", "SFTP", "síťový disk", "aplikace pro iPhone", "aplikace pro iPad", "aplikace pro Mac", "správce souborů", "mediální server"]
+description: "Proměňte svůj iPhone nebo iPad v bezdrátový disk a sdílejte soubory, fotky, videa a hudbu s jakýmkoli zařízením přes DLNA, HTTP, WebDAV, SMB a FTP. Připojte jako síťový disk s volitelným šifrováním SMB. Žádný cloud není potřeba."
+keywords: ["Everdisk", "bezdrátový disk iPhone", "sdílení souborů iPhone", "WebDAV server iOS", "SMB server iPhone", "šifrování SMB iOS", "DLNA server iPhone", "FTP server iOS", "streamování do TV z iPhonu", "síťový disk iPhone", "přenos souborů přes USB iPhone", "správce souborů iOS", "skenování dokumentů do PDF", "sdílení fotek po síti"]
+tags: ["Everdisk", "bezdrátový disk", "sdílení souborů", "DLNA", "WebDAV", "SMB", "FTP", "SFTP", "síťový disk", "aplikace pro iPhone", "aplikace pro iPad", "aplikace pro Mac", "správce souborů", "mediální server"]
 appStoreUrl: "https://apps.apple.com/app/apple-store/id6751851132?pt=95781850&ct=everappzcom&mt=8"
 appStoreId: "6751851132"
-features: "Bezdrátový disk přes Wi-Fi a USB, Čtyři servery najednou (DLNA, HTTP, WebDAV, FTP), Streamování do chytrých TV přes DLNA, Otevření v jakémkoli webovém prohlížeči, Připojení jako síťový disk ve Finderu, Windows a Linuxu, Připojení k serverům DLNA/WebDAV/FTP/SFTP, Vestavěný správce souborů se zabalením a rozbalením zip, Skenování dokumentů do PDF, Označování a podpis PDF a fotek, Nástroje pro PDF (komprese, rozpoznávání textu OCR, ochrana heslem, oprávnění, metadata, sloučení vrstev), Fotogalerie a přehrávač médií, Sdílení celé knihovny fotek a hudby, Ochrana heslem a blokování zařízení"
+features: "Bezdrátový disk přes Wi-Fi a USB, Pět serverů najednou (DLNA, HTTP, WebDAV, SMB, FTP), Streamování do chytrých TV přes DLNA, Otevření v jakémkoli webovém prohlížeči, Připojení jako síťový disk ve Finderu, Windows a Linuxu, Síťový disk SMB s volitelným šifrováním SMB3 (AES), Připojení k serverům DLNA/WebDAV/FTP/SFTP/SMB, Vestavěný správce souborů se zabalením a rozbalením zip, Skenování dokumentů do PDF, Označování a podpis PDF a fotek, Nástroje pro PDF (komprese, rozpoznávání textu OCR, ochrana heslem, oprávnění, metadata, sloučení vrstev), Fotogalerie a přehrávač médií, Sdílení celé knihovny fotek a hudby, Ochrana heslem a blokování zařízení"
 screenshots:
   - "https://everappz.com/products/everdisk/screenshots/browser_access.png"
   - "https://everappz.com/products/everdisk/screenshots/connect_to_servers.png"
@@ -16,7 +16,7 @@ screenshots:
 ---
 
 {{% sr-only %}}
-Everdisk je aplikace bezdrátového disku pro iPhone a iPad od společnosti Everappz. Promění vaše zařízení v centrum, které sdílí soubory, fotky, videa a hudbu s čímkoli ve vaší místní síti, a to bez účtů, bez cloudu a bez nutnosti instalovat na druhé straně další aplikaci. Aplikace provozuje čtyři servery najednou - DLNA pro chytré TV a přehrávače médií, HTTP pro jakýkoli webový prohlížeč, WebDAV pro Finder, Windows a Linux a FTP pro souborové aplikace a pokročilé uživatele - takže se každé zařízení připojí tak, jak mu to vyhovuje. Fotky, videa a hudbu můžete streamovat přímo do chytrých TV přes DLNA s náhledovými miniaturami, sdílet jednoduchý odkaz, který se otevře v libovolném prohlížeči a umožní procházet a stahovat vaše soubory, nebo připojit své zařízení jako síťový disk a přetahovat soubory oběma směry. Když není Wi-Fi, můžete se připojit k Macu USB kabelem a přenášet soubory rychleji než přes Wi-Fi, třeba i v letadle nebo v zamčené síti. Everdisk se také připojuje k serverům DLNA, WebDAV, FTP a SFTP ve vaší síti, abyste mohli procházet, streamovat a stahovat jejich soubory. Vestavěný správce souborů umožňuje procházet v seznamu nebo mřížce, vytvářet složky, přejmenovávat, přesouvat, kopírovat, zabalit a rozbalit zip a mazat. Papírové dokumenty můžete naskenovat do úhledných PDF, otevřít PDF nebo fotku a označit je vestavěným editorem - kreslit, zvýrazňovat, přidávat text a podpis, přičemž se změny uloží zpět do souboru - a využít kompletní sadu nástrojů pro PDF ke komprimaci souborů, rozpoznání textu (OCR) do prohledávatelného PDF, přidání nebo odebrání hesla pro otevření, kontrole oprávnění, úpravě metadat dokumentu a sloučení anotací a polí formuláře. Zvuk můžete přehrávat v mini přehrávači a videa sledovat na celou obrazovku a celou svou knihovnu fotek a hudby sdílet po síti v původní kvalitě nebo v kompatibilnějším formátu. Vše zůstává ve vaší místní síti a nikdy se nedostane na internet, přístup můžete chránit přihlašovacím jménem a heslem a jakékoli zařízení zablokovat jediným klepnutím. Everdisk si stáhnete zdarma z App Store s volitelným jednorázovým nákupem Premium Lifetime.
+Everdisk je aplikace bezdrátového disku pro iPhone a iPad od společnosti Everappz. Promění vaše zařízení v centrum, které sdílí soubory, fotky, videa a hudbu s čímkoli ve vaší místní síti, a to bez účtů, bez cloudu a bez nutnosti instalovat na druhé straně další aplikaci. Aplikace provozuje pět serverů najednou - DLNA pro chytré TV a přehrávače médií, HTTP pro jakýkoli webový prohlížeč, WebDAV pro Finder, Windows a Linux, SMB pro síťový disk na Macu, Windows a Linuxu (s volitelným šifrováním SMB3) a FTP pro souborové aplikace a pokročilé uživatele - takže se každé zařízení připojí tak, jak mu to vyhovuje. Fotky, videa a hudbu můžete streamovat přímo do chytrých TV přes DLNA s náhledovými miniaturami, sdílet jednoduchý odkaz, který se otevře v libovolném prohlížeči a umožní procházet a stahovat vaše soubory, nebo připojit své zařízení jako síťový disk a přetahovat soubory oběma směry. Můžete jej také připojit přes SMB, síťový disk pro Mac, Windows a Linux, který se na Macu objeví sám v postranním panelu Finderu, a zapnout šifrování SMB3 (AES), aby nikdo jiný ve stejné síti nemohl číst vaše přenosy. Když není Wi-Fi, můžete se připojit k Macu USB kabelem a přenášet soubory rychleji než přes Wi-Fi, třeba i v letadle nebo v zamčené síti. Everdisk se také připojuje k serverům DLNA, WebDAV, FTP, SFTP a SMB ve vaší síti - včetně Maců, PC s Windows, počítačů s Linuxem a disků NAS - abyste mohli procházet, streamovat a stahovat jejich soubory. Vestavěný správce souborů umožňuje procházet v seznamu nebo mřížce, vytvářet složky, přejmenovávat, přesouvat, kopírovat, zabalit a rozbalit zip a mazat. Papírové dokumenty můžete naskenovat do úhledných PDF, otevřít PDF nebo fotku a označit je vestavěným editorem - kreslit, zvýrazňovat, přidávat text a podpis, přičemž se změny uloží zpět do souboru - a využít kompletní sadu nástrojů pro PDF ke komprimaci souborů, rozpoznání textu (OCR) do prohledávatelného PDF, přidání nebo odebrání hesla pro otevření, kontrole oprávnění, úpravě metadat dokumentu a sloučení anotací a polí formuláře. Zvuk můžete přehrávat v mini přehrávači a videa sledovat na celou obrazovku a celou svou knihovnu fotek a hudby sdílet po síti v původní kvalitě nebo v kompatibilnějším formátu. Vše zůstává ve vaší místní síti a nikdy se nedostane na internet, přístup můžete chránit přihlašovacím jménem a heslem a jakékoli zařízení zablokovat jediným klepnutím. Everdisk si stáhnete zdarma z App Store s volitelným jednorázovým nákupem Premium Lifetime.
 {{% /sr-only %}}
 
 <!-- <body class="hx:bg-transparent" style="background: radial-gradient(ellipse at 50% 80%, rgba(59,130,246,0.05), hsla(0,0%,100%,0));"> -->
@@ -56,9 +56,9 @@ Proměňte svůj iPhone nebo iPad v bezdrátový disk&nbsp;<br class="hx:sm:bloc
 
 <div class="hx:mb-6">
 {{< hextra/hero-paragraph >}}
-• Klepněte na Spustit a sdílejte čtyřmi způsoby najednou: DLNA, HTTP, WebDAV a FTP  
+• Klepněte na Spustit a sdílejte pěti způsoby najednou: DLNA, HTTP, WebDAV, SMB a FTP  
 • Streamujte fotky, videa a hudbu přímo do chytrých TV přes DLNA  
-• Připojte své zařízení jako síťový disk ve Finderu, Windows nebo Linuxu  
+• Připojte své zařízení jako síťový disk ve Finderu, Windows nebo Linuxu - s volitelným šifrováním SMB  
 • Bez Wi-Fi? Přenášejte soubory přes USB kabel, rychleji než bezdrátově  
 {{< /hextra/hero-paragraph >}}
 </div>
@@ -82,7 +82,7 @@ Proměňte svůj iPhone nebo iPad v bezdrátový disk&nbsp;<br class="hx:sm:bloc
 
   {{< hextra/feature-card
     title="Z vašeho zařízení je disk"
-    subtitle="Klepněte na Spustit a váš iPhone nebo iPad se promění v bezdrátový disk. Everdisk provozuje čtyři servery najednou - DLNA, HTTP, WebDAV a FTP - takže se chytré TV, počítače, webové prohlížeče i souborové aplikace připojí tak, jak jim to vyhovuje. Žádné účty, žádný cloud a na druhé straně není potřeba nic instalovat."
+    subtitle="Klepněte na Spustit a váš iPhone nebo iPad se promění v bezdrátový disk. Everdisk provozuje pět serverů najednou - DLNA, HTTP, WebDAV, SMB a FTP - takže se chytré TV, počítače, webové prohlížeče i souborové aplikace připojí tak, jak jim to vyhovuje. Žádné účty, žádný cloud a na druhé straně není potřeba nic instalovat."
     icon="server"
     style="background: radial-gradient(ellipse at 50% 80%, rgba(34,197,94,0.15), hsla(0,0%,100%,0));"
   >}}
@@ -109,6 +109,13 @@ Proměňte svůj iPhone nebo iPad v bezdrátový disk&nbsp;<br class="hx:sm:bloc
   >}}
 
   {{< hextra/feature-card
+    title="Šifrované sdílení přes SMB"
+    subtitle="Připojte se přes SMB, síťový disk pro Mac, Windows a Linux - na Macu se objeví sám v postranním panelu Finderu. Je to jediné připojení, které můžete šifrovat: zapněte šifrování SMB3 (AES) s přihlašovacím jménem a heslem, aby nikdo jiný v síti nemohl číst vaše soubory."
+    icon="lock-closed"
+    style="background: radial-gradient(ellipse at 50% 80%, rgba(99,102,241,0.15), hsla(0,0%,100%,0));"
+  >}}
+
+  {{< hextra/feature-card
     title="Bez Wi-Fi? Použijte kabel"
     subtitle="Připojte své zařízení k Macu stejným USB kabelem, kterým ho nabíjíte. Soubory jdou přímo přes kabel, rychleji než přes Wi-Fi, a funguje to i v letadle, v hotelu nebo v jakékoli zamčené síti, kde je Wi-Fi blokovaná."
     icon="lightning-bolt"
@@ -117,7 +124,7 @@ Proměňte svůj iPhone nebo iPad v bezdrátový disk&nbsp;<br class="hx:sm:bloc
 
   {{< hextra/feature-card
     title="Připojte se k dalším zařízením"
-    subtitle="Najděte a připojte se k serverům DLNA, WebDAV, FTP a SFTP ve vaší síti. Procházejte jejich složky, streamujte zvuk i video, stahujte soubory a vytvářejte složky, nahrávejte, přejmenovávejte, přesouvejte nebo mažte, pokud to server umožňuje."
+    subtitle="Najděte a připojte se k serverům DLNA, WebDAV, FTP, SFTP a SMB ve vaší síti - Macům, PC s Windows, počítačům s Linuxem a diskům NAS. Procházejte jejich složky, streamujte zvuk i video, stahujte soubory a vytvářejte složky, nahrávejte, přejmenovávejte, přesouvejte nebo mažte, pokud to server umožňuje."
     icon="cloud-download"
     style="background: radial-gradient(ellipse at 50% 80%, rgba(6,182,212,0.15), hsla(0,0%,100%,0));"
   >}}
@@ -153,7 +160,7 @@ Proměňte svůj iPhone nebo iPad v bezdrátový disk&nbsp;<br class="hx:sm:bloc
     title="Připojení k serverům" 
     method="Fill"
     options="1030x400 q82 webp Center"
-    subtitle="Objevujte a připojujte se k serverům DLNA, WebDAV, FTP a SFTP ve vaší síti a procházejte, streamujte a stahujte jejich soubory." 
+    subtitle="Objevujte a připojujte se k serverům DLNA, WebDAV, FTP, SFTP a SMB ve vaší síti a procházejte, streamujte a stahujte jejich soubory." 
   >}}
 
   {{< feature-card 
@@ -208,7 +215,7 @@ Proměňte svůj iPhone nebo iPad v bezdrátový disk&nbsp;<br class="hx:sm:bloc
 
 {{< cards >}}
 
-  {{< feature-card title="Čtyři servery najednou" subtitle="Klepněte na Spustit a sdílejte své soubory čtyřmi způsoby zároveň: DLNA pro TV a přehrávače médií, HTTP pro jakýkoli webový prohlížeč, WebDAV pro Finder, Windows a Linux a FTP pro souborové aplikace a pokročilé uživatele." icon="wifi" >}}
+  {{< feature-card title="Pět serverů najednou" subtitle="Klepněte na Spustit a sdílejte své soubory pěti způsoby zároveň: DLNA pro TV a přehrávače médií, HTTP pro jakýkoli webový prohlížeč, WebDAV pro Finder, Windows a Linux, SMB pro síťový disk na Macu, Windows a Linuxu a FTP pro souborové aplikace a pokročilé uživatele." icon="wifi" >}}
 
   {{< feature-card title="Streamování do chytrých TV" subtitle="Posílejte fotky, videa a hudbu přímo do chytrých TV a přehrávačů médií přes DLNA. Vaše knihovna se na TV objeví sama, s náhledovými miniaturami, připravená pro velkou obrazovku." icon="desktop-computer" >}}
 
@@ -216,9 +223,11 @@ Proměňte svůj iPhone nebo iPad v bezdrátový disk&nbsp;<br class="hx:sm:bloc
 
   {{< feature-card title="Síťový disk přes WebDAV" subtitle="Připojte se z Finderu na Macu, z Windows nebo z Linuxu přes WebDAV a vaše zařízení se zobrazí jako běžný síťový disk. Přetahujte soubory oběma směry." icon="folder" >}}
 
+  {{< feature-card title="Šifrovaný disk přes SMB" subtitle="Připojte své zařízení přes SMB, síťový disk pro Mac, Windows a Linux - na Macu se objeví sám v postranním panelu Finderu. Je to jediné připojení, které lze šifrovat: zapněte šifrování SMB3 (AES) s přihlašovacím jménem a heslem a každý přenos zůstane soukromý." icon="lock-closed" >}}
+
   {{< feature-card title="Přenos přes USB" subtitle="Zapojte do Macu svůj nabíjecí kabel a přenášejte soubory přímo přes kabel, rychleji než přes Wi-Fi. Funguje to i v letadle, v hotelu nebo v jakékoli zamčené síti." icon="lightning-bolt" >}}
 
-  {{< feature-card title="Připojení k DLNA, WebDAV, FTP a SFTP" subtitle="Najděte a připojte se k serverům ve vaší síti, procházejte jejich složky, streamujte zvuk i video, stahujte soubory a vytvářejte, nahrávejte, přejmenovávejte, přesouvejte nebo mažte, když je to povoleno." icon="server" >}}
+  {{< feature-card title="Připojení k DLNA, WebDAV, FTP, SFTP a SMB" subtitle="Najděte a připojte se k serverům a diskům NAS ve vaší síti, procházejte jejich složky, streamujte zvuk i video, stahujte soubory a vytvářejte, nahrávejte, přejmenovávejte, přesouvejte nebo mažte, když je to povoleno." icon="server" >}}
 
   {{< feature-card title="Vestavěný správce souborů" subtitle="Kompletní správce souborů pro vše ve vašem zařízení. Procházejte v seznamu nebo mřížce, vytvářejte složky, přejmenovávejte, přesouvejte, kopírujte a mažte a připojujte složky odkudkoli ze zařízení." icon="view-grid" >}}
 
@@ -283,11 +292,11 @@ Proměňte svůj iPhone nebo iPad v bezdrátový disk&nbsp;<br class="hx:sm:bloc
     title="Zdarma"
     class="pricing-card pricing-free"
     subtitle=`<span class='pricing-details'>• Proměňte své zařízení v bezdrátový disk<br />
-• Čtyři servery najednou: DLNA, HTTP, WebDAV, FTP<br />
+• Pět serverů najednou: DLNA, HTTP, WebDAV, SMB, FTP<br />
 • Streamujte do chytrých TV, prohlížečů a počítačů<br />
 • Připojte jako síťový disk a přenášejte přes USB<br />
 • Sdílejte celou svou knihovnu fotek a hudby<br />
-• Připojte se k serverům DLNA, WebDAV, FTP a SFTP<br />
+• Připojte se k serverům DLNA, WebDAV, FTP, SFTP a SMB<br />
 • Správce souborů se zabalením a rozbalením zip<br />
 • Skenování dokumentů do PDF a kompletní nástroje pro PDF<br />
 • Označujte a podepisujte PDF a fotky<br />
@@ -307,7 +316,8 @@ Proměňte svůj iPhone nebo iPad v bezdrátový disk&nbsp;<br class="hx:sm:bloc
 • Neomezené sdílené složky (více než 5)<br />
 • Neomezená uložená připojení (více než 10)<br />
 • Převod fotek a videí do kompatibilního formátu nebo menší velikosti<br />
-• Vlastní porty HTTP, WebDAV a FTP<br />
+• Šifrování SMB3 (AES) pro soukromé a bezpečné sdílení<br />
+• Vlastní porty HTTP, WebDAV, SMB a FTP<br />
 • Automatické spuštění sdílení při otevření aplikace<br />
 • Přizpůsobení zařízení: název, ikona avatara, přechod nebo fotka<br />
 • Jednorázový nákup - zaplatíte jednou, nikdy se neobnovuje</span><br /><br />
@@ -344,24 +354,25 @@ Everdisk promění váš iPhone nebo iPad v bezdrátový disk a v centrum, kter�
 Můžete sdílet své soubory, fotky, videa a hudbu s čímkoli ve vaší síti, procházet a streamovat z jiných serverů a spravovat vše přímo ve svém zařízení.<br>
 Žádné účty, žádný cloud a na druhé straně není potřeba instalovat žádnou další aplikaci - stačí klepnout na Spustit a jste připraveni.<br><br>
 
-Aplikace provozuje čtyři servery najednou, takže se každé zařízení připojí tak, jak mu to vyhovuje: chytré TV přes DLNA, počítače a webové prohlížeče přes HTTP, Finder, Windows a Linux přes WebDAV a souborové aplikace přes FTP.
+Aplikace provozuje pět serverů najednou, takže se každé zařízení připojí tak, jak mu to vyhovuje: chytré TV přes DLNA, počítače a webové prohlížeče přes HTTP, Finder, Windows a Linux přes WebDAV, síťový disk přes SMB (s volitelným šifrováním) a souborové aplikace přes FTP.
 {{% /details %}}
 
 {{% details title="Jak Everdisk funguje?" closed="true" %}}
-Když klepnete na Spustit, Everdisk začne sdílet vybraný obsah a provozuje čtyři servery najednou, aby se různá zařízení mohla připojit tak, jak jim to vyhovuje.<br><br>
+Když klepnete na Spustit, Everdisk začne sdílet vybraný obsah a provozuje pět serverů najednou, aby se různá zařízení mohla připojit tak, jak jim to vyhovuje.<br><br>
 
 - <strong>DLNA</strong> umožňuje chytrým TV a přehrávačům médií automaticky najít vaše fotky, videa a hudbu a zobrazit je s náhledovými miniaturami.<br>
 - <strong>HTTP</strong> dá komukoli jednoduchý odkaz, který otevře ve webovém prohlížeči a může procházet, prohlížet a stahovat vaše soubory, bez jakékoli instalace.<br>
 - <strong>WebDAV</strong> zobrazí vaše zařízení jako běžný síťový disk ve Finderu, Windows nebo Linuxu, takže můžete přetahovat soubory oběma směry.<br>
+- <strong>SMB</strong> promění vaše zařízení v síťový disk na Macu, Windows a Linuxu - na Macu se objeví sám v postranním panelu Finderu - a je to jediné připojení, které můžete šifrovat pomocí šifrování SMB3 (AES).<br>
 - <strong>FTP</strong> funguje se souborovými aplikacemi a pro pokročilé uživatele.<br><br>
 
-Everdisk se připojuje i opačným směrem, k serverům DLNA, WebDAV, FTP a SFTP ve vaší síti, takže můžete procházet jejich složky, streamovat zvuk i video a stahovat nebo spravovat soubory, když to server umožňuje. Vše zůstává ve vaší místní síti a nikdy se nedostane na internet.
+Everdisk se připojuje i opačným směrem, k serverům DLNA, WebDAV, FTP, SFTP a SMB ve vaší síti - včetně Maců, PC s Windows, počítačů s Linuxem a disků NAS - takže můžete procházet jejich složky, streamovat zvuk i video a stahovat nebo spravovat soubory, když to server umožňuje. Vše zůstává ve vaší místní síti a nikdy se nedostane na internet.
 {{% /details %}}
 
 {{% details title="Je Everdisk zdarma?" closed="true" %}}
-Ano. Everdisk si stáhnete zdarma a bez jakýchkoli nákladů můžete proměnit své zařízení v bezdrátový disk, sdílet soubory čtyřmi způsoby, připojit se k jiným serverům a používat vestavěný správce souborů.<br><br>
+Ano. Everdisk si stáhnete zdarma a bez jakýchkoli nákladů můžete proměnit své zařízení v bezdrátový disk, sdílet soubory pěti způsoby, připojit se k jiným serverům a používat vestavěný správce souborů.<br><br>
 
-K dispozici je volitelný jednorázový nákup <strong>Premium Lifetime</strong> - jediná platba bez předplatného - který odemkne neomezený počet sdílených složek a uložených připojení, převod fotek a videí, vlastní porty, automatické spuštění sdílení a přizpůsobení zařízení. Je vázán na vaše Apple ID, takže pomocí funkce Obnovit nákupy jej odemknete i na svých dalších zařízeních. Ceny se mohou lišit podle vaší země nebo regionu.
+K dispozici je volitelný jednorázový nákup <strong>Premium Lifetime</strong> - jediná platba bez předplatného - který odemkne neomezený počet sdílených složek a uložených připojení, převod fotek a videí, šifrování SMB3 (AES), vlastní porty, automatické spuštění sdílení a přizpůsobení zařízení. Je vázán na vaše Apple ID, takže pomocí funkce Obnovit nákupy jej odemknete i na svých dalších zařízeních. Ceny se mohou lišit podle vaší země nebo regionu.
 {{% /details %}}
 
 {{% details title="Jak se připojím ze svého počítače?" closed="true" %}}
@@ -372,6 +383,12 @@ Everdisk zobrazí vaše zařízení jako běžný síťový disk přes WebDAV.<b
 - V <strong>Linuxu</strong> se ze svého správce souborů připojte k adrese WebDAV.<br><br>
 
 Jakmile jste připojeni, můžete přetahovat oběma směry: kopírovat soubory z počítače do zařízení nebo je zase stáhnout zpět. Pokud nechcete disk připojovat, můžete také otevřít odkaz HTTP v libovolném webovém prohlížeči.
+{{% /details %}}
+
+{{% details title="Můžu použít SMB a šifrovat připojení?" closed="true" %}}
+Ano. Vedle WebDAV Everdisk sdílí i přes <strong>SMB</strong> - síťový disk pro Mac, Windows a Linux (v aplikaci zobrazený jako připojení <strong>Počítač (pokročilé)</strong>). Na Macu se objeví sám v postranním panelu Finderu v části Umístění; ve Windows ho otevřete v Průzkumníku souborů pomocí adresy <code>smb://</code> zobrazené v aplikaci.<br><br>
+
+SMB je také jediné připojení, které můžete <strong>šifrovat</strong>. Nastavte přihlašovací jméno a heslo, pak v Nastavení zapněte <strong>Vyžadovat šifrování SMB</strong>, aby byl každý přenos chráněn <strong>šifrováním SMB3 (AES)</strong>, takže nikdo jiný ve stejné síti nemůže číst vaše soubory. Šifrovaná připojení nemohou být anonymní, takže přihlašovací jméno a heslo jsou nutné, a potřebujete klienta, který podporuje SMB3 - Finder na moderním Macu nebo Windows 10 a novější.
 {{% /details %}}
 
 {{% details title="Jak streamuji na svou TV?" closed="true" %}}
@@ -393,7 +410,7 @@ Protože není závislý na bezdrátové síti, funguje to i v letadle, v hotelu
 {{% /details %}}
 
 {{% details title="K čemu se mohu s Everdiskem připojit?" closed="true" %}}
-Everdisk je také klientem pro ostatní zařízení ve vaší síti. Můžete najít a připojit se k serverům <strong>DLNA</strong>, <strong>WebDAV</strong>, <strong>FTP</strong> a <strong>SFTP</strong>, včetně zařízení NAS a mediálních serverů.<br><br>
+Everdisk je také klientem pro ostatní zařízení ve vaší síti. Můžete najít a připojit se k serverům <strong>DLNA</strong>, <strong>WebDAV</strong>, <strong>FTP</strong>, <strong>SFTP</strong> a <strong>SMB</strong>, včetně Maců, PC s Windows, počítačů s Linuxem, zařízení NAS a mediálních serverů.<br><br>
 
 Jakmile jste připojeni, můžete procházet jejich složky, streamovat zvuk i video, stahovat soubory a vytvářet složky, nahrávat, přejmenovávat, přesouvat nebo mazat, když to server umožňuje.
 {{% /details %}}
@@ -463,11 +480,11 @@ Vaše fotky se navíc zobrazují se skutečnými náhledovými miniaturami na TV
 </div>
 
 {{< cards >}}
-  {{< feature-card icon="play" title="Sdílení" subtitle="Klepněte na Spustit, vyberte, co sdílet, a spusťte všechny čtyři servery najednou." link="/docs/guide/everdisk/everdisk-guide-sharing" >}}
+  {{< feature-card icon="play" title="Sdílení" subtitle="Klepněte na Spustit, vyberte, co sdílet, a spusťte všech pět serverů najednou." link="/docs/guide/everdisk/everdisk-guide-sharing" >}}
 
   {{< feature-card icon="desktop-computer" title="Připojte svá zařízení" subtitle="Jak se k vašim souborům připojí TV, Mac nebo PC, prohlížeč, jiný telefon nebo USB kabel." link="/docs/guide/everdisk/everdisk-guide-connect" >}}
 
-  {{< feature-card icon="server" title="Připojení k serverům" subtitle="Dosáhněte na servery DLNA, WebDAV, FTP a SFTP a disky NAS a procházejte, streamujte a stahujte." link="/docs/guide/everdisk/everdisk-guide-devices" >}}
+  {{< feature-card icon="server" title="Připojení k serverům" subtitle="Dosáhněte na servery DLNA, WebDAV, FTP, SFTP a SMB a disky NAS a procházejte, streamujte a stahujte." link="/docs/guide/everdisk/everdisk-guide-devices" >}}
 
   {{< feature-card icon="folder" title="Soubory a dokumenty" subtitle="Procházejte, uspořádejte, balte a rozbalujte zip, připojujte externí složky a skenujte dokumenty do PDF." link="/docs/guide/everdisk/everdisk-guide-files" >}}
 

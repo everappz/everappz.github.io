@@ -1,14 +1,14 @@
 ---
 title: "Conectează-te la servere"
 date: 2026-08-20
-description: "Folosește fila Dispozitive din Everdisk ca să te conectezi la alte servere din rețeaua ta. Adaugă și răsfoiește servere DLNA, WebDAV, FTP și SFTP și unități NAS, redă în flux audio și video, descarcă fișiere și creează, încarcă, redenumește, mută sau șterge pe serverele care permit acest lucru."
-keywords: ["fila Dispozitive Everdisk", "conectare la NAS", "client DLNA iPhone", "client WebDAV iPhone", "client FTP iPhone", "client SFTP iPhone", "răsfoire server de rețea", "streaming de pe NAS", "descărcare de pe server", "conectare cloud WebDAV"]
+description: "Folosește fila Dispozitive din Everdisk ca să te conectezi la alte servere din rețeaua ta. Adaugă și răsfoiește servere DLNA, WebDAV, FTP, SFTP și SMB și unități NAS, redă în flux audio și video, descarcă fișiere și creează, încarcă, redenumește, mută sau șterge pe serverele care permit acest lucru."
+keywords: ["fila Dispozitive Everdisk", "conectare la NAS", "client DLNA iPhone", "client WebDAV iPhone", "client FTP iPhone", "client SFTP iPhone", "client SMB iPhone", "conectare la partajare SMB", "răsfoire server de rețea", "streaming de pe NAS", "descărcare de pe server", "conectare cloud WebDAV"]
 tags: ["everdisk", "ghid", "dispozitive", "conexiuni"]
 readingTime: 9
 ---
 
 
-Everdisk nu este doar un disc wireless - este și un client pentru celelalte dispozitive din rețeaua ta. Fila **Dispozitive** îți permite să te conectezi la servere **DLNA**, **WebDAV**, **FTP** și **SFTP**, inclusiv la unități NAS și servere media, iar apoi să le răsfoiești, să le redai în flux și să le descarci fișierele.
+Everdisk nu este doar un disc wireless - este și un client pentru celelalte dispozitive din rețeaua ta. Fila **Dispozitive** îți permite să te conectezi la servere **DLNA**, **WebDAV**, **FTP**, **SFTP** și **SMB**, inclusiv la Mac-uri, PC-uri cu Windows, mașini Linux, unități NAS și servere media, iar apoi să le răsfoiești, să le redai în flux și să le descarci fișierele.
 
 ## Ecranul Dispozitive
 
@@ -27,6 +27,7 @@ Apasă **Conexiune nouă** și alege tipul de server la care vrei să ajungi:
 - **WebDAV** - conectează-te la servere de fișiere, unități de stocare în rețea și drive-uri cloud care acceptă WebDAV. Citește și scrie atunci când serverul permite acest lucru.
 - **FTP** - frecvent pe routere, unități de stocare în rețea și găzduire web. Portul implicit este 21 (990 pentru FTPS securizat); poți seta un port personalizat în adresă, de exemplu `ftp://host:2121`. Lasă utilizatorul și parola goale pentru acces anonim.
 - **SFTP** - conectează-te securizat prin SSH. Portul implicit este 22; folosește un port personalizat în adresă dacă este nevoie, de exemplu `sftp://host:2222`.
+- **SMB** - conectează-te la Mac-uri, PC-uri cu Windows, servere Linux și stocare în rețea (NAS) care partajează foldere prin **SMB / CIFS**. Introdu o adresă precum `smb://server-address/share-name/` (exemple: `smb://local-server-name/share-name/folder-path`, `smb://192.168.1.105/share-name/folder-path`, `smb://remote-server.com`). SMB adaugă două câmpuri opționale: un nume de **Grup de lucru** și o **Versiune protocol** pe care o poți lăsa pe **Automat** sau o poți forța la **SMB1** sau **SMB2**. Dacă fișierele sau folderele cu caractere speciale nu se deschid, încearcă să comuți versiunea pe **SMB1**.
 
 > Everdisk se conectează doar la aceste protocoale din rețeaua locală și adresate direct. Nu se autentifică la conturi cloud precum Google Drive sau Dropbox. Un drive cloud este accesibil doar dacă acel serviciu oferă o adresă **WebDAV** pe care o poți tasta.
 
@@ -53,7 +54,7 @@ Odată conectat, apasă pe server ca să îl deschizi:
 
 ## Modifică fișiere pe un server
 
-Pe serverele care permit scrierea - **WebDAV, FTP și SFTP** - poți și gestiona fișiere:
+Pe serverele care permit scrierea - **WebDAV, FTP, SFTP și SMB** - poți și gestiona fișiere:
 
 - **Folder nou**
 - **Încarcă fișiere** de pe dispozitivul tău

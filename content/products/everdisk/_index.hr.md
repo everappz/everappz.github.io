@@ -2,12 +2,12 @@
 date: '2026-08-20T12:00:00+00:00'
 title: 'Everdisk - pretvorite iPhone i iPad u bežični disk'
 layout: hextra-home
-description: "Pretvorite iPhone ili iPad u bežični disk i dijelite datoteke, fotografije, videozapise i glazbu s bilo kojim uređajem putem DLNA, HTTP, WebDAV i FTP. Bez oblaka."
-keywords: ["Everdisk", "bežični disk iPhone", "dijeljenje datoteka iPhone", "WebDAV poslužitelj iOS", "DLNA poslužitelj iPhone", "FTP poslužitelj iOS", "strujanje na TV s iPhonea", "mrežni disk iPhone", "USB prijenos datoteka iPhone", "upravitelj datoteka iOS", "skeniranje dokumenata u PDF", "dijeljenje fotografija putem mreže"]
-tags: ["Everdisk", "bežični disk", "dijeljenje datoteka", "DLNA", "WebDAV", "FTP", "SFTP", "mrežni disk", "iPhone aplikacije", "iPad aplikacije", "Mac aplikacije", "upravitelj datoteka", "medijski poslužitelj"]
+description: "Pretvorite iPhone ili iPad u bežični disk i dijelite datoteke, fotografije, videozapise i glazbu s bilo kojim uređajem putem DLNA, HTTP, WebDAV, SMB i FTP. Povežite kao mrežni disk uz neobvezno SMB šifriranje. Bez oblaka."
+keywords: ["Everdisk", "bežični disk iPhone", "dijeljenje datoteka iPhone", "WebDAV poslužitelj iOS", "SMB poslužitelj iPhone", "SMB šifriranje iOS", "DLNA poslužitelj iPhone", "FTP poslužitelj iOS", "strujanje na TV s iPhonea", "mrežni disk iPhone", "USB prijenos datoteka iPhone", "upravitelj datoteka iOS", "skeniranje dokumenata u PDF", "dijeljenje fotografija putem mreže"]
+tags: ["Everdisk", "bežični disk", "dijeljenje datoteka", "DLNA", "WebDAV", "SMB", "FTP", "SFTP", "mrežni disk", "iPhone aplikacije", "iPad aplikacije", "Mac aplikacije", "upravitelj datoteka", "medijski poslužitelj"]
 appStoreUrl: "https://apps.apple.com/app/apple-store/id6751851132?pt=95781850&ct=everappzcom&mt=8"
 appStoreId: "6751851132"
-features: "Bežični disk putem Wi-Fi i USB, Četiri poslužitelja odjednom (DLNA, HTTP, WebDAV, FTP), Strujanje na pametne TV-e putem DLNA, Otvaranje u bilo kojem web pregledniku, Povezivanje kao mrežni disk u Finderu/Windowsu/Linuxu, Povezivanje na DLNA/WebDAV/FTP/SFTP poslužitelje, Ugrađeni upravitelj datoteka sa zip/unzip, Skeniranje dokumenata u PDF, Označavanje i potpisivanje PDF-ova i fotografija, PDF alati (kompresija, OCR prepoznavanje teksta, zaštita lozinkom, dopuštenja, metapodaci, spljoštavanje), Galerija fotografija i medijski reproduktor, Dijeljenje cijele biblioteke fotografija i glazbe, Zaštita lozinkom i blokiranje uređaja"
+features: "Bežični disk putem Wi-Fi i USB, Pet poslužitelja odjednom (DLNA, HTTP, WebDAV, SMB, FTP), Strujanje na pametne TV-e putem DLNA, Otvaranje u bilo kojem web pregledniku, Povezivanje kao mrežni disk u Finderu/Windowsu/Linuxu, SMB mrežni disk uz neobvezno SMB3 šifriranje (AES), Povezivanje na DLNA/WebDAV/FTP/SFTP/SMB poslužitelje, Ugrađeni upravitelj datoteka sa zip/unzip, Skeniranje dokumenata u PDF, Označavanje i potpisivanje PDF-ova i fotografija, PDF alati (kompresija, OCR prepoznavanje teksta, zaštita lozinkom, dopuštenja, metapodaci, spljoštavanje), Galerija fotografija i medijski reproduktor, Dijeljenje cijele biblioteke fotografija i glazbe, Zaštita lozinkom i blokiranje uređaja"
 screenshots:
   - "https://everappz.com/products/everdisk/screenshots/browser_access.png"
   - "https://everappz.com/products/everdisk/screenshots/connect_to_servers.png"
@@ -16,7 +16,7 @@ screenshots:
 ---
 
 {{% sr-only %}}
-Everdisk je aplikacija za bežični disk za iPhone i iPad koju je razvio Everappz. Pretvara vaš uređaj u središte koje dijeli datoteke, fotografije, videozapise i glazbu sa svime na vašoj lokalnoj mreži, bez računa, bez oblaka i bez dodatne aplikacije koju bi trebalo instalirati na drugoj strani. Aplikacija istovremeno pokreće četiri poslužitelja - DLNA za pametne TV-e i medijske reproduktore, HTTP za bilo koji web preglednik, WebDAV za Finder, Windows i Linux te FTP za aplikacije za datoteke i napredne korisnike - pa se svaki uređaj povezuje na način koji mu odgovara. Fotografije, videozapise i glazbu možete strujati izravno na pametne TV-e putem DLNA s pregledom sličica, podijeliti jednostavnu poveznicu koja se otvara u bilo kojem pregledniku za pregledavanje i preuzimanje datoteka ili povezati svoj uređaj kao mrežni disk i prenositi datoteke u oba smjera. Kad nema Wi-Fi, možete se USB kabelom spojiti na Mac i premještati datoteke brže nego putem Wi-Fi, čak i u avionu ili na zaključanoj mreži. Everdisk se povezuje i na DLNA, WebDAV, FTP i SFTP poslužitelje na vašoj mreži kako biste pregledavali, strujali i preuzimali njihove datoteke. Ugrađeni upravitelj datoteka omogućuje pregledavanje u popisu ili mreži, stvaranje mapa, preimenovanje, premještanje, kopiranje, zip i unzip te brisanje. Papirnate dokumente možete skenirati u čiste PDF-ove, otvoriti PDF ili fotografiju i označiti ih ugrađenim uređivačem - crtati, isticati, dodavati tekst i potpis, s promjenama spremljenima natrag u datoteku - te koristiti cijeli skup PDF alata za kompresiju datoteka, prepoznavanje teksta (OCR) u pretraživi PDF, dodavanje ili uklanjanje lozinke za otvaranje, pregled dopuštenja, uređivanje metapodataka dokumenta te spljoštavanje bilješki i polja obrazaca. Zvuk možete reproducirati u mini reproduktoru i gledati videozapise preko cijelog zaslona te dijeliti cijelu biblioteku fotografija i glazbe putem mreže u izvornoj kvaliteti ili kompatibilnijem formatu. Sve ostaje na vašoj lokalnoj mreži i nikada ne dodiruje internet, a pristup možete zaštititi prijavom i lozinkom te jednim dodirom blokirati bilo koji uređaj. Everdisk je besplatan za preuzimanje na App Storeu uz neobveznu jednokratnu kupnju Premium Lifetime.
+Everdisk je aplikacija za bežični disk za iPhone i iPad koju je razvio Everappz. Pretvara vaš uređaj u središte koje dijeli datoteke, fotografije, videozapise i glazbu sa svime na vašoj lokalnoj mreži, bez računa, bez oblaka i bez dodatne aplikacije koju bi trebalo instalirati na drugoj strani. Aplikacija istovremeno pokreće pet poslužitelja - DLNA za pametne TV-e i medijske reproduktore, HTTP za bilo koji web preglednik, WebDAV za Finder, Windows i Linux, SMB za mrežni disk na Macu, Windowsu i Linuxu (uz neobvezno SMB3 šifriranje) te FTP za aplikacije za datoteke i napredne korisnike - pa se svaki uređaj povezuje na način koji mu odgovara. Fotografije, videozapise i glazbu možete strujati izravno na pametne TV-e putem DLNA s pregledom sličica, podijeliti jednostavnu poveznicu koja se otvara u bilo kojem pregledniku za pregledavanje i preuzimanje datoteka ili povezati svoj uređaj kao mrežni disk i prenositi datoteke u oba smjera. Uređaj možete povezati i putem SMB-a, mrežnog diska za Mac, Windows i Linux koji se na Macu sam pojavljuje u bočnoj traci Findera, te uključiti SMB3 šifriranje (AES) tako da nitko drugi na istoj mreži ne može čitati vaše prijenose. Kad nema Wi-Fi, možete se USB kabelom spojiti na Mac i premještati datoteke brže nego putem Wi-Fi, čak i u avionu ili na zaključanoj mreži. Everdisk se povezuje i na DLNA, WebDAV, FTP, SFTP i SMB poslužitelje na vašoj mreži - uključujući Macove, PC-e s Windowsima, Linux strojeve i NAS diskove - kako biste pregledavali, strujali i preuzimali njihove datoteke. Ugrađeni upravitelj datoteka omogućuje pregledavanje u popisu ili mreži, stvaranje mapa, preimenovanje, premještanje, kopiranje, zip i unzip te brisanje. Papirnate dokumente možete skenirati u čiste PDF-ove, otvoriti PDF ili fotografiju i označiti ih ugrađenim uređivačem - crtati, isticati, dodavati tekst i potpis, s promjenama spremljenima natrag u datoteku - te koristiti cijeli skup PDF alata za kompresiju datoteka, prepoznavanje teksta (OCR) u pretraživi PDF, dodavanje ili uklanjanje lozinke za otvaranje, pregled dopuštenja, uređivanje metapodataka dokumenta te spljoštavanje bilješki i polja obrazaca. Zvuk možete reproducirati u mini reproduktoru i gledati videozapise preko cijelog zaslona te dijeliti cijelu biblioteku fotografija i glazbe putem mreže u izvornoj kvaliteti ili kompatibilnijem formatu. Sve ostaje na vašoj lokalnoj mreži i nikada ne dodiruje internet, a pristup možete zaštititi prijavom i lozinkom te jednim dodirom blokirati bilo koji uređaj. Everdisk je besplatan za preuzimanje na App Storeu uz neobveznu jednokratnu kupnju Premium Lifetime.
 {{% /sr-only %}}
 
 <!-- <body class="hx:bg-transparent" style="background: radial-gradient(ellipse at 50% 80%, rgba(59,130,246,0.05), hsla(0,0%,100%,0));"> -->
@@ -56,9 +56,9 @@ Pretvorite iPhone ili iPad u bežični disk&nbsp;<br class="hx:sm:block hx:hidde
 
 <div class="hx:mb-6">
 {{< hextra/hero-paragraph >}}
-• Dodirnite Start i dijelite na četiri načina odjednom: DLNA, HTTP, WebDAV i FTP  
+• Dodirnite Start i dijelite na pet načina odjednom: DLNA, HTTP, WebDAV, SMB i FTP  
 • Strujajte fotografije, videozapise i glazbu izravno na pametne TV-e putem DLNA  
-• Povežite uređaj kao mrežni disk u Finderu, Windowsu ili Linuxu  
+• Povežite uređaj kao mrežni disk u Finderu, Windowsu ili Linuxu - uz neobvezno SMB šifriranje  
 • Nema Wi-Fi? Premještajte datoteke putem USB kabela, brže nego bežično  
 {{< /hextra/hero-paragraph >}}
 </div>
@@ -82,7 +82,7 @@ Pretvorite iPhone ili iPad u bežični disk&nbsp;<br class="hx:sm:block hx:hidde
 
   {{< hextra/feature-card
     title="Vaš uređaj postaje disk"
-    subtitle="Dodirnite Start i vaš iPhone ili iPad pretvara se u bežični disk. Everdisk istovremeno pokreće četiri poslužitelja - DLNA, HTTP, WebDAV i FTP - pa se pametni TV-i, računala, web preglednici i aplikacije za datoteke povezuju na način koji im odgovara. Bez računa, bez oblaka i bez ičega dodatnog za instalirati na drugoj strani."
+    subtitle="Dodirnite Start i vaš iPhone ili iPad pretvara se u bežični disk. Everdisk istovremeno pokreće pet poslužitelja - DLNA, HTTP, WebDAV, SMB i FTP - pa se pametni TV-i, računala, web preglednici i aplikacije za datoteke povezuju na način koji im odgovara. Bez računa, bez oblaka i bez ičega dodatnog za instalirati na drugoj strani."
     icon="server"
     style="background: radial-gradient(ellipse at 50% 80%, rgba(34,197,94,0.15), hsla(0,0%,100%,0));"
   >}}
@@ -109,6 +109,13 @@ Pretvorite iPhone ili iPad u bežični disk&nbsp;<br class="hx:sm:block hx:hidde
   >}}
 
   {{< hextra/feature-card
+    title="Šifrirano SMB dijeljenje"
+    subtitle="Povežite se putem SMB-a, mrežnog diska za Mac, Windows i Linux - na Macu se sam pojavljuje u bočnoj traci Findera. To je jedina veza koju možete šifrirati: uključite SMB3 šifriranje (AES) uz prijavu i lozinku tako da nitko drugi na mreži ne može čitati vaše datoteke."
+    icon="lock-closed"
+    style="background: radial-gradient(ellipse at 50% 80%, rgba(99,102,241,0.15), hsla(0,0%,100%,0));"
+  >}}
+
+  {{< hextra/feature-card
     title="Nema Wi-Fi? Iskoristite kabel"
     subtitle="Povežite uređaj s Macom istim USB kabelom kojim ga punite. Datoteke se prenose izravno kroz kabel, brže nego putem Wi-Fi, i nastavlja raditi u avionu, u hotelu ili na bilo kojoj zaključanoj mreži gdje je Wi-Fi blokiran."
     icon="lightning-bolt"
@@ -117,7 +124,7 @@ Pretvorite iPhone ili iPad u bežični disk&nbsp;<br class="hx:sm:block hx:hidde
 
   {{< hextra/feature-card
     title="Povežite se s drugim uređajima"
-    subtitle="Pronađite i povežite se s DLNA, WebDAV, FTP i SFTP poslužiteljima na vašoj mreži. Pregledavajte njihove mape, strujajte zvuk i video, preuzimajte datoteke te stvarajte mape, prenosite, preimenujte, premještajte ili brišite kad poslužitelj to dopušta."
+    subtitle="Pronađite i povežite se s DLNA, WebDAV, FTP, SFTP i SMB poslužiteljima na vašoj mreži - Macovima, PC-ima s Windowsima, Linux strojevima i NAS diskovima. Pregledavajte njihove mape, strujajte zvuk i video, preuzimajte datoteke te stvarajte mape, prenosite, preimenujte, premještajte ili brišite kad poslužitelj to dopušta."
     icon="cloud-download"
     style="background: radial-gradient(ellipse at 50% 80%, rgba(6,182,212,0.15), hsla(0,0%,100%,0));"
   >}}
@@ -153,7 +160,7 @@ Pretvorite iPhone ili iPad u bežični disk&nbsp;<br class="hx:sm:block hx:hidde
     title="Povezivanje s poslužiteljima" 
     method="Fill"
     options="1030x400 q82 webp Center"
-    subtitle="Otkrijte i povežite se s DLNA, WebDAV, FTP i SFTP poslužiteljima na vašoj mreži kako biste pregledavali, strujali i preuzimali njihove datoteke." 
+    subtitle="Otkrijte i povežite se s DLNA, WebDAV, FTP, SFTP i SMB poslužiteljima na vašoj mreži kako biste pregledavali, strujali i preuzimali njihove datoteke." 
   >}}
 
   {{< feature-card 
@@ -208,7 +215,7 @@ Pretvorite iPhone ili iPad u bežični disk&nbsp;<br class="hx:sm:block hx:hidde
 
 {{< cards >}}
 
-  {{< feature-card title="Četiri poslužitelja odjednom" subtitle="Dodirnite Start i dijelite datoteke na četiri načina istovremeno: DLNA za TV-e i medijske reproduktore, HTTP za bilo koji web preglednik, WebDAV za Finder, Windows i Linux te FTP za aplikacije za datoteke i napredne korisnike." icon="wifi" >}}
+  {{< feature-card title="Pet poslužitelja odjednom" subtitle="Dodirnite Start i dijelite datoteke na pet načina istovremeno: DLNA za TV-e i medijske reproduktore, HTTP za bilo koji web preglednik, WebDAV za Finder, Windows i Linux, SMB za mrežni disk na Macu, Windowsu i Linuxu te FTP za aplikacije za datoteke i napredne korisnike." icon="wifi" >}}
 
   {{< feature-card title="Strujanje na pametne TV-e" subtitle="Šaljite fotografije, videozapise i glazbu izravno na pametne TV-e i medijske reproduktore putem DLNA. Vaša se biblioteka sama pojavljuje na TV-u, s pregledom sličica, spremna za veliki ekran." icon="desktop-computer" >}}
 
@@ -216,9 +223,11 @@ Pretvorite iPhone ili iPad u bežični disk&nbsp;<br class="hx:sm:block hx:hidde
 
   {{< feature-card title="WebDAV mrežni disk" subtitle="Povežite se iz Findera na Macu, iz Windowsa ili iz Linuxa putem WebDAV i vaš se uređaj pojavljuje kao običan mrežni disk. Povlačite i ispuštajte datoteke u oba smjera." icon="folder" >}}
 
+  {{< feature-card title="Šifrirani SMB disk" subtitle="Povežite uređaj putem SMB-a, mrežnog diska za Mac, Windows i Linux - na Macu se sam pojavljuje u bočnoj traci Findera. To je jedina veza koju se može šifrirati: uključite SMB3 šifriranje (AES) uz prijavu i lozinku kako biste svaki prijenos zadržali privatnim." icon="lock-closed" >}}
+
   {{< feature-card title="Prijenos putem USB-a" subtitle="Spojite se na Mac kabelom za punjenje i premještajte datoteke izravno kroz kabel, brže nego putem Wi-Fi. Nastavlja raditi u avionu, u hotelu ili na bilo kojoj zaključanoj mreži." icon="lightning-bolt" >}}
 
-  {{< feature-card title="Povezivanje na DLNA, WebDAV, FTP i SFTP" subtitle="Pronađite i povežite se s poslužiteljima na vašoj mreži, pregledavajte njihove mape, strujajte zvuk i video, preuzimajte datoteke te stvarajte, prenosite, preimenujte, premještajte ili brišite kad je dopušteno." icon="server" >}}
+  {{< feature-card title="Povezivanje na DLNA, WebDAV, FTP, SFTP i SMB" subtitle="Pronađite i povežite se s poslužiteljima i NAS diskovima na vašoj mreži, pregledavajte njihove mape, strujajte zvuk i video, preuzimajte datoteke te stvarajte, prenosite, preimenujte, premještajte ili brišite kad je dopušteno." icon="server" >}}
 
   {{< feature-card title="Ugrađeni upravitelj datoteka" subtitle="Potpuni upravitelj datoteka za sve na vašem uređaju. Pregledavajte u popisu ili mreži, stvarajte mape, preimenujte, premještajte, kopirajte i brišite te povezujte mape s bilo kojeg mjesta na uređaju." icon="view-grid" >}}
 
@@ -283,11 +292,11 @@ Pretvorite iPhone ili iPad u bežični disk&nbsp;<br class="hx:sm:block hx:hidde
     title="Besplatno"
     class="pricing-card pricing-free"
     subtitle=`<span class='pricing-details'>• Pretvorite uređaj u bežični disk<br />
-• Četiri poslužitelja odjednom: DLNA, HTTP, WebDAV, FTP<br />
+• Pet poslužitelja odjednom: DLNA, HTTP, WebDAV, SMB, FTP<br />
 • Strujanje na pametne TV-e, preglednike i računala<br />
 • Povezivanje kao mrežni disk i prijenos putem USB-a<br />
 • Dijelite cijelu biblioteku fotografija i glazbe<br />
-• Povezivanje na DLNA, WebDAV, FTP i SFTP poslužitelje<br />
+• Povezivanje na DLNA, WebDAV, FTP, SFTP i SMB poslužitelje<br />
 • Upravitelj datoteka sa zip i unzip<br />
 • Skeniranje dokumenata u PDF i potpuni PDF alati<br />
 • Označavanje i potpisivanje PDF-ova i fotografija<br />
@@ -307,7 +316,8 @@ Pretvorite iPhone ili iPad u bežični disk&nbsp;<br class="hx:sm:block hx:hidde
 • Neograničen broj dijeljenih mapa (više od 5)<br />
 • Neograničen broj spremljenih veza (više od 10)<br />
 • Pretvorba fotografija i videa u kompatibilan format ili manju veličinu<br />
-• Prilagođeni HTTP, WebDAV i FTP portovi<br />
+• SMB3 šifriranje (AES) za privatno i sigurno dijeljenje<br />
+• Prilagođeni HTTP, WebDAV, SMB i FTP portovi<br />
 • Automatsko pokretanje dijeljenja kad otvorite aplikaciju<br />
 • Prilagodba uređaja: naziv, avatar ikona, gradijent ili fotografija<br />
 • Jednokratna kupnja - naplaćuje se jednom, nikada se ne obnavlja</span><br /><br />
@@ -344,24 +354,25 @@ Everdisk pretvara vaš iPhone ili iPad u bežični disk i središte koje se pove
 Možete dijeliti svoje datoteke, fotografije, videozapise i glazbu sa svime na vašoj mreži, pregledavati i strujati s drugih poslužitelja te upravljati svime izravno na uređaju.<br>
 Nema računa, nema oblaka i nema dodatne aplikacije za instalirati na drugoj strani - samo dodirnete Start i spremni ste.<br><br>
 
-Aplikacija istovremeno pokreće četiri poslužitelja, pa se svaki uređaj povezuje na način koji mu odgovara: pametni TV-i putem DLNA, računala i web preglednici putem HTTP, Finder, Windows i Linux putem WebDAV te aplikacije za datoteke putem FTP.
+Aplikacija istovremeno pokreće pet poslužitelja, pa se svaki uređaj povezuje na način koji mu odgovara: pametni TV-i putem DLNA, računala i web preglednici putem HTTP, Finder, Windows i Linux putem WebDAV, mrežni disk putem SMB (uz neobvezno šifriranje) te aplikacije za datoteke putem FTP.
 {{% /details %}}
 
 {{% details title="Kako Everdisk radi?" closed="true" %}}
-Kada dodirnete Start, Everdisk počinje dijeliti sadržaj koji ste odabrali i pokreće četiri poslužitelja odjednom kako bi se različiti uređaji mogli povezati na način koji im odgovara.<br><br>
+Kada dodirnete Start, Everdisk počinje dijeliti sadržaj koji ste odabrali i pokreće pet poslužitelja odjednom kako bi se različiti uređaji mogli povezati na način koji im odgovara.<br><br>
 
 - <strong>DLNA</strong> omogućuje pametnim TV-ima i medijskim reproduktorima da automatski pronađu vaše fotografije, videozapise i glazbu te ih prikažu s pregledom sličica.<br>
 - <strong>HTTP</strong> daje svakome jednostavnu poveznicu koju može otvoriti u web pregledniku za pregledavanje, pregled i preuzimanje vaših datoteka, bez ičega za instalirati.<br>
 - <strong>WebDAV</strong> čini da se vaš uređaj pojavljuje kao običan mrežni disk u Finderu, Windowsu ili Linuxu pa možete povlačiti datoteke u oba smjera.<br>
+- <strong>SMB</strong> čini vaš uređaj mrežnim diskom na Macu, Windowsu i Linuxu - na Macu se sam pojavljuje u bočnoj traci Findera - i jedina je veza koju možete šifrirati SMB3 šifriranjem (AES).<br>
 - <strong>FTP</strong> radi s aplikacijama za datoteke i naprednim korisnicima.<br><br>
 
-Everdisk se povezuje i u drugom smjeru, na DLNA, WebDAV, FTP i SFTP poslužitelje na vašoj mreži, pa možete pregledavati njihove mape, strujati zvuk i video te preuzimati ili upravljati datotekama kad poslužitelj to dopušta. Sve ostaje na vašoj lokalnoj mreži i nikada ne dodiruje internet.
+Everdisk se povezuje i u drugom smjeru, na DLNA, WebDAV, FTP, SFTP i SMB poslužitelje na vašoj mreži - uključujući Macove, PC-e s Windowsima, Linux strojeve i NAS diskove - pa možete pregledavati njihove mape, strujati zvuk i video te preuzimati ili upravljati datotekama kad poslužitelj to dopušta. Sve ostaje na vašoj lokalnoj mreži i nikada ne dodiruje internet.
 {{% /details %}}
 
 {{% details title="Je li Everdisk besplatan?" closed="true" %}}
-Da. Everdisk je besplatan za preuzimanje i možete pretvoriti uređaj u bežični disk, dijeliti datoteke na četiri načina, povezati se s drugim poslužiteljima i koristiti ugrađeni upravitelj datoteka bez ikakvih troškova.<br><br>
+Da. Everdisk je besplatan za preuzimanje i možete pretvoriti uređaj u bežični disk, dijeliti datoteke na pet načina, povezati se s drugim poslužiteljima i koristiti ugrađeni upravitelj datoteka bez ikakvih troškova.<br><br>
 
-Postoji neobvezna jednokratna kupnja <strong>Premium Lifetime</strong> - jedno plaćanje bez pretplate - koja otključava neograničen broj dijeljenih mapa i spremljenih veza, pretvorbu fotografija i videa, prilagođene portove, automatsko pokretanje dijeljenja i prilagodbu uređaja. Vezana je uz vaš Apple ID, pa možete koristiti Vrati kupnje da je otključate na svojim drugim uređajima. Cijene mogu varirati ovisno o vašoj zemlji ili regiji.
+Postoji neobvezna jednokratna kupnja <strong>Premium Lifetime</strong> - jedno plaćanje bez pretplate - koja otključava neograničen broj dijeljenih mapa i spremljenih veza, pretvorbu fotografija i videa, SMB3 šifriranje (AES), prilagođene portove, automatsko pokretanje dijeljenja i prilagodbu uređaja. Vezana je uz vaš Apple ID, pa možete koristiti Vrati kupnje da je otključate na svojim drugim uređajima. Cijene mogu varirati ovisno o vašoj zemlji ili regiji.
 {{% /details %}}
 
 {{% details title="Kako da se povežem sa svog računala?" closed="true" %}}
@@ -372,6 +383,12 @@ Everdisk čini da se vaš uređaj pojavljuje kao običan mrežni disk putem WebD
 - Na <strong>Linuxu</strong> povežite se s WebDAV adresom iz svog upravitelja datoteka.<br><br>
 
 Nakon povezivanja možete povlačiti i ispuštati u oba smjera: kopirati datoteke s računala na uređaj ili ih vratiti natrag. Ako radije ne biste povezivali disk, možete i otvoriti HTTP poveznicu u bilo kojem web pregledniku.
+{{% /details %}}
+
+{{% details title="Mogu li koristiti SMB i šifrirati vezu?" closed="true" %}}
+Da. Uz WebDAV, Everdisk dijeli i putem <strong>SMB-a</strong> - mrežnog diska za Mac, Windows i Linux (u aplikaciji prikazan kao veza <strong>Računalo (napredno)</strong>). Na Macu se sam pojavljuje u bočnoj traci Findera pod Lokacije; na Windowsu ga otvorite u File Exploreru pomoću <code>smb://</code> adrese prikazane u aplikaciji.<br><br>
+
+SMB je ujedno i jedina veza koju možete <strong>šifrirati</strong>. Postavite prijavu i lozinku, a zatim u Postavkama uključite <strong>Zahtijevaj SMB šifriranje</strong> kako biste svaki prijenos zaštitili <strong>SMB3 šifriranjem (AES)</strong>, tako da nitko drugi na istoj mreži ne može čitati vaše datoteke. Šifrirane veze ne mogu biti anonimne, pa su prijava i lozinka obavezni, a potreban vam je i klijent koji podržava SMB3 - Finder na modernom Macu ili Windows 10 i noviji.
 {{% /details %}}
 
 {{% details title="Kako da strujam na svoj TV?" closed="true" %}}
@@ -393,7 +410,7 @@ Budući da ne ovisi o bežičnoj mreži, ovo nastavlja raditi u avionu, u hotelu
 {{% /details %}}
 
 {{% details title="S čime se sve mogu povezati putem Everdiska?" closed="true" %}}
-Everdisk je i klijent za druge uređaje na vašoj mreži. Možete pronaći i povezati se s <strong>DLNA</strong>, <strong>WebDAV</strong>, <strong>FTP</strong> i <strong>SFTP</strong> poslužiteljima, uključujući NAS uređaje i medijske poslužitelje.<br><br>
+Everdisk je i klijent za druge uređaje na vašoj mreži. Možete pronaći i povezati se s <strong>DLNA</strong>, <strong>WebDAV</strong>, <strong>FTP</strong>, <strong>SFTP</strong> i <strong>SMB</strong> poslužiteljima, uključujući Macove, PC-e s Windowsima, Linux strojeve, NAS uređaje i medijske poslužitelje.<br><br>
 
 Nakon povezivanja možete pregledavati njihove mape, strujati zvuk i video, preuzimati datoteke te stvarati mape, prenositi, preimenovati, premještati ili brisati kad poslužitelj to dopušta.
 {{% /details %}}
@@ -463,11 +480,11 @@ Vaše fotografije prikazuju i prave sličice pregleda na TV-u putem DLNA i u web
 </div>
 
 {{< cards >}}
-  {{< feature-card icon="play" title="Dijeljenje" subtitle="Dodirnite Start, odaberite što dijeliti i pokrenite sva četiri poslužitelja odjednom." link="/docs/guide/everdisk/everdisk-guide-sharing" >}}
+  {{< feature-card icon="play" title="Dijeljenje" subtitle="Dodirnite Start, odaberite što dijeliti i pokrenite svih pet poslužitelja odjednom." link="/docs/guide/everdisk/everdisk-guide-sharing" >}}
 
   {{< feature-card icon="desktop-computer" title="Povežite svoje uređaje" subtitle="Kako se TV, Mac ili PC, preglednik, drugi telefon ili USB kabel povezuju s vašim datotekama." link="/docs/guide/everdisk/everdisk-guide-connect" >}}
 
-  {{< feature-card icon="server" title="Povezivanje s poslužiteljima" subtitle="Dođite do DLNA, WebDAV, FTP i SFTP poslužitelja i NAS diskova za pregledavanje, strujanje i preuzimanje." link="/docs/guide/everdisk/everdisk-guide-devices" >}}
+  {{< feature-card icon="server" title="Povezivanje s poslužiteljima" subtitle="Dođite do DLNA, WebDAV, FTP, SFTP i SMB poslužitelja i NAS diskova za pregledavanje, strujanje i preuzimanje." link="/docs/guide/everdisk/everdisk-guide-devices" >}}
 
   {{< feature-card icon="folder" title="Datoteke i dokumenti" subtitle="Pregledavajte, organizirajte, zip i unzip, povezujte vanjske mape i skenirajte dokumente u PDF." link="/docs/guide/everdisk/everdisk-guide-files" >}}
 

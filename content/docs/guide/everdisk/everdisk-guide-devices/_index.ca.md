@@ -1,14 +1,14 @@
 ---
 title: "Connectar a servidors"
 date: 2026-08-20
-description: "Fes servir la pestanya Dispositius d'Everdisk per connectar-te a altres servidors de la teva xarxa. Afegeix i explora servidors DLNA, WebDAV, FTP i SFTP i unitats NAS, reprodueix àudio i vídeo, descarrega arxius i crea, puja, canvia el nom, mou o elimina als servidors que ho permetin."
-keywords: ["pestanya Dispositius Everdisk", "connectar a NAS", "client DLNA iPhone", "client WebDAV iPhone", "client FTP iPhone", "client SFTP iPhone", "explorar servidor de xarxa", "reproduir des de NAS", "descarregar des de servidor", "connectar núvol WebDAV"]
+description: "Fes servir la pestanya Dispositius d'Everdisk per connectar-te a altres servidors de la teva xarxa. Afegeix i explora servidors DLNA, WebDAV, FTP, SFTP i SMB i unitats NAS, reprodueix àudio i vídeo, descarrega arxius i crea, puja, canvia el nom, mou o elimina als servidors que ho permetin."
+keywords: ["pestanya Dispositius Everdisk", "connectar a NAS", "client DLNA iPhone", "client WebDAV iPhone", "client FTP iPhone", "client SFTP iPhone", "client SMB iPhone", "connectar a recurs compartit SMB", "explorar servidor de xarxa", "reproduir des de NAS", "descarregar des de servidor", "connectar núvol WebDAV"]
 tags: ["everdisk", "guia", "dispositius", "connexions"]
 readingTime: 9
 ---
 
 
-Everdisk no és només una unitat sense fil: també és un client per als altres dispositius de la teva xarxa. La pestanya **Dispositius** et permet connectar-te a servidors **DLNA**, **WebDAV**, **FTP** i **SFTP**, inclosos unitats NAS i servidors multimèdia, i després explorar, reproduir i descarregar els seus arxius.
+Everdisk no és només una unitat sense fil: també és un client per als altres dispositius de la teva xarxa. La pestanya **Dispositius** et permet connectar-te a servidors **DLNA**, **WebDAV**, **FTP**, **SFTP** i **SMB**, inclosos Macs, PC amb Windows, màquines Linux, unitats NAS i servidors multimèdia, i després explorar, reproduir i descarregar els seus arxius.
 
 ## La pantalla de Dispositius
 
@@ -27,6 +27,7 @@ Prem **Nova connexió** i tria el tipus de servidor al qual vols arribar:
 - **WebDAV**: connecta't a servidors d'arxius, unitats d'emmagatzematge de xarxa i unitats al núvol compatibles amb WebDAV. Llegeix i escriu quan el servidor ho permet.
 - **FTP**: habitual en routers, unitats d'emmagatzematge de xarxa i allotjament web. El port per defecte és el 21 (990 per a FTPS segur); pots definir un port personalitzat a l'adreça, per exemple `ftp://host:2121`. Deixa l'inici de sessió i la contrasenya buits per a l'accés anònim.
 - **SFTP**: connecta't de manera segura per SSH. El port per defecte és el 22; fes servir un port personalitzat a l'adreça si cal, per exemple `sftp://host:2222`.
+- **SMB**: connecta't a Macs, PC amb Windows, servidors Linux i emmagatzematge en xarxa (NAS) que comparteixen carpetes mitjançant **SMB / CIFS**. Introdueix una adreça com `smb://server-address/share-name/` (exemples: `smb://local-server-name/share-name/folder-path`, `smb://192.168.1.105/share-name/folder-path`, `smb://remote-server.com`). SMB afegeix dos camps opcionals: un nom de **Grup de treball** i una **Versió del protocol** que pots deixar en **Automàtica** o forçar a **SMB1** o **SMB2**. Si els arxius o carpetes amb caràcters especials no s'obren, prova de canviar la versió a **SMB1**.
 
 > Everdisk només es connecta a aquests protocols de xarxa local i d'adreçament directe. No inicia sessió en comptes al núvol com Google Drive o Dropbox. Una unitat al núvol només és accessible si aquell servei ofereix una adreça **WebDAV** que puguis escriure.
 
@@ -53,7 +54,7 @@ Un cop connectat, prem el servidor per obrir-lo:
 
 ## Canviar arxius en un servidor
 
-Als servidors que permeten l'escriptura (**WebDAV, FTP i SFTP**) també pots gestionar arxius:
+Als servidors que permeten l'escriptura (**WebDAV, FTP, SFTP i SMB**) també pots gestionar arxius:
 
 - **Nova carpeta**
 - **Pujar arxius** des del teu dispositiu

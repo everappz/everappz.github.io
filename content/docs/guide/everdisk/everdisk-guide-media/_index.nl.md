@@ -12,7 +12,7 @@ Everdisk speelt je media af op het apparaat en deelt je volledige foto- en muzie
 
 ## Deel je volledige foto- en muziekbibliotheek
 
-Op het [Delen](/docs/guide/everdisk/everdisk-guide-sharing)-scherm kun je onder **Wat je deelt** de opties **Toegang tot volledige fotobibliotheek toestaan** en **Toegang tot volledige muziekbibliotheek toestaan** aanzetten. Zodra delen start, wordt elk album en elk nummer beschikbaar via alle vier de servers - op een tv, in een browser, op een netwerkschijf of in een bestands-app. Je kunt met **Foto's toevoegen** en **Nummers toevoegen** ook alleen bepaalde foto's, video's of nummers handmatig kiezen.
+Op het [Delen](/docs/guide/everdisk/everdisk-guide-sharing)-scherm kun je onder **Wat je deelt** de opties **Toegang tot volledige fotobibliotheek toestaan** en **Toegang tot volledige muziekbibliotheek toestaan** aanzetten. Zodra delen start, wordt elk album en elk nummer beschikbaar via alle vijf de servers - op een tv, in een browser, op een netwerkschijf (WebDAV of SMB) of in een bestands-app. Je kunt met **Foto's toevoegen** en **Nummers toevoegen** ook alleen bepaalde foto's, video's of nummers handmatig kiezen.
 
 Beveiligde (DRM) nummers en nummers die alleen in de cloud staan, kunnen niet worden gedeeld.
 
@@ -54,7 +54,7 @@ Wanneer je foto's en video's deelt, kan Everdisk ze precies zo versturen als ze 
 Houd in gedachten:
 
 - **Origineel is het snelst** - het bestand wordt zonder omzetting verstuurd zoals het is.
-- Elke andere instelling **zet direct om**, wat trager is en meer batterij gebruikt, vooral via WebDAV en FTP.
+- Elke andere instelling **zet direct om**, wat trager is en meer batterij gebruikt, vooral via WebDAV, SMB en FTP.
 - Probeer eerst Origineel; schakel alleen over naar Meest compatibel als een specifieke tv of browser een bestand niet kan openen.
 - **Muziek** wordt altijd in de oorspronkelijke vorm gedeeld - er zijn geen kwaliteitsinstellingen voor muziek.
 

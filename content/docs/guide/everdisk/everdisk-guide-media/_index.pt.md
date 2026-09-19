@@ -12,7 +12,7 @@ O Everdisk reproduz a sua multimédia no dispositivo e partilha toda a sua bibli
 
 ## Partilhar toda a sua biblioteca de fotografias e música
 
-No ecrã de [Partilha](/docs/guide/everdisk/everdisk-guide-sharing), em **O que partilhar**, pode ativar **Permitir acesso a toda a Biblioteca de Fotografias** e **Permitir acesso a toda a Biblioteca de Música**. Assim que a partilha começa, todos os álbuns e faixas ficam disponíveis nos quatro servidores - numa TV, num navegador, numa unidade de rede ou numa aplicação de ficheiros. Também pode escolher a dedo apenas certas fotografias, vídeos ou faixas com **Adicionar Fotografias** e **Adicionar Faixas**.
+No ecrã de [Partilha](/docs/guide/everdisk/everdisk-guide-sharing), em **O que partilhar**, pode ativar **Permitir acesso a toda a Biblioteca de Fotografias** e **Permitir acesso a toda a Biblioteca de Música**. Assim que a partilha começa, todos os álbuns e faixas ficam disponíveis nos cinco servidores - numa TV, num navegador, numa unidade de rede (WebDAV ou SMB) ou numa aplicação de ficheiros. Também pode escolher a dedo apenas certas fotografias, vídeos ou faixas com **Adicionar Fotografias** e **Adicionar Faixas**.
 
 As músicas protegidas (DRM) e as faixas guardadas apenas na nuvem não podem ser partilhadas.
 
@@ -54,7 +54,7 @@ Ao partilhar fotografias e vídeos, o Everdisk pode enviá-los exatamente como e
 Tenha em conta:
 
 - **O Original é o mais rápido** - o ficheiro é enviado tal como está, sem conversão.
-- Qualquer outra definição **converte em tempo real**, o que é mais lento e usa mais bateria, sobretudo por WebDAV e FTP.
+- Qualquer outra definição **converte em tempo real**, o que é mais lento e usa mais bateria, sobretudo por WebDAV, SMB e FTP.
 - Experimente primeiro o Original; só mude para Mais Compatível se uma TV ou navegador específico não conseguir abrir um ficheiro.
 - A **Música** é sempre partilhada na sua forma original - não há definições de qualidade para a música.
 

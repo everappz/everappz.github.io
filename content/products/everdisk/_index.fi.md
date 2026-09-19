@@ -2,12 +2,12 @@
 date: '2026-08-20T12:00:00+00:00'
 title: 'Everdisk - Muuta iPhone ja iPad langattomaksi levyksi'
 layout: hextra-home
-description: "Muuta iPhone tai iPad langattomaksi levyksi ja jaa tiedostot, kuvat, videot ja musiikki mille tahansa laitteelle DLNA-, HTTP-, WebDAV- ja FTP-yhteydellä. Pilvipalvelua ei tarvita."
-keywords: ["Everdisk", "langaton levy iPhone", "jaa tiedostoja iPhone", "WebDAV-palvelin iOS", "DLNA-palvelin iPhone", "FTP-palvelin iOS", "suoratoisto televisioon iPhonesta", "verkkolevy iPhone", "USB-tiedostonsiirto iPhone", "tiedostonhallinta iOS", "skannaa asiakirjat PDF-muotoon", "jaa kuvia verkossa"]
-tags: ["Everdisk", "langaton levy", "tiedostojen jakaminen", "DLNA", "WebDAV", "FTP", "SFTP", "verkkolevy", "iPhone-sovellukset", "iPad-sovellukset", "Mac-sovellukset", "tiedostonhallinta", "mediapalvelin"]
+description: "Muuta iPhone tai iPad langattomaksi levyksi ja jaa tiedostot, kuvat, videot ja musiikki mille tahansa laitteelle DLNA-, HTTP-, WebDAV-, SMB- ja FTP-yhteydellä. Liitä verkkolevyksi valinnaisella SMB-salauksella. Pilvipalvelua ei tarvita."
+keywords: ["Everdisk", "langaton levy iPhone", "jaa tiedostoja iPhone", "WebDAV-palvelin iOS", "SMB-palvelin iPhone", "SMB-salaus iOS", "DLNA-palvelin iPhone", "FTP-palvelin iOS", "suoratoisto televisioon iPhonesta", "verkkolevy iPhone", "USB-tiedostonsiirto iPhone", "tiedostonhallinta iOS", "skannaa asiakirjat PDF-muotoon", "jaa kuvia verkossa"]
+tags: ["Everdisk", "langaton levy", "tiedostojen jakaminen", "DLNA", "WebDAV", "SMB", "FTP", "SFTP", "verkkolevy", "iPhone-sovellukset", "iPad-sovellukset", "Mac-sovellukset", "tiedostonhallinta", "mediapalvelin"]
 appStoreUrl: "https://apps.apple.com/app/apple-store/id6751851132?pt=95781850&ct=everappzcom&mt=8"
 appStoreId: "6751851132"
-features: "Langaton levy Wi-Fin ja USB:n kautta, Neljä palvelinta samaan aikaan (DLNA, HTTP, WebDAV, FTP), Suoratoisto älytelevisioihin DLNAn kautta, Avaa missä tahansa selaimessa, Liitä verkkolevyksi Finderissa, Windowsissa tai Linuxissa, Yhdistä DLNA-, WebDAV-, FTP- ja SFTP-palvelimiin, Sisäänrakennettu tiedostonhallinta pakkaus- ja purkutoiminnoilla, Skannaa asiakirjat PDF-muotoon, Merkitse ja allekirjoita PDF-tiedostoja ja kuvia, PDF-työkalut (pakkaus, OCR-tekstintunnistus, salasanasuojaus, käyttöoikeudet, metatiedot, litistys), Kuvagalleria ja mediasoitin, Jaa koko kuva- ja musiikkikirjasto, Salasanasuojaus ja laitteiden esto"
+features: "Langaton levy Wi-Fin ja USB:n kautta, Viisi palvelinta samaan aikaan (DLNA, HTTP, WebDAV, SMB, FTP), Suoratoisto älytelevisioihin DLNAn kautta, Avaa missä tahansa selaimessa, Liitä verkkolevyksi Finderissa, Windowsissa tai Linuxissa, SMB-verkkolevy valinnaisella SMB3-salauksella (AES), Yhdistä DLNA-, WebDAV-, FTP-, SFTP- ja SMB-palvelimiin, Sisäänrakennettu tiedostonhallinta pakkaus- ja purkutoiminnoilla, Skannaa asiakirjat PDF-muotoon, Merkitse ja allekirjoita PDF-tiedostoja ja kuvia, PDF-työkalut (pakkaus, OCR-tekstintunnistus, salasanasuojaus, käyttöoikeudet, metatiedot, litistys), Kuvagalleria ja mediasoitin, Jaa koko kuva- ja musiikkikirjasto, Salasanasuojaus ja laitteiden esto"
 screenshots:
   - "https://everappz.com/products/everdisk/screenshots/browser_access.png"
   - "https://everappz.com/products/everdisk/screenshots/connect_to_servers.png"
@@ -16,7 +16,7 @@ screenshots:
 ---
 
 {{% sr-only %}}
-Everdisk on Everappzin kehittämä langaton levysovellus iPhonelle ja iPadille. Se muuttaa laitteesi keskukseksi, joka jakaa tiedostot, kuvat, videot ja musiikin kaiken paikallisverkossasi olevan kanssa - ilman tilejä, ilman pilveä ja ilman erillistä sovellusta vastaanottavassa laitteessa. Sovellus pyörittää neljää palvelinta samaan aikaan - DLNA älytelevisioille ja mediasoittimille, HTTP mille tahansa selaimelle, WebDAV Finderille, Windowsille ja Linuxille sekä FTP tiedostosovelluksille ja tehokäyttäjille - joten jokainen laite yhdistää haluamallaan tavalla. Voit suoratoistaa kuvia, videoita ja musiikkia suoraan älytelevisioihin DLNAn kautta esikatselukuvien kera, jakaa yksinkertaisen linkin joka avautuu missä tahansa selaimessa tiedostojen selaamiseen ja lataamiseen, tai liittää laitteesi verkkolevyksi ja vetää tiedostoja molempiin suuntiin. Kun Wi-Fiä ei ole, voit yhdistää Maciin USB-kaapelilla ja siirtää tiedostoja Wi-Fiä nopeammin - vaikka lentokoneessa tai suljetussa verkossa. Everdisk yhdistää myös verkkosi DLNA-, WebDAV-, FTP- ja SFTP-palvelimiin, joiden tiedostoja voit selata, suoratoistaa ja ladata. Sisäänrakennetulla tiedostonhallinnalla selaat lista- tai ruudukkonäkymässä, luot kansioita, nimeät uudelleen, siirrät, kopioit, pakkaat ja purat sekä poistat. Voit skannata paperiasiakirjat siisteiksi PDF-tiedostoiksi, avata PDF-tiedoston tai kuvan ja merkitä sen sisäänrakennetulla muokkaimella - piirtää, korostaa, lisätä tekstiä ja allekirjoituksen niin että muutokset tallentuvat takaisin tiedostoon - sekä käyttää kattavaa PDF-työkalusarjaa tiedostojen pakkaamiseen, tekstin tunnistamiseen (OCR) haettavaksi PDF-tiedostoksi, avaussalasanan lisäämiseen tai poistamiseen, käyttöoikeuksien tarkasteluun, asiakirjan metatietojen muokkaamiseen sekä merkintöjen ja lomakekenttien litistämiseen. Voit myös toistaa ääntä minisoittimessa ja katsella videoita koko näytöllä sekä jakaa koko kuva- ja musiikkikirjastosi verkon yli alkuperäisessä laadussa tai yhteensopivammassa muodossa. Kaikki pysyy paikallisverkossasi eikä koskaan kosketa internetiä, ja voit suojata käytön käyttäjätunnuksella ja salasanalla sekä estää minkä tahansa laitteen yhdellä napautuksella. Everdiskin voi ladata ilmaiseksi App Storesta, ja siihen on saatavilla valinnainen kertaostoksena hankittava Premium Lifetime.
+Everdisk on Everappzin kehittämä langaton levysovellus iPhonelle ja iPadille. Se muuttaa laitteesi keskukseksi, joka jakaa tiedostot, kuvat, videot ja musiikin kaiken paikallisverkossasi olevan kanssa - ilman tilejä, ilman pilveä ja ilman erillistä sovellusta vastaanottavassa laitteessa. Sovellus pyörittää viittä palvelinta samaan aikaan - DLNA älytelevisioille ja mediasoittimille, HTTP mille tahansa selaimelle, WebDAV Finderille, Windowsille ja Linuxille, SMB verkkolevynä Macille, Windowsille ja Linuxille (valinnaisella SMB3-salauksella) sekä FTP tiedostosovelluksille ja tehokäyttäjille - joten jokainen laite yhdistää haluamallaan tavalla. Voit suoratoistaa kuvia, videoita ja musiikkia suoraan älytelevisioihin DLNAn kautta esikatselukuvien kera, jakaa yksinkertaisen linkin joka avautuu missä tahansa selaimessa tiedostojen selaamiseen ja lataamiseen, tai liittää laitteesi verkkolevyksi ja vetää tiedostoja molempiin suuntiin. Voit myös liittää sen SMB:n kautta - verkkolevynä Macille, Windowsille ja Linuxille, joka näkyy Macilla omana kohteenaan Finderin sivupalkissa - ja ottaa käyttöön SMB3-salauksen (AES), jotta kukaan muu samassa verkossa ei voi lukea siirtojasi. Kun Wi-Fiä ei ole, voit yhdistää Maciin USB-kaapelilla ja siirtää tiedostoja Wi-Fiä nopeammin - vaikka lentokoneessa tai suljetussa verkossa. Everdisk yhdistää myös verkkosi DLNA-, WebDAV-, FTP-, SFTP- ja SMB-palvelimiin - mukaan lukien Macit, Windows-tietokoneet, Linux-koneet ja NAS-levyt - joiden tiedostoja voit selata, suoratoistaa ja ladata. Sisäänrakennetulla tiedostonhallinnalla selaat lista- tai ruudukkonäkymässä, luot kansioita, nimeät uudelleen, siirrät, kopioit, pakkaat ja purat sekä poistat. Voit skannata paperiasiakirjat siisteiksi PDF-tiedostoiksi, avata PDF-tiedoston tai kuvan ja merkitä sen sisäänrakennetulla muokkaimella - piirtää, korostaa, lisätä tekstiä ja allekirjoituksen niin että muutokset tallentuvat takaisin tiedostoon - sekä käyttää kattavaa PDF-työkalusarjaa tiedostojen pakkaamiseen, tekstin tunnistamiseen (OCR) haettavaksi PDF-tiedostoksi, avaussalasanan lisäämiseen tai poistamiseen, käyttöoikeuksien tarkasteluun, asiakirjan metatietojen muokkaamiseen sekä merkintöjen ja lomakekenttien litistämiseen. Voit myös toistaa ääntä minisoittimessa ja katsella videoita koko näytöllä sekä jakaa koko kuva- ja musiikkikirjastosi verkon yli alkuperäisessä laadussa tai yhteensopivammassa muodossa. Kaikki pysyy paikallisverkossasi eikä koskaan kosketa internetiä, ja voit suojata käytön käyttäjätunnuksella ja salasanalla sekä estää minkä tahansa laitteen yhdellä napautuksella. Everdiskin voi ladata ilmaiseksi App Storesta, ja siihen on saatavilla valinnainen kertaostoksena hankittava Premium Lifetime.
 {{% /sr-only %}}
 
 <!-- <body class="hx:bg-transparent" style="background: radial-gradient(ellipse at 50% 80%, rgba(59,130,246,0.05), hsla(0,0%,100%,0));"> -->
@@ -56,9 +56,9 @@ Muuta iPhone tai iPad langattomaksi levyksi&nbsp;<br class="hx:sm:block hx:hidde
 
 <div class="hx:mb-6">
 {{< hextra/hero-paragraph >}}
-• Napauta Aloita ja jaa neljällä tavalla kerralla: DLNA, HTTP, WebDAV ja FTP  
+• Napauta Aloita ja jaa viidellä tavalla kerralla: DLNA, HTTP, WebDAV, SMB ja FTP  
 • Suoratoista kuvat, videot ja musiikki suoraan älytelevisioihin DLNAn kautta  
-• Liitä laitteesi verkkolevyksi Finderissa, Windowsissa tai Linuxissa  
+• Liitä laitteesi verkkolevyksi Finderissa, Windowsissa tai Linuxissa - valinnaisella SMB-salauksella  
 • Ei Wi-Fiä? Siirrä tiedostot USB-kaapelilla, langatonta nopeammin  
 {{< /hextra/hero-paragraph >}}
 </div>
@@ -82,7 +82,7 @@ Muuta iPhone tai iPad langattomaksi levyksi&nbsp;<br class="hx:sm:block hx:hidde
 
   {{< hextra/feature-card
     title="Laitteestasi tulee levy"
-    subtitle="Napauta Aloita ja iPhone tai iPad muuttuu langattomaksi levyksi. Everdisk pyörittää neljää palvelinta samaan aikaan - DLNA, HTTP, WebDAV ja FTP - joten älytelevisiot, tietokoneet, selaimet ja tiedostosovellukset yhdistävät kukin haluamallaan tavalla. Ei tilejä, ei pilveä eikä mitään ylimääräistä asennettavaa vastaanottavaan laitteeseen."
+    subtitle="Napauta Aloita ja iPhone tai iPad muuttuu langattomaksi levyksi. Everdisk pyörittää viittä palvelinta samaan aikaan - DLNA, HTTP, WebDAV, SMB ja FTP - joten älytelevisiot, tietokoneet, selaimet ja tiedostosovellukset yhdistävät kukin haluamallaan tavalla. Ei tilejä, ei pilveä eikä mitään ylimääräistä asennettavaa vastaanottavaan laitteeseen."
     icon="server"
     style="background: radial-gradient(ellipse at 50% 80%, rgba(34,197,94,0.15), hsla(0,0%,100%,0));"
   >}}
@@ -109,6 +109,13 @@ Muuta iPhone tai iPad langattomaksi levyksi&nbsp;<br class="hx:sm:block hx:hidde
   >}}
 
   {{< hextra/feature-card
+    title="Salattu SMB-jakaminen"
+    subtitle="Yhdistä SMB:n kautta - verkkolevynä Macille, Windowsille ja Linuxille - Macilla se näkyy omana kohteenaan Finderin sivupalkissa. Se on ainoa yhteys, jonka voit salata: ota käyttöön SMB3-salaus (AES) käyttäjätunnuksella ja salasanalla, jottei kukaan muu verkossa voi lukea tiedostojasi."
+    icon="lock-closed"
+    style="background: radial-gradient(ellipse at 50% 80%, rgba(99,102,241,0.15), hsla(0,0%,100%,0));"
+  >}}
+
+  {{< hextra/feature-card
     title="Ei Wi-Fiä? Käytä kaapelia"
     subtitle="Yhdistä laitteesi Maciin samalla USB-kaapelilla, jolla lataat sen. Tiedostot siirtyvät suoraan kaapelin kautta Wi-Fiä nopeammin, ja se toimii lentokoneessa, hotellissa tai missä tahansa suljetussa verkossa, jossa Wi-Fi on estetty."
     icon="lightning-bolt"
@@ -117,7 +124,7 @@ Muuta iPhone tai iPad langattomaksi levyksi&nbsp;<br class="hx:sm:block hx:hidde
 
   {{< hextra/feature-card
     title="Yhdistä muihin laitteisiin"
-    subtitle="Etsi ja yhdistä verkkosi DLNA-, WebDAV-, FTP- ja SFTP-palvelimiin. Selaa niiden kansioita, suoratoista ääntä ja videota, lataa tiedostoja sekä luo kansioita, lähetä, nimeä uudelleen, siirrä tai poista aina kun palvelin sen sallii."
+    subtitle="Etsi ja yhdistä verkkosi DLNA-, WebDAV-, FTP-, SFTP- ja SMB-palvelimiin - Macit, Windows-tietokoneet, Linux-koneet ja NAS-levyt. Selaa niiden kansioita, suoratoista ääntä ja videota, lataa tiedostoja sekä luo kansioita, lähetä, nimeä uudelleen, siirrä tai poista aina kun palvelin sen sallii."
     icon="cloud-download"
     style="background: radial-gradient(ellipse at 50% 80%, rgba(6,182,212,0.15), hsla(0,0%,100%,0));"
   >}}
@@ -153,7 +160,7 @@ Muuta iPhone tai iPad langattomaksi levyksi&nbsp;<br class="hx:sm:block hx:hidde
     title="Yhdistä palvelimiin" 
     method="Fill"
     options="1030x400 q82 webp Center"
-    subtitle="Löydä ja yhdistä verkkosi DLNA-, WebDAV-, FTP- ja SFTP-palvelimiin selataksesi, suoratoistaaksesi ja ladataksesi niiden tiedostoja." 
+    subtitle="Löydä ja yhdistä verkkosi DLNA-, WebDAV-, FTP-, SFTP- ja SMB-palvelimiin selataksesi, suoratoistaaksesi ja ladataksesi niiden tiedostoja." 
   >}}
 
   {{< feature-card 
@@ -208,7 +215,7 @@ Muuta iPhone tai iPad langattomaksi levyksi&nbsp;<br class="hx:sm:block hx:hidde
 
 {{< cards >}}
 
-  {{< feature-card title="Neljä palvelinta kerralla" subtitle="Napauta Aloita ja jaa tiedostosi neljällä tavalla samaan aikaan: DLNA televisioille ja mediasoittimille, HTTP mille tahansa selaimelle, WebDAV Finderille, Windowsille ja Linuxille sekä FTP tiedostosovelluksille ja tehokäyttäjille." icon="wifi" >}}
+  {{< feature-card title="Viisi palvelinta kerralla" subtitle="Napauta Aloita ja jaa tiedostosi viidellä tavalla samaan aikaan: DLNA televisioille ja mediasoittimille, HTTP mille tahansa selaimelle, WebDAV Finderille, Windowsille ja Linuxille, SMB verkkolevynä Macille, Windowsille ja Linuxille sekä FTP tiedostosovelluksille ja tehokäyttäjille." icon="wifi" >}}
 
   {{< feature-card title="Suoratoista älytelevisioihin" subtitle="Lähetä kuvat, videot ja musiikki suoraan älytelevisioihin ja mediasoittimiin DLNAn kautta. Kirjastosi ilmestyy televisioon itsestään esikatselukuvineen, valmiina isolle ruudulle." icon="desktop-computer" >}}
 
@@ -216,9 +223,11 @@ Muuta iPhone tai iPad langattomaksi levyksi&nbsp;<br class="hx:sm:block hx:hidde
 
   {{< feature-card title="WebDAV-verkkolevy" subtitle="Yhdistä Macin Finderista, Windowsista tai Linuxista WebDAVn kautta, ja laitteesi näkyy tavallisena verkkolevynä. Vedä ja pudota tiedostoja molempiin suuntiin." icon="folder" >}}
 
+  {{< feature-card title="Salattu SMB-levy" subtitle="Liitä laitteesi SMB:n kautta - verkkolevynä Macille, Windowsille ja Linuxille - Macilla se näkyy omana kohteenaan Finderin sivupalkissa. Se on ainoa yhteys, jonka voi salata: ota käyttöön SMB3-salaus (AES) käyttäjätunnuksella ja salasanalla, niin jokainen siirto pysyy yksityisenä." icon="lock-closed" >}}
+
   {{< feature-card title="Siirto USB:n kautta" subtitle="Kytke Maciin latauskaapelillasi ja siirrä tiedostot suoraan kaapelin kautta Wi-Fiä nopeammin. Toimii lentokoneessa, hotellissa tai missä tahansa suljetussa verkossa." icon="lightning-bolt" >}}
 
-  {{< feature-card title="Yhdistä DLNA-, WebDAV-, FTP- ja SFTP-palvelimiin" subtitle="Etsi ja yhdistä verkkosi palvelimiin, selaa niiden kansioita, suoratoista ääntä ja videota, lataa tiedostoja sekä luo, lähetä, nimeä uudelleen, siirrä tai poista aina kun se on sallittua." icon="server" >}}
+  {{< feature-card title="Yhdistä DLNA-, WebDAV-, FTP-, SFTP- ja SMB-palvelimiin" subtitle="Etsi ja yhdistä verkkosi palvelimiin ja NAS-levyihin, selaa niiden kansioita, suoratoista ääntä ja videota, lataa tiedostoja sekä luo, lähetä, nimeä uudelleen, siirrä tai poista aina kun se on sallittua." icon="server" >}}
 
   {{< feature-card title="Sisäänrakennettu tiedostonhallinta" subtitle="Kattava tiedostonhallinta kaikelle laitteellasi. Selaa lista- tai ruudukkonäkymässä, luo kansioita, nimeä uudelleen, siirrä, kopioi ja poista sekä liitä kansioita mistä tahansa laitteeltasi." icon="view-grid" >}}
 
@@ -283,11 +292,11 @@ Muuta iPhone tai iPad langattomaksi levyksi&nbsp;<br class="hx:sm:block hx:hidde
     title="Ilmainen"
     class="pricing-card pricing-free"
     subtitle=`<span class='pricing-details'>• Muuta laitteesi langattomaksi levyksi<br />
-• Neljä palvelinta kerralla: DLNA, HTTP, WebDAV, FTP<br />
+• Viisi palvelinta kerralla: DLNA, HTTP, WebDAV, SMB, FTP<br />
 • Suoratoista älytelevisioihin, selaimiin ja tietokoneisiin<br />
 • Liitä verkkolevyksi ja siirrä USB:n kautta<br />
 • Jaa koko kuva- ja musiikkikirjastosi<br />
-• Yhdistä DLNA-, WebDAV-, FTP- ja SFTP-palvelimiin<br />
+• Yhdistä DLNA-, WebDAV-, FTP-, SFTP- ja SMB-palvelimiin<br />
 • Tiedostonhallinta pakkauksella ja purkamisella<br />
 • Skannaa asiakirjat PDF-muotoon ja kattavat PDF-työkalut<br />
 • Merkitse ja allekirjoita PDF-tiedostoja ja kuvia<br />
@@ -307,7 +316,8 @@ Muuta iPhone tai iPad langattomaksi levyksi&nbsp;<br class="hx:sm:block hx:hidde
 • Rajattomasti jaettuja kansioita (enemmän kuin 5)<br />
 • Rajattomasti tallennettuja yhteyksiä (enemmän kuin 10)<br />
 • Kuvien ja videoiden muunnos yhteensopivaan muotoon tai pienempään kokoon<br />
-• Mukautetut HTTP-, WebDAV- ja FTP-portit<br />
+• SMB3-salaus (AES) yksityiseen ja turvalliseen jakamiseen<br />
+• Mukautetut HTTP-, WebDAV-, SMB- ja FTP-portit<br />
 • Jakamisen automaattinen aloitus, kun avaat sovelluksen<br />
 • Laitteen mukauttaminen: nimi, avatar-kuvake, liukuväri tai valokuva<br />
 • Kertaosto - veloitetaan kerran, ei koskaan uusiudu</span><br /><br />
@@ -344,24 +354,25 @@ Everdisk muuttaa iPhonen tai iPadin langattomaksi levyksi ja keskukseksi, joka y
 Voit jakaa tiedostosi, kuvasi, videosi ja musiikkisi kaiken verkkosi kanssa, selata ja suoratoistaa muilta palvelimilta sekä hallita kaikkea suoraan laitteellasi.<br>
 Ei tilejä, ei pilveä eikä erillistä sovellusta vastaanottavassa laitteessa - napautat vain Aloita ja olet valmis.<br><br>
 
-Sovellus pyörittää neljää palvelinta samaan aikaan, joten jokainen laite yhdistää haluamallaan tavalla: älytelevisiot DLNAn kautta, tietokoneet ja selaimet HTTPn kautta, Finder, Windows ja Linux WebDAVn kautta sekä tiedostosovellukset FTPn kautta.
+Sovellus pyörittää viittä palvelinta samaan aikaan, joten jokainen laite yhdistää haluamallaan tavalla: älytelevisiot DLNAn kautta, tietokoneet ja selaimet HTTPn kautta, Finder, Windows ja Linux WebDAVn kautta, verkkolevy SMB:n kautta (valinnaisella salauksella) sekä tiedostosovellukset FTPn kautta.
 {{% /details %}}
 
 {{% details title="Miten Everdisk toimii?" closed="true" %}}
-Kun napautat Aloita, Everdisk alkaa jakaa valitsemaasi sisältöä ja pyörittää neljää palvelinta kerralla, jotta eri laitteet voivat yhdistää haluamallaan tavalla.<br><br>
+Kun napautat Aloita, Everdisk alkaa jakaa valitsemaasi sisältöä ja pyörittää viittä palvelinta kerralla, jotta eri laitteet voivat yhdistää haluamallaan tavalla.<br><br>
 
 - <strong>DLNAn</strong> avulla älytelevisiot ja mediasoittimet löytävät kuvasi, videosi ja musiikkisi automaattisesti ja näyttävät ne esikatselukuvineen.<br>
 - <strong>HTTP</strong> antaa kenelle tahansa yksinkertaisen linkin, jonka voi avata selaimessa tiedostojen selaamiseen, esikatseluun ja lataamiseen ilman asennuksia.<br>
 - <strong>WebDAV</strong> saa laitteesi näkymään tavallisena verkkolevynä Finderissa, Windowsissa tai Linuxissa, jolloin voit vetää tiedostoja molempiin suuntiin.<br>
+- <strong>SMB</strong> tekee laitteestasi verkkolevyn Macille, Windowsille ja Linuxille - Macilla se näkyy omana kohteenaan Finderin sivupalkissa - ja se on ainoa yhteys, jonka voit salata SMB3-salauksella (AES).<br>
 - <strong>FTP</strong> toimii tiedostosovellusten ja tehokäyttäjien kanssa.<br><br>
 
-Everdisk yhdistää myös toiseen suuntaan, verkkosi DLNA-, WebDAV-, FTP- ja SFTP-palvelimiin, joten voit selata niiden kansioita, suoratoistaa ääntä ja videota sekä ladata tai hallita tiedostoja aina kun palvelin sen sallii. Kaikki pysyy paikallisverkossasi eikä koskaan kosketa internetiä.
+Everdisk yhdistää myös toiseen suuntaan, verkkosi DLNA-, WebDAV-, FTP-, SFTP- ja SMB-palvelimiin - mukaan lukien Macit, Windows-tietokoneet, Linux-koneet ja NAS-levyt - joten voit selata niiden kansioita, suoratoistaa ääntä ja videota sekä ladata tai hallita tiedostoja aina kun palvelin sen sallii. Kaikki pysyy paikallisverkossasi eikä koskaan kosketa internetiä.
 {{% /details %}}
 
 {{% details title="Onko Everdisk ilmainen?" closed="true" %}}
-Kyllä. Everdiskin voi ladata ilmaiseksi, ja voit muuttaa laitteesi langattomaksi levyksi, jakaa tiedostosi neljällä tavalla, yhdistää muihin palvelimiin ja käyttää sisäänrakennettua tiedostonhallintaa maksutta.<br><br>
+Kyllä. Everdiskin voi ladata ilmaiseksi, ja voit muuttaa laitteesi langattomaksi levyksi, jakaa tiedostosi viidellä tavalla, yhdistää muihin palvelimiin ja käyttää sisäänrakennettua tiedostonhallintaa maksutta.<br><br>
 
-Saatavilla on valinnainen kertaostoksena hankittava <strong>Premium Lifetime</strong> - kertamaksu ilman tilausta - joka avaa rajattomat jaetut kansiot ja tallennetut yhteydet, kuvien ja videoiden muunnoksen, mukautetut portit, jakamisen automaattisen aloituksen ja laitteen mukauttamisen. Se on sidottu Apple ID:hesi, joten voit avata sen muissa laitteissasi Palauta ostokset -toiminnolla. Hinnat voivat vaihdella maasi tai alueesi mukaan.
+Saatavilla on valinnainen kertaostoksena hankittava <strong>Premium Lifetime</strong> - kertamaksu ilman tilausta - joka avaa rajattomat jaetut kansiot ja tallennetut yhteydet, kuvien ja videoiden muunnoksen, SMB3-salauksen (AES), mukautetut portit, jakamisen automaattisen aloituksen ja laitteen mukauttamisen. Se on sidottu Apple ID:hesi, joten voit avata sen muissa laitteissasi Palauta ostokset -toiminnolla. Hinnat voivat vaihdella maasi tai alueesi mukaan.
 {{% /details %}}
 
 {{% details title="Miten yhdistän tietokoneeltani?" closed="true" %}}
@@ -372,6 +383,12 @@ Everdisk saa laitteesi näkymään tavallisena verkkolevynä WebDAVn kautta.<br>
 - <strong>Linuxissa</strong> yhdistä WebDAV-osoitteeseen tiedostonhallinnastasi.<br><br>
 
 Kun yhteys on muodostettu, voit vetää ja pudottaa molempiin suuntiin: kopioi tiedostoja tietokoneelta laitteellesi tai hae ne takaisin. Voit myös avata HTTP-linkin missä tahansa selaimessa, jos et halua liittää levyä.
+{{% /details %}}
+
+{{% details title="Voinko käyttää SMB:tä ja salata yhteyden?" closed="true" %}}
+Kyllä. WebDAVn ohella Everdisk jakaa <strong>SMB</strong>-yhteydellä - verkkolevynä Macille, Windowsille ja Linuxille (sovelluksessa nimellä <strong>Tietokone (lisäasetukset)</strong> -yhteys). Macilla se näkyy omana kohteenaan Finderin sivupalkissa kohdassa Sijainnit; Windowsissa avaat sen Resurssienhallinnassa sovelluksessa näkyvällä <code>smb://</code>-osoitteella.<br><br>
+
+SMB on myös ainoa yhteys, jonka voit <strong>salata</strong>. Aseta käyttäjätunnus ja salasana ja ota sitten käyttöön <strong>Vaadi SMB-salaus</strong> Asetuksissa suojataksesi jokaisen siirron <strong>SMB3-salauksella (AES)</strong>, jottei kukaan muu samassa verkossa voi lukea tiedostojasi. Salatut yhteydet eivät voi olla nimettömiä, joten käyttäjätunnus ja salasana vaaditaan, ja tarvitset asiakkaan, joka tukee SMB3:a - Finderin nykyaikaisella Macilla tai Windows 10:n tai uudemman.
 {{% /details %}}
 
 {{% details title="Miten suoratoistan televisiooni?" closed="true" %}}
@@ -393,7 +410,7 @@ Koska tämä ei riipu langattomasta verkosta, se toimii lentokoneessa, hotelliss
 {{% /details %}}
 
 {{% details title="Mihin voin yhdistää Everdiskillä?" closed="true" %}}
-Everdisk on myös asiakas verkkosi muille laitteille. Voit etsiä ja yhdistää <strong>DLNA</strong>-, <strong>WebDAV</strong>-, <strong>FTP</strong>- ja <strong>SFTP</strong>-palvelimiin, mukaan lukien NAS-laitteet ja mediapalvelimet.<br><br>
+Everdisk on myös asiakas verkkosi muille laitteille. Voit etsiä ja yhdistää <strong>DLNA</strong>-, <strong>WebDAV</strong>-, <strong>FTP</strong>-, <strong>SFTP</strong>- ja <strong>SMB</strong>-palvelimiin, mukaan lukien Macit, Windows-tietokoneet, Linux-koneet, NAS-laitteet ja mediapalvelimet.<br><br>
 
 Kun yhteys on muodostettu, voit selata niiden kansioita, suoratoistaa ääntä ja videota, ladata tiedostoja sekä luoda kansioita, lähettää, nimetä uudelleen, siirtää tai poistaa aina kun palvelin sen sallii.
 {{% /details %}}
@@ -463,11 +480,11 @@ Kuvasi näyttävät aidot esikatselukuvat myös televisiossa DLNAn kautta ja sel
 </div>
 
 {{< cards >}}
-  {{< feature-card icon="play" title="Jakaminen" subtitle="Napauta Aloita, valitse mitä jaat, ja pyöritä kaikkia neljää palvelinta kerralla." link="/docs/guide/everdisk/everdisk-guide-sharing" >}}
+  {{< feature-card icon="play" title="Jakaminen" subtitle="Napauta Aloita, valitse mitä jaat, ja pyöritä kaikkia viittä palvelinta kerralla." link="/docs/guide/everdisk/everdisk-guide-sharing" >}}
 
   {{< feature-card icon="desktop-computer" title="Yhdistä laitteesi" subtitle="Miten televisio, Mac tai PC, selain, toinen puhelin tai USB-kaapeli yhdistää tiedostoihisi." link="/docs/guide/everdisk/everdisk-guide-connect" >}}
 
-  {{< feature-card icon="server" title="Yhdistä palvelimiin" subtitle="Tavoita DLNA-, WebDAV-, FTP- ja SFTP-palvelimet sekä NAS-levyt selataksesi, suoratoistaaksesi ja ladataksesi." link="/docs/guide/everdisk/everdisk-guide-devices" >}}
+  {{< feature-card icon="server" title="Yhdistä palvelimiin" subtitle="Tavoita DLNA-, WebDAV-, FTP-, SFTP- ja SMB-palvelimet sekä NAS-levyt selataksesi, suoratoistaaksesi ja ladataksesi." link="/docs/guide/everdisk/everdisk-guide-devices" >}}
 
   {{< feature-card icon="folder" title="Tiedostot ja asiakirjat" subtitle="Selaa, järjestä, pakkaa ja pura, liitä ulkoisia kansioita ja skannaa asiakirjat PDF-muotoon." link="/docs/guide/everdisk/everdisk-guide-files" >}}
 

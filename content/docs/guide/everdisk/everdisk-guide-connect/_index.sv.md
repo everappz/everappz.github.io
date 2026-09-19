@@ -1,14 +1,14 @@
 ---
 title: "Anslut dina enheter"
 date: 2026-08-20
-description: "Steg-för-steg-instruktioner för att ansluta till din trådlösa Everdisk-disk: titta på en smart-TV via DLNA, öppna dina filer i valfri webbläsare, montera din enhet som en nätverksdisk i Finder, Windows eller Linux via WebDAV, anslut filappar via FTP och överför via en USB-kabel till en Mac utan Wi-Fi."
+description: "Steg-för-steg-instruktioner för att ansluta till din trådlösa Everdisk-disk: titta på en smart-TV via DLNA, öppna dina filer i valfri webbläsare, montera din enhet som en nätverksdisk i Finder, Windows eller Linux via WebDAV eller SMB (med valfri SMB3/AES-kryptering), anslut filappar via FTP och överför via en USB-kabel till en Mac utan Wi-Fi."
 keywords: ["ansluta till Everdisk", "streama till TV DLNA", "öppna filer i webbläsare", "montera nätverksdisk Finder", "WebDAV Windows Linux", "FTP filapp", "USB kabelöverföring Mac", "ansluta iPhone till dator", "nätverksdisk iPhone"]
 tags: ["everdisk", "guide", "connect"]
 readingTime: 11
 ---
 
 
-När du har tryckt på **Start** på [Delning](/docs/guide/everdisk/everdisk-guide-sharing)-skärmen kan andra enheter ansluta till dina filer på fyra olika sätt. Välj den metod som passar den enhet du vill använda. I samtliga fall visas den exakta **adressen** du behöver i sektionen **Så ansluter du** på delningsskärmen.
+När du har tryckt på **Start** på [Delning](/docs/guide/everdisk/everdisk-guide-sharing)-skärmen kan andra enheter ansluta till dina filer på fem olika sätt. Välj den metod som passar den enhet du vill använda. I samtliga fall visas den exakta **adressen** du behöver i sektionen **Så ansluter du** på delningsskärmen.
 
 > Båda enheterna måste vara på **samma Wi-Fi-nätverk** - eller, för en Mac, anslutna med en **USB-kabel** (se sista avsnittet).
 
@@ -71,6 +71,29 @@ Använd detta för att få din enhet att visas som en vanlig disk på en Mac, Wi
 2. Ange WebDAV-adressen som visas i Everdisk.
 
 Om anslutningen är skrivskyddad eller dubbelriktad beror på inställningen **Filredigering**. Med den på kan du kopiera filer till din enhet och byta namn på eller ta bort dem; med den av är disken skrivskyddad.
+
+## Anslut via SMB (krypterad nätverksdisk)
+
+SMB är en nätverksdisk för Mac, Windows och Linux, byggd på fildelningen som redan finns i de systemen, så din enhet dyker upp som en vanlig nätverksdisk - och det är den enda anslutningen du kan kryptera.
+
+1. I **Inställningar → Delning → Anslutningar**, se till att **Dator (avancerat)** (SMB-anslutningen) är på.
+2. Tryck på **Start** och notera **SMB**-adressen, som ser ut som `smb://192.168.1.20:4455/Share`.
+3. Anslut från din dator:
+   - **Mac:** din enhet dyker upp av sig själv i **Finders sidofält** under **Platser** (Nätverk) - klicka bara på den och logga in. För att ansluta för hand istället väljer du **Gå → Anslut till server** (**⌘K**) och anger adressen.
+   - **Windows:** öppna **Utforskaren**, högerklicka på **Den här datorn** och välj **Anslut en nätverksdisk**, ange sedan `\\<address>\Share` med värddatorn och resursnamnet från delningsskärmen (eller skriv `smb://`-adressen i adressfältet).
+   - **Linux:** i din filhanterare väljer du **Anslut till server** och anger adressen.
+4. Ange inloggning och lösenord om du har angett något, annars anslut som gäst.
+5. Resursen heter **Share**. Med **Filredigering** på kan du kopiera filer i båda riktningarna; med den av är den skrivskyddad.
+
+**Slå på kryptering (rekommenderas på Wi-Fi du inte litar på)**
+
+SMB är den enda Everdisk-anslutningen som kan krypteras. För att skydda varje överföring med **SMB3-kryptering (AES)**:
+
+1. I **Inställningar → Delning → Åtkomst**, ange en **Inloggning** och ett **Lösenord** - krypterade anslutningar kan inte vara anonyma.
+2. I **Inställningar → Delning**, slå på **Kräv SMB-kryptering**.
+3. **Stoppa och starta** delningen igen så att ändringen träder i kraft.
+
+Din klient måste stödja SMB3 - Finder på en modern Mac, eller **Windows 10 och senare**. SMB-kryptering är en Premium-funktion.
 
 ## Anslut en filapp (FTP)
 

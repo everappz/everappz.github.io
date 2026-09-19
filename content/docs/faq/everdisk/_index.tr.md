@@ -1,16 +1,17 @@
 ---
 date: '2026-08-20T12:00:00+00:00'
 title: 'Everdisk'
-description: "Everdisk SSS: iPhone veya iPad cihazınızı kablosuz sürücüye dönüştürün ve dosyalarınızı, fotoğraflarınızı, videolarınızı ve müziğinizi DLNA, HTTP, WebDAV ve FTP üzerinden ağınızdaki her cihazla paylaşın. TV'den, web tarayıcısından, Mac, Windows ve Linux'tan bağlanma, Wi-Fi olmadan USB kablosuyla aktarma, NAS ve WebDAV/FTP/SFTP sunucularına bağlanma, dosya yöneticisi, sıkıştırma ve açma, belgeleri PDF'e tarama, parolalar ve cihaz engelleme, gizlilik ve tek seferlik Premium Ömür Boyu satın alma hakkında yanıtlar."
+description: "Everdisk SSS: iPhone veya iPad cihazınızı kablosuz sürücüye dönüştürün ve dosyalarınızı, fotoğraflarınızı, videolarınızı ve müziğinizi DLNA, HTTP, WebDAV, SMB ve FTP üzerinden ağınızdaki her cihazla paylaşın. TV'den, web tarayıcısından, Mac, Windows ve Linux'tan bağlanma, SMB3 şifrelemeli (AES) SMB ağ sürücüsü, Wi-Fi olmadan USB kablosuyla aktarma, NAS ve WebDAV/FTP/SFTP/SMB sunucularına bağlanma, dosya yöneticisi, sıkıştırma ve açma, belgeleri PDF'e tarama, parolalar ve cihaz engelleme, gizlilik ve tek seferlik Premium Ömür Boyu satın alma hakkında yanıtlar."
 keywords: [
   "Everdisk SSS", "iPhone kablosuz sürücü", "iPhone dosya paylaşımı", "ağ üzerinden fotoğraf paylaşımı",
   "DLNA ile TV'ye yayın", "dosyaları tarayıcıda açma", "iPhone WebDAV ağ sürücüsü",
+  "iPhone SMB sunucusu", "iPhone SMB şifrelemesi", "SMB3 AES şifrelemesi",
   "iPhone FTP sunucusu", "iPhone SFTP istemcisi", "Wi-Fi olmadan Mac USB dosya aktarımı",
-  "iPhone'dan NAS'a bağlanma", "iOS dosya yöneticisi", "iPhone sıkıştırma açma",
+  "iPhone'dan NAS'a bağlanma", "iPhone SMB istemcisi", "SMB paylaşımına bağlanma", "iOS dosya yöneticisi", "iPhone sıkıştırma açma",
   "belgeleri PDF'e tarama", "paylaşımı parolayla koruma", "cihaz engelleme",
   "yerel ağ dosya paylaşımı", "Everdisk Premium", "Everdisk ömür boyu"
 ]
-tags: ["everdisk", "sss", "kablosuz sürücü", "dosya paylaşımı", "DLNA", "WebDAV", "FTP", "SFTP", "ağ sürücüsü"]
+tags: ["everdisk", "sss", "kablosuz sürücü", "dosya paylaşımı", "DLNA", "WebDAV", "SMB", "FTP", "SFTP", "ağ sürücüsü"]
 ---
 
 
@@ -23,15 +24,16 @@ Everdisk, iPhone veya iPad cihazınızı; dosyalarınızı, fotoğraflarınızı
 {{% details title="Everdisk nedir?" closed="true" %}}
 Everdisk, iPhone ve iPad için bir **kablosuz sürücü** uygulamasıdır. Cihazınızı, seçtiğiniz dosyaları, fotoğrafları, videoları ve müziği yerel ağınızdaki her şeyle paylaşan bir merkeze dönüştürür ve ayrıca diğer sunuculara da bağlanır; böylece onların dosyalarına göz atabilir ve yayın yapabilirsiniz.<br><br>
 
-Aynı anda dört sunucu çalıştırır - TV'ler için **DLNA**, web tarayıcıları için **HTTP**, Finder/Windows/Linux için **WebDAV** ve dosya uygulamaları için **FTP** - böylece her cihaz kendine uygun şekilde bağlanır. Hesap ve bulut yoktur: **Başlat**'a dokunursunuz, hazırsınız. Ayrıca bir dosya yöneticisi, bir medya oynatıcı, bir fotoğraf galerisi, belgeleri PDF'e tarama ve sıkıştırma/açma özellikleri içerir.
+Aynı anda beş sunucu çalıştırır - TV'ler için **DLNA**, web tarayıcıları için **HTTP**, Finder/Windows/Linux için **WebDAV**, isteğe bağlı şifrelemeyle Mac, Windows ve Linux'ta bir ağ sürücüsü için **SMB** ve dosya uygulamaları için **FTP** - böylece her cihaz kendine uygun şekilde bağlanır. Hesap ve bulut yoktur: **Başlat**'a dokunursunuz, hazırsınız. Ayrıca bir dosya yöneticisi, bir medya oynatıcı, bir fotoğraf galerisi, belgeleri PDF'e tarama ve sıkıştırma/açma özellikleri içerir.
 {{% /details %}}
 
 {{% details title="Everdisk nasıl çalışır?" closed="true" %}}
-**Başlat**'a dokunduğunuzda, Everdisk cihazınızı yerel ağınızda bir sunucuya dönüştürür ve seçtiğiniz içeriği paylaşır. Dört farklı bağlantı yöntemi aynı anda çalışır; böylece farklı cihazlar tercih ettikleri şekilde bağlanabilir:<br><br>
+**Başlat**'a dokunduğunuzda, Everdisk cihazınızı yerel ağınızda bir sunucuya dönüştürür ve seçtiğiniz içeriği paylaşır. Beş farklı bağlantı yöntemi aynı anda çalışır; böylece farklı cihazlar tercih ettikleri şekilde bağlanabilir:<br><br>
 
 - **DLNA** - akıllı TV'ler ve medya oynatıcılar cihazınızı otomatik olarak bulur ve medyanızı küçük resimlerle gösterir.<br>
 - **HTTP** - herkes bir web tarayıcısında bir bağlantı açarak dosyalarınıza göz atar ve indirir.<br>
 - **WebDAV** - cihazınız Finder, Windows veya Linux'ta normal bir ağ sürücüsü gibi görünür.<br>
+- **SMB** - Mac, Windows ve Linux için, bu sistemlerde zaten bulunan dosya paylaşımı üzerine kurulu bir ağ sürücüsü; bir Mac'te Finder kenar çubuğunda kendiliğinden görünür. Şifreleyebileceğiniz tek bağlantıdır (SMB3 şifrelemesi, AES).<br>
 - **FTP** - dosya uygulamaları ve güçlü araçlar FTP üzerinden bağlanır.<br><br>
 
 Her şey yerel Wi-Fi'niz (veya bir Mac'e USB kablosu) üzerinden gerçekleşir ve asla internete dokunmaz.
@@ -106,6 +108,29 @@ Cihazınız herhangi bir ağ sürücüsü gibi bağlanır. **Dosya Düzenleme** 
 Bir tane ayarladıysanız giriş bilgilerini ve parolayı girin.
 {{% /details %}}
 
+{{% details title="SMB üzerinden nasıl bağlanırım?" closed="true" %}}
+1. **Ayarlar → Paylaşım → Bağlantılar**'da **Bilgisayar (Gelişmiş)** (SMB bağlantısı)'nın açık olduğundan emin olun, ardından **Başlat**'a dokunun.<br>
+2. Paylaşım ekranında gösterilen **SMB** adresini kopyalayın - `smb://192.168.1.20:4455/Share` gibi görünür.<br>
+3. Bilgisayarınızdan bağlanın:<br>
+&nbsp;&nbsp;- **Mac:** cihazınız **Konumlar** (Ağ) altında **Finder kenar çubuğunda** kendiliğinden görünür - sadece tıklayın. Bunun yerine elle bağlanmak için **Git → Sunucuya Bağlan** (**⌘K**)'yi seçin ve adresi girin.<br>
+&nbsp;&nbsp;- **Windows:** Dosya Gezgini'nde **Bu Bilgisayar**'a sağ tıklayın ve **Ağ sürücüsü eşle**'yi seçin, ardından `\\<address>\Share` girin veya `smb://` adresini adres çubuğuna yazın.<br>
+&nbsp;&nbsp;- **Linux:** dosya yöneticinizde **Sunucuya Bağlan**'ı seçin ve adresi girin.<br>
+4. Bir tane ayarladıysanız giriş bilgilerinizi ve parolanızı girin; aksi halde konuk olarak bağlanın.<br><br>
+
+Paylaşım **Share** olarak adlandırılır. **Dosya Düzenleme** açıkken dosyaları iki yönde kopyalayabilirsiniz; kapalıyken sürücü salt okunurdur.
+{{% /details %}}
+
+{{% details title="SMB bağlantımı şifreleyebilir miyim?" closed="true" %}}
+Evet - ve SMB, Everdisk'in şifreleyebileceği **tek** bağlantıdır. **Ayarlar → Paylaşım**'da, her SMB aktarımını **SMB3 şifrelemesiyle (AES)** korumak için **SMB şifrelemesi iste**'yi açın; böylece aynı ağdaki başka hiç kimse dosyalarınızı okuyamaz. Bu, tam olarak güvenmediğiniz bir Wi-Fi'de harika bir seçimdir.<br><br>
+
+Birkaç gereksinim:<br>
+- Önce bir **giriş ve parola** ayarlamalısınız - şifreli bağlantılar anonim olamaz.<br>
+- İstemci **SMB3**'ü desteklemelidir - modern bir Mac'teki Finder ya da **Windows 10 ve sonrası**.<br>
+- Değişiklikler bir sonraki paylaşım başlatmanızda etkili olur.<br><br>
+
+SMB şifrelemesi, tek seferlik **Premium Ömür Boyu** satın almanın bir parçasıdır.
+{{% /details %}}
+
 {{% details title="Everdisk Wi-Fi olmadan çalışır mı?" closed="true" %}}
 Evet, bir **Mac** ve bir kabloyla. iPhone veya iPad cihazınızı Mac'e takın, sorulursa **Güven**'e dokunun ve **Başlat**'a dokunun. Paylaşım ekranında `.local` ile biten bir **Kablo Bağlantısı** adresi görünür; ona Finder'dan (**⌘K**) bağlanın. Bu, hiç Wi-Fi olmadan çalışır - bir uçakta, otelde veya kilitli bir ağda harikadır - ve Wi-Fi'den daha hızlı ve daha özeldir.
 {{% /details %}}
@@ -122,19 +147,20 @@ iPhone veya iPad cihazınız sunucudur ve iOS, uygulamaların arka planda bir a�
 Bir Mac'e giden **USB kablosu**, Wi-Fi'den daha hızlı ve daha güvenilirdir; çünkü veriler doğrudan kablodan gider. Ayrıca en özel seçenektir; çünkü hiçbir şey yönlendiricinizden veya internetten geçmez. Büyük fotoğraf ve video aktarımları için bunu kullanın.
 {{% /details %}}
 
-{{% details title="Dört sunucu (DLNA, HTTP, WebDAV, FTP) arasındaki fark nedir?" closed="true" %}}
+{{% details title="Beş sunucu (DLNA, HTTP, WebDAV, SMB, FTP) arasındaki fark nedir?" closed="true" %}}
 Hepsi aynı içeriği paylaşır ama farklı cihazlara uygundur:<br><br>
 
 - **TV ve Medya Merkezi (DLNA)** - akıllı TV'ler ve medya oynatıcılar için.<br>
 - **Tarayıcı (HTTP)** - herhangi bir web tarayıcısı için, kurulum gerekmez.<br>
 - **Bilgisayar (WebDAV)** - cihazınızı Finder/Windows/Linux'ta bir ağ sürücüsü yapar.<br>
+- **Bilgisayar (Gelişmiş)** (SMB) - Mac, Windows ve Linux için bir ağ sürücüsü; bir Mac'te Finder kenar çubuğunda kendiliğinden görünür veya bir `smb://` adresiyle elle bağlanın. Şifreleyebileceğiniz tek bağlantıdır (SMB3, AES).<br>
 - **Diğer Uygulamalar ve Cihazlar (FTP)** - dosya uygulamaları ve güçlü araçlar için.<br><br>
 
 Bunların herhangi birini **Ayarlar → Paylaşım → Bağlantılar**'da açıp kapatabilirsiniz.
 {{% /details %}}
 
 {{% details title="Dosyalarımı parolayla nasıl korurum?" closed="true" %}}
-**Ayarlar → Paylaşım → Erişim**'e gidin ve bir **Giriş** ile **Parola** ayarlayın. Tarayıcı, Bilgisayar ve Diğer Uygulamalar bağlantıları ardından bu bilgileri isteyecektir. Açık erişim için ikisini de boş bırakın.<br><br>
+**Ayarlar → Paylaşım → Erişim**'e gidin ve bir **Giriş** ile **Parola** ayarlayın. Tarayıcı, Bilgisayar, Bilgisayar (Gelişmiş) ve Diğer Uygulamalar bağlantıları ardından bu bilgileri isteyecektir. Açık erişim için ikisini de boş bırakın.<br><br>
 
 Not: **DLNA** (TV) bağlantısı parolayla korunamaz; bu yüzden açıkken aynı Wi-Fi'deki herkese açıktır. Yalnızca korumalı bağlantılar istiyorsanız onu kapatın.
 {{% /details %}}
@@ -156,15 +182,15 @@ Evet. Everdisk yalnızca **yerel ağınızda** paylaşım yapar - internete hiç
 {{% /details %}}
 
 {{% details title="Everdisk NAS'ıma veya diğer sunucularıma bağlanabilir mi?" closed="true" %}}
-Evet. **Cihazlar** sekmesi ağınızdaki diğer sunuculara **bağlanır**. **Yeni Bağlantı**'ya dokunun ve **DLNA / UPnP**, **WebDAV**, **FTP** veya **SFTP**'yi seçin, adresi ve varsa bir girişi girin; artık göz atabilir, yayınlayabilir ve indirebilirsiniz. WebDAV, FTP ve SFTP sunucularında ayrıca klasör oluşturabilir, yükleyebilir, yeniden adlandırabilir, taşıyabilir ve silebilirsiniz. DLNA sunucuları salt okunurdur.
+Evet. **Cihazlar** sekmesi ağınızdaki diğer sunuculara **bağlanır**. **Yeni Bağlantı**'ya dokunun ve **DLNA / UPnP**, **WebDAV**, **FTP**, **SFTP** veya **SMB**'yi (klasörleri SMB / CIFS üzerinden paylaşan Mac'ler, Windows PC'ler, Linux makineleri ve NAS sürücüleri için) seçin, adresi ve varsa bir girişi girin; artık göz atabilir, yayınlayabilir ve indirebilirsiniz. WebDAV, FTP, SFTP ve SMB sunucularında ayrıca klasör oluşturabilir, yükleyebilir, yeniden adlandırabilir, taşıyabilir ve silebilirsiniz. DLNA sunucuları salt okunurdur.
 {{% /details %}}
 
 {{% details title="Google Drive veya Dropbox gibi bulut depolamaya bağlanabilir miyim?" closed="true" %}}
-Everdisk, iCloud Drive, Google Drive, Dropbox veya OneDrive gibi bulut hesaplarında oturum açmaz. Yalnızca **yerel ağdaki ve doğrudan adreslenen** sunuculara (DLNA, WebDAV, FTP, SFTP) bağlanır. Bir bulut hizmetine yalnızca, yeni bir WebDAV bağlantısına yazabileceğiniz bir **WebDAV** adresi sunuyorsa erişilebilir.
+Everdisk, iCloud Drive, Google Drive, Dropbox veya OneDrive gibi bulut hesaplarında oturum açmaz. Yalnızca **yerel ağdaki ve doğrudan adreslenen** sunuculara (DLNA, WebDAV, FTP, SFTP, SMB) bağlanır. Bir bulut hizmetine yalnızca, yeni bir WebDAV bağlantısına yazabileceğiniz bir **WebDAV** adresi sunuyorsa erişilebilir.
 {{% /details %}}
 
 {{% details title="Cihazlar sekmesi ne işe yarar?" closed="true" %}}
-Bu, Everdisk'in istemci tarafıdır: **Bağlantılar** kaydettiğiniz sunucuları, **Mevcut Cihazlar** ise ağınızda otomatik olarak bulunan sunucuları listeler. Dosyalarına göz atmak, yayınlamak veya indirmek için birine dokunun ya da elle bir DLNA, WebDAV, FTP veya SFTP sunucusu eklemek için **Yeni Bağlantı**'ya dokunun.
+Bu, Everdisk'in istemci tarafıdır: **Bağlantılar** kaydettiğiniz sunucuları, **Mevcut Cihazlar** ise ağınızda otomatik olarak bulunan sunucuları listeler. Dosyalarına göz atmak, yayınlamak veya indirmek için birine dokunun ya da elle bir DLNA, WebDAV, FTP, SFTP veya SMB sunucusu eklemek için **Yeni Bağlantı**'ya dokunun.
 {{% /details %}}
 
 {{% details title="Bir sunucudan cihazıma dosyaları nasıl indiririm?" closed="true" %}}
@@ -256,13 +282,13 @@ Everdisk cihazınıza otomatik olarak dostane bir ad ve avatar verir ve bunları
 {{% /details %}}
 
 {{% details title="Bağlantı noktalarını değiştirebilir miyim?" closed="true" %}}
-Varsayılanlar **HTTP 80**, **WebDAV 8080** ve **FTP 2121**'dir (DLNA bağlantı noktasını otomatik olarak seçer). Bunları ücretsiz görüntüleyebilirsiniz; **özel bağlantı noktaları** ayarlamak bir Premium özelliğidir (Ayarlar → Paylaşım'da **Gelişmiş**).
+Varsayılanlar **HTTP 80**, **WebDAV 8080**, **SMB 4455** ve **FTP 2121**'dir (DLNA bağlantı noktasını otomatik olarak seçer). Bunları ücretsiz görüntüleyebilirsiniz; **özel bağlantı noktaları** ayarlamak bir Premium özelliğidir (Ayarlar → Paylaşım'da **Gelişmiş**).
 {{% /details %}}
 
 {{% details title="Everdisk ücretsiz mi ve Premium neler ekler?" closed="true" %}}
-Everdisk **ücretsiz** bir indirmedir. Dört sunucunun tümünü çalıştırabilir, erişimi bir parolayla koruyabilir, tüm Fotoğraflar ve Müzik kitaplığınızı paylaşabilir, dosya yöneticisini kullanabilir, PDF'e tarayabilir ve diğer sunuculara bağlanabilirsiniz. Ücretsiz sürüm en fazla **5 klasör** paylaşır ve en fazla **10 sunucu bağlantısı** kaydeder.<br><br>
+Everdisk **ücretsiz** bir indirmedir. Beş sunucunun tümünü çalıştırabilir, erişimi bir parolayla koruyabilir, tüm Fotoğraflar ve Müzik kitaplığınızı paylaşabilir, dosya yöneticisini kullanabilir, PDF'e tarayabilir ve diğer sunuculara bağlanabilirsiniz. Ücretsiz sürüm en fazla **5 klasör** paylaşır ve en fazla **10 sunucu bağlantısı** kaydeder.<br><br>
 
-Tek seferlik bir **Premium Ömür Boyu** satın alma (abonelik değil) şunları ekler: **Sınırsız Klasör**, **Sınırsız Bağlantı**, **Fotoğraf ve Video Dönüştürme** (Orijinal dışındaki kalite), **Özel Bağlantı Noktaları**, **Otomatik Başlatmalı Paylaşım** ve **Cihaz Özelleştirme**.
+Tek seferlik bir **Premium Ömür Boyu** satın alma (abonelik değil) şunları ekler: **Sınırsız Klasör**, **Sınırsız Bağlantı**, **Fotoğraf ve Video Dönüştürme** (Orijinal dışındaki kalite), **SMB şifrelemesi** (SMB3/AES), **Özel Bağlantı Noktaları**, **Otomatik Başlatmalı Paylaşım** ve **Cihaz Özelleştirme**.
 {{% /details %}}
 
 {{% details title="Premium bir abonelik mi? Diğer cihazlarımda çalışır mı?" closed="true" %}}

@@ -1,16 +1,17 @@
 ---
 date: '2026-08-20T12:00:00+00:00'
 title: 'Everdisk'
-description: "Soalan Lazim Everdisk: jadikan iPhone atau iPad anda pemacu tanpa wayar dan kongsi fail, foto, video serta muzik dengan mana-mana peranti pada rangkaian anda melalui DLNA, HTTP, WebDAV dan FTP. Jawapan tentang menyambung dari TV, pelayar web, Mac, Windows dan Linux, pemindahan kabel USB tanpa Wi-Fi, menyambung ke pelayan NAS dan WebDAV/FTP/SFTP, pengurus fail, zip dan nyahzip, imbas dokumen ke PDF, kata laluan dan sekatan peranti, privasi, serta pembelian Premium Sepanjang Hayat sekali sahaja."
+description: "Soalan Lazim Everdisk: jadikan iPhone atau iPad anda pemacu tanpa wayar dan kongsi fail, foto, video serta muzik dengan mana-mana peranti pada rangkaian anda melalui DLNA, HTTP, WebDAV, SMB dan FTP. Jawapan tentang menyambung dari TV, pelayar web, Mac, Windows dan Linux, pemacu rangkaian SMB dengan penyulitan SMB3 (AES), pemindahan kabel USB tanpa Wi-Fi, menyambung ke pelayan NAS dan WebDAV/FTP/SFTP/SMB, pengurus fail, zip dan nyahzip, imbas dokumen ke PDF, kata laluan dan sekatan peranti, privasi, serta pembelian Premium Sepanjang Hayat sekali sahaja."
 keywords: [
   "Soalan Lazim Everdisk", "pemacu tanpa wayar iPhone", "kongsi fail iPhone", "kongsi foto melalui rangkaian",
   "strim ke TV DLNA", "buka fail dalam pelayar", "pemacu rangkaian WebDAV iPhone",
+  "pelayan SMB iPhone", "penyulitan SMB iPhone", "penyulitan SMB3 AES",
   "pelayan FTP iPhone", "klien SFTP iPhone", "pemindahan fail USB Mac tanpa Wi-Fi",
-  "sambung ke NAS iPhone", "pengurus fail iOS", "zip nyahzip iPhone",
+  "sambung ke NAS iPhone", "klien SMB iPhone", "sambung ke kongsi SMB", "pengurus fail iOS", "zip nyahzip iPhone",
   "imbas dokumen ke PDF", "lindungi kata laluan perkongsian", "sekat peranti",
   "perkongsian fail rangkaian tempatan", "Everdisk Premium", "Everdisk sepanjang hayat"
 ]
-tags: ["everdisk", "soalan lazim", "pemacu tanpa wayar", "perkongsian fail", "DLNA", "WebDAV", "FTP", "SFTP", "pemacu rangkaian"]
+tags: ["everdisk", "soalan lazim", "pemacu tanpa wayar", "perkongsian fail", "DLNA", "WebDAV", "SMB", "FTP", "SFTP", "pemacu rangkaian"]
 ---
 
 
@@ -23,15 +24,16 @@ Everdisk menjadikan iPhone atau iPad anda pemacu tanpa wayar yang berkongsi fail
 {{% details title="Apakah itu Everdisk?" closed="true" %}}
 Everdisk ialah aplikasi **pemacu tanpa wayar** untuk iPhone dan iPad. Ia menjadikan peranti anda sebuah hab yang berkongsi fail, foto, video dan muzik yang anda pilih dengan apa sahaja pada rangkaian tempatan anda, dan ia juga menyambung ke pelayan lain supaya anda boleh melihat dan strim fail mereka.<br><br>
 
-Ia menjalankan empat pelayan serentak - **DLNA** untuk TV, **HTTP** untuk pelayar web, **WebDAV** untuk Finder/Windows/Linux, dan **FTP** untuk aplikasi fail - jadi setiap peranti menyambung mengikut caranya sendiri. Tiada akaun dan tiada awan: anda ketik **Mula** dan anda sedia. Ia juga menyertakan pengurus fail, pemain media, galeri foto, imbas dokumen ke PDF, serta zip/nyahzip.
+Ia menjalankan lima pelayan serentak - **DLNA** untuk TV, **HTTP** untuk pelayar web, **WebDAV** untuk Finder/Windows/Linux, **SMB** untuk pemacu rangkaian pada Mac, Windows dan Linux dengan penyulitan pilihan, dan **FTP** untuk aplikasi fail - jadi setiap peranti menyambung mengikut caranya sendiri. Tiada akaun dan tiada awan: anda ketik **Mula** dan anda sedia. Ia juga menyertakan pengurus fail, pemain media, galeri foto, imbas dokumen ke PDF, serta zip/nyahzip.
 {{% /details %}}
 
 {{% details title="Bagaimana Everdisk berfungsi?" closed="true" %}}
-Apabila anda ketik **Mula**, Everdisk menjadikan peranti anda sebuah pelayan pada rangkaian tempatan anda dan berkongsi kandungan yang anda pilih. Empat kaedah sambungan berbeza berjalan serentak supaya peranti yang berbeza boleh menyambung mengikut cara yang mereka gemari:<br><br>
+Apabila anda ketik **Mula**, Everdisk menjadikan peranti anda sebuah pelayan pada rangkaian tempatan anda dan berkongsi kandungan yang anda pilih. Lima kaedah sambungan berbeza berjalan serentak supaya peranti yang berbeza boleh menyambung mengikut cara yang mereka gemari:<br><br>
 
 - **DLNA** - TV pintar dan pemain media menemui peranti anda secara automatik dan memaparkan media anda dengan lakaran kecil.<br>
 - **HTTP** - sesiapa sahaja membuka satu pautan dalam pelayar web untuk melihat dan memuat turun fail anda.<br>
 - **WebDAV** - peranti anda muncul sebagai pemacu rangkaian biasa dalam Finder, Windows atau Linux.<br>
+- **SMB** - pemacu rangkaian untuk Mac, Windows dan Linux, dibina atas perkongsian fail yang sedia ada dalam sistem tersebut; pada Mac ia muncul dengan sendirinya dalam bar sisi Finder. Ia satu-satunya sambungan yang boleh anda sulitkan (penyulitan SMB3, AES).<br>
 - **FTP** - aplikasi fail dan alat mahir menyambung melalui FTP.<br><br>
 
 Segala-galanya berlaku melalui Wi-Fi tempatan anda (atau kabel USB ke Mac) dan tidak pernah menyentuh internet.
@@ -106,6 +108,29 @@ Gunakan alamat **Komputer (WebDAV)**.<br><br>
 Masukkan log masuk dan kata laluan jika anda menetapkannya.
 {{% /details %}}
 
+{{% details title="Bagaimana saya sambung melalui SMB?" closed="true" %}}
+1. Dalam **Tetapan → Berkongsi → Sambungan**, pastikan **Komputer (Lanjutan)** (sambungan SMB) dihidupkan, kemudian **Mula**.<br>
+2. Salin alamat **SMB** yang ditunjukkan pada skrin Berkongsi - ia kelihatan seperti `smb://192.168.1.20:4455/Share`.<br>
+3. Sambung dari komputer anda:<br>
+&nbsp;&nbsp;- **Mac:** peranti anda muncul dengan sendirinya dalam **bar sisi Finder** di bawah **Locations** (Network) - klik sahaja padanya. Untuk menyambung secara manual, pilih **Go → Connect to Server** (**⌘K**) dan masukkan alamat itu.<br>
+&nbsp;&nbsp;- **Windows:** dalam File Explorer, klik kanan **This PC** dan pilih **Map network drive**, kemudian masukkan `\\<address>\Share`, atau taip alamat `smb://` dalam bar alamat.<br>
+&nbsp;&nbsp;- **Linux:** dalam pengurus fail anda pilih **Connect to Server** dan masukkan alamat itu.<br>
+4. Masukkan log masuk dan kata laluan anda jika anda menetapkannya, jika tidak sambung sebagai tetamu.<br><br>
+
+Kongsi itu dinamakan **Share**. Dengan **Penyuntingan Fail** dihidupkan anda boleh menyalin fail ke dua-dua arah; dengan ia dimatikan pemacu itu baca sahaja.
+{{% /details %}}
+
+{{% details title="Boleh saya sulitkan sambungan SMB saya?" closed="true" %}}
+Ya - dan SMB ialah sambungan **satu-satunya** yang boleh disulitkan oleh Everdisk. Dalam **Tetapan → Berkongsi**, hidupkan **Wajibkan penyulitan SMB** untuk melindungi setiap pemindahan SMB dengan **penyulitan SMB3 (AES)**, supaya tiada sesiapa lain pada rangkaian yang sama boleh membaca fail anda. Ini pilihan yang bagus pada Wi-Fi yang anda tidak percayai sepenuhnya.<br><br>
+
+Beberapa keperluan:<br>
+- Anda mesti menetapkan **log masuk dan kata laluan** dahulu - sambungan yang disulitkan tidak boleh tanpa nama.<br>
+- Klien mesti menyokong **SMB3** - Finder pada Mac moden, atau **Windows 10 dan lebih baharu**.<br>
+- Perubahan berkuat kuasa pada kali seterusnya anda mula berkongsi.<br><br>
+
+Penyulitan SMB ialah sebahagian daripada pembelian **Premium Sepanjang Hayat** sekali sahaja.
+{{% /details %}}
+
 {{% details title="Adakah Everdisk berfungsi tanpa Wi-Fi?" closed="true" %}}
 Ya, dengan **Mac** dan sebatang kabel. Palamkan iPhone atau iPad anda ke Mac, ketik **Trust** jika ditanya, dan ketik **Mula**. Alamat **Sambungan Kabel** yang berakhir dengan `.local` muncul pada skrin Berkongsi; sambung kepadanya dari Finder (**⌘K**). Ini berfungsi tanpa Wi-Fi langsung - hebat di dalam kapal terbang, di hotel, atau pada rangkaian terkunci - dan ia lebih laju serta lebih peribadi daripada Wi-Fi.
 {{% /details %}}
@@ -122,19 +147,20 @@ iPhone atau iPad anda ialah pelayan, dan iOS tidak membenarkan aplikasi mengekal
 **Kabel USB ke Mac** lebih laju dan lebih boleh dipercayai daripada Wi-Fi, kerana data pergi terus melalui kabel. Ia juga pilihan paling peribadi, kerana tiada apa-apa melalui penghala anda atau internet. Gunakannya untuk pemindahan foto dan video yang besar.
 {{% /details %}}
 
-{{% details title="Apakah perbezaan antara empat pelayan (DLNA, HTTP, WebDAV, FTP)?" closed="true" %}}
+{{% details title="Apakah perbezaan antara lima pelayan (DLNA, HTTP, WebDAV, SMB, FTP)?" closed="true" %}}
 Kesemuanya berkongsi kandungan yang sama tetapi sesuai untuk peranti yang berbeza:<br><br>
 
 - **TV & Pusat Media (DLNA)** - untuk TV pintar dan pemain media.<br>
 - **Pelayar (HTTP)** - untuk mana-mana pelayar web, tanpa perlu pemasangan.<br>
 - **Komputer (WebDAV)** - menjadikan peranti anda pemacu rangkaian dalam Finder/Windows/Linux.<br>
+- **Komputer (Lanjutan)** (SMB) - pemacu rangkaian untuk Mac, Windows dan Linux; pada Mac ia muncul dengan sendirinya dalam bar sisi Finder, atau sambung secara manual dengan alamat `smb://`. Ia satu-satunya sambungan yang boleh anda sulitkan (SMB3, AES).<br>
 - **Aplikasi & Peranti Lain (FTP)** - untuk aplikasi fail dan alat mahir.<br><br>
 
 Anda boleh hidup atau matikan mana-mana daripadanya dalam **Tetapan → Berkongsi → Sambungan**.
 {{% /details %}}
 
 {{% details title="Bagaimana saya lindungi fail saya dengan kata laluan?" closed="true" %}}
-Pergi ke **Tetapan → Berkongsi → Capaian** dan tetapkan **Log Masuk** dan **Kata Laluan**. Sambungan Pelayar, Komputer dan Aplikasi Lain kemudian akan meminta butiran tersebut. Biarkan kedua-duanya kosong untuk capaian terbuka.<br><br>
+Pergi ke **Tetapan → Berkongsi → Capaian** dan tetapkan **Log Masuk** dan **Kata Laluan**. Sambungan Pelayar, Komputer, Komputer (Lanjutan) dan Aplikasi Lain kemudian akan meminta butiran tersebut. Biarkan kedua-duanya kosong untuk capaian terbuka.<br><br>
 
 Nota: sambungan **DLNA** (TV) tidak boleh dilindungi kata laluan, jadi ia terbuka kepada sesiapa sahaja pada Wi-Fi yang sama semasa ia dihidupkan. Matikannya jika anda hanya mahu sambungan yang dilindungi.
 {{% /details %}}
@@ -156,15 +182,15 @@ Ya. Everdisk berkongsi hanya melalui **rangkaian tempatan** anda - tiada apa-apa
 {{% /details %}}
 
 {{% details title="Boleh Everdisk sambung ke NAS atau pelayan lain saya?" closed="true" %}}
-Ya. Tab **Peranti** menyambung **ke** pelayan lain pada rangkaian anda. Ketik **Sambungan Baharu** dan pilih **DLNA / UPnP**, **WebDAV**, **FTP** atau **SFTP**, masukkan alamat dan sebarang log masuk, dan anda boleh melihat, strim dan memuat turun. Pada pelayan WebDAV, FTP dan SFTP anda juga boleh cipta folder, muat naik, namakan semula, pindah dan padam. Pelayan DLNA adalah baca sahaja.
+Ya. Tab **Peranti** menyambung **ke** pelayan lain pada rangkaian anda. Ketik **Sambungan Baharu** dan pilih **DLNA / UPnP**, **WebDAV**, **FTP**, **SFTP** atau **SMB** (untuk Mac, PC Windows, mesin Linux dan pemacu NAS yang berkongsi folder melalui SMB / CIFS), masukkan alamat dan sebarang log masuk, dan anda boleh melihat, strim dan memuat turun. Pada pelayan WebDAV, FTP, SFTP dan SMB anda juga boleh cipta folder, muat naik, namakan semula, pindah dan padam. Pelayan DLNA adalah baca sahaja.
 {{% /details %}}
 
 {{% details title="Boleh saya sambung ke storan awan seperti Google Drive atau Dropbox?" closed="true" %}}
-Everdisk tidak log masuk ke akaun awan seperti iCloud Drive, Google Drive, Dropbox atau OneDrive. Ia menyambung hanya ke pelayan **rangkaian tempatan dan yang dialamatkan terus** (DLNA, WebDAV, FTP, SFTP). Perkhidmatan awan hanya boleh dicapai jika ia menawarkan alamat **WebDAV** yang boleh anda taip ke dalam sambungan WebDAV baharu.
+Everdisk tidak log masuk ke akaun awan seperti iCloud Drive, Google Drive, Dropbox atau OneDrive. Ia menyambung hanya ke pelayan **rangkaian tempatan dan yang dialamatkan terus** (DLNA, WebDAV, FTP, SFTP, SMB). Perkhidmatan awan hanya boleh dicapai jika ia menawarkan alamat **WebDAV** yang boleh anda taip ke dalam sambungan WebDAV baharu.
 {{% /details %}}
 
 {{% details title="Untuk apa tab Peranti?" closed="true" %}}
-Ia adalah sisi klien Everdisk: **Sambungan** menyenaraikan pelayan yang anda simpan, dan **Peranti yang tersedia** menyenaraikan pelayan yang ditemui secara automatik pada rangkaian anda. Ketik satu untuk melihat, strim atau memuat turun failnya, atau ketik **Sambungan Baharu** untuk menambah pelayan DLNA, WebDAV, FTP atau SFTP secara manual.
+Ia adalah sisi klien Everdisk: **Sambungan** menyenaraikan pelayan yang anda simpan, dan **Peranti yang tersedia** menyenaraikan pelayan yang ditemui secara automatik pada rangkaian anda. Ketik satu untuk melihat, strim atau memuat turun failnya, atau ketik **Sambungan Baharu** untuk menambah pelayan DLNA, WebDAV, FTP, SFTP atau SMB secara manual.
 {{% /details %}}
 
 {{% details title="Bagaimana saya muat turun fail dari pelayan ke peranti saya?" closed="true" %}}
@@ -256,13 +282,13 @@ Everdisk memberi peranti anda nama dan avatar yang mesra secara automatik, dan a
 {{% /details %}}
 
 {{% details title="Boleh saya tukar port sambungan?" closed="true" %}}
-Lalainya ialah **HTTP 80**, **WebDAV 8080** dan **FTP 2121** (DLNA memilih portnya secara automatik). Anda boleh melihatnya secara percuma, dan menetapkan **port tersuai** adalah ciri Premium (**Lanjutan** dalam Tetapan → Berkongsi).
+Lalainya ialah **HTTP 80**, **WebDAV 8080**, **SMB 4455** dan **FTP 2121** (DLNA memilih portnya secara automatik). Anda boleh melihatnya secara percuma, dan menetapkan **port tersuai** adalah ciri Premium (**Lanjutan** dalam Tetapan → Berkongsi).
 {{% /details %}}
 
 {{% details title="Adakah Everdisk percuma, dan apa yang ditambah Premium?" closed="true" %}}
-Everdisk boleh dimuat turun secara **percuma**. Anda boleh menjalankan keempat-empat pelayan, lindungi capaian dengan kata laluan, kongsi seluruh pustaka Foto dan Muzik anda, gunakan pengurus fail, imbas ke PDF, dan sambung ke pelayan lain. Versi percuma berkongsi sehingga **5 folder** dan menyimpan sehingga **10 sambungan pelayan**.<br><br>
+Everdisk boleh dimuat turun secara **percuma**. Anda boleh menjalankan kelima-lima pelayan, lindungi capaian dengan kata laluan, kongsi seluruh pustaka Foto dan Muzik anda, gunakan pengurus fail, imbas ke PDF, dan sambung ke pelayan lain. Versi percuma berkongsi sehingga **5 folder** dan menyimpan sehingga **10 sambungan pelayan**.<br><br>
 
-Pembelian **Premium Sepanjang Hayat** sekali sahaja (bukan langganan) menambah: **Folder Tanpa Had**, **Sambungan Tanpa Had**, **Penukaran Foto & Video** (kualiti selain Asal), **Port Tersuai**, **Mula Kongsi Automatik**, dan **Penyesuaian Peranti**.
+Pembelian **Premium Sepanjang Hayat** sekali sahaja (bukan langganan) menambah: **Folder Tanpa Had**, **Sambungan Tanpa Had**, **Penukaran Foto & Video** (kualiti selain Asal), **Penyulitan SMB** (SMB3/AES), **Port Tersuai**, **Mula Kongsi Automatik**, dan **Penyesuaian Peranti**.
 {{% /details %}}
 
 {{% details title="Adakah Premium satu langganan? Adakah ia berfungsi pada peranti lain saya?" closed="true" %}}

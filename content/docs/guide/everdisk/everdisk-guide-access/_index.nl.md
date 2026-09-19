@@ -1,8 +1,8 @@
 ---
 title: "Toegang en privacy"
 date: 2026-08-20
-description: "Houd je delen met Everdisk veilig: bescherm de toegang met een login en wachtwoord, bepaal met Bestanden bewerken of verbonden apparaten mogen uploaden, hernoemen en verwijderen, blokkeer onbekende apparaten, kies tussen prullenbak en definitief verwijderen en begrijp waarom alles op je lokale netwerk blijft."
-keywords: ["Everdisk wachtwoordbeveiliging", "schakelaar bestanden bewerken", "apparaat blokkeren", "geblokkeerde apparaten", "bestanden definitief verwijderen", "alleen lokaal netwerk", "privé bestanden delen", "DLNA geen wachtwoord", "netwerkveiligheid"]
+description: "Houd je delen met Everdisk veilig: bescherm de toegang met een login en wachtwoord, versleutel de SMB-verbinding met SMB3 (AES), bepaal met Bestanden bewerken of verbonden apparaten mogen uploaden, hernoemen en verwijderen, blokkeer onbekende apparaten, kies tussen prullenbak en definitief verwijderen en begrijp waarom alles op je lokale netwerk blijft."
+keywords: ["Everdisk wachtwoordbeveiliging", "SMB-versleuteling", "SMB3 AES-versleuteling", "schakelaar bestanden bewerken", "apparaat blokkeren", "geblokkeerde apparaten", "bestanden definitief verwijderen", "alleen lokaal netwerk", "privé bestanden delen", "DLNA geen wachtwoord", "netwerkveiligheid"]
 tags: ["everdisk", "handleiding", "toegang", "privacy", "beveiliging"]
 readingTime: 8
 ---
@@ -16,11 +16,23 @@ Standaard kan iedereen op hetzelfde netwerk die je adres heeft je gedeelde besta
 
 1. Ga naar **Instellingen → Delen → Toegang**.
 2. Voer een **Login** en een **Wachtwoord** in.
-3. Nu vragen de verbindingen **Browser (HTTP)**, **Computer (WebDAV)** en **Andere apps en apparaten (FTP)** allemaal om die gegevens voordat ze je bestanden tonen.
+3. Nu vragen de verbindingen **Browser (HTTP)**, **Computer (WebDAV)**, **Computer (geavanceerd) (SMB)** en **Andere apps en apparaten (FTP)** allemaal om die gegevens voordat ze je bestanden tonen.
 
 Laat beide velden leeg voor open toegang. Je wachtwoord wordt veilig opgeslagen in de sleutelhanger van het apparaat.
 
 > **DLNA is altijd open.** De verbinding Tv en mediacenter (DLNA) kan niet met een wachtwoord worden beveiligd, dus zodra die aan staat, kan elk apparaat op hetzelfde Wi-Fi je gedeelde media doorbladeren. Zet hem uit als je alleen beveiligde verbindingen wilt, en deel alleen op netwerken die je vertrouwt.
+
+## Versleutel de SMB-verbinding (SMB3 / AES)
+
+Een login en wachtwoord bepalen **wie** verbinding mag maken, maar de gegevens zelf reizen op de meeste verbindingen nog steeds onversleuteld. **SMB is de enige verbinding die Everdisk kan versleutelen**, waardoor elke overdracht wordt versleuteld zodat niemand anders op hetzelfde netwerk hem kan lezen.
+
+Zo zet je het aan:
+
+1. Stel een **Login** en **Wachtwoord** in zoals hierboven - versleutelde verbindingen kunnen niet anoniem zijn.
+2. Ga naar **Instellingen → Delen** en zet **SMB-versleuteling vereisen** aan.
+3. **Stop en Start** het delen opnieuw zodat de wijziging van kracht wordt.
+
+Elke SMB-overdracht wordt dan beschermd met **SMB3-versleuteling (AES)**. Het verbindende apparaat moet SMB3 ondersteunen - de Finder op een moderne Mac, of **Windows 10 en later**. Dit is een uitstekende keuze op Wi-Fi die je niet volledig vertrouwt. SMB-versleuteling is een Premium-functie.
 
 ## Bewerken toestaan of blokkeren (Bestanden bewerken)
 

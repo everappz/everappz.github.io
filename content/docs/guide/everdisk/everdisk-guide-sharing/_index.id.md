@@ -1,7 +1,7 @@
 ---
 title: "Berbagi"
 date: 2026-08-20
-description: "Pelajari cara kerja berbagi di Everdisk: ketuk Mulai untuk mengubah iPhone atau iPad Anda menjadi drive nirkabel, pilih apa yang ingin dibagikan (file, folder, foto, dan musik), jalankan keempat server (DLNA, HTTP, WebDAV, FTP), baca alamat koneksi, lihat siapa yang terhubung, dan biarkan berbagi tetap berjalan lewat Wi-Fi atau kabel USB."
+description: "Pelajari cara kerja berbagi di Everdisk: ketuk Mulai untuk mengubah iPhone atau iPad Anda menjadi drive nirkabel, pilih apa yang ingin dibagikan (file, folder, foto, dan musik), jalankan kelima server (DLNA, HTTP, WebDAV, SMB, FTP), enkripsi koneksi SMB dengan SMB3 (AES), baca alamat koneksi, lihat siapa yang terhubung, dan biarkan berbagi tetap berjalan lewat Wi-Fi atau kabel USB."
 keywords: ["berbagi Everdisk", "drive nirkabel iPhone", "mulai berbagi", "berbagi file iPhone", "berbagi foto lewat jaringan", "DLNA HTTP WebDAV FTP", "apa yang dibagikan", "cara terhubung", "biarkan aplikasi terbuka", "berbagi lewat Wi-Fi atau kabel USB"]
 tags: ["everdisk", "panduan", "berbagi"]
 readingTime: 9
@@ -17,7 +17,7 @@ Di tengah layar Berbagi terdapat tombol bulat besar.
 - Ketuk **Mulai** untuk mengaktifkan semua server yang Anda nyalakan sekaligus. Tombol akan menampilkan **Memulai...**, lalu berubah menjadi **Berhenti** setelah berbagi aktif.
 - Ketuk **Berhenti** untuk mematikan semuanya kembali. Perangkat yang terhubung akan terputus.
 
-Selama berbagi berjalan, file, foto, dan musik pilihan Anda tersedia untuk perangkat mana pun di jaringan yang sama yang terhubung lewat salah satu dari empat metode di bawah ini.
+Selama berbagi berjalan, file, foto, dan musik pilihan Anda tersedia untuk perangkat mana pun di jaringan yang sama yang terhubung lewat salah satu dari lima metode di bawah ini.
 
 > Berbagi hanya berjalan selama aplikasi terbuka. Lihat **Biarkan aplikasi tetap terbuka** menjelang akhir halaman ini untuk memahami alasannya, dan cara menjaga transfer besar tetap berjalan.
 
@@ -44,13 +44,14 @@ Sebelum mulai, ketuk header **Apa yang Dibagikan** untuk membuka tiga grup. Anda
 
 Jika Anda mencoba memulai tanpa memilih apa pun, Everdisk menampilkan catatan **Tidak Ada yang Dibagikan**. Jika Anda mengubah apa yang dibagikan saat berbagi sedang berjalan, **Hentikan lalu Mulai lagi** untuk menerapkan perubahannya.
 
-## Empat server
+## Lima server
 
-Everdisk membagikan konten yang sama dalam empat cara sekaligus. Masing-masing dirancang untuk jenis perangkat yang berbeda, dan setiap server bisa dinyalakan atau dimatikan di **Pengaturan → Berbagi → Koneksi**. Secara default keempatnya aktif.
+Everdisk membagikan konten yang sama dalam lima cara sekaligus. Masing-masing dirancang untuk jenis perangkat yang berbeda, dan setiap server bisa dinyalakan atau dimatikan di **Pengaturan → Berbagi → Koneksi**. Secara default kelimanya aktif.
 
 - **TV & Pusat Media (DLNA)** - untuk smart TV dan media player. Perangkat ini menemukan perangkat Anda sendiri dan menampilkan foto, video, serta musik Anda, lengkap dengan thumbnail pratinjau.
 - **Peramban (HTTP)** - untuk ponsel, tablet, atau komputer apa pun. Orang lain cukup membuka tautan di peramban web untuk menelusuri dan mengunduh file Anda. Tidak perlu instalasi apa pun.
 - **Komputer (WebDAV)** - untuk Mac, PC Windows, atau mesin Linux. Perangkat Anda muncul sebagai network drive biasa sehingga Anda bisa menyeret file ke dua arah.
+- **Komputer (Lanjutan) (SMB)** - network drive untuk Mac, Windows, dan Linux. Di Mac perangkat Anda muncul dengan sendirinya di bilah samping Finder; di Windows, buka lewat File Explorer dengan alamat `smb://`. Ini satu-satunya koneksi yang bisa Anda **enkripsi**, dengan enkripsi SMB3 (AES).
 - **Aplikasi & Perangkat Lain (FTP)** - untuk aplikasi file dan pengguna mahir yang memakai FTP.
 
 Untuk petunjuk koneksi langkah demi langkah pada tiap jenis, lihat [Hubungkan Perangkat Anda](/docs/guide/everdisk/everdisk-guide-connect).

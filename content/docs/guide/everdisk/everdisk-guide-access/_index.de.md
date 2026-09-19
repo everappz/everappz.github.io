@@ -1,8 +1,8 @@
 ---
 title: "Zugriff & Privatsphare"
 date: 2026-08-20
-description: "Halte dein Teilen in Everdisk sicher: schutze den Zugriff mit Login und Passwort, steuere mit der Dateibearbeitung, ob verbundene Gerate hochladen, umbenennen und loschen durfen, blockiere unbekannte Gerate, wahle zwischen Papierkorb und endgultigem Loschen und verstehe, warum alles in deinem lokalen Netzwerk bleibt."
-keywords: ["Everdisk Passwortschutz", "Dateibearbeitung Schalter", "Gerat blockieren", "blockierte Gerate", "Dateien endgultig loschen", "nur lokales Netzwerk", "privates Teilen von Dateien", "DLNA kein Passwort", "Netzwerksicherheit"]
+description: "Halte dein Teilen in Everdisk sicher: schutze den Zugriff mit Login und Passwort, verschlussele die SMB-Verbindung mit SMB3 (AES), steuere mit der Dateibearbeitung, ob verbundene Gerate hochladen, umbenennen und loschen durfen, blockiere unbekannte Gerate, wahle zwischen Papierkorb und endgultigem Loschen und verstehe, warum alles in deinem lokalen Netzwerk bleibt."
+keywords: ["Everdisk Passwortschutz", "SMB-Verschlusselung", "SMB3 AES Verschlusselung", "Dateibearbeitung Schalter", "Gerat blockieren", "blockierte Gerate", "Dateien endgultig loschen", "nur lokales Netzwerk", "privates Teilen von Dateien", "DLNA kein Passwort", "Netzwerksicherheit"]
 tags: ["everdisk", "guide", "access", "privacy", "security"]
 readingTime: 8
 ---
@@ -16,11 +16,23 @@ Standardmassig kann jeder im selben Netzwerk, der deine Adresse hat, deine getei
 
 1. Gehe zu **Einstellungen > Teilen > Zugriff**.
 2. Gib einen **Login** und ein **Passwort** ein.
-3. Nun fragen die Verbindungen **Browser (HTTP)**, **Computer (WebDAV)** und **Andere Apps & Gerate (FTP)** alle nach diesen Angaben, bevor sie deine Dateien anzeigen.
+3. Nun fragen die Verbindungen **Browser (HTTP)**, **Computer (WebDAV)**, **Computer (Erweitert) (SMB)** und **Andere Apps & Gerate (FTP)** alle nach diesen Angaben, bevor sie deine Dateien anzeigen.
 
 Lasse beide Felder fur offenen Zugriff leer. Dein Passwort wird sicher im Schlusselbund des Gerats gespeichert.
 
 > **DLNA ist immer offen.** Die Verbindung TV & Media Center (DLNA) lasst sich nicht mit einem Passwort schutzen, daher kann jedes Gerat im selben Wi-Fi deine geteilten Medien durchsuchen, sobald sie aktiviert ist. Schalte sie aus, wenn du nur geschutzte Verbindungen mochtest, und teile nur in Netzwerken, denen du vertraust.
+
+## Die SMB-Verbindung verschlusseln (SMB3 / AES)
+
+Ein Login und ein Passwort steuern, **wer** sich verbinden kann, aber die Daten selbst wandern bei den meisten Verbindungen weiterhin unverschlusselt. **SMB ist die einzige Verbindung, die Everdisk verschlusseln kann** und die jede Ubertragung so verschlusselt, dass niemand sonst im selben Netzwerk sie lesen kann.
+
+So aktivierst du sie:
+
+1. Lege wie oben einen **Login** und ein **Passwort** fest - verschlusselte Verbindungen konnen nicht anonym sein.
+2. Gehe zu **Einstellungen > Teilen** und aktiviere **SMB-Verschlüsselung anfordern**.
+3. **Stoppe und starte** das Teilen erneut, damit die Anderung wirksam wird.
+
+Jede SMB-Ubertragung wird dann mit **SMB3-Verschlusselung (AES)** geschutzt. Das verbindende Gerat muss SMB3 unterstutzen - der Finder auf einem modernen Mac oder **Windows 10 und neuer**. Das ist eine gute Wahl in Wi-Fi, dem du nicht voll vertraust. SMB-Verschlusselung ist eine Premium-Funktion.
 
 ## Bearbeiten erlauben oder verbieten (Dateibearbeitung)
 

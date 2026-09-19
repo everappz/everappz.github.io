@@ -12,7 +12,7 @@ Everdisk odtwarza Twoje multimedia na urządzeniu i udostępnia w sieci całą b
 
 ## Udostępnianie całej biblioteki zdjęć i muzyki
 
-Na ekranie [Udostępnianie](/docs/guide/everdisk/everdisk-guide-sharing), w sekcji **Co udostępnić**, możesz włączyć **Zezwalaj na dostęp do całej biblioteki zdjęć** oraz **Zezwalaj na dostęp do całej biblioteki muzycznej**. Gdy udostępnianie ruszy, każdy album i utwór stanie się dostępny przez wszystkie cztery serwery - na telewizorze, w przeglądarce, na dysku sieciowym lub w aplikacji do plików. Możesz też ręcznie wybrać tylko określone zdjęcia, filmy lub utwory za pomocą **Dodaj zdjęcia** i **Dodaj utwory**.
+Na ekranie [Udostępnianie](/docs/guide/everdisk/everdisk-guide-sharing), w sekcji **Co udostępnić**, możesz włączyć **Zezwalaj na dostęp do całej biblioteki zdjęć** oraz **Zezwalaj na dostęp do całej biblioteki muzycznej**. Gdy udostępnianie ruszy, każdy album i utwór stanie się dostępny przez wszystkie pięć serwerów - na telewizorze, w przeglądarce, na dysku sieciowym (WebDAV lub SMB) lub w aplikacji do plików. Możesz też ręcznie wybrać tylko określone zdjęcia, filmy lub utwory za pomocą **Dodaj zdjęcia** i **Dodaj utwory**.
 
 Chronionych (DRM) piosenek i utworów przechowywanych wyłącznie w chmurze nie można udostępnić.
 
@@ -54,7 +54,7 @@ Gdy udostępniasz zdjęcia i filmy, Everdisk może wysyłać je dokładnie takim
 Pamiętaj:
 
 - **Oryginalny jest najszybszy** - plik jest wysyłany taki, jaki jest, bez konwersji.
-- Każde inne ustawienie **konwertuje w locie**, co jest wolniejsze i zużywa więcej baterii, zwłaszcza przez WebDAV i FTP.
+- Każde inne ustawienie **konwertuje w locie**, co jest wolniejsze i zużywa więcej baterii, zwłaszcza przez WebDAV, SMB i FTP.
 - Najpierw wypróbuj Oryginalny; przełączaj się na Najbardziej zgodny tylko wtedy, gdy konkretny telewizor lub przeglądarka nie może otworzyć pliku.
 - **Muzyka** jest zawsze udostępniana w oryginalnej postaci - nie ma ustawień jakości muzyki.
 

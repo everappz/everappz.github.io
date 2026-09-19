@@ -12,7 +12,7 @@ Everdisk, medyanızı cihazda oynatır ve tüm fotoğraf ve müzik kitaplığın
 
 ## Tüm fotoğraf ve müzik kitaplığınızı paylaşın
 
-[Paylaşım](/docs/guide/everdisk/everdisk-guide-sharing) ekranında, **Ne Paylaşılır** altında, **Tüm Fotoğraf Kitaplığına erişime izin ver**i ve **Tüm Müzik Kitaplığına erişime izin ver**i açabilirsiniz. Paylaşım başladığında her albüm ve parça dört sunucunun tümü üzerinden erişilebilir olur - bir TV'de, bir tarayıcıda, bir ağ sürücüsünde ya da bir dosya uygulamasında. Ayrıca **Fotoğraf Ekle** ve **Parça Ekle** ile yalnızca belirli fotoğrafları, videoları ya da parçaları elle seçebilirsiniz.
+[Paylaşım](/docs/guide/everdisk/everdisk-guide-sharing) ekranında, **Ne Paylaşılır** altında, **Tüm Fotoğraf Kitaplığına erişime izin ver**i ve **Tüm Müzik Kitaplığına erişime izin ver**i açabilirsiniz. Paylaşım başladığında her albüm ve parça beş sunucunun tümü üzerinden erişilebilir olur - bir TV'de, bir tarayıcıda, bir ağ sürücüsünde (WebDAV ya da SMB) ya da bir dosya uygulamasında. Ayrıca **Fotoğraf Ekle** ve **Parça Ekle** ile yalnızca belirli fotoğrafları, videoları ya da parçaları elle seçebilirsiniz.
 
 Korumalı (DRM) şarkılar ve yalnızca bulutta saklanan parçalar paylaşılamaz.
 
@@ -54,7 +54,7 @@ Fotoğrafları ve videoları paylaştığınızda, Everdisk bunları tam olduğu
 Şunları aklınızda bulundurun:
 
 - **En hızlısı Orijinaldir** - dosya, hiçbir dönüştürme olmadan olduğu gibi gönderilir.
-- Diğer herhangi bir ayar **anında dönüştürür**; bu daha yavaştır ve özellikle WebDAV ile FTP üzerinde daha fazla pil kullanır.
+- Diğer herhangi bir ayar **anında dönüştürür**; bu daha yavaştır ve özellikle WebDAV, SMB ile FTP üzerinde daha fazla pil kullanır.
 - Önce Orijinali deneyin; yalnızca belirli bir TV ya da tarayıcı bir dosyayı açamıyorsa En Uyumlu'ya geçin.
 - **Müzik** her zaman orijinal biçiminde paylaşılır - müzik kalitesi ayarı yoktur.
 

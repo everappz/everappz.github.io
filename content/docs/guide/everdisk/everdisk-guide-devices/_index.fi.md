@@ -1,14 +1,14 @@
 ---
 title: "Yhdista palvelimiin"
 date: 2026-08-20
-description: "Kayta Everdiskin Laitteet-valilehtea yhdistaaksesi verkkosi muihin palvelimiin. Lisaa ja selaa DLNA-, WebDAV-, FTP- ja SFTP-palvelimia ja NAS-asemia, suoratoista aanta ja videota, lataa tiedostoja ja luo, laheta, nimea uudelleen, siirra tai poista palvelimilla, jotka sen sallivat."
-keywords: ["Everdisk Laitteet-valilehti", "yhdista NAS", "DLNA asiakas iPhone", "WebDAV asiakas iPhone", "FTP asiakas iPhone", "SFTP asiakas iPhone", "selaa verkkopalvelinta", "suoratoisto NASsta", "lataa palvelimelta", "yhdista pilvi WebDAV"]
+description: "Kayta Everdiskin Laitteet-valilehtea yhdistaaksesi verkkosi muihin palvelimiin. Lisaa ja selaa DLNA-, WebDAV-, FTP-, SFTP- ja SMB-palvelimia ja NAS-asemia, suoratoista aanta ja videota, lataa tiedostoja ja luo, laheta, nimea uudelleen, siirra tai poista palvelimilla, jotka sen sallivat."
+keywords: ["Everdisk Laitteet-valilehti", "yhdista NAS", "DLNA asiakas iPhone", "WebDAV asiakas iPhone", "FTP asiakas iPhone", "SFTP asiakas iPhone", "SMB asiakas iPhone", "yhdista SMB-jakoon", "selaa verkkopalvelinta", "suoratoisto NASsta", "lataa palvelimelta", "yhdista pilvi WebDAV"]
 tags: ["everdisk", "guide", "devices", "connections"]
 readingTime: 9
 ---
 
 
-Everdisk ei ole vain langaton asema - se on myos asiakas verkkosi muille laitteille. **Laitteet**-valilehdella voit yhdistya **DLNA**-, **WebDAV**-, **FTP**- ja **SFTP**-palvelimiin, mukaan lukien NAS-asemat ja mediapalvelimet, ja sitten selata, suoratoistaa ja ladata niiden tiedostoja.
+Everdisk ei ole vain langaton asema - se on myos asiakas verkkosi muille laitteille. **Laitteet**-valilehdella voit yhdistya **DLNA**-, **WebDAV**-, **FTP**-, **SFTP**- ja **SMB**-palvelimiin, mukaan lukien Macit, Windows-tietokoneet, Linux-koneet, NAS-asemat ja mediapalvelimet, ja sitten selata, suoratoistaa ja ladata niiden tiedostoja.
 
 ## Laitteet-naytto
 
@@ -27,6 +27,7 @@ Napauta **Uusi yhteys** ja valitse palvelintyyppi, johon haluat paasta:
 - **WebDAV** - yhdisty tiedostopalvelimiin, verkkolevyihin ja pilvilevyihin, jotka tukevat WebDAVia. Luku ja kirjoitus, kun palvelin sen sallii.
 - **FTP** - yleinen reitittimissa, verkkolevyissa ja verkkohotelleissa. Oletusportti on 21 (990 suojatulle FTPS:lle); voit asettaa mukautetun portin osoitteeseen, esimerkiksi `ftp://host:2121`. Jata kayttajatunnus ja salasana tyhjiksi nimetonta paasya varten.
 - **SFTP** - yhdisty turvallisesti SSH:n kautta. Oletusportti on 22; kayta tarvittaessa mukautettua porttia osoitteessa, esimerkiksi `sftp://host:2222`.
+- **SMB** - yhdista Maceihin, Windows-tietokoneisiin, Linux-palvelimiin ja verkkolevyihin (NAS), jotka jakavat kansioita **SMB / CIFS** -protokollalla. Syota osoite kuten `smb://server-address/share-name/` (esimerkkeja: `smb://local-server-name/share-name/folder-path`, `smb://192.168.1.105/share-name/folder-path`, `smb://remote-server.com`). SMB lisaa kaksi valinnaista kenttaa: **Tyoryhma**-nimen seka **Protokollaversion**, jonka voit jattaa asetukseen **Automaattinen** tai pakottaa tilaan **SMB1** tai **SMB2**. Jos tiedostot tai kansiot, joissa on erikoismerkkeja, eivat aukea, kokeile vaihtaa version tilaan **SMB1**.
 
 > Everdisk yhdistyy vain naihin paikallisverkon ja suoraan osoitettaviin protokolliin. Se ei kirjaudu pilvitileihin kuten Google Drive tai Dropbox. Pilvilevy on tavoitettavissa vain, jos kyseinen palvelu tarjoaa **WebDAV**-osoitteen, jonka voit syottaa.
 
@@ -53,7 +54,7 @@ Kun yhteys on muodostettu, napauta palvelinta avataksesi sen:
 
 ## Muuta tiedostoja palvelimella
 
-Palvelimilla, jotka sallivat kirjoituksen - **WebDAV, FTP ja SFTP** - voit myos hallita tiedostoja:
+Palvelimilla, jotka sallivat kirjoituksen - **WebDAV, FTP, SFTP ja SMB** - voit myos hallita tiedostoja:
 
 - **Uusi kansio**
 - **Laheta tiedostoja** laitteeltasi

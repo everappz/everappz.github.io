@@ -1,14 +1,14 @@
 ---
 title: "Terhubung ke Server"
 date: 2026-08-20
-description: "Gunakan tab Perangkat di Everdisk untuk terhubung ke server lain di jaringan Anda. Tambahkan dan telusuri server DLNA, WebDAV, FTP, dan SFTP serta drive NAS, streaming audio dan video, unduh file, dan buat, unggah, ganti nama, pindahkan, atau hapus di server yang mengizinkannya."
-keywords: ["tab Perangkat Everdisk", "hubungkan ke NAS", "klien DLNA iPhone", "klien WebDAV iPhone", "klien FTP iPhone", "klien SFTP iPhone", "telusuri server jaringan", "streaming dari NAS", "unduh dari server", "hubungkan cloud WebDAV"]
+description: "Gunakan tab Perangkat di Everdisk untuk terhubung ke server lain di jaringan Anda. Tambahkan dan telusuri server DLNA, WebDAV, FTP, SFTP, dan SMB serta drive NAS, streaming audio dan video, unduh file, dan buat, unggah, ganti nama, pindahkan, atau hapus di server yang mengizinkannya."
+keywords: ["tab Perangkat Everdisk", "hubungkan ke NAS", "klien DLNA iPhone", "klien WebDAV iPhone", "klien FTP iPhone", "klien SFTP iPhone", "klien SMB iPhone", "sambung ke share SMB", "telusuri server jaringan", "streaming dari NAS", "unduh dari server", "hubungkan cloud WebDAV"]
 tags: ["everdisk", "panduan", "perangkat", "koneksi"]
 readingTime: 9
 ---
 
 
-Everdisk bukan sekadar drive nirkabel - aplikasi ini juga menjadi klien bagi perangkat lain di jaringan Anda. Tab **Perangkat** memungkinkan Anda terhubung ke server **DLNA**, **WebDAV**, **FTP**, dan **SFTP**, termasuk drive NAS dan media server, lalu menelusuri, streaming, dan mengunduh file mereka.
+Everdisk bukan sekadar drive nirkabel - aplikasi ini juga menjadi klien bagi perangkat lain di jaringan Anda. Tab **Perangkat** memungkinkan Anda terhubung ke server **DLNA**, **WebDAV**, **FTP**, **SFTP**, dan **SMB**, termasuk Mac, PC Windows, mesin Linux, drive NAS, dan media server, lalu menelusuri, streaming, dan mengunduh file mereka.
 
 ## Layar Perangkat
 
@@ -27,6 +27,7 @@ Ketuk **Koneksi Baru** lalu pilih jenis server yang ingin Anda akses:
 - **WebDAV** - terhubung ke server file, drive penyimpanan jaringan, dan cloud drive yang mendukung WebDAV. Bisa baca dan tulis jika server mengizinkan.
 - **FTP** - umum ada di router, drive penyimpanan jaringan, dan web hosting. Port default-nya 21 (990 untuk FTPS yang aman); Anda bisa mengatur port khusus dalam alamat, misalnya `ftp://host:2121`. Biarkan login dan kata sandi kosong untuk akses anonim.
 - **SFTP** - terhubung secara aman melalui SSH. Port default-nya 22; gunakan port khusus dalam alamat jika perlu, misalnya `sftp://host:2222`.
+- **SMB** - sambungkan ke Mac, PC Windows, server Linux, dan penyimpanan jaringan (NAS) yang berbagi folder melalui **SMB / CIFS**. Masukkan alamat seperti `smb://server-address/share-name/` (contoh: `smb://local-server-name/share-name/folder-path`, `smb://192.168.1.105/share-name/folder-path`, `smb://remote-server.com`). SMB menambahkan dua kolom opsional: nama **Workgroup**, dan **Versi protokol** yang bisa Anda biarkan pada **Otomatis** atau paksa ke **SMB1** atau **SMB2**. Jika file atau folder dengan karakter khusus tidak mau terbuka, coba ganti versinya ke **SMB1**.
 
 > Everdisk hanya terhubung ke protokol jaringan lokal dan yang dialamatkan secara langsung ini. Aplikasi ini tidak masuk ke akun cloud seperti Google Drive atau Dropbox. Sebuah cloud drive hanya bisa diakses jika layanan tersebut menyediakan alamat **WebDAV** yang bisa Anda ketik.
 
@@ -36,7 +37,7 @@ Di editor koneksi, isi:
 
 - **Judul** - nama yang mudah dikenali untuk koneksi.
 - **URL / alamat** - alamat server (contoh ditampilkan untuk tiap jenis).
-- **Login** dan **Kata Sandi** - biarkan keduanya kosong jika server mengizinkan akses anonim.
+- **Info Masuk** dan **Kata Sandi** - biarkan keduanya kosong jika server mengizinkan akses anonim.
 
 Untuk WebDAV, Anda bisa mengizinkan sertifikat yang tidak valid jika server Anda memakai sertifikat yang ditandatangani sendiri. Jika identitas server yang aman tidak bisa diverifikasi, Everdisk meminta Anda mengonfirmasi sebelum mempercayainya.
 
@@ -53,7 +54,7 @@ Setelah terhubung, ketuk server untuk membukanya:
 
 ## Mengubah file di server
 
-Pada server yang mengizinkan penulisan - **WebDAV, FTP, dan SFTP** - Anda juga bisa mengelola file:
+Pada server yang mengizinkan penulisan - **WebDAV, FTP, SFTP, dan SMB** - Anda juga bisa mengelola file:
 
 - **Folder Baru**
 - **Unggah File** dari perangkat Anda

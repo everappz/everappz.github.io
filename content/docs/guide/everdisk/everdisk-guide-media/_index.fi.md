@@ -12,7 +12,7 @@ Everdisk toistaa mediasi laitteella ja jakaa koko kuva- ja musiikkikirjastosi ve
 
 ## Jaa koko kuva- ja musiikkikirjastosi
 
-[Jakaminen](/docs/guide/everdisk/everdisk-guide-sharing)-naytolla kohdassa **Mita jaetaan** voit ottaa kayttoon **Salli paasy koko kuvakirjastoon** ja **Salli paasy koko musiikkikirjastoon**. Kun jakaminen alkaa, jokainen albumi ja kappale tulee saataville kaikilla neljalla palvelimella - televisiossa, selaimessa, verkkoasemalla tai tiedostosovelluksessa. Voit myos poimia kasin vain tietyt kuvat, videot tai kappaleet kohdilla **Lisaa kuvia** ja **Lisaa kappaleita**.
+[Jakaminen](/docs/guide/everdisk/everdisk-guide-sharing)-naytolla kohdassa **Mita jaetaan** voit ottaa kayttoon **Salli paasy koko kuvakirjastoon** ja **Salli paasy koko musiikkikirjastoon**. Kun jakaminen alkaa, jokainen albumi ja kappale tulee saataville kaikilla viidella palvelimella - televisiossa, selaimessa, verkkoasemalla (WebDAV tai SMB) tai tiedostosovelluksessa. Voit myos poimia kasin vain tietyt kuvat, videot tai kappaleet kohdilla **Lisaa kuvia** ja **Lisaa kappaleita**.
 
 Suojattuja (DRM) kappaleita ja vain pilveen tallennettuja kappaleita ei voi jakaa.
 
@@ -54,7 +54,7 @@ Kun jaat kuvia ja videoita, Everdisk voi lahettaa ne tarkalleen sellaisina kuin 
 Pida mielessa:
 
 - **Alkuperainen on nopein** - tiedosto lahetetaan sellaisenaan ilman muunnosta.
-- Mika tahansa muu asetus **muuntaa lennossa**, mika on hitaampaa ja kuluttaa enemman akkua, erityisesti WebDAVin ja FTP:n kautta.
+- Mika tahansa muu asetus **muuntaa lennossa**, mika on hitaampaa ja kuluttaa enemman akkua, erityisesti WebDAVin, SMB:n ja FTP:n kautta.
 - Kokeile Alkuperaista ensin; vaihda Yhteensopivin-asetukseen vain, jos tietty TV tai selain ei voi avata tiedostoa.
 - **Musiikki** jaetaan aina alkuperaisessa muodossaan - musiikille ei ole laatuasetuksia.
 

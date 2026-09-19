@@ -1,14 +1,14 @@
 ---
 title: "Mit Servern verbinden"
 date: 2026-08-20
-description: "Nutze den Tab Gerate in Everdisk, um dich mit anderen Servern in deinem Netzwerk zu verbinden. Fuge DLNA-, WebDAV-, FTP- und SFTP-Server sowie NAS-Laufwerke hinzu und durchsuche sie, streame Audio und Video, lade Dateien herunter und erstelle, lade hoch, benenne um, verschiebe oder losche auf Servern, die das erlauben."
-keywords: ["Everdisk Gerate-Tab", "mit NAS verbinden", "DLNA Client iPhone", "WebDAV Client iPhone", "FTP Client iPhone", "SFTP Client iPhone", "Netzwerkserver durchsuchen", "von NAS streamen", "vom Server herunterladen", "Cloud WebDAV verbinden"]
+description: "Nutze den Tab Gerate in Everdisk, um dich mit anderen Servern in deinem Netzwerk zu verbinden. Fuge DLNA-, WebDAV-, FTP-, SFTP- und SMB-Server sowie NAS-Laufwerke hinzu und durchsuche sie, streame Audio und Video, lade Dateien herunter und erstelle, lade hoch, benenne um, verschiebe oder losche auf Servern, die das erlauben."
+keywords: ["Everdisk Gerate-Tab", "mit NAS verbinden", "DLNA Client iPhone", "WebDAV Client iPhone", "FTP Client iPhone", "SFTP Client iPhone", "SMB Client iPhone", "mit SMB-Freigabe verbinden", "Netzwerkserver durchsuchen", "von NAS streamen", "vom Server herunterladen", "Cloud WebDAV verbinden"]
 tags: ["everdisk", "guide", "devices", "connections"]
 readingTime: 9
 ---
 
 
-Everdisk ist nicht nur ein drahtloses Laufwerk - es ist auch ein Client fur die anderen Gerate in deinem Netzwerk. Der Tab **Gerate** ermoglicht es dir, dich mit **DLNA**-, **WebDAV**-, **FTP**- und **SFTP**-Servern zu verbinden, darunter NAS-Laufwerke und Media-Server, und anschliessend deren Dateien zu durchsuchen, zu streamen und herunterzuladen.
+Everdisk ist nicht nur ein drahtloses Laufwerk - es ist auch ein Client fur die anderen Gerate in deinem Netzwerk. Der Tab **Gerate** ermoglicht es dir, dich mit **DLNA**-, **WebDAV**-, **FTP**-, **SFTP**- und **SMB**-Servern zu verbinden, darunter Macs, Windows-PCs, Linux-Rechner, NAS-Laufwerke und Media-Server, und anschliessend deren Dateien zu durchsuchen, zu streamen und herunterzuladen.
 
 ## Der Gerate-Bildschirm
 
@@ -27,6 +27,7 @@ Tippe auf **Neue Verbindung** und wahle den Typ des Servers, den du erreichen mo
 - **WebDAV** - verbinde dich mit Dateiservern, Netzwerkspeicher-Laufwerken und Cloud-Laufwerken, die WebDAV unterstutzen. Lesen und Schreiben, wenn der Server es erlaubt.
 - **FTP** - haufig bei Routern, Netzwerkspeicher-Laufwerken und Webhosting. Der Standardport ist 21 (990 fur sicheres FTPS); du kannst in der Adresse einen eigenen Port angeben, zum Beispiel `ftp://host:2121`. Lasse Login und Passwort fur anonymen Zugriff leer.
 - **SFTP** - verbinde dich sicher uber SSH. Der Standardport ist 22; verwende bei Bedarf einen eigenen Port in der Adresse, zum Beispiel `sftp://host:2222`.
+- **SMB** - verbinde dich mit Macs, Windows-PCs, Linux-Servern und Netzwerkspeichern (NAS), die Ordner uber **SMB / CIFS** freigeben. Gib eine Adresse wie `smb://server-address/share-name/` ein (Beispiele: `smb://local-server-name/share-name/folder-path`, `smb://192.168.1.105/share-name/folder-path`, `smb://remote-server.com`). SMB bietet zwei zusatzliche Felder: einen Namen fur die **Arbeitsgruppe** und eine **Protokollversion**, die du auf **Automatisch** belassen oder auf **SMB1** oder **SMB2** festlegen kannst. Wenn sich Dateien oder Ordner mit Sonderzeichen nicht offnen lassen, versuche, die Version auf **SMB1** umzustellen.
 
 > Everdisk verbindet sich nur mit diesen Protokollen im lokalen Netzwerk und direkt adressierbaren Protokollen. Es meldet sich nicht bei Cloud-Konten wie Google Drive oder Dropbox an. Ein Cloud-Laufwerk ist nur erreichbar, wenn dieser Dienst eine **WebDAV**-Adresse anbietet, die du eingeben kannst.
 
@@ -53,7 +54,7 @@ Sobald du verbunden bist, tippe auf den Server, um ihn zu offnen:
 
 ## Dateien auf einem Server andern
 
-Auf Servern, die das Schreiben erlauben - **WebDAV, FTP und SFTP** - kannst du auch Dateien verwalten:
+Auf Servern, die das Schreiben erlauben - **WebDAV, FTP, SFTP und SMB** - kannst du auch Dateien verwalten:
 
 - **Neuer Ordner**
 - **Dateien hochladen** von deinem Gerat

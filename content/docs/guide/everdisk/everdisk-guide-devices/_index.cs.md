@@ -1,14 +1,14 @@
 ---
 title: "Připojení k serverům"
 date: 2026-08-20
-description: "Pomocí karty Zařízení v Everdisku se připojíte k dalším serverům ve vaší síti. Přidávejte a procházejte servery DLNA, WebDAV, FTP a SFTP a disky NAS, streamujte zvuk i video, stahujte soubory a na serverech, které to umožňují, vytvářejte, nahrávejte, přejmenovávejte, přesouvejte i mažte."
-keywords: ["karta Zařízení Everdisk", "připojení k NAS", "klient DLNA iPhone", "klient WebDAV iPhone", "klient FTP iPhone", "klient SFTP iPhone", "procházení síťového serveru", "streamování z NAS", "stahování ze serveru", "připojení cloud WebDAV"]
+description: "Pomocí karty Zařízení v Everdisku se připojíte k dalším serverům ve vaší síti. Přidávejte a procházejte servery DLNA, WebDAV, FTP, SFTP a SMB a disky NAS, streamujte zvuk i video, stahujte soubory a na serverech, které to umožňují, vytvářejte, nahrávejte, přejmenovávejte, přesouvejte i mažte."
+keywords: ["karta Zařízení Everdisk", "připojení k NAS", "klient DLNA iPhone", "klient WebDAV iPhone", "klient FTP iPhone", "klient SFTP iPhone", "SMB klient iPhone", "připojení ke sdílené složce SMB", "procházení síťového serveru", "streamování z NAS", "stahování ze serveru", "připojení cloud WebDAV"]
 tags: ["everdisk", "guide", "devices", "connections"]
 readingTime: 9
 ---
 
 
-Everdisk není jen bezdrátový disk - je také klientem pro ostatní zařízení ve vaší síti. Karta **Zařízení** vám umožní připojit se k serverům **DLNA**, **WebDAV**, **FTP** a **SFTP** včetně disků NAS a mediálních serverů a poté procházet, streamovat a stahovat jejich soubory.
+Everdisk není jen bezdrátový disk - je také klientem pro ostatní zařízení ve vaší síti. Karta **Zařízení** vám umožní připojit se k serverům **DLNA**, **WebDAV**, **FTP**, **SFTP** a **SMB** včetně Maců, PC s Windows, počítačů s Linuxem, disků NAS a mediálních serverů a poté procházet, streamovat a stahovat jejich soubory.
 
 ## Obrazovka Zařízení
 
@@ -27,6 +27,7 @@ Klepněte na **Nové připojení** a zvolte typ serveru, ke kterému se chcete d
 - **WebDAV** - připojte se k souborovým serverům, síťovým úložným diskům a cloudovým diskům, které podporují WebDAV. Čtení i zápis, pokud to server umožňuje.
 - **FTP** - běžné na routerech, síťových úložných discích a webhostingu. Výchozí port je 21 (990 pro zabezpečené FTPS); v adrese můžete nastavit vlastní port, například `ftp://host:2121`. Pro anonymní přístup nechte přihlašovací jméno a heslo prázdné.
 - **SFTP** - připojte se bezpečně přes SSH. Výchozí port je 22; v případě potřeby použijte v adrese vlastní port, například `sftp://host:2222`.
+- **SMB** - připojte se k Macům, PC s Windows, serverům Linux a síťovým úložištím (NAS), která sdílejí složky přes **SMB / CIFS**. Zadejte adresu jako `smb://server-address/share-name/` (příklady: `smb://local-server-name/share-name/folder-path`, `smb://192.168.1.105/share-name/folder-path`, `smb://remote-server.com`). SMB přidává dvě volitelná pole: název **Pracovní skupiny** a **Verzi protokolu**, kterou můžete nechat na **Automatické** nebo vynutit na **SMB1** či **SMB2**. Pokud se soubory nebo složky se speciálními znaky nedaří otevřít, zkuste přepnout verzi na **SMB1**.
 
 > Everdisk se připojuje pouze k těmto protokolům v místní síti a k přímo adresovaným protokolům. Nepřihlašuje se k cloudovým účtům jako Google Drive nebo Dropbox. Cloudový disk je dosažitelný pouze tehdy, když daná služba nabízí adresu **WebDAV**, kterou můžete zadat.
 
@@ -53,7 +54,7 @@ Po připojení klepněte na server a otevřete jej:
 
 ## Změny souborů na serveru
 
-Na serverech, které umožňují zápis - **WebDAV, FTP a SFTP** - můžete soubory také spravovat:
+Na serverech, které umožňují zápis - **WebDAV, FTP, SFTP a SMB** - můžete soubory také spravovat:
 
 - **Nová složka**
 - **Nahrát soubory** ze svého zařízení

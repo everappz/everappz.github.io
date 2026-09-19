@@ -1,7 +1,7 @@
 ---
 title: "Zdieľanie"
 date: 2026-08-20
-description: "Zistite, ako funguje zdieľanie v Everdisku: ťuknutím na Start premeníte svoj iPhone alebo iPad na bezdrôtový disk, vyberiete, čo zdieľať (súbory, priečinky, fotografie a hudbu), spustíte štyri servery (DLNA, HTTP, WebDAV, FTP), prečítate si adresy na pripojenie, uvidíte, kto je pripojený, a udržíte zdieľanie bežať cez Wi-Fi alebo USB kábel."
+description: "Zistite, ako funguje zdieľanie v Everdisku: ťuknutím na Start premeníte svoj iPhone alebo iPad na bezdrôtový disk, vyberiete, čo zdieľať (súbory, priečinky, fotografie a hudbu), spustíte päť serverov (DLNA, HTTP, WebDAV, SMB, FTP), zašifrujete pripojenie SMB pomocou SMB3 (AES), prečítate si adresy na pripojenie, uvidíte, kto je pripojený, a udržíte zdieľanie bežať cez Wi-Fi alebo USB kábel."
 keywords: ["zdieľanie Everdisk", "bezdrôtový disk iPhone", "spustenie zdieľania", "zdieľanie súborov iPhone", "zdieľanie fotografií cez sieť", "DLNA HTTP WebDAV FTP", "čo zdieľať", "ako sa pripojiť", "nechať aplikáciu otvorenú", "zdieľanie cez Wi-Fi alebo USB kábel"]
 tags: ["everdisk", "guide", "sharing"]
 readingTime: 9
@@ -17,7 +17,7 @@ V strede obrazovky Zdieľanie je veľké okrúhle tlačidlo.
 - Ťuknutím na **Start** naraz zapnete všetky povolené servery. Tlačidlo najprv zobrazí **Starting...** a po spustení zdieľania **Stop**.
 - Ťuknutím na **Stop** všetko opäť vypnete. Pripojené zariadenia sa odpoja.
 
-Kým zdieľanie beží, vaše vybrané súbory, fotografie a hudba sú dostupné pre každé zariadenie v rovnakej sieti, ktoré sa pripojí niektorou zo štyroch metód uvedených nižšie.
+Kým zdieľanie beží, vaše vybrané súbory, fotografie a hudba sú dostupné pre každé zariadenie v rovnakej sieti, ktoré sa pripojí niektorou z piatich metód uvedených nižšie.
 
 > Zdieľanie beží len vtedy, keď je aplikácia otvorená. Prečo je to tak a ako udržať veľké prenosy bežať, sa dozviete v časti **Nechajte aplikáciu otvorenú** takmer na konci tejto stránky.
 
@@ -28,45 +28,46 @@ Než začnete, ťuknite na hlavičku **Čo zdieľať** a otvoria sa tri skupiny.
 **Súbory a priečinky**
 
 - Vlastný priečinok **Dokumenty** vašej aplikácie sa zdieľa štandardne. Ak chcete, jeho zdieľanie môžete zastaviť.
-- Ťuknutím na **Add Folder** zdieľate priečinok z ktorejkoľvek časti vášho zariadenia, alebo cez **Add File** zdieľate jednotlivé súbory.
-- Každá zdieľaná položka má tlačidlo **Info** a tlačidlo **Stop Sharing**.
+- Ťuknutím na **Pridať priečinok** zdieľate priečinok z ktorejkoľvek časti vášho zariadenia, alebo cez **Pridať súbor** zdieľate jednotlivé súbory.
+- Každá zdieľaná položka má tlačidlo **Informácie** a tlačidlo **Zastaviť zdieľanie**.
 
 **Fotografie a videá**
 
-- Zapnite **Allow access to all Photos Library**, aby ste zdieľali celú svoju knižnicu fotografií a videí, alebo
-- ťuknite na **Add Photos** a ručne vyberte len tie fotografie a videá, ktoré chcete zdieľať.
+- Zapnite **Povoliť prístup k celej knižnici fotiek**, aby ste zdieľali celú svoju knižnicu fotografií a videí, alebo
+- ťuknite na **Pridať fotky** a ručne vyberte len tie fotografie a videá, ktoré chcete zdieľať.
 
 **Hudba**
 
-- Zapnite **Allow access to all Music Library**, aby ste zdieľali celú svoju hudobnú knižnicu, alebo
-- ťuknite na **Add Tracks** a zdieľajte len vybrané skladby.
+- Zapnite **Povoliť prístup k celej hudobnej knižnici**, aby ste zdieľali celú svoju hudobnú knižnicu, alebo
+- ťuknite na **Pridať skladby** a zdieľajte len vybrané skladby.
 - Skladby, ktoré sú chránené (DRM) alebo uložené len v cloude, sa zdieľať nedajú.
 
-Ak sa pokúsite spustiť zdieľanie bez akéhokoľvek výberu, Everdisk zobrazí poznámku **Nothing to Share**. Ak zmeníte to, čo sa zdieľa, počas bežiaceho zdieľania, **zastavte a znova spustite** zdieľanie, aby sa zmena prejavila.
+Ak sa pokúsite spustiť zdieľanie bez akéhokoľvek výberu, Everdisk zobrazí poznámku **Niet čo zdieľať**. Ak zmeníte to, čo sa zdieľa, počas bežiaceho zdieľania, **zastavte a znova spustite** zdieľanie, aby sa zmena prejavila.
 
-## Štyri servery
+## Päť serverov
 
-Everdisk zdieľa rovnaký obsah štyrmi spôsobmi naraz. Každý je určený pre iný druh zariadenia a každý sa dá zapnúť alebo vypnúť v **Nastaveniach → Sharing → Pripojenia**. Štandardne sú zapnuté všetky štyri.
+Everdisk zdieľa rovnaký obsah piatimi spôsobmi naraz. Každý je určený pre iný druh zariadenia a každý sa dá zapnúť alebo vypnúť v **Nastaveniach → Zdieľanie → Pripojenia**. Štandardne je zapnutých všetkých päť.
 
-- **TV a mediálne centrum (DLNA)** - pre smart TV a mediálne prehrávače. Vaše zariadenie si nájdu samy a zobrazia vaše fotografie, videá a hudbu spolu s náhľadmi.
+- **Televízor a mediálne centrum (DLNA)** - pre smart TV a mediálne prehrávače. Vaše zariadenie si nájdu samy a zobrazia vaše fotografie, videá a hudbu spolu s náhľadmi.
 - **Prehliadač (HTTP)** - pre akýkoľvek telefón, tablet alebo počítač. Druhá osoba otvorí odkaz vo webovom prehliadači a prehliada si či sťahuje vaše súbory. Netreba nič inštalovať.
 - **Počítač (WebDAV)** - pre Mac, Windows PC alebo počítač s Linuxom. Vaše zariadenie sa zobrazí ako bežný sieťový disk, takže môžete presúvať súbory oboma smermi.
+- **Počítač (pokročilé) (SMB)** - sieťový disk pre Mac, Windows a Linux. Na Macu sa zobrazí samostatne v bočnom paneli Finderu; vo Windowse ho otvoríte v Prieskumníkovi súborov adresou `smb://`. Je to jediné pripojenie, ktoré môžete **zašifrovať**, pomocou šifrovania SMB3 (AES).
 - **Ostatné aplikácie a zariadenia (FTP)** - pre súborové aplikácie a pokročilých používateľov, ktorí ovládajú FTP.
 
 Podrobné pokyny na pripojenie pre každý typ nájdete v časti [Pripojenie vašich zariadení](/docs/guide/everdisk/everdisk-guide-connect).
 
 ## Ako sa pripojiť a adresy na pripojenie
 
-Keď ťuknete na Start, sekcia **How to Connect** zobrazí kartu pre každý aktívny server s presnou **adresou**, ktorú zadáte na druhom zariadení. Každú adresu je jednoduché skopírovať - ťuknutím ju skopírujete, tlačidlom **Share** ju odošlete alebo tlačidlom **info (ⓘ)** zobrazíte podrobné pokyny pre daný protokol.
+Keď ťuknete na Start, sekcia **Ako sa pripojiť** zobrazí kartu pre každý aktívny server s presnou **adresou**, ktorú zadáte na druhom zariadení. Každú adresu je jednoduché skopírovať - ťuknutím ju skopírujete, tlačidlom **Zdieľať** ju odošlete alebo tlačidlom **info (ⓘ)** zobrazíte podrobné pokyny pre daný protokol.
 
 - Karta DLNA zobrazuje adresu s popisom zariadenia, ktorá končí na `/device-desc.xml`, pre prehrávače, ktoré ju vyžadujú.
-- Keď je vaše zariadenie pripojené k Macu káblom, objaví sa ďalšia adresa s odznakom **Cable Connection**, ktorá používa názov `.local` vášho zariadenia.
+- Keď je vaše zariadenie pripojené k Macu káblom, objaví sa ďalšia adresa s odznakom **Pripojenie cez kábel**, ktorá používa názov `.local` vášho zariadenia.
 
 Adresu si môžete otvoriť aj ako **QR kód**, aby fotoaparát iného zariadenia skočil rovno na ňu.
 
 ## Kto je pripojený
 
-Sekcia **Who is Connected** v reálnom čase zobrazuje zariadenia, ktoré sú k vám práve pripojené. Ťuknite na tlačidlo ďalších akcií vedľa ktoréhokoľvek zariadenia a cez **Block this device** ho zablokujte, ak ho nepoznáte. Zablokované zariadenia spravujete v časti [Prístup a súkromie](/docs/guide/everdisk/everdisk-guide-access).
+Sekcia **Kto je pripojený** v reálnom čase zobrazuje zariadenia, ktoré sú k vám práve pripojené. Ťuknite na tlačidlo ďalších akcií vedľa ktoréhokoľvek zariadenia a cez **Blokovať toto zariadenie** ho zablokujte, ak ho nepoznáte. Zablokované zariadenia spravujete v časti [Prístup a súkromie](/docs/guide/everdisk/everdisk-guide-access).
 
 ## Názov a avatar vášho zariadenia
 
@@ -79,7 +80,7 @@ Zdieľanie môže bežať v dvoch situáciách:
 - **Cez Wi-Fi** - vaše zariadenie a ostatné zariadenia sú v rovnakej sieti Wi-Fi.
 - **Cez USB kábel** - vaše zariadenie je pripojené k **Macu** káblom, a to aj vtedy, keď žiadne Wi-Fi vôbec nie je. Toto je rýchlejšie než Wi-Fi a funguje aj v lietadle, v hoteli alebo v uzamknutej sieti.
 
-Ak nie je k dispozícii ani Wi-Fi, ani kábel, tlačidlo **Start** je neaktívne a objaví sa poznámka **No Wi-Fi Connection**. Ak sa počas zdieľania spojenie preruší, Everdisk zdieľanie automaticky zastaví a upozorní vás. Ťuknutím na tlačidlo info pri ktorejkoľvek z týchto poznámok získate úplné vysvetlenie.
+Ak nie je k dispozícii ani Wi-Fi, ani kábel, tlačidlo **Start** je neaktívne a objaví sa poznámka **Žiadne Wi-Fi pripojenie**. Ak sa počas zdieľania spojenie preruší, Everdisk zdieľanie automaticky zastaví a upozorní vás. Ťuknutím na tlačidlo info pri ktorejkoľvek z týchto poznámok získate úplné vysvetlenie.
 
 ## Nechajte aplikáciu otvorenú
 
@@ -89,9 +90,9 @@ Pri veľkých prenosoch:
 
 - Nechajte Everdisk otvorený a v popredí.
 - Pripojte zariadenie k napájaniu.
-- Počas prenosu nastavte v aplikácii Nastavenia iOS **Auto-Lock** na **Never**.
+- Počas prenosu nastavte v aplikácii Nastavenia iOS **Automatické uzamknutie** na **Nikdy**.
 
-Môžete zapnúť **Notify before disconnecting** (v Nastaveniach → Sharing), aby vám Everdisk pripomenul znovu otvoriť aplikáciu skôr, než ju systém pozastaví. Ťuknutím na tlačidlo info na banneri **Keep the app open** získate viac podrobností.
+Môžete zapnúť **Upozorniť pred odpojením** (v Nastaveniach → Zdieľanie), aby vám Everdisk pripomenul znovu otvoriť aplikáciu skôr, než ju systém pozastaví. Ťuknutím na tlačidlo info na banneri **Nechajte aplikáciu otvorenú** získate viac podrobností.
 
 ## Ďalšie kroky
 

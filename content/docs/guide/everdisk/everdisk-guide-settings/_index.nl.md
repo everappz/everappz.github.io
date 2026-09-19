@@ -1,7 +1,7 @@
 ---
 title: "Instellingen"
 date: 2026-08-20
-description: "Een volledige rondleiding door de Everdisk-instellingen: apparaatprofiel (naam en avatar), de vier verbindingsservers, toegangsbeheer, foto- en videokwaliteit, aangepaste poorten, DLNA-miniaturen, netwerk- en overdrachtsopties, opties voor de bestandsbeheerder en Premium."
+description: "Een volledige rondleiding door de Everdisk-instellingen: apparaatprofiel (naam en avatar), de vijf verbindingsservers, toegangsbeheer, SMB-versleuteling (SMB3/AES), foto- en videokwaliteit, aangepaste poorten, DLNA-miniaturen, netwerk- en overdrachtsopties, opties voor de bestandsbeheerder en Premium."
 keywords: ["Everdisk instellingen", "apparaatnaam avatar", "verbindingsservers", "foto- en videokwaliteit", "aangepaste poorten HTTP WebDAV FTP", "DLNA-miniaturen", "parallelle overdrachten", "bestanden definitief verwijderen", "miniatuurcache", "Everdisk Premium"]
 tags: ["everdisk", "handleiding", "instellingen"]
 readingTime: 12
@@ -38,11 +38,12 @@ Zie [Toegang en privacy](/docs/guide/everdisk/everdisk-guide-access) voor detail
 
 ### Verbindingen
 
-Zet elke server aan of uit. Alle vier staan standaard aan, en elke heeft een info-knop (ⓘ) met verbindingsinstructies:
+Zet elke server aan of uit. Alle vijf staan standaard aan, en elke heeft een info-knop (ⓘ) met verbindingsinstructies:
 
 - **Tv en mediacenter** (DLNA)
 - **Browser** (HTTP)
 - **Computer** (WebDAV)
+- **Computer (geavanceerd)** (SMB) - een netwerkschijf voor Mac, Windows en Linux; op een Mac verschijnt hij vanzelf in de Finder-navigatiekolom. De enige verbinding die kan worden versleuteld.
 - **Andere apps en apparaten** (FTP)
 
 ### Foto's
@@ -61,7 +62,11 @@ Zelfde idee als bij Foto's: Origineel is het snelst, en omzetten is Premium. Ver
 
 ### Geavanceerd
 
-- **HTTP-poort** (standaard 80), **WebDAV-poort** (standaard 8080), **FTP-poort** (standaard 2121). DLNA kiest zijn poort automatisch. *(Poorten wijzigen is Premium; gratis gebruikers kunnen de waarden zien.)*
+- **HTTP-poort** (standaard 80), **WebDAV-poort** (standaard 8080), **SMB-poort** (standaard 4455), **FTP-poort** (standaard 2121). DLNA kiest zijn poort automatisch. *(Poorten wijzigen is Premium; gratis gebruikers kunnen de waarden zien.)*
+
+### SMB-versleuteling
+
+- **SMB-versleuteling vereisen** - versleutel elke SMB-overdracht met **SMB3-versleuteling (AES)** zodat niemand anders op het netwerk je bestanden kan lezen. Standaard uit. Het vereist een **login en wachtwoord** die hierboven zijn ingesteld (versleutelde verbindingen kunnen niet anoniem zijn) en een client die SMB3 ondersteunt, zoals de Finder op een moderne Mac of Windows 10 en later. Wijzigingen worden van kracht de volgende keer dat je het delen start. *(Premium.)*
 
 ### DLNA-miniaturen
 
@@ -92,7 +97,8 @@ Everdisk is gratis te gebruiken. Eén aankoop van **Premium Lifetime** - een een
 - **Onbeperkt mappen** - deel meer dan 5 mappen.
 - **Onbeperkt verbindingen** - sla meer dan 10 servers op op het tabblad Apparaten.
 - **Foto- en videoconversie** - deel in elke kwaliteit anders dan Origineel.
-- **Aangepaste poorten** - stel je eigen HTTP-, WebDAV- en FTP-poorten in.
+- **SMB-versleuteling** - bescherm SMB-overdrachten met SMB3-versleuteling (AES).
+- **Aangepaste poorten** - stel je eigen HTTP-, WebDAV-, SMB- en FTP-poorten in.
 - **Delen automatisch starten** - start delen automatisch wanneer je de app opent.
 - **Apparaataanpassing** - een eigen apparaatnaam, avataricoon, achtergrondverloop of foto-avatar.
 

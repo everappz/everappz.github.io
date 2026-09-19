@@ -1,7 +1,7 @@
 ---
 title: "Udostępnianie"
 date: 2026-08-20
-description: "Dowiedz się, jak działa udostępnianie w Everdisk: dotknij Start, aby zamienić iPhone'a lub iPada w bezprzewodowy dysk, wybierz, co udostępnić (pliki, foldery, zdjęcia i muzykę), uruchom cztery serwery (DLNA, HTTP, WebDAV, FTP), odczytaj adresy połączeń, zobacz, kto jest podłączony, i utrzymaj udostępnianie przez Wi-Fi lub kabel USB."
+description: "Dowiedz się, jak działa udostępnianie w Everdisk: dotknij Start, aby zamienić iPhone'a lub iPada w bezprzewodowy dysk, wybierz, co udostępnić (pliki, foldery, zdjęcia i muzykę), uruchom pięć serwerów (DLNA, HTTP, WebDAV, SMB, FTP), zaszyfruj połączenie SMB szyfrowaniem SMB3 (AES), odczytaj adresy połączeń, zobacz, kto jest podłączony, i utrzymaj udostępnianie przez Wi-Fi lub kabel USB."
 keywords: ["udostępnianie Everdisk", "bezprzewodowy dysk iPhone", "rozpocznij udostępnianie", "udostępnianie plików iPhone", "udostępnianie zdjęć w sieci", "DLNA HTTP WebDAV FTP", "co udostępnić", "jak się połączyć", "utrzymaj aplikację otwartą", "udostępnianie przez Wi-Fi lub kabel USB"]
 tags: ["everdisk", "guide", "sharing"]
 readingTime: 9
@@ -17,7 +17,7 @@ Na środku ekranu Udostępniania znajduje się duży okrągły przycisk.
 - Dotknij **Start**, aby jednocześnie uruchomić wszystkie włączone serwery. Przycisk pokaże **Uruchamianie...**, a następnie **Stop**, gdy udostępnianie ruszy.
 - Dotknij **Stop**, aby ponownie wyłączyć wszystko. Podłączone urządzenia zostaną odłączone.
 
-Gdy udostępnianie działa, wybrane pliki, zdjęcia i muzyka są dostępne dla każdego urządzenia w tej samej sieci, które połączy się jedną z czterech metod opisanych poniżej.
+Gdy udostępnianie działa, wybrane pliki, zdjęcia i muzyka są dostępne dla każdego urządzenia w tej samej sieci, które połączy się jedną z pięciu metod opisanych poniżej.
 
 > Udostępnianie działa tylko wtedy, gdy aplikacja jest otwarta. Zobacz **Utrzymaj aplikację otwartą** pod koniec tej strony, aby dowiedzieć się dlaczego oraz jak utrzymać duże transfery.
 
@@ -44,13 +44,14 @@ Zanim zaczniesz, dotknij nagłówka **Co udostępnić**, aby otworzyć trzy grup
 
 Jeśli spróbujesz uruchomić udostępnianie bez żadnego wyboru, Everdisk pokaże komunikat **Nie ma czego udostępnić**. Jeśli zmienisz to, co jest udostępniane, gdy udostępnianie działa, **zatrzymaj je i uruchom ponownie**, aby zastosować zmianę.
 
-## Cztery serwery
+## Pięć serwerów
 
-Everdisk udostępnia tę samą zawartość na cztery sposoby naraz. Każdy z nich jest przeznaczony dla innego rodzaju urządzeń i każdy można włączyć lub wyłączyć w **Ustawieniach → Udostępnianie → Połączenia**. Domyślnie wszystkie cztery są włączone.
+Everdisk udostępnia tę samą zawartość na pięć sposobów naraz. Każdy z nich jest przeznaczony dla innego rodzaju urządzeń i każdy można włączyć lub wyłączyć w **Ustawieniach → Udostępnianie → Połączenia**. Domyślnie wszystkie pięć jest włączone.
 
 - **TV i centrum multimedialne (DLNA)** - dla smart TV i odtwarzaczy multimedialnych. Same wykrywają Twoje urządzenie i wyświetlają zdjęcia, filmy oraz muzykę wraz z miniaturami podglądu.
 - **Przeglądarka (HTTP)** - dla dowolnego telefonu, tabletu lub komputera. Druga osoba otwiera link w przeglądarce, aby przeglądać i pobierać Twoje pliki. Nic nie trzeba instalować.
 - **Komputer (WebDAV)** - dla Maca, komputera z systemem Windows lub Linux. Twoje urządzenie pojawia się jako zwykły dysk sieciowy, więc możesz przeciągać pliki w obie strony.
+- **Komputer (zaawansowane) (SMB)** - dysk sieciowy dla Maca, Windows i Linux. Na Macu pojawia się sam na pasku bocznym Findera; w Windows otwórz go w Eksploratorze plików adresem `smb://`. To jedyne połączenie, które możesz **zaszyfrować**, szyfrowaniem SMB3 (AES).
 - **Inne aplikacje i urządzenia (FTP)** - dla aplikacji do plików i zaawansowanych użytkowników, którzy posługują się FTP.
 
 Instrukcje połączenia krok po kroku dla każdego typu znajdziesz w [Podłącz swoje urządzenia](/docs/guide/everdisk/everdisk-guide-connect).

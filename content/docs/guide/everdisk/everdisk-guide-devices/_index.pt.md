@@ -1,14 +1,14 @@
 ---
 title: "Ligar a Servidores"
 date: 2026-08-20
-description: "Use o separador Dispositivos do Everdisk para se ligar a outros servidores da sua rede. Adicione e explore servidores DLNA, WebDAV, FTP e SFTP e unidades NAS, transmita áudio e vídeo, transfira ficheiros e crie, carregue, mude o nome, mova ou elimine em servidores que o permitam."
-keywords: ["separador Dispositivos Everdisk", "ligar a NAS", "cliente DLNA iPhone", "cliente WebDAV iPhone", "cliente FTP iPhone", "cliente SFTP iPhone", "explorar servidor de rede", "transmitir a partir de NAS", "transferir de servidor", "ligar nuvem WebDAV"]
+description: "Use o separador Dispositivos do Everdisk para se ligar a outros servidores da sua rede. Adicione e explore servidores DLNA, WebDAV, FTP, SFTP e SMB e unidades NAS, transmita áudio e vídeo, transfira ficheiros e crie, carregue, mude o nome, mova ou elimine em servidores que o permitam."
+keywords: ["separador Dispositivos Everdisk", "ligar a NAS", "cliente DLNA iPhone", "cliente WebDAV iPhone", "cliente FTP iPhone", "cliente SFTP iPhone", "cliente SMB iPhone", "ligar a partilha SMB", "explorar servidor de rede", "transmitir a partir de NAS", "transferir de servidor", "ligar nuvem WebDAV"]
 tags: ["everdisk", "guia", "dispositivos", "ligacoes"]
 readingTime: 9
 ---
 
 
-O Everdisk não é apenas uma unidade sem fios - é também um cliente para os outros dispositivos da sua rede. O separador **Dispositivos** permite-lhe ligar-se a servidores **DLNA**, **WebDAV**, **FTP** e **SFTP**, incluindo unidades NAS e servidores multimédia, e depois explorar, transmitir e transferir os ficheiros deles.
+O Everdisk não é apenas uma unidade sem fios - é também um cliente para os outros dispositivos da sua rede. O separador **Dispositivos** permite-lhe ligar-se a servidores **DLNA**, **WebDAV**, **FTP**, **SFTP** e **SMB**, incluindo Macs, PCs com Windows, máquinas Linux, unidades NAS e servidores multimédia, e depois explorar, transmitir e transferir os ficheiros deles.
 
 ## O ecrã de Dispositivos
 
@@ -27,6 +27,7 @@ Toque em **Nova Ligação** e escolha o tipo de servidor que quer alcançar:
 - **WebDAV** - ligue-se a servidores de ficheiros, unidades de armazenamento em rede e unidades na nuvem que suportem WebDAV. Leitura e escrita quando o servidor o permitir.
 - **FTP** - comum em routers, unidades de armazenamento em rede e alojamento web. A porta predefinida é a 21 (990 para FTPS seguro); pode definir uma porta personalizada no endereço, por exemplo `ftp://host:2121`. Deixe o início de sessão e a palavra-passe vazios para acesso anónimo.
 - **SFTP** - ligue-se em segurança por SSH. A porta predefinida é a 22; use uma porta personalizada no endereço, se necessário, por exemplo `sftp://host:2222`.
+- **SMB** - ligue-se a Macs, PCs com Windows, servidores Linux e armazenamento em rede (NAS) que partilham pastas por **SMB / CIFS**. Introduza um endereço como `smb://server-address/share-name/` (exemplos: `smb://local-server-name/share-name/folder-path`, `smb://192.168.1.105/share-name/folder-path`, `smb://remote-server.com`). O SMB acrescenta dois campos opcionais: um nome de **Grupo de trabalho** e uma **Versão do protocolo** que pode deixar em **Automática** ou forçar para **SMB1** ou **SMB2**. Se ficheiros ou pastas com carateres especiais não abrirem, tente mudar a versão para **SMB1**.
 
 > O Everdisk liga-se apenas a estes protocolos de rede local e de endereço direto. Não inicia sessão em contas na nuvem como o Google Drive ou o Dropbox. Uma unidade na nuvem só é acessível se esse serviço oferecer um endereço **WebDAV** que possa escrever.
 
@@ -53,7 +54,7 @@ Assim que estiver ligado, toque no servidor para o abrir:
 
 ## Alterar ficheiros num servidor
 
-Em servidores que permitem escrita - **WebDAV, FTP e SFTP** - também pode gerir ficheiros:
+Em servidores que permitem escrita - **WebDAV, FTP, SFTP e SMB** - também pode gerir ficheiros:
 
 - **Nova Pasta**
 - **Carregar Ficheiros** a partir do seu dispositivo

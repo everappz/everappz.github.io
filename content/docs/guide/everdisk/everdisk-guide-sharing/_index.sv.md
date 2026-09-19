@@ -1,7 +1,7 @@
 ---
 title: "Delning"
 date: 2026-08-20
-description: "Lär dig hur delning fungerar i Everdisk: tryck på Start för att förvandla din iPhone eller iPad till en trådlös disk, välj vad du vill dela (filer, mappar, foton och musik), kör de fyra servrarna (DLNA, HTTP, WebDAV, FTP), läs anslutningsadresserna, se vem som är ansluten och håll delningen igång över Wi-Fi eller en USB-kabel."
+description: "Lär dig hur delning fungerar i Everdisk: tryck på Start för att förvandla din iPhone eller iPad till en trådlös disk, välj vad du vill dela (filer, mappar, foton och musik), kör de fem servrarna (DLNA, HTTP, WebDAV, SMB, FTP), kryptera SMB-anslutningen med SMB3 (AES), läs anslutningsadresserna, se vem som är ansluten och håll delningen igång över Wi-Fi eller en USB-kabel."
 keywords: ["Everdisk delning", "trådlös disk iPhone", "starta delning", "dela filer iPhone", "dela foton över nätverk", "DLNA HTTP WebDAV FTP", "vad du kan dela", "så ansluter du", "håll appen öppen", "delning över Wi-Fi eller USB"]
 tags: ["everdisk", "guide", "sharing"]
 readingTime: 9
@@ -17,7 +17,7 @@ I mitten av delningsskärmen finns en stor rund knapp.
 - Tryck på **Start** för att ta alla dina aktiverade servrar online samtidigt. Knappen visar **Startar...** och sedan **Stopp** när delningen är igång.
 - Tryck på **Stopp** för att ta allt offline igen. Anslutna enheter kopplas bort.
 
-Medan delningen är igång är dina valda filer, foton och din musik tillgängliga för alla enheter i samma nätverk som ansluter med någon av de fyra metoderna nedan.
+Medan delningen är igång är dina valda filer, foton och din musik tillgängliga för alla enheter i samma nätverk som ansluter med någon av de fem metoderna nedan.
 
 > Delning körs bara medan appen är öppen. Se **Håll appen öppen** längst ner på den här sidan för att förstå varför, och hur du håller stora överföringar igång.
 
@@ -44,13 +44,14 @@ Innan du startar, tryck på rubriken **Vad du vill dela** för att öppna tre gr
 
 Om du försöker starta utan att ha valt något visar Everdisk meddelandet **Inget att dela**. Om du ändrar vad som delas medan delningen är igång, **stoppa och starta igen** för att verkställa ändringen.
 
-## De fyra servrarna
+## De fem servrarna
 
-Everdisk delar samma innehåll på fyra sätt samtidigt. Var och en är utformad för en viss typ av enhet, och var och en kan slås på eller av i **Inställningar → Delning → Anslutningar**. Som standard är alla fyra på.
+Everdisk delar samma innehåll på fem sätt samtidigt. Var och en är utformad för en viss typ av enhet, och var och en kan slås på eller av i **Inställningar → Delning → Anslutningar**. Som standard är alla fem på.
 
 - **TV och mediacenter (DLNA)** - för smarta TV-apparater och mediaspelare. De upptäcker din enhet på egen hand och visar dina foton, videor och din musik, med förhandsvisningsminiatyrer.
 - **Webbläsare (HTTP)** - för vilken telefon, surfplatta eller dator som helst. Den andra personen öppnar en länk i en webbläsare för att bläddra och ladda ner dina filer. Inget att installera.
 - **Dator (WebDAV)** - för en Mac, Windows-PC eller Linux-dator. Din enhet visas som en vanlig nätverksdisk så att du kan dra filer åt båda hållen.
+- **Dator (avancerat) (SMB)** - en nätverksdisk för Mac, Windows och Linux. På en Mac dyker den upp av sig själv i Finders sidofält; på Windows öppnar du den i Utforskaren med en `smb://`-adress. Det är den enda anslutningen du kan **kryptera**, med SMB3-kryptering (AES).
 - **Andra appar och enheter (FTP)** - för filappar och avancerade användare som talar FTP.
 
 För steg-för-steg-instruktioner om anslutning för varje typ, se [Anslut dina enheter](/docs/guide/everdisk/everdisk-guide-connect).

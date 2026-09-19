@@ -1,7 +1,7 @@
 ---
 title: "Innstillinger"
 date: 2026-08-20
-description: "En komplett gjennomgang av Everdisk-innstillingene: enhetsprofil (navn og avatar), de fire tilkoblingsserverne, tilgangskontroller, foto- og videokvalitet, egendefinerte porter, DLNA-miniatyrer, nettverks- og overføringsalternativer, filbehandleralternativer og Premium."
+description: "En komplett gjennomgang av Everdisk-innstillingene: enhetsprofil (navn og avatar), de fem tilkoblingsserverne, tilgangskontroller, SMB-kryptering (SMB3/AES), foto- og videokvalitet, egendefinerte porter, DLNA-miniatyrer, nettverks- og overføringsalternativer, filbehandleralternativer og Premium."
 keywords: ["Everdisk innstillinger", "enhetsnavn avatar", "tilkoblingsservere", "foto- og videokvalitet", "egendefinerte porter HTTP WebDAV FTP", "DLNA-miniatyrer", "parallelle overføringer", "slett filer permanent", "miniatyr-buffer", "Everdisk Premium"]
 tags: ["everdisk", "veiledning", "innstillinger"]
 readingTime: 12
@@ -38,11 +38,12 @@ Se [Tilgang og personvern](/docs/guide/everdisk/everdisk-guide-access) for detal
 
 ### Tilkoblinger
 
-Slå hver server av eller på. Alle fire er på som standard, og hver har en info (ⓘ)-knapp med tilkoblingsinstruksjoner:
+Slå hver server av eller på. Alle fem er på som standard, og hver har en info (ⓘ)-knapp med tilkoblingsinstruksjoner:
 
 - **TV og mediesenter** (DLNA)
 - **Nettleser** (HTTP)
 - **Datamaskin** (WebDAV)
+- **Datamaskin (avansert)** (SMB) - en nettverksdisk for Mac, Windows og Linux; på en Mac dukker den opp helt av seg selv i Finder-sidefeltet. Den eneste tilkoblingen som kan krypteres.
 - **Andre apper og enheter** (FTP)
 
 ### Bilder
@@ -61,7 +62,11 @@ Samme prinsipp som for Bilder: Original er raskest, og konvertering er Premium. 
 
 ### Avansert
 
-- **HTTP-port** (standard 80), **WebDAV-port** (standard 8080), **FTP-port** (standard 2121). DLNA velger porten sin automatisk. *(Å endre porter er Premium; gratisbrukere kan se verdiene.)*
+- **HTTP-port** (standard 80), **WebDAV-port** (standard 8080), **SMB-port** (standard 4455), **FTP-port** (standard 2121). DLNA velger porten sin automatisk. *(Å endre porter er Premium; gratisbrukere kan se verdiene.)*
+
+### SMB-kryptering
+
+- **Krev SMB-kryptering** - krypter hver SMB-overføring med **SMB3-kryptering (AES)** slik at ingen andre på nettverket kan lese filene dine. Av som standard. Den trenger et **brukernavn og passord** satt opp over (krypterte tilkoblinger kan ikke være anonyme) og en klient som støtter SMB3, som Finder på en moderne Mac eller Windows 10 og nyere. Endringer trer i kraft neste gang du starter deling. *(Premium.)*
 
 ### DLNA-miniatyrer
 
@@ -92,7 +97,8 @@ Everdisk er gratis å bruke. Et enkelt kjøp av **Premium Lifetime** - en engang
 - **Ubegrenset antall mapper** - del mer enn 5 mapper.
 - **Ubegrenset antall tilkoblinger** - lagre mer enn 10 servere på Enheter-fanen.
 - **Foto- og videokonvertering** - del i hvilken som helst kvalitet annet enn Original.
-- **Egendefinerte porter** - angi dine egne HTTP-, WebDAV- og FTP-porter.
+- **SMB-kryptering** - beskytt SMB-overføringer med SMB3-kryptering (AES).
+- **Egendefinerte porter** - angi dine egne HTTP-, WebDAV-, SMB- og FTP-porter.
 - **Automatisk start av deling** - start deling automatisk når du åpner appen.
 - **Enhetstilpasning** - et egendefinert enhetsnavn, avatarikon, bakgrunnsgradient eller foto-avatar.
 

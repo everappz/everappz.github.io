@@ -1,8 +1,8 @@
 ---
 title: "Přístup a soukromí"
 date: 2026-08-20
-description: "Udržte své sdílení v Everdisku v bezpečí: chraňte přístup přihlášením a heslem, řiďte pomocí Úprav souborů, zda mohou připojená zařízení nahrávat, přejmenovávat a mazat, blokujte neznámá zařízení, zvolte koš vs. trvalé smazání a pochopte, proč všechno zůstává ve vaší místní síti."
-keywords: ["ochrana Everdisk heslem", "přepínač úprav souborů", "blokovat zařízení", "blokovaná zařízení", "trvalé smazání souborů", "pouze místní síť", "soukromé sdílení souborů", "DLNA bez hesla", "bezpečnost sítě"]
+description: "Udržte své sdílení v Everdisku v bezpečí: chraňte přístup přihlášením a heslem, šifrujte připojení SMB pomocí SMB3 (AES), řiďte pomocí Úprav souborů, zda mohou připojená zařízení nahrávat, přejmenovávat a mazat, blokujte neznámá zařízení, zvolte koš vs. trvalé smazání a pochopte, proč všechno zůstává ve vaší místní síti."
+keywords: ["ochrana Everdisk heslem", "šifrování SMB", "šifrování SMB3 AES", "přepínač úprav souborů", "blokovat zařízení", "blokovaná zařízení", "trvalé smazání souborů", "pouze místní síť", "soukromé sdílení souborů", "DLNA bez hesla", "bezpečnost sítě"]
 tags: ["everdisk", "guide", "access", "privacy", "security"]
 readingTime: 8
 ---
@@ -16,11 +16,23 @@ Ve výchozím nastavení může vaše sdílené soubory otevřít kdokoli ve ste
 
 1. Přejděte do **Nastavení → Sdílení → Přístup**.
 2. Zadejte **Přihlašovací jméno** a **Heslo**.
-3. Nyní si připojení **Prohlížeč (HTTP)**, **Počítač (WebDAV)** a **Ostatní aplikace a zařízení (FTP)** vyžádají tyto údaje, než zobrazí vaše soubory.
+3. Nyní si připojení **Prohlížeč (HTTP)**, **Počítač (WebDAV)**, **Počítač (pokročilé) (SMB)** a **Ostatní aplikace a zařízení (FTP)** vyžádají tyto údaje, než zobrazí vaše soubory.
 
 Pro otevřený přístup nechte obě pole prázdná. Vaše heslo je bezpečně uloženo v Keychainu zařízení.
 
 > **DLNA je vždy otevřené.** Připojení TV a mediální centrum (DLNA) nelze chránit heslem, takže jakmile je zapnuté, může jakékoli zařízení ve stejné síti Wi-Fi procházet vaše sdílená média. Vypněte je, pokud chcete jen chráněná připojení, a sdílejte pouze v sítích, kterým důvěřujete.
+
+## Šifrování připojení SMB (SMB3 / AES)
+
+Přihlašovací jméno a heslo řídí, **kdo** se může připojit, ale samotná data u většiny připojení stále putují nešifrovaně. **SMB je jediné připojení, které Everdisk umí šifrovat**, což zamíchá každý přenos tak, aby jej nikdo jiný ve stejné síti nemohl přečíst.
+
+Zapnete ho takto:
+
+1. Nastavte **Přihlašovací jméno** a **Heslo** jako výše - šifrovaná připojení nemohou být anonymní.
+2. Přejděte do **Nastavení → Sdílení** a zapněte **Vyžadovat šifrování SMB**.
+3. **Zastavte a znovu spusťte** sdílení, aby se změna projevila.
+
+Každý přenos SMB je pak chráněn **šifrováním SMB3 (AES)**. Připojující se zařízení musí podporovat SMB3 - Finder na moderním Macu nebo **Windows 10 a novější**. Je to skvělá volba na Wi-Fi, které úplně nedůvěřujete. Šifrování SMB je Premium funkce.
 
 ## Povolení nebo zákaz úprav (Úpravy souborů)
 

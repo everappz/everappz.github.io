@@ -1,14 +1,14 @@
 ---
 title: "Hubungkan Perangkat Anda"
 date: 2026-08-20
-description: "Petunjuk langkah demi langkah untuk terhubung ke drive nirkabel Everdisk Anda: tonton di smart TV lewat DLNA, buka file Anda di peramban web mana pun, pasang perangkat Anda sebagai network drive di Finder, Windows, atau Linux lewat WebDAV, hubungkan aplikasi file lewat FTP, dan transfer lewat kabel USB ke Mac tanpa Wi-Fi."
+description: "Petunjuk langkah demi langkah untuk terhubung ke drive nirkabel Everdisk Anda: tonton di smart TV lewat DLNA, buka file Anda di peramban web mana pun, pasang perangkat Anda sebagai network drive di Finder, Windows, atau Linux lewat WebDAV atau SMB (dengan enkripsi SMB3/AES opsional), hubungkan aplikasi file lewat FTP, dan transfer lewat kabel USB ke Mac tanpa Wi-Fi."
 keywords: ["hubungkan ke Everdisk", "streaming ke TV DLNA", "buka file di peramban", "pasang network drive Finder", "WebDAV Windows Linux", "aplikasi file FTP", "transfer kabel USB Mac", "hubungkan iPhone ke komputer", "network drive iPhone"]
 tags: ["everdisk", "panduan", "hubungkan"]
 readingTime: 11
 ---
 
 
-Setelah Anda mengetuk **Mulai** di layar [Berbagi](/docs/guide/everdisk/everdisk-guide-sharing), perangkat lain bisa terhubung ke file Anda dengan empat cara berbeda. Pilih metode yang sesuai dengan perangkat yang ingin Anda gunakan. Dalam setiap kasus, **alamat** persis yang Anda butuhkan ditampilkan di bagian **Cara Terhubung** pada layar Berbagi.
+Setelah Anda mengetuk **Mulai** di layar [Berbagi](/docs/guide/everdisk/everdisk-guide-sharing), perangkat lain bisa terhubung ke file Anda dengan lima cara berbeda. Pilih metode yang sesuai dengan perangkat yang ingin Anda gunakan. Dalam setiap kasus, **alamat** persis yang Anda butuhkan ditampilkan di bagian **Cara Terhubung** pada layar Berbagi.
 
 > Kedua perangkat harus berada di **jaringan Wi-Fi yang sama** - atau, untuk Mac, terhubung dengan **kabel USB** (lihat bagian terakhir).
 
@@ -71,6 +71,29 @@ Gunakan ini agar perangkat Anda muncul sebagai disk biasa di Mac, PC Windows, at
 2. Masukkan alamat WebDAV yang ditampilkan di Everdisk.
 
 Apakah koneksinya hanya-baca atau dua arah tergantung pada pengaturan **Pengeditan File**. Jika diaktifkan, Anda bisa menyalin file ke perangkat Anda serta mengganti nama atau menghapusnya; jika dimatikan, drive bersifat hanya-baca.
+
+## Terhubung lewat SMB (network drive terenkripsi)
+
+SMB adalah network drive untuk Mac, Windows, dan Linux, dibangun di atas berbagi file yang sudah ada di sistem tersebut, sehingga perangkat Anda muncul sebagai network drive biasa - dan ini satu-satunya koneksi yang bisa Anda enkripsi.
+
+1. Di **Pengaturan → Berbagi → Koneksi**, pastikan **Komputer (Lanjutan)** (koneksi SMB) aktif.
+2. Ketuk **Mulai** dan catat alamat **SMB**, yang tampak seperti `smb://192.168.1.20:4455/Share`.
+3. Terhubung dari komputer Anda:
+   - **Mac:** perangkat Anda muncul dengan sendirinya di **bilah samping Finder** di bawah **Locations** (Network) - cukup klik dan masuk. Untuk terhubung secara manual, pilih **Go → Connect to Server** (**⌘K**) dan masukkan alamatnya.
+   - **Windows:** buka **File Explorer**, klik kanan **This PC** lalu pilih **Map network drive**, lalu masukkan `\\<address>\Share` menggunakan host dan nama share dari layar Berbagi (atau ketik alamat `smb://` di bilah alamat).
+   - **Linux:** di pengelola file Anda pilih **Connect to Server** dan masukkan alamatnya.
+4. Masukkan login dan kata sandi jika Anda mengaturnya, atau terhubung sebagai tamu.
+5. Share tersebut bernama **Share**. Dengan **Pengeditan File** aktif, Anda bisa menyalin file ke dua arah; jika dimatikan, drive bersifat hanya-baca.
+
+**Aktifkan enkripsi (disarankan di Wi-Fi yang tidak tepercaya)**
+
+SMB adalah satu-satunya koneksi Everdisk yang bisa dienkripsi. Untuk melindungi setiap transfer dengan **enkripsi SMB3 (AES)**:
+
+1. Di **Pengaturan → Berbagi → Akses**, atur **Info Masuk** dan **Kata Sandi** - koneksi terenkripsi tidak bisa anonim.
+2. Di **Pengaturan → Berbagi**, aktifkan **Wajibkan enkripsi SMB**.
+3. **Hentikan lalu Mulai** berbagi lagi agar perubahannya berlaku.
+
+Klien Anda harus mendukung SMB3 - Finder di Mac modern, atau **Windows 10 dan yang lebih baru**. Enkripsi SMB adalah fitur Premium.
 
 ## Menghubungkan aplikasi file (FTP)
 

@@ -1,14 +1,14 @@
 ---
 title: "Eszközeid csatlakoztatása"
 date: 2026-08-20
-description: "Lépésről lépésre utasítások az Everdisk vezeték nélküli meghajtódhoz való csatlakozáshoz: nézz tartalmat okostévén DLNA-n keresztül, nyisd meg a fájljaidat bármelyik webböngészőben, csatlakoztasd az eszközödet hálózati meghajtóként a Finderben, a Windowsban vagy a Linuxon WebDAV-on keresztül, csatlakoztass fájlalkalmazásokat FTP-n keresztül, és vigyél át adatot USB-kábelen egy Macre Wi-Fi nélkül."
+description: "Lépésről lépésre utasítások az Everdisk vezeték nélküli meghajtódhoz való csatlakozáshoz: nézz tartalmat okostévén DLNA-n keresztül, nyisd meg a fájljaidat bármelyik webböngészőben, csatlakoztasd az eszközödet hálózati meghajtóként a Finderben, a Windowsban vagy a Linuxon WebDAV-on vagy SMB-n keresztül (választható SMB3/AES titkosítással), csatlakoztass fájlalkalmazásokat FTP-n keresztül, és vigyél át adatot USB-kábelen egy Macre Wi-Fi nélkül."
 keywords: ["csatlakozás Everdiskhez", "streamelés TV-re DLNA", "fájlok megnyitása böngészőben", "hálózati meghajtó csatlakoztatása Finder", "WebDAV Windows Linux", "FTP fájlalkalmazás", "USB-kábeles átvitel Mac", "iPhone csatlakoztatása számítógéphez", "hálózati meghajtó iPhone"]
 tags: ["everdisk", "guide", "connect"]
 readingTime: 11
 ---
 
 
-Miután megérinted a **Start** gombot a [Megosztás](/docs/guide/everdisk/everdisk-guide-sharing) képernyőn, a többi eszköz négy különböző módon csatlakozhat a fájljaidhoz. Válaszd azt a módszert, amely megfelel a használni kívánt eszköznek. Minden esetben a szükséges pontos **címet** a Megosztás képernyő **Hogyan csatlakozz** szakaszában találod.
+Miután megérinted a **Start** gombot a [Megosztás](/docs/guide/everdisk/everdisk-guide-sharing) képernyőn, a többi eszköz öt különböző módon csatlakozhat a fájljaidhoz. Válaszd azt a módszert, amely megfelel a használni kívánt eszköznek. Minden esetben a szükséges pontos **címet** a Megosztás képernyő **Hogyan csatlakozz** szakaszában találod.
 
 > Mindkét eszköznek **ugyanazon a Wi-Fi hálózaton** kell lennie - vagy Mac esetén **USB-kábellel** csatlakoztatva (lásd az utolsó szakaszt).
 
@@ -71,6 +71,29 @@ Ezt akkor használd, ha azt szeretnéd, hogy az eszközöd megszokott lemezként
 2. Add meg az Everdiskben megjelenített WebDAV-címet.
 
 Az, hogy a kapcsolat csak olvasható vagy kétirányú, a **Fájlszerkesztés** beállítástól függ. Bekapcsolva fájlokat másolhatsz az eszközödre, valamint átnevezheted és törölheted azokat; kikapcsolva a meghajtó csak olvasható.
+
+## Csatlakozás SMB-n keresztül (titkosított hálózati meghajtó)
+
+Az SMB egy hálózati meghajtó Machez, Windowshoz és Linuxhoz, az ezekben a rendszerekben már meglévő fájlmegosztásra építve, így az eszközöd megszokott hálózati meghajtóként jelenik meg - és ez az egyetlen kapcsolat, amelyet titkosíthatsz.
+
+1. A **Beállítások → Megosztás → Kapcsolatok** menüben győződj meg róla, hogy a **Számítógép (speciális)** (az SMB kapcsolat) be van kapcsolva.
+2. Érintsd meg a **Start** gombot, és jegyezd meg az **SMB** címet, amely így néz ki: `smb://192.168.1.20:4455/Share`.
+3. Csatlakozz a számítógépedről:
+   - **Mac:** az eszközöd magától megjelenik a **Finder oldalsávjában** a **Helyek** (Hálózat) alatt - egyszerűen kattints rá és jelentkezz be. Ha inkább kézzel szeretnél csatlakozni, válaszd a **Ugrás → Csatlakozás kiszolgálóhoz** (**⌘K**) lehetőséget, és add meg a címet.
+   - **Windows:** nyisd meg a **Fájlkezelőt**, kattints jobb gombbal az **Ez a gép** elemre, és válaszd a **Hálózati meghajtó csatlakoztatása** lehetőséget, majd add meg a `\\<address>\Share` értéket a Megosztás képernyőn látható gazdagép- és megosztásnévvel (vagy írd be az `smb://` címet a címsorba).
+   - **Linux:** a fájlkezelődben válaszd a **Csatlakozás kiszolgálóhoz** lehetőséget, és add meg a címet.
+4. Add meg a bejelentkezési nevet és jelszót, ha beállítottál ilyet, egyébként csatlakozz vendégként.
+5. A megosztás neve **Share**. A **Fájlszerkesztés** bekapcsolásával mindkét irányba másolhatsz fájlokat; kikapcsolva csak olvasható.
+
+**Kapcsold be a titkosítást (ajánlott megbízhatatlan Wi-Fi-n)**
+
+Az SMB az egyetlen Everdisk kapcsolat, amely titkosítható. Ahhoz, hogy minden átvitelt **SMB3-titkosítással (AES)** védj:
+
+1. A **Beállítások → Megosztás → Hozzáférés** menüben állíts be egy **Bejelentkezési nevet** és **Jelszót** - a titkosított kapcsolatok nem lehetnek névtelenek.
+2. A **Beállítások → Megosztás** menüben kapcsold be az **SMB-titkosítás megkövetelése** lehetőséget.
+3. **Állítsd le, majd indítsd újra** a megosztást, hogy a változtatás életbe lépjen.
+
+A kliensednek támogatnia kell az SMB3-at - a Finder egy modern Macen, vagy a **Windows 10 és újabb**. Az SMB-titkosítás Premium funkció.
 
 ## Csatlakoztass egy fájlalkalmazást (FTP)
 

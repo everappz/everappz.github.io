@@ -12,7 +12,7 @@ Everdisk reprodueix el teu contingut multimèdia al dispositiu i comparteix tota
 
 ## Comparteix tota la teva biblioteca de fotos i música
 
-A la pantalla de [Compartir](/docs/guide/everdisk/everdisk-guide-sharing), a **Què compartir**, pots activar **Permetre l'accés a tota la Fototeca** i **Permetre l'accés a tota la Biblioteca de música**. Un cop comença la compartició, cada àlbum i cada pista queda disponible a través dels quatre servidors: en un televisor, en un navegador, en una unitat de xarxa o en una app d'arxius. També pots triar a mà només certes fotos, vídeos o pistes amb **Afegir fotos** i **Afegir pistes**.
+A la pantalla de [Compartir](/docs/guide/everdisk/everdisk-guide-sharing), a **Què compartir**, pots activar **Permetre l'accés a tota la Fototeca** i **Permetre l'accés a tota la Biblioteca de música**. Un cop comença la compartició, cada àlbum i cada pista queda disponible a través dels cinc servidors: en un televisor, en un navegador, en una unitat de xarxa (WebDAV o SMB) o en una app d'arxius. També pots triar a mà només certes fotos, vídeos o pistes amb **Afegir fotos** i **Afegir pistes**.
 
 Les cançons protegides (DRM) i les pistes desades només al núvol no es poden compartir.
 
@@ -54,7 +54,7 @@ Quan comparteixes fotos i vídeos, Everdisk els pot enviar exactament tal com s�
 Tingues en compte:
 
 - **L'original és el més ràpid**: l'arxiu s'envia tal com és, sense cap conversió.
-- Qualsevol altre ajust **converteix sobre la marxa**, cosa que és més lenta i consumeix més bateria, especialment per WebDAV i FTP.
+- Qualsevol altre ajust **converteix sobre la marxa**, cosa que és més lenta i consumeix més bateria, especialment per WebDAV, SMB i FTP.
 - Prova primer l'Original; només canvia a El més compatible si un televisor o navegador concret no pot obrir un arxiu.
 - La **Música** sempre es comparteix en la seva forma original: no hi ha ajustos de qualitat de música.
 

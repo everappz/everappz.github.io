@@ -1,16 +1,17 @@
 ---
 date: '2026-08-20T12:00:00+00:00'
 title: 'Everdisk'
-description: "Preguntes freqüents d'Everdisk: converteix el teu iPhone o iPad en una unitat sense fils i comparteix arxius, fotos, vídeos i música amb qualsevol dispositiu de la teva xarxa per DLNA, HTTP, WebDAV i FTP. Respostes sobre com connectar-te des d'un televisor, un navegador web, un Mac, Windows i Linux, la transferència per cable USB sense Wi-Fi, la connexió a servidors NAS i WebDAV/FTP/SFTP, el gestor d'arxius, comprimir i descomprimir, escanejar documents a PDF, contrasenyes i bloqueig de dispositius, la privadesa i la compra única Premium de per vida."
+description: "Preguntes freqüents d'Everdisk: converteix el teu iPhone o iPad en una unitat sense fils i comparteix arxius, fotos, vídeos i música amb qualsevol dispositiu de la teva xarxa per DLNA, HTTP, WebDAV, SMB i FTP. Respostes sobre com connectar-te des d'un televisor, un navegador web, un Mac, Windows i Linux, la unitat de xarxa SMB amb xifratge SMB3 (AES), la transferència per cable USB sense Wi-Fi, la connexió a servidors NAS i WebDAV/FTP/SFTP/SMB, el gestor d'arxius, comprimir i descomprimir, escanejar documents a PDF, contrasenyes i bloqueig de dispositius, la privadesa i la compra única Premium de per vida."
 keywords: [
   "Everdisk FAQ", "unitat sense fils iPhone", "compartir arxius iPhone", "compartir fotos per la xarxa",
   "reproduir al televisor DLNA", "obrir arxius al navegador", "unitat de xarxa WebDAV iPhone",
+  "servidor SMB iPhone", "xifratge SMB iPhone", "xifratge SMB3 AES",
   "servidor FTP iPhone", "client SFTP iPhone", "transferència d'arxius USB Mac sense Wi-Fi",
-  "connectar a NAS iPhone", "gestor d'arxius iOS", "comprimir descomprimir iPhone",
+  "connectar a NAS iPhone", "client SMB iPhone", "connectar a recurs compartit SMB", "gestor d'arxius iOS", "comprimir descomprimir iPhone",
   "escanejar documents a PDF", "protegir la compartició amb contrasenya", "bloquejar dispositiu",
   "compartir arxius per la xarxa local", "Everdisk Premium", "Everdisk de per vida"
 ]
-tags: ["everdisk", "faq", "unitat sense fils", "compartir arxius", "DLNA", "WebDAV", "FTP", "SFTP", "unitat de xarxa"]
+tags: ["everdisk", "faq", "unitat sense fils", "compartir arxius", "DLNA", "WebDAV", "SMB", "FTP", "SFTP", "unitat de xarxa"]
 ---
 
 
@@ -23,15 +24,16 @@ Everdisk converteix el teu iPhone o iPad en una unitat sense fils que comparteix
 {{% details title="Què és Everdisk?" closed="true" %}}
 Everdisk és una app d'**unitat sense fils** per a iPhone i iPad. Converteix el teu dispositiu en un centre que comparteix els arxius, fotos, vídeos i música que triïs amb qualsevol cosa de la teva xarxa local, i també es connecta a altres servidors perquè puguis explorar i reproduir els seus arxius.<br><br>
 
-Fa funcionar quatre servidors alhora - **DLNA** per a televisors, **HTTP** per a navegadors web, **WebDAV** per al Finder/Windows/Linux, i **FTP** per a apps d'arxius - de manera que cada dispositiu es connecta com més li convé. No hi ha comptes ni núvol: toques **Iniciar** i ja estàs a punt. També inclou un gestor d'arxius, un reproductor multimèdia, una galeria de fotos, l'escaneig de documents a PDF i comprimir/descomprimir.
+Fa funcionar cinc servidors alhora - **DLNA** per a televisors, **HTTP** per a navegadors web, **WebDAV** per al Finder/Windows/Linux, **SMB** per a una unitat de xarxa a Mac, Windows i Linux amb xifratge opcional, i **FTP** per a apps d'arxius - de manera que cada dispositiu es connecta com més li convé. No hi ha comptes ni núvol: toques **Iniciar** i ja estàs a punt. També inclou un gestor d'arxius, un reproductor multimèdia, una galeria de fotos, l'escaneig de documents a PDF i comprimir/descomprimir.
 {{% /details %}}
 
 {{% details title="Com funciona Everdisk?" closed="true" %}}
-Quan toques **Iniciar**, Everdisk converteix el teu dispositiu en un servidor de la teva xarxa local i comparteix el contingut que has seleccionat. Quatre mètodes de connexió diferents funcionen al mateix temps perquè diferents dispositius es puguin connectar de la manera que prefereixin:<br><br>
+Quan toques **Iniciar**, Everdisk converteix el teu dispositiu en un servidor de la teva xarxa local i comparteix el contingut que has seleccionat. Cinc mètodes de connexió diferents funcionen al mateix temps perquè diferents dispositius es puguin connectar de la manera que prefereixin:<br><br>
 
 - **DLNA** - els televisors intel·ligents i reproductors multimèdia troben el teu dispositiu automàticament i mostren el teu contingut amb miniatures.<br>
 - **HTTP** - qualsevol obre un enllaç al navegador web per explorar i baixar els teus arxius.<br>
 - **WebDAV** - el teu dispositiu apareix com una unitat de xarxa normal al Finder, Windows o Linux.<br>
+- **SMB** - una unitat de xarxa per a Mac, Windows i Linux, basada en la compartició d'arxius que ja tenen aquests sistemes; en un Mac apareix per si sola a la barra lateral del Finder. És l'única connexió que pots xifrar (xifratge SMB3, AES).<br>
 - **FTP** - les apps d'arxius i les eines avançades es connecten per FTP.<br><br>
 
 Tot passa per la teva xarxa Wi-Fi local (o per un cable USB a un Mac) i mai no toca internet.
@@ -106,6 +108,29 @@ Fes servir l'adreça de l'**Ordinador (WebDAV)**.<br><br>
 Introdueix l'usuari i la contrasenya si n'has definit un.
 {{% /details %}}
 
+{{% details title="Com em connecto per SMB?" closed="true" %}}
+1. A **Configuració → Compartir → Connexions**, assegura't que **Ordinador (avançat)** (la connexió SMB) està activat, i després toca **Iniciar**.<br>
+2. Copia l'adreça **SMB** que es mostra a la pantalla Compartir - té l'aspecte de `smb://192.168.1.20:4455/Share`.<br>
+3. Connecta't des del teu ordinador:<br>
+&nbsp;&nbsp;- **Mac:** el teu dispositiu apareix per si sol a la **barra lateral del Finder** sota **Ubicacions** (Xarxa) - només cal que hi facis clic. Per connectar-t'hi manualment, tria **Anar → Connectar al servidor** (**⌘K**) i introdueix l'adreça.<br>
+&nbsp;&nbsp;- **Windows:** a l'Explorador d'arxius, fes clic dret a **Aquest PC** i tria **Assignar una unitat de xarxa**, i després introdueix `\\<address>\Share`, o escriu l'adreça `smb://` a la barra d'adreces.<br>
+&nbsp;&nbsp;- **Linux:** al teu gestor d'arxius tria **Connectar al servidor** i introdueix l'adreça.<br>
+4. Introdueix el teu usuari i contrasenya si n'has definit un; si no, connecta't com a convidat.<br><br>
+
+El recurs compartit s'anomena **Share**. Amb l'**Edició d'arxius** activada pots copiar arxius en totes dues direccions; amb ella desactivada la unitat és només de lectura.
+{{% /details %}}
+
+{{% details title="Puc xifrar la meva connexió SMB?" closed="true" %}}
+Sí - i SMB és l'**única** connexió que Everdisk pot xifrar. A **Configuració → Compartir**, activa **Requereix xifratge SMB** per protegir cada transferència SMB amb **xifratge SMB3 (AES)**, de manera que ningú més de la mateixa xarxa no pugui llegir els teus arxius. És una opció excel·lent en un Wi-Fi en què no confiïs del tot.<br><br>
+
+Alguns requisits:<br>
+- Primer has de definir un **usuari i contrasenya** - les connexions xifrades no poden ser anònimes.<br>
+- El client ha de ser compatible amb **SMB3** - el Finder d'un Mac modern, o **Windows 10 i posteriors**.<br>
+- Els canvis tenen efecte el següent cop que inicies la compartició.<br><br>
+
+El Xifratge SMB forma part de la compra única **Premium de per vida**.
+{{% /details %}}
+
 {{% details title="Everdisk funciona sense Wi-Fi?" closed="true" %}}
 Sí, amb un **Mac** i un cable. Connecta el teu iPhone o iPad al Mac, toca **Confiar** si t'ho demana, i toca **Iniciar**. A la pantalla Compartir apareix una adreça de **Connexió per cable** acabada en `.local`; connecta-t'hi des del Finder (**⌘K**). Això funciona sense gens de Wi-Fi - genial en un avió, en un hotel o en una xarxa bloquejada - i és més ràpid i més privat que el Wi-Fi.
 {{% /details %}}
@@ -122,19 +147,20 @@ El teu iPhone o iPad és el servidor, i iOS no permet que les apps mantinguin un
 El **cable USB a un Mac** és més ràpid i més fiable que el Wi-Fi, perquè les dades van directament pel cable. També és l'opció més privada, ja que res no passa pel teu router ni per internet. Fes-lo servir per a transferències grans de fotos i vídeos.
 {{% /details %}}
 
-{{% details title="Quina és la diferència entre els quatre servidors (DLNA, HTTP, WebDAV, FTP)?" closed="true" %}}
+{{% details title="Quina és la diferència entre els cinc servidors (DLNA, HTTP, WebDAV, SMB, FTP)?" closed="true" %}}
 Tots comparteixen el mateix contingut però s'adapten a dispositius diferents:<br><br>
 
 - **TV i centre multimèdia (DLNA)** - per a televisors intel·ligents i reproductors multimèdia.<br>
 - **Navegador (HTTP)** - per a qualsevol navegador web, sense cap instal·lació.<br>
 - **Ordinador (WebDAV)** - fa del teu dispositiu una unitat de xarxa al Finder/Windows/Linux.<br>
+- **Ordinador (avançat)** (SMB) - una unitat de xarxa per a Mac, Windows i Linux; en un Mac apareix per si sola a la barra lateral del Finder, o connecta-t'hi manualment amb una adreça `smb://`. És l'única connexió que pots xifrar (SMB3, AES).<br>
 - **Altres apps i dispositius (FTP)** - per a apps d'arxius i eines avançades.<br><br>
 
 Pots activar o desactivar qualsevol d'ells a **Configuració → Compartir → Connexions**.
 {{% /details %}}
 
 {{% details title="Com protegeixo els meus arxius amb contrasenya?" closed="true" %}}
-Vés a **Configuració → Compartir → Accés** i defineix un **Usuari** i una **Contrasenya**. Les connexions de Navegador, Ordinador i Altres apps demanaran aleshores aquestes dades. Deixa-ho tot dos buits per a l'accés obert.<br><br>
+Vés a **Configuració → Compartir → Accés** i defineix un **Usuari** i una **Contrasenya**. Les connexions de Navegador, Ordinador, Ordinador (avançat) i Altres apps demanaran aleshores aquestes dades. Deixa-ho tot dos buits per a l'accés obert.<br><br>
 
 Nota: la connexió **DLNA** (TV) no es pot protegir amb contrasenya, així que està oberta a qualsevol de la mateixa Wi-Fi mentre està activada. Desactiva-la si només vols connexions protegides.
 {{% /details %}}
@@ -156,15 +182,15 @@ Sí. Everdisk comparteix només per la teva **xarxa local** - res no va a intern
 {{% /details %}}
 
 {{% details title="Everdisk es pot connectar al meu NAS o a altres servidors?" closed="true" %}}
-Sí. La pestanya **Dispositius** es connecta **a** altres servidors de la teva xarxa. Toca **Nova connexió** i tria **DLNA / UPnP**, **WebDAV**, **FTP** o **SFTP**, introdueix l'adreça i qualsevol inici de sessió, i podràs explorar, reproduir i baixar. Als servidors WebDAV, FTP i SFTP també pots crear carpetes, pujar, canviar de nom, moure i eliminar. Els servidors DLNA són només de lectura.
+Sí. La pestanya **Dispositius** es connecta **a** altres servidors de la teva xarxa. Toca **Nova connexió** i tria **DLNA / UPnP**, **WebDAV**, **FTP**, **SFTP** o **SMB** (per a Macs, PC amb Windows, màquines Linux i unitats NAS que comparteixen carpetes per SMB / CIFS), introdueix l'adreça i qualsevol inici de sessió, i podràs explorar, reproduir i baixar. Als servidors WebDAV, FTP, SFTP i SMB també pots crear carpetes, pujar, canviar de nom, moure i eliminar. Els servidors DLNA són només de lectura.
 {{% /details %}}
 
 {{% details title="Em puc connectar a emmagatzematge al núvol com Google Drive o Dropbox?" closed="true" %}}
-Everdisk no inicia sessió en comptes al núvol com iCloud Drive, Google Drive, Dropbox o OneDrive. Només es connecta a servidors de **xarxa local i d'adreça directa** (DLNA, WebDAV, FTP, SFTP). Un servei al núvol només és accessible si ofereix una adreça **WebDAV** que puguis escriure en una nova connexió WebDAV.
+Everdisk no inicia sessió en comptes al núvol com iCloud Drive, Google Drive, Dropbox o OneDrive. Només es connecta a servidors de **xarxa local i d'adreça directa** (DLNA, WebDAV, FTP, SFTP, SMB). Un servei al núvol només és accessible si ofereix una adreça **WebDAV** que puguis escriure en una nova connexió WebDAV.
 {{% /details %}}
 
 {{% details title="Per a què serveix la pestanya Dispositius?" closed="true" %}}
-És el costat client d'Everdisk: **Connexions** llista els servidors que has desat, i **Dispositius disponibles** llista els servidors trobats automàticament a la teva xarxa. Toca'n un per explorar, reproduir o baixar els seus arxius, o toca **Nova connexió** per afegir manualment un servidor DLNA, WebDAV, FTP o SFTP.
+És el costat client d'Everdisk: **Connexions** llista els servidors que has desat, i **Dispositius disponibles** llista els servidors trobats automàticament a la teva xarxa. Toca'n un per explorar, reproduir o baixar els seus arxius, o toca **Nova connexió** per afegir manualment un servidor DLNA, WebDAV, FTP, SFTP o SMB.
 {{% /details %}}
 
 {{% details title="Com baixo arxius d'un servidor al meu dispositiu?" closed="true" %}}
@@ -256,13 +282,13 @@ Everdisk dona al teu dispositiu un nom i un avatar amigables automàticament, i 
 {{% /details %}}
 
 {{% details title="Puc canviar els ports de connexió?" closed="true" %}}
-Els valors per defecte són **HTTP 80**, **WebDAV 8080** i **FTP 2121** (el DLNA tria el seu port automàticament). Els pots veure de franc, i definir **ports personalitzats** és una funció Premium (**Avançat** a Configuració → Compartir).
+Els valors per defecte són **HTTP 80**, **WebDAV 8080**, **SMB 4455** i **FTP 2121** (el DLNA tria el seu port automàticament). Els pots veure de franc, i definir **ports personalitzats** és una funció Premium (**Avançat** a Configuració → Compartir).
 {{% /details %}}
 
 {{% details title="Everdisk és gratis, i què hi afegeix el Premium?" closed="true" %}}
-Everdisk es baixa **gratis**. Pots fer funcionar els quatre servidors, protegir l'accés amb una contrasenya, compartir tota la teva biblioteca de Fotos i Música, fer servir el gestor d'arxius, escanejar a PDF i connectar-te a altres servidors. La versió gratuïta comparteix fins a **5 carpetes** i desa fins a **10 connexions de servidor**.<br><br>
+Everdisk es baixa **gratis**. Pots fer funcionar els cinc servidors, protegir l'accés amb una contrasenya, compartir tota la teva biblioteca de Fotos i Música, fer servir el gestor d'arxius, escanejar a PDF i connectar-te a altres servidors. La versió gratuïta comparteix fins a **5 carpetes** i desa fins a **10 connexions de servidor**.<br><br>
 
-Una compra única **Premium de per vida** (no una subscripció) hi afegeix: **Carpetes il·limitades**, **Connexions il·limitades**, **Conversió de fotos i vídeos** (qualitat diferent d'Original), **Ports personalitzats**, **Inici automàtic de la compartició** i **Personalització del dispositiu**.
+Una compra única **Premium de per vida** (no una subscripció) hi afegeix: **Carpetes il·limitades**, **Connexions il·limitades**, **Conversió de fotos i vídeos** (qualitat diferent d'Original), **Xifratge SMB** (SMB3/AES), **Ports personalitzats**, **Inici automàtic de la compartició** i **Personalització del dispositiu**.
 {{% /details %}}
 
 {{% details title="El Premium és una subscripció? Funciona als meus altres dispositius?" closed="true" %}}

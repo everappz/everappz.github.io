@@ -1,7 +1,7 @@
 ---
 title: "Compartir"
 date: 2026-08-20
-description: "Aprende como funciona la funcion de compartir en Everdisk: toca Iniciar para convertir tu iPhone o iPad en una unidad inalambrica, elige que compartir (archivos, carpetas, fotos y musica), pon en marcha los cuatro servidores (DLNA, HTTP, WebDAV, FTP), consulta las direcciones de conexion, mira quien esta conectado y manten la funcion activa por Wi-Fi o cable USB."
+description: "Aprende como funciona la funcion de compartir en Everdisk: toca Iniciar para convertir tu iPhone o iPad en una unidad inalambrica, elige que compartir (archivos, carpetas, fotos y musica), pon en marcha los cinco servidores (DLNA, HTTP, WebDAV, SMB, FTP), cifra la conexion SMB con SMB3 (AES), consulta las direcciones de conexion, mira quien esta conectado y manten la funcion activa por Wi-Fi o cable USB."
 keywords: ["compartir con Everdisk", "unidad inalambrica iPhone", "empezar a compartir", "compartir archivos iPhone", "compartir fotos en red", "DLNA HTTP WebDAV FTP", "que compartir", "como conectarse", "manten la app abierta", "compartir por Wi-Fi o cable USB"]
 tags: ["everdisk", "guia", "compartir"]
 readingTime: 9
@@ -17,7 +17,7 @@ En el centro de la pantalla de Compartir hay un boton redondo y grande.
 - Toca **Iniciar** para poner en linea todos tus servidores activados a la vez. El boton muestra **Iniciando...** y luego **Detener** cuando la funcion ya esta activa.
 - Toca **Detener** para volver a dejarlo todo sin conexion. Los dispositivos conectados se desconectan.
 
-Mientras la funcion esta activa, los archivos, las fotos y la musica que hayas elegido estan disponibles para cualquier dispositivo de la misma red que se conecte con uno de los cuatro metodos de abajo.
+Mientras la funcion esta activa, los archivos, las fotos y la musica que hayas elegido estan disponibles para cualquier dispositivo de la misma red que se conecte con uno de los cinco metodos de abajo.
 
 > La funcion de compartir solo se ejecuta mientras la app esta abierta. Consulta **Manten la app abierta**, cerca del final de esta pagina, para entender por que y como mantener activas las transferencias grandes.
 
@@ -44,13 +44,14 @@ Antes de empezar, toca el encabezado **Que compartir** para abrir tres grupos. P
 
 Si intentas empezar sin nada seleccionado, Everdisk muestra un aviso de **Nada que compartir**. Si cambias lo que compartes mientras la funcion esta activa, tienes que **detener y volver a iniciar** para aplicar el cambio.
 
-## Los cuatro servidores
+## Los cinco servidores
 
-Everdisk comparte el mismo contenido de cuatro formas a la vez. Cada una esta pensada para un tipo de dispositivo distinto y se puede activar o desactivar en **Ajustes -> Compartir -> Conexiones**. De forma predeterminada, las cuatro estan activadas.
+Everdisk comparte el mismo contenido de cinco formas a la vez. Cada una esta pensada para un tipo de dispositivo distinto y se puede activar o desactivar en **Ajustes -> Compartir -> Conexiones**. De forma predeterminada, las cinco estan activadas.
 
 - **TV y centro multimedia (DLNA)**: para smart TV y reproductores multimedia. Descubren tu dispositivo por si solos y muestran tus fotos, videos y musica con miniaturas de vista previa.
 - **Navegador (HTTP)**: para cualquier telefono, tablet u ordenador. La otra persona abre un enlace en su navegador web para explorar y descargar tus archivos. No hay que instalar nada.
 - **Ordenador (WebDAV)**: para un Mac, un PC con Windows o un equipo Linux. Tu dispositivo aparece como una unidad de red normal, asi que puedes arrastrar archivos en ambos sentidos.
+- **Equipo (avanzado) (SMB)**: una unidad de red para Mac, Windows y Linux. En un Mac aparece por su cuenta en la barra lateral del Finder; en Windows, abrela en el Explorador de archivos con una direccion `smb://`. Es la unica conexion que puedes **cifrar**, con cifrado SMB3 (AES).
 - **Otras apps y dispositivos (FTP)**: para apps de archivos y usuarios avanzados que trabajan con FTP.
 
 Para ver instrucciones de conexion paso a paso de cada tipo, consulta [Conecta tus dispositivos](/docs/guide/everdisk/everdisk-guide-connect).

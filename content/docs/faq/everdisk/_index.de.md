@@ -1,16 +1,17 @@
 ---
 date: '2026-08-20T12:00:00+00:00'
 title: 'Everdisk'
-description: "Everdisk FAQ: Verwandle dein iPhone oder iPad in ein drahtloses Laufwerk und teile Dateien, Fotos, Videos und Musik mit jedem Gerat in deinem Netzwerk uber DLNA, HTTP, WebDAV und FTP. Antworten zum Verbinden von TV, Webbrowser, Mac, Windows und Linux, zur USB-Kabelubertragung ohne Wi-Fi, zum Verbinden mit NAS und WebDAV/FTP/SFTP-Servern, zum Dateimanager, Zippen und Entpacken, Scannen von Dokumenten als PDF, Passwortern und Gerate-Sperre, Datenschutz und dem einmaligen Premium-Lifetime-Kauf."
+description: "Everdisk FAQ: Verwandle dein iPhone oder iPad in ein drahtloses Laufwerk und teile Dateien, Fotos, Videos und Musik mit jedem Gerat in deinem Netzwerk uber DLNA, HTTP, WebDAV, SMB und FTP. Antworten zum Verbinden von TV, Webbrowser, Mac, Windows und Linux, zum SMB-Netzlaufwerk mit SMB3-Verschlusselung (AES), zur USB-Kabelubertragung ohne Wi-Fi, zum Verbinden mit NAS und WebDAV/FTP/SFTP/SMB-Servern, zum Dateimanager, Zippen und Entpacken, Scannen von Dokumenten als PDF, Passwortern und Gerate-Sperre, Datenschutz und dem einmaligen Premium-Lifetime-Kauf."
 keywords: [
   "Everdisk FAQ", "drahtloses Laufwerk iPhone", "Dateien teilen iPhone", "Fotos im Netzwerk teilen",
   "auf TV streamen DLNA", "Dateien im Browser offnen", "WebDAV Netzlaufwerk iPhone",
+  "SMB Server iPhone", "SMB-Verschlusselung iPhone", "SMB3 AES Verschlusselung",
   "FTP Server iPhone", "SFTP Client iPhone", "USB Dateiubertragung Mac ohne Wi-Fi",
-  "mit NAS verbinden iPhone", "Dateimanager iOS", "Zip Entpacken iPhone",
+  "mit NAS verbinden iPhone", "SMB Client iPhone", "mit SMB-Freigabe verbinden", "Dateimanager iOS", "Zip Entpacken iPhone",
   "Dokumente als PDF scannen", "Teilen mit Passwort schutzen", "Gerat sperren",
   "Dateien im lokalen Netzwerk teilen", "Everdisk Premium", "Everdisk Lifetime"
 ]
-tags: ["everdisk", "faq", "drahtloses Laufwerk", "Dateien teilen", "DLNA", "WebDAV", "FTP", "SFTP", "Netzlaufwerk"]
+tags: ["everdisk", "faq", "drahtloses Laufwerk", "Dateien teilen", "DLNA", "WebDAV", "SMB", "FTP", "SFTP", "Netzlaufwerk"]
 ---
 
 
@@ -23,15 +24,16 @@ Everdisk verwandelt dein iPhone oder iPad in ein drahtloses Laufwerk, das Dateie
 {{% details title="Was ist Everdisk?" closed="true" %}}
 Everdisk ist eine App fur ein **drahtloses Laufwerk** fur iPhone und iPad. Sie macht dein Gerat zu einer Zentrale, die die von dir ausgewahlten Dateien, Fotos, Videos und Musik mit allem in deinem lokalen Netzwerk teilt, und verbindet sich auch mit anderen Servern, sodass du deren Dateien durchsuchen und streamen kannst.<br><br>
 
-Sie betreibt vier Server gleichzeitig - **DLNA** fur TVs, **HTTP** fur Webbrowser, **WebDAV** fur Finder/Windows/Linux und **FTP** fur Datei-Apps - damit sich jedes Gerat so verbindet, wie es mag. Es gibt keine Konten und keine Cloud: du tippst auf **Start** und bist bereit. Sie bietet ausserdem einen Dateimanager, einen Medienplayer, eine Fotogalerie, das Scannen von Dokumenten als PDF und Zippen/Entpacken.
+Sie betreibt funf Server gleichzeitig - **DLNA** fur TVs, **HTTP** fur Webbrowser, **WebDAV** fur Finder/Windows/Linux, **SMB** fur ein Netzlaufwerk auf Mac, Windows und Linux mit optionaler Verschlusselung und **FTP** fur Datei-Apps - damit sich jedes Gerat so verbindet, wie es mag. Es gibt keine Konten und keine Cloud: du tippst auf **Start** und bist bereit. Sie bietet ausserdem einen Dateimanager, einen Medienplayer, eine Fotogalerie, das Scannen von Dokumenten als PDF und Zippen/Entpacken.
 {{% /details %}}
 
 {{% details title="Wie funktioniert Everdisk?" closed="true" %}}
-Wenn du auf **Start** tippst, macht Everdisk dein Gerat zu einem Server in deinem lokalen Netzwerk und teilt die von dir ausgewahlten Inhalte. Vier verschiedene Verbindungsmethoden laufen gleichzeitig, damit sich verschiedene Gerate so verbinden konnen, wie sie mogen:<br><br>
+Wenn du auf **Start** tippst, macht Everdisk dein Gerat zu einem Server in deinem lokalen Netzwerk und teilt die von dir ausgewahlten Inhalte. Funf verschiedene Verbindungsmethoden laufen gleichzeitig, damit sich verschiedene Gerate so verbinden konnen, wie sie mogen:<br><br>
 
 - **DLNA** - Smart-TVs und Medienplayer finden dein Gerat automatisch und zeigen deine Medien mit Miniaturbildern an.<br>
 - **HTTP** - jeder offnet einen Link im Webbrowser, um deine Dateien zu durchsuchen und herunterzuladen.<br>
 - **WebDAV** - dein Gerat erscheint als normales Netzlaufwerk im Finder, unter Windows oder Linux.<br>
+- **SMB** - ein Netzlaufwerk fur Mac, Windows und Linux, das auf der bereits in diesen Systemen vorhandenen Dateifreigabe aufbaut; auf einem Mac erscheint es von selbst in der Finder-Seitenleiste. Es ist die einzige Verbindung, die du verschlusseln kannst (SMB3-Verschlusselung, AES).<br>
 - **FTP** - Datei-Apps und Profi-Tools verbinden sich uber FTP.<br><br>
 
 Alles lauft uber dein lokales Wi-Fi (oder ein USB-Kabel zu einem Mac) und beruhrt nie das Internet.
@@ -106,6 +108,29 @@ Nutze die **Computer (WebDAV)**-Adresse.<br><br>
 Gib den Login und das Passwort ein, falls du eines gesetzt hast.
 {{% /details %}}
 
+{{% details title="Wie verbinde ich mich uber SMB?" closed="true" %}}
+1. Stelle in **Einstellungen → Teilen → Verbindungen** sicher, dass **Computer (Erweitert)** (die SMB-Verbindung) aktiviert ist, dann **Start**.<br>
+2. Kopiere die auf dem Teilen-Bildschirm angezeigte **SMB**-Adresse - sie sieht so aus: `smb://192.168.1.20:4455/Share`.<br>
+3. Verbinde dich von deinem Computer aus:<br>
+&nbsp;&nbsp;- **Mac:** dein Gerat erscheint von selbst in der **Finder-Seitenleiste** unter **Orte** (Netzwerk) - klicke es einfach an. Um dich stattdessen von Hand zu verbinden, wahle **Gehe zu → Mit Server verbinden** (**⌘K**) und gib die Adresse ein.<br>
+&nbsp;&nbsp;- **Windows:** klicke im Datei-Explorer mit der rechten Maustaste auf **Dieser PC** und wahle **Netzlaufwerk verbinden**, gib dann `\\<address>\Share` ein oder tippe die `smb://`-Adresse in die Adressleiste.<br>
+&nbsp;&nbsp;- **Linux:** wahle in deinem Dateimanager **Mit Server verbinden** und gib die Adresse ein.<br>
+4. Gib deinen Login und dein Passwort ein, falls du eines gesetzt hast, andernfalls verbinde dich als Gast.<br><br>
+
+Die Freigabe heisst **Share**. Mit aktiviertem **Dateien bearbeiten** kannst du Dateien in beide Richtungen kopieren; ohne ist das Laufwerk schreibgeschutzt.
+{{% /details %}}
+
+{{% details title="Kann ich meine SMB-Verbindung verschlusseln?" closed="true" %}}
+Ja - und SMB ist die **einzige** Verbindung, die Everdisk verschlusseln kann. Aktiviere in **Einstellungen → Teilen** die Option **SMB-Verschlüsselung anfordern**, um jede SMB-Ubertragung mit **SMB3-Verschlusselung (AES)** zu schutzen, sodass niemand sonst im selben Netzwerk deine Dateien lesen kann. Das ist eine gute Wahl in Wi-Fi, dem du nicht voll vertraust.<br><br>
+
+Ein paar Voraussetzungen:<br>
+- Du musst zuerst einen **Login und ein Passwort** festlegen - verschlusselte Verbindungen konnen nicht anonym sein.<br>
+- Der Client muss **SMB3** unterstutzen - der Finder auf einem modernen Mac oder **Windows 10 und neuer**.<br>
+- Anderungen werden beim nachsten Start des Teilens wirksam.<br><br>
+
+SMB-Verschlusselung ist Teil des einmaligen **Premium-Lifetime**-Kaufs.
+{{% /details %}}
+
 {{% details title="Funktioniert Everdisk ohne Wi-Fi?" closed="true" %}}
 Ja, mit einem **Mac** und einem Kabel. Stecke dein iPhone oder iPad in den Mac, tippe auf **Vertrauen**, falls gefragt, und tippe auf **Start**. Eine **Kabelverbindung**-Adresse, die auf `.local` endet, erscheint auf dem Teilen-Bildschirm; verbinde dich mit ihr aus dem Finder (**⌘K**). Das funktioniert ganz ohne Wi-Fi - super im Flugzeug, im Hotel oder in einem gesperrten Netzwerk - und es ist schneller und privater als Wi-Fi.
 {{% /details %}}
@@ -122,19 +147,20 @@ Dein iPhone oder iPad ist der Server, und iOS lasst Apps keinen Netzwerkserver i
 Das **USB-Kabel zu einem Mac** ist schneller und zuverlassiger als Wi-Fi, weil die Daten direkt uber das Kabel wandern. Es ist auch die privateste Option, da nichts durch deinen Router oder das Internet lauft. Nutze es fur grosse Foto- und Videoubertragungen.
 {{% /details %}}
 
-{{% details title="Was ist der Unterschied zwischen den vier Servern (DLNA, HTTP, WebDAV, FTP)?" closed="true" %}}
+{{% details title="Was ist der Unterschied zwischen den funf Servern (DLNA, HTTP, WebDAV, SMB, FTP)?" closed="true" %}}
 Sie teilen alle dieselben Inhalte, passen aber zu verschiedenen Geraten:<br><br>
 
 - **TV & Media Center (DLNA)** - fur Smart-TVs und Medienplayer.<br>
 - **Browser (HTTP)** - fur jeden Webbrowser, ohne Installation.<br>
 - **Computer (WebDAV)** - macht dein Gerat zu einem Netzlaufwerk im Finder/Windows/Linux.<br>
+- **Computer (Erweitert)** (SMB) - ein Netzlaufwerk fur Mac, Windows und Linux; auf einem Mac erscheint es von selbst in der Finder-Seitenleiste, oder verbinde dich von Hand mit einer `smb://`-Adresse. Es ist die einzige Verbindung, die du verschlusseln kannst (SMB3, AES).<br>
 - **Andere Apps & Gerate (FTP)** - fur Datei-Apps und Profi-Tools.<br><br>
 
 Du kannst jeden von ihnen in **Einstellungen → Teilen → Verbindungen** ein- oder ausschalten.
 {{% /details %}}
 
 {{% details title="Wie schutze ich meine Dateien mit einem Passwort?" closed="true" %}}
-Gehe zu **Einstellungen → Teilen → Zugriff** und lege einen **Login** und ein **Passwort** fest. Die Browser-, Computer- und Andere-Apps-Verbindungen fragen dann nach diesen Angaben. Lasse beide leer fur offenen Zugriff.<br><br>
+Gehe zu **Einstellungen → Teilen → Zugriff** und lege einen **Login** und ein **Passwort** fest. Die Verbindungen Browser, Computer, Computer (Erweitert) und Andere Apps fragen dann nach diesen Angaben. Lasse beide leer fur offenen Zugriff.<br><br>
 
 Hinweis: Die **DLNA** (TV)-Verbindung kann nicht mit einem Passwort geschutzt werden, sie ist also fur jeden im selben Wi-Fi offen, solange sie aktiv ist. Schalte sie aus, wenn du nur geschutzte Verbindungen willst.
 {{% /details %}}
@@ -156,15 +182,15 @@ Ja. Everdisk teilt nur uber dein **lokales Netzwerk** - nichts geht ins Internet
 {{% /details %}}
 
 {{% details title="Kann Everdisk sich mit meinem NAS oder anderen Servern verbinden?" closed="true" %}}
-Ja. Der Tab **Geräte** verbindet sich **mit** anderen Servern in deinem Netzwerk. Tippe auf **Neue Verbindung** und wahle **DLNA / UPnP**, **WebDAV**, **FTP** oder **SFTP**, gib die Adresse und einen etwaigen Login ein und du kannst durchsuchen, streamen und herunterladen. Auf WebDAV-, FTP- und SFTP-Servern kannst du auch Ordner erstellen, hochladen, umbenennen, verschieben und loschen. DLNA-Server sind schreibgeschutzt.
+Ja. Der Tab **Geräte** verbindet sich **mit** anderen Servern in deinem Netzwerk. Tippe auf **Neue Verbindung** und wahle **DLNA / UPnP**, **WebDAV**, **FTP**, **SFTP** oder **SMB** (fur Macs, Windows-PCs, Linux-Rechner und NAS-Laufwerke, die Ordner uber SMB / CIFS freigeben), gib die Adresse und einen etwaigen Login ein und du kannst durchsuchen, streamen und herunterladen. Auf WebDAV-, FTP-, SFTP- und SMB-Servern kannst du auch Ordner erstellen, hochladen, umbenennen, verschieben und loschen. DLNA-Server sind schreibgeschutzt.
 {{% /details %}}
 
 {{% details title="Kann ich mich mit Cloud-Speicher wie Google Drive oder Dropbox verbinden?" closed="true" %}}
-Everdisk meldet sich nicht bei Cloud-Konten wie iCloud Drive, Google Drive, Dropbox oder OneDrive an. Es verbindet sich nur mit **Servern im lokalen Netzwerk und direkt adressierten** Servern (DLNA, WebDAV, FTP, SFTP). Ein Cloud-Dienst ist nur erreichbar, wenn er eine **WebDAV**-Adresse bietet, die du in eine neue WebDAV-Verbindung eingeben kannst.
+Everdisk meldet sich nicht bei Cloud-Konten wie iCloud Drive, Google Drive, Dropbox oder OneDrive an. Es verbindet sich nur mit **Servern im lokalen Netzwerk und direkt adressierten** Servern (DLNA, WebDAV, FTP, SFTP, SMB). Ein Cloud-Dienst ist nur erreichbar, wenn er eine **WebDAV**-Adresse bietet, die du in eine neue WebDAV-Verbindung eingeben kannst.
 {{% /details %}}
 
 {{% details title="Wofur ist der Tab Geräte da?" closed="true" %}}
-Es ist die Client-Seite von Everdisk: **Verbindungen** listet Server auf, die du gespeichert hast, und **Verfügbare Geräte** listet Server auf, die automatisch in deinem Netzwerk gefunden wurden. Tippe auf einen, um seine Dateien zu durchsuchen, zu streamen oder herunterzuladen, oder tippe auf **Neue Verbindung**, um einen DLNA-, WebDAV-, FTP- oder SFTP-Server von Hand hinzuzufugen.
+Es ist die Client-Seite von Everdisk: **Verbindungen** listet Server auf, die du gespeichert hast, und **Verfügbare Geräte** listet Server auf, die automatisch in deinem Netzwerk gefunden wurden. Tippe auf einen, um seine Dateien zu durchsuchen, zu streamen oder herunterzuladen, oder tippe auf **Neue Verbindung**, um einen DLNA-, WebDAV-, FTP-, SFTP- oder SMB-Server von Hand hinzuzufugen.
 {{% /details %}}
 
 {{% details title="Wie lade ich Dateien von einem Server auf mein Gerat herunter?" closed="true" %}}
@@ -256,13 +282,13 @@ Everdisk gibt deinem Gerat automatisch einen freundlichen Namen und Avatar, und 
 {{% /details %}}
 
 {{% details title="Kann ich die Verbindungsports andern?" closed="true" %}}
-Die Standards sind **HTTP 80**, **WebDAV 8080** und **FTP 2121** (DLNA wahlt seinen Port automatisch). Du kannst sie kostenlos ansehen, und das Festlegen **individueller Ports** ist eine Premium-Funktion (**Erweitert** in Einstellungen → Teilen).
+Die Standards sind **HTTP 80**, **WebDAV 8080**, **SMB 4455** und **FTP 2121** (DLNA wahlt seinen Port automatisch). Du kannst sie kostenlos ansehen, und das Festlegen **individueller Ports** ist eine Premium-Funktion (**Erweitert** in Einstellungen → Teilen).
 {{% /details %}}
 
 {{% details title="Ist Everdisk kostenlos, und was bietet Premium zusatzlich?" closed="true" %}}
-Everdisk ist ein **kostenloser** Download. Du kannst alle vier Server betreiben, den Zugriff mit einem Passwort schutzen, deine komplette Fotos- und Musikbibliothek teilen, den Dateimanager nutzen, als PDF scannen und dich mit anderen Servern verbinden. Die kostenlose Version teilt bis zu **5 Ordner** und speichert bis zu **10 Serververbindungen**.<br><br>
+Everdisk ist ein **kostenloser** Download. Du kannst alle funf Server betreiben, den Zugriff mit einem Passwort schutzen, deine komplette Fotos- und Musikbibliothek teilen, den Dateimanager nutzen, als PDF scannen und dich mit anderen Servern verbinden. Die kostenlose Version teilt bis zu **5 Ordner** und speichert bis zu **10 Serververbindungen**.<br><br>
 
-Ein einmaliger **Premium-Lifetime**-Kauf (kein Abo) fugt hinzu: **Unbegrenzte Ordner**, **Unbegrenzte Verbindungen**, **Foto- & Videokonvertierung** (Qualitat ausser Original), **Individuelle Ports**, **Teilen automatisch starten** und **Gerate-Anpassung**.
+Ein einmaliger **Premium-Lifetime**-Kauf (kein Abo) fugt hinzu: **Unbegrenzte Ordner**, **Unbegrenzte Verbindungen**, **Foto- & Videokonvertierung** (Qualitat ausser Original), **SMB-Verschlüsselung** (SMB3/AES), **Individuelle Ports**, **Teilen automatisch starten** und **Gerate-Anpassung**.
 {{% /details %}}
 
 {{% details title="Ist Premium ein Abo? Funktioniert es auf meinen anderen Geraten?" closed="true" %}}

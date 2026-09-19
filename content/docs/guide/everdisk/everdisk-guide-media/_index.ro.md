@@ -12,7 +12,7 @@ Everdisk îți redă conținutul media pe dispozitiv și partajează în rețea 
 
 ## Partajează întreaga bibliotecă de fotografii și muzică
 
-Pe ecranul de [Partajare](/docs/guide/everdisk/everdisk-guide-sharing), la **Ce să partajezi**, poți activa **Permite accesul la întreaga bibliotecă foto** și **Permite accesul la întreaga bibliotecă muzicală**. Odată ce partajarea începe, fiecare album și piesă devine disponibil pe toate cele patru servere - pe un TV, într-un browser, pe o unitate de rețea sau într-o aplicație de fișiere. Poți alege manual și doar anumite fotografii, videoclipuri sau piese cu **Adaugă fotografii** și **Adaugă piese**.
+Pe ecranul de [Partajare](/docs/guide/everdisk/everdisk-guide-sharing), la **Ce să partajezi**, poți activa **Permite accesul la întreaga bibliotecă foto** și **Permite accesul la întreaga bibliotecă muzicală**. Odată ce partajarea începe, fiecare album și piesă devine disponibil pe toate cele cinci servere - pe un TV, într-un browser, pe o unitate de rețea (WebDAV sau SMB) sau într-o aplicație de fișiere. Poți alege manual și doar anumite fotografii, videoclipuri sau piese cu **Adaugă fotografii** și **Adaugă piese**.
 
 Melodiile protejate (DRM) și piesele stocate doar în cloud nu pot fi partajate.
 
@@ -54,7 +54,7 @@ Când partajezi fotografii și videoclipuri, Everdisk le poate trimite exact aș
 Ține minte:
 
 - **Originalul este cel mai rapid** - fișierul este trimis așa cum este, fără conversie.
-- Orice altă setare **convertește din mers**, ceea ce este mai lent și consumă mai multă baterie, mai ales prin WebDAV și FTP.
+- Orice altă setare **convertește din mers**, ceea ce este mai lent și consumă mai multă baterie, mai ales prin WebDAV, SMB și FTP.
 - Încearcă mai întâi Originalul; treci la Cel mai compatibil doar dacă un anumit TV sau browser nu poate deschide un fișier.
 - **Muzica** este partajată întotdeauna în forma ei originală - nu există setări de calitate pentru muzică.
 

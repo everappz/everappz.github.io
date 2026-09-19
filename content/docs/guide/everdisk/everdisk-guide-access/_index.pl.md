@@ -1,8 +1,8 @@
 ---
 title: "Dostęp i prywatność"
 date: 2026-08-20
-description: "Zadbaj o bezpieczeństwo udostępniania w Everdisk: zabezpiecz dostęp loginem i hasłem, kontroluj za pomocą Edycji plików, czy podłączone urządzenia mogą przesyłać, zmieniać nazwy i usuwać, blokuj nieznane urządzenia, wybieraj kosz kontra trwałe usuwanie i zrozum, dlaczego wszystko pozostaje w Twojej sieci lokalnej."
-keywords: ["ochrona hasłem Everdisk", "przełącznik edycji plików", "blokowanie urządzenia", "zablokowane urządzenia", "trwałe usuwanie plików", "tylko sieć lokalna", "prywatne udostępnianie plików", "DLNA bez hasła", "bezpieczeństwo sieci"]
+description: "Zadbaj o bezpieczeństwo udostępniania w Everdisk: zabezpiecz dostęp loginem i hasłem, zaszyfruj połączenie SMB szyfrowaniem SMB3 (AES), kontroluj za pomocą Edycji plików, czy podłączone urządzenia mogą przesyłać, zmieniać nazwy i usuwać, blokuj nieznane urządzenia, wybieraj kosz kontra trwałe usuwanie i zrozum, dlaczego wszystko pozostaje w Twojej sieci lokalnej."
+keywords: ["ochrona hasłem Everdisk", "szyfrowanie SMB", "szyfrowanie SMB3 AES", "przełącznik edycji plików", "blokowanie urządzenia", "zablokowane urządzenia", "trwałe usuwanie plików", "tylko sieć lokalna", "prywatne udostępnianie plików", "DLNA bez hasła", "bezpieczeństwo sieci"]
 tags: ["everdisk", "guide", "access", "privacy", "security"]
 readingTime: 8
 ---
@@ -16,11 +16,23 @@ Domyślnie każdy w tej samej sieci, kto ma Twój adres, może otworzyć udostę
 
 1. Przejdź do **Ustawienia → Udostępnianie → Dostęp**.
 2. Wprowadź **Login** i **Hasło**.
-3. Od teraz połączenia **Przeglądarka (HTTP)**, **Komputer (WebDAV)** oraz **Inne aplikacje i urządzenia (FTP)** będą prosić o te dane, zanim pokażą Twoje pliki.
+3. Od teraz połączenia **Przeglądarka (HTTP)**, **Komputer (WebDAV)**, **Komputer (zaawansowane) (SMB)** oraz **Inne aplikacje i urządzenia (FTP)** będą prosić o te dane, zanim pokażą Twoje pliki.
 
 Pozostaw oba pola puste dla otwartego dostępu. Twoje hasło jest bezpiecznie przechowywane w Pęku kluczy urządzenia.
 
 > **DLNA jest zawsze otwarte.** Połączenia TV i centrum multimedialne (DLNA) nie da się zabezpieczyć hasłem, więc gdy jest włączone, każde urządzenie w tej samej sieci Wi-Fi może przeglądać Twoje udostępnione multimedia. Wyłącz je, jeśli chcesz mieć tylko zabezpieczone połączenia, i udostępniaj wyłącznie w sieciach, którym ufasz.
+
+## Szyfrowanie połączenia SMB (SMB3 / AES)
+
+Login i hasło kontrolują to, **kto** może się połączyć, ale same dane w większości połączeń nadal przesyłane są w postaci jawnej. **SMB to jedyne połączenie, które Everdisk potrafi zaszyfrować**, co szyfruje każdy transfer, dzięki czemu nikt inny w tej samej sieci nie może go odczytać.
+
+Aby je włączyć:
+
+1. Ustaw **Login** i **Hasło** jak powyżej - szyfrowane połączenia nie mogą być anonimowe.
+2. Przejdź do **Ustawienia → Udostępnianie** i włącz **Wymagaj szyfrowania SMB**.
+3. **Zatrzymaj i ponownie rozpocznij** udostępnianie, aby zmiana zaczęła obowiązywać.
+
+Każdy transfer SMB jest wtedy chroniony **szyfrowaniem SMB3 (AES)**. Łączące się urządzenie musi obsługiwać SMB3 - Finder na nowoczesnym Macu albo **Windows 10 i nowszy**. To świetny wybór w sieci Wi-Fi, której nie w pełni ufasz. Szyfrowanie SMB to funkcja Premium.
 
 ## Zezwalanie na edycję lub jej blokowanie (Edycja plików)
 

@@ -1,14 +1,14 @@
 ---
 title: "Conectează-ți dispozitivele"
 date: 2026-08-20
-description: "Instrucțiuni pas cu pas pentru conectarea la discul tău wireless Everdisk: urmărește pe un smart TV prin DLNA, deschide-ți fișierele în orice browser web, montează dispozitivul ca unitate de rețea în Finder, Windows sau Linux prin WebDAV, conectează aplicații de fișiere prin FTP și transferă printr-un cablu USB la un Mac, fără Wi-Fi."
+description: "Instrucțiuni pas cu pas pentru conectarea la discul tău wireless Everdisk: urmărește pe un smart TV prin DLNA, deschide-ți fișierele în orice browser web, montează dispozitivul ca unitate de rețea în Finder, Windows sau Linux prin WebDAV sau SMB (cu criptare SMB3/AES opțională), conectează aplicații de fișiere prin FTP și transferă printr-un cablu USB la un Mac, fără Wi-Fi."
 keywords: ["conectare la Everdisk", "streaming la TV DLNA", "deschidere fișiere în browser", "montare unitate de rețea Finder", "WebDAV Windows Linux", "aplicație de fișiere FTP", "transfer prin cablu USB Mac", "conectare iPhone la computer", "unitate de rețea iPhone"]
 tags: ["everdisk", "ghid", "conectare"]
 readingTime: 11
 ---
 
 
-După ce apeși **Start** pe ecranul de [Partajare](/docs/guide/everdisk/everdisk-guide-sharing), celelalte dispozitive se pot conecta la fișierele tale în patru moduri diferite. Alege metoda care se potrivește dispozitivului pe care vrei să îl folosești. În fiecare caz, **adresa** exactă de care ai nevoie este afișată în secțiunea **Cum să te conectezi** de pe ecranul de Partajare.
+După ce apeși **Start** pe ecranul de [Partajare](/docs/guide/everdisk/everdisk-guide-sharing), celelalte dispozitive se pot conecta la fișierele tale în cinci moduri diferite. Alege metoda care se potrivește dispozitivului pe care vrei să îl folosești. În fiecare caz, **adresa** exactă de care ai nevoie este afișată în secțiunea **Cum să te conectezi** de pe ecranul de Partajare.
 
 > Ambele dispozitive trebuie să fie în **aceeași rețea Wi-Fi** - sau, în cazul unui Mac, conectate cu un **cablu USB** (vezi ultima secțiune).
 
@@ -71,6 +71,29 @@ Folosește această metodă ca să faci dispozitivul tău să apară ca un disc 
 2. Introdu adresa WebDAV afișată în Everdisk.
 
 Dacă conexiunea este doar pentru citire sau bidirecțională depinde de setarea **Editarea fișierelor**. Cu ea activată, poți copia fișiere pe dispozitivul tău și le poți redenumi sau șterge; cu ea dezactivată, unitatea este doar pentru citire.
+
+## Conectează-te prin SMB (unitate de rețea criptată)
+
+SMB este o unitate de rețea pentru Mac, Windows și Linux, construită pe partajarea de fișiere deja existentă în aceste sisteme, așa că dispozitivul tău apare ca o unitate de rețea obișnuită - și este singura conexiune pe care o poți cripta.
+
+1. În **Setări → Partajare → Conexiuni**, asigură-te că **Computer (avansat)** (conexiunea SMB) este activată.
+2. Apasă **Start** și reține adresa **SMB**, care arată ca `smb://192.168.1.20:4455/Share`.
+3. Conectează-te de pe computer:
+   - **Mac:** dispozitivul tău apare de la sine în **bara laterală Finder** la **Locations** (Network) - doar dă clic pe el și autentifică-te. Pentru a te conecta manual, alege **Go → Connect to Server** (**⌘K**) și introdu adresa.
+   - **Windows:** deschide **File Explorer**, dă clic dreapta pe **This PC** și alege **Map network drive**, apoi introdu `\\<address>\Share` folosind gazda și numele partajării de pe ecranul de Partajare (sau tastează adresa `smb://` în bara de adrese).
+   - **Linux:** în managerul tău de fișiere alege **Connect to Server** și introdu adresa.
+4. Introdu utilizatorul și parola dacă ai setat una, altfel conectează-te ca invitat.
+5. Partajarea se numește **Share**. Cu **Editarea fișierelor** activată poți copia fișiere în ambele sensuri; cu ea dezactivată, este doar pentru citire.
+
+**Activează criptarea (recomandat pe un Wi-Fi în care nu ai încredere)**
+
+SMB este singura conexiune Everdisk care poate fi criptată. Ca să protejezi fiecare transfer cu **criptare SMB3 (AES)**:
+
+1. În **Setări → Partajare → Acces**, setează un **Utilizator** și o **Parolă** - conexiunile criptate nu pot fi anonime.
+2. În **Setări → Partajare**, activează **Solicită criptare SMB**.
+3. **Oprește și pornește** din nou partajarea, ca modificarea să intre în vigoare.
+
+Clientul tău trebuie să accepte SMB3 - Finder-ul de pe un Mac modern sau **Windows 10 și versiunile ulterioare**. Criptarea SMB este o funcție Premium.
 
 ## Conectează o aplicație de fișiere (FTP)
 

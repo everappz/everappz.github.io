@@ -99,7 +99,7 @@ productFlacboxTag: "100万ダウンロード"
 productFlacboxSubtitle: "iPhone・Mac向けハイレゾオーディオプレーヤー。ロスレスオーディオフォーマット（flac、alac、ape、wv、dsdなど）で音楽を楽しめます。高度なオーディオ出力設定を有効にできます。"
 productEvertagSubtitle: "自動修正とバッチモードを備えた音楽タグエディター。不足しているメタデータの検索、アルバムカバーの編集。ID3 / FLAC / APEの編集。120以上のタグに対応。"
 productEverdiskTag: "新着"
-productEverdiskSubtitle: "iPhone や iPad をワイヤレスドライブに変えましょう。DLNA、HTTP、WebDAV、FTP を使って、ファイル、写真、動画、音楽をあらゆるデバイスと共有できます。テレビにストリーミングしたり、ネットワークドライブとしてマウントしたり、他のサーバーに接続したりできます。"
+productEverdiskSubtitle: "iPhone や iPad をワイヤレスドライブに変えましょう。DLNA、HTTP、WebDAV、SMB、FTP を使って、ファイル、写真、動画、音楽をあらゆるデバイスと共有できます。テレビにストリーミングしたり、任意の SMB 暗号化付きでネットワークドライブとしてマウントしたり、他のサーバーに接続したりできます。"
 
 previousSlide: "前のスライド"
 nextSlide: "次のスライド"

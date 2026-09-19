@@ -1,7 +1,7 @@
 ---
 title: "Partajare"
 date: 2026-08-20
-description: "Află cum funcționează partajarea în Everdisk: apeși Start ca să transformi iPhone-ul sau iPad-ul într-un disc wireless, alegi ce vrei să partajezi (fișiere, foldere, fotografii și muzică), pornești cele patru servere (DLNA, HTTP, WebDAV, FTP), citești adresele de conectare, vezi cine este conectat și menții partajarea activă prin Wi-Fi sau printr-un cablu USB."
+description: "Află cum funcționează partajarea în Everdisk: apeși Start ca să transformi iPhone-ul sau iPad-ul într-un disc wireless, alegi ce vrei să partajezi (fișiere, foldere, fotografii și muzică), pornești cele cinci servere (DLNA, HTTP, WebDAV, SMB, FTP), criptezi conexiunea SMB cu SMB3 (AES), citești adresele de conectare, vezi cine este conectat și menții partajarea activă prin Wi-Fi sau printr-un cablu USB."
 keywords: ["partajare Everdisk", "disc wireless iPhone", "pornire partajare", "partajare fișiere iPhone", "partajare fotografii în rețea", "DLNA HTTP WebDAV FTP", "ce să partajezi", "cum să te conectezi", "menține aplicația deschisă", "partajare prin Wi-Fi sau cablu USB"]
 tags: ["everdisk", "ghid", "partajare"]
 readingTime: 9
@@ -17,7 +17,7 @@ Fila **Partajare** este inima aplicației Everdisk. Aici îți transformi iPhone
 - Apasă **Start** ca să pornești toate serverele activate deodată. Butonul afișează **Se pornește...**, apoi **Stop** odată ce partajarea este activă.
 - Apasă **Stop** ca să oprești din nou totul. Dispozitivele conectate sunt deconectate.
 
-Cât timp partajarea rulează, fișierele, fotografiile și muzica alese de tine sunt disponibile pentru orice dispozitiv din aceeași rețea care se conectează folosind una dintre cele patru metode de mai jos.
+Cât timp partajarea rulează, fișierele, fotografiile și muzica alese de tine sunt disponibile pentru orice dispozitiv din aceeași rețea care se conectează folosind una dintre cele cinci metode de mai jos.
 
 > Partajarea rulează doar cât timp aplicația este deschisă. Vezi **Menține aplicația deschisă** aproape de finalul acestei pagini pentru a înțelege de ce și cum poți menține transferurile mari în desfășurare.
 
@@ -44,13 +44,14 @@ Cât timp partajarea rulează, fișierele, fotografiile și muzica alese de tine
 
 Dacă încerci să pornești fără să fi selectat nimic, Everdisk afișează o notă **Nimic de partajat**. Dacă modifici ce este partajat în timp ce partajarea rulează, apasă **Stop și Start din nou** ca să aplici schimbarea.
 
-## Cele patru servere
+## Cele cinci servere
 
-Everdisk partajează același conținut în patru moduri deodată. Fiecare este gândit pentru un alt tip de dispozitiv și fiecare poate fi activat sau dezactivat în **Setări → Partajare → Conexiuni**. În mod implicit, toate cele patru sunt active.
+Everdisk partajează același conținut în cinci moduri deodată. Fiecare este gândit pentru un alt tip de dispozitiv și fiecare poate fi activat sau dezactivat în **Setări → Partajare → Conexiuni**. În mod implicit, toate cele cinci sunt active.
 
 - **TV și Media Center (DLNA)** - pentru televizoare smart și playere media. Îți descoperă singure dispozitivul și îți afișează fotografiile, videoclipurile și muzica, cu miniaturi de previzualizare.
 - **Browser (HTTP)** - pentru orice telefon, tabletă sau computer. Cealaltă persoană deschide un link într-un browser web ca să răsfoiască și să descarce fișierele tale. Nu trebuie instalat nimic.
 - **Computer (WebDAV)** - pentru un Mac, un PC cu Windows sau o mașină Linux. Dispozitivul tău apare ca o unitate de rețea obișnuită, așa că poți trage fișiere în ambele sensuri.
+- **Computer (avansat) (SMB)** - un disc de rețea pentru Mac, Windows și Linux. Pe un Mac apare de la sine în bara laterală Finder; pe Windows, îl deschizi în File Explorer cu o adresă `smb://`. Este singura conexiune pe care o poți **cripta**, cu criptare SMB3 (AES).
 - **Alte aplicații și dispozitive (FTP)** - pentru aplicații de fișiere și utilizatori avansați care vorbesc FTP.
 
 Pentru instrucțiuni de conectare pas cu pas pentru fiecare tip, vezi [Conectează-ți dispozitivele](/docs/guide/everdisk/everdisk-guide-connect).

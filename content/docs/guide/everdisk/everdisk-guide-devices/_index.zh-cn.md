@@ -1,14 +1,14 @@
 ---
 title: "连接到服务器"
 date: 2026-08-20
-description: "在 Everdisk 里用设备标签连接到网络上的其他服务器。添加并浏览 DLNA、WebDAV、FTP 和 SFTP 服务器以及 NAS 磁盘，播放音频和视频，下载文件，并在允许的服务器上新建、上传、重命名、移动或删除。"
-keywords: ["Everdisk 设备标签", "连接 NAS", "iPhone DLNA 客户端", "iPhone WebDAV 客户端", "iPhone FTP 客户端", "iPhone SFTP 客户端", "浏览网络服务器", "从 NAS 播放", "从服务器下载", "连接 WebDAV 云盘"]
+description: "在 Everdisk 里用设备标签连接到网络上的其他服务器。添加并浏览 DLNA、WebDAV、FTP、SFTP 和 SMB 服务器以及 NAS 磁盘，播放音频和视频，下载文件，并在允许的服务器上新建、上传、重命名、移动或删除。"
+keywords: ["Everdisk 设备标签", "连接 NAS", "iPhone DLNA 客户端", "iPhone WebDAV 客户端", "iPhone FTP 客户端", "iPhone SFTP 客户端", "iPhone SMB 客户端", "连接 SMB 共享", "浏览网络服务器", "从 NAS 播放", "从服务器下载", "连接 WebDAV 云盘"]
 tags: ["everdisk", "guide", "devices", "connections"]
 readingTime: 9
 ---
 
 
-Everdisk 不只是一个无线磁盘 - 它也是访问你网络里其他设备的客户端。**设备**标签让你连接到 **DLNA**、**WebDAV**、**FTP** 和 **SFTP** 服务器，包括 NAS 磁盘和媒体服务器，然后浏览、播放和下载它们的文件。
+Everdisk 不只是一个无线磁盘 - 它也是访问你网络里其他设备的客户端。**设备**标签让你连接到 **DLNA**、**WebDAV**、**FTP**、**SFTP** 和 **SMB** 服务器，包括 Mac、Windows PC、Linux 机器、NAS 磁盘和媒体服务器，然后浏览、播放和下载它们的文件。
 
 ## 设备界面
 
@@ -27,6 +27,7 @@ Everdisk 不只是一个无线磁盘 - 它也是访问你网络里其他设备�
 - **WebDAV** - 连接到支持 WebDAV 的文件服务器、网络存储磁盘和云盘。在服务器允许时可读可写。
 - **FTP** - 在路由器、网络存储磁盘和网站主机上很常见。默认端口是 21（安全 FTPS 为 990）；你可以在地址里设置自定义端口，例如 `ftp://host:2121`。留空登录名和密码即可匿名访问。
 - **SFTP** - 通过 SSH 安全连接。默认端口是 22；如有需要可在地址里用自定义端口，例如 `sftp://host:2222`。
+- **SMB** - 连接到通过 **SMB / CIFS** 共享文件夹的 Mac、Windows PC、Linux 服务器和网络存储 (NAS)。输入一个像 `smb://server-address/share-name/` 的地址（示例：`smb://local-server-name/share-name/folder-path`、`smb://192.168.1.105/share-name/folder-path`、`smb://remote-server.com`）。SMB 增加了两个可选字段：一个**工作组**名称，以及一个可以保持为**自动**或强制为 **SMB1** 或 **SMB2** 的**协议版本**。如果带有特殊字符的文件或文件夹无法打开，请试着把版本切换为 **SMB1**。
 
 > Everdisk 只连接这些本地网络和直接寻址的协议。它不会登录像 Google Drive 或 Dropbox 这样的云账户。只有当某项服务提供了可供你输入的 **WebDAV** 地址时，那个云盘才能被访问到。
 
@@ -53,7 +54,7 @@ Everdisk 不只是一个无线磁盘 - 它也是访问你网络里其他设备�
 
 ## 更改服务器上的文件
 
-在允许写入的服务器上 - **WebDAV、FTP 和 SFTP** - 你还可以管理文件：
+在允许写入的服务器上 - **WebDAV、FTP、SFTP 和 SMB** - 你还可以管理文件：
 
 - **新建文件夹**
 - 从你的设备**上传文件**

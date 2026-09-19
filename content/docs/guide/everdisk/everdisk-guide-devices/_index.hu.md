@@ -1,14 +1,14 @@
 ---
 title: "Csatlakozás kiszolgálókhoz"
 date: 2026-08-20
-description: "Használd az Everdisk Eszközök fülét, hogy a hálózatodon lévő többi kiszolgálóhoz csatlakozz. Adj hozzá és böngéssz DLNA, WebDAV, FTP és SFTP kiszolgálókat és NAS-meghajtókat, streamelj hangot és videót, tölts le fájlokat, és hozz létre, tölts fel, nevezz át, mozgass vagy törölj azokon a kiszolgálókon, amelyek ezt engedélyezik."
-keywords: ["Everdisk Eszközök fül", "csatlakozás NAS-hoz", "DLNA kliens iPhone", "WebDAV kliens iPhone", "FTP kliens iPhone", "SFTP kliens iPhone", "hálózati kiszolgáló böngészése", "streamelés NAS-ról", "letöltés kiszolgálóról", "csatlakozás felhő WebDAV"]
+description: "Használd az Everdisk Eszközök fülét, hogy a hálózatodon lévő többi kiszolgálóhoz csatlakozz. Adj hozzá és böngéssz DLNA, WebDAV, FTP, SFTP és SMB kiszolgálókat és NAS-meghajtókat, streamelj hangot és videót, tölts le fájlokat, és hozz létre, tölts fel, nevezz át, mozgass vagy törölj azokon a kiszolgálókon, amelyek ezt engedélyezik."
+keywords: ["Everdisk Eszközök fül", "csatlakozás NAS-hoz", "DLNA kliens iPhone", "WebDAV kliens iPhone", "FTP kliens iPhone", "SFTP kliens iPhone", "SMB kliens iPhone", "csatlakozás SMB megosztáshoz", "hálózati kiszolgáló böngészése", "streamelés NAS-ról", "letöltés kiszolgálóról", "csatlakozás felhő WebDAV"]
 tags: ["everdisk", "guide", "devices", "connections"]
 readingTime: 9
 ---
 
 
-Az Everdisk nem csupán egy vezeték nélküli meghajtó - egyben kliens is a hálózatodon lévő többi eszközhöz. Az **Eszközök** fül lehetővé teszi, hogy **DLNA**, **WebDAV**, **FTP** és **SFTP** kiszolgálókhoz csatlakozz - beleértve a NAS-meghajtókat és médiakiszolgálókat is -, majd böngészd, streameld és letöltsd azok fájljait.
+Az Everdisk nem csupán egy vezeték nélküli meghajtó - egyben kliens is a hálózatodon lévő többi eszközhöz. Az **Eszközök** fül lehetővé teszi, hogy **DLNA**, **WebDAV**, **FTP**, **SFTP** és **SMB** kiszolgálókhoz csatlakozz - beleértve a Maceket, Windows PC-ket, Linux gépeket, NAS-meghajtókat és médiakiszolgálókat is -, majd böngészd, streameld és letöltsd azok fájljait.
 
 ## Az Eszközök képernyő
 
@@ -27,6 +27,7 @@ Ha egy olyan dologhoz szeretnél csatlakozni, amelyet az Everdisk már megtalál
 - **WebDAV** - csatlakozz fájlkiszolgálókhoz, hálózati tárolómeghajtókhoz és WebDAV-ot támogató felhőmeghajtókhoz. Olvasás és írás, amikor a kiszolgáló engedélyezi.
 - **FTP** - gyakori routereken, hálózati tárolómeghajtókon és webtárhelyeken. Az alapértelmezett port a 21 (990 a biztonságos FTPS esetén); egyéni portot is megadhatsz a címben, például `ftp://host:2121`. Hagyd üresen a bejelentkezési nevet és jelszót az anonim hozzáféréshez.
 - **SFTP** - csatlakozz biztonságosan SSH-n keresztül. Az alapértelmezett port a 22; szükség esetén egyéni portot használhatsz a címben, például `sftp://host:2222`.
+- **SMB** - csatlakozz Macekhez, Windows PC-khez, Linux kiszolgálókhoz és hálózati tárolókhoz (NAS), amelyek **SMB / CIFS** protokollon osztanak meg mappákat. Adj meg egy `smb://server-address/share-name/` formátumú címet (példák: `smb://local-server-name/share-name/folder-path`, `smb://192.168.1.105/share-name/folder-path`, `smb://remote-server.com`). Az SMB két opcionális mezőt ad hozzá: egy **Munkacsoport** nevet, és egy **Protokollverziót**, amelyet hagyhatsz **Automatikus** értéken, vagy kényszeríthetsz **SMB1**-re vagy **SMB2**-re. Ha a különleges karaktereket tartalmazó fájlok vagy mappák nem nyílnak meg, próbáld meg átváltani a verziót **SMB1**-re.
 
 > Az Everdisk csak ezekhez a helyi hálózati és közvetlenül címzett protokollokhoz csatlakozik. Nem jelentkezik be felhőfiókokba, mint a Google Drive vagy a Dropbox. Egy felhőmeghajtó csak akkor érhető el, ha az adott szolgáltatás kínál egy **WebDAV**-címet, amelyet be tudsz írni.
 
@@ -53,7 +54,7 @@ Ha csatlakoztál, érintsd meg a kiszolgálót a megnyitásához:
 
 ## Fájlok módosítása egy kiszolgálón
 
-Azokon a kiszolgálókon, amelyek engedélyezik az írást - **WebDAV, FTP és SFTP** -, fájlokat is kezelhetsz:
+Azokon a kiszolgálókon, amelyek engedélyezik az írást - **WebDAV, FTP, SFTP és SMB** -, fájlokat is kezelhetsz:
 
 - **Új mappa**
 - **Fájlok feltöltése** az eszközödről

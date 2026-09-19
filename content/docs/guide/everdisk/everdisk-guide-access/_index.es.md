@@ -1,8 +1,8 @@
 ---
 title: "Acceso y privacidad"
 date: 2026-08-20
-description: "Manten seguro lo que compartes con Everdisk: protege el acceso con un usuario y contrasena, controla si los dispositivos conectados pueden subir, renombrar y eliminar con la Edicion de archivos, bloquea dispositivos desconocidos, elige entre papelera y eliminacion permanente y entiende por que todo se queda en tu red local."
-keywords: ["proteccion con contrasena Everdisk", "interruptor de edicion de archivos", "bloquear dispositivo", "dispositivos bloqueados", "eliminar archivos permanentemente", "solo red local", "compartir archivos de forma privada", "DLNA sin contrasena", "seguridad de red"]
+description: "Manten seguro lo que compartes con Everdisk: protege el acceso con un usuario y contrasena, cifra la conexion SMB con SMB3 (AES), controla si los dispositivos conectados pueden subir, renombrar y eliminar con la Edicion de archivos, bloquea dispositivos desconocidos, elige entre papelera y eliminacion permanente y entiende por que todo se queda en tu red local."
+keywords: ["proteccion con contrasena Everdisk", "cifrado SMB", "cifrado SMB3 AES", "interruptor de edicion de archivos", "bloquear dispositivo", "dispositivos bloqueados", "eliminar archivos permanentemente", "solo red local", "compartir archivos de forma privada", "DLNA sin contrasena", "seguridad de red"]
 tags: ["everdisk", "guia", "acceso", "privacidad", "seguridad"]
 readingTime: 8
 ---
@@ -16,11 +16,23 @@ De forma predeterminada, cualquiera de la misma red que tenga tu direccion puede
 
 1. Ve a **Ajustes -> Compartir -> Acceso**.
 2. Introduce un **Usuario** y una **Contrasena**.
-3. Ahora las conexiones de **Navegador (HTTP)**, **Ordenador (WebDAV)** y **Otras apps y dispositivos (FTP)** piden esos datos antes de mostrar tus archivos.
+3. Ahora las conexiones de **Navegador (HTTP)**, **Ordenador (WebDAV)**, **Equipo (avanzado) (SMB)** y **Otras apps y dispositivos (FTP)** piden esos datos antes de mostrar tus archivos.
 
 Deja ambos campos vacios para el acceso abierto. Tu contrasena se guarda de forma segura en el Llavero del dispositivo.
 
 > **DLNA siempre esta abierto.** La conexion de TV y centro multimedia (DLNA) no se puede proteger con contrasena, asi que, una vez activada, cualquier dispositivo de la misma red Wi-Fi puede explorar tu contenido compartido. Desactivala si solo quieres conexiones protegidas, y comparte unicamente en redes de confianza.
+
+## Cifra la conexion SMB (SMB3 / AES)
+
+Un usuario y una contrasena controlan **quien** puede conectarse, pero los datos en si siguen viajando sin cifrar en la mayoria de las conexiones. **SMB es la unica conexion que Everdisk puede cifrar**, lo que codifica cada transferencia para que nadie mas en la misma red pueda leerla.
+
+Para activarlo:
+
+1. Establece un **Usuario** y una **Contrasena** como arriba: las conexiones cifradas no pueden ser anonimas.
+2. Ve a **Ajustes -> Compartir** y activa **Requerir cifrado SMB**.
+3. **Deten e inicia** la comparticion de nuevo para que el cambio surta efecto.
+
+Entonces cada transferencia SMB queda protegida con **cifrado SMB3 (AES)**. El dispositivo que se conecta debe admitir SMB3: el Finder de un Mac moderno, o **Windows 10 y posteriores**. Es una gran opcion en una Wi-Fi en la que no confias del todo. El Cifrado SMB es una funcion Premium.
 
 ## Permitir o bloquear la edicion (Edicion de archivos)
 

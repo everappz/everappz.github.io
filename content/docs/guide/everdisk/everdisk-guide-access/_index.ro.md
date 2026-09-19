@@ -1,8 +1,8 @@
 ---
 title: "Acces și confidențialitate"
 date: 2026-08-20
-description: "Menține partajarea Everdisk în siguranță: protejează accesul cu un utilizator și o parolă, controlează dacă dispozitivele conectate pot încărca, redenumi și șterge prin Editarea fișierelor, blochează dispozitivele necunoscute, alege între coș de gunoi și ștergere permanentă și înțelege de ce totul rămâne în rețeaua ta locală."
-keywords: ["protejare cu parolă Everdisk", "comutator editare fișiere", "blocare dispozitiv", "dispozitive blocate", "ștergere permanentă fișiere", "doar rețea locală", "partajare privată de fișiere", "DLNA fără parolă", "siguranță în rețea"]
+description: "Menține partajarea Everdisk în siguranță: protejează accesul cu un utilizator și o parolă, criptează conexiunea SMB cu SMB3 (AES), controlează dacă dispozitivele conectate pot încărca, redenumi și șterge prin Editarea fișierelor, blochează dispozitivele necunoscute, alege între coș de gunoi și ștergere permanentă și înțelege de ce totul rămâne în rețeaua ta locală."
+keywords: ["protejare cu parolă Everdisk", "criptare SMB", "criptare SMB3 AES", "comutator editare fișiere", "blocare dispozitiv", "dispozitive blocate", "ștergere permanentă fișiere", "doar rețea locală", "partajare privată de fișiere", "DLNA fără parolă", "siguranță în rețea"]
 tags: ["everdisk", "ghid", "acces", "confidențialitate", "securitate"]
 readingTime: 8
 ---
@@ -16,11 +16,23 @@ Everdisk îți păstrează fișierele în propria ta rețea și îți oferă con
 
 1. Mergi la **Setări → Partajare → Acces**.
 2. Introdu un **Utilizator** și o **Parolă**.
-3. Acum conexiunile **Browser (HTTP)**, **Computer (WebDAV)** și **Alte aplicații și dispozitive (FTP)** cer toate acele detalii înainte de a-ți afișa fișierele.
+3. Acum conexiunile **Browser (HTTP)**, **Computer (WebDAV)**, **Computer (avansat) (SMB)** și **Alte aplicații și dispozitive (FTP)** cer toate acele detalii înainte de a-ți afișa fișierele.
 
 Lasă ambele câmpuri goale pentru acces deschis. Parola ta este stocată în siguranță în Keychain-ul dispozitivului.
 
 > **DLNA este întotdeauna deschis.** Conexiunea TV și Media Center (DLNA) nu poate fi protejată cu parolă, așa că odată ce este activată, orice dispozitiv din aceeași rețea Wi-Fi îți poate răsfoi conținutul media partajat. Dezactiveaz-o dacă vrei doar conexiuni protejate și partajează doar în rețele în care ai încredere.
+
+## Criptează conexiunea SMB (SMB3 / AES)
+
+Un utilizator și o parolă controlează **cine** se poate conecta, dar datele în sine circulă totuși necriptate pe majoritatea conexiunilor. **SMB este singura conexiune pe care Everdisk o poate cripta**, ceea ce codifică fiecare transfer, astfel încât nimeni altcineva din aceeași rețea să nu-l poată citi.
+
+Ca să o activezi:
+
+1. Setează un **Utilizator** și o **Parolă** ca mai sus - conexiunile criptate nu pot fi anonime.
+2. Mergi la **Setări → Partajare** și activează **Solicită criptare SMB**.
+3. **Oprește și pornește** din nou partajarea, ca modificarea să intre în vigoare.
+
+Fiecare transfer SMB este apoi protejat cu **criptare SMB3 (AES)**. Dispozitivul care se conectează trebuie să accepte SMB3 - Finder-ul de pe un Mac modern sau **Windows 10 și versiunile ulterioare**. Este o alegere excelentă pe un Wi-Fi în care nu ai deplină încredere. Criptarea SMB este o funcție Premium.
 
 ## Permite sau blochează editarea (Editarea fișierelor)
 

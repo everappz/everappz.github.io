@@ -1,14 +1,14 @@
 ---
 title: "Połącz z serwerami"
 date: 2026-08-20
-description: "Skorzystaj z karty Urządzenia w Everdisk, aby połączyć się z innymi serwerami w sieci. Dodawaj i przeglądaj serwery DLNA, WebDAV, FTP i SFTP oraz dyski NAS, odtwarzaj strumieniowo dźwięk i wideo, pobieraj pliki oraz twórz, przesyłaj, zmieniaj nazwy, przenoś lub usuwaj na serwerach, które na to pozwalają."
-keywords: ["karta Urządzenia Everdisk", "połączenie z NAS", "klient DLNA iPhone", "klient WebDAV iPhone", "klient FTP iPhone", "klient SFTP iPhone", "przeglądanie serwera sieciowego", "streaming z NAS", "pobieranie z serwera", "połączenie chmury WebDAV"]
+description: "Skorzystaj z karty Urządzenia w Everdisk, aby połączyć się z innymi serwerami w sieci. Dodawaj i przeglądaj serwery DLNA, WebDAV, FTP, SFTP i SMB oraz dyski NAS, odtwarzaj strumieniowo dźwięk i wideo, pobieraj pliki oraz twórz, przesyłaj, zmieniaj nazwy, przenoś lub usuwaj na serwerach, które na to pozwalają."
+keywords: ["karta Urządzenia Everdisk", "połączenie z NAS", "klient DLNA iPhone", "klient WebDAV iPhone", "klient FTP iPhone", "klient SFTP iPhone", "klient SMB iPhone", "łączenie z udziałem SMB", "przeglądanie serwera sieciowego", "streaming z NAS", "pobieranie z serwera", "połączenie chmury WebDAV"]
 tags: ["everdisk", "guide", "devices", "connections"]
 readingTime: 9
 ---
 
 
-Everdisk to nie tylko bezprzewodowy dysk - to także klient dla pozostałych urządzeń w Twojej sieci. Karta **Urządzenia** pozwala łączyć się z serwerami **DLNA**, **WebDAV**, **FTP** i **SFTP**, w tym z dyskami NAS i serwerami multimediów, a następnie przeglądać, odtwarzać strumieniowo i pobierać ich pliki.
+Everdisk to nie tylko bezprzewodowy dysk - to także klient dla pozostałych urządzeń w Twojej sieci. Karta **Urządzenia** pozwala łączyć się z serwerami **DLNA**, **WebDAV**, **FTP**, **SFTP** i **SMB**, w tym z Makami, komputerami z Windows, maszynami z Linux, dyskami NAS i serwerami multimediów, a następnie przeglądać, odtwarzać strumieniowo i pobierać ich pliki.
 
 ## Ekran Urządzenia
 
@@ -27,6 +27,7 @@ Dotknij **Nowe połączenie** i wybierz typ serwera, do którego chcesz dotrzeć
 - **WebDAV** - łącz się z serwerami plików, sieciowymi dyskami pamięci oraz dyskami w chmurze obsługującymi WebDAV. Odczyt i zapis, gdy serwer na to pozwala.
 - **FTP** - powszechny w routerach, sieciowych dyskach pamięci i hostingu internetowym. Domyślny port to 21 (990 dla bezpiecznego FTPS); własny port możesz ustawić w adresie, na przykład `ftp://host:2121`. Pozostaw login i hasło puste dla dostępu anonimowego.
 - **SFTP** - łącz się bezpiecznie przez SSH. Domyślny port to 22; w razie potrzeby użyj własnego portu w adresie, na przykład `sftp://host:2222`.
+- **SMB** - łącz się z Makami, komputerami z Windows, serwerami Linux i pamięciami sieciowymi (NAS), które udostępniają foldery przez **SMB / CIFS**. Wpisz adres taki jak `smb://server-address/share-name/` (przykłady: `smb://local-server-name/share-name/folder-path`, `smb://192.168.1.105/share-name/folder-path`, `smb://remote-server.com`). SMB dodaje dwa opcjonalne pola: nazwę **Grupy roboczej** oraz **Wersję protokołu**, którą możesz pozostawić na **Wersja automatyczna** albo wymusić **SMB1** lub **SMB2**. Jeśli pliki lub foldery ze znakami specjalnymi nie chcą się otwierać, spróbuj przełączyć wersję na **SMB1**.
 
 > Everdisk łączy się wyłącznie z tymi protokołami sieci lokalnej i adresowanymi bezpośrednio. Nie loguje się do kont w chmurze, takich jak Google Drive czy Dropbox. Dysk w chmurze jest dostępny tylko wtedy, gdy dana usługa oferuje adres **WebDAV**, który możesz wpisać.
 
@@ -53,7 +54,7 @@ Po połączeniu dotknij serwera, aby go otworzyć:
 
 ## Zmienianie plików na serwerze
 
-Na serwerach, które pozwalają na zapis - **WebDAV, FTP i SFTP** - możesz również zarządzać plikami:
+Na serwerach, które pozwalają na zapis - **WebDAV, FTP, SFTP i SMB** - możesz również zarządzać plikami:
 
 - **Nowy folder**
 - **Prześlij pliki** z urządzenia

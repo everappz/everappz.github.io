@@ -1,7 +1,7 @@
 ---
 title: "Beállítások"
 date: 2026-08-20
-description: "Teljes körű bemutató az Everdisk beállításairól: eszközprofil (név és avatar), a négy kapcsolati kiszolgáló, hozzáférés-vezérlők, fotó- és videóminőség, egyéni portok, DLNA-bélyegképek, hálózati és átviteli beállítások, fájlkezelő beállítások és a Premium."
+description: "Teljes körű bemutató az Everdisk beállításairól: eszközprofil (név és avatar), az öt kapcsolati kiszolgáló, hozzáférés-vezérlők, SMB-titkosítás (SMB3/AES), fotó- és videóminőség, egyéni portok, DLNA-bélyegképek, hálózati és átviteli beállítások, fájlkezelő beállítások és a Premium."
 keywords: ["Everdisk beállítások", "eszköznév avatar", "kapcsolati kiszolgálók", "fotó videó minőség", "egyéni portok HTTP WebDAV FTP", "DLNA-bélyegképek", "párhuzamos átvitelek", "fájlok végleges törlése", "bélyegkép-gyorsítótár", "Everdisk Premium"]
 tags: ["everdisk", "guide", "settings"]
 readingTime: 12
@@ -38,11 +38,12 @@ A részletekért lásd a [Hozzáférés és adatvédelem](/docs/guide/everdisk/e
 
 ### Kapcsolatok
 
-Kapcsold be vagy ki az egyes kiszolgálókat. Mind a négy alapértelmezés szerint be van kapcsolva, és mindegyikhez tartozik egy info (ⓘ) gomb csatlakozási utasításokkal:
+Kapcsold be vagy ki az egyes kiszolgálókat. Mind az öt alapértelmezés szerint be van kapcsolva, és mindegyikhez tartozik egy info (ⓘ) gomb csatlakozási utasításokkal:
 
 - **TV és médiaközpont** (DLNA)
 - **Böngésző** (HTTP)
 - **Számítógép** (WebDAV)
+- **Számítógép (speciális)** (SMB) - hálózati meghajtó Machez, Windowshoz és Linuxhoz; Macen magától megjelenik a Finder oldalsávjában. Az egyetlen kapcsolat, amely titkosítható.
 - **Más alkalmazások és eszközök** (FTP)
 
 ### Fotók
@@ -61,7 +62,11 @@ Ugyanaz az elv, mint a Fotóknál: az Eredeti a leggyorsabb, és az átalakítá
 
 ### Speciális
 
-- **HTTP-port** (alapértelmezett 80), **WebDAV-port** (alapértelmezett 8080), **FTP-port** (alapértelmezett 2121). A DLNA automatikusan választja meg a portját. *(A portok módosítása Premium; az ingyenes felhasználók láthatják az értékeket.)*
+- **HTTP-port** (alapértelmezett 80), **WebDAV-port** (alapértelmezett 8080), **SMB-port** (alapértelmezett 4455), **FTP-port** (alapértelmezett 2121). A DLNA automatikusan választja meg a portját. *(A portok módosítása Premium; az ingyenes felhasználók láthatják az értékeket.)*
+
+### SMB-titkosítás
+
+- **SMB-titkosítás megkövetelése** - minden SMB-átvitel titkosítása **SMB3-titkosítással (AES)**, hogy senki más a hálózaton ne tudja elolvasni a fájljaidat. Alapértelmezés szerint ki van kapcsolva. Ehhez a fent beállított **bejelentkezési név és jelszó** szükséges (a titkosított kapcsolatok nem lehetnek névtelenek), valamint egy olyan kliens, amely támogatja az SMB3-at, például a Finder egy modern Macen vagy a Windows 10 és újabb. A módosítások a megosztás következő elindításakor lépnek életbe. *(Premium.)*
 
 ### DLNA-bélyegképek
 
@@ -92,7 +97,8 @@ Az Everdisk ingyenesen használható. Egyetlen **Premium Lifetime** vásárlás 
 - **Korlátlan mappák** - ossz meg 5-nél több mappát.
 - **Korlátlan kapcsolatok** - ments el 10-nél több kiszolgálót az Eszközök fülön.
 - **Fotó- és videóátalakítás** - ossz meg az Eredetitől eltérő bármilyen minőségben.
-- **Egyéni portok** - állítsd be a saját HTTP-, WebDAV- és FTP-portjaidat.
+- **SMB-titkosítás** - védd az SMB-átviteleket SMB3-titkosítással (AES).
+- **Egyéni portok** - állítsd be a saját HTTP-, WebDAV-, SMB- és FTP-portjaidat.
 - **Automatikus megosztásindítás** - a megosztás automatikusan elindul, amikor megnyitod az alkalmazást.
 - **Eszköz testreszabása** - egyéni eszköznév, avatarikon, háttérszínátmenet vagy fotóavatar.
 

@@ -1,7 +1,7 @@
 ---
 title: "Chia sẻ"
 date: 2026-08-20
-description: "Tìm hiểu cách chia sẻ hoạt động trong Everdisk: chạm Bắt đầu để biến iPhone hoặc iPad của bạn thành ổ đĩa không dây, chọn nội dung để chia sẻ (tệp, thư mục, ảnh và nhạc), chạy bốn máy chủ (DLNA, HTTP, WebDAV, FTP), đọc các địa chỉ kết nối, xem ai đang kết nối, và duy trì việc chia sẻ qua Wi-Fi hoặc cáp USB."
+description: "Tìm hiểu cách chia sẻ hoạt động trong Everdisk: chạm Bắt đầu để biến iPhone hoặc iPad của bạn thành ổ đĩa không dây, chọn nội dung để chia sẻ (tệp, thư mục, ảnh và nhạc), chạy năm máy chủ (DLNA, HTTP, WebDAV, SMB, FTP), mã hóa kết nối SMB bằng SMB3 (AES), đọc các địa chỉ kết nối, xem ai đang kết nối, và duy trì việc chia sẻ qua Wi-Fi hoặc cáp USB."
 keywords: ["chia sẻ Everdisk", "ổ đĩa không dây iPhone", "bắt đầu chia sẻ", "chia sẻ tệp iPhone", "chia sẻ ảnh qua mạng", "DLNA HTTP WebDAV FTP", "chọn nội dung chia sẻ", "cách kết nối", "giữ ứng dụng mở", "chia sẻ qua Wi-Fi hoặc cáp USB"]
 tags: ["everdisk", "guide", "sharing"]
 readingTime: 9
@@ -17,7 +17,7 @@ Tab **Chia sẻ** là trái tim của Everdisk. Đây là nơi bạn biến iPho
 - Chạm **Bắt đầu** để đưa tất cả các máy chủ đã bật lên trực tuyến cùng một lúc. Nút sẽ hiển thị **Đang khởi động...**, rồi chuyển sang **Dừng** khi việc chia sẻ đã hoạt động.
 - Chạm **Dừng** để đưa mọi thứ trở lại ngoại tuyến. Các thiết bị đang kết nối sẽ bị ngắt.
 
-Trong khi chia sẻ đang chạy, các tệp, ảnh và nhạc bạn đã chọn sẽ có sẵn cho mọi thiết bị trong cùng mạng kết nối bằng một trong bốn phương thức bên dưới.
+Trong khi chia sẻ đang chạy, các tệp, ảnh và nhạc bạn đã chọn sẽ có sẵn cho mọi thiết bị trong cùng mạng kết nối bằng một trong năm phương thức bên dưới.
 
 > Việc chia sẻ chỉ chạy khi ứng dụng đang mở. Hãy xem **Giữ ứng dụng luôn mở** ở gần cuối trang này để hiểu lý do, và cách giữ cho những lượt truyền tệp lớn không bị gián đoạn.
 
@@ -44,13 +44,14 @@ Trước khi bắt đầu, hãy chạm vào tiêu đề **Nội dung chia sẻ**
 
 Nếu bạn cố bắt đầu mà chưa chọn gì, Everdisk sẽ hiển thị ghi chú **Không có gì để chia sẻ**. Nếu bạn thay đổi nội dung chia sẻ trong khi đang chia sẻ, hãy **Dừng rồi Bắt đầu lại** để áp dụng thay đổi.
 
-## Bốn máy chủ
+## Năm máy chủ
 
-Everdisk chia sẻ cùng một nội dung theo bốn cách cùng một lúc. Mỗi cách được thiết kế cho một loại thiết bị khác nhau, và mỗi cái đều có thể bật hoặc tắt trong **Cài đặt → Chia sẻ → Kết nối**. Theo mặc định cả bốn đều được bật.
+Everdisk chia sẻ cùng một nội dung theo năm cách cùng một lúc. Mỗi cách được thiết kế cho một loại thiết bị khác nhau, và mỗi cái đều có thể bật hoặc tắt trong **Cài đặt → Chia sẻ → Kết nối**. Theo mặc định cả năm đều được bật.
 
 - **TV & Trung tâm giải trí (DLNA)** - dành cho các TV thông minh và trình phát media. Chúng tự phát hiện thiết bị của bạn và hiển thị ảnh, video và nhạc kèm hình thu nhỏ xem trước.
 - **Trình duyệt (HTTP)** - dành cho mọi điện thoại, máy tính bảng hay máy tính. Người kia chỉ cần mở một liên kết trong trình duyệt web để duyệt và tải tệp của bạn. Không cần cài gì.
 - **Máy tính (WebDAV)** - dành cho máy Mac, PC Windows hay máy Linux. Thiết bị của bạn hiện ra như một ổ đĩa mạng thông thường để bạn có thể kéo tệp theo cả hai chiều.
+- **Máy tính (Nâng cao) (SMB)** - một ổ đĩa mạng cho Mac, Windows và Linux. Trên Mac nó tự hiện lên trong thanh bên Finder; trên Windows, mở nó trong File Explorer bằng một địa chỉ `smb://`. Đây là kết nối duy nhất bạn có thể **mã hóa**, bằng mã hóa SMB3 (AES).
 - **Ứng dụng & Thiết bị khác (FTP)** - dành cho các ứng dụng quản lý tệp và người dùng chuyên sâu quen dùng FTP.
 
 Để xem hướng dẫn kết nối từng bước cho mỗi loại, hãy xem [Kết nối các thiết bị của bạn](/docs/guide/everdisk/everdisk-guide-connect).

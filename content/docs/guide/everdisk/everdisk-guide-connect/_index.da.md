@@ -1,14 +1,14 @@
 ---
 title: "Forbind dine enheder"
 date: 2026-08-20
-description: "Trinvise anvisninger til at oprette forbindelse til dit trådløse Everdisk-drev: se indhold på et smart-TV via DLNA, åbn dine filer i enhver webbrowser, monter din enhed som et netværksdrev i Finder, Windows eller Linux via WebDAV, forbind filapps via FTP, og overfør over et USB-kabel til en Mac uden Wi-Fi."
+description: "Trinvise anvisninger til at oprette forbindelse til dit trådløse Everdisk-drev: se indhold på et smart-TV via DLNA, åbn dine filer i enhver webbrowser, monter din enhed som et netværksdrev i Finder, Windows eller Linux via WebDAV eller SMB (med valgfri SMB3/AES-kryptering), forbind filapps via FTP, og overfør over et USB-kabel til en Mac uden Wi-Fi."
 keywords: ["opret forbindelse til Everdisk", "stream til TV DLNA", "åbn filer i browser", "monter netværksdrev Finder", "WebDAV Windows Linux", "FTP-filapp", "USB-kabeloverførsel Mac", "forbind iPhone til computer", "netværksdrev iPhone"]
 tags: ["everdisk", "vejledning", "forbind"]
 readingTime: 11
 ---
 
 
-Når du har trykket på **Start** på [Deling](/docs/guide/everdisk/everdisk-guide-sharing)-skærmen, kan andre enheder oprette forbindelse til dine filer på fire forskellige måder. Vælg den metode, der passer til den enhed, du vil bruge. I alle tilfælde vises den præcise **adresse**, du skal bruge, i afsnittet **Sådan opretter du forbindelse** på Deling-skærmen.
+Når du har trykket på **Start** på [Deling](/docs/guide/everdisk/everdisk-guide-sharing)-skærmen, kan andre enheder oprette forbindelse til dine filer på fem forskellige måder. Vælg den metode, der passer til den enhed, du vil bruge. I alle tilfælde vises den præcise **adresse**, du skal bruge, i afsnittet **Sådan opretter du forbindelse** på Deling-skærmen.
 
 > Begge enheder skal være på det **samme Wi-Fi-netværk** - eller, for en Mac, forbundet med et **USB-kabel** (se det sidste afsnit).
 
@@ -71,6 +71,29 @@ Brug denne metode til at få din enhed til at vises som en almindelig disk på e
 2. Indtast den WebDAV-adresse, der vises i Everdisk.
 
 Om forbindelsen er skrivebeskyttet eller går begge veje, afhænger af indstillingen **Redigering af filer**. Når den er slået til, kan du kopiere filer over på din enhed og omdøbe eller slette dem; når den er slået fra, er drevet skrivebeskyttet.
+
+## Forbind over SMB (krypteret netværksdrev)
+
+SMB er et netværksdrev til Mac, Windows og Linux, bygget på den fildeling, der allerede findes i disse systemer, så din enhed dukker op som et helt almindeligt netværksdrev - og det er den eneste forbindelse, du kan kryptere.
+
+1. Under **Indstillinger → Deling → Forbindelser** skal du sikre dig, at **Computer (avanceret)** (SMB-forbindelsen) er slået til.
+2. Tryk på **Start**, og notér **SMB**-adressen, der ser sådan ud: `smb://192.168.1.20:4455/Share`.
+3. Forbind fra din computer:
+   - **Mac:** din enhed dukker op af sig selv i **Finder-sidebjælken** under **Placeringer** (Netværk) - klik blot på den og log ind. For at forbinde manuelt i stedet vælger du **Gå → Opret forbindelse til server** (**⌘K**) og indtaster adressen.
+   - **Windows:** åbn **Stifinder**, højreklik på **Denne pc** og vælg **Tilslut netværksdrev**, og indtast derefter `\\<address>\Share` med værten og sharenavnet fra Deling-skærmen (eller skriv `smb://`-adressen i adresselinjen).
+   - **Linux:** vælg **Opret forbindelse til server** i din filhåndtering og indtast adressen.
+4. Indtast login og adgangskode, hvis du har angivet dem, ellers opret forbindelse som gæst.
+5. Sharet hedder **Share**. Med **Redigering af filer** slået til kan du kopiere filer begge veje; med den slået fra er det skrivebeskyttet.
+
+**Slå kryptering til (anbefales på Wi-Fi, du ikke stoler på)**
+
+SMB er den eneste Everdisk-forbindelse, der kan krypteres. Sådan beskytter du hver overførsel med **SMB3-kryptering (AES)**:
+
+1. Under **Indstillinger → Deling → Adgang** sætter du et **Login** og en **Adgangskode** - krypterede forbindelser kan ikke være anonyme.
+2. Under **Indstillinger → Deling** slår du **Kræv SMB-kryptering** til.
+3. **Stop og Start** deling igen, så ændringen træder i kraft.
+
+Din klient skal understøtte SMB3 - Finder på en moderne Mac eller **Windows 10 og nyere**. SMB-kryptering er en Premium-funktion.
 
 ## Forbind en filapp (FTP)
 

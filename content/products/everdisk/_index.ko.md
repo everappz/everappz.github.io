@@ -2,12 +2,12 @@
 date: '2026-08-20T12:00:00+00:00'
 title: 'Everdisk - iPhone과 iPad를 무선 드라이브로'
 layout: hextra-home
-description: "iPhone이나 iPad를 무선 드라이브로 바꿔 DLNA, HTTP, WebDAV, FTP로 파일, 사진, 동영상, 음악을 모든 기기와 공유하세요. 클라우드가 필요 없습니다."
-keywords: ["Everdisk", "iPhone 무선 드라이브", "iPhone 파일 공유", "iOS WebDAV 서버", "iPhone DLNA 서버", "iOS FTP 서버", "iPhone에서 TV로 스트리밍", "iPhone 네트워크 드라이브", "iPhone USB 파일 전송", "iOS 파일 관리자", "문서를 PDF로 스캔", "네트워크로 사진 공유"]
-tags: ["Everdisk", "무선 드라이브", "파일 공유", "DLNA", "WebDAV", "FTP", "SFTP", "네트워크 드라이브", "iPhone 앱", "iPad 앱", "Mac 앱", "파일 관리자", "미디어 서버"]
+description: "iPhone이나 iPad를 무선 드라이브로 바꿔 DLNA, HTTP, WebDAV, SMB, FTP로 파일, 사진, 동영상, 음악을 모든 기기와 공유하세요. 선택적 SMB 암호화로 네트워크 드라이브로 마운트하세요. 클라우드가 필요 없습니다."
+keywords: ["Everdisk", "iPhone 무선 드라이브", "iPhone 파일 공유", "iOS WebDAV 서버", "iPhone SMB 서버", "iOS SMB 암호화", "iPhone DLNA 서버", "iOS FTP 서버", "iPhone에서 TV로 스트리밍", "iPhone 네트워크 드라이브", "iPhone USB 파일 전송", "iOS 파일 관리자", "문서를 PDF로 스캔", "네트워크로 사진 공유"]
+tags: ["Everdisk", "무선 드라이브", "파일 공유", "DLNA", "WebDAV", "SMB", "FTP", "SFTP", "네트워크 드라이브", "iPhone 앱", "iPad 앱", "Mac 앱", "파일 관리자", "미디어 서버"]
 appStoreUrl: "https://apps.apple.com/app/apple-store/id6751851132?pt=95781850&ct=everappzcom&mt=8"
 appStoreId: "6751851132"
-features: "Wi-Fi와 USB로 무선 드라이브, 서버 4개 동시 실행 (DLNA, HTTP, WebDAV, FTP), DLNA로 스마트 TV에 스트리밍, 모든 웹 브라우저에서 열기, Finder/Windows/Linux에서 네트워크 드라이브로 마운트, DLNA/WebDAV/FTP/SFTP 서버에 연결, zip/압축 해제가 되는 파일 관리자 내장, 문서를 PDF로 스캔, PDF와 사진에 마크업하고 서명, PDF 도구 (압축, OCR 텍스트 인식, 비밀번호 보호, 권한, 메타데이터, 병합), 사진 갤러리와 미디어 플레이어, 사진과 음악 라이브러리 전체 공유, 비밀번호 보호와 기기 차단"
+features: "Wi-Fi와 USB로 무선 드라이브, 서버 5개 동시 실행 (DLNA, HTTP, WebDAV, SMB, FTP), DLNA로 스마트 TV에 스트리밍, 모든 웹 브라우저에서 열기, Finder/Windows/Linux에서 네트워크 드라이브로 마운트, 선택적 SMB3 암호화(AES)가 되는 SMB 네트워크 드라이브, DLNA/WebDAV/FTP/SFTP/SMB 서버에 연결, zip/압축 해제가 되는 파일 관리자 내장, 문서를 PDF로 스캔, PDF와 사진에 마크업하고 서명, PDF 도구 (압축, OCR 텍스트 인식, 비밀번호 보호, 권한, 메타데이터, 병합), 사진 갤러리와 미디어 플레이어, 사진과 음악 라이브러리 전체 공유, 비밀번호 보호와 기기 차단"
 screenshots:
   - "https://everappz.com/products/everdisk/screenshots/browser_access.png"
   - "https://everappz.com/products/everdisk/screenshots/connect_to_servers.png"
@@ -16,7 +16,7 @@ screenshots:
 ---
 
 {{% sr-only %}}
-Everdisk는 Everappz가 개발한 iPhone과 iPad용 무선 드라이브 앱입니다. 기기를 허브로 바꿔 로컬 네트워크에 있는 어떤 기기와도 파일, 사진, 동영상, 음악을 공유하며, 계정도 클라우드도 필요 없고 상대 기기에 따로 설치할 앱도 없습니다. 이 앱은 서버 네 개를 동시에 실행합니다 - 스마트 TV와 미디어 플레이어를 위한 DLNA, 모든 웹 브라우저를 위한 HTTP, Finder와 Windows, Linux를 위한 WebDAV, 파일 앱과 전문 사용자를 위한 FTP - 그래서 모든 기기가 각자 편한 방식으로 연결됩니다. 사진, 동영상, 음악을 DLNA로 미리 보기 썸네일과 함께 스마트 TV에 바로 스트리밍하거나, 어떤 브라우저에서든 열리는 간단한 링크를 공유해 파일을 둘러보고 내려받게 하거나, 기기를 네트워크 드라이브로 마운트해 양방향으로 파일을 끌어다 놓을 수 있습니다. Wi-Fi가 없을 때는 USB 케이블로 Mac에 연결해 Wi-Fi보다 빠르게 파일을 옮길 수 있으며, 비행기 안이나 잠긴 네트워크에서도 됩니다. Everdisk는 네트워크에 있는 DLNA, WebDAV, FTP, SFTP 서버에도 연결해 그 파일을 둘러보고 스트리밍하고 내려받습니다. 내장 파일 관리자로 목록이나 격자 보기로 둘러보고, 폴더를 만들고, 이름을 바꾸고, 옮기고, 복사하고, 압축하고 풀고, 삭제할 수 있습니다. 종이 문서를 깔끔한 PDF로 스캔하고, PDF나 사진을 열어 내장 편집기로 마크업하고 - 그리기, 강조, 텍스트와 서명 추가가 되며 변경 사항은 파일에 바로 저장됩니다 - 파일 압축, 텍스트 인식(OCR)으로 검색 가능한 PDF 만들기, 열기 비밀번호 추가나 제거, 권한 확인, 문서 메타데이터 편집, 주석과 양식 필드 병합까지 전체 PDF 도구를 사용할 수 있습니다. 미니 플레이어로 오디오를 재생하고 동영상을 전체 화면으로 감상하며, 사진과 음악 라이브러리 전체를 원본 화질이나 더 호환되는 형식으로 네트워크에 공유할 수도 있습니다. 모든 것이 로컬 네트워크에 머물며 인터넷에는 절대 닿지 않고, 로그인과 비밀번호로 접근을 보호하고 어떤 기기든 한 번의 탭으로 차단할 수 있습니다. Everdisk는 App Store에서 무료로 내려받을 수 있으며, 선택 사항으로 일회성 Premium Lifetime 구매가 있습니다.
+Everdisk는 Everappz가 개발한 iPhone과 iPad용 무선 드라이브 앱입니다. 기기를 허브로 바꿔 로컬 네트워크에 있는 어떤 기기와도 파일, 사진, 동영상, 음악을 공유하며, 계정도 클라우드도 필요 없고 상대 기기에 따로 설치할 앱도 없습니다. 이 앱은 서버 다섯 개를 동시에 실행합니다 - 스마트 TV와 미디어 플레이어를 위한 DLNA, 모든 웹 브라우저를 위한 HTTP, Finder와 Windows, Linux를 위한 WebDAV, Mac, Windows, Linux에서 네트워크 드라이브가 되는 SMB(선택적 SMB3 암호화 포함), 파일 앱과 전문 사용자를 위한 FTP - 그래서 모든 기기가 각자 편한 방식으로 연결됩니다. 사진, 동영상, 음악을 DLNA로 미리 보기 썸네일과 함께 스마트 TV에 바로 스트리밍하거나, 어떤 브라우저에서든 열리는 간단한 링크를 공유해 파일을 둘러보고 내려받게 하거나, 기기를 네트워크 드라이브로 마운트해 양방향으로 파일을 끌어다 놓을 수 있습니다. SMB로도 마운트할 수 있는데, 이는 Mac, Windows, Linux를 위한 네트워크 드라이브로 Mac에서는 Finder 사이드바에 자동으로 나타나며, SMB3 암호화(AES)를 켜면 같은 네트워크의 다른 누구도 전송 내용을 읽을 수 없습니다. Wi-Fi가 없을 때는 USB 케이블로 Mac에 연결해 Wi-Fi보다 빠르게 파일을 옮길 수 있으며, 비행기 안이나 잠긴 네트워크에서도 됩니다. Everdisk는 네트워크에 있는 DLNA, WebDAV, FTP, SFTP, SMB 서버에도 연결해 - Mac, Windows PC, Linux 컴퓨터, NAS 드라이브를 포함해 - 그 파일을 둘러보고 스트리밍하고 내려받습니다. 내장 파일 관리자로 목록이나 격자 보기로 둘러보고, 폴더를 만들고, 이름을 바꾸고, 옮기고, 복사하고, 압축하고 풀고, 삭제할 수 있습니다. 종이 문서를 깔끔한 PDF로 스캔하고, PDF나 사진을 열어 내장 편집기로 마크업하고 - 그리기, 강조, 텍스트와 서명 추가가 되며 변경 사항은 파일에 바로 저장됩니다 - 파일 압축, 텍스트 인식(OCR)으로 검색 가능한 PDF 만들기, 열기 비밀번호 추가나 제거, 권한 확인, 문서 메타데이터 편집, 주석과 양식 필드 병합까지 전체 PDF 도구를 사용할 수 있습니다. 미니 플레이어로 오디오를 재생하고 동영상을 전체 화면으로 감상하며, 사진과 음악 라이브러리 전체를 원본 화질이나 더 호환되는 형식으로 네트워크에 공유할 수도 있습니다. 모든 것이 로컬 네트워크에 머물며 인터넷에는 절대 닿지 않고, 로그인과 비밀번호로 접근을 보호하고 어떤 기기든 한 번의 탭으로 차단할 수 있습니다. Everdisk는 App Store에서 무료로 내려받을 수 있으며, 선택 사항으로 일회성 Premium Lifetime 구매가 있습니다.
 {{% /sr-only %}}
 
 <!-- <body class="hx:bg-transparent" style="background: radial-gradient(ellipse at 50% 80%, rgba(59,130,246,0.05), hsla(0,0%,100%,0));"> -->
@@ -56,9 +56,9 @@ iPhone이나 iPad를 무선 드라이브로 바꿔&nbsp;<br class="hx:sm:block h
 
 <div class="hx:mb-6">
 {{< hextra/hero-paragraph >}}
-• 시작을 탭하면 DLNA, HTTP, WebDAV, FTP 네 가지 방식으로 한 번에 공유  
+• 시작을 탭하면 DLNA, HTTP, WebDAV, SMB, FTP 다섯 가지 방식으로 한 번에 공유  
 • 사진, 동영상, 음악을 DLNA로 스마트 TV에 바로 스트리밍  
-• Finder, Windows, Linux에서 네트워크 드라이브로 마운트  
+• Finder, Windows, Linux에서 네트워크 드라이브로 마운트 - 선택적 SMB 암호화 포함  
 • Wi-Fi가 없다고요? USB 케이블로 무선보다 빠르게 파일 이동  
 {{< /hextra/hero-paragraph >}}
 </div>
@@ -82,7 +82,7 @@ iPhone이나 iPad를 무선 드라이브로 바꿔&nbsp;<br class="hx:sm:block h
 
   {{< hextra/feature-card
     title="기기가 드라이브가 됩니다"
-    subtitle="시작을 탭하면 iPhone이나 iPad가 무선 드라이브로 바뀝니다. Everdisk는 서버 네 개를 동시에 실행하기 때문에 - DLNA, HTTP, WebDAV, FTP - 스마트 TV, 컴퓨터, 웹 브라우저, 파일 앱이 각자 편한 방식으로 연결됩니다. 계정도 클라우드도 없고, 상대 기기에 설치할 것도 없습니다."
+    subtitle="시작을 탭하면 iPhone이나 iPad가 무선 드라이브로 바뀝니다. Everdisk는 서버 다섯 개를 동시에 실행하기 때문에 - DLNA, HTTP, WebDAV, SMB, FTP - 스마트 TV, 컴퓨터, 웹 브라우저, 파일 앱이 각자 편한 방식으로 연결됩니다. 계정도 클라우드도 없고, 상대 기기에 설치할 것도 없습니다."
     icon="server"
     style="background: radial-gradient(ellipse at 50% 80%, rgba(34,197,94,0.15), hsla(0,0%,100%,0));"
   >}}
@@ -109,6 +109,13 @@ iPhone이나 iPad를 무선 드라이브로 바꿔&nbsp;<br class="hx:sm:block h
   >}}
 
   {{< hextra/feature-card
+    title="암호화된 SMB 공유"
+    subtitle="SMB로 연결하세요 - Mac, Windows, Linux를 위한 네트워크 드라이브로, Mac에서는 Finder 사이드바에 자동으로 나타납니다. 암호화할 수 있는 유일한 연결입니다: 로그인과 비밀번호로 SMB3 암호화(AES)를 켜면 네트워크의 다른 누구도 파일을 읽을 수 없습니다."
+    icon="lock-closed"
+    style="background: radial-gradient(ellipse at 50% 80%, rgba(99,102,241,0.15), hsla(0,0%,100%,0));"
+  >}}
+
+  {{< hextra/feature-card
     title="Wi-Fi가 없다고요? 케이블을 쓰세요"
     subtitle="충전할 때 쓰는 그 USB 케이블로 기기를 Mac에 연결하세요. 파일이 케이블을 통해 바로 이동해 Wi-Fi보다 빠르며, 비행기 안이나 호텔, Wi-Fi가 막힌 어떤 잠긴 네트워크에서도 계속 됩니다."
     icon="lightning-bolt"
@@ -117,7 +124,7 @@ iPhone이나 iPad를 무선 드라이브로 바꿔&nbsp;<br class="hx:sm:block h
 
   {{< hextra/feature-card
     title="다른 기기에 연결하기"
-    subtitle="네트워크에 있는 DLNA, WebDAV, FTP, SFTP 서버를 찾아 연결하세요. 폴더를 둘러보고, 오디오와 동영상을 스트리밍하고, 파일을 내려받으며, 서버가 허용하면 폴더 만들기, 업로드, 이름 바꾸기, 옮기기, 삭제도 할 수 있습니다."
+    subtitle="네트워크에 있는 DLNA, WebDAV, FTP, SFTP, SMB 서버를 찾아 연결하세요 - Mac, Windows PC, Linux 컴퓨터, NAS 드라이브까지. 폴더를 둘러보고, 오디오와 동영상을 스트리밍하고, 파일을 내려받으며, 서버가 허용하면 폴더 만들기, 업로드, 이름 바꾸기, 옮기기, 삭제도 할 수 있습니다."
     icon="cloud-download"
     style="background: radial-gradient(ellipse at 50% 80%, rgba(6,182,212,0.15), hsla(0,0%,100%,0));"
   >}}
@@ -153,7 +160,7 @@ iPhone이나 iPad를 무선 드라이브로 바꿔&nbsp;<br class="hx:sm:block h
     title="서버에 연결" 
     method="Fill"
     options="1030x400 q82 webp Center"
-    subtitle="네트워크에 있는 DLNA, WebDAV, FTP, SFTP 서버를 찾아 연결해 그 파일을 둘러보고 스트리밍하고 내려받으세요." 
+    subtitle="네트워크에 있는 DLNA, WebDAV, FTP, SFTP, SMB 서버를 찾아 연결해 그 파일을 둘러보고 스트리밍하고 내려받으세요." 
   >}}
 
   {{< feature-card 
@@ -208,7 +215,7 @@ iPhone이나 iPad를 무선 드라이브로 바꿔&nbsp;<br class="hx:sm:block h
 
 {{< cards >}}
 
-  {{< feature-card title="서버 4개 동시 실행" subtitle="시작을 탭하면 파일을 네 가지 방식으로 동시에 공유합니다. TV와 미디어 플레이어를 위한 DLNA, 모든 웹 브라우저를 위한 HTTP, Finder와 Windows, Linux를 위한 WebDAV, 파일 앱과 전문 사용자를 위한 FTP." icon="wifi" >}}
+  {{< feature-card title="서버 5개 동시 실행" subtitle="시작을 탭하면 파일을 다섯 가지 방식으로 동시에 공유합니다. TV와 미디어 플레이어를 위한 DLNA, 모든 웹 브라우저를 위한 HTTP, Finder와 Windows, Linux를 위한 WebDAV, Mac, Windows, Linux에서 네트워크 드라이브가 되는 SMB, 파일 앱과 전문 사용자를 위한 FTP." icon="wifi" >}}
 
   {{< feature-card title="스마트 TV로 스트리밍" subtitle="사진, 동영상, 음악을 DLNA로 스마트 TV와 미디어 플레이어에 바로 보내세요. 라이브러리가 미리 보기 썸네일과 함께 TV에 저절로 나타나 큰 화면에 바로 준비됩니다." icon="desktop-computer" >}}
 
@@ -216,9 +223,11 @@ iPhone이나 iPad를 무선 드라이브로 바꿔&nbsp;<br class="hx:sm:block h
 
   {{< feature-card title="WebDAV 네트워크 드라이브" subtitle="Mac의 Finder에서, 또는 Windows나 Linux에서 WebDAV로 연결하면 기기가 일반 네트워크 디스크처럼 나타납니다. 양방향으로 파일을 끌어다 놓으세요." icon="folder" >}}
 
+  {{< feature-card title="암호화된 SMB 드라이브" subtitle="기기를 SMB로 마운트하세요 - Mac, Windows, Linux를 위한 네트워크 드라이브로, Mac에서는 Finder 사이드바에 자동으로 나타납니다. 암호화할 수 있는 유일한 연결입니다: 로그인과 비밀번호로 SMB3 암호화(AES)를 켜서 모든 전송을 비공개로 유지하세요." icon="lock-closed" >}}
+
   {{< feature-card title="USB로 전송" subtitle="충전 케이블로 Mac에 연결하면 파일이 케이블을 통해 바로 이동해 Wi-Fi보다 빠릅니다. 비행기 안이나 호텔, 잠긴 어떤 네트워크에서도 계속 됩니다." icon="lightning-bolt" >}}
 
-  {{< feature-card title="DLNA, WebDAV, FTP &amp; SFTP에 연결" subtitle="네트워크에 있는 서버를 찾아 연결하고, 폴더를 둘러보고, 오디오와 동영상을 스트리밍하고, 파일을 내려받으며, 허용될 때 만들기, 업로드, 이름 바꾸기, 옮기기, 삭제를 할 수 있습니다." icon="server" >}}
+  {{< feature-card title="DLNA, WebDAV, FTP, SFTP &amp; SMB에 연결" subtitle="네트워크에 있는 서버와 NAS 드라이브를 찾아 연결하고, 폴더를 둘러보고, 오디오와 동영상을 스트리밍하고, 파일을 내려받으며, 허용될 때 만들기, 업로드, 이름 바꾸기, 옮기기, 삭제를 할 수 있습니다." icon="server" >}}
 
   {{< feature-card title="파일 관리자 내장" subtitle="기기의 모든 것을 위한 완전한 파일 관리자입니다. 목록이나 격자로 둘러보고, 폴더를 만들고, 이름을 바꾸고, 옮기고, 복사하고, 삭제하며, 기기 어디에 있는 폴더든 연결할 수 있습니다." icon="view-grid" >}}
 
@@ -283,11 +292,11 @@ iPhone이나 iPad를 무선 드라이브로 바꿔&nbsp;<br class="hx:sm:block h
     title="무료"
     class="pricing-card pricing-free"
     subtitle=`<span class='pricing-details'>• 기기를 무선 드라이브로 전환<br />
-• 서버 4개 동시 실행: DLNA, HTTP, WebDAV, FTP<br />
+• 서버 5개 동시 실행: DLNA, HTTP, WebDAV, SMB, FTP<br />
 • 스마트 TV, 브라우저, 컴퓨터에 스트리밍<br />
 • 네트워크 드라이브로 마운트하고 USB로 전송<br />
 • 사진과 음악 라이브러리 전체 공유<br />
-• DLNA, WebDAV, FTP, SFTP 서버에 연결<br />
+• DLNA, WebDAV, FTP, SFTP, SMB 서버에 연결<br />
 • 압축과 압축 해제가 되는 파일 관리자<br />
 • 문서를 PDF로 스캔하고 전체 PDF 도구 사용<br />
 • PDF와 사진에 마크업하고 서명<br />
@@ -307,7 +316,8 @@ iPhone이나 iPad를 무선 드라이브로 바꿔&nbsp;<br class="hx:sm:block h
 • 무제한 공유 폴더 (5개 초과)<br />
 • 무제한 저장 연결 (10개 초과)<br />
 • 사진 &amp; 동영상을 호환 형식이나 더 작은 크기로 변환<br />
-• 사용자 지정 HTTP, WebDAV, FTP 포트<br />
+• 비공개이고 안전한 공유를 위한 SMB3 암호화(AES)<br />
+• 사용자 지정 HTTP, WebDAV, SMB, FTP 포트<br />
 • 앱을 열면 공유 자동 시작<br />
 • 기기 맞춤 설정: 이름, 아바타 아이콘, 그라디언트 또는 사진<br />
 • 일회성 구매 - 한 번만 결제되고 갱신되지 않습니다</span><br /><br />
@@ -344,24 +354,25 @@ Everdisk는 iPhone이나 iPad를 무선 드라이브로 바꾸고, 다른 기기
 파일, 사진, 동영상, 음악을 네트워크의 어떤 기기와도 공유하고, 다른 서버에서 둘러보고 스트리밍하며, 모든 것을 기기에서 바로 관리할 수 있습니다.<br>
 계정도, 클라우드도, 상대 기기에 설치할 별도 앱도 없습니다 - 시작만 탭하면 바로 준비됩니다.<br><br>
 
-이 앱은 서버 네 개를 동시에 실행해 모든 기기가 각자 편한 방식으로 연결됩니다. 스마트 TV는 DLNA로, 컴퓨터와 웹 브라우저는 HTTP로, Finder와 Windows, Linux는 WebDAV로, 파일 앱은 FTP로 연결됩니다.
+이 앱은 서버 다섯 개를 동시에 실행해 모든 기기가 각자 편한 방식으로 연결됩니다. 스마트 TV는 DLNA로, 컴퓨터와 웹 브라우저는 HTTP로, Finder와 Windows, Linux는 WebDAV로, Mac, Windows, Linux의 네트워크 드라이브는 SMB(선택적 암호화 포함)로, 파일 앱은 FTP로 연결됩니다.
 {{% /details %}}
 
 {{% details title="Everdisk는 어떻게 작동하나요?" closed="true" %}}
-시작을 탭하면 Everdisk가 선택한 콘텐츠를 공유하기 시작하고, 서로 다른 기기가 각자 선호하는 방식으로 연결될 수 있도록 서버 네 개를 동시에 실행합니다.<br><br>
+시작을 탭하면 Everdisk가 선택한 콘텐츠를 공유하기 시작하고, 서로 다른 기기가 각자 선호하는 방식으로 연결될 수 있도록 서버 다섯 개를 동시에 실행합니다.<br><br>
 
 - <strong>DLNA</strong>는 스마트 TV와 미디어 플레이어가 사진, 동영상, 음악을 자동으로 찾아 미리 보기 썸네일과 함께 보여 줍니다.<br>
 - <strong>HTTP</strong>는 누구에게나 웹 브라우저에서 열어 파일을 둘러보고, 미리 보고, 내려받을 수 있는 간단한 링크를 제공하며 설치할 것이 없습니다.<br>
 - <strong>WebDAV</strong>는 기기를 Finder나 Windows, Linux에서 일반 네트워크 드라이브처럼 나타나게 해 양방향으로 파일을 끌어다 놓을 수 있습니다.<br>
+- <strong>SMB</strong>는 기기를 Mac, Windows, Linux에서 네트워크 드라이브로 만들며 - Mac에서는 Finder 사이드바에 자동으로 나타나고 - SMB3 암호화(AES)로 암호화할 수 있는 유일한 연결입니다.<br>
 - <strong>FTP</strong>는 파일 앱과 전문 사용자에게 유용합니다.<br><br>
 
-Everdisk는 반대 방향으로도 연결됩니다. 네트워크에 있는 DLNA, WebDAV, FTP, SFTP 서버에 연결해 폴더를 둘러보고, 오디오와 동영상을 스트리밍하며, 서버가 허용하면 파일을 내려받거나 관리할 수 있습니다. 모든 것이 로컬 네트워크에 머물며 인터넷에는 절대 닿지 않습니다.
+Everdisk는 반대 방향으로도 연결됩니다. 네트워크에 있는 DLNA, WebDAV, FTP, SFTP, SMB 서버에 연결해 - Mac, Windows PC, Linux 컴퓨터, NAS 드라이브를 포함해 - 폴더를 둘러보고, 오디오와 동영상을 스트리밍하며, 서버가 허용하면 파일을 내려받거나 관리할 수 있습니다. 모든 것이 로컬 네트워크에 머물며 인터넷에는 절대 닿지 않습니다.
 {{% /details %}}
 
 {{% details title="Everdisk는 무료인가요?" closed="true" %}}
-네. Everdisk는 무료로 내려받을 수 있으며, 기기를 무선 드라이브로 바꾸고, 파일을 네 가지 방식으로 공유하고, 다른 서버에 연결하고, 내장 파일 관리자를 사용하는 것까지 무료로 됩니다.<br><br>
+네. Everdisk는 무료로 내려받을 수 있으며, 기기를 무선 드라이브로 바꾸고, 파일을 다섯 가지 방식으로 공유하고, 다른 서버에 연결하고, 내장 파일 관리자를 사용하는 것까지 무료로 됩니다.<br><br>
 
-선택 사항으로 일회성 <strong>Premium Lifetime</strong> 구매가 있습니다 - 구독이 없는 단일 결제로 - 무제한 공유 폴더와 저장 연결, 사진 &amp; 동영상 변환, 사용자 지정 포트, 공유 자동 시작, 기기 맞춤 설정을 잠금 해제합니다. Apple ID에 연결되므로 구입 항목 복원을 사용해 다른 기기에서도 잠금 해제할 수 있습니다. 가격은 국가나 지역에 따라 다를 수 있습니다.
+선택 사항으로 일회성 <strong>Premium Lifetime</strong> 구매가 있습니다 - 구독이 없는 단일 결제로 - 무제한 공유 폴더와 저장 연결, 사진 &amp; 동영상 변환, SMB3 암호화(AES), 사용자 지정 포트, 공유 자동 시작, 기기 맞춤 설정을 잠금 해제합니다. Apple ID에 연결되므로 구입 항목 복원을 사용해 다른 기기에서도 잠금 해제할 수 있습니다. 가격은 국가나 지역에 따라 다를 수 있습니다.
 {{% /details %}}
 
 {{% details title="컴퓨터에서 어떻게 연결하나요?" closed="true" %}}
@@ -372,6 +383,12 @@ Everdisk는 WebDAV로 기기를 일반 네트워크 드라이브처럼 나타나
 - <strong>Linux</strong>에서는 파일 관리자에서 WebDAV 주소로 연결하세요.<br><br>
 
 연결되면 양방향으로 끌어다 놓을 수 있습니다. 컴퓨터에서 기기로 파일을 복사하거나, 다시 가져오세요. 드라이브를 마운트하기 싫다면 어떤 웹 브라우저에서든 HTTP 링크를 열어도 됩니다.
+{{% /details %}}
+
+{{% details title="SMB를 사용하고 연결을 암호화할 수 있나요?" closed="true" %}}
+네. WebDAV와 함께 Everdisk는 <strong>SMB</strong>로도 공유합니다 - Mac, Windows, Linux를 위한 네트워크 드라이브로(앱에서는 <strong>컴퓨터(고급)</strong> 연결로 표시됩니다). Mac에서는 Finder 사이드바의 위치에 자동으로 나타나고, Windows에서는 앱에 표시된 <code>smb://</code> 주소로 파일 탐색기에서 여세요.<br><br>
+
+SMB는 <strong>암호화</strong>할 수 있는 유일한 연결이기도 합니다. 로그인과 비밀번호를 설정한 뒤 설정에서 <strong>SMB 암호화 요구</strong>를 켜면 모든 전송이 <strong>SMB3 암호화(AES)</strong>로 보호되어 같은 네트워크의 다른 누구도 파일을 읽을 수 없습니다. 암호화된 연결은 익명일 수 없으므로 로그인과 비밀번호가 필요하며, SMB3를 지원하는 클라이언트가 있어야 합니다 - 최신 Mac의 Finder, 또는 Windows 10 이상.
 {{% /details %}}
 
 {{% details title="TV로 어떻게 스트리밍하나요?" closed="true" %}}
@@ -393,7 +410,7 @@ TV나 미디어 플레이어와 기기가 같은 Wi-Fi 네트워크에 있는지
 {{% /details %}}
 
 {{% details title="Everdisk로 무엇에 연결할 수 있나요?" closed="true" %}}
-Everdisk는 네트워크의 다른 기기를 위한 클라이언트이기도 합니다. NAS 기기와 미디어 서버를 포함해 <strong>DLNA</strong>, <strong>WebDAV</strong>, <strong>FTP</strong>, <strong>SFTP</strong> 서버를 찾아 연결할 수 있습니다.<br><br>
+Everdisk는 네트워크의 다른 기기를 위한 클라이언트이기도 합니다. Mac, Windows PC, Linux 컴퓨터, NAS 기기와 미디어 서버를 포함해 <strong>DLNA</strong>, <strong>WebDAV</strong>, <strong>FTP</strong>, <strong>SFTP</strong>, <strong>SMB</strong> 서버를 찾아 연결할 수 있습니다.<br><br>
 
 연결되면 폴더를 둘러보고, 오디오와 동영상을 스트리밍하고, 파일을 내려받으며, 서버가 허용하면 폴더 만들기, 업로드, 이름 바꾸기, 옮기기, 삭제도 할 수 있습니다.
 {{% /details %}}
@@ -463,11 +480,11 @@ Everdisk에는 기기의 모든 것을 위한 완전한 파일 관리자가 포�
 </div>
 
 {{< cards >}}
-  {{< feature-card icon="play" title="공유하기" subtitle="시작을 탭하고, 공유할 것을 고른 뒤, 서버 네 개를 한 번에 실행하세요." link="/docs/guide/everdisk/everdisk-guide-sharing" >}}
+  {{< feature-card icon="play" title="공유하기" subtitle="시작을 탭하고, 공유할 것을 고른 뒤, 서버 다섯 개를 한 번에 실행하세요." link="/docs/guide/everdisk/everdisk-guide-sharing" >}}
 
   {{< feature-card icon="desktop-computer" title="기기 연결하기" subtitle="TV, Mac이나 PC, 브라우저, 다른 휴대폰, USB 케이블이 파일에 연결되는 방법." link="/docs/guide/everdisk/everdisk-guide-connect" >}}
 
-  {{< feature-card icon="server" title="서버에 연결하기" subtitle="DLNA, WebDAV, FTP, SFTP 서버와 NAS 드라이브에 접근해 둘러보고, 스트리밍하고, 내려받으세요." link="/docs/guide/everdisk/everdisk-guide-devices" >}}
+  {{< feature-card icon="server" title="서버에 연결하기" subtitle="DLNA, WebDAV, FTP, SFTP, SMB 서버와 NAS 드라이브에 접근해 둘러보고, 스트리밍하고, 내려받으세요." link="/docs/guide/everdisk/everdisk-guide-devices" >}}
 
   {{< feature-card icon="folder" title="파일과 문서" subtitle="둘러보고, 정리하고, 압축하고 풀고, 외부 폴더를 연결하고, 문서를 PDF로 스캔하세요." link="/docs/guide/everdisk/everdisk-guide-files" >}}
 

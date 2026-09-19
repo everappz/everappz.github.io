@@ -12,7 +12,7 @@ Everdisk riproduce i tuoi contenuti multimediali sul dispositivo e condivide in 
 
 ## Condividere tutta la libreria di foto e musica
 
-Nella schermata [Condivisione](/docs/guide/everdisk/everdisk-guide-sharing), sotto **Cosa condividere**, puoi attivare **Consenti l'accesso a tutta la libreria Foto** e **Consenti l'accesso a tutta la libreria Musica**. Una volta avviata la condivisione, ogni album e brano diventa disponibile su tutti e quattro i server: su una TV, in un browser, su un'unità di rete o in un'app per file. Puoi anche selezionare a mano solo determinate foto, video o brani con **Aggiungi foto** e **Aggiungi brani**.
+Nella schermata [Condivisione](/docs/guide/everdisk/everdisk-guide-sharing), sotto **Cosa condividere**, puoi attivare **Consenti l'accesso a tutta la libreria Foto** e **Consenti l'accesso a tutta la libreria Musica**. Una volta avviata la condivisione, ogni album e brano diventa disponibile su tutti e cinque i server: su una TV, in un browser, su un'unità di rete (WebDAV o SMB) o in un'app per file. Puoi anche selezionare a mano solo determinate foto, video o brani con **Aggiungi foto** e **Aggiungi brani**.
 
 I brani protetti (DRM) e i brani archiviati solo nel cloud non possono essere condivisi.
 
@@ -54,7 +54,7 @@ Quando condividi foto e video, Everdisk può inviarli esattamente come sono, opp
 Tieni presente che:
 
 - **L'originale è il più veloce**: il file viene inviato così com'è, senza alcuna conversione.
-- Qualsiasi altra impostazione **converte al volo**, il che è più lento e consuma più batteria, soprattutto tramite WebDAV e FTP.
+- Qualsiasi altra impostazione **converte al volo**, il che è più lento e consuma più batteria, soprattutto tramite WebDAV, SMB e FTP.
 - Prova prima l'originale; passa a Massima compatibilità solo se una TV o un browser specifico non riesce ad aprire un file.
 - La **musica** viene sempre condivisa nella sua forma originale: non ci sono impostazioni di qualità per la musica.
 

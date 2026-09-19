@@ -1,7 +1,7 @@
 ---
 title: "Delen"
 date: 2026-08-20
-description: "Ontdek hoe delen werkt in Everdisk: tik op Start om van je iPhone of iPad een draadloze schijf te maken, kies wat je deelt (bestanden, mappen, foto's en muziek), draai de vier servers (DLNA, HTTP, WebDAV, FTP), lees de verbindingsadressen, zie wie er verbonden is en houd delen draaiende via Wi-Fi of een USB-kabel."
+description: "Ontdek hoe delen werkt in Everdisk: tik op Start om van je iPhone of iPad een draadloze schijf te maken, kies wat je deelt (bestanden, mappen, foto's en muziek), draai de vijf servers (DLNA, HTTP, WebDAV, SMB, FTP), versleutel de SMB-verbinding met SMB3 (AES), lees de verbindingsadressen, zie wie er verbonden is en houd delen draaiende via Wi-Fi of een USB-kabel."
 keywords: ["Everdisk delen", "draadloze schijf iPhone", "delen starten", "bestanden delen iPhone", "foto's delen via netwerk", "DLNA HTTP WebDAV FTP", "wat te delen", "hoe verbinden", "app open houden", "delen via Wi-Fi of USB-kabel"]
 tags: ["everdisk", "handleiding", "delen"]
 readingTime: 9
@@ -17,7 +17,7 @@ Midden op het Delen-scherm staat een grote ronde knop.
 - Tik op **Start** om al je ingeschakelde servers in één keer online te brengen. De knop toont **Starten...** en daarna **Stop** zodra het delen actief is.
 - Tik op **Stop** om alles weer offline te halen. Verbonden apparaten worden losgekoppeld.
 
-Zolang delen actief is, zijn de door jou gekozen bestanden, foto's en muziek beschikbaar voor elk apparaat op hetzelfde netwerk dat verbinding maakt via een van de vier onderstaande methoden.
+Zolang delen actief is, zijn de door jou gekozen bestanden, foto's en muziek beschikbaar voor elk apparaat op hetzelfde netwerk dat verbinding maakt via een van de vijf onderstaande methoden.
 
 > Delen werkt alleen zolang de app open is. Zie **Houd de app open** aan het einde van deze pagina voor het waarom, en voor hoe je grote overdrachten door laat lopen.
 
@@ -44,13 +44,14 @@ Tik voordat je begint op de kop **Wat je deelt** om drie groepen te openen. Je k
 
 Als je probeert te starten zonder iets te selecteren, toont Everdisk de melding **Niets om te delen**. Wijzig je wat er gedeeld wordt terwijl delen actief is, **stop en start dan opnieuw** om de wijziging toe te passen.
 
-## De vier servers
+## De vijf servers
 
-Everdisk deelt dezelfde inhoud tegelijk op vier manieren. Elke manier is ontworpen voor een ander soort apparaat, en elke kun je aan- of uitzetten in **Instellingen → Delen → Verbindingen**. Standaard staan alle vier aan.
+Everdisk deelt dezelfde inhoud tegelijk op vijf manieren. Elke manier is ontworpen voor een ander soort apparaat, en elke kun je aan- of uitzetten in **Instellingen → Delen → Verbindingen**. Standaard staan alle vijf aan.
 
 - **Tv en mediacenter (DLNA)** - voor smart-tv's en mediaspelers. Ze ontdekken je apparaat helemaal zelf en tonen je foto's, video's en muziek, met voorbeeldminiaturen.
 - **Browser (HTTP)** - voor elke telefoon, tablet of computer. De ander opent een link in een webbrowser om je bestanden te doorbladeren en te downloaden. Niets te installeren.
 - **Computer (WebDAV)** - voor een Mac, Windows-pc of Linux-machine. Je apparaat verschijnt als een gewone netwerkschijf, zodat je bestanden in beide richtingen kunt slepen.
+- **Computer (geavanceerd) (SMB)** - een netwerkschijf voor Mac, Windows en Linux. Op een Mac verschijnt hij vanzelf in de Finder-navigatiekolom; op Windows open je hem in de Verkenner met een `smb://`-adres. Dit is de enige verbinding die je kunt **versleutelen**, met SMB3-versleuteling (AES).
 - **Andere apps en apparaten (FTP)** - voor bestands-apps en gevorderde gebruikers die FTP spreken.
 
 Voor stapsgewijze verbindingsinstructies per type, zie [Je apparaten verbinden](/docs/guide/everdisk/everdisk-guide-connect).

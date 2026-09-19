@@ -12,7 +12,7 @@ Everdisk reproduce tu contenido en el dispositivo y comparte toda tu biblioteca 
 
 ## Comparte toda tu biblioteca de fotos y musica
 
-En la pantalla de [Compartir](/docs/guide/everdisk/everdisk-guide-sharing), dentro de **Que compartir**, puedes activar **Permitir acceso a toda la biblioteca de fotos** y **Permitir acceso a toda la biblioteca de musica**. En cuanto empieza la funcion de compartir, todos los albumes y las pistas quedan disponibles en los cuatro servidores: en una TV, en un navegador, en una unidad de red o en una app de archivos. Tambien puedes elegir a mano solo determinadas fotos, videos o pistas con **Anadir fotos** y **Anadir pistas**.
+En la pantalla de [Compartir](/docs/guide/everdisk/everdisk-guide-sharing), dentro de **Que compartir**, puedes activar **Permitir acceso a toda la biblioteca de fotos** y **Permitir acceso a toda la biblioteca de musica**. En cuanto empieza la funcion de compartir, todos los albumes y las pistas quedan disponibles en los cinco servidores: en una TV, en un navegador, en una unidad de red (WebDAV o SMB) o en una app de archivos. Tambien puedes elegir a mano solo determinadas fotos, videos o pistas con **Anadir fotos** y **Anadir pistas**.
 
 Las canciones protegidas (DRM) y las pistas guardadas solo en la nube no se pueden compartir.
 
@@ -54,7 +54,7 @@ Cuando compartes fotos y videos, Everdisk puede enviarlos tal cual, o convertirl
 Ten en cuenta:
 
 - **Original es lo mas rapido**: el archivo se envia tal cual, sin conversion.
-- Cualquier otro ajuste **convierte sobre la marcha**, lo que es mas lento y consume mas bateria, sobre todo por WebDAV y FTP.
+- Cualquier otro ajuste **convierte sobre la marcha**, lo que es mas lento y consume mas bateria, sobre todo por WebDAV, SMB y FTP.
 - Prueba primero con Original; cambia a Mas compatible solo si una TV o un navegador concreto no puede abrir un archivo.
 - La **musica** siempre se comparte en su forma original: no hay ajustes de calidad de musica.
 

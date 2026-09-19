@@ -1,7 +1,7 @@
 ---
 title: "Configuració"
 date: 2026-08-20
-description: "Un recorregut complet per la configuració d'Everdisk: perfil del dispositiu (nom i avatar), els quatre servidors de connexió, els controls d'accés, la qualitat de fotos i vídeos, els ports personalitzats, les miniatures DLNA, les opcions de xarxa i transferència, les opcions del gestor d'arxius i Premium."
+description: "Un recorregut complet per la configuració d'Everdisk: perfil del dispositiu (nom i avatar), els cinc servidors de connexió, els controls d'accés, el xifratge SMB (SMB3/AES), la qualitat de fotos i vídeos, els ports personalitzats, les miniatures DLNA, les opcions de xarxa i transferència, les opcions del gestor d'arxius i Premium."
 keywords: ["configuració Everdisk", "nom avatar dispositiu", "servidors de connexió", "qualitat foto vídeo", "ports personalitzats HTTP WebDAV FTP", "miniatures DLNA", "transferències paral·leles", "eliminar arxius permanentment", "memòria cau de miniatures", "Everdisk Premium"]
 tags: ["everdisk", "guia", "configuracio"]
 readingTime: 12
@@ -38,11 +38,12 @@ Consulta [Accés i privadesa](/docs/guide/everdisk/everdisk-guide-access) per ve
 
 ### Connexions
 
-Activa o desactiva cada servidor. Els quatre estan activats per defecte, i cadascun té un botó d'informació (ⓘ) amb instruccions de connexió:
+Activa o desactiva cada servidor. Els cinc estan activats per defecte, i cadascun té un botó d'informació (ⓘ) amb instruccions de connexió:
 
 - **TV i Centre multimèdia** (DLNA)
 - **Navegador** (HTTP)
 - **Ordinador** (WebDAV)
+- **Ordinador (avançat)** (SMB): una unitat de xarxa per a Mac, Windows i Linux; en un Mac apareix per si sola a la barra lateral del Finder. L'única connexió que es pot xifrar.
 - **Altres apps i dispositius** (FTP)
 
 ### Fotos
@@ -61,7 +62,11 @@ La mateixa idea que amb les Fotos: l'Original és el més ràpid, i la conversi�
 
 ### Avançat
 
-- **Port HTTP** (per defecte 80), **Port WebDAV** (per defecte 8080), **Port FTP** (per defecte 2121). El DLNA tria el seu port automàticament. *(Canviar els ports és Premium; els usuaris gratuïts poden veure'n els valors.)*
+- **Port HTTP** (per defecte 80), **Port WebDAV** (per defecte 8080), **Port SMB** (per defecte 4455), **Port FTP** (per defecte 2121). El DLNA tria el seu port automàticament. *(Canviar els ports és Premium; els usuaris gratuïts poden veure'n els valors.)*
+
+### Xifratge SMB
+
+- **Requereix xifratge SMB**: xifra cada transferència SMB amb **xifratge SMB3 (AES)** perquè ningú més de la xarxa no pugui llegir els teus arxius. Desactivat per defecte. Necessita un **inici de sessió i una contrasenya** definits a dalt (les connexions xifrades no poden ser anònimes) i un client compatible amb SMB3, com el Finder d'un Mac modern o Windows 10 i posteriors. Els canvis tenen efecte el següent cop que inicies la compartició. *(Premium.)*
 
 ### Miniatures DLNA
 
@@ -92,7 +97,8 @@ Everdisk és gratuït per fer-lo servir. Una única compra de **Premium Lifetime
 - **Carpetes il·limitades**: comparteix més de 5 carpetes.
 - **Connexions il·limitades**: desa més de 10 servidors a la pestanya Dispositius.
 - **Conversió de fotos i vídeos**: comparteix en qualsevol qualitat que no sigui Original.
-- **Ports personalitzats**: defineix els teus propis ports HTTP, WebDAV i FTP.
+- **Xifratge SMB**: protegeix les transferències SMB amb xifratge SMB3 (AES).
+- **Ports personalitzats**: defineix els teus propis ports HTTP, WebDAV, SMB i FTP.
 - **Inici automàtic de la compartició**: inicia la compartició automàticament quan obres l'app.
 - **Personalització del dispositiu**: un nom de dispositiu, una icona d'avatar, un degradat de fons o un avatar amb foto personalitzats.
 

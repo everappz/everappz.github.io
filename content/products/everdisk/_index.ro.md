@@ -2,12 +2,12 @@
 date: '2026-08-20T12:00:00+00:00'
 title: 'Everdisk - Transformă-ți iPhone-ul și iPad-ul într-un disc wireless'
 layout: hextra-home
-description: "Transformă-ți iPhone-ul sau iPad-ul într-un disc wireless și partajează fișiere, fotografii, videoclipuri și muzică cu orice dispozitiv prin DLNA, HTTP, WebDAV și FTP. Fără cloud."
-keywords: ["Everdisk", "disc wireless iPhone", "partajare fișiere iPhone", "server WebDAV iOS", "server DLNA iPhone", "server FTP iOS", "streaming pe TV de pe iPhone", "disc de retea iPhone", "transfer fisiere USB iPhone", "manager de fisiere iOS", "scanare documente in PDF", "partajare fotografii in retea"]
-tags: ["Everdisk", "disc wireless", "partajare fisiere", "DLNA", "WebDAV", "FTP", "SFTP", "disc de retea", "aplicatii iPhone", "aplicatii iPad", "aplicatii Mac", "manager de fisiere", "server media"]
+description: "Transformă-ți iPhone-ul sau iPad-ul într-un disc wireless și partajează fișiere, fotografii, videoclipuri și muzică cu orice dispozitiv prin DLNA, HTTP, WebDAV, SMB și FTP. Montează-l ca disc de rețea cu criptare SMB opțională. Fără cloud."
+keywords: ["Everdisk", "disc wireless iPhone", "partajare fișiere iPhone", "server WebDAV iOS", "server SMB iPhone", "criptare SMB iOS", "server DLNA iPhone", "server FTP iOS", "streaming pe TV de pe iPhone", "disc de retea iPhone", "transfer fisiere USB iPhone", "manager de fisiere iOS", "scanare documente in PDF", "partajare fotografii in retea"]
+tags: ["Everdisk", "disc wireless", "partajare fisiere", "DLNA", "WebDAV", "SMB", "FTP", "SFTP", "disc de retea", "aplicatii iPhone", "aplicatii iPad", "aplicatii Mac", "manager de fisiere", "server media"]
 appStoreUrl: "https://apps.apple.com/app/apple-store/id6751851132?pt=95781850&ct=everappzcom&mt=8"
 appStoreId: "6751851132"
-features: "Disc wireless prin Wi-Fi și USB, Patru servere simultan (DLNA, HTTP, WebDAV, FTP), Streaming pe televizoare smart prin DLNA, Deschidere în orice browser web, Montare ca disc de rețea în Finder/Windows/Linux, Conectare la servere DLNA/WebDAV/FTP/SFTP, Manager de fișiere integrat cu arhivare/dezarhivare, Scanare documente în PDF, Adnotare și semnare PDF-uri și fotografii, Instrumente PDF (comprimare, recunoaștere text OCR, protecție cu parolă, permisiuni, metadate, aplatizare), Galerie foto și player media, Partajarea întregii biblioteci de fotografii și muzică, Protecție cu parolă și blocare dispozitive"
+features: "Disc wireless prin Wi-Fi și USB, Cinci servere simultan (DLNA, HTTP, WebDAV, SMB, FTP), Streaming pe televizoare smart prin DLNA, Deschidere în orice browser web, Montare ca disc de rețea în Finder/Windows/Linux, Disc de rețea SMB cu criptare SMB3 opțională (AES), Conectare la servere DLNA/WebDAV/FTP/SFTP/SMB, Manager de fișiere integrat cu arhivare/dezarhivare, Scanare documente în PDF, Adnotare și semnare PDF-uri și fotografii, Instrumente PDF (comprimare, recunoaștere text OCR, protecție cu parolă, permisiuni, metadate, aplatizare), Galerie foto și player media, Partajarea întregii biblioteci de fotografii și muzică, Protecție cu parolă și blocare dispozitive"
 screenshots:
   - "https://everappz.com/products/everdisk/screenshots/browser_access.png"
   - "https://everappz.com/products/everdisk/screenshots/connect_to_servers.png"
@@ -16,7 +16,7 @@ screenshots:
 ---
 
 {{% sr-only %}}
-Everdisk este o aplicație de disc wireless pentru iPhone și iPad dezvoltată de Everappz. Îți transformă dispozitivul într-un centru care partajează fișiere, fotografii, videoclipuri și muzică cu orice se află în rețeaua ta locală, fără conturi, fără cloud și fără vreo aplicație suplimentară de instalat pe cealaltă parte. Aplicația rulează patru servere în același timp - DLNA pentru televizoare smart și playere media, HTTP pentru orice browser web, WebDAV pentru Finder, Windows și Linux și FTP pentru aplicații de fișiere și utilizatori avansați - astfel încât fiecare dispozitiv se conectează așa cum îi place. Poți transmite fotografii, videoclipuri și muzică direct pe televizoare smart prin DLNA cu miniaturi de previzualizare, poți partaja un link simplu care se deschide în orice browser pentru a-ți răsfoi și descărca fișierele sau îți poți monta dispozitivul ca disc de rețea și muta fișiere în ambele direcții. Când nu ai Wi-Fi, te poți conecta la un Mac cu un cablu USB și poți muta fișiere mai repede decât prin Wi-Fi, chiar și într-un avion sau într-o rețea blocată. Everdisk se conectează și la servere DLNA, WebDAV, FTP și SFTP din rețeaua ta pentru a le răsfoi, transmite și descărca fișierele. Un manager de fișiere integrat îți permite să răsfoiești în listă sau grilă, să creezi foldere, să redenumești, să muți, să copiezi, să arhivezi și să dezarhivezi și să ștergi. Poți scana documente pe hârtie în PDF-uri curate, poți deschide un PDF sau o fotografie și o poți adnota cu editorul integrat - desenezi, evidențiezi, adaugi text și o semnătură, iar modificările se salvează înapoi în fișier - și poți folosi un set complet de instrumente PDF pentru a comprima fișiere, a recunoaște text (OCR) într-un PDF care poate fi căutat, a adăuga sau elimina o parolă de deschidere, a verifica permisiunile, a edita metadatele documentului și a aplatiza adnotările și câmpurile de formular. Poți reda audio într-un mini player și viziona videoclipuri pe tot ecranul, poți partaja întreaga bibliotecă de fotografii și muzică în rețea în calitate originală sau într-un format mai compatibil. Totul rămâne în rețeaua ta locală și nu atinge niciodată internetul, iar accesul îl poți proteja cu utilizator și parolă și poți bloca orice dispozitiv cu o singură atingere. Everdisk se descarcă gratuit din App Store, cu o achiziție opțională Premium Lifetime unică.
+Everdisk este o aplicație de disc wireless pentru iPhone și iPad dezvoltată de Everappz. Îți transformă dispozitivul într-un centru care partajează fișiere, fotografii, videoclipuri și muzică cu orice se află în rețeaua ta locală, fără conturi, fără cloud și fără vreo aplicație suplimentară de instalat pe cealaltă parte. Aplicația rulează cinci servere în același timp - DLNA pentru televizoare smart și playere media, HTTP pentru orice browser web, WebDAV pentru Finder, Windows și Linux, SMB pentru un disc de rețea pe Mac, Windows și Linux (cu criptare SMB3 opțională) și FTP pentru aplicații de fișiere și utilizatori avansați - astfel încât fiecare dispozitiv se conectează așa cum îi place. Poți transmite fotografii, videoclipuri și muzică direct pe televizoare smart prin DLNA cu miniaturi de previzualizare, poți partaja un link simplu care se deschide în orice browser pentru a-ți răsfoi și descărca fișierele sau îți poți monta dispozitivul ca disc de rețea și muta fișiere în ambele direcții. Îl poți monta și prin SMB, un disc de rețea pentru Mac, Windows și Linux care apare de la sine în bara laterală Finder pe un Mac, și poți activa criptarea SMB3 (AES), astfel încât nimeni altcineva din aceeași rețea să nu-ți poată citi transferurile. Când nu ai Wi-Fi, te poți conecta la un Mac cu un cablu USB și poți muta fișiere mai repede decât prin Wi-Fi, chiar și într-un avion sau într-o rețea blocată. Everdisk se conectează și la servere DLNA, WebDAV, FTP, SFTP și SMB din rețeaua ta - inclusiv Mac-uri, PC-uri cu Windows, mașini Linux și discuri NAS - pentru a le răsfoi, transmite și descărca fișierele. Un manager de fișiere integrat îți permite să răsfoiești în listă sau grilă, să creezi foldere, să redenumești, să muți, să copiezi, să arhivezi și să dezarhivezi și să ștergi. Poți scana documente pe hârtie în PDF-uri curate, poți deschide un PDF sau o fotografie și o poți adnota cu editorul integrat - desenezi, evidențiezi, adaugi text și o semnătură, iar modificările se salvează înapoi în fișier - și poți folosi un set complet de instrumente PDF pentru a comprima fișiere, a recunoaște text (OCR) într-un PDF care poate fi căutat, a adăuga sau elimina o parolă de deschidere, a verifica permisiunile, a edita metadatele documentului și a aplatiza adnotările și câmpurile de formular. Poți reda audio într-un mini player și viziona videoclipuri pe tot ecranul, poți partaja întreaga bibliotecă de fotografii și muzică în rețea în calitate originală sau într-un format mai compatibil. Totul rămâne în rețeaua ta locală și nu atinge niciodată internetul, iar accesul îl poți proteja cu utilizator și parolă și poți bloca orice dispozitiv cu o singură atingere. Everdisk se descarcă gratuit din App Store, cu o achiziție opțională Premium Lifetime unică.
 {{% /sr-only %}}
 
 <!-- <body class="hx:bg-transparent" style="background: radial-gradient(ellipse at 50% 80%, rgba(59,130,246,0.05), hsla(0,0%,100%,0));"> -->
@@ -56,9 +56,9 @@ Transformă-ți iPhone-ul sau iPad-ul într-un disc wireless&nbsp;<br class="hx:
 
 <div class="hx:mb-6">
 {{< hextra/hero-paragraph >}}
-• Apasă Start și partajează în patru feluri deodată: DLNA, HTTP, WebDAV și FTP  
+• Apasă Start și partajează în cinci feluri deodată: DLNA, HTTP, WebDAV, SMB și FTP  
 • Transmite fotografii, videoclipuri și muzică direct pe televizoare smart prin DLNA  
-• Montează-ți dispozitivul ca disc de rețea în Finder, Windows sau Linux  
+• Montează-ți dispozitivul ca disc de rețea în Finder, Windows sau Linux - cu criptare SMB opțională  
 • Fără Wi-Fi? Mută fișiere printr-un cablu USB, mai repede decât wireless  
 {{< /hextra/hero-paragraph >}}
 </div>
@@ -82,7 +82,7 @@ Transformă-ți iPhone-ul sau iPad-ul într-un disc wireless&nbsp;<br class="hx:
 
   {{< hextra/feature-card
     title="Dispozitivul tău devine un disc"
-    subtitle="Apasă Start și iPhone-ul sau iPad-ul tău se transformă într-un disc wireless. Everdisk rulează patru servere în același timp - DLNA, HTTP, WebDAV și FTP - astfel încât televizoarele smart, computerele, browserele web și aplicațiile de fișiere se conectează fiecare așa cum îi place. Fără conturi, fără cloud și fără nimic de instalat pe cealaltă parte."
+    subtitle="Apasă Start și iPhone-ul sau iPad-ul tău se transformă într-un disc wireless. Everdisk rulează cinci servere în același timp - DLNA, HTTP, WebDAV, SMB și FTP - astfel încât televizoarele smart, computerele, browserele web și aplicațiile de fișiere se conectează fiecare așa cum îi place. Fără conturi, fără cloud și fără nimic de instalat pe cealaltă parte."
     icon="server"
     style="background: radial-gradient(ellipse at 50% 80%, rgba(34,197,94,0.15), hsla(0,0%,100%,0));"
   >}}
@@ -109,6 +109,13 @@ Transformă-ți iPhone-ul sau iPad-ul într-un disc wireless&nbsp;<br class="hx:
   >}}
 
   {{< hextra/feature-card
+    title="Partajare SMB criptată"
+    subtitle="Conectează-te prin SMB, un disc de rețea pentru Mac, Windows și Linux - pe un Mac apare de la sine în bara laterală Finder. Este singura conexiune pe care o poți cripta: activează criptarea SMB3 (AES) cu un utilizator și o parolă, astfel încât nimeni altcineva din rețea să nu-ți poată citi fișierele."
+    icon="lock-closed"
+    style="background: radial-gradient(ellipse at 50% 80%, rgba(99,102,241,0.15), hsla(0,0%,100%,0));"
+  >}}
+
+  {{< hextra/feature-card
     title="Fără Wi-Fi? Folosește cablul"
     subtitle="Conectează-ți dispozitivul la un Mac cu același cablu USB cu care îl încarci. Fișierele trec direct prin cablu, mai repede decât prin Wi-Fi, iar totul funcționează într-un avion, la hotel sau în orice rețea blocată unde Wi-Fi-ul este interzis."
     icon="lightning-bolt"
@@ -117,7 +124,7 @@ Transformă-ți iPhone-ul sau iPad-ul într-un disc wireless&nbsp;<br class="hx:
 
   {{< hextra/feature-card
     title="Conectează-te la alte dispozitive"
-    subtitle="Găsește și conectează-te la servere DLNA, WebDAV, FTP și SFTP din rețeaua ta. Răsfoiește-le folderele, transmite audio și video, descarcă fișiere și creează foldere, încarcă, redenumește, mută sau șterge atunci când serverul permite."
+    subtitle="Găsește și conectează-te la servere DLNA, WebDAV, FTP, SFTP și SMB din rețeaua ta - Mac-uri, PC-uri cu Windows, mașini Linux și discuri NAS. Răsfoiește-le folderele, transmite audio și video, descarcă fișiere și creează foldere, încarcă, redenumește, mută sau șterge atunci când serverul permite."
     icon="cloud-download"
     style="background: radial-gradient(ellipse at 50% 80%, rgba(6,182,212,0.15), hsla(0,0%,100%,0));"
   >}}
@@ -153,7 +160,7 @@ Transformă-ți iPhone-ul sau iPad-ul într-un disc wireless&nbsp;<br class="hx:
     title="Conectare la servere" 
     method="Fill"
     options="1030x400 q82 webp Center"
-    subtitle="Descoperă și conectează-te la servere DLNA, WebDAV, FTP și SFTP din rețeaua ta pentru a le răsfoi, transmite și descărca fișierele." 
+    subtitle="Descoperă și conectează-te la servere DLNA, WebDAV, FTP, SFTP și SMB din rețeaua ta pentru a le răsfoi, transmite și descărca fișierele." 
   >}}
 
   {{< feature-card 
@@ -208,7 +215,7 @@ Transformă-ți iPhone-ul sau iPad-ul într-un disc wireless&nbsp;<br class="hx:
 
 {{< cards >}}
 
-  {{< feature-card title="Patru servere deodată" subtitle="Apasă Start și partajează-ți fișierele în patru feluri în același timp: DLNA pentru televizoare și playere media, HTTP pentru orice browser web, WebDAV pentru Finder, Windows și Linux și FTP pentru aplicații de fișiere și utilizatori avansați." icon="wifi" >}}
+  {{< feature-card title="Cinci servere deodată" subtitle="Apasă Start și partajează-ți fișierele în cinci feluri în același timp: DLNA pentru televizoare și playere media, HTTP pentru orice browser web, WebDAV pentru Finder, Windows și Linux, SMB pentru un disc de rețea pe Mac, Windows și Linux și FTP pentru aplicații de fișiere și utilizatori avansați." icon="wifi" >}}
 
   {{< feature-card title="Streaming pe televizoare smart" subtitle="Trimite fotografii, videoclipuri și muzică direct pe televizoare smart și playere media prin DLNA. Biblioteca ta apare singură pe televizor, cu miniaturi de previzualizare, pregătită pentru ecranul mare." icon="desktop-computer" >}}
 
@@ -216,9 +223,11 @@ Transformă-ți iPhone-ul sau iPad-ul într-un disc wireless&nbsp;<br class="hx:
 
   {{< feature-card title="Disc de rețea WebDAV" subtitle="Conectează-te din Finder pe un Mac, din Windows sau din Linux prin WebDAV, iar dispozitivul tău apare ca un disc de rețea obișnuit. Trage și plasează fișiere în ambele direcții." icon="folder" >}}
 
+  {{< feature-card title="Disc SMB criptat" subtitle="Montează-ți dispozitivul prin SMB, un disc de rețea pentru Mac, Windows și Linux - pe un Mac apare de la sine în bara laterală Finder. Este singura conexiune care poate fi criptată: activează criptarea SMB3 (AES) cu un utilizator și o parolă ca să păstrezi privat fiecare transfer." icon="lock-closed" >}}
+
   {{< feature-card title="Transfer prin USB" subtitle="Conectează-te la un Mac cu cablul tău de încărcare și mută fișiere direct prin cablu, mai repede decât prin Wi-Fi. Funcționează într-un avion, la hotel sau în orice rețea blocată." icon="lightning-bolt" >}}
 
-  {{< feature-card title="Conectare la DLNA, WebDAV, FTP și SFTP" subtitle="Găsește și conectează-te la servere din rețeaua ta, răsfoiește-le folderele, transmite audio și video, descarcă fișiere și creează, încarcă, redenumește, mută sau șterge atunci când e permis." icon="server" >}}
+  {{< feature-card title="Conectare la DLNA, WebDAV, FTP, SFTP și SMB" subtitle="Găsește și conectează-te la servere și discuri NAS din rețeaua ta, răsfoiește-le folderele, transmite audio și video, descarcă fișiere și creează, încarcă, redenumește, mută sau șterge atunci când e permis." icon="server" >}}
 
   {{< feature-card title="Manager de fișiere integrat" subtitle="Un manager de fișiere complet pentru tot ce ai pe dispozitiv. Răsfoiește în listă sau grilă, creează foldere, redenumește, mută, copiază și șterge și conectează foldere de oriunde de pe dispozitivul tău." icon="view-grid" >}}
 
@@ -283,11 +292,11 @@ Transformă-ți iPhone-ul sau iPad-ul într-un disc wireless&nbsp;<br class="hx:
     title="Gratuit"
     class="pricing-card pricing-free"
     subtitle=`<span class='pricing-details'>• Transformă-ți dispozitivul într-un disc wireless<br />
-• Patru servere deodată: DLNA, HTTP, WebDAV, FTP<br />
+• Cinci servere deodată: DLNA, HTTP, WebDAV, SMB, FTP<br />
 • Streaming pe televizoare smart, browsere și computere<br />
 • Montare ca disc de rețea și transfer prin USB<br />
 • Partajarea întregii biblioteci de fotografii și muzică<br />
-• Conectare la servere DLNA, WebDAV, FTP și SFTP<br />
+• Conectare la servere DLNA, WebDAV, FTP, SFTP și SMB<br />
 • Manager de fișiere cu arhivare și dezarhivare<br />
 • Scanare documente în PDF și instrumente PDF complete<br />
 • Adnotare și semnare PDF-uri și fotografii<br />
@@ -307,7 +316,8 @@ Transformă-ți iPhone-ul sau iPad-ul într-un disc wireless&nbsp;<br class="hx:
 • Foldere partajate nelimitate (mai mult de 5)<br />
 • Conexiuni salvate nelimitate (mai mult de 10)<br />
 • Conversia fotografiilor și videoclipurilor într-un format compatibil sau dimensiune mai mică<br />
-• Porturi HTTP, WebDAV și FTP personalizate<br />
+• Criptare SMB3 (AES) pentru partajare privată și sigură<br />
+• Porturi HTTP, WebDAV, SMB și FTP personalizate<br />
 • Pornire automată a partajării când deschizi aplicația<br />
 • Personalizarea dispozitivului: nume, pictogramă avatar, gradient sau fotografie<br />
 • Achiziție unică - se plătește o dată, nu se reînnoiește niciodată</span><br /><br />
@@ -344,24 +354,25 @@ Everdisk îți transformă iPhone-ul sau iPad-ul într-un disc wireless și înt
 Îți poți partaja fișierele, fotografiile, videoclipurile și muzica cu orice se află în rețeaua ta, poți răsfoi și transmite de pe alte servere și poți gestiona totul direct pe dispozitivul tău.<br>
 Nu există conturi, nici cloud și nici vreo aplicație suplimentară de instalat pe cealaltă parte - doar apeși Start și ești gata.<br><br>
 
-Aplicația rulează patru servere în același timp, așa că fiecare dispozitiv se conectează cum îi place: televizoare smart prin DLNA, computere și browsere web prin HTTP, Finder, Windows și Linux prin WebDAV și aplicații de fișiere prin FTP.
+Aplicația rulează cinci servere în același timp, așa că fiecare dispozitiv se conectează cum îi place: televizoare smart prin DLNA, computere și browsere web prin HTTP, Finder, Windows și Linux prin WebDAV, un disc de rețea prin SMB (cu criptare opțională) și aplicații de fișiere prin FTP.
 {{% /details %}}
 
 {{% details title="Cum funcționează Everdisk?" closed="true" %}}
-Când apeși Start, Everdisk începe să partajeze conținutul selectat și rulează patru servere deodată, ca diferite dispozitive să se poată conecta așa cum preferă.<br><br>
+Când apeși Start, Everdisk începe să partajeze conținutul selectat și rulează cinci servere deodată, ca diferite dispozitive să se poată conecta așa cum preferă.<br><br>
 
 - <strong>DLNA</strong> permite televizoarelor smart și playerelor media să-ți găsească automat fotografiile, videoclipurile și muzica și să le afișeze cu miniaturi de previzualizare.<br>
 - <strong>HTTP</strong> îi oferă oricui un link simplu pe care îl poate deschide într-un browser web pentru a-ți răsfoi, previzualiza și descărca fișierele, fără nimic de instalat.<br>
 - <strong>WebDAV</strong> face ca dispozitivul tău să apară ca un disc de rețea obișnuit în Finder, Windows sau Linux, ca să poți trage fișiere în ambele direcții.<br>
+- <strong>SMB</strong> face din dispozitivul tău un disc de rețea pe Mac, Windows și Linux - pe un Mac apare de la sine în bara laterală Finder - și este singura conexiune pe care o poți cripta cu criptare SMB3 (AES).<br>
 - <strong>FTP</strong> funcționează cu aplicațiile de fișiere și cu utilizatorii avansați.<br><br>
 
-Everdisk se conectează și în sens invers, la servere DLNA, WebDAV, FTP și SFTP din rețeaua ta, ca să le poți răsfoi folderele, transmite audio și video și descărca sau gestiona fișiere atunci când serverul permite. Totul rămâne în rețeaua ta locală și nu atinge niciodată internetul.
+Everdisk se conectează și în sens invers, la servere DLNA, WebDAV, FTP, SFTP și SMB din rețeaua ta - inclusiv Mac-uri, PC-uri cu Windows, mașini Linux și discuri NAS - ca să le poți răsfoi folderele, transmite audio și video și descărca sau gestiona fișiere atunci când serverul permite. Totul rămâne în rețeaua ta locală și nu atinge niciodată internetul.
 {{% /details %}}
 
 {{% details title="Everdisk este gratuit?" closed="true" %}}
-Da. Everdisk se descarcă gratuit și poți să-ți transformi dispozitivul într-un disc wireless, să-ți partajezi fișierele în patru feluri, să te conectezi la alte servere și să folosești managerul de fișiere integrat, fără niciun cost.<br><br>
+Da. Everdisk se descarcă gratuit și poți să-ți transformi dispozitivul într-un disc wireless, să-ți partajezi fișierele în cinci feluri, să te conectezi la alte servere și să folosești managerul de fișiere integrat, fără niciun cost.<br><br>
 
-Există o achiziție opțională unică <strong>Premium Lifetime</strong> - o singură plată, fără abonament - care deblochează foldere partajate și conexiuni salvate nelimitate, conversia fotografiilor și videoclipurilor, porturi personalizate, pornire automată a partajării și personalizarea dispozitivului. Este legată de Apple ID-ul tău, așa că poți folosi Restaurare achiziții pentru a o debloca pe celelalte dispozitive. Prețurile pot varia în funcție de țara sau regiunea ta.
+Există o achiziție opțională unică <strong>Premium Lifetime</strong> - o singură plată, fără abonament - care deblochează foldere partajate și conexiuni salvate nelimitate, conversia fotografiilor și videoclipurilor, criptare SMB3 (AES), porturi personalizate, pornire automată a partajării și personalizarea dispozitivului. Este legată de Apple ID-ul tău, așa că poți folosi Restaurare achiziții pentru a o debloca pe celelalte dispozitive. Prețurile pot varia în funcție de țara sau regiunea ta.
 {{% /details %}}
 
 {{% details title="Cum mă conectez de pe computer?" closed="true" %}}
@@ -372,6 +383,12 @@ Everdisk face ca dispozitivul tău să apară ca un disc de rețea obișnuit pri
 - Pe <strong>Linux</strong>, conectează-te la adresa WebDAV din managerul tău de fișiere.<br><br>
 
 După conectare, poți trage și plasa în ambele direcții: copiază fișiere de pe computer pe dispozitiv sau adu-le înapoi. Poți deschide și link-ul HTTP în orice browser web dacă preferi să nu montezi un disc.
+{{% /details %}}
+
+{{% details title="Pot folosi SMB și cripta conexiunea?" closed="true" %}}
+Da. Pe lângă WebDAV, Everdisk partajează prin <strong>SMB</strong> - un disc de rețea pentru Mac, Windows și Linux (afișat în aplicație ca și conexiunea <strong>Computer (avansat)</strong>). Pe un Mac apare de la sine în bara laterală Finder la Locations; pe Windows, îl deschizi în File Explorer folosind adresa <code>smb://</code> afișată în aplicație.<br><br>
+
+SMB este și singura conexiune pe care o poți <strong>cripta</strong>. Setează un utilizator și o parolă, apoi activează <strong>Solicită criptare SMB</strong> în Setări pentru a proteja fiecare transfer cu <strong>criptare SMB3 (AES)</strong>, astfel încât nimeni altcineva din aceeași rețea să nu-ți poată citi fișierele. Conexiunile criptate nu pot fi anonime, așa că un utilizator și o parolă sunt obligatorii, iar ai nevoie de un client care acceptă SMB3 - Finder-ul de pe un Mac modern sau Windows 10 și versiunile ulterioare.
 {{% /details %}}
 
 {{% details title="Cum transmit pe televizorul meu?" closed="true" %}}
@@ -393,7 +410,7 @@ Pentru că nu depinde de o rețea wireless, totul funcționează într-un avion,
 {{% /details %}}
 
 {{% details title="La ce mă pot conecta cu Everdisk?" closed="true" %}}
-Everdisk este și un client pentru alte dispozitive din rețeaua ta. Poți găsi și te poți conecta la servere <strong>DLNA</strong>, <strong>WebDAV</strong>, <strong>FTP</strong> și <strong>SFTP</strong>, inclusiv dispozitive NAS și servere media.<br><br>
+Everdisk este și un client pentru alte dispozitive din rețeaua ta. Poți găsi și te poți conecta la servere <strong>DLNA</strong>, <strong>WebDAV</strong>, <strong>FTP</strong>, <strong>SFTP</strong> și <strong>SMB</strong>, inclusiv Mac-uri, PC-uri cu Windows, mașini Linux, dispozitive NAS și servere media.<br><br>
 
 După conectare, le poți răsfoi folderele, transmite audio și video, descărca fișiere și creea foldere, încărca, redenumi, muta sau șterge atunci când serverul permite.
 {{% /details %}}
@@ -463,11 +480,11 @@ Fotografiile tale afișează și miniaturi de previzualizare reale pe un televiz
 </div>
 
 {{< cards >}}
-  {{< feature-card icon="play" title="Partajare" subtitle="Apasă Start, alege ce vrei să partajezi și rulează toate cele patru servere deodată." link="/docs/guide/everdisk/everdisk-guide-sharing" >}}
+  {{< feature-card icon="play" title="Partajare" subtitle="Apasă Start, alege ce vrei să partajezi și rulează toate cele cinci servere deodată." link="/docs/guide/everdisk/everdisk-guide-sharing" >}}
 
   {{< feature-card icon="desktop-computer" title="Conectează-ți dispozitivele" subtitle="Cum se conectează la fișierele tale un televizor, un Mac sau PC, un browser, alt telefon sau un cablu USB." link="/docs/guide/everdisk/everdisk-guide-connect" >}}
 
-  {{< feature-card icon="server" title="Conectare la servere" subtitle="Ajunge la servere DLNA, WebDAV, FTP și SFTP și la discuri NAS pentru a le răsfoi, transmite și descărca." link="/docs/guide/everdisk/everdisk-guide-devices" >}}
+  {{< feature-card icon="server" title="Conectare la servere" subtitle="Ajunge la servere DLNA, WebDAV, FTP, SFTP și SMB și la discuri NAS pentru a le răsfoi, transmite și descărca." link="/docs/guide/everdisk/everdisk-guide-devices" >}}
 
   {{< feature-card icon="folder" title="Fișiere și documente" subtitle="Răsfoiește, organizează, arhivează și dezarhivează, conectează foldere externe și scanează documente în PDF." link="/docs/guide/everdisk/everdisk-guide-files" >}}
 
