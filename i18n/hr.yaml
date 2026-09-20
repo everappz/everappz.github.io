@@ -107,5 +107,5 @@ previousSlide: "Prethodni slajd"
 nextSlide: "Sljedeći slajd"
 
 # Product download buttons
-downloadiOSFifteenAndFivePlus: "Preuzmi za iOS 15.5+"
-downloadMacOStwelveAndFourPlus: "Preuzmi za macOS 12.4+"
+downloadiOSFifteenAndFivePlus: "Preuzmi za <strong>iOS 15.5+</strong>"
+downloadMacOStwelveAndFourPlus: "Preuzmi za <strong>macOS 12.4+</strong>"

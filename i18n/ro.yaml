@@ -105,5 +105,5 @@ previousSlide: "Diapozitivul anterior"
 nextSlide: "Diapozitivul următor"
 
 # Product download buttons
-downloadiOSFifteenAndFivePlus: "Descarcă pentru iOS 15.5+"
-downloadMacOStwelveAndFourPlus: "Descarcă pentru macOS 12.4+"
+downloadiOSFifteenAndFivePlus: "Descarcă pentru <strong>iOS 15.5+</strong>"
+downloadMacOStwelveAndFourPlus: "Descarcă pentru <strong>macOS 12.4+</strong>"

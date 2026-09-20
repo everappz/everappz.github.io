@@ -105,5 +105,5 @@ previousSlide: "上一張投影片"
 nextSlide: "下一張投影片"
 
 # Product download buttons
-downloadiOSFifteenAndFivePlus: "下載 iOS 15.5+"
-downloadMacOStwelveAndFourPlus: "下載 macOS 12.4+"
+downloadiOSFifteenAndFivePlus: "下載 <strong>iOS 15.5+</strong>"
+downloadMacOStwelveAndFourPlus: "下載 <strong>macOS 12.4+</strong>"

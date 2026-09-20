@@ -107,5 +107,5 @@ previousSlide: "पिछली स्लाइड"
 nextSlide: "अगली स्लाइड"
 
 # Product download buttons
-downloadiOSFifteenAndFivePlus: "iOS 15.5+ के लिए डाउनलोड करें"
-downloadMacOStwelveAndFourPlus: "macOS 12.4+ के लिए डाउनलोड करें"
+downloadiOSFifteenAndFivePlus: "<strong>iOS 15.5+</strong> के लिए डाउनलोड करें"
+downloadMacOStwelveAndFourPlus: "<strong>macOS 12.4+</strong> के लिए डाउनलोड करें"

@@ -115,5 +115,5 @@ previousSlide: "Forrige lysbilde"
 nextSlide: "Neste lysbilde"
 
 # Product download buttons
-downloadiOSFifteenAndFivePlus: "Last ned for iOS 15.5+"
-downloadMacOStwelveAndFourPlus: "Last ned for macOS 12.4+"
+downloadiOSFifteenAndFivePlus: "Last ned for <strong>iOS 15.5+</strong>"
+downloadMacOStwelveAndFourPlus: "Last ned for <strong>macOS 12.4+</strong>"

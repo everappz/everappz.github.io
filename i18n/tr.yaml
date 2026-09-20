@@ -107,5 +107,5 @@ previousSlide: "Önceki slayt"
 nextSlide: "Sonraki slayt"
 
 # Product download buttons
-downloadiOSFifteenAndFivePlus: "iOS 15.5+ için indir"
-downloadMacOStwelveAndFourPlus: "macOS 12.4+ için indir"
+downloadiOSFifteenAndFivePlus: "<strong>iOS 15.5+</strong> için indir"
+downloadMacOStwelveAndFourPlus: "<strong>macOS 12.4+</strong> için indir"

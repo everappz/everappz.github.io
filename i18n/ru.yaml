@@ -105,5 +105,5 @@ previousSlide: "Предыдущий слайд"
 nextSlide: "Следующий слайд"
 
 # Product download buttons
-downloadiOSFifteenAndFivePlus: "Скачать для iOS 15.5+"
-downloadMacOStwelveAndFourPlus: "Скачать для macOS 12.4+"
+downloadiOSFifteenAndFivePlus: "Скачать для <strong>iOS 15.5+</strong>"
+downloadMacOStwelveAndFourPlus: "Скачать для <strong>macOS 12.4+</strong>"

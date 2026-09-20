@@ -107,5 +107,5 @@ previousSlide: "Előző dia"
 nextSlide: "Következő dia"
 
 # Product download buttons
-downloadiOSFifteenAndFivePlus: "Letöltés iOS 15.5+"
-downloadMacOStwelveAndFourPlus: "Letöltés macOS 12.4+"
+downloadiOSFifteenAndFivePlus: "Letöltés <strong>iOS 15.5+</strong>"
+downloadMacOStwelveAndFourPlus: "Letöltés <strong>macOS 12.4+</strong>"

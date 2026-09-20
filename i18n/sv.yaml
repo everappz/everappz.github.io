@@ -107,5 +107,5 @@ previousSlide: "Föregående bild"
 nextSlide: "Nästa bild"
 
 # Product download buttons
-downloadiOSFifteenAndFivePlus: "Ladda ner för iOS 15.5+"
-downloadMacOStwelveAndFourPlus: "Ladda ner för macOS 12.4+"
+downloadiOSFifteenAndFivePlus: "Ladda ner för <strong>iOS 15.5+</strong>"
+downloadMacOStwelveAndFourPlus: "Ladda ner för <strong>macOS 12.4+</strong>"

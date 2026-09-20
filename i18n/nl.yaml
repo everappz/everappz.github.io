@@ -105,5 +105,5 @@ previousSlide: "Vorige dia"
 nextSlide: "Volgende dia"
 
 # Product download buttons
-downloadiOSFifteenAndFivePlus: "Download voor iOS 15.5+"
-downloadMacOStwelveAndFourPlus: "Download voor macOS 12.4+"
+downloadiOSFifteenAndFivePlus: "Download voor <strong>iOS 15.5+</strong>"
+downloadMacOStwelveAndFourPlus: "Download voor <strong>macOS 12.4+</strong>"

@@ -107,5 +107,5 @@ previousSlide: "สไลด์ก่อนหน้า"
 nextSlide: "สไลด์ถัดไป"
 
 # Product download buttons
-downloadiOSFifteenAndFivePlus: "ดาวน์โหลดสำหรับ iOS 15.5+"
-downloadMacOStwelveAndFourPlus: "ดาวน์โหลดสำหรับ macOS 12.4+"
+downloadiOSFifteenAndFivePlus: "ดาวน์โหลดสำหรับ <strong>iOS 15.5+</strong>"
+downloadMacOStwelveAndFourPlus: "ดาวน์โหลดสำหรับ <strong>macOS 12.4+</strong>"

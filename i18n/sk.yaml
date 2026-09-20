@@ -107,5 +107,5 @@ previousSlide: "Predchádzajúca snímka"
 nextSlide: "Ďalšia snímka"
 
 # Product download buttons
-downloadiOSFifteenAndFivePlus: "Stiahnuť pre iOS 15.5+"
-downloadMacOStwelveAndFourPlus: "Stiahnuť pre macOS 12.4+"
+downloadiOSFifteenAndFivePlus: "Stiahnuť pre <strong>iOS 15.5+</strong>"
+downloadMacOStwelveAndFourPlus: "Stiahnuť pre <strong>macOS 12.4+</strong>"
