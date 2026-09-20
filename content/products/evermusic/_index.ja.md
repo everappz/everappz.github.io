@@ -67,14 +67,14 @@ Evermusicは、スペインのソフトウェア企業であるEverappzが開発
 </div>
 
 {{< hextra/hero-button 
-  text="モバイル版をダウンロード"
+  textKey="downloadiOSFifteenAndFivePlus"
   link="https://apps.apple.com/app/apple-store/id885367198?pt=95781850&ct=everappzcom&mt=8"
   icon="device-mobile" 
   style="margin-top:1rem;margin-right:1rem;"
 >}}
 
 {{< hextra/hero-button 
-  text="デスクトップ版をダウンロード"
+  textKey="downloadMacOStwelveAndFourPlus"
   link="https://apps.apple.com/app/apple-store/id1564384601?pt=95781850&ct=everappzcom&mt=8"
   icon="desktop-computer" 
   style="margin-top:1rem;margin-right:1rem;"

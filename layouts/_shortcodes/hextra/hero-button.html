@@ -3,6 +3,12 @@
 {{- $icon := .Get "icon" -}}
 {{- $style := .Get "style" -}}
 
+{{/* Localizable label: textKey resolves the button text from an i18n string,
+     e.g. textKey="downloadiOSFifteenAndFivePlus". */}}
+{{- with .Get "textKey" -}}
+  {{- $text = i18n . -}}
+{{- end -}}
+
 {{- $external := hasPrefix $link "http" -}}
 {{- $href := cond (hasPrefix $link "/") ($link | relURL) $link -}}
 

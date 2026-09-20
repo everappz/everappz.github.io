@@ -103,3 +103,7 @@ productEverdiskSubtitle: "iPhone 또는 iPad를 무선 드라이브로 바꿔 �
 
 previousSlide: "이전 슬라이드"
 nextSlide: "다음 슬라이드"
+
+# Product download buttons
+downloadiOSFifteenAndFivePlus: "iOS 15.5+ 다운로드"
+downloadMacOStwelveAndFourPlus: "macOS 12.4+ 다운로드"

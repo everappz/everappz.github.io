@@ -103,3 +103,7 @@ productEverdiskSubtitle: "把你的 iPhone 或 iPad 變成無線硬碟。透過 
 
 previousSlide: "上一張投影片"
 nextSlide: "下一張投影片"
+
+# Product download buttons
+downloadiOSFifteenAndFivePlus: "下載 iOS 15.5+"
+downloadMacOStwelveAndFourPlus: "下載 macOS 12.4+"

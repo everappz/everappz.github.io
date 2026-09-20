@@ -113,3 +113,7 @@ productEverdiskSubtitle: "Turn your iPhone or iPad into a wireless drive. Share 
 
 previousSlide: "Previous slide"
 nextSlide: "Next slide"
+
+# Product download buttons
+downloadiOSFifteenAndFivePlus: "Download for iOS 15.5+"
+downloadMacOStwelveAndFourPlus: "Download for macOS 12.4+"

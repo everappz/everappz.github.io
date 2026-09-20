@@ -67,14 +67,14 @@ Evermusic adalah pemutar musik offline gratis untuk iPhone dan Mac yang dikemban
 </div>
 
 {{< hextra/hero-button 
-  text="Unduh untuk mobile"
+  textKey="downloadiOSFifteenAndFivePlus"
   link="https://apps.apple.com/app/apple-store/id885367198?pt=95781850&ct=everappzcom&mt=8"
   icon="device-mobile" 
   style="margin-top:1rem;margin-right:1rem;"
 >}}
 
 {{< hextra/hero-button 
-  text="Unduh untuk desktop"
+  textKey="downloadMacOStwelveAndFourPlus"
   link="https://apps.apple.com/app/apple-store/id1564384601?pt=95781850&ct=everappzcom&mt=8"
   icon="desktop-computer" 
   style="margin-top:1rem;margin-right:1rem;"

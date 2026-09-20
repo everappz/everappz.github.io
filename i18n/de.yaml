@@ -103,3 +103,7 @@ productEverdiskSubtitle: "Verwandle dein iPhone oder iPad in ein drahtloses Lauf
 
 previousSlide: "Vorherige Folie"
 nextSlide: "Nächste Folie"
+
+# Product download buttons
+downloadiOSFifteenAndFivePlus: "Für iOS 15.5+ herunterladen"
+downloadMacOStwelveAndFourPlus: "Für macOS 12.4+ herunterladen"

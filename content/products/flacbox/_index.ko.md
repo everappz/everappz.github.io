@@ -61,14 +61,14 @@ Flacbox
 </div>
 
 {{< hextra/hero-button 
-    text="모바일용 다운로드"
+    textKey="downloadiOSFifteenAndFivePlus"
     link="https://apps.apple.com/app/apple-store/id1097564256?pt=95781850&ct=everappzcom&mt=8"
     icon="device-mobile"
     style="margin-top:1rem;margin-right:1rem;"
 >}}
 
 {{< hextra/hero-button 
-    text="데스크톱용 다운로드"
+    textKey="downloadMacOStwelveAndFourPlus"
     link="https://apps.apple.com/app/apple-store/id1594027432?pt=95781850&ct=everappzcom&mt=8"
     icon="desktop-computer" 
     style="margin-top:1rem;margin-right:1rem;"

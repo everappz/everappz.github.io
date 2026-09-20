@@ -113,3 +113,7 @@ productEverdiskSubtitle: "Gjør iPhone eller iPad til en trådløs stasjon. Del 
 
 previousSlide: "Forrige lysbilde"
 nextSlide: "Neste lysbilde"
+
+# Product download buttons
+downloadiOSFifteenAndFivePlus: "Last ned for iOS 15.5+"
+downloadMacOStwelveAndFourPlus: "Last ned for macOS 12.4+"

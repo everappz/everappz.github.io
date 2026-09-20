@@ -103,3 +103,7 @@ productEverdiskSubtitle: "Trasforma il tuo iPhone o iPad in un'unità wireless. 
 
 previousSlide: "Diapositiva precedente"
 nextSlide: "Diapositiva successiva"
+
+# Product download buttons
+downloadiOSFifteenAndFivePlus: "Scarica per iOS 15.5+"
+downloadMacOStwelveAndFourPlus: "Scarica per macOS 12.4+"

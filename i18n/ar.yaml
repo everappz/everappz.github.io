@@ -105,3 +105,7 @@ productEverdiskSubtitle: "حوّل جهاز iPhone أو iPad إلى قرص لا�
 
 previousSlide: "الشريحة السابقة"
 nextSlide: "الشريحة التالية"
+
+# Product download buttons
+downloadiOSFifteenAndFivePlus: "تنزيل لـ iOS 15.5+"
+downloadMacOStwelveAndFourPlus: "تنزيل لـ macOS 12.4+"

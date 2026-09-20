@@ -61,14 +61,14 @@ Flacbox
 </div>
 
 {{< hextra/hero-button 
-    text="Muat turun untuk mudah alih"
+    textKey="downloadiOSFifteenAndFivePlus"
     link="https://apps.apple.com/app/apple-store/id1097564256?pt=95781850&ct=everappzcom&mt=8"
     icon="device-mobile"
     style="margin-top:1rem;margin-right:1rem;"
 >}}
 
 {{< hextra/hero-button 
-    text="Muat turun untuk desktop"
+    textKey="downloadMacOStwelveAndFourPlus"
     link="https://apps.apple.com/app/apple-store/id1594027432?pt=95781850&ct=everappzcom&mt=8"
     icon="desktop-computer" 
     style="margin-top:1rem;margin-right:1rem;"

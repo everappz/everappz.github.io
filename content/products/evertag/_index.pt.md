@@ -52,14 +52,14 @@ O Evertag é um editor de tags musicais para iPhone e Mac desenvolvido pela Ever
 </div>
 
 {{< hextra/hero-button 
-  text="Descarregar para dispositivo móvel"
+  textKey="downloadiOSFifteenAndFivePlus"
   link="https://apps.apple.com/app/apple-store/id1450763230?pt=95781850&ct=everappzcom&mt=8"
   icon="device-mobile" 
   style="margin-top:1rem;margin-right:1rem;"
 >}}
 
 {{< hextra/hero-button 
-  text="Descarregar para computador"
+  textKey="downloadMacOStwelveAndFourPlus"
   link="https://apps.apple.com/app/apple-store/id1594027661?pt=95781850&ct=everappzcom&mt=8"
   icon="desktop-computer" 
   style="margin-top:1rem;margin-right:1rem;"

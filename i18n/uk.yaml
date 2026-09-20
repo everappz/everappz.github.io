@@ -103,3 +103,7 @@ productEverdiskSubtitle: "Перетворіть свій iPhone або iPad н�
 
 previousSlide: "Попередній слайд"
 nextSlide: "Наступний слайд"
+
+# Product download buttons
+downloadiOSFifteenAndFivePlus: "Завантажити для iOS 15.5+"
+downloadMacOStwelveAndFourPlus: "Завантажити для macOS 12.4+"

@@ -103,3 +103,7 @@ productEverdiskSubtitle: "把你的 iPhone 或 iPad 变成无线硬盘。通过 
 
 previousSlide: "上一张幻灯片"
 nextSlide: "下一张幻灯片"
+
+# Product download buttons
+downloadiOSFifteenAndFivePlus: "下载 iOS 15.5+"
+downloadMacOStwelveAndFourPlus: "下载 macOS 12.4+"

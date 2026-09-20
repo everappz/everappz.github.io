@@ -105,3 +105,7 @@ productEverdiskSubtitle: "Förvandla din iPhone eller iPad till en trådlös enh
 
 previousSlide: "Föregående bild"
 nextSlide: "Nästa bild"
+
+# Product download buttons
+downloadiOSFifteenAndFivePlus: "Ladda ner för iOS 15.5+"
+downloadMacOStwelveAndFourPlus: "Ladda ner för macOS 12.4+"

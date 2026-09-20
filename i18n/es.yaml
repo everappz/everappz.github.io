@@ -103,3 +103,7 @@ productEverdiskSubtitle: "Convierte tu iPhone o iPad en una unidad inalámbrica.
 
 previousSlide: "Diapositiva anterior"
 nextSlide: "Diapositiva siguiente"
+
+# Product download buttons
+downloadiOSFifteenAndFivePlus: "Descargar para iOS 15.5+"
+downloadMacOStwelveAndFourPlus: "Descargar para macOS 12.4+"

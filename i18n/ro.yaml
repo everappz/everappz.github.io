@@ -103,3 +103,7 @@ productEverdiskSubtitle: "Transformă-ți iPhone-ul sau iPad-ul într-o unitate 
 
 previousSlide: "Diapozitivul anterior"
 nextSlide: "Diapozitivul următor"
+
+# Product download buttons
+downloadiOSFifteenAndFivePlus: "Descarcă pentru iOS 15.5+"
+downloadMacOStwelveAndFourPlus: "Descarcă pentru macOS 12.4+"

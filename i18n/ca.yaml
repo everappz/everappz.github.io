@@ -105,3 +105,7 @@ productEverdiskSubtitle: "Converteix el teu iPhone o iPad en una unitat sense fi
 
 previousSlide: "Diapositiva anterior"
 nextSlide: "Diapositiva següent"
+
+# Product download buttons
+downloadiOSFifteenAndFivePlus: "Descarregar per a iOS 15.5+"
+downloadMacOStwelveAndFourPlus: "Descarregar per a macOS 12.4+"

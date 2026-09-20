@@ -103,3 +103,7 @@ productEverdiskSubtitle: "iPhone や iPad をワイヤレスドライブに変�
 
 previousSlide: "前のスライド"
 nextSlide: "次のスライド"
+
+# Product download buttons
+downloadiOSFifteenAndFivePlus: "iOS 15.5+をダウンロード"
+downloadMacOStwelveAndFourPlus: "macOS 12.4+をダウンロード"

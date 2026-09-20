@@ -103,3 +103,7 @@ productEverdiskSubtitle: "Превратите свой iPhone или iPad в б
 
 previousSlide: "Предыдущий слайд"
 nextSlide: "Следующий слайд"
+
+# Product download buttons
+downloadiOSFifteenAndFivePlus: "Скачать для iOS 15.5+"
+downloadMacOStwelveAndFourPlus: "Скачать для macOS 12.4+"

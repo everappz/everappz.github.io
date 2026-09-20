@@ -52,14 +52,14 @@ Evertag je uređivač glazbenih oznaka za iPhone i Mac koji je razvila tvrtka Ev
 </div>
 
 {{< hextra/hero-button 
-  text="Preuzmi za mobilni"
+  textKey="downloadiOSFifteenAndFivePlus"
   link="https://apps.apple.com/app/apple-store/id1450763230?pt=95781850&ct=everappzcom&mt=8"
   icon="device-mobile" 
   style="margin-top:1rem;margin-right:1rem;"
 >}}
 
 {{< hextra/hero-button 
-  text="Preuzmi za desktop"
+  textKey="downloadMacOStwelveAndFourPlus"
   link="https://apps.apple.com/app/apple-store/id1594027661?pt=95781850&ct=everappzcom&mt=8"
   icon="desktop-computer" 
   style="margin-top:1rem;margin-right:1rem;"

@@ -105,3 +105,7 @@ productEverdiskSubtitle: "Zamień iPhone'a lub iPada w dysk bezprzewodowy. Udost
 
 previousSlide: "Poprzedni slajd"
 nextSlide: "Następny slajd"
+
+# Product download buttons
+downloadiOSFifteenAndFivePlus: "Pobierz na iOS 15.5+"
+downloadMacOStwelveAndFourPlus: "Pobierz na macOS 12.4+"

@@ -52,14 +52,14 @@ Evertag 是一款適用於 iPhone 和 Mac 的音樂標籤編輯器，由西班�
 </div>
 
 {{< hextra/hero-button 
-  text="下載行動版"
+  textKey="downloadiOSFifteenAndFivePlus"
   link="https://apps.apple.com/app/apple-store/id1450763230?pt=95781850&ct=everappzcom&mt=8"
   icon="device-mobile" 
   style="margin-top:1rem;margin-right:1rem;"
 >}}
 
 {{< hextra/hero-button 
-  text="下載桌面版"
+  textKey="downloadMacOStwelveAndFourPlus"
   link="https://apps.apple.com/app/apple-store/id1594027661?pt=95781850&ct=everappzcom&mt=8"
   icon="desktop-computer" 
   style="margin-top:1rem;margin-right:1rem;"

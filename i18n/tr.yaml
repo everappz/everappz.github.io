@@ -105,3 +105,7 @@ productEverdiskSubtitle: "iPhone veya iPad'inizi kablosuz bir sürücüye dönü
 
 previousSlide: "Önceki slayt"
 nextSlide: "Sonraki slayt"
+
+# Product download buttons
+downloadiOSFifteenAndFivePlus: "iOS 15.5+ için indir"
+downloadMacOStwelveAndFourPlus: "macOS 12.4+ için indir"

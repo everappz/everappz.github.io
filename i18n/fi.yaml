@@ -105,3 +105,7 @@ productEverdiskSubtitle: "Muuta iPhone tai iPad langattomaksi asemaksi. Jaa tied
 
 previousSlide: "Edellinen dia"
 nextSlide: "Seuraava dia"
+
+# Product download buttons
+downloadiOSFifteenAndFivePlus: "Lataa iOS 15.5+"
+downloadMacOStwelveAndFourPlus: "Lataa macOS 12.4+"

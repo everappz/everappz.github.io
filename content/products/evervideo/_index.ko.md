@@ -63,14 +63,14 @@ Evervideo
 </div>
 
 {{< hextra/hero-button 
-    text="모바일용 다운로드"
+    textKey="downloadiOSFifteenAndFivePlus"
     link="https://apps.apple.com/us/app/evervideo-hd-video-player/id6602897336?ct=everappzcom&mt=8"
     icon="device-mobile"
     style="margin-top:1rem;margin-right:1rem;"
 >}}
 
 {{< hextra/hero-button 
-    text="데스크톱용 다운로드"
+    textKey="downloadMacOStwelveAndFourPlus"
     link="https://apps.apple.com/us/app/evervideo/id6743504109?ct=everappzcom&mt=8"
     icon="desktop-computer" 
     style="margin-top:1rem;margin-right:1rem;"
