@@ -103,16 +103,9 @@ Zamień iPhone lub iPad w bezprzewodowy dysk&nbsp;<br class="hx:sm:block hx:hidd
 
   {{< hextra/feature-card
     title="Używaj jako dysku sieciowego"
-    subtitle="Połącz się z Finder na Macu, z Windows lub z Linux przez WebDAV, a Twoje urządzenie pojawi się jak zwykły dysk sieciowy. Przeciągaj i upuszczaj w obie strony: kopiuj pliki z komputera na urządzenie albo pobieraj je z powrotem."
+    subtitle="Połącz się z Finder na Macu, z Windows lub z Linux przez WebDAV, a Twoje urządzenie pojawi się jak zwykły dysk sieciowy. Przeciągaj i upuszczaj pliki w obie strony albo zamontuj je zamiast tego przez SMB, z szyfrowaniem SMB3 (AES)."
     icon="folder"
     style="background: radial-gradient(ellipse at 50% 80%, rgba(59,130,246,0.15), hsla(0,0%,100%,0));"
-  >}}
-
-  {{< hextra/feature-card
-    title="Szyfrowane udostępnianie SMB"
-    subtitle="Podłącz się przez SMB, dysk sieciowy dla Maca, Windows i Linux - na Macu pojawia się sam na pasku bocznym Findera. To jedyne połączenie, które możesz zaszyfrować: włącz szyfrowanie SMB3 (AES) z loginem i hasłem, aby nikt inny w sieci nie mógł odczytać Twoich plików."
-    icon="lock-closed"
-    style="background: radial-gradient(ellipse at 50% 80%, rgba(99,102,241,0.15), hsla(0,0%,100%,0));"
   >}}
 
   {{< hextra/feature-card
@@ -258,6 +251,10 @@ Zamień iPhone lub iPad w bezprzewodowy dysk&nbsp;<br class="hx:sm:block hx:hidd
   {{< feature-card title="Oryginał lub konwersja" subtitle="Zachowaj zdjęcia i filmy w oryginalnej jakości albo przekonwertuj je do bardziej zgodnego formatu, gdy telewizor, przeglądarka lub inne urządzenie tego potrzebuje." icon="switch-horizontal" >}}
 
   {{< feature-card title="Podłączaj zewnętrzne foldery" subtitle="Podłączaj foldery z dowolnego miejsca na urządzeniu i pracuj z nimi prosto w aplikacji, a następnie udostępniaj je w sieci razem z całą resztą." icon="collection" >}}
+
+  {{< feature-card title="Transfery w tle" subtitle="Pobierania i wysyłki działają dalej, gdy poruszasz się po aplikacji. Otwórz panel Transfery plików, aby śledzić postęp oraz wstrzymywać, wznawiać, ponawiać lub anulować dowolne zadanie." icon="download" >}}
+
+  {{< feature-card title="Bezpieczne usuwanie z koszem" subtitle="Usunięte pliki trafiają do kosza, z którego można je odzyskać, więc możesz je przywrócić, jeśli zmienisz zdanie. Chcesz zamiast tego usuwać pliki na stałe? Włącz opcję Trwale usuwaj pliki w Ustawieniach." icon="trash" >}}
 
 {{< /cards >}}
 

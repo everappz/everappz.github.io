@@ -103,16 +103,9 @@ Biến iPhone hoặc iPad thành ổ đĩa không dây&nbsp;<br class="hx:sm:blo
 
   {{< hextra/feature-card
     title="Dùng như ổ đĩa mạng"
-    subtitle="Kết nối từ Finder trên Mac, từ Windows hay từ Linux qua WebDAV, và thiết bị của bạn hiện ra như một ổ đĩa mạng bình thường. Kéo thả theo cả hai chiều: sao chép tập tin từ máy tính sang thiết bị, hoặc lấy chúng về lại."
+    subtitle="Kết nối từ Finder trên Mac, từ Windows hay từ Linux qua WebDAV, và thiết bị của bạn hiện ra như một ổ đĩa mạng bình thường. Kéo thả tập tin theo cả hai chiều, hoặc gắn nó qua SMB thay thế, với mã hóa SMB3 (AES)."
     icon="folder"
     style="background: radial-gradient(ellipse at 50% 80%, rgba(59,130,246,0.15), hsla(0,0%,100%,0));"
-  >}}
-
-  {{< hextra/feature-card
-    title="Chia sẻ SMB có mã hóa"
-    subtitle="Kết nối qua SMB, một ổ đĩa mạng cho Mac, Windows và Linux - trên Mac nó tự hiện lên trong thanh bên Finder. Đây là kết nối duy nhất bạn có thể mã hóa: bật mã hóa SMB3 (AES) cùng tên đăng nhập và mật khẩu để không ai khác trong mạng đọc được tập tin của bạn."
-    icon="lock-closed"
-    style="background: radial-gradient(ellipse at 50% 80%, rgba(99,102,241,0.15), hsla(0,0%,100%,0));"
   >}}
 
   {{< hextra/feature-card
@@ -258,6 +251,10 @@ Biến iPhone hoặc iPad thành ổ đĩa không dây&nbsp;<br class="hx:sm:blo
   {{< feature-card title="Gốc hoặc đã chuyển đổi" subtitle="Giữ ảnh và video ở chất lượng gốc, hoặc chuyển sang định dạng tương thích hơn khi một chiếc TV, trình duyệt hay thiết bị khác cần." icon="switch-horizontal" >}}
 
   {{< feature-card title="Kết nối thư mục bên ngoài" subtitle="Kết nối thư mục từ bất cứ đâu trên thiết bị và làm việc với chúng ngay trong ứng dụng, rồi chia sẻ qua mạng cùng mọi thứ khác." icon="collection" >}}
+
+  {{< feature-card title="Truyền nền" subtitle="Việc tải xuống và tải lên vẫn tiếp tục chạy khi bạn di chuyển trong ứng dụng. Mở bảng Truyền tệp để theo dõi tiến trình và tạm dừng, tiếp tục, thử lại hoặc hủy bất kỳ tác vụ nào." icon="download" >}}
+
+  {{< feature-card title="Xóa an toàn với Thùng rác" subtitle="Tập tin đã xóa sẽ vào thùng rác có thể khôi phục, nên bạn có thể lấy lại chúng nếu đổi ý. Muốn xóa hẳn tập tin? Bật Xóa vĩnh viễn tệp trong Cài đặt." icon="trash" >}}
 
 {{< /cards >}}
 

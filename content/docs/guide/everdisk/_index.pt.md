@@ -1,7 +1,7 @@
 ---
 title: "Everdisk"
 date: 2026-08-20
-description: "Guia do utilizador do Everdisk - transforme o seu iPhone ou iPad numa unidade sem fios. Saiba como partilhar ficheiros, fotografias, vídeos e música com qualquer dispositivo da sua rede através de DLNA, HTTP, WebDAV, SMB e FTP, criptografar a ligação SMB com SMB3 (AES), ligar-se a servidores DLNA/WebDAV/FTP/SFTP/SMB, usar o gestor de ficheiros, comprimir e extrair ficheiros, digitalizar documentos para PDF e manter tudo privado na sua rede local."
+description: "Guia do utilizador do Everdisk - transforme o seu iPhone ou iPad numa unidade sem fios. Saiba como partilhar ficheiros, fotografias, vídeos e música com qualquer dispositivo da sua rede através de DLNA, HTTP, WebDAV, SMB e FTP, encriptar a ligação SMB com SMB3 (AES), ligar-se a servidores DLNA/WebDAV/FTP/SFTP/SMB, usar o gestor de ficheiros, comprimir e extrair ficheiros, digitalizar documentos para PDF e manter tudo privado na sua rede local."
 keywords: ["Everdisk", "guia Everdisk", "guia do utilizador Everdisk", "unidade sem fios iPhone", "partilhar ficheiros iPhone", "partilhar fotografias pela rede", "transmitir para TV DLNA", "servidor WebDAV iPhone", "servidor FTP iPhone", "unidade de rede iPhone", "transferencia de ficheiros USB iPhone", "gestor de ficheiros iOS", "comprimir extrair iPhone", "digitalizar documentos para PDF", "ligar a NAS", "cliente SFTP iPhone"]
 tags: ["everdisk", "guia"]
 readingTime: 4
@@ -15,7 +15,7 @@ A aplicação executa **cinco servidores em simultâneo**, para que cada disposi
 - **TV e Centro Multimédia (DLNA)** - as smart TVs e os leitores multimédia encontram sozinhos as suas fotografias, vídeos e música.
 - **Navegador (HTTP)** - qualquer pessoa abre uma ligação num navegador de Internet para ver e transferir os seus ficheiros.
 - **Computador (WebDAV)** - o seu dispositivo aparece como uma unidade de rede normal no Finder, no Windows ou no Linux.
-- **Computador (avançado) (SMB)** - uma unidade de rede para Mac, Windows e Linux, assente na partilha de ficheiros já existente nesses sistemas; num Mac aparece sozinha na barra lateral do Finder. É a única ligação que pode criptografar, com criptografia SMB3 (AES).
+- **Computador (avançado) (SMB)** - uma unidade de rede para Mac, Windows e Linux, assente na partilha de ficheiros já existente nesses sistemas; num Mac aparece sozinha na barra lateral do Finder. É a única ligação que pode encriptar, com encriptação SMB3 (AES).
 - **Outras Aplicações e Dispositivos (FTP)** - aplicações de ficheiros e ferramentas avançadas ligam-se por FTP.
 
 O Everdisk também funciona ao contrário: liga-se a servidores **DLNA**, **WebDAV**, **FTP**, **SFTP** e **SMB** da sua rede - incluindo Macs, PCs com Windows, máquinas Linux e unidades NAS - para que possa explorar, transmitir e transferir os ficheiros deles. Além disso, inclui um gestor de ficheiros completo, um leitor multimédia integrado, uma galeria de fotografias, digitalização de documentos para PDF e compressão / extração. Tudo permanece na sua rede local e nunca chega à Internet.

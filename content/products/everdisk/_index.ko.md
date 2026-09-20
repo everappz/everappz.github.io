@@ -103,16 +103,9 @@ iPhone이나 iPad를 무선 드라이브로 바꿔&nbsp;<br class="hx:sm:block h
 
   {{< hextra/feature-card
     title="네트워크 드라이브로 사용하기"
-    subtitle="Mac의 Finder에서, 또는 Windows나 Linux에서 WebDAV로 연결하면 기기가 일반 네트워크 디스크처럼 나타납니다. 양방향으로 끌어다 놓으세요. 컴퓨터에서 기기로 파일을 복사하거나, 다시 가져올 수 있습니다."
+    subtitle="Mac의 Finder에서, 또는 Windows나 Linux에서 WebDAV로 연결하면 기기가 일반 네트워크 디스크처럼 나타납니다. 양방향으로 파일을 끌어다 놓거나, 대신 SMB로 마운트해 SMB3 암호화(AES)를 사용할 수도 있습니다."
     icon="folder"
     style="background: radial-gradient(ellipse at 50% 80%, rgba(59,130,246,0.15), hsla(0,0%,100%,0));"
-  >}}
-
-  {{< hextra/feature-card
-    title="암호화된 SMB 공유"
-    subtitle="SMB로 연결하세요 - Mac, Windows, Linux를 위한 네트워크 드라이브로, Mac에서는 Finder 사이드바에 자동으로 나타납니다. 암호화할 수 있는 유일한 연결입니다: 로그인과 비밀번호로 SMB3 암호화(AES)를 켜면 네트워크의 다른 누구도 파일을 읽을 수 없습니다."
-    icon="lock-closed"
-    style="background: radial-gradient(ellipse at 50% 80%, rgba(99,102,241,0.15), hsla(0,0%,100%,0));"
   >}}
 
   {{< hextra/feature-card
@@ -258,6 +251,10 @@ iPhone이나 iPad를 무선 드라이브로 바꿔&nbsp;<br class="hx:sm:block h
   {{< feature-card title="원본 또는 변환" subtitle="사진과 동영상을 원본 화질로 유지하거나, TV나 브라우저, 다른 기기가 필요로 할 때 더 호환되는 형식으로 변환하세요." icon="switch-horizontal" >}}
 
   {{< feature-card title="외부 폴더 연결" subtitle="기기 어디에 있는 폴더든 연결해 앱에서 바로 작업하고, 다른 모든 것과 함께 네트워크로 공유하세요." icon="collection" >}}
+
+  {{< feature-card title="백그라운드 전송" subtitle="앱을 이리저리 옮겨 다녀도 다운로드와 업로드가 계속 진행됩니다. 파일 전송 패널을 열면 진행 상황을 확인하고 작업을 일시정지, 재개, 다시 시도, 취소할 수 있습니다." icon="download" >}}
+
+  {{< feature-card title="휴지통으로 안전하게 삭제" subtitle="삭제한 파일은 복구 가능한 휴지통으로 이동하므로, 마음이 바뀌면 되돌릴 수 있습니다. 파일을 완전히 없애고 싶으신가요? 설정에서 파일 영구 삭제를 켜세요." icon="trash" >}}
 
 {{< /cards >}}
 

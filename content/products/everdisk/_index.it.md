@@ -103,16 +103,9 @@ Trasforma iPhone o iPad in un disco wireless&nbsp;<br class="hx:sm:block hx:hidd
 
   {{< hextra/feature-card
     title="Usalo come disco di rete"
-    subtitle="Connettiti da Finder su Mac, da Windows o da Linux via WebDAV e il tuo dispositivo appare come un normale disco di rete. Trascina i file in entrambe le direzioni: copia i file dal computer al dispositivo, o riportali indietro."
+    subtitle="Connettiti da Finder su Mac, da Windows o da Linux via WebDAV e il tuo dispositivo appare come un normale disco di rete. Trascina i file in entrambe le direzioni, oppure montalo via SMB con cifratura SMB3 (AES)."
     icon="folder"
     style="background: radial-gradient(ellipse at 50% 80%, rgba(59,130,246,0.15), hsla(0,0%,100%,0));"
-  >}}
-
-  {{< hextra/feature-card
-    title="Condivisione SMB cifrata"
-    subtitle="Connettiti via SMB, un disco di rete per Mac, Windows e Linux - su un Mac compare da solo nella barra laterale del Finder. È l'unica connessione che puoi cifrare: attiva la cifratura SMB3 (AES) con login e password così nessun altro sulla rete può leggere i tuoi file."
-    icon="lock-closed"
-    style="background: radial-gradient(ellipse at 50% 80%, rgba(99,102,241,0.15), hsla(0,0%,100%,0));"
   >}}
 
   {{< hextra/feature-card
@@ -258,6 +251,10 @@ Trasforma iPhone o iPad in un disco wireless&nbsp;<br class="hx:sm:block hx:hidd
   {{< feature-card title="Originale o convertito" subtitle="Mantieni le tue foto e i tuoi video in qualità originale, o convertili in un formato più compatibile quando una TV, un browser o un altro dispositivo ne ha bisogno." icon="switch-horizontal" >}}
 
   {{< feature-card title="Collega cartelle esterne" subtitle="Collega cartelle da qualsiasi punto del tuo dispositivo e lavoraci direttamente nell'app, poi condividile in rete insieme a tutto il resto." icon="collection" >}}
+
+  {{< feature-card title="Trasferimenti in background" subtitle="I download e gli upload continuano mentre ti muovi nell'app. Apri il pannello Trasferimenti file per seguire l'avanzamento e mettere in pausa, riprendere, riprovare o annullare qualsiasi attività." icon="download" >}}
+
+  {{< feature-card title="Eliminazione sicura con il cestino" subtitle="I file eliminati finiscono in un cestino recuperabile, così puoi riportarli indietro se cambi idea. Vuoi invece eliminare i file per sempre? Attiva Elimina i file definitivamente nelle Impostazioni." icon="trash" >}}
 
 {{< /cards >}}
 

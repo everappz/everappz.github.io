@@ -103,16 +103,9 @@ Convierte tu iPhone o iPad en un disco inalámbrico&nbsp;<br class="hx:sm:block 
 
   {{< hextra/feature-card
     title="Úsalo como unidad de red"
-    subtitle="Conéctate desde Finder en un Mac, desde Windows o desde Linux por WebDAV, y tu dispositivo aparece como un disco de red normal. Arrastra y suelta en ambos sentidos: copia archivos de tu ordenador al dispositivo o recupéralos."
+    subtitle="Conéctate desde Finder en un Mac, desde Windows o desde Linux por WebDAV, y tu dispositivo aparece como un disco de red normal. Arrastra y suelta archivos en ambos sentidos, o móntalo por SMB en su lugar, con cifrado SMB3 (AES)."
     icon="folder"
     style="background: radial-gradient(ellipse at 50% 80%, rgba(59,130,246,0.15), hsla(0,0%,100%,0));"
-  >}}
-
-  {{< hextra/feature-card
-    title="Compartición SMB cifrada"
-    subtitle="Conéctate por SMB, una unidad de red para Mac, Windows y Linux - en un Mac aparece por su cuenta en la barra lateral del Finder. Es la única conexión que puedes cifrar: activa el cifrado SMB3 (AES) con usuario y contraseña para que nadie más en la red pueda leer tus archivos."
-    icon="lock-closed"
-    style="background: radial-gradient(ellipse at 50% 80%, rgba(99,102,241,0.15), hsla(0,0%,100%,0));"
   >}}
 
   {{< hextra/feature-card
@@ -258,6 +251,10 @@ Convierte tu iPhone o iPad en un disco inalámbrico&nbsp;<br class="hx:sm:block 
   {{< feature-card title="Original o convertido" subtitle="Conserva tus fotos y vídeos en calidad original, o conviértelos a un formato más compatible cuando una TV, un navegador u otro dispositivo lo necesite." icon="switch-horizontal" >}}
 
   {{< feature-card title="Conecta carpetas externas" subtitle="Conecta carpetas desde cualquier lugar de tu dispositivo y trabaja con ellas directamente en la app, y luego compártelas por la red junto con todo lo demás." icon="collection" >}}
+
+  {{< feature-card title="Transferencias en segundo plano" subtitle="Las descargas y subidas siguen ejecutándose mientras te mueves por la app. Abre el panel de Transferencias de archivos para ver el progreso y pausar, reanudar, reintentar o cancelar cualquier tarea." icon="download" >}}
+
+  {{< feature-card title="Eliminación segura con papelera" subtitle="Los archivos eliminados van a una papelera recuperable, así que puedes recuperarlos si cambias de opinión. ¿Prefieres que los archivos desaparezcan para siempre? Activa Eliminar archivos permanentemente en Ajustes." icon="trash" >}}
 
 {{< /cards >}}
 

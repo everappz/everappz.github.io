@@ -1,11 +1,11 @@
 ---
 date: '2026-08-20T12:00:00+00:00'
 title: 'Everdisk'
-description: "FAQ do Everdisk: transforme o seu iPhone ou iPad numa drive sem fios e partilhe ficheiros, fotografias, videos e musica com qualquer dispositivo na sua rede atraves de DLNA, HTTP, WebDAV, SMB e FTP. Respostas sobre como ligar a partir de uma TV, navegador web, Mac, Windows e Linux, a drive de rede SMB com criptografia SMB3 (AES), transferencia por cabo USB sem Wi-Fi, ligar a NAS e a servidores WebDAV/FTP/SFTP/SMB, o gestor de ficheiros, zip e unzip, digitalizar documentos para PDF, palavras-passe e bloqueio de dispositivos, privacidade, e a compra unica Premium Vitalicio."
+description: "FAQ do Everdisk: transforme o seu iPhone ou iPad numa drive sem fios e partilhe ficheiros, fotografias, videos e musica com qualquer dispositivo na sua rede atraves de DLNA, HTTP, WebDAV, SMB e FTP. Respostas sobre como ligar a partir de uma TV, navegador web, Mac, Windows e Linux, a drive de rede SMB com encriptacao SMB3 (AES), transferencia por cabo USB sem Wi-Fi, ligar a NAS e a servidores WebDAV/FTP/SFTP/SMB, o gestor de ficheiros, zip e unzip, digitalizar documentos para PDF, palavras-passe e bloqueio de dispositivos, privacidade, e a compra unica Premium Vitalicio."
 keywords: [
   "FAQ Everdisk", "drive sem fios iPhone", "partilhar ficheiros iPhone", "partilhar fotografias na rede",
   "transmitir para TV DLNA", "abrir ficheiros no navegador", "drive de rede WebDAV iPhone",
-  "servidor SMB iPhone", "criptografia SMB iPhone", "criptografia SMB3 AES",
+  "servidor SMB iPhone", "encriptacao SMB iPhone", "encriptacao SMB3 AES",
   "servidor FTP iPhone", "cliente SFTP iPhone", "transferencia de ficheiros USB Mac sem Wi-Fi",
   "ligar a NAS iPhone", "cliente SMB iPhone", "ligar a partilha SMB", "gestor de ficheiros iOS", "zip unzip iPhone",
   "digitalizar documentos para PDF", "proteger partilha com palavra-passe", "bloquear dispositivo",
@@ -24,7 +24,7 @@ O Everdisk transforma o seu iPhone ou iPad numa drive sem fios que partilha fich
 {{% details title="O que e o Everdisk?" closed="true" %}}
 O Everdisk e uma aplicacao de **drive sem fios** para iPhone e iPad. Transforma o seu dispositivo num centro que partilha os ficheiros, fotografias, videos e musica que escolher com tudo o que esteja na sua rede local, e tambem se liga a outros servidores para que possa explorar e transmitir os ficheiros deles.<br><br>
 
-Executa cinco servidores ao mesmo tempo - **DLNA** para TVs, **HTTP** para navegadores web, **WebDAV** para Finder/Windows/Linux, **SMB** para uma drive de rede em Mac, Windows e Linux com criptografia opcional, e **FTP** para aplicacoes de ficheiros - por isso cada dispositivo liga-se da forma que prefere. Nao ha contas nem nuvem: basta tocar em **Iniciar** e esta pronto. Inclui ainda um gestor de ficheiros, um leitor de media, uma galeria de fotografias, digitalizacao de documentos para PDF, e zip/unzip.
+Executa cinco servidores ao mesmo tempo - **DLNA** para TVs, **HTTP** para navegadores web, **WebDAV** para Finder/Windows/Linux, **SMB** para uma drive de rede em Mac, Windows e Linux com encriptacao opcional, e **FTP** para aplicacoes de ficheiros - por isso cada dispositivo liga-se da forma que prefere. Nao ha contas nem nuvem: basta tocar em **Iniciar** e esta pronto. Inclui ainda um gestor de ficheiros, um leitor de media, uma galeria de fotografias, digitalizacao de documentos para PDF, e zip/unzip.
 {{% /details %}}
 
 {{% details title="Como funciona o Everdisk?" closed="true" %}}
@@ -33,7 +33,7 @@ Quando toca em **Iniciar**, o Everdisk transforma o seu dispositivo num servidor
 - **DLNA** - smart TVs e leitores de media encontram o seu dispositivo automaticamente e mostram os seus conteudos com miniaturas.<br>
 - **HTTP** - qualquer pessoa abre uma ligacao num navegador web para explorar e transferir os seus ficheiros.<br>
 - **WebDAV** - o seu dispositivo aparece como uma drive de rede normal no Finder, Windows ou Linux.<br>
-- **SMB** - uma drive de rede para Mac, Windows e Linux, assente na partilha de ficheiros ja existente nesses sistemas; num Mac aparece sozinha na barra lateral do Finder. E a unica ligacao que pode criptografar (criptografia SMB3, AES).<br>
+- **SMB** - uma drive de rede para Mac, Windows e Linux, assente na partilha de ficheiros ja existente nesses sistemas; num Mac aparece sozinha na barra lateral do Finder. E a unica ligacao que pode encriptar (encriptacao SMB3, AES).<br>
 - **FTP** - aplicacoes de ficheiros e ferramentas avancadas ligam-se por FTP.<br><br>
 
 Tudo acontece na sua rede Wi-Fi local (ou por cabo USB para um Mac) e nunca toca na internet.
@@ -120,15 +120,15 @@ Introduza o login e a palavra-passe se definiu algum.
 A partilha chama-se **Share**. Com a **Edicao de Ficheiros** ativada pode copiar ficheiros nos dois sentidos; com ela desativada a drive fica apenas de leitura.
 {{% /details %}}
 
-{{% details title="Posso criptografar a minha ligacao SMB?" closed="true" %}}
-Sim - e o SMB e a **unica** ligacao que o Everdisk pode criptografar. Em **Definicoes → Partilha**, ative **Exigir criptografia SMB** para proteger cada transferencia SMB com **criptografia SMB3 (AES)**, para que mais ninguem na mesma rede consiga ler os seus ficheiros. E uma otima escolha em Wi-Fi em que nao confia totalmente.<br><br>
+{{% details title="Posso encriptar a minha ligacao SMB?" closed="true" %}}
+Sim - e o SMB e a **unica** ligacao que o Everdisk pode encriptar. Em **Definicoes → Partilha**, ative **Exigir encriptacao SMB** para proteger cada transferencia SMB com **encriptacao SMB3 (AES)**, para que mais ninguem na mesma rede consiga ler os seus ficheiros. E uma otima escolha em Wi-Fi em que nao confia totalmente.<br><br>
 
 Alguns requisitos:<br>
-- Tem primeiro de definir um **login e palavra-passe** - as ligacoes criptografadas nao podem ser anonimas.<br>
+- Tem primeiro de definir um **login e palavra-passe** - as ligacoes encriptadas nao podem ser anonimas.<br>
 - O cliente tem de suportar **SMB3** - o Finder num Mac moderno, ou o **Windows 10 e posterior**.<br>
 - As alteracoes entram em vigor da proxima vez que iniciar a partilha.<br><br>
 
-A criptografia SMB faz parte da compra unica **Premium Vitalicio**.
+A encriptacao SMB faz parte da compra unica **Premium Vitalicio**.
 {{% /details %}}
 
 {{% details title="O Everdisk funciona sem Wi-Fi?" closed="true" %}}
@@ -153,7 +153,7 @@ Todos partilham o mesmo conteudo mas adequam-se a dispositivos diferentes:<br><b
 - **TV e Media Center (DLNA)** - para smart TVs e leitores de media.<br>
 - **Navegador (HTTP)** - para qualquer navegador web, sem instalacoes.<br>
 - **Computador (WebDAV)** - torna o seu dispositivo uma drive de rede no Finder/Windows/Linux.<br>
-- **Computador (avançado)** (SMB) - uma drive de rede para Mac, Windows e Linux; num Mac aparece sozinha na barra lateral do Finder, ou ligue-se manualmente com um endereco `smb://`. E a unica ligacao que pode criptografar (SMB3, AES).<br>
+- **Computador (avançado)** (SMB) - uma drive de rede para Mac, Windows e Linux; num Mac aparece sozinha na barra lateral do Finder, ou ligue-se manualmente com um endereco `smb://`. E a unica ligacao que pode encriptar (SMB3, AES).<br>
 - **Outras Aplicacoes e Dispositivos (FTP)** - para aplicacoes de ficheiros e ferramentas avancadas.<br><br>
 
 Pode ativar ou desativar qualquer um deles em **Definicoes → Partilha → Ligacoes**.
@@ -288,7 +288,7 @@ As predefinicoes sao **HTTP 80**, **WebDAV 8080**, **SMB 4455** e **FTP 2121** (
 {{% details title="O Everdisk e gratuito e o que acrescenta o Premium?" closed="true" %}}
 O Everdisk e uma transferencia **gratuita**. Pode executar os cinco servidores, proteger o acesso com uma palavra-passe, partilhar toda a sua biblioteca de Fotografias e Musica, usar o gestor de ficheiros, digitalizar para PDF, e ligar-se a outros servidores. A versao gratuita partilha ate **5 pastas** e guarda ate **10 ligacoes de servidor**.<br><br>
 
-Uma compra unica **Premium Vitalicio** (nao uma subscricao) acrescenta: **Pastas Ilimitadas**, **Ligacoes Ilimitadas**, **Conversao de Fotografias e Video** (qualidade diferente de Original), **Criptografia SMB** (SMB3/AES), **Portas Personalizadas**, **Inicio Automatico da Partilha**, e **Personalizacao do Dispositivo**.
+Uma compra unica **Premium Vitalicio** (nao uma subscricao) acrescenta: **Pastas Ilimitadas**, **Ligacoes Ilimitadas**, **Conversao de Fotografias e Video** (qualidade diferente de Original), **Encriptacao SMB** (SMB3/AES), **Portas Personalizadas**, **Inicio Automatico da Partilha**, e **Personalizacao do Dispositivo**.
 {{% /details %}}
 
 {{% details title="O Premium e uma subscricao? Funciona nos meus outros dispositivos?" closed="true" %}}

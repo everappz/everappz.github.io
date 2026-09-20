@@ -103,16 +103,9 @@ Muuta iPhone tai iPad langattomaksi levyksi&nbsp;<br class="hx:sm:block hx:hidde
 
   {{< hextra/feature-card
     title="Käytä verkkolevynä"
-    subtitle="Yhdistä Macin Finderista, Windowsista tai Linuxista WebDAVn kautta, ja laitteesi näkyy tavallisena verkkolevynä. Vedä ja pudota molempiin suuntiin: kopioi tiedostoja tietokoneelta laitteellesi tai hae ne takaisin."
+    subtitle="Yhdistä Macin Finderista, Windowsista tai Linuxista WebDAVn kautta, ja laitteesi näkyy tavallisena verkkolevynä. Vedä ja pudota tiedostoja molempiin suuntiin tai liitä se sen sijaan SMB:n kautta SMB3-salauksella (AES)."
     icon="folder"
     style="background: radial-gradient(ellipse at 50% 80%, rgba(59,130,246,0.15), hsla(0,0%,100%,0));"
-  >}}
-
-  {{< hextra/feature-card
-    title="Salattu SMB-jakaminen"
-    subtitle="Yhdistä SMB:n kautta - verkkolevynä Macille, Windowsille ja Linuxille - Macilla se näkyy omana kohteenaan Finderin sivupalkissa. Se on ainoa yhteys, jonka voit salata: ota käyttöön SMB3-salaus (AES) käyttäjätunnuksella ja salasanalla, jottei kukaan muu verkossa voi lukea tiedostojasi."
-    icon="lock-closed"
-    style="background: radial-gradient(ellipse at 50% 80%, rgba(99,102,241,0.15), hsla(0,0%,100%,0));"
   >}}
 
   {{< hextra/feature-card
@@ -258,6 +251,10 @@ Muuta iPhone tai iPad langattomaksi levyksi&nbsp;<br class="hx:sm:block hx:hidde
   {{< feature-card title="Alkuperäinen tai muunnettu" subtitle="Säilytä kuvasi ja videosi alkuperäisessä laadussa tai muunna ne yhteensopivampaan muotoon, kun televisio, selain tai muu laite sitä tarvitsee." icon="switch-horizontal" >}}
 
   {{< feature-card title="Liitä ulkoisia kansioita" subtitle="Liitä kansioita mistä tahansa laitteeltasi ja työskentele niiden parissa suoraan sovelluksessa, ja jaa ne sitten verkon yli kaiken muun ohella." icon="collection" >}}
+
+  {{< feature-card title="Taustasiirrot" subtitle="Lataukset ja lähetykset jatkuvat, kun liikut sovelluksessa. Avaa Tiedostosiirrot-paneeli seurataksesi edistymistä sekä keskeyttääksesi, jatkaaksesi, yrittääksesi uudelleen tai peruuttaaksesi minkä tahansa tehtävän." icon="download" >}}
+
+  {{< feature-card title="Turvallinen poisto roskakorin kanssa" subtitle="Poistetut tiedostot siirtyvät palautettavaan roskakoriin, joten voit tuoda ne takaisin, jos muutat mielesi. Haluatko tiedostot lopullisesti pois? Ota Asetuksissa käyttöön Poista tiedostot pysyvästi." icon="trash" >}}
 
 {{< /cards >}}
 

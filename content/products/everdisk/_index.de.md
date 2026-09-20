@@ -103,16 +103,9 @@ Verwandle dein iPhone oder iPad in ein drahtloses Laufwerk,&nbsp;<br class="hx:s
 
   {{< hextra/feature-card
     title="Als Netzlaufwerk nutzen"
-    subtitle="Verbinde dich aus dem Finder auf dem Mac, unter Windows oder unter Linux uber WebDAV und dein Gerat erscheint wie eine normale Netzwerkfestplatte. Ziehe Dateien in beide Richtungen: kopiere Dateien vom Computer auf dein Gerat oder hole sie zuruck."
+    subtitle="Verbinde dich aus dem Finder auf dem Mac, unter Windows oder unter Linux uber WebDAV und dein Gerat erscheint wie eine normale Netzwerkfestplatte. Ziehe Dateien in beide Richtungen oder binde es stattdessen uber SMB ein, mit SMB3-Verschlusselung (AES)."
     icon="folder"
     style="background: radial-gradient(ellipse at 50% 80%, rgba(59,130,246,0.15), hsla(0,0%,100%,0));"
-  >}}
-
-  {{< hextra/feature-card
-    title="Verschlusseltes SMB-Teilen"
-    subtitle="Verbinde dich uber SMB, ein Netzlaufwerk fur Mac, Windows und Linux - auf einem Mac erscheint es von selbst in der Finder-Seitenleiste. Es ist die einzige Verbindung, die du verschlusseln kannst: aktiviere die SMB3-Verschlusselung (AES) mit Login und Passwort, sodass niemand sonst im Netzwerk deine Dateien lesen kann."
-    icon="lock-closed"
-    style="background: radial-gradient(ellipse at 50% 80%, rgba(99,102,241,0.15), hsla(0,0%,100%,0));"
   >}}
 
   {{< hextra/feature-card
@@ -258,6 +251,10 @@ Verwandle dein iPhone oder iPad in ein drahtloses Laufwerk,&nbsp;<br class="hx:s
   {{< feature-card title="Original oder konvertiert" subtitle="Behalte deine Fotos und Videos in Originalqualitat oder konvertiere sie in ein kompatibleres Format, wenn ein TV, Browser oder anderes Gerat es benotigt." icon="switch-horizontal" >}}
 
   {{< feature-card title="Externe Ordner einbinden" subtitle="Binde Ordner von uberall auf deinem Gerat ein und arbeite direkt in der App mit ihnen, dann teile sie zusammen mit allem anderen uber das Netzwerk." icon="collection" >}}
+
+  {{< feature-card title="Ubertragungen im Hintergrund" subtitle="Downloads und Uploads laufen weiter, wahrend du dich in der App bewegst. Offne das Panel Dateiübertragungen, um den Fortschritt zu verfolgen und jede Aufgabe zu pausieren, fortzusetzen, erneut zu versuchen oder abzubrechen." icon="download" >}}
+
+  {{< feature-card title="Sicheres Loschen mit Papierkorb" subtitle="Geloschte Dateien wandern in einen wiederherstellbaren Papierkorb, sodass du sie zuruckholen kannst, wenn du es dir anders uberlegst. Sollen Dateien stattdessen endgultig verschwinden? Aktiviere in den Einstellungen die Option Dateien endgültig löschen." icon="trash" >}}
 
 {{< /cards >}}
 

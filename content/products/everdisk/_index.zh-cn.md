@@ -103,16 +103,9 @@ Everdisk 是 Everappz 为 iPhone 和 iPad 打造的无线硬盘应用。它把�
 
   {{< hextra/feature-card
     title="当作网络硬盘使用"
-    subtitle="通过 WebDAV 从 Mac 的 Finder、从 Windows 或 Linux 连接，你的设备就像一块普通的网络硬盘一样出现。双向拖放：把文件从电脑复制到设备，或再取回来。"
+    subtitle="通过 WebDAV 从 Mac 的 Finder、从 Windows 或 Linux 连接，你的设备就像一块普通的网络硬盘一样出现。双向拖放文件，或改用 SMB 挂载，并启用 SMB3 加密 (AES)。"
     icon="folder"
     style="background: radial-gradient(ellipse at 50% 80%, rgba(59,130,246,0.15), hsla(0,0%,100%,0));"
-  >}}
-
-  {{< hextra/feature-card
-    title="加密的 SMB 共享"
-    subtitle="通过 SMB 连接，这是一块用作 Mac、Windows 和 Linux 的网络硬盘 - 在 Mac 上它会自行出现在 Finder 边栏中。它是唯一可以加密的连接：用登录名和密码开启 SMB3 加密 (AES)，让网络上的其他人都无法读取你的文件。"
-    icon="lock-closed"
-    style="background: radial-gradient(ellipse at 50% 80%, rgba(99,102,241,0.15), hsla(0,0%,100%,0));"
   >}}
 
   {{< hextra/feature-card
@@ -258,6 +251,10 @@ Everdisk 是 Everappz 为 iPhone 和 iPad 打造的无线硬盘应用。它把�
   {{< feature-card title="原始或转换" subtitle="以原始画质保留照片和视频，或在电视、浏览器或其他设备需要时转换为更兼容的格式。" icon="switch-horizontal" >}}
 
   {{< feature-card title="连接外部文件夹" subtitle="连接设备上任意位置的文件夹，直接在应用内使用，然后与其他内容一起通过网络共享。" icon="collection" >}}
+
+  {{< feature-card title="后台传输" subtitle="在应用内四处浏览时，下载和上传仍会持续进行。打开文件传输面板即可查看进度，并暂停、恢复、重试或取消任意任务。" icon="download" >}}
+
+  {{< feature-card title="带回收站的安全删除" subtitle="删除的文件会进入可恢复的回收站，改变主意时随时能把它们找回来。想让文件彻底消失？在设置中开启永久删除文件即可。" icon="trash" >}}
 
 {{< /cards >}}
 

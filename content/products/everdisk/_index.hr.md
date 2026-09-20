@@ -103,16 +103,9 @@ Pretvorite iPhone ili iPad u bežični disk&nbsp;<br class="hx:sm:block hx:hidde
 
   {{< hextra/feature-card
     title="Koristite ga kao mrežni disk"
-    subtitle="Povežite se iz Findera na Macu, iz Windowsa ili iz Linuxa putem WebDAV i vaš se uređaj pojavljuje kao običan mrežni disk. Povlačite i ispuštajte u oba smjera: kopirajte datoteke s računala na uređaj ili ih vratite natrag."
+    subtitle="Povežite se iz Findera na Macu, iz Windowsa ili iz Linuxa putem WebDAV i vaš se uređaj pojavljuje kao običan mrežni disk. Povlačite i ispuštajte datoteke u oba smjera ili ga umjesto toga povežite putem SMB-a, uz SMB3 (AES) šifriranje."
     icon="folder"
     style="background: radial-gradient(ellipse at 50% 80%, rgba(59,130,246,0.15), hsla(0,0%,100%,0));"
-  >}}
-
-  {{< hextra/feature-card
-    title="Šifrirano SMB dijeljenje"
-    subtitle="Povežite se putem SMB-a, mrežnog diska za Mac, Windows i Linux - na Macu se sam pojavljuje u bočnoj traci Findera. To je jedina veza koju možete šifrirati: uključite SMB3 šifriranje (AES) uz prijavu i lozinku tako da nitko drugi na mreži ne može čitati vaše datoteke."
-    icon="lock-closed"
-    style="background: radial-gradient(ellipse at 50% 80%, rgba(99,102,241,0.15), hsla(0,0%,100%,0));"
   >}}
 
   {{< hextra/feature-card
@@ -258,6 +251,10 @@ Pretvorite iPhone ili iPad u bežični disk&nbsp;<br class="hx:sm:block hx:hidde
   {{< feature-card title="Izvorno ili pretvoreno" subtitle="Zadržite fotografije i videozapise u izvornoj kvaliteti ili ih pretvorite u kompatibilniji format kada je to potrebno TV-u, pregledniku ili drugom uređaju." icon="switch-horizontal" >}}
 
   {{< feature-card title="Povežite vanjske mape" subtitle="Povežite mape s bilo kojeg mjesta na uređaju i radite s njima izravno u aplikaciji, a zatim ih dijelite putem mreže uz sve ostalo." icon="collection" >}}
+
+  {{< feature-card title="Prijenosi u pozadini" subtitle="Preuzimanja i prijenosi nastavljaju se dok se krećete po aplikaciji. Otvorite ploču Prijenosi datoteka da pratite napredak te pauzirate, nastavite, ponovite ili otkažete bilo koji zadatak." icon="download" >}}
+
+  {{< feature-card title="Sigurno brisanje uz smeće" subtitle="Izbrisane datoteke odlaze u smeće iz kojeg ih možete vratiti, pa ih možete povratiti ako se predomislite. Želite li ih umjesto toga trajno ukloniti? Uključite Trajno izbriši datoteke u Postavkama." icon="trash" >}}
 
 {{< /cards >}}
 

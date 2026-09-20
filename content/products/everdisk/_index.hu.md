@@ -103,16 +103,9 @@ Alakítsd iPhone-odat vagy iPad-edet vezeték nélküli meghajtóvá&nbsp;<br cl
 
   {{< hextra/feature-card
     title="Használd hálózati meghajtóként"
-    subtitle="Csatlakozz a Mac Finderéből, Windowsból vagy Linuxról WebDAV felett, és a készüléked egy normál hálózati lemezként jelenik meg. Fogd és vidd mindkét irányba: másolj fájlokat a számítógépedről a készülékedre, vagy hozd őket vissza."
+    subtitle="Csatlakozz a Mac Finderéből, Windowsból vagy Linuxról WebDAV felett, és a készüléked egy normál hálózati lemezként jelenik meg. Fogd és vidd a fájlokat mindkét irányba, vagy csatlakoztasd inkább SMB felett, SMB3-titkosítással (AES)."
     icon="folder"
     style="background: radial-gradient(ellipse at 50% 80%, rgba(59,130,246,0.15), hsla(0,0%,100%,0));"
-  >}}
-
-  {{< hextra/feature-card
-    title="Titkosított SMB megosztás"
-    subtitle="Csatlakozz SMB-n keresztül, ami egy hálózati meghajtó Machez, Windowshoz és Linuxhoz - Macen magától megjelenik a Finder oldalsávjában. Ez az egyetlen kapcsolat, amelyet titkosíthatsz: kapcsold be az SMB3-titkosítást (AES) egy bejelentkezési névvel és jelszóval, így senki más a hálózaton nem tudja elolvasni a fájljaidat."
-    icon="lock-closed"
-    style="background: radial-gradient(ellipse at 50% 80%, rgba(99,102,241,0.15), hsla(0,0%,100%,0));"
   >}}
 
   {{< hextra/feature-card
@@ -258,6 +251,10 @@ Alakítsd iPhone-odat vagy iPad-edet vezeték nélküli meghajtóvá&nbsp;<br cl
   {{< feature-card title="Eredeti vagy átalakított" subtitle="Tartsd meg a fényképeidet és videóidat eredeti minőségben, vagy alakítsd őket kompatibilisebb formátumba, amikor egy TV-nek, böngészőnek vagy más eszköznek szüksége van rá." icon="switch-horizontal" >}}
 
   {{< feature-card title="Külső mappák csatlakoztatása" subtitle="Csatlakoztass mappákat a készüléked bármely részéről és dolgozz velük közvetlenül az alkalmazásban, majd oszd meg őket a hálózaton minden mással együtt." icon="collection" >}}
+
+  {{< feature-card title="Háttérben futó átvitelek" subtitle="A letöltések és feltöltések tovább futnak, miközben az alkalmazásban navigálsz. Nyisd meg a Fájlátvitelek panelt, hogy figyeld a folyamatot, és bármely feladatot szüneteltess, folytass, újrapróbálj vagy leállíts." icon="download" >}}
+
+  {{< feature-card title="Biztonságos törlés kukával" subtitle="A törölt fájlok egy visszaállítható kukába kerülnek, így visszahozhatod őket, ha meggondolod magad. Inkább végleg megszabadulnál a fájloktól? Kapcsold be a Fájlok végleges törlése lehetőséget a Beállításokban." icon="trash" >}}
 
 {{< /cards >}}
 

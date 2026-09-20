@@ -103,16 +103,9 @@ Transformă-ți iPhone-ul sau iPad-ul într-un disc wireless&nbsp;<br class="hx:
 
   {{< hextra/feature-card
     title="Folosește-l ca disc de rețea"
-    subtitle="Conectează-te din Finder pe un Mac, din Windows sau din Linux prin WebDAV, iar dispozitivul tău apare ca un disc de rețea obișnuit. Trage și plasează în ambele direcții: copiază fișiere de pe computer pe dispozitiv sau adu-le înapoi."
+    subtitle="Conectează-te din Finder pe un Mac, din Windows sau din Linux prin WebDAV, iar dispozitivul tău apare ca un disc de rețea obișnuit. Trage și plasează fișiere în ambele direcții sau montează-l în schimb prin SMB, cu criptare SMB3 (AES)."
     icon="folder"
     style="background: radial-gradient(ellipse at 50% 80%, rgba(59,130,246,0.15), hsla(0,0%,100%,0));"
-  >}}
-
-  {{< hextra/feature-card
-    title="Partajare SMB criptată"
-    subtitle="Conectează-te prin SMB, un disc de rețea pentru Mac, Windows și Linux - pe un Mac apare de la sine în bara laterală Finder. Este singura conexiune pe care o poți cripta: activează criptarea SMB3 (AES) cu un utilizator și o parolă, astfel încât nimeni altcineva din rețea să nu-ți poată citi fișierele."
-    icon="lock-closed"
-    style="background: radial-gradient(ellipse at 50% 80%, rgba(99,102,241,0.15), hsla(0,0%,100%,0));"
   >}}
 
   {{< hextra/feature-card
@@ -258,6 +251,10 @@ Transformă-ți iPhone-ul sau iPad-ul într-un disc wireless&nbsp;<br class="hx:
   {{< feature-card title="Original sau convertit" subtitle="Păstrează-ți fotografiile și videoclipurile în calitate originală sau convertește-le într-un format mai compatibil când un televizor, un browser sau alt dispozitiv are nevoie." icon="switch-horizontal" >}}
 
   {{< feature-card title="Conectează foldere externe" subtitle="Conectează foldere de oriunde de pe dispozitivul tău și lucrează cu ele direct în aplicație, apoi partajează-le în rețea alături de tot restul." icon="collection" >}}
+
+  {{< feature-card title="Transferuri în fundal" subtitle="Descărcările și încărcările continuă să ruleze în timp ce te miști prin aplicație. Deschide panoul Transferuri de fișiere pentru a urmări progresul și pentru a pune pe pauză, relua, reîncerca sau anula orice sarcină." icon="download" >}}
+
+  {{< feature-card title="Ștergere sigură cu coș de gunoi" subtitle="Fișierele șterse ajung într-un coș de gunoi din care pot fi recuperate, ca să le poți aduce înapoi dacă te răzgândești. Vrei să dispară definitiv? Activează Șterge definitiv fișierele în Setări." icon="trash" >}}
 
 {{< /cards >}}
 

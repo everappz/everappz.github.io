@@ -103,16 +103,9 @@ Converteix el teu iPhone o iPad en una unitat sense fils&nbsp;<br class="hx:sm:b
 
   {{< hextra/feature-card
     title="Fes-lo servir com a unitat de xarxa"
-    subtitle="Connecta't des del Finder en un Mac, des de Windows o des de Linux per WebDAV, i el teu dispositiu apareix com un disc de xarxa normal. Arrossega i deixa anar en totes dues direccions: copia arxius de l'ordinador al dispositiu, o recupera'ls."
+    subtitle="Connecta't des del Finder en un Mac, des de Windows o des de Linux per WebDAV, i el teu dispositiu apareix com un disc de xarxa normal. Arrossega i deixa anar arxius en totes dues direccions, o munta'l per SMB, amb xifratge SMB3 (AES)."
     icon="folder"
     style="background: radial-gradient(ellipse at 50% 80%, rgba(59,130,246,0.15), hsla(0,0%,100%,0));"
-  >}}
-
-  {{< hextra/feature-card
-    title="Compartició SMB xifrada"
-    subtitle="Connecta't per SMB, una unitat de xarxa per a Mac, Windows i Linux - en un Mac apareix per si sola a la barra lateral del Finder. És l'única connexió que pots xifrar: activa el xifratge SMB3 (AES) amb un usuari i contrasenya perquè ningú més de la xarxa no pugui llegir els teus arxius."
-    icon="lock-closed"
-    style="background: radial-gradient(ellipse at 50% 80%, rgba(99,102,241,0.15), hsla(0,0%,100%,0));"
   >}}
 
   {{< hextra/feature-card
@@ -258,6 +251,10 @@ Converteix el teu iPhone o iPad en una unitat sense fils&nbsp;<br class="hx:sm:b
   {{< feature-card title="Original o convertit" subtitle="Conserva les teves fotos i vídeos amb qualitat original, o converteix-los a un format més compatible quan un televisor, navegador o altre dispositiu ho necessiti." icon="switch-horizontal" >}}
 
   {{< feature-card title="Connecta carpetes externes" subtitle="Connecta carpetes de qualsevol lloc del teu dispositiu i treballa-hi directament a l'app, i després comparteix-les per la xarxa juntament amb tota la resta." icon="collection" >}}
+
+  {{< feature-card title="Transferències en segon pla" subtitle="Les baixades i les pujades continuen mentre et mous per l'app. Obre el tauler de Transferències de fitxers per veure el progrés i posar en pausa, reprendre, reintentar o cancel·lar qualsevol tasca." icon="download" >}}
+
+  {{< feature-card title="Eliminació segura amb paperera" subtitle="Els arxius eliminats van a una paperera recuperable, així els pots recuperar si canvies d'idea. Els vols eliminar per sempre? Activa Elimina els fitxers permanentment a Configuració." icon="trash" >}}
 
 {{< /cards >}}
 

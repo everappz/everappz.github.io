@@ -103,16 +103,9 @@ Maak van je iPhone of iPad een draadloze schijf&nbsp;<br class="hx:sm:block hx:h
 
   {{< hextra/feature-card
     title="Gebruik het als netwerkschijf"
-    subtitle="Verbind vanuit Finder op een Mac, vanuit Windows of vanuit Linux via WebDAV en je apparaat verschijnt als een gewone netwerkschijf. Sleep in beide richtingen: kopieer bestanden van je computer naar je apparaat, of haal ze weer terug."
+    subtitle="Verbind vanuit Finder op een Mac, vanuit Windows of vanuit Linux via WebDAV en je apparaat verschijnt als een gewone netwerkschijf. Sleep bestanden in beide richtingen, of koppel het in plaats daarvan aan via SMB, met SMB3-versleuteling (AES)."
     icon="folder"
     style="background: radial-gradient(ellipse at 50% 80%, rgba(59,130,246,0.15), hsla(0,0%,100%,0));"
-  >}}
-
-  {{< hextra/feature-card
-    title="Versleuteld delen via SMB"
-    subtitle="Verbind via SMB, een netwerkschijf voor Mac, Windows en Linux - op een Mac verschijnt hij vanzelf in de Finder-navigatiekolom. Het is de enige verbinding die je kunt versleutelen: zet SMB3-versleuteling (AES) aan met een login en wachtwoord zodat niemand anders op het netwerk je bestanden kan lezen."
-    icon="lock-closed"
-    style="background: radial-gradient(ellipse at 50% 80%, rgba(99,102,241,0.15), hsla(0,0%,100%,0));"
   >}}
 
   {{< hextra/feature-card
@@ -258,6 +251,10 @@ Maak van je iPhone of iPad een draadloze schijf&nbsp;<br class="hx:sm:block hx:h
   {{< feature-card title="Origineel of omgezet" subtitle="Houd je foto's en video's in originele kwaliteit, of zet ze om naar een beter compatibel formaat wanneer een tv, browser of ander apparaat dat nodig heeft." icon="switch-horizontal" >}}
 
   {{< feature-card title="Externe mappen koppelen" subtitle="Koppel mappen vanaf elke plek op je apparaat en werk er meteen in de app mee, en deel ze vervolgens via het netwerk samen met al het andere." icon="collection" >}}
+
+  {{< feature-card title="Overdrachten op achtergrond" subtitle="Downloads en uploads blijven doorlopen terwijl je door de app beweegt. Open het paneel Bestandsoverdrachten om de voortgang te volgen en elke taak te pauzeren, hervatten, opnieuw te proberen of te annuleren." icon="download" >}}
+
+  {{< feature-card title="Veilig verwijderen met prullenbak" subtitle="Verwijderde bestanden gaan naar een herstelbare prullenbak, zodat je ze kunt terughalen als je van gedachten verandert. Wil je bestanden liever voorgoed weg? Zet Bestanden permanent verwijderen aan in Instellingen." icon="trash" >}}
 
 {{< /cards >}}
 

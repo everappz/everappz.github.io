@@ -103,16 +103,9 @@ Ubah iPhone atau iPad jadi drive nirkabel&nbsp;<br class="hx:sm:block hx:hidden"
 
   {{< hextra/feature-card
     title="Pakai Sebagai Network Drive"
-    subtitle="Sambungkan dari Finder di Mac, dari Windows, atau dari Linux lewat WebDAV, dan perangkat Anda muncul layaknya disk jaringan biasa. Seret dan lepas ke dua arah: salin file dari komputer ke perangkat Anda, atau tarik kembali."
+    subtitle="Sambungkan dari Finder di Mac, dari Windows, atau dari Linux lewat WebDAV, dan perangkat Anda muncul layaknya disk jaringan biasa. Seret dan lepas file ke dua arah, atau pasang lewat SMB sebagai gantinya, dengan enkripsi SMB3 (AES)."
     icon="folder"
     style="background: radial-gradient(ellipse at 50% 80%, rgba(59,130,246,0.15), hsla(0,0%,100%,0));"
-  >}}
-
-  {{< hextra/feature-card
-    title="Berbagi SMB Terenkripsi"
-    subtitle="Sambungkan lewat SMB, network drive untuk Mac, Windows, dan Linux - di Mac muncul dengan sendirinya di bilah samping Finder. Ini satu-satunya koneksi yang bisa Anda enkripsi: aktifkan enkripsi SMB3 (AES) dengan login dan kata sandi sehingga tidak ada orang lain di jaringan yang bisa membaca file Anda."
-    icon="lock-closed"
-    style="background: radial-gradient(ellipse at 50% 80%, rgba(99,102,241,0.15), hsla(0,0%,100%,0));"
   >}}
 
   {{< hextra/feature-card
@@ -258,6 +251,10 @@ Ubah iPhone atau iPad jadi drive nirkabel&nbsp;<br class="hx:sm:block hx:hidden"
   {{< feature-card title="Asli atau Dikonversi" subtitle="Simpan foto dan video Anda dalam kualitas asli, atau konversikan ke format yang lebih kompatibel saat TV, browser, atau perangkat lain membutuhkannya." icon="switch-horizontal" >}}
 
   {{< feature-card title="Sambungkan Folder Eksternal" subtitle="Sambungkan folder dari mana saja di perangkat Anda dan kerjakan langsung di aplikasi, lalu bagikan lewat jaringan bersama semua yang lain." icon="collection" >}}
+
+  {{< feature-card title="Transfer Latar Belakang" subtitle="Unduhan dan unggahan tetap berjalan sementara Anda berpindah-pindah di dalam aplikasi. Buka panel Transfer Berkas untuk memantau progres dan menjeda, melanjutkan, mencoba ulang, atau membatalkan tugas apa pun." icon="download" >}}
+
+  {{< feature-card title="Hapus Aman dengan Tempat Sampah" subtitle="File yang dihapus masuk ke tempat sampah yang bisa dipulihkan, jadi Anda bisa mengembalikannya jika berubah pikiran. Ingin file benar-benar hilang? Aktifkan Hapus File Secara Permanen di Pengaturan." icon="trash" >}}
 
 {{< /cards >}}
 

@@ -103,16 +103,9 @@ Transformez votre iPhone ou iPad en disque sans fil&nbsp;<br class="hx:sm:block 
 
   {{< hextra/feature-card
     title="Utilisez-le comme lecteur réseau"
-    subtitle="Connectez-vous depuis Finder sur un Mac, depuis Windows ou depuis Linux via WebDAV, et votre appareil apparaît comme un disque réseau ordinaire. Glissez-déposez dans les deux sens : copiez des fichiers de votre ordinateur vers votre appareil, ou récupérez-les."
+    subtitle="Connectez-vous depuis Finder sur un Mac, depuis Windows ou depuis Linux via WebDAV, et votre appareil apparaît comme un disque réseau ordinaire. Glissez-déposez vos fichiers dans les deux sens, ou montez-le plutôt via SMB, avec le chiffrement SMB3 (AES)."
     icon="folder"
     style="background: radial-gradient(ellipse at 50% 80%, rgba(59,130,246,0.15), hsla(0,0%,100%,0));"
-  >}}
-
-  {{< hextra/feature-card
-    title="Partage SMB chiffré"
-    subtitle="Connectez-vous via SMB, un lecteur réseau pour Mac, Windows et Linux - sur un Mac il apparaît tout seul dans la barre latérale du Finder. C'est la seule connexion que vous pouvez chiffrer : activez le chiffrement SMB3 (AES) avec un identifiant et un mot de passe pour que personne d'autre sur le réseau ne puisse lire vos fichiers."
-    icon="lock-closed"
-    style="background: radial-gradient(ellipse at 50% 80%, rgba(99,102,241,0.15), hsla(0,0%,100%,0));"
   >}}
 
   {{< hextra/feature-card
@@ -258,6 +251,10 @@ Transformez votre iPhone ou iPad en disque sans fil&nbsp;<br class="hx:sm:block 
   {{< feature-card title="Original ou converti" subtitle="Conservez vos photos et vidéos en qualité originale, ou convertissez-les dans un format plus compatible quand une TV, un navigateur ou un autre appareil le nécessite." icon="switch-horizontal" >}}
 
   {{< feature-card title="Connectez des dossiers externes" subtitle="Connectez des dossiers depuis n'importe où sur votre appareil et travaillez avec eux directement dans l'app, puis partagez-les sur le réseau avec tout le reste." icon="collection" >}}
+
+  {{< feature-card title="Transferts en arrière-plan" subtitle="Les téléchargements et les envois continuent pendant que vous naviguez dans l'app. Ouvrez le panneau Transferts de fichiers pour suivre la progression et mettre en pause, reprendre, réessayer ou annuler n'importe quelle tâche." icon="download" >}}
+
+  {{< feature-card title="Suppression sécurisée avec la corbeille" subtitle="Les fichiers supprimés vont dans une corbeille récupérable, pour que vous puissiez les restaurer si vous changez d'avis. Vous préférez les supprimer définitivement ? Activez Supprimer définitivement les fichiers dans les Réglages." icon="trash" >}}
 
 {{< /cards >}}
 

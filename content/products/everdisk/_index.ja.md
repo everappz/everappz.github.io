@@ -103,16 +103,9 @@ iPhone や iPad をワイヤレスドライブに変えて&nbsp;<br class="hx:sm
 
   {{< hextra/feature-card
     title="ネットワークドライブとして使う"
-    subtitle="Mac の Finder、Windows、Linux から WebDAV で接続すれば、デバイスが普通のネットワークディスクのように表示されます。双方向にドラッグ&amp;ドロップでき、パソコンからデバイスへファイルをコピーしたり、逆に取り出したりできます。"
+    subtitle="Mac の Finder、Windows、Linux から WebDAV で接続すれば、デバイスが普通のネットワークディスクのように表示されます。双方向にファイルをドラッグ&amp;ドロップできるほか、代わりに SMB でマウントして SMB3 (AES) 暗号化を使うこともできます。"
     icon="folder"
     style="background: radial-gradient(ellipse at 50% 80%, rgba(59,130,246,0.15), hsla(0,0%,100%,0));"
-  >}}
-
-  {{< hextra/feature-card
-    title="暗号化された SMB 共有"
-    subtitle="SMB で接続すれば、Mac・Windows・Linux 向けのネットワークドライブになります。Mac では Finder のサイドバーに独立して表示されます。暗号化できる唯一の接続で、ログインとパスワードを設定して SMB3 暗号化 (AES) をオンにすれば、ネットワーク上の他の人があなたのファイルを読めなくなります。"
-    icon="lock-closed"
-    style="background: radial-gradient(ellipse at 50% 80%, rgba(99,102,241,0.15), hsla(0,0%,100%,0));"
   >}}
 
   {{< hextra/feature-card
@@ -258,6 +251,10 @@ iPhone や iPad をワイヤレスドライブに変えて&nbsp;<br class="hx:sm
   {{< feature-card title="オリジナルまたは変換" subtitle="写真や動画をオリジナル画質のまま保つことも、TV やブラウザなど相手のデバイスに合わせてより互換性の高い形式に変換することもできます。" icon="switch-horizontal" >}}
 
   {{< feature-card title="外部フォルダーを接続" subtitle="デバイス上のどこにあるフォルダーでも接続して、アプリ内でそのまま扱えます。他のすべてと一緒にネットワークで共有することもできます。" icon="collection" >}}
+
+  {{< feature-card title="バックグラウンド転送" subtitle="ダウンロードやアップロードは、アプリ内を移動している間も動き続けます。ファイル転送パネルを開けば進行状況を確認でき、どのタスクも一時停止・再開・再試行・キャンセルできます。" icon="download" >}}
+
+  {{< feature-card title="ゴミ箱で安全に削除" subtitle="削除したファイルは復元可能なゴミ箱に移動するので、気が変わったときに元に戻せます。完全に消したいときは、設定でファイルを完全に削除をオンにしてください。" icon="trash" >}}
 
 {{< /cards >}}
 

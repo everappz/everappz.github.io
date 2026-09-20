@@ -103,16 +103,9 @@ Gjør iPhone eller iPad om til en trådløs disk&nbsp;<br class="hx:sm:block hx:
 
   {{< hextra/feature-card
     title="Bruk den som nettverksdisk"
-    subtitle="Koble til fra Finder på en Mac, fra Windows eller fra Linux over WebDAV, så dukker enheten din opp som en helt vanlig nettverksdisk. Dra og slipp begge veier: kopier filer fra datamaskinen til enheten din, eller hent dem tilbake."
+    subtitle="Koble til fra Finder på en Mac, fra Windows eller fra Linux over WebDAV, så dukker enheten din opp som en helt vanlig nettverksdisk. Dra og slipp filer begge veier, eller monter den over SMB i stedet, med SMB3-kryptering (AES)."
     icon="folder"
     style="background: radial-gradient(ellipse at 50% 80%, rgba(59,130,246,0.15), hsla(0,0%,100%,0));"
-  >}}
-
-  {{< hextra/feature-card
-    title="Kryptert SMB-deling"
-    subtitle="Koble til over SMB, en nettverksdisk for Mac, Windows og Linux - på en Mac dukker den opp helt av seg selv i Finder-sidefeltet. Det er den eneste tilkoblingen du kan kryptere: slå på SMB3-kryptering (AES) med brukernavn og passord slik at ingen andre på nettverket kan lese filene dine."
-    icon="lock-closed"
-    style="background: radial-gradient(ellipse at 50% 80%, rgba(99,102,241,0.15), hsla(0,0%,100%,0));"
   >}}
 
   {{< hextra/feature-card
@@ -258,6 +251,10 @@ Gjør iPhone eller iPad om til en trådløs disk&nbsp;<br class="hx:sm:block hx:
   {{< feature-card title="Original eller konvertert" subtitle="Behold bildene og videoene dine i original kvalitet, eller konverter dem til et mer kompatibelt format når en TV, nettleser eller annen enhet trenger det." icon="switch-horizontal" >}}
 
   {{< feature-card title="Koble til eksterne mapper" subtitle="Koble til mapper fra hvor som helst på enheten din og jobb med dem rett i appen, og del dem så over nettverket sammen med alt annet." icon="collection" >}}
+
+  {{< feature-card title="Overføringer i bakgrunnen" subtitle="Nedlastinger og opplastinger fortsetter mens du beveger deg rundt i appen. Åpne Filoverføringer-panelet for å følge fremdriften og pause, gjenoppta, prøve på nytt eller avbryte en oppgave." icon="download" >}}
+
+  {{< feature-card title="Trygg sletting med papirkurv" subtitle="Slettede filer havner i en papirkurv du kan gjenopprette fra, så du kan hente dem tilbake om du ombestemmer deg. Vil du heller bli kvitt filer for godt? Slå på Slett filer permanent i Innstillinger." icon="trash" >}}
 
 {{< /cards >}}
 

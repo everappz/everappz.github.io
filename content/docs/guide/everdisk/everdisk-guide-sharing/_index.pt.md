@@ -1,7 +1,7 @@
 ---
 title: "Partilha"
 date: 2026-08-20
-description: "Saiba como funciona a partilha no Everdisk: toque em Iniciar para transformar o seu iPhone ou iPad numa unidade sem fios, escolha o que partilhar (ficheiros, pastas, fotografias e música), execute os cinco servidores (DLNA, HTTP, WebDAV, SMB, FTP), criptografe a ligação SMB com SMB3 (AES), consulte os endereços de ligação, veja quem está ligado e mantenha a partilha ativa por Wi-Fi ou por um cabo USB."
+description: "Saiba como funciona a partilha no Everdisk: toque em Iniciar para transformar o seu iPhone ou iPad numa unidade sem fios, escolha o que partilhar (ficheiros, pastas, fotografias e música), execute os cinco servidores (DLNA, HTTP, WebDAV, SMB, FTP), encripte a ligação SMB com SMB3 (AES), consulte os endereços de ligação, veja quem está ligado e mantenha a partilha ativa por Wi-Fi ou por um cabo USB."
 keywords: ["partilha Everdisk", "unidade sem fios iPhone", "iniciar partilha", "partilhar ficheiros iPhone", "partilhar fotografias pela rede", "DLNA HTTP WebDAV FTP", "o que partilhar", "como ligar", "manter a aplicacao aberta", "partilha por Wi-Fi ou cabo USB"]
 tags: ["everdisk", "guia", "partilha"]
 readingTime: 9
@@ -51,7 +51,7 @@ O Everdisk partilha o mesmo conteúdo de cinco formas ao mesmo tempo. Cada uma f
 - **TV e Centro Multimédia (DLNA)** - para smart TVs e leitores multimédia. Descobrem o seu dispositivo por si próprios e mostram as suas fotografias, vídeos e música, com miniaturas de pré-visualização.
 - **Navegador (HTTP)** - para qualquer telemóvel, tablet ou computador. A outra pessoa abre uma ligação num navegador de Internet para explorar e transferir os seus ficheiros. Nada para instalar.
 - **Computador (WebDAV)** - para um Mac, PC com Windows ou máquina Linux. O seu dispositivo aparece como uma unidade de rede normal para que possa arrastar ficheiros em ambos os sentidos.
-- **Computador (avançado) (SMB)** - uma unidade de rede para Mac, Windows e Linux. Num Mac aparece sozinha na barra lateral do Finder; no Windows, abra-a no Explorador de Ficheiros com um endereço `smb://`. É a única ligação que pode **criptografar**, com criptografia SMB3 (AES).
+- **Computador (avançado) (SMB)** - uma unidade de rede para Mac, Windows e Linux. Num Mac aparece sozinha na barra lateral do Finder; no Windows, abra-a no Explorador de Ficheiros com um endereço `smb://`. É a única ligação que pode **encriptar**, com encriptação SMB3 (AES).
 - **Outras Aplicações e Dispositivos (FTP)** - para aplicações de ficheiros e utilizadores avançados que usam FTP.
 
 Para instruções de ligação passo a passo de cada tipo, consulte [Ligar os Seus Dispositivos](/docs/guide/everdisk/everdisk-guide-connect).

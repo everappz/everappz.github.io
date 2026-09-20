@@ -103,16 +103,9 @@ Jadikan iPhone atau iPad anda pemacu tanpa wayar&nbsp;<br class="hx:sm:block hx:
 
   {{< hextra/feature-card
     title="Gunakan sebagai Pemacu Rangkaian"
-    subtitle="Sambung daripada Finder pada Mac, daripada Windows atau daripada Linux melalui WebDAV, dan peranti anda muncul seperti cakera rangkaian biasa. Seret dan lepas ke dua-dua arah: salin fail dari komputer ke peranti anda, atau tarik semula."
+    subtitle="Sambung daripada Finder pada Mac, daripada Windows atau daripada Linux melalui WebDAV, dan peranti anda muncul seperti cakera rangkaian biasa. Seret dan lepas fail ke dua-dua arah, atau lekapkannya melalui SMB sebagai ganti, dengan penyulitan SMB3 (AES)."
     icon="folder"
     style="background: radial-gradient(ellipse at 50% 80%, rgba(59,130,246,0.15), hsla(0,0%,100%,0));"
-  >}}
-
-  {{< hextra/feature-card
-    title="Perkongsian SMB Tersulit"
-    subtitle="Sambung melalui SMB, pemacu rangkaian untuk Mac, Windows dan Linux - pada Mac ia muncul dengan sendirinya dalam bar sisi Finder. Ia satu-satunya sambungan yang boleh anda sulitkan: hidupkan penyulitan SMB3 (AES) dengan log masuk dan kata laluan supaya tiada sesiapa lain pada rangkaian boleh membaca fail anda."
-    icon="lock-closed"
-    style="background: radial-gradient(ellipse at 50% 80%, rgba(99,102,241,0.15), hsla(0,0%,100%,0));"
   >}}
 
   {{< hextra/feature-card
@@ -258,6 +251,10 @@ Jadikan iPhone atau iPad anda pemacu tanpa wayar&nbsp;<br class="hx:sm:block hx:
   {{< feature-card title="Asal atau Ditukar" subtitle="Kekalkan foto dan video anda dalam kualiti asal, atau tukar kepada format yang lebih serasi apabila TV, pelayar atau peranti lain memerlukannya." icon="switch-horizontal" >}}
 
   {{< feature-card title="Sambung Folder Luaran" subtitle="Sambungkan folder dari mana-mana pada peranti anda dan bekerja dengannya terus dalam aplikasi, kemudian kongsi melalui rangkaian bersama semua yang lain." icon="collection" >}}
+
+  {{< feature-card title="Pemindahan Latar Belakang" subtitle="Muat turun dan muat naik terus berjalan sambil anda bergerak di dalam aplikasi. Buka panel Pemindahan Fail untuk melihat kemajuan dan menjeda, menyambung semula, mencuba semula atau membatalkan mana-mana tugasan." icon="download" >}}
+
+  {{< feature-card title="Padam Selamat dengan Tong Sampah" subtitle="Fail yang dipadam masuk ke tong sampah yang boleh dipulihkan, jadi anda boleh mengembalikannya jika anda berubah fikiran. Mahu fail hilang terus? Hidupkan Padam Fail Secara Kekal dalam Tetapan." icon="trash" >}}
 
 {{< /cards >}}
 

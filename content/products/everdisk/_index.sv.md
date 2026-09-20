@@ -103,16 +103,9 @@ Gör din iPhone eller iPad till en trådlös disk&nbsp;<br class="hx:sm:block hx
 
   {{< hextra/feature-card
     title="Använd den som en nätverksdisk"
-    subtitle="Anslut från Finder på en Mac, från Windows eller från Linux via WebDAV, så visas din enhet som en vanlig nätverksdisk. Dra och släpp i båda riktningarna: kopiera filer från datorn till enheten eller hämta tillbaka dem."
+    subtitle="Anslut från Finder på en Mac, från Windows eller från Linux via WebDAV, så visas din enhet som en vanlig nätverksdisk. Dra och släpp filer i båda riktningarna, eller montera den via SMB i stället, med SMB3-kryptering (AES)."
     icon="folder"
     style="background: radial-gradient(ellipse at 50% 80%, rgba(59,130,246,0.15), hsla(0,0%,100%,0));"
-  >}}
-
-  {{< hextra/feature-card
-    title="Krypterad SMB-delning"
-    subtitle="Anslut via SMB, en nätverksdisk för Mac, Windows och Linux - på en Mac dyker den upp av sig själv i Finders sidofält. Det är den enda anslutningen du kan kryptera: slå på SMB3-kryptering (AES) med en inloggning och ett lösenord så att ingen annan på nätverket kan läsa dina filer."
-    icon="lock-closed"
-    style="background: radial-gradient(ellipse at 50% 80%, rgba(99,102,241,0.15), hsla(0,0%,100%,0));"
   >}}
 
   {{< hextra/feature-card
@@ -258,6 +251,10 @@ Gör din iPhone eller iPad till en trådlös disk&nbsp;<br class="hx:sm:block hx
   {{< feature-card title="Original eller konverterat" subtitle="Behåll dina foton och videor i originalkvalitet, eller konvertera dem till ett mer kompatibelt format när en TV, webbläsare eller annan enhet behöver det." icon="switch-horizontal" >}}
 
   {{< feature-card title="Anslut externa mappar" subtitle="Anslut mappar från var som helst på din enhet och arbeta med dem direkt i appen, dela dem sedan över nätverket tillsammans med allt annat." icon="collection" >}}
+
+  {{< feature-card title="Överföringar i bakgrunden" subtitle="Nedladdningar och uppladdningar fortsätter köra medan du rör dig i appen. Öppna panelen Filöverföringar för att se förloppet och pausa, återuppta, försöka igen eller avbryta valfri uppgift." icon="download" >}}
+
+  {{< feature-card title="Säker radering med papperskorg" subtitle="Raderade filer hamnar i en papperskorg som går att återställa, så att du kan hämta tillbaka dem om du ändrar dig. Vill du hellre bli av med filerna för gott? Slå på Radera filer permanent i Inställningar." icon="trash" >}}
 
 {{< /cards >}}
 

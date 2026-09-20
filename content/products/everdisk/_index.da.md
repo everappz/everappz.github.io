@@ -103,16 +103,9 @@ Gør din iPhone eller iPad til et trådløst drev&nbsp;<br class="hx:sm:block hx
 
   {{< hextra/feature-card
     title="Brug det som et netværksdrev"
-    subtitle="Forbind fra Finder på en Mac, fra Windows eller fra Linux over WebDAV, og din enhed vises som en helt almindelig netværksdisk. Træk og slip i begge retninger: kopier filer fra din computer til din enhed, eller hent dem tilbage."
+    subtitle="Forbind fra Finder på en Mac, fra Windows eller fra Linux over WebDAV, og din enhed vises som en helt almindelig netværksdisk. Træk og slip filer i begge retninger, eller tilslut det i stedet over SMB, med SMB3-kryptering (AES)."
     icon="folder"
     style="background: radial-gradient(ellipse at 50% 80%, rgba(59,130,246,0.15), hsla(0,0%,100%,0));"
-  >}}
-
-  {{< hextra/feature-card
-    title="Krypteret SMB-deling"
-    subtitle="Tilslut over SMB, et netværksdrev til Mac, Windows og Linux - på en Mac dukker det op af sig selv i Finder-sidebjælken. Det er den eneste forbindelse, du kan kryptere: slå SMB3-kryptering (AES) til med et login og en adgangskode, så ingen andre på netværket kan læse dine filer."
-    icon="lock-closed"
-    style="background: radial-gradient(ellipse at 50% 80%, rgba(99,102,241,0.15), hsla(0,0%,100%,0));"
   >}}
 
   {{< hextra/feature-card
@@ -258,6 +251,10 @@ Gør din iPhone eller iPad til et trådløst drev&nbsp;<br class="hx:sm:block hx
   {{< feature-card title="Original eller konverteret" subtitle="Behold dine billeder og videoer i original kvalitet, eller konverter dem til et mere kompatibelt format, når et TV, en browser eller en anden enhed har brug for det." icon="switch-horizontal" >}}
 
   {{< feature-card title="Tilknyt eksterne mapper" subtitle="Tilknyt mapper fra alle steder på din enhed og arbejd med dem direkte i appen, og del dem derefter over netværket sammen med alt andet." icon="collection" >}}
+
+  {{< feature-card title="Overførsler i baggrunden" subtitle="Downloads og uploads kører videre, mens du bevæger dig rundt i appen. Åbn panelet Filoverførsler for at følge fremskridtet og sætte enhver opgave på pause, genoptage, forsøge igen eller annullere den." icon="download" >}}
+
+  {{< feature-card title="Sikker sletning med papirkurv" subtitle="Slettede filer havner i en papirkurv, hvorfra de kan gendannes, så du kan hente dem tilbage, hvis du fortryder. Vil du hellere have filerne slettet for altid? Slå Slet filer permanent til i Indstillinger." icon="trash" >}}
 
 {{< /cards >}}
 

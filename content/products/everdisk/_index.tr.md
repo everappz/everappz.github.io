@@ -103,16 +103,9 @@ iPhone veya iPad cihazınızı, dosyaları&nbsp;<br class="hx:sm:block hx:hidden
 
   {{< hextra/feature-card
     title="Ağ Sürücüsü Olarak Kullanın"
-    subtitle="Mac'te Finder'dan, Windows'tan veya Linux'tan WebDAV üzerinden bağlanın; cihazınız normal bir ağ diski gibi görünsün. İki yönde sürükleyip bırakın: bilgisayarınızdan cihazınıza dosya kopyalayın veya geri çekin."
+    subtitle="Mac'te Finder'dan, Windows'tan veya Linux'tan WebDAV üzerinden bağlanın; cihazınız normal bir ağ diski gibi görünsün. Dosyaları iki yönde sürükleyip bırakın veya bunun yerine SMB3 (AES) şifrelemesiyle SMB üzerinden bağlayın."
     icon="folder"
     style="background: radial-gradient(ellipse at 50% 80%, rgba(59,130,246,0.15), hsla(0,0%,100%,0));"
-  >}}
-
-  {{< hextra/feature-card
-    title="Şifreli SMB Paylaşımı"
-    subtitle="Mac, Windows ve Linux için bir ağ sürücüsü olan SMB üzerinden bağlanın - bir Mac'te Finder kenar çubuğunda kendiliğinden görünür. Şifreleyebileceğiniz tek bağlantıdır: bir kullanıcı adı ve parolayla SMB3 şifrelemesini (AES) açın; böylece ağdaki başka hiç kimse dosyalarınızı okuyamasın."
-    icon="lock-closed"
-    style="background: radial-gradient(ellipse at 50% 80%, rgba(99,102,241,0.15), hsla(0,0%,100%,0));"
   >}}
 
   {{< hextra/feature-card
@@ -258,6 +251,10 @@ iPhone veya iPad cihazınızı, dosyaları&nbsp;<br class="hx:sm:block hx:hidden
   {{< feature-card title="Orijinal veya Dönüştürülmüş" subtitle="Fotoğraflarınızı ve videolarınızı orijinal kalitede tutun ya da bir TV, tarayıcı veya başka bir cihaz ihtiyaç duyduğunda daha uyumlu bir biçime dönüştürün." icon="switch-horizontal" >}}
 
   {{< feature-card title="Harici Klasörleri Bağlayın" subtitle="Cihazınızın herhangi bir yerindeki klasörleri bağlayın ve doğrudan uygulamada onlarla çalışın, ardından diğer her şeyle birlikte ağ üzerinden paylaşın." icon="collection" >}}
+
+  {{< feature-card title="Arka Plan Aktarımları" subtitle="Uygulama içinde dolaşırken indirmeler ve yüklemeler çalışmaya devam eder. İlerlemeyi izlemek ve herhangi bir görevi duraklatmak, sürdürmek, yeniden denemek veya iptal etmek için Dosya Aktarımları panelini açın." icon="download" >}}
+
+  {{< feature-card title="Çöp Kutusuyla Güvenli Silme" subtitle="Silinen dosyalar kurtarılabilir bir çöp kutusuna gider; böylece fikrinizi değiştirirseniz onları geri getirebilirsiniz. Dosyaların tamamen gitmesini mi istiyorsunuz? Ayarlar'da Dosyaları Kalıcı Olarak Sil'i açın." icon="trash" >}}
 
 {{< /cards >}}
 

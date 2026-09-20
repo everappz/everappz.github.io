@@ -103,16 +103,9 @@ Proměňte svůj iPhone nebo iPad v bezdrátový disk&nbsp;<br class="hx:sm:bloc
 
   {{< hextra/feature-card
     title="Používejte jako síťový disk"
-    subtitle="Připojte se z Finderu na Macu, z Windows nebo z Linuxu přes WebDAV a vaše zařízení se zobrazí jako běžný síťový disk. Přetahujte soubory oběma směry: kopírujte je z počítače do zařízení nebo je zase stáhněte zpět."
+    subtitle="Připojte se z Finderu na Macu, z Windows nebo z Linuxu přes WebDAV a vaše zařízení se zobrazí jako běžný síťový disk. Přetahujte soubory oběma směry, nebo je místo toho připojte přes SMB, se šifrováním SMB3 (AES)."
     icon="folder"
     style="background: radial-gradient(ellipse at 50% 80%, rgba(59,130,246,0.15), hsla(0,0%,100%,0));"
-  >}}
-
-  {{< hextra/feature-card
-    title="Šifrované sdílení přes SMB"
-    subtitle="Připojte se přes SMB, síťový disk pro Mac, Windows a Linux - na Macu se objeví sám v postranním panelu Finderu. Je to jediné připojení, které můžete šifrovat: zapněte šifrování SMB3 (AES) s přihlašovacím jménem a heslem, aby nikdo jiný v síti nemohl číst vaše soubory."
-    icon="lock-closed"
-    style="background: radial-gradient(ellipse at 50% 80%, rgba(99,102,241,0.15), hsla(0,0%,100%,0));"
   >}}
 
   {{< hextra/feature-card
@@ -258,6 +251,10 @@ Proměňte svůj iPhone nebo iPad v bezdrátový disk&nbsp;<br class="hx:sm:bloc
   {{< feature-card title="Původní nebo převedené" subtitle="Ponechte si fotky a videa v původní kvalitě, nebo je převeďte do kompatibilnějšího formátu, když to TV, prohlížeč nebo jiné zařízení potřebuje." icon="switch-horizontal" >}}
 
   {{< feature-card title="Připojte externí složky" subtitle="Připojte složky odkudkoli ze svého zařízení a pracujte s nimi přímo v aplikaci, pak je sdílejte po síti spolu se vším ostatním." icon="collection" >}}
+
+  {{< feature-card title="Přenosy na pozadí" subtitle="Stahování a nahrávání běží dál, i když se pohybujete po aplikaci. Otevřete panel Přenosy souborů, kde sledujete průběh a můžete kteroukoli úlohu pozastavit, obnovit, zopakovat nebo zrušit." icon="download" >}}
+
+  {{< feature-card title="Bezpečné mazání s košem" subtitle="Smazané soubory putují do obnovitelného koše, takže je můžete vrátit zpět, když si to rozmyslíte. Chcete je raději smazat nadobro? Zapněte v Nastavení možnost Trvale mazat soubory." icon="trash" >}}
 
 {{< /cards >}}
 

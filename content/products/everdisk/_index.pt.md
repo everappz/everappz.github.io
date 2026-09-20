@@ -2,12 +2,12 @@
 date: '2026-08-20T12:00:00+00:00'
 title: 'Everdisk - Transforme o seu iPhone e iPad numa Drive sem Fios'
 layout: hextra-home
-description: "Transforme o seu iPhone ou iPad numa drive sem fios e partilhe ficheiros, fotografias, videos e musica com qualquer dispositivo atraves de DLNA, HTTP, WebDAV, SMB e FTP. Monte como drive de rede com criptografia SMB opcional. Sem nuvem."
-keywords: ["Everdisk", "drive sem fios iPhone", "partilhar ficheiros iPhone", "servidor WebDAV iOS", "servidor SMB iPhone", "criptografia SMB iOS", "servidor DLNA iPhone", "servidor FTP iOS", "transmitir para TV a partir do iPhone", "drive de rede iPhone", "transferencia de ficheiros USB iPhone", "gestor de ficheiros iOS", "digitalizar documentos para PDF", "partilhar fotografias na rede"]
+description: "Transforme o seu iPhone ou iPad numa drive sem fios e partilhe ficheiros, fotografias, videos e musica com qualquer dispositivo atraves de DLNA, HTTP, WebDAV, SMB e FTP. Monte como drive de rede com encriptacao SMB opcional. Sem nuvem."
+keywords: ["Everdisk", "drive sem fios iPhone", "partilhar ficheiros iPhone", "servidor WebDAV iOS", "servidor SMB iPhone", "encriptacao SMB iOS", "servidor DLNA iPhone", "servidor FTP iOS", "transmitir para TV a partir do iPhone", "drive de rede iPhone", "transferencia de ficheiros USB iPhone", "gestor de ficheiros iOS", "digitalizar documentos para PDF", "partilhar fotografias na rede"]
 tags: ["Everdisk", "drive sem fios", "partilha de ficheiros", "DLNA", "WebDAV", "SMB", "FTP", "SFTP", "drive de rede", "aplicacoes iPhone", "aplicacoes iPad", "aplicacoes Mac", "gestor de ficheiros", "servidor de media"]
 appStoreUrl: "https://apps.apple.com/app/apple-store/id6751851132?pt=95781850&ct=everappzcom&mt=8"
 appStoreId: "6751851132"
-features: "Drive sem fios por Wi-Fi e USB, Cinco servidores em simultaneo (DLNA, HTTP, WebDAV, SMB, FTP), Transmitir para smart TVs por DLNA, Abrir em qualquer navegador web, Montar como drive de rede no Finder/Windows/Linux, Drive de rede SMB com criptografia SMB3 opcional (AES), Ligar a servidores DLNA/WebDAV/FTP/SFTP/SMB, Gestor de ficheiros integrado com zip/unzip, Digitalizar documentos para PDF, Anotar e assinar PDFs e fotografias, Ferramentas de PDF (comprimir, reconhecimento de texto OCR, protecao por palavra-passe, permissoes, metadados, achatar), Galeria de fotografias e leitor de media, Partilhar toda a biblioteca de fotografias e musica, Protecao por palavra-passe e bloqueio de dispositivos"
+features: "Drive sem fios por Wi-Fi e USB, Cinco servidores em simultaneo (DLNA, HTTP, WebDAV, SMB, FTP), Transmitir para smart TVs por DLNA, Abrir em qualquer navegador web, Montar como drive de rede no Finder/Windows/Linux, Drive de rede SMB com encriptacao SMB3 opcional (AES), Ligar a servidores DLNA/WebDAV/FTP/SFTP/SMB, Gestor de ficheiros integrado com zip/unzip, Digitalizar documentos para PDF, Anotar e assinar PDFs e fotografias, Ferramentas de PDF (comprimir, reconhecimento de texto OCR, protecao por palavra-passe, permissoes, metadados, achatar), Galeria de fotografias e leitor de media, Partilhar toda a biblioteca de fotografias e musica, Protecao por palavra-passe e bloqueio de dispositivos"
 screenshots:
   - "https://everappz.com/products/everdisk/screenshots/browser_access.png"
   - "https://everappz.com/products/everdisk/screenshots/connect_to_servers.png"
@@ -16,7 +16,7 @@ screenshots:
 ---
 
 {{% sr-only %}}
-O Everdisk e uma aplicacao de drive sem fios para iPhone e iPad, desenvolvida pela Everappz. Transforma o seu dispositivo num centro que partilha ficheiros, fotografias, videos e musica com tudo o que esteja na sua rede local, sem contas, sem nuvem e sem qualquer aplicacao extra para instalar do outro lado. A aplicacao executa cinco servidores ao mesmo tempo - DLNA para smart TVs e leitores de media, HTTP para qualquer navegador web, WebDAV para o Finder, Windows e Linux, SMB para uma drive de rede em Mac, Windows e Linux (com criptografia SMB3 opcional), e FTP para aplicacoes de ficheiros e utilizadores avancados - por isso cada dispositivo liga-se da forma que prefere. Pode transmitir fotografias, videos e musica diretamente para smart TVs por DLNA com miniaturas de pre-visualizacao, partilhar uma ligacao simples que abre em qualquer navegador para explorar e transferir os seus ficheiros, ou montar o seu dispositivo como uma drive de rede e arrastar ficheiros em ambos os sentidos. Tambem o pode montar por SMB, uma drive de rede para Mac, Windows e Linux que aparece sozinha na barra lateral do Finder num Mac, e ativar a criptografia SMB3 (AES) para que mais ninguem na mesma rede consiga ler as suas transferencias. Quando nao ha Wi-Fi, pode ligar-se a um Mac com um cabo USB e mover ficheiros mais depressa do que por Wi-Fi, mesmo num aviao ou numa rede bloqueada. O Everdisk tambem se liga a servidores DLNA, WebDAV, FTP, SFTP e SMB na sua rede - incluindo Macs, PCs com Windows, maquinas Linux e drives NAS - para explorar, transmitir e transferir os seus ficheiros. Um gestor de ficheiros integrado permite explorar em lista ou grelha, criar pastas, mudar o nome, mover, copiar, criar e abrir arquivos zip, e eliminar. Pode digitalizar documentos em papel para PDFs limpos, abrir um PDF ou fotografia e anota-lo com o editor integrado - desenhar, realcar, adicionar texto e uma assinatura, com as alteracoes guardadas de volta no ficheiro - e usar um conjunto completo de ferramentas de PDF para comprimir ficheiros, reconhecer texto (OCR) num PDF pesquisavel, adicionar ou remover uma palavra-passe de abertura, rever permissoes, editar metadados do documento e achatar anotacoes e campos de formulario. Tambem pode reproduzir audio num mini leitor e ver videos em ecra inteiro, e partilhar toda a sua biblioteca de fotografias e musica na rede em qualidade original ou num formato mais compativel. Tudo permanece na sua rede local e nunca toca na internet, e pode proteger o acesso com um utilizador e palavra-passe e bloquear qualquer dispositivo com um toque. O Everdisk e uma transferencia gratuita na App Store, com uma compra unica opcional Premium Vitalicio.
+O Everdisk e uma aplicacao de drive sem fios para iPhone e iPad, desenvolvida pela Everappz. Transforma o seu dispositivo num centro que partilha ficheiros, fotografias, videos e musica com tudo o que esteja na sua rede local, sem contas, sem nuvem e sem qualquer aplicacao extra para instalar do outro lado. A aplicacao executa cinco servidores ao mesmo tempo - DLNA para smart TVs e leitores de media, HTTP para qualquer navegador web, WebDAV para o Finder, Windows e Linux, SMB para uma drive de rede em Mac, Windows e Linux (com encriptacao SMB3 opcional), e FTP para aplicacoes de ficheiros e utilizadores avancados - por isso cada dispositivo liga-se da forma que prefere. Pode transmitir fotografias, videos e musica diretamente para smart TVs por DLNA com miniaturas de pre-visualizacao, partilhar uma ligacao simples que abre em qualquer navegador para explorar e transferir os seus ficheiros, ou montar o seu dispositivo como uma drive de rede e arrastar ficheiros em ambos os sentidos. Tambem o pode montar por SMB, uma drive de rede para Mac, Windows e Linux que aparece sozinha na barra lateral do Finder num Mac, e ativar a encriptacao SMB3 (AES) para que mais ninguem na mesma rede consiga ler as suas transferencias. Quando nao ha Wi-Fi, pode ligar-se a um Mac com um cabo USB e mover ficheiros mais depressa do que por Wi-Fi, mesmo num aviao ou numa rede bloqueada. O Everdisk tambem se liga a servidores DLNA, WebDAV, FTP, SFTP e SMB na sua rede - incluindo Macs, PCs com Windows, maquinas Linux e drives NAS - para explorar, transmitir e transferir os seus ficheiros. Um gestor de ficheiros integrado permite explorar em lista ou grelha, criar pastas, mudar o nome, mover, copiar, criar e abrir arquivos zip, e eliminar. Pode digitalizar documentos em papel para PDFs limpos, abrir um PDF ou fotografia e anota-lo com o editor integrado - desenhar, realcar, adicionar texto e uma assinatura, com as alteracoes guardadas de volta no ficheiro - e usar um conjunto completo de ferramentas de PDF para comprimir ficheiros, reconhecer texto (OCR) num PDF pesquisavel, adicionar ou remover uma palavra-passe de abertura, rever permissoes, editar metadados do documento e achatar anotacoes e campos de formulario. Tambem pode reproduzir audio num mini leitor e ver videos em ecra inteiro, e partilhar toda a sua biblioteca de fotografias e musica na rede em qualidade original ou num formato mais compativel. Tudo permanece na sua rede local e nunca toca na internet, e pode proteger o acesso com um utilizador e palavra-passe e bloquear qualquer dispositivo com um toque. O Everdisk e uma transferencia gratuita na App Store, com uma compra unica opcional Premium Vitalicio.
 {{% /sr-only %}}
 
 <!-- <body class="hx:bg-transparent" style="background: radial-gradient(ellipse at 50% 80%, rgba(59,130,246,0.05), hsla(0,0%,100%,0));"> -->
@@ -58,7 +58,7 @@ Transforme o seu iPhone ou iPad numa drive sem fios&nbsp;<br class="hx:sm:block 
 {{< hextra/hero-paragraph >}}
 • Toque em Iniciar e partilhe de cinco formas ao mesmo tempo: DLNA, HTTP, WebDAV, SMB e FTP  
 • Transmita fotografias, videos e musica diretamente para smart TVs por DLNA  
-• Monte o seu dispositivo como uma drive de rede no Finder, Windows ou Linux - com criptografia SMB opcional  
+• Monte o seu dispositivo como uma drive de rede no Finder, Windows ou Linux - com encriptacao SMB opcional  
 • Sem Wi-Fi? Mova ficheiros por cabo USB, mais depressa do que sem fios  
 {{< /hextra/hero-paragraph >}}
 </div>
@@ -103,16 +103,9 @@ Transforme o seu iPhone ou iPad numa drive sem fios&nbsp;<br class="hx:sm:block 
 
   {{< hextra/feature-card
     title="Use Como uma Drive de Rede"
-    subtitle="Ligue-se a partir do Finder num Mac, do Windows ou do Linux por WebDAV, e o seu dispositivo aparece como um disco de rede normal. Arraste e largue em ambos os sentidos: copie ficheiros do seu computador para o dispositivo, ou traga-os de volta."
+    subtitle="Ligue-se a partir do Finder num Mac, do Windows ou do Linux por WebDAV, e o seu dispositivo aparece como um disco de rede normal. Arraste e largue ficheiros em ambos os sentidos, ou monte-o por SMB, com encriptacao SMB3 (AES)."
     icon="folder"
     style="background: radial-gradient(ellipse at 50% 80%, rgba(59,130,246,0.15), hsla(0,0%,100%,0));"
-  >}}
-
-  {{< hextra/feature-card
-    title="Partilha SMB Criptografada"
-    subtitle="Ligue-se por SMB, uma drive de rede para Mac, Windows e Linux - num Mac aparece sozinha na barra lateral do Finder. E a unica ligacao que pode criptografar: ative a criptografia SMB3 (AES) com um utilizador e palavra-passe para que mais ninguem na rede consiga ler os seus ficheiros."
-    icon="lock-closed"
-    style="background: radial-gradient(ellipse at 50% 80%, rgba(99,102,241,0.15), hsla(0,0%,100%,0));"
   >}}
 
   {{< hextra/feature-card
@@ -223,7 +216,7 @@ Transforme o seu iPhone ou iPad numa drive sem fios&nbsp;<br class="hx:sm:block 
 
   {{< feature-card title="Drive de Rede WebDAV" subtitle="Ligue-se a partir do Finder num Mac, do Windows ou do Linux por WebDAV e o seu dispositivo aparece como um disco de rede normal. Arraste e largue ficheiros em ambos os sentidos." icon="folder" >}}
 
-  {{< feature-card title="Drive SMB Criptografada" subtitle="Monte o seu dispositivo por SMB, uma drive de rede para Mac, Windows e Linux - num Mac aparece sozinha na barra lateral do Finder. E a unica ligacao que pode ser criptografada: ative a criptografia SMB3 (AES) com um utilizador e palavra-passe para manter cada transferencia privada." icon="lock-closed" >}}
+  {{< feature-card title="Drive SMB Encriptada" subtitle="Monte o seu dispositivo por SMB, uma drive de rede para Mac, Windows e Linux - num Mac aparece sozinha na barra lateral do Finder. E a unica ligacao que pode ser encriptada: ative a encriptacao SMB3 (AES) com um utilizador e palavra-passe para manter cada transferencia privada." icon="lock-closed" >}}
 
   {{< feature-card title="Transferencia por USB" subtitle="Ligue-se a um Mac com o cabo de carregamento e mova ficheiros diretamente pelo cabo, mais depressa do que por Wi-Fi. Continua a funcionar num aviao, num hotel ou em qualquer rede bloqueada." icon="lightning-bolt" >}}
 
@@ -258,6 +251,10 @@ Transforme o seu iPhone ou iPad numa drive sem fios&nbsp;<br class="hx:sm:block 
   {{< feature-card title="Original ou Convertido" subtitle="Mantenha as suas fotografias e videos em qualidade original, ou converta-os para um formato mais compativel quando uma TV, navegador ou outro dispositivo precisar." icon="switch-horizontal" >}}
 
   {{< feature-card title="Ligue Pastas Externas" subtitle="Ligue pastas de qualquer parte do seu dispositivo e trabalhe com elas mesmo na aplicacao, depois partilhe-as na rede juntamente com tudo o resto." icon="collection" >}}
+
+  {{< feature-card title="Transferencias em Segundo Plano" subtitle="As transferencias e os envios continuam a decorrer enquanto se movimenta pela aplicacao. Abra o painel Transferências de ficheiros para acompanhar o progresso e pausar, retomar, repetir ou cancelar qualquer tarefa." icon="download" >}}
+
+  {{< feature-card title="Eliminacao Segura com Lixo" subtitle="Os ficheiros eliminados vao para um lixo recuperavel, para que possa recupera-los se mudar de ideias. Prefere que os ficheiros desaparecam de vez? Ative Eliminar ficheiros permanentemente nas Definicoes." icon="trash" >}}
 
 {{< /cards >}}
 
@@ -316,7 +313,7 @@ Transforme o seu iPhone ou iPad numa drive sem fios&nbsp;<br class="hx:sm:block 
 • Pastas partilhadas ilimitadas (mais de 5)<br />
 • Ligacoes guardadas ilimitadas (mais de 10)<br />
 • Conversao de fotografias e video para um formato compativel ou tamanho menor<br />
-• Criptografia SMB3 (AES) para partilha privada e segura<br />
+• Encriptacao SMB3 (AES) para partilha privada e segura<br />
 • Portas HTTP, WebDAV, SMB e FTP personalizadas<br />
 • Inicio automatico da partilha ao abrir a aplicacao<br />
 • Personalizacao do dispositivo: nome, icone de avatar, gradiente ou fotografia<br />
@@ -354,7 +351,7 @@ O Everdisk transforma o seu iPhone ou iPad numa drive sem fios e num centro que 
 Pode partilhar os seus ficheiros, fotografias, videos e musica com tudo o que esteja na sua rede, explorar e transmitir a partir de outros servidores, e gerir tudo diretamente no seu dispositivo.<br>
 Nao ha contas, nem nuvem, nem qualquer aplicacao extra para instalar do outro lado - basta tocar em Iniciar e esta pronto.<br><br>
 
-A aplicacao executa cinco servidores ao mesmo tempo, para que cada dispositivo se ligue da forma que prefere: smart TVs por DLNA, computadores e navegadores web por HTTP, Finder, Windows e Linux por WebDAV, uma drive de rede por SMB (com criptografia opcional), e aplicacoes de ficheiros por FTP.
+A aplicacao executa cinco servidores ao mesmo tempo, para que cada dispositivo se ligue da forma que prefere: smart TVs por DLNA, computadores e navegadores web por HTTP, Finder, Windows e Linux por WebDAV, uma drive de rede por SMB (com encriptacao opcional), e aplicacoes de ficheiros por FTP.
 {{% /details %}}
 
 {{% details title="Como funciona o Everdisk?" closed="true" %}}
@@ -363,7 +360,7 @@ Quando toca em Iniciar, o Everdisk comeca a partilhar o conteudo que selecionou 
 - <strong>DLNA</strong> permite que smart TVs e leitores de media encontrem as suas fotografias, videos e musica automaticamente e os mostrem com miniaturas de pre-visualizacao.<br>
 - <strong>HTTP</strong> da a qualquer pessoa uma ligacao simples que pode abrir num navegador web para explorar, pre-visualizar e transferir os seus ficheiros, sem nada para instalar.<br>
 - <strong>WebDAV</strong> faz o seu dispositivo aparecer como uma drive de rede normal no Finder, Windows ou Linux, para que possa arrastar ficheiros em ambos os sentidos.<br>
-- <strong>SMB</strong> faz o seu dispositivo tornar-se uma drive de rede em Mac, Windows e Linux - num Mac aparece sozinha na barra lateral do Finder - e e a unica ligacao que pode criptografar com criptografia SMB3 (AES).<br>
+- <strong>SMB</strong> faz o seu dispositivo tornar-se uma drive de rede em Mac, Windows e Linux - num Mac aparece sozinha na barra lateral do Finder - e e a unica ligacao que pode encriptar com encriptacao SMB3 (AES).<br>
 - <strong>FTP</strong> funciona com aplicacoes de ficheiros e utilizadores avancados.<br><br>
 
 O Everdisk tambem se liga no sentido inverso, a servidores DLNA, WebDAV, FTP, SFTP e SMB na sua rede - incluindo Macs, PCs com Windows, maquinas Linux e drives NAS - para que possa explorar as pastas deles, transmitir audio e video, e transferir ou gerir ficheiros quando o servidor o permitir. Tudo permanece na sua rede local e nunca toca na internet.
@@ -372,7 +369,7 @@ O Everdisk tambem se liga no sentido inverso, a servidores DLNA, WebDAV, FTP, SF
 {{% details title="O Everdisk e gratuito?" closed="true" %}}
 Sim. O Everdisk e uma transferencia gratuita e pode transformar o seu dispositivo numa drive sem fios, partilhar os seus ficheiros de cinco formas, ligar-se a outros servidores e usar o gestor de ficheiros integrado sem qualquer custo.<br><br>
 
-Ha uma compra unica opcional <strong>Premium Vitalicio</strong> - um unico pagamento sem subscricao - que desbloqueia pastas partilhadas e ligacoes guardadas ilimitadas, conversao de fotografias e video, criptografia SMB3 (AES), portas personalizadas, inicio automatico da partilha e personalizacao do dispositivo. Esta associada ao seu Apple ID, por isso pode usar Restaurar Compras para a desbloquear nos seus outros dispositivos. Os precos podem variar consoante o seu pais ou regiao.
+Ha uma compra unica opcional <strong>Premium Vitalicio</strong> - um unico pagamento sem subscricao - que desbloqueia pastas partilhadas e ligacoes guardadas ilimitadas, conversao de fotografias e video, encriptacao SMB3 (AES), portas personalizadas, inicio automatico da partilha e personalizacao do dispositivo. Esta associada ao seu Apple ID, por isso pode usar Restaurar Compras para a desbloquear nos seus outros dispositivos. Os precos podem variar consoante o seu pais ou regiao.
 {{% /details %}}
 
 {{% details title="Como me ligo a partir do meu computador?" closed="true" %}}
@@ -385,10 +382,10 @@ O Everdisk faz o seu dispositivo aparecer como uma drive de rede normal por WebD
 Depois de ligado, pode arrastar e largar em ambos os sentidos: copiar ficheiros do seu computador para o dispositivo, ou traze-los de volta. Tambem pode abrir a ligacao HTTP em qualquer navegador web se preferir nao montar uma drive.
 {{% /details %}}
 
-{{% details title="Posso usar SMB e criptografar a ligacao?" closed="true" %}}
+{{% details title="Posso usar SMB e encriptar a ligacao?" closed="true" %}}
 Sim. Alem do WebDAV, o Everdisk partilha por <strong>SMB</strong> - uma drive de rede para Mac, Windows e Linux (mostrada na aplicacao como a ligacao <strong>Computador (avançado)</strong>). Num Mac aparece sozinha na barra lateral do Finder em Localizacoes; no Windows, abra-a no Explorador de Ficheiros usando o endereco <code>smb://</code> mostrado na aplicacao.<br><br>
 
-O SMB e tambem a unica ligacao que pode <strong>criptografar</strong>. Defina um utilizador e palavra-passe, depois ative <strong>Exigir criptografia SMB</strong> nos Ajustes para proteger cada transferencia com <strong>criptografia SMB3 (AES)</strong>, para que mais ninguem na mesma rede consiga ler os seus ficheiros. As ligacoes criptografadas nao podem ser anonimas, por isso sao necessarios um utilizador e palavra-passe, e precisa de um cliente que suporte SMB3 - o Finder num Mac moderno, ou o Windows 10 e posterior.
+O SMB e tambem a unica ligacao que pode <strong>encriptar</strong>. Defina um utilizador e palavra-passe, depois ative <strong>Exigir encriptacao SMB</strong> nas Definicoes para proteger cada transferencia com <strong>encriptacao SMB3 (AES)</strong>, para que mais ninguem na mesma rede consiga ler os seus ficheiros. As ligacoes encriptadas nao podem ser anonimas, por isso sao necessarios um utilizador e palavra-passe, e precisa de um cliente que suporte SMB3 - o Finder num Mac moderno, ou o Windows 10 e posterior.
 {{% /details %}}
 
 {{% details title="Como transmito para a minha TV?" closed="true" %}}
