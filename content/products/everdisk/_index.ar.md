@@ -64,7 +64,7 @@ Everdisk تطبيق قرص لاسلكي لأجهزة iPhone وiPad من تطوي
 </div>
 
 {{< hextra/hero-button 
-  textKey="downloadiOSFifteenAndFivePlus"
+  textKey="downloadForiOS"
   link="https://apps.apple.com/app/apple-store/id6751851132?pt=95781850&ct=everappzcom&mt=8"
   icon="device-mobile" 
   style="margin-top:1rem;margin-right:1rem;"

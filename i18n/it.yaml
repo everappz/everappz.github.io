@@ -105,5 +105,5 @@ previousSlide: "Diapositiva precedente"
 nextSlide: "Diapositiva successiva"
 
 # Product download buttons
-downloadiOSFifteenAndFivePlus: "Scarica per <strong>iOS 15.5+</strong>"
-downloadMacOStwelveAndFourPlus: "Scarica per <strong>macOS 12.4+</strong>"
+downloadForiOS: "Scarica per iOS"
+downloadForMacOS: "Scarica per macOS"

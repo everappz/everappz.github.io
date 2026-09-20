@@ -105,5 +105,5 @@ previousSlide: "Trang trình bày trước"
 nextSlide: "Trang trình bày tiếp theo"
 
 # Product download buttons
-downloadiOSFifteenAndFivePlus: "Tải cho <strong>iOS 15.5+</strong>"
-downloadMacOStwelveAndFourPlus: "Tải cho <strong>macOS 12.4+</strong>"
+downloadForiOS: "Tải cho iOS"
+downloadForMacOS: "Tải cho macOS"

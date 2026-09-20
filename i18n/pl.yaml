@@ -107,5 +107,5 @@ previousSlide: "Poprzedni slajd"
 nextSlide: "Następny slajd"
 
 # Product download buttons
-downloadiOSFifteenAndFivePlus: "Pobierz na <strong>iOS 15.5+</strong>"
-downloadMacOStwelveAndFourPlus: "Pobierz na <strong>macOS 12.4+</strong>"
+downloadForiOS: "Pobierz na iOS"
+downloadForMacOS: "Pobierz na macOS"

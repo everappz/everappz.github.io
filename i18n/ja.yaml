@@ -105,5 +105,5 @@ previousSlide: "前のスライド"
 nextSlide: "次のスライド"
 
 # Product download buttons
-downloadiOSFifteenAndFivePlus: "<strong>iOS 15.5+</strong>をダウンロード"
-downloadMacOStwelveAndFourPlus: "<strong>macOS 12.4+</strong>をダウンロード"
+downloadForiOS: "iOSをダウンロード"
+downloadForMacOS: "macOSをダウンロード"

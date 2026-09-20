@@ -107,5 +107,5 @@ previousSlide: "Edellinen dia"
 nextSlide: "Seuraava dia"
 
 # Product download buttons
-downloadiOSFifteenAndFivePlus: "Lataa <strong>iOS 15.5+</strong>"
-downloadMacOStwelveAndFourPlus: "Lataa <strong>macOS 12.4+</strong>"
+downloadForiOS: "Lataa iOS"
+downloadForMacOS: "Lataa macOS"

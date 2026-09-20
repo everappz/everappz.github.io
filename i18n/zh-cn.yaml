@@ -105,5 +105,5 @@ previousSlide: "上一张幻灯片"
 nextSlide: "下一张幻灯片"
 
 # Product download buttons
-downloadiOSFifteenAndFivePlus: "下载 <strong>iOS 15.5+</strong>"
-downloadMacOStwelveAndFourPlus: "下载 <strong>macOS 12.4+</strong>"
+downloadForiOS: "下载 iOS"
+downloadForMacOS: "下载 macOS"

@@ -63,14 +63,14 @@ Evervideo
 </div>
 
 {{< hextra/hero-button 
-    textKey="downloadiOSFifteenAndFivePlus"
+    textKey="downloadForiOS"
     link="https://apps.apple.com/us/app/evervideo-hd-video-player/id6602897336?ct=everappzcom&mt=8"
     icon="device-mobile"
     style="margin-top:1rem;margin-right:1rem;"
 >}}
 
 {{< hextra/hero-button 
-    textKey="downloadMacOStwelveAndFourPlus"
+    textKey="downloadForMacOS"
     link="https://apps.apple.com/us/app/evervideo/id6743504109?ct=everappzcom&mt=8"
     icon="desktop-computer" 
     style="margin-top:1rem;margin-right:1rem;"

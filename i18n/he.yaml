@@ -105,5 +105,5 @@ previousSlide: "השקופית הקודמת"
 nextSlide: "השקופית הבאה"
 
 # Product download buttons
-downloadiOSFifteenAndFivePlus: "הורד ל-<strong>iOS 15.5+</strong>"
-downloadMacOStwelveAndFourPlus: "הורד ל-<strong>macOS 12.4+</strong>"
+downloadForiOS: "הורד ל-iOS"
+downloadForMacOS: "הורד ל-macOS"

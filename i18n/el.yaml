@@ -107,5 +107,5 @@ previousSlide: "Προηγούμενη διαφάνεια"
 nextSlide: "Επόμενη διαφάνεια"
 
 # Product download buttons
-downloadiOSFifteenAndFivePlus: "Λήψη για <strong>iOS 15.5+</strong>"
-downloadMacOStwelveAndFourPlus: "Λήψη για <strong>macOS 12.4+</strong>"
+downloadForiOS: "Λήψη για iOS"
+downloadForMacOS: "Λήψη για macOS"

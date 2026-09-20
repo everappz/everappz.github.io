@@ -52,14 +52,14 @@ Evertag adalah editor tag musik untuk iPhone dan Mac yang dikembangkan oleh Ever
 </div>
 
 {{< hextra/hero-button 
-  textKey="downloadiOSFifteenAndFivePlus"
+  textKey="downloadForiOS"
   link="https://apps.apple.com/app/apple-store/id1450763230?pt=95781850&ct=everappzcom&mt=8"
   icon="device-mobile" 
   style="margin-top:1rem;margin-right:1rem;"
 >}}
 
 {{< hextra/hero-button 
-  textKey="downloadMacOStwelveAndFourPlus"
+  textKey="downloadForMacOS"
   link="https://apps.apple.com/app/apple-store/id1594027661?pt=95781850&ct=everappzcom&mt=8"
   icon="desktop-computer" 
   style="margin-top:1rem;margin-right:1rem;"

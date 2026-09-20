@@ -107,5 +107,5 @@ previousSlide: "Forrige slide"
 nextSlide: "Næste slide"
 
 # Product download buttons
-downloadiOSFifteenAndFivePlus: "Download til <strong>iOS 15.5+</strong>"
-downloadMacOStwelveAndFourPlus: "Download til <strong>macOS 12.4+</strong>"
+downloadForiOS: "Download til iOS"
+downloadForMacOS: "Download til macOS"

@@ -107,5 +107,5 @@ previousSlide: "الشريحة السابقة"
 nextSlide: "الشريحة التالية"
 
 # Product download buttons
-downloadiOSFifteenAndFivePlus: "تنزيل لـ <strong>iOS 15.5+</strong>"
-downloadMacOStwelveAndFourPlus: "تنزيل لـ <strong>macOS 12.4+</strong>"
+downloadForiOS: "تنزيل لـ iOS"
+downloadForMacOS: "تنزيل لـ macOS"

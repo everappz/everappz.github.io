@@ -107,5 +107,5 @@ previousSlide: "Slide sebelumnya"
 nextSlide: "Slide berikutnya"
 
 # Product download buttons
-downloadiOSFifteenAndFivePlus: "Unduh untuk <strong>iOS 15.5+</strong>"
-downloadMacOStwelveAndFourPlus: "Unduh untuk <strong>macOS 12.4+</strong>"
+downloadForiOS: "Unduh untuk iOS"
+downloadForMacOS: "Unduh untuk macOS"
