@@ -64,7 +64,7 @@ Everdisk 是 Everappz 为 iPhone 和 iPad 打造的无线硬盘应用。它把�
 </div>
 
 {{< hextra/hero-button 
-  text="在 App Store 下载"
+  textKey="downloadiOSFifteenAndFivePlus"
   link="https://apps.apple.com/app/apple-store/id6751851132?pt=95781850&ct=everappzcom&mt=8"
   icon="device-mobile" 
   style="margin-top:1rem;margin-right:1rem;"

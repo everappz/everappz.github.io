@@ -64,7 +64,7 @@ Gjør iPhone eller iPad om til en trådløs disk&nbsp;<br class="hx:sm:block hx:
 </div>
 
 {{< hextra/hero-button 
-  text="Last ned i App Store"
+  textKey="downloadiOSFifteenAndFivePlus"
   link="https://apps.apple.com/app/apple-store/id6751851132?pt=95781850&ct=everappzcom&mt=8"
   icon="device-mobile" 
   style="margin-top:1rem;margin-right:1rem;"

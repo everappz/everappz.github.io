@@ -64,7 +64,7 @@ Alakítsd iPhone-odat vagy iPad-edet vezeték nélküli meghajtóvá&nbsp;<br cl
 </div>
 
 {{< hextra/hero-button 
-  text="Letöltés az App Store-ból"
+  textKey="downloadiOSFifteenAndFivePlus"
   link="https://apps.apple.com/app/apple-store/id6751851132?pt=95781850&ct=everappzcom&mt=8"
   icon="device-mobile" 
   style="margin-top:1rem;margin-right:1rem;"

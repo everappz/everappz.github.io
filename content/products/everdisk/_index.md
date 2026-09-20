@@ -66,7 +66,7 @@ Turn your iPhone or iPad into a wireless drive&nbsp;<br class="hx:sm:block hx:hi
 </div>
 
 {{< hextra/hero-button 
-  text="Download on the App Store"
+  textKey="downloadiOSFifteenAndFivePlus"
   link="https://apps.apple.com/app/apple-store/id6751851132?pt=95781850&ct=everappzcom&mt=8"
   icon="device-mobile" 
   style="margin-top:1rem;margin-right:1rem;"

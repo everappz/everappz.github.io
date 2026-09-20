@@ -64,7 +64,7 @@ Muuta iPhone tai iPad langattomaksi levyksi&nbsp;<br class="hx:sm:block hx:hidde
 </div>
 
 {{< hextra/hero-button 
-  text="Lataa App Storesta"
+  textKey="downloadiOSFifteenAndFivePlus"
   link="https://apps.apple.com/app/apple-store/id6751851132?pt=95781850&ct=everappzcom&mt=8"
   icon="device-mobile" 
   style="margin-top:1rem;margin-right:1rem;"
