@@ -275,49 +275,7 @@ Zamień iPhone lub iPad w bezprzewodowy dysk który udostępnia pliki <strong>ka
 <div class="hx:mt-6"></div>
 
 <div class="hx:w-full">
-{{< hextra/feature-grid cols="2">}}
-
-  {{< hextra/feature-card
-    title="Bezpłatnie"
-    class="pricing-card pricing-free"
-    subtitle=`<span class='pricing-details'>• Zamień urządzenie w bezprzewodowy dysk<br />
-• Pięć serwerów naraz: DLNA, HTTP, WebDAV, SMB, FTP<br />
-• Strumieniuj na smart TV, do przeglądarek i komputerów<br />
-• Podłączaj jako dysk sieciowy i przesyłaj przez USB<br />
-• Udostępniaj całą bibliotekę zdjęć i muzyki<br />
-• Łącz się z serwerami DLNA, WebDAV, FTP, SFTP i SMB<br />
-• Menedżer plików z pakowaniem i rozpakowywaniem<br />
-• Skanowanie dokumentów do PDF i pełne narzędzia PDF<br />
-• Adnotacje i podpisywanie plików PDF oraz zdjęć<br />
-• Ochrona hasłem i blokowanie urządzeń<br />
-• Do 5 udostępnianych folderów i 10 zapisanych połączeń</span><br /><br />
-<span class='hx:block hx:mt-2 hx:text-center'>
-  <span class='pricing-btn hx:inline-block hx:rounded-full hx:border hx:border-gray-200 hx:dark:border-neutral-800 hx:px-3 hx:py-1 hx:transition-all hx:duration-200'>
-    <strong>Bezpłatnie</strong>
-  </span>
-</span>`
-  >}}
-
-  {{< hextra/feature-card
-    title="Premium Lifetime"
-    class="pricing-card pricing-lifetime"
-    subtitle=`<span class='pricing-details'>• Wszystko z wersji bezpłatnej<br />
-• Nieograniczona liczba udostępnianych folderów (ponad 5)<br />
-• Nieograniczona liczba zapisanych połączeń (ponad 10)<br />
-• Konwersja zdjęć i wideo do zgodnego formatu lub mniejszego rozmiaru<br />
-• Szyfrowanie SMB3 (AES) dla prywatnego i bezpiecznego udostępniania<br />
-• Własne porty HTTP, WebDAV, SMB i FTP<br />
-• Automatyczne rozpoczęcie udostępniania po otwarciu aplikacji<br />
-• Personalizacja urządzenia: nazwa, ikona awatara, gradient lub zdjęcie<br />
-• Zakup jednorazowy - opłata raz, bez odnawiania</span><br /><br />
-<span class='hx:block hx:mt-2 hx:text-center'>
-  <span class='pricing-btn hx:inline-block hx:rounded-full hx:border hx:border-gray-200 hx:dark:border-neutral-800 hx:px-3 hx:py-1 hx:transition-all hx:duration-200'>
-    <strong>$9.99</strong>/dożywotnio
-  </span>
-</span>`
-  >}}
-
-{{< /hextra/feature-grid >}}
+{{< pricing-plans >}}
 
 </div>
 

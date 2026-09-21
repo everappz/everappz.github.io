@@ -275,49 +275,7 @@ Premeňte svoj iPhone alebo iPad na bezdrôtový disk ktorý zdieľa súbory s <
 <div class="hx:mt-6"></div>
 
 <div class="hx:w-full">
-{{< hextra/feature-grid cols="2">}}
-
-  {{< hextra/feature-card
-    title="Zadarmo"
-    class="pricing-card pricing-free"
-    subtitle=`<span class='pricing-details'>• Premeňte svoje zariadenie na bezdrôtový disk<br />
-• Päť serverov naraz: DLNA, HTTP, WebDAV, SMB, FTP<br />
-• Streamovanie do smart TV, prehliadačov a počítačov<br />
-• Pripojenie ako sieťový disk a prenos cez USB<br />
-• Zdieľanie celej knižnice fotiek a hudby<br />
-• Pripojenie k serverom DLNA, WebDAV, FTP, SFTP a SMB<br />
-• Správca súborov so zbalením a rozbalením<br />
-• Skenovanie dokumentov do PDF a kompletné nástroje pre PDF<br />
-• Anotovanie a podpisovanie PDF a fotiek<br />
-• Ochrana heslom a blokovanie zariadení<br />
-• Až 5 zdieľaných priečinkov a 10 uložených pripojení</span><br /><br />
-<span class='hx:block hx:mt-2 hx:text-center'>
-  <span class='pricing-btn hx:inline-block hx:rounded-full hx:border hx:border-gray-200 hx:dark:border-neutral-800 hx:px-3 hx:py-1 hx:transition-all hx:duration-200'>
-    <strong>Zadarmo</strong>
-  </span>
-</span>`
-  >}}
-
-  {{< hextra/feature-card
-    title="Premium Lifetime"
-    class="pricing-card pricing-lifetime"
-    subtitle=`<span class='pricing-details'>• Všetko z verzie Zadarmo<br />
-• Neobmedzený počet zdieľaných priečinkov (viac ako 5)<br />
-• Neobmedzený počet uložených pripojení (viac ako 10)<br />
-• Prevod fotiek a videí do kompatibilného formátu alebo menšej veľkosti<br />
-• Šifrovanie SMB3 (AES) pre súkromné a bezpečné zdieľanie<br />
-• Vlastné porty pre HTTP, WebDAV, SMB a FTP<br />
-• Automatické spustenie zdieľania pri otvorení aplikácie<br />
-• Prispôsobenie zariadenia: názov, avatar, gradient alebo fotka<br />
-• Jednorazový nákup - účtuje sa raz, nikdy sa neobnovuje</span><br /><br />
-<span class='hx:block hx:mt-2 hx:text-center'>
-  <span class='pricing-btn hx:inline-block hx:rounded-full hx:border hx:border-gray-200 hx:dark:border-neutral-800 hx:px-3 hx:py-1 hx:transition-all hx:duration-200'>
-    <strong>$9.99</strong>/doživotne
-  </span>
-</span>`
-  >}}
-
-{{< /hextra/feature-grid >}}
+{{< pricing-plans >}}
 
 </div>
 

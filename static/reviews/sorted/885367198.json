@@ -1,5 +1,825 @@
 [
   {
+    "country": "co",
+    "id": "14570532289",
+    "author": "nicopresa",
+    "rating": 3,
+    "title": "Error en la app",
+    "content": "Las canciones se devuelven solas después de la aplicación o van en una parte y se cortan en otra",
+    "date": "2026-09-19T18:54:59-07:00",
+    "version": "8.8"
+  },
+  {
+    "country": "pe",
+    "id": "14568990403",
+    "author": "Mtlaml",
+    "rating": 1,
+    "title": "No la recomiendo",
+    "content": "Pague el premiun y aun asi tengo 3 mil canciones y las listas solo reconocen y leen un parte. Tengo 300 en favoritos y solo me reproduce 100. No pasa nada. A quien le pido la devolución de lo pagado",
+    "date": "2026-09-19T09:41:06-07:00",
+    "version": "8.8"
+  },
+  {
+    "country": "ca",
+    "id": "14568364426",
+    "author": "A1iscoolguy",
+    "rating": 5,
+    "title": "Evermusic pro",
+    "content": "Hi having issues opening the app to play my music can u fix this issue the app works well on my iPad and MacBook Air but it will not open on my iPhone 16 pro it keeps crashing on my iPhone 16 Pro",
+    "date": "2026-09-19T06:46:04-07:00",
+    "version": "8.8"
+  },
+  {
+    "country": "us",
+    "id": "14566821487",
+    "author": "MCRedemptionz",
+    "rating": 3,
+    "title": "Mega offline doesn’t work",
+    "content": "Please fix mega offline download",
+    "date": "2026-09-18T21:06:57-07:00",
+    "version": "8.8"
+  },
+  {
+    "country": "tw",
+    "id": "14563225198",
+    "author": "偶是コマツ",
+    "rating": 1,
+    "title": "音樂一直斷掉",
+    "content": "更新之後音樂播到一半就一直斷掉\n非常後悔更新",
+    "date": "2026-09-17T23:52:49-07:00",
+    "version": "8.8"
+  },
+  {
+    "country": "cn",
+    "id": "14558768747",
+    "author": "来少大人",
+    "rating": 5,
+    "title": "最好用的播放器",
+    "content": "最好用的，没有之一",
+    "date": "2026-09-16T19:17:16-07:00",
+    "version": "8.8"
+  },
+  {
+    "country": "tr",
+    "id": "14541371318",
+    "author": "Mukush87",
+    "rating": 1,
+    "title": "Don’t spend money",
+    "content": "I’ve tried several music player apps like this, and honestly, many of them look almost identical, as if they were built from the same codebase or heavily copied from one another. The funny part is that they all charge different prices, seemingly depending on how ambitious the developer is.\nThis is already the third app I’ve tried with the exact same playback issue: if I start an album and skip through tracks, sooner or later playback freezes completely. The only way to recover is to tap the album cover again, after which the player resets back to the first track. \nThe same bug appears across multiple similar apps, which is very frustrating.\nBecause of this, I can’t recommend Evermusic, especially at this price. A music player should at least be able to switch tracks reliably.",
+    "date": "2026-09-12T08:06:05-07:00",
+    "version": "8.8"
+  },
+  {
+    "country": "fr",
+    "id": "14536107516",
+    "author": "TD93JVSMAKLOVE",
+    "rating": 3,
+    "title": "Support technique sans réponse",
+    "content": "J’ai un problème technique précis concernant les fichiers Offline d’Evermusic et leur prise en compte dans la sauvegarde iCloud de l’iPhone.\n\nJ’ai contacté le support par e-mail à plusieurs reprises, sans jamais recevoir de réponse.\n\nLes fichiers Offline d’Evermusic occupent environ 60 Go sur mon iPhone et semblent être inclus dans la « Taille de la prochaine sauvegarde » iCloud, alors qu’ils sont déjà présents sur pCloud et peuvent donc être téléchargés à nouveau.\n\nJe cherche simplement à savoir si ce comportement est volontaire ou s’il s’agit d’un bug, et s’il existe une solution pour conserver les fichiers Offline sur l’iPhone sans les inclure dans la sauvegarde iCloud.\n\nMerci au développeur de répondre directement à ce problème.",
+    "date": "2026-09-11T00:51:04-07:00",
+    "version": "8.8"
+  },
+  {
+    "country": "jp",
+    "id": "14535890345",
+    "author": "Dale un abrazo",
+    "rating": 5,
+    "title": "Very good",
+    "content": "Nice all right",
+    "date": "2026-09-10T23:09:26-07:00",
+    "version": "8.8"
+  },
+  {
+    "country": "nl",
+    "id": "14533931367",
+    "author": "reijerse",
+    "rating": 1,
+    "title": "De slechtste musicplayer",
+    "content": "In het begin gaat het goed, maar met meer dan ongeveer 800 albums gaat het volledig mis, voornamelijk een zeer slechte verbinding. Eindconclusie: waardeloze app, jammer.",
+    "date": "2026-09-10T10:21:03-07:00",
+    "version": "8.8"
+  },
+  {
+    "country": "it",
+    "id": "14524695742",
+    "author": "Locojazz",
+    "rating": 1,
+    "title": "piena di bachi",
+    "content": "una ciofeca assoluta, piena di bachi e la connessione con dropbox non funziona… ho provato a disinstallare e reinstallare diverse volte ma nulla. una perdita di tempo assoluta",
+    "date": "2026-09-08T03:11:36-07:00",
+    "version": "8.8"
+  },
+  {
+    "country": "in",
+    "id": "14524374949",
+    "author": "Wani2026",
+    "rating": 4,
+    "title": "Good App to play offline music",
+    "content": "I found this app very impressive as I was looking something simple and that works",
+    "date": "2026-09-08T00:45:06-07:00",
+    "version": "8.8"
+  },
+  {
+    "country": "de",
+    "id": "14512870037",
+    "author": "Sin add",
+    "rating": 5,
+    "title": "Great App",
+    "content": "Best App to listen your mp3 music",
+    "date": "2026-09-05T02:24:52-07:00",
+    "version": "8.8"
+  },
+  {
+    "country": "cn",
+    "id": "14502139091",
+    "author": "带投大鸽",
+    "rating": 5,
+    "title": "好用",
+    "content": "非常的好用",
+    "date": "2026-09-02T08:03:18-07:00",
+    "version": "8.8"
+  },
+  {
+    "country": "de",
+    "id": "14498913338",
+    "author": "020567",
+    "rating": 1,
+    "title": "Grauenhaft",
+    "content": "Selten so eine schlechte Software Ergonomie erlebt. Die Bedienung ist ein Graus. Nur was für Freaks.",
+    "date": "2026-09-01T11:49:18-07:00",
+    "version": "8.8"
+  },
+  {
+    "country": "us",
+    "id": "14492783867",
+    "author": "MONSIEUR LE BIEN",
+    "rating": 5,
+    "title": "Très Bon lecteur Audio",
+    "content": "Une panoplie des fonctionnalités intéressantes",
+    "date": "2026-08-30T23:41:41-07:00",
+    "version": "8.8"
+  },
+  {
+    "country": "us",
+    "id": "14490786240",
+    "author": "Sterculia",
+    "rating": 3,
+    "title": "too much advertising",
+    "content": "Ads every time I launch the app... no options, I switched to another app.",
+    "date": "2026-08-30T10:40:50-07:00",
+    "version": "8.8"
+  },
+  {
+    "country": "us",
+    "id": "14487380517",
+    "author": "PraiseJesus",
+    "rating": 1,
+    "title": "Poor UI",
+    "content": "Poor UI. Library is so hard to navigate. They need to have a UI like Documents App",
+    "date": "2026-08-29T13:40:16-07:00",
+    "version": "8.8"
+  },
+  {
+    "country": "es",
+    "id": "14485234270",
+    "author": "Naturama",
+    "rating": 5,
+    "title": "La Música Fantástica",
+    "content": "Gran opción para oír música",
+    "date": "2026-08-29T02:02:47-07:00",
+    "version": "8.8"
+  },
+  {
+    "country": "us",
+    "id": "14482095982",
+    "author": "L148663",
+    "rating": 1,
+    "title": "Not responsive, charged twice",
+    "content": "I used to LOVE this app and recommended it to so many people all the time, but when they raised their price for the yearly subscription (totally fine, I would’ve kept paying!) they ended up billing me multiple times - at the previous rate I paid and the new rate. I thought “sure, that’s a small issue with a simple solution,” yet I’ve reached out multiple times to get this sorted and get a refund for the erroneous subscriptions charges, keeping the active one. But I haven’t received a reply to any of my messages for going on 9 months! Obviously I am not renewing my subscription and will give Apple the feedback about this issue with their app because that’s absolutely crazy.",
+    "date": "2026-08-28T06:34:56-07:00",
+    "version": "8.8"
+  },
+  {
+    "country": "gb",
+    "id": "14478253912",
+    "author": "cucumbe_r",
+    "rating": 5,
+    "title": "Exactly what i was looking for",
+    "content": "Had been searching for an app to play my downloaded tracks for months- found this and was delighted to finally be able to listen to my music offline",
+    "date": "2026-08-27T06:50:11-07:00",
+    "version": "8.8"
+  },
+  {
+    "country": "tw",
+    "id": "14477704086",
+    "author": "fdklbcwipkcsfl",
+    "rating": 5,
+    "title": "好用的app",
+    "content": "使用容易方便，還能調整effects",
+    "date": "2026-08-27T03:57:26-07:00",
+    "version": "8.8"
+  },
+  {
+    "country": "rs",
+    "id": "14474724972",
+    "author": "Sleeplayer",
+    "rating": 5,
+    "title": "Yeah",
+    "content": "Best music app on iOs ever!",
+    "date": "2026-08-26T08:40:18-07:00",
+    "version": "8.8"
+  },
+  {
+    "country": "co",
+    "id": "14473505066",
+    "author": "papazeni",
+    "rating": 5,
+    "title": "La mejor aplicación de mp3",
+    "content": "Me cambió la forma de escuchar mis canciones preferidas en mi carro sin pagar",
+    "date": "2026-08-26T02:03:30-07:00",
+    "version": "8.8"
+  },
+  {
+    "country": "pl",
+    "id": "14473422262",
+    "author": "Edward Kstropf",
+    "rating": 2,
+    "title": "Słabo",
+    "content": "Aplikacja dla fascynatów ustawień. Bardzo nieintuicyjne to wszystko. Plus dodawanie mojej biblioteki (ok 1,5T) zajmie pewnie z miesiąc. A uruchomienie playlisty z około 160 piosenkami trwa ponad minutę. Plus za Last Fm ale to wszystko.",
+    "date": "2026-08-26T01:28:46-07:00",
+    "version": "8.8"
+  },
+  {
+    "country": "us",
+    "id": "14473295776",
+    "author": "Fast Prius",
+    "rating": 1,
+    "title": "If this is the best....",
+    "content": "This thing sucks. I have hundreds of albums I'm trying to import and as far as I can tell, you have to choose all of the songs individually.\nI tried to contact customer support twice with no response.",
+    "date": "2026-08-26T00:34:34-07:00",
+    "version": "8.8"
+  },
+  {
+    "country": "tw",
+    "id": "14472698680",
+    "author": "哈啊哈啊哈啊哈啊哈蛤",
+    "rating": 5,
+    "title": "非常好用的音樂app",
+    "content": "感謝開發者",
+    "date": "2026-08-25T20:10:35-07:00",
+    "version": "8.8"
+  },
+  {
+    "country": "us",
+    "id": "14468048575",
+    "author": "big shwarma",
+    "rating": 5,
+    "title": "Well im obsessed",
+    "content": "I recently quit spotify and I am IN LOVE WITH THIS APP! I love the fact that it works extremely consistently with Last.fm. I love the UI and file organization and the fact that you can change tags the in app. Also loving the easy to access equalizer and soundFX. The queue system is also amazing and such a game changer, and same with the feature to stop playing after the queue is done. I previously used the sleep timer for that on Spotify, which I thought this app didnt have, but it does, and it works well. I also LOVE the pitch and speed corrector, as a DJ, it works very well when I'm just listening to music on the fly and want to hear key or BPM changes. My only issue is that it sometimes pauses and restarts the whole somg, but its not often. Usually only when camera is activated.",
+    "date": "2026-08-24T15:19:32-07:00",
+    "version": "8.8"
+  },
+  {
+    "country": "us",
+    "id": "14465363688",
+    "author": "Sopochkin",
+    "rating": 5,
+    "title": "Noise during playback",
+    "content": "Jon Hopkins- Tayos Caves, Ecuador ii (flack) I turned on this track on different players and the noise is only in this.",
+    "date": "2026-08-23T23:36:12-07:00",
+    "version": "8.8"
+  },
+  {
+    "country": "cn",
+    "id": "14464530448",
+    "author": "麻辣生煎",
+    "rating": 4,
+    "title": "SMB不支持 ipv6",
+    "content": "无法通过ipv6地址访问在线smb服务，希望能添加支持🫰🏻",
+    "date": "2026-08-23T17:40:04-07:00",
+    "version": "8.8"
+  },
+  {
+    "country": "cl",
+    "id": "14463199332",
+    "author": "Hid0k",
+    "rating": 5,
+    "title": "Piola",
+    "content": "App piolilla",
+    "date": "2026-08-23T09:37:06-07:00",
+    "version": "8.8"
+  },
+  {
+    "country": "hk",
+    "id": "14461504987",
+    "author": "KungKimYeung",
+    "rating": 2,
+    "title": "經常選曲時閃退",
+    "content": "經常選曲時閃退",
+    "date": "2026-08-22T23:36:23-07:00",
+    "version": "8.8"
+  },
+  {
+    "country": "us",
+    "id": "14447910173",
+    "author": "musique c’est ma passion",
+    "rating": 5,
+    "title": "musique",
+    "content": "ma passion",
+    "date": "2026-08-19T11:54:44-07:00",
+    "version": "8.8"
+  },
+  {
+    "country": "us",
+    "id": "14446022606",
+    "author": "Evermusic Sucks",
+    "rating": 1,
+    "title": "Deceptively Terrible",
+    "content": "This app intentionally hides your most played Google Drive folder from being playable in Evermusic. Give it enough time and it WILL become a chore trying to locate and play your music using Evermusic.\n\nUPDATED: ever since I wrote a bad review of their product, the support team refuses to help solve the problem. So now I’m updated this to be a bad review of their product support as well as their product.",
+    "date": "2026-08-19T01:52:02-07:00",
+    "version": "8.8"
+  },
+  {
+    "country": "vn",
+    "id": "14441898275",
+    "author": "okla71557155",
+    "rating": 5,
+    "title": "Tốt",
+    "content": "Chuyển nhạc từ cloud về evermusic rất hay",
+    "date": "2026-08-18T01:05:17-07:00",
+    "version": "8.8"
+  },
+  {
+    "country": "vn",
+    "id": "14438861184",
+    "author": "cucuuuuu0187",
+    "rating": 5,
+    "title": "Ok",
+    "content": "Ok",
+    "date": "2026-08-17T06:48:08-07:00",
+    "version": "8.8"
+  },
+  {
+    "country": "de",
+    "id": "14434910886",
+    "author": "Ille008",
+    "rating": 5,
+    "title": "Einfach genial",
+    "content": "Hallöchen ich würde mir wünschen das Evermusic auch auf Apple TV kommt. Mir gefallen die neuen Visualisierungen die kürzlich mit dem Update hinzugefügt worden sind. Des weiteren finde ich die nahtlosen Übergänge zum nächsten Lied Super ☺️👍. Die ganzen Einstellungen die in dieser App möglich sind gefallen mir. Weiter so 👏",
+    "date": "2026-08-16T07:06:02-07:00",
+    "version": "8.8"
+  },
+  {
+    "country": "au",
+    "id": "14433500745",
+    "author": "bghjkjhbg hghcvg",
+    "rating": 3,
+    "title": "awesome player with BROKEN carplay",
+    "content": "it used to be great in carplay as well but now it shows a long list of options like library, recents etc etc what not on the carolay screen leaving you to navigate through the maze of presented options to find the one you need. no option in settings for carplay within the app to enable or disable the ones that you need or not need.",
+    "date": "2026-08-15T22:13:44-07:00",
+    "version": "8.8"
+  },
+  {
+    "country": "jp",
+    "id": "14433314409",
+    "author": "嘘をつかないレビュー",
+    "rating": 1,
+    "title": "悪質な広告の出し方で機能しなかった。",
+    "content": "アプリを開くと広告が全面に出現し、時間がカウントされCM広告を見終わると、×ボタンが出現し押すと、酷いことに2回目の広告を表示して更にタイムカウントが進む。最後に再び出現した×ボタンは押しても反応せずに、広告は消えない。\n\nわざわざアプリを落として再起動するが、また一からCM広告を見させられる。結果的に3回のCM広告を見せられる酷いやり方が、たまに起きる。\nこんな悪質極まりない開発者は、Appleに通報します。\n汚い工作をする広告をなんとかしてくれ。酷すぎる。",
+    "date": "2026-08-15T20:53:14-07:00",
+    "version": "8.8"
+  },
+  {
+    "country": "mx",
+    "id": "14433271002",
+    "author": "Luis cerba",
+    "rating": 4,
+    "title": "Casi excelente",
+    "content": "Evermusic me ha sorprendido mucho. La interfaz es muy intuitiva, tiene excelentes funciones para organizar y reproducir mi música y, sobre todo, funciona de maravilla con mi NAS mediante WebDAV. Para quienes tenemos nuestra propia biblioteca musical, es una excelente aplicación.\n\nSugiero agregar una cuenta de usuario que permita sincronizar la biblioteca de Evermusic entre dispositivos. De esta manera, mis playlists, favoritos y organización de la música podrían aparecer automáticamente en mi iPhone, iPad y Mac.\n\nCreo que esta función haría de Evermusic una solución excelente para quienes tenemos nuestra propia biblioteca musical y usamos varios dispositivos.",
+    "date": "2026-08-15T20:35:28-07:00",
+    "version": "8.8"
+  },
+  {
+    "country": "de",
+    "id": "14430295237",
+    "author": "HöllenhundHöllenhund",
+    "rating": 2,
+    "title": "Umlaute mit SFTP funktionieren nicht!",
+    "content": "Diese App teilt sich offenbar den Programmcode mit ihrer Schwester-App vom selben Hersteller, und leider auch deren größte Schwäche: Verbinde ich mich per SFTP mit meinem eigenen Server, werden Ordner und Dateien mit Umlauten schlicht nicht gefunden. Die App behauptet, sie existieren nicht, obwohl sie unzweifelhaft vorhanden sind.\n\nInteressant dabei, für die Verbindung per SMB wurde genau dieses Problem bereits in einer früheren Version behoben, wie der eigene Änderungsverlauf zeigt. Bei SFTP, das erst später als zusätzliches Protokoll hinzugefügt wurde, hat man diesen Punkt offenbar übersehen.\n\nDas wiegt bei einer kostenpflichtigen Premium-Version schwer. Die lebenslange Freischaltung kostet aktuell 69,99 Euro, das ist kein Betrag, den man mal eben nebenbei ausgibt, sondern eine Investition, für die man solide Grundfunktionen erwarten darf. SFTP ist zudem längst der Standard, wenn man von unterwegs auf einen eigenen Server zugreifen möchte, weil man aus Sicherheitsgründen heute keine offenen Ports mehr für unverschlüsselte Verbindungen wie SMB im Internet stehen lässt. Zahlreiche eigene Server und Speichersysteme bieten SFTP an, und ausgerechnet dort sollte der Zugriff reibungslos funktionieren.\n\nNicht zuletzt, wir leben in Deutschland, Umlaute gehören zu unserer Sprache. Eine über Jahre gewachsene Musiksammlung lässt sich nicht einfach umbenennen, nur damit eine App damit klarkommt.\n\nAngesichts dieser Umstände vergebe ich zwei von fünf Sternen, und selbst das ist schon großzügig bemessen.",
+    "date": "2026-08-15T03:44:19-07:00",
+    "version": "8.8"
+  },
+  {
+    "country": "kr",
+    "id": "14426326221",
+    "author": "팬더팬다",
+    "rating": 1,
+    "title": "구림",
+    "content": "구림",
+    "date": "2026-08-14T04:16:17-07:00",
+    "version": "8.8"
+  },
+  {
+    "country": "us",
+    "id": "14424850037",
+    "author": "Johnny",
+    "rating": 1,
+    "title": "Dies on Big Libraries",
+    "content": "Got about 15000 songs on a super fast drive and connector. This app just cannot for the life of it read in that many songs metadata and make the experience work. Indefinite loading, crashing, just an awful experience. Had high hopes.",
+    "date": "2026-08-13T18:26:09-07:00",
+    "version": "8.8"
+  },
+  {
+    "country": "ru",
+    "id": "14422265594",
+    "author": "Put burger",
+    "rating": 5,
+    "title": "Бесплатно",
+    "content": "Отличный, удобный, стильный оффлайн плеер - полностью удовлетворен. Порадовал встроенный эквалайзер и возможность ставить обложки на треки, а также добавлять их из разных мест, будь то папка на айфоне или просто файлик",
+    "date": "2026-08-13T04:09:12-07:00",
+    "version": "8.8"
+  },
+  {
+    "country": "us",
+    "id": "14416518271",
+    "author": "Gmost3000",
+    "rating": 5,
+    "title": "Excellent",
+    "content": "This is one of the best app so far.",
+    "date": "2026-08-11T16:54:41-07:00",
+    "version": "8.8"
+  },
+  {
+    "country": "nz",
+    "id": "14416116872",
+    "author": "Gandalf232",
+    "rating": 3,
+    "title": "latest update has broken gapless playback",
+    "content": "please fix!! gapless playback no longer working using either engine.",
+    "date": "2026-08-11T14:19:19-07:00",
+    "version": "8.8"
+  },
+  {
+    "country": "us",
+    "id": "14413144129",
+    "author": "Maxoe572837",
+    "rating": 5,
+    "title": "Great service",
+    "content": "Love this app!",
+    "date": "2026-08-10T21:36:11-07:00",
+    "version": "8.8"
+  },
+  {
+    "country": "us",
+    "id": "14410597141",
+    "author": "Not.taken.username",
+    "rating": 1,
+    "title": "Horrible",
+    "content": "How greedy could one company be?\nYou have ads, and then you go ahead and lock like half of the basic music player functions behind the premium version.\nI was enjoying the app despite its many flaws, but today was the last straw when i found out u could only have a few songs in your queue while suffling, so it means that only the top recent songs on my playlist plays and I’ll never hear the rest of them.\nI genuinely thought i had found ONE good music player on this godforsaken phone but apparently not.",
+    "date": "2026-08-10T06:46:59-07:00",
+    "version": "8.8"
+  },
+  {
+    "country": "zw",
+    "id": "14408563833",
+    "author": "1Ngara",
+    "rating": 1,
+    "title": "Not working great",
+    "content": "It doesn’t work with the dynamic island anymore. It doesn’t even appear in settings. Worse when playing music it doesn’t appear in lock screen or notifications, it only works in the app. It’s like someone is cutting this great application from the system.",
+    "date": "2026-08-09T17:29:33-07:00",
+    "version": "8.8"
+  },
+  {
+    "country": "jp",
+    "id": "14407056514",
+    "author": "マ〇コで〇ックス",
+    "rating": 4,
+    "title": "それ以外は完璧",
+    "content": "ものすごくいいアプリなんですが、音量を正規化を設定してると、曲の始まりがめちゃくちゃうるさくてめっちゃビビるんでそこ直して欲しいっす。途中から元の大きさになるんですけど、耳壊れるんで最初から設定した大きさにして欲しいです。",
+    "date": "2026-08-09T08:37:44-07:00",
+    "version": "8.8"
+  },
+  {
+    "country": "tw",
+    "id": "14402660781",
+    "author": "Lo龍",
+    "rating": 1,
+    "title": "變爛了",
+    "content": "之前自己的歌還可以聽，現在什麼都播放不了",
+    "date": "2026-08-08T05:36:24-07:00",
+    "version": "8.8"
+  },
+  {
+    "country": "us",
+    "id": "14401596041",
+    "author": "Zippperso",
+    "rating": 5,
+    "title": "Flawless companion",
+    "content": "Everything I need and want. I have no complaints. Thanks dev!!!!",
+    "date": "2026-08-07T22:17:35-07:00",
+    "version": "8.8"
+  },
+  {
+    "country": "nl",
+    "id": "14399295249",
+    "author": "Uppy live",
+    "rating": 5,
+    "title": "Flexible",
+    "content": "As musician easy for backing tracks",
+    "date": "2026-08-07T08:08:42-07:00",
+    "version": "8.8"
+  },
+  {
+    "country": "hr",
+    "id": "14398601266",
+    "author": "meromaruu",
+    "rating": 5,
+    "title": "🥹",
+    "content": "so fire gng ✌️",
+    "date": "2026-08-07T04:39:30-07:00",
+    "version": "8.8"
+  },
+  {
+    "country": "lb",
+    "id": "14397951039",
+    "author": "Oliver Chaker",
+    "rating": 5,
+    "title": "Loved it so much!",
+    "content": "The app is super good but can you please add support for Apple’s Music Haptics? Thank you.",
+    "date": "2026-08-07T00:22:26-07:00",
+    "version": "8.8"
+  },
+  {
+    "country": "us",
+    "id": "14397869301",
+    "author": "Steve B……",
+    "rating": 1,
+    "title": "Congratulations",
+    "content": "You ruined it. Now it doesn’t work. Thanks for taking my money though.",
+    "date": "2026-08-06T23:46:48-07:00",
+    "version": "8.8"
+  },
+  {
+    "country": "de",
+    "id": "14397832116",
+    "author": "ralfhungerland",
+    "rating": 5,
+    "title": "Mehr als nur eine App",
+    "content": "Ich nutze Evermusic schon seit mehreren Jahren. Für all die Musik, die ich auf meinen Geräten habe. Zuverlässig und übersichtlich. Und das offline. Danke das es Euch gibt.",
+    "date": "2026-08-06T23:30:29-07:00",
+    "version": "8.8"
+  },
+  {
+    "country": "ca",
+    "id": "14395970683",
+    "author": "can3789",
+    "rating": 5,
+    "title": "Super awesome and minimally invasive with ads",
+    "content": "Slick functional and clean.   Love crossfade and playlist capability.  Seamless and no buffering.  ✅🙏 👍",
+    "date": "2026-08-06T11:25:58-07:00",
+    "version": "8.8"
+  },
+  {
+    "country": "es",
+    "id": "14395461371",
+    "author": "Asier Mario",
+    "rating": 5,
+    "title": "Muy buena",
+    "content": "Realmente bien hecha.",
+    "date": "2026-08-06T08:47:26-07:00",
+    "version": "8.8"
+  },
+  {
+    "country": "hu",
+    "id": "14393877606",
+    "author": "Mártiiii",
+    "rating": 5,
+    "title": "Pefect for fitness class",
+    "content": "I absolutely love this app. As a Zumba instructor I use it during my classes because I can import mp3 files, create multiple playlists, rearrange the tracks however I like and seamlessly blend them together. I keep my phone in airplane mode during class, and the app still works perfectly. I couldn’t be more satisfied!",
+    "date": "2026-08-05T23:46:00-07:00",
+    "version": "8.8"
+  },
+  {
+    "country": "jp",
+    "id": "14393496387",
+    "author": "たやあやあなあはあないなあにあな",
+    "rating": 2,
+    "title": "文字化けしすぎ",
+    "content": "Googleドライブから曲を入れたのですが、半分以上の曲が文字化けしていて何もわかりません",
+    "date": "2026-08-05T21:00:10-07:00",
+    "version": "8.8"
+  },
+  {
+    "country": "us",
+    "id": "14393052230",
+    "author": "kayle3456",
+    "rating": 5,
+    "title": "Best one I had!",
+    "content": "Thank you for giving me an app to customize and play my music on!",
+    "date": "2026-08-05T18:08:42-07:00",
+    "version": "8.8"
+  },
+  {
+    "country": "us",
+    "id": "14392991240",
+    "author": "Dear Martha",
+    "rating": 5,
+    "title": "Works great",
+    "content": "I’m always updating my music mixes.  I can easily add the latest update to any of my folders and eq to understand how I want to adjust the next iteration.\nMy only wish would be to be able to eq each track separately.\nOtherwise, it’s great and has improved throughout the years.",
+    "date": "2026-08-05T17:45:42-07:00",
+    "version": "8.8"
+  },
+  {
+    "country": "jp",
+    "id": "14390520392",
+    "author": "ハンドルネ",
+    "rating": 4,
+    "title": "とても良いですが…",
+    "content": "横長のアルバムアートの左右が切れてしまいます。ズームされない設定があると嬉しいです",
+    "date": "2026-08-05T04:17:27-07:00",
+    "version": "8.8"
+  },
+  {
+    "country": "us",
+    "id": "14389587635",
+    "author": "NameWasUsed",
+    "rating": 1,
+    "title": "Literal scam",
+    "content": "I subscribed to the seven day free trial that’s supposed to be $12.99 and my card was immediately charged for $9.99. This is insane how is this allowed",
+    "date": "2026-08-04T22:04:28-07:00",
+    "version": "8.7"
+  },
+  {
+    "country": "tr",
+    "id": "14386574060",
+    "author": "kara_gospodnya",
+    "rating": 5,
+    "title": "Отличия",
+    "content": "И чем Evermusic от Flacbox отличается? Цветом иконок?",
+    "date": "2026-08-04T05:05:13-07:00",
+    "version": "8.7"
+  },
+  {
+    "country": "us",
+    "id": "14384042490",
+    "author": "i have a music addiction",
+    "rating": 3,
+    "title": "not working",
+    "content": "this was working for a few weeks but when i came back from my trip, it would only play one specific song and nothing else. i tried shuffling but it still only played that one song. i spent hours transferring music and now i cant listen. maybe i had too many songs? idk but i hope it gets fixed",
+    "date": "2026-08-03T12:58:36-07:00",
+    "version": "8.7"
+  },
+  {
+    "country": "us",
+    "id": "14383466683",
+    "author": "PBHALL!",
+    "rating": 5,
+    "title": "Easy and Efficient",
+    "content": "Keep the audio quality well, based off of how compressed the file is. Good quality and easy to navigate. Didn't pay any attention to the tutorial. Still found what I need to click super easy!! Great app. Will use alot. Got over 600 songs in under an hour!!",
+    "date": "2026-08-03T09:57:09-07:00",
+    "version": "8.7"
+  },
+  {
+    "country": "au",
+    "id": "14381145964",
+    "author": "Avi203",
+    "rating": 5,
+    "title": "Best Free App",
+    "content": "Impressed with what we can do with free version.",
+    "date": "2026-08-02T20:31:41-07:00",
+    "version": "8.7"
+  },
+  {
+    "country": "ec",
+    "id": "14378085958",
+    "author": "1964&",
+    "rating": 5,
+    "title": "Pedro José",
+    "content": "Feliz Jose",
+    "date": "2026-08-02T03:06:17-07:00",
+    "version": "8.7"
+  },
+  {
+    "country": "de",
+    "id": "14378075234",
+    "author": "HFFM80",
+    "rating": 1,
+    "title": "Login at OneDrive does not work.",
+    "content": "Says it needs more cookies",
+    "date": "2026-08-02T03:02:02-07:00",
+    "version": "8.7"
+  },
+  {
+    "country": "br",
+    "id": "14377570452",
+    "author": "Ydeh_0809",
+    "rating": 5,
+    "title": "Ótimo!",
+    "content": "Achei um aplicativo revolucionário e muito bem otimizado, seu sistema de nuvem por WiFi é diferente e bem otimizado, gostei bastante. Logo irei assinar o plano anual! 🤩🤩",
+    "date": "2026-08-01T23:36:01-07:00",
+    "version": "8.7"
+  },
+  {
+    "country": "ca",
+    "id": "14376116880",
+    "author": "ageste",
+    "rating": 4,
+    "title": "Bug issues",
+    "content": "This is a really good free app to use, and it has so much to offer, but recently I’ve used the new feature to add lyrics to a song, like it works on Spotify, and now I can’t play any other song I downloaded except the one I added the lyrics to. Pls fix this\nGreat app overall\n\nEdit; nvm I also just put every original download of the song I had in files in the trash, and when I recovered them from  the trash, they all worked and started playing 😭",
+    "date": "2026-08-01T13:56:53-07:00",
+    "version": "8.7"
+  },
+  {
+    "country": "fr",
+    "id": "14365507242",
+    "author": "2555674577",
+    "rating": 5,
+    "title": "Worth using",
+    "content": "Free version is sufficient, friendly user interface",
+    "date": "2026-07-30T00:29:48-07:00",
+    "version": "8.7"
+  },
+  {
+    "country": "pa",
+    "id": "14365234019",
+    "author": "Ricauter089",
+    "rating": 5,
+    "title": "Recomendaciones",
+    "content": "Esta genial,la recomiendo,tiene funciónes increíbles,y para los archivos mp3 está excelente",
+    "date": "2026-07-29T22:34:09-07:00",
+    "version": "8.7"
+  },
+  {
+    "country": "ca",
+    "id": "14359917735",
+    "author": "Quybonmat",
+    "rating": 5,
+    "title": "Best free music player on ios",
+    "content": "Load tons of premium functions with short ads to watch, the music scroll in track to find exact spot, load your own music from cloud service like box, drive...",
+    "date": "2026-07-28T14:17:04-07:00",
+    "version": "8.7"
+  },
+  {
+    "country": "vn",
+    "id": "14359042053",
+    "author": "osiris orin",
+    "rating": 1,
+    "title": "tao đã kiểm",
+    "content": "app như cái lồn lũ óc làm app súc vật tuyệt chủng  con mẹ mày đi",
+    "date": "2026-07-28T09:29:28-07:00",
+    "version": "8.7"
+  },
+  {
+    "country": "ng",
+    "id": "14349420553",
+    "author": "Jerryjfk2026",
+    "rating": 1,
+    "title": "Absolute Trasss",
+    "content": "This is useless",
+    "date": "2026-07-26T00:45:07-07:00",
+    "version": "8.7"
+  },
+  {
+    "country": "jp",
+    "id": "14349096878",
+    "author": "にゃんこんにゃく",
+    "rating": 3,
+    "title": "たまに再生されない時ある",
+    "content": "ついこの間まで聴けてた音楽が再生できなくなることあるので改善して欲しいです😢\nめちゃくちゃこのアプリ愛用してるのでそれだけ治してくれましたら(＞人＜;)",
+    "date": "2026-07-25T22:26:55-07:00",
+    "version": "8.7"
+  },
+  {
+    "country": "kr",
+    "id": "14342889597",
+    "author": "핡굵읹맑잀읅숡읶닭",
+    "rating": 1,
+    "title": "이거때문에 노래듣다가 계속 놀라요ㅜ",
+    "content": "앱 안에 자그마한 광고가 나오는데 광고가 나오면 갑자기 노래소리가 최대로 커져요.. 화장하면서 노래듣다가 소리 최대가됐는데 놀라서 화장품깨졋습니다..ㅠㅠ\n이것만 빼면 좋은앱인데 막 무작위로 커질때도 있더라고요.. 노래 틀기만해도 커질때도있고, 노래 잘 듣고 있는 중에도 갑자기 커져서 놀랄때도있었어요.. 제발!!!!! 가장 심각한 단점입니다!!!\n이거 빼고는 다 좋은데 이거때메 귀먹을뻔한적이 너무 많아서 무서워서 이걸로 노래를 못듣겠어여!!ㅜㅜ",
+    "date": "2026-07-24T08:22:05-07:00",
+    "version": "8.7"
+  },
+  {
+    "country": "de",
+    "id": "14339591875",
+    "author": "Spitzname 34",
+    "rating": 1,
+    "title": "Erst stark, dann stark nachgelassen",
+    "content": "Ich habe mir vor einigen Monaten Evermusic heruntergeladen, um von meinem iPhone Musik, direkt von meinem Synology NAS zu hören. Anfangs ging es problemlos. Nach dem tollen großen Update vor zwei Wochen geht nun gar nichts mehr. Habe mit der Hilfe von KI alles mögliche versucht. Ebenfalls den Support kontaktiert. Leider keine Rückmeldung. Ich bin nun auf ein Konkurrenzprodukt gewechselt. Wer eine Anwendung ähnlich meiner sucht, sollte besser eine andere App erwähnen.",
+    "date": "2026-07-23T12:09:04-07:00",
+    "version": "8.7"
+  },
+  {
+    "country": "kz",
+    "id": "14333119982",
+    "author": "Eloy228",
+    "rating": 5,
+    "title": "Хороший аудио плеер",
+    "content": "Удобный редактор тегов",
+    "date": "2026-07-21T22:35:58-07:00",
+    "version": "8.7"
+  },
+  {
     "country": "us",
     "id": "14325526651",
     "author": "JBlader1",
@@ -298,6 +1118,16 @@
     "content": "The addition of Audio Effect has completely elevated my music experience within the app exponentially! I usually don’t write reviews, but this update is worth writing about and the 5 stars.",
     "date": "2026-07-04T21:58:28-07:00",
     "version": "8.7"
+  },
+  {
+    "country": "br",
+    "id": "14262361211",
+    "author": "Matheus G11",
+    "rating": 5,
+    "title": "THE BEST",
+    "content": "O melhor que eu encontrei o melhor!!!",
+    "date": "2026-07-04T07:49:13-07:00",
+    "version": "8.6"
   },
   {
     "country": "ca",
@@ -650,6 +1480,16 @@
     "version": "8.6"
   },
   {
+    "country": "br",
+    "id": "14122871429",
+    "author": "Gamerwanted",
+    "rating": 2,
+    "title": "Funciona às vezes",
+    "content": "Aplicativo antigamente era melhor, mas ultimamente tem simplesmente parado de rodar as faixas e com isso perdi vários materiais de estudo que tinha salvado no aplicativo porque ele simplesmente não roda mais você salva o áudio você queria a playlist e ele simplesmente para de funcionar depois de um tempo ou às vezes escolhe o áudio que ele quer rodar.",
+    "date": "2026-05-30T03:41:32-07:00",
+    "version": "8.6"
+  },
+  {
     "country": "us",
     "id": "14120668728",
     "author": "mlf_91",
@@ -897,6 +1737,16 @@
     "title": "Beste Player App",
     "content": "Nutze die App schon seit vielen Jahren, um von überall auf meine Bibliothek zugreifen zu können. Das funktioniert einfach hervorragend! 🙂 Das neue Design für Car Play gefällt mir sehr gut!! Vielen Dank!!",
     "date": "2026-05-14T04:31:31-07:00",
+    "version": "8.6"
+  },
+  {
+    "country": "br",
+    "id": "14062975323",
+    "author": "Marquinho SB",
+    "rating": 5,
+    "title": "Minha avaliação",
+    "content": "Ótimo app para quem tem coleção de músicas em pastas como eu, o único defeito são as propagandas.",
+    "date": "2026-05-14T03:21:44-07:00",
     "version": "8.6"
   },
   {

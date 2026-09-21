@@ -275,49 +275,7 @@ Everdisk คือแอปไดรฟ์ไร้สายสำหรับ i
 <div class="hx:mt-6"></div>
 
 <div class="hx:w-full">
-{{< hextra/feature-grid cols="2">}}
-
-  {{< hextra/feature-card
-    title="ฟรี"
-    class="pricing-card pricing-free"
-    subtitle=`<span class='pricing-details'>• เปลี่ยนอุปกรณ์ของคุณให้เป็นไดรฟ์ไร้สาย<br />
-• ห้าเซิร์ฟเวอร์ในคราวเดียว: DLNA, HTTP, WebDAV, SMB, FTP<br />
-• สตรีมขึ้นสมาร์ททีวี เบราว์เซอร์ และคอมพิวเตอร์<br />
-• เชื่อมต่อเป็นไดรฟ์เครือข่ายและโอนผ่าน USB<br />
-• แชร์คลังรูปภาพและเพลงทั้งหมดของคุณ<br />
-• เชื่อมต่อกับเซิร์ฟเวอร์ DLNA, WebDAV, FTP, SFTP และ SMB<br />
-• ตัวจัดการไฟล์พร้อมบีบอัดและแตกไฟล์ zip<br />
-• สแกนเอกสารเป็น PDF และเครื่องมือ PDF ครบชุด<br />
-• มาร์กอัปและเซ็นชื่อ PDF และรูปภาพ<br />
-• ป้องกันด้วยรหัสผ่านและบล็อกอุปกรณ์<br />
-• แชร์ได้สูงสุด 5 โฟลเดอร์ และบันทึกการเชื่อมต่อได้ 10 รายการ</span><br /><br />
-<span class='hx:block hx:mt-2 hx:text-center'>
-  <span class='pricing-btn hx:inline-block hx:rounded-full hx:border hx:border-gray-200 hx:dark:border-neutral-800 hx:px-3 hx:py-1 hx:transition-all hx:duration-200'>
-    <strong>ฟรี</strong>
-  </span>
-</span>`
-  >}}
-
-  {{< hextra/feature-card
-    title="Premium Lifetime"
-    class="pricing-card pricing-lifetime"
-    subtitle=`<span class='pricing-details'>• ทุกอย่างในแพ็กเกจฟรี<br />
-• โฟลเดอร์แชร์ไม่จำกัด (มากกว่า 5)<br />
-• การเชื่อมต่อที่บันทึกไว้ไม่จำกัด (มากกว่า 10)<br />
-• แปลงรูปภาพและวิดีโอเป็นรูปแบบที่เข้ากันได้หรือขนาดเล็กลง<br />
-• การเข้ารหัส SMB3 (AES) เพื่อการแชร์ที่เป็นส่วนตัวและปลอดภัย<br />
-• พอร์ต HTTP, WebDAV, SMB และ FTP แบบกำหนดเอง<br />
-• เริ่มแชร์อัตโนมัติเมื่อคุณเปิดแอป<br />
-• ปรับแต่งอุปกรณ์: ชื่อ ไอคอนอวาตาร์ ไล่เฉดสีหรือรูปภาพ<br />
-• ซื้อครั้งเดียว - จ่ายครั้งเดียว ไม่มีการต่ออายุ</span><br /><br />
-<span class='hx:block hx:mt-2 hx:text-center'>
-  <span class='pricing-btn hx:inline-block hx:rounded-full hx:border hx:border-gray-200 hx:dark:border-neutral-800 hx:px-3 hx:py-1 hx:transition-all hx:duration-200'>
-    <strong>$9.99</strong>/ตลอดชีพ
-  </span>
-</span>`
-  >}}
-
-{{< /hextra/feature-grid >}}
+{{< pricing-plans >}}
 
 </div>
 

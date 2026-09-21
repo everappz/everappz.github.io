@@ -1,0 +1,42 @@
+[
+  {
+    "country": "no",
+    "id": "14093068014",
+    "author": "bartinboy",
+    "rating": 5,
+    "title": "Jellyfin support",
+    "content": "Thanx for jellyfin support its great",
+    "date": "2026-05-22T07:08:52-07:00",
+    "version": "8.6"
+  },
+  {
+    "country": "no",
+    "id": "6894015760",
+    "author": "Marcel Julek",
+    "rating": 5,
+    "title": "Polecam",
+    "content": "Polecam Very Good 👌🏻💪🏻",
+    "date": "2021-01-20T15:45:31-07:00",
+    "version": "4.5"
+  },
+  {
+    "country": "no",
+    "id": "3207104529",
+    "author": "diskre",
+    "rating": 5,
+    "title": "Great",
+    "content": "Has become my favorite.",
+    "date": "2018-09-19T09:40:11-07:00",
+    "version": "3.2"
+  },
+  {
+    "country": "no",
+    "id": "1383582869",
+    "author": "Baltazhar",
+    "rating": 3,
+    "title": "Bedre på iPad",
+    "content": "Jeg liker denne appen på iPad, men den blir litt knotete å bruke på iPhone.",
+    "date": "2016-05-24T15:22:01-07:00",
+    "version": "2.2"
+  }
+]

@@ -275,49 +275,7 @@ Converteix el teu iPhone o iPad en una unitat sense fils que comparteix arxius a
 <div class="hx:mt-6"></div>
 
 <div class="hx:w-full">
-{{< hextra/feature-grid cols="2">}}
-
-  {{< hextra/feature-card
-    title="Gratis"
-    class="pricing-card pricing-free"
-    subtitle=`<span class='pricing-details'>• Converteix el teu dispositiu en una unitat sense fils<br />
-• Cinc servidors alhora: DLNA, HTTP, WebDAV, SMB, FTP<br />
-• Reprodueix a televisors intel·ligents, navegadors i ordinadors<br />
-• Munta com a unitat de xarxa i transfereix per USB<br />
-• Comparteix tota la teva biblioteca de fotos i música<br />
-• Connecta't a servidors DLNA, WebDAV, FTP, SFTP i SMB<br />
-• Gestor d'arxius amb comprimir i descomprimir<br />
-• Escaneja documents a PDF i eines PDF completes<br />
-• Anota i signa PDF i fotos<br />
-• Protecció amb contrasenya i bloqueig de dispositius<br />
-• Fins a 5 carpetes compartides i 10 connexions desades</span><br /><br />
-<span class='hx:block hx:mt-2 hx:text-center'>
-  <span class='pricing-btn hx:inline-block hx:rounded-full hx:border hx:border-gray-200 hx:dark:border-neutral-800 hx:px-3 hx:py-1 hx:transition-all hx:duration-200'>
-    <strong>Gratis</strong>
-  </span>
-</span>`
-  >}}
-
-  {{< hextra/feature-card
-    title="Premium de per vida"
-    class="pricing-card pricing-lifetime"
-    subtitle=`<span class='pricing-details'>• Tot el que inclou la versió gratis<br />
-• Carpetes compartides il·limitades (més de 5)<br />
-• Connexions desades il·limitades (més de 10)<br />
-• Conversió de fotos i vídeos a un format compatible o de mida més petita<br />
-• Xifratge SMB3 (AES) per a una compartició privada i segura<br />
-• Ports HTTP, WebDAV, SMB i FTP personalitzats<br />
-• Inici automàtic de la compartició en obrir l'app<br />
-• Personalització del dispositiu: nom, icona d'avatar, degradat o foto<br />
-• Compra única - es cobra un sol cop, mai no es renova</span><br /><br />
-<span class='hx:block hx:mt-2 hx:text-center'>
-  <span class='pricing-btn hx:inline-block hx:rounded-full hx:border hx:border-gray-200 hx:dark:border-neutral-800 hx:px-3 hx:py-1 hx:transition-all hx:duration-200'>
-    <strong>$9.99</strong>/de per vida
-  </span>
-</span>`
-  >}}
-
-{{< /hextra/feature-grid >}}
+{{< pricing-plans >}}
 
 </div>
 

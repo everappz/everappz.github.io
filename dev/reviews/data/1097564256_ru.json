@@ -758,5 +758,75 @@
     "content": "Постоянно зависает, грузит по полчаса выбранную песню, другие плеера работают нормально",
     "date": "2026-04-20T09:23:11-07:00",
     "version": "7.3"
+  },
+  {
+    "country": "ru",
+    "id": "14558956969",
+    "author": "gelmasisys",
+    "rating": 3,
+    "title": "Ошибка воспроизведения",
+    "content": "Слушая музыку , после переключения композиции с экрана воспроизведения пропадает время воспроизведения ,исполнитель и название трека,при попытке переключить дальше ничего не происходит. Нажимая на плэй альбом начинается заново.",
+    "date": "2026-09-16T20:37:52-07:00",
+    "version": "7.6"
+  },
+  {
+    "country": "ru",
+    "id": "14540145553",
+    "author": "Magic Mushro0m",
+    "rating": 1,
+    "title": "Убили приложение",
+    "content": "Был прекрасный бесплатный плеер…а теперь платная помойка( туда это приложение и отправляется -> на помойку!!!",
+    "date": "2026-09-12T01:24:24-07:00",
+    "version": "7.6"
+  },
+  {
+    "country": "ru",
+    "id": "14487283013",
+    "author": "Frol992",
+    "rating": 5,
+    "title": "Вы лучшие!",
+    "content": "Разработчикам большое спасибо за труд!Очень качественное приложение 👍",
+    "date": "2026-08-29T13:04:28-07:00",
+    "version": "7.6"
+  },
+  {
+    "country": "ru",
+    "id": "14431610109",
+    "author": "Адольф+Гитлер",
+    "rating": 3,
+    "title": "!!!",
+    "content": "Please improve the main Albums library.\nAlbums should be identified by Album + Years, rather than Album Name alone. Currently, albums by different artists with the same title are merged into one album, which can cause the wrong year and artwork to be displayed.\nPlease also add proper sorting/grouping by Year and make sure that each album keeps and displays its own embedded cover artwork.\nIdeally, the main Albums library should work like:\nArtist → Album → Year → Cover\nFor example:\nArtist A — Live — 2019 — Cover A\nArtist B — Live — 2021 — Cover B\nArtist C — Live — 2024 — Cover C\nAlbums with identical names but different artists, years, or covers should never be merged into one album.\nRequested album sorting/grouping: Album + Artist/Album Artist + Year + Cover.\nThe existing Solo Albums feature is useful, but it does not solve the problem in the main Albums library.",
+    "date": "2026-08-15T10:20:11-07:00",
+    "version": "7.6"
+  },
+  {
+    "country": "ru",
+    "id": "14406826974",
+    "author": "fryyuuy",
+    "rating": 5,
+    "title": "Caching in the cloud audio player doesn't work!",
+    "content": "1. Audio track caching in the audio player doesn't work when connecting to cloud storage via API (neither Google nor Yandex). (Upd: NOT fixed)\n2. If the volume slider is removed in the audio player's personalization settings, the down arrow and comment button stop working. (Upd: fixed! Thx!)",
+    "date": "2026-08-09T07:29:42-07:00",
+    "version": "7.6"
+  },
+  {
+    "country": "ru",
+    "id": "14361761044",
+    "author": "ivan.bunin1870",
+    "rating": 5,
+    "title": "Полный экран как",
+    "content": "как сделать на айфоне чтобы проигрыватель был на весь экран",
+    "date": "2026-07-29T02:30:24-07:00",
+    "version": "7.6"
+  },
+  {
+    "country": "ru",
+    "id": "14344614732",
+    "author": "Gal1989+",
+    "rating": 3,
+    "title": "Исправьте ошибки",
+    "content": "Последнее обновление хуже чем было,начал тупить плеер то остановится сам то начинает плейлист сначала,,исправьте ошибки",
+    "date": "2026-07-24T18:32:41-07:00",
+    "version": "7.6"
   }
 ]

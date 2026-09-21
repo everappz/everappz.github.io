@@ -275,49 +275,7 @@ iPhone veya iPad cihazınızı, dosyaları <strong>ağınızdaki her cihazla</st
 <div class="hx:mt-6"></div>
 
 <div class="hx:w-full">
-{{< hextra/feature-grid cols="2">}}
-
-  {{< hextra/feature-card
-    title="Ücretsiz"
-    class="pricing-card pricing-free"
-    subtitle=`<span class='pricing-details'>• Cihazınızı kablosuz bir sürücüye dönüştürün<br />
-• Aynı anda beş sunucu: DLNA, HTTP, WebDAV, SMB, FTP<br />
-• Akıllı TV'lere, tarayıcılara ve bilgisayarlara yayın yapın<br />
-• Ağ sürücüsü olarak bağlayın ve USB üzerinden aktarın<br />
-• Tüm fotoğraf ve müzik kitaplığınızı paylaşın<br />
-• DLNA, WebDAV, FTP, SFTP ve SMB sunucularına bağlanın<br />
-• Sıkıştırma ve açma özellikli dosya yöneticisi<br />
-• Belgeleri PDF'e tarama ve eksiksiz PDF araçları<br />
-• PDF ve fotoğraflara işaretleme ve imza ekleme<br />
-• Parola koruması ve cihaz engelleme<br />
-• 5 paylaşılan klasöre ve 10 kayıtlı bağlantıya kadar</span><br /><br />
-<span class='hx:block hx:mt-2 hx:text-center'>
-  <span class='pricing-btn hx:inline-block hx:rounded-full hx:border hx:border-gray-200 hx:dark:border-neutral-800 hx:px-3 hx:py-1 hx:transition-all hx:duration-200'>
-    <strong>Ücretsiz</strong>
-  </span>
-</span>`
-  >}}
-
-  {{< hextra/feature-card
-    title="Premium Ömür Boyu"
-    class="pricing-card pricing-lifetime"
-    subtitle=`<span class='pricing-details'>• Ücretsiz sürümdeki her şey<br />
-• Sınırsız paylaşılan klasör (5'ten fazla)<br />
-• Sınırsız kayıtlı bağlantı (10'dan fazla)<br />
-• Fotoğraf ve videoyu uyumlu bir biçime veya daha küçük boyuta dönüştürme<br />
-• Gizli, güvenli paylaşım için SMB3 şifrelemesi (AES)<br />
-• Özel HTTP, WebDAV, SMB ve FTP bağlantı noktaları<br />
-• Uygulamayı açtığınızda paylaşımı otomatik başlatma<br />
-• Cihaz özelleştirme: ad, avatar simgesi, gradyan veya fotoğraf<br />
-• Tek seferlik satın alma - bir kez ödenir, asla yenilenmez</span><br /><br />
-<span class='hx:block hx:mt-2 hx:text-center'>
-  <span class='pricing-btn hx:inline-block hx:rounded-full hx:border hx:border-gray-200 hx:dark:border-neutral-800 hx:px-3 hx:py-1 hx:transition-all hx:duration-200'>
-    <strong>$9.99</strong>/ömür boyu
-  </span>
-</span>`
-  >}}
-
-{{< /hextra/feature-grid >}}
+{{< pricing-plans >}}
 
 </div>
 

@@ -398,5 +398,15 @@
     "content": "Mükemmel",
     "date": "2026-06-29T10:18:30-07:00",
     "version": "7.5"
+  },
+  {
+    "country": "tr",
+    "id": "14339781929",
+    "author": "Kolyanoid",
+    "rating": 4,
+    "title": "Last fm",
+    "content": "Uygulamayı uzun süre kullandıktan sonra hayal kırıklığına uğradım. Müzik istatistiklerine önem veren biri olarak en büyük sorun, scrobbling özelliğinin düzgün çalışmaması. Parçayı sonuna kadar dinlemeden veya belirli bir eşiği geçmeden (ya da sık sık parça değiştirdiğinizde) Last.fm geçmişine hiçbir şey kaydedilmiyor. Şarkıların anlık olarak, havadayken işlenmesini bekliyorsunuz ama uygulama katı kurallara takılıyor ve dinleme geçmişiniz eksik kalıyor. Tam ve esnek bir müzik takibi için maalesef yetersiz, bu yüzden beklentimi karşılamadı.",
+    "date": "2026-07-23T13:14:15-07:00",
+    "version": "7.6"
   }
 ]

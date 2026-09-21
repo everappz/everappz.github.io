@@ -174,17 +174,7 @@ App Store评论
 
 <div class="hx:w-full">
 
-{{< hextra/feature-grid cols="4">}}
-
-  {{< hextra/feature-card title="免费" class="pricing-card pricing-free" subtitle=`<span class='pricing-details'>• 包含广告<br />• 播放列表 (10)<br />• 云服务 (3)<br />• 归档媒体收藏 (3)<br />• 收藏夹 (1000)<br />• 播放列表中的歌曲 (1000)<br />• 队列中的歌曲 (750)<br />• 离线文件夹 (1)<br />• 离线专辑 (1)<br />• 自动标签搜索 (20)<br />• 导出到M3U (5)<br />• 下载文件</span><br /><br /><span class='hx:block hx:mt-2 hx:text-center'><span class='pricing-btn hx:inline-block hx:rounded-full hx:border hx:border-gray-200 hx:dark:border-neutral-800 hx:px-3 hx:py-1 hx:transition-all hx:duration-200'><strong>免费</strong></span></span>` >}}
-
-  {{< hextra/feature-card title="Premium月度" class="pricing-card pricing-subscription" subtitle=`<span class='pricing-details'>• 无广告体验<br />• 无限播放列表<br />• 无限云服务<br />• 无限媒体归档<br />• 无限收藏夹<br />• 播放列表中无限歌曲<br />• 队列中无限歌曲<br />• 无限离线文件夹<br />• 无限离线专辑<br />• 无限标签搜索<br />• 无限M3U导出<br />• 下载文件<br />• 下载文件夹<br />• 下载收藏<br />• 完全个性化</span><br /><br /><span class='hx:block hx:mt-2 hx:text-center'><span class='pricing-btn hx:inline-block hx:rounded-full hx:border hx:border-gray-200 hx:dark:border-neutral-800 hx:px-3 hx:py-1 hx:transition-all hx:duration-200'><strong>$2.99</strong>/月</span></span>` >}}
-
-  {{< hextra/feature-card title="Premium年度" class="pricing-card pricing-subscription" subtitle=`<span class='pricing-details'>• 无广告体验<br />• 无限播放列表<br />• 无限云服务<br />• 无限媒体归档<br />• 无限收藏夹<br />• 播放列表中无限歌曲<br />• 队列中无限歌曲<br />• 无限离线文件夹<br />• 无限离线专辑<br />• 无限标签搜索<br />• 无限M3U导出<br />• 下载文件<br />• 下载文件夹<br />• 下载收藏<br />• 完全个性化</span><br /><br /><span class='hx:block hx:mt-2 hx:text-center'><span class='pricing-btn hx:inline-block hx:rounded-full hx:border hx:border-gray-200 hx:dark:border-neutral-800 hx:px-3 hx:py-1 hx:transition-all hx:duration-200'><strong>$19.99</strong>/年</span></span>` >}}
-
-  {{< hextra/feature-card title="Premium终身" class="pricing-card pricing-lifetime" subtitle=`<span class='pricing-details'>• 无广告体验<br />• 无限播放列表<br />• 无限云服务<br />• 无限媒体归档<br />• 无限收藏夹<br />• 播放列表中无限歌曲<br />• 队列中无限歌曲<br />• 无限离线文件夹<br />• 无限离线专辑<br />• 无限标签搜索<br />• 无限M3U导出<br />• 下载文件<br />• 下载文件夹<br />• 下载收藏<br />• 完全个性化</span><br /><br /><span class='hx:block hx:mt-2 hx:text-center'><span class='pricing-btn hx:inline-block hx:rounded-full hx:border hx:border-gray-200 hx:dark:border-neutral-800 hx:px-3 hx:py-1 hx:transition-all hx:duration-200'><strong>$69.99</strong>/终身</span></span>` >}}
-
-{{< /hextra/feature-grid >}}
+{{< pricing-plans >}}
 
 </div>
 

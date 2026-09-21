@@ -1,0 +1,52 @@
+[
+  {
+    "country": "sa",
+    "id": "8143249743",
+    "author": "تطبيق افضل من الرائع",
+    "rating": 1,
+    "title": "مشكلة مع اللغه العربيه",
+    "content": "سبق وارسلت لكم في حسابك على تويتر \nتوجد مشكله مع اللغه العربيه في تحرير العلامات الصوتيه",
+    "date": "2021-12-18T06:10:06-07:00",
+    "version": "4.8"
+  },
+  {
+    "country": "sa",
+    "id": "5261562723",
+    "author": "Abade MM",
+    "rating": 5,
+    "title": "I like it",
+    "content": "It's great app ⭐️⭐️⭐️⭐️⭐️",
+    "date": "2019-12-11T17:53:20-07:00",
+    "version": "3.9"
+  },
+  {
+    "country": "sa",
+    "id": "1820961356",
+    "author": "abmhe",
+    "rating": 4,
+    "title": "Good",
+    "content": "Very good",
+    "date": "2017-10-01T08:42:56-07:00",
+    "version": "2.9"
+  },
+  {
+    "country": "sa",
+    "id": "1664016916",
+    "author": "ابو مشاري 1234567890",
+    "rating": 5,
+    "title": "ممتاز",
+    "content": "احسن برنامج",
+    "date": "2017-06-30T13:55:50-07:00",
+    "version": "2.9"
+  },
+  {
+    "country": "sa",
+    "id": "1357287525",
+    "author": "Saflin.",
+    "rating": 5,
+    "title": "Great",
+    "content": "Really great. Streaming is fantastic without any break",
+    "date": "2016-04-02T01:11:22-07:00",
+    "version": "2.2"
+  }
+]

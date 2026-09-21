@@ -6,8 +6,9 @@ import urllib.request
 import urllib.error
 from pathlib import Path
 
+from catalog import load_apps
+
 SCRIPT_DIR = Path(__file__).parent
-APPS_FILE = SCRIPT_DIR / "apps.json"
 DATA_DIR = SCRIPT_DIR / "data"
 MAX_REVIEWS = 50
 MAX_PAGES = 10  # RSS feed supports pages 1–10 (50 reviews per page)
@@ -169,13 +170,13 @@ def fetch_all_reviews(app_id, country, max_reviews):
 
 
 def main():
-    apps = json.loads(APPS_FILE.read_text())
+    apps = load_apps()
     DATA_DIR.mkdir(exist_ok=True)
 
     total_files = 0
     total_reviews = 0
 
-    for app_name, app_id in apps.items():
+    for app_id, app_name in apps.items():
         for country in COUNTRIES:
             print(f"  {app_name} (id={app_id}) [{country}] ", end="", flush=True)
             reviews = fetch_all_reviews(app_id, country, MAX_REVIEWS)

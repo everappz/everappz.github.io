@@ -258,5 +258,25 @@
     "content": "This utility does connect to my NAS, however the ability to sort by artist or album is horribly configured. I really wish I could recommend it, but from my experience, I just can’t.",
     "date": "2026-05-08T18:07:26-07:00",
     "version": "7.3"
+  },
+  {
+    "country": "us",
+    "id": "14495459030",
+    "author": "AlBlackwell",
+    "rating": 1,
+    "title": "No support response, Shuffle Does Not Work",
+    "content": "Use free app Foobar2000 if you want to play FLACs, MP3 etc. With this app, shuffle doesn’t work. Imagine putting a bunch of songs on the app, hitting shuffle and it plays a couple songs and then stops playing. You click play again and it starts from the beginning same songs and then stops. You try all things possible, clearing queue, reinstall app, deleting and putting all songs back and still the same thing. I asked for help after paying for lifetime subscription and not a single response. What a waste of money! What’s the point of a music app that doesn’t shuffle? Should’ve been one of the first things to make work on a music app!!!",
+    "date": "2026-08-31T14:55:20-07:00",
+    "version": "7.6"
+  },
+  {
+    "country": "us",
+    "id": "14357936915",
+    "author": "Paul Mina",
+    "rating": 1,
+    "title": "Not for the Mac",
+    "content": "This app is not designed to handle large music libraries and lacks features other players do so well like Swinsian. If you have a large music collection this is not the app for you. Developer started this app on iOS and thought to release a Mac version. It shows!",
+    "date": "2026-07-28T04:00:41-07:00",
+    "version": "7.6"
   }
 ]

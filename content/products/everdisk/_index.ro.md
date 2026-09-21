@@ -275,49 +275,7 @@ Transformă-ți iPhone-ul sau iPad-ul într-un disc wireless care partajează fi
 <div class="hx:mt-6"></div>
 
 <div class="hx:w-full">
-{{< hextra/feature-grid cols="2">}}
-
-  {{< hextra/feature-card
-    title="Gratuit"
-    class="pricing-card pricing-free"
-    subtitle=`<span class='pricing-details'>• Transformă-ți dispozitivul într-un disc wireless<br />
-• Cinci servere deodată: DLNA, HTTP, WebDAV, SMB, FTP<br />
-• Streaming pe televizoare smart, browsere și computere<br />
-• Montare ca disc de rețea și transfer prin USB<br />
-• Partajarea întregii biblioteci de fotografii și muzică<br />
-• Conectare la servere DLNA, WebDAV, FTP, SFTP și SMB<br />
-• Manager de fișiere cu arhivare și dezarhivare<br />
-• Scanare documente în PDF și instrumente PDF complete<br />
-• Adnotare și semnare PDF-uri și fotografii<br />
-• Protecție cu parolă și blocare dispozitive<br />
-• Până la 5 foldere partajate și 10 conexiuni salvate</span><br /><br />
-<span class='hx:block hx:mt-2 hx:text-center'>
-  <span class='pricing-btn hx:inline-block hx:rounded-full hx:border hx:border-gray-200 hx:dark:border-neutral-800 hx:px-3 hx:py-1 hx:transition-all hx:duration-200'>
-    <strong>Gratuit</strong>
-  </span>
-</span>`
-  >}}
-
-  {{< hextra/feature-card
-    title="Premium Lifetime"
-    class="pricing-card pricing-lifetime"
-    subtitle=`<span class='pricing-details'>• Tot ce include planul Gratuit<br />
-• Foldere partajate nelimitate (mai mult de 5)<br />
-• Conexiuni salvate nelimitate (mai mult de 10)<br />
-• Conversia fotografiilor și videoclipurilor într-un format compatibil sau dimensiune mai mică<br />
-• Criptare SMB3 (AES) pentru partajare privată și sigură<br />
-• Porturi HTTP, WebDAV, SMB și FTP personalizate<br />
-• Pornire automată a partajării când deschizi aplicația<br />
-• Personalizarea dispozitivului: nume, pictogramă avatar, gradient sau fotografie<br />
-• Achiziție unică - se plătește o dată, nu se reînnoiește niciodată</span><br /><br />
-<span class='hx:block hx:mt-2 hx:text-center'>
-  <span class='pricing-btn hx:inline-block hx:rounded-full hx:border hx:border-gray-200 hx:dark:border-neutral-800 hx:px-3 hx:py-1 hx:transition-all hx:duration-200'>
-    <strong>$9.99</strong>/pe viață
-  </span>
-</span>`
-  >}}
-
-{{< /hextra/feature-grid >}}
+{{< pricing-plans >}}
 
 </div>
 

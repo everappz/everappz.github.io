@@ -1,0 +1,62 @@
+[
+  {
+    "country": "co",
+    "id": "9847726423",
+    "author": "Ericonieto",
+    "rating": 5,
+    "title": "Music alternative",
+    "content": "Is a great alternative for those already have a music collection in the cloud and want to hear it again!",
+    "date": "2023-04-21T22:14:17-07:00",
+    "version": "5.1"
+  },
+  {
+    "country": "co",
+    "id": "3236403166",
+    "author": "Gabriel20000",
+    "rating": 5,
+    "title": "Excelent",
+    "content": "Please correct the Airplay through Apple TV. It doesn’t work very well.",
+    "date": "2018-09-27T08:23:37-07:00",
+    "version": "3.3"
+  },
+  {
+    "country": "co",
+    "id": "3046888469",
+    "author": "Joraloz",
+    "rating": 5,
+    "title": "Excelente",
+    "content": "Muy buena aplicación felicidades.",
+    "date": "2018-08-10T15:42:42-07:00",
+    "version": "3.2"
+  },
+  {
+    "country": "co",
+    "id": "2956534823",
+    "author": "Balui8",
+    "rating": 4,
+    "title": "Esta si funciona",
+    "content": "Hola\nEs una sorprendente aplicación \n\n1. Se reinicia demasiado\n2. Desactive la descarga de covers para que no se me bloqueara \n3. Compre las dos versiones, desde la app evermusic y la pro la primera es malísima me cierra cada rato al leer metadatos y siento que perdió mi dinero .\n4. corrijan el reinicio al reproducir canciones.\n5. si le tengo en segundo plano se cierra.\n\nTengo un iPhone 6plus",
+    "date": "2018-07-23T12:26:12-07:00",
+    "version": "3.1"
+  },
+  {
+    "country": "co",
+    "id": "1598200362",
+    "author": "SIlvio Guevara",
+    "rating": 5,
+    "title": "Excelente aplicación",
+    "content": "La estoy usando con Airplay de Apple tv y música en la nube de Google Drive y es excelente. No carga la memoria del iPad o iPhone pues la música sólo está en la nube. Obviamente requiere tener una conexión WiFi para no utilizar el plan de datos. Ideal para usar en vez de iTunes en el hogar o donde exista buena conexión WiFi.",
+    "date": "2017-04-26T07:35:09-07:00",
+    "version": "2.8"
+  },
+  {
+    "country": "co",
+    "id": "1246749034",
+    "author": "Armejia",
+    "rating": 5,
+    "title": "Muy buena",
+    "content": "Excelente aplicación. Funciona como dice.",
+    "date": "2015-08-21T21:42:01-07:00",
+    "version": "2.0"
+  }
+]

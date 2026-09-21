@@ -275,49 +275,7 @@ Transforme o seu iPhone ou iPad numa drive sem fios que partilha ficheiros com <
 <div class="hx:mt-6"></div>
 
 <div class="hx:w-full">
-{{< hextra/feature-grid cols="2">}}
-
-  {{< hextra/feature-card
-    title="Gratuito"
-    class="pricing-card pricing-free"
-    subtitle=`<span class='pricing-details'>• Transforme o seu dispositivo numa drive sem fios<br />
-• Cinco servidores em simultaneo: DLNA, HTTP, WebDAV, SMB, FTP<br />
-• Transmita para smart TVs, navegadores e computadores<br />
-• Monte como drive de rede e transfira por USB<br />
-• Partilhe toda a sua biblioteca de fotografias e musica<br />
-• Ligue-se a servidores DLNA, WebDAV, FTP, SFTP e SMB<br />
-• Gestor de ficheiros com zip e unzip<br />
-• Digitalize documentos para PDF e ferramentas de PDF completas<br />
-• Anote e assine PDFs e fotografias<br />
-• Protecao por palavra-passe e bloqueio de dispositivos<br />
-• Ate 5 pastas partilhadas e 10 ligacoes guardadas</span><br /><br />
-<span class='hx:block hx:mt-2 hx:text-center'>
-  <span class='pricing-btn hx:inline-block hx:rounded-full hx:border hx:border-gray-200 hx:dark:border-neutral-800 hx:px-3 hx:py-1 hx:transition-all hx:duration-200'>
-    <strong>Gratuito</strong>
-  </span>
-</span>`
-  >}}
-
-  {{< hextra/feature-card
-    title="Premium Vitalicio"
-    class="pricing-card pricing-lifetime"
-    subtitle=`<span class='pricing-details'>• Tudo o que esta no Gratuito<br />
-• Pastas partilhadas ilimitadas (mais de 5)<br />
-• Ligacoes guardadas ilimitadas (mais de 10)<br />
-• Conversao de fotografias e video para um formato compativel ou tamanho menor<br />
-• Encriptacao SMB3 (AES) para partilha privada e segura<br />
-• Portas HTTP, WebDAV, SMB e FTP personalizadas<br />
-• Inicio automatico da partilha ao abrir a aplicacao<br />
-• Personalizacao do dispositivo: nome, icone de avatar, gradiente ou fotografia<br />
-• Compra unica - cobrada uma vez, nunca renova</span><br /><br />
-<span class='hx:block hx:mt-2 hx:text-center'>
-  <span class='pricing-btn hx:inline-block hx:rounded-full hx:border hx:border-gray-200 hx:dark:border-neutral-800 hx:px-3 hx:py-1 hx:transition-all hx:duration-200'>
-    <strong>$9.99</strong>/vitalicio
-  </span>
-</span>`
-  >}}
-
-{{< /hextra/feature-grid >}}
+{{< pricing-plans >}}
 
 </div>
 

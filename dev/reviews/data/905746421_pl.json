@@ -1,0 +1,62 @@
+[
+  {
+    "country": "pl",
+    "id": "6550659404",
+    "author": "bobbrze",
+    "rating": 1,
+    "title": "pcloud",
+    "content": "Nie działa w carplay z pcloud.",
+    "date": "2020-10-19T00:45:22-07:00",
+    "version": "4.2"
+  },
+  {
+    "country": "pl",
+    "id": "3216331196",
+    "author": "Radoslavo",
+    "rating": 5,
+    "title": "SMB share now works !",
+    "content": "Thanks for fixing this bug. Now SMB share works.",
+    "date": "2018-09-22T00:03:16-07:00",
+    "version": "3.3"
+  },
+  {
+    "country": "pl",
+    "id": "2336752417",
+    "author": "Frantz Wołoch",
+    "rating": 5,
+    "title": "Sort Playlist",
+    "content": "it is not possible to segregate the playlist at will - it sorts alphabetically 🤢",
+    "date": "2018-03-23T02:48:20-07:00",
+    "version": "3.0"
+  },
+  {
+    "country": "pl",
+    "id": "1175512122",
+    "author": "Piot3R",
+    "rating": 5,
+    "title": "Super Aplikacja 🎵",
+    "content": "Robi to co powinna 😍",
+    "date": "2015-03-30T12:43:53-07:00",
+    "version": "1.7"
+  },
+  {
+    "country": "pl",
+    "id": "1169256704",
+    "author": "Bieniubox",
+    "rating": 5,
+    "title": "Ok",
+    "content": "Ok",
+    "date": "2015-03-17T03:30:07-07:00",
+    "version": "1.7"
+  },
+  {
+    "country": "pl",
+    "id": "1168549020",
+    "author": "poradek",
+    "rating": 5,
+    "title": "idealny",
+    "content": "polecam działa świetnie ;)",
+    "date": "2015-03-15T15:35:17-07:00",
+    "version": "1.7"
+  }
+]

@@ -464,3 +464,199 @@ details a {
     width: auto;
     display: block;
 }
+
+/* ── Pricing cards: title, feature tags, and buy button ──
+   Title matches the App Information heading style (centered, bold).
+   Each feature is a tag styled like the app-details detail-item, with a
+   hover border in the card's tier color (--hover-color). The buy button is
+   full-width with a tinted default background that fills with the tier color
+   on hover (handled by the existing .pricing-card:hover .pricing-btn rule). */
+.pricing-card .pricing-title {
+    font-size: 1.9rem;
+    font-weight: 800;
+    letter-spacing: -0.02em;
+    text-align: center;
+    margin: 0 0 1rem;
+}
+.pricing-card .pricing-features {
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    gap: 0.4rem;
+    margin-bottom: 1rem;
+}
+.pricing-card .pricing-feature {
+    display: flex;
+    align-items: center;
+    gap: 0.6rem;
+    background: #f5f5f7;
+    border-radius: 10px;
+    padding: 8px 12px;
+    text-align: left;
+    font-size: 0.8rem;
+    color: #374151;
+}
+:is(.dark) .pricing-card .pricing-feature {
+    background: #1c1c22;
+    color: #d1d5db;
+}
+.pricing-card .pf-icon {
+    flex-shrink: 0;
+    display: inline-flex;
+    color: var(--hover-color);
+}
+.pricing-card .pf-text {
+    display: flex;
+    flex-direction: column;
+    min-width: 0;
+    line-height: 1.25;
+}
+.pricing-card .pf-value {
+    font-weight: 700;
+    font-size: 0.72rem;
+    opacity: 0.85;
+}
+.pricing-card .pricing-btn {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    min-height: 3.25rem;      /* uniform height — fits the 2-line "7 days free…" case */
+    padding: 0.4rem 0.6rem;
+    border-radius: 9999px;
+    text-align: center;
+    font-size: 1.1rem;
+    line-height: 1.25;
+    border: 1px solid color-mix(in srgb, var(--hover-color) 35%, transparent);
+    background-color: color-mix(in srgb, var(--hover-color) 14%, transparent);
+    transition: all 0.2s ease;
+}
+
+/* --- Data-driven pricing plans (pricing-plans shortcode) ------------------
+   New layout: feature title on the left, limit value on the right.
+   Numbers and the "unavailable" (X) icon are red; the "available" (V) and
+   "unlimited" (∞) markers use the plan's tint colour (--hover-color).
+   Scoped to .pricing-plans so the legacy .pricing-card layout is untouched. */
+/* Reserve two lines for the plan title so feature rows start at the same
+   y-position across all cards, even when a longer title (e.g. "Premium
+   Monthly") wraps to two lines and a shorter one ("Free") does not. */
+.pricing-plans .pricing-title {
+    line-height: 1.15;
+    min-height: 2.3em; /* two lines at the title's own font-size */
+    color: var(--hover-color); /* always tinted; unchanged on hover */
+}
+.pricing-plans .pricing-card:hover .pricing-title {
+    color: var(--hover-color) !important;
+}
+.pricing-plans .pricing-feature {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 0.75rem;
+    min-height: 2.5rem; /* uniform tag height across every card */
+}
+.pricing-plans .pf-title {
+    text-align: left;
+    min-width: 0;
+}
+.pricing-plans .pf-limit {
+    flex-shrink: 0;
+    display: inline-flex;
+    align-items: center;
+    justify-content: flex-end;
+    min-width: 2.25rem;
+    font-weight: 700;
+    font-variant-numeric: tabular-nums;
+}
+.pricing-plans .pf-num,
+.pricing-plans .pf-x {
+    color: #ef4444;
+}
+.pricing-plans .pf-v,
+.pricing-plans .pf-u {
+    color: var(--hover-color);
+}
+.pricing-plans .pf-limit svg {
+    width: 1.15rem;
+    height: 1.15rem;
+    display: block;
+}
+.pricing-plans .pf-u svg {
+    width: 1.4rem; /* infinity glyph reads smaller, so bump it slightly */
+    height: 1.4rem;
+}
+/* Button is an <a> here — solid tinted pill, unchanged on hover. */
+.pricing-plans a.pricing-btn,
+.pricing-plans a.pricing-btn:hover,
+.pricing-plans .pricing-card:hover a.pricing-btn {
+    text-decoration: none;
+    font-weight: 700;
+    background-color: var(--hover-color) !important;
+    border-color: var(--hover-color) !important;
+    color: #fff !important;
+}
+/* Free plan: monochrome inverted button — black on light theme, white on dark. */
+.pricing-plans .pricing-free a.pricing-btn,
+.pricing-plans .pricing-free a.pricing-btn:hover,
+.pricing-plans .pricing-free.pricing-card:hover a.pricing-btn {
+    background-color: #000 !important;
+    border-color: #000 !important;
+    color: #fff !important;
+}
+:is(.dark) .pricing-plans .pricing-free a.pricing-btn,
+:is(.dark) .pricing-plans .pricing-free a.pricing-btn:hover,
+:is(.dark) .pricing-plans .pricing-free.pricing-card:hover a.pricing-btn {
+    background-color: #fff !important;
+    border-color: #fff !important;
+    color: #000 !important;
+}
+
+/* --- Hover states -------------------------------------------------------- */
+.pricing-plans .pricing-card {
+    transition: box-shadow 0.2s ease, border-color 0.2s ease;
+}
+.pricing-plans .pricing-card::before {
+    transition: background 0.2s ease;
+}
+
+/* Premium plans: subtle tinted background + shadow on hover, like other cards. */
+.pricing-plans .pricing-subscription.pricing-card:hover,
+.pricing-plans .pricing-lifetime.pricing-card:hover {
+    box-shadow: 0 10px 24px -10px rgba(0, 0, 0, 0.18);
+}
+.pricing-plans .pricing-subscription.pricing-card:hover::before,
+.pricing-plans .pricing-lifetime.pricing-card:hover::before {
+    background: color-mix(in srgb, var(--hover-color) 12%, transparent);
+}
+:is(.dark) .pricing-plans .pricing-subscription.pricing-card:hover,
+:is(.dark) .pricing-plans .pricing-lifetime.pricing-card:hover {
+    box-shadow: 0 12px 28px -10px rgba(0, 0, 0, 0.6);
+}
+
+/* Free plan title: monochrome — black on light theme, white on dark theme
+   (normal and hover, unchanged on hover). */
+.pricing-plans .pricing-free .pricing-title,
+.pricing-plans .pricing-free.pricing-card:hover .pricing-title {
+    color: #000 !important;
+}
+:is(.dark) .pricing-plans .pricing-free .pricing-title,
+:is(.dark) .pricing-plans .pricing-free.pricing-card:hover .pricing-title {
+    color: #fff !important;
+}
+
+/* Free plan card: exact feature-card treatment (neutral border, shadow and
+   overlay) rather than the tinted premium style — for both themes. */
+.pricing-plans .pricing-free.pricing-card:hover {
+    border-color: #d1d5db !important; /* gray-300, matches hextra-feature-card */
+    box-shadow: 0 10px 24px -10px rgba(0, 0, 0, 0.18);
+}
+.pricing-plans .pricing-free.pricing-card:hover::before {
+    background: rgba(0, 0, 0, 0.04);
+}
+:is(.dark) .pricing-plans .pricing-free.pricing-card:hover {
+    border-color: #404040 !important; /* neutral-700, matches hextra-feature-card */
+    box-shadow: 0 12px 28px -10px rgba(0, 0, 0, 0.6);
+}
+:is(.dark) .pricing-plans .pricing-free.pricing-card:hover::before {
+    background: rgba(255, 255, 255, 0.05);
+}

@@ -648,5 +648,35 @@
     "content": "Mir fehlen für die vollen 5* zwei wichtige Features. Zum einen GAPLESS PLAYBACK, was übrigens evermusic vom selben Entwickler (!?!) kann und die Möglichkeit die Tags für ein komplettes Album in einem Rutsch zu bearbeiten OHNE zusätzliche App (Evertag). Ich sehe irgendwie nicht ein mir noch eine App vom Entwickler zu laden und ein zusätzliches Abo abzuschließen zu müssen.",
     "date": "2026-04-18T04:41:27-07:00",
     "version": "7.3"
+  },
+  {
+    "country": "de",
+    "id": "14430244641",
+    "author": "HöllenhundHöllenhund",
+    "rating": 2,
+    "title": "Probleme mit Umlauten bei SFTP",
+    "content": "Die App überzeugt technisch in vielen Bereichen, doch ein grundlegendes Problem trübt den Gesamteindruck erheblich: Verzeichnisse und Dateien mit Umlauten werden bei einer SFTP-Verbindung nicht gefunden, die App meldet fälschlicherweise, dass sie nicht existieren. Bei anderen unterstützten Protokollen wie SMB wurde dieses Problem laut eigenem Änderungsverlauf bereits behoben, bei SFTP jedoch bislang nicht.\n\nDas ist bei einer Premium-Version, für die rund 80 Euro bezahlt werden, schlicht enttäuschend. Für einen solchen Preis darf man erwarten, dass grundlegende Funktionen zuverlässig über alle unterstützten Protokolle hinweg funktionieren, bevor eine App zur Veröffentlichung freigegeben wird. Eine gewisse Sorgfalt sollte bei einem kostenpflichtigen Produkt dieser Preisklasse selbstverständlich sein.\n\nGerade SFTP ist heute der Standard für den Zugriff auf eigene Server und Speicherlösungen, weil aus Sicherheitsgründen kaum noch jemand Ports für unverschlüsselte Verbindungen wie SMB offen im Internet stehen lässt. Zahlreiche Speichersysteme und Server bieten SFTP an, und genau dort sollte ein reibungsloser Zugriff ohne Einschränkungen möglich sein.\n\nNicht zuletzt sei angemerkt, dass wir hier in Deutschland leben, und Umlaute ein selbstverständlicher Bestandteil unserer Sprache sind. Ein Musik- beziehungsweise Hörspielarchiv, das über Jahre gewachsen ist, lässt sich nicht einfach umbenennen, nur damit eine App damit zurechtkommt. Hier wäre eine baldige Korrektur wünschenswert.",
+    "date": "2026-08-15T03:25:06-07:00",
+    "version": "7.6"
+  },
+  {
+    "country": "de",
+    "id": "14382741687",
+    "author": "spitzmausch",
+    "rating": 2,
+    "title": "Immer noch schlimme Fehler",
+    "content": "Neu in Version 7.6: Macht man in CarPlay den Fehler, ein Lied mittels Titel zu suchen, wird man feststellen, dass der Suchindex nur bis Anfangsbuchstabe B reicht. Und danach kommt man nicht mehr zur Dateinavigation zurück. Nie mehr. Sehr toll. Hauptsache, die Werbung wird immer aufdringlicher 🤮",
+    "date": "2026-08-03T06:33:28-07:00",
+    "version": "7.6"
+  },
+  {
+    "country": "de",
+    "id": "14334798494",
+    "author": "MarcoVerden",
+    "rating": 5,
+    "title": "Top",
+    "content": "Professionelle Player-App, die keine Wünsche offen lässt. Insbesondere auch für diejenigen endlich mal eine brauchbare App, die eigene Recordings machen (Mixes, Produktionen usw.) - einfach in die Nextcloud packen oder auf das iPhone hochladen und im Auto oder beim Joggen genießen :-)",
+    "date": "2026-07-22T08:26:08-07:00",
+    "version": "7.5"
   }
 ]

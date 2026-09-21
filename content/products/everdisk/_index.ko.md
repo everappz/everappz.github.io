@@ -275,49 +275,7 @@ iPhone이나 iPad를 무선 드라이브로 바꿔 <strong>네트워크의 모�
 <div class="hx:mt-6"></div>
 
 <div class="hx:w-full">
-{{< hextra/feature-grid cols="2">}}
-
-  {{< hextra/feature-card
-    title="무료"
-    class="pricing-card pricing-free"
-    subtitle=`<span class='pricing-details'>• 기기를 무선 드라이브로 전환<br />
-• 서버 5개 동시 실행: DLNA, HTTP, WebDAV, SMB, FTP<br />
-• 스마트 TV, 브라우저, 컴퓨터에 스트리밍<br />
-• 네트워크 드라이브로 마운트하고 USB로 전송<br />
-• 사진과 음악 라이브러리 전체 공유<br />
-• DLNA, WebDAV, FTP, SFTP, SMB 서버에 연결<br />
-• 압축과 압축 해제가 되는 파일 관리자<br />
-• 문서를 PDF로 스캔하고 전체 PDF 도구 사용<br />
-• PDF와 사진에 마크업하고 서명<br />
-• 비밀번호 보호와 기기 차단<br />
-• 공유 폴더 최대 5개, 저장 연결 최대 10개</span><br /><br />
-<span class='hx:block hx:mt-2 hx:text-center'>
-  <span class='pricing-btn hx:inline-block hx:rounded-full hx:border hx:border-gray-200 hx:dark:border-neutral-800 hx:px-3 hx:py-1 hx:transition-all hx:duration-200'>
-    <strong>무료</strong>
-  </span>
-</span>`
-  >}}
-
-  {{< hextra/feature-card
-    title="Premium Lifetime"
-    class="pricing-card pricing-lifetime"
-    subtitle=`<span class='pricing-details'>• 무료의 모든 기능<br />
-• 무제한 공유 폴더 (5개 초과)<br />
-• 무제한 저장 연결 (10개 초과)<br />
-• 사진 &amp; 동영상을 호환 형식이나 더 작은 크기로 변환<br />
-• 비공개이고 안전한 공유를 위한 SMB3 암호화(AES)<br />
-• 사용자 지정 HTTP, WebDAV, SMB, FTP 포트<br />
-• 앱을 열면 공유 자동 시작<br />
-• 기기 맞춤 설정: 이름, 아바타 아이콘, 그라디언트 또는 사진<br />
-• 일회성 구매 - 한 번만 결제되고 갱신되지 않습니다</span><br /><br />
-<span class='hx:block hx:mt-2 hx:text-center'>
-  <span class='pricing-btn hx:inline-block hx:rounded-full hx:border hx:border-gray-200 hx:dark:border-neutral-800 hx:px-3 hx:py-1 hx:transition-all hx:duration-200'>
-    <strong>$9.99</strong>/평생
-  </span>
-</span>`
-  >}}
-
-{{< /hextra/feature-grid >}}
+{{< pricing-plans >}}
 
 </div>
 

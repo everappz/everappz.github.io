@@ -518,5 +518,25 @@
     "content": "Zeer ingewikkeld voor ouderen. Geen handleiding te vinden",
     "date": "2026-05-24T12:38:11-07:00",
     "version": "8.6"
+  },
+  {
+    "country": "nl",
+    "id": "14533931367",
+    "author": "reijerse",
+    "rating": 1,
+    "title": "De slechtste musicplayer",
+    "content": "In het begin gaat het goed, maar met meer dan ongeveer 800 albums gaat het volledig mis, voornamelijk een zeer slechte verbinding. Eindconclusie: waardeloze app, jammer.",
+    "date": "2026-09-10T10:21:03-07:00",
+    "version": "8.8"
+  },
+  {
+    "country": "nl",
+    "id": "14399295249",
+    "author": "Uppy live",
+    "rating": 5,
+    "title": "Flexible",
+    "content": "As musician easy for backing tracks",
+    "date": "2026-08-07T08:08:42-07:00",
+    "version": "8.8"
   }
 ]

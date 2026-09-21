@@ -275,49 +275,7 @@ Maak van je iPhone of iPad een draadloze schijf die bestanden deelt met <strong>
 <div class="hx:mt-6"></div>
 
 <div class="hx:w-full">
-{{< hextra/feature-grid cols="2">}}
-
-  {{< hextra/feature-card
-    title="Gratis"
-    class="pricing-card pricing-free"
-    subtitle=`<span class='pricing-details'>• Maak van je apparaat een draadloze schijf<br />
-• Vijf servers tegelijk: DLNA, HTTP, WebDAV, SMB, FTP<br />
-• Streamen naar smart-tv's, browsers en computers<br />
-• Aankoppelen als netwerkschijf en overdracht via USB<br />
-• Deel je hele foto- en muziekbibliotheek<br />
-• Verbinden met DLNA-, WebDAV-, FTP-, SFTP- en SMB-servers<br />
-• Bestandsbeheer met inpakken en uitpakken<br />
-• Documenten scannen naar PDF en volledige PDF-tools<br />
-• PDF's en foto's van aantekeningen voorzien en ondertekenen<br />
-• Wachtwoordbeveiliging en apparaten blokkeren<br />
-• Tot 5 gedeelde mappen en 10 opgeslagen verbindingen</span><br /><br />
-<span class='hx:block hx:mt-2 hx:text-center'>
-  <span class='pricing-btn hx:inline-block hx:rounded-full hx:border hx:border-gray-200 hx:dark:border-neutral-800 hx:px-3 hx:py-1 hx:transition-all hx:duration-200'>
-    <strong>Gratis</strong>
-  </span>
-</span>`
-  >}}
-
-  {{< hextra/feature-card
-    title="Premium Lifetime"
-    class="pricing-card pricing-lifetime"
-    subtitle=`<span class='pricing-details'>• Alles uit Gratis<br />
-• Onbeperkt gedeelde mappen (meer dan 5)<br />
-• Onbeperkt opgeslagen verbindingen (meer dan 10)<br />
-• Foto- &amp; videoconversie naar een compatibel formaat of kleiner formaat<br />
-• SMB3-versleuteling (AES) voor privé en veilig delen<br />
-• Aangepaste HTTP-, WebDAV-, SMB- en FTP-poorten<br />
-• Delen automatisch starten wanneer je de app opent<br />
-• Apparaataanpassing: naam, avataricoon, kleurverloop of foto<br />
-• Eenmalige aankoop - één keer betalen, verlengt nooit</span><br /><br />
-<span class='hx:block hx:mt-2 hx:text-center'>
-  <span class='pricing-btn hx:inline-block hx:rounded-full hx:border hx:border-gray-200 hx:dark:border-neutral-800 hx:px-3 hx:py-1 hx:transition-all hx:duration-200'>
-    <strong>$9.99</strong>/eenmalig
-  </span>
-</span>`
-  >}}
-
-{{< /hextra/feature-grid >}}
+{{< pricing-plans >}}
 
 </div>
 

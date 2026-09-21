@@ -1,0 +1,42 @@
+[
+  {
+    "country": "hu",
+    "id": "6895909921",
+    "author": "Leg-Joe",
+    "rating": 5,
+    "title": "Waze",
+    "content": "This is my favorite music player application, please add Waze audio player integration!",
+    "date": "2021-01-21T04:28:03-07:00",
+    "version": "4.5"
+  },
+  {
+    "country": "hu",
+    "id": "1597276711",
+    "author": "Lolka67",
+    "rating": 5,
+    "title": "Good offline player",
+    "content": "*****",
+    "date": "2017-04-25T03:54:47-07:00",
+    "version": "2.8"
+  },
+  {
+    "country": "hu",
+    "id": "1524399491",
+    "author": "Nagysandor88",
+    "rating": 5,
+    "title": "Jó",
+    "content": "Hasznos, és nem kell az itunsal cseszekedni",
+    "date": "2017-01-17T11:22:40-07:00",
+    "version": "2.6"
+  },
+  {
+    "country": "hu",
+    "id": "1434654011",
+    "author": "szabodomenk",
+    "rating": 5,
+    "title": "Nagykanizsa",
+    "content": "Cool!!!",
+    "date": "2016-08-17T15:44:26-07:00",
+    "version": "2.5"
+  }
+]

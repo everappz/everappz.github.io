@@ -275,49 +275,7 @@ Transformez votre iPhone ou iPad en disque sans fil qui partage vos fichiers ave
 <div class="hx:mt-6"></div>
 
 <div class="hx:w-full">
-{{< hextra/feature-grid cols="2">}}
-
-  {{< hextra/feature-card
-    title="Gratuit"
-    class="pricing-card pricing-free"
-    subtitle=`<span class='pricing-details'>• Transformez votre appareil en disque sans fil<br />
-• Cinq serveurs à la fois : DLNA, HTTP, WebDAV, SMB, FTP<br />
-• Diffusez vers smart TV, navigateurs et ordinateurs<br />
-• Montez comme lecteur réseau et transférez par USB<br />
-• Partagez toute votre photothèque et musicothèque<br />
-• Connectez-vous aux serveurs DLNA, WebDAV, FTP, SFTP et SMB<br />
-• Gestionnaire de fichiers avec compression et décompression<br />
-• Numérisation de documents en PDF et outils PDF complets<br />
-• Annotez et signez PDF et photos<br />
-• Protection par mot de passe et blocage d'appareils<br />
-• Jusqu'à 5 dossiers partagés et 10 connexions enregistrées</span><br /><br />
-<span class='hx:block hx:mt-2 hx:text-center'>
-  <span class='pricing-btn hx:inline-block hx:rounded-full hx:border hx:border-gray-200 hx:dark:border-neutral-800 hx:px-3 hx:py-1 hx:transition-all hx:duration-200'>
-    <strong>Gratuit</strong>
-  </span>
-</span>`
-  >}}
-
-  {{< hextra/feature-card
-    title="Premium à vie"
-    class="pricing-card pricing-lifetime"
-    subtitle=`<span class='pricing-details'>• Tout ce qui est inclus dans Gratuit<br />
-• Dossiers partagés illimités (plus de 5)<br />
-• Connexions enregistrées illimitées (plus de 10)<br />
-• Conversion photo et vidéo vers un format compatible ou une taille réduite<br />
-• Chiffrement SMB3 (AES) pour un partage privé et sécurisé<br />
-• Ports HTTP, WebDAV, SMB et FTP personnalisés<br />
-• Démarrage automatique du partage à l'ouverture de l'app<br />
-• Personnalisation de l'appareil : nom, icône d'avatar, dégradé ou photo<br />
-• Achat unique - facturé une seule fois, sans renouvellement</span><br /><br />
-<span class='hx:block hx:mt-2 hx:text-center'>
-  <span class='pricing-btn hx:inline-block hx:rounded-full hx:border hx:border-gray-200 hx:dark:border-neutral-800 hx:px-3 hx:py-1 hx:transition-all hx:duration-200'>
-    <strong>$9.99</strong>/à vie
-  </span>
-</span>`
-  >}}
-
-{{< /hextra/feature-grid >}}
+{{< pricing-plans >}}
 
 </div>
 

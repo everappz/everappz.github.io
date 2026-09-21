@@ -1,0 +1,197 @@
+# Pricing model. Structure only — all human text lives in i18n/*.yaml and is
+# referenced here by key, so one model renders in every language.
+#   features : ordered list of i18n keys (feature titles)
+#   plans[].titleKey  : i18n key for the plan name
+#   plans[].button.key: i18n key for the button wording ("%s" = price, if any)
+#   plans[].button.price: raw price injected into the wording (language-neutral)
+#   plans[].limits : aligned with features -> number | X (no) | V (yes) | U (unlimited)
+evermusic:
+  features:
+    - pricingAdFreeExperience
+    - pricingOfflineFolders
+    - pricingCloudServices
+    - pricingZipCollections
+    - pricingExportM3U
+    - pricingPlaylists
+    - pricingAutomaticTagsSearch
+    - pricingSongsInQueue
+    - pricingSongsInPlaylist
+    - pricingFavorites
+    - pricingDownloadFolders
+    - pricingExportITunesCollections
+    - pricingFullPersonalization
+  plans:
+    - id: free
+      tier: free
+      titleKey: pricingPlanFree
+      button:
+        key: pricingBtnFree
+      limits: [X, 1, 3, 3, 5, 10, 20, 750, 1000, 1000, X, X, X]
+    - id: monthly
+      tier: subscription
+      titleKey: pricingPlanMonthly
+      button:
+        key: pricingBtnPerMonth
+        price: $1.99
+      limits: [V, U, U, U, U, U, U, U, U, U, V, V, V]
+    - id: yearly
+      tier: subscription
+      titleKey: pricingPlanYearly
+      button:
+        key: pricingBtnYearlyTrial
+        price: $12.99
+      limits: [V, U, U, U, U, U, U, U, U, U, V, V, V]
+    - id: lifetime
+      tier: lifetime
+      titleKey: pricingPlanLifetime
+      button:
+        key: pricingBtnLifetime
+        price: $59.99
+      limits: [V, U, U, U, U, U, U, U, U, U, V, V, V]
+flacbox:
+  features:
+    - pricingAdFreeExperience
+    - pricingOfflineFolders
+    - pricingCloudServices
+    - pricingZipCollections
+    - pricingExportM3U
+    - pricingPlaylists
+    - pricingAutomaticTagsSearch
+    - pricingSongsInQueue
+    - pricingSongsInPlaylist
+    - pricingFavorites
+    - pricingFullPersonalization
+    - pricingDownloadFolders
+  plans:
+    - id: free
+      tier: free
+      titleKey: pricingPlanFree
+      button:
+        key: pricingBtnFree
+      limits: [X, 1, 3, 3, 5, 10, 20, 750, 1000, 1000, X, X]
+    - id: monthly
+      tier: subscription
+      titleKey: pricingPlanMonthly
+      button:
+        key: pricingBtnPerMonth
+        price: $2.99
+      limits: [V, U, U, U, U, U, U, U, U, U, V, V]
+    - id: yearly
+      tier: subscription
+      titleKey: pricingPlanYearly
+      button:
+        key: pricingBtnYearlyTrial
+        price: $19.99
+      limits: [V, U, U, U, U, U, U, U, U, U, V, V]
+    - id: lifetime
+      tier: lifetime
+      titleKey: pricingPlanLifetime
+      button:
+        key: pricingBtnLifetime
+        price: $69.99
+      limits: [V, U, U, U, U, U, U, U, U, U, V, V]
+evertag:
+  features:
+    - pricingEditAudioTags
+    - pricingEditAlbumCovers
+    - pricingEditFilesSimultaneously
+    - pricingFixCharsetEncoding
+    - pricingCloudStorages
+    - pricingFavorites
+    - pricingAutomaticallyFindTags
+    - pricingSearchAlbumCovers
+    - pricingPersonalization
+    - pricingAdFreeExperience
+  plans:
+    - id: free
+      tier: free
+      titleKey: pricingPlanFree
+      button:
+        key: pricingBtnFree
+      limits: [V, V, V, V, 1, 10, 20, 20, X, X]
+    - id: monthly
+      tier: subscription
+      titleKey: pricingPlanMonthly
+      button:
+        key: pricingBtnPerMonth
+        price: $1.99
+      limits: [V, V, V, V, U, U, U, U, V, V]
+    - id: yearly
+      tier: subscription
+      titleKey: pricingPlanYearly
+      button:
+        key: pricingBtnYearlyTrial
+        price: $12.99
+      limits: [V, V, V, V, U, U, U, U, V, V]
+    - id: lifetime
+      tier: lifetime
+      titleKey: pricingPlanLifetime
+      button:
+        key: pricingBtnLifetime
+        price: $24.99
+      limits: [V, V, V, V, U, U, U, U, V, V]
+evervideo:
+  features:
+    - pricingAdFreeExperience
+    - pricingPlaylists
+    - pricingCloudServices
+    - pricingZipCollections
+    - pricingFavorites
+    - pricingTracksInPlaylist
+    - pricingTracksInQueue
+    - pricingOfflineFolders
+    - pricingOfflineAlbums
+    - pricingDownloadFolders
+    - pricingDownloadCollections
+    - pricingFullPersonalization
+  plans:
+    - id: free
+      tier: free
+      titleKey: pricingPlanFree
+      button:
+        key: pricingBtnFree
+      limits: [X, 10, 3, 3, 100, 1000, 750, 1, 1, X, X, X]
+    - id: monthly
+      tier: subscription
+      titleKey: pricingPlanMonthly
+      button:
+        key: pricingBtnPerMonth
+        price: $1.99
+      limits: [V, U, U, U, U, U, U, U, U, V, V, V]
+    - id: yearly
+      tier: subscription
+      titleKey: pricingPlanYearly
+      button:
+        key: pricingBtnYearlyTrial
+        price: $12.99
+      limits: [V, U, U, U, U, U, U, U, U, V, V, V]
+    - id: lifetime
+      tier: lifetime
+      titleKey: pricingPlanLifetime
+      button:
+        key: pricingBtnLifetime
+        price: $59.99
+      limits: [V, U, U, U, U, U, U, U, U, V, V, V]
+everdisk:
+  features:
+    - everdiskFeatSharedFolders
+    - everdiskFeatDeviceConnections
+    - everdiskFeatPhotoVideoConversion
+    - everdiskFeatAdvancedServerSettings
+    - everdiskFeatSMB3Encryption
+    - everdiskFeatAutomaticSharing
+    - everdiskFeatDevicePersonalization
+  plans:
+    - id: free
+      tier: free
+      titleKey: pricingPlanFree
+      button:
+        key: pricingBtnFree
+      limits: [5, 10, X, X, X, X, X]
+    - id: lifetime
+      tier: lifetime
+      titleKey: pricingPlanLifetime
+      button:
+        key: pricingBtnLifetime
+        price: $9.99
+      limits: [U, U, V, V, V, V, V]

@@ -438,5 +438,25 @@
     "content": "Bence çok güzel denediklerinin içinde en uygunu ve iyisi",
     "date": "2017-02-19T08:12:23-07:00",
     "version": "2.7"
+  },
+  {
+    "country": "tr",
+    "id": "14541371318",
+    "author": "Mukush87",
+    "rating": 1,
+    "title": "Don’t spend money",
+    "content": "I’ve tried several music player apps like this, and honestly, many of them look almost identical, as if they were built from the same codebase or heavily copied from one another. The funny part is that they all charge different prices, seemingly depending on how ambitious the developer is.\nThis is already the third app I’ve tried with the exact same playback issue: if I start an album and skip through tracks, sooner or later playback freezes completely. The only way to recover is to tap the album cover again, after which the player resets back to the first track. \nThe same bug appears across multiple similar apps, which is very frustrating.\nBecause of this, I can’t recommend Evermusic, especially at this price. A music player should at least be able to switch tracks reliably.",
+    "date": "2026-09-12T08:06:05-07:00",
+    "version": "8.8"
+  },
+  {
+    "country": "tr",
+    "id": "14386574060",
+    "author": "kara_gospodnya",
+    "rating": 5,
+    "title": "Отличия",
+    "content": "И чем Evermusic от Flacbox отличается? Цветом иконок?",
+    "date": "2026-08-04T05:05:13-07:00",
+    "version": "8.7"
   }
 ]

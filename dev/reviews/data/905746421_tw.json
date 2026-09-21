@@ -1,0 +1,502 @@
+[
+  {
+    "country": "tw",
+    "id": "11735784618",
+    "author": "muffchu",
+    "rating": 5,
+    "title": "Emby Jellyfin support",
+    "content": "Emby Jellyfin support",
+    "date": "2024-09-17T18:03:49-07:00",
+    "version": "6.8"
+  },
+  {
+    "country": "tw",
+    "id": "10338800008",
+    "author": "Kudwafta",
+    "rating": 4,
+    "title": "一直斷線",
+    "content": "更新後一直跳連不上互聯網搞得無法使用",
+    "date": "2023-09-05T21:34:04-07:00",
+    "version": "5.4"
+  },
+  {
+    "country": "tw",
+    "id": "8886153844",
+    "author": "AppFindercrop",
+    "rating": 3,
+    "title": "無法播放",
+    "content": "扣分，無法播放",
+    "date": "2022-07-18T04:01:11-07:00",
+    "version": "5.0"
+  },
+  {
+    "country": "tw",
+    "id": "7001332437",
+    "author": "Xxxkgg",
+    "rating": 3,
+    "title": "可以支援apple watch?",
+    "content": "支援apple watch?",
+    "date": "2021-02-16T06:48:44-07:00",
+    "version": "4.5"
+  },
+  {
+    "country": "tw",
+    "id": "6799831410",
+    "author": "usagi000",
+    "rating": 1,
+    "title": "Airplay要多久才能修好",
+    "content": "連上Airplay就無法正常播放",
+    "date": "2020-12-27T08:11:28-07:00",
+    "version": "4.5"
+  },
+  {
+    "country": "tw",
+    "id": "6376921777",
+    "author": "廣告模式",
+    "rating": 5,
+    "title": "希望可以推出每首歌自己的筆記本",
+    "content": "可以讓使用者自己添加歌詞在筆記本裡",
+    "date": "2020-08-30T03:39:05-07:00",
+    "version": "4.2"
+  },
+  {
+    "country": "tw",
+    "id": "5748086520",
+    "author": "ajia0818",
+    "rating": 5,
+    "title": "購買ios設備必買！",
+    "content": "節省空間，雲端播放好APP，用了好幾年了，方便沒什麼問題發生",
+    "date": "2020-04-01T16:20:36-07:00",
+    "version": "4.2"
+  },
+  {
+    "country": "tw",
+    "id": "5671574994",
+    "author": "silentbob002",
+    "rating": 2,
+    "title": "Battery issues",
+    "content": "Unfortunately Same battery issues as before update",
+    "date": "2020-03-17T00:25:27-07:00",
+    "version": "4.1"
+  },
+  {
+    "country": "tw",
+    "id": "4532354044",
+    "author": "Prime.B",
+    "rating": 5,
+    "title": "會突然閃退",
+    "content": "iPhone se 播歌到一半突然閃退\n以前都不會，更新改版後變這樣",
+    "date": "2019-07-28T08:48:50-07:00",
+    "version": "3.6"
+  },
+  {
+    "country": "tw",
+    "id": "4441339682",
+    "author": "kuoooooooooooo",
+    "rating": 3,
+    "title": "Crashes",
+    "content": "請修改更新",
+    "date": "2019-07-10T21:48:18-07:00",
+    "version": "3.6"
+  },
+  {
+    "country": "tw",
+    "id": "4299695101",
+    "author": "大井jin",
+    "rating": 5,
+    "title": "Pcloud無法登入&carplay的問題",
+    "content": "Pcloud無法登入，帳號密碼正確，可以協助處理？另外，carplay的播放清單只帶的出12首歌曲。",
+    "date": "2019-06-11T04:24:14-07:00",
+    "version": "3.6"
+  },
+  {
+    "country": "tw",
+    "id": "4004709329",
+    "author": "咩噶",
+    "rating": 5,
+    "title": "Save playback position",
+    "content": "Couldn’t save playback position! Please fix it.",
+    "date": "2019-04-12T15:46:44-07:00",
+    "version": "3.6"
+  },
+  {
+    "country": "tw",
+    "id": "3904742385",
+    "author": "ongsuham",
+    "rating": 5,
+    "title": "音樂（google drive)讀取速度極慢",
+    "content": "更新後，讀取音樂要等很久（google drive會，mega正常隨點隨讀取)，希望開發團隊可以解決這個問題。",
+    "date": "2019-03-20T09:56:02-07:00",
+    "version": "3.5"
+  },
+  {
+    "country": "tw",
+    "id": "3763297420",
+    "author": "J80376",
+    "rating": 5,
+    "title": "carplay?",
+    "content": "when will it support carplay?",
+    "date": "2019-02-12T17:08:50-07:00",
+    "version": "3.5"
+  },
+  {
+    "country": "tw",
+    "id": "3629817231",
+    "author": "歐嗚夜...",
+    "rating": 5,
+    "title": "為何忽然無法連線onedrive",
+    "content": "如題：",
+    "date": "2019-01-09T03:54:13-07:00",
+    "version": "3.4"
+  },
+  {
+    "country": "tw",
+    "id": "3231346601",
+    "author": "水光影",
+    "rating": 4,
+    "title": "好用",
+    "content": "如題",
+    "date": "2018-09-26T01:28:23-07:00",
+    "version": "3.3"
+  },
+  {
+    "country": "tw",
+    "id": "3173119965",
+    "author": "Thomas660110",
+    "rating": 5,
+    "title": "5 🌟",
+    "content": "Good",
+    "date": "2018-09-09T18:34:30-07:00",
+    "version": "3.2"
+  },
+  {
+    "country": "tw",
+    "id": "2754445913",
+    "author": "Jerry_Chien27",
+    "rating": 4,
+    "title": "更新後無法連線雲端",
+    "content": "更新後，無法連線google 雲端，重新授權也無法連線。",
+    "date": "2018-06-23T10:29:36-07:00",
+    "version": "3.1"
+  },
+  {
+    "country": "tw",
+    "id": "2070582525",
+    "author": "0FreedomTrail0",
+    "rating": 2,
+    "title": "Can't recognize AIFF tag",
+    "content": "After more than 1 year ...you still not fix can't read AIFF tag problem,or give any reason you can't,while nPlayer can.",
+    "date": "2018-01-08T17:23:57-07:00",
+    "version": "3.0"
+  },
+  {
+    "country": "tw",
+    "id": "1877279313",
+    "author": "SanukHuang",
+    "rating": 5,
+    "title": "Nice",
+    "content": "Good experience",
+    "date": "2017-10-26T16:25:30-07:00",
+    "version": "3.0"
+  },
+  {
+    "country": "tw",
+    "id": "1823839758",
+    "author": "Zoe881217",
+    "rating": 2,
+    "title": "無法新增google雲端帳號",
+    "content": "點選新增google雲端帳號圖示後，畫面會變全空白",
+    "date": "2017-10-02T20:14:26-07:00",
+    "version": "2.9"
+  },
+  {
+    "country": "tw",
+    "id": "1789782553",
+    "author": "請改善app",
+    "rating": 5,
+    "title": "實用",
+    "content": "推薦",
+    "date": "2017-09-14T07:39:06-07:00",
+    "version": "2.9"
+  },
+  {
+    "country": "tw",
+    "id": "1789668844",
+    "author": "leodevico",
+    "rating": 2,
+    "title": "超棒！",
+    "content": "支援air play",
+    "date": "2017-09-14T06:10:16-07:00",
+    "version": "2.9"
+  },
+  {
+    "country": "tw",
+    "id": "1777445639",
+    "author": "Brickwork homeowners",
+    "rating": 1,
+    "title": "無法加新歌；使用功能之後，無處能退出功能",
+    "content": "無法加新歌",
+    "date": "2017-09-06T12:31:11-07:00",
+    "version": "2.9"
+  },
+  {
+    "country": "tw",
+    "id": "1773370902",
+    "author": "NobleGhostX",
+    "rating": 5,
+    "title": "好用但少了支援FLAC",
+    "content": "支援多家雲端\n剛好符合我本身會把音樂丟上雲端的習慣\n缺點是沒有支援FLAC格式\n要聽的話還要轉成ALAC (m4a)",
+    "date": "2017-09-04T10:43:19-07:00",
+    "version": "2.9"
+  },
+  {
+    "country": "tw",
+    "id": "1725077906",
+    "author": "Ronyich",
+    "rating": 4,
+    "title": "更新後會閃退，我是iOS 8.1.1",
+    "content": "ㄧ直以來使用都正常，只有目前的版本會這樣",
+    "date": "2017-08-12T15:55:45-07:00",
+    "version": "2.9"
+  },
+  {
+    "country": "tw",
+    "id": "1723828698",
+    "author": "bo621025",
+    "rating": 5,
+    "title": "好用",
+    "content": "支援多種雲端空間，軟體本身的穩定度也不錯。",
+    "date": "2017-08-11T19:03:24-07:00",
+    "version": "2.9"
+  },
+  {
+    "country": "tw",
+    "id": "1717769232",
+    "author": "EndlessDie",
+    "rating": 5,
+    "title": "Great app",
+    "content": "Use it！",
+    "date": "2017-08-07T17:53:31-07:00",
+    "version": "2.9"
+  },
+  {
+    "country": "tw",
+    "id": "1683074477",
+    "author": "臨尹_Max",
+    "rating": 1,
+    "title": "完全無法連上去",
+    "content": "完全無法連上去，一直在連線狀態，不然就是連線錯誤，已經一個月都這樣，無語",
+    "date": "2017-07-15T01:00:51-07:00",
+    "version": "2.9"
+  },
+  {
+    "country": "tw",
+    "id": "1678671067",
+    "author": "Frank7488",
+    "rating": 5,
+    "title": "非常好用",
+    "content": "連線穩定",
+    "date": "2017-07-11T19:31:27-07:00",
+    "version": "2.9"
+  },
+  {
+    "country": "tw",
+    "id": "1668524834",
+    "author": "Harold Lai",
+    "rating": 5,
+    "title": "The Best",
+    "content": "The Best",
+    "date": "2017-07-04T06:20:24-07:00",
+    "version": "2.9"
+  },
+  {
+    "country": "tw",
+    "id": "1668212800",
+    "author": "woodywoodyapp",
+    "rating": 1,
+    "title": "Could not open the app!!!",
+    "content": "Could not open the app!!!",
+    "date": "2017-07-04T00:52:34-07:00",
+    "version": "2.9"
+  },
+  {
+    "country": "tw",
+    "id": "1665112683",
+    "author": "dorisevangeline",
+    "rating": 5,
+    "title": "Could bug be fixed?",
+    "content": "Could not open the app after update of 6/30.\nCould not auto \"next song\" and keeping loading after update of last time.",
+    "date": "2017-07-01T09:19:09-07:00",
+    "version": "2.9"
+  },
+  {
+    "country": "tw",
+    "id": "1656492825",
+    "author": "CHR Pt",
+    "rating": 4,
+    "title": "好用",
+    "content": "方便",
+    "date": "2017-06-24T18:52:05-07:00",
+    "version": "2.8"
+  },
+  {
+    "country": "tw",
+    "id": "1647002644",
+    "author": "饅阿頭",
+    "rating": 5,
+    "title": "Good!!!",
+    "content": "就是好用！！！",
+    "date": "2017-06-16T18:26:09-07:00",
+    "version": "2.8"
+  },
+  {
+    "country": "tw",
+    "id": "1637585004",
+    "author": "rainin",
+    "rating": 5,
+    "title": "Good, but ...",
+    "content": "Please support iCloud !",
+    "date": "2017-06-08T06:41:02-07:00",
+    "version": "2.8"
+  },
+  {
+    "country": "tw",
+    "id": "1634978163",
+    "author": "Corey 21",
+    "rating": 5,
+    "title": "Nice job.  !!!",
+    "content": "Nice job.  !!!",
+    "date": "2017-06-05T21:03:34-07:00",
+    "version": "2.8"
+  },
+  {
+    "country": "tw",
+    "id": "1631286601",
+    "author": "Haoankuo",
+    "rating": 5,
+    "title": "不錯",
+    "content": "好用的軟體！",
+    "date": "2017-06-02T02:19:36-07:00",
+    "version": "2.8"
+  },
+  {
+    "country": "tw",
+    "id": "1622487416",
+    "author": "Bhgtkf",
+    "rating": 5,
+    "title": "讚",
+    "content": "非常好！",
+    "date": "2017-05-23T20:45:27-07:00",
+    "version": "2.8"
+  },
+  {
+    "country": "tw",
+    "id": "1620611856",
+    "author": "ShortRight",
+    "rating": 5,
+    "title": "很棒",
+    "content": "畫面好 功能不錯 小缺點是設定有點複雜",
+    "date": "2017-05-21T20:28:05-07:00",
+    "version": "2.8"
+  },
+  {
+    "country": "tw",
+    "id": "1618612741",
+    "author": "落路人",
+    "rating": 5,
+    "title": "Convenient and easy to use",
+    "content": "It's the best driver player app I can find on iOS. It will be even better if it can also accept FLAC format.",
+    "date": "2017-05-19T19:09:09-07:00",
+    "version": "2.6"
+  },
+  {
+    "country": "tw",
+    "id": "1617983085",
+    "author": "Kenji520...",
+    "rating": 5,
+    "title": "非常好用",
+    "content": "非常好用的播放軟體",
+    "date": "2017-05-19T02:10:35-07:00",
+    "version": "2.8"
+  },
+  {
+    "country": "tw",
+    "id": "1615306350",
+    "author": "ShawnChen123",
+    "rating": 5,
+    "title": "很好用！",
+    "content": "真的！",
+    "date": "2017-05-16T03:48:55-07:00",
+    "version": "2.8"
+  },
+  {
+    "country": "tw",
+    "id": "1612921352",
+    "author": "葉大仁",
+    "rating": 5,
+    "title": "the best",
+    "content": "the best",
+    "date": "2017-05-13T08:06:48-07:00",
+    "version": "2.8"
+  },
+  {
+    "country": "tw",
+    "id": "1612507061",
+    "author": "Gcbarker",
+    "rating": 5,
+    "title": "Great for classrooms",
+    "content": "I teach kindergarten. I don't have time to fiddle around with CDs. I just connect to my Bluetooth speaker and play from Google drive. All the other teachers here all share the same drive streaming to their own devices. No more lost or scratched CDs. Love it!",
+    "date": "2017-05-12T22:54:45-07:00",
+    "version": "2.8"
+  },
+  {
+    "country": "tw",
+    "id": "1600798403",
+    "author": "Weiping 106",
+    "rating": 5,
+    "title": "Good App",
+    "content": "Good",
+    "date": "2017-04-29T10:14:44-07:00",
+    "version": "2.8"
+  },
+  {
+    "country": "tw",
+    "id": "1589741473",
+    "author": "MarsFantasy",
+    "rating": 4,
+    "title": "👏🏻👏🏻👏🏻👏🏻👏🏻不錯的播放軟體",
+    "content": "蠻穩定的播放軟體",
+    "date": "2017-04-15T18:11:39-07:00",
+    "version": "2.6"
+  },
+  {
+    "country": "tw",
+    "id": "1574715436",
+    "author": "阿J仔",
+    "rating": 5,
+    "title": "Good",
+    "content": "Good",
+    "date": "2017-03-28T06:56:46-07:00",
+    "version": "2.6"
+  },
+  {
+    "country": "tw",
+    "id": "1574130767",
+    "author": "howcool65",
+    "rating": 5,
+    "title": "真好用的工具",
+    "content": "支援網路空間撥放又可2倍速聽，真好用的工具",
+    "date": "2017-03-27T15:23:24-07:00",
+    "version": "2.6"
+  },
+  {
+    "country": "tw",
+    "id": "1569751202",
+    "author": "jason ",
+    "rating": 5,
+    "title": "推薦",
+    "content": "很方便 很好用!",
+    "date": "2017-03-21T21:29:10-07:00",
+    "version": "2.6"
+  }
+]

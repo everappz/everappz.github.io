@@ -275,49 +275,7 @@ Everdisk היא אפליקציית כונן אלחוטי ל-iPhone ול-iPad מ�
 <div class="hx:mt-6"></div>
 
 <div class="hx:w-full">
-{{< hextra/feature-grid cols="2">}}
-
-  {{< hextra/feature-card
-    title="חינם"
-    class="pricing-card pricing-free"
-    subtitle=`<span class='pricing-details'>• הפכו את המכשיר שלכם לכונן אלחוטי<br />
-• חמישה שרתים בו זמנית: DLNA, HTTP, WebDAV, SMB, FTP<br />
-• הזרמה לטלוויזיות חכמות, לדפדפנים ולמחשבים<br />
-• חיבור ככונן רשת והעברה דרך USB<br />
-• שיתוף כל ספריית התמונות והמוזיקה שלכם<br />
-• התחברות לשרתי DLNA, WebDAV, FTP, SFTP ו-SMB<br />
-• מנהל קבצים עם דחיסה ופתיחת ארכיונים<br />
-• סריקת מסמכים ל-PDF וכלי PDF מלאים<br />
-• סימון וחתימה על קבצי PDF ותמונות<br />
-• הגנה בסיסמה וחסימת מכשירים<br />
-• עד 5 תיקיות משותפות ו-10 חיבורים שמורים</span><br /><br />
-<span class='hx:block hx:mt-2 hx:text-center'>
-  <span class='pricing-btn hx:inline-block hx:rounded-full hx:border hx:border-gray-200 hx:dark:border-neutral-800 hx:px-3 hx:py-1 hx:transition-all hx:duration-200'>
-    <strong>חינם</strong>
-  </span>
-</span>`
-  >}}
-
-  {{< hextra/feature-card
-    title="Premium Lifetime"
-    class="pricing-card pricing-lifetime"
-    subtitle=`<span class='pricing-details'>• כל מה שבחינם<br />
-• תיקיות משותפות ללא הגבלה (יותר מ-5)<br />
-• חיבורים שמורים ללא הגבלה (יותר מ-10)<br />
-• המרת תמונות וסרטונים לפורמט תואם או לגודל קטן יותר<br />
-• הצפנת SMB3 (AES) לשיתוף פרטי ומאובטח<br />
-• פורטים מותאמים אישית ל-HTTP, WebDAV, SMB ו-FTP<br />
-• התחלת שיתוף אוטומטית עם פתיחת האפליקציה<br />
-• התאמה אישית של המכשיר: שם, אייקון אווטאר, מעבר צבעים או תמונה<br />
-• רכישה חד פעמית - נגבית פעם אחת, לעולם לא מתחדשת</span><br /><br />
-<span class='hx:block hx:mt-2 hx:text-center'>
-  <span class='pricing-btn hx:inline-block hx:rounded-full hx:border hx:border-gray-200 hx:dark:border-neutral-800 hx:px-3 hx:py-1 hx:transition-all hx:duration-200'>
-    <strong>$9.99</strong>/לכל החיים
-  </span>
-</span>`
-  >}}
-
-{{< /hextra/feature-grid >}}
+{{< pricing-plans >}}
 
 </div>
 

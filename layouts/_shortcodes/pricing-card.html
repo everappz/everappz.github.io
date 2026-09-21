@@ -1,0 +1,59 @@
+{{- /*
+  pricing-card: a dedicated card for pricing plans (separate from hextra cards).
+
+  Params (unchanged from the pricing section):
+    title     Plan name (e.g. "Premium Yearly")
+    class     Tier classes, e.g. "pricing-card pricing-subscription" (sets --hover-color)
+    subtitle  Legacy HTML blob: <span class='pricing-details'>• feat (limit)<br>…</span>
+              plus <span class='pricing-btn …'>price</span>
+    style     Optional inline style.
+
+  Each feature renders as an icon + title + value tag (icon/order from
+  data/pricing.yaml). The value is the "(limit)" if present. The price becomes a
+  full-width button.
+*/ -}}
+{{- $title := .Get "title" -}}
+{{- $subtitle := .Get "subtitle" -}}
+{{- $class := .Get "class" | default "pricing-card" -}}
+{{- $style := .Get "style" -}}
+
+{{- /* Tier + per-tier icon list from data/pricing.yaml. */ -}}
+{{- $tier := cond (in $class "pricing-free") "free" "premium" -}}
+{{- $app := path.Base .Page.File.Dir -}}
+{{- $icons := slice -}}
+{{- with index hugo.Data.pricing $app -}}{{- with (index . $tier) -}}{{- $icons = . -}}{{- end -}}{{- end -}}
+
+{{- /* Parse the bullet list into {title, value} items, and pull the button. */ -}}
+{{- $features := slice -}}
+{{- $btn := "" -}}
+{{- with (findRESubmatch `(?s)pricing-details'?>(.*?)</span>` $subtitle) -}}
+  {{- range split (replaceRE `(?s)<br\s*/?>` "|||" (index (index . 0) 1)) "|||" -}}
+    {{- $t := trim (replaceRE `^\s*•\s*` "" (replaceRE `<[^>]+>` "" .)) " \n\t" -}}
+    {{- if $t -}}{{- $features = $features | append $t -}}{{- end -}}
+  {{- end -}}
+{{- end -}}
+{{- with (findRESubmatch `(?s)pricing-btn[^>]*>(.*?)</span>` $subtitle) -}}
+  {{- $btn = trim (index (index . 0) 1) " \n\t" -}}
+{{- end -}}
+
+<div
+  {{ with $style }}style="{{ . | safeCSS }}"{{ end }}
+  class="{{ $class }} pricing-plan-card not-prose hx:relative hx:overflow-hidden hx:rounded-3xl hx:border hx:border-gray-200 hx:dark:border-neutral-800 hx:before:pointer-events-none hx:before:absolute hx:before:inset-0 hx:before:bg-glass-gradient"
+>
+  <div class="hx:relative hx:w-full hx:p-6">
+    <h3 class="pricing-title">{{ $title }}</h3>
+    <div class="pricing-features">
+      {{- range $i, $feat := $features -}}
+        {{- $ftitle := $feat -}}{{- $fvalue := "" -}}
+        {{- $m := findRESubmatch `^(.*?)\s*\(([^)]*)\)\s*$` $feat -}}
+        {{- with $m -}}{{- $ftitle = index (index . 0) 1 -}}{{- $fvalue = index (index . 0) 2 -}}{{- end -}}
+        {{- $icon := "check" -}}{{- if lt $i (len $icons) -}}{{- $icon = index $icons $i -}}{{- end -}}
+        <div class="pricing-feature">
+          <span class="pf-icon">{{ partial "utils/icon.html" (dict "name" $icon "attributes" "height=1.1rem") }}</span>
+          <span class="pf-text"><span class="pf-title">{{ $ftitle }}</span>{{ with $fvalue }}<span class="pf-value">{{ . }}</span>{{ end }}</span>
+        </div>
+      {{- end -}}
+    </div>
+    {{- with $btn }}<div class="pricing-btn"><span>{{ . | safeHTML }}</span></div>{{ end -}}
+  </div>
+</div>

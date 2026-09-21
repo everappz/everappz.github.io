@@ -1,5 +1,45 @@
 [
   {
+    "country": "ch",
+    "id": "14529433701",
+    "author": "elpito2010",
+    "rating": 2,
+    "title": "Crashes  when try to buy it",
+    "content": "Crashes  when try to buy it. I wanted to buy the lifetime license",
+    "date": "2026-09-09T07:40:00-07:00",
+    "version": "7.6"
+  },
+  {
+    "country": "us",
+    "id": "14495459030",
+    "author": "AlBlackwell",
+    "rating": 1,
+    "title": "No support response, Shuffle Does Not Work",
+    "content": "Use free app Foobar2000 if you want to play FLACs, MP3 etc. With this app, shuffle doesn’t work. Imagine putting a bunch of songs on the app, hitting shuffle and it plays a couple songs and then stops playing. You click play again and it starts from the beginning same songs and then stops. You try all things possible, clearing queue, reinstall app, deleting and putting all songs back and still the same thing. I asked for help after paying for lifetime subscription and not a single response. What a waste of money! What’s the point of a music app that doesn’t shuffle? Should’ve been one of the first things to make work on a music app!!!",
+    "date": "2026-08-31T14:55:20-07:00",
+    "version": "7.6"
+  },
+  {
+    "country": "ru",
+    "id": "14362406778",
+    "author": "scilix*",
+    "rating": 1,
+    "title": "Ох!",
+    "content": "Жуткое управление/интерфейс, ребята. Куда-то залез, после чего на всё окно обложка и как выйти — не понятно. Затем тёмно-серо-коричневое окно и ППЦ. Звучит на первый взгляд лучше Music, но блин!, совсем не юзерфрендли. В Settings — каша-малаша. Но ведь были надежды…\nПоставил сначала на иФон, затем на Мас: теперь на Мас два приложения 7.5 и 7.4. Оба не знают друг друга.\nНажимаешь на трек — либо совсем не проигрывает ничего, либо ниже по списку рандомно.\nЖаль.\nПонизил оценку\n\nP.S. Приобрёл подписку. В надежде. Работа на иФончике с iCloud Drive ужасна. Инструкция на сайте так и не помогла справиться с Библиотекой. Из 46 альбомов только 23 появились через пару дней и синхронизацией 6 часов. Прослушивание при подключённом wifi с жуткими тормозами.\nМне это непонятно.\n\nПонизил оценку до единицы",
+    "date": "2026-07-29T06:11:48-07:00",
+    "version": "7.6"
+  },
+  {
+    "country": "us",
+    "id": "14357936915",
+    "author": "Paul Mina",
+    "rating": 1,
+    "title": "Not for the Mac",
+    "content": "This app is not designed to handle large music libraries and lacks features other players do so well like Swinsian. If you have a large music collection this is not the app for you. Developer started this app on iOS and thought to release a Mac version. It shows!",
+    "date": "2026-07-28T04:00:41-07:00",
+    "version": "7.6"
+  },
+  {
     "country": "gb",
     "id": "14198007944",
     "author": "Miklos Tasnadi",

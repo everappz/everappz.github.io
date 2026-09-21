@@ -538,5 +538,25 @@
     "content": "Merci pour votre travail.\nJ’aimerais acheter votre application qui correspond tout à fait à mes besoins d’exploitation de musique en réseau. Cependant j’ai un problème de plantage récurrent sur un iPhone Xr tenu à jour.. aussi j’aimerais savoir si je peux espérer une amélioration avec la version payante.\nHave fun\n:)",
     "date": "2019-06-04T21:15:15.000Z",
     "version": null
+  },
+  {
+    "country": "fr",
+    "id": "14536107516",
+    "author": "TD93JVSMAKLOVE",
+    "rating": 3,
+    "title": "Support technique sans réponse",
+    "content": "J’ai un problème technique précis concernant les fichiers Offline d’Evermusic et leur prise en compte dans la sauvegarde iCloud de l’iPhone.\n\nJ’ai contacté le support par e-mail à plusieurs reprises, sans jamais recevoir de réponse.\n\nLes fichiers Offline d’Evermusic occupent environ 60 Go sur mon iPhone et semblent être inclus dans la « Taille de la prochaine sauvegarde » iCloud, alors qu’ils sont déjà présents sur pCloud et peuvent donc être téléchargés à nouveau.\n\nJe cherche simplement à savoir si ce comportement est volontaire ou s’il s’agit d’un bug, et s’il existe une solution pour conserver les fichiers Offline sur l’iPhone sans les inclure dans la sauvegarde iCloud.\n\nMerci au développeur de répondre directement à ce problème.",
+    "date": "2026-09-11T00:51:04-07:00",
+    "version": "8.8"
+  },
+  {
+    "country": "fr",
+    "id": "14365507242",
+    "author": "2555674577",
+    "rating": 5,
+    "title": "Worth using",
+    "content": "Free version is sufficient, friendly user interface",
+    "date": "2026-07-30T00:29:48-07:00",
+    "version": "8.7"
   }
 ]

@@ -338,5 +338,15 @@
     "content": "App worked fine to time. Now app play four songs and then stop. Reset playlist everytime. And man….stupid annoying ads!!!!!!!!!!!!!!!!!!!!!!!! iPhone for $1000 dollars and what? You have still pay for everything. For android you have everything for free.  Apple and all developers choose Microsoft directions.",
     "date": "2026-04-23T12:03:16-07:00",
     "version": "7.3"
+  },
+  {
+    "country": "pl",
+    "id": "14353437570",
+    "author": "shlop2334",
+    "rating": 1,
+    "title": "Maybe you shouldn't push updates without... idk, testing?",
+    "content": "After your 'big' update songs next songs don't work properly, title not displayed, and after like 3 songs the playlist goes to beginning",
+    "date": "2026-07-27T01:12:46-07:00",
+    "version": "7.6"
   }
 ]

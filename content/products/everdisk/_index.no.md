@@ -275,49 +275,7 @@ Gjør iPhone eller iPad om til en trådløs disk som deler filer med <strong>hvi
 <div class="hx:mt-6"></div>
 
 <div class="hx:w-full">
-{{< hextra/feature-grid cols="2">}}
-
-  {{< hextra/feature-card
-    title="Gratis"
-    class="pricing-card pricing-free"
-    subtitle=`<span class='pricing-details'>• Gjør enheten din om til en trådløs disk<br />
-• Fem servere samtidig: DLNA, HTTP, WebDAV, SMB, FTP<br />
-• Stream til smart-TV-er, nettlesere og datamaskiner<br />
-• Koble til som nettverksdisk og overfør over USB<br />
-• Del hele bilde- og musikkbiblioteket ditt<br />
-• Koble til DLNA-, WebDAV-, FTP-, SFTP- og SMB-servere<br />
-• Filbehandler med zip og unzip<br />
-• Skann dokumenter til PDF og komplette PDF-verktøy<br />
-• Marker opp og signer PDF-er og bilder<br />
-• Passordbeskyttelse og enhetsblokkering<br />
-• Opptil 5 delte mapper og 10 lagrede tilkoblinger</span><br /><br />
-<span class='hx:block hx:mt-2 hx:text-center'>
-  <span class='pricing-btn hx:inline-block hx:rounded-full hx:border hx:border-gray-200 hx:dark:border-neutral-800 hx:px-3 hx:py-1 hx:transition-all hx:duration-200'>
-    <strong>Gratis</strong>
-  </span>
-</span>`
-  >}}
-
-  {{< hextra/feature-card
-    title="Premium Livstid"
-    class="pricing-card pricing-lifetime"
-    subtitle=`<span class='pricing-details'>• Alt i Gratis<br />
-• Ubegrenset antall delte mapper (mer enn 5)<br />
-• Ubegrenset antall lagrede tilkoblinger (mer enn 10)<br />
-• Konvertering av bilder og video til et kompatibelt format eller mindre størrelse<br />
-• SMB3-kryptering (AES) for privat, sikker deling<br />
-• Egendefinerte HTTP-, WebDAV-, SMB- og FTP-porter<br />
-• Start deling automatisk når du åpner appen<br />
-• Tilpasning av enheten: navn, avatarikon, gradient eller bilde<br />
-• Engangskjøp - belastes en gang, fornyes aldri</span><br /><br />
-<span class='hx:block hx:mt-2 hx:text-center'>
-  <span class='pricing-btn hx:inline-block hx:rounded-full hx:border hx:border-gray-200 hx:dark:border-neutral-800 hx:px-3 hx:py-1 hx:transition-all hx:duration-200'>
-    <strong>$9.99</strong>/livstid
-  </span>
-</span>`
-  >}}
-
-{{< /hextra/feature-grid >}}
+{{< pricing-plans >}}
 
 </div>
 

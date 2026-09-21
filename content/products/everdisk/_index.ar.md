@@ -275,49 +275,7 @@ Everdisk تطبيق قرص لاسلكي لأجهزة iPhone وiPad من تطوي
 <div class="hx:mt-6"></div>
 
 <div class="hx:w-full">
-{{< hextra/feature-grid cols="2">}}
-
-  {{< hextra/feature-card
-    title="مجاني"
-    class="pricing-card pricing-free"
-    subtitle=`<span class='pricing-details'>• حوّل جهازك إلى قرص لاسلكي<br />
-• خمسة خوادم في آن واحد: DLNA وHTTP وWebDAV وSMB وFTP<br />
-• بث إلى أجهزة التلفاز الذكية والمتصفحات والحواسيب<br />
-• تركيب كقرص شبكي ونقل عبر USB<br />
-• شارك مكتبة صورك وموسيقاك كاملة<br />
-• اتصل بخوادم DLNA وWebDAV وFTP وSFTP وSMB<br />
-• مدير ملفات مع ضغط وفك ضغط<br />
-• مسح المستندات إلى PDF وأدوات PDF كاملة<br />
-• التعليق على ملفات PDF والصور وتوقيعها<br />
-• حماية بكلمة مرور وحظر الأجهزة<br />
-• حتى 5 مجلدات مشتركة و10 اتصالات محفوظة</span><br /><br />
-<span class='hx:block hx:mt-2 hx:text-center'>
-  <span class='pricing-btn hx:inline-block hx:rounded-full hx:border hx:border-gray-200 hx:dark:border-neutral-800 hx:px-3 hx:py-1 hx:transition-all hx:duration-200'>
-    <strong>مجاني</strong>
-  </span>
-</span>`
-  >}}
-
-  {{< hextra/feature-card
-    title="Premium Lifetime"
-    class="pricing-card pricing-lifetime"
-    subtitle=`<span class='pricing-details'>• كل ما في الخطة المجانية<br />
-• مجلدات مشتركة غير محدودة (أكثر من 5)<br />
-• اتصالات محفوظة غير محدودة (أكثر من 10)<br />
-• تحويل الصور والفيديو إلى صيغة متوافقة أو حجم أصغر<br />
-• تشفير SMB3 (AES) لمشاركة خاصة وآمنة<br />
-• منافذ HTTP وWebDAV وSMB وFTP مخصصة<br />
-• بدء المشاركة تلقائياً عند فتح التطبيق<br />
-• تخصيص الجهاز: الاسم والأيقونة الرمزية والتدرّج اللوني أو الصورة<br />
-• شراء لمرة واحدة - يُدفع مرة واحدة ولا يتجدد أبداً</span><br /><br />
-<span class='hx:block hx:mt-2 hx:text-center'>
-  <span class='pricing-btn hx:inline-block hx:rounded-full hx:border hx:border-gray-200 hx:dark:border-neutral-800 hx:px-3 hx:py-1 hx:transition-all hx:duration-200'>
-    <strong>$9.99</strong>/مدى الحياة
-  </span>
-</span>`
-  >}}
-
-{{< /hextra/feature-grid >}}
+{{< pricing-plans >}}
 
 </div>
 

@@ -658,5 +658,75 @@
     "content": "Bei den Wiedergabelisten werden willkürlich die Thumbnails vertauscht...",
     "date": "2026-06-07T12:50:51-07:00",
     "version": "8.6"
+  },
+  {
+    "country": "de",
+    "id": "14512870037",
+    "author": "Sin add",
+    "rating": 5,
+    "title": "Great App",
+    "content": "Best App to listen your mp3 music",
+    "date": "2026-09-05T02:24:52-07:00",
+    "version": "8.8"
+  },
+  {
+    "country": "de",
+    "id": "14498913338",
+    "author": "020567",
+    "rating": 1,
+    "title": "Grauenhaft",
+    "content": "Selten so eine schlechte Software Ergonomie erlebt. Die Bedienung ist ein Graus. Nur was für Freaks.",
+    "date": "2026-09-01T11:49:18-07:00",
+    "version": "8.8"
+  },
+  {
+    "country": "de",
+    "id": "14434910886",
+    "author": "Ille008",
+    "rating": 5,
+    "title": "Einfach genial",
+    "content": "Hallöchen ich würde mir wünschen das Evermusic auch auf Apple TV kommt. Mir gefallen die neuen Visualisierungen die kürzlich mit dem Update hinzugefügt worden sind. Des weiteren finde ich die nahtlosen Übergänge zum nächsten Lied Super ☺️👍. Die ganzen Einstellungen die in dieser App möglich sind gefallen mir. Weiter so 👏",
+    "date": "2026-08-16T07:06:02-07:00",
+    "version": "8.8"
+  },
+  {
+    "country": "de",
+    "id": "14430295237",
+    "author": "HöllenhundHöllenhund",
+    "rating": 2,
+    "title": "Umlaute mit SFTP funktionieren nicht!",
+    "content": "Diese App teilt sich offenbar den Programmcode mit ihrer Schwester-App vom selben Hersteller, und leider auch deren größte Schwäche: Verbinde ich mich per SFTP mit meinem eigenen Server, werden Ordner und Dateien mit Umlauten schlicht nicht gefunden. Die App behauptet, sie existieren nicht, obwohl sie unzweifelhaft vorhanden sind.\n\nInteressant dabei, für die Verbindung per SMB wurde genau dieses Problem bereits in einer früheren Version behoben, wie der eigene Änderungsverlauf zeigt. Bei SFTP, das erst später als zusätzliches Protokoll hinzugefügt wurde, hat man diesen Punkt offenbar übersehen.\n\nDas wiegt bei einer kostenpflichtigen Premium-Version schwer. Die lebenslange Freischaltung kostet aktuell 69,99 Euro, das ist kein Betrag, den man mal eben nebenbei ausgibt, sondern eine Investition, für die man solide Grundfunktionen erwarten darf. SFTP ist zudem längst der Standard, wenn man von unterwegs auf einen eigenen Server zugreifen möchte, weil man aus Sicherheitsgründen heute keine offenen Ports mehr für unverschlüsselte Verbindungen wie SMB im Internet stehen lässt. Zahlreiche eigene Server und Speichersysteme bieten SFTP an, und ausgerechnet dort sollte der Zugriff reibungslos funktionieren.\n\nNicht zuletzt, wir leben in Deutschland, Umlaute gehören zu unserer Sprache. Eine über Jahre gewachsene Musiksammlung lässt sich nicht einfach umbenennen, nur damit eine App damit klarkommt.\n\nAngesichts dieser Umstände vergebe ich zwei von fünf Sternen, und selbst das ist schon großzügig bemessen.",
+    "date": "2026-08-15T03:44:19-07:00",
+    "version": "8.8"
+  },
+  {
+    "country": "de",
+    "id": "14397832116",
+    "author": "ralfhungerland",
+    "rating": 5,
+    "title": "Mehr als nur eine App",
+    "content": "Ich nutze Evermusic schon seit mehreren Jahren. Für all die Musik, die ich auf meinen Geräten habe. Zuverlässig und übersichtlich. Und das offline. Danke das es Euch gibt.",
+    "date": "2026-08-06T23:30:29-07:00",
+    "version": "8.8"
+  },
+  {
+    "country": "de",
+    "id": "14378075234",
+    "author": "HFFM80",
+    "rating": 1,
+    "title": "Login at OneDrive does not work.",
+    "content": "Says it needs more cookies",
+    "date": "2026-08-02T03:02:02-07:00",
+    "version": "8.7"
+  },
+  {
+    "country": "de",
+    "id": "14339591875",
+    "author": "Spitzname 34",
+    "rating": 1,
+    "title": "Erst stark, dann stark nachgelassen",
+    "content": "Ich habe mir vor einigen Monaten Evermusic heruntergeladen, um von meinem iPhone Musik, direkt von meinem Synology NAS zu hören. Anfangs ging es problemlos. Nach dem tollen großen Update vor zwei Wochen geht nun gar nichts mehr. Habe mit der Hilfe von KI alles mögliche versucht. Ebenfalls den Support kontaktiert. Leider keine Rückmeldung. Ich bin nun auf ein Konkurrenzprodukt gewechselt. Wer eine Anwendung ähnlich meiner sucht, sollte besser eine andere App erwähnen.",
+    "date": "2026-07-23T12:09:04-07:00",
+    "version": "8.7"
   }
 ]

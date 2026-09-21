@@ -538,5 +538,55 @@
     "content": "Excelente para escuchar música guardada en el teléfono, buena fidelidad y esta última mejora es buenísima, pague el año completo y fue una gran decisión.",
     "date": "2026-05-23T03:17:10-07:00",
     "version": "7.5"
+  },
+  {
+    "country": "mx",
+    "id": "14570802150",
+    "author": "Tilieeee",
+    "rating": 5,
+    "title": "No funcionaaaaaaaaaa",
+    "content": "Se actualizó iOS 27.2 y no funciona, se cierra abruptamente",
+    "date": "2026-09-19T20:44:24-07:00",
+    "version": "7.6"
+  },
+  {
+    "country": "mx",
+    "id": "14561780980",
+    "author": "Joe10N",
+    "rating": 1,
+    "title": "No habré con iOS 27.2 Beta",
+    "content": "Se actualizó a la versión iOS 27.2 beta y dejó de funcionar",
+    "date": "2026-09-17T13:45:52-07:00",
+    "version": "7.6"
+  },
+  {
+    "country": "mx",
+    "id": "14379228315",
+    "author": "luixin One",
+    "rating": 5,
+    "title": "Magnífica",
+    "content": "Hasta que encontré una app que hace lo que verdaderamente necesito",
+    "date": "2026-08-02T09:08:39-07:00",
+    "version": "7.6"
+  },
+  {
+    "country": "mx",
+    "id": "14343319193",
+    "author": "ramiru912",
+    "rating": 4,
+    "title": "Más o menos",
+    "content": "En esta actualización mejoró un poco, 4 estrella 👍",
+    "date": "2026-07-24T10:31:02-07:00",
+    "version": "7.6"
+  },
+  {
+    "country": "mx",
+    "id": "14340175512",
+    "author": "Charly Pérez",
+    "rating": 3,
+    "title": "Ruido al conectar a CarPlay",
+    "content": "Es muy buena, solo que al conectar a CarPlay mete mucho ruido, como si tuviera un corto y es molesto porque no deja escuchar bien la música.",
+    "date": "2026-07-23T15:41:46-07:00",
+    "version": "7.6"
   }
 ]

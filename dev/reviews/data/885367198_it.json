@@ -518,5 +518,15 @@
     "content": "Consigliatissima.",
     "date": "2026-05-10T04:12:23-07:00",
     "version": "8.6"
+  },
+  {
+    "country": "it",
+    "id": "14524695742",
+    "author": "Locojazz",
+    "rating": 1,
+    "title": "piena di bachi",
+    "content": "una ciofeca assoluta, piena di bachi e la connessione con dropbox non funziona… ho provato a disinstallare e reinstallare diverse volte ma nulla. una perdita di tempo assoluta",
+    "date": "2026-09-08T03:11:36-07:00",
+    "version": "8.8"
   }
 ]

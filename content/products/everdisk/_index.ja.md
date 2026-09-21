@@ -275,49 +275,7 @@ iPhone や iPad をワイヤレスドライブに変えて <strong>ネットワ�
 <div class="hx:mt-6"></div>
 
 <div class="hx:w-full">
-{{< hextra/feature-grid cols="2">}}
-
-  {{< hextra/feature-card
-    title="無料"
-    class="pricing-card pricing-free"
-    subtitle=`<span class='pricing-details'>• デバイスをワイヤレスドライブに変える<br />
-• 5 つのサーバーを同時に: DLNA、HTTP、WebDAV、SMB、FTP<br />
-• スマート TV、ブラウザ、パソコンへストリーミング<br />
-• ネットワークドライブとしてマウント、USB で転送<br />
-• 写真と音楽のライブラリをまるごと共有<br />
-• DLNA、WebDAV、FTP、SFTP、SMB サーバーへ接続<br />
-• zip 圧縮と解凍に対応したファイルマネージャー<br />
-• 書類を PDF にスキャン、充実の PDF ツール<br />
-• PDF や写真に書き込み・署名<br />
-• パスワード保護とデバイスのブロック<br />
-• 共有フォルダーは最大 5 つ、保存できる接続は最大 10 件</span><br /><br />
-<span class='hx:block hx:mt-2 hx:text-center'>
-  <span class='pricing-btn hx:inline-block hx:rounded-full hx:border hx:border-gray-200 hx:dark:border-neutral-800 hx:px-3 hx:py-1 hx:transition-all hx:duration-200'>
-    <strong>無料</strong>
-  </span>
-</span>`
-  >}}
-
-  {{< hextra/feature-card
-    title="Premium Lifetime"
-    class="pricing-card pricing-lifetime"
-    subtitle=`<span class='pricing-details'>• 無料版のすべての機能<br />
-• 共有フォルダー無制限 (5 つ以上)<br />
-• 保存できる接続が無制限 (10 件以上)<br />
-• 写真・動画を互換性の高い形式やより小さいサイズに変換<br />
-• プライベートで安全な共有のための SMB3 暗号化 (AES)<br />
-• HTTP、WebDAV、SMB、FTP のポートをカスタマイズ<br />
-• アプリを開くと自動で共有を開始<br />
-• デバイスのカスタマイズ: 名前、アバターアイコン、グラデーションや写真<br />
-• 買い切り - 一度きりの支払いで、更新はありません</span><br /><br />
-<span class='hx:block hx:mt-2 hx:text-center'>
-  <span class='pricing-btn hx:inline-block hx:rounded-full hx:border hx:border-gray-200 hx:dark:border-neutral-800 hx:px-3 hx:py-1 hx:transition-all hx:duration-200'>
-    <strong>$9.99</strong>/買い切り
-  </span>
-</span>`
-  >}}
-
-{{< /hextra/feature-grid >}}
+{{< pricing-plans >}}
 
 </div>
 

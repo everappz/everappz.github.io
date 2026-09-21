@@ -1,0 +1,62 @@
+[
+  {
+    "country": "cz",
+    "id": "14007893188",
+    "author": "stasounm",
+    "rating": 5,
+    "title": "Masterpiece",
+    "content": "Nej apka na muziku, neznám lepší .",
+    "date": "2026-04-28T20:12:08-07:00",
+    "version": "8.5"
+  },
+  {
+    "country": "cz",
+    "id": "7957221165",
+    "author": "Olda1",
+    "rating": 3,
+    "title": "Troubles with SMB",
+    "content": "Good player, but download from SMB drive does not work. Probably after last update.",
+    "date": "2021-10-26T15:34:10-07:00",
+    "version": "4.7"
+  },
+  {
+    "country": "cz",
+    "id": "6643095285",
+    "author": "kardzi",
+    "rating": 3,
+    "title": "timer off is gone?",
+    "content": "where is please timer off. now is gone after update?\n\nthanks\n\nmichael",
+    "date": "2020-11-13T22:49:02-07:00",
+    "version": "4.3"
+  },
+  {
+    "country": "cz",
+    "id": "2418886039",
+    "author": "PragueObserver",
+    "rating": 5,
+    "title": "I am not able to play mp3 from SMB share!",
+    "content": "App does not show any files or the SMB share",
+    "date": "2018-04-13T13:16:47-07:00",
+    "version": "3.0"
+  },
+  {
+    "country": "cz",
+    "id": "1558825362",
+    "author": "HoliHK",
+    "rating": 5,
+    "title": "Great app!",
+    "content": "Great app! Recommend!",
+    "date": "2017-03-06T08:37:06-07:00",
+    "version": "2.6"
+  },
+  {
+    "country": "cz",
+    "id": "1394435278",
+    "author": "RadekP",
+    "rating": 5,
+    "title": "Výborný přehrávač",
+    "content": "Všem fanouškům hudby doporučuji.",
+    "date": "2016-06-14T12:57:10-07:00",
+    "version": "2.5"
+  }
+]

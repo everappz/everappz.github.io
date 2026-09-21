@@ -38,5 +38,15 @@
     "content": "I can’t let go...",
     "date": "2020-08-13T11:49:49-07:00",
     "version": "4.2"
+  },
+  {
+    "country": "zw",
+    "id": "14408563833",
+    "author": "1Ngara",
+    "rating": 1,
+    "title": "Not working great",
+    "content": "It doesn’t work with the dynamic island anymore. It doesn’t even appear in settings. Worse when playing music it doesn’t appear in lock screen or notifications, it only works in the app. It’s like someone is cutting this great application from the system.",
+    "date": "2026-08-09T17:29:33-07:00",
+    "version": "8.8"
   }
 ]

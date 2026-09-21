@@ -275,49 +275,7 @@ Ubah iPhone atau iPad jadi drive nirkabel yang berbagi file dengan <strong>peran
 <div class="hx:mt-6"></div>
 
 <div class="hx:w-full">
-{{< hextra/feature-grid cols="2">}}
-
-  {{< hextra/feature-card
-    title="Gratis"
-    class="pricing-card pricing-free"
-    subtitle=`<span class='pricing-details'>• Ubah perangkat Anda jadi drive nirkabel<br />
-• Lima server sekaligus: DLNA, HTTP, WebDAV, SMB, FTP<br />
-• Streaming ke smart TV, browser, dan komputer<br />
-• Pasang sebagai network drive dan transfer lewat USB<br />
-• Bagikan seluruh koleksi foto dan musik Anda<br />
-• Sambungkan ke server DLNA, WebDAV, FTP, SFTP, dan SMB<br />
-• Pengelola file dengan zip dan unzip<br />
-• Scan dokumen ke PDF dan alat PDF lengkap<br />
-• Beri catatan dan tanda tangani PDF serta foto<br />
-• Proteksi kata sandi dan pemblokiran perangkat<br />
-• Hingga 5 folder berbagi dan 10 koneksi tersimpan</span><br /><br />
-<span class='hx:block hx:mt-2 hx:text-center'>
-  <span class='pricing-btn hx:inline-block hx:rounded-full hx:border hx:border-gray-200 hx:dark:border-neutral-800 hx:px-3 hx:py-1 hx:transition-all hx:duration-200'>
-    <strong>Gratis</strong>
-  </span>
-</span>`
-  >}}
-
-  {{< hextra/feature-card
-    title="Premium Lifetime"
-    class="pricing-card pricing-lifetime"
-    subtitle=`<span class='pricing-details'>• Semua yang ada di Gratis<br />
-• Folder berbagi tanpa batas (lebih dari 5)<br />
-• Koneksi tersimpan tanpa batas (lebih dari 10)<br />
-• Konversi foto & video ke format kompatibel atau ukuran lebih kecil<br />
-• Enkripsi SMB3 (AES) untuk berbagi privat dan aman<br />
-• Port HTTP, WebDAV, SMB, dan FTP kustom<br />
-• Mulai berbagi otomatis saat Anda membuka aplikasi<br />
-• Kustomisasi perangkat: nama, ikon avatar, gradien atau foto<br />
-• Pembelian sekali bayar - ditagih sekali, tidak pernah diperpanjang</span><br /><br />
-<span class='hx:block hx:mt-2 hx:text-center'>
-  <span class='pricing-btn hx:inline-block hx:rounded-full hx:border hx:border-gray-200 hx:dark:border-neutral-800 hx:px-3 hx:py-1 hx:transition-all hx:duration-200'>
-    <strong>$9.99</strong>/seumur hidup
-  </span>
-</span>`
-  >}}
-
-{{< /hextra/feature-grid >}}
+{{< pricing-plans >}}
 
 </div>
 

@@ -538,5 +538,25 @@
     "content": "Je suis surpris de la qualité de l'application et des options de paramétrages. Grand merci.",
     "date": "2018-06-15T15:29:55.000Z",
     "version": null
+  },
+  {
+    "country": "fr",
+    "id": "14406361157",
+    "author": "Dubstep05",
+    "rating": 4,
+    "title": "Petits bugs depuis la MAJ",
+    "content": "C’est toujours un super lecteur, très fonctionnel et ergonomique. Mais depuis la grosse mise à jour, je rencontre des problèmes lors de la lecture de playlists, ou pendant l’utilisation du mode aléatoire. Les illustrations ne se chargent pas, la navigation entre les morceaux se bloque, et les titres joués ne sont pas retenus. \nUn petit correctif s’impose, mais pour le reste c’est une appli au top.",
+    "date": "2026-08-09T05:01:04-07:00",
+    "version": "7.6"
+  },
+  {
+    "country": "fr",
+    "id": "14337330211",
+    "author": "Vinyaaard",
+    "rating": 5,
+    "title": "Le meilleur lecteur audio dispo sur iOS, supasse même Deezer et Spotify 🔥🔥🔥",
+    "content": "Tout est dans le titre, et j’en ai testé énormément.\nBeaucoup trop de qualités :\n- prise en charge de nombreux formats audio\n- design toujours propre et complet, logique. On ne s’y perd pas 🙏\n- connexion à de nombreux services Cloud (Google Drive, Mega, Box, Dropbox, Proton, OneDrive, pCloud, MediaFire, …) et même du NAS local (QNAP, SYNOLOGY, Nextcloud, WD My Cloud Home, S3 Storage, …), ou encore des services multimédias (Plex, Subsonic, …),  et encore même en local via un import via connexion wifi (SFTP ou HTTPS je ne sais plus), ou même directement via SMB, FTP, DLNA, WebDAV, …\n- développeur très réactif, à l’écoute, et propose régulièrement des MAJ (stabilisation appli, résolution de bugs, amélioration des fonctionnalités\n- accès et modification des metadonnees possibles + affichage des propriétés de vos fichiers (permets de modifier les entrées (artiste, album, cover, … ou encore de vérifier en quelle qualité et format est votre fichiers)\n- equaliser puissant et très customisable en fonction des styles que vous écoutez\n\n\nPour moi c’est une chance et un sans faute d’avoir cette appli à dispo avec une licence perpétuelle pour si peu cher (ça vaut clairement le coup).\n\nDonc 5/5étoiles ⭐️⭐️⭐️⭐️⭐️\n\nAmélioration possible pour avoir la 6/5 étoiles 🤩\n-> avoir cette même application sur l’Apple Watch pour pouvoir écouter de la musique hors ligne, synchronisée sur la Watch 🥳\n\nTellement parfait : ça permettrait d’aller courir sans le téléphone 🤩😍🥳\n\nUn grand merci pour ce travail TITANESQUE et de qualité EXCEPTIONELLE 🔥🔥🔥",
+    "date": "2026-07-22T23:45:35-07:00",
+    "version": "7.6"
   }
 ]

@@ -275,49 +275,7 @@ Gør din iPhone eller iPad til et trådløst drev der deler filer med <strong>en
 <div class="hx:mt-6"></div>
 
 <div class="hx:w-full">
-{{< hextra/feature-grid cols="2">}}
-
-  {{< hextra/feature-card
-    title="Gratis"
-    class="pricing-card pricing-free"
-    subtitle=`<span class='pricing-details'>• Gør din enhed til et trådløst drev<br />
-• Fem servere på én gang: DLNA, HTTP, WebDAV, SMB, FTP<br />
-• Stream til smart-TV, browsere og computere<br />
-• Tilslut som netværksdrev og overfør over USB<br />
-• Del hele dit billed- og musikbibliotek<br />
-• Forbind til DLNA-, WebDAV-, FTP-, SFTP- og SMB-servere<br />
-• Filhåndtering med zip og udpakning<br />
-• Scan dokumenter til PDF og komplette PDF-værktøjer<br />
-• Marker og signer PDF'er og billeder<br />
-• Adgangskodebeskyttelse og blokering af enheder<br />
-• Op til 5 delte mapper og 10 gemte forbindelser</span><br /><br />
-<span class='hx:block hx:mt-2 hx:text-center'>
-  <span class='pricing-btn hx:inline-block hx:rounded-full hx:border hx:border-gray-200 hx:dark:border-neutral-800 hx:px-3 hx:py-1 hx:transition-all hx:duration-200'>
-    <strong>Gratis</strong>
-  </span>
-</span>`
-  >}}
-
-  {{< hextra/feature-card
-    title="Premium Lifetime"
-    class="pricing-card pricing-lifetime"
-    subtitle=`<span class='pricing-details'>• Alt i Gratis<br />
-• Ubegrænset antal delte mapper (mere end 5)<br />
-• Ubegrænset antal gemte forbindelser (mere end 10)<br />
-• Billed- og videokonvertering til et kompatibelt format eller mindre størrelse<br />
-• SMB3-kryptering (AES) til privat, sikker deling<br />
-• Brugerdefinerede HTTP-, WebDAV-, SMB- og FTP-porte<br />
-• Automatisk start af deling, når du åbner appen<br />
-• Tilpasning af enhed: navn, avatarikon, gradient eller billede<br />
-• Engangskøb - betales én gang, fornyes aldrig</span><br /><br />
-<span class='hx:block hx:mt-2 hx:text-center'>
-  <span class='pricing-btn hx:inline-block hx:rounded-full hx:border hx:border-gray-200 hx:dark:border-neutral-800 hx:px-3 hx:py-1 hx:transition-all hx:duration-200'>
-    <strong>$9.99</strong>/for altid
-  </span>
-</span>`
-  >}}
-
-{{< /hextra/feature-grid >}}
+{{< pricing-plans >}}
 
 </div>
 

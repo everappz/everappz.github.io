@@ -275,49 +275,7 @@ Biến iPhone hoặc iPad thành ổ đĩa không dây chia sẻ tập tin với
 <div class="hx:mt-6"></div>
 
 <div class="hx:w-full">
-{{< hextra/feature-grid cols="2">}}
-
-  {{< hextra/feature-card
-    title="Miễn phí"
-    class="pricing-card pricing-free"
-    subtitle=`<span class='pricing-details'>• Biến thiết bị của bạn thành ổ đĩa không dây<br />
-• Năm máy chủ cùng lúc: DLNA, HTTP, WebDAV, SMB, FTP<br />
-• Phát lên smart TV, trình duyệt và máy tính<br />
-• Gắn như ổ đĩa mạng và truyền qua USB<br />
-• Chia sẻ toàn bộ thư viện ảnh và nhạc<br />
-• Kết nối tới máy chủ DLNA, WebDAV, FTP, SFTP và SMB<br />
-• Trình quản lý tập tin có nén và giải nén<br />
-• Quét tài liệu thành PDF và bộ công cụ PDF đầy đủ<br />
-• Đánh dấu và ký PDF cùng ảnh<br />
-• Bảo vệ bằng mật khẩu và chặn thiết bị<br />
-• Tối đa 5 thư mục chia sẻ và 10 kết nối đã lưu</span><br /><br />
-<span class='hx:block hx:mt-2 hx:text-center'>
-  <span class='pricing-btn hx:inline-block hx:rounded-full hx:border hx:border-gray-200 hx:dark:border-neutral-800 hx:px-3 hx:py-1 hx:transition-all hx:duration-200'>
-    <strong>Miễn phí</strong>
-  </span>
-</span>`
-  >}}
-
-  {{< hextra/feature-card
-    title="Premium Lifetime"
-    class="pricing-card pricing-lifetime"
-    subtitle=`<span class='pricing-details'>• Mọi thứ trong gói Miễn phí<br />
-• Thư mục chia sẻ không giới hạn (hơn 5)<br />
-• Kết nối đã lưu không giới hạn (hơn 10)<br />
-• Chuyển đổi ảnh & video sang định dạng tương thích hoặc dung lượng nhỏ hơn<br />
-• Mã hóa SMB3 (AES) để chia sẻ riêng tư, an toàn<br />
-• Cổng HTTP, WebDAV, SMB và FTP tùy chỉnh<br />
-• Tự động bắt đầu chia sẻ khi mở ứng dụng<br />
-• Tùy chỉnh thiết bị: tên, ảnh đại diện, dải màu hoặc ảnh<br />
-• Mua một lần - tính phí một lần, không bao giờ gia hạn</span><br /><br />
-<span class='hx:block hx:mt-2 hx:text-center'>
-  <span class='pricing-btn hx:inline-block hx:rounded-full hx:border hx:border-gray-200 hx:dark:border-neutral-800 hx:px-3 hx:py-1 hx:transition-all hx:duration-200'>
-    <strong>$9.99</strong>/trọn đời
-  </span>
-</span>`
-  >}}
-
-{{< /hextra/feature-grid >}}
+{{< pricing-plans >}}
 
 </div>
 

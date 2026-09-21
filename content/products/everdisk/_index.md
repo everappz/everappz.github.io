@@ -277,49 +277,7 @@ Turn your iPhone or iPad into a wireless drive that shares files with <strong>an
 <div class="hx:mt-6"></div>
 
 <div class="hx:w-full">
-{{< hextra/feature-grid cols="2">}}
-
-  {{< hextra/feature-card
-    title="Free"
-    class="pricing-card pricing-free"
-    subtitle=`<span class='pricing-details'>• Turn your device into a wireless drive<br />
-• Five servers at once: DLNA, HTTP, WebDAV, SMB, FTP<br />
-• Stream to smart TVs, browsers and computers<br />
-• Mount as a network drive and transfer over USB<br />
-• Share your whole photo and music library<br />
-• Connect to DLNA, WebDAV, FTP, SFTP and SMB servers<br />
-• File manager with zip and unzip<br />
-• Scan documents to PDF and full PDF tools<br />
-• Mark up and sign PDFs and photos<br />
-• Password protection and device blocking<br />
-• Up to 5 shared folders and 10 saved connections</span><br /><br />
-<span class='hx:block hx:mt-2 hx:text-center'>
-  <span class='pricing-btn hx:inline-block hx:rounded-full hx:border hx:border-gray-200 hx:dark:border-neutral-800 hx:px-3 hx:py-1 hx:transition-all hx:duration-200'>
-    <strong>Free</strong>
-  </span>
-</span>`
-  >}}
-
-  {{< hextra/feature-card
-    title="Premium Lifetime"
-    class="pricing-card pricing-lifetime"
-    subtitle=`<span class='pricing-details'>• Everything in Free<br />
-• Unlimited shared folders (more than 5)<br />
-• Unlimited saved connections (more than 10)<br />
-• Photo & video conversion to a compatible format or smaller size<br />
-• SMB3 encryption (AES) for private, secure sharing<br />
-• Custom HTTP, WebDAV, SMB and FTP ports<br />
-• Auto-start sharing when you open the app<br />
-• Device customization: name, avatar icon, gradient or photo<br />
-• One-time purchase - charged once, never renews</span><br /><br />
-<span class='hx:block hx:mt-2 hx:text-center'>
-  <span class='pricing-btn hx:inline-block hx:rounded-full hx:border hx:border-gray-200 hx:dark:border-neutral-800 hx:px-3 hx:py-1 hx:transition-all hx:duration-200'>
-    <strong>$9.99</strong>/lifetime
-  </span>
-</span>`
-  >}}
-
-{{< /hextra/feature-grid >}}
+{{< pricing-plans >}}
 
 </div>
 

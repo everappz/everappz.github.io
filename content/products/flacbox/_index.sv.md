@@ -197,17 +197,7 @@ App Store-recensioner
 
 <div class="hx:w-full">
 
-{{< hextra/feature-grid cols="4">}}
-
-  {{< hextra/feature-card title="Gratis" class="pricing-card pricing-free" subtitle=`<span class='pricing-details'>• Innehåller annonser<br />• Spellistor (10)<br />• Molntjänster (3)<br />• Arkiverade mediasamlingar (3)<br />• Favoriter (1000)<br />• Låtar i spellista (1000)<br />• Låtar i kö (750)<br />• Offlinemappar (1)<br />• Offlinealbum (1)<br />• Automatisk taggsökning (20)<br />• Export till M3U (5)<br />• Ladda ner filer</span><br /><br /><span class='hx:block hx:mt-2 hx:text-center'><span class='pricing-btn hx:inline-block hx:rounded-full hx:border hx:border-gray-200 hx:dark:border-neutral-800 hx:px-3 hx:py-1 hx:transition-all hx:duration-200'><strong>Gratis</strong></span></span>` >}}
-
-  {{< hextra/feature-card title="Premium månadsvis" class="pricing-card pricing-subscription" subtitle=`<span class='pricing-details'>• Annonsfri upplevelse<br />• Obegränsade spellistor<br />• Obegränsade molntjänster<br />• Obegränsad mediaarkivering<br />• Obegränsade favoriter<br />• Obegränsade låtar i spellista<br />• Obegränsade låtar i kö<br />• Obegränsade offlinemappar<br />• Obegränsade offlinealbum<br />• Obegränsad taggsökning<br />• Obegränsad export till M3U<br />• Ladda ner filer<br />• Ladda ner mappar<br />• Ladda ner samlingar<br />• Full personalisering</span><br /><br /><span class='hx:block hx:mt-2 hx:text-center'><span class='pricing-btn hx:inline-block hx:rounded-full hx:border hx:border-gray-200 hx:dark:border-neutral-800 hx:px-3 hx:py-1 hx:transition-all hx:duration-200'><strong>$2.99</strong>/månad</span></span>` >}}
-
-  {{< hextra/feature-card title="Premium årsvis" class="pricing-card pricing-subscription" subtitle=`<span class='pricing-details'>• Annonsfri upplevelse<br />• Obegränsade spellistor<br />• Obegränsade molntjänster<br />• Obegränsad mediaarkivering<br />• Obegränsade favoriter<br />• Obegränsade låtar i spellista<br />• Obegränsade låtar i kö<br />• Obegränsade offlinemappar<br />• Obegränsade offlinealbum<br />• Obegränsad taggsökning<br />• Obegränsad export till M3U<br />• Ladda ner filer<br />• Ladda ner mappar<br />• Ladda ner samlingar<br />• Full personalisering</span><br /><br /><span class='hx:block hx:mt-2 hx:text-center'><span class='pricing-btn hx:inline-block hx:rounded-full hx:border hx:border-gray-200 hx:dark:border-neutral-800 hx:px-3 hx:py-1 hx:transition-all hx:duration-200'><strong>$19.99</strong>/år</span></span>` >}}
-
-  {{< hextra/feature-card title="Premium livstid" class="pricing-card pricing-lifetime" subtitle=`<span class='pricing-details'>• Annonsfri upplevelse<br />• Obegränsade spellistor<br />• Obegränsade molntjänster<br />• Obegränsad mediaarkivering<br />• Obegränsade favoriter<br />• Obegränsade låtar i spellista<br />• Obegränsade låtar i kö<br />• Obegränsade offlinemappar<br />• Obegränsade offlinealbum<br />• Obegränsad taggsökning<br />• Obegränsad export till M3U<br />• Ladda ner filer<br />• Ladda ner mappar<br />• Ladda ner samlingar<br />• Full personalisering</span><br /><br /><span class='hx:block hx:mt-2 hx:text-center'><span class='pricing-btn hx:inline-block hx:rounded-full hx:border hx:border-gray-200 hx:dark:border-neutral-800 hx:px-3 hx:py-1 hx:transition-all hx:duration-200'><strong>$69.99</strong>/livstid</span></span>` >}}
-
-{{< /hextra/feature-grid >}}
+{{< pricing-plans >}}
 
 </div>
 

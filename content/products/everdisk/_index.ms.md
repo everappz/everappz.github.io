@@ -275,49 +275,7 @@ Jadikan iPhone atau iPad anda pemacu tanpa wayar yang berkongsi fail dengan <str
 <div class="hx:mt-6"></div>
 
 <div class="hx:w-full">
-{{< hextra/feature-grid cols="2">}}
-
-  {{< hextra/feature-card
-    title="Percuma"
-    class="pricing-card pricing-free"
-    subtitle=`<span class='pricing-details'>• Jadikan peranti anda pemacu tanpa wayar<br />
-• Lima pelayan serentak: DLNA, HTTP, WebDAV, SMB, FTP<br />
-• Strim ke TV pintar, pelayar dan komputer<br />
-• Lekap sebagai pemacu rangkaian dan pindah melalui USB<br />
-• Kongsi seluruh pustaka foto dan muzik anda<br />
-• Sambung ke pelayan DLNA, WebDAV, FTP, SFTP dan SMB<br />
-• Pengurus fail dengan zip dan nyahzip<br />
-• Imbas dokumen ke PDF dan alatan PDF penuh<br />
-• Tandakan dan tandatangani PDF serta foto<br />
-• Perlindungan kata laluan dan sekatan peranti<br />
-• Sehingga 5 folder kongsi dan 10 sambungan tersimpan</span><br /><br />
-<span class='hx:block hx:mt-2 hx:text-center'>
-  <span class='pricing-btn hx:inline-block hx:rounded-full hx:border hx:border-gray-200 hx:dark:border-neutral-800 hx:px-3 hx:py-1 hx:transition-all hx:duration-200'>
-    <strong>Percuma</strong>
-  </span>
-</span>`
-  >}}
-
-  {{< hextra/feature-card
-    title="Premium Sepanjang Hayat"
-    class="pricing-card pricing-lifetime"
-    subtitle=`<span class='pricing-details'>• Semua dalam Percuma<br />
-• Folder kongsi tanpa had (lebih daripada 5)<br />
-• Sambungan tersimpan tanpa had (lebih daripada 10)<br />
-• Penukaran foto & video kepada format serasi atau saiz lebih kecil<br />
-• Penyulitan SMB3 (AES) untuk perkongsian peribadi dan selamat<br />
-• Port HTTP, WebDAV, SMB dan FTP tersuai<br />
-• Mula kongsi secara automatik apabila anda membuka aplikasi<br />
-• Penyesuaian peranti: nama, ikon avatar, kecerunan atau foto<br />
-• Pembelian sekali sahaja - dicaj sekali, tidak pernah diperbaharui</span><br /><br />
-<span class='hx:block hx:mt-2 hx:text-center'>
-  <span class='pricing-btn hx:inline-block hx:rounded-full hx:border hx:border-gray-200 hx:dark:border-neutral-800 hx:px-3 hx:py-1 hx:transition-all hx:duration-200'>
-    <strong>$9.99</strong>/sepanjang hayat
-  </span>
-</span>`
-  >}}
-
-{{< /hextra/feature-grid >}}
+{{< pricing-plans >}}
 
 </div>
 

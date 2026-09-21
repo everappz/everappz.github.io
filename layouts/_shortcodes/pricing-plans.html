@@ -1,0 +1,58 @@
+{{- /*
+  pricing-plans: render an app's pricing plans from data/pricing.yaml.
+  App key comes from the page directory (or a `product` param).
+
+  Each feature shows title (left) + limit (right):
+    number -> red text | X -> red cross | V -> tint check | U -> tint ∞
+  Grid columns follow the number of plans.
+
+  @example {{< pricing-plans >}}
+*/ -}}
+{{- $app := .Get "product" | default (path.Base .Page.File.Dir) -}}
+{{- $data := index hugo.Data.pricing $app -}}
+{{- with $data -}}
+{{- $features := .features -}}
+{{- $cols := len .plans -}}
+{{- /* App Store link built from the single source of truth (data/apps.yaml). */ -}}
+{{- $iosId := index (index hugo.Data.apps $app) "ios" -}}
+{{- $storeLink := printf "https://apps.apple.com/app/apple-store/id%s?%s" $iosId site.Params.appStoreAffiliate -}}
+{{- $iconCross := (resources.Get "icons/pricing/cross.svg").Content -}}
+{{- $iconCheck := (resources.Get "icons/pricing/check.svg").Content -}}
+{{- $iconInfinity := (resources.Get "icons/pricing/infinity.svg").Content -}}
+<div class="pricing-plans hextra-feature-grid hx:grid hx:sm:max-lg:grid-cols-2 hx:max-sm:grid-cols-1 hx:gap-4 hx:w-full not-prose" style="--hextra-feature-grid-cols: {{ $cols }};">
+  {{- range $plan := .plans -}}
+  <div class="pricing-card pricing-{{ $plan.tier }} pricing-plan-card not-prose hx:relative hx:overflow-hidden hx:rounded-3xl hx:border hx:border-gray-200 hx:dark:border-neutral-800 hx:before:pointer-events-none hx:before:absolute hx:before:inset-0 hx:before:bg-glass-gradient">
+    <div class="hx:relative hx:w-full hx:p-6">
+      <h3 class="pricing-title">{{ i18n $plan.titleKey }}</h3>
+      <div class="pricing-features">
+        {{- range $i, $ft := $features -}}
+          {{- $limit := index $plan.limits $i -}}
+          <div class="pricing-feature">
+            <span class="pf-title">{{ i18n $ft }}</span>
+            {{- if findRE `^[0-9]` $limit -}}
+              {{- $disp := $limit -}}
+              {{- if hasSuffix $limit "/day" -}}{{- $disp = printf "%s%s" (strings.TrimSuffix "/day" $limit) (i18n "pricingRatePerDay") -}}{{- end -}}
+              <span class="pf-limit pf-num">{{ $disp }}</span>
+            {{- else if eq $limit "X" -}}
+              <span class="pf-limit pf-x">{{ $iconCross | safeHTML }}</span>
+            {{- else if eq $limit "V" -}}
+              <span class="pf-limit pf-v">{{ $iconCheck | safeHTML }}</span>
+            {{- else if eq $limit "U" -}}
+              <span class="pf-limit pf-u">{{ $iconInfinity | safeHTML }}</span>
+            {{- end -}}
+          </div>
+        {{- end -}}
+      </div>
+      {{- with $plan.button -}}
+        {{- /* Paid plans show the bare price; free shows its localized label. */ -}}
+        {{- $label := i18n .key -}}
+        {{- with .price -}}{{- $label = . -}}{{- end -}}
+      <a class="pricing-btn" href="{{ $storeLink }}" target="_blank" rel="noopener noreferrer"><span>{{ $label }}</span></a>
+      {{- end -}}
+    </div>
+  </div>
+  {{- end -}}
+</div>
+{{- else -}}
+  {{- warnf "pricing-plans: no data/pricing entry for %q" $app -}}
+{{- end -}}

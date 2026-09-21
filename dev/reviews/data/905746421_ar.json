@@ -1,0 +1,22 @@
+[
+  {
+    "country": "ar",
+    "id": "3023300072",
+    "author": "Sergiov8",
+    "rating": 1,
+    "title": "Le puse contraseña y ahora se cierra solo",
+    "content": "Le puse contraseña y ahora se cierra solo. Y no me da lugar a quitarle la password porque se cierra solo",
+    "date": "2018-08-05T19:26:12-07:00",
+    "version": "3.2"
+  },
+  {
+    "country": "ar",
+    "id": "1391807919",
+    "author": "Truchisoft",
+    "rating": 5,
+    "title": "Excelente",
+    "content": "Hace todo lo que podría pedir",
+    "date": "2016-06-09T18:54:37-07:00",
+    "version": "2.4"
+  }
+]

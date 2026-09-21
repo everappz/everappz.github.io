@@ -275,49 +275,7 @@ Pretvorite iPhone ili iPad u bežični disk koji dijeli datoteke sa <strong>svak
 <div class="hx:mt-6"></div>
 
 <div class="hx:w-full">
-{{< hextra/feature-grid cols="2">}}
-
-  {{< hextra/feature-card
-    title="Besplatno"
-    class="pricing-card pricing-free"
-    subtitle=`<span class='pricing-details'>• Pretvorite uređaj u bežični disk<br />
-• Pet poslužitelja odjednom: DLNA, HTTP, WebDAV, SMB, FTP<br />
-• Strujanje na pametne TV-e, preglednike i računala<br />
-• Povezivanje kao mrežni disk i prijenos putem USB-a<br />
-• Dijelite cijelu biblioteku fotografija i glazbe<br />
-• Povezivanje na DLNA, WebDAV, FTP, SFTP i SMB poslužitelje<br />
-• Upravitelj datoteka sa zip i unzip<br />
-• Skeniranje dokumenata u PDF i potpuni PDF alati<br />
-• Označavanje i potpisivanje PDF-ova i fotografija<br />
-• Zaštita lozinkom i blokiranje uređaja<br />
-• Do 5 dijeljenih mapa i 10 spremljenih veza</span><br /><br />
-<span class='hx:block hx:mt-2 hx:text-center'>
-  <span class='pricing-btn hx:inline-block hx:rounded-full hx:border hx:border-gray-200 hx:dark:border-neutral-800 hx:px-3 hx:py-1 hx:transition-all hx:duration-200'>
-    <strong>Besplatno</strong>
-  </span>
-</span>`
-  >}}
-
-  {{< hextra/feature-card
-    title="Premium Lifetime"
-    class="pricing-card pricing-lifetime"
-    subtitle=`<span class='pricing-details'>• Sve iz Besplatnog<br />
-• Neograničen broj dijeljenih mapa (više od 5)<br />
-• Neograničen broj spremljenih veza (više od 10)<br />
-• Pretvorba fotografija i videa u kompatibilan format ili manju veličinu<br />
-• SMB3 šifriranje (AES) za privatno i sigurno dijeljenje<br />
-• Prilagođeni HTTP, WebDAV, SMB i FTP portovi<br />
-• Automatsko pokretanje dijeljenja kad otvorite aplikaciju<br />
-• Prilagodba uređaja: naziv, avatar ikona, gradijent ili fotografija<br />
-• Jednokratna kupnja - naplaćuje se jednom, nikada se ne obnavlja</span><br /><br />
-<span class='hx:block hx:mt-2 hx:text-center'>
-  <span class='pricing-btn hx:inline-block hx:rounded-full hx:border hx:border-gray-200 hx:dark:border-neutral-800 hx:px-3 hx:py-1 hx:transition-all hx:duration-200'>
-    <strong>$9.99</strong>/doživotno
-  </span>
-</span>`
-  >}}
-
-{{< /hextra/feature-grid >}}
+{{< pricing-plans >}}
 
 </div>
 

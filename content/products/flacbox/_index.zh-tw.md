@@ -172,17 +172,7 @@ App Store評論
 
 <div class="hx:w-full">
 
-{{< hextra/feature-grid cols="4">}}
-
-  {{< hextra/feature-card title="免費" class="pricing-card pricing-free" subtitle=`<span class='pricing-details'>• 包含廣告<br />• 播放清單 (10)<br />• 雲端服務 (3)<br />• 歸檔媒體收藏 (3)<br />• 收藏 (1000)<br />• 播放清單中的歌曲 (1000)<br />• 佇列中的歌曲 (750)<br />• 離線資料夾 (1)<br />• 離線專輯 (1)<br />• 自動標籤搜尋 (20)<br />• 匯出到M3U (5)<br />• 下載檔案</span><br /><br /><span class='hx:block hx:mt-2 hx:text-center'><span class='pricing-btn hx:inline-block hx:rounded-full hx:border hx:border-gray-200 hx:dark:border-neutral-800 hx:px-3 hx:py-1 hx:transition-all hx:duration-200'><strong>免費</strong></span></span>` >}}
-
-  {{< hextra/feature-card title="Premium每月" class="pricing-card pricing-subscription" subtitle=`<span class='pricing-details'>• 無廣告體驗<br />• 無限播放清單<br />• 無限雲端服務<br />• 無限媒體歸檔<br />• 無限收藏<br />• 播放清單中無限歌曲<br />• 佇列中無限歌曲<br />• 無限離線資料夾<br />• 無限離線專輯<br />• 無限標籤搜尋<br />• 無限M3U匯出<br />• 下載檔案<br />• 下載資料夾<br />• 下載收藏<br />• 完全個人化</span><br /><br /><span class='hx:block hx:mt-2 hx:text-center'><span class='pricing-btn hx:inline-block hx:rounded-full hx:border hx:border-gray-200 hx:dark:border-neutral-800 hx:px-3 hx:py-1 hx:transition-all hx:duration-200'><strong>$2.99</strong>/月</span></span>` >}}
-
-  {{< hextra/feature-card title="Premium每年" class="pricing-card pricing-subscription" subtitle=`<span class='pricing-details'>• 無廣告體驗<br />• 無限播放清單<br />• 無限雲端服務<br />• 無限媒體歸檔<br />• 無限收藏<br />• 播放清單中無限歌曲<br />• 佇列中無限歌曲<br />• 無限離線資料夾<br />• 無限離線專輯<br />• 無限標籤搜尋<br />• 無限M3U匯出<br />• 下載檔案<br />• 下載資料夾<br />• 下載收藏<br />• 完全個人化</span><br /><br /><span class='hx:block hx:mt-2 hx:text-center'><span class='pricing-btn hx:inline-block hx:rounded-full hx:border hx:border-gray-200 hx:dark:border-neutral-800 hx:px-3 hx:py-1 hx:transition-all hx:duration-200'><strong>$19.99</strong>/年</span></span>` >}}
-
-  {{< hextra/feature-card title="Premium終身" class="pricing-card pricing-lifetime" subtitle=`<span class='pricing-details'>• 無廣告體驗<br />• 無限播放清單<br />• 無限雲端服務<br />• 無限媒體歸檔<br />• 無限收藏<br />• 播放清單中無限歌曲<br />• 佇列中無限歌曲<br />• 無限離線資料夾<br />• 無限離線專輯<br />• 無限標籤搜尋<br />• 無限M3U匯出<br />• 下載檔案<br />• 下載資料夾<br />• 下載收藏<br />• 完全個人化</span><br /><br /><span class='hx:block hx:mt-2 hx:text-center'><span class='pricing-btn hx:inline-block hx:rounded-full hx:border hx:border-gray-200 hx:dark:border-neutral-800 hx:px-3 hx:py-1 hx:transition-all hx:duration-200'><strong>$69.99</strong>/終身</span></span>` >}}
-
-{{< /hextra/feature-grid >}}
+{{< pricing-plans >}}
 
 </div>
 

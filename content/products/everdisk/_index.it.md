@@ -275,49 +275,7 @@ Trasforma iPhone o iPad in un disco wireless che condivide file con <strong>qual
 <div class="hx:mt-6"></div>
 
 <div class="hx:w-full">
-{{< hextra/feature-grid cols="2">}}
-
-  {{< hextra/feature-card
-    title="Free"
-    class="pricing-card pricing-free"
-    subtitle=`<span class='pricing-details'>• Trasforma il tuo dispositivo in un disco wireless<br />
-• Cinque server insieme: DLNA, HTTP, WebDAV, SMB, FTP<br />
-• Streaming su smart TV, browser e computer<br />
-• Montaggio come disco di rete e trasferimento via USB<br />
-• Condividi l'intera libreria di foto e musica<br />
-• Connessione a server DLNA, WebDAV, FTP, SFTP e SMB<br />
-• Gestore file con comprimi ed estrai<br />
-• Scansione documenti in PDF e strumenti PDF completi<br />
-• Annotazione e firma di PDF e foto<br />
-• Protezione con password e blocco dei dispositivi<br />
-• Fino a 5 cartelle condivise e 10 connessioni salvate</span><br /><br />
-<span class='hx:block hx:mt-2 hx:text-center'>
-  <span class='pricing-btn hx:inline-block hx:rounded-full hx:border hx:border-gray-200 hx:dark:border-neutral-800 hx:px-3 hx:py-1 hx:transition-all hx:duration-200'>
-    <strong>Gratis</strong>
-  </span>
-</span>`
-  >}}
-
-  {{< hextra/feature-card
-    title="Premium Lifetime"
-    class="pricing-card pricing-lifetime"
-    subtitle=`<span class='pricing-details'>• Tutto ciò che c'è in Free<br />
-• Cartelle condivise illimitate (più di 5)<br />
-• Connessioni salvate illimitate (più di 10)<br />
-• Conversione di foto e video in un formato compatibile o di dimensioni ridotte<br />
-• Cifratura SMB3 (AES) per una condivisione privata e sicura<br />
-• Porte HTTP, WebDAV, SMB e FTP personalizzate<br />
-• Avvio automatico della condivisione all'apertura dell'app<br />
-• Personalizzazione del dispositivo: nome, avatar, gradiente o foto<br />
-• Acquisto una tantum - pagato una volta, non si rinnova mai</span><br /><br />
-<span class='hx:block hx:mt-2 hx:text-center'>
-  <span class='pricing-btn hx:inline-block hx:rounded-full hx:border hx:border-gray-200 hx:dark:border-neutral-800 hx:px-3 hx:py-1 hx:transition-all hx:duration-200'>
-    <strong>$9.99</strong>/una tantum
-  </span>
-</span>`
-  >}}
-
-{{< /hextra/feature-grid >}}
+{{< pricing-plans >}}
 
 </div>
 

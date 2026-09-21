@@ -275,49 +275,7 @@ Proměňte svůj iPhone nebo iPad v bezdrátový disk který sdílí soubory s <
 <div class="hx:mt-6"></div>
 
 <div class="hx:w-full">
-{{< hextra/feature-grid cols="2">}}
-
-  {{< hextra/feature-card
-    title="Zdarma"
-    class="pricing-card pricing-free"
-    subtitle=`<span class='pricing-details'>• Proměňte své zařízení v bezdrátový disk<br />
-• Pět serverů najednou: DLNA, HTTP, WebDAV, SMB, FTP<br />
-• Streamujte do chytrých TV, prohlížečů a počítačů<br />
-• Připojte jako síťový disk a přenášejte přes USB<br />
-• Sdílejte celou svou knihovnu fotek a hudby<br />
-• Připojte se k serverům DLNA, WebDAV, FTP, SFTP a SMB<br />
-• Správce souborů se zabalením a rozbalením zip<br />
-• Skenování dokumentů do PDF a kompletní nástroje pro PDF<br />
-• Označujte a podepisujte PDF a fotky<br />
-• Ochrana heslem a blokování zařízení<br />
-• Až 5 sdílených složek a 10 uložených připojení</span><br /><br />
-<span class='hx:block hx:mt-2 hx:text-center'>
-  <span class='pricing-btn hx:inline-block hx:rounded-full hx:border hx:border-gray-200 hx:dark:border-neutral-800 hx:px-3 hx:py-1 hx:transition-all hx:duration-200'>
-    <strong>Zdarma</strong>
-  </span>
-</span>`
-  >}}
-
-  {{< hextra/feature-card
-    title="Premium Lifetime"
-    class="pricing-card pricing-lifetime"
-    subtitle=`<span class='pricing-details'>• Vše z verze Zdarma<br />
-• Neomezené sdílené složky (více než 5)<br />
-• Neomezená uložená připojení (více než 10)<br />
-• Převod fotek a videí do kompatibilního formátu nebo menší velikosti<br />
-• Šifrování SMB3 (AES) pro soukromé a bezpečné sdílení<br />
-• Vlastní porty HTTP, WebDAV, SMB a FTP<br />
-• Automatické spuštění sdílení při otevření aplikace<br />
-• Přizpůsobení zařízení: název, ikona avatara, přechod nebo fotka<br />
-• Jednorázový nákup - zaplatíte jednou, nikdy se neobnovuje</span><br /><br />
-<span class='hx:block hx:mt-2 hx:text-center'>
-  <span class='pricing-btn hx:inline-block hx:rounded-full hx:border hx:border-gray-200 hx:dark:border-neutral-800 hx:px-3 hx:py-1 hx:transition-all hx:duration-200'>
-    <strong>$9.99</strong>/trvale
-  </span>
-</span>`
-  >}}
-
-{{< /hextra/feature-grid >}}
+{{< pricing-plans >}}
 
 </div>
 

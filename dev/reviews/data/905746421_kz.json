@@ -1,0 +1,42 @@
+[
+  {
+    "country": "kz",
+    "id": "10482094088",
+    "author": "Askar_Norman",
+    "rating": 5,
+    "title": "Хорошо, но…",
+    "content": "Хорошое приложение, купил и не жалею.\nНо пожалуйста сделайте чтобы можно было выбирать виды плееров, сделайте плеер как в Aimp. На две страницы, с одной стороны Плеер, а на правой странице список треков в очереди. Так было бы удобнее.",
+    "date": "2023-10-16T10:38:08-07:00",
+    "version": "5.6"
+  },
+  {
+    "country": "kz",
+    "id": "10477855293",
+    "author": "Се1ня6",
+    "rating": 5,
+    "title": "Ver 5.6 crash after start app",
+    "content": "Cool  mediaplayer, but after yesterday update crash after start app. Fix it please, thank you!",
+    "date": "2023-10-15T07:46:42-07:00",
+    "version": "5.6"
+  },
+  {
+    "country": "kz",
+    "id": "3703537791",
+    "author": "GOD_EGO",
+    "rating": 5,
+    "title": "Не работает синхронизация с one drive",
+    "content": "После обновления перестала работать синхронизация с one drive",
+    "date": "2019-01-27T22:32:56-07:00",
+    "version": "3.4"
+  },
+  {
+    "country": "kz",
+    "id": "1356016122",
+    "author": "Mr.Asset",
+    "rating": 5,
+    "title": "Great application for music lovers",
+    "content": "So far so good. Couldn't find any issues or bugs so far. Syncs very well, offline play mode is very intuitive. Enjoying it.",
+    "date": "2016-03-30T12:50:31-07:00",
+    "version": "2.2"
+  }
+]

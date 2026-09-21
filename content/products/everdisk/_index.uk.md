@@ -275,49 +275,7 @@ Everdisk - це додаток-бездротовий диск для iPhone т�
 <div class="hx:mt-6"></div>
 
 <div class="hx:w-full">
-{{< hextra/feature-grid cols="2">}}
-
-  {{< hextra/feature-card
-    title="Безкоштовно"
-    class="pricing-card pricing-free"
-    subtitle=`<span class='pricing-details'>• Перетворіть пристрій на бездротовий диск<br />
-• П'ять серверів одночасно: DLNA, HTTP, WebDAV, SMB, FTP<br />
-• Трансляція на смарт-телевізори, браузери та комп'ютери<br />
-• Підключення як мережевий диск і передача через USB<br />
-• Спільний доступ до всієї бібліотеки фото й музики<br />
-• Підключення до серверів DLNA, WebDAV, FTP, SFTP і SMB<br />
-• Файловий менеджер з архівуванням і розпакуванням<br />
-• Сканування документів у PDF і повні інструменти PDF<br />
-• Розмітка та підпис PDF і фото<br />
-• Захист паролем і блокування пристроїв<br />
-• До 5 спільних папок і 10 збережених з'єднань</span><br /><br />
-<span class='hx:block hx:mt-2 hx:text-center'>
-  <span class='pricing-btn hx:inline-block hx:rounded-full hx:border hx:border-gray-200 hx:dark:border-neutral-800 hx:px-3 hx:py-1 hx:transition-all hx:duration-200'>
-    <strong>Безкоштовно</strong>
-  </span>
-</span>`
-  >}}
-
-  {{< hextra/feature-card
-    title="Premium Lifetime"
-    class="pricing-card pricing-lifetime"
-    subtitle=`<span class='pricing-details'>• Усе з безкоштовної версії<br />
-• Необмежена кількість спільних папок (понад 5)<br />
-• Необмежена кількість збережених з'єднань (понад 10)<br />
-• Конвертація фото та відео у сумісний формат або менший розмір<br />
-• Шифрування SMB3 (AES) для приватного, безпечного спільного доступу<br />
-• Власні порти HTTP, WebDAV, SMB і FTP<br />
-• Автозапуск спільного доступу під час відкриття додатка<br />
-• Персоналізація пристрою: назва, значок-аватар, градієнт чи фото<br />
-• Разова покупка - оплата один раз, без поновлень</span><br /><br />
-<span class='hx:block hx:mt-2 hx:text-center'>
-  <span class='pricing-btn hx:inline-block hx:rounded-full hx:border hx:border-gray-200 hx:dark:border-neutral-800 hx:px-3 hx:py-1 hx:transition-all hx:duration-200'>
-    <strong>$9.99</strong>/назавжди
-  </span>
-</span>`
-  >}}
-
-{{< /hextra/feature-grid >}}
+{{< pricing-plans >}}
 
 </div>
 

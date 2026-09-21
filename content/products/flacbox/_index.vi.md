@@ -174,17 +174,7 @@ Thiết kế trực quan
 
 <div class="hx:w-full">
 
-{{< hextra/feature-grid cols="4">}}
-
-  {{< hextra/feature-card title="Miễn phí" class="pricing-card pricing-free" subtitle=`<span class='pricing-details'>• Có quảng cáo<br />• Danh sách phát (10)<br />• Dịch vụ đám mây (3)<br />• Bộ sưu tập phương tiện lưu trữ (3)<br />• Yêu thích (1000)<br />• Bài hát trong danh sách phát (1000)<br />• Bài hát trong hàng đợi (750)<br />• Thư mục ngoại tuyến (1)<br />• Album ngoại tuyến (1)<br />• Tìm kiếm tag tự động (20)<br />• Xuất sang M3U (5)<br />• Tải xuống tệp</span><br /><br /><span class='hx:block hx:mt-2 hx:text-center'><span class='pricing-btn hx:inline-block hx:rounded-full hx:border hx:border-gray-200 hx:dark:border-neutral-800 hx:px-3 hx:py-1 hx:transition-all hx:duration-200'><strong>Miễn phí</strong></span></span>` >}}
-
-  {{< hextra/feature-card title="Premium hàng tháng" class="pricing-card pricing-subscription" subtitle=`<span class='pricing-details'>• Trải nghiệm không quảng cáo<br />• Danh sách phát không giới hạn<br />• Dịch vụ đám mây không giới hạn<br />• Lưu trữ phương tiện không giới hạn<br />• Yêu thích không giới hạn<br />• Bài hát trong danh sách phát không giới hạn<br />• Bài hát trong hàng đợi không giới hạn<br />• Thư mục ngoại tuyến không giới hạn<br />• Album ngoại tuyến không giới hạn<br />• Tìm kiếm tag không giới hạn<br />• Xuất M3U không giới hạn<br />• Tải xuống tệp<br />• Tải xuống thư mục<br />• Tải xuống bộ sưu tập<br />• Cá nhân hóa đầy đủ</span><br /><br /><span class='hx:block hx:mt-2 hx:text-center'><span class='pricing-btn hx:inline-block hx:rounded-full hx:border hx:border-gray-200 hx:dark:border-neutral-800 hx:px-3 hx:py-1 hx:transition-all hx:duration-200'><strong>$2.99</strong>/tháng</span></span>` >}}
-
-  {{< hextra/feature-card title="Premium hàng năm" class="pricing-card pricing-subscription" subtitle=`<span class='pricing-details'>• Trải nghiệm không quảng cáo<br />• Danh sách phát không giới hạn<br />• Dịch vụ đám mây không giới hạn<br />• Lưu trữ phương tiện không giới hạn<br />• Yêu thích không giới hạn<br />• Bài hát trong danh sách phát không giới hạn<br />• Bài hát trong hàng đợi không giới hạn<br />• Thư mục ngoại tuyến không giới hạn<br />• Album ngoại tuyến không giới hạn<br />• Tìm kiếm tag không giới hạn<br />• Xuất M3U không giới hạn<br />• Tải xuống tệp<br />• Tải xuống thư mục<br />• Tải xuống bộ sưu tập<br />• Cá nhân hóa đầy đủ</span><br /><br /><span class='hx:block hx:mt-2 hx:text-center'><span class='pricing-btn hx:inline-block hx:rounded-full hx:border hx:border-gray-200 hx:dark:border-neutral-800 hx:px-3 hx:py-1 hx:transition-all hx:duration-200'><strong>$19.99</strong>/năm</span></span>` >}}
-
-  {{< hextra/feature-card title="Premium trọn đời" class="pricing-card pricing-lifetime" subtitle=`<span class='pricing-details'>• Trải nghiệm không quảng cáo<br />• Danh sách phát không giới hạn<br />• Dịch vụ đám mây không giới hạn<br />• Lưu trữ phương tiện không giới hạn<br />• Yêu thích không giới hạn<br />• Bài hát trong danh sách phát không giới hạn<br />• Bài hát trong hàng đợi không giới hạn<br />• Thư mục ngoại tuyến không giới hạn<br />• Album ngoại tuyến không giới hạn<br />• Tìm kiếm tag không giới hạn<br />• Xuất M3U không giới hạn<br />• Tải xuống tệp<br />• Tải xuống thư mục<br />• Tải xuống bộ sưu tập<br />• Cá nhân hóa đầy đủ</span><br /><br /><span class='hx:block hx:mt-2 hx:text-center'><span class='pricing-btn hx:inline-block hx:rounded-full hx:border hx:border-gray-200 hx:dark:border-neutral-800 hx:px-3 hx:py-1 hx:transition-all hx:duration-200'><strong>$69.99</strong>/trọn đời</span></span>` >}}
-
-{{< /hextra/feature-grid >}}
+{{< pricing-plans >}}
 
 </div>
 

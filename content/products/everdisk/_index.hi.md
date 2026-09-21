@@ -275,49 +275,7 @@ Everdisk, Everappz द्वारा बनाया गया iPhone और iP
 <div class="hx:mt-6"></div>
 
 <div class="hx:w-full">
-{{< hextra/feature-grid cols="2">}}
-
-  {{< hextra/feature-card
-    title="मुफ्त"
-    class="pricing-card pricing-free"
-    subtitle=`<span class='pricing-details'>• अपने डिवाइस को वायरलेस ड्राइव में बदलें<br />
-• एक साथ पांच सर्वर: DLNA, HTTP, WebDAV, SMB, FTP<br />
-• स्मार्ट TV, ब्राउज़र और कंप्यूटर पर स्ट्रीम करें<br />
-• नेटवर्क ड्राइव के रूप में माउंट करें और USB पर ट्रांसफर करें<br />
-• अपनी पूरी फोटो और म्यूजिक लाइब्रेरी शेयर करें<br />
-• DLNA, WebDAV, FTP, SFTP और SMB सर्वर से जुड़ें<br />
-• zip और unzip के साथ फाइल मैनेजर<br />
-• डॉक्युमेंट को PDF में स्कैन करें और पूरे PDF टूल्स<br />
-• PDF और फोटो पर मार्कअप करें और साइन करें<br />
-• पासवर्ड सुरक्षा और डिवाइस ब्लॉकिंग<br />
-• 5 शेयर किए गए फोल्डर और 10 सेव किए गए कनेक्शन तक</span><br /><br />
-<span class='hx:block hx:mt-2 hx:text-center'>
-  <span class='pricing-btn hx:inline-block hx:rounded-full hx:border hx:border-gray-200 hx:dark:border-neutral-800 hx:px-3 hx:py-1 hx:transition-all hx:duration-200'>
-    <strong>मुफ्त</strong>
-  </span>
-</span>`
-  >}}
-
-  {{< hextra/feature-card
-    title="Premium Lifetime"
-    class="pricing-card pricing-lifetime"
-    subtitle=`<span class='pricing-details'>• मुफ्त वाला सब कुछ<br />
-• असीमित शेयर किए गए फोल्डर (5 से ज्यादा)<br />
-• असीमित सेव किए गए कनेक्शन (10 से ज्यादा)<br />
-• फोटो और वीडियो का कम्पैटिबल फॉर्मैट या छोटे साइज में कन्वर्जन<br />
-• निजी और सुरक्षित शेयरिंग के लिए SMB3 एन्क्रिप्शन (AES)<br />
-• कस्टम HTTP, WebDAV, SMB और FTP पोर्ट<br />
-• ऐप खोलते ही अपने आप शेयरिंग शुरू करें<br />
-• डिवाइस पर्सनलाइज़ेशन: नाम, अवतार आइकन, ग्रेडिएंट या फोटो<br />
-• वन-टाइम खरीद - एक बार चार्ज, कभी रिन्यू नहीं</span><br /><br />
-<span class='hx:block hx:mt-2 hx:text-center'>
-  <span class='pricing-btn hx:inline-block hx:rounded-full hx:border hx:border-gray-200 hx:dark:border-neutral-800 hx:px-3 hx:py-1 hx:transition-all hx:duration-200'>
-    <strong>$9.99</strong>/लाइफटाइम
-  </span>
-</span>`
-  >}}
-
-{{< /hextra/feature-grid >}}
+{{< pricing-plans >}}
 
 </div>
 

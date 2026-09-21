@@ -275,49 +275,7 @@ Verwandle dein iPhone oder iPad in ein drahtloses Laufwerk, das Dateien mit <str
 <div class="hx:mt-6"></div>
 
 <div class="hx:w-full">
-{{< hextra/feature-grid cols="2">}}
-
-  {{< hextra/feature-card
-    title="Kostenlos"
-    class="pricing-card pricing-free"
-    subtitle=`<span class='pricing-details'>• Verwandle dein Gerat in ein drahtloses Laufwerk<br />
-• Funf Server gleichzeitig: DLNA, HTTP, WebDAV, SMB, FTP<br />
-• Streame auf Smart-TVs, Browser und Computer<br />
-• Als Netzlaufwerk einbinden und uber USB ubertragen<br />
-• Teile deine komplette Foto- und Musikbibliothek<br />
-• Verbinde dich mit DLNA-, WebDAV-, FTP-, SFTP- und SMB-Servern<br />
-• Dateimanager mit Zippen und Entpacken<br />
-• Dokumente als PDF scannen und komplette PDF-Tools<br />
-• PDFs und Fotos markieren und signieren<br />
-• Passwortschutz und Gerate-Sperre<br />
-• Bis zu 5 geteilte Ordner und 10 gespeicherte Verbindungen</span><br /><br />
-<span class='hx:block hx:mt-2 hx:text-center'>
-  <span class='pricing-btn hx:inline-block hx:rounded-full hx:border hx:border-gray-200 hx:dark:border-neutral-800 hx:px-3 hx:py-1 hx:transition-all hx:duration-200'>
-    <strong>Kostenlos</strong>
-  </span>
-</span>`
-  >}}
-
-  {{< hextra/feature-card
-    title="Premium Lifetime"
-    class="pricing-card pricing-lifetime"
-    subtitle=`<span class='pricing-details'>• Alles aus Kostenlos<br />
-• Unbegrenzte geteilte Ordner (mehr als 5)<br />
-• Unbegrenzte gespeicherte Verbindungen (mehr als 10)<br />
-• Foto- & Videokonvertierung in ein kompatibles Format oder eine kleinere Grosse<br />
-• SMB3-Verschlusselung (AES) fur privates, sicheres Teilen<br />
-• Individuelle HTTP-, WebDAV-, SMB- und FTP-Ports<br />
-• Teilen automatisch starten, wenn du die App offnest<br />
-• Gerate-Anpassung: Name, Avatar-Symbol, Farbverlauf oder Foto<br />
-• Einmaliger Kauf - einmal berechnet, verlangert sich nie</span><br /><br />
-<span class='hx:block hx:mt-2 hx:text-center'>
-  <span class='pricing-btn hx:inline-block hx:rounded-full hx:border hx:border-gray-200 hx:dark:border-neutral-800 hx:px-3 hx:py-1 hx:transition-all hx:duration-200'>
-    <strong>$9.99</strong>/einmalig
-  </span>
-</span>`
-  >}}
-
-{{< /hextra/feature-grid >}}
+{{< pricing-plans >}}
 
 </div>
 

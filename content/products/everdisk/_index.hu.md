@@ -275,49 +275,7 @@ Alakítsd iPhone-odat vagy iPad-edet vezeték nélküli meghajtóvá amely megos
 <div class="hx:mt-6"></div>
 
 <div class="hx:w-full">
-{{< hextra/feature-grid cols="2">}}
-
-  {{< hextra/feature-card
-    title="Ingyenes"
-    class="pricing-card pricing-free"
-    subtitle=`<span class='pricing-details'>• Alakítsd a készülékedet vezeték nélküli meghajtóvá<br />
-• Öt szerver egyszerre: DLNA, HTTP, WebDAV, SMB, FTP<br />
-• Streamelés smart TV-kre, böngészőkre és számítógépekre<br />
-• Csatlakoztatás hálózati meghajtóként és átvitel USB felett<br />
-• A teljes fénykép- és zenetárad megosztása<br />
-• Csatlakozás DLNA, WebDAV, FTP, SFTP és SMB szerverekhez<br />
-• Fájlkezelő becsomagolással és kicsomagolással<br />
-• Dokumentumok szkennelése PDF-be és teljes PDF eszközök<br />
-• PDF-ek és fényképek jelölése és aláírása<br />
-• Jelszavas védelem és eszközök letiltása<br />
-• Legfeljebb 5 megosztott mappa és 10 mentett kapcsolat</span><br /><br />
-<span class='hx:block hx:mt-2 hx:text-center'>
-  <span class='pricing-btn hx:inline-block hx:rounded-full hx:border hx:border-gray-200 hx:dark:border-neutral-800 hx:px-3 hx:py-1 hx:transition-all hx:duration-200'>
-    <strong>Ingyenes</strong>
-  </span>
-</span>`
-  >}}
-
-  {{< hextra/feature-card
-    title="Premium Lifetime"
-    class="pricing-card pricing-lifetime"
-    subtitle=`<span class='pricing-details'>• Minden az Ingyenes csomagban<br />
-• Korlátlan megosztott mappa (több mint 5)<br />
-• Korlátlan mentett kapcsolat (több mint 10)<br />
-• Fénykép- és videóátalakítás kompatibilis formátumba vagy kisebb méretbe<br />
-• SMB3-titkosítás (AES) a privát, biztonságos megosztásért<br />
-• Egyéni HTTP, WebDAV, SMB és FTP portok<br />
-• Automatikus megosztásindítás az alkalmazás megnyitásakor<br />
-• Eszköz testreszabása: név, avatar ikon, színátmenet vagy fénykép<br />
-• Egyszeri vásárlás - egyszer terhelve, soha nem újul meg</span><br /><br />
-<span class='hx:block hx:mt-2 hx:text-center'>
-  <span class='pricing-btn hx:inline-block hx:rounded-full hx:border hx:border-gray-200 hx:dark:border-neutral-800 hx:px-3 hx:py-1 hx:transition-all hx:duration-200'>
-    <strong>$9.99</strong>/élettartam
-  </span>
-</span>`
-  >}}
-
-{{< /hextra/feature-grid >}}
+{{< pricing-plans >}}
 
 </div>
 

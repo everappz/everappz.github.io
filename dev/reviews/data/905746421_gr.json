@@ -1,0 +1,32 @@
+[
+  {
+    "country": "gr",
+    "id": "7524240280",
+    "author": "imneckro",
+    "rating": 3,
+    "title": "Apple Watch App",
+    "content": "Please make Apple Watch App",
+    "date": "2021-06-30T12:36:39-07:00",
+    "version": "4.6"
+  },
+  {
+    "country": "gr",
+    "id": "1481815753",
+    "author": "Nick_Best",
+    "rating": 5,
+    "title": "Very good app",
+    "content": "Very good app.",
+    "date": "2016-11-09T22:32:35-07:00",
+    "version": "2.5"
+  },
+  {
+    "country": "gr",
+    "id": "1180251892",
+    "author": "periclesm",
+    "rating": 4,
+    "title": "Fantastic",
+    "content": "Very good app. Just what I wanted to connect to my WebDAV server and stream from there. \nNot giving a 5 star because the download feature falls on loop when completing (iOS 8, iPhone & iPad). \nI'm sure though on the next update it will be fixed to give it the 5th star!",
+    "date": "2015-04-09T07:16:18-07:00",
+    "version": "1.7"
+  }
+]

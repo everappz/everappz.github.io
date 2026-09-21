@@ -275,49 +275,7 @@ Convierte tu iPhone o iPad en un disco inalámbrico que comparte archivos con <s
 <div class="hx:mt-6"></div>
 
 <div class="hx:w-full">
-{{< hextra/feature-grid cols="2">}}
-
-  {{< hextra/feature-card
-    title="Gratis"
-    class="pricing-card pricing-free"
-    subtitle=`<span class='pricing-details'>• Convierte tu dispositivo en un disco inalámbrico<br />
-• Cinco servidores a la vez: DLNA, HTTP, WebDAV, SMB, FTP<br />
-• Transmite a smart TVs, navegadores y ordenadores<br />
-• Monta como unidad de red y transfiere por USB<br />
-• Comparte toda tu biblioteca de fotos y música<br />
-• Conéctate a servidores DLNA, WebDAV, FTP, SFTP y SMB<br />
-• Gestor de archivos con comprimir y descomprimir<br />
-• Escanea documentos a PDF y herramientas PDF completas<br />
-• Anota y firma PDFs y fotos<br />
-• Protección con contraseña y bloqueo de dispositivos<br />
-• Hasta 5 carpetas compartidas y 10 conexiones guardadas</span><br /><br />
-<span class='hx:block hx:mt-2 hx:text-center'>
-  <span class='pricing-btn hx:inline-block hx:rounded-full hx:border hx:border-gray-200 hx:dark:border-neutral-800 hx:px-3 hx:py-1 hx:transition-all hx:duration-200'>
-    <strong>Gratis</strong>
-  </span>
-</span>`
-  >}}
-
-  {{< hextra/feature-card
-    title="Premium de por vida"
-    class="pricing-card pricing-lifetime"
-    subtitle=`<span class='pricing-details'>• Todo lo de la versión Gratis<br />
-• Carpetas compartidas ilimitadas (más de 5)<br />
-• Conexiones guardadas ilimitadas (más de 10)<br />
-• Conversión de fotos y vídeos a un formato compatible o menor tamaño<br />
-• Cifrado SMB3 (AES) para una compartición privada y segura<br />
-• Puertos HTTP, WebDAV, SMB y FTP personalizados<br />
-• Inicio automático de la compartición al abrir la app<br />
-• Personalización del dispositivo: nombre, icono de avatar, degradado o foto<br />
-• Compra única - se cobra una vez, nunca se renueva</span><br /><br />
-<span class='hx:block hx:mt-2 hx:text-center'>
-  <span class='pricing-btn hx:inline-block hx:rounded-full hx:border hx:border-gray-200 hx:dark:border-neutral-800 hx:px-3 hx:py-1 hx:transition-all hx:duration-200'>
-    <strong>$9.99</strong>/de por vida
-  </span>
-</span>`
-  >}}
-
-{{< /hextra/feature-grid >}}
+{{< pricing-plans >}}
 
 </div>
 

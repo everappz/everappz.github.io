@@ -1,0 +1,22 @@
+[
+  {
+    "country": "dk",
+    "id": "12237608093",
+    "author": "Eggstra2.0",
+    "rating": 2,
+    "title": "Mangelfuld app",
+    "content": "Dårlige og upræcise oversættelser -og fyldt med fejl. Ikke pengene værd.",
+    "date": "2025-01-27T08:14:32-07:00",
+    "version": "7.2"
+  },
+  {
+    "country": "dk",
+    "id": "6785287690",
+    "author": "CrashTestApp",
+    "rating": 3,
+    "title": "great but confusing",
+    "content": "Great app which I use frequently but there is too many buttons and becomes confusing. offline, downloaded etc",
+    "date": "2020-12-23T08:29:07-07:00",
+    "version": "4.4"
+  }
+]

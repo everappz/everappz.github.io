@@ -98,5 +98,15 @@
     "content": "Sometimes it happens that the music rolls back a couple of seconds, it is annoying",
     "date": "2026-06-07T10:05:38-07:00",
     "version": "8.6"
+  },
+  {
+    "country": "kz",
+    "id": "14333119982",
+    "author": "Eloy228",
+    "rating": 5,
+    "title": "Хороший аудио плеер",
+    "content": "Удобный редактор тегов",
+    "date": "2026-07-21T22:35:58-07:00",
+    "version": "8.7"
   }
 ]

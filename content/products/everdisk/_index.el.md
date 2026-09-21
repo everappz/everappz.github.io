@@ -275,49 +275,7 @@ screenshots:
 <div class="hx:mt-6"></div>
 
 <div class="hx:w-full">
-{{< hextra/feature-grid cols="2">}}
-
-  {{< hextra/feature-card
-    title="Δωρεάν"
-    class="pricing-card pricing-free"
-    subtitle=`<span class='pricing-details'>• Μετατρέψτε τη συσκευή σας σε ασύρματο δίσκο<br />
-• Πέντε διακομιστές ταυτόχρονα: DLNA, HTTP, WebDAV, SMB, FTP<br />
-• Μετάδοση σε smart TV, browsers και υπολογιστές<br />
-• Προσάρτηση ως δικτυακός δίσκος και μεταφορά μέσω USB<br />
-• Μοιραστείτε ολόκληρη τη συλλογή φωτογραφιών και μουσικής σας<br />
-• Σύνδεση σε διακομιστές DLNA, WebDAV, FTP, SFTP και SMB<br />
-• Διαχειριστής αρχείων με zip και unzip<br />
-• Σάρωση εγγράφων σε PDF και πλήρη εργαλεία PDF<br />
-• Επισημείωση και υπογραφή PDF και φωτογραφιών<br />
-• Προστασία με κωδικό και αποκλεισμός συσκευών<br />
-• Έως 5 κοινόχρηστοι φάκελοι και 10 αποθηκευμένες συνδέσεις</span><br /><br />
-<span class='hx:block hx:mt-2 hx:text-center'>
-  <span class='pricing-btn hx:inline-block hx:rounded-full hx:border hx:border-gray-200 hx:dark:border-neutral-800 hx:px-3 hx:py-1 hx:transition-all hx:duration-200'>
-    <strong>Δωρεάν</strong>
-  </span>
-</span>`
-  >}}
-
-  {{< hextra/feature-card
-    title="Premium Lifetime"
-    class="pricing-card pricing-lifetime"
-    subtitle=`<span class='pricing-details'>• Όλα όσα περιλαμβάνει το Δωρεάν<br />
-• Απεριόριστοι κοινόχρηστοι φάκελοι (περισσότεροι από 5)<br />
-• Απεριόριστες αποθηκευμένες συνδέσεις (περισσότερες από 10)<br />
-• Μετατροπή φωτογραφιών & βίντεο σε συμβατή μορφή ή μικρότερο μέγεθος<br />
-• Κρυπτογράφηση SMB3 (AES) για ιδιωτική, ασφαλή κοινή χρήση<br />
-• Προσαρμοσμένες θύρες HTTP, WebDAV, SMB και FTP<br />
-• Αυτόματη έναρξη κοινής χρήσης όταν ανοίγετε την εφαρμογή<br />
-• Προσαρμογή συσκευής: όνομα, εικονίδιο avatar, ντεγκραντέ ή φωτογραφία<br />
-• Εφάπαξ αγορά - χρεώνεται μία φορά, δεν ανανεώνεται ποτέ</span><br /><br />
-<span class='hx:block hx:mt-2 hx:text-center'>
-  <span class='pricing-btn hx:inline-block hx:rounded-full hx:border hx:border-gray-200 hx:dark:border-neutral-800 hx:px-3 hx:py-1 hx:transition-all hx:duration-200'>
-    <strong>$9.99</strong>/εφάπαξ
-  </span>
-</span>`
-  >}}
-
-{{< /hextra/feature-grid >}}
+{{< pricing-plans >}}
 
 </div>
 

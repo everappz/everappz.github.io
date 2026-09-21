@@ -275,49 +275,7 @@ Muuta iPhone tai iPad langattomaksi levyksi joka jakaa tiedostot <strong>kaikkie
 <div class="hx:mt-6"></div>
 
 <div class="hx:w-full">
-{{< hextra/feature-grid cols="2">}}
-
-  {{< hextra/feature-card
-    title="Ilmainen"
-    class="pricing-card pricing-free"
-    subtitle=`<span class='pricing-details'>• Muuta laitteesi langattomaksi levyksi<br />
-• Viisi palvelinta kerralla: DLNA, HTTP, WebDAV, SMB, FTP<br />
-• Suoratoista älytelevisioihin, selaimiin ja tietokoneisiin<br />
-• Liitä verkkolevyksi ja siirrä USB:n kautta<br />
-• Jaa koko kuva- ja musiikkikirjastosi<br />
-• Yhdistä DLNA-, WebDAV-, FTP-, SFTP- ja SMB-palvelimiin<br />
-• Tiedostonhallinta pakkauksella ja purkamisella<br />
-• Skannaa asiakirjat PDF-muotoon ja kattavat PDF-työkalut<br />
-• Merkitse ja allekirjoita PDF-tiedostoja ja kuvia<br />
-• Salasanasuojaus ja laitteiden esto<br />
-• Enintään 5 jaettua kansiota ja 10 tallennettua yhteyttä</span><br /><br />
-<span class='hx:block hx:mt-2 hx:text-center'>
-  <span class='pricing-btn hx:inline-block hx:rounded-full hx:border hx:border-gray-200 hx:dark:border-neutral-800 hx:px-3 hx:py-1 hx:transition-all hx:duration-200'>
-    <strong>Ilmainen</strong>
-  </span>
-</span>`
-  >}}
-
-  {{< hextra/feature-card
-    title="Premium Lifetime"
-    class="pricing-card pricing-lifetime"
-    subtitle=`<span class='pricing-details'>• Kaikki Ilmaisen ominaisuudet<br />
-• Rajattomasti jaettuja kansioita (enemmän kuin 5)<br />
-• Rajattomasti tallennettuja yhteyksiä (enemmän kuin 10)<br />
-• Kuvien ja videoiden muunnos yhteensopivaan muotoon tai pienempään kokoon<br />
-• SMB3-salaus (AES) yksityiseen ja turvalliseen jakamiseen<br />
-• Mukautetut HTTP-, WebDAV-, SMB- ja FTP-portit<br />
-• Jakamisen automaattinen aloitus, kun avaat sovelluksen<br />
-• Laitteen mukauttaminen: nimi, avatar-kuvake, liukuväri tai valokuva<br />
-• Kertaosto - veloitetaan kerran, ei koskaan uusiudu</span><br /><br />
-<span class='hx:block hx:mt-2 hx:text-center'>
-  <span class='pricing-btn hx:inline-block hx:rounded-full hx:border hx:border-gray-200 hx:dark:border-neutral-800 hx:px-3 hx:py-1 hx:transition-all hx:duration-200'>
-    <strong>$9.99</strong>/elinikäinen
-  </span>
-</span>`
-  >}}
-
-{{< /hextra/feature-grid >}}
+{{< pricing-plans >}}
 
 </div>
 

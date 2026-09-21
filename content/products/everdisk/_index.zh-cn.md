@@ -275,49 +275,7 @@ Everdisk 是 Everappz 为 iPhone 和 iPad 打造的无线硬盘应用。它把�
 <div class="hx:mt-6"></div>
 
 <div class="hx:w-full">
-{{< hextra/feature-grid cols="2">}}
-
-  {{< hextra/feature-card
-    title="免费"
-    class="pricing-card pricing-free"
-    subtitle=`<span class='pricing-details'>• 把设备变成无线硬盘<br />
-• 五种服务器同时运行：DLNA、HTTP、WebDAV、SMB、FTP<br />
-• 投屏到智能电视、浏览器和电脑<br />
-• 挂载为网络硬盘并通过 USB 传输<br />
-• 共享你的整个照片和音乐库<br />
-• 连接 DLNA、WebDAV、FTP、SFTP 和 SMB 服务器<br />
-• 支持压缩解压的文件管理器<br />
-• 扫描文档转 PDF 及完整 PDF 工具<br />
-• 为 PDF 和照片标注并签名<br />
-• 密码保护与设备拦截<br />
-• 最多 5 个共享文件夹和 10 个保存的连接</span><br /><br />
-<span class='hx:block hx:mt-2 hx:text-center'>
-  <span class='pricing-btn hx:inline-block hx:rounded-full hx:border hx:border-gray-200 hx:dark:border-neutral-800 hx:px-3 hx:py-1 hx:transition-all hx:duration-200'>
-    <strong>免费</strong>
-  </span>
-</span>`
-  >}}
-
-  {{< hextra/feature-card
-    title="Premium Lifetime"
-    class="pricing-card pricing-lifetime"
-    subtitle=`<span class='pricing-details'>• 包含免费版全部功能<br />
-• 无限共享文件夹 (超过 5 个)<br />
-• 无限保存的连接 (超过 10 个)<br />
-• 把照片和视频转换为兼容格式或更小尺寸<br />
-• SMB3 加密 (AES)，实现私密、安全的共享<br />
-• 自定义 HTTP、WebDAV、SMB 和 FTP 端口<br />
-• 打开应用时自动开始共享<br />
-• 设备自定义：名称、头像图标、渐变或照片<br />
-• 一次性购买 - 只需付一次，永不续订</span><br /><br />
-<span class='hx:block hx:mt-2 hx:text-center'>
-  <span class='pricing-btn hx:inline-block hx:rounded-full hx:border hx:border-gray-200 hx:dark:border-neutral-800 hx:px-3 hx:py-1 hx:transition-all hx:duration-200'>
-    <strong>$9.99</strong>/永久
-  </span>
-</span>`
-  >}}
-
-{{< /hextra/feature-grid >}}
+{{< pricing-plans >}}
 
 </div>
 

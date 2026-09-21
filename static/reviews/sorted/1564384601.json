@@ -1,5 +1,15 @@
 [
   {
+    "country": "mx",
+    "id": "14433272896",
+    "author": "Luis cerba",
+    "rating": 4,
+    "title": "Casi excelente",
+    "content": "Evermusic me ha sorprendido mucho. La interfaz es muy intuitiva, tiene excelentes funciones para organizar y reproducir mi música y, sobre todo, funciona de maravilla con mi NAS mediante WebDAV. Para quienes tenemos nuestra propia biblioteca musical, es una excelente aplicación.\n\nSugiero agregar una cuenta de usuario que permita sincronizar la biblioteca de Evermusic entre dispositivos. De esta manera, mis playlists, favoritos y organización de la música podrían aparecer automáticamente en mi iPhone, iPad y Mac.\n\nCreo que esta función haría de Evermusic una solución excelente para quienes tenemos nuestra propia biblioteca musical y usamos varios dispositivos.",
+    "date": "2026-08-15T20:36:14-07:00",
+    "version": "8.8"
+  },
+  {
     "country": "us",
     "id": "14242755345",
     "author": "MusicBeeMisser",

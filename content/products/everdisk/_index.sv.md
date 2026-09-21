@@ -275,49 +275,7 @@ Gör din iPhone eller iPad till en trådlös disk som delar filer med <strong>vi
 <div class="hx:mt-6"></div>
 
 <div class="hx:w-full">
-{{< hextra/feature-grid cols="2">}}
-
-  {{< hextra/feature-card
-    title="Gratis"
-    class="pricing-card pricing-free"
-    subtitle=`<span class='pricing-details'>• Gör din enhet till en trådlös disk<br />
-• Fem servrar samtidigt: DLNA, HTTP, WebDAV, SMB, FTP<br />
-• Strömma till smarta TV-apparater, webbläsare och datorer<br />
-• Anslut som nätverksdisk och överför via USB<br />
-• Dela hela ditt foto- och musikbibliotek<br />
-• Anslut till DLNA-, WebDAV-, FTP-, SFTP- och SMB-servrar<br />
-• Filhanterare med zip och uppackning<br />
-• Skanna dokument till PDF och kompletta PDF-verktyg<br />
-• Markera och signera PDF-filer och foton<br />
-• Lösenordsskydd och blockering av enheter<br />
-• Upp till 5 delade mappar och 10 sparade anslutningar</span><br /><br />
-<span class='hx:block hx:mt-2 hx:text-center'>
-  <span class='pricing-btn hx:inline-block hx:rounded-full hx:border hx:border-gray-200 hx:dark:border-neutral-800 hx:px-3 hx:py-1 hx:transition-all hx:duration-200'>
-    <strong>Gratis</strong>
-  </span>
-</span>`
-  >}}
-
-  {{< hextra/feature-card
-    title="Premium Lifetime"
-    class="pricing-card pricing-lifetime"
-    subtitle=`<span class='pricing-details'>• Allt i Gratis<br />
-• Obegränsat antal delade mappar (fler än 5)<br />
-• Obegränsat antal sparade anslutningar (fler än 10)<br />
-• Konvertering av foton och video till ett kompatibelt format eller mindre storlek<br />
-• SMB3-kryptering (AES) för privat och säker delning<br />
-• Anpassade HTTP-, WebDAV-, SMB- och FTP-portar<br />
-• Starta delning automatiskt när du öppnar appen<br />
-• Anpassning av enheten: namn, avatarikon, gradient eller foto<br />
-• Engångsköp - betalas en gång, förnyas aldrig</span><br /><br />
-<span class='hx:block hx:mt-2 hx:text-center'>
-  <span class='pricing-btn hx:inline-block hx:rounded-full hx:border hx:border-gray-200 hx:dark:border-neutral-800 hx:px-3 hx:py-1 hx:transition-all hx:duration-200'>
-    <strong>$9.99</strong>/livstid
-  </span>
-</span>`
-  >}}
-
-{{< /hextra/feature-grid >}}
+{{< pricing-plans >}}
 
 </div>
 
