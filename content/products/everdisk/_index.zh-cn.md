@@ -29,14 +29,14 @@ Everdisk 是 Everappz 为 iPhone 和 iPad 打造的无线硬盘应用。它把�
   imageCard="true"
 >}}
 
-<div class="hx:flex hx:flex-col hx:items-center hx:justify-center hx:sm:block">
+<div class="hx:w-full hx:text-center">
 
-<div class="hx:mt-4 hx:mr-4">
+<div class="hx:mt-4">
 {{< downloads-badge >}}
 </div>
 
 <div class="hx:mt-6 hx:mb-6">
-<div class="hx:flex hx:gap-4 hx:items-center">
+<div class="hx:flex hx:gap-4 hx:items-center hx:justify-center">
   {{< app-icon src="/images/app_icons/png/Everdisk_Icon-App-1024x1024.png" alt="Everdisk Icon" class="hero-headline-icon" size="80" >}}
   {{< hextra/hero-headline >}}
   Everdisk
@@ -46,7 +46,7 @@ Everdisk 是 Everappz 为 iPhone 和 iPad 打造的无线硬盘应用。它把�
 
 <div class="hx:mb-6">
 {{< hextra/hero-centered-subtitle >}}
-把你的 iPhone 或 iPad 变成无线硬盘，&nbsp;<br class="hx:sm:block hx:hidden" />与<strong>网络上的任何设备</strong>共享文件
+把你的 iPhone 或 iPad 变成无线硬盘， 与<strong>网络上的任何设备</strong>共享文件
 {{< /hextra/hero-centered-subtitle >}}
 </div>
 

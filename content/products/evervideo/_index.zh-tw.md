@@ -30,12 +30,12 @@ Evervideo 是一款適用於 iPhone 和 Mac 的免費高畫質影片播放器，
   imageCard="true"
 >}}
 
-<div class="hx:flex hx:flex-col hx:items-center hx:justify-center hx:sm:block">
+<div class="hx:w-full hx:text-center">
 
 {{< downloads-badge >}}
 
 <div class="hx:mt-6 hx:mb-6">
-<div class="hx:flex hx:gap-4 hx:items-center">
+<div class="hx:flex hx:gap-4 hx:items-center hx:justify-center">
 {{< app-icon src="/images/app_icons/png/Evervideo_Icon-App-1024x1024.png" alt="Evervideo Icon" class="hero-headline-icon" size="80" >}}
 {{< hextra/hero-headline >}}
 Evervideo
@@ -45,7 +45,7 @@ Evervideo
 
 <div class="hx:mb-12">
 {{< hextra/hero-centered-subtitle >}}
-<strong>高畫質影片播放器與串流工具&nbsp;<br class="hx:sm:block hx:hidden" />適用於您的 iPhone 與 MAC</strong>
+<strong>高畫質影片播放器與串流工具 適用於您的 iPhone 與 MAC</strong>
 {{< /hextra/hero-centered-subtitle >}}
 </div>
 

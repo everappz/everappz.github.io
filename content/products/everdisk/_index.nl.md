@@ -29,14 +29,14 @@ Everdisk is een app voor een draadloze schijf voor iPhone en iPad, ontwikkeld do
   imageCard="true"
 >}}
 
-<div class="hx:flex hx:flex-col hx:items-center hx:justify-center hx:sm:block">
+<div class="hx:w-full hx:text-center">
 
-<div class="hx:mt-4 hx:mr-4">
+<div class="hx:mt-4">
 {{< downloads-badge >}}
 </div>
 
 <div class="hx:mt-6 hx:mb-6">
-<div class="hx:flex hx:gap-4 hx:items-center">
+<div class="hx:flex hx:gap-4 hx:items-center hx:justify-center">
   {{< app-icon src="/images/app_icons/png/Everdisk_Icon-App-1024x1024.png" alt="Everdisk Icon" class="hero-headline-icon" size="80" >}}
   {{< hextra/hero-headline >}}
   Everdisk
@@ -46,7 +46,7 @@ Everdisk is een app voor een draadloze schijf voor iPhone en iPad, ontwikkeld do
 
 <div class="hx:mb-6">
 {{< hextra/hero-centered-subtitle >}}
-Maak van je iPhone of iPad een draadloze schijf&nbsp;<br class="hx:sm:block hx:hidden" />die bestanden deelt met <strong>elk apparaat op je netwerk</strong>
+Maak van je iPhone of iPad een draadloze schijf die bestanden deelt met <strong>elk apparaat op je netwerk</strong>
 {{< /hextra/hero-centered-subtitle >}}
 </div>
 

@@ -30,14 +30,14 @@ Evermusic iPhone और Mac के लिए एक निःशुल्क ऑ
   imageCard="true"
 >}}
 
-<div class="hx:flex hx:flex-col hx:items-center hx:justify-center hx:sm:block">
+<div class="hx:w-full hx:text-center">
 
-<div class="hx:mt-4 hx:mr-4">
+<div class="hx:mt-4">
 {{< downloads-badge >}}
 </div>
 
 <div class="hx:mt-6 hx:mb-6">
-<div class="hx:flex hx:gap-4 hx:items-center">
+<div class="hx:flex hx:gap-4 hx:items-center hx:justify-center">
   {{< app-icon src="/images/app_icons/png/Evermusic_Icon-App-1024x1024.png" alt="Evermusic Icon" class="hero-headline-icon" size="80" >}}
   {{< hextra/hero-headline >}}
   Evermusic
@@ -48,7 +48,7 @@ Evermusic iPhone और Mac के लिए एक निःशुल्क ऑ
 <div class="hx:mb-6">
 {{< hextra/hero-centered-subtitle >}}
 <a href="https://www.chip.de/downloads/Evermusic-Pro-iPhone-_-iPad-App_91614216.html" target="_blank" rel="noopener">
-  क्लाउड से अपना संगीत व्यवस्थित करने और चलाने&nbsp;<br class="hx:sm:block hx:hidden" />के लिए सही समाधान है&nbsp;<br class="hx:sm:block hx:hidden" /><strong>chip.de</strong>
+  क्लाउड से अपना संगीत व्यवस्थित करने और चलाने के लिए सही समाधान है <strong>chip.de</strong>
   </span>
 {{< /hextra/hero-centered-subtitle >}}
 </div>

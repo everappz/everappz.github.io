@@ -29,14 +29,14 @@ O Everdisk e uma aplicacao de drive sem fios para iPhone e iPad, desenvolvida pe
   imageCard="true"
 >}}
 
-<div class="hx:flex hx:flex-col hx:items-center hx:justify-center hx:sm:block">
+<div class="hx:w-full hx:text-center">
 
-<div class="hx:mt-4 hx:mr-4">
+<div class="hx:mt-4">
 {{< downloads-badge >}}
 </div>
 
 <div class="hx:mt-6 hx:mb-6">
-<div class="hx:flex hx:gap-4 hx:items-center">
+<div class="hx:flex hx:gap-4 hx:items-center hx:justify-center">
   {{< app-icon src="/images/app_icons/png/Everdisk_Icon-App-1024x1024.png" alt="Everdisk Icon" class="hero-headline-icon" size="80" >}}
   {{< hextra/hero-headline >}}
   Everdisk
@@ -46,7 +46,7 @@ O Everdisk e uma aplicacao de drive sem fios para iPhone e iPad, desenvolvida pe
 
 <div class="hx:mb-6">
 {{< hextra/hero-centered-subtitle >}}
-Transforme o seu iPhone ou iPad numa drive sem fios&nbsp;<br class="hx:sm:block hx:hidden" />que partilha ficheiros com <strong>qualquer dispositivo na sua rede</strong>
+Transforme o seu iPhone ou iPad numa drive sem fios que partilha ficheiros com <strong>qualquer dispositivo na sua rede</strong>
 {{< /hextra/hero-centered-subtitle >}}
 </div>
 

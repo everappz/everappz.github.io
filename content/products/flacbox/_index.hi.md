@@ -29,12 +29,12 @@ Flacbox iPhone और Mac के लिए एक हाई-रेज़ ऑड�
   imageCard="true"
 >}}
 
-<div class="hx:flex hx:flex-col hx:items-center hx:justify-center hx:sm:block">
+<div class="hx:w-full hx:text-center">
 
 {{< downloads-badge >}}
 
 <div class="hx:mt-6 hx:mb-6">
-<div class="hx:flex hx:gap-4 hx:items-center">
+<div class="hx:flex hx:gap-4 hx:items-center hx:justify-center">
 {{< app-icon src="/images/app_icons/png/Flacbox_Icon-App-1024x1024.png" alt="Flacbox Icon" class="hero-headline-icon" size="80" >}}
 {{< hextra/hero-headline >}}
 Flacbox
@@ -44,7 +44,7 @@ Flacbox
 
 <div class="hx:mb-12">
 {{< hextra/hero-centered-subtitle >}}
-<strong>iPhone और MAC के लिए हाई-रेज़&nbsp;<br class="hx:sm:block hx:hidden" />ऑडियो प्लेयर और स्ट्रीमर</strong>
+<strong>iPhone और MAC के लिए हाई-रेज़ ऑडियो प्लेयर और स्ट्रीमर</strong>
 {{< /hextra/hero-centered-subtitle >}}
 </div>
 

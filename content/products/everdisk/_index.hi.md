@@ -29,14 +29,14 @@ Everdisk, Everappz द्वारा बनाया गया iPhone और iP
   imageCard="true"
 >}}
 
-<div class="hx:flex hx:flex-col hx:items-center hx:justify-center hx:sm:block">
+<div class="hx:w-full hx:text-center">
 
-<div class="hx:mt-4 hx:mr-4">
+<div class="hx:mt-4">
 {{< downloads-badge >}}
 </div>
 
 <div class="hx:mt-6 hx:mb-6">
-<div class="hx:flex hx:gap-4 hx:items-center">
+<div class="hx:flex hx:gap-4 hx:items-center hx:justify-center">
   {{< app-icon src="/images/app_icons/png/Everdisk_Icon-App-1024x1024.png" alt="Everdisk Icon" class="hero-headline-icon" size="80" >}}
   {{< hextra/hero-headline >}}
   Everdisk
@@ -46,7 +46,7 @@ Everdisk, Everappz द्वारा बनाया गया iPhone और iP
 
 <div class="hx:mb-6">
 {{< hextra/hero-centered-subtitle >}}
-अपने iPhone या iPad को एक वायरलेस ड्राइव में बदलें&nbsp;<br class="hx:sm:block hx:hidden" />जो <strong>आपके नेटवर्क पर मौजूद किसी भी डिवाइस</strong> के साथ फाइलें शेयर करती है
+अपने iPhone या iPad को एक वायरलेस ड्राइव में बदलें जो <strong>आपके नेटवर्क पर मौजूद किसी भी डिवाइस</strong> के साथ फाइलें शेयर करती है
 {{< /hextra/hero-centered-subtitle >}}
 </div>
 

@@ -1,9 +1,18 @@
 {{- $style := .Get "style" -}}
-
 {{- $base := "not-prose hx:text-sm hx:font-normal hx:text-gray-500 hx:dark:text-gray-400" -}}
-<!-- {{- $padding := "hx:p-4" -}} -->
-{{- $padding := "" -}}
+{{- $inner := .Inner -}}
 
-<p class="{{ $base }} {{ $padding }}" {{ with $style }}style="{{ . | safeCSS }}"{{ end }}>
-  {{ .Inner | markdownify }}
-</p>
+{{- if in $inner "•" -}}
+  {{- /* Bulleted list: each item its own line with a hanging indent (wrapped text
+       aligns with the text, not the bullet). Block centered, text left-aligned. */ -}}
+  {{- $md := replaceRE `(?s)\s*<br\s*/?>\s*` "|||" ($inner | markdownify) -}}
+  {{- $md = replaceRE `</?p[^>]*>` "" $md -}}
+  <div class="{{ $base }}" style="max-width:28rem;margin-left:auto;margin-right:auto;text-align:left;{{ with $style }}{{ . }}{{ end }}">
+  {{- range (split $md "|||") -}}
+    {{- $line := replaceRE `^\s*•\s*` "" (trim . " \n") -}}
+    {{- if $line -}}<div style="display:flex;gap:.4em;"><span>•</span><span style="flex:1;">{{ $line | safeHTML }}</span></div>{{- end -}}
+  {{- end -}}
+  </div>
+{{- else -}}
+  <p class="{{ $base }}" {{ with $style }}style="{{ . | safeCSS }}"{{ end }}>{{ $inner | markdownify }}</p>
+{{- end -}}

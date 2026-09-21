@@ -29,14 +29,14 @@ Everdisk ist eine App fur ein drahtloses Laufwerk fur iPhone und iPad, entwickel
   imageCard="true"
 >}}
 
-<div class="hx:flex hx:flex-col hx:items-center hx:justify-center hx:sm:block">
+<div class="hx:w-full hx:text-center">
 
-<div class="hx:mt-4 hx:mr-4">
+<div class="hx:mt-4">
 {{< downloads-badge >}}
 </div>
 
 <div class="hx:mt-6 hx:mb-6">
-<div class="hx:flex hx:gap-4 hx:items-center">
+<div class="hx:flex hx:gap-4 hx:items-center hx:justify-center">
   {{< app-icon src="/images/app_icons/png/Everdisk_Icon-App-1024x1024.png" alt="Everdisk Icon" class="hero-headline-icon" size="80" >}}
   {{< hextra/hero-headline >}}
   Everdisk
@@ -46,7 +46,7 @@ Everdisk ist eine App fur ein drahtloses Laufwerk fur iPhone und iPad, entwickel
 
 <div class="hx:mb-6">
 {{< hextra/hero-centered-subtitle >}}
-Verwandle dein iPhone oder iPad in ein drahtloses Laufwerk,&nbsp;<br class="hx:sm:block hx:hidden" />das Dateien mit <strong>jedem Gerat in deinem Netzwerk</strong> teilt
+Verwandle dein iPhone oder iPad in ein drahtloses Laufwerk, das Dateien mit <strong>jedem Gerat in deinem Netzwerk</strong> teilt
 {{< /hextra/hero-centered-subtitle >}}
 </div>
 

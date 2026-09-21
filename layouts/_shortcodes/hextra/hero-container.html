@@ -34,10 +34,13 @@
 <style>
 .hextra-hero-buttons{display:flex;flex-wrap:wrap;gap:1rem}
 .hextra-hero-buttons .hextra-hero-button{display:flex!important;flex:1 1 0%;min-width:fit-content;justify-content:center;margin:0!important;white-space:nowrap}
-@media(max-width:639px){.hextra-hero-content{padding-bottom:1.5rem}}
+/* Two-column hero only at >=960px; single-column compact layout below. */
+.hextra-feature-grid.hero-grid{grid-template-columns:1fr}
+@media(min-width:960px){.hextra-feature-grid.hero-grid{grid-template-columns:repeat(var(--hextra-feature-grid-cols),minmax(0,1fr))}}
+@media(max-width:959px){.hextra-hero-content{padding-bottom:1.5rem}}
 </style>
 <div
-  class="{{ $class }} hextra-feature-grid hx:grid hx:sm:max-lg:grid-cols-2 hx:max-sm:grid-cols-1 hx:gap-4 hx:w-full not-prose hx:items-center"
+  class="{{ $class }} hextra-feature-grid hero-grid hx:grid hx:gap-4 hx:w-full not-prose hx:items-center"
   {{ with $css }}style="{{ . | safeCSS }}" {{ end }}>
   <div class="hextra-hero-content hx:w-full">
     {{ .Inner }}

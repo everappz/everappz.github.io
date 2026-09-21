@@ -29,14 +29,14 @@ Everdisk تطبيق قرص لاسلكي لأجهزة iPhone وiPad من تطوي
   imageCard="true"
 >}}
 
-<div class="hx:flex hx:flex-col hx:items-center hx:justify-center hx:sm:block">
+<div class="hx:w-full hx:text-center">
 
-<div class="hx:mt-4 hx:mr-4">
+<div class="hx:mt-4">
 {{< downloads-badge >}}
 </div>
 
 <div class="hx:mt-6 hx:mb-6">
-<div class="hx:flex hx:gap-4 hx:items-center">
+<div class="hx:flex hx:gap-4 hx:items-center hx:justify-center">
   {{< app-icon src="/images/app_icons/png/Everdisk_Icon-App-1024x1024.png" alt="Everdisk Icon" class="hero-headline-icon" size="80" >}}
   {{< hextra/hero-headline >}}
   Everdisk
@@ -46,7 +46,7 @@ Everdisk تطبيق قرص لاسلكي لأجهزة iPhone وiPad من تطوي
 
 <div class="hx:mb-6">
 {{< hextra/hero-centered-subtitle >}}
-حوّل جهاز iPhone أو iPad إلى قرص لاسلكي&nbsp;<br class="hx:sm:block hx:hidden" />يشارك ملفاتك مع <strong>أي جهاز على شبكتك</strong>
+حوّل جهاز iPhone أو iPad إلى قرص لاسلكي يشارك ملفاتك مع <strong>أي جهاز على شبكتك</strong>
 {{< /hextra/hero-centered-subtitle >}}
 </div>
 

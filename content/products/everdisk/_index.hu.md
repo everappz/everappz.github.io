@@ -29,14 +29,14 @@ Az Everdisk egy vezeték nélküli meghajtó alkalmazás iPhone-ra és iPad-re, 
   imageCard="true"
 >}}
 
-<div class="hx:flex hx:flex-col hx:items-center hx:justify-center hx:sm:block">
+<div class="hx:w-full hx:text-center">
 
-<div class="hx:mt-4 hx:mr-4">
+<div class="hx:mt-4">
 {{< downloads-badge >}}
 </div>
 
 <div class="hx:mt-6 hx:mb-6">
-<div class="hx:flex hx:gap-4 hx:items-center">
+<div class="hx:flex hx:gap-4 hx:items-center hx:justify-center">
   {{< app-icon src="/images/app_icons/png/Everdisk_Icon-App-1024x1024.png" alt="Everdisk Icon" class="hero-headline-icon" size="80" >}}
   {{< hextra/hero-headline >}}
   Everdisk
@@ -46,7 +46,7 @@ Az Everdisk egy vezeték nélküli meghajtó alkalmazás iPhone-ra és iPad-re, 
 
 <div class="hx:mb-6">
 {{< hextra/hero-centered-subtitle >}}
-Alakítsd iPhone-odat vagy iPad-edet vezeték nélküli meghajtóvá&nbsp;<br class="hx:sm:block hx:hidden" />amely megosztja a fájlokat <strong>a hálózatod bármely eszközével</strong>
+Alakítsd iPhone-odat vagy iPad-edet vezeték nélküli meghajtóvá amely megosztja a fájlokat <strong>a hálózatod bármely eszközével</strong>
 {{< /hextra/hero-centered-subtitle >}}
 </div>
 
