@@ -489,15 +489,14 @@ details a {
     display: flex;
     align-items: center;
     gap: 0.6rem;
-    background: #f5f5f7;
+    background: transparent;
     border-radius: 10px;
-    padding: 8px 12px;
+    padding: 6px 4px;
     text-align: left;
     font-size: 0.8rem;
     color: #374151;
 }
 :is(.dark) .pricing-card .pricing-feature {
-    background: #1c1c22;
     color: #d1d5db;
 }
 .pricing-card .pf-icon {
