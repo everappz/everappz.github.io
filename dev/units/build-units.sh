@@ -40,6 +40,19 @@ app_ids = [
 if not app_ids:
     sys.exit("No apps found in the developer catalog.")
 
+# App names (for the debug table) and previous ("latest") values from data.json.
+names = {
+    str(r["trackId"]): r.get("trackName", "")
+    for r in results if str(r.get("trackId")) in set(app_ids)
+}
+previous = {}
+if os.path.exists(out_file):
+    try:
+        with open(out_file, encoding="utf-8") as fh:
+            previous = {str(k): int(v) for k, v in json.load(fh).items()}
+    except (ValueError, OSError):
+        previous = {}
+
 # Sum units per app ID from every CSV.
 totals = {aid: 0 for aid in app_ids}
 allowed = set(app_ids)
@@ -65,10 +78,25 @@ for path in files:
 
 ordered = dict(sorted(totals.items(), key=lambda kv: (-kv[1], kv[0])))
 
+# Debug table: previous ("Latest") vs newly computed ("Updated") value per app.
+def fmt(n):
+    return f"{n:,}"
+name_w = max([len("App")] + [len(names.get(a, "")) for a in ordered])
+print("\nDEBUG — units per app (Latest = current data.json, Updated = new):")
+print(f"{'App':<{name_w}}  {'App ID':>12}  {'Latest':>14}  {'Updated':>14}  {'Δ':>14}")
+print(f"{'-'*name_w}  {'-'*12}  {'-'*14}  {'-'*14}  {'-'*14}")
+for aid, new in ordered.items():
+    old = previous.get(aid, 0)
+    delta = new - old
+    dstr = ("+" if delta > 0 else "") + fmt(delta) if delta else "0"
+    print(f"{names.get(aid, ''):<{name_w}}  {aid:>12}  {fmt(old):>14}  {fmt(new):>14}  {dstr:>14}")
+print(f"{'-'*name_w}  {'-'*12}  {'-'*14}  {'-'*14}  {'-'*14}")
+print(f"{'TOTAL':<{name_w}}  {'':>12}  {fmt(sum(previous.get(a,0) for a in ordered)):>14}  {fmt(sum(ordered.values())):>14}")
+
 os.makedirs(os.path.dirname(out_file), exist_ok=True)
 with open(out_file, "w", encoding="utf-8") as fh:
     json.dump(ordered, fh, indent=2)
     fh.write("\n")
 
-print(f"Catalog apps: {len(app_ids)} | CSV files: {len(files)} | wrote {out_file}")
+print(f"\nCatalog apps: {len(app_ids)} | CSV files: {len(files)} | wrote {out_file}")
 PY
