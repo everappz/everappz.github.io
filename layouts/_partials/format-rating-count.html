@@ -1,0 +1,22 @@
+{{- /*
+  Returning partial: format a rating count the App Store way (rounded, no "+").
+  482 -> "482", 1234 -> "1.2K", 9950 -> "10K", 18980 -> "19K",
+  47893 -> "48K", 2483721 -> "2.5M". Returns "" for 0/empty.
+  Usage: {{ $s := partial "format-rating-count.html" $count }}
+*/ -}}
+{{- $count := int (. | default 0) -}}
+{{- $out := "" -}}
+{{- if gt $count 0 -}}
+  {{- if lt $count 1000 -}}
+    {{- $out = printf "%d" $count -}}
+  {{- else if lt $count 10000 -}}
+    {{- $r := div (math.Round (div (float $count) 100.0)) 10.0 -}}
+    {{- $out = cond (eq $r (math.Floor $r)) (printf "%.0fK" $r) (printf "%.1fK" $r) -}}
+  {{- else if lt $count 1000000 -}}
+    {{- $out = printf "%.0fK" (math.Round (div (float $count) 1000.0)) -}}
+  {{- else -}}
+    {{- $m := div (math.Round (div (float $count) 100000.0)) 10.0 -}}
+    {{- $out = cond (eq $m (math.Floor $m)) (printf "%.0fM" $m) (printf "%.1fM" $m) -}}
+  {{- end -}}
+{{- end -}}
+{{- return $out -}}

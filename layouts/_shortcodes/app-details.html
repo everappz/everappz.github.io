@@ -88,7 +88,7 @@
 {{- end -}}
 
 {{- if eq (.Get "heading") "true" -}}
-<h2 id="app-information" style="scroll-margin-top:6rem;padding-top:2rem;padding-bottom:0.5rem" class="not-prose hx:text-4xl hx:font-bold hx:leading-none hx:tracking-tighter hx:md:text-5xl hx:text-gray-900 hx:dark:text-gray-100 hx:mx-auto hx:text-center">{{ i18n "appInformation" }}</h2>
+<h2 id="available-versions" style="scroll-margin-top:6rem;padding-top:2rem;padding-bottom:0.5rem" class="not-prose hx:text-4xl hx:font-bold hx:leading-none hx:tracking-tighter hx:md:text-5xl hx:text-gray-900 hx:dark:text-gray-100 hx:mx-auto hx:text-center">{{ i18n "availableVersions" }}</h2>
 <div class="hx:mt-6"></div>
 {{- end -}}
 
@@ -146,8 +146,8 @@
         {{- $rating := "" -}}{{- with $app.averageUserRating -}}{{- $rating = printf "%.1f ★" . -}}{{- end -}}
         {{- $ratingCount := "" -}}{{- with $app.userRatingCount -}}{{- $ratingCount = lang.FormatNumberCustom 0 . -}}{{- end -}}
         {{- $cvRating := "" -}}{{- with $app.averageUserRatingForCurrentVersion -}}{{- $cvRating = printf "%.1f ★" . -}}{{- end -}}
-        {{- $cvRatingCount := "" -}}{{- with $app.userRatingCountForCurrentVersion -}}{{- $cvRatingCount = lang.FormatNumberCustom 0 . -}}{{- end -}}
-        {{- $ratingMerged := $cvRating -}}{{- if and $cvRating $cvRatingCount -}}{{- $ratingMerged = printf "%s (%s)" $cvRating $cvRatingCount -}}{{- end -}}
+        {{- $cvRatingCount := "" -}}{{- with $app.userRatingCountForCurrentVersion -}}{{- $cvRatingCount = partial "format-rating-count.html" . -}}{{- end -}}
+        {{- $ratingMerged := $cvRating -}}{{- if and $cvRating $cvRatingCount -}}{{- $ratingMerged = printf "%s %s" $cvRating $cvRatingCount -}}{{- end -}}
 
         {{- $platformValue := $platform -}}{{- with $app.minimumOsVersion -}}{{- $platformValue = printf "%s %s+" $platform . -}}{{- end -}}
         {{- /* Total downloads, formatted like the app store (4.7K+, 480K+, 13.1M+). */ -}}
