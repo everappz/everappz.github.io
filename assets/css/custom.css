@@ -419,3 +419,38 @@ details a {
 .dark .everappz-social-icon:hover {
     color: var(--hx-color-neutral-50);
 }
+/* Feature cards ("Full Features" grid): on hover, also change the shadow and
+   background (the theme only changes the border). Applies site-wide, both themes. */
+.hextra-feature-card {
+    transition: border-color 0.2s ease, box-shadow 0.2s ease;
+}
+.hextra-feature-card::before {
+    transition: background 0.2s ease;
+}
+.hextra-feature-card:hover {
+    box-shadow: 0 10px 24px -10px rgba(0, 0, 0, 0.18);
+}
+.hextra-feature-card:hover::before {
+    background: rgba(0, 0, 0, 0.04);
+}
+.dark .hextra-feature-card:hover {
+    box-shadow: 0 12px 28px -10px rgba(0, 0, 0, 0.6);
+}
+.dark .hextra-feature-card:hover::before {
+    background: rgba(255, 255, 255, 0.05);
+}
+
+/* Card icons (.hextra-card-icon — feature cards, howto/screenshot cards, etc.):
+   always match the title color instead of the theme's muted grey + hover
+   "highlight", and vertically center the icon with the title (icon size kept at
+   the theme default). The .hextra-card prefix matches the theme's own selector
+   specificity so these win (custom.css is concatenated last). */
+.hextra-card .hextra-card-icon {
+    align-items: center;
+}
+.hextra-card .hextra-card-icon svg {
+    color: currentColor;
+}
+.dark .hextra-card .hextra-card-icon svg {
+    color: currentColor;
+}
