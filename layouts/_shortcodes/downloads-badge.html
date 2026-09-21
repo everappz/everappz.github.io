@@ -1,0 +1,29 @@
+{{- /*
+  Hero downloads badge: shows the largest download total across the product's
+  iOS/Mac editions (from static/units/data.json), and links to the
+  #app-information section. Product key comes from the page dir or a product param.
+
+  Example: {{< downloads-badge >}}  or  {{< downloads-badge product="flacbox" >}}
+*/ -}}
+{{- $key := .Get "product" | default (path.Base .Page.File.Dir) -}}
+{{- $unitsData := dict -}}
+{{- if os.FileExists "static/units/data.json" -}}
+  {{- $unitsData = os.ReadFile "static/units/data.json" | transform.Unmarshal -}}
+{{- end -}}
+{{- $max := 0 -}}
+{{- with index hugo.Data.apps $key -}}
+  {{- range (slice .ios .pro .mac) -}}
+    {{- with . -}}
+      {{- $c := int (index $unitsData . | default 0) -}}
+      {{- if gt $c $max -}}{{- $max = $c -}}{{- end -}}
+    {{- end -}}
+  {{- end -}}
+{{- end -}}
+{{- $downloads := partial "format-downloads.html" $max -}}
+{{- with $downloads -}}
+<a href="#app-information" class="downloads-badge not-prose hx:inline-flex hx:items-center hx:rounded-full hx:gap-2 hx:px-3 hx:py-1 hx:text-xs hx:text-gray-600 hx:dark:text-gray-400 hx:bg-gray-100 hx:dark:bg-neutral-800 hx:border-gray-200 hx:dark:border-neutral-800 hx:border hx:hover:border-gray-400 hx:dark:hover:text-gray-50 hx:dark:hover:border-gray-600 hx:transition-all hx:ease-in hx:duration-200">
+  <div class="hx:w-2 hx:h-2 hx:rounded-full hx:bg-primary-400"></div>
+  <span><strong>{{ . }}</strong> {{ i18n "worldwideDownloads" }}</span>
+  {{ partial "icon.html" (dict "name" "arrow-circle-right" "attributes" "height=14") }}
+</a>
+{{- end -}}

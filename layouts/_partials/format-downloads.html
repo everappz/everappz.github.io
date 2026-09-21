@@ -1,0 +1,20 @@
+{{- /*
+  Returning partial: format a download-units count the App Store way.
+  482 -> "482", 4783 -> "4.7K+", 47893 -> "47K+", 487321 -> "480K+",
+  2483721 -> "2.4M+", 13141675 -> "13.1M+". Returns "" for 0/empty.
+  Usage: {{ $s := partial "format-downloads.html" $count }}
+*/ -}}
+{{- $count := int (. | default 0) -}}
+{{- $out := "" -}}
+{{- if gt $count 0 -}}
+  {{- if lt $count 1000 -}}{{- $out = printf "%d" $count -}}
+  {{- else if lt $count 10000 -}}{{- $out = printf "%.1fK+" (div (math.Floor (div (float $count) 100.0)) 10.0) -}}
+  {{- else if lt $count 100000 -}}{{- $out = printf "%.0fK+" (math.Floor (div (float $count) 1000.0)) -}}
+  {{- else if lt $count 1000000 -}}{{- $out = printf "%.0fK+" (mul (math.Floor (div (float $count) 10000.0)) 10) -}}
+  {{- else if lt $count 10000000 -}}{{- $out = printf "%.1fM+" (div (math.Floor (div (float $count) 100000.0)) 10.0) -}}
+  {{- else -}}
+    {{- $m := div (math.Floor (div (float $count) 100000.0)) 10.0 -}}
+    {{- $out = cond (eq $m (math.Floor $m)) (printf "%.0fM+" $m) (printf "%.1fM+" $m) -}}
+  {{- end -}}
+{{- end -}}
+{{- return $out -}}

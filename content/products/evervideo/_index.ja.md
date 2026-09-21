@@ -32,10 +32,7 @@ Evervideo は、スペインのソフトウェア企業である Everappz が開
 
 <div class="hx:flex hx:flex-col hx:items-center hx:justify-center hx:sm:block">
 
-{{< hextra/hero-badge >}}
-  <div class="hx:w-2 hx:h-2 hx:rounded-full hx:bg-primary-400"></div>
-  <span>新着</span>
-{{< /hextra/hero-badge >}}
+{{< downloads-badge >}}
 
 <div class="hx:mt-6 hx:mb-6">
 <div class="hx:flex hx:gap-4 hx:items-center">

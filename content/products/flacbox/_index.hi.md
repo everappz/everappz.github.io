@@ -31,11 +31,7 @@ Flacbox iPhone और Mac के लिए एक हाई-रेज़ ऑड�
 
 <div class="hx:flex hx:flex-col hx:items-center hx:justify-center hx:sm:block">
 
-{{< hextra/hero-badge link="../../blog/flacbox-celebrates-1-million-worldwide-downloads-your-gateway-to-hi-res-music/" >}}
-  <div class="hx:w-2 hx:h-2 hx:rounded-full hx:bg-primary-400"></div>
-  <span>10 लाख डाउनलोड</span>
-  {{< icon name="arrow-circle-right" attributes="height=14" >}}
-{{< /hextra/hero-badge >}}
+{{< downloads-badge >}}
 
 <div class="hx:mt-6 hx:mb-6">
 <div class="hx:flex hx:gap-4 hx:items-center">

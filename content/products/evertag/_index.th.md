@@ -28,6 +28,10 @@ Evertag เป็นโปรแกรมแก้ไขแท็กเพลง
 
 <div class="hx:flex hx:flex-col hx:items-center hx:justify-center hx:sm:block">
 
+<div class="hx:mt-4 hx:mr-4">
+{{< downloads-badge >}}
+</div>
+
 <div class="hx:mt-6 hx:mb-6">
 <div class="hx:flex hx:gap-4 hx:items-center">
   {{< app-icon src="/images/app_icons/png/Evertag_Icon-App-1024x1024.png" alt="Evertag Icon" class="hero-headline-icon" size="80" >}}

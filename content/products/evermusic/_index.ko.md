@@ -33,11 +33,7 @@ Evermusic는 스페인 소프트웨어 회사인 Everappz가 개발한 iPhone �
 <div class="hx:flex hx:flex-col hx:items-center hx:justify-center hx:sm:block">
 
 <div class="hx:mt-4 hx:mr-4">
-{{< hextra/hero-badge link="../../blog/evermusic-celebrates-11-million-worldwide-downloads-a-musical-milestone" >}}
-  <div class="hx:w-2 hx:h-2 hx:rounded-full hx:bg-primary-400"></div>
-  <span>1,100만 다운로드</span>
-    {{< icon name="arrow-circle-right" attributes="height=14" >}}
-{{< /hextra/hero-badge >}}
+{{< downloads-badge >}}
 </div>
 
 <div class="hx:mt-6 hx:mb-6">

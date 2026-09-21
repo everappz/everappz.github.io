@@ -32,11 +32,7 @@ O Everdisk e uma aplicacao de drive sem fios para iPhone e iPad, desenvolvida pe
 <div class="hx:flex hx:flex-col hx:items-center hx:justify-center hx:sm:block">
 
 <div class="hx:mt-4 hx:mr-4">
-{{< hextra/hero-badge link="https://apps.apple.com/app/apple-store/id6751851132?pt=95781850&ct=everappzcom&mt=8" >}}
-  <div class="hx:w-2 hx:h-2 hx:rounded-full hx:bg-primary-400"></div>
-  <span>Novidade na App Store</span>
-    {{< icon name="arrow-circle-right" attributes="height=14" >}}
-{{< /hextra/hero-badge >}}
+{{< downloads-badge >}}
 </div>
 
 <div class="hx:mt-6 hx:mb-6">

@@ -36,6 +36,7 @@
 <script>
 (function(){
   if(window.__appStoreSubtitle)return;window.__appStoreSubtitle=true;
+  var LV={{ i18n "appVersion" }},LU={{ i18n "appUpdated" }};
   function pad(n){return String(n).padStart(2,'0');}
   function fmt(s){var d=new Date(s);return isNaN(d.getTime())?'':pad(d.getDate())+'.'+pad(d.getMonth()+1)+'.'+d.getFullYear();}
   function lookup(id){return fetch('https://itunes.apple.com/lookup?id='+encodeURIComponent(id)+'&country=us').then(function(r){return r.json();}).then(function(j){return j.results&&j.results[0];}).catch(function(){return null;});}
@@ -47,11 +48,11 @@
     Promise.all(jobs).then(function(){
       var primary=out.ios||out.mac;if(!primary)return;
       var parts=[];
-      if(primary.version)parts.push(primary.version);
-      var dt=fmt(primary.currentVersionReleaseDate);if(dt)parts.push(dt);
-      if(out.ios&&out.ios.minimumOsVersion)parts.push('iOS '+out.ios.minimumOsVersion);
-      if(out.mac&&out.mac.minimumOsVersion)parts.push('macOS '+out.mac.minimumOsVersion);
-      el.textContent=parts.join(' • ');
+      if(primary.version)parts.push(LV+': <strong>'+primary.version+'</strong>');
+      var dt=fmt(primary.currentVersionReleaseDate);if(dt)parts.push(LU+': <strong>'+dt+'</strong>');
+      if(out.ios&&out.ios.minimumOsVersion)parts.push('iOS: <strong>'+out.ios.minimumOsVersion+'+</strong>');
+      if(out.mac&&out.mac.minimumOsVersion)parts.push('macOS: <strong>'+out.mac.minimumOsVersion+'+</strong>');
+      el.innerHTML=parts.join('&nbsp;&nbsp;&nbsp;');
     });
   }
   function run(){document.querySelectorAll('.appstore-subtitle').forEach(fill);}

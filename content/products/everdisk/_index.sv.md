@@ -32,11 +32,7 @@ Everdisk är en app för en trådlös disk till iPhone och iPad, utvecklad av Ev
 <div class="hx:flex hx:flex-col hx:items-center hx:justify-center hx:sm:block">
 
 <div class="hx:mt-4 hx:mr-4">
-{{< hextra/hero-badge link="https://apps.apple.com/app/apple-store/id6751851132?pt=95781850&ct=everappzcom&mt=8" >}}
-  <div class="hx:w-2 hx:h-2 hx:rounded-full hx:bg-primary-400"></div>
-  <span>Ny på App Store</span>
-    {{< icon name="arrow-circle-right" attributes="height=14" >}}
-{{< /hextra/hero-badge >}}
+{{< downloads-badge >}}
 </div>
 
 <div class="hx:mt-6 hx:mb-6">

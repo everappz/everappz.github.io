@@ -33,7 +33,7 @@ Ogni prodotto offre funzionalità potenti e un'integrazione perfetta con iOS e m
 
 <div class="hx:w-full">
 
-{{< product-cards cols="2" >}}
+{{< app-details ids="885367198, 905746421, 1564384601, 1097564256, 1594027432, 6602897336, 6743504109, 1450763230, 1594027661, 6751851132" >}}
 
 </div>
 

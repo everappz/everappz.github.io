@@ -16,6 +16,11 @@
     (printf "Resize %dx q80 webp" (mul $iconPx 2)) -}}
 {{- $sizes := printf "%dpx" $iconPx -}}
 {{- $buttonTitle := i18n "readMore" -}}
+{{- /* Total download units per app id (dev/units/build-units.sh) for the badge. */ -}}
+{{- $unitsData := dict -}}
+{{- if os.FileExists "static/units/data.json" -}}
+  {{- $unitsData = os.ReadFile "static/units/data.json" | transform.Unmarshal -}}
+{{- end -}}
 
 {{- $products := slice
   (dict
@@ -71,12 +76,23 @@
         {{- $img = relURL (strings.TrimPrefix "/" $img) -}}
       {{- end -}}
     {{- end -}}
+    {{- /* Dynamic downloads badge: largest total across the app's iOS/Mac editions. */ -}}
+    {{- $key := path.Base $product.link -}}
+    {{- $max := 0 -}}
+    {{- with index hugo.Data.apps $key -}}
+      {{- range (slice .ios .pro .mac) -}}
+        {{- with . -}}{{- $c := int (index $unitsData . | default 0) -}}{{- if gt $c $max -}}{{- $max = $c -}}{{- end -}}{{- end -}}
+      {{- end -}}
+    {{- end -}}
+    {{- $dl := partial "format-downloads.html" $max -}}
+    {{- $tag := $product.tag -}}
+    {{- with $dl -}}{{- $tag = . -}}{{- end -}}
     {{- partial "shortcodes/product-card" (dict
       "page"          $.Page
       "link"          $product.link
       "title"         $product.title
       "subtitle"      $product.subtitle
-      "tag"           $product.tag
+      "tag"           $tag
       "image"         $img
       "imageResource" $imageResource
       "specs"         $specs
