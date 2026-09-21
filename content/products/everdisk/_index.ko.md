@@ -1,4 +1,5 @@
 ---
+weight: 5
 date: '2026-08-20T12:00:00+00:00'
 title: 'Everdisk - iPhone과 iPad를 무선 드라이브로'
 layout: hextra-home

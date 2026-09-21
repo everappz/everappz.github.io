@@ -1,4 +1,5 @@
 ---
+weight: 1
 date: '2025-06-12T17:00:00+00:00'
 title: 'Evermusic - Офлайн музичний плеєр для iPhone та Mac'
 layout: hextra-home

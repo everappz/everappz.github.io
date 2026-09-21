@@ -1,4 +1,5 @@
 ---
+weight: 2
 date: '2025-06-12T17:00:00+00:00'
 title: 'Flacbox - Reprodutor de Áudio Hi-Res para iPhone e Mac'
 layout: hextra-home

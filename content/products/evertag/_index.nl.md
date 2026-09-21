@@ -1,4 +1,5 @@
 ---
+weight: 3
 date: '2025-06-12T17:00:00+00:00'
 title: 'Evertag - Muziek Tag Editor voor iPhone en Mac'
 layout: hextra-home

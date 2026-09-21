@@ -1,4 +1,5 @@
 ---
+weight: 5
 date: '2026-08-20T12:00:00+00:00'
 title: 'Everdisk - Transforme o seu iPhone e iPad numa Drive sem Fios'
 layout: hextra-home

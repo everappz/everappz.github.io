@@ -1,4 +1,5 @@
 ---
+weight: 5
 date: '2026-08-20T12:00:00+00:00'
 title: 'Everdisk - Convierte tu iPhone y iPad en un disco inalámbrico'
 layout: hextra-home

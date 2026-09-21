@@ -1,4 +1,5 @@
 ---
+weight: 5
 date: '2026-08-20T12:00:00+00:00'
 title: 'Everdisk - Gör din iPhone och iPad till en trådlös disk'
 layout: hextra-home

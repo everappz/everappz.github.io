@@ -1,4 +1,5 @@
 ---
+weight: 5
 date: '2026-08-20T12:00:00+00:00'
 title: 'Everdisk - Gør din iPhone og iPad til et trådløst drev'
 layout: hextra-home

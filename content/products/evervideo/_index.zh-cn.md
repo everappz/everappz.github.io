@@ -1,4 +1,5 @@
 ---
+weight: 4
 date: '2025-06-12T17:00:00+00:00'
 title: 'Evervideo - 适用于 iPhone 和 Mac 的高清视频播放器'
 layout: hextra-home

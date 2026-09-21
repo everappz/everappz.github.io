@@ -1,4 +1,5 @@
 ---
+weight: 4
 date: '2025-06-12T17:00:00+00:00'
 title: 'Evervideo - Reprodutor de Vídeo HD para iPhone e Mac'
 layout: hextra-home

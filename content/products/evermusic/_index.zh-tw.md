@@ -1,4 +1,5 @@
 ---
+weight: 1
 date: '2025-06-12T17:00:00+00:00'
 title: 'Evermusic - 適用於 iPhone 和 Mac 的離線音樂播放器'
 layout: hextra-home

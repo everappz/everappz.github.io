@@ -1,4 +1,5 @@
 ---
+weight: 5
 date: '2026-08-20T12:00:00+00:00'
 title: 'Everdisk - เปลี่ยน iPhone และ iPad ของคุณให้เป็นไดรฟ์ไร้สาย'
 layout: hextra-home

@@ -1,4 +1,5 @@
 ---
+weight: 5
 date: '2026-08-20T12:00:00+00:00'
 title: 'Everdisk - iPhone ve iPad cihazınızı kablosuz sürücüye dönüştürün'
 layout: hextra-home

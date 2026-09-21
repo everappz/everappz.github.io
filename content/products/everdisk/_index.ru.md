@@ -1,4 +1,5 @@
 ---
+weight: 5
 date: '2026-08-20T12:00:00+00:00'
 title: 'Everdisk - превратите iPhone и iPad в беспроводной диск'
 layout: hextra-home

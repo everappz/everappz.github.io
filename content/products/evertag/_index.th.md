@@ -1,4 +1,5 @@
 ---
+weight: 3
 date: '2025-06-12T17:00:00+00:00'
 title: 'Evertag - โปรแกรมแก้ไขแท็กเพลงสำหรับ iPhone และ Mac'
 layout: hextra-home
