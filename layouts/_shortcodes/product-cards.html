@@ -59,6 +59,20 @@
   )
 -}}
 
+{{- /* Attach each product's total downloads (max across iOS/Pro/Mac) and order
+     the cards most-downloaded first. */ -}}
+{{- $ranked := slice -}}
+{{- range $p := $products -}}
+  {{- $max := 0 -}}
+  {{- with index hugo.Data.apps (path.Base $p.link) -}}
+    {{- range (slice .ios .pro .mac) -}}
+      {{- with . -}}{{- $c := int (index $unitsData . | default 0) -}}{{- if gt $c $max -}}{{- $max = $c -}}{{- end -}}{{- end -}}
+    {{- end -}}
+  {{- end -}}
+  {{- $ranked = $ranked | append (merge $p (dict "dl" $max)) -}}
+{{- end -}}
+{{- $products = sort $ranked "dl" "desc" -}}
+
 {{- if $.Page.IsHome -}}
 <div class="product-cards-home hx:mt-4 not-prose">
 {{- else -}}
@@ -76,15 +90,8 @@
         {{- $img = relURL (strings.TrimPrefix "/" $img) -}}
       {{- end -}}
     {{- end -}}
-    {{- /* Dynamic downloads badge: largest total across the app's iOS/Mac editions. */ -}}
-    {{- $key := path.Base $product.link -}}
-    {{- $max := 0 -}}
-    {{- with index hugo.Data.apps $key -}}
-      {{- range (slice .ios .pro .mac) -}}
-        {{- with . -}}{{- $c := int (index $unitsData . | default 0) -}}{{- if gt $c $max -}}{{- $max = $c -}}{{- end -}}{{- end -}}
-      {{- end -}}
-    {{- end -}}
-    {{- $dl := partial "format-downloads.html" $max -}}
+    {{- /* Dynamic downloads badge (count computed above as .dl). */ -}}
+    {{- $dl := partial "format-downloads.html" $product.dl -}}
     {{- $tag := $product.tag -}}
     {{- with $dl -}}{{- $tag = . -}}{{- end -}}
     {{- partial "shortcodes/product-card" (dict

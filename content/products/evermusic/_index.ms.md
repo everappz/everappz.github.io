@@ -49,7 +49,7 @@ Evermusic ialah pemain muzik luar talian percuma untuk iPhone dan Mac yang diban
 {{< hextra/hero-centered-subtitle >}}
 <a href="https://www.chip.de/downloads/Evermusic-Pro-iPhone-_-iPad-App_91614216.html" target="_blank" rel="noopener">
   Penyelesaian sempurna untuk mengatur dan memainkan muzik anda sendiri dari awan <strong>chip.de</strong>
-  </span>
+  </a>
 {{< /hextra/hero-centered-subtitle >}}
 </div>
 

@@ -49,7 +49,7 @@ Evermusic הוא נגן מוזיקה חינמי במצב לא מקוון ל-iPho
 {{< hextra/hero-centered-subtitle >}}
 <a href="https://www.chip.de/downloads/Evermusic-Pro-iPhone-_-iPad-App_91614216.html" target="_blank" rel="noopener">
   הוא הפתרון המושלם לארגון והשמעת המוזיקה שלך מהענן <strong>chip.de</strong>
-  </span>
+  </a>
 {{< /hextra/hero-centered-subtitle >}}
 </div>
 

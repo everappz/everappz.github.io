@@ -49,7 +49,7 @@ Evermusic는 스페인 소프트웨어 회사인 Everappz가 개발한 iPhone �
 {{< hextra/hero-centered-subtitle >}}
 <a href="https://www.chip.de/downloads/Evermusic-Pro-iPhone-_-iPad-App_91614216.html" target="_blank" rel="noopener">
   클라우드에서 자신의 음악을 정리하고 재생하는 완벽한 솔루션 <strong>chip.de</strong>
-  </span>
+  </a>
 {{< /hextra/hero-centered-subtitle >}}
 </div>
 

@@ -49,7 +49,7 @@ Evermusic je besplatan offline glazbeni reproduktor za iPhone i Mac koji je razv
 {{< hextra/hero-centered-subtitle >}}
 <a href="https://www.chip.de/downloads/Evermusic-Pro-iPhone-_-iPad-App_91614216.html" target="_blank" rel="noopener">
   Savršeno je rješenje za organiziranje i reprodukciju vlastite glazbe iz oblaka <strong>chip.de</strong>
-  </span>
+  </a>
 {{< /hextra/hero-centered-subtitle >}}
 </div>
 

@@ -49,7 +49,7 @@ Evermusic هو مشغل موسيقى مجاني بدون اتصال بالإنت
 {{< hextra/hero-centered-subtitle >}}
 <a href="https://www.chip.de/downloads/Evermusic-Pro-iPhone-_-iPad-App_91614216.html" target="_blank" rel="noopener">
   هو الحل المثالي لتنظيم وتشغيل موسيقاك الخاصة من السحابة <strong>chip.de</strong>
-  </span>
+  </a>
 {{< /hextra/hero-centered-subtitle >}}
 </div>
 

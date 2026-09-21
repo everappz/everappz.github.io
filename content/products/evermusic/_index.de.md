@@ -49,7 +49,7 @@ Evermusic ist ein kostenloser Offline-Musikplayer für iPhone und Mac, entwickel
 {{< hextra/hero-centered-subtitle >}}
 <a href="https://www.chip.de/downloads/Evermusic-Pro-iPhone-_-iPad-App_91614216.html" target="_blank" rel="noopener">
   Ist die perfekte Lösung zum Organisieren und Abspielen Ihrer eigenen Musik aus der Cloud <strong>chip.de</strong>
-  </span>
+  </a>
 {{< /hextra/hero-centered-subtitle >}}
 </div>
 

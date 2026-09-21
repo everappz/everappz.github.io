@@ -49,7 +49,7 @@ Evermusic — это бесплатный офлайн-музыкальный п
 {{< hextra/hero-centered-subtitle >}}
 <a href="https://www.chip.de/downloads/Evermusic-Pro-iPhone-_-iPad-App_91614216.html" target="_blank" rel="noopener">
   Идеальное решение для организации и воспроизведения собственной музыки из облака <strong>chip.de</strong>
-  </span>
+  </a>
 {{< /hextra/hero-centered-subtitle >}}
 </div>
 

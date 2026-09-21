@@ -54,11 +54,12 @@
 .hextra-dot.active{background:rgba(0,0,0,0.8);transform:scale(1.25)}
 .dark .hextra-dot{background:rgba(255,255,255,0.35)}
 .dark .hextra-dot.active{background:rgba(255,255,255,0.9)}
-.hextra-slide-nav{display:flex;align-items:center;justify-content:center;width:36px;height:36px;border:none;border-radius:50%;cursor:pointer;padding:0;color:#000;background:rgba(0,0,0,0.06);opacity:0.7;transition:opacity 0.2s,background 0.2s,transform 0.2s}
-.hextra-slide-nav:hover{opacity:1;background:rgba(0,0,0,0.12)}
-.hextra-slide-nav:active{transform:scale(0.9)}
-.dark .hextra-slide-nav{color:#fff;background:rgba(255,255,255,0.12)}
-.dark .hextra-slide-nav:hover{background:rgba(255,255,255,0.22)}
+.hextra-slide-nav{position:absolute;top:50%;transform:translateY(-50%);z-index:3;display:flex;align-items:center;justify-content:center;width:40px;height:40px;border:none;border-radius:50%;cursor:pointer;padding:0;color:#fff;background:rgba(0,0,0,0.4);opacity:0.85;transition:opacity 0.2s,background 0.2s}
+.hextra-slide-nav:hover{opacity:1;background:rgba(0,0,0,0.6)}
+.hextra-slide-nav:active{transform:translateY(-50%) scale(0.9)}
+.hextra-slide-nav-prev{left:1rem}
+.hextra-slide-nav-next{right:1rem}
+@media(max-width:639px){.hextra-slide-nav{width:34px;height:34px}.hextra-slide-nav-prev{left:0.5rem}.hextra-slide-nav-next{right:0.5rem}}
 </style>
 <div id="{{ $slideshowID }}" class="hextra-hero-slideshow">
   <div class="hextra-slideshow-container hextra-feature-card not-prose hx:block hx:relative hx:overflow-hidden hx:rounded-3xl hx:border hx:border-gray-200 hx:hover:border-gray-300 hx:dark:border-neutral-800 hx:dark:hover:border-neutral-700 hx:before:pointer-events-none hx:before:absolute hx:before:inset-0 hx:before:bg-glass-gradient">
@@ -90,17 +91,19 @@
       </div>
     </div>
     {{- end }}
+    {{- if gt (len $slides) 1 }}
+    <button type="button" class="hextra-slide-nav hextra-slide-nav-prev" aria-label="{{ T "previousSlide" | default "Previous slide" }}"><svg width="20" height="20" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M15.41 7.41 14 6l-6 6 6 6 1.41-1.41L10.83 12z"/></svg></button>
+    <button type="button" class="hextra-slide-nav hextra-slide-nav-next" aria-label="{{ T "nextSlide" | default "Next slide" }}"><svg width="20" height="20" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M8.59 16.59 10 18l6-6-6-6-1.41 1.41L13.17 12z"/></svg></button>
+    {{- end }}
   </div>
 
   {{- if gt (len $slides) 1 }}
   <div class="hextra-slide-controls">
-    <button type="button" class="hextra-slide-nav hextra-slide-nav-prev" aria-label="{{ T "previousSlide" | default "Previous slide" }}"><svg width="20" height="20" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M15.41 7.41 14 6l-6 6 6 6 1.41-1.41L10.83 12z"/></svg></button>
     <div class="hextra-slide-dots">
       {{- range $i, $slide := $slides }}
       <button class="hextra-dot{{ if eq $i 0 }} active{{ end }}" data-index="{{ $i }}" aria-label="Slide {{ add $i 1 }}"></button>
       {{- end }}
     </div>
-    <button type="button" class="hextra-slide-nav hextra-slide-nav-next" aria-label="{{ T "nextSlide" | default "Next slide" }}"><svg width="20" height="20" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M8.59 16.59 10 18l6-6-6-6-1.41 1.41L13.17 12z"/></svg></button>
   </div>
   {{- end }}
 </div>

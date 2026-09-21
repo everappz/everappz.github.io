@@ -49,7 +49,7 @@ Evermusic es un reproductor de música sin conexión gratuito para iPhone y Mac 
 {{< hextra/hero-centered-subtitle >}}
 <a href="https://www.chip.de/downloads/Evermusic-Pro-iPhone-_-iPad-App_91614216.html" target="_blank" rel="noopener">
   Es la solución perfecta para organizar y reproducir tu propia música desde la nube <strong>chip.de</strong>
-  </span>
+  </a>
 {{< /hextra/hero-centered-subtitle >}}
 </div>
 

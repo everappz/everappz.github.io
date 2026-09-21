@@ -49,7 +49,7 @@ Evermusic เป็นแอปเล่นเพลงออฟไลน์ฟ�
 {{< hextra/hero-centered-subtitle >}}
 <a href="https://www.chip.de/downloads/Evermusic-Pro-iPhone-_-iPad-App_91614216.html" target="_blank" rel="noopener">
   เป็นโซลูชันที่สมบูรณ์แบบสำหรับการจัดระเบียบและเล่น เพลงของคุณจากคลาวด์ <strong>chip.de</strong>
-  </span>
+  </a>
 {{< /hextra/hero-centered-subtitle >}}
 </div>
 

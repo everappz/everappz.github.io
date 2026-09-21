@@ -20,6 +20,8 @@ tags: [
 ]
 ---
 
+{{< force-dark >}}
+
 {{< lottie src="/images/juicy-json/juicy-website-designer-making-landing-page-at-laptop.json" width="85%" >}}
 
 <div class="hx:mb-6 hx:text-center">

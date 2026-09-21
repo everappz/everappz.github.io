@@ -49,7 +49,7 @@ Evermusic è un lettore musicale offline gratuito per iPhone e Mac sviluppato da
 {{< hextra/hero-centered-subtitle >}}
 <a href="https://www.chip.de/downloads/Evermusic-Pro-iPhone-_-iPad-App_91614216.html" target="_blank" rel="noopener">
   È la soluzione perfetta per organizzare e riprodurre la tua musica dal cloud <strong>chip.de</strong>
-  </span>
+  </a>
 {{< /hextra/hero-centered-subtitle >}}
 </div>
 

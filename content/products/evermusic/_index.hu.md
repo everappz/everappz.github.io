@@ -49,7 +49,7 @@ Az Evermusic egy ingyenes offline zenelejátszó iPhone-ra és Macre, amelyet az
 {{< hextra/hero-centered-subtitle >}}
 <a href="https://www.chip.de/downloads/Evermusic-Pro-iPhone-_-iPad-App_91614216.html" target="_blank" rel="noopener">
   A tökéletes megoldás saját zenéd rendszerezésére és lejátszására a felhőből <strong>chip.de</strong>
-  </span>
+  </a>
 {{< /hextra/hero-centered-subtitle >}}
 </div>
 

@@ -49,7 +49,7 @@ Evermusic er en gratis offline musikafspiller til iPhone og Mac, udviklet af Eve
 {{< hextra/hero-centered-subtitle >}}
 <a href="https://www.chip.de/downloads/Evermusic-Pro-iPhone-_-iPad-App_91614216.html" target="_blank" rel="noopener">
   Er den perfekte løsning til at organisere og afspille din egen musik fra skyen <strong>chip.de</strong>
-  </span>
+  </a>
 {{< /hextra/hero-centered-subtitle >}}
 </div>
 

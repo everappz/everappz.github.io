@@ -49,7 +49,7 @@ Evermusic 是一款適用於 iPhone 和 Mac 的免費離線音樂播放器，由
 {{< hextra/hero-centered-subtitle >}}
 <a href="https://www.chip.de/downloads/Evermusic-Pro-iPhone-_-iPad-App_91614216.html" target="_blank" rel="noopener">
   是從雲端整理和播放 您個人音樂的完美解決方案 <strong>chip.de</strong>
-  </span>
+  </a>
 {{< /hextra/hero-centered-subtitle >}}
 </div>
 
