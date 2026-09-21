@@ -454,3 +454,13 @@ details a {
 .dark .hextra-card .hextra-card-icon svg {
     color: currentColor;
 }
+
+/* App Store / Mac App Store badge size — single source of truth for both the
+   product hero badges (.appstore-badge) and the App Information badges
+   (.app-details .app-store). Change the height here once. */
+.appstore-badge img,
+.app-details .app-store img {
+    height: 54px;
+    width: auto;
+    display: block;
+}
