@@ -130,7 +130,7 @@ screenshots:
 
 {{< cards cols="4">}}
 
-  {{< feature-card 
+  {{< design-feature-card 
     icon="globe-alt"
     image="/products/everdisk/screenshots/browser_access.png" 
     title="Πρόσβαση από browser" 
@@ -139,7 +139,7 @@ screenshots:
     subtitle="Μοιραστείτε έναν σύνδεσμο και αφήστε οποιονδήποτε να περιηγηθεί, να δει προεπισκόπηση και να κατεβάσει τα αρχεία σας από οποιονδήποτε browser. Τίποτα προς εγκατάσταση στην άλλη πλευρά." 
   >}}
 
-  {{< feature-card 
+  {{< design-feature-card 
     icon="server"
     image="/products/everdisk/screenshots/connect_to_servers.png"  
     title="Σύνδεση σε διακομιστές" 
@@ -148,7 +148,7 @@ screenshots:
     subtitle="Ανακαλύψτε και συνδεθείτε σε διακομιστές DLNA, WebDAV, FTP, SFTP και SMB στο δίκτυό σας για περιήγηση, μετάδοση και λήψη των αρχείων τους." 
   >}}
 
-  {{< feature-card 
+  {{< design-feature-card 
     icon="folder"
     image="/products/everdisk/screenshots/file_manager.png"  
     title="Διαχειριστής αρχείων" 
@@ -157,7 +157,7 @@ screenshots:
     subtitle="Διαχειριστείτε τα πάντα στη συσκευή σας: περιηγηθείτε σε λίστα ή πλέγμα, δημιουργήστε φακέλους, μετονομάστε, μετακινήστε, αντιγράψτε, κάντε zip και unzip, και διαγράψτε." 
   >}}
 
-  {{< feature-card 
+  {{< design-feature-card 
     icon="play"
     image="/products/everdisk/screenshots/play_in_the_app.png"  
     title="Αναπαραγωγή στην εφαρμογή" 
@@ -166,7 +166,7 @@ screenshots:
     subtitle="Ακούστε τα τοπικά σας κομμάτια ή κάντε μετάδοση από συνδεδεμένες συσκευές, με ουρά στο mini player και αναπαραγωγή βίντεο πλήρους οθόνης." 
   >}}
 
-  {{< feature-card 
+  {{< design-feature-card 
     icon="music-note"
     image="/products/everdisk/screenshots/share_your_library.png"  
     title="Μοιραστείτε τη συλλογή σας" 
@@ -175,7 +175,7 @@ screenshots:
     subtitle="Ενεργοποιήστε ολόκληρη τη συλλογή φωτογραφιών και μουσικής σας και κάθε άλμπουμ και κομμάτι γίνεται διαθέσιμο στο δίκτυο σε αρχική ποιότητα." 
   >}} 
 
-  {{< feature-card 
+  {{< design-feature-card 
     icon="photograph"
     image="/products/everdisk/screenshots/photo_gallery.png"  
     title="Συλλογή φωτογραφιών" 

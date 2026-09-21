@@ -130,7 +130,7 @@ Gjør iPhone eller iPad om til en trådløs disk som deler filer med <strong>hvi
 
 {{< cards cols="4">}}
 
-  {{< feature-card 
+  {{< design-feature-card 
     icon="globe-alt"
     image="/products/everdisk/screenshots/browser_access.png" 
     title="Nettlesertilgang" 
@@ -139,7 +139,7 @@ Gjør iPhone eller iPad om til en trådløs disk som deler filer med <strong>hvi
     subtitle="Del en lenke og la hvem som helst bla i, forhåndsvise og laste ned filene dine fra hvilken som helst nettleser. Ingenting å installere på den andre siden." 
   >}}
 
-  {{< feature-card 
+  {{< design-feature-card 
     icon="server"
     image="/products/everdisk/screenshots/connect_to_servers.png"  
     title="Koble til servere" 
@@ -148,7 +148,7 @@ Gjør iPhone eller iPad om til en trådløs disk som deler filer med <strong>hvi
     subtitle="Oppdag og koble til DLNA-, WebDAV-, FTP-, SFTP- og SMB-servere på nettverket ditt for å bla i, streame og laste ned filene deres." 
   >}}
 
-  {{< feature-card 
+  {{< design-feature-card 
     icon="folder"
     image="/products/everdisk/screenshots/file_manager.png"  
     title="Filbehandler" 
@@ -157,7 +157,7 @@ Gjør iPhone eller iPad om til en trådløs disk som deler filer med <strong>hvi
     subtitle="Styr alt på enheten din: bla i liste eller rutenett, opprett mapper, gi nytt navn, flytt, kopier, zip og pakk ut, og slett." 
   >}}
 
-  {{< feature-card 
+  {{< design-feature-card 
     icon="play"
     image="/products/everdisk/screenshots/play_in_the_app.png"  
     title="Spill av i appen" 
@@ -166,7 +166,7 @@ Gjør iPhone eller iPad om til en trådløs disk som deler filer med <strong>hvi
     subtitle="Lytt til dine lokale spor eller stream fra tilkoblede enheter, med kø i minispilleren og videoavspilling i fullskjerm." 
   >}}
 
-  {{< feature-card 
+  {{< design-feature-card 
     icon="music-note"
     image="/products/everdisk/screenshots/share_your_library.png"  
     title="Del biblioteket ditt" 
@@ -175,7 +175,7 @@ Gjør iPhone eller iPad om til en trådløs disk som deler filer med <strong>hvi
     subtitle="Slå på hele bilde- og musikkbiblioteket ditt, og hvert album og spor blir tilgjengelig over nettverket i original kvalitet." 
   >}} 
 
-  {{< feature-card 
+  {{< design-feature-card 
     icon="photograph"
     image="/products/everdisk/screenshots/photo_gallery.png"  
     title="Bildegalleri" 

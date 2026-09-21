@@ -130,7 +130,7 @@ Transformă-ți iPhone-ul sau iPad-ul într-un disc wireless care partajează fi
 
 {{< cards cols="4">}}
 
-  {{< feature-card 
+  {{< design-feature-card 
     icon="globe-alt"
     image="/products/everdisk/screenshots/browser_access.png" 
     title="Acces din browser" 
@@ -139,7 +139,7 @@ Transformă-ți iPhone-ul sau iPad-ul într-un disc wireless care partajează fi
     subtitle="Partajează un link și lasă pe oricine să-ți răsfoiască, previzualizeze și descarce fișierele din orice browser web. Nimic de instalat de cealaltă parte." 
   >}}
 
-  {{< feature-card 
+  {{< design-feature-card 
     icon="server"
     image="/products/everdisk/screenshots/connect_to_servers.png"  
     title="Conectare la servere" 
@@ -148,7 +148,7 @@ Transformă-ți iPhone-ul sau iPad-ul într-un disc wireless care partajează fi
     subtitle="Descoperă și conectează-te la servere DLNA, WebDAV, FTP, SFTP și SMB din rețeaua ta pentru a le răsfoi, transmite și descărca fișierele." 
   >}}
 
-  {{< feature-card 
+  {{< design-feature-card 
     icon="folder"
     image="/products/everdisk/screenshots/file_manager.png"  
     title="Manager de fișiere" 
@@ -157,7 +157,7 @@ Transformă-ți iPhone-ul sau iPad-ul într-un disc wireless care partajează fi
     subtitle="Gestionează totul pe dispozitivul tău: răsfoiește în listă sau grilă, creează foldere, redenumește, mută, copiază, arhivează și dezarhivează și șterge." 
   >}}
 
-  {{< feature-card 
+  {{< design-feature-card 
     icon="play"
     image="/products/everdisk/screenshots/play_in_the_app.png"  
     title="Redă în aplicație" 
@@ -166,7 +166,7 @@ Transformă-ți iPhone-ul sau iPad-ul într-un disc wireless care partajează fi
     subtitle="Ascultă piesele tale locale sau transmite de pe dispozitive conectate, cu o coadă în mini player și redare video pe tot ecranul." 
   >}}
 
-  {{< feature-card 
+  {{< design-feature-card 
     icon="music-note"
     image="/products/everdisk/screenshots/share_your_library.png"  
     title="Partajează-ți biblioteca" 
@@ -175,7 +175,7 @@ Transformă-ți iPhone-ul sau iPad-ul într-un disc wireless care partajează fi
     subtitle="Activează întreaga bibliotecă de fotografii și muzică, iar fiecare album și piesă devine disponibilă în rețea în calitate originală." 
   >}} 
 
-  {{< feature-card 
+  {{< design-feature-card 
     icon="photograph"
     image="/products/everdisk/screenshots/photo_gallery.png"  
     title="Galerie foto" 

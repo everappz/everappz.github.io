@@ -133,7 +133,7 @@ Az Evermusic egy ingyenes offline zenelejátszó iPhone-ra és Macre, amelyet az
 
 {{< cards cols="4">}}
 
-  {{< feature-card 
+  {{< design-feature-card 
     icon="adjustments"
     image="/products/evermusic/screenshots/2048x2732/3.png" 
     title="Audio hangszínszabályzó" 
@@ -142,7 +142,7 @@ Az Evermusic egy ingyenes offline zenelejátszó iPhone-ra és Macre, amelyet az
     subtitle="Finomhangold a hangzást iPod-stílusú hangszínszabályzóval, testreszabható előbeállításokkal és előerősítő szabályzóval a legjobb hallgatási élményért." 
   >}}
 
-  {{< feature-card 
+  {{< design-feature-card 
     icon="annotation"
     image="/products/evermusic/screenshots/2048x2732/4.png"  
     title="Dalszöveg megjelenítő" 
@@ -151,7 +151,7 @@ Az Evermusic egy ingyenes offline zenelejátszó iPhone-ra és Macre, amelyet az
     subtitle="Olvasd a beágyazott dalszövegeket és szám megjegyzéseket hallgatás közben. Élvezd a szinkronizált dalszövegeket a magával ragadóbb zenei élményért." 
   >}}
 
-  {{< feature-card 
+  {{< design-feature-card 
     icon="collection"
     image="/products/evermusic/screenshots/2048x2732/5.png"  
     title="Lejátszási lista kezelő" 
@@ -160,7 +160,7 @@ Az Evermusic egy ingyenes offline zenelejátszó iPhone-ra és Macre, amelyet az
     subtitle="Hozz létre és rendezz egyéni lejátszási listákat, rendezd át a dalokat, exportáld M3U formátumba, vagy archiváld ZIP fájlként az egyszerű megosztáshoz vagy mentéshez." 
   >}}
 
-  {{< feature-card 
+  {{< design-feature-card 
     icon="cloud"
     image="/products/evermusic/screenshots/2048x2732/6.png"  
     title="Felhő zenei streaming" 
@@ -169,7 +169,7 @@ Az Evermusic egy ingyenes offline zenelejátszó iPhone-ra és Macre, amelyet az
     subtitle="Kapcsold össze a legnépszerűbb felhő tárhelyeket, mint a Google Drive, Dropbox és OneDrive, hogy bármikor, bárhol streameld a zenegyűjteményedet." 
   >}}
 
-  {{< feature-card 
+  {{< design-feature-card 
     icon="duplicate"
     image="/products/evermusic/screenshots/2048x2732/9.png"  
     title="Fájlkezelő" 
@@ -178,7 +178,7 @@ Az Evermusic egy ingyenes offline zenelejátszó iPhone-ra és Macre, amelyet az
     subtitle="Könnyedén kezeld az audiofájljaidat – nevezd át a számokat, rendezd a mappákat, és vidd át a zenét eszközök között a beépített eszközökkel." 
   >}} 
 
-  {{< feature-card 
+  {{< design-feature-card 
     icon="sun"
     image="/products/evermusic/screenshots/2048x2732/10.png"  
     title="Alkalmazás testreszabás" 

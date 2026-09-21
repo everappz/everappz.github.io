@@ -130,7 +130,7 @@ iPhone이나 iPad를 무선 드라이브로 바꿔 <strong>네트워크의 모�
 
 {{< cards cols="4">}}
 
-  {{< feature-card 
+  {{< design-feature-card 
     icon="globe-alt"
     image="/products/everdisk/screenshots/browser_access.png" 
     title="브라우저 접근" 
@@ -139,7 +139,7 @@ iPhone이나 iPad를 무선 드라이브로 바꿔 <strong>네트워크의 모�
     subtitle="링크를 공유하면 누구든 어떤 웹 브라우저에서도 파일을 둘러보고, 미리 보고, 내려받을 수 있습니다. 상대 쪽에 설치할 것은 없습니다." 
   >}}
 
-  {{< feature-card 
+  {{< design-feature-card 
     icon="server"
     image="/products/everdisk/screenshots/connect_to_servers.png"  
     title="서버에 연결" 
@@ -148,7 +148,7 @@ iPhone이나 iPad를 무선 드라이브로 바꿔 <strong>네트워크의 모�
     subtitle="네트워크에 있는 DLNA, WebDAV, FTP, SFTP, SMB 서버를 찾아 연결해 그 파일을 둘러보고 스트리밍하고 내려받으세요." 
   >}}
 
-  {{< feature-card 
+  {{< design-feature-card 
     icon="folder"
     image="/products/everdisk/screenshots/file_manager.png"  
     title="파일 관리자" 
@@ -157,7 +157,7 @@ iPhone이나 iPad를 무선 드라이브로 바꿔 <strong>네트워크의 모�
     subtitle="기기의 모든 것을 관리하세요. 목록이나 격자로 둘러보고, 폴더를 만들고, 이름을 바꾸고, 옮기고, 복사하고, 압축하고 풀고, 삭제할 수 있습니다." 
   >}}
 
-  {{< feature-card 
+  {{< design-feature-card 
     icon="play"
     image="/products/everdisk/screenshots/play_in_the_app.png"  
     title="앱에서 재생" 
@@ -166,7 +166,7 @@ iPhone이나 iPad를 무선 드라이브로 바꿔 <strong>네트워크의 모�
     subtitle="로컬 트랙을 듣거나 연결된 기기에서 스트리밍하세요. 미니 플레이어 대기열과 전체 화면 동영상 재생을 제공합니다." 
   >}}
 
-  {{< feature-card 
+  {{< design-feature-card 
     icon="music-note"
     image="/products/everdisk/screenshots/share_your_library.png"  
     title="라이브러리 공유" 
@@ -175,7 +175,7 @@ iPhone이나 iPad를 무선 드라이브로 바꿔 <strong>네트워크의 모�
     subtitle="사진과 음악 라이브러리 전체를 켜면 모든 앨범과 트랙이 원본 화질 그대로 네트워크에서 이용 가능해집니다." 
   >}} 
 
-  {{< feature-card 
+  {{< design-feature-card 
     icon="photograph"
     image="/products/everdisk/screenshots/photo_gallery.png"  
     title="사진 갤러리" 

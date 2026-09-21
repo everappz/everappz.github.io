@@ -164,7 +164,7 @@ Intuitivt design
 
 {{< cards cols="4">}}
 
-  {{< feature-card 
+  {{< design-feature-card 
     image="/products/flacbox/screenshots/2048x2732/1.png" 
     title="Lydafspiller" 
     method="Fill"
@@ -173,7 +173,7 @@ Intuitivt design
     icon="play"
   >}}
 
-  {{< feature-card 
+  {{< design-feature-card 
     image="/products/flacbox/screenshots/2048x2732/2.png"  
     title="Lyd-equalizer" 
     method="Fill"
@@ -182,7 +182,7 @@ Intuitivt design
     icon="adjustments"
   >}}
 
-  {{< feature-card 
+  {{< design-feature-card 
     image="/products/flacbox/screenshots/2048x2732/3.png"  
     title="Playliste-håndtering" 
     method="Fill"
@@ -191,7 +191,7 @@ Intuitivt design
     icon="collection"
   >}}
 
-  {{< feature-card 
+  {{< design-feature-card 
     image="/products/flacbox/screenshots/2048x2732/5.png"  
     title="Musikbibliotek" 
     method="Fill"
@@ -200,7 +200,7 @@ Intuitivt design
     icon="library"
   >}}
 
-  {{< feature-card 
+  {{< design-feature-card 
     image="/products/flacbox/screenshots/2048x2732/7.png"  
     title="Cloud-lagring" 
     method="Fill"
@@ -209,7 +209,7 @@ Intuitivt design
     icon="cloud"
   >}}
 
-  {{< feature-card 
+  {{< design-feature-card 
     image="/products/flacbox/screenshots/2048x2732/8.png"  
     title="iCloud Drive" 
     method="Fill"

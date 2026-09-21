@@ -164,7 +164,7 @@ USB फ्लैश ड्राइव या नेटवर्क स्टो
 
 {{< cards cols="4">}}
 
-  {{< feature-card 
+  {{< design-feature-card 
     image="/products/flacbox/screenshots/2048x2732/1.png" 
     title="ऑडियो प्लेयर" 
     method="Fill"
@@ -173,7 +173,7 @@ USB फ्लैश ड्राइव या नेटवर्क स्टो
     icon="play"
   >}}
 
-  {{< feature-card 
+  {{< design-feature-card 
     image="/products/flacbox/screenshots/2048x2732/2.png"  
     title="ऑडियो इक्वलाइज़र" 
     method="Fill"
@@ -182,7 +182,7 @@ USB फ्लैश ड्राइव या नेटवर्क स्टो
     icon="adjustments"
   >}}
 
-  {{< feature-card 
+  {{< design-feature-card 
     image="/products/flacbox/screenshots/2048x2732/3.png"  
     title="प्लेलिस्ट मैनेजर" 
     method="Fill"
@@ -191,7 +191,7 @@ USB फ्लैश ड्राइव या नेटवर्क स्टो
     icon="collection"
   >}}
 
-  {{< feature-card 
+  {{< design-feature-card 
     image="/products/flacbox/screenshots/2048x2732/5.png"  
     title="मीडिया लाइब्रेरी" 
     method="Fill"
@@ -200,7 +200,7 @@ USB फ्लैश ड्राइव या नेटवर्क स्टो
     icon="library"
   >}}
 
-  {{< feature-card 
+  {{< design-feature-card 
     image="/products/flacbox/screenshots/2048x2732/7.png"  
     title="क्लाउड स्टोरेज" 
     method="Fill"
@@ -209,7 +209,7 @@ USB फ्लैश ड्राइव या नेटवर्क स्टो
     icon="cloud"
   >}}
 
-  {{< feature-card 
+  {{< design-feature-card 
     image="/products/flacbox/screenshots/2048x2732/8.png"  
     title="iCloud Drive" 
     method="Fill"

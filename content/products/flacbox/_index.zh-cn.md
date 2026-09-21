@@ -142,12 +142,12 @@ Flacbox
 <div class="hx:w-full">
 
 {{< cards cols="4">}}
-  {{< feature-card image="/products/flacbox/screenshots/2048x2732/1.png" title="音频播放器" method="Fill" options="515x200 q90 webp" subtitle="高级音乐播放器，具有重复、随机播放、速度控制和音高调节功能。" icon="play" >}}
-  {{< feature-card image="/products/flacbox/screenshots/2048x2732/2.png" title="音频均衡器" method="Fill" options="515x200 q90 webp" subtitle="自定义均衡器，带预设、低音增强和前置放大器，提供更好的声音。" icon="adjustments" >}}
-  {{< feature-card image="/products/flacbox/screenshots/2048x2732/3.png" title="播放列表管理器" method="Fill" options="515x200 q90 webp" subtitle="创建播放列表，更改歌曲顺序，导出为M3U或ZIP以备份或共享。" icon="collection" >}}
-  {{< feature-card image="/products/flacbox/screenshots/2048x2732/5.png" title="媒体库" method="Fill" options="515x200 q90 webp" subtitle="使用音频标签和元数据按专辑、艺术家或流派整理歌曲。" icon="library" >}}
-  {{< feature-card image="/products/flacbox/screenshots/2048x2732/7.png" title="云存储" method="Fill" options="515x200 q90 webp" subtitle="从Google Drive、Dropbox、OneDrive和其他云服务串流音乐。" icon="cloud" >}}
-  {{< feature-card image="/products/flacbox/screenshots/2048x2732/8.png" title="iCloud Drive" method="Fill" options="515x200 q90 webp" subtitle="在iCloud中存储无损音乐，无需下载即可直接串流。" icon="wifi" >}}
+  {{< design-feature-card image="/products/flacbox/screenshots/2048x2732/1.png" title="音频播放器" method="Fill" options="515x200 q90 webp" subtitle="高级音乐播放器，具有重复、随机播放、速度控制和音高调节功能。" icon="play" >}}
+  {{< design-feature-card image="/products/flacbox/screenshots/2048x2732/2.png" title="音频均衡器" method="Fill" options="515x200 q90 webp" subtitle="自定义均衡器，带预设、低音增强和前置放大器，提供更好的声音。" icon="adjustments" >}}
+  {{< design-feature-card image="/products/flacbox/screenshots/2048x2732/3.png" title="播放列表管理器" method="Fill" options="515x200 q90 webp" subtitle="创建播放列表，更改歌曲顺序，导出为M3U或ZIP以备份或共享。" icon="collection" >}}
+  {{< design-feature-card image="/products/flacbox/screenshots/2048x2732/5.png" title="媒体库" method="Fill" options="515x200 q90 webp" subtitle="使用音频标签和元数据按专辑、艺术家或流派整理歌曲。" icon="library" >}}
+  {{< design-feature-card image="/products/flacbox/screenshots/2048x2732/7.png" title="云存储" method="Fill" options="515x200 q90 webp" subtitle="从Google Drive、Dropbox、OneDrive和其他云服务串流音乐。" icon="cloud" >}}
+  {{< design-feature-card image="/products/flacbox/screenshots/2048x2732/8.png" title="iCloud Drive" method="Fill" options="515x200 q90 webp" subtitle="在iCloud中存储无损音乐，无需下载即可直接串流。" icon="wifi" >}}
 {{< /cards >}}
 
 </div>

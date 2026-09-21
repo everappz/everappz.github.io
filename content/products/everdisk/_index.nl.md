@@ -130,7 +130,7 @@ Maak van je iPhone of iPad een draadloze schijf die bestanden deelt met <strong>
 
 {{< cards cols="4">}}
 
-  {{< feature-card 
+  {{< design-feature-card 
     icon="globe-alt"
     image="/products/everdisk/screenshots/browser_access.png" 
     title="Toegang via browser" 
@@ -139,7 +139,7 @@ Maak van je iPhone of iPad een draadloze schijf die bestanden deelt met <strong>
     subtitle="Deel een link en laat iedereen je bestanden bekijken, vooraf bekijken en downloaden vanuit elke webbrowser. Niets te installeren aan de andere kant." 
   >}}
 
-  {{< feature-card 
+  {{< design-feature-card 
     icon="server"
     image="/products/everdisk/screenshots/connect_to_servers.png"  
     title="Verbinden met servers" 
@@ -148,7 +148,7 @@ Maak van je iPhone of iPad een draadloze schijf die bestanden deelt met <strong>
     subtitle="Ontdek DLNA-, WebDAV-, FTP-, SFTP- en SMB-servers op je netwerk en verbind ermee om hun bestanden te bekijken, te streamen en te downloaden." 
   >}}
 
-  {{< feature-card 
+  {{< design-feature-card 
     icon="folder"
     image="/products/everdisk/screenshots/file_manager.png"  
     title="Bestandsbeheer" 
@@ -157,7 +157,7 @@ Maak van je iPhone of iPad een draadloze schijf die bestanden deelt met <strong>
     subtitle="Beheer alles op je apparaat: blader in lijst- of rasterweergave, maak mappen aan, hernoem, verplaats, kopieer, pak in en uit, en verwijder." 
   >}}
 
-  {{< feature-card 
+  {{< design-feature-card 
     icon="play"
     image="/products/everdisk/screenshots/play_in_the_app.png"  
     title="Afspelen in de app" 
@@ -166,7 +166,7 @@ Maak van je iPhone of iPad een draadloze schijf die bestanden deelt met <strong>
     subtitle="Luister naar je lokale nummers of stream vanaf verbonden apparaten, met een wachtrij in de miniplayer en schermvullend video afspelen." 
   >}}
 
-  {{< feature-card 
+  {{< design-feature-card 
     icon="music-note"
     image="/products/everdisk/screenshots/share_your_library.png"  
     title="Deel je bibliotheek" 
@@ -175,7 +175,7 @@ Maak van je iPhone of iPad een draadloze schijf die bestanden deelt met <strong>
     subtitle="Zet je volledige foto- en muziekbibliotheek aan en elk album en nummer wordt via het netwerk beschikbaar in originele kwaliteit." 
   >}} 
 
-  {{< feature-card 
+  {{< design-feature-card 
     icon="photograph"
     image="/products/everdisk/screenshots/photo_gallery.png"  
     title="Fotogalerij" 

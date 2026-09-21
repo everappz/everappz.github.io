@@ -133,7 +133,7 @@ screenshots:
 
 {{< cards cols="4">}}
 
-  {{< feature-card 
+  {{< design-feature-card 
     icon="adjustments"
     image="/products/evermusic/screenshots/2048x2732/3.png" 
     title="Ισοσταθμιστής Ήχου" 
@@ -142,7 +142,7 @@ screenshots:
     subtitle="Ρυθμίστε τον ήχο σας με έναν ισοσταθμιστή ήχου τύπου iPod, προσαρμόσιμες προεπιλογές και ρύθμιση προενίσχυσης για την καλύτερη εμπειρία ακρόασης." 
   >}}
 
-  {{< feature-card 
+  {{< design-feature-card 
     icon="annotation"
     image="/products/evermusic/screenshots/2048x2732/4.png"  
     title="Προβολή Στίχων" 
@@ -151,7 +151,7 @@ screenshots:
     subtitle="Διαβάστε ενσωματωμένους στίχους και σχόλια κομματιών κατά την ακρόαση. Απολαύστε συγχρονισμένους στίχους για μια πιο καθηλωτική μουσική εμπειρία." 
   >}}
 
-  {{< feature-card 
+  {{< design-feature-card 
     icon="collection"
     image="/products/evermusic/screenshots/2048x2732/5.png"  
     title="Διαχείριση Λιστών Αναπαραγωγής" 
@@ -160,7 +160,7 @@ screenshots:
     subtitle="Δημιουργήστε και οργανώστε προσαρμοσμένες λίστες αναπαραγωγής, αναδιατάξτε τραγούδια, εξαγάγετε σε M3U ή αρχειοθετήστε ως αρχεία ZIP για εύκολη κοινοποίηση ή αντίγραφο ασφαλείας." 
   >}}
 
-  {{< feature-card 
+  {{< design-feature-card 
     icon="cloud"
     image="/products/evermusic/screenshots/2048x2732/6.png"  
     title="Ροή Μουσικής από Cloud" 
@@ -169,7 +169,7 @@ screenshots:
     subtitle="Συνδέστε κορυφαίες πλατφόρμες αποθήκευσης cloud όπως Google Drive, Dropbox και OneDrive για ροή της μουσικής σας συλλογής οποτεδήποτε, οπουδήποτε." 
   >}}
 
-  {{< feature-card 
+  {{< design-feature-card 
     icon="duplicate"
     image="/products/evermusic/screenshots/2048x2732/9.png"  
     title="Διαχείριση Αρχείων" 
@@ -178,7 +178,7 @@ screenshots:
     subtitle="Διαχειριστείτε εύκολα τα αρχεία ήχου σας — μετονομάστε κομμάτια, οργανώστε φακέλους και μεταφέρετε μουσική μεταξύ συσκευών χρησιμοποιώντας ενσωματωμένα εργαλεία." 
   >}} 
 
-  {{< feature-card 
+  {{< design-feature-card 
     icon="sun"
     image="/products/evermusic/screenshots/2048x2732/10.png"  
     title="Προσαρμογή Εφαρμογής" 

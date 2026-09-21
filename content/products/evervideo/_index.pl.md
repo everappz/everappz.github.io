@@ -178,7 +178,7 @@ Intuicyjny design
 
 {{< cards cols="4">}}
 
-  {{< feature-card 
+  {{< design-feature-card 
     image="/products/evervideo/screenshots/2880x1800/1.png" 
     title="Odtwarzacz wideo" 
     method="Fill"
@@ -187,7 +187,7 @@ Intuicyjny design
     icon="play"
   >}}
 
-  {{< feature-card 
+  {{< design-feature-card 
     image="/products/evervideo/screenshots/2880x1800/3.png" 
     title="Korektor audio i wideo" 
     method="Fill"
@@ -196,7 +196,7 @@ Intuicyjny design
     icon="adjustments"
   >}}
 
-  {{< feature-card 
+  {{< design-feature-card 
     image="/products/evervideo/screenshots/2880x1800/6.png" 
     title="Menedżer playlist" 
     method="Fill"
@@ -205,7 +205,7 @@ Intuicyjny design
     icon="collection"
   >}}
 
-  {{< feature-card 
+  {{< design-feature-card 
     image="/products/evervideo/screenshots/2880x1800/5.png" 
     title="Biblioteka mediów" 
     method="Fill"
@@ -214,7 +214,7 @@ Intuicyjny design
     icon="library"
   >}}
 
-  {{< feature-card 
+  {{< design-feature-card 
     image="/products/evervideo/screenshots/2880x1800/7.png"  
     title="Chmura" 
     method="Fill"
@@ -223,7 +223,7 @@ Intuicyjny design
     icon="cloud"
   >}}
 
-  {{< feature-card 
+  {{< design-feature-card 
     image="/products/evervideo/screenshots/2880x1800/9.png"  
     title="Menedżer plików" 
     method="Fill"

@@ -130,7 +130,7 @@ Biến iPhone hoặc iPad thành ổ đĩa không dây chia sẻ tập tin với
 
 {{< cards cols="4">}}
 
-  {{< feature-card 
+  {{< design-feature-card 
     icon="globe-alt"
     image="/products/everdisk/screenshots/browser_access.png" 
     title="Truy cập qua trình duyệt" 
@@ -139,7 +139,7 @@ Biến iPhone hoặc iPad thành ổ đĩa không dây chia sẻ tập tin với
     subtitle="Chia sẻ một liên kết và để bất kỳ ai duyệt, xem trước và tải tập tin của bạn từ mọi trình duyệt web. Không phải cài gì ở phía bên kia." 
   >}}
 
-  {{< feature-card 
+  {{< design-feature-card 
     icon="server"
     image="/products/everdisk/screenshots/connect_to_servers.png"  
     title="Kết nối tới máy chủ" 
@@ -148,7 +148,7 @@ Biến iPhone hoặc iPad thành ổ đĩa không dây chia sẻ tập tin với
     subtitle="Khám phá và kết nối tới máy chủ DLNA, WebDAV, FTP, SFTP và SMB trong mạng để duyệt, phát và tải tập tin của chúng." 
   >}}
 
-  {{< feature-card 
+  {{< design-feature-card 
     icon="folder"
     image="/products/everdisk/screenshots/file_manager.png"  
     title="Trình quản lý tập tin" 
@@ -157,7 +157,7 @@ Biến iPhone hoặc iPad thành ổ đĩa không dây chia sẻ tập tin với
     subtitle="Quản lý mọi thứ trên thiết bị: duyệt theo danh sách hoặc lưới, tạo thư mục, đổi tên, di chuyển, sao chép, nén và giải nén, cùng xóa." 
   >}}
 
-  {{< feature-card 
+  {{< design-feature-card 
     icon="play"
     image="/products/everdisk/screenshots/play_in_the_app.png"  
     title="Phát ngay trong ứng dụng" 
@@ -166,7 +166,7 @@ Biến iPhone hoặc iPad thành ổ đĩa không dây chia sẻ tập tin với
     subtitle="Nghe nhạc cục bộ hoặc phát trực tuyến từ thiết bị đã kết nối, với hàng đợi trình phát mini và phát video toàn màn hình." 
   >}}
 
-  {{< feature-card 
+  {{< design-feature-card 
     icon="music-note"
     image="/products/everdisk/screenshots/share_your_library.png"  
     title="Chia sẻ thư viện của bạn" 
@@ -175,7 +175,7 @@ Biến iPhone hoặc iPad thành ổ đĩa không dây chia sẻ tập tin với
     subtitle="Bật toàn bộ thư viện ảnh và nhạc, mọi album cùng bản nhạc đều sẵn sàng qua mạng ở chất lượng gốc." 
   >}} 
 
-  {{< feature-card 
+  {{< design-feature-card 
     icon="photograph"
     image="/products/everdisk/screenshots/photo_gallery.png"  
     title="Thư viện ảnh" 

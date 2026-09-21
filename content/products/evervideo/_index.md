@@ -178,7 +178,7 @@ Intuitive Design
 
 {{< cards cols="4">}}
 
-  {{< feature-card 
+  {{< design-feature-card 
     image="/products/evervideo/screenshots/2880x1800/1.png" 
     title="Video Player" 
     method="Fill"
@@ -187,7 +187,7 @@ Intuitive Design
     icon="play"
   >}}
 
-  {{< feature-card 
+  {{< design-feature-card 
     image="/products/evervideo/screenshots/2880x1800/3.png" 
     title="Audio & Video Equalizer" 
     method="Fill"
@@ -196,7 +196,7 @@ Intuitive Design
     icon="adjustments"
   >}}
 
-  {{< feature-card 
+  {{< design-feature-card 
     image="/products/evervideo/screenshots/2880x1800/6.png" 
     title="Playlists Manager" 
     method="Fill"
@@ -205,7 +205,7 @@ Intuitive Design
     icon="collection"
   >}}
 
-  {{< feature-card 
+  {{< design-feature-card 
     image="/products/evervideo/screenshots/2880x1800/5.png" 
     title="Media Library" 
     method="Fill"
@@ -214,7 +214,7 @@ Intuitive Design
     icon="library"
   >}}
 
-  {{< feature-card 
+  {{< design-feature-card 
     image="/products/evervideo/screenshots/2880x1800/7.png"  
     title="Cloud Storage" 
     method="Fill"
@@ -223,7 +223,7 @@ Intuitive Design
     icon="cloud"
   >}}
 
-  {{< feature-card 
+  {{< design-feature-card 
     image="/products/evervideo/screenshots/2880x1800/9.png"  
     title="File Manager" 
     method="Fill"

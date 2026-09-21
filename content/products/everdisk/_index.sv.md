@@ -130,7 +130,7 @@ Gör din iPhone eller iPad till en trådlös disk som delar filer med <strong>vi
 
 {{< cards cols="4">}}
 
-  {{< feature-card 
+  {{< design-feature-card 
     icon="globe-alt"
     image="/products/everdisk/screenshots/browser_access.png" 
     title="Åtkomst via webbläsare" 
@@ -139,7 +139,7 @@ Gör din iPhone eller iPad till en trådlös disk som delar filer med <strong>vi
     subtitle="Dela en länk och låt vem som helst bläddra, förhandsvisa och ladda ner dina filer från valfri webbläsare. Inget att installera på den andra sidan." 
   >}}
 
-  {{< feature-card 
+  {{< design-feature-card 
     icon="server"
     image="/products/everdisk/screenshots/connect_to_servers.png"  
     title="Anslut till servrar" 
@@ -148,7 +148,7 @@ Gör din iPhone eller iPad till en trådlös disk som delar filer med <strong>vi
     subtitle="Upptäck och anslut till DLNA-, WebDAV-, FTP-, SFTP- och SMB-servrar på ditt nätverk för att bläddra bland, strömma och ladda ner deras filer." 
   >}}
 
-  {{< feature-card 
+  {{< design-feature-card 
     icon="folder"
     image="/products/everdisk/screenshots/file_manager.png"  
     title="Filhanterare" 
@@ -157,7 +157,7 @@ Gör din iPhone eller iPad till en trådlös disk som delar filer med <strong>vi
     subtitle="Hantera allt på din enhet: bläddra i lista eller rutnät, skapa mappar, byt namn, flytta, kopiera, packa och packa upp samt ta bort." 
   >}}
 
-  {{< feature-card 
+  {{< design-feature-card 
     icon="play"
     image="/products/everdisk/screenshots/play_in_the_app.png"  
     title="Spela upp i appen" 
@@ -166,7 +166,7 @@ Gör din iPhone eller iPad till en trådlös disk som delar filer med <strong>vi
     subtitle="Lyssna på dina lokala låtar eller strömma från anslutna enheter, med en kö i minispelaren och videouppspelning i helskärm." 
   >}}
 
-  {{< feature-card 
+  {{< design-feature-card 
     icon="music-note"
     image="/products/everdisk/screenshots/share_your_library.png"  
     title="Dela ditt bibliotek" 
@@ -175,7 +175,7 @@ Gör din iPhone eller iPad till en trådlös disk som delar filer med <strong>vi
     subtitle="Slå på hela ditt foto- och musikbibliotek så blir varje album och låt tillgängligt över nätverket i originalkvalitet." 
   >}} 
 
-  {{< feature-card 
+  {{< design-feature-card 
     icon="photograph"
     image="/products/everdisk/screenshots/photo_gallery.png"  
     title="Fotogalleri" 

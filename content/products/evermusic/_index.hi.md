@@ -133,7 +133,7 @@ Evermusic iPhone और Mac के लिए एक निःशुल्क ऑ
 
 {{< cards cols="4">}}
 
-  {{< feature-card 
+  {{< design-feature-card 
     icon="adjustments"
     image="/products/evermusic/screenshots/2048x2732/3.png" 
     title="ऑडियो इक्वलाइज़र" 
@@ -142,7 +142,7 @@ Evermusic iPhone और Mac के लिए एक निःशुल्क ऑ
     subtitle="iPod-शैली ऑडियो इक्वलाइज़र, अनुकूलन योग्य प्रीसेट और सर्वोत्तम सुनने के अनुभव के लिए प्रीएम्प गेन के साथ अपनी ध्वनि को फाइन-ट्यून करें।" 
   >}}
 
-  {{< feature-card 
+  {{< design-feature-card 
     icon="annotation"
     image="/products/evermusic/screenshots/2048x2732/4.png"  
     title="गीत दर्शक" 
@@ -151,7 +151,7 @@ Evermusic iPhone और Mac के लिए एक निःशुल्क ऑ
     subtitle="सुनते समय एम्बेडेड गीत और ट्रैक टिप्पणियां पढ़ें। अधिक इमर्सिव संगीत अनुभव के लिए सिंक्रनाइज़्ड गीतों का आनंद लें।" 
   >}}
 
-  {{< feature-card 
+  {{< design-feature-card 
     icon="collection"
     image="/products/evermusic/screenshots/2048x2732/5.png"  
     title="प्लेलिस्ट मैनेजर" 
@@ -160,7 +160,7 @@ Evermusic iPhone और Mac के लिए एक निःशुल्क ऑ
     subtitle="कस्टम प्लेलिस्ट बनाएं और व्यवस्थित करें, गाने पुनर्व्यवस्थित करें, M3U में निर्यात करें, या आसान साझाकरण या बैकअप के लिए ZIP फ़ाइलों के रूप में संग्रहित करें।" 
   >}}
 
-  {{< feature-card 
+  {{< design-feature-card 
     icon="cloud"
     image="/products/evermusic/screenshots/2048x2732/6.png"  
     title="क्लाउड म्यूजिक स्ट्रीमिंग" 
@@ -169,7 +169,7 @@ Evermusic iPhone और Mac के लिए एक निःशुल्क ऑ
     subtitle="कभी भी, कहीं भी अपने संगीत संग्रह को स्ट्रीम करने के लिए Google Drive, Dropbox और OneDrive जैसे शीर्ष क्लाउड स्टोरेज प्लेटफॉर्म से लिंक करें।" 
   >}}
 
-  {{< feature-card 
+  {{< design-feature-card 
     icon="duplicate"
     image="/products/evermusic/screenshots/2048x2732/9.png"  
     title="फ़ाइल मैनेजर" 
@@ -178,7 +178,7 @@ Evermusic iPhone और Mac के लिए एक निःशुल्क ऑ
     subtitle="अपनी ऑडियो फ़ाइलों को आसानी से प्रबंधित करें — ट्रैक का नाम बदलें, फ़ोल्डर व्यवस्थित करें और बिल्ट-इन टूल का उपयोग करके उपकरणों के बीच संगीत ट्रांसफर करें।" 
   >}} 
 
-  {{< feature-card 
+  {{< design-feature-card 
     icon="sun"
     image="/products/evermusic/screenshots/2048x2732/10.png"  
     title="ऐप अनुकूलन" 

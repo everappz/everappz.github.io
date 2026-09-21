@@ -133,7 +133,7 @@ Evermusic 是一款適用於 iPhone 和 Mac 的免費離線音樂播放器，由
 
 {{< cards cols="4">}}
 
-  {{< feature-card 
+  {{< design-feature-card 
     icon="adjustments"
     image="/products/evermusic/screenshots/2048x2732/3.png" 
     title="音訊等化器" 
@@ -142,7 +142,7 @@ Evermusic 是一款適用於 iPhone 和 Mac 的免費離線音樂播放器，由
     subtitle="使用 iPod 風格的音訊等化器、可自訂的預設和前置放大器增益，微調您的音質，獲得最佳聆聽體驗。" 
   >}}
 
-  {{< feature-card 
+  {{< design-feature-card 
     icon="annotation"
     image="/products/evermusic/screenshots/2048x2732/4.png"  
     title="歌詞檢視器" 
@@ -151,7 +151,7 @@ Evermusic 是一款適用於 iPhone 和 Mac 的免費離線音樂播放器，由
     subtitle="在聆聽時閱讀嵌入的歌詞和曲目註解。享受同步歌詞，獲得更沉浸的音樂體驗。" 
   >}}
 
-  {{< feature-card 
+  {{< design-feature-card 
     icon="collection"
     image="/products/evermusic/screenshots/2048x2732/5.png"  
     title="播放清單管理器" 
@@ -160,7 +160,7 @@ Evermusic 是一款適用於 iPhone 和 Mac 的免費離線音樂播放器，由
     subtitle="建立和整理自訂播放清單，重新排列歌曲，匯出為 M3U，或將其封存為 ZIP 檔案，方便分享或備份。" 
   >}}
 
-  {{< feature-card 
+  {{< design-feature-card 
     icon="cloud"
     image="/products/evermusic/screenshots/2048x2732/6.png"  
     title="雲端音樂串流" 
@@ -169,7 +169,7 @@ Evermusic 是一款適用於 iPhone 和 Mac 的免費離線音樂播放器，由
     subtitle="連結 Google Drive、Dropbox 和 OneDrive 等頂級雲端儲存平台，隨時隨地串流您的音樂收藏。" 
   >}}
 
-  {{< feature-card 
+  {{< design-feature-card 
     icon="duplicate"
     image="/products/evermusic/screenshots/2048x2732/9.png"  
     title="檔案管理器" 
@@ -178,7 +178,7 @@ Evermusic 是一款適用於 iPhone 和 Mac 的免費離線音樂播放器，由
     subtitle="輕鬆管理您的音訊檔案——重新命名曲目、整理資料夾，使用內建工具在裝置間傳輸音樂。" 
   >}} 
 
-  {{< feature-card 
+  {{< design-feature-card 
     icon="sun"
     image="/products/evermusic/screenshots/2048x2732/10.png"  
     title="應用程式個人化" 

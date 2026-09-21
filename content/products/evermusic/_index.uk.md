@@ -133,7 +133,7 @@ Evermusic — це безкоштовний офлайн-музичний пле
 
 {{< cards cols="4">}}
 
-  {{< feature-card 
+  {{< design-feature-card 
     icon="adjustments"
     image="/products/evermusic/screenshots/2048x2732/3.png" 
     title="Аудіо еквалайзер" 
@@ -142,7 +142,7 @@ Evermusic — це безкоштовний офлайн-музичний пле
     subtitle="Налаштуйте звук за допомогою аудіо еквалайзера у стилі iPod, налаштовуваних пресетів та підсилення попереднього підсилювача для найкращого прослуховування." 
   >}}
 
-  {{< feature-card 
+  {{< design-feature-card 
     icon="annotation"
     image="/products/evermusic/screenshots/2048x2732/4.png"  
     title="Перегляд текстів пісень" 
@@ -151,7 +151,7 @@ Evermusic — це безкоштовний офлайн-музичний пле
     subtitle="Читайте вбудовані тексти пісень та коментарі до треків під час прослуховування. Насолоджуйтесь синхронізованими текстами для більш захоплюючого музичного досвіду." 
   >}}
 
-  {{< feature-card 
+  {{< design-feature-card 
     icon="collection"
     image="/products/evermusic/screenshots/2048x2732/5.png"  
     title="Менеджер плейлистів" 
@@ -160,7 +160,7 @@ Evermusic — це безкоштовний офлайн-музичний пле
     subtitle="Створюйте та організовуйте власні плейлисти, змінюйте порядок пісень, експортуйте в M3U або архівуйте як ZIP файли для зручного обміну та резервного копіювання." 
   >}}
 
-  {{< feature-card 
+  {{< design-feature-card 
     icon="cloud"
     image="/products/evermusic/screenshots/2048x2732/6.png"  
     title="Хмарне потокове відтворення" 
@@ -169,7 +169,7 @@ Evermusic — це безкоштовний офлайн-музичний пле
     subtitle="Підключіть провідні хмарні платформи зберігання, такі як Google Drive, Dropbox та OneDrive, щоб транслювати вашу музичну колекцію будь-коли та будь-де." 
   >}}
 
-  {{< feature-card 
+  {{< design-feature-card 
     icon="duplicate"
     image="/products/evermusic/screenshots/2048x2732/9.png"  
     title="Файловий менеджер" 
@@ -178,7 +178,7 @@ Evermusic — це безкоштовний офлайн-музичний пле
     subtitle="Легко керуйте аудіофайлами — перейменовуйте треки, організовуйте папки та переносіть музику між пристроями за допомогою вбудованих інструментів." 
   >}} 
 
-  {{< feature-card 
+  {{< design-feature-card 
     icon="sun"
     image="/products/evermusic/screenshots/2048x2732/10.png"  
     title="Налаштування додатку" 

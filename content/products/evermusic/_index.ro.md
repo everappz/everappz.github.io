@@ -133,7 +133,7 @@ Evermusic este un player de muzică offline gratuit pentru iPhone și Mac, dezvo
 
 {{< cards cols="4">}}
 
-  {{< feature-card 
+  {{< design-feature-card 
     icon="adjustments"
     image="/products/evermusic/screenshots/2048x2732/3.png" 
     title="Egalizator audio" 
@@ -142,7 +142,7 @@ Evermusic este un player de muzică offline gratuit pentru iPhone și Mac, dezvo
     subtitle="Ajustează sunetul cu un egalizator audio în stil iPod, presetări personalizabile și câștig preamplificator pentru cea mai bună experiență de ascultare." 
   >}}
 
-  {{< feature-card 
+  {{< design-feature-card 
     icon="annotation"
     image="/products/evermusic/screenshots/2048x2732/4.png"  
     title="Vizualizator de versuri" 
@@ -151,7 +151,7 @@ Evermusic este un player de muzică offline gratuit pentru iPhone și Mac, dezvo
     subtitle="Citește versurile încorporate și comentariile pieselor în timp ce asculți. Bucură-te de versuri sincronizate pentru o experiență muzicală mai captivantă." 
   >}}
 
-  {{< feature-card 
+  {{< design-feature-card 
     icon="collection"
     image="/products/evermusic/screenshots/2048x2732/5.png"  
     title="Manager de playlist-uri" 
@@ -160,7 +160,7 @@ Evermusic este un player de muzică offline gratuit pentru iPhone și Mac, dezvo
     subtitle="Creează și organizează playlist-uri personalizate, reordonează melodiile, exportă în M3U sau arhivează ca fișiere ZIP pentru partajare ușoară sau backup." 
   >}}
 
-  {{< feature-card 
+  {{< design-feature-card 
     icon="cloud"
     image="/products/evermusic/screenshots/2048x2732/6.png"  
     title="Streaming muzică din cloud" 
@@ -169,7 +169,7 @@ Evermusic este un player de muzică offline gratuit pentru iPhone și Mac, dezvo
     subtitle="Conectează platforme populare de stocare precum Google Drive, Dropbox și OneDrive pentru a transmite colecția ta muzicală oricând, oriunde." 
   >}}
 
-  {{< feature-card 
+  {{< design-feature-card 
     icon="duplicate"
     image="/products/evermusic/screenshots/2048x2732/9.png"  
     title="Manager de fișiere" 
@@ -178,7 +178,7 @@ Evermusic este un player de muzică offline gratuit pentru iPhone și Mac, dezvo
     subtitle="Gestionează ușor fișierele audio — redenumește piese, organizează foldere și transferă muzică între dispozitive folosind instrumentele integrate." 
   >}} 
 
-  {{< feature-card 
+  {{< design-feature-card 
     icon="sun"
     image="/products/evermusic/screenshots/2048x2732/10.png"  
     title="Personalizare aplicație" 

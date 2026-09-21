@@ -130,7 +130,7 @@ Everdisk คือแอปไดรฟ์ไร้สายสำหรับ i
 
 {{< cards cols="4">}}
 
-  {{< feature-card 
+  {{< design-feature-card 
     icon="globe-alt"
     image="/products/everdisk/screenshots/browser_access.png" 
     title="เข้าถึงผ่านเบราว์เซอร์" 
@@ -139,7 +139,7 @@ Everdisk คือแอปไดรฟ์ไร้สายสำหรับ i
     subtitle="แชร์ลิงก์แล้วให้ใครก็ได้เรียกดู ดูตัวอย่าง และดาวน์โหลดไฟล์ของคุณจากเว็บเบราว์เซอร์ใดก็ได้ โดยไม่ต้องติดตั้งอะไรบนอีกฝั่ง" 
   >}}
 
-  {{< feature-card 
+  {{< design-feature-card 
     icon="server"
     image="/products/everdisk/screenshots/connect_to_servers.png"  
     title="เชื่อมต่อกับเซิร์ฟเวอร์" 
@@ -148,7 +148,7 @@ Everdisk คือแอปไดรฟ์ไร้สายสำหรับ i
     subtitle="ค้นหาและเชื่อมต่อกับเซิร์ฟเวอร์ DLNA, WebDAV, FTP, SFTP และ SMB บนเครือข่ายของคุณ เพื่อเรียกดู สตรีม และดาวน์โหลดไฟล์ของเซิร์ฟเวอร์เหล่านั้น" 
   >}}
 
-  {{< feature-card 
+  {{< design-feature-card 
     icon="folder"
     image="/products/everdisk/screenshots/file_manager.png"  
     title="ตัวจัดการไฟล์" 
@@ -157,7 +157,7 @@ Everdisk คือแอปไดรฟ์ไร้สายสำหรับ i
     subtitle="จัดการทุกอย่างบนอุปกรณ์ของคุณ: เรียกดูแบบรายการหรือกริด สร้างโฟลเดอร์ เปลี่ยนชื่อ ย้าย คัดลอก บีบอัดและแตกไฟล์ zip และลบ" 
   >}}
 
-  {{< feature-card 
+  {{< design-feature-card 
     icon="play"
     image="/products/everdisk/screenshots/play_in_the_app.png"  
     title="เล่นในแอป" 
@@ -166,7 +166,7 @@ Everdisk คือแอปไดรฟ์ไร้สายสำหรับ i
     subtitle="ฟังเพลงในเครื่องหรือสตรีมจากอุปกรณ์ที่เชื่อมต่อ พร้อมคิวในเครื่องเล่นขนาดเล็กและการเล่นวิดีโอแบบเต็มจอ" 
   >}}
 
-  {{< feature-card 
+  {{< design-feature-card 
     icon="music-note"
     image="/products/everdisk/screenshots/share_your_library.png"  
     title="แชร์คลังของคุณ" 
@@ -175,7 +175,7 @@ Everdisk คือแอปไดรฟ์ไร้สายสำหรับ i
     subtitle="เปิดคลังรูปภาพและเพลงทั้งหมด แล้วทุกอัลบั้มและทุกเพลงจะพร้อมใช้งานผ่านเครือข่ายในคุณภาพต้นฉบับ" 
   >}} 
 
-  {{< feature-card 
+  {{< design-feature-card 
     icon="photograph"
     image="/products/everdisk/screenshots/photo_gallery.png"  
     title="แกลเลอรีรูปภาพ" 

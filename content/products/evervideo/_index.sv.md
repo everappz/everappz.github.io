@@ -178,7 +178,7 @@ Intuitiv design
 
 {{< cards cols="4">}}
 
-  {{< feature-card 
+  {{< design-feature-card 
     image="/products/evervideo/screenshots/2880x1800/1.png" 
     title="Videospelare" 
     method="Fill"
@@ -187,7 +187,7 @@ Intuitiv design
     icon="play"
   >}}
 
-  {{< feature-card 
+  {{< design-feature-card 
     image="/products/evervideo/screenshots/2880x1800/3.png" 
     title="Ljud- & videoekvalisator" 
     method="Fill"
@@ -196,7 +196,7 @@ Intuitiv design
     icon="adjustments"
   >}}
 
-  {{< feature-card 
+  {{< design-feature-card 
     image="/products/evervideo/screenshots/2880x1800/6.png" 
     title="Spellisthanterare" 
     method="Fill"
@@ -205,7 +205,7 @@ Intuitiv design
     icon="collection"
   >}}
 
-  {{< feature-card 
+  {{< design-feature-card 
     image="/products/evervideo/screenshots/2880x1800/5.png" 
     title="Mediabibliotek" 
     method="Fill"
@@ -214,7 +214,7 @@ Intuitiv design
     icon="library"
   >}}
 
-  {{< feature-card 
+  {{< design-feature-card 
     image="/products/evervideo/screenshots/2880x1800/7.png"  
     title="Molnlagring" 
     method="Fill"
@@ -223,7 +223,7 @@ Intuitiv design
     icon="cloud"
   >}}
 
-  {{< feature-card 
+  {{< design-feature-card 
     image="/products/evervideo/screenshots/2880x1800/9.png"  
     title="Filhanterare" 
     method="Fill"

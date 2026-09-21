@@ -130,7 +130,7 @@ Everdisk 是 Everappz 为 iPhone 和 iPad 打造的无线硬盘应用。它把�
 
 {{< cards cols="4">}}
 
-  {{< feature-card 
+  {{< design-feature-card 
     icon="globe-alt"
     image="/products/everdisk/screenshots/browser_access.png" 
     title="浏览器访问" 
@@ -139,7 +139,7 @@ Everdisk 是 Everappz 为 iPhone 和 iPad 打造的无线硬盘应用。它把�
     subtitle="分享一个链接，让任何人从任意浏览器浏览、预览和下载你的文件。对方那端无需安装任何东西。" 
   >}}
 
-  {{< feature-card 
+  {{< design-feature-card 
     icon="server"
     image="/products/everdisk/screenshots/connect_to_servers.png"  
     title="连接到服务器" 
@@ -148,7 +148,7 @@ Everdisk 是 Everappz 为 iPhone 和 iPad 打造的无线硬盘应用。它把�
     subtitle="发现并连接到你网络上的 DLNA、WebDAV、FTP、SFTP 和 SMB 服务器，浏览、播放和下载它们的文件。" 
   >}}
 
-  {{< feature-card 
+  {{< design-feature-card 
     icon="folder"
     image="/products/everdisk/screenshots/file_manager.png"  
     title="文件管理器" 
@@ -157,7 +157,7 @@ Everdisk 是 Everappz 为 iPhone 和 iPad 打造的无线硬盘应用。它把�
     subtitle="管理设备上的一切：列表或网格浏览、新建文件夹、重命名、移动、复制、压缩解压和删除。" 
   >}}
 
-  {{< feature-card 
+  {{< design-feature-card 
     icon="play"
     image="/products/everdisk/screenshots/play_in_the_app.png"  
     title="在应用内播放" 
@@ -166,7 +166,7 @@ Everdisk 是 Everappz 为 iPhone 和 iPad 打造的无线硬盘应用。它把�
     subtitle="收听本地曲目或从连接的设备播放，配有迷你播放器队列和全屏视频播放。" 
   >}}
 
-  {{< feature-card 
+  {{< design-feature-card 
     icon="music-note"
     image="/products/everdisk/screenshots/share_your_library.png"  
     title="共享你的媒体库" 
@@ -175,7 +175,7 @@ Everdisk 是 Everappz 为 iPhone 和 iPad 打造的无线硬盘应用。它把�
     subtitle="开启完整的照片和音乐库，每张专辑和每首曲目都能以原始画质通过网络访问。" 
   >}} 
 
-  {{< feature-card 
+  {{< design-feature-card 
     icon="photograph"
     image="/products/everdisk/screenshots/photo_gallery.png"  
     title="照片库" 

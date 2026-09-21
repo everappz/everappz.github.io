@@ -178,7 +178,7 @@ Evervideo
 
 {{< cards cols="4">}}
 
-  {{< feature-card 
+  {{< design-feature-card 
     image="/products/evervideo/screenshots/2880x1800/1.png" 
     title="비디오 플레이어" 
     method="Fill"
@@ -187,7 +187,7 @@ Evervideo
     icon="play"
   >}}
 
-  {{< feature-card 
+  {{< design-feature-card 
     image="/products/evervideo/screenshots/2880x1800/3.png" 
     title="오디오 & 비디오 이퀄라이저" 
     method="Fill"
@@ -196,7 +196,7 @@ Evervideo
     icon="adjustments"
   >}}
 
-  {{< feature-card 
+  {{< design-feature-card 
     image="/products/evervideo/screenshots/2880x1800/6.png" 
     title="재생목록 관리자" 
     method="Fill"
@@ -205,7 +205,7 @@ Evervideo
     icon="collection"
   >}}
 
-  {{< feature-card 
+  {{< design-feature-card 
     image="/products/evervideo/screenshots/2880x1800/5.png" 
     title="미디어 라이브러리" 
     method="Fill"
@@ -214,7 +214,7 @@ Evervideo
     icon="library"
   >}}
 
-  {{< feature-card 
+  {{< design-feature-card 
     image="/products/evervideo/screenshots/2880x1800/7.png"  
     title="클라우드 저장소" 
     method="Fill"
@@ -223,7 +223,7 @@ Evervideo
     icon="cloud"
   >}}
 
-  {{< feature-card 
+  {{< design-feature-card 
     image="/products/evervideo/screenshots/2880x1800/9.png"  
     title="파일 관리자" 
     method="Fill"

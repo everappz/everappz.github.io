@@ -130,7 +130,7 @@ Convierte tu iPhone o iPad en un disco inalámbrico que comparte archivos con <s
 
 {{< cards cols="4">}}
 
-  {{< feature-card 
+  {{< design-feature-card 
     icon="globe-alt"
     image="/products/everdisk/screenshots/browser_access.png" 
     title="Acceso por navegador" 
@@ -139,7 +139,7 @@ Convierte tu iPhone o iPad en un disco inalámbrico que comparte archivos con <s
     subtitle="Comparte un enlace y deja que cualquiera explore, previsualice y descargue tus archivos desde cualquier navegador web. Nada que instalar en el otro lado." 
   >}}
 
-  {{< feature-card 
+  {{< design-feature-card 
     icon="server"
     image="/products/everdisk/screenshots/connect_to_servers.png"  
     title="Conéctate a servidores" 
@@ -148,7 +148,7 @@ Convierte tu iPhone o iPad en un disco inalámbrico que comparte archivos con <s
     subtitle="Descubre y conéctate a servidores DLNA, WebDAV, FTP, SFTP y SMB de tu red para explorar, transmitir y descargar sus archivos." 
   >}}
 
-  {{< feature-card 
+  {{< design-feature-card 
     icon="folder"
     image="/products/everdisk/screenshots/file_manager.png"  
     title="Gestor de archivos" 
@@ -157,7 +157,7 @@ Convierte tu iPhone o iPad en un disco inalámbrico que comparte archivos con <s
     subtitle="Gestiona todo lo que hay en tu dispositivo: explora en lista o cuadrícula, crea carpetas, renombra, mueve, copia, comprime y descomprime, y elimina." 
   >}}
 
-  {{< feature-card 
+  {{< design-feature-card 
     icon="play"
     image="/products/everdisk/screenshots/play_in_the_app.png"  
     title="Reproduce en la app" 
@@ -166,7 +166,7 @@ Convierte tu iPhone o iPad en un disco inalámbrico que comparte archivos con <s
     subtitle="Escucha tus pistas locales o transmite desde dispositivos conectados, con una cola en el miniplayer y reproducción de vídeo a pantalla completa." 
   >}}
 
-  {{< feature-card 
+  {{< design-feature-card 
     icon="music-note"
     image="/products/everdisk/screenshots/share_your_library.png"  
     title="Comparte tu biblioteca" 
@@ -175,7 +175,7 @@ Convierte tu iPhone o iPad en un disco inalámbrico que comparte archivos con <s
     subtitle="Activa toda tu biblioteca de fotos y música y cada álbum y pista queda disponible por la red en calidad original." 
   >}} 
 
-  {{< feature-card 
+  {{< design-feature-card 
     icon="photograph"
     image="/products/everdisk/screenshots/photo_gallery.png"  
     title="Galería de fotos" 

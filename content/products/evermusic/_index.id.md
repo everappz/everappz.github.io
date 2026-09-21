@@ -133,7 +133,7 @@ Evermusic adalah pemutar musik offline gratis untuk iPhone dan Mac yang dikemban
 
 {{< cards cols="4">}}
 
-  {{< feature-card 
+  {{< design-feature-card 
     icon="adjustments"
     image="/products/evermusic/screenshots/2048x2732/3.png" 
     title="Equalizer Audio" 
@@ -142,7 +142,7 @@ Evermusic adalah pemutar musik offline gratis untuk iPhone dan Mac yang dikemban
     subtitle="Sesuaikan suara Anda dengan equalizer audio bergaya iPod, preset yang dapat disesuaikan, dan gain preamp untuk pengalaman mendengarkan terbaik." 
   >}}
 
-  {{< feature-card 
+  {{< design-feature-card 
     icon="annotation"
     image="/products/evermusic/screenshots/2048x2732/4.png"  
     title="Penampil Lirik" 
@@ -151,7 +151,7 @@ Evermusic adalah pemutar musik offline gratis untuk iPhone dan Mac yang dikemban
     subtitle="Baca lirik tertanam dan komentar lagu saat mendengarkan. Nikmati lirik tersinkronisasi untuk pengalaman musik yang lebih mendalam." 
   >}}
 
-  {{< feature-card 
+  {{< design-feature-card 
     icon="collection"
     image="/products/evermusic/screenshots/2048x2732/5.png"  
     title="Manajer Playlist" 
@@ -160,7 +160,7 @@ Evermusic adalah pemutar musik offline gratis untuk iPhone dan Mac yang dikemban
     subtitle="Buat dan atur playlist kustom, urutkan ulang lagu, ekspor ke M3U, atau arsipkan sebagai file ZIP untuk berbagi atau cadangan yang mudah." 
   >}}
 
-  {{< feature-card 
+  {{< design-feature-card 
     icon="cloud"
     image="/products/evermusic/screenshots/2048x2732/6.png"  
     title="Streaming Musik Cloud" 
@@ -169,7 +169,7 @@ Evermusic adalah pemutar musik offline gratis untuk iPhone dan Mac yang dikemban
     subtitle="Hubungkan platform penyimpanan cloud teratas seperti Google Drive, Dropbox, dan OneDrive untuk streaming koleksi musik Anda kapan saja, di mana saja." 
   >}}
 
-  {{< feature-card 
+  {{< design-feature-card 
     icon="duplicate"
     image="/products/evermusic/screenshots/2048x2732/9.png"  
     title="Manajer File" 
@@ -178,7 +178,7 @@ Evermusic adalah pemutar musik offline gratis untuk iPhone dan Mac yang dikemban
     subtitle="Kelola file audio Anda dengan mudah—ganti nama lagu, atur folder, dan transfer musik antar perangkat menggunakan alat bawaan." 
   >}} 
 
-  {{< feature-card 
+  {{< design-feature-card 
     icon="sun"
     image="/products/evermusic/screenshots/2048x2732/10.png"  
     title="Kustomisasi Aplikasi" 

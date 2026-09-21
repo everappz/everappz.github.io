@@ -133,7 +133,7 @@ Evermusic ist ein kostenloser Offline-Musikplayer für iPhone und Mac, entwickel
 
 {{< cards cols="4">}}
 
-  {{< feature-card 
+  {{< design-feature-card 
     icon="adjustments"
     image="/products/evermusic/screenshots/2048x2732/3.png" 
     title="Audio-Equalizer" 
@@ -142,7 +142,7 @@ Evermusic ist ein kostenloser Offline-Musikplayer für iPhone und Mac, entwickel
     subtitle="Optimieren Sie Ihren Sound mit einem iPod-ähnlichen Audio-Equalizer, anpassbaren Voreinstellungen und Vorverstärkerregelung für das beste Hörerlebnis." 
   >}}
 
-  {{< feature-card 
+  {{< design-feature-card 
     icon="annotation"
     image="/products/evermusic/screenshots/2048x2732/4.png"  
     title="Liedtextanzeige" 
@@ -151,7 +151,7 @@ Evermusic ist ein kostenloser Offline-Musikplayer für iPhone und Mac, entwickel
     subtitle="Lesen Sie eingebettete Liedtexte und Titelkommentare beim Hören. Genießen Sie synchronisierte Liedtexte für ein noch intensiveres Musikerlebnis." 
   >}}
 
-  {{< feature-card 
+  {{< design-feature-card 
     icon="collection"
     image="/products/evermusic/screenshots/2048x2732/5.png"  
     title="Playlist-Manager" 
@@ -160,7 +160,7 @@ Evermusic ist ein kostenloser Offline-Musikplayer für iPhone und Mac, entwickel
     subtitle="Erstellen und organisieren Sie benutzerdefinierte Playlists, ordnen Sie Songs um, exportieren Sie nach M3U oder archivieren Sie sie als ZIP-Dateien zum einfachen Teilen oder Sichern." 
   >}}
 
-  {{< feature-card 
+  {{< design-feature-card 
     icon="cloud"
     image="/products/evermusic/screenshots/2048x2732/6.png"  
     title="Cloud-Musik-Streaming" 
@@ -169,7 +169,7 @@ Evermusic ist ein kostenloser Offline-Musikplayer für iPhone und Mac, entwickel
     subtitle="Verbinden Sie Top-Cloud-Speicherplattformen wie Google Drive, Dropbox und OneDrive, um Ihre Musiksammlung jederzeit und überall zu streamen." 
   >}}
 
-  {{< feature-card 
+  {{< design-feature-card 
     icon="duplicate"
     image="/products/evermusic/screenshots/2048x2732/9.png"  
     title="Dateimanager" 
@@ -178,7 +178,7 @@ Evermusic ist ein kostenloser Offline-Musikplayer für iPhone und Mac, entwickel
     subtitle="Verwalten Sie Ihre Audiodateien einfach – benennen Sie Titel um, organisieren Sie Ordner und übertragen Sie Musik zwischen Geräten mit integrierten Werkzeugen." 
   >}} 
 
-  {{< feature-card 
+  {{< design-feature-card 
     icon="sun"
     image="/products/evermusic/screenshots/2048x2732/10.png"  
     title="App-Anpassung" 

@@ -130,7 +130,7 @@ Jadikan iPhone atau iPad anda pemacu tanpa wayar yang berkongsi fail dengan <str
 
 {{< cards cols="4">}}
 
-  {{< feature-card 
+  {{< design-feature-card 
     icon="globe-alt"
     image="/products/everdisk/screenshots/browser_access.png" 
     title="Capaian Pelayar" 
@@ -139,7 +139,7 @@ Jadikan iPhone atau iPad anda pemacu tanpa wayar yang berkongsi fail dengan <str
     subtitle="Kongsi satu pautan dan biarkan sesiapa sahaja melihat, mempratonton dan memuat turun fail anda dari mana-mana pelayar web. Tiada apa-apa untuk dipasang di hujung sana." 
   >}}
 
-  {{< feature-card 
+  {{< design-feature-card 
     icon="server"
     image="/products/everdisk/screenshots/connect_to_servers.png"  
     title="Sambung ke Pelayan" 
@@ -148,7 +148,7 @@ Jadikan iPhone atau iPad anda pemacu tanpa wayar yang berkongsi fail dengan <str
     subtitle="Temui dan sambung ke pelayan DLNA, WebDAV, FTP, SFTP dan SMB pada rangkaian anda untuk melihat, strim dan memuat turun fail mereka." 
   >}}
 
-  {{< feature-card 
+  {{< design-feature-card 
     icon="folder"
     image="/products/everdisk/screenshots/file_manager.png"  
     title="Pengurus Fail" 
@@ -157,7 +157,7 @@ Jadikan iPhone atau iPad anda pemacu tanpa wayar yang berkongsi fail dengan <str
     subtitle="Urus semua yang ada pada peranti anda: lihat dalam senarai atau grid, cipta folder, namakan semula, pindah, salin, zip dan nyahzip, serta padam." 
   >}}
 
-  {{< feature-card 
+  {{< design-feature-card 
     icon="play"
     image="/products/everdisk/screenshots/play_in_the_app.png"  
     title="Mainkan Dalam Aplikasi" 
@@ -166,7 +166,7 @@ Jadikan iPhone atau iPad anda pemacu tanpa wayar yang berkongsi fail dengan <str
     subtitle="Dengar trek tempatan anda atau strim dari peranti yang disambung, dengan baris gilir pemain mini dan main balik video skrin penuh." 
   >}}
 
-  {{< feature-card 
+  {{< design-feature-card 
     icon="music-note"
     image="/products/everdisk/screenshots/share_your_library.png"  
     title="Kongsi Pustaka Anda" 
@@ -175,7 +175,7 @@ Jadikan iPhone atau iPad anda pemacu tanpa wayar yang berkongsi fail dengan <str
     subtitle="Hidupkan seluruh pustaka foto dan muzik anda dan setiap album serta trek tersedia melalui rangkaian dalam kualiti asal." 
   >}} 
 
-  {{< feature-card 
+  {{< design-feature-card 
     icon="photograph"
     image="/products/everdisk/screenshots/photo_gallery.png"  
     title="Galeri Foto" 

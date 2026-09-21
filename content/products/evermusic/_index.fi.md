@@ -133,7 +133,7 @@ Evermusic on ilmainen offline-musiikkisoitin iPhonelle ja Macille, jonka on kehi
 
 {{< cards cols="4">}}
 
-  {{< feature-card 
+  {{< design-feature-card 
     icon="adjustments"
     image="/products/evermusic/screenshots/2048x2732/3.png" 
     title="Äänitaajuuskorjain" 
@@ -142,7 +142,7 @@ Evermusic on ilmainen offline-musiikkisoitin iPhonelle ja Macille, jonka on kehi
     subtitle="Hienosäädä ääntäsi iPod-tyylisellä taajuuskorjaimella, mukautettavilla esiasetuksilla ja esivahvistimen säädöllä parasta kuuntelukokemusta varten." 
   >}}
 
-  {{< feature-card 
+  {{< design-feature-card 
     icon="annotation"
     image="/products/evermusic/screenshots/2048x2732/4.png"  
     title="Sanojen Katselu" 
@@ -151,7 +151,7 @@ Evermusic on ilmainen offline-musiikkisoitin iPhonelle ja Macille, jonka on kehi
     subtitle="Lue upotettuja sanoituksia ja kappaleiden kommentteja kuunnellessasi. Nauti synkronoiduista sanoituksista entistä mukaansatempaavampaa musiikkikokemusta varten." 
   >}}
 
-  {{< feature-card 
+  {{< design-feature-card 
     icon="collection"
     image="/products/evermusic/screenshots/2048x2732/5.png"  
     title="Soittolistojen Hallinta" 
@@ -160,7 +160,7 @@ Evermusic on ilmainen offline-musiikkisoitin iPhonelle ja Macille, jonka on kehi
     subtitle="Luo ja järjestä mukautettuja soittolistoja, järjestä kappaleet uudelleen, vie M3U-muotoon tai arkistoi ZIP-tiedostoina helppoa jakamista tai varmuuskopiointia varten." 
   >}}
 
-  {{< feature-card 
+  {{< design-feature-card 
     icon="cloud"
     image="/products/evermusic/screenshots/2048x2732/6.png"  
     title="Pilvimusiikin Suoratoisto" 
@@ -169,7 +169,7 @@ Evermusic on ilmainen offline-musiikkisoitin iPhonelle ja Macille, jonka on kehi
     subtitle="Yhdistä suositut pilvitallennusalustat kuten Google Drive, Dropbox ja OneDrive suoratoistaaksesi musiikkikokoelmaasi milloin ja missä tahansa." 
   >}}
 
-  {{< feature-card 
+  {{< design-feature-card 
     icon="duplicate"
     image="/products/evermusic/screenshots/2048x2732/9.png"  
     title="Tiedostonhallinta" 
@@ -178,7 +178,7 @@ Evermusic on ilmainen offline-musiikkisoitin iPhonelle ja Macille, jonka on kehi
     subtitle="Hallitse äänitiedostojasi helposti — nimeä kappaleita uudelleen, järjestä kansioita ja siirrä musiikkia laitteiden välillä sisäänrakennetuilla työkaluilla." 
   >}} 
 
-  {{< feature-card 
+  {{< design-feature-card 
     icon="sun"
     image="/products/evermusic/screenshots/2048x2732/10.png"  
     title="Sovelluksen Mukauttaminen" 

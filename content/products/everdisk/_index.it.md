@@ -130,7 +130,7 @@ Trasforma iPhone o iPad in un disco wireless che condivide file con <strong>qual
 
 {{< cards cols="4">}}
 
-  {{< feature-card 
+  {{< design-feature-card 
     icon="globe-alt"
     image="/products/everdisk/screenshots/browser_access.png" 
     title="Accesso dal browser" 
@@ -139,7 +139,7 @@ Trasforma iPhone o iPad in un disco wireless che condivide file con <strong>qual
     subtitle="Condividi un link e lascia che chiunque sfogli, veda l'anteprima e scarichi i tuoi file da qualsiasi browser web. Niente da installare dall'altra parte." 
   >}}
 
-  {{< feature-card 
+  {{< design-feature-card 
     icon="server"
     image="/products/everdisk/screenshots/connect_to_servers.png"  
     title="Connessione ai server" 
@@ -148,7 +148,7 @@ Trasforma iPhone o iPad in un disco wireless che condivide file con <strong>qual
     subtitle="Scopri e connettiti a server DLNA, WebDAV, FTP, SFTP e SMB sulla tua rete per sfogliare, riprodurre in streaming e scaricare i loro file." 
   >}}
 
-  {{< feature-card 
+  {{< design-feature-card 
     icon="folder"
     image="/products/everdisk/screenshots/file_manager.png"  
     title="Gestore file" 
@@ -157,7 +157,7 @@ Trasforma iPhone o iPad in un disco wireless che condivide file con <strong>qual
     subtitle="Gestisci tutto sul tuo dispositivo: sfoglia in elenco o griglia, crea cartelle, rinomina, sposta, copia, comprimi ed estrai, ed elimina." 
   >}}
 
-  {{< feature-card 
+  {{< design-feature-card 
     icon="play"
     image="/products/everdisk/screenshots/play_in_the_app.png"  
     title="Riproduci nell'app" 
@@ -166,7 +166,7 @@ Trasforma iPhone o iPad in un disco wireless che condivide file con <strong>qual
     subtitle="Ascolta i tuoi brani locali o riproduci in streaming dai dispositivi connessi, con la coda del mini lettore e la riproduzione video a schermo intero." 
   >}}
 
-  {{< feature-card 
+  {{< design-feature-card 
     icon="music-note"
     image="/products/everdisk/screenshots/share_your_library.png"  
     title="Condividi la tua libreria" 
@@ -175,7 +175,7 @@ Trasforma iPhone o iPad in un disco wireless che condivide file con <strong>qual
     subtitle="Attiva l'intera libreria di foto e musica e ogni album e brano diventa disponibile in rete in qualità originale." 
   >}} 
 
-  {{< feature-card 
+  {{< design-feature-card 
     icon="photograph"
     image="/products/everdisk/screenshots/photo_gallery.png"  
     title="Galleria foto" 

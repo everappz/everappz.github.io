@@ -133,7 +133,7 @@ Evermusic هو مشغل موسيقى مجاني بدون اتصال بالإنت
 
 {{< cards cols="4">}}
 
-  {{< feature-card 
+  {{< design-feature-card 
     icon="adjustments"
     image="/products/evermusic/screenshots/2048x2732/3.png" 
     title="معادل صوتي" 
@@ -142,7 +142,7 @@ Evermusic هو مشغل موسيقى مجاني بدون اتصال بالإنت
     subtitle="اضبط صوتك بدقة مع معادل صوتي على طراز iPod وإعدادات مسبقة قابلة للتخصيص ومكبر مسبق للحصول على أفضل تجربة استماع." 
   >}}
 
-  {{< feature-card 
+  {{< design-feature-card 
     icon="annotation"
     image="/products/evermusic/screenshots/2048x2732/4.png"  
     title="عارض كلمات الأغاني" 
@@ -151,7 +151,7 @@ Evermusic هو مشغل موسيقى مجاني بدون اتصال بالإنت
     subtitle="اقرأ كلمات الأغاني المضمنة وتعليقات المسارات أثناء الاستماع. استمتع بكلمات الأغاني المتزامنة لتجربة موسيقية أكثر غمراً." 
   >}}
 
-  {{< feature-card 
+  {{< design-feature-card 
     icon="collection"
     image="/products/evermusic/screenshots/2048x2732/5.png"  
     title="مدير قوائم التشغيل" 
@@ -160,7 +160,7 @@ Evermusic هو مشغل موسيقى مجاني بدون اتصال بالإنت
     subtitle="أنشئ ونظّم قوائم تشغيل مخصصة، وأعد ترتيب الأغاني، وصدّر إلى M3U، أو أرشفها كملفات ZIP للمشاركة أو النسخ الاحتياطي بسهولة." 
   >}}
 
-  {{< feature-card 
+  {{< design-feature-card 
     icon="cloud"
     image="/products/evermusic/screenshots/2048x2732/6.png"  
     title="بث الموسيقى السحابي" 
@@ -169,7 +169,7 @@ Evermusic هو مشغل موسيقى مجاني بدون اتصال بالإنت
     subtitle="اربط أفضل منصات التخزين السحابي مثل Google Drive وDropbox وOneDrive لبث مجموعتك الموسيقية في أي وقت وأي مكان." 
   >}}
 
-  {{< feature-card 
+  {{< design-feature-card 
     icon="duplicate"
     image="/products/evermusic/screenshots/2048x2732/9.png"  
     title="مدير الملفات" 
@@ -178,7 +178,7 @@ Evermusic هو مشغل موسيقى مجاني بدون اتصال بالإنت
     subtitle="أدر ملفاتك الصوتية بسهولة — أعد تسمية المسارات، ونظّم المجلدات، وانقل الموسيقى بين الأجهزة باستخدام الأدوات المدمجة." 
   >}} 
 
-  {{< feature-card 
+  {{< design-feature-card 
     icon="sun"
     image="/products/evermusic/screenshots/2048x2732/10.png"  
     title="تخصيص التطبيق" 

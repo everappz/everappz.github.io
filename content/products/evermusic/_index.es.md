@@ -133,7 +133,7 @@ Evermusic es un reproductor de música sin conexión gratuito para iPhone y Mac 
 
 {{< cards cols="4">}}
 
-  {{< feature-card 
+  {{< design-feature-card 
     icon="adjustments"
     image="/products/evermusic/screenshots/2048x2732/3.png" 
     title="Ecualizador de Audio" 
@@ -142,7 +142,7 @@ Evermusic es un reproductor de música sin conexión gratuito para iPhone y Mac 
     subtitle="Ajusta tu sonido con un ecualizador de audio estilo iPod, preajustes personalizables y ganancia de preamplificador para la mejor experiencia de escucha." 
   >}}
 
-  {{< feature-card 
+  {{< design-feature-card 
     icon="annotation"
     image="/products/evermusic/screenshots/2048x2732/4.png"  
     title="Visor de Letras" 
@@ -151,7 +151,7 @@ Evermusic es un reproductor de música sin conexión gratuito para iPhone y Mac 
     subtitle="Lee letras integradas y comentarios de pistas mientras escuchas. Disfruta de letras sincronizadas para una experiencia musical más inmersiva." 
   >}}
 
-  {{< feature-card 
+  {{< design-feature-card 
     icon="collection"
     image="/products/evermusic/screenshots/2048x2732/5.png"  
     title="Gestor de Listas de Reproducción" 
@@ -160,7 +160,7 @@ Evermusic es un reproductor de música sin conexión gratuito para iPhone y Mac 
     subtitle="Crea y organiza listas de reproducción personalizadas, reordena canciones, exporta a M3U o archívalas como archivos ZIP para compartir o respaldar fácilmente." 
   >}}
 
-  {{< feature-card 
+  {{< design-feature-card 
     icon="cloud"
     image="/products/evermusic/screenshots/2048x2732/6.png"  
     title="Transmisión de Música en la Nube" 
@@ -169,7 +169,7 @@ Evermusic es un reproductor de música sin conexión gratuito para iPhone y Mac 
     subtitle="Vincula las principales plataformas de almacenamiento en la nube como Google Drive, Dropbox y OneDrive para transmitir tu colección musical en cualquier momento y lugar." 
   >}}
 
-  {{< feature-card 
+  {{< design-feature-card 
     icon="duplicate"
     image="/products/evermusic/screenshots/2048x2732/9.png"  
     title="Gestor de Archivos" 
@@ -178,7 +178,7 @@ Evermusic es un reproductor de música sin conexión gratuito para iPhone y Mac 
     subtitle="Gestiona fácilmente tus archivos de audio: renombra pistas, organiza carpetas y transfiere música entre dispositivos usando herramientas integradas." 
   >}} 
 
-  {{< feature-card 
+  {{< design-feature-card 
     icon="sun"
     image="/products/evermusic/screenshots/2048x2732/10.png"  
     title="Personalización de la App" 

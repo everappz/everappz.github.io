@@ -130,7 +130,7 @@ Everdisk - це додаток-бездротовий диск для iPhone т�
 
 {{< cards cols="4">}}
 
-  {{< feature-card 
+  {{< design-feature-card 
     icon="globe-alt"
     image="/products/everdisk/screenshots/browser_access.png" 
     title="Доступ через браузер" 
@@ -139,7 +139,7 @@ Everdisk - це додаток-бездротовий диск для iPhone т�
     subtitle="Поділіться посиланням і дозвольте будь-кому переглядати, оцінювати та завантажувати ваші файли з будь-якого браузера. Нічого встановлювати не треба." 
   >}}
 
-  {{< feature-card 
+  {{< design-feature-card 
     icon="server"
     image="/products/everdisk/screenshots/connect_to_servers.png"  
     title="Підключення до серверів" 
@@ -148,7 +148,7 @@ Everdisk - це додаток-бездротовий диск для iPhone т�
     subtitle="Знаходьте та підключайтеся до серверів DLNA, WebDAV, FTP, SFTP і SMB у вашій мережі, щоб переглядати, транслювати та завантажувати їхні файли." 
   >}}
 
-  {{< feature-card 
+  {{< design-feature-card 
     icon="folder"
     image="/products/everdisk/screenshots/file_manager.png"  
     title="Файловий менеджер" 
@@ -157,7 +157,7 @@ Everdisk - це додаток-бездротовий диск для iPhone т�
     subtitle="Керуйте всім на вашому пристрої: переглядайте у вигляді списку чи сітки, створюйте папки, перейменовуйте, переміщуйте, копіюйте, архівуйте та розпаковуйте, а також видаляйте." 
   >}}
 
-  {{< feature-card 
+  {{< design-feature-card 
     icon="play"
     image="/products/everdisk/screenshots/play_in_the_app.png"  
     title="Відтворення в додатку" 
@@ -166,7 +166,7 @@ Everdisk - це додаток-бездротовий диск для iPhone т�
     subtitle="Слухайте локальні треки або транслюйте з підключених пристроїв, з чергою мініплеєра та повноекранним відтворенням відео." 
   >}}
 
-  {{< feature-card 
+  {{< design-feature-card 
     icon="music-note"
     image="/products/everdisk/screenshots/share_your_library.png"  
     title="Поділіться бібліотекою" 
@@ -175,7 +175,7 @@ Everdisk - це додаток-бездротовий диск для iPhone т�
     subtitle="Увімкніть усю свою бібліотеку фото й музики - і кожен альбом та трек стають доступними через мережу в оригінальній якості." 
   >}} 
 
-  {{< feature-card 
+  {{< design-feature-card 
     icon="photograph"
     image="/products/everdisk/screenshots/photo_gallery.png"  
     title="Галерея фото" 

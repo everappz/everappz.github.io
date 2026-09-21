@@ -130,7 +130,7 @@ Verwandle dein iPhone oder iPad in ein drahtloses Laufwerk, das Dateien mit <str
 
 {{< cards cols="4">}}
 
-  {{< feature-card 
+  {{< design-feature-card 
     icon="globe-alt"
     image="/products/everdisk/screenshots/browser_access.png" 
     title="Browser-Zugriff" 
@@ -139,7 +139,7 @@ Verwandle dein iPhone oder iPad in ein drahtloses Laufwerk, das Dateien mit <str
     subtitle="Teile einen Link und lass jeden deine Dateien in jedem Webbrowser durchsuchen, ansehen und herunterladen. Nichts auf der anderen Seite zu installieren." 
   >}}
 
-  {{< feature-card 
+  {{< design-feature-card 
     icon="server"
     image="/products/everdisk/screenshots/connect_to_servers.png"  
     title="Mit Servern verbinden" 
@@ -148,7 +148,7 @@ Verwandle dein iPhone oder iPad in ein drahtloses Laufwerk, das Dateien mit <str
     subtitle="Entdecke DLNA-, WebDAV-, FTP-, SFTP- und SMB-Server in deinem Netzwerk und verbinde dich, um ihre Dateien zu durchsuchen, zu streamen und herunterzuladen." 
   >}}
 
-  {{< feature-card 
+  {{< design-feature-card 
     icon="folder"
     image="/products/everdisk/screenshots/file_manager.png"  
     title="Dateimanager" 
@@ -157,7 +157,7 @@ Verwandle dein iPhone oder iPad in ein drahtloses Laufwerk, das Dateien mit <str
     subtitle="Verwalte alles auf deinem Gerat: durchsuche in Listen- oder Rasteransicht, erstelle Ordner, benenne um, verschiebe, kopiere, zippe und entpacke sowie losche." 
   >}}
 
-  {{< feature-card 
+  {{< design-feature-card 
     icon="play"
     image="/products/everdisk/screenshots/play_in_the_app.png"  
     title="In der App abspielen" 
@@ -166,7 +166,7 @@ Verwandle dein iPhone oder iPad in ein drahtloses Laufwerk, das Dateien mit <str
     subtitle="Hore deine lokalen Titel oder streame von verbundenen Geraten, mit einer Mini-Player-Warteschlange und Videowiedergabe im Vollbild." 
   >}}
 
-  {{< feature-card 
+  {{< design-feature-card 
     icon="music-note"
     image="/products/everdisk/screenshots/share_your_library.png"  
     title="Deine Bibliothek teilen" 
@@ -175,7 +175,7 @@ Verwandle dein iPhone oder iPad in ein drahtloses Laufwerk, das Dateien mit <str
     subtitle="Schalte deine komplette Foto- und Musikbibliothek frei und jedes Album und jeder Titel wird uber das Netzwerk in Originalqualitat verfugbar." 
   >}} 
 
-  {{< feature-card 
+  {{< design-feature-card 
     icon="photograph"
     image="/products/everdisk/screenshots/photo_gallery.png"  
     title="Fotogalerie" 

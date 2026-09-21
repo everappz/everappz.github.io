@@ -133,7 +133,7 @@ Evermusic is een gratis offline muziekspeler voor iPhone en Mac, ontwikkeld door
 
 {{< cards cols="4">}}
 
-  {{< feature-card 
+  {{< design-feature-card 
     icon="adjustments"
     image="/products/evermusic/screenshots/2048x2732/3.png" 
     title="Audio-equalizer" 
@@ -142,7 +142,7 @@ Evermusic is een gratis offline muziekspeler voor iPhone en Mac, ontwikkeld door
     subtitle="Stem je geluid af met een iPod-stijl audio-equalizer, aanpasbare presets en preamp-versterking voor de beste luisterervaring." 
   >}}
 
-  {{< feature-card 
+  {{< design-feature-card 
     icon="annotation"
     image="/products/evermusic/screenshots/2048x2732/4.png"  
     title="Songtekst weergave" 
@@ -151,7 +151,7 @@ Evermusic is een gratis offline muziekspeler voor iPhone en Mac, ontwikkeld door
     subtitle="Lees ingebedde songteksten en trackopmerkingen tijdens het luisteren. Geniet van gesynchroniseerde songteksten voor een meeslependere muziekervaring." 
   >}}
 
-  {{< feature-card 
+  {{< design-feature-card 
     icon="collection"
     image="/products/evermusic/screenshots/2048x2732/5.png"  
     title="Afspeellijstbeheer" 
@@ -160,7 +160,7 @@ Evermusic is een gratis offline muziekspeler voor iPhone en Mac, ontwikkeld door
     subtitle="Maak en organiseer aangepaste afspeellijsten, herorden nummers, exporteer naar M3U of archiveer ze als ZIP-bestanden voor eenvoudig delen of back-up." 
   >}}
 
-  {{< feature-card 
+  {{< design-feature-card 
     icon="cloud"
     image="/products/evermusic/screenshots/2048x2732/6.png"  
     title="Cloud muziek streaming" 
@@ -169,7 +169,7 @@ Evermusic is een gratis offline muziekspeler voor iPhone en Mac, ontwikkeld door
     subtitle="Koppel topcloudopslagplatforms zoals Google Drive, Dropbox en OneDrive om je muziekcollectie altijd en overal te streamen." 
   >}}
 
-  {{< feature-card 
+  {{< design-feature-card 
     icon="duplicate"
     image="/products/evermusic/screenshots/2048x2732/9.png"  
     title="Bestandsbeheer" 
@@ -178,7 +178,7 @@ Evermusic is een gratis offline muziekspeler voor iPhone en Mac, ontwikkeld door
     subtitle="Beheer je audiobestanden eenvoudig—hernoem nummers, organiseer mappen en zet muziek over tussen apparaten met ingebouwde hulpmiddelen." 
   >}} 
 
-  {{< feature-card 
+  {{< design-feature-card 
     icon="sun"
     image="/products/evermusic/screenshots/2048x2732/10.png"  
     title="App aanpassen" 

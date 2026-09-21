@@ -134,7 +134,7 @@ Evermusic is a free offline music player for iPhone and Mac developed by Everapp
 
 {{< cards cols="4">}}
 
-  {{< feature-card 
+  {{< design-feature-card 
     icon="adjustments"
     image="/products/evermusic/screenshots/2048x2732/3.png" 
     title="Audio Equalizer" 
@@ -143,7 +143,7 @@ Evermusic is a free offline music player for iPhone and Mac developed by Everapp
     subtitle="Fine-tune your sound with an iPod-style audio equalizer, customizable presets, and preamp gain for the best listening experience." 
   >}}
 
-  {{< feature-card 
+  {{< design-feature-card 
     icon="annotation"
     image="/products/evermusic/screenshots/2048x2732/4.png"  
     title="Lyrics Viewer" 
@@ -152,7 +152,7 @@ Evermusic is a free offline music player for iPhone and Mac developed by Everapp
     subtitle="Read embedded lyrics and track comments while listening. Enjoy synchronized lyrics for a more immersive music experience." 
   >}}
 
-  {{< feature-card 
+  {{< design-feature-card 
     icon="collection"
     image="/products/evermusic/screenshots/2048x2732/5.png"  
     title="Playlist Manager" 
@@ -161,7 +161,7 @@ Evermusic is a free offline music player for iPhone and Mac developed by Everapp
     subtitle="Create and organize custom playlists, reorder songs, export to M3U, or archive them as ZIP files for easy sharing or backup." 
   >}}
 
-  {{< feature-card 
+  {{< design-feature-card 
     icon="cloud"
     image="/products/evermusic/screenshots/2048x2732/6.png"  
     title="Cloud Music Streaming" 
@@ -170,7 +170,7 @@ Evermusic is a free offline music player for iPhone and Mac developed by Everapp
     subtitle="Link top cloud storage platforms like Google Drive, Dropbox, and OneDrive to stream your music collection anytime, anywhere." 
   >}}
 
-  {{< feature-card 
+  {{< design-feature-card 
     icon="duplicate"
     image="/products/evermusic/screenshots/2048x2732/9.png"  
     title="File Manager" 
@@ -179,7 +179,7 @@ Evermusic is a free offline music player for iPhone and Mac developed by Everapp
     subtitle="Easily manage your audio files—rename tracks, organize folders, and transfer music between devices using built-in tools." 
   >}} 
 
-  {{< feature-card 
+  {{< design-feature-card 
     icon="sun"
     image="/products/evermusic/screenshots/2048x2732/10.png"  
     title="App Customization" 

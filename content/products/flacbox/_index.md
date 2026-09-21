@@ -165,7 +165,7 @@ Intuitive Design
 
 {{< cards cols="4">}}
 
-  {{< feature-card 
+  {{< design-feature-card 
     image="/products/flacbox/screenshots/2048x2732/1.png" 
     title="Audio Player" 
     method="Fill"
@@ -174,7 +174,7 @@ Intuitive Design
     icon="play"
   >}}
 
-  {{< feature-card 
+  {{< design-feature-card 
     image="/products/flacbox/screenshots/2048x2732/2.png"  
     title="Audio Equalizer" 
     method="Fill"
@@ -183,7 +183,7 @@ Intuitive Design
     icon="adjustments"
   >}}
 
-  {{< feature-card 
+  {{< design-feature-card 
     image="/products/flacbox/screenshots/2048x2732/3.png"  
     title="Playlists Manager" 
     method="Fill"
@@ -192,7 +192,7 @@ Intuitive Design
     icon="collection"
   >}}
 
-  {{< feature-card 
+  {{< design-feature-card 
     image="/products/flacbox/screenshots/2048x2732/5.png"  
     title="Media Library" 
     method="Fill"
@@ -201,7 +201,7 @@ Intuitive Design
     icon="library"
   >}}
 
-  {{< feature-card 
+  {{< design-feature-card 
     image="/products/flacbox/screenshots/2048x2732/7.png"  
     title="Cloud Storage" 
     method="Fill"
@@ -210,7 +210,7 @@ Intuitive Design
     icon="cloud"
   >}}
 
-  {{< feature-card 
+  {{< design-feature-card 
     image="/products/flacbox/screenshots/2048x2732/8.png"  
     title="iCloud Drive" 
     method="Fill"

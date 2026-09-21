@@ -178,7 +178,7 @@ Design intuitivo
 
 {{< cards cols="4">}}
 
-  {{< feature-card 
+  {{< design-feature-card 
     image="/products/evervideo/screenshots/2880x1800/1.png" 
     title="Lettore video" 
     method="Fill"
@@ -187,7 +187,7 @@ Design intuitivo
     icon="play"
   >}}
 
-  {{< feature-card 
+  {{< design-feature-card 
     image="/products/evervideo/screenshots/2880x1800/3.png" 
     title="Equalizzatore audio e video" 
     method="Fill"
@@ -196,7 +196,7 @@ Design intuitivo
     icon="adjustments"
   >}}
 
-  {{< feature-card 
+  {{< design-feature-card 
     image="/products/evervideo/screenshots/2880x1800/6.png" 
     title="Gestore playlist" 
     method="Fill"
@@ -205,7 +205,7 @@ Design intuitivo
     icon="collection"
   >}}
 
-  {{< feature-card 
+  {{< design-feature-card 
     image="/products/evervideo/screenshots/2880x1800/5.png" 
     title="Libreria multimediale" 
     method="Fill"
@@ -214,7 +214,7 @@ Design intuitivo
     icon="library"
   >}}
 
-  {{< feature-card 
+  {{< design-feature-card 
     image="/products/evervideo/screenshots/2880x1800/7.png"  
     title="Cloud storage" 
     method="Fill"
@@ -223,7 +223,7 @@ Design intuitivo
     icon="cloud"
   >}}
 
-  {{< feature-card 
+  {{< design-feature-card 
     image="/products/evervideo/screenshots/2880x1800/9.png"  
     title="Gestore file" 
     method="Fill"

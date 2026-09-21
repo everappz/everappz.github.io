@@ -164,7 +164,7 @@ Desain Intuitif
 
 {{< cards cols="4">}}
 
-  {{< feature-card 
+  {{< design-feature-card 
     image="/products/flacbox/screenshots/2048x2732/1.png" 
     title="Pemutar Audio" 
     method="Fill"
@@ -173,7 +173,7 @@ Desain Intuitif
     icon="play"
   >}}
 
-  {{< feature-card 
+  {{< design-feature-card 
     image="/products/flacbox/screenshots/2048x2732/2.png"  
     title="Equalizer Audio" 
     method="Fill"
@@ -182,7 +182,7 @@ Desain Intuitif
     icon="adjustments"
   >}}
 
-  {{< feature-card 
+  {{< design-feature-card 
     image="/products/flacbox/screenshots/2048x2732/3.png"  
     title="Pengelola Playlist" 
     method="Fill"
@@ -191,7 +191,7 @@ Desain Intuitif
     icon="collection"
   >}}
 
-  {{< feature-card 
+  {{< design-feature-card 
     image="/products/flacbox/screenshots/2048x2732/5.png"  
     title="Pustaka Media" 
     method="Fill"
@@ -200,7 +200,7 @@ Desain Intuitif
     icon="library"
   >}}
 
-  {{< feature-card 
+  {{< design-feature-card 
     image="/products/flacbox/screenshots/2048x2732/7.png"  
     title="Penyimpanan Cloud" 
     method="Fill"
@@ -209,7 +209,7 @@ Desain Intuitif
     icon="cloud"
   >}}
 
-  {{< feature-card 
+  {{< design-feature-card 
     image="/products/flacbox/screenshots/2048x2732/8.png"  
     title="iCloud Drive" 
     method="Fill"

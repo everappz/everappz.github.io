@@ -178,7 +178,7 @@ Intuitívny dizajn
 
 {{< cards cols="4">}}
 
-  {{< feature-card 
+  {{< design-feature-card 
     image="/products/evervideo/screenshots/2880x1800/1.png" 
     title="Video prehrávač" 
     method="Fill"
@@ -187,7 +187,7 @@ Intuitívny dizajn
     icon="play"
   >}}
 
-  {{< feature-card 
+  {{< design-feature-card 
     image="/products/evervideo/screenshots/2880x1800/3.png" 
     title="Audio a video ekvalizér" 
     method="Fill"
@@ -196,7 +196,7 @@ Intuitívny dizajn
     icon="adjustments"
   >}}
 
-  {{< feature-card 
+  {{< design-feature-card 
     image="/products/evervideo/screenshots/2880x1800/6.png" 
     title="Správca playlistov" 
     method="Fill"
@@ -205,7 +205,7 @@ Intuitívny dizajn
     icon="collection"
   >}}
 
-  {{< feature-card 
+  {{< design-feature-card 
     image="/products/evervideo/screenshots/2880x1800/5.png" 
     title="Knižnica médií" 
     method="Fill"
@@ -214,7 +214,7 @@ Intuitívny dizajn
     icon="library"
   >}}
 
-  {{< feature-card 
+  {{< design-feature-card 
     image="/products/evervideo/screenshots/2880x1800/7.png"  
     title="Cloudové úložisko" 
     method="Fill"
@@ -223,7 +223,7 @@ Intuitívny dizajn
     icon="cloud"
   >}}
 
-  {{< feature-card 
+  {{< design-feature-card 
     image="/products/evervideo/screenshots/2880x1800/9.png"  
     title="Správca súborov" 
     method="Fill"

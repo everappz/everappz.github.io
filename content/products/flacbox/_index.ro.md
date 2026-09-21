@@ -164,7 +164,7 @@ Design Intuitiv
 
 {{< cards cols="4">}}
 
-  {{< feature-card 
+  {{< design-feature-card 
     image="/products/flacbox/screenshots/2048x2732/1.png" 
     title="Player Audio" 
     method="Fill"
@@ -173,7 +173,7 @@ Design Intuitiv
     icon="play"
   >}}
 
-  {{< feature-card 
+  {{< design-feature-card 
     image="/products/flacbox/screenshots/2048x2732/2.png"  
     title="Egalizator Audio" 
     method="Fill"
@@ -182,7 +182,7 @@ Design Intuitiv
     icon="adjustments"
   >}}
 
-  {{< feature-card 
+  {{< design-feature-card 
     image="/products/flacbox/screenshots/2048x2732/3.png"  
     title="Manager Playlisturi" 
     method="Fill"
@@ -191,7 +191,7 @@ Design Intuitiv
     icon="collection"
   >}}
 
-  {{< feature-card 
+  {{< design-feature-card 
     image="/products/flacbox/screenshots/2048x2732/5.png"  
     title="Bibliotecă Media" 
     method="Fill"
@@ -200,7 +200,7 @@ Design Intuitiv
     icon="library"
   >}}
 
-  {{< feature-card 
+  {{< design-feature-card 
     image="/products/flacbox/screenshots/2048x2732/7.png"  
     title="Stocare Cloud" 
     method="Fill"
@@ -209,7 +209,7 @@ Design Intuitiv
     icon="cloud"
   >}}
 
-  {{< feature-card 
+  {{< design-feature-card 
     image="/products/flacbox/screenshots/2048x2732/8.png"  
     title="iCloud Drive" 
     method="Fill"

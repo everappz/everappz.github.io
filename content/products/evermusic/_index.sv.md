@@ -133,7 +133,7 @@ Evermusic är en gratis offline-musikspelare för iPhone och Mac, utvecklad av E
 
 {{< cards cols="4">}}
 
-  {{< feature-card 
+  {{< design-feature-card 
     icon="adjustments"
     image="/products/evermusic/screenshots/2048x2732/3.png" 
     title="Ljudequalizer" 
@@ -142,7 +142,7 @@ Evermusic är en gratis offline-musikspelare för iPhone och Mac, utvecklad av E
     subtitle="Finjustera ditt ljud med en iPod-liknande ljudequalizer, anpassningsbara förinställningar och förförstärkarförstärkning för bästa lyssningsupplevelse." 
   >}}
 
-  {{< feature-card 
+  {{< design-feature-card 
     icon="annotation"
     image="/products/evermusic/screenshots/2048x2732/4.png"  
     title="Texttittare" 
@@ -151,7 +151,7 @@ Evermusic är en gratis offline-musikspelare för iPhone och Mac, utvecklad av E
     subtitle="Läs inbäddade låttexter och spårkommentarer medan du lyssnar. Njut av synkroniserade texter för en mer engagerande musikupplevelse." 
   >}}
 
-  {{< feature-card 
+  {{< design-feature-card 
     icon="collection"
     image="/products/evermusic/screenshots/2048x2732/5.png"  
     title="Spellisthanterare" 
@@ -160,7 +160,7 @@ Evermusic är en gratis offline-musikspelare för iPhone och Mac, utvecklad av E
     subtitle="Skapa och organisera anpassade spellistor, ändra ordning på låtar, exportera till M3U eller arkivera som ZIP-filer för enkel delning eller säkerhetskopiering." 
   >}}
 
-  {{< feature-card 
+  {{< design-feature-card 
     icon="cloud"
     image="/products/evermusic/screenshots/2048x2732/6.png"  
     title="Molnmusikströmning" 
@@ -169,7 +169,7 @@ Evermusic är en gratis offline-musikspelare för iPhone och Mac, utvecklad av E
     subtitle="Anslut populära molnlagringsplattformar som Google Drive, Dropbox och OneDrive för att strömma din musiksamling när som helst, var som helst." 
   >}}
 
-  {{< feature-card 
+  {{< design-feature-card 
     icon="duplicate"
     image="/products/evermusic/screenshots/2048x2732/9.png"  
     title="Filhanterare" 
@@ -178,7 +178,7 @@ Evermusic är en gratis offline-musikspelare för iPhone och Mac, utvecklad av E
     subtitle="Hantera enkelt dina ljudfiler — byt namn på spår, organisera mappar och överför musik mellan enheter med inbyggda verktyg." 
   >}} 
 
-  {{< feature-card 
+  {{< design-feature-card 
     icon="sun"
     image="/products/evermusic/screenshots/2048x2732/10.png"  
     title="Appanpassning" 

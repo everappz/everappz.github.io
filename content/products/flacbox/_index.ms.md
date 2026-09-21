@@ -164,7 +164,7 @@ Reka Bentuk Intuitif
 
 {{< cards cols="4">}}
 
-  {{< feature-card 
+  {{< design-feature-card 
     image="/products/flacbox/screenshots/2048x2732/1.png" 
     title="Pemain Audio" 
     method="Fill"
@@ -173,7 +173,7 @@ Reka Bentuk Intuitif
     icon="play"
   >}}
 
-  {{< feature-card 
+  {{< design-feature-card 
     image="/products/flacbox/screenshots/2048x2732/2.png"  
     title="Penyama Audio" 
     method="Fill"
@@ -182,7 +182,7 @@ Reka Bentuk Intuitif
     icon="adjustments"
   >}}
 
-  {{< feature-card 
+  {{< design-feature-card 
     image="/products/flacbox/screenshots/2048x2732/3.png"  
     title="Pengurus Senarai Main" 
     method="Fill"
@@ -191,7 +191,7 @@ Reka Bentuk Intuitif
     icon="collection"
   >}}
 
-  {{< feature-card 
+  {{< design-feature-card 
     image="/products/flacbox/screenshots/2048x2732/5.png"  
     title="Perpustakaan Media" 
     method="Fill"
@@ -200,7 +200,7 @@ Reka Bentuk Intuitif
     icon="library"
   >}}
 
-  {{< feature-card 
+  {{< design-feature-card 
     image="/products/flacbox/screenshots/2048x2732/7.png"  
     title="Storan Awan" 
     method="Fill"
@@ -209,7 +209,7 @@ Reka Bentuk Intuitif
     icon="cloud"
   >}}
 
-  {{< feature-card 
+  {{< design-feature-card 
     image="/products/flacbox/screenshots/2048x2732/8.png"  
     title="iCloud Drive" 
     method="Fill"

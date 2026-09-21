@@ -130,7 +130,7 @@ Transformez votre iPhone ou iPad en disque sans fil qui partage vos fichiers ave
 
 {{< cards cols="4">}}
 
-  {{< feature-card 
+  {{< design-feature-card 
     icon="globe-alt"
     image="/products/everdisk/screenshots/browser_access.png" 
     title="Accès par navigateur" 
@@ -139,7 +139,7 @@ Transformez votre iPhone ou iPad en disque sans fil qui partage vos fichiers ave
     subtitle="Partagez un lien et laissez quiconque parcourir, prévisualiser et télécharger vos fichiers depuis n'importe quel navigateur web. Rien à installer de l'autre côté." 
   >}}
 
-  {{< feature-card 
+  {{< design-feature-card 
     icon="server"
     image="/products/everdisk/screenshots/connect_to_servers.png"  
     title="Connexion aux serveurs" 
@@ -148,7 +148,7 @@ Transformez votre iPhone ou iPad en disque sans fil qui partage vos fichiers ave
     subtitle="Découvrez et connectez-vous aux serveurs DLNA, WebDAV, FTP, SFTP et SMB de votre réseau pour parcourir, diffuser et télécharger leurs fichiers." 
   >}}
 
-  {{< feature-card 
+  {{< design-feature-card 
     icon="folder"
     image="/products/everdisk/screenshots/file_manager.png"  
     title="Gestionnaire de fichiers" 
@@ -157,7 +157,7 @@ Transformez votre iPhone ou iPad en disque sans fil qui partage vos fichiers ave
     subtitle="Gérez tout sur votre appareil : parcourez en liste ou en grille, créez des dossiers, renommez, déplacez, copiez, compressez et décompressez, et supprimez." 
   >}}
 
-  {{< feature-card 
+  {{< design-feature-card 
     icon="play"
     image="/products/everdisk/screenshots/play_in_the_app.png"  
     title="Lecture dans l'app" 
@@ -166,7 +166,7 @@ Transformez votre iPhone ou iPad en disque sans fil qui partage vos fichiers ave
     subtitle="Écoutez vos morceaux locaux ou diffusez depuis les appareils connectés, avec une file d'attente en mini-lecteur et une lecture vidéo en plein écran." 
   >}}
 
-  {{< feature-card 
+  {{< design-feature-card 
     icon="music-note"
     image="/products/everdisk/screenshots/share_your_library.png"  
     title="Partagez votre bibliothèque" 
@@ -175,7 +175,7 @@ Transformez votre iPhone ou iPad en disque sans fil qui partage vos fichiers ave
     subtitle="Activez toute votre photothèque et musicothèque et chaque album et morceau devient disponible sur le réseau en qualité originale." 
   >}} 
 
-  {{< feature-card 
+  {{< design-feature-card 
     icon="photograph"
     image="/products/everdisk/screenshots/photo_gallery.png"  
     title="Galerie photo" 

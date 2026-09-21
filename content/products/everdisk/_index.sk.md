@@ -130,7 +130,7 @@ Premeňte svoj iPhone alebo iPad na bezdrôtový disk ktorý zdieľa súbory s <
 
 {{< cards cols="4">}}
 
-  {{< feature-card 
+  {{< design-feature-card 
     icon="globe-alt"
     image="/products/everdisk/screenshots/browser_access.png" 
     title="Prístup cez prehliadač" 
@@ -139,7 +139,7 @@ Premeňte svoj iPhone alebo iPad na bezdrôtový disk ktorý zdieľa súbory s <
     subtitle="Zdieľajte odkaz a nechajte kohokoľvek prezerať, prehliadať a sťahovať vaše súbory z akéhokoľvek webového prehliadača. Na druhej strane netreba nič inštalovať." 
   >}}
 
-  {{< feature-card 
+  {{< design-feature-card 
     icon="server"
     image="/products/everdisk/screenshots/connect_to_servers.png"  
     title="Pripojenie k serverom" 
@@ -148,7 +148,7 @@ Premeňte svoj iPhone alebo iPad na bezdrôtový disk ktorý zdieľa súbory s <
     subtitle="Objavte a pripojte sa k serverom DLNA, WebDAV, FTP, SFTP a SMB vo vašej sieti a prezerajte, streamujte a sťahujte ich súbory." 
   >}}
 
-  {{< feature-card 
+  {{< design-feature-card 
     icon="folder"
     image="/products/everdisk/screenshots/file_manager.png"  
     title="Správca súborov" 
@@ -157,7 +157,7 @@ Premeňte svoj iPhone alebo iPad na bezdrôtový disk ktorý zdieľa súbory s <
     subtitle="Spravujte všetko vo svojom zariadení: prezerajte v zozname alebo mriežke, vytvárajte priečinky, premenúvajte, presúvajte, kopírujte, baľte a rozbaľte aj mažte." 
   >}}
 
-  {{< feature-card 
+  {{< design-feature-card 
     icon="play"
     image="/products/everdisk/screenshots/play_in_the_app.png"  
     title="Prehrávanie v aplikácii" 
@@ -166,7 +166,7 @@ Premeňte svoj iPhone alebo iPad na bezdrôtový disk ktorý zdieľa súbory s <
     subtitle="Počúvajte svoje lokálne skladby alebo streamujte z pripojených zariadení, s frontou mini prehrávača a celoobrazovkovým prehrávaním videa." 
   >}}
 
-  {{< feature-card 
+  {{< design-feature-card 
     icon="music-note"
     image="/products/everdisk/screenshots/share_your_library.png"  
     title="Zdieľajte svoju knižnicu" 
@@ -175,7 +175,7 @@ Premeňte svoj iPhone alebo iPad na bezdrôtový disk ktorý zdieľa súbory s <
     subtitle="Zapnite celú knižnicu fotiek a hudby a každé album aj skladba budú dostupné po sieti v originálnej kvalite." 
   >}} 
 
-  {{< feature-card 
+  {{< design-feature-card 
     icon="photograph"
     image="/products/everdisk/screenshots/photo_gallery.png"  
     title="Fotogaléria" 

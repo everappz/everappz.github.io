@@ -133,7 +133,7 @@ Evermusic, İspanyol yazılım şirketi Everappz tarafından geliştirilen iPhon
 
 {{< cards cols="4">}}
 
-  {{< feature-card 
+  {{< design-feature-card 
     icon="adjustments"
     image="/products/evermusic/screenshots/2048x2732/3.png" 
     title="Ses Ekolayzeri" 
@@ -142,7 +142,7 @@ Evermusic, İspanyol yazılım şirketi Everappz tarafından geliştirilen iPhon
     subtitle="iPod tarzı ses ekolayzeri, özelleştirilebilir ön ayarlar ve en iyi dinleme deneyimi için preamp kazancı ile sesinizi ince ayarlayın." 
   >}}
 
-  {{< feature-card 
+  {{< design-feature-card 
     icon="annotation"
     image="/products/evermusic/screenshots/2048x2732/4.png"  
     title="Şarkı Sözü Görüntüleyici" 
@@ -151,7 +151,7 @@ Evermusic, İspanyol yazılım şirketi Everappz tarafından geliştirilen iPhon
     subtitle="Dinlerken gömülü şarkı sözlerini ve parça yorumlarını okuyun. Daha sürükleyici bir müzik deneyimi için senkronize şarkı sözlerinin keyfini çıkarın." 
   >}}
 
-  {{< feature-card 
+  {{< design-feature-card 
     icon="collection"
     image="/products/evermusic/screenshots/2048x2732/5.png"  
     title="Çalma Listesi Yöneticisi" 
@@ -160,7 +160,7 @@ Evermusic, İspanyol yazılım şirketi Everappz tarafından geliştirilen iPhon
     subtitle="Özel çalma listeleri oluşturun ve düzenleyin, şarkıları yeniden sıralayın, M3U'ya dışa aktarın veya kolay paylaşım ve yedekleme için ZIP dosyaları olarak arşivleyin." 
   >}}
 
-  {{< feature-card 
+  {{< design-feature-card 
     icon="cloud"
     image="/products/evermusic/screenshots/2048x2732/6.png"  
     title="Bulut Müzik Akışı" 
@@ -169,7 +169,7 @@ Evermusic, İspanyol yazılım şirketi Everappz tarafından geliştirilen iPhon
     subtitle="Müzik koleksiyonunuzu her zaman her yerde akış yapmak için Google Drive, Dropbox ve OneDrive gibi popüler bulut depolama platformlarını bağlayın." 
   >}}
 
-  {{< feature-card 
+  {{< design-feature-card 
     icon="duplicate"
     image="/products/evermusic/screenshots/2048x2732/9.png"  
     title="Dosya Yöneticisi" 
@@ -178,7 +178,7 @@ Evermusic, İspanyol yazılım şirketi Everappz tarafından geliştirilen iPhon
     subtitle="Ses dosyalarınızı kolayca yönetin—parçaları yeniden adlandırın, klasörleri düzenleyin ve yerleşik araçları kullanarak cihazlar arasında müzik aktarın." 
   >}} 
 
-  {{< feature-card 
+  {{< design-feature-card 
     icon="sun"
     image="/products/evermusic/screenshots/2048x2732/10.png"  
     title="Uygulama Özelleştirme" 

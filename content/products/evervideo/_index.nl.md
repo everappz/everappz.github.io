@@ -178,7 +178,7 @@ Intuïtief Ontwerp
 
 {{< cards cols="4">}}
 
-  {{< feature-card 
+  {{< design-feature-card 
     image="/products/evervideo/screenshots/2880x1800/1.png" 
     title="Videospeler" 
     method="Fill"
@@ -187,7 +187,7 @@ Intuïtief Ontwerp
     icon="play"
   >}}
 
-  {{< feature-card 
+  {{< design-feature-card 
     image="/products/evervideo/screenshots/2880x1800/3.png" 
     title="Audio- & Video-equalizer" 
     method="Fill"
@@ -196,7 +196,7 @@ Intuïtief Ontwerp
     icon="adjustments"
   >}}
 
-  {{< feature-card 
+  {{< design-feature-card 
     image="/products/evervideo/screenshots/2880x1800/6.png" 
     title="Afspeellijstbeheerder" 
     method="Fill"
@@ -205,7 +205,7 @@ Intuïtief Ontwerp
     icon="collection"
   >}}
 
-  {{< feature-card 
+  {{< design-feature-card 
     image="/products/evervideo/screenshots/2880x1800/5.png" 
     title="Mediabibliotheek" 
     method="Fill"
@@ -214,7 +214,7 @@ Intuïtief Ontwerp
     icon="library"
   >}}
 
-  {{< feature-card 
+  {{< design-feature-card 
     image="/products/evervideo/screenshots/2880x1800/7.png"  
     title="Cloudopslag" 
     method="Fill"
@@ -223,7 +223,7 @@ Intuïtief Ontwerp
     icon="cloud"
   >}}
 
-  {{< feature-card 
+  {{< design-feature-card 
     image="/products/evervideo/screenshots/2880x1800/9.png"  
     title="Bestandsbeheerder" 
     method="Fill"

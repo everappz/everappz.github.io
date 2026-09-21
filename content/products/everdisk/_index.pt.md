@@ -130,7 +130,7 @@ Transforme o seu iPhone ou iPad numa drive sem fios que partilha ficheiros com <
 
 {{< cards cols="4">}}
 
-  {{< feature-card 
+  {{< design-feature-card 
     icon="globe-alt"
     image="/products/everdisk/screenshots/browser_access.png" 
     title="Acesso pelo Navegador" 
@@ -139,7 +139,7 @@ Transforme o seu iPhone ou iPad numa drive sem fios que partilha ficheiros com <
     subtitle="Partilhe uma ligacao e deixe que qualquer pessoa explore, pre-visualize e transfira os seus ficheiros a partir de qualquer navegador web. Nada para instalar do outro lado." 
   >}}
 
-  {{< feature-card 
+  {{< design-feature-card 
     icon="server"
     image="/products/everdisk/screenshots/connect_to_servers.png"  
     title="Ligar a Servidores" 
@@ -148,7 +148,7 @@ Transforme o seu iPhone ou iPad numa drive sem fios que partilha ficheiros com <
     subtitle="Descubra e ligue-se a servidores DLNA, WebDAV, FTP, SFTP e SMB na sua rede para explorar, transmitir e transferir os ficheiros deles." 
   >}}
 
-  {{< feature-card 
+  {{< design-feature-card 
     icon="folder"
     image="/products/everdisk/screenshots/file_manager.png"  
     title="Gestor de Ficheiros" 
@@ -157,7 +157,7 @@ Transforme o seu iPhone ou iPad numa drive sem fios que partilha ficheiros com <
     subtitle="Faca a gestao de tudo no seu dispositivo: explore em lista ou grelha, crie pastas, mude o nome, mova, copie, crie e abra arquivos zip, e elimine." 
   >}}
 
-  {{< feature-card 
+  {{< design-feature-card 
     icon="play"
     image="/products/everdisk/screenshots/play_in_the_app.png"  
     title="Reproduzir na Aplicacao" 
@@ -166,7 +166,7 @@ Transforme o seu iPhone ou iPad numa drive sem fios que partilha ficheiros com <
     subtitle="Oica as suas faixas locais ou transmita a partir de dispositivos ligados, com uma fila no mini leitor e reproducao de video em ecra inteiro." 
   >}}
 
-  {{< feature-card 
+  {{< design-feature-card 
     icon="music-note"
     image="/products/everdisk/screenshots/share_your_library.png"  
     title="Partilhe a Sua Biblioteca" 
@@ -175,7 +175,7 @@ Transforme o seu iPhone ou iPad numa drive sem fios que partilha ficheiros com <
     subtitle="Ative toda a sua biblioteca de fotografias e musica e cada album e faixa fica disponivel na rede em qualidade original." 
   >}} 
 
-  {{< feature-card 
+  {{< design-feature-card 
     icon="photograph"
     image="/products/everdisk/screenshots/photo_gallery.png"  
     title="Galeria de Fotografias" 

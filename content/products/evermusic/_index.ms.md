@@ -133,7 +133,7 @@ Evermusic ialah pemain muzik luar talian percuma untuk iPhone dan Mac yang diban
 
 {{< cards cols="4">}}
 
-  {{< feature-card 
+  {{< design-feature-card 
     icon="adjustments"
     image="/products/evermusic/screenshots/2048x2732/3.png" 
     title="Penyama Audio" 
@@ -142,7 +142,7 @@ Evermusic ialah pemain muzik luar talian percuma untuk iPhone dan Mac yang diban
     subtitle="Laraskan bunyi anda dengan penyama audio gaya iPod, pratetap boleh suai, dan gandaan praamp untuk pengalaman mendengar terbaik." 
   >}}
 
-  {{< feature-card 
+  {{< design-feature-card 
     icon="annotation"
     image="/products/evermusic/screenshots/2048x2732/4.png"  
     title="Pemapar Lirik" 
@@ -151,7 +151,7 @@ Evermusic ialah pemain muzik luar talian percuma untuk iPhone dan Mac yang diban
     subtitle="Baca lirik terbenam dan ulasan lagu semasa mendengar. Nikmati lirik tersegerak untuk pengalaman muzik yang lebih mendalam." 
   >}}
 
-  {{< feature-card 
+  {{< design-feature-card 
     icon="collection"
     image="/products/evermusic/screenshots/2048x2732/5.png"  
     title="Pengurus Senarai Main" 
@@ -160,7 +160,7 @@ Evermusic ialah pemain muzik luar talian percuma untuk iPhone dan Mac yang diban
     subtitle="Cipta dan susun senarai main tersuai, susun semula lagu, eksport ke M3U, atau arkibkan sebagai fail ZIP untuk perkongsian atau sandaran mudah." 
   >}}
 
-  {{< feature-card 
+  {{< design-feature-card 
     icon="cloud"
     image="/products/evermusic/screenshots/2048x2732/6.png"  
     title="Penstriman Muzik Awan" 
@@ -169,7 +169,7 @@ Evermusic ialah pemain muzik luar talian percuma untuk iPhone dan Mac yang diban
     subtitle="Sambungkan platform storan awan teratas seperti Google Drive, Dropbox, dan OneDrive untuk menstrim koleksi muzik anda pada bila-bila masa, di mana sahaja." 
   >}}
 
-  {{< feature-card 
+  {{< design-feature-card 
     icon="duplicate"
     image="/products/evermusic/screenshots/2048x2732/9.png"  
     title="Pengurus Fail" 
@@ -178,7 +178,7 @@ Evermusic ialah pemain muzik luar talian percuma untuk iPhone dan Mac yang diban
     subtitle="Urus fail audio anda dengan mudah—namakan semula lagu, susun folder, dan pindahkan muzik antara peranti menggunakan alat terbina dalam." 
   >}} 
 
-  {{< feature-card 
+  {{< design-feature-card 
     icon="sun"
     image="/products/evermusic/screenshots/2048x2732/10.png"  
     title="Penyesuaian Aplikasi" 

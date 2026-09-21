@@ -130,7 +130,7 @@ Converteix el teu iPhone o iPad en una unitat sense fils que comparteix arxius a
 
 {{< cards cols="4">}}
 
-  {{< feature-card 
+  {{< design-feature-card 
     icon="globe-alt"
     image="/products/everdisk/screenshots/browser_access.png" 
     title="Accés des del navegador" 
@@ -139,7 +139,7 @@ Converteix el teu iPhone o iPad en una unitat sense fils que comparteix arxius a
     subtitle="Comparteix un enllaç i deixa que qualsevol explori, previsualitzi i baixi els teus arxius des de qualsevol navegador web. Res a instal·lar a l'altre costat." 
   >}}
 
-  {{< feature-card 
+  {{< design-feature-card 
     icon="server"
     image="/products/everdisk/screenshots/connect_to_servers.png"  
     title="Connecta't a servidors" 
@@ -148,7 +148,7 @@ Converteix el teu iPhone o iPad en una unitat sense fils que comparteix arxius a
     subtitle="Descobreix i connecta't a servidors DLNA, WebDAV, FTP, SFTP i SMB de la teva xarxa per explorar, reproduir i baixar els seus arxius." 
   >}}
 
-  {{< feature-card 
+  {{< design-feature-card 
     icon="folder"
     image="/products/everdisk/screenshots/file_manager.png"  
     title="Gestor d'arxius" 
@@ -157,7 +157,7 @@ Converteix el teu iPhone o iPad en una unitat sense fils que comparteix arxius a
     subtitle="Gestiona-ho tot al teu dispositiu: explora en llista o graella, crea carpetes, canvia de nom, mou, copia, comprimeix i descomprimeix, i elimina." 
   >}}
 
-  {{< feature-card 
+  {{< design-feature-card 
     icon="play"
     image="/products/everdisk/screenshots/play_in_the_app.png"  
     title="Reprodueix dins de l'app" 
@@ -166,7 +166,7 @@ Converteix el teu iPhone o iPad en una unitat sense fils que comparteix arxius a
     subtitle="Escolta les teves cançons locals o reprodueix des de dispositius connectats, amb una cua al mini reproductor i reproducció de vídeo a pantalla completa." 
   >}}
 
-  {{< feature-card 
+  {{< design-feature-card 
     icon="music-note"
     image="/products/everdisk/screenshots/share_your_library.png"  
     title="Comparteix la teva biblioteca" 
@@ -175,7 +175,7 @@ Converteix el teu iPhone o iPad en una unitat sense fils que comparteix arxius a
     subtitle="Activa tota la teva biblioteca de fotos i música i cada àlbum i cada cançó queda disponible per la xarxa amb qualitat original." 
   >}} 
 
-  {{< feature-card 
+  {{< design-feature-card 
     icon="photograph"
     image="/products/everdisk/screenshots/photo_gallery.png"  
     title="Galeria de fotos" 

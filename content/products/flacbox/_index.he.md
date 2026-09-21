@@ -164,7 +164,7 @@ Flacbox גם מנגן MP3, AAC, OGG, APE, MOD, MKA ומכולות מתקדמות
 
 {{< cards cols="4">}}
 
-  {{< feature-card 
+  {{< design-feature-card 
     image="/products/flacbox/screenshots/2048x2732/1.png" 
     title="נגן אודיו" 
     method="Fill"
@@ -173,7 +173,7 @@ Flacbox גם מנגן MP3, AAC, OGG, APE, MOD, MKA ומכולות מתקדמות
     icon="play"
   >}}
 
-  {{< feature-card 
+  {{< design-feature-card 
     image="/products/flacbox/screenshots/2048x2732/2.png"  
     title="אקולייזר אודיו" 
     method="Fill"
@@ -182,7 +182,7 @@ Flacbox גם מנגן MP3, AAC, OGG, APE, MOD, MKA ומכולות מתקדמות
     icon="adjustments"
   >}}
 
-  {{< feature-card 
+  {{< design-feature-card 
     image="/products/flacbox/screenshots/2048x2732/3.png"  
     title="מנהל רשימות השמעה" 
     method="Fill"
@@ -191,7 +191,7 @@ Flacbox גם מנגן MP3, AAC, OGG, APE, MOD, MKA ומכולות מתקדמות
     icon="collection"
   >}}
 
-  {{< feature-card 
+  {{< design-feature-card 
     image="/products/flacbox/screenshots/2048x2732/5.png"  
     title="ספריית מדיה" 
     method="Fill"
@@ -200,7 +200,7 @@ Flacbox גם מנגן MP3, AAC, OGG, APE, MOD, MKA ומכולות מתקדמות
     icon="library"
   >}}
 
-  {{< feature-card 
+  {{< design-feature-card 
     image="/products/flacbox/screenshots/2048x2732/7.png"  
     title="אחסון ענן" 
     method="Fill"
@@ -209,7 +209,7 @@ Flacbox גם מנגן MP3, AAC, OGG, APE, MOD, MKA ומכולות מתקדמות
     icon="cloud"
   >}}
 
-  {{< feature-card 
+  {{< design-feature-card 
     image="/products/flacbox/screenshots/2048x2732/8.png"  
     title="iCloud Drive" 
     method="Fill"

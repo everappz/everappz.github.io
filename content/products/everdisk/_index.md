@@ -132,7 +132,7 @@ Turn your iPhone or iPad into a wireless drive that shares files with <strong>an
 
 {{< cards cols="4">}}
 
-  {{< feature-card 
+  {{< design-feature-card 
     icon="globe-alt"
     image="/products/everdisk/screenshots/browser_access.png" 
     title="Browser Access" 
@@ -141,7 +141,7 @@ Turn your iPhone or iPad into a wireless drive that shares files with <strong>an
     subtitle="Share a link and let anyone browse, preview and download your files from any web browser. Nothing to install on the other end." 
   >}}
 
-  {{< feature-card 
+  {{< design-feature-card 
     icon="server"
     image="/products/everdisk/screenshots/connect_to_servers.png"  
     title="Connect to Servers" 
@@ -150,7 +150,7 @@ Turn your iPhone or iPad into a wireless drive that shares files with <strong>an
     subtitle="Discover and connect to DLNA, WebDAV, FTP, SFTP and SMB servers on your network to browse, stream and download their files." 
   >}}
 
-  {{< feature-card 
+  {{< design-feature-card 
     icon="folder"
     image="/products/everdisk/screenshots/file_manager.png"  
     title="File Manager" 
@@ -159,7 +159,7 @@ Turn your iPhone or iPad into a wireless drive that shares files with <strong>an
     subtitle="Manage everything on your device: browse in list or grid, create folders, rename, move, copy, zip and unzip, and delete." 
   >}}
 
-  {{< feature-card 
+  {{< design-feature-card 
     icon="play"
     image="/products/everdisk/screenshots/play_in_the_app.png"  
     title="Play In the App" 
@@ -168,7 +168,7 @@ Turn your iPhone or iPad into a wireless drive that shares files with <strong>an
     subtitle="Listen to your local tracks or stream from connected devices, with a mini player queue and full-screen video playback." 
   >}}
 
-  {{< feature-card 
+  {{< design-feature-card 
     icon="music-note"
     image="/products/everdisk/screenshots/share_your_library.png"  
     title="Share Your Library" 
@@ -177,7 +177,7 @@ Turn your iPhone or iPad into a wireless drive that shares files with <strong>an
     subtitle="Turn on your full photo and music library and every album and track becomes available over the network in original quality." 
   >}} 
 
-  {{< feature-card 
+  {{< design-feature-card 
     icon="photograph"
     image="/products/everdisk/screenshots/photo_gallery.png"  
     title="Photo Gallery" 

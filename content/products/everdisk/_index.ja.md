@@ -130,7 +130,7 @@ iPhone や iPad をワイヤレスドライブに変えて <strong>ネットワ�
 
 {{< cards cols="4">}}
 
-  {{< feature-card 
+  {{< design-feature-card 
     icon="globe-alt"
     image="/products/everdisk/screenshots/browser_access.png" 
     title="ブラウザアクセス" 
@@ -139,7 +139,7 @@ iPhone や iPad をワイヤレスドライブに変えて <strong>ネットワ�
     subtitle="リンクを共有すれば、誰でもどの Web ブラウザからでもファイルを閲覧・プレビュー・ダウンロードできます。相手側にインストールするものはありません。" 
   >}}
 
-  {{< feature-card 
+  {{< design-feature-card 
     icon="server"
     image="/products/everdisk/screenshots/connect_to_servers.png"  
     title="サーバーへ接続" 
@@ -148,7 +148,7 @@ iPhone や iPad をワイヤレスドライブに変えて <strong>ネットワ�
     subtitle="ネットワーク上の DLNA、WebDAV、FTP、SFTP、SMB サーバーを見つけて接続し、それらのファイルを閲覧・ストリーミング・ダウンロードできます。" 
   >}}
 
-  {{< feature-card 
+  {{< design-feature-card 
     icon="folder"
     image="/products/everdisk/screenshots/file_manager.png"  
     title="ファイルマネージャー" 
@@ -157,7 +157,7 @@ iPhone や iPad をワイヤレスドライブに変えて <strong>ネットワ�
     subtitle="デバイス上のすべてを管理。リストやグリッドで閲覧し、フォルダーの作成、名前の変更、移動、コピー、zip 圧縮と解凍、削除ができます。" 
   >}}
 
-  {{< feature-card 
+  {{< design-feature-card 
     icon="play"
     image="/products/everdisk/screenshots/play_in_the_app.png"  
     title="アプリ内で再生" 
@@ -166,7 +166,7 @@ iPhone や iPad をワイヤレスドライブに変えて <strong>ネットワ�
     subtitle="ローカルの曲を聴いたり、接続したデバイスからストリーミングしたり。ミニプレーヤーのキューと全画面動画再生に対応しています。" 
   >}}
 
-  {{< feature-card 
+  {{< design-feature-card 
     icon="music-note"
     image="/products/everdisk/screenshots/share_your_library.png"  
     title="ライブラリを共有" 
@@ -175,7 +175,7 @@ iPhone や iPad をワイヤレスドライブに変えて <strong>ネットワ�
     subtitle="写真と音楽のライブラリをまるごとオンにすれば、すべてのアルバムと曲がオリジナル画質でネットワーク越しに利用できるようになります。" 
   >}} 
 
-  {{< feature-card 
+  {{< design-feature-card 
     icon="photograph"
     image="/products/everdisk/screenshots/photo_gallery.png"  
     title="フォトギャラリー" 

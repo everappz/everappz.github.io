@@ -178,7 +178,7 @@ Sezgisel Tasarım
 
 {{< cards cols="4">}}
 
-  {{< feature-card 
+  {{< design-feature-card 
     image="/products/evervideo/screenshots/2880x1800/1.png" 
     title="Video Oynatıcı" 
     method="Fill"
@@ -187,7 +187,7 @@ Sezgisel Tasarım
     icon="play"
   >}}
 
-  {{< feature-card 
+  {{< design-feature-card 
     image="/products/evervideo/screenshots/2880x1800/3.png" 
     title="Ses ve Video Ekolayzeri" 
     method="Fill"
@@ -196,7 +196,7 @@ Sezgisel Tasarım
     icon="adjustments"
   >}}
 
-  {{< feature-card 
+  {{< design-feature-card 
     image="/products/evervideo/screenshots/2880x1800/6.png" 
     title="Çalma Listesi Yöneticisi" 
     method="Fill"
@@ -205,7 +205,7 @@ Sezgisel Tasarım
     icon="collection"
   >}}
 
-  {{< feature-card 
+  {{< design-feature-card 
     image="/products/evervideo/screenshots/2880x1800/5.png" 
     title="Medya Kütüphanesi" 
     method="Fill"
@@ -214,7 +214,7 @@ Sezgisel Tasarım
     icon="library"
   >}}
 
-  {{< feature-card 
+  {{< design-feature-card 
     image="/products/evervideo/screenshots/2880x1800/7.png"  
     title="Bulut Depolama" 
     method="Fill"
@@ -223,7 +223,7 @@ Sezgisel Tasarım
     icon="cloud"
   >}}
 
-  {{< feature-card 
+  {{< design-feature-card 
     image="/products/evervideo/screenshots/2880x1800/9.png"  
     title="Dosya Yöneticisi" 
     method="Fill"

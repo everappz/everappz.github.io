@@ -164,12 +164,12 @@ Intuitiv design
 
 {{< cards cols="4">}}
 
-  {{< feature-card image="/products/flacbox/screenshots/2048x2732/1.png" title="Ljudspelare" method="Fill" options="515x200 q90 webp" subtitle="Avancerad musikspelare med upprepning, slumpmässig, hastighetskontroll och tonhöjdsjustering." icon="play" >}}
-  {{< feature-card image="/products/flacbox/screenshots/2048x2732/2.png" title="Ljud-equalizer" method="Fill" options="515x200 q90 webp" subtitle="Anpassad equalizer med förinställningar, basförstärkning och förförstärkare för bättre ljud." icon="adjustments" >}}
-  {{< feature-card image="/products/flacbox/screenshots/2048x2732/3.png" title="Spellisthanterare" method="Fill" options="515x200 q90 webp" subtitle="Skapa spellistor, ändra låtordning, exportera till M3U eller ZIP för säkerhetskopiering." icon="collection" >}}
-  {{< feature-card image="/products/flacbox/screenshots/2048x2732/5.png" title="Mediabibliotek" method="Fill" options="515x200 q90 webp" subtitle="Organisera låtar efter album, artist eller genre med ljudtaggar och metadata." icon="library" >}}
-  {{< feature-card image="/products/flacbox/screenshots/2048x2732/7.png" title="Molnlagring" method="Fill" options="515x200 q90 webp" subtitle="Strömma musik från Google Drive, Dropbox, OneDrive och andra molntjänster." icon="cloud" >}}
-  {{< feature-card image="/products/flacbox/screenshots/2048x2732/8.png" title="iCloud Drive" method="Fill" options="515x200 q90 webp" subtitle="Lagra förlustfri musik i iCloud och strömma direkt utan nedladdning." icon="wifi" >}}
+  {{< design-feature-card image="/products/flacbox/screenshots/2048x2732/1.png" title="Ljudspelare" method="Fill" options="515x200 q90 webp" subtitle="Avancerad musikspelare med upprepning, slumpmässig, hastighetskontroll och tonhöjdsjustering." icon="play" >}}
+  {{< design-feature-card image="/products/flacbox/screenshots/2048x2732/2.png" title="Ljud-equalizer" method="Fill" options="515x200 q90 webp" subtitle="Anpassad equalizer med förinställningar, basförstärkning och förförstärkare för bättre ljud." icon="adjustments" >}}
+  {{< design-feature-card image="/products/flacbox/screenshots/2048x2732/3.png" title="Spellisthanterare" method="Fill" options="515x200 q90 webp" subtitle="Skapa spellistor, ändra låtordning, exportera till M3U eller ZIP för säkerhetskopiering." icon="collection" >}}
+  {{< design-feature-card image="/products/flacbox/screenshots/2048x2732/5.png" title="Mediabibliotek" method="Fill" options="515x200 q90 webp" subtitle="Organisera låtar efter album, artist eller genre med ljudtaggar och metadata." icon="library" >}}
+  {{< design-feature-card image="/products/flacbox/screenshots/2048x2732/7.png" title="Molnlagring" method="Fill" options="515x200 q90 webp" subtitle="Strömma musik från Google Drive, Dropbox, OneDrive och andra molntjänster." icon="cloud" >}}
+  {{< design-feature-card image="/products/flacbox/screenshots/2048x2732/8.png" title="iCloud Drive" method="Fill" options="515x200 q90 webp" subtitle="Lagra förlustfri musik i iCloud och strömma direkt utan nedladdning." icon="wifi" >}}
 
 {{< /cards >}}
 

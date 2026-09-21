@@ -164,7 +164,7 @@ Flacbox ยังเล่น MP3, AAC, OGG, APE, MOD, MKA และคอนเ
 
 {{< cards cols="4">}}
 
-  {{< feature-card 
+  {{< design-feature-card 
     image="/products/flacbox/screenshots/2048x2732/1.png" 
     title="เครื่องเล่นเสียง" 
     method="Fill"
@@ -173,7 +173,7 @@ Flacbox ยังเล่น MP3, AAC, OGG, APE, MOD, MKA และคอนเ
     icon="play"
   >}}
 
-  {{< feature-card 
+  {{< design-feature-card 
     image="/products/flacbox/screenshots/2048x2732/2.png"  
     title="อีควอไลเซอร์เสียง" 
     method="Fill"
@@ -182,7 +182,7 @@ Flacbox ยังเล่น MP3, AAC, OGG, APE, MOD, MKA และคอนเ
     icon="adjustments"
   >}}
 
-  {{< feature-card 
+  {{< design-feature-card 
     image="/products/flacbox/screenshots/2048x2732/3.png"  
     title="จัดการเพลย์ลิสต์" 
     method="Fill"
@@ -191,7 +191,7 @@ Flacbox ยังเล่น MP3, AAC, OGG, APE, MOD, MKA และคอนเ
     icon="collection"
   >}}
 
-  {{< feature-card 
+  {{< design-feature-card 
     image="/products/flacbox/screenshots/2048x2732/5.png"  
     title="คลังสื่อ" 
     method="Fill"
@@ -200,7 +200,7 @@ Flacbox ยังเล่น MP3, AAC, OGG, APE, MOD, MKA และคอนเ
     icon="library"
   >}}
 
-  {{< feature-card 
+  {{< design-feature-card 
     image="/products/flacbox/screenshots/2048x2732/7.png"  
     title="คลาวด์สตอเรจ" 
     method="Fill"
@@ -209,7 +209,7 @@ Flacbox ยังเล่น MP3, AAC, OGG, APE, MOD, MKA และคอนเ
     icon="cloud"
   >}}
 
-  {{< feature-card 
+  {{< design-feature-card 
     image="/products/flacbox/screenshots/2048x2732/8.png"  
     title="iCloud Drive" 
     method="Fill"

@@ -130,7 +130,7 @@ Everdisk היא אפליקציית כונן אלחוטי ל-iPhone ול-iPad מ�
 
 {{< cards cols="4">}}
 
-  {{< feature-card 
+  {{< design-feature-card 
     icon="globe-alt"
     image="/products/everdisk/screenshots/browser_access.png" 
     title="גישה מהדפדפן" 
@@ -139,7 +139,7 @@ Everdisk היא אפליקציית כונן אלחוטי ל-iPhone ול-iPad מ�
     subtitle="שתפו קישור ותנו לכל אחד לעיין, לצפות בתצוגה מקדימה ולהוריד את הקבצים שלכם מכל דפדפן. אין מה להתקין בצד השני." 
   >}}
 
-  {{< feature-card 
+  {{< design-feature-card 
     icon="server"
     image="/products/everdisk/screenshots/connect_to_servers.png"  
     title="התחברות לשרתים" 
@@ -148,7 +148,7 @@ Everdisk היא אפליקציית כונן אלחוטי ל-iPhone ול-iPad מ�
     subtitle="גלו והתחברו לשרתי DLNA, WebDAV, FTP, SFTP ו-SMB ברשת שלכם כדי לעיין, להזרים ולהוריד את הקבצים שלהם." 
   >}}
 
-  {{< feature-card 
+  {{< design-feature-card 
     icon="folder"
     image="/products/everdisk/screenshots/file_manager.png"  
     title="מנהל קבצים" 
@@ -157,7 +157,7 @@ Everdisk היא אפליקציית כונן אלחוטי ל-iPhone ול-iPad מ�
     subtitle="נהלו הכול במכשיר שלכם: עיינו ברשימה או ברשת, צרו תיקיות, שנו שם, העבירו, העתיקו, דחסו ופתחו ארכיונים ומחקו." 
   >}}
 
-  {{< feature-card 
+  {{< design-feature-card 
     icon="play"
     image="/products/everdisk/screenshots/play_in_the_app.png"  
     title="נגינה באפליקציה" 
@@ -166,7 +166,7 @@ Everdisk היא אפליקציית כונן אלחוטי ל-iPhone ול-iPad מ�
     subtitle="האזינו לרצועות המקומיות שלכם או הזרימו ממכשירים מחוברים, עם תור בנגן המוקטן וניגון וידאו במסך מלא." 
   >}}
 
-  {{< feature-card 
+  {{< design-feature-card 
     icon="music-note"
     image="/products/everdisk/screenshots/share_your_library.png"  
     title="שתפו את הספרייה שלכם" 
@@ -175,7 +175,7 @@ Everdisk היא אפליקציית כונן אלחוטי ל-iPhone ול-iPad מ�
     subtitle="הפעילו את ספריית התמונות והמוזיקה המלאה שלכם וכל אלבום וכל רצועה הופכים לזמינים ברשת באיכות מקורית." 
   >}} 
 
-  {{< feature-card 
+  {{< design-feature-card 
     icon="photograph"
     image="/products/everdisk/screenshots/photo_gallery.png"  
     title="גלריית תמונות" 

@@ -130,7 +130,7 @@ Everdisk, Everappz द्वारा बनाया गया iPhone और iP
 
 {{< cards cols="4">}}
 
-  {{< feature-card 
+  {{< design-feature-card 
     icon="globe-alt"
     image="/products/everdisk/screenshots/browser_access.png" 
     title="ब्राउज़र एक्सेस" 
@@ -139,7 +139,7 @@ Everdisk, Everappz द्वारा बनाया गया iPhone और iP
     subtitle="एक लिंक शेयर करें और किसी को भी किसी भी वेब ब्राउज़र से आपकी फाइलें ब्राउज़, प्रीव्यू और डाउनलोड करने दें. दूसरी तरफ इंस्टॉल करने के लिए कुछ नहीं." 
   >}}
 
-  {{< feature-card 
+  {{< design-feature-card 
     icon="server"
     image="/products/everdisk/screenshots/connect_to_servers.png"  
     title="सर्वर से जुड़ें" 
@@ -148,7 +148,7 @@ Everdisk, Everappz द्वारा बनाया गया iPhone और iP
     subtitle="अपने नेटवर्क पर DLNA, WebDAV, FTP, SFTP और SMB सर्वर खोजें और उनसे जुड़कर उनकी फाइलें ब्राउज़, स्ट्रीम और डाउनलोड करें." 
   >}}
 
-  {{< feature-card 
+  {{< design-feature-card 
     icon="folder"
     image="/products/everdisk/screenshots/file_manager.png"  
     title="फाइल मैनेजर" 
@@ -157,7 +157,7 @@ Everdisk, Everappz द्वारा बनाया गया iPhone और iP
     subtitle="अपने डिवाइस पर सब कुछ मैनेज करें: लिस्ट या ग्रिड में ब्राउज़ करें, फोल्डर बनाएं, नाम बदलें, मूव, कॉपी, zip और unzip करें और डिलीट करें." 
   >}}
 
-  {{< feature-card 
+  {{< design-feature-card 
     icon="play"
     image="/products/everdisk/screenshots/play_in_the_app.png"  
     title="ऐप में ही चलाएं" 
@@ -166,7 +166,7 @@ Everdisk, Everappz द्वारा बनाया गया iPhone और iP
     subtitle="अपने लोकल ट्रैक सुनें या जुड़े हुए डिवाइस से स्ट्रीम करें, मिनी प्लेयर क्यू और फुल-स्क्रीन वीडियो प्लेबैक के साथ." 
   >}}
 
-  {{< feature-card 
+  {{< design-feature-card 
     icon="music-note"
     image="/products/everdisk/screenshots/share_your_library.png"  
     title="अपनी लाइब्रेरी शेयर करें" 
@@ -175,7 +175,7 @@ Everdisk, Everappz द्वारा बनाया गया iPhone और iP
     subtitle="अपनी पूरी फोटो और म्यूजिक लाइब्रेरी चालू करें और हर एल्बम तथा ट्रैक ओरिजनल क्वालिटी में नेटवर्क पर उपलब्ध हो जाता है." 
   >}} 
 
-  {{< feature-card 
+  {{< design-feature-card 
     icon="photograph"
     image="/products/everdisk/screenshots/photo_gallery.png"  
     title="फोटो गैलरी" 

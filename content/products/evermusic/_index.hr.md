@@ -133,7 +133,7 @@ Evermusic je besplatan offline glazbeni reproduktor za iPhone i Mac koji je razv
 
 {{< cards cols="4">}}
 
-  {{< feature-card 
+  {{< design-feature-card 
     icon="adjustments"
     image="/products/evermusic/screenshots/2048x2732/3.png" 
     title="Audio Ekvilajzer" 
@@ -142,7 +142,7 @@ Evermusic je besplatan offline glazbeni reproduktor za iPhone i Mac koji je razv
     subtitle="Fino podesite zvuk s audio ekvilajzerom u iPod stilu, prilagodljivim postavkama i pojačanjem pretpojačala za najbolje iskustvo slušanja." 
   >}}
 
-  {{< feature-card 
+  {{< design-feature-card 
     icon="annotation"
     image="/products/evermusic/screenshots/2048x2732/4.png"  
     title="Preglednik Tekstova" 
@@ -151,7 +151,7 @@ Evermusic je besplatan offline glazbeni reproduktor za iPhone i Mac koji je razv
     subtitle="Čitajte ugrađene tekstove i komentare pjesama tijekom slušanja. Uživajte u sinkroniziranim tekstovima za dublje glazbeno iskustvo." 
   >}}
 
-  {{< feature-card 
+  {{< design-feature-card 
     icon="collection"
     image="/products/evermusic/screenshots/2048x2732/5.png"  
     title="Upravitelj Popisa za Reprodukciju" 
@@ -160,7 +160,7 @@ Evermusic je besplatan offline glazbeni reproduktor za iPhone i Mac koji je razv
     subtitle="Stvarajte i organizirajte prilagođene popise za reprodukciju, prerasporedite pjesme, izvezite u M3U ili arhivirajte kao ZIP datoteke za jednostavno dijeljenje ili sigurnosnu kopiju." 
   >}}
 
-  {{< feature-card 
+  {{< design-feature-card 
     icon="cloud"
     image="/products/evermusic/screenshots/2048x2732/6.png"  
     title="Cloud Streaming Glazbe" 
@@ -169,7 +169,7 @@ Evermusic je besplatan offline glazbeni reproduktor za iPhone i Mac koji je razv
     subtitle="Povežite vodeće platforme za pohranu u oblaku poput Google Drivea, Dropboxa i OneDrivea za streaming vaše glazbene zbirke bilo kada i bilo gdje." 
   >}}
 
-  {{< feature-card 
+  {{< design-feature-card 
     icon="duplicate"
     image="/products/evermusic/screenshots/2048x2732/9.png"  
     title="Upravitelj Datoteka" 
@@ -178,7 +178,7 @@ Evermusic je besplatan offline glazbeni reproduktor za iPhone i Mac koji je razv
     subtitle="Jednostavno upravljajte audio datotekama — preimenovajte pjesme, organizirajte mape i prenosite glazbu između uređaja koristeći ugrađene alate." 
   >}} 
 
-  {{< feature-card 
+  {{< design-feature-card 
     icon="sun"
     image="/products/evermusic/screenshots/2048x2732/10.png"  
     title="Prilagodba Aplikacije" 

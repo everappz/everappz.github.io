@@ -164,7 +164,7 @@ Intuitív dizájn
 
 {{< cards cols="4">}}
 
-  {{< feature-card 
+  {{< design-feature-card 
     image="/products/flacbox/screenshots/2048x2732/1.png" 
     title="Audiolejátszó" 
     method="Fill"
@@ -173,7 +173,7 @@ Intuitív dizájn
     icon="play"
   >}}
 
-  {{< feature-card 
+  {{< design-feature-card 
     image="/products/flacbox/screenshots/2048x2732/2.png"  
     title="Audio hangszínszabályzó" 
     method="Fill"
@@ -182,7 +182,7 @@ Intuitív dizájn
     icon="adjustments"
   >}}
 
-  {{< feature-card 
+  {{< design-feature-card 
     image="/products/flacbox/screenshots/2048x2732/3.png"  
     title="Lejátszási lista kezelő" 
     method="Fill"
@@ -191,7 +191,7 @@ Intuitív dizájn
     icon="collection"
   >}}
 
-  {{< feature-card 
+  {{< design-feature-card 
     image="/products/flacbox/screenshots/2048x2732/5.png"  
     title="Médiakönyvtár" 
     method="Fill"
@@ -200,7 +200,7 @@ Intuitív dizájn
     icon="library"
   >}}
 
-  {{< feature-card 
+  {{< design-feature-card 
     image="/products/flacbox/screenshots/2048x2732/7.png"  
     title="Felhőtárhely" 
     method="Fill"
@@ -209,7 +209,7 @@ Intuitív dizájn
     icon="cloud"
   >}}
 
-  {{< feature-card 
+  {{< design-feature-card 
     image="/products/flacbox/screenshots/2048x2732/8.png"  
     title="iCloud Drive" 
     method="Fill"

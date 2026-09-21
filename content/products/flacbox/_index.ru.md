@@ -164,7 +164,7 @@ Flacbox также воспроизводит MP3, AAC, OGG, APE, MOD, MKA и п
 
 {{< cards cols="4">}}
 
-  {{< feature-card 
+  {{< design-feature-card 
     image="/products/flacbox/screenshots/2048x2732/1.png" 
     title="Аудиоплеер" 
     method="Fill"
@@ -173,7 +173,7 @@ Flacbox также воспроизводит MP3, AAC, OGG, APE, MOD, MKA и п
     icon="play"
   >}}
 
-  {{< feature-card 
+  {{< design-feature-card 
     image="/products/flacbox/screenshots/2048x2732/2.png"  
     title="Аудио эквалайзер" 
     method="Fill"
@@ -182,7 +182,7 @@ Flacbox также воспроизводит MP3, AAC, OGG, APE, MOD, MKA и п
     icon="adjustments"
   >}}
 
-  {{< feature-card 
+  {{< design-feature-card 
     image="/products/flacbox/screenshots/2048x2732/3.png"  
     title="Менеджер плейлистов" 
     method="Fill"
@@ -191,7 +191,7 @@ Flacbox также воспроизводит MP3, AAC, OGG, APE, MOD, MKA и п
     icon="collection"
   >}}
 
-  {{< feature-card 
+  {{< design-feature-card 
     image="/products/flacbox/screenshots/2048x2732/5.png"  
     title="Медиатека" 
     method="Fill"
@@ -200,7 +200,7 @@ Flacbox также воспроизводит MP3, AAC, OGG, APE, MOD, MKA и п
     icon="library"
   >}}
 
-  {{< feature-card 
+  {{< design-feature-card 
     image="/products/flacbox/screenshots/2048x2732/7.png"  
     title="Облачное хранилище" 
     method="Fill"
@@ -209,7 +209,7 @@ Flacbox также воспроизводит MP3, AAC, OGG, APE, MOD, MKA и п
     icon="cloud"
   >}}
 
-  {{< feature-card 
+  {{< design-feature-card 
     image="/products/flacbox/screenshots/2048x2732/8.png"  
     title="iCloud Drive" 
     method="Fill"

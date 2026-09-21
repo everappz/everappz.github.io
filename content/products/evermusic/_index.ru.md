@@ -133,7 +133,7 @@ Evermusic — это бесплатный офлайн-музыкальный п
 
 {{< cards cols="4">}}
 
-  {{< feature-card 
+  {{< design-feature-card 
     icon="adjustments"
     image="/products/evermusic/screenshots/2048x2732/3.png" 
     title="Аудио эквалайзер" 
@@ -142,7 +142,7 @@ Evermusic — это бесплатный офлайн-музыкальный п
     subtitle="Настройте звук с помощью аудио эквалайзера в стиле iPod, настраиваемых пресетов и усиления предусилителя для лучших впечатлений от прослушивания." 
   >}}
 
-  {{< feature-card 
+  {{< design-feature-card 
     icon="annotation"
     image="/products/evermusic/screenshots/2048x2732/4.png"  
     title="Просмотр текстов" 
@@ -151,7 +151,7 @@ Evermusic — это бесплатный офлайн-музыкальный п
     subtitle="Читайте встроенные тексты песен и комментарии к трекам во время прослушивания. Наслаждайтесь синхронизированными текстами для более захватывающего музыкального опыта." 
   >}}
 
-  {{< feature-card 
+  {{< design-feature-card 
     icon="collection"
     image="/products/evermusic/screenshots/2048x2732/5.png"  
     title="Менеджер плейлистов" 
@@ -160,7 +160,7 @@ Evermusic — это бесплатный офлайн-музыкальный п
     subtitle="Создавайте и организуйте пользовательские плейлисты, меняйте порядок песен, экспортируйте в M3U или архивируйте как ZIP-файлы для удобного обмена или резервного копирования." 
   >}}
 
-  {{< feature-card 
+  {{< design-feature-card 
     icon="cloud"
     image="/products/evermusic/screenshots/2048x2732/6.png"  
     title="Потоковая музыка из облака" 
@@ -169,7 +169,7 @@ Evermusic — это бесплатный офлайн-музыкальный п
     subtitle="Подключайте популярные облачные платформы, такие как Google Drive, Dropbox и OneDrive, чтобы транслировать музыкальную коллекцию в любое время и в любом месте." 
   >}}
 
-  {{< feature-card 
+  {{< design-feature-card 
     icon="duplicate"
     image="/products/evermusic/screenshots/2048x2732/9.png"  
     title="Файловый менеджер" 
@@ -178,7 +178,7 @@ Evermusic — это бесплатный офлайн-музыкальный п
     subtitle="Легко управляйте аудиофайлами — переименовывайте треки, организуйте папки и переносите музыку между устройствами с помощью встроенных инструментов." 
   >}} 
 
-  {{< feature-card 
+  {{< design-feature-card 
     icon="sun"
     image="/products/evermusic/screenshots/2048x2732/10.png"  
     title="Настройка приложения" 

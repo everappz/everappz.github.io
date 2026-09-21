@@ -164,17 +164,17 @@ Intuitívny dizajn
 
 {{< cards cols="4">}}
 
-  {{< feature-card image="/products/flacbox/screenshots/2048x2732/1.png" title="Audio prehrávač" method="Fill" options="515x200 q90 webp" subtitle="Pokročilý hudobný prehrávač s opakovaním, náhodným prehrávaním, ovládaním rýchlosti a výšky." icon="play" >}}
+  {{< design-feature-card image="/products/flacbox/screenshots/2048x2732/1.png" title="Audio prehrávač" method="Fill" options="515x200 q90 webp" subtitle="Pokročilý hudobný prehrávač s opakovaním, náhodným prehrávaním, ovládaním rýchlosti a výšky." icon="play" >}}
 
-  {{< feature-card image="/products/flacbox/screenshots/2048x2732/2.png" title="Audio ekvalizér" method="Fill" options="515x200 q90 webp" subtitle="Vlastný ekvalizér s predvoľbami, zosilnením basov a predzosilňovačom pre lepší zvuk." icon="adjustments" >}}
+  {{< design-feature-card image="/products/flacbox/screenshots/2048x2732/2.png" title="Audio ekvalizér" method="Fill" options="515x200 q90 webp" subtitle="Vlastný ekvalizér s predvoľbami, zosilnením basov a predzosilňovačom pre lepší zvuk." icon="adjustments" >}}
 
-  {{< feature-card image="/products/flacbox/screenshots/2048x2732/3.png" title="Správca playlistov" method="Fill" options="515x200 q90 webp" subtitle="Vytvárajte playlisty, meňte poradie piesní, exportujte do M3U alebo ZIP na zálohovanie." icon="collection" >}}
+  {{< design-feature-card image="/products/flacbox/screenshots/2048x2732/3.png" title="Správca playlistov" method="Fill" options="515x200 q90 webp" subtitle="Vytvárajte playlisty, meňte poradie piesní, exportujte do M3U alebo ZIP na zálohovanie." icon="collection" >}}
 
-  {{< feature-card image="/products/flacbox/screenshots/2048x2732/5.png" title="Mediálna knižnica" method="Fill" options="515x200 q90 webp" subtitle="Organizujte piesne podľa albumu, interpreta alebo žánru pomocou audio tagov a metadát." icon="library" >}}
+  {{< design-feature-card image="/products/flacbox/screenshots/2048x2732/5.png" title="Mediálna knižnica" method="Fill" options="515x200 q90 webp" subtitle="Organizujte piesne podľa albumu, interpreta alebo žánru pomocou audio tagov a metadát." icon="library" >}}
 
-  {{< feature-card image="/products/flacbox/screenshots/2048x2732/7.png" title="Cloudové úložisko" method="Fill" options="515x200 q90 webp" subtitle="Streamujte hudbu z Google Drive, Dropbox, OneDrive a ďalších cloudových služieb." icon="cloud" >}}
+  {{< design-feature-card image="/products/flacbox/screenshots/2048x2732/7.png" title="Cloudové úložisko" method="Fill" options="515x200 q90 webp" subtitle="Streamujte hudbu z Google Drive, Dropbox, OneDrive a ďalších cloudových služieb." icon="cloud" >}}
 
-  {{< feature-card image="/products/flacbox/screenshots/2048x2732/8.png" title="iCloud Drive" method="Fill" options="515x200 q90 webp" subtitle="Ukladajte bezstratovú hudbu v iCloud a streamujte priamo bez sťahovania." icon="wifi" >}}
+  {{< design-feature-card image="/products/flacbox/screenshots/2048x2732/8.png" title="iCloud Drive" method="Fill" options="515x200 q90 webp" subtitle="Ukladajte bezstratovú hudbu v iCloud a streamujte priamo bez sťahovania." icon="wifi" >}}
 
 {{< /cards >}}
 

@@ -164,7 +164,7 @@ USBフラッシュドライブやネットワークストレージ（NAS）か�
 
 {{< cards cols="4">}}
 
-  {{< feature-card 
+  {{< design-feature-card 
     image="/products/flacbox/screenshots/2048x2732/1.png" 
     title="オーディオプレーヤー" 
     method="Fill"
@@ -173,7 +173,7 @@ USBフラッシュドライブやネットワークストレージ（NAS）か�
     icon="play"
   >}}
 
-  {{< feature-card 
+  {{< design-feature-card 
     image="/products/flacbox/screenshots/2048x2732/2.png"  
     title="オーディオイコライザー" 
     method="Fill"
@@ -182,7 +182,7 @@ USBフラッシュドライブやネットワークストレージ（NAS）か�
     icon="adjustments"
   >}}
 
-  {{< feature-card 
+  {{< design-feature-card 
     image="/products/flacbox/screenshots/2048x2732/3.png"  
     title="プレイリストマネージャー" 
     method="Fill"
@@ -191,7 +191,7 @@ USBフラッシュドライブやネットワークストレージ（NAS）か�
     icon="collection"
   >}}
 
-  {{< feature-card 
+  {{< design-feature-card 
     image="/products/flacbox/screenshots/2048x2732/5.png"  
     title="メディアライブラリ" 
     method="Fill"
@@ -200,7 +200,7 @@ USBフラッシュドライブやネットワークストレージ（NAS）か�
     icon="library"
   >}}
 
-  {{< feature-card 
+  {{< design-feature-card 
     image="/products/flacbox/screenshots/2048x2732/7.png"  
     title="クラウドストレージ" 
     method="Fill"
@@ -209,7 +209,7 @@ USBフラッシュドライブやネットワークストレージ（NAS）か�
     icon="cloud"
   >}}
 
-  {{< feature-card 
+  {{< design-feature-card 
     image="/products/flacbox/screenshots/2048x2732/8.png"  
     title="iCloud Drive" 
     method="Fill"

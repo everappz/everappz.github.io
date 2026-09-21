@@ -133,7 +133,7 @@ Evermusic er en gratis offline musikafspiller til iPhone og Mac, udviklet af Eve
 
 {{< cards cols="4">}}
 
-  {{< feature-card 
+  {{< design-feature-card 
     icon="adjustments"
     image="/products/evermusic/screenshots/2048x2732/3.png" 
     title="Lydequalizer" 
@@ -142,7 +142,7 @@ Evermusic er en gratis offline musikafspiller til iPhone og Mac, udviklet af Eve
     subtitle="Finjuster din lyd med en iPod-lignende lydequalizer, tilpasselige forudindstillinger og forforstærkerforstærkning for den bedste lytteoplevelse." 
   >}}
 
-  {{< feature-card 
+  {{< design-feature-card 
     icon="annotation"
     image="/products/evermusic/screenshots/2048x2732/4.png"  
     title="Sangtekstvisning" 
@@ -151,7 +151,7 @@ Evermusic er en gratis offline musikafspiller til iPhone og Mac, udviklet af Eve
     subtitle="Læs indlejrede sangtekster og nummerkommentarer mens du lytter. Nyd synkroniserede sangtekster for en mere fordybende musikoplevelse." 
   >}}
 
-  {{< feature-card 
+  {{< design-feature-card 
     icon="collection"
     image="/products/evermusic/screenshots/2048x2732/5.png"  
     title="Playlisteadministrator" 
@@ -160,7 +160,7 @@ Evermusic er en gratis offline musikafspiller til iPhone og Mac, udviklet af Eve
     subtitle="Opret og organiser tilpassede playlister, omarranger sange, eksportér til M3U eller arkivér dem som ZIP-filer for nem deling eller sikkerhedskopiering." 
   >}}
 
-  {{< feature-card 
+  {{< design-feature-card 
     icon="cloud"
     image="/products/evermusic/screenshots/2048x2732/6.png"  
     title="Cloud musikstreaming" 
@@ -169,7 +169,7 @@ Evermusic er en gratis offline musikafspiller til iPhone og Mac, udviklet af Eve
     subtitle="Tilslut de bedste cloudlagringsplatforme som Google Drive, Dropbox og OneDrive for at streame din musiksamling når som helst, hvor som helst." 
   >}}
 
-  {{< feature-card 
+  {{< design-feature-card 
     icon="duplicate"
     image="/products/evermusic/screenshots/2048x2732/9.png"  
     title="Filadministrator" 
@@ -178,7 +178,7 @@ Evermusic er en gratis offline musikafspiller til iPhone og Mac, udviklet af Eve
     subtitle="Administrer dine lydfiler nemt – omdøb numre, organiser mapper og overfør musik mellem enheder ved hjælp af indbyggede værktøjer." 
   >}} 
 
-  {{< feature-card 
+  {{< design-feature-card 
     icon="sun"
     image="/products/evermusic/screenshots/2048x2732/10.png"  
     title="App-tilpasning" 

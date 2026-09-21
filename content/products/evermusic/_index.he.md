@@ -133,7 +133,7 @@ Evermusic הוא נגן מוזיקה חינמי במצב לא מקוון ל-iPho
 
 {{< cards cols="4">}}
 
-  {{< feature-card 
+  {{< design-feature-card 
     icon="adjustments"
     image="/products/evermusic/screenshots/2048x2732/3.png" 
     title="אקולייזר אודיו" 
@@ -142,7 +142,7 @@ Evermusic הוא נגן מוזיקה חינמי במצב לא מקוון ל-iPho
     subtitle="כוונן את הצליל שלך עם אקולייזר בסגנון iPod, פריסטים ניתנים להתאמה אישית וחיזוק קדם-מגבר לחוויית האזנה מיטבית." 
   >}}
 
-  {{< feature-card 
+  {{< design-feature-card 
     icon="annotation"
     image="/products/evermusic/screenshots/2048x2732/4.png"  
     title="צפייה במילות שירים" 
@@ -151,7 +151,7 @@ Evermusic הוא נגן מוזיקה חינמי במצב לא מקוון ל-iPho
     subtitle="קרא מילות שירים מוטמעות והערות שירים בזמן האזנה. תיהנה ממילות שירים מסונכרנות לחוויה מוזיקלית עשירה יותר." 
   >}}
 
-  {{< feature-card 
+  {{< design-feature-card 
     icon="collection"
     image="/products/evermusic/screenshots/2048x2732/5.png"  
     title="מנהל פלייליסטים" 
@@ -160,7 +160,7 @@ Evermusic הוא נגן מוזיקה חינמי במצב לא מקוון ל-iPho
     subtitle="צור וארגן פלייליסטים מותאמים אישית, סדר מחדש שירים, ייצא ל-M3U או ארכב כקבצי ZIP לשיתוף או גיבוי קל." 
   >}}
 
-  {{< feature-card 
+  {{< design-feature-card 
     icon="cloud"
     image="/products/evermusic/screenshots/2048x2732/6.png"  
     title="הזרמת מוזיקה מהענן" 
@@ -169,7 +169,7 @@ Evermusic הוא נגן מוזיקה חינמי במצב לא מקוון ל-iPho
     subtitle="חבר פלטפורמות אחסון ענן מובילות כמו Google Drive, Dropbox ו-OneDrive להזרמת אוסף המוזיקה שלך בכל זמן ובכל מקום." 
   >}}
 
-  {{< feature-card 
+  {{< design-feature-card 
     icon="duplicate"
     image="/products/evermusic/screenshots/2048x2732/9.png"  
     title="מנהל קבצים" 
@@ -178,7 +178,7 @@ Evermusic הוא נגן מוזיקה חינמי במצב לא מקוון ל-iPho
     subtitle="נהל בקלות את קבצי האודיו שלך — שנה שמות שירים, ארגן תיקיות והעבר מוזיקה בין מכשירים באמצעות כלים מובנים." 
   >}} 
 
-  {{< feature-card 
+  {{< design-feature-card 
     icon="sun"
     image="/products/evermusic/screenshots/2048x2732/10.png"  
     title="התאמה אישית של האפליקציה" 

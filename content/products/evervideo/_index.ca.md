@@ -178,7 +178,7 @@ Disseny intuïtiu
 
 {{< cards cols="4">}}
 
-  {{< feature-card 
+  {{< design-feature-card 
     image="/products/evervideo/screenshots/2880x1800/1.png" 
     title="Reproductor de vídeo" 
     method="Fill"
@@ -187,7 +187,7 @@ Disseny intuïtiu
     icon="play"
   >}}
 
-  {{< feature-card 
+  {{< design-feature-card 
     image="/products/evervideo/screenshots/2880x1800/3.png" 
     title="Equalitzador d'àudio i vídeo" 
     method="Fill"
@@ -196,7 +196,7 @@ Disseny intuïtiu
     icon="adjustments"
   >}}
 
-  {{< feature-card 
+  {{< design-feature-card 
     image="/products/evervideo/screenshots/2880x1800/6.png" 
     title="Gestor de llistes de reproducció" 
     method="Fill"
@@ -205,7 +205,7 @@ Disseny intuïtiu
     icon="collection"
   >}}
 
-  {{< feature-card 
+  {{< design-feature-card 
     image="/products/evervideo/screenshots/2880x1800/5.png" 
     title="Biblioteca multimèdia" 
     method="Fill"
@@ -214,7 +214,7 @@ Disseny intuïtiu
     icon="library"
   >}}
 
-  {{< feature-card 
+  {{< design-feature-card 
     image="/products/evervideo/screenshots/2880x1800/7.png"  
     title="Emmagatzematge al núvol" 
     method="Fill"
@@ -223,7 +223,7 @@ Disseny intuïtiu
     icon="cloud"
   >}}
 
-  {{< feature-card 
+  {{< design-feature-card 
     image="/products/evervideo/screenshots/2880x1800/9.png"  
     title="Gestor d'arxius" 
     method="Fill"

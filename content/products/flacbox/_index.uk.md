@@ -164,7 +164,7 @@ Flacbox також відтворює MP3, AAC, OGG, APE, MOD, MKA та розш
 
 {{< cards cols="4">}}
 
-  {{< feature-card 
+  {{< design-feature-card 
     image="/products/flacbox/screenshots/2048x2732/1.png" 
     title="Аудіоплеєр" 
     method="Fill"
@@ -173,7 +173,7 @@ Flacbox також відтворює MP3, AAC, OGG, APE, MOD, MKA та розш
     icon="play"
   >}}
 
-  {{< feature-card 
+  {{< design-feature-card 
     image="/products/flacbox/screenshots/2048x2732/2.png"  
     title="Аудіо еквалайзер" 
     method="Fill"
@@ -182,7 +182,7 @@ Flacbox також відтворює MP3, AAC, OGG, APE, MOD, MKA та розш
     icon="adjustments"
   >}}
 
-  {{< feature-card 
+  {{< design-feature-card 
     image="/products/flacbox/screenshots/2048x2732/3.png"  
     title="Менеджер плейлистів" 
     method="Fill"
@@ -191,7 +191,7 @@ Flacbox також відтворює MP3, AAC, OGG, APE, MOD, MKA та розш
     icon="collection"
   >}}
 
-  {{< feature-card 
+  {{< design-feature-card 
     image="/products/flacbox/screenshots/2048x2732/5.png"  
     title="Медіабібліотека" 
     method="Fill"
@@ -200,7 +200,7 @@ Flacbox також відтворює MP3, AAC, OGG, APE, MOD, MKA та розш
     icon="library"
   >}}
 
-  {{< feature-card 
+  {{< design-feature-card 
     image="/products/flacbox/screenshots/2048x2732/7.png"  
     title="Хмарне сховище" 
     method="Fill"
@@ -209,7 +209,7 @@ Flacbox також відтворює MP3, AAC, OGG, APE, MOD, MKA та розш
     icon="cloud"
   >}}
 
-  {{< feature-card 
+  {{< design-feature-card 
     image="/products/flacbox/screenshots/2048x2732/8.png"  
     title="iCloud Drive" 
     method="Fill"

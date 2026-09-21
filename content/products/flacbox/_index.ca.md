@@ -164,7 +164,7 @@ Disseny intuïtiu
 
 {{< cards cols="4">}}
 
-  {{< feature-card 
+  {{< design-feature-card 
     image="/products/flacbox/screenshots/2048x2732/1.png" 
     title="Reproductor d'àudio" 
     method="Fill"
@@ -173,7 +173,7 @@ Disseny intuïtiu
     icon="play"
   >}}
 
-  {{< feature-card 
+  {{< design-feature-card 
     image="/products/flacbox/screenshots/2048x2732/2.png"  
     title="Equalitzador d'àudio" 
     method="Fill"
@@ -182,7 +182,7 @@ Disseny intuïtiu
     icon="adjustments"
   >}}
 
-  {{< feature-card 
+  {{< design-feature-card 
     image="/products/flacbox/screenshots/2048x2732/3.png"  
     title="Gestor de llistes" 
     method="Fill"
@@ -191,7 +191,7 @@ Disseny intuïtiu
     icon="collection"
   >}}
 
-  {{< feature-card 
+  {{< design-feature-card 
     image="/products/flacbox/screenshots/2048x2732/5.png"  
     title="Biblioteca multimèdia" 
     method="Fill"
@@ -200,7 +200,7 @@ Disseny intuïtiu
     icon="library"
   >}}
 
-  {{< feature-card 
+  {{< design-feature-card 
     image="/products/flacbox/screenshots/2048x2732/7.png"  
     title="Emmagatzematge al núvol" 
     method="Fill"
@@ -209,7 +209,7 @@ Disseny intuïtiu
     icon="cloud"
   >}}
 
-  {{< feature-card 
+  {{< design-feature-card 
     image="/products/flacbox/screenshots/2048x2732/8.png"  
     title="iCloud Drive" 
     method="Fill"

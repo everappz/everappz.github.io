@@ -130,7 +130,7 @@ Alakítsd iPhone-odat vagy iPad-edet vezeték nélküli meghajtóvá amely megos
 
 {{< cards cols="4">}}
 
-  {{< feature-card 
+  {{< design-feature-card 
     icon="globe-alt"
     image="/products/everdisk/screenshots/browser_access.png" 
     title="Böngészős hozzáférés" 
@@ -139,7 +139,7 @@ Alakítsd iPhone-odat vagy iPad-edet vezeték nélküli meghajtóvá amely megos
     subtitle="Ossz meg egy linket és hagyd, hogy bárki böngéssze, előnézetben megtekintse és letöltse a fájljaidat bármelyik böngészőből. Nincs semmi telepítendő a másik oldalon." 
   >}}
 
-  {{< feature-card 
+  {{< design-feature-card 
     icon="server"
     image="/products/everdisk/screenshots/connect_to_servers.png"  
     title="Csatlakozás szerverekhez" 
@@ -148,7 +148,7 @@ Alakítsd iPhone-odat vagy iPad-edet vezeték nélküli meghajtóvá amely megos
     subtitle="Fedezd fel és csatlakozz a hálózatodon lévő DLNA, WebDAV, FTP, SFTP és SMB szerverekhez, hogy böngészd, streameld és letöltsd a fájljaikat." 
   >}}
 
-  {{< feature-card 
+  {{< design-feature-card 
     icon="folder"
     image="/products/everdisk/screenshots/file_manager.png"  
     title="Fájlkezelő" 
@@ -157,7 +157,7 @@ Alakítsd iPhone-odat vagy iPad-edet vezeték nélküli meghajtóvá amely megos
     subtitle="Kezelj mindent a készülékeden: böngéssz listában vagy rácsban, hozz létre mappákat, nevezz át, helyezz át, másolj, csomagolj be és ki, és törölj." 
   >}}
 
-  {{< feature-card 
+  {{< design-feature-card 
     icon="play"
     image="/products/everdisk/screenshots/play_in_the_app.png"  
     title="Lejátszás az alkalmazásban" 
@@ -166,7 +166,7 @@ Alakítsd iPhone-odat vagy iPad-edet vezeték nélküli meghajtóvá amely megos
     subtitle="Hallgasd a helyi számaidat vagy streamelj a csatlakoztatott eszközökről, mini lejátszó várólistával és teljes képernyős videolejátszással." 
   >}}
 
-  {{< feature-card 
+  {{< design-feature-card 
     icon="music-note"
     image="/products/everdisk/screenshots/share_your_library.png"  
     title="Oszd meg a táradat" 
@@ -175,7 +175,7 @@ Alakítsd iPhone-odat vagy iPad-edet vezeték nélküli meghajtóvá amely megos
     subtitle="Kapcsold be a teljes fénykép- és zenetáradat és minden album és szám elérhetővé válik a hálózaton eredeti minőségben." 
   >}} 
 
-  {{< feature-card 
+  {{< design-feature-card 
     icon="photograph"
     image="/products/everdisk/screenshots/photo_gallery.png"  
     title="Fényképgaléria" 

@@ -133,7 +133,7 @@ Evermusicは、スペインのソフトウェア企業であるEverappzが開発
 
 {{< cards cols="4">}}
 
-  {{< feature-card 
+  {{< design-feature-card 
     icon="adjustments"
     image="/products/evermusic/screenshots/2048x2732/3.png" 
     title="オーディオイコライザー" 
@@ -142,7 +142,7 @@ Evermusicは、スペインのソフトウェア企業であるEverappzが開発
     subtitle="iPodスタイルのオーディオイコライザー、カスタマイズ可能なプリセット、プリアンプゲインで最高のリスニング体験のためにサウンドを微調整。" 
   >}}
 
-  {{< feature-card 
+  {{< design-feature-card 
     icon="annotation"
     image="/products/evermusic/screenshots/2048x2732/4.png"  
     title="歌詞ビューア" 
@@ -151,7 +151,7 @@ Evermusicは、スペインのソフトウェア企業であるEverappzが開発
     subtitle="聴きながら埋め込み歌詞とトラックコメントを読むことができます。同期歌詞でより没入感のある音楽体験を楽しみましょう。" 
   >}}
 
-  {{< feature-card 
+  {{< design-feature-card 
     icon="collection"
     image="/products/evermusic/screenshots/2048x2732/5.png"  
     title="プレイリストマネージャー" 
@@ -160,7 +160,7 @@ Evermusicは、スペインのソフトウェア企業であるEverappzが開発
     subtitle="カスタムプレイリストの作成と整理、曲の並べ替え、M3Uへのエクスポート、ZIPファイルとしてアーカイブして簡単に共有やバックアップが可能。" 
   >}}
 
-  {{< feature-card 
+  {{< design-feature-card 
     icon="cloud"
     image="/products/evermusic/screenshots/2048x2732/6.png"  
     title="クラウド音楽ストリーミング" 
@@ -169,7 +169,7 @@ Evermusicは、スペインのソフトウェア企業であるEverappzが開発
     subtitle="Google Drive、Dropbox、OneDriveなどのトップクラウドストレージプラットフォームを連携して、いつでもどこでも音楽コレクションをストリーミング。" 
   >}}
 
-  {{< feature-card 
+  {{< design-feature-card 
     icon="duplicate"
     image="/products/evermusic/screenshots/2048x2732/9.png"  
     title="ファイルマネージャー" 
@@ -178,7 +178,7 @@ Evermusicは、スペインのソフトウェア企業であるEverappzが開発
     subtitle="オーディオファイルを簡単に管理—トラック名の変更、フォルダの整理、内蔵ツールを使用したデバイス間の音楽転送。" 
   >}} 
 
-  {{< feature-card 
+  {{< design-feature-card 
     icon="sun"
     image="/products/evermusic/screenshots/2048x2732/10.png"  
     title="アプリのカスタマイズ" 

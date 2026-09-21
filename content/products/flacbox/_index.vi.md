@@ -142,12 +142,12 @@ Thiết kế trực quan
 <div class="hx:w-full">
 
 {{< cards cols="4">}}
-  {{< feature-card image="/products/flacbox/screenshots/2048x2732/1.png" title="Trình phát âm thanh" method="Fill" options="515x200 q90 webp" subtitle="Trình phát nhạc nâng cao với lặp lại, phát ngẫu nhiên, điều khiển tốc độ và điều chỉnh cao độ." icon="play" >}}
-  {{< feature-card image="/products/flacbox/screenshots/2048x2732/2.png" title="Bộ cân bằng âm thanh" method="Fill" options="515x200 q90 webp" subtitle="Bộ cân bằng tùy chỉnh với cài đặt sẵn, tăng cường bass và preamp cho âm thanh tốt hơn." icon="adjustments" >}}
-  {{< feature-card image="/products/flacbox/screenshots/2048x2732/3.png" title="Quản lý danh sách phát" method="Fill" options="515x200 q90 webp" subtitle="Tạo danh sách phát, thay đổi thứ tự bài hát, xuất sang M3U hoặc ZIP để sao lưu hoặc chia sẻ." icon="collection" >}}
-  {{< feature-card image="/products/flacbox/screenshots/2048x2732/5.png" title="Thư viện phương tiện" method="Fill" options="515x200 q90 webp" subtitle="Sắp xếp bài hát theo album, nghệ sĩ hoặc thể loại bằng tag âm thanh và metadata." icon="library" >}}
-  {{< feature-card image="/products/flacbox/screenshots/2048x2732/7.png" title="Bộ nhớ đám mây" method="Fill" options="515x200 q90 webp" subtitle="Phát trực tuyến nhạc từ Google Drive, Dropbox, OneDrive và các dịch vụ đám mây khác." icon="cloud" >}}
-  {{< feature-card image="/products/flacbox/screenshots/2048x2732/8.png" title="iCloud Drive" method="Fill" options="515x200 q90 webp" subtitle="Lưu trữ nhạc lossless trên iCloud và phát trực tiếp mà không cần tải xuống." icon="wifi" >}}
+  {{< design-feature-card image="/products/flacbox/screenshots/2048x2732/1.png" title="Trình phát âm thanh" method="Fill" options="515x200 q90 webp" subtitle="Trình phát nhạc nâng cao với lặp lại, phát ngẫu nhiên, điều khiển tốc độ và điều chỉnh cao độ." icon="play" >}}
+  {{< design-feature-card image="/products/flacbox/screenshots/2048x2732/2.png" title="Bộ cân bằng âm thanh" method="Fill" options="515x200 q90 webp" subtitle="Bộ cân bằng tùy chỉnh với cài đặt sẵn, tăng cường bass và preamp cho âm thanh tốt hơn." icon="adjustments" >}}
+  {{< design-feature-card image="/products/flacbox/screenshots/2048x2732/3.png" title="Quản lý danh sách phát" method="Fill" options="515x200 q90 webp" subtitle="Tạo danh sách phát, thay đổi thứ tự bài hát, xuất sang M3U hoặc ZIP để sao lưu hoặc chia sẻ." icon="collection" >}}
+  {{< design-feature-card image="/products/flacbox/screenshots/2048x2732/5.png" title="Thư viện phương tiện" method="Fill" options="515x200 q90 webp" subtitle="Sắp xếp bài hát theo album, nghệ sĩ hoặc thể loại bằng tag âm thanh và metadata." icon="library" >}}
+  {{< design-feature-card image="/products/flacbox/screenshots/2048x2732/7.png" title="Bộ nhớ đám mây" method="Fill" options="515x200 q90 webp" subtitle="Phát trực tuyến nhạc từ Google Drive, Dropbox, OneDrive và các dịch vụ đám mây khác." icon="cloud" >}}
+  {{< design-feature-card image="/products/flacbox/screenshots/2048x2732/8.png" title="iCloud Drive" method="Fill" options="515x200 q90 webp" subtitle="Lưu trữ nhạc lossless trên iCloud và phát trực tiếp mà không cần tải xuống." icon="wifi" >}}
 {{< /cards >}}
 
 </div>

@@ -130,7 +130,7 @@ Muuta iPhone tai iPad langattomaksi levyksi joka jakaa tiedostot <strong>kaikkie
 
 {{< cards cols="4">}}
 
-  {{< feature-card 
+  {{< design-feature-card 
     icon="globe-alt"
     image="/products/everdisk/screenshots/browser_access.png" 
     title="Selainkäyttö" 
@@ -139,7 +139,7 @@ Muuta iPhone tai iPad langattomaksi levyksi joka jakaa tiedostot <strong>kaikkie
     subtitle="Jaa linkki ja anna kenen tahansa selata, esikatsella ja ladata tiedostojasi mistä tahansa selaimesta. Vastaanottajan ei tarvitse asentaa mitään." 
   >}}
 
-  {{< feature-card 
+  {{< design-feature-card 
     icon="server"
     image="/products/everdisk/screenshots/connect_to_servers.png"  
     title="Yhdistä palvelimiin" 
@@ -148,7 +148,7 @@ Muuta iPhone tai iPad langattomaksi levyksi joka jakaa tiedostot <strong>kaikkie
     subtitle="Löydä ja yhdistä verkkosi DLNA-, WebDAV-, FTP-, SFTP- ja SMB-palvelimiin selataksesi, suoratoistaaksesi ja ladataksesi niiden tiedostoja." 
   >}}
 
-  {{< feature-card 
+  {{< design-feature-card 
     icon="folder"
     image="/products/everdisk/screenshots/file_manager.png"  
     title="Tiedostonhallinta" 
@@ -157,7 +157,7 @@ Muuta iPhone tai iPad langattomaksi levyksi joka jakaa tiedostot <strong>kaikkie
     subtitle="Hallitse kaikkea laitteellasi: selaa lista- tai ruudukkonäkymässä, luo kansioita, nimeä uudelleen, siirrä, kopioi, pakkaa ja pura sekä poista." 
   >}}
 
-  {{< feature-card 
+  {{< design-feature-card 
     icon="play"
     image="/products/everdisk/screenshots/play_in_the_app.png"  
     title="Toista sovelluksessa" 
@@ -166,7 +166,7 @@ Muuta iPhone tai iPad langattomaksi levyksi joka jakaa tiedostot <strong>kaikkie
     subtitle="Kuuntele paikallisia kappaleitasi tai suoratoista yhdistetyistä laitteista minisoittimen jonolla ja koko näytön videotoistolla." 
   >}}
 
-  {{< feature-card 
+  {{< design-feature-card 
     icon="music-note"
     image="/products/everdisk/screenshots/share_your_library.png"  
     title="Jaa kirjastosi" 
@@ -175,7 +175,7 @@ Muuta iPhone tai iPad langattomaksi levyksi joka jakaa tiedostot <strong>kaikkie
     subtitle="Ota käyttöön koko kuva- ja musiikkikirjastosi, niin jokainen albumi ja kappale tulee saataville verkon yli alkuperäisessä laadussa." 
   >}} 
 
-  {{< feature-card 
+  {{< design-feature-card 
     icon="photograph"
     image="/products/everdisk/screenshots/photo_gallery.png"  
     title="Kuvagalleria" 

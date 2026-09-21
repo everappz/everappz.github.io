@@ -133,7 +133,7 @@ Evermusic è un lettore musicale offline gratuito per iPhone e Mac sviluppato da
 
 {{< cards cols="4">}}
 
-  {{< feature-card 
+  {{< design-feature-card 
     icon="adjustments"
     image="/products/evermusic/screenshots/2048x2732/3.png" 
     title="Equalizzatore audio" 
@@ -142,7 +142,7 @@ Evermusic è un lettore musicale offline gratuito per iPhone e Mac sviluppato da
     subtitle="Regola il suono con un equalizzatore audio stile iPod, preset personalizzabili e guadagno preamplificatore per la migliore esperienza di ascolto." 
   >}}
 
-  {{< feature-card 
+  {{< design-feature-card 
     icon="annotation"
     image="/products/evermusic/screenshots/2048x2732/4.png"  
     title="Visualizzatore testi" 
@@ -151,7 +151,7 @@ Evermusic è un lettore musicale offline gratuito per iPhone e Mac sviluppato da
     subtitle="Leggi i testi incorporati e i commenti dei brani durante l'ascolto. Goditi i testi sincronizzati per un'esperienza musicale più coinvolgente." 
   >}}
 
-  {{< feature-card 
+  {{< design-feature-card 
     icon="collection"
     image="/products/evermusic/screenshots/2048x2732/5.png"  
     title="Gestore playlist" 
@@ -160,7 +160,7 @@ Evermusic è un lettore musicale offline gratuito per iPhone e Mac sviluppato da
     subtitle="Crea e organizza playlist personalizzate, riordina i brani, esporta in M3U o archiviale come file ZIP per una facile condivisione o backup." 
   >}}
 
-  {{< feature-card 
+  {{< design-feature-card 
     icon="cloud"
     image="/products/evermusic/screenshots/2048x2732/6.png"  
     title="Streaming musicale cloud" 
@@ -169,7 +169,7 @@ Evermusic è un lettore musicale offline gratuito per iPhone e Mac sviluppato da
     subtitle="Collega le principali piattaforme di cloud storage come Google Drive, Dropbox e OneDrive per riprodurre la tua collezione musicale in streaming ovunque e in qualsiasi momento." 
   >}}
 
-  {{< feature-card 
+  {{< design-feature-card 
     icon="duplicate"
     image="/products/evermusic/screenshots/2048x2732/9.png"  
     title="Gestore file" 
@@ -178,7 +178,7 @@ Evermusic è un lettore musicale offline gratuito per iPhone e Mac sviluppato da
     subtitle="Gestisci facilmente i tuoi file audio: rinomina brani, organizza cartelle e trasferisci musica tra dispositivi con gli strumenti integrati." 
   >}} 
 
-  {{< feature-card 
+  {{< design-feature-card 
     icon="sun"
     image="/products/evermusic/screenshots/2048x2732/10.png"  
     title="Personalizzazione app" 

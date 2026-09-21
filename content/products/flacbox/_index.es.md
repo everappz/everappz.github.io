@@ -164,7 +164,7 @@ Diseño intuitivo
 
 {{< cards cols="4">}}
 
-  {{< feature-card 
+  {{< design-feature-card 
     image="/products/flacbox/screenshots/2048x2732/1.png" 
     title="Reproductor de audio" 
     method="Fill"
@@ -173,7 +173,7 @@ Diseño intuitivo
     icon="play"
   >}}
 
-  {{< feature-card 
+  {{< design-feature-card 
     image="/products/flacbox/screenshots/2048x2732/2.png"  
     title="Ecualizador de audio" 
     method="Fill"
@@ -182,7 +182,7 @@ Diseño intuitivo
     icon="adjustments"
   >}}
 
-  {{< feature-card 
+  {{< design-feature-card 
     image="/products/flacbox/screenshots/2048x2732/3.png"  
     title="Gestor de listas" 
     method="Fill"
@@ -191,7 +191,7 @@ Diseño intuitivo
     icon="collection"
   >}}
 
-  {{< feature-card 
+  {{< design-feature-card 
     image="/products/flacbox/screenshots/2048x2732/5.png"  
     title="Biblioteca multimedia" 
     method="Fill"
@@ -200,7 +200,7 @@ Diseño intuitivo
     icon="library"
   >}}
 
-  {{< feature-card 
+  {{< design-feature-card 
     image="/products/flacbox/screenshots/2048x2732/7.png"  
     title="Almacenamiento en la nube" 
     method="Fill"
@@ -209,7 +209,7 @@ Diseño intuitivo
     icon="cloud"
   >}}
 
-  {{< feature-card 
+  {{< design-feature-card 
     image="/products/flacbox/screenshots/2048x2732/8.png"  
     title="iCloud Drive" 
     method="Fill"

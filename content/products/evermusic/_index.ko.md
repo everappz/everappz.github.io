@@ -133,7 +133,7 @@ Evermusic는 스페인 소프트웨어 회사인 Everappz가 개발한 iPhone �
 
 {{< cards cols="4">}}
 
-  {{< feature-card 
+  {{< design-feature-card 
     icon="adjustments"
     image="/products/evermusic/screenshots/2048x2732/3.png" 
     title="오디오 이퀄라이저" 
@@ -142,7 +142,7 @@ Evermusic는 스페인 소프트웨어 회사인 Everappz가 개발한 iPhone �
     subtitle="iPod 스타일의 오디오 이퀄라이저, 커스터마이즈 가능한 프리셋, 프리앰프 게인으로 최고의 청취 경험을 위해 사운드를 미세 조정하세요." 
   >}}
 
-  {{< feature-card 
+  {{< design-feature-card 
     icon="annotation"
     image="/products/evermusic/screenshots/2048x2732/4.png"  
     title="가사 뷰어" 
@@ -151,7 +151,7 @@ Evermusic는 스페인 소프트웨어 회사인 Everappz가 개발한 iPhone �
     subtitle="감상하면서 내장 가사와 트랙 코멘트를 읽으세요. 동기화된 가사로 더욱 몰입감 있는 음악 경험을 즐기세요." 
   >}}
 
-  {{< feature-card 
+  {{< design-feature-card 
     icon="collection"
     image="/products/evermusic/screenshots/2048x2732/5.png"  
     title="재생목록 관리자" 
@@ -160,7 +160,7 @@ Evermusic는 스페인 소프트웨어 회사인 Everappz가 개발한 iPhone �
     subtitle="커스텀 재생목록을 만들고 정리하고, 곡을 재배열하고, M3U로 내보내거나 ZIP 파일로 아카이브하여 쉽게 공유하거나 백업하세요." 
   >}}
 
-  {{< feature-card 
+  {{< design-feature-card 
     icon="cloud"
     image="/products/evermusic/screenshots/2048x2732/6.png"  
     title="클라우드 음악 스트리밍" 
@@ -169,7 +169,7 @@ Evermusic는 스페인 소프트웨어 회사인 Everappz가 개발한 iPhone �
     subtitle="Google Drive, Dropbox, OneDrive 같은 최고의 클라우드 저장소 플랫폼을 연결하여 언제 어디서나 음악 컬렉션을 스트리밍하세요." 
   >}}
 
-  {{< feature-card 
+  {{< design-feature-card 
     icon="duplicate"
     image="/products/evermusic/screenshots/2048x2732/9.png"  
     title="파일 관리자" 
@@ -178,7 +178,7 @@ Evermusic는 스페인 소프트웨어 회사인 Everappz가 개발한 iPhone �
     subtitle="오디오 파일을 쉽게 관리하세요—트랙 이름 변경, 폴더 정리, 내장 도구를 사용한 기기 간 음악 전송." 
   >}} 
 
-  {{< feature-card 
+  {{< design-feature-card 
     icon="sun"
     image="/products/evermusic/screenshots/2048x2732/10.png"  
     title="앱 커스터마이징" 

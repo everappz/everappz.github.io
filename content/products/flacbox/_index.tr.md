@@ -164,7 +164,7 @@ Sezgisel Tasarım
 
 {{< cards cols="4">}}
 
-  {{< feature-card 
+  {{< design-feature-card 
     image="/products/flacbox/screenshots/2048x2732/1.png" 
     title="Ses Oynatıcı" 
     method="Fill"
@@ -173,7 +173,7 @@ Sezgisel Tasarım
     icon="play"
   >}}
 
-  {{< feature-card 
+  {{< design-feature-card 
     image="/products/flacbox/screenshots/2048x2732/2.png"  
     title="Ses Ekolayzır" 
     method="Fill"
@@ -182,7 +182,7 @@ Sezgisel Tasarım
     icon="adjustments"
   >}}
 
-  {{< feature-card 
+  {{< design-feature-card 
     image="/products/flacbox/screenshots/2048x2732/3.png"  
     title="Çalma Listesi Yöneticisi" 
     method="Fill"
@@ -191,7 +191,7 @@ Sezgisel Tasarım
     icon="collection"
   >}}
 
-  {{< feature-card 
+  {{< design-feature-card 
     image="/products/flacbox/screenshots/2048x2732/5.png"  
     title="Medya Kütüphanesi" 
     method="Fill"
@@ -200,7 +200,7 @@ Sezgisel Tasarım
     icon="library"
   >}}
 
-  {{< feature-card 
+  {{< design-feature-card 
     image="/products/flacbox/screenshots/2048x2732/7.png"  
     title="Bulut Depolama" 
     method="Fill"
@@ -209,7 +209,7 @@ Sezgisel Tasarım
     icon="cloud"
   >}}
 
-  {{< feature-card 
+  {{< design-feature-card 
     image="/products/flacbox/screenshots/2048x2732/8.png"  
     title="iCloud Drive" 
     method="Fill"

@@ -130,7 +130,7 @@ Everdisk تطبيق قرص لاسلكي لأجهزة iPhone وiPad من تطوي
 
 {{< cards cols="4">}}
 
-  {{< feature-card 
+  {{< design-feature-card 
     icon="globe-alt"
     image="/products/everdisk/screenshots/browser_access.png" 
     title="الوصول عبر المتصفح" 
@@ -139,7 +139,7 @@ Everdisk تطبيق قرص لاسلكي لأجهزة iPhone وiPad من تطوي
     subtitle="شارك رابطاً ودع أي شخص يتصفح ملفاتك ويعاينها وينزّلها من أي متصفح ويب. لا شيء لتثبيته على الطرف الآخر." 
   >}}
 
-  {{< feature-card 
+  {{< design-feature-card 
     icon="server"
     image="/products/everdisk/screenshots/connect_to_servers.png"  
     title="الاتصال بالخوادم" 
@@ -148,7 +148,7 @@ Everdisk تطبيق قرص لاسلكي لأجهزة iPhone وiPad من تطوي
     subtitle="اكتشف خوادم DLNA وWebDAV وFTP وSFTP وSMB على شبكتك واتصل بها لتصفح ملفاتها وبثها وتنزيلها." 
   >}}
 
-  {{< feature-card 
+  {{< design-feature-card 
     icon="folder"
     image="/products/everdisk/screenshots/file_manager.png"  
     title="مدير الملفات" 
@@ -157,7 +157,7 @@ Everdisk تطبيق قرص لاسلكي لأجهزة iPhone وiPad من تطوي
     subtitle="أدر كل شيء على جهازك: تصفّح في قائمة أو شبكة، وأنشئ المجلدات وأعد التسمية وانقل وانسخ واضغط وفك الضغط واحذف." 
   >}}
 
-  {{< feature-card 
+  {{< design-feature-card 
     icon="play"
     image="/products/everdisk/screenshots/play_in_the_app.png"  
     title="التشغيل داخل التطبيق" 
@@ -166,7 +166,7 @@ Everdisk تطبيق قرص لاسلكي لأجهزة iPhone وiPad من تطوي
     subtitle="استمع إلى مقاطعك المحلية أو ابثّ من الأجهزة المتصلة، مع قائمة انتظار في مشغّل مصغّر وتشغيل فيديو بملء الشاشة." 
   >}}
 
-  {{< feature-card 
+  {{< design-feature-card 
     icon="music-note"
     image="/products/everdisk/screenshots/share_your_library.png"  
     title="شارك مكتبتك" 
@@ -175,7 +175,7 @@ Everdisk تطبيق قرص لاسلكي لأجهزة iPhone وiPad من تطوي
     subtitle="فعّل مكتبة صورك وموسيقاك كاملة فيصبح كل ألبوم وكل مقطع متاحاً عبر الشبكة بالجودة الأصلية." 
   >}} 
 
-  {{< feature-card 
+  {{< design-feature-card 
     icon="photograph"
     image="/products/everdisk/screenshots/photo_gallery.png"  
     title="معرض الصور" 

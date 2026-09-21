@@ -130,7 +130,7 @@ Ubah iPhone atau iPad jadi drive nirkabel yang berbagi file dengan <strong>peran
 
 {{< cards cols="4">}}
 
-  {{< feature-card 
+  {{< design-feature-card 
     icon="globe-alt"
     image="/products/everdisk/screenshots/browser_access.png" 
     title="Akses Lewat Browser" 
@@ -139,7 +139,7 @@ Ubah iPhone atau iPad jadi drive nirkabel yang berbagi file dengan <strong>peran
     subtitle="Bagikan tautan dan biarkan siapa pun menjelajah, melihat pratinjau, serta mengunduh file Anda dari browser web mana pun. Tanpa perlu memasang apa pun di sisi lain." 
   >}}
 
-  {{< feature-card 
+  {{< design-feature-card 
     icon="server"
     image="/products/everdisk/screenshots/connect_to_servers.png"  
     title="Sambungkan ke Server" 
@@ -148,7 +148,7 @@ Ubah iPhone atau iPad jadi drive nirkabel yang berbagi file dengan <strong>peran
     subtitle="Temukan dan sambungkan ke server DLNA, WebDAV, FTP, SFTP, dan SMB di jaringan Anda untuk menjelajah, streaming, dan mengunduh file mereka." 
   >}}
 
-  {{< feature-card 
+  {{< design-feature-card 
     icon="folder"
     image="/products/everdisk/screenshots/file_manager.png"  
     title="Pengelola File" 
@@ -157,7 +157,7 @@ Ubah iPhone atau iPad jadi drive nirkabel yang berbagi file dengan <strong>peran
     subtitle="Kelola semua yang ada di perangkat Anda: jelajahi dalam daftar atau grid, buat folder, ganti nama, pindahkan, salin, zip dan unzip, serta hapus." 
   >}}
 
-  {{< feature-card 
+  {{< design-feature-card 
     icon="play"
     image="/products/everdisk/screenshots/play_in_the_app.png"  
     title="Putar di Dalam Aplikasi" 
@@ -166,7 +166,7 @@ Ubah iPhone atau iPad jadi drive nirkabel yang berbagi file dengan <strong>peran
     subtitle="Dengarkan lagu lokal Anda atau streaming dari perangkat yang terhubung, lengkap dengan antrean mini player dan pemutaran video layar penuh." 
   >}}
 
-  {{< feature-card 
+  {{< design-feature-card 
     icon="music-note"
     image="/products/everdisk/screenshots/share_your_library.png"  
     title="Bagikan Koleksi Anda" 
@@ -175,7 +175,7 @@ Ubah iPhone atau iPad jadi drive nirkabel yang berbagi file dengan <strong>peran
     subtitle="Aktifkan seluruh koleksi foto dan musik Anda dan setiap album serta lagu jadi tersedia lewat jaringan dalam kualitas asli." 
   >}} 
 
-  {{< feature-card 
+  {{< design-feature-card 
     icon="photograph"
     image="/products/everdisk/screenshots/photo_gallery.png"  
     title="Galeri Foto" 

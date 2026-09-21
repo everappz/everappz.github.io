@@ -130,7 +130,7 @@ Zamień iPhone lub iPad w bezprzewodowy dysk który udostępnia pliki <strong>ka
 
 {{< cards cols="4">}}
 
-  {{< feature-card 
+  {{< design-feature-card 
     icon="globe-alt"
     image="/products/everdisk/screenshots/browser_access.png" 
     title="Dostęp z przeglądarki" 
@@ -139,7 +139,7 @@ Zamień iPhone lub iPad w bezprzewodowy dysk który udostępnia pliki <strong>ka
     subtitle="Udostępnij link i pozwól każdemu przeglądać, podglądać i pobierać Twoje pliki z dowolnej przeglądarki. Nic do zainstalowania po drugiej stronie." 
   >}}
 
-  {{< feature-card 
+  {{< design-feature-card 
     icon="server"
     image="/products/everdisk/screenshots/connect_to_servers.png"  
     title="Łącz się z serwerami" 
@@ -148,7 +148,7 @@ Zamień iPhone lub iPad w bezprzewodowy dysk który udostępnia pliki <strong>ka
     subtitle="Wykrywaj i łącz się z serwerami DLNA, WebDAV, FTP, SFTP i SMB w Twojej sieci, aby przeglądać, strumieniować i pobierać ich pliki." 
   >}}
 
-  {{< feature-card 
+  {{< design-feature-card 
     icon="folder"
     image="/products/everdisk/screenshots/file_manager.png"  
     title="Menedżer plików" 
@@ -157,7 +157,7 @@ Zamień iPhone lub iPad w bezprzewodowy dysk który udostępnia pliki <strong>ka
     subtitle="Zarządzaj wszystkim na swoim urządzeniu: przeglądaj w liście lub siatce, twórz foldery, zmieniaj nazwy, przenoś, kopiuj, pakuj i rozpakowuj oraz usuwaj." 
   >}}
 
-  {{< feature-card 
+  {{< design-feature-card 
     icon="play"
     image="/products/everdisk/screenshots/play_in_the_app.png"  
     title="Odtwarzaj w aplikacji" 
@@ -166,7 +166,7 @@ Zamień iPhone lub iPad w bezprzewodowy dysk który udostępnia pliki <strong>ka
     subtitle="Słuchaj lokalnych utworów lub strumieniuj z podłączonych urządzeń, z kolejką mini odtwarzacza i odtwarzaniem wideo na pełnym ekranie." 
   >}}
 
-  {{< feature-card 
+  {{< design-feature-card 
     icon="music-note"
     image="/products/everdisk/screenshots/share_your_library.png"  
     title="Udostępnij swoją bibliotekę" 
@@ -175,7 +175,7 @@ Zamień iPhone lub iPad w bezprzewodowy dysk który udostępnia pliki <strong>ka
     subtitle="Włącz całą bibliotekę zdjęć i muzyki, a każdy album i utwór stanie się dostępny w sieci w oryginalnej jakości." 
   >}} 
 
-  {{< feature-card 
+  {{< design-feature-card 
     icon="photograph"
     image="/products/everdisk/screenshots/photo_gallery.png"  
     title="Galeria zdjęć" 

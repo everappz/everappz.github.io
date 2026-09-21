@@ -130,7 +130,7 @@ Pretvorite iPhone ili iPad u bežični disk koji dijeli datoteke sa <strong>svak
 
 {{< cards cols="4">}}
 
-  {{< feature-card 
+  {{< design-feature-card 
     icon="globe-alt"
     image="/products/everdisk/screenshots/browser_access.png" 
     title="Pristup putem preglednika" 
@@ -139,7 +139,7 @@ Pretvorite iPhone ili iPad u bežični disk koji dijeli datoteke sa <strong>svak
     subtitle="Podijelite poveznicu i dopustite svakome da pregledava, pregledava i preuzima vaše datoteke iz bilo kojeg web preglednika. Ništa za instalirati na drugoj strani." 
   >}}
 
-  {{< feature-card 
+  {{< design-feature-card 
     icon="server"
     image="/products/everdisk/screenshots/connect_to_servers.png"  
     title="Povezivanje s poslužiteljima" 
@@ -148,7 +148,7 @@ Pretvorite iPhone ili iPad u bežični disk koji dijeli datoteke sa <strong>svak
     subtitle="Otkrijte i povežite se s DLNA, WebDAV, FTP, SFTP i SMB poslužiteljima na vašoj mreži kako biste pregledavali, strujali i preuzimali njihove datoteke." 
   >}}
 
-  {{< feature-card 
+  {{< design-feature-card 
     icon="folder"
     image="/products/everdisk/screenshots/file_manager.png"  
     title="Upravitelj datoteka" 
@@ -157,7 +157,7 @@ Pretvorite iPhone ili iPad u bežični disk koji dijeli datoteke sa <strong>svak
     subtitle="Upravljajte svime na svom uređaju: pregledavajte u popisu ili mreži, stvarajte mape, preimenujte, premještajte, kopirajte, zip i unzip te brišite." 
   >}}
 
-  {{< feature-card 
+  {{< design-feature-card 
     icon="play"
     image="/products/everdisk/screenshots/play_in_the_app.png"  
     title="Reproducirajte u aplikaciji" 
@@ -166,7 +166,7 @@ Pretvorite iPhone ili iPad u bežični disk koji dijeli datoteke sa <strong>svak
     subtitle="Slušajte svoje lokalne pjesme ili strujajte s povezanih uređaja, uz red čekanja u mini reproduktoru i reprodukciju videa preko cijelog zaslona." 
   >}}
 
-  {{< feature-card 
+  {{< design-feature-card 
     icon="music-note"
     image="/products/everdisk/screenshots/share_your_library.png"  
     title="Podijelite svoju biblioteku" 
@@ -175,7 +175,7 @@ Pretvorite iPhone ili iPad u bežični disk koji dijeli datoteke sa <strong>svak
     subtitle="Uključite cijelu biblioteku fotografija i glazbe i svaki album i pjesma postaju dostupni putem mreže u izvornoj kvaliteti." 
   >}} 
 
-  {{< feature-card 
+  {{< design-feature-card 
     icon="photograph"
     image="/products/everdisk/screenshots/photo_gallery.png"  
     title="Galerija fotografija" 

@@ -1,0 +1,96 @@
+{{- /*
+  design-feature-card: the image card used ONLY in the products' "Clean & Simple
+  Design" sections. Same as `feature-card`, but:
+    - adds the `design-feature-card` class (so this section is styleable on its own),
+    - defaults the Fill crop anchor to `Top` (screenshots read top-down; the bottom
+      is truncated). An explicit anchor in `options` still wins.
+  Accepts the same params as `feature-card`.
+*/ -}}
+{{- $link := .Get "link" -}}
+{{- $title := .Get "title" -}}
+{{- $icon := .Get "icon" -}}
+{{- $subtitle := .Get "subtitle" -}}
+{{- $image := .Get "image" -}}
+{{- $alt := .Get "alt" | default $title -}}
+{{- $width := 0 -}}
+{{- $height := 0 -}}
+{{- $imageStyle := .Get "imageStyle" -}}
+{{- $tag := .Get "tag" -}}
+{{- $tagColor := .Get "tagColor" | default (.Get "tagType") | default "" -}}
+{{- $tagBorder := not (eq (.Get "tagBorder") false) | default true }}
+{{- $tagIcon := .Get "tagIcon" | default "" -}}
+
+{{/* Image processing options */}}
+{{- $method := .Get "method" | default "Resize" | humanize -}}
+{{- $options := .Get "options" | default "800x webp q80" -}}
+{{- $process := .Get "process" | default (printf "%s %s" $method $options) -}}
+{{- $sizes := .Get "sizes" | default "(max-width: 768px) 100vw, 515px" -}}
+{{- $imageResource := false -}}
+{{- $specs := slice -}}
+
+{{- if and $image (not (urls.Parse $image).Scheme) -}}
+  {{- with or (.Page.Resources.Get $image) (resources.Get $image) -}}
+    {{- if (not (eq .MediaType.SubType "svg")) -}}
+      {{- $imageResource = . -}}
+    {{- else -}}
+      {{- $image = .RelPermalink -}}
+    {{- end -}}
+  {{ else }}
+    {{- if hasPrefix $image "/" -}}
+      {{- $image = relURL (strings.TrimPrefix "/" $image) -}}
+    {{- end -}}
+  {{- end -}}
+{{- end -}}
+
+{{- if $imageResource -}}
+  {{- $sw := $imageResource.Width -}}
+  {{- $sh := $imageResource.Height -}}
+  {{- $q := "80" -}}
+  {{- with (findRE `q[0-9]+` $options 1) -}}{{- $q = replace (index . 0) "q" "" -}}{{- end -}}
+  {{- $anchor := "" -}}
+  {{- range (slice "Center" "Smart" "TopLeft" "TopRight" "BottomLeft" "BottomRight" "Top" "Bottom" "Left" "Right") -}}
+    {{- if and (not $anchor) (in $options .) -}}{{- $anchor = . -}}{{- end -}}
+  {{- end -}}
+  {{- /* Design cards crop from the TOP by default; explicit anchor wins. */ -}}
+  {{- if and (not $anchor) (eq $method "Fill") -}}{{- $anchor = "Top" -}}{{- end -}}
+  {{- $geo := index (findRE `[0-9]+x[0-9]+` $options 1) 0 -}}
+  {{- if $geo -}}
+    {{- $parts := split $geo "x" -}}
+    {{- $bw := int (index $parts 0) -}}
+    {{- $bh := int (index $parts 1) -}}
+    {{- $aspect := div (float $bh) (float $bw) -}}
+    {{- range (slice 515 1030) -}}
+      {{- $w := . -}}
+      {{- $h := int (math.Round (mul (float $w) $aspect)) -}}
+      {{- if and (le $w $sw) (le $h $sh) -}}
+        {{- $spec := printf "%s %dx%d" $method $w $h -}}
+        {{- with $anchor -}}{{- $spec = printf "%s %s" $spec . -}}{{- end -}}
+        {{- $spec = printf "%s q%s webp" $spec $q -}}
+        {{- $specs = $specs | append $spec -}}
+      {{- end -}}
+    {{- end -}}
+  {{- end -}}
+  {{- if not $specs -}}{{- $specs = slice $process -}}{{- end -}}
+{{- end -}}
+
+{{- partial "shortcodes/feature-card" (dict
+  "page"          .Page
+  "link"          $link
+  "title"         $title
+  "icon"          $icon
+  "subtitle"      $subtitle
+  "image"         $image
+  "imageResource" $imageResource
+  "specs"         $specs
+  "sizes"         $sizes
+  "alt"           $alt
+  "width"         $width
+  "height"        $height
+  "imageStyle"    $imageStyle
+  "tag"           $tag
+  "tagType"       $tagColor
+  "tagBorder"     $tagBorder
+  "tagIcon"       $tagIcon
+  "cardClass"     "design-feature-card"
+  )
+-}}

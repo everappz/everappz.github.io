@@ -130,7 +130,7 @@ Gør din iPhone eller iPad til et trådløst drev der deler filer med <strong>en
 
 {{< cards cols="4">}}
 
-  {{< feature-card 
+  {{< design-feature-card 
     icon="globe-alt"
     image="/products/everdisk/screenshots/browser_access.png" 
     title="Browseradgang" 
@@ -139,7 +139,7 @@ Gør din iPhone eller iPad til et trådløst drev der deler filer med <strong>en
     subtitle="Del et link, og lad hvem som helst gennemse, forhåndsvise og downloade dine filer fra enhver webbrowser. Intet at installere i den anden ende." 
   >}}
 
-  {{< feature-card 
+  {{< design-feature-card 
     icon="server"
     image="/products/everdisk/screenshots/connect_to_servers.png"  
     title="Forbind til servere" 
@@ -148,7 +148,7 @@ Gør din iPhone eller iPad til et trådløst drev der deler filer med <strong>en
     subtitle="Find og forbind til DLNA-, WebDAV-, FTP-, SFTP- og SMB-servere på dit netværk for at gennemse, streame og downloade deres filer." 
   >}}
 
-  {{< feature-card 
+  {{< design-feature-card 
     icon="folder"
     image="/products/everdisk/screenshots/file_manager.png"  
     title="Filhåndtering" 
@@ -157,7 +157,7 @@ Gør din iPhone eller iPad til et trådløst drev der deler filer med <strong>en
     subtitle="Administrer alt på din enhed: gennemse i liste eller gitter, opret mapper, omdøb, flyt, kopier, zip og udpak samt slet." 
   >}}
 
-  {{< feature-card 
+  {{< design-feature-card 
     icon="play"
     image="/products/everdisk/screenshots/play_in_the_app.png"  
     title="Afspil i appen" 
@@ -166,7 +166,7 @@ Gør din iPhone eller iPad til et trådløst drev der deler filer med <strong>en
     subtitle="Lyt til dine lokale numre eller stream fra tilsluttede enheder, med en miniafspillerkø og videoafspilning i fuld skærm." 
   >}}
 
-  {{< feature-card 
+  {{< design-feature-card 
     icon="music-note"
     image="/products/everdisk/screenshots/share_your_library.png"  
     title="Del dit bibliotek" 
@@ -175,7 +175,7 @@ Gør din iPhone eller iPad til et trådløst drev der deler filer med <strong>en
     subtitle="Slå hele dit billed- og musikbibliotek til, så hvert album og nummer bliver tilgængeligt over netværket i original kvalitet." 
   >}} 
 
-  {{< feature-card 
+  {{< design-feature-card 
     icon="photograph"
     image="/products/everdisk/screenshots/photo_gallery.png"  
     title="Billedgalleri" 

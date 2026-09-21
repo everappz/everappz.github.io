@@ -130,7 +130,7 @@ Everdisk - это приложение-беспроводной диск для 
 
 {{< cards cols="4">}}
 
-  {{< feature-card 
+  {{< design-feature-card 
     icon="globe-alt"
     image="/products/everdisk/screenshots/browser_access.png" 
     title="Доступ из браузера" 
@@ -139,7 +139,7 @@ Everdisk - это приложение-беспроводной диск для 
     subtitle="Отправьте ссылку, и любой сможет просматривать, смотреть превью и скачивать ваши файлы из любого браузера. Ничего устанавливать на другой стороне не нужно." 
   >}}
 
-  {{< feature-card 
+  {{< design-feature-card 
     icon="server"
     image="/products/everdisk/screenshots/connect_to_servers.png"  
     title="Подключение к серверам" 
@@ -148,7 +148,7 @@ Everdisk - это приложение-беспроводной диск для 
     subtitle="Находите и подключайтесь к серверам DLNA, WebDAV, FTP, SFTP и SMB в вашей сети, чтобы просматривать, транслировать и загружать их файлы." 
   >}}
 
-  {{< feature-card 
+  {{< design-feature-card 
     icon="folder"
     image="/products/everdisk/screenshots/file_manager.png"  
     title="Файловый менеджер" 
@@ -157,7 +157,7 @@ Everdisk - это приложение-беспроводной диск для 
     subtitle="Управляйте всем на вашем устройстве: просматривайте списком или сеткой, создавайте папки, переименовывайте, перемещайте, копируйте, архивируйте и распаковывайте, а также удаляйте." 
   >}}
 
-  {{< feature-card 
+  {{< design-feature-card 
     icon="play"
     image="/products/everdisk/screenshots/play_in_the_app.png"  
     title="Воспроизведение в приложении" 
@@ -166,7 +166,7 @@ Everdisk - это приложение-беспроводной диск для 
     subtitle="Слушайте локальные треки или транслируйте с подключенных устройств, с очередью в мини-плеере и полноэкранным просмотром видео." 
   >}}
 
-  {{< feature-card 
+  {{< design-feature-card 
     icon="music-note"
     image="/products/everdisk/screenshots/share_your_library.png"  
     title="Делитесь библиотекой" 
@@ -175,7 +175,7 @@ Everdisk - это приложение-беспроводной диск для 
     subtitle="Включите доступ ко всей библиотеке фото и музыки, и каждый альбом и трек станут доступны по сети в оригинальном качестве." 
   >}} 
 
-  {{< feature-card 
+  {{< design-feature-card 
     icon="photograph"
     image="/products/everdisk/screenshots/photo_gallery.png"  
     title="Фотогалерея" 

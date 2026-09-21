@@ -133,7 +133,7 @@ Evermusic เป็นแอปเล่นเพลงออฟไลน์ฟ�
 
 {{< cards cols="4">}}
 
-  {{< feature-card 
+  {{< design-feature-card 
     icon="adjustments"
     image="/products/evermusic/screenshots/2048x2732/3.png" 
     title="อีควอไลเซอร์เสียง" 
@@ -142,7 +142,7 @@ Evermusic เป็นแอปเล่นเพลงออฟไลน์ฟ�
     subtitle="ปรับแต่งเสียงของคุณด้วยอีควอไลเซอร์สไตล์ iPod พรีเซ็ตที่ปรับแต่งได้ และพรีแอมป์เกนเพื่อประสบการณ์การฟังที่ดีที่สุด" 
   >}}
 
-  {{< feature-card 
+  {{< design-feature-card 
     icon="annotation"
     image="/products/evermusic/screenshots/2048x2732/4.png"  
     title="ตัวแสดงเนื้อเพลง" 
@@ -151,7 +151,7 @@ Evermusic เป็นแอปเล่นเพลงออฟไลน์ฟ�
     subtitle="อ่านเนื้อเพลงที่ฝังไว้และความคิดเห็นของเพลงขณะฟัง เพลิดเพลินกับเนื้อเพลงซิงโครไนซ์เพื่อประสบการณ์ดนตรีที่ดื่มด่ำยิ่งขึ้น" 
   >}}
 
-  {{< feature-card 
+  {{< design-feature-card 
     icon="collection"
     image="/products/evermusic/screenshots/2048x2732/5.png"  
     title="ตัวจัดการเพลย์ลิสต์" 
@@ -160,7 +160,7 @@ Evermusic เป็นแอปเล่นเพลงออฟไลน์ฟ�
     subtitle="สร้างและจัดระเบียบเพลย์ลิสต์แบบกำหนดเอง เรียงลำดับเพลง ส่งออกเป็น M3U หรือเก็บถาวรเป็นไฟล์ ZIP เพื่อการแชร์หรือสำรองข้อมูลอย่างง่ายดาย" 
   >}}
 
-  {{< feature-card 
+  {{< design-feature-card 
     icon="cloud"
     image="/products/evermusic/screenshots/2048x2732/6.png"  
     title="สตรีมเพลงจากคลาวด์" 
@@ -169,7 +169,7 @@ Evermusic เป็นแอปเล่นเพลงออฟไลน์ฟ�
     subtitle="เชื่อมต่อแพลตฟอร์มจัดเก็บคลาวด์ชั้นนำ เช่น Google Drive, Dropbox และ OneDrive เพื่อสตรีมคอลเลกชันเพลงของคุณได้ทุกที่ทุกเวลา" 
   >}}
 
-  {{< feature-card 
+  {{< design-feature-card 
     icon="duplicate"
     image="/products/evermusic/screenshots/2048x2732/9.png"  
     title="ตัวจัดการไฟล์" 
@@ -178,7 +178,7 @@ Evermusic เป็นแอปเล่นเพลงออฟไลน์ฟ�
     subtitle="จัดการไฟล์เสียงได้ง่าย เปลี่ยนชื่อเพลง จัดระเบียบโฟลเดอร์ และถ่ายโอนเพลงระหว่างอุปกรณ์โดยใช้เครื่องมือในตัว" 
   >}} 
 
-  {{< feature-card 
+  {{< design-feature-card 
     icon="sun"
     image="/products/evermusic/screenshots/2048x2732/10.png"  
     title="การปรับแต่งแอป" 

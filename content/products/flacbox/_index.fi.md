@@ -164,7 +164,7 @@ Intuitiivinen muotoilu
 
 {{< cards cols="4">}}
 
-  {{< feature-card 
+  {{< design-feature-card 
     image="/products/flacbox/screenshots/2048x2732/1.png" 
     title="Äänisoitin" 
     method="Fill"
@@ -173,7 +173,7 @@ Intuitiivinen muotoilu
     icon="play"
   >}}
 
-  {{< feature-card 
+  {{< design-feature-card 
     image="/products/flacbox/screenshots/2048x2732/2.png"  
     title="Äänitaajuuskorjain" 
     method="Fill"
@@ -182,7 +182,7 @@ Intuitiivinen muotoilu
     icon="adjustments"
   >}}
 
-  {{< feature-card 
+  {{< design-feature-card 
     image="/products/flacbox/screenshots/2048x2732/3.png"  
     title="Soittolistojen hallinta" 
     method="Fill"
@@ -191,7 +191,7 @@ Intuitiivinen muotoilu
     icon="collection"
   >}}
 
-  {{< feature-card 
+  {{< design-feature-card 
     image="/products/flacbox/screenshots/2048x2732/5.png"  
     title="Musiikkikirjasto" 
     method="Fill"
@@ -200,7 +200,7 @@ Intuitiivinen muotoilu
     icon="library"
   >}}
 
-  {{< feature-card 
+  {{< design-feature-card 
     image="/products/flacbox/screenshots/2048x2732/7.png"  
     title="Pilvitallennustila" 
     method="Fill"
@@ -209,7 +209,7 @@ Intuitiivinen muotoilu
     icon="cloud"
   >}}
 
-  {{< feature-card 
+  {{< design-feature-card 
     image="/products/flacbox/screenshots/2048x2732/8.png"  
     title="iCloud Drive" 
     method="Fill"

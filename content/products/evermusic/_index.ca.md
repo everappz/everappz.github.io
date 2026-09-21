@@ -133,7 +133,7 @@ Evermusic és un reproductor de música gratuït sense connexió per a iPhone i 
 
 {{< cards cols="4">}}
 
-  {{< feature-card 
+  {{< design-feature-card 
     icon="adjustments"
     image="/products/evermusic/screenshots/2048x2732/3.png" 
     title="Equalitzador d'àudio" 
@@ -142,7 +142,7 @@ Evermusic és un reproductor de música gratuït sense connexió per a iPhone i 
     subtitle="Ajusta el teu so amb un equalitzador d'àudio estil iPod, presets personalitzables i guany de preamplificador per a la millor experiència d'escolta." 
   >}}
 
-  {{< feature-card 
+  {{< design-feature-card 
     icon="annotation"
     image="/products/evermusic/screenshots/2048x2732/4.png"  
     title="Visor de lletres" 
@@ -151,7 +151,7 @@ Evermusic és un reproductor de música gratuït sense connexió per a iPhone i 
     subtitle="Llegeix les lletres integrades i els comentaris de les pistes mentre escoltes. Gaudeix de lletres sincronitzades per a una experiència musical més immersiva." 
   >}}
 
-  {{< feature-card 
+  {{< design-feature-card 
     icon="collection"
     image="/products/evermusic/screenshots/2048x2732/5.png"  
     title="Gestor de llistes de reproducció" 
@@ -160,7 +160,7 @@ Evermusic és un reproductor de música gratuït sense connexió per a iPhone i 
     subtitle="Crea i organitza llistes de reproducció personalitzades, reordena cançons, exporta a M3U o arxiva-les com a fitxers ZIP per compartir o fer còpies de seguretat fàcilment." 
   >}}
 
-  {{< feature-card 
+  {{< design-feature-card 
     icon="cloud"
     image="/products/evermusic/screenshots/2048x2732/6.png"  
     title="Streaming de música al núvol" 
@@ -169,7 +169,7 @@ Evermusic és un reproductor de música gratuït sense connexió per a iPhone i 
     subtitle="Connecta les millors plataformes d'emmagatzematge al núvol com Google Drive, Dropbox i OneDrive per transmetre la teva col·lecció de música en qualsevol moment i lloc." 
   >}}
 
-  {{< feature-card 
+  {{< design-feature-card 
     icon="duplicate"
     image="/products/evermusic/screenshots/2048x2732/9.png"  
     title="Gestor de fitxers" 
@@ -178,7 +178,7 @@ Evermusic és un reproductor de música gratuït sense connexió per a iPhone i 
     subtitle="Gestiona els teus fitxers d'àudio fàcilment: reanomena pistes, organitza carpetes i transfereix música entre dispositius amb les eines integrades." 
   >}} 
 
-  {{< feature-card 
+  {{< design-feature-card 
     icon="sun"
     image="/products/evermusic/screenshots/2048x2732/10.png"  
     title="Personalització de l'aplicació" 

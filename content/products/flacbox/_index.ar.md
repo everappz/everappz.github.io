@@ -164,7 +164,7 @@ Flacbox يشغل أيضاً MP3 و AAC و OGG و APE و MOD و MKA وحاويا�
 
 {{< cards cols="4">}}
 
-  {{< feature-card 
+  {{< design-feature-card 
     image="/products/flacbox/screenshots/2048x2732/1.png" 
     title="مشغل الصوت" 
     method="Fill"
@@ -173,7 +173,7 @@ Flacbox يشغل أيضاً MP3 و AAC و OGG و APE و MOD و MKA وحاويا�
     icon="play"
   >}}
 
-  {{< feature-card 
+  {{< design-feature-card 
     image="/products/flacbox/screenshots/2048x2732/2.png"  
     title="معادل الصوت" 
     method="Fill"
@@ -182,7 +182,7 @@ Flacbox يشغل أيضاً MP3 و AAC و OGG و APE و MOD و MKA وحاويا�
     icon="adjustments"
   >}}
 
-  {{< feature-card 
+  {{< design-feature-card 
     image="/products/flacbox/screenshots/2048x2732/3.png"  
     title="مدير قوائم التشغيل" 
     method="Fill"
@@ -191,7 +191,7 @@ Flacbox يشغل أيضاً MP3 و AAC و OGG و APE و MOD و MKA وحاويا�
     icon="collection"
   >}}
 
-  {{< feature-card 
+  {{< design-feature-card 
     image="/products/flacbox/screenshots/2048x2732/5.png"  
     title="مكتبة الوسائط" 
     method="Fill"
@@ -200,7 +200,7 @@ Flacbox يشغل أيضاً MP3 و AAC و OGG و APE و MOD و MKA وحاويا�
     icon="library"
   >}}
 
-  {{< feature-card 
+  {{< design-feature-card 
     image="/products/flacbox/screenshots/2048x2732/7.png"  
     title="التخزين السحابي" 
     method="Fill"
@@ -209,7 +209,7 @@ Flacbox يشغل أيضاً MP3 و AAC و OGG و APE و MOD و MKA وحاويا�
     icon="cloud"
   >}}
 
-  {{< feature-card 
+  {{< design-feature-card 
     image="/products/flacbox/screenshots/2048x2732/8.png"  
     title="iCloud Drive" 
     method="Fill"

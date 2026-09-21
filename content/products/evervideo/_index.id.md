@@ -178,7 +178,7 @@ Desain Intuitif
 
 {{< cards cols="4">}}
 
-  {{< feature-card 
+  {{< design-feature-card 
     image="/products/evervideo/screenshots/2880x1800/1.png" 
     title="Pemutar Video" 
     method="Fill"
@@ -187,7 +187,7 @@ Desain Intuitif
     icon="play"
   >}}
 
-  {{< feature-card 
+  {{< design-feature-card 
     image="/products/evervideo/screenshots/2880x1800/3.png" 
     title="Equalizer Audio & Video" 
     method="Fill"
@@ -196,7 +196,7 @@ Desain Intuitif
     icon="adjustments"
   >}}
 
-  {{< feature-card 
+  {{< design-feature-card 
     image="/products/evervideo/screenshots/2880x1800/6.png" 
     title="Manajer Playlist" 
     method="Fill"
@@ -205,7 +205,7 @@ Desain Intuitif
     icon="collection"
   >}}
 
-  {{< feature-card 
+  {{< design-feature-card 
     image="/products/evervideo/screenshots/2880x1800/5.png" 
     title="Perpustakaan Media" 
     method="Fill"
@@ -214,7 +214,7 @@ Desain Intuitif
     icon="library"
   >}}
 
-  {{< feature-card 
+  {{< design-feature-card 
     image="/products/evervideo/screenshots/2880x1800/7.png"  
     title="Penyimpanan Cloud" 
     method="Fill"
@@ -223,7 +223,7 @@ Desain Intuitif
     icon="cloud"
   >}}
 
-  {{< feature-card 
+  {{< design-feature-card 
     image="/products/evervideo/screenshots/2880x1800/9.png"  
     title="Manajer File" 
     method="Fill"

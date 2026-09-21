@@ -178,7 +178,7 @@ Intuitivt design
 
 {{< cards cols="4">}}
 
-  {{< feature-card 
+  {{< design-feature-card 
     image="/products/evervideo/screenshots/2880x1800/1.png" 
     title="Videospiller" 
     method="Fill"
@@ -187,7 +187,7 @@ Intuitivt design
     icon="play"
   >}}
 
-  {{< feature-card 
+  {{< design-feature-card 
     image="/products/evervideo/screenshots/2880x1800/3.png" 
     title="Lyd- og videoequalizer" 
     method="Fill"
@@ -196,7 +196,7 @@ Intuitivt design
     icon="adjustments"
   >}}
 
-  {{< feature-card 
+  {{< design-feature-card 
     image="/products/evervideo/screenshots/2880x1800/6.png" 
     title="Spillelistebehandler" 
     method="Fill"
@@ -205,7 +205,7 @@ Intuitivt design
     icon="collection"
   >}}
 
-  {{< feature-card 
+  {{< design-feature-card 
     image="/products/evervideo/screenshots/2880x1800/5.png" 
     title="Mediebibliotek" 
     method="Fill"
@@ -214,7 +214,7 @@ Intuitivt design
     icon="library"
   >}}
 
-  {{< feature-card 
+  {{< design-feature-card 
     image="/products/evervideo/screenshots/2880x1800/7.png"  
     title="Skylagring" 
     method="Fill"
@@ -223,7 +223,7 @@ Intuitivt design
     icon="cloud"
   >}}
 
-  {{< feature-card 
+  {{< design-feature-card 
     image="/products/evervideo/screenshots/2880x1800/9.png"  
     title="Filbehandler" 
     method="Fill"

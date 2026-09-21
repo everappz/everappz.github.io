@@ -133,7 +133,7 @@ Evermusic je bezplatný offline hudobný prehrávač pre iPhone a Mac vyvinutý 
 
 {{< cards cols="4">}}
 
-  {{< feature-card 
+  {{< design-feature-card 
     icon="adjustments"
     image="/products/evermusic/screenshots/2048x2732/3.png" 
     title="Audio ekvalizér" 
@@ -142,7 +142,7 @@ Evermusic je bezplatný offline hudobný prehrávač pre iPhone a Mac vyvinutý 
     subtitle="Dolaďte zvuk pomocou audio ekvalizéra v štýle iPod, prispôsobiteľných predvolieb a zosilnenia predzosilňovača pre najlepší hudobný zážitok." 
   >}}
 
-  {{< feature-card 
+  {{< design-feature-card 
     icon="annotation"
     image="/products/evermusic/screenshots/2048x2732/4.png"  
     title="Prehliadač textov" 
@@ -151,7 +151,7 @@ Evermusic je bezplatný offline hudobný prehrávač pre iPhone a Mac vyvinutý 
     subtitle="Čítajte vložené texty piesní a komentáre k skladbám počas počúvania. Užívajte si synchronizované texty pre hlbší hudobný zážitok." 
   >}}
 
-  {{< feature-card 
+  {{< design-feature-card 
     icon="collection"
     image="/products/evermusic/screenshots/2048x2732/5.png"  
     title="Správca playlistov" 
@@ -160,7 +160,7 @@ Evermusic je bezplatný offline hudobný prehrávač pre iPhone a Mac vyvinutý 
     subtitle="Vytvárajte a organizujte vlastné playlisty, meniete poradie skladieb, exportujte do M3U alebo archivujte ako ZIP súbory na jednoduché zdieľanie alebo zálohovanie." 
   >}}
 
-  {{< feature-card 
+  {{< design-feature-card 
     icon="cloud"
     image="/products/evermusic/screenshots/2048x2732/6.png"  
     title="Streamovanie hudby z cloudu" 
@@ -169,7 +169,7 @@ Evermusic je bezplatný offline hudobný prehrávač pre iPhone a Mac vyvinutý 
     subtitle="Pripojte populárne cloudové platformy ako Google Drive, Dropbox a OneDrive a streamujte svoju hudobnú zbierku kedykoľvek a kdekoľvek." 
   >}}
 
-  {{< feature-card 
+  {{< design-feature-card 
     icon="duplicate"
     image="/products/evermusic/screenshots/2048x2732/9.png"  
     title="Správca súborov" 
@@ -178,7 +178,7 @@ Evermusic je bezplatný offline hudobný prehrávač pre iPhone a Mac vyvinutý 
     subtitle="Jednoducho spravujte audio súbory — premenúvajte skladby, organizujte priečinky a prenášajte hudbu medzi zariadeniami pomocou vstavaných nástrojov." 
   >}} 
 
-  {{< feature-card 
+  {{< design-feature-card 
     icon="sun"
     image="/products/evermusic/screenshots/2048x2732/10.png"  
     title="Prispôsobenie aplikácie" 

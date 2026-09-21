@@ -133,7 +133,7 @@ O Evermusic é um reprodutor de música offline gratuito para iPhone e Mac desen
 
 {{< cards cols="4">}}
 
-  {{< feature-card 
+  {{< design-feature-card 
     icon="adjustments"
     image="/products/evermusic/screenshots/2048x2732/3.png" 
     title="Equalizador de áudio" 
@@ -142,7 +142,7 @@ O Evermusic é um reprodutor de música offline gratuito para iPhone e Mac desen
     subtitle="Ajuste o som com um equalizador de áudio estilo iPod, predefinições personalizáveis e ganho de pré-amplificador para a melhor experiência auditiva." 
   >}}
 
-  {{< feature-card 
+  {{< design-feature-card 
     icon="annotation"
     image="/products/evermusic/screenshots/2048x2732/4.png"  
     title="Visualizador de letras" 
@@ -151,7 +151,7 @@ O Evermusic é um reprodutor de música offline gratuito para iPhone e Mac desen
     subtitle="Leia letras incorporadas e comentários de faixas enquanto ouve. Aproveite letras sincronizadas para uma experiência musical mais envolvente." 
   >}}
 
-  {{< feature-card 
+  {{< design-feature-card 
     icon="collection"
     image="/products/evermusic/screenshots/2048x2732/5.png"  
     title="Gerenciador de playlists" 
@@ -160,7 +160,7 @@ O Evermusic é um reprodutor de música offline gratuito para iPhone e Mac desen
     subtitle="Crie e organize playlists personalizadas, reordene músicas, exporte para M3U ou arquive como ZIP para compartilhamento fácil ou backup." 
   >}}
 
-  {{< feature-card 
+  {{< design-feature-card 
     icon="cloud"
     image="/products/evermusic/screenshots/2048x2732/6.png"  
     title="Streaming de música na nuvem" 
@@ -169,7 +169,7 @@ O Evermusic é um reprodutor de música offline gratuito para iPhone e Mac desen
     subtitle="Conecte plataformas populares de armazenamento como Google Drive, Dropbox e OneDrive para transmitir sua coleção musical a qualquer hora, em qualquer lugar." 
   >}}
 
-  {{< feature-card 
+  {{< design-feature-card 
     icon="duplicate"
     image="/products/evermusic/screenshots/2048x2732/9.png"  
     title="Gerenciador de arquivos" 
@@ -178,7 +178,7 @@ O Evermusic é um reprodutor de música offline gratuito para iPhone e Mac desen
     subtitle="Gerencie facilmente seus arquivos de áudio — renomeie faixas, organize pastas e transfira música entre dispositivos usando ferramentas integradas." 
   >}} 
 
-  {{< feature-card 
+  {{< design-feature-card 
     icon="sun"
     image="/products/evermusic/screenshots/2048x2732/10.png"  
     title="Personalização do aplicativo" 

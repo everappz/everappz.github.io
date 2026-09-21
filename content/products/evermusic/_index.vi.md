@@ -133,7 +133,7 @@ Evermusic là trình phát nhạc ngoại tuyến miễn phí dành cho iPhone v
 
 {{< cards cols="4">}}
 
-  {{< feature-card 
+  {{< design-feature-card 
     icon="adjustments"
     image="/products/evermusic/screenshots/2048x2732/3.png" 
     title="Bộ cân bằng âm thanh" 
@@ -142,7 +142,7 @@ Evermusic là trình phát nhạc ngoại tuyến miễn phí dành cho iPhone v
     subtitle="Tinh chỉnh âm thanh với bộ cân bằng kiểu iPod, cài đặt sẵn tùy chỉnh và khuếch đại preamp để có trải nghiệm nghe tốt nhất." 
   >}}
 
-  {{< feature-card 
+  {{< design-feature-card 
     icon="annotation"
     image="/products/evermusic/screenshots/2048x2732/4.png"  
     title="Trình xem lời bài hát" 
@@ -151,7 +151,7 @@ Evermusic là trình phát nhạc ngoại tuyến miễn phí dành cho iPhone v
     subtitle="Đọc lời bài hát nhúng và bình luận bài hát khi nghe. Thưởng thức lời bài hát đồng bộ cho trải nghiệm âm nhạc sống động hơn." 
   >}}
 
-  {{< feature-card 
+  {{< design-feature-card 
     icon="collection"
     image="/products/evermusic/screenshots/2048x2732/5.png"  
     title="Trình quản lý danh sách phát" 
@@ -160,7 +160,7 @@ Evermusic là trình phát nhạc ngoại tuyến miễn phí dành cho iPhone v
     subtitle="Tạo và tổ chức danh sách phát tùy chỉnh, sắp xếp lại bài hát, xuất sang M3U hoặc lưu trữ dưới dạng tệp ZIP để chia sẻ hoặc sao lưu dễ dàng." 
   >}}
 
-  {{< feature-card 
+  {{< design-feature-card 
     icon="cloud"
     image="/products/evermusic/screenshots/2048x2732/6.png"  
     title="Phát nhạc từ đám mây" 
@@ -169,7 +169,7 @@ Evermusic là trình phát nhạc ngoại tuyến miễn phí dành cho iPhone v
     subtitle="Kết nối các nền tảng lưu trữ đám mây hàng đầu như Google Drive, Dropbox và OneDrive để phát trực tuyến bộ sưu tập nhạc mọi lúc mọi nơi." 
   >}}
 
-  {{< feature-card 
+  {{< design-feature-card 
     icon="duplicate"
     image="/products/evermusic/screenshots/2048x2732/9.png"  
     title="Trình quản lý tệp" 
@@ -178,7 +178,7 @@ Evermusic là trình phát nhạc ngoại tuyến miễn phí dành cho iPhone v
     subtitle="Quản lý tệp âm thanh dễ dàng — đổi tên bài hát, sắp xếp thư mục và chuyển nhạc giữa các thiết bị bằng công cụ tích hợp." 
   >}} 
 
-  {{< feature-card 
+  {{< design-feature-card 
     icon="sun"
     image="/products/evermusic/screenshots/2048x2732/10.png"  
     title="Tùy chỉnh ứng dụng" 

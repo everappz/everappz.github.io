@@ -164,7 +164,7 @@ USB 플래시 드라이브나 네트워크 스토리지(NAS)에서 스트리밍�
 
 {{< cards cols="4">}}
 
-  {{< feature-card 
+  {{< design-feature-card 
     image="/products/flacbox/screenshots/2048x2732/1.png" 
     title="오디오 플레이어" 
     method="Fill"
@@ -173,7 +173,7 @@ USB 플래시 드라이브나 네트워크 스토리지(NAS)에서 스트리밍�
     icon="play"
   >}}
 
-  {{< feature-card 
+  {{< design-feature-card 
     image="/products/flacbox/screenshots/2048x2732/2.png"  
     title="오디오 이퀄라이저" 
     method="Fill"
@@ -182,7 +182,7 @@ USB 플래시 드라이브나 네트워크 스토리지(NAS)에서 스트리밍�
     icon="adjustments"
   >}}
 
-  {{< feature-card 
+  {{< design-feature-card 
     image="/products/flacbox/screenshots/2048x2732/3.png"  
     title="재생목록 관리자" 
     method="Fill"
@@ -191,7 +191,7 @@ USB 플래시 드라이브나 네트워크 스토리지(NAS)에서 스트리밍�
     icon="collection"
   >}}
 
-  {{< feature-card 
+  {{< design-feature-card 
     image="/products/flacbox/screenshots/2048x2732/5.png"  
     title="미디어 라이브러리" 
     method="Fill"
@@ -200,7 +200,7 @@ USB 플래시 드라이브나 네트워크 스토리지(NAS)에서 스트리밍�
     icon="library"
   >}}
 
-  {{< feature-card 
+  {{< design-feature-card 
     image="/products/flacbox/screenshots/2048x2732/7.png"  
     title="클라우드 스토리지" 
     method="Fill"
@@ -209,7 +209,7 @@ USB 플래시 드라이브나 네트워크 스토리지(NAS)에서 스트리밍�
     icon="cloud"
   >}}
 
-  {{< feature-card 
+  {{< design-feature-card 
     image="/products/flacbox/screenshots/2048x2732/8.png"  
     title="iCloud Drive" 
     method="Fill"

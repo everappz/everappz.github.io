@@ -130,7 +130,7 @@ iPhone veya iPad cihazınızı, dosyaları <strong>ağınızdaki her cihazla</st
 
 {{< cards cols="4">}}
 
-  {{< feature-card 
+  {{< design-feature-card 
     icon="globe-alt"
     image="/products/everdisk/screenshots/browser_access.png" 
     title="Tarayıcı Erişimi" 
@@ -139,7 +139,7 @@ iPhone veya iPad cihazınızı, dosyaları <strong>ağınızdaki her cihazla</st
     subtitle="Bir bağlantı paylaşın; herkes dosyalarınıza herhangi bir web tarayıcısından göz atsın, önizlesin ve indirsin. Karşı tarafta kurulacak hiçbir şey yok." 
   >}}
 
-  {{< feature-card 
+  {{< design-feature-card 
     icon="server"
     image="/products/everdisk/screenshots/connect_to_servers.png"  
     title="Sunuculara Bağlanma" 
@@ -148,7 +148,7 @@ iPhone veya iPad cihazınızı, dosyaları <strong>ağınızdaki her cihazla</st
     subtitle="Ağınızdaki DLNA, WebDAV, FTP, SFTP ve SMB sunucularını keşfedin ve bağlanın; dosyalarına göz atın, yayınlayın ve indirin." 
   >}}
 
-  {{< feature-card 
+  {{< design-feature-card 
     icon="folder"
     image="/products/everdisk/screenshots/file_manager.png"  
     title="Dosya Yöneticisi" 
@@ -157,7 +157,7 @@ iPhone veya iPad cihazınızı, dosyaları <strong>ağınızdaki her cihazla</st
     subtitle="Cihazınızdaki her şeyi yönetin: liste veya ızgarada gezinin, klasör oluşturun, yeniden adlandırın, taşıyın, kopyalayın, sıkıştırın, açın ve silin." 
   >}}
 
-  {{< feature-card 
+  {{< design-feature-card 
     icon="play"
     image="/products/everdisk/screenshots/play_in_the_app.png"  
     title="Uygulamada Oynatın" 
@@ -166,7 +166,7 @@ iPhone veya iPad cihazınızı, dosyaları <strong>ağınızdaki her cihazla</st
     subtitle="Yerel parçalarınızı dinleyin veya bağlı cihazlardan yayın yapın; mini oynatıcı kuyruğu ve tam ekran video oynatma ile." 
   >}}
 
-  {{< feature-card 
+  {{< design-feature-card 
     icon="music-note"
     image="/products/everdisk/screenshots/share_your_library.png"  
     title="Kitaplığınızı Paylaşın" 
@@ -175,7 +175,7 @@ iPhone veya iPad cihazınızı, dosyaları <strong>ağınızdaki her cihazla</st
     subtitle="Tüm fotoğraf ve müzik kitaplığınızı açın; her albüm ve parça ağ üzerinden orijinal kalitede erişilebilir olsun." 
   >}} 
 
-  {{< feature-card 
+  {{< design-feature-card 
     icon="photograph"
     image="/products/everdisk/screenshots/photo_gallery.png"  
     title="Fotoğraf Galerisi" 
