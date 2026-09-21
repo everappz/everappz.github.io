@@ -63,12 +63,7 @@ Convierte tu iPhone o iPad en un disco inalámbrico&nbsp;<br class="hx:sm:block 
 {{< /hextra/hero-paragraph >}}
 </div>
 
-{{< hextra/hero-button 
-  textKey="downloadForiOS"
-  link="https://apps.apple.com/app/apple-store/id6751851132?pt=95781850&ct=everappzcom&mt=8"
-  icon="device-mobile" 
-  style="margin-top:1rem;margin-right:1rem;"
->}}
+{{< app-store-badges products="everdisk:ios" >}}
 
 </div>
 
@@ -335,6 +330,12 @@ Convierte tu iPhone o iPad en un disco inalámbrico&nbsp;<br class="hx:sm:block 
   {{< hextra/info-paragraph border="true" >}}
    <strong>Precios</strong>: Los precios se muestran en dólares estadounidenses para Estados Unidos. El precio final puede variar según tu región.  
   {{< /hextra/info-paragraph >}}
+</div>
+
+<div class="hx:mt-6"></div>
+
+<div class="hx:w-full">
+{{< app-details heading="true" >}}
 </div>
 
 <div class="hx:mt-6"></div>

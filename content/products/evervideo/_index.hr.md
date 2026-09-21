@@ -62,19 +62,7 @@ Evervideo
 {{< /hextra/hero-paragraph >}}
 </div>
 
-{{< hextra/hero-button 
-    textKey="downloadForiOS"
-    link="https://apps.apple.com/us/app/evervideo-hd-video-player/id6602897336?ct=everappzcom&mt=8"
-    icon="device-mobile"
-    style="margin-top:1rem;margin-right:1rem;"
->}}
-
-{{< hextra/hero-button 
-    textKey="downloadForMacOS"
-    link="https://apps.apple.com/us/app/evervideo/id6743504109?ct=everappzcom&mt=8"
-    icon="desktop-computer" 
-    style="margin-top:1rem;margin-right:1rem;"
->}}
+{{< app-store-badges products="evervideo:ios, evervideo:macos" >}}
 
 </div>
 
@@ -382,6 +370,12 @@ Recenzije na App Storeu
   {{< hextra/info-paragraph border="true" >}}
    <strong>Obiteljsko dijeljenje</strong>: Sve kupnje i pretplate podržavaju Obiteljsko dijeljenje, što vam omogućuje dijeljenje Premium pristupa s obitelji.<br><strong>Univerzalni pristup</strong>: Doživotni i pretplatnički planovi dijele se između iOS i Mac uređaja koristeći iCloud sinkronizaciju.<br><strong>Cijene</strong>: Cijene su prikazane u američkim dolarima za Sjedinjene Države. Konačne cijene mogu se razlikovati ovisno o vašoj regiji.  
   {{< /hextra/info-paragraph >}}
+</div>
+
+<div class="hx:mt-6"></div>
+
+<div class="hx:w-full">
+{{< app-details heading="true" >}}
 </div>
 
 <div class="hx:mt-6"></div>

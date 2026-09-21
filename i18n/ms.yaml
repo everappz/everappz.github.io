@@ -109,3 +109,17 @@ nextSlide: "Slaid seterusnya"
 # Product download buttons
 downloadForiOS: "Muat turun untuk iOS"
 downloadForMacOS: "Muat turun untuk macOS"
+
+# App details shortcode
+appPlatform: "Platform"
+appVersion: "Versi"
+appPrice: "Harga"
+appSize: "Saiz"
+appReleased: "Dikeluarkan"
+appUpdated: "Dikemas kini"
+appAge: "Umur"
+appCategory: "Kategori"
+appLanguage: "Bahasa"
+appRating: "Penilaian"
+appMore: "Lagi"
+appInformation: "Maklumat Aplikasi"

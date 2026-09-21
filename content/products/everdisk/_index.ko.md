@@ -63,12 +63,7 @@ iPhone이나 iPad를 무선 드라이브로 바꿔&nbsp;<br class="hx:sm:block h
 {{< /hextra/hero-paragraph >}}
 </div>
 
-{{< hextra/hero-button 
-  textKey="downloadForiOS"
-  link="https://apps.apple.com/app/apple-store/id6751851132?pt=95781850&ct=everappzcom&mt=8"
-  icon="device-mobile" 
-  style="margin-top:1rem;margin-right:1rem;"
->}}
+{{< app-store-badges products="everdisk:ios" >}}
 
 </div>
 
@@ -335,6 +330,12 @@ iPhone이나 iPad를 무선 드라이브로 바꿔&nbsp;<br class="hx:sm:block h
   {{< hextra/info-paragraph border="true" >}}
    <strong>가격 안내</strong>: 가격은 미국 기준 미국 달러로 표시됩니다. 최종 가격은 지역에 따라 다를 수 있습니다.  
   {{< /hextra/info-paragraph >}}
+</div>
+
+<div class="hx:mt-6"></div>
+
+<div class="hx:w-full">
+{{< app-details heading="true" >}}
 </div>
 
 <div class="hx:mt-6"></div>

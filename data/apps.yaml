@@ -1,0 +1,18 @@
+# Single source of truth for App Store IDs, reused across all pages/locales.
+# App Store URLs are built as:
+#   https://apps.apple.com/app/apple-store/id<ID>?<params.appStoreAffiliate>
+evermusic:
+  ios: "885367198"
+  pro: "905746421"
+  mac: "1564384601"
+flacbox:
+  ios: "1097564256"
+  mac: "1594027432"
+evervideo:
+  ios: "6602897336"
+  mac: "6743504109"
+evertag:
+  ios: "1450763230"
+  mac: "1594027661"
+everdisk:
+  ios: "6751851132"

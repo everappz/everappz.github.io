@@ -62,19 +62,7 @@ Evervideo
 {{< /hextra/hero-paragraph >}}
 </div>
 
-{{< hextra/hero-button 
-    textKey="downloadForiOS"
-    link="https://apps.apple.com/us/app/evervideo-hd-video-player/id6602897336?ct=everappzcom&mt=8"
-    icon="device-mobile"
-    style="margin-top:1rem;margin-right:1rem;"
->}}
-
-{{< hextra/hero-button 
-    textKey="downloadForMacOS"
-    link="https://apps.apple.com/us/app/evervideo/id6743504109?ct=everappzcom&mt=8"
-    icon="desktop-computer" 
-    style="margin-top:1rem;margin-right:1rem;"
->}}
+{{< app-store-badges products="evervideo:ios, evervideo:macos" >}}
 
 </div>
 
@@ -382,6 +370,12 @@ App Store Bewertungen
   {{< hextra/info-paragraph border="true" >}}
    <strong>Familienfreigabe</strong>: Alle Käufe und Abonnements unterstützen die Familienfreigabe, sodass Sie den Premium-Zugang mit Ihrer Familie teilen können.<br><strong>Universeller Zugang</strong>: Lebenslange und Abonnementpläne werden zwischen iOS- und Mac-Geräten über die iCloud-Synchronisierung geteilt.<br><strong>Preise</strong>: Die Preise werden in US-Dollar für die Vereinigten Staaten angezeigt. Die endgültigen Preise können je nach Region variieren.  
   {{< /hextra/info-paragraph >}}
+</div>
+
+<div class="hx:mt-6"></div>
+
+<div class="hx:w-full">
+{{< app-details heading="true" >}}
 </div>
 
 <div class="hx:mt-6"></div>

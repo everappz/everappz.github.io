@@ -60,19 +60,7 @@ Flacbox
 {{< /hextra/hero-paragraph >}}
 </div>
 
-{{< hextra/hero-button 
-    textKey="downloadForiOS"
-    link="https://apps.apple.com/app/apple-store/id1097564256?pt=95781850&ct=everappzcom&mt=8"
-    icon="device-mobile"
-    style="margin-top:1rem;margin-right:1rem;"
->}}
-
-{{< hextra/hero-button 
-    textKey="downloadForMacOS"
-    link="https://apps.apple.com/app/apple-store/id1594027432?pt=95781850&ct=everappzcom&mt=8"
-    icon="desktop-computer" 
-    style="margin-top:1rem;margin-right:1rem;"
->}}
+{{< app-store-badges products="flacbox:ios, flacbox:macos" >}}
 
 </div>
 
@@ -368,6 +356,12 @@ Recenzii App Store
   {{< hextra/info-paragraph border="true" >}}
    <strong>Partajare Familială</strong>: Toate achizițiile și abonamentele suportă Partajarea Familială, permițându-vă să partajați accesul Premium cu familia.<br><strong>Acces Universal</strong>: Planurile pe viață și de abonament sunt partajate între dispozitivele iOS și Mac folosind sincronizarea iCloud.<br><strong>Prețuri</strong>: Prețurile sunt afișate în dolari americani pentru Statele Unite. Prețul final poate varia în funcție de regiunea dvs.  
   {{< /hextra/info-paragraph >}}
+</div>
+
+<div class="hx:mt-6"></div>
+
+<div class="hx:w-full">
+{{< app-details heading="true" >}}
 </div>
 
 <div class="hx:mt-6"></div>

@@ -109,3 +109,17 @@ nextSlide: "Ďalšia snímka"
 # Product download buttons
 downloadForiOS: "Stiahnuť pre iOS"
 downloadForMacOS: "Stiahnuť pre macOS"
+
+# App details shortcode
+appPlatform: "Platforma"
+appVersion: "Verzia"
+appPrice: "Cena"
+appSize: "Veľkosť"
+appReleased: "Vydané"
+appUpdated: "Aktualizované"
+appAge: "Vek"
+appCategory: "Kategória"
+appLanguage: "Jazyk"
+appRating: "Hodnotenie"
+appMore: "Viac"
+appInformation: "Informácie o aplikácii"

@@ -109,3 +109,17 @@ nextSlide: "Sonraki slayt"
 # Product download buttons
 downloadForiOS: "iOS için indir"
 downloadForMacOS: "macOS için indir"
+
+# App details shortcode
+appPlatform: "Platform"
+appVersion: "Sürüm"
+appPrice: "Fiyat"
+appSize: "Boyut"
+appReleased: "Yayınlanma"
+appUpdated: "Güncellendi"
+appAge: "Yaş"
+appCategory: "Kategori"
+appLanguage: "Dil"
+appRating: "Puan"
+appMore: "Daha Fazla"
+appInformation: "Uygulama Bilgileri"

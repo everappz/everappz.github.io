@@ -109,3 +109,17 @@ nextSlide: "الشريحة التالية"
 # Product download buttons
 downloadForiOS: "تنزيل لـ iOS"
 downloadForMacOS: "تنزيل لـ macOS"
+
+# App details shortcode
+appPlatform: "المنصة"
+appVersion: "الإصدار"
+appPrice: "السعر"
+appSize: "الحجم"
+appReleased: "تاريخ الإصدار"
+appUpdated: "تاريخ التحديث"
+appAge: "العمر"
+appCategory: "الفئة"
+appLanguage: "اللغة"
+appRating: "التقييم"
+appMore: "المزيد"
+appInformation: "معلومات التطبيق"

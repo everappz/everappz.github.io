@@ -51,19 +51,7 @@ Evertag to edytor tagów muzycznych na iPhone'a i Maca, opracowany przez Everapp
 {{< /hextra/hero-paragraph >}}
 </div>
 
-{{< hextra/hero-button 
-  textKey="downloadForiOS"
-  link="https://apps.apple.com/app/apple-store/id1450763230?pt=95781850&ct=everappzcom&mt=8"
-  icon="device-mobile" 
-  style="margin-top:1rem;margin-right:1rem;"
->}}
-
-{{< hextra/hero-button 
-  textKey="downloadForMacOS"
-  link="https://apps.apple.com/app/apple-store/id1594027661?pt=95781850&ct=everappzcom&mt=8"
-  icon="desktop-computer" 
-  style="margin-top:1rem;margin-right:1rem;"
->}}
+{{< app-store-badges products="evertag:ios, evertag:macos" >}}
 
 </div>
 
@@ -256,6 +244,12 @@ Evertag to edytor tagów muzycznych na iPhone'a i Maca, opracowany przez Everapp
   {{< hextra/info-paragraph border="true" >}}
    <strong>Udostępnianie rodzinne</strong>: Wszystkie zakupy i subskrypcje obsługują Udostępnianie rodzinne, pozwalając Ci dzielić dostęp Premium z rodziną.<br><strong>Uniwersalny dostęp</strong>: Plany dożywotnie i subskrypcyjne są współdzielone między urządzeniami iOS i Mac za pomocą synchronizacji iCloud.<br><strong>Ceny</strong>: Ceny podane są w dolarach amerykańskich dla Stanów Zjednoczonych. Cena końcowa może się różnić w zależności od regionu.  
   {{< /hextra/info-paragraph >}}
+</div>
+
+<div class="hx:mt-6"></div>
+
+<div class="hx:w-full">
+{{< app-details heading="true" >}}
 </div>
 
 <div class="hx:mt-6"></div>

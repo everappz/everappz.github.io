@@ -51,19 +51,7 @@ Evertag는 스페인 소프트웨어 회사인 Everappz가 개발한 iPhone 및 
 {{< /hextra/hero-paragraph >}}
 </div>
 
-{{< hextra/hero-button 
-  textKey="downloadForiOS"
-  link="https://apps.apple.com/app/apple-store/id1450763230?pt=95781850&ct=everappzcom&mt=8"
-  icon="device-mobile" 
-  style="margin-top:1rem;margin-right:1rem;"
->}}
-
-{{< hextra/hero-button 
-  textKey="downloadForMacOS"
-  link="https://apps.apple.com/app/apple-store/id1594027661?pt=95781850&ct=everappzcom&mt=8"
-  icon="desktop-computer" 
-  style="margin-top:1rem;margin-right:1rem;"
->}}
+{{< app-store-badges products="evertag:ios, evertag:macos" >}}
 
 </div>
 
@@ -256,6 +244,12 @@ Evertag는 스페인 소프트웨어 회사인 Everappz가 개발한 iPhone 및 
   {{< hextra/info-paragraph border="true" >}}
    <strong>가족 공유</strong>: 모든 구매 및 구독은 가족 공유를 지원하여 가족과 프리미엄 액세스를 공유할 수 있습니다.<br><strong>범용 액세스</strong>: 평생 및 구독 요금제는 iCloud 동기화를 사용하여 iOS와 Mac 기기 간에 공유됩니다.<br><strong>가격</strong>: 가격은 미국 기준 미국 달러로 표시됩니다. 최종 가격은 지역에 따라 다를 수 있습니다.  
   {{< /hextra/info-paragraph >}}
+</div>
+
+<div class="hx:mt-6"></div>
+
+<div class="hx:w-full">
+{{< app-details heading="true" >}}
 </div>
 
 <div class="hx:mt-6"></div>

@@ -107,3 +107,17 @@ nextSlide: "Diapozitivul următor"
 # Product download buttons
 downloadForiOS: "Descarcă pentru iOS"
 downloadForMacOS: "Descarcă pentru macOS"
+
+# App details shortcode
+appPlatform: "Platformă"
+appVersion: "Versiune"
+appPrice: "Preț"
+appSize: "Dimensiune"
+appReleased: "Lansat"
+appUpdated: "Actualizat"
+appAge: "Vârstă"
+appCategory: "Categorie"
+appLanguage: "Limbă"
+appRating: "Evaluare"
+appMore: "Mai mult"
+appInformation: "Informații despre aplicație"

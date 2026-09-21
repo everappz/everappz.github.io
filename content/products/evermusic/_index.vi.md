@@ -66,19 +66,7 @@ Evermusic là trình phát nhạc ngoại tuyến miễn phí dành cho iPhone v
 {{< /hextra/hero-paragraph >}}
 </div>
 
-{{< hextra/hero-button 
-  textKey="downloadForiOS"
-  link="https://apps.apple.com/app/apple-store/id885367198?pt=95781850&ct=everappzcom&mt=8"
-  icon="device-mobile" 
-  style="margin-top:1rem;margin-right:1rem;"
->}}
-
-{{< hextra/hero-button 
-  textKey="downloadForMacOS"
-  link="https://apps.apple.com/app/apple-store/id1564384601?pt=95781850&ct=everappzcom&mt=8"
-  icon="desktop-computer" 
-  style="margin-top:1rem;margin-right:1rem;"
->}}
+{{< app-store-badges products="evermusic:ios, evermusic:macos" >}}
 
 </div>
 
@@ -401,6 +389,12 @@ Evermusic là trình phát nhạc ngoại tuyến miễn phí dành cho iPhone v
   {{< hextra/info-paragraph border="true" >}}
    <strong>Chia sẻ gia đình</strong>: Tất cả mua hàng và đăng ký đều hỗ trợ Chia sẻ gia đình, cho phép bạn chia sẻ quyền truy cập Premium với gia đình.<br><strong>Truy cập đa thiết bị</strong>: Gói trọn đời và đăng ký được chia sẻ giữa thiết bị iOS và Mac qua đồng bộ iCloud.<br><strong>Giá</strong>: Giá hiển thị bằng đô la Mỹ cho Hoa Kỳ. Giá cuối cùng có thể thay đổi theo khu vực của bạn.  
   {{< /hextra/info-paragraph >}}
+</div>
+
+<div class="hx:mt-6"></div>
+
+<div class="hx:w-full">
+{{< app-details heading="true" >}}
 </div>
 
 <div class="hx:mt-6"></div>

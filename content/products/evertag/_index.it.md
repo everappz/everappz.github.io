@@ -51,19 +51,7 @@ Evertag è un editor di tag musicali per iPhone e Mac sviluppato da Everappz, un
 {{< /hextra/hero-paragraph >}}
 </div>
 
-{{< hextra/hero-button 
-  textKey="downloadForiOS"
-  link="https://apps.apple.com/app/apple-store/id1450763230?pt=95781850&ct=everappzcom&mt=8"
-  icon="device-mobile" 
-  style="margin-top:1rem;margin-right:1rem;"
->}}
-
-{{< hextra/hero-button 
-  textKey="downloadForMacOS"
-  link="https://apps.apple.com/app/apple-store/id1594027661?pt=95781850&ct=everappzcom&mt=8"
-  icon="desktop-computer" 
-  style="margin-top:1rem;margin-right:1rem;"
->}}
+{{< app-store-badges products="evertag:ios, evertag:macos" >}}
 
 </div>
 
@@ -256,6 +244,12 @@ Evertag è un editor di tag musicali per iPhone e Mac sviluppato da Everappz, un
   {{< hextra/info-paragraph border="true" >}}
    <strong>Condivisione in famiglia</strong>: Tutti gli acquisti e gli abbonamenti supportano la condivisione in famiglia, permettendoti di condividere l'accesso Premium con la tua famiglia.<br><strong>Accesso universale</strong>: I piani a vita e in abbonamento sono condivisi tra dispositivi iOS e Mac tramite sincronizzazione iCloud.<br><strong>Prezzi</strong>: I prezzi sono indicati in dollari statunitensi per gli Stati Uniti. Il prezzo finale potrebbe variare in base alla tua regione.  
   {{< /hextra/info-paragraph >}}
+</div>
+
+<div class="hx:mt-6"></div>
+
+<div class="hx:w-full">
+{{< app-details heading="true" >}}
 </div>
 
 <div class="hx:mt-6"></div>

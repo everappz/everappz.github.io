@@ -1,0 +1,84 @@
+{{- /*
+  Renders one or more official Apple App Store / Mac App Store badges, plus an
+  async subtitle (version • update date • min iOS • min macOS) fetched
+  client-side from the iTunes Lookup API.
+
+  Pass "product:platform" pairs (IDs resolved from data/apps.yaml). platform is
+  one of: ios (default), macos/mac, pro.
+
+    {{< app-store-badges products="evermusic:ios, evermusic:macos" >}}
+
+  With no products, it falls back to the current page's product (iOS + Mac).
+*/ -}}
+{{- $aff := site.Params.appStoreAffiliate -}}
+{{- $pairs := slice -}}
+{{- with .Get "products" -}}
+  {{- range split (replaceRE `\s*,\s*` "," (trim . " ,")) "," -}}
+    {{- if . -}}{{- $pairs = $pairs | append . -}}{{- end -}}
+  {{- end -}}
+{{- else -}}
+  {{- $key := path.Base $.Page.File.Dir -}}
+  {{- $pairs = slice (printf "%s:ios" $key) (printf "%s:macos" $key) -}}
+{{- end -}}
+
+{{- $subIos := "" -}}
+{{- $subMac := "" -}}
+
+{{- if not (.Page.Store.Get "appStoreSubtitleAssets") -}}
+{{- .Page.Store.Set "appStoreSubtitleAssets" true -}}
+<style>
+.appstore-badges{text-align:center;}
+.appstore-badges .appstore-badge{margin-left:.5rem;margin-right:.5rem;}
+.appstore-subtitle{margin:.75rem 0 0;font-size:.85rem;color:#6e6e73;text-align:center;}
+.dark .appstore-subtitle{color:#8e8e9a;}
+.appstore-subtitle:empty{display:none;}
+</style>
+<script>
+(function(){
+  if(window.__appStoreSubtitle)return;window.__appStoreSubtitle=true;
+  function pad(n){return String(n).padStart(2,'0');}
+  function fmt(s){var d=new Date(s);return isNaN(d.getTime())?'':pad(d.getDate())+'.'+pad(d.getMonth()+1)+'.'+d.getFullYear();}
+  function lookup(id){return fetch('https://itunes.apple.com/lookup?id='+encodeURIComponent(id)+'&country=us').then(function(r){return r.json();}).then(function(j){return j.results&&j.results[0];}).catch(function(){return null;});}
+  function fill(el){
+    var ios=el.getAttribute('data-ios'),mac=el.getAttribute('data-mac');
+    var out={},jobs=[];
+    if(ios)jobs.push(lookup(ios).then(function(d){out.ios=d;}));
+    if(mac)jobs.push(lookup(mac).then(function(d){out.mac=d;}));
+    Promise.all(jobs).then(function(){
+      var primary=out.ios||out.mac;if(!primary)return;
+      var parts=[];
+      if(primary.version)parts.push(primary.version);
+      var dt=fmt(primary.currentVersionReleaseDate);if(dt)parts.push(dt);
+      if(out.ios&&out.ios.minimumOsVersion)parts.push('iOS '+out.ios.minimumOsVersion);
+      if(out.mac&&out.mac.minimumOsVersion)parts.push('macOS '+out.mac.minimumOsVersion);
+      el.textContent=parts.join(' • ');
+    });
+  }
+  function run(){document.querySelectorAll('.appstore-subtitle').forEach(fill);}
+  if(document.readyState!=='loading')run();else document.addEventListener('DOMContentLoaded',run);
+})();
+</script>
+{{- end -}}
+
+<div class="appstore-badges">
+{{- range $pairs -}}
+  {{- $parts := split . ":" -}}
+  {{- $prod := trim (index $parts 0) " " -}}
+  {{- $plat := cond (gt (len $parts) 1) (trim (index $parts 1) " ") "ios" -}}
+  {{- with index hugo.Data.apps $prod -}}
+    {{- $id := "" -}}{{- $badgePlat := "ios" -}}
+    {{- if or (eq $plat "macos") (eq $plat "mac") -}}{{- $id = .mac -}}{{- $badgePlat = "macos" -}}
+    {{- else if eq $plat "pro" -}}{{- $id = .pro -}}
+    {{- else -}}{{- $id = .ios -}}
+    {{- end -}}
+    {{- if eq $plat "ios" -}}{{- $subIos = $id -}}{{- end -}}
+    {{- if or (eq $plat "macos") (eq $plat "mac") -}}{{- $subMac = $id -}}{{- end -}}
+    {{- with $id -}}
+      {{- partial "app-store-badge.html" (dict "platform" $badgePlat "link" (printf "https://apps.apple.com/app/apple-store/id%s?%s" . $aff) "page" $.Page) -}}
+    {{- end -}}
+  {{- else -}}
+    {{- warnf "app-store-badges: no data/apps entry for %q" $prod -}}
+  {{- end -}}
+{{- end -}}
+  <div class="appstore-subtitle"{{ with $subIos }} data-ios="{{ . }}"{{ end }}{{ with $subMac }} data-mac="{{ . }}"{{ end }}></div>
+</div>

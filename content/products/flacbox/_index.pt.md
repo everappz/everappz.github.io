@@ -60,19 +60,7 @@ Flacbox
 {{< /hextra/hero-paragraph >}}
 </div>
 
-{{< hextra/hero-button 
-    textKey="downloadForiOS"
-    link="https://apps.apple.com/app/apple-store/id1097564256?pt=95781850&ct=everappzcom&mt=8"
-    icon="device-mobile"
-    style="margin-top:1rem;margin-right:1rem;"
->}}
-
-{{< hextra/hero-button 
-    textKey="downloadForMacOS"
-    link="https://apps.apple.com/app/apple-store/id1594027432?pt=95781850&ct=everappzcom&mt=8"
-    icon="desktop-computer" 
-    style="margin-top:1rem;margin-right:1rem;"
->}}
+{{< app-store-badges products="flacbox:ios, flacbox:macos" >}}
 
 </div>
 
@@ -368,6 +356,12 @@ Avaliações da App Store
   {{< hextra/info-paragraph border="true" >}}
    <strong>Compartilhamento Familiar</strong>: Todas as compras e assinaturas suportam Compartilhamento Familiar, permitindo que você compartilhe o acesso Premium com sua família.<br><strong>Acesso Universal</strong>: Planos vitalícios e de assinatura são compartilhados entre dispositivos iOS e Mac usando sincronização iCloud.<br><strong>Preços</strong>: Os preços são mostrados em dólares americanos para os Estados Unidos. O preço final pode variar com base na sua região.  
   {{< /hextra/info-paragraph >}}
+</div>
+
+<div class="hx:mt-6"></div>
+
+<div class="hx:w-full">
+{{< app-details heading="true" >}}
 </div>
 
 <div class="hx:mt-6"></div>

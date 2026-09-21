@@ -51,19 +51,7 @@ Evertag は、スペインのソフトウェア企業である Everappz が開�
 {{< /hextra/hero-paragraph >}}
 </div>
 
-{{< hextra/hero-button 
-  textKey="downloadForiOS"
-  link="https://apps.apple.com/app/apple-store/id1450763230?pt=95781850&ct=everappzcom&mt=8"
-  icon="device-mobile" 
-  style="margin-top:1rem;margin-right:1rem;"
->}}
-
-{{< hextra/hero-button 
-  textKey="downloadForMacOS"
-  link="https://apps.apple.com/app/apple-store/id1594027661?pt=95781850&ct=everappzcom&mt=8"
-  icon="desktop-computer" 
-  style="margin-top:1rem;margin-right:1rem;"
->}}
+{{< app-store-badges products="evertag:ios, evertag:macos" >}}
 
 </div>
 
@@ -256,6 +244,12 @@ Evertag は、スペインのソフトウェア企業である Everappz が開�
   {{< hextra/info-paragraph border="true" >}}
    <strong>ファミリー共有</strong>：すべての購入とサブスクリプションはファミリー共有に対応しており、家族とプレミアムアクセスを共有できます。<br><strong>ユニバーサルアクセス</strong>：永久プランとサブスクリプションプランはiCloud同期を使用してiOSとMacデバイス間で共有されます。<br><strong>料金</strong>：料金はアメリカ合衆国向けに米ドルで表示されています。最終的な料金はお住まいの地域によって異なる場合があります。  
   {{< /hextra/info-paragraph >}}
+</div>
+
+<div class="hx:mt-6"></div>
+
+<div class="hx:w-full">
+{{< app-details heading="true" >}}
 </div>
 
 <div class="hx:mt-6"></div>

@@ -107,3 +107,17 @@ nextSlide: "Volgende dia"
 # Product download buttons
 downloadForiOS: "Download voor iOS"
 downloadForMacOS: "Download voor macOS"
+
+# App details shortcode
+appPlatform: "Platform"
+appVersion: "Versie"
+appPrice: "Prijs"
+appSize: "Grootte"
+appReleased: "Uitgebracht"
+appUpdated: "Bijgewerkt"
+appAge: "Leeftijd"
+appCategory: "Categorie"
+appLanguage: "Taal"
+appRating: "Beoordeling"
+appMore: "Meer"
+appInformation: "App-informatie"

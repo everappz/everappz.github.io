@@ -109,3 +109,17 @@ nextSlide: "अगली स्लाइड"
 # Product download buttons
 downloadForiOS: "iOS के लिए डाउनलोड करें"
 downloadForMacOS: "macOS के लिए डाउनलोड करें"
+
+# App details shortcode
+appPlatform: "प्लेटफ़ॉर्म"
+appVersion: "संस्करण"
+appPrice: "मूल्य"
+appSize: "आकार"
+appReleased: "रिलीज़"
+appUpdated: "अपडेट किया गया"
+appAge: "आयु"
+appCategory: "श्रेणी"
+appLanguage: "भाषा"
+appRating: "रेटिंग"
+appMore: "और"
+appInformation: "ऐप जानकारी"

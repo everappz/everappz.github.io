@@ -66,19 +66,7 @@ Evermusic es un reproductor de música sin conexión gratuito para iPhone y Mac 
 {{< /hextra/hero-paragraph >}}
 </div>
 
-{{< hextra/hero-button 
-  textKey="downloadForiOS"
-  link="https://apps.apple.com/app/apple-store/id885367198?pt=95781850&ct=everappzcom&mt=8"
-  icon="device-mobile" 
-  style="margin-top:1rem;margin-right:1rem;"
->}}
-
-{{< hextra/hero-button 
-  textKey="downloadForMacOS"
-  link="https://apps.apple.com/app/apple-store/id1564384601?pt=95781850&ct=everappzcom&mt=8"
-  icon="desktop-computer" 
-  style="margin-top:1rem;margin-right:1rem;"
->}}
+{{< app-store-badges products="evermusic:ios, evermusic:macos" >}}
 
 </div>
 
@@ -401,6 +389,12 @@ Evermusic es un reproductor de música sin conexión gratuito para iPhone y Mac 
   {{< hextra/info-paragraph border="true" >}}
    <strong>Compartir en Familia</strong>: Todas las compras y suscripciones son compatibles con Compartir en Familia, lo que te permite compartir el acceso Premium con tu familia.<br><strong>Acceso Universal</strong>: Los planes de por vida y de suscripción se comparten entre dispositivos iOS y Mac usando sincronización de iCloud.<br><strong>Precios</strong>: Los precios se muestran en dólares estadounidenses para Estados Unidos. El precio final puede variar según tu región.  
   {{< /hextra/info-paragraph >}}
+</div>
+
+<div class="hx:mt-6"></div>
+
+<div class="hx:w-full">
+{{< app-details heading="true" >}}
 </div>
 
 <div class="hx:mt-6"></div>

@@ -402,6 +402,9 @@ params:
   displayUpdatedDate: true # Show last modified date on pages.
   dateFormat: "January 2, 2006" # Date format string.
 
+  # Affiliate/campaign query string appended to App Store links (see data/apps.yaml).
+  appStoreAffiliate: "pt=95781850&ct=everappzcom&mt=8"
+
   search:
     enable: true # Enable search functionality.
     type: flexsearch # Search engine type (flexsearch is fast/local).

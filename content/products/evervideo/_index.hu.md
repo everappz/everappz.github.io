@@ -62,19 +62,7 @@ Evervideo
 {{< /hextra/hero-paragraph >}}
 </div>
 
-{{< hextra/hero-button 
-    textKey="downloadForiOS"
-    link="https://apps.apple.com/us/app/evervideo-hd-video-player/id6602897336?ct=everappzcom&mt=8"
-    icon="device-mobile"
-    style="margin-top:1rem;margin-right:1rem;"
->}}
-
-{{< hextra/hero-button 
-    textKey="downloadForMacOS"
-    link="https://apps.apple.com/us/app/evervideo/id6743504109?ct=everappzcom&mt=8"
-    icon="desktop-computer" 
-    style="margin-top:1rem;margin-right:1rem;"
->}}
+{{< app-store-badges products="evervideo:ios, evervideo:macos" >}}
 
 </div>
 
@@ -382,6 +370,12 @@ App Store vélemények
   {{< hextra/info-paragraph border="true" >}}
    <strong>Családi megosztás</strong>: Minden vásárlás és előfizetés támogatja a Családi megosztást, lehetővé téve a Prémium hozzáférés megosztását családjával.<br><strong>Univerzális hozzáférés</strong>: Az élethosszig tartó és előfizetéses csomagok iOS és Mac eszközök között megoszthatók az iCloud szinkronizáció segítségével.<br><strong>Árazás</strong>: Az árak az Egyesült Államokra vonatkozóan amerikai dollárban vannak feltüntetve. A végső árak régiónként eltérhetnek.  
   {{< /hextra/info-paragraph >}}
+</div>
+
+<div class="hx:mt-6"></div>
+
+<div class="hx:w-full">
+{{< app-details heading="true" >}}
 </div>
 
 <div class="hx:mt-6"></div>

@@ -60,19 +60,7 @@ Flacbox
 {{< /hextra/hero-paragraph >}}
 </div>
 
-{{< hextra/hero-button 
-    textKey="downloadForiOS"
-    link="https://apps.apple.com/app/apple-store/id1097564256?pt=95781850&ct=everappzcom&mt=8"
-    icon="device-mobile"
-    style="margin-top:1rem;margin-right:1rem;"
->}}
-
-{{< hextra/hero-button 
-    textKey="downloadForMacOS"
-    link="https://apps.apple.com/app/apple-store/id1594027432?pt=95781850&ct=everappzcom&mt=8"
-    icon="desktop-computer" 
-    style="margin-top:1rem;margin-right:1rem;"
->}}
+{{< app-store-badges products="flacbox:ios, flacbox:macos" >}}
 
 </div>
 
@@ -368,6 +356,12 @@ App Store Değerlendirmeleri
   {{< hextra/info-paragraph border="true" >}}
    <strong>Aile Paylaşımı</strong>: Tüm satın alımlar ve abonelikler Aile Paylaşımını destekler, Premium erişimi ailenizle paylaşmanıza olanak tanır.<br><strong>Evrensel Erişim</strong>: Ömür boyu ve abonelik planları iCloud senkronizasyonu kullanılarak iOS ve Mac cihazları arasında paylaşılır.<br><strong>Fiyatlandırma</strong>: Fiyatlar Amerika Birleşik Devletleri için ABD doları olarak gösterilmektedir. Son fiyatlandırma bölgenize göre değişebilir.  
   {{< /hextra/info-paragraph >}}
+</div>
+
+<div class="hx:mt-6"></div>
+
+<div class="hx:w-full">
+{{< app-details heading="true" >}}
 </div>
 
 <div class="hx:mt-6"></div>

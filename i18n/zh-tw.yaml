@@ -107,3 +107,17 @@ nextSlide: "下一張投影片"
 # Product download buttons
 downloadForiOS: "下載 iOS"
 downloadForMacOS: "下載 macOS"
+
+# App details shortcode
+appPlatform: "平台"
+appVersion: "版本"
+appPrice: "價格"
+appSize: "大小"
+appReleased: "發佈日期"
+appUpdated: "更新日期"
+appAge: "年齡"
+appCategory: "類別"
+appLanguage: "語言"
+appRating: "評分"
+appMore: "更多"
+appInformation: "應用程式資訊"

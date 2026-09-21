@@ -1,0 +1,27 @@
+{{- /*
+  Renders one official Apple App Store / Mac App Store badge (self-hosted,
+  light/dark aware). Params (dict): platform ("ios"|"macos"), link, page.
+*/ -}}
+{{- $platform := .platform | default "ios" -}}
+{{- $link := .link -}}
+{{- $page := .page -}}
+{{- $isMac := eq $platform "macos" -}}
+{{- $badge := cond $isMac "download-on-the-mac-app-store" "download-on-the-app-store" -}}
+{{- $alt := cond $isMac "Download on the Mac App Store" "Download on the App Store" -}}
+{{- $w := cond $isMac 156 120 -}}
+{{- $light := (printf "images/%s.svg" $badge) | relURL -}}
+{{- $dark := (printf "images/%s-white.svg" $badge) | relURL -}}
+{{- if not ($page.Store.Get "appStoreBadgeCss") -}}
+{{- $page.Store.Set "appStoreBadgeCss" true -}}
+<style>
+.appstore-badge{display:inline-block;line-height:0;margin:1rem 1rem 0 0;vertical-align:top;}
+.appstore-badge img{height:54px;width:auto;display:block;}
+.appstore-badge .appstore-badge-dark{display:none;}
+.dark .appstore-badge .appstore-badge-light{display:none;}
+.dark .appstore-badge .appstore-badge-dark{display:block;}
+</style>
+{{- end -}}
+<a class="appstore-badge" href="{{ $link }}" target="_blank" rel="noreferrer" aria-label="{{ $alt }}">
+  <img class="appstore-badge-light" src="{{ $light }}" alt="{{ $alt }}" width="{{ $w }}" height="40" loading="lazy" decoding="async">
+  <img class="appstore-badge-dark" src="{{ $dark }}" alt="{{ $alt }}" width="{{ $w }}" height="40" loading="lazy" decoding="async">
+</a>

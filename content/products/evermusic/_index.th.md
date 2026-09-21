@@ -66,19 +66,7 @@ Evermusic เป็นแอปเล่นเพลงออฟไลน์ฟ�
 {{< /hextra/hero-paragraph >}}
 </div>
 
-{{< hextra/hero-button 
-  textKey="downloadForiOS"
-  link="https://apps.apple.com/app/apple-store/id885367198?pt=95781850&ct=everappzcom&mt=8"
-  icon="device-mobile" 
-  style="margin-top:1rem;margin-right:1rem;"
->}}
-
-{{< hextra/hero-button 
-  textKey="downloadForMacOS"
-  link="https://apps.apple.com/app/apple-store/id1564384601?pt=95781850&ct=everappzcom&mt=8"
-  icon="desktop-computer" 
-  style="margin-top:1rem;margin-right:1rem;"
->}}
+{{< app-store-badges products="evermusic:ios, evermusic:macos" >}}
 
 </div>
 
@@ -401,6 +389,12 @@ Evermusic เป็นแอปเล่นเพลงออฟไลน์ฟ�
   {{< hextra/info-paragraph border="true" >}}
    <strong>แชร์ครอบครัว</strong>: การซื้อและการสมัครสมาชิกทั้งหมดรองรับการแชร์ครอบครัว ช่วยให้คุณแชร์การเข้าถึงพรีเมียมกับครอบครัว<br><strong>เข้าถึงได้ทุกอุปกรณ์</strong>: แผนตลอดชีพและสมัครสมาชิกจะแชร์ระหว่างอุปกรณ์ iOS และ Mac โดยใช้การซิงค์ iCloud<br><strong>ราคา</strong>: ราคาแสดงเป็นดอลลาร์สหรัฐสำหรับสหรัฐอเมริกา ราคาสุดท้ายอาจแตกต่างกันตามภูมิภาคของคุณ  
   {{< /hextra/info-paragraph >}}
+</div>
+
+<div class="hx:mt-6"></div>
+
+<div class="hx:w-full">
+{{< app-details heading="true" >}}
 </div>
 
 <div class="hx:mt-6"></div>

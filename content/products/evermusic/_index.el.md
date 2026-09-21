@@ -66,19 +66,7 @@ screenshots:
 {{< /hextra/hero-paragraph >}}
 </div>
 
-{{< hextra/hero-button 
-  textKey="downloadForiOS"
-  link="https://apps.apple.com/app/apple-store/id885367198?pt=95781850&ct=everappzcom&mt=8"
-  icon="device-mobile" 
-  style="margin-top:1rem;margin-right:1rem;"
->}}
-
-{{< hextra/hero-button 
-  textKey="downloadForMacOS"
-  link="https://apps.apple.com/app/apple-store/id1564384601?pt=95781850&ct=everappzcom&mt=8"
-  icon="desktop-computer" 
-  style="margin-top:1rem;margin-right:1rem;"
->}}
+{{< app-store-badges products="evermusic:ios, evermusic:macos" >}}
 
 </div>
 
@@ -401,6 +389,12 @@ screenshots:
   {{< hextra/info-paragraph border="true" >}}
    <strong>Οικογενειακή Κοινοποίηση</strong>: Όλες οι αγορές και συνδρομές υποστηρίζουν Οικογενειακή Κοινοποίηση, επιτρέποντάς σας να μοιραστείτε την πρόσβαση Premium με την οικογένειά σας.<br><strong>Καθολική Πρόσβαση</strong>: Τα πλάνα εφ' όρου ζωής και συνδρομής μοιράζονται μεταξύ συσκευών iOS και Mac χρησιμοποιώντας συγχρονισμό iCloud.<br><strong>Τιμολόγηση</strong>: Οι τιμές εμφανίζονται σε δολάρια ΗΠΑ για τις Ηνωμένες Πολιτείες. Η τελική τιμολόγηση μπορεί να διαφέρει ανάλογα με την περιοχή σας.  
   {{< /hextra/info-paragraph >}}
+</div>
+
+<div class="hx:mt-6"></div>
+
+<div class="hx:w-full">
+{{< app-details heading="true" >}}
 </div>
 
 <div class="hx:mt-6"></div>

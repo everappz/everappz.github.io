@@ -109,3 +109,17 @@ nextSlide: "Diapositiva següent"
 # Product download buttons
 downloadForiOS: "Descarregar per a iOS"
 downloadForMacOS: "Descarregar per a macOS"
+
+# App details shortcode
+appPlatform: "Plataforma"
+appVersion: "Versió"
+appPrice: "Preu"
+appSize: "Mida"
+appReleased: "Publicat"
+appUpdated: "Actualitzat"
+appAge: "Edat"
+appCategory: "Categoria"
+appLanguage: "Idioma"
+appRating: "Valoració"
+appMore: "Més"
+appInformation: "Informació de l'aplicació"

@@ -63,12 +63,7 @@ Maak van je iPhone of iPad een draadloze schijf&nbsp;<br class="hx:sm:block hx:h
 {{< /hextra/hero-paragraph >}}
 </div>
 
-{{< hextra/hero-button 
-  textKey="downloadForiOS"
-  link="https://apps.apple.com/app/apple-store/id6751851132?pt=95781850&ct=everappzcom&mt=8"
-  icon="device-mobile" 
-  style="margin-top:1rem;margin-right:1rem;"
->}}
+{{< app-store-badges products="everdisk:ios" >}}
 
 </div>
 
@@ -335,6 +330,12 @@ Maak van je iPhone of iPad een draadloze schijf&nbsp;<br class="hx:sm:block hx:h
   {{< hextra/info-paragraph border="true" >}}
    <strong>Prijzen</strong>: prijzen worden weergegeven in Amerikaanse dollars voor de Verenigde Staten. De uiteindelijke prijs kan per regio verschillen.  
   {{< /hextra/info-paragraph >}}
+</div>
+
+<div class="hx:mt-6"></div>
+
+<div class="hx:w-full">
+{{< app-details heading="true" >}}
 </div>
 
 <div class="hx:mt-6"></div>

@@ -60,19 +60,7 @@ Flacbox
 {{< /hextra/hero-paragraph >}}
 </div>
 
-{{< hextra/hero-button 
-    textKey="downloadForiOS"
-    link="https://apps.apple.com/app/apple-store/id1097564256?pt=95781850&ct=everappzcom&mt=8"
-    icon="device-mobile"
-    style="margin-top:1rem;margin-right:1rem;"
->}}
-
-{{< hextra/hero-button 
-    textKey="downloadForMacOS"
-    link="https://apps.apple.com/app/apple-store/id1594027432?pt=95781850&ct=everappzcom&mt=8"
-    icon="desktop-computer" 
-    style="margin-top:1rem;margin-right:1rem;"
->}}
+{{< app-store-badges products="flacbox:ios, flacbox:macos" >}}
 
 </div>
 
@@ -368,6 +356,12 @@ App Store vélemények
   {{< hextra/info-paragraph border="true" >}}
    <strong>Családi megosztás</strong>: Minden vásárlás és előfizetés támogatja a Családi megosztást, lehetővé téve a Prémium hozzáférés megosztását családoddal.<br><strong>Univerzális hozzáférés</strong>: Az élethosszig tartó és előfizetéses csomagok megosztottak iOS és Mac eszközök között iCloud szinkronizáció segítségével.<br><strong>Árazás</strong>: Az árak amerikai dollárban vannak megadva az Egyesült Államok számára. A végső árak régiónként eltérhetnek.  
   {{< /hextra/info-paragraph >}}
+</div>
+
+<div class="hx:mt-6"></div>
+
+<div class="hx:w-full">
+{{< app-details heading="true" >}}
 </div>
 
 <div class="hx:mt-6"></div>

@@ -109,3 +109,17 @@ nextSlide: "Következő dia"
 # Product download buttons
 downloadForiOS: "Letöltés iOS"
 downloadForMacOS: "Letöltés macOS"
+
+# App details shortcode
+appPlatform: "Platform"
+appVersion: "Verzió"
+appPrice: "Ár"
+appSize: "Méret"
+appReleased: "Megjelent"
+appUpdated: "Frissítve"
+appAge: "Korhatár"
+appCategory: "Kategória"
+appLanguage: "Nyelv"
+appRating: "Értékelés"
+appMore: "Több"
+appInformation: "Alkalmazásinformációk"

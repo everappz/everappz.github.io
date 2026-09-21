@@ -107,3 +107,17 @@ nextSlide: "次のスライド"
 # Product download buttons
 downloadForiOS: "iOSをダウンロード"
 downloadForMacOS: "macOSをダウンロード"
+
+# App details shortcode
+appPlatform: "プラットフォーム"
+appVersion: "バージョン"
+appPrice: "価格"
+appSize: "サイズ"
+appReleased: "公開日"
+appUpdated: "更新日"
+appAge: "対象年齢"
+appCategory: "カテゴリ"
+appLanguage: "言語"
+appRating: "評価"
+appMore: "その他"
+appInformation: "アプリ情報"

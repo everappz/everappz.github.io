@@ -117,3 +117,17 @@ nextSlide: "Neste lysbilde"
 # Product download buttons
 downloadForiOS: "Last ned for iOS"
 downloadForMacOS: "Last ned for macOS"
+
+# App details shortcode
+appPlatform: "Plattform"
+appVersion: "Versjon"
+appPrice: "Pris"
+appSize: "Størrelse"
+appReleased: "Utgitt"
+appUpdated: "Oppdatert"
+appAge: "Alder"
+appCategory: "Kategori"
+appLanguage: "Språk"
+appRating: "Vurdering"
+appMore: "Mer"
+appInformation: "App-informasjon"

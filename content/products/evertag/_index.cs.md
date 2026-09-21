@@ -51,19 +51,7 @@ Evertag je editor hudebních tagů pro iPhone a Mac vyvinutý společností Ever
 {{< /hextra/hero-paragraph >}}
 </div>
 
-{{< hextra/hero-button 
-  textKey="downloadForiOS"
-  link="https://apps.apple.com/app/apple-store/id1450763230?pt=95781850&ct=everappzcom&mt=8"
-  icon="device-mobile" 
-  style="margin-top:1rem;margin-right:1rem;"
->}}
-
-{{< hextra/hero-button 
-  textKey="downloadForMacOS"
-  link="https://apps.apple.com/app/apple-store/id1594027661?pt=95781850&ct=everappzcom&mt=8"
-  icon="desktop-computer" 
-  style="margin-top:1rem;margin-right:1rem;"
->}}
+{{< app-store-badges products="evertag:ios, evertag:macos" >}}
 
 </div>
 
@@ -256,6 +244,12 @@ Evertag je editor hudebních tagů pro iPhone a Mac vyvinutý společností Ever
   {{< hextra/info-paragraph border="true" >}}
    <strong>Rodinné sdílení</strong>: Všechny nákupy a předplatná podporují Rodinné sdílení, což vám umožňuje sdílet Premium přístup s vaší rodinou.<br><strong>Univerzální přístup</strong>: Doživotní a předplatné plány jsou sdíleny mezi zařízeními iOS a Mac pomocí synchronizace iCloud.<br><strong>Ceny</strong>: Ceny jsou zobrazeny v amerických dolarech pro Spojené státy. Konečná cena se může lišit v závislosti na vašem regionu.  
   {{< /hextra/info-paragraph >}}
+</div>
+
+<div class="hx:mt-6"></div>
+
+<div class="hx:w-full">
+{{< app-details heading="true" >}}
 </div>
 
 <div class="hx:mt-6"></div>

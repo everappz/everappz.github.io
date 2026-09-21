@@ -1,0 +1,5 @@
+{{- /*
+  Single App Store badge. Params: platform ("ios"|"macos"), link (App Store URL).
+  Example: {{< app-store-badge platform="ios" link="https://apps.apple.com/..." >}}
+*/ -}}
+{{- partial "app-store-badge.html" (dict "platform" (.Get "platform") "link" (.Get "link") "page" .Page) -}}

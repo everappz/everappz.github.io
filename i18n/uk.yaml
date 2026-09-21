@@ -107,3 +107,17 @@ nextSlide: "Наступний слайд"
 # Product download buttons
 downloadForiOS: "Завантажити для iOS"
 downloadForMacOS: "Завантажити для macOS"
+
+# App details shortcode
+appPlatform: "Платформа"
+appVersion: "Версія"
+appPrice: "Ціна"
+appSize: "Розмір"
+appReleased: "Дата виходу"
+appUpdated: "Оновлено"
+appAge: "Вік"
+appCategory: "Категорія"
+appLanguage: "Мова"
+appRating: "Рейтинг"
+appMore: "Ще"
+appInformation: "Інформація про застосунок"

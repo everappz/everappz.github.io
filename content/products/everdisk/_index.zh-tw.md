@@ -63,12 +63,7 @@ Everdisk 是 Everappz 開發的 iPhone 和 iPad 無線隨身碟 App。它把你�
 {{< /hextra/hero-paragraph >}}
 </div>
 
-{{< hextra/hero-button 
-  textKey="downloadForiOS"
-  link="https://apps.apple.com/app/apple-store/id6751851132?pt=95781850&ct=everappzcom&mt=8"
-  icon="device-mobile" 
-  style="margin-top:1rem;margin-right:1rem;"
->}}
+{{< app-store-badges products="everdisk:ios" >}}
 
 </div>
 
@@ -335,6 +330,12 @@ Everdisk 是 Everappz 開發的 iPhone 和 iPad 無線隨身碟 App。它把你�
   {{< hextra/info-paragraph border="true" >}}
    <strong>價格</strong>：此處價格以美國的美元顯示。最終價格可能因你所在地區而有所不同。  
   {{< /hextra/info-paragraph >}}
+</div>
+
+<div class="hx:mt-6"></div>
+
+<div class="hx:w-full">
+{{< app-details heading="true" >}}
 </div>
 
 <div class="hx:mt-6"></div>

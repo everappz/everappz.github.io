@@ -51,19 +51,7 @@ Evertag, İspanyol yazılım şirketi Everappz tarafından geliştirilen iPhone 
 {{< /hextra/hero-paragraph >}}
 </div>
 
-{{< hextra/hero-button 
-  textKey="downloadForiOS"
-  link="https://apps.apple.com/app/apple-store/id1450763230?pt=95781850&ct=everappzcom&mt=8"
-  icon="device-mobile" 
-  style="margin-top:1rem;margin-right:1rem;"
->}}
-
-{{< hextra/hero-button 
-  textKey="downloadForMacOS"
-  link="https://apps.apple.com/app/apple-store/id1594027661?pt=95781850&ct=everappzcom&mt=8"
-  icon="desktop-computer" 
-  style="margin-top:1rem;margin-right:1rem;"
->}}
+{{< app-store-badges products="evertag:ios, evertag:macos" >}}
 
 </div>
 
@@ -256,6 +244,12 @@ Evertag, İspanyol yazılım şirketi Everappz tarafından geliştirilen iPhone 
   {{< hextra/info-paragraph border="true" >}}
    <strong>Aile Paylaşımı</strong>: Tüm satın almalar ve abonelikler Aile Paylaşımını destekler, böylece Premium erişiminizi ailenizle paylaşabilirsiniz.<br><strong>Evrensel Erişim</strong>: Ömür boyu ve abonelik planları, iCloud senkronizasyonu kullanılarak iOS ve Mac cihazlar arasında paylaşılır.<br><strong>Fiyatlandırma</strong>: Fiyatlar ABD doları cinsinden Amerika Birleşik Devletleri için gösterilmektedir. Son fiyatlandırma bölgenize göre değişebilir.  
   {{< /hextra/info-paragraph >}}
+</div>
+
+<div class="hx:mt-6"></div>
+
+<div class="hx:w-full">
+{{< app-details heading="true" >}}
 </div>
 
 <div class="hx:mt-6"></div>

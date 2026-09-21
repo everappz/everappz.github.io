@@ -117,3 +117,17 @@ nextSlide: "Next slide"
 # Product download buttons
 downloadForiOS: "Download for iOS"
 downloadForMacOS: "Download for macOS"
+
+# App details shortcode
+appPlatform: "Platform"
+appVersion: "Version"
+appPrice: "Price"
+appSize: "Size"
+appReleased: "Released"
+appUpdated: "Updated"
+appAge: "Age"
+appCategory: "Category"
+appLanguage: "Language"
+appRating: "Rating"
+appMore: "More"
+appInformation: "App Information"

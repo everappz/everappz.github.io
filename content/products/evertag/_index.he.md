@@ -51,19 +51,7 @@ Evertag הוא עורך תגיות מוזיקה ל-iPhone ו-Mac, שפותח ע�
 {{< /hextra/hero-paragraph >}}
 </div>
 
-{{< hextra/hero-button 
-  textKey="downloadForiOS"
-  link="https://apps.apple.com/app/apple-store/id1450763230?pt=95781850&ct=everappzcom&mt=8"
-  icon="device-mobile" 
-  style="margin-top:1rem;margin-right:1rem;"
->}}
-
-{{< hextra/hero-button 
-  textKey="downloadForMacOS"
-  link="https://apps.apple.com/app/apple-store/id1594027661?pt=95781850&ct=everappzcom&mt=8"
-  icon="desktop-computer" 
-  style="margin-top:1rem;margin-right:1rem;"
->}}
+{{< app-store-badges products="evertag:ios, evertag:macos" >}}
 
 </div>
 
@@ -256,6 +244,12 @@ Evertag הוא עורך תגיות מוזיקה ל-iPhone ו-Mac, שפותח ע�
   {{< hextra/info-paragraph border="true" >}}
    <strong>שיתוף משפחתי</strong>: כל הרכישות והמנויים תומכים בשיתוף משפחתי, המאפשר לכם לשתף גישת פרימיום עם המשפחה שלכם.<br><strong>גישה אוניברסלית</strong>: תוכניות לכל החיים ומנויים משותפים בין מכשירי iOS ו-Mac באמצעות סנכרון iCloud.<br><strong>מחירים</strong>: המחירים מוצגים בדולר אמריקאי. המחיר הסופי עשוי להשתנות בהתאם לאזור שלכם.  
   {{< /hextra/info-paragraph >}}
+</div>
+
+<div class="hx:mt-6"></div>
+
+<div class="hx:w-full">
+{{< app-details heading="true" >}}
 </div>
 
 <div class="hx:mt-6"></div>

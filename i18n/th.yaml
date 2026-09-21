@@ -109,3 +109,17 @@ nextSlide: "สไลด์ถัดไป"
 # Product download buttons
 downloadForiOS: "ดาวน์โหลดสำหรับ iOS"
 downloadForMacOS: "ดาวน์โหลดสำหรับ macOS"
+
+# App details shortcode
+appPlatform: "แพลตฟอร์ม"
+appVersion: "เวอร์ชัน"
+appPrice: "ราคา"
+appSize: "ขนาด"
+appReleased: "วันวางจำหน่าย"
+appUpdated: "อัปเดตแล้ว"
+appAge: "อายุ"
+appCategory: "หมวดหมู่"
+appLanguage: "ภาษา"
+appRating: "คะแนน"
+appMore: "เพิ่มเติม"
+appInformation: "ข้อมูลแอป"

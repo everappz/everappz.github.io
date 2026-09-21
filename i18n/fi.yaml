@@ -109,3 +109,17 @@ nextSlide: "Seuraava dia"
 # Product download buttons
 downloadForiOS: "Lataa iOS"
 downloadForMacOS: "Lataa macOS"
+
+# App details shortcode
+appPlatform: "Alusta"
+appVersion: "Versio"
+appPrice: "Hinta"
+appSize: "Koko"
+appReleased: "Julkaistu"
+appUpdated: "Päivitetty"
+appAge: "Ikä"
+appCategory: "Luokka"
+appLanguage: "Kieli"
+appRating: "Arvio"
+appMore: "Lisää"
+appInformation: "Sovelluksen tiedot"

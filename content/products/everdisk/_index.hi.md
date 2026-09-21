@@ -63,12 +63,7 @@ Everdisk, Everappz द्वारा बनाया गया iPhone और iP
 {{< /hextra/hero-paragraph >}}
 </div>
 
-{{< hextra/hero-button 
-  textKey="downloadForiOS"
-  link="https://apps.apple.com/app/apple-store/id6751851132?pt=95781850&ct=everappzcom&mt=8"
-  icon="device-mobile" 
-  style="margin-top:1rem;margin-right:1rem;"
->}}
+{{< app-store-badges products="everdisk:ios" >}}
 
 </div>
 
@@ -335,6 +330,12 @@ Everdisk, Everappz द्वारा बनाया गया iPhone और iP
   {{< hextra/info-paragraph border="true" >}}
    <strong>प्राइसिंग</strong>: कीमतें अमेरिका के लिए US डॉलर में दिखाई गई हैं. अंतिम कीमत आपके क्षेत्र के अनुसार अलग हो सकती है.  
   {{< /hextra/info-paragraph >}}
+</div>
+
+<div class="hx:mt-6"></div>
+
+<div class="hx:w-full">
+{{< app-details heading="true" >}}
 </div>
 
 <div class="hx:mt-6"></div>

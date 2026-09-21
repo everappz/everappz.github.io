@@ -107,3 +107,17 @@ nextSlide: "下一张幻灯片"
 # Product download buttons
 downloadForiOS: "下载 iOS"
 downloadForMacOS: "下载 macOS"
+
+# App details shortcode
+appPlatform: "平台"
+appVersion: "版本"
+appPrice: "价格"
+appSize: "大小"
+appReleased: "发布日期"
+appUpdated: "更新日期"
+appAge: "年龄"
+appCategory: "类别"
+appLanguage: "语言"
+appRating: "评分"
+appMore: "更多"
+appInformation: "应用信息"

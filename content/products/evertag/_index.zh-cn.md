@@ -51,19 +51,7 @@ Evertag 是一款适用于 iPhone 和 Mac 的音乐标签编辑器，由西班�
 {{< /hextra/hero-paragraph >}}
 </div>
 
-{{< hextra/hero-button 
-  textKey="downloadForiOS"
-  link="https://apps.apple.com/app/apple-store/id1450763230?pt=95781850&ct=everappzcom&mt=8"
-  icon="device-mobile" 
-  style="margin-top:1rem;margin-right:1rem;"
->}}
-
-{{< hextra/hero-button 
-  textKey="downloadForMacOS"
-  link="https://apps.apple.com/app/apple-store/id1594027661?pt=95781850&ct=everappzcom&mt=8"
-  icon="desktop-computer" 
-  style="margin-top:1rem;margin-right:1rem;"
->}}
+{{< app-store-badges products="evertag:ios, evertag:macos" >}}
 
 </div>
 
@@ -256,6 +244,12 @@ Evertag 是一款适用于 iPhone 和 Mac 的音乐标签编辑器，由西班�
   {{< hextra/info-paragraph border="true" >}}
    <strong>家庭共享</strong>：所有购买和订阅均支持家庭共享，允许您与家人共享高级版访问权限。<br><strong>通用访问</strong>：终身和订阅计划通过iCloud同步在iOS和Mac设备之间共享。<br><strong>定价</strong>：价格以美元显示，适用于美国地区。最终价格可能因您所在地区而异。  
   {{< /hextra/info-paragraph >}}
+</div>
+
+<div class="hx:mt-6"></div>
+
+<div class="hx:w-full">
+{{< app-details heading="true" >}}
 </div>
 
 <div class="hx:mt-6"></div>

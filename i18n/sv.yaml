@@ -109,3 +109,17 @@ nextSlide: "Nästa bild"
 # Product download buttons
 downloadForiOS: "Ladda ner för iOS"
 downloadForMacOS: "Ladda ner för macOS"
+
+# App details shortcode
+appPlatform: "Plattform"
+appVersion: "Version"
+appPrice: "Pris"
+appSize: "Storlek"
+appReleased: "Släppt"
+appUpdated: "Uppdaterad"
+appAge: "Ålder"
+appCategory: "Kategori"
+appLanguage: "Språk"
+appRating: "Betyg"
+appMore: "Mer"
+appInformation: "Appinformation"

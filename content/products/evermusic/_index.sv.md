@@ -66,19 +66,7 @@ Evermusic är en gratis offline-musikspelare för iPhone och Mac, utvecklad av E
 {{< /hextra/hero-paragraph >}}
 </div>
 
-{{< hextra/hero-button 
-  textKey="downloadForiOS"
-  link="https://apps.apple.com/app/apple-store/id885367198?pt=95781850&ct=everappzcom&mt=8"
-  icon="device-mobile" 
-  style="margin-top:1rem;margin-right:1rem;"
->}}
-
-{{< hextra/hero-button 
-  textKey="downloadForMacOS"
-  link="https://apps.apple.com/app/apple-store/id1564384601?pt=95781850&ct=everappzcom&mt=8"
-  icon="desktop-computer" 
-  style="margin-top:1rem;margin-right:1rem;"
->}}
+{{< app-store-badges products="evermusic:ios, evermusic:macos" >}}
 
 </div>
 
@@ -401,6 +389,12 @@ Evermusic är en gratis offline-musikspelare för iPhone och Mac, utvecklad av E
   {{< hextra/info-paragraph border="true" >}}
    <strong>Familjedelning</strong>: Alla köp och prenumerationer stöder Familjedelning, vilket låter dig dela Premium-åtkomst med din familj.<br><strong>Universell åtkomst</strong>: Livstids- och prenumerationsplaner delas mellan iOS- och Mac-enheter med iCloud-synkronisering.<br><strong>Priser</strong>: Priserna visas i amerikanska dollar för USA. Slutpriset kan variera beroende på din region.  
   {{< /hextra/info-paragraph >}}
+</div>
+
+<div class="hx:mt-6"></div>
+
+<div class="hx:w-full">
+{{< app-details heading="true" >}}
 </div>
 
 <div class="hx:mt-6"></div>

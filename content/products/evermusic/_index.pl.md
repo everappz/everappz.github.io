@@ -66,19 +66,7 @@ Evermusic to darmowy odtwarzacz muzyki offline na iPhone'a i Maca, opracowany pr
 {{< /hextra/hero-paragraph >}}
 </div>
 
-{{< hextra/hero-button 
-  textKey="downloadForiOS"
-  link="https://apps.apple.com/app/apple-store/id885367198?pt=95781850&ct=everappzcom&mt=8"
-  icon="device-mobile" 
-  style="margin-top:1rem;margin-right:1rem;"
->}}
-
-{{< hextra/hero-button 
-  textKey="downloadForMacOS"
-  link="https://apps.apple.com/app/apple-store/id1564384601?pt=95781850&ct=everappzcom&mt=8"
-  icon="desktop-computer" 
-  style="margin-top:1rem;margin-right:1rem;"
->}}
+{{< app-store-badges products="evermusic:ios, evermusic:macos" >}}
 
 </div>
 
@@ -401,6 +389,12 @@ Evermusic to darmowy odtwarzacz muzyki offline na iPhone'a i Maca, opracowany pr
   {{< hextra/info-paragraph border="true" >}}
    <strong>Udostępnianie rodzinne</strong>: Wszystkie zakupy i subskrypcje obsługują Udostępnianie rodzinne, umożliwiając dzielenie dostępu Premium z rodziną.<br><strong>Uniwersalny dostęp</strong>: Plany dożywotnie i subskrypcyjne są współdzielone między urządzeniami iOS i Mac za pomocą synchronizacji iCloud.<br><strong>Ceny</strong>: Ceny podane są w dolarach amerykańskich dla Stanów Zjednoczonych. Ostateczna cena może się różnić w zależności od regionu.  
   {{< /hextra/info-paragraph >}}
+</div>
+
+<div class="hx:mt-6"></div>
+
+<div class="hx:w-full">
+{{< app-details heading="true" >}}
 </div>
 
 <div class="hx:mt-6"></div>

@@ -60,19 +60,7 @@ Flacbox
 {{< /hextra/hero-paragraph >}}
 </div>
 
-{{< hextra/hero-button 
-    textKey="downloadForiOS"
-    link="https://apps.apple.com/app/apple-store/id1097564256?pt=95781850&ct=everappzcom&mt=8"
-    icon="device-mobile"
-    style="margin-top:1rem;margin-right:1rem;"
->}}
-
-{{< hextra/hero-button 
-    textKey="downloadForMacOS"
-    link="https://apps.apple.com/app/apple-store/id1594027432?pt=95781850&ct=everappzcom&mt=8"
-    icon="desktop-computer" 
-    style="margin-top:1rem;margin-right:1rem;"
->}}
+{{< app-store-badges products="flacbox:ios, flacbox:macos" >}}
 
 </div>
 
@@ -368,6 +356,12 @@ Flacbox يشغل أيضاً MP3 و AAC و OGG و APE و MOD و MKA وحاويا�
   {{< hextra/info-paragraph border="true" >}}
    <strong>مشاركة عائلية</strong>: جميع المشتريات والاشتراكات تدعم المشاركة العائلية، مما يتيح لك مشاركة الوصول المميز مع عائلتك.<br><strong>وصول شامل</strong>: خطط مدى الحياة والاشتراكات مشتركة بين أجهزة iOS و Mac باستخدام مزامنة iCloud.<br><strong>الأسعار</strong>: الأسعار معروضة بالدولار الأمريكي للولايات المتحدة. قد يختلف السعر النهائي بناءً على منطقتك.  
   {{< /hextra/info-paragraph >}}
+</div>
+
+<div class="hx:mt-6"></div>
+
+<div class="hx:w-full">
+{{< app-details heading="true" >}}
 </div>
 
 <div class="hx:mt-6"></div>

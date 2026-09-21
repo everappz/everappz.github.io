@@ -60,19 +60,7 @@ Flacbox
 {{< /hextra/hero-paragraph >}}
 </div>
 
-{{< hextra/hero-button 
-    textKey="downloadForiOS"
-    link="https://apps.apple.com/app/apple-store/id1097564256?pt=95781850&ct=everappzcom&mt=8"
-    icon="device-mobile"
-    style="margin-top:1rem;margin-right:1rem;"
->}}
-
-{{< hextra/hero-button 
-    textKey="downloadForMacOS"
-    link="https://apps.apple.com/app/apple-store/id1594027432?pt=95781850&ct=everappzcom&mt=8"
-    icon="desktop-computer" 
-    style="margin-top:1rem;margin-right:1rem;"
->}}
+{{< app-store-badges products="flacbox:ios, flacbox:macos" >}}
 
 </div>
 
@@ -368,6 +356,12 @@ App Store -arvostelut
   {{< hextra/info-paragraph border="true" >}}
    <strong>Perhejako</strong>: Kaikki ostot ja tilaukset tukevat Perhejakoa, joten voit jakaa Premium-käyttöoikeuden perheesi kanssa.<br><strong>Universaali käyttöoikeus</strong>: Elinikäiset ja tilaussuunnitelmat jaetaan iOS- ja Mac-laitteiden välillä iCloud-synkronoinnilla.<br><strong>Hinnoittelu</strong>: Hinnat näytetään Yhdysvaltain dollareissa. Lopullinen hinta voi vaihdella alueesi mukaan.  
   {{< /hextra/info-paragraph >}}
+</div>
+
+<div class="hx:mt-6"></div>
+
+<div class="hx:w-full">
+{{< app-details heading="true" >}}
 </div>
 
 <div class="hx:mt-6"></div>

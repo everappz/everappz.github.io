@@ -66,19 +66,7 @@ Evermusic — это бесплатный офлайн-музыкальный п
 {{< /hextra/hero-paragraph >}}
 </div>
 
-{{< hextra/hero-button 
-  textKey="downloadForiOS"
-  link="https://apps.apple.com/app/apple-store/id885367198?pt=95781850&ct=everappzcom&mt=8"
-  icon="device-mobile" 
-  style="margin-top:1rem;margin-right:1rem;"
->}}
-
-{{< hextra/hero-button 
-  textKey="downloadForMacOS"
-  link="https://apps.apple.com/app/apple-store/id1564384601?pt=95781850&ct=everappzcom&mt=8"
-  icon="desktop-computer" 
-  style="margin-top:1rem;margin-right:1rem;"
->}}
+{{< app-store-badges products="evermusic:ios, evermusic:macos" >}}
 
 </div>
 
@@ -401,6 +389,12 @@ Evermusic — это бесплатный офлайн-музыкальный п
   {{< hextra/info-paragraph border="true" >}}
    <strong>Семейный доступ</strong>: Все покупки и подписки поддерживают Семейный доступ, позволяя делиться Премиум-доступом с семьёй.<br><strong>Универсальный доступ</strong>: Пожизненные планы и подписки действуют на устройствах iOS и Mac благодаря синхронизации iCloud.<br><strong>Цены</strong>: Цены указаны в долларах США для Соединённых Штатов. Окончательная цена может отличаться в зависимости от вашего региона.  
   {{< /hextra/info-paragraph >}}
+</div>
+
+<div class="hx:mt-6"></div>
+
+<div class="hx:w-full">
+{{< app-details heading="true" >}}
 </div>
 
 <div class="hx:mt-6"></div>

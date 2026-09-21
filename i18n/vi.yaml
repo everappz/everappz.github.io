@@ -107,3 +107,17 @@ nextSlide: "Trang trình bày tiếp theo"
 # Product download buttons
 downloadForiOS: "Tải cho iOS"
 downloadForMacOS: "Tải cho macOS"
+
+# App details shortcode
+appPlatform: "Nền tảng"
+appVersion: "Phiên bản"
+appPrice: "Giá"
+appSize: "Kích thước"
+appReleased: "Phát hành"
+appUpdated: "Đã cập nhật"
+appAge: "Độ tuổi"
+appCategory: "Danh mục"
+appLanguage: "Ngôn ngữ"
+appRating: "Đánh giá"
+appMore: "Thêm"
+appInformation: "Thông tin ứng dụng"

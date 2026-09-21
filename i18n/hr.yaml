@@ -109,3 +109,17 @@ nextSlide: "Sljedeći slajd"
 # Product download buttons
 downloadForiOS: "Preuzmi za iOS"
 downloadForMacOS: "Preuzmi za macOS"
+
+# App details shortcode
+appPlatform: "Platforma"
+appVersion: "Verzija"
+appPrice: "Cijena"
+appSize: "Veličina"
+appReleased: "Objavljeno"
+appUpdated: "Ažurirano"
+appAge: "Dob"
+appCategory: "Kategorija"
+appLanguage: "Jezik"
+appRating: "Ocjena"
+appMore: "Više"
+appInformation: "Informacije o aplikaciji"

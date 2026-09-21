@@ -1,0 +1,187 @@
+{{- /*
+  app-details: fetch App Store details for one or more apps via the public
+  iTunes Lookup API and render them in the applookup.pro card style, adapted
+  to the site's light/dark theme.
+
+  Params:
+    ids      Comma/space separated list of App Store numeric IDs (required).
+             Positional args are also accepted, e.g. {{< app-details 885367198 >}}
+    country  App Store storefront (default "us").
+
+  Example:  {{< app-details ids="885367198, 1097564256" >}}
+*/ -}}
+
+{{- /* Emit shared CSS once per page. */ -}}
+{{- if not (.Page.Store.Get "appDetailsAssets") -}}
+{{- .Page.Store.Set "appDetailsAssets" true -}}
+<style>
+.app-details{--surface:#fff;--surface2:#f5f5f7;--border:#e3e3e8;--text:#1d1d1f;--text2:#6e6e73;--accent:#3b82f6;--accent2:#2563eb;--green:#059669;--orange:#ea7317;--pink:#db2777;color:var(--text);}
+.dark .app-details{--surface:#141418;--surface2:#1c1c22;--border:#2a2a33;--text:#e8e8ed;--text2:#8e8e9a;--accent:#3b82f6;--accent2:#60a5fa;--green:#34d399;--orange:#fb923c;--pink:#f472b6;}
+.app-details{margin:1.5rem 0;}
+.app-details .app-header{display:flex;flex-direction:column;gap:20px;background:var(--surface);border:1px solid var(--border);border-radius:16px;padding:28px 32px;margin-bottom:16px;container-type:inline-size;}
+.app-details .app-top{display:flex;align-items:center;gap:16px;min-width:0;}
+.app-details .app-icon{width:72px;height:72px;border-radius:16px;flex-shrink:0;box-shadow:0 4px 16px rgba(0,0,0,0.3);overflow:hidden;}
+.app-details .app-icon img{width:100%;height:100%;object-fit:cover;display:block;}
+.app-details .app-icon.is-mac img{transform:scale(1.15);}
+.app-details .app-top h2{font-size:1.9rem;font-weight:800;letter-spacing:-.02em;margin:0;border:0;padding:0;min-width:0;flex:1;}
+.app-details .app-store{line-height:0;}
+.app-details .app-store img{width:auto;height:60px;min-width:150px;display:block;}
+.app-details .app-store-inline{display:none;flex-shrink:0;margin-left:auto;}
+.app-details .app-store-stacked{display:flex;justify-content:center;}
+@container (min-width:600px){
+  .app-details .app-store-inline{display:block;}
+  .app-details .app-store-stacked{display:none;}
+}
+.app-details .app-store .badge-dark{display:none;}
+.dark .app-details .app-store .badge-light{display:none;}
+.dark .app-details .app-store .badge-dark{display:block;}
+.app-details .detail-grid{display:flex;flex-wrap:wrap;gap:12px;}
+.app-details .detail-item{background:var(--surface2);border-radius:10px;padding:12px 16px;display:flex;flex-direction:column;align-items:center;text-align:center;flex:0 0 auto;}
+.app-details .detail-item .label{font-size:.72rem;text-transform:uppercase;letter-spacing:.06em;color:var(--text2);margin-bottom:4px;white-space:nowrap;}
+.app-details .detail-item .value{font-size:.88rem;font-weight:500;color:var(--text);white-space:nowrap;}
+@media (max-width:640px){.app-details .app-header{padding:24px;}}
+</style>
+<script>
+(function(){
+  if(window.__appIconSwap)return;window.__appIconSwap=true;
+  function run(){
+    document.querySelectorAll('.app-details .app-icon img[data-src]').forEach(function(img){
+      var live=img.getAttribute('data-src');if(!live)return;
+      var pre=new Image();
+      pre.onload=function(){img.src=live;img.removeAttribute('data-src');};
+      pre.src=live;
+    });
+  }
+  if(document.readyState!=='loading')run();else document.addEventListener('DOMContentLoaded',run);
+})();
+</script>
+{{- end -}}
+
+{{- /* Collect app IDs from the "ids" param or from positional args. */ -}}
+{{- $ids := slice -}}
+{{- with .Get "ids" -}}
+  {{- range split (replaceRE `[,\s]+` "," (trim . " ,")) "," -}}
+    {{- if . -}}{{- $ids = $ids | append . -}}{{- end -}}
+  {{- end -}}
+{{- end -}}
+{{- /* Fall back to data/apps.yaml for the current product when no ids are given. */ -}}
+{{- if not $ids -}}
+  {{- $key := .Get "product" | default (path.Base .Page.File.Dir) -}}
+  {{- with index hugo.Data.apps $key -}}
+    {{- with .ios -}}{{- $ids = $ids | append . -}}{{- end -}}
+    {{- with .pro -}}{{- $ids = $ids | append . -}}{{- end -}}
+    {{- with .mac -}}{{- $ids = $ids | append . -}}{{- end -}}
+  {{- end -}}
+{{- end -}}
+{{- $country := .Get "country" | default "us" -}}
+
+{{- if eq (.Get "heading") "true" -}}
+<h2 class="not-prose hx:text-4xl hx:font-bold hx:leading-none hx:tracking-tighter hx:md:text-5xl hx:py-2 hx:text-gray-900 hx:dark:text-gray-100 hx:mx-auto hx:text-center">{{ i18n "appInformation" }}</h2>
+<div class="hx:mt-6"></div>
+{{- end -}}
+
+{{- range $ids -}}
+  {{- $id := . -}}
+  {{- $url := printf "https://itunes.apple.com/lookup?id=%s&country=%s" $id $country -}}
+  {{- with try (resources.GetRemote $url) -}}
+    {{- with .Err -}}
+      {{- warnf "app-details: fetch failed for id %s: %s" $id . -}}
+    {{- else with .Value -}}
+      {{- $data := .Content | transform.Unmarshal -}}
+      {{- if and $data.results (gt (len $data.results) 0) -}}
+        {{- $app := index $data.results 0 -}}
+
+        {{- /* App name only: drop everything after the first : or - (tagline/keywords). */ -}}
+        {{- $name := trim (replaceRE `\s*[-:–—].*` "" $app.trackName) " " -}}
+        {{- $art := $app.artworkUrl512 | default $app.artworkUrl100 | default $app.artworkUrl60 -}}
+        {{- $iconRemote := replace $art "512x512bb" "256x256bb" -}}
+        {{- /* Self-hosted stub: download the icon at build time; client swaps to the
+             live Apple CDN version once it loads (see data-src + swap script). */ -}}
+        {{- $iconLocal := $iconRemote -}}
+        {{- with try (resources.GetRemote $iconRemote) -}}
+          {{- with .Value -}}
+            {{- $iconLocal = (.Resize "256x256 webp").RelPermalink -}}
+          {{- end -}}
+        {{- end -}}
+        {{- $size := "" -}}{{- with $app.fileSizeBytes -}}{{- $size = printf "%.1f MB" (div (float .) 1048576.0) -}}{{- end -}}
+        {{- $release := "" -}}{{- with $app.releaseDate -}}{{- $release = (time.AsTime .).Format "02.01.2006" -}}{{- end -}}
+        {{- $updated := "" -}}{{- with $app.currentVersionReleaseDate -}}{{- $updated = (time.AsTime .).Format "02.01.2006" -}}{{- end -}}
+        {{- $price := $app.formattedPrice | default "Free" -}}
+        {{- $contentRating := $app.contentAdvisoryRating | default $app.trackContentRating -}}
+        {{- $genres := $app.primaryGenreName | default (index ($app.genres | default slice) 0) -}}
+        {{- $langCodes := $app.languageCodesISO2A -}}
+        {{- $langCount := len $langCodes -}}
+        {{- $primary := "" -}}
+        {{- if in $langCodes "EN" -}}{{- $primary = "EN" -}}{{- else if gt $langCount 0 -}}{{- $primary = index $langCodes 0 -}}{{- end -}}
+        {{- $langs := $primary -}}
+        {{- if gt $langCount 1 -}}{{- $langs = printf "%s + %d %s" $primary (sub $langCount 1) (i18n "appMore") -}}{{- end -}}
+        {{- $seller := $app.sellerName | default $app.artistName -}}
+        {{- $isMac := eq $app.kind "mac-software" -}}
+        {{- $platform := cond $isMac "macOS" "iOS" -}}
+        {{- $badge := cond $isMac "download-on-the-mac-app-store" "download-on-the-app-store" -}}
+        {{- $badgeW := cond $isMac 156 120 -}}
+        {{- $badgeAlt := cond $isMac "Download on the Mac App Store" "Download on the App Store" -}}
+        {{- $badgeLight := (printf "images/%s.svg" $badge) | relURL -}}
+        {{- $badgeDark := (printf "images/%s-white.svg" $badge) | relURL -}}
+        {{- $rating := "" -}}{{- with $app.averageUserRating -}}{{- $rating = printf "%.1f ★" . -}}{{- end -}}
+        {{- $ratingCount := "" -}}{{- with $app.userRatingCount -}}{{- $ratingCount = lang.FormatNumberCustom 0 . -}}{{- end -}}
+        {{- $cvRating := "" -}}{{- with $app.averageUserRatingForCurrentVersion -}}{{- $cvRating = printf "%.1f ★" . -}}{{- end -}}
+        {{- $cvRatingCount := "" -}}{{- with $app.userRatingCountForCurrentVersion -}}{{- $cvRatingCount = lang.FormatNumberCustom 0 . -}}{{- end -}}
+        {{- $ratingMerged := $cvRating -}}{{- if and $cvRating $cvRatingCount -}}{{- $ratingMerged = printf "%s (%s)" $cvRating $cvRatingCount -}}{{- end -}}
+
+        {{- $platformValue := $platform -}}{{- with $app.minimumOsVersion -}}{{- $platformValue = printf "%s %s +" $platform . -}}{{- end -}}
+        {{- $details := slice
+          (dict "label" (i18n "appPlatform")      "value" $platformValue)
+          (dict "label" (i18n "appVersion")       "value" $app.version)
+          (dict "label" (i18n "appPrice")         "value" $price)
+          (dict "label" (i18n "appRating")        "value" $ratingMerged)
+          (dict "label" (i18n "appAge")           "value" $contentRating)
+          (dict "label" (i18n "appUpdated")       "value" $updated)
+          (dict "label" (i18n "appReleased")      "value" $release)
+          (dict "label" (i18n "appCategory")      "value" $genres)
+          (dict "label" (i18n "appLanguage")      "value" $langs)
+          (dict "label" (i18n "appSize")          "value" $size)
+        -}}
+
+<div class="app-details not-prose">
+  <div class="app-header">
+    <div class="app-top">
+      <div class="app-icon{{ if $isMac }} is-mac{{ end }}">
+        <img src="{{ $iconLocal }}" data-src="{{ $iconRemote }}" alt="{{ $name }}" width="72" height="72" loading="lazy" decoding="async">
+      </div>
+      <h2>{{ $name }}</h2>
+      {{- with $app.trackViewUrl }}
+      <a class="app-store app-store-inline" href="{{ . }}" target="_blank" rel="noopener" aria-label="{{ $badgeAlt }}">
+        <img class="badge-light" src="{{ $badgeLight }}" alt="{{ $badgeAlt }}" width="{{ $badgeW }}" height="40" loading="lazy" decoding="async">
+        <img class="badge-dark" src="{{ $badgeDark }}" alt="{{ $badgeAlt }}" width="{{ $badgeW }}" height="40" loading="lazy" decoding="async">
+      </a>
+      {{- end }}
+    </div>
+    <div class="detail-grid">
+      {{- range $details }}
+      {{- $label := .label }}
+      {{- with .value }}
+      <div class="detail-item">
+        <div class="label">{{ $label }}</div>
+        <div class="value">{{ . }}</div>
+      </div>
+      {{- end }}
+      {{- end }}
+    </div>
+    {{- with $app.trackViewUrl }}
+    <a class="app-store app-store-stacked" href="{{ . }}" target="_blank" rel="noopener" aria-label="{{ $badgeAlt }}">
+      <img class="badge-light" src="{{ $badgeLight }}" alt="{{ $badgeAlt }}" width="{{ $badgeW }}" height="40" loading="lazy" decoding="async">
+      <img class="badge-dark" src="{{ $badgeDark }}" alt="{{ $badgeAlt }}" width="{{ $badgeW }}" height="40" loading="lazy" decoding="async">
+    </a>
+    {{- end }}
+  </div>
+</div>
+
+      {{- else -}}
+        {{- warnf "app-details: no results for id %s" $id -}}
+      {{- end -}}
+    {{- else -}}
+      {{- warnf "app-details: unable to fetch %q" $url -}}
+    {{- end -}}
+  {{- end -}}
+{{- end -}}

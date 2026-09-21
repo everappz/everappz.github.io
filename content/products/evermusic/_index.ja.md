@@ -66,19 +66,7 @@ Evermusicは、スペインのソフトウェア企業であるEverappzが開発
 {{< /hextra/hero-paragraph >}}
 </div>
 
-{{< hextra/hero-button 
-  textKey="downloadForiOS"
-  link="https://apps.apple.com/app/apple-store/id885367198?pt=95781850&ct=everappzcom&mt=8"
-  icon="device-mobile" 
-  style="margin-top:1rem;margin-right:1rem;"
->}}
-
-{{< hextra/hero-button 
-  textKey="downloadForMacOS"
-  link="https://apps.apple.com/app/apple-store/id1564384601?pt=95781850&ct=everappzcom&mt=8"
-  icon="desktop-computer" 
-  style="margin-top:1rem;margin-right:1rem;"
->}}
+{{< app-store-badges products="evermusic:ios, evermusic:macos" >}}
 
 </div>
 
@@ -401,6 +389,12 @@ Evermusicは、スペインのソフトウェア企業であるEverappzが開発
   {{< hextra/info-paragraph border="true" >}}
    <strong>ファミリー共有</strong>：すべての購入とサブスクリプションはファミリー共有をサポートしており、ご家族とプレミアムアクセスを共有できます。<br><strong>ユニバーサルアクセス</strong>：永久版とサブスクリプションプランはiCloudの同期を使用してiOSとMacデバイス間で共有されます。<br><strong>価格</strong>：価格は米国向けの米ドルで表示されています。最終価格はお住まいの地域によって異なる場合があります。  
   {{< /hextra/info-paragraph >}}
+</div>
+
+<div class="hx:mt-6"></div>
+
+<div class="hx:w-full">
+{{< app-details heading="true" >}}
 </div>
 
 <div class="hx:mt-6"></div>

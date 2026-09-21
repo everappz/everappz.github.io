@@ -109,3 +109,17 @@ nextSlide: "Επόμενη διαφάνεια"
 # Product download buttons
 downloadForiOS: "Λήψη για iOS"
 downloadForMacOS: "Λήψη για macOS"
+
+# App details shortcode
+appPlatform: "Πλατφόρμα"
+appVersion: "Έκδοση"
+appPrice: "Τιμή"
+appSize: "Μέγεθος"
+appReleased: "Κυκλοφορία"
+appUpdated: "Ενημερώθηκε"
+appAge: "Ηλικία"
+appCategory: "Κατηγορία"
+appLanguage: "Γλώσσα"
+appRating: "Βαθμολογία"
+appMore: "Περισσότερα"
+appInformation: "Πληροφορίες εφαρμογής"

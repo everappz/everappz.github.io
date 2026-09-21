@@ -107,3 +107,17 @@ nextSlide: "השקופית הבאה"
 # Product download buttons
 downloadForiOS: "הורד ל-iOS"
 downloadForMacOS: "הורד ל-macOS"
+
+# App details shortcode
+appPlatform: "פלטפורמה"
+appVersion: "גרסה"
+appPrice: "מחיר"
+appSize: "גודל"
+appReleased: "פורסם"
+appUpdated: "עודכן"
+appAge: "גיל"
+appCategory: "קטגוריה"
+appLanguage: "שפה"
+appRating: "דירוג"
+appMore: "עוד"
+appInformation: "פרטי האפליקציה"

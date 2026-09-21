@@ -51,19 +51,7 @@ Evertag — це редактор музичних тегів для iPhone і M
 {{< /hextra/hero-paragraph >}}
 </div>
 
-{{< hextra/hero-button 
-  textKey="downloadForiOS"
-  link="https://apps.apple.com/app/apple-store/id1450763230?pt=95781850&ct=everappzcom&mt=8"
-  icon="device-mobile" 
-  style="margin-top:1rem;margin-right:1rem;"
->}}
-
-{{< hextra/hero-button 
-  textKey="downloadForMacOS"
-  link="https://apps.apple.com/app/apple-store/id1594027661?pt=95781850&ct=everappzcom&mt=8"
-  icon="desktop-computer" 
-  style="margin-top:1rem;margin-right:1rem;"
->}}
+{{< app-store-badges products="evertag:ios, evertag:macos" >}}
 
 </div>
 
@@ -256,6 +244,12 @@ Evertag — це редактор музичних тегів для iPhone і M
   {{< hextra/info-paragraph border="true" >}}
    <strong>Сімейний доступ</strong>: Усі покупки та підписки підтримують Сімейний доступ, що дозволяє вам ділитися Преміум-доступом з вашою родиною.<br><strong>Універсальний доступ</strong>: Плани на все життя та підписки спільні між пристроями iOS та Mac за допомогою синхронізації iCloud.<br><strong>Ціни</strong>: Ціни вказані в доларах США для Сполучених Штатів. Остаточна ціна може відрізнятися залежно від вашого регіону.  
   {{< /hextra/info-paragraph >}}
+</div>
+
+<div class="hx:mt-6"></div>
+
+<div class="hx:w-full">
+{{< app-details heading="true" >}}
 </div>
 
 <div class="hx:mt-6"></div>

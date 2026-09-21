@@ -66,19 +66,7 @@ Evermusic iPhone और Mac के लिए एक निःशुल्क ऑ
 {{< /hextra/hero-paragraph >}}
 </div>
 
-{{< hextra/hero-button 
-  textKey="downloadForiOS"
-  link="https://apps.apple.com/app/apple-store/id885367198?pt=95781850&ct=everappzcom&mt=8"
-  icon="device-mobile" 
-  style="margin-top:1rem;margin-right:1rem;"
->}}
-
-{{< hextra/hero-button 
-  textKey="downloadForMacOS"
-  link="https://apps.apple.com/app/apple-store/id1564384601?pt=95781850&ct=everappzcom&mt=8"
-  icon="desktop-computer" 
-  style="margin-top:1rem;margin-right:1rem;"
->}}
+{{< app-store-badges products="evermusic:ios, evermusic:macos" >}}
 
 </div>
 
@@ -401,6 +389,12 @@ Evermusic iPhone और Mac के लिए एक निःशुल्क ऑ
   {{< hextra/info-paragraph border="true" >}}
    <strong>फैमिली शेयरिंग</strong>: सभी खरीदारी और सदस्यताएं फैमिली शेयरिंग का समर्थन करती हैं, जिससे आप अपने परिवार के साथ प्रीमियम एक्सेस साझा कर सकते हैं।<br><strong>यूनिवर्सल एक्सेस</strong>: आजीवन और सदस्यता योजनाएं iCloud सिंक्रनाइज़ेशन का उपयोग करके iOS और Mac उपकरणों के बीच साझा की जाती हैं।<br><strong>मूल्य निर्धारण</strong>: कीमतें संयुक्त राज्य अमेरिका के लिए अमेरिकी डॉलर में दिखाई गई हैं। अंतिम मूल्य निर्धारण आपके क्षेत्र के आधार पर भिन्न हो सकता है।  
   {{< /hextra/info-paragraph >}}
+</div>
+
+<div class="hx:mt-6"></div>
+
+<div class="hx:w-full">
+{{< app-details heading="true" >}}
 </div>
 
 <div class="hx:mt-6"></div>
