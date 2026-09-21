@@ -8,9 +8,10 @@
 {{- $isMac := eq $platform "macos" -}}
 {{- $badge := cond $isMac "download-on-the-mac-app-store" "download-on-the-app-store" -}}
 {{- $alt := cond $isMac "Download on the Mac App Store" "Download on the App Store" -}}
-{{- $w := cond $isMac 156 120 -}}
-{{- $light := (printf "images/%s.svg" $badge) | relURL -}}
-{{- $dark := (printf "images/%s-white.svg" $badge) | relURL -}}
+{{- $src := partial "appstore-badge-src.html" (dict "badge" $badge "isMac" $isMac) -}}
+{{- $light := $src.light -}}
+{{- $dark := $src.dark -}}
+{{- $w := $src.width -}}
 {{- if not ($page.Store.Get "appStoreBadgeCss") -}}
 {{- $page.Store.Set "appStoreBadgeCss" true -}}
 <style>

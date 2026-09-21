@@ -1,0 +1,28 @@
+{{- /*
+  Returning partial: resolve localized App Store badge asset URLs for the current
+  site language, falling back to the English badge in static/images/ when Apple
+  has no localized version. Also returns the intrinsic width (height is 40).
+
+  Params (dict): badge (e.g. "download-on-the-app-store"), isMac (bool).
+  Returns dict: { light, dark, width }.
+*/ -}}
+{{- $badge := .badge -}}
+{{- $isMac := .isMac -}}
+{{- $lang := site.Language.Lang -}}
+{{- $lightFile := printf "%s.svg" $badge -}}
+{{- $darkFile := printf "%s-white.svg" $badge -}}
+{{- $lightFs := printf "static/images/appstore-badges/%s/%s" $lang $lightFile -}}
+{{- $darkFs := printf "static/images/appstore-badges/%s/%s" $lang $darkFile -}}
+{{- $light := (printf "images/%s" $lightFile) | relURL -}}
+{{- $dark := (printf "images/%s" $darkFile) | relURL -}}
+{{- $w := cond $isMac 156 120 -}}
+{{- if os.FileExists $lightFs -}}
+  {{- $light = (printf "images/appstore-badges/%s/%s" $lang $lightFile) | relURL -}}
+  {{- with (findRESubmatch `viewBox="0 0 ([0-9.]+)` (os.ReadFile $lightFs)) -}}
+    {{- $w = int (math.Round (float (index (index . 0) 1))) -}}
+  {{- end -}}
+{{- end -}}
+{{- if os.FileExists $darkFs -}}
+  {{- $dark = (printf "images/appstore-badges/%s/%s" $lang $darkFile) | relURL -}}
+{{- end -}}
+{{- return (dict "light" $light "dark" $dark "width" $w) -}}

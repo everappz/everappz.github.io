@@ -139,10 +139,11 @@
         {{- $isMac := eq $app.kind "mac-software" -}}
         {{- $platform := cond $isMac "macOS" "iOS" -}}
         {{- $badge := cond $isMac "download-on-the-mac-app-store" "download-on-the-app-store" -}}
-        {{- $badgeW := cond $isMac 156 120 -}}
         {{- $badgeAlt := cond $isMac "Download on the Mac App Store" "Download on the App Store" -}}
-        {{- $badgeLight := (printf "images/%s.svg" $badge) | relURL -}}
-        {{- $badgeDark := (printf "images/%s-white.svg" $badge) | relURL -}}
+        {{- $badgeSrc := partial "appstore-badge-src.html" (dict "badge" $badge "isMac" $isMac) -}}
+        {{- $badgeLight := $badgeSrc.light -}}
+        {{- $badgeDark := $badgeSrc.dark -}}
+        {{- $badgeW := $badgeSrc.width -}}
         {{- $rating := "" -}}{{- with $app.averageUserRating -}}{{- $rating = printf "%.1f ★" . -}}{{- end -}}
         {{- $ratingCount := "" -}}{{- with $app.userRatingCount -}}{{- $ratingCount = lang.FormatNumberCustom 0 . -}}{{- end -}}
         {{- $cvRating := "" -}}{{- with $app.averageUserRatingForCurrentVersion -}}{{- $cvRating = printf "%.1f ★" . -}}{{- end -}}
