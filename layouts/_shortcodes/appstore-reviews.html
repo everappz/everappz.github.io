@@ -169,18 +169,19 @@
     // Load cached reviews on first call
     await loadCachedReviews();
 
-    // Fetch next RSS page for each app in parallel
-    const rssResults = await Promise.all(appIds.map(fetchRSSPage));
-    const allNew = rssResults.flat();
-
-    // On first load, also merge cached reviews
+    // First load: render the cached (same-origin) reviews right away, BEFORE any
+    // cross-origin RSS request. The Mac App Store RSS sends no CORS headers and some
+    // networks/ad-blockers stall itunes.apple.com — that must never block the render.
     if (renderIndex === 0) {
       for (const appId of appIds) {
-        allNew.push(...(cachedReviews[appId] || []));
+        mergeIntoPool(cachedReviews[appId] || []);
       }
+      renderBatch();
     }
 
-    mergeIntoPool(allNew);
+    // Augment with fresh RSS pages (best-effort; CORS/network failures are ignored).
+    const rssResults = await Promise.all(appIds.map(fetchRSSPage));
+    mergeIntoPool(rssResults.flat());
     renderBatch();
 
     isLoading = false;
@@ -201,11 +202,17 @@
     scroll();
   }
 
-  document.addEventListener('DOMContentLoaded', async () => {
-    await loadMore();
+  function init() {
+    loadMore();            // renders cached reviews ASAP; RSS augments in the background
     startScroll();
     // Periodically fetch more RSS pages to grow the pool
     setInterval(loadMore, 20000);
-  });
+  }
+  // Run now if the DOM is already parsed (inline script may execute after DOMContentLoaded).
+  if (document.readyState === 'loading') {
+    document.addEventListener('DOMContentLoaded', init);
+  } else {
+    init();
+  }
 })();
 </script>
