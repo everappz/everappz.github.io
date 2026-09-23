@@ -125,6 +125,7 @@ appMore: "Több"
 availableVersions: "Elérhető verziók"
 appDownloads: "Letöltések"
 worldwideDownloads: "Letöltések világszerte"
+releaseNotes: "Újdonságok"
 
 # Pricing plans (pricing-plans shortcode)
 pricingPlanFree: "Ingyenes"

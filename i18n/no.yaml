@@ -133,6 +133,7 @@ appMore: "Mer"
 availableVersions: "Tilgjengelige versjoner"
 appDownloads: "Nedlastinger"
 worldwideDownloads: "Nedlastinger over hele verden"
+releaseNotes: "Nyheter"
 
 # Pricing plans (pricing-plans shortcode)
 pricingPlanFree: "Gratis"

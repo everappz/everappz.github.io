@@ -125,6 +125,7 @@ appMore: "Περισσότερα"
 availableVersions: "Διαθέσιμες εκδόσεις"
 appDownloads: "Λήψεις"
 worldwideDownloads: "Λήψεις παγκοσμίως"
+releaseNotes: "Τι νέα"
 
 # Pricing plans (pricing-plans shortcode)
 pricingPlanFree: "Δωρεάν"

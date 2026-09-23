@@ -125,6 +125,7 @@ appMore: "और"
 availableVersions: "उपलब्ध संस्करण"
 appDownloads: "डाउनलोड"
 worldwideDownloads: "दुनिया भर में डाउनलोड"
+releaseNotes: "नया क्या है"
 
 # Pricing plans (pricing-plans shortcode)
 pricingPlanFree: "मुफ़्त"

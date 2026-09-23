@@ -125,6 +125,7 @@ appMore: "Daha Fazla"
 availableVersions: "Mevcut Sürümler"
 appDownloads: "İndirmeler"
 worldwideDownloads: "Dünya çapında indirmeler"
+releaseNotes: "Yenilikler"
 
 # Pricing plans (pricing-plans shortcode)
 pricingPlanFree: "Ücretsiz"

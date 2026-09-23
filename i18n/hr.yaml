@@ -125,6 +125,7 @@ appMore: "Više"
 availableVersions: "Dostupne verzije"
 appDownloads: "Preuzimanja"
 worldwideDownloads: "Preuzimanja diljem svijeta"
+releaseNotes: "Novosti"
 
 # Pricing plans (pricing-plans shortcode)
 pricingPlanFree: "Besplatno"

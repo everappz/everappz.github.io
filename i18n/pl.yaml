@@ -125,6 +125,7 @@ appMore: "Więcej"
 availableVersions: "Dostępne wersje"
 appDownloads: "Pobrania"
 worldwideDownloads: "Pobrań na całym świecie"
+releaseNotes: "Nowości"
 
 # Pricing plans (pricing-plans shortcode)
 pricingPlanFree: "Za darmo"

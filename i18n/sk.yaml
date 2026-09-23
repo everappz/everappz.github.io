@@ -125,6 +125,7 @@ appMore: "Viac"
 availableVersions: "Dostupné verzie"
 appDownloads: "Stiahnutia"
 worldwideDownloads: "Stiahnutí na celom svete"
+releaseNotes: "Novinky"
 
 # Pricing plans (pricing-plans shortcode)
 pricingPlanFree: "Zadarmo"

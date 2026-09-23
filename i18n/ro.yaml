@@ -123,6 +123,7 @@ appMore: "Mai mult"
 availableVersions: "Versiuni disponibile"
 appDownloads: "Descărcări"
 worldwideDownloads: "Descărcări la nivel mondial"
+releaseNotes: "Noutăți"
 
 # Pricing plans (pricing-plans shortcode)
 pricingPlanFree: "Gratuit"

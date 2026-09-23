@@ -123,6 +123,7 @@ appMore: "その他"
 availableVersions: "利用可能なバージョン"
 appDownloads: "ダウンロード数"
 worldwideDownloads: "世界中のダウンロード数"
+releaseNotes: "新機能"
 
 # Pricing plans (pricing-plans shortcode)
 pricingPlanFree: "無料"

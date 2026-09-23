@@ -125,6 +125,7 @@ appMore: "Lisää"
 availableVersions: "Saatavilla olevat versiot"
 appDownloads: "Lataukset"
 worldwideDownloads: "Latauksia maailmanlaajuisesti"
+releaseNotes: "Uutuudet"
 
 # Pricing plans (pricing-plans shortcode)
 pricingPlanFree: "Ilmainen"

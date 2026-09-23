@@ -123,6 +123,7 @@ appMore: "Více"
 availableVersions: "Dostupné verze"
 appDownloads: "Stažení"
 worldwideDownloads: "Stažení po celém světě"
+releaseNotes: "Novinky"
 
 # Pricing plans (pricing-plans shortcode)
 pricingPlanFree: "Zdarma"

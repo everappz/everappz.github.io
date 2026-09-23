@@ -125,6 +125,7 @@ appMore: "Mer"
 availableVersions: "Tillgängliga versioner"
 appDownloads: "Nedladdningar"
 worldwideDownloads: "Nedladdningar världen över"
+releaseNotes: "Nyheter"
 
 # Pricing plans (pricing-plans shortcode)
 pricingPlanFree: "Gratis"

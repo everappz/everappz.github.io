@@ -123,6 +123,7 @@ appMore: "Thêm"
 availableVersions: "Phiên bản có sẵn"
 appDownloads: "Lượt tải"
 worldwideDownloads: "Lượt tải trên toàn thế giới"
+releaseNotes: "Có gì mới"
 
 # Pricing plans (pricing-plans shortcode)
 pricingPlanFree: "Miễn phí"

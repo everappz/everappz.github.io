@@ -123,6 +123,7 @@ appMore: "더 보기"
 availableVersions: "사용 가능한 버전"
 appDownloads: "다운로드"
 worldwideDownloads: "전 세계 다운로드"
+releaseNotes: "새로운 기능"
 
 # Pricing plans (pricing-plans shortcode)
 pricingPlanFree: "무료"

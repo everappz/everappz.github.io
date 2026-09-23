@@ -125,6 +125,7 @@ appMore: "Lainnya"
 availableVersions: "Versi yang Tersedia"
 appDownloads: "Unduhan"
 worldwideDownloads: "Unduhan di seluruh dunia"
+releaseNotes: "Yang Baru"
 
 # Pricing plans (pricing-plans shortcode)
 pricingPlanFree: "Gratis"
