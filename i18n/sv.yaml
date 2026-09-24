@@ -126,7 +126,7 @@ availableVersions: "Tillgängliga versioner"
 appDownloads: "Nedladdningar"
 worldwideDownloads: "Nedladdningar världen över"
 releaseNotes: "Nyheter"
-appDataNote: "Appuppgifter och betyg kommer från App Store. Antalet nedladdningar kommer från App Store Connect och uppdateras regelbundet."
+appDataNote: "Appuppgifter och betyg kommer från den amerikanska App Store. Antalet nedladdningar kommer från App Store Connect och uppdateras regelbundet."
 reviewsHeaderApp: "Därför väljer folk %s"
 reviewsHeaderGeneric: "Därför älskar folk våra appar"
 

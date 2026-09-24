@@ -124,7 +124,7 @@ availableVersions: "利用可能なバージョン"
 appDownloads: "ダウンロード数"
 worldwideDownloads: "世界中のダウンロード数"
 releaseNotes: "新機能"
-appDataNote: "アプリの詳細情報と評価は App Store から取得しています。ダウンロード数は App Store Connect から取得し、定期的に更新しています。"
+appDataNote: "アプリの詳細情報と評価は米国の App Store から取得しています。ダウンロード数は App Store Connect から取得し、定期的に更新しています。"
 reviewsHeaderApp: "%s が選ばれる理由"
 reviewsHeaderGeneric: "私たちのアプリが愛される理由"
 

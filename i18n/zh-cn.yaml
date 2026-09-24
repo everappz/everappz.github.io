@@ -124,7 +124,7 @@ availableVersions: "可用版本"
 appDownloads: "下载量"
 worldwideDownloads: "全球下载量"
 releaseNotes: "新功能"
-appDataNote: "应用详情和评分来自 App Store。下载次数来自 App Store Connect，并定期更新。"
+appDataNote: "应用详情和评分来自美国 App Store。下载次数来自 App Store Connect，并定期更新。"
 reviewsHeaderApp: "为什么大家选择 %s"
 reviewsHeaderGeneric: "为什么大家喜爱我们的应用"
 

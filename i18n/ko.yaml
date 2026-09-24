@@ -124,7 +124,7 @@ availableVersions: "사용 가능한 버전"
 appDownloads: "다운로드"
 worldwideDownloads: "전 세계 다운로드"
 releaseNotes: "새로운 기능"
-appDataNote: "앱 세부 정보와 평점은 App Store에서 제공됩니다. 다운로드 수는 App Store Connect에서 제공되며 정기적으로 업데이트됩니다."
+appDataNote: "앱 세부 정보와 평점은 미국 App Store에서 제공됩니다. 다운로드 수는 App Store Connect에서 제공되며 정기적으로 업데이트됩니다."
 reviewsHeaderApp: "사람들이 %s을(를) 선택하는 이유"
 reviewsHeaderGeneric: "사람들이 우리 앱을 좋아하는 이유"
 

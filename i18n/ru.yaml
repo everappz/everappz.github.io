@@ -124,7 +124,7 @@ availableVersions: "Доступные версии"
 appDownloads: "Загрузки"
 worldwideDownloads: "Загрузок по всему миру"
 releaseNotes: "Что нового"
-appDataNote: "Сведения о приложениях и оценки поступают из App Store. Количество загрузок поступает из App Store Connect и регулярно обновляется."
+appDataNote: "Сведения о приложениях и оценки поступают из американского App Store. Количество загрузок поступает из App Store Connect и регулярно обновляется."
 reviewsHeaderApp: "Почему выбирают %s"
 reviewsHeaderGeneric: "Почему пользователи любят наши приложения"
 

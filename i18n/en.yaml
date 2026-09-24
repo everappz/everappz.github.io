@@ -134,7 +134,7 @@ availableVersions: "Available Versions"
 appDownloads: "Downloads"
 worldwideDownloads: "Worldwide Downloads"
 releaseNotes: "Release Notes"
-appDataNote: "App details and ratings come from the App Store. Download counts come from App Store Connect and are updated regularly."
+appDataNote: "App details and ratings come from the U.S. App Store. Download counts come from App Store Connect and are updated regularly."
 reviewsHeaderApp: "Why People Choose %s"
 reviewsHeaderGeneric: "Why People Love Our Apps"
 

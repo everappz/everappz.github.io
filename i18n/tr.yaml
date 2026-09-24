@@ -126,7 +126,7 @@ availableVersions: "Mevcut Sürümler"
 appDownloads: "İndirmeler"
 worldwideDownloads: "Dünya çapında indirmeler"
 releaseNotes: "Yenilikler"
-appDataNote: "Uygulama ayrıntıları ve puanlar App Store'dan alınır. İndirme sayıları App Store Connect'ten alınır ve düzenli olarak güncellenir."
+appDataNote: "Uygulama ayrıntıları ve puanlar ABD App Store'undan alınır. İndirme sayıları App Store Connect'ten alınır ve düzenli olarak güncellenir."
 reviewsHeaderApp: "İnsanlar neden %s uygulamasını tercih ediyor"
 reviewsHeaderGeneric: "İnsanlar uygulamalarımızı neden seviyor"
 
