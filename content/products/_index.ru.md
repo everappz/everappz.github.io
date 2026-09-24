@@ -40,7 +40,6 @@ tags: [
 </div>
 
 
-## Отзывы в App Store
 
 
 <div class="hx:mt-6"></div>

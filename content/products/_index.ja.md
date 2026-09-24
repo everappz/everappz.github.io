@@ -40,7 +40,6 @@ tags: [
 </div>
 
 
-## App Storeレビュー
 
 
 <div class="hx:mt-6"></div>

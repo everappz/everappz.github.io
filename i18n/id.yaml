@@ -126,6 +126,9 @@ availableVersions: "Versi yang Tersedia"
 appDownloads: "Unduhan"
 worldwideDownloads: "Unduhan di seluruh dunia"
 releaseNotes: "Yang Baru"
+appDataNote: "Detail aplikasi dan rating berasal dari App Store. Jumlah unduhan berasal dari App Store Connect dan diperbarui secara berkala."
+reviewsHeaderApp: "Mengapa orang memilih %s"
+reviewsHeaderGeneric: "Mengapa orang menyukai aplikasi kami"
 
 # Pricing plans (pricing-plans shortcode)
 pricingPlanFree: "Gratis"

@@ -85,9 +85,6 @@ Els nostres productes
 
 <div class="hx:mt-6"></div>
 
-{{< hextra/section-headline >}}
-Ressenyes de l'App Store
-{{< /hextra/section-headline >}}
 
 <div class="hx:mt-6"></div>
 

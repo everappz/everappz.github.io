@@ -40,7 +40,6 @@ Setiap produk menawarkan ciri-ciri berkuasa dan integrasi lancar dengan iOS dan 
 </div>
 
 
-## Ulasan App Store
 
 
 <div class="hx:mt-6"></div>

@@ -85,9 +85,6 @@ Produk Kami
 
 <div class="hx:mt-6"></div>
 
-{{< hextra/section-headline >}}
-Ulasan App Store
-{{< /hextra/section-headline >}}
 
 <div class="hx:mt-6"></div>
 

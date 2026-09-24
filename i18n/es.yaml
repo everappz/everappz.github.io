@@ -124,6 +124,9 @@ availableVersions: "Versiones disponibles"
 appDownloads: "Descargas"
 worldwideDownloads: "Descargas en todo el mundo"
 releaseNotes: "Novedades"
+appDataNote: "Los detalles de las apps y las valoraciones provienen de la App Store. El número de descargas proviene de App Store Connect y se actualiza periódicamente."
+reviewsHeaderApp: "Por qué la gente elige %s"
+reviewsHeaderGeneric: "Por qué a la gente le encantan nuestras apps"
 
 # Pricing plans (pricing-plans shortcode)
 pricingPlanFree: "Gratis"

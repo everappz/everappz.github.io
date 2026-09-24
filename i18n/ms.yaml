@@ -126,6 +126,9 @@ availableVersions: "Versi Tersedia"
 appDownloads: "Muat turun"
 worldwideDownloads: "Muat turun seluruh dunia"
 releaseNotes: "Yang Baharu"
+appDataNote: "Butiran aplikasi dan penilaian diperoleh daripada App Store. Bilangan muat turun diperoleh daripada App Store Connect dan dikemas kini secara berkala."
+reviewsHeaderApp: "Mengapa orang memilih %s"
+reviewsHeaderGeneric: "Mengapa orang menyukai aplikasi kami"
 
 # Pricing plans (pricing-plans shortcode)
 pricingPlanFree: "Percuma"

@@ -40,7 +40,6 @@ Cada produto oferece recursos poderosos e integração perfeita com iOS e macOS.
 </div>
 
 
-## Avaliações na App Store
 
 
 <div class="hx:mt-6"></div>

@@ -40,7 +40,6 @@ Minden termék hatékony funkciókat és zökkenőmentes integrációt kínál i
 </div>
 
 
-## App Store vélemények
 
 
 <div class="hx:mt-6"></div>

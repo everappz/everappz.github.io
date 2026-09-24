@@ -126,6 +126,9 @@ availableVersions: "Dostupné verzie"
 appDownloads: "Stiahnutia"
 worldwideDownloads: "Stiahnutí na celom svete"
 releaseNotes: "Novinky"
+appDataNote: "Podrobnosti o aplikáciách a hodnotenia pochádzajú z App Store. Počty stiahnutí pochádzajú z App Store Connect a pravidelne sa aktualizujú."
+reviewsHeaderApp: "Prečo si ľudia vyberajú %s"
+reviewsHeaderGeneric: "Prečo ľudia milujú naše aplikácie"
 
 # Pricing plans (pricing-plans shortcode)
 pricingPlanFree: "Zadarmo"

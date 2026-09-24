@@ -85,9 +85,6 @@ headless: false
 
 <div class="hx:mt-6"></div>
 
-{{< hextra/section-headline >}}
-รีวิวจาก App Store
-{{< /hextra/section-headline >}}
 
 <div class="hx:mt-6"></div>
 

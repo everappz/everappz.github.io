@@ -40,7 +40,6 @@ Each product offers powerful features and seamless integration with iOS and macO
 </div>
 
 
-## App Store Reviews
 
 
 <div class="hx:mt-6"></div>

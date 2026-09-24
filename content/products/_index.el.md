@@ -40,7 +40,6 @@ tags: [
 </div>
 
 
-## Κριτικές App Store
 
 
 <div class="hx:mt-6"></div>

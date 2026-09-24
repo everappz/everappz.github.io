@@ -40,7 +40,6 @@ Ogni prodotto offre funzionalità potenti e un'integrazione perfetta con iOS e m
 </div>
 
 
-## Recensioni sull'App Store
 
 
 <div class="hx:mt-6"></div>

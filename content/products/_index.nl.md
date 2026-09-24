@@ -40,7 +40,6 @@ Elk product biedt krachtige functies en naadloze integratie met iOS en macOS.
 </div>
 
 
-## App Store-beoordelingen
 
 
 <div class="hx:mt-6"></div>

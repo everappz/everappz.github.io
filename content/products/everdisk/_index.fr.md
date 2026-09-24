@@ -255,14 +255,11 @@ Transformez votre iPhone ou iPad en disque sans fil qui partage vos fichiers ave
 <div class="hx:mt-6"></div>
 
 <!-- TODO: re-enable the App Store Reviews section once Everdisk has more than 5 reviews.
-{{< hextra/section-headline >}}
-  App Store Reviews
-{{< /hextra/section-headline >}}
 
 <div class="hx:mt-6"></div>
 
 <div class="hx:w-full">
-{{< appstore-reviews apps="6751851132" stars="5,4" >}}
+{{< appstore-reviews apps="6751851132" stars="5,4"  app="Everdisk" >}}
 </div>
 
 <div class="hx:mt-6"></div>

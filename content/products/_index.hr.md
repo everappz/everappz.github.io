@@ -40,7 +40,6 @@ Svaki proizvod nudi moćne značajke i besprijekornu integraciju s iOS-om i macO
 </div>
 
 
-## Recenzije na App Storeu
 
 
 <div class="hx:mt-6"></div>

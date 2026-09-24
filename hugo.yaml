@@ -33,7 +33,7 @@ languages:
   ar:
     label: عربي
     locale: ar
-    languageDirection: rtl
+    direction: rtl
     weight: 1
     title: Everappz
     params:
@@ -102,7 +102,7 @@ languages:
   he:
     label: עברית
     locale: he
-    languageDirection: rtl
+    direction: rtl
     weight: 11
     title: Everappz
     params:

@@ -276,3 +276,11 @@
     {{- end -}}
   {{- end -}}
 {{- end -}}
+
+{{- /* Data-source note: rendered once at the end of the section, using the same
+     card style (border, colors, hover, light/dark) as the pricing-plans footer. */ -}}
+{{- if $ids }}
+<div class="hx:w-full hx:mx-auto hx:flex hx:flex-col hx:items-center hx:mt-4">
+  <p class="not-prose hx:text-xs hx:font-normal hx:text-gray-500 hx:dark:text-gray-400 hx:text-left hx:rounded-lg hx:border hx:border-gray-200 hx:dark:border-neutral-800 hx:hover:border-gray-300 hx:dark:hover:border-neutral-700 hx:transition-all hx:duration-200 hx:p-4">{{ i18n "appDataNote" }}</p>
+</div>
+{{- end -}}

@@ -1,3 +1,12 @@
+{{- /* Section header: "Why people choose <App>" on a single-app product page
+     (pass app="Evermusic"), or the generic "Why people love our apps" on the
+     homepage and mixed-app pages. Styled to match hextra/section-headline. */ -}}
+{{- $app := .Get "app" -}}
+{{- $heading := i18n "reviewsHeaderGeneric" -}}
+{{- with $app -}}{{- $heading = printf (i18n "reviewsHeaderApp") . -}}{{- end -}}
+<h2 style="padding-top:4rem;padding-bottom:0.5rem" class="not-prose hx:text-4xl hx:font-bold hx:leading-none hx:tracking-tighter hx:md:text-5xl hx:text-gray-900 hx:dark:text-gray-100 hx:mx-auto hx:text-center">{{ $heading }}</h2>
+<div class="hx:mt-6"></div>
+
 <div class="hx:relative hx:overflow-hidden hx:rounded-xl hx:my-12 hx:border hx:border-gray-200 hx:dark:border-neutral-800" style="height: 600px;">
   <div id="commentsContainer-{{ .Get "apps" | urlize }}" class="hx:flex hx:flex-col hx:gap-4 hx:px-4 hx:py-6 hx:overflow-hidden hx:text-sm hx:leading-relaxed hx:text-gray-800 hx:dark:text-gray-100">
     <!-- Reviews will be injected here -->
@@ -27,10 +36,6 @@
   // Cached reviews (loaded once per app)
   const cachedReviews = {};
   let cachedLoaded = false;
-
-  function generateStars(rating) {
-    return '★'.repeat(rating) + '☆'.repeat(5 - rating);
-  }
 
   function renderComment(r) {
     const div = document.createElement('div');
@@ -67,17 +72,12 @@
     ].join(' ');
 
     div.innerHTML = `
-      <span class="hx:flex hx:items-center hx:gap-2 hx:font-semibold hx:text-gray-700 hx:dark:text-neutral-200">
-        ${r.author}
-      </span>
-      <div class="hx:mt-1 hx:text-xs hx:text-gray-500 hx:dark:text-gray-400">
-        ${generateStars(r.rating)}
-      </div>
-      <div class="hx:mt-1 hx:text-xs hx:text-gray-500 hx:dark:text-gray-400">
-        ${new Date(r.date).toLocaleDateString()}
-      </div>
+      ${r.title ? `<span class="hx:font-semibold hx:text-gray-700 hx:dark:text-neutral-200">${r.title}</span>` : ''}
       <div class="hx:mt-2 hx:text-sm hx:text-gray-600 hx:dark:text-gray-300">
         ${r.content}
+      </div>
+      <div class="hx:mt-2 hx:text-xs hx:text-gray-500 hx:dark:text-gray-400">
+        ${new Date(r.date).toLocaleDateString()} · ${r.author}
       </div>
     `;
     container.appendChild(div);
@@ -98,6 +98,7 @@
       id: entry.id.label,
       author: entry.author.name.label,
       rating: parseInt(entry['im:rating'].label, 10),
+      title: entry.title ? entry.title.label : '',
       content: entry.content.label,
       date: entry.updated.label,
     };

@@ -85,9 +85,6 @@ Naši proizvodi
 
 <div class="hx:mt-6"></div>
 
-{{< hextra/section-headline >}}
-Recenzije iz App Storea
-{{< /hextra/section-headline >}}
 
 <div class="hx:mt-6"></div>
 

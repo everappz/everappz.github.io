@@ -40,7 +40,6 @@ Mỗi sản phẩm cung cấp các tính năng mạnh mẽ và tích hợp liề
 </div>
 
 
-## Đánh giá trên App Store
 
 
 <div class="hx:mt-6"></div>

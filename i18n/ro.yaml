@@ -124,6 +124,9 @@ availableVersions: "Versiuni disponibile"
 appDownloads: "Descărcări"
 worldwideDownloads: "Descărcări la nivel mondial"
 releaseNotes: "Noutăți"
+appDataNote: "Detaliile aplicațiilor și evaluările provin din App Store. Numărul de descărcări provine din App Store Connect și este actualizat periodic."
+reviewsHeaderApp: "De ce aleg oamenii %s"
+reviewsHeaderGeneric: "De ce iubesc oamenii aplicațiile noastre"
 
 # Pricing plans (pricing-plans shortcode)
 pricingPlanFree: "Gratuit"

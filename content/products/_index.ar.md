@@ -40,7 +40,6 @@ tags: [
 </div>
 
 
-## مراجعات App Store
 
 
 <div class="hx:mt-6"></div>

@@ -40,7 +40,6 @@ Varje produkt erbjuder kraftfulla funktioner och sömlös integration med iOS oc
 </div>
 
 
-## App Store-recensioner
 
 
 <div class="hx:mt-6"></div>

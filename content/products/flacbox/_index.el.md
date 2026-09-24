@@ -224,14 +224,11 @@ Streaming από USB flash drives ή δικτυακή αποθήκευση (NAS)
 
 <div class="hx:mt-6"></div>
 
-{{< hextra/section-headline >}}
-Κριτικές App Store
-{{< /hextra/section-headline >}}
 
 <div class="hx:mt-6"></div>
 
 <div class="hx:w-full">
-{{< appstore-reviews apps="1097564256,1594027432" stars="5,4" >}}
+{{< appstore-reviews apps="1097564256,1594027432" stars="5,4"  app="Flacbox" >}}
 </div>
 
 <div class="hx:mt-6"></div>

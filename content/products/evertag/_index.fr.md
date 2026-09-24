@@ -136,14 +136,11 @@ Evertag est un éditeur de tags musicaux pour iPhone et Mac développé par Ever
 
 <div class="hx:mt-6"></div>
 
-{{< hextra/section-headline >}}
-  Avis de l'App Store
-{{< /hextra/section-headline >}}
 
 <div class="hx:mt-6"></div>
 
 <div class="hx:w-full">
-{{< appstore-reviews apps="1450763230,1594027661" stars="5,4" >}}
+{{< appstore-reviews apps="1450763230,1594027661" stars="5,4"  app="Evertag" >}}
 </div>
 
 <div class="hx:mt-6"></div>

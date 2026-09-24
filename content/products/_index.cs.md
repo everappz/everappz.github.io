@@ -40,7 +40,6 @@ Každý produkt nabízí výkonné funkce a bezproblémovou integraci s iOS a ma
 </div>
 
 
-## Recenze na App Store
 
 
 <div class="hx:mt-6"></div>

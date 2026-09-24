@@ -40,7 +40,6 @@ Setiap produk menawarkan fitur canggih dan integrasi mulus dengan iOS dan macOS.
 </div>
 
 
-## Ulasan App Store
 
 
 <div class="hx:mt-6"></div>

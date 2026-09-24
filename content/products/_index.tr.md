@@ -40,7 +40,6 @@ Her ürün güçlü özellikler ve iOS ile macOS'a sorunsuz entegrasyon sunar.
 </div>
 
 
-## App Store Yorumları
 
 
 <div class="hx:mt-6"></div>

@@ -40,7 +40,6 @@ Jokainen tuote tarjoaa tehokkaita ominaisuuksia ja saumattoman integraation iOS:
 </div>
 
 
-## App Store -arvostelut
 
 
 <div class="hx:mt-6"></div>

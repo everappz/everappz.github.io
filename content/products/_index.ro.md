@@ -40,7 +40,6 @@ Fiecare produs oferă funcții puternice și integrare perfectă cu iOS și macO
 </div>
 
 
-## Recenzii pe App Store
 
 
 <div class="hx:mt-6"></div>

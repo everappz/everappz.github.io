@@ -126,6 +126,9 @@ availableVersions: "Tilgængelige versioner"
 appDownloads: "Downloads"
 worldwideDownloads: "Downloads på verdensplan"
 releaseNotes: "Nyheder"
+appDataNote: "Appoplysninger og bedømmelser kommer fra App Store. Antal downloads kommer fra App Store Connect og opdateres regelmæssigt."
+reviewsHeaderApp: "Derfor vælger folk %s"
+reviewsHeaderGeneric: "Derfor elsker folk vores apps"
 
 # Pricing plans (pricing-plans shortcode)
 pricingPlanFree: "Gratis"

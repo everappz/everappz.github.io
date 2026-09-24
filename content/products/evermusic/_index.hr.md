@@ -251,14 +251,11 @@ Evermusic je besplatan offline glazbeni reproduktor za iPhone i Mac koji je razv
 
 <div class="hx:mt-6"></div>
 
-{{< hextra/section-headline >}}
-  Recenzije na App Storeu
-{{< /hextra/section-headline >}}
 
 <div class="hx:mt-6"></div>
 
 <div class="hx:w-full">
-{{< appstore-reviews apps="885367198,1564384601" stars="5,4" >}}
+{{< appstore-reviews apps="885367198,1564384601" stars="5,4"  app="Evermusic" >}}
 </div>
 
 <div class="hx:mt-6"></div>

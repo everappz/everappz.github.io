@@ -136,14 +136,11 @@ Evertag는 스페인 소프트웨어 회사인 Everappz가 개발한 iPhone 및 
 
 <div class="hx:mt-6"></div>
 
-{{< hextra/section-headline >}}
-  App Store 리뷰
-{{< /hextra/section-headline >}}
 
 <div class="hx:mt-6"></div>
 
 <div class="hx:w-full">
-{{< appstore-reviews apps="1450763230,1594027661" stars="5,4" >}}
+{{< appstore-reviews apps="1450763230,1594027661" stars="5,4"  app="Evertag" >}}
 </div>
 
 <div class="hx:mt-6"></div>

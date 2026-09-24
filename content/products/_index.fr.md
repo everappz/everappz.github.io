@@ -40,7 +40,6 @@ Chaque produit offre des fonctionnalités puissantes et une intégration transpa
 </div>
 
 
-## Avis sur l'App Store
 
 
 <div class="hx:mt-6"></div>
