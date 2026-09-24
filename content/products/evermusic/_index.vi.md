@@ -249,7 +249,6 @@ Evermusic là trình phát nhạc ngoại tuyến miễn phí dành cho iPhone v
 
 </div>
 
-<div class="hx:mt-6"></div>
 
 
 <div class="hx:mt-6"></div>

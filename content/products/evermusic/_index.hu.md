@@ -249,7 +249,6 @@ Az Evermusic egy ingyenes offline zenelejátszó iPhone-ra és Macre, amelyet az
 
 </div>
 
-<div class="hx:mt-6"></div>
 
 
 <div class="hx:mt-6"></div>

@@ -236,7 +236,6 @@ Intuitiivinen muotoilu
 
 </div>
 
-<div class="hx:mt-6"></div>
 
 
 <div class="hx:mt-6"></div>

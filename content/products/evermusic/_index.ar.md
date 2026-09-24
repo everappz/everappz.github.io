@@ -249,7 +249,6 @@ Evermusic هو مشغل موسيقى مجاني بدون اتصال بالإنت
 
 </div>
 
-<div class="hx:mt-6"></div>
 
 
 <div class="hx:mt-6"></div>

@@ -134,7 +134,6 @@ Evertag là trình chỉnh sửa thẻ nhạc dành cho iPhone và Mac, được
 {{< /hextra/feature-grid >}}
 </div>
 
-<div class="hx:mt-6"></div>
 
 
 <div class="hx:mt-6"></div>

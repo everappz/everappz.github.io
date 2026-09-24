@@ -249,7 +249,6 @@ Evermusic — это бесплатный офлайн-музыкальный п
 
 </div>
 
-<div class="hx:mt-6"></div>
 
 
 <div class="hx:mt-6"></div>

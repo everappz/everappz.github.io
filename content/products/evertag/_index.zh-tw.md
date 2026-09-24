@@ -134,7 +134,6 @@ Evertag 是一款適用於 iPhone 和 Mac 的音樂標籤編輯器，由西班�
 {{< /hextra/feature-grid >}}
 </div>
 
-<div class="hx:mt-6"></div>
 
 
 <div class="hx:mt-6"></div>

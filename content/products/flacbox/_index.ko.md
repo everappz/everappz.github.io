@@ -222,7 +222,6 @@ USB 플래시 드라이브나 네트워크 스토리지(NAS)에서 스트리밍�
 
 </div>
 
-<div class="hx:mt-6"></div>
 
 
 <div class="hx:mt-6"></div>

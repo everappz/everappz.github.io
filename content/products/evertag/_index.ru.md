@@ -134,7 +134,6 @@ Evertag — это редактор музыкальных тегов для iPh
 {{< /hextra/feature-grid >}}
 </div>
 
-<div class="hx:mt-6"></div>
 
 
 <div class="hx:mt-6"></div>

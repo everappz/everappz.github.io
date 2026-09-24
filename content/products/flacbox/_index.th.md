@@ -222,7 +222,6 @@ Flacbox ยังเล่น MP3, AAC, OGG, APE, MOD, MKA และคอนเ
 
 </div>
 
-<div class="hx:mt-6"></div>
 
 
 <div class="hx:mt-6"></div>

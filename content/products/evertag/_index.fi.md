@@ -134,7 +134,6 @@ Evertag on musiikin tunniste-editori iPhonelle ja Macille, jonka on kehittänyt 
 {{< /hextra/feature-grid >}}
 </div>
 
-<div class="hx:mt-6"></div>
 
 
 <div class="hx:mt-6"></div>

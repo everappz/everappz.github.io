@@ -134,7 +134,6 @@ Evertag は、スペインのソフトウェア企業である Everappz が開�
 {{< /hextra/feature-grid >}}
 </div>
 
-<div class="hx:mt-6"></div>
 
 
 <div class="hx:mt-6"></div>

@@ -249,7 +249,6 @@ Evermusic เป็นแอปเล่นเพลงออฟไลน์ฟ�
 
 </div>
 
-<div class="hx:mt-6"></div>
 
 
 <div class="hx:mt-6"></div>

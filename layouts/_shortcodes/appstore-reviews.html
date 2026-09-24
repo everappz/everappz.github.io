@@ -24,7 +24,7 @@
 
   // Merged review pool: sorted by date, deduplicated
   let reviewPool = [];
-  let renderIndex = 0;
+  const renderedIds = new Set();   // ids already appended to the DOM (survive pool re-sorts)
   let isLoading = false;
   let poolReady = false;
 
@@ -85,11 +85,14 @@
 
   // Render next batch from the pool
   function renderBatch() {
-    const end = Math.min(renderIndex + BATCH_SIZE, reviewPool.length);
-    for (let i = renderIndex; i < end; i++) {
+    let count = 0;
+    for (let i = 0; i < reviewPool.length && count < BATCH_SIZE; i++) {
+      const rid = String(reviewPool[i].id);
+      if (renderedIds.has(rid)) continue;   // already in the DOM — skip, never re-render
+      renderedIds.add(rid);
       renderComment(reviewPool[i]);
+      count++;
     }
-    renderIndex = end;
   }
 
   // Normalize RSS entry to common format
@@ -173,7 +176,7 @@
     // First load: render the cached (same-origin) reviews right away, BEFORE any
     // cross-origin RSS request. The Mac App Store RSS sends no CORS headers and some
     // networks/ad-blockers stall itunes.apple.com — that must never block the render.
-    if (renderIndex === 0) {
+    if (renderedIds.size === 0) {
       for (const appId of appIds) {
         mergeIntoPool(cachedReviews[appId] || []);
       }
@@ -193,7 +196,7 @@
     function scroll() {
       pos += scrollSpeed;
       // When approaching the end of rendered content, load more
-      if (pos >= container.scrollHeight - 800 && renderIndex < reviewPool.length) {
+      if (pos >= container.scrollHeight - 800 && renderedIds.size < reviewPool.length) {
         renderBatch();
       }
       if (pos >= container.scrollHeight - 400) pos = 0;

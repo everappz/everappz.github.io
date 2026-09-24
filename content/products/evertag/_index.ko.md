@@ -134,7 +134,6 @@ Evertag는 스페인 소프트웨어 회사인 Everappz가 개발한 iPhone 및 
 {{< /hextra/feature-grid >}}
 </div>
 
-<div class="hx:mt-6"></div>
 
 
 <div class="hx:mt-6"></div>

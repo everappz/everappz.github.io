@@ -249,7 +249,6 @@ Evermusic iPhone और Mac के लिए एक निःशुल्क ऑ
 
 </div>
 
-<div class="hx:mt-6"></div>
 
 
 <div class="hx:mt-6"></div>

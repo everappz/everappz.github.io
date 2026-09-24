@@ -249,7 +249,6 @@ Evermusic je bezplatný offline hudební přehrávač pro iPhone a Mac vyvinutý
 
 </div>
 
-<div class="hx:mt-6"></div>
 
 
 <div class="hx:mt-6"></div>

@@ -134,7 +134,6 @@ Evertag je uređivač glazbenih oznaka za iPhone i Mac koji je razvila tvrtka Ev
 {{< /hextra/feature-grid >}}
 </div>
 
-<div class="hx:mt-6"></div>
 
 
 <div class="hx:mt-6"></div>

@@ -134,7 +134,6 @@ Evertag iPhone और Mac के लिए एक म्यूज़िक ट�
 {{< /hextra/feature-grid >}}
 </div>
 
-<div class="hx:mt-6"></div>
 
 
 <div class="hx:mt-6"></div>

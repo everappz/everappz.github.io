@@ -249,7 +249,6 @@ Evermusic är en gratis offline-musikspelare för iPhone och Mac, utvecklad av E
 
 </div>
 
-<div class="hx:mt-6"></div>
 
 
 <div class="hx:mt-6"></div>

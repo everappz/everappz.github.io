@@ -249,7 +249,6 @@ Evermusic este un player de muzică offline gratuit pentru iPhone și Mac, dezvo
 
 </div>
 
-<div class="hx:mt-6"></div>
 
 
 <div class="hx:mt-6"></div>

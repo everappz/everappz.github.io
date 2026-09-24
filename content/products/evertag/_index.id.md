@@ -134,7 +134,6 @@ Evertag adalah editor tag musik untuk iPhone dan Mac yang dikembangkan oleh Ever
 {{< /hextra/feature-grid >}}
 </div>
 
-<div class="hx:mt-6"></div>
 
 
 <div class="hx:mt-6"></div>

@@ -134,7 +134,6 @@ Evertag, İspanyol yazılım şirketi Everappz tarafından geliştirilen iPhone 
 {{< /hextra/feature-grid >}}
 </div>
 
-<div class="hx:mt-6"></div>
 
 
 <div class="hx:mt-6"></div>

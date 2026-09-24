@@ -134,7 +134,6 @@ Evertag เป็นโปรแกรมแก้ไขแท็กเพลง
 {{< /hextra/feature-grid >}}
 </div>
 
-<div class="hx:mt-6"></div>
 
 
 <div class="hx:mt-6"></div>

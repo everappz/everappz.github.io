@@ -134,7 +134,6 @@ Evertag הוא עורך תגיות מוזיקה ל-iPhone ו-Mac, שפותח ע�
 {{< /hextra/feature-grid >}}
 </div>
 
-<div class="hx:mt-6"></div>
 
 
 <div class="hx:mt-6"></div>

@@ -249,7 +249,6 @@ Evermusic הוא נגן מוזיקה חינמי במצב לא מקוון ל-iPho
 
 </div>
 
-<div class="hx:mt-6"></div>
 
 
 <div class="hx:mt-6"></div>

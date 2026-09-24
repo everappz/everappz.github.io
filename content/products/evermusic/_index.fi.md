@@ -249,7 +249,6 @@ Evermusic on ilmainen offline-musiikkisoitin iPhonelle ja Macille, jonka on kehi
 
 </div>
 
-<div class="hx:mt-6"></div>
 
 
 <div class="hx:mt-6"></div>

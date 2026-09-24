@@ -134,7 +134,6 @@ Evertag — це редактор музичних тегів для iPhone і M
 {{< /hextra/feature-grid >}}
 </div>
 
-<div class="hx:mt-6"></div>
 
 
 <div class="hx:mt-6"></div>
