@@ -125,6 +125,7 @@ appDownloads: "Descărcări"
 worldwideDownloads: "Descărcări la nivel mondial"
 releaseNotes: "Noutăți"
 appDataNote: "Detaliile aplicațiilor și evaluările provin din App Store-ul american. Numărul de descărcări provine din App Store Connect și este actualizat periodic."
+appleTrademark: "Apple, the Apple logos, MacBook, iPad, iPhone, Apple Watch, and Apple Vision Pro are trademarks of Apple Inc., registered in the U.S. and other countries. App Store and Mac App Store is a service mark of Apple Inc., registered in the U.S. and other countries. All other trademarks are the property of their respective owners."
 reviewsHeaderApp: "De ce aleg oamenii %s"
 reviewsHeaderGeneric: "De ce iubesc oamenii aplicațiile noastre"
 

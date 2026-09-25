@@ -127,6 +127,7 @@ appDownloads: "Preuzimanja"
 worldwideDownloads: "Preuzimanja diljem svijeta"
 releaseNotes: "Novosti"
 appDataNote: "Podaci o aplikacijama i ocjene dolaze s američkog App Storea. Broj preuzimanja dolazi iz App Store Connecta i redovito se ažurira."
+appleTrademark: "Apple, the Apple logos, MacBook, iPad, iPhone, Apple Watch, and Apple Vision Pro are trademarks of Apple Inc., registered in the U.S. and other countries. App Store and Mac App Store is a service mark of Apple Inc., registered in the U.S. and other countries. All other trademarks are the property of their respective owners."
 reviewsHeaderApp: "Zašto ljudi biraju %s"
 reviewsHeaderGeneric: "Zašto ljudi vole naše aplikacije"
 

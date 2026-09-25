@@ -66,13 +66,34 @@
   <!-- Column 1: Products -->
   <div>
     <h2 class="hx:font-semibold hx:text-gray-900 hx:dark:text-gray-100 hx:mb-4">{{ T "products" }}</h2>
+    {{- /* All products, ordered most-downloaded first (max units across iOS/Pro/Mac),
+         mirroring the home page's product-cards ranking. */ -}}
+    {{- $unitsData := dict -}}
+    {{- if os.FileExists "static/units/data.json" -}}
+      {{- $unitsData = os.ReadFile "static/units/data.json" | transform.Unmarshal -}}
+    {{- end -}}
+    {{- $footerProducts := slice
+      (dict "link" "/products/everdisk"  "title" "Everdisk")
+      (dict "link" "/products/evervideo" "title" "Evervideo")
+      (dict "link" "/products/evermusic" "title" "Evermusic")
+      (dict "link" "/products/evertag"   "title" "Evertag")
+      (dict "link" "/products/flacbox"   "title" "Flacbox")
+    -}}
+    {{- $ranked := slice -}}
+    {{- range $p := $footerProducts -}}
+      {{- $max := 0 -}}
+      {{- with index hugo.Data.apps (path.Base $p.link) -}}
+        {{- range (slice .ios .pro .mac) -}}
+          {{- with . -}}{{- $c := int (index $unitsData . | default 0) -}}{{- if gt $c $max -}}{{- $max = $c -}}{{- end -}}{{- end -}}
+        {{- end -}}
+      {{- end -}}
+      {{- $ranked = $ranked | append (merge $p (dict "dl" $max)) -}}
+    {{- end -}}
+    {{- $footerProducts = sort $ranked "dl" "desc" -}}
     <ul>
-      <li class="hx:mb-2"><a class="hx:text-gray-600 hx:dark:text-gray-400" href="{{ relLangURL "/products/evervideo" }}">Evervideo</a>
-      </li>
-      <li class="hx:mb-2"><a class="hx:text-gray-600 hx:dark:text-gray-400" href="{{ relLangURL "/products/evermusic" }}">Evermusic</a>
-      </li>
-      <li class="hx:mb-2"><a class="hx:text-gray-600 hx:dark:text-gray-400" href="{{ relLangURL "/products/evertag" }}">Evertag</a></li>
-      <li class="hx:mb-2"><a class="hx:text-gray-600 hx:dark:text-gray-400" href="{{ relLangURL "/products/flacbox" }}">Flacbox</a></li>
+      {{- range $footerProducts }}
+      <li class="hx:mb-2"><a class="hx:text-gray-600 hx:dark:text-gray-400" href="{{ relLangURL .link }}">{{ .title }}</a></li>
+      {{- end }}
     </ul>
   </div>
 
@@ -189,7 +210,9 @@
 <div
   class="hextra-max-footer-width hx:mx-auto hx:flex hx:justify-center hx:py-12 hx:pl-[max(env(safe-area-inset-left),1.5rem)] hx:pr-[max(env(safe-area-inset-right),1.5rem)] hx:text-gray-600 hx:dark:text-gray-400">
   <div class="hx:flex hx:w-full hx:flex-col hx:items-center">
-    <!-- <div class="hx:font-normal">{{ template "theme-credit" $poweredBy }}</div> -->
+    <div class="hx:font-normal">{{ template "theme-credit" $poweredBy }}</div>
     <div class="hx:font-normal hx:mt-6 hx:text-xs">{{ $copyright | markdownify }}</div>
+    {{- /* Apple trademark attribution — sourced from i18n (appleTrademark). */ -}}
+    <div class="hx:font-normal hx:mt-2 hx:text-xs hx:text-center hx:mx-auto hx:text-gray-500 hx:dark:text-gray-500" style="max-width:48rem;">{{ T "appleTrademark" }}</div>
   </div>
 </div>

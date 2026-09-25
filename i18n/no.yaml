@@ -135,6 +135,7 @@ appDownloads: "Nedlastinger"
 worldwideDownloads: "Nedlastinger over hele verden"
 releaseNotes: "Nyheter"
 appDataNote: "Appdetaljer og vurderinger kommer fra det amerikanske App Store. Antall nedlastinger kommer fra App Store Connect og oppdateres jevnlig."
+appleTrademark: "Apple, the Apple logos, MacBook, iPad, iPhone, Apple Watch, and Apple Vision Pro are trademarks of Apple Inc., registered in the U.S. and other countries. App Store and Mac App Store is a service mark of Apple Inc., registered in the U.S. and other countries. All other trademarks are the property of their respective owners."
 reviewsHeaderApp: "Derfor velger folk %s"
 reviewsHeaderGeneric: "Derfor elsker folk appene våre"
 

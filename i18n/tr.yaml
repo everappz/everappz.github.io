@@ -127,6 +127,7 @@ appDownloads: "İndirmeler"
 worldwideDownloads: "Dünya çapında indirmeler"
 releaseNotes: "Yenilikler"
 appDataNote: "Uygulama ayrıntıları ve puanlar ABD App Store'undan alınır. İndirme sayıları App Store Connect'ten alınır ve düzenli olarak güncellenir."
+appleTrademark: "Apple, the Apple logos, MacBook, iPad, iPhone, Apple Watch, and Apple Vision Pro are trademarks of Apple Inc., registered in the U.S. and other countries. App Store and Mac App Store is a service mark of Apple Inc., registered in the U.S. and other countries. All other trademarks are the property of their respective owners."
 reviewsHeaderApp: "İnsanlar neden %s uygulamasını tercih ediyor"
 reviewsHeaderGeneric: "İnsanlar uygulamalarımızı neden seviyor"
 

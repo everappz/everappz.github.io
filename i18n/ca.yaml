@@ -127,6 +127,7 @@ appDownloads: "Baixades"
 worldwideDownloads: "Baixades a tot el món"
 releaseNotes: "Novetats"
 appDataNote: "Els detalls de les aplicacions i les valoracions provenen de l'App Store dels EUA. El nombre de baixades prové d'App Store Connect i s'actualitza periòdicament."
+appleTrademark: "Apple, the Apple logos, MacBook, iPad, iPhone, Apple Watch, and Apple Vision Pro are trademarks of Apple Inc., registered in the U.S. and other countries. App Store and Mac App Store is a service mark of Apple Inc., registered in the U.S. and other countries. All other trademarks are the property of their respective owners."
 reviewsHeaderApp: "Per què la gent tria %s"
 reviewsHeaderGeneric: "Per què la gent estima les nostres aplicacions"
 

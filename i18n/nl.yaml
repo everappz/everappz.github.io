@@ -125,6 +125,7 @@ appDownloads: "Downloads"
 worldwideDownloads: "Downloads wereldwijd"
 releaseNotes: "Wat is nieuw"
 appDataNote: "App-gegevens en beoordelingen zijn afkomstig van de Amerikaanse App Store. Het aantal downloads is afkomstig van App Store Connect en wordt regelmatig bijgewerkt."
+appleTrademark: "Apple, the Apple logos, MacBook, iPad, iPhone, Apple Watch, and Apple Vision Pro are trademarks of Apple Inc., registered in the U.S. and other countries. App Store and Mac App Store is a service mark of Apple Inc., registered in the U.S. and other countries. All other trademarks are the property of their respective owners."
 reviewsHeaderApp: "Waarom mensen kiezen voor %s"
 reviewsHeaderGeneric: "Waarom mensen dol zijn op onze apps"
 

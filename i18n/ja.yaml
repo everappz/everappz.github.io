@@ -125,6 +125,7 @@ appDownloads: "ダウンロード数"
 worldwideDownloads: "世界中のダウンロード数"
 releaseNotes: "新機能"
 appDataNote: "アプリの詳細情報と評価は米国の App Store から取得しています。ダウンロード数は App Store Connect から取得し、定期的に更新しています。"
+appleTrademark: "Apple, the Apple logos, MacBook, iPad, iPhone, Apple Watch, and Apple Vision Pro are trademarks of Apple Inc., registered in the U.S. and other countries. App Store and Mac App Store is a service mark of Apple Inc., registered in the U.S. and other countries. All other trademarks are the property of their respective owners."
 reviewsHeaderApp: "%s が選ばれる理由"
 reviewsHeaderGeneric: "私たちのアプリが愛される理由"
 

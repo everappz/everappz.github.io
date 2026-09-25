@@ -127,6 +127,7 @@ appDownloads: "डाउनलोड"
 worldwideDownloads: "दुनिया भर में डाउनलोड"
 releaseNotes: "नया क्या है"
 appDataNote: "ऐप की जानकारी और रेटिंग अमेरिकी App Store से आती हैं। डाउनलोड की संख्या App Store Connect से आती है और नियमित रूप से अपडेट की जाती है।"
+appleTrademark: "Apple, the Apple logos, MacBook, iPad, iPhone, Apple Watch, and Apple Vision Pro are trademarks of Apple Inc., registered in the U.S. and other countries. App Store and Mac App Store is a service mark of Apple Inc., registered in the U.S. and other countries. All other trademarks are the property of their respective owners."
 reviewsHeaderApp: "लोग %s क्यों चुनते हैं"
 reviewsHeaderGeneric: "लोग हमारे ऐप्स को क्यों पसंद करते हैं"
 

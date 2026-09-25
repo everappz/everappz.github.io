@@ -125,6 +125,7 @@ appDownloads: "다운로드"
 worldwideDownloads: "전 세계 다운로드"
 releaseNotes: "새로운 기능"
 appDataNote: "앱 세부 정보와 평점은 미국 App Store에서 제공됩니다. 다운로드 수는 App Store Connect에서 제공되며 정기적으로 업데이트됩니다."
+appleTrademark: "Apple, the Apple logos, MacBook, iPad, iPhone, Apple Watch, and Apple Vision Pro are trademarks of Apple Inc., registered in the U.S. and other countries. App Store and Mac App Store is a service mark of Apple Inc., registered in the U.S. and other countries. All other trademarks are the property of their respective owners."
 reviewsHeaderApp: "사람들이 %s을(를) 선택하는 이유"
 reviewsHeaderGeneric: "사람들이 우리 앱을 좋아하는 이유"
 

@@ -125,6 +125,7 @@ appDownloads: "Stažení"
 worldwideDownloads: "Stažení po celém světě"
 releaseNotes: "Novinky"
 appDataNote: "Podrobnosti o aplikacích a hodnocení pocházejí z amerického App Store. Počty stažení pocházejí z App Store Connect a jsou pravidelně aktualizovány."
+appleTrademark: "Apple, the Apple logos, MacBook, iPad, iPhone, Apple Watch, and Apple Vision Pro are trademarks of Apple Inc., registered in the U.S. and other countries. App Store and Mac App Store is a service mark of Apple Inc., registered in the U.S. and other countries. All other trademarks are the property of their respective owners."
 reviewsHeaderApp: "Proč si lidé vybírají %s"
 reviewsHeaderGeneric: "Proč lidé milují naše aplikace"
 

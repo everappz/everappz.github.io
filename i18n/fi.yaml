@@ -127,6 +127,7 @@ appDownloads: "Lataukset"
 worldwideDownloads: "Latauksia maailmanlaajuisesti"
 releaseNotes: "Uutuudet"
 appDataNote: "Sovellusten tiedot ja arviot ovat peräisin Yhdysvaltain App Storesta. Latausmäärät ovat peräisin App Store Connectista, ja niitä päivitetään säännöllisesti."
+appleTrademark: "Apple, the Apple logos, MacBook, iPad, iPhone, Apple Watch, and Apple Vision Pro are trademarks of Apple Inc., registered in the U.S. and other countries. App Store and Mac App Store is a service mark of Apple Inc., registered in the U.S. and other countries. All other trademarks are the property of their respective owners."
 reviewsHeaderApp: "Miksi ihmiset valitsevat sovelluksen %s"
 reviewsHeaderGeneric: "Miksi ihmiset rakastavat sovelluksiamme"
 

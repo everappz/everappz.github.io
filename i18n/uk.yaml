@@ -125,6 +125,7 @@ appDownloads: "Завантаження"
 worldwideDownloads: "Завантажень по всьому світу"
 releaseNotes: "Що нового"
 appDataNote: "Відомості про застосунки та оцінки надходять з американського App Store. Кількість завантажень надходить з App Store Connect і регулярно оновлюється."
+appleTrademark: "Apple, the Apple logos, MacBook, iPad, iPhone, Apple Watch, and Apple Vision Pro are trademarks of Apple Inc., registered in the U.S. and other countries. App Store and Mac App Store is a service mark of Apple Inc., registered in the U.S. and other countries. All other trademarks are the property of their respective owners."
 reviewsHeaderApp: "Чому обирають %s"
 reviewsHeaderGeneric: "Чому користувачі люблять наші застосунки"
 

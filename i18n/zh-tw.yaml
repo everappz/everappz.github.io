@@ -125,6 +125,7 @@ appDownloads: "下載次數"
 worldwideDownloads: "全球下載次數"
 releaseNotes: "新功能"
 appDataNote: "應用程式詳細資訊和評分來自美國 App Store。下載次數來自 App Store Connect，並定期更新。"
+appleTrademark: "Apple, the Apple logos, MacBook, iPad, iPhone, Apple Watch, and Apple Vision Pro are trademarks of Apple Inc., registered in the U.S. and other countries. App Store and Mac App Store is a service mark of Apple Inc., registered in the U.S. and other countries. All other trademarks are the property of their respective owners."
 reviewsHeaderApp: "為什麼大家選擇 %s"
 reviewsHeaderGeneric: "為什麼大家喜愛我們的應用程式"
 
