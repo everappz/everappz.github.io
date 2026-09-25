@@ -11,10 +11,7 @@ Evermusic dan Flacbox ialah dua pemain muzik termaju daripada Everappz untuk iPh
 
 **Jawapan ringkas:** pilih **Evermusic** jika anda mahukan pendengaran serba boleh yang paling lancar, peralihan gapless dan crossfade yang mulus, serta akses kepada pustaka Apple Music anda. Pilih **Flacbox** jika anda seorang audiofil yang mahukan pembentukan bunyi yang mendalam (rak kesan dan rantaian DSP), enjin audio profesional yang boleh dipilih, dan liputan format hi-res serta lossless yang maksimum, termasuk DSD, APE dan WavPack.
 
-{{< cards >}}
-  {{< card link="https://apps.apple.com/us/app/evermusic-cloud-music-player/id885367198" title="Muat turun Evermusic" icon="download" tag="Percuma" >}}
-  {{< card link="https://apps.apple.com/us/app/flacbox-hi-res-music-player/id1097564256" title="Muat turun Flacbox" icon="download" tag="Percuma" >}}
-{{< /cards >}}
+{{< app-details ids="885367198, 1097564256" >}}
 
 ## Jadual Perbandingan Ciri
 

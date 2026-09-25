@@ -11,10 +11,7 @@ Evermusic و Flacbox هما مشغّلا موسيقى متقدمان من Everap
 
 **الإجابة المختصرة:** اختر **Evermusic** إذا كنت تريد أسلس استماع شامل، وانتقالات سلسة بلا فجوات وبتلاشٍ متبادل، والوصول إلى مكتبة Apple Music الخاصة بك. اختر **Flacbox** إذا كنت من المهتمين بجودة الصوت الذين يريدون تشكيلاً عميقاً للصوت (رفّ تأثيرات وسلسلة DSP)، ومحرك صوت احترافياً قابلاً للاختيار، وأقصى تغطية لصيغ الصوت عالي الدقة وبلا فقدان، بما في ذلك DSD و APE و WavPack.
 
-{{< cards >}}
-  {{< card link="https://apps.apple.com/us/app/evermusic-cloud-music-player/id885367198" title="تنزيل Evermusic" icon="download" tag="مجاني" >}}
-  {{< card link="https://apps.apple.com/us/app/flacbox-hi-res-music-player/id1097564256" title="تنزيل Flacbox" icon="download" tag="مجاني" >}}
-{{< /cards >}}
+{{< app-details ids="885367198, 1097564256" >}}
 
 ## جدول مقارنة الميزات
 

@@ -11,10 +11,7 @@ Evermusic 和 Flacbox 是 Everappz 为 iPhone、iPad 和 Mac 推出的两款先�
 
 **简短回答：**如果你想要最全面流畅的聆听体验、无缝的无缝播放和交叉淡入淡出过渡，以及访问你的 Apple Music 媒体库，请选择 **Evermusic**。如果你是一位发烧友，想要深入的声音塑造（音效机架和 DSP 链）、可选择的专业音频引擎，以及最全面的高解析和无损格式覆盖（包括 DSD、APE 和 WavPack），请选择 **Flacbox**。
 
-{{< cards >}}
-  {{< card link="https://apps.apple.com/us/app/evermusic-cloud-music-player/id885367198" title="下载 Evermusic" icon="download" tag="免费" >}}
-  {{< card link="https://apps.apple.com/us/app/flacbox-hi-res-music-player/id1097564256" title="下载 Flacbox" icon="download" tag="免费" >}}
-{{< /cards >}}
+{{< app-details ids="885367198, 1097564256" >}}
 
 ## 功能对比表
 

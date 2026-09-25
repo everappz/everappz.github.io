@@ -11,10 +11,7 @@ Evermusic और Flacbox, Everappz के दो उन्नत म्यूज
 
 **संक्षिप्त उत्तर:** **Evermusic** चुनें यदि आप सबसे सहज ऑल-राउंड सुनना, बिना रुकावट वाले गैपलेस और क्रॉसफ़ेड ट्रांज़िशन, और अपनी Apple Music लाइब्रेरी तक पहुँच चाहते हैं। **Flacbox** चुनें यदि आप एक ऑडियोफ़ाइल हैं जो गहरी साउंड शेपिंग (एक इफ़ेक्ट्स रैक और एक DSP चेन), एक चयन-योग्य प्रोफ़ेशनल ऑडियो इंजन, और DSD, APE तथा WavPack सहित अधिकतम हाई-रेज़ और लॉसलेस फ़ॉर्मैट कवरेज चाहते हैं।
 
-{{< cards >}}
-  {{< card link="https://apps.apple.com/us/app/evermusic-cloud-music-player/id885367198" title="Evermusic डाउनलोड करें" icon="download" tag="मुफ़्त" >}}
-  {{< card link="https://apps.apple.com/us/app/flacbox-hi-res-music-player/id1097564256" title="Flacbox डाउनलोड करें" icon="download" tag="मुफ़्त" >}}
-{{< /cards >}}
+{{< app-details ids="885367198, 1097564256" >}}
 
 ## फ़ीचर तुलना तालिका
 

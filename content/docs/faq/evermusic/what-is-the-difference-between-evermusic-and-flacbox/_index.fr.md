@@ -11,10 +11,7 @@ Evermusic et Flacbox sont deux lecteurs de musique avancés d'Everappz pour iPho
 
 **Réponse courte :** choisissez **Evermusic** si vous voulez l'écoute la plus fluide et polyvalente, des transitions sans blanc et en fondu enchaîné, et l'accès à votre bibliothèque Apple Music. Choisissez **Flacbox** si vous êtes un audiophile qui souhaite un façonnage sonore poussé (un banc d'effets et une chaîne DSP), un moteur audio professionnel sélectionnable et la couverture de formats haute résolution et sans perte la plus complète, y compris DSD, APE et WavPack.
 
-{{< cards >}}
-  {{< card link="https://apps.apple.com/us/app/evermusic-cloud-music-player/id885367198" title="Télécharger Evermusic" icon="download" tag="Gratuit" >}}
-  {{< card link="https://apps.apple.com/us/app/flacbox-hi-res-music-player/id1097564256" title="Télécharger Flacbox" icon="download" tag="Gratuit" >}}
-{{< /cards >}}
+{{< app-details ids="885367198, 1097564256" >}}
 
 ## Tableau comparatif des fonctionnalités
 

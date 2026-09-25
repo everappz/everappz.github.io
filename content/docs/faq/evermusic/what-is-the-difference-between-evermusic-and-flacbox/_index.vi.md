@@ -11,10 +11,7 @@ Evermusic và Flacbox là hai trình phát nhạc nâng cao của Everappz dành
 
 **Câu trả lời ngắn gọn:** chọn **Evermusic** nếu bạn muốn trải nghiệm nghe toàn diện mượt mà nhất, chuyển bài liền mạch với gapless và crossfade, cùng khả năng truy cập thư viện Apple Music của bạn. Chọn **Flacbox** nếu bạn là tín đồ âm thanh muốn tinh chỉnh âm thanh sâu (giá đỡ hiệu ứng và chuỗi DSP), một công cụ âm thanh chuyên nghiệp có thể lựa chọn, và độ phủ định dạng hi-res cùng lossless tối đa, bao gồm DSD, APE và WavPack.
 
-{{< cards >}}
-  {{< card link="https://apps.apple.com/us/app/evermusic-cloud-music-player/id885367198" title="Tải Evermusic" icon="download" tag="Miễn phí" >}}
-  {{< card link="https://apps.apple.com/us/app/flacbox-hi-res-music-player/id1097564256" title="Tải Flacbox" icon="download" tag="Miễn phí" >}}
-{{< /cards >}}
+{{< app-details ids="885367198, 1097564256" >}}
 
 ## Bảng So Sánh Tính Năng
 

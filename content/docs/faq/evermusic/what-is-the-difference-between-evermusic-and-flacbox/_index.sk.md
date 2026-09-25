@@ -11,10 +11,7 @@ Evermusic a Flacbox sú dva pokročilé hudobné prehrávače od Everappz pre iP
 
 **Stručná odpoveď:** vyberte si **Evermusic**, ak chcete najplynulejšie univerzálne počúvanie, bezmedzerové prechody a prelínanie a prístup ku knižnici Apple Music. Vyberte si **Flacbox**, ak ste audiofil, ktorý chce hlboké tvarovanie zvuku (modul efektov a DSP reťazec), voliteľný profesionálny audio engine a maximálne pokrytie hi-res a bezstratových formátov vrátane DSD, APE a WavPack.
 
-{{< cards >}}
-  {{< card link="https://apps.apple.com/us/app/evermusic-cloud-music-player/id885367198" title="Stiahnuť Evermusic" icon="download" tag="Zadarmo" >}}
-  {{< card link="https://apps.apple.com/us/app/flacbox-hi-res-music-player/id1097564256" title="Stiahnuť Flacbox" icon="download" tag="Zadarmo" >}}
-{{< /cards >}}
+{{< app-details ids="885367198, 1097564256" >}}
 
 ## Tabuľka porovnania funkcií
 

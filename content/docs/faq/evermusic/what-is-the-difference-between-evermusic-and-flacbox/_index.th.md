@@ -11,10 +11,7 @@ Evermusic และ Flacbox เป็นเครื่องเล่นเพ�
 
 **คำตอบแบบสั้น:** เลือก **Evermusic** หากคุณต้องการการฟังที่ราบรื่นรอบด้านที่สุด การเปลี่ยนเพลงแบบไร้ช่องว่างและเฟดสลับอย่างลื่นไหล และการเข้าถึงคลังเพลง Apple Music ของคุณ เลือก **Flacbox** หากคุณเป็นออดิโอไฟล์ที่ต้องการการปั้นแต่งเสียงเชิงลึก (แร็กเอฟเฟกต์และห่วงโซ่ DSP) เอนจินเสียงระดับมืออาชีพที่เลือกได้ และการรองรับฟอร์แมตความละเอียดสูงและ lossless สูงสุด รวมถึง DSD, APE และ WavPack
 
-{{< cards >}}
-  {{< card link="https://apps.apple.com/us/app/evermusic-cloud-music-player/id885367198" title="ดาวน์โหลด Evermusic" icon="download" tag="ฟรี" >}}
-  {{< card link="https://apps.apple.com/us/app/flacbox-hi-res-music-player/id1097564256" title="ดาวน์โหลด Flacbox" icon="download" tag="ฟรี" >}}
-{{< /cards >}}
+{{< app-details ids="885367198, 1097564256" >}}
 
 ## ตารางเปรียบเทียบฟีเจอร์
 

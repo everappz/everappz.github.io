@@ -11,10 +11,7 @@ Evermusic ו-Flacbox הם שני נגני מוזיקה מתקדמים מבית E
 
 **תשובה קצרה:** בחרו ב-**Evermusic** אם אתם רוצים את ההאזנה הכוללת החלקה ביותר, מעברים רציפים חלקים ומעבר מדורג, וגישה לספריית Apple Music שלכם. בחרו ב-**Flacbox** אם אתם אודיופילים הרוצים עיצוב צליל מעמיק (מדף אפקטים ושרשרת DSP), מנוע אודיו מקצועי הניתן לבחירה, וכיסוי מרבי של פורמטים ברזולוציה גבוהה ונטולי אובדן, כולל DSD, APE ו-WavPack.
 
-{{< cards >}}
-  {{< card link="https://apps.apple.com/us/app/evermusic-cloud-music-player/id885367198" title="הורדת Evermusic" icon="download" tag="חינם" >}}
-  {{< card link="https://apps.apple.com/us/app/flacbox-hi-res-music-player/id1097564256" title="הורדת Flacbox" icon="download" tag="חינם" >}}
-{{< /cards >}}
+{{< app-details ids="885367198, 1097564256" >}}
 
 ## טבלת השוואת תכונות
 

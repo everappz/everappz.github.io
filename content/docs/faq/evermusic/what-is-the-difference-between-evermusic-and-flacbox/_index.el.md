@@ -11,10 +11,7 @@ readingTime: 6
 
 **Σύντομη απάντηση:** επιλέξτε το **Evermusic** αν θέλετε την πιο ομαλή ακρόαση για κάθε χρήση, απρόσκοπτες μεταβάσεις με αναπαραγωγή χωρίς κενά και crossfade, και πρόσβαση στη βιβλιοθήκη Apple Music σας. Επιλέξτε το **Flacbox** αν είστε audiophile που θέλει βαθιά διαμόρφωση του ήχου (μια συστοιχία εφέ και μια αλυσίδα DSP), μια επιλέξιμη επαγγελματική μηχανή ήχου και μέγιστη κάλυψη μορφών υψηλής ανάλυσης και lossless, συμπεριλαμβανομένων των DSD, APE και WavPack.
 
-{{< cards >}}
-  {{< card link="https://apps.apple.com/us/app/evermusic-cloud-music-player/id885367198" title="Λήψη Evermusic" icon="download" tag="Δωρεάν" >}}
-  {{< card link="https://apps.apple.com/us/app/flacbox-hi-res-music-player/id1097564256" title="Λήψη Flacbox" icon="download" tag="Δωρεάν" >}}
-{{< /cards >}}
+{{< app-details ids="885367198, 1097564256" >}}
 
 ## Πίνακας Σύγκρισης Χαρακτηριστικών
 

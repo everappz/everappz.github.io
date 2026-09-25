@@ -1,193 +1,231 @@
 ---
 title: "Jaký je rozdíl mezi Evermusic a Evermusic Premium"
 date: 2020-02-01
-updated: 2026-05-29
-description: "Porovnání Evermusic Free (modrá ikona), Evermusic Premium a Evermusic Pro (červená ikona) — limity, funkce, ceny, Family Sharing, kompatibilita s Macem (Apple Silicon vs Intel) a výchozí nastavení ochrany soukromí a analytiky."
-keywords: ["Evermusic", "Evermusic Premium", "Evermusic Pro", "červená ikona Evermusic", "modrá ikona Evermusic", "aplikace hudební přehrávač", "offline hudba", "hudební přehrávač iOS", "cloudová hudba", "upgrade Premium", "přehrávač bez reklam", "limity playlistů", "nákup v aplikaci", "Apple Silicon Mac", "M1 M2 M3 M4 Mac", "hudební aplikace Intel Mac", "Family Sharing hudba", "hudební aplikace bez analytiky"]
-tags: ["Evermusic", "Premium", "Pro", "Zdarma vs placené", "Hudební aplikace", "Offline hudba", "Apple Silicon", "Soukromí"]
+updated: 2026-09-25
+description: "Porovnejte Evermusic Free (modrá ikona), Evermusic Premium a Evermusic Pro (červená ikona) — limity, funkce, ceny, Rodinné sdílení, kompatibilita s Macem (Apple Silicon vs Intel) a výchozí nastavení soukromí / analytiky vysvětlené."
+keywords: ["Evermusic", "Evermusic Premium", "Evermusic Pro", "Evermusic červená ikona", "Evermusic modrá ikona", "aplikace hudebního přehrávače", "offline hudba", "hudební přehrávač iOS", "cloudová hudba", "upgrade na premium", "přehrávač bez reklam", "limity seznamů skladeb", "nákup v aplikaci", "Apple Silicon Mac", "M1 M2 M3 M4 Mac", "hudební aplikace pro Intel Mac", "Rodinné sdílení hudby", "hudební aplikace bez analytiky", "převod nákupu na nový Apple účet", "Sdílení nákupů", "obnovit nákupy", "nákup ze starého Apple ID"]
+tags: ["Evermusic", "Premium", "Pro", "Zdarma vs Placené", "Hudební aplikace", "Offline hudba", "Apple Silicon", "Soukromí"]
 ---
 
 
-Evermusic a Evermusic Premium jsou dvě různé verze téhož hudebního přehrávače; Evermusic Premium nabízí oproti standardní verzi Evermusic další funkce a výhody.
+Evermusic a Evermusic Premium jsou dvě různé verze téže aplikace hudebního přehrávače, přičemž Evermusic Premium nabízí další funkce a výhody ve srovnání se standardní verzí Evermusic.
 
 {{< figure
   src="/docs/faq/evermusic/what-is-the-difference-between-evermusic-and-evermusic-premium/1.webp"
-  alt="Evermusic Upgrade To Premium"
-  caption="Evermusic Upgrade To Premium"
+  alt="Evermusic upgrade na Premium"
+  caption="Evermusic upgrade na Premium"
   width="600"
 >}}
 
-## Vyberte si plán Premium
+## Vyberte si svůj plán Premium
 
-Bezplatná verze aplikace nabízí jednorázový doživotní nákup v aplikaci a dvě možnosti předplatného (1 měsíc a 1 rok) pro zrušení veškerých omezení a upgrade na Premium verzi, takže si můžete vybrat nejlepší a nejvýhodnější cenu. Ceny se mohou lišit podle vaší země nebo oblasti. Pamatujte také, že **Family Sharing** je pro všechny nákupy a plány **aktivováno**, takže Premium verzi lze sdílet s členy rodiny.
+Bezplatná verze aplikace nabízí jednorázový doživotní nákup v aplikaci a dvě předplatitelské možnosti (1 měsíc a 1 rok) pro odstranění všech omezení a upgrade na verzi Premium, což vám umožní vybrat si nejlepší a nejvýhodnější cenu pro vás. Ceny se mohou lišit v závislosti na vaší zemi nebo území. Také prosím mějte na paměti, že **Rodinné sdílení** je **povoleno** pro všechny nákupy a plány, takže můžete verzi Premium sdílet se členy své rodiny.
 
 {{< figure
   src="/docs/faq/evermusic/what-is-the-difference-between-evermusic-and-evermusic-premium/2.webp"
-  alt="Evermusic Premium Select Your Plan"
-  caption="Evermusic Premium Select Your Plan"
+  alt="Evermusic Premium vyberte svůj plán"
+  caption="Evermusic Premium vyberte svůj plán"
   width="600"
 >}}
 
-## Sdílení nákupů mezi iOS a Mac
+## Sdílení nákupů mezi iOS a Macem
 
-Doživotní nákupy a předplatné se sdílí mezi iOS a Mac a informace se synchronizují přes iCloud. Pokud máte Premium verzi na zařízení se systémem iOS, ujistěte se, že máte nainstalovanou nejnovější verzi a že je aktivován iCloud. Spusťte aplikaci na iOS a počkejte minutu, než se informace o nákupu nahrají do iCloud.
+ Doživotní nákupy a předplatné jsou sdíleny mezi iOS a Macem pomocí iCloud pro synchronizaci těchto informací. Pokud máte verzi Premium na svém zařízení iOS, ujistěte se prosím, že máte nainstalovanou nejnovější verzi a že je povolen iCloud. Spusťte aplikaci na iOS a počkejte jednu minutu, než se informace o vašem nákupu nahrají do iCloud.
 
-Také zkuste stisknout tlačítko 'Obnovit nákupy' v Nastavení aplikace. Poté nainstalujte nejnovější verzi aplikace z App Store na Mac a spusťte ji. Ujistěte se, že máte připojení k internetu a že na Macu používáte stejný účet iCloud a App Store jako na iOS zařízení. Počkejte minutu, než aplikace stáhne informace o nákupu z iCloud. Premium verze by se měla na Macu aktivovat automaticky.
+Můžete také zkusit stisknout tlačítko "Obnovit nákupy" v Nastavení aplikace. Poté nainstalujte nejnovější verzi aplikace z App Store na svůj Mac a spusťte aplikaci. Ujistěte se, že máte připojení k internetu a že na svém Macu používáte stejný účet iCloud a App Store, jaký jste použili na svém zařízení iOS. Počkejte jednu minutu, než aplikace stáhne informace o nákupu z iCloud. Verze Premium by se měla na vašem Macu aktivovat automaticky.
 
-## Obnova nákupů
+## Obnovit nákupy
 
-Pro obnovení nákupu na novém zařízení použijte nabídku 'Obnovit nákupy'. Zobrazí se seznam vašich nákupů. Pokud nevidíte všechny nákupy, zkontrolujte, zda je zařízení připojeno ke stejnému účtu iTunes, který byl použit k nákupům, a ujistěte se, že je aktivován iCloud.
+Chcete-li obnovit svůj nákup na novém zařízení, jednoduše použijte nabídku "Obnovit nákupy". Uvidíte seznam svých nákupů. Pokud nevidíte všechny své nákupy, zkontrolujte prosím, zda je zařízení připojeno ke stejnému účtu iTunes, který byl použit k provedení nákupů, a ujistěte se, že je povolen iCloud.
 
 {{< figure
   src="/docs/faq/evermusic/what-is-the-difference-between-evermusic-and-evermusic-premium/7.webp"
-  alt="Evermusic Premium Purchase Restore"
-  caption="Evermusic Premium Purchase Restore"
+  alt="Evermusic Premium obnovení nákupu"
+  caption="Evermusic Premium obnovení nákupu"
   width="600"
 >}}
 
-Po upgradu aplikace se zobrazí obrazovka stavu Premium s podrobnostmi o vašich aktuálních nákupech.
+Po upgradu aplikace uvidíte obrazovku se stavem Premium s podrobnostmi o vašich aktuálních nákupech.
 
 {{< figure
   src="/docs/faq/evermusic/what-is-the-difference-between-evermusic-and-evermusic-premium/4.webp"
-  alt="Evermusic You Are Using Premium"
-  caption="Evermusic You Are Using Premium"
+  alt="Evermusic používáte Premium"
+  caption="Evermusic používáte Premium"
   width="600"
 >}}
 
 ## Evermusic Pro (červená ikona) vs Evermusic Free (modrá ikona)
 
-**Evermusic Pro, aplikace s červenou ikonou, má naprosto stejnou funkčnost jako Evermusic Free (modrá ikona) s aktivovaným Premium nákupem v aplikaci.** Obě aplikace sdílejí stejné funkce a stejný vzhled. Pokud jste tedy již upgradovali modrou Evermusic Free na Premium, není třeba instalovat červenou Evermusic Pro — máte již vše, co Pro nabízí.
+**Evermusic Pro, aplikace s červenou ikonou, má přesně stejnou funkcionalitu jako Evermusic Free (modrá ikona) s aktivovaným nákupem Premium v aplikaci.** Obě aplikace sdílejí stejné funkce a stejný vzhled i chování. Takže pokud jste již upgradovali modrý Evermusic Free na Premium, není třeba instalovat červený Evermusic Pro, již máte vše, co Pro nabízí.
 
-Rozdíl mezi modrou a červenou spočívá v **způsobu jejich balení v App Store**, platformách, na nichž každá běží, a v několika výchozích nastaveních.
+Co se mezi modrou a červenou liší, je **způsob jejich zabalení v App Store**, na kterých platformách každá z nich běží, a několik výchozích nastavení.
 
-### Stažení v App Store
+### Stáhnout z App Store
 
-<div class="hextra-cards hx:mt-4 hx:gap-4 hx:grid not-prose" style="--hextra-cards-grid-cols: 3;">
+{{< app-details ids="885367198, 905746421, 1564384601" >}}
 
-{{< product-card
-  link="https://apps.apple.com/app/apple-store/id885367198?pt=95781850&ct=everappzcom&mt=8"
-  title="Evermusic for iOS"
-  subtitle="iPhone a iPad; zdarma s volitelným Premium nákupem v aplikaci"
-  tag="Zdarma"
-  image="/docs/faq/evermusic/what-is-the-difference-between-evermusic-and-evermusic-premium/evermusic-free-icon.webp"
-  alt="Evermusic Free Icon (Blue)"
-  method="Resize"
-  options="200x q80 webp"
-  imageStyle="width: 80px; height: auto; border-radius: 17.96px;"
-  noButton="true"
->}}
+### Zabalení v App Store
 
-{{< product-card
-  link="https://apps.apple.com/app/apple-store/id1564384601?pt=95781850&ct=everappzcom&mt=8"
-  title="Evermusic for Mac"
-  subtitle="Univerzální (Apple Silicon a Intel); sdílí nákupy s iOS přes iCloud"
-  tag="Zdarma"
-  image="/docs/faq/evermusic/what-is-the-difference-between-evermusic-and-evermusic-premium/evermusic-free-icon.webp"
-  alt="Evermusic Free Icon (Blue)"
-  method="Resize"
-  options="200x q80 webp"
-  imageStyle="width: 80px; height: auto; border-radius: 17.96px;"
-  noButton="true"
->}}
-
-{{< product-card
-  link="https://apps.apple.com/us/app/evermusic-pro-music-player/id905746421"
-  title="Evermusic Pro"
-  subtitle="iPhone, iPad, Apple Silicon Mac (M1+); bez analytiky, nižší cena"
-  tag="Placené"
-  image="/docs/faq/evermusic/what-is-the-difference-between-evermusic-and-evermusic-premium/evermusic-pro-icon.webp"
-  alt="Evermusic Pro Icon (Red)"
-  method="Resize"
-  options="200x q80 webp"
-  imageStyle="width: 80px; height: auto; border-radius: 17.96px;"
-  noButton="true"
->}}
-
-</div>
-
-### Balení v App Store
-
-- **Evermusic Free (modrá)** je publikována jako **dvě samostatné aplikace v App Store** se **samostatnými ID balíčků** — jedna pro **iOS / iPadOS** a dedikovaná pro **macOS**. Verze pro Mac je **univerzální**, takže běží na **Apple Silicon Maccích (M1, M2, M3, M4, M5 a novějších) i Intel Maccích**. Nákupy v jedné z modrých aplikací se **sdílejí s druhou přes iCloud** — například Premium předplatné zakoupené v Evermusic Free na iPhone automaticky odemkne Premium v Evermusic Free na Macu (a naopak), pokud jsou obě zařízení přihlášena ke stejnému Apple ID s aktivovaným iCloud.
-- **Evermusic Pro (červená)** je **jedna aplikace v App Store** s **jedním ID balíčku**, která běží na **iPhone, iPad a Apple Silicon Maccích (M1 a novějších)**. Protože existuje pouze jeden balíček, není třeba nic synchronizovat — jeden nákup pokryje každé zařízení, na které ho nainstalujete. Evermusic Pro **nepodporuje Intel Macy**.
+- **Evermusic Free (modrá)** je publikován jako **dvě samostatné aplikace v App Store** se **samostatnými bundle ID** — jedna pro **iOS / iPadOS** a vyhrazená pro **macOS**. Verze pro Mac je **Universal**, takže běží na **Macích s Apple Silicon (M1, M2, M3, M4, M5 a novější) i na Intel Macích**. Nákupy provedené v jedné z modrých aplikací jsou **sdíleny s druhou prostřednictvím iCloud** — například předplatné Premium zakoupené v Evermusic Free na iPhonu automaticky odemkne Premium v Evermusic Free na Macu (a naopak), pokud jsou obě zařízení přihlášena ke stejnému Apple ID a mají povolený iCloud.
+- **Evermusic Pro (červená)** je **jedna aplikace v App Store** s **jediným bundle ID**, která běží na **iPhonu, iPadu a Macích s Apple Silicon (M1 a novější)**. Protože existuje pouze jeden bundle, není co synchronizovat — jeden nákup pokrývá každé zařízení, na které jej nainstalujete. Evermusic Pro **nepodporuje Intel Macy**.
 
 ### Klíčové rozdíly
 
-- **Kompatibilita s Macem.** Modrá aplikace Evermusic Free Mac je univerzální a podporuje **Apple Silicon i Intel Macy**. Červená Evermusic Pro je **pouze pro Apple Silicon (M1 a novější)** — nelze ji nainstalovat na Intel Macy. Pokud vy (nebo kdokoliv ve skupině Family Sharing) stále používáte Intel Mac, zvolte modrou Evermusic Free + Premium pro pokrytí kompatibility s Macem.
-- **Cena.** Protože Evermusic Pro (červená) přeskakuje verzi pro Intel Mac, její cena v App Store je **mírně nižší** než ekvivalentní Premium nákup v modré aplikaci.
-- **Soukromí / analytika.** Evermusic Pro (červená) **vůbec neshromažďuje žádná uživatelská diagnostická data ani analytiku** — analytika je v buildu zcela zakázána, bez možnosti zapnutí. Modrá Evermusic Free používá výchozí nastavení analytiky, které lze kdykoli vypnout v **Nastavení → Analytika a sběr dat**.
-- **Nákup mezi aplikacemi.** ID balíčků se mezi modrou a červenou liší, takže Premium nákup aktivovaný v modré aplikaci **neodemkne červenou aplikaci zdarma**, a naopak. Synchronizace nákupů funguje **v rámci stejné barvy** — modrá iOS ↔ modrá Mac přes iCloud, nebo červená na všech podporovaných zařízeních automaticky.
+- **Kompatibilita s Macem.** Modrá aplikace Evermusic Free pro Mac je Universal a podporuje **Macy s Apple Silicon i Intel**. Červený Evermusic Pro je **pouze pro Apple Silicon (M1 a novější)** — nelze jej nainstalovat na Intel Macy. Pokud vy (nebo kdokoli ve vaší skupině Rodinného sdílení) stále používá Intel Mac, zvolte modrý Evermusic Free + Premium, aby byla pokryta podpora Macu.
+- **Cena.** Protože Evermusic Pro (červená) přeskakuje sestavení pro Intel Mac, jeho cena v App Store je **o něco nižší** než ekvivalentní nákup Premium v aplikaci v modré aplikaci.
+- **Soukromí / analytika.** Evermusic Pro (červená) **nesbírá vůbec žádnou uživatelskou diagnostiku ani analytiku** — analytika je v sestavení zcela zakázána, bez možnosti aktivace. Modrý Evermusic Free používá standardní výchozí nastavení analytiky, které můžete kdykoli vypnout v části **Nastavení → Analytika a sběr dat**.
+- **Nákup napříč aplikacemi.** Bundle ID se mezi modrou a červenou liší, takže nákup Premium aktivovaný v modré aplikaci **neodemkne červenou aplikaci zdarma** a naopak. Synchronizace nákupu funguje **v rámci stejné barvy** — modrá iOS ↔ modrá Mac přes iCloud, nebo červená napříč všemi jejími podporovanými zařízeními automaticky.
 
-### Které si vybrat?
+### Kterou bych si měl vybrat?
 
-- **Použijte Evermusic Free (modrá) + Premium**, pokud chcete **nejširší pokrytí zařízení** — iPhone, iPad, Apple Silicon Mac *a* Intel Mac — s jedním Premium nákupem pokrývajícím obě modré aplikace pro iOS i Mac prostřednictvím synchronizace nákupů přes iCloud.
-- **Použijte Evermusic Pro (červená)**, pokud používáte pouze **iPhone, iPad a Apple Silicon Mac (M1 nebo novější)**, preferujete nižší počáteční cenu a chcete build **bez jakékoliv analytiky nebo diagnostiky** — hned od začátku, bez možnosti zapnutí.
+- **Použijte Evermusic Free (modrá) + Premium**, pokud chcete **nejširší pokrytí zařízení** — iPhone, iPad, Mac s Apple Silicon *a* Intel Mac — s jedním nákupem Premium pokrývajícím jak iOS, tak modrou aplikaci pro Mac prostřednictvím synchronizace nákupů přes iCloud.
+- **Použijte Evermusic Pro (červená)**, pokud používáte pouze **iPhone, iPad a Mac s Apple Silicon (M1 nebo novější)**, dáváte přednost nižší počáteční ceně a chcete sestavení s **žádnou sbíranou analytikou ani diagnostikou** — hned po instalaci a bez možnosti aktivace.
 
 ## Evermusic Free
 
-- **Obsahuje reklamy**: Bezplatná verze zobrazuje reklamy k vytváření příjmů, což může příležitostně narušit poslech hudby.
-- **Omezené playlisty**: V bezplatné verzi lze vytvořit až 10 playlistů.
+- **Obsahuje reklamy**: Bezplatná verze zobrazuje reklamy pro generování příjmů, což může občas narušit vaše poslouchání hudby.
+- **Omezené seznamy skladeb**: V bezplatné verzi můžete vytvořit až 10 seznamů skladeb.
 - **Omezené cloudové služby**: Bezplatná verze podporuje až 3 cloudové služby.
-– **Omezená archivace**: V bezplatné verzi lze archivovat (ZIP) až 3 mediální kolekce (playlist, album, interpreta nebo žánr).
-- **Omezené oblíbené**: V bezplatné verzi lze přidat maximálně 100 skladeb do oblíbených.
-- **Limity playlistů a fronty**: Bezplatná verze omezuje počet skladeb v jednom playlistu (1 000) a maximální počet skladeb ve frontě přehrávače (750).
-- **Omezené offline funkce**: Bezplatná verze má omezení přístupu offline, včetně pouze 1 offline složky a možnosti stahovat alba, interprety, žánry, playlisty a skladatele offline.
-- **Bez exportu kolekcí hudby iTunes**: V bezplatné verzi nelze exportovat kolekce z hudby iTunes do místních souborů.
-- **Omezené funkce vyhledávání tagů**: Nabízí 20 automatických požadavků na vyhledávání tagů a 20 požadavků na vyhledávání obrázků alb za den.
-- **Omezený export mediálních kolekcí**: Umožňuje 5 exportů mediálních kolekcí (playlisty, alba, interpreti, žánry) do M3U/CSV/TXT za den.
-- **Omezené možnosti přizpůsobení**: K dispozici jsou pouze omezené možnosti přizpůsobení a změna ikony aplikace je také omezena.
+– **Omezené archivování**: V bezplatné verzi můžete archivovat (ZIP) až 3 kolekce médií (seznam skladeb, album, interpret nebo žánr).
+- **Omezené oblíbené položky**: V bezplatné verzi můžete přidat maximálně 100 skladeb do svých oblíbených.
+- **Limity seznamu skladeb a fronty**: Bezplatná verze má limity na počet skladeb, které můžete přidat do jednoho seznamu skladeb (1 000) a maximální počet skladeb ve frontě přehrávače (750).
+- **Omezené offline funkce**: Bezplatná verze má omezení offline přístupu, včetně pouze 1 offline složky a možnosti stáhnout alba, interprety, žánry, seznamy skladeb a skladatele offline.
+- **Bez exportu hudebních kolekcí iTunes**: V bezplatné verzi nemůžete exportovat kolekce z hudby iTunes do místních souborů.
+- **Omezené funkce vyhledávání tagů**: Nabízí 20 automatických vyhledávání tagů a 20 vyhledávání obalů alb za den.
+- **Omezený export kolekcí médií**: Umožňuje 5 exportů kolekcí médií (seznamy skladeb, alba, interpreti, žánry) do M3U/CSV/TXT za den.
+- **Omezené funkce personalizace**: Můžete používat pouze omezené možnosti personalizace a změna ikony aplikace je také omezena.
 
 ## Evermusic Premium
 
-- **Zážitek bez reklam**: Evermusic Premium eliminuje reklamy a poskytuje plynulý a nerušený zážitek z poslechu hudby.
-- **Neomezené playlisty**: S Evermusic Premium lze vytvořit neomezený počet playlistů.
-- **Neomezené cloudové služby**: Evermusic Premium umožňuje připojit neomezený počet cloudových služeb a rozšíří přístup k hudební knihovně.
-- **Neomezená archivace**: Premium umožňuje archivovat (ZIP) neomezené mediální kolekce, včetně playlistů, alb, interpretů a žánrů.
-- **Neomezené oblíbené**: S Evermusic Premium lze přidat neomezený počet skladeb do oblíbených.
-- **Flexibilita playlistů a fronty**: Evermusic Premium ruší omezení velikosti playlistů a fronty a dává více kontroly nad organizací hudby.
-- **Rozsáhlé offline funkce**: Evermusic Premium nabízí pokročilé offline možnosti, včetně možnosti stahovat složky, alba, interprety, žánry, playlisty a skladatele offline.
-- **Export kolekcí hudby iTunes**: Lze exportovat kolekce z hudby iTunes do místních souborů.
-- **Neomezené vyhledávání tagů**: Nabízí neomezené automatické požadavky na vyhledávání tagů.
-- **Neomezené vyhledávání obrázků alb**: Nabízí neomezené požadavky na vyhledávání obrázků alb.
-- **Neomezený export mediálních kolekcí**: Umožňuje neomezené exporty mediálních kolekcí (playlisty, alba, interpreti, žánry) do M3U/CSV/TXT.
-- **Plné přizpůsobení**: Poskytuje plné možnosti přizpůsobení, včetně možnosti změnit ikonu aplikace.
+- **Zážitek bez reklam**: Evermusic Premium odstraňuje reklamy a poskytuje plynulý a nepřerušovaný zážitek z poslechu hudby.
+- **Neomezené seznamy skladeb**: S Evermusic Premium můžete vytvořit neomezený počet seznamů skladeb.
+- **Neomezené cloudové služby**: Evermusic Premium vám umožňuje připojit se k neomezenému počtu cloudových služeb a rozšířit přístup k vaší hudební knihovně.
+- **Neomezené archivování**: Premium vám umožňuje archivovat (ZIP) neomezené kolekce médií, včetně seznamů skladeb, alb, interpretů a žánrů.
+- **Neomezené oblíbené položky**: S Evermusic Premium můžete přidat neomezený počet skladeb do svých oblíbených.
+- **Flexibilita seznamu skladeb a fronty**: Evermusic Premium odstraňuje omezení velikosti seznamu skladeb a fronty, což vám dává větší kontrolu nad organizací vaší hudby.
+- **Rozsáhlé offline funkce**: Evermusic Premium nabízí pokročilé offline možnosti, včetně možnosti stahovat složky, alba, interprety, žánry, seznamy skladeb a skladatele offline.
+- **Export hudebních kolekcí iTunes**: Můžete exportovat kolekce z hudby iTunes do místních souborů.
+- **Neomezené vyhledávání tagů**: Nabízí neomezená automatická vyhledávání tagů.
+- **Neomezené vyhledávání obalů alb**: Nabízí neomezená vyhledávání obalů alb.
+- **Neomezený export kolekcí médií**: Umožňuje neomezené exporty kolekcí médií (seznamy skladeb, alba, interpreti, žánry) do M3U/CSV/TXT.
+- **Plná personalizace**: Poskytuje plné možnosti personalizace, včetně možnosti změnit ikonu aplikace.
 
-| Popis funkce | Evermusic Free | Evermusic Premium |
+| Popis funkce                                             | Evermusic Free | Evermusic Premium |
 |-----------------------------------------------------------------|----------------|-------------------|
-| Hudební zážitek bez reklam | Ne | Ano |
-| Celkový počet playlistů, které lze vytvořit | 10 | Neomezeno |
-| Počet cloudových úložišť, ke kterým se lze připojit | 3 | Neomezeno |
-| Archivace playlistů, alb, interpretů nebo žánrů ve formátu ZIP | 3 | Neomezeno |
-| Skladby, které lze označit jako oblíbené | 100 | Neomezeno |
-| Skladby povolené v jednom playlistu | 1000 | Neomezeno |
-| Skladby povolené ve frontě přehrávání | 750 | Neomezeno |
-| Stahování jednotlivých souborů z cloudového úložiště | Ano | Ano |
-| Stahování a nahrávání celých složek | Ne | Ano |
-| Stahování celých alb, interpretů a žánrů | Ne | Ano |
-| Počet složek dostupných offline | 1 | Neomezeno |
-| Alba, interpreti, žánry, playlisty, skladatelé dostupní offline | 1 | Neomezeno |
-| Export jednotlivých skladeb z iTunes / Apple Music | Ano | Ano |
-| Export celých kolekcí z iTunes / Apple Music | Ne | Ano |
-| Denní automatická vyhledávání audio tagů a obrázků alb | 20 | Neomezeno |
-| Export playlistů, alb, interpretů a žánrů do M3U / CSV / TXT | 5 | Neomezeno |
-| Plné přizpůsobení (včetně vlastní ikony aplikace) | Ne | Ano |
-
-## Vyzkoušejte Premium zdarma
-
-Aplikaci Premium lze upgradovat zdarma, ale pouze na omezenou dobu prostřednictvím nabídky 'Vyzkoušet premium zdarma'. Stačí se podívat na reklamu nebo říct přátelům o této aplikaci a získat Premium verzi zdarma.
-
-{{< figure
-  src="/docs/faq/evermusic/what-is-the-difference-between-evermusic-and-evermusic-premium/3.webp"
-  alt="Try Premium For Free"
-  caption="Try Premium For Free"
-  width="600"
->}}
+| Hudební zážitek bez reklam                                        | Ne             | Ano               |
+| Celkový počet seznamů skladeb, které můžete vytvořit                                  | 10             | Neomezeně         |
+| Počet cloudových úložišť, ke kterým se můžete připojit                | 3              | Neomezeně         |
+| Archivace seznamů skladeb, alb, interpretů nebo žánrů do formátu ZIP     | 3              | Neomezeně         |
+| Skladby, které můžete označit jako oblíbené                                 | 100            | Neomezeně         |
+| Skladby povolené v jednom seznamu skladeb                              | 1000           | Neomezeně         |
+| Skladby povolené ve frontě přehrávání                              | 750            | Neomezeně         |
+| Stahování jednotlivých souborů z cloudového úložiště                    | Ano            | Ano               |
+| Stahování a nahrávání celých složek                              | Ne             | Ano               |
+| Stahování celých alb, interpretů a žánrů                     | Ne             | Ano               |
+| Počet složek, které lze zpřístupnit offline                | 1              | Neomezeně         |
+| Alba, interpreti, žánry, seznamy skladeb, skladatelé dostupní offline | 1              | Neomezeně         |
+| Export jednotlivých skladeb z iTunes / Apple Music               | Ano            | Ano               |
+| Export celých kolekcí z iTunes / Apple Music               | Ne             | Ano               |
+| Denní automatická vyhledávání audio tagů a obalů alb                | 20             | Neomezeně         |
+| Export seznamů skladeb, alb, interpretů a žánrů do M3U / CSV / TXT | 5             | Neomezeně         |
+| Plná personalizace (včetně vlastní ikony aplikace)                | Ne             | Ano               |
 
 ## Co si vybrat?
 
-Stručně řečeno, máte tři cesty k plně funkčnímu zážitku s Evermusic:
+Ve zkratce máte tři cesty k plnohodnotnému zážitku z Evermusic:
 
-- **Evermusic Free (modrá ikona)** — začněte zde zdarma s omezeními; upgradujte na **Premium** prostřednictvím nákupu v aplikaci, pokud se rozhodnete, že chcete neomezené cloudové služby, playlisty, offline obsah a zážitek bez reklam.
-- **Evermusic Free + Premium (modrá ikona)** — nejširší pokrytí zařízení: iPhone, iPad, Apple Silicon **a** Intel Mac, vše z jednoho nákupu, s Family Sharing pro až pět dalších rodinných příslušníků.
-- **Evermusic Pro (červená ikona)** — mírně levnější alternativa **pouze pro Apple Silicon Mac** s **analytiky a diagnostikou vypnutými ve výchozím nastavení**. Nejlepší, pokud používáte pouze iPhone, iPad a Mac s M1 / M2 / M3 / M4 / M5 (nebo novější) a chcete maximální soukromí hned od začátku.
+- **Evermusic Free (modrá ikona)** — začněte zde zdarma s limity; později upgradujte na **Premium** prostřednictvím nákupu v aplikaci, pokud se rozhodnete, že chcete neomezené cloudové služby, seznamy skladeb, offline obsah a zážitek bez reklam.
+- **Evermusic Free + Premium (modrá ikona)** — nejširší pokrytí zařízení: iPhone, iPad, Mac s Apple Silicon **a Intel**, vše z jednoho nákupu, s Rodinným sdílením až pro pět dalších členů rodiny.
+- **Evermusic Pro (červená ikona)** — o něco levnější alternativa **pouze pro Mac s Apple Silicon** s **analytikou a diagnostikou vypnutou ve výchozím nastavení**. Nejlepší, pokud používáte pouze iPhone, iPad a Mac s M1 / M2 / M3 / M4 / M5 (nebo novější) a chcete maximální soukromí hned po instalaci.
 
-Bezplatná verze je skvělá pro příležitostné posluchače, zatímco Premium a Pro jsou zaměřeny na uživatele, kteří chtějí plnou sadu funkcí, zážitek bez reklam a neomezený offline přístup ke své hudební knihovně. Volba nakonec závisí na vašich zařízeních, preferencích ochrany soukromí a zvycích poslechu hudby.
+Bezplatná verze je skvělá pro příležitostné posluchače, zatímco Premium a Pro jsou určeny uživatelům, kteří chtějí kompletní sadu funkcí, zážitek bez reklam a neomezený offline přístup ke své hudební knihovně. Volba nakonec závisí na vašich zařízeních, preferencích ohledně soukromí a zvyklostech při poslechu hudby.
+
+## Často kladené otázky
+
+{{% details title="Zakoupil jsem Evermusic Pro (nebo Premium) se starým Apple účtem. Mohu jej převést na nový Apple účet?" closed="true" %}}
+Podle oficiální dokumentace Apple lze nákupy z jiného Apple účtu sdílet prostřednictvím Rodinného sdílení / Sdílení nákupů, za předpokladu, že jsou účty vhodně nakonfigurovány v rámci téže skupiny Rodinného sdílení.
+
+Pokud byl Evermusic Pro zakoupen pomocí vašeho starého Apple účtu, Apple nabízí možnost použít tento účet jako sekundární Apple účet pro Sdílení nákupů.
+
+Na svém iPhonu nebo iPadu přejděte prosím na:
+
+Nastavení → Rodina → vaše jméno → Nákupy → Apple účet pro nákupy → Sdílet pomocí sekundárního Apple účtu
+
+Poté se přihlaste starým Apple účtem, který byl původně použit k zakoupení Evermusic Pro.
+
+Oficiální pokyny Apple pro použití jiného Apple účtu pro Sdílení nákupů najdete zde:
+
+https://support.apple.com/en-us/102552
+
+Jakmile je Sdílení nákupů nakonfigurováno, Apple také poskytuje pokyny pro stahování aplikací zakoupených členy vaší skupiny Rodinného sdílení.
+
+Zakoupené aplikace můžete najít prostřednictvím:
+
+App Store → profilová fotka → Aplikace → vyberte člena rodiny
+
+Oficiální pokyny Apple jsou k dispozici zde:
+
+https://support.apple.com/en-us/102599
+
+Další informace o Sdílení nákupů Apple jsou k dispozici zde:
+
+https://support.apple.com/en-us/105062
+
+Vezměte prosím na vědomí, že Apple uvádí, že členové rodiny musí používat stejnou zemi nebo region Apple účtu, aby bylo možné zakoupený obsah sdílet. Apple také uplatňuje určitá omezení na změnu Apple účtu používaného pro Sdílení nákupů.
+
+Existuje také další možnost specificky dostupná pro Evermusic, která může být ve vaší situaci pohodlnější.
+
+Pokud jste schopni nainstalovat Evermusic Pro na své zařízení pomocí starého Apple účtu, se kterým jste jej původně zakoupili, nainstalujte jej prosím z App Store:
+
+https://apps.apple.com/us/app/evermusic-pro-music-player/id905746421?uo=4
+
+Jakmile je Evermusic Pro nainstalován na zařízení, můžete přepnout App Store zpět na svůj nový Apple účet a nainstalovat nejnovější bezplatnou verzi Evermusic:
+
+https://apps.apple.com/us/app/evermusic-cloud-music-player/id885367198?uo=4
+
+Když jsou obě aplikace nainstalovány na stejném zařízení, Evermusic automaticky detekuje nainstalovanou aplikaci Evermusic Pro a aktivuje funkce Premium v nejnovější verzi Evermusic.
+
+Poté můžete nadále používat Evermusic a normálně přijímat budoucí aktualizace Evermusic prostřednictvím App Store pomocí svého nového Apple účtu.
+
+Stačí ponechat Evermusic Pro nainstalovaný na zařízení. Nemusíte používat starou aplikaci Evermusic Pro. Jednoduše musí zůstat nainstalovaná, aby ji nejnovější aplikace Evermusic mohla detekovat a udržovat verzi Premium aktivovanou.
+
+Pokud je tedy konfigurace Rodinného sdílení Apple se starým účtem nepohodlná, může to být alternativní řešení:
+
+1. Přihlaste se do App Store pomocí starého Apple účtu.
+2. Stáhněte Evermusic Pro, který byl dříve zakoupen s tímto účtem.
+3. Ponechte Evermusic Pro nainstalovaný na zařízení.
+4. Přepněte App Store zpět na svůj nový Apple účet.
+5. Stáhněte nejnovější aplikaci Evermusic pomocí svého nového účtu.
+6. Otevřete Evermusic. Měl by detekovat Evermusic Pro a automaticky aktivovat funkce Premium.
+7. Pokračujte v používání a aktualizaci nejnovější aplikace Evermusic pomocí svého nového Apple účtu.
+
+Vezměte prosím na vědomí, že Rodinné sdílení Apple, Sdílení nákupů, Apple účty a historii nákupů v App Store spravuje výhradně Apple. Nemáme přístup k Apple účtům uživatelů a nemůžeme z naší strany převádět nákupy z App Store z jednoho Apple účtu na druhý.
+
+Pokud narazíte na jakékoli problémy konkrétně s Rodinným sdílením nebo přístupem k nákupu provedenému se starým Apple účtem, podporu Apple by bylo třeba požádat o kontrolu konfigurace účtů.
+{{% /details %}}
+
+{{% details title="Již jsem upgradoval Evermusic Free (modrá) na Premium. Potřebuji také Evermusic Pro (červená)?" closed="true" %}}
+Ne. Evermusic Pro (červená ikona) je stejná aplikace jako Evermusic Free (modrá ikona) s již odemčeným Premium. Pokud jste již upgradovali modrou aplikaci na Premium, máte vše, co Pro nabízí, takže není třeba instalovat ani kupovat červenou aplikaci.
+{{% /details %}}
+
+{{% details title="Je podporováno Rodinné sdílení a kolik lidí může používat můj nákup?" closed="true" %}}
+Ano. Rodinné sdílení funguje se všemi nákupy a předplatnými Evermusic, takže můžete sdílet Premium až s pěti členy rodiny. Zapněte Sdílení nákupů v části Nastavení → Rodina na svém zařízení. Každý člen rodiny si stáhne aplikaci s vlastním Apple účtem a automaticky získá Premium.
+{{% /details %}}
+
+{{% details title="Upgradoval jsem na Premium na svém iPhonu, ale můj Mac stále zobrazuje bezplatnou verzi. Jak to opravím?" closed="true" %}}
+Premium je sdíleno mezi iPhonem a Macem prostřednictvím iCloud. Nejprve se ujistěte, že obě zařízení používají stejný Apple účet a mají zapnutý iCloud. Na svém iPhonu otevřete nejnovější verzi Evermusic a počkejte asi minutu, než se váš nákup nahraje do iCloud. Můžete také klepnout na Obnovit nákupy v Nastavení. Poté otevřete nejnovější verzi na svém Macu, připojte se k internetu a počkejte asi minutu. Premium by se mělo zapnout samo.
+{{% /details %}}
+
+{{% details title="Jak obnovím svůj nákup na novém zařízení?" closed="true" %}}
+Otevřete Nastavení v aplikaci a klepněte na Obnovit nákupy. Uvidíte své nákupy a Premium se znovu zapne. Pokud nějaký nákup chybí, ujistěte se, že zařízení používá stejný Apple účet, se kterým jste nakupovali, a že je zapnutý iCloud.
+{{% /details %}}
+
+{{% details title="Pokud nainstaluji Evermusic Pro (červená), odemkne se tím Premium v Evermusic Free (modrá)?" closed="true" %}}
+Ano. Pokud na zařízení nainstalujete červený Evermusic Pro, modrý Evermusic Free na stejném zařízení jej detekuje a automaticky zapne Premium. Premium už nemusíte v modré aplikaci znovu kupovat. Stačí jen ponechat červenou aplikaci nainstalovanou.
+
+Opačně to nefunguje. Zakoupení Premium v modré aplikaci neudělá červený Evermusic Pro zdarma, protože jde o samostatné aplikace v App Store. Nákupy v modrých aplikacích se synchronizují prostřednictvím iCloud mezi modrou aplikací pro iPhone a modrou aplikací pro Mac.
+{{% /details %}}
+
+{{% details title="Mohu používat Premium na Intel Macu?" closed="true" %}}
+Ano. Použijte modrou aplikaci Evermusic Free a upgradujte na Premium. Modrá aplikace pro Mac běží na Macích s Apple Silicon i Intel. Červený Evermusic Pro běží pouze na Macích s Apple Silicon (M1 a novější) a nelze jej nainstalovat na Intel Macy.
+{{% /details %}}

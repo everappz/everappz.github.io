@@ -11,10 +11,7 @@ Evermusic og Flacbox er to avanserte musikkspillere fra Everappz for iPhone, iPa
 
 **Kort svar:** velg **Evermusic** hvis du vil ha den jevneste allroundlyttingen, sømløse overganger uten pauser og med krysstoning, samt tilgang til Apple Music-biblioteket ditt. Velg **Flacbox** hvis du er en lydentusiast som ønsker dyp lydformning (et effektoppsett og en DSP-kjede), en valgbar profesjonell lydmotor og maksimal dekning av hi-res- og tapsfrie formater, inkludert DSD, APE og WavPack.
 
-{{< cards >}}
-  {{< card link="https://apps.apple.com/us/app/evermusic-cloud-music-player/id885367198" title="Last ned Evermusic" icon="download" tag="Gratis" >}}
-  {{< card link="https://apps.apple.com/us/app/flacbox-hi-res-music-player/id1097564256" title="Last ned Flacbox" icon="download" tag="Gratis" >}}
-{{< /cards >}}
+{{< app-details ids="885367198, 1097564256" >}}
 
 ## Sammenligningstabell for funksjoner
 

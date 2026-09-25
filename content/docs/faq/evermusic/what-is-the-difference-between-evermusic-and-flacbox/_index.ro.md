@@ -11,10 +11,7 @@ Evermusic și Flacbox sunt două playere muzicale avansate de la Everappz pentru
 
 **Răspuns pe scurt:** alege **Evermusic** dacă vrei cea mai fluidă ascultare de ansamblu, tranziții gapless și crossfade fără cusur și acces la biblioteca ta Apple Music. Alege **Flacbox** dacă ești audiofil și vrei o modelare profundă a sunetului (un rack de efecte și un lanț DSP), un motor audio profesional selectabil și acoperirea maximă a formatelor hi-res și lossless, inclusiv DSD, APE și WavPack.
 
-{{< cards >}}
-  {{< card link="https://apps.apple.com/us/app/evermusic-cloud-music-player/id885367198" title="Descarcă Evermusic" icon="download" tag="Gratuit" >}}
-  {{< card link="https://apps.apple.com/us/app/flacbox-hi-res-music-player/id1097564256" title="Descarcă Flacbox" icon="download" tag="Gratuit" >}}
-{{< /cards >}}
+{{< app-details ids="885367198, 1097564256" >}}
 
 ## Tabel comparativ al funcțiilor
 

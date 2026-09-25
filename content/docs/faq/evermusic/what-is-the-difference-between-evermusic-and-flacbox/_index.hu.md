@@ -11,10 +11,7 @@ Az Evermusic és a Flacbox az Everappz két korszerű zenelejátszója iPhone-ra
 
 **Rövid válasz:** válaszd az **Evermusic**ot, ha a legsimább, mindenre kiterjedő hallgatásra, zökkenőmentes szünetmentes és áttűnéses átmenetekre, valamint az Apple Music-könyvtárad elérésére vágysz. Válaszd a **Flacbox**ot, ha audiofil vagy, aki mély hangformálást szeretne (effektállványt és DSP-láncot), választható professzionális audiomotort, valamint maximális hi-res és veszteségmentes formátumlefedettséget, beleértve a DSD-t, az APE-t és a WavPacket.
 
-{{< cards >}}
-  {{< card link="https://apps.apple.com/us/app/evermusic-cloud-music-player/id885367198" title="Evermusic letöltése" icon="download" tag="Ingyenes" >}}
-  {{< card link="https://apps.apple.com/us/app/flacbox-hi-res-music-player/id1097564256" title="Flacbox letöltése" icon="download" tag="Ingyenes" >}}
-{{< /cards >}}
+{{< app-details ids="885367198, 1097564256" >}}
 
 ## Funkció-összehasonlító táblázat
 

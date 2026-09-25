@@ -11,10 +11,7 @@ Evermusic ja Flacbox ovat kaksi Everappzin edistynyttä musiikkisoitinta iPhonel
 
 **Lyhyt vastaus:** valitse **Evermusic**, jos haluat sulavimman kaikkeen sopivan kuuntelun, saumattomat taukottomat ja ristihäivytetyt siirtymät sekä pääsyn Apple Music -kirjastoosi. Valitse **Flacbox**, jos olet audiofiili, joka haluaa syvällisen äänenmuokkauksen (efektitelineen ja DSP-ketjun), valittavan ammattimaisen äänimoottorin sekä maksimaalisen hi-res- ja häviöttömän formaattikattavuuden, mukaan lukien DSD, APE ja WavPack.
 
-{{< cards >}}
-  {{< card link="https://apps.apple.com/us/app/evermusic-cloud-music-player/id885367198" title="Lataa Evermusic" icon="download" tag="Ilmainen" >}}
-  {{< card link="https://apps.apple.com/us/app/flacbox-hi-res-music-player/id1097564256" title="Lataa Flacbox" icon="download" tag="Ilmainen" >}}
-{{< /cards >}}
+{{< app-details ids="885367198, 1097564256" >}}
 
 ## Ominaisuuksien vertailutaulukko
 
