@@ -83,26 +83,6 @@
         .interstitial { overflow-y: auto; -webkit-overflow-scrolling: touch; }
       }
 
-      /* Radiating "sonar" discs — concentric filled white circles, brightest at the
-         center and fading outward, echoing the app's RadiatingWaves (server-running
-         effect), like the device is broadcasting. Sits on the gradient, behind all
-         content. inset:0 (fills the fixed interstitial) so it never adds scroll. */
-      .interstitial::before {
-        content: "";
-        position: absolute;
-        inset: 0;
-        z-index: -1;
-        pointer-events: none;
-        background: radial-gradient(circle 78vh at 50% 42%,
-          rgba(255, 255, 255, 0.12) 0 14%,
-          rgba(255, 255, 255, 0.095) 14% 27%,
-          rgba(255, 255, 255, 0.07) 27% 41%,
-          rgba(255, 255, 255, 0.048) 41% 56%,
-          rgba(255, 255, 255, 0.03) 56% 72%,
-          rgba(255, 255, 255, 0.014) 72% 88%,
-          rgba(255, 255, 255, 0) 88%);
-      }
-
       /* ---- Top bar: Skip (right) ---- */
       .topbar {
         width: 100%;
@@ -396,7 +376,7 @@
         text-transform: uppercase;
         box-shadow: 0 4px 12px rgba(77, 157, 255, 0.4), inset 0 1px 0 rgba(255, 255, 255, 0.35);
       }
-      .trust { font-size: clamp(11.5px, 3.2vw, 13px); color: var(--hint); text-align: center; margin-top: 9px; }
+      .trust { font-size: clamp(10.5px, 3.2vw, 12px); color: var(--hint); text-align: center; margin-top: 9px; text-transform: uppercase; }
 
       /* ---- Keyframes ---- */
       @keyframes pop { 0% { opacity: 0; transform: scale(0.55) rotate(-8deg); } 70% { opacity: 1; transform: scale(1.04) rotate(1deg); } 100% { opacity: 1; transform: scale(1) rotate(0); } }

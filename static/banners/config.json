@@ -107,7 +107,7 @@
       "scheme": "lseverdisk",
       "bundleID": "com.leshko.airdrive",
       "version": 1,
-      "priority": "normal",
+      "priority": "high",
       "configPath": "everdisk_ios/config.json",
       "indexPath": "everdisk_ios/index.html"
     }
