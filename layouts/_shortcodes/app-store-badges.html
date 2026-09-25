@@ -39,7 +39,7 @@
   var LV={{ i18n "appVersion" }},LU={{ i18n "appUpdated" }};
   function pad(n){return String(n).padStart(2,'0');}
   function fmt(s){var d=new Date(s);return isNaN(d.getTime())?'':pad(d.getDate())+'.'+pad(d.getMonth()+1)+'.'+d.getFullYear();}
-  function lookup(id){return fetch('https://itunes.apple.com/lookup?id='+encodeURIComponent(id)+'&country=us').then(function(r){return r.json();}).then(function(j){return j.results&&j.results[0];}).catch(function(){return null;});}
+  function lookup(id){return fetch('https://itunes.apple.com/lookup?id='+encodeURIComponent(id)+'&country=us',{cache:'no-store'}).then(function(r){return r.json();}).then(function(j){return j.results&&j.results[0];}).catch(function(){return null;});}
   function fill(el){
     var ios=el.getAttribute('data-ios'),mac=el.getAttribute('data-mac');
     var out={},jobs=[];
