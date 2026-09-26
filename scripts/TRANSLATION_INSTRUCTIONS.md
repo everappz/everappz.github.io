@@ -25,7 +25,7 @@ Each translated file is an EXACT copy of the English original with ONLY these te
 - `tags:` — translate all tag values for local SEO
 - `features:` — translate the feature descriptions
 - `aliases:` — **REMOVE entirely** from translated files (do not keep, do not translate). Aliases in translations cause duplicate route conflicts in Hugo.
-- DO NOT translate: `date`, `draft`, `layout`, `headless`, `appStoreUrl`, `appStoreId`, `screenshots`, or any other technical frontmatter fields
+- DO NOT translate: `date`, `lastmod`, `draft`, `layout`, `headless`, `appStoreUrl`, `appStoreId`, `screenshots`, `readingTime`, or any other technical frontmatter fields (copy their values unchanged)
 
 ### Body Text
 - Hero badge `<span>` text (e.g., "14 Million Downloads")
@@ -51,12 +51,39 @@ By subscribing, you agree to our [Privacy Policy](/legal/privacy-policy) and acc
 - Translate the visible text: "By subscribing...", "Privacy Policy", "Terms and Conditions"
 - Keep the URL paths unchanged: `/legal/privacy-policy`, `/legal/terms-and-conditions/`
 
+## Numbers vs. Unit Words (IMPORTANT)
+
+Keep the numerals and the technical symbol units, but DO translate the spelled-out words around them. A common mistake is treating a whole phrase like "30 seconds" as a fixed value and leaving it in English — only the number is fixed, the word "seconds" must be localized.
+
+**Keep unchanged (numerals + symbol units):**
+- Digits: `30`, `500`, `120`, `10`, `8`
+- Symbol/abbreviated units: `kHz`, `Hz`, `dB`, `ms`, `bit` (as in `24-bit`), `×` (as in `0.02×–3.00×`), `LUFS`, `±`
+- Standard/spec names: `EBU R128`, `ITU BS.775-1`, `iOS 11`, `DSD64`
+
+**Translate the surrounding words:**
+- "30 seconds" → `30 secondes` (fr), `30 Sekunden` (de), `30秒` (ja), `30 de secunde` (ro)
+- "500 presets" → `500 presetów` (pl), `500 プリセット` (ja)
+- "1 to 7 channels" → translate "to" and "channels"
+- "±60 semitones" → keep `±60`, translate "semitones"
+- "10-band equalizer" → keep `10`, translate "band equalizer" naturally per language
+
+Rule of thumb: if a human would read a word aloud in their own language, translate it. If it's a digit or a symbol/abbreviation, keep it.
+
+## Writing Style (matches the English source)
+
+The English posts follow a specific readability style. Preserve it in every translation:
+
+1. **No em dashes (`—`) in prose.** Do not use the em dash inside paragraphs or sentences. The em dash is allowed ONLY inside bulleted list items that use the `- **Term** — description` pattern (translate the Term and the description, keep the ` — ` separator). Do not "invent" em dashes in translation even if the target language typically uses them for asides — rephrase with commas, parentheses, or a period.
+2. **Bold only in list items, never in paragraphs.** Bold (`**...**`) may appear only on the leading term of a list item. Do not add bold to words inside running paragraphs. The one exception is a lead-in label at the very start of a paragraph, such as `**TL;DR:**` / `**Short answer:**` — translate the label text (`**Resumen:**`, `**Kurzfassung:**`, `**要点:**`) and keep it bold, but add no other in-paragraph bold.
+3. **Keep the list/paragraph structure identical to English.** If English used a bulleted list, keep a bulleted list; if it used a numbered list, keep numbers. Don't merge lists into paragraphs or vice versa.
+
 ## What NOT to Translate or Modify
 
 ### Never Change
 - ALL `{{< rawhtml >}}...{{< /rawhtml >}}` blocks (CSS, JavaScript)
 - ALL `<style>...</style>` and `<script>...</script>` blocks
-- Shortcode names: `hextra/feature-card`, `hextra/hero-badge`, `hextra/section-headline`, `card`, `cards`, `lottie`, `force-dark`, `appstore-reviews`, `social-cards`, etc.
+- Shortcode names: `hextra/feature-card`, `hextra/hero-badge`, `hextra/section-headline`, `card`, `cards`, `lottie`, `force-dark`, `appstore-reviews`, `social-cards`, `author-byline`, `figure`, `app-details`, `app-store-badges`, etc.
+- The dynamic app card `{{< app-details product="..." >}}` (or `{{< app-details ids="..." >}}`) — keep it exactly as-is; it fetches live App Store data and has no translatable text
 - Shortcode parameter NAMES: `title=`, `subtitle=`, `icon=`, `style=`, `link=`, `image=`, `method=`, `options=`, `imageStyle=`, `lottie=`, `lottieWidth=`, `apps=`, `stars=`, `cols=`, `border=`
 - Product names: EVERAPPZ, Evervideo, Evermusic, Flacbox, Evertag, Everdisk
 - CSS classes (anything with `hx:`, `hextra-`, etc.)
